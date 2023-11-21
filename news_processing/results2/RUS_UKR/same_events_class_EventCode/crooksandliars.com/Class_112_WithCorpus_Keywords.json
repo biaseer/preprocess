@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220520+../news_crawling/RUS_UKR/p_articles/crooksandliars.com/Fox News Lies Says Biden Gave Putin Money To Invade Ukraine.txt+eventbasecode112+eventcode112+avgtone0.4429280397022335+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4367', 'biden:0.3534', 'news:0.326', 'fox:0.3215', 'report:0.3014', 'america:0.2847', 'rant:0.276', 'profit:0.2666', 'invade:0.261', 'blame:0.252', 'lies:0.2281', 'gouge:0.2185', 'bash:0.2056', 'covid:0.2008', 'wtf:0.188', 'scorn:0.1879', 'think:0.1874', 'know:0.185', 'charles:0.1752', 'problem:0.1713', 'gas:0.1702', 'like:0.1668', 'hurt:0.1665', 'cause:0.1623', 'drink:0.1586', 'page:0.1387', 'chain:0.1367', 'sure:0.1335', 'focus:0.1195', 'entire:0.077']+titles_keywords+['putin:0.4045', 'fox:0.3662', 'lies:0.2904', 'money:0.2157', 'invade:0.2006']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/crooksandliars.com/Russian Oligarchs Whining Is The Funniest Thing Ive Seen All Day.txt+eventbasecode112+eventcode112+avgtone0.49074074074074076+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4785', 'oligarch:0.4515', 'russian:0.4412', 'ukrainians:0.4254', 'whine:0.3484', 'oppression:0.3051', 'poor:0.2949', 'laughing:0.2423', 'report:0.2348', 'article:0.2297', 'feel:0.2273', 'petr:0.2238', 'aven:0.1859', 'say:0.1841', 'missile:0.1823', 'river:0.1822', 'hide:0.1822', 'learn:0.1813', 'fight:0.1808', 'business:0.1733', 'end:0.1485', 'head:0.1436', 'chauffeur:0.1305', 'upper:0.1232', 'completely:0.1117', 'alongside:0.1074', 'ive:0.0992', 'longer:0.0929', 'usd:0.0824', 'maybe:0.0479']+titles_keywords+['oligarchs:0.4241', 'russian:0.3744', 'whining:0.3353', 'funniest:0.3087', 'day:0.104']"
+        ],
+        [
+            "20220630+../news_crawling/RUS_UKR/p_articles/crooksandliars.com/Russian Forces Flee From Ukraines Snake Island On Speed Boats.txt+eventbasecode112+eventcode112+avgtone0.48048780487804876+goldsteinscale0.4+nummentions0.14985486211901305+numarticles0.1504713560551124+numsources0.12828947368421054+news_keywords+['ukraine:0.4504', 'island:0.3807', 'snake:0.3182', 'war:0.2958', 'troop:0.2912', 'occupy:0.2559', 'strategically:0.2441', 'surrender:0.2394', 'sunk:0.2284', 'withdrew:0.2283', 'moskva:0.2155', 'missile:0.2028', 'corridor:0.2013', 'zmiyinyy:0.1994', 'conclusion:0.171', 'port:0.159', 'coipdici:0.1458', 'fact:0.1447', 'encircle:0.1438', 'remember:0.1352', 'handful:0.1342', 'thursday:0.1278', 'resistance:0.1256', 'sure:0.1163', 'observer:0.1074', 'use:0.1069', 'eighteen:0.1048', 'ap:0.1043', 'agricultural:0.0869', 'whatsoever:0.0634']+titles_keywords+['ukraines:0.3538', 'island:0.3268', 'snake:0.2902', 'flee:0.2466', 'speed:0.1825']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/shanghainews.net/Five essential reads on RussiaAfrica relations.txt+eventbasecode61+eventcode61+avgtone0.49404761904761907+goldsteinscale0.82+nummentions0.04934687953555878+numarticles0.05003625815808557+numsources0.04276315789473684+news_keywords+['russiaafrica:0.4606', 'putin:0.4166', 'congo:0.3791', 'african:0.3047', 'sanctions:0.2943', 'treaty:0.2864', 'sochi:0.2824', 'kalashnikov:0.2411', 'ababa:0.2321', 'governance:0.2291', 'president:0.2271', 'ak:0.2221', 'relations:0.1945', 'power:0.1874', 'strategic:0.182', 'military:0.1533', 'expect:0.1366', 'import:0.1355', 'upcoming:0.1345', 'attend:0.1296', 'precursor:0.124', 'read:0.1224', 'summit:0.1091', 'warning:0.0874', 'aim:0.0822', 'factor:0.0793', 'grow:0.0791', 'fact:0.0748', 'numerous:0.0594', 'set:0.0583']+titles_keywords+['russiaafrica:0.5203', 'relations:0.2776', 'reads:0.1849', 'essential:0.1343']"
+        ]
+    ],
+    "RUS+UKR+61":[
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/shanghainews.net/McDonalds sells entire Russian operation due to Ukraine war.txt+eventbasecode61+eventcode61+avgtone0.48758865248226946+goldsteinscale0.82+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.029605263157894735+news_keywords+['mcdonald:0.4615', 'moscow:0.3772', 'franchisees:0.372', 'putin:0.3532', 'crisis:0.2794', 'operate:0.2606', 'invasion:0.2166', 'food:0.2093', 'buy:0.195', 'western:0.1912', 'country:0.1844', 'humanitarian:0.1788', 'future:0.1694', 'pushkin:0.1634', 'end:0.1516', 'leave:0.1496', 'million:0.1442', 'unclear:0.1434', 'chain:0.133', 'near:0.1327', 'impossible:0.1248', 'month:0.1222', 'bring:0.1172', 'square:0.1144', 'entire:0.0841', 'longer:0.0837', 'agree:0.0814', 'cold:0.0782', 'new:0.0753', 'message:0.0515']+titles_keywords+['ukraine:0.4204', 'mcdonalds:0.3697', 'operation:0.2547', 'sells:0.2365', 'entire:0.1216']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/shanghainews.net/Moscow suspects UK of seeking to infiltrate Black Sea.txt+eventbasecode61+eventcode61+avgtone0.47409909909909914+goldsteinscale0.82+nummentions0.06531204644412192+numarticles0.06598984771573604+numsources0.14473684210526316+news_keywords+['ukraine:0.4407', 'rossiya:0.3647', 'boris:0.3037', 'pretexts:0.2782', 'government:0.2694', 'divert:0.2687', 'supply:0.239', 'whitewashing:0.2377', 'urgent:0.2324', 'sea:0.2302', 'allegation:0.2202', 'crisis:0.2151', 'infiltrate:0.2133', 'block:0.1851', 'rail:0.1849', 'sense:0.1796', 'news:0.1764', 'safe:0.1687', 'action:0.165', 'neoliberal:0.1595', 'leave:0.1563', 'allow:0.1506', 'debate:0.1468', 'possible:0.1369', 'look:0.1345', 'clearly:0.1302', 'statement:0.1105', 'truss:0.0774', 'convulsion:0.0746', 'million:0.0654']+titles_keywords+['moscow:0.4022', 'suspects:0.2761', 'infiltrate:0.2615', 'sea:0.2222', 'black:0.1266']"
+        ]
+    ]
+}

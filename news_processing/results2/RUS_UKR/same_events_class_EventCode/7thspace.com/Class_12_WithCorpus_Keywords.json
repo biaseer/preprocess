@@ -1,0 +1,12 @@
+{
+    "AFR+UKR+12":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/7thspace.com/South Africa Escalating UkraineRussia conflict a concern for SA.txt+eventbasecode12+eventcode12+avgtone0.49471830985915494+goldsteinscale0.48+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['diplomacy:0.4441', 'ukraine:0.3876', 'conflict:0.353', 'escalation:0.3049', 'sa:0.2993', 'humanitarian:0.2643', 'involve:0.2263', 'concern:0.2097', 'organisation:0.1988', 'reprimand:0.1771', 'current:0.1764', 'matter:0.1759', 'bring:0.1688', 'remain:0.1668', 'extend:0.1666', 'law:0.1658', 'implication:0.1636', 'vote:0.1542', 'merely:0.1526', 'prevent:0.1492', 'divergence:0.1491', 'addressed:0.1488', 'table:0.1465', 'text:0.1433', 'resolution:0.1397', 'equal:0.132', 'agree:0.1151', 'matu:0.1136', 'general:0.1124', 'assembly:0.1118']+titles_keywords+['sa:0.3938', 'ukrainerussia:0.3551', 'conflict:0.3397', 'escalating:0.2984', 'concern:0.2679']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/7thspace.com/RTHK Russias Lavrov warns of real danger of world war.txt+eventbasecode12+eventcode12+avgtone0.4726890756302521+goldsteinscale0.48+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.006578947368421052+news_keywords+['ukraine:0.4299', 'negotiation:0.3642', 'lavrov:0.3422', 'war:0.3288', 'rthk:0.2396', 'engage:0.2379', 'tension:0.2101', 'warn:0.2078', 'volodymyr:0.196', 'news:0.1944', 'president:0.1797', 'afp:0.1734', 'read:0.1696', 'contact:0.1379', 'contradiction:0.1374', 'continue:0.1363', 'accord:0.1357', 'good:0.1291', 'world:0.129', 'reciprocal:0.1136', 'course:0.1133', 'moment:0.1119', 'confident:0.1109', 'current:0.0969', 'interfax:0.0771', 'parameter:0.0658', 'thousand:0.0645', 'attentively:0.0477', 'add:0.0435', 'define:0.0311']+titles_keywords+['lavrov:0.5177', 'war:0.3354', 'warns:0.2989', 'rthk:0.2983', 'russias:0.2832']"
+        ]
+    ]
+}

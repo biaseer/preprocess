@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+73":[
+        [
+            "20220710+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Canadian govt comes to Germanys rescue to secure Russian gas amid scarcity.txt+eventbasecode73+eventcode73+avgtone0.47386759581881527+goldsteinscale0.8699999999999999+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4319', 'pipeline:0.4041', 'gas:0.322', 'gazprom:0.2847', 'supply:0.2816', 'reuters:0.2589', 'economy:0.2556', 'canadian:0.2312', 'nord:0.218', 'ottawa:0.2139', 'govt:0.2125', 'siemens:0.2086', 'secure:0.1563', 'maintenance:0.1544', 'block:0.1538', 'reduce:0.1426', 'dispute:0.1407', 'approach:0.1373', 'despite:0.1277', 'rescue:0.1258', 'continue:0.1246', 'monopoly:0.1189', 'returned:0.1027', 'aside:0.0975', 'month:0.0802', 'accord:0.0758', 'ability:0.0758', 'come:0.0756', 'evening:0.0747', 'set:0.0544']+titles_keywords+['germanys:0.3463', 'gas:0.3252', 'russian:0.2761', 'rescue:0.2439', 'govt:0.2106']"
+        ]
+    ],
+    "UKR+RUS+73":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/indiatimes.com/EU sends Ukraine medical emergency equipment amid fears of Russian invasion.txt+eventbasecode73+eventcode73+avgtone0.4642857142857143+goldsteinscale0.8699999999999999+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4876', 'emergency:0.3845', 'eu:0.3841', 'aid:0.3588', 'invasion:0.2946', 'deploy:0.2791', 'escalation:0.2756', 'hospital:0.2708', 'protection:0.2341', 'supply:0.2146', 'coordinate:0.2039', 'equipment:0.1933', 'civilian:0.1883', 'imminent:0.1828', 'government:0.18', 'expect:0.1691', 'union:0.166', 'additional:0.1635', 'send:0.1546', 'coming:0.1347', 'saturday:0.1202', 'response:0.1121', 'tent:0.1076', 'follow:0.1053', 'sleep:0.0828', 'population:0.0805', 'essential:0.0743', 'mechanism:0.069', 'far:0.059', 'say:0.0306']+titles_keywords+['ukraine:0.4132', 'emergency:0.2993', 'invasion:0.2845', 'equipment:0.2208', 'fears:0.1671']"
+        ]
+    ]
+}

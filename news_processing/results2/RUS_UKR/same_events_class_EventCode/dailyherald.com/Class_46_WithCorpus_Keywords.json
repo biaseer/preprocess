@@ -1,0 +1,12 @@
+{
+    "CHE+RUS+46":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/dailyherald.com/Live updates Zelenskyy addresses French parliament.txt+eventbasecode46+eventcode46+avgtone0.4782874617737003+goldsteinscale0.85+nummentions0.20065312046444123+numarticles0.20123277737490936+numsources0.18421052631578946+news_keywords+['ukraine:0.4804', 'kremlin:0.4269', 'nemtsov:0.3795', 'war:0.3193', 'diplomatic:0.314', 'oligarch:0.3116', 'news:0.2933', 'zelenskyy:0.2916', 'cyberattacks:0.2837', 'disrupt:0.2741', 'emergency:0.2649', 'separatist:0.2602', 'boycott:0.2303', 'agreement:0.2267', 'worry:0.225', 'preside:0.2186', 'translation:0.2145', 'briefed:0.2091', 'continue:0.1982', 'rhetoric:0.1949', 'reorganize:0.1934', 'thursday:0.1932', 'visit:0.1919', 'submit:0.1878', 'long:0.1608', 'list:0.1524', 'nearly:0.1482', 'stem:0.1477', 'welcome:0.1235', 'sixteen:0.111']+titles_keywords+['zelenskyy:0.4895', 'parliament:0.3185', 'updates:0.2231', 'french:0.1961', 'live:0.1765']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220204+../news_crawling/RUS_UKR/p_articles/dailyherald.com/French German leaders to visit Russia Ukraine amid tension.txt+eventbasecode46+eventcode46+avgtone0.4858342077649528+goldsteinscale0.85+nummentions0.21407837445573294+numarticles0.21464829586656997+numsources0.29276315789473684+news_keywords+['putin:0.4585', 'geopolitics:0.4374', 'nato:0.396', 'macron:0.3588', 'kyiv:0.34', 'escalation:0.3105', 'invade:0.3055', 'mediate:0.3043', 'meeting:0.2821', 'disinformation:0.2756', 'crisis:0.25', 'olympics:0.2358', 'concern:0.2298', 'visit:0.2193', 'expand:0.2174', 'read:0.2003', 'french:0.1774', 'plan:0.1749', 'report:0.1705', 'troop:0.1696', 'week:0.1629', 'emphasize:0.1626', 'pretext:0.1554', 'forward:0.1495', 'elaborate:0.1395', 'long:0.1292', 'separate:0.1291', 'reject:0.1198', 'major:0.0975', 'possible:0.0959']+titles_keywords+['ukraine:0.3267', 'leaders:0.1811', 'german:0.18', 'visit:0.1621', 'tension:0.0671']"
+        ]
+    ]
+}

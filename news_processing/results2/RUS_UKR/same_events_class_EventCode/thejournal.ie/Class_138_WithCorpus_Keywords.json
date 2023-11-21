@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+138":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/thejournal.ie/Kyiv rejects Moscowproposed humanitarian corridors to Belarus and Russia.txt+eventbasecode138+eventcode138+avgtone0.47455089820359275+goldsteinscale0.15+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.5481', 'ukraines:0.4822', 'ceasefires:0.4449', 'evacuation:0.394', 'putin:0.3885', 'refugees:0.3333', 'corridor:0.3278', 'invade:0.2838', 'negotiation:0.2696', 'border:0.2484', 'vereshchuk:0.2378', 'osce:0.2326', 'safe:0.2061', 'inform:0.1892', 'iryna:0.1866', 'civilian:0.1812', 'reject:0.1801', 'plane:0.1745', 'neutralise:0.1688', 'prepare:0.1582', 'sure:0.1461', 'open:0.1434', 'strictly:0.143', 'article:0.1342', 'official:0.132', 'end:0.124', 'gmt:0.1099', 'like:0.0963', 'paywalls:0.0848', 'set:0.0835']+titles_keywords+['kyiv:0.541', 'belarus:0.4086', 'corridors:0.312', 'humanitarian:0.2845', 'rejects:0.1808']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/thejournal.ie/The 5 at 5 Five minutes five stories five oclock.txt+eventbasecode138+eventcode138+avgtone0.48+goldsteinscale0.15+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4458', 'concern:0.3286', 'hospitaltaoiseach:0.3213', 'government:0.3203', 'news:0.2941', 'maternity:0.2868', 'contribution:0.2722', 'charity:0.2704', 'planned:0.2615', 'bleed:0.2574', 'mishandle:0.253', 'relocation:0.2473', 'coffee:0.2467', 'story:0.2464', 'secondment:0.2367', 'impose:0.233', 'sisters:0.2294', 'committeemembers:0.2171', 'away:0.2125', 'eventthere:0.2096', 'weekend:0.2054', 'trial:0.204', 'regardless:0.1993', 'watt:0.1977', 'say:0.1961', 'robert:0.1801', 'ability:0.1776', 'paywalls:0.1711', 'seriously:0.1514', 'sure:0.1482']+titles_keywords+['oclock:0.3661', 'minutes:0.3408', 'stories:0.212']"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "BEL+UKR+72":[
+        [
+            "20220625+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Putin defends Russias stance on global food crisis.txt+eventbasecode72+eventcode72+avgtone0.4618320610687022+goldsteinscale0.915+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['putin:0.5652', 'ukraine:0.4323', 'moscows:0.3911', 'brics:0.3591', 'destabilise:0.2568', 'sanction:0.2484', 'crisis:0.2449', 'afp:0.2334', 'agricultural:0.2312', 'develop:0.2175', 'market:0.2147', 'blame:0.2112', 'global:0.2019', 'bring:0.1584', 'barrage:0.155', 'fulfil:0.1522', 'export:0.1512', 'bread:0.144', 'unbalance:0.1431', 'address:0.1405', 'say:0.1339', 'rising:0.1305', 'ready:0.114', 'unprecedented:0.1137', 'february:0.1118', 'necessary:0.1075', 'population:0.0984', 'surround:0.0913', 'price:0.0871', 'plus:0.0281']+titles_keywords+['putin:0.4654', 'food:0.2322', 'crisis:0.1733', 'defends:0.165', 'global:0.1323']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Russia to stage massive nuclear drills amid Ukraine standoff.txt+eventbasecode72+eventcode72+avgtone0.48731884057971014+goldsteinscale0.915+nummentions0.08853410740203194+numarticles0.08919506889050036+numsources0.09868421052631579+news_keywords+['kremlin:0.4387', 'nato:0.4376', 'icbms:0.4221', 'crimean:0.4158', 'ukraines:0.4122', 'nuclear:0.3829', 'war:0.3525', 'invade:0.3453', 'maneuver:0.3047', 'peskov:0.3047', 'prepare:0.2906', 'troop:0.2861', 'standoff:0.2765', 'plan:0.2466', 'drill:0.2351', 'exercise:0.2268', 'coincide:0.213', 'concern:0.2071', 'president:0.1938', 'notify:0.1759', 'supervise:0.1722', 'north:0.1563', 'thursday:0.1533', 'ap:0.1513', 'pull:0.1451', 'continue:0.1387', 'previous:0.1263', 'actually:0.0825', 'series:0.0723', 'doesnt:0.047']+titles_keywords+['ukraine:0.3177', 'nuclear:0.3156', 'drills:0.284', 'standoff:0.2291', 'stage:0.1303']"
+        ],
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Russia killed over 600 Ukrainian fighters in artillery strikes ministry.txt+eventbasecode72+eventcode72+avgtone0.47931034482758617+goldsteinscale0.915+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4845', 'russian:0.3858', 'artillery:0.3321', 'kill:0.3086', 'mykolaiv:0.2779', 'nationalist:0.259', 'armed:0.2502', 'operation:0.2428', 'reuters:0.2232', 'troop:0.2221', 'federation:0.1836', 'strike:0.1834', 'sanction:0.165', 'dangerous:0.1644', 'airfield:0.1615', 'continue:0.1539', 'west:0.146', 'withdraw:0.1437', 'resistance:0.1387', 'people:0.1297', 'degrade:0.1264', 'position:0.1224', 'say:0.1211', 'neighbour:0.1156', 'send:0.1117', 'fighter:0.1026', 'thursday:0.0951', 'thousand:0.089', 'mount:0.0593', 'large:0.0491']+titles_keywords+['ukrainian:0.3836', 'artillery:0.2915', '600:0.2774', 'fighters:0.2136', 'killed:0.1486']"
+        ]
+    ],
+    "WST+RUS+72":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/NATO warns Russia readying for fullscale attack on Ukraine.txt+eventbasecode72+eventcode72+avgtone0.4689922480620155+goldsteinscale0.915+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['crimea:0.485', 'nato:0.4702', 'ukraines:0.457', 'putin:0.3789', 'invade:0.3591', 'prepare:0.2631', 'separatist:0.2586', 'troop:0.2534', 'warn:0.2258', 'breakaway:0.2054', 'ally:0.1891', 'flank:0.1766', 'urgent:0.1656', 'strike:0.1532', 'continue:0.1531', 'western:0.1517', 'tension:0.1437', 'develop:0.1427', 'meeting:0.1154', 'people:0.1118', 'additional:0.1085', 'recognise:0.1076', 'state:0.1057', 'week:0.1031', 'drawn:0.1012', 'depend:0.0913', 'rewrite:0.0907', 'stoltenberg:0.0789', 'thousand:0.0464', 'fullscale:0.0279']+titles_keywords+['nato:0.4039', 'readying:0.2429', 'attack:0.2239', 'warns:0.2076', 'fullscale:0.1632']"
+        ]
+    ]
+}

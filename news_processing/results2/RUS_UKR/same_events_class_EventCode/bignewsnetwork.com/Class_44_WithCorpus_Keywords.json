@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+44":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Ukrainian flag removed from embassy in Moscow Reports.txt+eventbasecode44+eventcode44+avgtone0.49375+goldsteinscale0.625+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.02631578947368421+news_keywords+['ukraine:0.4992', 'moscow:0.4597', 'putin:0.4081', 'vladimir:0.3751', 'consulate:0.3308', 'flag:0.3131', 'diplomatic:0.3122', 'flagpole:0.289', 'conflict:0.241', 'sputnik:0.2379', 'republic:0.1948', 'military:0.1913', 'operation:0.1904', 'delegation:0.1852', 'border:0.1806', 'news:0.1788', 'ongoing:0.1734', 'dismantle:0.1689', 'report:0.1623', 'march:0.1385', 'end:0.1372', 'sign:0.1321', 'work:0.1297', 'entrance:0.1288', 'state:0.1245', 'day:0.1137', 'breakaway:0.1125', 'gomel:0.0917', 'second:0.0767', 'ani:0.0268']+titles_keywords+['moscow:0.4398', 'ukrainian:0.4134', 'flag:0.3179', 'embassy:0.3122', 'removed:0.2089']"
+        ]
+    ],
+    "RUS+USA+44":[
+        [
+            "20211226+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Putin to Mull Options if West Doesnt Meet Security Demands.txt+eventbasecode44+eventcode44+avgtone0.48592715231788075+goldsteinscale0.625+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['crimea:0.496', 'putin:0.4892', 'nato:0.4257', 'escalation:0.2919', 'sputnikmikhail:0.2864', 'threaten:0.2626', 'occupy:0.2421', 'deployment:0.2261', 'convene:0.212', 'separatist:0.205', 'option:0.2038', 'shortly:0.1764', 'continue:0.174', 'clarification:0.1712', 'news:0.1661', 'submit:0.1609', 'drill:0.1515', 'state:0.1401', 'monthlong:0.1345', 'discus:0.128', 'secretary:0.1279', 'say:0.126', 'contrary:0.1257', 'format:0.1212', 'stoltenberg:0.1182', 'prelude:0.1181', 'unworkable:0.1121', 'include:0.1011', 'afield:0.1011', 'measure:0.0884']+titles_keywords+['putin:0.4548', 'options:0.221', 'west:0.0818', 'mull:0.0812', 'doesnt:-0.009']"
+        ]
+    ]
+}

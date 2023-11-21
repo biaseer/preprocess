@@ -1,0 +1,17 @@
+{
+    "EUR+UKR+20":[
+        [
+            "20220613+../news_crawling/RUS_UKR/p_articles/britainnews.net/Zelenskyy Expects Increase in Russian Hostility Ahead of EU Vote.txt+eventbasecode20+eventcode20+avgtone0.4817275747508305+goldsteinscale0.65+nummentions0.021407837445573296+numarticles0.022117476432197244+numsources0.02631578947368421+news_keywords+['kyiv:0.5019', 'nato:0.3852', 'zelenskyy:0.3837', 'russians:0.3801', 'evacuation:0.2848', 'sievierodonetsk:0.2554', 'boris:0.2487', 'prepare:0.2419', 'victory:0.2294', 'long:0.2264', 'news:0.2252', 'logistics:0.2143', 'thursday:0.197', 'union:0.1964', 'tank:0.195', 'continue:0.1913', 'fighting:0.1851', 'analysts:0.1848', 'kilometer:0.1831', 'appear:0.1722', 'increase:0.1715', 'note:0.1611', 'lie:0.1528', 'candidate:0.1387', 'general:0.1374', 'mood:0.134', 'receive:0.1335', 'focus:0.1275', 'make:0.1243', 'prime:0.0928']+titles_keywords+['zelenskyy:0.5185', 'russian:0.3397', 'hostility:0.3027', 'eu:0.1756', 'increase:0.1622']"
+        ]
+    ],
+    "GBR+UKR+20":[
+        [
+            "20211209+../news_crawling/RUS_UKR/p_articles/britainnews.net/Ukraine willing to make concessions to Russia foreign minister.txt+eventbasecode20+eventcode20+avgtone0.48161764705882354+goldsteinscale0.65+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4722', 'kremlin:0.4195', 'dmitry:0.3785', 'nato:0.3505', 'peskov:0.3471', 'compromise:0.3281', 'zelensky:0.2516', 'border:0.1782', 'accession:0.1668', 'allegation:0.1579', 'continue:0.1511', 'oppose:0.1495', 'speaking:0.1446', 'president:0.143', 'reciprocate:0.137', 'long:0.1366', 'issue:0.1361', 'fear:0.1326', 'news:0.1309', 'relation:0.1284', 'happen:0.1241', 'happy:0.1182', 'ready:0.1142', 'integration:0.1125', 'legitimate:0.1011', 'suggest:0.0982', 'importance:0.0825', 'normalized:0.0643', 'wednesday:0.057', 'lot:0.0525']+titles_keywords+['ukraine:0.4168', 'concessions:0.3028', 'willing:0.2321', 'minister:0.1239', 'make:0.0656']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/britainnews.net/Russia to reap huge profits from energy exports media.txt+eventbasecode20+eventcode20+avgtone0.4838187702265372+goldsteinscale0.65+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.023026315789473683+news_keywords+['russia:0.4884', 'ruble:0.4331', 'kremlin:0.4021', 'vladimir:0.308', 'supply:0.3032', 'embargo:0.2953', 'profit:0.2533', 'bloomberg:0.2337', 'output:0.23', 'import:0.2062', 'gas:0.2032', 'skyrocket:0.1994', 'report:0.1867', 'global:0.183', 'current:0.178', 'analysis:0.161', 'barrel:0.1579', 'continue:0.1241', 'billion:0.1239', 'estimate:0.1181', 'inflow:0.117', 'substantial:0.1131', 'march:0.1096', 'set:0.0773', 'compare:0.0721', 'track:0.0694', 'highlight:0.0659', 'iff:0.0605', 'accord:0.0481', 'unfriendly:0.0432']+titles_keywords+['russia:0.4198', 'profits:0.3314', 'exports:0.3177', 'media:0.2403', 'huge:0.092']"
+        ]
+    ]
+}

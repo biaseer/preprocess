@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+42":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/latimes.com/How to find cheap gas in Southern California.txt+eventbasecode42+eventcode42+avgtone0.49099099099099097+goldsteinscale0.595+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['gasoline:0.3746', 'california:0.3732', 'gasbuddy:0.3657', 'cheapest:0.3272', 'google:0.3233', 'maps:0.2795', 'los:0.2753', 'mobil:0.1969', 'station:0.1951', 'neighbor:0.1936', 'southern:0.1901', 'supply:0.1877', 'russias:0.1781', 'geicos:0.1763', 'tank:0.1763', 'drive:0.1657', 'county:0.1641', 'global:0.1606', 'accord:0.1568', 'report:0.1315', 'prepay:0.1227', 'low:0.1195', 'july:0.1053', 'sign:0.0918', 'sort:0.0829', 'online:0.0818', 'include:0.0579', 'spike:0.0562', 'pandemic:0.0384', 'choose:0.0383']+titles_keywords+['gas:0.3997', 'california:0.3807', 'cheap:0.366', 'southern:0.1903']"
+        ],
+        [
+            "20220717+../news_crawling/RUS_UKR/p_articles/latimes.com/Russia strikes south Ukraine city presses attacks in east Zelensky fires security chief prosecutor.txt+eventbasecode42+eventcode42+avgtone0.4797507788161994+goldsteinscale0.595+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.006578947368421052+news_keywords+['crimea:0.4884', 'russias:0.4148', 'putin:0.4139', 'nato:0.3599', 'war:0.3471', 'demilitarize:0.3418', 'strike:0.2897', 'zelensky:0.2823', 'artillery:0.2363', 'separatist:0.2352', 'proceeding:0.2344', 'valentina:0.2281', 'survive:0.2269', 'infrastructure:0.2208', 'know:0.2174', 'lyudmila:0.2146', 'cite:0.2018', 'deliver:0.1876', 'note:0.1691', 'operational:0.1633', 'eastern:0.1548', 'donbas:0.1431', 'state:0.1301', 'th:0.1279', 'compare:0.1237', 'deep:0.121', 'boy:0.1191', 'replace:0.1159', 'syndrome:0.102', 'theres:0.0663']+titles_keywords+['zelensky:0.4645', 'ukraine:0.3015', 'attacks:0.2081', 'fires:0.1851', 'prosecutor:0.1124']"
+        ]
+    ]
+}

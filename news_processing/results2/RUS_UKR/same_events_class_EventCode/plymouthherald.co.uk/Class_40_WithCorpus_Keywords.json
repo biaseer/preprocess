@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+40":[
+        [
+            "20220417+../news_crawling/RUS_UKR/p_articles/plymouthherald.co.uk/Ukraine morning briefing Austrian leader believes Putin thinks he is winning war.txt+eventbasecode40+eventcode40+avgtone0.4742138364779874+goldsteinscale0.55+nummentions0.05551523947750363+numarticles0.05620014503263234+numsources0.049342105263157895+news_keywords+['ukraine:0.5132', 'putin:0.4507', 'diplomacy:0.3497', 'briefing:0.3387', 'terekhov:0.3099', 'infrastructure:0.3039', 'veterans:0.2713', 'journalist:0.2663', 'zelensky:0.2633', 'blockade:0.258', 'rebuild:0.2434', 'displaced:0.235', 'resume:0.2183', 'battle:0.2168', 'future:0.2125', 'pivot:0.205', 'task:0.204', 'mayor:0.1935', 'report:0.192', 'bucha:0.1738', 'arrive:0.1689', 'partner:0.1566', 'safe:0.1526', 'house:0.1513', 'say:0.1493', 'follow:0.1466', 'flagship:0.1436', 'huge:0.1351', 'nearly:0.1297', 'doesnt:0.0403']+titles_keywords+['putin:0.4523', 'austrian:0.3138', 'winning:0.2581', 'briefing:0.2227', 'believes:0.1849']"
+        ]
+    ],
+    "GBR+UKR+40":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/plymouthherald.co.uk/Emergency meeting of UK Cabinet to be held over horrific attacks in Ukraine.txt+eventbasecode40+eventcode40+avgtone0.46919431279620855+goldsteinscale0.55+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.023026315789473683+news_keywords+['putin:0.4866', 'kyiv:0.4411', 'nato:0.4105', 'russias:0.3972', 'demilitarisation:0.3504', 'bloodshed:0.3351', 'attack:0.3256', 'unprovoked:0.286', 'flag:0.2646', 'warn:0.2606', 'sanction:0.2604', 'emergency:0.2514', 'narrative:0.2504', 'interfere:0.2307', 'respond:0.2241', 'horrific:0.2128', 'fool:0.2002', 'downing:0.1886', 'forget:0.1873', 'televise:0.1839', 'cobra:0.1633', 'cabinet:0.1617', 'people:0.1546', 'spokesperson:0.1513', 'tomorrow:0.139', 'false:0.1347', 'area:0.1339', 'straight:0.1154', 'finish:0.1153', 'reach:0.1021']+titles_keywords+['meeting:0.3655', 'ukraine:0.3404', 'emergency:0.3403', 'attacks:0.2609', 'cabinet:0.2337']"
+        ]
+    ]
+}

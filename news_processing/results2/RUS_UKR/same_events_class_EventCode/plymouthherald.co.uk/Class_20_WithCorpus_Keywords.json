@@ -1,0 +1,22 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/plymouthherald.co.uk/Households urged to turn down thermostats by 1C to help defeat Russia.txt+eventbasecode20+eventcode20+avgtone0.5012562814070352+goldsteinscale0.65+nummentions0.04245283018867924+numarticles0.04314720812182741+numsources0.03618421052631579+news_keywords+['thermostat:0.3972', 'russias:0.3691', 'gas:0.3172', 'celsius:0.2839', 'winter:0.2828', 'nuclear:0.2546', 'supply:0.2497', 'vladimir:0.2421', 'uk:0.2351', 'enact:0.227', 'households:0.207', 'lowering:0.201', 'alternative:0.1971', 'political:0.1865', 'bioenergy:0.1862', 'turn:0.1734', 'plan:0.1726', 'newsletter:0.1667', 'sign:0.1591', 'benefit:0.145', 'maximise:0.1445', 'degree:0.143', 'uswitch:0.1337', 'end:0.1246', 'soon:0.0998', 'say:0.0824', 'story:0.0783', 'billion:0.0752', 'possible:0.046', 'add:0.0449']+titles_keywords+['thermostats:0.5225', 'russia:0.3306', 'households:0.2198', '1c:0.1315', 'turn:0.1008']"
+        ]
+    ],
+    "POL+RUS+20":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/plymouthherald.co.uk/Johnson helping Ukraine more thanks to British public pressure Zelensky says.txt+eventbasecode20+eventcode20+avgtone0.4838107098381071+goldsteinscale0.65+nummentions0.2144412191582003+numarticles0.21501087744742567+numsources0.3223684210526316+news_keywords+['putin:0.4695', 'ukraines:0.4361', 'nato:0.4033', 'invade:0.3205', 'govern:0.2358', 'escalation:0.2325', 'argue:0.2271', 'peace:0.208', 'volodymyr:0.2079', 'warn:0.1997', 'troop:0.1837', 'logistically:0.1812', 'react:0.1795', 'clarify:0.177', 'row:0.1737', 'want:0.1727', 'feed:0.1581', 'secretary:0.1573', 'north:0.1569', 'hesitant:0.1556', 'powerful:0.1459', 'ready:0.1335', 'end:0.127', 'alternative:0.1207', 'deep:0.118', 'unlike:0.0959', 'antony:0.0913', 'house:0.0838', 'second:0.0758', 'today:0.0458']+titles_keywords+['zelensky:0.4409', 'ukraine:0.3697', 'johnson:0.2798', 'british:0.1875', 'helping:0.1351']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/plymouthherald.co.uk/UK to end all imports of Russian coal and oil by end of year.txt+eventbasecode20+eventcode20+avgtone0.4648972602739726+goldsteinscale0.65+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.04276315789473684+news_keywords+['putin:0.4971', 'kyiv:0.4232', 'sanction:0.3385', 'war:0.3006', 'parliament:0.2647', 'report:0.2493', 'block:0.2418', 'nazification:0.238', 'climate:0.2101', 'order:0.2084', 'secretary:0.2081', 'combine:0.2077', 'end:0.2077', 'information:0.2033', 'context:0.1905', 'banking:0.1799', 'forward:0.1789', 'bucha:0.1785', 'commit:0.1768', 'toxic:0.172', 'import:0.1699', 'soon:0.1678', 'strip:0.1629', 'prevails:0.1603', 'say:0.1602', 'underprepared:0.1591', 'measure:0.1359', 'similar:0.1342', 'big:0.1264', 'new:0.1198']+titles_keywords+['coal:0.3253', 'russian:0.268', 'end:0.1718', 'imports:0.1687', 'year:0.079']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/plymouthherald.co.uk/Campaign calls on Aldi Lidl Tesco and others to change name of Chicken Kiev.txt+eventbasecode20+eventcode20+avgtone0.5009842519685039+goldsteinscale0.65+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.039473684210526314+news_keywords+['kiev:0.5511', 'chickenkyiv:0.4123', 'soviet:0.3294', 'cookforukraine:0.3264', 'chicken:0.3148', 'rename:0.2699', 'change:0.2335', 'sainsbury:0.1874', 'crisis:0.174', 'chiavarini:0.1533', 'dish:0.1519', 'journalist:0.143', 'war:0.1399', 'organisation:0.1331', 'know:0.128', 'portico:0.124', 'make:0.1236', 'marks:0.1231', 'happen:0.122', 'pronunciation:0.1213', 'bring:0.105', 'mrs:0.1016', 'artisan:0.0947', 'big:0.0924', 'farmison:0.0908', 'th:0.0906', 'tweet:0.0865', 'derive:0.0733', 'daily:0.0611', 'new:0.0483']+titles_keywords+['aldi:0.4723', 'kiev:0.3929', 'chicken:0.3357', 'change:0.2022', 'campaign:0.149']"
+        ]
+    ]
+}

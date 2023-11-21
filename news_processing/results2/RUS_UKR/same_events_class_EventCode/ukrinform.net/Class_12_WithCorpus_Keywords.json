@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+12":[
+        [
+            "20210924+../news_crawling/RUS_UKR/p_articles/ukrinform.net/EU backs opening of OSCEs forward patrol bases near Ukraines border with Russia.txt+eventbasecode12+eventcode12+avgtone0.49385245901639346+goldsteinscale0.48+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.4928', 'ukraines:0.4162', 'osce:0.3704', 'border:0.3128', 'eu:0.2945', 'peaceful:0.2619', 'military:0.2466', 'gukovo:0.2275', 'correspondent:0.2225', 'uavs:0.2188', 'agreement:0.1908', 'concerned:0.1779', 'union:0.1779', 'aggression:0.1743', 'report:0.1533', 'near:0.1505', 'end:0.1498', 'remain:0.1492', 'forward:0.1487', 'order:0.1396', 'step:0.1391', 'ukrinform:0.1375', 'smms:0.1317', 'observation:0.1276', 'read:0.1228', 'underline:0.105', 'long:0.0983', 'arm:0.0942', 'resolution:0.0652', 'state:0.0625']+titles_keywords+['ukraines:0.3886', 'osces:0.3076', 'patrol:0.2289', 'forward:0.1779', 'near:0.1368']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220620+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Russias blockade of Ukrainian grain exports war crime Borrell.txt+eventbasecode12+eventcode12+avgtone0.46527777777777773+goldsteinscale0.48+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['blockade:0.4546', 'ukraine:0.4459', 'russias:0.3963', 'war:0.3897', 'aggression:0.2834', 'impose:0.2711', 'crime:0.2661', 'diplomat:0.2645', 'rout:0.2515', 'consequence:0.2492', 'grain:0.2461', 'shortage:0.2264', 'dramatic:0.1971', 'precisely:0.1732', 'inconceivable:0.1669', 'world:0.1669', 'suffer:0.1665', 'trade:0.1628', 'union:0.1511', 'long:0.1482', 'ahead:0.1428', 'navigation:0.1418', 'export:0.141', 'obstacle:0.1392', 'fact:0.1364', 'black:0.1126', 'area:0.1125', 'target:0.1031', 'speak:0.0969', 'million:0.0905']+titles_keywords+['blockade:0.4874', 'russias:0.4174', 'crime:0.3703', 'grain:0.3258', 'borrell:0.2056']"
+        ]
+    ]
+}

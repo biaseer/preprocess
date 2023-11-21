@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+50":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/dnaindia.com/President Vladimir Putin urges Ukrainian military to take control to better negotiate with Russia.txt+eventbasecode50+eventcode50+avgtone0.5221238938053098+goldsteinscale0.675+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.548', 'ukraine:0.4863', 'vladimir:0.428', 'russias:0.4124', 'nationalist:0.3185', 'invasion:0.2806', 'military:0.2698', 'negotiate:0.2294', 'agreement:0.193', 'power:0.1917', 'control:0.1745', 'seize:0.1712', 'source:0.1619', 'urge:0.1616', 'bravely:0.1554', 'allow:0.1529', 'radical:0.146', 'professionally:0.14', 'arm:0.1357', 'say:0.129', 'child:0.1228', 'council:0.1194', 'ist:0.112', 'easier:0.1096', 'shield:0.1079', 'televised:0.1065', 'updated:0.1048', 'feb:0.0887', 'neo:0.0818', 'day:0.0568']+titles_keywords+['putin:0.402', 'negotiate:0.248', 'military:0.2106', 'control:0.207', 'better:0.0953']"
+        ]
+    ],
+    "RUS+UKR+50":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/dnaindia.com/No Russia is not losing Ukraine.txt+eventbasecode50+eventcode50+avgtone0.4691860465116279+goldsteinscale0.675+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.046052631578947366+news_keywords+['ukraine:0.4752', 'putin:0.4358', 'natos:0.3704', 'ceasefire:0.3499', 'zelenskyy:0.3252', 'diplomatic:0.3179', 'invade:0.2831', 'translate:0.2765', 'briefing:0.2733', 'history:0.2588', 'predict:0.2527', 'cite:0.2363', 'consequence:0.2327', 'know:0.2215', 'term:0.2095', 'breakthrough:0.2081', 'combine:0.2081', 'hurl:0.1845', 'continue:0.1822', 'navigation:0.181', 'theatrics:0.1757', 'long:0.1728', 'paediatrics:0.1552', 'casualty:0.1532', 'isnt:0.1486', 'flip:0.1467', 'fetched:0.1413', 'spheres:0.1381', 'degrade:0.1193', 'mercurial:0.0704']+titles_keywords+['ukraine:0.4252', 'losing:0.38', 'russia:0.3065']"
+        ]
+    ]
+}

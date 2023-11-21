@@ -1,0 +1,12 @@
+{
+    "FRA+UKR+40":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/geo.tv/Putin orders Russian troops to Ukraine after recognising breakaway regions.txt+eventbasecode40+eventcode40+avgtone0.48334919124643194+goldsteinscale0.55+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.01644736842105263+news_keywords+['crimea:0.5242', 'natos:0.4537', 'putin:0.429', 'ceasefire:0.393', 'separatist:0.3649', 'invades:0.3346', 'diplomatic:0.3073', 'sovereignty:0.2819', 'intervene:0.2673', 'troop:0.2577', 'eastward:0.2403', 'reuters:0.2325', 'president:0.2142', 'dispatching:0.2062', 'order:0.1886', 'psaki:0.186', 'predict:0.1831', 'history:0.176', 'zelenskiy:0.1713', 'lengthy:0.1646', 'say:0.1337', 'import:0.1319', 'ready:0.1304', 'warning:0.1207', 'fake:0.1154', 'point:0.1148', 'framework:0.0995', 'olaf:0.0852', 'slide:0.0812', 'unless:0.0604']+titles_keywords+['ukraine:0.4339', 'putin:0.3994', 'breakaway:0.2173', 'troops:0.1942', 'orders:0.1592']"
+        ]
+    ],
+    "RUS+TUR+40":[
+        [
+            "20220805+../news_crawling/RUS_UKR/p_articles/geo.tv/Grain ships depart Ukraine as Kyiv Moscow trade blame over nuclear plant.txt+eventbasecode40+eventcode40+avgtone0.47269807280513915+goldsteinscale0.55+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.01644736842105263+news_keywords+['ukraine:0.4882', 'geopolitical:0.4599', 'erdogan:0.4119', 'moscows:0.3861', 'terrorist:0.3743', 'diplomatic:0.3504', 'government:0.3293', 'bombardment:0.3068', 'occupy:0.2998', 'zelensky:0.2996', 'danger:0.2921', 'unprovoked:0.29', 'investigation:0.2792', 'translate:0.2666', 'turkeys:0.2555', 'afp:0.2415', 'troop:0.2407', 'orchestrate:0.2367', 'reactor:0.2282', 'recep:0.2138', 'know:0.2071', 'grain:0.2027', 'write:0.202', 'success:0.1943', 'list:0.1826', 'turn:0.168', 'stoppage:0.1411', 'set:0.1162', 'thank:0.1048', 'overshadow:0.0869']+titles_keywords+['kyiv:0.4641', 'ships:0.2776', 'grain:0.2615', 'nuclear:0.2608', 'blame:0.2331']"
+        ]
+    ]
+}

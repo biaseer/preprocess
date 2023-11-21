@@ -1,0 +1,20 @@
+{
+    "EUR+UKR+120":[
+        [
+            "20220615+../news_crawling/RUS_UKR/p_articles/plenglish.com/Russia denounces illegality of arms supplies by the EU to Ukraine.txt+eventbasecode120+eventcode120+avgtone0.46230158730158727+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.416', 'weapon:0.3049', 'supply:0.2472', 'military:0.2438', 'conflict:0.2438', 'accordance:0.2261', 'violate:0.2253', 'arm:0.2232', 'border:0.2186', 'export:0.2019', 'refuse:0.1942', 'transfer:0.1877', 'contradictory:0.1815', 'license:0.1678', 'bloc:0.1575', 'point:0.1481', 'zakharova:0.1452', 'dpr:0.1431', 'document:0.1377', 'include:0.1325', 'technology:0.1316', 'integration:0.1259', 'intend:0.1222', 'risk:0.1207', 'againt:0.1048', 'exacerbate:0.103', 'recall:0.0971', 'prevail:0.0838', 'define:0.0691', 'official:0.0291']+titles_keywords+['ukraine:0.4704', 'denounces:0.193', 'arms:0.1927', 'illegality:0.1836', 'supplies:0.1833']"
+        ]
+    ],
+    "RUS+EUR+120":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/plenglish.com/Russia denies hindering entry rules for Europeans.txt+eventbasecode120+eventcode120+avgtone0.46839080459770116+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4139', 'putin:0.3587', 'russias:0.3438', 'geopolitical:0.319', 'visa:0.279', 'repel:0.2725', 'military:0.21', 'entry:0.1987', 'regulation:0.1886', 'avoid:0.1866', 'force:0.1411', 'implement:0.1402', 'operation:0.1401', 'action:0.1364', 'situation:0.1255', 'southeastern:0.1084', 'continue:0.105', 'following:0.0891', 'distance:0.0868', 'current:0.0654', 'despite:0.0594', 'world:0.0537', 'attempt:0.0528', 'february:0.0404', 'proclaim:0.0403', 'rest:0.0393', 'special:0.0388', 'add:0.0361', 'symmetrically:0.033', 'possible:0.0176']+titles_keywords+['russia:0.3799', 'denies:0.2519', 'entry:0.1658', 'hindering:0.1588', 'rules:0.0855']"
+        ]
+    ],
+    "RUS+UKR+120":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/plenglish.com/Operation in Ukraine preserves Russias security Syrian official say.txt+eventbasecode120+eventcode120+avgtone0.475+goldsteinscale0.3+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4536', 'nato:0.4405', 'syrian:0.3507', 'operation:0.3087', 'nuclear:0.2351', 'coercive:0.2055', 'presidential:0.1843', 'security:0.1839', 'campaign:0.1713', 'unilateral:0.169', 'eastward:0.1686', 'advisor:0.1622', 'lose:0.1546', 'expand:0.1487', 'preserve:0.1259', 'alternative:0.114', 'understand:0.1113', 'promise:0.1096', 'shaaban:0.1056', 'implemented:0.1', 'similar:0.0994', 'people:0.0934', 'distortion:0.0933', 'interview:0.0928', 'television:0.0802', 'characterize:0.0772', 'year:0.0685', 'great:0.0646', 'broke:0.0478', 'medium:0.0242']+titles_keywords+['ukraine:0.4216', 'syrian:0.3223', 'security:0.2488', 'operation:0.1802', 'say:0.0077']"
+        ],
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/plenglish.com/Russia denies Ukraines control over Mariupol.txt+eventbasecode120+eventcode120+avgtone0.49236641221374045+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraines:0.4802', 'ukrainian:0.4387', 'putin:0.4165', 'sergei:0.3758', 'peskov:0.3738', 'misinformation:0.3178', 'truce:0.3067', 'humanitarian:0.2616', 'troop:0.2497', 'report:0.238', 'communicate:0.2373', 'factory:0.2333', 'azovstal:0.2284', 'refuge:0.228', 'announce:0.2079', 'respond:0.2028', 'deny:0.1944', 'clarify:0.1935', 'shoigu:0.1855', 'leave:0.1772', 'department:0.1716', 'point:0.166', 'state:0.1613', 'corridor:0.1426', 'control:0.1346', 'spokesman:0.1082', 'defense:0.1044', 'price:0.1025', 'request:0.0778', 'yesterday:0.063']+titles_keywords+['ukraines:0.45', 'russia:0.3728', 'mariupol:0.3249', 'denies:0.2499', 'control:0.1057']"
+        ]
+    ]
+}

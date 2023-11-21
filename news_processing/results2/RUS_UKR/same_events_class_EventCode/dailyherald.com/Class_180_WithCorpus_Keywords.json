@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/dailyherald.com/Sorting fact disinformation amid Russian war on Ukraine.txt+eventbasecode180+eventcode180+avgtone0.4656441717791411+goldsteinscale0.05+nummentions0.05079825834542816+numarticles0.05148658448150834+numsources0.06907894736842106+news_keywords+['ukraine:0.4805', 'kremlin:0.4749', 'airstrike:0.3694', 'war:0.3689', 'nato:0.3539', 'disinformation:0.3498', 'evacuate:0.296', 'news:0.282', 'corroborate:0.2616', 'zelenskyy:0.2614', 'casualty:0.2604', 'pentagon:0.2522', 'authorities:0.239', 'civilian:0.2265', 'anonymity:0.214', 'victim:0.2114', 'report:0.1938', 'sorting:0.1857', 'cluster:0.1711', 'turn:0.1656', 'watchdog:0.1641', 'boy:0.1573', 'soon:0.1564', 'railway:0.1486', 'counterclaim:0.1095', 'increase:0.1094', 'exactly:0.1049', 'plant:0.0989', 'large:0.0922', 'million:0.0861']+titles_keywords+['disinformation:0.5109', 'ukraine:0.3908', 'fact:0.3318', 'war:0.3269', 'sorting:0.2307']"
+        ],
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/dailyherald.com/Rocket attacks hit Ukraines Lviv as Biden visits Poland.txt+eventbasecode180+eventcode180+avgtone0.4702970297029703+goldsteinscale0.05+nummentions0.14949201741654572+numarticles0.15010877447425672+numsources0.15460526315789475+news_keywords+['lviv:0.5229', 'airstrikes:0.4318', 'ukraines:0.418', 'missile:0.2832', 'espionage:0.2737', 'refugee:0.2721', 'occur:0.259', 'safe:0.2239', 'prepare:0.2202', 'update:0.2132', 'neighboring:0.2108', 'street:0.2106', 'hit:0.2077', 'hear:0.2075', 'siren:0.2015', 'organize:0.1991', 'know:0.1974', 'industrial:0.1935', 'stay:0.1912', 'detain:0.1891', 'story:0.164', 'biden:0.1496', 'turn:0.1484', 'complicate:0.1299', 'plume:0.1173', 'inga:0.1133', 'way:0.1117', 'send:0.0985', 'largely:0.0898', 'focus:0.0888']+titles_keywords+['lviv:0.4411', 'ukraines:0.3296', 'attacks:0.3154', 'biden:0.3015', 'rocket:0.2172']"
+        ]
+    ]
+}

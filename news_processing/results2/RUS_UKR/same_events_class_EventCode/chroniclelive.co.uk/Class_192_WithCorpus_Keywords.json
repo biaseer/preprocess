@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/chroniclelive.co.uk/Vladimir Putin more likely to start World War Three than accept defeat in Ukraine state.txt+eventbasecode192+eventcode192+avgtone0.45788043478260865+goldsteinscale0.025+nummentions0.03193033381712627+numarticles0.032632342277012324+numsources0.04276315789473684+news_keywords+['putin:0.5625', 'ukraine:0.4222', 'nuclear:0.3388', 'war:0.3327', 'lavrov:0.3098', 'terrify:0.2538', 'rhetoric:0.2357', 'risk:0.2177', 'news:0.1976', 'interfere:0.1864', 'border:0.1826', 'world:0.1633', 'event:0.1623', 'iii:0.1586', 'probable:0.1566', 'realistic:0.1527', 'end:0.1486', 'know:0.142', 'read:0.1374', 'sign:0.1351', 'tv:0.1314', 'expert:0.1263', 'uk:0.1197', 'declare:0.1197', 'february:0.1171', 'someday:0.0977', 'straight:0.0942', 'mr:0.0904', 'late:0.0874', 'attempt:0.0769']+titles_keywords+['putin:0.4895', 'war:0.2708', 'likely:0.169', 'start:0.1616', 'accept:0.063']"
+        ]
+    ],
+    "UKR+RUS+192":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/chroniclelive.co.uk/Russia war with Ukraine RECAP Pressure on Putin as Ukraine and Russia agree to hold.txt+eventbasecode192+eventcode192+avgtone0.48279158699808794+goldsteinscale0.025+nummentions0.007982583454281567+numarticles0.008339376359680928+numsources0.04276315789473684+news_keywords+['putin:0.4629', 'russias:0.4185', 'nato:0.4165', 'kyiv:0.3971', 'nuclear:0.3345', 'invade:0.3316', 'readiness:0.3044', 'escalation:0.2822', 'conflict:0.2685', 'rhetoric:0.2462', 'renounce:0.2254', 'news:0.2193', 'colonel:0.2129', 'table:0.1993', 'warn:0.1957', 'realise:0.1932', 'shortly:0.1791', 'bang:0.1685', 'handbook:0.1642', 'casualty:0.1534', 'end:0.1511', 'sure:0.149', 'forward:0.1467', 'long:0.1233', 'horrific:0.113', 'wont:0.1094', 'gmt:0.0989', 'agree:0.0912', 'weve:0.0712', 'unless:0.0672']+titles_keywords+['putin:0.4498', 'war:0.3702', 'recap:0.2098', 'hold:0.1475', 'agree:0.071']"
+        ]
+    ]
+}

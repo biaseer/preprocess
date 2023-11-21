@@ -1,0 +1,15 @@
+{
+    "RUS+TUR+57":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/europesun.com/Ukraine and Russia sign grain export deal with UN Turkey.txt+eventbasecode57+eventcode57+avgtone0.49306431273644385+goldsteinscale0.9+nummentions0.01088534107402032+numarticles0.011602610587382161+numsources0.013157894736842105+news_keywords+['ukraine:0.438', 'negotiation:0.332', 'war:0.3283', 'erdogan:0.3242', 'memorandum:0.3159', 'strategic:0.2406', 'deal:0.233', 'infrastructure:0.2097', 'announce:0.2042', 'grain:0.1986', 'expect:0.1955', 'understand:0.1935', 'general:0.1818', 'clarification:0.174', 'long:0.1728', 'include:0.1537', 'safe:0.1518', 'backlog:0.1414', 'friday:0.1408', 'board:0.1398', 'corridor:0.1255', 'indirectly:0.1249', 'set:0.1148', 'trilateral:0.1124', 'nod:0.1088', 'aim:0.1047', 'return:0.1012', 'export:0.0956', 'agree:0.0951', 'guterres:0.0644']+titles_keywords+['ukraine:0.3896', 'grain:0.2732', 'deal:0.2296', 'export:0.1755', 'sign:0.0677']"
+        ]
+    ],
+    "RUS+UKR+57":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/europesun.com/Indian Army to incorporate lessons from RussiaUkraine armoured war in its battle tank design.txt+eventbasecode57+eventcode57+avgtone0.4855072463768116+goldsteinscale0.9+nummentions0.0602322206095791+numarticles0.06091370558375635+numsources0.05263157894736842+news_keywords+['infantry:0.422', 'tank:0.3538', 'deploy:0.3293', 'armour:0.3202', 'missile:0.2962', 'russiaukraine:0.2734', 'war:0.2534', 'pakistan:0.2511', 'vehicle:0.227', 'ladakh:0.2101', 'design:0.1867', 'supply:0.1755', 'futuristic:0.1571', 'advance:0.1468', 'offset:0.1464', 'input:0.1402', 'scenario:0.1286', 'ani:0.1121', 'include:0.104', 'analyse:0.0956', 'new:0.0852', 'main:0.0721', 'source:0.0716', 'tell:0.0647', 'plain:0.0645', 'lesson:0.063', 'earlier:0.0511', 'decade:0.0471', 'lot:0.0453', 'nlaws:-0.0227']+titles_keywords+['armoured:0.3792', 'tank:0.3754', 'russiaukraine:0.224', 'design:0.1692', 'lessons:0.1152']"
+        ],
+        [
+            "20220723+../news_crawling/RUS_UKR/p_articles/europesun.com/UN official reveals technical details of Black Sea grain export deal.txt+eventbasecode57+eventcode57+avgtone0.49726027397260275+goldsteinscale0.9+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.01644736842105263+news_keywords+['ukraine:0.3738', 'istanbul:0.3022', 'ships:0.2635', 'bosphorus:0.2598', 'oil:0.2365', 'federation:0.2306', 'grain:0.218', 'deal:0.1957', 'export:0.185', 'concern:0.1728', 'strait:0.1708', 'corridor:0.1654', 'facilitate:0.1596', 'global:0.1544', 'report:0.1539', 'process:0.146', 'ahead:0.1393', 'official:0.1349', 'market:0.1279', 'trkiye:0.1105', 'weapon:0.107', 'number:0.1061', 'friday:0.0958', 'reintegrate:0.0932', 'source:0.0932', 'decrease:0.0908', 'accord:0.0894', 'hub:0.0856', 'agree:0.0641', 'potentially:0.0546']+titles_keywords+['grain:0.3125', 'reveals:0.2242', 'export:0.2159', 'official:0.2095', 'deal:0.1882']"
+        ]
+    ]
+}

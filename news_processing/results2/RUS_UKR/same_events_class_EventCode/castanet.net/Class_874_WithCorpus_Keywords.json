@@ -1,0 +1,17 @@
+{
+    "CAN+RUS+874":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/castanet.net/Canada withdraws nonessential personnel from embassy in Ukraine.txt+eventbasecode87+eventcode874+avgtone0.493368700265252+goldsteinscale1.0+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['ukraine:0.4735', 'nato:0.4459', 'kremlin:0.3691', 'diplomatic:0.3061', 'troop:0.2785', 'war:0.2511', 'trudeau:0.2322', 'remain:0.2282', 'reinforce:0.2029', 'withdraw:0.1963', 'standoff:0.1889', 'border:0.1865', 'union:0.1839', 'mission:0.1825', 'safety:0.1813', 'armed:0.1766', 'ally:0.176', 'temporarily:0.1449', 'news:0.1435', 'authorize:0.1397', 'forces:0.1334', 'open:0.1309', 'nonessential:0.123', 'revolve:0.1032', 'number:0.0996', 'statement:0.0939', 'sending:0.0722', 'body:0.0711', 'week:0.0674', 'monitor:0.0623']+titles_keywords+['ukraine:0.4029', 'embassy:0.3575', 'withdraws:0.2258', 'personnel:0.2044', 'nonessential:0.1459']"
+        ]
+    ],
+    "RUS+UKR+874":[
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/castanet.net/Ukraine Russians withdraw from city of Kharkiv batter east.txt+eventbasecode87+eventcode874+avgtone0.4741591468416735+goldsteinscale1.0+nummentions0.1179245283018868+numarticles0.11856417693981146+numsources0.13815789473684212+news_keywords+['ukraine:0.5107', 'natos:0.4355', 'invasion:0.3277', 'regiment:0.2708', 'separatist:0.2694', 'predict:0.2614', 'outcome:0.226', 'tank:0.2233', 'news:0.2193', 'fighting:0.2156', 'tayyip:0.2096', 'industrial:0.1963', 'worry:0.1915', 'flank:0.1907', 'sinegubov:0.1881', 'order:0.1875', 'long:0.1835', 'observer:0.1713', 'pull:0.1684', 'kilometer:0.168', 'ready:0.1645', 'resume:0.1516', 'study:0.1501', 'counteroffensive:0.1446', 'awry:0.1425', 'nearly:0.1357', 'accuse:0.1283', 'major:0.1206', 'population:0.1084', 'agree:0.0743']+titles_keywords+['kharkiv:0.4442', 'ukraine:0.4137', 'withdraw:0.2589', 'city:0.2005', 'batter:0.1674']"
+        ]
+    ],
+    "UKR+RUS+874":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/castanet.net/More civilians flee east Ukraine after deadly station strike.txt+eventbasecode87+eventcode874+avgtone0.46373456790123463+goldsteinscale1.0+nummentions0.025036284470246733+numarticles0.02574329224075417+numsources0.15460526315789475+news_keywords+['kyiv:0.5041', 'kremlin:0.454', 'evacuate:0.3869', 'airstrike:0.3821', 'misinformation:0.2944', 'journalist:0.2856', 'generals:0.2821', 'casualty:0.2718', 'narrative:0.2704', 'blockade:0.2668', 'separatist:0.2385', 'vereshchuk:0.2367', 'staged:0.2357', 'map:0.2158', 'anonymity:0.1949', 'cite:0.192', 'turn:0.1906', 'predict:0.1871', 'telegram:0.1842', 'railway:0.1819', 'excerpted:0.1808', 'organization:0.1726', 'resupplied:0.1634', 'bucha:0.1609', 'begin:0.1328', 'largely:0.1209', 'thousand:0.1176', 'month:0.1174', 'large:0.1103', 'agree:0.1044']+titles_keywords+['ukraine:0.358', 'civilians:0.3539', 'flee:0.284', 'strike:0.1497', 'station:0.1421']"
+        ]
+    ]
+}

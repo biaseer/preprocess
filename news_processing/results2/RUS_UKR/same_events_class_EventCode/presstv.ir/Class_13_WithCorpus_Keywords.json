@@ -1,0 +1,22 @@
+{
+    "IRN+RUS+13":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/presstv.ir/Iran FM Ukraine crisis should be resolved through diplomacy without interference of third countries.txt+eventbasecode13+eventcode13+avgtone0.490521327014218+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['diplomacy:0.4413', 'putin:0.3803', 'irans:0.3678', 'nato:0.3574', 'ukrainian:0.34', 'peaceful:0.3148', 'resolve:0.2048', 'amir:0.1929', 'relation:0.1902', 'border:0.1834', 'counterpart:0.1813', 'tension:0.1778', 'issue:0.1684', 'hossein:0.1659', 'warn:0.1618', 'future:0.1447', 'elaborating:0.1423', 'interference:0.1414', 'allow:0.1329', 'want:0.129', 'increase:0.128', 'republic:0.125', 'bilateral:0.1187', 'discussed:0.1144', 'minister:0.103', 'principled:0.0977', 'necessary:0.0884', 'major:0.0583', 'way:0.0578', 'ready:0.0544']+titles_keywords+['diplomacy:0.483', 'ukraine:0.3878', 'crisis:0.2155', 'resolved:0.2095', 'interference:0.177']"
+        ]
+    ],
+    "RUS+ITA+13":[
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/presstv.ir/Russia likely reacted to NATOs expansion ambitions Pope on war in Ukraine.txt+eventbasecode13+eventcode13+avgtone0.4908088235294118+goldsteinscale0.52+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['natos:0.4876', 'kiev:0.4628', 'ukraines:0.4513', 'putin:0.4095', 'demilitarization:0.3274', 'eastward:0.2669', 'pope:0.2488', 'conflict:0.2429', 'genocide:0.2386', 'operation:0.2176', 'expansion:0.1995', 'plan:0.1621', 'willing:0.1562', 'publish:0.1419', 'position:0.1406', 'defend:0.1368', 'february:0.1302', 'join:0.1297', 'end:0.1242', 'say:0.1138', 'include:0.108', 'bark:0.1063', 'signal:0.0994', 'sera:0.0975', 'state:0.0822', 'recognize:0.0754', 'scaleback:0.07', 'new:0.0674', 'holy:0.0443', 'likely:0.0232']+titles_keywords+['natos:0.4976', 'pope:0.3333', 'expansion:0.2494', 'reacted:0.1486', 'likely:0.1342']"
+        ]
+    ],
+    "USA+RUS+13":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/presstv.ir/US giving Ukraine more weapons than announced Report.txt+eventbasecode13+eventcode13+avgtone0.478494623655914+goldsteinscale0.52+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4866', 'missiles:0.4527', 'war:0.3477', 'pentagon:0.3052', 'politico:0.2584', 'newspublished:0.2574', 'arm:0.2452', 'forcesoperators:0.2362', 'carry:0.2214', 'provision:0.2145', 'concern:0.2051', 'availability:0.1954', 'reveal:0.1895', 'stock:0.172', 'advisorto:0.1674', 'instead:0.1626', 'rumors:0.162', 'current:0.1591', 'database:0.1511', 'month:0.151', 'biden:0.1489', 'act:0.1482', 'end:0.139', 'long:0.1387', 'earlier:0.1273', 'track:0.1037', 'theus:0.1022', 'sending:0.0878', 'doesnt:0.0816', 'werent:0.0727']+titles_keywords+['ukraine:0.3976', 'weapons:0.3204', 'giving:0.1612', 'report:0.1504', 'announced:0.0988']"
+        ]
+    ],
+    "WST+RUS+13":[
+        [
+            "20211213+../news_crawling/RUS_UKR/p_articles/presstv.ir/Russia may be forced to deploy intermediaterange nuclear missiles in Europe Ryabkov.txt+eventbasecode13+eventcode13+avgtone0.4683026584867076+goldsteinscale0.52+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['natos:0.5542', 'kremlin:0.4085', 'gorbachev:0.3733', 'kiev:0.3445', 'war:0.3361', 'nuclear:0.3341', 'readiness:0.3236', 'escalation:0.3202', 'deploy:0.2697', 'diplomat:0.2491', 'missile:0.2462', 'warn:0.2213', 'moratorium:0.2036', 'news:0.1811', 'elect:0.1629', 'organizationnato:0.1601', 'western:0.152', 'th:0.1469', 'accept:0.1441', 'replace:0.1431', 'near:0.1401', 'intermediate:0.1395', 'pull:0.1362', 'drill:0.1276', 'pershing:0.1234', 'arm:0.1229', 'ria:0.1228', 'state:0.1171', 'right:0.1143', 'backdrop:0.0373']+titles_keywords+['ryabkov:0.5068', 'missiles:0.3815', 'russia:0.3217', 'intermediaterange:0.1687', 'forced:0.0635']"
+        ]
+    ]
+}

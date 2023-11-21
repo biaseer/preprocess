@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Ukraine nuclear operator Russian troops leave Chernobyl.txt+eventbasecode87+eventcode874+avgtone0.4892857142857143+goldsteinscale1.0+nummentions0.09941944847605225+numarticles0.09209572153734591+numsources0.1513157894736842+news_keywords+['chernobyl:0.5733', 'ukraine:0.4128', 'ukraines:0.3973', 'nuclear:0.3726', 'belarus:0.3252', 'russian:0.2793', 'military:0.2496', 'slavutych:0.2449', 'troop:0.2242', 'worker:0.1417', 'company:0.1394', 'plant:0.1191', 'operator:0.1177', 'leave:0.1153', 'heading:0.1089', 'countrys:0.1019', 'border:0.0926', 'prepare:0.0837', 'city:0.0819', 'nearby:0.0683', 'power:0.0659', 'live:0.0453', 'energoatom:0.0294', 'say:0.0042', 'thursday:-0.0051']+titles_keywords+['chernobyl:0.567', 'russian:0.3011', 'troops:0.2051', 'leave:0.1448', 'operator:0.1377']"
+        ],
+        [
+            "20220515+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Small wins buoy Ukraine West says Russians losing momentum.txt+eventbasecode87+eventcode874+avgtone0.48575788402848424+goldsteinscale1.0+nummentions0.04644412191582003+numarticles0.04713560551124003+numsources0.0625+news_keywords+['ukraine:0.4999', 'natos:0.4595', 'moscows:0.3836', 'battalion:0.3549', 'invade:0.3293', 'victory:0.304', 'diplomatic:0.2737', 'news:0.2684', 'separatist:0.2588', 'evacuate:0.2583', 'infrastructure:0.2557', 'incendiary:0.2413', 'siverodonetsk:0.2336', 'chernov:0.225', 'secure:0.2229', 'worry:0.2204', 'continue:0.2133', 'kilometer:0.2082', 'report:0.1997', 'change:0.1957', 'big:0.1903', 'trt:0.175', 'covid:0.1736', 'recovers:0.1713', 'explain:0.1615', 'include:0.1538', 'largely:0.1471', 'ready:0.142', 'nonaligned:0.1221', 'pan:0.1186']+titles_keywords+['ukraine:0.371', 'momentum:0.366', 'losing:0.3599', 'small:0.2811', 'buoy:0.1791']"
+        ]
+    ]
+}

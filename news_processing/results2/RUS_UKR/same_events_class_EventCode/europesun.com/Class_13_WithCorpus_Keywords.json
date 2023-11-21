@@ -1,0 +1,40 @@
+{
+    "CHN+RUS+13":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/europesun.com/China willing to mediate in Ukraine crisis Foreign Minister Wang Yi.txt+eventbasecode13+eventcode13+avgtone0.4893333333333333+goldsteinscale0.52+nummentions0.02576197387518142+numarticles0.026468455402465556+numsources0.029605263157894735+news_keywords+['putin:0.4158', 'mediate:0.4024', 'ukraine:0.4022', 'peace:0.2754', 'humanitarian:0.2722', 'readiness:0.2335', 'korea:0.2322', 'sanction:0.2147', 'evacuate:0.2146', 'yi:0.2023', 'crisis:0.1938', 'willing:0.1829', 'continue:0.1815', 'news:0.1808', 'relation:0.1788', 'report:0.1767', 'reiterate:0.1728', 'matter:0.1417', 'soon:0.1372', 'sputnik:0.1365', 'remark:0.1349', 'press:0.1307', 'cross:0.1284', 'include:0.1181', 'hall:0.1148', 'tense:0.1004', 'wider:0.0976', 'possible:0.094', 'oust:0.0868', 'agree:0.0866']+titles_keywords+['mediate:0.4105', 'wang:0.3826', 'ukraine:0.2912', 'willing:0.1496', 'minister:0.0674']"
+        ]
+    ],
+    "GBR+UKR+13":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/europesun.com/At least 20 civilians evacuated from Mariupols Azovstal steel plant.txt+eventbasecode13+eventcode13+avgtone0.4821894005212859+goldsteinscale0.52+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['kyiv:0.5043', 'russians:0.4283', 'evacuate:0.4081', 'bombing:0.2916', 'civilian:0.2704', 'infrastructure:0.2699', 'negotiation:0.2493', 'concern:0.2449', 'aid:0.2416', 'sanction:0.2361', 'steelworks:0.2293', 'macron:0.2197', 'sievierodonetsk:0.2191', 'update:0.2188', 'shipment:0.2183', 'ruin:0.2151', 'counterpart:0.2013', 'treasury:0.1998', 'lozova:0.1949', 'disclose:0.1812', 'swap:0.1806', 'additional:0.1717', 'friday:0.1693', 'world:0.1538', 'grain:0.1479', 'gmt:0.1433', 'hole:0.1421', 'follow:0.14', 'thousand:0.1379', 'longer:0.103']+titles_keywords+['evacuated:0.4234', 'civilians:0.3703', 'steel:0.2956', 'mariupols:0.2893', '20:0.1586']"
+        ]
+    ],
+    "RUS+FRA+13":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/europesun.com/Zelenskyy Seeking More Help from Europe.txt+eventbasecode13+eventcode13+avgtone0.4980916030534351+goldsteinscale0.52+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.019736842105263157+news_keywords+['kyiv:0.5251', 'zelenskyy:0.4856', 'sergey:0.3948', 'sievierodonetsk:0.2886', 'war:0.2855', 'redeploy:0.2834', 'occupy:0.2752', 'meeting:0.258', 'president:0.2523', 'organize:0.2201', 'concern:0.2144', 'ahead:0.2138', 'priority:0.2021', 'brief:0.1995', 'independence:0.1932', 'success:0.1897', 'address:0.1756', 'liquidity:0.1683', 'make:0.1522', 'month:0.1471', 'telecommunication:0.1448', 'turn:0.1421', 'michel:0.1349', 'large:0.1311', 'global:0.128', 'counteroffensive:0.1067', 'thank:0.1042', 'tf:0.0995', 'price:0.0589', 'stag:0.0562']+titles_keywords+['zelenskyy:0.6107', 'europe:0.2763', 'help:0.1712', 'seeking:0.1415']"
+        ]
+    ],
+    "RUS+UKR+13":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/europesun.com/Talks The Ukrainian Delegation will Meet with the Russian One.txt+eventbasecode13+eventcode13+avgtone0.5157894736842106+goldsteinscale0.52+nummentions0.009071117561683599+numarticles0.009789702683103698+numsources0.009868421052631578+news_keywords+['ukraine:0.4572', 'ukrainian:0.4383', 'vladimir:0.3779', 'russian:0.3618', 'belarusian:0.3545', 'zelensky:0.3286', 'talk:0.3135', 'pripyat:0.3065', 'medinsky:0.303', 'meet:0.2805', 'talks:0.2757', 'delegation:0.2726', 'border:0.2675', 'hold:0.2408', 'medinski:0.2372', 'volodymyr:0.2126', 'representative:0.1888', 'river:0.1855', 'president:0.1762', 'hour:0.1748', 'ready:0.1722', 'say:0.1628', 'precondition:0.1436', 'near:0.1382', 'note:0.1264', 'agree:0.1263', 'head:0.121', 'time:0.1024', 'save:0.099', 'life:0.0859']+titles_keywords+['ukrainian:0.4538', 'russian:0.3718', 'meet:0.2781', 'delegation:0.2749', 'talks:0.2684']"
+        ],
+        [
+            "20220728+../news_crawling/RUS_UKR/p_articles/europesun.com/Russian Missiles Hit Kyiv Chernihiv Regions.txt+eventbasecode13+eventcode13+avgtone0.47321428571428575+goldsteinscale0.52+nummentions0.22387518142235124+numarticles0.22443799854967367+numsources0.48355263157894735+news_keywords+['kyiv:0.5199', 'russians:0.3878', 'missiles:0.3506', 'war:0.3331', 'chernihiv:0.3084', 'troop:0.2519', 'retaliation:0.2365', 'emergency:0.2346', 'regions:0.2236', 'warn:0.2088', 'organize:0.2034', 'statehood:0.2028', 'occupied:0.1899', 'topple:0.1898', 'movement:0.1875', 'recapture:0.1848', 'continue:0.1799', 'supply:0.1696', 'cross:0.1492', 'long:0.1421', 'advantage:0.1417', 'residential:0.1401', 'plant:0.1324', 'augment:0.1282', 'acknowledge:0.1246', 'precisely:0.1093', 'week:0.0987', 'characterize:0.0789', 'scale:0.0778', 'link:0.0768']+titles_keywords+['kyiv:0.5172', 'chernihiv:0.4078', 'missiles:0.3917', 'regions:0.1989', 'hit:0.1813']"
+        ]
+    ],
+    "UKR+RUS+13":[
+        [
+            "20220615+../news_crawling/RUS_UKR/p_articles/europesun.com/Ukraine suggests solution to EU gas crisis.txt+eventbasecode13+eventcode13+avgtone0.48706896551724144+goldsteinscale0.52+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.45', 'gas:0.3598', 'pipeline:0.3506', 'gazprom:0.2693', 'transit:0.2608', 'pump:0.2468', 'supply:0.2331', 'crisis:0.2325', 'siemens:0.2059', 'nord:0.1865', 'sudzha:0.1832', 'solution:0.1811', 'increase:0.1681', 'prepare:0.1216', 'sanction:0.1161', 'repair:0.1089', 'start:0.0971', 'meter:0.0934', 'request:0.0898', 'statement:0.0882', 'gts:0.0861', 'halt:0.084', 'forced:0.0722', 'season:0.0634', 'major:0.0593', 'additional:0.0585', 'regularly:0.0578', 'explain:0.0565', 'operator:0.0555', 'billion:0.0475']+titles_keywords+['ukraine:0.4804', 'solution:0.277', 'gas:0.2764', 'crisis:0.2462', 'suggests:0.0506']"
+        ]
+    ],
+    "USA+RUS+13":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/europesun.com/Russia looks to recruit Syrian soldiers to fight in Ukraine.txt+eventbasecode13+eventcode13+avgtone0.4782608695652174+goldsteinscale0.52+nummentions0.0511611030478955+numarticles0.05184916606236403+numsources0.046052631578947366+news_keywords+['syria:0.4589', 'putin:0.4175', 'kyiv:0.4127', 'russian:0.3878', 'bashar:0.3599', 'troops:0.3355', 'recruit:0.3248', 'demilitarize:0.3141', 'fight:0.2192', 'escalation:0.2156', 'prepare:0.2015', 'zelensky:0.1959', 'enter:0.1617', 'report:0.1575', 'republic:0.1565', 'operate:0.1497', 'expert:0.1458', 'internationalize:0.1403', 'follow:0.1396', 'february:0.1298', 'wall:0.1254', 'potential:0.1175', 'cite:0.1166', 'breakaway:0.1133', 'look:0.1033', 'unclear:0.0979', 'amid:0.0915', 'nearly:0.0762', 'deal:0.0758', 'today:0.0666']+titles_keywords+['recruit:0.3861', 'syrian:0.3565', 'soldiers:0.3158', 'russia:0.3127', 'looks:0.0778']"
+        ]
+    ],
+    "WST+RUS+13":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/europesun.com/US NATO Say No Evidence of Russian Withdrawals.txt+eventbasecode13+eventcode13+avgtone0.4822033898305084+goldsteinscale0.52+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['nato:0.5282', 'kremlin:0.419', 'crimean:0.413', 'diplomacy:0.4069', 'invade:0.3408', 'dmitry:0.3225', 'confrontation:0.303', 'news:0.2105', 'biden:0.1915', 'willingness:0.178', 'respond:0.1687', 'proposal:0.1665', 'tuesday:0.1657', 'reiterate:0.1568', 'choose:0.1564', 'buildup:0.1484', 'peninsula:0.1475', 'pullback:0.1443', 'end:0.1365', 'contrary:0.136', 'possibility:0.135', 'forget:0.1337', 'associated:0.1257', 'ready:0.1236', 'needless:0.1141', 'voa:0.1105', 'width:0.0978', 'arm:0.092', 'clipboard:0.0884', 'cost:0.0403']+titles_keywords+['nato:0.408', 'russian:0.3173', 'evidence:0.3122', 'withdrawals:0.2387', 'say:0.0029']"
+        ]
+    ]
+}

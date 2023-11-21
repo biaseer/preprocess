@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+110":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/businessinsider.in/Meta bans Russian state media outlets from running ads or monetizing content on Facebook.txt+eventbasecode110+eventcode110+avgtone0.46390374331550804+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['putin:0.4439', 'ukraine:0.433', 'misinformation:0.3429', 'ban:0.3413', 'government:0.3194', 'meta:0.3157', 'airstrikes:0.3009', 'report:0.2913', 'violates:0.2764', 'twitter:0.2753', 'genocide:0.2702', 'content:0.2655', 'read:0.2638', 'platforms:0.2536', 'region:0.2526', 'escalate:0.245', 'justify:0.2436', 'false:0.2308', 'monetize:0.2262', 'ethnic:0.2228', 'change:0.2206', 'begin:0.2022', 'publisher:0.1957', 'speech:0.159', 'fight:0.1575', 'make:0.1505', 'set:0.1179', 'big:0.1022', 'weekend:0.1016', 'checker:0.1015']+titles_keywords+['russian:0.313', 'bans:0.299', 'ads:0.2761', 'facebook:0.2601', 'meta:0.2503']"
+        ]
+    ],
+    "UKR+RUS+110":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/businessinsider.in/Boris Johnson sparked backlash for comparing Ukraines resistance against Russia to Brexit.txt+eventbasecode110+eventcode110+avgtone0.4899749373433584+goldsteinscale0.4+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.01644736842105263+news_keywords+['brexit:0.4653', 'referendum:0.4108', 'putin:0.3654', 'ukrainians:0.3608', 'parliament:0.3338', 'british:0.321', 'boris:0.3208', 'eu:0.2987', 'compare:0.2792', 'donald:0.2759', 'hostile:0.2465', 'speech:0.2417', 'remain:0.2328', 'johnson:0.2293', 'blackpool:0.2268', 'conservative:0.2266', 'choose:0.2244', 'volodymyr:0.2013', 'say:0.1861', 'example:0.179', 'bomb:0.1696', 'fact:0.1667', 'embarrassment:0.1646', 'risk:0.1615', 'bit:0.1454', 'recent:0.1412', 'vaccinate:0.135', 'fair:0.1234', 'begin:0.0941', 'free:0.0651']+titles_keywords+['ukraines:0.3395', 'boris:0.3246', 'brexit:0.3194', 'backlash:0.3012', 'comparing:0.1201']"
+        ]
+    ]
+}

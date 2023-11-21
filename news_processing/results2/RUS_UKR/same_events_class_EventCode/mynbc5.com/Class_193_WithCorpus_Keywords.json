@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+193":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/mynbc5.com/Strike kills at least 52 at Ukraine rail station crowded with civilians.txt+eventbasecode193+eventcode193+avgtone0.46700680272108847+goldsteinscale0.0+nummentions0.10449927431059507+numarticles0.10514865844815083+numsources0.39473684210526316+news_keywords+['kyiv:0.4577', 'kremlin:0.4245', 'massacre:0.3866', 'nato:0.3592', 'war:0.357', 'missile:0.2846', 'strike:0.2709', 'embargo:0.2621', 'rail:0.2465', 'intensifies:0.2185', 'report:0.2079', 'intercept:0.2057', 'excerpt:0.1945', 'spiegel:0.1908', 'dead:0.1873', 'resupplied:0.1786', 'refute:0.1772', 'bucha:0.1716', 'order:0.1676', 'general:0.1666', 'like:0.1666', 'muddy:0.1596', 'thursday:0.1508', 'gas:0.1501', 'begin:0.1476', 'child:0.138', 'anonymity:0.1378', 'million:0.1335', 'completely:0.1131', 'longer:0.106']+titles_keywords+['civilians:0.2976', 'ukraine:0.2915', 'rail:0.2398', 'strike:0.2319', '52:0.1531']"
+        ],
+        [
+            "20220829+../news_crawling/RUS_UKR/p_articles/mynbc5.com/Russia Ukraine trade claims of nuclear plant attacks.txt+eventbasecode193+eventcode193+avgtone0.4979536152796726+goldsteinscale0.0+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['ukraine:0.492', 'reactors:0.3751', 'dnipropetrovsk:0.3395', 'war:0.3166', 'concern:0.2694', 'meltdown:0.2653', 'infrastructure:0.2609', 'missile:0.2395', 'kurtev:0.2264', 'kill:0.2228', 'separatist:0.2205', 'reservist:0.207', 'strategically:0.2039', 'report:0.199', 'yevhen:0.1979', 'governor:0.176', 'agreement:0.1604', 'soon:0.1592', 'intensify:0.1584', 'hazard:0.1542', 'adjacent:0.1502', 'begin:0.15', 'temporarily:0.1474', 'iodine:0.1367', 'major:0.1332', 'sputter:0.1247', 'periodic:0.1198', 'left:0.1007', 'send:0.0982', 'dozen:0.0788']+titles_keywords+['ukraine:0.4796', 'nuclear:0.3395', 'attacks:0.2896', 'trade:0.1736', 'plant:0.1504']"
+        ]
+    ]
+}

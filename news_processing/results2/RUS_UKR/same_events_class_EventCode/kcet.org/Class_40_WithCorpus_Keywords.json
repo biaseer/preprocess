@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+40":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/kcet.org/Russian military escalation looms amid diplomatic divide.txt+eventbasecode40+eventcode40+avgtone0.49056603773584906+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['diplomacy:0.4623', 'ukraine:0.4067', 'diplomatic:0.3784', 'russia:0.3724', 'standoff:0.3632', 'escalation:0.3588', 'russian:0.3179', 'europe:0.285', 'border:0.2712', 'military:0.2464', 'talk:0.233', 'european:0.2236', 'meet:0.2103', 'deployment:0.2034', 'conclude:0.1521', 'thursday:0.1479', 'report:0.1244', 'week:0.12', 'end:0.1175', 'forward:0.1051', 'divide:0.0917', 'country:0.0901', 'schifrin:0.0852', 'amid:0.0821', 'head:0.0633', 'massive:0.0357', 'nick:0.0284', 'loom:0.0131']+titles_keywords+['escalation:0.4362', 'diplomatic:0.3519', 'russian:0.3138', 'military:0.2669', 'divide:0.0943']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/kcet.org/Protestors from Former Soviet States Show Solidarity at StandwithUkraine Rally.txt+eventbasecode40+eventcode40+avgtone0.4833454018826937+goldsteinscale0.55+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.02631578947368421+news_keywords+['ussr:0.4685', 'vyshyvanka:0.3953', 'refugee:0.3862', 'lukashenko:0.3752', 'protesters:0.3212', 'troop:0.2878', 'flag:0.2784', 'invade:0.2764', 'advocate:0.2753', 'nation:0.2572', 'stay:0.2556', 'bohonok:0.2204', 'peace:0.2194', 'afraid:0.2191', 'echo:0.2046', 'organize:0.1972', 'heard:0.1969', 'help:0.1846', 'list:0.1825', 'reintroduce:0.1764', 'stitch:0.1621', 'state:0.1588', 'banner:0.1574', 'restrict:0.1524', 'make:0.1486', 'increased:0.145', 'send:0.1443', 'telecommunication:0.1203', 'right:0.1151', 'everyday:0.0973']+titles_keywords+['protestors:0.4919', 'solidarity:0.418', 'standwithukraine:0.4144', 'soviet:0.3635', 'rally:0.2896']"
+        ]
+    ],
+    "WST+RUS+40":[
+        [
+            "20220113+../news_crawling/RUS_UKR/p_articles/kcet.org/US NATO meet with Russia over troops at Ukraines border.txt+eventbasecode40+eventcode40+avgtone0.5194805194805194+goldsteinscale0.55+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['nato:0.5653', 'ukraines:0.4149', 'diplomacy:0.3309', 'russian:0.3183', 'troop:0.3099', 'meet:0.255', 'border:0.2486', 'ambassador:0.246', 'brussels:0.2219', 'europe:0.2204', 'ally:0.2014', 'come:0.1509', 'speak:0.1317', 'clinton:0.1295', 'crisis:0.1273', 'cohesion:0.1222', 'administration:0.1128', 'wednesday:0.1096', 'nick:0.1028', 'week:0.0926', 'report:0.088', 'official:0.0812', 'spark:0.0793', 'question:0.0736', 'buildup:0.0721', 'ivo:0.048', 'persist:0.0466', 'learn:0.0364', 'daalder:0.0285', 'massive:0.0056']+titles_keywords+['nato:0.4657', 'ukraines:0.3628', 'meet:0.2862', 'troops:0.2522', 'border:0.1964']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+141":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/localnews8.com/Russia formally protests US weapons shipments to Ukraine.txt+eventbasecode141+eventcode141+avgtone0.49014778325123154+goldsteinscale0.175+nummentions0.06966618287373004+numarticles0.0674401740391588+numsources0.05921052631578947+news_keywords+['ukraine:0.4517', 'nato:0.4357', 'war:0.3466', 'diplomatic:0.3132', 'escalation:0.2902', 'pentagon:0.287', 'weapon:0.2483', 'concern:0.2476', 'prepare:0.2341', 'unprovoked:0.2274', 'order:0.2267', 'president:0.2104', 'indicate:0.2006', 'know:0.1992', 'production:0.1973', 'zelensky:0.1748', 'report:0.1741', 'wednesday:0.1629', 'additional:0.1615', 'unpredictable:0.1608', 'cnn:0.1597', 'turn:0.1538', 'unclear:0.1498', 'continue:0.1482', 'send:0.1448', 'horrific:0.1417', 'wont:0.1163', 'short:0.1125', 'million:0.0947', 'weve:0.0767']+titles_keywords+['ukraine:0.3959', 'weapons:0.2653', 'protests:0.2217', 'shipments:0.1807', 'formally:0.0685']"
+        ]
+    ],
+    "UKR+RUS+141":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/localnews8.com/A family died in front of my eyes Civilians killed as Russian military strike hits.txt+eventbasecode141+eventcode141+avgtone0.48128598848368526+goldsteinscale0.175+nummentions0.02939042089985486+numarticles0.019216823785351705+numsources0.019736842105263157+news_keywords+['kyiv:0.4721', 'airstrikes:0.428', 'evacuate:0.4218', 'civilians:0.4193', 'refugee:0.375', 'putin:0.3724', 'casualty:0.3335', 'kill:0.3022', 'troop:0.3015', 'unprovoked:0.28', 'cnn:0.2478', 'conflict:0.2451', 'agreement:0.2251', 'onslaught:0.2232', 'know:0.2191', 'reiterate:0.2176', 'pipeline:0.2076', 'mortar:0.2064', 'sovsun:0.2019', 'succeed:0.1902', 'enter:0.1893', 'corridor:0.1791', 'thousand:0.1643', 'cover:0.1618', 'friday:0.1514', 'secretary:0.1506', 'far:0.1295', 'look:0.1291', 'state:0.116', 'fahrenheit:0.1055']+titles_keywords+['kyiv:0.5069', 'evacuation:0.4343', 'civilians:0.4235', 'died:0.2232', 'eyes:0.1828']"
+        ]
+    ]
+}

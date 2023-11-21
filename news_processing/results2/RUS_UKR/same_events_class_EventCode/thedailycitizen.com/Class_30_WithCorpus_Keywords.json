@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+30":[
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/thedailycitizen.com/US rocket system enables Ukraine to pummel key supply bridge.txt+eventbasecode30+eventcode30+avgtone0.4794156706507304+goldsteinscale0.7+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.01644736842105263+news_keywords+['ukraine:0.4932', 'kremlin:0.4195', 'airstrikes:0.4134', 'artillery:0.2999', 'tank:0.2619', 'underway:0.2538', 'zelenskyy:0.2511', 'occupy:0.2452', 'victory:0.2381', 'know:0.2339', 'logistical:0.2262', 'civilian:0.2254', 'crisis:0.2177', 'agreement:0.2049', 'fight:0.203', 'intensify:0.2017', 'hydroelectric:0.1971', 'range:0.1862', 'cross:0.18', 'learn:0.1797', 'halt:0.1768', 'twitter:0.1668', 'ap:0.158', 'donbas:0.1567', 'nearly:0.1546', 'governor:0.1529', 'plant:0.147', 'contrast:0.1342', 'month:0.1303', 'billion:0.1231']+titles_keywords+['rocket:0.3841', 'ukraine:0.372', 'bridge:0.3098', 'key:0.1842', 'enables:0.1669']"
+        ]
+    ],
+    "USA+RUS+30":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/thedailycitizen.com/Arkansas governor seeks review for any state Russia ties.txt+eventbasecode30+eventcode30+avgtone0.49806201550387597+goldsteinscale0.7+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.013157894736842105+news_keywords+['arkansas:0.4516', 'russian:0.3742', 'governor:0.3723', 'state:0.344', 'hutchinson:0.3217', 'oligarchs:0.3176', 'boycott:0.2744', 'economy:0.2717', 'asa:0.2528', 'report:0.2363', 'acquire:0.1994', 'letter:0.1876', 'proposals:0.1692', 'liquor:0.1669', 'rock:0.1636', 'statement:0.1626', 'tie:0.1624', 'authorize:0.148', 'make:0.1456', 'export:0.1456', 'aggression:0.1447', 'good:0.1386', 'base:0.1316', 'indirectly:0.1288', 'night:0.1182', 'entities:0.1082', 'cabinet:0.0988', 'million:0.098', 'year:0.0905', 'sure:0.0799']+titles_keywords+['arkansas:0.3775', 'governor:0.3065', 'russia:0.2358', 'review:0.1642', 'seeks:0.0799']"
+        ]
+    ]
+}

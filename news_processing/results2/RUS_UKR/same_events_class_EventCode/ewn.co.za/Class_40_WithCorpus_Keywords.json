@@ -1,0 +1,12 @@
+{
+    "POL+UKR+40":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/ewn.co.za/Biden meets top Ukrainian ministers in Warsaw.txt+eventbasecode40+eventcode40+avgtone0.48851774530271397+goldsteinscale0.55+nummentions0.06059506531204644+numarticles0.05910079767947788+numsources0.0625+news_keywords+['ukraine:0.4369', 'putin:0.4291', 'biden:0.4079', 'nato:0.3817', 'war:0.3415', 'meeting:0.2961', 'andrzej:0.2768', 'visit:0.2554', 'tiananmen:0.227', 'table:0.2196', 'autocrats:0.2014', 'march:0.2003', 'secretary:0.1849', 'pledge:0.1719', 'tell:0.1591', 'oleksii:0.1575', 'long:0.1568', 'begin:0.1537', 'consequential:0.1411', 'week:0.138', 'duda:0.1316', 'later:0.1307', 'opposite:0.1303', 'flow:0.1147', 'official:0.1101', 'second:0.1084', 'backbone:0.0831', 'price:0.0766', 'grow:0.0639', 'added:0.0412']+titles_keywords+['biden:0.4473', 'warsaw:0.3522', 'ukrainian:0.1968', 'meets:0.1888', 'ministers:0.1738']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/ewn.co.za/Deeply worried UN chief says time to defuse Ukraine crisis.txt+eventbasecode40+eventcode40+avgtone0.47441860465116276+goldsteinscale0.55+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.023026315789473683+news_keywords+['diplomacy:0.4407', 'evacuation:0.3391', 'ukrainian:0.2992', 'invade:0.2911', 'threat:0.2603', 'escalate:0.256', 'meeting:0.2327', 'nations:0.2318', 'worry:0.2173', 'agreement:0.2118', 'rhetoric:0.2021', 'insisting:0.1765', 'guterres:0.1693', 'secretary:0.1654', 'say:0.1607', 'plan:0.1508', 'refrain:0.1389', 'end:0.1368', 'calling:0.1352', 'united:0.1352', 'brief:0.1302', 'change:0.1253', 'disastrous:0.1237', 'thursday:0.1192', 'state:0.0847', 'dymtro:0.0816', 'possibility:0.0773', 'ground:0.0536', 'underline:0.0488', 'welcome:0.0402']+titles_keywords+['crisis:0.2941', 'ukraine:0.2757', 'worried:0.2645', 'defuse:0.262', 'says:0.1101']"
+        ]
+    ]
+}

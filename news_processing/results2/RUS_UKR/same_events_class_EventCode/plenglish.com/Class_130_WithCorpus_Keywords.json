@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+130":[
+        [
+            "20220615+../news_crawling/RUS_UKR/p_articles/plenglish.com/Moscow blames West because there is still no peace in Donbass.txt+eventbasecode130+eventcode130+avgtone0.488095238095238+goldsteinscale0.27999999999999997+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kiev:0.4575', 'russia:0.3363', 'peaceful:0.3209', 'negotiation:0.3081', 'riyabkov:0.2947', 'donbass:0.228', 'blame:0.2104', 'supply:0.182', 'position:0.1769', 'armed:0.1736', 'warn:0.1685', 'convoys:0.1672', 'forward:0.1632', 'authority:0.1622', 'hold:0.1458', 'land:0.1306', 'foreign:0.1222', 'fact:0.1163', 'bilateral:0.1129', 'fully:0.112', 'state:0.107', 'negative:0.107', 'send:0.1014', 'puppeteer:0.0997', 'come:0.0952', 'include:0.0913', 'attempt:0.0911', 'tv:0.0848', 'track:0.0767', 'april:0.075']+titles_keywords+['moscow:0.4875', 'donbass:0.3789', 'blames:0.3351', 'west:0.2499', 'peace:0.2449']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220821+../news_crawling/RUS_UKR/p_articles/plenglish.com/Ukraine uses NATO ammunition in attacks on nuclear power station.txt+eventbasecode130+eventcode130+avgtone0.46354166666666674+goldsteinscale0.27999999999999997+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nato:0.4914', 'kiev:0.422', 'russia:0.3375', 'reactor:0.3121', 'attack:0.3103', 'terrorism:0.2984', 'provocation:0.2833', 'ammunition:0.2604', 'warn:0.2382', 'zaporozhie:0.2207', 'rogogov:0.1953', 'operate:0.1888', 'shell:0.1676', 'result:0.1642', 'range:0.1602', 'order:0.1592', 'western:0.1575', 'stage:0.1512', 'authority:0.151', 'leak:0.1509', 'thursday:0.1424', 'waste:0.1405', 'blame:0.1399', 'telegram:0.1374', 'repository:0.1246', 'state:0.1223', 'abnormal:0.1137', 'create:0.1099', 'opposite:0.1097', 'millimeter:0.0972']+titles_keywords+['nato:0.4612', 'ukraine:0.4311', 'ammunition:0.4115', 'nuclear:0.3586', 'uses:0.1621']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/plenglish.com/Rousseff urges to invest in the poor to combat inequality.txt+eventbasecode130+eventcode130+avgtone0.4837837837837837+goldsteinscale0.27999999999999997+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['globalization:0.3994', 'zapatero:0.3902', 'puebla:0.3686', 'rousseff:0.3601', 'janeiro:0.3444', 'neoliberalism:0.3257', 'coup:0.3178', 'seminar:0.3022', 'democratic:0.2987', 'ukraine:0.2905', 'latin:0.2677', 'centralize:0.2597', 'presidents:0.2592', 'debate:0.2578', 'participate:0.2525', 'equality:0.2458', 'future:0.244', 'specify:0.2171', 'movement:0.2003', 'power:0.1966', 'da:0.1781', 'warn:0.1751', 'uerj:0.1717', 'health:0.169', 'poor:0.142', 'population:0.1387', 'integration:0.1292', 'head:0.1162', 'generate:0.1103', 'highlight:0.0995']+titles_keywords+['rousseff:0.575', 'invest:0.3903', 'inequality:0.3212', 'poor:0.2583', 'combat:0.0765']"
+        ]
+    ]
+}

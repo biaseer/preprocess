@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+72":[
+        [
+            "20220624+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/Kremlin says Ukraines EU candidacy is a domestic European issue.txt+eventbasecode72+eventcode72+avgtone0.4856321839080459+goldsteinscale0.915+nummentions0.01088534107402032+numarticles0.011602610587382161+numsources0.08552631578947369+news_keywords+['nato:0.4756', 'moldova:0.4464', 'ukraines:0.4427', 'kremlin:0.3794', 'dmitry:0.3016', 'war:0.2923', 'european:0.245', 'bloc:0.2425', 'coalition:0.2359', 'georgians:0.2337', 'nation:0.2129', 'join:0.209', 'relation:0.2082', 'affair:0.2077', 'candidacy:0.1893', 'compare:0.1777', 'trigger:0.173', 'important:0.173', 'issue:0.1705', 'power:0.1596', 'say:0.1515', 'sanction:0.1469', 'obtain:0.1463', 'extent:0.1349', 'reporter:0.1316', 'capital:0.1268', 'thursday:0.1181', 'send:0.0868', 'wage:0.0812', 'set:0.0711']+titles_keywords+['ukraines:0.4501', 'kremlin:0.442', 'candidacy:0.2362', 'issue:0.1492', 'says:0.0729']"
+        ]
+    ],
+    "UKR+RUS+72":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/War and cryptocurrency.txt+eventbasecode72+eventcode72+avgtone0.49257057949479943+goldsteinscale0.915+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['cryptocurrency:0.6072', 'ukraine:0.3867', 'decentralized:0.3634', 'liquidity:0.3267', 'investment:0.3168', 'oligarch:0.3122', 'concern:0.2661', 'value:0.224', 'nfts:0.2226', 'military:0.2138', 'evidence:0.2082', 'fundraise:0.2076', 'sanction:0.2021', 'transaction:0.1989', 'historical:0.1957', 'ip:0.1951', 'transformation:0.1946', 'craze:0.1935', 'consolidate:0.1712', 'fight:0.1711', 'mechanism:0.1701', 'avoid:0.1642', 'population:0.163', 'end:0.1401', 'option:0.1395', 'allow:0.1386', 'degree:0.138', 'cho:0.129', 'additionally:0.1158', 'today:0.0805']+titles_keywords+['cryptocurrency:0.5815', 'war:0.5596']"
+        ]
+    ]
+}

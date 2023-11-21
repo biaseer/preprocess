@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/nbcnews.com/Zelenskyy accused Russia of using phosphorus bombs What does that mean.txt+eventbasecode180+eventcode180+avgtone0.46422628951747086+goldsteinscale0.05+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['munitions:0.4115', 'phosphorus:0.3771', 'ukrainian:0.3733', 'nato:0.3615', 'syria:0.337', 'russias:0.3361', 'vladimir:0.3262', 'incendiary:0.3249', 'terrorist:0.3226', 'nuclear:0.299', 'war:0.2956', 'toxic:0.2785', 'indiscriminately:0.239', 'evidence:0.2337', 'allegation:0.2262', 'burn:0.2233', 'smokescreen:0.207', 'protocol:0.1984', 'severity:0.1845', 'prohibit:0.1832', 'shell:0.1678', 'tell:0.1636', 'translation:0.1597', 'image:0.1488', 'cause:0.1354', 'produce:0.1244', 'overview:0.1191', 'nbc:0.1079', 'include:0.0986', 'true:0.0737']+titles_keywords+['zelenskyy:0.4676', 'phosphorus:0.4418', 'bombs:0.397', 'russia:0.2761', 'accused:0.1603']"
+        ],
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/nbcnews.com/Biden commits additional aid to Ukraine as Russia declares success in Mariupol.txt+eventbasecode180+eventcode180+avgtone0.49118165784832457+goldsteinscale0.05+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['putin:0.4337', 'kyiv:0.3522', 'war:0.32', 'congress:0.3141', 'pentagon:0.301', 'administration:0.2847', 'soon:0.2702', 'announce:0.2616', 'ammunition:0.2577', 'sanction:0.2544', 'oppose:0.2498', 'plan:0.2427', 'continue:0.2358', 'order:0.2279', 'know:0.222', 'capability:0.2168', 'civilian:0.2054', 'remark:0.1991', 'anticipated:0.1955', 'drawdown:0.1873', 'modernize:0.1857', 'month:0.1815', 'additional:0.1808', 'long:0.1798', 'send:0.1405', 'million:0.1378', 'nearly:0.1366', 'eastern:0.1366', 'grateful:0.1338', 'itopens:0.1118']+titles_keywords+['ukraine:0.3826', 'biden:0.3402', 'aid:0.2546', 'mariupol:0.212', 'additional:0.2117']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+14":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/maltatoday.com.mt/Updated Russia orders troops into eastern Ukraine.txt+eventbasecode14+eventcode14+avgtone0.48571428571428577+goldsteinscale0.5+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4781', 'peacekeeping:0.4495', 'putin:0.4039', 'invade:0.3677', 'separatist:0.3571', 'territory:0.2797', 'boris:0.2372', 'agreement:0.2355', 'emergency:0.2127', 'know:0.2041', 'order:0.1937', 'nonsense:0.1882', 'fight:0.1691', 'declare:0.1612', 'artillery:0.1606', 'lengthy:0.1506', 'afraid:0.1498', 'executive:0.144', 'monday:0.1401', 'updated:0.1385', 'refer:0.137', 'directviolation:0.1318', 'pretext:0.1266', 'amid:0.1143', 'greenfield:0.1106', 'new:0.1046', 'josep:0.0903', 'thetwo:0.0797', 'unity:0.0715', 'firmness:0.0693']+titles_keywords+['ukraine:0.4683', 'troops:0.3087', 'updated:0.2892', 'orders:0.2563', 'eastern:0.1924']"
+        ]
+    ],
+    "UKR+RUS+14":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/maltatoday.com.mt/Russian strike on Ukrainian train station leaves 30 dead over 100 injured.txt+eventbasecode14+eventcode14+avgtone0.4743589743589744+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['donetsk:0.4752', 'ukrainian:0.4323', 'russia:0.3786', 'evacuation:0.355', 'strike:0.3074', 'railway:0.3043', 'missile:0.2769', 'easternmost:0.2607', 'report:0.2317', 'military:0.2077', 'morning:0.1852', 'operate:0.1814', 'people:0.1676', 'kramatorsk:0.1623', 'march:0.1621', 'voting:0.1572', 'know:0.1566', 'result:0.1468', 'fear:0.1426', 'type:0.1397', 'rights:0.1261', 'dead:0.1251', 'main:0.1184', 'child:0.1151', 'follow:0.1104', 'adjacent:0.1065', 'governor:0.1061', 'building:0.0774', 'try:0.0694', 'thousand:0.0656']+titles_keywords+['russian:0.3454', 'strike:0.2598', '30:0.1575', 'station:0.1439', 'dead:0.1011']"
+        ]
+    ]
+}

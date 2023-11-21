@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+60":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/fox5atlanta.com/2 US veterans from Alabama reported missing in Ukraine.txt+eventbasecode60+eventcode60+avgtone0.485524728588661+goldsteinscale0.8+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['ukrainian:0.4775', 'russias:0.3586', 'war:0.3552', 'invasion:0.3458', 'enlist:0.3205', 'combatant:0.2815', 'separatist:0.2776', 'government:0.2561', 'information:0.2104', 'report:0.2063', 'heard:0.2056', 'concern:0.2021', 'feel:0.1972', 'shortly:0.1966', 'safer:0.1966', 'turn:0.1941', 'continue:0.1842', 'alex:0.1829', 'huynhs:0.1814', 'cite:0.174', 'robotics:0.1731', 'say:0.1666', 'geneva:0.1562', 'wrong:0.1539', 'forced:0.1408', 'confirmthat:0.1397', 'day:0.1326', 'feb:0.1223', 'completely:0.1003', 'send:0.0784']+titles_keywords+['veterans:0.4207', 'missing:0.3179', 'ukraine:0.2684', 'alabama:0.2265', 'reported:0.0805']"
+        ]
+    ],
+    "RUS+UKR+60":[
+        [
+            "20220528+../news_crawling/RUS_UKR/p_articles/fox5atlanta.com/Putin blames West for food supply issues in 80minute call with France German leaders.txt+eventbasecode60+eventcode60+avgtone0.484525447042641+goldsteinscale0.8+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.01644736842105263+news_keywords+['kremlin:0.4869', 'ukraines:0.424', 'nato:0.3649', 'sergey:0.3361', 'lviv:0.3182', 'invasion:0.2995', 'separatists:0.2672', 'prepare:0.2577', 'peaceful:0.2444', 'president:0.2428', 'news:0.239', 'sievierodonetsk:0.2379', 'emphasize:0.2218', 'read:0.2206', 'flee:0.2194', 'telegram:0.2185', 'prevail:0.2035', 'know:0.2033', 'organisation:0.1969', 'resume:0.1917', 'western:0.1846', 'sophisticated:0.1733', 'blame:0.171', 'week:0.169', 'end:0.1685', 'treat:0.1643', 'strike:0.1599', 'long:0.1492', 'commodity:0.1418', 'population:0.1012']+titles_keywords+['putin:0.4329', 'france:0.2897', 'blames:0.2767', 'food:0.2273', '80minute:0.0861']"
+        ]
+    ]
+}

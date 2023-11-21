@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+195":[
+        [
+            "20220812+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Russia Ukraine spar over fighting near nuclear facility.txt+eventbasecode195+eventcode195+avgtone0.46913580246913583+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.547', 'kremlin:0.4756', 'nato:0.4236', 'demilitarizing:0.3897', 'zelenskyy:0.2835', 'border:0.2768', 'newspaper:0.2582', 'annex:0.2537', 'industrial:0.252', 'catastrophe:0.2436', 'investigation:0.2425', 'anonymity:0.2382', 'warn:0.2248', 'telegram:0.2165', 'fight:0.2145', 'counterpart:0.2131', 'presidential:0.2035', 'important:0.197', 'grid:0.1919', 'forefront:0.1872', 'winter:0.1829', 'combine:0.1811', 'function:0.1761', 'term:0.1752', 'increase:0.1725', 'soon:0.1576', 'export:0.1526', 'long:0.1507', 'end:0.1484', 'sluggish:0.1044']+titles_keywords+['ukraine:0.4452', 'spar:0.3997', 'nuclear:0.3382', 'facility:0.1733', 'near:0.168']"
+        ]
+    ],
+    "UKR+RUS+195":[
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Ukraine says 9 Russian warplanes destroyed in Crimea blasts.txt+eventbasecode195+eventcode195+avgtone0.4659477866061294+goldsteinscale0.0+nummentions0.11973875181422351+numarticles0.12037708484408992+numsources0.16776315789473684+news_keywords+['crimea:0.4571', 'kremlin:0.4256', 'disrupt:0.311', 'war:0.2954', 'explosion:0.2937', 'information:0.2788', 'pandemic:0.272', 'journalist:0.2632', 'election:0.2605', 'zelenskyy:0.2588', 'industrialize:0.2339', 'stab:0.2251', 'stem:0.2216', 'rcmp:0.2138', 'hear:0.2055', 'log:0.1979', 'compare:0.1975', 'huge:0.1965', 'significance:0.1964', 'world:0.1962', 'anticipate:0.1947', 'like:0.1906', 'help:0.1862', 'thursday:0.1783', 'simultaneous:0.1777', 'general:0.1767', 'ford:0.1524', 'longer:0.1523', 'export:0.1405', 'sluggish:0.1106']+titles_keywords+['crimea:0.3626', 'warplanes:0.3436', 'blasts:0.2262', 'destroyed:0.1983', 'says:0.0722']"
+        ]
+    ]
+}

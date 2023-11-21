@@ -1,0 +1,17 @@
+{
+    "CAN+RUS+180":[
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Live updates Ukrainians wait in Mexico City for US entry.txt+eventbasecode180+eventcode180+avgtone0.48621460506706404+goldsteinscale0.05+nummentions0.12336719883889695+numarticles0.12400290065264685+numsources0.1875+news_keywords+['ukraine:0.4916', 'kremlin:0.4497', 'evacuate:0.3638', 'diplomatic:0.3307', 'war:0.3208', 'readiness:0.3176', 'refugee:0.3099', 'blockade:0.3045', 'regiment:0.2877', 'news:0.2875', 'coronavirus:0.2716', 'zelenskyy:0.2572', 'soon:0.2564', 'telegram:0.2551', 'know:0.2317', 'railways:0.226', 'keynote:0.2197', 'inconsistency:0.2065', 'order:0.2058', 'day:0.1937', 'continue:0.1924', 'afraid:0.1785', 'write:0.178', 'pavlo:0.1772', 'longer:0.1768', 'import:0.1661', 'bucha:0.1584', 'th:0.1448', 'hundreds:0.1109', 'sending:0.102']+titles_keywords+['ukrainians:0.3992', 'mexico:0.2359', 'updates:0.1924', 'wait:0.1273', 'entry:0.1226']"
+        ]
+    ],
+    "RUS+UKR+180":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/AP PHOTOS Day 26 In Ukraines capital scenes of fortitude.txt+eventbasecode180+eventcode180+avgtone0.47135416666666663+goldsteinscale0.05+nummentions0.022496371552975326+numarticles0.023205221174764323+numsources0.029605263157894735+news_keywords+['kyiv:0.6256', 'ukraines:0.4932', 'capital:0.3057', 'trishchuk:0.2906', 'humanitarian:0.2821', 'incinerate:0.2126', 'corridor:0.2097', 'cemetery:0.2039', 'resilient:0.2029', 'resident:0.2026', 'volosovets:0.1943', 'assault:0.1859', 'sad:0.1783', 'northeast:0.1759', 'building:0.1629', 'continue:0.1607', 'home:0.156', 'train:0.1535', 'ap:0.1501', 'cover:0.1488', 'plastic:0.1458', 'brief:0.1415', 'scene:0.1415', 'dozen:0.1227', 'terrier:0.1126', 'lie:0.1122', 'forces:0.1022', 'year:0.095', 'young:0.0922', 'entire:0.087']+titles_keywords+['ukraines:0.4516', 'fortitude:0.3708', 'capital:0.3078', 'photos:0.2911', 'ap:0.2416']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220806+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Ukrainian unit digs in for Russian assault on eastern city.txt+eventbasecode180+eventcode180+avgtone0.48536209553158705+goldsteinscale0.05+nummentions0.05370101596516691+numarticles0.05438723712835388+numsources0.11842105263157894+news_keywords+['donetsk:0.4859', 'sloviansks:0.3193', 'russias:0.3142', 'regiment:0.2893', 'invasion:0.2547', 'tank:0.2428', 'strategic:0.2374', 'occur:0.2348', 'prepare:0.2268', 'lull:0.2239', 'industrial:0.2199', 'mortar:0.2146', 'east:0.2056', 'safe:0.2051', 'yurii:0.204', 'remain:0.2019', 'donbas:0.1979', 'long:0.1892', 'fought:0.1761', 'renewed:0.1689', 'weather:0.1596', 'friday:0.1591', 'buy:0.1576', 'help:0.155', 'wont:0.1521', 'cmdr:0.1368', 'furthermore:0.1198', 'associated:0.1036', 'entirely:0.093', 'sent:0.0912']+titles_keywords+['ukrainian:0.394', 'assault:0.2714', 'city:0.1761', 'digs:0.1459', 'eastern:0.1444']"
+        ]
+    ]
+}

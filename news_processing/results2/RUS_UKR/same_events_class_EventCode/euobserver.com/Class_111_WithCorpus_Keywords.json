@@ -1,0 +1,12 @@
+{
+    "HUN+RUS+111":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/euobserver.com/Orbn has hurt Hungarian culture not just politics.txt+eventbasecode111+eventcode111+avgtone0.4958734525447043+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4395', 'fidesz:0.4249', 'nationalist:0.4087', 'hungary:0.3902', 'politics:0.3837', 'propagandisation:0.3646', 'tyranny:0.3581', 'electoral:0.3377', 'agenda:0.3345', 'orbn:0.3328', 'viktor:0.3173', 'censor:0.2931', 'arts:0.2637', 'news:0.2545', 'consolidation:0.247', 'alignment:0.2373', 'result:0.2359', 'discourse:0.2328', 'oppose:0.2316', 'sector:0.2279', 'term:0.2081', 'wall:0.2073', 'critique:0.1994', 'homogeneous:0.1892', 'unreported:0.1706', 'hear:0.1683', 'increase:0.1615', 'include:0.1376', 'unlike:0.1313', 'firsthand:0.0599']+titles_keywords+['hungarian:0.3513', 'orbn:0.3218', 'politics:0.3182', 'culture:0.207', 'hurt:0.1027']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220510+../news_crawling/RUS_UKR/p_articles/euobserver.com/Ukraine shows the EU must think beyond tomorrow.txt+eventbasecode111+eventcode111+avgtone0.47452606635071093+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['geopolitical:0.4373', 'eurocentric:0.4053', 'ukraine:0.4042', 'policymakers:0.3872', 'euobserver:0.3315', 'multilateral:0.3237', 'organisation:0.2799', 'remain:0.2769', 'refugee:0.269', 'foresight:0.261', 'world:0.2507', 'headline:0.2451', 'disrupt:0.2394', 'declaration:0.2388', 'negotiate:0.228', 'pandemic:0.2258', 'align:0.2146', 'landscape:0.2138', 'georgieva:0.1994', 'editor:0.1843', 'hear:0.1837', 'evaluate:0.1748', 'upcoming:0.1723', 'procure:0.1641', 'indo:0.1628', 'right:0.1563', 'bretton:0.1558', 'wider:0.151', 'export:0.1461', 'warned:0.1196']+titles_keywords+['ukraine:0.4922', 'eu:0.3686', 'tomorrow:0.3227', 'think:0.2058', 'shows:0.1505']"
+        ]
+    ]
+}

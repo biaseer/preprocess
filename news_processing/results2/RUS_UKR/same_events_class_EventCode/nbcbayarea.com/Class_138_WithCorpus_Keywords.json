@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+138":[
+        [
+            "20211212+../news_crawling/RUS_UKR/p_articles/nbcbayarea.com/G7 Warns Russia of Massive Consequences If Ukraine Invaded.txt+eventbasecode138+eventcode138+avgtone0.4722863741339492+goldsteinscale0.15+nummentions0.07402031930333818+numarticles0.07469180565627266+numsources0.16776315789473684+news_keywords+['ukraine:0.4689', 'putin:0.435', 'diplomatic:0.3621', 'war:0.3448', 'president:0.3013', 'invaded:0.2933', 'nuclear:0.2771', 'agenda:0.2698', 'worry:0.2559', 'crisis:0.2531', 'escalate:0.2441', 'global:0.2432', 'consequence:0.2324', 'term:0.2195', 'say:0.2103', 'investment:0.2012', 'pipeline:0.2011', 'hawkish:0.1994', 'turn:0.1909', 'promise:0.1845', 'weve:0.165', 'ready:0.1642', 'unified:0.1637', 'carry:0.1616', 'precursor:0.1612', 'indo:0.1411', 'big:0.1394', 'weekend:0.1289', 'hub:0.1194', 'prove:0.1188']+titles_keywords+['ukraine:0.396', 'consequences:0.2772', 'g7:0.264', 'warns:0.2588', 'invaded:0.2447']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/nbcbayarea.com/US Sending MediumRange Rocket Systems to Ukraine Pentagon.txt+eventbasecode138+eventcode138+avgtone0.4909828674481515+goldsteinscale0.15+nummentions0.16690856313497823+numarticles0.16751269035532995+numsources0.11513157894736842+news_keywords+['natos:0.4912', 'kyiv:0.4056', 'putin:0.3463', 'pentagon:0.345', 'rocket:0.3267', 'weaponry:0.3187', 'intercept:0.2737', 'systems:0.2492', 'advance:0.2476', 'receive:0.2409', 'provoke:0.2292', 'plan:0.2273', 'kilometer:0.2201', 'concern:0.2104', 'sievierodonetsk:0.2026', 'soon:0.1971', 'eastern:0.1944', 'approve:0.1902', 'help:0.1877', 'separatist:0.1843', 'additional:0.1781', 'publish:0.1707', 'confidently:0.1695', 'make:0.1664', 'drawdown:0.1527', 'long:0.1466', 'end:0.1421', 'precisely:0.136', 'difference:0.1091', 'doesnt:0.0867']+titles_keywords+['pentagon:0.4234', 'rocket:0.305', 'ukraine:0.295', 'mediumrange:0.1997', 'sending:0.1541']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/calgarysun.com/HE WAS VERY YOUNG Russians bury dead soldiers as Kremlin admits major losses.txt+eventbasecode190+eventcode190+avgtone0.47790697674418603+goldsteinscale0.0+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['peskov:0.4366', 'dmitry:0.4253', 'russian:0.4242', 'kremlin:0.4078', 'caucasus:0.3778', 'dyadyushko:0.3736', 'funeral:0.3477', 'troop:0.2886', 'tragedy:0.2663', 'kill:0.2495', 'honour:0.2387', 'headline:0.2255', 'vitaly:0.2134', 'weep:0.192', 'know:0.1868', 'away:0.1779', 'flank:0.1525', 'feb:0.1463', 'relative:0.1403', 'large:0.1314', 'forum:0.1295', 'special:0.1288', 'elderly:0.1279', 'brass:0.1257', 'visit:0.1244', 'shortly:0.1189', 'send:0.1052', 'junk:0.1024', 'adjust:0.0883', 'welcome:0.0752']+titles_keywords+['kremlin:0.4253', 'bury:0.343', 'young:0.2797', 'soldiers:0.2738', 'losses:0.2114']"
+        ],
+        [
+            "20220612+../news_crawling/RUS_UKR/p_articles/calgarysun.com/Russia destroys bridge over Ukrainian river cutting escape route.txt+eventbasecode190+eventcode190+avgtone0.48125937031484256+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.499', 'kremlin:0.4494', 'evacuate:0.3172', 'hostilities:0.2911', 'destroy:0.2852', 'overthrow:0.2841', 'strategic:0.2732', 'military:0.2713', 'bridge:0.2595', 'expand:0.2577', 'unprovoked:0.2564', 'victory:0.2452', 'separatist:0.2396', 'sievierodonetsk:0.2282', 'update:0.2188', 'headline:0.2123', 'epicenter:0.1893', 'supply:0.1855', 'mortar:0.1738', 'expect:0.1738', 'donbas:0.1669', 'eastern:0.1664', 'long:0.1628', 'range:0.156', 'prosecution:0.1497', 'step:0.1283', 'swathe:0.1182', 'study:0.1139', 'welcome:0.0759', 'partly:0.0597']+titles_keywords+['ukrainian:0.3662', 'river:0.3424', 'bridge:0.3282', 'escape:0.2487', 'destroys:0.2063']"
+        ]
+    ]
+}

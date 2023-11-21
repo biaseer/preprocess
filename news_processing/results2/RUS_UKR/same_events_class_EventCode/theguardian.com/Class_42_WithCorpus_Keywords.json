@@ -1,0 +1,19 @@
+{
+    "EUR+RUS+42":[
+        [
+            "20220205+../news_crawling/RUS_UKR/p_articles/theguardian.com/Boris Johnson and Emmanuel Macron at Cop26 Photograph Murdo MacLeodThe GuardianBoris Johnson and Emmanuel Macron.txt+eventbasecode42+eventcode42+avgtone0.48695652173913045+goldsteinscale0.595+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.3157894736842105+news_keywords+['natos:0.4633', 'macron:0.4352', 'kremlin:0.4017', 'diplomatic:0.3383', 'kyiv:0.3307', 'boris:0.3077', 'attack:0.291', 'government:0.2742', 'crisis:0.2284', 'european:0.2243', 'flag:0.2156', 'malicious:0.2146', 'coronavirus:0.1905', 'downing:0.1832', 'forward:0.1755', 'soon:0.1717', 'planning:0.1708', 'pretext:0.1689', 'engineer:0.1689', 'collaborate:0.1686', 'worry:0.1599', 'visit:0.1555', 'flank:0.1523', 'order:0.1375', 'conclusion:0.1309', 'false:0.1308', 'discus:0.1111', 'current:0.1083', 'weve:0.1031', 'agree:0.0846']+titles_keywords+['macron:0.5843', 'boris:0.2716', 'johnson:0.2446', 'cop26:0.2001', 'photograph:0.1326']"
+        ]
+    ],
+    "FRA+UKR+42":[
+        []
+    ],
+    "RUS+UKR+42":[
+        [],
+        [],
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/theguardian.com/From left Klaus Iohannis Mario Draghi Volodymyr Zelenskiy Emmanuel Macron and Olaf Scholz at the.txt+eventbasecode42+eventcode42+avgtone0.4922480620155039+goldsteinscale0.595+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.511', 'putin:0.4392', 'macron:0.3089', 'peskov:0.2973', 'remain:0.245', 'economy:0.2291', 'iohannis:0.2249', 'invasion:0.1994', 'bloc:0.1885', 'subject:0.1774', 'progress:0.1759', 'fear:0.1671', 'prepare:0.165', 'turn:0.1625', 'affair:0.1607', 'negotiate:0.1579', 'military:0.1565', 'read:0.1534', 'favourable:0.1473', 'modern:0.146', 'soon:0.1406', 'long:0.1331', 'spokesperson:0.1325', 'correlation:0.1303', 'bucha:0.129', 'say:0.1071', 'end:0.1043', 'plus:0.0926', 'hoped:0.0692', 'welcome:0.067']+titles_keywords+['macron:0.5436', 'kyiv:0.3371', 'conference:0.3347', 'left:0.195', 'imagesfrom:0.1503']"
+        ],
+        [],
+        []
+    ]
+}

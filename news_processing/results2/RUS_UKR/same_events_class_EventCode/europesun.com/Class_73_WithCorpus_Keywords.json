@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+73":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/europesun.com/First refugees from eastern Ukraine arrive in Russia.txt+eventbasecode73+eventcode73+avgtone0.4576271186440678+goldsteinscale0.8699999999999999+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.531', 'refugees:0.5293', 'rostov:0.434', 'evacuate:0.3849', 'invade:0.381', 'republics:0.3317', 'border:0.3117', 'arrive:0.2756', 'territory:0.2687', 'breakaway:0.2233', 'military:0.2158', 'report:0.2031', 'ahead:0.1901', 'bus:0.1838', 'donbass:0.179', 'anticipate:0.1695', 'eastern:0.1673', 'action:0.1571', 'authority:0.1569', 'neighbor:0.1546', 'plan:0.1497', 'pretext:0.1494', 'follow:0.1458', 'group:0.1328', 'earlier:0.1287', 'child:0.1142', 'allege:0.1127', 'create:0.1092', 'woman:0.1075', 'month:0.0994']+titles_keywords+['refugees:0.4602', 'ukraine:0.3963', 'russia:0.3082', 'arrive:0.2102', 'eastern:0.1024']"
+        ]
+    ],
+    "RUS+UKR+73":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/europesun.com/Russian missile strike hit buildings in Ukraines city Zhytomyr rescue efforts underway.txt+eventbasecode73+eventcode73+avgtone0.47916666666666674+goldsteinscale0.8699999999999999+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['ukraine:0.4539', 'airstrikes:0.4204', 'missile:0.3224', 'kharkiv:0.2965', 'zhytomyr:0.2952', 'demolish:0.2768', 'rescue:0.2478', 'city:0.2202', 'debris:0.217', 'residential:0.1966', 'building:0.1957', 'underway:0.1957', 'civilian:0.1889', 'hit:0.1856', 'inform:0.166', 'home:0.1571', 'block:0.1555', 'shelling:0.1537', 'flame:0.1503', 'die:0.1461', 'intensify:0.1436', 'search:0.131', 'march:0.1292', 'people:0.1284', 'north:0.128', 'video:0.1277', 'water:0.0924', 'dozen:0.0896', 'second:0.0801', 'according:0.0623']+titles_keywords+['zhytomyr:0.4152', 'ukraines:0.3112', 'rescue:0.2504', 'buildings:0.1872', 'hit:0.1696']"
+        ]
+    ]
+}

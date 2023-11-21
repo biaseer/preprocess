@@ -1,0 +1,12 @@
+{
+    "POL+UKR+173":[
+        [
+            "20211119+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Ransomware persists even as highprofile attacks have slowed.txt+eventbasecode173+eventcode173+avgtone0.4620967741935484+goldsteinscale0.25+nummentions0.14078374455732948+numarticles0.1414068165337201+numsources0.15789473684210525+news_keywords+['ransomware:0.5858', 'cybersecurity:0.4408', 'victims:0.3221', 'extradition:0.3116', 'cryptocurrency:0.2996', 'attack:0.2729', 'ukraine:0.2682', 'urgent:0.266', 'government:0.2498', 'demand:0.2483', 'know:0.245', 'sector:0.2271', 'month:0.2245', 'progress:0.2223', 'report:0.2095', 'soon:0.2039', 'trzaskas:0.1938', 'learn:0.1935', 'reiterate:0.1845', 'exchange:0.1818', 'halt:0.18', 'nakasone:0.1723', 'originate:0.1672', 'sum:0.167', 'theyve:0.1645', 'biden:0.1505', 'wont:0.1239', 'head:0.1219', 'lower:0.1169', 'highprofile:0.1159']+titles_keywords+['ransomware:0.6113', 'highprofile:0.3078', 'persists:0.2015', 'attacks:0.1639', 'slowed:0.1161']"
+        ]
+    ],
+    "RUS+RUS+173":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Russian oligarchs calling for end to invasion of Ukraine.txt+eventbasecode173+eventcode173+avgtone0.48118279569892475+goldsteinscale0.25+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['ukraine:0.4969', 'putins:0.4731', 'oligarchs:0.4551', 'oleg:0.4247', 'war:0.3147', 'nuclear:0.2661', 'deripaska:0.2638', 'invasion:0.2581', 'negotiation:0.2394', 'europeradio:0.2369', 'sanction:0.2366', 'endanger:0.2348', 'involve:0.2292', 'warn:0.2263', 'mordashov:0.2177', 'telegram:0.2031', 'end:0.1919', 'important:0.1762', 'successor:0.1548', 'write:0.1537', 'list:0.1528', 'thursday:0.1398', 'come:0.1373', 'prolong:0.1313', 'global:0.1289', 'number:0.1224', 'mr:0.122', 'accord:0.1072', 'target:0.0951', 'backer:0.0752']+titles_keywords+['oligarchs:0.4699', 'russian:0.3719', 'invasion:0.2995', 'end:0.2476', 'calling:0.142']"
+        ]
+    ]
+}

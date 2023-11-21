@@ -1,0 +1,12 @@
+{
+    "IRL+RUS+141":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/rte.ie/Unions stage protest at Russian embassy over Ukraine invasion.txt+eventbasecode141+eventcode141+avgtone0.48538011695906436+goldsteinscale0.175+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['unionist:0.4554', 'protest:0.423', 'unions:0.3585', 'ukraine:0.3553', 'invasion:0.3286', 'dublin:0.309', 'diplomats:0.3003', 'democracy:0.2408', 'gerasko:0.2306', 'expel:0.1945', 'rally:0.1842', 'flee:0.1813', 'ictu:0.1509', 'illegal:0.1488', 'present:0.1269', 'volodymyr:0.1266', 'stag:0.1201', 'suffer:0.12', 'callinan:0.1152', 'worker:0.1145', 'understand:0.1052', 'support:0.0937', 'trade:0.092', 'month:0.0872', 'remember:0.0784', 'member:0.066', 'result:0.0635', 'thank:0.0542', 'fully:0.0483', 'mr:0.0444']+titles_keywords+['protest:0.4283', 'unions:0.3545', 'invasion:0.2781', 'russian:0.276', 'embassy:0.2658']"
+        ]
+    ],
+    "RUS+RUS+141":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/rte.ie/Young Russian and antiwar a protesters story.txt+eventbasecode141+eventcode141+avgtone0.48606557377049175+goldsteinscale0.175+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukrainian:0.4551', 'activism:0.3947', 'antiwar:0.3884', 'olga:0.3608', 'peaceful:0.3415', 'embassy:0.3128', 'nation:0.2879', 'flower:0.2797', 'realise:0.2587', 'help:0.2521', 'danger:0.2473', 'kiseleva:0.2449', 'stay:0.2416', 'grandchildren:0.2207', 'want:0.2198', 'blacklist:0.2178', 'dublin:0.2113', 'story:0.2099', 'friend:0.2', 'pandemic:0.1916', 'hear:0.1906', 'hat:0.1827', 'able:0.1803', 'text:0.1784', 'funeral:0.1741', 'reason:0.1702', 'end:0.1567', 'carry:0.147', 'ashamed:0.1408', 'lot:0.1135']+titles_keywords+['protesters:0.5019', 'antiwar:0.467', 'russian:0.4453', 'story:0.3222', 'young:0.2309']"
+        ]
+    ]
+}

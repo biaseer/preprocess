@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/skynews.com.au/Explosions heard in Kyiv as Russian President Vladimir Putin declares special military operation on Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4786866359447004+goldsteinscale0.5+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.009868421052631578+news_keywords+['kyiv:0.4685', 'putin:0.4232', 'explosions:0.4043', 'demilitarise:0.3899', 'invade:0.354', 'threat:0.3481', 'military:0.3324', 'peaceful:0.3282', 'operation:0.3261', 'missile:0.3136', 'alert:0.2925', 'airspace:0.2838', 'news:0.2708', 'infrastructure:0.2659', 'underway:0.2354', 'event:0.2279', 'know:0.2086', 'televise:0.2051', 'read:0.1994', 'aforementioned:0.1971', 'authorise:0.1961', 'siren:0.1933', 'tweet:0.1914', 'avoid:0.1874', 'clarification:0.1606', 'high:0.1497', 'create:0.1448', 'kb:0.1332', 'comeazkskg:0.1201', 'global:0.0949']+titles_keywords+['kyiv:0.4993', 'explosions:0.4041', 'putin:0.3595', 'military:0.217', 'heard:0.1033']"
+        ],
+        [
+            "20220802+../news_crawling/RUS_UKR/p_articles/skynews.com.au/Vladimir Putins former aide Antoly Chubais admitted to hospital with suspected rare immune disorder after.txt+eventbasecode10+eventcode10+avgtone0.4646892655367232+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5435', 'dmitry:0.4239', 'illness:0.3381', 'peskov:0.3008', 'chubais:0.2718', 'poison:0.2627', 'resign:0.262', 'aide:0.2266', 'sobchak:0.2232', 'situation:0.2107', 'news:0.2095', 'limbs:0.2051', 'report:0.1931', 'telegram:0.1908', 'barre:0.1823', 'suspect:0.1823', 'unstable:0.1797', 'sad:0.1797', 'presenter:0.1667', 'numb:0.162', 'left:0.1482', 'smirnova:0.1477', 'invasion:0.1428', 'ms:0.1245', 'end:0.124', 'february:0.1239', 'care:0.1226', 'according:0.1115', 'familiar:0.1057', 'global:0.0736']+titles_keywords+['chubais:0.4642', 'vladimir:0.3441', 'antoly:0.236', 'immune:0.2117', 'hospital:0.1747']"
+        ]
+    ]
+}

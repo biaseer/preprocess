@@ -1,0 +1,12 @@
+{
+    "FRA+RUS+42":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/rnz.co.nz/Ukraine France seizes Russian ship over sanctions.txt+eventbasecode42+eventcode42+avgtone0.4724264705882353+goldsteinscale0.595+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4377', 'baltic:0.3703', 'sanction:0.3311', 'invasion:0.3184', 'petersburg:0.3172', 'embassy:0.2927', 'naval:0.2919', 'breaching:0.2849', 'flag:0.2788', 'promsvyazbank:0.2777', 'impounded:0.2739', 'sur:0.2713', 'seize:0.2611', 'paris:0.2346', 'suspect:0.2298', 'boulogne:0.2244', 'port:0.2209', 'intercept:0.2108', 'cargo:0.2101', 'news:0.1786', 'subsidiary:0.1785', 'cooperative:0.1666', 'sign:0.157', 'issue:0.1558', 'sell:0.1301', 'link:0.1271', 'head:0.1072', 'long:0.0825', 'firmness:0.0699', 'say:0.0558']+titles_keywords+['ukraine:0.3668', 'sanctions:0.3381', 'france:0.2872', 'seizes:0.2828', 'ship:0.2502']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/rnz.co.nz/He will not stop at Ukraine Dozens protest Putin at embassy.txt+eventbasecode42+eventcode42+avgtone0.48034591194968557+goldsteinscale0.595+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['putin:0.5138', 'ukraine:0.4908', 'embassy:0.3642', 'evacuate:0.3431', 'flag:0.3094', 'zhurba:0.3042', 'bomb:0.2961', 'protester:0.2861', 'sanction:0.2756', 'organise:0.2547', 'know:0.253', 'woke:0.2513', 'speak:0.2441', 'world:0.2407', 'afraid:0.2399', 'end:0.2385', 'feel:0.2294', 'wrap:0.229', 'arrive:0.2232', 'fight:0.2193', 'message:0.2158', 'like:0.2109', 'dinner:0.2108', 'street:0.2097', 'fake:0.2085', 'head:0.1921', 'plaster:0.1831', 'lana:0.1778', 'colour:0.1555', 'dozens:0.1334']+titles_keywords+['putin:0.4618', 'protest:0.33', 'embassy:0.2866', 'dozens:0.2469', 'stop:0.245']"
+        ]
+    ]
+}

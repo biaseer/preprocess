@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+43":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/nottinghampost.com/Call to bust class sizes to help Ukrainian pupils into school as soon as possible.txt+eventbasecode43+eventcode43+avgtone0.5099540581929556+goldsteinscale0.64+nummentions0.06531204644412192+numarticles0.06598984771573604+numsources0.0625+news_keywords+['ukrainian:0.3702', 'refugee:0.3691', 'shortage:0.3235', 'translation:0.3206', 'teach:0.3163', 'accommodate:0.3086', 'admission:0.2927', 'pupils:0.2874', 'funding:0.2749', 'remain:0.2699', 'councils:0.2689', 'secretary:0.2604', 'writing:0.259', 'concern:0.2572', 'wellbeing:0.218', 'esfa:0.2023', 'protocol:0.1946', 'temporary:0.1877', 'report:0.1876', 'constructively:0.1803', 'additional:0.1732', 'use:0.1652', 'vicinity:0.1567', 'infant:0.1474', 'integrate:0.1454', 'soon:0.1411', 'know:0.1409', 'welcome:0.1139', 'zahawi:0.0999', 'naht:0.055']+titles_keywords+['school:0.3782', 'ukrainian:0.342', 'sizes:0.2248', 'bust:0.1133', 'soon:0.1003']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/nottinghampost.com/What happened as hundreds of Ukraine protesters gathered for demonstration in Nottingham city centre.txt+eventbasecode43+eventcode43+avgtone0.48895027624309395+goldsteinscale0.64+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.01644736842105263+news_keywords+['kyiv:0.5073', 'ukrainians:0.4816', 'putin:0.4018', 'protest:0.3803', 'invasion:0.3191', 'terrorist:0.3174', 'troop:0.3084', 'tymomiychuk:0.3078', 'cossack:0.2508', 'stay:0.2378', 'glory:0.2311', 'history:0.2293', 'happen:0.21', 'shall:0.2072', 'north:0.1998', 'know:0.191', 'protect:0.1766', 'galij:0.1747', 'order:0.1724', 'help:0.1714', 'andriy:0.1607', 'advance:0.149', 'ready:0.1456', 'midday:0.1423', 'thousand:0.1371', 'parent:0.1354', 'square:0.1348', 'big:0.1324', 'smile:0.1286', 'raw:0.0849']+titles_keywords+['protesters:0.5252', 'nottingham:0.4131', 'ukraine:0.3713', 'gathered:0.2889', 'happened:0.2353']"
+        ]
+    ]
+}

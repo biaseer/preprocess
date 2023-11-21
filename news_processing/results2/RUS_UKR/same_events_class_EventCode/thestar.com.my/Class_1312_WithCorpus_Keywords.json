@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+1312":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Russia pushed closer to brink of default after US payment license expires.txt+eventbasecode131+eventcode1312+avgtone0.47575360419397117+goldsteinscale0.21000000000000002+nummentions0.017779390420899856+numarticles0.01849166062364032+numsources0.01644736842105263+news_keywords+['sanctions:0.47', 'kremlin:0.4444', 'ukraine:0.3611', 'reuters:0.3099', 'government:0.3028', 'currency:0.2356', 'import:0.2284', 'border:0.2281', 'countermeasures:0.2233', 'washington:0.2112', 'extend:0.2054', 'bondholder:0.2039', 'yellen:0.2038', 'takeover:0.1978', 'tension:0.1963', 'settle:0.1823', 'forward:0.1743', 'month:0.1724', 'operation:0.1724', 'world:0.17', 'stem:0.1546', 'unprovoked:0.1546', 'freeze:0.139', 'comparison:0.1361', 'appear:0.1285', 'dash:0.1151', 'short:0.1136', 'applies:0.1066', 'karin:0.0853', 'likely:0.0498']+titles_keywords+['russia:0.3744', 'brink:0.1632', 'license:0.1583', 'payment:0.1551', 'expires:0.1229']"
+        ]
+    ],
+    "UKR+RUS+1312":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Ukraines foreign minister calls for severe sanctions on Russia now.txt+eventbasecode131+eventcode1312+avgtone0.4625+goldsteinscale0.21000000000000002+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.5864', 'ukraines:0.5618', 'putin:0.4898', 'sanction:0.3617', 'kuleba:0.2785', 'government:0.2345', 'nations:0.2344', 'impose:0.2336', 'reuterscarlo:0.2016', 'military:0.1811', 'dmytro:0.1793', 'support:0.1493', 'meeting:0.1467', 'severe:0.1364', 'financial:0.1352', 'immediately:0.128', 'sit:0.1218', 'right:0.1195', 'don:0.117', 'naive:0.1147', 'repeat:0.114', 'minister:0.1059', 'plunge:0.1031', 'twitter:0.0999', 'united:0.0964', 'mistake:0.0795', 'february:0.0647', 'allegri:0.0329', 'dark:0.0326', 'past:0.0209']+titles_keywords+['ukraines:0.443', 'sanctions:0.4201', 'severe:0.1949', 'minister:0.1105', 'calls:0.0474']"
+        ]
+    ]
+}

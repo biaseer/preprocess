@@ -1,0 +1,30 @@
+{
+    "GBR+UKR+12":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/ndtv.com/UK PM Says Putin Has Political Space To Withdraw From Ukraine.txt+eventbasecode12+eventcode12+avgtone0.467680608365019+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4407', 'ukraine:0.3455', 'boris:0.2907', 'threaten:0.2595', 'nuclear:0.2489', 'space:0.2456', 'conflict:0.2386', 'withdraw:0.2129', 'concession:0.2053', 'manoeuvre:0.2015', 'invasion:0.1936', 'headline:0.1881', 'risk:0.1858', 'worry:0.1682', 'uk:0.1552', 'censorship:0.1537', 'johnson:0.1333', 'massive:0.1315', 'despite:0.1299', 'possibility:0.1246', 'increasingly:0.1078', 'say:0.1033', 'pm:0.0937', 'talktv:0.0925', 'end:0.0864', 'really:0.0757', 'tuesday:0.0752', 'partly:0.067', 'backing:0.0332', 'thank:0.0281']+titles_keywords+['putin:0.3999', 'space:0.2168', 'withdraw:0.1858', 'uk:0.1473', 'says:0.0409']"
+        ]
+    ],
+    "RUS+RUS+12":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/ndtv.com/Highly Appreciate Indias Balanced Position Russia On Ukraine Crisis.txt+eventbasecode12+eventcode12+avgtone0.49104477611940295+goldsteinscale0.48+nummentions0.009071117561683599+numarticles0.009789702683103698+numsources0.023026315789473683+news_keywords+['ukraine:0.4845', 'putin:0.4034', 'diplomatic:0.324', 'indias:0.3056', 'delhi:0.2386', 'modi:0.2365', 'aggression:0.2164', 'order:0.1918', 'invasion:0.1905', 'capital:0.1824', 'headline:0.1793', 'concern:0.1602', 'protect:0.1542', 'abstain:0.1494', 'leverage:0.1471', 'use:0.1421', 'continue:0.137', 'feed:0.132', 'balanced:0.1299', 'cold:0.1299', 'independent:0.1295', 'state:0.1295', 'world:0.1246', 'explicitly:0.1241', 'say:0.1194', 'sector:0.1149', 'unsc:0.1111', 'far:0.0941', 'appreciate:0.0746', 'ndtv:0.0636']+titles_keywords+['ukraine:0.4192', 'indias:0.3323', 'balanced:0.256', 'crisis:0.1418', 'appreciate:0.0986']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/ndtv.com/Russia Repositioning Forces Near Ukraine Capital Not Withdrawing US.txt+eventbasecode12+eventcode12+avgtone0.45738636363636365+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5515', 'russians:0.3504', 'repositioning:0.32', 'retreat:0.2928', 'pentagon:0.2912', 'withdrawing:0.2614', 'capital:0.2377', 'threat:0.2328', 'away:0.203', 'headline:0.2013', 'remain:0.1834', 'near:0.1723', 'watch:0.1621', 'publish:0.1578', 'syndicate:0.1419', 'feed:0.1396', 'capture:0.1391', 'ndtv:0.1381', 'prepare:0.1237', 'force:0.1231', 'prioritize:0.1186', 'tuesday:0.1129', 'major:0.0987', 'say:0.0913', 'kirby:0.0902', 'edit:0.0854', 'inflict:0.0746', 'number:0.0678', 'spokesman:0.066', 'probably:0.0301']+titles_keywords+['ukraine:0.3802', 'repositioning:0.303', 'withdrawing:0.2747', 'capital:0.2162', 'forces:0.1478']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/ndtv.com/Ukraine Says Multiple Dead Including A Child In Kharkiv Shelling.txt+eventbasecode12+eventcode12+avgtone0.442857142857143+goldsteinscale0.48+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4333', 'kharkiv:0.4079', 'casualty:0.3264', 'war:0.2626', 'dead:0.2261', 'assault:0.2127', 'defend:0.2118', 'headline:0.1977', 'child:0.1804', 'mayor:0.1773', 'shelling:0.1772', 'warn:0.1751', 'multiple:0.1457', 'risk:0.1257', 'cause:0.1228', 'publish:0.121', 'ndtv:0.1204', 'new:0.111', 'feed:0.102', 'staff:0.0956', 'ready:0.0907', 'ihor:0.0906', 'earlier:0.0855', 'says:0.0824', 'edit:0.0807', 'eastern:0.0746', 'heavy:0.074', 'syndicate:0.0738', 'focus:0.0705', 'including:0.0492']+titles_keywords+['ukraine:0.3867', 'dead:0.2355', 'shelling:0.2072', 'child:0.1863', 'multiple:0.1772']"
+        ],
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/ndtv.com/15000 Killed In Russias Ukraine Cannon Fodder Say US UK.txt+eventbasecode12+eventcode12+avgtone0.444852941176471+goldsteinscale0.48+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukrainians:0.5171', 'ukraine:0.5128', 'putin:0.4323', 'russias:0.4244', 'russian:0.4065', 'afghanistan:0.3045', 'casualty:0.2607', 'invasion:0.2606', 'cia:0.2291', 'dead:0.2195', 'headline:0.2031', 'victory:0.1641', 'suffer:0.1599', 'number:0.1513', 'estimate:0.1386', 'toll:0.1338', 'thursday:0.1319', 'disproportionately:0.1196', 'roughly:0.1121', 'low:0.1057', 'aspen:0.0929', 'fodder:0.0921', 'far:0.0853', 'say:0.0837', 'significant:0.0832', 'little:0.0784', 'collar:0.0758', 'twice:0.054', 'ndtv:0.0468', 'offer:0.0419']+titles_keywords+['ukraine:0.4815', '15000:0.2914', 'cannon:0.2051', 'killed:0.1882', 'fodder:0.1879']"
+        ]
+    ],
+    "USA+RUS+12":[
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/ndtv.com/Russia To Repay Foreign Debt In Rubles After US Ends Exemption.txt+eventbasecode12+eventcode12+avgtone0.4735772357723577+goldsteinscale0.48+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['rubles:0.4486', 'russia:0.3954', 'tsar:0.359', 'defaulted:0.2721', 'treasury:0.2691', 'creditor:0.2529', 'sanction:0.2411', 'pay:0.2203', 'revolution:0.2195', 'reuters:0.2015', 'yellen:0.1965', 'allow:0.1561', 'obligation:0.1471', 'bond:0.1358', 'convert:0.135', 'telegram:0.1305', 'ends:0.1243', 'states:0.1139', 'statement:0.1108', 'avoid:0.103', 'current:0.1001', 'extend:0.1', 'later:0.098', 'way:0.0958', 'deteriorate:0.0949', 'recover:0.0896', 'common:0.0712', 'week:0.0653', 'likely:0.056', 'unfriendly:0.0266']+titles_keywords+['rubles:0.4637', 'russia:0.3652', 'repay:0.2845', 'exemption:0.1876', 'ends:0.0819']"
+        ]
+    ]
+}

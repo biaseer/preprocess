@@ -1,0 +1,25 @@
+{
+    "BLR+RUS+43":[
+        [
+            "20211129+../news_crawling/RUS_UKR/p_articles/newsweek.com/Putin Says Russia and Belarus Will Hold Joint War Games Early Next Year.txt+eventbasecode43+eventcode43+avgtone0.46477272727272734+goldsteinscale0.64+nummentions0.07982583454281568+numarticles0.08049311094996374+numsources0.08552631578947369+news_keywords+['putin:0.5027', 'belarus:0.4933', 'nato:0.4326', 'war:0.4089', 'lukashenko:0.3741', 'tensions:0.3644', 'invade:0.3491', 'reuters:0.3288', 'election:0.2824', 'border:0.2795', 'petersburg:0.2701', 'coordinate:0.2346', 'nation:0.2337', 'sanction:0.2314', 'activity:0.2291', 'meeting:0.2253', 'economic:0.2094', 'agreement:0.1927', 'provide:0.1924', 'training:0.1841', 'respond:0.1825', 'increase:0.175', 'join:0.1717', 'drill:0.1638', 'pawn:0.141', 'like:0.1351', 'hold:0.1314', 'month:0.1293', 'later:0.1156', 'likely:0.0417']+titles_keywords+['belarus:0.4108', 'putin:0.3863', 'war:0.2943', 'hold:0.1558', 'year:0.1297']"
+        ]
+    ],
+    "RUS+RUS+43":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/newsweek.com/What Trump Has Said About Putin Since Russian Invasion of Ukraine Began.txt+eventbasecode43+eventcode43+avgtone0.48613138686131385+goldsteinscale0.64+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.5354', 'ukraineof:0.4149', 'hannity:0.3238', 'donald:0.3213', 'conflict:0.2745', 'headline:0.2692', 'separatist:0.2632', 'talk:0.2626', 'fake:0.2279', 'know:0.213', 'accuse:0.2041', 'invasion:0.2002', 'distort:0.1964', 'repeat:0.1957', 'evil:0.1942', 'like:0.1891', 'want:0.1883', 'look:0.1847', 'enter:0.1796', 'jinping:0.1762', 'avoid:0.1715', 'world:0.1706', 'savvy:0.1666', 'big:0.1572', 'vice:0.1552', 'audience:0.1538', 'rinos:0.1522', 'north:0.1457', 'week:0.1118', 'buck:0.0743']+titles_keywords+['putin:0.5474', 'ukraine:0.3979', 'invasion:0.2495', 'began:0.1504', 'said:0.0933']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/newsweek.com/Putin Was a Wuss When Trump Was President Argues Judge Jeanine Pirro.txt+eventbasecode43+eventcode43+avgtone0.47615384615384615+goldsteinscale0.64+nummentions0.014150943396226415+numarticles0.014865844815083394+numsources0.019736842105263157+news_keywords+['putin:0.5555', 'presidency:0.3721', 'biden:0.371', 'hannity:0.3307', 'donald:0.3237', 'invade:0.2898', 'threat:0.2797', 'sanction:0.2447', 'nuclear:0.233', 'news:0.226', 'report:0.2218', 'worry:0.2105', 'implication:0.2087', 'insinuate:0.1975', 'wuss:0.1911', 'end:0.1825', 'consulate:0.1825', 'chinese:0.1823', 'argues:0.1775', 'meeting:0.173', 'wall:0.1717', 'say:0.1665', 'behavior:0.1598', 'respondent:0.1557', 'monday:0.1446', 'feeble:0.1303', 'follow:0.1225', 'largely:0.1114', 'state:0.1011', 'deal:0.0671']+titles_keywords+['putin:0.4418', 'wuss:0.3422', 'judge:0.3054', 'pirro:0.2989', 'jeanine:0.1327']"
+        ],
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/newsweek.com/Who is Valery Gerasimov Top Putin General Surveying Ukraine Front Lines.txt+eventbasecode43+eventcode43+avgtone0.4813664596273292+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4757', 'sergei:0.4372', 'gerasimov:0.4306', 'ukrainian:0.4286', 'general:0.3486', 'veteran:0.3408', 'troop:0.3149', 'pentagon:0.3017', 'valery:0.2573', 'report:0.196', 'appointment:0.1876', 'attack:0.1869', 'ranking:0.1737', 'forces:0.1721', 'progress:0.1718', 'newsweek:0.1605', 'replace:0.1526', 'donbas:0.1485', 'surveying:0.1254', 'school:0.1231', 'rumor:0.1202', 'anonymity:0.1135', 'month:0.1104', 'alongside:0.108', 'lines:0.1078', 'uneven:0.1017', 'preview:0.0989', 'new:0.0886', 'best:0.0707', 'minimal:0.0486']+titles_keywords+['gerasimov:0.5036', 'ukraine:0.3677', 'valery:0.3347', 'general:0.2853', 'lines:0.1735']"
+        ]
+    ],
+    "UKR+UKR+43":[
+        [
+            "20220804+../news_crawling/RUS_UKR/p_articles/newsweek.com/Russia Developing New Tactic to Counter US HIMARS Ukraine Official.txt+eventbasecode43+eventcode43+avgtone0.4957983193277311+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['artillery:0.4425', 'airstrike:0.4291', 'ukraine:0.4211', 'pentagon:0.3614', 'tactic:0.354', 'himars:0.3259', 'troop:0.3133', 'reznikov:0.2956', 'warhead:0.2894', 'volley:0.2828', 'news:0.2754', 'intercept:0.2558', 'munition:0.2416', 'know:0.2299', 'refer:0.2212', 'uaarmy:0.2107', 'disperse:0.2088', 'success:0.2079', 'developing:0.2038', 'strengthen:0.1862', 'gmlrs:0.1739', 'manufacturer:0.1682', 'synonym:0.1608', 'unexpected:0.1544', 'additional:0.1493', 'far:0.1433', 'tout:0.1403', 'secdef:0.1366', 'reliably:0.1356', 'thank:0.0603']+titles_keywords+['tactic:0.4441', 'ukraine:0.4143', 'himars:0.1891', 'official:0.1008', 'counter:0.077']"
+        ]
+    ]
+}

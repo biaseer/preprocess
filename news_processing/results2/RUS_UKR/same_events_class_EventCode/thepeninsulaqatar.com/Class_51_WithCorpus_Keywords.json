@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+51":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/thepeninsulaqatar.com/EU offers farmers aid more land to grow due to Ukraine war.txt+eventbasecode51+eventcode51+avgtone0.5+goldsteinscale0.67+nummentions0.022133526850507984+numarticles0.02284263959390863+numsources0.019736842105263157+news_keywords+['agriculture:0.4303', 'ukraine:0.4068', 'crop:0.3332', 'war:0.2807', 'shortage:0.2729', 'euro:0.2632', 'sunflower:0.2354', 'grow:0.2319', 'feed:0.2305', 'ensure:0.2194', 'halve:0.2112', 'strategic:0.1989', 'assistance:0.1951', 'fallow:0.1927', 'bloc:0.1892', 'trade:0.186', 'spring:0.1774', 'remain:0.1637', 'mitigate:0.1618', 'commission:0.1572', 'potential:0.1561', 'counterpart:0.1426', 'immediate:0.1262', 'allow:0.1245', 'tell:0.12', 'example:0.1081', 'exporter:0.1022', 'particularly:0.0988', 'minister:0.0847', 'set:0.0829']+titles_keywords+['farmers:0.383', 'eu:0.2942', 'grow:0.2334', 'aid:0.2313', 'offers:0.1045']"
+        ]
+    ],
+    "WST+UKR+51":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/thepeninsulaqatar.com/Russia says West helping Ukraine prepare fake allegations of war crimes.txt+eventbasecode51+eventcode51+avgtone0.45881006864988544+goldsteinscale0.67+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['ukraine:0.4802', 'putin:0.3959', 'genocide:0.3514', 'nato:0.3389', 'journalist:0.3134', 'russophobia:0.3084', 'victim:0.2848', 'accuse:0.2846', 'territory:0.2707', 'confrontation:0.2686', 'government:0.2678', 'fake:0.2271', 'evidence:0.2195', 'help:0.2149', 'operation:0.2078', 'troop:0.207', 'nonsense:0.2039', 'smear:0.2038', 'burn:0.2015', 'capital:0.1968', 'prepare:0.1779', 'western:0.1747', 'develop:0.1701', 'direct:0.1488', 'bucha:0.1429', 'like:0.1418', 'displace:0.125', 'new:0.124', 'backdrop:0.1165', 'stag:0.0853']+titles_keywords+['ukraine:0.4088', 'allegations:0.3277', 'fake:0.2482', 'prepare:0.1956', 'helping:0.1025']"
+        ]
+    ]
+}

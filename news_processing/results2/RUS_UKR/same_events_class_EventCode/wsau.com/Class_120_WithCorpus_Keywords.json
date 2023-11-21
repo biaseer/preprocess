@@ -1,0 +1,12 @@
+{
+    "CYP+RUS+120":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/wsau.com/Cyprus games writer denies links to malware found before Russian invasion.txt+eventbasecode120+eventcode120+avgtone0.47003154574132494+goldsteinscale0.3+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['cyberattacks:0.5582', 'malware:0.4456', 'spy:0.3676', 'malicious:0.345', 'reuters:0.34', 'cert:0.3369', 'threat:0.3264', 'invasion:0.3246', 'symantec:0.3156', 'cypriot:0.2937', 'moscows:0.2882', 'government:0.2704', 'analysis:0.2651', 'warn:0.2625', 'implicate:0.2526', 'digicert:0.2458', 'know:0.2411', 'code:0.2386', 'company:0.2357', 'dec:0.2292', 'entangled:0.2174', 'sector:0.2037', 'digitals:0.2026', 'esets:0.202', 'issue:0.2001', 'write:0.1998', 'acquire:0.1882', 'possible:0.1592', 'trachonitis:0.0838', 'guerrero:0.0787']+titles_keywords+['cyprus:0.3282', 'malware:0.3016', 'writer:0.2213', 'links:0.1592', 'denies:0.1306']"
+        ]
+    ],
+    "RUS+WST+120":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/wsau.com/Ukraines army plans drills with drones antitank missiles from Feb 10.txt+eventbasecode120+eventcode120+avgtone0.4862068965517241+goldsteinscale0.3+nummentions0.03955007256894049+numarticles0.04024655547498187+numsources0.03289473684210526+news_keywords+['ukraines:0.4625', 'nato:0.4143', 'kyiv:0.4033', 'belarus:0.3885', 'drone:0.3508', 'russian:0.3336', 'invade:0.3288', 'reznikov:0.314', 'troop:0.3086', 'drill:0.298', 'deploy:0.2812', 'antitank:0.2334', 'tank:0.2224', 'border:0.1877', 'plan:0.184', 'javelin:0.1808', 'fear:0.1731', 'reuters:0.1659', 'strengthen:0.1641', 'defence:0.1486', 'oleksii:0.0941', 'feb:0.0908', 'use:0.0899', 'start:0.0824', 'tv:0.0813', 'near:0.0772', 'conduct:0.0601', 'say:0.0381', 'constantly:0.0367', 'nlaw:0.0032']+titles_keywords+['drones:0.4271', 'ukraines:0.3886', 'antitank:0.3437', 'drills:0.2705', 'feb:0.1149']"
+        ]
+    ]
+}

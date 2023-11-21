@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+13":[
+        [
+            "20220209+../news_crawling/RUS_UKR/p_articles/news.am/Pope says war in Ukraine would be madness.txt+eventbasecode13+eventcode13+avgtone0.45959595959595956+goldsteinscale0.52+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['war:0.4246', 'ukraine:0.4165', 'pope:0.3655', 'peace:0.3593', 'vatican:0.3215', 'francis:0.2186', 'madness:0.2138', 'threat:0.2114', 'talk:0.177', 'god:0.1528', 'dialogue:0.1479', 'tension:0.144', 'say:0.1437', 'news:0.1338', 'continue:0.1234', 'normandy:0.1198', 'overcome:0.1113', 'forget:0.1093', 'prayer:0.101', 'hope:0.0998', 'report:0.0966', 'beg:0.0891', 'let:0.0876', 'format:0.056', 'earlier:0.0537', 'collective:0.0428', 'contribute:0.0144', 'aim:-0.0019', 'express:-0.0045', 'audience:-0.0082']+titles_keywords+['pope:0.4075', 'war:0.3688', 'madness:0.3601', 'ukraine:0.3108', 'says:0.0903']"
+        ]
+    ],
+    "UKR+RUS+13":[
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/news.am/Talks between Lavrov Cavusoglu begin in Ankara.txt+eventbasecode13+eventcode13+avgtone0.49572649572649574+goldsteinscale0.52+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ankara:0.5211', 'turkey:0.4397', 'russia:0.3285', 'negotiations:0.2869', 'lavrov:0.2862', 'talk:0.2376', 'cavusoglu:0.2265', 'presidential:0.2058', 'topic:0.1805', 'begin:0.1758', 'prospect:0.1715', 'territory:0.171', 'wednesday:0.1664', 'plan:0.1608', 'ministers:0.1571', 'resumption:0.1568', 'security:0.1567', 'conduct:0.1443', 'mevlut:0.1264', 'report:0.1255', 'venue:0.1176', 'follow:0.1123', 'close:0.1113', 'patrolmen:0.1037', 'press:0.1006', 'increase:0.0922', 'main:0.0581', 'grain:0.0526', 'export:0.0477', 'measure:0.0367']+titles_keywords+['ankara:0.4478', 'cavusoglu:0.3501', 'lavrov:0.2824', 'talks:0.2477', 'begin:0.1665']"
+        ]
+    ]
+}

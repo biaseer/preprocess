@@ -1,0 +1,17 @@
+{
+    "EUR+UKR+10":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/thompsoncitizen.net/Missile kills at least 52 at crowded Ukrainian train station.txt+eventbasecode10+eventcode10+avgtone0.4651778955336866+goldsteinscale0.5+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.03289473684210526+news_keywords+['kyiv:0.4834', 'massacre:0.4179', 'putin:0.4115', 'russias:0.3821', 'war:0.3734', 'nato:0.3391', 'missile:0.3229', 'nationalist:0.2988', 'pentagon:0.2777', 'shooting:0.2642', 'investigation:0.2423', 'spiegel:0.2266', 'intercept:0.2203', 'flee:0.2104', 'intensifies:0.2097', 'railway:0.2089', 'bucha:0.2075', 'excerpt:0.204', 'child:0.1916', 'anonymity:0.1771', 'blame:0.1746', 'row:0.1664', 'anna:0.1595', 'like:0.1578', 'statement:0.1529', 'dozen:0.143', 'resupplied:0.1407', 'friday:0.1346', 'speak:0.1235', 'senior:0.0906']+titles_keywords+['ukrainian:0.328', 'missile:0.2824', 'kills:0.1912', 'train:0.1876', '52:0.1688']"
+        ]
+    ],
+    "RUS+RUS+10":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/thompsoncitizen.net/Zelenskyy says siege of Mariupol involved war crimes.txt+eventbasecode10+eventcode10+avgtone0.4774119448698315+goldsteinscale0.5+nummentions0.18359941944847605+numarticles0.18419144307469182+numsources0.15789473684210525+news_keywords+['kyiv:0.5209', 'evacuations:0.4034', 'demilitarization:0.3762', 'russias:0.3306', 'mykolaiv:0.3235', 'annex:0.3141', 'pentagon:0.2735', 'genocidal:0.2722', 'peaceful:0.2617', 'battle:0.2595', 'mig:0.249', 'proceed:0.2431', 'know:0.2261', 'mariupol:0.212', 'journalist:0.2078', 'school:0.1929', 'report:0.1906', 'western:0.1841', 'operational:0.1838', 'kilometer:0.1772', 'diminish:0.1745', 'anonymity:0.1697', 'galvanize:0.1545', 'word:0.15', 'quick:0.1443', 'entire:0.1412', 'previous:0.139', 'significantly:0.1334', 'estimates:0.1246', 'technologies:0.1245']+titles_keywords+['zelenskyy:0.5074', 'siege:0.3261', 'crimes:0.2791', 'mariupol:0.2663', 'says:0.0467']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/thompsoncitizen.net/Biden Russia war a genocide trying to wipe out Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4697309417040359+goldsteinscale0.5+nummentions0.3454281567489115+numarticles0.34590282813633066+numsources0.3782894736842105+news_keywords+['putin:0.4869', 'genocide:0.444', 'biden:0.3512', 'regime:0.3002', 'intervene:0.2648', 'controversy:0.2507', 'accuse:0.25', 'term:0.2392', 'tutsis:0.2046', 'nuclear:0.1975', 'block:0.1955', 'imply:0.1916', 'europe:0.1897', 'tell:0.1817', 'power:0.1775', 'dramatic:0.1637', 'example:0.1591', 'learn:0.156', 'articulate:0.1523', 'bloody:0.1511', 'volodymyr:0.1504', 'clearer:0.1503', 'hesitate:0.1467', 'direct:0.1216', 'month:0.1116', 'calling:0.1054', 'praise:0.099', 'ap:0.0984', 'yes:0.0908', 'price:0.0646']+titles_keywords+['biden:0.5002', 'genocide:0.4654', 'ukraine:0.4317', 'war:0.3981', 'trying:0.1738']"
+        ]
+    ]
+}

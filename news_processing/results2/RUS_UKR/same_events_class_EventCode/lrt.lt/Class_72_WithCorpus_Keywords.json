@@ -1,0 +1,12 @@
+{
+    "RUS+POL+72":[
+        [
+            "20220207+../news_crawling/RUS_UKR/p_articles/lrt.lt/No signs of Russia planning attack on Baltics NATO committee chair.txt+eventbasecode72+eventcode72+avgtone0.493844049247606+goldsteinscale0.915+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['baltics:0.4831', 'nato:0.46', 'moscow:0.3313', 'militarily:0.322', 'attack:0.2681', 'readiness:0.252', 'troop:0.2358', 'diplomatic:0.2037', 'border:0.1861', 'state:0.148', 'admiral:0.144', 'order:0.1427', 'option:0.1417', 'eastern:0.1359', 'advice:0.1214', 'near:0.1207', 'continue:0.1185', 'join:0.1135', 'sign:0.1104', 'send:0.1055', 'irresponsible:0.1018', 'sure:0.0957', 'week:0.0948', 'bilateral:0.0946', 'big:0.0909', 'measure:0.0794', 'reduction:0.079', 'make:0.0776', 'exclude:0.0697', 'ant:0.0556']+titles_keywords+['baltics:0.4186', 'nato:0.3772', 'attack:0.2703', 'chair:0.1636', 'planning:0.109']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/lrt.lt/Lithuania updates mobilisation plans in face of Russia threat.txt+eventbasecode72+eventcode72+avgtone0.49404761904761907+goldsteinscale0.915+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['lithuania:0.5019', 'mobilisation:0.3681', 'conscription:0.3627', 'troop:0.3422', 'russian:0.3123', 'deploy:0.3121', 'prepare:0.2841', 'anuauskas:0.2648', 'arvydas:0.2595', 'plan:0.2443', 'threat:0.2305', 'defence:0.2183', 'update:0.1881', 'president:0.1656', 'border:0.1616', 'eastern:0.1578', 'propose:0.131', 'support:0.1228', 'procedures:0.1197', 'united:0.1162', 'direct:0.1098', 'information:0.093', 'pose:0.0865', 'lay:0.0789', 'added:0.077', 'receive:0.0622', 'partial:0.0381', 'official:0.0351', 'week:0.0328', 'include:0.0005']+titles_keywords+['lithuania:0.4551', 'mobilisation:0.4121', 'plans:0.2574', 'threat:0.206', 'updates:0.138']"
+        ]
+    ]
+}

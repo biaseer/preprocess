@@ -1,0 +1,35 @@
+{
+    "CHN+RUS+111":[
+        [],
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/theguardian.com/Ukrainian firefighters work at a scene of a destroyed building after shelling in Odesa Ukraine.txt+eventbasecode111+eventcode111+avgtone0.47146739130434784+goldsteinscale0.4+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.003289473684210526+news_keywords+['vlogs:0.3893', 'ukrainian:0.3865', 'violence:0.3284', 'channel:0.3129', 'report:0.3055', 'twitter:0.2948', 'victim:0.2942', 'narrative:0.2931', 'spokesperson:0.2802', 'wang:0.2759', 'translation:0.2729', 'community:0.2715', 'violation:0.2713', 'invasion:0.262', 'voice:0.2526', 'atrocity:0.252', 'week:0.2305', 'bucha:0.2265', 'update:0.2233', 'temporarily:0.2156', 'continue:0.2134', 'jixians:0.2097', 'commit:0.1971', 'ire:0.1833', 'chafe:0.1826', 'odesa:0.1778', 'new:0.1763', 'restored:0.1649', 'make:0.146', 'state:0.1123']+titles_keywords+['firefighters:0.4898', 'ukrainian:0.3816', 'odesa:0.1984', 'shelling:0.1782', 'destroyed:0.172']"
+        ]
+    ],
+    "EUR+RUS+111":[
+        [
+            "20220825+../news_crawling/RUS_UKR/p_articles/theguardian.com/Aerial view of fires around the site of the Zaporizhzhia nuclear power plant on Wednesday.txt+eventbasecode111+eventcode111+avgtone0.4645161290322581+goldsteinscale0.4+nummentions0.013062409288824383+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4602', 'fires:0.3305', 'dnipropetrovsk:0.3221', 'reactor:0.2966', 'zelenskiy:0.291', 'catastrophic:0.2779', 'demilitarise:0.2736', 'shrapnel:0.2734', 'outage:0.2514', 'crisis:0.249', 'independence:0.2208', 'concern:0.2143', 'troop:0.2114', 'attack:0.208', 'iaea:0.2005', 'know:0.1918', 'celebrate:0.1681', 'history:0.1679', 'governor:0.1677', 'watchdog:0.1671', 'grid:0.1662', 'fourth:0.1411', 'photograph:0.1353', 'end:0.1138', 'way:0.1137', 'overshadow:0.0953', 'grow:0.0918', 'agree:0.0914', 'population:0.0912', 'counteroffensive:0.0711']+titles_keywords+['zaporizhzhia:0.4627', 'fires:0.4073', 'nuclear:0.4021', 'imageryreutersaerial:0.1294', 'view:0.1127']"
+        ]
+    ],
+    "RUS+RUS+111":[
+        [
+            "20220526+../news_crawling/RUS_UKR/p_articles/theguardian.com/The Kremlins mobile information complexes play state TV news segments and political chat shows Photograph.txt+eventbasecode111+eventcode111+avgtone0.4820717131474103+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kremlin:0.5368', 'moscow:0.5084', 'ukrainian:0.4782', 'propaganda:0.4337', 'annexation:0.4299', 'occupy:0.356', 'airstrike:0.291', 'administration:0.2792', 'citizens:0.2751', 'petro:0.2703', 'orwellian:0.2667', 'informational:0.2595', 'captured:0.2578', 'destroy:0.2394', 'announce:0.2339', 'kherson:0.2299', 'situation:0.2229', 'twitterthe:0.2195', 'write:0.2194', 'march:0.2183', 'feed:0.2047', 'state:0.2007', 'patrol:0.1939', 'simplified:0.1804', 'like:0.1798', 'facto:0.1716', 'forward:0.1686', 'long:0.1599', 'newly:0.1476', 'segment:0.1446']+titles_keywords+['kremlins:0.5154', 'complexes:0.3162', 'twitterthe:0.2949', 'information:0.2597', 'state:0.1739']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/theguardian.com/Expresident Donald Trump at the Conservative Political Action Conference in Florida where he defended describing.txt+eventbasecode111+eventcode111+avgtone0.4615384615384615+goldsteinscale0.4+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.039473684210526314+news_keywords+['putin:0.538', 'crimea:0.3771', 'collusion:0.3378', 'democratic:0.3248', 'expresident:0.3223', 'history:0.2831', 'invade:0.2758', 'speech:0.2602', 'separatist:0.2503', 'kavanaugh:0.2488', 'censorship:0.2454', 'word:0.2237', 'compare:0.2156', 'repercussion:0.2069', 'savvy:0.2043', 'cancel:0.1921', 'stand:0.1896', 'rail:0.1895', 'afraid:0.1894', 'left:0.1863', 'marinoupirexshutterstockexpresident:0.1857', 'cpac:0.1794', 'false:0.1753', 'pathetic:0.1585', 'whats:0.1552', 'bidens:0.1548', 'big:0.1508', 'general:0.1445', 'exactly:0.1425', 'someday:0.0987']+titles_keywords+['putin:0.4851', 'donald:0.4605', 'expresident:0.3802', 'conference:0.2886', 'smart:0.2381']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [],
+        [
+            "20220715+../news_crawling/RUS_UKR/p_articles/theguardian.com/Trump and his two eldest children Ivanka and Donald Jr were summoned to give sworn.txt+eventbasecode111+eventcode111+avgtone0.46658711217183774+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['trump:0.3636', 'government:0.3597', 'office:0.3493', 'information:0.3203', 'confers:0.2851', 'climate:0.2846', 'crisis:0.2795', 'say:0.2778', 'allegation:0.2694', 'senate:0.2675', 'texts:0.267', 'securitys:0.267', 'adult:0.2587', 'report:0.2583', 'begin:0.246', 'progress:0.2459', 'expect:0.2413', 'block:0.2406', 'generations:0.2368', 'select:0.2258', 'drink:0.2213', 'reach:0.2017', 'constance:0.1951', 'facet:0.1935', 'memoir:0.192', 'zelenskiy:0.1869', 'harmful:0.1835', 'dig:0.181', 'rt:0.1583', 'higher:0.1362']+titles_keywords+['ivanka:0.3614', 'eldest:0.3021', 'depositions:0.2401', 'children:0.2275', 'summoned:0.205']"
+        ],
+        []
+    ],
+    "USA+RUS+111":[
+        [
+            "20220109+../news_crawling/RUS_UKR/p_articles/theguardian.com/Alaptopscreendisplays a warning message on the official website of the Ukrainian foreign ministry after a.txt+eventbasecode111+eventcode111+avgtone0.45666666666666667+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['cyberattack:0.5634', 'ransomware:0.4122', 'kyiv:0.4103', 'microsoft:0.3523', 'putins:0.3331', 'government:0.2772', 'warn:0.2671', 'know:0.264', 'victim:0.2609', 'panic:0.2537', 'invade:0.245', 'english:0.1948', 'sector:0.191', 'analyse:0.1851', 'transformation:0.1849', 'span:0.1849', 'tensions:0.1807', 'website:0.1798', 'friday:0.1721', 'possible:0.1719', 'trust:0.1528', 'blogpost:0.1509', 'weather:0.1441', 'prove:0.1303', 'current:0.1227', 'stage:0.1215', 'alaptopscreendisplays:0.1153', 'send:0.1071', 'total:0.1001', 'far:0.0919']+titles_keywords+['cyberattack:0.5299', 'ogirenkoreutersalaptopscreendisplays:0.3981', 'ukrainian:0.3943', 'warning:0.391', 'website:0.2486']"
+        ]
+    ]
+}

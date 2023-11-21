@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+43":[
+        [
+            "20220110+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/Prospects dim as US Russia prepare to meet over Ukraine.txt+eventbasecode43+eventcode43+avgtone0.4770965468639887+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4267', 'ukraine:0.4215', 'nato:0.3999', 'diplomatic:0.3498', 'destabilizing:0.329', 'escalation:0.3255', 'war:0.3028', 'meeting:0.2733', 'upcoming:0.2675', 'election:0.2659', 'prepare:0.2607', 'outcome:0.2594', 'news:0.2307', 'prospects:0.2125', 'subject:0.2097', 'brief:0.1935', 'bleak:0.187', 'agreement:0.1835', 'distract:0.1803', 'word:0.1788', 'anonymity:0.1737', 'eastern:0.1695', 'spin:0.167', 'continue:0.1663', 'want:0.1546', 'sherman:0.1512', 'state:0.1454', 'difference:0.108', 'decade:0.1012', 'fully:0.1004']+titles_keywords+['ukraine:0.3272', 'prospects:0.2342', 'meet:0.2297', 'prepare:0.191', 'dim:0.1583']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/Ukraine offers neutrality in exchange for NATOstyle security guarantees at Russia talks.txt+eventbasecode43+eventcode43+avgtone0.492603550295858+goldsteinscale0.64+nummentions0.014876632801161103+numarticles0.012690355329949238+numsources0.009868421052631578+news_keywords+['crimea:0.4785', 'ceasefire:0.384', 'natostyle:0.3379', 'neutrality:0.3331', 'putin:0.3301', 'compromise:0.2824', 'negotiator:0.2581', 'reuters:0.2563', 'proposal:0.2379', 'nuclear:0.2013', 'exchange:0.1976', 'consultation:0.1897', 'deploy:0.1842', 'consolidate:0.1782', 'position:0.159', 'enter:0.1539', 'fix:0.1492', 'clause:0.1433', 'bloc:0.1365', 'security:0.134', 'say:0.1333', 'state:0.1276', 'event:0.1258', 'complete:0.1229', 'zelenskiy:0.1227', 'current:0.1136', 'seek:0.0939', 'week:0.0795', 'nearly:0.0761', 'oleksander:0.0541']+titles_keywords+['natostyle:0.4424', 'ukraine:0.4134', 'neutrality:0.3327', 'guarantees:0.2218', 'offers:0.1375']"
+        ]
+    ]
+}

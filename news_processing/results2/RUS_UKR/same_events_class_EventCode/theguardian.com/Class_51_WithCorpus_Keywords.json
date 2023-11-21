@@ -1,0 +1,26 @@
+{
+    "EUR+UKR+51":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/theguardian.com/0147Zelenskiy says Russia is capable of chemical attacks video.txt+eventbasecode51+eventcode51+avgtone0.47757009345794393+goldsteinscale0.67+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4909', 'kremlin:0.4356', 'zelenskiy:0.2895', 'ivano:0.2778', 'firing:0.2505', 'know:0.25', 'terror:0.243', 'worried:0.2313', 'cnn:0.2197', 'thursday:0.2184', 'troop:0.217', 'recession:0.2129', 'cite:0.2083', 'report:0.2065', 'hear:0.2065', 'intensify:0.204', 'tariff:0.2013', 'term:0.1915', 'plan:0.185', 'remain:0.1775', 'fight:0.1758', 'discus:0.1657', 'order:0.1653', 'end:0.1582', 'longer:0.1559', 'major:0.1433', 'corridor:0.1429', 'largely:0.1189', 'welcome:0.1002', 'unconditional:0.0937']+titles_keywords+['russia:0.3817', 'attacks:0.2942', 'chemical:0.2827', '0147zelenskiy:0.2563', 'video:0.249']"
+        ],
+        []
+    ],
+    "GBR+UKR+51":[
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/theguardian.com/The ruins of a hotel after shelling in Serhiivka near Odesa It is estimated that.txt+eventbasecode51+eventcode51+avgtone0.4992412746585736+goldsteinscale0.67+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.5148', 'reconstruction:0.3298', 'oligarchisation:0.3264', 'invasion:0.2784', 'relocate:0.2771', 'humanitarian:0.2577', 'destroy:0.254', 'want:0.2345', 'supply:0.2232', 'victim:0.2231', 'outcome:0.2176', 'sector:0.2165', 'benefit:0.2107', 'help:0.2019', 'fund:0.1975', 'plan:0.1969', 'secretary:0.1956', 'long:0.1867', 'term:0.1858', 'thrive:0.181', 'expertise:0.1673', 'mps:0.1668', 'speech:0.1607', 'estimate:0.1539', 'odesa:0.1427', 'truss:0.129', 'monday:0.1259', 'bilateral:0.1256', 'jointly:0.1181', 'agree:0.1139']+titles_keywords+['serhiivka:0.3902', 'russian:0.376', 'ruins:0.3564', 'invasion:0.2825', '120000:0.1716']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [],
+        [],
+        [],
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/theguardian.com/Duginas death was followed by calls from Moscows political elite for renewed strikes on Ukraine.txt+eventbasecode51+eventcode51+avgtone0.48826291079812206+goldsteinscale0.67+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.009868421052631578+news_keywords+['kremlin:0.4603', 'kyivs:0.4353', 'yevgeny:0.4117', 'russian:0.383', 'dugina:0.3451', 'kudryavtsevafpgetty:0.3154', 'nationalist:0.3024', 'posthumously:0.2933', 'prigozhin:0.2891', 'darya:0.2791', 'involvement:0.2726', 'martyr:0.2636', 'orthodox:0.2608', 'kill:0.2539', 'victory:0.2325', 'article:0.2227', 'provocation:0.2131', 'blood:0.1853', 'president:0.1821', 'powerful:0.1748', 'annex:0.1732', 'businessmen:0.1691', 'daughter:0.1556', 'unite:0.1552', 'night:0.1426', 'order:0.1276', 'true:0.1172', 'imagesduginas:0.1129', 'state:0.0918', 'hundreds:0.0889']+titles_keywords+['duginas:0.3516', 'ukraine:0.2895', 'death:0.2422', 'political:0.1611', 'renewed:0.1103']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/theguardian.com/Sean Penn speaking at a press conference in Rzeszow Poland near the Ukrainian border last.txt+eventbasecode51+eventcode51+avgtone0.5176056338028169+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.006578947368421052+news_keywords+['ukraine:0.4692', 'hannity:0.3415', 'zelenskiy:0.3049', 'oscars:0.2943', 'president:0.2666', 'nation:0.2653', 'invasion:0.264', 'penn:0.2634', 'victory:0.2419', 'history:0.2406', 'audience:0.2319', 'news:0.2257', 'speak:0.2241', 'word:0.2212', 'populist:0.2183', 'honesty:0.2069', 'continue:0.2021', 'happen:0.1985', 'industry:0.1925', 'footage:0.1883', 'november:0.1603', 'true:0.1592', 'track:0.1589', 'like:0.1579', 'divisiveness:0.1472', 'plane:0.1439', 'decade:0.1366', 'weve:0.1239', 'borderline:0.0887', 'cost:0.0201']+titles_keywords+['penn:0.3931', 'sean:0.3349', 'speaking:0.2943', 'border:0.2344', 'rzeszow:0.2182']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/sierraleonetimes.com/Food Crisis Inches Toward Record High in West Central Africa.txt+eventbasecode61+eventcode61+avgtone0.48549107142857145+goldsteinscale0.82+nummentions0.02576197387518142+numarticles0.026468455402465556+numsources0.023026315789473683+news_keywords+['agriculture:0.4881', 'senegal:0.377', 'nutrition:0.3698', 'drought:0.3574', 'aid:0.3173', 'economic:0.2953', 'pandemic:0.2748', 'countries:0.2717', 'provide:0.242', 'equatorial:0.2413', 'poor:0.2357', 'population:0.22', 'resource:0.2158', 'war:0.2151', 'crisis:0.1916', 'improve:0.19', 'sufficiency:0.1806', 'world:0.1737', 'import:0.1548', 'trade:0.153', 'increasingly:0.1357', 'displacement:0.1336', 'scope:0.1264', 'conference:0.1193', 'general:0.1068', 'week:0.1052', 'agreement:0.0912', 'quadruple:0.0793', 'way:0.0651', 'central:0.0594']+titles_keywords+['africa:0.3891', 'food:0.2659', 'record:0.1705', 'high:0.1692', 'crisis:0.158']"
+        ],
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/sierraleonetimes.com/Five essential reads on RussiaAfrica relations.txt+eventbasecode61+eventcode61+avgtone0.49404761904761907+goldsteinscale0.82+nummentions0.04934687953555878+numarticles0.05003625815808557+numsources0.04276315789473684+news_keywords+['russiaafrica:0.4606', 'putin:0.4166', 'congo:0.3791', 'african:0.3047', 'sanctions:0.2943', 'treaty:0.2864', 'sochi:0.2824', 'kalashnikov:0.2411', 'ababa:0.2321', 'governance:0.2291', 'president:0.2271', 'ak:0.2221', 'relations:0.1945', 'power:0.1874', 'strategic:0.182', 'military:0.1533', 'expect:0.1366', 'import:0.1355', 'upcoming:0.1345', 'attend:0.1296', 'precursor:0.124', 'read:0.1224', 'summit:0.1091', 'warning:0.0874', 'aim:0.0822', 'factor:0.0793', 'grow:0.0791', 'fact:0.0748', 'numerous:0.0594', 'set:0.0583']+titles_keywords+['russiaafrica:0.5203', 'relations:0.2776', 'reads:0.1849', 'essential:0.1343']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/sierraleonetimes.com/Moscow suspects UK of seeking to infiltrate Black Sea.txt+eventbasecode61+eventcode61+avgtone0.47409909909909914+goldsteinscale0.82+nummentions0.06531204644412192+numarticles0.06598984771573604+numsources0.14473684210526316+news_keywords+['ukraine:0.4407', 'rossiya:0.3647', 'boris:0.3037', 'pretexts:0.2782', 'government:0.2694', 'divert:0.2687', 'supply:0.239', 'whitewashing:0.2377', 'urgent:0.2324', 'sea:0.2302', 'allegation:0.2202', 'crisis:0.2151', 'infiltrate:0.2133', 'block:0.1851', 'rail:0.1849', 'sense:0.1796', 'news:0.1764', 'safe:0.1687', 'action:0.165', 'neoliberal:0.1595', 'leave:0.1563', 'allow:0.1506', 'debate:0.1468', 'possible:0.1369', 'look:0.1345', 'clearly:0.1302', 'statement:0.1105', 'truss:0.0774', 'convulsion:0.0746', 'million:0.0654']+titles_keywords+['moscow:0.4022', 'suspects:0.2761', 'infiltrate:0.2615', 'sea:0.2222', 'black:0.1266']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+163":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/courant.com/US pledges to put Russia on defensive at UN Security Council.txt+eventbasecode163+eventcode163+avgtone0.47994269340974216+goldsteinscale0.1+nummentions0.9426705370101597+numarticles0.9427121102248006+numsources0.9243421052631579+news_keywords+['natos:0.4737', 'putin:0.3915', 'ukrainian:0.3835', 'diplomatic:0.301', 'veto:0.2875', 'unify:0.2536', 'annex:0.2527', 'agreement:0.2385', 'attack:0.2367', 'table:0.2337', 'pledge:0.2198', 'want:0.1881', 'flag:0.1872', 'news:0.1817', 'gop:0.1815', 'ready:0.1638', 'continue:0.1617', 'stability:0.1517', 'warning:0.1493', 'monday:0.1476', 'long:0.145', 'increase:0.141', 'allow:0.1373', 'potential:0.1302', 'state:0.1283', 'ranking:0.1281', 'explain:0.1165', 'durbin:0.1155', 'resolution:0.0739', 'theyre:0.0327']+titles_keywords+['russia:0.3236', 'pledges:0.307', 'defensive:0.1977', 'council:0.1893', 'security:0.1487']"
+        ],
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/courant.com/President Biden announces sanctions against Russia over moves on Ukraine.txt+eventbasecode163+eventcode163+avgtone0.4719251336898395+goldsteinscale0.1+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.4823', 'putinrecognized:0.4224', 'natos:0.4085', 'kremlin:0.4067', 'war:0.3161', 'demilitarize:0.3', 'sanction:0.29', 'separatist:0.2874', 'diplomatic:0.2859', 'crisis:0.2682', 'border:0.2408', 'pursue:0.2299', 'shortly:0.2279', 'azov:0.2204', 'hierarchy:0.2179', 'plan:0.2134', 'biden:0.212', 'know:0.201', 'indicate:0.1986', 'adviser:0.1935', 'pretext:0.1889', 'authorize:0.1888', 'reposition:0.1885', 'decide:0.178', 'begin:0.1771', 'eastern:0.1554', 'pipeline:0.1408', 'trade:0.1387', 'ah:0.1379', 'additional:0.1222']+titles_keywords+['sanctions:0.4345', 'biden:0.3568', 'ukraine:0.2784', 'moves:0.0563', 'announces:0.0434']"
+        ]
+    ]
+}

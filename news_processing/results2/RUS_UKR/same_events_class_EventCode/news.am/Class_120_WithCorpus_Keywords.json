@@ -1,0 +1,15 @@
+{
+    "FRA+UKR+120":[
+        [
+            "20220207+../news_crawling/RUS_UKR/p_articles/news.am/French President arrives in Moscow.txt+eventbasecode120+eventcode120+avgtone0.5092592592592592+goldsteinscale0.3+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4673', 'macron:0.3876', 'kremlin:0.3604', 'moscow:0.2994', 'president:0.2819', 'visit:0.2783', 'ukrainian:0.2672', 'meeting:0.2552', 'french:0.2471', 'arrive:0.2406', 'talk:0.1768', 'novosti:0.1611', 'emmanuel:0.1595', 'security:0.1353', 'report:0.1318', 'leader:0.1213', 'worsen:0.1158', 'believe:0.1128', 'purpose:0.091', 'sudden:0.0877', 'issue:0.081', 'allow:0.0779', 'head:0.072', 'guarantee:0.0706', 'hold:0.0582', 'say:0.0515', 'earlier:0.0402', 'according:0.0334', 'state:0.0231', 'addition:0.0128']+titles_keywords+['moscow:0.3174', 'french:0.2297', 'president:0.223', 'arrives:0.2023']"
+        ]
+    ],
+    "RUS+UKR+120":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/news.am/Peskov speaks on objective of Russia special operation in Ukraine.txt+eventbasecode120+eventcode120+avgtone0.48529411764705876+goldsteinscale0.3+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.006578947368421052+news_keywords+['ukraine:0.4597', 'kremlin:0.4376', 'peskov:0.405', 'zaporizhzhia:0.37', 'nuclear:0.3661', 'dmitry:0.3491', 'operation:0.2542', 'provocation:0.2505', 'news:0.201', 'nationalist:0.1897', 'security:0.1879', 'power:0.1666', 'report:0.1661', 'plant:0.1596', 'happen:0.1561', 'president:0.1553', 'unit:0.155', 'speak:0.1494', 'control:0.1419', 'continue:0.1255', 'usual:0.1227', 'statement:0.1184', 'stress:0.1096', 'damage:0.1047', 'come:0.099', 'gazeta:0.085', 'seek:0.0808', 'spokesman:0.0791', 'divide:0.0786', 'hop:0.0739']+titles_keywords+['peskov:0.5771', 'ukraine:0.3647', 'operation:0.2625', 'special:0.1562', 'speaks:0.1273']"
+        ],
+        [
+            "20220620+../news_crawling/RUS_UKR/p_articles/news.am/Kremlin not considering CSTO forces engagement in Ukraine.txt+eventbasecode120+eventcode120+avgtone0.5121951219512195+goldsteinscale0.3+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kremlin:0.4306', 'ukraine:0.4057', 'dmitry:0.3406', 'treaty:0.3179', 'russian:0.3147', 'peskov:0.3101', 'engage:0.2631', 'novosti:0.2499', 'option:0.2411', 'csto:0.2394', 'operation:0.1968', 'consider:0.1626', 'security:0.1438', 'force:0.1361', 'presidential:0.1354', 'engagement:0.1294', 'accord:0.0984', 'reporter:0.0948', 'collective:0.0906', 'organization:0.0748', 'monday:0.0727', 'ask:0.054', 'ria:0.0533', 'special:0.0513', 'tell:0.0255', 'spokesman:-0.0035']+titles_keywords+['kremlin:0.4194', 'csto:0.3483', 'ukraine:0.345', 'engagement:0.1002', 'forces:0.0883']"
+        ]
+    ]
+}

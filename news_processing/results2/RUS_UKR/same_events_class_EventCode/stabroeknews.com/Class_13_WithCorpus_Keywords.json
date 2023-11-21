@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+13":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/stabroeknews.com/The RussiaUkraine conflict and Caribbean food security.txt+eventbasecode13+eventcode13+avgtone0.48644986449864497+goldsteinscale0.52+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4212', 'caribbean:0.3606', 'caricom:0.3501', 'agricultural:0.3066', 'supply:0.291', 'culture:0.2778', 'prevarication:0.2709', 'government:0.2672', 'agenda:0.2373', 'threaten:0.2308', 'extend:0.2252', 'dependence:0.2192', 'invasion:0.2145', 'issue:0.2113', 'term:0.2092', 'implication:0.2016', 'regard:0.1925', 'realize:0.1897', 'sector:0.1897', 'include:0.185', 'emerge:0.174', 'import:0.1732', 'viability:0.1657', 'processing:0.1654', 'theatrics:0.1602', 'forward:0.1445', 'accentuate:0.1406', 'long:0.1327', 'end:0.1268', 'year:0.0742']+titles_keywords+['caribbean:0.4189', 'russiaukraine:0.3985', 'conflict:0.3296', 'food:0.2686', 'security:0.1599']"
+        ]
+    ],
+    "UKR+RUS+13":[
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/stabroeknews.com/It appears likely Putin will suffer the same results as Napoleon.txt+eventbasecode13+eventcode13+avgtone0.4871794871794872+goldsteinscale0.52+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.5131', 'napoleon:0.4695', 'ukrainian:0.4063', 'war:0.3111', 'result:0.2727', 'defeat:0.2684', 'zelensky:0.2647', 'disastrous:0.2436', 'operation:0.2243', 'nation:0.2098', 'history:0.2028', 'fate:0.2022', 'courageous:0.2006', 'appear:0.194', 'campaign:0.1903', 'suffer:0.1829', 'hopefully:0.1781', 'democratic:0.1753', 'respond:0.1456', 'remember:0.1289', 'record:0.1267', 'effort:0.1247', 'force:0.1239', 'paint:0.1161', 'united:0.1151', 'mr:0.0977', 'support:0.0872', 'start:0.087', 'label:0.0547', 'special:0.0517']+titles_keywords+['putin:0.4892', 'napoleon:0.4615', 'likely:0.2069', 'results:0.1971', 'suffer:0.1509']"
+        ]
+    ]
+}

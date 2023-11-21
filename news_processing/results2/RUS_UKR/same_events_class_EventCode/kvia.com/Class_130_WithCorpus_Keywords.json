@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+130":[
+        [
+            "20220105+../news_crawling/RUS_UKR/p_articles/kvia.com/Blinken says Russia faces two paths ahead of key meetings with US next week.txt+eventbasecode130+eventcode130+avgtone0.4814814814814815+goldsteinscale0.27999999999999997+nummentions0.03483309143686502+numarticles0.03553299492385787+numsources0.029605263157894735+news_keywords+['diplomacy:0.4429', 'ukraines:0.3832', 'nato:0.3729', 'escalation:0.3047', 'meeting:0.2809', 'upcoming:0.2655', 'election:0.2415', 'plan:0.2371', 'attack:0.2285', 'expect:0.2245', 'pipeline:0.2218', 'border:0.2195', 'table:0.2116', 'psaki:0.2066', 'warn:0.2022', 'blinken:0.1925', 'discus:0.1916', 'order:0.1779', 'consequence:0.1778', 'agreement:0.1743', 'pragmatic:0.1732', 'week:0.1663', 'department:0.1662', 'begin:0.1494', 'quickly:0.1401', 'bilateral:0.1385', 'focus:0.1065', 'interference:0.0931', 'make:0.0929', 'price:0.0677']+titles_keywords+['blinken:0.3227', 'paths:0.3108', 'russia:0.2699', 'meetings:0.2066', 'week:0.1387']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/kvia.com/Russia intensifies strikes around Kyiv as it warns US against arming Ukraine.txt+eventbasecode130+eventcode130+avgtone0.48368036015756893+goldsteinscale0.27999999999999997+nummentions0.026124818577648767+numarticles0.026831036983321246+numsources0.029605263157894735+news_keywords+['kyiv:0.5631', 'airstrikes:0.4204', 'nato:0.4036', 'russias:0.356', 'chernobyl:0.3406', 'destabilize:0.2986', 'occupy:0.2815', 'syrian:0.2769', 'correspond:0.2668', 'troop:0.259', 'okko:0.2546', 'survive:0.2474', 'worried:0.2373', 'ivana:0.2338', 'intensifies:0.2316', 'conflict:0.2312', 'cnn:0.2201', 'orchestrate:0.2153', 'assistance:0.2104', 'industrial:0.2099', 'report:0.1921', 'arrive:0.1734', 'north:0.1733', 'hear:0.1665', 'turn:0.1643', 'column:0.1636', 'kilometer:0.157', 'swath:0.1485', 'warm:0.1334', 'state:0.113']+titles_keywords+['kyiv:0.4778', 'warns:0.2221', 'arming:0.2025', 'strikes:0.1964', 'intensifies:0.1661']"
+        ]
+    ]
+}

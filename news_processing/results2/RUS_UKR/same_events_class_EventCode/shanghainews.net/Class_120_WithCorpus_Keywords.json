@@ -1,0 +1,17 @@
+{
+    "CHN+RUS+120":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/shanghainews.net/China Reaffirms Strong Ties with Russia.txt+eventbasecode120+eventcode120+avgtone0.48954703832752605+goldsteinscale0.3+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.023026315789473683+news_keywords+['putin:0.4553', 'ukraine:0.3968', 'xinhua:0.3231', 'beijing:0.3128', 'cooperation:0.2831', 'sovereignty:0.2178', 'reaffirm:0.2104', 'news:0.2102', 'invasion:0.2021', 'unprovoked:0.1944', 'jinping:0.1921', 'continue:0.1715', 'world:0.1706', 'ties:0.1556', 'strong:0.1477', 'spokesperson:0.1447', 'shield:0.1404', 'invest:0.139', 'neutral:0.1333', 'winter:0.1163', 'stand:0.1162', 'instead:0.1143', 'phone:0.1135', 'state:0.0961', 'refuse:0.0945', 'close:0.0914', 'make:0.0905', 'basic:0.0852', 'external:0.0798', 'far:0.0676']+titles_keywords+['russia:0.2682', 'china:0.2409', 'reaffirms:0.2287', 'strong:0.1809', 'ties:0.088']"
+        ]
+    ],
+    "RUS+UKR+120":[
+        [
+            "20211220+../news_crawling/RUS_UKR/p_articles/shanghainews.net/Russian demands to defuse Ukraine crisis rejected by West.txt+eventbasecode120+eventcode120+avgtone0.491764705882353+goldsteinscale0.3+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.029605263157894735+news_keywords+['nato:0.4374', 'treaty:0.384', 'kremlin:0.3691', 'ukraine:0.3572', 'negotiation:0.2802', 'andrey:0.2753', 'invade:0.2617', 'veto:0.1945', 'expand:0.1935', 'want:0.1884', 'join:0.1659', 'crisis:0.1632', 'president:0.1515', 'consider:0.1414', 'understand:0.1404', 'news:0.1396', 'end:0.1304', 'pull:0.1152', 'future:0.1073', 'pretext:0.105', 'delivered:0.1039', 'prohibit:0.1004', 'buildup:0.0953', 'revolve:0.0856', 'weapon:0.0832', 'reach:0.078', 'longer:0.0758', 'right:0.0597', 'week:0.0525', 'interference:0.0498']+titles_keywords+['ukraine:0.3904', 'rejected:0.2665', 'demands:0.219', 'west:0.1481', 'defuse:0.1386']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/shanghainews.net/ChinaEurope fault lines exposed at 23rd bilateral summit.txt+eventbasecode120+eventcode120+avgtone0.47924187725631767+goldsteinscale0.3+nummentions0.0330188679245283+numarticles0.0337200870195794+numsources0.05921052631578947+news_keywords+['ukraine:0.3647', 'war:0.3065', 'chinaeurope:0.2885', 'globalization:0.2801', 'accompany:0.2153', 'relationship:0.2135', 'sanction:0.212', 'align:0.2087', 'discuss:0.205', 'crisis:0.2042', 'unprovoked:0.1876', 'president:0.1786', 'covid:0.1678', 'jinping:0.1573', 'soon:0.1545', 'circumvention:0.147', 'effect:0.1447', 'ally:0.1361', 'deepen:0.1351', 'long:0.1343', 'stay:0.1282', 'end:0.1255', 'trade:0.1229', 'reciprocal:0.1201', 'bilateral:0.117', 'safe:0.1106', 'major:0.0958', 'keqiang:0.0845', 'rd:0.0795', 'ani:0.0792']+titles_keywords+['chinaeurope:0.4472', 'lines:0.2246', 'fault:0.1326', 'bilateral:0.1206', '23rd:0.0947']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/austinglobe.com/UK reports great support in housing Ukrainian refugees.txt+eventbasecode194+eventcode194+avgtone0.496124031007752+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['refugee:0.561', 'ukraine:0.4267', 'housing:0.3594', 'visa:0.3178', 'nhs:0.2797', 'charity:0.251', 'labour:0.2508', 'bureaucracy:0.2407', 'support:0.24', 'communities:0.2303', 'flee:0.2236', 'apply:0.2172', 'boris:0.2162', 'vulnerable:0.1929', 'invasion:0.1923', 'report:0.1744', 'want:0.1732', 'placement:0.171', 'home:0.1593', 'separate:0.1484', 'trigger:0.1386', 'step:0.1196', 'welcome:0.1167', 'lisa:0.1035', 'mandi:0.0847', 'far:0.0795', 'hour:0.0755', 'simplify:0.0591', 'possible:0.0576', 'limit:0.0358']+titles_keywords+['refugees:0.4408', 'ukrainian:0.4311', 'housing:0.3799', 'uk:0.3088', 'great:0.0865']"
+        ]
+    ],
+    "UKR+RUS+194":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/austinglobe.com/US to Send Advanced Rocket Systems to Ukraine.txt+eventbasecode194+eventcode194+avgtone0.47790404040404044+goldsteinscale0.0+nummentions0.2674165457184325+numarticles0.26794778825235677+numsources0.34868421052631576+news_keywords+['ukraine:0.4873', 'war:0.3639', 'negotiation:0.3035', 'evacuate:0.2899', 'bomb:0.2772', 'pipeline:0.2512', 'unprovoked:0.2317', 'advance:0.2315', 'troop:0.2311', 'sanction:0.2282', 'sievierodonetsk:0.2203', 'order:0.2196', 'expect:0.2167', 'street:0.2047', 'reconstruction:0.1918', 'ambassador:0.1904', 'cite:0.189', 'biden:0.1878', 'write:0.1847', 'kilometer:0.1811', 'essentially:0.1784', 'import:0.1778', 'end:0.1776', 'help:0.1751', 'long:0.1678', 'widen:0.1616', 'wednesday:0.1591', 'combined:0.1434', 'times:0.1334', 'sending:0.0977']+titles_keywords+['ukraine:0.377', 'rocket:0.3327', 'send:0.2332', 'systems:0.193', 'advanced:0.177']"
+        ]
+    ]
+}

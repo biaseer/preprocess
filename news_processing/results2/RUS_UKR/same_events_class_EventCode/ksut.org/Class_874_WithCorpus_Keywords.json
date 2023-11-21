@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/ksut.org/President Biden warns that the threat of a Russian invasion of Ukraine is very high.txt+eventbasecode87+eventcode874+avgtone0.48281786941580757+goldsteinscale1.0+nummentions0.12300435413642961+numarticles0.12364031907179115+numsources0.11842105263157894+news_keywords+['putin:0.4246', 'invade:0.4008', 'ukraine:0.3918', 'diplomacy:0.3916', 'threat:0.321', 'flag:0.298', 'troop:0.2868', 'biden:0.2833', 'unprovoked:0.2482', 'warn:0.2462', 'pursue:0.2454', 'border:0.2362', 'prepare:0.2339', 'operation:0.2204', 'escalatory:0.2081', 'plan:0.1965', 'pull:0.1747', 'npr:0.1745', 'expulsion:0.1739', 'read:0.1737', 'thursday:0.1624', 'happen:0.158', 'excuse:0.1397', 'speak:0.1349', 'false:0.13', 'phone:0.1093', 'transatlantic:0.1068', 'house:0.0959', 'measure:0.0708', 'maynes:0.0519']+titles_keywords+['biden:0.3775', 'ukraine:0.3199', 'warns:0.2305', 'invasion:0.2063', 'high:0.1682']"
+        ],
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/ksut.org/Russian mutants lost this round Ukraine says after troops leave Chernobyl.txt+eventbasecode87+eventcode874+avgtone0.47354497354497355+goldsteinscale1.0+nummentions0.11756168359941944+numarticles0.11820159535895576+numsources0.10526315789473684+news_keywords+['chernobyl:0.6558', 'radioactive:0.4894', 'ukrainian:0.3295', 'mutant:0.2216', 'safe:0.2106', 'military:0.2005', 'panic:0.1903', 'operate:0.1893', 'contaminate:0.1839', 'update:0.175', 'report:0.1647', 'zone:0.162', 'veracity:0.1605', 'control:0.1553', 'iaea:0.1528', 'occupier:0.1498', 'exposure:0.1474', 'lab:0.1456', 'chornobyl:0.1449', 'withdrawn:0.1357', 'stalkerthegame:0.1335', 'dos:0.1218', 'red:0.1073', 'emerge:0.1069', 'condition:0.096', 'entire:0.0896', 'send:0.0741', 'month:0.0722', 'state:0.0681', 'set:0.0476']+titles_keywords+['chernobyl:0.615', 'russian:0.3739', 'mutants:0.3564', 'troops:0.2344', 'leave:0.1349']"
+        ]
+    ]
+}

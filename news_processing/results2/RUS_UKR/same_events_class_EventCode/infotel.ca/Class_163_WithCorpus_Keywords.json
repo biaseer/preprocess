@@ -1,0 +1,20 @@
+{
+    "BLR+UKR+163":[
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/infotel.ca/Nutrien earns US14B hikes guidance as Ukraine war drives fertilizer demand.txt+eventbasecode163+eventcode163+avgtone0.5+goldsteinscale0.1+nummentions0.02104499274310595+numarticles0.021754894851341553+numsources0.01644736842105263+news_keywords+['potashcorp:0.5402', 'stock:0.3917', 'production:0.3765', 'earnings:0.3479', 'ceo:0.3306', 'merger:0.3256', 'announcement:0.3201', 'fertilizer:0.3103', 'increase:0.3057', 'geopolitical:0.2983', 'concern:0.2652', 'calgary:0.2526', 'capacity:0.2479', 'russiaukraine:0.2411', 'report:0.2406', 'future:0.2385', 'surging:0.2344', 'term:0.2225', 'month:0.2107', 'significant:0.2106', 'nutrien:0.207', 'solution:0.2057', 'replacement:0.1939', 'story:0.1867', 'remain:0.1765', 'incorrectly:0.1761', 'say:0.1682', 'ground:0.1643', 'long:0.1502', 'schmidt:0.1387']+titles_keywords+['nutrien:0.4787', 'fertilizer:0.3759', 'us14b:0.2962', 'ukraine:0.2316', 'demand:0.1933']"
+        ]
+    ],
+    "CAN+RUS+163":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/infotel.ca/Trudeau calls for stop to attacks on nuclear plant in Ukraine.txt+eventbasecode163+eventcode163+avgtone0.48367346938775513+goldsteinscale0.1+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4814', 'putin:0.4442', 'trudeau:0.354', 'oligarch:0.324', 'agenda:0.2974', 'refugee:0.2879', 'invade:0.2851', 'news:0.2717', 'reunification:0.2595', 'zelenskyy:0.252', 'tariff:0.2389', 'know:0.2311', 'sanction:0.2301', 'hear:0.2273', 'transformative:0.223', 'thursday:0.2147', 'distinction:0.2062', 'precede:0.2024', 'pledge:0.2024', 'help:0.1983', 'responder:0.1923', 'rosneft:0.1919', 'end:0.1884', 'safe:0.1836', 'enjoy:0.1483', 'station:0.1437', 'file:0.1395', 'exactly:0.1341', 'arm:0.1311', 'biometric:0.0635']+titles_keywords+['nuclear:0.3773', 'ukraine:0.3462', 'trudeau:0.3428', 'attacks:0.2559', 'stop:0.2393']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/infotel.ca/US pledges to put Russia on defensive at UN Security Council.txt+eventbasecode163+eventcode163+avgtone0.4755125284738041+goldsteinscale0.1+nummentions0.9426705370101597+numarticles0.9427121102248006+numsources0.9243421052631579+news_keywords+['nato:0.4681', 'ukraines:0.4173', 'veto:0.303', 'war:0.2967', 'sanction:0.2866', 'cyberattacks:0.2825', 'vladimir:0.2777', 'diplomatic:0.2708', 'preemptively:0.2612', 'unify:0.2557', 'annex:0.2465', 'bipartisan:0.2415', 'prepare:0.2387', 'agreement:0.2316', 'flag:0.2194', 'border:0.2076', 'avoid:0.2011', 'table:0.1954', 'argue:0.1801', 'biden:0.1799', 'future:0.1607', 'news:0.1604', 'promise:0.154', 'pull:0.1497', 'increase:0.1379', 'ranking:0.1324', 'explain:0.1323', 'state:0.1126', 'make:0.1105', 'long:0.1095']+titles_keywords+['russia:0.3236', 'pledges:0.307', 'defensive:0.1977', 'council:0.1893', 'security:0.1487']"
+        ],
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/infotel.ca/Seafood biz braces for losses of jobs fish due to sanctions.txt+eventbasecode163+eventcode163+avgtone0.48206521739130437+goldsteinscale0.1+nummentions0.02576197387518142+numarticles0.026468455402465556+numsources0.023026315789473683+news_keywords+['fishery:0.4665', 'economics:0.3571', 'tariff:0.3438', 'russia:0.3342', 'maines:0.3131', 'supply:0.2879', 'change:0.2711', 'cod:0.2579', 'sanction:0.2523', 'haddock:0.2516', 'concern:0.2504', 'sandwich:0.2281', 'pivot:0.2196', 'march:0.2184', 'union:0.2181', 'executive:0.21', 'data:0.2086', 'cultural:0.2037', 'export:0.1959', 'pollock:0.1857', 'sudden:0.182', 'avoid:0.1817', 'massive:0.1721', 'head:0.17', 'sen:0.1689', 'hear:0.1611', 'altogether:0.1593', 'like:0.158', 'hake:0.1359', 'golet:0.1115']+titles_keywords+['seafood:0.5028', 'sanctions:0.4611', 'jobs:0.2963', 'losses:0.182', 'braces:0.1205']"
+        ]
+    ]
+}

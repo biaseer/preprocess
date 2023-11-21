@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+60":[
+        [
+            "20220610+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Liz Truss to discuss Britons death sentences with Ukraine counterpart.txt+eventbasecode60+eventcode60+avgtone0.4734789391575663+goldsteinscale0.8+nummentions0.15892597968069666+numarticles0.15953589557650472+numsources0.18092105263157895+news_keywords+['ukraine:0.4129', 'putins:0.3581', 'prisoner:0.3185', 'combatant:0.3026', 'diplomatic:0.2834', 'law:0.273', 'tory:0.2726', 'invasion:0.2451', 'unprovoked:0.2268', 'appeal:0.2264', 'narrative:0.2262', 'armed:0.2085', 'concern:0.2049', 'truss:0.1994', 'news:0.188', 'statement:0.1718', 'discus:0.1645', 'death:0.1638', 'dmytro:0.1405', 'understand:0.1402', 'utterly:0.1386', 'robert:0.1375', 'alongside:0.1373', 'entitle:0.1339', 'level:0.1306', 'aslin:0.1222', 'port:0.1212', 'soon:0.1092', 'thats:0.1018', 'doesnt:0.0693']+titles_keywords+['truss:0.3744', 'ukraine:0.2986', 'liz:0.2595', 'death:0.168', 'discuss:0.1572']"
+        ]
+    ],
+    "UKR+RUS+60":[
+        [
+            "20220516+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/International efforts to respond to Russian invasion of Ukraine pick up pace.txt+eventbasecode60+eventcode60+avgtone0.4784604519774011+goldsteinscale0.8+nummentions0.1574746008708273+numarticles0.15808556925308195+numsources0.13486842105263158+news_keywords+['ukraine:0.4886', 'natos:0.4856', 'militarily:0.404', 'invasion:0.3227', 'evacuate:0.2673', 'separatist:0.2644', 'embargo:0.2632', 'extend:0.2397', 'align:0.2357', 'threat:0.2323', 'respond:0.2239', 'backfire:0.1987', 'news:0.1957', 'foreseeable:0.1952', 'industrial:0.1913', 'order:0.191', 'turn:0.1878', 'help:0.1852', 'battlefront:0.1849', 'import:0.1766', 'finance:0.1742', 'severodonetsk:0.1724', 'counteroffensive:0.1678', 'triumphant:0.1636', 'presidential:0.1538', 'area:0.1477', 'andersson:0.1444', 'include:0.142', 'like:0.1216', 'trt:0.1168']+titles_keywords+['ukraine:0.3778', 'invasion:0.3277', 'efforts:0.1955', 'respond:0.1747', 'pace:0.1245']"
+        ]
+    ]
+}

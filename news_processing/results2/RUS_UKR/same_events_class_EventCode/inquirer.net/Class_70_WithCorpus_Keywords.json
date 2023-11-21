@@ -1,0 +1,12 @@
+{
+    "KEN+RUS+70":[
+        [
+            "20220621+../news_crawling/RUS_UKR/p_articles/inquirer.net/Ukraine president says Africa hostage in war with Russia.txt+eventbasecode70+eventcode70+avgtone0.47214854111405835+goldsteinscale0.85+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['africa:0.5109', 'ukraines:0.4005', 'senegals:0.3634', 'conflict:0.2763', 'oil:0.272', 'hostage:0.2658', 'vladimir:0.2542', 'reuters:0.2519', 'invasion:0.2148', 'sanction:0.1896', 'provide:0.1848', 'military:0.1644', 'read:0.1575', 'presidential:0.1481', 'acknowledge:0.1455', 'grow:0.1449', 'grain:0.1354', 'odesa:0.1322', 'global:0.1301', 'trade:0.1222', 'key:0.1035', 'say:0.1031', 'catastrophically:0.0943', 'feb:0.0886', 'start:0.0758', 'exporter:0.071', 'free:0.0682', 'agree:0.0633', 'actually:0.0623', 'gadget:0.0313']+titles_keywords+['ukraine:0.4373', 'hostage:0.3427', 'war:0.2382', 'president:0.2291', 'says:0.0718']"
+        ]
+    ],
+    "UKR+RUS+70":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/inquirer.net/Residential electricity rates down by 30centavos for JuneJuly billing.txt+eventbasecode70+eventcode70+avgtone0.49317738791423005+goldsteinscale0.85+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['economy:0.3282', 'power:0.3076', 'utility:0.301', 'decrease:0.2728', 'demand:0.2727', 'generator:0.2584', 'kwh:0.2558', 'ukraine:0.2513', 'surge:0.2438', 'billing:0.2409', 'translate:0.2367', 'visayan:0.2348', 'help:0.214', 'residential:0.2087', 'grid:0.2053', 'remind:0.1958', 'affected:0.1889', 'report:0.1808', 'prices:0.1696', 'month:0.1594', 'lucero:0.1575', 'manage:0.1511', 'lockdowns:0.1427', 'cause:0.139', 'covid:0.1278', 'twitter:0.1263', 'page:0.1042', 'like:0.0975', 'reopen:0.0711', 'best:0.0635']+titles_keywords+['residential:0.351', 'rates:0.3137', 'billing:0.2687', 'electricity:0.2287', 'junejuly:0.2036']"
+        ]
+    ]
+}

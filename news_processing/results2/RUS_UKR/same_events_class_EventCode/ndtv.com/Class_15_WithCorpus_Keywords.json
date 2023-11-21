@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+15":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/ndtv.com/Russian Military Action Will Stop In A Moment If Ukraine Meets Conditions Kremlin.txt+eventbasecode15+eventcode15+avgtone0.48044692737430167+goldsteinscale0.5+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.04276315789473684+news_keywords+['crimea:0.4748', 'demilitarisation:0.3857', 'kremlin:0.3532', 'donetsk:0.346', 'dmitry:0.3146', 'war:0.2721', 'halt:0.2472', 'neutrality:0.2356', 'provoke:0.2344', 'refugee:0.2217', 'crisis:0.2118', 'territorial:0.2065', 'shoot:0.202', 'headline:0.1913', 'end:0.1899', 'want:0.1711', 'change:0.1538', 'outline:0.1443', 'term:0.1432', 'conditions:0.1397', 'constitution:0.1372', 'ready:0.1334', 'independent:0.1323', 'state:0.1261', 'main:0.1003', 'feb:0.0906', 'ndtv:0.0711', 'world:0.0685', 'possible:0.0632', 'enshrine:0.0434']+titles_keywords+['ukraine:0.4179', 'action:0.2344', 'military:0.2238', 'conditions:0.2039', 'stop:0.1954']"
+        ],
+        [
+            "20220526+../news_crawling/RUS_UKR/p_articles/ndtv.com/2 More Russian Soldiers On Trial In Ukraine For War Crimes Plead Guilty.txt+eventbasecode15+eventcode15+avgtone0.4334415584415585+goldsteinscale0.5+nummentions0.05297532656023222+numarticles0.049311094996374184+numsources0.013157894736842105+news_keywords+['ukraine:0.4226', 'ivanov:0.4005', 'war:0.305', 'civilian:0.2859', 'plead:0.2682', 'artillery:0.2644', 'accuse:0.2642', 'law:0.2419', 'guilty:0.23', 'shell:0.1881', 'border:0.183', 'unarmed:0.1799', 'headline:0.1578', 'town:0.1573', 'sentence:0.155', 'reinforced:0.1493', 'proceeding:0.1255', 'syndicate:0.1225', 'order:0.1165', 'feed:0.112', 'target:0.1059', 'ndtv:0.1023', 'thursday:0.0994', 'stand:0.0947', 'term:0.0933', 'information:0.0925', 'glass:0.0705', 'reduction:0.0595', 'bobikin:0.0594', 'limit:0.0355']+titles_keywords+['ukraine:0.3004', 'soldiers:0.262', 'plead:0.2469', 'guilty:0.2003', 'crimes:0.1238']"
+        ]
+    ],
+    "UKR+RUS+15":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/ndtv.com/Powerful Explosions Heard In Ukraines Kyiv After Russian Warship Sinks.txt+eventbasecode15+eventcode15+avgtone0.4691435768261965+goldsteinscale0.5+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.003289473684210526+news_keywords+['kyiv:0.5065', 'nato:0.375', 'explosions:0.3539', 'war:0.3302', 'demilitarise:0.3137', 'headline:0.2923', 'ivano:0.2822', 'unprovoked:0.2687', 'warship:0.2553', 'redeploy:0.2547', 'concern:0.2337', 'information:0.2216', 'separatist:0.2198', 'outage:0.1935', 'appear:0.1891', 'syndicate:0.1857', 'hear:0.1855', 'sinking:0.1852', 'seize:0.177', 'immediate:0.1717', 'progress:0.1648', 'brace:0.1618', 'midnight:0.1597', 'turn:0.1595', 'follow:0.1558', 'adjacent:0.1503', 'major:0.1474', 'ndtv:0.137', 'month:0.121', 'true:0.0716']+titles_keywords+['kyiv:0.5021', 'explosions:0.4245', 'sinks:0.2729', 'warship:0.2667', 'heard:0.15']"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "DEU+RUS+13":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Putin has now made his fourth calamitous error.txt+eventbasecode13+eventcode13+avgtone0.4661214953271028+goldsteinscale0.52+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.5571', 'ukraine:0.4267', 'rouble:0.3278', 'provoke:0.2758', 'jinpings:0.2737', 'russlandversteher:0.269', 'sanction:0.2543', 'ruse:0.2492', 'incompetence:0.2477', 'business:0.2426', 'autocracy:0.2383', 'dangerous:0.2249', 'unforeseen:0.213', 'europes:0.2052', 'accordingly:0.2035', 'know:0.2012', 'fourth:0.1997', 'capitalise:0.1988', 'end:0.1965', 'miscalculate:0.1891', 'pipeline:0.1826', 'oust:0.1769', 'decline:0.1676', 'help:0.1654', 'drawbacks:0.1639', 'unite:0.163', 'event:0.1525', 'step:0.151', 'sabre:0.15', 'export:0.118']+titles_keywords+['putin:0.5435', 'error:0.4006', 'fourth:0.3725', 'calamitous:0.3275']"
+        ]
+    ],
+    "RUS+RUS+13":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Russia finally admits to significant losses of troops in war against Ukraine.txt+eventbasecode13+eventcode13+avgtone0.44594594594594555+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kremlin:0.4756', 'kyiv:0.4031', 'peskov:0.4004', 'war:0.3305', 'accuse:0.3122', 'confrontational:0.3092', 'rhetoric:0.3066', 'tragedy:0.2858', 'news:0.2583', 'evidence:0.2485', 'court:0.2248', 'appear:0.2057', 'hear:0.201', 'continue:0.195', 'lengthy:0.1902', 'fake:0.1897', 'presenter:0.185', 'point:0.1841', 'troop:0.1643', 'british:0.1624', 'bucha:0.1512', 'picture:0.1503', 'satellite:0.1486', 'head:0.1482', 'night:0.1378', 'possibility:0.1353', 'disagree:0.1344', 'exchange:0.1322', 'dozen:0.1136', 'dont:0.0977']+titles_keywords+['ukraine:0.3465', 'troops:0.2733', 'losses:0.2521', 'admits:0.2186', 'finally:0.1536']"
+        ]
+    ],
+    "RUS+UKR+13":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/More than 20000 troops killed or missing Russian officials appear to admit.txt+eventbasecode13+eventcode13+avgtone0.48067632850241543+goldsteinscale0.52+nummentions0.11357039187227866+numarticles0.11421319796954314+numsources0.41776315789473684+news_keywords+['ukrainewar:0.5787', 'moscow:0.4626', 'putins:0.4149', 'reuters:0.3886', 'readovka:0.384', 'casualties:0.3674', 'annexation:0.2952', 'escalation:0.2694', 'armsshipments:0.2505', 'propagandist:0.249', 'pentagon:0.2483', 'information:0.2446', 'kill:0.2445', 'table:0.2358', 'withukrainehave:0.2219', 'attendance:0.2217', 'general:0.2094', 'soon:0.2047', 'forward:0.2007', 'transform:0.1944', 'dramatic:0.1896', 'period:0.1874', 'fall:0.1855', 'additional:0.1836', 'safe:0.1792', 'long:0.1754', 'speakingduring:0.1692', 'btf:0.1617', 'compare:0.1451', 'backfill:0.1209']+titles_keywords+['russian:0.3767', 'troops:0.3577', '20000:0.3027', 'killed:0.164', 'admit:0.1549']"
+        ],
+        [
+            "20220704+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Luhansk has fallen but theres a reason why Russian generals will not be celebrating.txt+eventbasecode13+eventcode13+avgtone0.4919786096256684+goldsteinscale0.52+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['kyiv:0.5432', 'kremlin:0.4018', 'outcome:0.2907', 'dvornikov:0.2828', 'tactical:0.281', 'westward:0.2492', 'lysychansk:0.2361', 'liberate:0.233', 'progress:0.2259', 'fall:0.2148', 'anticipate:0.2146', 'inaccurately:0.2042', 'fight:0.1968', 'happy:0.1891', 'order:0.1853', 'continue:0.1844', 'content:0.1816', 'important:0.1796', 'folly:0.179', 'fanfare:0.17', 'munition:0.163', 'repurposing:0.1627', 'area:0.1537', 'guide:0.1524', 'ignore:0.152', 'suddenly:0.1482', 'make:0.1475', 'people:0.1468', 'right:0.1368', 'welcome:0.1079']+titles_keywords+['luhansk:0.443', 'russian:0.3477', 'generals:0.3377', 'celebrating:0.2997', 'theres:0.1181']"
+        ]
+    ],
+    "UKR+RUS+13":[
+        [
+            "20220630+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Boris Johnson is Ukraines favourite foreign leader but dont tell France and Germany.txt+eventbasecode13+eventcode13+avgtone0.5118343195266273+goldsteinscale0.52+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraines:0.5396', 'ukrainian:0.5091', 'putin:0.4924', 'nato:0.4153', 'macron:0.3622', 'favourability:0.2863', 'france:0.2467', 'poll:0.2308', 'leader:0.2307', 'foreign:0.2257', 'zelensky:0.2141', 'volodymyr:0.208', 'invasion:0.1825', 'rank:0.1811', 'conflict:0.1766', 'popular:0.1574', 'comparison:0.1563', 'expect:0.139', 'age:0.1386', 'strong:0.1328', 'prime:0.1104', 'party:0.1008', 'johnson:0.0974', 'say:0.0955', 'ashcroft:0.0921', 'nearly:0.0911', 'despite:0.083', 'study:0.075', 'start:0.0597', 'state:0.0472']+titles_keywords+['ukraines:0.4735', 'boris:0.3505', 'foreign:0.2', 'leader:0.1796', 'dont:0.0817']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+40":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Ukraine President Zelensky proposes to meet with Putin as tensions with Russia grow.txt+eventbasecode40+eventcode40+avgtone0.5175438596491229+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4959', 'diplomacy:0.4467', 'ukraines:0.4183', 'nato:0.4137', 'moscow:0.3853', 'zelensky:0.332', 'meet:0.3107', 'invades:0.2635', 'crisis:0.2376', 'volodymyr:0.2298', 'speeches:0.225', 'border:0.2152', 'soon:0.1977', 'respond:0.1936', 'fear:0.1913', 'want:0.1849', 'idea:0.1795', 'sanction:0.1782', 'senator:0.1647', 'forget:0.1559', 'room:0.1464', 'notice:0.1442', 'favorable:0.1426', 'adult:0.1317', 'flip:0.1202', 'afternoon:0.1196', 'long:0.1192', 'directly:0.1123', 'et:0.105', 'unless:0.0818']+titles_keywords+['zelensky:0.5693', 'putin:0.3604', 'meet:0.2354', 'tensions:0.102', 'proposes:0.0711']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Meet Ukraines guntoting female soldiers fighting the propaganda war with Russia.txt+eventbasecode40+eventcode40+avgtone0.5+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5071', 'propaganda:0.4071', 'yanukovych:0.3957', 'paramilitary:0.3611', 'journalist:0.3412', 'separatist:0.3303', 'regime:0.2875', 'guntoting:0.2811', 'bloomberg:0.263', 'scope:0.2521', 'term:0.2475', 'report:0.2415', 'female:0.2407', 'ally:0.234', 'social:0.2324', 'msm:0.2278', 'glorify:0.2183', 'spearhead:0.2106', 'know:0.2086', 'list:0.2068', 'regalia:0.2022', 'like:0.1943', 'fight:0.1896', 'fool:0.1891', 'improve:0.1882', 'diary:0.1876', 'powerful:0.1837', 'sektor:0.1577', 'embed:0.1432', 'complete:0.1334']+titles_keywords+['ukraines:0.4952', 'propaganda:0.4125', 'war:0.4051', 'guntoting:0.3279', 'female:0.2653']"
+        ]
+    ]
+}

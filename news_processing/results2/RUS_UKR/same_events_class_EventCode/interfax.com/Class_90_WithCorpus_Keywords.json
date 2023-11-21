@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+90":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/interfax.com/Russian investigators to probe fresh instance of shell from Ukraine falling in Rostov region.txt+eventbasecode90+eventcode90+avgtone0.4892857142857143+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['rostov:0.4506', 'russian:0.433', 'kudinovka:0.4012', 'investigate:0.3869', 'report:0.3647', 'incident:0.3442', 'investigator:0.3195', 'bastrykin:0.3119', 'shell:0.263', 'crash:0.2338', 'border:0.2323', 'department:0.2122', 'locate:0.2096', 'kilometer:0.2011', 'preliminary:0.1737', 'responsible:0.169', 'identify:0.1672', 'instance:0.163', 'inquiry:0.1629', 'village:0.1564', 'fall:0.1561', 'chairman:0.1254', 'late:0.0997', 'order:0.0955', 'comprehensive:0.093', 'say:0.0686', 'available:0.0633', 'main:0.0556', 'record:0.0552', 'according:0.0404']+titles_keywords+['rostov:0.3729', 'shell:0.3376', 'probe:0.2114', 'falling:0.1412', 'fresh:0.0333']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/interfax.com/Chernobyl NPP monitoring continues guarded by Russian paratroopers Russian Defense Ministry.txt+eventbasecode90+eventcode90+avgtone0.4932885906040268+goldsteinscale0.4+nummentions0.00362844702467344+numarticles0.0018129079042784628+numsources0.0+news_keywords+['chernobyl:0.5486', 'nuclear:0.4012', 'personnel:0.3001', 'paratrooper:0.299', 'ukrainian:0.2988', 'troop:0.2799', 'monitoring:0.2295', 'npp:0.2227', 'konashenkov:0.2207', 'terrorist:0.2153', 'control:0.1896', 'current:0.1576', 'provocation:0.1416', 'units:0.1364', 'situation:0.1349', 'plant:0.1309', 'order:0.1133', 'usual:0.104', 'airborne:0.0992', 'level:0.0974', 'advantage:0.093', 'stage:0.0861', 'continue:0.0815', 'feb:0.0759', 'guarantee:0.0671', 'state:0.0579', 'unable:0.056', 'jointly:0.0372', 'interfax:0.01', 'say:0.0087']+titles_keywords+['chernobyl:0.4904', 'paratroopers:0.3369', 'npp:0.2775', 'monitoring:0.2739', 'russian:0.2427']"
+        ],
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/interfax.com/Rospotrebnadzor reports fires in Chernobyl NPP exclusion zone says radiation levels in Russia stable.txt+eventbasecode90+eventcode90+avgtone0.4608433734939759+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['chernobyl:0.5994', 'nuclear:0.3097', 'radiation:0.2967', 'moscow:0.2542', 'ukrainian:0.2278', 'zone:0.1292', 'hazard:0.124', 'denysenko:0.1173', 'exclusion:0.1143', 'protection:0.0939', 'hectare:0.0917', 'report:0.0885', 'plant:0.0883', 'rospotrebnadzor:0.0882', 'burn:0.0689', 'npp:0.0681', 'border:0.0631', 'monitoring:0.0456', 'remain:0.0342', 'power:0.0303', 'level:0.0187', 'stable:0.0155', 'state:0.0135', 'advisor:0.0024', 'earlier:0.0021', 'generally:-0.0049', 'vadym:-0.0071', 'total:-0.0168', 'week:-0.0324', 'interfax:-0.0675']+titles_keywords+['chernobyl:0.5318', 'rospotrebnadzor:0.3342', 'fires:0.2191', 'npp:0.1347', 'zone:0.1309']"
+        ]
+    ]
+}

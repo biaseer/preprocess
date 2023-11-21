@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+100":[
+        [
+            "20220825+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Putin signs decree to increase size of Russian armed forces.txt+eventbasecode100+eventcode100+avgtone0.47972972972972966+goldsteinscale0.25+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.009868421052631578+news_keywords+['putin:0.465', 'kyiv:0.4107', 'russian:0.3947', 'war:0.309', 'troop:0.2937', 'operation:0.2521', 'increase:0.2466', 'month:0.2111', 'update:0.2099', 'headcount:0.2051', 'casualty:0.1924', 'kill:0.1892', 'correspond:0.1883', 'personnel:0.1856', 'legislative:0.1853', 'total:0.1738', 'report:0.1738', 'size:0.1601', 'information:0.1516', 'official:0.1385', 'active:0.1326', 'monday:0.1323', 'thousand:0.1245', 'enters:0.1123', 'international:0.1076', 'sign:0.1057', 'jan:0.0997', 'arm:0.0982', 'set:0.0589', 'reluctant:0.0361']+titles_keywords+['putin:0.3504', 'increase:0.2805', 'decree:0.2249', 'size:0.1926', 'armed:0.1623']"
+        ]
+    ],
+    "RUS+WST+100":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Russia calls on EU NATO to stop arms supplies to Ukraine.txt+eventbasecode100+eventcode100+avgtone0.4906367041198502+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['nato:0.467', 'ukrainian:0.4128', 'plane:0.3146', 'invasion:0.2831', 'confrontation:0.2739', 'terrorist:0.2733', 'bipartisan:0.2625', 'president:0.2352', 'emergency:0.2237', 'supply:0.2133', 'schumer:0.2089', 'worry:0.208', 'representatives:0.2056', 'immediately:0.1955', 'news:0.1933', 'transfer:0.1921', 'topic:0.1918', 'instead:0.1907', 'promise:0.1877', 'ally:0.1839', 'facilitate:0.1812', 'volodymyr:0.1743', 'desperate:0.1666', 'arm:0.1654', 'direct:0.1531', 'anti:0.1457', 'end:0.1319', 'clear:0.1221', 'ria:0.1031', 'feb:0.0985']+titles_keywords+['ukraine:0.431', 'nato:0.3964', 'supplies:0.1932', 'arms:0.173', 'stop:0.1482']"
+        ]
+    ]
+}

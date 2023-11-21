@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/winknews.com/Ukraine rejects Russian demand for surrender in Mariupol.txt+eventbasecode80+eventcode80+avgtone0.46909871244635193+goldsteinscale0.75+nummentions0.18142235123367198+numarticles0.18056562726613487+numsources0.45394736842105265+news_keywords+['ukraineenters:0.6073', 'kyiv:0.5344', 'russian:0.4103', 'pravda:0.3748', 'nato:0.3223', 'war:0.3082', 'flee:0.3075', 'capitulation:0.3018', 'capital:0.2566', 'emergency:0.2479', 'know:0.2284', 'continue:0.2144', 'victim:0.2055', 'civilian:0.1975', 'incinerated:0.1959', 'supply:0.1941', 'heading:0.1833', 'grade:0.1674', 'shortly:0.1604', 'flank:0.1597', 'apartment:0.1532', 'according:0.1438', 'long:0.1401', 'state:0.1399', 'gmt:0.1295', 'flower:0.1282', 'thousand:0.1154', 'tried:0.1142', 'william:0.105', 'welcome:0.0939']+titles_keywords+['surrender:0.4206', 'ukraine:0.3945', 'mariupol:0.2589', 'rejects:0.1848', 'demand:0.0172']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/winknews.com/Russia batters Ukraine both sides say ready for more talks.txt+eventbasecode80+eventcode80+avgtone0.4669000636537238+goldsteinscale0.75+nummentions0.36792452830188677+numarticles0.36838288614938364+numsources0.5460526315789473+news_keywords+['ukraine:0.4981', 'kremlin:0.4846', 'stalingrad:0.4181', 'airstrikes:0.3883', 'dmitry:0.3854', 'zelenskyy:0.2687', 'threat:0.2671', 'decommission:0.2656', 'news:0.2604', 'rhetoric:0.2528', 'prepare:0.245', 'troop:0.2194', 'flood:0.215', 'soon:0.2081', 'intensify:0.2079', 'casualty:0.1976', 'turn:0.1973', 'column:0.1901', 'presidential:0.1881', 'respond:0.1839', 'excerpt:0.1803', 'boy:0.1721', 'boeing:0.1612', 'stop:0.1583', 'winter:0.1581', 'harley:0.1435', 'resume:0.1352', 'big:0.1335', 'upper:0.1083', 'agree:0.0937']+titles_keywords+['ukraine:0.462', 'batters:0.1979', 'sides:0.1796', 'talks:0.1765', 'ready:0.1103']"
+        ]
+    ]
+}

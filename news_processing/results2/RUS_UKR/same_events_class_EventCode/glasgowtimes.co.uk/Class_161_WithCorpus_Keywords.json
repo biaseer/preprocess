@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+161":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/What is the state of play in Ukraine crisis.txt+eventbasecode161+eventcode161+avgtone0.4810710987996306+goldsteinscale0.3+nummentions0.284833091436865+numarticles0.28535170413343003+numsources0.3157894736842105+news_keywords+['ukraine:0.531', 'kremlin:0.4087', 'nato:0.4075', 'erdogan:0.3932', 'separatist:0.3646', 'sovereignty:0.3443', 'war:0.3362', 'political:0.3235', 'evacuate:0.2885', 'sanction:0.2837', 'crisis:0.281', 'correspondent:0.2453', 'frontline:0.2377', 'state:0.2296', 'formalise:0.2285', 'agreement:0.2095', 'concern:0.2076', 'know:0.195', 'future:0.1887', 'pipeline:0.1773', 'capital:0.1757', 'recep:0.1705', 'continue:0.1699', 'long:0.1564', 'rank:0.1544', 'whip:0.1533', 'count:0.1512', 'strengthen:0.1456', 'like:0.1221', 'fiery:0.0665']+titles_keywords+['ukraine:0.4923', 'crisis:0.3474', 'play:0.2682', 'state:0.2487']"
+        ]
+    ],
+    "UKR+RUS+161":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/Russia attacks Ukraine as peace in Europe shattered.txt+eventbasecode161+eventcode161+avgtone0.46228179551122195+goldsteinscale0.3+nummentions0.41110304789550073+numarticles0.411530094271211+numsources0.6513157894736842+news_keywords+['ukraine:0.4402', 'natos:0.3941', 'kremlin:0.3919', 'war:0.3736', 'geopolitical:0.3717', 'disruption:0.3116', 'nuclear:0.3041', 'predict:0.2657', 'strategic:0.2623', 'aggressor:0.2497', 'emergency:0.2473', 'annex:0.2404', 'worry:0.2376', 'arrange:0.2267', 'azov:0.2262', 'announcement:0.2134', 'autocratic:0.2061', 'surge:0.2044', 'flee:0.2027', 'readied:0.1985', 'rewrite:0.1934', 'big:0.1758', 'countermeasure:0.1754', 'increase:0.1607', 'reverberate:0.1602', 'exactly:0.149', 'resume:0.1425', 'include:0.1375', 'kilometre:0.1272', 'export:0.117']+titles_keywords+['ukraine:0.4427', 'attacks:0.3137', 'peace:0.2662', 'europe:0.2502', 'shattered:0.2475']"
+        ]
+    ]
+}

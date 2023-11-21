@@ -1,0 +1,13 @@
+{
+    "UKR+RUS+1123":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/wn.com/Belarus resisting attempts to drag it into Ukraine conflict Lukashenko says.txt+eventbasecode112+eventcode1123+avgtone0.46045197740113+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['belarus:0.4203', 'ukraine:0.4038', 'kyiv:0.3871', 'lukashenko:0.3823', 'russia:0.3195', 'resist:0.2531', 'conflict:0.2383', 'attack:0.2347', 'intercept:0.2255', 'flag:0.2219', 'accuse:0.206', 'missile:0.2008', 'reuters:0.165', 'border:0.1553', 'president:0.1359', 'attempt:0.1341', 'alexander:0.1307', 'false:0.1127', 'government:0.1084', 'say:0.0911', 'draw:0.0895', 'drag:0.0674', 'day:0.0219', 'air:0.016', 'london:0.0019', 'stag:-0.0107', 'ago:-0.0253', 'friday:-0.0258', 'tuesday:-0.0479']+titles_keywords+['belarus:0.4387', 'lukashenko:0.4081', 'conflict:0.1987', 'attempts:0.0988', 'drag:0.0695']"
+        ],
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine accused of helicopter attack on oil depot inside Russia.txt+eventbasecode112+eventcode1123+avgtone0.443820224719101+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4633', 'russia:0.3576', 'oil:0.3409', 'russian:0.3389', 'helicopter:0.3105', 'attack:0.2626', 'war:0.2142', 'accuse:0.1913', 'border:0.1599', 'depot:0.1313', 'question:0.1305', 'soil:0.1104', 'launch:0.1063', 'raid:0.1031', 'outbreak:0.1001', 'strike:0.0912', 'confirm:0.0892', 'raise:0.0764', 'inside:0.0694', 'storage:0.0673', 'facility:0.0612', 'send:0.0295']+titles_keywords+['ukraine:0.4016', 'helicopter:0.3018', 'oil:0.2491', 'accused:0.2202', 'depot:0.0961']"
+        ],
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine accuses Russia of rocket attacks near nuclear plant killing 13.txt+eventbasecode112+eventcode1123+avgtone0.44+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4309', 'nuclear:0.3729', 'russiaof:0.348', 'russia:0.3067', 'attack:0.2756', 'accuse:0.2668', 'risky:0.2665', 'kill:0.2108', 'rocket:0.2106', 'plant:0.1873', 'capture:0.1725', 'return:0.1509', 'near:0.1178', 'knowledge:0.0828', 'power:0.0767']+titles_keywords+['ukraine:0.3874', 'accuses:0.2439', 'rocket:0.1868', '13:0.1843', 'plant:0.1414']"
+        ]
+    ]
+}

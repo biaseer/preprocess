@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220621+../news_crawling/RUS_UKR/p_articles/thesun.ie/Ukraine news Panic as Russian missiles pass CRITICALLY close to nuclear power plant as Putins.txt+eventbasecode190+eventcode190+avgtone0.4558823529411765+goldsteinscale0.0+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.019736842105263157+news_keywords+['ukraine:0.5279', 'sanctionsovervladimir:0.473', 'kremlin:0.448', 'putinwould:0.3744', 'government:0.3192', 'easternukraineafter:0.3152', 'boris:0.315', 'news:0.3118', 'invade:0.3079', 'bloodywar:0.2945', 'escalation:0.294', 'report:0.2643', 'strategic:0.2572', 'peace:0.2498', 'disorganise:0.2465', 'revise:0.2231', 'discus:0.2101', 'sudden:0.2062', 'itv:0.1975', 'order:0.1954', 'intercept:0.195', 'boy:0.1896', 'begin:0.1858', 'superyachts:0.1799', 'guest:0.1776', 'import:0.1676', 'comvvfhh:0.1655', 'long:0.152', 'panoramic:0.1475', 'donets:0.1403']+titles_keywords+['ukraine:0.424', 'nuclear:0.3422', 'panic:0.2689', 'news:0.2525', 'worsens:0.2057']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/thesun.ie/My family are fleeing for their lives in Ukraine Im scared this will be the.txt+eventbasecode190+eventcode190+avgtone0.47281879194630866+goldsteinscale0.0+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.009868421052631578+news_keywords+['ukraine:0.4544', 'refugee:0.3865', 'putins:0.3787', 'peaceful:0.3431', 'flee:0.3259', 'attack:0.2876', 'terrified:0.2751', 'labour:0.2731', 'soldier:0.2535', 'boris:0.246', 'misinformation:0.2434', 'bloody:0.2396', 'tyrant:0.2322', 'know:0.2279', 'volodymyr:0.227', 'want:0.2256', 'shrapnel:0.2215', 'speak:0.2177', 'generation:0.2086', 'problem:0.2066', 'world:0.1997', 'boy:0.1975', 'wont:0.1848', 'soon:0.1758', 'cover:0.1727', 'pronged:0.1652', 'long:0.1643', 'sure:0.1559', 'middle:0.1377', 'million:0.129']+titles_keywords+['ukraine:0.3779', 'fleeing:0.3476', 'scared:0.2777', 'family:0.2706', 'im:0.1283']"
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "AFR+RUS+20":[
+        [
+            "20220526+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Africa Union Chairman Macky Sall says hell visit Russia and Ukraine to lobby for an.txt+eventbasecode20+eventcode20+avgtone0.46399999999999997+goldsteinscale0.65+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['senegal:0.4322', 'ukraine:0.4007', 'chairman:0.3585', 'africa:0.3456', 'russia:0.3271', 'blockade:0.3238', 'union:0.2921', 'president:0.2805', 'african:0.2433', 'sall:0.2389', 'leader:0.2284', 'au:0.2266', 'visit:0.1986', 'sally:0.1846', 'say:0.138', 'country:0.1302', 'macky:0.1185', 'grain:0.1165', 'hell:0.1105', 'export:0.109', 'serve:0.0885', 'week:0.0757', 'essential:0.0745', 'end:0.069', 'lobby:0.0585']+titles_keywords+['ukraine:0.3858', 'blockade:0.3627', 'hell:0.3356', 'sall:0.2839', 'grain:0.2112']"
+        ]
+    ],
+    "EUR+RUS+20":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/businessinsider.com/European Shares Retreat As Uncertainties Galore.txt+eventbasecode20+eventcode20+avgtone0.4604430379746835+goldsteinscale0.65+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['markets:0.4075', 'ftse:0.4025', 'moscow:0.289', 'withdraw:0.2761', 'uncertainties:0.2641', 'data:0.259', 'dax:0.2522', 'retreat:0.2439', 'german:0.2422', 'global:0.2396', 'sector:0.2368', 'rttnews:0.2299', 'automotive:0.2213', 'event:0.22', 'sanction:0.1987', 'sentiment:0.1947', 'january:0.1937', 'slowdown:0.19', 'log:0.1897', 'increase:0.1878', 'fell:0.1806', 'hawkish:0.1789', 'sp:0.1663', 'await:0.1594', 'redrow:0.159', 'hyve:0.1542', 'percent:0.1516', 'end:0.1429', 'cladding:0.1273', 'lael:0.114']+titles_keywords+['uncertainties:0.3155', 'retreat:0.2902', 'shares:0.2785', 'european:0.1554', 'galore:0.0247']"
+        ]
+    ],
+    "GBR+RUS+20":[
+        [
+            "20220517+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Russia badly botched its capture of Mariupol which should have been over much quicker analyst.txt+eventbasecode20+eventcode20+avgtone0.4859392575928009+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['crimea:0.4937', 'ukrainians:0.4111', 'kremlin:0.4072', 'azov:0.343', 'combat:0.3181', 'blockade:0.2896', 'podolyak:0.2695', 'outperform:0.2424', 'evacuate:0.2414', 'crisis:0.2353', 'tunnel:0.2097', 'long:0.2057', 'plan:0.202', 'emphasize:0.1991', 'continue:0.1956', 'changed:0.193', 'donbas:0.1884', 'quick:0.1882', 'botch:0.1801', 'major:0.1684', 'want:0.1621', 'adviser:0.1616', 'counterpoint:0.1597', 'saturday:0.1474', 'badly:0.1444', 'thermopylae:0.1422', 'plant:0.1343', 'total:0.1297', 'agree:0.1196', 'forging:0.0952']+titles_keywords+['botched:0.3528', 'mariupol:0.3172', 'russia:0.3003', 'capture:0.2711', 'quicker:0.1729']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/businessinsider.com/US intelligence suggests Russia has operatives in place for a possible falseflag operation to justify.txt+eventbasecode20+eventcode20+avgtone0.4743589743589744+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kremlin:0.4603', 'crimea:0.4524', 'nato:0.447', 'invade:0.3764', 'operatives:0.3185', 'escalation:0.3036', 'diplomatic:0.3033', 'politico:0.2879', 'sabotage:0.2732', 'pretext:0.2714', 'flag:0.2584', 'prepare:0.2523', 'rhetoric:0.2402', 'crisis:0.2283', 'playbook:0.226', 'cnn:0.2229', 'advisor:0.2172', 'information:0.2129', 'order:0.1785', 'thursday:0.1709', 'fabricate:0.158', 'falseflag:0.1524', 'refer:0.1477', 'end:0.1453', 'increasingly:0.1443', 'say:0.1389', 'state:0.1332', 'possible:0.1137', 'house:0.0711', 'stoltenberg:0.0684']+titles_keywords+['ukraine:0.3606', 'operatives:0.3385', 'falseflag:0.337', 'invading:0.2762', 'possible:0.1642']"
+        ]
+    ]
+}

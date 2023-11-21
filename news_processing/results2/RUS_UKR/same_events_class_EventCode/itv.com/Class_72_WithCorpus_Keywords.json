@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+72":[
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/itv.com/220 million of Russian oil has flowed to the UK since war started.txt+eventbasecode72+eventcode72+avgtone0.4832214765100671+goldsteinscale0.915+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.006578947368421052+news_keywords+['ukraine:0.4449', 'oil:0.4267', 'putin:0.3963', 'tanker:0.3784', 'sanctions:0.3432', 'boris:0.2482', 'greenpeace:0.1952', 'disingenuous:0.1752', 'news:0.1623', 'border:0.1606', 'bloody:0.1559', 'flow:0.1548', 'tonne:0.1467', 'arrive:0.1336', 'figures:0.1283', 'importing:0.1153', 'toll:0.115', 'flagged:0.1145', 'know:0.1059', 'end:0.1025', 'month:0.1024', 'theyre:0.0948', 'stranger:0.0873', 'listen:0.086', 'worth:0.0854', 'largely:0.0777', 'dont:0.0754', 'far:0.0527', 'fossil:0.0496', 'major:0.0301']+titles_keywords+['oil:0.4593', 'russian:0.3467', 'million:0.2708', 'flowed:0.1917', 'started:0.1362']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20211223+../news_crawling/RUS_UKR/p_articles/itv.com/Vladimir Putin accuses US of standing with missiles on our doorstep.txt+eventbasecode72+eventcode72+avgtone0.4763636363636363+goldsteinscale0.915+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5035', 'natos:0.4637', 'kgb:0.446', 'ukraine:0.4011', 'treaty:0.2765', 'missile:0.2736', 'invasion:0.2617', 'border:0.2547', 'eastward:0.2279', 'expand:0.2129', 'concern:0.2003', 'prepare:0.1919', 'accuse:0.1909', 'ally:0.1733', 'strike:0.161', 'end:0.1503', 'intervention:0.1352', 'distance:0.1289', 'straight:0.1259', 'react:0.1248', 'smear:0.1226', 'comment:0.12', 'make:0.1172', 'close:0.117', 'mr:0.1009', 'week:0.0949', 'earlier:0.0933', 'send:0.0888', 'thousand:0.0634', 'install:0.0612']+titles_keywords+['putin:0.4883', 'missiles:0.4371', 'standing:0.3005', 'accuses:0.252', 'doorstep:0.2178']"
+        ]
+    ]
+}

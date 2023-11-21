@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/katcountry989.com/Blasts heard in Russian city of Belgorod near border with Ukraine witnesses.txt+eventbasecode120+eventcode120+avgtone0.47198275862068967+goldsteinscale0.3+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['ukraine:0.4125', 'kremlin:0.3729', 'belgorod:0.3194', 'oleg:0.2961', 'blast:0.2424', 'debris:0.2422', 'reuters:0.2068', 'city:0.2038', 'fuel:0.1942', 'undermine:0.1814', 'border:0.1808', 'altitude:0.1736', 'damage:0.1678', 'near:0.1639', 'helicopter:0.1537', 'incident:0.1489', 'hear:0.1458', 'security:0.1389', 'cause:0.1353', 'peace:0.1338', 'rattle:0.1309', 'write:0.1303', 'km:0.1125', 'depot:0.1086', 'telegram:0.1067', 'elaborate:0.0954', 'enter:0.0885', 'immediately:0.0775', 'fell:0.0703', 'witness:0.0655']+titles_keywords+['ukraine:0.3502', 'belgorod:0.3359', 'blasts:0.3277', 'witnesses:0.1678', 'heard:0.1424']"
+        ]
+    ],
+    "WST+UKR+120":[
+        [
+            "20220522+../news_crawling/RUS_UKR/p_articles/katcountry989.com/Russias invasion of Ukraine enters fourth month.txt+eventbasecode120+eventcode120+avgtone0.46120218579234973+goldsteinscale0.3+nummentions0.05152394775036284+numarticles0.05221174764321972+numsources0.039473684210526314+news_keywords+['ukraine:0.4789', 'kremlin:0.4168', 'invades:0.4087', 'nato:0.3673', 'war:0.346', 'demilitarise:0.3102', 'reuters:0.2894', 'troop:0.2559', 'intensifies:0.2448', 'victory:0.2289', 'firing:0.2285', 'flee:0.2281', 'zelenskiy:0.2267', 'april:0.2233', 'unhcr:0.2158', 'missile:0.2082', 'shift:0.1998', 'logistical:0.1907', 'end:0.1822', 'column:0.1778', 'long:0.1749', 'counter:0.1728', 'bucha:0.1724', 'safe:0.172', 'period:0.1709', 'hear:0.162', 'nearly:0.1506', 'main:0.1471', 'evil:0.1423', 'counteroffensive:0.1351']+titles_keywords+['ukraine:0.3906', 'invasion:0.3702', 'month:0.3333', 'fourth:0.2377', 'enters:0.2076']"
+        ]
+    ]
+}

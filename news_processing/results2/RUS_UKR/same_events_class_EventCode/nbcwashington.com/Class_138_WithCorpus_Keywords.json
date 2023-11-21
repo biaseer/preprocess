@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+138":[
+        [
+            "20211212+../news_crawling/RUS_UKR/p_articles/nbcwashington.com/G7 Warns Russia of Massive Consequences If Ukraine Invaded.txt+eventbasecode138+eventcode138+avgtone0.47225433526011557+goldsteinscale0.15+nummentions0.07402031930333818+numarticles0.07469180565627266+numsources0.16776315789473684+news_keywords+['ukraine:0.4584', 'putin:0.4369', 'war:0.3359', 'diplomat:0.3298', 'nuclear:0.2877', 'agenda:0.2804', 'meeting:0.2772', 'economic:0.2752', 'global:0.2713', 'crisis:0.2615', 'worry:0.2461', 'consequences:0.2427', 'pipeline:0.2373', 'escalate:0.2364', 'biden:0.2117', 'hawkish:0.2116', 'authority:0.207', 'say:0.199', 'turn:0.1862', 'promise:0.1784', 'unified:0.1758', 'precursor:0.1623', 'ready:0.1587', 'big:0.1547', 'weve:0.1453', 'indo:0.1425', 'renew:0.126', 'weekend:0.1171', 'hub:0.1147', 'possibility:0.1042']+titles_keywords+['ukraine:0.396', 'consequences:0.2772', 'g7:0.264', 'warns:0.2588', 'invaded:0.2447']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/nbcwashington.com/US Sending MediumRange Rocket Systems to Ukraine Pentagon.txt+eventbasecode138+eventcode138+avgtone0.4910071942446043+goldsteinscale0.15+nummentions0.16690856313497823+numarticles0.16751269035532995+numsources0.11513157894736842+news_keywords+['ukraines:0.4745', 'kremlin:0.4002', 'pentagon:0.3176', 'tank:0.2792', 'intercept:0.2559', 'provoke:0.238', 'howitzer:0.2286', 'inventory:0.2253', 'systems:0.2251', 'assurances:0.22', 'advanced:0.2145', 'separatist:0.2143', 'launch:0.2143', 'plan:0.2134', 'president:0.2043', 'sievierodonetsk:0.1968', 'soon:0.1963', 'agreement:0.1947', 'capability:0.193', 'kilometer:0.1828', 'donbas:0.1769', 'help:0.1751', 'capital:0.1698', 'long:0.1574', 'th:0.1444', 'desperately:0.1155', 'sending:0.1072', 'possible:0.1064', 'difference:0.1025', 'doesnt:0.0809']+titles_keywords+['pentagon:0.4234', 'rocket:0.305', 'ukraine:0.295', 'mediumrange:0.1997', 'sending:0.1541']"
+        ]
+    ]
+}

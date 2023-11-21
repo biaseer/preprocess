@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/npr.org/Russian Americans react to Russian invasion in Ukraine.txt+eventbasecode12+eventcode12+avgtone0.45945945945945943+goldsteinscale0.48+nummentions0.0602322206095791+numarticles0.05728788977519942+numsources0.08881578947368421+news_keywords+['ukrainians:0.5736', 'ukraine:0.5329', 'ussr:0.4841', 'putin:0.4607', 'propaganda:0.3691', 'invasion:0.3354', 'provoke:0.2402', 'konsevych:0.198', 'social:0.1666', 'rush:0.1554', 'report:0.1552', 'worry:0.1523', 'underneath:0.1231', 'divide:0.123', 'transcript:0.1219', 'future:0.1212', 'want:0.1208', 'basically:0.1205', 'nprs:0.1196', 'grow:0.1193', 'bit:0.1076', 'cluster:0.1019', 'difference:0.0988', 'ph:0.0885', 'face:0.0874', 'rascoe:0.0872', 'chilly:0.0861', 'regular:0.0849', 'track:0.0841', 'true:0.0554']+titles_keywords+['russian:0.4839', 'ukraine:0.4646', 'americans:0.3606', 'invasion:0.3472', 'react:0.1515']"
+        ]
+    ],
+    "RUS+WST+12":[
+        [
+            "20220129+../news_crawling/RUS_UKR/p_articles/npr.org/How NATOs expansion helped drive Putin to invade Ukraine.txt+eventbasecode12+eventcode12+avgtone0.4934562760261749+goldsteinscale0.48+nummentions0.25+numarticles0.25054387237128356+numsources0.27631578947368424+news_keywords+['natos:0.5512', 'crimea:0.4156', 'gorbachev:0.3406', 'invade:0.3231', 'treaty:0.3218', 'expand:0.2915', 'eastward:0.259', 'diplomat:0.237', 'memorandum:0.2254', 'conflict:0.2191', 'separatist:0.1857', 'timeline:0.1851', 'reunify:0.1842', 'make:0.1615', 'refer:0.1572', 'closer:0.148', 'turn:0.1469', 'table:0.146', 'long:0.1342', 'novo:0.1307', 'baker:0.1253', 'imminently:0.1248', 'factually:0.1237', 'end:0.1172', 'creep:0.1119', 'unity:0.1061', 'powerful:0.104', 'videoconference:0.1036', 'add:0.0924', 'curtain:0.0813']+titles_keywords+['natos:0.5934', 'putin:0.4798', 'invade:0.4372', 'expansion:0.2901', 'helped:0.1238']"
+        ]
+    ]
+}

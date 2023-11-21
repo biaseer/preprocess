@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/dailypost.co.uk/Moscow denies Putins invasion of Ukraine has stalled.txt+eventbasecode120+eventcode120+avgtone0.47817460317460314+goldsteinscale0.3+nummentions0.020682148040638608+numarticles0.02139231327048586+numsources0.02631578947368421+news_keywords+['kremlin:0.5362', 'putin:0.5218', 'moscow:0.4695', 'ukraines:0.4642', 'chernobyl:0.4575', 'vladimir:0.4367', 'peskov:0.3773', 'zelensky:0.3274', 'war:0.2697', 'decommission:0.2553', 'neutral:0.1778', 'supply:0.1725', 'occupier:0.1696', 'plant:0.1643', 'worrying:0.1637', 'report:0.159', 'deny:0.159', 'plan:0.1418', 'corridor:0.1343', 'goal:0.1294', 'newsletter:0.1131', 'advance:0.0966', 'strictly:0.096', 'reach:0.0851', 'main:0.0836', 'mr:0.0782', 'million:0.0673', 'agree:0.0627', 'week:0.0499', 'add:0.0294']+titles_keywords+['moscow:0.387', 'putins:0.3296', 'stalled:0.2826', 'denies:0.2262', 'invasion:0.2092']"
+        ]
+    ],
+    "RUS+WST+120":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/dailypost.co.uk/Volodymyr Zelensky calls for worldwide demonstrations today.txt+eventbasecode120+eventcode120+avgtone0.502906976744186+goldsteinscale0.3+nummentions0.4695210449927431+numarticles0.4699057287889775+numsources0.41776315789473684+news_keywords+['ukraine:0.4593', 'zelensky:0.4438', 'nato:0.3825', 'volodymyr:0.3114', 'invasion:0.2758', 'president:0.2456', 'speak:0.2368', 'peace:0.2233', 'stay:0.2067', 'heard:0.185', 'begin:0.1833', 'betray:0.1818', 'today:0.1599', 'fend:0.1581', 'street:0.1509', 'people:0.1502', 'friend:0.1455', 'month:0.1448', 'straight:0.1268', 'shot:0.1266', 'exactly:0.1246', 'make:0.1229', 'free:0.1207', 'switching:0.1168', 'thousand:0.1113', 'near:0.1082', 'send:0.0992', 'fully:0.0924', 'video:0.091', 'symbols:0.0724']+titles_keywords+['zelensky:0.5199', 'demonstrations:0.3203', 'volodymyr:0.2814', 'today:0.2106', 'worldwide:0.2012']"
+        ]
+    ]
+}

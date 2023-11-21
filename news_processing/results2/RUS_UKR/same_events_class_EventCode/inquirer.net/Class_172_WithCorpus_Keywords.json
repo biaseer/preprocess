@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+172":[
+        [
+            "20220511+../news_crawling/RUS_UKR/p_articles/inquirer.net/Inside a Ukraine hospital where medics work as rockets fall.txt+eventbasecode172+eventcode172+avgtone0.47248968363136173+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4613', 'casualty:0.4501', 'medic:0.4186', 'war:0.4074', 'troop:0.3839', 'demilitarise:0.3741', 'emergency:0.3443', 'shrapnel:0.3335', 'blood:0.2906', 'tank:0.2869', 'druzenko:0.2689', 'news:0.2251', 'read:0.2098', 'safe:0.2098', 'enter:0.1924', 'flee:0.192', 'advantage:0.1896', 'cover:0.1883', 'pretext:0.1794', 'care:0.1757', 'fall:0.1689', 'baseless:0.1609', 'diagnose:0.1571', 'amid:0.1561', 'spine:0.1547', 'chois:0.1451', 'thousand:0.1345', 'granddaughter:0.1311', 'agree:0.1264', 'subscribe:0.1184']+titles_keywords+['medics:0.5353', 'rockets:0.4012', 'ukraine:0.3686', 'inside:0.2066', 'fall:0.2028']"
+        ]
+    ],
+    "EUR+RUS+172":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/inquirer.net/Biden says US to ban Russian flights from American airspace.txt+eventbasecode172+eventcode172+avgtone0.4948770491803278+goldsteinscale0.25+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.019736842105263157+news_keywords+['putin:0.4824', 'russias:0.404', 'airlines:0.34', 'airspace:0.3387', 'invasion:0.284', 'ban:0.2364', 'news:0.2336', 'privacy:0.2112', 'isolate:0.21', 'read:0.2034', 'assert:0.2016', 'administration:0.2013', 'order:0.1977', 'states:0.1898', 'canceling:0.1768', 'end:0.1593', 'squeeze:0.1578', 'lines:0.1538', 'day:0.1489', 'philippine:0.1472', 'effectively:0.1458', 'schedule:0.1427', 'ohare:0.1345', 'benefit:0.1177', 'step:0.1173', 'negative:0.1082', 'passenger:0.1022', 'frat:0.0879', 'share:0.0683', 'gadget:0.0453']+titles_keywords+['biden:0.423', 'russian:0.2838', 'airspace:0.2549', 'ban:0.2117', 'says:0.0875']"
+        ]
+    ]
+}

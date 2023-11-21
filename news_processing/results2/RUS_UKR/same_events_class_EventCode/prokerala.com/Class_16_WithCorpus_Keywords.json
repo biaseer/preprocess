@@ -1,0 +1,12 @@
+{
+    "IRN+RUS+16":[
+        [
+            "20220715+../news_crawling/RUS_UKR/p_articles/prokerala.com/Iran rejects US claim of sending drones to Russia as baseless By IANS Published on.txt+eventbasecode16+eventcode16+avgtone0.4746835443037975+goldsteinscale0.4+nummentions0.023222060957910014+numarticles0.023930384336475707+numsources0.019736842105263157+news_keywords+['iran:0.4831', 'drone:0.4199', 'ukrainian:0.3222', 'amir:0.2712', 'diplomat:0.2484', 'xinhua:0.2347', 'war:0.2253', 'biden:0.2142', 'baseless:0.2123', 'report:0.1842', 'ians:0.1825', 'allegation:0.1774', 'security:0.1718', 'indicate:0.1486', 'hossein:0.1379', 'oppose:0.1356', 'counterpart:0.1327', 'say:0.1209', 'ist:0.1206', 'sat:0.1122', 'send:0.1102', 'purpose:0.1091', 'prepare:0.072', 'release:0.0666', 'capable:0.063', 'website:0.0596', 'dmytro:0.0571', 'include:0.0514', 'accord:0.0466', 'middle:0.0112']+titles_keywords+['iran:0.4262', 'drones:0.393', 'baseless:0.3414', 'published:0.2011', '2022:0.1798']"
+        ]
+    ],
+    "RUS+UKR+16":[
+        [
+            "20220724+../news_crawling/RUS_UKR/p_articles/prokerala.com/Russia denies attacks on Ukrainian port after grain deal Turkish minister By IANS Published on.txt+eventbasecode16+eventcode16+avgtone0.5014005602240896+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4334', 'chernomorsk:0.4114', 'yuzhny:0.3328', 'ankara:0.3195', 'attack:0.2761', 'grain:0.2459', 'cooperation:0.2313', 'port:0.2282', 'worry:0.2242', 'news:0.2186', 'supply:0.2177', 'report:0.2024', 'military:0.2008', 'issue:0.1963', 'auspices:0.1954', 'happen:0.1888', 'receive:0.1732', 'allow:0.159', 'ist:0.1587', 'fact:0.1411', 'continue:0.1397', 'area:0.1385', 'examine:0.1305', 'export:0.1294', 'significant:0.1221', 'global:0.1185', 'respectively:0.1013', 'andrii:0.0967', 'million:0.0811', 'center:0.065']+titles_keywords+['ukrainian:0.3742', 'denies:0.2825', 'port:0.2626', 'grain:0.242', 'published:0.144']"
+        ]
+    ]
+}

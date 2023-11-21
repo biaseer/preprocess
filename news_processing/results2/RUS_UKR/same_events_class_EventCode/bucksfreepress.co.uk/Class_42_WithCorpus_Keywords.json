@@ -1,0 +1,12 @@
+{
+    "POL+UKR+42":[
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/bucksfreepress.co.uk/Ukraines president set to meet US officials in Kyiv.txt+eventbasecode42+eventcode42+avgtone0.4734446130500759+goldsteinscale0.595+nummentions0.11284470246734397+numarticles0.11348803480783176+numsources0.10197368421052631+news_keywords+['kyiv:0.5016', 'russians:0.413', 'invade:0.3439', 'civilians:0.2768', 'zelensky:0.2696', 'president:0.2503', 'separatist:0.2271', 'armed:0.2166', 'plan:0.1966', 'friday:0.1876', 'reorganise:0.1814', 'continue:0.1767', 'report:0.173', 'speaking:0.1729', 'donbas:0.1718', 'tunnel:0.17', 'good:0.1677', 'north:0.1675', 'long:0.1654', 'death:0.1578', 'plant:0.1406', 'believe:0.1347', 'nearly:0.1297', 'pummel:0.128', 'prior:0.1204', 'withdraw:0.1165', 'significance:0.1003', 'highlight:0.0951', 'true:0.08', 'cost:0.0267']+titles_keywords+['kyiv:0.417', 'ukraines:0.3679', 'president:0.2672', 'meet:0.2398', 'set:0.0509']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/bucksfreepress.co.uk/William visits MI6 ahead of Russias invasion of Ukraine.txt+eventbasecode42+eventcode42+avgtone0.5178571428571429+goldsteinscale0.595+nummentions0.1444121915820029+numarticles0.145032632342277+numsources0.16447368421052633+news_keywords+['gchq:0.502', 'whitehall:0.4098', 'william:0.3592', 'security:0.3522', 'agency:0.3028', 'russias:0.287', 'intelligence:0.278', 'uk:0.2726', 'throne:0.2721', 'visit:0.2617', 'attack:0.2551', 'privilege:0.2537', 'private:0.2523', 'important:0.223', 'diary:0.2207', 'duke:0.2135', 'ahead:0.2041', 'court:0.1686', 'extraordinary:0.154', 'time:0.1529', 'misuse:0.1504', 'know:0.1469', 'head:0.1408', 'issue:0.1384', 'moore:0.1346', 'want:0.1294', 'background:0.1179', 'second:0.1157', 'week:0.1058', 'make:0.0832']+titles_keywords+['mi6:0.5131', 'ukraine:0.3076', 'william:0.291', 'invasion:0.274', 'ahead:0.1281']"
+        ]
+    ]
+}

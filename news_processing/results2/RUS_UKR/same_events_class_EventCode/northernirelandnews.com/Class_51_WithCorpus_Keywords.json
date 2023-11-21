@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+51":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/northernirelandnews.com/Chinas neutrality over Ukraine war a defacto support for Russia says expert.txt+eventbasecode51+eventcode51+avgtone0.4772727272727273+goldsteinscale0.67+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.019736842105263157+news_keywords+['ukraine:0.4536', 'putin:0.4006', 'neutrality:0.3596', 'war:0.3337', 'strategic:0.2769', 'opposite:0.2258', 'chinese:0.2251', 'translate:0.2233', 'portray:0.1948', 'ally:0.1947', 'biden:0.1816', 'expert:0.1736', 'concerned:0.1722', 'jinping:0.1715', 'nominal:0.1622', 'initiatives:0.1621', 'opine:0.1568', 'talk:0.1561', 'future:0.1499', 'agreement:0.1491', 'degree:0.1454', 'hesitate:0.1421', 'compel:0.1347', 'awkward:0.1347', 'continue:0.1219', 'make:0.1131', 'equipment:0.1', 'nexus:0.0865', 'centre:0.0863', 'tightrope:0.0779']+titles_keywords+['ukraine:0.3507', 'neutrality:0.3339', 'expert:0.2354', 'war:0.2242', 'says:0.0676']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/northernirelandnews.com/Mattis Putin Goes to Bed at Night Fearful.txt+eventbasecode51+eventcode51+avgtone0.4803646563814867+goldsteinscale0.67+nummentions0.09288824383164006+numarticles0.09354604786076867+numsources0.06578947368421052+news_keywords+['putin:0.4382', 'nato:0.4112', 'mattis:0.3686', 'diplomatic:0.3685', 'seoul:0.3551', 'turkmenistan:0.3286', 'war:0.3177', 'dostoevsky:0.2841', 'democracies:0.2663', 'talk:0.2617', 'north:0.2465', 'redeploy:0.2395', 'outcome:0.2317', 'world:0.2244', 'night:0.2121', 'relation:0.2041', 'fearful:0.2027', 'foreign:0.2018', 'compare:0.201', 'avoid:0.1934', 'suk:0.1704', 'state:0.1628', 'long:0.1541', 'abbreviation:0.1474', 'come:0.1414', 'smart:0.141', 'draw:0.137', 'praise:0.1325', 'nontraditional:0.1248', 'week:0.1225']+titles_keywords+['mattis:0.5722', 'putin:0.4637', 'fearful:0.4073', 'night:0.3177', 'bed:0.3122']"
+        ]
+    ]
+}

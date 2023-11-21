@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/sana.sy/Russia opens a mainland road links Crimea and all Russias regions.txt+eventbasecode20+eventcode20+avgtone0.5+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.5511', 'moscow:0.3757', 'russias:0.3156', 'mainland:0.297', 'russian:0.2962', 'sergei:0.292', 'peninsula:0.2788', 'bridge:0.2251', 'road:0.2199', 'regions:0.2084', 'strait:0.1899', 'extend:0.176', 'news:0.1441', 'kerch:0.1179', 'open:0.1124', 'reach:0.0986', 'supply:0.0936', 'shoigu:0.0908', 'link:0.0547', 'water:0.0541', 'resume:0.0518', 'say:0.0504', 'tass:0.0425', 'rest:0.0399', 'earlier:0.0217', 'channel:0.0147', 'tuesday:0.01', 'unimpeded:-0.0061', 'quote:-0.0131', 'minister:-0.0245']+titles_keywords+['crimea:0.5079', 'russias:0.308', 'road:0.2462', 'opens:0.1327', 'links:0.0683']"
+        ]
+    ],
+    "RUS+USA+20":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/sana.sy/Russia calls upon Washington to stop spreading disinformation on events in Ukraine.txt+eventbasecode20+eventcode20+avgtone0.46551724137931033+goldsteinscale0.65+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.01644736842105263+news_keywords+['ukraine:0.4604', 'disinformation:0.4353', 'russian:0.4101', 'embassy:0.2868', 'theatre:0.2727', 'attack:0.2657', 'information:0.2463', 'lie:0.2359', 'nationalist:0.2319', 'azov:0.2302', 'involvement:0.2289', 'washington:0.2237', 'battalion:0.2232', 'source:0.1982', 'allege:0.1867', 'use:0.1733', 'cover:0.1724', 'stop:0.172', 'campaign:0.166', 'event:0.1613', 'spread:0.1469', 'response:0.1459', 'run:0.13', 'people:0.127', 'mariupol:0.1184', 'medium:0.1162', 'recommend:0.1093', 'force:0.0855', 'sana:0.0626', 'objectively:0.0578']+titles_keywords+['disinformation:0.4071', 'ukraine:0.3851', 'washington:0.2523', 'stop:0.1287', 'events:0.0531']"
+        ]
+    ]
+}

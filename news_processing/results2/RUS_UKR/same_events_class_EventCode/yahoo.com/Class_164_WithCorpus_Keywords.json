@@ -1,0 +1,16 @@
+{
+    "RUS+UKR+164":[
+        [],
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/yahoo.com/Ukraine invasion not moving as fast as we would like admits top Russian official.txt+eventbasecode164+eventcode164+avgtone0.4736434108527132+goldsteinscale0.15+nummentions0.03265602322206096+numarticles0.03335750543872371+numsources0.03289473684210526+news_keywords+['ukraine:0.4467', 'kremlin:0.4405', 'nato:0.364', 'invasion:0.3236', 'briefing:0.312', 'shortly:0.2854', 'confrontation:0.2616', 'military:0.2525', 'separatist:0.2509', 'riot:0.2421', 'president:0.231', 'plan:0.2147', 'involve:0.2095', 'cnn:0.2063', 'peace:0.2058', 'rhetoric:0.2045', 'continue:0.197', 'come:0.1909', 'volodymyr:0.1895', 'dangerous:0.1888', 'change:0.1831', 'strike:0.1818', 'clarify:0.1799', 'report:0.1773', 'weekend:0.1771', 'say:0.1723', 'long:0.1615', 'medinsky:0.1455', 'range:0.1286', 'population:0.0915']+titles_keywords+['ukraine:0.3148', 'invasion:0.2937', 'fast:0.2471', 'moving:0.1464', 'official:0.111']"
+        ],
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russia does not consider itself at war with NATO blames Kyiv for talks deadlock agencies.txt+eventbasecode164+eventcode164+avgtone0.4910179640718563+goldsteinscale0.15+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4359', 'kyiv:0.4306', 'nato:0.4106', 'war:0.3434', 'sergei:0.3164', 'deadlock:0.3126', 'lavrov:0.3001', 'negotiate:0.2395', 'peace:0.2298', 'reuters:0.2164', 'talk:0.2124', 'arabiya:0.201', 'nuclear:0.1819', 'news:0.1421', 'blame:0.1393', 'position:0.1127', 'risk:0.105', 'development:0.0998', 'say:0.0974', 'change:0.0908', 'cite:0.0895', 'friday:0.0817', 'foreign:0.067', 'increase:0.0649', 'agency:0.0649', 'consider:0.0578', 'stall:0.0424', 'ria:0.0403', 'base:0.034', 'minister:-0.0015']+titles_keywords+['kyiv:0.4222', 'nato:0.4177', 'deadlock:0.3266', 'talks:0.1881', 'does:0.082']"
+        ]
+    ],
+    "UKR+RUS+164":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/yahoo.com/UkraineRussia peace talks are likely to fail because negotiating with Putin is like dealing with.txt+eventbasecode164+eventcode164+avgtone0.4972123860468621+goldsteinscale0.15+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4641', 'putin:0.4124', 'treaty:0.4009', 'negotiation:0.3538', 'diplomat:0.319', 'war:0.3148', 'liaise:0.3113', 'reuters:0.2921', 'modi:0.2869', 'annexed:0.2682', 'result:0.2244', 'boris:0.2171', 'continue:0.1919', 'organization:0.1829', 'long:0.1728', 'troop:0.1695', 'refer:0.169', 'capital:0.1664', 'say:0.155', 'clear:0.155', 'wednesday:0.1545', 'good:0.1526', 'volodymyr:0.1485', 'afraid:0.1408', 'compare:0.139', 'lack:0.1352', 'arm:0.1124', 'historic:0.1077', 'bucha:0.0885', 'add:0.0472']+titles_keywords+['putin:0.4263', 'negotiating:0.3631', 'crocodile:0.2559', 'says:0.1241', 'likely:0.0965']"
+        ]
+    ]
+}

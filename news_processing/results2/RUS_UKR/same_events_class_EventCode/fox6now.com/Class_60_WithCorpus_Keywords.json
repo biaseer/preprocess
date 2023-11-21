@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+60":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/fox6now.com/Russia invades Ukraine Kyiv resident speaks to FOX6.txt+eventbasecode60+eventcode60+avgtone0.4753521126760563+goldsteinscale0.8+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['kyiv:0.5319', 'russia:0.4367', 'invasion:0.4184', 'tykhonovprepared:0.3603', 'bomb:0.2861', 'barricade:0.2787', 'happen:0.2704', 'news:0.2631', 'panicked:0.2631', 'alert:0.253', 'read:0.2416', 'nation:0.2375', 'fight:0.2344', 'political:0.2283', 'school:0.2274', 'safe:0.2172', 'speak:0.2153', 'hoan:0.1998', 'early:0.1988', 'th:0.1912', 'nonsense:0.1888', 'stayed:0.1865', 'terms:0.1785', 'want:0.1756', 'like:0.1714', 'unfold:0.1386', 'century:0.1384', 'darien:0.1341', 'light:0.1283', 'theres:0.0821']+titles_keywords+['kyiv:0.5548', 'fox6:0.3273', 'invades:0.2631', 'resident:0.171', 'speaks:0.1419']"
+        ],
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/fox6now.com/Russian soldier sentenced to life in prison in Ukraines 1st war crimes trial.txt+eventbasecode60+eventcode60+avgtone0.4619565217391305+goldsteinscale0.8+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.04276315789473684+news_keywords+['ukraine:0.4843', 'moscows:0.382', 'invasion:0.2895', 'military:0.2883', 'news:0.2822', 'embargo:0.2696', 'conviction:0.2605', 'separatist:0.2473', 'capital:0.2461', 'report:0.2439', 'read:0.2389', 'casualty:0.2386', 'shelipov:0.2372', 'sievierodonetsk:0.224', 'fight:0.2178', 'tank:0.2168', 'president:0.2126', 'flee:0.2089', 'street:0.1966', 'storyful:0.1946', 'order:0.1938', 'contradict:0.1927', 'bucha:0.1916', 'day:0.1839', 'world:0.1778', 'video:0.1481', 'left:0.1212', 'associated:0.1159', 'thousand:0.1057', 'dig:0.089']+titles_keywords+['sentenced:0.3623', 'soldier:0.2533', 'ukraines:0.2417', 'life:0.2339', '1st:0.1103']"
+        ]
+    ]
+}

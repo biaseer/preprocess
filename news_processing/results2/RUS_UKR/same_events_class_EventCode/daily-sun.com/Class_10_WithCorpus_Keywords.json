@@ -1,0 +1,12 @@
+{
+    "RUS+EST+10":[
+        [
+            "20210712+../news_crawling/RUS_UKR/p_articles/daily-sun.com/Briton arrested in Germany for spying for Russia.txt+eventbasecode10+eventcode10+avgtone0.4629057187017001+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['espionage:0.5429', 'kremlin:0.4538', 'investigation:0.3903', 'ukraines:0.3737', 'government:0.3572', 'diplomatic:0.3494', 'suspect:0.3409', 'sergei:0.3351', 'sanction:0.3182', 'scandal:0.3107', 'cybersecurity:0.3016', 'annexation:0.2985', 'potsdam:0.2609', 'office:0.2187', 'relations:0.2146', 'command:0.2077', 'cite:0.2045', 'italian:0.2028', 'troop:0.1961', 'case:0.1891', 'afp:0.1861', 'pipeline:0.1815', 'poison:0.1794', 'search:0.1717', 'loggerheads:0.1662', 'wednesday:0.1565', 'david:0.1406', 'interference:0.1151', 'finish:0.101', 'double:0.0808']+titles_keywords+['spying:0.351', 'germany:0.2853', 'briton:0.2552', 'arrested:0.2373', 'russia:0.2275']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/daily-sun.com/UN chief announces new Cold War threat.txt+eventbasecode10+eventcode10+avgtone0.4576612903225809+goldsteinscale0.5+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.01644736842105263+news_keywords+['putin:0.4689', 'ukraine:0.4124', 'demilitarization:0.3738', 'nuclear:0.3324', 'nationalism:0.3088', 'threat:0.3022', 'conflict:0.2978', 'sahel:0.2562', 'military:0.243', 'world:0.224', 'operation:0.2168', 'warn:0.2143', 'guterres:0.181', 'secretary:0.1787', 'general:0.1689', 'announces:0.1598', 'cold:0.1546', 'head:0.135', 'goal:0.1254', 'new:0.1168', 'hall:0.1154', 'graduate:0.1008', 'tuesday:0.0933', 'decade:0.0922', 'tass:0.0712', 'central:0.0699', 'include:0.0627', 'undertones:0.0544', 'request:0.054', 'scale:0.0535']+titles_keywords+['threat:0.332', 'new:0.229', 'chief:0.2182', 'announces:0.1981', 'cold:0.1764']"
+        ]
+    ]
+}

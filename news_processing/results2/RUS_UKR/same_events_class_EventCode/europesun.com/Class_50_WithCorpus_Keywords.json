@@ -1,0 +1,35 @@
+{
+    "ARE+RUS+50":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/europesun.com/Wizz Air RussiaUAE flights to remain canceled.txt+eventbasecode50+eventcode50+avgtone0.4788732394366197+goldsteinscale0.675+nummentions0.28519593613933236+numarticles0.2857142857142857+numsources0.2565789473684211+news_keywords+['dhabi:0.4427', 'moscow:0.4294', 'airline:0.4162', 'russiauae:0.3314', 'airspace:0.3106', 'boycott:0.2821', 'canceled:0.2465', 'sanction:0.2376', 'suspend:0.2349', 'european:0.2297', 'capital:0.2245', 'supply:0.2244', 'twitter:0.2041', 'sovereign:0.1874', 'statement:0.1859', 'wizz:0.1836', 'venture:0.1718', 'say:0.165', 'respond:0.1648', 'union:0.1643', 'operation:0.1617', 'neutral:0.1403', 'list:0.1399', 'month:0.1394', 'adq:0.1386', 'despite:0.1381', 'previous:0.1281', 'currently:0.107', 'percent:0.0945', 'resume:0.0594']+titles_keywords+['russiauae:0.4223', 'flights:0.3894', 'canceled:0.3862', 'wizz:0.3001', 'remain:0.1208']"
+        ]
+    ],
+    "CHN+RUS+50":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/europesun.com/The key area where China must now pair up with Russia to defy the US.txt+eventbasecode50+eventcode50+avgtone0.49568500539374327+goldsteinscale0.675+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.029605263157894735+news_keywords+['geopolitics:0.4572', 'hegemony:0.3565', 'ukraine:0.3537', 'embargo:0.3144', 'industry:0.3001', 'cooperation:0.2896', 'huawei:0.2817', 'semiconductor:0.2798', 'beijing:0.2718', 'establish:0.2649', 'advantage:0.2636', 'patent:0.2631', 'nuclear:0.2541', 'roadmap:0.2422', 'coordinate:0.2261', 'subject:0.2257', 'consolidate:0.2249', 'strongarming:0.2126', 'result:0.2037', 'example:0.2027', 'help:0.2004', 'make:0.1995', 'global:0.1756', 'trend:0.175', 'fight:0.1714', 'deepen:0.1699', 'biden:0.1646', 'deal:0.1304', 'unprecedented:0.1103', 'largely:0.0807']+titles_keywords+['russia:0.41', 'defy:0.1842', 'area:0.1281', 'key:0.1225', 'pair:0.0783']"
+        ]
+    ],
+    "EUR+RUS+50":[
+        [
+            "20220113+../news_crawling/RUS_UKR/p_articles/europesun.com/OSCE Meeting Ends No Movement Made In RussiaUkraine Crisis.txt+eventbasecode50+eventcode50+avgtone0.4894736842105263+goldsteinscale0.675+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['nato:0.4564', 'osce:0.4523', 'diplomacy:0.4346', 'crimea:0.3844', 'kremlin:0.3493', 'escalation:0.2983', 'meeting:0.2842', 'vladimir:0.2809', 'europeradio:0.2428', 'reassure:0.2124', 'vienna:0.2085', 'chairmanship:0.1978', 'deploy:0.1908', 'prospect:0.1897', 'exchange:0.1843', 'border:0.1773', 'ends:0.1668', 'prepare:0.1626', 'movement:0.1616', 'week:0.1419', 'ally:0.1366', 'images:0.1169', 'sphere:0.1166', 'long:0.1158', 'near:0.1152', 'seek:0.1108', 'deadlock:0.1072', 'official:0.1043', 'hear:0.0903', 'difference:0.0555']+titles_keywords+['osce:0.4426', 'russiaukraine:0.3483', 'meeting:0.2421', 'ends:0.2261', 'movement:0.2046']"
+        ]
+    ],
+    "RUS+UKR+50":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/europesun.com/Russian military confirms seizure of Chernobyl nuclear power plant.txt+eventbasecode50+eventcode50+avgtone0.4803921568627451+goldsteinscale0.675+nummentions0.01088534107402032+numarticles0.011602610587382161+numsources0.013157894736842105+news_keywords+['chernobyl:0.5575', 'kiev:0.4615', 'reactor:0.3861', 'russians:0.3585', 'ceasefire:0.3257', 'operation:0.2904', 'military:0.2687', 'coup:0.2602', 'disaster:0.2366', 'safe:0.2188', 'attack:0.2031', 'independence:0.2018', 'prepare:0.2012', 'report:0.1845', 'plant:0.1709', 'continue:0.1686', 'power:0.1615', 'friday:0.1534', 'surround:0.1451', 'specify:0.1373', 'northern:0.1319', 'retake:0.1286', 'lpr:0.126', 'structure:0.1228', 'confirms:0.1168', 'change:0.1164', 'major:0.1029', 'reach:0.086', 'entirely:0.0708', 'deal:0.069']+titles_keywords+['chernobyl:0.5417', 'russian:0.2618', 'military:0.17', 'plant:0.1449', 'confirms:0.1349']"
+        ],
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/europesun.com/Russia presents new evidence on Ukraine biolabs comments on links to Biden and US.txt+eventbasecode50+eventcode50+avgtone0.4911699779249448+goldsteinscale0.675+nummentions0.013425253991291727+numarticles0.014140681653372008+numsources0.013157894736842105+news_keywords+['pathogens:0.4891', 'biolaboratories:0.4315', 'bioethics:0.4076', 'russia:0.3719', 'hantaviruses:0.369', 'disinformation:0.327', 'laboratory:0.2894', 'blood:0.2687', 'evidence:0.2453', 'diplomat:0.2431', 'pentagon:0.2318', 'patent:0.2314', 'payload:0.2296', 'uavs:0.2283', 'briefing:0.2209', 'dangerous:0.2199', 'strain:0.2153', 'mechanism:0.2139', 'swine:0.2107', 'treat:0.1856', 'senate:0.1834', 'sich:0.1812', 'author:0.169', 'accuse:0.1608', 'coordinate:0.1583', 'directly:0.1517', 'baykar:0.1345', 'volunteer:0.1289', 'million:0.1106', 'long:0.103']+titles_keywords+['ukraine:0.3725', 'biden:0.3496', 'biolabs:0.3111', 'evidence:0.2654', 'links:0.2019']"
+        ]
+    ],
+    "UKR+RUS+50":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/europesun.com/US provides USD 350 million immediate support to Ukraine against Russias military actions.txt+eventbasecode50+eventcode50+avgtone0.5+goldsteinscale0.675+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.01644736842105263+news_keywords+['ukraine:0.5204', 'russias:0.4388', 'putin:0.4329', 'military:0.3331', 'threat:0.2842', 'unprovoked:0.2701', 'protect:0.2692', 'operation:0.2601', 'president:0.2489', 'sanction:0.2347', 'assistance:0.225', 'pursuant:0.2206', 'authorize:0.205', 'union:0.1966', 'authority:0.1964', 'state:0.1963', 'additional:0.1961', 'donbas:0.1947', 'order:0.1945', 'ongoing:0.1885', 'usd:0.1848', 'develop:0.1761', 'breakaway:0.1531', 'billion:0.151', 'say:0.1505', 'today:0.142', 'drawdown:0.1372', 'december:0.1357', 'include:0.1104', 'ani:0.0815']+titles_keywords+['ukraine:0.4269', 'military:0.2592', 'immediate:0.2537', 'support:0.234', 'usd:0.2312']"
+        ]
+    ],
+    "WST+RUS+50":[
+        [
+            "20220210+../news_crawling/RUS_UKR/p_articles/europesun.com/Moscow not thinking West ready for unleashing conflict with Russia Senior Diplomat.txt+eventbasecode50+eventcode50+avgtone0.4707792207792208+goldsteinscale0.675+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.01644736842105263+news_keywords+['ukraine:0.4393', 'nato:0.4343', 'moscow:0.3887', 'gatilov:0.2929', 'diplomat:0.285', 'conflict:0.284', 'political:0.2207', 'sputnik:0.2117', 'preparation:0.1962', 'sanction:0.1915', 'plan:0.1701', 'geneva:0.164', 'ready:0.1618', 'talk:0.159', 'western:0.1407', 'conclusion:0.1385', 'security:0.1379', 'unleash:0.1331', 'office:0.1172', 'raise:0.1149', 'make:0.1099', 'united:0.108', 'stakes:0.106', 'february:0.0867', 'rethink:0.0801', 'step:0.0767', 'real:0.075', 'obvious:0.0722', 'possible:0.062', 'far:0.0396']+titles_keywords+['moscow:0.3816', 'diplomat:0.3704', 'conflict:0.2253', 'unleashing:0.1163', 'ready:0.0896']"
+        ]
+    ]
+}

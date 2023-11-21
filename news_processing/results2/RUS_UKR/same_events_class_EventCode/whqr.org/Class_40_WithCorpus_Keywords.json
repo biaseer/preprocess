@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+40":[
+        [
+            "20220110+../news_crawling/RUS_UKR/p_articles/whqr.org/News brief Bronx fire record COVID19 cases USRussia talks on Ukraine.txt+eventbasecode40+eventcode40+avgtone0.49+goldsteinscale0.55+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.0756578947368421+news_keywords+['putin:0.4796', 'crimea:0.4643', 'ukrainians:0.424', 'nato:0.3587', 'diplomacy:0.3554', 'pandemic:0.3377', 'unrest:0.3325', 'escalation:0.303', 'housing:0.2776', 'fireproof:0.2673', 'smoke:0.2539', 'hospitalize:0.2533', 'immigrate:0.2531', 'news:0.2491', 'history:0.2478', 'risk:0.2411', 'victim:0.2201', 'know:0.2164', 'underway:0.2164', 'region:0.2144', 'tank:0.2052', 'write:0.2002', 'secretary:0.1851', 'asymptomatic:0.1839', 'posture:0.1726', 'sprinkler:0.1672', 'bronx:0.1618', 'end:0.1583', 'bad:0.1564', 'maybe:0.0916']+titles_keywords+['covid19:0.4309', 'bronx:0.3953', 'ukraine:0.3865', 'cases:0.2431', 'record:0.1857']"
+        ]
+    ],
+    "WST+RUS+40":[
+        [
+            "20220513+../news_crawling/RUS_UKR/p_articles/whqr.org/Russia may become the only nonNATO nation in the Arctic sparking fears of conflict.txt+eventbasecode40+eventcode40+avgtone0.4856711915535445+goldsteinscale0.55+nummentions0.019593613933236574+numarticles0.02030456852791878+numsources0.039473684210526314+news_keywords+['nato:0.4733', 'kremlin:0.4132', 'geopolitics:0.396', 'tundra:0.374', 'moscow:0.3651', 'nordic:0.3384', 'militarize:0.2981', 'polar:0.2926', 'neutrality:0.2463', 'cyberattacks:0.2362', 'invasion:0.2239', 'cooperatively:0.1995', 'correspondent:0.1651', 'neighboring:0.1505', 'spillover:0.1427', 'state:0.1342', 'warn:0.1297', 'assume:0.1273', 'sudden:0.1269', 'fear:0.1259', 'issue:0.1058', 'research:0.0974', 'end:0.0864', 'come:0.0823', 'reverse:0.0798', 'longer:0.076', 'possible:0.0624', 'receive:0.0589', 'make:0.0579', 'major:0.0524']+titles_keywords+['arctic:0.442', 'russia:0.4119', 'nonnato:0.2368', 'conflict:0.1702', 'fears:0.1442']"
+        ]
+    ]
+}

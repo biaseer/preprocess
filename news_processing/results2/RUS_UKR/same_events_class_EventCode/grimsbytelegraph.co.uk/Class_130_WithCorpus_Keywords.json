@@ -1,0 +1,17 @@
+{
+    "GBR+UKR+130":[
+        [
+            "20211130+../news_crawling/RUS_UKR/p_articles/grimsbytelegraph.co.uk/UK issues Ukraine warning to Russias Vladimir Putin.txt+eventbasecode130+eventcode130+avgtone0.48863636363636365+goldsteinscale0.27999999999999997+nummentions0.03483309143686502+numarticles0.03553299492385787+numsources0.029605263157894735+news_keywords+['natos:0.5122', 'crimea:0.4748', 'kremlin:0.4018', 'ukrainian:0.3837', 'invade:0.3709', 'strategic:0.331', 'undermine:0.299', 'annexation:0.2937', 'intervened:0.2811', 'provocation:0.261', 'democracy:0.2598', 'worry:0.2436', 'safeguard:0.2434', 'pursue:0.2419', 'ahead:0.2394', 'stability:0.209', 'president:0.2009', 'forge:0.1856', 'want:0.1726', 'indicate:0.164', 'meet:0.1629', 'respond:0.1572', 'playbook:0.1506', 'enhance:0.1249', 'truss:0.1248', 'false:0.1151', 'world:0.114', 'frankly:0.1032', 'programme:0.0981', 'radio:0.0861']+titles_keywords+['ukraine:0.4123', 'putin:0.3851', 'warning:0.3215', 'vladimir:0.3095', 'issues:-0.0076']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/grimsbytelegraph.co.uk/PM warns Vladimir Putin not to invade Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4874651810584958+goldsteinscale0.27999999999999997+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.019736842105263157+news_keywords+['natos:0.5023', 'invade:0.4035', 'ukraine:0.4009', 'kremlin:0.3603', 'vladimir:0.3391', 'threat:0.2679', 'diplomatic:0.2421', 'backfire:0.2287', 'troop:0.2257', 'tank:0.2199', 'ally:0.2138', 'flinch:0.1974', 'strengthen:0.1915', 'bloodshed:0.1914', 'dispatch:0.1894', 'flank:0.1727', 'uk:0.1681', 'realise:0.1665', 'want:0.1584', 'consider:0.1386', 'prevent:0.1331', 'continue:0.1289', 'near:0.1275', 'great:0.0964', 'mr:0.0957', 'wallace:0.0933', 'divide:0.0838', 'mechanism:0.0807', 'fact:0.0746', 'immovable:0.0615']+titles_keywords+['putin:0.4432', 'ukraine:0.3647', 'invade:0.2782', 'warns:0.262', 'pm:0.0858']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/grimsbytelegraph.co.uk/Ukraine officials flee to bomb shelter during shelling attack as invasion fears grow.txt+eventbasecode130+eventcode130+avgtone0.4608695652173913+goldsteinscale0.27999999999999997+nummentions0.3076923076923077+numarticles0.30819434372733867+numsources0.7203947368421053+news_keywords+['ukraine:0.4616', 'putin:0.4279', 'invade:0.394', 'evacuate:0.3389', 'peaceful:0.3177', 'separatist:0.3049', 'conflict:0.2968', 'escalate:0.278', 'mobilisation:0.2743', 'aggressor:0.2617', 'warn:0.255', 'frontline:0.2545', 'president:0.2431', 'border:0.2361', 'boris:0.2278', 'accompany:0.2238', 'know:0.2198', 'want:0.2096', 'volodymyr:0.1936', 'react:0.1699', 'cite:0.1643', 'cover:0.1618', 'sure:0.148', 'office:0.1475', 'estimate:0.144', 'long:0.1425', 'look:0.1382', 'wednesday:0.1299', 'child:0.1213', 'alike:0.1156']+titles_keywords+['flee:0.3452', 'ukraine:0.3259', 'invasion:0.3078', 'fears:0.2436', 'bomb:0.219']"
+        ]
+    ]
+}

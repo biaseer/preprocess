@@ -1,0 +1,12 @@
+{
+    "AUS+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/dairynewsaustralia.com.au/Australian Ukrainians condemn Russia.txt+eventbasecode111+eventcode111+avgtone0.46505376344086025+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.5031', 'putin:0.4755', 'russia:0.4583', 'ukrainians:0.4569', 'separatist:0.3367', 'sovereignty:0.3054', 'australians:0.2841', 'sanction:0.2728', 'organisations:0.2272', 'warn:0.2269', 'aggression:0.2241', 'operation:0.2195', 'dangerous:0.1872', 'formalise:0.1848', 'world:0.1776', 'continue:0.1605', 'recognise:0.154', 'child:0.153', 'speak:0.1442', 'contaminate:0.1408', 'normalcy:0.1383', 'decision:0.1347', 'intersection:0.1307', 'morrison:0.1214', 'limbs:0.1165', 'mr:0.0991', 'make:0.0782', 'hour:0.072', 'house:0.072', 'wednesday:0.059']+titles_keywords+['ukrainians:0.5354', 'russia:0.4268', 'australian:0.3005', 'condemn:0.2453']"
+        ]
+    ],
+    "DEU+UKR+111":[
+        [
+            "20220125+../news_crawling/RUS_UKR/p_articles/dairynewsaustralia.com.au/Kremlin concerned by US Ukraine actions.txt+eventbasecode111+eventcode111+avgtone0.46120689655172414+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kremlin:0.5517', 'ukraine:0.4569', 'nato:0.4452', 'concern:0.2777', 'deploy:0.2769', 'troop:0.267', 'escalate:0.2634', 'reinforce:0.2399', 'watch:0.2357', 'action:0.2239', 'tension:0.2205', 'border:0.214', 'alert:0.2098', 'monday:0.2038', 'hysteria:0.1986', 'standby:0.1899', 'washington:0.174', 'response:0.1513', 'denounce:0.1459', 'ready:0.1411', 'ship:0.1364', 'eastern:0.1342', 'say:0.126', 'need:0.1243', 'force:0.1182', 'great:0.0947', 'build:0.0771', 'statement:0.0724', 'united:0.0653', 'jet:0.0404']+titles_keywords+['kremlin:0.5709', 'ukraine:0.4577', 'concerned:0.3223', 'actions:0.1868']"
+        ]
+    ]
+}

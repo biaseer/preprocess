@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+42":[
+        [
+            "20220802+../news_crawling/RUS_UKR/p_articles/unionleader.com/Ukraine gets more US German rocket launcher systems.txt+eventbasecode42+eventcode42+avgtone0.4923076923076923+goldsteinscale0.595+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4961', 'war:0.2868', 'artillery:0.2845', 'receive:0.263', 'reznikov:0.2405', 'specification:0.2237', 'tank:0.214', 'demilitarize:0.2134', 'reuterssofiia:0.2083', 'announce:0.2043', 'uaarmy:0.1842', 'turn:0.1813', 'promised:0.1661', 'ally:0.1651', 'panzerhaubitze:0.1649', 'potus:0.1584', 'make:0.1487', 'version:0.147', 'include:0.1457', 'strengthen:0.1347', 'dump:0.1311', 'continue:0.1279', 'multiple:0.123', 'according:0.1173', 'long:0.1136', 'feb:0.109', 'special:0.105', 'himars:0.1048', 'pretext:0.0989', 'mlrs:0.0832']+titles_keywords+['ukraine:0.4986', 'german:0.262', 'gets:0.2007', 'launcher:0.1985', 'systems:0.1792']"
+        ]
+    ],
+    "GBR+UKR+42":[
+        [
+            "20220711+../news_crawling/RUS_UKR/p_articles/unionleader.com/Amid Ukraine war Russian parliament to hold extraordinary session.txt+eventbasecode42+eventcode42+avgtone0.49202127659574474+goldsteinscale0.595+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['putin:0.5069', 'ukraine:0.4423', 'vasilyev:0.3533', 'nato:0.3465', 'parliament:0.3286', 'war:0.3179', 'regime:0.2934', 'agenda:0.2614', 'gather:0.2522', 'telegram:0.2345', 'session:0.2203', 'remain:0.2125', 'eastward:0.2075', 'amendment:0.2051', 'volodin:0.1919', 'ignore:0.1901', 'speaking:0.1857', 'information:0.1853', 'decide:0.1777', 'declare:0.1722', 'justification:0.1701', 'feb:0.157', 'later:0.1552', 'increasingly:0.1529', 'issue:0.1427', 'hold:0.1355', 'th:0.1339', 'house:0.128', 'head:0.106', 'thank:0.0812']+titles_keywords+['ukraine:0.4061', 'parliament:0.2914', 'session:0.2792', 'war:0.2684', 'hold:0.1319']"
+        ]
+    ]
+}

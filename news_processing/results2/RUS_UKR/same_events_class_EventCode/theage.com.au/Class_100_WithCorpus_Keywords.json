@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/theage.com.au/Died a heroic death audio of Ukrainian soldiers defending island emerges.txt+eventbasecode100+eventcode100+avgtone0.4744897959183673+goldsteinscale0.25+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.019736842105263157+news_keywords+['zelensky:0.4277', 'ukraine:0.3805', 'zmiinyi:0.3389', 'island:0.2928', 'volodymyr:0.2905', 'military:0.2904', 'border:0.2509', 'danube:0.2273', 'snake:0.209', 'battle:0.2032', 'heroic:0.1829', 'strategically:0.1565', 'shell:0.1553', 'translation:0.148', 'died:0.1429', 'story:0.1352', 'capitulate:0.1204', 'know:0.1173', 'title:0.1158', 'guide:0.1054', 'thursday:0.0946', 'exchange:0.0914', 'launch:0.0906', 'kilometres:0.081', 'stay:0.0721', 'purported:0.0717', 'number:0.0678', 'newsletter:0.061', 'credit:0.0555', 'audio:0.0306']+titles_keywords+['soldiers:0.4106', 'heroic:0.373', 'ukrainian:0.3496', 'island:0.3485', 'audio:0.291']"
+        ],
+        [
+            "20220619+../news_crawling/RUS_UKR/p_articles/theage.com.au/Defying Putins barbarism Odesa opera house reopens.txt+eventbasecode100+eventcode100+avgtone0.4841954022988506+goldsteinscale0.25+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['putin:0.4695', 'ukraines:0.4155', 'petersburg:0.4065', 'theatre:0.3937', 'opera:0.3691', 'chernukho:0.3688', 'holocaust:0.3538', 'odesa:0.3311', 'empress:0.3178', 'procession:0.3126', 'economy:0.2883', 'invasion:0.2855', 'separatist:0.2756', 'proceed:0.2689', 'openness:0.2673', 'conductor:0.2672', 'destroy:0.2542', 'organise:0.2481', 'unprovoked:0.2464', 'applauds:0.2373', 'view:0.2196', 'plunge:0.2133', 'cohere:0.2124', 'end:0.1917', 'alive:0.19', 'worry:0.1868', 'increasingly:0.1786', 'bucha:0.1769', 'synonyms:0.1725', 'trach:0.1675']+titles_keywords+['odesa:0.4767', 'opera:0.4039', 'putins:0.3423', 'barbarism:0.3142', 'reopens:0.224']"
+        ]
+    ]
+}

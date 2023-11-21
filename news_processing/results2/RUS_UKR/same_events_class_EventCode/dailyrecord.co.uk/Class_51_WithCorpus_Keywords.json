@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+51":[
+        [
+            "20220731+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Putin issues chilling threat as he claims navy is set to receive 7000mph nuclear missiles.txt+eventbasecode51+eventcode51+avgtone0.48923679060665365+goldsteinscale0.67+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimea:0.5216', 'tsar:0.4858', 'putin:0.464', 'russias:0.3999', 'missiles:0.3436', 'razvozhayev:0.3239', 'admiral:0.3101', 'nuclear:0.2868', 'provocation:0.2788', 'deploy:0.25', 'newsletter:0.2354', 'ahead:0.2276', 'separatist:0.2237', 'sail:0.2207', 'drone:0.2136', 'investigate:0.2108', 'administration:0.1974', 'capability:0.193', 'write:0.1888', 'event:0.1822', 'preliminary:0.1803', 'calm:0.1743', 'month:0.1614', 'cancellation:0.1552', 'fsb:0.1524', 'hypersonic:0.1508', 'eastern:0.1415', 'touted:0.1307', 'possible:0.1119', 'stag:0.1095']+titles_keywords+['putin:0.4233', 'missiles:0.3868', 'threat:0.3164', 'navy:0.2901', '7000mph:0.249']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Edinburgh street renamed Volodymyr Zelenskyy Street in solidarity with Ukraine.txt+eventbasecode51+eventcode51+avgtone0.49473684210526314+goldsteinscale0.67+nummentions0.10304789550072568+numarticles0.10369833212472807+numsources0.14802631578947367+news_keywords+['edinburgh:0.4723', 'zelenskyy:0.3645', 'ukrainas:0.3173', 'vilnius:0.314', 'rename:0.2954', 'street:0.2938', 'volodymyr:0.2912', 'refugees:0.2284', 'protest:0.2115', 'capital:0.2078', 'consulate:0.2033', 'visit:0.1787', 'alex:0.1761', 'olso:0.1675', 'instead:0.1629', 'railing:0.1551', 'murderous:0.152', 'situate:0.1434', 'urgently:0.1369', 'square:0.1338', 'remind:0.1303', 'write:0.1252', 'melville:0.1169', 'leader:0.111', 'liberal:0.107', 'news:0.0983', 'enter:0.0975', 'property:0.0654', 'meaningful:0.0559', 'million:0.0285']+titles_keywords+['edinburgh:0.4621', 'zelenskyy:0.4464', 'street:0.3051', 'renamed:0.2557', 'solidarity:0.187']"
+        ]
+    ]
+}

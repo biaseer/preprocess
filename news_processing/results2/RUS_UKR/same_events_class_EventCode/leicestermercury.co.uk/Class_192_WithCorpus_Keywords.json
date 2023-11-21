@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/leicestermercury.co.uk/Putin more likely to start WW3 than accept defeat in Ukraine Russia state TV claims.txt+eventbasecode192+eventcode192+avgtone0.4591280653950954+goldsteinscale0.025+nummentions0.03193033381712627+numarticles0.032632342277012324+numsources0.04276315789473684+news_keywords+['putin:0.5562', 'ukraine:0.3965', 'war:0.3144', 'nuclear:0.3117', 'lavrov:0.293', 'threat:0.2636', 'rhetoric:0.2241', 'headline:0.216', 'consequence:0.2004', 'warn:0.1856', 'world:0.1785', 'border:0.175', 'interfere:0.1697', 'end:0.162', 'probable:0.1582', 'event:0.1373', 'underestimate:0.1216', 'subscribe:0.109', 'someday:0.1073', 'secretary:0.1054', 'start:0.1049', 'real:0.1022', 'accept:0.102', 'february:0.1012', 'tv:0.0977', 'course:0.0937', 'straight:0.0924', 'uk:0.0885', 'mobilise:0.0772', 'like:0.0682']+titles_keywords+['putin:0.466', 'ww3:0.339', 'likely:0.1816', 'tv:0.1713', 'start:0.1487']"
+        ]
+    ],
+    "UKR+RUS+192":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/leicestermercury.co.uk/How to show your support for Ukraine by adding its flag to your Facebook profile.txt+eventbasecode192+eventcode192+avgtone0.5021276595744681+goldsteinscale0.025+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.006578947368421052+news_keywords+['ukraine:0.5594', 'protests:0.3815', 'russian:0.3769', 'solidarity:0.3285', 'flag:0.3209', 'resist:0.2245', 'headline:0.2159', 'leicester:0.2136', 'bristollive:0.2061', 'military:0.1997', 'follow:0.1994', 'sign:0.1913', 'support:0.1866', 'invasion:0.1859', 'towns:0.1735', 'action:0.1697', 'popular:0.1271', 'picture:0.1262', 'alert:0.1233', 'update:0.1205', 'yellow:0.1195', 'straight:0.1079', 'user:0.0954', 'include:0.0944', 'easy:0.0842', 'overlay:0.0753', 'small:0.0749', 'today:0.0701', 'way:0.0613', 'free:0.0451']+titles_keywords+['ukraine:0.4068', 'flag:0.3654', 'picture:0.2725', 'profile:0.2288', 'adding:0.04']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+152":[
+        [
+            "20220717+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Russia strikes south Ukraine city presses attacks in east.txt+eventbasecode152+eventcode152+avgtone0.48192019950124687+goldsteinscale0.13999999999999999+nummentions0.1113933236574746+numarticles0.112037708484409+numsources0.16447368421052633+news_keywords+['crimea:0.5185', 'donetsk:0.3943', 'russians:0.3889', 'strategic:0.255', 'shipbuilding:0.254', 'infrastructure:0.2423', 'zelenskyy:0.2419', 'artillery:0.2417', 'krekshina:0.2268', 'reinforce:0.2214', 'emergency:0.2212', 'separatist:0.2173', 'fight:0.2052', 'scare:0.1988', 'east:0.1935', 'order:0.1766', 'continue:0.1742', 'donbas:0.1563', 'press:0.149', 'focus:0.1477', 'president:0.1377', 'fall:0.1313', 'counteroffensive:0.1301', 'measure:0.1287', 'attend:0.1255', 'unity:0.1164', 'far:0.1011', 'associated:0.0945', 'whilst:0.0793', 'largely:0.0558']+titles_keywords+['ukraine:0.3407', 'attacks:0.3054', 'city:0.2097', 'south:0.1513', 'presses:0.0536']"
+        ]
+    ],
+    "UKR+RUS+152":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/indiatimes.com/As Russian President Vladimir Putin puts nuclear forces on high alert here are 5 genuine.txt+eventbasecode152+eventcode152+avgtone0.4660925726587729+goldsteinscale0.13999999999999999+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['nuclear:0.478', 'putin:0.4417', 'nato:0.4269', 'ukraine:0.3957', 'threat:0.3234', 'alertrussian:0.2591', 'warhead:0.2384', 'intervenes:0.2347', 'rhetoric:0.2024', 'urgent:0.1855', 'stockpile:0.1825', 'misinterpret:0.1744', 'stability:0.1722', 'increasingly:0.1521', 'hyperbole:0.1505', 'achieve:0.1472', 'coordinate:0.1248', 'order:0.1233', 'instrument:0.1227', 'world:0.1209', 'function:0.1195', 'abstract:0.1108', 'stem:0.0902', 'state:0.0883', 'set:0.078', 'upper:0.0751', 'include:0.0719', 'ready:0.0684', 'long:0.0642', 'becausethey:0.0502']+titles_keywords+['nuclear:0.5321', 'dangers:0.4275', 'vladimir:0.3151', 'president:0.1801', 'alert:0.166']"
+        ]
+    ]
+}

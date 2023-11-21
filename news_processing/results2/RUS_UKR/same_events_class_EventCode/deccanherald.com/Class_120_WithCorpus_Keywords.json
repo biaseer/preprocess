@@ -1,0 +1,20 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Russia says Ukraine prolonging conflict by refusing talks.txt+eventbasecode120+eventcode120+avgtone0.46474358974358976+goldsteinscale0.3+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.023026315789473683+news_keywords+['putin:0.4574', 'kyiv:0.409', 'conflict:0.3155', 'diplomatic:0.2941', 'zelensky:0.2727', 'terrorist:0.2539', 'troop:0.2144', 'talk:0.2142', 'sanction:0.2061', 'overthrow:0.2034', 'volodymyr:0.2027', 'table:0.2001', 'prolong:0.198', 'predict:0.1943', 'barrage:0.1724', 'order:0.1682', 'ready:0.1596', 'sit:0.1506', 'thursday:0.1399', 'people:0.1388', 'death:0.135', 'hit:0.1347', 'stop:0.1299', 'main:0.1126', 'sector:0.1052', 'statement:0.1052', 'resume:0.1016', 'new:0.0729', 'minimise:0.0399', 'thousand:0.0374']+titles_keywords+['ukraine:0.4273', 'conflict:0.3027', 'refusing:0.2186', 'prolonging:0.2185', 'says:0.1138']"
+        ],
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Ukraine accuses Russia of firing rockets at convoy of Mariupol evacuees.txt+eventbasecode120+eventcode120+avgtone0.4464285714285715+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4395', 'convoy:0.309', 'artillery:0.286', 'zaporizhzhia:0.2822', 'evacuees:0.2815', 'attack:0.2536', 'civilian:0.2289', 'rocket:0.1982', 'wounded:0.1837', 'enemy:0.1774', 'report:0.1716', 'accuse:0.169', 'reuters:0.1666', 'mariupol:0.1653', 'city:0.1596', 'flee:0.1505', 'child:0.1349', 'oleksandr:0.1094', 'authenticity:0.1013', 'immediately:0.094', 'photo:0.0921', 'governor:0.0877', 'number:0.0821', 'starukh:0.0781', 'statement:0.0672', 'confirm:0.0645', 'work:0.0614', 'way:0.0506', 'separate:0.0462', 'include:-0.0145']+titles_keywords+['ukraine:0.4367', 'evacuees:0.2684', 'mariupol:0.248', 'convoy:0.2418', 'accuses:0.2152']"
+        ]
+    ],
+    "RUS+WST+120":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Zelenskyy calls for unrestricted NATO aid.txt+eventbasecode120+eventcode120+avgtone0.48302469135802467+goldsteinscale0.3+nummentions0.4695210449927431+numarticles0.4699057287889775+numsources0.41776315789473684+news_keywords+['nato:0.5016', 'ukrainian:0.4302', 'zelenskyy:0.419', 'invasion:0.3005', 'volodymyr:0.2776', 'tank:0.23', 'aid:0.2095', 'kill:0.2018', 'peace:0.1983', 'stay:0.1956', 'president:0.1817', 'plan:0.1798', 'speaking:0.1771', 'friend:0.1754', 'intensify:0.1637', 'weapon:0.1463', 'note:0.1398', 'begin:0.1363', 'month:0.133', 'allow:0.1307', 'switching:0.1276', 'modern:0.1271', 'emotional:0.1252', 'receive:0.1235', 'fully:0.1124', 'longer:0.1089', 'late:0.0976', 'thousand:0.0871', 'video:0.0866', 'tax:0.081']+titles_keywords+['zelenskyy:0.5174', 'nato:0.4791', 'aid:0.2955', 'unrestricted:0.2166', 'calls:0.0736']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Ukraine denies its saboteurs crossed into Russia.txt+eventbasecode120+eventcode120+avgtone0.4375+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4459', 'ukrainian:0.421', 'russian:0.3547', 'russia:0.3283', 'saboteur:0.2744', 'gerashchenko:0.249', 'war:0.2154', 'soldier:0.2034', 'attack:0.196', 'kill:0.1903', 'deny:0.1697', 'cross:0.1693', 'border:0.1636', 'federation:0.1506', 'reporter:0.1419', 'anton:0.1241', 'fear:0.1092', 'allegedly:0.1046', 'tell:0.0888', 'force:0.0851', 'stage:0.0789', 'official:0.0658', 'today:0.0568', 'monday:0.0509', 'firmly:0.0183', 'heighten:0.0139', 'claim:0.0107', 'single:0.0019', 'interior:-0.0319', 'ministry:-0.0722']+titles_keywords+['ukraine:0.4556', 'saboteurs:0.4515', 'russia:0.3536', 'denies:0.1636', 'crossed:0.1201']"
+        ]
+    ]
+}

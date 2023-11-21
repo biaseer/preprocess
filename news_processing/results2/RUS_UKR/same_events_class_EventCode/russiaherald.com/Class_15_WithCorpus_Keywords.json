@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+15":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/russiaherald.com/GermanUkrainian tensions made public.txt+eventbasecode15+eventcode15+avgtone0.4877622377622378+goldsteinscale0.5+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.009868421052631578+news_keywords+['ukraine:0.4944', 'germanukrainian:0.3374', 'berlin:0.3179', 'armament:0.2985', 'diplomat:0.2945', 'invade:0.2796', 'uranium:0.2736', 'government:0.2171', 'hypocrisy:0.1943', 'ally:0.1866', 'outlet:0.1618', 'tension:0.1603', 'importer:0.1546', 'know:0.1515', 'issue:0.1514', 'production:0.1451', 'newspaper:0.1403', 'cite:0.1334', 'lethal:0.1249', 'suit:0.1215', 'dual:0.1162', 'sell:0.1082', 'speculate:0.1066', 'refuse:0.1043', 'fourth:0.1023', 'distant:0.0945', 'exactly:0.0943', 'melnyk:0.082', 'complete:0.0579', 'license:0.0461']+titles_keywords+['germanukrainian:0.5236', 'tensions:0.473', 'public:0.2312']"
+        ]
+    ],
+    "WST+RUS+15":[
+        [
+            "20211206+../news_crawling/RUS_UKR/p_articles/russiaherald.com/NATO risks crossing Russian red lines influential German diplomat.txt+eventbasecode15+eventcode15+avgtone0.4854721549636804+goldsteinscale0.5+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.009868421052631578+news_keywords+['nato:0.5547', 'kremlin:0.4109', 'gorbachev:0.4016', 'kiev:0.3022', 'bloc:0.2881', 'zakharova:0.2748', 'invade:0.256', 'diplomat:0.2448', 'eastward:0.2409', 'ahead:0.2157', 'border:0.2148', 'expand:0.2129', 'organization:0.1849', 'announce:0.1791', 'risk:0.1764', 'stoltenberg:0.1528', 'interpret:0.1434', 'general:0.1426', 'cnn:0.1397', 'promise:0.1335', 'thursday:0.1291', 'long:0.1223', 'end:0.1208', 'counterpart:0.119', 'handelsblatt:0.1189', 'talk:0.1178', 'reject:0.1173', 'declassify:0.111', 'state:0.101', 'triple:0.0189']+titles_keywords+['nato:0.4329', 'diplomat:0.3853', 'russian:0.2838', 'crossing:0.1995', 'red:0.1375']"
+        ]
+    ]
+}

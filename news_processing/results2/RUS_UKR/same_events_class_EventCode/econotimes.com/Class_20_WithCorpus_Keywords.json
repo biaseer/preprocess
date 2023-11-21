@@ -1,0 +1,20 @@
+{
+    "POL+RUS+20":[
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict Zelenskyy vows to restore Ukrainian control of Crimea.txt+eventbasecode20+eventcode20+avgtone0.5013157894736842+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.5557', 'annexation:0.4565', 'russias:0.3733', 'conflict:0.2894', 'invasion:0.2846', 'aid:0.2593', 'zelenskyy:0.256', 'announce:0.2546', 'independence:0.2452', 'cite:0.2392', 'military:0.2304', 'obtain:0.2283', 'soon:0.2282', 'plan:0.2087', 'remark:0.2036', 'continue:0.1932', 'approve:0.1922', 'weapon:0.1852', 'instead:0.1841', 'biden:0.1827', 'return:0.1818', 'allegation:0.1807', 'law:0.1804', 'counterpart:0.1795', 'right:0.1762', 'world:0.1701', 'step:0.1484', 'billion:0.132', 'look:0.1198', 'duda:0.1079']+titles_keywords+['zelenskyy:0.5167', 'crimea:0.485', 'control:0.1312', 'restore:0.1228', 'vows:0.1134']"
+        ]
+    ],
+    "RUS+RUS+20":[
+        [
+            "20220513+../news_crawling/RUS_UKR/p_articles/econotimes.com/Shell selling its retail oil business to Lukoil as it exits Russia.txt+eventbasecode20+eventcode20+avgtone0.4919137466307278+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['lukoil:0.4967', 'russia:0.4259', 'vladimir:0.3511', 'multinational:0.3499', 'acquisition:0.3398', 'news:0.2961', 'shell:0.2942', 'disclose:0.2579', 'supply:0.2563', 'develop:0.2463', 'displaced:0.2266', 'job:0.2135', 'result:0.2135', 'strategy:0.1991', 'discontinue:0.1987', 'venture:0.1986', 'statement:0.1957', 'unprovoked:0.1951', 'station:0.1848', 'case:0.166', 'million:0.1645', 'look:0.1316', 'sanction:0.1301', 'waste:0.128', 'pull:0.1272', 'large:0.1264', 'donde:0.123', 'blending:0.1176', 'february:0.1164', 'close:0.116']+titles_keywords+['lukoil:0.5143', 'shell:0.3709', 'oil:0.2759', 'selling:0.2059', 'exits:0.1847']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict UK says Ukraine counterattacks in Severodonetsk.txt+eventbasecode20+eventcode20+avgtone0.4881889763779527+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4959', 'putins:0.4231', 'reuters:0.3253', 'infantry:0.3214', 'oligarch:0.3068', 'invasion:0.2959', 'tactic:0.2892', 'conflict:0.2848', 'coordinate:0.2765', 'realise:0.2187', 'supply:0.2171', 'protect:0.2085', 'explain:0.1944', 'range:0.1887', 'counteroffensive:0.1828', 'systems:0.1717', 'ranking:0.1637', 'derail:0.162', 'long:0.1581', 'indiscriminately:0.1558', 'say:0.154', 'monday:0.1505', 'severodonetsk:0.1444', 'employ:0.1352', 'receive:0.1336', 'proxy:0.1323', 'launcher:0.1128', 'multiple:0.1074', 'urban:0.101', 'major:0.0944']+titles_keywords+['ukraine:0.4909', 'counterattacks:0.4281', 'conflict:0.2948', 'severodonetsk:0.2695', 'says:0.057']"
+        ],
+        [
+            "20220627+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict Kyiv says Russian missiles in capital killed one injured six.txt+eventbasecode20+eventcode20+avgtone0.47005208333333337+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.4902', 'russiaukraine:0.4379', 'putin:0.3909', 'russias:0.3724', 'war:0.3566', 'attack:0.327', 'reuters:0.2872', 'separatist:0.2496', 'annex:0.2454', 'casualty:0.2193', 'soon:0.2181', 'aircraft:0.2144', 'count:0.2008', 'realise:0.1996', 'rail:0.1995', 'telegram:0.197', 'report:0.1854', 'turn:0.1838', 'hear:0.1665', 'severodonetsk:0.1551', 'kilometer:0.1551', 'kindergarten:0.1497', 'major:0.145', 'pull:0.1421', 'rubble:0.1393', 'long:0.136', 'repair:0.1328', 'girl:0.1191', 'theyre:0.1079', 'limit:0.0816']+titles_keywords+['kyiv:0.5424', 'missiles:0.3659', 'conflict:0.1598', 'killed:0.1338', 'says:0.0416']"
+        ]
+    ]
+}

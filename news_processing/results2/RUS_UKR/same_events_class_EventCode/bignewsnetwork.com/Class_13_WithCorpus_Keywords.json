@@ -1,0 +1,17 @@
+{
+    "RUS+FRA+13":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Zelenskyy Seeking More Help from Europe.txt+eventbasecode13+eventcode13+avgtone0.4980916030534351+goldsteinscale0.52+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.019736842105263157+news_keywords+['kyiv:0.5153', 'zelenskyy:0.4563', 'redeploy:0.3089', 'sievierodonetsk:0.2902', 'war:0.2884', 'occupy:0.2858', 'meeting:0.2409', 'president:0.2262', 'ahead:0.2253', 'concern:0.2234', 'organize:0.2139', 'independence:0.2', 'success:0.1996', 'brief:0.197', 'reconstruction:0.1882', 'address:0.1825', 'want:0.1788', 'help:0.1781', 'donbas:0.1772', 'turn:0.1574', 'liquidity:0.1556', 'telecommunication:0.1534', 'second:0.1466', 'month:0.133', 'major:0.1302', 'counteroffensive:0.1272', 'global:0.1245', 'state:0.1168', 'thank:0.1098', 'tf:0.0965']+titles_keywords+['zelenskyy:0.6107', 'europe:0.2763', 'help:0.1712', 'seeking:0.1415']"
+        ]
+    ],
+    "RUS+UKR+13":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Talks The Ukrainian Delegation will Meet with the Russian One.txt+eventbasecode13+eventcode13+avgtone0.5157894736842106+goldsteinscale0.52+nummentions0.009071117561683599+numarticles0.009789702683103698+numsources0.009868421052631578+news_keywords+['ukraine:0.4656', 'ukrainian:0.4523', 'vladimir:0.3964', 'russian:0.3862', 'belarusian:0.371', 'medinsky:0.3502', 'zelensky:0.3465', 'talk:0.3269', 'meet:0.3027', 'talks:0.2996', 'pripyat:0.2994', 'delegation:0.2898', 'medinski:0.2831', 'border:0.2645', 'volodymyr:0.2218', 'hold:0.2163', 'representative:0.2023', 'president:0.1994', 'ready:0.1898', 'say:0.177', 'hour:0.1766', 'river:0.165', 'precondition:0.1522', 'note:0.1452', 'near:0.1409', 'head:0.1397', 'agree:0.1179', 'time:0.1133', 'life:0.1054', 'save:0.1039']+titles_keywords+['ukrainian:0.4538', 'russian:0.3718', 'meet:0.2781', 'delegation:0.2749', 'talks:0.2684']"
+        ]
+    ],
+    "USA+RUS+13":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Russia looks to recruit Syrian soldiers to fight in Ukraine.txt+eventbasecode13+eventcode13+avgtone0.4782608695652174+goldsteinscale0.52+nummentions0.0511611030478955+numarticles0.05184916606236403+numsources0.046052631578947366+news_keywords+['syria:0.4451', 'putin:0.4176', 'kyiv:0.3982', 'russian:0.3848', 'bashar:0.3493', 'demilitarize:0.3109', 'troop:0.294', 'invasion:0.2752', 'fight:0.2138', 'prepare:0.2111', 'escalate:0.2095', 'involvement:0.205', 'volunteer:0.1876', 'zelensky:0.184', 'march:0.1794', 'enter:0.174', 'applicant:0.1632', 'republic:0.1512', 'operate:0.1512', 'expert:0.1509', 'internationalize:0.1509', 'report:0.1469', 'follow:0.1374', 'wall:0.1302', 'breakaway:0.1128', 'look:0.1011', 'amid:0.0938', 'nearly:0.0829', 'unclear:0.0822', 'deal:0.0821']+titles_keywords+['recruit:0.3861', 'syrian:0.3565', 'soldiers:0.3158', 'russia:0.3127', 'looks:0.0778']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+42":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/londonlovesbusiness.com/European Union is resuming its diplomatic presence in Kyiv so they can work more closely.txt+eventbasecode42+eventcode42+avgtone0.5025906735751295+goldsteinscale0.595+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kyiv:0.4869', 'diplomatic:0.3059', 'rzeszow:0.2693', 'eus:0.263', 'invasion:0.2339', 'accompany:0.217', 'delegation:0.2024', 'military:0.1944', 'stay:0.1715', 'union:0.1539', 'resume:0.1465', 'forgive:0.1407', 'function:0.1404', 'locate:0.126', 'circumstance:0.1208', 'showed:0.1111', 'structure:0.1031', 'closely:0.1029', 'bucha:0.1028', 'today:0.086', 'fully:0.0837', 'external:0.0835', 'state:0.0831', 'head:0.082', 'administrationare:0.0774', 'wmhug:0.0627', 'firsthand:0.0618', 'possible:0.0512', 'pic:0.0435', 'der:0.0421']+titles_keywords+['kyiv:0.4642', 'diplomatic:0.3343', 'european:0.1973', 'presence:0.1542', 'resuming:0.151']"
+        ]
+    ],
+    "TUR+UKR+42":[
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/londonlovesbusiness.com/In a snub to Putin Turkey believes Crimea should be returned back to Ukraine which.txt+eventbasecode42+eventcode42+avgtone0.49586776859504134+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.5626', 'erdogan:0.3944', 'ukraines:0.3883', 'annexation:0.3843', 'turkish:0.3448', 'tatar:0.2976', 'return:0.2863', 'turkeys:0.2594', 'agreement:0.251', 'sovereignty:0.2453', 'correspond:0.2118', 'political:0.1986', 'cnn:0.163', 'say:0.1391', 'wednesday:0.1319', 'stability:0.1299', 'state:0.1216', 'recognize:0.1192', 'trt:0.1162', 'protect:0.1073', 'inseparable:0.1035', 'change:0.1028', 'illegitimate:0.1021', 'snub:0.102', 'step:0.0984', 'global:0.0979', 'priority:0.0875', 'essentially:0.0828', 'kalin:0.0814', 'add:0.0607']+titles_keywords+['crimea:0.5174', 'turkey:0.4344', 'snub:0.2222', 'returned:0.1592', 'believes:0.0698']"
+        ]
+    ]
+}

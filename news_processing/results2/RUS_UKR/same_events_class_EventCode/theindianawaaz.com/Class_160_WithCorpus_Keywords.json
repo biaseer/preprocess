@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+160":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/theindianawaaz.com/Ukraine crisis Update Russian parliament approves Putins troop deployment.txt+eventbasecode160+eventcode160+avgtone0.48680555555555555+goldsteinscale0.3+nummentions0.06422351233671988+numarticles0.06490210297316897+numsources0.09539473684210527+news_keywords+['ukraine:0.4837', 'sanctions:0.3912', 'putins:0.38', 'comrade:0.3791', 'diplomatic:0.3609', 'separatist:0.3425', 'natoeu:0.3316', 'evacuate:0.2965', 'agreement:0.2937', 'territory:0.2784', 'crisis:0.2769', 'parliament:0.2453', 'undermine:0.2262', 'skirmish:0.2203', 'blocs:0.2142', 'pentagon:0.2071', 'continue:0.1958', 'term:0.1857', 'excuse:0.1794', 'order:0.1757', 'emphasize:0.1737', 'implement:0.1665', 'say:0.1628', 'blood:0.1602', 'sure:0.1583', 'integreity:0.1236', 'knowing:0.1234', 'previous:0.1212', 'hour:0.1054', 'instrument:0.0939']+titles_keywords+['ukraine:0.4366', 'putins:0.3692', 'troop:0.317', 'approves:0.1761', 'update:0.1344']"
+        ]
+    ],
+    "UKR+RUS+160":[
+        [
+            "20220517+../news_crawling/RUS_UKR/p_articles/theindianawaaz.com/Ukrainian troops evacuate from Mariupol ceding control to Russia.txt+eventbasecode160+eventcode160+avgtone0.45108695652173914+goldsteinscale0.3+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.009868421052631578+news_keywords+['ukraine:0.4898', 'evacuate:0.4227', 'russian:0.3706', 'troop:0.3293', 'mariupol:0.2367', 'remain:0.2255', 'mission:0.2246', 'defeat:0.2099', 'general:0.1986', 'armed:0.1948', 'town:0.1943', 'stronghold:0.1878', 'conflict:0.1868', 'hold:0.1735', 'port:0.1687', 'month:0.1684', 'control:0.1641', 'end:0.162', 'work:0.139', 'bloody:0.1295', 'besiege:0.1295', 'fulfil:0.1143', 'cede:0.114', 'significant:0.1137', 'forces:0.1092', 'long:0.1057', 'fighter:0.1031', 'statement:0.0786', 'hundreds:0.0784', 'likely:0.0266']+titles_keywords+['ukrainian:0.3655', 'evacuate:0.3434', 'mariupol:0.288', 'troops:0.2438', 'control:0.1395']"
+        ]
+    ]
+}

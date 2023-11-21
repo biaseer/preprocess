@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+112":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/gmanetwork.com/Ukraine Russia planning sham independence vote in occupied regions.txt+eventbasecode112+eventcode112+avgtone0.47755102040816333+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['crimea:0.5585', 'ukrainian:0.5084', 'annexation:0.4429', 'donetsk:0.41', 'republics:0.4035', 'referendum:0.3878', 'independence:0.3543', 'occupy:0.3189', 'zelensky:0.2848', 'volodymyr:0.2497', 'vote:0.2475', 'takeover:0.241', 'falsify:0.2309', 'remain:0.2298', 'march:0.1976', 'kherson:0.1879', 'plan:0.1699', 'declare:0.1661', 'sanction:0.1643', 'help:0.1595', 'north:0.1591', 'surround:0.1551', 'president:0.1516', 'information:0.1485', 'order:0.137', 'like:0.1108', 'personal:0.0983', 'new:0.0946', 'major:0.0753', 'evening:0.0698']+titles_keywords+['ukraine:0.5239', 'independence:0.3559', 'vote:0.2349', 'sham:0.2142', 'occupied:0.1618']"
+        ],
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/gmanetwork.com/Kyiv accuses Moscow of illegal adoptions of Ukrainian children.txt+eventbasecode112+eventcode112+avgtone0.4608540925266904+goldsteinscale0.4+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['kyiv:0.4612', 'ukrainians:0.3919', 'russia:0.3833', 'adoption:0.3599', 'child:0.2923', 'deport:0.2659', 'war:0.2637', 'humanitarian:0.252', 'occupy:0.2458', 'accuse:0.23', 'flee:0.2219', 'krasnodar:0.2208', 'federation:0.1994', 'violate:0.1821', 'legal:0.1816', 'abduct:0.1791', 'afp:0.178', 'read:0.1627', 'authority:0.1513', 'treatment:0.1307', 'transfer:0.1296', 'outsider:0.1268', 'tyumen:0.1234', 'surround:0.1213', 'base:0.12', 'begin:0.1148', 'arrange:0.1075', 'hold:0.1', 'finding:0.0992', 'fully:0.0574']+titles_keywords+['kyiv:0.5207', 'adoptions:0.392', 'accuses:0.2464', 'children:0.2445', 'illegal:0.1643']"
+        ]
+    ]
+}

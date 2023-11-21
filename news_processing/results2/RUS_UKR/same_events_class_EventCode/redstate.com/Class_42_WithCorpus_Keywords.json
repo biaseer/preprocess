@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+42":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/redstate.com/Head of US European Command Admits Bidens Plan to Stop Russias Invasion of Ukraine Was.txt+eventbasecode42+eventcode42+avgtone0.4726618705035971+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['natos:0.5025', 'partisanship:0.3214', 'invasion:0.3094', 'russian:0.2987', 'deterrence:0.2937', 'conclusion:0.2707', 'biden:0.2671', 'reservist:0.2392', 'psaki:0.2295', 'administration:0.219', 'history:0.2142', 'wolters:0.2136', 'threatof:0.2132', 'hypocrisy:0.2108', 'redstate:0.2056', 'thursday:0.1982', 'report:0.1963', 'know:0.1932', 'prepare:0.192', 'inept:0.1912', 'breadth:0.1894', 'shore:0.1865', 'affair:0.1829', 'fight:0.1651', 'oops:0.1586', 'perfect:0.1434', 'entirely:0.1367', 'additional:0.1226', 'little:0.0931', 'send:0.0594']+titles_keywords+['ukraine:0.2472', 'plan:0.2384', 'bidens:0.2279', 'worthless:0.217', 'admits:0.1325']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220822+../news_crawling/RUS_UKR/p_articles/redstate.com/Daria Dugina Killing Sparks New Worries About Russia Escalation of Ukraine War.txt+eventbasecode42+eventcode42+avgtone0.47252747252747257+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4483', 'kyiv:0.3824', 'eurasia:0.364', 'propagandist:0.3438', 'hegemony:0.3387', 'nationalist:0.3385', 'agenda:0.3306', 'escalation:0.2995', 'dugina:0.2949', 'tragedy:0.2894', 'victory:0.2654', 'kill:0.2653', 'strategic:0.2576', 'prepare:0.2547', 'future:0.239', 'author:0.2365', 'polarize:0.2342', 'occupy:0.2188', 'philosophize:0.2173', 'rally:0.2119', 'word:0.2114', 'attention:0.2087', 'disintegrate:0.2059', 'lead:0.1634', 'ordnance:0.1607', 'let:0.1588', 'winter:0.1473', 'major:0.1438', 'does:0.0757', 'theres:0.0529']+titles_keywords+['dugina:0.4104', 'ukraine:0.3574', 'killing:0.2883', 'escalation:0.2792', 'worries:0.1611']"
+        ]
+    ],
+    "RUS+USA+42":[
+        [
+            "20220625+../news_crawling/RUS_UKR/p_articles/redstate.com/More Information Emerges About Hunter Biden Meeting With Russian Oligarchs.txt+eventbasecode42+eventcode42+avgtone0.48726467331118495+goldsteinscale0.595+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.003289473684210526+news_keywords+['putin:0.4968', 'oligarchs:0.4551', 'collusion:0.4373', 'biden:0.4043', 'russias:0.3462', 'investigative:0.3375', 'meet:0.2573', 'vp:0.2472', 'report:0.2364', 'bidens:0.2341', 'federation:0.23', 'association:0.2256', 'grassley:0.224', 'know:0.2163', 'business:0.2121', 'forbes:0.2042', 'persecution:0.1952', 'campaign:0.1912', 'ignore:0.1761', 'influencepower:0.161', 'smear:0.1575', 'want:0.1561', 'bogus:0.1555', 'head:0.1548', 'deeply:0.1481', 'day:0.1369', 'chinawhen:0.1345', 'lyublino:0.1289', 'million:0.1246', 'state:0.0843']+titles_keywords+['biden:0.5196', 'oligarchs:0.3862', 'meeting:0.2826', 'russian:0.2439', 'hunter:0.1781']"
+        ]
+    ]
+}

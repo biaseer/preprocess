@@ -1,0 +1,12 @@
+{
+    "AUS+RUS+1124":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/Australia news LIVE Peter Gutwein resigns as Premier of Tasmania Ukraine accuses Russia of civilian.txt+eventbasecode112+eventcode1124+avgtone0.44607843137254904+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['tasmanias:0.4519', 'politics:0.3096', 'peter:0.2866', 'ukraine:0.2663', 'takeover:0.2508', 'federal:0.2294', 'headline:0.2223', 'appoint:0.22', 'forward:0.2187', 'aside:0.2151', 'shaw:0.2147', 'pandemic:0.2066', 'opportunistic:0.1931', 'gutwein:0.1909', 'partners:0.1884', 'teacher:0.1884', 'largely:0.1882', 'world:0.1867', 'cabinet:0.1839', 'spent:0.1824', 'mcgowan:0.1817', 'afternoon:0.1791', 'weve:0.1667', 'hodgman:0.1587', 'leave:0.1573', 'right:0.1428', 'torture:0.1277', 'erosion:0.1207', 'thank:0.1178', 'benchmark:0.0928']+titles_keywords+['tasmania:0.3829', 'ukraine:0.3782', 'resigns:0.3327', 'gutwein:0.3192', 'peter:0.2906']"
+        ]
+    ],
+    "UKR+RUS+1124":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/Foreign Minister Payne accuses Russia of committing war crimes.txt+eventbasecode112+eventcode1124+avgtone0.47129909365558914+goldsteinscale0.4+nummentions0.01088534107402032+numarticles0.011602610587382161+numsources0.029605263157894735+news_keywords+['rusal:0.4683', 'crimea:0.4519', 'putin:0.4326', 'separatists:0.367', 'war:0.3318', 'government:0.3311', 'correspondent:0.2983', 'operation:0.2774', 'australias:0.2713', 'ban:0.2586', 'unprovoked:0.2545', 'destroy:0.2476', 'escalate:0.2446', 'criminal:0.2242', 'refinery:0.2233', 'ammunition:0.2131', 'deripaska:0.2053', 'port:0.2031', 'gladstone:0.1983', 'export:0.1922', 'safe:0.1919', 'dividend:0.1916', 'uss:0.1868', 'end:0.1853', 'trade:0.1652', 'direction:0.1563', 'come:0.1305', 'similar:0.1287', 'mr:0.1234', 'today:0.0871']+titles_keywords+['payne:0.3646', 'russia:0.3129', 'accuses:0.2415', 'war:0.2075', 'minister:0.131']"
+        ]
+    ]
+}

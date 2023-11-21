@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+14":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/news.am/EU ready to act on Russias invasion of Ukraine but not yet sure.txt+eventbasecode14+eventcode14+avgtone0.47098214285714285+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.3907', 'eu:0.3762', 'invades:0.3465', 'prepare:0.3021', 'escalation:0.2544', 'reuters:0.2213', 'destabilize:0.2206', 'act:0.2205', 'macroeconomic:0.202', 'come:0.1991', 'sanction:0.1955', 'plan:0.194', 'responds:0.1905', 'event:0.1825', 'want:0.1671', 'bloc:0.1654', 'recall:0.154', 'know:0.1429', 'military:0.1376', 'president:0.1336', 'switch:0.1297', 'prevent:0.1175', 'gas:0.1173', 'quickly:0.1134', 'sure:0.1029', 'exactly:0.1027', 'decision:0.0889', 'yield:0.0782', 'anonymity:0.0757', 'lot:0.0536']+titles_keywords+['ukraine:0.4142', 'eu:0.3214', 'invasion:0.2828', 'act:0.232', 'ready:0.2072']"
+        ]
+    ],
+    "RUS+UKR+14":[
+        [
+            "20220727+../news_crawling/RUS_UKR/p_articles/news.am/Russia MFA Ukraine is deliberately leading to manmade disaster by its attacks on Zaporizhzhia NPP.txt+eventbasecode14+eventcode14+avgtone0.4708333333333334+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4448', 'nuclear:0.4076', 'zaporizhzhia:0.3524', 'catastrophe:0.3134', 'nechayev:0.2926', 'iaea:0.2799', 'safety:0.277', 'attack:0.2342', 'report:0.2163', 'technogenic:0.1961', 'power:0.1634', 'press:0.1582', 'violate:0.1479', 'plant:0.1471', 'lead:0.1468', 'deliberately:0.1421', 'ria:0.1401', 'department:0.1394', 'confuse:0.1263', 'care:0.116', 'mfa:0.1145', 'make:0.1129', 'say:0.0978', 'npp:0.0964', 'resolution:0.0785', 'practice:0.073', 'decision:0.0687', 'man:0.0551', 'large:0.0538', 'general:0.0457']+titles_keywords+['ukraine:0.4657', 'disaster:0.306', 'deliberately:0.1956', 'mfa:0.1673', 'npp:0.1328']"
+        ]
+    ]
+}

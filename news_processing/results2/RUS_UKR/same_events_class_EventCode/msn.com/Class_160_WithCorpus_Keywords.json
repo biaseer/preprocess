@@ -1,0 +1,25 @@
+{
+    "JPN+RUS+160":[
+        []
+    ],
+    "RUS+ITA+160":[
+        []
+    ],
+    "RUS+RUS+160":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/msn.com/The SDN List From Ozark is Very Real and Very Dangerous.txt+eventbasecode160+eventcode160+avgtone0.48337950138504154+goldsteinscale0.3+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['byrdes:0.3888', 'navarro:0.3836', 'cartel:0.3571', 'list:0.3141', 'destabilization:0.2975', 'nationals:0.2817', 'episode:0.2756', 'villain:0.2601', 'senator:0.257', 'fbi:0.2543', 'example:0.2369', 'change:0.2242', 'designated:0.2172', 'curtail:0.2084', 'prohibit:0.2051', 'laura:0.1968', 'vladimir:0.1849', 'news:0.1762', 'circumvent:0.1703', 'world:0.1702', 'end:0.1652', 'secretly:0.1651', 'entirely:0.1372', 'ozark:0.1371', 'set:0.1353', 'dimensional:0.1205', 'longer:0.1193', 'resume:0.1114', 'schafer:0.1071', 'sdn:0.0795']+titles_keywords+['sdn:0.4786', 'ozark:0.3755', 'dangerous:0.3148', 'list:0.1959', 'real:0.0756']"
+        ]
+    ],
+    "RUS+UKR+160":[
+        [],
+        [
+            "20220430+../news_crawling/RUS_UKR/p_articles/msn.com/UN trying to rescue civilians sheltering in Mariupol steel plants bunkers more bodies found outside.txt+eventbasecode160+eventcode160+avgtone0.4713408393039918+goldsteinscale0.3+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.03618421052631579+news_keywords+['ukraine:0.5223', 'pravda:0.3624', 'war:0.3293', 'evacuate:0.3198', 'infrastructure:0.3039', 'explosives:0.2798', 'civilian:0.2783', 'marchenko:0.2581', 'cnn:0.243', 'victim:0.2141', 'concern:0.2125', 'know:0.2121', 'recap:0.2116', 'zelenskyyposthumously:0.2087', 'translator:0.2044', 'bunker:0.2016', 'mig:0.1958', 'plan:0.1915', 'replace:0.1836', 'continue:0.1754', 'gallon:0.174', 'bucha:0.169', 'debunked:0.161', 'grade:0.158', 'turn:0.1539', 'month:0.1466', 'perfect:0.1402', 'palamarconfirmed:0.1356', 'unlike:0.1165', 'prices:0.0884']+titles_keywords+['kyiv:0.4797', 'civilians:0.4444', 'bunkers:0.3607', 'rescue:0.3482', 'april:0.2423']"
+        ],
+        [
+            "20220513+../news_crawling/RUS_UKR/p_articles/msn.com/Is Ukraine in Eurovision 2022 and who is their entry.txt+eventbasecode160+eventcode160+avgtone0.5066964285714286+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['eurovision:0.5675', 'ukraines:0.4975', 'ukrainian:0.449', 'carpathian:0.3387', 'stefania:0.2882', 'band:0.2432', 'country:0.2077', 'song:0.1893', 'perform:0.1891', 'entry:0.1796', 'qualify:0.1588', 'ethnic:0.1565', 'oleh:0.1493', 'motif:0.1341', 'turin:0.1288', 'element:0.126', 'mascot:0.1221', 'hop:0.1057', 'heard:0.1029', 'miss:0.0982', 'appearances:0.0931', 'th:0.0862', 'winner:0.0784', 'finish:0.0735', 'different:0.062', 'big:0.0619', 'semi:0.0465', 'oust:0.0451', 'combine:0.0368', 'february:0.0295']+titles_keywords+['eurovision:0.557', 'ukraine:0.4979', '2022:0.3258', 'entry:0.2242']"
+        ]
+    ],
+    "UKR+RUS+160":[
+        []
+    ]
+}

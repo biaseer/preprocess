@@ -1,0 +1,20 @@
+{
+    "CAN+RUS+163":[
+        [
+            "20220710+../news_crawling/RUS_UKR/p_articles/theguardian.com/A local resident walks near a shell crater at a childrens playground destroyed by a.txt+eventbasecode163+eventcode163+avgtone0.47770700636942676+goldsteinscale0.1+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['kyiv:0.4749', 'infantry:0.3663', 'russias:0.3638', 'mykolaiv:0.2809', 'operation:0.2803', 'occur:0.2704', 'assault:0.2669', 'government:0.2665', 'mortar:0.2588', 'destroy:0.2587', 'oil:0.2323', 'survive:0.2286', 'bratchuk:0.2265', 'pipeline:0.2217', 'expand:0.2207', 'northern:0.2026', 'sector:0.1991', 'crater:0.1971', 'strike:0.1954', 'garanichreuters:0.1938', 'update:0.1903', 'resident:0.1837', 'future:0.1737', 'manufacturing:0.1719', 'child:0.161', 'isnt:0.1474', 'long:0.1254', 'dozens:0.1205', 'coming:0.1152', 'purposefully:0.1141']+titles_keywords+['donetsk:0.4067', 'druzhkivka:0.3393', 'crater:0.3384', 'playground:0.3083', 'military:0.2312']"
+        ]
+    ],
+    "GBR+RUS+163":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/theguardian.com/0137UK will barrage Russia with sanctions warns Boris Johnson video.txt+eventbasecode163+eventcode163+avgtone0.435483870967742+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['crimea:0.4822', 'putin:0.4172', 'russias:0.4043', 'nato:0.392', 'invasion:0.3634', 'separatist:0.288', 'threat:0.279', 'escalate:0.2722', 'sanction:0.2512', 'prepare:0.2447', 'government:0.2445', 'flee:0.2433', 'agreement:0.2337', 'oil:0.2247', 'bloc:0.224', 'emergency:0.214', 'news:0.1918', 'know:0.1747', 'volodymyr:0.1717', 'termed:0.1597', 'report:0.1535', 'dependency:0.1459', 'secretary:0.14', 'follow:0.1289', 'issue:0.1225', 'weve:0.1195', 'line:0.1161', 'today:0.1055', 'fully:0.0976', 'woodward:0.0832']+titles_keywords+['boris:0.4254', 'sanctions:0.4153', '0137uk:0.32', 'barrage:0.2079', 'video:0.1696']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/theguardian.com/People rally outside the Ukrainian consulate in Toronto Photograph Nick IwanyshynReutersPeople rally outside the Ukrainian.txt+eventbasecode163+eventcode163+avgtone0.48597194388777554+goldsteinscale0.1+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.006578947368421052+news_keywords+['ukraine:0.5045', 'putins:0.3678', 'sovereignty:0.3339', 'trudeau:0.3275', 'humanitarian:0.2986', 'invasion:0.2952', 'diaspora:0.2807', 'sanction:0.2615', 'concerned:0.2505', 'democratic:0.2431', 'unprovoked:0.2304', 'rally:0.2198', 'pledge:0.2119', 'news:0.2116', 'prepared:0.2091', 'horrific:0.2057', 'resident:0.2041', 'know:0.1993', 'speak:0.1863', 'organize:0.1823', 'future:0.1605', 'population:0.1556', 'th:0.1454', 'revile:0.1366', 'stomach:0.1318', 'long:0.1302', 'strength:0.1142', 'export:0.1096', 'weve:0.0999', 'factor:0.0918']+titles_keywords+['ukrainian:0.4245', 'consulate:0.3869', 'rally:0.3529', 'toronto:0.3248', 'people:0.2263']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        []
+    ]
+}

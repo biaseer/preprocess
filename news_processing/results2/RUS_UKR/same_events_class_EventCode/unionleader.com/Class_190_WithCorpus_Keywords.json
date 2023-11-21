@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+190":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/unionleader.com/Chechen chief Kadyrov says Russian forces will take Kyiv.txt+eventbasecode190+eventcode190+avgtone0.48623853211009177+goldsteinscale0.0+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.019736842105263157+news_keywords+['chechnya:0.6136', 'kyiv:0.5589', 'kadyrov:0.5292', 'kremlin:0.5284', 'putin:0.4833', 'soviet:0.4569', 'separatists:0.3311', 'demilitarize:0.3284', 'autonomy:0.2262', 'fight:0.2217', 'operation:0.2143', 'reporting:0.2066', 'region:0.1989', 'accuse:0.1813', 'describes:0.1737', 'telegram:0.1617', 'chief:0.1616', 'writing:0.1549', 'united:0.1414', 'say:0.1408', 'neighbor:0.1322', 'mainly:0.1315', 'early:0.123', 'right:0.1194', 'measure:0.1179', 'kelly:0.1172', 'rebuild:0.1139', 'huge:0.0773', 'pour:0.0569', 'coates:0.0454']+titles_keywords+['kadyrov:0.5181', 'kyiv:0.5081', 'chechen:0.251', 'chief:0.1424', 'forces:0.06']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220612+../news_crawling/RUS_UKR/p_articles/unionleader.com/Russia destroys bridge over Ukrainian river cutting escape route.txt+eventbasecode190+eventcode190+avgtone0.4752747252747253+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.006578947368421052+news_keywords+['kyiv:0.4808', 'putin:0.416', 'russias:0.3778', 'hostilities:0.3687', 'overthrow:0.313', 'invasion:0.3072', 'evacuate:0.3052', 'separatist:0.2958', 'military:0.288', 'unprovoked:0.2863', 'kill:0.2818', 'bridge:0.257', 'news:0.2545', 'prosecution:0.2313', 'sievierodonetsk:0.2303', 'attention:0.2013', 'bloody:0.1992', 'donbas:0.1973', 'munition:0.1948', 'mortar:0.1939', 'long:0.1851', 'epicenter:0.1783', 'goal:0.1743', 'grad:0.1609', 'range:0.1602', 'reduces:0.14', 'prerequisites:0.129', 'swathe:0.1279', 'feb:0.1143', 'possible:0.0799']+titles_keywords+['ukrainian:0.3662', 'river:0.3424', 'bridge:0.3282', 'escape:0.2487', 'destroys:0.2063']"
+        ]
+    ],
+    "RUS+USA+190":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/unionleader.com/Russias invasion of Ukraine at bit of a stalemate US intel official.txt+eventbasecode190+eventcode190+avgtone0.47762645914396884+goldsteinscale0.0+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.5108', 'moscow:0.3959', 'ukrainians:0.3809', 'war:0.3467', 'nuclear:0.3023', 'invasion:0.2968', 'prepare:0.2519', 'history:0.2235', 'stalemate:0.2227', 'escalatory:0.2171', 'consequence:0.2097', 'concern:0.2091', 'unpredictable:0.2007', 'long:0.1867', 'marginal:0.1789', 'achieve:0.1787', 'flee:0.1766', 'region:0.1753', 'capability:0.1746', 'order:0.1661', 'donbas:0.166', 'end:0.1655', 'lieutenant:0.1611', 'feb:0.1524', 'red:0.1487', 'weaken:0.1349', 'perceive:0.1294', 'newly:0.122', 'field:0.1026', 'avril:0.0751']+titles_keywords+['ukraine:0.4356', 'stalemate:0.4087', 'invasion:0.3614', 'intel:0.2461', 'bit:0.177']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "QAT+RUS+1712":[
+        []
+    ],
+    "RUS+UKR+1712":[
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/msn.com/Ukraine opens first war crimes trial of captured Russian.txt+eventbasecode171+eventcode1712+avgtone0.47289972899728994+goldsteinscale0.040000000000000036+nummentions0.0965166908563135+numarticles0.09717186366932559+numsources0.21052631578947367+news_keywords+['ukraine:0.5116', 'nato:0.4253', 'war:0.3656', 'battalion:0.3222', 'terrorist:0.3118', 'eastward:0.2821', 'underway:0.2697', 'journalists:0.2633', 'tayyip:0.25', 'predict:0.2383', 'reznikov:0.2335', 'capital:0.2284', 'pursue:0.2015', 'turn:0.2007', 'veto:0.1994', 'recep:0.197', 'severodonetsk:0.1958', 'long:0.1888', 'enter:0.1885', 'consist:0.168', 'breakthrough:0.1657', 'additional:0.1655', 'end:0.1568', 'awry:0.1554', 'donbas:0.1545', 'case:0.1435', 'nearly:0.1367', 'sure:0.1366', 'buy:0.114', 'refrigerate:0.0811']+titles_keywords+['ukraine:0.3903', 'trial:0.2956', 'war:0.2254', 'captured:0.1856', 'opens:0.1352']"
+        ]
+    ],
+    "UKR+RUS+1712":[
+        [],
+        [],
+        [
+            "20220621+../news_crawling/RUS_UKR/p_articles/msn.com/Eastern Donbas extremely difficult for Ukrainians as Russia intensifies attacks.txt+eventbasecode171+eventcode1712+avgtone0.4832826747720365+goldsteinscale0.040000000000000036+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['crimea:0.5264', 'donetsk:0.4558', 'kremlin:0.4158', 'ukrainians:0.4079', 'dmitry:0.3901', 'nato:0.3214', 'deploy:0.2527', 'donbas:0.2381', 'zelenskiy:0.2361', 'boyko:0.232', 'artillery:0.2145', 'separatist:0.2145', 'predict:0.2143', 'fight:0.2116', 'intensifies:0.211', 'remain:0.2066', 'news:0.1971', 'casualty:0.1877', 'flank:0.1786', 'bleak:0.1762', 'extract:0.1729', 'switch:0.1704', 'supply:0.1677', 'activity:0.1576', 'near:0.153', 'hour:0.1405', 'nervous:0.138', 'governor:0.1301', 'large:0.1204', 'curriculum:0.0998']+titles_keywords+['ukrainians:0.4099', 'donbas:0.3331', 'difficult:0.2812', 'attacks:0.2637', 'eastern:0.1462']"
+        ]
+    ]
+}

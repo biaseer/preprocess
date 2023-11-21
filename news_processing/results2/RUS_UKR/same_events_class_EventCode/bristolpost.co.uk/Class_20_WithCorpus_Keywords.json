@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/bristolpost.co.uk/Households urged to turn down thermostats by 1C to help defeat Russia.txt+eventbasecode20+eventcode20+avgtone0.5012562814070352+goldsteinscale0.65+nummentions0.04245283018867924+numarticles0.04314720812182741+numsources0.03618421052631579+news_keywords+['thermostat:0.389', 'russias:0.3647', 'gas:0.3423', 'celsius:0.3191', 'winter:0.2845', 'heat:0.2554', 'vladimir:0.242', 'nuclear:0.2344', 'supply:0.2314', 'uk:0.2099', 'lowering:0.1895', 'enact:0.1893', 'bioenergy:0.1864', 'alternative:0.1799', 'households:0.1781', 'political:0.1629', 'sign:0.147', 'turn:0.1437', 'newsletter:0.1428', 'degree:0.1402', 'maximise:0.1262', 'uswitch:0.1178', 'daily:0.1032', 'rollout:0.1018', 'point:0.0955', 'anymore:0.0883', 'head:0.0772', 'billion:0.0707', 'say:0.0679', 'add:0.0274']+titles_keywords+['thermostats:0.5225', 'russia:0.3306', 'households:0.2198', '1c:0.1315', 'turn:0.1008']"
+        ]
+    ],
+    "POL+RUS+20":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/bristolpost.co.uk/Johnson helping Ukraine more thanks to British public pressure Zelensky says.txt+eventbasecode20+eventcode20+avgtone0.4838107098381071+goldsteinscale0.65+nummentions0.2144412191582003+numarticles0.21501087744742567+numsources0.3223684210526316+news_keywords+['ukraine:0.4547', 'nato:0.427', 'putins:0.3963', 'war:0.3588', 'boris:0.2881', 'economist:0.2836', 'government:0.2712', 'overthrow:0.2652', 'macron:0.2508', 'approach:0.2245', 'border:0.2128', 'volodymyr:0.1984', 'remain:0.186', 'want:0.1763', 'react:0.1751', 'newsletter:0.1724', 'afraid:0.1681', 'speech:0.165', 'say:0.1633', 'clarify:0.1593', 'row:0.152', 'note:0.1514', 'powerful:0.15', 'comparison:0.1475', 'ready:0.1474', 'unscripted:0.1318', 'allow:0.1206', 'deep:0.1022', 'mr:0.0924', 'prime:0.0842']+titles_keywords+['zelensky:0.4409', 'ukraine:0.3697', 'johnson:0.2798', 'british:0.1875', 'helping:0.1351']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/bristolpost.co.uk/UK to end all imports of Russian coal and oil by end of year.txt+eventbasecode20+eventcode20+avgtone0.4649572649572649+goldsteinscale0.65+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.04276315789473684+news_keywords+['putin:0.5126', 'sanction:0.3948', 'kyiv:0.3708', 'regime:0.3612', 'news:0.3067', 'labour:0.2832', 'block:0.2789', 'nazification:0.276', 'report:0.2728', 'climate:0.2622', 'operation:0.254', 'invasion:0.2517', 'context:0.2272', 'order:0.2265', 'secretary:0.2261', 'end:0.226', 'combine:0.2101', 'atrocity:0.2101', 'alfabank:0.2096', 'sign:0.1939', 'invest:0.1926', 'bucha:0.1925', 'say:0.1888', 'clear:0.1815', 'underprepared:0.1715', 'step:0.155', 'february:0.1547', 'compare:0.1433', 'badly:0.1073', 'tonne:0.0878']+titles_keywords+['coal:0.3253', 'russian:0.268', 'end:0.1718', 'imports:0.1687', 'year:0.079']"
+        ]
+    ]
+}

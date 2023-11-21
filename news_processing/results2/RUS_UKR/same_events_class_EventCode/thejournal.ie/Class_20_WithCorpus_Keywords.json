@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/thejournal.ie/Europe must turn off tap of money going to Russia for oil and gas Eamon.txt+eventbasecode20+eventcode20+avgtone0.4834152334152334+goldsteinscale0.65+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.009868421052631578+news_keywords+['ukraine:0.4318', 'kremlin:0.3808', 'euros:0.339', 'rouble:0.3308', 'war:0.2718', 'economic:0.2508', 'diplomat:0.2343', 'leave:0.226', 'sanction:0.2166', 'unite:0.2133', 'news:0.2115', 'understand:0.2018', 'gas:0.1909', 'tap:0.1818', 'end:0.1729', 'issue:0.1686', 'entail:0.165', 'prepared:0.1612', 'sidestep:0.1552', 'gazproms:0.1551', 'transition:0.1543', 'deal:0.1504', 'renew:0.1459', 'clarification:0.1432', 'bit:0.1354', 'billion:0.1301', 'tomorrow:0.1242', 'think:0.1134', 'guidance:0.1118', 'second:0.0972']+titles_keywords+['russia:0.4011', 'ryan:0.2715', 'tap:0.2714', 'turn:0.1761', 'says:0.0978']"
+        ]
+    ],
+    "RUS+IRL+20":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/thejournal.ie/We cannot imagine what youve gone through Fiveyearold Ukrainian and her mother get Dil applause.txt+eventbasecode20+eventcode20+avgtone0.5011583011583012+goldsteinscale0.65+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.006578947368421052+news_keywords+['ukraine:0.4885', 'irelandgerasko:0.4106', 'militarily:0.274', 'blair:0.2656', 'conflict:0.2631', 'oireachtasnews:0.2631', 'ribbon:0.2559', 'ambassador:0.2547', 'proceeding:0.252', 'applause:0.2514', 'flag:0.236', 'attendees:0.2345', 'yana:0.2343', 'article:0.2228', 'curragh:0.2209', 'filatov:0.2207', 'information:0.2152', 'green:0.2126', 'forget:0.2114', 'imagine:0.2026', 'hear:0.2004', 'tank:0.2001', 'fabricate:0.1789', 'past:0.1719', 'long:0.1684', 'kilometre:0.162', 'pp:0.1529', 'way:0.1486', 'madigan:0.1314', 'thank:0.0958']+titles_keywords+['ukrainian:0.4603', 'mother:0.4087', 'fiveyearold:0.3481', 'applause:0.2525', 'youve:0.1237']"
+        ]
+    ]
+}

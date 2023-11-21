@@ -1,0 +1,12 @@
+{
+    "AUS+RUS+30":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/sbs.com.au/Russia has ordered troops into two Ukrainian separatist regions for peacekeeping efforts.txt+eventbasecode30+eventcode30+avgtone0.4733379501385041+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.5296', 'putinpresided:0.4199', 'peacekeeping:0.4154', 'separatist:0.3677', 'invade:0.364', 'natosecretary:0.3232', 'border:0.2507', 'violent:0.2135', 'relocate:0.212', 'warn:0.2105', 'agreement:0.2082', 'shortly:0.2049', 'news:0.1931', 'order:0.1896', 'psaki:0.1844', 'intercept:0.184', 'table:0.1827', 'executive:0.172', 'lengthy:0.1668', 'narrative:0.1612', 'tension:0.1603', 'attackwithin:0.1589', 'outlining:0.1505', 'outbreak:0.1368', 'withdraw:0.1349', 'state:0.1331', 'look:0.1185', 'integral:0.0882', 'possibility:0.0834', 'antony:0.0604']+titles_keywords+['peacekeeping:0.4395', 'ukrainian:0.4154', 'regions:0.2436', 'separatist:0.2118', 'ordered:0.0976']"
+        ]
+    ],
+    "UKR+RUS+30":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/sbs.com.au/Ukraine and Russia are yet to agree on refugee corridors.txt+eventbasecode30+eventcode30+avgtone0.4833333333333333+goldsteinscale0.7+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.013157894736842105+news_keywords+['ukraine:0.4972', 'refugee:0.4261', 'russia:0.3483', 'corridor:0.2638', 'agree:0.0628']+titles_keywords+['ukraine:0.4295', 'refugee:0.324', 'russia:0.2866', 'corridors:0.2101', 'agree:0.0445']"
+        ]
+    ]
+}

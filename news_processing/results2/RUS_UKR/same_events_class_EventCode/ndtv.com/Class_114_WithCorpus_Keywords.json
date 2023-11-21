@@ -1,0 +1,17 @@
+{
+    "RUS+EUR+114":[
+        [
+            "20220528+../news_crawling/RUS_UKR/p_articles/ndtv.com/Stop Playing With Russia End War Ukraines Zelensky To West.txt+eventbasecode114+eventcode114+avgtone0.4651531151003168+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5184', 'kremlin:0.4251', 'war:0.3353', 'zelensky:0.3126', 'diplomatic:0.3036', 'embargo:0.3014', 'separatist:0.2867', 'escalation:0.2687', 'remain:0.2297', 'unprovoked:0.2225', 'telegram:0.218', 'headline:0.2047', 'consolidate:0.1946', 'long:0.1924', 'plan:0.1873', 'want:0.1855', 'howitzer:0.1853', 'end:0.1806', 'vadym:0.1719', 'donbas:0.1684', 'industrial:0.1645', 'straddle:0.1636', 'anonymity:0.1591', 'surround:0.1585', 'baseless:0.158', 'nearly:0.1416', 'kilometre:0.1401', 'agree:0.1348', 'import:0.1223', 'procrastination:0.1221']+titles_keywords+['zelensky:0.5169', 'ukraines:0.4806', 'war:0.3215', 'west:0.2606', 'stop:0.2109']"
+        ]
+    ],
+    "RUS+RUS+114":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/ndtv.com/Ukraine War What Are The Risks That Russia Will Turn To Its Nuclear Arsenal.txt+eventbasecode114+eventcode114+avgtone0.4685916919959473+goldsteinscale0.4+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['putin:0.398', 'ukraine:0.3968', 'nuclear:0.3967', 'nato:0.3864', 'readiness:0.3484', 'war:0.3423', 'escalation:0.321', 'deterrence:0.3052', 'strategist:0.2983', 'armageddon:0.2968', 'risks:0.2591', 'pursue:0.2118', 'debate:0.2052', 'hypothesis:0.1947', 'term:0.1814', 'reform:0.1784', 'turn:0.1757', 'alert:0.1743', 'ominously:0.1727', 'read:0.1725', 'differentiate:0.157', 'declare:0.1539', 'favourable:0.1507', 'rational:0.1503', 'end:0.1291', 'grow:0.1224', 'regional:0.1165', 'republish:0.1116', 'spook:0.1083', 'offer:0.0363']+titles_keywords+['ukraine:0.4126', 'nuclear:0.4096', 'risks:0.3642', 'war:0.3319', 'turn:0.1569']"
+        ]
+    ],
+    "UKR+RUS+114":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/ndtv.com/Ukraine Takes Russia To International Court Of Justice Over Invasion.txt+eventbasecode114+eventcode114+avgtone0.4529616724738677+goldsteinscale0.4+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.02631578947368421+news_keywords+['ukraine:0.476', 'genocide:0.4373', 'invasion:0.4196', 'kremlin:0.3839', 'hague:0.356', 'demilitarise:0.2958', 'judicial:0.2825', 'aggression:0.2526', 'zelensky:0.2359', 'icj:0.2318', 'justify:0.2273', 'headline:0.206', 'volodymyr:0.2008', 'urgent:0.1957', 'halt:0.1941', 'capital:0.1862', 'world:0.1737', 'submit:0.1673', 'president:0.1594', 'minority:0.1508', 'manipulate:0.1467', 'syndicate:0.1467', 'charge:0.1418', 'flagrant:0.1286', 'say:0.1264', 'state:0.124', 'attempt:0.1106', 'ndtv:0.1073', 'takes:0.0951', 'old:0.0834']+titles_keywords+['ukraine:0.4726', 'invasion:0.2869', 'court:0.2286', 'international:0.19', 'takes:0.0545']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+14":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/UK troops set to join defence of Europe ahead of potential Russian invasion of Ukraine.txt+eventbasecode14+eventcode14+avgtone0.49556213017751477+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['natos:0.5227', 'ukraine:0.4597', 'invade:0.3985', 'vladimir:0.306', 'deployment:0.3016', 'troop:0.2996', 'diplomatic:0.26', 'prepare:0.2595', 'telegraph:0.236', 'olympics:0.2299', 'whitehall:0.2275', 'security:0.2062', 'plan:0.202', 'ally:0.1819', 'timeline:0.1814', 'winter:0.1742', 'flank:0.1718', 'remain:0.1709', 'additional:0.1698', 'drill:0.1693', 'increasingly:0.1645', 'coming:0.1591', 'friday:0.1545', 'attends:0.1414', 'active:0.138', 'expectation:0.1323', 'report:0.1266', 'idea:0.0959', 'confirm:0.0917', 'far:0.0638']+titles_keywords+['troops:0.3846', 'uk:0.2525', 'join:0.235', 'defence:0.229', 'russian:0.2069']"
+        ]
+    ],
+    "UKR+RUS+14":[
+        [
+            "20220812+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Mystery US missile could be key to Ukraine retaking Kherson.txt+eventbasecode14+eventcode14+avgtone0.48444130127298446+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimea:0.4834', 'kyivs:0.4227', 'russias:0.3834', 'missile:0.3821', 'russian:0.3743', 'war:0.3249', 'nuclear:0.3067', 'deploy:0.2886', 'tactic:0.2848', 'plan:0.244', 'kherson:0.2144', 'turn:0.1914', 'help:0.1912', 'information:0.1824', 'operate:0.1811', 'risk:0.1707', 'push:0.1657', 'retake:0.1647', 'early:0.1585', 'version:0.15', 'preliminary:0.1457', 'incoming:0.1433', 'make:0.1426', 'choose:0.1381', 'program:0.138', 'western:0.1286', 'swathe:0.1269', 'long:0.1243', 'agm:0.1132', 'like:0.084']+titles_keywords+['missile:0.438', 'ukraine:0.41', 'kherson:0.4049', 'retaking:0.2102', 'mystery:0.2028']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/russiaherald.com/G7 Foreign Ministers Meeting Statement.txt+eventbasecode180+eventcode180+avgtone0.4705882352941177+goldsteinscale0.05+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.013157894736842105+news_keywords+['ukraine:0.4417', 'putin:0.4238', 'iaea:0.3202', 'peaceful:0.2791', 'agreement:0.2771', 'civilians:0.2771', 'sanction:0.2739', 'sovereignty:0.249', 'disinformation:0.2329', 'attack:0.2265', 'announcement:0.2244', 'unprovoked:0.2136', 'concerned:0.2085', 'president:0.2007', 'readiness:0.1969', 'catastrophic:0.1778', 'continue:0.1652', 'world:0.1528', 'implement:0.1516', 'include:0.127', 'direct:0.1156', 'reemphasize:0.1129', 'proxy:0.1119', 'reach:0.1072', 'welcome:0.0926', 'high:0.0836', 'plant:0.08', 'toll:0.0693', 'grossi:0.0592', 'today:0.0544']+titles_keywords+['meeting:0.4365', 'ministers:0.2674', 'g7:0.2604', 'statement:0.244', 'foreign:0.1353']"
+        ],
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Russian Elites Proxies and Oligarchs Task Force Ministerial Joint Statement.txt+eventbasecode180+eventcode180+avgtone0.4907651715039577+goldsteinscale0.05+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.019736842105263157+news_keywords+['ukraine:0.507', 'oligarchs:0.4557', 'undermine:0.3073', 'sanction:0.3067', 'regime:0.3051', 'unprovoked:0.2854', 'invasion:0.2826', 'jurisdiction:0.2586', 'capital:0.2428', 'complicity:0.2405', 'proxies:0.233', 'investment:0.2113', 'secretary:0.1997', 'task:0.1962', 'isolate:0.1883', 'federal:0.1879', 'yellen:0.1597', 'continue:0.1537', 'stability:0.1431', 'benefit:0.139', 'step:0.1352', 'norm:0.1256', 'robert:0.1173', 'priti:0.1142', 'trade:0.1091', 'jointly:0.108', 'dupond:0.1073', 'tehan:0.0817', 'mcguinness:0.0771', 'today:0.0536']+titles_keywords+['oligarchs:0.5545', 'russian:0.3574', 'proxies:0.3125', 'ministerial:0.2206', 'task:0.1279']"
+        ]
+    ]
+}

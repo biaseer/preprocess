@@ -1,0 +1,30 @@
+{
+    "GBR+RUS+40":[
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/thestar.com.my/UKs Johnson pledges more help for Ukraine in last visit to Kyiv as PM.txt+eventbasecode40+eventcode40+avgtone0.5117370892018779+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4825', 'boris:0.2956', 'independence:0.2332', 'reuterspeter:0.224', 'downing:0.2152', 'invade:0.2135', 'volodymyr:0.2067', 'zelenskiy:0.2059', 'johnson:0.1812', 'conflict:0.1764', 'military:0.1748', 'president:0.1723', 'ally:0.1547', 'drone:0.133', 'order:0.1306', 'prime:0.1218', 'support:0.1186', 'announce:0.1182', 'truss:0.1164', 'finance:0.1163', 'replace:0.1145', 'street:0.1073', 'pound:0.0965', 'good:0.0923', 'believe:0.0819', 'continue:0.0755', 'track:0.0732', 'nichollspool:0.0663', 'points:0.0581', 'month:0.0572']+titles_keywords+['ukraine:0.3558', 'johnson:0.2598', 'visit:0.142', 'help:0.1342', 'pledges:0.0869']"
+        ]
+    ],
+    "RUS+TUR+40":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/thestar.com.my/No progress on Ukraine ceasefire in LavrovKuleba meeting.txt+eventbasecode40+eventcode40+avgtone0.4842381786339755+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ceasefire:0.5217', 'kyiv:0.4149', 'nato:0.3663', 'diplomatic:0.3611', 'kremlin:0.359', 'turkey:0.2762', 'reuters:0.2713', 'invade:0.2625', 'border:0.2441', 'develop:0.2166', 'unprovoked:0.1945', 'counterpart:0.1872', 'responding:0.1821', 'remind:0.1745', 'want:0.1674', 'baseless:0.1585', 'longer:0.1547', 'end:0.1511', 'west:0.1506', 'separate:0.145', 'agree:0.1331', 'port:0.1287', 'pretext:0.1251', 'easy:0.1209', 'track:0.1137', 'mevlut:0.1092', 'meaning:0.0959', 'spiral:0.09', 'possible:0.0893', 'maternity:0.0805']+titles_keywords+['ceasefire:0.437', 'lavrovkuleba:0.38', 'ukraine:0.3577', 'progress:0.2861', 'meeting:0.2853']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Kremlin says it wants to avoid raising tensions over Ukraine breakaway regions.txt+eventbasecode40+eventcode40+avgtone0.49032258064516127+goldsteinscale0.55+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.006578947368421052+news_keywords+['ukraine:0.4845', 'kremlin:0.4824', 'putin:0.4404', 'dmitry:0.4202', 'peskov:0.3685', 'novozhenina:0.3678', 'reutersevgenia:0.2598', 'political:0.2195', 'diplomat:0.2166', 'breakaway:0.21', 'republic:0.1893', 'tension:0.1877', 'state:0.1766', 'proclaim:0.1755', 'avoid:0.144', 'consultation:0.1429', 'important:0.123', 'step:0.1212', 'react:0.1183', 'donbass:0.1116', 'want:0.1036', 'idea:0.102', 'write:0.0953', 'hold:0.094', 'increase:0.092', 'pro:0.0704', 'end:0.0658', 'december:0.058', 'photo:0.0558', 'chamber:0.0386']+titles_keywords+['kremlin:0.4641', 'tensions:0.3155', 'avoid:0.2331', 'regions:0.2052', 'breakaway:0.1391']"
+        ],
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Ukraine says Russian forces seize Zaporizhzhia nuclear plant.txt+eventbasecode40+eventcode40+avgtone0.4941520467836258+goldsteinscale0.55+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.023026315789473683+news_keywords+['ukraine:0.4307', 'nuclear:0.4222', 'reactor:0.3821', 'zaporizhzhia:0.3777', 'radiation:0.3134', 'military:0.2209', 'operational:0.2071', 'emergency:0.1972', 'power:0.1738', 'containment:0.1681', 'plant:0.1671', 'attack:0.1458', 'inspectorate:0.1412', 'station:0.1335', 'safely:0.1331', 'seize:0.121', 'photo:0.1096', 'story:0.0961', 'granholm:0.096', 'speak:0.0862', 'reading:0.0842', 'twitter:0.0812', 'set:0.0772', 'thursday:0.0693', 'structure:0.0688', 'state:0.0629', 'monitor:0.0598', 'reutersstringer:0.0597', 'large:0.0471', 'adjacent:0.0442']+titles_keywords+['zaporizhzhia:0.4148', 'ukraine:0.4088', 'nuclear:0.3072', 'seize:0.2118', 'says:0.068']"
+        ]
+    ],
+    "UKR+BGR+40":[
+        [
+            "20211119+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Ukraine summons Bulgarian envoy over presidents Crimea comments.txt+eventbasecode40+eventcode40+avgtone0.49466192170818507+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['crimea:0.5186', 'bulgarian:0.4285', 'kyivsofia:0.3917', 'nato:0.3836', 'sofia:0.367', 'gerdzhikov:0.3245', 'annexed:0.3043', 'reutersstoyan:0.2988', 'election:0.2412', 'sovereignty:0.2384', 'ambassador:0.2313', 'ahead:0.1887', 'border:0.1843', 'communist:0.174', 'debate:0.1717', 'radev:0.1702', 'nenovfile:0.1641', 'expect:0.1338', 'pragmatic:0.1321', 'sanction:0.1314', 'relation:0.1163', 'friday:0.1153', 'summon:0.1109', 'maintain:0.1009', 'say:0.0905', 'photo:0.0887', 'retract:0.0877', 'round:0.0628', 'main:0.0503', 'largely:0.0234']+titles_keywords+['crimea:0.4859', 'bulgarian:0.4007', 'envoy:0.2344', 'presidents:0.1684', 'comments:0.0992']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Oil settles up but posts second consecutive weekly decline.txt+eventbasecode40+eventcode40+avgtone0.47857142857142854+goldsteinscale0.55+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.01644736842105263+news_keywords+['opec:0.5428', 'oil:0.4435', 'reuters:0.4058', 'supply:0.347', 'volatility:0.3415', 'barrel:0.2994', 'march:0.2913', 'profit:0.262', 'stock:0.2563', 'texas:0.2229', 'surge:0.2167', 'conflict:0.2161', 'worry:0.2151', 'progress:0.2123', 'ukrainerussian:0.2068', 'rig:0.2031', 'week:0.2', 'benchmark:0.1873', 'previous:0.181', 'emerge:0.1797', 'covid:0.1765', 'reduce:0.1758', 'agreement:0.1698', 'informal:0.1442', 'exacerbate:0.1341', 'mid:0.1339', 'bpd:0.1281', 'bout:0.1269', 'percentage:0.1229', 'fge:0.1109']+titles_keywords+['oil:0.3148', 'weekly:0.3073', 'settles:0.1983', 'decline:0.1416', 'second:0.1091']"
+        ]
+    ]
+}

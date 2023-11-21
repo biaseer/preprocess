@@ -1,0 +1,15 @@
+{
+    "CAN+RUS+172":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/theguardian.com/0214 Zelenskiy and Johnson welcome move to cut off Russian banks from Swift video.txt+eventbasecode172+eventcode172+avgtone0.4808362369337979+goldsteinscale0.25+nummentions0.006531204644412192+numarticles0.006526468455402465+numsources0.006578947368421052+news_keywords+['putin:0.5023', 'russias:0.46', 'moscow:0.4283', 'oligarch:0.3692', 'sanction:0.3589', 'government:0.3338', 'war:0.2948', 'block:0.2944', 'banking:0.2936', 'announce:0.2874', 'eu:0.2838', 'secure:0.2764', 'swift:0.2646', 'strategic:0.2626', 'liquidate:0.2591', 'taskforce:0.2565', 'zelenskiy:0.2474', 'expect:0.2298', 'implement:0.2291', 'disconnect:0.2265', 'understand:0.2197', 'transaction:0.2133', 'statement:0.1906', 'cross:0.1888', 'freeze:0.182', 'resist:0.1618', 'week:0.1469', 'finally:0.1347', 'partial:0.1123', 'welcome:0.0937']+titles_keywords+['zelenskiy:0.453', 'banks:0.3946', 'swift:0.3613', 'video:0.209', '0214:0.1184']"
+        ]
+    ],
+    "RUS+UKR+172":[
+        []
+    ],
+    "UKR+EUR+172":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/theguardian.com/0156Russia has invaded Ukraine what we know so far video report.txt+eventbasecode172+eventcode172+avgtone0.46948818897637795+goldsteinscale0.25+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4934', 'kremlin:0.4364', 'war:0.3453', 'chernobyl:0.3377', 'demilitarisation:0.3263', 'incursion:0.2917', 'annex:0.2708', 'propaganda:0.2663', 'unprovoked:0.2513', 'airbases:0.2476', 'emergency:0.2444', 'zelenskiy:0.2387', 'kill:0.231', 'helicopter:0.221', 'confusion:0.214', 'precede:0.2113', 'interfere:0.207', 'tank:0.2061', 'soon:0.2054', 'intend:0.1596', 'plant:0.1525', 'sure:0.1449', 'stock:0.139', 'long:0.1365', 'counterpart:0.1346', 'andriy:0.1344', 'rotate:0.1234', 'dozen:0.1049', 'guide:0.1042', 'really:0.0613']+titles_keywords+['ukraine:0.5474', 'invaded:0.486', '0156russia:0.4819', 'report:0.2299', 'video:0.2282']"
+        ]
+    ]
+}

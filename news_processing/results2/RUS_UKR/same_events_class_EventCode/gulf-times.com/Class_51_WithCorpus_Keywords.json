@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+51":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/gulf-times.com/China to provide Ukraine humanitarian aid praises Russia ties.txt+eventbasecode51+eventcode51+avgtone0.5196078431372549+goldsteinscale0.67+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.013157894736842105+news_keywords+['ukraine:0.4488', 'putin:0.3898', 'cooperation:0.3717', 'humanitarian:0.3661', 'beijing:0.325', 'wang:0.2244', 'concern:0.2181', 'crisis:0.2147', 'meet:0.2074', 'president:0.2028', 'news:0.1889', 'happen:0.1803', 'international:0.1728', 'continue:0.1702', 'conference:0.1602', 'jinping:0.159', 'soon:0.1557', 'require:0.1522', 'forward:0.1448', 'red:0.1309', 'winter:0.1299', 'condemn:0.1256', 'intensifying:0.1106', 'sign:0.1088', 'wide:0.1041', 'legitimate:0.0991', 'hour:0.0901', 'possible:0.089', 'fuel:0.0752', 'contradiction:0.0689']+titles_keywords+['ukraine:0.4019', 'humanitarian:0.2829', 'praises:0.1502', 'provide:0.1313', 'ties:0.0207']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/gulf-times.com/Russia signals scaling back of Ukraine aims as Biden in Poland.txt+eventbasecode51+eventcode51+avgtone0.5089285714285714+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4604', 'kremlin:0.4353', 'nato:0.417', 'ceasefire:0.3996', 'invasions:0.2657', 'directorate:0.2648', 'economy:0.2539', 'rzeszow:0.2386', 'attention:0.2283', 'warn:0.2272', 'turn:0.2271', 'pursue:0.2209', 'reporter:0.2136', 'speaking:0.2064', 'update:0.2029', 'biden:0.2025', 'fall:0.2022', 'term:0.2018', 'end:0.1977', 'world:0.1974', 'scale:0.1881', 'row:0.1878', 'alongside:0.1689', 'import:0.1601', 'dead:0.1551', 'like:0.1494', 'main:0.1484', 'come:0.1373', 'significant:0.1362', 'phosphorus:0.1117']+titles_keywords+['ukraine:0.3455', 'biden:0.335', 'scaling:0.1616', 'aims:0.0744', 'signals:0.0737']"
+        ]
+    ]
+}

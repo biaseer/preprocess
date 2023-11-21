@@ -1,0 +1,17 @@
+{
+    "AUS+UKR+51":[
+        [
+            "20220707+../news_crawling/RUS_UKR/p_articles/sbs.com.au/Anthony Albanese says hell treat Vladimir Putin with contempt at G20 summit.txt+eventbasecode51+eventcode51+avgtone0.4805194805194805+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4956', 'nato:0.4245', 'multilateralism:0.3923', 'conflict:0.3034', 'invasion:0.2985', 'sanction:0.2761', 'ambassador:0.2741', 'pavlovsky:0.2527', 'occur:0.2476', 'disregard:0.2472', 'expect:0.2435', 'world:0.2273', 'ahead:0.2221', 'news:0.2116', 'counterpart:0.2081', 'meet:0.201', 'destroy:0.2002', 'bali:0.185', 'implement:0.1769', 'important:0.1765', 'immoral:0.1734', 'comment:0.1725', 'point:0.1635', 'oust:0.1228', 'february:0.116', 'current:0.1136', 'large:0.1108', 'doubtful:0.1049', 'total:0.0843', 'welcome:0.0751']+titles_keywords+['putin:0.4325', 'albanese:0.3724', 'contempt:0.3237', 'g20:0.2951', 'hell:0.2566']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220125+../news_crawling/RUS_UKR/p_articles/sbs.com.au/UK wont rule out personal sanctions against Vladimir Putin if Russia invades Ukraine.txt+eventbasecode51+eventcode51+avgtone0.4776357827476038+goldsteinscale0.67+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4564', 'nato:0.4011', 'invade:0.3929', 'regime:0.34', 'sanction:0.3348', 'diplomatic:0.3298', 'russophobia:0.3004', 'kyiv:0.2979', 'uk:0.2771', 'border:0.2615', 'warn:0.261', 'crisis:0.2444', 'declaration:0.238', 'prepare:0.2193', 'security:0.2142', 'rule:0.1856', 'reinforces:0.1806', 'forward:0.1789', 'sit:0.1706', 'want:0.1584', 'wont:0.1397', 'isn:0.1356', 'long:0.1329', 'following:0.1315', 'energy:0.1223', 'normally:0.1201', 'mr:0.1117', 'reach:0.0991', 'grip:0.0674', 'possible:0.0494']+titles_keywords+['sanctions:0.4749', 'vladimir:0.286', 'wont:0.2204', 'invades:0.2059', 'uk:0.1764']"
+        ]
+    ],
+    "WST+UKR+51":[
+        [
+            "20220615+../news_crawling/RUS_UKR/p_articles/sbs.com.au/Ukraine rejects Russian ultimatum to surrender eastern city as US sends more weapons to Kyiv.txt+eventbasecode51+eventcode51+avgtone0.4768211920529801+goldsteinscale0.67+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.006578947368421052+news_keywords+['ukraine:0.4977', 'nato:0.4264', 'surrender:0.3723', 'reunification:0.3563', 'evacuate:0.3471', 'reuters:0.3203', 'military:0.3075', 'invasion:0.3008', 'conflict:0.2911', 'emergencies:0.2774', 'zelenskyy:0.2587', 'capital:0.2265', 'know:0.2185', 'involve:0.2152', 'rout:0.2078', 'advantage:0.2022', 'howitzer:0.1991', 'deport:0.1983', 'donbas:0.1957', 'hear:0.1891', 'child:0.1891', 'governor:0.1852', 'corridor:0.1688', 'additional:0.1679', 'ombudspersons:0.1545', 'immediately:0.1529', 'fund:0.1445', 'dozen:0.1343', 'largely:0.1213', 'send:0.1177']+titles_keywords+['kyiv:0.4682', 'ultimatum:0.3438', 'weapons:0.1724', 'eastern:0.1366', 'sends:0.1108']"
+        ]
+    ]
+}

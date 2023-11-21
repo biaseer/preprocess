@@ -1,0 +1,20 @@
+{
+    "ISR+RUS+138":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Ukrainians return from abroad to fight Russian invasion.txt+eventbasecode138+eventcode138+avgtone0.4837451235370611+goldsteinscale0.15+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.013157894736842105+news_keywords+['ukraine:0.514', 'refugee:0.36', 'disruption:0.3232', 'government:0.3177', 'unhcr:0.3165', 'invade:0.3113', 'recession:0.3109', 'journalist:0.3075', 'border:0.304', 'pandemic:0.2903', 'onward:0.2808', 'capital:0.2582', 'cite:0.2436', 'report:0.2433', 'world:0.2353', 'podium:0.2316', 'scislowska:0.2282', 'anticipate:0.2182', 'monday:0.2132', 'scary:0.2091', 'stay:0.2074', 'combine:0.2012', 'behead:0.2007', 'end:0.196', 'export:0.1918', 'like:0.1836', 'poilievre:0.1822', 'boy:0.1617', 'longer:0.1614', 'murdaugh:0.1546']+titles_keywords+['ukrainians:0.5028', 'invasion:0.3527', 'return:0.1908', 'abroad:0.1817', 'fight:0.1633']"
+        ]
+    ],
+    "RUS+EUR+138":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Trudeau unveils new Russia sanctions amid growing NATO pressure over defence spending.txt+eventbasecode138+eventcode138+avgtone0.491566265060241+goldsteinscale0.15+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.4544', 'trudeaus:0.4378', 'ctvnews:0.418', 'nato:0.4151', 'province:0.3802', 'government:0.3713', 'revolution:0.3288', 'expand:0.3001', 'gdp:0.2976', 'announcement:0.288', 'blockade:0.2791', 'strategizing:0.2741', 'stem:0.2689', 'column:0.259', 'cite:0.2582', 'term:0.2438', 'meddle:0.2433', 'write:0.2381', 'secretary:0.2356', 'concern:0.2316', 'chinese:0.2299', 'spacex:0.2235', 'stab:0.2221', 'agreement:0.2203', 'pandemic:0.2184', 'know:0.2096', 'expect:0.2091', 'friday:0.2028', 'instead:0.1939', 'murdaugh:0.1736']+titles_keywords+['sanctions:0.4749', 'nato:0.3722', 'trudeau:0.3272', 'new:0.132', 'spending:0.0969']"
+        ]
+    ],
+    "RUS+UKR+138":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Macron Putin told him Russia wont escalate Ukraine crisis.txt+eventbasecode138+eventcode138+avgtone0.48095238095238096+goldsteinscale0.15+nummentions0.1386066763425254+numarticles0.13923132704858593+numsources0.13486842105263158+news_keywords+['putin:0.5241', 'diplomacy:0.4403', 'macron:0.4236', 'escalation:0.3612', 'minsk:0.3407', 'news:0.2941', 'protest:0.2884', 'europe:0.2843', 'investigate:0.2667', 'write:0.2653', 'impasse:0.2638', 'separatist:0.257', 'annex:0.2541', 'rapporteur:0.2508', 'agreement:0.2376', 'future:0.2339', 'podium:0.2309', 'prepare:0.2293', 'gunfire:0.2265', 'know:0.2236', 'pandemic:0.2164', 'tu:0.2141', 'week:0.2038', 'stem:0.1985', 'oust:0.1961', 'function:0.1873', 'head:0.1739', 'pipeline:0.1731', 'general:0.154', 'wont:0.1373']+titles_keywords+['putin:0.4562', 'macron:0.4168', 'escalate:0.275', 'crisis:0.1831', 'wont:0.1568']"
+        ],
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Ukraine sees room for compromise as 20000 escape Mariupol.txt+eventbasecode138+eventcode138+avgtone0.47696038803556995+goldsteinscale0.15+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5491', 'russias:0.4001', 'revolution:0.3686', 'government:0.3383', 'demilitarize:0.3336', 'diplomatic:0.3239', 'pentagon:0.31', 'news:0.3097', 'pandemic:0.2945', 'expand:0.2928', 'sinehubov:0.2882', 'gunfire:0.2745', 'underway:0.2675', 'industrial:0.2635', 'report:0.2597', 'anonymity:0.2495', 'curfew:0.2483', 'hear:0.2449', 'stem:0.243', 'regional:0.243', 'celebrate:0.2393', 'stab:0.2339', 'concern:0.2281', 'navigate:0.2239', 'spacex:0.2193', 'general:0.2176', 'bucha:0.2165', 'neutral:0.1932', 'end:0.1773', 'realistic:0.1734']+titles_keywords+['compromise:0.4111', 'ukraine:0.3852', 'escape:0.301', 'mariupol:0.2063', '20000:0.177']"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "BLR+RUS+111":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/localnews8.com/White House details new sanctions on Russian and Belarusian entities including targeting Russian oil refining.txt+eventbasecode111+eventcode111+avgtone0.4850640113798008+goldsteinscale0.4+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.01644736842105263+news_keywords+['belaruss:0.462', 'sanction:0.3903', 'regime:0.2685', 'oil:0.2684', 'president:0.2679', 'pipeline:0.2543', 'prepare:0.253', 'invasion:0.2391', 'commerce:0.2369', 'escalate:0.2337', 'undermine:0.2247', 'table:0.2196', 'announce:0.2194', 'conflict:0.2186', 'statement:0.1764', 'like:0.1644', 'karine:0.1539', 'step:0.1497', 'neutral:0.1461', 'cnns:0.1442', 'advantageous:0.1408', 'additional:0.1367', 'state:0.1342', 'help:0.1325', 'short:0.1316', 'look:0.1239', 'world:0.1152', 'week:0.0991', 'export:0.0976', 'richmond:0.0805']+titles_keywords+['sanctions:0.5121', 'belarusian:0.2852', 'refining:0.1879', 'targeting:0.1452', 'including:0.0525']"
+        ]
+    ],
+    "RUS+RUS+111":[
+        [
+            "20220526+../news_crawling/RUS_UKR/p_articles/localnews8.com/Davos ends with Germany pushing global work on climate war.txt+eventbasecode111+eventcode111+avgtone0.48115079365079366+goldsteinscale0.4+nummentions0.055152394775036286+numarticles0.05583756345177665+numsources0.1118421052631579+news_keywords+['davos:0.3774', 'meeting:0.3539', 'world:0.3536', 'switzerland:0.3395', 'crises:0.3079', 'activist:0.2571', 'global:0.2526', 'economic:0.2481', 'warming:0.2409', 'government:0.235', 'war:0.22', 'town:0.2016', 'action:0.1955', 'work:0.193', 'forums:0.1903', 'end:0.1832', 'rise:0.1802', 'thursday:0.1589', 'elites:0.1581', 'come:0.154', 'mood:0.1538', 'chancellor:0.1534', 'hope:0.1434', 'scholz:0.133', 'ap:0.1175', 'overshadow:0.0857', 'douse:0.0642', 'concrete:0.0512', 'arent:0.0451', 'little:0.0372']+titles_keywords+['war:0.3615', 'davos:0.3554', 'climate:0.2748', 'ends:0.2015', 'global:0.1772']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/localnews8.com/Higher food prices and slumping trade How the war in Ukraine could hitAfrica.txt+eventbasecode111+eventcode111+avgtone0.47339357429718876+goldsteinscale0.4+nummentions0.04462989840348331+numarticles0.045322697606961566+numsources0.039473684210526314+news_keywords+['ukraine:0.4177', 'war:0.4094', 'africans:0.242', 'logistics:0.2273', 'economist:0.2173', 'disrupt:0.2129', 'worry:0.2063', 'stock:0.1752', 'import:0.1699', 'drought:0.1662', 'multilateral:0.1648', 'neutral:0.1626', 'current:0.1559', 'intensifies:0.1526', 'expect:0.1517', 'relation:0.1494', 'cnn:0.1494', 'sector:0.1442', 'adversely:0.1376', 'catastrophic:0.1345', 'explain:0.129', 'data:0.1178', 'deal:0.117', 'immediately:0.1163', 'big:0.1112', 'feature:0.1054', 'isnt:0.1011', 'plunge:0.0913', 'hadebe:0.0557', 'sunflower:0.0553']+titles_keywords+['ukraine:0.4044', 'war:0.3691', 'trade:0.1937', 'slumping:0.127', 'higher:0.1025']"
+        ],
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/localnews8.com/Putin gives honorary title to Russian brigade accused of war crimes in Bucha.txt+eventbasecode111+eventcode111+avgtone0.4615384615384617+goldsteinscale0.4+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.019736842105263157+news_keywords+['putin:0.5088', 'kyiv:0.4482', 'borodianka:0.4231', 'russias:0.3825', 'troop:0.3654', 'genocide:0.323', 'honorary:0.2879', 'bucha:0.2871', 'assault:0.2634', 'jurisdiction:0.2557', 'extradite:0.2493', 'accuse:0.2394', 'leader:0.2332', 'operation:0.2329', 'title:0.2296', 'rifle:0.2244', 'involvement:0.2235', 'valor:0.2132', 'fake:0.1976', 'donbas:0.1943', 'signature:0.1899', 'bold:0.1675', 'read:0.1666', 'reiterate:0.1527', 'th:0.1431', 'shell:0.138', 'bury:0.1342', 'separate:0.1102', 'great:0.1062', 'earlier:0.0799']+titles_keywords+['putin:0.4262', 'brigade:0.359', 'bucha:0.2884', 'accused:0.2666', 'title:0.2263']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+TUR+36":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/english.news.cn/GLOBALink RussiaUkraine conflict Russia Ukraine to hold new round of peace talks.txt+eventbasecode36+eventcode36+avgtone0.5+goldsteinscale0.7+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.019736842105263157+news_keywords+['ukraine:0.4352', 'ceasefire:0.4315', 'erdogan:0.41', 'negotiation:0.3544', 'istanbul:0.3408', 'meeting:0.2722', 'zelensky:0.2649', 'talk:0.2625', 'xinhua:0.2197', 'swap:0.2119', 'soon:0.2104', 'presidency:0.189', 'counterpart:0.1881', 'continue:0.1756', 'volodymyr:0.1732', 'want:0.1683', 'round:0.1636', 'hold:0.1576', 'ready:0.1498', 'report:0.1487', 'military:0.1458', 'globalink:0.1446', 'prisoner:0.1434', 'odesa:0.1299', 'note:0.1262', 'agree:0.1075', 'confirm:0.0928', 'sailor:0.0835', 'possible:0.072', 'new:0.0446']+titles_keywords+['ukraine:0.4711', 'peace:0.3345', 'talks:0.2257', 'globalink:0.2004', 'round:0.1755']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/english.news.cn/Facts about RussiaUkraine conflict Two explosions occur in Russias Belgorod Region.txt+eventbasecode36+eventcode36+avgtone0.47547169811320755+goldsteinscale0.7+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.006578947368421052+news_keywords+['ukraine:0.4944', 'russiaukraine:0.434', 'evacuate:0.3846', 'gladkov:0.3731', 'zaporizhzhia:0.2829', 'operation:0.2726', 'occur:0.257', 'explosion:0.2548', 'casualty:0.2343', 'azovstal:0.2284', 'underway:0.2235', 'conflict:0.2223', 'civilian:0.2133', 'xinhua:0.2027', 'telegram:0.1875', 'belgorod:0.1847', 'report:0.1765', 'risk:0.1581', 'mitigate:0.1476', 'besiege:0.1447', 'stage:0.1414', 'footage:0.1275', 'area:0.1138', 'plant:0.1106', 'facts:0.1035', 'late:0.1026', 'damage:0.1', 'governor:0.0995', 'woman:0.091', 'flash:0.0795']+titles_keywords+['russiaukraine:0.4943', 'explosions:0.3557', 'occur:0.3391', 'belgorod:0.3294', 'conflict:0.2864']"
+        ]
+    ]
+}

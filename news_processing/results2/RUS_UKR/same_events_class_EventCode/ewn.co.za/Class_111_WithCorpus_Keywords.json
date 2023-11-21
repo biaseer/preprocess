@@ -1,0 +1,17 @@
+{
+    "AFR+RUS+111":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/ewn.co.za/War in Ukraine Latest developments.txt+eventbasecode111+eventcode111+avgtone0.47350230414746547+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5475', 'chernobyl:0.4437', 'putin:0.4189', 'ceasefire:0.4079', 'evacuate:0.3037', 'lavrov:0.265', 'military:0.2583', 'economy:0.2234', 'operation:0.2177', 'invasion:0.2171', 'hegemony:0.196', 'neutral:0.1762', 'prepared:0.1747', 'predict:0.1707', 'corridor:0.1703', 'report:0.169', 'world:0.1507', 'order:0.1494', 'rally:0.1475', 'progress:0.1449', 'source:0.1412', 'end:0.1409', 'respectively:0.1309', 'visit:0.1275', 'waste:0.1232', 'multipolar:0.1105', 'mootedturkey:0.0969', 'million:0.0942', 'year:0.0894', 'official:0.0861']+titles_keywords+['ukraine:0.5231', 'war:0.4432', 'developments:0.2854', 'latest:0.2414']"
+        ]
+    ],
+    "DEU+RUS+111":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/ewn.co.za/Macron and Putin to meet as volatility grows on Ukraine front lines.txt+eventbasecode111+eventcode111+avgtone0.46870838881491345+goldsteinscale0.4+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.09868421052631579+news_keywords+['putin:0.5071', 'nato:0.4293', 'kyiv:0.4059', 'macron:0.3906', 'ceasefire:0.3824', 'predict:0.2639', 'meeting:0.2532', 'journalist:0.2502', 'rhetoric:0.2424', 'imminent:0.2343', 'incursion:0.2222', 'timeframes:0.2186', 'visit:0.2185', 'concern:0.2166', 'information:0.1928', 'plan:0.19', 'write:0.1874', 'weekend:0.1858', 'french:0.1819', 'avert:0.1749', 'leave:0.17', 'world:0.1657', 'general:0.1563', 'fabricate:0.1178', 'false:0.1153', 'increase:0.1143', 'state:0.1028', 'metre:0.0998', 'stoltenberg:0.0912', 'price:0.0345']+titles_keywords+['macron:0.4234', 'meet:0.3123', 'ukraine:0.2842', 'lines:0.1745', 'volatility:0.1704']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/ewn.co.za/Western arms deliveries a threat to European security Kremlin.txt+eventbasecode111+eventcode111+avgtone0.4693396226415094+goldsteinscale0.4+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.013157894736842105+news_keywords+['ukraine:0.5214', 'nato:0.476', 'kremlin:0.3909', 'dmitry:0.3567', 'threat:0.3392', 'peskov:0.3192', 'firepower:0.2981', 'zelensky:0.2774', 'provoke:0.2719', 'weapon:0.256', 'instability:0.254', 'tank:0.244', 'volodymyr:0.2302', 'western:0.1997', 'arm:0.1889', 'push:0.1859', 'ally:0.1858', 'president:0.1817', 'delivery:0.1755', 'advance:0.1723', 'thursday:0.1584', 'plane:0.149', 'help:0.1411', 'respond:0.1297', 'spokesperson:0.1238', 'make:0.1088', 'include:0.1032', 'drawn:0.0645', 'spiral:0.0525', 'outright:0.0319']+titles_keywords+['kremlin:0.5393', 'threat:0.337', 'deliveries:0.2523', 'european:0.2476', 'arms:0.1777']"
+        ]
+    ]
+}

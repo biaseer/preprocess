@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/fox5dc.com/Russia pounds eastern Ukraine as West promises Kyiv more weapons.txt+eventbasecode111+eventcode111+avgtone0.48008130081300815+goldsteinscale0.4+nummentions0.08490566037735849+numarticles0.08556925308194344+numsources0.08881578947368421+news_keywords+['ukraine:0.5206', 'chernobyl:0.4583', 'kremlin:0.4501', 'nato:0.3981', 'airstrikes:0.3808', 'sergey:0.3422', 'erupt:0.3115', 'rhetoric:0.2618', 'pentagon:0.2534', 'warn:0.2517', 'separatist:0.2411', 'strategic:0.2351', 'petro:0.2334', 'journalist:0.2238', 'industrial:0.2219', 'provoking:0.2083', 'telegram:0.2023', 'know:0.2009', 'tank:0.1951', 'deliver:0.1948', 'breakup:0.1823', 'continue:0.1726', 'galvanize:0.1668', 'current:0.1566', 'nightmare:0.1469', 'th:0.1272', 'long:0.117', 'images:0.1117', 'sure:0.1015', 'billion:0.0873']+titles_keywords+['kyiv:0.4416', 'weapons:0.2658', 'eastern:0.1489', 'promises:0.1157', 'pounds:0.098']"
+        ]
+    ],
+    "RUS+WST+111":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/fox5dc.com/RussiaUkraine war Relentless bombing happening 24 hours a day in Mariupol Zelenskyy says.txt+eventbasecode111+eventcode111+avgtone0.47395833333333337+goldsteinscale0.4+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.019736842105263157+news_keywords+['kyiv:0.5615', 'kremlin:0.4402', 'demilitarization:0.3806', 'evacuate:0.3686', 'bombing:0.3654', 'natos:0.3643', 'blockade:0.3407', 'table:0.2394', 'prepare:0.2279', 'ongoing:0.2261', 'information:0.2211', 'march:0.2144', 'street:0.2136', 'extract:0.2126', 'north:0.2106', 'interrupt:0.2084', 'pipe:0.2069', 'report:0.2068', 'siren:0.1993', 'end:0.197', 'elaborate:0.1895', 'president:0.1881', 'say:0.1858', 'huddle:0.1795', 'satellite:0.1729', 'hour:0.165', 'reach:0.1519', 'associated:0.1498', 'worker:0.1354', 'send:0.1042']+titles_keywords+['bombing:0.5164', 'russiaukraine:0.489', 'zelenskyy:0.4177', '24:0.1674', 'says:0.1367']"
+        ]
+    ]
+}

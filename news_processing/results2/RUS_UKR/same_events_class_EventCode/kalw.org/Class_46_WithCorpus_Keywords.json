@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+46":[
+        [
+            "20220627+../news_crawling/RUS_UKR/p_articles/kalw.org/The war in Ukraine is looming large at a meeting of the G7 nations.txt+eventbasecode46+eventcode46+avgtone0.46808510638297873+goldsteinscale0.85+nummentions0.04499274310595065+numarticles0.04568527918781726+numsources0.049342105263157895+news_keywords+['ukraine:0.471', 'putin:0.4434', 'war:0.3884', 'economy:0.387', 'oligarch:0.3628', 'agenda:0.3397', 'meeting:0.2971', 'develop:0.2662', 'biden:0.2651', 'unilaterally:0.2483', 'global:0.2445', 'table:0.2438', 'pipeline:0.2378', 'aid:0.2352', 'sanction:0.2146', 'concern:0.2105', 'know:0.2049', 'term:0.2023', 'begin:0.1903', 'example:0.1891', 'shortly:0.1754', 'pull:0.1715', 'orbit:0.166', 'short:0.1471', 'include:0.1424', 'big:0.1372', 'deal:0.1292', 'return:0.1172', 'schmitz:0.11', 'byline:0.1056']+titles_keywords+['ukraine:0.4668', 'war:0.4667', 'meeting:0.373', 'looming:0.3084', 'g7:0.2508']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/kalw.org/Highlevel talks between Russia and Ukraine end with no breakthrough.txt+eventbasecode46+eventcode46+avgtone0.48406374501992033+goldsteinscale0.85+nummentions0.30043541364296084+numarticles0.29949238578680204+numsources0.33881578947368424+news_keywords+['kyiv:0.5068', 'diplomatic:0.3587', 'negotiation:0.3294', 'invade:0.2987', 'humanitarian:0.2886', 'lavrov:0.2817', 'turkey:0.2543', 'propaganda:0.2541', 'corridor:0.2022', 'president:0.2019', 'meet:0.1875', 'east:0.1875', 'end:0.186', 'cease:0.1843', 'plan:0.1833', 'highlevel:0.1656', 'report:0.1452', 'thursday:0.1408', 'dmytro:0.1342', 'destiny:0.134', 'temporary:0.1334', 'breakthroughs:0.1316', 'hour:0.1265', 'press:0.1222', 'far:0.1189', 'set:0.1161', 'like:0.1128', 'agree:0.1048', 'concentrate:0.0977', 'define:0.0769']+titles_keywords+['ukraine:0.3372', 'talks:0.2283', 'highlevel:0.2234', 'end:0.1714', 'breakthrough:0.152']"
+        ]
+    ]
+}

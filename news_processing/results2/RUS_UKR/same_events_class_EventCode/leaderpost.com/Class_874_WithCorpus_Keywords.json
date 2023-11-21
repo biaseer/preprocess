@@ -1,0 +1,12 @@
+{
+    "CAN+UKR+874":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/leaderpost.com/Canada pulls troops out of Ukraine in strong signal of imminent Russian invasion.txt+eventbasecode87+eventcode874+avgtone0.49801587301587297+goldsteinscale1.0+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4885', 'nato:0.4538', 'troop:0.3422', 'invasion:0.3122', 'war:0.3017', 'relocate:0.2872', 'trudeaus:0.2842', 'diplomatic:0.2544', 'armed:0.2472', 'zelenskyy:0.2385', 'regina:0.2367', 'repositioning:0.2155', 'border:0.206', 'remain:0.1924', 'instead:0.1834', 'training:0.1779', 'warn:0.168', 'update:0.1567', 'soon:0.1369', 'priority:0.1337', 'pull:0.1265', 'temporary:0.1232', 'headline:0.1224', 'notificationsyou:0.1179', 'main:0.1144', 'end:0.112', 'hour:0.0721', 'anand:0.06', 'welcome:0.0428', 'doesnt:0.0373']+titles_keywords+['ukraine:0.4321', 'invasion:0.2956', 'troops:0.2886', 'imminent:0.1623', 'pulls:0.1462']"
+        ]
+    ],
+    "RUS+UKR+874":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/leaderpost.com/Opinion How does Canada measure up in welcoming Ukrainians.txt+eventbasecode87+eventcode874+avgtone0.4940923737916219+goldsteinscale1.0+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.013157894736842105+news_keywords+['refugees:0.4937', 'ukrainians:0.4474', 'visas:0.4279', 'kyiv:0.4174', 'residency:0.3212', 'reunification:0.3178', 'provincial:0.3002', 'stay:0.2134', 'plan:0.2113', 'quota:0.1981', 'eus:0.1827', 'community:0.1807', 'assistance:0.1806', 'processing:0.1689', 'complication:0.1681', 'allows:0.168', 'headline:0.1492', 'care:0.1319', 'increase:0.1251', 'woman:0.125', 'information:0.125', 'lively:0.1244', 'soon:0.121', 'welcome:0.1176', 'thousand:0.1162', 'long:0.1145', 'end:0.1122', 'monthly:0.1121', 'emailvantipspostmedia:0.0869', 'unless:0.0586']+titles_keywords+['ukrainians:0.5329', 'canada:0.3675', 'welcoming:0.2543', 'opinion:0.0974', 'does:0.0687']"
+        ]
+    ]
+}

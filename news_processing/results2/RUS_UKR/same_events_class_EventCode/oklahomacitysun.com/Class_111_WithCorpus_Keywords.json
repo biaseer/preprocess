@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+111":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/oklahomacitysun.com/UK will work to ensure sovereignty independence of Ukraine PM.txt+eventbasecode111+eventcode111+avgtone0.48214285714285715+goldsteinscale0.4+nummentions0.16545718432510886+numarticles0.1660623640319072+numsources0.14802631578947367+news_keywords+['ukraine:0.5289', 'putin:0.4875', 'sanction:0.3188', 'zelenskyy:0.2914', 'independence:0.2878', 'negotiation:0.2772', 'news:0.2653', 'flag:0.2457', 'sputnik:0.2274', 'table:0.2229', 'cite:0.2063', 'biden:0.1906', 'isolate:0.1882', 'downing:0.1863', 'vtb:0.1818', 'friday:0.1803', 'introduce:0.1702', 'sit:0.1631', 'tweet:0.1569', 'long:0.1472', 'street:0.1388', 'global:0.1346', 'statement:0.1299', 'readout:0.1253', 'ensure:0.1245', 'freeze:0.1082', 'telephone:0.099', 'like:0.0846', 'ani:0.0836', 'restore:0.0233']+titles_keywords+['ukraine:0.4237', 'sovereignty:0.3631', 'independence:0.3362', 'work:0.1623', 'ensure:0.1342']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/oklahomacitysun.com/Russia launches military strikes on Ukraine warns West to stay away.txt+eventbasecode111+eventcode111+avgtone0.47696245733788395+goldsteinscale0.4+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5822368421052632+news_keywords+['nato:0.4181', 'diplomacy:0.3917', 'kremlin:0.3796', 'kyiv:0.361', 'militarize:0.3582', 'genocide:0.3385', 'cyberattack:0.3165', 'escalation:0.3019', 'reuters:0.2785', 'sanction:0.2684', 'unprovoked:0.2658', 'agreement:0.2554', 'respond:0.2485', 'president:0.2433', 'report:0.2404', 'emergency:0.2221', 'impending:0.2195', 'halt:0.215', 'table:0.2121', 'border:0.2', 'know:0.1989', 'act:0.1984', 'world:0.1743', 'like:0.1534', 'voa:0.1434', 'donbas:0.1343', 'state:0.1255', 'ready:0.1251', 'month:0.1018', 'stoltenberg:0.0839']+titles_keywords+['ukraine:0.3794', 'warns:0.2099', 'military:0.1762', 'strikes:0.1642', 'stay:0.1256']"
+        ]
+    ]
+}

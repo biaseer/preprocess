@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+42":[
+        [
+            "20220423+../news_crawling/RUS_UKR/p_articles/kvnf.org/2 US Cabinet officials will meet with Zelenskyy in Kyiv.txt+eventbasecode42+eventcode42+avgtone0.49596774193548393+goldsteinscale0.595+nummentions0.1320754716981132+numarticles0.13270485859318346+numsources0.14473684210526316+news_keywords+['zelenskyy:0.4045', 'ukraine:0.3942', 'pentagon:0.3498', 'biden:0.2974', 'meeting:0.2661', 'congress:0.2564', 'invasion:0.2485', 'visit:0.2424', 'secretary:0.2405', 'howitzers:0.2229', 'npr:0.2099', 'aid:0.1985', 'thursday:0.1771', 'general:0.1764', 'address:0.1702', 'push:0.1472', 'plan:0.1469', 'official:0.1384', 'lloyd:0.1369', 'state:0.133', 'guterres:0.1253', 'western:0.1244', 'say:0.1238', 'defense:0.1203', 'round:0.1114', 'fly:0.1108', 'begin:0.1083', 'kirby:0.0825', 'include:0.0771', 'billion:0.068']+titles_keywords+['zelenskyy:0.5118', 'kyiv:0.3254', 'meet:0.2462', 'officials:0.1645', 'cabinet:0.1232']"
+        ],
+        [
+            "20220707+../news_crawling/RUS_UKR/p_articles/kvnf.org/The Russian army appears close to taking the entire Donbas region.txt+eventbasecode42+eventcode42+avgtone0.5217391304347826+goldsteinscale0.595+nummentions0.07002902757619739+numarticles0.07070340826686004+numsources0.07894736842105263+news_keywords+['putin:0.4574', 'ukrainian:0.4563', 'donetsk:0.4103', 'conquer:0.3846', 'zelenskyy:0.3089', 'guerre:0.2919', 'donbas:0.2746', 'separatist:0.251', 'military:0.2416', 'liakh:0.2357', 'long:0.2217', 'objective:0.2172', 'weapon:0.2137', 'end:0.2068', 'ally:0.2053', 'help:0.2046', 'hear:0.2028', 'architecture:0.2028', 'order:0.1985', 'news:0.195', 'subjugating:0.1899', 'explain:0.1899', 'transcript:0.1799', 'boy:0.1654', 'pleased:0.1556', 'byline:0.1325', 'like:0.1318', 'despite:0.1316', 'ph:0.1311', 'tangible:0.1']+titles_keywords+['donbas:0.4268', 'russian:0.376', 'army:0.2818', 'entire:0.146', 'close:0.1215']"
+        ]
+    ]
+}

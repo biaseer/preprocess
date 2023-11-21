@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+50":[
+        [
+            "20220627+../news_crawling/RUS_UKR/p_articles/sputniknews.com/BRICS May Defuse Frozen Border Issues Between India and China Expert Says.txt+eventbasecode50+eventcode50+avgtone0.5+goldsteinscale0.675+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['brics:0.4398', 'geopolitical:0.4124', 'india:0.3296', 'nato:0.3254', 'diplomatic:0.2997', 'multilateral:0.2837', 'border:0.2754', 'centralism:0.2666', 'gdp:0.2309', 'kumar:0.2098', 'alignment:0.1881', 'current:0.1799', 'standoff:0.1776', 'nuance:0.1638', 'relation:0.1604', 'event:0.149', 'simultaneously:0.1427', 'interference:0.1345', 'realize:0.1295', 'increase:0.1247', 'binary:0.1153', 'empirically:0.0999', 'factor:0.0999', 'difference:0.0977', 'navigate:0.0954', 'convergence:0.0835', 'deal:0.0831', 'necessarily:0.0735', 'define:0.0501', 'enjoy:0.0495']+titles_keywords+['brics:0.3853', 'border:0.2858', 'frozen:0.128', 'issues:0.0882', 'says:0.0264']"
+        ]
+    ],
+    "RUS+UKR+50":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/sputniknews.com/US Gives Allies 391 Million to Replace Arms for Ukraine But Contractors Arent Ready to.txt+eventbasecode50+eventcode50+avgtone0.49693251533742333+goldsteinscale0.675+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nato:0.4724', 'missiles:0.3819', 'putin:0.3779', 'kievs:0.3655', 'war:0.3441', 'pentagon:0.3396', 'raytheon:0.3183', 'negotiation:0.3174', 'weapon:0.2522', 'tank:0.2361', 'replace:0.2175', 'make:0.2088', 'stock:0.1947', 'russo:0.1876', 'receive:0.1849', 'separatist:0.1822', 'promise:0.1721', 'advance:0.1705', 'million:0.1596', 'arent:0.1591', 'export:0.157', 'headline:0.1497', 'secretary:0.1449', 'strela:0.1253', 'interoperable:0.1202', 'months:0.1196', 'fmf:0.1188', 'ready:0.1155', 'martin:0.0962', 'largely:0.0897']+titles_keywords+['ukraine:0.3519', 'contractors:0.3404', 'make:0.188', 'replace:0.1817', 'arent:0.1331']"
+        ]
+    ]
+}

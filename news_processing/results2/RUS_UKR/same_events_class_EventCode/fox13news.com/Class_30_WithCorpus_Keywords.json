@@ -1,0 +1,12 @@
+{
+    "RUS+BLR+30":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/fox13news.com/Ukraine Invasion Russia claims to have knocked out Ukraine air defenses.txt+eventbasecode30+eventcode30+avgtone0.46875+goldsteinscale0.7+nummentions0.03701015965166909+numarticles0.03770848440899202+numsources0.029605263157894735+news_keywords+['ukraines:0.47', 'kyiv:0.432', 'putin:0.4253', 'invasion:0.3769', 'attack:0.3463', 'civilians:0.3241', 'airbases:0.3098', 'deploy:0.2986', 'artillery:0.2939', 'infrastructure:0.256', 'border:0.2533', 'volodymyrzelenskyy:0.2529', 'emergency:0.2478', 'alert:0.2196', 'read:0.1991', 'president:0.1919', 'report:0.1721', 'donbas:0.1702', 'suppress:0.1586', 'stay:0.1552', 'prelude:0.1508', 'thursday:0.1395', 'say:0.1358', 'televise:0.1279', 'unjustified:0.1238', 'state:0.1205', 'confirmthat:0.1133', 'new:0.1019', 'unit:0.0939', 'saw:0.0563']+titles_keywords+['ukraine:0.4469', 'invasion:0.2998', 'knocked:0.1687', 'defenses:0.1355', 'air:0.1193']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/fox13news.com/Bay Area bridges light up for Ukraine.txt+eventbasecode30+eventcode30+avgtone0.516826923076923+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['bridge:0.4054', 'causeway:0.4008', 'petersburg:0.367', 'sarasota:0.3375', 'bay:0.326', 'lighting:0.3162', 'fdot:0.2586', 'area:0.22', 'project:0.2129', 'yellow:0.2128', 'roadblock:0.2124', 'safety:0.197', 'morning:0.1953', 'russias:0.1937', 'toll:0.1918', 'counties:0.1738', 'sign:0.1554', 'mile:0.1549', 'bypass:0.1353', 'receive:0.1263', 'event:0.1263', 'dui:0.1176', 'underside:0.1153', 'click:0.115', 'post:0.093', 'little:0.0788', 'say:0.0701', 'enhance:0.0641', 'install:0.0615', 'agreeto:0.0528']+titles_keywords+['bridges:0.4223', 'ukraine:0.3692', 'bay:0.2664', 'light:0.2262', 'area:0.1313']"
+        ]
+    ]
+}

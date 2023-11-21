@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+120":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/sina.com/Russian forces hit 821 Ukrainian military infrastructure objects.txt+eventbasecode120+eventcode120+avgtone0.4778761061946903+goldsteinscale0.3+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.421', 'russian:0.3705', 'igor:0.3335', 'military:0.3194', 'missile:0.2824', 'combat:0.2575', 'infrastructure:0.2512', 'konashenkov:0.2439', 'destroy:0.238', 'hit:0.2379', 'plane:0.234', 'radar:0.209', 'armor:0.1961', 'tank:0.1901', 'vehicle:0.1863', 'object:0.1731', 'osa:0.1309', 'forces:0.1087', 'total:0.1042', 'multiple:0.0995', 'publish:0.0933', 'saturday:0.0899', 'anti:0.0895', 'point:0.0853', 'station:0.0852', 'control:0.0763', 'special:0.0454', 'center:0.0446', 'accord:0.0195', 'spokesman:0.0128']+titles_keywords+['ukrainian:0.3264', 'hit:0.2572', 'military:0.2478', 'objects:0.2255', '821:0.2019']"
+        ]
+    ],
+    "RUS+UKR+120":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/sina.com/Russian forces hit 975 Ukrainian military infrastructure objects.txt+eventbasecode120+eventcode120+avgtone0.5136986301369862+goldsteinscale0.3+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.0+news_keywords+['ukrainian:0.3839', 'igor:0.3565', 'russian:0.355', 'military:0.2967', 'destroy:0.2851', 'konashenkov:0.2818', 'infrastructure:0.2299', 'serviceman:0.2195', 'object:0.2188', 'hit:0.2108', 'armed:0.1897', 'force:0.157', 'forces:0.1496', 'detain:0.1209', 'paperwork:0.0951', 'family:0.0791', 'total:0.0597', 'defense:0.058', 'sent:0.0319', 'spokesman:0.0118', 'ministry:-0.002', 'sunday:-0.0036', 'say:-0.0072', 'add:-0.0264']+titles_keywords+['ukrainian:0.3297', 'hit:0.2608', 'military:0.2576', 'objects:0.226', '975:0.1217']"
+        ]
+    ]
+}

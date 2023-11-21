@@ -1,0 +1,12 @@
+{
+    "FRA+RUS+112":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/Russia a Noshow at Court Hearing on Ukraine Conflict.txt+eventbasecode112+eventcode112+avgtone0.45925925925925926+goldsteinscale0.4+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.019736842105263157+news_keywords+['ukraine:0.4748', 'treaty:0.4675', 'putins:0.3733', 'hague:0.3565', 'genocide:0.3432', 'refugee:0.3188', 'dispute:0.3039', 'law:0.3003', 'invade:0.2897', 'icj:0.2426', 'baseless:0.2228', 'repercussion:0.2057', 'investigate:0.2004', 'volodymyr:0.1947', 'world:0.1944', 'battlefield:0.1926', 'seat:0.176', 'urgently:0.1756', 'protect:0.162', 'long:0.1604', 'end:0.1519', 'hearing:0.1498', 'speaks:0.1454', 'noshow:0.1423', 'predicting:0.1381', 'provisional:0.1052', 'year:0.0815', 'allocate:0.074', 'weigh:0.0731', 'possible:0.0387']+titles_keywords+['ukraine:0.5136', 'court:0.3259', 'noshow:0.2573', 'conflict:0.2462', 'hearing:0.1488']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/Ukraine Says Russia Is Shelling Promised Humanitarian Evacuation Corridors.txt+eventbasecode112+eventcode112+avgtone0.47482014388489213+goldsteinscale0.4+nummentions0.05079825834542816+numarticles0.05148658448150834+numsources0.07894736842105263+news_keywords+['ukraine:0.4506', 'nato:0.4321', 'evacuation:0.4239', 'demilitarize:0.3937', 'war:0.3685', 'escalation:0.319', 'disinformation:0.3116', 'reuters:0.3045', 'diplomatic:0.2947', 'pentagon:0.2873', 'correspondent:0.2752', 'flee:0.2714', 'unprovoked:0.2683', 'underway:0.242', 'rzeszow:0.232', 'firefighters:0.2173', 'know:0.2159', 'telegram:0.2128', 'plan:0.2089', 'cite:0.2052', 'gatilov:0.1873', 'watch:0.1835', 'horrific:0.172', 'end:0.1508', 'greenfield:0.1398', 'voa:0.1371', 'scrape:0.1351', 'hour:0.1341', 'biden:0.1315', 'compare:0.1188']+titles_keywords+['ukraine:0.4694', 'evacuation:0.3859', 'corridors:0.2607', 'promised:0.0873', 'says:0.0234']"
+        ]
+    ]
+}

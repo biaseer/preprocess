@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+61":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/fwi.co.uk/Input and output costs hit new highs as Ukraine crisis deepens.txt+eventbasecode61+eventcode61+avgtone0.48721399730820997+goldsteinscale0.82+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4325', 'supply:0.3014', 'disruption:0.2919', 'crisis:0.284', 'input:0.2557', 'stock:0.2463', 'news:0.2424', 'farmers:0.2378', 'increase:0.2265', 'ahead:0.197', 'winter:0.1796', 'global:0.171', 'tragic:0.1527', 'chain:0.1514', 'soon:0.1512', 'soya:0.1512', 'load:0.1424', 'uncertain:0.141', 'export:0.1379', 'hull:0.134', 'jongh:0.1338', 'margin:0.1295', 'outlook:0.1287', 'plitre:0.1283', 'cost:0.1214', 'major:0.1207', 'explain:0.1154', 'end:0.1144', 'quote:0.1062', 'litre:0.0859']+titles_keywords+['costs:0.299', 'ukraine:0.2722', 'input:0.2646', 'highs:0.1629', 'crisis:0.1303']"
+        ],
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/fwi.co.uk/Black Sea grain export deal signed markets expected to fall further.txt+eventbasecode61+eventcode61+avgtone0.49621212121212127+goldsteinscale0.82+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['futures:0.3762', 'farmers:0.365', 'grain:0.3494', 'market:0.3472', 'ukraine:0.3261', 'feed:0.2801', 'infrastructure:0.266', 'increase:0.2324', 'sign:0.2314', 'barge:0.2311', 'talk:0.2259', 'agreement:0.2258', 'weather:0.225', 'slump:0.2203', 'downward:0.2153', 'expect:0.2068', 'month:0.2023', 'reaction:0.199', 'volatile:0.1973', 'implication:0.1929', 'issue:0.1887', 'general:0.1831', 'open:0.1754', 'low:0.175', 'wilcox:0.1589', 'export:0.1529', 'shoigu:0.1463', 'pm:0.1408', 'earlier:0.1395', 'cefetra:0.11']+titles_keywords+['grain:0.2756', 'deal:0.2347', 'export:0.1804', 'markets:0.1737', 'black:0.1388']"
+        ]
+    ]
+}

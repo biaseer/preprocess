@@ -1,0 +1,17 @@
+{
+    "DEU+RUS+120":[
+        [
+            "20220704+../news_crawling/RUS_UKR/p_articles/hngn.com/Germany Pushes Back Against Western Efforts To Cancel Out Russian Culture as Part of Sanctions.txt+eventbasecode120+eventcode120+avgtone0.47217068645640076+goldsteinscale0.3+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['putin:0.4515', 'dostoevsky:0.4151', 'sanctions:0.3762', 'culture:0.3725', 'ukrainians:0.3311', 'philharmonic:0.3181', 'cite:0.3056', 'nazi:0.3016', 'controversies:0.2987', 'boycott:0.2865', 'compose:0.274', 'rescind:0.2612', 'read:0.2467', 'allgemeine:0.2443', 'russo:0.2393', 'omit:0.2369', 'rt:0.2355', 'loznitsa:0.2189', 'report:0.2133', 'pursue:0.213', 'opposite:0.2081', 'example:0.2062', 'western:0.2015', 'judo:0.1798', 'pillory:0.1679', 'know:0.1646', 'general:0.1477', 'state:0.1292', 'great:0.0993', 'necessarily:0.0776']+titles_keywords+['sanctions:0.3541', 'russian:0.3149', 'germany:0.2977', 'culture:0.2203', 'cancel:0.1474']"
+        ]
+    ],
+    "EUR+UKR+120":[
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/hngn.com/Russia Ukraine War NATO Vows Support for Ukraine Ahead of Hard Winter Volodymyr Zelensky Sends.txt+eventbasecode120+eventcode120+avgtone0.4856175972927242+goldsteinscale0.3+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.5196', 'nato:0.4882', 'kremlin:0.4666', 'militarily:0.3703', 'war:0.3684', 'zelenskyy:0.3101', 'infrastructures:0.2832', 'political:0.2664', 'neutrality:0.2612', 'news:0.2605', 'incursion:0.2518', 'flag:0.2497', 'reinforce:0.2415', 'read:0.2124', 'organize:0.2046', 'celebrate:0.2038', 'aid:0.2022', 'takeover:0.2014', 'victim:0.1958', 'future:0.1947', 'term:0.1939', 'continue:0.1918', 'fears:0.1913', 'mention:0.19', 'pledge:0.1798', 'winter:0.1571', 'expected:0.1265', 'days:0.122', 'ready:0.1192', 'pad:0.0852']+titles_keywords+['zelensky:0.4798', 'nato:0.4202', 'putin:0.3879', 'winter:0.1747', 'warning:0.1612']"
+        ]
+    ],
+    "WST+RUS+120":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/hngn.com/Kyiv Threatens To Throw an Exemplary Tantrum if US Does Not Deliver MLRS Systems Capable.txt+eventbasecode120+eventcode120+avgtone0.4729965156794425+goldsteinscale0.3+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.01644736842105263+news_keywords+['kyiv:0.4673', 'nato:0.4076', 'kremlin:0.4074', 'provoke:0.3313', 'zelensky:0.2781', 'incursion:0.2715', 'presidency:0.2713', 'neutrality:0.271', 'missile:0.2584', 'hysteria:0.2212', 'agreement:0.2194', 'read:0.2072', 'promise:0.1982', 'want:0.193', 'worsen:0.192', 'combine:0.1827', 'stage:0.1782', 'donbas:0.1768', 'issue:0.1724', 'cancellation:0.1708', 'report:0.1657', 'rt:0.1636', 'long:0.1527', 'mlrs:0.1473', 'systems:0.1446', 'outline:0.1364', 'february:0.1263', 'does:0.1214', 'bythe:0.1056', 'comfortable:0.1029']+titles_keywords+['kyiv:0.51', 'tantrum:0.3134', 'mlrs:0.3006', 'threatens:0.2773', 'deliver:0.2151']"
+        ]
+    ]
+}

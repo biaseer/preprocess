@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+120":[
+        [
+            "20210628+../news_crawling/RUS_UKR/p_articles/taipeitimes.com/World News Quick Take.txt+eventbasecode120+eventcode120+avgtone0.4943181818181818+goldsteinscale0.3+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.04276315789473684+news_keywords+['covid:0.4843', 'immunization:0.443', 'flintstone:0.3688', 'russia:0.3131', 'astrazeneca:0.3086', 'peacekeeping:0.2955', 'news:0.2931', 'warning:0.2837', 'multinational:0.2704', 'improvement:0.2582', 'surge:0.2335', 'lawsuit:0.23', 'bioscience:0.2243', 'quota:0.2211', 'say:0.2174', 'despite:0.2133', 'initial:0.213', 'quick:0.205', 'dabba:0.1952', 'colorful:0.1949', 'spread:0.1921', 'date:0.1895', 'dos:0.1835', 'naftali:0.1823', 'wan:0.1717', 'fanciful:0.1702', 'relatively:0.1698', 'landscape:0.1551', 'house:0.1531', 'retire:0.1477']+titles_keywords+['news:0.5707', 'world:0.4787', 'quick:0.2784']"
+        ]
+    ],
+    "WST+RUS+120":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/taipeitimes.com/Ukraine braces for Severodonetsk fall awaits new arms.txt+eventbasecode120+eventcode120+avgtone0.489648033126294+goldsteinscale0.3+nummentions0.13425253991291727+numarticles0.1348803480783176+numsources0.11513157894736842+news_keywords+['ukraine:0.4854', 'nato:0.414', 'kremlin:0.4106', 'dmitry:0.3616', 'weaponry:0.315', 'troop:0.2732', 'fight:0.2534', 'brace:0.2396', 'advance:0.2338', 'telegram:0.2297', 'know:0.2236', 'turn:0.2165', 'ouster:0.2163', 'help:0.2075', 'table:0.2055', 'industrial:0.2008', 'president:0.1883', 'write:0.1868', 'peace:0.1857', 'severodonetsk:0.185', 'simultaneously:0.1796', 'long:0.1756', 'control:0.1738', 'fall:0.155', 'himars:0.1451', 'centrepiece:0.1396', 'precisely:0.1338', 'new:0.1221', 'sending:0.1109', 'include:0.0885']+titles_keywords+['braces:0.4158', 'ukraine:0.387', 'severodonetsk:0.3819', 'fall:0.2689', 'awaits:0.1781']"
+        ]
+    ]
+}

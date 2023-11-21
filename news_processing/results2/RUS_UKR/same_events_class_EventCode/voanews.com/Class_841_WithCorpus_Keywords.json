@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+841":[
+        [
+            "20220508+../news_crawling/RUS_UKR/p_articles/voanews.com/U2s Bono Gives Freedom Concert in Kyiv Metro.txt+eventbasecode84+eventcode841+avgtone0.5170454545454546+goldsteinscale0.85+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['bono:0.4701', 'kyiv:0.45', 'ukrainians:0.4068', 'edge:0.3383', 'zelenskyy:0.324', 'freedom:0.2857', 'rock:0.2706', 'frontman:0.2676', 'perform:0.2643', 'irish:0.2304', 'sky:0.2252', 'khreshchatyk:0.2047', 'president:0.2041', 'world:0.1962', 'lead:0.1912', 'crowd:0.1801', 'continue:0.18', 'right:0.1797', 'sirens:0.179', 'fight:0.178', 'praise:0.1761', 'military:0.1757', 'tell:0.1637', 'gives:0.16', 'evening:0.1555', 'th:0.1393', 'regularly:0.1362', 'cause:0.135', 'carry:0.1263', 'special:0.1239']+titles_keywords+['bono:0.4769', 'kyiv:0.4311', 'u2s:0.3811', 'concert:0.3537', 'freedom:0.3004']"
+        ],
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/voanews.com/Latest Developments in Ukraine August 24.txt+eventbasecode84+eventcode841+avgtone0.45364238410596036+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5428', 'kremlin:0.4243', 'nato:0.4089', 'reuters:0.3635', 'government:0.319', 'peaceful:0.2997', 'developments:0.2705', 'annexed:0.2629', 'iaea:0.2523', 'ahead:0.2356', 'frontline:0.2322', 'pipeline:0.2314', 'capital:0.2254', 'cite:0.2251', 'zelenskiyy:0.2145', 'know:0.2143', 'civilian:0.2084', 'adviser:0.2019', 'deliver:0.1926', 'precaution:0.1898', 'meltdown:0.1872', 'additional:0.1854', 'anniversary:0.1779', 'voas:0.1735', 'railway:0.1719', 'turn:0.1686', 'withdraw:0.1585', 'end:0.1521', 'agree:0.1436', 'like:0.1409']+titles_keywords+['ukraine:0.5572', 'developments:0.3314', 'latest:0.2318', 'august:0.2303', '24:0.1495']"
+        ]
+    ]
+}

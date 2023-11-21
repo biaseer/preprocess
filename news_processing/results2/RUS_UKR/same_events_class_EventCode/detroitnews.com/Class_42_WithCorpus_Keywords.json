@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+42":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/detroitnews.com/Russian war on Ukraine is causing Americans to rethink European travel.txt+eventbasecode42+eventcode42+avgtone0.48608837970540103+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4187', 'war:0.3849', 'travel:0.38', 'vacationer:0.2875', 'postpandemic:0.2564', 'globe:0.2415', 'concern:0.2356', 'vaccination:0.1857', 'impacted:0.1835', 'anticipate:0.1777', 'spring:0.1705', 'people:0.1662', 'airspace:0.1595', 'turn:0.1574', 'interconnectedness:0.1464', 'respondent:0.1442', 'feel:0.1441', 'remembering:0.1356', 'follow:0.1347', 'opposite:0.1346', 'point:0.117', 'lengthy:0.107', 'nearly:0.0869', 'major:0.0795', 'rise:0.0639', 'today:0.0614', 'percent:0.0518', 'mh:0.0518', 'wag:0.0351', 'definitely:0.0136']+titles_keywords+['ukraine:0.4267', 'travel:0.3621', 'war:0.3286', 'americans:0.2592', 'rethink:0.1367']"
+        ]
+    ],
+    "WST+RUS+42":[
+        [
+            "20220818+../news_crawling/RUS_UKR/p_articles/detroitnews.com/Russia deploys hypersonic missiles to its Baltic exclave.txt+eventbasecode42+eventcode42+avgtone0.5+goldsteinscale0.595+nummentions0.20391872278664733+numarticles0.20449601160261058+numsources0.23684210526315788+news_keywords+['natos:0.5023', 'missiles:0.4802', 'kremlin:0.4697', 'kaliningrads:0.4578', 'russia:0.4157', 'moscows:0.4139', 'baltic:0.3567', 'chkalovsk:0.3453', 'deploy:0.299', 'hypersonic:0.2818', 'airbase:0.2645', 'threaten:0.2599', 'strategic:0.2351', 'kilometer:0.2098', 'mig:0.2093', 'forefront:0.2028', 'nears:0.1904', 'target:0.1773', 'tension:0.1557', 'showcase:0.1301', 'thursday:0.1233', 'iskander:0.1195', 'precision:0.1175', 'state:0.1125', 'array:0.1015', 'bolster:0.0985', 'additional:0.0914', 'methodically:0.0752', 'video:0.0621', 'apparently:0.0403']+titles_keywords+['missiles:0.4153', 'hypersonic:0.4047', 'baltic:0.395', 'exclave:0.2125', 'deploys:0.1796']"
+        ]
+    ]
+}

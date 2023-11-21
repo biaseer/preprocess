@@ -1,0 +1,12 @@
+{
+    "UKR+EUR+20":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Russian forces close in on Ukraines capital as death toll mounts.txt+eventbasecode20+eventcode20+avgtone0.4854251012145749+goldsteinscale0.65+nummentions0.04172714078374456+numarticles0.04024655547498187+numsources0.0625+news_keywords+['ukraine:0.4832', 'putin:0.4509', 'invasion:0.3398', 'zelensky:0.2727', 'military:0.2566', 'ruble:0.2535', 'kill:0.2311', 'capital:0.229', 'alert:0.225', 'nuclear:0.2039', 'president:0.2024', 'volodymyr:0.2024', 'enter:0.2015', 'applaud:0.1863', 'continue:0.1651', 'plan:0.1605', 'coming:0.1589', 'extract:0.155', 'plunge:0.1529', 'monday:0.1522', 'satellite:0.1516', 'hour:0.1461', 'increase:0.1312', 'talks:0.1268', 'carry:0.119', 'fierce:0.0996', 'second:0.0976', 'child:0.0846', 'mount:0.0811', 'agree:0.0617']+titles_keywords+['ukraines:0.3787', 'capital:0.2486', 'toll:0.2001', 'close:0.1517', 'forces:0.0803']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/cbsnews.com/CIA reaches out to Russians opposed to war in Ukraine.txt+eventbasecode20+eventcode20+avgtone0.47916666666666674+goldsteinscale0.65+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.01644736842105263+news_keywords+['kremlin:0.5045', 'ukraine:0.4989', 'russians:0.4806', 'cia:0.4651', 'war:0.3341', 'invasion:0.3228', 'vpns:0.2359', 'oppose:0.2299', 'soldier:0.2263', 'news:0.2097', 'concerned:0.2078', 'sabotage:0.2033', 'report:0.1874', 'narrative:0.1853', 'text:0.1691', 'long:0.1577', 'censor:0.1482', 'elicit:0.1463', 'continue:0.1425', 'dark:0.1402', 'safely:0.1325', 'reputable:0.1284', 'order:0.1233', 'global:0.121', 'feel:0.1141', 'skyrocket:0.0981', 'way:0.0754', 'track:0.073', 'fissure:0.0618', 'includingyoutube:0.0365']+titles_keywords+['cia:0.4853', 'ukraine:0.3865', 'war:0.2081', 'opposed:0.1507', 'reaches:0.0514']"
+        ]
+    ]
+}

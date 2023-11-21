@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+40":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/falmouthpacket.co.uk/Putin puts Russias nuclear forces on alert amid invasion of Ukraine.txt+eventbasecode40+eventcode40+avgtone0.4775+goldsteinscale0.55+nummentions0.16944847605224964+numarticles0.1700507614213198+numsources0.5592105263157895+news_keywords+['putin:0.4915', 'kremlin:0.4537', 'nato:0.4269', 'kyiv:0.3906', 'russias:0.3665', 'invasion:0.338', 'nuclear:0.3132', 'zelensky:0.2978', 'engage:0.2513', 'negotiation:0.2403', 'prepare:0.2289', 'alert:0.2028', 'presidentvolodymyr:0.1962', 'infrastructure:0.1797', 'peace:0.1778', 'order:0.1672', 'unfriendly:0.1483', 'delegation:0.1403', 'increase:0.1317', 'weapon:0.1282', 'launch:0.1227', 'statement:0.1099', 'western:0.1097', 'issue:0.1069', 'arent:0.1009', 'make:0.0923', 'sphere:0.0793', 'reader:0.0695', 'send:0.0457', 'stag:0.0217']+titles_keywords+['putin:0.3605', 'nuclear:0.332', 'invasion:0.2151', 'alert:0.1236', 'puts:0.0318']"
+        ]
+    ],
+    "UKR+VAT+40":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/falmouthpacket.co.uk/Pope clearly condemns Russias repugnant war insists Vatican.txt+eventbasecode40+eventcode40+avgtone0.4640287769784173+goldsteinscale0.55+nummentions0.22496371552975328+numarticles0.22552574329224076+numsources0.33223684210526316+news_keywords+['pope:0.4447', 'orthodox:0.3889', 'war:0.366', 'kyiv:0.3644', 'russias:0.3593', 'condemn:0.3136', 'repugnant:0.3002', 'diplomat:0.2485', 'unequivocal:0.1903', 'debate:0.1748', 'privilege:0.1722', 'engage:0.1703', 'read:0.1677', 'insanity:0.1509', 'dmytro:0.1499', 'comment:0.1426', 'word:0.1419', 'view:0.1344', 'dramatic:0.1272', 'issue:0.124', 'insists:0.1174', 'holy:0.1121', 'apart:0.1069', 'significance:0.1066', 'withdraw:0.1025', 'summon:0.1', 'girl:0.0957', 'right:0.0869', 'dimension:0.0847', 'september:0.0648']+titles_keywords+['pope:0.4052', 'war:0.3106', 'repugnant:0.3086', 'russias:0.2814', 'clearly:0.1094']"
+        ]
+    ]
+}

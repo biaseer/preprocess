@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/thehindu.com/Letters to the EditorPremium.txt+eventbasecode12+eventcode12+avgtone0.4939759036144578+goldsteinscale0.48+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['rahul:0.5619', 'bajaj:0.5157', 'indians:0.4242', 'reliance:0.3787', 'economic:0.2955', 'initiative:0.2916', 'sovereignty:0.2802', 'russia:0.2675', 'world:0.2516', 'concern:0.2439', 'peace:0.2377', 'engage:0.2293', 'rtos:0.2234', 'rout:0.212', 'leds:0.1977', 'transform:0.1958', 'increasingly:0.1931', 'oncoming:0.1926', 'pandemic:0.1837', 'letters:0.1793', 'acumen:0.1783', 'right:0.1776', 'ophthalmologists:0.1749', 'make:0.1613', 'want:0.1529', 'beam:0.1443', 'far:0.1296', 'low:0.098', 'guide:0.0955', 'editorpremium:0.0656']+titles_keywords+['editorpremium:0.5421', 'letters:0.4176']"
+        ],
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/thehindu.com/Indian officials in Russian city waiting for pause in fighting for evacuation from Kharkiv.txt+eventbasecode12+eventcode12+avgtone0.4804964539007092+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4984', 'evacuate:0.4113', 'kharkiv:0.3343', 'embassy:0.2892', 'igor:0.2858', 'polikha:0.2782', 'coordinate:0.2563', 'bombardment:0.2313', 'operation:0.2272', 'informed:0.2263', 'conflict:0.2064', 'contact:0.2041', 'help:0.1856', 'safe:0.1792', 'civilian:0.1776', 'report:0.1695', 'vardhan:0.166', 'western:0.1655', 'receive:0.1592', 'route:0.1564', 'outbreak:0.1539', 'live:0.1413', 'km:0.1401', 'current:0.1374', 'additional:0.1367', 'write:0.1236', 'tragic:0.1191', 'long:0.1118', 'fact:0.1081', 'end:0.1052']+titles_keywords+['kharkiv:0.3872', 'evacuation:0.3225', 'waiting:0.2944', 'officials:0.2236', 'fighting:0.1784']"
+        ]
+    ]
+}

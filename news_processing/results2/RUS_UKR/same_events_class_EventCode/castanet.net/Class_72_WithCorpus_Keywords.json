@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+72":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/castanet.net/Ukraine Russia envoys talk under shadow of nuclear threat.txt+eventbasecode72+eventcode72+avgtone0.47321428571428575+goldsteinscale0.915+nummentions0.16110304789550073+numarticles0.16171138506163887+numsources0.17763157894736842+news_keywords+['ukraine:0.5055', 'kremlin:0.445', 'nato:0.3896', 'diplomatic:0.3665', 'war:0.3214', 'evacuate:0.313', 'escalation:0.2986', 'overthrow:0.2766', 'cyberattacks:0.2726', 'prepare:0.2552', 'president:0.2458', 'alert:0.2344', 'capital:0.228', 'terrify:0.2264', 'deploy:0.2207', 'table:0.2128', 'rhetoric:0.211', 'information:0.2023', 'agreement:0.2008', 'soon:0.2004', 'order:0.1961', 'authorize:0.1932', 'gurney:0.1825', 'ammunition:0.1636', 'discus:0.1629', 'huddle:0.161', 'begin:0.1581', 'replace:0.1497', 'study:0.1324', 'draw:0.1292']+titles_keywords+['ukraine:0.4015', 'nuclear:0.3082', 'threat:0.2665', 'envoys:0.252', 'talk:0.2228']"
+        ]
+    ],
+    "RUS+BLR+72":[
+        [
+            "20220119+../news_crawling/RUS_UKR/p_articles/castanet.net/Russia sending more troops to drills in Belarus near Ukraine border.txt+eventbasecode72+eventcode72+avgtone0.48601398601398604+goldsteinscale0.915+nummentions0.04753265602322206+numarticles0.048223350253807105+numsources0.07236842105263158+news_keywords+['belarus:0.4693', 'nato:0.4622', 'soviet:0.3593', 'troop:0.3422', 'deploy:0.325', 'lavrov:0.2786', 'attack:0.2362', 'tank:0.2241', 'drill:0.213', 'border:0.2067', 'psaki:0.1904', 'reserve:0.1902', 'concern:0.188', 'strengthen:0.1709', 'expect:0.1654', 'friday:0.1653', 'near:0.1476', 'send:0.1287', 'geneva:0.1167', 'note:0.1084', 'state:0.107', 'capability:0.104', 'meet:0.1025', 'resolve:0.0919', 'secretary:0.0876', 'external:0.0871', 'fully:0.0778', 'fomin:0.0695', 'series:0.0311', 'antony:0.0288']+titles_keywords+['belarus:0.4258', 'troops:0.3234', 'drills:0.3164', 'near:0.0858', 'sending:0.0837']"
+        ]
+    ]
+}

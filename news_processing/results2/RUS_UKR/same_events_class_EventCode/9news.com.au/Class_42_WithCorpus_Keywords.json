@@ -1,0 +1,12 @@
+{
+    "PRT+UKR+42":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/9news.com.au/Ukraine says Russian offensive in east gathering momentum.txt+eventbasecode42+eventcode42+avgtone0.46110271903323263+goldsteinscale0.595+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5098', 'kremlin:0.4041', 'airstrikes:0.3806', 'nato:0.33', 'counterattack:0.3116', 'briefing:0.3053', 'battleground:0.2965', 'occupy:0.2787', 'industrial:0.2578', 'rubble:0.253', 'east:0.2464', 'catastrophic:0.246', 'warn:0.2279', 'organisation:0.2278', 'trouble:0.2228', 'switch:0.2226', 'telegram:0.2201', 'blast:0.2098', 'sewer:0.2086', 'forget:0.1992', 'leverage:0.1871', 'stomach:0.1855', 'fall:0.182', 'bucha:0.1814', 'decompose:0.1739', 'galvanise:0.1644', 'addition:0.1447', 'evidence:0.1416', 'hour:0.1324', 'export:0.107']+titles_keywords+['ukraine:0.4075', 'momentum:0.3251', 'east:0.1909', 'offensive:0.1714', 'gathering:0.0895']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/9news.com.au/What we know about 64kmlong Russian convoy headed for Kyiv.txt+eventbasecode42+eventcode42+avgtone0.49400299850074963+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nato:0.4422', 'kyiv:0.4294', 'convoy:0.4281', 'russians:0.4146', 'belarus:0.4007', 'pentagon:0.3795', 'military:0.3395', 'tow:0.2462', 'weaponry:0.2407', 'tank:0.2274', 'operation:0.2237', 'logistical:0.2221', 'roads:0.2121', 'satellite:0.2068', 'kmlong:0.2006', 'order:0.1885', 'pripyat:0.1819', 'know:0.1788', 'reporter:0.1705', 'span:0.1599', 'north:0.142', 'brief:0.1369', 'increase:0.1325', 'make:0.1197', 'continue:0.1142', 'estimate:0.1117', 'array:0.0851', 'according:0.0803', 'time:0.0663', 'likely:0.0453']+titles_keywords+['convoy:0.4885', 'kyiv:0.4876', '64kmlong:0.2819', 'know:0.1893', 'headed:0.1128']"
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "EUR+UKR+51":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/i24news.tv/EU to cut 90 percent of Russian oil imports by end of year.txt+eventbasecode51+eventcode51+avgtone0.48198198198198194+goldsteinscale0.67+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.013157894736842105+news_keywords+['ukraine:0.4251', 'eu:0.3635', 'oil:0.3341', 'pipeline:0.2777', 'compromise:0.2545', 'ban:0.2418', 'union:0.2087', 'economy:0.2078', 'cut:0.1779', 'source:0.1516', 'package:0.1409', 'immediately:0.1408', 'export:0.1385', 'percent:0.1352', 'week:0.1275', 'end:0.1253', 'come:0.1224', 'crime:0.1156', 'extent:0.1152', 'exclude:0.1046', 'head:0.1005', 'von:0.0993', 'year:0.09', 'depend:0.0873', 'say:0.087', 'cover:0.0866', 'agree:0.0744', 'executive:0.0715', 'big:0.0675', 'sberbank:0.0633']+titles_keywords+['oil:0.3124', 'eu:0.2863', 'russian:0.2739', 'percent:0.2171', 'cut:0.2066']"
+        ]
+    ],
+    "RUS+DEU+51":[
+        [
+            "20220510+../news_crawling/RUS_UKR/p_articles/i24news.tv/Biden signs act to streamline aid to Ukraine.txt+eventbasecode51+eventcode51+avgtone0.48962655601659755+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4446', 'ukraine:0.4294', 'biden:0.3759', 'congress:0.2873', 'invasion:0.2526', 'funding:0.2508', 'coincide:0.2439', 'victory:0.2271', 'convince:0.2206', 'ally:0.2169', 'zelensky:0.2157', 'act:0.2098', 'help:0.2037', 'fight:0.1935', 'hasten:0.1829', 'power:0.1821', 'signing:0.1712', 'lease:0.1697', 'monday:0.1678', 'important:0.1441', 'covid:0.1434', 'attempt:0.1375', 'say:0.1373', 'right:0.1278', 'year:0.1198', 'billion:0.1147', 'directly:0.1133', 'lower:0.1017', 'pas:0.0924', 'streamline:0.0696']+titles_keywords+['biden:0.3879', 'ukraine:0.2938', 'aid:0.2782', 'act:0.169', 'streamline:0.1154']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220818+../news_crawling/RUS_UKR/p_articles/i24news.tv/Europe divided over banning Russian tourists.txt+eventbasecode51+eventcode51+avgtone0.4817415730337079+goldsteinscale0.67+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4222', 'kremlin:0.342', 'visa:0.3235', 'border:0.2832', 'tourist:0.2806', 'ban:0.2471', 'invade:0.2438', 'bloc:0.2126', 'volodymyr:0.1823', 'decide:0.1642', 'resist:0.1456', 'dissident:0.1444', 'turn:0.1438', 'come:0.1377', 'slash:0.1233', 'view:0.1222', 'demand:0.1124', 'world:0.1104', 'month:0.1097', 'issue:0.1066', 'limit:0.1038', 'emphasize:0.0947', 'number:0.0929', 'long:0.0878', 'agree:0.0874', 'harmful:0.0818', 'percent:0.0773', 'usual:0.0725', 'measure:0.0712', 'enjoy:0.0487']+titles_keywords+['russian:0.3271', 'tourists:0.3068', 'banning:0.282', 'europe:0.2702', 'divided:0.1931']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/i24news.tv/NATO deploys response units to bolster defenses.txt+eventbasecode51+eventcode51+avgtone0.515527950310559+goldsteinscale0.67+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nato:0.6163', 'putin:0.4394', 'kyiv:0.4357', 'troop:0.3446', 'deploying:0.3211', 'combat:0.2882', 'operation:0.2744', 'news:0.253', 'ally:0.2478', 'provide:0.2363', 'thursday:0.2153', 'stoltenberg:0.2109', 'meeting:0.2088', 'response:0.2042', 'follow:0.2016', 'element:0.2009', 'general:0.1999', 'commit:0.1915', 'bolster:0.1887', 'rhetoric:0.174', 'virtual:0.1692', 'type:0.1629', 'remove:0.1584', 'secretary:0.151', 'say:0.1504', 'ready:0.1503', 'send:0.1349', 'land:0.0919', 'rapid:0.0908', 'strongly:0.0617']+titles_keywords+['nato:0.5649', 'deploys:0.3514', 'defenses:0.2886', 'response:0.2622', 'units:0.2176']"
+        ]
+    ]
+}

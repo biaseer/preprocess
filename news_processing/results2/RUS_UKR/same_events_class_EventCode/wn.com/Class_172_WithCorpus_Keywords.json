@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+172":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/wn.com/Russia targets Zaporizhzhia region as Ukraines capital bans Independence Day festivities.txt+eventbasecode172+eventcode172+avgtone0.48611111111111105+goldsteinscale0.25+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.5706', 'kyiv:0.5577', 'ukraines:0.5262', 'soviet:0.4142', 'zaporizhzhia:0.3658', 'independence:0.2988', 'nuclear:0.2538', 'commemorate:0.2386', 'attack:0.2267', 'region:0.2239', 'capital:0.1934', 'artillery:0.1838', 'wednesday:0.1756', 'fight:0.171', 'day:0.1704', 'fear:0.1544', 'incident:0.1521', 'ahead:0.1455', 'ban:0.139', 'target:0.1301', 'say:0.1217', 'power:0.1177', 'plant:0.1141', 'raise:0.1033', 'near:0.0943', 'come:0.0724', 'large:0.0572', 'general:0.0506', 'air:0.0412', 'staff:0.0307']+titles_keywords+['zaporizhzhia:0.5005', 'ukraines:0.4588', 'independence:0.2362', 'capital:0.1905', 'festivities:0.1697']"
+        ]
+    ],
+    "UKR+RUS+172":[
+        [
+            "20220723+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine claims Russian shelling of Odesa despite grain agreement.txt+eventbasecode172+eventcode172+avgtone0.5094339622641509+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.4443', 'ukraine:0.4375', 'ukrainian:0.3943', 'russia:0.3437', 'russian:0.342', 'odesa:0.3186', 'grain:0.2306', 'missile:0.2221', 'shell:0.2035', 'ban:0.1787', 'agreement:0.1581', 'port:0.1515', 'export:0.1492', 'unleash:0.1358', 'sea:0.1276', 'despite:0.1262', 'claim:0.1136', 'reach:0.1064', 'day:0.0772', 'black:0.0734', 'saturday:0.0477']+titles_keywords+['ukraine:0.3909', 'odesa:0.3099', 'grain:0.2436', 'agreement:0.1604', 'claims:0.149']"
+        ]
+    ]
+}

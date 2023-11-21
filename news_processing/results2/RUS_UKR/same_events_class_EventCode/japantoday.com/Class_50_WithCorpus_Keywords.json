@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+50":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/japantoday.com/Putins endgame elusive as West tries to force Russia out of Ukraine.txt+eventbasecode50+eventcode50+avgtone0.4745845552297165+goldsteinscale0.675+nummentions0.25036284470246734+numarticles0.25090645395213923+numsources0.20065789473684212+news_keywords+['putin:0.5577', 'crimea:0.4837', 'russias:0.3989', 'regime:0.3554', 'political:0.3303', 'secessionist:0.3181', 'diplomat:0.3164', 'warmonger:0.3137', 'predict:0.2899', 'invade:0.2883', 'negotiations:0.2798', 'fukushima:0.2784', 'table:0.2641', 'achieve:0.2636', 'megalomania:0.2575', 'endgame:0.2554', 'narrative:0.2409', 'posturing:0.2373', 'trigger:0.2253', 'word:0.2055', 'long:0.2025', 'implication:0.2019', 'forget:0.1939', 'discus:0.1881', 'discontinuation:0.1806', 'sinister:0.1701', 'hi:0.1635', 'arent:0.1466', 'global:0.1446', 'ready:0.1404']+titles_keywords+['endgame:0.3996', 'putins:0.3757', 'elusive:0.2733', 'tries:0.157', 'force:0.115']"
+        ]
+    ],
+    "WST+UKR+50":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/japantoday.com/US offers no concessions in response to Russia on Ukraine.txt+eventbasecode50+eventcode50+avgtone0.4844632768361582+goldsteinscale0.675+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.019736842105263157+news_keywords+['ukraine:0.4834', 'kremlin:0.4387', 'nato:0.3964', 'war:0.3353', 'nationalist:0.3288', 'warmonger:0.2988', 'economy:0.2681', 'coup:0.2535', 'establish:0.2371', 'read:0.2366', 'table:0.2343', 'conclusion:0.2322', 'want:0.2308', 'know:0.208', 'unfolds:0.2034', 'react:0.199', 'distraction:0.1923', 'handle:0.1881', 'borka:0.1855', 'yrral:0.1758', 'modern:0.1733', 'biden:0.1579', 'gim:0.1577', 'example:0.1562', 'issue:0.1443', 'big:0.1278', 'speciallytailoredto:0.1232', 'oh:0.1179', 'onlinebank:0.0841', 'agree:0.0761']+titles_keywords+['ukraine:0.3349', 'concessions:0.2663', 'russia:0.2252', 'response:0.1775', 'offers:0.0819']"
+        ]
+    ]
+}

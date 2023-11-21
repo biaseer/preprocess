@@ -1,0 +1,20 @@
+{
+    "GBR+RUS+1123":[
+        [
+            "20220511+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Musk brags about resisting Russia.txt+eventbasecode112+eventcode1123+avgtone0.4797191887675507+goldsteinscale0.4+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['kremlin:0.4798', 'russian:0.4099', 'nato:0.3689', 'peskov:0.3521', 'cyberwar:0.3335', 'viasat:0.3262', 'donetsk:0.3251', 'disrupt:0.3108', 'musk:0.2649', 'nationalist:0.2603', 'unprovoked:0.2503', 'starlink:0.2425', 'news:0.2422', 'rogozin:0.2379', 'space:0.2305', 'breakaway:0.2195', 'provider:0.2114', 'cite:0.2047', 'allegation:0.2011', 'ka:0.1975', 'term:0.1858', 'agreement:0.1816', 'implement:0.1754', 'neutral:0.1753', 'upgrade:0.1628', 'follow:0.1508', 'secretary:0.1442', 'brag:0.1381', 'longer:0.1189', 'february:0.1103']+titles_keywords+['musk:0.4992', 'russia:0.3949', 'brags:0.327', 'resisting:0.2929']"
+        ]
+    ],
+    "RUS+UKR+1123":[
+        [
+            "20220402+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Zelenskyy refuses to discuss attack on fuel depot in Russias Belgorod.txt+eventbasecode112+eventcode1123+avgtone0.4705882352941177+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.009868421052631578+news_keywords+['zelenskyy:0.3946', 'ukraine:0.3931', 'airstrike:0.33', 'tank:0.2785', 'attack:0.2731', 'belgorod:0.2463', 'oil:0.2458', 'territory:0.2177', 'update:0.1988', 'ammunition:0.1984', 'accuse:0.198', 'president:0.1948', 'responding:0.1904', 'understand:0.1872', 'talk:0.1835', 'friday:0.1783', 'logistic:0.1744', 'depot:0.1696', 'ordered:0.1484', 'refuse:0.1395', 'shoot:0.13', 'near:0.1252', 'suggest:0.0984', 'chain:0.0983', 'intelligence:0.0941', 'share:0.0912', 'strain:0.0839', 'sorry:0.0833', 'mount:0.0684', 'ani:0.0494']+titles_keywords+['zelenskyy:0.5079', 'belgorod:0.2724', 'refuses:0.2679', 'fuel:0.2316', 'attack:0.2125']"
+        ]
+    ],
+    "UKR+RUS+1123":[
+        [
+            "20220724+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Ukraines President Zelenskyy accuses Russia of violating deals.txt+eventbasecode112+eventcode1123+avgtone0.49169741697416974+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.42', 'zelenskyy:0.3384', 'chernomorsk:0.318', 'agreement:0.2911', 'ankara:0.2656', 'violate:0.2482', 'accuse:0.248', 'strike:0.2444', 'worry:0.2257', 'issue:0.214', 'president:0.2057', 'missile:0.2055', 'xinhua:0.201', 'infrastructure:0.1902', 'auspices:0.1897', 'happen:0.1773', 'contact:0.1717', 'law:0.1714', 'port:0.1524', 'terminates:0.1509', 'reprehensible:0.1431', 'coordination:0.138', 'like:0.1103', 'extend:0.1097', 'today:0.0981', 'fertilizer:0.0961', 'million:0.0892', 'andrii:0.0762', 'farhan:0.0744', 'exporter:0.0391']+titles_keywords+['zelenskyy:0.5778', 'ukraines:0.3824', 'violating:0.2004', 'president:0.1493', 'deals:0.107']"
+        ],
+        [
+            "20220822+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Swiss politician slammed for stance on Ukraine.txt+eventbasecode112+eventcode1123+avgtone0.4774066797642436+goldsteinscale0.4+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.003289473684210526+news_keywords+['ceasefire:0.4089', 'switzerland:0.3789', 'kremlin:0.3727', 'minsk:0.3332', 'propaganda:0.331', 'journalist:0.3134', 'parliamentary:0.294', 'christoph:0.2914', 'blocher:0.2894', 'poroshenko:0.2567', 'sonntagszeitung:0.2537', 'protocol:0.239', 'aggressor:0.2328', 'history:0.2321', 'piece:0.2243', 'cite:0.2187', 'departmentprovoked:0.2077', 'situation:0.2077', 'ignore:0.2057', 'accuse:0.2042', 'neutral:0.2011', 'sofa:0.1879', 'declare:0.1871', 'participate:0.1672', 'according:0.162', 'bregy:0.159', 'distort:0.1525', 'buy:0.1417', 'undiplomatic:0.1394', 'true:0.0759']+titles_keywords+['swiss:0.3468', 'ukraine:0.3182', 'politician:0.2911', 'stance:0.2023', 'slammed:0.0832']"
+        ]
+    ]
+}

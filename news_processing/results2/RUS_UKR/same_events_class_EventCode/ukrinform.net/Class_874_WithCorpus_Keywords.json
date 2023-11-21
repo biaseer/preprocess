@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Russian paratroopers redeployed to eastern Ukraine from Kaliningrad region.txt+eventbasecode87+eventcode874+avgtone0.4710610932475884+goldsteinscale1.0+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['infantry:0.4577', 'redeployment:0.4483', 'belarus:0.4136', 'chernyakhovsk:0.3824', 'donetsk:0.3812', 'kaliningrad:0.3729', 'war:0.3227', 'operation:0.3021', 'casualty:0.2556', 'assault:0.2532', 'tank:0.2491', 'liberate:0.2423', 'occupier:0.2267', 'humanitarian:0.2263', 'general:0.2176', 'abandon:0.2123', 'personnel:0.2075', 'border:0.2062', 'plane:0.1931', 'withdraw:0.1845', 'radiation:0.1818', 'report:0.1731', 'eastern:0.1575', 'fact:0.1488', 'th:0.147', 'achieve:0.1431', 'rd:0.1431', 'april:0.1371', 'numerous:0.1288', 'having:0.109']+titles_keywords+['paratroopers:0.5238', 'kaliningrad:0.3715', 'redeployed:0.3515', 'russian:0.3441', 'eastern:0.1533']"
+        ]
+    ],
+    "UKR+RUS+874":[
+        [
+            "20210928+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Reznikov Other countries should be involved in Normandy format.txt+eventbasecode87+eventcode874+avgtone0.5+goldsteinscale1.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['normandy:0.5321', 'osce:0.3916', 'ukraine:0.3859', 'troop:0.3394', 'territory:0.3173', 'war:0.3005', 'reznikov:0.2927', 'memorandum:0.2851', 'ukrinform:0.2185', 'correspondent:0.2173', 'trilateral:0.2127', 'ictv:0.2074', 'involve:0.1953', 'states:0.1826', 'result:0.1692', 'liberate:0.1684', 'acceptable:0.1594', 'format:0.142', 'partner:0.1335', 'member:0.1298', 'stated:0.1183', 'speech:0.1181', 'issue:0.1156', 'contrary:0.1124', 'explain:0.1096', 'prime:0.1094', 'narrow:0.1018', 'possible:0.0989', 'united:0.096', 'recently:0.0569']+titles_keywords+['normandy:0.4579', 'reznikov:0.4551', 'countries:0.3252', 'involved:0.1916', 'format:0.1302']"
+        ]
+    ]
+}

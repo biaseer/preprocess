@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+60":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/indiatimes.com/2 US veterans from Alabama reported missing in Ukraine.txt+eventbasecode60+eventcode60+avgtone0.4858490566037736+goldsteinscale0.8+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['ukraine:0.5132', 'veteran:0.3877', 'war:0.3559', 'invasion:0.3467', 'separatist:0.2968', 'enlist:0.296', 'government:0.2701', 'know:0.2121', 'ngoc:0.2069', 'report:0.205', 'miss:0.1972', 'fight:0.191', 'concern:0.1892', 'geneva:0.1887', 'delegation:0.1886', 'turn:0.1865', 'alex:0.1795', 'contact:0.1718', 'hear:0.1694', 'cite:0.1649', 'robotics:0.1648', 'huynh:0.1577', 'shortly:0.1502', 'learn:0.1474', 'expect:0.1467', 'forced:0.1391', 'northeastern:0.136', 'death:0.134', 'according:0.1079', 'possible:0.0809']+titles_keywords+['veterans:0.4207', 'missing:0.3179', 'ukraine:0.2684', 'alabama:0.2265', 'reported:0.0805']"
+        ]
+    ],
+    "UKR+RUS+60":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Russia says captures Black Sea island south of Odessa.txt+eventbasecode60+eventcode60+avgtone0.48333333333333334+goldsteinscale0.8+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.003289473684210526+news_keywords+['odessa:0.4427', 'russia:0.4033', 'moscow:0.3999', 'russian:0.3997', 'ukrainian:0.3935', 'zmiinyi:0.3909', 'island:0.3073', 'surrender:0.2805', 'deploy:0.2803', 'warship:0.2553', 'sea:0.2512', 'border:0.2277', 'kill:0.1915', 'capture:0.1867', 'south:0.1744', 'black:0.1652', 'arm:0.1629', 'soldier:0.1473', 'port:0.1451', 'friday:0.1325', 'city:0.1204', 'guard:0.0962', 'official:0.0698', 'say:0.0552', 'defence:0.0487', 'force:0.0256', 'ministry:0.0167']+titles_keywords+['odessa:0.4', 'island:0.284', 'russia:0.2598', 'black:0.1517', 'captures:0.1388']"
+        ]
+    ]
+}

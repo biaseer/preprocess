@@ -1,0 +1,12 @@
+{
+    "CAN+UKR+42":[
+        [
+            "20220725+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict Pope Francis says he has great desire to visit Kyiv.txt+eventbasecode42+eventcode42+avgtone0.48457583547557836+goldsteinscale0.595+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.0+news_keywords+['ukraine:0.4708', 'putin:0.4104', 'ceasefire:0.3976', 'war:0.381', 'vatican:0.3641', 'peace:0.3105', 'moscows:0.3042', 'embassy:0.2988', 'invasion:0.2979', 'visit:0.2892', 'involvement:0.2658', 'zelenskyy:0.2516', 'pontiff:0.2144', 'condemn:0.2107', 'shelter:0.1921', 'continue:0.1824', 'reporter:0.1822', 'isolate:0.1773', 'speaking:0.1753', 'event:0.1706', 'want:0.1577', 'people:0.1515', 'tweet:0.1419', 'issue:0.1378', 'hop:0.135', 'long:0.1046', 'way:0.0955', 'tragic:0.0879', 'week:0.0852', 'wag:0.0641']+titles_keywords+['kyiv:0.4712', 'pope:0.3519', 'visit:0.2385', 'conflict:0.2048', 'great:0.0694']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict Ukraine accuses Russia of using nuclear plant to fire rockets killing 13.txt+eventbasecode42+eventcode42+avgtone0.4767441860465116+goldsteinscale0.595+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4802', 'nato:0.4051', 'war:0.351', 'demilitarize:0.3154', 'nuclear:0.2988', 'zelenskyy:0.2951', 'dnipropetrovsk:0.2785', 'respond:0.2372', 'disaster:0.2189', 'help:0.2047', 'iaea:0.1904', 'order:0.1888', 'expansion:0.1877', 'accuse:0.1876', 'knowledge:0.1872', 'plant:0.1708', 'watchdog:0.1697', 'say:0.1663', 'occupier:0.1592', 'remain:0.1551', 'control:0.1533', 'town:0.1373', 'corner:0.1306', 'shorten:0.1152', 'include:0.1136', 'possible:0.0855', 'hanhui:0.0842', 'underline:0.083', 'today:0.0826', 'publicly:0.0761']+titles_keywords+['ukraine:0.4524', 'nuclear:0.3547', 'conflict:0.2179', 'accuses:0.2082', '13:0.1781']"
+        ]
+    ]
+}

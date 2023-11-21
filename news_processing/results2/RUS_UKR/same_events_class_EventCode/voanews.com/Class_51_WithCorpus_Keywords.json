@@ -1,0 +1,15 @@
+{
+    "CHN+RUS+51":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/voanews.com/Premier Li Offers Chinas Help for Grave Ukraine Situation.txt+eventbasecode51+eventcode51+avgtone0.4883040935672514+goldsteinscale0.67+nummentions0.061683599419448475+numarticles0.06236403190717912+numsources0.08223684210526316+news_keywords+['ukraine:0.4166', 'beijing:0.3613', 'keqiang:0.2782', 'humanitarian:0.2628', 'sovereignty:0.2482', 'sanction:0.23', 'economy:0.2239', 'role:0.2227', 'disinformation:0.2226', 'crisis:0.219', 'peace:0.2107', 'reporter:0.2099', 'oppose:0.2032', 'li:0.2019', 'help:0.1988', 'neutral:0.1893', 'leader:0.1844', 'world:0.1761', 'continue:0.1721', 'speak:0.1452', 'come:0.1381', 'trade:0.1279', 'include:0.111', 'second:0.097', 'legitimate:0.0941', 'maintain:0.0865', 'largely:0.0865', 'week:0.0782', 'basis:0.0647', 'rubber:0.0514']+titles_keywords+['li:0.326', 'ukraine:0.2989', 'chinas:0.2618', 'help:0.1736', 'offers:0.0327']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220829+../news_crawling/RUS_UKR/p_articles/voanews.com/Ukraine Counteroffensive Underway in Southern Region Russia Seized Early in War.txt+eventbasecode51+eventcode51+avgtone0.4802043422733078+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.488', 'demilitarize:0.3548', 'nuclear:0.276', 'troop:0.275', 'underway:0.2714', 'conflict:0.268', 'firing:0.2671', 'government:0.2649', 'takeover:0.2573', 'separatist:0.2558', 'strategy:0.2522', 'armament:0.2475', 'know:0.2428', 'agreement:0.2207', 'iaea:0.22', 'capital:0.2011', 'adviser:0.1983', 'protocol:0.1887', 'kurtev:0.1801', 'term:0.1763', 'counteroffensive:0.1757', 'direction:0.1728', 'return:0.1724', 'end:0.1709', 'evaluate:0.1632', 'accuse:0.1557', 'znpp:0.1339', 'focus:0.1175', 'dozen:0.1118', 'swathe:0.1075']+titles_keywords+['ukraine:0.4909', 'war:0.3223', 'seized:0.2057', 'underway:0.1878', 'counteroffensive:0.1638']"
+        ]
+    ],
+    "UKR+UKR+51":[
+        []
+    ]
+}

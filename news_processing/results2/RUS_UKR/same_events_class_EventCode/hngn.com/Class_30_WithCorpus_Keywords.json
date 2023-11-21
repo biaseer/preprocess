@@ -1,0 +1,12 @@
+{
+    "RUS+BLR+30":[
+        [
+            "20220417+../news_crawling/RUS_UKR/p_articles/hngn.com/Militant British National Captured in Mariupol Claims That ProUkraine Soldiers Abandoned Civilian Welfare as the.txt+eventbasecode30+eventcode30+avgtone0.4589877835951135+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5171', 'kremlin:0.433', 'putinordered:0.3914', 'propaganda:0.3791', 'war:0.3557', 'kurds:0.3327', 'troop:0.3264', 'incursion:0.3036', 'zelenskywants:0.2858', 'militant:0.2831', 'stormed:0.2636', 'besiege:0.262', 'ordeal:0.2541', 'subject:0.2375', 'telegraph:0.234', 'leave:0.231', 'donbas:0.2305', 'contradicts:0.2289', 'neutral:0.2195', 'trap:0.2193', 'criminal:0.1959', 'proukraine:0.1863', 'realize:0.1809', 'fix:0.1753', 'port:0.164', 'notedhi:0.1603', 'opt:0.145', 'area:0.1439', 'good:0.1438', 'major:0.1392']+titles_keywords+['militant:0.3297', 'russians:0.293', 'proukraine:0.2919', 'abandoned:0.2594', 'port:0.1497']"
+        ]
+    ],
+    "RUS+RUS+30":[
+        [
+            "20220121+../news_crawling/RUS_UKR/p_articles/hngn.com/Brussels Feel Pressured as the Kremlin Turns the Screws On in Ukraine Border Panicking the.txt+eventbasecode30+eventcode30+avgtone0.4812286689419796+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['nato:0.471', 'invade:0.4182', 'kremlin:0.3906', 'kyiv:0.3448', 'border:0.3151', 'conflict:0.2879', 'europeans:0.2768', 'briefing:0.2739', 'approach:0.258', 'statesmanship:0.2511', 'propaganda:0.2398', 'bloc:0.2336', 'warns:0.2323', 'panicking:0.2292', 'predict:0.228', 'prompt:0.2209', 'shortly:0.2205', 'agreement:0.2167', 'occur:0.209', 'order:0.2046', 'sanction:0.1967', 'come:0.1932', 'plan:0.1928', 'read:0.1906', 'biden:0.1852', 'authorize:0.1646', 'react:0.1558', 'unclear:0.1541', 'citedbbc:0.1172', 'share:0.061']+titles_keywords+['kremlin:0.46', 'brussels:0.3633', 'pressured:0.3618', 'border:0.2887', 'screws:0.2424']"
+        ]
+    ]
+}

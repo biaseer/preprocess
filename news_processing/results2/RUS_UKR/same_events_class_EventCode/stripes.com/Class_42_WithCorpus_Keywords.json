@@ -1,0 +1,16 @@
+{
+    "EUR+UKR+42":[
+        []
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/stripes.com/Russian ship sinks after battling a fire that Ukrainian forces claim was caused by their.txt+eventbasecode42+eventcode42+avgtone0.4790996784565917+goldsteinscale0.595+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['crimea:0.4796', 'russias:0.3414', 'war:0.3369', 'admiral:0.3075', 'pentagon:0.2955', 'news:0.2624', 'azov:0.2549', 'missile:0.2423', 'evacuated:0.2342', 'hull:0.2122', 'know:0.2006', 'port:0.1933', 'impact:0.1916', 'term:0.1812', 'undergo:0.1781', 'attribute:0.1744', 'sink:0.1728', 'medal:0.1689', 'report:0.1685', 'long:0.1579', 'tow:0.1558', 'feb:0.1454', 'ascertain:0.1448', 'stability:0.1401', 'anonymity:0.1367', 'exchange:0.1311', 'nearly:0.1276', 'later:0.1181', 'sure:0.1104', 'black:0.0999']+titles_keywords+['russian:0.3296', 'sinks:0.2229', 'ship:0.2007', 'caused:0.0752', 'battling:0.0677']"
+        ]
+    ],
+    "UKR+RUS+42":[
+        []
+    ],
+    "WST+RUS+42":[
+        []
+    ]
+}

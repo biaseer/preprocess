@@ -1,0 +1,7 @@
+{
+    "RUS+UKR+17":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/cnn.com/March 19 2022 RussiaUkraine news.txt+eventbasecode17+eventcode17+avgtone0.48253968253968255+goldsteinscale0.5+nummentions0.0330188679245283+numarticles0.02719361856417694+numsources0.049342105263157895+news_keywords+['ukraine:0.5244', 'putin:0.4735', 'geopolitical:0.3858', 'revolution:0.3734', 'evacuation:0.3532', 'propaganda:0.3508', 'oligarchs:0.3482', 'putrov:0.309', 'ballet:0.2932', 'zelensky:0.2751', 'ofdatsishin:0.236', 'frighten:0.2332', 'officialsconfirmed:0.2322', 'know:0.226', 'attackand:0.2198', 'act:0.2178', 'acknowledge:0.2024', 'soldier:0.2011', 'fight:0.1996', 'soon:0.1958', 'order:0.1748', 'dead:0.1724', 'th:0.169', 'feb:0.162', 'improve:0.1512', 'preliminary:0.1508', 'long:0.14', 'saidmariupolwill:0.1329', 'yeung:0.1185', 'beautiful:0.0915']+titles_keywords+['russiaukraine:0.5496', '2022:0.5055', 'march:0.349', 'news:0.3402', '19:0.2196']"
+        ]
+    ]
+}

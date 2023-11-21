@@ -1,0 +1,17 @@
+{
+    "DEU+RUS+46":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/sott.net/Most Germans want talks with Russia poll.txt+eventbasecode46+eventcode46+avgtone0.4979338842975206+goldsteinscale0.85+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4305', 'putin:0.3688', 'german:0.2518', 'talk:0.251', 'negotiation:0.2494', 'initiate:0.1998', 'want:0.1802', 'oppose:0.1526', 'indicate:0.1514', 'president:0.1493', 'believe:0.1422', 'respondent:0.1383', 'people:0.1226', 'end:0.1185', 'alternative:0.1089', 'august:0.1068', 'party:0.1016', 'press:0.1002', 'west:0.0959', 'rtlntv:0.0903', 'current:0.0773', 'weaponry:0.0752', 'look:0.0741', 'majority:0.0733', 'right:0.0692', 'sabine:0.0379', 'trendbarometer:0.0345', 'sorge:0.0294', 'particularly:0.0229', 'welcome:-0.0168']+titles_keywords+['russia:0.3875', 'germans:0.3733', 'talks:0.3071', 'poll:0.2451', 'want:0.1616']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220719+../news_crawling/RUS_UKR/p_articles/sott.net/So adorable Kiev names condition for peace talks with Moscow.txt+eventbasecode46+eventcode46+avgtone0.5396825396825397+goldsteinscale0.85+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.009868421052631578+news_keywords+['ukraine:0.4602', 'kremlin:0.408', 'war:0.3894', 'dmitry:0.3514', 'communicate:0.3355', 'negotiator:0.3166', 'argue:0.2629', 'table:0.2516', 'newsgetty:0.2396', 'outcome:0.2375', 'president:0.2276', 'prolongation:0.2176', 'delegation:0.21', 'agreement:0.2077', 'selensky:0.2021', 'continue:0.1937', 'aggressive:0.1907', 'refer:0.1903', 'ally:0.1779', 'soon:0.1771', 'explain:0.1751', 'unfold:0.1739', 'discus:0.1576', 'sit:0.1471', 'images:0.1413', 'draft:0.133', 'counteroffensive:0.108', 'possibility:0.104', 'noted:0.1027', 'adorable:0.0882']+titles_keywords+['kiev:0.5572', 'peace:0.3919', 'names:0.3253', 'adorable:0.2447', 'condition:0.0966']"
+        ]
+    ],
+    "WST+UKR+46":[
+        [
+            "20210610+../news_crawling/RUS_UKR/p_articles/sott.net/50 of Ukrainians who oppose NATO are smart knowing theyd be used by US as.txt+eventbasecode46+eventcode46+avgtone0.48744769874476984+goldsteinscale0.85+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['nato:0.5225', 'ukrainians:0.4661', 'kremlin:0.4304', 'kiev:0.4295', 'vladimir:0.388', 'zelensky:0.2935', 'bloc:0.2632', 'oppose:0.2336', 'join:0.2175', 'writeup:0.2113', 'know:0.2048', 'cooperation:0.1965', 'president:0.1962', 'danger:0.1918', 'border:0.1762', 'news:0.1759', 'skeptical:0.1634', 'make:0.1553', 'formal:0.1491', 'smart:0.1463', 'theyd:0.1455', 'speak:0.1452', 'mischaracterized:0.1421', 'statement:0.1379', 'immediately:0.1307', 'fodder:0.1294', 'axios:0.127', 'state:0.1225', 'step:0.1225', 'welcome:0.0739']+titles_keywords+['nato:0.5033', 'ukrainians:0.4923', 'smart:0.2738', 'oppose:0.2061', '50:0.1937']"
+        ]
+    ]
+}

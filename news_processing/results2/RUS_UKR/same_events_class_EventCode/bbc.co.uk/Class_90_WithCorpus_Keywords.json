@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+90":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine Putin tells Russias spy chief to speak plainly.txt+eventbasecode90+eventcode90+avgtone0.49509803921568624+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.5277', 'putin:0.504', 'vladimir:0.3998', 'russias:0.3997', 'spy:0.3355', 'invasion:0.2999', 'deploy:0.2635', 'troop:0.2593', 'region:0.2371', 'breakaway:0.2196', 'clarify:0.2012', 'rebel:0.1833', 'speak:0.16', 'tell:0.1448', 'chief:0.1422', 'clear:0.1359', 'foreign:0.1327', 'order:0.1244', 'meet:0.1126', 'begin:0.1087', 'eastern:0.0945', 'hold:0.088', 'press:0.0862', 'current:0.0835', 'situation:0.0814', 'head:0.0783', 'view:0.0722', 'official:0.0666', 'repeatedly:0.047', 'share:0.0337']+titles_keywords+['putin:0.4667', 'spy:0.253', 'speak:0.2495', 'plainly:0.2382', 'chief:0.1411']"
+        ]
+    ],
+    "RUS+UKR+90":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine Crisis Fleeing under the cover of darkness.txt+eventbasecode90+eventcode90+avgtone0.47115384615384615+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.5069', 'russia:0.3952', 'fleeing:0.3844', 'poland:0.3406', 'border:0.284', 'leave:0.2721', 'people:0.242', 'country:0.2409', 'safety:0.2232', 'darkness:0.2231', 'crisis:0.2103', 'attack:0.205', 'cover:0.1917', 'procession:0.1793', 'situation:0.1776', 'mile:0.1355', 'km:0.1308', 'car:0.1271', 'thousand:0.119', 'intensify:0.1043', 'bbc:0.101', 'search:0.0744', 'saw:0.0582', 'observe:0.0409', 'keane:0.0168', 'fergal:-0.02', 'constant:-0.0642']+titles_keywords+['fleeing:0.5156', 'ukraine:0.4666', 'darkness:0.3897', 'crisis:0.3221', 'cover:0.2339']"
+        ]
+    ],
+    "SLE+RUS+90":[
+        [
+            "20220802+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine war First grain ship out of Ukraine cleared to sail to Lebanon.txt+eventbasecode90+eventcode90+avgtone0.4963235294117647+goldsteinscale0.4+nummentions0.015239477503628448+numarticles0.01595358955765047+numsources0.006578947368421052+news_keywords+['ukraine:0.4868', 'blockade:0.4066', 'war:0.4022', 'negotiation:0.3041', 'humanitarian:0.2889', 'tripoli:0.2825', 'maritime:0.2727', 'zelensky:0.2323', 'grain:0.2298', 'shortage:0.2291', 'cargo:0.2201', 'ongoing:0.2067', 'president:0.2033', 'clear:0.1811', 'inspection:0.1729', 'authorise:0.1699', 'coordination:0.1691', 'information:0.1661', 'safely:0.1656', 'resume:0.1617', 'export:0.1554', 'corridor:0.1537', 'jcc:0.15', 'sow:0.1416', 'month:0.1411', 'complete:0.1382', 'official:0.1268', 'leave:0.112', 'intensifying:0.094', 'hoped:0.0386']+titles_keywords+['ukraine:0.4298', 'ship:0.3125', 'grain:0.2432', 'war:0.243', 'cleared:0.1789']"
+        ]
+    ]
+}

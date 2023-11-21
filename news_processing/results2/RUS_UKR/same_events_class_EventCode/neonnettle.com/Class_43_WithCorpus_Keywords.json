@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+43":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/neonnettle.com/140000 Ukrainians Return to Homeland to Join Military Fight Russia.txt+eventbasecode43+eventcode43+avgtone0.484573502722323+goldsteinscale0.64+nummentions0.009071117561683599+numarticles0.009789702683103698+numsources0.013157894736842105+news_keywords+['ukraine:0.4949', 'ceasefires:0.4869', 'kremlin:0.3982', 'therussianinvasion:0.3882', 'military:0.3397', 'invasion:0.3274', 'reznikov:0.2812', 'prepare:0.2729', 'battleground:0.2696', 'tank:0.2415', 'fled:0.2278', 'join:0.2172', 'news:0.2101', 'return:0.2056', 'turn:0.2004', 'crowd:0.194', 'unarmed:0.1934', 'order:0.1932', 'stock:0.1714', 'main:0.1622', 'monday:0.148', 'uvji:0.1458', 'coordinator:0.1457', 'write:0.1439', 'clarify:0.1438', 'men:0.1401', 'send:0.1117', 'similar:0.1104', 'child:0.0995', 'despite:0.0817']+titles_keywords+['ukrainians:0.5321', '140000:0.3115', 'military:0.3027', 'fight:0.1828', 'return:0.1716']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/neonnettle.com/Heroic Ukrainian Fighter Pilot Gives Hope after Taking Out 6 Russian Warplanes.txt+eventbasecode43+eventcode43+avgtone0.495+goldsteinscale0.64+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.4792', 'pilot:0.343', 'ghost:0.3272', 'putins:0.3252', 'zaluzhnyi:0.2916', 'unprovoked:0.2804', 'ace:0.2546', 'dogfight:0.252', 'mig:0.2485', 'warplanes:0.2445', 'heroic:0.2299', 'story:0.1985', 'european:0.1918', 'reportedly:0.1668', 'exist:0.165', 'morale:0.1582', 'destroy:0.1581', 'report:0.1573', 'true:0.1488', 'nickname:0.1275', 'urshm:0.1158', 'world:0.1121', 'century:0.1094', 'fknj:0.1056', 'facebook:0.1044', 'aside:0.1042', 'way:0.1015', 'thursday:0.0968', 'pic:0.0936', 'confirmed:0.0548']+titles_keywords+['ukrainian:0.4005', 'warplanes:0.2831', 'fighter:0.27', 'heroic:0.2584', 'hope:0.2134']"
+        ]
+    ]
+}

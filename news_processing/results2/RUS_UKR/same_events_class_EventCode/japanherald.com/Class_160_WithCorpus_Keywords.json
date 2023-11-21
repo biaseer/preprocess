@@ -1,0 +1,17 @@
+{
+    "JPN+RUS+160":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/japanherald.com/Japan to ban luxury goods exports to Russia next week.txt+eventbasecode160+eventcode160+avgtone0.4856321839080459+goldsteinscale0.3+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.019736842105263157+news_keywords+['russia:0.4567', 'sanction:0.3751', 'tokyo:0.3088', 'treaty:0.2964', 'economic:0.2571', 'correspond:0.2474', 'announce:0.2473', 'hayashi:0.2333', 'export:0.221', 'avoid:0.2196', 'halt:0.2169', 'president:0.2035', 'prepare:0.1962', 'withdraw:0.1871', 'list:0.1829', 'order:0.1798', 'anisputnik:0.1702', 'term:0.1614', 'activity:0.1567', 'dominance:0.1535', 'current:0.1505', 'western:0.1476', 'good:0.142', 'unfriendly:0.1239', 'week:0.1138', 'step:0.1077', 'kurils:0.1074', 'measure:0.1069', 'cryptoassets:0.1049', 'entire:0.0682']+titles_keywords+['japan:0.3129', 'exports:0.281', 'ban:0.1903', 'luxury:0.1685', 'week:0.0732']"
+        ]
+    ],
+    "KOR+RUS+160":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/japanherald.com/South Korea bans export of strategic materials to Russia.txt+eventbasecode160+eventcode160+avgtone0.4886877828054299+goldsteinscale0.3+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.019736842105263157+news_keywords+['ukraine:0.4265', 'demilitarization:0.371', 'sanction:0.3621', 'seoul:0.3171', 'military:0.2478', 'export:0.2415', 'strategic:0.2364', 'danger:0.2355', 'border:0.2124', 'restriction:0.2035', 'government:0.1988', 'international:0.1923', 'procedure:0.187', 'industry:0.1727', 'delegations:0.166', 'anisputnik:0.1555', 'subject:0.1378', 'space:0.1371', 'item:0.1334', 'material:0.1302', 'strengthen:0.121', 'donbas:0.1192', 'include:0.1187', 'sensor:0.1099', 'expect:0.1095', 'hold:0.1065', 'follow:0.0834', 'non:0.0821', 'say:0.0814', 'thursday:0.0649']+titles_keywords+['korea:0.3619', 'export:0.297', 'bans:0.2059', 'materials:0.1623', 'strategic:0.1426']"
+        ]
+    ],
+    "RUS+UKR+160":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/japanherald.com/Spotify suspends all operations in Russia amid countrys attack on Ukraine.txt+eventbasecode160+eventcode160+avgtone0.48046875+goldsteinscale0.3+nummentions0.030478955007256895+numarticles0.03118201595358956+numsources0.03289473684210526+news_keywords+['spotify:0.4493', 'russia:0.3663', 'subscription:0.2736', 'region:0.216', 'sputnik:0.2146', 'stockholm:0.2002', 'military:0.1982', 'news:0.1891', 'suspend:0.1774', 'stream:0.1721', 'audio:0.1613', 'operational:0.1495', 'legislation:0.1428', 'month:0.1419', 'platform:0.1419', 'disable:0.1316', 'statement:0.1278', 'current:0.1207', 'rt:0.1152', 'indefinitely:0.1133', 'discoverability:0.1049', 'state:0.0846', 'continue:0.0816', 'earlier:0.0795', 'important:0.0674', 'unfortunately:0.067', 'join:0.0633', 'variety:0.0583', 'amid:0.0435', 'ani:0.0405']+titles_keywords+['spotify:0.4328', 'ukraine:0.3135', 'suspends:0.1922', 'attack:0.0521', 'amid:0.021']"
+        ]
+    ]
+}

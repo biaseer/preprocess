@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+51":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/atalayar.com/EU27 agree partial embargo on Russian oil.txt+eventbasecode51+eventcode51+avgtone0.4927685950413223+goldsteinscale0.67+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.013157894736842105+news_keywords+['ukraine:0.457', 'embargo:0.4256', 'oil:0.3785', 'negotiation:0.2881', 'pipeline:0.2768', 'agreement:0.2406', 'political:0.2327', 'renewables:0.2182', 'euro:0.218', 'repowereu:0.218', 'involvement:0.2051', 'viktor:0.1985', 'reinforce:0.1967', 'talk:0.1826', 'issue:0.181', 'unreliability:0.1684', 'mechanism:0.1646', 'reduce:0.1618', 'comuvovi:0.1578', 'diversifying:0.1524', 'source:0.1513', 'soon:0.1496', 'forward:0.142', 'begin:0.1365', 'seventh:0.1309', 'colonel:0.1082', 'send:0.106', 'bzl:0.104', 'orbn:0.0876', 'partial:0.0798']+titles_keywords+['embargo:0.4051', 'oil:0.318', 'russian:0.2778', 'eu27:0.2633', 'partial:0.1323']"
+        ]
+    ],
+    "RUS+RUS+51":[
+        [
+            "20220113+../news_crawling/RUS_UKR/p_articles/atalayar.com/New Cold War between Russia and NATO.txt+eventbasecode51+eventcode51+avgtone0.4846938775510205+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['nato:0.4792', 'crimea:0.4452', 'geopolitical:0.4117', 'treaty:0.3697', 'yanukovych:0.3619', 'euromaidan:0.2886', 'extend:0.2318', 'organisation:0.2217', 'industrialise:0.2084', 'rapprochement:0.2018', 'veto:0.2016', 'bloc:0.1963', 'disintegration:0.1826', 'talk:0.1779', 'chessboard:0.1771', 'agreement:0.1753', 'prompt:0.1679', 'east:0.1679', 'know:0.1626', 'resumption:0.1525', 'event:0.1432', 'current:0.1422', 'uncomfortable:0.1409', 'general:0.1376', 'long:0.1289', 'ready:0.1267', 'state:0.1263', 'implication:0.1093', 'minor:0.0995', 'imbalance:0.0794']+titles_keywords+['nato:0.632', 'russia:0.3724', 'war:0.3721', 'cold:0.2216', 'new:0.1689']"
+        ]
+    ]
+}

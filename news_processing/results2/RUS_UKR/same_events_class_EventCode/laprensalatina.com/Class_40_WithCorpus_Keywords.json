@@ -1,0 +1,22 @@
+{
+    "CAN+UKR+40":[
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Ukraine pushes for tougher sanctions as Russian airstrikes hit Kyiv.txt+eventbasecode40+eventcode40+avgtone0.4782608695652174+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.5509', 'airstrikes:0.424', 'russias:0.4202', 'yurii:0.2511', 'ban:0.2404', 'news:0.2355', 'armed:0.2332', 'missile:0.2328', 'slap:0.2308', 'economy:0.2259', 'airspace:0.2119', 'agenda:0.2096', 'gold:0.2017', 'range:0.178', 'ukrinform:0.1653', 'dmytro:0.1564', 'say:0.156', 'command:0.153', 'tweet:0.1524', 'enter:0.1521', 'efe:0.1498', 'gather:0.1431', 'dominating:0.1413', 'saturday:0.1204', 'kh:0.1167', 'raft:0.1151', 'ihnat:0.1102', 'biden:0.109', 'according:0.0904', 'tougher:0.0797']+titles_keywords+['kyiv:0.4062', 'sanctions:0.3728', 'airstrikes:0.2868', 'tougher:0.1534', 'hit:0.1413']"
+        ]
+    ],
+    "CZE+RUS+40":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/EU president top diplomat to visit Kyiv this week.txt+eventbasecode40+eventcode40+avgtone0.4834123222748815+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5483', 'ukraines:0.461', 'kremlin:0.3878', 'diplomat:0.3372', 'eu:0.3273', 'zelenskyy:0.3032', 'visit:0.2798', 'invade:0.264', 'president:0.2372', 'volodymyr:0.2249', 'event:0.2163', 'troop:0.2022', 'meet:0.2016', 'borrell:0.1736', 'report:0.1734', 'efe:0.1725', 'commission:0.1639', 'prompt:0.1628', 'bucha:0.1604', 'sanction:0.1602', 'locate:0.1602', 'bloc:0.1463', 'josep:0.1328', 'harrowing:0.1286', 'pledging:0.1249', 'twitter:0.1108', 'february:0.091', 'der:0.0814', 'ursula:0.0741', 'late:0.0731']+titles_keywords+['kyiv:0.4691', 'diplomat:0.3747', 'eu:0.2506', 'visit:0.2042', 'week:0.0749']"
+        ]
+    ],
+    "RUS+RUS+40":[
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/AU leader meets Putin says Africa an economic victim of Ukraine war.txt+eventbasecode40+eventcode40+avgtone0.4646153846153846+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4547', 'africa:0.3905', 'russias:0.3589', 'blockade:0.3435', 'kyiv:0.2881', 'war:0.2727', 'sanction:0.2618', 'threaten:0.2573', 'humanitarian:0.2568', 'economic:0.2566', 'misinformation:0.2298', 'crisis:0.2287', 'meeting:0.1953', 'facilitate:0.1844', 'fertilizer:0.168', 'efe:0.1557', 'list:0.1526', 'isolate:0.1482', 'global:0.1441', 'commission:0.1323', 'export:0.132', 'instead:0.1312', 'trade:0.1305', 'sector:0.1288', 'end:0.1286', 'clear:0.1276', 'amid:0.1252', 'claim:0.1202', 'make:0.1017', 'agree:0.0536']+titles_keywords+['putin:0.428', 'au:0.2977', 'victim:0.2355', 'economic:0.2014', 'says:0.0946']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Putin hints at nuclear action Russian forces repelled from Kharkiv.txt+eventbasecode40+eventcode40+avgtone0.47964169381107497+goldsteinscale0.55+nummentions0.16944847605224964+numarticles0.1700507614213198+numsources0.5592105263157895+news_keywords+['putin:0.5029', 'kyiv:0.4647', 'natos:0.4367', 'ceasefire:0.4036', 'belarussian:0.4032', 'invading:0.3662', 'escalation:0.3262', 'nuclear:0.2835', 'enter:0.2513', 'armed:0.2336', 'alert:0.2169', 'reality:0.2073', 'read:0.2068', 'pripyat:0.2053', 'order:0.202', 'adviser:0.1904', 'bloc:0.1872', 'precondition:0.1794', 'positional:0.1729', 'discus:0.1702', 'banking:0.1614', 'world:0.1576', 'thursday:0.157', 'resist:0.1511', 'general:0.1464', 'long:0.1448', 'disconnecting:0.1325', 'sixteen:0.1172', 'tighten:0.1129', 'agree:0.101']+titles_keywords+['putin:0.4356', 'kharkiv:0.3799', 'nuclear:0.343', 'action:0.2117', 'forces:0.1654']"
+        ]
+    ]
+}

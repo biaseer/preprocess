@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+193":[
+        [
+            "20220822+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Russian missiles rain on Ukraine Zelensky warns of more serious attacks.txt+eventbasecode193+eventcode193+avgtone0.4789156626506024+goldsteinscale0.0+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['ukraine:0.5182', 'putin:0.4933', 'vladimir:0.4182', 'erdogan:0.4011', 'zelensky:0.3467', 'invade:0.333', 'nationalist:0.311', 'threat:0.3014', 'podolyak:0.2847', 'nuclear:0.2674', 'independence:0.2592', 'investigate:0.2463', 'ahead:0.2364', 'artillery:0.2193', 'publish:0.1969', 'talk:0.1937', 'speculate:0.1877', 'secretary:0.1866', 'celebrate:0.1812', 'thursday:0.1712', 'captured:0.1567', 'word:0.1465', 'rain:0.1415', 'ready:0.1396', 'like:0.1388', 'ap:0.122', 'make:0.1218', 'port:0.1083', 'possible:0.0868', 'times:0.0868']+titles_keywords+['zelensky:0.513', 'missiles:0.4171', 'ukraine:0.3173', 'warns:0.2332', 'rain:0.1525']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220512+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Ukraine to hold first war crimes trial as Moscow says Kyiv shelled Russian city.txt+eventbasecode193+eventcode193+avgtone0.437974683544304+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.538', 'russia:0.402', 'civilians:0.3858', 'war:0.3716', 'gladkov:0.3514', 'invasion:0.3194', 'crime:0.3074', 'reuters:0.2689', 'kill:0.2355', 'border:0.228', 'report:0.2215', 'flee:0.2155', 'prosecutor:0.2121', 'accuse:0.2094', 'belgorod:0.2059', 'torture:0.1997', 'indiscriminate:0.1789', 'begin:0.174', 'helicopter:0.1643', 'commit:0.1564', 'april:0.1418', 'shelling:0.1412', 'rights:0.1386', 'displace:0.1369', 'dozen:0.1289', 'spark:0.106', 'nearly:0.0968', 'grow:0.0945', 'receive:0.0932', 'focus:0.0861']+titles_keywords+['kyiv:0.4936', 'trial:0.2552', 'war:0.1608', 'shelled:0.0475', 'says:0.0246']"
+        ]
+    ]
+}

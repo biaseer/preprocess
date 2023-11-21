@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+181":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukrainian military captures Buk missile system abandoned by Russians.txt+eventbasecode181+eventcode181+avgtone0.4966216216216216+goldsteinscale0.05+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.5168', 'russians:0.4887', 'missile:0.4473', 'putin:0.4396', 'vladimir:0.4368', 'military:0.4021', 'artillery:0.3828', 'invasion:0.3766', 'buk:0.3337', 'armed:0.3245', 'rocket:0.2975', 'destroy:0.2897', 'infrastructure:0.2716', 'command:0.2385', 'capture:0.2335', 'ukrinform:0.2181', 'fascist:0.207', 'president:0.196', 'report:0.1769', 'order:0.1689', 'fully:0.1682', 'resistance:0.1531', 'february:0.1523', 'special:0.1518', 'town:0.1391', 'search:0.1324', 'continue:0.1241', 'multiple:0.1185', 'scale:0.0879', 'thank:0.0752']+titles_keywords+['buk:0.3625', 'russians:0.3296', 'missile:0.3194', 'abandoned:0.2611', 'captures:0.1398']"
+        ],
+        [
+            "20220624+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Russian offensive operations likely to stall in coming weeks ISW.txt+eventbasecode181+eventcode181+avgtone0.4723404255319149+goldsteinscale0.05+nummentions0.04825834542815675+numarticles0.048948513415518494+numsources0.16776315789473684+news_keywords+['ukrainian:0.3952', 'operation:0.2876', 'troop:0.2764', 'sievierodonetsk:0.2579', 'victory:0.2553', 'correspondent:0.2296', 'ideological:0.2262', 'siege:0.226', 'campaign:0.2248', 'advance:0.2239', 'kremlins:0.2108', 'azovstal:0.2072', 'assault:0.2069', 'june:0.1864', 'substantial:0.182', 'future:0.1734', 'week:0.1669', 'stall:0.1558', 'terrain:0.1516', 'focus:0.1485', 'counteroffensive:0.1484', 'reminder:0.1314', 'estimate:0.131', 'cross:0.1205', 'prudent:0.1178', 'rai:0.1013', 'donets:0.0869', 'come:0.0796', 'draw:0.0616', 'likely:0.0237']+titles_keywords+['russian:0.2794', 'weeks:0.255', 'stall:0.2508', 'isw:0.2101', 'coming:0.1031']"
+        ]
+    ]
+}

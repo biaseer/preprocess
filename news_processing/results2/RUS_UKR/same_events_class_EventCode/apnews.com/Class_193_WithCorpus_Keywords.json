@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+193":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/apnews.com/Ukraine thwarts Russian advances fight rages for Mariupol.txt+eventbasecode193+eventcode193+avgtone0.4696714406065712+goldsteinscale0.0+nummentions0.14622641509433962+numarticles0.14394488759970994+numsources0.39144736842105265+news_keywords+['kyiv:0.5132', 'pravda:0.3806', 'airstrikes:0.3788', 'putins:0.3752', 'blockade:0.3002', 'occupy:0.2795', 'escalation:0.2695', 'troop:0.2565', 'strategic:0.2379', 'progress:0.2316', 'leave:0.2041', 'forward:0.1995', 'hear:0.194', 'anna:0.1895', 'cite:0.1882', 'long:0.1865', 'end:0.1856', 'neutral:0.1839', 'unprepared:0.1808', 'pentagons:0.1759', 'bucha:0.173', 'surround:0.1713', 'nearly:0.1711', 'weather:0.1618', 'world:0.1536', 'stretch:0.1497', 'regain:0.1465', 'badly:0.1385', 'toll:0.1333', 'totsen:0.1091']+titles_keywords+['ukraine:0.495', 'fight:0.3995', 'mariupol:0.3448', 'thwarts:0.2043', 'advances:0.1217']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220729+../news_crawling/RUS_UKR/p_articles/apnews.com/Russia Ukraine trade blame for deadly attack on POW prison.txt+eventbasecode193+eventcode193+avgtone0.4538745387453874+goldsteinscale0.0+nummentions0.06966618287373004+numarticles0.07034082668600435+numsources0.05921052631578947+news_keywords+['ukraine:0.491', 'war:0.3624', 'kill:0.2982', 'provocation:0.2933', 'invaded:0.2907', 'evacuate:0.2884', 'zelenskyy:0.282', 'captives:0.2774', 'separatist:0.2752', 'agreement:0.2447', 'soldier:0.2374', 'know:0.2331', 'criminal:0.2316', 'report:0.2295', 'cite:0.2114', 'barrage:0.2061', 'intercept:0.2028', 'industrial:0.201', 'presidential:0.1956', 'bloody:0.1946', 'soon:0.1744', 'wire:0.171', 'begin:0.1618', 'town:0.1535', 'day:0.151', 'monthslong:0.1478', 'trade:0.142', 'scores:0.1347', 'ria:0.1165', 'array:0.1102']+titles_keywords+['ukraine:0.4155', 'blame:0.3163', 'prison:0.1851', 'trade:0.1779', 'pow:0.1323']"
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "GBR+RUS+20":[
+        [
+            "20210906+../news_crawling/RUS_UKR/p_articles/burnhamandhighbridgeweeklynews.co.uk/Influence operation by proRussian trolls infiltrate comments on UK news sites.txt+eventbasecode20+eventcode20+avgtone0.48881239242685026+goldsteinscale0.65+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kremlin:0.5521', 'propaganda:0.5335', 'crimea:0.4114', 'ru:0.3555', 'government:0.355', 'infiltrate:0.3318', 'prorussian:0.3314', 'threat:0.3274', 'inauthenticity:0.3188', 'headline:0.3142', 'influence:0.3014', 'researcher:0.2977', 'troll:0.2975', 'analytics:0.295', 'twitter:0.2888', 'platform:0.2809', 'translate:0.2803', 'sentiment:0.2786', 'personas:0.2687', 'report:0.2598', 'operation:0.2564', 'anti:0.2385', 'use:0.2374', 'british:0.2324', 'originate:0.23', 'amplify:0.2245', 'coordinate:0.1991', 'times:0.1685', 'lively:0.1618', 'peddle:0.1196']+titles_keywords+['trolls:0.4944', 'prorussian:0.3186', 'infiltrate:0.2925', 'uk:0.2295', 'news:0.2096']"
+        ]
+    ],
+    "RUS+RUS+20":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/burnhamandhighbridgeweeklynews.co.uk/PM denies intervening to secure peerage for Evgeny Lebedev.txt+eventbasecode20+eventcode20+avgtone0.4950576606260297+goldsteinscale0.65+nummentions0.0841799709724238+numarticles0.08484408992023205+numsources0.18421052631578946+news_keywords+['putin:0.5319', 'peerage:0.449', 'kgb:0.4129', 'lebedev:0.4004', 'evgeny:0.3849', 'parliamentary:0.3638', 'boris:0.3491', 'regime:0.3281', 'privilege:0.284', 'allegation:0.2585', 'agenda:0.2318', 'labours:0.2262', 'bbc:0.2173', 'mr:0.2033', 'risk:0.2023', 'intervene:0.2023', 'secretary:0.1969', 'deny:0.1945', 'debate:0.1826', 'clearance:0.1498', 'evening:0.1485', 'discus:0.1409', 'powerful:0.1281', 'come:0.1264', 'previous:0.1223', 'know:0.1216', 'make:0.104', 'agree:0.0862', 'characterise:0.0809', 'override:0.0474']+titles_keywords+['peerage:0.4634', 'lebedev:0.4059', 'denies:0.219', 'intervening:0.1889', 'pm:0.0884']"
+        ]
+    ],
+    "RUS+USA+20":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/burnhamandhighbridgeweeklynews.co.uk/Putin and Biden plan highstakes phone call in bid to resolve Ukraine crisis.txt+eventbasecode20+eventcode20+avgtone0.48393378773125606+goldsteinscale0.65+nummentions0.27322206095791+numarticles0.2737490935460479+numsources0.4506578947368421+news_keywords+['ukraine:0.5099', 'kremlin:0.4541', 'natos:0.4216', 'invade:0.3529', 'embassy:0.3459', 'provocations:0.3377', 'political:0.3355', 'adviser:0.3009', 'separatist:0.297', 'crisis:0.289', 'escalate:0.2881', 'border:0.2854', 'pentagon:0.2796', 'misinformation:0.2788', 'announce:0.2752', 'biden:0.2711', 'zakharova:0.2646', 'reporter:0.262', 'capital:0.2547', 'productive:0.2413', 'prepare:0.2328', 'concern:0.2327', 'rail:0.1975', 'winter:0.1947', 'telephone:0.1938', 'additional:0.1857', 'hour:0.1667', 'left:0.1524', 'combination:0.1505', 'like:0.142']+titles_keywords+['putin:0.4119', 'biden:0.3877', 'bid:0.2089', 'plan:0.1976', 'phone:0.1913']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220625+../news_crawling/RUS_UKR/p_articles/burnhamandhighbridgeweeklynews.co.uk/European mayors duped into calls with impostor posing as Kyivs Vitali Klitschko.txt+eventbasecode20+eventcode20+avgtone0.468235294117647+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.009868421052631578+news_keywords+['kyiv:0.5036', 'mayor:0.4195', 'disinformation:0.3518', 'capital:0.2999', 'russias:0.2933', 'klitschko:0.283', 'berlins:0.2829', 'report:0.2733', 'appointment:0.2722', 'fake:0.2695', 'european:0.2633', 'suspect:0.2597', 'newspaper:0.2584', 'speak:0.2561', 'debate:0.2487', 'repute:0.2465', 'privilege:0.2415', 'bild:0.2315', 'telegram:0.2259', 'broadcaster:0.2145', 'counterpart:0.2012', 'almeida:0.189', 'mr:0.1842', 'story:0.166', 'careful:0.1607', 'right:0.1314', 'withdraw:0.1266', 'orf:0.1234', 'initially:0.1203', 'big:0.1179']+titles_keywords+['klitschko:0.4395', 'mayors:0.3986', 'kyivs:0.382', 'impostor:0.3641', 'calls:0.2452']"
+        ]
+    ]
+}

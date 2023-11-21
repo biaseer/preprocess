@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+1123":[
+        [
+            "20220125+../news_crawling/RUS_UKR/p_articles/prokerala.com/Mega Russian cyber attack on US possible warns Homeland Security By IANS Published on Tue.txt+eventbasecode112+eventcode1123+avgtone0.4520123839009287+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['cyberattacks:0.5763', 'nato:0.3987', 'moscow:0.3709', 'infrastructure:0.3077', 'threaten:0.2915', 'invasion:0.2832', 'dhs:0.2558', 'alert:0.2515', 'cnn:0.2346', 'mega:0.201', 'report:0.1916', 'homeland:0.1906', 'prepare:0.1732', 'biden:0.1686', 'respond:0.1674', 'possible:0.1639', 'ist:0.1591', 'union:0.1461', 'state:0.1434', 'range:0.1415', 'read:0.135', 'continue:0.1209', 'term:0.1202', 'despite:0.1131', 'number:0.1044', 'earlier:0.0998', 'low:0.0907', 'heighten:0.0798', 'hybrid:0.0668', 'week:0.0446']+titles_keywords+['cyber:0.2991', 'russian:0.2827', '2022:0.2473', 'possible:0.2239', 'published:0.1828']"
+        ]
+    ],
+    "UKR+RUS+1123":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/prokerala.com/Ukraine says top Russian general killed in fighting near Kharkiv By IANS Published on Tue.txt+eventbasecode112+eventcode1123+avgtone0.4740259740259741+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['kiev:0.4753', 'kharkiv:0.4198', 'gerasimov:0.3731', 'russian:0.3535', 'general:0.2748', 'military:0.2736', 'kill:0.2444', 'evacuation:0.2266', 'syria:0.2235', 'chechen:0.2193', 'vitaly:0.2175', 'fight:0.1952', 'central:0.1194', 'ist:0.1192', 'occupier:0.116', 'identify:0.1067', 'near:0.1021', 'published:0.0936', 'second:0.0874', 'april:0.0756', 'night:0.0751', 'large:0.0718', 'obtain:0.0678', 'number:0.066', 'intelligence:0.0638', 'statement:0.0585', 'problem:0.0579', 'significant:0.0537', 'data:0.0292', 'add:0.0154']+titles_keywords+['kharkiv:0.4664', 'ukraine:0.3919', 'general:0.2486', 'killed:0.2327', 'fighting:0.2265']"
+        ]
+    ]
+}

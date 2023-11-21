@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+192":[
+        [
+            "20220206+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Tulsi Gabbard Speculates on Why US MilitaryIndustrial Complex Wants War in Ukraine.txt+eventbasecode192+eventcode192+avgtone0.4654939106901218+goldsteinscale0.025+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['putin:0.4503', 'nato:0.396', 'politico:0.3582', 'war:0.3535', 'invades:0.3493', 'gabbard:0.3263', 'kiev:0.3055', 'qaeda:0.3024', 'democratic:0.288', 'provocation:0.2851', 'militaryindustrial:0.2806', 'prepare:0.2677', 'crisis:0.2586', 'cite:0.2483', 'speculates:0.2317', 'volodymyr:0.2174', 'administration:0.2106', 'tension:0.2018', 'coordinate:0.1907', 'soon:0.1833', 'speak:0.1767', 'guardswoman:0.1686', 'hysteric:0.1676', 'report:0.1666', 'end:0.1625', 'follow:0.1552', 'proof:0.1434', 'state:0.131', 'price:0.0787', 'doesnt:0.0418']+titles_keywords+['gabbard:0.49', 'militaryindustrial:0.4093', 'ukraine:0.3047', 'speculates:0.2082', 'wants:0.2026']"
+        ]
+    ],
+    "UKR+RUS+192":[
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Authorities in Kherson Region to Call for Russian Military Base in Bid to Guarantee Security.txt+eventbasecode192+eventcode192+avgtone0.5100864553314122+goldsteinscale0.025+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.5776', 'ukrainian:0.4493', 'kherson:0.3516', 'region:0.3236', 'stremousov:0.3163', 'demilitarize:0.2941', 'nationalist:0.2842', 'federation:0.2669', 'state:0.2518', 'referendum:0.2286', 'administration:0.2279', 'sector:0.1731', 'emphasize:0.17', 'plan:0.1597', 'stability:0.1575', 'population:0.1569', 'come:0.1507', 'inhabitant:0.1504', 'begin:0.1414', 'say:0.1369', 'priority:0.1367', 'separate:0.1346', 'receive:0.1315', 'meantime:0.1302', 'broadcast:0.1302', 'subject:0.1205', 'right:0.1161', 'official:0.0993', 'reach:0.0423', 'restore:0.0406']+titles_keywords+['kherson:0.3537', 'russian:0.301', 'military:0.3005', 'region:0.1943', 'bid:0.0084']"
+        ]
+    ]
+}

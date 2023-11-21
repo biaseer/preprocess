@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+190":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/forexlive.com/Air raid sirens reportedly going off in Kyiv.txt+eventbasecode190+eventcode190+avgtone0.46875+goldsteinscale0.0+nummentions0.04100145137880987+numarticles0.04169688179840464+numsources0.039473684210526314+news_keywords+['kyiv:0.5774', 'ukraine:0.4658', 'zelensky:0.3801', 'russian:0.3569', 'siren:0.3478', 'missile:0.321', 'attack:0.31', 'threat:0.2797', 'military:0.2578', 'strike:0.2462', 'president:0.1793', 'advance:0.1661', 'raid:0.1588', 'harrowing:0.1505', 'right:0.1503', 'target:0.1396', 'quite:0.1365', 'situation:0.1296', 'aim:0.1249', 'stop:0.1201', 'reportedly:0.1151', 'say:0.1116', 'air:0.1083', 'direction:0.0945', 'resume:0.0817', 'time:0.0778', 'draw:0.0733', 'local:0.0405', 'add:-0.001', 'constant:-0.0034']+titles_keywords+['kyiv:0.4886', 'sirens:0.4809', 'air:0.1662', 'reportedly:0.1263', 'going:0.1114']"
+        ],
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/forexlive.com/Reports that the Zaporizhzhia nuclear power plant in Ukraine is on fire.txt+eventbasecode190+eventcode190+avgtone0.4830508474576271+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['zaporizhzhia:0.4277', 'ukraine:0.3743', 'nuclear:0.3393', 'reports:0.1755', 'plant:0.1016', 'power:0.0911']+titles_keywords+['zaporizhzhia:0.4179', 'nuclear:0.4055', 'ukraine:0.3762', 'plant:0.1369', 'reports:0.1313']"
+        ]
+    ]
+}

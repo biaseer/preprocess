@@ -1,0 +1,25 @@
+{
+    "ISR+RUS+111":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Israel hits out at Russia over Lavrovs Nazism remarks.txt+eventbasecode111+eventcode111+avgtone0.4601366742596811+goldsteinscale0.4+nummentions0.4125544267053701+numarticles0.4129804205946338+numsources0.47039473684210525+news_keywords+['holocaust:0.563', 'nazification:0.49', 'antisemitism:0.4703', 'propaganda:0.407', 'kremlin:0.3722', 'israel:0.3703', 'russias:0.2959', 'historical:0.2851', 'conflict:0.2659', 'lavrov:0.2657', 'justify:0.2416', 'translation:0.2183', 'inversion:0.2', 'mykhailo:0.1973', 'trivialise:0.1915', 'invade:0.1888', 'president:0.1757', 'people:0.1717', 'speak:0.1673', 'opinion:0.1564', 'propagate:0.1549', 'scandalous:0.1483', 'mark:0.1432', 'hebstreit:0.1344', 'reach:0.1308', 'remember:0.1174', 'ordination:0.1105', 'big:0.0841', 'doesnt:0.0551', 'deal:0.0375']+titles_keywords+['israel:0.3632', 'lavrovs:0.3046', 'nazism:0.2932', 'remarks:0.0937', 'hits:0.0675']"
+        ]
+    ],
+    "RUS+GBR+111":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Ukrainian Catholic bishop warns British people to avoid disinformation about war.txt+eventbasecode111+eventcode111+avgtone0.5112359550561798+goldsteinscale0.4+nummentions0.1509433962264151+numarticles0.15155910079767948+numsources0.2730263157894737+news_keywords+['ukraine:0.4558', 'war:0.3591', 'humanitarian:0.3165', 'cornwall:0.2979', 'duchess:0.2902', 'oligarch:0.2891', 'britons:0.2844', 'disinformation:0.2538', 'neighbour:0.2349', 'warn:0.226', 'distinction:0.2012', 'listen:0.1852', 'know:0.1738', 'instead:0.1733', 'safe:0.1684', 'visit:0.1645', 'organisation:0.1524', 'nowakowski:0.1465', 'law:0.1415', 'catholic:0.1236', 'invest:0.1169', 'begin:0.1147', 'press:0.1119', 'sure:0.1097', 'big:0.0804', 'terrible:0.0783', 'left:0.0726', 'today:0.0714', 'truly:0.0703', 'weve:0.0672']+titles_keywords+['disinformation:0.3305', 'war:0.3109', 'ukrainian:0.2825', 'bishop:0.281', 'warns:0.2703']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Russian attacks halt plans to evacuate Ukrainian civilians.txt+eventbasecode111+eventcode111+avgtone0.47187669010275823+goldsteinscale0.4+nummentions0.3124092888243832+numarticles0.31290790427846266+numsources0.42105263157894735+news_keywords+['ukraine:0.4857', 'airstrikes:0.3891', 'moscows:0.38', 'evacuate:0.3562', 'separatists:0.3263', 'erdogan:0.3176', 'dispatch:0.296', 'propaganda:0.2927', 'concern:0.2372', 'telegram:0.2366', 'troop:0.2334', 'know:0.2308', 'rouble:0.23', 'disaster:0.2282', 'adviser:0.2149', 'soon:0.2141', 'reiterate:0.2008', 'besiege:0.184', 'switch:0.1833', 'bucha:0.1695', 'end:0.1654', 'schedule:0.1627', 'interference:0.1435', 'idea:0.1374', 'longer:0.1342', 'accept:0.1289', 'motionless:0.1263', 'amid:0.1197', 'external:0.1131', 'onlookers:0.1077']+titles_keywords+['ukrainian:0.4235', 'evacuate:0.409', 'civilians:0.3263', 'attacks:0.2054', 'plans:0.1356']"
+        ],
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Vladimir Putin warns Ukraine over Western weapons as strikes hit Kyiv.txt+eventbasecode111+eventcode111+avgtone0.4800469483568075+goldsteinscale0.4+nummentions0.47387518142235124+numarticles0.47425670775924583+numsources0.5230263157894737+news_keywords+['ukraine:0.4943', 'airstrikes:0.4619', 'putin:0.4606', 'counterattack:0.3061', 'escalation:0.2984', 'news:0.2891', 'infrastructure:0.2878', 'lavrovs:0.2702', 'armed:0.2649', 'alarm:0.261', 'conflict:0.2582', 'deliver:0.2574', 'plan:0.2467', 'adviser:0.2382', 'rail:0.2353', 'plane:0.2278', 'troop:0.227', 'range:0.2268', 'sievierodonetsk:0.2187', 'hit:0.2088', 'busy:0.2011', 'direction:0.1995', 'type:0.1935', 'prolong:0.1854', 'pais:0.1603', 'comparison:0.1582', 'additional:0.158', 'say:0.1497', 'object:0.1473', 'possible:0.1134']+titles_keywords+['kyiv:0.4551', 'putin:0.4353', 'warns:0.2569', 'weapons:0.2567', 'hit:0.1309']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Volodymyr Zelensky says Russia tried to humiliate UN with Kyiv attack.txt+eventbasecode111+eventcode111+avgtone0.4697368421052632+goldsteinscale0.4+nummentions0.17271407837445574+numarticles0.17331399564902103+numsources0.2598684210526316+news_keywords+['kyiv:0.5548', 'putin:0.4154', 'zelensky:0.3678', 'russias:0.362', 'nato:0.3602', 'airstrikes:0.3477', 'unprovoked:0.2774', 'separatist:0.2685', 'emergency:0.2515', 'warn:0.2406', 'news:0.2343', 'know:0.2328', 'troop:0.2306', 'mortar:0.2078', 'fight:0.1976', 'unfolding:0.1925', 'soon:0.1806', 'industrial:0.1781', 'anonymity:0.1646', 'achieve:0.1634', 'dmytro:0.1527', 'normality:0.1508', 'plant:0.1504', 'grad:0.1384', 'hour:0.1382', 'sure:0.1335', 'authorise:0.1316', 'focus:0.1288', 'enjoy:0.1028', 'largely:0.0947']+titles_keywords+['kyiv:0.4503', 'zelensky:0.4438', 'humiliate:0.2613', 'tried:0.1125', 'says:0.0812']"
+        ]
+    ]
+}

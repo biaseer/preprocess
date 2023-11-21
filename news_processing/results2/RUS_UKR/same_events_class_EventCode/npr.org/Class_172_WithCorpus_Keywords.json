@@ -1,0 +1,16 @@
+{
+    "RUS+UKR+172":[
+        [],
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/npr.org/Kyiv hit by Russian airstrikes as information from Mariupol is throttled.txt+eventbasecode172+eventcode172+avgtone0.5+goldsteinscale0.25+nummentions0.09579100145137881+numarticles0.09644670050761421+numsources0.2138157894736842+news_keywords+['kyiv:0.604', 'kremlin:0.4091', 'airstrikes:0.3502', 'boychenko:0.3179', 'troop:0.2652', 'fight:0.2424', 'stay:0.2206', 'happen:0.2175', 'update:0.2167', 'vadym:0.2112', 'hear:0.2065', 'text:0.2025', 'recaptured:0.1962', 'north:0.1914', 'range:0.1854', 'safe:0.1786', 'railway:0.1679', 'npr:0.1651', 'weekend:0.1642', 'term:0.1568', 'contractor:0.1523', 'separate:0.1494', 'video:0.1492', 'remember:0.1485', 'lull:0.1437', 'large:0.1385', 'hole:0.1196', 'relatively:0.1113', 'pleasure:0.1052', 'everybody:0.1023']+titles_keywords+['kyiv:0.5644', 'airstrikes:0.3626', 'hit:0.2671', 'mariupol:0.2143', 'throttled:0.2117']"
+        ]
+    ],
+    "UKR+RUS+172":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/npr.org/Russian law bans journalists from calling Ukraine conflict a war or an invasion.txt+eventbasecode172+eventcode172+avgtone0.39534883720930253+goldsteinscale0.25+nummentions0.07184325108853411+numarticles0.0725163161711385+numsources0.07894736842105263+news_keywords+['putin:0.4953', 'ukraine:0.4315', 'russian:0.4009', 'journalism:0.3811', 'novaya:0.3079', 'reporting:0.2855', 'legislation:0.2761', 'ban:0.2667', 'illegal:0.2438', 'invasion:0.2397', 'military:0.2196', 'false:0.1915', 'conflict:0.189', 'org:0.1876', 'nprs:0.168', 'coverage:0.1586', 'outlet:0.1542', 'copyright:0.151', 'rush:0.1468', 'casualty:0.1454', 'term:0.133', 'sentence:0.1234', 'transcript:0.1219', 'page:0.1021', 'arm:0.0822', 'update:0.0817', 'year:0.0644', 'make:0.0522', 'simon:0.0495', 'million:0.0462']+titles_keywords+['ukraine:0.3911', 'journalists:0.3042', 'invasion:0.2447', 'law:0.2419', 'bans:0.164']"
+        ],
+        [
+            "20220813+../news_crawling/RUS_UKR/p_articles/npr.org/Ukrainian health minister says Russia is blocking access to medicines.txt+eventbasecode172+eventcode172+avgtone0.47820512820512817+goldsteinscale0.25+nummentions0.2663280116110305+numarticles0.2668600435097897+numsources0.40131578947368424+news_keywords+['ukraine:0.48', 'putin:0.4099', 'war:0.3358', 'humanitarian:0.3333', 'invade:0.3273', 'casualty:0.3033', 'coronavirus:0.2928', 'hospital:0.2854', 'infrastructure:0.2582', 'crime:0.2215', 'liashko:0.2208', 'health:0.214', 'treatment:0.1968', 'reform:0.1953', 'interfere:0.1806', 'occupied:0.1742', 'allow:0.165', 'accuse:0.156', 'corridor:0.1534', 'undergo:0.1497', 'care:0.1442', 'order:0.1421', 'cause:0.1315', 'million:0.1076', 'aug:0.1035', 'recognize:0.0894', 'run:0.0889', 'directly:0.0886', 'record:0.0687', 'largely:0.0572']+titles_keywords+['ukrainian:0.4055', 'medicines:0.3243', 'blocking:0.1447', 'access:0.1077', 'minister:0.0716']"
+        ]
+    ]
+}

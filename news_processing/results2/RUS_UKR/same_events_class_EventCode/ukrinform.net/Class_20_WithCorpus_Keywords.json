@@ -1,0 +1,32 @@
+{
+    "BLR+RUS+20":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukraine in talks with Poland on complete closure of border with Belarus Deshchytsia.txt+eventbasecode20+eventcode20+avgtone0.5+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['belarus:0.4348', 'border:0.3115', 'polish:0.254', 'infrastructure:0.2415', 'closure:0.2292', 'transport:0.2199', 'block:0.2125', 'government:0.2058', 'hold:0.1694', 'supply:0.1562', 'decision:0.1537', 'european:0.1523', 'union:0.147', 'talk:0.14', 'order:0.1267', 'march:0.1094', 'stress:0.1062', 'deshchytsia:0.0972', 'simultaneously:0.0952', 'proposal:0.0919', 'complete:0.091', 'ambassador:0.0899', 'letter:0.0816', 'say:0.0782', 'appeal:0.0775', 'make:0.0727', 'commission:0.0725', 'send:0.0665', 'level:0.0422', 'necessary:0.0301']+titles_keywords+['ukraine:0.4287', 'border:0.265', 'deshchytsia:0.2558', 'talks:0.1887', 'complete:0.1438']"
+        ]
+    ],
+    "EUR+RUS+20":[
+        [
+            "20211207+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Reznikov on potential Russian invasion of Ukraine I dont believe Russia will win.txt+eventbasecode20+eventcode20+avgtone0.4886363636363636+goldsteinscale0.65+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.003289473684210526+news_keywords+['crimea:0.4884', 'putin:0.4769', 'ukrainian:0.4449', 'reznikov:0.4276', 'provoke:0.2929', 'massacre:0.2917', 'military:0.2874', 'biden:0.2631', 'prepare:0.2452', 'tank:0.241', 'border:0.2358', 'initiative:0.2107', 'sanction:0.1872', 'victory:0.1851', 'economic:0.1848', 'tell:0.1791', 'friday:0.1601', 'ally:0.1595', 'forces:0.1425', 'believe:0.1423', 'err:0.1403', 'need:0.1377', 'disconnection:0.1347', 'unclassified:0.1245', 'note:0.1239', 'include:0.116', 'state:0.107', 'newly:0.0908', 'set:0.0824', 'resolution:0.0776']+titles_keywords+['reznikov:0.5677', 'ukraine:0.4178', 'invasion:0.2473', 'believe:0.2068', 'dont:0.1391']"
+        ]
+    ],
+    "FRA+UKR+20":[
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Prime Minister of France suggests organizing debate on Ukraine creating special committee.txt+eventbasecode20+eventcode20+avgtone0.4719101123595506+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4694', 'invasion:0.305', 'war:0.2875', 'troop:0.244', 'debate:0.2378', 'federation:0.2276', 'retaliatory:0.2203', 'report:0.2165', 'february:0.2142', 'mps:0.2029', 'consequence:0.1894', 'begin:0.1842', 'entail:0.1825', 'representation:0.1812', 'resist:0.1543', 'supply:0.14', 'lecornu:0.1392', 'stage:0.1384', 'catherine:0.1362', 'monde:0.1345', 'organize:0.1271', 'information:0.1215', 'link:0.1154', 'material:0.1071', 'discus:0.1023', 'sbastien:0.0945', 'population:0.0903', 'measure:0.0837', 'new:0.0623', 'appreciate:0.0441']+titles_keywords+['debate:0.3171', 'committee:0.2604', 'france:0.2588', 'prime:0.0807', 'creating:0.0645']"
+        ]
+    ],
+    "NZL+RUS+20":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/ukrinform.net/New Zealand allocates 2M in humanitarian aid to Ukraine.txt+eventbasecode20+eventcode20+avgtone0.4674418604651162+goldsteinscale0.65+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.5193', 'putin:0.3965', 'war:0.3408', 'invasion:0.2965', 'zealands:0.2909', 'humanitarian:0.2883', 'unprovoked:0.2686', 'hague:0.2655', 'federation:0.2547', 'military:0.254', 'negotiation:0.2492', 'infrastructure:0.2423', 'missiles:0.2379', 'destroy:0.2261', 'escalate:0.1985', 'ukrinform:0.1968', 'consequence:0.1934', 'courageously:0.1789', 'cite:0.1734', 'horrific:0.169', 'displace:0.1631', 'mahuta:0.1596', 'immediately:0.1452', 'hear:0.1381', 'return:0.1316', 'file:0.1183', 'new:0.1139', 'total:0.1131', 'grow:0.1027', 'according:0.1005']+titles_keywords+['zealand:0.3774', 'humanitarian:0.2967', '2m:0.2128', 'allocates:0.186', 'new:0.1691']"
+        ]
+    ],
+    "PSE+UKR+20":[
+        [
+            "20211025+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Russias Iron Curtain policy in occupied territories wont work MFA.txt+eventbasecode20+eventcode20+avgtone0.5013054830287207+goldsteinscale0.65+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.003289473684210526+news_keywords+['crimea:0.5296', 'russias:0.3714', 'occupy:0.3335', 'osce:0.2681', 'zakharova:0.2491', 'berlin:0.2425', 'curtain:0.2349', 'conflict:0.2272', 'contact:0.208', 'policy:0.2044', 'checkpoint:0.1933', 'sabotage:0.1918', 'agreement:0.183', 'transformation:0.178', 'point:0.1676', 'president:0.1643', 'cease:0.1611', 'strictly:0.1469', 'safe:0.1468', 'expect:0.1395', 'unblock:0.1386', 'ukrinform:0.1363', 'iron:0.1324', 'strengthen:0.1235', 'trilateral:0.1201', 'covid:0.1201', 'state:0.1201', 'counterpart:0.1171', 'wont:0.1057', 'entire:0.085']+titles_keywords+['russias:0.3411', 'mfa:0.258', 'occupied:0.1834', 'wont:0.1722', 'curtain:0.163']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20210709+../news_crawling/RUS_UKR/p_articles/ukrinform.net/US at OSCE Russia is not and has never been mediator in conflict in eastern.txt+eventbasecode20+eventcode20+avgtone0.47735849056603774+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.4301', 'mediator:0.3733', 'diplomat:0.3567', 'negotiation:0.3338', 'russias:0.3194', 'osce:0.3184', 'peace:0.3063', 'engage:0.2594', 'federation:0.2395', 'agreement:0.2392', 'violence:0.1951', 'cease:0.1797', 'delegationalso:0.1787', 'obstruct:0.1703', 'end:0.1666', 'trilateral:0.1569', 'eastern:0.1418', 'integration:0.1397', 'pointless:0.1359', 'report:0.1306', 'ukrinform:0.1279', 'civilian:0.1229', 'temporarily:0.1072', 'daffaires:0.0971', 'make:0.0958', 'state:0.092', 'reverse:0.0853', 'james:0.0833', 'separately:0.078', 'hardware:0.054']+titles_keywords+['osce:0.3684', 'mediator:0.3062', 'russia:0.292', 'conflict:0.1866', 'eastern:0.1048']"
+        ]
+    ]
+}

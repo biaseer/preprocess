@@ -1,0 +1,18 @@
+{
+    "POL+UKR+51":[
+        []
+    ],
+    "RUS+RUS+51":[
+        [
+            "20220517+../news_crawling/RUS_UKR/p_articles/stripes.com/US soldiers model river crossing in contrast to Russians Donbas disaster.txt+eventbasecode51+eventcode51+avgtone0.4844290657439446+goldsteinscale0.67+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['nato:0.4203', 'infantry:0.4141', 'tactical:0.3998', 'crossing:0.3929', 'reconnaissance:0.3851', 'combat:0.3575', 'river:0.3203', 'vistula:0.309', 'logistics:0.3052', 'russian:0.3024', 'operation:0.2781', 'polands:0.2703', 'siversky:0.2541', 'feint:0.221', 'abrams:0.2078', 'riskiest:0.1901', 'contrast:0.1869', 'disastrous:0.1745', 'aerial:0.1679', 'complicate:0.1612', 'twitterdefense:0.147', 'ribbon:0.1437', 'donbas:0.1432', 'rd:0.1373', 'owensu:0.1237', 'gen:0.0955', 'deny:0.0923', 'way:0.0798', 'pic:0.0677', 'hundreds:0.0465']+titles_keywords+['russians:0.3735', 'river:0.3596', 'disaster:0.2731', 'donbas:0.2568', 'contrast:0.1561']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/stripes.com/Amid the roar of nationalism lone antiwar voices in China emerge over Ukraine crisis.txt+eventbasecode51+eventcode51+avgtone0.47365754812563327+goldsteinscale0.67+nummentions0.03374455732946299+numarticles0.032269760696156634+numsources0.03618421052631579+news_keywords+['nationalist:0.458', 'putin:0.4369', 'ukrainian:0.4339', 'geopolitical:0.4154', 'warmongering:0.3981', 'moscow:0.3822', 'revolution:0.3551', 'evacuation:0.3088', 'military:0.2664', 'oppose:0.266', 'sentiment:0.2645', 'peace:0.2612', 'news:0.229', 'chinas:0.2246', 'tank:0.22', 'censors:0.2073', 'read:0.206', 'weibo:0.206', 'jiang:0.1997', 'begin:0.1853', 'worried:0.1832', 'volodymyr:0.1727', 'bold:0.1725', 'navigate:0.1631', 'order:0.1603', 'chorus:0.1529', 'excuse:0.151', 'professor:0.1185', 'characterize:0.0991', 'nearly:0.0956']+titles_keywords+['nationalism:0.4876', 'antiwar:0.4601', 'china:0.3081', 'voices:0.2138', 'lone:0.1764']"
+        ],
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/stripes.com/How Z became a symbol for supporting Russias invasion of Ukraine.txt+eventbasecode51+eventcode51+avgtone0.4992526158445441+goldsteinscale0.67+nummentions0.02648766328011611+numarticles0.02719361856417694+numsources0.049342105263157895+news_keywords+['soviet:0.4551', 'propaganda:0.4092', 'kuzbass:0.3563', 'za:0.3448', 'symbolize:0.3331', 'antiwar:0.3276', 'regime:0.3121', 'nazify:0.3074', 'separatist:0.2631', 'annexation:0.2574', 'nation:0.2485', 'slogan:0.2426', 'zorro:0.2397', 'social:0.2376', 'flag:0.2361', 'capital:0.2294', 'meaning:0.2097', 'ahead:0.2083', 'letter:0.2061', 'medal:0.1919', 'know:0.1891', 'rt:0.1825', 'tank:0.1655', 'endows:0.1643', 'emerge:0.1504', 'desirable:0.142', 'strength:0.1365', 'photos:0.1361', 'sure:0.133', 'long:0.1264']+titles_keywords+['ukraine:0.4133', 'russias:0.3548', 'invasion:0.285', 'symbol:0.2654', 'supporting:0.1961']"
+        ]
+    ]
+}

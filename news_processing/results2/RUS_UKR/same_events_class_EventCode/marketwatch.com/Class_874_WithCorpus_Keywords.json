@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Two of Big Four global accounting firms are pulling out of Russia over Ukraine invasion.txt+eventbasecode87+eventcode874+avgtone0.48360655737704916+goldsteinscale1.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['pricewaterhousecoopers:0.4627', 'kpmg:0.4195', 'ukraine:0.4009', 'russia:0.3665', 'belarus:0.3411', 'war:0.26', 'accounting:0.25', 'invasion:0.2246', 'firm:0.2222', 'pull:0.1969', 'global:0.1704', 'relationship:0.1465', 'big:0.1286', 'say:0.1104', 'end:0.0975', 'york:0.0943', 'base:0.0698', 'member:0.0468', 'sunday:0.0307', 'new:0.0198']+titles_keywords+['ukraine:0.3442', 'accounting:0.2225', 'invasion:0.162', 'pulling:0.1588', 'global:0.1159']"
+        ],
+        [
+            "20220630+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Ukraine says it controls Snake Island in Black Sea while Russias assault on eastern Ukraine.txt+eventbasecode87+eventcode874+avgtone0.48097826086956524+goldsteinscale1.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4786', 'kremlin:0.412', 'nato:0.3799', 'territory:0.326', 'snake:0.3208', 'siverskiy:0.2742', 'retreat:0.2701', 'separatist:0.2653', 'blockade:0.2588', 'strategic:0.2586', 'crisis:0.257', 'timeline:0.2523', 'east:0.2488', 'navigation:0.2396', 'update:0.236', 'gromov:0.23', 'military:0.2252', 'perilous:0.2244', 'unveils:0.209', 'development:0.2012', 'success:0.1995', 'tell:0.184', 'long:0.1789', 'exchange:0.1727', 'encircle:0.1704', 'control:0.1623', 'ization:0.153', 'donbas:0.1397', 'entire:0.1338', 'supposedly:0.0526']+titles_keywords+['ukraine:0.4361', 'snake:0.3663', 'island:0.3195', 'controls:0.1672', 'assault:0.1395']"
+        ]
+    ]
+}

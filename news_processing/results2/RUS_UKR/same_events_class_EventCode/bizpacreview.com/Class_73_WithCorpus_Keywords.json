@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+73":[
+        [
+            "20220129+../news_crawling/RUS_UKR/p_articles/bizpacreview.com/Russia sends medical units to front lines at Ukrainian border.txt+eventbasecode73+eventcode73+avgtone0.4878048780487804+goldsteinscale0.8699999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4752', 'russiademandedthat:0.4746', 'russian:0.4132', 'kyiv:0.4064', 'nato:0.4061', 'invasion:0.3397', 'escalate:0.2549', 'input:0.2287', 'concern:0.2151', 'wsj:0.2124', 'report:0.2089', 'scenario:0.2053', 'spam:0.1932', 'feed:0.186', 'risky:0.1777', 'discourteous:0.1753', 'western:0.1676', 'instead:0.1623', 'promise:0.1541', 'bpr:0.1474', 'allow:0.1451', 'wednesday:0.1424', 'theproposalsgiven:0.1403', 'prerequisite:0.1373', 'precipice:0.1309', 'departmentadvisedall:0.1251', 'sure:0.125', 'sherman:0.1155', 'state:0.1122', 'fact:0.1114']+titles_keywords+['ukrainian:0.4037', 'border:0.2701', 'medical:0.1854', 'lines:0.1842', 'sends:0.0533']"
+        ]
+    ],
+    "UKR+RUS+73":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/bizpacreview.com/Report of a miracle emerges after alleged Russian bombing of shelter holding mostly women and.txt+eventbasecode73+eventcode73+avgtone0.46120150187734665+goldsteinscale0.8699999999999999+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kyiv:0.5404', 'kremlin:0.4756', 'airstrikes:0.4049', 'civilians:0.3756', 'evacuate:0.3577', 'battalion:0.3494', 'bombed:0.3383', 'azov:0.3235', 'drama:0.323', 'reuters:0.3078', 'survive:0.2741', 'rubble:0.2715', 'report:0.2485', 'horrific:0.2257', 'subject:0.2127', 'denounce:0.2108', 'prayingforukraine:0.2099', 'pretext:0.2011', 'shirk:0.2004', 'underneath:0.1933', 'inhabitant:0.1915', 'radical:0.1859', 'facility:0.1858', 'plant:0.1686', 'increase:0.1496', 'medium:0.1198', 'thank:0.1126', 'toll:0.1102', 'true:0.1047', 'possible:0.102']+titles_keywords+['bombing:0.433', 'russian:0.3672', 'miracle:0.3571', 'shelter:0.3125', 'report:0.2224']"
+        ]
+    ]
+}

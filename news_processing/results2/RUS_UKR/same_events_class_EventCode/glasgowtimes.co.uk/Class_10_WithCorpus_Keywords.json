@@ -1,0 +1,17 @@
+{
+    "RUS+GBR+10":[
+        [
+            "20220210+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/Johnson warns of dangerous moment in Ukraine tensions.txt+eventbasecode10+eventcode10+avgtone0.47764227642276424+goldsteinscale0.5+nummentions0.1055878084179971+numarticles0.1062364031907179+numsources0.24013157894736842+news_keywords+['diplomacy:0.4522', 'ukraine:0.4136', 'nato:0.401', 'escalation:0.3399', 'crisis:0.292', 'invades:0.2879', 'threaten:0.2856', 'boris:0.2563', 'cyberattacks:0.249', 'ideological:0.246', 'dangerous:0.2343', 'prepare:0.2332', 'secretary:0.2167', 'coincide:0.2113', 'forward:0.2043', 'troop:0.2011', 'form:0.1902', 'amend:0.1894', 'report:0.1871', 'current:0.1672', 'chilly:0.1611', 'exchange:0.1605', 'long:0.16', 'end:0.1512', 'pipeline:0.1511', 'say:0.1369', 'right:0.1309', 'trusss:0.1298', 'weve:0.128', 'wont:0.11']+titles_keywords+['dangerous:0.4057', 'tensions:0.3687', 'ukraine:0.3277', 'johnson:0.2702', 'moment:0.2571']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/Roman Abramovich suspected poisoning claims very concerning Foreign Office.txt+eventbasecode10+eventcode10+avgtone0.47686230248307+goldsteinscale0.5+nummentions0.18650217706821481+numarticles0.18709209572153734+numsources0.42105263157894735+news_keywords+['putin:0.4666', 'poison:0.4593', 'kyiv:0.4326', 'oligarch:0.4116', 'abramovich:0.3884', 'bomb:0.3365', 'sabotage:0.3228', 'allegation:0.2756', 'warn:0.2662', 'concern:0.2655', 'news:0.2518', 'table:0.2446', 'agency:0.2402', 'invasion:0.2378', 'negotiating:0.2352', 'humanitarian:0.231', 'orchestrate:0.1981', 'type:0.1905', 'expert:0.1888', 'symptom:0.1798', 'british:0.1789', 'want:0.1767', 'continue:0.1762', 'outlet:0.1732', 'explanation:0.168', 'reach:0.1513', 'long:0.1377', 'agree:0.1186', 'thousand:0.1126', 'likely:0.0814']+titles_keywords+['abramovich:0.5631', 'poisoning:0.3889', 'suspected:0.2883', 'claims:0.1765', 'office:0.1638']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/Scientists donate profits from Chernobyl schnapps drinks to Ukrainian refugees.txt+eventbasecode10+eventcode10+avgtone0.4942307692307692+goldsteinscale0.5+nummentions0.03773584905660377+numarticles0.03843364757070341+numsources0.08223684210526316+news_keywords+['chernobyl:0.6558', 'radioactive:0.4139', 'kyiv:0.3828', 'reactor:0.3775', 'vodka:0.3127', 'refugees:0.2559', 'economic:0.2547', 'report:0.2421', 'donate:0.2382', 'produce:0.2351', 'company:0.2335', 'academic:0.2249', 'initiative:0.2217', 'emergency:0.2084', 'enterprise:0.1981', 'gennady:0.1911', 'content:0.1866', 'safely:0.1807', 'experiment:0.1742', 'liable:0.1686', 'website:0.1572', 'batch:0.1408', 'discretion:0.1408', 'future:0.1302', 'horrify:0.1299', 'response:0.1295', 'having:0.1192', 'amend:0.1035', 'personally:0.103', 'partly:0.0507']+titles_keywords+['chernobyl:0.5398', 'schnapps:0.3633', 'ukrainian:0.3581', 'donate:0.3226', 'refugees:0.3067']"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/dw.com/Kyiv mall destroyed Mariupol deadline passes.txt+eventbasecode80+eventcode80+avgtone0.4333333333333335+goldsteinscale0.75+nummentions0.00544267053701016+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['kyiv:0.6047', 'russian:0.3353', 'podil:0.3319', 'mall:0.3096', 'destroy:0.3018', 'kill:0.2745', 'surrender:0.2553', 'deadline:0.2501', 'siege:0.2267', 'mariupol:0.2083', 'pass:0.185', 'eastern:0.1814', 'port:0.181', 'district:0.1772', 'people:0.1597', 'populate:0.1481', 'defy:0.1408', 'shell:0.1387', 'weekslong:0.0935', 'despite:0.0727', 'densely:0.0635']+titles_keywords+['kyiv:0.4601', 'mall:0.3628', 'destroyed:0.3356', 'deadline:0.3258', 'mariupol:0.1986']"
+        ],
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/dw.com/Dire situation in Mariupol.txt+eventbasecode80+eventcode80+avgtone0.4454545454545455+goldsteinscale0.75+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.3538', 'ukrainian:0.3192', 'surrender:0.3094', 'mariupol:0.3089', 'russian:0.2879', 'russia:0.2668', 'warning:0.2638', 'troop:0.2526', 'city:0.2287', 'deadline:0.1918', 'fall:0.1738', 'day:0.1547', 'defenders:0.1526', 'hour:0.1484', 'situation:0.1394', 'defy:0.1181', 'eastern:0.1156', 'offensive:0.1147', 'dire:0.1039', 'hole:0.0611', 'press:0.0582']+titles_keywords+['mariupol:0.5087', 'situation:0.361', 'dire:0.2376']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [],
+        [
+            "20220629+../news_crawling/RUS_UKR/p_articles/dw.com/NATO Russia the most significant threat.txt+eventbasecode80+eventcode80+avgtone0.5135135135135135+goldsteinscale0.75+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['nato:0.5769', 'russia:0.3951', 'ukraine:0.3805', 'alliance:0.3692', 'invasion:0.2774', 'threat:0.2718', 'strategic:0.259', 'finland:0.2553', 'sweden:0.2455', 'military:0.2045', 'plan:0.1786', 'extend:0.1625', 'endorse:0.149', 'new:0.1487', 'partner:0.1398', 'concept:0.1317', 'future:0.1309', 'lose:0.1224', 'position:0.1202', 'make:0.1103', 'leader:0.1054', 'follow:0.1051', 'member:0.1006', 'clear:0.0994', 'welcome:0.071', 'significant:0.0267', 'likely:0.0071']+titles_keywords+['nato:0.6238', 'russia:0.4622', 'threat:0.3824', 'significant:0.1988']"
+        ]
+    ]
+}

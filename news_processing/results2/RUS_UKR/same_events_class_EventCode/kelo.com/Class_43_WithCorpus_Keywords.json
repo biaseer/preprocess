@@ -1,0 +1,12 @@
+{
+    "RUS+USA+43":[
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/kelo.com/Putin speaks at Victory Day parade on Moscows Red Square.txt+eventbasecode43+eventcode43+avgtone0.4902826855123675+goldsteinscale0.64+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['putin:0.5145', 'comrade:0.5061', 'russian:0.462', 'moscows:0.4537', 'kyiv:0.4261', 'nato:0.413', 'militarism:0.3757', 'translate:0.2901', 'parade:0.275', 'reuters:0.2653', 'motherland:0.2551', 'operation:0.2497', 'threat:0.2448', 'know:0.2235', 'agreement:0.2193', 'speak:0.2174', 'world:0.2072', 'bloc:0.2048', 'participant:0.2003', 'donbas:0.1977', 'enter:0.1974', 'indivisible:0.1958', 'monday:0.1913', 'modern:0.1835', 'adjacent:0.1705', 'rebuff:0.1674', 'red:0.1558', 'increase:0.1403', 'dead:0.1384', 'year:0.1273']+titles_keywords+['putin:0.4565', 'moscows:0.3548', 'parade:0.3517', 'square:0.2013', 'speaks:0.1868']"
+        ]
+    ],
+    "UKR+RUS+43":[
+        [
+            "20220807+../news_crawling/RUS_UKR/p_articles/kelo.com/First ship since Russian invasion arrives in Ukraine ministry says.txt+eventbasecode43+eventcode43+avgtone0.48958333333333337+goldsteinscale0.64+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.013157894736842105+news_keywords+['chornomorsk:0.478', 'kyiv:0.4396', 'ukraines:0.3791', 'russian:0.3507', 'ship:0.3359', 'arrive:0.2896', 'invasion:0.2669', 'port:0.2148', 'sea:0.208', 'cargo:0.1878', 'reuters:0.1853', 'ready:0.1564', 'fulmar:0.136', 'load:0.1214', 'carry:0.1152', 'foodstuff:0.1136', 'sunday:0.1049', 'unblock:0.1037', 'earlier:0.1029', 'export:0.1023', 'infrastructure:0.0985', 'black:0.0915', 'market:0.0857', 'future:0.0729', 'international:0.0711', 'bulk:0.0592', 'facebook:0.0586', 'deal:0.0421', 'say:-0.0162', 'ministry:-0.0313']+titles_keywords+['ukraine:0.3452', 'arrives:0.3172', 'ship:0.3128', 'invasion:0.2631', 'ministry:0.0532']"
+        ]
+    ]
+}

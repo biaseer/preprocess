@@ -1,0 +1,12 @@
+{
+    "RUS+USA+193":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/British journalist in intensive care after suffering serious injuries in Ukraine.txt+eventbasecode193+eventcode193+avgtone0.4793689320388349+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['correspondent:0.5268', 'ukraine:0.4384', 'newsgathering:0.431', 'news:0.3543', 'irina:0.2869', 'military:0.2855', 'zelensky:0.2771', 'report:0.2618', 'safety:0.2444', 'fox:0.2319', 'condolence:0.2309', 'brent:0.2179', 'shot:0.2097', 'capital:0.1991', 'brave:0.1959', 'injure:0.1855', 'video:0.1705', 'doctor:0.1701', 'care:0.1695', 'renaud:0.1662', 'priority:0.164', 'reminder:0.164', 'statement:0.1637', 'affair:0.1579', 'acclaim:0.152', 'darkness:0.1428', 'unfolds:0.1306', 'world:0.127', 'additional:0.1215', 'near:0.0923']+titles_keywords+['journalist:0.4094', 'ukraine:0.3285', 'injuries:0.2593', 'intensive:0.1982', 'care:0.1403']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Hero Ukrainian fighter pilot who shoots Russian planes from sky dubbed the Ghost of Kyiv.txt+eventbasecode193+eventcode193+avgtone0.5065359477124183+goldsteinscale0.0+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['kyiv:0.5687', 'russians:0.3861', 'bravery:0.3312', 'troop:0.3074', 'tochytskyi:0.2867', 'war:0.2722', 'hero:0.2606', 'ghost:0.2501', 'plane:0.245', 'mykola:0.2424', 'mig:0.2115', 'celebrate:0.204', 'story:0.1943', 'reminder:0.193', 'ace:0.1862', 'ambassador:0.1705', 'write:0.1675', 'report:0.1656', 'fighter:0.1641', 'shoot:0.1549', 'turn:0.1439', 'true:0.1398', 'twitter:0.1272', 'referred:0.1244', 'vital:0.1134', 'particular:0.107', 'world:0.1061', 'thursday:0.1047', 'unconfirmed:0.0908', 'emerge:0.0651']+titles_keywords+['kyiv:0.4692', 'pilot:0.3489', 'hero:0.2897', 'ghost:0.2531', 'shoots:0.2243']"
+        ]
+    ]
+}

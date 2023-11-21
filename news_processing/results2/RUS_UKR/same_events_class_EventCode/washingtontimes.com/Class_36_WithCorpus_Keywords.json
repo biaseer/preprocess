@@ -1,0 +1,17 @@
+{
+    "DEU+RUS+36":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Russia says some forces pulling back amid Ukraine crisis.txt+eventbasecode36+eventcode36+avgtone0.48287345385347286+goldsteinscale0.7+nummentions0.13824383164005805+numarticles0.13669325598259607+numsources0.22039473684210525+news_keywords+['crimea:0.4765', 'kremlin:0.4519', 'nato:0.4338', 'russias:0.3908', 'invade:0.3564', 'diplomacy:0.3318', 'deploy:0.2768', 'standoff:0.2551', 'lavrov:0.239', 'panic:0.2293', 'news:0.2212', 'flag:0.2164', 'preparation:0.1973', 'imminently:0.1861', 'supply:0.1761', 'push:0.1661', 'drill:0.1556', 'flank:0.1503', 'continue:0.1488', 'unclear:0.1409', 'eastern:0.131', 'monitoring:0.1269', 'usual:0.1194', 'point:0.1122', 'long:0.1096', 'wont:0.1093', 'secretary:0.109', 'february:0.1058', 'state:0.1026', 'sure:0.101']+titles_keywords+['ukraine:0.3841', 'pulling:0.288', 'forces:0.2757', 'crisis:0.1527', 'says:0.0249']"
+        ]
+    ],
+    "IRN+RUS+36":[
+        [
+            "20220717+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Iran lashes out at Biden accuses him of stoking tensions.txt+eventbasecode36+eventcode36+avgtone0.4808743169398907+goldsteinscale0.7+nummentions0.036284470246734396+numarticles0.03698332124728064+numsources0.0625+news_keywords+['iran:0.5324', 'iranophobia:0.4769', 'diplomacy:0.4229', 'putin:0.3666', 'threat:0.3628', 'biden:0.3345', 'political:0.3255', 'terrorist:0.3148', 'sanction:0.2821', 'reuters:0.2613', 'nasser:0.2553', 'nuclear:0.2539', 'rhetoric:0.2369', 'blacklist:0.2172', 'overthrow:0.2068', 'allow:0.2029', 'sen:0.1777', 'coincide:0.1776', 'state:0.1464', 'correction:0.14', 'table:0.1356', 'attend:0.1344', 'andor:0.1269', 'easts:0.1269', 'draw:0.1249', 'month:0.1194', 'characterize:0.1126', 'wrap:0.1013', 'try:0.0855', 'grow:0.0848']+titles_keywords+['biden:0.4112', 'iran:0.33', 'tensions:0.2295', 'accuses:0.1893', 'stoking:0.0692']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20211229+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Biden Putin to speak as tensions over Ukraine threaten to boil over.txt+eventbasecode36+eventcode36+avgtone0.48701298701298695+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['diplomacy:0.4336', 'crimea:0.4327', 'putin:0.4217', 'natos:0.4065', 'invade:0.3275', 'biden:0.3235', 'tensions:0.3065', 'meeting:0.2924', 'coordinate:0.2859', 'upcoming:0.2784', 'border:0.2361', 'crisis:0.2354', 'prepare:0.228', 'expand:0.2231', 'plan:0.213', 'warn:0.2087', 'sanction:0.2013', 'reporters:0.1904', 'respond:0.1835', 'relation:0.1818', 'january:0.1799', 'secretary:0.1624', 'boil:0.1444', 'multipronged:0.1353', 'oleksii:0.1311', 'state:0.127', 'long:0.1217', 'roughly:0.1019', 'right:0.1', 'believe:0.0872']+titles_keywords+['putin:0.4675', 'biden:0.4588', 'speak:0.3256', 'tensions:0.2185', 'boil:0.1547']"
+        ]
+    ]
+}

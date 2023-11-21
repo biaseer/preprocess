@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+70":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/cnn.com/Kyiv residents calm and resolved as Russian forces converge on Ukraines capital.txt+eventbasecode70+eventcode70+avgtone0.4825+goldsteinscale0.85+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.029605263157894735+news_keywords+['kyiv:0.6004', 'emergency:0.3423', 'lysenkos:0.3198', 'capital:0.3138', 'safer:0.301', 'shelter:0.2922', 'curfew:0.2828', 'traffic:0.2773', 'explosion:0.2767', 'stay:0.2623', 'occupier:0.255', 'calm:0.2524', 'reservist:0.2482', 'yana:0.2423', 'provocation:0.2387', 'checkpoint:0.2368', 'hear:0.2308', 'report:0.2276', 'suspicious:0.2235', 'column:0.2208', 'information:0.2203', 'cnns:0.2106', 'siren:0.2101', 'morning:0.1894', 'story:0.1831', 'building:0.1728', 'district:0.1718', 'advance:0.1652', 'gul:0.1578', 'way:0.1437']+titles_keywords+['kyiv:0.4953', 'calm:0.3288', 'residents:0.2625', 'converge:0.1743', 'forces:0.0658']"
+        ]
+    ],
+    "UKR+RUS+70":[
+        [
+            "20220513+../news_crawling/RUS_UKR/p_articles/cnn.com/May 13 2022 RussiaUkraine news.txt+eventbasecode70+eventcode70+avgtone0.48845731037009893+goldsteinscale0.85+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4741', 'russiansconstructed:0.4182', 'bilohorivka:0.304', 'bombardment:0.2866', 'evacuate:0.2857', 'troop:0.2716', 'news:0.2675', 'occur:0.2628', 'bratchuk:0.2296', 'proceed:0.2156', 'fight:0.1967', 'report:0.1966', 'hydroelectric:0.1929', 'operational:0.1898', 'turn:0.1843', 'fall:0.1824', 'area:0.1693', 'pre:0.1525', 'emotional:0.1464', 'thursdaythata:0.1423', 'long:0.1371', 'video:0.1329', 'understand:0.1243', 'constructbridges:0.1196', 'imaging:0.1164', 'presidentrecep:0.1057', 'sevastopol:0.1023', 'largely:0.0928', 'possible:0.0906', 'added:0.0679']+titles_keywords+['russiaukraine:0.5424', '2022:0.5318', 'news:0.3304', '13:0.1741']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Petrol to hit grim milestone of 150 per litre.txt+eventbasecode192+eventcode192+avgtone0.4820627802690583+goldsteinscale0.025+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.019736842105263157+news_keywords+['petrol:0.4487', 'litre:0.3028', 'supply:0.2835', 'russia:0.2779', 'data:0.2699', 'milestone:0.2613', 'increase:0.2537', 'motorists:0.2322', 'crude:0.2308', 'news:0.2297', 'invade:0.229', 'future:0.2062', 'figures:0.2056', 'brent:0.1993', 'level:0.1788', 'price:0.173', 'average:0.1712', 'bad:0.1632', 'afford:0.1616', 'warn:0.159', 'enter:0.1459', 'september:0.1399', 'hit:0.1375', 'fear:0.1299', 'firm:0.123', 'pas:0.1174', 'experian:0.0987', 'inexorably:0.0958', 'likely:0.093', 'send:0.0887']+titles_keywords+['petrol:0.488', 'litre:0.3837', '150:0.3599', 'milestone:0.2562', 'grim:0.174']"
+        ],
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Putin more likely to start WW3 than accept defeat in Ukraine Russia state TV claims.txt+eventbasecode192+eventcode192+avgtone0.4591280653950954+goldsteinscale0.025+nummentions0.03193033381712627+numarticles0.032632342277012324+numsources0.04276315789473684+news_keywords+['putin:0.5437', 'ukraine:0.3848', 'nuclear:0.3218', 'war:0.3186', 'lavrov:0.2889', 'threat:0.272', 'rhetoric:0.2182', 'consequence:0.2076', 'warn:0.1986', 'interfere:0.1744', 'world:0.1743', 'border:0.1645', 'end:0.1577', 'probable:0.1532', 'die:0.1515', 'event:0.1339', 'know:0.1332', 'underestimate:0.1235', 'iii:0.1125', 'start:0.1058', 'real:0.1052', 'secretary:0.1045', 'tv:0.1033', 'accept:0.1013', 'someday:0.0967', 'february:0.0925', 'uk:0.0883', 'mobilise:0.0833', 'like:0.0682', 'panel:0.031']+titles_keywords+['putin:0.466', 'ww3:0.339', 'likely:0.1816', 'tv:0.1713', 'start:0.1487']"
+        ]
+    ],
+    "UKR+RUS+192":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Live Ukraine updates Boris Johnson holds talks with Zelensky.txt+eventbasecode192+eventcode192+avgtone0.47060833902939175+goldsteinscale0.025+nummentions0.007982583454281567+numarticles0.008339376359680928+numsources0.04276315789473684+news_keywords+['ukraine:0.5166', 'putin:0.4719', 'oligarch:0.3507', 'roubles:0.313', 'government:0.312', 'refugee:0.2976', 'news:0.2652', 'attack:0.2568', 'emergency:0.2518', 'zelensky:0.2487', 'nuclear:0.2247', 'table:0.2138', 'foreseeable:0.2088', 'colonel:0.2017', 'downing:0.2016', 'cymru:0.1964', 'renounce:0.1921', 'report:0.191', 'tension:0.182', 'opportunity:0.1781', 'watchdog:0.1748', 'continue:0.1732', 'gmt:0.1632', 'know:0.1617', 'allow:0.1475', 'long:0.1409', 'prime:0.1168', 'track:0.1086', 'really:0.0909', 'launder:0.0822']+titles_keywords+['zelensky:0.4407', 'boris:0.3952', 'ukraine:0.3099', 'talks:0.2527', 'johnson:0.2496']"
+        ]
+    ]
+}

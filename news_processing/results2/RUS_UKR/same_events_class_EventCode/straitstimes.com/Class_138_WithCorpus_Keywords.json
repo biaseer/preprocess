@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+138":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Fighting rages around Ukraine as Russia invades from three sides.txt+eventbasecode138+eventcode138+avgtone0.4597902097902098+goldsteinscale0.15+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['ukrainereuters:0.5464', 'crimea:0.4794', 'putin:0.402', 'invade:0.3951', 'nato:0.3733', 'demilitarisation:0.358', 'propaganda:0.3094', 'separatist:0.3043', 'chernobyl:0.3023', 'crisis:0.2484', 'coronavirus:0.2473', 'unprovoked:0.2424', 'gunfire:0.2412', 'surge:0.2273', 'purge:0.2263', 'paratrooper:0.226', 'capital:0.2141', 'prepared:0.2121', 'scary:0.2062', 'order:0.2039', 'columns:0.2016', 'hear:0.1987', 'subject:0.1933', 'curtain:0.1899', 'end:0.1722', 'world:0.1678', 'sure:0.1623', 'thursday:0.1383', 'near:0.1381', 'hour:0.1328']+titles_keywords+['ukraine:0.4875', 'invades:0.4062', 'fighting:0.3367', 'sides:0.2285', 'rages:0.1534']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Sporean exactor Ix Shen who lives in Ukraine has no plans to leave amid Russian.txt+eventbasecode138+eventcode138+avgtone0.46621621621621623+goldsteinscale0.15+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['kyiv:0.5566', 'ukraine:0.4873', 'shen:0.4029', 'russian:0.38', 'sporean:0.3401', 'attack:0.315', 'singaporean:0.2632', 'explosion:0.2628', 'war:0.2471', 'feb:0.2232', 'balcony:0.2206', 'live:0.2189', 'exactor:0.2007', 'night:0.1922', 'leave:0.1846', 'ix:0.1788', 'hear:0.1772', 'loud:0.1762', 'know:0.1753', 'wednesday:0.1737', 'plan:0.171', 'amid:0.156', 'stand:0.1501', 'miss:0.1434', 'close:0.1335', 'distance:0.1278', 'archive:0.1263', 'content:0.1045', 'paper:0.0855', 'pm:0.0665']+titles_keywords+['sporean:0.3962', 'shen:0.3538', 'ukraine:0.3493', 'attack:0.2363', 'exactor:0.2251']"
+        ]
+    ],
+    "USA+RUS+138":[
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/straitstimes.com/100 days of war How the Biden administration has handled the invasion of Ukraine.txt+eventbasecode138+eventcode138+avgtone0.44230769230769246+goldsteinscale0.15+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['biden:0.4734', 'putin:0.4383', 'ukraine:0.3861', 'war:0.3595', 'president:0.3409', 'invasion:0.3283', 'attack:0.3054', 'crisis:0.2412', 'day:0.2366', 'administration:0.2291', 'action:0.1934', 'joe:0.1934', 'denounce:0.19', 'coalition:0.1862', 'warn:0.1746', 'american:0.169', 'washington:0.16', 'week:0.1566', 'forcefully:0.1441', 'arm:0.1338', 'boot:0.1148', 'matter:0.1131', 'response:0.1103', 'refrain:0.1075', 'forefront:0.0966', 'handle:0.091', 'archive:0.0808', 'mr:0.0533', 'build:0.0496', 'ground:0.0473']+titles_keywords+['biden:0.4329', 'ukraine:0.3777', 'invasion:0.339', '100:0.2584', 'days:0.2317']"
+        ]
+    ]
+}

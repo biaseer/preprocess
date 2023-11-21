@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+70":[
+        [
+            "20220615+../news_crawling/RUS_UKR/p_articles/interfax.com/EU Advisory Mission donates IT support package to Ukrainian police.txt+eventbasecode70+eventcode70+avgtone0.5141509433962264+goldsteinscale0.85+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.464', 'eu:0.4593', 'police:0.4356', 'euam:0.4187', 'euros:0.3577', 'department:0.3236', 'infrastructure:0.2973', 'equipment:0.2915', 'protection:0.2908', 'investigation:0.2733', 'support:0.2649', 'smartphones:0.2387', 'union:0.2356', 'advisory:0.2189', 'report:0.2114', 'multifunctional:0.2047', 'information:0.1978', 'mission:0.1954', 'receive:0.1953', 'donate:0.1849', 'analytical:0.1551', 'ration:0.1507', 'office:0.147', 'worth:0.1308', 'individual:0.1302', 'wednesday:0.122', 'interfax:0.1216', 'new:0.0978', 'reference:0.097', 'include:0.0641']+titles_keywords+['eu:0.3453', 'support:0.3254', 'police:0.3065', 'advisory:0.2888', 'package:0.2775']"
+        ]
+    ],
+    "RUS+UKR+70":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/interfax.com/Sending volunteers to Donbas from Russia not under consideration Peskov.txt+eventbasecode70+eventcode70+avgtone0.5402684563758389+goldsteinscale0.85+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['volunteer:0.4629', 'putin:0.432', 'russians:0.4223', 'moscow:0.3923', 'dmitry:0.3756', 'syria:0.3503', 'military:0.3469', 'provide:0.2649', 'aid:0.2277', 'citizen:0.2126', 'presidential:0.2065', 'donbas:0.1844', 'approve:0.1708', 'sending:0.1694', 'secretary:0.1483', 'idea:0.1381', 'apply:0.138', 'come:0.1318', 'speak:0.1303', 'asked:0.126', 'plan:0.1177', 'know:0.1115', 'clarify:0.1022', 'shoigu:0.086', 'press:0.0808', 'friday:0.0588', 'permanent:0.0586', 'ordinary:0.0535', 'middle:0.0268', 'interfax:-0.0245']+titles_keywords+['peskov:0.4355', 'donbas:0.3929', 'volunteers:0.3635', 'russia:0.3454', 'sending:0.083']"
+        ]
+    ]
+}

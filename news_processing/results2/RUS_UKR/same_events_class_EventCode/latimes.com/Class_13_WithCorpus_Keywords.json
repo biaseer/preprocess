@@ -1,0 +1,12 @@
+{
+    "RUS+DEU+13":[
+        [
+            "20211229+../news_crawling/RUS_UKR/p_articles/latimes.com/New Germanybound pipeline may help reduce European energy prices Putin says.txt+eventbasecode13+eventcode13+avgtone0.4875621890547264+goldsteinscale0.52+nummentions0.03483309143686502+numarticles0.03553299492385787+numsources0.03618421052631579+news_keywords+['pipeline:0.4322', 'putin:0.3469', 'russias:0.3045', 'germanybound:0.2974', 'nord:0.2729', 'gazprom:0.224', 'transit:0.2212', 'eu:0.2108', 'surge:0.1919', 'increase:0.1753', 'stabilize:0.1678', 'attack:0.1588', 'energy:0.1565', 'approval:0.1549', 'construct:0.1515', 'natural:0.1263', 'consumer:0.1046', 'point:0.1', 'await:0.0998', 'trillion:0.0996', 'washington:0.0897', 'warn:0.0893', 'wont:0.0865', 'long:0.0855', 'new:0.0835', 'immediately:0.0834', 'price:0.0698', 'link:0.0646', 'undoubtedly:0.0569', 'cubic:0.0471']+titles_keywords+['pipeline:0.3693', 'germanybound:0.3431', 'putin:0.3309', 'reduce:0.1947', 'prices:0.0856']"
+        ]
+    ],
+    "RUS+UKR+13":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/latimes.com/Russia claims Mariupol amid fresh evidence its troops killed civilians.txt+eventbasecode13+eventcode13+avgtone0.4853870458135861+goldsteinscale0.52+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.006578947368421052+news_keywords+['crimea:0.5426', 'putin:0.4462', 'russias:0.3927', 'andrey:0.3866', 'refugee:0.3572', 'evacuate:0.3449', 'blockade:0.317', 'war:0.3165', 'azovstal:0.2848', 'democratic:0.2398', 'understand:0.2341', 'plant:0.2251', 'sviatohirsks:0.2198', 'industrial:0.2158', 'telegram:0.2124', 'urgent:0.2121', 'town:0.2103', 'appear:0.2082', 'allegation:0.2071', 'camouflagefatigues:0.2041', 'bucha:0.1931', 'corridor:0.1927', 'celebrate:0.187', 'predict:0.1805', 'like:0.1795', 'million:0.1666', 'fact:0.1529', 'bad:0.1399', 'heartbreaking:0.1103', 'theyve:0.0948']+titles_keywords+['mariupol:0.4587', 'russia:0.402', 'civilians:0.3358', 'evidence:0.2356', 'killed:0.1634']"
+        ]
+    ]
+}

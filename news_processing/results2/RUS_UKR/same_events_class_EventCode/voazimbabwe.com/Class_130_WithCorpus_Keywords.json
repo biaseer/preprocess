@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220203+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/Fear and Uncertainty in Ukraine Prompt Civilians to Prepare Arms.txt+eventbasecode130+eventcode130+avgtone0.43636363636363645+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.006578947368421052+news_keywords+['ukraine:0.4965', 'civilians:0.4094', 'military:0.3805', 'russian:0.3386', 'conflict:0.3121', 'civilian:0.3083', 'fear:0.2779', 'tension:0.2664', 'territory:0.2664', 'threat:0.2652', 'training:0.2522', 'prepare:0.2426', 'uncertainty:0.2135', 'prepared:0.203', 'state:0.1599', 'live:0.1532', 'intervention:0.139', 'event:0.1384', 'arms:0.1382', 'prompt:0.1361', 'alert:0.1289', 'lead:0.1261', 'seek:0.1208', 'year:0.1187', 'permanent:0.0941', 'constant:0.0281']+titles_keywords+['civilians:0.4625', 'ukraine:0.4365', 'fear:0.3846', 'prepare:0.3144', 'arms:0.2121']"
+        ],
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/Ukrainian President Says Defense Is at a Turning Point.txt+eventbasecode130+eventcode130+avgtone0.47732260424286754+goldsteinscale0.27999999999999997+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.14802631578947367+news_keywords+['ukraine:0.4783', 'kremlin:0.3996', 'nato:0.3888', 'war:0.3461', 'escalation:0.3071', 'redeploy:0.2938', 'pentagon:0.2861', 'turn:0.2749', 'prepare:0.2575', 'zelenskyy:0.2565', 'separatist:0.2563', 'blockade:0.242', 'infrastructure:0.238', 'soon:0.2361', 'presidential:0.2253', 'news:0.2245', 'know:0.2172', 'deliver:0.211', 'agreement:0.2033', 'neutral:0.198', 'respond:0.1969', 'end:0.1957', 'hope:0.1777', 'resume:0.1714', 'long:0.1677', 'afraid:0.1579', 'stock:0.1438', 'bucha:0.1394', 'focus:0.1281', 'array:0.0796']+titles_keywords+['turning:0.3329', 'ukrainian:0.3256', 'defense:0.2551', 'president:0.2245', 'point:0.1349']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/wxii12.com/We are all heartbroken A look at rallies in support of Ukraine.txt+eventbasecode51+eventcode51+avgtone0.5063091482649842+goldsteinscale0.67+nummentions0.08018867924528301+numarticles0.08085569253081944+numsources0.09539473684210527+news_keywords+['ukraine:0.5029', 'putin:0.3649', 'solidarity:0.3589', 'onishchuk:0.3262', 'war:0.3231', 'gather:0.2807', 'flee:0.2543', 'feel:0.2324', 'away:0.2319', 'represent:0.2265', 'omaha:0.2245', 'heartbroken:0.2227', 'soldier:0.2163', 'believe:0.2063', 'saturday:0.2045', 'help:0.2015', 'sign:0.1983', 'united:0.1798', 'people:0.1781', 'world:0.1778', 'hour:0.173', 'president:0.1585', 'evil:0.157', 'look:0.1425', 'thousands:0.1389', 'hard:0.1186', 'really:0.1164', 'dressed:0.1034', 'freire:0.1023', 'dodge:0.0879']+titles_keywords+['ukraine:0.4218', 'rallies:0.3933', 'heartbroken:0.3271', 'look:0.1521', 'support:0.1387']"
+        ]
+    ],
+    "USA+UKR+51":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/wxii12.com/Its a united front Massachusetts woman born in Ukraine speaks about potential Russian invasion.txt+eventbasecode51+eventcode51+avgtone0.48819444444444443+goldsteinscale0.67+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.03289473684210526+news_keywords+['ukraine:0.4703', 'putin:0.3735', 'diplomacy:0.3283', 'invasion:0.314', 'allies:0.3064', 'unite:0.2803', 'border:0.2428', 'military:0.2111', 'independence:0.201', 'pursue:0.199', 'fight:0.1954', 'biden:0.1849', 'tension:0.1802', 'volodymyr:0.154', 'ready:0.1535', 'want:0.1528', 'avoid:0.1439', 'saturday:0.143', 'continue:0.1421', 'speak:0.1302', 'hour:0.1276', 'document:0.1271', 'partner:0.1221', 'sphere:0.1033', 'straightforward:0.098', 'possibility:0.0877', 'house:0.0854', 'miller:0.0653', 'thousands:0.056', 'year:0.0482']+titles_keywords+['ukraine:0.4244', 'woman:0.3154', 'invasion:0.3035', 'born:0.1926', 'speaks:0.149']"
+        ]
+    ]
+}

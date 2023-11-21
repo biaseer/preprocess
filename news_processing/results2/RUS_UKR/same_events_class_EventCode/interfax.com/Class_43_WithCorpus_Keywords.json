@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+43":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/interfax.com/Russias Medinsky Donbas people themselves should decide how to govern territories where they live.txt+eventbasecode43+eventcode43+avgtone0.4966996699669967+goldsteinscale0.64+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5185', 'putin:0.4724', 'russias:0.4273', 'vladimir:0.3935', 'democracy:0.3835', 'govern:0.3371', 'territory:0.3157', 'medinsky:0.2647', 'donbas:0.2509', 'delegation:0.2487', 'decide:0.2312', 'centralized:0.2131', 'people:0.193', 'differ:0.1664', 'count:0.1651', 'civilian:0.1566', 'make:0.1414', 'look:0.1362', 'defend:0.125', 'talk:0.1234', 'official:0.1146', 'issue:0.1135', 'head:0.1091', 'fact:0.1088', 'continue:0.1087', 'weapon:0.0817', 'clear:0.0802', 'nearly:0.0589', 'year:0.052', 'wage:0.0379']+titles_keywords+['russias:0.4397', 'govern:0.3896', 'medinsky:0.3552', 'donbas:0.3126', 'decide:0.2166']"
+        ],
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/interfax.com/Number of those arriving in Ukraine slightly exceeds number of departures.txt+eventbasecode43+eventcode43+avgtone0.49728260869565216+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.4794', 'refugees:0.3622', 'border:0.2562', 'arrive:0.2107', 'departure:0.204', 'humanitarian:0.201', 'left:0.1896', 'number:0.1774', 'data:0.1595', 'cross:0.1587', 'july:0.1499', 'western:0.1492', 'passenger:0.1422', 'total:0.1354', 'increase:0.1189', 'previous:0.111', 'accord:0.1048', 'report:0.1035', 'benefit:0.0994', 'entered:0.0981', 'social:0.0801', 'day:0.0778', 'carry:0.0754', 'cite:0.064', 'time:0.0598', 'according:0.0571', 'compare:0.0476', 'state:0.0306', 'note:0.0075', 'interfax:0.0072']+titles_keywords+['ukraine:0.3852', 'departures:0.2935', 'arriving:0.2622', 'number:0.1883', 'slightly:0.0811']"
+        ]
+    ],
+    "TUR+UKR+43":[
+        [
+            "20220815+../news_crawling/RUS_UKR/p_articles/interfax.com/Ship carrying Ukrainian wheat arrives in Istanbul media.txt+eventbasecode43+eventcode43+avgtone0.5016129032258064+goldsteinscale0.64+nummentions0.0047169811320754715+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['suez:0.4269', 'ship:0.3966', 'chornomorsk:0.3231', 'exportation:0.3157', 'nations:0.3031', 'turkish:0.2965', 'flag:0.2864', 'navi:0.2501', 'grain:0.2489', 'polarnet:0.2422', 'traffic:0.2407', 'deliver:0.2368', 'designate:0.2359', 'information:0.2197', 'jcc:0.201', 'clear:0.1904', 'interfax:0.1822', 'particular:0.1765', 'corridor:0.1705', 'bulkers:0.165', 'mv:0.156', 'coordination:0.1524', 'according:0.1405', 'marshall:0.1391', 'trt:0.1344', 'open:0.1245', 'head:0.1234', 'deal:0.1163', 'august:0.0968', 'izmit:0.0966']+titles_keywords+['istanbul:0.3738', 'wheat:0.3714', 'ukrainian:0.3402', 'ship:0.2655', 'arrives:0.2053']"
+        ]
+    ]
+}

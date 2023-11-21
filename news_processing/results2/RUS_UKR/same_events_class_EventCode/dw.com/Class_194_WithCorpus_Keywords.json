@@ -1,0 +1,19 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/dw.com/Ukraine war Odesa prepares for the worst.txt+eventbasecode194+eventcode194+avgtone0.45+goldsteinscale0.0+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4816', 'ukrainian:0.4206', 'war:0.3526', 'russian:0.3272', 'attack:0.3137', 'odesa:0.307', 'missile:0.3013', 'defend:0.2975', 'prepare:0.2776', 'underground:0.2441', 'city:0.241', 'port:0.2401', 'sea:0.2283', 'hometown:0.1833', 'intensify:0.152', 'resident:0.1425', 'situation:0.1361', 'report:0.1315', 'jan:0.1105', 'philipp:0.1044', 'scholz:0.1021', 'tense:0.1005', 'black:0.0936', 'worst:0.0761', 'determine:0.0241', 'dw:-0.0008']+titles_keywords+['ukraine:0.473', 'odesa:0.458', 'war:0.4116', 'prepares:0.2837', 'worst:0.1675']"
+        ],
+        [],
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/dw.com/Donetsk governor urges residents to flee.txt+eventbasecode194+eventcode194+avgtone0.4765625+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['donetsk:0.487', 'evacuate:0.4772', 'slovyansk:0.4236', 'ukrainian:0.3658', 'flee:0.3093', 'russian:0.2861', 'governor:0.2735', 'safe:0.2541', 'missiles:0.2518', 'resident:0.2462', 'city:0.2146', 'attack:0.1815', 'region:0.1734', 'place:0.1324', 'step:0.0887', 'eastern:0.0743', 'market:0.0742', 'force:0.0717', 'urge:0.0652', 'struck:0.0617', 'say:0.0315', 'official:0.018', 'tuesday:0.0147']+titles_keywords+['flee:0.4326', 'donetsk:0.4123', 'governor:0.2957', 'residents:0.2404', 'urges:0.1016']"
+        ],
+        [
+            "20220714+../news_crawling/RUS_UKR/p_articles/dw.com/Russian missiles strike deep into Ukraine.txt+eventbasecode194+eventcode194+avgtone0.475+goldsteinscale0.0+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.01644736842105263+news_keywords+['missiles:0.4246', 'ukraine:0.408', 'ukrainian:0.3651', 'russian:0.3348', 'vinnytsia:0.3235', 'missile:0.3027', 'donbas:0.2096', 'kill:0.1941', 'region:0.1908', 'strike:0.1638', 'eastern:0.1481', 'deep:0.1413', 'people:0.134', 'injure:0.1285', 'struck:0.123', 'city:0.1209', 'central:0.1086', 'make:0.1064', 'country:0.1044', 'day:0.0787', 'fail:0.0689', 'recent:0.0335', 'gain:0.0292', 'significant:0.022']+titles_keywords+['missiles:0.3708', 'ukraine:0.3393', 'russian:0.2488', 'deep:0.2472', 'strike:0.1423']"
+        ]
+    ],
+    "UKR+RUS+194":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/dw.com/Ukraine How Elon Musk got involved.txt+eventbasecode194+eventcode194+avgtone0.47995212447636143+goldsteinscale0.0+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.006578947368421052+news_keywords+['ukraine:0.5753', 'iss:0.4766', 'occupy:0.3253', 'satellite:0.3088', 'esa:0.2903', 'cybersecurity:0.2879', 'spacefaring:0.2877', 'musk:0.2853', 'fedorov:0.2747', 'translate:0.2739', 'earth:0.2726', 'destinations:0.2477', 'decommission:0.2415', 'sector:0.2371', 'involve:0.234', 'know:0.2311', 'concern:0.2304', 'future:0.229', 'cosmodrome:0.2167', 'economic:0.2124', 'debris:0.2002', 'publish:0.1998', 'sanction:0.1893', 'partner:0.1883', 'instead:0.177', 'lengthy:0.1687', 'event:0.1666', 'outer:0.1632', 'come:0.1383', 'welcome:0.0889']+titles_keywords+['ukraine:0.5661', 'musk:0.5595', 'elon:0.5009', 'involved:0.3069', 'got:0.128']"
+        ]
+    ]
+}

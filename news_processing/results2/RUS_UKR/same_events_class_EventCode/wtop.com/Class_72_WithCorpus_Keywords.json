@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+72":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/wtop.com/RussiaUkraine war Key things to know about the conflict.txt+eventbasecode72+eventcode72+avgtone0.4785575048732944+goldsteinscale0.915+nummentions0.09107402031930334+numarticles0.09173313995649021+numsources0.10526315789473684+news_keywords+['ukraine:0.4961', 'kremlin:0.4766', 'war:0.3558', 'ivanov:0.3345', 'chernobyl:0.3344', 'government:0.297', 'blockade:0.2826', 'inform:0.2755', 'emergency:0.2594', 'cybersecurity:0.2547', 'unprovoked:0.2537', 'tank:0.2327', 'concern:0.2168', 'capital:0.2121', 'tariff:0.208', 'president:0.2079', 'source:0.1899', 'psaki:0.189', 'order:0.1863', 'pentagons:0.186', 'stay:0.1825', 'import:0.1686', 'boy:0.1683', 'watchdog:0.1666', 'thursday:0.1655', 'plant:0.1524', 'turn:0.1523', 'grabchak:0.1401', 'million:0.104', 'entirely:0.1007']+titles_keywords+['russiaukraine:0.4639', 'war:0.424', 'know:0.18', 'things:0.1701', 'key:0.0945']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/wtop.com/Live updates Zelenskyy recalls envoys to Georgia Morocco.txt+eventbasecode72+eventcode72+avgtone0.47992081447963797+goldsteinscale0.915+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.013157894736842105+news_keywords+['ukraine:0.4737', 'putins:0.4064', 'pravda:0.3971', 'briefing:0.3249', 'oligarch:0.3056', 'peacebuilding:0.2859', 'cyberattack:0.2651', 'know:0.2579', 'separatist:0.2571', 'evacuate:0.2522', 'election:0.2514', 'update:0.2445', 'zelesnkyy:0.2379', 'interfere:0.23', 'reposition:0.2287', 'soon:0.2277', 'agreement:0.2243', 'multilateral:0.2221', 'emphasize:0.1909', 'armed:0.1909', 'allegation:0.1901', 'cite:0.1892', 'long:0.189', 'term:0.18', 'extent:0.1751', 'follow:0.1717', 'submit:0.1709', 'discus:0.1664', 'interpreter:0.1624', 'dozen:0.123']+titles_keywords+['zelenskyy:0.494', 'envoys:0.4352', 'updates:0.2729', 'recalls:0.2541', 'georgia:0.216']"
+        ]
+    ]
+}

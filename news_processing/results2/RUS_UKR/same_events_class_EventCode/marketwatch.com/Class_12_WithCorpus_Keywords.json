@@ -1,0 +1,19 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20211201+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Putin demands guarantee that NATO wont expand farther east.txt+eventbasecode12+eventcode12+avgtone0.47462871287128716+goldsteinscale0.48+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.01644736842105263+news_keywords+['nato:0.4409', 'putin:0.4293', 'vladimir:0.3858', 'moscow:0.3729', 'russia:0.3454', 'russias:0.3262', 'ukraine:0.3142', 'expand:0.2641', 'encroachment:0.2353', 'border:0.2331', 'preclude:0.2306', 'guarantee:0.2127', 'expansion:0.1646', 'warn:0.1629', 'western:0.1467', 'deployment:0.1358', 'wont:0.1248', 'line:0.1137', 'seek:0.1051', 'near:0.1048', 'say:0.0953', 'president:0.0908', 'east:0.0774', 'weapon:0.075', 'demand:0.0732', 'far:0.0689', 'wednesday:0.0423', 'ap:0.0283', 'red:0.0066', 'context:-0.0018']+titles_keywords+['nato:0.4907', 'putin:0.4102', 'expand:0.2713', 'guarantee:0.2286', 'wont:0.1676']"
+        ],
+        []
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220116+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Ukraine says Russia behind cyberattack on government sites as threat of invasion looms.txt+eventbasecode12+eventcode12+avgtone0.4580335731414868+goldsteinscale0.48+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['cyberattack:0.4834', 'ukraine:0.4796', 'invasion:0.3538', 'attack:0.2969', 'ransomware:0.2767', 'war:0.2527', 'government:0.2523', 'threat:0.2438', 'microsoft:0.2399', 'defaced:0.1808', 'infect:0.1766', 'website:0.152', 'hybrid:0.1467', 'disguise:0.132', 'attention:0.1302', 'come:0.1152', 'neighbor:0.1102', 'grab:0.0925', 'increase:0.0872', 'allege:0.0827', 'digital:0.0812', 'unspecified:0.0806', 'statement:0.0804', 'official:0.0758', 'day:0.0651', 'suggest:0.0613', 'dozen:0.0598', 'sit:0.0471', 'say:0.0459', 'loom:0.0006']+titles_keywords+['cyberattack:0.4342', 'ukraine:0.422', 'invasion:0.2962', 'sites:0.1151', 'says:0.0445']"
+        ],
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Russian military slog in Ukraine a dreadful mess for Putin.txt+eventbasecode12+eventcode12+avgtone0.46792763157894735+goldsteinscale0.48+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.029605263157894735+news_keywords+['ukraine:0.5798', 'russian:0.4669', 'vladimir:0.4496', 'putins:0.4377', 'orthodox:0.3567', 'victory:0.3241', 'parade:0.2993', 'troop:0.2904', 'mess:0.2803', 'truck:0.2778', 'occupy:0.2752', 'flag:0.2605', 'fight:0.2578', 'sign:0.2456', 'hop:0.2393', 'berdyansk:0.2353', 'supply:0.2277', 'grenade:0.2245', 'city:0.2227', 'slog:0.2223', 'ready:0.1891', 'propel:0.1861', 'prove:0.1693', 'blue:0.1679', 'far:0.1667', 'carry:0.1502', 'dreadful:0.15', 'post:0.1455', 'swift:0.1449', 'captor:0.1144']+titles_keywords+['putin:0.4956', 'mess:0.2934', 'military:0.2732', 'dreadful:0.273', 'slog:0.2577']"
+        ],
+        [
+            "20220621+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Putin Is Winning the Currency War The Rubles Bull Market Has Just Begun.txt+eventbasecode12+eventcode12+avgtone0.4894894894894895+goldsteinscale0.48+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['ruble:0.5787', 'putin:0.5013', 'ukraine:0.3581', 'downtrend:0.3466', 'bull:0.3295', 'war:0.2665', 'profitable:0.241', 'chart:0.2137', 'begun:0.2035', 'end:0.2001', 'monthly:0.1854', 'chessboard:0.1853', 'worthless:0.1827', 'report:0.1641', 'research:0.1596', 'sink:0.1572', 'decline:0.1478', 'year:0.146', 'level:0.1379', 'outcome:0.1378', 'view:0.1365', 'trade:0.1326', 'current:0.1311', 'global:0.1293', 'practically:0.1239', 'dramatic:0.1215', 'possibility:0.1124', 'ofthe:0.1049', 'later:0.0891', 'technical:0.0859']+titles_keywords+['rubles:0.5286', 'putin:0.5046', 'bull:0.3602', 'begun:0.2741', 'winning:0.2736']"
+        ]
+    ]
+}

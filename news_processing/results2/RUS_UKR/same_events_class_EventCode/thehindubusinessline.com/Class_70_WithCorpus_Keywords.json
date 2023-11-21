@@ -1,0 +1,12 @@
+{
+    "AUS+RUS+70":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/Steel makers hike prices on supply constraints.txt+eventbasecode70+eventcode70+avgtone0.4877358490566038+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['steel:0.385', 'increase:0.2802', 'price:0.2248', 'supplier:0.2245', 'renegotiations:0.2203', 'russias:0.1907', 'april:0.1835', 'volatility:0.1659', 'coil:0.1612', 'sharma:0.1593', 'tonne:0.1499', 'level:0.1437', 'import:0.1429', 'jindal:0.1399', 'global:0.1377', 'concern:0.1282', 'know:0.1276', 'jsw:0.1158', 'benchmark:0.1146', 'constraint:0.1115', 'lucrative:0.1', 'hrcs:0.099', 'hike:0.0848', 'tangshan:0.0779', 'factor:0.0757', 'sit:0.0729', 'include:0.0601', 'state:0.0541', 'hover:0.0523', 'likely:0.0437']+titles_keywords+['steel:0.3511', 'prices:0.2801', 'constraints:0.2661', 'supply:0.2009', 'hike:0.0976']"
+        ]
+    ],
+    "UKR+RUS+70":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/3 reasons why corn prices may rule higher than normal this year.txt+eventbasecode70+eventcode70+avgtone0.49210206561360875+goldsteinscale0.85+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['corn:0.4623', 'agriculture:0.4393', 'usda:0.3583', 'economic:0.3194', 'fertiliser:0.3169', 'produce:0.2951', 'acreage:0.2743', 'stock:0.2396', 'increase:0.2171', 'projection:0.2005', 'gas:0.2', 'prices:0.1988', 'analysis:0.1983', 'forecast:0.1935', 'bushel:0.1933', 'ration:0.1804', 'significant:0.1552', 'estimate:0.1535', 'surge:0.153', 'ukraine:0.1516', 'level:0.1441', 'require:0.1403', 'rule:0.1373', 'benchmark:0.1213', 'halt:0.1203', 'global:0.1188', 'month:0.114', 'view:0.1105', 'unctad:0.0915', 'hinging:0.0614']+titles_keywords+['corn:0.4962', 'prices:0.3009', 'reasons:0.2812', 'higher:0.2077', 'rule:0.1217']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+42":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/arabnews.com/Kremlin says Western arms useless as Europe leaders visit Kyiv.txt+eventbasecode42+eventcode42+avgtone0.5018181818181818+goldsteinscale0.595+nummentions0.25217706821480407+numarticles0.2527193618564177+numsources0.3157894736842105+news_keywords+['kyiv:0.5215', 'ukraines:0.4795', 'kremlin:0.4393', 'dmitry:0.4095', 'peskov:0.4069', 'medvedev:0.4059', 'gorilka:0.3304', 'visit:0.2692', 'macron:0.2134', 'bring:0.2046', 'troop:0.2045', 'unions:0.1947', 'howitzer:0.1889', 'warn:0.184', 'peace:0.182', 'security:0.1802', 'western:0.1717', 'reporter:0.1712', 'promised:0.1619', 'make:0.1431', 'thursday:0.1423', 'closer:0.1417', 'train:0.1382', 'useless:0.1342', 'affair:0.1324', 'prime:0.1017', 'arm:0.095', 'wont:0.0867', 'state:0.0823', 'focus:0.0817']+titles_keywords+['kremlin:0.4434', 'kyiv:0.3813', 'useless:0.2739', 'arms:0.1873', 'western:0.1688']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220627+../news_crawling/RUS_UKR/p_articles/arabnews.com/Russian forces turn sights on Lysychansk in battle for eastern Ukraine.txt+eventbasecode42+eventcode42+avgtone0.47813578826237046+goldsteinscale0.595+nummentions0.03193033381712627+numarticles0.032632342277012324+numsources0.02631578947368421+news_keywords+['ukraine:0.5153', 'kremlin:0.4692', 'moscows:0.4405', 'nato:0.4378', 'war:0.3769', 'frontline:0.3291', 'news:0.2897', 'strategic:0.2826', 'threaten:0.2823', 'lysychansks:0.2805', 'industrial:0.2508', 'turn:0.2347', 'range:0.2191', 'report:0.2126', 'presidential:0.2047', 'pull:0.2013', 'isolate:0.2004', 'baseless:0.1899', 'pretext:0.1878', 'long:0.1814', 'bare:0.1764', 'familiar:0.1711', 'feb:0.1641', 'tass:0.1625', 'soar:0.1607', 'import:0.156', 'immediate:0.1478', 'largely:0.1056', 'possible:0.0925', 'sent:0.0362']+titles_keywords+['lysychansk:0.4438', 'ukraine:0.3509', 'battle:0.2508', 'sights:0.2363', 'turn:0.2198']"
+        ]
+    ]
+}

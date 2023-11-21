@@ -1,0 +1,17 @@
+{
+    "CAN+RUS+20":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/xinhuanet.com/Canadian PM calls for Russias removal from SWIFT payment system.txt+eventbasecode20+eventcode20+avgtone0.48854961832061067+goldsteinscale0.65+nummentions0.02467343976777939+numarticles0.024655547498187092+numsources0.01644736842105263+news_keywords+['russia:0.4516', 'putin:0.4346', 'trudeau:0.3711', 'sanction:0.3426', 'swift:0.3274', 'ottawa:0.2905', 'lavrov:0.2661', 'transaction:0.2559', 'removal:0.2405', 'government:0.2153', 'financial:0.198', 'international:0.1844', 'xinhua:0.1779', 'donation:0.1706', 'announce:0.1625', 'directly:0.1618', 'use:0.1488', 'friday:0.1432', 'press:0.1411', 'extend:0.1406', 'pm:0.129', 'prime:0.121', 'circle:0.1165', 'feb:0.1145', 'red:0.1', 'prepare:0.0925', 'maximum:0.0861', 'chief:0.0793', 'join:0.0628', 'advisers:0.0613']+titles_keywords+['swift:0.3524', 'russias:0.3431', 'canadian:0.2545', 'payment:0.1681', 'calls:0.0523']"
+        ]
+    ],
+    "CHN+RUS+20":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/xinhuanet.com/Facts about RussiaUkraine conflict EU proposing new sanctions Russia more prudent in food export.txt+eventbasecode20+eventcode20+avgtone0.49528301886792453+goldsteinscale0.65+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.01644736842105263+news_keywords+['putin:0.4643', 'ukraine:0.4474', 'chernobyl:0.4014', 'eu:0.2957', 'diplomat:0.2851', 'chizhov:0.2812', 'sanction:0.272', 'infrastructure:0.2256', 'xinhua:0.2098', 'communicate:0.2036', 'import:0.1908', 'order:0.1784', 'continue:0.1694', 'affair:0.1663', 'facts:0.1609', 'advantage:0.1557', 'unfriendly:0.1348', 'seafood:0.13', 'fluctuation:0.1293', 'step:0.1281', 'make:0.1241', 'dismantle:0.1225', 'armed:0.1221', 'grata:0.1161', 'reciprocal:0.1008', 'wednesday:0.0903', 'groundless:0.0878', 'check:0.0838', 'npp:0.0819', 'year:0.0735']+titles_keywords+['sanctions:0.4908', 'russiaukraine:0.3711', 'conflict:0.2419', 'facts:0.2404', 'export:0.2122']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/xinhuanet.com/Russia calls for verification mechanism on USfunded biolabs in Ukraine.txt+eventbasecode20+eventcode20+avgtone0.48360655737704916+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['biolabs:0.4327', 'ukraine:0.3636', 'toxin:0.3451', 'biological:0.3447', 'laboratory:0.3387', 'mechanism:0.2786', 'concern:0.2263', 'lavrov:0.2187', 'research:0.2164', 'verification:0.1961', 'weapons:0.1808', 'military:0.1772', 'establish:0.1768', 'international:0.1683', 'facility:0.1662', 'senate:0.1657', 'usfunded:0.1637', 'political:0.1597', 'make:0.1537', 'testify:0.1444', 'xinhua:0.1425', 'agent:0.1399', 'soon:0.1253', 'believe:0.0893', 'stop:0.0851', 'program:0.0823', 'plan:0.0742', 'number:0.0684', 'year:0.0177', 'huge:0.0133']+titles_keywords+['ukraine:0.4008', 'biolabs:0.3741', 'usfunded:0.2499', 'verification:0.17', 'mechanism:0.1529']"
+        ]
+    ]
+}

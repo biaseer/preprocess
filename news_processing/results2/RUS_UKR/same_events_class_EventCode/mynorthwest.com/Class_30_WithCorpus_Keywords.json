@@ -1,0 +1,17 @@
+{
+    "GBR+UKR+30":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Ukraine facing grinding campaign as it waits for weapons.txt+eventbasecode30+eventcode30+avgtone0.48569794050343246+goldsteinscale0.7+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4945', 'kremlin:0.3809', 'airstrikes:0.3672', 'troop:0.2522', 'pentagon:0.2475', 'predict:0.2426', 'advance:0.2357', 'industrial:0.2264', 'arrive:0.2091', 'rebuild:0.2057', 'turn:0.2041', 'yuras:0.1981', 'capital:0.1967', 'long:0.1963', 'supplies:0.1945', 'sievierodonetsk:0.181', 'secretary:0.1741', 'donald:0.1557', 'sufficient:0.155', 'kilometer:0.1537', 'arm:0.1404', 'overwhelming:0.138', 'newly:0.1365', 'wednesday:0.1365', 'scenario:0.1282', 'total:0.1262', 'donbas:0.1251', 'resist:0.1169', 'send:0.0846', 'theres:0.028']+titles_keywords+['ukraine:0.429', 'campaign:0.3248', 'grinding:0.3049', 'weapons:0.2731', 'waits:0.1819']"
+        ]
+    ],
+    "PHL+RUS+30":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Philippines to proceed with deal to buy Russian helicopters.txt+eventbasecode30+eventcode30+avgtone0.48611111111+goldsteinscale0.7+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.4555', 'ukraine:0.4226', 'helicopters:0.3792', 'dutertes:0.3389', 'manila:0.3224', 'treaty:0.3063', 'acquisition:0.2888', 'insurgency:0.2885', 'infrastructure:0.2332', 'concern:0.2208', 'ap:0.2143', 'humanitarian:0.2083', 'proceed:0.2073', 'underfunded:0.1926', 'weapon:0.1904', 'agreement:0.1631', 'pzl:0.1595', 'jinping:0.1542', 'protect:0.1474', 'immediate:0.1443', 'sovtechnoexport:0.1378', 'billion:0.1369', 'term:0.129', 'rewritten:0.1234', 'multipurpose:0.1222', 'pull:0.119', 'wednesday:0.1185', 'long:0.1138', 'frequently:0.1074', 'year:0.1067']+titles_keywords+['philippines:0.349', 'helicopters:0.3062', 'russian:0.2928', 'buy:0.2316', 'proceed:0.0877']"
+        ]
+    ],
+    "UKR+RUS+30":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/UN nuclear agency again asks to visit Ukraine nuclear plant.txt+eventbasecode30+eventcode30+avgtone0.4900552486187846+goldsteinscale0.7+nummentions0.041364296081277216+numarticles0.04205946337926034+numsources0.07894736842105263+news_keywords+['nuclear:0.4467', 'iaea:0.4089', 'kyiv:0.3689', 'demilitarize:0.3184', 'war:0.2873', 'putins:0.2794', 'readiness:0.2696', 'contamination:0.2677', 'proceed:0.2464', 'itinerary:0.2414', 'safeguard:0.2392', 'blackmail:0.2351', 'nebenzia:0.2334', 'propaganda:0.2332', 'warning:0.2244', 'troop:0.2107', 'secretary:0.2003', 'fraught:0.1917', 'issue:0.1673', 'purpose:0.1667', 'irresponsible:0.1487', 'cite:0.1459', 'soon:0.1378', 'cover:0.1211', 'farce:0.1137', 'renew:0.1106', 'shoigu:0.1096', 'agree:0.0954', 'possible:0.0587', 'welcome:0.0542']+titles_keywords+['nuclear:0.3944', 'ukraine:0.3676', 'visit:0.2207', 'agency:0.1572', 'asks:0.0959']"
+        ]
+    ]
+}

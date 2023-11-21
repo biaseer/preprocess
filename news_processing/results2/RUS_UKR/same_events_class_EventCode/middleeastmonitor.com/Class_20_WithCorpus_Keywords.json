@@ -1,0 +1,17 @@
+{
+    "ISR+RUS+20":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/middleeastmonitor.com/Israel rejects Ukraines request for Pegasus spyware over fears of angering Russia.txt+eventbasecode20+eventcode20+avgtone0.47922077922077927+goldsteinscale0.65+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.003289473684210526+news_keywords+['espionage:0.48', 'ukraines:0.3669', 'israeli:0.3323', 'terrorism:0.3152', 'recaptcha:0.3142', 'pegasus:0.3071', 'reuters:0.2644', 'software:0.2297', 'sabaanehmiddleeastmonitornso:0.2099', 'activists:0.2062', 'emirates:0.2021', 'phone:0.1895', 'encrypt:0.1873', 'report:0.1751', 'watchdog:0.1737', 'jeopardise:0.165', 'osy:0.162', 'weapon:0.1589', 'relationship:0.1417', 'confused:0.1415', 'message:0.1377', 'permission:0.1354', 'global:0.1307', 'specialise:0.1276', 'sharealike:0.1245', 'reluctance:0.1089', 'right:0.1071', 'additional:0.104', 'turn:0.0925', 'unless:0.0315']+titles_keywords+['ukraines:0.3434', 'israel:0.281', 'spyware:0.2568', 'pegasus:0.2464', 'rejects:0.1102']"
+        ]
+    ],
+    "RUS+IRN+20":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/middleeastmonitor.com/Russia Ambassador urges Iranian media outlets to avoid invasion rhetoric.txt+eventbasecode20+eventcode20+avgtone0.47526501766784457+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4726', 'iranian:0.3712', 'nato:0.3634', 'war:0.3371', 'invasion:0.3168', 'demilitarise:0.2681', 'ayatollah:0.2647', 'refugee:0.2363', 'crisis:0.2071', 'flee:0.1915', 'oppose:0.1855', 'instead:0.1758', 'rhetoric:0.1733', 'news:0.1468', 'sanction:0.1461', 'dzhagaryan:0.1342', 'end:0.1319', 'terms:0.1287', 'neighbouring:0.1281', 'recaptcha:0.1146', 'simmer:0.1123', 'february:0.1032', 'accord:0.093', 'grow:0.0902', 'severe:0.0765', 'privacy:0.0661', 'blame:0.0655', 'million:0.0647', 'apply:0.0603', 'draw:0.0542']+titles_keywords+['russia:0.3169', 'ambassador:0.2612', 'rhetoric:0.2302', 'invasion:0.1982', 'avoid:0.1344']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/middleeastmonitor.com/Tunisia prevents officials from making statements about the grain crisis.txt+eventbasecode20+eventcode20+avgtone0.49032258064516127+goldsteinscale0.65+nummentions0.034107402031930335+numarticles0.03480783176214648+numsources0.06578947368421052+news_keywords+['agriculture:0.4166', 'tunisia:0.4003', 'ukraine:0.3616', 'grain:0.3311', 'war:0.3205', 'disturbances:0.2832', 'government:0.2721', 'supplier:0.2462', 'informed:0.2232', 'currency:0.2207', 'issue:0.2206', 'import:0.2133', 'increase:0.2005', 'secure:0.1982', 'need:0.1852', 'terms:0.176', 'statement:0.1754', 'recaptcha:0.1601', 'indicate:0.1601', 'treasury:0.1596', 'significant:0.1505', 'prevents:0.1461', 'mohamed:0.1456', 'black:0.1294', 'publish:0.1239', 'february:0.1142', 'previous:0.1034', 'relate:0.1014', 'surge:0.0989', 'program:0.0762']+titles_keywords+['tunisia:0.3695', 'grain:0.2535', 'prevents:0.2467', 'officials:0.2035', 'statements:0.1918']"
+        ]
+    ]
+}

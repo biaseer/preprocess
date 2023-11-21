@@ -1,0 +1,12 @@
+{
+    "RUS+KAZ+192":[
+        [
+            "20220109+../news_crawling/RUS_UKR/p_articles/southcarolinapublicradio.org/Russian troops have crossed the border into Kazakhstan following violent protests.txt+eventbasecode192+eventcode192+avgtone0.4444444444444445+goldsteinscale0.025+nummentions0.03773584905660377+numarticles0.03843364757070341+numsources0.05592105263157895+news_keywords+['ukraine:0.5049', 'soviet:0.4539', 'unrest:0.4173', 'diplomacy:0.339', 'clashes:0.327', 'tokayev:0.3199', 'crisis:0.3083', 'nursultan:0.3065', 'threat:0.3041', 'correspondent:0.2866', 'protester:0.2848', 'border:0.2665', 'troop:0.2549', 'evacuate:0.2395', 'report:0.2341', 'trip:0.2193', 'know:0.2092', 'stabilize:0.2089', 'suddenly:0.1927', 'continue:0.1905', 'turn:0.1796', 'schedule:0.157', 'order:0.1541', 'implication:0.1462', 'gas:0.1369', 'far:0.1274', 'active:0.1213', 'ground:0.1074', 'rascoe:0.0886', 'pretty:0.0815']+titles_keywords+['kazakhstan:0.3649', 'troops:0.2838', 'border:0.2143', 'violent:0.1309', 'crossed:0.1136']"
+        ]
+    ],
+    "RUS+UKR+192":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/southcarolinapublicradio.org/Fighting breaks out after Russian troops enter Ukraines secondlargest city.txt+eventbasecode192+eventcode192+avgtone0.44+goldsteinscale0.025+nummentions0.04426705370101597+numarticles0.044960116026105876+numsources0.06578947368421052+news_keywords+['kyiv:0.5358', 'crimea:0.5293', 'ukrainians:0.4974', 'putin:0.3746', 'invade:0.3402', 'revolution:0.3381', 'separatist:0.3336', 'conflict:0.3248', 'know:0.269', 'english:0.2493', 'region:0.2422', 'leave:0.2205', 'soldier:0.2174', 'future:0.2114', 'pipeline:0.209', 'want:0.197', 'tetyana:0.1962', 'worried:0.1952', 'main:0.1882', 'student:0.1868', 'trap:0.1813', 'live:0.1775', 'listen:0.1685', 'briefly:0.1608', 'craziness:0.1519', 'ready:0.1455', 'month:0.1267', 'thousand:0.1115', 'leaflet:0.1026', 'stas:0.0966']+titles_keywords+['ukraines:0.3761', 'fighting:0.3088', 'enter:0.186', 'city:0.1769', 'secondlargest:0.1331']"
+        ]
+    ]
+}

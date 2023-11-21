@@ -1,0 +1,152 @@
+{
+    "BEL+UKR+40":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/msn.com/Violinist performs Ukrainian national anthem before lawmakers in Belgium.txt+eventbasecode40+eventcode40+avgtone0.5078125+goldsteinscale0.55+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['ukrainian:0.4741', 'ukraines:0.4481', 'violinist:0.4211', 'zelenskyy:0.4032', 'belgiums:0.3589', 'antwerp:0.3076', 'volodymyr:0.2932', 'parliament:0.2748', 'anthem:0.2592', 'perform:0.243', 'rendition:0.2355', 'lawmaker:0.221', 'alexander:0.1936', 'speak:0.1895', 'president:0.1864', 'remain:0.1742', 'ovation:0.1658', 'national:0.1492', 'prime:0.132', 'thursday:0.113', 'despite:0.1011', 'link:0.0988', 'import:0.094', 'aid:0.0846', 'receive:0.0832', 'floor:0.0787', 'weapon:0.0741', 'make:0.0728', 'great:0.0628', 'croo:0.0185']+titles_keywords+['violinist:0.5346', 'ukrainian:0.3854', 'belgium:0.2933', 'anthem:0.2729', 'lawmakers:0.1988']"
+        ],
+        []
+    ],
+    "BLR+RUS+40":[
+        []
+    ],
+    "BLR+UKR+40":[
+        []
+    ],
+    "CAN+RUS+40":[
+        []
+    ],
+    "CAN+UKR+40":[
+        [],
+        [],
+        []
+    ],
+    "CHE+RUS+40":[
+        [],
+        []
+    ],
+    "CHN+RUS+40":[
+        [],
+        [],
+        [
+            "20220620+../news_crawling/RUS_UKR/p_articles/msn.com/Russia is now Chinas biggest oil supplier after Beijing increased imports by 55.txt+eventbasecode40+eventcode40+avgtone0.47013977128335455+goldsteinscale0.55+nummentions0.009433962264150943+numarticles0.007976794778825236+numsources0.0+news_keywords+['ukraine:0.485', 'putin:0.4811', 'war:0.3513', 'diplomatic:0.3066', 'economic:0.2826', 'sovereignty:0.2571', 'retaliation:0.2494', 'escalate:0.2219', 'jinping:0.2218', 'report:0.201', 'data:0.1877', 'counterpart:0.1834', 'tank:0.1828', 'western:0.1824', 'import:0.179', 'recent:0.1781', 'introduce:0.1748', 'refine:0.151', 'follow:0.1468', 'sinopec:0.1423', 'wrong:0.1416', 'end:0.1374', 'month:0.136', 'big:0.1307', 'bn:0.1208', 'arm:0.1202', 'look:0.1183', 'benchmark:0.1027', 'total:0.0907', 'accord:0.0608']+titles_keywords+['russia:0.4354', 'oil:0.3636', 'supplier:0.2495', 'biggest:0.2028', 'increased:0.165']"
+        ]
+    ],
+    "CHN+UKR+40":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/msn.com/QAnon Followers Head Way Down Rabbit Hole With Latest Theory on Trump.txt+eventbasecode40+eventcode40+avgtone0.4810951760104302+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['conspiracy:0.4729', 'putin:0.419', 'cabal:0.3099', 'lviv:0.3058', 'qanon:0.3049', 'originate:0.2892', 'news:0.2758', 'vice:0.2485', 'mistranslation:0.245', 'beganukraine:0.2364', 'believe:0.2319', 'violating:0.2302', 'chyna:0.2183', 'reportedly:0.2133', 'covid:0.208', 'know:0.2021', 'disproven:0.2007', 'suffix:0.1963', 'finance:0.1904', 'rundonald:0.1856', 'na:0.1846', 'head:0.1798', 'numerous:0.1764', 'shpyl:0.1729', 'prior:0.1646', 'noted:0.1578', 'turn:0.1565', 'maps:0.1407', 'relate:0.1263', 'youtubewhat:0.1202']+titles_keywords+['qanon:0.5173', 'trump:0.296', 'theory:0.2521', 'followers:0.1808', 'hole:0.1512']"
+        ]
+    ],
+    "DEU+UKR+40":[
+        [],
+        []
+    ],
+    "EUR+RUS+40":[
+        [],
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/msn.com/Russias media propaganda turns to spinechilling rhetoric to intimidate West.txt+eventbasecode40+eventcode40+avgtone0.4713216957605985+goldsteinscale0.55+nummentions0.015965166908563134+numarticles0.01015228426395939+numsources0.003289473684210526+news_keywords+['kremlin:0.4873', 'propagandists:0.404', 'kyivs:0.3872', 'newscasts:0.3422', 'rhetoric:0.3316', 'war:0.3278', 'nato:0.3252', 'warmonger:0.2716', 'portray:0.2148', 'intensify:0.2064', 'turn:0.2043', 'scary:0.203', 'supply:0.1975', 'sanction:0.1916', 'document:0.191', 'phase:0.1841', 'foreign:0.1635', 'whats:0.1604', 'main:0.1533', 'long:0.1489', 'say:0.1474', 'convert:0.1468', 'study:0.146', 'reach:0.141', 'early:0.1267', 'false:0.1225', 'bucha:0.1216', 'bandy:0.1049', 'include:0.0977', 'mouthpiece:0.0876']+titles_keywords+['propaganda:0.4922', 'russias:0.3863', 'intimidate:0.3386', 'spinechilling:0.2644', 'west:0.1359']",
+            "20220417+../news_crawling/RUS_UKR/p_articles/msn.com/Ukraine morning briefing Austrian leader believes Putin thinks he is winning war.txt+eventbasecode40+eventcode40+avgtone0.47453416149068317+goldsteinscale0.55+nummentions0.05551523947750363+numarticles0.05620014503263234+numsources0.049342105263157895+news_keywords+['ukraine:0.5178', 'putin:0.4339', 'briefing:0.3429', 'diplomacy:0.3318', 'journalist:0.2698', 'governmental:0.2695', 'capital:0.256', 'veterans:0.251', 'zelensky:0.2428', 'displaced:0.2402', 'battle:0.2334', 'plan:0.2313', 'reconstruction:0.2275', 'pivot:0.2205', 'provide:0.2193', 'kill:0.214', 'future:0.2138', 'reminder:0.2098', 'resume:0.2083', 'arrive:0.1963', 'speak:0.1916', 'temporary:0.1824', 'bucha:0.1782', 'huge:0.1573', 'afraid:0.1548', 'ihor:0.1533', 'flagship:0.1484', 'house:0.1444', 'exaggeration:0.1055', 'doesnt:0.0429']+titles_keywords+['putin:0.4523', 'austrian:0.3138', 'winning:0.2581', 'briefing:0.2227', 'believes:0.1849']"
+        ],
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/msn.com/A growing amount of Russian oil is being sent destination unknown as wary buyers try.txt+eventbasecode40+eventcode40+avgtone0.490979381443299+goldsteinscale0.55+nummentions0.009071117561683599+numarticles0.009789702683103698+numsources0.006578947368421052+news_keywords+['russia:0.4597', 'petroleum:0.4287', 'tankertrackers:0.3709', 'embargo:0.3235', 'supply:0.3218', 'bloomberg:0.2834', 'crude:0.27', 'april:0.2545', 'export:0.226', 'data:0.2202', 'obfuscate:0.2129', 'destination:0.2042', 'report:0.2023', 'president:0.1952', 'drop:0.1951', 'increase:0.1841', 'risk:0.181', 'unknown:0.1645', 'blood:0.1548', 'affiliation:0.153', 'prior:0.1525', 'directly:0.1413', 'grade:0.1321', 'volodymyr:0.1288', 'significant:0.1222', 'blend:0.1075', 'million:0.1053', 'times:0.1044', 'new:0.0994', 'far:0.0758']+titles_keywords+['oil:0.3965', 'russian:0.3084', 'wary:0.2712', 'unknown:0.243', 'sent:0.0408']"
+        ]
+    ],
+    "EUR+UKR+40":[
+        [],
+        [],
+        []
+    ],
+    "FRA+RUS+40":[
+        [],
+        []
+    ],
+    "GBR+RUS+40":[
+        []
+    ],
+    "GBR+UKR+40":[
+        [
+            "20220610+../news_crawling/RUS_UKR/p_articles/msn.com/UK and Ukraine to discuss Britons death sentences.txt+eventbasecode40+eventcode40+avgtone0.45675675675675675+goldsteinscale0.55+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.003289473684210526+news_keywords+['ukraine:0.4591', 'hostilities:0.3532', 'law:0.3143', 'propaganda:0.3124', 'outcome:0.3077', 'investigation:0.2905', 'prisoner:0.2828', 'newsnight:0.2671', 'besiege:0.254', 'appeal:0.2384', 'novosti:0.2331', 'concerned:0.2235', 'humanitarian:0.2181', 'occupy:0.2103', 'sentence:0.2055', 'geneva:0.2048', 'discus:0.2041', 'republic:0.1935', 'expect:0.189', 'saaudun:0.156', 'alongside:0.1513', 'dmytro:0.15', 'breakaway:0.146', 'exchange:0.1425', 'truss:0.1385', 'brennan:0.136', 'live:0.1185', 'base:0.1181', 'blatant:0.1142', 'mr:0.103']+titles_keywords+['ukraine:0.3825', 'britons:0.2731', 'discuss:0.2142', 'death:0.2017', 'sentences:0.1347']"
+        ],
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/msn.com/Queen Elizabeth Wishes Ukraine a Happy Independence Day amid Most Challenging Year.txt+eventbasecode40+eventcode40+avgtone0.5102803738317757+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5274', 'soviet:0.4093', 'independence:0.2975', 'peaceful:0.2509', 'duchess:0.2499', 'humanitarian:0.2409', 'invasion:0.2408', 'military:0.2152', 'emergency:0.2058', 'history:0.1912', 'zelenskyyand:0.186', 'ahead:0.1817', 'anniversary:0.1767', 'cnnreported:0.1456', 'greeting:0.1448', 'newsletter:0.1402', 'eastern:0.1316', 'warm:0.1247', 'capital:0.1154', 'tearful:0.1151', 'updates:0.1148', 'quote:0.1', 'theystood:0.0935', 'makes:0.0765', 'forbid:0.0733', 'hope:0.0705', 'look:0.0684', 'particularly:0.0386', 'ground:0.0232', 'firsthand:0.018']+titles_keywords+['ukraine:0.4492', 'queen:0.3607', 'independence:0.3355', 'happy:0.2267', 'year:0.1238']"
+        ]
+    ],
+    "IRL+RUS+40":[
+        []
+    ],
+    "IRN+RUS+40":[
+        [
+            "20220705+../news_crawling/RUS_UKR/p_articles/msn.com/Vladimir Putin to attend trilateral meeting with leaders of Iran and Turkey next week in.txt+eventbasecode40+eventcode40+avgtone0.4879120879120879+goldsteinscale0.55+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.006578947368421052+news_keywords+['putin:0.5336', 'ukraine:0.4066', 'uavs:0.3565', 'tehran:0.3482', 'peskov:0.2884', 'meeting:0.2759', 'telegram:0.2699', 'nuclear:0.2658', 'tayyip:0.2355', 'timeline:0.225', 'news:0.216', 'deliver:0.2142', 'adviser:0.2045', 'mediate:0.2032', 'trilateral:0.1988', 'visit:0.1965', 'sanction:0.1859', 'soon:0.1833', 'region:0.1809', 'parliaments:0.1809', 'subject:0.18', 'indicate:0.1755', 'irna:0.168', 'unclear:0.1642', 'turn:0.154', 'say:0.1391', 'daily:0.1353', 'kamikaze:0.1311', 'bidens:0.1126', 'include:0.1088']+titles_keywords+['putin:0.4096', 'meeting:0.3091', 'tehran:0.2878', 'trilateral:0.2373', 'week:0.0825']"
+        ]
+    ],
+    "ISR+UKR+40":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/msn.com/Ukraines Zelenskyy says open for talks with Putin in Israel.txt+eventbasecode40+eventcode40+avgtone0.48504273504273504+goldsteinscale0.55+nummentions0.14622641509433962+numarticles0.14684554024655547+numsources0.5460526315789473+news_keywords+['ukraines:0.4851', 'kyiv:0.481', 'putin:0.433', 'rus:0.4279', 'zelenskyy:0.4175', 'ceasefire:0.3926', 'nato:0.3463', 'occupy:0.2915', 'talk:0.248', 'israeli:0.23', 'naftali:0.2177', 'ignore:0.1759', 'news:0.1723', 'let:0.1721', 'visit:0.1664', 'capital:0.1653', 'enter:0.1631', 'bennett:0.1563', 'end:0.1533', 'goal:0.15', 'ready:0.1491', 'history:0.1377', 'procure:0.1155', 'zone:0.1036', 'certainly:0.1019', 'offer:0.0889', 'saturday:0.088', 'million:0.0839', 'wipe:0.0834', 'way:0.0816']+titles_keywords+['zelenskyy:0.5716', 'putin:0.3386', 'talks:0.2351', 'israel:0.2218', 'open:0.1314']"
+        ]
+    ],
+    "POL+UKR+40":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/msn.com/Biden says Putin cannot remain in power.txt+eventbasecode40+eventcode40+avgtone0.49276620370370366+goldsteinscale0.55+nummentions0.06059506531204644+numarticles0.05910079767947788+numsources0.0625+news_keywords+['nato:0.491', 'putin:0.4114', 'biden:0.36', 'moscow:0.3188', 'europeearlier:0.2698', 'escalation:0.2566', 'cite:0.2467', 'andrzej:0.239', 'contrast:0.2321', 'history:0.2321', 'lengthy:0.2297', 'meeting:0.2223', 'democratic:0.2212', 'ahead:0.2152', 'contentious:0.1977', 'pledge:0.1916', 'say:0.1894', 'relates:0.1857', 'readout:0.1806', 'learn:0.1787', 'separate:0.1731', 'flank:0.1712', 'tour:0.158', 'current:0.157', 'point:0.1519', 'stability:0.1488', 'inch:0.1394', 'synchronize:0.1383', 'week:0.1304', 'sure:0.1035']+titles_keywords+['biden:0.4921', 'putin:0.4811', 'remain:0.22', 'power:0.2039', 'says:0.0754']"
+        ]
+    ],
+    "PRT+UKR+40":[
+        []
+    ],
+    "RUS+RUS+40":[
+        [],
+        [],
+        [
+            "20220506+../news_crawling/RUS_UKR/p_articles/msn.com/India calls for international cooperation on energy crisis from Ukraine war.txt+eventbasecode40+eventcode40+avgtone0.4856060606060606+goldsteinscale0.55+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['ukraine:0.4468', 'diplomacy:0.4445', 'wto:0.3846', 'humanitarian:0.3278', 'evacuation:0.323', 'neutrality:0.3035', 'disrupt:0.3018', 'government:0.2959', 'crisis:0.2878', 'organisation:0.247', 'concern:0.2438', 'designate:0.2174', 'underway:0.2052', 'know:0.1964', 'delhi:0.1844', 'reiterating:0.1821', 'brief:0.1803', 'implication:0.1697', 'increase:0.1675', 'include:0.1622', 'equally:0.1568', 'panel:0.1462', 'export:0.1455', 'volatility:0.1356', 'hasina:0.132', 'wheat:0.1317', 'gcrg:0.128', 'bucha:0.1195', 'deal:0.0831', 'welcome:0.0698']+titles_keywords+['ukraine:0.3423', 'war:0.2934', 'cooperation:0.252', 'international:0.1747', 'crisis:0.1426']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/msn.com/Ukraines Indonesia envoy urges G20 nations to discuss Russian invasion after Beijing says its not.txt+eventbasecode40+eventcode40+avgtone0.48333333333333334+goldsteinscale0.55+nummentions0.01451378809869376+numarticles0.012690355329949238+numsources0.03618421052631579+news_keywords+['diplomacy:0.4644', 'ukraines:0.4055', 'putin:0.3965', 'annexation:0.361', 'jakarta:0.3343', 'correspondents:0.3268', 'turkey:0.319', 'aggressor:0.2609', 'coronavirus:0.2373', 'crisis:0.2353', 'global:0.2331', 'nation:0.2243', 'sanction:0.2057', 'military:0.2055', 'ahead:0.1908', 'article:0.1893', 'implication:0.1831', 'jinping:0.18', 'avoid:0.1747', 'organise:0.169', 'exchange:0.1587', 'understand:0.1533', 'friend:0.1465', 'esf:0.1461', 'webinar:0.1426', 'infographics:0.1341', 'sure:0.1324', 'wednesday:0.1242', 'long:0.0933', 'zhao:0.091']+titles_keywords+['ukraines:0.3666', 'g20:0.3083', 'invasion:0.2679', 'beijing:0.208', 'discuss:0.1423']"
+        ],
+        [],
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/msn.com/Russia Raises Doubt Over Ukraine Peace Prospects After Bucha Killings Allegations.txt+eventbasecode40+eventcode40+avgtone0.4707401032702238+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.4829', 'putin:0.4541', 'russiansshooting:0.4308', 'ukrainians:0.4014', 'treaty:0.3872', 'genocide:0.3707', 'nato:0.356', 'propaganda:0.3343', 'bucha:0.3293', 'diplomat:0.2823', 'allegations:0.2751', 'provocation:0.2584', 'agreement:0.2489', 'briefing:0.2418', 'negotiate:0.2387', 'report:0.2093', 'divert:0.2075', 'pretext:0.2071', 'evidence:0.2014', 'unambiguous:0.1922', 'volodymyr:0.1856', 'armed:0.1848', 'soldierslikely:0.1827', 'newsweek:0.1753', 'neutral:0.1485', 'order:0.1475', 'begin:0.1386', 'risk:0.1348', 'body:0.0918', 'sent:0.0414']+titles_keywords+['ukraine:0.3938', 'bucha:0.2976', 'allegations:0.2825', 'peace:0.2319', 'doubt:0.207']"
+        ],
+        [
+            "20220508+../news_crawling/RUS_UKR/p_articles/msn.com/US announces sanctions against Kremlincontrolled media companies and bans Russia from using some American consulting.txt+eventbasecode40+eventcode40+avgtone0.47593582887700536+goldsteinscale0.55+nummentions0.059506531204644414+numarticles0.06018854242204496+numsources0.08552631578947369+news_keywords+['putin:0.476', 'kremlincontrolled:0.4026', 'sanction:0.4', 'federation:0.2836', 'block:0.2755', 'donetsk:0.2746', 'executive:0.2674', 'war:0.262', 'announces:0.2477', 'prepare:0.2435', 'report:0.2385', 'cite:0.2327', 'emergency:0.2313', 'visa:0.2291', 'unprovoked:0.2219', 'information:0.213', 'hear:0.2045', 'pursue:0.203', 'gazprombank:0.2023', 'pledge:0.1969', 'industrial:0.193', 'transition:0.1855', 'armas:0.1584', 'export:0.145', 'sure:0.1436', 'enable:0.1219', 'right:0.1172', 'new:0.117', 'longer:0.1099', 'purchase:0.1046']+titles_keywords+['sanctions:0.4498', 'kremlincontrolled:0.3724', 'russia:0.3407', 'media:0.2204', 'companies:0.1623']"
+        ],
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/msn.com/Russia dismisses speculation over Vladimir Putins health.txt+eventbasecode40+eventcode40+avgtone0.4757462686567164+goldsteinscale0.55+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['putin:0.5863', 'illness:0.3537', 'lavrov:0.3156', 'rumours:0.2658', 'newsletter:0.2573', 'disappear:0.2121', 'sane:0.207', 'fentanyl:0.198', 'agenda:0.189', 'read:0.1837', 'regularly:0.1709', 'table:0.1697', 'speech:0.1595', 'reputable:0.1582', 'source:0.1474', 'sign:0.1429', 'view:0.1408', 'specialist:0.1404', 'french:0.1392', 'nay:0.1378', 'grow:0.1368', 'neck:0.1361', 'taboo:0.1289', 'proyekt:0.1281', 'week:0.1189', 'amid:0.1147', 'say:0.108', 'long:0.1033', 'significant:0.0927', 'free:0.0301']+titles_keywords+['putins:0.3527', 'vladimir:0.3468', 'speculation:0.2765', 'health:0.1982', 'dismisses:0.1571']"
+        ],
+        [
+            "20220702+../news_crawling/RUS_UKR/p_articles/msn.com/Morning news brief Ukraine accuses Russia of firing phosphorus bombs on Snake Island and more.txt+eventbasecode40+eventcode40+avgtone0.4701086956521739+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.4904', 'government:0.3256', 'violence:0.3226', 'news:0.3218', 'army:0.3179', 'bomb:0.3039', 'irelands:0.2997', 'boris:0.2902', 'history:0.2812', 'afp:0.2744', 'strategic:0.2685', 'protocol:0.2667', 'phosphorus:0.2582', 'information:0.257', 'northern:0.2434', 'breakup:0.1945', 'snake:0.1934', 'shelter:0.1933', 'accuse:0.1857', 'zmiinyi:0.1723', 'dishonourable:0.1716', 'interview:0.1712', 'visit:0.1608', 'withdraw:0.1473', 'today:0.1451', 'sharp:0.1383', 'tacitly:0.1277', 'make:0.1148', 'su:0.1012', 'limit:0.0548']+titles_keywords+['ukraine:0.5022', 'bombs:0.3259', 'news:0.3008', 'phosphorus:0.2818', 'accuses:0.2452']"
+        ]
+    ],
+    "RUS+USA+40":[
+        [],
+        [],
+        [
+            "20220618+../news_crawling/RUS_UKR/p_articles/msn.com/Russian State TV Discusses Americans Reportedly Captured in Ukraine.txt+eventbasecode40+eventcode40+avgtone0.48113207547169806+goldsteinscale0.55+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['russians:0.4672', 'ukraineu:0.4481', 'propaganda:0.3886', 'nato:0.3625', 'journalist:0.3068', 'prisoner:0.2995', 'troop:0.2979', 'popov:0.2909', 'capture:0.2307', 'rt:0.2187', 'subject:0.2092', 'reforms:0.1992', 'broadcast:0.1924', 'privacy:0.1909', 'geneva:0.187', 'outlet:0.1802', 'delivers:0.162', 'biden:0.1564', 'fight:0.1533', 'help:0.1454', 'photo:0.1441', 'fodder:0.1379', 'reportedly:0.1334', 'anticipate:0.1163', 'june:0.1141', 'alongside:0.1049', 'meaning:0.0999', 'aslin:0.0906', 'minutes:0.0821', 'says:0.0796']+titles_keywords+['ukraine:0.3888', 'captured:0.2742', 'americans:0.2343', 'tv:0.2281', 'reportedly:0.1161']"
+        ]
+    ],
+    "UKR+PRT+40":[
+        []
+    ],
+    "UKR+RUS+40":[
+        [],
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/msn.com/US oil briefly sinks below 100 after Russia says it will drastically reduce assault on.txt+eventbasecode40+eventcode40+avgtone0.4755747126436781+goldsteinscale0.55+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['ukraine:0.4449', 'ceasefire:0.4174', 'briefing:0.3483', 'diplomatic:0.327', 'headline:0.3248', 'interpret:0.2976', 'selloff:0.2611', 'lockdowns:0.2432', 'pentagon:0.2375', 'president:0.2342', 'concern:0.2255', 'expect:0.2242', 'indicate:0.2239', 'briefly:0.2179', 'plunge:0.2127', 'say:0.2069', 'industry:0.2024', 'reposition:0.1974', 'end:0.1948', 'monday:0.1896', 'learn:0.1818', 'reduce:0.1783', 'world:0.1765', 'sens:0.1691', 'barrel:0.1661', 'step:0.1648', 'major:0.1345', 'yawger:0.131', 'far:0.1153', 'benchmark:0.107']+titles_keywords+['oil:0.3167', 'kyiv:0.2874', '100:0.1901', 'sinks:0.1775', 'reduce:0.133']"
+        ],
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/msn.com/In space Russians and Americans remain dear friends.txt+eventbasecode40+eventcode40+avgtone0.4878048780487805+goldsteinscale0.55+nummentions0.009071117561683599+numarticles0.006889050036258158+numsources0.006578947368421052+news_keywords+['iss:0.5176', 'russians:0.5133', 'moscow:0.4519', 'kazakhstan:0.4264', 'dmitry:0.4239', 'nasa:0.3639', 'space:0.3535', 'crewmates:0.3098', 'cosmonaut:0.2947', 'invasion:0.2882', 'cooperation:0.2616', 'earth:0.248', 'concern:0.1966', 'fall:0.1616', 'government:0.1586', 'block:0.1561', 'board:0.1511', 'friend:0.1503', 'say:0.1405', 'bangkok:0.14', 'positive:0.1371', 'unaffected:0.137', 'continue:0.1358', 'vande:0.1249', 'note:0.1223', 'rhetoric:0.091', 'week:0.0894', 'hei:0.0864', 'nearly:0.0645', 'directly:0.0508']+titles_keywords+['russians:0.4579', 'space:0.3628', 'friends:0.3231', 'dear:0.1497', 'remain:0.1192']"
+        ]
+    ],
+    "USA+RUS+40":[
+        []
+    ],
+    "WST+RUS+40":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/msn.com/No the war in Ukraine is not about NATO.txt+eventbasecode40+eventcode40+avgtone0.477360931435+goldsteinscale0.55+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['crimea:0.4614', 'nato:0.4032', 'russians:0.3767', 'gorbachev:0.3451', 'war:0.3073', 'imperialist:0.2996', 'regime:0.2786', 'expand:0.2722', 'orthodox:0.2712', 'change:0.2575', 'rhetoric:0.2497', 'strategic:0.2473', 'crisis:0.2428', 'undermine:0.2344', 'news:0.2053', 'elect:0.1949', 'future:0.1911', 'end:0.1795', 'expertise:0.1553', 'breakaway:0.152', 'order:0.1486', 'function:0.1458', 'say:0.1356', 'include:0.1275', 'state:0.126', 'basis:0.1113', 'incorrect:0.1081', 'program:0.0919', 'largely:0.0917', 'central:0.0684']+titles_keywords+['nato:0.5603', 'ukraine:0.405', 'war:0.2918']"
+        ]
+    ]
+}

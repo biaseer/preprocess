@@ -1,0 +1,12 @@
+{
+    "RUS+TUR+42":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/baltictimes.com/Lithuanian formin TurkeyRussia talks on Ukraines grain are strange as Kyiv not involved.txt+eventbasecode42+eventcode42+avgtone0.49333333333333335+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4626', 'port:0.2925', 'vilnius:0.2748', 'grain:0.2513', 'security:0.2444', 'zelensky:0.2307', 'allow:0.2238', 'volodymyr:0.2097', 'weapon:0.2086', 'clearer:0.1934', 'block:0.1857', 'president:0.1743', 'increase:0.1715', 'talks:0.1711', 'help:0.1702', 'convoy:0.1639', 'ready:0.1562', 'order:0.1558', 'term:0.1536', 'exactly:0.1509', 'look:0.1296', 'necessary:0.1283', 'send:0.1264', 'thursday:0.1109', 'formin:0.1094', 'resume:0.106', 'main:0.1058', 'seimas:0.0975', 'according:0.0949', 'free:0.0859']+titles_keywords+['kyiv:0.5107', 'grain:0.2944', 'talks:0.2285', 'strange:0.2188', 'formin:0.1532']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220423+../news_crawling/RUS_UKR/p_articles/baltictimes.com/Exhibition Difficult Pasts Connected Worlds opens at the National Gallery of Art in Vilnius.txt+eventbasecode42+eventcode42+avgtone0.4930875576036866+goldsteinscale0.595+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['history:0.4238', 'soviet:0.3751', 'art:0.3558', 'astahovska:0.3557', 'legacies:0.3524', 'biennale:0.345', 'diary:0.3395', 'riga:0.3365', 'contemporary:0.332', 'communicating:0.3117', 'totalitarian:0.3068', 'traumatic:0.299', 'narrate:0.2859', 'embankment:0.2765', 'complicated:0.2582', 'uneasy:0.244', 'cope:0.2409', 'zuzanna:0.2353', 'issue:0.2348', 'foreground:0.2263', 'instrument:0.2181', 'volunteers:0.2117', 'worldsincludes:0.2103', 'guide:0.199', 'andrii:0.1924', 'lodz:0.1896', 'matss:0.1714', 'long:0.155', 'unprocessed:0.1519', 'weld:0.1035']+titles_keywords+['vilnius:0.4448', 'gallery:0.3302', 'pasts:0.3284', 'connected:0.2188', 'difficult:0.1943']"
+        ]
+    ]
+}

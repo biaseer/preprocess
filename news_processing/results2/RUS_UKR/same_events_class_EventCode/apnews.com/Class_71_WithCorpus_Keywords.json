@@ -1,0 +1,15 @@
+{
+    "JPN+RUS+71":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/apnews.com/Live updates Congress approves 40B aid package to Ukraine.txt+eventbasecode71+eventcode71+avgtone0.47265625+goldsteinscale0.8699999999999999+nummentions0.04354136429608128+numarticles0.04423495286439449+numsources0.04276315789473684+news_keywords+['ukraine:0.5037', 'nato:0.4276', 'kremlin:0.4075', 'treaty:0.3723', 'crises:0.3546', 'militarily:0.3292', 'news:0.2703', 'escalation:0.2686', 'agreement:0.2685', 'takeover:0.2581', 'prepare:0.253', 'pandemic:0.2496', 'decommission:0.2494', 'macron:0.2445', 'soon:0.2365', 'coordinate:0.2292', 'greet:0.2088', 'cite:0.2035', 'deficit:0.1979', 'continue:0.1957', 'order:0.192', 'pkk:0.1848', 'long:0.184', 'counterpart:0.1771', 'fethullah:0.1755', 'import:0.1742', 'vote:0.1725', 'general:0.1613', 'watchdog:0.1537', 'sharp:0.119']+titles_keywords+['ukraine:0.3646', 'congress:0.3425', 'updates:0.2819', 'aid:0.2687', '40b:0.2247']"
+        ]
+    ],
+    "RUS+UKR+71":[
+        [
+            "20220510+../news_crawling/RUS_UKR/p_articles/apnews.com/Pelosi Buying Russian oil funds invasion of Ukraine.txt+eventbasecode71+eventcode71+avgtone0.5044910179640718+goldsteinscale0.8699999999999999+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.03618421052631579+news_keywords+['pelosi:0.4929', 'russias:0.3511', 'climate:0.3367', 'bipartisan:0.2967', 'seminar:0.2926', 'oil:0.2832', 'report:0.2589', 'topic:0.2451', 'policy:0.2379', 'invasion:0.2371', 'roundtable:0.2298', 'realize:0.2223', 'independence:0.2059', 'world:0.2058', 'visit:0.2024', 'aspen:0.1968', 'activity:0.1802', 'fund:0.1757', 'roker:0.1754', 'thursday:0.1742', 'house:0.1732', 'important:0.17', 'ideas:0.1573', 'people:0.1557', 'ap:0.1512', 'fight:0.1428', 'state:0.1405', 'buy:0.1333', 'like:0.1328', 'doerr:0.1053']+titles_keywords+['pelosi:0.5234', 'oil:0.3594', 'russian:0.3273', 'invasion:0.2619', 'buying:0.1683']"
+        ],
+        [
+            "20220707+../news_crawling/RUS_UKR/p_articles/apnews.com/New Mexico school trust feels pressure voters weigh changes.txt+eventbasecode71+eventcode71+avgtone0.48611111111111105+goldsteinscale0.8699999999999999+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.01644736842105263+news_keywords+['funding:0.3942', 'legislatures:0.3518', 'referendum:0.332', 'federal:0.3264', 'pension:0.3205', 'state:0.3128', 'sustainability:0.2762', 'valuation:0.2616', 'increase:0.2543', 'mexico:0.2465', 'fe:0.2301', 'distribution:0.2248', 'school:0.2143', 'undermine:0.2112', 'consider:0.1829', 'pre:0.1734', 'worry:0.1685', 'land:0.1675', 'million:0.1641', 'feel:0.1493', 'parent:0.1456', 'covid:0.1441', 'new:0.1422', 'year:0.1397', 'report:0.1323', 'hike:0.1161', 'divert:0.1096', 'ap:0.1032', 'tiny:0.0622', 'mainly:0.0486']+titles_keywords+['voters:0.3244', 'trust:0.2521', 'pressure:0.2443', 'school:0.228', 'new:0.1437']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "EUR+UKR+43":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Russian soldiers raping Ukrainian women says MP.txt+eventbasecode43+eventcode43+avgtone0.4660377358490566+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.4683', 'victim:0.3839', 'war:0.356', 'humanitarian:0.3191', 'crime:0.2942', 'report:0.2893', 'parliamentary:0.2624', 'accuse:0.262', 'mezentseva:0.2503', 'case:0.2291', 'discuss:0.2097', 'maria:0.2086', 'happen:0.2002', 'general:0.1959', 'scary:0.1946', 'aftermath:0.1919', 'know:0.1821', 'cope:0.182', 'allegedly:0.1665', 'issue:0.1664', 'proceeded:0.1662', 'understanding:0.1642', 'scene:0.1554', 'shot:0.1492', 'sorry:0.1324', 'head:0.1161', 'ridge:0.1084', 'ms:0.0979', 'thats:0.0898', 'add:0.0701']+titles_keywords+['ukrainian:0.4342', 'soldiers:0.2966', 'mp:0.2787', 'raping:0.2543', 'says:0.06']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Putin Guterres agree on key Ukraine evacuation.txt+eventbasecode43+eventcode43+avgtone0.4770992366412214+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['putin:0.5136', 'ukraine:0.4569', 'evacuation:0.4445', 'kursk:0.3187', 'gladkov:0.2923', 'humanitarian:0.2685', 'meeting:0.2583', 'troop:0.2273', 'news:0.2206', 'table:0.2071', 'involve:0.1978', 'secretary:0.1967', 'general:0.18', 'dangerous:0.1643', 'listen:0.1568', 'adjacent:0.1534', 'open:0.1465', 'ammunition:0.1412', 'guterres:0.1365', 'feb:0.1335', 'send:0.1297', 'starovoyt:0.1275', 'end:0.1268', 'video:0.1205', 'accuse:0.1181', 'separately:0.1153', 'opposite:0.1087', 'capability:0.1014', 'agree:0.0885', 'long:0.0877']+titles_keywords+['putin:0.3893', 'evacuation:0.3568', 'guterres:0.3267', 'agree:0.1381', 'key:0.0998']"
+        ]
+    ],
+    "WST+RUS+43":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Prospects of peace open in Ukraine war.txt+eventbasecode43+eventcode43+avgtone0.5055379746835443+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['war:0.4516', 'ukraine:0.4358', 'peace:0.3585', 'open:0.2295', 'prospects:0.2274']+titles_keywords+['ukraine:0.4305', 'war:0.4178', 'peace:0.3836', 'prospects:0.2265', 'open:0.1727']"
+        ]
+    ]
+}

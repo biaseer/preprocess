@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/kare11.com/Russian organizations across the metro voice support for Ukraine.txt+eventbasecode51+eventcode51+avgtone0.49891540130151846+goldsteinscale0.67+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.01644736842105263+news_keywords+['moscow:0.5319', 'ukrainian:0.4925', 'putin:0.4456', 'protest:0.3271', 'invade:0.3125', 'river:0.2453', 'concerned:0.2217', 'nation:0.2119', 'anti:0.2048', 'ethnically:0.2008', 'people:0.2006', 'minnesota:0.1826', 'reality:0.1813', 'museum:0.1699', 'innocent:0.1592', 'organization:0.1572', 'tribute:0.1488', 'explain:0.1474', 'liberman:0.1418', 'google:0.1358', 'resonate:0.1352', 'end:0.1251', 'bad:0.1223', 'artin:0.1212', 'thousands:0.1202', 'immediately:0.1192', 'st:0.1107', 'review:0.0785', 'really:0.0769', 'weigh:0.0577']+titles_keywords+['ukraine:0.5347', 'metro:0.3298', 'organizations:0.2962', 'support:0.2229', 'voice:0.1366']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/kare11.com/Ukraine admits Ghost of Kyiv fighter pilot is a myth.txt+eventbasecode51+eventcode51+avgtone0.4970178926441352+goldsteinscale0.67+nummentions0.05370101596516691+numarticles0.05438723712835388+numsources0.05921052631578947+news_keywords+['kyiv:0.5021', 'ukrainians:0.4454', 'poroshenko:0.3602', 'ghost:0.3421', 'tarabalka:0.3347', 'military:0.3204', 'plane:0.2859', 'anonymous:0.2471', 'hero:0.2455', 'alive:0.2304', 'ace:0.2231', 'real:0.2044', 'unrelated:0.2041', 'supposedly:0.1871', 'story:0.179', 'shoot:0.1758', 'president:0.1716', 'wasa:0.1634', 'footage:0.1613', 'publish:0.157', 'information:0.1534', 'uaf:0.1533', 'outlet:0.1437', 'moniker:0.1316', 'embodies:0.1229', 'friday:0.1148', 'increase:0.1064', 'year:0.1023', 'toll:0.0922', 'rightly:0.0823']+titles_keywords+['kyiv:0.4391', 'ghost:0.3315', 'myth:0.3066', 'pilot:0.2728', 'admits:0.0751']"
+        ]
+    ]
+}

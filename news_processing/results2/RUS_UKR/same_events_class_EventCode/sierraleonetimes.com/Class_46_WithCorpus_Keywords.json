@@ -1,0 +1,17 @@
+{
+    "FRA+RUS+46":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/sierraleonetimes.com/Putin after meeting Macron Do you want to go to War with Russia.txt+eventbasecode46+eventcode46+avgtone0.48422818791946315+goldsteinscale0.85+nummentions0.01995645863570392+numarticles0.020667150108774474+numsources0.03618421052631579+news_keywords+['nato:0.4682', 'putin:0.4511', 'treaty:0.4379', 'macron:0.4055', 'militarily:0.3379', 'kyiv:0.3361', 'invade:0.321', 'mali:0.304', 'separatists:0.2984', 'escalation:0.2978', 'conversation:0.2966', 'conciliatory:0.2963', 'meet:0.2693', 'relation:0.2402', 'instability:0.2139', 'alongside:0.1987', 'want:0.1869', 'future:0.1846', 'note:0.1836', 'study:0.1792', 'know:0.177', 'elysee:0.1745', 'mr:0.1462', 'unison:0.1302', 'ready:0.122', 'head:0.1206', 'week:0.119', 'convergence:0.1039', 'sphere:0.0999', 'possible:0.0838']+titles_keywords+['putin:0.5127', 'macron:0.463', 'war:0.3285', 'meeting:0.2463', 'want:0.192']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20211207+../news_crawling/RUS_UKR/p_articles/sierraleonetimes.com/Ruble holds strong as US threatens to cut Russia off SWIFT.txt+eventbasecode46+eventcode46+avgtone0.4673913043478261+goldsteinscale0.85+nummentions0.10885341074020319+numarticles0.10949963741841914+numsources0.16447368421052633+news_keywords+['russia:0.4729', 'rubles:0.4456', 'threat:0.3299', 'currency:0.3042', 'bloomberg:0.3032', 'sanction:0.2931', 'government:0.2753', 'banking:0.2663', 'president:0.2441', 'cite:0.202', 'monday:0.2014', 'stock:0.2004', 'report:0.1988', 'strengthen:0.192', 'speculation:0.1861', 'swift:0.1833', 'event:0.1768', 'convert:0.1643', 'plan:0.1537', 'follow:0.1499', 'outlet:0.1303', 'disconnect:0.1287', 'greenback:0.1237', 'wide:0.1148', 'moex:0.1134', 'receive:0.1083', 'set:0.1062', 'reignite:0.0987', 'gmt:0.0835', 'benchmark:0.0662']+titles_keywords+['ruble:0.4739', 'strong:0.3269', 'cut:0.2161', 'swift:0.2155', 'threatens:0.1605']"
+        ]
+    ],
+    "WST+RUS+46":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/sierraleonetimes.com/NATO kept doors open for Russia Clinton.txt+eventbasecode46+eventcode46+avgtone0.4876373626373626+goldsteinscale0.85+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.03618421052631579+news_keywords+['nato:0.5237', 'kremlin:0.4124', 'yeltsin:0.3742', 'russia:0.3642', 'kiev:0.3493', 'imperialism:0.2799', 'eastward:0.279', 'bloc:0.2629', 'clinton:0.2302', 'attack:0.2264', 'ultranationalist:0.2194', 'unprovoked:0.2188', 'successor:0.2057', 'govern:0.1912', 'neutral:0.1906', 'continue:0.1896', 'join:0.1866', 'cite:0.1727', 'respond:0.1669', 'breakup:0.1617', 'agreement:0.1539', 'open:0.1508', 'contradict:0.1457', 'choose:0.1392', 'term:0.1391', 'state:0.1357', 'enlarge:0.1312', 'lead:0.1306', 'implement:0.1291', 'donbass:0.1097']+titles_keywords+['nato:0.5247', 'clinton:0.3445', 'russia:0.2932', 'open:0.2153', 'kept:0.1005']"
+        ]
+    ]
+}

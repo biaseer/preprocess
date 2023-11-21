@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20220205+../news_crawling/RUS_UKR/p_articles/newyorktelegraph.com/Bloomberg announces Russia invades Ukraine.txt+eventbasecode111+eventcode111+avgtone0.45+goldsteinscale0.4+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['ukraine:0.4598', 'kremlin:0.4366', 'headline:0.4108', 'bloomberg:0.402', 'invades:0.3851', 'fearmongering:0.2899', 'prepare:0.2483', 'panic:0.2404', 'publish:0.227', 'scenario:0.2213', 'economy:0.2112', 'read:0.2098', 'blunder:0.2089', 'allegation:0.2045', 'dangerous:0.2002', 'prediction:0.2', 'fake:0.1713', 'redirect:0.1547', 'remove:0.1545', 'page:0.146', 'stay:0.1446', 'today:0.138', 'month:0.1372', 'mea:0.1186', 'new:0.1164', 'et:0.1072', 'house:0.0933', 'scale:0.0792', 'screenshots:0.0712', 'largely:0.0582']+titles_keywords+['ukraine:0.3732', 'bloomberg:0.3505', 'invades:0.3182', 'russia:0.2697', 'announces:0.0691']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/newyorktelegraph.com/Russia launches military strikes on Ukraine warns West to stay away.txt+eventbasecode111+eventcode111+avgtone0.47696245733788395+goldsteinscale0.4+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5822368421052632+news_keywords+['nato:0.4181', 'diplomacy:0.3917', 'kremlin:0.3796', 'kyiv:0.361', 'militarize:0.3582', 'genocide:0.3385', 'cyberattack:0.3165', 'escalation:0.3019', 'reuters:0.2785', 'sanction:0.2684', 'unprovoked:0.2658', 'agreement:0.2554', 'respond:0.2485', 'president:0.2433', 'report:0.2404', 'emergency:0.2221', 'impending:0.2195', 'halt:0.215', 'table:0.2121', 'border:0.2', 'know:0.1989', 'act:0.1984', 'world:0.1743', 'like:0.1534', 'voa:0.1434', 'donbas:0.1343', 'state:0.1255', 'ready:0.1251', 'month:0.1018', 'stoltenberg:0.0839']+titles_keywords+['ukraine:0.3794', 'warns:0.2099', 'military:0.1762', 'strikes:0.1642', 'stay:0.1256']"
+        ]
+    ]
+}

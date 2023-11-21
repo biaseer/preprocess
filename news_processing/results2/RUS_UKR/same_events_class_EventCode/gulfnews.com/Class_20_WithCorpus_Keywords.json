@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/gulfnews.com/EU to stop importing Russian oil and refined products.txt+eventbasecode20+eventcode20+avgtone0.48086124401913877+goldsteinscale0.65+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4812', 'putin:0.4634', 'nato:0.4302', 'oil:0.3074', 'reuters:0.3056', 'evacuate:0.3046', 'invasion:0.2817', 'impose:0.2672', 'readiness:0.265', 'avoid:0.2595', 'eurobonds:0.2365', 'strike:0.2012', 'blocs:0.1933', 'meeting:0.19', 'anti:0.1809', 'begin:0.1784', 'severodonetsk:0.1693', 'donbas:0.1677', 'wednesday:0.1676', 'importing:0.1611', 'sudden:0.159', 'help:0.1524', 'refine:0.1477', 'law:0.1332', 'cross:0.133', 'assume:0.1224', 'overdue:0.1103', 'deal:0.1081', 'andriy:0.0907', 'wag:0.0672']+titles_keywords+['oil:0.3748', 'russian:0.3426', 'eu:0.285', 'stop:0.1979', 'importing:0.1622']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/gulfnews.com/Ukraine People pour into Indian restaurant in Kyiv to seek shelter.txt+eventbasecode20+eventcode20+avgtone0.49793899422918386+goldsteinscale0.65+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['kyiv:0.5056', 'shelter:0.3325', 'russias:0.3315', 'influx:0.329', 'accommodate:0.3204', 'disaster:0.3172', 'meal:0.3015', 'congregate:0.2946', 'erupt:0.2899', 'map:0.2882', 'bombing:0.2872', 'help:0.2861', 'troop:0.279', 'confuse:0.2777', 'telegram:0.2743', 'write:0.2723', 'india:0.2619', 'prepare:0.2536', 'industrial:0.2483', 'enter:0.2436', 'foreseeable:0.2355', 'emphasise:0.2343', 'happy:0.2064', 'meantime:0.2062', 'vacant:0.2041', 'stranger:0.2011', 'donate:0.1901', 'desperately:0.1869', 'strip:0.1848', 'long:0.1617']+titles_keywords+['kyiv:0.4589', 'shelter:0.3545', 'restaurant:0.3217', 'indian:0.2498', 'people:0.2103']"
+        ]
+    ]
+}

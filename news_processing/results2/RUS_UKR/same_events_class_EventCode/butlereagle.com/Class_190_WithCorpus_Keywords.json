@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/butlereagle.com/Russian invasion of Ukraine begins.txt+eventbasecode190+eventcode190+avgtone0.4668049792531121+goldsteinscale0.0+nummentions0.02177068214804064+numarticles0.022117476432197244+numsources0.08552631578947369+news_keywords+['ukraines:0.463', 'nato:0.4541', 'putin:0.4364', 'airstrikes:0.3912', 'moscow:0.3788', 'invasion:0.3539', 'border:0.2572', 'emergency:0.2481', 'tank:0.2436', 'conflict:0.2417', 'flee:0.2207', 'european:0.2157', 'shortly:0.2135', 'begin:0.2', 'authority:0.1681', 'unleash:0.1629', 'act:0.1617', 'range:0.1568', 'consequence:0.1507', 'capital:0.1495', 'hear:0.1407', 'secretary:0.1396', 'hit:0.1342', 'odesa:0.1307', 'brave:0.1304', 'footage:0.1221', 'big:0.1142', 'roll:0.1134', 'stoltenberg:0.1067', 'entire:0.0753']+titles_keywords+['ukraine:0.4506', 'invasion:0.4214', 'begins:0.4002', 'russian:0.3668']"
+        ],
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/butlereagle.com/Russian sentenced to life in Ukraines 1st war crimes trial.txt+eventbasecode190+eventcode190+avgtone0.45648148148148154+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4316', 'kremlin:0.4112', 'war:0.3887', 'warmongering:0.3001', 'yavorskyy:0.2973', 'violent:0.2909', 'bombardment:0.2862', 'law:0.2767', 'embargo:0.2573', 'regiments:0.257', 'atrocity:0.2454', 'casualty:0.2389', 'interrogate:0.2368', 'diplomat:0.2147', 'report:0.2057', 'evidence:0.2021', 'appeal:0.2', 'decide:0.1989', 'know:0.1922', 'turn:0.1643', 'industrial:0.1628', 'order:0.1626', 'sgt:0.1593', 'bucha:0.1578', 'begin:0.154', 'davos:0.1478', 'enjoying:0.134', 'month:0.1231', 'unprepared:0.1219', 'thousand:0.1216']+titles_keywords+['sentenced:0.3613', 'russian:0.3597', 'ukraines:0.3268', 'war:0.2243', '1st:0.129']"
+        ]
+    ]
+}

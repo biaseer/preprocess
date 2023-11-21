@@ -1,0 +1,15 @@
+{
+    "EUR+UKR+30":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/thehill.com/Ukraine announces EU military training mission in the country.txt+eventbasecode30+eventcode30+avgtone0.48884758364312264+goldsteinscale0.7+nummentions0.011248185776487663+numarticles0.011965192168237854+numsources0.009868421052631578+news_keywords+['ukraine:0.4823', 'euroemergency:0.4091', 'troop:0.3359', 'kremlin:0.334', 'training:0.2756', 'cooperation:0.2259', 'shortly:0.2199', 'mission:0.215', 'union:0.2145', 'personnel:0.2134', 'border:0.1892', 'incursion:0.1845', 'bloc:0.1786', 'plan:0.1629', 'politico:0.1594', 'threat:0.1581', 'elect:0.1569', 'drill:0.1507', 'advisory:0.1465', 'sevastopol:0.1438', 'occur:0.1392', 'agreement:0.1328', 'retire:0.1289', 'dmytro:0.1177', 'turn:0.1081', 'independent:0.1076', 'send:0.1049', 'new:0.0826', 'billion:0.0492', 'possibly:0.004']+titles_keywords+['ukraine:0.466', 'eu:0.3304', 'training:0.3159', 'military:0.2993', 'mission:0.2165']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220124+../news_crawling/RUS_UKR/p_articles/thehill.com/Pentagon puts 8500 troops on higher alert over RussiaUkraine tensions.txt+eventbasecode30+eventcode30+avgtone0.4907749077490775+goldsteinscale0.7+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['natos:0.5131', 'kremlin:0.3947', 'war:0.3483', 'kyiv:0.3449', 'pentagon:0.3343', 'deploy:0.3243', 'prepare:0.2772', 'operation:0.2618', 'reassure:0.2469', 'notify:0.24', 'embassy:0.2392', 'tension:0.2235', 'biden:0.2063', 'surveillance:0.2026', 'flank:0.2007', 'want:0.1868', 'increase:0.1836', 'western:0.182', 'act:0.1691', 'near:0.1674', 'unidentified:0.1664', 'discus:0.1567', 'monday:0.1553', 'short:0.1499', 'comprise:0.1456', 'state:0.1387', 'nrf:0.1384', 'deteriorate:0.0893', 'potentially:0.0862', 'sent:0.0697']+titles_keywords+['pentagon:0.356', 'russiaukraine:0.2412', '8500:0.1947', 'tensions:0.1858', 'alert:0.1662']"
+        ],
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/thehill.com/Russia Ukraine agree on multiple humanitarian corridors on Sunday.txt+eventbasecode30+eventcode30+avgtone0.48132780082987553+goldsteinscale0.7+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.013157894736842105+news_keywords+['kyiv:0.495', 'ukraines:0.4712', 'evacuate:0.3673', 'putin:0.338', 'evacuees:0.3331', 'humanitarian:0.2814', 'corridor:0.2455', 'vereshchuk:0.234', 'military:0.2203', 'attack:0.215', 'operation:0.1762', 'allow:0.1396', 'port:0.1383', 'slam:0.1354', 'iryna:0.1295', 'cnbc:0.1263', 'southeastern:0.1255', 'begin:0.1244', 'bus:0.1146', 'mariupol:0.0998', 'order:0.0934', 'sign:0.0934', 'handful:0.0922', 'agree:0.0736', 'month:0.0733', 'onmultiple:0.0718', 'earlier:0.0695', 'include:0.0669', 'accord:0.0656', 'personal:0.0579']+titles_keywords+['ukraine:0.4119', 'corridors:0.3363', 'humanitarian:0.2805', 'multiple:0.159', 'agree:0.0676']"
+        ]
+    ]
+}

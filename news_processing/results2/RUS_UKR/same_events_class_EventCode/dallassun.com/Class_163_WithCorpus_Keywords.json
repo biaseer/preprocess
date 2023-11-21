@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+163":[
+        [
+            "20210831+../news_crawling/RUS_UKR/p_articles/dallassun.com/Genoil in Discussions with Top Putin Aide for 700 Billion Energy Infrastructure Plan.txt+eventbasecode163+eventcode163+avgtone0.5089058524173028+goldsteinscale0.1+nummentions0.06386066763425254+numarticles0.06453952139231327+numsources0.05592105263157895+news_keywords+['oilgas:0.4095', 'pipelines:0.4047', 'genoil:0.3763', 'infrastructure:0.3372', 'environmental:0.3363', 'reuters:0.3289', 'siberia:0.3282', 'gazprom:0.3064', 'global:0.298', 'carbon:0.2824', 'sector:0.2675', 'legislation:0.2615', 'produce:0.257', 'initiative:0.2376', 'competitiveness:0.1965', 'reduce:0.195', 'fund:0.1881', 'trillion:0.1732', 'know:0.1711', 'cubic:0.1513', 'certify:0.1427', 'compare:0.1326', 'open:0.1232', 'percent:0.121', 'escobar:0.1185', 'trend:0.113', 'table:0.1099', 'include:0.108', 'upgrade:0.1034', 'imo:0.0907']+titles_keywords+['genoil:0.459', 'putin:0.4022', 'billion:0.1983', 'plan:0.197', 'discussions:0.1917']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220817+../news_crawling/RUS_UKR/p_articles/dallassun.com/Saudis buy stake in Russian energy companies spend billions.txt+eventbasecode163+eventcode163+avgtone0.5+goldsteinscale0.1+nummentions0.24528301886792453+numarticles0.24583031182015955+numsources0.27631578947368424+news_keywords+['opec:0.4888', 'saudis:0.4186', 'ukraine:0.3929', 'lukoil:0.3919', 'russian:0.364', 'invest:0.2995', 'gazprom:0.2981', 'petroleum:0.262', 'company:0.251', 'jeddah:0.2408', 'stake:0.1997', 'rosneft:0.1974', 'talal:0.1508', 'invasion:0.1492', 'energy:0.1465', 'billion:0.1431', 'lead:0.133', 'prince:0.1292', 'western:0.1215', 'th:0.1134', 'twitter:0.1054', 'form:0.0963', 'say:0.0879', 'percent:0.0793', 'year:0.0742', 'sanction:0.0677', 'add:0.0515', 'exporting:0.0324', 'primarily:0.0277', 'program:0.0274']+titles_keywords+['saudis:0.4123', 'russian:0.3109', 'energy:0.1706', 'billions:0.1696', 'buy:0.165']"
+        ]
+    ]
+}

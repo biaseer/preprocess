@@ -1,0 +1,12 @@
+{
+    "RUS+BLR+40":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/mediaite.com/Kremlin Reportedly Urges Russian Media to Avoid Mentioning 100 Day Mark of Ukraine Invasion.txt+eventbasecode40+eventcode40+avgtone0.48214285714285715+goldsteinscale0.55+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kremlin:0.4672', 'ukrainian:0.3705', 'russias:0.3462', 'news:0.312', 'invasion:0.2977', 'propagandist:0.2406', 'day:0.2322', 'zelensky:0.2193', 'february:0.1956', 'conflict:0.1889', 'kilometer:0.1793', 'present:0.1768', 'report:0.1692', 'source:0.1691', 'plan:0.1675', 'turn:0.1378', 'special:0.1344', 'parliament:0.1301', 'estimate:0.1215', 'mark:0.1198', 'shutter:0.1194', 'continue:0.1183', 'focusing:0.1171', 'th:0.1169', 'state:0.1142', 'line:0.1045', 'meduza:0.1042', 'stretch:0.0904', 'like:0.0824', 'alexandergmediaite:0.0606']+titles_keywords+['kremlin:0.4842', '100:0.1903', 'media:0.164', 'avoid:0.1424', 'day:0.1196']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/mediaite.com/Zelensky Backs His Troops as Very Smart Amid Concerns They Wont be Able to Use.txt+eventbasecode40+eventcode40+avgtone0.5011961722488038+goldsteinscale0.55+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['ukraines:0.3967', 'natocountries:0.3791', 'zelensky:0.3682', 'military:0.3489', 'howitzer:0.3453', 'weapons:0.3447', 'tank:0.3219', 'prepped:0.2629', 'learn:0.2238', 'cnns:0.2159', 'aid:0.2074', 'doesntknow:0.1979', 'smart:0.1964', 'concerns:0.1909', 'plane:0.1732', 'yourgovernment:0.1663', 'wont:0.1604', 'technicalstandpoint:0.1543', 'jake:0.1542', 'forthis:0.1428', 'new:0.1411', 'month:0.1373', 'receiving:0.1314', 'biden:0.1292', 'meet:0.121', 'notion:0.1129', 'suchequipment:0.1093', 'typeof:0.1091', 'line:0.0923', 'weve:0.0475']+titles_keywords+['zelensky:0.5067', 'troops:0.3516', 'smart:0.3194', 'concerns:0.1264', 'wont:0.1255']"
+        ]
+    ]
+}

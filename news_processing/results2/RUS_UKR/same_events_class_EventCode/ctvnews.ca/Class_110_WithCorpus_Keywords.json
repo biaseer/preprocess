@@ -1,0 +1,17 @@
+{
+    "HUN+UKR+110":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Live updates 410 civilian bodies found near Kyiv.txt+eventbasecode110+eventcode110+avgtone0.48105181747873166+goldsteinscale0.4+nummentions0.38824383164005805+numarticles0.38868745467730237+numsources0.28289473684210525+news_keywords+['kyiv:0.5744', 'kremlin:0.4307', 'syria:0.3613', 'massacre:0.3451', 'airstrike:0.345', 'evacuate:0.3345', 'news:0.316', 'government:0.3042', 'separatist:0.2747', 'victim:0.2634', 'disrupt:0.2627', 'unfolding:0.2408', 'ordnance:0.2368', 'coronavirus:0.2347', 'read:0.2268', 'know:0.2177', 'agreement:0.2138', 'concern:0.213', 'sector:0.1911', 'continue:0.1872', 'bucha:0.1853', 'general:0.1852', 'emphasize:0.1745', 'saturday:0.1709', 'ford:0.17', 'podium:0.1677', 'nearly:0.147', 'long:0.1426', 'import:0.132', 'sluggish:0.0856']+titles_keywords+['kyiv:0.4673', 'bodies:0.3581', '410:0.3302', 'civilian:0.269', 'updates:0.1583']"
+        ]
+    ],
+    "RUS+UKR+110":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Iran seeks creative ways to nuke deal after Russian demand.txt+eventbasecode110+eventcode110+avgtone0.4954128440366973+goldsteinscale0.4+nummentions0.11574746008708273+numarticles0.1163886874546773+numsources0.10197368421052631+news_keywords+['revolution:0.3867', 'news:0.3695', 'iranian:0.3491', 'trudeau:0.3239', 'write:0.2983', 'expand:0.2926', 'world:0.2837', 'secretary:0.2829', 'timetable:0.276', 'feb:0.2748', 'pandemic:0.2742', 'day:0.2736', 'stem:0.271', 'party:0.2667', 'times:0.2624', 'sanction:0.2577', 'cartoonists:0.2516', 'like:0.2461', 'stab:0.2453', 'iaea:0.2418', 'head:0.2403', 'acknowledgment:0.2338', 'end:0.2275', 'spacex:0.2271', 'paris:0.2258', 'murdaugh:0.2196', 'powerful:0.2167', 'agree:0.197', 'cover:0.1958', 'longer:0.1915']+titles_keywords+['nuke:0.4235', 'iran:0.3985', 'deal:0.1733', 'creative:0.1597', 'ways:0.1487']"
+        ]
+    ],
+    "RUS+WST+110":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Russia demands US NATO response next week on Ukraine.txt+eventbasecode110+eventcode110+avgtone0.4794617563739376+goldsteinscale0.4+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['moscow:0.4601', 'nato:0.3722', 'news:0.3351', 'diplomatic:0.3224', 'disruption:0.3064', 'separatists:0.2772', 'eastward:0.2702', 'cite:0.2678', 'week:0.2607', 'progress:0.258', 'morning:0.2523', 'pandemic:0.2501', 'write:0.2465', 'podium:0.2438', 'trudeau:0.2437', 'anticipate:0.2405', 'behead:0.2303', 'spacex:0.2181', 'adviser:0.212', 'emphasize:0.1966', 'combine:0.1966', 'log:0.1947', 'gastronomic:0.1899', 'end:0.1882', 'big:0.179', 'nearly:0.1762', 'murdaugh:0.1694', 'cover:0.1561', 'ready:0.1374', 'agree:0.1314']+titles_keywords+['nato:0.4494', 'ukraine:0.386', 'response:0.2051', 'week:0.1867', 'demands:0.1799']"
+        ]
+    ]
+}

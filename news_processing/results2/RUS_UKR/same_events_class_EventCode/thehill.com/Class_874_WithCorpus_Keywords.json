@@ -1,0 +1,12 @@
+{
+    "AFG+RUS+874":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/thehill.com/Putins aggression Lets not be surprised again.txt+eventbasecode87+eventcode874+avgtone0.4719679633867277+goldsteinscale1.0+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['putin:0.4822', 'nato:0.4252', 'war:0.3892', 'ukraines:0.378', 'armageddon:0.3444', 'strategy:0.33', 'blockade:0.3149', 'provoke:0.303', 'scenario:0.2785', 'incursion:0.2742', 'assassinate:0.2636', 'anticipate:0.2581', 'border:0.2442', 'administration:0.225', 'nation:0.2225', 'expand:0.2184', 'russo:0.2108', 'report:0.1952', 'stockpile:0.179', 'read:0.1757', 'forget:0.1755', 'sequence:0.1577', 'whats:0.1531', 'ready:0.1428', 'decide:0.1421', 'purchase:0.1215', 'second:0.1188', 'isnt:0.1174', 'chemical:0.1096', 'audacity:0.0457']+titles_keywords+['putins:0.4856', 'aggression:0.3727', 'surprised:0.2535', 'lets:0.1919']"
+        ]
+    ],
+    "RUS+UKR+874":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/thehill.com/Pence says we need to continue to arm Ukraine sanction every financial institution in Russia.txt+eventbasecode87+eventcode874+avgtone0.4922360248447205+goldsteinscale1.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.006578947368421052+news_keywords+['putin:0.4102', 'nato:0.399', 'ukraine:0.3856', 'sanction:0.3171', 'separatist:0.2813', 'pences:0.2428', 'invasion:0.2157', 'peace:0.2106', 'concern:0.2045', 'hannity:0.1986', 'zelensky:0.1976', 'armament:0.1893', 'officer:0.189', 'withdraw:0.1879', 'continue:0.1753', 'news:0.1719', 'enrich:0.1634', 'want:0.1629', 'future:0.1521', 'ought:0.1491', 'dissolve:0.1427', 'say:0.1179', 'volodymyr:0.1136', 'fully:0.1053', 'line:0.1006', 'weak:0.0996', 'wont:0.0935', 'eastern:0.0894', 'doesnt:0.07', 'theyre:0.069']+titles_keywords+['pence:0.4074', 'ukraine:0.3379', 'sanction:0.3329', 'arm:0.1898', 'continue:0.1635']"
+        ]
+    ]
+}

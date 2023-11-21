@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+172":[
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/theage.com.au/India bans wheat exports as supply crunch looms during RussiaUkraine war.txt+eventbasecode172+eventcode172+avgtone0.478125+goldsteinscale0.25+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['agriculture:0.4512', 'wheat:0.4504', 'protectionism:0.3863', 'indias:0.3699', 'exports:0.3504', 'yield:0.3097', 'traders:0.3021', 'oil:0.2902', 'inflation:0.2749', 'ensure:0.271', 'governments:0.2612', 'breadbasket:0.2472', 'quota:0.2419', 'stockpile:0.2382', 'invade:0.2343', 'russiaukraine:0.2316', 'importing:0.212', 'world:0.1998', 'alleviate:0.1882', 'correspondent:0.1712', 'halt:0.1701', 'require:0.1641', 'february:0.1328', 'general:0.1257', 'issue:0.1243', 'accord:0.1135', 'notification:0.1104', 'far:0.0782', 'likely:0.0425', 'highlight:0.0382']+titles_keywords+['wheat:0.405', 'war:0.2741', 'india:0.2657', 'exports:0.2504', 'russiaukraine:0.1933']"
+        ],
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/theage.com.au/Coal the burning issue in energy crisis.txt+eventbasecode172+eventcode172+avgtone0.47368421052631576+goldsteinscale0.25+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['coal:0.5446', 'renewables:0.4223', 'heater:0.2933', 'current:0.2786', 'megawatt:0.2757', 'melbourne:0.2659', 'burn:0.2324', 'shortage:0.2258', 'grid:0.2041', 'downtime:0.1948', 'peaking:0.191', 'analysis:0.187', 'winter:0.1725', 'executive:0.168', 'significant:0.1508', 'complicate:0.1494', 'russias:0.1481', 'switch:0.1476', 'news:0.1475', 'thursday:0.1378', 'generate:0.1329', 'cost:0.1306', 'dylan:0.122', 'withdraw:0.1219', 'lower:0.1214', 'historically:0.1176', 'begin:0.1109', 'warning:0.103', 'agree:0.091', 'maley:0.062']+titles_keywords+['coal:0.6392', 'burning:0.4424', 'crisis:0.3081', 'energy:0.2714', 'issue:0.269']"
+        ]
+    ]
+}

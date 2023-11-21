@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+43":[
+        [
+            "20220819+../news_crawling/RUS_UKR/p_articles/jamestown.org/Ukrainian Strikes Cause Moscow to ReThink Munitions Supply and Logistics Part Two.txt+eventbasecode43+eventcode43+avgtone0.48582474226804123+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['munitions:0.4209', 'oblast:0.4204', 'nato:0.3489', 'logistics:0.3351', 'railways:0.2833', 'tank:0.2729', 'stock:0.2597', 'production:0.2367', 'shortage:0.2348', 'increase:0.2113', 'correspond:0.198', 'extensive:0.1795', 'accounting:0.1693', 'combine:0.1675', 'plan:0.1637', 'fight:0.1623', 'data:0.1619', 'spend:0.1597', 'long:0.1562', 'baseline:0.1438', 'leverage:0.1438', 'consequential:0.1422', 'august:0.132', 'load:0.1253', 'phase:0.1148', 'mlrss:0.1004', 'billion:0.0987', 'gomel:0.0927', 'assuming:0.0753', 'orsha:0.0388']+titles_keywords+['munitions:0.4894', 'moscow:0.4603', 'supply:0.2895', 'strikes:0.266', 'rethink:0.1276']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20210604+../news_crawling/RUS_UKR/p_articles/jamestown.org/Crimeas Nuclear Potential A Return to Soviet Practices.txt+eventbasecode43+eventcode43+avgtone0.49014778325123154+goldsteinscale0.64+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.5839', 'nuclear:0.4132', 'treaty:0.2681', 'deploy:0.2227', 'novosti:0.2199', 'ru:0.2121', 'detachments:0.2113', 'strategic:0.2037', 'armament:0.2002', 'unilaterally:0.1841', 'states:0.162', 'kilometer:0.1609', 'concern:0.1558', 'escalate:0.1504', 'iskanders:0.1474', 'zircon:0.1455', 'rpk:0.1312', 'suit:0.1213', 'know:0.1193', 'reconstruction:0.1137', 'ready:0.1129', 'sphere:0.1083', 'willingness:0.0943', 'exercise:0.0924', 'vodopad:0.0879', 'april:0.0788', 'reports:0.0771', 'plausible:0.0746', 'intermediate:0.0701', 'definition:0.0276']+titles_keywords+['crimeas:0.5981', 'nuclear:0.5028', 'soviet:0.4284', 'return:0.1166', 'practices:0.0795']"
+        ]
+    ]
+}

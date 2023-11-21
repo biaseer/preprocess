@@ -1,0 +1,17 @@
+{
+    "POL+UKR+51":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/japantoday.com/Russia presses Donbas offensive as Polish leader visits Kyiv.txt+eventbasecode51+eventcode51+avgtone0.4743485342019544+goldsteinscale0.67+nummentions0.20029027576197386+numarticles0.20087019579405366+numsources0.3026315789473684+news_keywords+['crimea:0.4895', 'putins:0.3823', 'nato:0.3585', 'propaganda:0.3251', 'invade:0.2976', 'zelenskyy:0.2531', 'separatist:0.2464', 'table:0.2457', 'operation:0.2297', 'know:0.2294', 'achieve:0.2288', 'puppet:0.2219', 'aggressor:0.1994', 'rail:0.1761', 'classify:0.1729', 'leaving:0.1722', 'flatten:0.1644', 'blood:0.1599', 'world:0.1548', 'like:0.1535', 'debacle:0.1524', 'choose:0.1522', 'rsepresentatives:0.1518', 'discus:0.1494', 'chorus:0.142', 'field:0.138', 'sure:0.1204', 'longer:0.1142', 'possibility:0.1113', 'haaa:0.1042']+titles_keywords+['kyiv:0.4486', 'donbas:0.3635', 'polish:0.3073', 'offensive:0.1464', 'presses:0.0991']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/japantoday.com/Russian Shop in Tokyo becomes target of vandalism after owners controversial remarks.txt+eventbasecode51+eventcode51+avgtone0.49948770491803274+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['russia:0.4447', 'propaganda:0.4375', 'russification:0.4363', 'geopolitical:0.3944', 'headline:0.3696', 'kristallnacht:0.3065', 'supply:0.2977', 'context:0.281', 'nhk:0.2781', 'react:0.2728', 'occur:0.266', 'vandalism:0.2654', 'coup:0.2612', 'abouttheir:0.257', 'svoboda:0.25', 'write:0.2467', 'change:0.2454', 'know:0.2325', 'like:0.2181', 'suppress:0.2123', 'coronavirus:0.2105', 'import:0.2085', 'unoccupied:0.2019', 'bad:0.1995', 'whichis:0.1949', 'dscussions:0.1892', 'flower:0.1891', 'sell:0.1835', 'theyve:0.1625', 'welcome:0.1028']+titles_keywords+['vandalism:0.4498', 'tokyo:0.3205', 'russian:0.3199', 'shop:0.2494', 'owners:0.1713']"
+        ]
+    ],
+    "WST+UKR+51":[
+        [
+            "20220615+../news_crawling/RUS_UKR/p_articles/japantoday.com/Ukraine ignores Sievierodonetsk ultimatum urges faster arms deliveries.txt+eventbasecode51+eventcode51+avgtone0.47788873038516405+goldsteinscale0.67+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.006578947368421052+news_keywords+['ukraine:0.4959', 'kremlin:0.429', 'nato:0.3962', 'separatist:0.3244', 'overthrow:0.2947', 'leftists:0.2863', 'azov:0.2683', 'sievierodonetsk:0.2484', 'history:0.239', 'transnistria:0.2315', 'artsakh:0.2274', 'subject:0.2153', 'bombing:0.2114', 'know:0.2096', 'soldier:0.2047', 'news:0.2023', 'continue:0.1951', 'sector:0.1889', 'nonsense:0.1715', 'ap:0.1639', 'straight:0.1632', 'donbas:0.1591', 'compare:0.1576', 'interference:0.1568', 'alongside:0.1558', 'asap:0.1511', 'plotted:0.1463', 'mh:0.1354', 'lol:0.1266', 'welcome:0.073']+titles_keywords+['ukraine:0.366', 'ultimatum:0.3591', 'sievierodonetsk:0.3119', 'arms:0.177', 'faster:0.1706']"
+        ]
+    ]
+}

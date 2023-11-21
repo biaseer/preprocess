@@ -1,0 +1,15 @@
+{
+    "CHN+UKR+1712":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/europesun.com/Canadian banners supporting Ukraine vandalized by Chinese nationalists in Beijing.txt+eventbasecode171+eventcode1712+avgtone0.4891089108910891+goldsteinscale0.040000000000000036+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.02631578947368421+news_keywords+['ukraine:0.4526', 'nationalist:0.4482', 'prc:0.4199', 'flags:0.3293', 'protest:0.3041', 'embassy:0.2764', 'vandalisation:0.2666', 'banner:0.2599', 'slogans:0.2392', 'invasion:0.2379', 'standwithukraine:0.2131', 'strategic:0.2107', 'weibo:0.2079', 'censor:0.1988', 'agreement:0.1923', 'know:0.1853', 'people:0.1799', 'issue:0.1775', 'flaunt:0.1702', 'publication:0.1661', 'counterpart:0.1661', 'post:0.1634', 'word:0.163', 'accused:0.1605', 'goodbye:0.1585', 'support:0.1583', 'zhen:0.1494', 'student:0.1339', 'ani:0.116', 'radio:0.0868']+titles_keywords+['banners:0.419', 'nationalists:0.4062', 'ukraine:0.3989', 'vandalized:0.3594', 'chinese:0.3179']"
+        ]
+    ],
+    "RUS+UKR+1712":[
+        [
+            "20220708+../news_crawling/RUS_UKR/p_articles/europesun.com/Russia destroys more foreign weapons in Ukraine military.txt+eventbasecode171+eventcode1712+avgtone0.4868073878627968+goldsteinscale0.040000000000000036+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['ukraine:0.4793', 'kremlin:0.4284', 'ceasefire:0.4158', 'weaponry:0.3273', 'sergey:0.3144', 'destroy:0.2845', 'unprovoked:0.2482', 'supply:0.2421', 'territory:0.2355', 'protocol:0.2019', 'agreement:0.2009', 'designate:0.1957', 'warn:0.1864', 'buy:0.1843', 'argue:0.179', 'publish:0.1729', 'donbass:0.172', 'end:0.1691', 'president:0.1664', 'neutral:0.1574', 'bloc:0.1467', 'ship:0.1408', 'long:0.1396', 'legitimate:0.1329', 'friday:0.1222', 'reappear:0.1164', 'additional:0.1113', 'reach:0.1006', 'video:0.0956', 'possible:0.0702']+titles_keywords+['ukraine:0.3639', 'weapons:0.3334', 'destroys:0.2635', 'military:0.1647', 'foreign:0.1392']"
+        ],
+        [
+            "20220725+../news_crawling/RUS_UKR/p_articles/europesun.com/HIMARS stockpiles destroyed Moscow.txt+eventbasecode171+eventcode1712+avgtone0.46987951807228917+goldsteinscale0.040000000000000036+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['moscow:0.5252', 'artillery:0.3819', 'himars:0.351', 'stockpile:0.3306', 'destroy:0.3282', 'bogdanovtsy:0.2937', 'shipment:0.2867', 'target:0.2576', 'rocket:0.2515', 'weapon:0.2493', 'monday:0.2325', 'supply:0.2291', 'station:0.2286', 'hit:0.2274', 'range:0.2256', 'announce:0.225', 'contain:0.205', 'base:0.1941', 'sea:0.1902', 'shell:0.1898', 'precision:0.1582', 'munition:0.1552', 'western:0.1474', 'include:0.1473', 'defense:0.1266', 'long:0.1122', 'host:0.1098', 'multiple:0.1068', 'add:0.06', 'accord:0.0429']+titles_keywords+['moscow:0.4774', 'stockpiles:0.4284', 'himars:0.3795', 'destroyed:0.2913']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/bbc.com/BBC Russian reporter in Kyiv The day the war began.txt+eventbasecode51+eventcode51+avgtone0.48390941597139453+goldsteinscale0.67+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['kyiv:0.5659', 'crimea:0.5117', 'ukrainians:0.4644', 'putin:0.42', 'war:0.3736', 'journalist:0.3685', 'strategic:0.2673', 'separatist:0.2653', 'happen:0.2441', 'annex:0.2425', 'know:0.2353', 'tank:0.2305', 'stay:0.2248', 'border:0.2169', 'listen:0.2042', 'introduce:0.2031', 'presence:0.202', 'railway:0.1934', 'bloody:0.1828', 'word:0.1801', 'order:0.1764', 'irony:0.1717', 'help:0.1694', 'cover:0.1688', 'sign:0.164', 'like:0.1531', 'saw:0.1495', 'month:0.1374', 'heartbreaking:0.1315', 'tomorrow:0.1312']+titles_keywords+['kyiv:0.598', 'war:0.3694', 'reporter:0.3568', 'bbc:0.2994', 'day:0.1702']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine crisis President Zelensky hails Ukrainians defending country.txt+eventbasecode51+eventcode51+avgtone0.4642857142857143+goldsteinscale0.67+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['zelensky:0.5301', 'ukraine:0.4566', 'ukrainians:0.4357', 'russian:0.3584', 'invasion:0.2366', 'president:0.1983', 'defend:0.1872', 'nation:0.1808', 'hail:0.1796', 'crisis:0.1271', 'country:0.1154', 'address:0.072', 'effort:0.0397']+titles_keywords+['zelensky:0.5304', 'ukraine:0.4299', 'defending:0.1956', 'hails:0.1632', 'president:0.1232']"
+        ],
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/bbc.com/War in Ukraine Protesters in Kherson appear to make Russian truck reverse.txt+eventbasecode51+eventcode51+avgtone0.4714285714285715+goldsteinscale0.67+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.501', 'ukrainian:0.4663', 'protesters:0.4596', 'russian:0.4215', 'russia:0.4185', 'truck:0.3992', 'protest:0.3789', 'war:0.3522', 'svobody:0.345', 'reverse:0.3285', 'vehicle:0.3265', 'invasion:0.3028', 'reversing:0.2941', 'footage:0.224', 'kherson:0.2122', 'appear:0.1994', 'civilian:0.1972', 'symbol:0.1916', 'post:0.154', 'make:0.1464', 'square:0.146', 'away:0.1436', 'letter:0.1414', 'sunday:0.1256', 'support:0.1127', 'mark:0.0869', 'online:0.0605']+titles_keywords+['ukraine:0.4224', 'truck:0.4084', 'protesters:0.3961', 'war:0.3188', 'reverse:0.309']"
+        ]
+    ]
+}

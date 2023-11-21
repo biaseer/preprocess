@@ -1,0 +1,15 @@
+{
+    "AFR+RUS+20":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/capitalfm.co.ke/MATSANGA on Russia Dialogue and containment can work.txt+eventbasecode20+eventcode20+avgtone0.4688249400479616+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4741', 'nato:0.4265', 'sanctions:0.3884', 'war:0.3849', 'putins:0.3844', 'africans:0.2973', 'autocratic:0.2798', 'territory:0.2636', 'neutrality:0.2592', 'volodymyrzelenskyy:0.2459', 'escalate:0.2454', 'biden:0.2359', 'impasse:0.2331', 'initiative:0.2261', 'isolate:0.2222', 'read:0.2104', 'speaking:0.2089', 'capital:0.1809', 'table:0.175', 'aligned:0.1616', 'cold:0.1527', 'note:0.1511', 'option:0.1459', 'thursday:0.1396', 'choreographer:0.1376', 'obstacle:0.1344', 'moribund:0.1249', 'agree:0.1212', 'crop:0.0928', 'nearly:0.071']+titles_keywords+['matsanga:0.4202', 'russia:0.3661', 'containment:0.3368', 'dialogue:0.2551', 'work:0.0925']"
+        ]
+    ],
+    "EUR+RUS+20":[
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/capitalfm.co.ke/EU readies for end of Russia gas warns wont pay in rubles.txt+eventbasecode20+eventcode20+avgtone0.48225602027883396+goldsteinscale0.65+nummentions0.03374455732946299+numarticles0.03444525018129079+numsources0.03289473684210526+news_keywords+['ukraine:0.492', 'kremlin:0.4312', 'embargo:0.3794', 'ruble:0.3442', 'eus:0.3006', 'economy:0.277', 'diplomat:0.275', 'proceed:0.2613', 'threat:0.2434', 'news:0.243', 'invade:0.2381', 'volodymyrzelenskyy:0.2291', 'report:0.2024', 'unite:0.2003', 'gas:0.188', 'read:0.1871', 'gazproms:0.1798', 'renew:0.178', 'clarification:0.173', 'sidestep:0.1616', 'diversify:0.1596', 'sikela:0.1508', 'breakdown:0.1505', 'biden:0.1457', 'bit:0.1268', 'week:0.1166', 'nearly:0.1102', 'look:0.1008', 'deal:0.098', 'agree:0.0844']+titles_keywords+['rubles:0.4345', 'eu:0.3171', 'readies:0.2779', 'wont:0.2008', 'end:0.1941']"
+        ]
+    ],
+    "RUS+EUR+20":[
+        []
+    ]
+}

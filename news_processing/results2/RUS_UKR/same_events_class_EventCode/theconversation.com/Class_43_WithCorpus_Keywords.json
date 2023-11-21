@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+43":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/theconversation.com/Ukraine the complex calculations that will decide whether Belarus enters the conflict on Russiasside.txt+eventbasecode43+eventcode43+avgtone0.47946611909650927+goldsteinscale0.64+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['belarus:0.5208', 'kyiv:0.4489', 'putins:0.3974', 'lukashenko:0.3911', 'vladimir:0.3908', 'nato:0.3543', 'reorganisation:0.2995', 'war:0.2791', 'economic:0.2368', 'election:0.2102', 'pentagon:0.1977', 'belligerent:0.1967', 'trigger:0.1874', 'emphasise:0.1801', 'ominous:0.1705', 'sector:0.1694', 'relation:0.1689', 'resume:0.1594', 'report:0.155', 'grow:0.1426', 'include:0.1406', 'decide:0.1401', 'conducting:0.1399', 'mitigate:0.1382', 'exchange:0.1375', 'differentiate:0.1293', 'pretext:0.1229', 'ready:0.1228', 'major:0.0956', 'wont:0.0914']+titles_keywords+['belarus:0.5112', 'russiasside:0.4244', 'conflict:0.2934', 'calculations:0.2202', 'enters:0.2063']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/theconversation.com/Drones over Ukraine fears of Russian killer robots have failed tomaterialise.txt+eventbasecode43+eventcode43+avgtone0.4694244604316547+goldsteinscale0.64+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.009868421052631578+news_keywords+['drone:0.5293', 'ukraines:0.3997', 'putin:0.3944', 'missile:0.3429', 'military:0.3147', 'enemy:0.2878', 'ai:0.2788', 'invade:0.2733', 'tank:0.2217', 'concern:0.2067', 'nuclear:0.2057', 'justify:0.1928', 'feature:0.1864', 'predict:0.1829', 'researcher:0.181', 'coordinate:0.1758', 'technologically:0.1715', 'power:0.1705', 'whats:0.1687', 'report:0.1685', 'arm:0.1672', 'right:0.16', 'modern:0.1535', 'evidence:0.1521', 'similar:0.1277', 'sure:0.1225', 'buy:0.1166', 'surface:0.1063', 'far:0.0961', 'major:0.0754']+titles_keywords+['drones:0.5121', 'russian:0.3183', 'fears:0.3025', 'failed:0.1152', 'tomaterialise:0.1036']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "DEU+UKR+72":[
+        [
+            "20220117+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/German FM warns Russia of high price if it invades Ukraine.txt+eventbasecode72+eventcode72+avgtone0.49327354260089684+goldsteinscale0.915+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nato:0.4465', 'ukraines:0.4438', 'diplomacy:0.4401', 'kiev:0.3798', 'invades:0.3688', 'russia:0.3679', 'negotiation:0.3272', 'lavrov:0.284', 'escalation:0.279', 'crisis:0.2444', 'german:0.2383', 'normandy:0.2257', 'warn:0.2031', 'efe:0.2019', 'pledge:0.1951', 'meet:0.1887', 'refer:0.1878', 'function:0.1778', 'know:0.1758', 'emphasize:0.1746', 'baerbock:0.1572', 'weapon:0.1531', 'achieve:0.153', 'tuesday:0.1441', 'press:0.1409', 'dmytro:0.1334', 'conference:0.1234', 'unequivocal:0.1105', 'jan:0.1037', 'export:0.0968']+titles_keywords+['price:0.3364', 'ukraine:0.3139', 'invades:0.214', 'warns:0.1696', 'fm:0.1528']"
+        ]
+    ],
+    "EST+UKR+72":[
+        [
+            "20220125+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Western military aid to Ukraine a deterrent against Russian attack.txt+eventbasecode72+eventcode72+avgtone0.49692622950819676+goldsteinscale0.915+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4991', 'geopolitics:0.3608', 'artillery:0.3366', 'troop:0.3141', 'tank:0.3013', 'aid:0.2964', 'threat:0.2872', 'supply:0.2542', 'prepare:0.239', 'intercept:0.2243', 'operation:0.221', 'annex:0.2142', 'plane:0.1976', 'send:0.1498', 'shoot:0.1496', 'adequate:0.1443', 'addition:0.1391', 'millimeter:0.1345', 'expert:0.1308', 'efe:0.13', 'tuesday:0.1265', 'million:0.1204', 'modern:0.1202', 'taras:0.1172', 'biden:0.1168', 'hardware:0.105', 'doesnt:0.0925', 'far:0.0866', 'iskander:0.0852', 'welcome:0.0754']+titles_keywords+['ukraine:0.4981', 'aid:0.3539', 'attack:0.346', 'military:0.2827', 'deterrent:0.2372']"
+        ]
+    ],
+    "ITA+UKR+72":[
+        [
+            "20220622+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Draghi defends arms shipments to Ukraine calls for unity.txt+eventbasecode72+eventcode72+avgtone0.49643705463182897+goldsteinscale0.915+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['nato:0.4377', 'kyiv:0.3735', 'kremlin:0.3408', 'diplomatic:0.3377', 'election:0.3268', 'conflict:0.3255', 'italys:0.2966', 'di:0.2936', 'giuseppe:0.2912', 'draghi:0.2857', 'futuro:0.2515', 'parliamentarian:0.2427', 'formation:0.2409', 'split:0.2325', 'ahead:0.2297', 'leave:0.2096', 'result:0.2059', 'efe:0.2035', 'foreign:0.1926', 'support:0.1873', 'weaken:0.1832', 'crippa:0.1772', 'arm:0.1587', 'stipulates:0.1582', 'rift:0.1574', 'request:0.1555', 'make:0.1534', 'current:0.1479', 'resolution:0.1293', 'month:0.1078']+titles_keywords+['draghi:0.4454', 'ukraine:0.3742', 'defends:0.2391', 'unity:0.2189', 'shipments:0.2097']"
+        ]
+    ]
+}

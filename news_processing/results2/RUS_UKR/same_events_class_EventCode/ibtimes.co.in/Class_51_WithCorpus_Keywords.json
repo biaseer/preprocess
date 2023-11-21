@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/ibtimes.co.in/Zelensky could order troops to lay down arms and there will be no casualties Kremlin.txt+eventbasecode51+eventcode51+avgtone0.4713656387665198+goldsteinscale0.67+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukrainian:0.4428', 'zelensky:0.3945', 'kremlin:0.3706', 'dmitry:0.3685', 'peskov:0.3238', 'invasion:0.2796', 'volodymyr:0.2336', 'election:0.227', 'expect:0.2021', 'retaliatory:0.1862', 'leader:0.1541', 'order:0.1536', 'ally:0.1429', 'arise:0.1342', 'induced:0.1333', 'casualty:0.1249', 'hold:0.1192', 'temporary:0.1165', 'play:0.1135', 'future:0.1081', 'long:0.1076', 'legitimate:0.1063', 'submit:0.1053', 'issue:0.1037', 'continue:0.0976', 'rt:0.0912', 'arm:0.0896', 'perceive:0.084', 'asked:0.0761', 'mind:0.07']+titles_keywords+['zelensky:0.5154', 'kremlin:0.4335', 'troops:0.2707', 'lay:0.1128', 'order:0.0593']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/ibtimes.co.in/European tensions impact Stocks plunge on geopolitics realty shares down details.txt+eventbasecode51+eventcode51+avgtone0.4816849816849817+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['geopolitical:0.5222', 'sensex:0.3993', 'putin:0.3726', 'tension:0.3664', 'conflict:0.3664', 'downtrend:0.3326', 'kiev:0.314', 'india:0.2791', 'oil:0.2734', 'global:0.2429', 'escalate:0.2373', 'independence:0.2331', 'commodity:0.2111', 'plunge:0.2053', 'feb:0.1844', 'order:0.1805', 'sp:0.1773', 'point:0.1745', 'sector:0.1646', 'drain:0.1621', 'troop:0.1539', 'regulatory:0.152', 'subdue:0.1502', 'open:0.138', 'act:0.135', 'head:0.1299', 'previous:0.1297', 'research:0.1256', 'niftytraded:0.1205', 'include:0.1189']+titles_keywords+['geopolitics:0.4611', 'tensions:0.4173', 'plunge:0.2979', 'stocks:0.2524', 'details:0.0994']"
+        ]
+    ]
+}

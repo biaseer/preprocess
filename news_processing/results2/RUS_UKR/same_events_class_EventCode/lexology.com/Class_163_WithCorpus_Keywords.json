@@ -1,0 +1,15 @@
+{
+    "CHE+RUS+163":[
+        [
+            "20220623+../news_crawling/RUS_UKR/p_articles/lexology.com/Legal aspects of sanctions imposed by Switzerland against Russia.txt+eventbasecode163+eventcode163+avgtone0.48146002317497105+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4779', 'sanction:0.4084', 'embargo:0.382', 'jurisdiction:0.325', 'restrict:0.2186', 'migration:0.206', 'threaten:0.1974', 'proceed:0.1837', 'interpret:0.1751', 'osce:0.1705', 'obligation:0.1687', 'dispatch:0.1532', 'military:0.1525', 'amendment:0.1485', 'act:0.1288', 'issue:0.1219', 'article:0.1189', 'implementing:0.1183', 'politically:0.111', 'matter:0.1088', 'decide:0.1068', 'order:0.0932', 'guideline:0.0833', 'procedural:0.0736', 'fact:0.0687', 'differs:0.0687', 'resource:0.0534', 'enjoy:0.0459', 'proportionality:0.0451', 'far:0.04']+titles_keywords+['sanctions:0.5434', 'switzerland:0.3584', 'russia:0.3445', 'legal:0.2263', 'aspects:0.0828']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/lexology.com/New Sanctions Imposed in Response to Russias Incursions in Ukraine Phase I.txt+eventbasecode163+eventcode163+avgtone0.4928511354079058+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['sanctions:0.5201', 'crimea:0.4012', 'russias:0.3757', 'ruble:0.3479', 'legislation:0.3396', 'oligarch:0.3276', 'promsvyazbank:0.3115', 'authorization:0.2808', 'reexportation:0.2646', 'directive:0.2584', 'transaction:0.2565', 'blocked:0.2525', 'federation:0.2497', 'executive:0.2474', 'term:0.2155', 'supply:0.2132', 'property:0.19', 'understand:0.1886', 'ofacs:0.1825', 'report:0.1805', 'mitigate:0.1764', 'subject:0.1753', 'list:0.1751', 'advantage:0.1733', 'extent:0.1609', 'direct:0.1576', 'continue:0.15', 'commensurate:0.1346', 'sdns:0.1317', 'february:0.1144']+titles_keywords+['sanctions:0.5963', 'ukraine:0.4388', 'incursions:0.2935', 'new:0.1716', 'phase:0.155']"
+        ],
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/lexology.com/Sanctions against Russia impacts for New Zealand businesses.txt+eventbasecode163+eventcode163+avgtone0.4656762295081967+goldsteinscale0.1+nummentions0.015239477503628448+numarticles0.01595358955765047+numsources0.019736842105263157+news_keywords+['sanctions:0.532', 'legislation:0.3255', 'multilateral:0.3049', 'zealand:0.2794', 'russian:0.2486', 'blacklist:0.2475', 'regimes:0.2315', 'aud:0.2238', 'transact:0.2202', 'banking:0.1859', 'export:0.16', 'affected:0.157', 'precaution:0.1379', 'convict:0.1356', 'relation:0.1302', 'responses:0.1219', 'current:0.1134', 'strictly:0.1056', 'aircraft:0.0973', 'example:0.0945', 'read:0.0935', 'coordinate:0.0886', 'state:0.0857', 'include:0.0807', 'wider:0.0792', 'snapshot:0.0579', 'mori:0.0517', 'unless:0.0398', 'good:0.017', 'focus:-0.001']+titles_keywords+['sanctions:0.5396', 'russia:0.3772', 'zealand:0.3193', 'businesses:0.2158', 'impacts:0.1904']"
+        ]
+    ]
+}

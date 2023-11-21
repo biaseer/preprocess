@@ -1,0 +1,12 @@
+{
+    "IND+UKR+190":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/sentinelassam.com/Away from the battlefield in Ukraine cyber warfare heats up between Russia and US.txt+eventbasecode190+eventcode190+avgtone0.47649572649572647+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['cyberattacks:0.5147', 'moscow:0.4095', 'nato:0.3514', 'disrupt:0.3144', 'adversary:0.3133', 'fbi:0.3127', 'operation:0.2623', 'coordinate:0.2415', 'conflict:0.2405', 'economy:0.2217', 'reiterate:0.2207', 'satellite:0.2134', 'warning:0.2004', 'ict:0.1981', 'scope:0.1951', 'biden:0.1931', 'data:0.19', 'accusing:0.1831', 'enhance:0.1788', 'playbook:0.1779', 'exchange:0.1702', 'statement:0.1451', 'state:0.1421', 'structure:0.138', 'pose:0.1161', 'heated:0.1156', 'main:0.1115', 'new:0.1057', 'wag:0.1017', 'today:0.0724']+titles_keywords+['ukraine:0.4214', 'cyber:0.4098', 'warfare:0.3719', 'away:0.1551', 'heats:0.1198']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/sentinelassam.com/RussiaUkraine Crisis Marine Battalion Blows Himself Up On A Bridge To Halt The Enemy.txt+eventbasecode190+eventcode190+avgtone0.4841849148418491+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.006578947368421052+news_keywords+['battalion:0.4822', 'war:0.3655', 'operation:0.3282', 'volodymyrovych:0.3234', 'armoured:0.308', 'russia:0.303', 'bridge:0.2913', 'crisis:0.2858', 'kill:0.2629', 'engineer:0.2277', 'concern:0.2155', 'report:0.2065', 'sentinel:0.2033', 'point:0.1985', 'read:0.1943', 'updated:0.1935', 'brave:0.1922', 'forces:0.1864', 'act:0.1829', 'relocate:0.1769', 'citizens:0.1682', 'posthumous:0.1659', 'decide:0.1529', 'according:0.1484', 'way:0.1479', 'soon:0.1468', 'major:0.1334', 'blockage:0.1196', 'gmt:0.1044', 'longer:0.079']+titles_keywords+['battalion:0.512', 'russiaukraine:0.4443', 'bridge:0.3282', 'crisis:0.3268', 'blows:0.1976']"
+        ]
+    ]
+}

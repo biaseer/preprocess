@@ -1,0 +1,17 @@
+{
+    "CHN+RUS+51":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/China and Russia align against the world.txt+eventbasecode51+eventcode51+avgtone0.5012722646310432+goldsteinscale0.67+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.006578947368421052+news_keywords+['putin:0.4589', 'moscow:0.3933', 'nato:0.3679', 'unilateralism:0.3597', 'espionage:0.2969', 'beijing:0.2963', 'political:0.2524', 'cooperate:0.2143', 'relationship:0.201', 'alignment:0.1999', 'jinping:0.1895', 'broader:0.1865', 'form:0.1732', 'foreign:0.1698', 'example:0.1646', 'importance:0.1536', 'union:0.14', 'export:0.1303', 'centerpiece:0.127', 'make:0.1256', 'marginal:0.1224', 'cold:0.1204', 'powerful:0.1179', 'space:0.1176', 'trade:0.1133', 'fact:0.113', 'prospect:0.1013', 'grow:0.1004', 'reach:0.0912', 'reemergent:0.0894']+titles_keywords+['russia:0.4223', 'china:0.3568', 'align:0.2929', 'world:0.2827']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Russia claims Ukrainian military suffering significant losses in Donbas.txt+eventbasecode51+eventcode51+avgtone0.4615384615384615+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4673', 'svyatogorsk:0.317', 'war:0.289', 'zelensky:0.2547', 'donbas:0.2458', 'tank:0.2301', 'civilian:0.2242', 'nationalist:0.2242', 'cnn:0.205', 'kill:0.1955', 'manpower:0.1902', 'mislead:0.1836', 'loss:0.1824', 'sector:0.1559', 'mortar:0.1557', 'armor:0.1514', 'provide:0.1461', 'coordinate:0.1408', 'updates:0.1267', 'long:0.1243', 'type:0.1151', 'study:0.1098', 'thousand:0.1039', 'roughly:0.0947', 'toll:0.0941', 'say:0.0939', 'month:0.0934', 'entire:0.0919', 'calculate:0.0857', 'rarely:0.0487']+titles_keywords+['ukrainian:0.3898', 'donbas:0.3057', 'losses:0.2818', 'military:0.2197', 'significant:0.0541']"
+        ]
+    ],
+    "WST+RUS+51":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Bidens risk aversion is escalating Putins war.txt+eventbasecode51+eventcode51+avgtone0.47177848775292863+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['natos:0.4518', 'diplomacy:0.3975', 'biden:0.3254', 'invade:0.3086', 'russian:0.2943', 'escalate:0.2815', 'reassure:0.2318', 'conflate:0.2304', 'prepare:0.2196', 'ominous:0.2054', 'surveillance:0.2016', 'coordination:0.1951', 'advantage:0.1936', 'ally:0.1831', 'averse:0.1741', 'supply:0.1722', 'know:0.1696', 'promise:0.1695', 'forth:0.164', 'report:0.1609', 'drained:0.1583', 'volodymyr:0.1567', 'corridor:0.1484', 'word:0.1474', 'stinger:0.12', 'long:0.1152', 'perceive:0.1055', 'compatible:0.104', 'backfill:0.1018', 'state:0.0997']+titles_keywords+['putins:0.4155', 'risk:0.3811', 'bidens:0.3213', 'escalating:0.3057', 'war:0.2882']"
+        ]
+    ]
+}

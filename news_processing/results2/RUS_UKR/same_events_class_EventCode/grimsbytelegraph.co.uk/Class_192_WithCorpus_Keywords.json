@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/grimsbytelegraph.co.uk/Petrol to hit grim milestone of 150 per litre.txt+eventbasecode192+eventcode192+avgtone0.4820627802690583+goldsteinscale0.025+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.019736842105263157+news_keywords+['petrol:0.3687', 'milestone:0.3083', 'increase:0.3028', 'supply:0.2966', 'data:0.2941', 'future:0.2788', 'news:0.2703', 'russia:0.2646', 'disruption:0.2452', 'litre:0.2443', 'invade:0.2283', 'motorists:0.2227', 'warn:0.2186', 'expect:0.2156', 'crude:0.2151', 'brent:0.1935', 'level:0.1845', 'figures:0.1839', 'enter:0.1823', 'struggle:0.1809', 'bad:0.1712', 'hit:0.1651', 'price:0.1641', 'september:0.1422', 'pas:0.1283', 'quick:0.1269', 'likely:0.1225', 'send:0.1168', 'inexorably:0.0983', 'rac:0.0943']+titles_keywords+['petrol:0.488', 'litre:0.3837', '150:0.3599', 'milestone:0.2562', 'grim:0.174']"
+        ],
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/grimsbytelegraph.co.uk/Putin more likely to start WW3 than accept defeat in Ukraine Russia state TV claims.txt+eventbasecode192+eventcode192+avgtone0.4591280653950954+goldsteinscale0.025+nummentions0.03193033381712627+numarticles0.032632342277012324+numsources0.04276315789473684+news_keywords+['putin:0.5474', 'ukraine:0.3953', 'war:0.3095', 'nuclear:0.3037', 'lavrov:0.2902', 'rhetoric:0.2226', 'risk:0.2049', 'outcome:0.2023', 'warn:0.1862', 'world:0.1765', 'border:0.1718', 'interfere:0.1695', 'realistic:0.1502', 'possibility:0.137', 'know:0.1352', 'expert:0.1264', 'underestimate:0.1262', 'position:0.1167', 'someday:0.1069', 'start:0.1059', 'tv:0.1057', 'february:0.1024', 'iii:0.094', 'want:0.0939', 'course:0.0921', 'uk:0.0877', 'mobilise:0.0783', 'like:0.0689', 'shocking:0.0614', 'accord:0.0268']+titles_keywords+['putin:0.466', 'ww3:0.339', 'likely:0.1816', 'tv:0.1713', 'start:0.1487']"
+        ]
+    ]
+}

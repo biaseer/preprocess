@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/mynspr.org/Russia is moving its attacks into western Ukraine.txt+eventbasecode192+eventcode192+avgtone0.4761904761904762+goldsteinscale0.025+nummentions0.125544267053701+numarticles0.126178390137781+numsources0.1118421052631579+news_keywords+['kyiv:0.5402', 'russians:0.3521', 'war:0.3309', 'evacuate:0.3034', 'redeployment:0.2772', 'catastrophe:0.2688', 'adapt:0.2378', 'north:0.2214', 'ivano:0.2095', 'town:0.1942', 'turn:0.1902', 'satellite:0.1867', 'help:0.1846', 'unscathed:0.1737', 'clear:0.1733', 'tank:0.1706', 'imagery:0.1688', 'tell:0.1673', 'unpredictable:0.1627', 'far:0.162', 'horrific:0.1618', 'npr:0.1594', 'airfield:0.1426', 'like:0.1363', 'week:0.0963', 'maternity:0.0906', 'bit:0.0824', 'byline:0.0822', 'hundreds:0.0807', 'ryan:0.0651']+titles_keywords+['ukraine:0.4675', 'russia:0.3729', 'attacks:0.3464', 'moving:0.2943', 'western:0.2508']"
+        ],
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/mynspr.org/As Russia pushes deeper into eastern Ukraine some flee on medical evacuation train.txt+eventbasecode192+eventcode192+avgtone0.475609756097561+goldsteinscale0.025+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.046052631578947366+news_keywords+['ukraine:0.4724', 'evacuation:0.4039', 'soldier:0.2882', 'zelenskyy:0.2798', 'artillery:0.279', 'help:0.2662', 'strategically:0.2447', 'know:0.2439', 'fighting:0.2436', 'stay:0.2394', 'doctors:0.2208', 'organize:0.2191', 'want:0.2157', 'wound:0.2079', 'feed:0.2055', 'far:0.2028', 'train:0.2024', 'soon:0.1978', 'rott:0.1936', 'short:0.1858', 'story:0.18', 'msf:0.1787', 'donbas:0.1781', 'deep:0.1762', 'slag:0.1543', 'fourth:0.1485', 'upper:0.1469', 'exactly:0.1434', 'billion:0.1196', 'pretty:0.1174']+titles_keywords+['evacuation:0.4278', 'ukraine:0.3467', 'train:0.3067', 'medical:0.1453', 'deeper:0.101']"
+        ]
+    ]
+}

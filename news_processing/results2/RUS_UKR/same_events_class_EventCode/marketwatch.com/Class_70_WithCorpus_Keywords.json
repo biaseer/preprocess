@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+70":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/marketwatch.com/EPAM Systems to stop providing services to customers in Russia will provide aid to 14000.txt+eventbasecode70+eventcode70+avgtone0.504424778761062+goldsteinscale0.85+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['epam:0.521', 'ukraine:0.3882', 'service:0.3173', 'support:0.317', 'systems:0.279', 'provider:0.2761', 'customer:0.2678', 'operation:0.2346', 'stock:0.2314', 'sp:0.2288', 'region:0.2288', 'invasion:0.2265', 'plummet:0.2032', 'transformation:0.198', 'aid:0.1954', 'trading:0.1603', 'edge:0.154', 'component:0.1464', 'announce:0.1398', 'response:0.1326', 'base:0.1281', 'incremental:0.1203', 'long:0.1176', 'past:0.1111', 'digital:0.1104', 'stop:0.1095', 'million:0.1003', 'worst:0.0804', 'week:0.0631', 'actively:0.0337']+titles_keywords+['epam:0.4694', 'ukraine:0.4418', 'services:0.2737', '14000:0.1811', 'stop:0.0755']"
+        ]
+    ],
+    "UKR+RUS+70":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Ukrainian government receives 20 million in crypto donations to aid in defense against Russian invasion.txt+eventbasecode70+eventcode70+avgtone0.49303621169916434+goldsteinscale0.85+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crypto:0.5387', 'bitcoin:0.5258', 'cryptocurrencies:0.5117', 'russia:0.4719', 'ukrainian:0.4647', 'blockchain:0.413', 'government:0.3872', 'donation:0.3685', 'ether:0.3504', 'usdtusd:0.3148', 'aid:0.311', 'invasion:0.2852', 'twitter:0.2805', 'war:0.2801', 'receive:0.2631', 'million:0.2441', 'solicit:0.2316', 'nation:0.2258', 'analysis:0.215', 'besiege:0.1996', 'group:0.1833', 'raise:0.1825', 'effort:0.1642', 'elliptic:0.1616', 'publish:0.1542', 'firm:0.1362', 'friday:0.1333', 'non:0.1322', 'tether:0.125', 'accord:0.1065']+titles_keywords+['ukrainian:0.4452', 'crypto:0.347', 'donations:0.2742', 'invasion:0.1927', '20:0.1569']"
+        ],
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Tellurian Stock Is Upgraded Its Getting a Boost From Rising Demand for Liquefied Natural Gas.txt+eventbasecode70+eventcode70+avgtone0.5140845070422535+goldsteinscale0.85+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['tellurian:0.4475', 'coal:0.3539', 'increase:0.3521', 'stock:0.3491', 'lng:0.3211', 'buy:0.3136', 'outperform:0.31', 'demand:0.284', 'liquefy:0.2634', 'financing:0.2412', 'analyst:0.2385', 'surge:0.2347', 'ukraine:0.2181', 'premium:0.2068', 'sustain:0.2019', 'estimate:0.1983', 'future:0.1945', 'cite:0.1774', 'suisse:0.1774', 'cover:0.1638', 'month:0.1447', 'natural:0.1436', 'factor:0.1426', 'write:0.1328', 'export:0.1295', 'factset:0.1274', 'share:0.1202', 'boon:0.0922', 'rating:0.0874', 'added:0.0773']+titles_keywords+['tellurian:0.4658', 'stock:0.3681', 'upgraded:0.3623', 'boost:0.2907', 'liquefied:0.2164']"
+        ]
+    ]
+}

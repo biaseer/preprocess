@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/winnipegfreepress.com/Hard sanctions are the only answer.txt+eventbasecode194+eventcode194+avgtone0.4695247933884298+goldsteinscale0.0+nummentions0.01741654571843251+numarticles0.017766497461928935+numsources0.049342105263157895+news_keywords+['regime:0.4843', 'totalitarian:0.4728', 'geopoliticaleconomic:0.4351', 'sanctions:0.4269', 'stalin:0.4118', 'revolution:0.4109', 'war:0.3682', 'political:0.3655', 'nato:0.3637', 'society:0.3318', 'nuclear:0.3295', 'ukrainians:0.3234', 'extremist:0.3126', 'predict:0.2774', 'change:0.2436', 'world:0.2427', 'law:0.2392', 'resolve:0.2379', 'dangerous:0.2317', 'choice:0.2301', 'information:0.2256', 'north:0.2233', 'end:0.2163', 'irrelevance:0.2082', 'submit:0.1933', 'counter:0.1816', 'long:0.1698', 'exist:0.1674', 'right:0.1667', 'major:0.1518']+titles_keywords+['sanctions:0.6413', 'hard:0.1832', 'answer:0.1681']"
+        ],
+        [
+            "20220710+../news_crawling/RUS_UKR/p_articles/winnipegfreepress.com/15 killed in Russian strike in Ukraine 20 believed trapped.txt+eventbasecode194+eventcode194+avgtone0.4761904761904762+goldsteinscale0.0+nummentions0.11937590711175616+numarticles0.12001450326323423+numsources0.14144736842105263+news_keywords+['russian:0.4395', 'donetsk:0.4054', 'kill:0.3485', 'emergency:0.3473', 'strike:0.2932', 'predict:0.2877', 'flinch:0.2854', 'rubble:0.2734', 'hear:0.2667', 'publish:0.2651', 'information:0.2584', 'smash:0.2552', 'separatist:0.2528', 'artillery:0.25', 'month:0.2493', 'lysychansk:0.2478', 'feed:0.2353', 'regroup:0.2294', 'like:0.2279', 'corridor:0.211', 'inhabit:0.208', 'ap:0.206', 'order:0.2051', 'yar:0.2023', 'twist:0.2018', 'longer:0.2013', 'worker:0.1933', 'haidai:0.1733', 'dozens:0.1664', 'despite:0.1518']+titles_keywords+['ukraine:0.3842', '15:0.2893', 'strike:0.2653', 'trapped:0.258', 'killed:0.2121']"
+        ]
+    ]
+}

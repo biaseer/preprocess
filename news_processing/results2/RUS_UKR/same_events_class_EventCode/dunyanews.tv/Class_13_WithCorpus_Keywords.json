@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+13":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Russia reports ceasefire in 2 Ukraine areas for evacuations.txt+eventbasecode13+eventcode13+avgtone0.4720101781170484+goldsteinscale0.52+nummentions0.07111756168359942+numarticles0.07179115300942712+numsources0.0625+news_keywords+['ukraine:0.4785', 'ceasefire:0.4636', 'nato:0.4272', 'evacuate:0.4143', 'airstrikes:0.3984', 'airspace:0.2569', 'border:0.2491', 'alarm:0.242', 'zelenskyy:0.2391', 'corridor:0.2194', 'strategic:0.2014', 'extend:0.1984', 'understand:0.1878', 'shortages:0.1846', 'end:0.18', 'allow:0.1673', 'world:0.1656', 'gmt:0.1626', 'pavlo:0.16', 'fall:0.1568', 'join:0.1548', 'adviser:0.1541', 'say:0.1485', 'general:0.1386', 'draw:0.1357', 'worsening:0.128', 'far:0.1233', 'send:0.1208', 'billion:0.1142', 'possibility:0.0986']+titles_keywords+['ukraine:0.465', 'ceasefire:0.3966', 'evacuations:0.3677', 'areas:0.1225', 'reports:0.1047']"
+        ]
+    ],
+    "UKR+RUS+13":[
+        [
+            "20220704+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Ukraine retreats from key city in major Russian gain.txt+eventbasecode13+eventcode13+avgtone0.4693509615384615+goldsteinscale0.52+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.02631578947368421+news_keywords+['kyiv:0.5234', 'ukraines:0.4631', 'putin:0.3661', 'retreat:0.3105', 'victory:0.2976', 'nationalist:0.2937', 'reconstruction:0.2669', 'blockade:0.2598', 'siversk:0.2553', 'strategic:0.2519', 'frontline:0.2358', 'intercept:0.2256', 'news:0.2197', 'provocation:0.2182', 'destroy:0.2167', 'continue:0.2163', 'roadmap:0.2111', 'turn:0.1979', 'cluster:0.1971', 'west:0.1948', 'long:0.1897', 'ammunition:0.1855', 'countrys:0.182', 'major:0.1652', 'area:0.1614', 'fall:0.1588', 'order:0.1536', 'increase:0.1504', 'warned:0.1342', 'exporter:0.0609']+titles_keywords+['ukraine:0.4114', 'city:0.2444', 'gain:0.2136', 'retreats:0.1748', 'major:0.1539']"
+        ]
+    ]
+}

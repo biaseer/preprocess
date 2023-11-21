@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/state.gov/Joint Statement on Kosovo.txt+eventbasecode51+eventcode51+avgtone0.5061919504643962+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kosovos:0.5819', 'election:0.3847', 'eu:0.3357', 'governments:0.3207', 'declaration:0.2803', 'prerogative:0.2792', 'agreement:0.2509', 'permit:0.2311', 'minority:0.2272', 'alignment:0.2206', 'reiterate:0.2142', 'facilitation:0.2074', 'undermine:0.203', 'relation:0.2028', 'stability:0.2017', 'rhetoric:0.1997', 'process:0.1897', 'constructive:0.1861', 'invasion:0.1834', 'act:0.1741', 'solution:0.1711', 'incident:0.1639', 'refrain:0.1612', 'increase:0.1603', 'normalization:0.1525', 'include:0.1423', 'april:0.1233', 'eligible:0.1206', 'welcome:0.1006', 'following:0.0933']+titles_keywords+['kosovo:0.6794', 'statement:0.2346', 'joint:0.1318']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/state.gov/Targeting Russian Elites Disinformation Outlets and Defense Enterprises.txt+eventbasecode51+eventcode51+avgtone0.49276315789473685+goldsteinscale0.67+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['putin:0.5194', 'kremlin:0.5147', 'sanctions:0.4844', 'oligarchs:0.4506', 'russias:0.4168', 'government:0.4043', 'disinformation:0.3912', 'usmanov:0.3535', 'destabilize:0.3341', 'visa:0.3168', 'prigozhins:0.2991', 'diplomatic:0.2659', 'enterprises:0.2605', 'targeting:0.2506', 'designate:0.2461', 'restrict:0.2403', 'news:0.2356', 'pursuant:0.2353', 'statesfactsheetand:0.2308', 'unprovoked:0.2279', 'know:0.1995', 'section:0.1901', 'ofac:0.1818', 'legitimate:0.1663', 'assest:0.1444', 'produce:0.1408', 'instead:0.1286', 'additional:0.1126', 'come:0.1005', 'welcome:0.0817']+titles_keywords+['disinformation:0.4089', 'russian:0.3375', 'targeting:0.3176', 'enterprises:0.3129', 'elites:0.2511']"
+        ]
+    ]
+}

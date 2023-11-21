@@ -1,0 +1,20 @@
+{
+    "RUS+UKR+138":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Diplomatic shuttle Macron in Kyiv after Putin talks.txt+eventbasecode138+eventcode138+avgtone0.48383620689655177+goldsteinscale0.15+nummentions0.1386066763425254+numarticles0.13923132704858593+numsources0.13486842105263158+news_keywords+['putin:0.4351', 'kyiv:0.428', 'macron:0.3866', 'ukraines:0.3771', 'zelenskyy:0.3627', 'diplomatic:0.3577', 'talk:0.2407', 'meet:0.2141', 'arrive:0.2066', 'attack:0.2063', 'volodymyr:0.1781', 'near:0.1728', 'french:0.1668', 'emmanuel:0.1603', 'border:0.1398', 'troop:0.1301', 'tuesday:0.1297', 'plan:0.1145', 'hour:0.1011', 'shuttle:0.0968', 'leader:0.0941', 'possible:0.0845', 'tension:0.0777', 'mount:0.0658', 'continue:0.0631', 'defuse:0.0559', 'breakthrough:0.043', 'mass:0.0281', 'apparent:0.0198', 'yield:-0.0062']+titles_keywords+['macron:0.4248', 'kyiv:0.393', 'diplomatic:0.387', 'putin:0.3694', 'shuttle:0.2265']"
+        ],
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/marketwatch.com/US warns Russia plans to step up attacks on Ukraines civilian infrastructure.txt+eventbasecode138+eventcode138+avgtone0.4892183288409704+goldsteinscale0.15+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.46', 'ukraine:0.4516', 'ukraines:0.4217', 'russia:0.3736', 'warn:0.3523', 'embassy:0.3187', 'attack:0.2925', 'alert:0.2708', 'government:0.2544', 'washington:0.2537', 'security:0.2508', 'infrastructure:0.2493', 'plan:0.2448', 'strike:0.2253', 'depart:0.2128', 'civilian:0.1977', 'department:0.1917', 'monday:0.1909', 'launch:0.188', 'immediately:0.1854', 'come:0.1754', 'citizen:0.1747', 'day:0.1682', 'state:0.1365', 'step:0.1319', 'facility:0.1222', 'country:0.1189', 'urge:0.1167', 'issue:0.078', 'effort:-0.0081']+titles_keywords+['ukraines:0.3586', 'warns:0.2095', 'civilian:0.1577', 'infrastructure:0.1553', 'step:0.026']"
+        ]
+    ],
+    "USA+RUS+138":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/marketwatch.com/US to send mediumrange rocket systems to Ukraine.txt+eventbasecode138+eventcode138+avgtone0.4880304678998912+goldsteinscale0.15+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['ukraine:0.4968', 'rocket:0.3822', 'helicopter:0.2835', 'tank:0.2725', 'javelin:0.2537', 'vehicle:0.2511', 'weapon:0.2499', 'range:0.22', 'send:0.2073', 'security:0.1999', 'donbas:0.1954', 'tactical:0.184', 'spare:0.1801', 'tech:0.1784', 'biden:0.1779', 'assistance:0.1651', 'announce:0.1613', 'progress:0.1369', 'include:0.1288', 'high:0.1189', 'million:0.1173', 'tranche:0.1039', 'leader:0.1022', 'small:0.1013', 'new:0.0903', 'beg:0.0753', 'tuesday:0.0664', 'senior:0.059', 'anti:0.056', 'accord:0.045']+titles_keywords+['ukraine:0.3682', 'rocket:0.3115', 'send:0.2636', 'mediumrange:0.2252', 'systems:0.1998']"
+        ]
+    ],
+    "WST+RUS+138":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Ukraine confirms report that government websites are under attack Wednesday.txt+eventbasecode138+eventcode138+avgtone0.4519230769230768+goldsteinscale0.15+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['cyberattacks:0.4531', 'kyiv:0.3979', 'ukraine:0.3926', 'ukraines:0.3853', 'government:0.3403', 'ukrainian:0.3187', 'website:0.2944', 'websites:0.2743', 'attack:0.2644', 'fedorov:0.251', 'mikhail:0.2281', 'disrupt:0.2179', 'parliament:0.2131', 'bank:0.1483', 'report:0.1482', 'target:0.1435', 'transformation:0.1319', 'wednesday:0.1245', 'digital:0.1155', 'country:0.1135', 'confirms:0.0902', 'denial:0.0899', 'ministry:0.0779', 'minister:0.0775', 'service:0.0501', 'cabinet:0.0406', 'say:0.0299', 'foreign:0.0238', 'distribute:0.0019']+titles_keywords+['ukraine:0.393', 'government:0.2871', 'websites:0.2739', 'attack:0.2389', 'wednesday:0.157']"
+        ]
+    ]
+}

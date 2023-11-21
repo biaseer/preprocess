@@ -1,0 +1,10 @@
+{
+    "EUR+UKR+90":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/startribune.com/Hold Putin to account for war crimes.txt+eventbasecode90+eventcode90+avgtone0.4578163771712158+goldsteinscale0.4+nummentions0.5264876632801161+numarticles0.5250181290790428+numsources0.46710526315789475+news_keywords+['putin:0.5133', 'kyiv:0.4389', 'genocide:0.4111', 'propaganda:0.3924', 'justifying:0.2958', 'complicity:0.2957', 'sanction:0.284', 'report:0.2735', 'scope:0.2412', 'viciousness:0.232', 'subject:0.2282', 'bipartisan:0.2232', 'term:0.2072', 'american:0.2015', 'say:0.1828', 'troop:0.1714', 'outrageous:0.1671', 'avert:0.1666', 'bucha:0.161', 'scholarly:0.1583', 'strain:0.1543', 'live:0.1494', 'end:0.1444', 'import:0.1348', 'clothes:0.131', 'deep:0.1307', 'hrw:0.1305', 'acknowledgment:0.1285', 'soon:0.117', 'morgue:0.1122']+titles_keywords+['putin:0.5298', 'war:0.3124', 'crimes:0.2947', 'hold:0.1687', 'account:0.0866']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        []
+    ]
+}

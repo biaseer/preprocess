@@ -1,0 +1,12 @@
+{
+    "IND+RUS+160":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/prokerala.com/Russia closes airspace after Ukraine airstrikes Ld By IANS Published on Thu Feb 24 2022.txt+eventbasecode160+eventcode160+avgtone0.484+goldsteinscale0.3+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4703', 'airspace:0.4633', 'airstrikes:0.4399', 'kremlin:0.4291', 'rostov:0.4061', 'demilitarisation:0.4015', 'kursk:0.3459', 'pashkovsky:0.2982', 'rt:0.2327', 'operation:0.2167', 'infrastructure:0.2045', 'threat:0.1989', 'restriction:0.1896', 'address:0.1719', 'avoid:0.1662', 'ist:0.1619', 'televise:0.1508', 'prosecute:0.1488', 'anapa:0.1457', 'people:0.1413', 'close:0.1405', 'begin:0.138', 'federal:0.1347', 'published:0.1302', 'temporarily:0.1252', 'thursday:0.1011', 'arm:0.092', 'bloody:0.0886', 'simferopol:0.0764', 'numerous:0.0574']+titles_keywords+['airspace:0.4151', 'ukraine:0.3862', 'airstrikes:0.3364', 'feb:0.2012', 'closes:0.1891']"
+        ]
+    ],
+    "RUS+UKR+160":[
+        [
+            "20220513+../news_crawling/RUS_UKR/p_articles/prokerala.com/Ukraine in talks with Russia over evacuation of injured from Azovstal By IANS Published on.txt+eventbasecode160+eventcode160+avgtone0.4654255319148936+goldsteinscale0.3+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.5325', 'kiev:0.531', 'azov:0.4139', 'evacuate:0.3869', 'vereshchuk:0.2904', 'military:0.2448', 'xinhua:0.2432', 'negotiation:0.2379', 'news:0.2047', 'outlet:0.2013', 'iryna:0.192', 'ongoing:0.19', 'report:0.1619', 'steel:0.1524', 'injured:0.1482', 'people:0.1398', 'km:0.1358', 'ist:0.1344', 'child:0.1231', 'story:0.1204', 'emphasize:0.1203', 'mariupol:0.1166', 'plant:0.1049', 'cover:0.1', 'witness:0.0936', 'bout:0.0932', 'bad:0.093', 'stronghold:0.0685', 'quote:0.0383', 'seriously:0.0366']+titles_keywords+['ukraine:0.4969', 'evacuation:0.3954', 'azovstal:0.3936', 'talks:0.2317', '1227:0.1922']"
+        ]
+    ]
+}

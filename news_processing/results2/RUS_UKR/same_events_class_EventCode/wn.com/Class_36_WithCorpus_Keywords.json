@@ -1,0 +1,23 @@
+{
+    "RUS+TUR+36":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/wn.com/Russia Ukraine willing to hold talks in Turkey Turkish official.txt+eventbasecode36+eventcode36+avgtone0.5285714285714286+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4211', 'turkey:0.4048', 'istanbul:0.3873', 'ukrainian:0.377', 'turkish:0.3623', 'talk:0.3221', 'russia:0.31', 'willing:0.2314', 'hold:0.2201', 'text:0.2025', 'pending:0.1884', 'forward:0.1737', 'say:0.1417', 'image:0.1287', 'town:0.1254', 'common:0.1145', 'official:0.1001', 'agree:0.097', 'friday:0.0934', 'body:0.087', 'far:0.0832', 'issue:0.0787', 'bucha:0.0671', 'away:0.0438', 'despite:0.0411']+titles_keywords+['ukraine:0.4416', 'turkish:0.3845', 'talks:0.2221', 'willing:0.1902', 'official:0.0788']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/wn.com/Russia Ready To Continue Diplomacy Amid Ukraine Crisis.txt+eventbasecode36+eventcode36+avgtone0.5074626865671642+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['diplomacy:0.434', 'diplomatic:0.3985', 'putin:0.3886', 'ukraine:0.3367', 'russia:0.3343', 'russian:0.3174', 'russias:0.2842', 'vladimir:0.2809', 'talk:0.2769', 'continue:0.2224', 'biden:0.2149', 'monday:0.197', 'ongoing:0.1742', 'crisis:0.1525', 'president:0.1452', 'weekend:0.139', 'end:0.1374', 'say:0.099', 'ready:0.0934', 'joe:0.0902', 'jazeera:0.0845', 'diffuse:0.0645', 'west:0.0474', 'security:0.0459', 'try:0.0437', 'amid:0.0395', 'reportedly:0.0161', 'despite:0.0141', 'breakthrough:0.0041', 'al:-0.1471']+titles_keywords+['diplomacy:0.4488', 'ukraine:0.3464', 'continue:0.2073', 'crisis:0.1348', 'ready:0.0677']"
+        ],
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/wn.com/Pope says wants to go to Moscow to meet Putin over Ukraine paper.txt+eventbasecode36+eventcode36+avgtone0.49264705882352944+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['pope:0.4562', 'putin:0.4525', 'moscow:0.433', 'vladimir:0.3807', 'ukraine:0.3227', 'meet:0.2842', 'russian:0.2791', 'rome:0.2742', 'reuters:0.2629', 'war:0.2404', 'francis:0.2391', 'president:0.2302', 'interview:0.2081', 'want:0.1956', 'say:0.1702', 'ask:0.1655', 'read:0.1563', 'response:0.1405', 'receive:0.1337', 'publish:0.1276', 'tuesday:0.1243', 'paper:0.0929', 'story:0.0912', 'stop:0.088', 'try:0.0868']+titles_keywords+['pope:0.4109', 'moscow:0.3652', 'meet:0.2095', 'paper:0.1602', 'wants:0.0728']"
+        ],
+        [
+            "20220522+../news_crawling/RUS_UKR/p_articles/wn.com/Russia ready to resume Ukraine talks chief negotiator.txt+eventbasecode36+eventcode36+avgtone0.5294117647058824+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.4262', 'ukraine:0.389', 'vladimir:0.3441', 'negotiation:0.3307', 'medinsky:0.3272', 'kremlin:0.3243', 'negotiator:0.3219', 'russia:0.2961', 'talk:0.283', 'belarusian:0.254', 'peace:0.245', 'willing:0.2112', 'continue:0.2006', 'resume:0.1922', 'ready:0.1697', 'dialogue:0.1613', 'initiative:0.1269', 'interview:0.1221', 'lead:0.1146', 'sunday:0.0925', 'say:0.0908', 'tv:0.0283', 'chief:0.0191', 'aide:-0.0109']+titles_keywords+['ukraine:0.3315', 'negotiator:0.3132', 'resume:0.1299', 'ready:0.0897', 'chief:0.0521']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/wn.com/Russians leave Chernobyl Ukraine braces for renewed attacks.txt+eventbasecode36+eventcode36+avgtone0.45833333333333337+goldsteinscale0.7+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['chernobyl:0.5539', 'kyiv:0.4537', 'ukraine:0.4357', 'ukrainians:0.4017', 'russian:0.3259', 'nuclear:0.288', 'troop:0.212', 'leave:0.1706', 'attack:0.1691', 'mission:0.1586', 'return:0.1416', 'brace:0.138', 'contaminate:0.1365', 'control:0.1311', 'city:0.1147', 'block:0.1098', 'aid:0.1059', 'mariupol:0.0985', 'eastern:0.084', 'besiege:0.0804', 'friday:0.064', 'ap:0.0618', 'port:0.0593', 'renew:0.0546', 'site:0.0388', 'state:0.0373', 'early:0.0314', 'authority:0.0225', 'say:-0.0009', 'heavily:-0.0185']+titles_keywords+['chernobyl:0.5591', 'russians:0.3513', 'attacks:0.2037', 'leave:0.1218', 'renewed:0.0464']"
+        ]
+    ]
+}

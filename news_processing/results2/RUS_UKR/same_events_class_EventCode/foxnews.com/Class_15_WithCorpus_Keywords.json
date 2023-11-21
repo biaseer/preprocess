@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+15":[
+        [
+            "20220526+../news_crawling/RUS_UKR/p_articles/foxnews.com/Ukraine war crimes trials Two more Russian soldiers plead guilty.txt+eventbasecode15+eventcode15+avgtone0.45319148936170217+goldsteinscale0.5+nummentions0.05297532656023222+numarticles0.049311094996374184+numsources0.013157894736842105+news_keywords+['ukraine:0.4447', 'ivanov:0.36', 'airstrike:0.3264', 'prosecutors:0.3111', 'kosolopenko:0.272', 'plead:0.2546', 'reutersricardo:0.2391', 'civilian:0.2306', 'latestwar:0.228', 'guilty:0.2279', 'attack:0.2215', 'artillery:0.2197', 'border:0.1934', 'shoot:0.1813', 'town:0.1773', 'story:0.1603', 'know:0.1543', 'extinguish:0.1406', 'derhachi:0.1381', 'belgorod:0.138', 'hear:0.1321', 'shell:0.12', 'facing:0.118', 'order:0.1154', 'continue:0.1025', 'crossed:0.0936', 'ap:0.0898', 'offer:0.0892', 'thursday:0.0889', 'yearseach:0.0749']+titles_keywords+['ukraine:0.3216', 'plead:0.2816', 'soldiers:0.2729', 'guilty:0.2203', 'crimes:0.1584']"
+        ]
+    ],
+    "WST+UKR+15":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/foxnews.com/NATO says we could have done even more in leadup to Russian invasion but rejects.txt+eventbasecode15+eventcode15+avgtone0.4810246679316888+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['natos:0.5585', 'crimea:0.4506', 'invade:0.3811', 'readiness:0.2889', 'troop:0.2561', 'zelenskyy:0.2317', 'deterrence:0.224', 'escalate:0.2133', 'alert:0.209', 'oppose:0.2064', 'news:0.1995', 'conflict:0.1964', 'unite:0.1831', 'coordinate:0.1816', 'learn:0.1697', 'biden:0.1676', 'promise:0.1659', 'gdp:0.1614', 'pre:0.1562', 'ap:0.1489', 'say:0.138', 'stoltenberg:0.1322', 'cover:0.1278', 'renew:0.1268', 'today:0.1131', 'noflyzone:0.1081', 'woman:0.0921', 'cyber:0.0886', 'add:0.0842', 'hundreds:0.0665']+titles_keywords+['nato:0.4447', 'noflyzone:0.2682', 'invasion:0.262', 'russian:0.1843', 'pleas:0.1049']"
+        ]
+    ]
+}

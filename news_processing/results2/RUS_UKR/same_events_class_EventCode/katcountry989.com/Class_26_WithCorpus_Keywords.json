@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+26":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/katcountry989.com/Russia interested in reaching agreement with Ukraine at talks says negotiator.txt+eventbasecode26+eventcode26+avgtone0.5+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.4929', 'moscow:0.4422', 'vladimir:0.3671', 'russias:0.3335', 'medinsky:0.3038', 'negotiator:0.2535', 'meet:0.227', 'border:0.2099', 'war:0.2063', 'reuters:0.1983', 'talk:0.1974', 'capital:0.1962', 'agreement:0.1887', 'come:0.1702', 'prepare:0.1483', 'near:0.1424', 'expect:0.1406', 'interested:0.1351', 'gmt:0.1303', 'begin:0.1265', 'monday:0.1107', 'assault:0.0964', 'isolation:0.0834', 'state:0.0758', 'official:0.0617', 'resistance:0.0508', 'time:0.0457', 'big:0.0424', 'deepen:0.0407', 'reaching:0.04']+titles_keywords+['ukraine:0.395', 'negotiator:0.3605', 'interested:0.189', 'agreement:0.1724', 'reaching:0.0825']"
+        ]
+    ],
+    "UKR+WST+26":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/katcountry989.com/Pentagon spokesman says Russia already weakened after war in Ukraine.txt+eventbasecode26+eventcode26+avgtone0.45454545454545453+goldsteinscale0.7+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4282', 'nato:0.4041', 'russias:0.3609', 'pentagon:0.3025', 'war:0.2813', 'weaken:0.2607', 'military:0.2359', 'invasion:0.2296', 'reuters:0.2159', 'threaten:0.1825', 'economy:0.1816', 'kirby:0.1772', 'ally:0.1698', 'want:0.1503', 'cnn:0.1382', 'say:0.1366', 'secretary:0.1228', 'casualty:0.117', 'state:0.1169', 'isolate:0.1144', 'future:0.0977', 'right:0.085', 'partner:0.0773', 'press:0.0733', 'meeting:0.0655', 'completely:0.0599', 'suffered:0.0424', 'tuesday:0.0387', 'tatters:0.0377', 'able:0.0302']+titles_keywords+['ukraine:0.3396', 'weakened:0.2754', 'pentagon:0.2712', 'war:0.2073', 'says:0.0702']"
+        ]
+    ]
+}

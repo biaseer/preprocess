@@ -1,0 +1,14 @@
+{
+    "RUS+UKR+190":[
+        [],
+        []
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220520+../news_crawling/RUS_UKR/p_articles/wbur.org/My Nazi grandfather wanted to cleanse his legacy What his story tells me about this.txt+eventbasecode190+eventcode190+avgtone0.4653141361256544+goldsteinscale0.0+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['stalin:0.477', 'nazi:0.4764', 'propaganda:0.433', 'historys:0.4315', 'revisionist:0.4223', 'putinesque:0.4202', 'genocide:0.4152', 'nationalism:0.3862', 'ukrainians:0.3774', 'regime:0.3622', 'whitewash:0.3503', 'exterminate:0.3242', 'destabilize:0.3165', 'america:0.289', 'barbarossa:0.2882', 'threaten:0.2731', 'commemorate:0.2543', 'uncle:0.2479', 'term:0.2412', 'troop:0.239', 'waffen:0.2334', 'election:0.2293', 'subject:0.2291', 'read:0.2261', 'sinister:0.2027', 'annotate:0.1784', 'turn:0.1734', 'deep:0.139', 'unprepared:0.1328', 'yar:0.102']+titles_keywords+['nazi:0.4744', 'historical:0.3903', 'grandfather:0.3773', 'cleanse:0.2688', 'story:0.2387']"
+        ],
+        [
+            "20220621+../news_crawling/RUS_UKR/p_articles/wbur.org/As war drags on in Ukraine is it time to talk compromise.txt+eventbasecode190+eventcode190+avgtone0.4872881355932204+goldsteinscale0.0+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukraine:0.4957', 'nato:0.3576', 'war:0.3418', 'negotiate:0.2862', 'refugee:0.2517', 'ideological:0.2334', 'remain:0.2229', 'map:0.2218', 'parliaments:0.2052', 'conclusion:0.2003', 'know:0.1856', 'neutral:0.1833', 'understanding:0.1807', 'soon:0.1769', 'commensurate:0.159', 'reestablish:0.1588', 'couple:0.1486', 'sure:0.1278', 'th:0.1254', 'careful:0.1184', 'make:0.1176', 'everybody:0.1047', 'integration:0.1019', 'belongs:0.1003', 'evoke:0.0995', 'hopkins:0.0917', 'pretty:0.0847', 'sort:0.0847', 'true:0.082', 'possibility:0.0784']+titles_keywords+['compromise:0.5227', 'ukraine:0.3822', 'war:0.3151', 'talk:0.2662', 'time:0.1489']"
+        ]
+    ]
+}

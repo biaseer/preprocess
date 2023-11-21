@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+164":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Lavrov says end of RussiaUkraine talks not good for US.txt+eventbasecode164+eventcode164+avgtone0.4960317460317461+goldsteinscale0.15+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4161', 'lavrov:0.4142', 'russiaukraine:0.3987', 'negotiation:0.2783', 'proceed:0.2582', 'engage:0.2258', 'talk:0.2253', 'political:0.2051', 'anisputnik:0.1806', 'end:0.1795', 'want:0.1696', 'american:0.1585', 'unprofitable:0.1564', 'march:0.1531', 'read:0.1435', 'expect:0.137', 'weapon:0.136', 'good:0.1319', 'colleague:0.128', 'rid:0.1232', 'long:0.1175', 'western:0.1171', 'quickly:0.1008', 'united:0.0978', 'hold:0.0904', 'beneficial:0.0805', 'fact:0.0782', 'possible:0.0779', 'state:0.0752', 'pump:0.0625']+titles_keywords+['lavrov:0.4735', 'russiaukraine:0.3298', 'talks:0.236', 'end:0.1919', 'good:0.1517']"
+        ]
+    ],
+    "UKR+RUS+164":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Ukraine seeking ceasefire troop withdrawal at talks with Russia.txt+eventbasecode164+eventcode164+avgtone0.4805825242718446+goldsteinscale0.15+nummentions0.015602322206095792+numarticles0.016316171138506162+numsources0.01644736842105263+news_keywords+['ceasefire:0.5076', 'kiev:0.457', 'ukrainian:0.4532', 'russia:0.3459', 'troop:0.2625', 'negotiation:0.235', 'podolyak:0.2285', 'mykhailo:0.221', 'march:0.1996', 'withdrawal:0.1922', 'presidential:0.1811', 'advisor:0.1698', 'xinhua:0.1678', 'talk:0.1666', 'delegation:0.1604', 'remain:0.1517', 'monday:0.1379', 'neighborly:0.1255', 'unchanged:0.1126', 'position:0.1117', 'twitter:0.1099', 'say:0.1084', 'immediate:0.0975', 'round:0.0852', 'schedule:0.0832', 'video:0.0785', 'fourth:0.0769', 'ready:0.0746', 'statement:0.0685', 'relation:0.0587']+titles_keywords+['ukraine:0.4263', 'ceasefire:0.3918', 'troop:0.2139', 'withdrawal:0.2044', 'talks:0.164']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "CHE+RUS+36":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/nbcdfw.com/Zelenskyy Urges Maximum Sanctions on Russia in Davos Talk.txt+eventbasecode36+eventcode36+avgtone0.4790055248618785+goldsteinscale0.7+nummentions0.11828737300435414+numarticles0.11892675852066716+numsources0.15789473684210525+news_keywords+['ukraine:0.486', 'kremlin:0.4373', 'zelenskyy:0.3403', 'sanction:0.2811', 'famine:0.2638', 'rhetoric:0.2527', 'president:0.2376', 'know:0.22', 'invasion:0.2129', 'predict:0.2092', 'industry:0.2082', 'covid:0.2076', 'davos:0.1949', 'transform:0.1936', 'fuel:0.1897', 'fight:0.1804', 'instead:0.1761', 'inequality:0.1548', 'resume:0.1544', 'rail:0.1501', 'headway:0.1486', 'word:0.1457', 'critical:0.1314', 'facto:0.1299', 'include:0.1287', 'panel:0.1286', 'ap:0.117', 'thermostat:0.1099', 'insecurity:0.1098', 'exporter:0.0854']+titles_keywords+['zelenskyy:0.5237', 'sanctions:0.3935', 'davos:0.2404', 'maximum:0.2223', 'talk:0.0863']"
+        ]
+    ],
+    "DEU+RUS+36":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/nbcdfw.com/Ukraine Stays Wary as Russia Says Some Troops Will Pull Back.txt+eventbasecode36+eventcode36+avgtone0.4832869080779944+goldsteinscale0.7+nummentions0.13824383164005805+numarticles0.13669325598259607+numsources0.22039473684210525+news_keywords+['ukraine:0.4874', 'nato:0.4105', 'kremlin:0.4064', 'invade:0.333', 'prepare:0.3044', 'destabilization:0.2886', 'military:0.2721', 'emergency:0.2548', 'accompany:0.2447', 'plan:0.2276', 'monday:0.2259', 'meeting:0.2124', 'danilov:0.2025', 'wary:0.1908', 'forward:0.187', 'report:0.1776', 'information:0.1769', 'increased:0.1724', 'secretary:0.1716', 'agreement:0.167', 'brink:0.1583', 'drill:0.154', 'geir:0.1495', 'discus:0.137', 'biden:0.1316', 'unit:0.1267', 'pullback:0.1226', 'wont:0.1051', 'send:0.1019', 'draw:0.0977']+titles_keywords+['ukraine:0.4043', 'wary:0.3499', 'troops:0.2466', 'pull:0.1464', 'stays:0.0887']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/Ukraine crisis Macron says crucial days ahead after Putin summit.txt+eventbasecode10+eventcode10+avgtone0.4861878453038674+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4699', 'crimea:0.4422', 'nato:0.4082', 'macron:0.4068', 'invade:0.3478', 'meeting:0.2975', 'europe:0.2897', 'escalate:0.2543', 'nuclear:0.2542', 'standoff:0.2459', 'pipeline:0.1996', 'proposal:0.198', 'news:0.1963', 'respond:0.1799', 'concerned:0.1794', 'tuesday:0.1744', 'comply:0.1732', 'understand:0.1572', 'say:0.1531', 'volodymyr:0.143', 'coming:0.141', 'pagenext:0.1393', 'increasingly:0.1313', 'end:0.125', 'hour:0.1188', 'major:0.1134', 'mr:0.1131', 'possibility:0.1125', 'calculate:0.0988', 'export:0.0849']+titles_keywords+['macron:0.379', 'ukraine:0.2864', 'days:0.2336', 'crisis:0.221', 'says:0.0484']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220628+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/Ukraine shopping center survivors describe hell of Russian attack.txt+eventbasecode10+eventcode10+avgtone0.4564356435643564+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kiev:0.4905', 'russian:0.3771', 'survivors:0.3313', 'zelenskyy:0.3228', 'attack:0.3145', 'occur:0.2815', 'blood:0.2571', 'mykhailets:0.249', 'rubble:0.2419', 'shopping:0.2306', 'civilian:0.2301', 'infrastructure:0.2233', 'worry:0.1994', 'euronews:0.1854', 'know:0.1802', 'siren:0.1778', 'kindergartens:0.1765', 'hotel:0.1604', 'cover:0.1544', 'center:0.1513', 'stay:0.1509', 'broken:0.148', 'monday:0.1349', 'near:0.121', 'way:0.1114', 'cram:0.1081', 'thousand:0.1061', 'simply:0.0998', 'pagenext:0.0988', 'sift:0.0745']+titles_keywords+['ukraine:0.4037', 'survivors:0.3939', 'attack:0.2783', 'hell:0.2626', 'shopping:0.2544']"
+        ]
+    ]
+}

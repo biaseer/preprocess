@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+841":[
+        [
+            "20220410+../news_crawling/RUS_UKR/p_articles/europesun.com/Russian nuclear workers freed in Ukraine.txt+eventbasecode84+eventcode841+avgtone0.5023474178403755+goldsteinscale0.85+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.508', 'nuclear:0.3973', 'likhachev:0.3903', 'prisoner:0.2855', 'politics:0.2606', 'rosatom:0.2586', 'peaceful:0.2546', 'staff:0.2544', 'tatyana:0.2349', 'news:0.223', 'ceo:0.2164', 'rivne:0.2157', 'swap:0.2141', 'recuperation:0.186', 'plant:0.1717', 'hold:0.1607', 'treat:0.1591', 'deliver:0.1582', 'function:0.1514', 'precedent:0.15', 'free:0.1298', 'state:0.1274', 'right:0.1257', 'saturday:0.1238', 'help:0.1223', 'representative:0.1146', 'set:0.1084', 'according:0.1043', 'emphasize:0.1007', 'material:0.0919']+titles_keywords+['ukraine:0.3937', 'nuclear:0.3548', 'freed:0.3312', 'russian:0.3206', 'workers:0.2766']"
+        ]
+    ],
+    "UKR+RUS+841":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/europesun.com/Russia allows visafree entry for foreign nationals coming from Ukraine DPR LPR.txt+eventbasecode84+eventcode841+avgtone0.5151515151515151+goldsteinscale0.85+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4214', 'kremlin:0.3263', 'visafree:0.3139', 'citizenship:0.254', 'dpr:0.233', 'stateless:0.2237', 'registration:0.2206', 'republics:0.2142', 'enter:0.1808', 'residence:0.1546', 'foreign:0.1498', 'federation:0.1465', 'allow:0.1449', 'march:0.1428', 'expire:0.124', 'validity:0.1012', 'person:0.098', 'saturday:0.0926', 'identity:0.086', 'procedure:0.08', 'document:0.0789', 'permanent:0.073', 'prove:0.0667', 'anisputnik:0.0638', 'start:0.0405', 'service:0.0362', 'simplify:0.0186', 'relevant:0.0149', 'need:0.0098', 'say:-0.0007']+titles_keywords+['ukraine:0.4047', 'visafree:0.3568', 'lpr:0.2272', 'allows:0.1155', 'coming:0.0255']"
+        ]
+    ]
+}

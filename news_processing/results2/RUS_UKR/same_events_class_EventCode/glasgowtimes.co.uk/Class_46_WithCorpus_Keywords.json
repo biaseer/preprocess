@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/UN Security Council to meet as Ukraine calls for humanitarian corridors.txt+eventbasecode46+eventcode46+avgtone0.4768211920529801+goldsteinscale0.85+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5+news_keywords+['ukraine:0.4965', 'humanitarian:0.4215', 'putins:0.3472', 'briefing:0.3393', 'terrorism:0.3374', 'nuclear:0.3271', 'embassy:0.3094', 'blockade:0.2945', 'emergency:0.2753', 'troop:0.253', 'corridor:0.2452', 'negotiation:0.2411', 'report:0.2198', 'flee:0.2053', 'anonymity:0.1982', 'delegation:0.1917', 'zelensky:0.1895', 'intensifies:0.1565', 'catherine:0.1505', 'speak:0.1499', 'shmyhal:0.1487', 'organise:0.1477', 'immediately:0.1389', 'number:0.1231', 'statement:0.105', 'send:0.0919', 'basis:0.09', 'familiar:0.0868', 'include:0.0728', 'monitor:0.0624']+titles_keywords+['ukraine:0.3616', 'humanitarian:0.3131', 'corridors:0.2686', 'council:0.2649', 'meet:0.1889']"
+        ],
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/Irish Government doing everything it can to find accommodation for Ukrainians.txt+eventbasecode46+eventcode46+avgtone0.4846938775510204+goldsteinscale0.85+nummentions0.16364296081277213+numarticles0.16098622189992748+numsources0.3684210526315789+news_keywords+['ukraine:0.4812', 'refugee:0.4059', 'demilitarisation:0.3908', 'war:0.3536', 'irish:0.2987', 'government:0.2986', 'accommodation:0.2771', 'instability:0.2618', 'unilaterally:0.2558', 'directive:0.2323', 'consequences:0.224', 'future:0.2204', 'dramatic:0.209', 'turning:0.2066', 'broader:0.2058', 'increase:0.2056', 'report:0.1947', 'martin:0.1883', 'idea:0.1874', 'moderate:0.173', 'undertaken:0.1651', 'scrpv:0.1631', 'vat:0.1624', 'end:0.1604', 'estimate:0.1598', 'refit:0.1494', 'degree:0.1455', 'twitter:0.1407', 'wag:0.1015', 'coming:0.0973']+titles_keywords+['ukrainians:0.4157', 'accommodation:0.3827', 'irish:0.3624', 'government:0.201', 'doing:0.0561']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20220122+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/US and Russia agree to keep talking amid tensions over Ukraine.txt+eventbasecode46+eventcode46+avgtone0.5+goldsteinscale0.85+nummentions0.18396226415094338+numarticles0.1845540246555475+numsources0.3684210526315789+news_keywords+['diplomacy:0.4757', 'nato:0.4216', 'putin:0.4059', 'kyivs:0.3585', 'invades:0.2916', 'pentagon:0.2886', 'pursue:0.2571', 'deploy:0.242', 'crisis:0.2372', 'manoeuvre:0.2233', 'concern:0.2233', 'meet:0.2135', 'anticipate:0.2065', 'sanction:0.2037', 'response:0.2031', 'know:0.1944', 'word:0.1943', 'productive:0.1906', 'reiterate:0.1838', 'secretary:0.1828', 'promise:0.1794', 'forefront:0.1748', 'virtual:0.1691', 'week:0.1485', 'pull:0.1482', 'difference:0.1302', 'monitor:0.1146', 'send:0.1109', 'state:0.1011', 'inconclusive:0.0815']+titles_keywords+['talking:0.31', 'ukraine:0.29', 'tensions:0.0986', 'agree:0.0386', 'amid:-0.0234']"
+        ]
+    ]
+}

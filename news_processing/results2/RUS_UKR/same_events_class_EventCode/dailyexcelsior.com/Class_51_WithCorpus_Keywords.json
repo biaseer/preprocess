@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/dailyexcelsior.com/Ukraine how boycotting everything.txt+eventbasecode51+eventcode51+avgtone0.46512875536480686+goldsteinscale0.67+nummentions0.057329462989840346+numarticles0.05801305293691081+numsources0.12171052631578948+news_keywords+['ukrainians:0.4809', 'putin:0.431', 'antagonism:0.3709', 'refugee:0.354', 'boycott:0.3518', 'invade:0.327', 'xenophobic:0.3148', 'political:0.304', 'sanction:0.2804', 'naturalise:0.2671', 'history:0.2625', 'confusion:0.2151', 'example:0.195', 'collective:0.1917', 'change:0.1913', 'suffer:0.1836', 'dangerous:0.1766', 'order:0.1523', 'similar:0.1427', 'torpedoed:0.142', 'ordinary:0.1384', 'assistance:0.1347', 'world:0.1346', 'acknowledge:0.1276', 'blanket:0.121', 'long:0.1098', 'stoli:0.1083', 'actually:0.0998', 'playlist:0.0923', 'headquarter:0.092']+titles_keywords+['boycotting:0.6546', 'ukraine:0.5839']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/dailyexcelsior.com/From Z to Q when letters become political symbols.txt+eventbasecode51+eventcode51+avgtone0.48351001177856306+goldsteinscale0.67+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['alphabet:0.4629', 'symbols:0.4183', 'propaganda:0.3915', 'politically:0.3439', 'history:0.3421', 'organisations:0.2917', 'usage:0.271', 'word:0.2388', 'denotative:0.2217', 'end:0.2027', 'anti:0.2022', 'national:0.2015', 'flag:0.2009', 'sense:0.1992', 'xi:0.1959', 'emblazon:0.1911', 'zed:0.1859', 'russias:0.1809', 'surname:0.1794', 'transforms:0.176', 'slogan:0.1738', 'qanon:0.1672', 'superfluous:0.1644', 'basis:0.146', 'make:0.1452', 'oddity:0.1397', 'emerge:0.1343', 'covid:0.1325', 'definition:0.1265', 'doesnt:0.0582']+titles_keywords+['letters:0.5045', 'symbols:0.4806', 'political:0.4614']"
+        ]
+    ]
+}

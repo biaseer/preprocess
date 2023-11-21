@@ -1,0 +1,17 @@
+{
+    "FIN+RUS+112":[
+        [
+            "20220818+../news_crawling/RUS_UKR/p_articles/wsau.com/Russia says 3 MiG warplanes with hypersonic missiles moved to Kaliningrad region media.txt+eventbasecode112+eventcode112+avgtone0.4906832298136646+goldsteinscale0.4+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.01644736842105263+news_keywords+['kaliningrad:0.4886', 'moscow:0.4163', 'nato:0.3987', 'mig:0.3914', 'russias:0.3712', 'airspace:0.3084', 'missile:0.3074', 'finland:0.2818', 'warplane:0.2442', 'hypersonic:0.2174', 'km:0.1998', 'kinzhal:0.199', 'relocate:0.1955', 'tensions:0.1854', 'gulf:0.1581', 'news:0.1576', 'retaliation:0.154', 'report:0.144', 'near:0.1356', 'flashpoint:0.1353', 'transit:0.1271', 'send:0.1246', 'cite:0.1107', 'suspect:0.1052', 'promising:0.1034', 'state:0.0965', 'porvoo:0.085', 'thursday:0.0757', 'say:0.072', 'limit:0.0338']+titles_keywords+['warplanes:0.4243', 'mig:0.4208', 'kaliningrad:0.413', 'hypersonic:0.2907', 'moved:0.1933']"
+        ]
+    ],
+    "FRA+RUS+112":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/wsau.com/French President Macron new sanctions on Russia needed after killings in Ukraines Bucha.txt+eventbasecode112+eventcode112+avgtone0.45982142857142855+goldsteinscale0.4+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['macron:0.4515', 'ukraines:0.3662', 'sanction:0.3557', 'france:0.346', 'russian:0.3131', 'accuse:0.2916', 'killing:0.251', 'president:0.2382', 'war:0.2376', 'reuters:0.226', 'crime:0.2213', 'emmanuel:0.1951', 'paris:0.1904', 'civilian:0.1782', 'bucha:0.1658', 'force:0.1472', 'responsible:0.1387', 'indicate:0.1272', 'inter:0.1179', 'monday:0.1093', 'town:0.1069', 'clue:0.0909', 'new:0.0794', 'say:0.0666', 'radio:0.0657', 'medium:0.0573', 'western:0.046', 'need:0.0433', 'performance:0.0154', 'stag:0.0095']+titles_keywords+['sanctions:0.4799', 'macron:0.4404', 'ukraines:0.3418', 'bucha:0.195', 'new:0.0858']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20211228+../news_crawling/RUS_UKR/p_articles/wsau.com/US helps Ukraine to strengthen its border with Russia Belarus.txt+eventbasecode112+eventcode112+avgtone0.4740259740259741+goldsteinscale0.4+nummentions0.018142235123367198+numarticles0.01885424220449601+numsources0.023026315789473683+news_keywords+['natos:0.4859', 'ukraines:0.4836', 'belarus:0.4507', 'kyiv:0.4001', 'border:0.3498', 'treaty:0.2921', 'security:0.2918', 'troop:0.2562', 'attack:0.2528', 'reuters:0.2389', 'ammunition:0.2292', 'monitoring:0.2235', 'strengthen:0.2083', 'escalation:0.2031', 'drone:0.2021', 'eastward:0.1729', 'plan:0.1603', 'project:0.1538', 'destabilise:0.1433', 'help:0.1342', 'continue:0.1304', 'purchase:0.1214', 'video:0.1209', 'join:0.1175', 'million:0.0976', 'include:0.0956', 'near:0.0895', 'possible:0.0625', 'say:0.0339', 'series:0.0296']+titles_keywords+['ukraine:0.3968', 'belarus:0.3638', 'border:0.2561', 'strengthen:0.2142', 'helps:0.1342']"
+        ]
+    ]
+}

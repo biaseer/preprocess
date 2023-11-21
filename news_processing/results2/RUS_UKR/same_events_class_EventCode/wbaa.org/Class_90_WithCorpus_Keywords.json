@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+90":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/wbaa.org/Russian speakers in the US monitor the war in Ukraine closely.txt+eventbasecode90+eventcode90+avgtone0.46875+goldsteinscale0.4+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.013157894736842105+news_keywords+['soviet:0.5138', 'putin:0.4803', 'ukraine:0.4796', 'empathy:0.2983', 'war:0.295', 'unprovoked:0.2642', 'immigrant:0.2501', 'synagogue:0.2422', 'persecution:0.2411', 'know:0.2391', 'talk:0.2383', 'world:0.2366', 'live:0.2238', 'news:0.2235', 'community:0.2228', 'hirsch:0.208', 'bleak:0.2071', 'continue:0.188', 'leave:0.1718', 'population:0.1629', 'make:0.1417', 'appal:0.1413', 'brace:0.1379', 'normal:0.1349', 'odesa:0.1232', 'gastronom:0.1136', 'byline:0.1122', 'scale:0.1116', 'sort:0.1088', 'way:0.1063']+titles_keywords+['russian:0.539', 'ukraine:0.4715', 'war:0.2689', 'monitor:0.1539', 'closely:0.0984']"
+        ],
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/wbaa.org/Russias Victory Day celebrations take on new importance for the Kremlin this year.txt+eventbasecode90+eventcode90+avgtone0.4946341463414634+goldsteinscale0.4+nummentions0.2539912917271408+numarticles0.25453226976069615+numsources0.2730263157894737+news_keywords+['kremlin:0.4635', 'russian:0.4025', 'russias:0.3996', 'celebrate:0.3396', 'annexation:0.3309', 'donetsk:0.3197', 'nato:0.3113', 'babushka:0.2973', 'mobilization:0.2859', 'news:0.2518', 'event:0.2433', 'rhetoric:0.2297', 'prominence:0.2213', 'tactical:0.2209', 'presidential:0.214', 'independence:0.2076', 'monday:0.2001', 'know:0.1923', 'big:0.1539', 'visit:0.1481', 'rehearse:0.148', 'fall:0.1407', 'state:0.1345', 'world:0.1241', 'end:0.121', 'idea:0.1151', 'integrate:0.1112', 'echo:0.1077', 'underscoring:0.0989', 'dozen:0.0851']+titles_keywords+['kremlin:0.4621', 'celebrations:0.3708', 'victory:0.2929', 'importance:0.2016', 'new:0.0765']"
+        ]
+    ]
+}

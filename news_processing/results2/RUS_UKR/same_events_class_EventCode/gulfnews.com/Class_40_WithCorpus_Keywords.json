@@ -1,0 +1,15 @@
+{
+    "FRA+UKR+40":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/gulfnews.com/Putin orders Russian troops to Ukraine after recognising breakaway regions.txt+eventbasecode40+eventcode40+avgtone0.48238747553816047+goldsteinscale0.55+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.01644736842105263+news_keywords+['crimea:0.5333', 'natos:0.4264', 'putin:0.4251', 'ceasefire:0.4061', 'separatist:0.3656', 'invades:0.343', 'sovereignty:0.2944', 'diplomat:0.2864', 'intervene:0.2726', 'eastward:0.2347', 'threat:0.2139', 'dispatching:0.1968', 'enter:0.195', 'psaki:0.1848', 'order:0.1841', 'predict:0.18', 'news:0.1722', 'pretext:0.1568', 'volodymyr:0.1536', 'intend:0.1535', 'shortly:0.1521', 'lengthy:0.146', 'say:0.1357', 'point:0.1229', 'general:0.1153', 'draw:0.1134', 'unchangeable:0.1096', 'pattern:0.0929', 'unless:0.0635', 'price:0.0586']+titles_keywords+['ukraine:0.4339', 'putin:0.3994', 'breakaway:0.2173', 'troops:0.1942', 'orders:0.1592']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/gulfnews.com/Sheikh Mohamed bin Zayed Russian President Putin discuss Ukraine crisis.txt+eventbasecode40+eventcode40+avgtone0.5+goldsteinscale0.55+nummentions0.024310595065312045+numarticles0.024292965917331398+numsources0.05921052631578947+news_keywords+['putin:0.5363', 'ukraine:0.4279', 'uae:0.3603', 'president:0.3565', 'opec:0.3311', 'peaceful:0.3048', 'political:0.2514', 'stakeholder:0.2468', 'consultation:0.242', 'zayed:0.2374', 'cooperation:0.2311', 'discuss:0.2242', 'leader:0.2214', 'news:0.2206', 'report:0.2019', 'relation:0.2013', 'world:0.1925', 'achieve:0.1911', 'highness:0.1732', 'issue:0.171', 'coordinate:0.1706', 'importance:0.1506', 'brief:0.1503', 'emphasise:0.1381', 'currently:0.1326', 'include:0.1001', 'phone:0.0961', 'prime:0.0896', 'bilateral:0.0871', 'exporting:0.053']+titles_keywords+['putin:0.478', 'ukraine:0.418', 'zayed:0.3233', 'discuss:0.2207', 'crisis:0.1966']"
+        ],
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/gulfnews.com/Pakistans Prime Minister holds phone talk with Ukraines President Zelensky.txt+eventbasecode40+eventcode40+avgtone0.4896449704142012+goldsteinscale0.55+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.019736842105263157+news_keywords+['diplomacy:0.4362', 'ukraines:0.4088', 'conflict:0.3038', 'islamabad:0.3014', 'escalation:0.2665', 'humanitarian:0.2572', 'zelensky:0.2317', 'concerned:0.2068', 'president:0.198', 'shah:0.1911', 'discussing:0.189', 'evacuate:0.1829', 'continue:0.17', 'reinforce:0.1686', 'counterpart:0.1629', 'military:0.1571', 'priority:0.1509', 'partisan:0.144', 'pm:0.1348', 'solution:0.1329', 'twitter:0.123', 'willingness:0.1199', 'march:0.114', 'mehmood:0.1095', 'say:0.1017', 'non:0.1012', 'bilateral:0.0984', 'oic:0.0892', 'state:0.0716', 'deep:0.0451']+titles_keywords+['zelensky:0.3815', 'pakistans:0.3076', 'talk:0.217', 'prime:0.1366', 'minister:0.0822']"
+        ]
+    ]
+}

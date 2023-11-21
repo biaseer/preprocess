@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/businessinsider.com/The captain of a 50 million yacht owned by a Russian businessman said its detention.txt+eventbasecode100+eventcode100+avgtone0.47623574144486697+goldsteinscale0.25+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.013157894736842105+news_keywords+['yacht:0.4605', 'ferries:0.4446', 'putin:0.3992', 'oligarch:0.3592', 'crime:0.329', 'detain:0.3017', 'hague:0.2956', 'ownership:0.2756', 'captain:0.2468', 'flag:0.2454', 'shapps:0.2296', 'crony:0.2243', 'clause:0.2235', 'uk:0.2209', 'fence:0.1965', 'notice:0.1964', 'spokesperson:0.1868', 'overreach:0.1796', 'hidden:0.1784', 'images:0.1774', 'merely:0.1707', 'read:0.1667', 'step:0.1593', 'collectively:0.1538', 'nca:0.1326', 'getty:0.1244', 'dozen:0.1219', 'wednesday:0.1211', 'big:0.1202', 'saidthat:0.097']+titles_keywords+['yacht:0.4312', 'overreach:0.3645', 'detention:0.3245', 'government:0.2853', 'russian:0.2667']"
+        ]
+    ],
+    "USA+RUS+100":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Recordbreaking astronaut Peggy Whitson says Russias invasion should lead to more engine development in the.txt+eventbasecode100+eventcode100+avgtone0.4983525535420099+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['iss:0.4637', 'spacex:0.4272', 'russias:0.4186', 'dmitry:0.3477', 'engines:0.3176', 'orbit:0.3169', 'production:0.2951', 'elon:0.2713', 'rogozin:0.263', 'crisis:0.2626', 'cooperating:0.2576', 'progress:0.2519', 'war:0.2384', 'future:0.223', 'understand:0.2188', 'statement:0.2182', 'commander:0.2148', 'reliance:0.2013', 'stop:0.1935', 'sanction:0.1852', 'uncontrolled:0.1712', 'tweet:0.1592', 'whitson:0.1568', 'view:0.1531', 'companywide:0.1525', 'bit:0.1488', 'peggy:0.1425', 'th:0.1241', 'spend:0.112', 'week:0.1099']+titles_keywords+['engines:0.3881', 'russian:0.3114', 'whitson:0.2913', 'peggy:0.198', 'invasion:0.1976']"
+        ]
+    ]
+}

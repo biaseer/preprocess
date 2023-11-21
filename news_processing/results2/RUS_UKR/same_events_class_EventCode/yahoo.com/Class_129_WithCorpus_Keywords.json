@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+129":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/yahoo.com/Ukraines ambassador says Russias words have less value than a hole in the New York.txt+eventbasecode129+eventcode129+avgtone0.47923875432525953+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4792', 'veto:0.394', 'ambassador:0.3472', 'vasily:0.3197', 'delegation:0.2943', 'invasion:0.2695', 'president:0.2647', 'abstain:0.2609', 'meeting:0.235', 'nazi:0.2086', 'report:0.1933', 'nebenzya:0.1837', 'initiate:0.1774', 'word:0.1774', 'anti:0.1771', 'news:0.1724', 'silence:0.1693', 'say:0.1648', 'action:0.1436', 'security:0.1396', 'world:0.1358', 'withdraw:0.1329', 'united:0.1223', 'february:0.1067', 'course:0.0862', 'idea:0.0825', 'draft:0.0724', 'resolution:0.0664', 'greenfield:0.0635', 'invite:0.0429']+titles_keywords+['ukraines:0.4139', 'ambassador:0.2807', 'pretzel:0.2741', 'words:0.2307', 'value:0.1694']"
+        ]
+    ],
+    "UKR+RUS+129":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/yahoo.com/Zelenskiy urges UN to reform its system to strip Russia of its veto.txt+eventbasecode129+eventcode129+avgtone0.4894736842105264+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.006578947368421052+news_keywords+['ukraine:0.448', 'moscow:0.3828', 'veto:0.3771', 'zelenskiy:0.349', 'reform:0.3084', 'reuters:0.2426', 'volodymyr:0.2291', 'nations:0.1948', 'council:0.1789', 'turn:0.1739', 'president:0.1676', 'want:0.1674', 'act:0.1563', 'united:0.144', 'strip:0.1438', 'say:0.1389', 'international:0.1301', 'work:0.1268', 'address:0.1227', 'body:0.1184', 'security:0.1124', 'bucha:0.093', 'slave:0.0763', 'tuesday:0.0704', 'grim:0.0675', 'silent:0.0649', 'effectively:0.0511', 'passionate:0.0454', 'permanent:0.0435', 'scene:0.0252']+titles_keywords+['zelenskiy:0.4253', 'veto:0.3095', 'reform:0.272', 'russia:0.2596', 'urges:0.0061']"
+        ]
+    ]
+}

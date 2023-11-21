@@ -1,0 +1,12 @@
+{
+    "POL+RUS+141":[
+        [
+            "20220720+../news_crawling/RUS_UKR/p_articles/cbn.com/Thousands of Ukrainians Protest in Poland Telling the World Russia Is a Terrorist State.txt+eventbasecode141+eventcode141+avgtone0.4950738916256157+goldsteinscale0.175+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4348', 'cbn:0.289', 'journalism:0.2861', 'pray:0.2589', 'myronovych:0.2589', 'aid:0.2429', 'embassy:0.2396', 'protester:0.2309', 'supply:0.2217', 'know:0.2196', 'world:0.2179', 'blessing:0.2165', 'tribulation:0.2129', 'hear:0.2103', 'hungry:0.2085', 'frontline:0.2007', 'aggression:0.1839', 'story:0.1799', 'karen:0.1787', 'receive:0.1669', 'missgatherings:0.154', 'gon:0.1476', 'like:0.1425', 'end:0.1375', 'thousands:0.1362', 'way:0.1256', 'thats:0.1198', 'simultaneous:0.109', 'andrii:0.1026', 'today:0.0952']+titles_keywords+['ukrainians:0.451', 'poland:0.3368', 'protest:0.295', 'terrorist:0.2824', 'world:0.1118']"
+        ]
+    ],
+    "RUS+UKR+141":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/cbn.com/CBNs Operation Blessing Comforts Refugees at Polish Border An Artillery Shell Hit the House Next.txt+eventbasecode141+eventcode141+avgtone0.47576045627376423+goldsteinscale0.175+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.01644736842105263+news_keywords+['ukraine:0.4732', 'refugee:0.4283', 'nato:0.4264', 'war:0.3939', 'troop:0.3867', 'aid:0.3422', 'pentagon:0.3308', 'operation:0.32', 'blessing:0.2939', 'zelenskyy:0.2765', 'news:0.2432', 'reposition:0.2423', 'pole:0.2314', 'communication:0.2259', 'safe:0.2224', 'deliver:0.2169', 'cbn:0.216', 'pull:0.2049', 'neutral:0.1932', 'newslettersand:0.1912', 'continue:0.1894', 'afar:0.1826', 'leave:0.1766', 'knew:0.1596', 'story:0.1584', 'houses:0.1571', 'like:0.14', 'ready:0.1372', 'big:0.1205', 'include:0.1196']+titles_keywords+['refugees:0.4111', 'artillery:0.3472', 'blessing:0.3212', 'cbns:0.3153', 'hit:0.255']"
+        ]
+    ]
+}

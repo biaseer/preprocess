@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+20":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/ross-shirejournal.co.uk/London protesters tell of anger at Putin over Ukraine invasion.txt+eventbasecode20+eventcode20+avgtone0.4649122807017544+goldsteinscale0.65+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['ukraine:0.4463', 'putin:0.4448', 'invasion:0.3554', 'protester:0.3399', 'embassy:0.2954', 'crowd:0.2898', 'war:0.2791', 'flag:0.2607', 'shout:0.2587', 'kovalenko:0.2566', 'london:0.2379', 'police:0.2355', 'wall:0.2223', 'waving:0.1949', 'emotional:0.1891', 'block:0.1829', 'street:0.1804', 'live:0.1758', 'news:0.1526', 'anthem:0.1468', 'hundreds:0.144', 'withdraw:0.1433', 'downing:0.1245', 'hold:0.1227', 'today:0.1004', 'draw:0.0989', 'compare:0.0764', 'add:0.0683', 'chalk:0.0529', 'free:0.0466']+titles_keywords+['protesters:0.4305', 'putin:0.4078', 'invasion:0.2608', 'london:0.25', 'anger:0.2434']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/ross-shirejournal.co.uk/Investment in Royal Navy a must says Easter Ross MP Jamie Stone amid concerns over.txt+eventbasecode20+eventcode20+avgtone0.4960317460317461+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['frigates:0.5262', 'troop:0.3399', 'britannia:0.3192', 'russiathe:0.2698', 'port:0.2511', 'concern:0.2453', 'disgrace:0.2318', 'intend:0.2252', 'build:0.2252', 'grandfatherour:0.2244', 'idea:0.2208', 'forward:0.2171', 'arm:0.209', 'soon:0.1898', 'hear:0.1865', 'pull:0.186', 'engined:0.1833', 'mortar:0.1749', 'job:0.1742', 'size:0.1689', 'dems:0.1661', 'knew:0.1656', 'invest:0.1605', 'ross:0.157', 'amid:0.1504', 'deteriorate:0.1473', 'mr:0.1409', 'new:0.1342', 'possibleright:0.1302', 'beforeif:0.1212']+titles_keywords+['navy:0.4217', 'ross:0.2674', 'investment:0.2499', 'stone:0.207', 'says:0.123']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/ross-shirejournal.co.uk/Were fighting against a Nazi regime says Ukrainian MP.txt+eventbasecode20+eventcode20+avgtone0.46776155717761553+goldsteinscale0.65+nummentions0.04027576197387518+numarticles0.04097171863669326+numsources0.2532894736842105+news_keywords+['propaganda:0.4466', 'putin:0.4232', 'kyiv:0.4192', 'genocide:0.3977', 'nazi:0.3839', 'victim:0.3526', 'terrify:0.2684', 'sovsun:0.2644', 'help:0.2522', 'understand:0.2419', 'allege:0.234', 'world:0.2323', 'tell:0.2307', 'repeat:0.2293', 'avoid:0.2262', 'fool:0.2225', 'feed:0.2121', 'think:0.2033', 'fight:0.2006', 'head:0.1895', 'bucha:0.1813', 'make:0.181', 'picture:0.1804', 'theyre:0.1681', 'surround:0.1605', 'similar:0.1488', 'wont:0.1453', 'alive:0.1434', 'mp:0.1353', 'big:0.1154']+titles_keywords+['nazi:0.5219', 'ukrainian:0.4631', 'mp:0.2021', 'fighting:0.1929', 'says:0.1202']"
+        ]
+    ]
+}

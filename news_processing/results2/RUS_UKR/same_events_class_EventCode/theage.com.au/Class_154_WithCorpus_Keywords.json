@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/theage.com.au/Why Zelensky could defeat Putin by the end of the year.txt+eventbasecode154+eventcode154+avgtone0.4778613199665831+goldsteinscale0.13999999999999999+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4596', 'zelensky:0.4507', 'ukraines:0.4187', 'mikhail:0.3729', 'nato:0.3469', 'strategic:0.3033', 'battle:0.2451', 'colonel:0.2072', 'prepare:0.2021', 'turn:0.1962', 'bombardment:0.1924', 'know:0.189', 'khodaryonok:0.1792', 'future:0.1768', 'prospect:0.1758', 'headline:0.1553', 'end:0.1544', 'wont:0.1543', 'suddenly:0.1495', 'success:0.1465', 'order:0.1441', 'counteroffensive:0.1345', 'separatist:0.1342', 'february:0.125', 'large:0.1182', 'extend:0.1169', 'focus:0.1106', 'prime:0.0879', 'theres:0.028', 'welcome:0.0253']+titles_keywords+['zelensky:0.6188', 'putin:0.481', 'defeat:0.2003', 'end:0.1353', 'year:0.1326']"
+        ],
+        [
+            "20220717+../news_crawling/RUS_UKR/p_articles/theage.com.au/Zelensky fires top officials over agency collaboration with Russians.txt+eventbasecode154+eventcode154+avgtone0.4796806966618288+goldsteinscale0.13999999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.4681', 'putin:0.4618', 'zelensky:0.4045', 'russias:0.3632', 'venediktovas:0.3617', 'correspondent:0.3296', 'strike:0.2728', 'treason:0.2718', 'executive:0.2492', 'prosecute:0.2368', 'separatist:0.2341', 'occupy:0.2278', 'danger:0.2227', 'telegram:0.2136', 'write:0.1981', 'continue:0.1975', 'prepare:0.193', 'order:0.1907', 'artillery:0.1897', 'dead:0.1661', 'thursday:0.1639', 'andriy:0.1608', 'long:0.1565', 'elaborate:0.1513', 'systems:0.1505', 'world:0.1147', 'sbu:0.1079', 'reduce:0.1055', 'dozens:0.1036', 'mh:0.0949']+titles_keywords+['zelensky:0.5374', 'russians:0.3223', 'officials:0.2006', 'agency:0.1845', 'fires:0.1703']"
+        ]
+    ],
+    "USA+RUS+154":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/theage.com.au/Biden calls invasion a dangerous moment for freedom around the world.txt+eventbasecode154+eventcode154+avgtone0.47719298245614034+goldsteinscale0.13999999999999999+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.4777', 'ukrainecredit:0.4103', 'geopolitical:0.3998', 'natos:0.3961', 'correspondent:0.2835', 'crisis:0.2662', 'preemptive:0.261', 'prediction:0.2577', 'headline:0.2431', 'incursion:0.2352', 'sanction:0.232', 'dangerous:0.232', 'topple:0.2317', 'introduce:0.214', 'plan:0.2137', 'modernise:0.21', 'order:0.1992', 'world:0.1885', 'calm:0.1863', 'november:0.1746', 'counterpart:0.1726', 'eastern:0.1716', 'end:0.1684', 'big:0.1652', 'hear:0.1639', 'argue:0.1587', 'weve:0.1371', 'sure:0.1312', 'towns:0.1171', 'export:0.1054']+titles_keywords+['invasion:0.4451', 'biden:0.4218', 'freedom:0.3382', 'dangerous:0.3143', 'moment:0.2895']"
+        ]
+    ]
+}

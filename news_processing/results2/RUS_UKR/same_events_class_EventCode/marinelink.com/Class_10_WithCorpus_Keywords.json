@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220725+../news_crawling/RUS_UKR/p_articles/marinelink.com/Swiss Take Note of EU Sanctions Tweak for Russian Oil.txt+eventbasecode10+eventcode10+avgtone0.477112676056338+goldsteinscale0.5+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.006578947368421052+news_keywords+['sanctions:0.4945', 'eu:0.3373', 'switzerland:0.3352', 'russian:0.3238', 'oil:0.3077', 'action:0.2613', 'rosneft:0.2432', 'invasion:0.2411', 'government:0.2372', 'gazprom:0.2368', 'unprovoked:0.229', 'commodity:0.2232', 'allow:0.1935', 'cite:0.1894', 'seco:0.1851', 'trade:0.1791', 'disarm:0.1736', 'fascist:0.1663', 'export:0.1613', 'join:0.1503', 'cabinet:0.1484', 'insurance:0.1431', 'note:0.1397', 'refine:0.1384', 'neutral:0.1318', 'friday:0.1283', 'stop:0.1142', 'certain:0.1132', 'total:0.0739', 'far:0.0477']+titles_keywords+['sanctions:0.4893', 'swiss:0.3504', 'oil:0.2709', 'tweak:0.1424', 'note:0.1035']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20211210+../news_crawling/RUS_UKR/p_articles/marinelink.com/Russia Accuses Ukraine of Provocation Over Ship Incident.txt+eventbasecode10+eventcode10+avgtone0.4627659574468085+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.4632', 'ukraine:0.4027', 'provocation:0.3802', 'kyiv:0.3748', 'russian:0.3159', 'accuse:0.2911', 'attack:0.2416', 'incident:0.2263', 'kerch:0.209', 'vessel:0.1946', 'report:0.1869', 'complaint:0.1771', 'annexed:0.1615', 'strait:0.1577', 'react:0.1209', 'dismiss:0.1084', 'course:0.0993', 'news:0.091', 'change:0.0859', 'involve:0.0859', 'near:0.0744', 'thursday:0.0638', 'separate:0.0542', 'say:0.0527', 'head:0.0436', 'request:0.0391', 'ria:0.028', 'service:0.0258', 'federal:0.0173', 'ministry:-0.0255']+titles_keywords+['provocation:0.4011', 'ukraine:0.398', 'accuses:0.3038', 'incident:0.2404', 'ship:0.211']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "AUS+RUS+163":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/dailytimes.com.pk/Brent WTI Sokol breach 100 a barrel mark.txt+eventbasecode163+eventcode163+avgtone0.4819639278557114+goldsteinscale0.1+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['opec:0.5106', 'oil:0.3988', 'putin:0.3801', 'russias:0.3766', 'barrel:0.2615', 'future:0.244', 'global:0.2241', 'increase:0.2232', 'invasion:0.2225', 'concern:0.2183', 'texas:0.2088', 'market:0.2006', 'sanction:0.1967', 'independence:0.1956', 'expect:0.1862', 'spillover:0.1858', 'immediate:0.1804', 'month:0.1778', 'strategist:0.1777', 'significant:0.171', 'hint:0.1668', 'sokol:0.1582', 'source:0.1534', 'goldman:0.1299', 'benchmark:0.1231', 'percent:0.1084', 'skew:0.0972', 'tight:0.0837', 'intermediate:0.0787', 'exporter:0.0679']+titles_keywords+['breach:0.3609', '100:0.3607', 'brent:0.3257', 'sokol:0.3255', 'wti:0.2715']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/dailytimes.com.pk/Putin chose this war Biden says as he imposes new sanctions against Russia.txt+eventbasecode163+eventcode163+avgtone0.47543352601156075+goldsteinscale0.1+nummentions0.035921625544267054+numarticles0.03154459753444525+numsources0.03618421052631579+news_keywords+['putin:0.5111', 'nato:0.4102', 'ukraine:0.3838', 'invasion:0.3526', 'moscows:0.3525', 'biden:0.3278', 'strategic:0.2959', 'economy:0.2824', 'sanction:0.2596', 'conflict:0.2535', 'block:0.2387', 'engage:0.219', 'nation:0.2187', 'pledge:0.1813', 'reserve:0.1799', 'immediately:0.1748', 'washington:0.1731', 'consume:0.1588', 'say:0.1566', 'follow:0.1551', 'freeze:0.1425', 'counterpart:0.1378', 'association:0.132', 'severe:0.1273', 'inch:0.1222', 'additional:0.1212', 'barrel:0.1187', 'price:0.1151', 'white:0.1125', 'export:0.1067']+titles_keywords+['putin:0.5244', 'sanctions:0.4624', 'war:0.3362', 'imposes:0.2872', 'chose:0.227']"
+        ],
+        [
+            "20220619+../news_crawling/RUS_UKR/p_articles/dailytimes.com.pk/Russia putting world in danger of famine warns EU.txt+eventbasecode163+eventcode163+avgtone0.45964912280701753+goldsteinscale0.1+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4793', 'russias:0.4044', 'blockade:0.3539', 'famine:0.3491', 'war:0.326', 'weaponise:0.3154', 'sanction:0.3', 'impose:0.2985', 'blackmail:0.276', 'political:0.2739', 'danger:0.2733', 'oppose:0.2469', 'unwanted:0.2174', 'narrative:0.1948', 'world:0.1854', 'article:0.1729', 'union:0.1716', 'fertiliser:0.1682', 'quota:0.162', 'turn:0.1567', 'solution:0.1556', 'export:0.1527', 'good:0.1263', 'say:0.1263', 'resume:0.1191', 'monday:0.1171', 'ready:0.115', 'josep:0.1126', 'fully:0.0848', 'merchant:0.0648']+titles_keywords+['famine:0.4405', 'russia:0.3861', 'warns:0.2432', 'world:0.2194', 'putting:0.058']"
+        ]
+    ]
+}

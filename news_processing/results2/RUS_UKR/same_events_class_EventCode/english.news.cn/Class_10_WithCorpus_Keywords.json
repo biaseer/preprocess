@@ -1,0 +1,17 @@
+{
+    "CHN+UKR+10":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/english.news.cn/China urges US to clarify its Ukraine biomilitary activities.txt+eventbasecode10+eventcode10+avgtone0.4901960784313726+goldsteinscale0.5+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.023026315789473683+news_keywords+['biomilitary:0.3858', 'ukraine:0.3829', 'multilateral:0.3085', 'concern:0.2526', 'briefing:0.2351', 'biological:0.2337', 'zakharova:0.2124', 'xinhua:0.212', 'disclose:0.204', 'agreement:0.1958', 'clarification:0.1891', 'mechanism:0.1862', 'oppose:0.1818', 'weapon:0.1732', 'research:0.1712', 'convention:0.1575', 'th:0.146', 'allow:0.1448', 'fact:0.1301', 'contradiction:0.1253', 'zhao:0.1226', 'world:0.122', 'state:0.1133', 'end:0.1023', 'defense:0.0968', 'make:0.0843', 'bwc:0.0839', 'april:0.057', 'far:0.0312', 'add:-0.0059']+titles_keywords+['ukraine:0.3627', 'biomilitary:0.3524', 'clarify:0.1797', 'activities:0.0586', 'urges:0.0158']"
+        ]
+    ],
+    "RUS+FRA+10":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/english.news.cn/Facts about RussiaUkraine conflict Talks continue more US sanctions on Russia.txt+eventbasecode10+eventcode10+avgtone0.4903846153846154+goldsteinscale0.5+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.02631578947368421+news_keywords+['ceasefire:0.4728', 'ukraine:0.4724', 'kremlin:0.4102', 'negotiation:0.3473', 'dmitry:0.3461', 'government:0.2809', 'orban:0.2535', 'news:0.2508', 'operation:0.2493', 'subject:0.2479', 'sanction:0.2281', 'end:0.2047', 'order:0.1992', 'executive:0.1869', 'know:0.1816', 'factsheet:0.1806', 'happen:0.1735', 'long:0.1691', 'matter:0.1644', 'import:0.1617', 'allow:0.1602', 'speak:0.1601', 'formalize:0.1544', 'case:0.1497', 'thursday:0.1373', 'ready:0.1213', 'additionally:0.114', 'way:0.0877', 'house:0.0869', 'completely:0.0779']+titles_keywords+['sanctions:0.48', 'russiaukraine:0.4121', 'facts:0.3083', 'conflict:0.3052', 'continue:0.2014']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220512+../news_crawling/RUS_UKR/p_articles/english.news.cn/Russia accuses Pentagon of experimenting on patients in Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4861878453038674+goldsteinscale0.5+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.019736842105263157+news_keywords+['ukraine:0.3806', 'pathogen:0.356', 'pentagon:0.3408', 'laboratory:0.3304', 'pharmaceutical:0.307', 'kharkov:0.3064', 'military:0.3013', 'radiation:0.2919', 'hospital:0.2764', 'psychiatric:0.2668', 'experiment:0.2655', 'researcher:0.2581', 'inhuman:0.2115', 'foreign:0.1887', 'subject:0.1539', 'exhaustion:0.153', 'evacuate:0.1424', 'conceal:0.1413', 'category:0.1395', 'directly:0.1263', 'accuse:0.1253', 'expert:0.1188', 'information:0.1113', 'stage:0.1099', 'use:0.1087', 'obtain:0.1019', 'affiliated:0.077', 'large:0.0762', 'january:0.0445', 'add:0.0138']+titles_keywords+['pentagon:0.3758', 'ukraine:0.3695', 'patients:0.2249', 'accuses:0.1931', 'experimenting:0.1278']"
+        ]
+    ]
+}

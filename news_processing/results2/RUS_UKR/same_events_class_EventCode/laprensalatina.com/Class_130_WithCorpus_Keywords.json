@@ -1,0 +1,20 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20211212+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/G7 warns Russia of massive consequences if Ukraine attacked.txt+eventbasecode130+eventcode130+avgtone0.4740484429065744+goldsteinscale0.27999999999999997+nummentions0.06313497822931785+numarticles0.06381435823060189+numsources0.05263157894736842+news_keywords+['ukraine:0.4177', 'negotiations:0.3303', 'nuclear:0.3251', 'agreement:0.2608', 'consequence:0.2476', 'group:0.2455', 'warn:0.2362', 'concern:0.2311', 'table:0.221', 'unilaterally:0.2148', 'attack:0.2105', 'power:0.2083', 'acronym:0.1944', 'donald:0.1782', 'summit:0.1752', 'efe:0.1712', 'world:0.1701', 'severe:0.1688', 'republic:0.1574', 'alongside:0.14', 'accord:0.1334', 'seven:0.1271', 'formal:0.127', 'jcpoa:0.1267', 'recent:0.1041', 'reach:0.0998', 'resolution:0.0836', 'hiatus:0.0688', 'building:0.0638', 'program:0.0364']+titles_keywords+['ukraine:0.3789', 'consequences:0.2698', 'g7:0.2614', 'warns:0.2538', 'massive:0.1218']"
+        ],
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Russia says it has taken control of Izyum in Ukraines Kharkiv region.txt+eventbasecode130+eventcode130+avgtone0.4747634069400631+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.5003', 'war:0.399', 'igor:0.3218', 'refugee:0.3093', 'kharkiv:0.2844', 'kill:0.2649', 'casualty:0.2633', 'izyum:0.2309', 'civilian:0.2299', 'diplomatic:0.228', 'unwinnable:0.2194', 'table:0.2066', 'explosive:0.2061', 'realize:0.1887', 'ammunition:0.1806', 'people:0.1708', 'estimate:0.1681', 'end:0.1632', 'million:0.1591', 'populate:0.1588', 'progress:0.1514', 'enter:0.147', 'unit:0.1461', 'thursday:0.142', 'amidst:0.1408', 'tragic:0.1301', 'control:0.1293', 'efe:0.1124', 'really:0.0824', 'record:0.0777']+titles_keywords+['izyum:0.4888', 'ukraines:0.4281', 'kharkiv:0.3354', 'control:0.1507', 'says:0.0697']"
+        ]
+    ],
+    "UKR+EUR+130":[
+        [
+            "20220828+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Ukraine says Russia endangers Europe by using Zaporizhzhia as military base.txt+eventbasecode130+eventcode130+avgtone0.48263888888888895+goldsteinscale0.27999999999999997+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.5309', 'nuclear:0.3692', 'zelenskyy:0.3314', 'war:0.3061', 'warn:0.2728', 'iaea:0.2678', 'endangers:0.2471', 'flag:0.2443', 'unite:0.2215', 'power:0.2178', 'accuse:0.2126', 'plant:0.1993', 'grid:0.1975', 'turn:0.1968', 'stabilize:0.19', 'help:0.187', 'priority:0.1838', 'convert:0.175', 'lead:0.1682', 'write:0.1636', 'station:0.1544', 'long:0.1403', 'thursday:0.1387', 'right:0.1262', 'despite:0.1172', 'twitter:0.1115', 'npp:0.1063', 'tragic:0.0842', 'minister:0.0827', 'decade:0.0568']+titles_keywords+['ukraine:0.5092', 'zaporizhzhia:0.3927', 'endangers:0.2194', 'military:0.2022', 'says:0.0655']"
+        ]
+    ],
+    "WST+RUS+130":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Venezuelas Maduro backs powerful military cooperation with Russia.txt+eventbasecode130+eventcode130+avgtone0.5017793594306049+goldsteinscale0.27999999999999997+nummentions0.019593613933236574+numarticles0.017766497461928935+numsources0.02631578947368421+news_keywords+['venezuela:0.4527', 'bolivarian:0.4367', 'nato:0.4066', 'maduro:0.3702', 'moscow:0.3553', 'cooperation:0.2697', 'ryabkov:0.2618', 'sovereignty:0.2459', 'president:0.2391', 'threat:0.2371', 'deploy:0.2294', 'hegemonic:0.2284', 'expand:0.1978', 'world:0.1921', 'refer:0.1825', 'implication:0.1747', 'ratify:0.1586', 'fight:0.1544', 'reply:0.1536', 'preparation:0.1469', 'instead:0.1423', 'western:0.1384', 'rtvi:0.1365', 'multipolar:0.1311', 'possible:0.1235', 'following:0.1201', 'elaborate:0.119', 'ground:0.1168', 'yury:0.0883', 'wednesday:0.0731']+titles_keywords+['maduro:0.4578', 'russia:0.3424', 'military:0.2652', 'cooperation:0.2223', 'backs:0.0478']"
+        ]
+    ]
+}

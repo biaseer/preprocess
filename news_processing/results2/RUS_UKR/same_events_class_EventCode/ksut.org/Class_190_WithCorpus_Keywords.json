@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/ksut.org/SNL offers a Prayer for Ukraine in its cold open.txt+eventbasecode190+eventcode190+avgtone0.49200000000000005+goldsteinscale0.0+nummentions0.3149492017416546+numarticles0.31435823060188545+numsources0.4967105263157895+news_keywords+['snl:0.5635', 'kyiv:0.4782', 'invasion:0.2863', 'troop:0.2849', 'audience:0.2693', 'live:0.2428', 'perform:0.2425', 'humor:0.2328', 'airstrikes:0.2283', 'chorus:0.2243', 'dumka:0.2202', 'introduce:0.2094', 'kate:0.2062', 'saturday:0.203', 'table:0.1894', 'night:0.1871', 'ongoing:0.1755', 'sketch:0.1719', 'kick:0.166', 'strong:0.1642', 'cast:0.1598', 'tribute:0.152', 'amid:0.1474', 'launch:0.1362', 'cold:0.1269', 'candle:0.1088', 'normally:0.0902', 'series:0.0885', 'offer:0.054', 'mckinnon:0.0242']+titles_keywords+['snl:0.5281', 'ukraine:0.3815', 'prayer:0.2403', 'cold:0.2089', 'open:0.1656']"
+        ],
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/ksut.org/Hundreds gather to honor fallen Ukrainian soldiers.txt+eventbasecode190+eventcode190+avgtone0.47222222222+goldsteinscale0.0+nummentions0.15021770682148042+numarticles0.15083393763596809+numsources0.13486842105263158+news_keywords+['lviv:0.4522', 'russian:0.3543', 'funeral:0.3455', 'war:0.3387', 'soldier:0.334', 'invasion:0.3244', 'koverznev:0.3042', 'honor:0.2876', 'kill:0.2501', 'viktor:0.2323', 'dudar:0.2254', 'gather:0.2235', 'fall:0.1923', 'npr:0.1861', 'turn:0.1826', 'night:0.177', 'place:0.1608', 'hundreds:0.1588', 'disclose:0.1512', 'resting:0.1403', 'receive:0.1321', 'later:0.129', 'toll:0.1257', 'western:0.1222', 'official:0.1217', 'men:0.12', 'bad:0.1125', 'open:0.1004', 'estimate:0.0785', 'far:0.0505']+titles_keywords+['ukrainian:0.3672', 'soldiers:0.3532', 'hundreds:0.2882', 'honor:0.2716', 'gather:0.2536']"
+        ]
+    ]
+}

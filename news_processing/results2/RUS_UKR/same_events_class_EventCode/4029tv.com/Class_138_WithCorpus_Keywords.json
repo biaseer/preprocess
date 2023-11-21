@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+138":[
+        [
+            "20220131+../news_crawling/RUS_UKR/p_articles/4029tv.com/Russia US exchange harsh words over Ukraine at UN.txt+eventbasecode138+eventcode138+avgtone0.47699386503067487+goldsteinscale0.15+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.046052631578947366+news_keywords+['diplomacy:0.4424', 'putin:0.4161', 'ukraines:0.3973', 'nato:0.365', 'escalation:0.3529', 'russophobes:0.348', 'invade:0.321', 'sanction:0.2921', 'cyberattacks:0.2619', 'rhetoric:0.2455', 'prepare:0.2243', 'ouster:0.2195', 'concern:0.2183', 'bipartisan:0.207', 'psaki:0.1982', 'understand:0.1879', 'exchange:0.183', 'accuse:0.1827', 'monday:0.177', 'word:0.1767', 'pull:0.1722', 'continue:0.1722', 'spar:0.1718', 'secretary:0.16', 'warm:0.1499', 'whats:0.1231', 'rotate:0.1194', 'arent:0.1108', 'state:0.1096', 'fabricate:0.1089']+titles_keywords+['ukraine:0.3637', 'russia:0.2795', 'harsh:0.2526', 'words:0.1298', 'exchange:0.0608']"
+        ]
+    ],
+    "WST+UKR+138":[
+        [
+            "20210619+../news_crawling/RUS_UKR/p_articles/4029tv.com/Morale is concern as NATO chief warns war in Ukraine could last years.txt+eventbasecode138+eventcode138+avgtone0.48132183908045983+goldsteinscale0.15+nummentions0.03955007256894049+numarticles0.03734590282813633+numsources0.03289473684210526+news_keywords+['ukraine:0.4925', 'nato:0.4264', 'oleg:0.3584', 'war:0.3399', 'concern:0.2798', 'desertion:0.2726', 'directorate:0.2685', 'separatist:0.2557', 'blockade:0.2482', 'prepare:0.2479', 'sievierodonetsk:0.2441', 'know:0.236', 'supply:0.2332', 'artillery:0.2238', 'long:0.2221', 'telegram:0.2189', 'winter:0.216', 'week:0.2082', 'annexed:0.2074', 'continue:0.1942', 'report:0.1875', 'destroy:0.1843', 'increase:0.179', 'intense:0.1699', 'term:0.1585', 'compare:0.1471', 'huddle:0.1449', 'hui:0.1206', 'worker:0.1149', 'pretty:0.1099']+titles_keywords+['nato:0.4128', 'morale:0.3948', 'years:0.2327', 'warns:0.214', 'chief:0.1603']"
+        ]
+    ]
+}

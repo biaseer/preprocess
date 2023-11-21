@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/wsau.com/Russian banks increase liquid forex assets by 85 billion in Jan.txt+eventbasecode154+eventcode154+avgtone0.4904153354632588+goldsteinscale0.13999999999999999+nummentions0.04281567489114659+numarticles0.043509789702683106+numsources0.0625+news_keywords+['forex:0.4722', 'rouble:0.4394', 'liquidity:0.4195', 'sanctions:0.4182', 'bank:0.4037', 'kremlin:0.4005', 'ukraine:0.3398', 'reuters:0.3326', 'withdraw:0.2865', 'golubkova:0.2606', 'profit:0.2189', 'reporting:0.2061', 'january:0.2056', 'hold:0.1852', 'increase:0.1523', 'foreign:0.1396', 'asset:0.1395', 'term:0.1377', 'short:0.1341', 'respectively:0.1183', 'case:0.116', 'estimate:0.1144', 'double:0.1097', 'step:0.1023', 'post:0.1023', 'cover:0.0846', 'denominate:0.0814', 'jack:0.0731', 'directly:0.0683', 'non:0.0599']+titles_keywords+['forex:0.3278', 'russian:0.3064', 'increase:0.154', 'billion:0.1166', '85:0.0912']"
+        ]
+    ],
+    "WST+RUS+154":[
+        [
+            "20210920+../news_crawling/RUS_UKR/p_articles/wsau.com/Ukraine holds military drills with US forces NATO allies.txt+eventbasecode154+eventcode154+avgtone0.49845201238390097+goldsteinscale0.13999999999999999+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.01644736842105263+news_keywords+['nato:0.5189', 'ukraines:0.4814', 'kyiv:0.4137', 'peacekeeping:0.3954', 'readiness:0.3735', 'troop:0.3605', 'deploy:0.3335', 'war:0.326', 'warships:0.2917', 'training:0.2852', 'participate:0.2524', 'reuters:0.2238', 'drill:0.2226', 'polityuk:0.222', 'garanich:0.1603', 'separatist:0.1595', 'states:0.159', 'additional:0.1576', 'western:0.1462', 'interoperability:0.1295', 'integration:0.1292', 'emmott:0.1287', 'april:0.1237', 'order:0.123', 'long:0.1175', 'near:0.1118', 'partner:0.1051', 'recent:0.0719', 'ihor:0.0701', 'statement:0.0389']+titles_keywords+['nato:0.4483', 'ukraine:0.4318', 'military:0.3403', 'drills:0.2748', 'forces:0.1352']"
+        ]
+    ]
+}

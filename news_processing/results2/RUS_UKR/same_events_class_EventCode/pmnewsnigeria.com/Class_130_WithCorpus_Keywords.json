@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+130":[
+        [
+            "20220127+../news_crawling/RUS_UKR/p_articles/pmnewsnigeria.com/Canada demurs sending weapons to Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4830508474576271+goldsteinscale0.27999999999999997+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.504', 'soviet:0.3965', 'military:0.3144', 'canadas:0.3064', 'invasion:0.2999', 'combat:0.2893', 'operation:0.2687', 'threat:0.262', 'weapon:0.2512', 'government:0.2418', 'extend:0.2356', 'nation:0.2294', 'defend:0.2246', 'retreat:0.2177', 'unifier:0.2047', 'cyber:0.1957', 'demur:0.194', 'arm:0.1865', 'western:0.1842', 'send:0.1591', 'cabinet:0.1567', 'come:0.1451', 'boost:0.1256', 'state:0.1207', 'intelligence:0.1146', 'day:0.1087', 'possible:0.0795', 'year:0.0728', 'decision:0.0706', 'small:0.0595']+titles_keywords+['ukraine:0.4623', 'weapons:0.3418', 'canada:0.3283', 'demurs:0.218', 'sending:0.1208']"
+        ]
+    ],
+    "GBR+UKR+130":[
+        [
+            "20220210+../news_crawling/RUS_UKR/p_articles/pmnewsnigeria.com/JUST IN US orders Americans out of Ukraine immediately.txt+eventbasecode130+eventcode130+avgtone0.48013245033112584+goldsteinscale0.27999999999999997+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5046', 'nato:0.4022', 'kremlin:0.3485', 'diplomacy:0.3443', 'maneuver:0.249', 'crisis:0.246', 'depart:0.2319', 'border:0.2265', 'order:0.224', 'warn:0.22', 'immediately:0.2108', 'troop:0.2103', 'destabilise:0.2022', 'sanction:0.1969', 'eastern:0.1918', 'boris:0.1916', 'president:0.1898', 'plan:0.162', 'visit:0.137', 'increase:0.1358', 'step:0.1324', 'decide:0.1303', 'covid:0.1275', 'right:0.1073', 'counterpart:0.1048', 'big:0.1027', 'deadlock:0.0999', 'wont:0.0764', 'thousand:0.0628', 'weve:0.0541']+titles_keywords+['ukraine:0.5034', 'immediately:0.3147', 'americans:0.2577', 'orders:0.1985', 'just:0.1593']"
+        ]
+    ]
+}

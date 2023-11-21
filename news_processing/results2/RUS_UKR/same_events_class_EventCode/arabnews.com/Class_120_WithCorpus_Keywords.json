@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/arabnews.com/Kremlin denies Russian assault on Azovstal steelworks in Ukraine.txt+eventbasecode120+eventcode120+avgtone0.4563106796116502+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['kremlin:0.5118', 'kyivs:0.4615', 'putin:0.4249', 'moscow:0.4239', 'dmitry:0.4229', 'peskov:0.37', 'azovstal:0.2736', 'military:0.2667', 'assault:0.2636', 'tunnel:0.2541', 'pursue:0.2491', 'artillery:0.2479', 'steel:0.2473', 'strategic:0.2354', 'evacuate:0.2349', 'industrial:0.2336', 'beneath:0.199', 'reporter:0.1921', 'deny:0.186', 'militant:0.1804', 'order:0.1723', 'storm:0.17', 'refer:0.151', 'launch:0.1482', 'area:0.1369', 'plant:0.1302', 'exacerbation:0.1266', 'month:0.1193', 'pause:0.078', 'site:0.0609']+titles_keywords+['kremlin:0.4348', 'azovstal:0.3326', 'steelworks:0.2637', 'denies:0.2589', 'assault:0.2033']"
+        ]
+    ],
+    "WST+RUS+120":[
+        [
+            "20211210+../news_crawling/RUS_UKR/p_articles/arabnews.com/NATO chief rejects Russia demand to bar Ukraine entry.txt+eventbasecode120+eventcode120+avgtone0.4625+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['natos:0.5367', 'crimea:0.431', 'putin:0.3936', 'diplomacy:0.3726', 'invades:0.3522', 'separatist:0.2498', 'strategic:0.2432', 'agreement:0.2151', 'establish:0.2131', 'border:0.2', 'want:0.1964', 'reject:0.1908', 'consequence:0.1871', 'concern:0.1841', 'news:0.1827', 'cite:0.1717', 'help:0.1483', 'scrap:0.1408', 'redeclared:0.1378', 'state:0.1246', 'general:0.1163', 'pipeline:0.1141', 'price:0.1104', 'launchpad:0.1102', 'bolster:0.1066', 'week:0.1057', 'deep:0.0993', 'stoltenberg:0.0939', 'like:0.0921', 'billion:0.0815']+titles_keywords+['nato:0.4015', 'ukraine:0.3542', 'rejects:0.1853', 'chief:0.1223', 'bar:0.0505']"
+        ]
+    ]
+}

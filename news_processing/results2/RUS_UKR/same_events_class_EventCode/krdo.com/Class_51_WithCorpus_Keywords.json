@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/krdo.com/NFT backed by Pussy Riot member raises 67 million for Ukraine.txt+eventbasecode51+eventcode51+avgtone0.5060240963855421+goldsteinscale0.67+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['cryptocurrency:0.5191', 'fundraiser:0.3966', 'ukraines:0.3815', 'nft:0.3499', 'ether:0.3347', 'riot:0.3345', 'government:0.316', 'faction:0.2903', 'feminist:0.2871', 'future:0.2809', 'platform:0.2687', 'source:0.2606', 'collaborate:0.2588', 'transaction:0.2509', 'tolokonnikova:0.2456', 'follow:0.2408', 'bidder:0.2379', 'ownership:0.2276', 'transparency:0.2218', 'fungible:0.22', 'statement:0.2174', 'symbol:0.2146', 'prove:0.2136', 'allow:0.2028', 'vote:0.1965', 'thousand:0.1933', 'produce:0.1909', 'list:0.1905', 'emerge:0.1852', 'different:0.1626']+titles_keywords+['nft:0.3716', 'ukraine:0.3388', 'riot:0.2796', 'million:0.218', 'backed:0.1204']"
+        ]
+    ],
+    "UKR+USA+51":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/krdo.com/Kharkiv clarinetist plays in front of Colorado Springs City Hall in honor of Ukraine.txt+eventbasecode51+eventcode51+avgtone0.491869918699187+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5114', 'kharkiv:0.3947', 'clarinetistsergei:0.3695', 'zelensky:0.345', 'vassilievstarted:0.3242', 'invasion:0.3186', 'music:0.2759', 'protest:0.2599', 'feel:0.2438', 'help:0.2351', 'hall:0.2288', 'city:0.2232', 'tribute:0.2158', 'saysplaying:0.1846', 'say:0.1841', 'organization:0.1816', 'springs:0.1721', 'medicalequipment:0.1703', 'flashlight:0.1684', 'colo:0.1634', 'president:0.1613', 'right:0.1588', 'andthen:0.1586', 'far:0.158', 'hopinghisfamilyback:0.1495', 'morning:0.147', 'month:0.1444', 'likefood:0.143', 'line:0.1259', 'couple:0.1121']+titles_keywords+['clarinetist:0.5249', 'kharkiv:0.4258', 'hall:0.2571', 'plays:0.1688', 'springs:0.1545']"
+        ]
+    ]
+}

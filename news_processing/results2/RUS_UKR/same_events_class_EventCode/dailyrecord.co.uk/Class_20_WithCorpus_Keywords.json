@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+20":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Ruth Davidson insists Douglas Ross put in terrible position by Partygate.txt+eventbasecode20+eventcode20+avgtone0.48295454545454547+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.006578947368421052+news_keywords+['tory:0.4707', 'davidson:0.3621', 'scottish:0.3425', 'douglas:0.301', 'partygate:0.2957', 'ross:0.2828', 'councils:0.28', 'destabilise:0.263', 'conflict:0.2532', 'downing:0.243', 'leave:0.2151', 'boris:0.2103', 'ruth:0.2099', 'result:0.2035', 'preside:0.2024', 'terrible:0.1956', 'ukraine:0.192', 'outspoken:0.189', 'seat:0.1758', 'mockery:0.1707', 'step:0.1651', 'journalist:0.1626', 'know:0.1613', 'look:0.1523', 'previously:0.1474', 'covid:0.1428', 'future:0.1329', 'house:0.1304', 'like:0.1133', 'prime:0.0728']+titles_keywords+['partygate:0.3992', 'ross:0.3815', 'davidson:0.3517', 'terrible:0.2215', 'insists:0.1616']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Russian troops demoralised seeing so many corpses beg to go home in leaked calls.txt+eventbasecode20+eventcode20+avgtone0.4659300184162063+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['comrade:0.4903', 'ukraine:0.4556', 'battalion:0.4389', 'frontline:0.3454', 'invasion:0.3414', 'herashchenko:0.312', 'intercept:0.2526', 'news:0.2424', 'resign:0.242', 'know:0.2177', 'report:0.2133', 'fight:0.2131', 'translation:0.2105', 'train:0.1938', 'echo:0.1924', 'supply:0.1921', 'deceive:0.1902', 'afraid:0.181', 'expert:0.1759', 'advantage:0.167', 'end:0.1669', 'mire:0.1638', 'fodder:0.1629', 'town:0.1475', 'arm:0.1463', 'like:0.1401', 'number:0.1349', 'according:0.1326', 'inbox:0.0938', 'added:0.0644']+titles_keywords+['troops:0.441', 'corpses:0.3662', 'demoralised:0.3631', 'russian:0.3207', 'calls:0.2392']"
+        ]
+    ]
+}

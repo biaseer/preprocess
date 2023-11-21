@@ -1,0 +1,18 @@
+{
+    "RUS+UKR+1124":[
+        [
+            "20220808+../news_crawling/RUS_UKR/p_articles/iheart.com/Concerns Of Nuclear Disaster After Shelling Near RussianControlled Plant.txt+eventbasecode112+eventcode1124+avgtone0.4680851063829787+goldsteinscale0.4+nummentions0.35776487663280115+numarticles0.3582306018854242+numsources0.0+news_keywords+['chernobyl:0.5571', 'nuclear:0.4718', 'radiation:0.3658', 'catastrophe:0.2975', 'russian:0.2515', 'concerns:0.2235', 'warn:0.2189', 'shell:0.196', 'voltage:0.1884', 'attack:0.172', 'iaea:0.1637', 'leakage:0.1619', 'accident:0.1564', 'damaged:0.1395', 'suicidal:0.1318', 'plant:0.1305', 'sensor:0.0999', 'control:0.0975', 'energoatom:0.0932', 'near:0.0923', 'worker:0.0884', 'station:0.0788', 'spend:0.0772', 'large:0.0509', 'offline:0.0507', 'guterressounded:0.049', 'storage:0.0414', 'generalantonio:0.0374', 'end:0.0365', 'line:0.02']+titles_keywords+['nuclear:0.4963', 'russiancontrolled:0.3258', 'concerns:0.2281', 'shelling:0.2204', 'near:0.0938']"
+        ]
+    ],
+    "UKR+RUS+1124":[
+        []
+    ],
+    "USA+RUS+1124":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/iheart.com/US Formally Accuses Russia Of Committing War Crimes In Ukraine.txt+eventbasecode112+eventcode1124+avgtone0.4634703196347032+goldsteinscale0.4+nummentions0.09288824383164006+numarticles0.09354604786076867+numsources0.0+news_keywords+['ukraine:0.4009', 'airstrikes:0.3509', 'accuse:0.3234', 'invasion:0.2941', 'crime:0.2543', 'report:0.2109', 'kill:0.2103', 'civilian:0.2068', 'thatrussian:0.1771', 'source:0.1731', 'note:0.1564', 'statement:0.1448', 'blinkensaid:0.1412', 'state:0.1411', 'child:0.135', 'hasformally:0.1331', 'information:0.1327', 'apartment:0.1198', 'thousand:0.1194', 'maternity:0.1108', 'explain:0.1056', 'review:0.1033', 'willcontinue:0.1027', 'sky:0.0989', 'visible:0.0971', 'month:0.0941', 'track:0.0856', 'long:0.0851', 'include:0.0748', 'today:0.0694']+titles_keywords+['ukraine:0.3395', 'accuses:0.2914', 'war:0.2017', 'crimes:0.1339', 'formally:0.0387']"
+        ],
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/iheart.com/President Biden Calls For War Crimes Trial Against Vladimir Putin.txt+eventbasecode112+eventcode1124+avgtone0.43577981651376146+goldsteinscale0.4+nummentions0.45863570391872277+numarticles0.45902828136330676+numsources0.006578947368421052+news_keywords+['putin:0.4525', 'biden:0.3713', 'genocide:0.3109', 'criminal:0.2607', 'presidentjoe:0.2597', 'bidenaccused:0.238', 'warrant:0.2273', 'trialfor:0.2018', 'speaking:0.1887', 'responsibility:0.1731', 'gather:0.1624', 'reporter:0.1605', 'bucha:0.1373', 'happen:0.1352', 'criticize:0.1297', 'ask:0.124', 'calls:0.1231', 'fight:0.1212', 'suggest:0.1151', 'bury:0.1136', 'continue:0.1116', 'information:0.1077', 'weapon:0.1053', 'white:0.1026', 'people:0.1009', 'february:0.0921', 'house:0.0844', 'remember:0.081', 'hasdenied:0.0775', 'actual:0.0487']+titles_keywords+['biden:0.4255', 'vladimir:0.2794', 'war:0.2164', 'trial:0.2075', 'calls:0.0515']"
+        ]
+    ]
+}

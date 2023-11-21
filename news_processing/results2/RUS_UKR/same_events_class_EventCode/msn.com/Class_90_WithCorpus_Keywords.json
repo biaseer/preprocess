@@ -1,0 +1,58 @@
+{
+    "DEU+RUS+90":[
+        []
+    ],
+    "EUR+UKR+90":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/msn.com/Ukraine Germany expels Russian diplomats with Bucha deaths in focus live updates.txt+eventbasecode90+eventcode90+avgtone0.47108637793370434+goldsteinscale0.4+nummentions0.019593613933236574+numarticles0.02030456852791878+numsources0.019736842105263157+news_keywords+['chernobyl:0.6096', 'kyiv:0.4551', 'putin:0.3879', 'pravda:0.369', 'russias:0.3544', 'genocide:0.3342', 'zelensky:0.2572', 'gazprom:0.233', 'embassy:0.22', 'expel:0.2093', 'infrastructures:0.197', 'ablaze:0.1921', 'plc:0.1846', 'report:0.1767', 'military:0.1636', 'noch:0.1583', 'scholz:0.1532', 'radiology:0.1506', 'icrc:0.1505', 'hazard:0.1497', 'baseless:0.145', 'worrying:0.1407', 'trench:0.137', 'read:0.1277', 'verantwortlichen:0.1273', 'trusteeship:0.0913', 'ordering:0.0778', 'story:0.0754', 'actually:0.0752', 'ready:0.036']+titles_keywords+['ukraine:0.4595', 'diplomats:0.3807', 'expels:0.2688', 'bucha:0.2372', 'focus:0.1369']"
+        ],
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/msn.com/OSCE says members of its Ukraine monitoring mission deprived of their liberty.txt+eventbasecode90+eventcode90+avgtone0.48118279569892475+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['osce:0.5079', 'ukraine:0.4307', 'war:0.3118', 'organization:0.2975', 'operation:0.2819', 'separatist:0.2743', 'security:0.2301', 'evacuate:0.227', 'presidents:0.2084', 'facilitate:0.2071', 'concern:0.2042', 'order:0.1897', 'secretary:0.1881', 'news:0.1807', 'reznikov:0.1772', 'oleksii:0.1733', 'general:0.1522', 'impartial:0.1312', 'monitor:0.114', 'renew:0.114', 'tweet:0.109', 'pro:0.1087', 'focus:0.0915', 'pretty:0.085', 'added:0.0658', 'week:0.0606', 'thatd:0.0505', 'helga:0.0445', 'thousand:0.0441', 'possible:0.028']+titles_keywords+['osce:0.4352', 'ukraine:0.3557', 'members:0.1999', 'deprived:0.1945', 'mission:0.176']"
+        ]
+    ],
+    "GBR+RUS+90":[
+        [
+            "20220516+../news_crawling/RUS_UKR/p_articles/msn.com/Christopher Steele the spy behind the discredited pee tape Trump dossier says sources tell him.txt+eventbasecode90+eventcode90+avgtone0.4911971830985915+goldsteinscale0.4+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.006578947368421052+news_keywords+['putin:0.5442', 'dossier:0.4497', 'kgb:0.4389', 'spy:0.3613', 'steele:0.3441', 'investigative:0.3397', 'oligarch:0.3332', 'political:0.2782', 'evidence:0.2644', 'newspaper:0.2515', 'coup:0.2448', 'rumor:0.2323', 'concern:0.2257', 'report:0.2238', 'discredited:0.2041', 'proekt:0.1893', 'career:0.1775', 'record:0.1659', 'week:0.1498', 'old:0.1477', 'thyroid:0.1439', 'incurable:0.1327', 'follow:0.1287', 'shoigu:0.1286', 'quite:0.1234', 'pee:0.1133', 'lines:0.0981', 'multiple:0.0858', 'panoply:0.0778', 'exactly:0.0765']+titles_keywords+['putin:0.5318', 'dossier:0.4813', 'steele:0.4003', 'sources:0.3479', 'discredited:0.2407']"
+        ]
+    ],
+    "RUS+GBR+90":[
+        [
+            "20220819+../news_crawling/RUS_UKR/p_articles/msn.com/Vladimir Putin is losing information war in Ukraine says UK spy chief.txt+eventbasecode90+eventcode90+avgtone0.4569327731092438+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['cyberwar:0.5436', 'putin:0.5177', 'crimea:0.4358', 'russias:0.4345', 'propaganda:0.403', 'invade:0.3597', 'spy:0.3294', 'gchq:0.3151', 'malware:0.2751', 'military:0.2718', 'information:0.2684', 'destroy:0.2577', 'victims:0.2397', 'climate:0.2372', 'annex:0.2316', 'chaos:0.2214', 'modern:0.2105', 'warn:0.2035', 'fentanyl:0.1761', 'confusion:0.1684', 'immediate:0.1585', 'prove:0.151', 'viasat:0.15', 'significant:0.1309', 'prior:0.1102', 'inbox:0.1071', 'month:0.1022', 'story:0.1021', 'far:0.0943', 'thats:0.0918']+titles_keywords+['putin:0.4487', 'losing:0.3329', 'information:0.2174', 'says:0.112', 'uk:0.1115']"
+        ]
+    ],
+    "RUS+RUS+90":[
+        [
+            "20220821+../news_crawling/RUS_UKR/p_articles/msn.com/Daughter of top Putin ally Alexander Dugin who pushed for Ukraine invasion killed by car.txt+eventbasecode90+eventcode90+avgtone0.4794952681388013+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['putin:0.5017', 'tsargrad:0.4542', 'ukrainians:0.4138', 'zelenskyy:0.363', 'terrorist:0.3369', 'news:0.3046', 'strategist:0.2775', 'invasion:0.2728', 'kill:0.2682', 'separatist:0.2625', 'provocation:0.2531', 'concern:0.2481', 'month:0.2374', 'report:0.1964', 'power:0.1963', 'weapon:0.1936', 'daria:0.1919', 'continue:0.1916', 'detonate:0.1914', 'dugin:0.1829', 'th:0.1819', 'night:0.1794', 'plant:0.1752', 'milestone:0.1687', 'familiar:0.1615', 'meant:0.1574', 'increase:0.1516', 'forefront:0.1422', 'address:0.1349', 'beautiful:0.1031']+titles_keywords+['putin:0.4206', 'dugin:0.2998', 'bomb:0.2928', 'killed:0.2716', 'daughter:0.2091']"
+        ]
+    ],
+    "RUS+UKR+90":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/msn.com/I cant keep up Russia is losing so much military equipment in Ukraine that weapons.txt+eventbasecode90+eventcode90+avgtone0.47738095238095235+goldsteinscale0.4+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['counterinsurgency:0.4647', 'organisation:0.4042', 'kyiv:0.3865', 'russias:0.3719', 'regiment:0.3528', 'pentagon:0.3132', 'investigative:0.3066', 'history:0.2932', 'expert:0.2894', 'anonymity:0.2825', 'project:0.2719', 'news:0.2674', 'missile:0.2529', 'type:0.252', 'help:0.2381', 'backlog:0.2252', 'unmanageable:0.2225', 'increase:0.2144', 'carry:0.2063', 'forget:0.2056', 'long:0.1971', 'gon:0.178', 'tiktok:0.1773', 'begin:0.1755', 'disseminate:0.1673', 'compare:0.1597', 'scroll:0.1594', 'fog:0.1562', 'arent:0.151', 'total:0.151']+titles_keywords+['ukraine:0.4287', 'military:0.2641', 'losing:0.2437', 'monitors:0.2437', 'overwhelmed:0.1664']"
+        ],
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/msn.com/The war in Ukraine underscores a moment of democratic crisis.txt+eventbasecode90+eventcode90+avgtone0.48592870544090055+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.5049', 'geopolitical:0.4606', 'kremlin:0.4405', 'nato:0.4255', 'autocracy:0.3176', 'globe:0.2773', 'reelection:0.2591', 'bloc:0.2403', 'embolden:0.2262', 'concern:0.2232', 'orban:0.2223', 'strategist:0.2196', 'stem:0.2135', 'future:0.2114', 'read:0.2078', 'polarization:0.2053', 'deploy:0.1873', 'symbolism:0.1854', 'fight:0.1752', 'end:0.1652', 'turn:0.1623', 'independent:0.1619', 'people:0.1617', 'know:0.1587', 'backsliding:0.1532', 'general:0.1523', 'spearhead:0.1431', 'prognostication:0.1137', 'house:0.1058', 'similar:0.1051']+titles_keywords+['ukraine:0.4724', 'democratic:0.4694', 'war:0.431', 'moment:0.2537', 'underscores:0.0912']"
+        ]
+    ],
+    "RUS+USA+90":[
+        []
+    ],
+    "SLE+RUS+90":[
+        []
+    ],
+    "UKR+RUS+90":[
+        [],
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/msn.com/Chernobyl Exclusion Zone radiation monitoring system not working firm says.txt+eventbasecode90+eventcode90+avgtone0.47069597069597074+goldsteinscale0.4+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.003289473684210526+news_keywords+['chernobyl:0.6385', 'nuclear:0.4174', 'radioactively:0.3294', 'ukrainian:0.2756', 'safety:0.2589', 'operate:0.2269', 'zone:0.1925', 'current:0.186', 'monitoring:0.1837', 'news:0.1609', 'replace:0.1531', 'plant:0.1495', 'election:0.1353', 'exclusion:0.1296', 'burn:0.1259', 'forget:0.1241', 'deterioration:0.1215', 'data:0.1195', 'unprovoked:0.1177', 'feb:0.1103', 'automate:0.1074', 'accord:0.0989', 'begin:0.0975', 'home:0.085', 'level:0.0839', 'send:0.0638', 'restore:0.0551', 'hour:0.0487', 'possible:0.0466', 'limit:0.0338']+titles_keywords+['chernobyl:0.4592', 'monitoring:0.2048', 'zone:0.0836', 'firm:0.0725', 'says:0.0484']"
+        ],
+        [],
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/msn.com/Looming ground battle is crucial phase in Ukraine US officials say.txt+eventbasecode90+eventcode90+avgtone0.48524150268336314+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.4474', 'nato:0.3948', 'tactical:0.335', 'moscows:0.335', 'war:0.3119', 'preparedness:0.3024', 'pentagon:0.2837', 'redeploy:0.2587', 'takeover:0.2358', 'howitzer:0.2214', 'future:0.2142', 'incoming:0.2015', 'turn:0.1918', 'modernize:0.1815', 'push:0.1785', 'know:0.1783', 'discus:0.1778', 'oppose:0.1766', 'long:0.1706', 'contrast:0.1662', 'simultaneous:0.1495', 'range:0.1475', 'subject:0.1417', 'feb:0.129', 'secretary:0.1172', 'overestimation:0.1127', 'biden:0.0996', 'largely:0.0805', 'gen:0.0729', 'mm:0.0632']+titles_keywords+['battle:0.3435', 'ukraine:0.2618', 'looming:0.2489', 'ground:0.2241', 'phase:0.1463']"
+        ],
+        [
+            "20220707+../news_crawling/RUS_UKR/p_articles/msn.com/John Ivison Ottawas bureaucratic machine wants a vacation Ukraine still needs us.txt+eventbasecode90+eventcode90+avgtone0.4428571428571425+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.003289473684210526+news_keywords+['ukraine:0.4878', 'natos:0.3988', 'diplomat:0.3212', 'blockade:0.3008', 'crisis:0.2824', 'war:0.2693', 'urgent:0.2529', 'provide:0.2396', 'parliament:0.2366', 'economic:0.2325', 'kovalivs:0.231', 'plan:0.2291', 'embattled:0.2222', 'ottawas:0.2151', 'capital:0.2069', 'replace:0.2056', 'future:0.2042', 'speak:0.1909', 'systems:0.182', 'arrive:0.1818', 'term:0.1797', 'reconstruction:0.1776', 'end:0.1601', 'winter:0.1454', 'rail:0.1429', 'export:0.1383', 'longer:0.1361', 'john:0.1355', 'unlike:0.1088', 'bit:0.0785']+titles_keywords+['ukraine:0.403', 'bureaucratic:0.3949', 'ottawas:0.3834', 'ivison:0.3534', 'vacation:0.3359']"
+        ]
+    ],
+    "USA+UKR+90":[
+        []
+    ]
+}

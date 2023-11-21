@@ -1,0 +1,15 @@
+{
+    "GBR+UKR+12":[
+        [
+            "20220211+../news_crawling/RUS_UKR/p_articles/braintreeandwithamtimes.co.uk/Britons told to leave Ukraine immediately amid threat of invasion by Russia.txt+eventbasecode12+eventcode12+avgtone0.4864253393665159+goldsteinscale0.48+nummentions0.06386066763425254+numarticles0.06453952139231327+numsources0.09539473684210527+news_keywords+['ukraine:0.4496', 'natos:0.4191', 'evacuate:0.404', 'putin:0.3975', 'invasion:0.3602', 'war:0.3195', 'threat:0.3111', 'readiness:0.3023', 'diplomatic:0.2889', 'troop:0.2521', 'boris:0.2444', 'britons:0.2309', 'immediate:0.2175', 'adviser:0.2106', 'soon:0.2074', 'news:0.1887', 'macron:0.1818', 'come:0.1731', 'order:0.1655', 'winter:0.1628', 'understand:0.1505', 'end:0.1447', 'current:0.1434', 'hour:0.1427', 'say:0.1186', 'grow:0.0928', 'possibility:0.0892', 'mount:0.0875', 'plus:0.0731', 'theres:0.0307']+titles_keywords+['ukraine:0.4107', 'leave:0.3011', 'britons:0.2964', 'invasion:0.2962', 'immediately:0.1903']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220120+../news_crawling/RUS_UKR/p_articles/braintreeandwithamtimes.co.uk/Boris Johnson warns of disaster for Russia if it invades Ukraine.txt+eventbasecode12+eventcode12+avgtone0.4795918367346939+goldsteinscale0.48+nummentions0.14150943396226415+numarticles0.14213197969543148+numsources0.1611842105263158+news_keywords+['putin:0.4721', 'russias:0.4064', 'invade:0.3932', 'nato:0.3902', 'kiev:0.3616', 'war:0.3162', 'strategic:0.2888', 'sovereignty:0.2538', 'incursion:0.2525', 'warn:0.2429', 'destabilise:0.2363', 'border:0.2323', 'prepare:0.2272', 'concern:0.2162', 'news:0.1979', 'debate:0.1928', 'downing:0.1853', 'order:0.1633', 'uks:0.163', 'secretary:0.1538', 'thursday:0.1469', 'look:0.1301', 'mistake:0.1241', 'closely:0.1157', 'deep:0.113', 'believe:0.1078', 'withdraw:0.1036', 'agree:0.1012', 'scale:0.0902', 'blinken:0.0745']+titles_keywords+['boris:0.3996', 'ukraine:0.3392', 'invades:0.2391', 'disaster:0.2226', 'warns:0.1992']"
+        ],
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/braintreeandwithamtimes.co.uk/Ukrainians claim to have retaken ground from Russia ahead of latest talks.txt+eventbasecode12+eventcode12+avgtone0.4800824175824176+goldsteinscale0.48+nummentions0.03483309143686502+numarticles0.03553299492385787+numsources0.0625+news_keywords+['kyiv:0.5114', 'ukraines:0.4745', 'ceasefire:0.4447', 'kremlin:0.4395', 'natos:0.3929', 'deploy:0.2901', 'separatist:0.2871', 'territory:0.2659', 'strategic:0.2347', 'combine:0.2122', 'progress:0.2121', 'forward:0.2053', 'fled:0.2033', 'flank:0.2017', 'trostyanets:0.1983', 'reporter:0.1932', 'general:0.1917', 'donbas:0.182', 'emphasise:0.1819', 'want:0.1746', 'regional:0.1741', 'outage:0.1676', 'end:0.1625', 'fall:0.135', 'longer:0.1344', 'ready:0.1289', 'right:0.123', 'retake:0.1209', 'gas:0.1179', 'population:0.091']+titles_keywords+['ukrainians:0.3996', 'retaken:0.2527', 'ground:0.1367', 'talks:0.1278', 'latest:0.0407']"
+        ]
+    ]
+}

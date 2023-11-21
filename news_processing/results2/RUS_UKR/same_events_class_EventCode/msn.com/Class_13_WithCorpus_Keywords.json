@@ -1,0 +1,97 @@
+{
+    "BEL+UKR+13":[
+        []
+    ],
+    "CHN+RUS+13":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/msn.com/Only China can stop Russia now Heres why it makes sense for Xi to help.txt+eventbasecode13+eventcode13+avgtone0.49764150943396224+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4597', 'russias:0.381', 'sino:0.3143', 'jinping:0.265', 'table:0.2325', 'turmoil:0.2272', 'world:0.2269', 'outcome:0.2242', 'bargaining:0.2131', 'congresswill:0.21', 'climate:0.2076', 'historyand:0.1896', 'boilerplate:0.1853', 'agendais:0.1796', 'report:0.1741', 'omission:0.1679', 'telegraph:0.1649', 'meet:0.1621', 'turn:0.1573', 'disconnect:0.1468', 'feb:0.1401', 'strong:0.1316', 'deepen:0.1304', 'awaits:0.1293', 'red:0.1165', 'general:0.1014', 'true:0.0851', 'yes:0.0732', 'includingtempering:0.0728', 'triangulation:0.0636']+titles_keywords+['putin:0.4297', 'xi:0.2686', 'china:0.2566', 'makes:0.1434', 'help:0.1381']"
+        ],
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/msn.com/China vows to support Putin on Russias sovereignty and security.txt+eventbasecode13+eventcode13+avgtone0.48635409377186845+goldsteinscale0.52+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4388', 'kremlin:0.39', 'diplomatic:0.3472', 'invade:0.2999', 'accompany:0.2296', 'bridge:0.1938', 'history:0.1904', 'macron:0.1877', 'retaliation:0.1837', 'know:0.1802', 'relation:0.1777', 'alignment:0.1639', 'event:0.1608', 'afp:0.1584', 'proximity:0.1579', 'imminent:0.1557', 'world:0.1543', 'term:0.1471', 'industrial:0.146', 'dongpinghu:0.1412', 'buildup:0.1373', 'citing:0.137', 'th:0.1351', 'torpedo:0.1307', 'long:0.1266', 'trade:0.1257', 'bilateral:0.1161', 'monitoring:0.1155', 'winter:0.115', 'contrary:0.1129']+titles_keywords+['putin:0.3963', 'russias:0.3515', 'china:0.2574', 'sovereignty:0.2565', 'support:0.1075']"
+        ]
+    ],
+    "DEU+RUS+13":[
+        []
+    ],
+    "FRA+RUS+13":[
+        []
+    ],
+    "GBR+RUS+13":[
+        []
+    ],
+    "IRL+UKR+13":[
+        []
+    ],
+    "QAT+RUS+13":[
+        []
+    ],
+    "RUS+AUS+13":[
+        []
+    ],
+    "RUS+FIN+13":[
+        []
+    ],
+    "RUS+FRA+13":[
+        []
+    ],
+    "RUS+JPN+13":[
+        []
+    ],
+    "RUS+RUS+13":[
+        [],
+        []
+    ],
+    "RUS+UKR+13":[
+        [],
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/msn.com/Russians still backing government but that could change expert says.txt+eventbasecode13+eventcode13+avgtone0.48118279569892475+goldsteinscale0.52+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.01644736842105263+news_keywords+['ukraine:0.468', 'putin:0.4554', 'geopolitical:0.3195', 'war:0.2859', 'oligarch:0.26', 'evacuate:0.2349', 'rhetoric:0.1831', 'continue:0.1812', 'change:0.1768', 'appear:0.1519', 'wmur:0.1517', 'rally:0.1465', 'sanction:0.1298', 'civilian:0.1274', 'sign:0.111', 'friday:0.111', 'large:0.1099', 'horrify:0.108', 'eventually:0.1075', 'current:0.1064', 'point:0.1036', 'population:0.1017', 'reading:0.0976', 'say:0.0928', 'influence:0.0875', 'william:0.078', 'focus:0.0751', 'acknowledgment:0.0544', 'percolate:0.044', 'set:0.0305']+titles_keywords+['russians:0.4299', 'government:0.2198', 'backing:0.2036', 'change:0.089', 'expert:0.0853']",
+            "20220324+../news_crawling/RUS_UKR/p_articles/msn.com/Sergei Shoigu Amid speculation over his whereabouts Russias defense minister resurfaces.txt+eventbasecode13+eventcode13+avgtone0.48382923673997413+goldsteinscale0.52+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['putin:0.542', 'kyiv:0.4078', 'peskov:0.3783', 'news:0.3412', 'shoigu:0.3095', 'investigative:0.3039', 'pentagon:0.2815', 'report:0.2694', 'operation:0.2664', 'secretary:0.2629', 'troop:0.2563', 'agenstvo:0.2541', 'sanction:0.2384', 'know:0.2266', 'procurement:0.224', 'separatist:0.2201', 'change:0.2169', 'unplanned:0.2129', 'participant:0.2095', 'cite:0.2071', 'interrupt:0.2026', 'televised:0.1941', 'speculate:0.188', 'donbas:0.1813', 'february:0.1738', 'reportedly:0.1682', 'longstanding:0.1676', 'state:0.1484', 'resurfaces:0.1094', 'disprove:0.1076']+titles_keywords+['shoigu:0.4284', 'sergei:0.3556', 'resurfaces:0.3155', 'minister:0.2391', 'speculation:0.1713']"
+        ],
+        [],
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/msn.com/Russianbacked separatists put pressure on Ukrainian strongholds in Luhansk.txt+eventbasecode13+eventcode13+avgtone0.47176079734219273+goldsteinscale0.52+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.003289473684210526+news_keywords+['ukraine:0.486', 'ceasefires:0.428', 'kremlin:0.4235', 'separatist:0.3651', 'evacuate:0.325', 'russianbacked:0.3244', 'territory:0.292', 'zelenskyy:0.2592', 'arrange:0.258', 'shrapnel:0.2482', 'military:0.2411', 'attack:0.238', 'rebuild:0.2268', 'progress:0.2207', 'railway:0.2182', 'push:0.2116', 'sievierodonetsks:0.206', 'tell:0.2018', 'sabotage:0.1994', 'exacerbate:0.1975', 'type:0.1973', 'adviser:0.19', 'donbas:0.1672', 'hub:0.1637', 'word:0.1532', 'end:0.1507', 'right:0.1432', 'population:0.1308', 'upper:0.1306', 'month:0.1283']+titles_keywords+['ukrainian:0.3851', 'luhansk:0.3836', 'separatists:0.352', 'strongholds:0.2368', 'pressure:0.2005']"
+        ],
+        [],
+        [
+            "20220704+../news_crawling/RUS_UKR/p_articles/msn.com/Luhansk has fallen but theres a reason why Russian generals will not be celebrating.txt+eventbasecode13+eventcode13+avgtone0.49296875+goldsteinscale0.52+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['kyiv:0.5459', 'kremlin:0.4063', 'dvornikov:0.2914', 'outcome:0.2885', 'tactical:0.2773', 'progress:0.2424', 'westward:0.2402', 'telegraph:0.2399', 'liberate:0.2317', 'lysychansk:0.2258', 'fall:0.2257', 'agenda:0.223', 'anticipate:0.2166', 'inaccurately:0.1984', 'happy:0.195', 'continue:0.1936', 'fight:0.1929', 'important:0.1828', 'order:0.1787', 'fanfare:0.1717', 'folly:0.1704', 'repurposing:0.1636', 'direct:0.163', 'ignore:0.1564', 'area:0.1512', 'suddenly:0.1507', 'make:0.1419', 'sign:0.1407', 'page:0.1336', 'welcome:0.1084']+titles_keywords+['luhansk:0.443', 'russian:0.3477', 'generals:0.3377', 'celebrating:0.2997', 'theres:0.1181']"
+        ],
+        [
+            "20220720+../news_crawling/RUS_UKR/p_articles/msn.com/How Ukraines CounterOffensive Could Turn War Against Russia.txt+eventbasecode13+eventcode13+avgtone0.4846870838881492+goldsteinscale0.52+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['crimea:0.4716', 'kremlin:0.413', 'ukrainians:0.4087', 'war:0.3576', 'blockade:0.3078', 'strategic:0.2719', 'turn:0.2503', 'zelensky:0.2341', 'tank:0.224', 'know:0.2081', 'prepare:0.1985', 'counteroffensive:0.1817', 'explain:0.1805', 'industrial:0.1763', 'stay:0.1714', 'river:0.1639', 'push:0.1602', 'derail:0.1598', 'occupier:0.1523', 'redirect:0.1376', 'acquire:0.1294', 'recapturing:0.1271', 'long:0.1241', 'end:0.1187', 'near:0.1111', 'bucha:0.1039', 'hub:0.101', 'way:0.0931', 'articles:0.0874', 'million:0.074']+titles_keywords+['ukraines:0.5053', 'war:0.3939', 'russia:0.3742', 'turn:0.2742', 'counteroffensive:0.2414']"
+        ],
+        []
+    ],
+    "RUS+USA+13":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/msn.com/Biden announces ban on all Russian energy imports over Ukraine invasion experts expect gas price.txt+eventbasecode13+eventcode13+avgtone0.47305389221556887+goldsteinscale0.52+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.009868421052631578+news_keywords+['putin:0.4866', 'exxonmobil:0.4176', 'oil:0.3837', 'economy:0.3453', 'venezuela:0.3173', 'energyproducts:0.3099', 'statesbanning:0.2748', 'agenda:0.2711', 'bipartisan:0.2477', 'allrussian:0.2434', 'gallon:0.2379', 'cite:0.2334', 'news:0.2199', 'retaliation:0.2155', 'psaki:0.1913', 'bidens:0.1891', 'import:0.1873', 'seeprices:0.1827', 'expect:0.1759', 'insulate:0.1757', 'parse:0.1746', 'statement:0.1666', 'covid:0.166', 'coordinate:0.1603', 'begin:0.156', 'haan:0.1523', 'decrease:0.1518', 'chain:0.1454', 'powerful:0.1443', 'shortly:0.1297']+titles_keywords+['ukraine:0.3322', 'biden:0.3141', 'gas:0.256', 'ban:0.254', 'price:0.1335']"
+        ],
+        [
+            "20220402+../news_crawling/RUS_UKR/p_articles/msn.com/No recession but a growth slowdown due to RussiaUkraine war EU economics chief says.txt+eventbasecode13+eventcode13+avgtone0.4713930348258707+goldsteinscale0.52+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['recession:0.4986', 'russiaukraine:0.3756', 'economist:0.3647', 'reuters:0.357', 'war:0.2854', 'forecast:0.2715', 'pandemic:0.2667', 'trigger:0.2331', 'prepare:0.2286', 'bipartisan:0.2194', 'revise:0.2128', 'bloc:0.2127', 'euro:0.2118', 'sanction:0.2084', 'projection:0.2031', 'sector:0.1942', 'risk:0.1865', 'reassure:0.1822', 'divergence:0.1711', 'emphasize:0.1681', 'stay:0.1548', 'issue:0.1521', 'rational:0.1511', 'gentiloni:0.1451', 'slowdown:0.13', 'overall:0.1215', 'saturday:0.1078', 'new:0.0989', 'longer:0.0958', 'sure:0.0917']+titles_keywords+['recession:0.5086', 'eu:0.2825', 'slowdown:0.2625', 'russiaukraine:0.257', 'says:0.0365']"
+        ],
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/msn.com/The false promises of Bidens Ukrainian refugee program.txt+eventbasecode13+eventcode13+avgtone0.4866995073891626+goldsteinscale0.52+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['refugee:0.4626', 'ukraines:0.4184', 'uscis:0.3734', 'residency:0.3336', 'undocumented:0.3101', 'war:0.2909', 'prospective:0.2698', 'policymakers:0.2667', 'rhetoric:0.2498', 'dispensation:0.2452', 'biden:0.2408', 'proceed:0.2328', 'stay:0.2245', 'allow:0.2176', 'uniting:0.2127', 'pathway:0.2067', 'want:0.2039', 'relations:0.2012', 'opportunity:0.2012', 'lillianposner:0.1868', 'employ:0.1866', 'extend:0.1733', 'forget:0.155', 'long:0.1462', 'program:0.1444', 'twist:0.1325', 'numerous:0.1245', 'ideally:0.1225', 'year:0.1189', 'integrate:0.0935']+titles_keywords+['refugee:0.589', 'ukrainian:0.4471', 'bidens:0.242', 'false:0.1729', 'program:0.1436']"
+        ]
+    ],
+    "UKR+RUS+13":[
+        [],
+        [],
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/msn.com/Ukrainian rescuers search theater rubble as Russian attacks continue.txt+eventbasecode13+eventcode13+avgtone0.47181551976573943+goldsteinscale0.52+nummentions0.04898403483309144+numarticles0.049673676577229875+numsources0.06907894736842106+news_keywords+['kyiv:0.5196', 'putin:0.4353', 'airstrikes:0.4135', 'correspondent:0.3738', 'nato:0.3445', 'emergency:0.3119', 'news:0.2978', 'unrest:0.2888', 'troop:0.2741', 'warn:0.2406', 'expand:0.2368', 'rubble:0.2326', 'unprovoked:0.2308', 'theater:0.229', 'column:0.229', 'administration:0.2264', 'separatist:0.2228', 'telegram:0.2067', 'march:0.2044', 'fight:0.1922', 'north:0.1824', 'anonymity:0.176', 'bash:0.1739', 'cover:0.1728', 'house:0.1713', 'list:0.1553', 'ready:0.1323', 'reminiscent:0.1164', 'thousand:0.0999', 'true:0.0847']+titles_keywords+['ukrainian:0.3444', 'rubble:0.3189', 'rescuers:0.2748', 'search:0.2576', 'attacks:0.1824']"
+        ],
+        [
+            "20220417+../news_crawling/RUS_UKR/p_articles/msn.com/Zelensky calls situation in Mariupol inhuman.txt+eventbasecode13+eventcode13+avgtone0.48266666666666674+goldsteinscale0.52+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.006578947368421052+news_keywords+['ukraine:0.4496', 'zelensky:0.4114', 'nato:0.3756', 'blockade:0.3644', 'militarily:0.3355', 'war:0.3135', 'negotiation:0.299', 'destroy:0.2469', 'remain:0.2188', 'escalate:0.2148', 'realize:0.2128', 'president:0.204', 'help:0.1973', 'pavlo:0.1865', 'cnn:0.1783', 'want:0.1741', 'worry:0.1668', 'ally:0.1667', 'address:0.1591', 'western:0.1506', 'long:0.1443', 'right:0.1314', 'severe:0.1272', 'heard:0.1265', 'virtual:0.1249', 'successfully:0.1159', 'mariupol:0.1138', 'friday:0.1058', 'zone:0.0846', 'percent:0.0309']+titles_keywords+['zelensky:0.5173', 'mariupol:0.4065', 'inhuman:0.3093', 'situation:0.1835', 'calls:0.092']"
+        ],
+        [],
+        []
+    ],
+    "UKR+USA+13":[
+        [
+            "20220612+../news_crawling/RUS_UKR/p_articles/msn.com/Explosive mines bring dangerous beach season to Ukraine.txt+eventbasecode13+eventcode13+avgtone0.4735413839891452+goldsteinscale0.52+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.4536', 'hazardous:0.3486', 'blockade:0.284', 'ordnance:0.2795', 'peaceful:0.2658', 'reuters:0.2607', 'invasion:0.2435', 'report:0.2431', 'blast:0.2321', 'police:0.1999', 'beachgoers:0.1997', 'underwater:0.1994', 'command:0.1928', 'month:0.1893', 'current:0.1874', 'reminder:0.1817', 'specify:0.1785', 'weather:0.1729', 'device:0.1541', 'begin:0.1507', 'unpack:0.1488', 'video:0.1383', 'problem:0.137', 'enjoy:0.1253', 'corridor:0.1223', 'mevlut:0.1201', 'mines:0.1012', 'grow:0.0975', 'andriy:0.0861', 'accord:0.0607']+titles_keywords+['beach:0.3919', 'ukraine:0.3914', 'dangerous:0.2806', 'season:0.1867', 'mines:0.106']"
+        ]
+    ],
+    "USA+RUS+13":[
+        []
+    ],
+    "WST+RUS+13":[
+        []
+    ]
+}

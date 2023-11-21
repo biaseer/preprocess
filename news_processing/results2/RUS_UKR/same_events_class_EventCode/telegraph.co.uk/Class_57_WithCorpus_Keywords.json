@@ -1,0 +1,12 @@
+{
+    "FRA+RUS+57":[
+        [
+            "20220812+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Ukraine accuses Russia of firing from Zaporizhzhia power station.txt+eventbasecode57+eventcode57+avgtone0.4682539682539682+goldsteinscale0.9+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.006578947368421052+news_keywords+['crimeacontradicted:0.5944', 'ukrainehas:0.5828', 'putin:0.4672', 'russias:0.4274', 'ukrainianeurovisionwinner:0.4063', 'soyuz:0.3778', 'chernobyl:0.3565', 'diplomacy:0.3374', 'correspondent:0.3157', 'russophobic:0.3059', 'headline:0.2783', 'disrupt:0.2758', 'nations:0.2356', 'afp:0.2209', 'pipeline:0.2187', 'allegation:0.2184', 'revise:0.2141', 'briefed:0.2127', 'power:0.202', 'shiver:0.2013', 'soon:0.1848', 'continue:0.1826', 'data:0.1773', 'morning:0.1731', 'long:0.1606', 'want:0.1599', 'counteroffensive:0.1385', 'exactly:0.1369', 'delhi:0.1313', 'total:0.0941']+titles_keywords+['ukraine:0.4487', 'zaporizhzhia:0.3874', 'firing:0.2383', 'accuses:0.1989', 'station:0.1114']"
+        ]
+    ],
+    "GBR+UKR+57":[
+        [
+            "20211117+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/UK agrees to sell warships and missiles to Ukraine as tensions with Russia grow.txt+eventbasecode57+eventcode57+avgtone0.4833024118738405+goldsteinscale0.9+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['nato:0.4505', 'treaty:0.4004', 'putin:0.3977', 'kyiv:0.3863', 'procurement:0.2964', 'provoke:0.2797', 'reconnaissance:0.272', 'strategically:0.2615', 'divert:0.2524', 'frigate:0.2421', 'telegraph:0.2395', 'crisis:0.2148', 'countermeasure:0.2081', 'buy:0.1942', 'understand:0.1924', 'mps:0.1889', 'cabinet:0.1861', 'weapon:0.1861', 'historical:0.1821', 'prepare:0.182', 'power:0.1818', 'orchestrate:0.1746', 'write:0.1684', 'liaison:0.1629', 'sure:0.1535', 'enhance:0.1501', 'include:0.1147', 'weve:0.1045', 'export:0.0928', 'agree:0.0865']+titles_keywords+['ukraine:0.3402', 'warships:0.3048', 'sell:0.2351', 'tensions:0.1334', 'agrees:0.0532']"
+        ]
+    ]
+}

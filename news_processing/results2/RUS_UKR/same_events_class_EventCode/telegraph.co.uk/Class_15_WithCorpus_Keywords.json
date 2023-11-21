@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+15":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Putin might just settle for a land grab and leave the puppet regime aside if.txt+eventbasecode15+eventcode15+avgtone0.4859550561797753+goldsteinscale0.5+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.04276315789473684+news_keywords+['crimea:0.4866', 'putins:0.4078', 'dmitry:0.3752', 'invade:0.3447', 'truce:0.3046', 'nato:0.2955', 'want:0.2497', 'puppet:0.2496', 'regime:0.2397', 'macron:0.2366', 'land:0.2315', 'deal:0.2241', 'separatist:0.2208', 'grab:0.1784', 'expect:0.1769', 'unlikely:0.1562', 'meet:0.151', 'know:0.1508', 'objectives:0.1466', 'end:0.1454', 'suggest:0.1356', 'turn:0.1344', 'mr:0.1208', 'large:0.0953', 'blame:0.0855', 'prove:0.0808', 'instal:0.0794', 'enshrine:0.0357', 'today:0.0254', 'whodid:0.0216']+titles_keywords+['putin:0.4628', 'peace:0.2789', 'land:0.2317', 'grab:0.1055', 'price:0.0989']"
+        ],
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Russian soldier pleads guilty at first Kyiv war crimes trial.txt+eventbasecode15+eventcode15+avgtone0.43141592920354+goldsteinscale0.5+nummentions0.6552975326560232+numarticles0.6519216823785352+numsources0.41776315789473684+news_keywords+['kyiv:0.4321', 'russian:0.4063', 'kremlin:0.3555', 'defendant:0.3492', 'kalashnikov:0.3412', 'sergeant:0.3387', 'pleads:0.3266', 'murder:0.2954', 'war:0.285', 'accuse:0.2552', 'guilty:0.2527', 'tank:0.2038', 'invasion:0.2024', 'shishimarin:0.1932', 'command:0.1495', 'hoodie:0.1401', 'read:0.1369', 'look:0.1335', 'facing:0.1329', 'youthful:0.1321', 'come:0.1277', 'sumy:0.1245', 'order:0.1199', 'day:0.1116', 'ground:0.1016', 'year:0.08', 'possible:0.0795', 'according:0.0729', 'district:0.0654', 'shave:0.0187']+titles_keywords+['kyiv:0.4261', 'russian:0.3761', 'pleads:0.2849', 'soldier:0.241', 'crimes:0.1416']"
+        ]
+    ]
+}

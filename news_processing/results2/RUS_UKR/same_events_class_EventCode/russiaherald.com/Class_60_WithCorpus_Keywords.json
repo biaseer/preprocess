@@ -1,0 +1,22 @@
+{
+    "EUR+UKR+60":[
+        [
+            "20220522+../news_crawling/RUS_UKR/p_articles/russiaherald.com/GLOBALink Russia publishes long list of Americans banned from entry.txt+eventbasecode60+eventcode60+avgtone0.47844827586206895+goldsteinscale0.8+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['russia:0.5508', 'blacklist:0.3339', 'gazprom:0.2985', 'xinhua:0.265', 'retaliation:0.2528', 'citizens:0.2338', 'impose:0.2259', 'globalink:0.2237', 'supply:0.2164', 'emergency:0.2021', 'statement:0.197', 'continue:0.1967', 'biden:0.1965', 'entry:0.1881', 'ottawa:0.1817', 'euro:0.174', 'publishes:0.1715', 'day:0.1531', 'long:0.1432', 'macro:0.1315', 'february:0.1307', 'tranche:0.1247', 'receive:0.1217', 'state:0.1195', 'billion:0.116', 'proper:0.1004', 'previously:0.0963', 'justin:0.0852', 'cubic:0.0652', 'allocate:0.0607']+titles_keywords+['russia:0.3746', 'globalink:0.3146', 'list:0.2775', 'banned:0.2537', 'publishes:0.146']"
+        ]
+    ],
+    "HUN+UKR+60":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Hungary weighs in on reasons for Ukraine war.txt+eventbasecode60+eventcode60+avgtone0.48137254901960785+goldsteinscale0.8+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4644', 'nato:0.4518', 'putin:0.3743', 'hungarian:0.3703', 'war:0.3615', 'orban:0.3288', 'neutrality:0.2454', 'eastward:0.2325', 'argument:0.2076', 'unprovoked:0.2012', 'president:0.1971', 'talk:0.19', 'bloc:0.1735', 'issue:0.1715', 'explain:0.1679', 'continue:0.165', 'relation:0.1623', 'sanction:0.1557', 'long:0.1502', 'purchase:0.1495', 'transit:0.1493', 'table:0.1356', 'arm:0.1248', 'unity:0.1204', 'soon:0.1123', 'allow:0.1096', 'recent:0.0914', 'mount:0.0897', 'denazify:0.0858', 'possible:0.0676']+titles_keywords+['ukraine:0.4574', 'hungary:0.3916', 'war:0.3004', 'reasons:0.2665', 'weighs:0.0812']"
+        ]
+    ],
+    "KOR+UKR+60":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/russiaherald.com/South Korea to provide Ukraine with military materiel except for weapons Defense Ministry.txt+eventbasecode60+eventcode60+avgtone0.5098522167487685+goldsteinscale0.8+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['ukraine:0.4727', 'seoul:0.3892', 'military:0.3057', 'humanitarian:0.3016', 'demilitarize:0.2796', 'operation:0.2725', 'briefing:0.249', 'weapon:0.2374', 'seung:0.2134', 'help:0.2107', 'infrastructure:0.197', 'negotiations:0.1873', 'purchase:0.1713', 'kit:0.1685', 'shipments:0.1617', 'materiel:0.1561', 'underway:0.1493', 'defense:0.148', 'march:0.1403', 'respond:0.1353', 'anisputnik:0.1264', 'include:0.117', 'begin:0.1039', 'respirator:0.1021', 'phase:0.0977', 'breakaway:0.0846', 'million:0.0841', 'good:0.0823', 'produce:0.0709', 'face:0.0474']+titles_keywords+['ukraine:0.3675', 'weapons:0.2425', 'military:0.2393', 'materiel:0.1802', 'provide:0.1322']"
+        ]
+    ],
+    "RUS+UKR+60":[
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Russian Soldier Pleads Guilty to Killing Ukrainian Civilian.txt+eventbasecode60+eventcode60+avgtone0.447075208913649+goldsteinscale0.8+nummentions0.02830188679245283+numarticles0.029006526468455404+numsources0.11513157894736842+news_keywords+['kyiv:0.4578', 'russians:0.3684', 'kalashnikov:0.3545', 'victim:0.3324', 'venediktova:0.3081', 'pleads:0.2945', 'war:0.2878', 'crime:0.2868', 'kill:0.2844', 'civilian:0.2752', 'atrocity:0.236', 'incident:0.2287', 'guilty:0.2267', 'report:0.2016', 'sentence:0.1912', 'absentia:0.1873', 'video:0.1832', 'hear:0.1557', 'shishimarin:0.1494', 'month:0.1375', 'international:0.134', 'order:0.1321', 'way:0.1175', 'round:0.1075', 'late:0.1073', 'meter:0.1018', 'produce:0.0883', 'house:0.088', 'potential:0.0623', 'include:0.0509']+titles_keywords+['russian:0.3844', 'soldier:0.3039', 'pleads:0.2323', 'guilty:0.1895', 'killing:0.1837']"
+        ]
+    ]
+}

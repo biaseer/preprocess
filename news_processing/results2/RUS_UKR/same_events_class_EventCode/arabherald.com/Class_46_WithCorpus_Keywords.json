@@ -1,0 +1,22 @@
+{
+    "BHR+RUS+46":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/arabherald.com/Putin speaks with King of Bahrain over special military operation to protect Donbass.txt+eventbasecode46+eventcode46+avgtone0.5165289256198347+goldsteinscale0.85+nummentions0.01741654571843251+numarticles0.018129079042784626+numsources0.019736842105263157+news_keywords+['putin:0.4897', 'bahrain:0.4481', 'military:0.2707', 'coronavirus:0.2698', 'economy:0.2654', 'donetsk:0.2526', 'sanction:0.2428', 'talk:0.2422', 'operation:0.2419', 'occupy:0.2361', 'read:0.2321', 'concern:0.2261', 'march:0.2223', 'protect:0.2198', 'develop:0.2191', 'contact:0.2165', 'response:0.2015', 'donbass:0.1984', 'king:0.1949', 'continue:0.1682', 'say:0.1566', 'friendly:0.1562', 'intensify:0.156', 'topical:0.1514', 'ani:0.1271', 'include:0.1081', 'measure:0.1061', 'western:0.1048', 'trade:0.1003', 'agree:0.0517']+titles_keywords+['putin:0.4206', 'bahrain:0.3378', 'donbass:0.2754', 'military:0.2072', 'special:0.1388']"
+        ]
+    ],
+    "BLR+RUS+46":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/arabherald.com/Indian Defence Expert terms ZelenskyyPutin meeting crucial.txt+eventbasecode46+eventcode46+avgtone0.48711340206185566+goldsteinscale0.85+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.04276315789473684+news_keywords+['putin:0.421', 'meeting:0.4079', 'kyiv:0.4029', 'zelenskyyputin:0.3357', 'war:0.3185', 'mediate:0.3007', 'israel:0.2775', 'readiness:0.2769', 'delegation:0.2598', 'crisis:0.2148', 'naftali:0.1902', 'response:0.1809', 'term:0.1737', 'sanction:0.1675', 'chatterjee:0.1597', 'note:0.156', 'host:0.152', 'say:0.1275', 'include:0.1177', 'ani:0.1167', 'february:0.1156', 'state:0.1146', 'request:0.1136', 'discus:0.1097', 'amid:0.1071', 'open:0.0935', 'significant:0.0822', 'wrong:0.0821', 'prime:0.0791', 'far:0.0673']+titles_keywords+['zelenskyyputin:0.5669', 'meeting:0.348', 'indian:0.2524', 'terms:0.2398', 'defence:0.1747']"
+        ]
+    ],
+    "CHN+RUS+46":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/arabherald.com/Dragonbear alliance may pose challenges for Israel Report.txt+eventbasecode46+eventcode46+avgtone0.49455337690631807+goldsteinscale0.85+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.05592105263157895+news_keywords+['ukraine:0.4555', 'geopolitical:0.4416', 'kremlin:0.3747', 'peacemaker:0.2732', 'interfere:0.262', 'news:0.227', 'aviv:0.2121', 'visa:0.2075', 'meet:0.2063', 'east:0.2016', 'affair:0.1954', 'invasion:0.1932', 'indo:0.1928', 'naftali:0.1917', 'abstention:0.1903', 'hong:0.1901', 'investment:0.189', 'prepare:0.1758', 'jinping:0.1657', 'world:0.1653', 'use:0.1652', 'turn:0.1589', 'current:0.1455', 'evaluate:0.1411', 'replace:0.1379', 'triad:0.1302', 'vote:0.1289', 'year:0.0746', 'bri:0.0623', 'fora:0.0514']+titles_keywords+['israel:0.4658', 'dragonbear:0.4588', 'alliance:0.3653', 'report:0.1836', 'challenges:0.1383']"
+        ]
+    ],
+    "FRA+RUS+46":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/arabherald.com/Putin after meeting Macron Do you want to go to War with Russia.txt+eventbasecode46+eventcode46+avgtone0.48422818791946315+goldsteinscale0.85+nummentions0.01995645863570392+numarticles0.020667150108774474+numsources0.03618421052631579+news_keywords+['putin:0.4656', 'crimea:0.4389', 'nato:0.4352', 'treaty:0.3892', 'meeting:0.3458', 'europe:0.3174', 'reuters:0.2989', 'separatists:0.2869', 'talk:0.2786', 'conciliatory:0.2764', 'event:0.2223', 'introductory:0.221', 'future:0.2195', 'concern:0.2162', 'visit:0.2016', 'expect:0.1977', 'order:0.1975', 'power:0.178', 'andrzej:0.175', 'note:0.1745', 'elysee:0.1529', 'explain:0.1514', 'melt:0.1487', 'enlargement:0.1476', 'ready:0.1398', 'include:0.1347', 'unison:0.1336', 'pipeline:0.1302', 'head:0.1288', 'convergence:0.0845']+titles_keywords+['putin:0.5127', 'macron:0.463', 'war:0.3285', 'meeting:0.2463', 'want:0.192']"
+        ]
+    ]
+}

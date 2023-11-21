@@ -1,0 +1,17 @@
+{
+    "CHN+RUS+46":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/nbcnews.com/Putins advisors too afraid to tell him the truth.txt+eventbasecode46+eventcode46+avgtone0.4875307629204266+goldsteinscale0.85+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['kremlin:0.475', 'crimea:0.4607', 'nato:0.403', 'donetsk:0.3612', 'treaty:0.3498', 'briefing:0.3423', 'evacuate:0.3084', 'bombardment:0.2871', 'pentagon:0.2733', 'iaea:0.2654', 'proceeding:0.2589', 'sanction:0.2583', 'news:0.2558', 'report:0.2491', 'reservist:0.2394', 'victim:0.2358', 'infrastructure:0.2306', 'table:0.2256', 'president:0.2197', 'soon:0.2127', 'reorganize:0.2075', 'worry:0.1963', 'hear:0.1927', 'bucha:0.1687', 'blockage:0.1465', 'multipolar:0.1463', 'torussias:0.1118', 'differentiate:0.1086', 'nearly:0.1046', 'replied:0.0893']+titles_keywords+['putins:0.5124', 'afraid:0.3221', 'advisors:0.2429', 'truth:0.2221', 'tell:0.1888']"
+        ]
+    ],
+    "FRA+RUS+46":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/nbcnews.com/Navigating Ukraine Biden offers frank assessments of unfamiliar allies in private.txt+eventbasecode46+eventcode46+avgtone0.4945792462570986+goldsteinscale0.85+nummentions0.01995645863570392+numarticles0.020667150108774474+numsources0.03618421052631579+news_keywords+['diplomacy:0.4789', 'putin:0.4533', 'nato:0.4528', 'ukraines:0.4478', 'biden:0.3698', 'correspondent:0.3423', 'annexation:0.3147', 'election:0.31', 'adviser:0.3016', 'crisis:0.2671', 'coordinate:0.254', 'foreign:0.246', 'cyberattack:0.2345', 'predict:0.232', 'argue:0.2281', 'information:0.2216', 'pursue:0.2148', 'capital:0.208', 'agreement:0.2024', 'relevancy:0.2015', 'preoccupy:0.1961', 'navigate:0.1882', 'entwine:0.1774', 'downing:0.1672', 'quip:0.1654', 'difference:0.1535', 'pipeline:0.1535', 'macrons:0.1491', 'format:0.1386', 'nearly:0.1258']+titles_keywords+['biden:0.461', 'allies:0.3715', 'ukraine:0.3056', 'private:0.2679', 'navigating:0.1003']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/nbcnews.com/For all of Bidens troubles hes still more popular than Trump in the NBC News.txt+eventbasecode46+eventcode46+avgtone0.488+goldsteinscale0.85+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.013157894736842105+news_keywords+['gop:0.4687', 'politicothe:0.4242', 'campaign:0.3945', 'senate:0.3572', 'trumpat:0.3481', 'pollster:0.3367', 'kushner:0.3182', 'conspiracy:0.2725', 'redistricting:0.2699', 'climate:0.2698', 'latestnbc:0.2647', 'bidens:0.2547', 'billcapping:0.2532', 'profit:0.2518', 'gas:0.2302', 'debate:0.2262', 'information:0.224', 'like:0.2056', 'gouge:0.2036', 'hear:0.1982', 'favorableunfavorable:0.194', 'accuse:0.1939', 'dig:0.1918', 'vulnerable:0.1884', 'run:0.1827', 'associated:0.1792', 'theyre:0.1683', 'empower:0.1454', 'anew:0.1241', 'wont:0.0899']+titles_keywords+['trump:0.3445', 'bidens:0.3115', 'nbc:0.2069', 'popular:0.1634', 'hes:0.1172']"
+        ]
+    ]
+}

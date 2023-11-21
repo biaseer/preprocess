@@ -1,0 +1,22 @@
+{
+    "BLR+RUS+43":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/localnews8.com/Russia has attacked Lviv Heres why the western city is so important to Ukraines defense.txt+eventbasecode43+eventcode43+avgtone0.4878223495702006+goldsteinscale0.64+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.02631578947368421+news_keywords+['lvivs:0.6288', 'ukraine:0.446', 'relocate:0.3292', 'soviet:0.3173', 'capital:0.2176', 'military:0.2131', 'flood:0.1936', 'safeguard:0.1917', 'yulia:0.1905', 'report:0.1893', 'kill:0.1783', 'casualty:0.1782', 'western:0.1773', 'repercussion:0.1741', 'flourish:0.1739', 'petro:0.1736', 'information:0.1735', 'zadorozhnyy:0.1701', 'unesco:0.1697', 'weapon:0.1625', 'manuscript:0.126', 'omurch:0.1243', 'far:0.1124', 'according:0.1078', 'torn:0.1035', 'middle:0.103', 'century:0.0874', 'complete:0.0747', 'earlier:0.0508', 'cohesion:-0.0144']+titles_keywords+['lviv:0.6269', 'ukraines:0.4957', 'attacked:0.3444', 'important:0.2638', 'defense:0.2468']"
+        ]
+    ],
+    "EUR+RUS+43":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/localnews8.com/Karine JeanPierre to become White House press secretary the first Black and out LGBTQ person.txt+eventbasecode43+eventcode43+avgtone0.5028050490883591+goldsteinscale0.64+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.03618421052631579+news_keywords+['biden:0.4091', 'secretary:0.3713', 'election:0.3444', 'podium:0.3232', 'anita:0.3107', 'msnbc:0.3073', 'lgbtq:0.2869', 'pierres:0.2725', 'psaki:0.2588', 'white:0.2481', 'role:0.2433', 'brief:0.2397', 'list:0.2278', 'communicate:0.2162', 'pentagon:0.2121', 'history:0.2077', 'john:0.2013', 'report:0.1957', 'begin:0.1924', 'official:0.1859', 'gaggle:0.1787', 'thursday:0.177', 'departure:0.1689', 'replace:0.1407', 'wait:0.1287', 'amazing:0.1266', 'sever:0.1261', 'set:0.1203', 'covid:0.0947', 'true:0.084']+titles_keywords+['jeanpierre:0.3966', 'secretary:0.3363', 'white:0.3046', 'lgbtq:0.2896', 'role:0.2741']"
+        ]
+    ],
+    "KAZ+RUS+43":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/localnews8.com/Russian cosmonauts blindsided by controversy over arriving at ISS in yellow spacesuits NASA astronaut says.txt+eventbasecode43+eventcode43+avgtone0.4869375907111756+goldsteinscale0.64+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.01644736842105263+news_keywords+['soyuz:0.4948', 'iss:0.458', 'russian:0.444', 'sergey:0.4432', 'ukraines:0.4137', 'cosmonaut:0.3303', 'crewmates:0.3112', 'dubrov:0.304', 'invasion:0.2916', 'geopolitical:0.2898', 'spacesuit:0.263', 'cooperation:0.2458', 'concern:0.2287', 'flag:0.2047', 'board:0.1795', 'month:0.1711', 'happen:0.1692', 'anticipate:0.1637', 'retweeting:0.159', 'spat:0.1555', 'graduate:0.1552', 'audience:0.15', 'blue:0.1483', 'heard:0.1454', 'happy:0.1438', 'professional:0.1367', 'long:0.1344', 'different:0.1193', 'video:0.1181', 'hei:0.0989']+titles_keywords+['cosmonauts:0.4454', 'russian:0.3534', 'yellow:0.2837', 'controversy:0.2178', 'arriving:0.1383']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/localnews8.com/Putin says some Russian troops are withdrawing after drills but skepticism in Ukraine and US.txt+eventbasecode43+eventcode43+avgtone0.49420160570918825+goldsteinscale0.64+nummentions0.03555878084179971+numarticles0.03625815808556925+numsources0.049342105263157895+news_keywords+['crimea:0.4794', 'putin:0.4691', 'natos:0.4465', 'militarily:0.3817', 'diplomacy:0.3657', 'invasion:0.3292', 'briefing:0.3191', 'infantry:0.2943', 'separatist:0.2862', 'cyberattack:0.2722', 'russophobia:0.2692', 'border:0.2599', 'agreement:0.246', 'preparing:0.2322', 'news:0.2286', 'concern:0.2267', 'astafyev:0.2207', 'choreograph:0.2086', 'soon:0.1901', 'adjacent:0.1883', 'continue:0.1859', 'table:0.1763', 'drill:0.1761', 'withdraw:0.1753', 'term:0.1692', 'vacant:0.1676', 'cite:0.1612', 'long:0.1411', 'comparison:0.1406', 'population:0.0794']+titles_keywords+['putin:0.379', 'withdrawing:0.2624', 'troops:0.2574', 'skepticism:0.1881', 'says:0.0408']"
+        ]
+    ]
+}

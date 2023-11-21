@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+90":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/thompsoncitizen.net/Biden Putin should face war crimes trial for Bucha killings.txt+eventbasecode90+eventcode90+avgtone0.45+goldsteinscale0.4+nummentions0.5264876632801161+numarticles0.5250181290790428+numsources0.46710526315789475+news_keywords+['putin:0.4995', 'kyiv:0.445', 'massacre:0.3435', 'sanction:0.3426', 'war:0.3393', 'allegation:0.3077', 'report:0.2912', 'prosecutor:0.2906', 'administration:0.2257', 'bucha:0.2255', 'nations:0.2244', 'realize:0.2161', 'continue:0.2099', 'approve:0.2074', 'information:0.2039', 'civilian:0.2019', 'probe:0.1918', 'avoid:0.1913', 'courageously:0.1871', 'word:0.1817', 'pushback:0.1767', 'seat:0.1755', 'monday:0.1618', 'come:0.1601', 'ally:0.1592', 'unveil:0.1445', 'whats:0.1442', 'bidens:0.1423', 'greenfield:0.1319', 'sector:0.1201']+titles_keywords+['putin:0.4878', 'biden:0.3519', 'bucha:0.2749', 'killings:0.2705', 'trial:0.2366']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/thompsoncitizen.net/Rescuers search theater rubble as Russian attacks continue.txt+eventbasecode90+eventcode90+avgtone0.46759675967596764+goldsteinscale0.4+nummentions0.1781567489114659+numarticles0.1787527193618564+numsources0.13157894736842105+news_keywords+['airstrikes:0.4673', 'kyiv:0.4601', 'putin:0.3723', 'nato:0.3634', 'emergency:0.3107', 'shrapnel:0.3072', 'troop:0.2882', 'casualty:0.2809', 'unprovoked:0.2606', 'ruin:0.2286', 'theater:0.2227', 'flee:0.2146', 'alert:0.2091', 'prepared:0.2026', 'information:0.1997', 'snow:0.1966', 'thursday:0.1957', 'secretary:0.1895', 'separatist:0.1889', 'building:0.1845', 'donbas:0.1779', 'satellite:0.1774', 'order:0.1698', 'ap:0.1611', 'understand:0.1604', 'huge:0.1471', 'hundreds:0.1417', 'child:0.1293', 'false:0.1287', 'relatively:0.0919']+titles_keywords+['rubble:0.3765', 'rescuers:0.3136', 'russian:0.2774', 'search:0.2685', 'attacks:0.2078']"
+        ]
+    ]
+}

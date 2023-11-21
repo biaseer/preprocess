@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/thecable.ng/Pray for Ukraine and our hypocrisy.txt+eventbasecode46+eventcode46+avgtone0.4852173913043478+goldsteinscale0.85+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5+news_keywords+['nigeria:0.4453', 'ukrainian:0.42', 'russias:0.3412', 'hypocrisy:0.3026', 'terrorist:0.2999', 'invasion:0.2807', 'prayforukraine:0.2738', 'haram:0.2703', 'read:0.2536', 'volunteer:0.2404', 'concerned:0.2338', 'government:0.227', 'speak:0.2092', 'report:0.2044', 'fight:0.204', 'feel:0.2017', 'boko:0.1935', 'exist:0.1882', 'volodymyr:0.1799', 'wrong:0.1799', 'hausa:0.1724', 'dont:0.1722', 'gotten:0.1701', 'mix:0.1701', 'turn:0.1635', 'hashtag:0.1381', 'straight:0.126', 'safest:0.1001', 'years:0.098', 'offer:0.0929']+titles_keywords+['ukraine:0.5025', 'hypocrisy:0.4306', 'pray:0.3954']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/thecable.ng/Crude oil prices fall below 100 a barrel lowest in three weeks.txt+eventbasecode46+eventcode46+avgtone0.48417721518987344+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['petrol:0.3687', 'reuters:0.2973', 'nigeria:0.2926', 'month:0.2919', 'plummet:0.2405', 'litre:0.2239', 'barrel:0.2143', 'benchmark:0.2105', 'crude:0.2096', 'russias:0.1988', 'record:0.1927', 'deregulate:0.1868', 'price:0.1681', 'brent:0.1673', 'progress:0.1514', 'lead:0.1471', 'know:0.1388', 'monday:0.1355', 'invasion:0.1347', 'ex:0.1138', 'wti:0.1094', 'new:0.0978', 'intermediate:0.0947', 'high:0.0944', 'cross:0.0778', 'reach:0.0727', 'percent:0.0642', 'pocket:0.0619', 'according:0.0539', 'videoconference:0.0461']+titles_keywords+['lowest:0.34', '100:0.2257', 'oil:0.2237', 'weeks:0.1154', 'fall:0.0389']"
+        ]
+    ]
+}

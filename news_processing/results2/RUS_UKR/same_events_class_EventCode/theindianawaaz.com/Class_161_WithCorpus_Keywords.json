@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+161":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/theindianawaaz.com/Imminent threat of Russian military action in Ukraine justifies evacuating US embassy in Kyiv says.txt+eventbasecode161+eventcode161+avgtone0.45846645367412137+goldsteinscale0.3+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimea:0.4602', 'evacuate:0.4447', 'putin:0.3924', 'invade:0.3768', 'threat:0.3291', 'russias:0.3204', 'embassy:0.3025', 'war:0.2944', 'annex:0.2841', 'yuri:0.2782', 'warn:0.277', 'imminent:0.2643', 'escalate:0.2605', 'crisis:0.2587', 'president:0.2401', 'calm:0.2179', 'zelensky:0.2096', 'advisor:0.2093', 'plan:0.1626', 'justify:0.162', 'prudent:0.1594', 'shift:0.1409', 'western:0.1146', 'say:0.1106', 'follow:0.1066', 'state:0.1054', 'antony:0.0804', 'dozen:0.0746', 'send:0.0706', 'cost:0.0225']+titles_keywords+['kyiv:0.364', 'evacuating:0.3061', 'embassy:0.3004', 'blinken:0.2394', 'imminent:0.1886']"
+        ]
+    ],
+    "UKR+RUS+161":[
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/theindianawaaz.com/Russian Defence Minister claims capture of Ukraines Luhansk Province.txt+eventbasecode161+eventcode161+avgtone0.4838709677419355+goldsteinscale0.3+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['luhansk:0.4835', 'ukraines:0.4135', 'sergey:0.4096', 'russian:0.3601', 'putin:0.3209', 'seversky:0.2995', 'province:0.2595', 'troop:0.2159', 'donbass:0.1967', 'seize:0.1758', 'lpr:0.1654', 'major:0.1648', 'shoigu:0.1623', 'control:0.1613', 'retreat:0.1579', 'report:0.1454', 'president:0.1386', 'remain:0.1319', 'nearby:0.1315', 'river:0.1218', 'donets:0.1181', 'news:0.1077', 'defence:0.0984', 'come:0.0938', 'force:0.0816', 'say:0.0691', 'drive:0.0685', 'opposite:0.0665', 'completely:0.0633', 'week:0.0317']+titles_keywords+['luhansk:0.402', 'ukraines:0.3582', 'province:0.2363', 'capture:0.1866', 'minister:0.1198']"
+        ]
+    ]
+}

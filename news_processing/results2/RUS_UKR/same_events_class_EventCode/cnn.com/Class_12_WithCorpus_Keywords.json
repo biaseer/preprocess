@@ -1,0 +1,30 @@
+{
+    "EUR+UKR+12":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/cnn.com/Russia attacks Ukraine.txt+eventbasecode12+eventcode12+avgtone0.4821154828819622+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.484', 'kremlin:0.4492', 'cyberattacks:0.4041', 'invade:0.349', 'troops:0.3245', 'separatists:0.3141', 'diplomacy:0.298', 'unprovoked:0.2801', 'briefing:0.2522', 'pentagon:0.2513', 'armed:0.2414', 'news:0.2343', 'emergency:0.2276', 'uav:0.2258', 'coordinate:0.2199', 'escalate:0.2175', 'concern:0.2125', 'cnns:0.2121', 'osce:0.2096', 'report:0.2091', 'movement:0.1924', 'assured:0.1833', 'table:0.1755', 'midnight:0.1563', 'opposite:0.1325', 'receive:0.1219', 'fully:0.1159', 'focus:0.1039', 'ria:0.0995', 'wont:0.097']+titles_keywords+['ukraine:0.4466', 'attacks:0.3485', 'russia:0.3067']"
+        ]
+    ],
+    "GBR+RUS+12":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/cnn.com/One million refugees flee Ukraine as Russia escalates bombardment of key cities.txt+eventbasecode12+eventcode12+avgtone0.46083550913838117+goldsteinscale0.48+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.0+news_keywords+['crimea:0.5342', 'refugees:0.4596', 'ceasefire:0.4506', 'putin:0.4495', 'evacuation:0.4313', 'natos:0.3782', 'humanitarian:0.3234', 'kolykhaiev:0.286', 'escalate:0.2401', 'capital:0.2247', 'strategically:0.2098', 'stay:0.2072', 'medinsky:0.2047', 'yulia:0.201', 'armed:0.1944', 'agreement:0.1925', 'report:0.1852', 'concerned:0.1837', 'residential:0.1688', 'dramatic:0.1553', 'basic:0.139', 'term:0.1332', 'thousand:0.1295', 'heartwarming:0.1242', 'long:0.1214', 'comparison:0.1187', 'near:0.107', 'thermobaric:0.101', 'generate:0.0743', 'today:0.062']+titles_keywords+['refugees:0.4507', 'ukraine:0.394', 'flee:0.3254', 'bombardment:0.2315', 'million:0.223']"
+        ]
+    ],
+    "RUS+CAN+12":[
+        [
+            "20220619+../news_crawling/RUS_UKR/p_articles/cnn.com/Germany to fire up coal stations as Russia squeezes gas supply.txt+eventbasecode12+eventcode12+avgtone0.49039881831610044+goldsteinscale0.48+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.019736842105263157+news_keywords+['russia:0.4406', 'economy:0.3833', 'coal:0.3762', 'pipeline:0.3314', 'gazproms:0.2889', 'tank:0.2836', 'war:0.2783', 'plan:0.2677', 'power:0.2563', 'coalition:0.254', 'siemens:0.2526', 'impose:0.2408', 'winter:0.213', 'station:0.1986', 'increase:0.1957', 'help:0.1929', 'statement:0.191', 'convert:0.1906', 'begin:0.1876', 'order:0.1765', 'thursday:0.1688', 'make:0.1624', 'pretext:0.1607', 'compare:0.1602', 'habeck:0.1434', 'share:0.113', 'robert:0.1112', 'unfriendly:0.0994', 'possible:0.0974', 'really:0.0797']+titles_keywords+['germany:0.3702', 'coal:0.37', 'stations:0.1599', 'squeezes:0.1153', 'supply:0.0814']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/cnn.com/Syrians are watching in horror as Putin deploys the Aleppo playbook in Ukraine.txt+eventbasecode12+eventcode12+avgtone0.47889469103568316+goldsteinscale0.48+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.029605263157894735+news_keywords+['syria:0.5688', 'ceasefire:0.4663', 'ukrainian:0.4322', 'revolution:0.4246', 'kremlin:0.4123', 'regime:0.372', 'diplomatic:0.348', 'nations:0.333', 'thesis:0.3188', 'reform:0.3118', 'cnn:0.3052', 'victims:0.2749', 'nasser:0.2731', 'assads:0.268', 'military:0.2627', 'future:0.2475', 'survive:0.2453', 'playbook:0.2399', 'extract:0.2337', 'labor:0.2326', 'counterpart:0.2298', 'concern:0.2267', 'help:0.1949', 'like:0.1939', 'submit:0.1824', 'advantage:0.1745', 'whats:0.1687', 'unimaginable:0.1598', 'comjtptsrhswe:0.1425', 'nanofibers:0.117']+titles_keywords+['aleppo:0.5654', 'putin:0.4559', 'playbook:0.2878', 'horror:0.2484', 'watching:0.2335']"
+        ],
+        [
+            "20220511+../news_crawling/RUS_UKR/p_articles/cnn.com/May 11 2022 RussiaUkraine news.txt+eventbasecode12+eventcode12+avgtone0.4972826086956521+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['russiaukraine:0.5093', 'ukraines:0.4821', 'putin:0.4553', 'skirmishes:0.3861', 'eurovision:0.3769', 'espionage:0.3265', 'leonid:0.3134', 'news:0.3004', 'nations:0.2851', 'armageddon:0.2596', 'border:0.2589', 'organize:0.2518', 'participate:0.2375', 'happen:0.235', 'psaki:0.2188', 'write:0.2142', 'continue:0.2014', 'context:0.1996', 'bipartisan:0.1945', 'february:0.1904', 'aid:0.1823', 'avert:0.1819', 'according:0.179', 'general:0.1732', 'gon:0.1731', 'teenager:0.1727', 'like:0.1706', 'intense:0.1702', 'log:0.1649', 'far:0.1386']+titles_keywords+['russiaukraine:0.5519', '2022:0.508', 'news:0.3238', '11:0.2196']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/cnn.com/April 11 2022 RussiaUkraine news.txt+eventbasecode12+eventcode12+avgtone0.463963963963964+goldsteinscale0.48+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.0+news_keywords+['ukrainiancourts:0.4808', 'russia:0.4129', 'propaganda:0.3642', 'evacuate:0.3072', 'separatist:0.2998', 'crisis:0.2842', 'diplomat:0.2812', 'ivana:0.277', 'inmariupol:0.2761', 'agreement:0.2735', 'proceeding:0.2726', 'read:0.2656', 'ouroccupiers:0.2543', 'know:0.2532', 'align:0.2495', 'speak:0.2473', 'sanction:0.2315', 'vereshchuk:0.2255', 'pentagon:0.2212', 'productive:0.219', 'soon:0.203', 'fight:0.2009', 'world:0.2007', 'order:0.1885', 'casualty:0.1743', 'plant:0.1693', 'bucha:0.1666', 'general:0.163', 'head:0.1567', 'include:0.1349']+titles_keywords+['russiaukraine:0.5426', '2022:0.4959', 'news:0.3365', 'april:0.3184', '11:0.2121']"
+        ]
+    ]
+}

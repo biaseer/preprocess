@@ -1,0 +1,19 @@
+{
+    "FRA+RUS+111":[
+        []
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Russia vetoes UN Security Council resolution condemning its invasion of Ukraine.txt+eventbasecode111+eventcode111+avgtone0.423076923076923+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4662', 'russia:0.412', 'veto:0.3475', 'moscow:0.338', 'russias:0.3339', 'invasion:0.2952', 'militarily:0.2746', 'condemn:0.2386', 'attack:0.2316', 'opposition:0.2309', 'troop:0.2203', 'nations:0.1767', 'weak:0.1549', 'neighbor:0.1494', 'security:0.142', 'withdraw:0.1415', 'stop:0.1129', 'small:0.1108', 'council:0.1101', 'united:0.1074', 'resolution:0.1062', 'demand:0.0953', 'total:0.0596', 'significant:0.0535']+titles_keywords+['ukraine:0.3907', 'vetoes:0.2678', 'invasion:0.2057', 'condemning:0.2026', 'resolution:0.1062']"
+        ],
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Papa Johns suspended all Russia operations will stop supporting Russia market for franchisees.txt+eventbasecode111+eventcode111+avgtone0.489285714285+goldsteinscale0.4+nummentions0.030841799709724237+numarticles0.03154459753444525+numsources0.046052631578947366+news_keywords+['russia:0.38', 'franchisee:0.3354', 'papa:0.3322', 'restaurant:0.3213', 'pizza:0.2961', 'business:0.2881', 'supply:0.277', 'stock:0.2418', 'company:0.2261', 'store:0.2217', 'operation:0.2163', 'marketing:0.2152', 'international:0.2039', 'suspend:0.1896', 'invasion:0.1814', 'chain:0.1744', 'support:0.1586', 'john:0.1556', 'stop:0.1401', 'month:0.1318', 'fell:0.1312', 'premarket:0.1041', 'tuesday:0.1029', 'say:0.095', 'sp:0.0918', 'royalty:0.0892', 'receive:0.0507', 'condemns:0.0468', 'total:0.0285', 'past:0.0261']+titles_keywords+['papa:0.3558', 'russia:0.348', 'franchisees:0.2985', 'suspended:0.2319', 'johns:0.2215']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [],
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Opinion Companies can make one simple change as fears of Russian cyberattacks intensify.txt+eventbasecode111+eventcode111+avgtone0.48368953880764903+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.013157894736842105+news_keywords+['cyberattacks:0.5047', 'russian:0.3912', 'security:0.3824', 'companies:0.3223', 'infrastructure:0.2845', 'attack:0.2829', 'supply:0.2549', 'war:0.253', 'change:0.2481', 'intensify:0.2346', 'fear:0.2306', 'warn:0.2124', 'infiltration:0.1968', 'ransom:0.1831', 'worldwide:0.1753', 'happen:0.1723', 'insider:0.17', 'daily:0.1652', 'agency:0.1553', 'opinion:0.1535', 'fiction:0.1478', 'make:0.1406', 'multimillion:0.1381', 'nation:0.1318', 'stuff:0.1217', 'launch:0.1214', 'real:0.1171', 'target:0.1132', 'simple:0.1083', 'state:0.0768']+titles_keywords+['cyberattacks:0.4414', 'companies:0.3311', 'opinion:0.3003', 'russian:0.2863', 'change:0.2863']"
+        ]
+    ]
+}

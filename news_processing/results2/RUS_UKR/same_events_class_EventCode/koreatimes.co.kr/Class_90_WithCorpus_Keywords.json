@@ -1,0 +1,12 @@
+{
+    "KOR+RUS+90":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/Hyundai Motor closely monitoring Ukraine crisis.txt+eventbasecode90+eventcode90+avgtone0.47523584905660377+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['ukraine:0.4563', 'hyundai:0.3487', 'ruble:0.2807', 'profit:0.2641', 'crisis:0.2537', 'subsidiary:0.2207', 'suffer:0.1953', 'global:0.189', 'avtovaz:0.184', 'sanction:0.1797', 'hyun:0.1764', 'telecommunication:0.166', 'adversely:0.1594', 'export:0.1521', 'military:0.1484', 'secure:0.1471', 'baek:0.1461', 'follow:0.1458', 'interbank:0.1381', 'feb:0.1334', 'matter:0.1315', 'decrease:0.1278', 'estimate:0.126', 'plant:0.117', 'cross:0.107', 'soo:0.0702', 'percent:0.0581', 'enable:0.0525', 'likely:0.0461', 'benchmark:0.0119']+titles_keywords+['hyundai:0.4592', 'ukraine:0.4239', 'monitoring:0.2904', 'crisis:0.2358', 'closely:0.0882']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        [
+            "20220115+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/White House Russia prepping pretext for Ukraine invasion.txt+eventbasecode90+eventcode90+avgtone0.47569113441372735+goldsteinscale0.4+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.009868421052631578+news_keywords+['crimea:0.4812', 'putin:0.4523', 'invade:0.4033', 'nato:0.4029', 'ukrainians:0.3926', 'diplomacy:0.3613', 'disinformation:0.352', 'nationalist:0.3106', 'prepare:0.2912', 'cyberattacks:0.2901', 'pretext:0.2811', 'pentagon:0.2733', 'adviser:0.2547', 'aggressor:0.2471', 'news:0.2442', 'playbook:0.2109', 'dispatch:0.21', 'thursday:0.1824', 'tension:0.1788', 'emphasize:0.1614', 'write:0.1577', 'authorize:0.1541', 'intercepted:0.1526', 'long:0.1492', 'jankowicz:0.1483', 'determine:0.1346', 'step:0.1306', 'additional:0.1224', 'similar:0.1171', 'house:0.0843']+titles_keywords+['pretext:0.4065', 'ukraine:0.3887', 'prepping:0.3803', 'invasion:0.3511', 'white:0.2028']"
+        ]
+    ]
+}

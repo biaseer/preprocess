@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+163":[
+        [
+            "20220717+../news_crawling/RUS_UKR/p_articles/theconversation.com/Russian propaganda is making inroads with rightwing Canadians.txt+eventbasecode163+eventcode163+avgtone0.4640820980615735+goldsteinscale0.1+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.01644736842105263+news_keywords+['propaganda:0.5593', 'kremlin:0.4934', 'crimea:0.4046', 'nationalism:0.3788', 'canadas:0.2752', 'topic:0.2523', 'invasion:0.2492', 'destabilize:0.2456', 'rightwing:0.2318', 'military:0.2192', 'adversary:0.2164', 'concern:0.2091', 'propensity:0.2081', 'election:0.1975', 'push:0.1918', 'common:0.187', 'people:0.1821', 'bot:0.1817', 'believe:0.178', 'data:0.173', 'covertly:0.1554', 'correlate:0.15', 'factor:0.1489', 'proxy:0.1484', 'unproven:0.1439', 'conversely:0.1426', 'mlanie:0.1423', 'stage:0.1266', 'long:0.0919', 'difference:0.0708']+titles_keywords+['propaganda:0.5294', 'canadians:0.3583', 'russian:0.3477', 'rightwing:0.3215', 'inroads:0.0887']"
+        ]
+    ],
+    "GBR+RUS+163":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/theconversation.com/Ukraine the problem with Russias sanctionsbusting armsindustry.txt+eventbasecode163+eventcode163+avgtone0.480283114256825+goldsteinscale0.1+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.046052631578947366+news_keywords+['soviet:0.4681', 'espionage:0.4681', 'russias:0.4417', 'armsindustry:0.4348', 'crimea:0.394', 'embargoes:0.3426', 'governments:0.3297', 'nuclear:0.3047', 'war:0.303', 'technology:0.2441', 'supply:0.2333', 'undermine:0.2317', 'academic:0.2187', 'annex:0.2121', 'western:0.2016', 'obtain:0.1966', 'evidence:0.1694', 'circumvent:0.1638', 'export:0.1589', 'formalised:0.157', 'states:0.153', 'reach:0.1409', 'past:0.1346', 'end:0.1281', 'replace:0.1265', 'buildup:0.1256', 'report:0.1177', 'alongside:0.1173', 'long:0.113', 'similar:0.073']+titles_keywords+['ukraine:0.599', 'armsindustry:0.4598', 'russias:0.4443', 'sanctionsbusting:0.431', 'problem:0.2006']"
+        ]
+    ]
+}

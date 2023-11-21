@@ -1,0 +1,12 @@
+{
+    "RUS+CHN+141":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/US hypersonic missile test was kept quiet amid escalating tensions with Russia.txt+eventbasecode141+eventcode141+avgtone0.49573863636363635+goldsteinscale0.175+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['hypersonic:0.4498', 'missile:0.3998', 'nato:0.3364', 'russias:0.3014', 'pentagon:0.295', 'darpa:0.2397', 'launch:0.2358', 'warfighters:0.215', 'destroy:0.2091', 'fly:0.2032', 'mach:0.2012', 'reveal:0.1726', 'test:0.1445', 'instead:0.1411', 'capability:0.1407', 'hawc:0.1383', 'biden:0.1305', 'successfully:0.1198', 'tension:0.1191', 'significant:0.1012', 'program:0.0906', 'time:0.0889', 'billion:0.0876', 'reporter:0.0837', 'budget:0.0801', 'postpone:0.073', 'amid:0.0693', 'september:0.0662', 'record:0.0434', 'offer:0.0147']+titles_keywords+['hypersonic:0.3275', 'quiet:0.3021', 'missile:0.2331', 'test:0.1943', 'russia:0.172']"
+        ]
+    ],
+    "RUS+UKR+141":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Putin isolating himself and gaining weight amid health fears expert says.txt+eventbasecode141+eventcode141+avgtone0.46858638743455494+goldsteinscale0.175+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5729', 'sickness:0.2862', 'bloated:0.2561', 'sochi:0.2475', 'fitness:0.2462', 'tyrant:0.2282', 'newsletter:0.2207', 'table:0.2168', 'isolate:0.2133', 'position:0.2123', 'erratic:0.2023', 'confident:0.2019', 'concern:0.1991', 'weigh:0.1986', 'increase:0.1905', 'attack:0.1899', 'wall:0.1811', 'know:0.1701', 'speculate:0.165', 'head:0.1649', 'report:0.157', 'long:0.1482', 'winter:0.1459', 'mr:0.1426', 'opposite:0.1383', 'stay:0.1379', 'world:0.1296', 'learner:0.1249', 'significant:0.1048', 'decade:0.0795']+titles_keywords+['putin:0.4561', 'isolating:0.3278', 'gaining:0.3272', 'weight:0.2768', 'fears:0.1664']"
+        ]
+    ]
+}

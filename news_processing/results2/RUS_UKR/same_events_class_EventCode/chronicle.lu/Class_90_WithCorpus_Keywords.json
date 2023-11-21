@@ -1,0 +1,12 @@
+{
+    "AUT+UKR+90":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/chronicle.lu/UN Nuclear Watchdog Loses Touch with Monitoring Equipment at Ukraine Power Plant.txt+eventbasecode90+eventcode90+avgtone0.4758522727272727+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['chernobyl:0.5487', 'nuclear:0.4644', 'iaea:0.3841', 'ukraine:0.3554', 'reuters:0.3086', 'concern:0.3071', 'monitoring:0.2832', 'emergency:0.2831', 'voltage:0.281', 'safeguard:0.2707', 'inform:0.2593', 'operate:0.2488', 'zaporizhzhia:0.2447', 'disruption:0.2126', 'status:0.2053', 'unit:0.1999', 'world:0.1944', 'standby:0.19', 'headquarter:0.1857', 'international:0.1825', 'need:0.1802', 'trilateral:0.1426', 'waste:0.1362', 'continue:0.1286', 'remote:0.1109', 'near:0.0899', 'minister:0.0806', 'line:0.0798', 'week:0.0622', 'plus:0.0588']+titles_keywords+['nuclear:0.3427', 'watchdog:0.3283', 'ukraine:0.3148', 'equipment:0.1571', 'touch:0.0747']"
+        ]
+    ],
+    "UKR+EUR+90":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/chronicle.lu/Explosions Rock Ukraine Bodies Line Streets of Mariupol.txt+eventbasecode90+eventcode90+avgtone0.4691516709511568+goldsteinscale0.4+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.01644736842105263+news_keywords+['kyiv:0.5645', 'evacuate:0.3581', 'bombardment:0.3559', 'bloodshed:0.3378', 'reuters:0.309', 'casualty:0.2972', 'government:0.2769', 'separatist:0.247', 'strategic:0.2446', 'troop:0.2406', 'fight:0.2233', 'know:0.2221', 'rebuild:0.2206', 'steelworks:0.2188', 'april:0.2084', 'outlet:0.2044', 'hear:0.2032', 'azovstal:0.1858', 'shmyhal:0.1791', 'overlook:0.171', 'surround:0.1677', 'kristalina:0.1635', 'main:0.1629', 'end:0.1543', 'near:0.1453', 'long:0.1438', 'significant:0.1321', 'million:0.1244', 'way:0.1133', 'pas:0.0988']+titles_keywords+['explosions:0.4646', 'ukraine:0.4009', 'streets:0.3332', 'bodies:0.2491', 'mariupol:0.1896']"
+        ]
+    ]
+}

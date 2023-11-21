@@ -1,0 +1,12 @@
+{
+    "RUS+EUR+61":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/bworldonline.com/US agrees to send advanced rockets to Ukraine.txt+eventbasecode61+eventcode61+avgtone0.4792899408284023+goldsteinscale0.82+nummentions0.15965166908563136+numarticles0.1602610587382161+numsources0.13486842105263158+news_keywords+['ukraine:0.4861', 'evacuate:0.32', 'bombardment:0.2746', 'maneuver:0.2634', 'advance:0.2412', 'sievierodonetsk:0.2412', 'embargo:0.2408', 'table:0.2387', 'troop:0.2387', 'news:0.2309', 'shortly:0.2175', 'expect:0.2132', 'industrial:0.2112', 'president:0.2074', 'fight:0.2058', 'end:0.1859', 'direct:0.1853', 'concern:0.18', 'import:0.1775', 'help:0.1753', 'cite:0.1683', 'pretext:0.1639', 'long:0.1564', 'javelin:0.1473', 'horrify:0.1462', 'baseless:0.1408', 'donets:0.1398', 'property:0.1298', 'precisely:0.1232', 'million:0.1175']+titles_keywords+['ukraine:0.3675', 'rockets:0.3088', 'send:0.2042', 'advanced:0.151', 'agrees:0.0588']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/bworldonline.com/UNCTAD cuts growth estimates for region world.txt+eventbasecode61+eventcode61+avgtone0.465+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['macroeconomic:0.4847', 'ukraine:0.402', 'instability:0.3711', 'war:0.2973', 'projection:0.2772', 'commodity:0.2759', 'shortage:0.2655', 'estimate:0.251', 'risk:0.2266', 'global:0.2255', 'input:0.2247', 'develop:0.2201', 'surge:0.2082', 'president:0.1946', 'covid:0.1942', 'unctad:0.1914', 'benefit:0.1859', 'import:0.1801', 'cut:0.1729', 'term:0.1707', 'lockdown:0.1622', 'conference:0.1615', 'report:0.1565', 'september:0.1396', 'revin:0.1264', 'end:0.1217', 'level:0.1179', 'wide:0.1131', 'significantly:0.1087', 'likely:0.0547']+titles_keywords+['unctad:0.476', 'region:0.3366', 'growth:0.3025', 'estimates:0.2938', 'world:0.238']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CHN+UKR+40":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/kazu.org/RussiaUkraine war What happened today March 14.txt+eventbasecode40+eventcode40+avgtone0.48275862068965525+goldsteinscale0.55+nummentions0.09724238026124818+numarticles0.09789702683103699+numsources0.10855263157894737+news_keywords+['ukraine:0.5187', 'russiaukraine:0.4911', 'nato:0.384', 'airstrikes:0.3621', 'zelenskyy:0.3027', 'news:0.2843', 'conflict:0.2675', 'npr:0.2502', 'recap:0.2267', 'march:0.2169', 'consequence:0.1987', 'read:0.1847', 'today:0.1744', 'warn:0.171', 'pregnant:0.1701', 'breakthrough:0.1481', 'live:0.1473', 'weapon:0.1385', 'resume:0.129', 'lawmaker:0.1282', 'subscribe:0.1241', 'additional:0.1224', 'fund:0.122', 'million:0.1099', 'receive:0.1045', 'mh:0.1005', 'photo:0.0984', 'integration:0.089', 'draw:0.0806', 'closely:0.052']+titles_keywords+['russiaukraine:0.4736', 'war:0.4432', 'march:0.3688', 'today:0.2816', 'happened:0.2675']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220110+../news_crawling/RUS_UKR/p_articles/kazu.org/News brief Bronx fire record COVID19 cases USRussia talks on Ukraine.txt+eventbasecode40+eventcode40+avgtone0.49+goldsteinscale0.55+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.0756578947368421+news_keywords+['ukraine:0.5055', 'kremlin:0.4714', 'nato:0.4001', 'brinksmanship:0.3608', 'unrest:0.317', 'separatist:0.2981', 'coronavirus:0.2812', 'history:0.265', 'border:0.263', 'news:0.2425', 'autocratic:0.2385', 'immigrate:0.2291', 'sanction:0.2215', 'know:0.2198', 'risk:0.2165', 'troop:0.2105', 'ablaze:0.2069', 'progress:0.2066', 'urgent:0.2048', 'term:0.1743', 'assume:0.1667', 'asymptomatic:0.1665', 'prospect:0.1575', 'building:0.1553', 'exactly:0.1524', 'heater:0.1496', 'hear:0.1483', 'bronx:0.1369', 'turn:0.1296', 'hour:0.1211']+titles_keywords+['covid19:0.4309', 'bronx:0.3953', 'ukraine:0.3865', 'cases:0.2431', 'record:0.1857']"
+        ]
+    ],
+    "WST+RUS+40":[
+        [
+            "20220513+../news_crawling/RUS_UKR/p_articles/kazu.org/Russia may become the only nonNATO nation in the Arctic sparking fears of conflict.txt+eventbasecode40+eventcode40+avgtone0.4856711915535445+goldsteinscale0.55+nummentions0.019593613933236574+numarticles0.02030456852791878+numsources0.039473684210526314+news_keywords+['arctic:0.482', 'nato:0.4418', 'geopolitics:0.4395', 'kremlin:0.428', 'moscow:0.3864', 'finland:0.3395', 'militarize:0.2973', 'neutrality:0.2534', 'cyberattacks:0.2366', 'establish:0.2042', 'diplomat:0.2028', 'cooperatively:0.1938', 'neighboring:0.1722', 'concerned:0.1647', 'spillover:0.1608', 'activity:0.1594', 'npr:0.1488', 'report:0.1402', 'increase:0.135', 'sudden:0.1297', 'state:0.128', 'scientific:0.1238', 'expect:0.1231', 'say:0.1141', 'end:0.1066', 'reverse:0.0898', 'klaus:0.0733', 'major:0.0689', 'slogan:0.068', 'week:0.063']+titles_keywords+['arctic:0.442', 'russia:0.4119', 'nonnato:0.2368', 'conflict:0.1702', 'fears:0.1442']"
+        ]
+    ]
+}

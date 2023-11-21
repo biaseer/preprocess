@@ -1,0 +1,34 @@
+{
+    "EUR+RUS+12":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/UN alarm as Ukraine nuclear power plant shelled again.txt+eventbasecode12+eventcode12+avgtone0.46565656565656566+goldsteinscale0.48+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['demilitarisation:0.4409', 'nuclear:0.4392', 'ukrainian:0.3309', 'iaea:0.3228', 'warn:0.3051', 'safe:0.29', 'provocation:0.2561', 'zelensky:0.2545', 'urgent:0.2438', 'artillery:0.2424', 'terror:0.2403', 'watchdog:0.2206', 'personnel:0.2167', 'plant:0.1987', 'agreement:0.191', 'know:0.1853', 'accuse:0.1824', 'visit:0.1768', 'irresponsible:0.175', 'enerhoatom:0.1695', 'president:0.1687', 'allow:0.1567', 'area:0.1565', 'sensor:0.144', 'soon:0.1397', 'turn:0.1371', 'weld:0.1309', 'dnipro:0.1271', 'state:0.121', 'new:0.0784']+titles_keywords+['nuclear:0.3789', 'ukraine:0.3781', 'alarm:0.2394', 'shelled:0.1584', 'plant:0.1378']"
+        ]
+    ],
+    "RUS+CHN+12":[
+        [
+            "20220812+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine war Predicting Russias next step in Ukraine.txt+eventbasecode12+eventcode12+avgtone0.4873271889400922+goldsteinscale0.48+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4803', 'putin:0.4349', 'war:0.372', 'strategic:0.2978', 'nuclear:0.2517', 'predicting:0.2503', 'redeploy:0.2429', 'organisation:0.2292', 'secretary:0.214', 'map:0.209', 'concerned:0.189', 'brief:0.1789', 'instigator:0.17', 'explain:0.1615', 'increasingly:0.158', 'continue:0.1558', 'november:0.1466', 'donbas:0.1415', 'cyber:0.14', 'portray:0.1382', 'interference:0.1365', 'false:0.1302', 'hour:0.1266', 'head:0.1251', 'unrealistic:0.1223', 'hockenhull:0.1212', 'gen:0.1166', 'past:0.1053', 'include:0.0882', 'coming:0.0863']+titles_keywords+['ukraine:0.4807', 'russias:0.3594', 'war:0.3332', 'predicting:0.289', 'step:0.1267']"
+        ]
+    ],
+    "RUS+FIN+12":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine war Youngsters in Finland worried conflict could spread.txt+eventbasecode12+eventcode12+avgtone0.4357142857142855+goldsteinscale0.48+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['finland:0.4958', 'ukraine:0.4832', 'russia:0.4292', 'war:0.407', 'conflict:0.3204', 'geographical:0.3053', 'fear:0.2964', 'concern:0.2932', 'border:0.2928', 'worry:0.2919', 'safety:0.2913', 'threat:0.2895', 'proximity:0.2538', 'anxiety:0.2534', 'uncertainty:0.2272', 'people:0.2038', 'news:0.188', 'world:0.161', 'land:0.1608', 'youngsters:0.1491', 'young:0.1411', 'increase:0.1169', 'spread:0.1152', 'coverage:0.1019', 'child:0.0937', 'share:0.0798', 'create:0.0599', 'immediate:0.0528', 'ask:0.0288']+titles_keywords+['ukraine:0.4296', 'war:0.4184', 'worried:0.278', 'youngsters:0.26', 'spread:0.1087']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Boris Johnson on UK action after Russian invasion of Ukraine.txt+eventbasecode12+eventcode12+avgtone0.445205479452055+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4848', 'boris:0.442', 'ukraine:0.4226', 'vladimir:0.394', 'russian:0.3429', 'invasion:0.3083', 'downing:0.2451', 'action:0.243', 'johnson:0.2235', 'uk:0.2158', 'sanction:0.2152', 'economic:0.173', 'barbaric:0.1706', 'look:0.1564', 'venture:0.1545', 'failure:0.1469', 'massive:0.141', 'hobble:0.1406', 'mr:0.1323', 'street:0.1298', 'package:0.1288', 'away:0.1266', 'minister:0.1192', 'end:0.1149', 'say:0.1116', 'hideous:0.1101', 'start:0.0979', 'prime:0.0914', 'speak:0.0877', 'design:0.0647']+titles_keywords+['boris:0.3829', 'ukraine:0.3751', 'action:0.3059', 'invasion:0.2363', 'johnson:0.2228']"
+        ],
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Labour Overhaul energy plan to tackle price hikes.txt+eventbasecode12+eventcode12+avgtone0.48659305993499996+goldsteinscale0.48+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.006578947368421052+news_keywords+['labour:0.3861', 'fracking:0.3', 'economic:0.2795', 'renewables:0.279', 'policy:0.2778', 'overhaul:0.2704', 'promising:0.265', 'announce:0.2558', 'secretary:0.251', 'scheme:0.2496', 'ahead:0.2492', 'households:0.2478', 'ukraine:0.2455', 'argue:0.2445', 'crisis:0.2384', 'reiterate:0.2232', 'invade:0.2214', 'pmqs:0.2137', 'idea:0.2123', 'skyrocket:0.2108', 'boris:0.1884', 'april:0.1865', 'differently:0.185', 'make:0.1705', 'men:0.1694', 'altogether:0.1594', 'long:0.1278', 'lower:0.1254', 'bumper:0.09', 'especially:0.0745']+titles_keywords+['labour:0.3307', 'plan:0.2442', 'overhaul:0.218', 'energy:0.1887', 'price:0.065']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine conflict Husband and father escapes back to Swansea home.txt+eventbasecode12+eventcode12+avgtone0.4732142857142857+goldsteinscale0.48+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4973', 'odessa:0.3989', 'conflict:0.3663', 'flee:0.3422', 'border:0.2892', 'invasion:0.2863', 'bomb:0.253', 'flight:0.2509', 'home:0.2479', 'swansea:0.2345', 'family:0.2339', 'worried:0.2298', 'city:0.2245', 'daughter:0.2208', 'gegeshidze:0.1941', 'scary:0.1941', 'rachel:0.1924', 'gio:0.1838', 'gower:0.1812', 'engineer:0.1809', 'start:0.1688', 'hear:0.159', 'elene:0.1517', 'manage:0.1502', 'unbelievable:0.1448', 'time:0.1361', 'able:0.1222', 'make:0.1219', 'man:0.0629', 'catch:0.0521']+titles_keywords+['ukraine:0.3039', 'swansea:0.2682', 'escapes:0.2626', 'home:0.201', 'father:0.1781']"
+        ],
+        [
+            "20220614+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Climate change New fossil fuel funding is delusional says UN chief.txt+eventbasecode12+eventcode12+avgtone0.4868651488616462+goldsteinscale0.48+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['renewables:0.4581', 'climate:0.4212', 'coal:0.3465', 'reform:0.3255', 'industrial:0.2833', 'progress:0.2774', 'argue:0.2601', 'conference:0.2589', 'diplomats:0.2414', 'world:0.235', 'project:0.2322', 'term:0.2279', 'emission:0.2254', 'response:0.222', 'dramatic:0.221', 'previous:0.2055', 'say:0.2027', 'fossil:0.2006', 'attention:0.1892', 'view:0.1856', 'prepare:0.183', 'bonn:0.1667', 'boost:0.1623', 'iterate:0.1617', 'invest:0.1617', 'end:0.161', 'decade:0.1607', 'guterres:0.15', 'agree:0.1474', 'footing:0.1126']+titles_keywords+['fuel:0.2842', 'delusional:0.2831', 'climate:0.2569', 'says:0.1135', 'chief:0.0828']"
+        ],
+        []
+    ]
+}

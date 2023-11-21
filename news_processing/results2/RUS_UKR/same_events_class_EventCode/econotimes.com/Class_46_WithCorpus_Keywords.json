@@ -1,0 +1,17 @@
+{
+    "DEU+RUS+46":[
+        [
+            "20211227+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict Vladimir Putin withdraws 10000 troops at border ahead of talks with Germany.txt+eventbasecode46+eventcode46+avgtone0.49754901960784315+goldsteinscale0.85+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['crimea:0.5111', 'nato:0.4617', 'russiaukraine:0.4073', 'putin:0.4008', 'ukrainians:0.3902', 'deploy:0.2738', 'invasion:0.2622', 'cooperation:0.2301', 'occupy:0.2281', 'strengthen:0.226', 'border:0.2259', 'consolidate:0.209', 'concern:0.2058', 'drill:0.1993', 'continue:0.1653', 'order:0.1635', 'come:0.1493', 'explain:0.1489', 'document:0.1417', 'week:0.1335', 'ally:0.1329', 'test:0.1179', 'good:0.1174', 'donbas:0.1172', 'withdraw:0.113', 'satellite:0.1031', 'young:0.0995', 'branch:0.0952', 'possible:0.053', 'hypersonic:0.0064']+titles_keywords+['putin:0.4385', 'withdraws:0.2556', 'troops:0.2538', '10000:0.2245', 'conflict:0.2116']"
+        ]
+    ],
+    "FRA+RUS+46":[
+        [
+            "20220628+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict G7 pledges solidarity with Ukraine.txt+eventbasecode46+eventcode46+avgtone0.4764542936288089+goldsteinscale0.85+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4816', 'kremlin:0.4124', 'war:0.3503', 'diplomatic:0.3196', 'solidarity:0.3021', 'group:0.29', 'president:0.2861', 'pledge:0.2659', 'invasion:0.2565', 'sanction:0.2494', 'global:0.2456', 'military:0.2285', 'zelenskyy:0.2115', 'reiterate:0.2077', 'gold:0.2022', 'statement:0.1983', 'tweeted:0.1965', 'kill:0.1927', 'ongoing:0.1881', 'issue:0.159', 'hold:0.1495', 'receive:0.147', 'look:0.1447', 'month:0.1447', 'end:0.1445', 'isolate:0.1275', 'today:0.1221', 'video:0.121', 'thank:0.1117', 'olaf:0.0438']+titles_keywords+['ukraine:0.5087', 'russiaukraine:0.4553', 'solidarity:0.3887', 'g7:0.2688', 'pledges:0.2622']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/econotimes.com/FxWirePro The Bull and bear scenario for the top cryptocurrency Bitcoin and ETH.txt+eventbasecode46+eventcode46+avgtone0.47600000000000003+goldsteinscale0.85+nummentions0.020682148040638608+numarticles0.019216823785351705+numsources0.046052631578947366+news_keywords+['bullish:0.4981', 'eth:0.4171', 'cryptocurrency:0.3913', 'markets:0.3737', 'trend:0.313', 'intraday:0.2835', 'surge:0.2734', 'dip:0.2673', 'buy:0.2647', 'breach:0.2412', 'levels:0.2264', 'pull:0.2252', 'geopolitical:0.2159', 'risky:0.2103', 'tp:0.1975', 'support:0.1942', 'primary:0.1939', 'significant:0.1878', 'watch:0.1819', 'spot:0.1778', 'direction:0.1713', 'continue:0.167', 'decrease:0.162', 'like:0.1543', 'fxwirepro:0.147', 'convincing:0.1378', 'ema:0.1333', 'consecutive:0.1333', 'till:0.127', 'write:0.1047']+titles_keywords+['bitcoin:0.5093', 'eth:0.4208', 'bull:0.3627', 'fxwirepro:0.2351', 'scenario:0.1056']"
+        ]
+    ]
+}

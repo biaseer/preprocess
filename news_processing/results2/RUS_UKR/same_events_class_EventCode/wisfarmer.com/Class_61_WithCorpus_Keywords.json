@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+61":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/wisfarmer.com/War in Ukraine and its impact on fertilizer exports to Brazil US.txt+eventbasecode61+eventcode61+avgtone0.49376114081996436+goldsteinscale0.82+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['ukraine:0.4438', 'geopolitical:0.4117', 'fertilizer:0.3572', 'commodity:0.337', 'war:0.3364', 'usda:0.2998', 'economic:0.2857', 'sugarcane:0.271', 'acreage:0.2422', 'crop:0.1944', 'translate:0.1937', 'increase:0.1907', 'input:0.1874', 'crisis:0.1873', 'concern:0.1823', 'sector:0.1593', 'global:0.1554', 'data:0.1437', 'term:0.1383', 'trade:0.1362', 'dailymarch:0.1203', 'report:0.1198', 'respectively:0.1117', 'exporter:0.1073', 'current:0.1055', 'chain:0.1038', 'postpone:0.0919', 'highlight:0.0827', 'total:0.0772', 'unlikely:0.0319']+titles_keywords+['ukraine:0.4238', 'war:0.3463', 'fertilizer:0.3338', 'exports:0.265', 'impact:0.1449']"
+        ]
+    ],
+    "LBN+UKR+61":[
+        [
+            "20220801+../news_crawling/RUS_UKR/p_articles/wisfarmer.com/1st ship carrying Ukrainian grain leaves the port of Odesa.txt+eventbasecode61+eventcode61+avgtone0.481651376146789+goldsteinscale0.82+nummentions0.3018867924528302+numarticles0.30239303843364757+numsources0.3223684210526316+news_keywords+['ukraine:0.4714', 'kremlin:0.4128', 'shipment:0.3183', 'evacuate:0.3172', 'sidenko:0.2934', 'disrupt:0.2783', 'commodity:0.2709', 'import:0.2609', 'forward:0.2427', 'political:0.2374', 'military:0.237', 'embattle:0.2347', 'plan:0.2242', 'want:0.2238', 'know:0.2178', 'agreement:0.2137', 'subject:0.2105', 'sector:0.1903', 'corridor:0.1882', 'wheat:0.1861', 'continue:0.1848', 'long:0.1763', 'emphasize:0.1724', 'mechanism:0.1547', 'expert:0.152', 'counteroffensive:0.144', 'wednesday:0.1423', 'calling:0.1222', 'monitor:0.1178', 'st:0.114']+titles_keywords+['odesa:0.3845', 'ship:0.3632', 'ukrainian:0.319', 'grain:0.2653', '1st:0.1771']"
+        ]
+    ]
+}

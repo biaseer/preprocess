@@ -1,0 +1,12 @@
+{
+    "CUB+RUS+51":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/kxxv.com/UN votes overwhelmingly to demand Russia withdraw from Ukraine.txt+eventbasecode51+eventcode51+avgtone0.47714285714285715+goldsteinscale0.67+nummentions0.02467343976777939+numarticles0.025380710659898477+numsources0.02631578947368421+news_keywords+['ukraine:0.4899', 'abstain:0.3053', 'withdraw:0.2833', 'moscows:0.2777', 'nation:0.2511', 'condemn:0.2419', 'overwhelmingly:0.2266', 'troop:0.2244', 'world:0.2185', 'vote:0.2119', 'aggression:0.1763', 'immediate:0.1646', 'use:0.1569', 'stop:0.1514', 'united:0.1471', 'speak:0.1445', 'offensive:0.1399', 'force:0.1308', 'salvador:0.1296', 'like:0.1199', 'resolution:0.118', 'state:0.1157', 'demand:0.1149', 'general:0.1089', 'term:0.1036', 'island:0.1028', 'african:0.0909', 'include:0.0887', 'tiny:0.0508', 'assembly:0.046']+titles_keywords+['ukraine:0.403', 'overwhelmingly:0.3384', 'votes:0.2523', 'withdraw:0.2422', 'demand:0.0818']"
+        ]
+    ],
+    "UKR+USA+51":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/kxxv.com/PEN America will honor imprisoned Ukrainian journalist Vladyslav Yesypenko at gala.txt+eventbasecode51+eventcode51+avgtone0.4693877551020406+goldsteinscale0.67+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['crimean:0.5171', 'yesypenko:0.3923', 'correspondent:0.3832', 'vladyslav:0.3817', 'espionage:0.3441', 'russias:0.3419', 'imprison:0.3002', 'allegation:0.2279', 'europeradio:0.2241', 'war:0.2234', 'news:0.222', 'freedomtowrite:0.2015', 'occupied:0.1838', 'illegal:0.1664', 'source:0.1619', 'write:0.143', 'nossel:0.1418', 'freelance:0.1303', 'penbarbey:0.1242', 'march:0.1066', 'confess:0.1059', 'suzanne:0.0962', 'ceo:0.0934', 'intensified:0.0924', 'federal:0.0839', 'right:0.0779', 'bare:0.0778', 'run:0.0773', 'hgrq:0.0647', 'pic:0.0454']+titles_keywords+['yesypenko:0.405', 'pen:0.2521', 'imprisoned:0.1991', 'honor:0.1989', 'gala:0.1171']"
+        ]
+    ]
+}

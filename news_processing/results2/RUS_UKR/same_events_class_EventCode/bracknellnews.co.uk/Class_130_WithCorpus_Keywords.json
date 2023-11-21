@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+130":[
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/bracknellnews.co.uk/Irish premier due to arrive in Kyiv for series of engagements.txt+eventbasecode130+eventcode130+avgtone0.5+goldsteinscale0.27999999999999997+nummentions0.2706821480406386+numarticles0.271211022480058+numsources0.33223684210526316+news_keywords+['kyiv:0.4362', 'ukraines:0.3832', 'putin:0.3543', 'ireland:0.3481', 'taoiseach:0.3289', 'refugee:0.2459', 'zelensky:0.21', 'province:0.1929', 'martin:0.1909', 'coveney:0.1806', 'troop:0.1468', 'escalate:0.1294', 'killing:0.1261', 'suspect:0.1251', 'lively:0.1233', 'debate:0.1204', 'important:0.1176', 'supply:0.1137', 'oleksii:0.1134', 'ready:0.1064', 'bucha:0.1042', 'neighbouring:0.0997', 'abused:0.094', 'wednesday:0.0886', 'meet:0.0609', 'declare:0.0605', 'way:0.0548', 'winter:0.0524', 'global:0.0484', 'track:0.0274']+titles_keywords+['kyiv:0.4147', 'arrive:0.2695', 'engagements:0.2601', 'irish:0.2316', 'premier:0.217']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/bracknellnews.co.uk/Truss draws up hit list of oligarchs to face sanctions over Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4747292418772563+goldsteinscale0.27999999999999997+nummentions0.4477503628447025+numarticles0.448150833937636+numsources0.4473684210526316+news_keywords+['putin:0.525', 'ukraines:0.4773', 'oligarchs:0.4627', 'kyiv:0.4467', 'sanction:0.3046', 'sovereignty:0.3024', 'tory:0.2861', 'table:0.276', 'telegraph:0.2751', 'secretary:0.2526', 'invasion:0.2487', 'unprovoked:0.2399', 'pursue:0.2353', 'affair:0.2246', 'prepare:0.2185', 'know:0.2033', 'truss:0.1967', 'hide:0.1786', 'evidence:0.163', 'end:0.1607', 'long:0.1574', 'lively:0.1493', 'suggest:0.1429', 'step:0.1408', 'properly:0.1368', 'sure:0.133', 'weve:0.1227', 'ratchet:0.1188', 'world:0.1123', 'week:0.1059']+titles_keywords+['oligarchs:0.449', 'sanctions:0.419', 'truss:0.4115', 'ukraine:0.3588', 'list:0.2469']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/bracknellnews.co.uk/Ukraine officials come under shelling attack on front as invasion fears rise.txt+eventbasecode130+eventcode130+avgtone0.4641180415828303+goldsteinscale0.27999999999999997+nummentions0.3076923076923077+numarticles0.30819434372733867+numsources0.7203947368421053+news_keywords+['ukraine:0.4904', 'kremlin:0.412', 'invade:0.3488', 'evacuate:0.3468', 'escalation:0.3175', 'peaceful:0.3147', 'political:0.3017', 'mobilisation:0.2952', 'prepare:0.2858', 'military:0.2715', 'sinenkov:0.2708', 'news:0.2675', 'nuclear:0.257', 'justify:0.2501', 'worry:0.2405', 'report:0.227', 'trouble:0.227', 'casualty:0.2254', 'know:0.2199', 'secretary:0.214', 'capital:0.2118', 'watch:0.2035', 'pretext:0.2004', 'order:0.195', 'industrial:0.1907', 'pledge:0.1892', 'pull:0.1853', 'final:0.1717', 'weekend:0.1607', 'separate:0.1576']+titles_keywords+['ukraine:0.3279', 'attack:0.2758', 'fears:0.2148', 'shelling:0.1761', 'officials:0.1504']"
+        ]
+    ]
+}

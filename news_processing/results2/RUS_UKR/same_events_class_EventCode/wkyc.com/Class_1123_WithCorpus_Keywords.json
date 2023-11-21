@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+1123":[
+        [
+            "20220402+../news_crawling/RUS_UKR/p_articles/wkyc.com/Ukrainian forces retake areas near Kyiv amid fear of traps.txt+eventbasecode112+eventcode1123+avgtone0.4755412991178829+goldsteinscale0.4+nummentions0.14731494920174165+numarticles0.14793328498912256+numsources0.33223684210526316+news_keywords+['kyiv:0.5974', 'crimea:0.5345', 'ukraines:0.4722', 'putin:0.3547', 'redeployment:0.3239', 'marchenko:0.3207', 'war:0.2838', 'separatist:0.2451', 'flee:0.2446', 'underway:0.2095', 'surround:0.1937', 'telegram:0.1904', 'soon:0.189', 'north:0.187', 'table:0.1848', 'agreement:0.1845', 'develop:0.1813', 'watch:0.1812', 'kilometer:0.1794', 'trap:0.1713', 'donbas:0.167', 'catastrophic:0.1649', 'mortar:0.1452', 'ap:0.1427', 'assurance:0.1403', 'crosshairs:0.131', 'population:0.13', 'photojournalist:0.1121', 'atthe:0.1079', 'significance:0.0959']+titles_keywords+['kyiv:0.4834', 'traps:0.2457', 'fear:0.2208', 'areas:0.1905', 'retake:0.1191']"
+        ]
+    ],
+    "UKR+RUS+1123":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/wkyc.com/Ukraine accuses Russia of planning false flag attack at Chernobyl.txt+eventbasecode112+eventcode1123+avgtone0.4707971586424625+goldsteinscale0.4+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.013157894736842105+news_keywords+['ukraine:0.4793', 'kremlin:0.4308', 'chernobyl:0.417', 'nato:0.3874', 'invade:0.3326', 'cyberattacks:0.3257', 'nuclear:0.317', 'disinformation:0.3109', 'pentagon:0.2718', 'warn:0.2541', 'history:0.2529', 'separatist:0.2236', 'plan:0.2113', 'president:0.2072', 'translation:0.2058', 'poison:0.198', 'perfunctory:0.1899', 'psaki:0.1877', 'operate:0.1849', 'watchdog:0.1833', 'enerhodar:0.1827', 'capital:0.1808', 'want:0.1605', 'thursday:0.1444', 'additional:0.134', 'increasingly:0.1332', 'make:0.1246', 'uncharted:0.1141', 'big:0.1121', 'house:0.1017']+titles_keywords+['chernobyl:0.4641', 'ukraine:0.3963', 'accuses:0.2262', 'flag:0.1894', 'false:0.1634']"
+        ]
+    ]
+}

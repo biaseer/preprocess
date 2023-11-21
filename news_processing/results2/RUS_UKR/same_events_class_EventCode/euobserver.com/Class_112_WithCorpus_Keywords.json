@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+112":[
+        [
+            "20211008+../news_crawling/RUS_UKR/p_articles/euobserver.com/Russia choking EU over new gas pipeline UK says.txt+eventbasecode112+eventcode112+avgtone0.45+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4509', 'eu:0.3254', 'pipeline:0.3208', 'gas:0.2737', 'supply:0.2291', 'nord:0.2252', 'regulator:0.2209', 'security:0.184', 'join:0.1728', 'concern:0.153', 'bully:0.1383', 'german:0.1373', 'choke:0.1308', 'eastern:0.124', 'downing:0.123', 'monopoly:0.122', 'implication:0.107', 'accuse:0.106', 'stream:0.1014', 'let:0.1', 'dependence:0.0889', 'directly:0.0767', 'new:0.0749', 'street:0.0743', 'story:0.063', 'run:0.05', 'highly:0.0275', 'feedback:0.0152', 'impact:-0.0004', 'thought:-0.0279']+titles_keywords+['russia:0.3478', 'pipeline:0.2816', 'choking:0.2111', 'new:0.0976', 'says:0.0515']"
+        ]
+    ],
+    "USA+RUS+112":[
+        [
+            "20211119+../news_crawling/RUS_UKR/p_articles/euobserver.com/Putin accuses West of escalating situation in Ukraine.txt+eventbasecode112+eventcode112+avgtone0.4551282051282049+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5456', 'vladimir:0.4331', 'kyiv:0.4019', 'russian:0.3957', 'escalate:0.3255', 'accuse:0.2884', 'provocative:0.2662', 'conflict:0.222', 'drill:0.2094', 'border:0.208', 'write:0.1834', 'fly:0.1813', 'supply:0.1636', 'west:0.1559', 'comment:0.1469', 'troop:0.1396', 'come:0.1388', 'afp:0.1347', 'say:0.1323', 'weapon:0.1312', 'manoeuvre:0.1221', 'lethal:0.1178', 'near:0.117', 'km:0.1005', 'modern:0.099', 'black:0.0859', 'hold:0.0749', 'appreciate:0.0395', 'value:0.0385', 'partner:0.0371']+titles_keywords+['putin:0.3998', 'ukraine:0.35', 'escalating:0.2982', 'accuses:0.2472', 'west:0.1909']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/thereminder.ca/Police More than 900 civilian bodies found in Kyiv region.txt+eventbasecode51+eventcode51+avgtone0.468213058419244+goldsteinscale0.67+nummentions0.06132075471698113+numarticles0.062001450326323426+numsources0.14473684210526316+news_keywords+['kyiv:0.5539', 'russias:0.3494', 'airstrikes:0.3457', 'news:0.3007', 'casualty:0.2765', 'nationalist:0.2646', 'annexed:0.2607', 'sinehubov:0.2592', 'troop:0.2475', 'sank:0.226', 'diversion:0.2243', 'victory:0.2217', 'friday:0.2155', 'ominous:0.2135', 'exhumation:0.2105', 'historic:0.2006', 'anonymity:0.2002', 'report:0.1981', 'cite:0.1964', 'production:0.192', 'suspect:0.1832', 'street:0.1805', 'bucha:0.1766', 'rid:0.1575', 'understand:0.1516', 'object:0.1421', 'long:0.137', 'like:0.1232', 'senior:0.0981', 'disagree:0.0657']+titles_keywords+['kyiv:0.4262', 'bodies:0.3739', 'police:0.3241', 'civilian:0.2936', '900:0.2421']"
+        ],
+        [
+            "20220623+../news_crawling/RUS_UKR/p_articles/thereminder.ca/Trudeau announces 250M in food aid blames Russia for skyrocketing prices.txt+eventbasecode51+eventcode51+avgtone0.4796954314720812+goldsteinscale0.67+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.01644736842105263+news_keywords+['rwandas:0.5741', 'trudeau:0.3894', 'nato:0.38', 'geopolitical:0.3797', 'kigali:0.3457', 'commonwealth:0.3182', 'government:0.3072', 'blockade:0.2746', 'moscow:0.2705', 'funding:0.2619', 'roundtable:0.2264', 'world:0.2088', 'pandemic:0.1928', 'blaming:0.1923', 'concern:0.18', 'fact:0.175', 'head:0.1742', 'thursday:0.1677', 'forward:0.1674', 'grow:0.1673', 'impact:0.1665', 'attend:0.1632', 'feed:0.1579', 'ardern:0.1528', 'postpone:0.1485', 'kagame:0.1353', 'vote:0.1333', 'addition:0.1283', 'version:0.1137', 'welcome:0.0813']+titles_keywords+['trudeau:0.3901', 'russia:0.3657', 'aid:0.2497', 'blames:0.2386', 'prices:0.2225']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "ITA+RUS+40":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/forexlive.com/Italian PM Draghi tells Putin that Italy is willing to help in any peace process.txt+eventbasecode40+eventcode40+avgtone0.5068181818181818+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['eurusd:0.4736', 'eur:0.4667', 'euro:0.447', 'usd:0.3803', 'currency:0.3519', 'pair:0.2452', 'symbol:0.23', 'european:0.2294', 'italy:0.2236', 'trading:0.2201', 'equivalent:0.1774', 'putin:0.1715', 'order:0.1611', 'unions:0.1442', 'rate:0.1181', 'example:0.0901', 'tradable:0.0892', 'states:0.0835', 'code:0.0776', 'peace:0.0752', 'draghi:0.0736', 'need:0.0632', 'tell:0.0602', 'world:0.0595', 'pm:0.0388', 'popular:0.0374', 'mean:0.0357', 'second:0.0245', 'encompass:0.0237', 'process:-0.0221']+titles_keywords+['draghi:0.405', 'italy:0.35', 'putin:0.3114', 'peace:0.2365', 'willing:0.1903']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/forexlive.com/EURUSD races toward highs from earlier this month.txt+eventbasecode40+eventcode40+avgtone0.5079787234042553+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['forex:0.4927', 'eurusd:0.4862', 'euro:0.4614', 'kyiv:0.3377', 'market:0.3256', 'trend:0.31', 'chart:0.3062', 'upside:0.2788', 'lead:0.2466', 'read:0.2289', 'union:0.2259', 'circulation:0.224', 'withdrawing:0.2203', 'retracement:0.2071', 'january:0.207', 'enter:0.1966', 'price:0.19', 'cnn:0.1892', 'level:0.1821', 'hour:0.179', 'tomorrow:0.1783', 'drilling:0.1762', 'concern:0.1717', 'agreement:0.1673', 'report:0.164', 'make:0.1624', 'run:0.1623', 'official:0.1252', 'like:0.1132', 'midpoint:0.1127']+titles_keywords+['eurusd:0.567', 'highs:0.2502', 'month:0.2291', 'races:0.1466', 'earlier:0.1016']"
+        ],
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/forexlive.com/Moscow says there is no movement in peace talks with Kyiv.txt+eventbasecode40+eventcode40+avgtone0.5075757575757576+goldsteinscale0.55+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['kyiv:0.6036', 'moscow:0.5444', 'talk:0.3718', 'peace:0.3206', 'movement:0.3158', 'reconcile:0.3093', 'dialogue:0.3012', 'say:0.2373', 'place:0.232', 'continue:0.2184', 'difference:0.2177', 'optic:0.1966', 'carry:0.1938', 'lack:0.1788', 'case:0.1243', 'come:0.1179', 'really:0.0956', 'surprise:0.0785', 'total:0.0635', 'able:0.0537']+titles_keywords+['kyiv:0.4438', 'movement:0.3014', 'peace:0.2708', 'talks:0.195', 'says:0.0477']"
+        ]
+    ]
+}

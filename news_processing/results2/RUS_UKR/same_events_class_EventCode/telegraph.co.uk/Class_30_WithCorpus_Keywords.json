@@ -1,0 +1,15 @@
+{
+    "BLR+RUS+30":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Ukraine war could turn into Russias Vietnam says Ben Wallace.txt+eventbasecode30+eventcode30+avgtone0.4794832826747721+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4483', 'kremlin:0.4104', 'nato:0.3498', 'war:0.3158', 'readiness:0.2996', 'nuclear:0.2393', 'transform:0.2261', 'collapse:0.221', 'quagmire:0.219', 'anticipate:0.2175', 'escalate:0.2141', 'president:0.1977', 'shvytkin:0.1965', 'result:0.1857', 'introduce:0.1828', 'information:0.1809', 'order:0.1704', 'rout:0.1667', 'rail:0.1644', 'confusion:0.1599', 'soon:0.1595', 'note:0.159', 'refute:0.1394', 'general:0.1393', 'say:0.129', 'short:0.1238', 'big:0.1063', 'iskander:0.0885', 'suggestions:0.0792', 'population:0.0714']+titles_keywords+['ukraine:0.3875', 'war:0.3202', 'wallace:0.2328', 'turn:0.0899', 'says:0.0865']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/No more than seven years old the children of Sumy blown up as they prepared.txt+eventbasecode30+eventcode30+avgtone0.4705159705159705+goldsteinscale0.7+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.006578947368421052+news_keywords+['kyiv:0.4992', 'ceasefire:0.4469', 'putin:0.433', 'evacuate:0.414', 'propaganda:0.3723', 'poltava:0.3032', 'casualty:0.2812', 'embassy:0.2766', 'invasion:0.2714', 'infrastructure:0.2376', 'scary:0.23', 'corridor:0.2287', 'india:0.2282', 'prepare:0.2164', 'rubble:0.2156', 'street:0.2151', 'tell:0.213', 'child:0.2124', 'understand:0.2076', 'trainsvehicles:0.2', 'basic:0.1743', 'red:0.1732', 'limbs:0.163', 'day:0.1611', 'like:0.1577', 'video:0.1575', 'desperate:0.1558', 'fall:0.1557', 'mr:0.133', 'contort:0.1319']+titles_keywords+['sumy:0.4601', 'children:0.3771', 'flee:0.2226', 'years:0.2144', 'blown:0.2141']"
+        ],
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Russia has agreed to almost all of our peace proposals says Ukrainian negotiator.txt+eventbasecode30+eventcode30+avgtone0.50875+goldsteinscale0.7+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.023026315789473683+news_keywords+['crimea:0.4387', 'nato:0.3912', 'putin:0.3777', 'negotiate:0.3498', 'russias:0.3202', 'peace:0.2843', 'meeting:0.2811', 'occupy:0.2102', 'soon:0.1991', 'zelensky:0.1878', 'delegation:0.1757', 'enters:0.1688', 'neutral:0.1624', 'concern:0.1624', 'status:0.1611', 'ready:0.1594', 'counterparts:0.1511', 'long:0.148', 'continue:0.1457', 'official:0.1435', 'stage:0.1418', 'week:0.1314', 'draft:0.1305', 'pave:0.1235', 'seek:0.1233', 'hammer:0.1047', 'set:0.1017', 'make:0.0955', 'agree:0.0888', 'possible:0.0832']+titles_keywords+['ukrainian:0.3244', 'peace:0.2573', 'negotiator:0.2409', 'proposals:0.2149', 'says:0.0663']"
+        ]
+    ]
+}

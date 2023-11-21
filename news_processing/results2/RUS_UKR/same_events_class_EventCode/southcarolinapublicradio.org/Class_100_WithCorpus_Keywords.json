@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/southcarolinapublicradio.org/Ukrainian forces have liberated Kyiv region from Russia.txt+eventbasecode100+eventcode100+avgtone0.5256410256410257+goldsteinscale0.25+nummentions0.030478955007256895+numarticles0.03118201595358956+numsources0.03289473684210526+news_keywords+['kyiv:0.5537', 'russians:0.4015', 'warfare:0.3615', 'pentagon:0.2966', 'fought:0.2544', 'negotiation:0.2278', 'shift:0.2025', 'columns:0.1997', 'flee:0.1763', 'news:0.175', 'forth:0.173', 'donbas:0.1702', 'hold:0.1615', 'flush:0.1493', 'sullivan:0.1489', 'transcript:0.1483', 'unidentified:0.1477', 'officer:0.1415', 'middle:0.1406', 'plus:0.1366', 'prepared:0.1352', 'big:0.1327', 'difference:0.1266', 'bit:0.1155', 'month:0.1086', 'eventually:0.1041', 'spark:0.1017', 'house:0.1017', 'agree:0.0746', 'firsthand:0.0656']+titles_keywords+['kyiv:0.5912', 'ukrainian:0.4907', 'liberated:0.3254', 'region:0.1808', 'forces:0.0266']"
+        ]
+    ],
+    "UKR+EUR+100":[
+        [
+            "20220830+../news_crawling/RUS_UKR/p_articles/southcarolinapublicradio.org/Ukraine wants the EU to ban Russian tourists.txt+eventbasecode100+eventcode100+avgtone0.45833333333333337+goldsteinscale0.25+nummentions0.14005805515239478+numarticles0.1406816533720087+numsources0.11513157894736842+news_keywords+['crimea:0.4452', 'visas:0.3982', 'schengen:0.3981', 'ukrainians:0.377', 'putin:0.3673', 'tourist:0.2945', 'border:0.2932', 'eu:0.2806', 'ban:0.2667', 'bloc:0.2155', 'protest:0.2139', 'protect:0.2092', 'compromise:0.1922', 'counterproductive:0.1883', 'history:0.1735', 'introduce:0.1696', 'decide:0.1651', 'board:0.1599', 'come:0.154', 'point:0.154', 'issue:0.1528', 'news:0.1484', 'like:0.1178', 'term:0.1148', 'number:0.1096', 'schultz:0.1064', 'ordinary:0.0751', 'directly:0.0574', 'week:0.0346', 'teri:0.0312']+titles_keywords+['ukraine:0.4585', 'eu:0.2423', 'tourists:0.2415', 'ban:0.2249', 'wants:0.0889']"
+        ]
+    ]
+}

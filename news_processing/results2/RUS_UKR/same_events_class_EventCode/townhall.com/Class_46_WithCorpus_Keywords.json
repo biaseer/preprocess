@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/townhall.com/As Russia Claims Ukrainians Refusing Ceasefire Ukrainian Officials Say No to Unacceptable Conditions.txt+eventbasecode46+eventcode46+avgtone0.4777892561983471+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ceasefire:0.4893', 'ukrainians:0.4172', 'putin:0.3889', 'invasion:0.3347', 'battalion:0.3263', 'negotiate:0.3054', 'reuters:0.2918', 'zelensky:0.2625', 'tactic:0.261', 'escalate:0.2554', 'armed:0.247', 'reject:0.2331', 'confuse:0.2181', 'remain:0.2141', 'occurs:0.1844', 'conditions:0.1818', 'volodymyr:0.18', 'update:0.1771', 'know:0.1756', 'anticipate:0.1755', 'despite:0.1716', 'read:0.1689', 'emphasize:0.1589', 'end:0.153', 'outlet:0.151', 'north:0.1414', 'sure:0.1407', 'unrealistic:0.134', 'month:0.1247', 'categorically:0.0833']+titles_keywords+['ukrainians:0.3981', 'ceasefire:0.3706', 'refusing:0.3272', 'conditions:0.1302', 'say:0.0488']"
+        ]
+    ],
+    "WST+UKR+46":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/townhall.com/Who Is Vladimir Putin and What Makes Him Tick.txt+eventbasecode46+eventcode46+avgtone0.4910802775024778+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.6', 'vladimir:0.5045', 'orthodox:0.4165', 'crimea:0.3878', 'propaganda:0.3621', 'nationalism:0.3407', 'christendom:0.3177', 'kyev:0.3054', 'megalomaniac:0.2976', 'pedophilia:0.2729', 'invade:0.2384', 'read:0.2329', 'baptize:0.2113', 'speech:0.2048', 'constitute:0.2022', 'person:0.1983', 'successor:0.1968', 'thrive:0.1892', 'know:0.1785', 'fashion:0.1769', 'powerful:0.1726', 'goal:0.1626', 'head:0.1568', 'nontraditional:0.1486', 'todayputin:0.1483', 'merges:0.1387', 'trace:0.1377', 'like:0.1309', 'actually:0.1141', 'sure:0.1089']+titles_keywords+['putin:0.6553', 'vladimir:0.5358', 'tick:0.2545', 'makes:0.1205']"
+        ]
+    ]
+}

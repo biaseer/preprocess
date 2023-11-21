@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+193":[
+        []
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/kildare-nationalist.ie/What the papers say Saturdays front pages.txt+eventbasecode193+eventcode193+avgtone0.48567708333333337+goldsteinscale0.0+nummentions0.038098693759071114+numarticles0.0387962291515591+numsources0.05592105263157895+news_keywords+['ukraine:0.4375', 'belfast:0.3853', 'telegraph:0.3561', 'invasion:0.3357', 'refugee:0.3309', 'pipeline:0.2625', 'macron:0.2454', 'page:0.2337', 'examiner:0.2283', 'saturday:0.2207', 'situation:0.2142', 'times:0.2141', 'significant:0.1889', 'plan:0.1827', 'tragic:0.1819', 'current:0.1747', 'soar:0.1606', 'home:0.1575', 'criticising:0.1423', 'sessions:0.1422', 'continue:0.14', 'list:0.1393', 'focus:0.1335', 'savage:0.1216', 'diyaolu:0.1208', 'comcub:0.1131', 'long:0.104', 'tellitlikeitis:0.0839', 'make:0.0817', 'welcome:0.0776']+titles_keywords+['saturdays:0.5313', 'papers:0.4649', 'pages:0.3705', 'say:0.1797']"
+        ]
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "EUR+UKR+72":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/voanews.com/Russias Bolshoi Scraps Performances by Critical Directors.txt+eventbasecode72+eventcode72+avgtone0.4801829268292683+goldsteinscale0.915+nummentions0.020682148040638608+numarticles0.02139231327048586+numsources0.02631578947368421+news_keywords+['moscow:0.448', 'putin:0.4353', 'vladimir:0.4235', 'theatre:0.4144', 'ballet:0.4031', 'russias:0.3887', 'serebrennikov:0.3849', 'bolshoi:0.3366', 'production:0.3206', 'perform:0.3085', 'directors:0.2876', 'authoritarianism:0.2687', 'nudity:0.2466', 'opera:0.2421', 'homophobia:0.215', 'rudolf:0.2139', 'spartacus:0.2001', 'outrage:0.1946', 'shame:0.1698', 'gogol:0.1687', 'prestigious:0.1566', 'allow:0.1506', 'fund:0.1497', 'western:0.149', 'speak:0.1429', 'afp:0.1361', 'cancel:0.1356', 'troop:0.105', 'scraps:0.1019', 'april:0.0761']+titles_keywords+['bolshoi:0.4788', 'directors:0.3665', 'performances:0.3165', 'russias:0.2898', 'critical:0.2333']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/voanews.com/52 Documentary.txt+eventbasecode72+eventcode72+avgtone0.48706896551724144+goldsteinscale0.915+nummentions0.03701015965166909+numarticles0.03770848440899202+numsources0.029605263157894735+news_keywords+['ukraine:0.4373', 'documentary:0.4148', 'russian:0.3858', 'putin:0.3727', 'vladimir:0.3548', 'journalist:0.3278', 'soldier:0.2925', 'scenario:0.2893', 'badikov:0.2691', 'director:0.2659', 'matusovsky:0.1846', 'camera:0.1835', 'role:0.181', 'defend:0.1447', 'anna:0.1444', 'possible:0.1383', 'people:0.1357', 'later:0.1341', 'editing:0.1323', 'resident:0.1292', 'join:0.1208', 'loiko:0.1116', 'nonsense:0.0848', 'decide:0.0568', 'ask:0.0527', 'send:0.0473', 'times:0.0269', 'like:0.0221', 'year:0.0182', 'average:-0.013']+titles_keywords+['documentary:0.7121', '52:0.5456']"
+        ],
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/voanews.com/Russia Sees Start of New Cold War.txt+eventbasecode72+eventcode72+avgtone0.48+goldsteinscale0.915+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['putin:0.4475', 'vladimir:0.4039', 'moscow:0.4035', 'ukraine:0.3737', 'war:0.3338', 'cold:0.1762', 'continuation:0.1684', 'february:0.1648', 'troop:0.1614', 'start:0.1601', 'history:0.1544', 'new:0.1442', 'current:0.1401', 'relation:0.1331', 'dark:0.1301', 'report:0.1214', 'sign:0.1159', 'european:0.1013', 'state:0.0975', 'send:0.0972', 'period:0.0828', 'divide:0.071', 'say:0.07', 'heal:0.0698', 'west:0.0629', 'sees:0.0383', 'encapsulate:0.0335', 'museum:0.0244', 'analyst:0.0092', 'harton:-0.0267']+titles_keywords+['russia:0.3781', 'war:0.3244', 'cold:0.2245', 'new:0.216', 'start:0.2006']"
+        ],
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/voanews.com/Russians Buy Last Goods From HM IKEA as Stores Wind Down.txt+eventbasecode72+eventcode72+avgtone0.5015923566878981+goldsteinscale0.915+nummentions0.1955732946298984+numarticles0.19253081943437272+numsources0.20394736842105263+news_keywords+['russians:0.4939', 'putin:0.4586', 'minsk:0.4117', 'ikea:0.3431', 'business:0.3255', 'stock:0.2579', 'department:0.2481', 'nestle:0.2454', 'furnishing:0.2424', 'vkusno:0.2219', 'president:0.2199', 'make:0.2134', 'leonid:0.2134', 'import:0.2129', 'country:0.2126', 'goods:0.1953', 'example:0.1844', 'affect:0.182', 'forward:0.1765', 'month:0.1693', 'halt:0.1669', 'substitute:0.1603', 'marks:0.1458', 'red:0.1378', 'emerge:0.1309', 'scale:0.129', 'snap:0.1217', 'hm:0.1144', 'line:0.1144', 'shelve:0.1082']+titles_keywords+['ikea:0.5534', 'russians:0.3756', 'goods:0.2427', 'buy:0.2151', 'hm:0.137']"
+        ]
+    ],
+    "UKR+RUS+72":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/voanews.com/International Volunteers in the Ukrainian Army Coming and Going.txt+eventbasecode72+eventcode72+avgtone0.5+goldsteinscale0.915+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.5409', 'ukrainian:0.5029', 'soldier:0.4058', 'army:0.3901', 'poland:0.378', 'invasion:0.3728', 'volunteers:0.3708', 'russias:0.37', 'korczowa:0.367', 'volunteer:0.3439', 'going:0.2446', 'come:0.2145', 'international:0.2074', 'voas:0.1751', 'coming:0.1697', 'home:0.1673', 'fight:0.1664', 'report:0.1613', 'thousands:0.1513', 'reason:0.1341', 'help:0.1306', 'vary:0.114', 'mendoza:0.0824', 'celia:0.0449']+titles_keywords+['volunteers:0.4915', 'ukrainian:0.4883', 'army:0.4305', 'international:0.2849', 'going:0.2227']"
+        ]
+    ]
+}

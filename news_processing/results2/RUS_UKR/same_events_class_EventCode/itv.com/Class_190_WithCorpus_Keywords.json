@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/itv.com/Russia mounts second phase of invasion as Zelenskyy says battle for Donbas has begun.txt+eventbasecode190+eventcode190+avgtone0.46986607142857145+goldsteinscale0.0+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['ukraines:0.4505', 'putin:0.4094', 'invasion:0.3852', 'tactic:0.3133', 'artillery:0.2826', 'backfire:0.274', 'correspondent:0.2557', 'zelenskyy:0.2469', 'victory:0.2438', 'phase:0.2393', 'logistics:0.225', 'fight:0.2219', 'push:0.2206', 'remind:0.2063', 'know:0.2059', 'learn:0.2059', 'donbas:0.1813', 'want:0.1777', 'begin:0.1772', 'column:0.1765', 'second:0.174', 'difference:0.1657', 'preliminary:0.1626', 'new:0.1574', 'february:0.1479', 'clock:0.1399', 'eventually:0.1387', 'safe:0.1351', 'big:0.1346', 'world:0.1226']+titles_keywords+['zelenskyy:0.4289', 'invasion:0.3562', 'donbas:0.2876', 'russia:0.268', 'begun:0.2112']"
+        ],
+        [
+            "20220611+../news_crawling/RUS_UKR/p_articles/itv.com/Three months into war morale on Ukraines frontline begins to wane.txt+eventbasecode190+eventcode190+avgtone0.4736842105263158+goldsteinscale0.0+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.006578947368421052+news_keywords+['ukraine:0.4935', 'troop:0.3274', 'battle:0.3127', 'frontline:0.2926', 'separatist:0.2923', 'territory:0.2719', 'correspondent:0.2687', 'morale:0.2659', 'industrial:0.232', 'rout:0.2239', 'sievierodonetsk:0.2113', 'serhiy:0.2105', 'develop:0.2052', 'donbas:0.1894', 'slog:0.1821', 'tell:0.168', 'outnumber:0.1631', 'forever:0.1624', 'young:0.1621', 'begin:0.1586', 'afraid:0.1582', 'cut:0.1564', 'trap:0.1561', 'governor:0.1443', 'refocus:0.1426', 'immediate:0.1379', 'arm:0.1245', 'calculate:0.1209', 'like:0.1142', 'cost:0.0837']+titles_keywords+['morale:0.4486', 'ukraines:0.3966', 'frontline:0.379', 'months:0.2553', 'wane:0.2358']"
+        ]
+    ],
+    "UKR+UKR+190":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/itv.com/Russias bombardment of Ukraines second largest city Kharkiv leaves 21 dead.txt+eventbasecode190+eventcode190+avgtone0.46875+goldsteinscale0.0+nummentions0.33708272859216254+numarticles0.33756345177664976+numsources0.39473684210526316+news_keywords+['ukraine:0.4825', 'stalingrad:0.4617', 'airstrikes:0.4413', 'moscows:0.4166', 'bombardment:0.3493', 'zelenskyy:0.2911', 'military:0.2787', 'occupy:0.2766', 'strategic:0.2606', 'correspondent:0.2313', 'crisis:0.2283', 'tank:0.2257', 'capital:0.2217', 'diplomatically:0.2092', 'know:0.2014', 'flee:0.2004', 'soon:0.1854', 'analyse:0.181', 'order:0.167', 'continue:0.1651', 'world:0.1531', 'surround:0.1509', 'previous:0.1417', 'increase:0.1411', 'long:0.1365', 'dead:0.1364', 'nearly:0.1329', 'population:0.1245', 'major:0.124', 'dozen:0.1212']+titles_keywords+['kharkiv:0.4324', 'ukraines:0.4148', 'bombardment:0.3359', '21:0.154', 'dead:0.1371']"
+        ]
+    ]
+}

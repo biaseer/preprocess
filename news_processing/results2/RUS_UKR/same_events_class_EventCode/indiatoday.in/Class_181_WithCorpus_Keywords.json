@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+181":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Two US citizens in Ukraine feared captured by Russia.txt+eventbasecode181+eventcode181+avgtone0.4838308457711442+goldsteinscale0.05+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukrainians:0.4671', 'putin:0.3987', 'russian:0.3931', 'veteran:0.2935', 'invade:0.287', 'confrontation:0.2531', 'disappearance:0.2361', 'kharkiv:0.2208', 'nuclear:0.2074', 'unnamed:0.2016', 'safer:0.1966', 'captive:0.1954', 'report:0.1713', 'believe:0.1612', 'heard:0.1541', 'telegraph:0.1494', 'aid:0.1458', 'continue:0.1434', 'washington:0.1362', 'contact:0.1341', 'drueke:0.1105', 'direct:0.1097', 'june:0.1024', 'convicted:0.1021', 'dollar:0.0981', 'nearly:0.0932', 'large:0.078', 'way:0.0779', 'true:0.0691', 'add:0.0441']+titles_keywords+['ukraine:0.4026', 'russia:0.2934', 'captured:0.292', 'feared:0.2771', 'citizens:0.2507']"
+        ]
+    ],
+    "UKR+RUS+181":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Hacker group Anonymous hacks over 400 Russian cameras lays text on feed reading Putin is.txt+eventbasecode181+eventcode181+avgtone0.47373949579831937+goldsteinscale0.05+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.006578947368421052+news_keywords+['kremlin:0.4505', 'cyberwar:0.435', 'propaganda:0.4228', 'ukraine:0.4216', 'anonymous:0.4055', 'cameras:0.358', 'government:0.3477', 'invasion:0.3194', 'security:0.3192', 'group:0.3095', 'capture:0.27', 'feed:0.2669', 'anti:0.2549', 'humanitarian:0.2534', 'website:0.252', 'hack:0.252', 'text:0.223', 'act:0.1829', 'civillians:0.1812', 'global:0.1756', 'behindenemylines:0.1748', 'direct:0.1608', 'dogra:0.1551', 'meant:0.1429', 'case:0.1375', 'house:0.133', 'confirm:0.1286', 'fawkes:0.1227', 'plus:0.1077', 'compile:0.0961']+titles_keywords+['putin:0.4078', 'anonymous:0.363', 'cameras:0.2904', 'text:0.242', 'feed:0.2412']"
+        ]
+    ]
+}

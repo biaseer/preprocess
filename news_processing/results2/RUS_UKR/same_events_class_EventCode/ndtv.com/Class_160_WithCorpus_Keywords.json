@@ -1,0 +1,20 @@
+{
+    "RUS+UKR+160":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/ndtv.com/Amid Ukraine Crisis YouTube Blocks Monetisation For Some Russian Channels.txt+eventbasecode160+eventcode160+avgtone0.477198697068404+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['russia:0.4282', 'channels:0.3559', 'monetisation:0.2922', 'disinformation:0.2891', 'google:0.2721', 'rt:0.2606', 'ban:0.2578', 'headline:0.2532', 'crisis:0.2457', 'ndtv:0.2343', 'feed:0.2333', 'content:0.226', 'invade:0.2254', 'blocks:0.212', 'restriction:0.2087', 'platform:0.2081', 'globally:0.2039', 'video:0.1781', 'term:0.1678', 'authority:0.1653', 'subsidiary:0.1573', 'export:0.1258', 'contribute:0.1246', 'continue:0.1184', 'state:0.0967', 'monitor:0.091', 'today:0.0862', 'new:0.0801', 'number:0.0796', 'certain:0.0485']+titles_keywords+['ukraine:0.3552', 'youtube:0.3246', 'monetisation:0.2491', 'crisis:0.1689', 'blocks:0.1678']"
+        ],
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/ndtv.com/New Satellite Pics Show Signs Of Intense Fight Around Ukraines Capital Kyiv.txt+eventbasecode160+eventcode160+avgtone0.47854077253+goldsteinscale0.3+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['kyiv:0.5104', 'ukraines:0.4435', 'airstrikes:0.405', 'evacuation:0.3747', 'troop:0.2443', 'ongoing:0.2426', 'strategic:0.2274', 'satellite:0.2247', 'humanitarian:0.2215', 'northeast:0.2096', 'airport:0.2089', 'fight:0.1998', 'flank:0.1933', 'breakaway:0.1925', 'movement:0.1894', 'irpin:0.1881', 'river:0.1863', 'near:0.1788', 'surround:0.1764', 'technologies:0.1582', 'leave:0.1565', 'establish:0.1563', 'crater:0.1493', 'damage:0.1456', 'note:0.1228', 'pics:0.108', 'agree:0.1034', 'earlier:0.1007', 'way:0.0931', 'click:0.0785']+titles_keywords+['kyiv:0.5735', 'fight:0.3364', 'satellite:0.2922', 'intense:0.2292', 'pics:0.1656']"
+        ]
+    ],
+    "RUS+WST+160":[
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/ndtv.com/Ahead of G7 Summit Russia Bombs Residential Building In Ukraines Kyiv.txt+eventbasecode160+eventcode160+avgtone0.4812433011789925+goldsteinscale0.3+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.013157894736842105+news_keywords+['kyiv:0.5474', 'ukraines:0.4854', 'putin:0.4767', 'nato:0.4446', 'diplomacy:0.4113', 'invade:0.3369', 'evacuate:0.3236', 'missiles:0.2883', 'headline:0.2853', 'involved:0.2564', 'battle:0.2459', 'separatist:0.243', 'neighbouring:0.2242', 'sanction:0.2173', 'pipeline:0.2161', 'deliver:0.2014', 'building:0.1923', 'turn:0.1875', 'acknowledgement:0.1736', 'severodonetsk:0.1728', 'heard:0.1654', 'saturday:0.1626', 'long:0.1592', 'winter:0.1568', 'data:0.1396', 'upgrade:0.1361', 'cause:0.1279', 'largely:0.126', 'stock:0.1204', 'ndtv:0.1026']+titles_keywords+['kyiv:0.5162', 'bombs:0.3171', 'residential:0.2531', 'g7:0.212', 'ahead:0.026']"
+        ]
+    ],
+    "UKR+RUS+160":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/ndtv.com/Russia Says It Will Open Humanitarian Corridor From Mariupol Today.txt+eventbasecode160+eventcode160+avgtone0.48582995951417+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4286', 'ceasefire:0.3877', 'humanitarian:0.3764', 'evacuate:0.3417', 'vladimir:0.3342', 'unhcr:0.2794', 'corridor:0.27', 'azov:0.2685', 'mariupol:0.2115', 'port:0.1817', 'safe:0.1801', 'trap:0.1591', 'cross:0.1552', 'kilometre:0.1521', 'reopen:0.1496', 'macron:0.1391', 'bus:0.1389', 'gmt:0.1363', 'allow:0.1172', 'april:0.1138', 'headline:0.1113', 'icrc:0.1045', 'send:0.0951', 'ndtv:0.0917', 'refer:0.0874', 'agree:0.0811', 'story:0.0697', 'today:0.0637', 'personal:0.0623', 'despite:0.0602']+titles_keywords+['russia:0.3094', 'humanitarian:0.2976', 'corridor:0.2414', 'mariupol:0.2322', 'today:0.0965']"
+        ]
+    ]
+}

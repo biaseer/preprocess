@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/clydebankpost.co.uk/Will Russias allies support their invasion of Ukraine.txt+eventbasecode51+eventcode51+avgtone0.4987244897959184+goldsteinscale0.67+nummentions0.04608127721335269+numarticles0.046773023930384336+numsources0.10197368421052631+news_keywords+['ukraine:0.4775', 'putin:0.4647', 'russias:0.4169', 'invasion:0.3023', 'tyshkevich:0.2581', 'bloodshed:0.2178', 'military:0.2172', 'presidentvolodymyr:0.1951', 'engage:0.176', 'want:0.1722', 'secure:0.1705', 'ally:0.1695', 'avoid:0.165', 'concern:0.1649', 'drill:0.149', 'continue:0.1345', 'expert:0.133', 'finance:0.1291', 'article:0.1272', 'hold:0.1231', 'levada:0.1218', 'argument:0.1213', 'increase:0.12', 'report:0.1123', 'eventual:0.1062', 'goal:0.1058', 'alreadya:0.1031', 'today:0.0748', 'andseize:0.0607', 'televised:0.0493']+titles_keywords+['russias:0.4355', 'ukraine:0.4297', 'allies:0.4155', 'invasion:0.3016', 'support:0.1631']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220826+../news_crawling/RUS_UKR/p_articles/clydebankpost.co.uk/Moscow film festival opens with praise of soldiers in Donbas.txt+eventbasecode51+eventcode51+avgtone0.5165562913907285+goldsteinscale0.67+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.2631578947368421+news_keywords+['moscow:0.4882', 'mikhalkov:0.3962', 'nikita:0.355', 'ukraines:0.3318', 'film:0.317', 'megerdichev:0.2796', 'anton:0.2778', 'festival:0.2701', 'donbas:0.2405', 'historical:0.1788', 'academy:0.1621', 'fight:0.1569', 'industrial:0.1523', 'hero:0.1477', 'separatist:0.134', 'representation:0.1292', 'important:0.1231', 'praise:0.1187', 'direct:0.1185', 'stay:0.1068', 'th:0.1065', 'burnt:0.0819', 'anticipate:0.075', 'issue:0.075', 'world:0.0722', 'want:0.0653', 'actually:0.0608', 'big:0.0608', 'reduce:0.0359', 'bear:0.018']+titles_keywords+['moscow:0.4091', 'festival:0.3049', 'soldiers:0.2941', 'film:0.2748', 'praise:0.2153']"
+        ]
+    ]
+}

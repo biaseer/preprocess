@@ -1,0 +1,13 @@
+{
+    "RUS+EUR+60":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/ASX set for falls as Ukraine Fed keep Wall Street on edge.txt+eventbasecode60+eventcode60+avgtone0.4852071005917159+goldsteinscale0.8+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['nasdaq:0.3947', 'economy:0.3797', 'ukraine:0.3739', 'dow:0.3159', 'newsletter:0.3108', 'recap:0.2886', 'crisis:0.2867', 'friday:0.2811', 'treasury:0.271', 'future:0.2704', 'fed:0.2596', 'watch:0.253', 'concern:0.2525', 'global:0.2466', 'update:0.2437', 'report:0.2384', 'pull:0.2182', 'disrupts:0.2136', 'wrap:0.2064', 'continue:0.2049', 'fell:0.1989', 'asx:0.1988', 'rise:0.1823', 'diplomat:0.1774', 'include:0.1747', 'amass:0.1702', 'benchmark:0.1655', 'house:0.1473', 'broad:0.1227', 'relatively:0.1084']+titles_keywords+['asx:0.4271', 'falls:0.3204', 'ukraine:0.2413', 'fed:0.2075', 'set:0.1557']"
+        ]
+    ],
+    "RUS+UKR+60":[
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/Russian soldier pleads guilty to murdering Ukrainian civilian.txt+eventbasecode60+eventcode60+avgtone0.4411764705882355+goldsteinscale0.8+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.009868421052631578+news_keywords+['russian:0.3988', 'ukrainian:0.3947', 'soldier:0.3018', 'civilian:0.2931', 'pleads:0.2553', 'murder:0.233', 'guilty:0.2126']+titles_keywords+['ukrainian:0.3844', 'civilian:0.2745', 'pleads:0.2232', 'murdering:0.2037', 'guilty:0.1922']",
+            "20220523+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/Ashamed Russian diplomat resigns as soldier sentenced to life in prison.txt+eventbasecode60+eventcode60+avgtone0.45927601809954766+goldsteinscale0.8+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.04276315789473684+news_keywords+['kremlin:0.4484', 'kyiv:0.3981', 'diplomat:0.3473', 'peskov:0.344', 'confrontation:0.3342', 'warmongering:0.333', 'invade:0.3295', 'impunity:0.3293', 'rudenko:0.3222', 'nationalist:0.2811', 'resigns:0.2663', 'atrocity:0.2459', 'sergeant:0.2454', 'hague:0.2255', 'investigate:0.214', 'sentenced:0.209', 'know:0.2068', 'turn:0.205', 'casualty:0.2025', 'order:0.1951', 'headline:0.1893', 'shoot:0.1872', 'note:0.1626', 'davos:0.1515', 'world:0.1485', 'unprepared:0.14', 'apologise:0.14', 'possibility:0.0932', 'thousand:0.0895', 'doesnt:0.0731']+titles_keywords+['resigns:0.4578', 'diplomat:0.403', 'russian:0.3038', 'sentenced:0.2966', 'ashamed:0.2474']"
+        ]
+    ]
+}

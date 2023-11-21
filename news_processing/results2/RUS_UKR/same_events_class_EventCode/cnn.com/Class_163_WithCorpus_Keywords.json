@@ -1,0 +1,30 @@
+{
+    "CAN+RUS+163":[
+        [],
+        []
+    ],
+    "DEU+RUS+163":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/cnn.com/March 22 2022 RussiaUkraine news.txt+eventbasecode163+eventcode163+avgtone0.4797957371225578+goldsteinscale0.1+nummentions0.021407837445573296+numarticles0.022117476432197244+numsources0.01644736842105263+news_keywords+['ukraine:0.4964', 'kremlin:0.4342', 'nato:0.4333', 'diplomatic:0.3708', 'byrussianairstrikes:0.3365', 'agenda:0.3146', 'news:0.2849', 'separatist:0.2818', 'coordinate:0.2789', 'emergency:0.2717', 'presidents:0.2712', 'invasion:0.2709', 'sanction:0.2464', 'undermine:0.246', 'adviser:0.2438', 'statementtuesday:0.2379', 'capital:0.2335', 'prepare:0.2303', 'combatant:0.2265', 'continue:0.2248', 'soon:0.218', 'jinping:0.2172', 'forward:0.2162', 'flee:0.2127', 'import:0.1855', 'long:0.1768', 'enhance:0.1629', 'implication:0.1598', 'total:0.1117', 'forcesregainedcontrol:0.0614']+titles_keywords+['russiaukraine:0.5458', '2022:0.5106', 'march:0.3668', 'news:0.3482', '22:0.2131']"
+        ]
+    ],
+    "EUR+RUS+163":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/cnn.com/How much is Vladimir Putin worth Almost no one knows for sure.txt+eventbasecode163+eventcode163+avgtone0.49063032367972736+goldsteinscale0.1+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.5637', 'oligarch:0.3654', 'wealthy:0.3464', 'russias:0.3313', 'million:0.2903', 'petersburg:0.2613', 'sanction:0.2541', 'salary:0.2454', 'investigative:0.2363', 'forbes:0.2243', 'property:0.2233', 'laundering:0.2108', 'estimate:0.1918', 'treasury:0.1819', 'hide:0.1567', 'know:0.1465', 'assume:0.1452', 'world:0.1387', 'isnt:0.1331', 'states:0.1267', 'personal:0.1206', 'look:0.1141', 'continue:0.1119', 'head:0.1097', 'submit:0.1071', 'freeze:0.0995', 'track:0.0919', 'exact:0.0816', 'sure:0.0767', 'delston:0.049']+titles_keywords+['putin:0.5204', 'vladimir:0.3771', 'worth:0.3464', 'knows:0.1991', 'sure:0.0587']"
+        ],
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/cnn.com/March 2 2022 RussiaUkraine news.txt+eventbasecode163+eventcode163+avgtone0.4842738205365403+goldsteinscale0.1+nummentions0.02104499274310595+numarticles0.021754894851341553+numsources0.006578947368421052+news_keywords+['putin:0.524', 'russiaukraine:0.4911', 'russias:0.4558', 'kyiv:0.4276', 'airstrikes:0.3604', 'sanction:0.2927', 'seizetheiryachts:0.2857', 'holocaust:0.2701', 'autocracy:0.2626', 'oversees:0.2499', 'march:0.2475', 'armed:0.2431', 'news:0.2412', 'ahead:0.236', 'visa:0.233', 'finance:0.2101', 'remind:0.1958', 'read:0.1955', 'introduce:0.1948', 'unite:0.192', 'wall:0.1913', 'know:0.1907', 'chaos:0.1889', 'covid:0.1799', 'ready:0.1568', 'end:0.1516', 'long:0.1398', 'general:0.1373', 'yar:0.1213', 'pivoting:0.1067']+titles_keywords+['2022:0.5634', 'russiaukraine:0.5117', 'march:0.4052', 'news:0.3554']"
+        ]
+    ],
+    "GBR+RUS+163":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/cnn.com/March 15 2022 RussiaUkraine news.txt+eventbasecode163+eventcode163+avgtone0.4884353741496599+goldsteinscale0.1+nummentions0.009071117561683599+numarticles0.006163886874546773+numsources0.013157894736842105+news_keywords+['ukraine:0.5066', 'government:0.39', 'dnipropetrovsk:0.3502', 'strike:0.3381', 'curfew:0.3355', 'tariff:0.3335', 'sanction:0.3264', 'kaczyski:0.302', 'march:0.2829', 'emergency:0.2824', 'capital:0.2784', 'news:0.2778', 'agreement:0.2722', 'organize:0.2419', 'expand:0.2382', 'table:0.2374', 'troop:0.2373', 'bombardment:0.2285', 'sector:0.2243', 'ofmariupolhas:0.2235', 'macron:0.2221', 'steel:0.2185', 'prepare:0.1971', 'residential:0.1928', 'stay:0.1835', 'cause:0.1574', 'long:0.1533', 'vogt:0.1293', 'compile:0.0887', 'significantly:0.0844']+titles_keywords+['russiaukraine:0.544', '2022:0.5134', 'march:0.3658', 'news:0.3453', '15:0.1301']"
+        ],
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/cnn.com/March 28 2022 RussiaUkraine news.txt+eventbasecode163+eventcode163+avgtone0.48569384835479257+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.4962', 'kremlin:0.4343', 'nato:0.4207', 'unhcr:0.3689', 'humanitarian:0.3635', 'war:0.3473', 'evacuate:0.3182', 'news:0.2923', 'march:0.2916', 'escalation:0.2747', 'deploy:0.2739', 'pentagon:0.2564', 'deport:0.2151', 'know:0.2108', 'accompany:0.2017', 'remind:0.1872', 'term:0.1833', 'cnns:0.1822', 'bloc:0.1818', 'kilometer:0.1816', 'contingency:0.1751', 'resume:0.1664', 'immediate:0.1639', 'icrc:0.1638', 'turn:0.1628', 'long:0.1517', 'snowdon:0.1444', 'like:0.1322', 'agree:0.1121', 'kurtz:0.0684']+titles_keywords+['russiaukraine:0.5275', '2022:0.517', 'march:0.3712', 'news:0.3599', '28:0.2159']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        []
+    ]
+}

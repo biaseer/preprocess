@@ -1,0 +1,28 @@
+{
+    "EUR+UKR+84":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/msn.com/Ukraine war day 44 Kyiv seeks more weapons as Russia slams UNGA move 10 updates.txt+eventbasecode84+eventcode84+avgtone0.4695340501792114+goldsteinscale0.85+nummentions0.019593613933236574+numarticles0.016678752719361856+numsources0.01644736842105263+news_keywords+['ukraine:0.5301', 'putin:0.4243', 'war:0.3945', 'moscows:0.368', 'artillery:0.2422', 'capital:0.239', 'bushmaster:0.2331', 'congress:0.2316', 'emergency:0.2304', 'retreat:0.2247', 'tank:0.2237', 'industrial:0.2221', 'blocs:0.219', 'sanction:0.2158', 'continue:0.198', 'organization:0.1905', 'update:0.1887', 'hear:0.1869', 'long:0.1868', 'repel:0.1834', 'pledge:0.1688', 'import:0.1675', 'withdraw:0.1527', 'donsak:0.1454', 'arm:0.1442', 'evidence:0.139', 'day:0.132', 'th:0.1284', 'price:0.0784', 'confirmed:0.0349']+titles_keywords+['kyiv:0.5121', 'weapons:0.3162', 'unga:0.2472', '44:0.195', 'day:0.0868']"
+        ]
+    ],
+    "GBR+RUS+84":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/msn.com/Russian convoy near Kyiv suffering continued losses and Putin forced to use conscript troops UK.txt+eventbasecode84+eventcode84+avgtone0.48036253776435045+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['kyiv:0.5729', 'ukraines:0.5001', 'nato:0.4024', 'putin:0.4012', 'syria:0.3416', 'deploy:0.3162', 'convoy:0.3068', 'logistics:0.2935', 'deliver:0.2487', 'emergency:0.2393', 'tank:0.2388', 'news:0.2058', 'north:0.2028', 'shortage:0.1957', 'read:0.1801', 'debris:0.1775', 'fight:0.1744', 'progress:0.1716', 'bucha:0.1632', 'miserable:0.1603', 'forecast:0.1586', 'long:0.1557', 'combine:0.1464', 'gloop:0.1434', 'despite:0.1313', 'right:0.1303', 'detect:0.1182', 'major:0.095', 'thatconscriptswould:0.077', 'welcome:0.0732']+titles_keywords+['kyiv:0.4672', 'putin:0.3911', 'convoy:0.3867', 'losses:0.2297', 'continued:0.0994']"
+        ]
+    ],
+    "RUS+USA+84":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/msn.com/A Minnesota teacher who was detained by Russian forces while trying to escape the invasion.txt+eventbasecode84+eventcode84+avgtone0.4980769230769231+goldsteinscale0.85+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.006578947368421052+news_keywords+['crimea:0.4653', 'russian:0.3794', 'detain:0.3486', 'invasion:0.3074', 'mistreat:0.2935', 'custody:0.2915', 'soldier:0.2882', 'embassy:0.2763', 'stay:0.2404', 'tribune:0.2231', 'report:0.222', 'story:0.2169', 'cnn:0.2012', 'safe:0.1959', 'state:0.1922', 'tyler:0.1873', 'checkpoint:0.1769', 'outcome:0.1768', 'hear:0.1617', 'assistance:0.1572', 'sen:0.1522', 'statement:0.1507', 'reach:0.1501', 'teach:0.1438', 'month:0.1379', 'hauser:0.1088', 'grateful:0.104', 'earlier:0.1026', 'board:0.0882', 'like:0.0873']+titles_keywords+['teacher:0.3522', 'detained:0.34', 'russian:0.3212', 'minnesota:0.2014', 'invasion:0.188']"
+        ]
+    ],
+    "RUS+WST+84":[
+        []
+    ],
+    "UKR+RUS+84":[
+        [],
+        [],
+        []
+    ],
+    "USA+RUS+84":[
+        []
+    ]
+}

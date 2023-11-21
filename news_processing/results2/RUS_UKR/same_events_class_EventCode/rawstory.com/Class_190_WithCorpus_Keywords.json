@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+190":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/rawstory.com/Zelensky threatens supporters of Russia in Ukraine.txt+eventbasecode190+eventcode190+avgtone0.4693251533742331+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['zelensky:0.5279', 'ukraine:0.4416', 'threaten:0.2936', 'blackmail:0.2681', 'war:0.2407', 'kill:0.2248', 'territory:0.2193', 'occupier:0.2103', 'kherson:0.1932', 'deputy:0.1782', 'understand:0.1727', 'follow:0.1675', 'formation:0.1637', 'refer:0.1593', 'statement:0.1566', 'republic:0.1546', 'look:0.1464', 'supporter:0.1441', 'tempt:0.1344', 'video:0.1198', 'message:0.1191', 'repeat:0.1128', 'pseudo:0.109', 'sign:0.0966', 'event:0.0946', 'independently:0.0862', 'sad:0.0832', 'recent:0.0642', 'verdict:0.0581', 'offer:0.0494']+titles_keywords+['zelensky:0.6236', 'ukraine:0.3632', 'threatens:0.3468', 'russia:0.2817', 'supporters:0.1763']"
+        ],
+        [
+            "20220614+../news_crawling/RUS_UKR/p_articles/rawstory.com/No way out for Ukrainians in embattled city as Russian forces destroy last bridge.txt+eventbasecode190+eventcode190+avgtone0.4473684210526315+goldsteinscale0.0+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.009868421052631578+news_keywords+['kyiv:0.5466', 'ukrainian:0.4418', 'russians:0.3901', 'evacuate:0.2962', 'bridge:0.2728', 'sievierodonetsk:0.2689', 'destroy:0.2615', 'city:0.2437', 'river:0.2337', 'kozhukhar:0.1998', 'troop:0.1882', 'reuters:0.1822', 'way:0.1524', 'serhiy:0.15', 'route:0.1485', 'embattled:0.1318', 'eastern:0.1304', 'cut:0.1296', 'building:0.1182', 'say:0.1092', 'governo:0.0929', 'azot:0.0922', 'hold:0.0856', 'high:0.0773', 'official:0.0728', 'force:0.0702', 'roundup:0.06', 'daily:0.0406', 'gain:0.022', 'various:0.0143']+titles_keywords+['ukrainians:0.4127', 'bridge:0.3538', 'destroy:0.2854', 'way:0.2179', 'forces:0.1212']"
+        ]
+    ]
+}

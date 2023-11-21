@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+190":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/bordertelegraph.com/Street fighting begins in Kyiv as Ukraine president refuses to leave.txt+eventbasecode190+eventcode190+avgtone0.47611788617886175+goldsteinscale0.0+nummentions0.3218432510885341+numarticles0.3223350253807107+numsources0.45394736842105265+news_keywords+['kyiv:0.5362', 'ceasefire:0.4225', 'militarily:0.3595', 'putins:0.3388', 'diplomatic:0.3189', 'emergency:0.2852', 'invasion:0.2829', 'fight:0.2744', 'government:0.2674', 'escalates:0.2647', 'proceed:0.2615', 'zelensky:0.2614', 'warn:0.2302', 'stay:0.217', 'veto:0.2111', 'tank:0.1998', 'turn:0.1981', 'paratrooper:0.1923', 'storm:0.189', 'instead:0.1856', 'general:0.1774', 'bleak:0.1636', 'eastern:0.1613', 'want:0.1599', 'tweet:0.1517', 'outside:0.1328', 'world:0.1322', 'far:0.1296', 'total:0.1088', 'highlight:0.0857']+titles_keywords+['kyiv:0.4304', 'fighting:0.3772', 'street:0.2478', 'refuses:0.1682', 'president:0.1422']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/bordertelegraph.com/West promises Ukraine more arms to fend off Russia.txt+eventbasecode190+eventcode190+avgtone0.4826086956521739+goldsteinscale0.0+nummentions0.32329462989840346+numarticles0.3237853517041334+numsources0.46710526315789475+news_keywords+['ukraine:0.4612', 'moscows:0.3471', 'escalation:0.2815', 'artillery:0.267', 'battle:0.2663', 'advance:0.255', 'zelensky:0.2438', 'western:0.2429', 'plan:0.2398', 'turn:0.2334', 'overrun:0.2334', 'telegram:0.2279', 'capital:0.2247', 'sievierodonetsk:0.2221', 'success:0.2119', 'industrial:0.2074', 'trigger:0.2015', 'help:0.2008', 'want:0.1966', 'promise:0.1956', 'swaths:0.1899', 'president:0.1889', 'long:0.185', 'donbas:0.159', 'speak:0.1529', 'right:0.1503', 'focus:0.1489', 'anonymity:0.1465', 'afraid:0.139', 'misuse:0.1389']+titles_keywords+['ukraine:0.4658', 'arms:0.229', 'promises:0.2263', 'west:0.1813', 'fend:0.145']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220528+../news_crawling/RUS_UKR/p_articles/bordertelegraph.com/Russia takes small cities as it aims to widen battle in east Ukraine.txt+eventbasecode190+eventcode190+avgtone0.48052536231884063+goldsteinscale0.0+nummentions0.36502177068214803+numarticles0.36548223350253806+numsources0.32894736842105265+news_keywords+['ukraine:0.4939', 'kremlin:0.4626', 'nato:0.3985', 'invade:0.3344', 'escalation:0.2796', 'azov:0.2513', 'political:0.2458', 'logistics:0.2333', 'prepare:0.2315', 'capital:0.2304', 'develop:0.2296', 'sievierodonetsks:0.2228', 'navigation:0.2166', 'know:0.215', 'telegram:0.215', 'cite:0.2114', 'warhead:0.2021', 'multilateral:0.2006', 'report:0.1965', 'resume:0.191', 'naval:0.1887', 'widen:0.1822', 'block:0.181', 'safe:0.1617', 'long:0.153', 'powerful:0.1479', 'friday:0.1361', 'end:0.1309', 'trade:0.1262', 'exporter:0.0765']+titles_keywords+['ukraine:0.4105', 'widen:0.2102', 'battle:0.1699', 'small:0.1665', 'takes:0.1411']"
+        ]
+    ]
+}

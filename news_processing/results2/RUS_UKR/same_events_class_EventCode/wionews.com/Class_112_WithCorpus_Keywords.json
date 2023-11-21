@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/wionews.com/Ukrainian foreign minister Dmytro Kuleba accuses Lavrov of spreading misinformation.txt+eventbasecode112+eventcode112+avgtone0.4620462046204621+goldsteinscale0.4+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4546', 'putin:0.4255', 'nuclear:0.3881', 'misinformation:0.3643', 'lavrov:0.3559', 'zaporizhzhia:0.2834', 'provocation:0.2677', 'safe:0.2538', 'iaea:0.2377', 'disaster:0.2203', 'invasion:0.1969', 'vaccine:0.1954', 'personnel:0.1826', 'blame:0.1715', 'saboteur:0.154', 'plant:0.1508', 'cite:0.1475', 'dmytro:0.1324', 'write:0.1207', 'stop:0.1154', 'panel:0.1075', 'symptom:0.1042', 'fm:0.1029', 'seize:0.0974', 'want:0.0962', 'gsk:0.0894', 'adjacent:0.0884', 'friday:0.0778', 'cynical:0.0696', 'restore:0.0442']+titles_keywords+['lavrov:0.4604', 'kuleba:0.4236', 'misinformation:0.3772', 'accuses:0.2222', 'dmytro:0.1826']"
+        ]
+    ],
+    "UKR+WST+112":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/wionews.com/Oil prices ease over speculation US ban on Russia oil wont cause problem.txt+eventbasecode112+eventcode112+avgtone0.479787234045+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['oil:0.4169', 'shortages:0.3221', 'nato:0.3217', 'ukrainians:0.2973', 'news:0.2806', 'strategic:0.2395', 'speculation:0.2376', 'industry:0.2279', 'cite:0.2278', 'surge:0.2241', 'concern:0.218', 'brent:0.2148', 'monday:0.2107', 'texas:0.1974', 'outage:0.1904', 'month:0.1875', 'ban:0.1817', 'capital:0.1806', 'varga:0.1782', 'fell:0.174', 'refine:0.168', 'biden:0.1518', 'broker:0.1491', 'import:0.1417', 'offset:0.1388', 'longer:0.1336', 'wont:0.1314', 'say:0.1238', 'resume:0.1204', 'average:0.0944']+titles_keywords+['oil:0.3123', 'ease:0.1974', 'ban:0.1712', 'wont:0.1681', 'speculation:0.155']"
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "BLR+UKR+40":[
+        []
+    ],
+    "GBR+RUS+40":[
+        [
+            "20220210+../news_crawling/RUS_UKR/p_articles/theguardian.com/0215UK and Russian foreign secretaries icy press conference video.txt+eventbasecode40+eventcode40+avgtone0.4954853273137697+goldsteinscale0.55+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['diplomacy:0.4666', 'putin:0.4516', 'kyiv:0.4087', 'nato:0.3943', 'russias:0.39', 'lavrov:0.3048', 'confuse:0.2293', 'secretary:0.2287', 'disastrous:0.2154', 'sanction:0.2043', 'attack:0.2024', 'border:0.2017', 'unprepared:0.2012', 'forward:0.1992', 'supply:0.1798', 'remain:0.1753', 'remark:0.1712', 'event:0.1684', 'hear:0.1646', 'relation:0.1621', 'drill:0.1551', 'field:0.1498', 'icy:0.1438', 'head:0.1328', 'world:0.1312', 'similar:0.1246', 'reach:0.1216', 'official:0.1066', 'trusss:0.1062', 'state:0.0978']+titles_keywords+['russian:0.3285', 'icy:0.3194', 'video:0.3149', 'conference:0.2523', '0215uk:0.2149']"
+        ]
+    ],
+    "RUS+PRK+40":[
+        [
+            "20220817+../news_crawling/RUS_UKR/p_articles/theguardian.com/Denis Pushilin leader of the selfproclaimed Donetsk Peoples Republic in Ukraine Photograph Olga MaltsevaAFPGetty ImagesDenis.txt+eventbasecode40+eventcode40+avgtone0.5038940809968847+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nk:0.4495', 'pyongyang:0.4482', 'putin:0.4151', 'ukraines:0.404', 'donetsk:0.3543', 'cooperation:0.3086', 'ambassador:0.253', 'sovereignty:0.2478', 'jong:0.2393', 'provocation:0.238', 'relation:0.2277', 'region:0.223', 'pushilins:0.19', 'cite:0.1766', 'news:0.1749', 'military:0.1727', 'shortly:0.1684', 'strengthen:0.1598', 'continue:0.153', 'appoint:0.1518', 'repatriated:0.1489', 'make:0.145', 'bilateral:0.1434', 'state:0.1399', 'sign:0.131', 'lpr:0.1095', 'fruitful:0.1048', 'agree:0.0972', 'send:0.077', 'potentially:0.0764']+titles_keywords+['donetsk:0.5375', 'pushilin:0.4404', 'denis:0.413', 'leader:0.2908', 'selfproclaimed:0.2701']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [],
+        []
+    ],
+    "RUS+USA+40":[
+        []
+    ]
+}

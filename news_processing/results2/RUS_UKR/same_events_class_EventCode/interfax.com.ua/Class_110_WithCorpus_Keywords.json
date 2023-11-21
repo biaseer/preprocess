@@ -1,0 +1,20 @@
+{
+    "FRA+RUS+110":[
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Western sanctions not really influence Russian position Zelensky at Financial Times conference.txt+eventbasecode110+eventcode110+avgtone0.4916030534351145+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4396', 'ceasefire:0.4183', 'ukraines:0.3994', 'minsk:0.3756', 'sanction:0.3543', 'blockade:0.3344', 'zelensky:0.2623', 'negotiate:0.2482', 'economic:0.2446', 'result:0.2405', 'understand:0.2319', 'weaken:0.2014', 'implement:0.193', 'insist:0.1921', 'boardroom:0.1833', 'term:0.1808', 'information:0.1708', 'circumvent:0.169', 'contrast:0.1626', 'according:0.1625', 'long:0.1593', 'advance:0.1546', 'issue:0.1489', 'vote:0.1376', 'hit:0.136', 'global:0.121', 'certain:0.1163', 'arm:0.102', 'anytime:0.0655', 'restore:0.0616']+titles_keywords+['sanctions:0.5059', 'zelensky:0.4407', 'influence:0.1546', 'conference:0.1444', 'really:0.1014']"
+        ]
+    ],
+    "RUS+UKR+110":[
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Free world unites so that no one justifies Nazism destroys peaceful cities Zelensky.txt+eventbasecode110+eventcode110+avgtone0.47461928934010156+goldsteinscale0.4+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukrainian:0.3989', 'nazism:0.3934', 'war:0.3298', 'zelensky:0.3239', 'peaceful:0.319', 'threaten:0.3108', 'child:0.2993', 'destroy:0.2781', 'unite:0.2574', 'luhansk:0.2356', 'volodymyr:0.2224', 'shrapnel:0.203', 'troop:0.1998', 'world:0.1985', 'justifies:0.1921', 'burn:0.1802', 'educational:0.1801', 'free:0.1747', 'president:0.1597', 'result:0.153', 'odesa:0.1411', 'say:0.1408', 'old:0.138', 'turn:0.134', 'according:0.1322', 'state:0.1188', 'evening:0.1014', 'gymnasium:0.0922', 'today:0.0795', 'terrible:0.0781']+titles_keywords+['nazism:0.5122', 'peaceful:0.4125', 'unites:0.4016', 'zelensky:0.3692', 'free:0.3057']"
+        ]
+    ],
+    "UKR+RUS+110":[
+        [
+            "20210730+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Ukrainians gernerally do not consider themselves one people with Russians UIF poll.txt+eventbasecode110+eventcode110+avgtone0.504524886877828+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukrainians:0.576', 'kyiv:0.4294', 'russian:0.4288', 'putin:0.3744', 'sociological:0.3177', 'decentralization:0.2449', 'distinguish:0.242', 'regional:0.2188', 'audience:0.2178', 'freedom:0.2102', 'group:0.1982', 'talk:0.1979', 'manner:0.1957', 'feel:0.1885', 'denysenko:0.1766', 'type:0.1755', 'majority:0.1691', 'report:0.1531', 'focus:0.153', 'woman:0.1505', 'study:0.1417', 'problem:0.1314', 'main:0.1222', 'portrait:0.1196', 'neighbor:0.115', 'result:0.1123', 'vadym:0.1088', 'according:0.1041', 'agree:0.0936', 'age:0.0905']+titles_keywords+['ukrainians:0.6586', 'poll:0.2302', 'uif:0.1655', 'gernerally:0.1616', 'consider:0.128']"
+        ],
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/War must be ended Ukraines proposals on table Zelensky.txt+eventbasecode110+eventcode110+avgtone0.4784172661870504+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4737', 'zelensky:0.4194', 'war:0.3421', 'peace:0.2844', 'volodymyr:0.2721', 'soon:0.245', 'president:0.2237', 'table:0.2224', 'talk:0.2133', 'end:0.2018', 'proposal:0.182', 'territorial:0.1684', 'meet:0.1654', 'generation:0.1624', 'time:0.1524', 'say:0.1519', 'night:0.1477', 'message:0.1397', 'security:0.1283', 'justice:0.1149', 'rise:0.1077', 'saturday:0.1054', 'reduce:0.0975', 'mistake:0.0877', 'stress:0.0736', 'meaningful:0.0676', 'chance:0.0669', 'video:0.0636', 'possible:0.0505', 'restore:-0.01']+titles_keywords+['zelensky:0.5046', 'ukraines:0.4935', 'war:0.3446', 'proposals:0.2758', 'table:0.2586']"
+        ]
+    ]
+}

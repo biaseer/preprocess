@@ -1,0 +1,21 @@
+{
+    "BLR+RUS+43":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/cnn.com/Russia has attacked Lviv Heres why the western city is so important to Ukraines defense.txt+eventbasecode43+eventcode43+avgtone0.4878787878787879+goldsteinscale0.64+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.02631578947368421+news_keywords+['lvivs:0.6256', 'ukraine:0.4529', 'relocate:0.3367', 'soviet:0.3353', 'natos:0.3208', 'attack:0.2607', 'military:0.2537', 'capital:0.2318', 'safeguard:0.2217', 'flood:0.2212', 'unesco:0.2152', 'report:0.2135', 'independence:0.1908', 'repercussion:0.1907', 'casualty:0.1905', 'information:0.1817', 'western:0.1807', 'street:0.1766', 'peace:0.1728', 'manuscript:0.1405', 'play:0.137', 'according:0.122', 'baroque:0.1204', 'far:0.1149', 'plant:0.1147', 'middle:0.1084', 'torn:0.108', 'century:0.1044', 'andriy:0.0659', 'cohesion:-0.0013']+titles_keywords+['lviv:0.6269', 'ukraines:0.4957', 'attacked:0.3444', 'important:0.2638', 'defense:0.2468']"
+        ]
+    ],
+    "EUR+RUS+43":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/cnn.com/Karine JeanPierre to become White House press secretary the first Black and out LGBTQ person.txt+eventbasecode43+eventcode43+avgtone0.507070707070707+goldsteinscale0.64+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.03618421052631579+news_keywords+['biden:0.4154', 'secretary:0.3764', 'announce:0.3335', 'podium:0.3329', 'election:0.3153', 'msnbc:0.3135', 'anita:0.3067', 'lgbtq:0.2787', 'psaki:0.2636', 'white:0.2461', 'pierres:0.2394', 'role:0.2386', 'pentagon:0.2261', 'takeover:0.2241', 'brief:0.2185', 'report:0.2048', 'list:0.202', 'john:0.1992', 'official:0.1842', 'thursday:0.1829', 'begin:0.1756', 'history:0.1686', 'decorum:0.1554', 'amazing:0.1464', 'process:0.1442', 'replace:0.1424', 'unsurprising:0.1175', 'set:0.1174', 'true:0.0893', 'slew:0.0746']+titles_keywords+['jeanpierre:0.3966', 'secretary:0.3363', 'white:0.3046', 'lgbtq:0.2896', 'role:0.2741']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/cnn.com/Putin says some Russian troops are withdrawing after drills but skepticism in Ukraine and US.txt+eventbasecode43+eventcode43+avgtone0.49343832020997375+goldsteinscale0.64+nummentions0.03555878084179971+numarticles0.03625815808556925+numsources0.049342105263157895+news_keywords+['crimea:0.5436', 'putin:0.4808', 'natos:0.4526', 'war:0.3478', 'peskov:0.3394', 'escalation:0.3386', 'diplomatic:0.3129', 'infantry:0.2981', 'separatist:0.2844', 'russophobia:0.2662', 'cyberattack:0.2637', 'news:0.2621', 'underway:0.2605', 'astafyev:0.2402', 'concerned:0.238', 'agreement:0.234', 'remain:0.2332', 'respond:0.2228', 'soon:0.213', 'choreograph:0.2063', 'cite:0.1974', 'brief:0.1945', 'organize:0.1936', 'end:0.1873', 'adjacent:0.1841', 'drill:0.1811', 'vacant:0.1793', 'operationally:0.1779', 'mixture:0.1632', 'mr:0.1368']+titles_keywords+['putin:0.379', 'withdrawing:0.2624', 'troops:0.2574', 'skepticism:0.1881', 'says:0.0408']"
+        ],
+        [],
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/cnn.com/April 26 2022 RussiaUkraine news.txt+eventbasecode43+eventcode43+avgtone0.4815006915629322+goldsteinscale0.64+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.006578947368421052+news_keywords+['crimea:0.5468', 'russiaukraine:0.4931', 'russians:0.4744', 'ceasefire:0.4258', 'infantry:0.3315', 'saidrussian:0.3152', 'incursion:0.3132', 'occupy:0.2854', 'zelensky:0.2777', 'occur:0.2759', 'government:0.2603', 'news:0.2522', 'dispatch:0.252', 'migration:0.2401', 'strategic:0.2322', 'transnistrias:0.2286', 'know:0.2221', 'april:0.2044', 'worried:0.2005', 'baseless:0.1973', 'goodbye:0.19', 'hear:0.181', 'order:0.1779', 'contradict:0.1758', 'alongside:0.1707', 'push:0.165', 'neutral:0.1594', 'grow:0.1467', 'length:0.1191', 'true:0.0793']+titles_keywords+['russiaukraine:0.533', '2022:0.5111', 'news:0.3339', 'april:0.3209', '26:0.2339']"
+        ]
+    ]
+}

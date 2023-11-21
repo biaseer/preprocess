@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+172":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/tellerreport.com/Ukraine Finland to close its airspace to Russian planes.txt+eventbasecode172+eventcode172+avgtone0.4789915966386555+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.5093', 'finland:0.4889', 'russia:0.4412', 'finnish:0.37', 'airspace:0.3447', 'bulgaria:0.3387', 'russian:0.3074', 'border:0.2731', 'plane:0.2506', 'invasion:0.2351', 'harraka:0.2308', 'european:0.1826', 'traffic:0.1702', 'government:0.1646', 'kilometer:0.1502', 'retaliation:0.1283', 'neighbor:0.0947', 'plan:0.0845', 'close:0.0842', 'prepare:0.0692', 'saturday:0.0691', 'publish:0.0641', 'tweet:0.0514', 'join:0.0509', 'say:0.0436', 'united:0.0305', 'night:0.0299', 'timo:0.029', 'decision:0.0143', 'kingdom:-0.0119']+titles_keywords+['ukraine:0.4052', 'finland:0.3763', 'airspace:0.2767', 'russian:0.2758', 'close:0.0778']"
+        ]
+    ],
+    "FRA+RUS+172":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/tellerreport.com/Renault announces suspension of activities at its Moscow plant.txt+eventbasecode172+eventcode172+avgtone0.48882681564245806+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['renault:0.595', 'moscow:0.368', 'avtovaz:0.3052', 'factory:0.3035', 'car:0.2802', 'suspend:0.2753', 'boycott:0.2483', 'subsidiary:0.2455', 'french:0.2336', 'zelensky:0.2221', 'brand:0.1601', 'activity:0.1535', 'announces:0.1505', 'concern:0.1463', 'global:0.1381', 'diplomacy:0.1278', 'group:0.1186', 'publish:0.1163', 'day:0.1129', 'evaluate:0.0965', 'applaud:0.0878', 'year:0.0845', 'margin:0.0813', 'force:0.081', 'option:0.0671', 'outlook:0.058', 'come:0.0549', 'dream:0.0526', 'previously:0.0455', 'possible:0.0324']+titles_keywords+['renault:0.4674', 'moscow:0.2568', 'suspension:0.2368', 'plant:0.0916', 'activities:0.0777']"
+        ]
+    ]
+}

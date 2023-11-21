@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+14":[
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/H ouses of disorder.txt+eventbasecode14+eventcode14+avgtone0.46113074204946997+goldsteinscale0.5+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['sabha:0.5008', 'parliamentary:0.4794', 'opposition:0.4165', 'government:0.3637', 'adjourn:0.3373', 'disruption:0.3329', 'chidambaram:0.3255', 'debate:0.3016', 'placard:0.2661', 'party:0.2658', 'absent:0.264', 'mediocrity:0.2614', 'bills:0.2604', 'walkouts:0.2588', 'scrutiny:0.2531', 'productive:0.2498', 'ramification:0.233', 'output:0.2272', 'expect:0.2233', 'matter:0.2133', 'term:0.2117', 'sitting:0.2031', 'covid:0.1998', 'house:0.1958', 'fall:0.1831', 'ignore:0.1785', 'bode:0.1714', 'precisely:0.1517', 'rabi:0.1411', 'budget:0.1182']+titles_keywords+['disorder:0.7308', 'ouses:0.1978']"
+        ]
+    ],
+    "UKR+RUS+14":[
+        [
+            "20220203+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/Aluminium futures up as LME stocks drop to 15year low.txt+eventbasecode14+eventcode14+avgtone0.48817966903073284+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['opec:0.3838', 'commodities:0.3819', 'aluminium:0.3778', 'geopolitical:0.3203', 'future:0.3118', 'stock:0.2841', 'ukraine:0.2776', 'anticipate:0.2649', 'oil:0.255', 'increase:0.2336', 'april:0.2284', 'previous:0.1874', 'global:0.1803', 'derivatives:0.1798', 'reports:0.176', 'ongoing:0.1669', 'tension:0.1621', 'ready:0.1479', 'impact:0.1333', 'ncdex:0.1264', 'lme:0.1255', 'exporting:0.1107', 'low:0.1069', 'counter:0.1047', 'possibility:0.0925', 'return:0.0906', 'brent:0.0905', 'cost:0.0904', 'say:0.0847', 'cottonseed:0.0656']+titles_keywords+['aluminium:0.3918', 'futures:0.2881', 'lme:0.2284', 'low:0.2033', '15year:0.1701']"
+        ]
+    ]
+}

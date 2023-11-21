@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20220205+../news_crawling/RUS_UKR/p_articles/newyorkstatesman.com/Bloomberg announces Russia invades Ukraine.txt+eventbasecode111+eventcode111+avgtone0.45+goldsteinscale0.4+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['ukraine:0.4571', 'kremlin:0.453', 'bloomberg:0.4149', 'headline:0.4132', 'invades:0.391', 'fearmongering:0.3067', 'prepare:0.2451', 'panic:0.2418', 'blunder:0.2294', 'publish:0.2291', 'read:0.2179', 'allegation:0.2168', 'scenario:0.212', 'dangerous:0.2119', 'prediction:0.2038', 'economy:0.2016', 'fake:0.1846', 'redirect:0.1788', 'remove:0.1645', 'page:0.1562', 'stay:0.152', 'today:0.1435', 'users:0.1435', 'month:0.1394', 'mea:0.1229', 'et:0.1155', 'cause:0.1107', 'scale:0.0895', 'house:0.0852', 'largely:0.0602']+titles_keywords+['ukraine:0.3732', 'bloomberg:0.3505', 'invades:0.3182', 'russia:0.2697', 'announces:0.0691']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/newyorkstatesman.com/Russia launches military strikes on Ukraine warns West to stay away.txt+eventbasecode111+eventcode111+avgtone0.47696245733788395+goldsteinscale0.4+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5822368421052632+news_keywords+['putin:0.4111', 'nato:0.4008', 'war:0.3799', 'militarize:0.3585', 'kyiv:0.3432', 'genocide:0.3401', 'escalation:0.3008', 'intervene:0.3002', 'diplomats:0.2768', 'unprovoked:0.2703', 'warn:0.2665', 'cyberattack:0.2373', 'respond:0.2355', 'agreement:0.2318', 'preside:0.2191', 'correspondent:0.2181', 'begin:0.1762', 'table:0.1737', 'information:0.1708', 'immediately:0.1662', 'word:0.1648', 'expect:0.1642', 'like:0.1446', 'short:0.1445', 'choose:0.144', 'voa:0.1413', 'follow:0.1313', 'state:0.1223', 'eastern:0.1216', 'pipeline:0.1113']+titles_keywords+['ukraine:0.3794', 'warns:0.2099', 'military:0.1762', 'strikes:0.1642', 'stay:0.1256']"
+        ]
+    ]
+}

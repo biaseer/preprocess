@@ -1,0 +1,27 @@
+{
+    "BRA+RUS+10":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/targetednews.com/US Embassy Charge Daffaires Koneff in Brazil Issues Statement on Russia Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4625+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4563', 'brasilia:0.3562', 'embassy:0.3471', 'sovereignty:0.3035', 'threat:0.2863', 'border:0.2755', 'affaires:0.2549', 'violates:0.2256', 'unprovoked:0.2187', 'koneff:0.1916', 'document:0.186', 'unite:0.1673', 'article:0.1499', 'daffaires:0.1337', 'statement:0.1288', 'touch:0.1182', 'stand:0.1113', 'fee:0.0983', 'douglas:0.0945', 'basic:0.0873', 'upend:0.0863', 'acr:0.0846', 'follow:0.0717', 'mail:0.0697', 'firm:0.0659', 'feb:0.0637', 'attempt:0.0618', 'available:0.05', 'people:0.0492', 'similar:0.0323']+titles_keywords+['ukraine:0.4068', 'embassy:0.3848', 'koneff:0.3237', 'statement:0.1509', 'charge:0.1425']"
+        ]
+    ],
+    "DEU+RUS+10":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/targetednews.com/EURussia Civil Society Solidarity With Ukraine and Call for Peace in Europe.txt+eventbasecode10+eventcode10+avgtone0.4878048780487805+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.548', 'eurussia:0.4564', 'putin:0.4474', 'vladimir:0.4468', 'minsk:0.4441', 'donetsk:0.4317', 'republics:0.3482', 'invasion:0.3099', 'agreements:0.2718', 'peace:0.2479', 'initiate:0.2372', 'border:0.2184', 'military:0.2035', 'violate:0.2013', 'people:0.1916', 'authority:0.1896', 'article:0.1514', 'civil:0.1484', 'shortly:0.1318', 'forum:0.1276', 'morning:0.1211', 'recognise:0.1125', 'follow:0.1077', 'tnsops:0.107', 'issue:0.1005', 'feb:0.0972', 'statement:0.0965', 'large:0.0787', 'complete:0.0704', 'render:0.0362']+titles_keywords+['eurussia:0.5248', 'ukraine:0.5035', 'solidarity:0.4206', 'peace:0.3332', 'civil:0.2138']"
+        ]
+    ],
+    "GBR+UKR+10":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/targetednews.com/British Association of Social Workers Statement on Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4876543209876543+goldsteinscale0.5+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.5636', 'putin:0.4344', 'russian:0.3974', 'government:0.3371', 'military:0.2849', 'workers:0.2739', 'social:0.2581', 'agency:0.2464', 'border:0.2455', 'british:0.2038', 'service:0.1968', 'ongoing:0.1951', 'action:0.1845', 'article:0.1838', 'form:0.1661', 'basw:0.1614', 'morning:0.1522', 'issue:0.1475', 'relevant:0.1428', 'range:0.1418', 'statement:0.1353', 'birmingham:0.1298', 'tnsops:0.1249', 'follow:0.1129', 'feb:0.1052', 'major:0.0974', 'unfold:0.0917', 'terrible:0.0848', 'material:0.0687', 'build:0.0605']+titles_keywords+['ukraine:0.5364', 'workers:0.2451', 'social:0.231', 'british:0.2024', 'statement:0.1966']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/targetednews.com/Florida Agriculture Commissioner Fried Statement on Russias Invasion of Ukraine.txt+eventbasecode10+eventcode10+avgtone0.49375+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4593', 'russias:0.4038', 'invasion:0.3776', 'agriculture:0.2667', 'tallahassee:0.2583', 'unprovoked:0.2295', 'democratic:0.1598', 'news:0.1477', 'reality:0.1367', 'morning:0.1286', 'shortly:0.1281', 'feb:0.1266', 'peace:0.1141', 'fried:0.1112', 'people:0.0897', 'issue:0.0708', 'act:0.0694', 'consumer:0.0639', 'follow:0.0619', 'nikki:0.0582', 'long:0.0551', 'relevant:0.0462', 'decade:0.0441', 'form:0.0418', 'touch:0.04', 'complete:0.04', 'shatter:0.0373', 'commissioner:0.0346', 'different:0.0324', 'free:0.0007']+titles_keywords+['ukraine:0.3432', 'agriculture:0.3358', 'fried:0.2289', 'statement:0.2016', 'commissioner:0.1835']"
+        ]
+    ],
+    "USA+RUS+10":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/targetednews.com/Statement From Rep Clark on Russias Invasion of Ukraine.txt+eventbasecode10+eventcode10+avgtone0.439189189189189+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.506', 'ukraine:0.4704', 'invasion:0.4495', 'vladimir:0.4103', 'russias:0.3876', 'war:0.3008', 'unprovoked:0.2898', 'terrorize:0.2773', 'assault:0.2679', 'shortly:0.1744', 'bring:0.1732', 'security:0.1626', 'clark:0.1532', 'article:0.144', 'catastrophic:0.1427', 'rep:0.1339', 'direct:0.1331', 'statement:0.1199', 'people:0.1066', 'ongoing:0.0958', 'suffer:0.0937', 'international:0.0929', 'complete:0.0925', 'form:0.0864', 'relevant:0.0831', 'material:0.0616', 'touch:0.058', 'fee:0.0552', 'similar:0.0515', 'bee:0.0246']+titles_keywords+['ukraine:0.3642', 'clark:0.3506', 'invasion:0.3279', 'statement:0.2453', 'rep:0.1397']"
+        ]
+    ]
+}

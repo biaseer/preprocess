@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+40":[
+        [
+            "20220612+../news_crawling/RUS_UKR/p_articles/charter97.org/Russians Discuss How Best To Escape War.txt+eventbasecode40+eventcode40+avgtone0.470108695652174+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['russians:0.4463', 'combat:0.4341', 'grenade:0.3667', 'escape:0.3224', 'inflict:0.2939', 'wound:0.2688', 'rouble:0.2545', 'hospital:0.2515', 'occupier:0.2362', 'limbs:0.2208', 'option:0.2176', 'publish:0.2156', 'conversation:0.2132', 'simulate:0.1985', 'problem:0.1894', 'refuse:0.1776', 'intercepted:0.1765', 'way:0.1712', 'note:0.1627', 'cargo:0.1451', 'record:0.1397', 'million:0.1312', 'fking:0.1306', 'begin:0.1236', 'offer:0.1098', 'blow:0.1091', 'plat:0.1052', 'rgd:0.1019', 'look:0.0923', 'overlay:0.081']+titles_keywords+['russians:0.4904', 'war:0.3979', 'escape:0.3895', 'discuss:0.1724', 'best:0.1026']"
+        ],
+        [
+            "20220827+../news_crawling/RUS_UKR/p_articles/charter97.org/Sick In Three Dimensions Main Intelligence Directorate Speaking About Putins Health.txt+eventbasecode40+eventcode40+avgtone0.5025641025641027+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5509', 'cancer:0.4244', 'sergei:0.39', 'schizophrenic:0.3569', 'disease:0.3494', 'russian:0.3424', 'parkinson:0.2841', 'pugachev:0.2728', 'sick:0.233', 'intelligence:0.1847', 'skybitsky:0.1624', 'morally:0.1574', 'appear:0.1511', 'directorate:0.1484', 'sign:0.1472', 'complicate:0.1096', 'friend:0.1091', 'dimension:0.1003', 'rbc:0.0963', 'country:0.095', 'various:0.0885', 'claim:0.0867', 'emphasize:0.0807', 'early:0.0698', 'day:0.0685', 'say:0.066', 'mistake:0.0659', 'prevails:0.0651', 'end:0.0612', 'fight:0.0497']+titles_keywords+['putins:0.4506', 'directorate:0.3223', 'sick:0.2654', 'intelligence:0.2497', 'dimensions:0.1614']"
+        ]
+    ]
+}

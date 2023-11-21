@@ -1,0 +1,12 @@
+{
+    "WST+RUS+46":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/pmnewsnigeria.com/Zelenskiy abandons joining NATO in boost for peace with Russia.txt+eventbasecode46+eventcode46+avgtone0.49071925754060325+goldsteinscale0.85+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['kyiv:0.4879', 'ukraineputin:0.4598', 'ukraines:0.4551', 'nato:0.438', 'kremlin:0.3837', 'diplomacy:0.3673', 'peskov:0.3424', 'zelenskiy:0.3307', 'incursion:0.257', 'threat:0.2389', 'refugee:0.2181', 'want:0.2117', 'pledge:0.1948', 'realize:0.1948', 'news:0.1927', 'long:0.1902', 'change:0.1839', 'visit:0.1809', 'future:0.1784', 'begin:0.1676', 'goal:0.1665', 'positive:0.1662', 'baseless:0.1641', 'follow:0.1594', 'hear:0.1551', 'term:0.1492', 'feb:0.141', 'count:0.1352', 'pretext:0.1228', 'nearly:0.0955']+titles_keywords+['zelenskiy:0.5251', 'nato:0.4366', 'abandons:0.1866', 'peace:0.1862', 'joining:0.1624']"
+        ]
+    ],
+    "WST+UKR+46":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/pmnewsnigeria.com/35 dead as Russia escalates bombing near Poland.txt+eventbasecode46+eventcode46+avgtone0.47096774193548385+goldsteinscale0.85+nummentions0.04862119013062409+numarticles0.049311094996374184+numsources0.03618421052631579+news_keywords+['ukraine:0.4772', 'nato:0.4572', 'kremlin:0.4337', 'invade:0.3741', 'escalation:0.3185', 'military:0.3049', 'kozytskyy:0.2969', 'reuters:0.2851', 'bomb:0.2628', 'terrify:0.2554', 'border:0.249', 'violent:0.2367', 'plane:0.2141', 'report:0.2011', 'order:0.1997', 'information:0.1923', 'capital:0.1838', 'world:0.1579', 'multipolar:0.1563', 'near:0.1543', 'immediately:0.1533', 'clarify:0.1491', 'short:0.1419', 'biden:0.1389', 'big:0.1367', 'dead:0.1243', 'week:0.1061', 'thousand:0.1054', 'sq:0.1009', 'send:0.0878']+titles_keywords+['poland:0.3317', 'bombing:0.3173', '35:0.201', 'dead:0.1792', 'escalates:0.1492']"
+        ]
+    ]
+}

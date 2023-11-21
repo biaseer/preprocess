@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+163":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Seafood biz braces for losses of jobs fish due to sanctions.txt+eventbasecode163+eventcode163+avgtone0.48224852071005914+goldsteinscale0.1+nummentions0.41146589259796806+numarticles0.41189267585206674+numsources0.32894736842105265+news_keywords+['fishery:0.4957', 'overfishing:0.472', 'russia:0.3676', 'economics:0.3548', 'tariff:0.3237', 'maines:0.3236', 'supply:0.304', 'cod:0.279', 'federation:0.278', 'change:0.2359', 'census:0.2343', 'sanction:0.2187', 'concern:0.2143', 'pollock:0.2035', 'sandwich:0.2015', 'data:0.2006', 'march:0.1907', 'executive:0.1841', 'widely:0.1776', 'pivot:0.1755', 'national:0.1658', 'avoid:0.1616', 'altogether:0.1521', 'sen:0.151', 'exporter:0.1402', 'hear:0.1383', 'underutilized:0.1363', 'steel:0.133', 'immediate:0.1261', 'hake:0.114']+titles_keywords+['seafood:0.5028', 'sanctions:0.4611', 'jobs:0.2963', 'losses:0.182', 'braces:0.1205']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/EU imposes more sanctions on Moscow over Ukraine invasion.txt+eventbasecode163+eventcode163+avgtone0.47678571428571426+goldsteinscale0.1+nummentions0.10595065312046444+numarticles0.1065989847715736+numsources0.09539473684210527+news_keywords+['ukraine:0.4379', 'putin:0.4189', 'sanction:0.4019', 'oligarchs:0.3254', 'euro:0.3013', 'war:0.2926', 'gold:0.288', 'reinforce:0.2483', 'bank:0.2281', 'blocs:0.2191', 'import:0.2017', 'aid:0.1981', 'refusing:0.1946', 'transaction:0.1743', 'thursday:0.1726', 'commission:0.1677', 'kick:0.1649', 'align:0.1618', 'circumvent:0.1611', 'intend:0.1514', 'good:0.1484', 'industrial:0.1354', 'freeze:0.13', 'juggernaut:0.1249', 'list:0.1231', 'look:0.1165', 'long:0.112', 'new:0.108', 'effectively:0.1079', 'noose:0.0941']+titles_keywords+['sanctions:0.4251', 'imposes:0.2903', 'moscow:0.2875', 'invasion:0.2708', 'eu:0.2525']"
+        ]
+    ],
+    "USA+RUS+163":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Putinlinked elites yachts firms targeted for sanctions.txt+eventbasecode163+eventcode163+avgtone0.49803536345776034+goldsteinscale0.1+nummentions0.029753265602322207+numarticles0.023205221174764323+numsources0.023026315789473683+news_keywords+['putin:0.5359', 'oligarchs:0.4946', 'russias:0.4462', 'sanction:0.4196', 'yachts:0.3058', 'investigative:0.297', 'terrorism:0.2899', 'corrupt:0.2683', 'pursue:0.2673', 'shareholder:0.2532', 'table:0.2438', 'affair:0.2411', 'savelyev:0.2393', 'independence:0.2216', 'proxies:0.2116', 'know:0.2111', 'enrich:0.2093', 'document:0.208', 'list:0.2047', 'hide:0.2034', 'import:0.2007', 'associated:0.1933', 'rewritten:0.1524', 'artillery:0.1517', 'east:0.1496', 'buy:0.1455', 'thousand:0.1408', 'pledge:0.1296', 'month:0.1282', 'large:0.1077']+titles_keywords+['sanctions:0.4964', 'yachts:0.4871', 'putinlinked:0.393', 'elites:0.3248', 'firms:0.323']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+1124":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/They have been without electricity for four days.txt+eventbasecode112+eventcode1124+avgtone0.49125874125874125+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5062', 'electricity:0.3129', 'latvian:0.2987', 'village:0.2894', 'shelter:0.2813', 'neighbour:0.2808', 'troop:0.2548', 'bbc:0.2471', 'midlands:0.2337', 'street:0.2332', 'helpless:0.2257', 'demolish:0.2007', 'remain:0.1942', 'home:0.172', 'phone:0.1691', 'people:0.1635', 'story:0.1628', 'alive:0.1523', 'walk:0.1389', 'know:0.1313', 'signal:0.1305', 'text:0.1297', 'video:0.1271', 'possible:0.1106', 'bad:0.11', 'kate:0.1056', 'believe:0.1041', 'second:0.0817', 'entire:0.0758', 'send:0.0593']+titles_keywords+['electricity:0.4149', 'days:0.2768']"
+        ]
+    ],
+    "UKR+RUS+1124":[
+        [
+            "20220812+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine plant shelling could be much worse than Chernobyl.txt+eventbasecode112+eventcode1124+avgtone0.45588235294117657+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['chernobyl:0.6122', 'ukraine:0.4174', 'nuclear:0.3998', 'warn:0.2184', 'missile:0.2112', 'attack:0.2055', 'zaporizhzhia:0.1988', 'plant:0.1985', 'consequence:0.1856', 'blame:0.1756', 'atomic:0.1643', 'blast:0.1623', 'shelling:0.1517', 'yevhenii:0.1376', 'iaea:0.1352', 'worse:0.1341', 'tsymbaliuk:0.1258', 'strike:0.1153', 'power:0.1095', 'bbc:0.105', 'tell:0.1029', 'world:0.0959', 'newss:0.0862', 'speaking:0.0815', 'international:0.0599', 'ambassador:0.0545', 'agency:0.0447', 'willcox:0.0419', 'repeat:0.0387', 'tim:-0.0045']+titles_keywords+['chernobyl:0.5931', 'ukraine:0.3463', 'plant:0.2638', 'shelling:0.2323', 'worse:0.1765']"
+        ]
+    ]
+}

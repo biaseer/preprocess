@@ -1,0 +1,12 @@
+{
+    "JPN+RUS+111":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/latimes.com/Russian soldier sentenced to life in Ukraines first war crimes trial.txt+eventbasecode111+eventcode111+avgtone0.46332518337408307+goldsteinscale0.4+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.009868421052631578+news_keywords+['kyiv:0.4479', 'putin:0.4237', 'impunity:0.3107', 'nationalist:0.2871', 'warmongering:0.28', 'veteran:0.2663', 'atrocity:0.2641', 'invaded:0.2576', 'confrontation:0.2568', 'bondarev:0.256', 'trial:0.2495', 'artillery:0.231', 'journalism:0.2226', 'flee:0.2185', 'report:0.2077', 'know:0.2028', 'fatally:0.1995', 'takeover:0.183', 'approve:0.1795', 'sentence:0.1793', 'continue:0.1778', 'order:0.1703', 'bucha:0.1645', 'shyshimarins:0.152', 'world:0.1398', 'prove:0.1345', 'thousand:0.126', 'month:0.1246', 'houses:0.1129', 'sent:0.078']+titles_keywords+['sentenced:0.3512', 'russian:0.3436', 'ukraines:0.2632', 'soldier:0.26', 'life:0.2191']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/latimes.com/Britain says its hightech missile system can help Ukraine push back Russia.txt+eventbasecode111+eventcode111+avgtone0.4812703583061889+goldsteinscale0.4+nummentions0.47387518142235124+numarticles0.47425670775924583+numsources0.5230263157894737+news_keywords+['ukraine:0.443', 'airstrikes:0.3616', 'holocaust:0.2961', 'pentagon:0.2918', 'news:0.286', 'conflict:0.2683', 'seversky:0.2636', 'separatist:0.2362', 'volodymyr:0.2212', 'turn:0.2171', 'casualty:0.1891', 'weapon:0.189', 'respond:0.188', 'long:0.1859', 'accuracy:0.1835', 'deliver:0.1815', 'engineering:0.1808', 'gop:0.174', 'plan:0.172', 'worsen:0.167', 'nearly:0.161', 'secretary:0.1575', 'weekend:0.1566', 'begin:0.1517', 'donets:0.1516', 'loggerheads:0.1488', 'focus:0.1487', 'th:0.137', 'sort:0.1348', 'include:0.1202']+titles_keywords+['ukraine:0.3857', 'missile:0.3084', 'hightech:0.2481', 'push:0.1782', 'says:0.0299']"
+        ]
+    ]
+}

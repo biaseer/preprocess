@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/britainnews.net/Russian advance slows down due to logistical issues strong Ukrainian resistance UK.txt+eventbasecode190+eventcode190+avgtone0.4888888888888889+goldsteinscale0.0+nummentions0.07619738751814223+numarticles0.07070340826686004+numsources0.14802631578947367+news_keywords+['kyiv:0.4271', 'russian:0.3311', 'slows:0.2799', 'logistical:0.2255', 'speed:0.2118', 'update:0.2075', 'resistance:0.192', 'advance:0.1848', 'difficulty:0.1583', 'issue:0.1543', 'strong:0.1448', 'overnight:0.1301', 'temporarily:0.1286', 'bypass:0.1247', 'defence:0.1146', 'acute:0.1104', 'february:0.1', 'isolate:0.0983', 'involve:0.0982', 'clash:0.0936', 'centre:0.0923', 'leave:0.0819', 'twitter:0.0808', 'limited:0.0744', 'number:0.0713', 'population:0.0471', 'major:0.0427', 'say:0.0425', 'likely:0.0325', 'ani:0.0153']+titles_keywords+['ukrainian:0.3861', 'slows:0.2692', 'logistical:0.2326', 'resistance:0.2168', 'advance:0.1695']"
+        ],
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/britainnews.net/Ukraine staging battle scenes for propaganda Russia.txt+eventbasecode190+eventcode190+avgtone0.48854961832061067+goldsteinscale0.0+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.013157894736842105+news_keywords+['ukraine:0.442', 'footage:0.4182', 'stag:0.3515', 'shootout:0.3493', 'troop:0.3352', 'propaganda:0.3124', 'fight:0.2608', 'scene:0.2477', 'director:0.2309', 'nikolaev:0.2283', 'vehicle:0.2282', 'pyrotechnics:0.2241', 'showcase:0.2099', 'supply:0.2007', 'raw:0.1948', 'peaceful:0.1913', 'town:0.1848', 'heroic:0.1775', 'project:0.1594', 'point:0.1568', 'simulate:0.1509', 'short:0.1446', 'look:0.1333', 'grass:0.1315', 'men:0.1205', 'armband:0.1201', 'schedule:0.1173', 'second:0.1048', 'actually:0.1014', 'donbass:0.0963']+titles_keywords+['ukraine:0.5163', 'propaganda:0.4592', 'staging:0.3622', 'scenes:0.3219', 'battle:0.3032']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/britainnews.net/Vladimir Putin risktaker who is gambling his countrys future.txt+eventbasecode190+eventcode190+avgtone0.4529411764705882+goldsteinscale0.0+nummentions0.03374455732946299+numarticles0.03444525018129079+numsources0.04276315789473684+news_keywords+['putin:0.5959', 'litvinenko:0.4615', 'oligarch:0.4602', 'espionage:0.409', 'berezovsky:0.4067', 'novichok:0.3714', 'regime:0.3481', 'petersburg:0.3473', 'abkhazia:0.326', 'political:0.3107', 'prosecute:0.2652', 'conclude:0.2471', 'radioactive:0.2436', 'document:0.2424', 'risk:0.2388', 'coroner:0.2276', 'rt:0.2244', 'research:0.222', 'flee:0.2053', 'falsify:0.1964', 'alias:0.1866', 'strangle:0.1843', 'relation:0.1836', 'organise:0.1791', 'example:0.1759', 'enrich:0.1729', 'british:0.169', 'known:0.1399', 'later:0.1286', 'exclude:0.1285']+titles_keywords+['putin:0.6973', 'risktaker:0.5159', 'gambling:0.3769', 'future:0.2158', 'countrys:0.179']"
+        ]
+    ]
+}

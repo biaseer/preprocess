@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+12":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/thompsoncitizen.net/Ukrainian community in Canada hopeful but on edge as tensions escalate with Russia.txt+eventbasecode12+eventcode12+avgtone0.49067164179104483+goldsteinscale0.48+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.019736842105263157+news_keywords+['ukraine:0.4967', 'edmonton:0.3274', 'peacekeeping:0.327', 'separatist:0.3214', 'trudeau:0.3208', 'volkov:0.2673', 'crisis:0.2604', 'border:0.2577', 'concerned:0.2483', 'annexed:0.2453', 'parliament:0.2347', 'milentyevs:0.2271', 'stay:0.2162', 'escalate:0.2042', 'organize:0.1936', 'speak:0.178', 'vote:0.1563', 'begin:0.1552', 'soon:0.15', 'want:0.1472', 'everybody:0.1299', 'generation:0.1291', 'surround:0.1291', 'additional:0.1194', 'right:0.1165', 'data:0.1054', 'arm:0.1046', 'big:0.1023', 'actually:0.0781', 'doesnt:0.0259']+titles_keywords+['ukrainian:0.4712', 'canada:0.2531', 'tensions:0.248', 'community:0.2021', 'hopeful:0.1821']"
+        ]
+    ],
+    "POL+RUS+12":[
+        [
+            "20220515+../news_crawling/RUS_UKR/p_articles/thompsoncitizen.net/Polish Nobel author says Russia threat to free world.txt+eventbasecode12+eventcode12+avgtone0.4776536312849162+goldsteinscale0.48+nummentions0.03773584905660377+numarticles0.03843364757070341+numsources0.049342105263157895+news_keywords+['tokarczuk:0.4267', 'warsaw:0.3769', 'ukraine:0.3582', 'nobel:0.3152', 'poles:0.2878', 'jewish:0.2647', 'war:0.2643', 'jerusalem:0.2618', 'author:0.2603', 'refugee:0.254', 'olga:0.2535', 'jacob:0.2049', 'books:0.2043', 'subversive:0.1733', 'world:0.1613', 'speak:0.1382', 'risk:0.136', 'sanction:0.1344', 'mind:0.1297', 'know:0.1142', 'century:0.114', 'present:0.1118', 'th:0.0871', 'february:0.0771', 'share:0.0708', 'leader:0.0654', 'ap:0.0538', 'theme:0.0531', 'add:0.0468', 'tough:0.0215']+titles_keywords+['russia:0.339', 'nobel:0.332', 'author:0.2646', 'threat:0.249', 'free:0.1742']"
+        ]
+    ]
+}

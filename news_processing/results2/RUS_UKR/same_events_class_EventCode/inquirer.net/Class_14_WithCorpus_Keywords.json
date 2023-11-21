@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+14":[
+        [
+            "20210604+../news_crawling/RUS_UKR/p_articles/inquirer.net/Kremlin says provocations like UK warship episode demand tough response.txt+eventbasecode14+eventcode14+avgtone0.47368421052631576+goldsteinscale0.5+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['crimea:0.592', 'kremlin:0.48', 'nato:0.3972', 'vladimir:0.3789', 'russias:0.3774', 'peskov:0.3641', 'comrade:0.3538', 'provocation:0.3411', 'warship:0.3214', 'destabilize:0.2365', 'territorial:0.2068', 'operation:0.2017', 'warn:0.1773', 'news:0.1691', 'know:0.1626', 'sink:0.1604', 'drill:0.158', 'pavlishakfile:0.1351', 'course:0.124', 'element:0.1123', 'black:0.1022', 'pas:0.1006', 'subscribe:0.0887', 'think:0.0878', 'early:0.0816', 'like:0.0717', 'body:0.0717', 'privacy:0.0641', 'plus:0.0566', 'agree:0.0557']+titles_keywords+['kremlin:0.4535', 'provocations:0.4327', 'warship:0.3274', 'uk:0.1569', 'tough:0.1317']"
+        ],
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/inquirer.net/UK needs to go big on nuclear and offshore wind Johnson says.txt+eventbasecode14+eventcode14+avgtone0.5074626865671642+goldsteinscale0.5+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.006578947368421052+news_keywords+['nuclear:0.4095', 'britain:0.313', 'offshore:0.2679', 'sustainable:0.2548', 'oil:0.2546', 'wind:0.2144', 'boris:0.2112', 'expand:0.2053', 'conservative:0.1975', 'security:0.1972', 'strategy:0.1964', 'independence:0.1862', 'future:0.1832', 'reutersphil:0.1797', 'invest:0.1588', 'supplier:0.1453', 'johnson:0.1448', 'listen:0.1382', 'big:0.1335', 'article:0.1322', 'plus:0.114', 'prime:0.1064', 'bolster:0.1045', 'daily:0.1', 'soar:0.0934', 'agree:0.0816', 'lbc:0.0762', 'sure:0.06', 'new:0.0583', 'download:0.0347']+titles_keywords+['nuclear:0.3767', 'wind:0.2335', 'johnson:0.23', 'uk:0.2006', 'big:0.175']"
+        ]
+    ]
+}

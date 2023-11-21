@@ -1,0 +1,17 @@
+{
+    "DEU+UKR+72":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/plymouthherald.co.uk/Ukraine latest as talks with Russia take place and UK announces more sanctions.txt+eventbasecode72+eventcode72+avgtone0.4723032069970845+goldsteinscale0.915+nummentions0.16110304789550073+numarticles0.16171138506163887+numsources0.17763157894736842+news_keywords+['ukraine:0.5039', 'ceasefire:0.4057', 'kremlin:0.4023', 'overthrow:0.3198', 'escalation:0.3022', 'government:0.2855', 'announce:0.2827', 'emergency:0.2824', 'cyberattacks:0.2733', 'prepare:0.2592', 'table:0.258', 'nuclear:0.2541', 'strategic:0.2485', 'rhetoric:0.237', 'rouble:0.2099', 'tense:0.2078', 'order:0.2074', 'terrify:0.206', 'adviser:0.2048', 'world:0.1887', 'end:0.1862', 'corridor:0.1854', 'huddle:0.1785', 'sector:0.1746', 'long:0.1687', 'view:0.1617', 'warm:0.1507', 'replace:0.1489', 'plus:0.125', 'agree:0.0818']+titles_keywords+['ukraine:0.5635', 'sanctions:0.4828', 'latest:0.2653', 'talks:0.219', 'place:0.1471']"
+        ]
+    ],
+    "EUR+UKR+72":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/plymouthherald.co.uk/Russia vs Ukraine Should the UK send British troops to help Ukraine.txt+eventbasecode72+eventcode72+avgtone0.48232984293193715+goldsteinscale0.915+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4804', 'nato:0.4069', 'putins:0.3846', 'militarily:0.3677', 'treaty:0.3589', 'politics:0.3244', 'bloodshed:0.2955', 'oil:0.2901', 'attack:0.286', 'crisis:0.2781', 'involvement:0.2654', 'boris:0.2645', 'news:0.2369', 'unprovoked:0.2251', 'sanction:0.2206', 'warn:0.2117', 'turn:0.1888', 'volodymyr:0.1838', 'continue:0.1825', 'biden:0.18', 'increase:0.1742', 'current:0.1732', 'tie:0.1683', 'think:0.1569', 'clear:0.1566', 'entirely:0.1462', 'midday:0.1445', 'ready:0.142', 'extra:0.1345', 'price:0.0741']+titles_keywords+['ukraine:0.4405', 'troops:0.3327', 'vs:0.1761', 'help:0.1583', 'send:0.0798']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/plymouthherald.co.uk/Marks and Spencer giving away free eye tests in Plymouth.txt+eventbasecode72+eventcode72+avgtone0.5187032418952618+goldsteinscale0.915+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['opticians:0.5471', 'plymouth:0.4325', 'sunglasses:0.3679', 'lens:0.3635', 'shopping:0.2698', 'customers:0.2669', 'british:0.2619', 'comstoresplymouth:0.2408', 'mandsopticians:0.2295', 'oakley:0.2185', 'look:0.2113', 'wear:0.1972', 'recommendation:0.1863', 'marks:0.1861', 'ms:0.1816', 'convenience:0.1747', 'range:0.1671', 'nikon:0.1639', 'open:0.1487', 'troop:0.1473', 'spencer:0.1431', 'successful:0.1418', 'oct:0.1397', 'mulberry:0.1382', 'spade:0.1307', 'http:0.1027', 'fee:0.0917', 'second:0.0911', 'theres:0.0809', 'joules:-0.0035']+titles_keywords+['tests:0.3862', 'plymouth:0.3787', 'eye:0.3025', 'free:0.263', 'spencer:0.2195']"
+        ]
+    ]
+}

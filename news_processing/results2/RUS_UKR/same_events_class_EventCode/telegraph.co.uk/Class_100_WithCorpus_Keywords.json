@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Ukraine under pressure to bow to Russian demands after meeting with Emmanuel Macron.txt+eventbasecode100+eventcode100+avgtone0.4854294478527607+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4496', 'putin:0.4484', 'ceasefire:0.4122', 'nato:0.3652', 'macron:0.3181', 'separatist:0.3086', 'compromise:0.3028', 'agreement:0.3012', 'implement:0.218', 'telegraph:0.2069', 'promise:0.2035', 'want:0.1901', 'continue:0.1702', 'security:0.1683', 'volodymyr:0.1654', 'alongside:0.1651', 'sign:0.1627', 'speak:0.1558', 'forward:0.1536', 'term:0.1507', 'general:0.1375', 'speculation:0.1347', 'pave:0.1293', 'view:0.1281', 'substantive:0.1275', 'ready:0.1246', 'date:0.1225', 'like:0.1205', 'hop:0.1171', 'integrate:0.099']+titles_keywords+['ukraine:0.389', 'macron:0.299', 'demands:0.2385', 'meeting:0.2307', 'bow:0.0628']"
+        ],
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/A month of war in pictures 25 compelling images that show hell on earth.txt+eventbasecode100+eventcode100+avgtone0.47518248175182487+goldsteinscale0.25+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.003289473684210526+news_keywords+['kyiv:0.5158', 'war:0.4419', 'russian:0.3636', 'putin:0.3414', 'bombing:0.3018', 'invasion:0.2775', 'troop:0.2473', 'month:0.2369', 'win:0.2299', 'inflicting:0.2286', 'bloody:0.2137', 'long:0.2122', 'resilient:0.1938', 'country:0.1865', 'hell:0.1844', 'push:0.1539', 'highlight:0.1478', 'compelling:0.1457', 'counter:0.1449', 'sign:0.1449', 'people:0.1426', 'fled:0.1416', 'toll:0.1383', 'picture:0.1154', 'entire:0.1093', 'reveal:0.1082', 'initial:0.1041', 'dig:0.104', 'flatten:0.0928', 'easily:0.0877']+titles_keywords+['war:0.5135', 'hell:0.4513', 'images:0.3837', 'earth:0.3225', 'compelling:0.2245']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220707+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Slovyansks remainers prepare for last stand against Russian invaders.txt+eventbasecode100+eventcode100+avgtone0.48269689737470167+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['slovyansks:0.5761', 'kyiv:0.5222', 'kremlin:0.4779', 'vladimir:0.423', 'revolution:0.3044', 'stay:0.2852', 'remainers:0.285', 'town:0.2773', 'telegraph:0.2664', 'troop:0.2517', 'know:0.2484', 'scare:0.2424', 'rail:0.2192', 'resident:0.217', 'clear:0.2168', 'punchy:0.2016', 'long:0.1926', 'quietly:0.1872', 'prepare:0.1849', 'anniversary:0.1714', 'oncoming:0.1616', 'straggler:0.1609', 'alongside:0.1572', 'main:0.1567', 'rasp:0.1422', 'felt:0.1411', 'lot:0.1287', 'building:0.1284', 'comparison:0.1258', 'unless:0.0567']+titles_keywords+['slovyansks:0.6372', 'russian:0.354', 'remainers:0.2898', 'prepare:0.2366', 'invaders:0.2192']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/dnaindia.com/Will Google temporarily disable services amid RussiaUkraine conflict.txt+eventbasecode80+eventcode80+avgtone0.47515527950310565+goldsteinscale0.75+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['russiaukraine:0.4234', 'google:0.3729', 'map:0.2759', 'news:0.2623', 'traffic:0.2527', 'security:0.2492', 'invade:0.238', 'military:0.233', 'conflict:0.2328', 'operation:0.2093', 'temporarily:0.1965', 'border:0.1775', 'alphabet:0.1702', 'regional:0.1618', 'remove:0.1609', 'authority:0.1605', 'support:0.1568', 'feature:0.1454', 'ist:0.1444', 'live:0.1432', 'turn:0.1419', 'restrict:0.1408', 'reported:0.1332', 'casualty:0.1219', 'order:0.1197', 'thursday:0.094', 'big:0.0908', 'californias:0.0749', 'like:0.073', 'thousands:0.0691']+titles_keywords+['russiaukraine:0.3151', 'google:0.2521', 'temporarily:0.1916', 'conflict:0.1882', 'services:0.184']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220517+../news_crawling/RUS_UKR/p_articles/dnaindia.com/Ukrainian troops evacuate last stronghold Mariupol yield control to Russia.txt+eventbasecode80+eventcode80+avgtone0.4731457800511509+goldsteinscale0.75+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['kyiv:0.53', 'evacuation:0.4764', 'civilians:0.3849', 'kashmir:0.2968', 'separatist:0.2825', 'reuters:0.281', 'soldier:0.2688', 'unprovoked:0.2467', 'mariupol:0.2286', 'violence:0.2279', 'anna:0.2195', 'town:0.2125', 'baseless:0.2052', 'steelworks:0.1902', 'read:0.1759', 'updated:0.1686', 'yield:0.1675', 'february:0.1672', 'order:0.1589', 'beneath:0.1502', 'care:0.1469', 'left:0.145', 'ist:0.1425', 'nearly:0.1366', 'long:0.1349', 'end:0.1324', 'port:0.1306', 'mehbooba:0.1093', 'agree:0.1074', 'thousand:0.1049']+titles_keywords+['ukrainian:0.3565', 'mariupol:0.2652', 'evacuate:0.2633', 'control:0.1603', 'stronghold:0.1579']"
+        ]
+    ]
+}

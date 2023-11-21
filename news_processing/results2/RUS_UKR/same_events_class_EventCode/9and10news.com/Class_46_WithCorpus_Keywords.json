@@ -1,0 +1,19 @@
+{
+    "BEL+RUS+46":[
+        []
+    ],
+    "CHE+RUS+46":[
+        []
+    ],
+    "RUS+RUS+46":[
+        []
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/9and10news.com/Ukraine Security Council Urges Escapeways.txt+eventbasecode46+eventcode46+avgtone0.46794871794871795+goldsteinscale0.85+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5+news_keywords+['ukraine:0.492', 'blockade:0.4017', 'humanitarian:0.3469', 'escapeways:0.3286', 'corridor:0.3237', 'danilov:0.3057', 'war:0.2897', 'oleksiy:0.2851', 'troop:0.2401', 'security:0.2228', 'toll:0.2191', 'government:0.2141', 'children:0.1983', 'help:0.1761', 'ahead:0.1748', 'catastrophe:0.168', 'cross:0.164', 'delegation:0.1573', 'south:0.1553', 'situation:0.1435', 'organize:0.1401', 'talk:0.139', 'elderly:0.1205', 'allow:0.1179', 'encircle:0.1134', 'woman:0.0771', 'mariupol:0.069', 'weekend:0.0653', 'head:0.0603', 'include:0.0365']+titles_keywords+['escapeways:0.4706', 'ukraine:0.4035', 'security:0.2303', 'council:0.1434', 'urges:0.0539']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        []
+    ]
+}

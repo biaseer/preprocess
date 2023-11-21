@@ -1,0 +1,12 @@
+{
+    "RUS+GBR+874":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Rest of Europe must open borders to Ukrainian refugees says Polish president.txt+eventbasecode87+eventcode874+avgtone0.48104265402843605+goldsteinscale1.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['refugee:0.4654', 'ukrainian:0.4042', 'polands:0.3943', 'visas:0.3646', 'europe:0.3332', 'border:0.3226', 'andrzej:0.2511', 'war:0.248', 'crisis:0.2233', 'cross:0.2165', 'transport:0.2072', 'leave:0.2028', 'allow:0.181', 'people:0.1773', 'gove:0.1489', 'open:0.1455', 'million:0.144', 'bbcs:0.144', 'house:0.1349', 'end:0.1347', 'half:0.1169', 'expert:0.1056', 'duda:0.0884', 'receive:0.0868', 'bad:0.074', 'according:0.0734', 'far:0.0712', 'levelling:0.0657', 'thank:0.0497', 'really:0.0469']+titles_keywords+['ukrainian:0.3351', 'refugees:0.3207', 'open:0.1283', 'president:0.0877', 'says:-0.0229']"
+        ]
+    ],
+    "RUS+UKR+874":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Russian stateowned media stopped from advertising or monetising on Facebook.txt+eventbasecode87+eventcode874+avgtone0.4916107382550336+goldsteinscale1.0+nummentions0.27503628447024675+numarticles0.27556200145032633+numsources0.40789473684210525+news_keywords+['facebook:0.4296', 'kremlin:0.4207', 'russias:0.3849', 'russian:0.3541', 'ru:0.3047', 'government:0.2898', 'news:0.2749', 'security:0.2718', 'prohibit:0.2713', 'monetise:0.2578', 'roskomnadzor:0.2535', 'platform:0.2356', 'invasion:0.2264', 'page:0.1883', 'vice:0.1746', 'content:0.1734', 'read:0.1614', 'statement:0.1599', 'transparency:0.1397', 'limit:0.1363', 'section:0.1323', 'nick:0.1312', 'make:0.1267', 'check:0.1223', 'state:0.122', 'continue:0.1189', 'ad:0.1131', 'add:0.0795', 'thetransparency:0.0527', 'gleicher:0.0308']+titles_keywords+['russian:0.3496', 'media:0.3166', 'facebook:0.3139', 'stopped:0.1959', 'stateowned:0.1549']"
+        ]
+    ]
+}

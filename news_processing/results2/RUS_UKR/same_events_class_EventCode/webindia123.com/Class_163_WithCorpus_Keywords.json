@@ -1,0 +1,27 @@
+{
+    "CAN+RUS+163":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/webindia123.com/Inflicted 800 casualties among Russian forces claims Ukraine Defence Ministry.txt+eventbasecode163+eventcode163+avgtone0.47807017543859653+goldsteinscale0.1+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.023026315789473683+news_keywords+['ukraine:0.4468', 'putin:0.3834', 'military:0.3205', 'casualty:0.3052', 'mobilization:0.2952', 'operation:0.2891', 'missile:0.2734', 'zelenskyy:0.2641', 'news:0.2492', 'tank:0.2472', 'informs:0.2419', 'destroy:0.2303', 'infrastructure:0.2267', 'yevhen:0.2243', 'report:0.1974', 'shoot:0.1753', 'strike:0.1717', 'input:0.163', 'cause:0.1557', 'claim:0.1555', 'hear:0.1387', 'donbas:0.1369', 'buk:0.1328', 'independent:0.1245', 'second:0.1135', 'ground:0.1107', 'approximately:0.1036', 'quote:0.1009', 'ani:0.097', 'include:0.0857']+titles_keywords+['casualties:0.4551', 'russian:0.3587', '800:0.3549', 'inflicted:0.233', 'claims:0.2112']"
+        ]
+    ],
+    "DEU+RUS+163":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/webindia123.com/Ukrainian Foreign Minister Kuleba denounces Germany says you have done too little.txt+eventbasecode163+eventcode163+avgtone0.47751322751499997+goldsteinscale0.1+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['ukraine:0.5123', 'putin:0.4738', 'geopolitical:0.4055', 'oligarch:0.3437', 'invasion:0.3212', 'escalation:0.3121', 'zelenskyy:0.2505', 'killing:0.239', 'military:0.2367', 'denounces:0.2322', 'protect:0.2174', 'crypto:0.2045', 'respond:0.202', 'remind:0.1935', 'missile:0.1929', 'begin:0.1876', 'say:0.1748', 'sector:0.1719', 'blame:0.1713', 'accomplished:0.1699', 'include:0.1621', 'important:0.162', 'navigation:0.1513', 'long:0.143', 'highlight:0.1332', 'nearly:0.1244', 'parallel:0.1172', 'der:0.1159', 'ani:0.1071', 'export:0.1058']+titles_keywords+['kuleba:0.3837', 'ukrainian:0.3796', 'germany:0.2842', 'denounces:0.2331', 'says:0.0927']"
+        ]
+    ],
+    "GBR+RUS+163":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/webindia123.com/UK bans imports of Russian silver wood products highquality goods.txt+eventbasecode163+eventcode163+avgtone0.5059171597633135+goldsteinscale0.1+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.013157894736842105+news_keywords+['belarus:0.3931', 'tariff:0.3715', 'wood:0.2709', 'ban:0.2322', 'iron:0.2174', 'silver:0.2063', 'product:0.1953', 'export:0.1697', 'international:0.1668', 'luxury:0.1559', 'trevelyan:0.1452', 'trade:0.1363', 'pound:0.133', 'government:0.1266', 'statement:0.1228', 'caviar:0.1093', 'good:0.1064', 'anisputnik:0.093', 'increase:0.0892', 'highquality:0.0844', 'end:0.0728', 'marie:0.0721', 'quantum:0.0626', 'today:0.0612', 'include:0.0589', 'total:0.0561', 'april:0.0428', 'decide:0.0349', 'sunak:0.0321', 'secretary:0.0169']+titles_keywords+['wood:0.3369', 'russian:0.2764', 'products:0.2376', 'bans:0.2092', 'highquality:0.1207']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/webindia123.com/EU announces new sanctions against Russia amid Ukraine war.txt+eventbasecode163+eventcode163+avgtone0.48797595190380766+goldsteinscale0.1+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.009868421052631578+news_keywords+['sanction:0.4101', 'prohibit:0.3461', 'eu:0.34', 'russian:0.2859', 'economic:0.2775', 'import:0.2542', 'war:0.2518', 'clarification:0.2488', 'authorisation:0.2475', 'scope:0.236', 'extend:0.2311', 'exemption:0.2251', 'introduce:0.222', 'avoid:0.2212', 'transaction:0.2211', 'destabilise:0.2103', 'alignment:0.2088', 'subject:0.2082', 'item:0.2024', 'legal:0.1975', 'cross:0.1817', 'sector:0.1678', 'silos:0.1601', 'step:0.1496', 'reside:0.1429', 'fertiliser:0.1414', 'similarly:0.1391', 'significant:0.1148', 'ani:0.1116', 'today:0.105']+titles_keywords+['sanctions:0.4545', 'eu:0.2856', 'war:0.2375', 'new:0.1276', 'amid:0.0481']"
+        ]
+    ],
+    "USA+RUS+163":[
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/webindia123.com/Chinese envoy warns against providing weapons to Ukraine.txt+eventbasecode163+eventcode163+avgtone0.45995423340961117+goldsteinscale0.1+nummentions0.036284470246734396+numarticles0.03698332124728064+numsources0.039473684210526314+news_keywords+['ukraine:0.4772', 'geopolitical:0.4006', 'violence:0.3383', 'humanitarian:0.3375', 'sanction:0.2817', 'allegation:0.2357', 'border:0.2287', 'comply:0.222', 'develop:0.2037', 'shelter:0.1999', 'avoid:0.1886', 'girl:0.1826', 'impartially:0.1822', 'anixinhua:0.175', 'bloc:0.1645', 'meeting:0.1607', 'disturbing:0.1605', 'safe:0.1584', 'say:0.1551', 'immediate:0.1536', 'outbreak:0.1507', 'industrial:0.1462', 'include:0.1411', 'solve:0.1375', 'indivisible:0.1374', 'fact:0.1359', 'dai:0.1292', 'basis:0.1189', 'monitor:0.1006', 'price:0.0545']+titles_keywords+['ukraine:0.3794', 'weapons:0.2712', 'warns:0.2359', 'envoy:0.1766', 'providing:0.0836']"
+        ]
+    ]
+}

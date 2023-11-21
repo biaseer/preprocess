@@ -1,0 +1,12 @@
+{
+    "FRA+RUS+71":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/10 bodies discovered in unmarked Bucha grave.txt+eventbasecode71+eventcode71+avgtone0.4607508532423208+goldsteinscale0.8699999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.4866', 'russian:0.4177', 'investigation:0.3999', 'russias:0.3817', 'civilians:0.346', 'grave:0.3449', 'venediktova:0.3399', 'unmarked:0.3122', 'victim:0.3008', 'jurisdiction:0.2917', 'unearth:0.276', 'report:0.2589', 'gunshot:0.2367', 'bucha:0.2209', 'town:0.1958', 'expert:0.1772', 'telegram:0.1608', 'ahead:0.1488', 'contain:0.1411', 'allegedly:0.1407', 'important:0.1307', 'withdrew:0.1292', 'grisly:0.1269', 'month:0.1239', 'dozen:0.1154', 'large:0.1105', 'coincide:0.1103', 'efe:0.1044', 'regroup:0.0894', 'like:0.0774']+titles_keywords+['grave:0.4426', 'bucha:0.329', 'unmarked:0.2356', '10:0.2236', 'discovered:0.1722']"
+        ]
+    ],
+    "UKR+RUS+71":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Ukrainian band sells Eurovision trophy to fund war against Russia.txt+eventbasecode71+eventcode71+avgtone0.49504950495049505+goldsteinscale0.8699999999999999+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['eurovision:0.6664', 'kyiv:0.4983', 'russians:0.3992', 'band:0.3344', 'microphone:0.329', 'trophy:0.2644', 'broadcasting:0.2639', 'contest:0.2635', 'song:0.2587', 'participate:0.2497', 'ukrinform:0.2426', 'drones:0.2309', 'worldwide:0.19', 'obtain:0.1881', 'invaded:0.1824', 'money:0.1761', 'agency:0.1711', 'kalush:0.1593', 'late:0.1492', 'buy:0.1298', 'annual:0.1277', 'efe:0.1253', 'glass:0.115', 'intpdssk:0.1115', 'say:0.0973', 'rightful:0.0902', 'rml:0.0895', 'state:0.071', 'guy:0.0651', 'thanks:0.0593']+titles_keywords+['eurovision:0.4297', 'trophy:0.2939', 'war:0.2816', 'band:0.2799', 'sells:0.1807']"
+        ]
+    ]
+}

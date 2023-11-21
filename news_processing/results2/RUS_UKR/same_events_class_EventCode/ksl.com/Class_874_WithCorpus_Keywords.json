@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220402+../news_crawling/RUS_UKR/p_articles/ksl.com/Ukrainian forces retake areas near Kyiv amid fear of traps.txt+eventbasecode87+eventcode874+avgtone0.47717546362339514+goldsteinscale1.0+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.03618421052631579+news_keywords+['kyiv:0.5832', 'crimea:0.5261', 'evacuate:0.3489', 'redeployment:0.3459', 'putin:0.3454', 'war:0.3244', 'refugee:0.32', 'azov:0.2835', 'underway:0.2347', 'gunshot:0.2143', 'telegram:0.214', 'column:0.1957', 'report:0.1952', 'soon:0.1912', 'surround:0.191', 'watch:0.1866', 'bucha:0.1855', 'cite:0.1833', 'north:0.1793', 'catastrophic:0.1777', 'want:0.176', 'seize:0.1752', 'mortar:0.1703', 'ap:0.1609', 'speaking:0.1585', 'crosshairs:0.1411', 'believe:0.1397', 'official:0.1199', 'million:0.1083', 'agree:0.1078']+titles_keywords+['kyiv:0.4834', 'traps:0.2457', 'fear:0.2208', 'areas:0.1905', 'retake:0.1191']"
+        ],
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/ksl.com/Russia says it strikes Kyiv missile factory after its flagship sinks in Black Sea.txt+eventbasecode87+eventcode874+avgtone0.46419270833333326+goldsteinscale1.0+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.046052631578947366+news_keywords+['kyiv:0.5009', 'war:0.29', 'naval:0.2826', 'blockade:0.2662', 'unprovoked:0.2371', 'catastrophe:0.2281', 'falklands:0.2227', 'column:0.2205', 'evacuate:0.2203', 'anticipate:0.2189', 'separatist:0.2101', 'report:0.1988', 'sink:0.1981', 'soon:0.1899', 'described:0.1886', 'north:0.1743', 'epithet:0.1585', 'hear:0.1524', 'want:0.1505', 'flagship:0.1453', 'major:0.141', 'confirmation:0.1406', 'aim:0.1401', 'donbas:0.1376', 'feb:0.1375', 'bad:0.13', 'overall:0.1284', 'building:0.1281', 'reduce:0.0931', 'true:0.0858']+titles_keywords+['kyiv:0.4521', 'missile:0.2293', 'sinks:0.1991', 'factory:0.1514', 'black:0.0542']"
+        ]
+    ],
+    "UKR+RUS+874":[
+        [
+            "20220809+../news_crawling/RUS_UKR/p_articles/ksl.com/US pledges 1 billion more rockets other arms for Ukraine.txt+eventbasecode87+eventcode874+avgtone0.49938650306748467+goldsteinscale1.0+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['ukraine:0.4832', 'nato:0.4672', 'pentagon:0.3406', 'funding:0.3122', 'artillery:0.2872', 'conflict:0.2775', 'zelenskyy:0.2509', 'prepare:0.2438', 'separatist:0.2377', 'presidential:0.2045', 'pledge:0.2031', 'ally:0.2008', 'stabilize:0.1863', 'stock:0.1812', 'incremental:0.1796', 'movement:0.1793', 'direct:0.1661', 'type:0.1656', 'stage:0.1595', 'th:0.1555', 'essentially:0.1492', 'month:0.1489', 'donbas:0.1482', 'include:0.1365', 'thousand:0.1345', 'depend:0.1336', 'counteroffensive:0.13', 'late:0.1208', 'send:0.1187', 'big:0.11']+titles_keywords+['ukraine:0.3701', 'rockets:0.2729', 'pledges:0.2523', 'billion:0.2451', 'arms:0.15']"
+        ]
+    ]
+}

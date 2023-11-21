@@ -1,0 +1,15 @@
+{
+    "POL+RUS+130":[
+        [
+            "20211230+../news_crawling/RUS_UKR/p_articles/columbian.com/Putin says pipeline bound for Germany may help cut prices.txt+eventbasecode130+eventcode130+avgtone0.49042145593869735+goldsteinscale0.27999999999999997+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['pipeline:0.4393', 'putin:0.4', 'russias:0.3365', 'gas:0.2716', 'nord:0.2527', 'germany:0.2324', 'gazprom:0.2298', 'transit:0.214', 'increase:0.1849', 'surge:0.1677', 'stabilize:0.1663', 'reduce:0.1481', 'trillion:0.1347', 'approval:0.1336', 'stream:0.1241', 'natural:0.124', 'directly:0.1171', 'report:0.1045', 'wont:0.0987', 'price:0.0978', 'certainly:0.0975', 'await:0.092', 'union:0.0899', 'use:0.0898', 'counter:0.089', 'link:0.0873', 'point:0.0844', 'mile:0.0719', 'say:0.0554', 'october:0.0468']+titles_keywords+['putin:0.4092', 'pipeline:0.4091', 'germany:0.2338', 'prices:0.1312', 'says:0.0346']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20211212+../news_crawling/RUS_UKR/p_articles/columbian.com/G7 warns Russia of massive consequences if Ukraine invaded.txt+eventbasecode130+eventcode130+avgtone0.47076372315035797+goldsteinscale0.27999999999999997+nummentions0.06313497822931785+numarticles0.06381435823060189+numsources0.05263157894736842+news_keywords+['ukraine:0.4487', 'diplomatic:0.3731', 'invade:0.3342', 'economy:0.2985', 'president:0.295', 'agenda:0.2793', 'nuclear:0.2656', 'crisis:0.2598', 'escalate:0.2535', 'develop:0.2523', 'global:0.2506', 'prepare:0.249', 'power:0.2447', 'warn:0.2327', 'pipeline:0.23', 'term:0.2246', 'concern:0.2215', 'argue:0.2189', 'consequence:0.2173', 'say:0.2085', 'hawkish:0.1868', 'promise:0.18', 'unified:0.1775', 'movement:0.1765', 'weve:0.1754', 'long:0.1565', 'renew:0.1515', 'indo:0.1362', 'sure:0.1331', 'saturday:0.1281']+titles_keywords+['ukraine:0.396', 'consequences:0.2772', 'g7:0.264', 'warns:0.2588', 'invaded:0.2447']"
+        ],
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/columbian.com/Ukrainian rebels to evacuate civilians to Russia amid crisis.txt+eventbasecode130+eventcode130+avgtone0.46682464454976297+goldsteinscale0.27999999999999997+nummentions0.45754716981132076+numarticles0.4579405366207397+numsources0.4473684210526316+news_keywords+['ukraine:0.4911', 'kremlin:0.4571', 'nato:0.4067', 'evacuate:0.386', 'dmitry:0.3731', 'diplomatic:0.3612', 'war:0.3581', 'escalation:0.3303', 'government:0.3078', 'disrupt:0.3037', 'separatist:0.2969', 'miscommunication:0.2859', 'pentagon:0.2707', 'trump:0.2696', 'news:0.2647', 'organize:0.2579', 'dangerous:0.2332', 'casualty:0.2267', 'reminder:0.2166', 'conjunction:0.2115', 'continue:0.1981', 'industrial:0.1973', 'pull:0.1898', 'donbas:0.1795', 'saturday:0.1616', 'borderwith:0.1613', 'unchr:0.1589', 'ready:0.1578', 'long:0.1487', 'false:0.1382']+titles_keywords+['ukrainian:0.4073', 'evacuate:0.3648', 'civilians:0.3436', 'rebels:0.3166', 'amid:0.0047']"
+        ]
+    ]
+}

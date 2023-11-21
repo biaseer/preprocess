@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+13":[
+        [
+            "20220423+../news_crawling/RUS_UKR/p_articles/businessinsider.com/The UK will supply Zelenskyys troops with a new weapons system armed with highprecision Starstreak.txt+eventbasecode13+eventcode13+avgtone0.4952107279693487+goldsteinscale0.52+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraines:0.5133', 'kyiv:0.4589', 'missiles:0.4091', 'troop:0.3465', 'deploy:0.3418', 'putin:0.323', 'afghanistan:0.2892', 'invasion:0.2875', 'helicopter:0.268', 'salisbury:0.2631', 'zelenskyys:0.2561', 'stormer:0.245', 'colonel:0.2313', 'supply:0.2007', 'transport:0.1917', 'training:0.1701', 'western:0.1663', 'plan:0.1563', 'combination:0.1498', 'increase:0.1418', 'alongside:0.1359', 'fight:0.1237', 'far:0.1232', 'april:0.1137', 'new:0.1132', 'able:0.0737', 'heavy:0.0605', 'highprecision:0.0591', 'statement:0.0491', 'officially:0.0471']+titles_keywords+['zelenskyys:0.5013', 'ukraines:0.3979', 'missiles:0.3819', 'uk:0.2038', 'highprecision:0.1329']"
+        ]
+    ],
+    "RUS+SAU+13":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Oil prices climb 5 after UAE appears to backtrack on its earlier call for OPEC.txt+eventbasecode13+eventcode13+avgtone0.5088566827697263+goldsteinscale0.52+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['opec:0.5976', 'oil:0.4308', 'uae:0.3862', 'supply:0.328', 'pump:0.2737', 'increase:0.2684', 'profit:0.2655', 'russian:0.2601', 'output:0.2478', 'economist:0.2412', 'agreement:0.2251', 'invasion:0.2237', 'future:0.2173', 'month:0.1995', 'stability:0.1883', 'politicization:0.1856', 'cite:0.1837', 'post:0.1789', 'coordinate:0.171', 'meeting:0.1691', 'important:0.1651', 'dramatic:0.1645', 'descend:0.1443', 'brent:0.1391', 'earlier:0.1307', 'price:0.1102', 'overheat:0.0887', 'welcome:0.0852', 'yousuf:0.0711', 'likely:0.0609']+titles_keywords+['opec:0.407', 'uae:0.2594', 'climb:0.1703', 'backtrack:0.1507', 'prices:0.1283']"
+        ]
+    ],
+    "UKR+RUS+13":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Russian oligarchs anticipated sanctions months before the war and moved money through Hawala an informal.txt+eventbasecode13+eventcode13+avgtone0.4886363636363636+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['hawala:0.4676', 'russia:0.4116', 'oligarch:0.3879', 'sanction:0.3072', 'intermediary:0.3017', 'transaction:0.2715', 'market:0.2597', 'money:0.2549', 'jurisdiction:0.2477', 'bank:0.2445', 'telecommunication:0.2389', 'mechanism:0.2253', 'analysis:0.2205', 'terrorist:0.2194', 'originate:0.2147', 'know:0.211', 'superyachts:0.1963', 'western:0.1855', 'term:0.1744', 'outflows:0.1663', 'month:0.1627', 'broadly:0.1598', 'anticipate:0.1396', 'hit:0.1392', 'shell:0.139', 'datasets:0.1286', 'increase:0.1285', 'require:0.1267', 'century:0.1201', 'shane:0.0672']+titles_keywords+['sanctions:0.447', 'oligarchs:0.4335', 'hawala:0.3492', 'russian:0.3132', 'months:0.1379']"
+        ]
+    ]
+}

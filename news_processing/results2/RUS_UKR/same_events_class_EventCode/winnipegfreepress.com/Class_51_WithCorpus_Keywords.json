@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/winnipegfreepress.com/Indigenous people show support for Ukraine with campaign to show off floral scarves.txt+eventbasecode51+eventcode51+avgtone0.5093023255813953+goldsteinscale0.67+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['scarf:0.5038', 'ukrainians:0.4007', 'fashion:0.3316', 'cree:0.3133', 'babushka:0.3118', 'headwears:0.307', 'floral:0.3062', 'traditionally:0.2968', 'khustkas:0.2853', 'regalia:0.2808', 'history:0.2725', 'settler:0.2467', 'pattern:0.2394', 'grandmother:0.234', 'anishinaabe:0.213', 'tamara:0.2114', 'gift:0.1847', 'humanitarian:0.1837', 'fiddle:0.1748', 'beadwork:0.1694', 'various:0.1684', 'symbolize:0.1651', 'know:0.1627', 'photo:0.1569', 'shes:0.1557', 'bring:0.1387', 'red:0.1262', 'longer:0.124', 'way:0.0776', 'enjoy:0.0699']+titles_keywords+['ukraine:0.396', 'scarves:0.3904', 'indigenous:0.3519', 'floral:0.2499', 'support:0.1993']"
+        ]
+    ],
+    "UKR+WST+51":[
+        [
+            "20211224+../news_crawling/RUS_UKR/p_articles/winnipegfreepress.com/The importance or not of humouring Putin.txt+eventbasecode51+eventcode51+avgtone0.4828125+goldsteinscale0.67+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['putin:0.4509', 'ukraines:0.4395', 'nato:0.3983', 'geopolitical:0.358', 'moscow:0.3547', 'embargo:0.2355', 'revolution:0.2235', 'separatist:0.2139', 'bluff:0.1998', 'want:0.1993', 'incursion:0.1916', 'armed:0.1763', 'board:0.1547', 'know:0.1424', 'precisely:0.1393', 'comply:0.1393', 'risk:0.1379', 'inherit:0.1329', 'enlarge:0.1317', 'lose:0.127', 'end:0.1144', 'status:0.1115', 'obsess:0.1114', 'project:0.1058', 'areas:0.1044', 'moment:0.0968', 'plus:0.0951', 'longer:0.081', 'lot:0.0728', 'major:0.0431']+titles_keywords+['putin:0.506', 'humouring:0.3922', 'importance:0.2479']"
+        ]
+    ]
+}

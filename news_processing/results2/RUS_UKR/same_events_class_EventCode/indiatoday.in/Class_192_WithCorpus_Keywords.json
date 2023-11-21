@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Who in Lords name does Putin think gives him the right says Joe Biden.txt+eventbasecode192+eventcode192+avgtone0.485+goldsteinscale0.025+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5561', 'ukraine:0.4563', 'vladimir:0.4425', 'territory:0.3523', 'separatist:0.346', 'biden:0.3151', 'donetsk:0.2956', 'war:0.2663', 'announce:0.2278', 'accuse:0.2233', 'say:0.2213', 'joe:0.2208', 'fool:0.2103', 'neighbour:0.2095', 'sanction:0.2061', 'allow:0.2014', 'shortly:0.2007', 'deploy:0.1947', 'india:0.1827', 'belong:0.175', 'think:0.1748', 'right:0.1732', 'begin:0.1694', 'lord:0.1599', 'measure:0.1301', 'aid:0.1247', 'new:0.119', 'big:0.0932', 'financing:0.0819', 'effectively:0.0748']+titles_keywords+['putin:0.587', 'biden:0.5343', 'joe:0.3256', 'lords:0.1807', 'right:0.1783']"
+        ],
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Ammonia leak at Sumy chemical plant in Ukraine after Russian airstrike.txt+eventbasecode192+eventcode192+avgtone0.4712460063897763+goldsteinscale0.025+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['chernobyl:0.543', 'ammonia:0.44', 'contamination:0.3748', 'airstrike:0.3726', 'oblast:0.3568', 'leak:0.2965', 'disaster:0.28', 'report:0.234', 'erupt:0.2272', 'urgent:0.214', 'refugee:0.2138', 'tank:0.2032', 'novoselytsya:0.2', 'underground:0.176', 'village:0.1727', 'plant:0.1648', 'ton:0.1627', 'sumy:0.1618', 'school:0.1519', 'affected:0.141', 'nexta:0.1225', 'site:0.1165', 'india:0.1164', 'near:0.1079', 'cause:0.1033', 'statement:0.0985', 'today:0.07', 'preferably:0.0651', 'turn:0.0626', 'uwhvelz:0.0385']+titles_keywords+['ammonia:0.4424', 'airstrike:0.3992', 'ukraine:0.3087', 'leak:0.3033', 'sumy:0.2075']"
+        ]
+    ]
+}

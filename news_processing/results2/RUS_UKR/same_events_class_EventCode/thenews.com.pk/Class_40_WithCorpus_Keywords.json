@@ -1,0 +1,12 @@
+{
+    "CHN+UKR+40":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/France tells Putin Nato also has nuclear weapons.txt+eventbasecode40+eventcode40+avgtone0.4847161572052402+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4718', 'nato:0.4467', 'kremlin:0.4299', 'treaty:0.3726', 'readiness:0.312', 'emergency:0.2781', 'expand:0.2769', 'eastward:0.2723', 'news:0.269', 'attack:0.2501', 'map:0.2356', 'president:0.2278', 'interfere:0.2132', 'know:0.2099', 'respond:0.2055', 'soon:0.2038', 'ominous:0.1904', 'history:0.1902', 'ready:0.189', 'want:0.187', 'successful:0.1798', 'jinping:0.1704', 'helicopter:0.1701', 'echo:0.1677', 'list:0.1558', 'sector:0.1384', 'yves:0.1374', 'long:0.1296', 'total:0.1051', 'tf:0.0924']+titles_keywords+['nato:0.5153', 'putin:0.3791', 'nuclear:0.34', 'weapons:0.211', 'tells:0.1511']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Russia Ukraine to resume facetoface peace talks.txt+eventbasecode40+eventcode40+avgtone0.47950000000000004+goldsteinscale0.55+nummentions0.0050798258345428155+numarticles0.00435097897026831+numsources0.009868421052631578+news_keywords+['crimea:0.5331', 'putin:0.4372', 'nato:0.3691', 'war:0.3412', 'separatist:0.3063', 'evacuate:0.3063', 'escalation:0.3052', 'border:0.2564', 'news:0.2544', 'progress:0.241', 'counterpart:0.2294', 'logistical:0.2244', 'afp:0.2198', 'concern:0.2156', 'expect:0.2148', 'alignment:0.2092', 'turn:0.207', 'resume:0.2066', 'respond:0.2005', 'soon:0.1974', 'long:0.1964', 'recount:0.1928', 'trostianets:0.1852', 'end:0.1813', 'push:0.1686', 'study:0.159', 'kilometre:0.152', 'counteroffensive:0.1436', 'agree:0.1401', 'facto:0.139']+titles_keywords+['ukraine:0.3452', 'peace:0.3007', 'facetoface:0.2862', 'talks:0.2115', 'resume:0.1082']"
+        ]
+    ]
+}

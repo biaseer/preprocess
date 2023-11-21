@@ -1,0 +1,12 @@
+{
+    "FIN+RUS+62":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/bbc.com/The intangible concept that gives countries power.txt+eventbasecode62+eventcode62+avgtone0.4953596287703016+goldsteinscale0.8699999999999999+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['nationalism:0.5414', 'cultural:0.4774', 'finns:0.436', 'postcolonial:0.426', 'history:0.4212', 'britishness:0.4212', 'napoleonic:0.3345', 'regime:0.314', 'identities:0.3086', 'originate:0.3083', 'uzbekistan:0.2971', 'unify:0.2859', 'kilt:0.2548', 'tuscan:0.2515', 'map:0.2461', 'states:0.2345', 'change:0.2314', 'storied:0.2311', 'romanticise:0.23', 'translate:0.2254', 'importance:0.2167', 'population:0.2109', 'say:0.1992', 'example:0.193', 'dye:0.1927', 'factor:0.1856', 'winter:0.1786', 'racewalking:0.1781', 'favour:0.1774', 'main:0.1725']+titles_keywords+['power:0.53', 'countries:0.4172', 'intangible:0.3784', 'concept:0.3266', 'gives:0.1725']"
+        ]
+    ],
+    "RUS+UKR+62":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/bbc.com/War in Ukraine Inside Chernobyl after the Russian occupation.txt+eventbasecode62+eventcode62+avgtone0.48+goldsteinscale0.8699999999999999+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['chernobyl:0.6843', 'ukraine:0.5312', 'russian:0.3585', 'war:0.3401', 'invasion:0.3284', 'troop:0.2907', 'journalists:0.2743', 'north:0.2315', 'plant:0.2193', 'country:0.2125', 'bbc:0.2102', 'occupation:0.1854', 'limaye:0.1755', 'inside:0.1718', 'seize:0.1702', 'enter:0.15', 'work:0.1479', 'people:0.1422', 'arm:0.1359', 'force:0.0996', 'speak:0.0979', 'day:0.092', 'site:0.0883', 'yogita:0.0456']+titles_keywords+['chernobyl:0.6631', 'ukraine:0.4569', 'war:0.3418', 'inside:0.1477', 'occupation:0.142']"
+        ]
+    ]
+}

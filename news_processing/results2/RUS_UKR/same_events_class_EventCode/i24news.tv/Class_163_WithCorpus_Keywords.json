@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+163":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/i24news.tv/Oil prices hit highest since 2014 amid UkraineRussia crisis.txt+eventbasecode163+eventcode163+avgtone0.47952218430034127+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['opec:0.4911', 'oil:0.392', 'tensions:0.3227', 'supply:0.2984', 'crisis:0.2727', 'russian:0.2717', 'surge:0.2308', 'escalate:0.2186', 'separatist:0.2075', 'price:0.2058', 'barrel:0.2041', 'cite:0.1949', 'high:0.1932', 'covid:0.1925', 'nigerias:0.1848', 'varga:0.18', 'president:0.1654', 'recent:0.1597', 'region:0.1582', 'monday:0.1428', 'push:0.1374', 'cause:0.1303', 'torrid:0.1268', 'resist:0.1239', 'billion:0.0997', 'benchmark:0.0967', 'brace:0.0961', 'nearly:0.0955', 'wider:0.0838', 'reopen:0.0459']+titles_keywords+['ukrainerussia:0.3063', 'oil:0.2708', 'highest:0.2693', '2014:0.2316', 'prices:0.1642']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220619+../news_crawling/RUS_UKR/p_articles/i24news.tv/Russia putting world in danger of famine EU warns.txt+eventbasecode163+eventcode163+avgtone0.45964912280701753+goldsteinscale0.1+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4599', 'blockade:0.3573', 'famine:0.3297', 'sanction:0.3256', 'war:0.3246', 'impose:0.3018', 'weaponize:0.2896', 'political:0.2726', 'blackmail:0.2699', 'danger:0.2616', 'oppose:0.2466', 'provision:0.2251', 'narrative:0.2108', 'unwanted:0.2056', 'issue:0.1905', 'world:0.1751', 'fertilizer:0.1713', 'quota:0.168', 'union:0.1648', 'export:0.1549', 'turn:0.1515', 'talk:0.1468', 'blog:0.1419', 'resume:0.1236', 'good:0.1203', 'monday:0.1178', 'ready:0.1122', 'josep:0.1113', 'fully:0.0815', 'merchant:0.0594']+titles_keywords+['famine:0.4689', 'russia:0.415', 'warns:0.2237', 'world:0.2226', 'putting:0.0548']"
+        ]
+    ]
+}

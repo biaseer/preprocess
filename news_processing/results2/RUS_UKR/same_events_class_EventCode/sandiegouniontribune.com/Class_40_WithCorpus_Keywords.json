@@ -1,0 +1,12 @@
+{
+    "FRA+RUS+40":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/In 1st big campaign do Macron unveils vision for 2nd term.txt+eventbasecode40+eventcode40+avgtone0.4880478087649402+goldsteinscale0.55+nummentions0.09397677793904209+numarticles0.09463379260333575+numsources0.20723684210526316+news_keywords+['macron:0.5316', 'campaign:0.3892', 'presidency:0.384', 'french:0.3146', 'ukraine:0.2878', 'frontrunner:0.2865', 'pollsters:0.2707', 'crisis:0.2474', 'ahead:0.2453', 'announce:0.2448', 'april:0.2337', 'history:0.2253', 'coordinate:0.2252', 'sanction:0.2166', 'expect:0.2132', 'pen:0.208', 'bloc:0.2009', 'criticize:0.199', 'counterpart:0.1974', 'weekend:0.1965', 'elysee:0.1861', 'unifying:0.1857', 'rate:0.1722', 'garrigues:0.1697', 'big:0.1677', 'retire:0.1612', 'rotate:0.161', 'head:0.1494', 'facto:0.1494', 'look:0.1422']+titles_keywords+['macron:0.554', 'campaign:0.4159', 'vision:0.2153', 'unveils:0.1634', '1st:0.1523']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220605+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Russia and Ukraine exchange bodies of 320 fallen soldiers after talks.txt+eventbasecode40+eventcode40+avgtone0.48295454545454547+goldsteinscale0.55+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4635', 'troop:0.345', 'operation:0.3293', 'casualty:0.3261', 'zelenskyy:0.2808', 'involved:0.2705', 'repatriate:0.2408', 'dead:0.2296', 'exchange:0.2137', 'body:0.2085', 'crime:0.2081', 'capital:0.1858', 'agreement:0.1813', 'fight:0.1809', 'data:0.18', 'identification:0.178', 'lie:0.1599', 'month:0.1556', 'donbas:0.1465', 'follow:0.1446', 'second:0.1403', 'dna:0.1305', 'official:0.1298', 'railway:0.1253', 'half:0.1174', 'president:0.1163', 'refrigerate:0.1114', 'remainder:0.1092', 'stumble:0.1029', 'basis:0.0991']+titles_keywords+['ukraine:0.3466', 'bodies:0.2906', 'exchange:0.2606', 'soldiers:0.2441', '320:0.1682']"
+        ]
+    ]
+}

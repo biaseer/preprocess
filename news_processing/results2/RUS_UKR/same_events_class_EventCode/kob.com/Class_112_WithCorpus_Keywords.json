@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+112":[
+        [],
+        [],
+        [
+            "20220822+../news_crawling/RUS_UKR/p_articles/kob.com/Russia blames Ukraine for nationalists car bombing death.txt+eventbasecode112+eventcode112+avgtone0.47346600331674965+goldsteinscale0.4+nummentions0.03265602322206096+numarticles0.03335750543872371+numsources0.039473684210526314+news_keywords+['kremlin:0.5006', 'russias:0.4254', 'kyivs:0.3904', 'sergei:0.3772', 'terrorism:0.3422', 'estonia:0.3277', 'dugin:0.3093', 'separatist:0.3019', 'involvement:0.2792', 'denounce:0.2748', 'darya:0.2637', 'justify:0.2612', 'annexation:0.2603', 'perpetrated:0.2598', 'news:0.247', 'treacherously:0.2346', 'vovk:0.221', 'writer:0.2171', 'presidential:0.2151', 'troop:0.2138', 'foreign:0.2029', 'help:0.1727', 'plant:0.1588', 'bucha:0.1577', 'tweet:0.154', 'prepared:0.1482', 'condolence:0.1434', 'quote:0.1334', 'end:0.1243', 'long:0.1159']+titles_keywords+['ukraine:0.4269', 'blames:0.3006', 'nationalists:0.2769', 'bombing:0.2738', 'car:0.1307']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [],
+        [
+            "20220827+../news_crawling/RUS_UKR/p_articles/kob.com/Ukraine Russia trade more blame on threats to nuclear plant.txt+eventbasecode112+eventcode112+avgtone0.4696569920844327+goldsteinscale0.4+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.1513157894736842+news_keywords+['ukraine:0.4981', 'disarmament:0.4174', 'reactors:0.3974', 'treaty:0.3733', 'concern:0.322', 'dnipropetrovsk:0.3163', 'infrastructure:0.2999', 'catastrophe:0.2998', 'missiles:0.2925', 'dangerous:0.2755', 'shipbuilding:0.2646', 'military:0.2552', 'hostage:0.2357', 'marienkovolunteer:0.2266', 'apnews:0.2188', 'help:0.2143', 'trigger:0.2129', 'agreement:0.2115', 'underway:0.2067', 'governor:0.1887', 'disconnection:0.1823', 'iodine:0.1817', 'rewritten:0.174', 'world:0.1631', 'fight:0.163', 'andriy:0.1469', 'sputter:0.1401', 'head:0.1341', 'immediately:0.1322', 'export:0.1248']+titles_keywords+['ukraine:0.4203', 'nuclear:0.3079', 'blame:0.2921', 'threats:0.2056', 'trade:0.1578']"
+        ]
+    ]
+}

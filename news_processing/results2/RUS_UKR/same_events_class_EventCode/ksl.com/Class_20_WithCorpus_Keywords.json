@@ -1,0 +1,15 @@
+{
+    "EUR+UKR+20":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/ksl.com/Ukraine sees room for compromise as 20000 escape Mariupol.txt+eventbasecode20+eventcode20+avgtone0.48326180257510726+goldsteinscale0.65+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.009868421052631578+news_keywords+['kyiv:0.5318', 'russians:0.4036', 'evacuate:0.3754', 'war:0.3643', 'nato:0.3575', 'news:0.2645', 'underway:0.2547', 'die:0.2472', 'agreement:0.2409', 'martyr:0.2312', 'hospital:0.2267', 'enter:0.2257', 'help:0.2206', 'mush:0.2183', 'telegram:0.218', 'negotiator:0.1977', 'navigate:0.1967', 'intensify:0.1954', 'afraid:0.1871', 'gouged:0.1756', 'speak:0.1751', 'siren:0.1732', 'anonymity:0.1715', 'smash:0.1685', 'adjacent:0.1681', 'thursday:0.1637', 'general:0.1607', 'longer:0.1429', 'contradiction:0.1421', 'dozens:0.1324']+titles_keywords+['compromise:0.4111', 'ukraine:0.3852', 'escape:0.301', 'mariupol:0.2063', '20000:0.177']"
+        ],
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/ksl.com/Russian missiles kill at least 21 in Ukraines Odesa region.txt+eventbasecode20+eventcode20+avgtone0.47147302904564314+goldsteinscale0.65+nummentions0.05878084179970972+numarticles0.05946337926033358+numsources0.08552631578947369+news_keywords+['kyiv:0.4555', 'kremlin:0.4248', 'airstrike:0.3626', 'operation:0.2835', 'troop:0.2348', 'bratchuk:0.2267', 'interpret:0.2261', 'separatist:0.2243', 'casualty:0.2205', 'lysychansk:0.2122', 'administration:0.2107', 'fight:0.1982', 'ruin:0.195', 'snake:0.193', 'activity:0.1858', 'help:0.1815', 'plan:0.1815', 'regional:0.1728', 'disclose:0.1617', 'respond:0.1592', 'donbas:0.1515', 'pullback:0.1474', 'big:0.1273', 'kh:0.1252', 'house:0.1218', 'include:0.1216', 'psychological:0.1185', 'weekend:0.1161', 'clock:0.1126', 'export:0.1086']+titles_keywords+['ukraines:0.4129', 'missiles:0.3892', 'odesa:0.2928', 'kill:0.1791', '21:0.1392']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220729+../news_crawling/RUS_UKR/p_articles/ksl.com/Russia Ukraine trade blame for deadly attack on POW prison.txt+eventbasecode20+eventcode20+avgtone0.4480698529411765+goldsteinscale0.65+nummentions0.03773584905660377+numarticles0.03843364757070341+numsources0.08552631578947369+news_keywords+['ukraine:0.4942', 'terrorist:0.3566', 'separatists:0.33', 'murder:0.2975', 'zelenskyy:0.2923', 'bombardment:0.2909', 'military:0.2771', 'detainee:0.2598', 'evacuate:0.2565', 'report:0.2335', 'know:0.2304', 'analysis:0.22', 'fence:0.2178', 'intercept:0.2152', 'cite:0.2102', 'barrack:0.2076', 'corridor:0.2036', 'steel:0.1968', 'argue:0.1902', 'agreement:0.1901', 'prepare:0.1729', 'twisted:0.1705', 'donbas:0.1613', 'convention:0.1612', 'discredit:0.152', 'adviser:0.1503', 'month:0.1431', 'trade:0.131', 'video:0.1292', 'array:0.1131']+titles_keywords+['ukraine:0.4155', 'blame:0.3163', 'prison:0.1851', 'trade:0.1779', 'pow:0.1323']"
+        ]
+    ]
+}

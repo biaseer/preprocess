@@ -1,0 +1,15 @@
+{
+    "GBR+UKR+12":[
+        [
+            "20220211+../news_crawling/RUS_UKR/p_articles/banburycake.co.uk/Britons told to leave Ukraine immediately amid threat of invasion by Russia.txt+eventbasecode12+eventcode12+avgtone0.4864253393665159+goldsteinscale0.48+nummentions0.06386066763425254+numarticles0.06453952139231327+numsources0.09539473684210527+news_keywords+['ukraine:0.4496', 'natos:0.4191', 'evacuate:0.404', 'putin:0.3975', 'invasion:0.3602', 'war:0.3195', 'threat:0.3111', 'readiness:0.3023', 'diplomatic:0.2889', 'troop:0.2521', 'boris:0.2444', 'britons:0.2309', 'immediate:0.2175', 'adviser:0.2106', 'soon:0.2074', 'news:0.1887', 'macron:0.1818', 'come:0.1731', 'order:0.1655', 'winter:0.1628', 'understand:0.1505', 'end:0.1447', 'current:0.1434', 'hour:0.1427', 'say:0.1186', 'grow:0.0928', 'possibility:0.0892', 'mount:0.0875', 'plus:0.0731', 'theres:0.0307']+titles_keywords+['ukraine:0.4107', 'leave:0.3011', 'britons:0.2964', 'invasion:0.2962', 'immediately:0.1903']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/banburycake.co.uk/98 Irish citizens registered with Ukraine embassy.txt+eventbasecode12+eventcode12+avgtone0.49311926605504586+goldsteinscale0.48+nummentions0.12010159651669086+numarticles0.12073966642494562+numsources0.26644736842105265+news_keywords+['ukraine:0.4901', 'russiaukraine:0.4478', 'nato:0.3595', 'irelands:0.3138', 'sovereignty:0.3049', 'consular:0.2807', 'troop:0.2739', 'parliamentary:0.2332', 'gael:0.233', 'affairs:0.2308', 'remain:0.2135', 'colleague:0.176', 'escalate:0.1721', 'north:0.1575', 'safe:0.1563', 'pulling:0.1542', 'debate:0.1476', 'want:0.1358', 'important:0.125', 'lively:0.1128', 'dmytrokuleba:0.1097', 'long:0.1095', 'plan:0.1083', 'weapon:0.0991', 'abused:0.0922', 'story:0.0915', 'official:0.0842', 'tomorrow:0.075', 'right:0.0712', 'focus:0.0263']+titles_keywords+['ukraine:0.4178', 'irish:0.3941', 'embassy:0.33', 'registered:0.3043', '98:0.1634']"
+        ],
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/banburycake.co.uk/Ukrainians claim to have retaken ground from Russia ahead of latest talks.txt+eventbasecode12+eventcode12+avgtone0.4770471464019851+goldsteinscale0.48+nummentions0.14731494920174165+numarticles0.14793328498912256+numsources0.26644736842105265+news_keywords+['kyiv:0.5114', 'ukraines:0.4745', 'ceasefire:0.4447', 'kremlin:0.4395', 'natos:0.3929', 'deploy:0.2901', 'separatist:0.2871', 'territory:0.2659', 'strategic:0.2347', 'combine:0.2122', 'progress:0.2121', 'forward:0.2053', 'fled:0.2033', 'flank:0.2017', 'trostyanets:0.1983', 'reporter:0.1932', 'general:0.1917', 'donbas:0.182', 'emphasise:0.1819', 'want:0.1746', 'regional:0.1741', 'outage:0.1676', 'end:0.1625', 'fall:0.135', 'longer:0.1344', 'ready:0.1289', 'right:0.123', 'retake:0.1209', 'gas:0.1179', 'population:0.091']+titles_keywords+['ukrainians:0.3996', 'retaken:0.2527', 'ground:0.1367', 'talks:0.1278', 'latest:0.0407']"
+        ]
+    ]
+}

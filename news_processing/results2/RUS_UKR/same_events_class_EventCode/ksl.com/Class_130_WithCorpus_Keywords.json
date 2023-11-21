@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/ksl.com/Biden convinced Putins decided to further invade Ukraine.txt+eventbasecode130+eventcode130+avgtone0.46664300922640173+goldsteinscale0.27999999999999997+nummentions0.45754716981132076+numarticles0.4579405366207397+numsources0.4473684210526316+news_keywords+['putin:0.4903', 'crimea:0.463', 'invade:0.4069', 'nato:0.3999', 'diplomacy:0.3616', 'cyberattacks:0.3491', 'escalation:0.3049', 'sinenkov:0.2854', 'prepare:0.2829', 'emergency:0.2617', 'news:0.2414', 'miscommunication:0.2333', 'dangerous:0.2296', 'uniformed:0.2283', 'pretext:0.2282', 'separatist:0.2177', 'report:0.2153', 'know:0.2151', 'cite:0.2024', 'organize:0.1945', 'thursday:0.1936', 'varenytsia:0.1897', 'decide:0.1632', 'continue:0.1609', 'pull:0.158', 'estimate:0.1537', 'sure:0.144', 'board:0.1377', 'long:0.131', 'ordered:0.1238']+titles_keywords+['biden:0.4552', 'putins:0.4196', 'ukraine:0.3534', 'invade:0.3516', 'convinced:0.1691']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/ksl.com/NATO chief hails historic moment as Finland Sweden apply.txt+eventbasecode130+eventcode130+avgtone0.5023952095808384+goldsteinscale0.27999999999999997+nummentions0.07365747460087083+numarticles0.07432922407541696+numsources0.13815789473684212+news_keywords+['nato:0.5077', 'helsinki:0.3542', 'treaty:0.349', 'geopolitical:0.3389', 'kremlin:0.3236', 'invade:0.2862', 'destabilize:0.2729', 'accession:0.2433', 'threat:0.236', 'erdogan:0.2103', 'formalize:0.2062', 'submit:0.1813', 'britain:0.1812', 'union:0.1806', 'news:0.1733', 'benefit:0.169', 'step:0.1645', 'pkk:0.164', 'transform:0.1639', 'alongside:0.1628', 'hail:0.1547', 'long:0.1527', 'secretary:0.1377', 'stoltenberg:0.1364', 'wednesday:0.1357', 'state:0.133', 'continue:0.123', 'examine:0.1103', 'welcome:0.0718', 'agree:0.0588']+titles_keywords+['nato:0.466', 'finland:0.408', 'hails:0.2561', 'moment:0.2411', 'chief:0.1722']"
+        ]
+    ]
+}

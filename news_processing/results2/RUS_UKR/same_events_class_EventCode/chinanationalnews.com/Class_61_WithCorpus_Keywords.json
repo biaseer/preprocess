@@ -1,0 +1,12 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/chinanationalnews.com/Five essential reads on RussiaAfrica relations.txt+eventbasecode61+eventcode61+avgtone0.49404761904761907+goldsteinscale0.82+nummentions0.04934687953555878+numarticles0.05003625815808557+numsources0.04276315789473684+news_keywords+['russiaafrica:0.4377', 'putin:0.3905', 'congo:0.3668', 'african:0.3059', 'sanctions:0.2896', 'treaty:0.2862', 'sochi:0.2733', 'kalashnikov:0.2371', 'ababa:0.2355', 'ak:0.2224', 'governance:0.2161', 'president:0.2012', 'relations:0.1967', 'power:0.1811', 'strategic:0.1802', 'military:0.1554', 'expect:0.142', 'upcoming:0.1379', 'import:0.1379', 'attend:0.1334', 'precursor:0.1285', 'read:0.1255', 'include:0.1165', 'warning:0.0893', 'aim:0.0812', 'factor:0.0744', 'grow:0.0739', 'fact:0.0692', 'set:0.0619', 'offer:0.0404']+titles_keywords+['russiaafrica:0.5203', 'relations:0.2776', 'reads:0.1849', 'essential:0.1343']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/chinanationalnews.com/Moscow suspects UK of seeking to infiltrate Black Sea.txt+eventbasecode61+eventcode61+avgtone0.47409909909909914+goldsteinscale0.82+nummentions0.06531204644412192+numarticles0.06598984771573604+numsources0.14473684210526316+news_keywords+['russia:0.3981', 'ukrainians:0.352', 'boris:0.3022', 'pretexts:0.2776', 'threat:0.2741', 'government:0.2714', 'divert:0.2549', 'odessa:0.2521', 'railways:0.2381', 'infiltrate:0.236', 'port:0.2204', 'supply:0.2164', 'seek:0.1856', 'navy:0.1818', 'issue:0.1703', 'news:0.166', 'process:0.1603', 'accuse:0.1556', 'safe:0.1464', 'neoliberal:0.146', 'black:0.145', 'grain:0.1383', 'allow:0.1372', 'look:0.1367', 'possible:0.1292', 'clearly:0.1268', 'sell:0.1193', 'expertise:0.1179', 'convulsion:0.0679', 'truss:0.0658']+titles_keywords+['moscow:0.4022', 'suspects:0.2761', 'infiltrate:0.2615', 'sea:0.2222', 'black:0.1266']"
+        ]
+    ]
+}

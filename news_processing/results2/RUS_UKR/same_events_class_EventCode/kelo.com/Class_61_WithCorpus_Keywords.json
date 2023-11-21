@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+61":[
+        [
+            "20220528+../news_crawling/RUS_UKR/p_articles/kelo.com/G7 working to resume grain exports from Ukraine UKs Johnson tells Zelenskiy.txt+eventbasecode61+eventcode61+avgtone0.49264705882352944+goldsteinscale0.82+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.013157894736842105+news_keywords+['ukraine:0.4017', 'blockade:0.3559', 'zelenskiy:0.3164', 'boris:0.2913', 'reuters:0.2751', 'war:0.2455', 'urgent:0.2411', 'work:0.2396', 'president:0.2274', 'grain:0.225', 'export:0.2161', 'push:0.2075', 'johnson:0.2019', 'resume:0.1843', 'allow:0.1729', 'remain:0.1696', 'crisis:0.1632', 'global:0.1614', 'partner:0.1584', 'safe:0.1575', 'progress:0.1442', 'prime:0.1399', 'begin:0.1273', 'readout:0.1138', 'say:0.1121', 'avert:0.108', 'regularly:0.1008', 'agree:0.08', 'way:0.0764', 'saturday:0.0729']+titles_keywords+['zelenskiy:0.3367', 'exports:0.248', 'johnson:0.223', 'g7:0.1587', 'resume:0.1043']"
+        ]
+    ],
+    "RUS+EUR+61":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/kelo.com/US agrees to send advanced rockets to Ukraine.txt+eventbasecode61+eventcode61+avgtone0.4776500638569604+goldsteinscale0.82+nummentions0.15965166908563136+numarticles0.1602610587382161+numsources0.13486842105263158+news_keywords+['ukraine:0.5008', 'war:0.3381', 'evacuate:0.3123', 'bombardment:0.3051', 'operation:0.2698', 'troop:0.2668', 'leonid:0.2614', 'embargo:0.2597', 'provision:0.2541', 'sievierodonetsk:0.2529', 'advance:0.2471', 'drone:0.2376', 'expect:0.2274', 'news:0.226', 'industrial:0.2229', 'president:0.2151', 'table:0.2065', 'direct:0.1877', 'negotiate:0.1849', 'import:0.1818', 'donbas:0.1713', 'pretext:0.1709', 'responding:0.1684', 'javelin:0.166', 'complete:0.1594', 'write:0.1506', 'long:0.1504', 'baseless:0.1479', 'precisely:0.1378', 'horrify:0.1354']+titles_keywords+['ukraine:0.3675', 'rockets:0.3088', 'send:0.2042', 'advanced:0.151', 'agrees:0.0588']"
+        ]
+    ]
+}

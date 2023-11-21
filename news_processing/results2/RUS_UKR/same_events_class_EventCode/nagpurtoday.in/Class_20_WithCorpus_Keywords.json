@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/nagpurtoday.in/Putin on Ukraine attack We are defending Russia.txt+eventbasecode20+eventcode20+avgtone0.49074074074074076+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.006578947368421052+news_keywords+['putin:0.4967', 'ukraine:0.4888', 'vladimir:0.4018', 'attack:0.3891', 'russian:0.3873', 'defend:0.3151', 'separatist:0.2875', 'military:0.2639', 'donbas:0.236', 'operation:0.2299', 'announce:0.2231', 'hostage:0.2176', 'want:0.1957', 'shortly:0.1907', 'region:0.18', 'say:0.1641', 'television:0.1625', 'use:0.1577', 'live:0.145', 'make:0.1446', 'people:0.1423', 'statement:0.142', 'current:0.1345', 'infringe:0.1312', 'right:0.1282', 'enjoy:0.1167', 'ww:0.1', 'todays:0.0768', 'free:0.0733', 'able:0.0721']+titles_keywords+['putin:0.5235', 'ukraine:0.4696', 'attack:0.4371', 'russia:0.4189', 'defending:0.4015']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/nagpurtoday.in/India seeks immediate deescalation in Ukraine.txt+eventbasecode20+eventcode20+avgtone0.4705882352941176+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4236', 'putin:0.334', 'diplomatic:0.3253', 'escalation:0.3153', 'peace:0.2647', 'urgent:0.246', 'concerned:0.2346', 'crisis:0.2305', 'tension:0.2251', 'undermine:0.2115', 'unsc:0.2102', 'indian:0.1899', 'immediate:0.1792', 'facilitate:0.176', 'troop:0.162', 'security:0.1605', 'deescalation:0.1575', 'breakaway:0.1477', 'president:0.1457', 'reside:0.1313', 'return:0.1308', 'reiterating:0.1238', 'refrain:0.1213', 'request:0.1102', 'student:0.0971', 'say:0.0935', 'tirumurti:0.088', 'exercise:0.0864', 'heads:0.0356', 'backdrop:0.0327']+titles_keywords+['ukraine:0.4143', 'india:0.3451', 'deescalation:0.3286', 'immediate:0.2168', 'seeks:0.0216']"
+        ]
+    ]
+}

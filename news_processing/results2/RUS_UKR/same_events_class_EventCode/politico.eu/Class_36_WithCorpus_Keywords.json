@@ -1,0 +1,20 @@
+{
+    "AFR+RUS+36":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/politico.eu/Zelenskyy Ukraine grain blockade will spark famine migration.txt+eventbasecode36+eventcode36+avgtone0.4599514563106796+goldsteinscale0.7+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.009868421052631578+news_keywords+['ukraine:0.5069', 'putin:0.432', 'blockade:0.3746', 'famine:0.3426', 'invade:0.3262', 'crisis:0.3195', 'zelenskyy:0.3175', 'political:0.2847', 'protestors:0.2808', 'chaos:0.2776', 'danube:0.2735', 'railways:0.252', 'import:0.1979', 'shift:0.1941', 'order:0.1916', 'world:0.1869', 'explain:0.1863', 'remain:0.1791', 'contaminate:0.177', 'help:0.1739', 'conference:0.173', 'thursday:0.1483', 'plant:0.1428', 'safe:0.1381', 'sure:0.1373', 'globsec:0.1211', 'ursula:0.1208', 'inevitably:0.1116', 'nearly:0.11', 'scale:0.1001']+titles_keywords+['famine:0.457', 'zelenskyy:0.4486', 'blockade:0.4181', 'ukraine:0.4061', 'migration:0.3069']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/politico.eu/West slaps penalties on Russia over Ukraine invasion leaves room for more.txt+eventbasecode36+eventcode36+avgtone0.4785391566265061+goldsteinscale0.7+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['putin:0.4747', 'ukraines:0.4573', 'oligarchs:0.3813', 'sanction:0.3772', 'threat:0.3249', 'diplomat:0.2974', 'invasion:0.2879', 'economic:0.2868', 'separatist:0.2811', 'pipeline:0.2723', 'escalate:0.2674', 'eus:0.265', 'bloc:0.2575', 'news:0.2534', 'scope:0.2534', 'capital:0.2533', 'cite:0.2335', 'halt:0.2167', 'prepare:0.2159', 'term:0.1989', 'want:0.1967', 'finalize:0.1929', 'nord:0.1882', 'current:0.1739', 'vote:0.1605', 'export:0.1554', 'step:0.1521', 'according:0.1385', 'longer:0.1338', 'schedule:0.1167']+titles_keywords+['ukraine:0.3887', 'slaps:0.2787', 'penalties:0.2616', 'invasion:0.2337', 'west:0.2242']"
+        ],
+        [
+            "20220803+../news_crawling/RUS_UKR/p_articles/politico.eu/First shipment of food aid from Ukraine could move next week.txt+eventbasecode36+eventcode36+avgtone0.49657534246575336+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4245', 'humanitarian:0.4079', 'shipment:0.3904', 'famine:0.3902', 'ethiopia:0.3577', 'war:0.3338', 'diplomatic:0.3137', 'port:0.2784', 'priority:0.2749', 'supply:0.2711', 'corn:0.2489', 'politico:0.2159', 'wfp:0.2123', 'obstacle:0.205', 'odesa:0.2029', 'plan:0.1984', 'safely:0.1744', 'corridor:0.1728', 'load:0.1624', 'allow:0.1565', 'cargill:0.1534', 'unknown:0.1521', 'month:0.1462', 'reopen:0.1371', 'stuck:0.1335', 'write:0.1327', 'significant:0.1158', 'avert:0.1154', 'accord:0.1066', 'today:0.1065']+titles_keywords+['shipment:0.4283', 'ukraine:0.3251', 'aid:0.3245', 'food:0.2465', 'week:0.2007']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/politico.eu/Zelenskyy calls for meaningful talks with Russia.txt+eventbasecode36+eventcode36+avgtone0.5095419847328244+goldsteinscale0.7+nummentions0.011248185776487663+numarticles0.011240029006526469+numsources0.029605263157894735+news_keywords+['kyiv:0.4699', 'zelenskyy:0.4404', 'russias:0.3408', 'talk:0.294', 'negotiation:0.2929', 'peace:0.2769', 'evacuate:0.2646', 'president:0.2496', 'humanitarian:0.2391', 'government:0.2236', 'operation:0.2114', 'message:0.2073', 'want:0.2024', 'continue:0.2008', 'invasion:0.2002', 'good:0.1626', 'say:0.1606', 'support:0.157', 'saturday:0.1501', 'nation:0.1484', 'theater:0.1477', 'delay:0.1455', 'video:0.1313', 'allow:0.1202', 'vat:0.1047', 'apparently:0.0897', 'meaningful:0.0838', 'internally:0.0742', 'slash:0.0667', 'restore:0.0307']+titles_keywords+['zelenskyy:0.5882', 'talks:0.3009', 'russia:0.253', 'meaningful:0.1405', 'calls:0.0783']"
+        ]
+    ]
+}

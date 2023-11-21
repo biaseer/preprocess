@@ -1,0 +1,15 @@
+{
+    "GBR+RUS+10":[
+        [
+            "20220211+../news_crawling/RUS_UKR/p_articles/newsshopper.co.uk/Britons told to leave Ukraine immediately amid threat of invasion by Russia.txt+eventbasecode10+eventcode10+avgtone0.48717948717948717+goldsteinscale0.5+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.03618421052631579+news_keywords+['ukraine:0.464', 'natos:0.4163', 'evacuate:0.4008', 'putin:0.3982', 'invasion:0.3509', 'diplomatic:0.3183', 'threat:0.3081', 'readiness:0.3066', 'crisis:0.2888', 'commence:0.2416', 'boris:0.241', 'adviser:0.2238', 'immediate:0.2234', 'britons:0.2225', 'news:0.2059', 'soon:0.2036', 'office:0.1854', 'macron:0.1802', 'order:0.177', 'debate:0.1737', 'winter:0.1708', 'current:0.1485', 'hour:0.1484', 'general:0.1453', 'point:0.1319', 'say:0.1245', 'assign:0.1117', 'grow:0.098', 'mount:0.087', 'plus:0.0749']+titles_keywords+['ukraine:0.4107', 'leave:0.3011', 'britons:0.2964', 'invasion:0.2962', 'immediately:0.1903']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/newsshopper.co.uk/Roman Abramovich suspected poisoning claims very concerning Foreign Office.txt+eventbasecode10+eventcode10+avgtone0.47686230248307+goldsteinscale0.5+nummentions0.18650217706821481+numarticles0.18709209572153734+numsources0.42105263157894735+news_keywords+['putin:0.5287', 'kyiv:0.4804', 'abramovich:0.4354', 'oligarch:0.4341', 'negotiation:0.3329', 'poison:0.301', 'allegation:0.2975', 'bomb:0.2937', 'news:0.2854', 'invasion:0.2766', 'concern:0.2703', 'table:0.2692', 'oppose:0.254', 'report:0.2529', 'know:0.2422', 'humanitarian:0.2357', 'orchestrate:0.2339', 'expect:0.2299', 'tense:0.2106', 'british:0.2093', 'secure:0.2049', 'end:0.1914', 'long:0.1874', 'mps:0.1868', 'look:0.1861', 'reiterate:0.1823', 'explanation:0.179', 'outlet:0.1724', 'reach:0.171', 'plausible:0.1565']+titles_keywords+['abramovich:0.5631', 'poisoning:0.3889', 'suspected:0.2883', 'claims:0.1765', 'office:0.1638']"
+        ],
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/newsshopper.co.uk/EU leaders divided over Russia oil embargo.txt+eventbasecode10+eventcode10+avgtone0.4919354838709677+goldsteinscale0.5+nummentions0.32873730043541366+numarticles0.3292240754169688+numsources0.32894736842105265+news_keywords+['ukraine:0.4383', 'embargo:0.3928', 'oil:0.3475', 'oligarch:0.2894', 'compromise:0.2881', 'agreement:0.2825', 'bloc:0.2813', 'political:0.2564', 'pipeline:0.2524', 'sector:0.2486', 'table:0.2463', 'euro:0.2444', 'meeting:0.2442', 'viktor:0.2154', 'investigation:0.1855', 'arrive:0.1852', 'term:0.169', 'petr:0.168', 'forget:0.1657', 'source:0.1645', 'want:0.1629', 'week:0.1516', 'withdraw:0.1496', 'produce:0.1475', 'unity:0.1349', 'like:0.1327', 'solve:0.1275', 'distort:0.1229', 'cover:0.1174', 'difference:0.0929']+titles_keywords+['embargo:0.3803', 'oil:0.3209', 'eu:0.3142', 'divided:0.2202', 'leaders:0.1701']"
+        ]
+    ]
+}

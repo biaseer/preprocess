@@ -1,0 +1,25 @@
+{
+    "GBR+RUS+10":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/arabnews.com/UK to send investigators to Ukraine focus on sex violence says Truss.txt+eventbasecode10+eventcode10+avgtone0.45277777777777783+goldsteinscale0.5+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.013157894736842105+news_keywords+['ukraine:0.4553', 'hague:0.4304', 'nato:0.3992', 'tribunal:0.3882', 'kremlin:0.3555', 'jurisdiction:0.3165', 'prosecute:0.3163', 'investigate:0.3018', 'war:0.2998', 'rape:0.2487', 'demilitarise:0.2366', 'divert:0.2263', 'icc:0.2234', 'concerned:0.2149', 'politician:0.2058', 'londonthe:0.1877', 'ally:0.1769', 'subjugate:0.1751', 'truss:0.1724', 'meet:0.154', 'head:0.151', 'additional:0.1509', 'end:0.1497', 'emphasis:0.1449', 'range:0.1418', 'wopke:0.1328', 'quick:0.1315', 'thorny:0.1232', 'separately:0.1031', 'send:0.0861']+titles_keywords+['ukraine:0.3794', 'truss:0.2651', 'investigators:0.2528', 'send:0.0952', 'says:0.0145']"
+        ]
+    ],
+    "GBR+UKR+10":[
+        [
+            "20220819+../news_crawling/RUS_UKR/p_articles/arabnews.com/UK spy chief says Putin is losing information war in Ukraine The Economist.txt+eventbasecode10+eventcode10+avgtone0.47045454545454546+goldsteinscale0.5+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['putin:0.4503', 'ukraine:0.4099', 'russias:0.3952', 'strategy:0.3317', 'gchq:0.3141', 'war:0.312', 'invasion:0.3003', 'disinformation:0.2993', 'cyber:0.298', 'spy:0.2962', 'information:0.2358', 'intercept:0.231', 'playbook:0.2176', 'deploy:0.2122', 'capability:0.1912', 'fleming:0.1483', 'irresponsible:0.1449', 'write:0.1416', 'comprehensively:0.1374', 'fail:0.1279', 'short:0.1242', 'underestimate:0.1197', 'friday:0.1171', 'time:0.1132', 'warning:0.1112', 'thats:0.0911', 'initial:0.0843', 'head:0.0743', 'major:0.0704', 'far:0.0675']+titles_keywords+['putin:0.4392', 'spy:0.2977', 'losing:0.2943', 'information:0.2171', 'says:0.1208']"
+        ]
+    ],
+    "RUS+DEU+10":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/arabnews.com/Deutsche Bank rebuked over remaining in Russia as others quit Reuters.txt+eventbasecode10+eventcode10+avgtone0.4823232323232323+goldsteinscale0.5+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.009868421052631578+news_keywords+['bank:0.4541', 'reuters:0.4152', 'russia:0.3849', 'multinationals:0.3813', 'jpmorgan:0.3678', 'bundestag:0.3587', 'goldman:0.3452', 'governance:0.3123', 'euro:0.2816', 'ceo:0.2759', 'sanction:0.2728', 'chase:0.2598', 'invest:0.2541', 'db:0.2464', 'withdraw:0.2379', 'stay:0.2206', 'disclose:0.2157', 'statement:0.2064', 'west:0.1901', 'surprise:0.1842', 'approach:0.1789', 'deteriorate:0.1694', 'end:0.1658', 'dug:0.1531', 'row:0.1399', 'need:0.1353', 'completely:0.1352', 'billion:0.1322', 'friday:0.1288', 'year:0.0947']+titles_keywords+['deutsche:0.3516', 'russia:0.3439', 'reuters:0.3243', 'bank:0.2984', 'rebuked:0.1876']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        []
+    ],
+    "WST+RUS+10":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/arabnews.com/Biden not calling for Russia regime change after Putin comments White House.txt+eventbasecode10+eventcode10+avgtone0.4770992366412214+goldsteinscale0.5+nummentions0.07293178519593614+numarticles0.07360406091370558+numsources0.12828947368421054+news_keywords+['putin:0.5215', 'biden:0.4187', 'russias:0.3592', 'nato:0.3482', 'peskov:0.3254', 'regime:0.319', 'warsaw:0.2805', 'elect:0.2473', 'bidens:0.241', 'rhetoric:0.2384', 'escalate:0.2366', 'power:0.2318', 'sanction:0.2166', 'meeting:0.2091', 'fight:0.1904', 'invasion:0.19', 'say:0.187', 'strategic:0.1858', 'peace:0.1772', 'commentscame:0.167', 'begin:0.1604', 'stay:0.1584', 'afraid:0.1575', 'deliver:0.1546', 'point:0.1491', 'allow:0.1413', 'inch:0.0977', 'west:0.0929', 'house:0.0573', 'major:0.0497']+titles_keywords+['biden:0.4183', 'russia:0.2328', 'change:0.1061', 'comments:0.0694', 'calling:0.0411']"
+        ]
+    ]
+}

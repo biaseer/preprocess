@@ -1,0 +1,17 @@
+{
+    "RUS+WST+112":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/newyorkstatesman.com/RussiaUkraine crisis India at UNSC emphasises quiet constructive diplomacy backs Minsk Agreements.txt+eventbasecode112+eventcode112+avgtone0.5073394495412844+goldsteinscale0.4+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['ceasefire:0.4304', 'ukraine:0.4068', 'diplomacy:0.3968', 'nato:0.3678', 'negotiate:0.2588', 'border:0.225', 'agreement:0.2177', 'stability:0.1873', 'advisers:0.171', 'concern:0.166', 'continue:0.1526', 'contact:0.1524', 'reiterate:0.1485', 'solution:0.1427', 'delhi:0.1402', 'term:0.1261', 'people:0.1221', 'avoid:0.1204', 'increase:0.1199', 'trilateral:0.1117', 'format:0.1092', 'include:0.1068', 'step:0.0977', 'breakaway:0.0926', 'prepare:0.0901', 'long:0.0771', 'immediate:0.077', 'ani:0.0762', 'possible:0.0517', 'welcome:0.0417']+titles_keywords+['diplomacy:0.4841', 'minsk:0.3136', 'unsc:0.2491', 'india:0.2351', 'constructive:0.1689']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/newyorkstatesman.com/Ukrainian grain going anywhere but Africa media.txt+eventbasecode112+eventcode112+avgtone0.49360341151385934+goldsteinscale0.4+nummentions0.04281567489114659+numarticles0.043509789702683106+numsources0.049342105263157895+news_keywords+['ukraine:0.473', 'blockade:0.3915', 'freighter:0.2865', 'destination:0.2495', 'grain:0.2482', 'arrangement:0.2479', 'nyt:0.2419', 'supply:0.237', 'passage:0.2307', 'feed:0.2214', 'zelensky:0.2098', 'mediate:0.1946', 'president:0.1924', 'counterpart:0.1877', 'mokgweetsi:0.1851', 'reject:0.1835', 'polarnet:0.1803', 'continue:0.1797', 'export:0.1791', 'cite:0.1757', 'catastrophic:0.1738', 'turn:0.1668', 'promise:0.1614', 'ap:0.1603', 'world:0.157', 'declare:0.1404', 'inspect:0.1241', 'ready:0.113', 'million:0.0936', 'mainly:0.0622']+titles_keywords+['grain:0.4287', 'ukrainian:0.3998', 'africa:0.3534', 'media:0.2689', 'going:0.0837']"
+        ]
+    ],
+    "USA+RUS+112":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/newyorkstatesman.com/Russias decision to recognize Donetsk Luhansk violates Ukraines territorial integrity UN chief.txt+eventbasecode112+eventcode112+avgtone0.48727272727272725+goldsteinscale0.4+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.01644736842105263+news_keywords+['ukraine:0.4574', 'putin:0.3705', 'sovereignty:0.3355', 'peaceful:0.3262', 'diplomacy:0.3217', 'conflict:0.2981', 'separatist:0.2858', 'agreements:0.252', 'border:0.2282', 'oppose:0.2109', 'violation:0.2013', 'democratic:0.1997', 'president:0.1797', 'continue:0.1782', 'escalate:0.1762', 'decision:0.1739', 'state:0.1699', 'troop:0.1681', 'council:0.1543', 'say:0.1515', 'address:0.1482', 'recognize:0.1477', 'action:0.1471', 'formally:0.1393', 'dujarric:0.1258', 'resolution:0.1178', 'immediate:0.1172', 'deteriorate:0.1122', 'ani:0.057', 'focus:0.0422']+titles_keywords+['donetsk:0.4632', 'russias:0.2793', 'violates:0.2533', 'recognize:0.1963', 'decision:0.1929']"
+        ]
+    ]
+}

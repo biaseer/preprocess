@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+130":[
+        [
+            "20211130+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/UK issues Ukraine warning to Russias Vladimir Putin.txt+eventbasecode130+eventcode130+avgtone0.48863636363636365+goldsteinscale0.27999999999999997+nummentions0.03483309143686502+numarticles0.03553299492385787+numsources0.029605263157894735+news_keywords+['natos:0.5224', 'crimea:0.4664', 'putin:0.4339', 'strategic:0.316', 'intervene:0.2868', 'undermine:0.276', 'invasion:0.2482', 'democracy:0.2396', 'pursue:0.2387', 'worry:0.2293', 'provocation:0.2279', 'safeguard:0.2203', 'agenda:0.2121', 'stability:0.2024', 'forward:0.185', 'forge:0.1687', 'want:0.1662', 'meet:0.1639', 'secretary:0.1578', 'thrive:0.1497', 'british:0.1447', 'playbook:0.1379', 'world:0.1126', 'near:0.1093', 'false:0.1019', 'truss:0.077', 'encircle:0.0767', 'radio:0.0692', 'sort:0.068', 'today:0.0542']+titles_keywords+['ukraine:0.4123', 'putin:0.3851', 'warning:0.3215', 'vladimir:0.3095', 'issues:-0.0076']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Ukraine officials flee to bomb shelter during shelling attack as invasion fears grow.txt+eventbasecode130+eventcode130+avgtone0.4620991253644315+goldsteinscale0.27999999999999997+nummentions0.3076923076923077+numarticles0.30819434372733867+numsources0.7203947368421053+news_keywords+['ukraine:0.4475', 'putin:0.4171', 'invade:0.3989', 'evacuate:0.3452', 'peaceful:0.3365', 'separatist:0.3066', 'government:0.291', 'escalate:0.2793', 'mobilisation:0.2745', 'frontline:0.2699', 'warn:0.2643', 'president:0.2481', 'border:0.2441', 'fight:0.2355', 'boris:0.2348', 'trouble:0.2237', 'know:0.223', 'want:0.2078', 'volodymyr:0.2022', 'react:0.1748', 'cover:0.1692', 'follow:0.1674', 'cite:0.164', 'friday:0.16', 'sure:0.1579', 'look:0.15', 'estimate:0.1491', 'long:0.1332', 'alike:0.1208', 'associated:0.1082']+titles_keywords+['flee:0.3452', 'ukraine:0.3259', 'invasion:0.3078', 'fears:0.2436', 'bomb:0.219']"
+        ]
+    ]
+}

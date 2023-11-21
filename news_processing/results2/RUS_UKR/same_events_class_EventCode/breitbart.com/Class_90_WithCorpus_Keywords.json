@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+90":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/breitbart.com/Twitter Suspends Accounts Sharing Russian Military Activity in Ukraine Then Backtracks.txt+eventbasecode90+eventcode90+avgtone0.48199672667757776+goldsteinscale0.4+nummentions0.009433962264150943+numarticles0.006526468455402465+numsources0.0+news_keywords+['putin:0.4557', 'censorship:0.3803', 'breitbart:0.3649', 'twitterlucasnolanor:0.318', 'novohnativka:0.3147', 'donetsk:0.3034', 'social:0.2995', 'invasion:0.2975', 'truce:0.2831', 'accounts:0.2775', 'report:0.2775', 'information:0.2675', 'military:0.2643', 'suspends:0.2606', 'osce:0.2498', 'bot:0.2497', 'narrative:0.2476', 'conflicto:0.2418', 'backtracks:0.2394', 'separatist:0.2394', 'spokesperson:0.2374', 'secure:0.2335', 'affected:0.2289', 'inaccurate:0.2115', 'strange:0.1985', 'begin:0.1639', 'big:0.1536', 'hour:0.1319', 'monitor:0.131', 'weve:0.0966']+titles_keywords+['ukraine:0.3375', 'twitter:0.3252', 'suspends:0.3023', 'military:0.2215', 'backtracks:0.1988']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/breitbart.com/High Alert Vladimir Putin Warns of Nuclear Deterrent Readiness as Ukraine Tensions Rise.txt+eventbasecode90+eventcode90+avgtone0.46666666666666673+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.5201', 'russias:0.4256', 'nato:0.4097', 'kyiv:0.4081', 'ruble:0.3352', 'nuclear:0.3193', 'escalate:0.2971', 'readiness:0.2885', 'alert:0.2767', 'sanction:0.2617', 'news:0.2525', 'invasion:0.2437', 'finance:0.2326', 'conflict:0.2277', 'trigger:0.2234', 'warhead:0.2185', 'cite:0.2059', 'order:0.1984', 'destroy:0.1937', 'withdraw:0.1768', 'reportsthe:0.16', 'say:0.1502', 'cobnfgd:0.1343', 'direct:0.1318', 'arent:0.1278', 'unfriendly:0.1106', 'sunday:0.0985', 'https:0.0978', 'fridman:0.0764', 'define:0.0666']+titles_keywords+['putin:0.4176', 'nuclear:0.3661', 'readiness:0.3372', 'warns:0.2674', 'high:0.079']"
+        ]
+    ]
+}

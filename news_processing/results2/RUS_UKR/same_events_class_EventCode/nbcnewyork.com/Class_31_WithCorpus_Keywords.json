@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+31":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/nbcnewyork.com/US Urges More Arms for Ukraine Amid Fears of Expanding War.txt+eventbasecode31+eventcode31+avgtone0.4804147465437788+goldsteinscale0.76+nummentions0.07474600870827286+numarticles0.07541696881798404+numsources0.1118421052631579+news_keywords+['ukraine:0.4741', 'kremlin:0.4338', 'nato:0.4302', 'airstrikes:0.3896', 'destabilize:0.3146', 'pentagon:0.2892', 'weaponryin:0.2773', 'strategic:0.2612', 'intensify:0.2374', 'adviser:0.2348', 'rhetoric:0.2293', 'know:0.2235', 'prepared:0.2164', 'telegram:0.213', 'scenario:0.2092', 'fight:0.2083', 'speakingindustrial:0.2075', 'help:0.1906', 'respond:0.1809', 'end:0.1734', 'donbas:0.1707', 'row:0.1604', 'long:0.16', 'galvanize:0.1591', 'near:0.1447', 'andriy:0.1287', 'sure:0.1286', 'produce:0.1279', 'billion:0.124', 'trans:0.1122']+titles_keywords+['ukraine:0.3734', 'war:0.2859', 'expanding:0.2162', 'arms:0.1956', 'amid:0.0429']"
+        ]
+    ],
+    "RUS+UKR+31":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/nbcnewyork.com/Charities Struggle to Deliver Humanitarian Aid Into Ukraine.txt+eventbasecode31+eventcode31+avgtone0.4980787704130643+goldsteinscale0.76+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.019736842105263157+news_keywords+['ukraine:0.4933', 'humanitarian:0.4706', 'fundraise:0.3438', 'activists:0.3429', 'annexation:0.3223', 'emergency:0.32', 'government:0.3136', 'holocaust:0.3134', 'conflict:0.281', 'shelter:0.2807', 'deploy:0.2678', 'supply:0.2355', 'establish:0.2322', 'receive:0.2139', 'ceo:0.2069', 'affiliate:0.1985', 'apnews:0.1854', 'million:0.1841', 'comhubphilanthropy:0.18', 'cryptocurrencies:0.173', 'know:0.1719', 'port:0.1649', 'red:0.1464', 'include:0.1372', 'sort:0.1372', 'genkin:0.1369', 'uja:0.1356', 'razom:0.1162', 'reaching:0.1013', 'agree:0.0867']+titles_keywords+['humanitarian:0.4977', 'ukraine:0.3917', 'aid:0.3849', 'deliver:0.2459', 'struggle:0.2363']"
+        ]
+    ]
+}

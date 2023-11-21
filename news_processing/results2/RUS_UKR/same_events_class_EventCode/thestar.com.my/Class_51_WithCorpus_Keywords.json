@@ -1,0 +1,20 @@
+{
+    "CHN+RUS+51":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/thestar.com.my/No benefit for Chinas Taiwan claim in Russian war with Ukraine.txt+eventbasecode51+eventcode51+avgtone0.48698630136986304+goldsteinscale0.67+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.006578947368421052+news_keywords+['ukraine:0.36', 'nato:0.2992', 'invade:0.265', 'advantage:0.2463', 'reunification:0.2387', 'mainland:0.2277', 'diplomatic:0.1841', 'concern:0.1815', 'border:0.1785', 'distract:0.174', 'yinhong:0.1699', 'want:0.162', 'scenario:0.1606', 'enlargement:0.1452', 'observer:0.1417', 'help:0.1204', 'rational:0.119', 'indo:0.1184', 'long:0.1034', 'include:0.1025', 'deal:0.0955', 'necessarily:0.0915', 'breakaway:0.0912', 'think:0.0846', 'pla:0.0715', 'infographics:0.0664', 'difference:0.064', 'news:0.0582', 'agree:0.0463', 'arm:0.0421']+titles_keywords+['taiwan:0.387', 'benefit:0.2698', 'russian:0.2382', 'war:0.22', 'claim:0.2008']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Russian warship go f yourself Kyiv to honour troops killed on island.txt+eventbasecode51+eventcode51+avgtone0.47962962962962963+goldsteinscale0.67+nummentions0.04608127721335269+numarticles0.046773023930384336+numsources0.10197368421052631+news_keywords+['kyiv:0.4936', 'russia:0.3843', 'pravda:0.3818', 'troop:0.3426', 'warship:0.3206', 'invasion:0.3133', 'volodymyr:0.2903', 'surrender:0.2875', 'bloodshed:0.2813', 'zmiinyi:0.2578', 'casualty:0.254', 'border:0.2426', 'island:0.2351', 'die:0.2144', 'outlet:0.1952', 'strike:0.1905', 'friday:0.1873', 'summarise:0.1621', 'contact:0.1526', 'hero:0.1519', 'title:0.1477', 'speck:0.1471', 'exchange:0.1471', 'pronged:0.1378', 'president:0.1246', 'conduct:0.1221', 'official:0.1195', 'decorate:0.1055', 'unnecessary:0.0943', 'audio:0.0622']+titles_keywords+['kyiv:0.4659', 'warship:0.456', 'island:0.2963', 'honour:0.295', 'killed:0.1947']"
+        ],
+        [
+            "20220802+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Russias supreme court designates Ukraines Azov Regiment a terrorist group.txt+eventbasecode51+eventcode51+avgtone0.4776536312849162+goldsteinscale0.67+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.006578947368421052+news_keywords+['azov:0.4683', 'soviet:0.4499', 'ukraines:0.4467', 'regiment:0.4008', 'terrorist:0.3763', 'nationalist:0.3697', 'donetsk:0.3664', 'military:0.3405', 'nazis:0.3302', 'propaganda:0.278', 'republic:0.2531', 'territory:0.2417', 'designate:0.2217', 'group:0.2193', 'correspondent:0.1971', 'personnel:0.1959', 'union:0.1931', 'law:0.1651', 'remain:0.1504', 'cite:0.1422', 'report:0.137', 'fight:0.1301', 'right:0.1183', 'control:0.1129', 'long:0.0883', 'root:0.0761', 'port:0.0696', 'reutersmaxim:0.0688', 'august:0.0657', 'regularly:0.042']+titles_keywords+['azov:0.4472', 'ukraines:0.404', 'terrorist:0.3481', 'regiment:0.3419', 'court:0.1726']"
+        ]
+    ],
+    "WST+UKR+51":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Russia says West helping Ukraine prepare fake allegations of war crimes.txt+eventbasecode51+eventcode51+avgtone0.45964125560538094+goldsteinscale0.67+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['ukraine:0.4707', 'putin:0.4027', 'nato:0.3552', 'massacre:0.3437', 'russophobia:0.3234', 'reutershenry:0.2999', 'provocation:0.2964', 'journalist:0.2882', 'territory:0.2815', 'victim:0.28', 'accuse:0.2713', 'government:0.2712', 'crisis:0.2568', 'involvement:0.2246', 'help:0.2118', 'prepare:0.2114', 'evidence:0.2104', 'nonsense:0.2095', 'fake:0.2021', 'burn:0.1965', 'smear:0.1845', 'imperial:0.1613', 'direct:0.1496', 'shortly:0.1444', 'displace:0.1418', 'bucha:0.1416', 'new:0.1242', 'thousand:0.1149', 'nichollsfile:0.0882', 'placard:0.0859']+titles_keywords+['ukraine:0.4088', 'allegations:0.3277', 'fake:0.2482', 'prepare:0.1956', 'helping:0.1025']"
+        ]
+    ]
+}

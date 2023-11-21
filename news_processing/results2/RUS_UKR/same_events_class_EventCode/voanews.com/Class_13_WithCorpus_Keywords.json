@@ -1,0 +1,22 @@
+{
+    "EUR+RUS+13":[
+        [
+            "20220718+../news_crawling/RUS_UKR/p_articles/voanews.com/Ukrainian President Expands Investigation into Security Services.txt+eventbasecode13+eventcode13+avgtone0.4953703703703704+goldsteinscale0.52+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.5093', 'blockade:0.3378', 'diplomatic:0.3144', 'zelenskyy:0.3055', 'invasion:0.2917', 'military:0.2874', 'emergency:0.2779', 'resilience:0.2327', 'agreement:0.2195', 'cite:0.2191', 'reporter:0.2172', 'allegation:0.2142', 'continue:0.2081', 'reinforce:0.2075', 'silos:0.2071', 'fight:0.1855', 'tell:0.1809', 'resume:0.1657', 'town:0.1599', 'month:0.1465', 'biden:0.1424', 'unsatisfactory:0.1362', 'wagner:0.1347', 'total:0.1291', 'wheat:0.1236', 'significant:0.1235', 'ready:0.1211', 'sbu:0.1096', 'focus:0.1064', 'new:0.1023']+titles_keywords+['ukrainian:0.356', 'investigation:0.353', 'services:0.1451', 'president:0.1365', 'expands:0.1007']"
+        ]
+    ],
+    "RUS+FRA+13":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/voanews.com/Zelenskyy Seeking More Help from Europe.txt+eventbasecode13+eventcode13+avgtone0.49803536345776034+goldsteinscale0.52+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.019736842105263157+news_keywords+['kyiv:0.5172', 'zelenskyy:0.501', 'sergey:0.3936', 'russias:0.3568', 'redeploy:0.3002', 'war:0.2928', 'sievierodonetsk:0.2847', 'occupy:0.2795', 'president:0.2411', 'meeting:0.2226', 'ahead:0.2108', 'concern:0.2103', 'organize:0.2098', 'european:0.2091', 'priority:0.2017', 'independence:0.199', 'brief:0.1915', 'success:0.1796', 'north:0.1773', 'liquidity:0.1711', 'donbas:0.1654', 'want:0.1643', 'telecommunication:0.1458', 'control:0.1413', 'michel:0.1345', 'month:0.1339', 'major:0.1293', 'counteroffensive:0.1174', 'thank:0.0985', 'tf:0.0914']+titles_keywords+['zelenskyy:0.6107', 'europe:0.2763', 'help:0.1712', 'seeking:0.1415']"
+        ]
+    ],
+    "RUS+RUS+13":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/voanews.com/Putin Declares Victory in Mariupol Though Ukrainian Forces Remain.txt+eventbasecode13+eventcode13+avgtone0.49497126436781613+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimean:0.5159', 'kremlin:0.4368', 'invade:0.3213', 'zelenskyy:0.3104', 'victory:0.3049', 'luhansk:0.2911', 'remain:0.2367', 'military:0.234', 'donbas:0.2332', 'understand:0.2272', 'factorys:0.2263', 'predict:0.2212', 'tunnel:0.2149', 'plan:0.2084', 'mariupol:0.2076', 'hold:0.1968', 'help:0.196', 'want:0.1951', 'surround:0.1778', 'destroyed:0.1731', 'governor:0.1578', 'report:0.1491', 'main:0.1471', 'additional:0.1357', 'largely:0.1288', 'parry:0.1173', 'population:0.1091', 'associated:0.1076', 'different:0.1009', 'little:0.0884']+titles_keywords+['ukrainian:0.3666', 'victory:0.3572', 'mariupol:0.2848', 'declares:0.2119', 'forces:0.0615']"
+        ]
+    ],
+    "RUS+UKR+13":[
+        [
+            "20220728+../news_crawling/RUS_UKR/p_articles/voanews.com/Russian Missiles Hit Kyiv Chernihiv Regions.txt+eventbasecode13+eventcode13+avgtone0.4726166328600406+goldsteinscale0.52+nummentions0.22387518142235124+numarticles0.22443799854967367+numsources0.48355263157894735+news_keywords+['kyiv:0.5101', 'russians:0.4114', 'missiles:0.3457', 'terrorism:0.3358', 'zelenskyy:0.3299', 'retaliation:0.2735', 'occur:0.2712', 'military:0.2646', 'statehood:0.2516', 'regions:0.2279', 'kherson:0.2106', 'retreat:0.21', 'organize:0.2021', 'president:0.1764', 'help:0.1753', 'rational:0.1564', 'advantage:0.15', 'bridge:0.1487', 'invest:0.1442', 'plant:0.1374', 'long:0.1333', 'day:0.1291', 'second:0.1238', 'include:0.1054', 'virtually:0.0944', 'characterize:0.0887', 'quote:0.0851', 'resolution:0.0798', 'really:0.0742', 'thank:0.0668']+titles_keywords+['kyiv:0.5172', 'chernihiv:0.4078', 'missiles:0.3917', 'regions:0.1989', 'hit:0.1813']"
+        ]
+    ]
+}

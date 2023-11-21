@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/i24news.tv/Foreigners in Ukraine sentenced to death by proRussians to be shot if appeal denied.txt+eventbasecode100+eventcode100+avgtone0.4491869918699185+goldsteinscale0.25+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['ukraine:0.516', 'putin:0.4354', 'separatists:0.4286', 'prorussians:0.3028', 'execute:0.2828', 'news:0.2825', 'boris:0.2607', 'citizen:0.2521', 'authority:0.245', 'appeal:0.2438', 'punishment:0.2397', 'intervene:0.2331', 'turn:0.2229', 'report:0.216', 'case:0.2139', 'moroccan:0.1999', 'contact:0.1983', 'donbas:0.1864', 'fighting:0.183', 'sentence:0.1783', 'pushilin:0.1711', 'shot:0.1604', 'state:0.1601', 'fate:0.1557', 'head:0.1528', 'dnr:0.1526', 'say:0.1523', 'june:0.1314', 'later:0.1277', 'measure:0.1025']+titles_keywords+['ukraine:0.4164', 'prorussians:0.3436', 'sentenced:0.2922', 'death:0.2334', 'shot:0.1714']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20211221+../news_crawling/RUS_UKR/p_articles/i24news.tv/Russia asks Germany for serious negotiations on demands.txt+eventbasecode100+eventcode100+avgtone0.48966942148760334+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.468', 'diplomatic:0.3878', 'kremlin:0.3764', 'negotiate:0.3346', 'kiev:0.3048', 'talk:0.2945', 'president:0.2871', 'veto:0.2513', 'invasion:0.2388', 'advisor:0.2121', 'promise:0.1997', 'concern:0.1969', 'announce:0.1915', 'action:0.1768', 'say:0.1683', 'telephone:0.1632', 'horne:0.1549', 'emily:0.1528', 'monday:0.1401', 'organize:0.1304', 'explain:0.1264', 'buildup:0.1184', 'near:0.1111', 'draw:0.1104', 'olaf:0.1055', 'state:0.1036', 'white:0.0991', 'list:0.0964', 'house:0.088', 'focus:0.0701']+titles_keywords+['negotiations:0.4306', 'russia:0.3427', 'germany:0.2813', 'demands:0.2169', 'asks:0.148']"
+        ],
+        [
+            "20220402+../news_crawling/RUS_UKR/p_articles/i24news.tv/Russia retreats in northern Ukraine.txt+eventbasecode100+eventcode100+avgtone0.4849397590361446+goldsteinscale0.25+nummentions0.00544267053701016+numarticles0.006163886874546773+numsources0.009868421052631578+news_keywords+['kyiv:0.5394', 'russian:0.3998', 'putin:0.3778', 'invasion:0.3261', 'war:0.2924', 'mykhaylo:0.2381', 'tactic:0.2235', 'escape:0.2058', 'northern:0.19', 'pull:0.1799', 'surround:0.1782', 'control:0.1774', 'february:0.1687', 'focus:0.1678', 'adviser:0.1642', 'kill:0.1635', 'order:0.162', 'chernigiv:0.1607', 'people:0.1399', 'far:0.135', 'area:0.1329', 'stretch:0.1309', 'bus:0.1127', 'aim:0.1038', 'day:0.0995', 'private:0.0942', 'estimate:0.0918', 'make:0.0845', 'set:0.0721', 'rapid:0.0452']+titles_keywords+['ukraine:0.476', 'russia:0.3398', 'retreats:0.3292', 'northern:0.222']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "CZE+UKR+186":[
+        [
+            "20220510+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/WJC President Ronald S Lauder We admire the courage of Ukrainians.txt+eventbasecode186+eventcode186+avgtone0.5120967741935484+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['wjc:0.4491', 'ukrainians:0.3667', 'judaism:0.3543', 'jewish:0.3513', 'lauder:0.3263', 'ukraine:0.3194', 'ronald:0.3052', 'president:0.2522', 'confederation:0.2451', 'lozhkin:0.215', 'boris:0.2112', 'twitterlozhkinborisfor:0.1949', 'join:0.1721', 'world:0.1616', 'news:0.1516', 'admire:0.1277', 'work:0.1206', 'follow:0.1188', 'courage:0.1155', 'commentary:0.0954', 'onfacebookfor:0.0881', 'update:0.0852']+titles_keywords+['ukrainians:0.4336', 'wjc:0.419', 'president:0.4069', 'lauder:0.3952', 'courage:0.2665']"
+        ]
+    ],
+    "RUS+GBR+186":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/400 Russian mercenaries sent to Kyiv to assassinate Zelensky report.txt+eventbasecode186+eventcode186+avgtone0.5013227513227513+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5092', 'zelensky:0.4605', 'yevgeny:0.4142', 'assassinate:0.3954', 'putin:0.3936', 'mercenary:0.389', 'prigozhin:0.3073', 'israel:0.2649', 'volodymyr:0.2648', 'article:0.2324', 'security:0.2314', 'operation:0.2308', 'report:0.2038', 'wagner:0.1987', 'company:0.18', 'flown:0.1592', 'order:0.1462', 'join:0.1445', 'learn:0.1346', 'month:0.1337', 'coverage:0.1334', 'insightful:0.1182', 'like:0.1091', 'thats:0.1086', 'paywall:0.1077', 'curfew:0.1034', 'enjoy:0.0886', 'thousand:0.0861', 'little:0.055', 'havent:0.028']+titles_keywords+['zelensky:0.5403', 'kyiv:0.4737', 'mercenaries:0.4321', 'assassinate:0.362', '400:0.2926']"
+        ]
+    ]
+}

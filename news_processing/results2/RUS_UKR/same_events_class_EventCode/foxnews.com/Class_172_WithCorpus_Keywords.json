@@ -1,0 +1,18 @@
+{
+    "RUS+CAN+172":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/foxnews.com/Russian vodka pulled from shelves in US Canada bars liquor stores Every small thing makes.txt+eventbasecode172+eventcode172+avgtone0.48936170212765956+goldsteinscale0.25+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['vodka:0.5596', 'kyiv:0.4831', 'russian:0.4816', 'russias:0.4687', 'vladimir:0.4216', 'government:0.3033', 'provincial:0.2975', 'news:0.2617', 'protest:0.2433', 'report:0.2413', 'invasion:0.2144', 'spill:0.2085', 'peace:0.1968', 'know:0.1938', 'street:0.186', 'concern:0.181', 'mlive:0.1707', 'continue:0.1605', 'shelf:0.1548', 'make:0.1537', 'thenova:0.1507', 'getty:0.138', 'pull:0.1348', 'ksnw:0.1317', 'metastasize:0.1312', 'dollar:0.1275', 'sept:0.1248', 'jamie:0.1102', 'stratton:0.1097', 'difference:0.0979']+titles_keywords+['vodka:0.599', 'canada:0.3656', 'shelves:0.3147', 'pulled:0.171', 'makes:0.1219']"
+        ]
+    ],
+    "RUS+UKR+172":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/foxnews.com/White House warns Russia could use chemical or biological weapons in Ukraine.txt+eventbasecode172+eventcode172+avgtone0.47079918033+goldsteinscale0.25+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kremlin:0.4356', 'disinformation:0.3939', 'ukrainians:0.3729', 'pathogens:0.3263', 'terror:0.2827', 'nuclear:0.2793', 'attack:0.2751', 'syria:0.2697', 'reuters:0.2592', 'strategic:0.2535', 'pretext:0.2475', 'warhead:0.2372', 'warning:0.2343', 'psaki:0.2315', 'military:0.2193', 'chemical:0.211', 'false:0.1983', 'foreseeable:0.1972', 'playbook:0.1866', 'border:0.1828', 'secretary:0.179', 'lab:0.1745', 'remind:0.1596', 'maternity:0.154', 'exactly:0.1358', 'end:0.1228', 'brooke:0.1227', 'january:0.1163', 'relations:0.1045', 'direct:0.102']+titles_keywords+['ukraine:0.3783', 'weapons:0.2486', 'warns:0.2006', 'house:0.141', 'biological:0.1315']"
+        ]
+    ],
+    "UKR+RUS+172":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/foxnews.com/Ukraines Zelenskyy presses European leaders for stronger sanctions ban on Russia from banking system.txt+eventbasecode172+eventcode172+avgtone0.4815436241610738+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.531', 'putin:0.4952', 'nato:0.4151', 'geopolitical:0.3985', 'zelenskyy:0.3415', 'reuters:0.3354', 'conquer:0.2683', 'sanction:0.2444', 'biden:0.2344', 'capital:0.2338', 'gunfire:0.2282', 'border:0.2231', 'information:0.2129', 'introduction:0.2086', 'table:0.1984', 'counterpart:0.1786', 'write:0.1762', 'disconnection:0.1708', 'want:0.1685', 'strengthen:0.167', 'friday:0.1573', 'tweet:0.15', 'end:0.149', 'additional:0.1455', 'attend:0.1415', 'delivers:0.1407', 'tag:0.1377', 'harrigan:0.0846', 'deep:0.0796', 'thats:0.0693']+titles_keywords+['zelenskyy:0.4745', 'sanctions:0.3753', 'ukraines:0.3738', 'banking:0.1942', 'stronger:0.1102']"
+        ],
+        []
+    ]
+}

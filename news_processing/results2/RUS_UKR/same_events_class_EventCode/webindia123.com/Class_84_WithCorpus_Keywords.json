@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+84":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/webindia123.com/Wife of Putin ally accuses Ukrainian authorities of beating her husband begs Zelenskyy to free.txt+eventbasecode84+eventcode84+avgtone0.4758842443729903+goldsteinscale0.85+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.02631578947368421+news_keywords+['putin:0.5184', 'kyiv:0.4079', 'oligarch:0.4026', 'zelenskyy:0.3776', 'arrest:0.3763', 'marchenko:0.3514', 'treason:0.3317', 'torture:0.2956', 'plead:0.2726', 'invade:0.2724', 'flee:0.2674', 'oksana:0.2364', 'beaten:0.2355', 'news:0.2331', 'report:0.2063', 'authority:0.1986', 'help:0.185', 'pal:0.1735', 'hear:0.1667', 'day:0.1531', 'wife:0.1509', 'video:0.1474', 'contrary:0.146', 'free:0.1458', 'list:0.1451', 'end:0.1449', 'hold:0.1302', 'high:0.1252', 'reason:0.1246', 'unfortunately:0.0923']+titles_keywords+['putin:0.398', 'zelenskyy:0.3913', 'viktor:0.2883', 'wife:0.2377', 'accuses:0.2311']"
+        ]
+    ],
+    "USA+RUS+84":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/webindia123.com/Disney to pause theatrical releases in Russia.txt+eventbasecode84+eventcode84+avgtone0.4722222222222222+goldsteinscale0.85+nummentions0.3011611030478955+numarticles0.2922407541696882+numsources0.26644736842105265+news_keywords+['russia:0.381', 'pixar:0.3794', 'refugee:0.3325', 'crisis:0.3074', 'invasion:0.2827', 'premiere:0.2715', 'release:0.2482', 'march:0.2456', 'meantime:0.2371', 'halt:0.2338', 'update:0.2278', 'action:0.2243', 'hollywood:0.2181', 'theatrical:0.2146', 'turning:0.2114', 'interfere:0.2055', 'report:0.2021', 'red:0.1924', 'future:0.1919', 'military:0.1711', 'unprovoked:0.171', 'president:0.148', 'statement:0.1432', 'read:0.1226', 'ani:0.1158', 'previously:0.1053', 'set:0.0789', 'scale:0.0653', 'make:0.0642', 'partner:0.0601']+titles_keywords+['disney:0.4517', 'russia:0.3032', 'pause:0.2503', 'releases:0.2022', 'theatrical:0.1821']"
+        ]
+    ]
+}

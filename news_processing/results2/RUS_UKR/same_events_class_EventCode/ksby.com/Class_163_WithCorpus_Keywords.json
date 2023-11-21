@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+163":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/ksby.com/US imposes new sanctions on Russia for its invasion of Ukraine.txt+eventbasecode163+eventcode163+avgtone0.4502617801047119+goldsteinscale0.1+nummentions0.038461538461538464+numarticles0.03915881073241479+numsources0.03289473684210526+news_keywords+['putin:0.5045', 'ukraine:0.4304', 'sanction:0.4275', 'invasion:0.3486', 'war:0.3329', 'murder:0.2682', 'atrocity:0.2405', 'announce:0.2118', 'happen:0.2049', 'ally:0.1865', 'expect:0.165', 'begin:0.1617', 'statement:0.1585', 'states:0.1571', 'bucha:0.1557', 'unapologetically:0.1547', 'world:0.1487', 'new:0.1447', 'year:0.1411', 'financial:0.1307', 'wednesday:0.1304', 'gain:0.1225', 'wipe:0.1155', 'child:0.1136', 'house:0.1124', 'circle:0.1072', 'freeze:0.0969', 'accord:0.0893', 'major:0.0708', 'theres:0.0411']+titles_keywords+['sanctions:0.4287', 'ukraine:0.3657', 'imposes:0.2738', 'invasion:0.2369', 'new:0.1109']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/ksby.com/President Biden taps oil reserves to control US gas prices.txt+eventbasecode163+eventcode163+avgtone0.4921052631578947+goldsteinscale0.1+nummentions0.06386066763425254+numarticles0.06453952139231327+numsources0.05263157894736842+news_keywords+['petroleum:0.4338', 'biden:0.374', 'president:0.3683', 'gallon:0.3446', 'pump:0.3007', 'enact:0.2674', 'reserve:0.2643', 'plan:0.2377', 'produce:0.2068', 'drop:0.2049', 'announce:0.2002', 'investment:0.1939', 'russia:0.1884', 'thursday:0.186', 'control:0.1605', 'defense:0.1479', 'battery:0.1473', 'invasion:0.1383', 'million:0.1344', 'lease:0.1166', 'bid:0.1114', 'ally:0.1', 'tap:0.0994', 'significant:0.0893', 'house:0.0778', 'right:0.0709', 'line:0.0641', 'steep:0.0608', 'fully:0.0493', 'include:0.0483']+titles_keywords+['biden:0.4002', 'gas:0.3234', 'reserves:0.1806', 'control:0.117', 'prices:0.0905']"
+        ]
+    ]
+}

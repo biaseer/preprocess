@@ -1,0 +1,15 @@
+{
+    "AFR+RUS+12":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/allafrica.com/South Africa SA Speaks On Developments At Russia Ukraine Border.txt+eventbasecode12+eventcode12+avgtone0.4781659388646288+goldsteinscale0.48+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['diplomacy:0.4291', 'ukraine:0.4084', 'putin:0.3732', 'peace:0.296', 'border:0.2757', 'unsc:0.2473', 'sa:0.244', 'tension:0.2162', 'military:0.1932', 'world:0.1903', 'escalate:0.1886', 'report:0.1823', 'violent:0.1776', 'developments:0.1696', 'news:0.1677', 'issue:0.1647', 'speaks:0.156', 'mandate:0.1456', 'secretary:0.1382', 'avert:0.1352', 'unnecessary:0.1313', 'result:0.1305', 'address:0.1249', 'play:0.1128', 'deteriorate:0.1114', 'dr:0.0774', 'arm:0.0774', 'fully:0.0616', 'naledi:0.0616', 'wednesday:0.0553']+titles_keywords+['ukraine:0.4247', 'sa:0.3919', 'border:0.2588', 'speaks:0.2511', 'developments:0.1897']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/allafrica.com/Kenya Fuel Prices Up By Sh5 in Kenya.txt+eventbasecode12+eventcode12+avgtone0.5058139534883721+goldsteinscale0.48+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.006578947368421052+news_keywords+['kenya:0.4978', 'petrol:0.3714', 'cost:0.2699', 'increase:0.2229', 'usd:0.19', 'sh:0.1722', 'january:0.1409', 'land:0.1279', 'unchanged:0.1209', 'live:0.1187', 'super:0.1153', 'government:0.0989', 'consumer:0.0962', 'crisis:0.0955', 'import:0.0809', 'push:0.0792', 'cubic:0.0768', 'say:0.0668', 'new:0.0638', 'levy:0.0592', 'average:0.0526', 'metre:0.0517', 'epra:0.0505', 'link:0.0451', 'review:0.0403', 'utiluize:0.028', 'respectively:0.0212', 'landing:0.0107', 'cushion:-0.0018', 'likely:-0.0199']+titles_keywords+['kenya:0.4785', 'fuel:0.3233', 'prices:0.2504', 'sh5:0.2284']"
+        ],
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/allafrica.com/Kenya Ukranian Envoy to Kenya Says Russia to Blame for Increased Food Prices.txt+eventbasecode12+eventcode12+avgtone0.4901960784313726+goldsteinscale0.48+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['kenya:0.4479', 'ukraine:0.4462', 'commodity:0.3005', 'conflict:0.2862', 'increase:0.2395', 'ivanovych:0.2258', 'ambassador:0.2238', 'ensure:0.2038', 'capital:0.1917', 'crop:0.1883', 'unchanged:0.1877', 'source:0.1697', 'commit:0.1697', 'blame:0.1692', 'cost:0.1631', 'invasion:0.1618', 'hashtag:0.1607', 'implication:0.1461', 'good:0.1349', 'number:0.1242', 'sh:0.1221', 'live:0.1186', 'respectively:0.1167', 'basic:0.1141', 'allow:0.1132', 'month:0.1127', 'andrii:0.112', 'start:0.1031', 'litre:0.1028', 'review:0.0402']+titles_keywords+['kenya:0.428', 'ukranian:0.3239', 'blame:0.2872', 'food:0.2087', 'prices:0.1662']"
+        ]
+    ]
+}

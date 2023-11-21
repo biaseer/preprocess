@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220507+../news_crawling/RUS_UKR/p_articles/wtvbam.com/Russia says its missiles hit 31 areas where Ukrainian forces were deployed RIA.txt+eventbasecode154+eventcode154+avgtone0.5+goldsteinscale0.13999999999999999+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukrainian:0.403', 'russias:0.4011', 'russia:0.3854', 'russian:0.3542', 'missile:0.3358', 'popasna:0.2857', 'luhansk:0.2611', 'deploy:0.2568', 'hit:0.2366', 'weapon:0.2258', 'region:0.2157', 'reuters:0.2073', 'news:0.1662', 'near:0.1611', 'depot:0.1608', 'shoot:0.1593', 'ria:0.158', 'warplane:0.157', 'eastern:0.1567', 'report:0.1385', 'area:0.1336', 'city:0.1001', 'friday:0.0943', 'defence:0.0658', 'su:0.0503', 'say:0.0371', 'interfax:0.0325', 'agency:0.0315', 'force:0.0282', 'ministry:0.0133']+titles_keywords+['missiles:0.3883', 'ukrainian:0.3289', 'ria:0.313', '31:0.2279', 'hit:0.1724']"
+        ]
+    ],
+    "WST+RUS+154":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/wtvbam.com/Italy defers NATO defence spending goal to 2028 in coalition compromise.txt+eventbasecode154+eventcode154+avgtone0.507882882882883+goldsteinscale0.13999999999999999+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['nato:0.5639', 'italy:0.4423', 'government:0.3185', 'procurement:0.2892', 'economic:0.2853', 'giuseppe:0.2849', 'euro:0.281', 'compromise:0.2575', 'election:0.2569', 'invade:0.2544', 'reuters:0.2538', 'increase:0.2424', 'budget:0.2157', 'defence:0.2102', 'ratio:0.1752', 'minister:0.1729', 'ahead:0.1711', 'timeline:0.1659', 'coordinate:0.16', 'meet:0.1587', 'achievable:0.1567', 'term:0.1533', 'output:0.1522', 'statement:0.1404', 'thursday:0.138', 'billion:0.1289', 'preference:0.1204', 'stepping:0.1169', 'arm:0.0992', 'earmark:0.077']+titles_keywords+['nato:0.4244', 'compromise:0.2524', '2028:0.2511', 'defers:0.2184', 'spending:0.1694']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+84":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/cnn.com/Ukraine releases video of Russian helicopter being shot down.txt+eventbasecode84+eventcode84+avgtone0.49193548387096775+goldsteinscale0.85+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['ukraine:0.489', 'ukrainian:0.4689', 'helicopter:0.4417', 'russians:0.3957', 'russian:0.3721', 'video:0.3118', 'cnn:0.3048', 'attack:0.2397', 'shot:0.2025', 'happen:0.1896', 'armed:0.1891', 'operation:0.1751', 'base:0.1697', 'release:0.1646', 'geolocated:0.1519', 'verify:0.1342', 'area:0.1321', 'film:0.1156', 'recently:0.1112', 'force:0.1067', 'run:0.0975', 'share:0.0942', 'forces:0.0919', 'include:0.0606', 'unable:0.0479']+titles_keywords+['ukraine:0.411', 'helicopter:0.3886', 'video:0.3439', 'shot:0.1906', 'releases:0.1188']"
+        ],
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/cnn.com/Mass graves near besieged Ukrainian city Mariupol are evidence of war crimes say Ukrainian officials.txt+eventbasecode84+eventcode84+avgtone0.4642857142857143+goldsteinscale0.85+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.491', 'ceasefire:0.44', 'civilians:0.4059', 'putins:0.3917', 'genocide:0.3837', 'evacuate:0.3669', 'bombardment:0.3304', 'journalist:0.3038', 'crime:0.2794', 'andriushchenko:0.263', 'town:0.2328', 'proceeding:0.226', 'report:0.2238', 'cemetery:0.223', 'bypass:0.2166', 'truck:0.2044', 'toll:0.1963', 'general:0.1886', 'analyze:0.1871', 'kilometer:0.1849', 'azovstal:0.1782', 'follow:0.1735', 'cover:0.1717', 'vadym:0.169', 'april:0.1574', 'row:0.1569', 'imagery:0.1565', 'cut:0.1532', 'proof:0.1504', 'possible:0.1016']+titles_keywords+['ukrainian:0.2962', 'evidence:0.2791', 'war:0.2546', 'mariupol:0.2112', 'graves:0.2035']"
+        ]
+    ]
+}

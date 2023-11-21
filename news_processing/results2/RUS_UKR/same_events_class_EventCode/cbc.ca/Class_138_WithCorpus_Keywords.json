@@ -1,0 +1,20 @@
+{
+    "DEU+RUS+138":[
+        [
+            "20211212+../news_crawling/RUS_UKR/p_articles/cbc.ca/G7 warns Russia of massive consequences if Ukraine invaded.txt+eventbasecode138+eventcode138+avgtone0.469989281886388+goldsteinscale0.15+nummentions0.07402031930333818+numarticles0.07469180565627266+numsources0.16776315789473684+news_keywords+['ukraine:0.4543', 'putin:0.4043', 'invade:0.3728', 'diplomat:0.3027', 'economy:0.2944', 'meeting:0.2787', 'agenda:0.2614', 'global:0.2577', 'prepare:0.2494', 'nuclear:0.2453', 'crisis:0.2451', 'escalate:0.2427', 'develop:0.2405', 'argue:0.2276', 'power:0.2247', 'biden:0.2196', 'concerned:0.217', 'consequence:0.2132', 'say:0.2064', 'term:0.2059', 'turn:0.1862', 'hawkish:0.1827', 'pipeline:0.1818', 'soon:0.1656', 'unified:0.1652', 'towardchina:0.1623', 'indo:0.1507', 'long:0.1375', 'deal:0.1344', 'hub:0.1156']+titles_keywords+['ukraine:0.396', 'consequences:0.2772', 'g7:0.264', 'warns:0.2588', 'invaded:0.2447']"
+        ]
+    ],
+    "RUS+UKR+138":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/cbc.ca/It will take time to get results Macron says after talks in Russia Ukraine.txt+eventbasecode138+eventcode138+avgtone0.4782608695652174+goldsteinscale0.15+nummentions0.1386066763425254+numarticles0.13923132704858593+numsources0.13486842105263158+news_keywords+['diplomacy:0.4701', 'putin:0.4233', 'nato:0.4176', 'crimean:0.3897', 'macron:0.3672', 'invade:0.3402', 'readiness:0.2934', 'adviser:0.2675', 'escalate:0.2669', 'crisis:0.248', 'unify:0.2421', 'zelenskyconfirmed:0.2395', 'future:0.2384', 'manoeuvre:0.2377', 'expect:0.2272', 'trigger:0.2142', 'iswarning:0.2127', 'brief:0.2127', 'news:0.1958', 'speak:0.1943', 'elaboration:0.1938', 'visit:0.1778', 'subsequent:0.1763', 'submit:0.176', 'decide:0.1754', 'complete:0.1717', 'pipeline:0.1704', 'feb:0.1398', 'andtwolong:0.1372', 'roughly:0.1342']+titles_keywords+['macron:0.4133', 'results:0.3161', 'ukraine:0.2533', 'time:0.2299', 'talks:0.204']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/cbc.ca/Morale remains high in Kyiv as threat of Russian attack grows.txt+eventbasecode138+eventcode138+avgtone0.4454545454545455+goldsteinscale0.15+nummentions0.009433962264150943+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['kyiv:0.5786', 'morale:0.3845', 'russian:0.3146', 'attack:0.2892', 'afraid:0.2891', 'threat:0.2805', 'remain:0.2546', 'people:0.2387', 'city:0.2264', 'imminent:0.2053', 'kusa:0.1965', 'come:0.1964', 'grow:0.152', 'iliya:0.1518', 'appear:0.1503', 'high:0.1471', 'say:0.1375', 'resident:0.1351', 'political:0.1205', 'analyst:0.0786', 'week:0.0592']+titles_keywords+['kyiv:0.5324', 'morale:0.4271', 'high:0.1897', 'attack:0.1815', 'grows:0.1125']"
+        ],
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/cbc.ca/Finding refuge for Ukraines most vulnerable children displaced by war.txt+eventbasecode138+eventcode138+avgtone0.38983050847457645+goldsteinscale0.15+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraines:0.4648', 'refuge:0.4544', 'russian:0.3761', 'war:0.345', 'vulnerable:0.3388', 'child:0.3322', 'ivano:0.3267', 'escape:0.2974', 'sanctuary:0.2758', 'frankivsk:0.27', 'region:0.2665', 'home:0.249', 'attack:0.2273', 'dozen:0.1962', 'displace:0.1515', 'finding:0.1389']+titles_keywords+['refuge:0.4588', 'ukraines:0.4102', 'children:0.3598', 'war:0.3511', 'vulnerable:0.2882']"
+        ]
+    ]
+}

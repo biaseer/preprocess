@@ -1,0 +1,15 @@
+{
+    "RUS+RUS+16":[
+        [
+            "20220118+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Blinken to meet with senior Russian as Ukraine tensions soar.txt+eventbasecode16+eventcode16+avgtone0.47737556561085964+goldsteinscale0.4+nummentions0.10667634252539913+numarticles0.10732414793328499+numsources0.25+news_keywords+['putin:0.4488', 'diplomacy:0.4412', 'nato:0.4271', 'kyiv:0.3841', 'russias:0.3672', 'invade:0.3261', 'escalation:0.2936', 'disinformation:0.2884', 'bipartisan:0.2773', 'troop:0.2439', 'border:0.2246', 'urgency:0.2179', 'blinken:0.1988', 'dangerous:0.1781', 'prepare:0.1767', 'friday:0.1691', 'counterpart:0.1642', 'forward:0.1594', 'anonymity:0.1555', 'discus:0.1553', 'intend:0.1537', 'say:0.1527', 'current:0.1401', 'state:0.131', 'rewritten:0.1289', 'point:0.127', 'indivisibility:0.1131', 'follow:0.0884', 'classify:0.0877', 'price:0.0601']+titles_keywords+['blinken:0.4', 'ukraine:0.286', 'meet:0.2662', 'tensions:0.1551', 'senior:0.039']"
+        ]
+    ],
+    "RUS+UKR+16":[
+        [
+            "20220117+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Russia denies looking for pretext to invade Ukraine.txt+eventbasecode16+eventcode16+avgtone0.47721354166666674+goldsteinscale0.4+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.05592105263157895+news_keywords+['putin:0.4518', 'crimean:0.4435', 'ukraines:0.4421', 'nato:0.3938', 'invade:0.3775', 'diplomacy:0.3249', 'escalation:0.289', 'disinformation:0.2695', 'pretext:0.2512', 'prepare:0.2425', 'cybersecurity:0.2303', 'border:0.2232', 'avoid:0.2099', 'flag:0.2057', 'separatist:0.1939', 'investigate:0.1886', 'dangerous:0.1793', 'drill:0.17', 'bipartisan:0.17', 'adviser:0.169', 'turn:0.1638', 'reaffirm:0.1573', 'volodymyr:0.151', 'monday:0.1386', 'hold:0.1346', 'write:0.1288', 'current:0.1148', 'arm:0.1073', 'right:0.0778', 'price:0.0517']+titles_keywords+['ukraine:0.4047', 'pretext:0.3376', 'invade:0.3138', 'denies:0.1828', 'looking:0.0937']"
+        ],
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/UkraineRussia crisis What to know on hopes of averting war.txt+eventbasecode16+eventcode16+avgtone0.4857142857142857+goldsteinscale0.4+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.009868421052631578+news_keywords+['ukraine:0.4718', 'natos:0.4128', 'kremlin:0.4097', 'diplomacy:0.351', 'invade:0.3061', 'escalation:0.262', 'troop:0.2425', 'border:0.2296', 'agreement:0.2181', 'bipartisan:0.2168', 'cyberattacks:0.2165', 'rhetoric:0.2006', 'leave:0.1872', 'telegram:0.18', 'pull:0.179', 'know:0.1746', 'scope:0.1677', 'movement:0.1646', 'submit:0.1496', 'issue:0.1299', 'end:0.1275', 'sure:0.1247', 'unified:0.1214', 'hear:0.1153', 'difference:0.1122', 'alongside:0.1117', 'isnt:0.1106', 'week:0.0711', 'price:0.0632', 'stoltenberg:0.0509']+titles_keywords+['ukrainerussia:0.4167', 'war:0.362', 'crisis:0.2803', 'averting:0.1822', 'know:0.171']"
+        ]
+    ]
+}

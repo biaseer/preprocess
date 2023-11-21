@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Battle for Severodonetsk rages Putin warns of new targets if Ukraine supplied with missiles.txt+eventbasecode12+eventcode12+avgtone0.4708222811671087+goldsteinscale0.48+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.4996', 'putin:0.3902', 'russias:0.3875', 'counterattack:0.3441', 'conflict:0.3309', 'missile:0.3144', 'operation:0.3004', 'military:0.2966', 'news:0.259', 'conclusion:0.245', 'infrastructure:0.2373', 'victim:0.231', 'warn:0.2229', 'extract:0.2169', 'severodonetsk:0.2133', 'hit:0.2088', 'turn:0.2086', 'range:0.202', 'order:0.1949', 'regional:0.1945', 'locate:0.1835', 'rubble:0.1768', 'study:0.1765', 'hospitalised:0.1724', 'long:0.1637', 'draw:0.1474', 'evening:0.1469', 'similar:0.1382', 'frontal:0.1325', 'february:0.1214']+titles_keywords+['putin:0.3878', 'severodonetsk:0.3771', 'missiles:0.3494', 'warns:0.2414', 'new:0.1247']"
+        ]
+    ],
+    "RUS+WST+12":[
+        [
+            "20220731+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Russia says US NATO main threats to national security.txt+eventbasecode12+eventcode12+avgtone0.4931740614334471+goldsteinscale0.48+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.013157894736842105+news_keywords+['natos:0.4796', 'putin:0.3763', 'soviet:0.372', 'petersburg:0.3385', 'strategic:0.2632', 'naval:0.2477', 'arctic:0.2385', 'threats:0.2246', 'war:0.2233', 'document:0.1953', 'strengthen:0.1895', 'infrastructure:0.1835', 'justify:0.1469', 'doctrine:0.1455', 'say:0.135', 'states:0.1312', 'explore:0.1307', 'aim:0.1223', 'existential:0.1197', 'include:0.114', 'measure:0.1104', 'passage:0.0873', 'safe:0.0871', 'external:0.085', 'resolution:0.0832', 'main:0.0798', 'big:0.0697', 'day:0.0554', 'add:0.0535', 'year:0.0516']+titles_keywords+['nato:0.5353', 'russia:0.3173', 'threats:0.2769', 'says:0.0962', 'main:0.0868']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220110+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Ukraine talks US warns Russia of risk of confrontation.txt+eventbasecode12+eventcode12+avgtone0.4780564263322884+goldsteinscale0.48+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['diplomacy:0.4779', 'ukraines:0.4113', 'nato:0.4076', 'putin:0.4066', 'moscow:0.3661', 'confrontation:0.3629', 'escalation:0.3', 'eastward:0.2422', 'warn:0.2077', 'prepare:0.2053', 'aggressive:0.2048', 'discussing:0.2012', 'outcome:0.1893', 'say:0.1759', 'washington:0.1755', 'union:0.1738', 'draw:0.1355', 'positive:0.1348', 'renew:0.1343', 'geneva:0.1323', 'acknowledge:0.1313', 'blinken:0.1177', 'secretary:0.1153', 'open:0.1076', 'head:0.1056', 'week:0.1042', 'round:0.0987', 'difference:0.088', 'major:0.0463', 'theres:0.0427']+titles_keywords+['ukraine:0.4055', 'confrontation:0.2885', 'warns:0.2242', 'talks:0.1672', 'risk:0.152']"
+        ]
+    ]
+}

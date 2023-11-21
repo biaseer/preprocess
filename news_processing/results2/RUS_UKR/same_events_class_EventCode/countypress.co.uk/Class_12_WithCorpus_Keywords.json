@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/98 Irish citizens registered with Ukraine embassy.txt+eventbasecode12+eventcode12+avgtone0.49311926605504586+goldsteinscale0.48+nummentions0.12010159651669086+numarticles0.12073966642494562+numsources0.26644736842105265+news_keywords+['ukraine:0.4869', 'russiaukraine:0.4424', 'nato:0.3522', 'irelands:0.3021', 'sovereignty:0.2718', 'consular:0.2618', 'troop:0.26', 'gael:0.2228', 'parliamentary:0.2164', 'remain:0.201', 'concern:0.1881', 'colleague:0.1612', 'escalate:0.1557', 'safe:0.153', 'north:0.1476', 'pulling:0.1451', 'debate:0.1319', 'long:0.1108', 'dmytrokuleba:0.0987', 'foreseeable:0.0979', 'open:0.0914', 'weapon:0.0877', 'official:0.0832', 'story:0.0751', 'weekend:0.067', 'surrogacy:0.065', 'right:0.0582', 'mr:0.056', 'focus:0.0206', 'incl:0.0204']+titles_keywords+['ukraine:0.4178', 'irish:0.3941', 'embassy:0.33', 'registered:0.3043', '98:0.1634']"
+        ],
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Ukrainians claim to have retaken ground from Russia ahead of latest talks.txt+eventbasecode12+eventcode12+avgtone0.47780678851174935+goldsteinscale0.48+nummentions0.14731494920174165+numarticles0.14793328498912256+numsources0.26644736842105265+news_keywords+['kyiv:0.5027', 'ukraines:0.465', 'ceasefire:0.4428', 'kremlin:0.4244', 'natos:0.4187', 'deploy:0.3043', 'strategic:0.2364', 'combine:0.2254', 'progress:0.2157', 'retaken:0.2138', 'trostyanets:0.2075', 'forward:0.206', 'flank:0.2058', 'donbas:0.1993', 'emphasise:0.1934', 'reporter:0.1908', 'general:0.1899', 'long:0.1849', 'outage:0.1766', 'end:0.1758', 'shoot:0.1752', 'need:0.174', 'telecommunication:0.1732', 'regional:0.1721', 'safely:0.1552', 'believe:0.1512', 'ready:0.1414', 'weather:0.1307', 'child:0.1172', 'population:0.0919']+titles_keywords+['ukrainians:0.3996', 'retaken:0.2527', 'ground:0.1367', 'talks:0.1278', 'latest:0.0407']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220815+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Russian shells slam into eastern Ukraine killing three.txt+eventbasecode12+eventcode12+avgtone0.4768976897689769+goldsteinscale0.48+nummentions0.04426705370101597+numarticles0.044960116026105876+numsources0.06578947368421052+news_keywords+['kyiv:0.491', 'ukraines:0.456', 'putin:0.4549', 'russian:0.4092', 'propaganda:0.328', 'terekhov:0.3035', 'war:0.2999', 'zelensky:0.2794', 'kill:0.2752', 'militarys:0.2654', 'ammunition:0.2353', 'liberate:0.2195', 'accusation:0.2136', 'negotiation:0.2049', 'donbas:0.199', 'industrial:0.1968', 'emphasise:0.1955', 'shelling:0.1932', 'law:0.1721', 'monday:0.1682', 'regional:0.1489', 'format:0.144', 'long:0.1298', 'nearly:0.1271', 'believe:0.124', 'open:0.1174', 'wont:0.1041', 'weak:0.1034', 'numerous:0.0973', 'sbu:0.0777']+titles_keywords+['russian:0.3287', 'slam:0.2652', 'shells:0.2525', 'eastern:0.1334', 'killing:0.1333']"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "EUR+RUS+190":[
+        [
+            "20220613+../news_crawling/RUS_UKR/p_articles/presstv.ir/Moscow says Russian forces have destroyed US European weapons in eastern Ukraine.txt+eventbasecode190+eventcode190+avgtone0.4903339191564147+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kiev:0.4508', 'kremlin:0.4034', 'russias:0.3476', 'operation:0.2768', 'strategic:0.2656', 'surrender:0.2626', 'zelensky:0.2568', 'troop:0.2436', 'artillery:0.2308', 'separatist:0.2283', 'deliver:0.2221', 'advance:0.206', 'remain:0.1988', 'fight:0.1987', 'donbas:0.1971', 'warn:0.1919', 'severodonetsk:0.1897', 'eastern:0.1764', 'flood:0.1745', 'prolong:0.1728', 'ally:0.1728', 'end:0.1705', 'president:0.1664', 'major:0.1555', 'flashpoint:0.1359', 'week:0.1327', 'unprecedented:0.1296', 'postquoted:0.1234', 'plus:0.1191', 'way:0.0693']+titles_keywords+['ukraine:0.3688', 'weapons:0.3114', 'destroyed:0.219', 'eastern:0.1451', 'says:0.0582']",
+            "20220618+../news_crawling/RUS_UKR/p_articles/presstv.ir/US pauses selling large armable drones to Ukraine due to security reasons Report.txt+eventbasecode190+eventcode190+avgtone0.48513011152416363+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['drone:0.4051', 'kremlin:0.3869', 'pentagon:0.3602', 'russias:0.3448', 'war:0.3211', 'operation:0.2946', 'surveillance:0.2892', 'reuters:0.2739', 'donetsk:0.268', 'uncertain:0.2422', 'administration:0.1986', 'plan:0.1969', 'biden:0.1913', 'deal:0.1844', 'swap:0.1719', 'scrap:0.1637', 'value:0.1615', 'parameter:0.1601', 'continue:0.1576', 'armable:0.1566', 'salewould:0.1558', 'gray:0.1524', 'reveal:0.1491', 'discussionsince:0.1396', 'review:0.1299', 'make:0.1262', 'blockthe:0.1234', 'unprecedented:0.1039', 'fell:0.1015', 'plus:0.0909']+titles_keywords+['drones:0.3693', 'ukraine:0.3517', 'selling:0.1589', 'pauses:0.1454', 'report:0.1343']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220120+../news_crawling/RUS_UKR/p_articles/presstv.ir/Moscow Bidens threats against Russia not to help reduce rising tensions.txt+eventbasecode190+eventcode190+avgtone0.47751937984496123+goldsteinscale0.0+nummentions0.031567489114658925+numarticles0.032269760696156634+numsources0.046052631578947366+news_keywords+['putin:0.4232', 'nato:0.4224', 'crimea:0.4061', 'threat:0.3247', 'destabilization:0.3121', 'diplomatic:0.2705', 'erupt:0.2409', 'missiles:0.2323', 'prepare:0.2198', 'precautionary:0.2097', 'troop:0.1997', 'interfere:0.1819', 'borderwith:0.1681', 'donbass:0.1576', 'future:0.1564', 'help:0.1519', 'cite:0.1506', 'increase:0.1453', 'thursdayresponded:0.1356', 'short:0.1189', 'furthermore:0.1141', 'visit:0.1101', 'false:0.1091', 'approve:0.1056', 'state:0.1034', 'step:0.1032', 'bilateral:0.0865', 'nearly:0.0756', 'antony:0.0612', 'hothead:0.0551']+titles_keywords+['moscow:0.3883', 'tensions:0.3092', 'threats:0.302', 'reduce:0.112', 'bidens:0.0982']"
+        ],
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/presstv.ir/RussiaUkraine raging conflict.txt+eventbasecode190+eventcode190+avgtone0.48198198198198194+goldsteinscale0.0+nummentions0.06386066763425254+numarticles0.06453952139231327+numsources0.12828947368421054+news_keywords+['ukraine:0.515', 'russiaukraine:0.4967', 'nato:0.4636', 'conflict:0.3721', 'warships:0.281', 'attack:0.2743', 'rag:0.2682', 'deployment:0.2264', 'strategic:0.212', 'airport:0.2031', 'reject:0.1851', 'captured:0.1843', 'east:0.1843', 'continue:0.1795', 'strait:0.1726', 'underlie:0.1678', 'discus:0.1615', 'announce:0.1553', 'tonight:0.1446', 'additional:0.1333', 'force:0.1225', 'say:0.1115', 'second:0.1061', 'black:0.0978', 'significant:0.0957', 'spotlight:0.0882', 'request:0.0876', 'make:0.0853', 'hostomel:0.0568', 'multiple:0.0548']+titles_keywords+['russiaukraine:0.6385', 'conflict:0.4965', 'raging:0.2675']"
+        ],
+        []
+    ],
+    "UKR+RUS+190":[
+        []
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+10":[
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/wknofm.org/RussiaUkraine war What happened today June 30.txt+eventbasecode10+eventcode10+avgtone0.4794372294372294+goldsteinscale0.5+nummentions0.23439767779390422+numarticles0.23495286439448876+numsources0.21052631578947367+news_keywords+['ukraine:0.542', 'russiaukraine:0.5332', 'kremlin:0.4854', 'moscow:0.4761', 'nato:0.4013', 'war:0.3701', 'embassies:0.3276', 'separatist:0.2612', 'sanction:0.2356', 'border:0.2324', 'evacuate:0.2319', 'recap:0.2218', 'strategic:0.2', 'read:0.1874', 'report:0.1859', 'closure:0.1852', 'npr:0.183', 'thursday:0.179', 'long:0.1591', 'happen:0.1414', 'organization:0.1315', 'speaking:0.1311', 'grade:0.1262', 'biden:0.1222', 'end:0.1209', 'broke:0.0973', 'complies:0.0965', 'hundreds:0.0851', 'coverage:0.0831', 'new:0.0775']+titles_keywords+['russiaukraine:0.4814', 'war:0.4249', 'june:0.3017', 'today:0.3012', 'happened:0.2627']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/wknofm.org/Russia is still blocking key Ukrainian port as fighting continues in Ukraines east.txt+eventbasecode10+eventcode10+avgtone0.45+goldsteinscale0.5+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.03289473684210526+news_keywords+['kyiv:0.5459', 'ukraines:0.4724', 'blockade:0.3871', 'war:0.3061', 'crisis:0.2501', 'sewage:0.2309', 'know:0.2308', 'industrial:0.2103', 'continue:0.2033', 'report:0.1956', 'npr:0.1753', 'turn:0.1724', 'ambassador:0.1688', 'dead:0.1653', 'arrive:0.1618', 'focal:0.1599', 'push:0.1585', 'plant:0.1504', 'transcript:0.1488', 'donbas:0.1469', 'relation:0.1414', 'far:0.1287', 'weekend:0.1246', 'largely:0.1212', 'global:0.1207', 'severodonetsk:0.1143', 'state:0.1075', 'myre:0.1031', 'price:0.0819', 'thanks:0.0781']+titles_keywords+['ukrainian:0.3817', 'port:0.3694', 'blocking:0.2952', 'continues:0.1783', 'key:0.0874']"
+        ],
+        [
+            "20220702+../news_crawling/RUS_UKR/p_articles/wknofm.org/Two Ukrainian fighters describe the current state of the frontlines against Russia.txt+eventbasecode10+eventcode10+avgtone0.5+goldsteinscale0.5+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.09210526315789473+news_keywords+['ukrainian:0.4631', 'frontlines:0.3841', 'nato:0.3741', 'troop:0.3597', 'bilohorivka:0.3551', 'trench:0.3546', 'artillery:0.3327', 'pentagon:0.3254', 'tank:0.2962', 'fight:0.2856', 'know:0.2535', 'read:0.2521', 'position:0.2512', 'assistance:0.2305', 'harrow:0.2255', 'end:0.2063', 'deliver:0.2022', 'hold:0.2018', 'politics:0.197', 'safer:0.1943', 'response:0.1852', 'alive:0.1848', 'deep:0.1782', 'fell:0.1732', 'reach:0.173', 'radically:0.1611', 'hour:0.1493', 'like:0.1373', 'pretty:0.1113', 'true:0.0968']+titles_keywords+['frontlines:0.4808', 'ukrainian:0.4312', 'fighters:0.4003', 'current:0.0833', 'state:0.0521']"
+        ]
+    ]
+}

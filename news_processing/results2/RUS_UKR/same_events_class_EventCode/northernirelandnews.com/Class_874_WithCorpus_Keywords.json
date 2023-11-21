@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/northernirelandnews.com/Munich Security Conference opens focusing on unlearning helplessness.txt+eventbasecode87+eventcode874+avgtone0.4671232876712328+goldsteinscale1.0+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['diplomacy:0.4797', 'munich:0.4328', 'conference:0.3063', 'ukrainian:0.3035', 'helplessness:0.2815', 'crisis:0.2777', 'pandemic:0.273', 'security:0.2686', 'topic:0.2506', 'escalate:0.2423', 'concerned:0.2404', 'power:0.234', 'xinhua:0.2172', 'climate:0.2149', 'troop:0.2124', 'catastrophic:0.2028', 'border:0.1919', 'prophecy:0.186', 'msc:0.1852', 'ischinger:0.1782', 'world:0.1768', 'report:0.1697', 'biden:0.1571', 'ahead:0.1527', 'discus:0.149', 'unlearn:0.1436', 'afternoon:0.1351', 'state:0.1209', 'head:0.0854', 'include:0.0854']+titles_keywords+['munich:0.4626', 'security:0.3628', 'helplessness:0.3617', 'conference:0.3529', 'unlearning:0.3401']"
+        ],
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/northernirelandnews.com/Russias bombardment of Ukraines cities created fastestgrowing humanitarian crises US at UNSC.txt+eventbasecode87+eventcode874+avgtone0.4765625+goldsteinscale1.0+nummentions0.05624092888243832+numarticles0.05692530819434373+numsources0.05263157894736842+news_keywords+['putin:0.4681', 'ceasefire:0.4189', 'ukraines:0.3942', 'bombardment:0.309', 'humanitarian:0.304', 'lebanon:0.27', 'catastrophe:0.2572', 'agribusiness:0.2322', 'concerned:0.229', 'block:0.2208', 'continue:0.2067', 'flee:0.1988', 'sherman:0.197', 'implication:0.192', 'security:0.1775', 'immediate:0.1707', 'global:0.161', 'like:0.1562', 'assistance:0.1541', 'talk:0.1529', 'skyrocket:0.1528', 'carry:0.1397', 'export:0.1303', 'state:0.1225', 'population:0.1152', 'winter:0.1114', 'focus:0.109', 'far:0.0999', 'price:0.0861', 'ani:0.0852']+titles_keywords+['humanitarian:0.4271', 'crises:0.4215', 'russias:0.3963', 'bombardment:0.3395', 'unsc:0.2949']"
+        ]
+    ]
+}

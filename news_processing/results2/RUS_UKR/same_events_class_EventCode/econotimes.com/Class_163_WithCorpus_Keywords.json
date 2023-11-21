@@ -1,0 +1,20 @@
+{
+    "EUR+RUS+163":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/econotimes.com/Putins antagonism toward Ukraine was never just about NATO its about creating a new Russian.txt+eventbasecode163+eventcode163+avgtone0.4783702213279678+goldsteinscale0.1+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.006578947368421052+news_keywords+['putin:0.4997', 'crimea:0.4976', 'ukraines:0.4306', 'annexation:0.3977', 'nato:0.3861', 'separatist:0.2958', 'conflict:0.2794', 'democracy:0.2699', 'rhetoric:0.2609', 'reinforce:0.2036', 'adviser:0.1968', 'realise:0.1884', 'sanction:0.1877', 'pipeline:0.1866', 'precursor:0.1728', 'continue:0.171', 'want:0.168', 'turn:0.1661', 'divergence:0.1622', 'spillover:0.1548', 'state:0.1486', 'important:0.1431', 'tweet:0.1324', 'data:0.1209', 'current:0.114', 'focus:0.1129', 'oust:0.1127', 'negatively:0.1083', 'large:0.0958', 'export:0.0615']+titles_keywords+['nato:0.4743', 'putins:0.3403', 'antagonism:0.2173', 'empire:0.1455', 'creating:0.124']"
+        ]
+    ],
+    "RUS+EUR+163":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict US says Russian forces losing momentum to Ukrainian resistance.txt+eventbasecode163+eventcode163+avgtone0.4735576923076923+goldsteinscale0.1+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.006578947368421052+news_keywords+['ukraine:0.4769', 'invade:0.4198', 'nato:0.4131', 'putin:0.4086', 'treaty:0.3995', 'genocide:0.3665', 'moscows:0.3396', 'separatists:0.3219', 'conflict:0.3165', 'jurisdiction:0.2797', 'pentagon:0.2605', 'hague:0.2597', 'sanction:0.2509', 'justify:0.2477', 'underway:0.2412', 'authority:0.2234', 'realise:0.2149', 'urgent:0.2146', 'volodymyr:0.2108', 'anticipate:0.2094', 'capital:0.2036', 'president:0.191', 'momentum:0.1877', 'case:0.1837', 'submit:0.1773', 'order:0.174', 'hear:0.1401', 'hour:0.125', 'look:0.1206', 'indicator:0.1034']+titles_keywords+['ukrainian:0.39', 'losing:0.2826', 'conflict:0.227', 'forces:0.2243', 'says:0.0897']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/econotimes.com/UPS FedEx suspend delivery services to Russia and Ukraine.txt+eventbasecode163+eventcode163+avgtone0.48395721925133695+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4457', 'ups:0.4379', 'logistics:0.3432', 'reuters:0.3343', 'war:0.3047', 'disruption:0.3004', 'order:0.2589', 'troop:0.2496', 'escalate:0.2462', 'nuclear:0.2186', 'alert:0.2139', 'situation:0.2058', 'pull:0.1945', 'aid:0.1943', 'report:0.1942', 'president:0.1882', 'monitoring:0.1835', 'safe:0.1834', 'continue:0.1752', 'read:0.169', 'soon:0.1669', 'sender:0.1628', 'world:0.1579', 'weekend:0.1517', 'outbound:0.1317', 'plan:0.1298', 'swift:0.1207', 'big:0.0826', 'possible:0.0784', 'focus:0.0706']+titles_keywords+['ups:0.4378', 'fedex:0.4146', 'ukraine:0.3357', 'suspend:0.2143', 'services:0.1388']"
+        ],
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/econotimes.com/Are Russias elite really using cryptocurrency to evade sanctions.txt+eventbasecode163+eventcode163+avgtone0.4890948745910578+goldsteinscale0.1+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['ruble:0.4977', 'putin:0.4351', 'russias:0.4197', 'russian:0.3975', 'cryptocurrencies:0.3749', 'devaluation:0.3746', 'oligarchs:0.3711', 'crimea:0.307', 'economy:0.2574', 'liquidity:0.2347', 'sanction:0.1838', 'know:0.1815', 'evidence:0.1715', 'worry:0.165', 'buy:0.1537', 'crony:0.1519', 'binance:0.1512', 'operation:0.139', 'evade:0.1344', 'measure:0.1288', 'proxy:0.1208', 'introduce:0.1115', 'population:0.1112', 'meaningful:0.1036', 'month:0.0968', 'yobit:0.0877', 'official:0.0805', 'possible:0.0608', 'like:0.0559', 'entire:0.05']+titles_keywords+['sanctions:0.4191', 'russias:0.3571', 'cryptocurrency:0.3469', 'evade:0.1948', 'really:0.106']"
+        ]
+    ]
+}

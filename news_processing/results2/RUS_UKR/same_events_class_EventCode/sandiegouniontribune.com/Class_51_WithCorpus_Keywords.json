@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Police More than 900 civilian bodies found in Kyiv region.txt+eventbasecode51+eventcode51+avgtone0.4681034482758621+goldsteinscale0.67+nummentions0.06132075471698113+numarticles0.062001450326323426+numsources0.14473684210526316+news_keywords+['kyiv:0.5773', 'airstrikes:0.3571', 'russias:0.3408', 'casualty:0.3285', 'government:0.3116', 'journalist:0.3036', 'annexed:0.2954', 'diversion:0.2793', 'troop:0.2777', 'separatist:0.2612', 'sinehubov:0.253', 'suspect:0.2392', 'anonymity:0.2386', 'warn:0.237', 'street:0.2334', 'buried:0.2317', 'cite:0.2315', 'data:0.2091', 'horrific:0.2082', 'telegram:0.1979', 'dmytro:0.1954', 'northern:0.1839', 'understand:0.1823', 'combine:0.1815', 'night:0.1637', 'fought:0.1619', 'like:0.159', 'heard:0.1563', 'object:0.1556', 'spring:0.1359']+titles_keywords+['kyiv:0.4262', 'bodies:0.3739', 'police:0.3241', 'civilian:0.2936', '900:0.2421']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Los Angeles City Council votes to condemn Putins actions.txt+eventbasecode51+eventcode51+avgtone0.47770700636942676+goldsteinscale0.67+nummentions0.11030478955007257+numarticles0.11094996374184192+numsources0.11842105263157894+news_keywords+['putin:0.4373', 'kyiv:0.4281', 'approve:0.3008', 'vote:0.2928', 'denounce:0.2876', 'los:0.2814', 'councilmember:0.2804', 'avoid:0.2546', 'county:0.2535', 'unanimously:0.2463', 'action:0.1878', 'invasion:0.1696', 'happen:0.1638', 'koretz:0.1607', 'concern:0.1546', 'horrific:0.1452', 'investment:0.1438', 'urge:0.1398', 'close:0.1302', 'repeat:0.1259', 'innocent:0.1201', 'tuesday:0.1195', 'direct:0.1188', 'home:0.1156', 'stomach:0.1135', 'wag:0.1083', 'ive:0.0867', 'whats:0.0855', 'resolution:0.0826', 'doesnt:0.0518']+titles_keywords+['los:0.3646', 'condemn:0.3419', 'putins:0.2776', 'city:0.2554', 'votes:0.2358']"
+        ],
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Serbs stage proRussia marches amid VDay ceremonies.txt+eventbasecode51+eventcode51+avgtone0.48395721925133695+goldsteinscale0.67+nummentions0.03193033381712627+numarticles0.032632342277012324+numsources0.03289473684210526+news_keywords+['balkans:0.5393', 'putin:0.4246', 'moscow:0.3964', 'russias:0.3842', 'marchers:0.3545', 'war:0.3204', 'popovic:0.2794', 'celebration:0.2675', 'vday:0.2642', 'populist:0.2599', 'flag:0.2337', 'victim:0.2142', 'displaced:0.2137', 'argument:0.2068', 'embassy:0.2051', 'event:0.2007', 'banja:0.1995', 'wreaths:0.1928', 'relation:0.1867', 'sentiment:0.1813', 'banner:0.1768', 'remain:0.1648', 'organize:0.1617', 'say:0.1501', 'echo:0.1307', 'include:0.1279', 'axis:0.1277', 'right:0.1169', 'official:0.0982', 'portfolio:0.0635']+titles_keywords+['marches:0.4942', 'serbs:0.4314', 'prorussia:0.3524', 'vday:0.3323', 'stage:0.2091']"
+        ]
+    ]
+}

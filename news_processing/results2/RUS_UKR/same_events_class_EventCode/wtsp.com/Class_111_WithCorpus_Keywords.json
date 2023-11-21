@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/wtsp.com/Publix removes Russianmade vodka brands in liquor stores in solidarity with Ukraine.txt+eventbasecode111+eventcode111+avgtone0.5+goldsteinscale0.4+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['vodka:0.5912', 'russian:0.4591', 'russianmade:0.4463', 'ukraine:0.388', 'ruskova:0.3864', 'publix:0.3659', 'stolichnaya:0.3407', 'boycott:0.2975', 'stoli:0.2328', 'product:0.2275', 'smirnoff:0.2232', 'gov:0.166', 'remove:0.1639', 'zyr:0.1618', 'standard:0.1528', 'invasion:0.1507', 'beluga:0.1428', 'pull:0.1396', 'version:0.122', 'shelve:0.1191', 'voluntarily:0.1167', 'spokesperson:0.1078', 'say:0.0897', 'feature:0.0884', 'print:0.0789', 'grow:0.072', 'contrary:0.0712', 'week:0.0669', 'greg:0.0627', 'associationand:-0.0128']+titles_keywords+['vodka:0.5399', 'publix:0.4384', 'russianmade:0.4048', 'ukraine:0.3652', 'solidarity:0.1927']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/wtsp.com/Explosions heard in Kyiv as Russia presses Ukraine assault.txt+eventbasecode111+eventcode111+avgtone0.467527386541471+goldsteinscale0.4+nummentions0.04680696661828737+numarticles0.047498187092095724+numsources0.14144736842105263+news_keywords+['kyiv:0.5199', 'chernobyl:0.468', 'airstrikes:0.3869', 'putin:0.3838', 'nato:0.362', 'disaster:0.3121', 'explode:0.3112', 'oligarchs:0.3068', 'occur:0.3055', 'overthrow:0.2851', 'decommission:0.2762', 'occupy:0.2687', 'conflict:0.2637', 'aggressor:0.2625', 'journalist:0.2489', 'casualty:0.2476', 'predict:0.2316', 'information:0.2136', 'worry:0.2129', 'hear:0.2114', 'imperial:0.1958', 'order:0.1848', 'readied:0.168', 'rewrite:0.1639', 'sinister:0.1634', 'surround:0.1595', 'chorus:0.1521', 'train:0.1492', 'exactly:0.1405', 'pronged:0.1334']+titles_keywords+['kyiv:0.5342', 'explosions:0.4472', 'assault:0.2709', 'heard:0.1441', 'presses:0.1125']"
+        ]
+    ]
+}

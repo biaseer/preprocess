@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+46":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/thejournal.ie/As it happened Russia uses hypersonic missiles as Zelenskyy urges Swiss to freeze oligarchs assets.txt+eventbasecode46+eventcode46+avgtone0.4864864864864865+goldsteinscale0.85+nummentions0.6658200290275762+numarticles0.33321247280638144+numsources0.3684210526315789+news_keywords+['ukraine:0.4808', 'putin:0.4229', 'kyivindependent:0.4103', 'oligarchs:0.3014', 'invasion:0.2952', 'briefing:0.2942', 'threat:0.2909', 'missile:0.2904', 'blockade:0.2853', 'kinzhal:0.2621', 'infrastructure:0.2575', 'instability:0.2449', 'cooperate:0.2437', 'know:0.2375', 'salisbury:0.2271', 'vereshchuk:0.2178', 'safe:0.2166', 'emphasis:0.2108', 'defuse:0.207', 'aviation:0.204', 'update:0.1923', 'secretary:0.1821', 'quick:0.1784', 'comnotlovghkv:0.163', 'end:0.1587', 'world:0.1427', 'independent:0.1315', 'completely:0.129', 'spring:0.1154', 'centre:0.1111']+titles_keywords+['zelenskyy:0.4225', 'hypersonic:0.4182', 'oligarchs:0.4039', 'missiles:0.3979', 'swiss:0.2421']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/thejournal.ie/Kremlin says nothing too promising came from RussiaUkraine peace talks in Istanbul.txt+eventbasecode46+eventcode46+avgtone0.5061188811188811+goldsteinscale0.85+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.5101', 'kremlin:0.4702', 'nato:0.3971', 'moscows:0.3897', 'dmitry:0.3772', 'readiness:0.2936', 'negotiator:0.2786', 'zelenskyy:0.2623', 'separatist:0.2541', 'achieve:0.2509', 'news:0.2462', 'delegation:0.2407', 'understand:0.2371', 'peace:0.2344', 'telegram:0.223', 'fight:0.1988', 'sanction:0.1974', 'unchanged:0.1946', 'order:0.1902', 'liquidate:0.1901', 'step:0.1785', 'say:0.1761', 'outline:0.1726', 'issue:0.1684', 'visit:0.1564', 'donbas:0.152', 'later:0.1503', 'mix:0.1495', 'state:0.14', 'refrain:0.1393']+titles_keywords+['kremlin:0.4612', 'istanbul:0.3399', 'peace:0.2869', 'talks:0.2216', 'promising:0.2093']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20220122+../news_crawling/RUS_UKR/p_articles/thejournal.ie/Russia agrees to talk to US and UK amid growing tensions over Ukraine.txt+eventbasecode46+eventcode46+avgtone0.5+goldsteinscale0.85+nummentions0.18396226415094338+numarticles0.1845540246555475+numsources0.3684210526315789+news_keywords+['nato:0.4677', 'putin:0.4007', 'diplomatic:0.3901', 'kyiv:0.377', 'russias:0.3684', 'war:0.3604', 'invades:0.3189', 'pentagon:0.2968', 'pursue:0.2594', 'crisis:0.2384', 'meet:0.2159', 'manoeuvre:0.21', 'ally:0.2002', 'concern:0.1983', 'know:0.1898', 'future:0.1851', 'forefront:0.1718', 'pledge:0.1717', 'instead:0.1716', 'assistance:0.1688', 'bilateral:0.1622', 'trade:0.1615', 'pull:0.1555', 'reiterate:0.152', 'stability:0.1511', 'step:0.1387', 'discus:0.1303', 'difference:0.1168', 'unconvinced:0.0988', 'paywalls:0.0765']+titles_keywords+['ukraine:0.3439', 'talk:0.2727', 'tensions:0.098', 'agrees:0.0248', 'amid:-0.0384']"
+        ]
+    ]
+}

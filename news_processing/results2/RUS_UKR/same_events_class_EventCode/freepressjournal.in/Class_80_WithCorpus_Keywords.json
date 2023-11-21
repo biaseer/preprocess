@@ -1,0 +1,12 @@
+{
+    "RUS+POL+80":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/RussiaUkraine Crisis Joe Biden Zelenskyy discuss financial aid and security.txt+eventbasecode80+eventcode80+avgtone0.4857142857142857+goldsteinscale0.75+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.013157894736842105+news_keywords+['biden:0.4414', 'ukraine:0.4115', 'russiaukraine:0.3535', 'president:0.3225', 'zelenskyy:0.3182', 'talk:0.2371', 'crisis:0.1847', 'economic:0.1782', 'aid:0.1755', 'telegram:0.1741', 'sanction:0.1713', 'security:0.1656', 'joe:0.1552', 'volodymyr:0.1473', 'military:0.1332', 'receive:0.1287', 'minute:0.0986', 'pair:0.092', 'additional:0.0803', 'sunday:0.0776', 'cost:0.0643', 'click:0.0603', 'offer:0.058', 'share:0.0538', 'discussed:0.0526', 'white:0.0485', 'speed:0.0324', 'house:0.0186', 'paper:0.0143', 'effort:0.0104']+titles_keywords+['biden:0.454', 'zelenskyy:0.3224', 'financial:0.3002', 'aid:0.2551', 'crisis:0.2474']"
+        ]
+    ],
+    "RUS+UKR+80":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/RussiaUkraine war Ukraine refuses to surrender besieged Mariupol.txt+eventbasecode80+eventcode80+avgtone0.49099099099099097+goldsteinscale0.75+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.019736842105263157+news_keywords+['ukraine:0.4903', 'russiaukraine:0.4525', 'surrender:0.3775', 'evacuate:0.3707', 'pravda:0.3659', 'mikhail:0.3557', 'war:0.3418', 'azov:0.3417', 'military:0.3117', 'humanitarian:0.2894', 'manipulation:0.2501', 'telegram:0.2048', 'supply:0.2026', 'news:0.1921', 'mariupol:0.1818', 'safe:0.1806', 'reject:0.1799', 'port:0.1725', 'corridor:0.1693', 'authority:0.1688', 'arm:0.1616', 'immediately:0.1432', 'remark:0.1388', 'pdf:0.1378', 'follow:0.1311', 'write:0.1272', 'col:0.1125', 'agree:0.1051', 'offer:0.0985', 'free:0.066']+titles_keywords+['surrender:0.4139', 'ukraine:0.4045', 'refuses:0.3106', 'mariupol:0.2985', 'war:0.2764']"
+        ]
+    ]
+}

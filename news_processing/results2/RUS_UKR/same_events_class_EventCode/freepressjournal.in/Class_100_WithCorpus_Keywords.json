@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+100":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/Not Putin but Ramzan Kadyrov is the reason behind Elon Musk is now Elona changes.txt+eventbasecode100+eventcode100+avgtone0.49335548172757476+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.006578947368421052+news_keywords+['putin:0.6194', 'kadyrov:0.5328', 'vladimir:0.5076', 'ukraine:0.4235', 'musk:0.4169', 'chechen:0.3854', 'billionaire:0.3692', 'ramzan:0.3064', 'leader:0.2847', 'person:0.2625', 'challenge:0.2429', 'telegram:0.2259', 'republic:0.2204', 'change:0.2188', 'write:0.214', 'don:0.2017', 'know:0.1951', 'afraid:0.1809', 'sign:0.1705', 'reason:0.1505', 'elona:0.1494', 'permit:0.1436', 'month:0.139', 'netizens:0.1259', 'later:0.1185', 'measure:0.0904', 'new:0.0891', 'like:0.0799', 'thank:0.0733', 'unsportsmanlike:0.0704']+titles_keywords+['putin:0.5992', 'musk:0.4462', 'ramzan:0.2633', 'elona:0.2157', 'changes:0.0999']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/RussiaUkraine war NATO condemns Russias invasion calls on Moscow to immediately withdraw from Ukraine read.txt+eventbasecode100+eventcode100+avgtone0.4868603042876902+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['nato:0.51', 'russiaukraine:0.3925', 'russias:0.3636', 'diplomacy:0.354', 'minsk:0.3272', 'escalation:0.2888', 'attack:0.2775', 'agreement:0.2709', 'separatist:0.2521', 'unprovoked:0.2485', 'memorandum:0.241', 'respond:0.2387', 'deploy:0.2334', 'president:0.1919', 'read:0.1763', 'term:0.1755', 'coordinate:0.1752', 'contravenes:0.1745', 'contingency:0.1684', 'order:0.1643', 'sure:0.1513', 'horrify:0.1229', 'include:0.1168', 'whatsapp:0.116', 'long:0.1123', 'closely:0.1022', 'stoltenberg:0.0952', 'maintain:0.0896', 'today:0.0753', 'cost:0.04']+titles_keywords+['nato:0.5017', 'moscow:0.4229', 'invasion:0.3545', 'condemns:0.219', 'immediately:0.2187']"
+        ]
+    ]
+}

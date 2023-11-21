@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/fox43.com/Ukraine Tone improves in Russia talks even as Kyiv is hit.txt+eventbasecode190+eventcode190+avgtone0.473568281938326+goldsteinscale0.0+nummentions0.14622641509433962+numarticles0.14684554024655547+numsources0.18421052631578946+news_keywords+['kyiv:0.513', 'demilitarize:0.3849', 'airstrikes:0.3742', 'evacuate:0.3694', 'putin:0.3644', 'nato:0.358', 'conflict:0.249', 'news:0.2425', 'troop:0.2413', 'underway:0.2377', 'humanitarian:0.2347', 'turn:0.2192', 'neutral:0.2116', 'prepare:0.2058', 'calm:0.2055', 'deliver:0.2032', 'administration:0.1968', 'hear:0.1961', 'increase:0.1896', 'mush:0.183', 'realize:0.1765', 'curfew:0.1652', 'range:0.1586', 'siren:0.1533', 'fall:0.1385', 'isnt:0.134', 'longer:0.1318', 'major:0.1289', 'casert:0.1113', 'bid:0.0983']+titles_keywords+['kyiv:0.5147', 'tone:0.2626', 'talks:0.2289', 'improves:0.2207', 'hit:0.0816']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/fox43.com/Ukraine bans adult males 1860 from leaving the country.txt+eventbasecode190+eventcode190+avgtone0.4716981132075472+goldsteinscale0.0+nummentions0.04100145137880987+numarticles0.04169688179840464+numsources0.039473684210526314+news_keywords+['kyiv:0.4853', 'invasion:0.3769', 'russians:0.3741', 'military:0.3235', 'shelter:0.3099', 'zelenskyy:0.3067', 'prepare:0.2873', 'stay:0.2807', 'ban:0.2375', 'volodymyr:0.2359', 'bomb:0.2155', 'siren:0.1979', 'begin:0.1956', 'fearing:0.1939', 'fight:0.192', 'people:0.1853', 'law:0.1765', 'order:0.1741', 'heard:0.1606', 'cnnand:0.16', 'hour:0.1537', 'mayor:0.1519', 'nearly:0.1367', 'thursday:0.1339', 'male:0.1287', 'arrayed:0.124', 'sector:0.1163', 'unless:0.1091', 'state:0.109', 'deep:0.0875']+titles_keywords+['ukraine:0.4314', 'males:0.2979', '1860:0.26', 'adult:0.2368', 'bans:0.2037']"
+        ]
+    ]
+}

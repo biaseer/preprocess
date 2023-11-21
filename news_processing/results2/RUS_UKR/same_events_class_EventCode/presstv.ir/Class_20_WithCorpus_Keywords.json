@@ -1,0 +1,12 @@
+{
+    "IRN+UKR+20":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/presstv.ir/Irans Experts Assembly calls for immediate end to Ukrainian conflict.txt+eventbasecode20+eventcode20+avgtone0.4823529411764706+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['irans:0.3828', 'islamic:0.3814', 'ukraine:0.3786', 'nato:0.36', 'intergovernmental:0.3197', 'convene:0.2905', 'republic:0.2615', 'leadership:0.2548', 'president:0.2504', 'war:0.2343', 'destabilize:0.2292', 'vladimir:0.2268', 'jurist:0.2127', 'expert:0.2058', 'members:0.2031', 'vote:0.1829', 'assembly:0.1796', 'term:0.1727', 'issue:0.1678', 'state:0.1674', 'entity:0.1531', 'current:0.1436', 'review:0.1397', 'end:0.1338', 'february:0.1316', 'andthe:0.0981', 'late:0.0951', 'monitor:0.0906', 'ninth:0.09', 'page:0.0856']+titles_keywords+['ukrainian:0.3477', 'irans:0.3139', 'immediate:0.2353', 'experts:0.2027', 'end:0.2007']"
+        ]
+    ],
+    "RUS+RUS+20":[
+        [
+            "20220430+../news_crawling/RUS_UKR/p_articles/presstv.ir/Analyst Pentagon spokesman has complete disregard for human life.txt+eventbasecode20+eventcode20+avgtone0.48214285714285715+goldsteinscale0.65+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.5172', 'ukrainian:0.4382', 'sociopathy:0.3859', 'pentagon:0.3362', 'military:0.3078', 'psychology:0.3076', 'conflict:0.3005', 'conspirator:0.2779', 'justify:0.2694', 'human:0.2581', 'nerve:0.2373', 'dissociative:0.2346', 'spokesperson:0.2322', 'disregard:0.2194', 'don:0.2163', 'emphasis:0.2162', 'mature:0.2149', 'training:0.2063', 'discus:0.1935', 'perfect:0.1652', 'false:0.1595', 'states:0.1527', 'receive:0.147', 'plan:0.1403', 'begin:0.1332', 'kirby:0.1325', 'recent:0.1236', 'hand:0.1199', 'dozen:0.1055', 'tomorrow:0.0649']+titles_keywords+['pentagon:0.4233', 'spokesman:0.2635', 'disregard:0.2497', 'human:0.223', 'complete:-0.0144']"
+        ]
+    ]
+}

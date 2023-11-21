@@ -1,0 +1,17 @@
+{
+    "BLR+RUS+10":[
+        [
+            "20210902+../news_crawling/RUS_UKR/p_articles/local10.com/Leader says Belarus expects big shipment of Russian weapons.txt+eventbasecode10+eventcode10+avgtone0.47248576850094876+goldsteinscale0.5+nummentions0.0660377358490566+numarticles0.06671501087744743+numsources0.05592105263157895+news_keywords+['belarus:0.5164', 'kremlin:0.4574', 'lukashenko:0.4213', 'treaty:0.4112', 'war:0.3759', 'authoritarian:0.3209', 'election:0.2951', 'acquisition:0.2866', 'independence:0.2516', 'upcoming:0.2411', 'sanction:0.24', 'prepare:0.2393', 'rhetoric:0.2336', 'concern:0.2324', 'trigger:0.2319', 'agreement:0.2295', 'secure:0.2263', 'allegation:0.2079', 'shipment:0.1981', 'involve:0.19', 'document:0.1859', 'envisages:0.182', 'grow:0.1647', 'emphasize:0.1555', 'deprive:0.1423', 'direction:0.1302', 'integration:0.1213', 'backbone:0.1141', 'possibly:0.0909', 'limit:0.0523']+titles_keywords+['belarus:0.3827', 'shipment:0.3335', 'weapons:0.251', 'expects:0.1479', 'big:0.1373']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20211019+../news_crawling/RUS_UKR/p_articles/local10.com/US defense secretary underlines support for Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4882005899705015+goldsteinscale0.5+nummentions0.05805515239477504+numarticles0.05873821609862219+numsources0.09868421052631579+news_keywords+['crimea:0.4989', 'ukraines:0.4721', 'natos:0.4426', 'kremlin:0.4097', 'war:0.2939', 'destabilizing:0.2836', 'zelenskyy:0.2704', 'separatist:0.2619', 'standoff:0.2536', 'veto:0.251', 'sovereignty:0.2502', 'presidential:0.2417', 'cyberattacks:0.2162', 'concern:0.2109', 'erupt:0.1872', 'ally:0.1869', 'secretary:0.1801', 'austin:0.1778', 'talk:0.1763', 'expect:0.1759', 'continue:0.1649', 'emphasize:0.1609', 'reserve:0.1572', 'tense:0.1433', 'heard:0.1346', 'visit:0.1297', 'eastern:0.1218', 'right:0.109', 'sure:0.1083', 'major:0.0798']+titles_keywords+['ukraine:0.4088', 'support:0.219', 'defense:0.2154', 'secretary:0.1679', 'underlines:0.0587']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20210607+../news_crawling/RUS_UKR/p_articles/local10.com/MH17 trial moves to crucial merits phase examining evidence.txt+eventbasecode10+eventcode10+avgtone0.4702380952380952+goldsteinscale0.5+nummentions0.023222060957910014+numarticles0.023930384336475707+numsources0.05263157894736842+news_keywords+['ukraine:0.3838', 'investigation:0.3781', 'kremlin:0.3688', 'victim:0.3242', 'boeing:0.3215', 'oleg:0.312', 'courtroom:0.3119', 'kuala:0.2954', 'wreckage:0.2825', 'pulatov:0.2334', 'absentia:0.2287', 'blame:0.2286', 'missile:0.2278', 'conflict:0.2169', 'preliminary:0.2028', 'military:0.1816', 'die:0.1808', 'know:0.1711', 'rewritten:0.1486', 'hendrik:0.1406', 'buk:0.1397', 'photo:0.131', 'mh:0.1287', 'broadcast:0.1172', 'bring:0.1142', 'associated:0.1092', 'hour:0.1079', 'wednesday:0.097', 'year:0.0841', 'unlike:0.0705']+titles_keywords+['trial:0.4565', 'mh17:0.3631', 'evidence:0.3376', 'merits:0.2981', 'examining:0.2535']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "DNK+RUS+30":[
+        [
+            "20220812+../news_crawling/RUS_UKR/p_articles/euobserver.com/Donors pledge 15bn to Ukraines war effort.txt+eventbasecode30+eventcode30+avgtone0.4932432432432432+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraines:0.5333', 'russia:0.4463', 'war:0.3912', 'pledge:0.357', 'military:0.3465', 'bn:0.3273', 'donors:0.3213', 'bdskov:0.3126', 'aid:0.2967', 'danish:0.2562', 'defence:0.2368', 'increase:0.2361', 'capability:0.2231', 'boost:0.1903', 'conference:0.1783', 'international:0.161', 'hear:0.1609', 'effort:0.1596', 'alongside:0.1513', 'cost:0.1489', 'membership:0.146', 'make:0.1434', 'secretary:0.1433', 'love:0.1381', 'feedback:0.1336', 'morten:0.1273', 'appreciate:0.1248', 'ben:0.1028', 'story:0.1006', 'state:0.0903']+titles_keywords+['ukraines:0.508', '15bn:0.3904', 'donors:0.3344', 'war:0.2762', 'pledge:0.2673']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220516+../news_crawling/RUS_UKR/p_articles/euobserver.com/EUUS pledge to counter Russian propaganda in Ukraine.txt+eventbasecode30+eventcode30+avgtone0.46951219512195125+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.5296', 'euus:0.4264', 'eu:0.4253', 'pledge:0.3549', 'economy:0.3083', 'disinformation:0.305', 'war:0.2851', 'supply:0.2409', 'secure:0.2385', 'order:0.2126', 'global:0.1913', 'facilitate:0.1877', 'hear:0.1856', 'statement:0.1812', 'demonstrate:0.1792', 'paris:0.1698', 'monday:0.1607', 'love:0.1552', 'summit:0.1421', 'trade:0.1399', 'feedback:0.1334', 'rebuild:0.1187', 'counter:0.1092', 'appreciate:0.0983', 'story:0.0932', 'chain:0.0877', 'transparent:0.0664', 'particular:0.0638', 'atwo:0.0468', 'interferencecan:0.0238']+titles_keywords+['ukraine:0.4761', 'propaganda:0.4404', 'euus:0.4303', 'pledge:0.363', 'counter:0.0855']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+14":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Britain says Ukraine has retaken key northern terrain.txt+eventbasecode14+eventcode14+avgtone0.4642857142857143+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5435', 'putins:0.3846', 'war:0.3108', 'chernihiv:0.3036', 'redeploy:0.2877', 'refurbishment:0.2605', 'north:0.2319', 'sanction:0.227', 'embassy:0.2129', 'announce:0.2075', 'ally:0.2043', 'report:0.2042', 'butchery:0.1909', 'continue:0.1841', 'assistance:0.1757', 'monday:0.1693', 'bucha:0.1692', 'terrain:0.167', 'sexual:0.163', 'irpin:0.1572', 'truss:0.1527', 'strong:0.1486', 'efe:0.1429', 'organization:0.1414', 'say:0.1281', 'new:0.1156', 'diminish:0.0942', 'significant:0.0845', 'million:0.0681', 'likely:0.0089']+titles_keywords+['ukraine:0.4498', 'northern:0.3291', 'retaken:0.2655', 'terrain:0.2638', 'says:0.0592']"
+        ]
+    ],
+    "RUS+UKR+14":[
+        [
+            "20211126+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Ukraine president accuses Russia of coup plot warns of invasion.txt+eventbasecode14+eventcode14+avgtone0.467687074829932+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4437', 'coup:0.383', 'kremlin:0.3753', 'akhmetov:0.3016', 'zelenskyi:0.2905', 'invasion:0.2848', 'oligarchs:0.279', 'concern:0.2318', 'warn:0.2308', 'president:0.2156', 'accuse:0.2106', 'leave:0.2007', 'plan:0.1918', 'military:0.1681', 'believe:0.1677', 'donbas:0.1671', 'orchestrate:0.1645', 'independent:0.1607', 'fight:0.1572', 'successful:0.1505', 'statement:0.1404', 'power:0.1321', 'sure:0.1286', 'rotation:0.1235', 'early:0.1152', 'efe:0.0884', 'number:0.0851', 'increase:0.0837', 'wouldnt:0.0654', 'man:0.0567']+titles_keywords+['ukraine:0.3702', 'coup:0.2695', 'invasion:0.201', 'accuses:0.1965', 'president:0.1664']"
+        ]
+    ],
+    "UKR+RUS+14":[
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Putin wants Korean scenario for Ukraine Kyiv warns.txt+eventbasecode14+eventcode14+avgtone0.5+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.4506', 'putin:0.3736', 'russias:0.3072', 'annex:0.2853', 'korean:0.2697', 'scenario:0.2679', 'negotiation:0.2459', 'takeover:0.2392', 'separatist:0.2186', 'want:0.2113', 'budanov:0.2042', 'sovereignty:0.198', 'intend:0.1799', 'corridor:0.1772', 'result:0.1769', 'president:0.1541', 'phase:0.1499', 'warn:0.1498', 'divide:0.1431', 'donbas:0.1426', 'command:0.1408', 'north:0.1334', 'state:0.117', 'believe:0.1114', 'complete:0.1037', 'efe:0.092', 'concentrating:0.0876', 'kyrylo:0.082', 'friday:0.062', 'similar:0.055']+titles_keywords+['ukraine:0.4381', 'putin:0.4002', 'korean:0.2641', 'scenario:0.2201', 'warns:0.1807']"
+        ]
+    ]
+}

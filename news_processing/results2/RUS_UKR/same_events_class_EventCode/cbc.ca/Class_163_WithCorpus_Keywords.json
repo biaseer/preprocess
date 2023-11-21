@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+163":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/cbc.ca/Nutrien earns 14B US hikes guidance as Ukraine war drives fertilizer demand.txt+eventbasecode163+eventcode163+avgtone0.5008488964346349+goldsteinscale0.1+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.003289473684210526+news_keywords+['potashcorp:0.5548', 'stock:0.3847', 'production:0.3639', 'agriculture:0.3416', 'commodity:0.3338', 'nutrient:0.3179', 'earnings:0.3101', 'merger:0.3095', 'saskatchewan:0.3021', 'ceo:0.3011', 'geopolitical:0.2906', 'increase:0.284', 'announcement:0.2753', 'russiaukraine:0.2343', 'concern:0.2282', 'surging:0.2237', 'report:0.2134', 'term:0.2071', 'solution:0.1871', 'forecast:0.1868', 'significant:0.185', 'month:0.1835', 'tonne:0.1783', 'previous:0.1763', 'world:0.1662', 'basis:0.1546', 'feasibility:0.1474', 'schmidt:0.1346', 'main:0.1323', 'open:0.1275']+titles_keywords+['nutrien:0.4481', 'fertilizer:0.377', 'ukraine:0.232', '14b:0.2014', 'demand:0.2008']"
+        ]
+    ],
+    "CAN+RUS+163":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/cbc.ca/Some Russians in Sask disavow their countrys invasion of Ukraine.txt+eventbasecode163+eventcode163+avgtone0.4781553398058252+goldsteinscale0.1+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5167', 'soviet:0.4704', 'ukranians:0.4595', 'invasion:0.3141', 'humanitarian:0.2898', 'protest:0.2837', 'chernov:0.2818', 'sask:0.2817', 'tragedy:0.2374', 'cbc:0.2319', 'regime:0.2231', 'bombed:0.2188', 'people:0.2185', 'feel:0.2013', 'disavow:0.1832', 'gennadiy:0.1802', 'againstputin:0.1792', 'attention:0.1724', 'friend:0.1675', 'grow:0.1523', 'divide:0.1387', 'th:0.136', 'february:0.1155', 'thousand:0.1145', 'far:0.11', 'tumble:0.1073', 'centre:0.0957', 'saidhe:0.0803', 'send:0.0658', 'absolutely:0.0479']+titles_keywords+['ukraine:0.5124', 'russians:0.4861', 'sask:0.3628', 'disavow:0.3356', 'invasion:0.2481']"
+        ]
+    ]
+}

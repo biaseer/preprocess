@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+20":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/thenational.scot/Glasgow cuts ties with twin city RostovonDon after Russia invades Ukraine.txt+eventbasecode20+eventcode20+avgtone0.48350253807106597+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5731', 'glasgow:0.4581', 'ukrainians:0.4525', 'rostovondon:0.4218', 'putin:0.3747', 'invade:0.3076', 'capital:0.2911', 'civiliansare:0.2753', 'solidarity:0.2712', 'debate:0.2534', 'unprovoked:0.2525', 'arrangement:0.2241', 'rescind:0.2147', 'tie:0.2051', 'know:0.2033', 'section:0.1904', 'aftervladimir:0.1885', 'administration:0.179', 'write:0.1725', 'agree:0.1702', 'future:0.164', 'vile:0.16', 'sturgeon:0.1566', 'lively:0.1513', 'story:0.1511', 'major:0.1503', 'register:0.137', 'fake:0.1338', 'weve:0.1235', 'thats:0.1097']+titles_keywords+['rostovondon:0.4996', 'glasgow:0.48', 'ukraine:0.3923', 'invades:0.2138', 'twin:0.0752']"
+        ]
+    ],
+    "POL+RUS+20":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/thenational.scot/Ukraine crisis Volodymyr Zelenskyy says UK helping thanks to public pressure.txt+eventbasecode20+eventcode20+avgtone0.4864226682408501+goldsteinscale0.65+nummentions0.2144412191582003+numarticles0.21501087744742567+numsources0.3223684210526316+news_keywords+['ukraines:0.4567', 'putin:0.4174', 'nato:0.3757', 'war:0.3335', 'debate:0.2995', 'neutrality:0.2911', 'escalation:0.2571', 'macron:0.2556', 'overthrow:0.2482', 'border:0.2001', 'journalist:0.1985', 'remain:0.1888', 'respond:0.1856', 'volodymyr:0.1816', 'informed:0.1792', 'logistically:0.1784', 'split:0.1783', 'want:0.1727', 'note:0.1626', 'spin:0.1504', 'end:0.1502', 'agree:0.1236', 'ready:0.1231', 'alternative:0.1222', 'hesitant:0.0979', 'unlike:0.0954', 'mistake:0.0948', 'weve:0.0874', 'focus:0.0806', 'prime:0.0582']+titles_keywords+['ukraine:0.4319', 'zelenskyy:0.3974', 'helping:0.2223', 'pressure:0.2049', 'public:0.0892']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220704+../news_crawling/RUS_UKR/p_articles/thenational.scot/Anas Sarwar suggests Vladimir Putin would back Scottish independence.txt+eventbasecode20+eventcode20+avgtone0.4958563535911602+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4758', 'unionist:0.4211', 'scotland:0.3882', 'sarwar:0.3622', 'brexit:0.3566', 'independence:0.3354', 'debate:0.2973', 'nicola:0.2764', 'reform:0.2685', 'peace:0.2349', 'ban:0.2302', 'forth:0.2292', 'section:0.2157', 'sturgeons:0.1808', 'say:0.1766', 'important:0.176', 'risk:0.1747', 'misuse:0.1684', 'register:0.1612', 'informed:0.1594', 'arent:0.1575', 'weve:0.1535', 'wider:0.1446', 'stand:0.1379', 'want:0.1375', 'vocal:0.1293', 'yes:0.1228', 'passionately:0.1148', 'pretty:0.0941', 'invokedputin:0.074']+titles_keywords+['putin:0.5138', 'sarwar:0.4431', 'independence:0.3015', 'scottish:0.2982', 'anas:0.2562']"
+        ]
+    ]
+}

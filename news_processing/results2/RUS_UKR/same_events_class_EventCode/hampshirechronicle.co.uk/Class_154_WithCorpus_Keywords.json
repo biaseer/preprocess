@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+154":[
+        [
+            "20220131+../news_crawling/RUS_UKR/p_articles/hampshirechronicle.co.uk/Johnson to fly to Ukraine for crisis talks amid fears of Russian attack.txt+eventbasecode154+eventcode154+avgtone0.4809451219512195+goldsteinscale0.13999999999999999+nummentions0.036284470246734396+numarticles0.03698332124728064+numsources0.039473684210526314+news_keywords+['putin:0.4635', 'natos:0.426', 'kyiv:0.39', 'diplomatic:0.3679', 'war:0.3267', 'undermine:0.2885', 'escalate:0.2796', 'crisis:0.2732', 'orban:0.2671', 'agreement:0.2564', 'ahead:0.2541', 'instability:0.254', 'secure:0.2447', 'accompany:0.2445', 'administration:0.2443', 'incursion:0.2416', 'debate:0.236', 'sanction:0.2356', 'plan:0.2071', 'british:0.2014', 'east:0.1957', 'fear:0.1862', 'push:0.1814', 'counterpart:0.1747', 'monday:0.1631', 'know:0.1616', 'johnson:0.1585', 'step:0.1506', 'far:0.1199', 'price:0.0536']+titles_keywords+['ukraine:0.3272', 'johnson:0.2981', 'fly:0.23', 'fears:0.1435', 'crisis:0.1339']"
+        ]
+    ],
+    "RUS+UKR+154":[
+        [
+            "20220822+../news_crawling/RUS_UKR/p_articles/hampshirechronicle.co.uk/Vladimir Putin lauds Russian national flag and selfdetermination.txt+eventbasecode154+eventcode154+avgtone0.5157232704402516+goldsteinscale0.13999999999999999+nummentions0.18359941944847605+numarticles0.18419144307469182+numsources0.16447368421052633+news_keywords+['putin:0.5481', 'russian:0.4569', 'vladimir:0.4536', 'ukraine:0.424', 'russias:0.4167', 'flag:0.384', 'motherland:0.2621', 'military:0.2501', 'laud:0.1775', 'national:0.1748', 'ceremony:0.1739', 'privilege:0.1596', 'important:0.155', 'symbol:0.1507', 'debate:0.1215', 'pursue:0.1196', 'cite:0.1147', 'right:0.1093', 'genetic:0.0952', 'mr:0.0877', 'open:0.0852', 'week:0.0833', 'say:0.0833', 'misuse:0.073', 'sing:0.0682', 'effectively:0.0653', 'story:0.0636', 'send:0.0365', 'selfdetermination:0.0273', 'accord:0.0084']+titles_keywords+['putin:0.5318', 'flag:0.2652', 'lauds:0.2402', 'national:0.2183', 'selfdetermination:0.1966']"
+        ]
+    ]
+}

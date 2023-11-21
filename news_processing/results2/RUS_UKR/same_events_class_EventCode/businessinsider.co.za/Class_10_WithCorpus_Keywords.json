@@ -1,0 +1,12 @@
+{
+    "CHE+RUS+10":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/businessinsider.co.za/Russia claims to have fired its Dagger hypersonic ballistic missile for the first time during.txt+eventbasecode10+eventcode10+avgtone0.49092284417549165+goldsteinscale0.5+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['missile:0.4774', 'russia:0.3939', 'hypersonic:0.3818', 'kinzhal:0.3341', 'reconnaissance:0.3094', 'war:0.2653', 'igor:0.2653', 'orbit:0.2434', 'launch:0.2346', 'pursue:0.2169', 'maneuverability:0.2109', 'destroy:0.2085', 'mach:0.1992', 'intercept:0.1972', 'reach:0.1881', 'farthest:0.18', 'fly:0.1782', 'news:0.1685', 'bastion:0.1564', 'altitude:0.1544', 'port:0.1271', 'contrast:0.1149', 'understand:0.1035', 'time:0.0848', 'incoming:0.0838', 'significant:0.0767', 'large:0.0698', 'body:0.0685', 'true:0.063', 'terminally:0.0544']+titles_keywords+['missile:0.4126', 'hypersonic:0.4001', 'russia:0.3599', 'invasion:0.2161', 'time:0.0715']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/businessinsider.co.za/Zelenskyy praised Elon Musks Starlink for saving Ukraine from Russian propaganda in Wired interview.txt+eventbasecode10+eventcode10+avgtone0.48919753086419754+goldsteinscale0.5+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['ukraine:0.4953', 'zelenskyy:0.424', 'vladimir:0.4188', 'satellite:0.393', 'infrastructure:0.3686', 'propaganda:0.3391', 'starlink:0.3368', 'cyberattacks:0.3323', 'blockade:0.3217', 'musk:0.2956', 'invade:0.2741', 'operate:0.2612', 'contact:0.2391', 'disconnect:0.238', 'troop:0.2177', 'help:0.2131', 'coverage:0.211', 'overcome:0.2093', 'occupied:0.2042', 'publish:0.1868', 'cell:0.1855', 'believe:0.1726', 'begin:0.1689', 'direction:0.1633', 'far:0.1618', 'praise:0.1614', 'moment:0.1465', 'completely:0.1424', 'friday:0.1117', 'instrumental:0.0721']+titles_keywords+['zelenskyy:0.5148', 'musks:0.377', 'starlink:0.372', 'ukraine:0.3342', 'propaganda:0.2843']"
+        ]
+    ]
+}

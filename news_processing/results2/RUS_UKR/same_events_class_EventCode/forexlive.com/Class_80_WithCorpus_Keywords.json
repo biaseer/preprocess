@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/forexlive.com/Kremlin says Russia can halt Ukraine operations if Kyiv meets Moscows conditions.txt+eventbasecode80+eventcode80+avgtone0.4945054945054945+goldsteinscale0.75+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.5293', 'ukraine:0.4797', 'kyiv:0.4705', 'donetsk:0.4055', 'kremlin:0.3857', 'nato:0.3174', 'moscows:0.2809', 'operation:0.2027', 'talk:0.1771', 'halt:0.1662', 'play:0.1625', 'situation:0.1582', 'bloc:0.146', 'stand:0.1424', 'say:0.1358', 'enter:0.1342', 'reject:0.1332', 'state:0.1308', 'independent:0.1281', 'meet:0.1207', 'expect:0.1172', 'claim:0.0975', 'constitution:0.0898', 'course:0.0891', 'pretty:0.0782', 'basis:0.0764', 'yup:0.0761', 'recognise:0.0722', 'ground:0.0657', 'caveat:0.02']+titles_keywords+['kyiv:0.4758', 'kremlin:0.3707', 'halt:0.1869', 'conditions:0.1441', 'says:0.0567']"
+        ],
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/forexlive.com/Germanys Scholz Putin wont get sanctions lifted without Ukraine peace agreement.txt+eventbasecode80+eventcode80+avgtone0.4878048780487804+goldsteinscale0.75+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['crimea:0.4245', 'putin:0.4213', 'sanction:0.4036', 'ukraine:0.3847', 'russia:0.3283', 'withdraw:0.265', 'germanys:0.2346', 'agreement:0.2288', 'wont:0.1806', 'peace:0.1747', 'scholz:0.1593', 'barring:0.1473', 'revolution:0.1289', 'wait:0.1008', 'assume:0.0995', 'year:0.0937', 'lift:0.0718', 'kind:0.044', 'way:0.0421', 'style:0.0258']+titles_keywords+['putin:0.4966', 'scholz:0.3274', 'germanys:0.2871', 'agreement:0.2402', 'wont:0.2333']"
+        ]
+    ]
+}

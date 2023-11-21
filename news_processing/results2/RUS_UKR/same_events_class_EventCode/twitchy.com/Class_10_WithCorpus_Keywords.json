@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/twitchy.com/Russia explains that theyre simply concerned about Ukraine armys provocative actions that have only intensified.txt+eventbasecode10+eventcode10+avgtone0.4855072463768116+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4823', 'kremlin:0.4462', 'russians:0.4283', 'dmitry:0.3433', 'invade:0.3049', 'flag:0.2761', 'troop:0.2541', 'zelensky:0.2364', 'ufos:0.2079', 'concerned:0.2022', 'know:0.1913', 'provocative:0.1801', 'reporter:0.177', 'explain:0.1669', 'cod:0.1396', 'people:0.1271', 'theyre:0.1268', 'excuse:0.123', 'situation:0.1195', 'bug:0.1183', 'look:0.114', 'actual:0.0953', 'believe:0.0928', 'morning:0.09', 'yy:0.0782', 'word:0.071', 'usually:0.07', 'spox:0.0524', 'pic:0.0424', 'http:0.0085']+titles_keywords+['ukraine:0.4493', 'concerned:0.3018', 'actions:0.1923', 'explains:0.1618', 'theyre:0.1293']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20211207+../news_crawling/RUS_UKR/p_articles/twitchy.com/Ukraine has nothing to worry about because Joe Biden made it very clear to Vladimir.txt+eventbasecode10+eventcode10+avgtone0.49497487437185933+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5354', 'ukraine:0.4466', 'presidency:0.3423', 'escalation:0.2899', 'strategy:0.2472', 'worry:0.2438', 'bidens:0.2431', 'allies:0.228', 'spin:0.21', 'clear:0.1836', 'admin:0.1824', 'earth:0.1759', 'iron:0.1746', 'speak:0.1693', 'prius:0.1629', 'readout:0.1435', 'deep:0.1417', 'couswtvvb:0.1398', 'potential:0.1362', 'highlight:0.1307', 'early:0.1279', 'mashup:0.1238', 'edy:0.1218', 'shudder:0.1209', 'great:0.1121', 'wont:0.112', 'pas:0.102', 'price:0.0793', 'define:0.0756', 'doesnt:0.0218']+titles_keywords+['ukraine:0.475', 'putin:0.4484', 'worry:0.3658', 'biden:0.3382', 'deep:0.0606']"
+        ]
+    ]
+}

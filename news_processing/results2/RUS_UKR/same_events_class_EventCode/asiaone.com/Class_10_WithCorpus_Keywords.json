@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/asiaone.com/Ukraines Zelenskiy skeptical about Russian pullback near Kyiv.txt+eventbasecode10+eventcode10+avgtone0.47534246575342465+goldsteinscale0.5+nummentions0.08962264150943396+numarticles0.09028281363306744+numsources0.10197368421052631+news_keywords+['kyiv:0.5137', 'ukraines:0.487', 'invade:0.374', 'briefing:0.3162', 'pentagon:0.2804', 'resupply:0.2732', 'troop:0.2527', 'separatist:0.2507', 'prepare:0.2484', 'reposition:0.2483', 'emergency:0.2452', 'threat:0.245', 'news:0.2295', 'turn:0.2214', 'northern:0.2184', 'unprovoked:0.2121', 'rouble:0.2111', 'economy:0.211', 'learn:0.2033', 'stay:0.1851', 'pullback:0.1826', 'axis:0.1809', 'result:0.1795', 'say:0.1491', 'nearly:0.1393', 'major:0.1359', 'trade:0.1323', 'focus:0.1301', 'month:0.1229', 'kilowatt:0.069']+titles_keywords+['kyiv:0.5198', 'zelenskiy:0.5047', 'pullback:0.2609', 'skeptical:0.2419', 'near:0.1151']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/asiaone.com/Ukrainians say hackers used local government sites to spread fake capitulation news.txt+eventbasecode10+eventcode10+avgtone0.45474137931034475+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kremlin:0.4853', 'kyiv:0.4761', 'ukrainians:0.4461', 'russia:0.4305', 'hacking:0.4071', 'spy:0.3577', 'hijack:0.335', 'government:0.329', 'misinformation:0.3099', 'invasion:0.2833', 'news:0.2775', 'report:0.2516', 'debunk:0.2504', 'ghostwriterwhich:0.2428', 'website:0.2328', 'false:0.2189', 'researchers:0.2042', 'official:0.1658', 'protection:0.1553', 'capitulation:0.1533', 'fight:0.1344', 'state:0.1286', 'sign:0.1107', 'year:0.1017', 'springboard:0.1009', 'track:0.0993', 'number:0.0978', 'end:0.0858', 'make:0.0842', 'offer:0.026']+titles_keywords+['ukrainians:0.414', 'fake:0.2648', 'news:0.2528', 'capitulation:0.2502', 'sites:0.1874']"
+        ],
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/asiaone.com/UK sanctions Russian President Vladimir Putins daughters.txt+eventbasecode10+eventcode10+avgtone0.47797356828193827+goldsteinscale0.5+nummentions0.015239477503628448+numarticles0.01595358955765047+numsources0.023026315789473683+news_keywords+['putin:0.561', 'putins:0.5197', 'kremlin:0.4889', 'soviet:0.4408', 'moscow:0.4333', 'sergei:0.3691', 'sanction:0.34', 'daughter:0.2642', 'katerina:0.2528', 'recession:0.2459', 'vinokurova:0.2271', 'uk:0.2241', 'targetting:0.1738', 'currency:0.171', 'wealthy:0.1687', 'secretary:0.165', 'invasion:0.1604', 'announce:0.1569', 'list:0.142', 'military:0.1419', 'head:0.1373', 'statement:0.1348', 'degrade:0.1236', 'update:0.1215', 'unprecedented:0.1173', 'freeze:0.1124', 'access:0.1057', 'deep:0.0991', 'scale:0.087', 'truss:0.0822']+titles_keywords+['putins:0.4905', 'sanctions:0.4701', 'daughters:0.3716', 'russian:0.3338', 'uk:0.2054']"
+        ]
+    ]
+}

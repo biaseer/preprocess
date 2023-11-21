@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+30":[
+        [
+            "20220729+../news_crawling/RUS_UKR/p_articles/cbc.ca/Gazprom claims CanadatoGermany gas turbine transfer not in step with contract.txt+eventbasecode30+eventcode30+avgtone0.47264770240700216+goldsteinscale0.7+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.01644736842105263+news_keywords+['siemens:0.4008', 'ukraine:0.3906', 'gazprom:0.3731', 'canadatogermany:0.3327', 'turbine:0.3234', 'kremlin:0.3177', 'pipeline:0.3031', 'gas:0.2768', 'supply:0.248', 'report:0.2385', 'accuse:0.2368', 'cite:0.2362', 'executive:0.197', 'contract:0.1969', 'risk:0.1939', 'downtime:0.1918', 'nord:0.1857', 'repair:0.1719', 'problem:0.1607', 'statement:0.1514', 'respond:0.15', 'arrive:0.1428', 'troop:0.1358', 'vitaly:0.1269', 'link:0.1266', 'deepen:0.1212', 'row:0.1073', 'send:0.1064', 'normally:0.0994', 'feb:0.0759']+titles_keywords+['gazprom:0.4205', 'canadatogermany:0.3576', 'contract:0.2687', 'turbine:0.2238', 'transfer:0.2222']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/cbc.ca/Eastern European businesses in BC feel impact of RussiaUkraine conflict.txt+eventbasecode30+eventcode30+avgtone0.4852941176470588+goldsteinscale0.7+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['ukraine:0.5235', 'russiaukraine:0.4731', 'war:0.3466', 'invasion:0.3381', 'refugee:0.2777', 'flags:0.2621', 'cbc:0.1918', 'tension:0.1918', 'news:0.1897', 'heritage:0.1751', 'communicate:0.1743', 'order:0.173', 'stay:0.1532', 'difference:0.1453', 'effect:0.1404', 'big:0.1367', 'everybody:0.1298', 'main:0.1216', 'horrific:0.1207', 'bakery:0.1191', 'bit:0.118', 'begin:0.1174', 'everyday:0.1153', 'cause:0.1131', 'maggie:0.1084', 'feb:0.1023', 'various:0.0982', 'like:0.0977', 'instantaneously:0.0892', 'servos:0.0812']+titles_keywords+['russiaukraine:0.4137', 'bc:0.2963', 'conflict:0.293', 'businesses:0.2375', 'impact:0.1451']"
+        ]
+    ]
+}

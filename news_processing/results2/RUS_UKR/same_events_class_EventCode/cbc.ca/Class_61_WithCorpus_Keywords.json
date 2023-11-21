@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+61":[
+        [
+            "20220718+../news_crawling/RUS_UKR/p_articles/cbc.ca/Russias Gazprom further cuts gas flow to Europe by half amid turbine dispute.txt+eventbasecode61+eventcode61+avgtone0.47658227848101264+goldsteinscale0.82+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.385', 'russias:0.376', 'gas:0.3589', 'pipeline:0.3545', 'gazprom:0.3173', 'recession:0.2988', 'turbine:0.2898', 'siemens:0.281', 'germany:0.2581', 'disruption:0.2529', 'nord:0.2458', 'current:0.2137', 'reduce:0.2125', 'ration:0.2027', 'world:0.1872', 'urgent:0.175', 'cite:0.172', 'accuse:0.1607', 'gmt:0.1593', 'statement:0.1514', 'stoppage:0.1432', 'explanation:0.1391', 'begin:0.1369', 'foreshadow:0.1339', 'thursday:0.1274', 'export:0.1265', 'military:0.1229', 'uniper:0.099', 'link:0.0915', 'normal:0.0608']+titles_keywords+['gazprom:0.4436', 'gas:0.319', 'russias:0.2512', 'turbine:0.1761', 'half:0.1289']"
+        ]
+    ],
+    "GBR+RUS+61":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/cbc.ca/Ukraines eastern towns bombarded Russia offers fasttrack citizenship to people in occupied regions.txt+eventbasecode61+eventcode61+avgtone0.47164078325455777+goldsteinscale0.82+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.09868421052631579+news_keywords+['crimea:0.4739', 'putin:0.4628', 'pokrovsk:0.3174', 'war:0.2884', 'briefing:0.2797', 'occupy:0.2788', 'statesannounced:0.2558', 'separatist:0.2426', 'soon:0.2379', 'crisis:0.2241', 'zelenskysaid:0.2173', 'negotiate:0.2051', 'plan:0.205', 'extend:0.1916', 'treasury:0.176', 'cite:0.1747', 'tell:0.174', 'subsequent:0.1642', 'feb:0.1564', 'eastern:0.1536', 'focusedattacks:0.145', 'oust:0.1433', 'comparison:0.1352', 'return:0.1243', 'track:0.1072', 'donets:0.1053', 'possible:0.0929', 'agree:0.0777', 'anytime:0.0669', 'exporter:0.0476']+titles_keywords+['ukraines:0.4438', 'citizenship:0.3359', 'towns:0.2104', 'bombarded:0.1613', 'fasttrack:0.1586']"
+        ]
+    ]
+}

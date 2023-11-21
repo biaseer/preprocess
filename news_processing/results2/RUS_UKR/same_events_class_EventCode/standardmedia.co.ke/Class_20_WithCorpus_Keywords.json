@@ -1,0 +1,23 @@
+{
+    "KEN+RUS+20":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/standardmedia.co.ke/Kenya invokes colonial past calls for an amicable end to RussiaUkraine dispute.txt+eventbasecode20+eventcode20+avgtone0.4877800407331976+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kenya:0.4914', 'colonialism:0.3878', 'ukraines:0.3623', 'peacekeeping:0.3534', 'diplomatic:0.3209', 'ethnic:0.3088', 'vladimir:0.2673', 'justify:0.2445', 'federation:0.2444', 'border:0.2263', 'dispute:0.2178', 'pursue:0.2171', 'know:0.2019', 'homogeneity:0.1986', 'inherit:0.1677', 'termed:0.1549', 'cut:0.1478', 'state:0.1461', 'integration:0.1415', 'distant:0.1349', 'metropoles:0.1255', 'dangerous:0.1202', 'make:0.1082', 'deep:0.1027', 'end:0.099', 'reading:0.0983', 'underscore:0.0918', 'past:0.0855', 'invoke:0.0681', 'add:0.0504']+titles_keywords+['kenya:0.4297', 'russiaukraine:0.3754', 'dispute:0.2634', 'amicable:0.2449', 'past:0.122']"
+        ],
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/standardmedia.co.ke/Russia is the global supplier of destruction misery and hunger.txt+eventbasecode20+eventcode20+avgtone0.47695605573419075+goldsteinscale0.65+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.5093', 'putins:0.3973', 'propaganda:0.359', 'famine:0.3264', 'invasion:0.3152', 'threat:0.3017', 'diplomatic:0.2855', 'infrastructure:0.2632', 'unprovoked:0.2584', 'know:0.2409', 'rout:0.2265', 'world:0.222', 'azov:0.2189', 'block:0.2138', 'crop:0.2036', 'animal:0.1949', 'order:0.1884', 'problem:0.1874', 'covid:0.1724', 'invest:0.1705', 'continue:0.1705', 'reading:0.169', 'look:0.1608', 'long:0.1562', 'like:0.1525', 'export:0.1466', 'direct:0.1365', 'relax:0.1273', 'besmaller:0.1202', 'beautiful:0.073']+titles_keywords+['russia:0.5241', 'destruction:0.299', 'supplier:0.28', 'hunger:0.2757', 'global:0.1931']"
+        ]
+    ],
+    "PRT+RUS+20":[
+        []
+    ],
+    "RUS+RUS+20":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/standardmedia.co.ke/Putin misled by yes men in military afraid to tell him the truth US EU.txt+eventbasecode20+eventcode20+avgtone0.473731884057971+goldsteinscale0.65+nummentions0.03918722786647315+numarticles0.03915881073241479+numsources0.06578947368421052+news_keywords+['putin:0.4741', 'kyiv:0.4181', 'war:0.3294', 'strategic:0.3089', 'diplomat:0.3009', 'mislead:0.2996', 'vladimirputinwas:0.2961', 'unprovoked:0.24', 'pursue:0.2292', 'information:0.2153', 'table:0.2078', 'forward:0.1856', 'assertion:0.185', 'european:0.1795', 'sanction:0.1789', 'document:0.1772', 'afraid:0.1706', 'arrive:0.1651', 'long:0.1535', 'end:0.1473', 'surround:0.146', 'speak:0.1458', 'problem:0.1417', 'betweenputinand:0.1368', 'regroup:0.131', 'badly:0.127', 'look:0.1136', 'makeputinreconsider:0.1107', 'does:0.0993', 'scale:0.0841']+titles_keywords+['putin:0.4744', 'misled:0.2833', 'eu:0.2715', 'military:0.2508', 'men:0.2341']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/standardmedia.co.ke/Wrap Up Russian forces launch missile strikes on Ukrainian cities President Zelenskiy defiant.txt+eventbasecode20+eventcode20+avgtone0.47576099210823003+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5167', 'putin:0.4043', 'ceasefire:0.3783', 'nato:0.3713', 'invade:0.3486', 'reutersgleb:0.2937', 'erupt:0.2903', 'news:0.2772', 'nationalist:0.2743', 'poltava:0.2627', 'coordinate:0.2445', 'order:0.218', 'ready:0.2104', 'worry:0.2063', 'office:0.2047', 'report:0.1829', 'cite:0.181', 'wrap:0.1751', 'paratrooper:0.1751', 'contact:0.1693', 'upend:0.1679', 'speak:0.167', 'blacklist:0.1589', 'pronged:0.1583', 'baseless:0.1493', 'fall:0.1463', 'short:0.1368', 'general:0.1313', 'similar:0.1107', 'agree:0.0972']+titles_keywords+['zelenskiy:0.4585', 'ukrainian:0.3591', 'missile:0.2623', 'cities:0.1681', 'wrap:0.1372']"
+        ]
+    ]
+}

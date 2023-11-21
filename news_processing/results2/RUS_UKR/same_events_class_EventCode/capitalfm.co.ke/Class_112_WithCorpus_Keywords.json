@@ -1,0 +1,12 @@
+{
+    "KEN+UKR+112":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/capitalfm.co.ke/High cost of living not exclusive to Kenya Russia Ukraine war to blame Kanze Dena.txt+eventbasecode112+eventcode112+avgtone0.4888392857142857+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kenya:0.5517', 'commodity:0.3296', 'government:0.3097', 'uhuru:0.2922', 'increase:0.2756', 'crisis:0.2512', 'protest:0.2488', 'kanze:0.2313', 'living:0.2212', 'diesel:0.2138', 'cost:0.2123', 'ict:0.2017', 'unchanged:0.1989', 'cabinet:0.1933', 'propose:0.1848', 'basic:0.1825', 'mucheru:0.1655', 'global:0.1631', 'eminent:0.1602', 'hashtag:0.1573', 'william:0.1462', 'sh:0.1447', 'ruto:0.1435', 'decried:0.1391', 'percent:0.1305', 'recent:0.1291', 'respectively:0.1172', 'factor:0.1166', 'july:0.1157', 'include:0.1066']+titles_keywords+['kenya:0.5492', 'war:0.2798', 'blame:0.2454', 'cost:0.2306', 'dena:0.2051']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220808+../news_crawling/RUS_UKR/p_articles/capitalfm.co.ke/Kremlin accuses Kyiv of shelling nuclear plant.txt+eventbasecode112+eventcode112+avgtone0.4677914110429448+goldsteinscale0.4+nummentions0.01632801161103048+numarticles0.01704133430021755+numsources0.039473684210526314+news_keywords+['kyiv:0.5342', 'kremlin:0.4733', 'ukraines:0.4725', 'chernobyl:0.4255', 'militarise:0.3515', 'reunification:0.323', 'annex:0.313', 'pentagon:0.3102', 'escalation:0.3004', 'infrastructure:0.27', 'strategic:0.2641', 'catastrophe:0.2629', 'bomb:0.2525', 'news:0.2487', 'read:0.2354', 'iaea:0.2294', 'interrupt:0.2251', 'denounce:0.2222', 'forget:0.2155', 'continue:0.2025', 'soon:0.1999', 'president:0.1986', 'watchdog:0.1887', 'plant:0.1861', 'turn:0.1812', 'additional:0.1661', 'shipment:0.1492', 'swathe:0.101', 'welcome:0.0971', 'deal:0.0924']+titles_keywords+['kyiv:0.4968', 'kremlin:0.4652', 'nuclear:0.3097', 'accuses:0.2184', 'shelling:0.1378']"
+        ]
+    ]
+}

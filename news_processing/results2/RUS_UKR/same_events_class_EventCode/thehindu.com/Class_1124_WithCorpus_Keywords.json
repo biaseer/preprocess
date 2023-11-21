@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+1124":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/thehindu.com/Officials say Ukraine no longer in control of Chernobyl site.txt+eventbasecode112+eventcode1124+avgtone0.47580645161290325+goldsteinscale0.4+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.013157894736842105+news_keywords+['chernobyl:0.633', 'reactor:0.3585', 'ukrainian:0.3315', 'russias:0.2814', 'safety:0.2407', 'zelenskyy:0.2254', 'catastrophic:0.2091', 'worried:0.1892', 'repository:0.188', 'operation:0.1831', 'control:0.1781', 'territory:0.1548', 'current:0.1512', 'cover:0.1356', 'leak:0.1341', 'report:0.1193', 'presidential:0.1182', 'shutter:0.1072', 'know:0.0985', 'anonymity:0.0973', 'scientists:0.0955', 'finish:0.091', 'direction:0.0905', 'world:0.0751', 'april:0.0729', 'kilometer:0.0584', 'increase:0.0559', 'decide:0.0503', 'long:0.0388', 'impossible:0.021']+titles_keywords+['chernobyl:0.5384', 'ukraine:0.3894', 'control:0.1849', 'longer:0.0594', 'site:0.0332']"
+        ],
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/thehindu.com/Despite vows Russia keeps up shelling.txt+eventbasecode112+eventcode1124+avgtone0.48898678414096913+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['kyiv:0.4875', 'kremlin:0.3943', 'russias:0.3558', 'war:0.3163', 'negotiation:0.3028', 'redeploy:0.2632', 'emergency:0.2366', 'talk:0.2352', 'agreement:0.2303', 'warn:0.2155', 'refugee:0.212', 'concern:0.2104', 'industrial:0.199', 'intensify:0.1926', 'breakthrough:0.1925', 'end:0.1867', 'neutral:0.1816', 'hope:0.1719', 'outline:0.1666', 'long:0.162', 'round:0.158', 'shelling:0.1571', 'submit:0.1561', 'react:0.1498', 'reduce:0.145', 'wednesday:0.1434', 'governor:0.1434', 'amid:0.1418', 'differently:0.1274', 'import:0.0957']+titles_keywords+['russia:0.4085', 'shelling:0.355', 'vows:0.2505', 'despite:0.2055', 'keeps:0.1353']"
+        ]
+    ]
+}

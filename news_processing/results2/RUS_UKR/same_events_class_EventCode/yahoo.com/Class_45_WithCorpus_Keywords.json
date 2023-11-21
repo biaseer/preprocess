@@ -1,0 +1,17 @@
+{
+    "FRA+RUS+45":[
+        [
+            "20220604+../news_crawling/RUS_UKR/p_articles/yahoo.com/Ukraine minister fires back after Frances Macron said not to humiliate Russia.txt+eventbasecode45+eventcode45+avgtone0.46801346801346805+goldsteinscale0.75+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4658', 'macron:0.4209', 'diplomatic:0.3638', 'kyiv:0.358', 'war:0.3531', 'humiliate:0.292', 'frances:0.2791', 'reuters:0.2546', 'zelensky:0.2413', 'remark:0.2072', 'report:0.1873', 'appear:0.1851', 'message:0.1805', 'kidnap:0.1675', 'exit:0.1647', 'begin:0.1554', 'order:0.1536', 'better:0.1528', 'foreign:0.1471', 'fare:0.1469', 'attempt:0.1466', 'dmytro:0.1459', 'woman:0.1458', 'make:0.141', 'fact:0.1312', 'calls:0.1273', 'week:0.1051', 'million:0.0879', 'focus:0.0806', 'include:0.076']+titles_keywords+['ukraine:0.4054', 'macron:0.321', 'humiliate:0.2334', 'fires:0.1841', 'said:0.0728']"
+        ]
+    ],
+    "RUS+UKR+45":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russian Soyuz rocket launches in first mission since Ukraine invasion.txt+eventbasecode45+eventcode45+avgtone0.49393939393939396+goldsteinscale0.75+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['soyuz:0.5512', 'ukraine:0.4867', 'russia:0.4449', 'russian:0.4164', 'launch:0.3776', 'space:0.3198', 'cosmonaut:0.2807', 'invasion:0.2573', 'rocket:0.2443', 'mission:0.2286', 'earth:0.2238', 'news:0.2196', 'political:0.1681', 'cbs:0.1598', 'impact:0.1504', 'station:0.1484', 'sanction:0.1482', 'aboard:0.1394', 'international:0.1167', 'economic:0.0978', 'discuss:0.0955', 'relationship:0.0879', 'harwood:0.0796', 'response:0.0741', 'agency:0.0727', 'analyst:0.0682', 'partner:0.0648', 'cut:0.0606', 'tie:0.0498', 'senior:0.0397']+titles_keywords+['soyuz:0.5619', 'ukraine:0.3877', 'launches:0.33', 'mission:0.2232', 'invasion:0.1774']"
+        ]
+    ],
+    "UKR+RUS+45":[
+        [
+            "20220804+../news_crawling/RUS_UKR/p_articles/yahoo.com/Ukraine launches mission to rescue 5000 children missing in Russianoccupied territories.txt+eventbasecode45+eventcode45+avgtone0.49337121212121215+goldsteinscale0.75+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.5144', 'russianoccupied:0.5087', 'putin:0.4307', 'russian:0.4225', 'russias:0.4051', 'mission:0.3224', 'rescue:0.3221', 'missile:0.314', 'launch:0.2731', 'child:0.2504', 'report:0.2446', 'news:0.2425', 'yagun:0.2391', 'kabaeva:0.2277', 'nbc:0.2248', 'president:0.2234', 'occupy:0.219', 'miss:0.2156', 'viktor:0.2053', 'east:0.1911', 'target:0.1835', 'impose:0.1512', 'advance:0.1447', 'general:0.139', 'hold:0.1311', 'ground:0.1266', 'say:0.1248', 'make:0.1129', 'vital:0.073', 'thanks:0.0701']+titles_keywords+['ukraine:0.4032', 'russianoccupied:0.3486', 'children:0.2982', 'rescue:0.2897', '5000:0.1815']"
+        ]
+    ]
+}

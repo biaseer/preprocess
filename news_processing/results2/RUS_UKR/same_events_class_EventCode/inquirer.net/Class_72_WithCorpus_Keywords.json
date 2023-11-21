@@ -1,0 +1,20 @@
+{
+    "EUR+UKR+72":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/inquirer.net/Russian invaders frustrated by stiff Ukraine resistancePentagon.txt+eventbasecode72+eventcode72+avgtone0.47928176795580113+goldsteinscale0.915+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.01644736842105263+news_keywords+['kyiv:0.4733', 'kremlin:0.4093', 'russias:0.3657', 'invade:0.3618', 'servicemen:0.2926', 'pentagon:0.2811', 'reuters:0.2555', 'tank:0.2474', 'barrage:0.2336', 'deliver:0.2075', 'weapon:0.2005', 'fight:0.1973', 'aid:0.1861', 'successful:0.1801', 'forces:0.1743', 'north:0.1675', 'read:0.1639', 'increasingly:0.1477', 'additional:0.1446', 'new:0.1408', 'hold:0.1408', 'hour:0.136', 'saturday:0.1351', 'resistancepentagon:0.1337', 'stressing:0.127', 'acknowledge:0.1258', 'nearly:0.1243', 'anonymity:0.1135', 'state:0.1008', 'agree:0.0701']+titles_keywords+['ukraine:0.522', 'invaders:0.4038', 'resistancepentagon:0.3074', 'frustrated:0.2493', 'stiff:0.2095']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/inquirer.net/Putin Zelensky should meet once key issues settled Lavrov.txt+eventbasecode72+eventcode72+avgtone0.4930555555555556+goldsteinscale0.915+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5347', 'ukraine:0.4576', 'vladimir:0.4439', 'lavrov:0.4404', 'zelensky:0.4134', 'nationalist:0.2799', 'conflict:0.2451', 'kudryavtsevpool:0.237', 'reutersfile:0.201', 'meet:0.1887', 'troop:0.1819', 'counterpart:0.1695', 'sanction:0.1507', 'news:0.1499', 'speaking:0.1475', 'closer:0.1448', 'dangerous:0.1393', 'exchange:0.1158', 'attend:0.1141', 'monday:0.1134', 'photo:0.102', 'capability:0.0984', 'terms:0.0972', 'subscribe:0.0916', 'icrc:0.0902', 'plus:0.0755', 'agree:0.0597', 'gadget:0.0477', 'degrade:0.0318', 'thousand:0.0314']+titles_keywords+['zelensky:0.5351', 'putin:0.4035', 'meet:0.3389', 'settled:0.2142', 'issues:0.1211']"
+        ],
+        [
+            "20220516+../news_crawling/RUS_UKR/p_articles/inquirer.net/Russia says it shot down three Ukraine fighter jets one near Snake Island.txt+eventbasecode72+eventcode72+avgtone0.49090909090909096+goldsteinscale0.915+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.5155', 'russias:0.4075', 'missiles:0.3454', 'mykolaiv:0.3005', 'snake:0.2835', 'troop:0.2606', 'conflict:0.2412', 'island:0.2381', 'attack:0.2306', 'border:0.2102', 'operation:0.2064', 'destroy:0.2014', 'aerial:0.1889', 'northeast:0.1866', 'shoot:0.1818', 'news:0.1758', 'republic:0.1654', 'read:0.1513', 'control:0.1362', 'photo:0.1161', 'featured:0.1116', 'privacy:0.1051', 'nearly:0.1015', 'acknowledge:0.0999', 'hour:0.0974', 'plus:0.0944', 'agree:0.087', 'send:0.0848', 'feb:0.0724', 'subscribe:0.0716']+titles_keywords+['ukraine:0.3928', 'snake:0.2309', 'island:0.2071', 'shot:0.1247', 'says:0.0255']"
+        ]
+    ],
+    "WST+RUS+72":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/inquirer.net/Nato warns Russia readying for fullscale attack on Ukraine.txt+eventbasecode72+eventcode72+avgtone0.4773371104815864+goldsteinscale0.915+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['crimea:0.54', 'nato:0.5072', 'ukraines:0.4863', 'putin:0.4476', 'invasion:0.3329', 'troop:0.3243', 'bokov:0.3045', 'prepare:0.2588', 'separatist:0.2487', 'news:0.217', 'warn:0.2138', 'know:0.2124', 'breakaway:0.2081', 'conflict:0.1989', 'urgent:0.1796', 'monday:0.171', 'satellite:0.1702', 'western:0.1625', 'read:0.1596', 'near:0.1581', 'continue:0.1542', 'mazyr:0.1381', 'potential:0.1336', 'rewrite:0.1219', 'plus:0.1091', 'aerodrome:0.1048', 'subscribe:0.0992', 'dozen:0.0978', 'agree:0.0874', 'abby:0.0563']+titles_keywords+['nato:0.4039', 'readying:0.2429', 'attack:0.2239', 'warns:0.2076', 'fullscale:0.1632']"
+        ]
+    ]
+}

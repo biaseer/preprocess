@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220710+../news_crawling/RUS_UKR/p_articles/panow.com/Large explosions rock Russian military air base in Crimea.txt+eventbasecode112+eventcode112+avgtone0.47002141327623126+goldsteinscale0.4+nummentions0.1346153846153846+numarticles0.1352429296591733+numsources0.20065789473684212+news_keywords+['crimea:0.4994', 'kyiv:0.4424', 'explosion:0.3588', 'russian:0.336', 'military:0.2896', 'russias:0.2769', 'missile:0.2752', 'base:0.2346', 'hit:0.2002', 'flee:0.1993', 'air:0.1879', 'beach:0.1595', 'range:0.1554', 'ap:0.1516', 'people:0.1502', 'emphasize:0.1486', 'shell:0.1443', 'rock:0.1424', 'huge:0.1347', 'child:0.1267', 'nearby:0.1232', 'saki:0.1222', 'rise:0.1211', 'videos:0.0916', 'post:0.0901', 'speculation:0.0779', 'wound:0.0765', 'tuesday:0.0429', 'installation:0.0415', 'include:0.0072']+titles_keywords+['crimea:0.4385', 'explosions:0.3575', 'base:0.2067', 'military:0.1928', 'large:0.1369']"
+        ],
+        [
+            "20220822+../news_crawling/RUS_UKR/p_articles/panow.com/Russias FSB blames Ukrainian intelligence for car bombing.txt+eventbasecode112+eventcode112+avgtone0.46929824561403505+goldsteinscale0.4+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.01644736842105263+news_keywords+['kgb:0.5767', 'russias:0.4496', 'ukrainian:0.448', 'moscow:0.428', 'spy:0.3437', 'counterintelligence:0.3197', 'fsb:0.3006', 'kill:0.2851', 'blame:0.2802', 'darya:0.2792', 'nationalist:0.274', 'bomb:0.2716', 'perpetrated:0.2562', 'dugina:0.2239', 'agency:0.2113', 'ideologue:0.2067', 'daughter:0.1788', 'alexander:0.143', 'brain:0.1417', 'car:0.1333', 'charge:0.1235', 'successor:0.1218', 'say:0.1202', 'main:0.1134', 'organize:0.1131', 'ap:0.1067', 'prepare:0.1058', 'monday:0.0911', 'west:0.0746', 'special:0.0542']+titles_keywords+['ukrainian:0.3633', 'fsb:0.3628', 'blames:0.2964', 'bombing:0.2879', 'car:0.1341']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/panow.com/Over 900 civilians dead around Kyiv Russia vows new attacks.txt+eventbasecode112+eventcode112+avgtone0.4692144373673036+goldsteinscale0.4+nummentions1.0+numarticles1.0+numsources1.0+news_keywords+['kyiv:0.5836', 'russian:0.4145', 'kill:0.3085', 'gunshot:0.2544', 'capital:0.2515', 'sinehubov:0.2372', 'civilian:0.2362', 'missile:0.2149', 'fighting:0.1937', 'territory:0.1924', 'body:0.1734', 'residential:0.1659', 'people:0.1634', 'report:0.1562', 'andriy:0.1558', 'eastern:0.1501', 'understand:0.1471', 'preparation:0.1303', 'cite:0.1291', 'outside:0.1234', 'follow:0.0981', 'new:0.0979', 'dig:0.0954', 'month:0.0949', 'ap:0.0866', 'data:0.0854', 'port:0.0851', 'indignant:0.0847', 'stunning:0.0498', 'likely:0.0064']+titles_keywords+['kyiv:0.4811', 'civilians:0.2882', 'attacks:0.2745', '900:0.2384', 'dead:0.1207']"
+        ]
+    ]
+}

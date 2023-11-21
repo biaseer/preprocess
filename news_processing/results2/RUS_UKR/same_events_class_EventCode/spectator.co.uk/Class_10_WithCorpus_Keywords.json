@@ -1,0 +1,17 @@
+{
+    "LTU+RUS+10":[
+        [
+            "20220621+../news_crawling/RUS_UKR/p_articles/spectator.co.uk/Could Lithuania be Putins next target.txt+eventbasecode10+eventcode10+avgtone0.48357963875205257+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kaliningrad:0.4745', 'natos:0.4649', 'putin:0.4418', 'lithuanias:0.4346', 'andrei:0.366', 'kyiv:0.3604', 'sanctionssteel:0.3461', 'border:0.2793', 'threaten:0.2703', 'firing:0.2301', 'missile:0.2264', 'transit:0.2117', 'misinformation:0.2097', 'flag:0.2049', 'worry:0.1889', 'urgently:0.187', 'manoeuvre:0.1849', 'isbecoming:0.1829', 'point:0.1766', 'weak:0.1656', 'attention:0.1623', 'certain:0.1366', 'fit:0.127', 'hastaken:0.121', 'restrictive:0.1197', 'simplify:0.0972', 'thats:0.0956', 'separate:0.091', 'longer:0.0858', 'add:0.0372']+titles_keywords+['lithuania:0.4859', 'putins:0.4559', 'target:0.1896']"
+        ]
+    ],
+    "RUS+RUS+10":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/spectator.co.uk/Russia invades what comes next.txt+eventbasecode10+eventcode10+avgtone0.4736842105263158+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.5445', 'ukraine:0.4866', 'invade:0.4681', 'russian:0.4063', 'boris:0.3767', 'come:0.2536', 'meeting:0.2429', 'troop:0.2394', 'expect:0.2318', 'nord:0.2305', 'uks:0.2143', 'forsyth:0.1885', 'discus:0.1884', 'morning:0.1861', 'balls:0.1845', 'hold:0.1786', 'cobra:0.169', 'end:0.1619', 'court:0.1604', 'brake:0.1526', 'television:0.1497', 'katy:0.1403', 'hour:0.1371', 'james:0.1357', 'people:0.1341', 'condemnation:0.1328', 'amid:0.13', 'long:0.1265', 'address:0.103', 'yu:0.0849']+titles_keywords+['invades:0.6179', 'russia:0.4619', 'comes:0.2178']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/spectator.co.uk/Russia realists have very little to say about evil.txt+eventbasecode10+eventcode10+avgtone0.48358778625954196+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.57', 'ukrainians:0.4778', 'moscows:0.4097', 'geopolitical:0.377', 'correspondent:0.3147', 'manipulation:0.3014', 'sadistic:0.2915', 'cia:0.2847', 'statesmanlike:0.2727', 'coup:0.2703', 'kontraktniki:0.258', 'bloc:0.2353', 'realism:0.2228', 'lexicon:0.2202', 'know:0.2141', 'extremes:0.2053', 'achieve:0.2048', 'table:0.2016', 'turn:0.19', 'supply:0.1861', 'argument:0.1787', 'messianism:0.1744', 'abstract:0.1709', 'na:0.1671', 'like:0.1583', 'gon:0.1452', 'world:0.1445', 'deep:0.1419', 'proverbs:0.1403', 'mearsheimers:0.1237']+titles_keywords+['russia:0.4365', 'realists:0.3898', 'evil:0.3887', 'say:0.1087', 'little:0.0791']"
+        ]
+    ]
+}

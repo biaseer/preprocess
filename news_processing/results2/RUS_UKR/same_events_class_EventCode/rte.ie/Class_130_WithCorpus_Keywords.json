@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+130":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/rte.ie/Russias Sberbank in Europe faces closure after savers demand money.txt+eventbasecode130+eventcode130+avgtone0.47+goldsteinscale0.27999999999999997+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.009868421052631578+news_keywords+['banks:0.4567', 'ukraine:0.4268', 'reuters:0.3256', 'sanction:0.2917', 'euro:0.2812', 'economic:0.2506', 'vtb:0.2306', 'trigger:0.2194', 'societe:0.2193', 'turmoil:0.2184', 'invasion:0.2066', 'stock:0.2017', 'exchange:0.1948', 'memo:0.1789', 'regulator:0.1788', 'swift:0.1787', 'unicredit:0.177', 'extend:0.169', 'statement:0.1609', 'sector:0.1577', 'sink:0.1554', 'fell:0.1521', 'begin:0.1458', 'temporarily:0.1438', 'burghof:0.1413', 'main:0.1281', 'underscore:0.1115', 'arm:0.1089', 'closed:0.1082', 'today:0.0955']+titles_keywords+['sberbank:0.5263', 'russias:0.2798', 'savers:0.2581', 'closure:0.1446', 'faces:-0.0224']"
+        ],
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/rte.ie/President Zelensky thanks Taoiseach for Irish support after visit.txt+eventbasecode130+eventcode130+avgtone0.4856512141280353+goldsteinscale0.27999999999999997+nummentions0.2706821480406386+numarticles0.271211022480058+numsources0.33223684210526316+news_keywords+['kyiv:0.519', 'putin:0.4101', 'zelensky:0.3468', 'taoiseach:0.3224', 'ireland:0.3179', 'borodyanka:0.3054', 'invasion:0.2752', 'humanitarian:0.2638', 'itinerary:0.2587', 'ahead:0.2242', 'oleksii:0.2222', 'unprovoked:0.2204', 'coveney:0.2109', 'meeting:0.2036', 'supply:0.1946', 'neighbouring:0.1848', 'view:0.1803', 'railway:0.1792', 'reiterate:0.1775', 'sanction:0.1746', 'flee:0.1745', 'bucha:0.174', 'memorial:0.1707', 'important:0.1646', 'long:0.1627', 'winter:0.1235', 'end:0.1228', 'welcome:0.1037', 'badly:0.0977', 'today:0.0915']+titles_keywords+['zelensky:0.4532', 'taoiseach:0.414', 'visit:0.1238', 'support:0.0957', 'thanks:0.0825']"
+        ]
+    ],
+    "RUS+RUS+130":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/rte.ie/US sanctions Russia for beginning invasion of Ukraine.txt+eventbasecode130+eventcode130+avgtone0.47686025408348454+goldsteinscale0.27999999999999997+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['putin:0.4604', 'invades:0.4097', 'ukraines:0.3993', 'diplomacy:0.3841', 'sanction:0.3635', 'threaten:0.3186', 'prepare:0.2562', 'intend:0.2366', 'news:0.2362', 'promsvyazbank:0.2267', 'visa:0.2203', 'order:0.2191', 'read:0.2148', 'begin:0.2105', 'pretext:0.208', 'naval:0.1812', 'press:0.1785', 'pipeline:0.1763', 'regions:0.1753', 'dramatic:0.1652', 'lengthy:0.1587', 'freeze:0.1526', 'step:0.1448', 'evening:0.1399', 'deal:0.135', 'like:0.1296', 'rotate:0.1268', 'nonsense:0.1267', 'define:0.1151', 'unless:0.0765']+titles_keywords+['sanctions:0.4691', 'ukraine:0.4381', 'russia:0.3666', 'invasion:0.3252', 'beginning:0.186']"
+        ]
+    ]
+}

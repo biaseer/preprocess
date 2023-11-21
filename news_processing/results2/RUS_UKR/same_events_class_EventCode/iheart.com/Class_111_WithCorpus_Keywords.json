@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/iheart.com/President Biden Promises To Hold Russia Accountable.txt+eventbasecode111+eventcode111+avgtone0.47115384615384615+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['biden:0.4243', 'russia:0.3664', 'accountable:0.3291', 'president:0.2467', 'unprovoked:0.2371', 'attack:0.2298', 'consequence:0.2271', 'promises:0.2098', 'allies:0.1779', 'impose:0.1746', 'war:0.1737', 'say:0.1593', 'meet:0.1576', 'tell:0.1561', 'bring:0.1469', 'statement:0.1464', 'thursday:0.1432', 'premeditated:0.1231', 'night:0.1219', 'world:0.1177', 'prayer:0.1159', 'suffer:0.1023', 'note:0.0799', 'dc:0.0783', 'counterpart:0.0773', 'hold:0.0716', 'human:0.0633', 'catastrophic:0.0573', 'force:0.0535', 'late:0.0361']+titles_keywords+['biden:0.4528', 'russia:0.3239', 'accountable:0.3204', 'promises:0.2416', 'hold:0.0352']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/iheart.com/Ukraine Destroys Command Post On Island Where Defenders Cursed Out Russians.txt+eventbasecode111+eventcode111+avgtone0.467005076142132+goldsteinscale0.4+nummentions0.28156748911465895+numarticles0.2820884699057288+numsources0.0+news_keywords+['warship:0.3469', 'island:0.3358', 'hrybov:0.3274', 'russians:0.3215', 'troop:0.2942', 'invasion:0.2867', 'surrender:0.2742', 'snake:0.2443', 'kill:0.2372', 'forcesdestroyed:0.2124', 'medal:0.2034', 'command:0.1967', 'report:0.1858', 'post:0.17', 'radioed:0.1617', 'cursed:0.1598', 'strike:0.1494', 'droneswhile:0.1469', 'sink:0.1327', 'alive:0.1317', 'destroys:0.1234', 'message:0.1176', 'thedaily:0.1154', 'swap:0.1151', 'theydistracted:0.1149', 'later:0.1067', 'initial:0.1005', 'day:0.0926', 'sensation:0.0865', 'famously:0.0609']+titles_keywords+['ukraine:0.3722', 'island:0.3618', 'command:0.2023', 'post:0.1695', 'destroys:0.151']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+130":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/freebeacon.com/Biden Admin Relies on Russia To Finalize Iran Nuclear Deal as Putin Invades Ukraine.txt+eventbasecode130+eventcode130+avgtone0.48698481561822127+goldsteinscale0.27999999999999997+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.009868421052631578+news_keywords+['biden:0.4591', 'diplomacy:0.4416', 'putin:0.4376', 'whitehouse:0.382', 'bipartisan:0.3692', 'senate:0.3241', 'regime:0.3146', 'iranian:0.2783', 'nuclear:0.2766', 'crisis:0.2236', 'relation:0.1982', 'enact:0.195', 'pipeline:0.1887', 'circumvents:0.1872', 'undermining:0.1839', 'input:0.1809', 'result:0.1809', 'indicate:0.1783', 'playbookwhich:0.1756', 'unprovoked:0.1745', 'deal:0.167', 'formal:0.1468', 'revamp:0.1451', 'exactly:0.1316', 'include:0.1255', 'year:0.125', 'hope:0.1247', 'track:0.1236', 'jcpoa:0.1224', 'quote:0.1221']+titles_keywords+['putin:0.4367', 'biden:0.4331', 'nuclear:0.2348', 'deal:0.2248', 'relies:0.1057']"
+        ]
+    ],
+    "RUS+EUR+130":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/freebeacon.com/Putin Inflames Ukraine Crisis by Recognizing Breakaway Regions.txt+eventbasecode130+eventcode130+avgtone0.47313432835820896+goldsteinscale0.27999999999999997+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.009868421052631578+news_keywords+['ukraine:0.5062', 'putin:0.482', 'reutersrussian:0.3825', 'nato:0.3751', 'ceasefire:0.3692', 'separatist:0.3588', 'sovereignty:0.2944', 'invade:0.2904', 'annex:0.2688', 'eastward:0.2278', 'threat:0.2017', 'ottoman:0.1933', 'bloc:0.1854', 'table:0.1739', 'predict:0.1646', 'enter:0.1553', 'mediate:0.1534', 'pretext:0.1516', 'immediately:0.1279', 'option:0.1266', 'lengthy:0.1209', 'say:0.1201', 'technical:0.1166', 'fabricate:0.1071', 'entity:0.0874', 'inflames:0.069', 'slide:0.0672', 'unless:0.0671', 'televised:0.0659', 'brush:0.0379']+titles_keywords+['putin:0.4179', 'ukraine:0.4154', 'regions:0.2644', 'breakaway:0.2303', 'inflames:0.1278']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/freebeacon.com/As Putin Invaded John Kerry Wanted To Change the Subject.txt+eventbasecode130+eventcode130+avgtone0.4814049586776859+goldsteinscale0.27999999999999997+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4887', 'crimea:0.4616', 'invasion:0.3778', 'war:0.3768', 'kerry:0.32', 'cyberattack:0.2871', 'climate:0.2861', 'presidential:0.2436', 'secessionist:0.2382', 'attention:0.206', 'operation:0.2031', 'subject:0.1906', 'want:0.1618', 'thaw:0.1578', 'announce:0.155', 'secretary:0.1518', 'plunge:0.1506', 'casualty:0.1485', 'capital:0.1369', 'say:0.1303', 'donbas:0.1272', 'envoy:0.1253', 'hour:0.1206', 'stay:0.1177', 'later:0.1149', 'bbc:0.1027', 'track:0.0998', 'start:0.099', 'major:0.0717', 'disable:0.0074']+titles_keywords+['kerry:0.4984', 'putin:0.4688', 'invaded:0.3501', 'change:0.1751', 'subject:0.1673']"
+        ]
+    ]
+}

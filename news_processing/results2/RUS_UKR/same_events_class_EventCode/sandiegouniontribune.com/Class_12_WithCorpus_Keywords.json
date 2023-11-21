@@ -1,0 +1,20 @@
+{
+    "CHN+UKR+12":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Live updates UN chief wants Ukraine humanitarian ceasefire.txt+eventbasecode12+eventcode12+avgtone0.4763824884792627+goldsteinscale0.48+nummentions0.054426705370101594+numarticles0.05511240029006526+numsources0.05921052631578947+news_keywords+['ukraine:0.466', 'ceasefire:0.4259', 'erdogan:0.3717', 'news:0.2952', 'cyberattack:0.2861', 'pentagon:0.2766', 'unhcr:0.2652', 'urgently:0.253', 'deploy:0.2495', 'progress:0.2393', 'alert:0.2377', 'ouster:0.2105', 'predict:0.2098', 'democratic:0.2029', 'influx:0.1941', 'arrangement:0.1939', 'long:0.1919', 'secretary:0.1874', 'forward:0.186', 'evening:0.18', 'begin:0.1733', 'anonymity:0.1691', 'reiterate:0.1671', 'speak:0.16', 'feb:0.1504', 'sure:0.1477', 'breadth:0.1285', 'total:0.1269', 'welcome:0.117', 'look:0.0953']+titles_keywords+['ceasefire:0.4596', 'humanitarian:0.4162', 'ukraine:0.3832', 'chief:0.1711', 'updates:0.1602']"
+        ]
+    ],
+    "POL+RUS+12":[
+        [
+            "20220515+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Polish Nobel author says Russia threat to free world.txt+eventbasecode12+eventcode12+avgtone0.47727272727272746+goldsteinscale0.48+nummentions0.03773584905660377+numarticles0.03843364757070341+numsources0.049342105263157895+news_keywords+['tokarczuk:0.4464', 'warsaw:0.3658', 'nobel:0.3273', 'russian:0.319', 'ukraines:0.3054', 'poles:0.2752', 'author:0.2747', 'jacob:0.2681', 'jewish:0.264', 'refugee:0.2259', 'war:0.222', 'olga:0.2218', 'books:0.2202', 'subversive:0.1648', 'risk:0.1478', 'sanction:0.1388', 'world:0.1375', 'mind:0.121', 'speak:0.1158', 'century:0.0984', 'know:0.0963', 'image:0.0789', 'share:0.0782', 'th:0.0688', 'february:0.0633', 'add:0.0546', 'theme:0.0534', 'free:0.051', 'streak:0.0405', 'tough:0.0328']+titles_keywords+['russia:0.339', 'nobel:0.332', 'author:0.2646', 'threat:0.249', 'free:0.1742']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220122+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Where Ukraines sunflowers once sprouted fears now grow.txt+eventbasecode12+eventcode12+avgtone0.4919871794871795+goldsteinscale0.48+nummentions0.09433962264150944+numarticles0.09499637418419145+numsources0.08223684210526316+news_keywords+['ukraine:0.4857', 'natos:0.3958', 'disarmament:0.3915', 'memorandum:0.3028', 'sunflower:0.2937', 'eastward:0.2909', 'separatist:0.2713', 'timeline:0.2638', 'foreseeable:0.2553', 'worry:0.2323', 'expand:0.231', 'symbolize:0.2283', 'spring:0.2267', 'troop:0.2122', 'word:0.2092', 'organization:0.2067', 'launchpad:0.1946', 'pervomaysk:0.1891', 'counterpart:0.1825', 'significance:0.178', 'biden:0.1653', 'known:0.161', 'bury:0.1558', 'ready:0.1508', 'end:0.15', 'stand:0.1438', 'want:0.1361', 'dark:0.1249', 'till:0.12', 'true:0.066']+titles_keywords+['sunflowers:0.572', 'ukraines:0.4453', 'sprouted:0.3906', 'grow:0.3314', 'fears:0.2677']"
+        ],
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Zelenskyy says Ukraine takes as seriously as possible an apparent threat of Russian chemical weapon.txt+eventbasecode12+eventcode12+avgtone0.47540983606557374+goldsteinscale0.48+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.009868421052631578+news_keywords+['ukraine:0.4803', 'kremlin:0.4411', 'zelenskyy:0.3603', 'terror:0.2879', 'weapons:0.2665', 'deploy:0.2417', 'chemical:0.2383', 'pentagon:0.2362', 'tank:0.2348', 'separatist:0.2346', 'riot:0.2323', 'translation:0.2282', 'concern:0.2269', 'prepare:0.2194', 'munition:0.2118', 'report:0.2036', 'learn:0.1882', 'intensifies:0.1826', 'future:0.1826', 'fight:0.1815', 'president:0.1791', 'end:0.1749', 'immediately:0.1698', 'stage:0.1694', 'respond:0.1662', 'smoke:0.1588', 'video:0.1409', 'longer:0.1206', 'possibility:0.1008', 'true:0.0776']+titles_keywords+['zelenskyy:0.4683', 'ukraine:0.4103', 'threat:0.2951', 'chemical:0.18', 'seriously:0.1278']"
+        ]
+    ]
+}

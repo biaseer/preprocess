@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+43":[
+        [
+            "20211118+../news_crawling/RUS_UKR/p_articles/wtop.com/Russia sends nuclearcapable bombers on patrol over Belarus.txt+eventbasecode43+eventcode43+avgtone0.4791086350974931+goldsteinscale0.64+nummentions0.06785195936139332+numarticles0.06852791878172589+numsources0.1118421052631579+news_keywords+['nato:0.4943', 'belarus:0.483', 'ukraines:0.3882', 'moscow:0.3844', 'lukashenko:0.3729', 'invade:0.302', 'strategic:0.2476', 'refugee:0.2354', 'nuclearcapable:0.2093', 'bomber:0.2063', 'weapon:0.2055', 'infrastructure:0.1953', 'authoritarian:0.1881', 'sanction:0.1827', 'warning:0.181', 'enter:0.1512', 'publish:0.1496', 'intend:0.1447', 'reelection:0.1419', 'buildup:0.1382', 'long:0.1192', 'elaborate:0.1162', 'echoing:0.1155', 'ap:0.1041', 'exclude:0.0963', 'makei:0.095', 'saturdays:0.0944', 'possible:0.0791', 'wouldnt:0.0607', 'agree:0.0577']+titles_keywords+['belarus:0.3821', 'bombers:0.2979', 'nuclearcapable:0.2432', 'patrol:0.1562', 'sends:0.1112']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/wtop.com/Pelosi in surprise Kyiv trip vows unbending US support.txt+eventbasecode43+eventcode43+avgtone0.4981617647058823+goldsteinscale0.64+nummentions0.06567489114658925+numarticles0.06635242929659173+numsources0.06578947368421052+news_keywords+['kyivs:0.4949', 'putin:0.4335', 'nato:0.3829', 'pelosi:0.3694', 'bipartisan:0.2922', 'delegation:0.2602', 'globe:0.2591', 'capital:0.2508', 'secretary:0.2455', 'affairs:0.2436', 'veteran:0.2435', 'forward:0.2417', 'visit:0.2117', 'keating:0.2064', 'battle:0.2027', 'say:0.2005', 'states:0.195', 'term:0.1887', 'longer:0.1797', 'begin:0.1689', 'monday:0.1688', 'ap:0.157', 'right:0.1559', 'display:0.1522', 'scores:0.1391', 'poor:0.1374', 'drain:0.1334', 'sure:0.1319', 'focus:0.1142', 'safely:0.1126']+titles_keywords+['pelosi:0.491', 'kyiv:0.3049', 'unbending:0.2366', 'trip:0.1847', 'surprise:0.1683']"
+        ]
+    ]
+}

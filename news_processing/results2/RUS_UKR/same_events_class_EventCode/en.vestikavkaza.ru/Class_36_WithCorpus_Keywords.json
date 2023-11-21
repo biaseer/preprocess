@@ -1,0 +1,20 @@
+{
+    "FRA+RUS+36":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/en.vestikavkaza.ru/Macron assesses possibility of visits to Moscow and Kiev.txt+eventbasecode36+eventcode36+avgtone0.5+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['macron:0.4254', 'kiev:0.4025', 'visit:0.3001', 'novosti:0.2257', 'president:0.2245', 'emmanuel:0.1984', 'future:0.1952', 'possibility:0.192', 'near:0.1719', 'french:0.1505', 'expect:0.1494', 'tripsare:0.1408', 'political:0.1361', 'assess:0.1352', 'coming:0.1271', 'initiative:0.1037', 'place:0.0918', 'day:0.091', 'understand:0.0833', 'result:0.0778', 'hour:0.0771', 'say:0.0732', 'exclude:0.0551', 'head:0.0439', 'quote:0.0342', 'state:0.0327', 'tangible:0.0316', 'according:0.0164', 'useful:0.0075', 'ria:0.0054']+titles_keywords+['macron:0.4163', 'kiev:0.3836', 'visits:0.2655', 'possibility:0.1146', 'assesses:0.0838']"
+        ]
+    ],
+    "ISR+RUS+36":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/en.vestikavkaza.ru/Zelensky suggests talks with Russia could be held in Israel.txt+eventbasecode36+eventcode36+avgtone0.5210526315789473+goldsteinscale0.7+nummentions0.020682148040638608+numarticles0.017766497461928935+numsources0.023026315789473683+news_keywords+['zelensky:0.4256', 'israelcould:0.4239', 'jerusalem:0.3134', 'negotiate:0.3103', 'talk:0.3083', 'peace:0.2998', 'meeting:0.2974', 'russia:0.2708', 'presidentvolodymyr:0.2063', 'ministernaftali:0.1857', 'reuters:0.1437', 'begin:0.1376', 'bennett:0.1252', 'say:0.1138', 'possible:0.1059', 'suggest:0.086', 'right:0.0821', 'later:0.0651', 'hold:0.065', 'make:0.0615', 'update:0.0568', 'ground:0.0472', 'prime:0.0404', 'concerted:0.0382', 'grateful:0.0354', 'video:0.0315', 'daily:0.0095', 'sooner:-0.0183', 'effort:-0.0208', 'forfuture:-0.0286']+titles_keywords+['zelensky:0.5481', 'israel:0.2949', 'talks:0.2161', 'suggests:0.0526', 'held:-0.0361']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220204+../news_crawling/RUS_UKR/p_articles/en.vestikavkaza.ru/German chancellor calls on Russia to take clear steps to deescalate tensions.txt+eventbasecode36+eventcode36+avgtone0.47005988023952094+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.3972', 'baltic:0.3573', 'diplomatic:0.3486', 'berlin:0.3164', 'escalate:0.2903', 'engage:0.2408', 'expect:0.2399', 'chancellor:0.2257', 'sanction:0.2236', 'aggression:0.2181', 'scholz:0.2102', 'incursion:0.1977', 'unite:0.1895', 'step:0.1836', 'tension:0.1724', 'clear:0.1498', 'ready:0.145', 'military:0.1399', 'economic:0.1396', 'news:0.1364', 'stand:0.1296', 'conference:0.1255', 'olaf:0.1192', 'issue:0.1023', 'state:0.1016', 'reduce:0.0999', 'travel:0.0995', 'underline:0.0954', 'tell:0.0913', 'week:0.0734']+titles_keywords+['russia:0.2758', 'tensions:0.2282', 'deescalate:0.1746', 'chancellor:0.1552', 'steps:0.126']"
+        ],
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/en.vestikavkaza.ru/Lavrov Third World War would be nuclear and disastrous.txt+eventbasecode36+eventcode36+avgtone0.4734848484848485+goldsteinscale0.7+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.01644736842105263+news_keywords+['lavrov:0.4218', 'nuclear:0.3592', 'kremlin:0.3572', 'dmitry:0.3396', 'ukraine:0.3254', 'war:0.31', 'peskov:0.2993', 'prepare:0.2125', 'warn:0.2093', 'disastrous:0.2091', 'negotiator:0.1719', 'world:0.1716', 'second:0.1532', 'talk:0.1255', 'foreign:0.1033', 'situation:0.0931', 'foot:0.0855', 'wednesday:0.0844', 'unleashed:0.0817', 'round:0.0786', 'point:0.0748', 'jazeera:0.0672', 'late:0.0662', 'delegation:0.0502', 'wag:0.0496', 'wait:0.0426', 'minister:0.0411', 'drag:0.0398', 'use:0.0384', 'touching:0.0246']+titles_keywords+['lavrov:0.5049', 'nuclear:0.3741', 'war:0.3307', 'disastrous:0.2928', 'world:0.1825']"
+        ]
+    ]
+}

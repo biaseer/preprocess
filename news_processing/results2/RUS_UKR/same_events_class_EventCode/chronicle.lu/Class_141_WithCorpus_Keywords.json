@@ -1,0 +1,12 @@
+{
+    "LUX+RUS+141":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/chronicle.lu/Hundreds Take to Luxembourg Streets to Demand Peace for Ukraine.txt+eventbasecode141+eventcode141+avgtone0.49275362318840576+goldsteinscale0.175+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['protest:0.4298', 'luxembourg:0.3934', 'ukrainian:0.3652', 'refugee:0.3494', 'war:0.3181', 'ville:0.2415', 'streets:0.2387', 'volunteer:0.2158', 'people:0.2076', 'capital:0.2023', 'march:0.1999', 'walk:0.198', 'town:0.1806', 'represent:0.178', 'differdange:0.1636', 'saturday:0.1349', 'demand:0.1315', 'follow:0.1263', 'hundreds:0.1245', 'berg:0.1153', 'organise:0.0978', 'clairefontaine:0.0874', 'estimation:0.0851', 'lu:0.0798', 'non:0.0759', 'voice:0.0652', 'hold:0.058', 'barbecue:0.0579', 'addition:0.043', 'authorised:0.034']+titles_keywords+['ukraine:0.3859', 'peace:0.2874', 'streets:0.2294', 'hundreds:0.1715', 'demand:0.0922']"
+        ]
+    ],
+    "RUS+UKR+141":[
+        [
+            "20220410+../news_crawling/RUS_UKR/p_articles/chronicle.lu/Luxembourg Lights Candles for Ukraine.txt+eventbasecode141+eventcode141+avgtone0.5031645569620253+goldsteinscale0.175+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4718', 'protest:0.4252', 'luxembourg:0.4007', 'solidarity:0.376', 'vigil:0.3592', 'paris:0.344', 'war:0.328', 'capital:0.2861', 'candles:0.2667', 'gather:0.2579', 'placard:0.2577', 'represent:0.2374', 'participant:0.2146', 'people:0.2087', 'occasion:0.1727', 'inplace:0.1602', 'organisation:0.1508', 'thursday:0.1493', 'form:0.1459', 'slave:0.1437', 'late:0.1386', 'public:0.1272', 'hold:0.1117', 'non:0.1029', 'stop:0.1026', 'invite:0.096', 'age:0.0763', 'taste:0.0507', 'asbl:0.0439', 'express:0.0419']+titles_keywords+['luxembourg:0.5051', 'ukraine:0.4778', 'candles:0.4125', 'lights:0.3189']"
+        ]
+    ]
+}

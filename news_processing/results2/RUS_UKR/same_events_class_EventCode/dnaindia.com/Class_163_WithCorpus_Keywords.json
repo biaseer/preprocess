@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+163":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/dnaindia.com/RussiaUkraine crisis US to ban Russian oil imports.txt+eventbasecode163+eventcode163+avgtone0.46717171717171724+goldsteinscale0.1+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['russia:0.4805', 'economy:0.3587', 'supply:0.2954', 'war:0.285', 'biden:0.2664', 'crisis:0.2568', 'gas:0.2535', 'sanction:0.243', 'unprovoked:0.2197', 'influx:0.218', 'zelenskyy:0.207', 'western:0.1754', 'soon:0.16', 'export:0.158', 'source:0.1483', 'sector:0.1479', 'ally:0.1476', 'continue:0.1463', 'morning:0.1463', 'dependent:0.1402', 'omission:0.1371', 'consultation:0.1331', 'anonymity:0.1309', 'account:0.1277', 'speak:0.1272', 'set:0.1059', 'severe:0.103', 'updated:0.0922', 'ist:0.0833', 'house:0.0699']+titles_keywords+['russiaukraine:0.3626', 'oil:0.3269', 'ban:0.2263', 'crisis:0.1836', 'imports:0.1638']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/dnaindia.com/RussiaUkraine crisis Mexico refuses to impose economic sanctions on Russia.txt+eventbasecode163+eventcode163+avgtone0.4908424908424909+goldsteinscale0.1+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['russia:0.4234', 'diplomatic:0.2686', 'obrador:0.2601', 'neutrality:0.2525', 'mexican:0.2326', 'economic:0.1988', 'retaliation:0.1981', 'strategy:0.1916', 'crisis:0.1909', 'andres:0.1778', 'alienate:0.1667', 'oil:0.1631', 'avoid:0.1456', 'torruco:0.1407', 'rt:0.1361', 'synonymous:0.1298', 'visit:0.1257', 'read:0.1214', 'want:0.1165', 'airspace:0.1121', 'greeting:0.1007', 'include:0.0918', 'updated:0.0821', 'good:0.0742', 'note:0.07', 'open:0.0559', 'sort:0.05', 'week:0.033', 'ist:0.033', 'set:0.0283']+titles_keywords+['sanctions:0.4258', 'russiaukraine:0.337', 'mexico:0.3048', 'refuses:0.2772', 'crisis:0.1599']"
+        ],
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/dnaindia.com/Gold prices in India fall steeply by Rs 160010 grams on March 10 Check new.txt+eventbasecode163+eventcode163+avgtone0.5117056856187291+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['gold:0.3597', 'ukraine:0.2797', 'invest:0.2662', 'commodity:0.2572', 'fluctuate:0.2337', 'erupt:0.2172', 'crisis:0.2098', 'price:0.1853', 'demand:0.1838', 'carat:0.1809', 'march:0.1786', 'war:0.1669', 'gram:0.157', 'hyderabad:0.1534', 'current:0.1516', 'drop:0.1484', 'covid:0.1443', 'today:0.1249', 'remain:0.1183', 'safe:0.1079', 'world:0.1017', 'wag:0.0927', 'rs:0.0811', 'reported:0.0755', 'begin:0.0712', 'check:0.0683', 'dicey:0.0621', 'spiral:0.0345', 'webdesk:0.0305', 'ist:0.0258']+titles_keywords+['gold:0.3224', 'prices:0.2581', 'india:0.2401', '160010:0.2227', 'fall:0.1468']"
+        ]
+    ]
+}

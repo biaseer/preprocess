@@ -1,0 +1,12 @@
+{
+    "BRA+RUS+111":[
+        [
+            "20220707+../news_crawling/RUS_UKR/p_articles/theamericanconservative.com/Bidens War for Liberalism.txt+eventbasecode111+eventcode111+avgtone0.4736170212765958+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4447', 'nato:0.3942', 'militarily:0.3924', 'strategy:0.3006', 'weaponsactually:0.2949', 'frontlines:0.273', 'tank:0.2449', 'cia:0.2434', 'fight:0.2406', 'escalate:0.1994', 'combine:0.196', 'ally:0.1828', 'liberal:0.1733', 'exchange:0.1712', 'help:0.1684', 'pretext:0.167', 'begin:0.1642', 'concern:0.1562', 'donbas:0.1554', 'bidens:0.1528', 'prospect:0.1496', 'technical:0.1488', 'middle:0.1461', 'unforeseen:0.14', 'long:0.1391', 'soon:0.1362', 'implication:0.1359', 'produce:0.1313', 'retake:0.1115', 'century:0.0728']+titles_keywords+['bidens:0.5445', 'liberalism:0.514', 'war:0.4401']"
+        ]
+    ],
+    "POL+RUS+111":[
+        [
+            "20220511+../news_crawling/RUS_UKR/p_articles/theamericanconservative.com/Ukraine And Russia Put Their Own Spin On VDay Celebrations In Light Of War.txt+eventbasecode111+eventcode111+avgtone0.4786931818181818+goldsteinscale0.4+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4226', 'vday:0.4199', 'yalta:0.4071', 'diplomacy:0.3126', 'protest:0.3075', 'invasion:0.2968', 'celebrations:0.2809', 'nazi:0.274', 'volodymyr:0.2625', 'zakharova:0.2305', 'wreath:0.2281', 'honor:0.2148', 'reminder:0.2057', 'military:0.204', 'announce:0.1978', 'suffer:0.1733', 'soon:0.1717', 'plan:0.1699', 'separate:0.1648', 'telegram:0.1603', 'fought:0.1444', 'rebuff:0.1405', 'world:0.1265', 'want:0.1242', 'fact:0.1238', 'pre:0.1164', 'sure:0.1096', 'exactly:0.1073', 'end:0.0957', 'simferopol:0.0609']+titles_keywords+['ukraine:0.4563', 'vday:0.4237', 'celebrations:0.3582', 'war:0.3512', 'spin:0.1338']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "EUR+UKR+42":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/kgou.org/RussiaUkraine war What happened today June 16.txt+eventbasecode42+eventcode42+avgtone0.4780534351145039+goldsteinscale0.595+nummentions0.25217706821480407+numarticles0.2527193618564177+numsources0.3157894736842105+news_keywords+['ukraine:0.5321', 'russiaukraine:0.4793', 'nato:0.4279', 'war:0.3707', 'invasion:0.2848', 'orthodox:0.2553', 'zelenskyy:0.2444', 'macron:0.2397', 'globe:0.2134', 'involvement:0.2104', 'alert:0.2005', 'soon:0.1933', 'npr:0.1932', 'maria:0.1917', 'recap:0.1883', 'fight:0.1844', 'sanction:0.1824', 'read:0.1724', 'economic:0.163', 'pledge:0.1568', 'changing:0.1453', 'secretary:0.1402', 'fall:0.1399', 'flank:0.1314', 'child:0.1082', 'plus:0.0991', 'prepositioned:0.0851', 'subscribe:0.0851', 'coverage:0.079', 'thousand:0.0742']+titles_keywords+['russiaukraine:0.4894', 'war:0.4291', 'today:0.3085', 'june:0.3051', 'happened:0.2632']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/kgou.org/Ukraine leader says US panic is playing into Russias strategy.txt+eventbasecode42+eventcode42+avgtone0.4782608695652174+goldsteinscale0.595+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.046052631578947366+news_keywords+['ukraine:0.4826', 'nato:0.4271', 'kremlin:0.4061', 'war:0.3412', 'escalation:0.2917', 'prepare:0.2432', 'separatist:0.2373', 'macron:0.2313', 'panic:0.2205', 'know:0.2194', 'border:0.2175', 'soon:0.2136', 'adviser:0.2135', 'colonel:0.2041', 'volodymyr:0.1838', 'remain:0.1773', 'pipeline:0.1738', 'note:0.1635', 'end:0.1604', 'report:0.1547', 'issue:0.1458', 'npr:0.1414', 'upbeat:0.1295', 'chop:0.1289', 'wide:0.1223', 'compare:0.1194', 'new:0.1115', 'possible:0.1045', 'retake:0.0938', 'snell:0.0601']+titles_keywords+['panic:0.3657', 'strategy:0.3296', 'russias:0.3059', 'leader:0.1504', 'says:0.1035']"
+        ],
+        [
+            "20220707+../news_crawling/RUS_UKR/p_articles/kgou.org/The Russian army appears close to taking the entire Donbas region.txt+eventbasecode42+eventcode42+avgtone0.5217391304347826+goldsteinscale0.595+nummentions0.07002902757619739+numarticles0.07070340826686004+numsources0.07894736842105263+news_keywords+['ukraine:0.479', 'putin:0.4415', 'conquer:0.391', 'zelenskyy:0.2997', 'guerre:0.296', 'separatist:0.2653', 'donbas:0.2634', 'fight:0.2483', 'military:0.2388', 'liakh:0.2105', 'end:0.2085', 'revert:0.2003', 'long:0.2002', 'objective:0.1989', 'explain:0.1894', 'ally:0.1862', 'architecture:0.1854', 'subjugating:0.1797', 'boy:0.1792', 'hall:0.1769', 'order:0.1766', 'hear:0.1747', 'power:0.1746', 'news:0.1721', 'transcript:0.1639', 'present:0.1628', 'like:0.1467', 'pleased:0.1464', 'despite:0.1355', 'byline:0.1208']+titles_keywords+['donbas:0.4268', 'russian:0.376', 'army:0.2818', 'entire:0.146', 'close:0.1215']"
+        ]
+    ]
+}

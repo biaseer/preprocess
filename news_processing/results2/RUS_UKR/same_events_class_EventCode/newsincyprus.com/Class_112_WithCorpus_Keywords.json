@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220629+../news_crawling/RUS_UKR/p_articles/newsincyprus.com/Russia tells UN chief its ready to help avert food crisis.txt+eventbasecode112+eventcode112+avgtone0.4619047619047619+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['russia:0.3591', 'food:0.2689', 'ready:0.2311', 'fertiliser:0.2104', 'crisis:0.2061', 'nations:0.2053', 'export:0.1998', 'willing:0.1819', 'work:0.1794', 'global:0.1587', 'help:0.1482', 'obligation:0.1292', 'avert:0.1249', 'united:0.1207', 'meet:0.1105', 'risk:0.1031', 'say:0.0926', 'combat:0.0882', 'wednesday:0.0777', 'tell:0.0679', 'chief:0.0649']+titles_keywords+['russia:0.3203', 'food:0.2266', 'ready:0.1066', 'avert:0.0832', 'chief:0.0755']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20211211+../news_crawling/RUS_UKR/p_articles/newsincyprus.com/EU warns Russia Aggression comes with a price tag.txt+eventbasecode112+eventcode112+avgtone0.4519230769230768+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4165', 'eu:0.3779', 'russia:0.3755', 'invaded:0.34', 'consequence:0.3123', 'moscow:0.3026', 'warn:0.2772', 'aggression:0.2681', 'germanys:0.2435', 'border:0.2433', 'european:0.2381', 'price:0.2175', 'come:0.2143', 'union:0.2019', 'troop:0.1933', 'tension:0.1697', 'resolve:0.1511', 'tag:0.1358', 'talk:0.1334', 'chancellor:0.121', 'face:0.1092', 'amass:0.0945', 'new:0.0846']+titles_keywords+['russia:0.3429', 'aggression:0.2895', 'warns:0.256', 'price:0.2548', 'tag:0.1086']"
+        ]
+    ]
+}

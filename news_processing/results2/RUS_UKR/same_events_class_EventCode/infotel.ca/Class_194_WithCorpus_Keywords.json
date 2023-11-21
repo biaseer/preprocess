@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220813+../news_crawling/RUS_UKR/p_articles/infotel.ca/Russian shelling heavy in east Ukraine strikes key bridge.txt+eventbasecode194+eventcode194+avgtone0.47121710526315785+goldsteinscale0.0+nummentions0.03011611030478955+numarticles0.01885424220449601+numsources0.019736842105263157+news_keywords+['crimea:0.4972', 'kremlin:0.4732', 'russian:0.4096', 'separatists:0.3265', 'zelenskyy:0.3072', 'invasion:0.3007', 'provocation:0.2734', 'military:0.2715', 'explode:0.2588', 'resupply:0.2571', 'strike:0.2378', 'bridge:0.2359', 'hydropower:0.2344', 'casualty:0.226', 'safety:0.2128', 'gov:0.2076', 'capital:0.2021', 'term:0.2004', 'groundwork:0.1992', 'write:0.1868', 'telegram:0.1816', 'kilometer:0.1794', 'continue:0.1759', 'long:0.1734', 'elaborate:0.169', 'friday:0.1664', 'ap:0.1417', 'residential:0.1355', 'counteroffensive:0.1331', 'significant:0.1163']+titles_keywords+['russian:0.3173', 'bridge:0.2761', 'key:0.2234', 'shelling:0.2032', 'strikes:0.0505']"
+        ],
+        [
+            "20220825+../news_crawling/RUS_UKR/p_articles/infotel.ca/Putin orders troop replenishment in face of Ukraine losses.txt+eventbasecode194+eventcode194+avgtone0.46666666666666673+goldsteinscale0.0+nummentions0.28592162554426703+numarticles0.2864394488759971+numsources0.24013157894736842+news_keywords+['ukraine:0.4714', 'kremlin:0.4691', 'moscows:0.4116', 'chernobyl:0.3899', 'bloodshed:0.3422', 'civilians:0.3313', 'pentagon:0.3016', 'reservist:0.2973', 'zelenskyy:0.2807', 'emergency:0.2686', 'destroy:0.2448', 'coup:0.243', 'news:0.2403', 'concern:0.2168', 'report:0.2165', 'reminder:0.2143', 'predict:0.213', 'train:0.2113', 'order:0.203', 'power:0.1923', 'boy:0.1912', 'increase:0.1899', 'turn:0.1886', 'president:0.1861', 'april:0.1857', 'brace:0.1846', 'range:0.159', 'modern:0.1474', 'quote:0.1115', 'stoked:0.0961']+titles_keywords+['putin:0.4333', 'replenishment:0.3769', 'ukraine:0.3699', 'troop:0.2903', 'losses:0.2029']"
+        ]
+    ]
+}

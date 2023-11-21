@@ -1,0 +1,25 @@
+{
+    "RUS+EUR+120":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/ukrinform.net/EUs seventh sanctions package against Russia may block all Russian banks Office of the President.txt+eventbasecode120+eventcode120+avgtone0.4782608695652174+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['sanction:0.434', 'putin:0.4173', 'ukrainian:0.3644', 'russias:0.3551', 'block:0.3139', 'podolyak:0.2789', 'bank:0.2711', 'seventh:0.2241', 'correspondent:0.2135', 'report:0.207', 'ukrinform:0.2062', 'rule:0.1903', 'accept:0.181', 'position:0.179', 'gazprombank:0.1757', 'warfare:0.1741', 'civilized:0.1705', 'understand:0.164', 'statement:0.1587', 'reminder:0.1561', 'decide:0.155', 'initiate:0.1548', 'package:0.1451', 'word:0.1271', 'include:0.121', 'february:0.1139', 'head:0.1084', 'make:0.0904', 'state:0.0888', 'scale:0.0566']+titles_keywords+['sanctions:0.4599', 'banks:0.3255', 'russian:0.2481', 'president:0.1829', 'seventh:0.1575']"
+        ]
+    ],
+    "RUS+UKR+120":[
+        [
+            "20220520+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Russia spreading fake bomb reports across Transnistria to destabilize region Land Forces.txt+eventbasecode120+eventcode120+avgtone0.47744360902255645+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.4817', 'bessarabian:0.4394', 'transnistria:0.4374', 'russian:0.3912', 'destabilize:0.3124', 'tiraspol:0.267', 'bomb:0.2396', 'region:0.2353', 'report:0.2285', 'infrastructure:0.2267', 'military:0.209', 'donbas:0.203', 'telegram:0.2002', 'fake:0.1817', 'read:0.1735', 'control:0.1706', 'corridor:0.161', 'oppression:0.1591', 'ukrinform:0.158', 'facts:0.1343', 'state:0.1225', 'spread:0.1144', 'say:0.1133', 'population:0.1103', 'ongoing:0.1', 'allegedly:0.0819', 'accord:0.0699', 'include:0.069', 'bendery:0.0652', 'earlier:0.0517']+titles_keywords+['russia:0.4387', 'bomb:0.3483', 'transnistria:0.3334', 'fake:0.2884', 'reports:0.2432']"
+        ],
+        [
+            "20220704+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Russia ruined about 80000 objects in Ukraine millions of human lives Zelensky.txt+eventbasecode120+eventcode120+avgtone0.4666666666666666+goldsteinscale0.3+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4657', 'zelensky:0.3764', 'destroy:0.3566', 'terrorist:0.3558', 'war:0.3088', 'infrastructure:0.2411', 'ideological:0.2374', 'correspondent:0.2227', 'learn:0.2132', 'volodymyr:0.1978', 'statement:0.1739', 'report:0.1645', 'word:0.1552', 'ukrinform:0.1504', 'people:0.1446', 'object:0.141', 'prove:0.1407', 'residential:0.1389', 'make:0.1381', 'burnt:0.1208', 'maternity:0.1182', 'basic:0.1163', 'socialize:0.1117', 'month:0.1111', 'continuous:0.111', 'dozen:0.1045', 'hope:0.0801', 'normal:0.0764', 'allegedly:0.0505', 'looking:0.0325']+titles_keywords+['zelensky:0.4788', 'russia:0.4718', 'ruined:0.2862', 'lives:0.2618', '80000:0.1473']"
+        ]
+    ],
+    "RUS+USA+120":[
+        [
+            "20210701+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Kuleba names key topic of ZelenskyBiden meeting.txt+eventbasecode120+eventcode120+avgtone0.4914383561643835+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.42', 'diplomatic:0.3998', 'zelensky:0.3338', 'war:0.3179', 'surkov:0.2941', 'talk:0.2663', 'biden:0.2597', 'meet:0.2597', 'kuleba:0.2579', 'impasse:0.2438', 'interaction:0.2358', 'news:0.1826', 'result:0.1759', 'know:0.1738', 'settlement:0.1679', 'fulfill:0.1678', 'visit:0.1597', 'party:0.1557', 'leader:0.1557', 'step:0.1381', 'counterpart:0.1352', 'investment:0.135', 'ready:0.1344', 'format:0.1344', 'remember:0.129', 'july:0.1284', 'trade:0.1244', 'track:0.1055', 'dmytro:0.0973', 'combination:0.0841']+titles_keywords+['zelenskybiden:0.5038', 'kuleba:0.4624', 'meeting:0.3995', 'topic:0.2005', 'names:0.1402']"
+        ]
+    ],
+    "WST+RUS+120":[
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Johnson to urge France Germany to provide more weapons to Ukraine at G7 NATO summits.txt+eventbasecode120+eventcode120+avgtone0.5066666666666666+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.4992', 'ceasefire:0.3775', 'ukrainians:0.3096', 'president:0.3017', 'rwandan:0.2623', 'germany:0.2142', 'achieve:0.201', 'economic:0.2008', 'kigali:0.1976', 'johnson:0.1942', 'empower:0.1933', 'coerce:0.1925', 'summit:0.1918', 'want:0.1833', 'warn:0.1831', 'outcome:0.1752', 'ally:0.1615', 'pressure:0.145', 'say:0.1434', 'pm:0.1335', 'weapon:0.1233', 'return:0.1194', 'unnecessary:0.1166', 'june:0.1153', 'drag:0.1098', 'unfavorable:0.1047', 'support:0.1039', 'term:0.0915', 'chunk:0.0642', 'maybe:0.0255']+titles_keywords+['nato:0.4', 'weapons:0.2255', 'johnson:0.2212', 'g7:0.1925', 'provide:0.1297']"
+        ]
+    ]
+}

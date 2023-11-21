@@ -1,0 +1,25 @@
+{
+    "EUR+RUS+46":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/heraldglobe.com/Putin Plans to Recognize Separatist Regions in Eastern Ukraine.txt+eventbasecode46+eventcode46+avgtone0.4816176470588235+goldsteinscale0.85+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.023026315789473683+news_keywords+['putin:0.4959', 'diplomacy:0.3986', 'nato:0.3899', 'kyiv:0.351', 'invades:0.3288', 'republics:0.2895', 'separatist:0.2843', 'proceed:0.2783', 'meeting:0.2478', 'predict:0.2379', 'border:0.2372', 'adviser:0.2329', 'crisis:0.2281', 'imminently:0.2248', 'uncertain:0.2222', 'flag:0.2171', 'plan:0.2129', 'psaki:0.2128', 'news:0.2002', 'ready:0.1898', 'monday:0.1865', 'state:0.1787', 'peninsula:0.1766', 'want:0.1723', 'prospect:0.1655', 'say:0.1606', 'sign:0.15', 'explanation:0.1385', 'long:0.1316', 'agree:0.0688']+titles_keywords+['ukraine:0.4053', 'putin:0.4033', 'separatist:0.305', 'recognize:0.166', 'plans:0.0917']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/heraldglobe.com/Putin Orders Nuclear Deterrent Forces on High Alert.txt+eventbasecode46+eventcode46+avgtone0.47838899803536344+goldsteinscale0.85+nummentions0.14912917271407838+numarticles0.1410442349528644+numsources0.5230263157894737+news_keywords+['putin:0.4475', 'kyiv:0.4007', 'nato:0.3821', 'war:0.3673', 'invasion:0.343', 'military:0.2972', 'nuclear:0.2676', 'news:0.2422', 'kill:0.2381', 'alert:0.2239', 'enter:0.2084', 'separatist:0.2076', 'aggressive:0.2074', 'expect:0.1966', 'order:0.193', 'pipeline:0.191', 'casualty:0.1859', 'cite:0.1847', 'pripyat:0.1817', 'continue:0.1815', 'sanction:0.1794', 'ready:0.1682', 'precondition:0.163', 'secretary:0.1547', 'essentially:0.1232', 'feb:0.1207', 'kilometer:0.1194', 'voa:0.1184', 'stretch:0.1093', 'upper:0.0894']+titles_keywords+['putin:0.4217', 'nuclear:0.3938', 'forces:0.1907', 'orders:0.1688', 'alert:0.1566']"
+        ],
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/heraldglobe.com/Ukraine explains why its not interested in temporary truce.txt+eventbasecode46+eventcode46+avgtone0.48922800718132853+goldsteinscale0.85+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.019736842105263157+news_keywords+['crimea:0.4562', 'truce:0.4171', 'minsks:0.3696', 'negotiation:0.3508', 'nato:0.3362', 'protocol:0.2547', 'status:0.215', 'humanitarian:0.2099', 'reunite:0.2023', 'adviser:0.1881', 'news:0.1833', 'neutral:0.1808', 'meaningless:0.18', 'zelensky:0.1753', 'unprovoked:0.1746', 'bloc:0.1734', 'short:0.163', 'hold:0.1614', 'term:0.1587', 'end:0.1569', 'future:0.1533', 'corridor:0.1494', 'follow:0.1412', 'vote:0.1254', 'declare:0.1131', 'send:0.0948', 'stimulate:0.0841', 'cover:0.0766', 'possible:0.0754', 'regularize:0.0526']+titles_keywords+['ukraine:0.4751', 'truce:0.4448', 'temporary:0.1715', 'explains:0.1204', 'interested:0.0416']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/heraldglobe.com/Erdogan to host cabinet meeting on Turkeys Ukraine mediation on Monday.txt+eventbasecode46+eventcode46+avgtone0.5093167701863355+goldsteinscale0.85+nummentions0.04462989840348331+numarticles0.044960116026105876+numsources0.10197368421052631+news_keywords+['erdogan:0.4976', 'istanbul:0.4079', 'nato:0.3547', 'ukraine:0.354', 'meeting:0.3401', 'turkeys:0.2986', 'mediation:0.2866', 'peace:0.2755', 'president:0.2634', 'talk:0.2625', 'tayyip:0.2609', 'negotiator:0.2603', 'vladimir:0.2461', 'agenda:0.2222', 'cabinet:0.1852', 'hour:0.1662', 'exchange:0.165', 'tomorrow:0.16', 'contact:0.1556', 'expect:0.1483', 'host:0.1461', 'long:0.1381', 'matter:0.129', 'begin:0.1202', 'source:0.114', 'say:0.1134', 'ally:0.095', 'familiar:0.0886', 'recep:0.0874', 'add:0.0634']+titles_keywords+['erdogan:0.4221', 'meeting:0.3516', 'mediation:0.3011', 'turkeys:0.2585', 'host:0.1866']"
+        ]
+    ],
+    "WST+RUS+46":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/heraldglobe.com/NATO kept doors open for Russia Clinton.txt+eventbasecode46+eventcode46+avgtone0.4876373626373626+goldsteinscale0.85+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.03618421052631579+news_keywords+['nato:0.4912', 'yeltsin:0.3902', 'russia:0.3805', 'kiev:0.355', 'imperialism:0.2787', 'eastward:0.2762', 'bloc:0.2446', 'clinton:0.241', 'protocol:0.227', 'ultranationalist:0.2222', 'unprovoked:0.2179', 'govern:0.2146', 'attack:0.2101', 'successor:0.2097', 'cite:0.1943', 'continue:0.1872', 'neutral:0.1751', 'breakup:0.1728', 'publish:0.1585', 'join:0.1578', 'term:0.1546', 'agreement:0.1505', 'open:0.1458', 'according:0.1378', 'enlarge:0.1338', 'maintain:0.1338', 'state:0.1325', 'deny:0.1285', 'lead:0.1277', 'donbass:0.1058']+titles_keywords+['nato:0.5247', 'clinton:0.3445', 'russia:0.2932', 'open:0.2153', 'kept:0.1005']"
+        ]
+    ]
+}

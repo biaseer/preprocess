@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+333":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/bangkokpost.com/Russias interests nonnegotiable Trump hails genius Putin.txt+eventbasecode33+eventcode333+avgtone0.4940374787052811+goldsteinscale0.76+nummentions0.050072568940493466+numarticles0.050761421319796954+numsources0.049342105263157895+news_keywords+['putin:0.5334', 'russias:0.4149', 'diplomatic:0.4055', 'nato:0.3797', 'kyiv:0.371', 'federation:0.2891', 'neutrality:0.2773', 'crisis:0.271', 'election:0.2484', 'invasion:0.2315', 'escalate:0.2228', 'sanction:0.216', 'argue:0.2059', 'separate:0.202', 'region:0.2012', 'respond:0.1936', 'plan:0.1815', 'want:0.1794', 'know:0.1791', 'relation:0.1687', 'soon:0.162', 'elaborate:0.1601', 'smart:0.1482', 'avert:0.1346', 'file:0.1247', 'oh:0.1238', 'radio:0.1154', 'replicate:0.1152', 'upper:0.0994', 'potentially:0.0819']+titles_keywords+['putin:0.5326', 'nonnegotiable:0.2795', 'genius:0.2172', 'hails:0.2126', 'interests:0.1448']"
+        ]
+    ],
+    "UKR+RUS+333":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/bangkokpost.com/Built in wake of WWII Kyiv metro offers shelter from Russian shells.txt+eventbasecode33+eventcode333+avgtone0.4793814432989691+goldsteinscale0.76+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.013157894736842105+news_keywords+['kyiv:0.5451', 'dorohozhychi:0.4246', 'shelter:0.3484', 'putin:0.3143', 'tunnel:0.2991', 'safer:0.291', 'metro:0.2861', 'wwii:0.2831', 'bomb:0.2769', 'street:0.2722', 'comprehend:0.2695', 'escalator:0.2571', 'frighten:0.254', 'worry:0.2476', 'live:0.2449', 'news:0.2389', 'help:0.2317', 'dovgan:0.2196', 'world:0.1921', 'th:0.1919', 'reunite:0.1911', 'people:0.1907', 'surreal:0.1905', 'past:0.1899', 'turn:0.1839', 'silent:0.1826', 'begin:0.1805', 'shellfire:0.1629', 'hour:0.1606', 'grad:0.1582']+titles_keywords+['kyiv:0.5389', 'shelter:0.2886', 'wwii:0.2749', 'shells:0.2201', 'built:0.1299']"
+        ]
+    ]
+}

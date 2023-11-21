@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/US Navy Drone Boats May Change the Naval Equation in Ukraine.txt+eventbasecode194+eventcode194+avgtone0.48713550600343053+goldsteinscale0.0+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['nato:0.4015', 'naval:0.3665', 'pentagon:0.3472', 'ukraines:0.3275', 'blockade:0.32', 'odessa:0.3046', 'drone:0.2915', 'boats:0.2626', 'armyacquisition:0.2559', 'russian:0.251', 'operation:0.2365', 'firepower:0.234', 'usvare:0.2044', 'autonomy:0.1952', 'advantage:0.1927', 'economy:0.1835', 'forward:0.169', 'defend:0.1689', 'know:0.1676', 'news:0.1409', 'consolidate:0.1303', 'careful:0.128', 'rhetoric:0.1173', 'kirby:0.1055', 'continue:0.0921', 'possibly:0.0888', 'kris:0.0824', 'nonfactor:0.0795', 'detect:0.0754', 'send:0.0552']+titles_keywords+['drone:0.4882', 'naval:0.4436', 'boats:0.3593', 'ukraine:0.3559', 'change:0.1109']"
+        ]
+    ],
+    "UKR+RUS+194":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/Ukraines Drone Boats Are Holding Back the Russian Navy.txt+eventbasecode194+eventcode194+avgtone0.4907597535934291+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.3997', 'missiles:0.3552', 'drone:0.3508', 'pentagon:0.3065', 'navy:0.2814', 'war:0.2694', 'capabilities:0.2101', 'resupply:0.2084', 'sonar:0.2034', 'amphibious:0.2031', 'pursue:0.1647', 'guidance:0.1641', 'risk:0.146', 'additionally:0.1448', 'donbas:0.1422', 'msnbc:0.1366', 'breakthrough:0.133', 'comparative:0.1324', 'dependent:0.1133', 'term:0.1001', 'radiofrequency:0.0978', 'degree:0.0969', 'node:0.0919', 'complicate:0.091', 'true:0.0881', 'data:0.0828', 'long:0.0791', 'like:0.0637', 'surprising:0.0518', 'transcript:0.0462']+titles_keywords+['ukraines:0.474', 'drone:0.4222', 'boats:0.3925', 'navy:0.3483', 'holding:0.0863']"
+        ]
+    ]
+}

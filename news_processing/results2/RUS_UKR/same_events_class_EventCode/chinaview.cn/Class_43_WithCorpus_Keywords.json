@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+43":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/chinaview.cn/Ukraine introduces special measures in regions bordering Russia Belarus.txt+eventbasecode43+eventcode43+avgtone0.47649572649572647+goldsteinscale0.64+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.01644736842105263+news_keywords+['ukraine:0.495', 'border:0.3536', 'treaty:0.3139', 'government:0.2731', 'security:0.2694', 'emergency:0.2688', 'region:0.2666', 'invasion:0.2582', 'conflict:0.256', 'troop:0.2328', 'restriction:0.2079', 'impose:0.1964', 'state:0.1914', 'defend:0.1902', 'flight:0.1749', 'introduce:0.1558', 'unmanned:0.1541', 'photograph:0.1203', 'arm:0.1198', 'start:0.1179', 'include:0.1151', 'increase:0.1102', 'measure:0.1023', 'feb:0.1005', 'statement:0.1001', 'approves:0.0981', 'object:0.0958', 'near:0.0894', 'day:0.0412', 'possible:0.0315']+titles_keywords+['belarus:0.4834', 'regions:0.3339', 'bordering:0.2845', 'special:0.1026', 'measures:0.0846']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/chinaview.cn/Facts about RussiaUkraine conflict Ukrainian president British PM discuss defensive support.txt+eventbasecode43+eventcode43+avgtone0.504+goldsteinscale0.64+nummentions0.06567489114658925+numarticles0.06635242929659173+numsources0.06578947368421052+news_keywords+['ukraine:0.4568', 'erdogan:0.43', 'diplomatic:0.4198', 'conflict:0.3544', 'humanitarian:0.3281', 'peace:0.3118', 'economy:0.2932', 'telegram:0.2726', 'xinhua:0.2698', 'evacuation:0.2655', 'directorate:0.2556', 'talk:0.2402', 'topic:0.2361', 'unite:0.2161', 'ongoing:0.2123', 'stability:0.2096', 'conference:0.2051', 'general:0.201', 'brief:0.1962', 'world:0.1862', 'want:0.1682', 'pm:0.1667', 'fund:0.1651', 'according:0.1578', 'visit:0.1458', 'play:0.1394', 'saturday:0.1221', 'joko:0.1152', 'billion:0.1086', 'ready:0.1042']+titles_keywords+['ukrainian:0.4212', 'conflict:0.3019', 'facts:0.2024', 'defensive:0.156', 'pm:0.1114']"
+        ]
+    ]
+}

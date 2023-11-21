@@ -1,0 +1,22 @@
+{
+    "DEU+RUS+130":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/Why Israel Is Paying Close Attention to Ukraine.txt+eventbasecode130+eventcode130+avgtone0.49077733860342554+goldsteinscale0.27999999999999997+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['geopolitical:0.4287', 'crimea:0.4175', 'israels:0.3859', 'treaty:0.3796', 'militarily:0.3194', 'memorandum:0.2936', 'vladimir:0.2758', 'destabilize:0.2686', 'agreement:0.2221', 'crisis:0.2206', 'rhetoric:0.2047', 'repercussion:0.192', 'biden:0.189', 'unwillingness:0.18', 'risk:0.1698', 'aggressive:0.1693', 'relation:0.169', 'table:0.1634', 'know:0.1573', 'merely:0.1502', 'enters:0.1419', 'state:0.1401', 'powersincluding:0.1346', 'turn:0.1303', 'soon:0.1266', 'tweet:0.1194', 'possibility:0.1125', 'generate:0.0772', 'welcome:0.0603', 'stock:0.0592']+titles_keywords+['israel:0.4792', 'ukraine:0.4758', 'attention:0.2626', 'paying:0.0422', 'close:0.0345']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/As Russia Retreats East Pentagon Warns of Missile Risk to Kyiv.txt+eventbasecode130+eventcode130+avgtone0.47597864768683273+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5005', 'airstrikes:0.3741', 'russias:0.3471', 'pentagon:0.3177', 'missile:0.2631', 'infantry:0.2578', 'retreat:0.2559', 'intercept:0.217', 'logistics:0.2062', 'warns:0.2005', 'reposition:0.196', 'surround:0.1868', 'eastern:0.177', 'news:0.1725', 'osborn:0.1608', 'defense:0.1599', 'distances:0.1595', 'fly:0.1519', 'incoming:0.1492', 'additional:0.1384', 'underequipped:0.1293', 'intermediate:0.1284', 'withdraw:0.126', 'secretary:0.1228', 'unclear:0.1138', 'long:0.1109', 'concentrate:0.1062', 'comparative:0.104', 'transcript:0.0973', 'april:0.0818']+titles_keywords+['kyiv:0.4688', 'pentagon:0.3952', 'missile:0.2728', 'warns:0.212', 'retreats:0.1931']"
+        ]
+    ],
+    "UKR+CHN+130":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/Ukraine Can Show Taiwan How to Win a Cyberwar With China.txt+eventbasecode130+eventcode130+avgtone0.4746922024623803+goldsteinscale0.27999999999999997+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['cyberwarfare:0.5103', 'taiwan:0.4044', 'tactic:0.302', 'protect:0.2656', 'soviet:0.2638', 'technology:0.2597', 'military:0.2493', 'annexation:0.2472', 'advantage:0.2417', 'assistance:0.2269', 'learn:0.224', 'logistical:0.2183', 'scenario:0.2097', 'ciso:0.2049', 'supremacy:0.1837', 'tel:0.175', 'botch:0.167', 'playbook:0.1601', 'forward:0.1446', 'spacexs:0.1424', 'prove:0.1326', 'source:0.1201', 'grid:0.1191', 'kinetic:0.1035', 'similar:0.0824', 'true:0.0762', 'long:0.0618', 'enjoy:0.0568', 'include:0.0519', 'january:0.0453']+titles_keywords+['cyberwar:0.5144', 'ukraine:0.4148', 'taiwan:0.4086', 'win:0.2706', 'china:0.2651']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220819+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/Massacre 20 Ukrainians Killed by Russian Iskander Strike on Railway Station.txt+eventbasecode130+eventcode130+avgtone0.463953488372093+goldsteinscale0.27999999999999997+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.4702', 'kremlin:0.4242', 'ukrainians:0.4222', 'massacre:0.3862', 'sergei:0.3717', 'terrorist:0.3502', 'destroy:0.2708', 'casualty:0.267', 'military:0.2602', 'corroborate:0.2528', 'briefing:0.2494', 'railway:0.2329', 'poltava:0.2309', 'commemorate:0.2151', 'read:0.2129', 'strike:0.2037', 'aircraftincluding:0.1837', 'boy:0.1741', 'result:0.1711', 'supply:0.1685', 'lt:0.1604', 'donbass:0.1538', 'official:0.1525', 'august:0.1399', 'long:0.1396', 'independently:0.1393', 'direct:0.1306', 'deliberately:0.1191', 'underneath:0.1168', 'state:0.1128']+titles_keywords+['ukrainians:0.4782', 'massacre:0.4149', 'railway:0.2819', 'strike:0.2354', 'iskander:0.2343']"
+        ]
+    ]
+}

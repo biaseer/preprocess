@@ -1,0 +1,14 @@
+{
+    "DEU+UKR+42":[
+        []
+    ],
+    "EUR+UKR+42":[
+        []
+    ],
+    "UKR+RUS+42":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/journalstar.com/Complete coverage Ukraine war escalates as Russia appears headed for capital.txt+eventbasecode42+eventcode42+avgtone0.43801652892562004+goldsteinscale0.595+nummentions0.1534833091436865+numarticles0.14757070340826686+numsources0.29276315789473684+news_keywords+['ukraine:0.4917', 'putin:0.4124', 'war:0.3987', 'airstrikes:0.3799', 'diplomatic:0.3148', 'escalate:0.2733', 'nuclear:0.2557', 'salvo:0.2395', 'fight:0.2373', 'regime:0.2318', 'interfere:0.2044', 'consequence:0.2011', 'capital:0.199', 'brace:0.173', 'seize:0.1685', 'order:0.1548', 'unleash:0.152', 'hop:0.1502', 'heard:0.1459', 'friday:0.1365', 'global:0.1326', 'rewrite:0.1324', 'hour:0.1323', 'amid:0.1303', 'base:0.1253', 'cold:0.1171', 'official:0.1136', 'eventually:0.1128', 'resolution:0.085', 'new:0.0824']+titles_keywords+['ukraine:0.4318', 'war:0.313', 'escalates:0.3008', 'capital:0.2655', 'headed:0.1404']"
+        ],
+        []
+    ]
+}

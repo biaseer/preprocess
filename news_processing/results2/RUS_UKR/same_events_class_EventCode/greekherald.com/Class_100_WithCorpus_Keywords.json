@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+100":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/greekherald.com/Fears of Indiscriminate Russian Shelling Mount as Ukraine Battles On.txt+eventbasecode100+eventcode100+avgtone0.4723065250379363+goldsteinscale0.25+nummentions0.06386066763425254+numarticles0.06453952139231327+numsources0.14473684210526316+news_keywords+['kyiv:0.5255', 'putin:0.3813', 'kalashnikov:0.299', 'invasion:0.2944', 'correspondent:0.2676', 'infrastructure:0.2598', 'military:0.2556', 'strategic:0.2429', 'destroy:0.2332', 'conflict:0.2319', 'worry:0.2275', 'casualty:0.2232', 'tank:0.2223', 'intercept:0.21', 'trigger:0.2072', 'precede:0.2009', 'shift:0.1949', 'telegram:0.1948', 'stay:0.1818', 'curfew:0.1801', 'increase:0.1755', 'northern:0.1707', 'bratchuk:0.1702', 'expect:0.162', 'stock:0.1545', 'buk:0.1454', 'plant:0.1369', 'good:0.1354', 'major:0.1286', 'population:0.1139']+titles_keywords+['ukraine:0.3533', 'fears:0.3328', 'shelling:0.2339', 'indiscriminate:0.2055', 'mount:0.1588']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220630+../news_crawling/RUS_UKR/p_articles/greekherald.com/Live Historic NATO summit comes to a close in Madrid.txt+eventbasecode100+eventcode100+avgtone0.48962834917891096+goldsteinscale0.25+nummentions0.02939042089985486+numarticles0.03009427121102248+numsources0.02631578947368421+news_keywords+['nato:0.5259', 'kyiv:0.4476', 'putin:0.4242', 'news:0.2723', 'invasion:0.2665', 'falkland:0.266', 'history:0.2632', 'victory:0.2407', 'protocol:0.2406', 'strategic:0.239', 'summit:0.2338', 'ratify:0.2242', 'union:0.2088', 'unprovoked:0.203', 'organise:0.2009', 'soon:0.2004', 'thatcher:0.1956', 'april:0.1932', 'biden:0.1883', 'deficit:0.1862', 'anticipate:0.1838', 'general:0.1788', 'gmt:0.1785', 'clearing:0.175', 'increasingly:0.1675', 'perfect:0.1671', 'end:0.138', 'ria:0.1363', 'say:0.1347', 'export:0.1033']+titles_keywords+['nato:0.4661', 'madrid:0.3422', 'summit:0.2863', 'live:0.2221', 'comes:0.1275']"
+        ]
+    ]
+}

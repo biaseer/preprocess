@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+46":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/chosun.com/Washington Announces Sanctions After Putin Recognizes Breakaway Regions of Ukraine.txt+eventbasecode46+eventcode46+avgtone0.4835423197492163+goldsteinscale0.85+nummentions0.008345428156748911+numarticles0.009064539521392313+numsources0.009868421052631578+news_keywords+['sanctions:0.4728', 'putin:0.4443', 'diplomacy:0.4193', 'crimean:0.4072', 'nato:0.4036', 'invades:0.3612', 'separatist:0.3294', 'proceed:0.2978', 'crisis:0.274', 'executive:0.2656', 'declaration:0.2584', 'regions:0.2584', 'flag:0.2578', 'psaki:0.2559', 'reconnaissance:0.2558', 'predict:0.2354', 'imminently:0.2295', 'news:0.2257', 'order:0.2234', 'plan:0.2155', 'state:0.1914', 'ready:0.1807', 'slap:0.1799', 'lengthy:0.1758', 'explanation:0.1696', 'monday:0.1669', 'donbas:0.1583', 'fear:0.1556', 'televise:0.1491', 'like:0.1488']+titles_keywords+['sanctions:0.4231', 'ukraine:0.3772', 'washington:0.2264', 'breakaway:0.2124', 'recognizes:0.1283']"
+        ]
+    ],
+    "RUS+RUS+46":[
+        [
+            "20220207+../news_crawling/RUS_UKR/p_articles/chosun.com/US Russian Invasion of Ukraine Could Happen at Any Time.txt+eventbasecode46+eventcode46+avgtone0.4985875706214689+goldsteinscale0.85+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['nato:0.4921', 'ukrainians:0.4065', 'invade:0.3996', 'putin:0.395', 'kyiv:0.3601', 'war:0.3425', 'troop:0.3103', 'strategic:0.3029', 'escalation:0.2566', 'prepare:0.2372', 'adviser:0.2112', 'order:0.2064', 'truck:0.2053', 'concern:0.2019', 'alongside:0.1814', 'news:0.1724', 'eastern:0.1633', 'possibility:0.1613', 'pipeline:0.1608', 'range:0.1605', 'lead:0.1582', 'willing:0.1578', 'help:0.145', 'sullivan:0.1443', 'technologies:0.1273', 'big:0.1233', 'million:0.1173', 'exercise:0.1092', 'say:0.1039', 'redirect:0.1023']+titles_keywords+['ukraine:0.3674', 'invasion:0.3211', 'russian:0.302', 'happen:0.2164', 'time:0.1671']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/chosun.com/Ukraine Ceasefire Elusive But UN Efforts Continue.txt+eventbasecode46+eventcode46+avgtone0.49242424242424243+goldsteinscale0.85+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.01644736842105263+news_keywords+['ceasefire:0.5455', 'kyiv:0.404', 'humanitarian:0.4024', 'erdogan:0.3536', 'convoys:0.2945', 'emergency:0.2687', 'displaced:0.2662', 'nongovernment:0.2581', 'negotiate:0.2214', 'unclear:0.2091', 'coordinator:0.2077', 'region:0.2027', 'continue:0.183', 'table:0.18', 'forward:0.1726', 'flee:0.1683', 'long:0.1615', 'want:0.1509', 'corridor:0.1498', 'efforts:0.1471', 'substantive:0.1424', 'resume:0.1415', 'worry:0.1397', 'feb:0.1365', 'unrealized:0.1332', 'monitor:0.1295', 'reopen:0.1095', 'right:0.1067', 'donbas:0.0876', 'ready:0.0852']+titles_keywords+['ceasefire:0.4557', 'ukraine:0.3693', 'elusive:0.2772', 'efforts:0.212', 'continue:0.1738']"
+        ]
+    ]
+}

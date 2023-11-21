@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+190":[
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/gloucestershirelive.co.uk/Putin eyes powerful Kremlin job for daughter as rumours over his health continue.txt+eventbasecode190+eventcode190+avgtone0.49699398797595185+goldsteinscale0.0+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.013157894736842105+news_keywords+['putin:0.5857', 'kremlin:0.5486', 'dmitry:0.4575', 'patrushev:0.3945', 'regime:0.3621', 'katerina:0.3111', 'succession:0.3059', 'secretary:0.2926', 'candidacy:0.2844', 'tikhonova:0.2576', 'wife:0.2463', 'situation:0.2248', 'telegram:0.2229', 'rumour:0.2078', 'lyudmila:0.1984', 'head:0.1927', 'powerful:0.1901', 'information:0.1824', 'source:0.1822', 'approves:0.1776', 'report:0.1773', 'stability:0.1749', 'raise:0.1522', 'suffer:0.1485', 'circulate:0.1472', 'prerequisite:0.1403', 'soon:0.1294', 'state:0.1283', 'amid:0.1251', 'parkinsons:0.0957']+titles_keywords+['kremlin:0.46', 'job:0.2262', 'rumours:0.2042', 'daughter:0.2015', 'powerful:0.1101']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/gloucestershirelive.co.uk/Ukraine war Before and after images show scale of destruction.txt+eventbasecode190+eventcode190+avgtone0.4664179104477612+goldsteinscale0.0+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.049342105263157895+news_keywords+['ukraine:0.495', 'war:0.4011', 'vladimir:0.2872', 'kharkiv:0.2547', 'bombardment:0.2472', 'humanitarian:0.2275', 'convoy:0.2033', 'government:0.2031', 'crisis:0.1909', 'earlier:0.1826', 'assault:0.1764', 'aviation:0.1688', 'advance:0.16', 'capital:0.1492', 'scar:0.1461', 'flee:0.146', 'result:0.1455', 'western:0.1425', 'far:0.1363', 'main:0.122', 'plant:0.1213', 'neighbour:0.117', 'repair:0.1079', 'waste:0.0939', 'look:0.0936', 'irpin:0.093', 'forced:0.091', 'million:0.0759', 'bid:0.062', 'slider:0.0333']+titles_keywords+['ukraine:0.3946', 'war:0.3433', 'images:0.3353', 'destruction:0.3288', 'scale:0.1346']"
+        ]
+    ]
+}

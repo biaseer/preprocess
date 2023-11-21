@@ -1,0 +1,15 @@
+{
+    "EST+RUS+42":[
+        [
+            "20220829+../news_crawling/RUS_UKR/p_articles/freerepublic.com/MURDERER ON THE RUN.txt+eventbasecode42+eventcode42+avgtone0.4683098591549296+goldsteinscale0.595+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.02631578947368421+news_keywords+['kremlin:0.5016', 'ukrainian:0.4896', 'propaganda:0.4214', 'government:0.3455', 'surveillance:0.3415', 'read:0.2965', 'partisan:0.2955', 'murderer:0.2896', 'involved:0.2705', 'report:0.2663', 'battalion:0.2593', 'sofia:0.2593', 'border:0.2571', 'know:0.2567', 'source:0.2427', 'telegram:0.242', 'word:0.2166', 'orchestrate:0.2083', 'merge:0.2025', 'fsb:0.2012', 'allege:0.2007', 'emphasis:0.1932', 'turn:0.192', 'ap:0.1828', 'duginas:0.1819', 'th:0.1802', 'state:0.1489', 'sludge:0.1393', 'gur:0.1286', 'true:0.113']+titles_keywords+['murderer:0.6388', 'run:0.3669']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Russia declares plans to grab more land in Ukraine.txt+eventbasecode42+eventcode42+avgtone0.48507462686567165+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.477', 'putinsbuttboys:0.427', 'propaganda:0.3825', 'annexation:0.3663', 'crises:0.2783', 'predict:0.2681', 'readiness:0.2484', 'diplomat:0.2312', 'puppet:0.2253', 'know:0.2139', 'argue:0.2027', 'grab:0.1894', 'keywords:0.187', 'unfold:0.1842', 'happen:0.1821', 'rt:0.176', 'people:0.1725', 'lol:0.1686', 'okay:0.164', 'long:0.1623', 'howitzer:0.1493', 'shall:0.1465', 'oilandgas:0.1396', 'nauseous:0.1379', 'listen:0.1352', 'direct:0.1333', 'nearly:0.133', 'nwo:0.1211', 'month:0.1006', 'doesnt:0.0822']+titles_keywords+['ukraine:0.4271', 'land:0.244', 'grab:0.231', 'plans:0.1485', 'declares:0.069']"
+        ],
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Attack On Europe Documenting Russian Equipment Losses During The 2022 Russian Invasion Of Ukraine.txt+eventbasecode42+eventcode42+avgtone0.478134110787172+goldsteinscale0.595+nummentions0.008345428156748911+numarticles0.00870195794053662+numsources0.01644736842105263+news_keywords+['soviet:0.5102', 'crimea:0.482', 'espionage:0.3684', 'donetsk:0.3621', 'invade:0.3444', 'weaponry:0.3341', 'rogov:0.2714', 'documenting:0.2603', 'derelict:0.2326', 'losses:0.2127', 'capitulation:0.2108', 'villain:0.2014', 'article:0.1954', 'reactor:0.1766', 'help:0.1751', 'item:0.1735', 'superyacht:0.1723', 'winter:0.1702', 'misguide:0.1699', 'end:0.1697', 'numbered:0.1646', 'grid:0.1642', 'happen:0.1635', 'soon:0.1394', 'feasibility:0.139', 'prior:0.1389', 'export:0.1351', 'rih:0.1253', 'million:0.1218', 'salient:0.1089']+titles_keywords+['ukraine:0.4379', 'invasion:0.3531', 'equipment:0.2712', 'documenting:0.2633', '2022:0.2005']"
+        ]
+    ]
+}

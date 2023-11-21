@@ -1,0 +1,20 @@
+{
+    "QAT+RUS+138":[
+        [
+            "20211212+../news_crawling/RUS_UKR/p_articles/menafn.com/Qatar G7 warns Russia of massive consequences if Ukraine attacked.txt+eventbasecode138+eventcode138+avgtone0.48484848484848486+goldsteinscale0.15+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.4835', 'crimea:0.4782', 'putin:0.4027', 'invade:0.3302', 'diplomatic:0.3208', 'agreements:0.3201', 'russophobia:0.2778', 'threat:0.2631', 'sovereignty:0.2531', 'veto:0.2432', 'expand:0.2366', 'consequence:0.228', 'warn:0.2161', 'group:0.1994', 'order:0.1754', 'information:0.1733', 'future:0.1725', 'demonise:0.157', 'completeness:0.1565', 'article:0.154', 'eastern:0.1419', 'determine:0.137', 'format:0.1336', 'state:0.1219', 'nightmare:0.1161', 'possibility:0.1088', 'draft:0.1064', 'relate:0.0933', 'difference:0.0861', 'menafn:0.0836']+titles_keywords+['ukraine:0.3476', 'consequences:0.246', 'warns:0.2041', 'attacked:0.1973', 'g7:0.1748']"
+        ],
+        [
+            "20220111+../news_crawling/RUS_UKR/p_articles/menafn.com/Qatar Nato warns Russia of severe costs if Ukraine attacked.txt+eventbasecode138+eventcode138+avgtone0.49253731343283585+goldsteinscale0.15+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.0+news_keywords+['nato:0.4906', 'moscow:0.3456', 'confrontation:0.2582', 'peaceful:0.2485', 'gulf:0.2055', 'warn:0.2015', 'operation:0.2009', 'ally:0.1857', 'instead:0.1707', 'unite:0.1677', 'stability:0.1555', 'point:0.1513', 'want:0.1466', 'article:0.1412', 'information:0.141', 'prepared:0.1385', 'forward:0.1335', 'basic:0.1311', 'rank:0.1309', 'message:0.1263', 'hold:0.1181', 'unconditional:0.1162', 'completeness:0.1105', 'chart:0.11', 'providessupport:0.1091', 'crunch:0.0932', 'menafn:0.0919', 'stoltenberg:0.0839', 'tomorrow:0.0817', 'cost:0.0547']+titles_keywords+['ukraine:0.347', 'nato:0.3437', 'attacked:0.1967', 'costs:0.1899', 'severe:0.1688']"
+        ]
+    ],
+    "RUS+RUS+138":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/menafn.com/Qatar Russian ground forces cross into Ukraine border guards.txt+eventbasecode138+eventcode138+avgtone0.45669291338582674+goldsteinscale0.15+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['crimea:0.541', 'putin:0.3899', 'russian:0.3857', 'military:0.339', 'invasion:0.2874', 'border:0.287', 'qatar:0.2692', 'tank:0.2245', 'separatist:0.1962', 'guard:0.1853', 'report:0.17', 'fatality:0.1316', 'legality:0.1203', 'ground:0.1134', 'article:0.1091', 'issue:0.1058', 'contact:0.0999', 'accuracy:0.0997', 'provider:0.0976', 'confirm:0.0955', 'warranty:0.0939', 'hour:0.0822', 'menafn:0.0707', 'say:0.0626', 'relate:0.0539', 'thursday:0.0525', 'completeness:0.0449', 'videos:0.0422', 'heavy:0.0397', 'kind:0.0299']+titles_keywords+['ukraine:0.303', 'guards:0.2321', 'cross:0.1606', 'ground:0.1573', 'forces:0.1241']"
+        ]
+    ],
+    "RUS+UKR+138":[
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/menafn.com/Russians erasing letterZ from military equipment possibly plotting provocations in Zaporizhia region.txt+eventbasecode138+eventcode138+avgtone0.4707379134860051+goldsteinscale0.15+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.521', 'russians:0.4527', 'mobilized:0.365', 'vasylivka:0.349', 'reconnaissance:0.3488', 'provocation:0.3264', 'operation:0.2995', 'assault:0.2808', 'proclamation:0.2802', 'strategic:0.2572', 'missile:0.2486', 'falsify:0.2369', 'occupier:0.23', 'industrial:0.2273', 'read:0.2238', 'article:0.2147', 'report:0.2075', 'ukrinform:0.1986', 'letterz:0.195', 'outcome:0.1932', 'block:0.1817', 'begin:0.1767', 'direction:0.1663', 'note:0.1655', 'issue:0.1632', 'april:0.1488', 'plant:0.1421', 'buh:0.1197', 'include:0.1157', 'data:0.1124']+titles_keywords+['letterz:0.4196', 'russians:0.4149', 'zaporizhia:0.3903', 'erasing:0.2681', 'provocations:0.2277']"
+        ]
+    ]
+}

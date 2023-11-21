@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/kuow.org/With Ukraine under attack Kyivs residents rush to stock up and reach safety.txt+eventbasecode130+eventcode130+avgtone0.47678018575851394+goldsteinscale0.27999999999999997+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['kyiv:0.5667', 'ukrainians:0.4501', 'evacuate:0.409', 'putin:0.3712', 'invade:0.3627', 'war:0.3297', 'emergency:0.325', 'safety:0.2602', 'sirens:0.2412', 'stefanchuk:0.2038', 'nation:0.1943', 'npr:0.1928', 'calm:0.1918', 'report:0.1887', 'act:0.1608', 'early:0.1541', 'change:0.1531', 'stock:0.1427', 'hear:0.1414', 'pledge:0.1363', 'continue:0.1351', 'strong:0.1262', 'atms:0.1173', 'mak:0.1162', 'fact:0.1009', 'reach:0.1006', 'state:0.0989', 'really:0.0599', 'rada:0.0591', 'restore:0.0343']+titles_keywords+['kyivs:0.4946', 'safety:0.2711', 'attack:0.2476', 'stock:0.2339', 'rush:0.2182']"
+        ]
+    ],
+    "RUS+WST+130":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/kuow.org/US is fully prepared if Russia invades Ukraine secretary of state says.txt+eventbasecode130+eventcode130+avgtone0.4815668202764977+goldsteinscale0.27999999999999997+nummentions0.10522496371552975+numarticles0.10587382160986222+numsources0.29276315789473684+news_keywords+['nato:0.4719', 'ukraine:0.4602', 'invades:0.3537', 'war:0.3409', 'diplomatic:0.3104', 'vladimir:0.3071', 'escalation:0.2984', 'prepare:0.2907', 'cyberattack:0.2611', 'consequence:0.2431', 'reinforce:0.2382', 'pursue:0.2375', 'concern:0.2233', 'coalesce:0.2174', 'tank:0.2116', 'table:0.1957', 'promise:0.1719', 'opportunities:0.1665', 'outline:0.154', 'thursday:0.1456', 'npr:0.1322', 'blinken:0.1313', 'sphere:0.121', 'strong:0.1197', 'current:0.1125', 'fully:0.1084', 'intermediate:0.1038', 'look:0.1019', 'wrong:0.0995', 'potentially:0.0973']+titles_keywords+['prepared:0.4087', 'ukraine:0.3224', 'invades:0.2299', 'fully:0.1419', 'secretary:0.1202']"
+        ]
+    ]
+}

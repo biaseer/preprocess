@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+72":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/tnledger.com/RussiaUkraine war Key developments in the ongoing conflict.txt+eventbasecode72+eventcode72+avgtone0.4749560632688928+goldsteinscale0.915+nummentions0.09107402031930334+numarticles0.09173313995649021+numsources0.10526315789473684+news_keywords+['russiaukraine:0.5241', 'russians:0.491', 'kyiv:0.4758', 'nato:0.346', 'evacuate:0.3012', 'chernobyl:0.2994', 'truce:0.2835', 'government:0.2737', 'attack:0.2636', 'journalist:0.2423', 'capital:0.2375', 'report:0.2233', 'casualty:0.2139', 'uniform:0.2104', 'continue:0.2096', 'abramovich:0.2062', 'pipeline:0.2018', 'fact:0.1925', 'approve:0.191', 'goldman:0.1874', 'shriek:0.1814', 'anticipation:0.1804', 'pathetic:0.1791', 'rih:0.1718', 'night:0.1697', 'plant:0.1599', 'week:0.1479', 'short:0.1431', 'reach:0.1276', 'thousand:0.1269']+titles_keywords+['russiaukraine:0.5219', 'war:0.4528', 'ongoing:0.2576', 'developments:0.2277', 'key:0.091']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/tnledger.com/Russians buy last goods from HM IKEA as stores wind down.txt+eventbasecode72+eventcode72+avgtone0.5016778523489933+goldsteinscale0.915+nummentions0.1955732946298984+numarticles0.19253081943437272+numsources0.20394736842105263+news_keywords+['russians:0.5026', 'minsk:0.436', 'ikea:0.3585', 'business:0.328', 'stock:0.2772', 'furnishing:0.2594', 'nestle:0.2495', 'country:0.2265', 'vkusno:0.2217', 'make:0.2121', 'leonid:0.2098', 'import:0.2031', 'troop:0.1673', 'president:0.166', 'month:0.1598', 'forward:0.1585', 'example:0.1577', 'leave:0.1575', 'marks:0.153', 'benefit:0.149', 'clothe:0.1483', 'good:0.1319', 'red:0.1279', 'scale:0.1218', 'begin:0.1202', 'ap:0.1119', 'shelve:0.1103', 'deeply:0.0993', 'oysho:0.0759', 'reopen:0.0662']+titles_keywords+['ikea:0.5534', 'russians:0.3756', 'goods:0.2427', 'buy:0.2151', 'hm:0.137']"
+        ]
+    ]
+}

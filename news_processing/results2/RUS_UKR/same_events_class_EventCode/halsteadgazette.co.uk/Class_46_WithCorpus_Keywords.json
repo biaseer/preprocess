@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/halsteadgazette.co.uk/UN Security Council to meet as Ukraine calls for humanitarian corridors.txt+eventbasecode46+eventcode46+avgtone0.4768211920529801+goldsteinscale0.85+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5+news_keywords+['ukraine:0.4826', 'humanitarian:0.4262', 'briefing:0.3641', 'putins:0.3468', 'terrorism:0.3421', 'nuclear:0.3304', 'embassy:0.3194', 'blockade:0.3168', 'emergency:0.2992', 'troop:0.2531', 'corridor:0.2513', 'flee:0.2196', 'anonymity:0.2154', 'ahead:0.2102', 'delegation:0.209', 'president:0.2071', 'azov:0.2038', 'world:0.1998', 'debate:0.1878', 'organise:0.186', 'intensifies:0.1733', 'catherine:0.173', 'hear:0.1698', 'shmyhal:0.1518', 'childrens:0.1368', 'weu:0.1242', 'month:0.1026', 'send:0.1011', 'include:0.0874', 'resolution:0.0783']+titles_keywords+['ukraine:0.3616', 'humanitarian:0.3131', 'corridors:0.2686', 'council:0.2649', 'meet:0.1889']"
+        ],
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/halsteadgazette.co.uk/Irish Government doing everything it can to find accommodation for Ukrainians.txt+eventbasecode46+eventcode46+avgtone0.4846938775510204+goldsteinscale0.85+nummentions0.16364296081277213+numarticles0.16098622189992748+numsources0.3684210526315789+news_keywords+['ukraine:0.4495', 'refugee:0.4137', 'demilitarisation:0.3806', 'war:0.351', 'irish:0.3055', 'accommodation:0.2992', 'government:0.2979', 'debate:0.2721', 'instability:0.2589', 'unilaterally:0.2482', 'directive:0.2309', 'broader:0.2302', 'consequences:0.2265', 'future:0.2212', 'dramatic:0.2153', 'increase:0.2128', 'martin:0.2039', 'turning:0.2036', 'want:0.1972', 'significant:0.1795', 'idea:0.179', 'lively:0.174', 'estimate:0.1712', 'end:0.163', 'scrpv:0.1623', 'vat:0.1615', 'research:0.1564', 'refit:0.1367', 'measure:0.1359', 'coming:0.0982']+titles_keywords+['ukrainians:0.4157', 'accommodation:0.3827', 'irish:0.3624', 'government:0.201', 'doing:0.0561']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20220122+../news_crawling/RUS_UKR/p_articles/halsteadgazette.co.uk/US and Russia agree to keep talking amid tensions over Ukraine.txt+eventbasecode46+eventcode46+avgtone0.5+goldsteinscale0.85+nummentions0.18396226415094338+numarticles0.1845540246555475+numsources0.3684210526315789+news_keywords+['diplomacy:0.4587', 'nato:0.4401', 'putin:0.4091', 'kyiv:0.3831', 'russias:0.3581', 'pentagon:0.2963', 'invades:0.2959', 'pursue:0.2596', 'deploy:0.2578', 'concern:0.2149', 'anticipate:0.2089', 'weaponry:0.2083', 'debate:0.2042', 'ongoing:0.201', 'manoeuvre:0.2001', 'border:0.1982', 'meet:0.198', 'know:0.1956', 'word:0.1887', 'position:0.1879', 'reiterate:0.1842', 'promise:0.1708', 'pull:0.1598', 'virtual:0.1568', 'consequence:0.1554', 'direct:0.1497', 'strike:0.1448', 'week:0.1293', 'difference:0.128', 'send:0.1255']+titles_keywords+['talking:0.31', 'ukraine:0.29', 'tensions:0.0986', 'agree:0.0386', 'amid:-0.0234']"
+        ]
+    ]
+}

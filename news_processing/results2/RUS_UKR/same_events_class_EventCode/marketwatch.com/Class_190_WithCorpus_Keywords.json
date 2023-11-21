@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Opinion Nuclear power can be part of the energy solution if we can get over.txt+eventbasecode190+eventcode190+avgtone0.4800936768149883+goldsteinscale0.0+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['fukushima:0.5885', 'nuclear:0.5712', 'chernobyl:0.5154', 'ukrainian:0.2915', 'energy:0.2538', 'zaporizhzhia:0.2061', 'europe:0.2031', 'lead:0.1864', 'warn:0.1797', 'daiichi:0.1747', 'attack:0.1632', 'solution:0.1627', 'facility:0.1617', 'fear:0.1382', 'plant:0.1329', 'regulatory:0.1216', 'process:0.1214', 'include:0.1091', 'exceed:0.0994', 'release:0.092', 'accident:0.0839', 'opinion:0.0769', 'unfounded:0.0746', 'state:0.0617', 'significant:0.0487', 'month:0.0464', 'previous:0.0359', 'large:0.035', 'possibility:0.0194', 'cool:-0.0146']+titles_keywords+['nuclear:0.5096', 'energy:0.2511', 'solution:0.2139', 'opinion:0.2015', 'fears:0.1994']"
+        ],
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Bodies of more than 900 civilians discovered in Kyiv region after Russian pullback authorities say.txt+eventbasecode190+eventcode190+avgtone0.4648745519713262+goldsteinscale0.0+nummentions0.10377358490566038+numarticles0.09934735315445975+numsources0.16447368421052633+news_keywords+['kyiv:0.5819', 'ukraine:0.5243', 'russian:0.3675', 'russias:0.3347', 'bodies:0.3158', 'region:0.3156', 'fatally:0.2526', 'territory:0.2427', 'civilian:0.2302', 'capital:0.2296', 'police:0.2283', 'people:0.1824', 'shot:0.1602', 'aggression:0.1544', 'execute:0.1382', 'ominous:0.1373', 'authority:0.1188', 'surround:0.1186', 'response:0.1095', 'say:0.1016', 'discovered:0.1015', 'pullback:0.0945', 'number:0.0936', 'emerge:0.0696', 'friday:0.0671', 'follow:0.0647', 'promise:0.0589', 'ap:0.0499', 'flagship:0.0376', 'stunning:0.0283']+titles_keywords+['kyiv:0.4332', 'civilians:0.3742', 'bodies:0.3308', '900:0.2347', 'discovered:0.0934']"
+        ]
+    ]
+}

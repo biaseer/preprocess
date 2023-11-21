@@ -1,0 +1,20 @@
+{
+    "ISR+RUS+111":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Israel hits out at Russia over Lavrovs Nazism remarks.txt+eventbasecode111+eventcode111+avgtone0.46036240090600233+goldsteinscale0.4+nummentions0.4125544267053701+numarticles0.4129804205946338+numsources0.47039473684210525+news_keywords+['holocaust:0.5465', 'nazification:0.445', 'antisemitism:0.4315', 'propaganda:0.4113', 'israel:0.4039', 'kremlin:0.3893', 'russias:0.3215', 'sergei:0.3148', 'conflict:0.289', 'historical:0.2881', 'justify:0.2476', 'invade:0.2263', 'volodymyr:0.2102', 'people:0.2004', 'inversion:0.1975', 'trivialise:0.1783', 'speak:0.1652', 'propagate:0.1614', 'include:0.1598', 'adviser:0.1592', 'opinion:0.1566', 'reach:0.1527', 'dubbed:0.141', 'democratically:0.1384', 'scandalous:0.1239', 'remember:0.1216', 'big:0.1015', 'yad:0.0938', 'centre:0.0828', 'sent:0.0322']+titles_keywords+['israel:0.3632', 'lavrovs:0.3046', 'nazism:0.2932', 'remarks:0.0937', 'hits:0.0675']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Russian attacks halt plans to evacuate Ukrainian civilians.txt+eventbasecode111+eventcode111+avgtone0.47014456316781894+goldsteinscale0.4+nummentions0.3124092888243832+numarticles0.31290790427846266+numsources0.42105263157894735+news_keywords+['ukraine:0.4901', 'airstrikes:0.3732', 'evacuate:0.3312', 'separatists:0.3266', 'erdogan:0.3179', 'dispatch:0.2922', 'propaganda:0.2899', 'negotiation:0.2621', 'disaster:0.2584', 'telegram:0.2558', 'zelensky:0.2487', 'turn:0.2281', 'know:0.2229', 'expect:0.2193', 'concerned:0.216', 'adviser:0.2087', 'reiterate:0.2034', 'bloc:0.1928', 'soon:0.1896', 'essentially:0.1734', 'replace:0.1725', 'end:0.1599', 'compare:0.1539', 'interference:0.1534', 'civilian:0.1504', 'bucha:0.1472', 'weekend:0.1424', 'backlog:0.1402', 'onlookers:0.1331', 'motionless:0.1289']+titles_keywords+['ukrainian:0.4235', 'evacuate:0.409', 'civilians:0.3263', 'attacks:0.2054', 'plans:0.1356']"
+        ],
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Vladimir Putin warns Ukraine over Western weapons as strikes hit Kyiv.txt+eventbasecode111+eventcode111+avgtone0.4800469483568075+goldsteinscale0.4+nummentions0.47387518142235124+numarticles0.47425670775924583+numsources0.5230263157894737+news_keywords+['ukraine:0.4874', 'putin:0.4664', 'airstrikes:0.4228', 'artillery:0.3183', 'lavrovs:0.2996', 'counterattack:0.2949', 'threat:0.2854', 'separatists:0.2678', 'rail:0.2514', 'news:0.2513', 'tank:0.2488', 'supply:0.2318', 'telegram:0.2298', 'sievierodonetsk:0.2246', 'update:0.202', 'report:0.1989', 'adviser:0.193', 'operational:0.188', 'hit:0.1879', 'plan:0.1866', 'casualty:0.1804', 'short:0.1756', 'systems:0.1588', 'comparison:0.1542', 'continue:0.1511', 'warehouse:0.1443', 'make:0.1405', 'early:0.1345', 'refocus:0.1302', 'partly:0.0771']+titles_keywords+['kyiv:0.4551', 'putin:0.4353', 'warns:0.2569', 'weapons:0.2567', 'hit:0.1309']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220611+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Uneasy peace settles on Kyiv as war rages elsewhere.txt+eventbasecode111+eventcode111+avgtone0.46639344262295085+goldsteinscale0.4+nummentions0.23439767779390422+numarticles0.23495286439448876+numsources0.21052631578947367+news_keywords+['kyiv:0.594', 'bashtovyi:0.3777', 'russias:0.3237', 'war:0.3154', 'chatter:0.2853', 'journalist:0.2836', 'table:0.2725', 'shrilly:0.2476', 'tank:0.2403', 'east:0.24', 'flee:0.2364', 'uneasy:0.2339', 'neighbourhood:0.231', 'unoccupied:0.2297', 'chink:0.2296', 'checkpoint:0.2249', 'curfew:0.221', 'ration:0.2087', 'continue:0.1963', 'fall:0.1921', 'rag:0.1901', 'unlike:0.1827', 'savour:0.1776', 'flame:0.1767', 'make:0.1752', 'initial:0.163', 'soon:0.1614', 'grown:0.1598', 'head:0.1485', 'meaning:0.1387']+titles_keywords+['kyiv:0.5445', 'war:0.4035', 'peace:0.3968', 'uneasy:0.287', 'settles:0.2454']"
+        ]
+    ]
+}

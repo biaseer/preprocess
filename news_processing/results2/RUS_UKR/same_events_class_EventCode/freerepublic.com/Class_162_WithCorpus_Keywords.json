@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+162":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Russian forces in Kherson cut off from supplies from Crimea after bridge attacks.txt+eventbasecode162+eventcode162+avgtone0.4864341085271318+goldsteinscale0.22000000000000003+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.5106', 'russianaggression:0.4777', 'comrade:0.3822', 'nato:0.3783', 'decommission:0.3274', 'combat:0.3153', 'yanushevich:0.3113', 'timeline:0.308', 'iqrussiantrolls:0.2902', 'surrenderthat:0.236', 'kherson:0.233', 'supply:0.2232', 'result:0.2075', 'keywords:0.2024', 'combine:0.2017', 'change:0.196', 'plan:0.1939', 'zzelenskyytrollsonfr:0.1809', 'major:0.1748', 'report:0.1702', 'puppet:0.1672', 'indications:0.1654', 'learnhowtopost:0.1629', 'eventually:0.1617', 'worry:0.1597', 'th:0.1482', 'counteroffensive:0.1471', 'sinking:0.1345', 'exactly:0.1318', 'biden:0.1242']+titles_keywords+['crimea:0.4585', 'kherson:0.3187', 'bridge:0.2411', 'supplies:0.2162', 'forces:0.1617']"
+        ]
+    ],
+    "UKR+BRA+162":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Ukraine war hits farmers as Russia cuts fertilizer supplies hurting Brazil.txt+eventbasecode162+eventcode162+avgtone0.4310344827586205+goldsteinscale0.22000000000000003+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['seeds:0.4693', 'greenhouse:0.4346', 'lettuce:0.4249', 'pea:0.4203', 'fertilize:0.4126', 'crop:0.3672', 'grow:0.3508', 'winter:0.326', 'transplant:0.2972', 'plan:0.2911', 'investment:0.2631', 'neighbor:0.255', 'tunnel:0.2508', 'russa:0.2458', 'waterlogged:0.245', 'cell:0.243', 'make:0.2361', 'depend:0.2351', 'feed:0.2308', 'row:0.226', 'orgwikijbsfoodsinternationalparent:0.2209', 'week:0.2177', 'breadbasket:0.1928', 'calm:0.1838', 'right:0.1809', 'enter:0.1802', 'waste:0.1733', 'sure:0.1644', 'gon:0.1447', 'half:0.1431']+titles_keywords+['ukraine:0.4458', 'farmers:0.3565', 'war:0.3501', 'fertilizer:0.2835', 'hits:0.1025']"
+        ]
+    ]
+}

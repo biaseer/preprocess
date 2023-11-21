@@ -1,0 +1,25 @@
+{
+    "GBR+RUS+163":[
+        [
+            "20220629+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine war Putins cousin among inner circle hit by new UK sanctions.txt+eventbasecode163+eventcode163+avgtone0.46643109540636046+goldsteinscale0.1+nummentions0.1665457184325109+numarticles0.16715010877447425+numsources0.24671052631578946+news_keywords+['putin:0.5579', 'ukraine:0.5036', 'oligarch:0.427', 'nato:0.4026', 'sanction:0.3683', 'sochi:0.3354', 'government:0.3313', 'war:0.3262', 'involvement:0.3052', 'bloomberg:0.2712', 'table:0.2576', 'uk:0.2235', 'know:0.2015', 'coal:0.197', 'cousin:0.1953', 'safe:0.1871', 'future:0.1835', 'anna:0.1755', 'long:0.1611', 'appalling:0.1567', 'period:0.1512', 'continue:0.1509', 'head:0.1458', 'superyacht:0.144', 'acquire:0.1358', 'come:0.1225', 'reduce:0.1199', 'potanin:0.1135', 'series:0.0895', 'possible:0.0718']+titles_keywords+['putins:0.491', 'sanctions:0.4033', 'cousin:0.324', 'uk:0.1673', 'inner:0.1439']"
+        ]
+    ],
+    "RUS+RUS+163":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Why China matters in the Ukraine conflict.txt+eventbasecode163+eventcode163+avgtone0.4615384615384615+goldsteinscale0.1+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.03618421052631579+news_keywords+['ukraine:0.5052', 'russia:0.4104', 'china:0.3573', 'russian:0.3274', 'conflict:0.3068', 'asia:0.2975', 'european:0.1948', 'correspondent:0.1944', 'economic:0.1927', 'matter:0.1841', 'sanction:0.1724', 'explain:0.1478', 'business:0.1356', 'escalation:0.1325', 'tension:0.1319', 'mariko:0.1084', 'help:0.1032', 'bbc:0.0994', 'ally:0.0948', 'bank:0.0917', 'prompt:0.0655', 'impose:0.0653', 'citizen:0.0445', 'oi:0.0241', 'tie:0.0177', 'scale:0.0016']+titles_keywords+['ukraine:0.496', 'china:0.3523', 'conflict:0.344', 'matters:0.2894']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Putin says sanctions over Ukraine are like a declaration of war.txt+eventbasecode163+eventcode163+avgtone0.442105263157895+goldsteinscale0.1+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4947', 'ukraine:0.4463', 'nato:0.3659', 'demilitarisation:0.3465', 'war:0.3102', 'escalation:0.3054', 'orthodox:0.2927', 'sanction:0.2758', 'statehood:0.2667', 'emergency:0.2651', 'rouble:0.2482', 'introduce:0.2481', 'nazification:0.2422', 'zelensky:0.2402', 'future:0.2394', 'economic:0.2328', 'order:0.2281', 'report:0.2238', 'responding:0.2146', 'function:0.2122', 'expect:0.2085', 'understand:0.1985', 'continue:0.1944', 'volodymyr:0.1816', 'secretary:0.1754', 'say:0.1735', 'contrary:0.1544', 'include:0.1362', 'normal:0.1281', 'centre:0.1061']+titles_keywords+['sanctions:0.492', 'war:0.3593', 'ukraine:0.3553', 'declaration:0.267', 'like:0.1001']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine crisis Irish government to announce sanctions against Russia.txt+eventbasecode163+eventcode163+avgtone0.4747596153846154+goldsteinscale0.1+nummentions0.01269956458635704+numarticles0.013415518491660623+numsources0.009868421052631578+news_keywords+['ukraine:0.4226', 'sanction:0.3885', 'irish:0.2772', 'legislation:0.2729', 'war:0.221', 'concern:0.209', 'economic:0.2046', 'crisis:0.1997', 'anti:0.171', 'aggressive:0.1622', 'coal:0.1476', 'capital:0.1475', 'rt:0.141', 'increase:0.1356', 'introduce:0.133', 'act:0.1329', 'laundering:0.1308', 'sector:0.1294', 'export:0.1255', 'trade:0.1213', 'determine:0.1129', 'bit:0.1029', 'ifsc:0.1019', 'effect:0.0881', 'element:0.085', 'wednesday:0.0814', 'additional:0.0808', 'level:0.0804', 'link:0.0738', 'undoubtedly:0.0468']+titles_keywords+['sanctions:0.4435', 'ukraine:0.4166', 'irish:0.2361', 'crisis:0.1438', 'announce:0.1104']"
+        ],
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine War Putins daughters targeted by US sanctions.txt+eventbasecode163+eventcode163+avgtone0.4590163934426229+goldsteinscale0.1+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.013157894736842105+news_keywords+['putin:0.5475', 'oligarchs:0.4083', 'embargo:0.4057', 'sanction:0.3986', 'kyiv:0.3822', 'regime:0.3307', 'war:0.3174', 'diplomat:0.2863', 'atrocities:0.27', 'eu:0.2581', 'crony:0.2332', 'concern:0.2245', 'argue:0.1931', 'ahead:0.191', 'feed:0.1852', 'write:0.185', 'import:0.181', 'coal:0.1763', 'bucha:0.175', 'world:0.1689', 'sector:0.1613', 'expect:0.1602', 'bank:0.1417', 'property:0.1366', 'uncover:0.136', 'vorontsova:0.116', 'agree:0.116', 'state:0.1093', 'separately:0.0891', 'add:0.0627']+titles_keywords+['putins:0.5145', 'sanctions:0.451', 'ukraine:0.4275', 'daughters:0.3203', 'war:0.3184']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+51":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/plymouthherald.co.uk/Clive Myrie how the BBCs man in Ukraine and Mastermind host rose to the top.txt+eventbasecode51+eventcode51+avgtone0.5083612040133779+goldsteinscale0.67+nummentions0.020682148040638608+numarticles0.02139231327048586+numsources0.046052631578947366+news_keywords+['journalist:0.4889', 'clive:0.3833', 'kyiv:0.3723', 'presenter:0.3627', 'bbcs:0.3586', 'myrie:0.2832', 'history:0.2699', 'prominence:0.2472', 'radio:0.2414', 'cite:0.2185', 'jamaican:0.2181', 'misinformation:0.2126', 'report:0.2112', 'community:0.2066', 'hes:0.1957', 'quant:0.1865', 'honest:0.1796', 'story:0.1691', 'election:0.1662', 'troop:0.1619', 'speak:0.1586', 'continue:0.1566', 'coverage:0.1565', 'th:0.1431', 'familiar:0.1323', 'list:0.1314', 'late:0.1241', 'panorama:0.1203', 'inbox:0.1165', 'big:0.104']+titles_keywords+['journalism:0.4985', 'bbcs:0.4054', 'clive:0.3376', 'mastermind:0.2435', 'myrie:0.2329']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220627+../news_crawling/RUS_UKR/p_articles/plymouthherald.co.uk/Zelensky calls on G7 to do more to support Ukraines fight against Russia.txt+eventbasecode51+eventcode51+avgtone0.4792857142857143+goldsteinscale0.67+nummentions0.07256894049346879+numarticles0.07324147933284988+numsources0.07236842105263158+news_keywords+['ukraine:0.4751', 'nato:0.427', 'putins:0.3971', 'blockade:0.3896', 'war:0.343', 'infrastructure:0.3123', 'zelensky:0.3016', 'political:0.2797', 'boris:0.2792', 'urgent:0.2736', 'humanitarian:0.2722', 'disaster:0.251', 'table:0.248', 'shortage:0.2469', 'warn:0.2409', 'troop:0.2142', 'grain:0.2124', 'newsletter:0.211', 'forward:0.2075', 'agreement:0.1902', 'global:0.189', 'powerful:0.1669', 'make:0.1575', 'wider:0.1544', 'observer:0.1519', 'monday:0.1446', 'reduce:0.1443', 'claiming:0.1284', 'prime:0.124', 'actually:0.0776']+titles_keywords+['zelensky:0.5477', 'ukraines:0.3838', 'g7:0.24', 'support:0.1417', 'fight:0.1204']"
+        ]
+    ]
+}

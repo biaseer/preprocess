@@ -1,0 +1,27 @@
+{
+    "CHN+RUS+13":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/russiaherald.com/China willing to mediate in Ukraine crisis Foreign Minister Wang Yi.txt+eventbasecode13+eventcode13+avgtone0.4893333333333333+goldsteinscale0.52+nummentions0.02576197387518142+numarticles0.026468455402465556+numsources0.029605263157894735+news_keywords+['mediate:0.428', 'ukraine:0.3985', 'putin:0.3969', 'humanitarian:0.294', 'peace:0.2726', 'readiness:0.2258', 'wang:0.2246', 'sanction:0.2141', 'evacuate:0.2069', 'situation:0.2013', 'willing:0.1802', 'news:0.1768', 'report:0.1683', 'reiterate:0.1613', 'matter:0.1567', 'alongside:0.1485', 'introduce:0.1478', 'soon:0.1387', 'cross:0.1381', 'end:0.1168', 'believe:0.1159', 'corridor:0.1063', 'slap:0.1014', 'wider:0.0974', 'tense:0.097', 'possible:0.0887', 'oust:0.0875', 'ani:0.083', 'agree:0.0806', 'major:0.0555']+titles_keywords+['mediate:0.4105', 'wang:0.3826', 'ukraine:0.2912', 'willing:0.1496', 'minister:0.0674']"
+        ]
+    ],
+    "GBR+UKR+13":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/russiaherald.com/At least 20 civilians evacuated from Mariupols Azovstal steel plant.txt+eventbasecode13+eventcode13+avgtone0.4821894005212859+goldsteinscale0.52+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['kyiv:0.4888', 'evacuate:0.4362', 'russians:0.4168', 'civilians:0.3837', 'concern:0.2398', 'peace:0.2348', 'territory:0.2308', 'macron:0.226', 'shipment:0.2092', 'sievierodonetsk:0.2081', 'strike:0.2077', 'telegram:0.2063', 'finance:0.2038', 'help:0.2009', 'counterpart:0.1964', 'plan:0.1943', 'swap:0.194', 'additional:0.1869', 'besiege:0.1821', 'reiterate:0.176', 'april:0.1755', 'lozova:0.1743', 'unnamed:0.174', 'increasingly:0.1734', 'mortar:0.1643', 'million:0.1591', 'result:0.1517', 'commander:0.1414', 'gmt:0.1347', 'arm:0.1248']+titles_keywords+['evacuated:0.4234', 'civilians:0.3703', 'steel:0.2956', 'mariupols:0.2893', '20:0.1586']"
+        ]
+    ],
+    "RUS+FRA+13":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Zelenskyy Seeking More Help from Europe.txt+eventbasecode13+eventcode13+avgtone0.4980916030534351+goldsteinscale0.52+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.019736842105263157+news_keywords+['kyiv:0.5088', 'zelenskyy:0.4668', 'sergey:0.3895', 'war:0.291', 'redeploy:0.2908', 'occupy:0.2872', 'sievierodonetsk:0.2817', 'meeting:0.2746', 'president:0.2489', 'ahead:0.2225', 'concern:0.222', 'organize:0.2098', 'brief:0.2009', 'independence:0.1938', 'success:0.1864', 'address:0.1855', 'want:0.1851', 'reconstruction:0.1809', 'donbas:0.1602', 'liquidity:0.1587', 'turn:0.1498', 'telecommunication:0.1435', 'second:0.1428', 'month:0.1365', 'global:0.1302', 'large:0.1265', 'counteroffensive:0.1198', 'state:0.107', 'thank:0.0992', 'tf:0.0862']+titles_keywords+['zelenskyy:0.6107', 'europe:0.2763', 'help:0.1712', 'seeking:0.1415']"
+        ]
+    ],
+    "RUS+UKR+13":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Talks The Ukrainian Delegation will Meet with the Russian One.txt+eventbasecode13+eventcode13+avgtone0.5157894736842106+goldsteinscale0.52+nummentions0.009071117561683599+numarticles0.009789702683103698+numsources0.009868421052631578+news_keywords+['ukraine:0.4572', 'ukrainian:0.4383', 'vladimir:0.3779', 'russian:0.3618', 'belarusian:0.3545', 'zelensky:0.3286', 'talk:0.3135', 'pripyat:0.3065', 'medinsky:0.303', 'meet:0.2805', 'talks:0.2757', 'delegation:0.2726', 'border:0.2675', 'hold:0.2408', 'medinski:0.2372', 'volodymyr:0.2126', 'representative:0.1888', 'river:0.1855', 'president:0.1762', 'hour:0.1748', 'ready:0.1722', 'say:0.1628', 'precondition:0.1436', 'near:0.1382', 'note:0.1264', 'agree:0.1263', 'head:0.121', 'time:0.1024', 'save:0.099', 'life:0.0859']+titles_keywords+['ukrainian:0.4538', 'russian:0.3718', 'meet:0.2781', 'delegation:0.2749', 'talks:0.2684']"
+        ]
+    ],
+    "USA+RUS+13":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Russia looks to recruit Syrian soldiers to fight in Ukraine.txt+eventbasecode13+eventcode13+avgtone0.4782608695652174+goldsteinscale0.52+nummentions0.0511611030478955+numarticles0.05184916606236403+numsources0.046052631578947366+news_keywords+['syria:0.4492', 'putin:0.4158', 'kyiv:0.3955', 'russian:0.3933', 'recruit:0.3719', 'bashar:0.3669', 'troops:0.3597', 'demilitarize:0.309', 'battle:0.2334', 'operation:0.2085', 'escalation:0.2007', 'zelensky:0.1969', 'prepare:0.1874', 'republic:0.1675', 'expertise:0.1542', 'report:0.1491', 'begin:0.14', 'internationalize:0.1326', 'facebook:0.1305', 'february:0.118', 'cite:0.1176', 'potential:0.1137', 'unclear:0.1059', 'look:0.1023', 'deal:0.0674', 'nearly:0.0672', 'hill:0.0664', 'hard:0.0498', 'today:0.0398', 'ani:0.0387']+titles_keywords+['recruit:0.3861', 'syrian:0.3565', 'soldiers:0.3158', 'russia:0.3127', 'looks:0.0778']"
+        ]
+    ]
+}

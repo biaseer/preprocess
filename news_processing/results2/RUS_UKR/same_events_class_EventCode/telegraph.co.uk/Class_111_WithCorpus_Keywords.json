@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+111":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Vladimir Putin sets out his key demands to halt Russian invasion of Ukraine.txt+eventbasecode111+eventcode111+avgtone0.47514910536779326+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4937', 'ceasefire:0.4662', 'kyiv:0.4232', 'nato:0.3696', 'separatist:0.327', 'negotiation:0.3124', 'invasion:0.2783', 'table:0.2561', 'leonid:0.2472', 'telegraph:0.2363', 'adviser:0.2073', 'accept:0.2045', 'continue:0.2034', 'plan:0.2007', 'neutral:0.193', 'future:0.1905', 'subject:0.1885', 'turn:0.1883', 'operate:0.1774', 'prelude:0.1596', 'say:0.1595', 'safe:0.1582', 'recruit:0.153', 'term:0.1522', 'source:0.1477', 'intense:0.1339', 'draw:0.1241', 'mr:0.1225', 'growing:0.1186', 'total:0.0993']+titles_keywords+['putin:0.4926', 'ukraine:0.3963', 'demands:0.2818', 'halt:0.2057', 'key:0.071']"
+        ]
+    ],
+    "GBR+UKR+111":[
+        [
+            "20220723+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Ukraine strikes at Dnipro bridges to isolate Russian forces in Kherson.txt+eventbasecode111+eventcode111+avgtone0.472289156626506+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.4968', 'ukrainians:0.4113', 'war:0.3924', 'bridge:0.3273', 'resupply:0.3006', 'operation:0.294', 'occupy:0.2819', 'tributary:0.269', 'darivka:0.2537', 'kherson:0.242', 'detour:0.2378', 'security:0.216', 'rouble:0.2125', 'turn:0.1943', 'long:0.1935', 'plan:0.1851', 'report:0.1748', 'damage:0.1725', 'learn:0.1718', 'fell:0.1689', 'northwest:0.1599', 'begin:0.1583', 'want:0.1491', 'main:0.1491', 'isolate:0.1426', 'researcher:0.1355', 'integrate:0.1298', 'directly:0.1233', 'increasingly:0.1196', 'highlight:0.1022']+titles_keywords+['ukraine:0.312', 'kherson:0.299', 'dnipro:0.2771', 'bridges:0.2704', 'isolate:0.1804']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Wars in Europe rarely start on a Wednesday scoffs Kremlin.txt+eventbasecode111+eventcode111+avgtone0.4733009708737864+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukraine:0.4259', 'kremlin:0.3771', 'disinformation:0.3309', 'invasion:0.3117', 'history:0.3055', 'diplomatic:0.2997', 'conflict:0.2856', 'week:0.2763', 'predict:0.271', 'alarm:0.2632', 'westerners:0.231', 'presidential:0.2278', 'schedule:0.2221', 'outset:0.2209', 'talk:0.2071', 'culmination:0.1982', 'usual:0.1953', 'narrate:0.1949', 'flippant:0.1948', 'publish:0.1657', 'current:0.1627', 'quip:0.1617', 'joke:0.1615', 'resume:0.1596', 'source:0.1562', 'insist:0.1469', 'beneath:0.0956', 'mr:0.0826', 'waste:0.0774', 'far:0.0623']+titles_keywords+['wars:0.3902', 'kremlin:0.3897', 'wednesday:0.3703', 'europe:0.2946', 'rarely:0.2589']"
+        ]
+    ]
+}

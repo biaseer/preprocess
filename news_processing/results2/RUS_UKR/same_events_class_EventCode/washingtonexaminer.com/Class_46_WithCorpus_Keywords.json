@@ -1,0 +1,12 @@
+{
+    "WST+RUS+46":[
+        [
+            "20210903+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Russia hints at a coming test of Bidens Ukraine policy.txt+eventbasecode46+eventcode46+avgtone0.4678638941398866+goldsteinscale0.85+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4878', 'nato:0.4017', 'kyiv:0.3864', 'conflict:0.2738', 'strategic:0.2561', 'escalation:0.2535', 'coordinate:0.2458', 'rhetoric:0.2423', 'prepare:0.2411', 'bidens:0.2013', 'favorable:0.1971', 'contrast:0.1939', 'combine:0.1837', 'hesitancy:0.1817', 'relation:0.1798', 'thursday:0.1758', 'ally:0.1758', 'term:0.1735', 'import:0.1637', 'long:0.1631', 'pipeline:0.1618', 'remain:0.1611', 'say:0.1585', 'current:0.1551', 'use:0.1495', 'transit:0.1472', 'state:0.1365', 'inextricable:0.13', 'sad:0.1098', 'unless:0.0711']+titles_keywords+['russia:0.3696', 'test:0.286', 'bidens:0.2437', 'policy:0.1186', 'coming:0.0422']"
+        ]
+    ],
+    "WST+UKR+46":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/European leaders meet with Putin Should Biden.txt+eventbasecode46+eventcode46+avgtone0.4853683148335015+goldsteinscale0.85+nummentions0.011248185776487663+numarticles0.011965192168237854+numsources0.013157894736842105+news_keywords+['putin:0.4608', 'diplomacy:0.4538', 'nato:0.4509', 'ukraines:0.3642', 'meeting:0.2977', 'adviser:0.2368', 'standoff:0.2254', 'memo:0.1918', 'prospect:0.1876', 'choose:0.1817', 'concern:0.1807', 'exchange:0.1771', 'oppose:0.1685', 'come:0.1615', 'abstract:0.1598', 'psaki:0.1583', 'bidens:0.1565', 'future:0.1519', 'point:0.1319', 'dimanche:0.1275', 'make:0.1241', 'emphasize:0.1239', 'week:0.1238', 'official:0.1131', 'include:0.1129', 'possible:0.0943', 'deep:0.0926', 'state:0.09', 'unless:0.071', 'resolution:0.0654']+titles_keywords+['biden:0.4731', 'putin:0.4236', 'meet:0.3158', 'european:0.2096', 'leaders:0.1983']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/voanews.com/The Inside Story.txt+eventbasecode180+eventcode180+avgtone0.45535714285714285+goldsteinscale0.05+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.019736842105263157+news_keywords+['ukraine:0.4808', 'zelenskyy:0.3854', 'russia:0.3731', 'battle:0.3117', 'assault:0.2583', 'fight:0.2542', 'march:0.2436', 'congress:0.2066', 'president:0.1817', 'fourth:0.1656', 'enters:0.158', 'airdate:0.153', 'fierce:0.1514', 'story:0.1472', 'long:0.1337', 'week:0.1296', 'details:0.1253', 'hold:0.1092', 'scene:0.1074', 'plead:0.0911', 'inside:0.0808', 'help:0.0797']+titles_keywords+['inside:0.5544', 'story:0.4359']"
+        ],
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/voanews.com/For Ukraines War Survivors Struggle Just Beginning.txt+eventbasecode180+eventcode180+avgtone0.48+goldsteinscale0.05+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['kyiv:0.5635', 'ukraines:0.4764', 'war:0.3777', 'survivors:0.3726', 'capital:0.3347', 'occupy:0.3316', 'russian:0.326', 'invasion:0.3225', 'struggle:0.2752', 'chernikova:0.2747', 'city:0.2571', 'capture:0.2305', 'community:0.2129', 'assault:0.2005', 'begin:0.1813', 'devastate:0.175', 'anna:0.155', 'report:0.155', 'early:0.1546', 'goal:0.154', 'kilometer:0.1468', 'prosperous:0.1228', 'outskirt:0.1222', 'voa:0.121', 'eugene:0.1148', 'shynkar:0.1115', 'build:0.1031', 'newly:0.1', 'irpin:0.0717', 'day:0.0633']+titles_keywords+['ukraines:0.5236', 'survivors:0.4602', 'war:0.3854', 'struggle:0.3138', 'just:0.1091']"
+        ]
+    ]
+}

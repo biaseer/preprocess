@@ -1,0 +1,12 @@
+{
+    "RUS+EUR+26":[
+        [
+            "20210723+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukraine at OSCE again calls on Russia to recognize responsibility for downing of MH17.txt+eventbasecode26+eventcode26+avgtone0.4857142857142857+goldsteinscale0.7+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4356', 'investigation:0.3309', 'diplomat:0.2951', 'osce:0.2925', 'strelkov:0.2709', 'plane:0.2706', 'federation:0.2661', 'hague:0.2527', 'missile:0.2496', 'kuala:0.2399', 'report:0.2339', 'responsible:0.2091', 'leonid:0.1947', 'fsb:0.1812', 'armed:0.1797', 'brigade:0.1748', 'rd:0.1746', 'yevhenii:0.1724', 'believe:0.1681', 'die:0.1646', 'anti:0.1617', 'belong:0.1581', 'mh:0.1573', 'buk:0.1466', 'fourth:0.1359', 'note:0.1323', 'direct:0.1249', 'people:0.1194', 'begin:0.1192', 'send:0.0996']+titles_keywords+['ukraine:0.4316', 'osce:0.3516', 'mh17:0.3451', 'responsibility:0.2279', 'recognize:0.0926']"
+        ]
+    ],
+    "UKR+RUS+26":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukraine Army liquidates commander and chief of staff of Russian motor rifle regiment.txt+eventbasecode26+eventcode26+avgtone0.46296296296296297+goldsteinscale0.7+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['ukraine:0.4533', 'regiment:0.4115', 'russian:0.3866', 'tanker:0.342', 'artillery:0.3303', 'tactical:0.3259', 'liquidate:0.3035', 'rifle:0.3017', 'war:0.2859', 'commander:0.2773', 'soldier:0.2723', 'uavs:0.2702', 'operational:0.2427', 'rd:0.1943', 'ukrinform:0.1842', 'armor:0.1668', 'lose:0.1656', 'february:0.1581', 'information:0.1473', 'th:0.1432', 'group:0.1422', 'preliminary:0.1279', 'post:0.1151', 'launch:0.1118', 'multiple:0.1111', 'statement:0.108', 'motor:0.1077', 'batch:0.1', 'today:0.0882', 'criminal:0.0829']+titles_keywords+['regiment:0.3952', 'russian:0.3094', 'rifle:0.2538', 'liquidates:0.2268', 'motor:0.1171']"
+        ]
+    ]
+}

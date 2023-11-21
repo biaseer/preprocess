@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+14":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/foxnews.com/Russia demands sanctions be lifted in exchange for release of vessels carrying food from Ukraine.txt+eventbasecode14+eventcode14+avgtone0.47664543524416136+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4492', 'blockade:0.4076', 'oil:0.2913', 'grain:0.2901', 'supply:0.2871', 'threat:0.2837', 'humanitarian:0.2749', 'invasion:0.2592', 'political:0.2436', 'news:0.2247', 'ship:0.2155', 'rudenko:0.2129', 'increase:0.2026', 'exchange:0.2005', 'know:0.1908', 'executive:0.1838', 'shortfall:0.169', 'mechanism:0.1679', 'kristalina:0.1637', 'continue:0.1634', 'april:0.1527', 'corridor:0.1499', 'hoarding:0.144', 'global:0.1399', 'hold:0.139', 'ready:0.1361', 'exporter:0.1228', 'possible:0.0974', 'total:0.0894', 'seriously:0.0344']+titles_keywords+['sanctions:0.4119', 'ukraine:0.3712', 'vessels:0.2109', 'food:0.2059', 'exchange:0.1933']"
+        ]
+    ],
+    "RUS+RUS+14":[
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/foxnews.com/Russia detains opposition leader over criticism of war in Ukraine.txt+eventbasecode14+eventcode14+avgtone0.44428152492668604+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.562', 'kremlin:0.5502', 'nemtsov:0.4485', 'russian:0.4304', 'oleg:0.4246', 'propaganda:0.398', 'russias:0.3975', 'ru:0.3649', 'war:0.351', 'nato:0.3458', 'yekaterinburg:0.3396', 'navalny:0.2999', 'detain:0.2985', 'protest:0.2843', 'reporter:0.2696', 'law:0.2153', 'crackdown:0.2013', 'outlet:0.152', 'expatriate:0.1504', 'agencygetty:0.1451', 'cover:0.1382', 'story:0.1293', 'january:0.1199', 'th:0.1114', 'powerful:0.1102', 'acknowledge:0.1101', 'days:0.0905', 'large:0.0779', 'ofopposition:0.0757', 'says:0.0694']+titles_keywords+['ukraine:0.2982', 'detains:0.2905', 'opposition:0.1856', 'leader:0.159', 'war:0.1569']"
+        ]
+    ],
+    "UKR+RUS+14":[
+        []
+    ]
+}

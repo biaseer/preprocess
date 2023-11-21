@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/UN inspectors head to Ukraine nuclear plant in war zone.txt+eventbasecode20+eventcode20+avgtone0.47720588235294115+goldsteinscale0.65+nummentions0.3018867924528302+numarticles0.30239303843364757+numsources0.25+news_keywords+['ukraine:0.4882', 'demilitarize:0.3682', 'war:0.3417', 'government:0.3136', 'zelenskyy:0.3125', 'radioactivity:0.2502', 'partisan:0.2372', 'artillery:0.2365', 'watchdog:0.2355', 'administrative:0.2287', 'catastrophe:0.2279', 'know:0.224', 'plan:0.2227', 'blackmail:0.2204', 'telegram:0.2153', 'locate:0.2141', 'hear:0.1954', 'help:0.1885', 'progress:0.184', 'plant:0.1824', 'long:0.1737', 'month:0.1715', 'renew:0.1654', 'night:0.1522', 'underscoring:0.1458', 'implication:0.1426', 'josep:0.139', 'head:0.1354', 'fully:0.101', 'received:0.0606']+titles_keywords+['ukraine:0.375', 'nuclear:0.3744', 'inspectors:0.2858', 'war:0.2519', 'zone:0.1242']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/US Russia looks to step up hits on Ukraine infrastructure.txt+eventbasecode20+eventcode20+avgtone0.49473684210526314+goldsteinscale0.65+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.013157894736842105+news_keywords+['ukraine:0.4976', 'putin:0.4539', 'invasion:0.3025', 'zaporizhzhia:0.2996', 'government:0.2873', 'nuclear:0.2766', 'concern:0.2495', 'alert:0.2392', 'independence:0.2318', 'wall:0.2272', 'watchdog:0.2149', 'anonymity:0.2031', 'coincide:0.1967', 'biden:0.19', 'hear:0.1883', 'monday:0.1825', 'siren:0.1817', 'cover:0.1804', 'building:0.16', 'look:0.1552', 'depart:0.1548', 'succeed:0.1519', 'hit:0.1431', 'near:0.1304', 'authorized:0.1285', 'world:0.1221', 'right:0.1219', 'step:0.1213', 'focus:0.1177', 'official:0.1112']+titles_keywords+['ukraine:0.3992', 'infrastructure:0.2372', 'hits:0.2066', 'looks:0.1277', 'step:0.0717']"
+        ]
+    ]
+}

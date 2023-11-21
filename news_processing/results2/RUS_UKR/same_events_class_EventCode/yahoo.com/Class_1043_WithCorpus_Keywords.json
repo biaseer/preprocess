@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+1043":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/yahoo.com/Putin insists on Russias right to be in Ukraine.txt+eventbasecode104+eventcode1043+avgtone0.4954407294832827+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.5454', 'putin:0.5044', 'ukraine:0.4851', 'russian:0.4109', 'russias:0.405', 'annexation:0.3914', 'donetsk:0.3705', 'separatist:0.3447', 'oblige:0.2703', 'obligation:0.2552', 'provide:0.2439', 'intend:0.2428', 'president:0.2421', 'insist:0.2413', 'luhansk:0.2275', 'military:0.2159', 'stand:0.206', 'right:0.205', 'support:0.2022', 'forcefully:0.173', 'recognition:0.1729', 'say:0.1657', 'international:0.1436', 'add:0.0693']+titles_keywords+['putin:0.4728', 'ukraine:0.4645', 'russias:0.3297', 'insists:0.2379', 'right:0.1643']"
+        ]
+    ],
+    "UKR+RUS+1043":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/yahoo.com/Putin insists invading Ukraine was the right decision as Russia keeps getting pummeled with sanctions.txt+eventbasecode104+eventcode1043+avgtone0.4926075268817205+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5154', 'kyiv:0.3966', 'invade:0.3895', 'nato:0.3674', 'justify:0.2813', 'demilitarize:0.2811', 'reuters:0.2422', 'sanction:0.2015', 'isolate:0.1924', 'expect:0.1777', 'economic:0.1727', 'scenario:0.1681', 'say:0.1588', 'report:0.1583', 'weaponry:0.1577', 'donbas:0.1554', 'north:0.1534', 'train:0.1533', 'botch:0.1524', 'ally:0.1508', 'debunked:0.1482', 'come:0.1469', 'information:0.1458', 'cosmodrome:0.1397', 'goal:0.1339', 'long:0.1191', 'modern:0.1111', 'withdraw:0.1098', 'general:0.0837', 'thousand:0.0598']+titles_keywords+['putin:0.4568', 'invading:0.3464', 'decision:0.2235', 'insists:0.2219', 'elite:0.1164']"
+        ]
+    ]
+}

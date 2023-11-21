@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+173":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/publicradioeast.org/Russians reflect on the RussiaUkraine war and the consequences at home.txt+eventbasecode173+eventcode173+avgtone0.4681159420289855+goldsteinscale0.25+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.013157894736842105+news_keywords+['putin:0.4964', 'soviet:0.4826', 'russiaukraine:0.4739', 'ukrainians:0.4716', 'khrushchevs:0.4267', 'russias:0.422', 'kyiv:0.4205', 'protest:0.3082', 'propaganda:0.302', 'peaceful:0.2755', 'generational:0.2334', 'invaded:0.224', 'understand:0.2177', 'afraid:0.2176', 'affairs:0.204', 'radical:0.2019', 'future:0.199', 'news:0.1941', 'consequence:0.1809', 'engage:0.1742', 'live:0.1701', 'graduate:0.1505', 'tell:0.1488', 'population:0.1319', 'listener:0.1272', 'meghna:0.1128', 'trajectory:0.0966', 'theyre:0.0956', 'scale:0.0801', 'galvanize:0.0791']+titles_keywords+['russiaukraine:0.575', 'russians:0.5487', 'war:0.4104', 'consequences:0.2266', 'reflect:0.1196']"
+        ]
+    ],
+    "UKR+RUS+173":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/publicradioeast.org/Ukrainians are on alert for Russian saboteurs trying to infiltrate their towns.txt+eventbasecode173+eventcode173+avgtone0.443181818181818+goldsteinscale0.25+nummentions0.047895500725689405+numarticles0.048585931834662796+numsources0.05263157894736842+news_keywords+['ukrainian:0.4961', 'saboteurs:0.4275', 'putin:0.4252', 'infiltrate:0.3433', 'suspicious:0.3315', 'kondiukh:0.3187', 'government:0.3183', 'barricade:0.3137', 'interpreter:0.3136', 'enemy:0.3023', 'cherkoon:0.2978', 'help:0.2682', 'know:0.2395', 'safer:0.237', 'turn:0.2368', 'town:0.2358', 'live:0.2302', 'hear:0.2268', 'sentence:0.2224', 'transcript:0.2187', 'huk:0.2179', 'bring:0.2148', 'sausage:0.2019', 'worker:0.1999', 'end:0.1856', 'camera:0.1852', 'okean:0.1649', 'normal:0.1536', 'soon:0.1371', 'deep:0.128']+titles_keywords+['ukrainians:0.5093', 'saboteurs:0.4534', 'infiltrate:0.3032', 'towns:0.2268', 'alert:0.1221']"
+        ]
+    ]
+}

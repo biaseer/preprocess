@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/thehindu.com/Russian forces capture Kreminna in east Ukraine Kyiv.txt+eventbasecode192+eventcode192+avgtone0.47992700729927007+goldsteinscale0.025+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5149', 'kreminna:0.4257', 'russian:0.4049', 'oleg:0.3513', 'invasion:0.3058', 'military:0.2673', 'surrender:0.2599', 'town:0.2306', 'mortar:0.2304', 'salvo:0.2276', 'fight:0.2116', 'donbas:0.2089', 'strategic:0.2054', 'northeast:0.1719', 'enter:0.1666', 'continue:0.1532', 'pull:0.1434', 'kilometre:0.1388', 'report:0.1388', 'population:0.1362', 'pre:0.1311', 'nearly:0.1122', 'say:0.1106', 'governor:0.1066', 'monday:0.1057', 'add:0.1043', 'confirm:0.1011', 'wound:0.0991', 'major:0.0844', 'hardware:0.05']+titles_keywords+['kyiv:0.506', 'kreminna:0.4954', 'russian:0.3467', 'capture:0.2472', 'forces:0.0896']"
+        ],
+        [
+            "20220629+../news_crawling/RUS_UKR/p_articles/thehindu.com/What are the strategic implications of the fall of Severodonetsk In Focus podcast.txt+eventbasecode192+eventcode192+avgtone0.5+goldsteinscale0.025+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['severodonetsk:0.4262', 'ukraine:0.416', 'luhansk:0.3407', 'strategic:0.3113', 'lysychansk:0.2428', 'fall:0.2378', 'victory:0.2116', 'battleground:0.1915', 'military:0.1738', 'fight:0.1717', 'implication:0.1649', 'donbas:0.1631', 'major:0.1513', 'campaign:0.1479', 'resist:0.1408', 'progress:0.1378', 'focus:0.1361', 'protect:0.1332', 'capture:0.1251', 'speak:0.1219', 'withdraw:0.1174', 'run:0.1037', 'regroup:0.103', 'long:0.1004', 'stanly:0.0828', 'affairs:0.0805', 'editor:0.0779', 'hand:0.0568', 'resource:0.0309', 'able:0.0007']+titles_keywords+['severodonetsk:0.4814', 'podcast:0.3439', 'strategic:0.343', 'focus:0.2667', 'implications:0.2148']"
+        ]
+    ]
+}

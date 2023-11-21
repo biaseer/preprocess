@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220206+../news_crawling/RUS_UKR/p_articles/itv.com/Russia could reach capability for fullscale invasion of Ukraine by late February.txt+eventbasecode20+eventcode20+avgtone0.4814285714285714+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4275', 'putin:0.3753', 'battalion:0.2972', 'cyberattacks:0.2511', 'incursion:0.2408', 'correspondent:0.1893', 'destabilize:0.1781', 'firepower:0.1728', 'friday:0.1709', 'month:0.1573', 'border:0.1523', 'position:0.1432', 'action:0.1428', 'buildup:0.1387', 'increase:0.1373', 'potential:0.1351', 'want:0.1338', 'near:0.1242', 'conflict:0.1055', 'end:0.0892', 'total:0.0809', 'quickly:0.074', 'warning:0.0722', 'rohit:0.0679', 'sources:0.0649', 'aim:0.0503', 'likely:0.043', 'fullscale:0.0323', 'cope:0.0317', 'accord:0.0229']+titles_keywords+['ukraine:0.384', 'invasion:0.2692', 'february:0.2485', 'capability:0.1392', 'fullscale:0.1326']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/itv.com/Kyiv residents scared but try to keep calm as they seek refuge in art gallery.txt+eventbasecode20+eventcode20+avgtone0.4715762273901809+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5746', 'ukrainians:0.4795', 'putin:0.3808', 'emergency:0.3262', 'erupt:0.3244', 'invasion:0.2918', 'casualty:0.2606', 'diplomatic:0.2597', 'conflict:0.2583', 'safety:0.2441', 'calm:0.2288', 'dramatic:0.2206', 'news:0.2112', 'stay:0.2085', 'happen:0.208', 'civilian:0.1746', 'scar:0.1622', 'clarify:0.1472', 'huddle:0.1368', 'expect:0.1338', 'itv:0.1292', 'heard:0.1276', 'begin:0.1252', 'queues:0.1241', 'hopefully:0.0927', 'bit:0.0922', 'long:0.0853', 'state:0.07', 'global:0.0665', 'dnipro:0.0321']+titles_keywords+['kyiv:0.5138', 'scared:0.3463', 'refuge:0.3318', 'calm:0.2948', 'art:0.1576']"
+        ],
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/itv.com/Were fighting against a Nazi regime says Ukrainian MP.txt+eventbasecode20+eventcode20+avgtone0.46595208070617905+goldsteinscale0.65+nummentions0.04027576197387518+numarticles0.04097171863669326+numsources0.2532894736842105+news_keywords+['ukraine:0.4773', 'putin:0.4305', 'propaganda:0.4049', 'genocide:0.38', 'nazi:0.3789', 'victim:0.3507', 'war:0.3152', 'know:0.2873', 'help:0.2585', 'terrify:0.2509', 'understand:0.2469', 'sovsun:0.2405', 'say:0.239', 'world:0.2379', 'fool:0.2316', 'want:0.2272', 'stop:0.2265', 'feed:0.212', 'prove:0.2056', 'picture:0.2004', 'head:0.1994', 'bucha:0.1864', 'visit:0.1689', 'theyre:0.1682', 'similar:0.1627', 'surround:0.1571', 'alive:0.1559', 'wont:0.1526', 'mp:0.135', 'weve:0.1055']+titles_keywords+['nazi:0.5219', 'ukrainian:0.4631', 'mp:0.2021', 'fighting:0.1929', 'says:0.1202']"
+        ]
+    ]
+}

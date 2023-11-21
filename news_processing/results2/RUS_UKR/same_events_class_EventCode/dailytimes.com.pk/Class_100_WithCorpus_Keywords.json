@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+100":[
+        [
+            "20220802+../news_crawling/RUS_UKR/p_articles/dailytimes.com.pk/US allies hit Russia for dangerous nuclear rhetoric ahead of UN talks.txt+eventbasecode100+eventcode100+avgtone0.4817073170731707+goldsteinscale0.25+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.003289473684210526+news_keywords+['nuclear:0.4116', 'treaty:0.3779', 'russia:0.3651', 'threaten:0.2828', 'destabilize:0.2742', 'biden:0.2482', 'concern:0.2359', 'strategic:0.2271', 'rhetoric:0.2226', 'administration:0.2204', 'talk:0.2192', 'weapons:0.2101', 'north:0.209', 'unprovoked:0.2065', 'halt:0.2046', 'strengthen:0.1878', 'power:0.1854', 'constitute:0.1827', 'deploy:0.1776', 'order:0.1605', 'monday:0.1517', 'npt:0.1408', 'ready:0.1394', 'cold:0.1372', 'test:0.1289', 'nonproliferation:0.1278', 'bilateral:0.1231', 'long:0.1154', 'good:0.1062', 'party:0.1054']+titles_keywords+['nuclear:0.3071', 'allies:0.2789', 'russia:0.2767', 'rhetoric:0.2466', 'hit:0.1252']"
+        ]
+    ],
+    "WST+UKR+100":[
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/dailytimes.com.pk/Moscow says strikes hit Ukraine military training centres.txt+eventbasecode100+eventcode100+avgtone0.4920634920634921+goldsteinscale0.25+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.029605263157894735+news_keywords+['kyiv:0.4596', 'nato:0.3628', 'belarus:0.3537', 'russias:0.3322', 'strike:0.3121', 'igor:0.2758', 'konashenkov:0.2745', 'bombing:0.2605', 'deploy:0.2155', 'training:0.2007', 'region:0.1898', 'brigade:0.1666', 'reminder:0.1395', 'zhytomyr:0.1358', 'report:0.1338', 'near:0.1262', 'target:0.1198', 'weapon:0.1191', 'centre:0.1185', 'defence:0.1102', 'aerospace:0.0973', 'plan:0.079', 'thwart:0.0788', 'june:0.0702', 'morning:0.0695', 'capable:0.0675', 'say:0.0557', 'include:0.0269', 'add:0.0239', 'completely:0.0058']+titles_keywords+['ukraine:0.3739', 'training:0.2416', 'hit:0.218', 'centres:0.1879', 'says:0.0664']"
+        ]
+    ]
+}

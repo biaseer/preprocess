@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+16":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/dw.com/NATO says Russia planning fullscale attack on Ukraine.txt+eventbasecode16+eventcode16+avgtone0.4753328112764292+goldsteinscale0.4+nummentions0.05551523947750363+numarticles0.05438723712835388+numsources0.04276315789473684+news_keywords+['nato:0.4632', 'kyiv:0.4136', 'diplomacy:0.4103', 'kremlin:0.3945', 'invade:0.3138', 'mobilization:0.3063', 'escalate:0.3044', 'prepare:0.2487', 'separatist:0.225', 'leonid:0.2141', 'introduce:0.2118', 'information:0.2063', 'dangerous:0.2057', 'pretext:0.1989', 'event:0.1982', 'table:0.1977', 'message:0.1892', 'conclusion:0.1873', 'ddos:0.1663', 'baseless:0.1616', 'want:0.1597', 'flank:0.1426', 'fully:0.1288', 'state:0.1238', 'draw:0.1232', 'building:0.115', 'oscereported:0.1149', 'difference:0.1137', 'look:0.1123', 'today:0.1027']+titles_keywords+['nato:0.4118', 'attack:0.2509', 'fullscale:0.2146', 'planning:0.0839', 'says:0.0495']"
+        ],
+        [
+            "20220820+../news_crawling/RUS_UKR/p_articles/dw.com/Ukraine Hospitals under attack.txt+eventbasecode16+eventcode16+avgtone0.4590163934426229+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['ukraine:0.5229', 'russia:0.4542', 'chernihiv:0.3773', 'attack:0.3269', 'hospitals:0.3224', 'war:0.32', 'infrastructure:0.3009', 'destruction:0.2384', 'deny:0.2317', 'town:0.2172', 'accountable:0.2113', 'civil:0.1927', 'schlke:0.1827', 'meet:0.1505', 'birgitta:0.1493', 'target:0.1467', 'ground:0.121', 'try:0.1041', 'hold:0.0763', 'dws:0.0487', 'man:0.0424', 'suggest:0.021']+titles_keywords+['hospitals:0.455', 'ukraine:0.4381', 'attack:0.3774']"
+        ]
+    ]
+}

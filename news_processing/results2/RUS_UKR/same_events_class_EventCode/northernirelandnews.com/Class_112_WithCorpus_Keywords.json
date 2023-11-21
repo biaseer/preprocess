@@ -1,0 +1,22 @@
+{
+    "FRA+RUS+112":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/northernirelandnews.com/Frances Macron accuses rival Le Pen of being dependent on Russia.txt+eventbasecode112+eventcode112+avgtone0.4825581395348837+goldsteinscale0.4+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.01644736842105263+news_keywords+['macron:0.5435', 'putin:0.4219', 'france:0.3836', 'crimea:0.3697', 'accuse:0.2763', 'incumbent:0.2605', 'crisis:0.2515', 'opponent:0.2434', 'debate:0.2268', 'emmanuel:0.2267', 'pen:0.2216', 'war:0.2196', 'loan:0.2157', 'vote:0.2155', 'le:0.2102', 'rally:0.1842', 'expect:0.173', 'respond:0.1565', 'dependent:0.1525', 'elabe:0.148', 'role:0.144', 'thursday:0.1427', 'sputnik:0.1363', 'gain:0.1148', 'bad:0.1145', 'envisages:0.1114', 'right:0.1041', 'ani:0.0889', 'mr:0.0799', 'prevent:0.0679']+titles_keywords+['macron:0.4206', 'russia:0.2714', 'dependent:0.2318', 'accuses:0.1994', 'pen:0.1454']"
+        ]
+    ],
+    "PAK+UKR+112":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/northernirelandnews.com/Imran Khans proRussia antiWest attitude might undermine his political leverage Report.txt+eventbasecode112+eventcode112+avgtone0.46913580246913583+goldsteinscale0.4+nummentions0.05478955007256894+numarticles0.05547498187092096+numsources0.06907894736842106+news_keywords+['putin:0.4824', 'geopolitical:0.4333', 'tatarstan:0.4227', 'islamabad:0.3864', 'khans:0.3521', 'imran:0.3502', 'islam:0.313', 'ethnicity:0.3089', 'rhetoric:0.2876', 'antiwest:0.2773', 'genocide:0.276', 'cite:0.2511', 'populist:0.2451', 'reaction:0.2061', 'alienate:0.205', 'policy:0.1942', 'uyghur:0.1703', 'subservience:0.1689', 'murderous:0.1634', 'leverage:0.1532', 'say:0.1368', 'general:0.123', 'later:0.1147', 'unwilling:0.1145', 'consistent:0.1075', 'april:0.1034', 'careful:0.1002', 'outlet:0.0991', 'qamar:0.084', 'reconsider:0.0695']+titles_keywords+['antiwest:0.415', 'imran:0.3932', 'khans:0.3843', 'political:0.3199', 'leverage:0.2116']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20211222+../news_crawling/RUS_UKR/p_articles/northernirelandnews.com/Russian Embassy rejects Washingtons claims blaming Moscow for escalation in Ukraine.txt+eventbasecode112+eventcode112+avgtone0.4719101123595506+goldsteinscale0.4+nummentions0.02902757619738752+numarticles0.023205221174764323+numsources0.02631578947368421+news_keywords+['moscow:0.4177', 'embassy:0.3953', 'nato:0.3555', 'escalation:0.2618', 'eastward:0.2071', 'anisputnik:0.1929', 'blame:0.1801', 'washingtons:0.1795', 'cooperation:0.1514', 'statement:0.1436', 'spokesperson:0.1397', 'reject:0.1329', 'step:0.1277', 'statedept:0.1256', 'conclude:0.1239', 'read:0.1178', 'tweet:0.1136', 'matter:0.1127', 'state:0.1068', 'distort:0.1043', 'dangerous:0.1018', 'proxy:0.0896', 'wednesday:0.0767', 'bilateral:0.0715', 'shall:0.0636', 'create:0.0636', 'near:0.0606', 'price:0.0591', 'equal:0.0356', 'site:0.0001']+titles_keywords+['moscow:0.4168', 'embassy:0.2886', 'escalation:0.2353', 'blaming:0.1896', 'rejects:0.1625']"
+        ]
+    ],
+    "UKR+USA+112":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/northernirelandnews.com/Russia moving troops into Donetsk Luhansk similar to 2014 annexation of Crimea says defence expert.txt+eventbasecode112+eventcode112+avgtone0.4783464566929134+goldsteinscale0.4+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.023026315789473683+news_keywords+['crimea:0.5166', 'putin:0.4404', 'annexation:0.4162', 'nato:0.3582', 'conflict:0.3465', 'invade:0.3231', 'sovereignty:0.2842', 'peaceful:0.2799', 'occur:0.2647', 'zelenskyy:0.2084', 'continue:0.2031', 'sanction:0.2031', 'contrary:0.2002', 'president:0.1954', 'agreement:0.1821', 'breakaway:0.1755', 'order:0.1751', 'prepare:0.1645', 'scary:0.1605', 'attach:0.1528', 'expert:0.1492', 'sign:0.1317', 'donbas:0.1316', 'exactly:0.1313', 'world:0.1255', 'pk:0.1234', 'month:0.1117', 'delhi:0.109', 'possibility:0.0951', 'far:0.0921']+titles_keywords+['crimea:0.4694', 'moving:0.2038', 'defence:0.1285', 'similar:0.1273', 'expert:0.1154']"
+        ]
+    ]
+}

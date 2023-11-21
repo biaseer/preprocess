@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/politico.com/Russians withdraw from Ukraines Kharkiv batter east.txt+eventbasecode87+eventcode874+avgtone0.47459893048128343+goldsteinscale1.0+nummentions0.1179245283018868+numarticles0.11856417693981146+numsources0.13815789473684212+news_keywords+['kyiv:0.5612', 'ukraines:0.502', 'moscows:0.45', 'airstrikes:0.3879', 'russian:0.3715', 'kharkiv:0.367', 'reznikov:0.3146', 'artillery:0.2748', 'troop:0.265', 'destroy:0.233', 'industrial:0.2304', 'battle:0.2299', 'mortar:0.2278', 'oleksii:0.191', 'province:0.1824', 'pull:0.1718', 'eastern:0.1692', 'bridge:0.1561', 'route:0.1501', 'release:0.1367', 'order:0.1355', 'enter:0.1213', 'long:0.121', 'nearby:0.1184', 'new:0.1133', 'focus:0.1114', 'term:0.1065', 'video:0.0883', 'donets:0.0853', 'heavy:0.0592']+titles_keywords+['ukraines:0.4722', 'kharkiv:0.4171', 'withdraw:0.2933', 'batter:0.197', 'east:0.179']"
+        ]
+    ],
+    "UKR+RUS+874":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/politico.com/More civilians flee east Ukraine after deadly station strike.txt+eventbasecode87+eventcode874+avgtone0.46491969568892644+goldsteinscale1.0+nummentions0.025036284470246733+numarticles0.02574329224075417+numsources0.15460526315789475+news_keywords+['kyiv:0.5435', 'evacuation:0.4228', 'russian:0.3937', 'zelenskyy:0.3828', 'war:0.3176', 'kuts:0.3057', 'sumanchuk:0.2768', 'volodymyr:0.267', 'evgeniy:0.2544', 'kill:0.2477', 'forward:0.2127', 'missile:0.2115', 'giv:0.2062', 'president:0.2032', 'civilian:0.1978', 'april:0.1822', 'western:0.1814', 'train:0.1757', 'vulnerable:0.1626', 'sign:0.161', 'people:0.1578', 'order:0.1565', 'expect:0.152', 'center:0.1506', 'day:0.139', 'patches:0.1327', 'late:0.1302', 'increasingly:0.1227', 'thousand:0.1172', 'agree:0.1039']+titles_keywords+['ukraine:0.358', 'civilians:0.3539', 'flee:0.284', 'strike:0.1497', 'station:0.1421']"
+        ]
+    ]
+}

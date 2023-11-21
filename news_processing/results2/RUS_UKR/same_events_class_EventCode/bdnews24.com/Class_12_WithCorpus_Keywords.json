@@ -1,0 +1,17 @@
+{
+    "EUR+UKR+12":[
+        [
+            "20220206+../news_crawling/RUS_UKR/p_articles/bdnews24.com/US warns of grim toll if Putin pursues full invasion of Ukraine.txt+eventbasecode12+eventcode12+avgtone0.47632575757575757+goldsteinscale0.48+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4612', 'ukraines:0.4097', 'nato:0.3088', 'cyberattacks:0.3067', 'annexation:0.2985', 'scenario:0.2559', 'briefing:0.2321', 'incursion:0.2251', 'maneuver:0.2185', 'prepare:0.2124', 'panic:0.2035', 'scope:0.1871', 'death:0.1776', 'jinping:0.1739', 'thursday:0.1546', 'order:0.1513', 'sanction:0.1504', 'prelude:0.1401', 'physical:0.1387', 'bad:0.124', 'satellite:0.1111', 'austin:0.0989', 'similar:0.0963', 'track:0.0871', 'million:0.0842', 'array:0.0826', 'version:0.08', 'major:0.0785', 'antony:0.068', 'avril:0.0435']+titles_keywords+['putin:0.3761', 'invasion:0.262', 'warns:0.2561', 'grim:0.2103', 'toll:0.1539']"
+        ]
+    ],
+    "RUS+RUS+12":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Wooing allies publicising Putins plans inside Bidens race to prevent war.txt+eventbasecode12+eventcode12+avgtone0.4901734104046243+goldsteinscale0.48+nummentions0.06313497822931785+numarticles0.06381435823060189+numsources0.2532894736842105+news_keywords+['putin:0.4984', 'diplomacy:0.4079', 'natos:0.4021', 'briefing:0.357', 'invade:0.3409', 'disinformation:0.3306', 'kyiv:0.2964', 'predict:0.2785', 'plan:0.272', 'bipartisan:0.268', 'coalesce:0.2486', 'pretext:0.2389', 'news:0.2323', 'table:0.2096', 'positioning:0.2081', 'secure:0.2023', 'ambiguity:0.2002', 'soon:0.195', 'bidens:0.1942', 'forth:0.1942', 'paratrooper:0.1714', 'dramatic:0.1562', 'hour:0.1447', 'called:0.1228', 'summer:0.1211', 'direct:0.1194', 'unwilling:0.1193', 'big:0.1096', 'sync:0.1065', 'true:0.0669']+titles_keywords+['putins:0.5064', 'publicising:0.3129', 'war:0.2989', 'plans:0.2685', 'wooing:0.1162']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Zelensky says Ukraine takes as seriously as possible an apparent threat of Russian chemical weapon.txt+eventbasecode12+eventcode12+avgtone0.47668393782383417+goldsteinscale0.48+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.009868421052631578+news_keywords+['ukraine:0.4605', 'kremlin:0.4319', 'zelenskys:0.3496', 'vasylenko:0.3424', 'war:0.3091', 'weapons:0.2555', 'chemical:0.2274', 'police:0.2247', 'concern:0.2243', 'tank:0.2202', 'deploy:0.2197', 'munition:0.2135', 'pentagon:0.2126', 'separatist:0.2124', 'translation:0.2109', 'riot:0.2098', 'besiege:0.1777', 'learn:0.1725', 'intensifies:0.1654', 'immediately:0.157', 'smoke:0.1533', 'end:0.1517', 'future:0.1466', 'respond:0.1357', 'video:0.1324', 'eduard:0.1291', 'possibility:0.111', 'sure:0.0967', 'seriously:0.0723', 'true:0.0701']+titles_keywords+['zelensky:0.4767', 'ukraine:0.4098', 'threat:0.2958', 'chemical:0.1791', 'seriously:0.1317']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+80":[
+        [
+            "20220508+../news_crawling/RUS_UKR/p_articles/inquirer.net/On WWII anniversary Zelensky says evil has returned.txt+eventbasecode80+eventcode80+avgtone0.4653902798232696+goldsteinscale0.75+nummentions0.00544267053701016+numarticles0.006163886874546773+numsources0.006578947368421052+news_keywords+['kyiv:0.4917', 'soviet:0.4797', 'putin:0.4317', 'propaganda:0.382', 'wwii:0.3793', 'remembrance:0.3792', 'nationalism:0.3767', 'zelensky:0.3647', 'nazi:0.3302', 'volodymyr:0.2883', 'reuters:0.2683', 'unprovoked:0.2462', 'destroy:0.2372', 'prevail:0.2349', 'curfew:0.2315', 'know:0.2183', 'westward:0.2181', 'event:0.2138', 'annex:0.1923', 'turn:0.1869', 'read:0.1822', 'decade:0.1726', 'terms:0.1651', 'chois:0.1603', 'daily:0.1333', 'prime:0.1303', 'agree:0.1216', 'sure:0.1142', 'servicehandout:0.1021', 'videolink:0.0374']+titles_keywords+['zelensky:0.5884', 'evil:0.3767', 'wwii:0.3634', 'anniversary:0.227', 'returned:0.1555']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/inquirer.net/War in Ukraine Latest developments.txt+eventbasecode80+eventcode80+avgtone0.4748923959827833+goldsteinscale0.75+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.01644736842105263+news_keywords+['ukraine:0.5316', 'putin:0.4613', 'ceasefire:0.4375', 'nato:0.3911', 'moscows:0.3871', 'oligarch:0.3535', 'negotiation:0.3172', 'invasion:0.3047', 'zelensky:0.2615', 'news:0.2553', 'afp:0.2222', 'read:0.2195', 'peril:0.2128', 'suspect:0.2112', 'succession:0.2057', 'prepare:0.1989', 'counterproductive:0.1948', 'continuing:0.187', 'corridor:0.1693', 'meet:0.1656', 'pull:0.148', 'poison:0.1469', 'televise:0.1449', 'underscoring:0.1352', 'far:0.1312', 'agree:0.131', 'billion:0.1232', 'plus:0.113', 'body:0.1104', 'allocate:0.0773']+titles_keywords+['ukraine:0.5231', 'war:0.4432', 'developments:0.2854', 'latest:0.2414']"
+        ]
+    ]
+}

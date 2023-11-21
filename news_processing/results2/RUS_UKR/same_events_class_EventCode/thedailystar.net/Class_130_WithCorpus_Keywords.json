@@ -1,0 +1,15 @@
+{
+    "RUS+RUS+130":[
+        [
+            "20220806+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Humanity playing with a loaded gun.txt+eventbasecode130+eventcode130+avgtone0.4712041884816754+goldsteinscale0.27999999999999997+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['hiroshima:0.5693', 'nuclear:0.39', 'war:0.3063', 'tolstoy:0.2911', 'cite:0.2713', 'incinerate:0.2611', 'memorial:0.2587', 'proliferation:0.2576', 'world:0.2531', 'japanese:0.2525', 'warning:0.219', 'die:0.2003', 'anniversary:0.1994', 'day:0.1954', 'endured:0.1925', 'crisis:0.1913', 'statistic:0.1857', 'visit:0.1845', 'speech:0.1772', 'use:0.1648', 'include:0.1642', 'say:0.1607', 'learn:0.1496', 'begin:0.147', 'head:0.1391', 'load:0.1325', 'officially:0.1233', 'relatives:0.118', 'states:0.1163', 'mayor:0.1065']+titles_keywords+['gun:0.5565', 'playing:0.3959', 'loaded:0.3304', 'humanity:0.2741']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Ukraine separatist leaders mobilise troops fearing Russian invasion.txt+eventbasecode130+eventcode130+avgtone0.46317991631799166+goldsteinscale0.27999999999999997+nummentions0.3076923076923077+numarticles0.30819434372733867+numsources0.7203947368421053+news_keywords+['ukraine:0.4482', 'kremlin:0.4091', 'ceasefire:0.4044', 'invade:0.3751', 'evacuate:0.339', 'separatist:0.3123', 'prepare:0.3008', 'military:0.2942', 'sinenkov:0.2741', 'alarm:0.2649', 'underway:0.2434', 'aggressor:0.2414', 'news:0.2304', 'dangerous:0.2227', 'occur:0.2168', 'know:0.2104', 'future:0.1902', 'order:0.1883', 'tension:0.1868', 'executive:0.1846', 'pretext:0.1747', 'drill:0.1689', 'reiterate:0.1521', 'decide:0.1498', 'long:0.1434', 'child:0.1289', 'sure:0.1288', 'issue:0.1092', 'thousand:0.0962', 'focus:0.0951']+titles_keywords+['ukraine:0.3574', 'separatist:0.2933', 'invasion:0.2916', 'leaders:0.2086', 'fearing:0.1927']"
+        ],
+        [
+            "20220821+../news_crawling/RUS_UKR/p_articles/thedailystar.net/SP lifts Ukraine rating.txt+eventbasecode130+eventcode130+avgtone0.5023923444976076+goldsteinscale0.27999999999999997+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.552', 'restructuring:0.2898', 'liquidity:0.2465', 'currency:0.2273', 'upgrade:0.2188', 'sp:0.2151', 'secure:0.2148', 'government:0.2102', 'risk:0.2014', 'territory:0.1876', 'position:0.1873', 'ratings:0.1869', 'fund:0.1797', 'global:0.1785', 'stay:0.1737', 'creditor:0.1715', 'fitch:0.1672', 'reserve:0.1615', 'current:0.1428', 'strong:0.1356', 'albeit:0.1251', 'dependent:0.1208', 'boosting:0.1185', 'term:0.0997', 'friday:0.0903', 'deal:0.0824', 'percent:0.0794', 'factor:0.079', 'year:0.0471', 'like:0.0256']+titles_keywords+['ukraine:0.4726', 'sp:0.3959', 'rating:0.3185', 'lifts:0.1303']"
+        ]
+    ]
+}

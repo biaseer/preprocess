@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/prnewswire.com/Hyperproof offers its compliance software for free to firms in the critical infrastructure sectors as.txt+eventbasecode10+eventcode10+avgtone0.49107142857142855+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['hyperproofsource:0.5407', 'cybersecurity:0.4867', 'saas:0.395', 'software:0.3243', 'compliance:0.3159', 'fintech:0.3148', 'infrastructure:0.3008', 'ransomware:0.2932', 'emailprotected:0.2917', 'implement:0.2875', 'alert:0.2717', 'company:0.265', 'validate:0.263', 'cisa:0.2596', 'workflow:0.2551', 'trust:0.2471', 'prnewswire:0.2376', 'mitigate:0.2353', 'solutionthis:0.2273', 'russian:0.2051', 'http:0.2034', 'pipeline:0.2031', 'proactive:0.2014', 'fsb:0.1816', 'invasion:0.1637', 'cross:0.1403', 'mm:0.1323', 'lehto:0.1259', 'prepare:0.1231', 'zhao:0.0841']+titles_keywords+['hyperproof:0.4806', 'cyberthreat:0.3691', 'compliance:0.3418', 'software:0.3083', 'russian:0.2848']"
+        ]
+    ],
+    "USA+RUS+10":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/prnewswire.com/CED Issues Statement on Russian Invasion of Ukraine.txt+eventbasecode10+eventcode10+avgtone0.49514563106796117+goldsteinscale0.5+nummentions0.02358490566037736+numarticles0.024292965917331398+numsources0.02631578947368421+news_keywords+['ukraine:0.4482', 'nato:0.4158', 'invasion:0.3442', 'government:0.3441', 'economic:0.3193', 'ced:0.3057', 'president:0.2909', 'org:0.2776', 'sovereigntytwo:0.2716', 'policy:0.2601', 'nonpartisan:0.2532', 'conference:0.2432', 'unprovoked:0.2314', 'prnewswire:0.2231', 'community:0.2088', 'safety:0.2022', 'chief:0.2009', 'board:0.1956', 'statement:0.1895', 'tank:0.177', 'entity:0.1717', 'esposito:0.1632', 'condemns:0.1553', 'deliver:0.1486', 'center:0.1463', 'status:0.1451', 'respond:0.1404', 'trillion:0.1217', 'new:0.1068', 'today:0.0905']+titles_keywords+['ukraine:0.4358', 'ced:0.4112', 'invasion:0.2763', 'statement:0.196', 'issues:0.0738']"
+        ]
+    ]
+}

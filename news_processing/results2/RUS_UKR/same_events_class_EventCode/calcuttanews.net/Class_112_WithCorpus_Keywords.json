@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+112":[
+        [
+            "20211221+../news_crawling/RUS_UKR/p_articles/calcuttanews.net/Russia using gas as blackmail tool Ukraine.txt+eventbasecode112+eventcode112+avgtone0.4838709677419355+goldsteinscale0.4+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['ukraine:0.4677', 'gas:0.3259', 'pipeline:0.3139', 'blackmail:0.2935', 'gazprom:0.2807', 'sergey:0.2667', 'supply:0.2556', 'transiting:0.2362', 'attack:0.2041', 'extend:0.2029', 'economic:0.195', 'deliver:0.1805', 'winter:0.17', 'union:0.1558', 'issue:0.1363', 'conclusion:0.1341', 'western:0.1321', 'troop:0.1291', 'term:0.1287', 'soon:0.1243', 'prioritize:0.1146', 'write:0.1111', 'stop:0.1102', 'book:0.0975', 'recent:0.0929', 'certification:0.0917', 'meter:0.0865', 'low:0.0731', 'possible:0.064', 'purposefully:0.0427']+titles_keywords+['ukraine:0.4762', 'gas:0.3981', 'blackmail:0.3957', 'using:0.1319', 'tool:0.1036']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/calcuttanews.net/Lego Russia closes stores due to worldwide sanctions.txt+eventbasecode112+eventcode112+avgtone0.4628099173553719+goldsteinscale0.4+nummentions0.038461538461538464+numarticles0.03915881073241479+numsources0.03289473684210526+news_keywords+['lego:0.4362', 'moscow:0.4214', 'ukraine:0.4088', 'russian:0.3913', 'toy:0.2925', 'war:0.2763', 'store:0.271', 'reuters:0.2637', 'worldwide:0.2371', 'stock:0.2299', 'supplies:0.2185', 'invasion:0.2138', 'shipment:0.2089', 'disruption:0.204', 'temporarily:0.1919', 'freeze:0.1853', 'sanction:0.1767', 'child:0.1739', 'suspend:0.1621', 'operate:0.1598', 'february:0.1543', 'continue:0.1367', 'local:0.1295', 'cause:0.1172', 'close:0.1043', 'group:0.0752', 'email:0.0748', 'inventive:0.0611', 'severe:0.0474', 'connection:0.0257']+titles_keywords+['sanctions:0.3843', 'lego:0.3754', 'russia:0.3331', 'closes:0.2812', 'worldwide:0.1849']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/calcuttanews.net/Grain burned by Ukrainian nationalists Moscow.txt+eventbasecode112+eventcode112+avgtone0.47122302158273377+goldsteinscale0.4+nummentions0.03773584905660377+numarticles0.03843364757070341+numsources0.03618421052631579+news_keywords+['ukraine:0.4665', 'kremlin:0.4405', 'nationalist:0.3772', 'nato:0.3725', 'grain:0.3478', 'war:0.3278', 'unprovoked:0.3036', 'territory:0.2999', 'battalion:0.2692', 'destroy:0.2666', 'novosti:0.2556', 'supply:0.2535', 'pandemic:0.2388', 'report:0.2283', 'sanction:0.2264', 'politically:0.2229', 'protocol:0.2162', 'yan:0.2098', 'allege:0.2068', 'term:0.2021', 'stem:0.1992', 'continue:0.1945', 'agreement:0.1855', 'issue:0.1748', 'surge:0.1731', 'unwillingness:0.1636', 'secretary:0.1598', 'donbass:0.1434', 'ready:0.1228', 'exporter:0.089']+titles_keywords+['grain:0.4491', 'moscow:0.4381', 'ukrainian:0.4286', 'nationalists:0.3737', 'burned:0.2818']"
+        ]
+    ]
+}

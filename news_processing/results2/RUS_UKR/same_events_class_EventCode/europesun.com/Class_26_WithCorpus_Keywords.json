@@ -1,0 +1,17 @@
+{
+    "BLR+RUS+26":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/europesun.com/Russia made proposals to Ukraine in form of legal documents during talks in Belarus.txt+eventbasecode26+eventcode26+avgtone0.490234375+goldsteinscale0.7+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.47', 'ceasefire:0.4378', 'negotiator:0.2796', 'troop:0.2326', 'talk:0.2319', 'podolyak:0.2312', 'delegation:0.2293', 'logistics:0.227', 'proposal:0.225', 'corridor:0.2006', 'political:0.2002', 'continue:0.1818', 'document:0.1791', 'result:0.165', 'draft:0.1643', 'attack:0.16', 'advisor:0.1575', 'twitter:0.1377', 'friday:0.1331', 'hold:0.132', 'subduction:0.1285', 'round:0.1148', 'block:0.1063', 'make:0.1015', 'intensify:0.0992', 'main:0.0895', 'according:0.0824', 'ani:0.0803', 'time:0.0564', 'specific:0.0496']+titles_keywords+['ukraine:0.4315', 'proposals:0.2963', 'documents:0.2254', 'legal:0.1716', 'form:0.1161']"
+        ]
+    ],
+    "DEU+UKR+26":[
+        [
+            "20220128+../news_crawling/RUS_UKR/p_articles/europesun.com/EU UK planning massive sanctions against Russia media.txt+eventbasecode26+eventcode26+avgtone0.4700934579439252+goldsteinscale0.7+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['ukraine:0.4432', 'nato:0.3781', 'pipeline:0.2772', 'gas:0.2509', 'negotiation:0.2457', 'expand:0.2446', 'invasion:0.231', 'eurostat:0.2304', 'diplomat:0.2176', 'aggressive:0.2022', 'imminent:0.1992', 'concern:0.1972', 'lavrov:0.1926', 'table:0.1901', 'bloc:0.1821', 'sector:0.1806', 'plan:0.1701', 'import:0.1694', 'oppose:0.1654', 'punish:0.1619', 'current:0.1466', 'aspects:0.1415', 'spar:0.137', 'order:0.1359', 'write:0.121', 'term:0.1186', 'step:0.1174', 'long:0.1056', 'olaf:0.0752', 'price:0.0733']+titles_keywords+['sanctions:0.4679', 'russia:0.3427', 'media:0.2739', 'uk:0.2213', 'massive:0.1331']"
+        ]
+    ],
+    "RUS+FRA+26":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/europesun.com/Putin and Macron agree on measures to halt escalation in Ukraine.txt+eventbasecode26+eventcode26+avgtone0.493573264781491+goldsteinscale0.7+nummentions0.02648766328011611+numarticles0.02719361856417694+numsources0.01644736842105263+news_keywords+['ceasefire:0.4491', 'diplomatic:0.4019', 'putin:0.3871', 'nato:0.3774', 'macron:0.3652', 'ukrainians:0.3297', 'escalation:0.3238', 'contact:0.2903', 'meeting:0.2829', 'urgent:0.2633', 'evacuate:0.2498', 'involve:0.2307', 'lavrov:0.2067', 'concern:0.2027', 'order:0.1932', 'monday:0.1896', 'paris:0.1857', 'counterpart:0.18', 'plan:0.1764', 'trilateral:0.1638', 'general:0.1554', 'eastern:0.154', 'resume:0.1536', 'format:0.1426', 'decide:0.1385', 'hold:0.1367', 'draw:0.1348', 'poise:0.1099', 'possible:0.0922', 'agree:0.0893']+titles_keywords+['macron:0.3891', 'ukraine:0.3026', 'escalation:0.2344', 'agree:0.0999', 'measures:0.0695']"
+        ]
+    ]
+}

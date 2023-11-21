@@ -1,0 +1,15 @@
+{
+    "RUS+RUS+73":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/First refugees from eastern Ukraine arrive in Russia.txt+eventbasecode73+eventcode73+avgtone0.4576271186440678+goldsteinscale0.8699999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.5328', 'refugees:0.532', 'rostov:0.4319', 'evacuate:0.3845', 'invade:0.368', 'republics:0.3304', 'border:0.3129', 'region:0.3024', 'arrive:0.2693', 'breakaway:0.2263', 'military:0.2056', 'report:0.1982', 'bus:0.1857', 'ahead:0.1794', 'donbass:0.1727', 'eastern:0.1722', 'neighbor:0.1528', 'action:0.1443', 'plan:0.139', 'pretext:0.1375', 'follow:0.1369', 'authority:0.1355', 'claiming:0.131', 'group:0.1291', 'earlier:0.1235', 'child:0.1096', 'create:0.1065', 'woman:0.0994', 'month:0.09', 'refute:0.0882']+titles_keywords+['refugees:0.4602', 'ukraine:0.3963', 'russia:0.3082', 'arrive:0.2102', 'eastern:0.1024']"
+        ]
+    ],
+    "RUS+UKR+73":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/First train with refugees from Donbas arrives in Russias Volgograd Region.txt+eventbasecode73+eventcode73+avgtone0.5+goldsteinscale0.8699999999999999+nummentions0.020319303338171262+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['refugee:0.5039', 'volgograd:0.4682', 'russia:0.3952', 'arrive:0.265', 'accommodation:0.2564', 'anisputnik:0.2549', 'train:0.2331', 'donbas:0.1927', 'child:0.168', 'people:0.1593', 'temporary:0.1544', 'place:0.1508', 'regional:0.1285', 'organize:0.1013', 'statement:0.1013', 'age:0.1005', 'february:0.099', 'prepare:0.0968', 'baby:0.086', 'health:0.0787', 'centre:0.0734', 'carry:0.0611', 'include:0.0602', 'task:0.0601', 'today:0.0598', 'accordance:0.0495', 'governor:0.0422', 'say:0.0148', 'accord:0.0023', 'set:-0.0049']+titles_keywords+['volgograd:0.4491', 'refugees:0.431', 'train:0.3184', 'donbas:0.2968', 'arrives:0.1678']"
+        ],
+        [
+            "20220627+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/China XLX Announces 2022 1Q Results Production Capacity Entered a New Milestone with Net Profit.txt+eventbasecode73+eventcode73+avgtone0.5098360655737705+goldsteinscale0.8699999999999999+nummentions0.06748911465892599+numarticles0.0681653372008702+numsources0.05921052631578947+news_keywords+['product:0.3514', 'industry:0.3254', 'profitability:0.3246', 'stock:0.3197', 'subsidiaries:0.2847', 'consolidated:0.2834', 'jiangxi:0.2717', 'increasing:0.2605', 'xlx:0.2576', 'output:0.2312', 'coal:0.2189', 'agricultural:0.2155', 'methylfuran:0.2108', 'optimise:0.2079', 'extension:0.1823', 'concern:0.1799', 'exchange:0.1698', 'differentiate:0.1668', 'rmb:0.1596', 'global:0.1491', 'capacity:0.1487', 'accordance:0.1328', 'know:0.1245', 'resource:0.1114', 'propel:0.1107', 'milestone:0.1065', 'year:0.0774', 'respectively:0.073', 'accesswire:0.0554', 'added:0.0509']+titles_keywords+['xlx:0.3617', 'milestone:0.3014', 'production:0.2743', 'china:0.2691', '2022:0.252']"
+        ]
+    ]
+}

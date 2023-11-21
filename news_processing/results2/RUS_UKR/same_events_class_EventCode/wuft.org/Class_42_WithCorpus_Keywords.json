@@ -1,0 +1,16 @@
+{
+    "RUS+TUR+42":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/wuft.org/Ukrainian sailors tried to block a Russian oligarchs yacht from docking in Turkey.txt+eventbasecode42+eventcode42+avgtone0.48936170212765956+goldsteinscale0.595+nummentions0.00362844702467344+numarticles0.0029006526468455403+numsources0.0+news_keywords+['sail:0.4315', 'yacht:0.4249', 'ukrainian:0.416', 'sailor:0.4149', 'russian:0.3721', 'superyachts:0.3668', 'oligarch:0.3607', 'protest:0.3177', 'dock:0.3069', 'turkey:0.3012', 'block:0.2781', 'war:0.2676', 'sanction:0.2425', 'abramovich:0.2368', 'water:0.1958', 'youth:0.1786', 'link:0.1553', 'roman:0.1434', 'free:0.1274', 'team:0.1233', 'try:0.1113', 'week:0.0608', 'met:0.0376']+titles_keywords+['sailors:0.3782', 'ukrainian:0.3621', 'oligarchs:0.2975', 'block:0.2066', 'tried:0.0981']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/wuft.org/Ukraine leader says US panic is playing into Russias strategy.txt+eventbasecode42+eventcode42+avgtone0.4787234042553192+goldsteinscale0.595+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.046052631578947366+news_keywords+['putin:0.4629', 'ukraine:0.4363', 'russian:0.3523', 'vladimir:0.3513', 'russias:0.3508', 'invasion:0.3124', 'biden:0.312', 'panic:0.2808', 'strategy:0.2792', 'president:0.2673', 'speak:0.1751', 'leader:0.169', 'saturday:0.1567', 'joe:0.1541', 'progress:0.1457', 'playing:0.1369', 'say:0.1199', 'impend:0.1163', 'hour:0.0933', 'head:0.0866', 'make:0.0617']+titles_keywords+['panic:0.3657', 'strategy:0.3296', 'russias:0.3059', 'leader:0.1504', 'says:0.1035']"
+        ],
+        [],
+        [
+            "20220517+../news_crawling/RUS_UKR/p_articles/wuft.org/RussiaUkraine war What happened today May 16.txt+eventbasecode42+eventcode42+avgtone0.4785714285714286+goldsteinscale0.595+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['ukraine:0.5088', 'russiaukraine:0.4837', 'russias:0.4184', 'war:0.3922', 'invasion:0.3504', 'happen:0.2917', 'today:0.254', 'roundup:0.2317', 'late:0.1628', 'coverage:0.1591', 'development:0.1318', 'key:0.1296', 'depth:0.1154']+titles_keywords+['russiaukraine:0.4787', 'war:0.4359', 'today:0.3026', 'happened:0.2699', '16:0.1637']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+173":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/northern-times.co.uk/Superyacht owned by Russian businessman detained in London.txt+eventbasecode173+eventcode173+avgtone0.47916666666666663+goldsteinscale0.25+nummentions0.17851959361393324+numarticles0.1791153009427121+numsources0.20065789473684212+news_keywords+['yacht:0.4214', 'ukraine:0.407', 'putins:0.399', 'maritime:0.366', 'london:0.3206', 'wharf:0.3146', 'shapps:0.2495', 'agency:0.2469', 'crony:0.2467', 'investigation:0.2463', 'transport:0.2422', 'nevis:0.2404', 'flag:0.2396', 'phi:0.2356', 'border:0.232', 'detain:0.2069', 'news:0.2015', 'owner:0.1963', 'away:0.172', 'po:0.1593', 'read:0.1549', 'long:0.1525', 'grant:0.1523', 'right:0.151', 'million:0.1431', 'world:0.1423', 'bright:0.1341', 'weve:0.1156', 'wont:0.0987', 'dft:0.0473']+titles_keywords+['superyacht:0.5095', 'russian:0.3374', 'detained:0.2835', 'london:0.1991', 'owned:0.1275']"
+        ]
+    ],
+    "RUS+UKR+173":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/northern-times.co.uk/What the papers say February 13.txt+eventbasecode173+eventcode173+avgtone0.4694323144104803+goldsteinscale0.25+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.019736842105263157+news_keywords+['newspaper:0.454', 'gossip:0.3323', 'february:0.3265', 'diplomatic:0.2913', 'vladimir:0.2831', 'russias:0.2789', 'prediction:0.2555', 'report:0.2519', 'cite:0.2199', 'forthcoming:0.2191', 'sussexs:0.2141', 'confession:0.2062', 'biden:0.2009', 'invasion:0.1993', 'say:0.1924', 'story:0.1905', 'times:0.1831', 'daily:0.1761', 'tension:0.1716', 'pipeline:0.1543', 'mix:0.1477', 'event:0.1464', 'carry:0.1402', 'killer:0.1395', 'false:0.1373', 'sally:0.1345', 'scale:0.1282', 'eu:0.1275', 'mr:0.099', 'loom:0.0755']+titles_keywords+['february:0.5425', 'papers:0.4121', '13:0.3488', 'say:0.1798']"
+        ]
+    ]
+}

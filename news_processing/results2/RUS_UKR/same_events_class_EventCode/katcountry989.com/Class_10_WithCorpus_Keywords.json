@@ -1,0 +1,17 @@
+{
+    "CHE+RUS+10":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/katcountry989.com/Adecco does not expect Ukraine invasion to derail economic upswing.txt+eventbasecode10+eventcode10+avgtone0.4890510948905109+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4373', 'economy:0.3663', 'invasion:0.3465', 'reuters:0.3181', 'disruption:0.3036', 'forecasts:0.2973', 'adecco:0.2438', 'happen:0.2009', 'expect:0.1996', 'global:0.1922', 'operate:0.1822', 'upswing:0.1751', 'robust:0.1685', 'term:0.1663', 'report:0.1641', 'thursday:0.1508', 'derail:0.1477', 'long:0.1455', 'good:0.1452', 'guidance:0.1401', 'sector:0.1396', 'major:0.1035', 'example:0.1033', 'dont:0.0957', 'group:0.0825', 'condition:0.0818', 'add:0.0672', 'thats:0.0645', 'think:0.0597', 'williams:0.0337']+titles_keywords+['adecco:0.2906', 'ukraine:0.2709', 'upswing:0.229', 'economic:0.2191', 'does:0.0773']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/katcountry989.com/Albania renames street in capital Tirana as Free Ukraine.txt+eventbasecode10+eventcode10+avgtone0.5+goldsteinscale0.5+nummentions0.031567489114658925+numarticles0.032269760696156634+numsources0.05921052631578947+news_keywords+['tirana:0.5997', 'albanias:0.5266', 'donika:0.3481', 'ukraines:0.3073', 'capital:0.3016', 'veliaj:0.2803', 'embassy:0.2718', 'nato:0.2669', 'occupy:0.2606', 'nationalist:0.255', 'mayor:0.2328', 'address:0.2273', 'reuters:0.2222', 'kastrioti:0.2113', 'street:0.2094', 'honour:0.2019', 'rename:0.1873', 'erion:0.1817', 'skanderbeg:0.1748', 'introduce:0.1376', 'hero:0.1266', 'public:0.1122', 'ban:0.1083', 'reminder:0.1021', 'tell:0.099', 'live:0.0912', 'resistance:0.0862', 'dangerous:0.0848', 'aircraft:0.0767', 'join:0.0522']+titles_keywords+['tirana:0.512', 'ukraine:0.3476', 'renames:0.2382', 'street:0.2381', 'free:0.21']"
+        ]
+    ],
+    "USA+RUS+10":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/katcountry989.com/Boeing says 141 jet orders in limbo amid war in Ukraine.txt+eventbasecode10+eventcode10+avgtone0.48224043715847+goldsteinscale0.5+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['boeing:0.5134', 'reuters:0.3784', 'backlog:0.3739', 'order:0.3599', 'accounting:0.3091', 'february:0.3089', 'production:0.2929', 'buyers:0.2924', 'war:0.2903', 'unidentified:0.2371', 'fedex:0.2367', 'russian:0.2324', 'data:0.2172', 'expect:0.2147', 'model:0.2114', 'cancel:0.2095', 'swap:0.2074', 'adjustment:0.2033', 'result:0.1919', 'report:0.1837', 'capital:0.183', 'long:0.1777', 'aisle:0.1772', 'limbo:0.1662', 'lessor:0.1482', 'case:0.1457', 'nearly:0.138', 'say:0.1366', 'unlikely:0.1294', 'meaning:0.1171']+titles_keywords+['boeing:0.4181', 'orders:0.3354', 'ukraine:0.2891', '141:0.2461', 'limbo:0.1866']"
+        ]
+    ]
+}

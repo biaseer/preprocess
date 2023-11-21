@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/US sending mediumrange rocket systems to Ukraine says Biden.txt+eventbasecode100+eventcode100+avgtone0.4879294336118849+goldsteinscale0.25+nummentions0.6433236574746009+numarticles0.6435823060188542+numsources0.5296052631578947+news_keywords+['ukraine:0.4609', 'nato:0.4036', 'kremlin:0.3724', 'pentagon:0.3168', 'tactical:0.2869', 'war:0.2823', 'range:0.2809', 'tank:0.2805', 'intercept:0.2676', 'launch:0.2675', 'howitzer:0.2551', 'donbas:0.2438', 'plan:0.2415', 'advance:0.2351', 'separatist:0.2209', 'inventory:0.2182', 'soon:0.2076', 'sievierodonetsk:0.2065', 'president:0.1944', 'tech:0.1926', 'shoot:0.1877', 'long:0.1792', 'assure:0.1719', 'send:0.1709', 'end:0.1631', 'th:0.1494', 'dynamic:0.1426', 'drawdown:0.1396', 'important:0.1264', 'price:0.0918']+titles_keywords+['biden:0.3287', 'ukraine:0.3109', 'rocket:0.2688', 'sending:0.1496', 'says:0.0622']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/Musks combat challenge to Putin prompts mockery in Russia.txt+eventbasecode100+eventcode100+avgtone0.4731861198738171+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['putin:0.6384', 'kremlin:0.5163', 'dmitry:0.5055', 'kadyrov:0.4777', 'russian:0.4374', 'musks:0.3992', 'chechnya:0.3827', 'peskov:0.3796', 'fight:0.3045', 'telegram:0.2547', 'announce:0.2352', 'cite:0.2251', 'ignore:0.2199', 'afraid:0.2105', 'rocket:0.2082', 'transform:0.1988', 'write:0.1981', 'spokesman:0.1973', 'ramzan:0.1959', 'invasion:0.1921', 'mockery:0.1874', 'feminine:0.1657', 'monday:0.1512', 'advantage:0.1483', 'long:0.148', 'ilona:0.1427', 'like:0.1308', 'head:0.127', 'step:0.1243', 'agree:0.1036']+titles_keywords+['putin:0.4471', 'musks:0.4092', 'mockery:0.3775', 'combat:0.3025', 'challenge:0.2659']"
+        ]
+    ]
+}

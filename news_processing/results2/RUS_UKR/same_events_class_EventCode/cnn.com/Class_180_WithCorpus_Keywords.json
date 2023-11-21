@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/cnn.com/US formally declares Russian military has committed war crimes in Ukraine.txt+eventbasecode180+eventcode180+avgtone0.4609375+goldsteinscale0.05+nummentions0.022496371552975326+numarticles0.023205221174764323+numsources0.03289473684210526+news_keywords+['kremlin:0.4325', 'ukrainian:0.3502', 'government:0.3412', 'accusation:0.338', 'war:0.3326', 'accountability:0.3228', 'jurisdiction:0.3148', 'directorate:0.2867', 'report:0.2813', 'crimes:0.2767', 'cite:0.2626', 'civilian:0.2613', 'multilateral:0.2398', 'pursue:0.2333', 'information:0.233', 'determine:0.2189', 'command:0.2184', 'biden:0.2169', 'credible:0.2133', 'conceals:0.2071', 'indiscriminate:0.1767', 'continue:0.1721', 'sherman:0.1686', 'say:0.1677', 'large:0.1264', 'track:0.1114', 'reach:0.1027', 'ultimately:0.087', 'available:0.0733', 'true:0.0585']+titles_keywords+['ukraine:0.3501', 'military:0.2364', 'declares:0.1654', 'crimes:0.1384', 'committed:0.0605']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/cnn.com/April 3 2022 RussiaUkraine news.txt+eventbasecode180+eventcode180+avgtone0.4788352272727273+goldsteinscale0.05+nummentions0.018505079825834544+numarticles0.011965192168237854+numsources0.006578947368421052+news_keywords+['ukraine:0.5063', 'kremlin:0.4462', 'nato:0.3996', 'war:0.337', 'diplomat:0.2422', 'escalate:0.241', 'redeploy:0.236', 'soon:0.2298', 'headline:0.2277', 'agenda:0.2275', 'know:0.2085', 'concerned:0.1998', 'continue:0.1904', 'crony:0.1884', 'telegram:0.1838', 'brace:0.1626', 'bucha:0.159', 'odesa:0.1496', 'general:0.1491', 'town:0.149', 'long:0.145', 'sell:0.1352', 'actual:0.1336', 'separate:0.1289', 'sure:0.1269', 'integration:0.1258', 'normalize:0.1211', 'video:0.1199', 'maternity:0.1083', 'slur:0.1067']+titles_keywords+['2022:0.557', 'russiaukraine:0.4963', 'april:0.3631', 'news:0.3439']"
+        ],
+        [
+            "20220808+../news_crawling/RUS_UKR/p_articles/cnn.com/August 8 2022 RussiaUkraine news.txt+eventbasecode180+eventcode180+avgtone0.4803299492385787+goldsteinscale0.05+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.5007', 'kremlin:0.4562', 'diplomacy:0.4156', 'regime:0.3437', 'iaea:0.3308', 'briefing:0.3081', 'disinformation:0.3055', 'demilitarize:0.2766', 'zelensky:0.2635', 'pentagon:0.2606', 'warn:0.2606', 'radioactivity:0.2389', 'secretary:0.2179', 'yevhenii:0.2134', 'urgency:0.2072', 'publish:0.1965', 'world:0.1879', 'continue:0.1845', 'month:0.1791', 'source:0.1687', 'long:0.1662', 'catastrophic:0.1581', 'function:0.1508', 'ready:0.1469', 'plant:0.1377', 'receive:0.1308', 'exactly:0.1304', 'distinction:0.1183', 'theyll:0.1172', 'drawdown:0.1115']+titles_keywords+['russiaukraine:0.542', '2022:0.5205', 'news:0.3317', 'august:0.3255']"
+        ]
+    ]
+}

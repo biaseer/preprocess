@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+13":[
+        [
+            "20220728+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Russia attacks Kyiv area for the first time in weeks.txt+eventbasecode13+eventcode13+avgtone0.48246674727932287+goldsteinscale0.52+nummentions0.22387518142235124+numarticles0.22443799854967367+numsources0.48355263157894735+news_keywords+['kyiv:0.5734', 'ukraines:0.4761', 'rus:0.4749', 'kremlin:0.4483', 'counterattack:0.2758', 'liberate:0.2552', 'kill:0.2551', 'statehood:0.255', 'military:0.2512', 'poltava:0.2428', 'terror:0.2314', 'commemoration:0.2313', 'emergency:0.2301', 'remind:0.2233', 'underway:0.2086', 'report:0.2074', 'organize:0.2058', 'telegram:0.1771', 'day:0.1694', 'say:0.1609', 'kilometer:0.1597', 'bridge:0.1597', 'bucha:0.1586', 'residential:0.157', 'understand:0.1526', 'andriy:0.1494', 'plant:0.1355', 'long:0.1291', 'focus:0.1195', 'photoevgeniy:0.0879']+titles_keywords+['kyiv:0.5433', 'russia:0.275', 'attacks:0.2399', 'weeks:0.1078', 'area:0.0625']"
+        ]
+    ],
+    "UKR+BLR+13":[
+        [
+            "20210730+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Belarus leader ready to invite Russian troops if necessary.txt+eventbasecode13+eventcode13+avgtone0.4775204359673025+goldsteinscale0.52+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['belarus:0.5145', 'lukashenkos:0.514', 'kremlin:0.4412', 'dmitry:0.3774', 'authoritarian:0.3296', 'journalists:0.2787', 'troop:0.2664', 'threaten:0.2443', 'border:0.2219', 'expand:0.2172', 'valery:0.2163', 'security:0.2102', 'prepare:0.207', 'trigger:0.2031', 'belsat:0.201', 'orchestrate:0.1697', 'urgent:0.1651', 'sentence:0.1601', 'hesitate:0.1554', 'petrochemistry:0.141', 'include:0.136', 'turn:0.1358', 'vote:0.1352', 'belta:0.1261', 'sector:0.1091', 'apartment:0.1082', 'wont:0.1067', 'august:0.1063', 'export:0.0957', 'possible:0.0903']+titles_keywords+['belarus:0.4005', 'troops:0.2283', 'invite:0.1453', 'leader:0.1223', 'necessary:0.0153']"
+        ]
+    ]
+}

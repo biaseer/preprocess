@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+1124":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/ndtv.com/Russia Says Saboteurs Crossed Border We Didnt Rebuts Ukraine.txt+eventbasecode112+eventcode1124+avgtone0.4444444444444445+goldsteinscale0.4+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.003289473684210526+news_keywords+['saboteurs:0.4843', 'kremlin:0.4476', 'ukraine:0.4285', 'headline:0.3045', 'border:0.2921', 'attack:0.2673', 'fake:0.264', 'syndicate:0.2561', 'fsb:0.2289', 'feed:0.2268', 'security:0.2265', 'language:0.2089', 'factory:0.1858', 'crossed:0.1791', 'rebuts:0.1783', 'stage:0.1689', 'issue:0.1607', 'tense:0.1566', 'monday:0.1549', 'dmytro:0.1543', 'shell:0.1436', 'stop:0.138', 'allegedly:0.1305', 'ndtv:0.1274', 'pave:0.1107', 'says:0.0951', 'way:0.0816', 'send:0.0652', 'didnt:0.0587', 'apcs:0.0578']+titles_keywords+['saboteurs:0.465', 'ukraine:0.43', 'rebuts:0.2654', 'crossed:0.1259', 'didnt:0.1072']"
+        ]
+    ],
+    "UKR+RUS+1124":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/ndtv.com/Latest Ukraine Satellite Pics Show Destroyed Homes Cars On Fire.txt+eventbasecode112+eventcode1124+avgtone0.4745762711864407+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5098', 'putin:0.3767', 'airstrikes:0.3676', 'zdvyzhivka:0.2642', 'operation:0.2287', 'conflict:0.2242', 'economy:0.224', 'satellite:0.2195', 'recover:0.2046', 'revetment:0.2043', 'commit:0.1979', 'hear:0.1966', 'troop:0.1911', 'imagery:0.1829', 'home:0.1796', 'western:0.1752', 'warning:0.1687', 'want:0.1665', 'reverse:0.1652', 'blast:0.1426', 'fourth:0.1398', 'saturday:0.1323', 'building:0.1303', 'new:0.121', 'magnitude:0.1186', 'largely:0.1183', 'fierce:0.1129', 'pics:0.1107', 'pro:0.1006', 'aim:0.0959']+titles_keywords+['ukraine:0.4534', 'satellite:0.3514', 'homes:0.2588', 'destroyed:0.2223', 'pics:0.2058']"
+        ],
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/ndtv.com/Satellite Pics Show 45Foot Trench At Ukraine Church Site Of Mass Grave.txt+eventbasecode112+eventcode1124+avgtone0.46787148594377514+goldsteinscale0.4+nummentions0.3777213352685051+numarticles0.37744742567077594+numsources0.5328947368421053+news_keywords+['kyiv:0.4762', 'trench:0.3919', 'massacre:0.367', 'grave:0.3491', 'excavation:0.3346', 'troop:0.2949', 'pyervozvannoho:0.2912', 'journalist:0.209', 'church:0.2053', 'area:0.1798', 'mass:0.177', 'coverage:0.1709', 'saturday:0.1642', 'allegation:0.1631', 'km:0.1613', 'southwestern:0.1562', 'foot:0.152', 'lie:0.149', 'bucha:0.1307', 'near:0.1213', 'andrew:0.1169', 'disseminate:0.116', 'pics:0.1098', 'syndicate:0.098', 'st:0.0937', 'imagery:0.0856', 'withdraw:0.0856', 'long:0.0684', 'ndtv:0.0654', 'poke:0.0553']+titles_keywords+['trench:0.4842', 'ukraine:0.3452', '45foot:0.2236', 'site:0.1763', 'pics:0.171']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/US journalist shot dead another injured in Kyiv suburb of Irpin.txt+eventbasecode194+eventcode194+avgtone0.47067448680351903+goldsteinscale0.0+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.013157894736842105+news_keywords+['kyiv:0.5058', 'ceasefire:0.4637', 'correspondent:0.366', 'terrorist:0.3506', 'nato:0.338', 'invade:0.3125', 'unhcr:0.2706', 'expand:0.2428', 'reznikov:0.2372', 'denunciation:0.2344', 'report:0.2134', 'die:0.2106', 'strategic:0.2087', 'fled:0.2067', 'stop:0.201', 'safe:0.1876', 'twitter:0.1867', 'severodonetsk:0.1708', 'like:0.1675', 'shortage:0.165', 'kilometer:0.1621', 'night:0.1583', 'person:0.1553', 'electricity:0.1422', 'pagenext:0.14', 'state:0.1331', 'agree:0.1252', 'heartbreaking:0.1236', 'feb:0.1219', 'significant:0.1155']+titles_keywords+['kyiv:0.378', 'journalist:0.2975', 'shot:0.2741', 'suburb:0.1251', 'irpin:0.12']"
+        ]
+    ],
+    "UKR+RUS+194":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/US to send longerrange rockets to Ukraine in latest aid package.txt+eventbasecode194+eventcode194+avgtone0.4954068241469816+goldsteinscale0.0+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['ukraine:0.4492', 'nato:0.4253', 'kremlin:0.3572', 'artillery:0.3003', 'deploy:0.2709', 'diplomatic:0.2703', 'rocket:0.2559', 'zelensky:0.2353', 'provoke:0.2271', 'direct:0.2203', 'news:0.2193', 'enemy:0.2114', 'order:0.2101', 'president:0.2077', 'advance:0.2025', 'longerrange:0.1982', 'soon:0.1953', 'indication:0.1739', 'promise:0.1711', 'help:0.1613', 'make:0.1588', 'munition:0.1547', 'approve:0.1497', 'centerpiece:0.1447', 'himars:0.138', 'page:0.1345', 'th:0.131', 'precisely:0.1271', 'track:0.126', 'spare:0.1176']+titles_keywords+['ukraine:0.3346', 'longerrange:0.2922', 'rockets:0.28', 'send:0.2632', 'aid:0.2376']"
+        ]
+    ]
+}

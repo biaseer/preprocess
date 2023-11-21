@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+20":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/torontotelegraph.com/Canadian PM calls for Russias removal from SWIFT payment system.txt+eventbasecode20+eventcode20+avgtone0.48828125+goldsteinscale0.65+nummentions0.02467343976777939+numarticles0.024655547498187092+numsources0.01644736842105263+news_keywords+['russia:0.4516', 'putin:0.4346', 'trudeau:0.3711', 'sanction:0.3426', 'swift:0.3274', 'ottawa:0.2905', 'lavrov:0.2661', 'transaction:0.2559', 'removal:0.2405', 'government:0.2153', 'financial:0.198', 'international:0.1844', 'xinhua:0.1779', 'donation:0.1706', 'announce:0.1625', 'directly:0.1618', 'use:0.1488', 'friday:0.1432', 'press:0.1411', 'extend:0.1406', 'pm:0.129', 'prime:0.121', 'circle:0.1165', 'feb:0.1145', 'red:0.1', 'prepare:0.0925', 'maximum:0.0861', 'chief:0.0793', 'join:0.0628', 'advisers:0.0613']+titles_keywords+['swift:0.3524', 'russias:0.3431', 'canadian:0.2545', 'payment:0.1681', 'calls:0.0523']"
+        ]
+    ],
+    "EUR+UKR+20":[
+        [
+            "20220613+../news_crawling/RUS_UKR/p_articles/torontotelegraph.com/Zelenskyy Expects Increase in Russian Hostility Ahead of EU Vote.txt+eventbasecode20+eventcode20+avgtone0.4817275747508305+goldsteinscale0.65+nummentions0.021407837445573296+numarticles0.022117476432197244+numsources0.02631578947368421+news_keywords+['kyiv:0.5019', 'nato:0.3852', 'zelenskyy:0.3837', 'russians:0.3801', 'evacuation:0.2848', 'sievierodonetsk:0.2554', 'boris:0.2487', 'prepare:0.2419', 'victory:0.2294', 'long:0.2264', 'news:0.2252', 'logistics:0.2143', 'thursday:0.197', 'union:0.1964', 'tank:0.195', 'continue:0.1913', 'fighting:0.1851', 'analysts:0.1848', 'kilometer:0.1831', 'appear:0.1722', 'increase:0.1715', 'note:0.1611', 'lie:0.1528', 'candidate:0.1387', 'general:0.1374', 'mood:0.134', 'receive:0.1335', 'focus:0.1275', 'make:0.1243', 'prime:0.0928']+titles_keywords+['zelenskyy:0.5185', 'russian:0.3397', 'hostility:0.3027', 'eu:0.1756', 'increase:0.1622']"
+        ]
+    ]
+}

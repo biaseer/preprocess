@@ -1,0 +1,15 @@
+{
+    "RUS+TUR+46":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/newyorktelegraph.com/Latest Developments in Ukraine March 29.txt+eventbasecode46+eventcode46+avgtone0.48788927335640137+goldsteinscale0.85+nummentions0.024310595065312045+numarticles0.025018129079042786+numsources0.03289473684210526+news_keywords+['ukraine:0.5209', 'istanbul:0.3221', 'negotiation:0.3199', 'peace:0.3093', 'hostage:0.248', 'occupy:0.2226', 'developments:0.2094', 'attack:0.1884', 'report:0.172', 'know:0.168', 'monday:0.1579', 'attend:0.1574', 'office:0.1568', 'newspaper:0.1517', 'president:0.149', 'poison:0.1472', 'summary:0.136', 'begin:0.1339', 'representative:0.1339', 'shoot:0.1295', 'suffer:0.1291', 'month:0.125', 'cessation:0.1062', 'repel:0.1047', 'confirm:0.1028', 'story:0.1013', 'civilian:0.0995', 'accord:0.0921', 'round:0.0888', 'voa:0.0792']+titles_keywords+['ukraine:0.5428', 'developments:0.3265', 'march:0.3167', 'latest:0.2446', '29:0.1285']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/newyorktelegraph.com/Russia puts UNSC Ukraine Resolution on hold calls for emergency meeting on US Biolabs.txt+eventbasecode46+eventcode46+avgtone0.4808510638297872+goldsteinscale0.85+nummentions0.018867924528301886+numarticles0.019216823785351705+numsources0.029605263157894735+news_keywords+['ukraine:0.5005', 'ceasefire:0.4629', 'humanitarian:0.4418', 'evacuation:0.3946', 'unsc:0.3309', 'military:0.2571', 'nations:0.2556', 'geneva:0.2522', 'report:0.2294', 'sputnik:0.2193', 'meeting:0.2145', 'international:0.2087', 'cite:0.206', 'march:0.171', 'law:0.1639', 'vote:0.1619', 'safe:0.159', 'instead:0.1494', 'lack:0.1487', 'biolabs:0.1433', 'condemning:0.1404', 'text:0.1364', 'request:0.134', 'decide:0.1334', 'tomorrow:0.1308', 'hold:0.129', 'resolution:0.1219', 'discus:0.1215', 'ani:0.0901', 'course:0.0776']+titles_keywords+['ukraine:0.3573', 'unsc:0.2649', 'biolabs:0.2226', 'meeting:0.2077', 'hold:0.2012']"
+        ],
+        [
+            "20220617+../news_crawling/RUS_UKR/p_articles/newyorktelegraph.com/India calls on EU to fight against terrorism resolve Ukraine conflict.txt+eventbasecode46+eventcode46+avgtone0.4725400457665904+goldsteinscale0.85+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['multilateralism:0.4361', 'ukraine:0.4177', 'terrorism:0.3197', 'diplomatic:0.3109', 'conflict:0.2867', 'federation:0.251', 'covid:0.2088', 'reform:0.2', 'develop:0.1999', 'shortage:0.1958', 'global:0.1824', 'important:0.18', 'sanction:0.1768', 'unsc:0.1594', 'speak:0.1586', 'multipolar:0.1525', 'continue:0.1485', 'ravindra:0.135', 'linkages:0.1285', 'implication:0.1279', 'enhance:0.1267', 'order:0.1266', 'ani:0.1144', 'envoy:0.1088', 'include:0.1083', 'step:0.0957', 'ensure:0.095', 'balanced:0.0839', 'like:0.0766', 'friday:0.0724']+titles_keywords+['ukraine:0.3673', 'terrorism:0.3606', 'fight:0.212', 'resolve:0.2053', 'calls:0.0882']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "POL+UKR+173":[
+        [
+            "20211118+../news_crawling/RUS_UKR/p_articles/columbian.com/Ransomware persists even as highprofile attacks have slowed.txt+eventbasecode173+eventcode173+avgtone0.4620355411954765+goldsteinscale0.25+nummentions0.34107402031930334+numarticles0.34155184916606235+numsources0.375+news_keywords+['ransomware:0.5938', 'cybersecurity:0.459', 'russias:0.3035', 'currency:0.2918', 'warn:0.2695', 'trend:0.2583', 'indicted:0.2527', 'severity:0.2446', 'know:0.2419', 'sector:0.2411', 'email:0.2326', 'investigate:0.2281', 'washington:0.2227', 'data:0.2199', 'invade:0.2191', 'june:0.2154', 'shortage:0.2154', 'soon:0.2071', 'command:0.2064', 'updates:0.1959', 'complicating:0.1908', 'gang:0.1891', 'originate:0.1887', 'lock:0.186', 'quote:0.1668', 'nakasone:0.1623', 'theyve:0.1583', 'fully:0.1479', 'longer:0.1459', 'highprofile:0.0751']+titles_keywords+['ransomware:0.6113', 'highprofile:0.3078', 'persists:0.2015', 'attacks:0.1639', 'slowed:0.1161']"
+        ]
+    ],
+    "RUS+UKR+173":[
+        [
+            "20211202+../news_crawling/RUS_UKR/p_articles/columbian.com/US warns Russia as Kremlin talks about war threat in Ukraine.txt+eventbasecode173+eventcode173+avgtone0.47383720930232565+goldsteinscale0.25+nummentions0.13243831640058054+numarticles0.13306744017403915+numsources0.14473684210526316+news_keywords+['natos:0.4695', 'putin:0.4114', 'kyiv:0.3659', 'diplomacy:0.3638', 'destabilization:0.3568', 'cybersecurity:0.2728', 'strategic:0.2706', 'attack:0.257', 'annex:0.2563', 'escalate:0.2488', 'eastward:0.2474', 'coup:0.2333', 'worry:0.2135', 'skirmish:0.2079', 'trigger:0.2001', 'prepared:0.1731', 'assertion:0.169', 'turn:0.1633', 'secretary:0.1426', 'term:0.1423', 'thursday:0.142', 'pledge:0.131', 'follow:0.1292', 'say:0.1178', 'long:0.1155', 'end:0.1093', 'fsb:0.1062', 'include:0.1', 'prevent:0.0987', 'doesnt:0.0379']+titles_keywords+['kremlin:0.4361', 'ukraine:0.3704', 'warns:0.3061', 'war:0.2714', 'threat:0.2645']"
+        ]
+    ]
+}

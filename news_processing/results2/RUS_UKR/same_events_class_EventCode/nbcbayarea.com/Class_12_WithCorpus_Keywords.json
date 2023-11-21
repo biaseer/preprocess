@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/nbcbayarea.com/Local Experts Weigh in on RussiaUkraine Crisis.txt+eventbasecode12+eventcode12+avgtone0.46631205673758863+goldsteinscale0.48+nummentions0.013425253991291727+numarticles0.014140681653372008+numsources0.039473684210526314+news_keywords+['ukraine:0.5234', 'russiaukraine:0.4413', 'vladimir:0.3682', 'invasion:0.3445', 'peacekeeping:0.3234', 'border:0.225', 'independence:0.2083', 'breakaway:0.2076', 'crisis:0.2052', 'bilogorskiy:0.186', 'worry:0.1609', 'economic:0.1457', 'president:0.1389', 'organize:0.1326', 'begin:0.1266', 'eastern:0.1263', 'withdraw:0.1256', 'implication:0.1216', 'help:0.1188', 'area:0.1082', 'expert:0.1072', 'say:0.1071', 'second:0.1037', 'mix:0.1028', 'huge:0.088', 'weekend:0.0703', 'way:0.0684', 'focus:0.0631', 'thousand:0.0434', 'appal:0.0357']+titles_keywords+['russiaukraine:0.5618', 'crisis:0.3047', 'experts:0.2344', 'local:0.1299', 'weigh:-0.007']"
+        ],
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/nbcbayarea.com/Moscows Claim About Firing Hypersonic Missiles Could Be More Hype Experts Say.txt+eventbasecode12+eventcode12+avgtone0.4758064516129032+goldsteinscale0.48+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.013157894736842105+news_keywords+['missiles:0.4536', 'hypersonic:0.4112', 'moscows:0.4101', 'kyiv:0.4029', 'vladimir:0.3881', 'putin:0.3791', 'ukrainians:0.3622', 'russian:0.354', 'destroy:0.2527', 'pentagon:0.2445', 'propaganda:0.2422', 'firing:0.2195', 'fly:0.2115', 'orbit:0.1908', 'news:0.1847', 'nbc:0.1793', 'hit:0.171', 'hype:0.1577', 'outgunned:0.1263', 'dramatic:0.1252', 'sound:0.1134', 'confirm:0.1115', 'monday:0.0997', 'say:0.0906', 'far:0.0902', 'true:0.0792', 'potentially:0.0779', 'reason:0.0661', 'pro:0.0508', 'scratcher:-0.0061']+titles_keywords+['hypersonic:0.4292', 'missiles:0.4225', 'moscows:0.3485', 'hype:0.2243', 'say:0.1051']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/nbcbayarea.com/Denied Easy Victory Russia Presses Reduced Goals in Ukraine.txt+eventbasecode12+eventcode12+avgtone0.4686706181202371+goldsteinscale0.48+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.029605263157894735+news_keywords+['crimea:0.4532', 'putin:0.3946', 'russias:0.3743', 'nato:0.3488', 'war:0.3175', 'strategic:0.286', 'demilitarize:0.2569', 'orthodox:0.2507', 'tank:0.2267', 'escalation:0.224', 'separatist:0.2179', 'long:0.1964', 'know:0.1951', 'continue:0.1861', 'objective:0.1843', 'combine:0.1739', 'description:0.1665', 'revert:0.1643', 'soon:0.1501', 'sell:0.1484', 'dead:0.1446', 'anonymity:0.1402', 'largely:0.1217', 'track:0.1197', 'pro:0.1197', 'child:0.1152', 'cna:0.0801', 'install:0.0581', 'welcome:0.0414', 'unless:0.0293']+titles_keywords+['ukraine:0.4086', 'goals:0.3954', 'denied:0.2305', 'easy:0.2236', 'reduced:0.2163']"
+        ]
+    ]
+}

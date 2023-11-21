@@ -1,0 +1,12 @@
+{
+    "RUS+TUR+43":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/britainnews.net/White Helmets group shares tips with Ukrainians media.txt+eventbasecode43+eventcode43+avgtone0.484775641025641+goldsteinscale0.64+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.029605263157894735+news_keywords+['ukraine:0.4446', 'nato:0.4339', 'propaganda:0.3911', 'damascus:0.3691', 'genocide:0.344', 'troop:0.3414', 'terrorist:0.3379', 'unprovoked:0.2828', 'government:0.2769', 'diplomatic:0.2753', 'territory:0.2699', 'helmets:0.2618', 'bloc:0.2416', 'report:0.234', 'evidence:0.2309', 'term:0.2036', 'help:0.1978', 'flee:0.1883', 'agreement:0.1842', 'fight:0.167', 'donbass:0.1619', 'say:0.1604', 'translated:0.1572', 'implement:0.1567', 'overarch:0.1564', 'white:0.1532', 'camera:0.1482', 'surge:0.1463', 'include:0.1298', 'early:0.0849']+titles_keywords+['ukrainians:0.4085', 'helmets:0.3815', 'white:0.2455', 'media:0.2147', 'tips:0.2046']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/britainnews.net/Russian will sell Nobel Prize donate money to Ukrainian refugees.txt+eventbasecode43+eventcode43+avgtone0.49720670391061444+goldsteinscale0.64+nummentions0.261611030478955+numarticles0.2621464829586657+numsources0.29605263157894735+news_keywords+['nobel:0.4786', 'refugees:0.4249', 'ukrainians:0.414', 'moscow:0.4029', 'humanitarian:0.3903', 'kremlin:0.3829', 'dmitry:0.3825', 'muratov:0.3518', 'reuters:0.3164', 'prize:0.3088', 'medal:0.2856', 'peace:0.2537', 'fund:0.2196', 'money:0.2183', 'thousand:0.2122', 'announce:0.2103', 'philippines:0.2067', 'report:0.1994', 'protest:0.1922', 'world:0.1916', 'fled:0.1736', 'sell:0.1712', 'famous:0.1628', 'ressa:0.153', 'respond:0.1417', 'paper:0.1325', 'detain:0.1165', 'decide:0.0809', 'house:0.0674', 'corridor:0.0561']+titles_keywords+['russian:0.4205', 'nobel:0.4113', 'donate:0.4042', 'refugees:0.3584', 'sell:0.2757']"
+        ]
+    ]
+}

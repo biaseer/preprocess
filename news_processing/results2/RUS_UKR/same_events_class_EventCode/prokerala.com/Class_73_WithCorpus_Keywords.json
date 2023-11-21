@@ -1,0 +1,15 @@
+{
+    "BEL+RUS+73":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/prokerala.com/EU to provide more humanitarian aid to Ukraine Moldova By IANS Published on Mon Apr.txt+eventbasecode73+eventcode73+avgtone0.49107142857142855+goldsteinscale0.8699999999999999+nummentions0.01632801161103048+numarticles0.01704133430021755+numsources0.019736842105263157+news_keywords+['ukraine:0.4947', 'humanitarian:0.3805', 'eu:0.3734', 'aid:0.3391', 'refugee:0.3289', 'euros:0.2688', 'infrastructure:0.201', 'conflict:0.1941', 'need:0.1712', 'union:0.1631', 'remain:0.1584', 'million:0.1378', 'mon:0.1326', 'april:0.128', 'ist:0.1251', 'safe:0.1235', 'report:0.1221', 'ians:0.1197', 'destroy:0.1188', 'missile:0.1167', 'hygiene:0.115', 'news:0.1121', 'address:0.1104', 'people:0.104', 'allocate:0.0997', 'accord:0.0975', 'affect:0.0853', 'base:0.0741', 'start:0.0453', 'extremely:0.0406']+titles_keywords+['moldova:0.588', 'humanitarian:0.3458', 'ians:0.2539', '2022:0.1665', 'apr:0.1553']"
+        ]
+    ],
+    "RUS+UKR+73":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/prokerala.com/Ukrainians being deported to Siberia after confiscating their phones and documents By IANS Published on.txt+eventbasecode73+eventcode73+avgtone0.45724907063197023+goldsteinscale0.8699999999999999+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['moscow:0.5326', 'siberia:0.5273', 'ukrainians:0.4813', 'refugee:0.4585', 'mikhail:0.4067', 'deport:0.3458', 'troop:0.2544', 'report:0.2524', 'regime:0.2436', 'confiscate:0.2427', 'bombardment:0.2092', 'forcibly:0.191', 'transportation:0.1874', 'emergency:0.1857', 'trap:0.1801', 'ist:0.1729', 'horrific:0.1693', 'stay:0.1658', 'story:0.1401', 'process:0.1276', 'phone:0.127', 'centre:0.1217', 'familiar:0.1211', 'vadym:0.1191', 'far:0.1153', 'mariupol:0.1105', 'footage:0.1048', 'thousand:0.1025', 'today:0.0459', 'thank:0.0402']+titles_keywords+['ukrainians:0.4899', 'siberia:0.4842', 'deported:0.4465', 'confiscating:0.3384', 'phones:0.247']"
+        ],
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/prokerala.com/Russia charges Ukraine with not opening humanitarian corridors By IANS Published on Fri Apr 15.txt+eventbasecode73+eventcode73+avgtone0.49185336048879835+goldsteinscale0.8699999999999999+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4553', 'ceasefire:0.3928', 'evacuate:0.3795', 'humanitarian:0.3339', 'corridor:0.3297', 'nationalist:0.284', 'transport:0.2781', 'deploy:0.2449', 'territory:0.238', 'hostage:0.2307', 'cross:0.2037', 'assistance:0.2021', 'east:0.1906', 'open:0.1815', 'nautical:0.1805', 'continue:0.1735', 'law:0.166', 'deliver:0.1573', 'organisation:0.1567', 'dangerous:0.1426', 'furthermore:0.1399', 'reach:0.1325', 'long:0.1273', 'blocked:0.1266', 'ist:0.1213', 'basic:0.1161', 'population:0.1052', 'ready:0.0975', 'fully:0.0951', 'possible:0.0616']+titles_keywords+['ukraine:0.5027', 'corridors:0.3133', 'humanitarian:0.3007', 'ians:0.1891', 'fri:0.1229']"
+        ]
+    ]
+}

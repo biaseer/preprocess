@@ -1,0 +1,17 @@
+{
+    "BGR+RUS+100":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/ghanaiantimes.com.gh/NATO to boost forces in Europe as Ukraine war rages.txt+eventbasecode100+eventcode100+avgtone0.4747340425531915+goldsteinscale0.25+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['nato:0.5876', 'kremlin:0.3785', 'kyiv:0.3412', 'invade:0.3345', 'treaty:0.3232', 'euronews:0.3176', 'troop:0.2861', 'ally:0.2501', 'expand:0.247', 'deterrence:0.2399', 'lavrov:0.2341', 'easternmost:0.2319', 'escalate:0.2231', 'separatist:0.2231', 'conflict:0.2089', 'warn:0.1907', 'provide:0.1879', 'union:0.1861', 'pledge:0.183', 'instead:0.1819', 'power:0.18', 'president:0.1662', 'subsequent:0.1554', 'friday:0.1519', 'withdraw:0.146', 'new:0.1212', 'nonsense:0.1174', 'double:0.0947', 'similar:0.0921', 'install:0.0755']+titles_keywords+['nato:0.5123', 'ukraine:0.3552', 'war:0.2118', 'boost:0.1714', 'forces:0.1447']"
+        ]
+    ],
+    "EUR+RUS+100":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/ghanaiantimes.com.gh/Putins daughters targeted by Western sanctions.txt+eventbasecode100+eventcode100+avgtone0.4618421052631579+goldsteinscale0.25+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.006578947368421052+news_keywords+['putin:0.5185', 'ukraines:0.4601', 'moscow:0.397', 'embargo:0.3778', 'oligarch:0.3431', 'coal:0.3141', 'war:0.2952', 'diplomat:0.2495', 'euro:0.2352', 'concern:0.2329', 'finance:0.2307', 'union:0.1875', 'sector:0.1825', 'feed:0.177', 'volodymyr:0.1715', 'import:0.1703', 'argue:0.1663', 'bucha:0.157', 'bbc:0.1407', 'increase:0.1379', 'horrific:0.1301', 'announcedfurther:0.1292', 'assistance:0.1292', 'image:0.1263', 'wednesday:0.1129', 'directly:0.1036', 'sharp:0.1022', 'emerge:0.0997', 'include:0.0983', 'measure:0.0966']+titles_keywords+['putins:0.5229', 'sanctions:0.4938', 'daughters:0.3506', 'targeted:0.1992', 'western:0.092']"
+        ]
+    ],
+    "RUS+AFR+100":[
+        [
+            "20220517+../news_crawling/RUS_UKR/p_articles/ghanaiantimes.com.gh/NDDI predicts food shortage hunger in Q4 20222023.txt+eventbasecode100+eventcode100+avgtone0.47745098039215683+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['agriculture:0.4965', 'shortage:0.3457', 'wto:0.3455', 'ghana:0.3385', 'hunger:0.3375', 'war:0.2866', 'subsidise:0.2724', 'crisis:0.2666', 'fund:0.2503', 'predict:0.2444', 'ingredient:0.2107', 'covid:0.2095', 'executive:0.2089', 'mustapha:0.1999', 'implication:0.1968', 'know:0.1906', 'affected:0.1828', 'democratic:0.1794', 'cite:0.178', 'explain:0.1741', 'advantage:0.1708', 'snap:0.1611', 'chain:0.1496', 'nddi:0.1493', 'trade:0.1461', 'mitigate:0.1442', 'collate:0.1372', 'woman:0.1217', 'entire:0.1045', 'exporter:0.0873']+titles_keywords+['hunger:0.414', 'nddi:0.4109', 'shortage:0.3965', 'q4:0.2714', '20222023:0.2195']"
+        ]
+    ]
+}

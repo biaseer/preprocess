@@ -1,0 +1,27 @@
+{
+    "EST+RUS+100":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/webindia123.com/Blinken Estonian Foreign Minister call on Russia to deescalate in Ukraine.txt+eventbasecode100+eventcode100+avgtone0.48724489795918374+goldsteinscale0.25+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['diplomacy:0.4434', 'nato:0.4114', 'ukrainian:0.3491', 'invade:0.3436', 'threat:0.3351', 'escalate:0.2864', 'border:0.2346', 'indicate:0.2227', 'blinken:0.22', 'pretext:0.2135', 'unite:0.208', 'prepare:0.2055', 'unfold:0.2013', 'speak:0.1884', 'event:0.1785', 'precisely:0.1766', 'table:0.1755', 'nonsense:0.174', 'issue:0.1674', 'fact:0.1447', 'world:0.1444', 'state:0.1429', 'month:0.1316', 'validated:0.1288', 'minister:0.1249', 'blame:0.1243', 'ani:0.1236', 'today:0.0943', 'manufacture:0.0929', 'hangar:0.0638']+titles_keywords+['ukraine:0.3476', 'blinken:0.3083', 'estonian:0.2871', 'deescalate:0.1982', 'minister:0.0733']"
+        ]
+    ],
+    "EUR+UKR+100":[
+        [
+            "20220124+../news_crawling/RUS_UKR/p_articles/webindia123.com/Majority of 8500 US troops on high alert over Ukraine crisis Pentagon.txt+eventbasecode100+eventcode100+avgtone0.4921630094043888+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['nato:0.5061', 'troop:0.3386', 'briefing:0.3318', 'diplomatic:0.3218', 'pentagon:0.3114', 'moscow:0.3097', 'invasion:0.2745', 'escalate:0.2608', 'mission:0.2409', 'alert:0.2284', 'reaffirmation:0.2128', 'concern:0.2101', 'remain:0.2003', 'flank:0.1959', 'general:0.1945', 'order:0.1823', 'additional:0.169', 'prepare:0.166', 'intra:0.1621', 'eastern:0.1516', 'near:0.1283', 'united:0.1269', 'say:0.1241', 'majority:0.1198', 'current:0.1143', 'send:0.1136', 'guterres:0.1124', 'possibility:0.1082', 'month:0.0932', 'absolutely:0.081']+titles_keywords+['pentagon:0.3632', 'troops:0.356', 'ukraine:0.2841', '8500:0.1688', 'crisis:0.1524']"
+        ]
+    ],
+    "RUS+RUS+100":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/webindia123.com/Ukrainian lawmakers vote to increase defense expenditures to USD 13 bn in 2022.txt+eventbasecode100+eventcode100+avgtone0.49390243902439024+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.434', 'putin:0.4323', 'expenditures:0.3606', 'hryvnias:0.2959', 'mobilization:0.269', 'independence:0.2588', 'upgrade:0.2541', 'military:0.2481', 'republic:0.2092', 'lawmaker:0.2085', 'read:0.1907', 'vote:0.1799', 'escalate:0.1788', 'donbas:0.1737', 'reporting:0.169', 'dpr:0.1645', 'usd:0.1607', 'anisputnik:0.1461', 'materiel:0.1418', 'bn:0.1355', 'plan:0.13', 'weapon:0.1251', 'order:0.1246', 'million:0.1181', 'sign:0.0995', 'situation:0.0907', 'begin:0.0824', 'suggests:0.0783', 'woman:0.0775', 'week:0.0372']+titles_keywords+['ukrainian:0.323', 'increase:0.2651', 'expenditures:0.2062', '2022:0.1778', 'defense:0.1178']"
+        ]
+    ],
+    "RUS+UKR+100":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/webindia123.com/US allies discuss whether Blinken will meet with Lavrov as planned on Feb 24.txt+eventbasecode100+eventcode100+avgtone0.5027624309392266+goldsteinscale0.25+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.019736842105263157+news_keywords+['putin:0.4401', 'meeting:0.3564', 'announce:0.3137', 'lavrov:0.3132', 'ahead:0.2954', 'donetsk:0.2741', 'sputnik:0.2575', 'independence:0.2558', 'union:0.2541', 'decree:0.2489', 'plan:0.2251', 'day:0.2145', 'department:0.2144', 'european:0.2006', 'long:0.1978', 'say:0.1955', 'republic:0.1948', 'partner:0.1943', 'blinken:0.1929', 'discuss:0.1877', 'state:0.1847', 'moment:0.1802', 'change:0.1766', 'decision:0.1719', 'feb:0.1697', 'significant:0.1473', 'finer:0.1472', 'sign:0.1414', 'possible:0.1316', 'overdue:0.1086']+titles_keywords+['blinken:0.348', 'lavrov:0.3108', 'meet:0.2962', 'allies:0.2721', 'feb:0.1048']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20211130+../news_crawling/RUS_UKR/p_articles/webindia123.com/NATO Foreign Ministers say Russia should stop escalation on border with Ukraine Chief.txt+eventbasecode100+eventcode100+avgtone0.481651376146789+goldsteinscale0.25+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['nato:0.4557', 'ukraine:0.3747', 'diplomatic:0.3078', 'russia:0.306', 'ukrainian:0.3018', 'escalation:0.2852', 'border:0.2415', 'military:0.187', 'dialogue:0.183', 'stop:0.1659', 'cut:0.147', 'say:0.1368', 'anisputnik:0.1348', 'decision:0.1316', 'decide:0.1253', 'note:0.1179', 'stoltenberg:0.1157', 'chief:0.0971', 'activity:0.0904', 'preserve:0.0719', 'ministers:0.0717', 'foreign:0.0679', 'recently:0.0671', 'tie:0.067', 'importance:0.0557', 'believe:0.0506', 'reverse:0.049', 'unfortunately:0.0218', 'transparent:0.0043', 'vital:-0.023']+titles_keywords+['nato:0.401', 'escalation:0.2722', 'border:0.2387', 'stop:0.1662', 'ministers:0.086']"
+        ]
+    ]
+}

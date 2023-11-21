@@ -1,0 +1,15 @@
+{
+    "RUS+RUS+173":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/Russian activist is arrested in Moscows Pushkinskaya Square for protesting against the Ukraine war with.txt+eventbasecode173+eventcode173+avgtone0.46179039301310043+goldsteinscale0.25+nummentions0.0043541364296081275+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4992', 'moscows:0.4303', 'ukraine:0.4227', 'detained:0.3936', 'protest:0.3878', 'socialist:0.3112', 'citizen:0.2942', 'news:0.2922', 'tyerskoy:0.2858', 'law:0.283', 'rouble:0.2829', 'affairs:0.2595', 'federation:0.2577', 'report:0.2552', 'telegram:0.2524', 'anti:0.2403', 'poster:0.2357', 'peace:0.2256', 'troop:0.2102', 'introduce:0.2101', 'protect:0.1948', 'left:0.1873', 'discrediting:0.1854', 'word:0.1847', 'follow:0.1828', 'people:0.1796', 'fake:0.1676', 'packet:0.1455', 'characterisation:0.1431', 'april:0.1182']+titles_keywords+['ham:0.3873', 'pushkinskaya:0.3834', 'arrested:0.3192', 'ukraine:0.2903', 'protesting:0.2902']"
+        ]
+    ],
+    "RUS+UKR+173":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/Ukraine strikes back Kyivs troops have already shot down five Russian helicopters destroyed dozens of.txt+eventbasecode173+eventcode173+avgtone0.46610169491525427+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyivs:0.5021', 'crimea:0.4752', 'natoand:0.3461', 'putin:0.3411', 'invade:0.34', 'battle:0.3253', 'servicemen:0.2847', 'chernobyl:0.271', 'emergency:0.2582', 'news:0.2524', 'helicopter:0.2481', 'bombs:0.244', 'die:0.2342', 'soon:0.229', 'learn:0.2279', 'buynichev:0.2069', 'ptrk:0.194', 'order:0.1922', 'shot:0.1871', 'return:0.1851', 'right:0.17', 'counterpart:0.1692', 'say:0.161', 'end:0.1586', 'gmt:0.1496', 'far:0.1289', 'schast:0.1265', 'dozen:0.1203', 'toll:0.1047', 'underline:0.095']+titles_keywords+['kyivs:0.4858', 'zelensky:0.4205', 'helicopters:0.311', '137:0.2382', 'shot:0.2048']"
+        ],
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/First Russian soldier charged with rape war crime in Ukraine is a father with two.txt+eventbasecode173+eventcode173+avgtone0.45333333333333337+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['kyiv:0.4617', 'comrade:0.4561', 'russian:0.4305', 'romanov:0.4262', 'andrey:0.401', 'venediktova:0.3587', 'victim:0.34', 'regiment:0.3212', 'war:0.3054', 'crime:0.2773', 'trial:0.2668', 'soldiermay:0.2631', 'accuse:0.2623', 'iryna:0.2393', 'kill:0.2278', 'tank:0.2047', 'albina:0.1928', 'know:0.1778', 'woman:0.1738', 'alive:0.1598', 'escape:0.1577', 'pictures:0.1503', 'th:0.143', 'rotation:0.1222', 'hour:0.1202', 'fell:0.1154', 'return:0.1132', 'house:0.1116', 'marry:0.1085', 'maybe:0.0279']+titles_keywords+['russian:0.3715', 'soldier:0.316', 'rape:0.3028', 'father:0.2554', 'charged:0.1318']"
+        ]
+    ]
+}

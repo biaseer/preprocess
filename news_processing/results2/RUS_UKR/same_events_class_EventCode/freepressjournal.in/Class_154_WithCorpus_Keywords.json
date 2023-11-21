@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/UkraineRussia crisis Ukrainian civilian killed in frontline shelling says report.txt+eventbasecode154+eventcode154+avgtone0.47347994825355755+goldsteinscale0.13999999999999999+nummentions0.04281567489114659+numarticles0.043509789702683106+numsources0.0625+news_keywords+['ukraine:0.4704', 'nato:0.4589', 'diplomacy:0.4251', 'kremlin:0.4068', 'invade:0.3519', 'dmitry:0.3313', 'macron:0.3141', 'separatist:0.3137', 'convene:0.2581', 'presidential:0.2509', 'crisis:0.2497', 'adviser:0.2463', 'frontline:0.2296', 'ahead:0.2295', 'fighting:0.1903', 'warn:0.1837', 'news:0.1798', 'decide:0.1678', 'want:0.1676', 'cite:0.1667', 'orbit:0.1624', 'volodymyr:0.1621', 'prospect:0.1557', 'type:0.1544', 'ready:0.1496', 'pretext:0.14', 'kilometre:0.1327', 'buildup:0.1166', 'major:0.1045', 'possible:0.089']+titles_keywords+['ukrainian:0.4164', 'civilian:0.3032', 'frontline:0.2771', 'killed:0.2293', 'report:0.1142']"
+        ]
+    ],
+    "WST+UKR+154":[
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/FPJ Edit Brinkmanship in Ukraine must end.txt+eventbasecode154+eventcode154+avgtone0.48022249690976515+goldsteinscale0.13999999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['geopolitics:0.5038', 'ukraines:0.4404', 'putin:0.4373', 'brinkmanship:0.4267', 'nato:0.3847', 'militarily:0.3373', 'peaceful:0.2884', 'armageddon:0.2563', 'border:0.2547', 'belligerent:0.2335', 'annexed:0.2304', 'east:0.1971', 'attention:0.1921', 'sabre:0.1845', 'narrative:0.1763', 'current:0.1689', 'world:0.1683', 'telegram:0.1679', 'tense:0.1597', 'dismantle:0.1581', 'covid:0.1553', 'quick:0.1452', 'end:0.1447', 'want:0.1373', 'enhance:0.1321', 'pre:0.1242', 'stakeholder:0.1212', 'determine:0.1084', 'largely:0.0972', 'pdf:0.0777']+titles_keywords+['brinkmanship:0.5833', 'fpj:0.3883', 'ukraine:0.3701', 'edit:0.3288', 'end:0.2142']"
+        ],
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/Another Ukrainian soldier killed in shelling attack near frontline says armed forces.txt+eventbasecode154+eventcode154+avgtone0.4507389162561577+goldsteinscale0.13999999999999999+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.009868421052631578+news_keywords+['ukraine:0.4742', 'putin:0.4104', 'nato:0.3911', 'soldier:0.3615', 'frontline:0.3054', 'invade:0.3032', 'die:0.2405', 'separatist:0.2375', 'deployment:0.2193', 'dispatch:0.205', 'drill:0.1718', 'source:0.1696', 'fear:0.1504', 'telegram:0.1471', 'intensify:0.1339', 'specify:0.1313', 'shell:0.1294', 'injury:0.1254', 'wednesday:0.1227', 'stag:0.1169', 'arm:0.1094', 'tally:0.1051', 'regular:0.0989', 'near:0.0893', 'approve:0.0865', 'year:0.077', 'force:0.0738', 'poise:0.0641', 'pdf:0.0629', 'series:0.025']+titles_keywords+['ukrainian:0.3545', 'soldier:0.275', 'killed:0.1684', 'shelling:0.1676', 'near:0.0312']"
+        ]
+    ]
+}

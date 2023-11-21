@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+160":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/UK freezes assets on Russian airlines preventing slot sale.txt+eventbasecode160+eventcode160+avgtone0.4790575916230367+goldsteinscale0.3+nummentions0.01741654571843251+numarticles0.018129079042784626+numsources0.03618421052631579+news_keywords+['putin:0.4769', 'russias:0.4573', 'ukraine:0.4467', 'rossiya:0.3888', 'airlines:0.3435', 'government:0.3084', 'economy:0.3038', 'sanction:0.2898', 'war:0.2524', 'uk:0.2377', 'land:0.195', 'ural:0.1931', 'lucrative:0.1903', 'unused:0.1772', 'freeze:0.1672', 'forecast:0.1628', 'statement:0.1592', 'sell:0.1553', 'export:0.1537', 'stop:0.1411', 'range:0.1351', 'secretary:0.126', 'long:0.1259', 'source:0.1251', 'sure:0.1179', 'significant:0.1159', 'slot:0.1101', 'today:0.1001', 'weve:0.0718', 'truss:0.0691']+titles_keywords+['russian:0.2708', 'airlines:0.254', 'preventing:0.201', 'freezes:0.1437', 'slot:0.1324']"
+        ]
+    ],
+    "RUS+UKR+160":[
+        [
+            "20220410+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/AP PHOTOS on Day 46 What survival looks like in Ukraine.txt+eventbasecode160+eventcode160+avgtone0.46875+goldsteinscale0.3+nummentions0.02467343976777939+numarticles0.025380710659898477+numsources0.02631578947368421+news_keywords+['kyiv:0.6104', 'russian:0.4155', 'russias:0.3716', 'evacuate:0.3563', 'survival:0.3257', 'military:0.2968', 'capital:0.2795', 'kramatorsk:0.2738', 'winter:0.2418', 'east:0.2324', 'turn:0.217', 'fight:0.2162', 'suburban:0.2127', 'intensify:0.185', 'anticipate:0.1804', 'field:0.178', 'crowd:0.1777', 'bucha:0.1775', 'ap:0.1705', 'day:0.1661', 'uncovered:0.1614', 'building:0.1614', 'churchyard:0.1612', 'document:0.1612', 'crater:0.1572', 'plastic:0.1482', 'photos:0.1374', 'like:0.116', 'donate:0.1036', 'bitterest:0.0985']+titles_keywords+['ukraine:0.4807', 'survival:0.427', 'photos:0.2445', 'ap:0.2034', 'day:0.1768']"
+        ]
+    ],
+    "UKR+RUS+160":[
+        [
+            "20220507+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Ukraine All women children and elderly have been evacuated from the Mariupol steel mill besieged.txt+eventbasecode160+eventcode160+avgtone0.426829268292683+goldsteinscale0.3+nummentions0.02576197387518142+numarticles0.023567802755620013+numsources0.02631578947368421+news_keywords+['ukraine:0.4434', 'evacuate:0.4308', 'russian:0.3922', 'steel:0.292', 'mariupol:0.2108', 'elderly:0.1782', 'woman:0.1694', 'child:0.1693', 'besiege:0.1579', 'force:0.1157']+titles_keywords+['evacuated:0.4334', 'russian:0.306', 'steel:0.2455', 'mariupol:0.2372', 'elderly:0.1808']"
+        ]
+    ]
+}

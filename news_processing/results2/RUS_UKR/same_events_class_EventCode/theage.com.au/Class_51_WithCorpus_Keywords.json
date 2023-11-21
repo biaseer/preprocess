@@ -1,0 +1,17 @@
+{
+    "GBR+UKR+51":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/theage.com.au/Atrocity leaders condemn Russian air strikes on Mariupol maternity hospital.txt+eventbasecode51+eventcode51+avgtone0.45827439887+goldsteinscale0.67+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.009868421052631578+news_keywords+['kyiv:0.509', 'airstrikes:0.4305', 'putin:0.43', 'ceasefire:0.4284', 'syria:0.3697', 'chernobyl:0.3638', 'nato:0.3601', 'correspondent:0.3549', 'humanitarian:0.3162', 'casualty:0.3053', 'headline:0.2941', 'decommission:0.291', 'aggressor:0.2722', 'horrific:0.2544', 'agreement:0.2445', 'concern:0.2398', 'flee:0.2224', 'crime:0.2186', 'downing:0.2154', 'help:0.2076', 'know:0.2052', 'north:0.1881', 'pregnant:0.183', 'power:0.1785', 'readout:0.1611', 'port:0.1458', 'increasingly:0.1455', 'grid:0.1426', 'dehydration:0.126', 'footage:0.1254']+titles_keywords+['russian:0.2879', 'maternity:0.272', 'atrocity:0.2586', 'strikes:0.2557', 'air:0.16']"
+        ]
+    ],
+    "POL+UKR+51":[
+        [
+            "20220522+../news_crawling/RUS_UKR/p_articles/theage.com.au/Russiaappointed mayor of occupied town hit by explosion as Polish leader visits Kyiv.txt+eventbasecode51+eventcode51+avgtone0.46632996632996637+goldsteinscale0.67+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.009868421052631578+news_keywords+['kyiv:0.5312', 'russiaappointed:0.5133', 'putin:0.4369', 'boychenko:0.3306', 'polands:0.312', 'war:0.2901', 'sievierodonetsk:0.2866', 'separatist:0.2731', 'news:0.2503', 'administration:0.2396', 'know:0.2236', 'occupied:0.2195', 'historic:0.2181', 'proclaim:0.2103', 'concern:0.2096', 'soon:0.2072', 'write:0.1994', 'cite:0.1976', 'telegram:0.1912', 'long:0.1871', 'extend:0.1764', 'donbas:0.1726', 'sergeant:0.167', 'replace:0.1626', 'plant:0.1593', 'recover:0.158', 'end:0.1572', 'estimating:0.1221', 'blast:0.1192', 'welcome:0.097']+titles_keywords+['kyiv:0.5103', 'russiaappointed:0.4437', 'mayor:0.304', 'explosion:0.1936', 'occupied:0.1653']"
+        ]
+    ],
+    "USA+RUS+51":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/theage.com.au/Trump calls Putin smart warns of potential world war.txt+eventbasecode51+eventcode51+avgtone0.4786585365853659+goldsteinscale0.67+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['putin:0.4819', 'crimea:0.3999', 'conservatism:0.3137', 'headline:0.3123', 'correspondent:0.3105', 'election:0.2906', 'war:0.2556', 'emergency:0.2488', 'anticipate:0.246', 'speak:0.2417', 'ahead:0.2231', 'midterm:0.2222', 'secretary:0.2192', 'world:0.2181', 'sanction:0.2149', 'like:0.2144', 'annexed:0.2123', 'powerful:0.2089', 'pipeline:0.1977', 'contrast:0.1861', 'lengthy:0.1833', 'list:0.1727', 'ap:0.1612', 'covid:0.1536', 'virginia:0.1513', 'travesty:0.151', 'weve:0.1468', 'false:0.1396', 'make:0.1356', 'define:0.0825']+titles_keywords+['putin:0.4853', 'smart:0.3155', 'war:0.2405', 'warns:0.2161', 'world:0.152']"
+        ]
+    ]
+}

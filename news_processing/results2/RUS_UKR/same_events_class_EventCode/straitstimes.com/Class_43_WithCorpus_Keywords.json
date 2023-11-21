@@ -1,0 +1,17 @@
+{
+    "MDV+RUS+43":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Russia billionaires move superyachts to Maldives as sanctions tighten data shows.txt+eventbasecode43+eventcode43+avgtone0.4774305555555556+goldsteinscale0.64+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['putin:0.5045', 'oligarchs:0.4793', 'moscow:0.4512', 'russians:0.4367', 'oleg:0.4232', 'billionaire:0.4151', 'yacht:0.3443', 'superyachts:0.3421', 'maldives:0.3419', 'cruise:0.2937', 'extradition:0.2832', 'treaty:0.257', 'reuters:0.2537', 'multilateral:0.2361', 'mr:0.1871', 'property:0.1865', 'company:0.1734', 'seize:0.1701', 'arrive:0.1593', 'nirvana:0.1509', 'database:0.1357', 'port:0.1288', 'say:0.1206', 'tweet:0.101', 'capial:0.1007', 'steel:0.0976', 'track:0.0951', 'include:0.0907', 'week:0.0587', 'severe:0.0563']+titles_keywords+['superyachts:0.3975', 'maldives:0.3857', 'sanctions:0.3194', 'russia:0.306', 'billionaires:0.3015']"
+        ]
+    ],
+    "POL+UKR+43":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Ukrainians abroad and foreigners head to Ukraine to fight Russia.txt+eventbasecode43+eventcode43+avgtone0.46774193548387094+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.602', 'ukrainians:0.5533', 'russia:0.4656', 'poland:0.4421', 'warsaw:0.3781', 'bangkok:0.3401', 'travel:0.3217', 'abroad:0.3177', 'war:0.3156', 'invasion:0.3025', 'foreigner:0.2778', 'flee:0.2739', 'homeland:0.2698', 'citizens:0.2665', 'home:0.2113', 'people:0.2057', 'fight:0.1927', 'live:0.1841', 'direction:0.1826', 'enter:0.1729', 'miss:0.1236', 'feb:0.1227', 'zone:0.1117', 'thousand:0.1032', 'head:0.098', 'archive:0.0957', 'saturday:0.0855', 'matter:0.0799', 'group:0.0748', 'paper:0.0605']+titles_keywords+['ukrainians:0.6241', 'russia:0.4252', 'abroad:0.2873', 'fight:0.2659', 'head:0.0777']"
+        ]
+    ],
+    "RUS+RUS+43":[
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Putins media blitz on Africa food crisis sparks alarm in Europe.txt+eventbasecode43+eventcode43+avgtone0.46316964285714285+goldsteinscale0.64+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['putin:0.5151', 'rwanda:0.4472', 'soviet:0.4388', 'nato:0.4173', 'propaganda:0.4043', 'colonialism:0.3674', 'famine:0.3566', 'economy:0.3255', 'blockade:0.3251', 'kyiv:0.314', 'diplomat:0.3105', 'oil:0.303', 'threat:0.2868', 'globe:0.2356', 'coronavirus:0.2179', 'analyze:0.2141', 'produce:0.2031', 'intensify:0.1904', 'blame:0.1781', 'import:0.1723', 'write:0.1716', 'orchestrate:0.1639', 'decade:0.15', 'respectively:0.1323', 'entirely:0.1192', 'resume:0.1169', 'long:0.1111', 'june:0.1052', 'million:0.1015', 'fao:0.0505']+titles_keywords+['putins:0.3632', 'africa:0.3401', 'food:0.2891', 'media:0.2427', 'crisis:0.2251']"
+        ]
+    ]
+}

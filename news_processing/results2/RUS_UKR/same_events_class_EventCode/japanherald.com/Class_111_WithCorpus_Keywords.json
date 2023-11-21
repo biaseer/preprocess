@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/japanherald.com/Japan takes aim at Russias exports.txt+eventbasecode111+eventcode111+avgtone0.485054347826087+goldsteinscale0.4+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.006578947368421052+news_keywords+['russia:0.443', 'economy:0.3206', 'asahi:0.3112', 'yen:0.308', 'supply:0.2693', 'sanction:0.269', 'tokyo:0.2687', 'avoid:0.2455', 'importer:0.2357', 'restriction:0.2099', 'anti:0.2037', 'security:0.1991', 'news:0.1917', 'report:0.1708', 'wood:0.1701', 'cite:0.1615', 'item:0.1555', 'fish:0.153', 'introduce:0.1512', 'operation:0.1443', 'aviation:0.1347', 'include:0.1265', 'western:0.1222', 'target:0.1192', 'dependent:0.1154', 'cost:0.1068', 'good:0.1021', 'crude:0.0789', 'april:0.063', 'significantly:0.0164']+titles_keywords+['exports:0.3541', 'japan:0.349', 'russias:0.3269', 'aim:0.1496', 'takes:-0.0289']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/japanherald.com/Russia launches military strikes on Ukraine warns West to stay away.txt+eventbasecode111+eventcode111+avgtone0.47696245733788395+goldsteinscale0.4+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5822368421052632+news_keywords+['putin:0.4111', 'nato:0.4008', 'war:0.3799', 'militarize:0.3585', 'kyiv:0.3432', 'genocide:0.3401', 'escalation:0.3008', 'intervene:0.3002', 'diplomats:0.2768', 'unprovoked:0.2703', 'warn:0.2665', 'cyberattack:0.2373', 'respond:0.2355', 'agreement:0.2318', 'preside:0.2191', 'correspondent:0.2181', 'begin:0.1762', 'table:0.1737', 'information:0.1708', 'immediately:0.1662', 'word:0.1648', 'expect:0.1642', 'like:0.1446', 'short:0.1445', 'choose:0.144', 'voa:0.1413', 'follow:0.1313', 'state:0.1223', 'eastern:0.1216', 'pipeline:0.1113']+titles_keywords+['ukraine:0.3794', 'warns:0.2099', 'military:0.1762', 'strikes:0.1642', 'stay:0.1256']"
+        ]
+    ]
+}

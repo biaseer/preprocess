@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/wfsu.org/Russian mutants lost this round Ukraine says after troops leave Chernobyl.txt+eventbasecode87+eventcode874+avgtone0.4732620320855615+goldsteinscale1.0+nummentions0.11756168359941944+numarticles0.11820159535895576+numsources0.10526315789473684+news_keywords+['chernobyl:0.6646', 'radioactive:0.4793', 'ukrainian:0.3356', 'safe:0.2161', 'mutant:0.2027', 'military:0.1994', 'operate:0.1955', 'panic:0.1865', 'update:0.1851', 'contaminate:0.174', 'occupier:0.1606', 'report:0.1571', 'control:0.1555', 'veracity:0.1499', 'iaea:0.1498', 'zone:0.1493', 'exit:0.1474', 'chornobyl:0.1437', 'lab:0.1402', 'stalkerthegame:0.136', 'exposure:0.1315', 'disturb:0.1126', 'normally:0.1047', 'condition:0.1005', 'entire:0.0904', 'send:0.0795', 'month:0.0764', 'state:0.075', 'video:0.0607', 'likely:-0.0155']+titles_keywords+['chernobyl:0.615', 'russian:0.3739', 'mutants:0.3564', 'troops:0.2344', 'leave:0.1349']"
+        ],
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/wfsu.org/Ukraine says Russian troops are withdrawing from Kharkiv.txt+eventbasecode87+eventcode874+avgtone0.47580015612802495+goldsteinscale1.0+nummentions0.1179245283018868+numarticles0.11856417693981146+numsources0.13815789473684212+news_keywords+['ukraine:0.5006', 'nato:0.3913', 'airstrikes:0.3517', 'erdogan:0.3025', 'troop:0.2898', 'eastward:0.2788', 'counterattack:0.2653', 'separatist:0.2621', 'reznikov:0.2371', 'predict:0.2307', 'turn:0.217', 'advance:0.2092', 'industrial:0.1935', 'outcome:0.1882', 'pull:0.1868', 'telegram:0.1825', 'kilometer:0.1812', 'long:0.1758', 'avoiding:0.1646', 'counterpart:0.1619', 'order:0.161', 'worry:0.1598', 'grid:0.1474', 'visit:0.1447', 'negotiate:0.1364', 'weekend:0.136', 'severodonetsk:0.1344', 'largely:0.0949', 'donets:0.0871', 'agree:0.0783']+titles_keywords+['kharkiv:0.4158', 'ukraine:0.3751', 'withdrawing:0.3066', 'troops:0.2411', 'says:0.017']"
+        ]
+    ]
+}

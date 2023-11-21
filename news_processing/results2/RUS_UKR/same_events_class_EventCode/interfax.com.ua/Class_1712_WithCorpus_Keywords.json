@@ -1,0 +1,12 @@
+{
+    "POL+RUS+1712":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Production facility warehouses of Polish PlastBox burned down in Chernihiv due to actions of Russian.txt+eventbasecode171+eventcode1712+avgtone0.4925925925925926+goldsteinscale0.040000000000000036+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukrainian:0.3768', 'warehouse:0.3427', 'industry:0.339', 'company:0.3379', 'war:0.3336', 'warsaw:0.3074', 'stock:0.2996', 'profit:0.2978', 'report:0.2512', 'provoke:0.2421', 'chemical:0.2363', 'safety:0.2219', 'process:0.218', 'llc:0.2029', 'property:0.19', 'enterprise:0.1828', 'plant:0.1788', 'burn:0.1733', 'plastbox:0.1701', 'website:0.1681', 'information:0.1552', 'period:0.1492', 'start:0.1195', 'separate:0.1149', 'size:0.1127', 'compare:0.1096', 'high:0.1019', 'january:0.0905', 'possible:0.0541', 'accord:0.0168']+titles_keywords+['warehouses:0.3705', 'plastbox:0.3575', 'polish:0.3009', 'chernihiv:0.2743', 'burned:0.1577']"
+        ]
+    ],
+    "UKR+RUS+1712":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Ukrainian servicemen destroy two Russian patrol boats near Snake island.txt+eventbasecode171+eventcode1712+avgtone0.47183098591549294+goldsteinscale0.040000000000000036+nummentions0.002902757619738752+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukrainian:0.345', 'snake:0.341', 'russian:0.3325', 'zaluzhny:0.3323', 'boat:0.3111', 'island:0.2984', 'patrol:0.2509', 'serviceman:0.2469', 'destroy:0.2236', 'valeriy:0.185', 'bayraktar:0.1708', 'commander:0.1638', 'armed:0.1607', 'chief:0.141', 'unit:0.1407', 'raptor:0.1268', 'monday:0.0997', 'write:0.0833', 'dawn:0.07', 'work:0.0694', 'today:0.0622', 'forces:0.0533', 'morning:0.0511', 'type:0.0248', 'say:0.02', 'near:-0.003', 'facebook:-0.0036']+titles_keywords+['ukrainian:0.2802', 'boats:0.2463', 'servicemen:0.2411', 'destroy:0.2284', 'snake:0.1912']"
+        ]
+    ]
+}

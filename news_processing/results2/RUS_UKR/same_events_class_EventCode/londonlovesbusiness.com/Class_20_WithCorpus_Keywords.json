@@ -1,0 +1,12 @@
+{
+    "RUS+DEU+20":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/londonlovesbusiness.com/Putin holds calls with France and Germany but it appears Russia are not ready to.txt+eventbasecode20+eventcode20+avgtone0.4831932773109244+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4818', 'ukraine:0.4655', 'kremlin:0.3835', 'war:0.3796', 'macron:0.3318', 'france:0.2997', 'peace:0.2878', 'talk:0.2801', 'zelensky:0.2367', 'ultimatum:0.2202', 'instead:0.2003', 'end:0.1972', 'volodymyr:0.1921', 'hold:0.1857', 'phone:0.1844', 'warn:0.1519', 'proposal:0.1479', 'ready:0.1475', 'friday:0.1401', 'exchange:0.1396', 'emmanuel:0.1375', 'shift:0.136', 'counterpart:0.1336', 'minute:0.1322', 'certain:0.1186', 'official:0.1138', 'reveal:0.111', 'sholz:0.0706', 'elaborate:0.0434', 'concrete:0.0111']+titles_keywords+['putin:0.4401', 'calls:0.2602', 'war:0.2126', 'end:0.1188', 'ready:0.1084']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/londonlovesbusiness.com/Ukraines neutral status is being seriously discussed and specific wordings are close to agreement to.txt+eventbasecode20+eventcode20+avgtone0.4981818181818182+goldsteinscale0.65+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.009868421052631578+news_keywords+['ukraine:0.4384', 'putin:0.4013', 'geopolitical:0.3545', 'negotiation:0.3193', 'neutral:0.2918', 'war:0.2815', 'lavrov:0.2545', 'status:0.2395', 'agreement:0.233', 'achieve:0.214', 'operation:0.2108', 'wording:0.1921', 'alliance:0.1908', 'news:0.1895', 'want:0.1888', 'end:0.1846', 'plan:0.1699', 'hetold:0.1611', 'warn:0.1535', 'discus:0.1235', 'close:0.1219', 'ready:0.1213', 'strong:0.115', 'step:0.109', 'easy:0.0899', 'thing:0.0797', 'resolution:0.0606', 'today:0.043', 'seriously:0.0118', 'rbc:-0.0098']+titles_keywords+['ukraines:0.4607', 'neutral:0.3855', 'agreement:0.3287', 'status:0.2975', 'wordings:0.194']"
+        ]
+    ]
+}

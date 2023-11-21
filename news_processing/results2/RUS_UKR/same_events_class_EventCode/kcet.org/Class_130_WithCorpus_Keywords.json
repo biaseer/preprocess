@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/kcet.org/Ukraines cultural sites under threat from Russias invasion.txt+eventbasecode130+eventcode130+avgtone0.463768115942029+goldsteinscale0.27999999999999997+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.013157894736842105+news_keywords+['ukraine:0.5609', 'ukraines:0.5451', 'russias:0.4334', 'russian:0.4163', 'invasion:0.3662', 'war:0.333', 'culture:0.2704', 'museum:0.2637', 'threat:0.2463', 'theater:0.2461', 'memorials:0.2459', 'bombed:0.2177', 'rubble:0.2112', 'report:0.2043', 'canvas:0.1858', 'risk:0.1786', 'place:0.1768', 'important:0.1543', 'site:0.1503', 'identity:0.1292', 'speak:0.116', 'force:0.1078', 'wednesday:0.105', 'pose:0.103', 'mariupol:0.0943', 'example:0.0943', 'brown:0.0812', 'reduce:0.0578', 'jeffrey:0.0367', 'series:0.0364']+titles_keywords+['ukraines:0.4537', 'invasion:0.3676', 'threat:0.2271', 'cultural:0.1909', 'sites:0.1255']"
+        ]
+    ],
+    "RUS+WST+130":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/kcet.org/NATO Ambassador This Is a Very Bad News Story for Russia.txt+eventbasecode130+eventcode130+avgtone0.5092592592592592+goldsteinscale0.27999999999999997+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['nato:0.5149', 'ambassador:0.4124', 'putin:0.3714', 'baltic:0.3272', 'russia:0.2927', 'reinforce:0.2531', 'blinken:0.2478', 'reassure:0.2439', 'warn:0.2037', 'secretary:0.2023', 'news:0.1886', 'antony:0.186', 'visit:0.1821', 'flank:0.1607', 'christiane:0.1493', 'julianne:0.1487', 'nation:0.1413', 'smith:0.1407', 'bad:0.1404', 'speaks:0.1202', 'state:0.1075', 'member:0.1053', 'eastern:0.0904', 'story:0.0204']+titles_keywords+['nato:0.4918', 'ambassador:0.3888', 'russia:0.3517', 'news:0.323', 'bad:0.2414']"
+        ]
+    ]
+}

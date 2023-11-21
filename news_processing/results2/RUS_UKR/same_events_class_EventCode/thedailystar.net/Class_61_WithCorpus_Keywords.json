@@ -1,0 +1,22 @@
+{
+    "AUS+RUS+61":[
+        [
+            "20220804+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Russia becomes Indias 3rd largest coal supplier.txt+eventbasecode61+eventcode61+avgtone0.4948096885813149+goldsteinscale0.82+nummentions0.011248185776487663+numarticles0.011965192168237854+numsources0.013157894736842105+news_keywords+['coal:0.4702', 'india:0.3273', 'commodity:0.2342', 'importer:0.1879', 'trade:0.1744', 'data:0.164', 'russian:0.1614', 'shipment:0.15', 'western:0.1484', 'steelmaker:0.1443', 'tonne:0.1435', 'world:0.1271', 'power:0.1161', 'rd:0.1086', 'month:0.0876', 'thermal:0.0873', 'second:0.082', 'historically:0.0783', 'choke:0.0766', 'include:0.0762', 'rise:0.0715', 'fillip:0.0706', 'compare:0.0671', 'pci:0.0577', 'consultancy:0.057', 'especially:0.0327', 'major:0.0267', 'sanction:0.025', 'alternatingly:-0.0023', 'marginally:-0.0032']+titles_keywords+['coal:0.4128', 'russia:0.3364', '3rd:0.2293', 'supplier:0.1717', 'largest:0.164']"
+        ]
+    ],
+    "DEU+RUS+61":[
+        [
+            "20210807+../news_crawling/RUS_UKR/p_articles/thedailystar.net/EU plan to cut Russian gas use to take effect soon.txt+eventbasecode61+eventcode61+avgtone0.4774305555555556+goldsteinscale0.82+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.3884', 'gas:0.29', 'diplomatic:0.2482', 'reduce:0.2479', 'economic:0.2465', 'invade:0.2462', 'sanction:0.2432', 'soon:0.2329', 'presidency:0.2289', 'plan:0.2279', 'power:0.2219', 'emergency:0.2194', 'publication:0.2166', 'winter:0.2123', 'union:0.206', 'bloc:0.1837', 'afp:0.1828', 'week:0.1742', 'source:0.1551', 'wean:0.1546', 'hold:0.1533', 'low:0.1467', 'import:0.1372', 'official:0.134', 'effect:0.1147', 'series:0.1065', 'unless:0.0935', 'share:0.0906', 'rotate:0.0864', 'agree:0.0525']+titles_keywords+['gas:0.2705', 'russian:0.266', 'eu:0.2394', 'plan:0.2241', 'soon:0.1733']"
+        ]
+    ],
+    "RUS+UKR+61":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Can boro harvest prevent a food crisis in the country.txt+eventbasecode61+eventcode61+avgtone0.48672566371681414+goldsteinscale0.82+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['bangladesh:0.3945', 'rice:0.3274', 'harvest:0.327', 'wheat:0.3086', 'boro:0.2613', 'food:0.2425', 'crisis:0.2106', 'threat:0.1793', 'scenario:0.1683', 'supplier:0.1608', 'worsen:0.1546', 'import:0.1334', 'possible:0.1268', 'discus:0.125', 'price:0.1156', 'pinaki:0.1125', 'debjani:0.1041', 'prevent:0.1035', 'nation:0.0947', 'today:0.0924', 'significant:0.0903', 'continue:0.0902', 'rise:0.0855', 'season:0.0778', 'verge:0.0755', 'exist:0.0638', 'newsroom:0.0483', 'door:0.0411', 'large:0.0177', 'hike:0.0127']+titles_keywords+['harvest:0.4628', 'boro:0.3574', 'food:0.3308', 'crisis:0.1494', 'prevent:0.1107']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Ukraines food exports halved since war.txt+eventbasecode61+eventcode61+avgtone0.4872881355932204+goldsteinscale0.82+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.5192', 'war:0.3312', 'commodity:0.3161', 'harvest:0.2991', 'oil:0.2975', 'grain:0.2793', 'production:0.2682', 'feed:0.2221', 'government:0.2067', 'export:0.206', 'soy:0.1891', 'forecast:0.1709', 'sunflower:0.1689', 'seaport:0.1608', 'data:0.1527', 'period:0.1348', 'august:0.1315', 'people:0.1274', 'fell:0.116', 'million:0.1081', 'unharvested:0.1052', 'begin:0.0981', 'open:0.0968', 'low:0.0953', 'compare:0.0915', 'leave:0.0887', 'half:0.0845', 'unblock:0.0789', 'deal:0.0613', 'capable:0.059']+titles_keywords+['ukraines:0.409', 'exports:0.2936', 'war:0.2734', 'halved:0.236', 'food:0.1984']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+HUN+10":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/en.kremlin.ru/Telephone conversation with Prime Minister ofHungary Viktor Orban.txt+eventbasecode10+eventcode10+avgtone0.48958333333333326+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['orban:0.6242', 'telephone:0.4025', 'conversation:0.3445', 'viktor:0.2972', 'minister:0.259', 'ofhungary:0.2353', 'prime:0.1531']+titles_keywords+['orban:0.6079', 'telephone:0.3741', 'conversation:0.3564', 'minister:0.2389', 'prime:0.1405']"
+        ]
+    ],
+    "RUS+RUS+10":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/en.kremlin.ru/Telephone conversations with President ofFrance Emmanuel Macron andFederal Chancellor ofGermany Olaf Scholz.txt+eventbasecode10+eventcode10+avgtone0.49193548387096775+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5083', 'macron:0.5048', 'president:0.3471', 'conversation:0.3222', 'sovereignty:0.3052', 'vladimir:0.3035', 'chancellor:0.2793', 'telephone:0.2682', 'oftheterritory:0.2672', 'oftheukrainian:0.2379', 'aggression:0.2285', 'ofgermany:0.2224', 'emmanuel:0.1932', 'scholz:0.1884', 'offrance:0.1829', 'civilian:0.1813', 'andfederal:0.1812', 'oftheir:0.1713', 'ofdonbass:0.1706', 'olaf:0.16', 'inconnection:0.153', 'themilitary:0.1514', 'authority:0.1514', 'shell:0.1364', 'andtheresulting:0.1358', 'suffering:0.1017', 'andmassive:0.0953']+titles_keywords+['macron:0.5261', 'conversations:0.4175', 'telephone:0.3308', 'chancellor:0.3048', 'scholz:0.2813']"
+        ]
+    ],
+    "RUS+WST+10":[
+        []
+    ]
+}

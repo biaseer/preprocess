@@ -1,0 +1,20 @@
+{
+    "RUS+RUS+72":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Is a stuck convoy in Ukraine a setback for Russia.txt+eventbasecode72+eventcode72+avgtone0.4688818565400844+goldsteinscale0.915+nummentions0.1676342525399129+numarticles0.16823785351704135+numsources0.17105263157894737+news_keywords+['russia:0.4727', 'revolution:0.3639', 'pandemic:0.3096', 'capital:0.2961', 'term:0.2929', 'information:0.2888', 'pentagon:0.2801', 'conclusion:0.2772', 'office:0.2756', 'stab:0.2667', 'rcmp:0.2577', 'ford:0.2559', 'stem:0.2557', 'muddy:0.2446', 'roadblock:0.2435', 'forward:0.2403', 'source:0.2333', 'podium:0.2308', 'anticipate:0.2298', 'reassess:0.2225', 'head:0.2198', 'combine:0.2159', 'allegation:0.2155', 'long:0.2127', 'friday:0.2114', 'javelin:0.2093', 'like:0.1936', 'cartoonists:0.1931', 'risky:0.1811', 'shortcoming:0.1786']+titles_keywords+['ukraine:0.3809', 'convoy:0.3684', 'russia:0.2992', 'stuck:0.2729', 'setback:0.2261']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Russia to stage massive nuclear drills amid Ukraine standoff.txt+eventbasecode72+eventcode72+avgtone0.4872495446265938+goldsteinscale0.915+nummentions0.08853410740203194+numarticles0.08919506889050036+numsources0.09868421052631579+news_keywords+['putin:0.5057', 'moscow:0.4771', 'crimean:0.4309', 'nato:0.394', 'icbms:0.3554', 'revolution:0.3405', 'readiness:0.3022', 'expand:0.2661', 'worry:0.2593', 'pandemic:0.2566', 'coincide:0.2534', 'rcmp:0.2532', 'trigger:0.2448', 'newspaper:0.2409', 'border:0.238', 'meddling:0.2292', 'stem:0.2149', 'impasse:0.2094', 'behead:0.2089', 'reminder:0.2079', 'precede:0.2076', 'allegation:0.2027', 'thursday:0.1979', 'world:0.1969', 'peninsula:0.1895', 'long:0.1659', 'ford:0.157', 'heater:0.1413', 'actually:0.1079', 'sluggish:0.1013']+titles_keywords+['ukraine:0.3177', 'nuclear:0.3156', 'drills:0.284', 'standoff:0.2291', 'stage:0.1303']"
+        ],
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Russian Nobel Peace Prize winner donates medal to fund for Ukrainian refugees.txt+eventbasecode72+eventcode72+avgtone0.4944237918215613+goldsteinscale0.915+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['revolution:0.387', 'news:0.3757', 'russian:0.3294', 'nobel:0.3201', 'trudeau:0.3172', 'world:0.3158', 'pandemic:0.2987', 'censorship:0.2945', 'expand:0.2842', 'peace:0.2839', 'morning:0.2834', 'podium:0.2776', 'say:0.262', 'cybercrime:0.2605', 'feb:0.257', 'stab:0.2542', 'spacex:0.251', 'anticipate:0.2453', 'label:0.241', 'cartoonists:0.2406', 'end:0.2371', 'donate:0.2221', 'head:0.2174', 'gazeta:0.2148', 'murdaugh:0.2067', 'boston:0.1986', 'function:0.1985', 'longer:0.1906', 'study:0.1746', 'sluggish:0.1262']+titles_keywords+['nobel:0.3847', 'refugees:0.3253', 'russian:0.3236', 'donates:0.28', 'medal:0.2792']"
+        ]
+    ],
+    "WST+UKR+72":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Ukraine says Russia steps up shelling of residential areas.txt+eventbasecode72+eventcode72+avgtone0.4734555984555985+goldsteinscale0.915+nummentions0.3033381712626996+numarticles0.30384336475707036+numsources0.34210526315789475+news_keywords+['ukraine:0.548', 'revolution:0.3706', 'separatists:0.3564', 'zelenskyy:0.3018', 'airstrikes:0.2942', 'journalist:0.2895', 'annex:0.2735', 'information:0.2611', 'organize:0.2609', 'dispatch:0.2581', 'telegram:0.249', 'pandemic:0.246', 'blackmail:0.2413', 'world:0.2209', 'hear:0.2208', 'trudeau:0.2192', 'recep:0.2167', 'behead:0.215', 'bridge:0.199', 'podium:0.1975', 'import:0.195', 'anticipate:0.1917', 'day:0.1884', 'like:0.1847', 'compare:0.1821', 'end:0.1799', 'heming:0.1578', 'make:0.1562', 'longer:0.1461', 'ready:0.1256']+titles_keywords+['ukraine:0.4218', 'shelling:0.2413', 'residential:0.224', 'areas:0.1208', 'says:0.0138']"
+        ]
+    ]
+}

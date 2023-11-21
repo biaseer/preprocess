@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20211226+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Training civilians Ukraine nurtures a resistance in waiting.txt+eventbasecode130+eventcode130+avgtone0.48120300751879697+goldsteinscale0.27999999999999997+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5004', 'ukrainians:0.4658', 'nationalist:0.3603', 'brigade:0.3534', 'putin:0.3208', 'enlist:0.316', 'airstrikes:0.3092', 'occupy:0.2933', 'tank:0.2853', 'guerrilla:0.2799', 'battle:0.2744', 'formalise:0.2513', 'read:0.2312', 'decentralised:0.216', 'general:0.2136', 'type:0.213', 'people:0.2062', 'javelins:0.2011', 'vulnerability:0.2001', 'instead:0.1846', 'vend:0.1689', 'begin:0.1599', 'medical:0.1565', 'ihor:0.1516', 'lesson:0.1462', 'cover:0.1442', 'good:0.1423', 'weekend:0.1131', 'radio:0.0958', 'doesnt:0.0691']+titles_keywords+['civilians:0.5389', 'ukraine:0.483', 'training:0.3263', 'waiting:0.2867', 'resistance:0.2388']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Air strikes in Ukraines Dnipro kill one emergency services say.txt+eventbasecode130+eventcode130+avgtone0.4615384615384615+goldsteinscale0.27999999999999997+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.013157894736842105+news_keywords+['ukraines:0.481', 'dnipro:0.3424', 'russia:0.3334', 'strike:0.3332', 'invasion:0.3317', 'kill:0.2903', 'nation:0.2813', 'emergency:0.2466', 'warn:0.2015', 'come:0.1994', 'people:0.1843', 'european:0.1831', 'amid:0.1792', 'united:0.1736', 'air:0.1696', 'force:0.1638', 'seven:0.1596', 'preparation:0.1524', 'encircle:0.1457', 'start:0.1429', 'muster:0.1426', 'say:0.1343', 'status:0.1301', 'home:0.1263', 'revoke:0.1248', 'sunday:0.1196', 'million:0.1152', 'states:0.1152', 'service:0.0997', 'favour:0.0777']+titles_keywords+['ukraines:0.3578', 'dnipro:0.3292', 'kill:0.2843', 'air:0.1097', 'services:0.0328']"
+        ]
+    ]
+}

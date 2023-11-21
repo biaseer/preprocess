@@ -1,0 +1,17 @@
+{
+    "RUS+BLR+30":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine President Zelensky declares martial law throughout country.txt+eventbasecode30+eventcode30+avgtone0.4841269841269842+goldsteinscale0.7+nummentions0.03701015965166909+numarticles0.03770848440899202+numsources0.029605263157894735+news_keywords+['zelensky:0.4278', 'ukraine:0.4121', 'ukrainian:0.4014', 'russian:0.3344', 'russia:0.3266', 'military:0.2296', 'volodymyr:0.2249', 'law:0.1953', 'donbass:0.1851', 'president:0.171', 'explosions:0.1677', 'operation:0.126', 'country:0.1178', 'guard:0.1134', 'border:0.1101', 'strike:0.1044', 'immediately:0.0988', 'leader:0.097', 'martial:0.0964', 'infrastructure:0.0925', 'declare:0.0905', 'announce:0.0735', 'hear:0.068', 'carry:0.0661', 'thursday:0.0315', 'unit:0.0206']+titles_keywords+['zelensky:0.4754', 'ukraine:0.3536', 'law:0.1943', 'martial:0.1159', 'president:0.1015']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220617+../news_crawling/RUS_UKR/p_articles/wn.com/Putin says Russia has nothing against Ukraine joining EU.txt+eventbasecode30+eventcode30+avgtone0.48484848484848486+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4617', 'ukraine:0.4538', 'vladimir:0.3991', 'russia:0.3689', 'russian:0.3601', 'eu:0.3549', 'join:0.2493', 'european:0.2342', 'joining:0.2063', 'union:0.2046', 'follow:0.1507', 'president:0.1228', 'friday:0.1147', 'objection:0.1137', 'say:0.1108']+titles_keywords+['putin:0.4563', 'ukraine:0.4482', 'eu:0.3103', 'joining:0.1558', 'says:0.0912']"
+        ]
+    ],
+    "UKR+RUS+30":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine assured US it will not strike within Russia.txt+eventbasecode30+eventcode30+avgtone0.49242424242424243+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4637', 'moscow:0.3518', 'russia:0.3391', 'blinken:0.2366', 'assure:0.2324', 'deliver:0.22', 'assurance:0.2163', 'strike:0.2137', 'europe:0.1861', 'weapon:0.1636', 'american:0.1523', 'provide:0.1327', 'conflict:0.1321', 'avoid:0.1186', 'antony:0.1177', 'wide:0.1128', 'strict:0.0967', 'use:0.0929', 'say:0.0821', 'state:0.0745', 'secretary:0.061', 'wednesday:0.0577', 'specifically:0.0529', 'regard:0.0274', 'heavy:0.0169', 'effort:-0.0596']+titles_keywords+['ukraine:0.473', 'russia:0.3541', 'assured:0.2341', 'strike:0.2331']"
+        ]
+    ]
+}

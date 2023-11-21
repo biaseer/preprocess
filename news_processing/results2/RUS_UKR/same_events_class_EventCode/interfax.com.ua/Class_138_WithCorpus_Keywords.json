@@ -1,0 +1,12 @@
+{
+    "HUN+UKR+138":[
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Hungary warned in advance by Putin about attack on Ukraine Danilov.txt+eventbasecode138+eventcode138+avgtone0.4626865671641791+goldsteinscale0.15+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['nato:0.4538', 'ukraine:0.4258', 'putin:0.3313', 'attack:0.2575', 'danilov:0.2436', 'war:0.2211', 'cooperation:0.2065', 'oleksiy:0.2026', 'join:0.1945', 'warn:0.1809', 'advance:0.1495', 'possibility:0.1445', 'territory:0.1435', 'telethon:0.1327', 'let:0.1306', 'behave:0.1183', 'security:0.1151', 'consequence:0.1017', 'believe:0.082', 'influence:0.0818', 'monday:0.0726', 'say:0.0594', 'secretary:0.0462', 'reason:0.0388', 'way:0.032', 'air:0.024', 'council:0.0216', 'openly:0.019', 'process:0.0161', 'national:0.0059']+titles_keywords+['danilov:0.415', 'putin:0.4021', 'hungary:0.3289', 'warned:0.2384', 'attack:0.1959']"
+        ]
+    ],
+    "RUS+UKR+138":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/ECHR publishes decision to order Russia to refrain from attacks on Ukraines population civilian objects.txt+eventbasecode138+eventcode138+avgtone0.4666666666666666+goldsteinscale0.15+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['echr:0.5113', 'ukraines:0.4157', 'russian:0.3383', 'ambulance:0.3088', 'attack:0.2828', 'protect:0.2798', 'court:0.2613', 'government:0.2412', 'territory:0.2322', 'besieged:0.2301', 'troop:0.2253', 'urgent:0.2182', 'publish:0.1989', 'order:0.182', 'rule:0.1784', 'decide:0.1637', 'refrain:0.157', 'imminent:0.1467', 'interim:0.1425', 'object:0.1375', 'irreparable:0.1226', 'risk:0.1207', 'direct:0.1143', 'party:0.1133', 'residential:0.1085', 'measure:0.1056', 'accord:0.0975', 'addition:0.072', 'specially:0.0671', 'practice:0.0619']+titles_keywords+['echr:0.4613', 'ukraines:0.4041', 'civilian:0.1716', 'objects:0.1553', 'decision:0.1387']"
+        ]
+    ]
+}

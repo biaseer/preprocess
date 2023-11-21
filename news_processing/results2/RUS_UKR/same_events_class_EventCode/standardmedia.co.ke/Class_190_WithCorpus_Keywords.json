@@ -1,0 +1,12 @@
+{
+    "FRA+UKR+190":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/standardmedia.co.ke/Russia should halt attack against Ukraine and talk.txt+eventbasecode190+eventcode190+avgtone0.46965317919075134+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.4888', 'putin:0.4088', 'war:0.4021', 'ukrainians:0.3997', 'invade:0.3996', 'diplomatic:0.35', 'separatist:0.2887', 'escalate:0.2836', 'reuters:0.268', 'impasse:0.2632', 'halt:0.2322', 'catastrophe:0.2157', 'economic:0.2111', 'table:0.2033', 'repercussion:0.2011', 'prepares:0.2007', 'ally:0.1923', 'world:0.1878', 'position:0.1812', 'compare:0.1766', 'authorise:0.1752', 'use:0.1696', 'long:0.1654', 'note:0.1653', 'happen:0.1518', 'prevent:0.1485', 'isnt:0.1405', 'macrons:0.1293', 'mr:0.0804', 'price:0.0786']+titles_keywords+['talk:0.4107', 'ukraine:0.3934', 'russia:0.3287', 'attack:0.3098', 'halt:0.2842']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/standardmedia.co.ke/Russia halts gas to Poland Bulgaria taking aim at European economies.txt+eventbasecode190+eventcode190+avgtone0.46546830652790916+goldsteinscale0.0+nummentions0.12590711175616837+numarticles0.12364031907179115+numsources0.2598684210526316+news_keywords+['ukraine:0.5261', 'russiahaltedgassupplies:0.5095', 'russiareported:0.4797', 'kremlin:0.4529', 'bulgariangascompanies:0.4383', 'nato:0.4267', 'importingrussian:0.3638', 'petkov:0.3436', 'invasion:0.3244', 'blackmail:0.3018', 'provoke:0.2912', 'separatist:0.2813', 'unilaterally:0.2611', 'economic:0.2529', 'allegation:0.2308', 'agreement:0.2287', 'know:0.2142', 'reject:0.2142', 'president:0.2118', 'continue:0.2058', 'pipe:0.2034', 'supplies:0.1836', 'naturalgasthrough:0.1753', 'reading:0.1584', 'long:0.155', 'current:0.1539', 'stage:0.1528', 'widen:0.1527', 'warm:0.1425', 'largely:0.0956']+titles_keywords+['bulgaria:0.4618', 'gas:0.2869', 'economies:0.1975', 'halts:0.1847', 'aim:0.1088']"
+        ]
+    ]
+}

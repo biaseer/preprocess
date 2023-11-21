@@ -1,0 +1,12 @@
+{
+    "RUS+GBR+190":[
+        [
+            "20220727+../news_crawling/RUS_UKR/p_articles/londonlovesbusiness.com/Moscow are forcibly conscripting in thousands of Ukrainian Crimeans to fight in Putins war.txt+eventbasecode190+eventcode190+avgtone0.44360902255639106+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimean:0.5441', 'putin:0.411', 'mobilization:0.4004', 'moscow:0.393', 'treason:0.381', 'propaganda:0.3714', 'conscript:0.3594', 'ponochovny:0.3047', 'territory:0.2723', 'occupied:0.262', 'prosecution:0.2596', 'remain:0.2562', 'illegal:0.2279', 'allege:0.212', 'citizen:0.2078', 'subject:0.2059', 'forcibly:0.1929', 'authority:0.1838', 'sevastopol:0.1704', 'indicate:0.1585', 'fight:0.1552', 'high:0.1525', 'risk:0.1476', 'ihor:0.1465', 'rank:0.1365', 'thousands:0.1264', 'center:0.1245', 'autonomous:0.1162', 'add:0.1069', 'year:0.0551']+titles_keywords+['crimeans:0.5481', 'moscow:0.5282', 'putins:0.4842', 'conscripting:0.4129', 'forcibly:0.1838']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/londonlovesbusiness.com/Ukraine civilians give poisoned pies to Russian troops killing two with 500 more in hospital.txt+eventbasecode190+eventcode190+avgtone0.465+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['poison:0.4868', 'ukrainians:0.4523', 'russia:0.386', 'kharkiv:0.3342', 'kill:0.2931', 'hospital:0.2906', 'troop:0.2776', 'treat:0.2762', 'alcohol:0.274', 'combat:0.2406', 'command:0.2385', 'occur:0.2331', 'pie:0.2291', 'rifle:0.2237', 'result:0.2063', 'occupier:0.1939', 'region:0.1856', 'gift:0.1843', 'rd:0.1703', 'izium:0.1573', 'non:0.1516', 'information:0.1477', 'case:0.1434', 'severe:0.1423', 'resist:0.1402', 'division:0.1356', 'clarify:0.1321', 'care:0.1275', 'unknown:0.1152', 'current:0.0585']+titles_keywords+['ukraine:0.4311', 'pies:0.3777', 'civilians:0.3653', 'poisoned:0.3598', '500:0.1839']"
+        ]
+    ]
+}

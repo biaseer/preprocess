@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+46":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/Zelenskyy Says 9000 Leave Besieged Mariupol.txt+eventbasecode46+eventcode46+avgtone0.4854368932038835+goldsteinscale0.85+nummentions0.6658200290275762+numarticles0.33321247280638144+numsources0.3684210526315789+news_keywords+['kyiv:0.5202', 'zelenskyy:0.4918', 'ukrainians:0.4514', 'putin:0.4306', 'russian:0.4007', 'blockade:0.3195', 'humanitarian:0.2145', 'surrounded:0.2015', 'leave:0.1982', 'troop:0.1847', 'cooperate:0.1791', 'mariupol:0.1785', 'safety:0.1598', 'supply:0.1505', 'catastrophe:0.1485', 'update:0.1375', 'live:0.1315', 'hear:0.1237', 'note:0.1117', 'corridor:0.1098', 'coverage:0.1048', 'reach:0.1032', 'nighttime:0.098', 'video:0.0912', 'directly:0.0802', 'says:0.0738', 'send:0.0638', 'thousand:0.0611', 'large:0.058', 'able:0.052']+titles_keywords+['zelenskyy:0.4942', '9000:0.3994', 'besieged:0.387', 'mariupol:0.3013', 'leave:0.2485']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220113+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/Ukraine Deals With Aggression From Russia on a Daily Basis Top Ukrainian Official Says.txt+eventbasecode46+eventcode46+avgtone0.4849211788896505+goldsteinscale0.85+nummentions0.005805515239477504+numarticles0.005076142131979695+numsources0.013157894736842105+news_keywords+['ukraine:0.4679', 'geopolitical:0.4591', 'nato:0.4378', 'kremlin:0.4174', 'diplomatic:0.3413', 'invade:0.327', 'reuters:0.3218', 'pipeline:0.2962', 'cybersecurity:0.2904', 'deterrence:0.272', 'governance:0.2656', 'veto:0.2494', 'eastward:0.2415', 'coincide:0.2353', 'concern:0.2341', 'table:0.2098', 'order:0.2045', 'schism:0.1918', 'know:0.1895', 'prepare:0.1816', 'subversion:0.172', 'current:0.1573', 'example:0.1568', 'continue:0.1559', 'transit:0.1526', 'sure:0.1462', 'exactly:0.1426', 'integration:0.1415', 'pro:0.1263', 'week:0.1078']+titles_keywords+['ukraine:0.4004', 'aggression:0.3195', 'daily:0.2623', 'deals:0.0648', 'says:0.0562']"
+        ]
+    ]
+}

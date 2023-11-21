@@ -1,0 +1,30 @@
+{
+    "CHN+RUS+51":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/shanghainews.net/Premier Li Offers Chinas Help for Grave Ukraine Situation.txt+eventbasecode51+eventcode51+avgtone0.48958333333333337+goldsteinscale0.67+nummentions0.061683599419448475+numarticles0.06236403190717912+numsources0.08223684210526316+news_keywords+['ukraine:0.4102', 'beijing:0.3556', 'keqiang:0.2735', 'peaceful:0.2687', 'humanitarian:0.2583', 'conflict:0.2552', 'sovereignty:0.2521', 'sanction:0.2441', 'economy:0.2361', 'disinformation:0.2356', 'role:0.222', 'li:0.201', 'jinping:0.1907', 'help:0.1886', 'leader:0.1871', 'world:0.1781', 'neutral:0.1753', 'news:0.1683', 'continue:0.1678', 'speak:0.1501', 'party:0.148', 'refer:0.1475', 'ready:0.135', 'encourage:0.1343', 'include:0.1133', 'false:0.0979', 'second:0.0866', 'largely:0.0831', 'basis:0.0658', 'rubber:0.0535']+titles_keywords+['li:0.326', 'ukraine:0.2989', 'chinas:0.2618', 'help:0.1736', 'offers:0.0327']"
+        ],
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/shanghainews.net/Chinas neutrality over Ukraine war a defacto support for Russia says expert.txt+eventbasecode51+eventcode51+avgtone0.4772727272727273+goldsteinscale0.67+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.019736842105263157+news_keywords+['ukraine:0.4536', 'putin:0.4006', 'neutrality:0.3596', 'war:0.3337', 'strategic:0.2769', 'opposite:0.2258', 'chinese:0.2251', 'translate:0.2233', 'portray:0.1948', 'ally:0.1947', 'biden:0.1816', 'expert:0.1736', 'concerned:0.1722', 'jinping:0.1715', 'nominal:0.1622', 'initiatives:0.1621', 'opine:0.1568', 'talk:0.1561', 'future:0.1499', 'agreement:0.1491', 'degree:0.1454', 'hesitate:0.1421', 'compel:0.1347', 'awkward:0.1347', 'continue:0.1219', 'make:0.1131', 'equipment:0.1', 'nexus:0.0865', 'centre:0.0863', 'tightrope:0.0779']+titles_keywords+['ukraine:0.3507', 'neutrality:0.3339', 'expert:0.2354', 'war:0.2242', 'says:0.0676']"
+        ]
+    ],
+    "EUR+UKR+51":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/shanghainews.net/Polish president first leader to speak before Ukraine parliament.txt+eventbasecode51+eventcode51+avgtone0.4976958525345622+goldsteinscale0.67+nummentions0.03447024673439768+numarticles0.03517041334300217+numsources0.03289473684210526+news_keywords+['ukraine:0.457', 'putin:0.4305', 'polish:0.3561', 'andrzej:0.3175', 'ceasefire:0.3015', 'president:0.2683', 'parliament:0.2588', 'nation:0.2281', 'invasion:0.193', 'duda:0.1901', 'agreement:0.1885', 'union:0.1866', 'speak:0.1722', 'world:0.1687', 'future:0.1647', 'position:0.163', 'appear:0.1547', 'sanction:0.1537', 'person:0.1521', 'economic:0.1479', 'ally:0.1304', 'strong:0.1212', 'worrying:0.1173', 'cede:0.1099', 'week:0.0977', 'start:0.0898', 'th:0.0586', 'add:0.0528', 'withdraw:0.0515', 'centimeter:0.0482']+titles_keywords+['polish:0.3924', 'ukraine:0.3161', 'leader:0.2591', 'speak:0.2553', 'parliament:0.2458']"
+        ]
+    ],
+    "IND+RUS+51":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/shanghainews.net/RSS chief lauds Indias balanced approach in RussiaUkraine conflict.txt+eventbasecode51+eventcode51+avgtone0.4984662576687116+goldsteinscale0.67+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.023026315789473683+news_keywords+['ukraine:0.3755', 'indias:0.3319', 'war:0.3175', 'mohan:0.2868', 'oppose:0.2757', 'rashtriya:0.2346', 'approach:0.2323', 'balanced:0.2187', 'provide:0.2156', 'power:0.211', 'organisation:0.2076', 'economic:0.2023', 'bhagwat:0.1967', 'talk:0.1917', 'issue:0.1899', 'conclusion:0.1686', 'rss:0.1622', 'note:0.1574', 'rise:0.1529', 'centre:0.151', 'western:0.1478', 'ani:0.1461', 'hold:0.1267', 'rag:0.1244', 'arm:0.1121', 'enhance:0.1114', 'chief:0.0972', 'laud:0.0908', 'add:0.0764', 'thursday:0.0594']+titles_keywords+['indias:0.3156', 'russiaukraine:0.2955', 'rss:0.2881', 'balanced:0.2667', 'conflict:0.2121']"
+        ]
+    ],
+    "MMR+RUS+51":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/shanghainews.net/Myanmar junta blames Ukraine for the Russian invasion.txt+eventbasecode51+eventcode51+avgtone0.48066298342541436+goldsteinscale0.67+nummentions0.05660377358490566+numarticles0.05728788977519942+numsources0.17763157894736842+news_keywords+['myanmar:0.4516', 'ukrainian:0.3984', 'junta:0.3496', 'invasion:0.3219', 'nato:0.3082', 'vladimir:0.2924', 'blame:0.2384', 'president:0.1976', 'history:0.1961', 'puppet:0.1839', 'myint:0.1616', 'wrong:0.1554', 'people:0.15', 'happen:0.1483', 'reiterate:0.142', 'write:0.1316', 'casualty:0.1238', 'title:0.1223', 'page:0.1035', 'chose:0.1031', 'commentary:0.0985', 'praise:0.0952', 'learned:0.0934', 'foresight:0.0878', 'plot:0.0844', 'quietly:0.0593', 'mouthpiece:0.0576', 'failing:0.0558', 'add:0.0547', 'build:0.0368']+titles_keywords+['myanmar:0.3581', 'junta:0.3096', 'invasion:0.2941', 'blames:0.2742', 'russian:0.2395']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/shanghainews.net/Mattis Putin Goes to Bed at Night Fearful.txt+eventbasecode51+eventcode51+avgtone0.4803646563814867+goldsteinscale0.67+nummentions0.09288824383164006+numarticles0.09354604786076867+numsources0.06578947368421052+news_keywords+['putin:0.4382', 'nato:0.4112', 'mattis:0.3686', 'diplomatic:0.3685', 'seoul:0.3551', 'turkmenistan:0.3286', 'war:0.3177', 'dostoevsky:0.2841', 'democracies:0.2663', 'talk:0.2617', 'north:0.2465', 'redeploy:0.2395', 'outcome:0.2317', 'world:0.2244', 'night:0.2121', 'relation:0.2041', 'fearful:0.2027', 'foreign:0.2018', 'compare:0.201', 'avoid:0.1934', 'suk:0.1704', 'state:0.1628', 'long:0.1541', 'abbreviation:0.1474', 'come:0.1414', 'smart:0.141', 'draw:0.137', 'praise:0.1325', 'nontraditional:0.1248', 'week:0.1225']+titles_keywords+['mattis:0.5722', 'putin:0.4637', 'fearful:0.4073', 'night:0.3177', 'bed:0.3122']"
+        ]
+    ]
+}

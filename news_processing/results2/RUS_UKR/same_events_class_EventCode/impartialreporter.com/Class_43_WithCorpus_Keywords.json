@@ -1,0 +1,17 @@
+{
+    "GBR+UKR+43":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Ukrainian visa delays are a national embarrassment says British host.txt+eventbasecode43+eventcode43+avgtone0.49261083743842365+goldsteinscale0.64+nummentions0.14332365747460088+numarticles0.14394488759970994+numsources0.2565789473684211+news_keywords+['ukraine:0.445', 'refugee:0.4263', 'visa:0.3868', 'putins:0.3294', 'political:0.2586', 'boris:0.258', 'invasion:0.2433', 'scheme:0.2382', 'leave:0.2382', 'housing:0.2351', 'row:0.2283', 'farnham:0.2118', 'rubbish:0.2082', 'turn:0.1879', 'issue:0.1834', 'delay:0.1804', 'capital:0.1772', 'attraction:0.1656', 'desperately:0.1524', 'soon:0.1479', 'fact:0.1387', 'way:0.1352', 'safe:0.1319', 'mp:0.1263', 'sure:0.1163', 'fewer:0.1017', 'big:0.0953', 'middle:0.0848', 'simplify:0.0838', 'include:0.0767']+titles_keywords+['ukrainian:0.3681', 'delays:0.3398', 'embarrassment:0.313', 'visa:0.2695', 'says:0.1095']"
+        ]
+    ],
+    "POL+UKR+43":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/They were shooting civilians says Ukrainian who fled to Poland for safety.txt+eventbasecode43+eventcode43+avgtone0.4685483870967742+goldsteinscale0.64+nummentions0.13570391872278664+numarticles0.1363306744017404+numsources0.20394736842105263+news_keywords+['kyiv:0.4826', 'refugee:0.4164', 'russians:0.4132', 'evacuation:0.3972', 'civilians:0.3738', 'war:0.339', 'blockade:0.2879', 'diekov:0.2861', 'investigation:0.2453', 'kill:0.2368', 'contingency:0.2238', 'turn:0.2073', 'corridor:0.2065', 'witness:0.2047', 'river:0.1835', 'afraid:0.1773', 'continue:0.1767', 'increasingly:0.165', 'arrive:0.1624', 'span:0.1589', 'world:0.1547', 'anna:0.1535', 'ihor:0.1516', 'thousand:0.1348', 'forced:0.1296', 'port:0.1284', 'official:0.1209', 'potapola:0.1158', 'state:0.0755', 'true:0.0545']+titles_keywords+['ukrainian:0.4323', 'civilians:0.4228', 'shooting:0.3249', 'fled:0.2782', 'says:0.0544']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220201+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Boris Johnson uses Ukraine trip to urge Russia to step back.txt+eventbasecode43+eventcode43+avgtone0.48214285714285715+goldsteinscale0.64+nummentions0.14150943396226415+numarticles0.14213197969543148+numsources0.1611842105263158+news_keywords+['diplomacy:0.4199', 'ukraine:0.3973', 'kremlin:0.3877', 'boris:0.3833', 'zelensky:0.2341', 'downing:0.2316', 'johnson:0.2202', 'president:0.2049', 'trip:0.1912', 'volodymyr:0.1903', 'lockdown:0.1878', 'sanction:0.169', 'hostility:0.1682', 'scandal:0.1627', 'warn:0.1599', 'surround:0.1395', 'step:0.139', 'street:0.1278', 'cross:0.121', 'military:0.1182', 'force:0.1164', 'party:0.1135', 'course:0.1016', 'prime:0.0827', 'world:0.0807', 'vital:0.0781', 'believe:0.0752', 'ready:0.0726', 'choose:0.0591', 'possible:0.0306']+titles_keywords+['boris:0.3593', 'ukraine:0.3589', 'trip:0.1934', 'urge:0.0782', 'uses:-0.0103']"
+        ]
+    ]
+}

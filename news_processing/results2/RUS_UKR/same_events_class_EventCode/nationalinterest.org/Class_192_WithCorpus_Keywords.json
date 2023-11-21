@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220729+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/Russia and Ukraine Prepare for a Showdown in Kherson.txt+eventbasecode192+eventcode192+avgtone0.47898230088495575+goldsteinscale0.025+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.5', 'ukraines:0.4931', 'redeploy:0.303', 'zelenskyy:0.2703', 'prepare:0.2648', 'demolish:0.2569', 'russo:0.2519', 'bridge:0.2514', 'operation:0.2506', 'fight:0.2503', 'reuters:0.2416', 'missile:0.2415', 'promptly:0.2215', 'align:0.2169', 'scare:0.2167', 'turn:0.2158', 'security:0.2025', 'understand:0.1933', 'eastern:0.1879', 'respond:0.1843', 'begin:0.174', 'forces:0.1516', 'counter:0.1496', 'counteroffensive:0.1353', 'state:0.1308', 'presidential:0.1282', 'entire:0.1206', 'huge:0.1146', 'month:0.1062', 'unable:0.105']+titles_keywords+['ukraine:0.4762', 'kherson:0.4477', 'showdown:0.3558', 'russia:0.3118', 'prepare:0.2808']"
+        ]
+    ],
+    "UKR+UKR+192":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/Germany and France Expel Russian Diplomats After Bucha Massacre.txt+eventbasecode192+eventcode192+avgtone0.4630541871921182+goldsteinscale0.025+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['natos:0.4232', 'kremlin:0.4008', 'kyiv:0.3709', 'invading:0.3626', 'diplomatic:0.3462', 'massacre:0.3449', 'espionage:0.3266', 'expel:0.3061', 'sanction:0.2774', 'nazis:0.2761', 'germany:0.2722', 'french:0.2585', 'troop:0.2509', 'incident:0.2348', 'occupied:0.229', 'bucha:0.2279', 'respond:0.1766', 'order:0.1666', 'hospital:0.1606', 'annalena:0.1595', 'alternatively:0.1588', 'pressure:0.1473', 'monday:0.141', 'baerbock:0.1309', 'step:0.1199', 'summarily:0.1165', 'increase:0.1087', 'similar:0.1011', 'link:0.0894', 'boundless:0.0879']+titles_keywords+['diplomats:0.3691', 'expel:0.3091', 'massacre:0.2943', 'germany:0.2638', 'bucha:0.2176']"
+        ]
+    ],
+    "WST+UKR+192":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/The United States Can Be Ukraines Eye in the Sky.txt+eventbasecode192+eventcode192+avgtone0.4880668257756563+goldsteinscale0.025+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.5183', 'ukrainefor:0.4744', 'pentagon:0.3888', 'russians:0.3552', 'surveillance:0.2859', 'aircraft:0.2828', 'armyacquisition:0.2744', 'advantage:0.2348', 'convoy:0.2325', 'attack:0.2188', 'hawk:0.1896', 'assistance:0.1759', 'western:0.1628', 'osborn:0.1612', 'range:0.1574', 'news:0.1452', 'biden:0.1451', 'expert:0.1403', 'possibility:0.1333', 'order:0.1305', 'reshape:0.1232', 'increasingly:0.1219', 'isr:0.1156', 'images:0.113', 'clear:0.1113', 'aspect:0.1053', 'panoply:0.1015', 'control:0.1003', 'include:0.0869', 'say:0.0623']+titles_keywords+['ukraines:0.5503', 'sky:0.2018', 'eye:0.1883', 'states:0.146', 'united:0.1106']"
+        ]
+    ]
+}

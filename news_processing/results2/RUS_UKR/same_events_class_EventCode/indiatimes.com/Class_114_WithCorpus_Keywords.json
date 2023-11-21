@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+114":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/indiatimes.com/US will not let Russia intimidate Europe with energy cuts Biden.txt+eventbasecode114+eventcode114+avgtone0.45038167938931295+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['nato:0.3931', 'undermine:0.3805', 'biden:0.3691', 'blackmail:0.3223', 'moscow:0.2841', 'intimidate:0.2699', 'gas:0.2538', 'sanction:0.2528', 'embolden:0.2497', 'supply:0.2459', 'aggression:0.237', 'european:0.2344', 'invasion:0.211', 'ally:0.2101', 'allow:0.2058', 'avoid:0.196', 'blinken:0.1829', 'thursday:0.1717', 'say:0.1707', 'cut:0.1658', 'help:0.165', 'result:0.157', 'resource:0.1526', 'element:0.1338', 'point:0.1317', 'include:0.1208', 'compensate:0.1192', 'shortfall:0.1075', 'state:0.0947', 'house:0.0624']+titles_keywords+['biden:0.3778', 'russia:0.3204', 'intimidate:0.2641', 'energy:0.1902', 'cuts:0.1155']"
+        ]
+    ],
+    "RUS+RUS+114":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Ukraine war what are the risks that Russia will turn to its nuclear arsenal.txt+eventbasecode114+eventcode114+avgtone0.46927083333333336+goldsteinscale0.4+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['putin:0.429', 'ukraine:0.4158', 'nato:0.4131', 'nuclear:0.3847', 'readiness:0.3444', 'war:0.343', 'strategist:0.3225', 'preemptive:0.3176', 'escalation:0.2997', 'deterrence:0.2948', 'armageddon:0.2935', 'implications:0.2656', 'pursue:0.2116', 'debate:0.2096', 'turn:0.1972', 'article:0.1883', 'option:0.1771', 'ominously:0.1733', 'categorisation:0.1678', 'term:0.1676', 'note:0.1545', 'afraid:0.1517', 'order:0.1515', 'differentiate:0.145', 'use:0.1444', 'spook:0.1204', 'include:0.1179', 'state:0.1121', 'grow:0.1058', 'great:0.0503']+titles_keywords+['ukraine:0.4126', 'nuclear:0.4096', 'risks:0.3642', 'war:0.3319', 'turn:0.1569']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+80":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/postandcourier.com/Lowry Germany is the worst ally.txt+eventbasecode80+eventcode80+avgtone0.47962154294032017+goldsteinscale0.75+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4766', 'nato:0.4421', 'geopolitical:0.4101', 'putin:0.3953', 'diplomacy:0.3732', 'pipeline:0.2827', 'ally:0.2474', 'revisionist:0.2143', 'incursion:0.1936', 'gdp:0.1927', 'scrap:0.1723', 'worry:0.1646', 'shirk:0.1609', 'howitzer:0.1532', 'countermeasure:0.1494', 'bad:0.1391', 'biden:0.129', 'include:0.1217', 'upward:0.1205', 'say:0.1195', 'long:0.1192', 'thursday:0.113', 'squeeze:0.1107', 'categorical:0.0982', 'fixate:0.0978', 'field:0.096', 'buy:0.0901', 'export:0.0892', 'link:0.0632', 'true:0.0587']+titles_keywords+['lowry:0.4389', 'ally:0.3496', 'germany:0.3244', 'worst:0.2438']"
+        ]
+    ],
+    "RUS+DEU+80":[
+        [
+            "20220106+../news_crawling/RUS_UKR/p_articles/postandcourier.com/Commentary Why US should support Ukraines freedom.txt+eventbasecode80+eventcode80+avgtone0.493125+goldsteinscale0.75+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.4662', 'ussr:0.4467', 'nato:0.4429', 'putin:0.4269', 'treaty:0.3545', 'democracy:0.316', 'independence:0.3114', 'invade:0.2908', 'bipartisanship:0.2898', 'eastward:0.28', 'oligarchs:0.2754', 'crisis:0.2489', 'consulate:0.242', 'statecraft:0.2338', 'peace:0.2175', 'remain:0.207', 'american:0.2012', 'consequence:0.2006', 'sudetenland:0.198', 'introduce:0.1963', 'know:0.1789', 'unambiguous:0.1783', 'assistance:0.1678', 'washingtons:0.1661', 'observer:0.1554', 'upcoming:0.154', 'long:0.1471', 'fight:0.147', 'deal:0.0969', 'century:0.0938']+titles_keywords+['ukraines:0.5009', 'freedom:0.4158', 'commentary:0.2566', 'support:0.2124']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "BEL+UKR+72":[
+        [
+            "20220624+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/US destabilising agricultural production Russian President Putin tells BRICS Plus summit.txt+eventbasecode72+eventcode72+avgtone0.4761904761904761+goldsteinscale0.915+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.5685', 'brics:0.4546', 'belarus:0.434', 'agricultural:0.292', 'destabilise:0.2801', 'business:0.2603', 'sanction:0.2388', 'develop:0.2308', 'global:0.2059', 'accuse:0.1728', 'summit:0.1689', 'bread:0.1585', 'hit:0.1547', 'address:0.153', 'format:0.1491', 'export:0.1461', 'unbalance:0.1436', 'obligation:0.1431', 'unprecedented:0.133', 'trap:0.1323', 'include:0.119', 'rising:0.1189', 'ap:0.118', 'troop:0.1142', 'feb:0.1077', 'ready:0.1014', 'population:0.0948', 'price:0.0853', 'honestly:0.0775', 'videoconference:0.0642']+titles_keywords+['putin:0.4711', 'brics:0.351', 'destabilising:0.2804', 'agricultural:0.2426', 'plus:-0.0208']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Pakistani PM urges Islamic nations China to mediate in Ukraine war.txt+eventbasecode72+eventcode72+avgtone0.46774193548387094+goldsteinscale0.915+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.006578947368421052+news_keywords+['islam:0.5111', 'taliban:0.4942', 'islamophobia:0.4888', 'terrorism:0.4729', 'islamabad:0.4098', 'ceasefire:0.3822', 'ukraine:0.3424', 'imran:0.3299', 'mahmood:0.2841', 'diplomat:0.2554', 'attack:0.2523', 'talk:0.251', 'statement:0.2298', 'acknowledge:0.2144', 'instead:0.2031', 'coronavirus:0.196', 'world:0.192', 'begin:0.184', 'human:0.1788', 'issue:0.1782', 'term:0.1749', 'organisation:0.1659', 'prevent:0.1586', 'differentiate:0.1583', 'tuesday:0.1477', 'stable:0.1441', 'th:0.1424', 'spillover:0.1216', 'wang:0.1165', 'pm:0.114']+titles_keywords+['mediate:0.3178', 'pakistani:0.2986', 'ukraine:0.2586', 'pm:0.1771', 'war:0.1741']"
+        ]
+    ]
+}

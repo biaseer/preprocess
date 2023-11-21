@@ -1,0 +1,12 @@
+{
+    "FIN+UKR+42":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/china.org.cn/NATOs expansion to worsen Ukraine crisis decay European security.txt+eventbasecode42+eventcode42+avgtone0.49333333333333335+goldsteinscale0.595+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['natos:0.5815', 'kremlin:0.3085', 'increase:0.2555', 'dmitry:0.2499', 'eastward:0.2456', 'finland:0.2344', 'deploy:0.2245', 'alignment:0.2227', 'stability:0.2074', 'transformation:0.1955', 'concern:0.1766', 'continue:0.1575', 'disintegration:0.1482', 'area:0.1352', 'accession:0.1347', 'add:0.1232', 'long:0.1151', 'weapon:0.1118', 'step:0.1116', 'defense:0.1097', 'outbreak:0.1034', 'soon:0.1013', 'make:0.0974', 'km:0.0897', 'confirm:0.0833', 'existence:0.0719', 'include:0.0689', 'buffer:0.0662', 'welcome:0.0292', 'justifiably:0.0018']+titles_keywords+['natos:0.5666', 'expansion:0.2722', 'crisis:0.2408', 'worsen:0.1971', 'security:0.1793']"
+        ]
+    ],
+    "RUS+TUR+42":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/china.org.cn/Russia Ukraine make progress in ceasefire negotiations Turkish FM.txt+eventbasecode42+eventcode42+avgtone0.49785407725321884+goldsteinscale0.595+nummentions0.011248185776487663+numarticles0.011965192168237854+numsources0.013157894736842105+news_keywords+['ceasefire:0.456', 'crimea:0.423', 'diplomacy:0.3958', 'kiev:0.3762', 'turkey:0.3216', 'negotiate:0.3209', 'talk:0.2546', 'agreement:0.2518', 'progress:0.2238', 'issue:0.1599', 'presidential:0.154', 'point:0.1499', 'article:0.1487', 'respectively:0.148', 'hopeful:0.1457', 'step:0.1391', 'spokesperson:0.1257', 'close:0.1249', 'current:0.1184', 'reiterate:0.1173', 'attend:0.1114', 'mevlut:0.095', 'week:0.0878', 'make:0.0867', 'nazification:0.0763', 'fm:0.0757', 'fundamental:0.0754', 'high:0.0567', 'onset:0.0556', 'sideline:0.0245']+titles_keywords+['ukraine:0.3936', 'ceasefire:0.3668', 'negotiations:0.2629', 'progress:0.2279', 'fm:0.1261']"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "AUS+UKR+60":[
+        []
+    ],
+    "EUR+RUS+60":[
+        [],
+        []
+    ],
+    "EUR+UKR+60":[
+        []
+    ],
+    "GBR+RUS+60":[
+        [],
+        [
+            "20220610+../news_crawling/RUS_UKR/p_articles/msn.com/Liz Truss to discuss Britons death sentences with Ukraine counterpart.txt+eventbasecode60+eventcode60+avgtone0.47331639135959336+goldsteinscale0.8+nummentions0.15892597968069666+numarticles0.15953589557650472+numsources0.18092105263157895+news_keywords+['ukraine:0.4198', 'putins:0.369', 'prisoner:0.3331', 'war:0.3174', 'combatant:0.3085', 'diplomatic:0.303', 'constituency:0.2757', 'prosecute:0.2555', 'narrative:0.2452', 'unprovoked:0.2309', 'armed:0.2141', 'concern:0.2051', 'geneva:0.1915', 'sentence:0.1897', 'truss:0.1813', 'news:0.1808', 'dmytro:0.1577', 'alongside:0.148', 'hold:0.145', 'read:0.1417', 'overturn:0.1394', 'robert:0.1357', 'course:0.1351', 'utterly:0.1291', 'shouldnt:0.1126', 'soon:0.1126', 'aslin:0.1078', 'thats:0.1', 'sham:0.0946', 'bilateral:0.087']+titles_keywords+['truss:0.3744', 'ukraine:0.2986', 'liz:0.2595', 'death:0.168', 'discuss:0.1572']"
+        ]
+    ],
+    "GBR+UKR+60":[
+        []
+    ],
+    "KOR+UKR+60":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/msn.com/S Korea mulling expanding support to Ukraine trade chief.txt+eventbasecode60+eventcode60+avgtone0.4980392156862745+goldsteinscale0.8+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4825', 'seoul:0.2678', 'humanitarian:0.2636', 'economy:0.2569', 'invasion:0.2463', 'strategic:0.2371', 'military:0.2242', 'assistance:0.2225', 'transaction:0.2103', 'meeting:0.2035', 'global:0.1951', 'crisis:0.193', 'defend:0.1732', 'videoconference:0.1731', 'koo:0.1518', 'export:0.1514', 'include:0.1467', 'bank:0.1451', 'join:0.1405', 'halt:0.135', 'quick:0.1308', 'consider:0.1229', 'wednesday:0.1097', 'million:0.1073', 'affiliate:0.107', 'hand:0.1056', 'swift:0.0985', 'yeo:0.0819', 'material:0.044', 'chiefs:0.0421']+titles_keywords+['korea:0.3419', 'support:0.2309', 'expanding:0.0986', 'trade:0.0951', 'chief:0.0917']"
+        ]
+    ],
+    "NZL+UKR+60":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/msn.com/UkraineRussia War Some 20 countries commit to new security aid for Ukraine.txt+eventbasecode60+eventcode60+avgtone0.4761658031088083+goldsteinscale0.8+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.5416', 'airstrike:0.4308', 'casualties:0.3856', 'pravda:0.3473', 'dnipropetrovsk:0.3101', 'government:0.2976', 'separatist:0.2814', 'emergency:0.2806', 'conflict:0.2802', 'destroy:0.2618', 'armed:0.2604', 'strike:0.2566', 'hostage:0.2534', 'ermochenkoreuters:0.2524', 'news:0.2416', 'tank:0.2298', 'coordinate:0.2253', 'cite:0.2195', 'reinforce:0.1925', 'march:0.1779', 'symbolsukraine:0.165', 'continuesa:0.1607', 'yahidne:0.1598', 'tell:0.1578', 'general:0.1553', 'railway:0.1527', 'dozen:0.1433', 'like:0.1425', 'davos:0.1377', 'residential:0.1269']+titles_keywords+['ukraine:0.5244', 'war:0.345', 'aid:0.2547', '20:0.179', 'commit:0.1367']"
+        ]
+    ],
+    "RUS+UKR+60":[
+        [],
+        [],
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/msn.com/The Latest Russia continues strikes on Kyiv suburbs.txt+eventbasecode60+eventcode60+avgtone0.47297297297297297+goldsteinscale0.8+nummentions0.3980406386066763+numarticles0.39847715736040606+numsources0.5855263157894737+news_keywords+['kyiv:0.519', 'kremlin:0.4547', 'airstrikes:0.428', 'nato:0.3904', 'chernobyl:0.347', 'civilians:0.345', 'combatant:0.2919', 'ivano:0.2896', 'decommission:0.2811', 'diplomatic:0.281', 'deploy:0.2569', 'territory:0.25', 'intensify:0.2476', 'flee:0.2364', 'occur:0.2263', 'news:0.2162', 'agreement:0.1963', 'worry:0.1911', 'corridor:0.1862', 'rewrite:0.1824', 'western:0.1788', 'justification:0.1787', 'hit:0.1775', 'assistance:0.1729', 'count:0.1709', 'kilometer:0.1677', 'transit:0.1633', 'perilously:0.1389', 'heartbreaking:0.1275', 'long:0.1147']+titles_keywords+['kyiv:0.5571', 'strikes:0.3404', 'suburbs:0.1812', 'continues:0.1598', 'latest:0.0794']",
+            "20220315+../news_crawling/RUS_UKR/p_articles/msn.com/Why Ukraine war misinformation is so hard to police.txt+eventbasecode60+eventcode60+avgtone0.4717741935483871+goldsteinscale0.8+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.009868421052631578+news_keywords+['propaganda:0.5244', 'ukraine:0.4554', 'war:0.3972', 'upheaval:0.3181', 'news:0.3167', 'influencers:0.2877', 'government:0.2856', 'content:0.2596', 'facebook:0.2561', 'text:0.2387', 'flood:0.2386', 'covid:0.2194', 'know:0.208', 'concern:0.2055', 'report:0.2034', 'example:0.1934', 'complexity:0.191', 'avoid:0.1876', 'satellite:0.1837', 'human:0.1744', 'coordinate:0.1737', 'perpetuate:0.1731', 'terrain:0.1664', 'true:0.157', 'spread:0.1503', 'brief:0.1422', 'dmytro:0.1304', 'million:0.1241', 'difference:0.1179', 'hot:0.0706']+titles_keywords+['misinformation:0.4489', 'ukraine:0.4151', 'war:0.3831', 'police:0.2384', 'hard:0.0942']"
+        ],
+        [],
+        [],
+        []
+    ],
+    "UKR+RUS+60":[
+        [],
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/msn.com/Russian State Media Declares War On Arnold Schwarzenegger After He Issues Message To Putins People.txt+eventbasecode60+eventcode60+avgtone0.4689655172413793+goldsteinscale0.8+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['putins:0.4894', 'kremlin:0.476', 'russian:0.4506', 'ukrainewho:0.4453', 'propaganda:0.4134', 'russophobia:0.3864', 'yuri:0.3774', 'invasion:0.3432', 'celebrity:0.3161', 'conflict:0.2805', 'schwartzenegger:0.269', 'telegram:0.2434', 'arnold:0.2402', 'vadim:0.2016', 'video:0.2002', 'soldier:0.1988', 'rag:0.1926', 'boy:0.1906', 'unjustifiable:0.1839', 'address:0.1755', 'retort:0.1743', 'written:0.172', 'like:0.1689', 'reach:0.1615', 'handshake:0.1602', 'listen:0.1596', 'world:0.1507', 'state:0.1287', 'population:0.1287', 'long:0.0947']+titles_keywords+['schwarzenegger:0.4028', 'russian:0.3316', 'war:0.3084', 'message:0.1464', 'state:0.1406']"
+        ],
+        [
+            "20220516+../news_crawling/RUS_UKR/p_articles/msn.com/International efforts to respond to Russian invasion of Ukraine pick up pace.txt+eventbasecode60+eventcode60+avgtone0.483695652173913+goldsteinscale0.8+nummentions0.1574746008708273+numarticles0.15808556925308195+numsources0.13486842105263158+news_keywords+['ukraine:0.5252', 'natos:0.4478', 'militarily:0.3696', 'invasion:0.3306', 'separatist:0.2788', 'evacuate:0.2744', 'embargo:0.2578', 'extend:0.2369', 'threat:0.2352', 'capital:0.2319', 'news:0.217', 'landlocked:0.21', 'foreseeable:0.2098', 'respond:0.2084', 'industrial:0.2048', 'align:0.2027', 'import:0.1951', 'triumphant:0.1904', 'battlefront:0.1827', 'severodonetsk:0.1817', 'help:0.1781', 'andersson:0.175', 'backfire:0.1717', 'turn:0.1705', 'order:0.1704', 'people:0.1528', 'presidential:0.1451', 'counteroffensive:0.1351', 'similar:0.1324', 'trt:0.1233']+titles_keywords+['ukraine:0.3778', 'invasion:0.3277', 'efforts:0.1955', 'respond:0.1747', 'pace:0.1245']"
+        ],
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/msn.com/Russia to continue military operation in Ukraine until all goals met.txt+eventbasecode60+eventcode60+avgtone0.48913043478260865+goldsteinscale0.8+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['ukraine:0.4381', 'evacuation:0.3249', 'operation:0.3242', 'sergei:0.3083', 'military:0.28', 'treaty:0.2761', 'humanitarian:0.2657', 'accomplish:0.2638', 'objective:0.2187', 'continue:0.2163', 'news:0.2117', 'goal:0.1954', 'xinhua:0.1946', 'increase:0.1665', 'sanction:0.1659', 'regime:0.1553', 'casualty:0.1549', 'cite:0.1418', 'corridor:0.1367', 'assistance:0.1361', 'despite:0.1225', 'february:0.1224', 'report:0.1201', 'avoid:0.1103', 'shoigu:0.1025', 'silence:0.0942', 'special:0.0878', 'western:0.0732', 'large:0.0687', 'pressure:0.0616']+titles_keywords+['ukraine:0.3531', 'continue:0.2506', 'military:0.2093', 'operation:0.1614', 'goals:0.1298']"
+        ]
+    ],
+    "USA+UKR+60":[
+        []
+    ],
+    "WST+UKR+60":[
+        [],
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/msn.com/Putin Humiliating Himself in Ukraine and Must Be Defeated UK Official.txt+eventbasecode60+eventcode60+avgtone0.48101265822784817+goldsteinscale0.8+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5647', 'crimea:0.4883', 'soviet:0.4147', 'kyiv:0.3943', 'nato:0.3929', 'saysrussian:0.3292', 'sanctions:0.3208', 'annexed:0.2639', 'incompetence:0.2246', 'aggression:0.2245', 'holocaust:0.2171', 'troop:0.2089', 'underperform:0.165', 'know:0.1621', 'bipartisan:0.1533', 'comparison:0.1425', 'oust:0.141', 'secretary:0.137', 'billion:0.1302', 'expectation:0.126', 'articles:0.1231', 'end:0.1204', 'stavridis:0.119', 'critical:0.1186', 'perpetuated:0.1107', 'thursday:0.1083', 'state:0.1054', 'help:0.0891', 'additionally:0.081', 'shockingly:0.074']+titles_keywords+['putin:0.5344', 'ukraine:0.4169', 'humiliating:0.3796', 'uk:0.2118', 'official:0.1389']"
+        ]
+    ]
+}

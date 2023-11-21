@@ -1,0 +1,12 @@
+{
+    "RUS+LVA+112":[
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/bnn-news.com/Russian army blamed for deaths of at least 346 children.txt+eventbasecode112+eventcode112+avgtone0.446153846153846+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.457', 'russian:0.427', 'bombing:0.3109', 'mykolaiv:0.3053', 'war:0.281', 'child:0.2748', 'artillery:0.2596', 'generals:0.2572', 'report:0.2415', 'kill:0.241', 'attack:0.232', 'zaporizhzhia:0.2239', 'blame:0.2147', 'severity:0.1678', 'occupied:0.1523', 'carry:0.1519', 'injured:0.1435', 'education:0.139', 'continue:0.1257', 'prosecutor:0.1134', 'website:0.1018', 'force:0.098', 'check:0.0911', 'july:0.0807', 'various:0.0796', 'final:0.0735', 'received:0.0596', 'entire:0.0479', 'especially:0.0466', 'possible:0.0431']+titles_keywords+['russian:0.3673', 'children:0.3492', 'army:0.2804', 'blamed:0.2767', '346:0.1902']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220826+../news_crawling/RUS_UKR/p_articles/bnn-news.com/World narrowly escapes nuclear catastrophe.txt+eventbasecode112+eventcode112+avgtone0.47353760445682447+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nuclear:0.464', 'catastrophe:0.379', 'ukraines:0.3712', 'russiaappointed:0.3279', 'safety:0.309', 'zelenskiy:0.2709', 'reuters:0.2562', 'concern:0.2207', 'power:0.2135', 'blackout:0.1974', 'roulette:0.1952', 'world:0.1849', 'occupy:0.1787', 'artillery:0.1741', 'president:0.1698', 'save:0.1678', 'grid:0.1652', 'avoided:0.1633', 'threaten:0.1612', 'enerhodar:0.1517', 'supervision:0.1442', 'narrowly:0.1417', 'react:0.1305', 'blame:0.13', 'function:0.1299', 'reach:0.1107', 'brain:0.1036', 'forest:0.08', 'good:0.0797', 'thousand:0.0378']+titles_keywords+['nuclear:0.4545', 'catastrophe:0.3206', 'world:0.2966', 'narrowly:0.285', 'escapes:0.2311']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+1384":[
+        [
+            "20220812+../news_crawling/RUS_UKR/p_articles/europesun.com/Radiation threat assessed around nuclear site attacked by Ukraine.txt+eventbasecode138+eventcode1384+avgtone0.4801652892561984+goldsteinscale0.15+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.006578947368421052+news_keywords+['nuclear:0.4752', 'kiev:0.3951', 'rossiya:0.3215', 'terrorism:0.303', 'danger:0.2924', 'vicinity:0.2693', 'operation:0.2544', 'zaporozhye:0.2529', 'iaea:0.2372', 'artillery:0.2238', 'occur:0.1959', 'report:0.1923', 'corroborate:0.19', 'protect:0.1891', 'diplomat:0.1888', 'targeting:0.1827', 'news:0.1611', 'plant:0.1572', 'order:0.1538', 'watchdog:0.1466', 'waste:0.136', 'th:0.1321', 'strike:0.1238', 'state:0.1043', 'site:0.0989', 'level:0.0971', 'allegedly:0.0944', 'head:0.0772', 'soon:0.0721', 'partially:0.0575']+titles_keywords+['nuclear:0.4561', 'radiation:0.4419', 'ukraine:0.3361', 'attacked:0.1579', 'site:0.0758']"
+        ]
+    ],
+    "UKR+RUS+1384":[
+        [
+            "20220506+../news_crawling/RUS_UKR/p_articles/europesun.com/Ukraine hints at timing of counteroffensive.txt+eventbasecode138+eventcode1384+avgtone0.48132780082987553+goldsteinscale0.15+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukrainianforces:0.5828', 'ukraine:0.4887', 'nato:0.4315', 'kremlin:0.3939', 'minsk:0.3544', 'coordinated:0.2638', 'attack:0.2485', 'brigade:0.2416', 'dispatch:0.2275', 'prognosis:0.2005', 'adviser:0.1913', 'warn:0.1911', 'neutral:0.1867', 'breakaway:0.1848', 'implement:0.1838', 'supply:0.1803', 'follow:0.169', 'quick:0.1687', 'april:0.1676', 'ongoing:0.1631', 'term:0.1606', 'end:0.1543', 'state:0.154', 'celebrate:0.1412', 'donbass:0.134', 'promise:0.1309', 'counteroffensive:0.1295', 'tv:0.097', 'send:0.0913', 'resolution:0.0836']+titles_keywords+['ukraine:0.445', 'timing:0.3046', 'counteroffensive:0.2483', 'hints:0.1008']"
+        ]
+    ]
+}

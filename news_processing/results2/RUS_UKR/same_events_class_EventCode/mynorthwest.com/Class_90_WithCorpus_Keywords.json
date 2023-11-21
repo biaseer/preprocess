@@ -1,0 +1,17 @@
+{
+    "CHE+UKR+90":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Russias isolation over Ukraine war grows at UN rights body.txt+eventbasecode90+eventcode90+avgtone0.47916666666666674+goldsteinscale0.4+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4519', 'putin:0.4041', 'tribunal:0.3713', 'genocide:0.3659', 'invasion:0.3485', 'war:0.3275', 'abstention:0.2876', 'prosecute:0.2692', 'government:0.2511', 'gatilov:0.2412', 'accountability:0.2212', 'isolate:0.2174', 'icc:0.2084', 'ambassador:0.2073', 'analyze:0.2061', 'evidence:0.2036', 'flag:0.1781', 'geneva:0.1777', 'culminate:0.1662', 'world:0.1583', 'include:0.1483', 'friday:0.1448', 'jacket:0.1393', 'approved:0.1263', 'yevheniia:0.1262', 'know:0.1157', 'despite:0.0928', 'new:0.0725', 'resolution:0.0684', 'increase:0.0684']+titles_keywords+['ukraine:0.4145', 'war:0.2811', 'isolation:0.2676', 'rights:0.1794', 'grows:0.1078']"
+        ]
+    ],
+    "EUR+UKR+90":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Biden Putin should face war crimes trial for Bucha killings.txt+eventbasecode90+eventcode90+avgtone0.4517374517374517+goldsteinscale0.4+nummentions0.5264876632801161+numarticles0.5250181290790428+numsources0.46710526315789475+news_keywords+['putin:0.5031', 'kyiv:0.478', 'genocide:0.381', 'sanction:0.3493', 'correspondent:0.346', 'diplomatic:0.3251', 'report:0.2904', 'allegation:0.272', 'generals:0.2355', 'retreat:0.2238', 'dangerous:0.2216', 'remind:0.2042', 'bucha:0.2015', 'view:0.2', 'avoid:0.1951', 'word:0.1871', 'unfold:0.1711', 'seat:0.1645', 'bidens:0.1567', 'come:0.1499', 'redistribute:0.1494', 'month:0.1362', 'house:0.1356', 'right:0.1329', 'sector:0.1328', 'additional:0.1271', 'toll:0.1262', 'state:0.1255', 'whats:0.1247', 'price:0.0883']+titles_keywords+['putin:0.4878', 'biden:0.3519', 'bucha:0.2749', 'killings:0.2705', 'trial:0.2366']"
+        ]
+    ],
+    "USA+UKR+90":[
+        [
+            "20220622+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Microsoft Russian cyber spying targets 42 Ukraine allies.txt+eventbasecode90+eventcode90+avgtone0.48199152542372886+goldsteinscale0.4+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.029605263157894735+news_keywords+['cyberattacks:0.526', 'russias:0.4476', 'nato:0.4414', 'ukrainian:0.4333', 'propaganda:0.3967', 'spy:0.3953', 'microsoft:0.3493', 'intrusion:0.3046', 'government:0.3034', 'invade:0.2964', 'virus:0.2919', 'threat:0.2522', 'operation:0.245', 'targeted:0.234', 'washington:0.2192', 'data:0.2181', 'report:0.1998', 'deflect:0.168', 'notpetya:0.1561', 'coinciding:0.152', 'ap:0.1312', 'donbas:0.1296', 'month:0.121', 'think:0.1187', 'conduit:0.1151', 'main:0.1002', 'increase:0.0968', 'page:0.0935', 'brad:0.0913', 'percent:0.0833']+titles_keywords+['ukraine:0.4116', 'microsoft:0.3753', 'spying:0.3628', 'allies:0.3383', '42:0.2159']"
+        ]
+    ]
+}

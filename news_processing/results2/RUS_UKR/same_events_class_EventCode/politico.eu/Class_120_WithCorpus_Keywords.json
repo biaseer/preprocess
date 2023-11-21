@@ -1,0 +1,17 @@
+{
+    "DEU+RUS+120":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/politico.eu/Germanys Scholz rejects calls to ban Russian oil and gas.txt+eventbasecode120+eventcode120+avgtone0.4832089552238806+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5443', 'putin:0.5069', 'government:0.3238', 'politico:0.3066', 'supply:0.2982', 'boycott:0.2948', 'cybersecurity:0.2925', 'berlin:0.2903', 'war:0.2688', 'gas:0.2654', 'sanction:0.2584', 'import:0.2131', 'scholz:0.2085', 'report:0.2039', 'volodymyr:0.1992', 'enterprise:0.1935', 'order:0.1781', 'emailprotected:0.1752', 'secretary:0.1699', 'analysis:0.1696', 'push:0.1631', 'alternative:0.1548', 'say:0.1385', 'importance:0.1381', 'bank:0.1327', 'rejection:0.1302', 'step:0.1299', 'end:0.1264', 'month:0.1223', 'today:0.1208']+titles_keywords+['scholz:0.3421', 'germanys:0.2494', 'oil:0.24', 'russian:0.2389', 'rejects:0.1913']"
+        ]
+    ],
+    "DEU+UKR+120":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/politico.eu/Western leaders implore Putin to step back from real risk of war.txt+eventbasecode120+eventcode120+avgtone0.4776500638569604+goldsteinscale0.3+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.457', 'nato:0.4435', 'ukraines:0.4142', 'invade:0.3576', 'war:0.3399', 'diplomatic:0.3204', 'escalation:0.2999', 'threaten:0.2828', 'impasse:0.229', 'border:0.2256', 'preparing:0.2185', 'agreement:0.204', 'table:0.2027', 'dangerous:0.2004', 'ally:0.1687', 'continue:0.1606', 'word:0.1584', 'friday:0.1569', 'pull:0.1539', 'join:0.1384', 'possibility:0.1281', 'big:0.1268', 'donbass:0.1242', 'fabricate:0.1137', 'hour:0.1089', 'new:0.1006', 'stoltenberg:0.0979', 'narrow:0.0949', 'unless:0.0882', 'pattern:0.0854']+titles_keywords+['putin:0.4666', 'war:0.2925', 'risk:0.2488', 'western:0.1925', 'implore:0.1442']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/politico.eu/Brussels Playbook Bigwigs and big talks Energy on the table Weber backs Borissov.txt+eventbasecode120+eventcode120+avgtone0.4837887067395264+goldsteinscale0.3+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.013157894736842105+news_keywords+['geopolitical:0.4823', 'nato:0.4716', 'russias:0.4494', 'annualpolitico:0.4417', 'policymakers:0.4158', 'sanctions:0.4079', 'reuters:0.4002', 'economy:0.3937', 'oligarch:0.3787', 'diplomat:0.363', 'briefing:0.3528', 'berlin:0.3271', 'faso:0.3084', 'polish:0.3005', 'vukovi:0.288', 'engineering:0.2699', 'reassessment:0.2697', 'diversify:0.2589', 'pipeline:0.2552', 'table:0.2323', 'coordinate:0.2261', 'remain:0.2257', 'covid:0.2149', 'proposal:0.2116', 'term:0.1996', 'head:0.1659', 'soon:0.1635', 'safe:0.1607', 'long:0.1565', 'unprecedented:0.1481']+titles_keywords+['borissov:0.4637', 'weber:0.4476', 'bigwigs:0.4367', 'talks:0.2566', 'table:0.2425']"
+        ]
+    ]
+}

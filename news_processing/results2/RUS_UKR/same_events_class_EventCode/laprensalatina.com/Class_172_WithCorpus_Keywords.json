@@ -1,0 +1,12 @@
+{
+    "CHE+UKR+172":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/UN accuses Russia of at least 24 cluster bomb attacks in Ukraine.txt+eventbasecode172+eventcode172+avgtone0.4506172839506173+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4133', 'unhcr:0.3898', 'treaty:0.3868', 'war:0.3622', 'munitions:0.334', 'humanitarian:0.331', 'invasion:0.2883', 'allegation:0.2608', 'crime:0.2299', 'investigate:0.2236', 'indiscriminate:0.2183', 'bachelets:0.2168', 'prohibit:0.2069', 'cluster:0.1982', 'geneva:0.1867', 'infrastructure:0.1781', 'rights:0.1715', 'council:0.1677', 'child:0.1582', 'begin:0.1435', 'include:0.1353', 'come:0.1311', 'power:0.129', 'efe:0.1144', 'say:0.109', 'confirm:0.1018', 'toll:0.0981', 'month:0.0915', 'increase:0.0905', 'significant:0.0777']+titles_keywords+['ukraine:0.3912', 'accuses:0.2633', 'cluster:0.2298', 'bomb:0.2262', '24:0.162']"
+        ]
+    ],
+    "UKR+RUS+172":[
+        [
+            "20220526+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Russian bombs kill 5 in Kharkiv.txt+eventbasecode172+eventcode172+avgtone0.4783393501805054+goldsteinscale0.25+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4419', 'moscows:0.4274', 'emergency:0.376', 'kharkiv:0.373', 'evacuate:0.3632', 'bomb:0.3538', 'shrapnel:0.3364', 'missile:0.3288', 'kill:0.3012', 'military:0.2984', 'invasion:0.2696', 'city:0.2349', 'arrive:0.232', 'revive:0.2165', 'strike:0.2108', 'provide:0.1919', 'stage:0.1892', 'fell:0.1872', 'efe:0.1829', 'focal:0.1707', 'hear:0.1695', 'forgotten:0.1587', 'yegor:0.1536', 'people:0.1479', 'stairs:0.1477', 'point:0.1294', 'way:0.1182', 'large:0.1157', 'pm:0.1013', 'husband:0.1009']+titles_keywords+['bombs:0.4329', 'kharkiv:0.3851', 'russian:0.3641', 'kill:0.2258']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/thescottishsun.co.uk/Ukraine war LIVE Evil Putin uses Victory Day speech to spout twisted lies about West.txt+eventbasecode111+eventcode111+avgtone0.48584905660377353+goldsteinscale0.4+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['putin:0.5161', 'crimea:0.4696', 'ukrainians:0.4372', 'war:0.3619', 'therussianleader:0.3421', 'zelenskyyua:0.3383', 'news:0.3205', 'unprovoked:0.2837', 'telegram:0.2762', 'preside:0.2726', 'reform:0.2525', 'khreshchatyk:0.2373', 'write:0.2348', 'watch:0.234', 'cheer:0.2291', 'concern:0.2176', 'historic:0.2145', 'undergocancer:0.2125', 'forget:0.2116', 'prepared:0.2044', 'end:0.1941', 'want:0.1916', 'thedoomsday:0.1799', 'false:0.1792', 'attendees:0.1647', 'large:0.1471', 'ribbon:0.1456', 'wont:0.143', 'really:0.1182', 'decliningphysical:0.0596']+titles_keywords+['putin:0.4994', 'invade:0.3328', 'victory:0.2488', 'speech:0.2416', 'lies:0.2102']"
+        ],
+        [
+            "20220516+../news_crawling/RUS_UKR/p_articles/thescottishsun.co.uk/UkraineRussia war LIVE Madman Putin will weaponise cost of living crisis to send Britains food.txt+eventbasecode111+eventcode111+avgtone0.47533632286995514+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['onrussianmilitary:0.5555', 'kyiv:0.493', 'putin:0.484', 'ceasefire:0.4695', 'russianweapondesigners:0.4691', 'nato:0.4609', 'reuters:0.3821', 'readiness:0.3432', 'finlandandswedensubmitted:0.3391', 'colonel:0.2931', 'table:0.2501', 'urgent:0.2429', 'know:0.2329', 'resume:0.2207', 'withputinwarning:0.2157', 'alignment:0.2106', 'world:0.2087', 'sector:0.2085', 'long:0.2', 'pragmatic:0.1966', 'nomenclature:0.1892', 'increase:0.1835', 'horrific:0.1785', 'end:0.1781', 'televise:0.1758', 'allegation:0.1643', 'forcancer:0.1572', 'tocross:0.151', 'sure:0.1458', 'decade:0.1001']+titles_keywords+['putin:0.4741', 'war:0.3712', 'britains:0.2754', 'live:0.2133', 'prices:0.2083']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220820+../news_crawling/RUS_UKR/p_articles/thescottishsun.co.uk/Ukraine news LATEST Evil Vladimir Putin ramping up attacks on CIVILIANS as tyrant failing on.txt+eventbasecode111+eventcode111+avgtone0.4673913043478261+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.5325', 'kremlin:0.4345', 'kuybyshevsky:0.3315', 'annex:0.2706', 'readiness:0.2658', 'violent:0.2598', 'civilians:0.2597', 'news:0.259', 'liberate:0.2534', 'partisan:0.2496', 'undermine:0.2488', 'read:0.2215', 'pivdennoukrainsk:0.2211', 'turn:0.2107', 'know:0.2086', 'report:0.203', 'soon:0.1875', 'morning:0.1854', 'convention:0.1843', 'endangers:0.1835', 'secretary:0.1816', 'continue:0.1765', 'long:0.1746', 'valid:0.1678', 'drain:0.1644', 'watchdog:0.1509', 'range:0.1474', 'unlike:0.1259', 'distinguish:0.1134', 'tothe:0.108']+titles_keywords+['putin:0.5739', 'tyrant:0.3679', 'civilians:0.3509', 'attacks:0.277', 'news:0.2318']"
+        ]
+    ]
+}

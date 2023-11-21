@@ -1,0 +1,15 @@
+{
+    "GBR+UKR+42":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/wiltsglosstandard.co.uk/Ukrainian visa delays are a national embarrassment says British host.txt+eventbasecode42+eventcode42+avgtone0.493322203672788+goldsteinscale0.595+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.0+news_keywords+['kyiv:0.4469', 'refugee:0.443', 'visa:0.3931', 'putins:0.3163', 'government:0.2569', 'leave:0.2482', 'apply:0.2449', 'row:0.2377', 'scheme:0.2303', 'farnham:0.2132', 'history:0.2125', 'rubbish:0.2027', 'homes:0.1909', 'partygate:0.1885', 'debate:0.1854', 'allow:0.1806', 'turn:0.1756', 'story:0.1733', 'march:0.1732', 'obstacle:0.17', 'know:0.1636', 'stability:0.1523', 'desperately:0.1515', 'later:0.151', 'spokesperson:0.1502', 'lively:0.1431', 'reduce:0.101', 'weve:0.0946', 'big:0.0907', 'thousand:0.0903']+titles_keywords+['ukrainian:0.3681', 'delays:0.3398', 'embarrassment:0.313', 'visa:0.2695', 'says:0.1095']"
+        ],
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/wiltsglosstandard.co.uk/UK ambassador to Ukraine feeling comfortable on return to Kyiv.txt+eventbasecode42+eventcode42+avgtone0.50187265917603+goldsteinscale0.595+nummentions0.23149492017416545+numarticles0.23205221174764323+numsources0.21052631578947367+news_keywords+['kyiv:0.5577', 'ukraines:0.4755', 'moscows:0.4051', 'diplomat:0.3846', 'putin:0.3809', 'invasion:0.2867', 'zelensky:0.238', 'security:0.2367', 'troop:0.2314', 'capital:0.2267', 'remain:0.2266', 'threaten:0.2151', 'repel:0.186', 'comfortable:0.1789', 'ally:0.1663', 'arrive:0.1638', 'interview:0.1549', 'lively:0.1387', 'withdraw:0.1289', 'debate:0.1207', 'simmons:0.1197', 'distance:0.1175', 'april:0.1161', 'want:0.115', 'good:0.1131', 'western:0.1129', 'long:0.1068', 'reopen:0.1048', 'story:0.0771', 'minimising:0.0311']+titles_keywords+['kyiv:0.4317', 'ambassador:0.3872', 'comfortable:0.3703', 'uk:0.184', 'return:0.1376']"
+        ]
+    ],
+    "WST+RUS+42":[
+        [
+            "20220818+../news_crawling/RUS_UKR/p_articles/wiltsglosstandard.co.uk/Russia deploys hypersonic missiles to Baltic enclave.txt+eventbasecode42+eventcode42+avgtone0.5+goldsteinscale0.595+nummentions0.20391872278664733+numarticles0.20449601160261058+numsources0.23684210526315788+news_keywords+['natos:0.5146', 'kremlin:0.4746', 'missiles:0.441', 'kaliningrads:0.4392', 'russia:0.4143', 'moscows:0.3975', 'chkalovsk:0.3354', 'war:0.3244', 'airspace:0.3035', 'threat:0.3021', 'nuclear:0.2948', 'deploy:0.29', 'ivan:0.2749', 'proceed:0.2362', 'hypersonic:0.2318', 'rhetoric:0.227', 'mig:0.2185', 'forefront:0.2048', 'emphasise:0.1869', 'thursday:0.1509', 'target:0.1427', 'iskander:0.1312', 'state:0.122', 'additional:0.1156', 'isnt:0.1121', 'porvoo:0.0977', 'make:0.0877', 'mile:0.083', 'reader:0.0824', 'set:0.0634']+titles_keywords+['missiles:0.4298', 'baltic:0.4018', 'hypersonic:0.381', 'deploys:0.1923', 'enclave:0.1459']"
+        ]
+    ]
+}

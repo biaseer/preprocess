@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+190":[
+        [
+            "20220623+../news_crawling/RUS_UKR/p_articles/econotimes.com/Russias Ukraine invasion wont be over soon and Putin is counting on the Wests short.txt+eventbasecode190+eventcode190+avgtone0.4750479846449136+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['crimea:0.5129', 'putins:0.4399', 'invade:0.3922', 'nato:0.3849', 'militarism:0.3782', 'strategic:0.3135', 'escalation:0.2988', 'anticipate:0.2577', 'realisation:0.2475', 'peace:0.219', 'remain:0.2121', 'know:0.2101', 'long:0.21', 'table:0.2021', 'obtain:0.1995', 'word:0.1925', 'western:0.1913', 'incoming:0.1893', 'foe:0.1867', 'overstate:0.1856', 'albeit:0.1786', 'isnt:0.1709', 'repute:0.1667', 'end:0.1665', 'volodymyr:0.1611', 'count:0.1486', 'compare:0.1404', 'gloomily:0.1364', 'suit:0.136', 'calculus:0.1158']+titles_keywords+['putin:0.4152', 'soon:0.2934', 'invasion:0.2538', 'attention:0.2471', 'wont:0.1804']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict Vladimir Putin struggling to find recruits to deploy to Ukraine.txt+eventbasecode190+eventcode190+avgtone0.4684065934065934+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4902', 'russiaukraine:0.4488', 'invade:0.4299', 'ukrainian:0.4291', 'russias:0.4258', 'deploy:0.3504', 'lviv:0.3354', 'pentagon:0.3311', 'civilians:0.3241', 'conflict:0.252', 'recruiting:0.2439', 'report:0.2213', 'reinforcement:0.2122', 'surge:0.1867', 'plan:0.1844', 'term:0.1709', 'friday:0.1685', 'come:0.1678', 'weapon:0.1597', 'supplied:0.1401', 'number:0.1328', 'note:0.1291', 'shoigu:0.1278', 'reveals:0.1214', 'say:0.1187', 'minister:0.1135', 'actual:0.1119', 'fierce:0.097', 'middle:0.0816', 'havent:0.0122']+titles_keywords+['putin:0.5547', 'russiaukraine:0.449', 'recruits:0.4284', 'deploy:0.3414', 'struggling:0.1946']"
+        ]
+    ]
+}

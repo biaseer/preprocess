@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+195":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/ndtv.com/The Role Of Turkish Drones In Ukraines War.txt+eventbasecode195+eventcode195+avgtone0.47779369627507157+goldsteinscale0.0+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['drone:0.5562', 'ukraines:0.4167', 'soviet:0.3821', 'warfare:0.3735', 'syria:0.3675', 'kalashnikov:0.3573', 'airpower:0.3425', 'ankara:0.3231', 'karabakh:0.2712', 'operate:0.2121', 'kilometres:0.175', 'inventory:0.1693', 'modern:0.1569', 'counterpart:0.1561', 'syndicate:0.1555', 'haftar:0.1542', 'evade:0.1517', 'feed:0.1462', 'predict:0.139', 'secure:0.138', 'prove:0.1325', 'precisely:0.129', 'mind:0.1158', 'make:0.1123', 'joost:0.11', 'ndtv:0.1066', 'earlier:0.1009', 'unman:0.0927', 'emojis:0.0904', 'add:0.0402']+titles_keywords+['drones:0.5594', 'ukraines:0.4472', 'turkish:0.3676', 'war:0.359', 'role:0.1084']"
+        ],
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/ndtv.com/Russia Confirms HighPrecision Strike On Ukraines Kyiv During UN Visit.txt+eventbasecode195+eventcode195+avgtone0.4607329842931937+goldsteinscale0.0+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.013157894736842105+news_keywords+['kyiv:0.5791', 'ukraines:0.5066', 'war:0.2681', 'tochka:0.2585', 'missile:0.2497', 'strike:0.2405', 'destroy:0.2298', 'headline:0.2164', 'range:0.2006', 'bucha:0.1816', 'production:0.1765', 'kherson:0.1746', 'aerospace:0.1662', 'substation:0.1654', 'crimes:0.1647', 'visit:0.1491', 'syndicate:0.1487', 'secretary:0.1405', 'feed:0.1387', 'high:0.1294', 'suburbs:0.1247', 'ndtv:0.119', 'say:0.1165', 'allege:0.1153', 'nearly:0.1097', 'highprecision:0.1076', 'thursday:0.1038', 'confirms:0.0923', 'artyom:0.0823', 'long:0.0601']+titles_keywords+['kyiv:0.4986', 'ukraines:0.4235', 'strike:0.2754', 'highprecision:0.2507', 'confirms:0.0952']"
+        ]
+    ],
+    "UKR+RUS+195":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/ndtv.com/Ukraine Says 7 Bodies Found After Airstrike On School.txt+eventbasecode195+eventcode195+avgtone0.47959183673469385+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['airstrike:0.4334', 'ukraine:0.4125', 'bodies:0.3395', 'russian:0.3122', 'rubble:0.2854', 'school:0.2631', 'headline:0.214', 'war:0.2124', 'hit:0.2006', 'wound:0.1839', 'region:0.1782', 'air:0.1629', 'mykolayiv:0.1516', 'rescue:0.1488', 'people:0.1452', 'publish:0.1303', 'edit:0.126', 'finish:0.1153', 'staff:0.1108', 'ndtv:0.1039', 'site:0.0975', 'says:0.0831', 'seven:0.0629', 'tuesday:0.0569', 'story:0.0532', 'representational:0.0521', 'building:0.0501', 'southern:0.0438', 'feed:0.0371', 'syndicate:0.0324']+titles_keywords+['ukraine:0.389', 'airstrike:0.3308', 'bodies:0.2874', 'school:0.22', 'says:0.036']"
+        ]
+    ]
+}

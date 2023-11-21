@@ -1,0 +1,20 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/EU readies for end of Russia gas warns wont pay in roubles.txt+eventbasecode20+eventcode20+avgtone0.4826302729528536+goldsteinscale0.65+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.009868421052631578+news_keywords+['embargo:0.4159', 'kremlin:0.3888', 'eu:0.3689', 'ruble:0.3286', 'diplomat:0.2841', 'proceed:0.2739', 'economy:0.2724', 'unite:0.2272', 'decree:0.2269', 'diversify:0.1946', 'gazprombank:0.188', 'warn:0.1856', 'issue:0.1846', 'end:0.1815', 'plan:0.1757', 'payments:0.1755', 'sidestep:0.1736', 'clarification:0.1721', 'change:0.1698', 'want:0.168', 'ready:0.1652', 'monday:0.1614', 'capital:0.1509', 'bit:0.1458', 'wont:0.138', 'gas:0.1341', 'chair:0.1289', 'official:0.1286', 'face:0.0993', 'state:0.0953']+titles_keywords+['roubles:0.4162', 'eu:0.3193', 'readies:0.2779', 'wont:0.2127', 'end:0.1906']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Peace love bind Ukrainian and Russian in unique Dubai.txt+eventbasecode20+eventcode20+avgtone0.5114942528735632+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5168', 'dubais:0.3879', 'peace:0.3538', 'conflict:0.3352', 'hnatenko:0.2769', 'neighbouring:0.2582', 'culture:0.2492', 'yuliia:0.2243', 'flags:0.221', 'live:0.2182', 'world:0.2125', 'visit:0.2115', 'expat:0.2113', 'escalate:0.2112', 'troop:0.2023', 'care:0.1949', 'say:0.1873', 'weather:0.1449', 'long:0.1442', 'friend:0.1436', 'produce:0.1421', 'end:0.1176', 'photo:0.1156', 'past:0.1117', 'feb:0.1111', 'theyre:0.1066', 'bind:0.1007', 'enjoy:0.0891', 'million:0.0885', 'major:0.0808']+titles_keywords+['russian:0.5074', 'peace:0.3961', 'dubai:0.3807', 'love:0.2952', 'bind:0.1155']"
+        ],
+        [
+            "20220629+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Russia has become a terrorist state says Ukraines president.txt+eventbasecode20+eventcode20+avgtone0.44850498338870454+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.459', 'terrorist:0.4011', 'zelensky:0.3115', 'airstrike:0.2855', 'kill:0.269', 'investigate:0.2415', 'warn:0.2397', 'expel:0.2371', 'urgently:0.1958', 'action:0.1912', 'veto:0.1892', 'unpunished:0.1752', 'stop:0.1746', 'tribunal:0.1666', 'cite:0.1588', 'spree:0.1557', 'organization:0.147', 'state:0.1375', 'fragment:0.1198', 'general:0.1175', 'body:0.1045', 'thats:0.1003', 'include:0.0892', 'mondays:0.0883', 'virtual:0.0874', 'shop:0.0782', 'level:0.0731', 'add:0.0648', 'impossible:0.0589', 'dozens:0.0458']+titles_keywords+['terrorist:0.4368', 'ukraines:0.4083', 'president:0.194', 'state:0.1652', 'says:0.1402']"
+        ]
+    ],
+    "USA+RUS+20":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Pak ready to deescalate RussiaUkraine conflict via mediation.txt+eventbasecode20+eventcode20+avgtone0.47314049586776863+goldsteinscale0.65+nummentions0.017779390420899856+numarticles0.01849166062364032+numsources0.023026315789473683+news_keywords+['ukraineconflict:0.5241', 'nato:0.3981', 'pak:0.3375', 'diplomatically:0.2957', 'escalation:0.2834', 'russian:0.2632', 'fdi:0.2475', 'peace:0.2217', 'urgent:0.2156', 'economic:0.2023', 'extend:0.1928', 'table:0.1906', 'remind:0.183', 'sanction:0.1787', 'president:0.175', 'trade:0.1662', 'wilson:0.1613', 'enter:0.1595', 'endeavour:0.153', 'decide:0.1477', 'word:0.1406', 'role:0.1365', 'partner:0.1224', 'adverse:0.1217', 'filter:0.1177', 'like:0.0861', 'eyebrow:0.0839', 'large:0.0766', 'state:0.0746', 'possible:0.0576']+titles_keywords+['mediation:0.4072', 'pak:0.3895', 'russiaukraine:0.3791', 'deescalate:0.1243', 'ready:0.0855']"
+        ]
+    ]
+}

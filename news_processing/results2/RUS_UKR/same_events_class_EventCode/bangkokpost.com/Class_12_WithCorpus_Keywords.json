@@ -1,0 +1,12 @@
+{
+    "FRA+UKR+12":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/bangkokpost.com/Kremlin Putin and Biden could meet or talk but no firm plans yet.txt+eventbasecode12+eventcode12+avgtone0.488013698630137+goldsteinscale0.48+nummentions0.04281567489114659+numarticles0.043509789702683106+numsources0.06578947368421052+news_keywords+['putin:0.4692', 'kremlin:0.4615', 'peskov:0.3641', 'biden:0.3207', 'ukrainians:0.3138', 'petersburg:0.2842', 'threat:0.2749', 'invade:0.2719', 'meeting:0.2671', 'embassy:0.2412', 'report:0.1999', 'contact:0.194', 'plan:0.1935', 'monday:0.1905', 'prepare:0.186', 'imminently:0.153', 'say:0.1348', 'summit:0.1211', 'set:0.1121', 'firm:0.1081', 'near:0.1059', 'source:0.1041', 'states:0.0924', 'list:0.0825', 'unusual:0.0799', 'railway:0.0761', 'draw:0.0757', 'public:0.0553', 'grow:0.0459', 'concrete:0.0414']+titles_keywords+['biden:0.4797', 'kremlin:0.411', 'meet:0.3135', 'plans:0.1932', 'firm:0.1548']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/bangkokpost.com/Call for state to cut benzine excise tax.txt+eventbasecode12+eventcode12+avgtone0.4724517906336088+goldsteinscale0.48+nummentions0.007619738751814224+numarticles0.007614213197969543+numsources0.013157894736842105+news_keywords+['baht:0.3858', 'gasoline:0.3071', 'subsidise:0.3063', 'government:0.3009', 'ukraine:0.2842', 'implement:0.2616', 'market:0.2614', 'thammasat:0.254', 'economist:0.2508', 'increase:0.2491', 'fund:0.2463', 'crisis:0.2442', 'reduction:0.2365', 'praipol:0.2306', 'news:0.2258', 'help:0.2078', 'protract:0.19', 'expensive:0.1794', 'order:0.1753', 'begin:0.1643', 'low:0.1578', 'spread:0.1576', 'state:0.1568', 'surge:0.1568', 'ease:0.1405', 'global:0.1368', 'thursday:0.1259', 'say:0.1094', 'offo:0.1091', 'limit:0.1089']+titles_keywords+['benzine:0.4654', 'state:0.2985', 'tax:0.2981', 'cut:0.1596', 'excise:0.1204']"
+        ]
+    ]
+}

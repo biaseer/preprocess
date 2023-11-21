@@ -1,0 +1,17 @@
+{
+    "EUR+UKR+10":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/chinaview.cn/Slovenian embassy in Ukraine removes Slovenian flag due to similarity with the Russian one.txt+eventbasecode10+eventcode10+avgtone0.5+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kiev:0.39', 'slovenian:0.3297', 'flag:0.2945', 'rzeszow:0.2571', 'russia:0.2463', 'embassy:0.2414', 'lesjak:0.2192', 'remove:0.1931', 'conflict:0.1696', 'temporary:0.1601', 'evacuate:0.1461', 'border:0.1395', 'similarity:0.107', 'stylised:0.0986', 'river:0.097', 'guard:0.0926', 'reopen:0.0857', 'blue:0.0843', 'arm:0.068', 'representative:0.0616', 'politely:0.0603', 'symbol:0.0561', 'consist:0.0546', 'say:0.0517', 'mencin:0.0505', 'feb:0.05', 'order:0.0429', 'continue:0.037', 'earlier:0.0313', 'tv:0.0016']+titles_keywords+['slovenian:0.3877', 'ukraine:0.3555', 'flag:0.2603', 'embassy:0.2163', 'similarity:0.143']"
+        ]
+    ],
+    "RUS+FRA+10":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/chinaview.cn/Facts about RussiaUkraine conflict Talks continue more US sanctions on Russia.txt+eventbasecode10+eventcode10+avgtone0.4903846153846154+goldsteinscale0.5+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.02631578947368421+news_keywords+['putin:0.4741', 'ceasefire:0.4729', 'russiaukraine:0.4029', 'kiev:0.3765', 'negotiation:0.3444', 'turkey:0.2807', 'news:0.2548', 'election:0.2521', 'operation:0.2463', 'zelensky:0.2447', 'subject:0.2421', 'sanction:0.2345', 'orban:0.2266', 'military:0.2163', 'jurisdiction:0.2094', 'end:0.1866', 'transaction:0.1808', 'know:0.1794', 'factsheet:0.1733', 'long:0.1603', 'allow:0.1553', 'treasury:0.1522', 'import:0.1482', 'progress:0.147', 'emphasize:0.1434', 'thursday:0.1307', 'enterprise:0.1135', 'freeze:0.0952', 'way:0.0777', 'unlike:0.0744']+titles_keywords+['sanctions:0.48', 'russiaukraine:0.4121', 'facts:0.3083', 'conflict:0.3052', 'continue:0.2014']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220512+../news_crawling/RUS_UKR/p_articles/chinaview.cn/Russia accuses Pentagon of experimenting on patients in Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4861878453038674+goldsteinscale0.5+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.019736842105263157+news_keywords+['pathogen:0.3564', 'laboratory:0.3417', 'pentagon:0.3357', 'russian:0.3305', 'experiment:0.2923', 'kharkov:0.2852', 'hospital:0.2778', 'radiation:0.2748', 'military:0.2697', 'psychiatric:0.2657', 'researcher:0.2533', 'inhuman:0.2164', 'chemical:0.1765', 'subject:0.1501', 'territory:0.1293', 'conceal:0.1245', 'mariupol:0.1215', 'evacuate:0.1196', 'accuse:0.1194', 'directly:0.1137', 'stage:0.1058', 'information:0.0985', 'use:0.0972', 'group:0.0868', 'large:0.0716', 'order:0.0675', 'affiliated:0.06', 'wednesday:0.0546', 'include:0.0217', 'add:0.0172']+titles_keywords+['pentagon:0.3758', 'ukraine:0.3695', 'patients:0.2249', 'accuses:0.1931', 'experimenting:0.1278']"
+        ]
+    ]
+}

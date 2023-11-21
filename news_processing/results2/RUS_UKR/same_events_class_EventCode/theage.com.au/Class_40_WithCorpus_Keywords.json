@@ -1,0 +1,22 @@
+{
+    "CHN+RUS+40":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/theage.com.au/Black hole Putin has made a serious economic blunder.txt+eventbasecode40+eventcode40+avgtone0.48256410256410254+goldsteinscale0.55+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['putin:0.4883', 'eurozone:0.3781', 'moscows:0.3106', 'economics:0.3031', 'bloomberg:0.253', 'nuclear:0.252', 'blunder:0.2483', 'disrupt:0.2479', 'realignment:0.2463', 'scenario:0.2342', 'briefing:0.2255', 'pipeline:0.2234', 'gazprom:0.2151', 'output:0.2091', 'diversify:0.1924', 'phase:0.1833', 'world:0.1793', 'substitute:0.1723', 'suddenly:0.1626', 'tectonic:0.1595', 'import:0.1595', 'huge:0.1571', 'compare:0.1479', 'wont:0.1291', 'decade:0.1263', 'continue:0.1142', 'like:0.1094', 'week:0.1076', 'habeck:0.0978', 'ready:0.0855']+titles_keywords+['putin:0.5434', 'blunder:0.3975', 'economic:0.3446', 'hole:0.2862', 'black:0.1764']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/theage.com.au/Russias fury after Putins friend Viktor Medvedchuk captured in Ukraine.txt+eventbasecode40+eventcode40+avgtone0.46368715083798884+goldsteinscale0.55+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['putin:0.5669', 'kremlin:0.5295', 'oligarch:0.4368', 'ukrainians:0.4148', 'bakanov:0.3866', 'medvedchuks:0.3759', 'zelensky:0.3699', 'correspondent:0.3186', 'lviv:0.3111', 'mykhailo:0.302', 'war:0.281', 'viktor:0.2665', 'separatist:0.2354', 'telegram:0.2159', 'mediate:0.2119', 'table:0.2115', 'persecute:0.1982', 'pawn:0.1956', 'law:0.1891', 'disguise:0.1824', 'escape:0.1822', 'meet:0.1657', 'afraid:0.1607', 'note:0.1577', 'fsb:0.1491', 'usual:0.1347', 'friend:0.1346', 'head:0.1251', 'ready:0.0862', 'undoubtedly:0.0574']+titles_keywords+['medvedchuk:0.4778', 'russias:0.3966', 'captured:0.3691', 'fury:0.2887', 'friend:0.1593']"
+        ]
+    ],
+    "UKR+DEU+40":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/theage.com.au/Ukraine President urges Putin to face up and end crisis as border fighting grows.txt+eventbasecode40+eventcode40+avgtone0.48507462686567165+goldsteinscale0.55+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.013157894736842105+news_keywords+['putin:0.481', 'ceasefire:0.4195', 'natos:0.4096', 'kyiv:0.4023', 'diplomatic:0.3721', 'invade:0.3486', 'reuters:0.3323', 'correspondent:0.3292', 'evacuate:0.3132', 'separatist:0.3025', 'conflict:0.2959', 'escalation:0.2956', 'border:0.2454', 'occur:0.2271', 'briefed:0.2242', 'update:0.2121', 'know:0.2046', 'states:0.1981', 'reiterate:0.1961', 'increasingly:0.1741', 'follow:0.169', 'schedule:0.1609', 'long:0.1503', 'end:0.1401', 'nearly:0.1378', 'world:0.1337', 'images:0.1232', 'sign:0.1214', 'unit:0.1122', 'underscoring:0.1009']+titles_keywords+['putin:0.4445', 'border:0.2259', 'fighting:0.2036', 'crisis:0.147', 'grows:0.0074']"
+        ]
+    ],
+    "WST+UKR+40":[
+        [
+            "20220705+../news_crawling/RUS_UKR/p_articles/theage.com.au/Albaneses trip to NATO and Ukraine was no holiday.txt+eventbasecode40+eventcode40+avgtone0.5138121546961326+goldsteinscale0.55+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['putin:0.4441', 'nato:0.3946', 'ukraines:0.3592', 'diplomatic:0.3363', 'albaneses:0.3233', 'undermine:0.3031', 'australia:0.2791', 'visit:0.2599', 'coalition:0.2508', 'compare:0.2479', 'nonsense:0.2307', 'agreement:0.2221', 'aid:0.2174', 'change:0.2134', 'power:0.2048', 'continue:0.2011', 'scott:0.1919', 'react:0.1917', 'shields:0.1912', 'bushfires:0.1858', 'note:0.1845', 'attempt:0.184', 'exactly:0.1834', 'cancellation:0.1812', 'long:0.1789', 'newsletter:0.1772', 'tidy:0.175', 'previous:0.1713', 'indo:0.1422', 'recalcitrance:0.0862']+titles_keywords+['holiday:0.4027', 'nato:0.3929', 'albaneses:0.3397', 'ukraine:0.3108', 'trip:0.2611']"
+        ]
+    ]
+}

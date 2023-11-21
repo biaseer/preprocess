@@ -1,0 +1,20 @@
+{
+    "GBR+UKR+112":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/sott.net/Two British fighters captured by Russians in Ukraine could face the death penalty prosecutor.txt+eventbasecode112+eventcode112+avgtone0.47388059701492535+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4843', 'comrade:0.4608', 'kremlin:0.406', 'dmitry:0.3796', 'hostage:0.3279', 'peaceful:0.2947', 'murder:0.2942', 'civilian:0.2714', 'separatist:0.2679', 'territory:0.2619', 'anglian:0.248', 'dangerous:0.2217', 'artillery:0.2206', 'newsprosecutor:0.2141', 'breakaway:0.1953', 'report:0.1896', 'know:0.189', 'fought:0.1885', 'aslin:0.143', 'term:0.1428', 'alongside:0.139', 'reintroduction:0.1333', 'end:0.132', 'neuroblastoma:0.1251', 'act:0.1217', 'picture:0.1177', 'unlikely:0.1174', 'sib:0.1152', 'agree:0.0997', 'pleasure:0.0721']+titles_keywords+['russians:0.3615', 'fighters:0.2933', 'captured:0.1848', 'death:0.1745', 'penalty:0.1344']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/sott.net/Russia accuses Ukraine of preparing a nuclear false flag.txt+eventbasecode112+eventcode112+avgtone0.5185185185185185+goldsteinscale0.4+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.013157894736842105+news_keywords+['chernobyl:0.5565', 'kiev:0.4162', 'nuclear:0.4037', 'putin:0.3953', 'uakharkov:0.3445', 'propaganda:0.3411', 'provocation:0.2785', 'conspire:0.2513', 'war:0.25', 'warn:0.2497', 'concern:0.2482', 'iaea:0.2361', 'accuse:0.2228', 'flag:0.2134', 'prepare:0.1864', 'consequence:0.1784', 'explosive:0.171', 'source:0.164', 'personnel:0.1638', 'stage:0.1462', 'respond:0.1353', 'trilateral:0.1288', 'shell:0.1242', 'order:0.1177', 'building:0.0991', 'zone:0.0885', 'sbu:0.0798', 'videoconference:0.078', 'possibility:0.062', 'installation:0.0142']+titles_keywords+['ukraine:0.391', 'nuclear:0.3093', 'flag:0.2401', 'accuses:0.2158', 'preparing:0.2131']"
+        ],
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/sott.net/Russia accuses Ukraine of hiding military losses.txt+eventbasecode112+eventcode112+avgtone0.48854961832061067+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4773', 'kremlin:0.4318', 'nato:0.4249', 'unprovoked:0.2911', 'attack:0.2891', 'artillery:0.2594', 'azov:0.2469', 'destroy:0.2356', 'cnn:0.2188', 'casualty:0.2103', 'report:0.1994', 'information:0.1963', 'explain:0.1952', 'soon:0.1946', 'combine:0.1863', 'neutral:0.1858', 'president:0.1788', 'dispute:0.1707', 'count:0.1701', 'intensification:0.1673', 'afraid:0.1544', 'manufacturing:0.1526', 'donbass:0.1471', 'juncture:0.1286', 'package:0.1183', 'major:0.1145', 'board:0.1107', 'retake:0.1002', 'authorize:0.097', 'true:0.0821']+titles_keywords+['ukraine:0.4031', 'accuses:0.2766', 'hiding:0.2081', 'losses:0.2015', 'military:0.1983']"
+        ]
+    ],
+    "WST+UKR+112":[
+        [
+            "20220206+../news_crawling/RUS_UKR/p_articles/sott.net/Russian opinion polls show support for Kremlin was surging before the military operation began and.txt+eventbasecode112+eventcode112+avgtone0.49890829694323136+goldsteinscale0.4+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['putin:0.5207', 'nato:0.402', 'kiev:0.3895', 'demilitarization:0.3596', 'war:0.3355', 'government:0.3102', 'comrussians:0.2951', 'pollster:0.2902', 'levada:0.2844', 'geography:0.2551', 'concern:0.237', 'newspaper:0.2332', 'data:0.2233', 'purge:0.2076', 'gender:0.2073', 'unprovoked:0.2061', 'future:0.2061', 'bravado:0.1936', 'indicate:0.1839', 'rally:0.1758', 'degree:0.1734', 'increasingly:0.1709', 'believe:0.1649', 'https:0.1617', 'begin:0.1616', 'vtsiom:0.151', 'percent:0.1499', 'month:0.1455', 'breakdown:0.141', 'definite:0.0976']+titles_keywords+['kremlin:0.4398', 'polls:0.2722', 'surging:0.2144', 'military:0.2137', 'began:0.1575']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+173":[
+        []
+    ],
+    "RUS+USA+173":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Hackers claim to target Russian institutions in barrage of cyberattacks and leaks.txt+eventbasecode173+eventcode173+avgtone0.4670255720053836+goldsteinscale0.25+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['cyberattack:0.5327', 'wikileaks:0.4706', 'ukraines:0.465', 'pravda:0.4374', 'putin:0.4144', 'hacktivists:0.4016', 'nato:0.3686', 'spy:0.3628', 'government:0.3228', 'disrupt:0.2967', 'information:0.2961', 'terror:0.2422', 'flood:0.2249', 'confusion:0.2162', 'foreign:0.2131', 'outlet:0.2006', 'faked:0.1974', 'volodymyr:0.1933', 'help:0.1779', 'reliability:0.1766', 'outcome:0.1725', 'turn:0.1685', 'fsb:0.1672', 'align:0.1567', 'playbook:0.1531', 'amateur:0.1369', 'month:0.134', 'horne:0.0978', 'egregious:0.0968', 'relatively:0.0629']+titles_keywords+['cyberattacks:0.5294', 'russian:0.3362', 'leaks:0.2596', 'institutions:0.236', 'target:0.1421']"
+        ]
+    ]
+}

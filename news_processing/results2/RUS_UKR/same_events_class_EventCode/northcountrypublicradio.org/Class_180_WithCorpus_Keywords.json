@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220726+../news_crawling/RUS_UKR/p_articles/northcountrypublicradio.org/At 75 the CIA is back where it started countering the Kremlin.txt+eventbasecode180+eventcode180+avgtone0.48516439454691257+goldsteinscale0.05+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['cia:0.4988', 'kremlin:0.4119', 'counterterrorism:0.3952', 'administration:0.3163', 'truman:0.3073', 'correspondent:0.3007', 'information:0.269', 'war:0.2674', 'vladimir:0.2497', 'centralize:0.2274', 'direction:0.2205', 'archive:0.2197', 'foresee:0.2094', 'storyline:0.1969', 'book:0.192', 'project:0.1829', 'decade:0.1814', 'term:0.1695', 'burns:0.1687', 'winter:0.1675', 'states:0.1646', 'disastrous:0.1638', 'current:0.1534', 'say:0.1455', 'branch:0.1428', 'study:0.1357', 'colorfully:0.1275', 'retire:0.1268', 'long:0.1265', 'signature:0.1145']+titles_keywords+['cia:0.5217', 'kremlin:0.4374', '75:0.3636', 'countering:0.1583', 'started:0.0972']"
+        ]
+    ],
+    "UKR+BGD+180":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/northcountrypublicradio.org/Missile strikes in western Ukraine kill 6 as country braces for new assault in east.txt+eventbasecode180+eventcode180+avgtone0.47003577817531306+goldsteinscale0.05+nummentions0.11175616835994194+numarticles0.11240029006526468+numsources0.16776315789473684+news_keywords+['kyiv:0.5225', 'putin:0.4157', 'airstrikes:0.4023', 'azov:0.2926', 'news:0.2535', 'emergency:0.2498', 'troop:0.2486', 'barrage:0.246', 'separatist:0.2321', 'railways:0.2318', 'prepare:0.223', 'sprawl:0.2154', 'victory:0.2072', 'lethal:0.2029', 'western:0.1787', 'kilometer:0.1754', 'shmyhal:0.1709', 'continue:0.1656', 'hide:0.1611', 'fall:0.1604', 'increase:0.1595', 'accuse:0.1555', 'analyst:0.1539', 'population:0.1425', 'affected:0.1404', 'donbas:0.1393', 'plant:0.1333', 'toll:0.1316', 'fully:0.1313', 'logic:0.1168']+titles_keywords+['ukraine:0.3391', 'missile:0.2372', 'strikes:0.1254', 'braces:0.0817', 'new:0.0491']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/northcountrypublicradio.org/These Ukrainian students are competing virtually in an international science fair.txt+eventbasecode180+eventcode180+avgtone0.4971857410881801+goldsteinscale0.05+nummentions0.14368650217706821+numarticles0.14430746918056564+numsources0.12828947368421054+news_keywords+['ukraine:0.4584', 'science:0.3584', 'project:0.3285', 'participate:0.3181', 'smovzh:0.3157', 'insecticides:0.3059', 'students:0.2953', 'aromatic:0.287', 'explosion:0.2764', 'war:0.267', 'finalists:0.2633', 'read:0.2562', 'world:0.2555', 'mixture:0.2451', 'org:0.2449', 'make:0.2414', 'news:0.2391', 'story:0.2308', 'cancer:0.2257', 'visit:0.2118', 'learned:0.1891', 'family:0.1881', 'independent:0.1769', 'bunk:0.1723', 'dmytriy:0.171', 'long:0.1569', 'central:0.1522', 'feb:0.1506', 'regeneron:0.1331', 'isef:0.1249']+titles_keywords+['competing:0.4041', 'students:0.3741', 'ukrainian:0.3673', 'science:0.2047', 'virtually:0.1353']"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "RUS+RUS+10":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/RussiaUkraine War Global food prices will rise further if West intensifies its economic sanctions on.txt+eventbasecode10+eventcode10+avgtone0.47301136363636365+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.5221', 'ukraine:0.4926', 'russiaukraine:0.4499', 'economy:0.3473', 'war:0.3115', 'agriculture:0.2638', 'sanction:0.2386', 'report:0.2327', 'supplier:0.225', 'news:0.2152', 'telegram:0.2094', 'intensifies:0.1905', 'afp:0.1785', 'global:0.1621', 'understand:0.1617', 'continue:0.1604', 'consequential:0.1586', 'term:0.1564', 'issue:0.1434', 'good:0.1272', 'independent:0.1265', 'chain:0.1244', 'create:0.1209', 'say:0.1193', 'according:0.1158', 'thursday:0.1103', 'televise:0.1073', 'send:0.0985', 'big:0.0816', 'soar:0.0805']+titles_keywords+['putin:0.415', 'war:0.3104', 'prices:0.2143', 'intensifies:0.213', 'global:0.1681']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220203+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/Russia accuses West of indulging in information war based on outright lies over Ukraine tensions.txt+eventbasecode10+eventcode10+avgtone0.4900398406374502+goldsteinscale0.5+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['nato:0.4605', 'kremlin:0.4317', 'kiev:0.3832', 'diplomatic:0.3634', 'sergey:0.3271', 'war:0.3161', 'rhetoric:0.2814', 'telegram:0.2416', 'agreement:0.2324', 'decommission:0.2274', 'information:0.2268', 'border:0.2193', 'unacceptability:0.2091', 'understand:0.2073', 'armed:0.2065', 'concerned:0.1945', 'stipulate:0.1938', 'refer:0.1938', 'supply:0.1905', 'remind:0.1885', 'intensify:0.1735', 'indivisible:0.1678', 'counterpart:0.1652', 'chemical:0.1461', 'javelin:0.1431', 'pdf:0.1248', 'bilateral:0.1198', 'state:0.1163', 'shorter:0.116', 'possibility:0.0876']+titles_keywords+['russia:0.3558', 'accuses:0.3082', 'war:0.274', 'lies:0.2569', 'information:0.2517']"
+        ],
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/RussiaUkraine War 9166 Russian personnel killed since Ukraine invasion began informs Ukraine Defence Ministry.txt+eventbasecode10+eventcode10+avgtone0.4761904761904762+goldsteinscale0.5+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['kyiv:0.5084', 'russiaukraine:0.4744', 'russian:0.4206', 'military:0.3334', 'war:0.3177', 'invasion:0.2937', 'kill:0.2525', 'artillery:0.2504', 'tank:0.2183', 'erupt:0.2145', 'operational:0.2125', 'strategic:0.2031', 'count:0.195', 'nuclear:0.1935', 'prepare:0.1657', 'helicopter:0.1651', 'informs:0.1504', 'fall:0.1459', 'begin:0.1445', 'friday:0.129', 'telegram:0.1282', 'transfer:0.1177', 'zatoka:0.1162', 'platforms:0.1143', 'clarify:0.0905', 'add:0.0898', 'exact:0.0895', 'pdf:0.0787', 'major:0.0737', 'district:0.0669']+titles_keywords+['ukraine:0.488', 'invasion:0.284', '9166:0.2335', 'personnel:0.2022', 'killed:0.1679']"
+        ]
+    ],
+    "RUS+USA+10":[
+        [
+            "20220402+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/Ukraine 20 bodies seen lying on street in town near Kyiv 33 killed in Russian.txt+eventbasecode10+eventcode10+avgtone0.47692307692307695+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.571', 'kremlin:0.4401', 'airstrike:0.391', 'mykolaiv:0.3022', 'troop:0.2917', 'combat:0.2819', 'reuters:0.2695', 'emergency:0.2286', 'belgorod:0.228', 'retreat:0.2247', 'street:0.2135', 'report:0.21', 'bucha:0.1997', 'besiege:0.19', 'northern:0.1867', 'peace:0.1847', 'leave:0.1804', 'people:0.1777', 'security:0.1677', 'prepare:0.1624', 'wreckage:0.1587', 'area:0.1536', 'gmt:0.1522', 'kilometre:0.1424', 'saturday:0.1272', 'receive:0.1071', 'televised:0.1018', 'low:0.1005', 'practically:0.0974', 'state:0.0904']+titles_keywords+['kyiv:0.41', 'mykolaiv:0.3091', 'bodies:0.2409', 'govt:0.1984', '33:0.1493']"
+        ]
+    ]
+}

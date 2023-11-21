@@ -1,0 +1,12 @@
+{
+    "HUN+UKR+43":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/columbian.com/Some kind of terrible dream for Ukrainian women refugees.txt+eventbasecode43+eventcode43+avgtone0.489583333335+goldsteinscale0.64+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.039473684210526314+news_keywords+['refugeesreached:0.493', 'kyiv:0.4086', 'unicef:0.3346', 'flower:0.3289', 'conflict:0.3025', 'poltava:0.2984', 'holiday:0.2951', 'women:0.2792', 'sorrow:0.2773', 'travel:0.2613', 'stay:0.2606', 'relatives:0.257', 'understand:0.2484', 'alina:0.2483', 'speech:0.248', 'world:0.247', 'border:0.2449', 'receive:0.2339', 'child:0.2315', 'calm:0.2303', 'kind:0.2212', 'historical:0.2165', 'reminder:0.2164', 'news:0.2097', 'make:0.1813', 'like:0.1765', 'dream:0.1739', 'end:0.1729', 'wasnt:0.1159', 'theyve:0.0753']+titles_keywords+['refugees:0.5203', 'ukrainian:0.4423', 'women:0.3509', 'dream:0.3427', 'terrible:0.2029']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/columbian.com/Tripwire for real war Cybers fuzzy rules of engagement.txt+eventbasecode43+eventcode43+avgtone0.455317577548006+goldsteinscale0.64+nummentions0.04644412191582003+numarticles0.04713560551124003+numsources0.06578947368421052+news_keywords+['cyberattacks:0.5512', 'espionage:0.4388', 'natos:0.4205', 'cybercom:0.3972', 'militarization:0.3931', 'crimea:0.3521', 'tripwire:0.2913', 'technology:0.2651', 'armageddon:0.2599', 'sector:0.2244', 'midterm:0.215', 'command:0.2109', 'veto:0.2038', 'proxy:0.2012', 'know:0.1941', 'data:0.188', 'centrifuge:0.1859', 'fuzzy:0.1794', 'major:0.1679', 'definition:0.1616', 'compare:0.1581', 'foe:0.1566', 'blog:0.1539', 'encompass:0.1501', 'integration:0.1472', 'orbit:0.1456', 'chinese:0.1412', 'delineate:0.1374', 'freelancers:0.1128', 'possible:0.0705']+titles_keywords+['tripwire:0.4662', 'cybers:0.4107', 'fuzzy:0.3202', 'war:0.2595', 'rules:0.2352']"
+        ]
+    ]
+}

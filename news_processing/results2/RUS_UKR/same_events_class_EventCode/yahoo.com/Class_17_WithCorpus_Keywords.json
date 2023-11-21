@@ -1,0 +1,11 @@
+{
+    "UKR+RUS+17":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/yahoo.com/Ukrainian community holds vigil in St Petersburg in wake of Russian invasion.txt+eventbasecode17+eventcode17+avgtone0.49252704031465094+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['petersburg:0.5199', 'ukrainian:0.4802', 'russian:0.4241', 'church:0.3323', 'gather:0.2967', 'catholic:0.2959', 'pulpit:0.2798', 'invasion:0.2616', 'community:0.2348', 'vigil:0.2343', 'come:0.2297', 'pray:0.2283', 'tuesday:0.2224', 'sing:0.1812', 'country:0.1802', 'comfort:0.1786', 'love:0.1639', 'st:0.1502', 'epiphany:0.1416', 'hold:0.1367', 'lord:0.1316', 'send:0.1263', 'wake:0.1169']+titles_keywords+['ukrainian:0.4037', 'petersburg:0.3945', 'vigil:0.3189', 'invasion:0.1877', 'st:0.1357']"
+        ],
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/yahoo.com/Ukrainian Intelligence Russia prepares to celebrate Victory Day in Mariupol instead of in Donetsk.txt+eventbasecode17+eventcode17+avgtone0.5+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['donetsk:0.526', 'kremlin:0.4497', 'ukrainian:0.4405', 'propaganda:0.4114', 'ruscists:0.393', 'peaceful:0.331', 'celebrate:0.3269', 'ordnance:0.3136', 'parade:0.3121', 'territories:0.3067', 'directorate:0.3001', 'occupied:0.2795', 'azov:0.2636', 'civilian:0.2575', 'know:0.2438', 'preparation:0.2329', 'remain:0.2222', 'instead:0.2179', 'source:0.2158', 'report:0.2152', 'bunker:0.2089', 'steelworks:0.2077', 'street:0.2071', 'visit:0.2001', 'wednesday:0.174', 'matter:0.1672', 'end:0.1647', 'ria:0.164', 'affair:0.1623', 'medium:0.0932']+titles_keywords+['donetsk:0.4031', 'celebrate:0.3356', 'russia:0.3156', 'mariupol:0.2202', 'day:0.2057']"
+        ],
+        []
+    ]
+}

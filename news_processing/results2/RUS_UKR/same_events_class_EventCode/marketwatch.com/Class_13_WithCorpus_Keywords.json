@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+13":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/marketwatch.com/UN Meeting on Monday Aims to Find Russia a Diplomatic Way Out.txt+eventbasecode13+eventcode13+avgtone0.49208860759493667+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['nato:0.4314', 'ukraines:0.404', 'invade:0.3736', 'treaty:0.3621', 'diplomatic:0.3407', 'meeting:0.3083', 'troop:0.2662', 'imminent:0.2581', 'nikolai:0.257', 'propaganda:0.2499', 'biden:0.2303', 'border:0.2147', 'aid:0.2032', 'plan:0.2012', 'report:0.2011', 'sanction:0.1908', 'security:0.1818', 'reject:0.1748', 'trigger:0.1684', 'know:0.1581', 'week:0.1324', 'united:0.1304', 'demand:0.1227', 'listen:0.1146', 'antony:0.0973', 'cnnsstate:0.0965', 'sen:0.095', 'greenfield:0.0816', 'add:0.0736', 'agree:0.0711']+titles_keywords+['diplomatic:0.4014', 'meeting:0.3349', 'russia:0.2935', 'monday:0.1992', 'way:0.1444']"
+        ]
+    ],
+    "UKR+RUS+13":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/marketwatch.com/War in Ukraine Rescuers search theater rubble as Russian attacks continue.txt+eventbasecode13+eventcode13+avgtone0.4671618451915559+goldsteinscale0.52+nummentions0.04898403483309144+numarticles0.049673676577229875+numsources0.06907894736842106+news_keywords+['kyiv:0.5916', 'ukraine:0.5562', 'ukrainians:0.4499', 'airstrike:0.3882', 'war:0.3804', 'rescuers:0.3153', 'shelter:0.2763', 'theater:0.2731', 'destroy:0.2647', 'rubble:0.258', 'school:0.2452', 'country:0.2405', 'workerssearched:0.2399', 'fight:0.2397', 'civilian:0.225', 'home:0.2076', 'central:0.1905', 'continue:0.1723', 'score:0.1667', 'thebesieged:0.1655', 'columned:0.1643', 'port:0.1615', 'urban:0.1523', 'hundreds:0.1425', 'site:0.1317', 'apart:0.1243', 'ferocious:0.1117', 'blown:0.1036', 'mariupol:0.09', 'thursdayin:0.0799']+titles_keywords+['ukraine:0.4088', 'war:0.3152', 'rubble:0.3106', 'rescuers:0.3105', 'search:0.251']"
+        ],
+        [
+            "20220731+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Apparently homemade drone strikes Russias Black Sea Fleet headquarters.txt+eventbasecode13+eventcode13+avgtone0.46805555555555556+goldsteinscale0.52+nummentions0.057329462989840346+numarticles0.05801305293691081+numsources0.08552631578947369+news_keywords+['drone:0.4957', 'crimean:0.4873', 'kyiv:0.4857', 'ukraines:0.4227', 'missile:0.3789', 'navy:0.2847', 'kill:0.2617', 'device:0.24', 'headquarters:0.2375', 'strike:0.2318', 'sea:0.2313', 'explosive:0.2275', 'target:0.2256', 'peninsula:0.1838', 'people:0.1696', 'cancellation:0.1641', 'homemade:0.1639', 'small:0.153', 'black:0.1476', 'ceremony:0.1446', 'sunday:0.1381', 'grain:0.1265', 'merchant:0.1258', 'apparently:0.1253', 'say:0.122', 'rich:0.1179', 'wound:0.1173', 'carry:0.1048', 'carefully:0.0769', 'prompt:0.0754']+titles_keywords+['drone:0.4979', 'russias:0.392', 'headquarters:0.2483', 'apparently:0.18', 'strikes:0.1753']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CHL+RUS+12":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/arabnews.com/UN human rights chief calls on Moscow to halt its assault on Ukraine.txt+eventbasecode12+eventcode12+avgtone0.4694244604316547+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.4844', 'russia:0.4071', 'peaceful:0.3504', 'bombardment:0.332', 'humanitarian:0.3186', 'escalation:0.2804', 'military:0.2688', 'precaution:0.2471', 'report:0.2197', 'halt:0.219', 'flee:0.2177', 'endangers:0.2136', 'strike:0.2078', 'uns:0.2013', 'law:0.199', 'reiterate:0.1783', 'underway:0.1691', 'distinction:0.1628', 'order:0.1612', 'say:0.1543', 'proportionality:0.1406', 'bachelet:0.1387', 'right:0.1304', 'object:0.1242', 'fully:0.1194', 'population:0.1174', 'include:0.106', 'verifying:0.1009', 'thursday:0.0944', 'cost:0.0328']+titles_keywords+['ukraine:0.3846', 'assault:0.2404', 'rights:0.2109', 'chief:0.1415', 'human:0.1129']"
+        ]
+    ],
+    "EUR+RUS+12":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/arabnews.com/Tesla to recall 579000 vehicles in the US EU to pause QatarEnergy gas contract investigations.txt+eventbasecode12+eventcode12+avgtone0.49090909090909096+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['qatarenergy:0.4738', 'tesla:0.4702', 'soros:0.4563', 'bloomberg:0.4399', 'russia:0.371', 'cite:0.3645', 'company:0.3448', 'investor:0.3329', 'political:0.3093', 'startup:0.3044', 'sector:0.2844', 'provide:0.2661', 'future:0.2657', 'shortage:0.247', 'report:0.2291', 'acquisition:0.2273', 'recent:0.2259', 'progress:0.2218', 'say:0.2188', 'sustainable:0.2137', 'matter:0.2053', 'span:0.1923', 'violate:0.19', 'fear:0.1826', 'nrg:0.1803', 'respectively:0.1773', 'southeast:0.1765', 'hydro:0.1691', 'george:0.1643', 'pause:0.1631']+titles_keywords+['tesla:0.487', 'qatarenergy:0.459', 'nrg:0.3042', 'recall:0.2999', '579000:0.0711']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/arabnews.com/US welcomes trilateral summit between Egypt Israel and UAE.txt+eventbasecode12+eventcode12+avgtone0.5032894736842105+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['uae:0.3619', 'trilateral:0.3041', 'summit:0.2421', 'russias:0.2359', 'sharm:0.2279', 'talk:0.2102', 'meet:0.2095', 'naftali:0.1879', 'oil:0.1721', 'invade:0.1599', 'consultation:0.146', 'send:0.1393', 'world:0.1263', 'concern:0.1228', 'economic:0.1198', 'leader:0.1072', 'state:0.1061', 'month:0.0946', 'welcomed:0.0889', 'el:0.0885', 'level:0.0828', 'recent:0.082', 'tuesday:0.071', 'washingtoncairo:0.0686', 'office:0.0665', 'key:0.0514', 'strengthen:0.0377', 'statement:0.031', 'close:0.0288', 'price:0.025']+titles_keywords+['uae:0.3046', 'trilateral:0.2567', 'israel:0.2559', 'summit:0.222', 'welcomes:0.0896']"
+        ]
+    ]
+}

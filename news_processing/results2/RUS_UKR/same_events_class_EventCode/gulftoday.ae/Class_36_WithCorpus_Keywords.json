@@ -1,0 +1,12 @@
+{
+    "AUT+RUS+36":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Ukraine prepares for new Russian assault.txt+eventbasecode36+eventcode36+avgtone0.4655819774718398+goldsteinscale0.7+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.013157894736842105+news_keywords+['ukraine:0.4667', 'putin:0.4056', 'ceasefire:0.3524', 'militarily:0.3478', 'reuters:0.2843', 'invasion:0.2715', 'disrupt:0.2639', 'zelensky:0.2578', 'prepare:0.2571', 'outcome:0.2116', 'turn:0.1925', 'translator:0.1921', 'tense:0.1774', 'capital:0.1746', 'neutral:0.1744', 'biden:0.1683', 'begin:0.1671', 'long:0.1487', 'general:0.1464', 'corridor:0.1438', 'appoint:0.1425', 'afraid:0.1392', 'bucha:0.1374', 'help:0.1329', 'date:0.1327', 'flatten:0.1274', 'important:0.1257', 'near:0.1125', 'new:0.1075', 'list:0.094']+titles_keywords+['ukraine:0.3962', 'russian:0.3094', 'assault:0.3079', 'prepares:0.2448', 'new:0.1484']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220613+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Big relief.txt+eventbasecode36+eventcode36+avgtone0.496+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['relief:0.6684', 'big:0.3985']+titles_keywords+['relief:0.6684', 'big:0.3985']"
+        ]
+    ]
+}

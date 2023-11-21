@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220417+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/Lviv Dnipro shelled in Russian airstrikes civilian casualties reported.txt+eventbasecode80+eventcode80+avgtone0.47564687975646874+goldsteinscale0.75+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['kyiv:0.5629', 'airstrikes:0.4141', 'kremlin:0.4031', 'zelensky:0.2851', 'destroy:0.2798', 'casualty:0.273', 'correspondent:0.2573', 'mortar:0.2528', 'troop:0.2439', 'steelworks:0.2191', 'debris:0.2137', 'street:0.208', 'sprawl:0.2067', 'affected:0.1982', 'rail:0.1973', 'strategic:0.1819', 'hear:0.1801', 'safe:0.1777', 'resume:0.166', 'shmyhal:0.1638', 'reminder:0.1579', 'donbas:0.1516', 'surround:0.1451', 'fall:0.1361', 'end:0.127', 'population:0.1224', 'long:0.1147', 'save:0.113', 'major:0.1008', 'relatively:0.0915']+titles_keywords+['lviv:0.5515', 'casualties:0.4004', 'airstrikes:0.3226', 'dnipro:0.2693', 'reported:0.1284']"
+        ],
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/The three food lessons Putins war has taught us.txt+eventbasecode80+eventcode80+avgtone0.483640081799591+goldsteinscale0.75+nummentions0.01088534107402032+numarticles0.011602610587382161+numsources0.009868421052631578+news_keywords+['agriculture:0.4643', 'geopolitical:0.4082', 'ukraines:0.3719', 'industrialise:0.3683', 'supply:0.3451', 'expand:0.3117', 'policymakers:0.306', 'aid:0.3035', 'usaid:0.2999', 'bangladesh:0.2995', 'briefing:0.2742', 'change:0.2721', 'future:0.2668', 'paradigm:0.2606', 'stockpile:0.25', 'news:0.2435', 'import:0.2157', 'effectiveness:0.215', 'remind:0.2131', 'world:0.2128', 'term:0.2125', 'pivot:0.2088', 'lesson:0.1995', 'agreement:0.1932', 'sprang:0.1603', 'unreserved:0.158', 'collaborative:0.1556', 'decade:0.152', 'exactly:0.1488', 'robert:0.1056']+titles_keywords+['putins:0.4525', 'food:0.4232', 'war:0.3607', 'lessons:0.2973', 'taught:0.2277']"
+        ]
+    ]
+}

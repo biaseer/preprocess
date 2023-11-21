@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/harrowtimes.co.uk/UN Security Council to meet as Ukraine calls for humanitarian corridors.txt+eventbasecode46+eventcode46+avgtone0.4768211920529801+goldsteinscale0.85+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5+news_keywords+['ukraine:0.4826', 'humanitarian:0.4262', 'briefing:0.3641', 'putins:0.3468', 'terrorism:0.3421', 'nuclear:0.3304', 'embassy:0.3194', 'blockade:0.3168', 'emergency:0.2992', 'troop:0.2531', 'corridor:0.2513', 'flee:0.2196', 'anonymity:0.2154', 'ahead:0.2102', 'delegation:0.209', 'president:0.2071', 'azov:0.2038', 'world:0.1998', 'debate:0.1878', 'organise:0.186', 'intensifies:0.1733', 'catherine:0.173', 'hear:0.1698', 'shmyhal:0.1518', 'childrens:0.1368', 'weu:0.1242', 'month:0.1026', 'send:0.1011', 'include:0.0874', 'resolution:0.0783']+titles_keywords+['ukraine:0.3616', 'humanitarian:0.3131', 'corridors:0.2686', 'council:0.2649', 'meet:0.1889']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20220122+../news_crawling/RUS_UKR/p_articles/harrowtimes.co.uk/US and Russia agree to keep talking amid tensions over Ukraine.txt+eventbasecode46+eventcode46+avgtone0.5+goldsteinscale0.85+nummentions0.18396226415094338+numarticles0.1845540246555475+numsources0.3684210526315789+news_keywords+['diplomacy:0.4587', 'nato:0.4401', 'putin:0.4091', 'kyiv:0.3831', 'russias:0.3581', 'pentagon:0.2963', 'invades:0.2959', 'pursue:0.2596', 'deploy:0.2578', 'concern:0.2149', 'anticipate:0.2089', 'weaponry:0.2083', 'debate:0.2042', 'ongoing:0.201', 'manoeuvre:0.2001', 'border:0.1982', 'meet:0.198', 'know:0.1956', 'word:0.1887', 'position:0.1879', 'reiterate:0.1842', 'promise:0.1708', 'pull:0.1598', 'virtual:0.1568', 'consequence:0.1554', 'direct:0.1497', 'strike:0.1448', 'week:0.1293', 'difference:0.128', 'send:0.1255']+titles_keywords+['talking:0.31', 'ukraine:0.29', 'tensions:0.0986', 'agree:0.0386', 'amid:-0.0234']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/harrowtimes.co.uk/Russias troops withdrawing and risk being attacked by Ukraine forces Radakin.txt+eventbasecode46+eventcode46+avgtone0.474816369359916+goldsteinscale0.85+nummentions0.1320754716981132+numarticles0.13270485859318346+numsources0.14802631578947367+news_keywords+['putin:0.4937', 'kyiv:0.4341', 'russias:0.4016', 'nato:0.3821', 'propaganda:0.3339', 'gchq:0.311', 'colonel:0.2872', 'bombardment:0.2644', 'retreat:0.2612', 'escalate:0.2599', 'armoured:0.252', 'predict:0.2341', 'delegation:0.2313', 'sanction:0.2283', 'negotiation:0.2206', 'clear:0.1938', 'emphasis:0.1853', 'conversely:0.1842', 'downing:0.1803', 'replace:0.179', 'afraid:0.1753', 'shoot:0.1685', 'resume:0.1599', 'unite:0.1523', 'arm:0.1408', 'misjudgments:0.1384', 'agreed:0.1119', 'coming:0.1108', 'late:0.1103', 'weve:0.1022']+titles_keywords+['ukraine:0.4267', 'radakin:0.3193', 'withdrawing:0.313', 'attacked:0.1929', 'forces:0.1493']"
+        ]
+    ]
+}

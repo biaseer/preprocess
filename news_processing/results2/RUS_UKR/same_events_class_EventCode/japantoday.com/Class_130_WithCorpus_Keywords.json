@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+130":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/japantoday.com/Latest developments in Russian invasion of Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4790276453765491+goldsteinscale0.27999999999999997+nummentions0.11103047895500726+numarticles0.1116751269035533+numsources0.3092105263157895+news_keywords+['geopolitics:0.4957', 'crimea:0.4648', 'putin:0.4205', 'ukrainians:0.4015', 'nato:0.3848', 'nationalist:0.3827', 'regime:0.3497', 'propaganda:0.3422', 'dostoevsky:0.3175', 'yuri:0.3046', 'violence:0.2775', 'disaster:0.266', 'intervene:0.2547', 'battalion:0.2332', 'read:0.2329', 'maneuvering:0.2245', 'evil:0.22', 'result:0.2046', 'plug:0.1932', 'align:0.1914', 'forget:0.1863', 'expert:0.1767', 'prepare:0.1763', 'js:0.1623', 'isnt:0.1541', 'backside:0.1533', 'mixture:0.1503', 'nearly:0.1412', 'decades:0.1385', 'sure:0.1371']+titles_keywords+['ukraine:0.4995', 'invasion:0.3913', 'russian:0.3582', 'developments:0.2864', 'latest:0.2303']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20211212+../news_crawling/RUS_UKR/p_articles/japantoday.com/G7 warns Russia of massive consequences if Ukraine invaded.txt+eventbasecode130+eventcode130+avgtone0.4705528846153847+goldsteinscale0.27999999999999997+nummentions0.06313497822931785+numarticles0.06381435823060189+numsources0.05263157894736842+news_keywords+['crimea:0.4955', 'nato:0.4478', 'putin:0.4023', 'invade:0.385', 'nationalism:0.3541', 'antirussian:0.3487', 'terrorist:0.2931', 'airpower:0.2864', 'unilaterally:0.2672', 'opec:0.2491', 'worry:0.2323', 'investigate:0.2285', 'trouble:0.218', 'secure:0.2134', 'wikipedia:0.2117', 'future:0.2081', 'example:0.1969', 'orchestrate:0.1919', 'transponder:0.1693', 'order:0.1691', 'smash:0.1684', 'sure:0.162', 'flank:0.1613', 'btw:0.1572', 'pull:0.1475', 'exactly:0.1449', 'theya:0.134', 'formal:0.1263', 'difference:0.1122', 'enjoy:0.0942']+titles_keywords+['ukraine:0.396', 'consequences:0.2772', 'g7:0.264', 'warns:0.2588', 'invaded:0.2447']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/japantoday.com/UN food agency official alarmed by Afghan food fuel prices.txt+eventbasecode130+eventcode130+avgtone0.47001934235976783+goldsteinscale0.27999999999999997+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['economy:0.3892', 'food:0.3762', 'afghanistan:0.3676', 'hamburger:0.297', 'poultry:0.2665', 'buck:0.2509', 'chicago:0.2504', 'pound:0.2451', 'electricity:0.2426', 'cost:0.2399', 'month:0.2136', 'japantoday:0.2119', 'survey:0.21', 'utility:0.2096', 'news:0.1929', 'world:0.1906', 'change:0.1875', 'catskills:0.1857', 'bank:0.1811', 'francisco:0.1796', 'alert:0.1713', 'green:0.1584', 'average:0.1566', 'percent:0.1363', 'rise:0.1276', 'say:0.1263', 'related:0.1112', 'stable:0.0863', 'share:0.0811', 'thakral:0.071']+titles_keywords+['afghan:0.3954', 'fuel:0.2772', 'prices:0.2101', 'alarmed:0.1533', 'official:0.0895']"
+        ]
+    ]
+}

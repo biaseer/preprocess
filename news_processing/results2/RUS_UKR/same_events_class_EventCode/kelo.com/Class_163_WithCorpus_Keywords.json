@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+163":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/kelo.com/Russias biggest bank Sberbank says it is operating normally studying sanctions.txt+eventbasecode163+eventcode163+avgtone0.4579439252336449+goldsteinscale0.1+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['sberbank:0.4544', 'banking:0.4223', 'moscow:0.4015', 'russias:0.386', 'russian:0.3681', 'ukraine:0.365', 'rouble:0.3135', 'sanction:0.2964', 'reuters:0.2717', 'treasury:0.2354', 'implication:0.2001', 'correspondent:0.1934', 'deposit:0.1914', 'withdraw:0.1859', 'operate:0.1846', 'currency:0.1818', 'invasion:0.1816', 'impose:0.1753', 'friday:0.1524', 'freeze:0.1495', 'normally:0.1413', 'restriction:0.1388', 'say:0.0914', 'day:0.0914', 'big:0.0843', 'study:0.076', 'asset:0.0639', 'tie:0.0566', 'major:0.0563', 'sever:0.0404']+titles_keywords+['sberbank:0.4764', 'sanctions:0.2949', 'normally:0.1877', 'studying:0.1047', 'biggest:0.0773']"
+        ],
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/kelo.com/Saxo Bank terminates Russian Belarussian clients following sanctions.txt+eventbasecode163+eventcode163+avgtone0.4530201342281879+goldsteinscale0.1+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['belarus:0.4237', 'bank:0.3721', 'sanction:0.3612', 'russias:0.3447', 'reuters:0.3307', 'withdraw:0.3097', 'saxo:0.2939', 'terminate:0.2867', 'transaction:0.2579', 'security:0.23', 'statement:0.2201', 'position:0.2197', 'impose:0.2168', 'result:0.207', 'decision:0.1896', 'copenhagen:0.1822', 'investment:0.1782', 'client:0.1699', 'invasion:0.1643', 'subject:0.1546', 'current:0.1311', 'follow:0.1218', 'say:0.1113', 'increase:0.1085', 'number:0.1059', 'longer:0.1055', 'open:0.1003', 'saturday:0.0891', 'small:0.0713', 'terrible:0.0575']+titles_keywords+['sanctions:0.4379', 'saxo:0.4068', 'belarussian:0.3765', 'bank:0.2516', 'terminates:0.156']"
+        ]
+    ]
+}

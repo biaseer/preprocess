@@ -1,0 +1,12 @@
+{
+    "IRL+UKR+43":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/waterford-news.ie/Ukrainian protesters in Dublin turn focus to Chinese Embassy.txt+eventbasecode43+eventcode43+avgtone0.48402948402948404+goldsteinscale0.64+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.01644736842105263+news_keywords+['ukraine:0.4814', 'putin:0.4213', 'protest:0.3738', 'sovereignty:0.3476', 'beijing:0.3101', 'embassy:0.3054', 'invasion:0.2853', 'capital:0.2776', 'irish:0.2322', 'superpower:0.2098', 'turn:0.2021', 'speaking:0.2019', 'stay:0.1973', 'xi:0.1886', 'world:0.1882', 'street:0.1842', 'push:0.1828', 'breakaway:0.1795', 'president:0.1775', 'recognise:0.1769', 'tank:0.1687', 'jinping:0.1646', 'example:0.1621', 'monday:0.1255', 'right:0.1245', 'bad:0.1182', 'friend:0.1177', 'allegedly:0.0834', 'doesnt:0.076', 'trade:0.0759']+titles_keywords+['protesters:0.4194', 'dublin:0.3718', 'ukrainian:0.2939', 'embassy:0.2725', 'focus:0.1125']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/waterford-news.ie/Limerick man leaving wife and son in Ireland to fight in native Ukraine.txt+eventbasecode43+eventcode43+avgtone0.48790896159317215+goldsteinscale0.64+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.023026315789473683+news_keywords+['crimea:0.5069', 'ukrainians:0.431', 'troop:0.3836', 'evacuate:0.3654', 'limerick:0.3495', 'frontline:0.2897', 'ahead:0.2788', 'worry:0.2746', 'plan:0.2726', 'missile:0.2624', 'bring:0.2623', 'help:0.2546', 'nicolay:0.2545', 'government:0.2415', 'situation:0.2347', 'cross:0.225', 'capital:0.2151', 'know:0.2093', 'charity:0.2076', 'fight:0.2041', 'association:0.1782', 'proud:0.1743', 'stitch:0.1686', 'blindly:0.1549', 'accuracy:0.1537', 'father:0.148', 'living:0.1476', 'surgical:0.1444', 'welcome:0.1339', 'electronics:0.0895']+titles_keywords+['limerick:0.4429', 'ukraine:0.2499', 'son:0.1945', 'fight:0.1855', 'leaving:0.0945']"
+        ]
+    ]
+}

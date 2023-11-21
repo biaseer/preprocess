@@ -1,0 +1,12 @@
+{
+    "RUS+GBR+16":[
+        [
+            "20220124+../news_crawling/RUS_UKR/p_articles/columbian.com/Russia rejects UK claim of trying to replace Ukraine leader.txt+eventbasecode16+eventcode16+avgtone0.48315688161693937+goldsteinscale0.4+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.039473684210526314+news_keywords+['kremlin:0.4764', 'ukraines:0.4572', 'diplomacy:0.3948', 'yanukovych:0.3934', 'nato:0.3569', 'propaganda:0.3471', 'provocation:0.2763', 'separatist:0.2714', 'invasion:0.2667', 'yevheniy:0.2532', 'pursue:0.2526', 'nonsense:0.2432', 'uk:0.2213', 'telegram:0.2193', 'coordinate:0.2185', 'concern:0.2131', 'term:0.2028', 'know:0.1924', 'secretary:0.1869', 'coronavirus:0.1797', 'neutral:0.1774', 'end:0.1669', 'gamut:0.1633', 'defuse:0.1631', 'huddle:0.1604', 'reiterate:0.1553', 'fall:0.1547', 'replace:0.1317', 'oust:0.1286', 'deal:0.0565']+titles_keywords+['ukraine:0.4411', 'replace:0.1617', 'rejects:0.151', 'leader:0.1397', 'trying:0.0705']"
+        ]
+    ],
+    "RUS+UKR+16":[
+        [
+            "20220117+../news_crawling/RUS_UKR/p_articles/columbian.com/Russia denies looking for pretext to invade Ukraine.txt+eventbasecode16+eventcode16+avgtone0.4761290322580646+goldsteinscale0.4+nummentions0.2663280116110305+numarticles0.2668600435097897+numsources0.2993421052631579+news_keywords+['putin:0.4426', 'ukraines:0.4322', 'crimean:0.4226', 'nato:0.3944', 'invade:0.3738', 'diplomacy:0.3626', 'escalation:0.3087', 'disinformation:0.2802', 'cybersecurity:0.2484', 'pretext:0.2323', 'prepare:0.2302', 'avoid:0.2228', 'border:0.2186', 'entail:0.2099', 'flag:0.2032', 'separatist:0.1954', 'news:0.1913', 'dangerous:0.1906', 'volfovich:0.1906', 'adviser:0.1838', 'fight:0.1832', 'bipartisan:0.1792', 'continue:0.1724', 'drill:0.1599', 'say:0.1499', 'direction:0.1242', 'possibility:0.1031', 'fridaythat:0.087', 'price:0.0735', 'send:0.0626']+titles_keywords+['ukraine:0.4047', 'pretext:0.3376', 'invade:0.3138', 'denies:0.1828', 'looking:0.0937']"
+        ]
+    ]
+}

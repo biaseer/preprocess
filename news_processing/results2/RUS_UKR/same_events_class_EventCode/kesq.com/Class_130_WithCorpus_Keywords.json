@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/kesq.com/Russia intensifies strikes around Kyiv as it warns US against arming Ukraine.txt+eventbasecode130+eventcode130+avgtone0.48368036015756893+goldsteinscale0.27999999999999997+nummentions0.026124818577648767+numarticles0.026831036983321246+numsources0.029605263157894735+news_keywords+['kyiv:0.5631', 'airstrikes:0.4204', 'nato:0.4036', 'russias:0.356', 'chernobyl:0.3406', 'destabilize:0.2986', 'occupy:0.2815', 'syrian:0.2769', 'correspond:0.2668', 'troop:0.259', 'okko:0.2546', 'survive:0.2474', 'worried:0.2373', 'ivana:0.2338', 'intensifies:0.2316', 'conflict:0.2312', 'cnn:0.2201', 'orchestrate:0.2153', 'assistance:0.2104', 'industrial:0.2099', 'report:0.1921', 'arrive:0.1734', 'north:0.1733', 'hear:0.1665', 'turn:0.1643', 'column:0.1636', 'kilometer:0.157', 'swath:0.1485', 'warm:0.1334', 'state:0.113']+titles_keywords+['kyiv:0.4778', 'warns:0.2221', 'arming:0.2025', 'strikes:0.1964', 'intensifies:0.1661']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220121+../news_crawling/RUS_UKR/p_articles/kesq.com/Page Not Found.txt+eventbasecode130+eventcode130+avgtone0.4834905660377358+goldsteinscale0.27999999999999997+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.009868421052631578+news_keywords+['kesq:0.382', 'search:0.3101', 'url:0.3071', 'page:0.2929', 'request:0.2481', 'look:0.2158', 'migrate:0.211', 'change:0.2017', 'new:0.1584', 'platform:0.1421', 'try:0.1283', 'com:0.1261', 'old:0.1168', 'recently:0.1145', 'use:0.0753', 'possible:0.071', 'box:0.0587']+titles_keywords+['page:0.4234']"
+        ]
+    ]
+}

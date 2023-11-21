@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+42":[
+        [
+            "20220113+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Russia warns it will sever ties with the US if it sanctions Putin over Ukraine.txt+eventbasecode42+eventcode42+avgtone0.4798701298701299+goldsteinscale0.595+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['putin:0.4576', 'ukraine:0.4055', 'nato:0.3957', 'diplomatic:0.3458', 'threat:0.3324', 'pipeline:0.3313', 'invade:0.3004', 'escalation:0.2934', 'baltic:0.2893', 'legislation:0.2614', 'oppose:0.2463', 'debate:0.2214', 'worry:0.2151', 'economy:0.2147', 'gop:0.2115', 'pretext:0.198', 'gather:0.1749', 'news:0.172', 'relation:0.1611', 'potential:0.1561', 'forward:0.1514', 'map:0.1383', 'thursday:0.1354', 'statement:0.1319', 'aligning:0.1317', 'rewrite:0.1281', 'complete:0.0833', 'house:0.0757', 'blinken:0.0661', 'cost:0.0217']+titles_keywords+['putin:0.3747', 'sanctions:0.347', 'crisis:0.1627', 'ties:0.1544', 'warns:0.1465']"
+        ]
+    ],
+    "RUS+USA+42":[
+        [
+            "20220125+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Heres how RussiaUkraine tensions are contributing to market volatility as the threat of war in.txt+eventbasecode42+eventcode42+avgtone0.4694736842105263+goldsteinscale0.595+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['geopolitical:0.4826', 'crimea:0.4344', 'russiaukraine:0.4132', 'reuters:0.3571', 'volatility:0.3078', 'bullish:0.2907', 'tension:0.2803', 'escalation:0.2777', 'invades:0.2718', 'disruption:0.2702', 'oil:0.2649', 'threaten:0.247', 'trigger:0.2469', 'stock:0.235', 'alert:0.2229', 'march:0.2142', 'border:0.2049', 'gold:0.1996', 'troops:0.1909', 'pipeline:0.1871', 'extend:0.1825', 'current:0.1694', 'global:0.1693', 'term:0.1452', 'project:0.1382', 'week:0.1194', 'export:0.1114', 'big:0.0991', 'head:0.0902', 'intermediate:0.0692']+titles_keywords+['volatility:0.4906', 'tensions:0.449', 'russiaukraine:0.3779', 'war:0.3632', 'investors:0.2822']"
+        ]
+    ]
+}

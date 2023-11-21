@@ -1,0 +1,12 @@
+{
+    "RUS+SYR+190":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/qatar-tribune.com/Ukrainian President Volodymyr Zelenskyy addresses Doha Forum.txt+eventbasecode190+eventcode190+avgtone0.452914798206278+goldsteinscale0.0+nummentions0.0050798258345428155+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4965', 'zelenskyy:0.4148', 'aleppo:0.3669', 'doha:0.3127', 'war:0.3044', 'ramadan:0.2971', 'threat:0.2792', 'volodymyr:0.2571', 'speech:0.2278', 'president:0.2245', 'intervene:0.2171', 'absence:0.2114', 'destroy:0.2071', 'nuclear:0.1712', 'say:0.1689', 'ongoing:0.1518', 'compare:0.1377', 'people:0.1377', 'help:0.1327', 'planet:0.1203', 'brag:0.1188', 'address:0.1174', 'ensure:0.0997', 'export:0.0868', 'overshadow:0.0776', 'united:0.0747', 'virtual:0.0692', 'entire:0.0684', 'deal:0.0447', 'loom:0.0171']+titles_keywords+['zelenskyy:0.4935', 'doha:0.359', 'ukrainian:0.2662', 'president:0.1886', 'forum:0.1545']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/qatar-tribune.com/QatarUS relations now stronger than ever FM.txt+eventbasecode190+eventcode190+avgtone0.4777777777777777+goldsteinscale0.0+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.003289473684210526+news_keywords+['qatar:0.4275', 'relation:0.3448', 'diplomatic:0.322', 'friendship:0.2757', 'establish:0.2265', 'multilateral:0.2221', 'leaderships:0.2073', 'climate:0.1639', 'thani:0.1598', 'investment:0.1536', 'anniversary:0.1459', 'important:0.1459', 'reiterate:0.1441', 'conclude:0.1409', 'strong:0.1394', 'news:0.1383', 'nation:0.1311', 'common:0.1275', 'level:0.1184', 'term:0.1157', 'message:0.1151', 'issue:0.1107', 'address:0.1088', 'enhance:0.0977', 'point:0.0942', 'consolidate:0.0672', 'distinguish:0.0621', 'like:0.0544', 'thanks:0.035', 'today:0.0327']+titles_keywords+['qatarus:0.5762', 'relations:0.2846', 'fm:0.2579', 'stronger:0.2383']"
+        ]
+    ]
+}

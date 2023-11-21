@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+138":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/Russian ground forces cross into Ukraine border guards.txt+eventbasecode138+eventcode138+avgtone0.47222222222222227+goldsteinscale0.15+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['crimea:0.5021', 'kremlin:0.4314', 'russian:0.3821', 'military:0.3588', 'vladimir:0.3279', 'invasion:0.3183', 'border:0.2959', 'tank:0.2366', 'annex:0.2239', 'guard:0.2159', 'cross:0.2147', 'afp:0.2004', 'separatist:0.2004', 'casualty:0.1762', 'report:0.1677', 'ground:0.164', 'conflict:0.1631', 'force:0.151', 'direction:0.1343', 'equipment:0.1316', 'shell:0.1169', 'confirm:0.1078', 'thursday:0.1062', 'rebel:0.1021', 'president:0.0875', 'major:0.0836', 'hour:0.083', 'launch:0.0774', 'say:0.0644', 'accord:0.0634']+titles_keywords+['ukraine:0.3255', 'guards:0.2928', 'ground:0.1814', 'forces:0.1687', 'cross:0.1596']"
+        ]
+    ],
+    "RUS+UKR+138":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/US embassy warns of attacks in Russia along Ukraine border.txt+eventbasecode138+eventcode138+avgtone0.46131805157593125+goldsteinscale0.15+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.006578947368421052+news_keywords+['kremlin:0.4541', 'moscow:0.4535', 'crimean:0.4496', 'ukraine:0.4466', 'invasion:0.3265', 'threat:0.2914', 'embassy:0.2828', 'border:0.271', 'zakharova:0.2709', 'annex:0.2637', 'troop:0.258', 'emergency:0.2368', 'protest:0.2312', 'warning:0.2062', 'separatist:0.2053', 'americans:0.1768', 'plan:0.1644', 'breakaway:0.1547', 'friday:0.1541', 'neighbor:0.1537', 'fighting:0.145', 'railway:0.1336', 'cite:0.1289', 'statement:0.1237', 'enter:0.1218', 'follow:0.116', 'potential:0.085', 'state:0.0771', 'heighten:0.0507', 'thousand:0.0467']+titles_keywords+['ukraine:0.367', 'embassy:0.2645', 'attacks:0.2402', 'border:0.2375', 'warns:0.2315']"
+        ]
+    ]
+}

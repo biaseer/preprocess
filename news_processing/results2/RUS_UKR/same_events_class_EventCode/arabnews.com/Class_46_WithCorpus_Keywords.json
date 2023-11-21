@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/arabnews.com/Russia says talks with Ukraine continue remotely.txt+eventbasecode46+eventcode46+avgtone0.46948356807511743+goldsteinscale0.85+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['ukraine:0.4721', 'talk:0.3688', 'putins:0.333', 'vladimir:0.3223', 'negotiator:0.2933', 'peace:0.2876', 'threaten:0.2621', 'fight:0.2426', 'zelensky:0.2334', 'president:0.2246', 'meet:0.2226', 'medinsky:0.2222', 'news:0.2036', 'unprovoked:0.1993', 'retreat:0.1977', 'operation:0.1941', 'hold:0.1906', 'volodymyr:0.1683', 'report:0.1524', 'order:0.1524', 'march:0.1482', 'end:0.1403', 'land:0.1236', 'face:0.0976', 'remotely:0.0961', 'asked:0.0914', 'video:0.0825', 'high:0.0766', 'interfax:0.075', 'accord:0.0436']+titles_keywords+['ukraine:0.3667', 'talks:0.2566', 'remotely:0.2439', 'continue:0.2347', 'says:0.0784']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/arabnews.com/TASI Opens higher on Ukraine peace hopes oil resumes bounce Opening bell.txt+eventbasecode46+eventcode46+avgtone0.5024154589371981+goldsteinscale0.85+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.03289473684210526+news_keywords+['saudi:0.4475', 'stock:0.3453', 'markets:0.3323', 'fluctuation:0.3121', 'index:0.294', 'tasi:0.2824', 'ceasefire:0.2783', 'profit:0.2643', 'petrochemical:0.2586', 'surge:0.2381', 'sector:0.2262', 'exchange:0.2202', 'rise:0.2185', 'capital:0.2182', 'aramco:0.2122', 'resume:0.2087', 'lead:0.2035', 'open:0.1864', 'stake:0.184', 'sr:0.1818', 'follow:0.1695', 'talk:0.1613', 'parallel:0.1535', 'flat:0.137', 'approve:0.1368', 'large:0.1203', 'percent:0.0978', 'herfy:0.0961', 'onmonday:0.0865', 'limit:0.0837']+titles_keywords+['tasi:0.4211', 'higher:0.3213', 'ukraine:0.2488', 'opens:0.2416', 'resumes:0.078']"
+        ],
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/arabnews.com/Billionaire Abramovich Ukrainian peace negotiators hit by suspected poisoning Reports.txt+eventbasecode46+eventcode46+avgtone0.48086124401913877+goldsteinscale0.85+nummentions0.059506531204644414+numarticles0.05946337926033358+numsources0.22039473684210525+news_keywords+['putin:0.4884', 'kyiv:0.4415', 'poison:0.4143', 'abramovich:0.3178', 'negotiator:0.3031', 'mykhailo:0.3018', 'war:0.2991', 'umerov:0.2853', 'scare:0.2832', 'conspiracy:0.2785', 'unprovoked:0.2746', 'demilitarize:0.2671', 'report:0.2149', 'incident:0.208', 'symptom:0.2073', 'sanction:0.1984', 'wsj:0.1895', 'help:0.1741', 'meet:0.165', 'tear:0.1637', 'oppose:0.1614', 'company:0.1597', 'outlet:0.1555', 'type:0.1547', 'end:0.142', 'undefined:0.1154', 'request:0.1137', 'official:0.1127', 'lot:0.1059', 'month:0.1049']+titles_keywords+['ukrainian:0.3729', 'abramovich:0.3581', 'negotiators:0.347', 'poisoning:0.3009', 'hit:0.1914']"
+        ]
+    ]
+}

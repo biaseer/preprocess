@@ -1,0 +1,17 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/dw.com/Political vaccines and symbolic bread.txt+eventbasecode61+eventcode61+avgtone0.48851774530271397+goldsteinscale0.82+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['vaccines:0.4622', 'covid:0.4146', 'chinesevaccinesdon:0.4003', 'topics:0.3635', 'aid:0.3563', 'economically:0.3519', 'political:0.3483', 'egypt:0.3091', 'concern:0.3051', 'organization:0.2841', 'demand:0.2621', 'internship:0.2542', 'uproar:0.2483', 'idea:0.2442', 'globally:0.2399', 'exploit:0.2386', 'help:0.2321', 'zeneca:0.2256', 'make:0.2199', 'programm:0.2189', 'subsidized:0.214', 'import:0.2128', 'study:0.2122', 'aish:0.2039', 'grain:0.2025', 'like:0.2024', 'thando:0.1936', 'valid:0.1862', 'end:0.1801', 'year:0.0994']+titles_keywords+['bread:0.4773', 'vaccines:0.4694', 'political:0.4084', 'symbolic:0.3319']"
+        ]
+    ],
+    "DEU+RUS+61":[
+        [
+            "20220507+../news_crawling/RUS_UKR/p_articles/dw.com/Germanys epochal change Parting company with Russia.txt+eventbasecode61+eventcode61+avgtone0.4773345421577516+goldsteinscale0.82+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.412', 'bundestag:0.3685', 'wehrmacht:0.3492', 'revolution:0.3454', 'history:0.3318', 'merkel:0.3212', 'paradigm:0.3022', 'fascist:0.2903', 'realignment:0.2823', 'annexed:0.2767', 'policymakers:0.2716', 'battleground:0.2406', 'subject:0.2385', 'ramifications:0.2292', 'interdependence:0.1974', 'unfold:0.1874', 'newsletter:0.1859', 'pipeline:0.1786', 'compare:0.1716', 'continue:0.1697', 'annihilation:0.1696', 'fraught:0.1655', 'speak:0.1506', 'point:0.1452', 'invest:0.1417', 'entire:0.1323', 'russo:0.1309', 'soon:0.1201', 'swp:0.108', 'huge:0.1052']+titles_keywords+['russia:0.4306', 'change:0.2673', 'parting:0.254', 'epochal:0.2193', 'company:0.1727']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/dw.com/Ukraine Russia sign deal to restart grain exports.txt+eventbasecode61+eventcode61+avgtone0.5073529411764706+goldsteinscale0.82+nummentions0.02104499274310595+numarticles0.02030456852791878+numsources0.02631578947368421+news_keywords+['ukraine:0.3899', 'blockade:0.3652', 'ukrainian:0.3496', 'russia:0.2993', 'russian:0.288', 'grain:0.2828', 'port:0.2159', 'deal:0.2143', 'food:0.1919', 'shipment:0.1866', 'restart:0.1784', 'allow:0.1726', 'resumption:0.165', 'export:0.1493', 'global:0.1392', 'month:0.127', 'sea:0.1257', 'help:0.1208', 'sign:0.1198', 'price:0.119', 'ease:0.0784', 'black:0.0707', 'spike:0.0677', 'follow:0.0617', 'expect:0.0594', 'recent:0.0293']+titles_keywords+['ukraine:0.362', 'grain:0.2543', 'deal:0.1984', 'restart:0.1809', 'exports:0.1322']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+10":[
+        []
+    ],
+    "RUS+USA+10":[
+        [
+            "20220508+../news_crawling/RUS_UKR/p_articles/timeslive.co.za/Moscows mood ahead of Victory Day mixes anxiety and resilience.txt+eventbasecode10+eventcode10+avgtone0.48133333333333334+goldsteinscale0.5+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.013157894736842105+news_keywords+['moscow:0.5885', 'kremlin:0.5108', 'dmitry:0.4132', 'economy:0.3425', 'nationalist:0.3246', 'reuters:0.3206', 'mood:0.2882', 'thrive:0.283', 'communicate:0.2528', 'concern:0.2417', 'crisis:0.241', 'modern:0.2383', 'patriarshiye:0.2297', 'information:0.2276', 'say:0.2085', 'prepare:0.2067', 'commemoration:0.2059', 'revise:0.1929', 'world:0.1882', 'unprovoked:0.1857', 'rail:0.1849', 'term:0.1826', 'maria:0.1762', 'population:0.1756', 'fall:0.1745', 'forebode:0.1691', 'state:0.1546', 'long:0.1531', 'divide:0.1318', 'cohesion:0.0536']+titles_keywords+['moscows:0.4605', 'mood:0.4187', 'resilience:0.4114', 'victory:0.3642', 'anxiety:0.36']"
+        ]
+    ]
+}

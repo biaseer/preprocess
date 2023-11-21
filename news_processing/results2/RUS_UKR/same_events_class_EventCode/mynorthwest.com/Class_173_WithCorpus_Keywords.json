@@ -1,0 +1,18 @@
+{
+    "POL+UKR+173":[
+        [
+            "20211118+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Ransomware persists even as highprofile attacks have slowed.txt+eventbasecode173+eventcode173+avgtone0.46296296296296297+goldsteinscale0.25+nummentions0.34107402031930334+numarticles0.34155184916606235+numsources0.375+news_keywords+['ransomware:0.6061', 'cybersecurity:0.4656', 'extradition:0.3397', 'victims:0.3206', 'cryptocurrency:0.3127', 'threat:0.3116', 'urgent:0.2728', 'moscow:0.2688', 'government:0.2579', 'demand:0.255', 'backup:0.2498', 'progress:0.2452', 'know:0.2407', 'sector:0.2404', 'report:0.2245', 'month:0.2141', 'exchange:0.2046', 'reiterate:0.1967', 'lock:0.1917', 'originate:0.1787', 'sum:0.173', 'nakasone:0.1701', 'biden:0.158', 'ap:0.1498', 'head:0.1439', 'tabloid:0.1435', 'global:0.1299', 'lower:0.1164', 'highprofile:0.1043', 'launder:0.1009']+titles_keywords+['ransomware:0.6113', 'highprofile:0.3078', 'persists:0.2015', 'attacks:0.1639', 'slowed:0.1161']"
+        ]
+    ],
+    "RUS+UKR+173":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/War yields softer sentence in illegal campaign donation case.txt+eventbasecode173+eventcode173+avgtone0.4593495934959348+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['indictment:0.4579', 'fraud:0.3352', 'conspire:0.3295', 'ukrainian:0.3271', 'lawyer:0.3183', 'giuliani:0.3017', 'victim:0.2748', 'case:0.2653', 'republicans:0.2642', 'leniency:0.2631', 'federal:0.2597', 'money:0.2496', 'tycoon:0.2297', 'campaign:0.2239', 'know:0.2177', 'cannabis:0.1966', 'muraviev:0.1935', 'cite:0.1858', 'decide:0.1666', 'yield:0.1616', 'believe:0.152', 'kukushkins:0.1503', 'prior:0.1425', 'abet:0.1362', 'parnas:0.1314', 'rewritten:0.1269', 'funnel:0.1238', 'license:0.1074', 'multiple:0.094', 'year:0.0917']+titles_keywords+['war:0.4031', 'donation:0.2723', 'softer:0.2499', 'illegal:0.2286', 'case:0.2017']"
+        ],
+        []
+    ],
+    "UKR+RUS+173":[
+        [
+            "20220513+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Russian soldier on trial in first Ukraine warcrimes case.txt+eventbasecode173+eventcode173+avgtone0.46728307254623047+goldsteinscale0.25+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.01644736842105263+news_keywords+['kyiv:0.4456', 'kremlin:0.3887', 'ovsyanikov:0.3773', 'prosecution:0.3704', 'interrogation:0.351', 'victim:0.349', 'war:0.3482', 'kalashnikov:0.3377', 'bosniaks:0.3352', 'absentia:0.3083', 'journalists:0.2751', 'atrocity:0.2537', 'sgt:0.247', 'report:0.2392', 'precedent:0.2383', 'herak:0.2374', 'proceeding:0.233', 'tank:0.2305', 'brief:0.2184', 'shyshimarins:0.199', 'decide:0.195', 'rewritten:0.186', 'independent:0.1848', 'know:0.1757', 'bucha:0.1639', 'bid:0.1377', 'ap:0.1363', 'scores:0.1277', 'meter:0.1263', 'material:0.1049']+titles_keywords+['russian:0.4201', 'ukraine:0.3991', 'trial:0.3644', 'soldier:0.2995', 'warcrimes:0.2857']"
+        ]
+    ]
+}

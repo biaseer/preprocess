@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/batonrougepost.com/AsiaPacific stock markets slide amid Russia sanctions.txt+eventbasecode130+eventcode130+avgtone0.48582995951417+goldsteinscale0.27999999999999997+nummentions0.10957910014513789+numarticles0.11022480058013052+numsources0.16447368421052633+news_keywords+['russia:0.4507', 'sanction:0.3191', 'economy:0.3045', 'nikkei:0.2713', 'donetsk:0.2511', 'demilitarize:0.2393', 'shanghai:0.2353', 'stock:0.2274', 'aircraft:0.1816', 'decrease:0.1799', 'operation:0.1777', 'march:0.1726', 'toyota:0.1718', 'anisputnik:0.1684', 'begin:0.1679', 'impact:0.1667', 'index:0.1651', 'slide:0.1604', 'exchange:0.1506', 'stress:0.1485', 'gmt:0.1367', 'respond:0.1195', 'spasx:0.1028', 'point:0.0986', 'sign:0.0979', 'include:0.093', 'hang:0.0888', 'amid:0.0753', 'official:0.0683', 'solely:0.0524']+titles_keywords+['sanctions:0.3293', 'russia:0.2385', 'asiapacific:0.2267', 'slide:0.1807', 'stock:0.1647']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/batonrougepost.com/EU to hit Russia with sanctions that will hurt a lot Borrell.txt+eventbasecode130+eventcode130+avgtone0.47213114754098356+goldsteinscale0.27999999999999997+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.03618421052631579+news_keywords+['ukraine:0.4093', 'putin:0.3852', 'sanction:0.3633', 'eu:0.3595', 'diplomacy:0.358', 'republics:0.279', 'bloc:0.2166', 'warn:0.1807', 'accusing:0.1744', 'commit:0.1576', 'individualsentities:0.1574', 'breakaway:0.1546', 'upcoming:0.1447', 'yves:0.141', 'dpr:0.1406', 'duma:0.1398', 'hit:0.1392', 'undermining:0.1389', 'alongside:0.1388', 'relation:0.1369', 'come:0.1307', 'vote:0.1255', 'step:0.1213', 'bad:0.1136', 'citing:0.1111', 'donbass:0.1091', 'market:0.0851', 'agree:0.0603', 'list:0.0564', 'limit:0.0515']+titles_keywords+['sanctions:0.5311', 'russia:0.4159', 'eu:0.3425', 'borrell:0.2724', 'hit:0.2644']"
+        ]
+    ]
+}

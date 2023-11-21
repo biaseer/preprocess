@@ -1,0 +1,15 @@
+{
+    "GBR+RUS+130":[
+        [
+            "20220202+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict Vladimir Putin may face serious backlash should invasion happen.txt+eventbasecode130+eventcode130+avgtone0.47704081632653067+goldsteinscale0.27999999999999997+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5043', 'russiaukraine:0.4233', 'russias:0.4085', 'nato:0.3857', 'kyiv:0.3629', 'invades:0.3597', 'oligarchs:0.2877', 'border:0.2363', 'concern:0.2277', 'sanction:0.2156', 'negotiate:0.196', 'news:0.1834', 'remain:0.1718', 'turn:0.169', 'realise:0.1679', 'response:0.1636', 'plan:0.1616', 'happen:0.1487', 'analyst:0.1461', 'suggest:0.1452', 'morning:0.1347', 'write:0.1316', 'tie:0.1254', 'dramatic:0.1199', 'avoidable:0.1156', 'strong:0.1104', 'direct:0.1044', 'house:0.0894', 'set:0.081', 'possible:0.0646']+titles_keywords+['putin:0.5429', 'russiaukraine:0.4284', 'invasion:0.3151', 'conflict:0.2561', 'backlash:0.2331']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20211213+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict G7 warns Russia will face massive consequences in case of Ukraine invasion.txt+eventbasecode130+eventcode130+avgtone0.47215496368038745+goldsteinscale0.27999999999999997+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.003289473684210526+news_keywords+['ukraine:0.4485', 'nato:0.4464', 'diplomacy:0.4196', 'invade:0.3797', 'putins:0.3749', 'tensions:0.3237', 'reuters:0.2887', 'escalate:0.2658', 'border:0.2443', 'aggression:0.2396', 'consequence:0.2283', 'alert:0.2127', 'rhetoric:0.2015', 'speculate:0.2004', 'unite:0.2002', 'decide:0.2', 'implement:0.1883', 'biden:0.183', 'bring:0.1713', 'analyst:0.1565', 'explain:0.1502', 'department:0.1489', 'follow:0.1402', 'include:0.1334', 'buildup:0.1272', 'end:0.1238', 'prevent:0.1211', 'massive:0.1051', 'week:0.0802', 'cost:0.0494']+titles_keywords+['russiaukraine:0.4177', 'consequences:0.2682', 'g7:0.2414', 'invasion:0.2386', 'conflict:0.2342']"
+        ],
+        [
+            "20220804+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict Rail link from Crimea to Kherson not operational following Ukrainian strike says UK.txt+eventbasecode130+eventcode130+avgtone0.4705882352941177+goldsteinscale0.27999999999999997+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimea:0.5365', 'ukraines:0.4289', 'russiaukraine:0.4174', 'war:0.2935', 'rail:0.2841', 'resupply:0.2804', 'frontlines:0.2553', 'update:0.2416', 'occupy:0.2296', 'prepare:0.2292', 'logistical:0.2138', 'counterattack:0.2109', 'crisis:0.2047', 'warn:0.1949', 'zelenskyy:0.1918', 'kherson:0.1918', 'tense:0.1653', 'turn:0.1609', 'realise:0.1592', 'eastern:0.1525', 'twitter:0.1525', 'cite:0.1486', 'subsequent:0.1485', 'hold:0.1457', 'week:0.1374', 'surround:0.1316', 'rih:0.1312', 'make:0.1024', 'scoping:0.1009', 'likely:0.0117']+titles_keywords+['crimea:0.4254', 'rail:0.3284', 'operational:0.2448', 'strike:0.1971', 'says:0.0416']"
+        ]
+    ]
+}

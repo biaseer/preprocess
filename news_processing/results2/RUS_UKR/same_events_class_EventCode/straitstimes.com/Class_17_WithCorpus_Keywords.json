@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+17":[
+        [
+            "20220718+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Family members mourn 4yearold Ukrainian girl killed in Russian missile attack.txt+eventbasecode17+eventcode17+avgtone0.4631828978622328+goldsteinscale0.5+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukrainian:0.4094', 'dmytriyeva:0.3924', 'liza:0.3732', 'cemetery:0.3726', 'mourn:0.3168', 'elizaveta:0.3153', 'emergency:0.2547', 'kill:0.2429', 'military:0.204', 'portrait:0.2039', 'girl:0.2001', 'mother:0.1998', 'shrapnel:0.1956', 'nytimes:0.1932', 'people:0.1931', 'visceral:0.1886', 'normalcy:0.1791', 'word:0.173', 'syndrome:0.1654', 'away:0.1559', 'familiar:0.1546', 'song:0.1541', 'teddy:0.1319', 'begin:0.1238', 'dozen:0.1184', 'organise:0.1145', 'cruise:0.0928', 'lower:0.0802', 'possible:0.0791', 'crisscross:0.0653']+titles_keywords+['ukrainian:0.3974', 'mourn:0.2952', 'family:0.2353', 'missile:0.2242', '4yearold:0.2039']"
+        ],
+        [
+            "20220821+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Zelensky warns of ugly Russian attack as Ukraine prepares to celebrate Independence Day.txt+eventbasecode17+eventcode17+avgtone0.47453703703703703+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.486', 'soviet:0.4238', 'zelensky:0.4137', 'terrorism:0.3293', 'invasion:0.2991', 'reuters:0.2944', 'pivdennoukrainsk:0.278', 'warn:0.2649', 'nuclear:0.2548', 'independence:0.2521', 'yevhen:0.2427', 'prepare:0.2337', 'curfew:0.2248', 'celebrate:0.2061', 'strike:0.2035', 'accusation:0.196', 'update:0.1888', 'governor:0.1669', 'write:0.1641', 'month:0.1631', 'arrange:0.1599', 'vicious:0.1468', 'disseminate:0.1363', 'opposite:0.1227', 'right:0.1198', 'large:0.1101', 'fell:0.1086', 'building:0.1012', 'far:0.0898', 'particularly:0.0409']+titles_keywords+['zelensky:0.5094', 'ukraine:0.3696', 'celebrate:0.2441', 'warns:0.212', 'ugly:0.1438']"
+        ]
+    ]
+}

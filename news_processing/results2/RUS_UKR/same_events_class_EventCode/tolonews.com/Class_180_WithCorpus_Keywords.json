@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/tolonews.com/Cyberattack Hits Ukrainian Govt Websites Amid Russia Tensions.txt+eventbasecode180+eventcode180+avgtone0.4688644688644688+goldsteinscale0.05+nummentions0.008345428156748911+numarticles0.009064539521392313+numsources0.003289473684210526+news_keywords+['cyberattack:0.5336', 'kremlin:0.4046', 'crimea:0.363', 'nato:0.3371', 'hryvnia:0.3287', 'diplomacy:0.3075', 'govt:0.2991', 'reuters:0.2892', 'tensions:0.2135', 'warning:0.2065', 'future:0.194', 'investigation:0.1895', 'destroy:0.1875', 'data:0.1848', 'response:0.1793', 'separatist:0.179', 'persuade:0.1746', 'write:0.1618', 'affected:0.1592', 'continue:0.1547', 'reverse:0.148', 'want:0.1429', 'usual:0.1418', 'outbreak:0.1332', 'possible:0.1201', 'term:0.1194', 'cabinet:0.1069', 'long:0.0996', 'compare:0.0843', 'upload:0.0609']+titles_keywords+['cyberattack:0.4703', 'ukrainian:0.3814', 'websites:0.2421', 'govt:0.216', 'tensions:0.1169']"
+        ],
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/tolonews.com/Ukrainian Oil Gas Facilities Burn as West Prepares New Sanctions.txt+eventbasecode180+eventcode180+avgtone0.46393034825870644+goldsteinscale0.05+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4835', 'sanctions:0.3995', 'kremlin:0.3927', 'war:0.3447', 'pipeline:0.3249', 'explosion:0.3242', 'reuters:0.3224', 'propaganda:0.3019', 'threaten:0.2962', 'government:0.2692', 'tank:0.256', 'separatist:0.2538', 'zelenskiy:0.2398', 'prepare:0.2292', 'burn:0.221', 'western:0.2133', 'telegram:0.207', 'capital:0.2045', 'flee:0.1951', 'railway:0.1924', 'report:0.1839', 'president:0.1808', 'baseless:0.1711', 'ally:0.1603', 'neighbouring:0.1588', 'fourth:0.1486', 'later:0.1284', 'gmt:0.1188', 'big:0.0978', 'normal:0.0799']+titles_keywords+['sanctions:0.4021', 'ukrainian:0.3079', 'burn:0.286', 'gas:0.2669', 'prepares:0.1489']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+193":[
+        [
+            "20210623+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Russia says it chases British destroyer out of Crimea waters with warning shots bombs.txt+eventbasecode193+eventcode193+avgtone0.5378787878787878+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.6139', 'russians:0.3783', 'nato:0.3754', 'boris:0.3082', 'war:0.2704', 'gunnery:0.2655', 'sail:0.2553', 'reuters:0.2404', 'territorial:0.2339', 'british:0.213', 'turn:0.2073', 'accordance:0.1947', 'read:0.1928', 'coup:0.1898', 'baynative:0.1875', 'incompetence:0.1828', 'incorrect:0.1691', 'short:0.1668', 'reject:0.164', 'careful:0.1544', 'arent:0.1414', 'html:0.1406', 'tonnage:0.1346', 'simply:0.1245', 'claim:0.1224', 'split:0.1123', 'great:0.1012', 'sevastopol:0.0927', 'aragorn:0.0807', 'whenifhow:0.0663']+titles_keywords+['crimea:0.4649', 'destroyer:0.1626', 'warning:0.1415', 'shots:0.1102', 'says:0.0459']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/freerepublic.com/NATO rules out Ukraine nofly zone Painful decision.txt+eventbasecode193+eventcode193+avgtone0.47484276729559755+goldsteinscale0.0+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.01644736842105263+news_keywords+['nato:0.4968', 'ukrainians:0.3785', 'putin:0.3552', 'invades:0.3198', 'sovereignty:0.2982', 'propaganda:0.2884', 'conflict:0.2772', 'avoid:0.2193', 'zone:0.2099', 'fly:0.2072', 'allow:0.2059', 'know:0.2056', 'volodymyr:0.1929', 'dangerous:0.1811', 'logical:0.1709', 'reactor:0.1706', 'plan:0.1645', 'elect:0.1545', 'like:0.1526', 'world:0.1515', 'constitutes:0.1471', 'end:0.1379', 'hold:0.1283', 'author:0.1192', 'sorry:0.1108', 'zero:0.1097', 'direct:0.1066', 'doesnt:0.0882', 'week:0.074', 'potentially:0.0647']+titles_keywords+['nato:0.4252', 'ukraine:0.3898', 'nofly:0.2894', 'zone:0.1897', 'rules:0.1715']"
+        ],
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Ukrainian forces reportedly shot down a Russian SU25 near Orikhiv in Zaporizhzhya Oblast The plane.txt+eventbasecode193+eventcode193+avgtone0.4701492537313433+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['russianaggression:0.4911', 'putinsbuttboys:0.4429', 'deathtochechnya:0.4406', 'ukraine:0.3984', 'propaganda:0.393', 'plane:0.3469', 'report:0.2998', 'war:0.2877', 'hit:0.2397', 'bidenpuffers:0.229', 'mig:0.2124', 'reportedly:0.1996', 'ghostofkiev:0.1926', 'video:0.1919', 'crash:0.1916', 'zottherussiantrolls:0.1901', 'uaf:0.1874', 'ka:0.1842', 'wrong:0.1829', 'accidental:0.1815', 'bout:0.1806', 'neocon:0.1734', 'scene:0.1619', 'cause:0.1482', 'reliable:0.1355', 'theyd:0.1071', 'bleach:0.107', 'keywords:0.1067', 'nice:0.1065', 'processing:0.0708']+titles_keywords+['ukrainian:0.42', 'su25:0.2884', 'hit:0.2621', 'plane:0.2586', 'crashes:0.1914']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "ARE+RUS+50":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/chinanationalnews.com/Wizz Air RussiaUAE flights to remain canceled.txt+eventbasecode50+eventcode50+avgtone0.4788732394366197+goldsteinscale0.675+nummentions0.28519593613933236+numarticles0.2857142857142857+numsources0.2565789473684211+news_keywords+['uae:0.4518', 'moscow:0.3894', 'flight:0.3858', 'airspace:0.3501', 'theairline:0.3435', 'boycott:0.3122', 'sanction:0.2729', 'european:0.2486', 'suspend:0.248', 'supply:0.2406', 'canceled:0.2391', 'wizz:0.2079', 'sovereign:0.205', 'twitter:0.2041', 'statement:0.1965', 'carrier:0.1959', 'union:0.186', 'venture:0.1822', 'list:0.1762', 'say:0.1757', 'operation:0.1676', 'month:0.1623', 'despite:0.1609', 'hold:0.1533', 'neutral:0.15', 'adq:0.1487', 'th:0.1454', 'refer:0.1385', 'percent:0.1057', 'resume:0.0631']+titles_keywords+['russiauae:0.4223', 'flights:0.3894', 'canceled:0.3862', 'wizz:0.3001', 'remain:0.1208']"
+        ]
+    ],
+    "CHN+RUS+50":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/chinanationalnews.com/The key area where China must now pair up with Russia to defy the US.txt+eventbasecode50+eventcode50+avgtone0.49568500539374327+goldsteinscale0.675+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.029605263157894735+news_keywords+['geopolitics:0.4345', 'weaponisation:0.3262', 'china:0.3203', 'embargo:0.3197', 'semiconductor:0.309', 'huawei:0.3046', 'industry:0.2884', 'patent:0.2741', 'advantage:0.2588', 'establish:0.2512', 'roadmap:0.2397', 'moscow:0.2347', 'subject:0.2134', 'coordinate:0.2125', 'compute:0.1981', 'jurisdiction:0.1978', 'result:0.1962', 'consolidate:0.1886', 'dominance:0.1839', 'help:0.1826', 'example:0.178', 'biden:0.172', 'trend:0.1687', 'fight:0.1642', 'mutually:0.1627', 'trade:0.1489', 'wider:0.1304', 'unilateral:0.1285', 'benchmark:0.0982', 'list:0.0955']+titles_keywords+['russia:0.41', 'defy:0.1842', 'area:0.1281', 'key:0.1225', 'pair:0.0783']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+42":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/chroniclejournal.com/Suffering goes on in encircled Mariupol as evacuation fails.txt+eventbasecode42+eventcode42+avgtone0.48638132295719844+goldsteinscale0.595+nummentions0.068577648766328+numarticles0.06925308194343727+numsources0.3157894736842105+news_keywords+['crimea:0.5133', 'evacuation:0.4053', 'moscows:0.3956', 'nato:0.3553', 'zelenskyy:0.2823', 'pentagon:0.2791', 'news:0.2588', 'strategic:0.2451', 'soldier:0.2229', 'concern:0.2222', 'tell:0.2196', 'capital:0.2195', 'mig:0.2147', 'fight:0.2145', 'deliver:0.2103', 'presidential:0.2076', 'continue:0.2039', 'column:0.2031', 'unfold:0.1905', 'snow:0.1852', 'surround:0.1811', 'reach:0.1788', 'import:0.1672', 'badly:0.1608', 'nearly:0.1606', 'buy:0.1525', 'longer:0.1493', 'agree:0.1307', 'thousands:0.1168', 'weve:0.0898']+titles_keywords+['evacuation:0.5262', 'suffering:0.4031', 'mariupol:0.3612', 'encircled:0.3355', 'fails:0.1765']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/chroniclejournal.com/Fendi Cavalli open a more relaxed Milan Fashion Week.txt+eventbasecode42+eventcode42+avgtone0.5061043285238623+goldsteinscale0.595+nummentions0.23076923076923078+numarticles0.23132704858593184+numsources0.17434210526315788+news_keywords+['fashion:0.6123', 'couture:0.5061', 'fendi:0.4587', 'knitwear:0.4568', 'minidresses:0.4175', 'chiffony:0.4138', 'cavalli:0.3713', 'modern:0.3692', 'runway:0.3321', 'allure:0.3284', 'stitch:0.3114', 'palette:0.2948', 'season:0.2638', 'embellishment:0.2425', 'say:0.2244', 'label:0.2197', 'influencers:0.2138', 'enter:0.2106', 'regimented:0.2052', 'grid:0.2042', 'list:0.186', 'cover:0.1847', 'deconstruct:0.1682', 'kim:0.1672', 'print:0.167', 'coronavirus:0.1542', 'upward:0.1495', 'ora:0.1443', 'define:0.1301', 'alike:0.1264']+titles_keywords+['fendi:0.4995', 'cavalli:0.4869', 'open:0.311', 'week:0.2729', 'relaxed:0.1962']"
+        ]
+    ]
+}

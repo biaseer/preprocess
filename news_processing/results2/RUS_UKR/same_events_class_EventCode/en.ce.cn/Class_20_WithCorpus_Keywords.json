@@ -1,0 +1,17 @@
+{
+    "FRA+RUS+20":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/en.ce.cn/Scholz Zelensky discuss grain exports from Ukraine.txt+eventbasecode20+eventcode20+avgtone0.5093457943925234+goldsteinscale0.65+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4324', 'putin:0.3639', 'zelensky:0.3069', 'grain:0.2947', 'scholz:0.2712', 'export:0.2428', 'humanitarian:0.2357', 'exchange:0.2217', 'macron:0.2182', 'government:0.2003', 'german:0.1979', 'discus:0.1695', 'make:0.153', 'volodymyr:0.1413', 'sea:0.1407', 'conversation:0.1377', 'chancellor:0.1227', 'enable:0.1108', 'statement:0.109', 'emmanuel:0.0996', 'say:0.0968', 'current:0.0807', 'brief:0.0671', 'issued:0.0665', 'wednesday:0.0658', 'view:0.0622', 'phone:0.0556', 'effort:0.0521', 'accord:0.0516', 'especially:0.0424']+titles_keywords+['zelensky:0.4895', 'grain:0.4231', 'exports:0.3757', 'scholz:0.3754', 'ukraine:0.3591']"
+        ]
+    ],
+    "RUS+CHN+20":[
+        [
+            "20220809+../news_crawling/RUS_UKR/p_articles/en.ce.cn/Facts about RussiaUkraine conflict Ukraine proposes new sanctions on Russia.txt+eventbasecode20+eventcode20+avgtone0.47297297297297297+goldsteinscale0.65+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.478', 'kremlin:0.4206', 'terrorism:0.3383', 'nuclear:0.3047', 'sanction:0.3012', 'peskov:0.2981', 'privatization:0.297', 'flag:0.2648', 'news:0.2412', 'crisis:0.2386', 'voltage:0.2268', 'artillery:0.1995', 'legal:0.1857', 'arrive:0.166', 'trkiye:0.1648', 'clearance:0.1602', 'monday:0.1555', 'polarnet:0.1536', 'biden:0.1512', 'propose:0.1344', 'plot:0.1337', 'strait:0.1303', 'additional:0.1301', 'purchasing:0.1189', 'according:0.1178', 'generate:0.1165', 'mm:0.1029', 'measure:0.0981', 'entity:0.0956', 'dollar:0.0932']+titles_keywords+['ukraine:0.5115', 'sanctions:0.45', 'conflict:0.2718', 'facts:0.2692', 'new:0.0813']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20211208+../news_crawling/RUS_UKR/p_articles/en.ce.cn/Biden Putin hold video call on bilateral ties Ukrainian crisis Iran nuclear deal.txt+eventbasecode20+eventcode20+avgtone0.49242424242424243+goldsteinscale0.65+nummentions0.038461538461538464+numarticles0.03915881073241479+numsources0.02631578947368421+news_keywords+['putin:0.4784', 'diplomacy:0.4485', 'nato:0.3995', 'kiev:0.3276', 'biden:0.3157', 'escalation:0.2853', 'meeting:0.2773', 'concern:0.2115', 'speak:0.193', 'bilateral:0.1924', 'event:0.1869', 'border:0.1845', 'task:0.165', 'reiterate:0.1636', 'deploy:0.1553', 'function:0.1552', 'direction:0.152', 'explain:0.1463', 'states:0.1461', 'follow:0.1436', 'separate:0.1255', 'ally:0.1252', 'month:0.1222', 'surround:0.118', 'readout:0.1067', 'donbass:0.0988', 'deal:0.0877', 'strong:0.0829', 'deep:0.0783', 'ransomware:0.012']+titles_keywords+['putin:0.4297', 'biden:0.3667', 'bilateral:0.1755', 'video:0.1509', 'deal:0.1156']"
+        ]
+    ]
+}

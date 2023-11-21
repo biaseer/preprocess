@@ -1,0 +1,12 @@
+{
+    "RUS+FRA+13":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/Zelenskyy Seeking More Help from Europe.txt+eventbasecode13+eventcode13+avgtone0.4980806142034549+goldsteinscale0.52+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.019736842105263157+news_keywords+['kyiv:0.5211', 'zelenskyy:0.4525', 'russias:0.335', 'meeting:0.2954', 'sievierodonetsk:0.2808', 'occupy:0.2681', 'redeploy:0.2679', 'president:0.2542', 'ahead:0.2209', 'visit:0.2167', 'brief:0.1998', 'success:0.198', 'independence:0.1845', 'address:0.1832', 'reconstruction:0.1831', 'aggression:0.1581', 'care:0.1562', 'liquidity:0.1556', 'turn:0.1461', 'telecommunication:0.1453', 'make:0.1442', 'global:0.1343', 'second:0.1281', 'month:0.1273', 'thank:0.1242', 'major:0.1183', 'michel:0.102', 'counteroffensive:0.0992', 'tf:0.0958', 'price:0.0519']+titles_keywords+['zelenskyy:0.6107', 'europe:0.2763', 'help:0.1712', 'seeking:0.1415']"
+        ]
+    ],
+    "RUS+UKR+13":[
+        [
+            "20220723+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/US Sending Ukraine More Advanced Rocket Systems Fighter Jets Under Consideration.txt+eventbasecode13+eventcode13+avgtone0.49945295404814005+goldsteinscale0.52+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4612', 'armament:0.4028', 'kremlin:0.3724', 'pentagon:0.3361', 'invade:0.3105', 'troop:0.287', 'strategic:0.2754', 'lavrov:0.2598', 'rocket:0.2559', 'scope:0.242', 'forth:0.2155', 'supply:0.2084', 'systems:0.2068', 'achieve:0.1959', 'telegram:0.1862', 'movement:0.1843', 'adviser:0.1836', 'soon:0.1804', 'himars:0.1757', 'preliminary:0.166', 'good:0.1638', 'addition:0.1571', 'estimate:0.1412', 'highlight:0.1386', 'long:0.1329', 'contrary:0.1325', 'stay:0.132', 'thousand:0.1133', 'integrating:0.1086', 'sending:0.096']+titles_keywords+['ukraine:0.3677', 'rocket:0.2553', 'systems:0.1389', 'sending:0.1231', 'consideration:0.0528']"
+        ]
+    ]
+}

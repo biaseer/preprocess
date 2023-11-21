@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+16":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Russian foreign minister again denies reports of Putin illness.txt+eventbasecode16+eventcode16+avgtone0.4671532846715328+goldsteinscale0.4+nummentions0.07293178519593614+numarticles0.043509789702683106+numsources0.06578947368421052+news_keywords+['putin:0.5659', 'lavrov:0.3341', 'diagnose:0.3053', 'ailment:0.3007', 'health:0.2741', 'diplomat:0.2684', 'appear:0.2614', 'suspicious:0.2472', 'deny:0.2306', 'report:0.2286', 'covid:0.2172', 'rumor:0.2147', 'parkinsons:0.2102', 'daily:0.2019', 'read:0.1907', 'suffer:0.1884', 'status:0.1841', 'speech:0.1747', 'old:0.1712', 'taboo:0.1589', 'mr:0.1557', 'disseminate:0.1532', 'issue:0.1498', 'unsteady:0.1379', 'huge:0.1221', 'western:0.1182', 'tf:0.107', 'stamen:0.0914', 'directly:0.088', 'largely:0.0761']+titles_keywords+['putin:0.4142', 'denies:0.2586', 'illness:0.2207', 'reports:0.1412', 'minister:0.0991']"
+        ]
+    ],
+    "RUS+UKR+16":[
+        [
+            "20220117+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Russia denies looking for pretext to invade Ukraine.txt+eventbasecode16+eventcode16+avgtone0.47603626943005184+goldsteinscale0.4+nummentions0.2663280116110305+numarticles0.2668600435097897+numsources0.2993421052631579+news_keywords+['ukraine:0.4572', 'nato:0.4322', 'kremlin:0.422', 'invade:0.376', 'escalation:0.3031', 'cyberattacks:0.2967', 'prepare:0.2654', 'strategic:0.2577', 'disinformation:0.2536', 'diplomat:0.2349', 'pretext:0.2263', 'avoid:0.2194', 'border:0.2179', 'entail:0.214', 'volfovich:0.2129', 'news:0.2026', 'flag:0.1997', 'fight:0.1845', 'turn:0.1818', 'drill:0.1696', 'bipartisan:0.1584', 'weapon:0.1525', 'write:0.1468', 'friday:0.1375', 'current:0.1313', 'look:0.1166', 'estimate:0.1142', 'jake:0.1023', 'possible:0.0836', 'offer:0.0513']+titles_keywords+['ukraine:0.4047', 'pretext:0.3376', 'invade:0.3138', 'denies:0.1828', 'looking:0.0937']"
+        ]
+    ]
+}

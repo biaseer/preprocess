@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/thehimalayantimes.com/Ukraine reports a soldier killed in separatists shelling.txt+eventbasecode190+eventcode190+avgtone0.4472049689440995+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.006578947368421052+news_keywords+['ceasefire:0.445', 'kyiv:0.4259', 'separatists:0.3708', 'russia:0.3326', 'military:0.2962', 'kill:0.2909', 'artillery:0.2505', 'conflict:0.2459', 'trigger:0.2059', 'incidents:0.2014', 'shelling:0.1728', 'agreement:0.164', 'report:0.1338', 'concern:0.1208', 'prohibit:0.1167', 'east:0.1126', 'sharply:0.1091', 'long:0.1073', 'end:0.1031', 'increase:0.1028', 'hour:0.0916', 'compare:0.0867', 'start:0.0854', 'saturday:0.0821', 'page:0.0699', 'open:0.069', 'feb:0.0669', 'line:0.0661', 'pro:0.0529', 'record:0.038']+titles_keywords+['ukraine:0.3234', 'soldier:0.3191', 'killed:0.2275', 'shelling:0.1236', 'reports:0.0259']"
+        ],
+        [
+            "20220511+../news_crawling/RUS_UKR/p_articles/thehimalayantimes.com/Ukraine halts some Russian gas flows claims battlefield gains.txt+eventbasecode190+eventcode190+avgtone0.46715817694369977+goldsteinscale0.0+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['ukraine:0.4722', 'invade:0.3113', 'reuters:0.3107', 'victory:0.3007', 'resupply:0.2909', 'sokhranivka:0.282', 'refugee:0.2541', 'conflict:0.2467', 'military:0.2446', 'telegram:0.227', 'consolidate:0.2245', 'zelenskiy:0.2184', 'know:0.2141', 'long:0.2106', 'data:0.1993', 'end:0.1968', 'push:0.1947', 'report:0.1883', 'gas:0.1835', 'order:0.1756', 'interference:0.174', 'redirect:0.1688', 'howitzer:0.1649', 'concentrate:0.1545', 'month:0.1515', 'major:0.1473', 'pummel:0.1431', 'arm:0.1291', 'near:0.1133', 'new:0.1099']+titles_keywords+['ukraine:0.4002', 'gas:0.2878', 'battlefield:0.2079', 'gains:0.1818', 'halts:0.1608']"
+        ]
+    ]
+}

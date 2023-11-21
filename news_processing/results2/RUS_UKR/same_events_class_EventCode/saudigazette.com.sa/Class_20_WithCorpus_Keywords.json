@@ -1,0 +1,18 @@
+{
+    "RUS+IND+20":[
+        []
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/Ukraine rejects Russian demand to surrender Mariupol.txt+eventbasecode20+eventcode20+avgtone0.4778761061946903+goldsteinscale0.65+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.013157894736842105+news_keywords+['crimea:0.511', 'donetsk:0.413', 'ukrainians:0.4044', 'civilians:0.357', 'pravda:0.3545', 'evacuate:0.3516', 'surrender:0.3377', 'cooperate:0.2484', 'strategic:0.2427', 'separatist:0.2367', 'bombardment:0.2266', 'catastrophe:0.2246', 'argument:0.2159', 'zelensky:0.2128', 'city:0.2047', 'supply:0.1984', 'reject:0.1935', 'unconfirmed:0.1759', 'mariupol:0.1718', 'adviser:0.1668', 'corridor:0.1502', 'official:0.141', 'unable:0.1372', 'gmt:0.1243', 'according:0.1217', 'thousand:0.108', 'earlier:0.1059', 'details:0.1029', 'true:0.0629', 'add:0.0396']+titles_keywords+['ukraine:0.4074', 'surrender:0.353', 'mariupol:0.3121', 'rejects:0.1732', 'demand:0.0252']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/Ukraine defiant as Russia launches major invasion.txt+eventbasecode20+eventcode20+avgtone0.483695652173913+goldsteinscale0.65+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.023026315789473683+news_keywords+['ukraine:0.4793', 'putin:0.412', 'moscowkyiv:0.3857', 'invasion:0.3708', 'nato:0.3656', 'bloodshed:0.3056', 'military:0.3012', 'peaceful:0.2977', 'cyberattacks:0.2832', 'enact:0.2459', 'separatist:0.2454', 'tank:0.2371', 'unprovoked:0.2321', 'firing:0.2303', 'news:0.219', 'zelensky:0.2164', 'read:0.2026', 'president:0.1992', 'warning:0.1925', 'capital:0.1891', 'shortly:0.1818', 'dramatic:0.1742', 'stay:0.1702', 'organize:0.1649', 'donbas:0.1549', 'want:0.1445', 'end:0.1411', 'population:0.1307', 'verify:0.117', 'scale:0.0798']+titles_keywords+['ukraine:0.415', 'invasion:0.3638', 'defiant:0.2133', 'major:0.1205', 'launches:0.1112']"
+        ],
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/Ukraine asks for more Nato weapons.txt+eventbasecode20+eventcode20+avgtone0.5+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['nato:0.553', 'kyiv:0.4292', 'kremlin:0.3808', 'weapon:0.3075', 'conflict:0.2938', 'tank:0.2581', 'supply:0.2557', 'agenda:0.2494', 'prepare:0.241', 'refer:0.2338', 'ally:0.2322', 'help:0.2138', 'protect:0.1925', 'newspaper:0.1782', 'make:0.1685', 'type:0.1674', 'general:0.1666', 'bucha:0.1649', 'promise:0.1568', 'horrific:0.152', 'send:0.1517', 'include:0.1486', 'direct:0.1415', 'end:0.1329', 'effect:0.1248', 'stoltenberg:0.11', 'sooner:0.1082', 'like:0.1029', 'far:0.1012', 'today:0.0887']+titles_keywords+['nato:0.4773', 'ukraine:0.4247', 'weapons:0.3', 'asks:0.1004']"
+        ]
+    ]
+}

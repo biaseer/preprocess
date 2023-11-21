@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+40":[
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/nbcnews.com/Russias media propaganda turns to spinechilling rhetoric to intimidate the West.txt+eventbasecode40+eventcode40+avgtone0.47291666666666665+goldsteinscale0.55+nummentions0.015965166908563134+numarticles0.01015228426395939+numsources0.003289473684210526+news_keywords+['kremlin:0.5128', 'propagandists:0.414', 'kyivs:0.3882', 'newscasts:0.3352', 'nato:0.3282', 'rhetoric:0.323', 'invade:0.3126', 'conflict:0.2431', 'dangerous:0.2319', 'portray:0.2139', 'supply:0.2005', 'turn:0.1932', 'document:0.1915', 'sanction:0.187', 'president:0.1677', 'happen:0.1525', 'long:0.1482', 'reach:0.1447', 'main:0.1437', 'convert:0.1423', 'world:0.1317', 'like:0.1295', 'state:0.1224', 'proxy:0.1199', 'bucha:0.1152', 'bandy:0.1082', 'include:0.0963', 'mouthpiece:0.0886', 'dozen:0.0734', 'ram:0.0721']+titles_keywords+['propaganda:0.508', 'russias:0.4211', 'intimidate:0.3482', 'spinechilling:0.2819', 'west:0.1335']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/nbcnews.com/Russia adds 7000 troops to Ukraine border despite claims it would withdraw some forces US.txt+eventbasecode40+eventcode40+avgtone0.46696035242290745+goldsteinscale0.55+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.4942', 'nato:0.4454', 'ukrainians:0.4024', 'putin:0.397', 'invade:0.3759', 'troop:0.296', 'cyberattack:0.2632', 'diplomatic:0.2506', 'briefing:0.2493', 'border:0.248', 'deterrence:0.2427', 'news:0.2018', 'know:0.1809', 'afraid:0.1786', 'pretext:0.1654', 'additional:0.1579', 'converge:0.1454', 'tomorrow:0.1432', 'pullback:0.1415', 'dmytro:0.1413', 'intercepts:0.1399', 'strengthen:0.1384', 'possibility:0.1259', 'verify:0.1205', 'dress:0.1176', 'arent:0.1155', 'write:0.1152', 'ready:0.1141', 'miscalculation:0.1038', 'trainload:0.0952']+titles_keywords+['ukraine:0.3351', 'troops:0.312', '7000:0.2687', 'withdraw:0.2005', 'forces:0.139']"
+        ],
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/nbcnews.com/EU announces plans to help Ukraine blocks airspace.txt+eventbasecode40+eventcode40+avgtone0.4894079304725693+goldsteinscale0.55+nummentions0.16944847605224964+numarticles0.1700507614213198+numsources0.5592105263157895+news_keywords+['ukraine:0.5193', 'kremlin:0.4435', 'airstrikes:0.3662', 'reuters:0.3513', 'zelenskyy:0.3434', 'oligarch:0.3301', 'occupy:0.3188', 'correspondent:0.3045', 'separatist:0.2928', 'scope:0.2496', 'troop:0.2474', 'crisis:0.2434', 'anonymity:0.2401', 'coexistence:0.2394', 'curfew:0.2332', 'telegram:0.2304', 'flee:0.2292', 'circumvent:0.2265', 'donald:0.2248', 'read:0.2229', 'know:0.2178', 'reassure:0.2173', 'shortly:0.2005', 'table:0.1907', 'agreementin:0.1871', 'dangerous:0.1867', 'et:0.1861', 'import:0.1852', 'bucha:0.1796', 'doesnt:0.0616']+titles_keywords+['ukraine:0.4009', 'eu:0.3097', 'airspace:0.2871', 'plans:0.1409', 'help:0.1303']"
+        ]
+    ]
+}

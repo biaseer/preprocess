@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+10":[
+        []
+    ],
+    "RUS+RUS+10":[
+        []
+    ],
+    "RUS+SGP+10":[
+        []
+    ],
+    "RUS+UKR+10":[
+        [],
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/thesun.co.uk/ISIS celebrate Ukraine war as divine punishment and says it hopes it will destroy all.txt+eventbasecode10+eventcode10+avgtone0.46074154853000004+goldsteinscale0.5+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['ukraine:0.5511', 'putin:0.4328', 'isis:0.4143', 'war:0.3914', 'russiantroops:0.3441', 'orthodox:0.3239', 'bashar:0.3193', 'crisis:0.2911', 'cia:0.2907', 'theukrainiancapital:0.2861', 'chaos:0.2852', 'escalate:0.2789', 'predict:0.2712', 'zelenskyy:0.2691', 'read:0.2407', 'celebrate:0.2339', 'speaking:0.2241', 'progress:0.216', 'versus:0.2137', 'bloody:0.2106', 'long:0.1986', 'begin:0.189', 'want:0.1806', 'hop:0.1775', 'temperature:0.1744', 'forputin:0.1718', 'fund:0.1692', 'area:0.1577', 'major:0.1452', 'clusterfk:0.1128']+titles_keywords+['isis:0.5163', 'ukraine:0.3758', 'destroy:0.289', 'celebrate:0.2735', 'says:0.1115']"
+        ]
+    ]
+}

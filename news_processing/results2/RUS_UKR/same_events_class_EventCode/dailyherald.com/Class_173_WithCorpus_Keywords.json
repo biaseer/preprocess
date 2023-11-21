@@ -1,0 +1,17 @@
+{
+    "ALB+UKR+173":[
+        [
+            "20220821+../news_crawling/RUS_UKR/p_articles/dailyherald.com/2 Russians 1 Ukrainian arrested as alleged spies in Albania.txt+eventbasecode173+eventcode173+avgtone0.4705882352941176+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['espionage:0.4737', 'tirana:0.4072', 'russian:0.3974', 'nato:0.3873', 'kalashnikovs:0.347', 'investigate:0.2674', 'arrested:0.2578', 'ak:0.2486', 'terror:0.2354', 'edi:0.2053', 'accompany:0.1819', 'kilometer:0.1691', 'photo:0.1689', 'hospital:0.1598', 'coordinate:0.1547', 'guard:0.1416', 'dismantle:0.1395', 'individual:0.1381', 'enter:0.1291', 'gramsh:0.128', 'case:0.1244', 'complex:0.1218', 'clarification:0.118', 'instead:0.1114', 'ground:0.1104', 'produce:0.1058', 'saturday:0.0899', 'prime:0.0806', 'resist:0.0799', 'man:0.043']+titles_keywords+['albania:0.4517', 'russians:0.4391', 'spies:0.4151', 'arrested:0.2473', 'alleged:0.1965']"
+        ]
+    ],
+    "POL+UKR+173":[
+        [
+            "20211118+../news_crawling/RUS_UKR/p_articles/dailyherald.com/Ransomware persists even as highprofile attacks have slowed.txt+eventbasecode173+eventcode173+avgtone0.464313123561013+goldsteinscale0.25+nummentions0.34107402031930334+numarticles0.34155184916606235+numsources0.375+news_keywords+['ransomware:0.5768', 'cybersecurity:0.4707', 'extradition:0.3353', 'moscow:0.3194', 'spy:0.3081', 'government:0.2909', 'urgent:0.2895', 'warn:0.2835', 'know:0.2556', 'victim:0.2541', 'invade:0.2493', 'sector:0.2367', 'discover:0.2284', 'trend:0.2266', 'data:0.2172', 'exchange:0.2105', 'complicating:0.202', 'originate:0.2009', 'spring:0.1844', 'biden:0.182', 'lock:0.1792', 'barrage:0.1786', 'head:0.1583', 'quote:0.1542', 'global:0.1526', 'sum:0.152', 'resume:0.1471', 'times:0.1415', 'fully:0.1395', 'highprofile:0.0892']+titles_keywords+['ransomware:0.6113', 'highprofile:0.3078', 'persists:0.2015', 'attacks:0.1639', 'slowed:0.1161']"
+        ]
+    ],
+    "UKR+RUS+173":[
+        [
+            "20220507+../news_crawling/RUS_UKR/p_articles/dailyherald.com/Croatian citizen fighting for Ukraine detained by Russians.txt+eventbasecode173+eventcode173+avgtone0.4720496894409938+goldsteinscale0.25+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.04276315789473684+news_keywords+['ukrainian:0.4985', 'croatian:0.4738', 'zagreb:0.4709', 'russians:0.4493', 'troop:0.3449', 'nazi:0.2422', 'fight:0.2382', 'bombardment:0.2153', 'conquer:0.1955', 'citizen:0.1886', 'detain:0.187', 'situation:0.1746', 'hrt:0.1719', 'mariupol:0.1677', 'strategic:0.1602', 'celebrate:0.158', 'report:0.1558', 'port:0.1381', 'flee:0.1366', 'factory:0.1315', 'alongside:0.1259', 'steel:0.1194', 'day:0.1173', 'sensitivity:0.089', 'state:0.0852', 'try:0.0788', 'fully:0.0631', 'offer:0.0615', 'television:0.0398', 'man:0.027']+titles_keywords+['croatian:0.427', 'ukraine:0.3872', 'detained:0.3579', 'citizen:0.2325', 'fighting:0.1642']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+TUR+46":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/newyorkstatesman.com/Latest Developments in Ukraine March 29.txt+eventbasecode46+eventcode46+avgtone0.48788927335640137+goldsteinscale0.85+nummentions0.024310595065312045+numarticles0.025018129079042786+numsources0.03289473684210526+news_keywords+['ukraine:0.5307', 'istanbul:0.3295', 'negotiation:0.3255', 'peace:0.3107', 'hostage:0.2677', 'march:0.2471', 'occupy:0.2446', 'combat:0.2266', 'developments:0.2212', 'report:0.182', 'know:0.1754', 'monday:0.1673', 'attend:0.1551', 'president:0.1543', 'newspaper:0.1536', 'representative:0.1476', 'civilian:0.1458', 'summary:0.139', 'begin:0.1366', 'poison:0.126', 'suffer:0.1251', 'shoot:0.1205', 'repel:0.1156', 'story:0.0998', 'confirm:0.0997', 'voa:0.095', 'round:0.0889', 'set:0.0836', 'accord:0.0763', 'yield:0.0655']+titles_keywords+['ukraine:0.5428', 'developments:0.3265', 'march:0.3167', 'latest:0.2446', '29:0.1285']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/newyorkstatesman.com/Russia puts UNSC Ukraine Resolution on hold calls for emergency meeting on US Biolabs.txt+eventbasecode46+eventcode46+avgtone0.4808510638297872+goldsteinscale0.85+nummentions0.018867924528301886+numarticles0.019216823785351705+numsources0.029605263157894735+news_keywords+['ukraine:0.4789', 'ceasefire:0.4592', 'humanitarian:0.431', 'evacuation:0.3994', 'unsc:0.3213', 'military:0.2585', 'geneva:0.2514', 'report:0.2394', 'meeting:0.2256', 'sputnik:0.2187', 'international:0.1985', 'cite:0.1967', 'march:0.1773', 'biolabs:0.1677', 'law:0.165', 'safe:0.1621', 'vote:0.1603', 'tomorrow:0.1554', 'lack:0.1493', 'instead:0.1449', 'text:0.1335', 'hold:0.1319', 'representative:0.1305', 'condemning:0.1292', 'request:0.1255', 'decide:0.123', 'resolution:0.1203', 'discus:0.1044', 'course:0.0818', 'ani:0.0789']+titles_keywords+['ukraine:0.3573', 'unsc:0.2649', 'biolabs:0.2226', 'meeting:0.2077', 'hold:0.2012']"
+        ]
+    ]
+}

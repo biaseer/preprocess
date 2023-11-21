@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+1712":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russia says destroyed foreignmade weapons stored near Ukraines Lviv TASS.txt+eventbasecode171+eventcode1712+avgtone0.49210919172531453+goldsteinscale0.040000000000000036+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['lviv:0.5018', 'ukraines:0.452', 'destroy:0.3503', 'russian:0.3359', 'weapon:0.3207', 'tochka:0.2828', 'missile:0.2802', 'store:0.2495', 'logistics:0.2215', 'repair:0.1973', 'army:0.1948', 'foreignmade:0.1802', 'reuters:0.1714', 'make:0.1712', 'near:0.1613', 'carry:0.1611', 'ballistic:0.1481', 'dnipro:0.1399', 'centre:0.1203', 'defence:0.1082', 'strike:0.1028', 'force:0.0982', 'tass:0.0827', 'number:0.0693', 'monday:0.0667', 'say:0.0628', 'accord:0.0462', 'air:0.042', 'agency:0.0406', 'large:0.0141']+titles_keywords+['lviv:0.4465', 'weapons:0.3417', 'tass:0.2039', 'foreignmade:0.1999', 'destroyed:0.1802']"
+        ],
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russia says fired cruise missiles to destroy Ukrainian weapons TASS.txt+eventbasecode171+eventcode1712+avgtone0.4918449481042152+goldsteinscale0.040000000000000036+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['missile:0.3841', 'russia:0.3252', 'kalibr:0.3026', 'destroy:0.3024', 'submarine:0.2982', 'weapon:0.2824', 'ukrainian:0.2806', 'cruise:0.235', 'military:0.2336', 'brigade:0.2045', 'tass:0.1752', 'sea:0.1669', 'equipment:0.1486', 'assault:0.1352', 'report:0.1328', 'news:0.1269', 'reuters:0.1206', 'black:0.0978', 'defence:0.0851', 'monday:0.0819', 'say:0.0548', 'agency:0.0029', 'mountain:0.0029', 'ministry:-0.0047']+titles_keywords+['missiles:0.4155', 'ukrainian:0.3127', 'tass:0.2837', 'cruise:0.2125', 'fired:0.1573']"
+        ]
+    ],
+    "UKR+RUS+1712":[
+        [
+            "20220618+../news_crawling/RUS_UKR/p_articles/yahoo.com/US Harpoon missiles destroyed a heavilyarmed Russian vessel in the Black Sea say Ukraines military.txt+eventbasecode171+eventcode1712+avgtone0.4944903581267217+goldsteinscale0.040000000000000036+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4376', 'harpoons:0.4301', 'naval:0.3807', 'warfare:0.3798', 'armament:0.3744', 'vasily:0.3071', 'attack:0.3006', 'military:0.2862', 'ship:0.2568', 'strategic:0.241', 'boeing:0.2385', 'tank:0.2316', 'bekh:0.2313', 'heavilyarmed:0.2233', 'sink:0.2193', 'directorate:0.1955', 'supply:0.1947', 'know:0.1861', 'flagship:0.1809', 'snake:0.1787', 'friday:0.17', 'coastal:0.1675', 'purport:0.1641', 'communications:0.1391', 'tor:0.1328', 'biden:0.1311', 'footage:0.1092', 'dollar:0.0857', 'time:0.0847', 'independently:0.0687']+titles_keywords+['missiles:0.3837', 'harpoon:0.377', 'ukraines:0.3677', 'russian:0.3129', 'destroyed:0.192']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+51":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/redditchadvertiser.co.uk/Defence minister backs Ukraine striking Russian soil with British weapons.txt+eventbasecode51+eventcode51+avgtone0.483271375464684+goldsteinscale0.67+nummentions0.15529753265602322+numarticles0.1559100797679478+numsources0.17434210526315788+news_keywords+['ukraine:0.4849', 'nato:0.4352', 'russias:0.4202', 'putin:0.4102', 'warfare:0.3732', 'threat:0.2782', 'prepare:0.2649', 'lavrovs:0.2591', 'fortify:0.2219', 'supply:0.212', 'border:0.2088', 'news:0.2013', 'nonsense:0.2007', 'position:0.1942', 'range:0.175', 'response:0.1662', 'stormer:0.1588', 'want:0.1544', 'misuse:0.1501', 'heappey:0.1458', 'lively:0.1314', 'hit:0.1302', 'accuse:0.128', 'import:0.1267', 'amid:0.1238', 'fall:0.123', 'directly:0.1008', 'necessarily:0.0966', 'mr:0.0947', 'werent:0.0513']+titles_keywords+['ukraine:0.3742', 'striking:0.2176', 'weapons:0.2112', 'backs:0.1292', 'minister:0.081']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220826+../news_crawling/RUS_UKR/p_articles/redditchadvertiser.co.uk/Moscow film festival opens with praise of soldiers in Donbas.txt+eventbasecode51+eventcode51+avgtone0.5165562913907285+goldsteinscale0.67+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.2631578947368421+news_keywords+['moscow:0.4883', 'mikhalkov:0.4055', 'ukrainian:0.3799', 'nikita:0.355', 'film:0.3342', 'anton:0.2841', 'festival:0.2699', 'donbas:0.2213', 'historical:0.1897', 'academy:0.1698', 'award:0.1685', 'hero:0.1578', 'fight:0.1527', 'industrial:0.1509', 'representation:0.1291', 'separatist:0.1273', 'privilege:0.1203', 'direct:0.1145', 'th:0.1094', 'stay:0.1043', 'burnt:0.0895', 'local:0.0788', 'issue:0.0739', 'anticipate:0.0704', 'actually:0.0697', 'big:0.0624', 'everybody:0.0604', 'want:0.0594', 'reader:0.0593', 'reduce:0.0383']+titles_keywords+['moscow:0.4091', 'festival:0.3049', 'soldiers:0.2941', 'film:0.2748', 'praise:0.2153']"
+        ]
+    ]
+}

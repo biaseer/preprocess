@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+13":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/cp24.com/Satellite photos show possible mass graves near Mariupol.txt+eventbasecode13+eventcode13+avgtone0.47233047544816836+goldsteinscale0.52+nummentions0.11357039187227866+numarticles0.11421319796954314+numsources0.41776315789473684+news_keywords+['moscow:0.5149', 'crimean:0.5086', 'kremlin:0.4979', 'airstrikes:0.3678', 'pentagon:0.3486', 'boychenko:0.3244', 'blockade:0.3148', 'deploy:0.2988', 'territory:0.2826', 'massacre:0.2596', 'industrial:0.2525', 'strategic:0.2468', 'mstyslav:0.2387', 'sprawling:0.2325', 'journalist:0.2256', 'report:0.2095', 'mariupol:0.2087', 'near:0.2057', 'predict:0.2032', 'telegram:0.2008', 'bucha:0.188', 'image:0.173', 'cover:0.1698', 'piotr:0.1662', 'emerge:0.1646', 'significant:0.1638', 'badly:0.1356', 'reduce:0.1321', 'focus:0.1307', 'billion:0.1295']+titles_keywords+['graves:0.3084', 'mariupol:0.2763', 'mass:0.2465', 'photos:0.2067', 'possible:0.1493']"
+        ]
+    ],
+    "UKR+RUS+13":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/cp24.com/Rescuers search for survivors in smashed Mariupol theater as Russian attacks continue.txt+eventbasecode13+eventcode13+avgtone0.4670380687093779+goldsteinscale0.52+nummentions0.04898403483309144+numarticles0.049673676577229875+numsources0.06907894736842106+news_keywords+['kyiv:0.5042', 'airstrikes:0.4599', 'kremlin:0.4275', 'nato:0.3527', 'shrapnel:0.3178', 'casualty:0.3063', 'emergency:0.2981', 'troop:0.2893', 'unprovoked:0.2791', 'journalist:0.2579', 'ruin:0.2372', 'flee:0.2026', 'separatist:0.1984', 'smash:0.1861', 'alert:0.1836', 'prepared:0.1779', 'snow:0.1776', 'satellite:0.1762', 'ap:0.1703', 'donbas:0.1651', 'anonymity:0.1618', 'children:0.1616', 'building:0.1599', 'movement:0.1576', 'order:0.1445', 'understand:0.1395', 'million:0.1373', 'feb:0.1272', 'center:0.1235', 'relatively:0.0907']+titles_keywords+['survivors:0.3797', 'russian:0.3119', 'smashed:0.2817', 'mariupol:0.2339', 'search:0.2099']"
+        ],
+        [
+            "20220731+../news_crawling/RUS_UKR/p_articles/cp24.com/Drone explosion hits Russias Black Sea Fleet headquarters.txt+eventbasecode13+eventcode13+avgtone0.46740638002773927+goldsteinscale0.52+nummentions0.057329462989840346+numarticles0.05801305293691081+numsources0.08552631578947369+news_keywords+['crimea:0.4789', 'terrorist:0.3916', 'russias:0.3724', 'drone:0.3513', 'war:0.3337', 'zelenskyy:0.3001', 'explosion:0.2762', 'artillery:0.2663', 'execution:0.2629', 'report:0.2599', 'demolish:0.2595', 'news:0.249', 'gov:0.2471', 'telegram:0.2129', 'organize:0.2097', 'indicate:0.1859', 'hit:0.1818', 'ap:0.1788', 'agreement:0.1767', 'cover:0.173', 'compare:0.1689', 'premeditated:0.162', 'span:0.1617', 'act:0.1582', 'harvest:0.1567', 'helplessness:0.1566', 'adjacent:0.133', 'possible:0.1118', 'global:0.1083', 'longer:0.0881']+titles_keywords+['drone:0.3806', 'russias:0.291', 'explosion:0.2673', 'fleet:0.2462', 'headquarters:0.2018']"
+        ]
+    ]
+}

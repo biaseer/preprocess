@@ -1,0 +1,17 @@
+{
+    "RUS+FRA+10":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/daijiworld.com/India abstains for 5th time on UN Ukraine resolution but this time with US.txt+eventbasecode10+eventcode10+avgtone0.4760416666666667+goldsteinscale0.5+nummentions0.02576197387518142+numarticles0.026468455402465556+numsources0.019736842105263157+news_keywords+['ukraine:0.4105', 'veto:0.3936', 'diplomacy:0.3879', 'ceasefire:0.3709', 'abstention:0.3239', 'indo:0.2444', 'oppose:0.2405', 'agenda:0.237', 'vote:0.2218', 'divert:0.2026', 'fight:0.1917', 'neutral:0.1827', 'crisis:0.1786', 'reasoning:0.1722', 'prepare:0.1589', 'interpret:0.154', 'chair:0.1494', 'priority:0.1461', 'friday:0.145', 'world:0.1422', 'counter:0.1401', 'resolution:0.138', 'difference:0.1166', 'buying:0.1149', 'tangle:0.112', 'knew:0.1077', 'similar:0.0932', 'deteriorate:0.0741', 'send:0.0674', 'procedural:0.0583']+titles_keywords+['abstains:0.4234', 'india:0.2478', '5th:0.2065', 'time:0.0709', 'resolution:0.0276']"
+        ]
+    ],
+    "RUS+GBR+10":[
+        [
+            "20211214+../news_crawling/RUS_UKR/p_articles/daijiworld.com/Putin briefs British PM about Ukrainian situation.txt+eventbasecode10+eventcode10+avgtone0.4869281045751634+goldsteinscale0.5+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['putin:0.5671', 'kiev:0.4359', 'boris:0.3509', 'treaty:0.3055', 'defamatory:0.289', 'undermine:0.2781', 'report:0.2758', 'inform:0.2536', 'news:0.2447', 'agreement:0.2343', 'address:0.208', 'eastward:0.204', 'concern:0.2031', 'organisation:0.1946', 'british:0.1895', 'resolve:0.1836', 'write:0.1801', 'brief:0.1566', 'ians:0.1515', 'legal:0.1495', 'message:0.1484', 'monday:0.1374', 'begin:0.1358', 'current:0.1308', 'people:0.1248', 'minister:0.1247', 'large:0.1096', 'correct:0.1084', 'specific:0.099', 'basis:0.0919']+titles_keywords+['putin:0.4483', 'british:0.191', 'pm:0.1421', 'briefs:0.1028', 'situation:0.0928']"
+        ]
+    ],
+    "RUS+TUR+10":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/daijiworld.com/Russia has described Istanbul talks as constructive.txt+eventbasecode10+eventcode10+avgtone0.49710982658959535+goldsteinscale0.5+nummentions0.05587808417997097+numarticles0.05656272661348803+numsources0.013157894736842105+news_keywords+['crimea:0.5297', 'putin:0.4345', 'ceasefire:0.4223', 'nato:0.4112', 'istanbul:0.3972', 'negotiator:0.2973', 'delegation:0.2672', 'medinsky:0.259', 'report:0.245', 'achieve:0.2383', 'preliminary:0.237', 'concern:0.2319', 'article:0.2096', 'meet:0.2059', 'outline:0.2027', 'defamatory:0.2007', 'coinciding:0.1994', 'remark:0.1922', 'volodymyr:0.1802', 'ip:0.1703', 'rt:0.1697', 'deal:0.1692', 'opposite:0.1545', 'soon:0.1494', 'ians:0.148', 'state:0.1435', 'hold:0.1358', 'dimension:0.1284', 'agree:0.1248', 'mevlut:0.1211']+titles_keywords+['istanbul:0.4385', 'constructive:0.3329', 'russia:0.2789', 'talks:0.2452', 'described:0.0853']"
+        ]
+    ]
+}

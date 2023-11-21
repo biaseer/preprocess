@@ -1,0 +1,25 @@
+{
+    "GBR+RUS+194":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Britain says Russia has increased its use of air defence missiles for ground targets.txt+eventbasecode194+eventcode194+avgtone0.4756380510440835+goldsteinscale0.0+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4689', 'briefing:0.3264', 'reuters:0.3135', 'artillery:0.3', 'strategic:0.2983', 'invasion:0.2834', 'warhead:0.2441', 'conflict:0.2347', 'update:0.2149', 'warn:0.2088', 'july:0.2008', 'launch:0.1999', 'penetrate:0.1993', 'deployed:0.1931', 'himars:0.186', 'eastern:0.1842', 'casualty:0.1727', 'structure:0.1673', 'swathe:0.153', 'long:0.1464', 'make:0.1399', 'secondary:0.1349', 'daily:0.1323', 'asphalt:0.1316', 'continue:0.1246', 'depot:0.1137', 'relatively:0.1071', 'possible:0.1055', 'video:0.0952', 'optimise:0.0949']+titles_keywords+['missiles:0.4237', 'russia:0.3203', 'increased:0.2446', 'use:0.1378', 'says:0.017']"
+        ]
+    ],
+    "RUS+LBN+194":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Ukraine says five powerful missile strikes hit Lviv bodies line streets of Mariupol.txt+eventbasecode194+eventcode194+avgtone0.4781659388646288+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5076', 'war:0.3779', 'russias:0.338', 'evacuate:0.3176', 'reuters:0.2949', 'separatist:0.2704', 'infrastructurehit:0.2389', 'victim:0.2388', 'tank:0.2339', 'undermine:0.2312', 'zelenskysaid:0.2206', 'write:0.2087', 'intensify:0.2078', 'dangerous:0.2071', 'hit:0.1978', 'siren:0.1976', 'continue:0.195', 'reconstruction:0.1944', 'steelworks:0.1941', 'mig:0.1925', 'heard:0.1782', 'like:0.1759', 'long:0.16', 'eastern:0.1586', 'presidential:0.1523', 'proclaim:0.1513', 'right:0.1471', 'launchedmass:0.1468', 'concentrate:0.1463', 'thousand:0.13']+titles_keywords+['lviv:0.4452', 'missile:0.3322', 'strikes:0.1731', 'bodies:0.1545', 'mariupol:0.136']"
+        ]
+    ],
+    "RUS+UKR+194":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Russia says it has again fired hypersonic missiles in Ukraine.txt+eventbasecode194+eventcode194+avgtone0.4838308457711443+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4546', 'kremlin:0.419', 'nato:0.3736', 'war:0.3462', 'missile:0.3231', 'attack:0.2897', 'genocide:0.2815', 'nuclear:0.2722', 'military:0.2474', 'cite:0.2028', 'hypersonic:0.2019', 'nizhyn:0.2004', 'zelenskys:0.1944', 'airspace:0.1933', 'information:0.1831', 'president:0.1775', 'declaration:0.1756', 'immediately:0.1545', 'nonsense:0.1525', 'focus:0.151', 'say:0.1392', 'main:0.1361', 'near:0.1306', 'displace:0.1297', 'confirm:0.1102', 'big:0.1073', 'week:0.1009', 'raise:0.097', 'million:0.0968', 'mr:0.0768']+titles_keywords+['hypersonic:0.4166', 'missiles:0.4154', 'ukraine:0.375', 'fired:0.0744', 'says:-0.0169']"
+        ],
+        [
+            "20220822+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Ukrainian civilians face heightened threat of Russian strikes in coming days warns US.txt+eventbasecode194+eventcode194+avgtone0.4799107142857143+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5056', 'soviet:0.4211', 'geopolitical:0.3942', 'putins:0.3718', 'reuters:0.3491', 'demilitarise:0.3373', 'terrorist:0.3169', 'invade:0.3105', 'inform:0.306', 'threat:0.3057', 'frontlines:0.2967', 'pentagon:0.2837', 'synopsis:0.2621', 'operation:0.2511', 'prepare:0.2496', 'curfew:0.2159', 'reactor:0.1933', 'northeast:0.191', 'recep:0.1904', 'aug:0.171', 'week:0.1707', 'governor:0.1686', 'stir:0.1636', 'long:0.1582', 'blahodnatne:0.1563', 'incremental:0.1524', 'rih:0.1518', 'nearly:0.1416', 'house:0.1139', 'welcome:0.0921']+titles_keywords+['ukrainian:0.3808', 'civilians:0.3143', 'warns:0.2064', 'days:0.1035', 'coming:0.0451']"
+        ]
+    ],
+    "UKR+RUS+194":[
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Kyiv strikes Russianheld area in southern Ukraine in rocket attack.txt+eventbasecode194+eventcode194+avgtone0.47625+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.4861', 'war:0.348', 'demilitarise:0.3175', 'erupt:0.302', 'reuters:0.2998', 'blockade:0.2954', 'annexed:0.281', 'strategic:0.2544', 'separatist:0.2458', 'industrial:0.2428', 'telegram:0.2106', 'flee:0.1969', 'administration:0.1923', 'resume:0.1799', 'north:0.1741', 'donbas:0.1738', 'increase:0.1737', 'safe:0.1719', 'howitzer:0.1711', 'expect:0.1699', 'respond:0.1672', 'long:0.1633', 'immediately:0.1619', 'baseless:0.1558', 'hit:0.1522', 'feb:0.1264', 'fertiliser:0.1163', 'entire:0.1157', 'importance:0.1049', 'deal:0.0778']+titles_keywords+['kyiv:0.5688', 'attack:0.215', 'rocket:0.2109', 'southern:0.1055', 'area:0.1011']"
+        ]
+    ]
+}

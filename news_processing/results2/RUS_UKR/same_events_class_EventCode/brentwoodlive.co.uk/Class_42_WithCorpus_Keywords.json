@@ -1,0 +1,22 @@
+{
+    "EUR+RUS+42":[
+        [
+            "20220205+../news_crawling/RUS_UKR/p_articles/brentwoodlive.co.uk/Johnson and Macron agree to fight against malicious Russian activity.txt+eventbasecode42+eventcode42+avgtone0.4853372434017595+goldsteinscale0.595+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.3157894736842105+news_keywords+['natos:0.489', 'kremlin:0.4071', 'macron:0.3993', 'attack:0.3331', 'diplomatic:0.3301', 'kyiv:0.3286', 'boris:0.2946', 'justify:0.242', 'sanction:0.2022', 'remain:0.2018', 'occur:0.1878', 'meet:0.1773', 'monday:0.177', 'border:0.174', 'forward:0.1668', 'planning:0.1647', 'worry:0.164', 'debate:0.1592', 'want:0.1497', 'pretext:0.1485', 'ensure:0.1337', 'lively:0.1293', 'agree:0.1142', 'olaf:0.1092', 'current:0.0948', 'weve:0.0946', 'story:0.0922', 'prime:0.0819', 'fully:0.0742', 'overriding:0.0215']+titles_keywords+['macron:0.3704', 'russian:0.2682', 'malicious:0.2397', 'johnson:0.2233', 'fight:0.2066']"
+        ]
+    ],
+    "GBR+UKR+42":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/brentwoodlive.co.uk/UK ambassador to Ukraine feeling comfortable on return to Kyiv.txt+eventbasecode42+eventcode42+avgtone0.5038022813688213+goldsteinscale0.595+nummentions0.23149492017416545+numarticles0.23205221174764323+numsources0.21052631578947367+news_keywords+['kyiv:0.566', 'ukraines:0.4719', 'moscows:0.4037', 'diplomat:0.3871', 'putin:0.3723', 'invasion:0.2561', 'zelensky:0.2414', 'capital:0.2234', 'troop:0.2171', 'remain:0.2119', 'security:0.2097', 'repel:0.1746', 'arrive:0.157', 'comfortable:0.156', 'lively:0.1449', 'strike:0.1324', 'withdraw:0.1259', 'debate:0.118', 'distance:0.113', 'april:0.1099', 'good:0.1065', 'long:0.1023', 'western:0.0998', 'want:0.0993', 'reopen:0.0933', 'simmons:0.0909', 'abused:0.0801', 'story:0.0797', 'possible:0.0545', 'minimising:0.0216']+titles_keywords+['kyiv:0.4317', 'ambassador:0.3872', 'comfortable:0.3703', 'uk:0.184', 'return:0.1376']"
+        ]
+    ],
+    "POL+UKR+42":[
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/brentwoodlive.co.uk/Ukraines president set to meet US officials in Kyiv.txt+eventbasecode42+eventcode42+avgtone0.4734446130500759+goldsteinscale0.595+nummentions0.11284470246734397+numarticles0.11348803480783176+numsources0.10197368421052631+news_keywords+['kyiv:0.5016', 'russians:0.413', 'invade:0.3439', 'civilians:0.2768', 'zelensky:0.2696', 'president:0.2503', 'separatist:0.2271', 'armed:0.2166', 'plan:0.1966', 'friday:0.1876', 'reorganise:0.1814', 'continue:0.1767', 'report:0.173', 'speaking:0.1729', 'donbas:0.1718', 'tunnel:0.17', 'good:0.1677', 'north:0.1675', 'long:0.1654', 'death:0.1578', 'plant:0.1406', 'believe:0.1347', 'nearly:0.1297', 'pummel:0.128', 'prior:0.1204', 'withdraw:0.1165', 'significance:0.1003', 'highlight:0.0951', 'true:0.08', 'cost:0.0267']+titles_keywords+['kyiv:0.417', 'ukraines:0.3679', 'president:0.2672', 'meet:0.2398', 'set:0.0509']"
+        ]
+    ],
+    "WST+RUS+42":[
+        [
+            "20220818+../news_crawling/RUS_UKR/p_articles/brentwoodlive.co.uk/Russia deploys hypersonic missiles to Baltic enclave.txt+eventbasecode42+eventcode42+avgtone0.5+goldsteinscale0.595+nummentions0.20391872278664733+numarticles0.20449601160261058+numsources0.23684210526315788+news_keywords+['natos:0.5085', 'kremlin:0.4698', 'missiles:0.4443', 'kaliningrads:0.436', 'russia:0.4091', 'chkalovsk:0.3258', 'war:0.3202', 'threat:0.3009', 'nuclear:0.2946', 'airspace:0.2919', 'deploy:0.2877', 'ivan:0.2751', 'proceed:0.2406', 'hypersonic:0.2296', 'rhetoric:0.2276', 'mig:0.2221', 'forefront:0.2121', 'emphasise:0.1866', 'target:0.148', 'iskander:0.1291', 'state:0.1282', 'thursday:0.1259', 'isnt:0.1155', 'porvoo:0.0953', 'make:0.0927', 'array:0.0859', 'reader:0.0853', 'mile:0.085', 'fully:0.0663', 'add:0.0506']+titles_keywords+['missiles:0.4298', 'baltic:0.4018', 'hypersonic:0.381', 'deploys:0.1923', 'enclave:0.1459']"
+        ]
+    ]
+}

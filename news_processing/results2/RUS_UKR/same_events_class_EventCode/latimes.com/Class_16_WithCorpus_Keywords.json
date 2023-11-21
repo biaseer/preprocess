@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+16":[
+        [
+            "20220118+../news_crawling/RUS_UKR/p_articles/latimes.com/Blinken will visit Ukraine as USRussia tensions escalate.txt+eventbasecode16+eventcode16+avgtone0.47523041474654376+goldsteinscale0.4+nummentions0.10667634252539913+numarticles0.10732414793328499+numsources0.25+news_keywords+['diplomacy:0.4397', 'putin:0.4364', 'ukraines:0.4353', 'nato:0.4019', 'invade:0.3435', 'disinformation:0.3169', 'cyberattack:0.2835', 'bipartisan:0.2769', 'blinken:0.2312', 'visit:0.2264', 'zelensky:0.2234', 'separatist:0.2226', 'flag:0.2046', 'secretary:0.1949', 'prepare:0.192', 'dangerous:0.1858', 'conclude:0.1842', 'pretext:0.1825', 'peninsula:0.178', 'arrange:0.1765', 'hop:0.1714', 'write:0.1631', 'emphasize:0.1551', 'state:0.1421', 'week:0.1295', 'statement:0.1242', 'reject:0.1193', 'house:0.0922', 'total:0.0688', 'yes:0.0637']+titles_keywords+['blinken:0.4389', 'ukraine:0.3832', 'visit:0.2379', 'tensions:0.1374', 'escalate:0.0659']"
+        ]
+    ],
+    "RUS+UKR+16":[
+        [
+            "20220816+../news_crawling/RUS_UKR/p_articles/latimes.com/More blasts in Russiancontrolled Crimea shift focus of attention in Ukraine war.txt+eventbasecode16+eventcode16+avgtone0.47231985940246046+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.5208', 'moscows:0.3729', 'detonation:0.3609', 'russiancontrolled:0.3558', 'azovskoye:0.3434', 'evacuate:0.314', 'escalation:0.2995', 'mobilization:0.2555', 'strategic:0.2239', 'ammunition:0.2059', 'emphasize:0.1939', 'bucha:0.1935', 'blame:0.1925', 'gov:0.1917', 'fight:0.1738', 'voltage:0.1636', 'continue:0.1619', 'update:0.1618', 'rail:0.1526', 'hear:0.151', 'plant:0.1475', 'people:0.1464', 'month:0.1463', 'use:0.1462', 'base:0.1427', 'high:0.1243', 'far:0.1136', 'send:0.1082', 'flash:0.1014', 'doesnt:0.0711']+titles_keywords+['crimea:0.4994', 'blasts:0.3538', 'russiancontrolled:0.3065', 'war:0.253', 'focus:0.1867']"
+        ]
+    ]
+}

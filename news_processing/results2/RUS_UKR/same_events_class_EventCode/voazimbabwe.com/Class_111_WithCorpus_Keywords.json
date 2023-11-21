@@ -1,0 +1,22 @@
+{
+    "CHE+UKR+111":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/UN Russian Military Attacks on Ukrainian Civilians Violate International Humanitarian Law.txt+eventbasecode111+eventcode111+avgtone0.45283018867924535+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4308', 'humanitarian:0.3605', 'airstrikes:0.3473', 'peaceful:0.2943', 'hostage:0.2592', 'uzhhorod:0.2532', 'civilian:0.2406', 'law:0.2247', 'allegation:0.2138', 'missile:0.2055', 'violate:0.2032', 'flee:0.1983', 'report:0.1956', 'warning:0.1906', 'geneva:0.1892', 'infrastructure:0.1816', 'count:0.1563', 'forcibly:0.1475', 'monitor:0.1474', 'look:0.1375', 'water:0.1359', 'ongoing:0.1355', 'th:0.1313', 'cluster:0.1256', 'cause:0.1216', 'house:0.1089', 'link:0.1001', 'immeasurable:0.0922', 'month:0.0906', 'increase:0.0774']+titles_keywords+['ukrainian:0.4164', 'civilians:0.3807', 'violate:0.2125', 'law:0.2038', 'attacks:0.177']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/Russian Band Takes Harsh Stance Against War in Ukraine.txt+eventbasecode111+eventcode111+avgtone0.456140350877193+goldsteinscale0.4+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.006578947368421052+news_keywords+['band:0.4659', 'ukraine:0.4441', 'eurovision:0.4253', 'russian:0.3808', 'varzhabetian:0.328', 'vazgen:0.3176', 'russias:0.3161', 'song:0.2931', 'war:0.292', 'invasion:0.2683', 'voa:0.2634', 'represent:0.1793', 'narrate:0.1611', 'speak:0.1531', 'chosen:0.1418', 'anna:0.1393', 'big:0.1279', 'harsh:0.1247', 'release:0.1207', 'los:0.1098', 'little:0.1052', 'member:0.1048', 'contest:0.1043', 'takes:0.0877', 'condemn:0.0799', 'story:0.0793', 'base:0.0747', 'stance:0.0714', 'camera:0.0615', 'rice:0.0239']+titles_keywords+['ukraine:0.3815', 'band:0.3687', 'war:0.3441', 'harsh:0.1962', 'stance:0.126']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/Ukraine Slams Kyiv Attack Amid New Mariupol Rescue Effort.txt+eventbasecode111+eventcode111+avgtone0.469360568383659+goldsteinscale0.4+nummentions0.17271407837445574+numarticles0.17331399564902103+numsources0.2598684210526316+news_keywords+['kyiv:0.5501', 'ukrainians:0.4545', 'putin:0.4171', 'airstrikes:0.4073', 'nato:0.3804', 'separatist:0.2962', 'unprovoked:0.2924', 'emergency:0.2866', 'troop:0.2612', 'correspond:0.2566', 'fight:0.2493', 'warn:0.2422', 'devastate:0.2399', 'news:0.2369', 'unfolding:0.2364', 'know:0.2338', 'industrial:0.2192', 'mortar:0.1954', 'donbas:0.1895', 'people:0.1718', 'normality:0.1611', 'authorize:0.1522', 'weather:0.1402', 'long:0.1377', 'ready:0.1365', 'focus:0.1354', 'grow:0.1319', 'million:0.1244', 'middle:0.1168', 'largely:0.0973']+titles_keywords+['kyiv:0.4953', 'attack:0.3584', 'slams:0.2654', 'mariupol:0.2393', 'rescue:0.1575']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/Russia Attacks Ukraine as Biden Accuses Putin of Premeditated War.txt+eventbasecode111+eventcode111+avgtone0.47461928934010156+goldsteinscale0.4+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5822368421052632+news_keywords+['ukraine:0.4753', 'nato:0.4119', 'putins:0.403', 'war:0.3743', 'militarize:0.3586', 'reuters:0.3086', 'escalation:0.297', 'boris:0.2914', 'diplomatic:0.2896', 'unprovoked:0.2597', 'separatist:0.2592', 'correspondent:0.2535', 'panic:0.2534', 'prepare:0.2532', 'inform:0.2455', 'border:0.2277', 'agreement:0.2243', 'table:0.2116', 'volodymyr:0.2041', 'respond:0.2041', 'veto:0.2033', 'avoid:0.1999', 'thursday:0.1722', 'end:0.1651', 'town:0.1602', 'dark:0.1599', 'nearly:0.1478', 'lines:0.1397', 'backing:0.1062', 'plus:0.0764']+titles_keywords+['putin:0.4256', 'biden:0.3834', 'premeditated:0.3068', 'war:0.2627', 'accuses:0.2444']"
+        ]
+    ]
+}

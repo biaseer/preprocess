@@ -1,0 +1,17 @@
+{
+    "CAN+RUS+163":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/Inflicted 800 casualties among Russian forces claims Ukraine Defence Ministry.txt+eventbasecode163+eventcode163+avgtone0.47826086956521735+goldsteinscale0.1+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.023026315789473683+news_keywords+['ukraine:0.4589', 'putin:0.363', 'military:0.3379', 'casualty:0.3136', 'operation:0.2813', 'mobilization:0.2771', 'missile:0.2745', 'zelenskyy:0.2711', 'tank:0.2585', 'helicopters:0.2564', 'destroy:0.2412', 'yevhen:0.2252', 'news:0.2161', 'infrastructure:0.1982', 'report:0.1903', 'sanction:0.1744', 'shoot:0.1693', 'donbas:0.1499', 'input:0.1484', 'note:0.1379', 'cause:0.1361', 'buk:0.1346', 'people:0.1299', 'additional:0.1256', 'hear:0.1228', 'claim:0.1191', 'thursday:0.1169', 'hour:0.1115', 'ground:0.0968', 'approximately:0.0874']+titles_keywords+['casualties:0.4551', 'russian:0.3587', '800:0.3549', 'inflicted:0.233', 'claims:0.2112']"
+        ]
+    ],
+    "GBR+RUS+163":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/UK bans imports of Russian silver wood products highquality goods.txt+eventbasecode163+eventcode163+avgtone0.5059171597633135+goldsteinscale0.1+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.013157894736842105+news_keywords+['belarus:0.4143', 'tariff:0.3726', 'russian:0.3318', 'wood:0.2684', 'import:0.2417', 'iron:0.2338', 'ban:0.2274', 'silver:0.2219', 'british:0.1958', 'product:0.1891', 'impose:0.1822', 'luxury:0.1669', 'pound:0.1565', 'trade:0.1496', 'trevelyan:0.1434', 'caviar:0.1281', 'good:0.1159', 'anisputnik:0.1151', 'statement:0.1101', 'increase:0.0942', 'highquality:0.0899', 'marie:0.0875', 'military:0.0858', 'april:0.0768', 'end:0.0758', 'today:0.0728', 'include:0.0693', 'quantum:0.069', 'percentage:0.0586', 'secretary:0.031']+titles_keywords+['wood:0.3369', 'russian:0.2764', 'products:0.2376', 'bans:0.2092', 'highquality:0.1207']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/Russia limited sanctions damage by ditching dollar central bank.txt+eventbasecode163+eventcode163+avgtone0.4808743169398907+goldsteinscale0.1+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['russia:0.4226', 'sanction:0.2966', 'yuan:0.2879', 'gdp:0.2645', 'dollar:0.2381', 'bank:0.2138', 'reserve:0.1941', 'report:0.188', 'freeze:0.1832', 'nabiullina:0.1782', 'gold:0.1767', 'hold:0.1738', 'ditch:0.1674', 'limit:0.1653', 'contraction:0.165', 'january:0.1644', 'condition:0.163', 'adapt:0.1624', 'shock:0.1515', 'governor:0.1489', 'western:0.1298', 'billion:0.1235', 'scale:0.1215', 'return:0.1079', 'process:0.0805', 'new:0.0694', 'share:0.0689', 'ally:0.0501', 'trajectory:0.0274', 'reportedly:0.0202']+titles_keywords+['sanctions:0.4547', 'russia:0.3323', 'bank:0.2513', 'ditching:0.1952', 'damage:0.0743']"
+        ]
+    ]
+}

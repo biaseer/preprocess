@@ -1,0 +1,15 @@
+{
+    "EUR+UKR+190":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/nydailynews.com/Russian President Putin orders peacekeeping troops into separatistheld regions of Ukraine.txt+eventbasecode190+eventcode190+avgtone0.47273718647764446+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5314', 'ukraines:0.454', 'soviet:0.4184', 'nato:0.4142', 'peacekeeping:0.4011', 'kyiv:0.4003', 'separatistheld:0.3629', 'invade:0.3372', 'diplomatic:0.3186', 'statehood:0.3174', 'union:0.236', 'flag:0.2359', 'sanction:0.2227', 'economic:0.2004', 'collapse:0.1949', 'prepare:0.1833', 'celebrate:0.1802', 'increasingly:0.1602', 'coordination:0.1597', 'document:0.1594', 'fear:0.154', 'monday:0.153', 'recognize:0.1466', 'dramatic:0.1436', 'speak:0.1385', 'follow:0.1363', 'statement:0.1257', 'world:0.1214', 'gerard:0.1115', 'addition:0.098']+titles_keywords+['peacekeeping:0.4176', 'russian:0.3135', 'regions:0.2405', 'separatistheld:0.1613', 'orders:0.126']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/nydailynews.com/Biden mistakenly says Iranians instead of Ukrainians in State of the Union speech.txt+eventbasecode190+eventcode190+avgtone0.4844827586206897+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5159', 'biden:0.4306', 'iranians:0.3748', 'kyiv:0.2982', 'coulter:0.2887', 'speech:0.2713', 'unprovoked:0.2161', 'blunder:0.205', 'say:0.1995', 'bully:0.1924', 'word:0.1885', 'instead:0.1778', 'weaken:0.1701', 'teleprompter:0.1648', 'meant:0.1586', 'resolve:0.1579', 'commentator:0.1575', 'reference:0.1434', 'chamber:0.1217', 'delivers:0.1154', 'march:0.1146', 'run:0.1145', 'heart:0.1116', 'night:0.1109', 'state:0.1046', 'thats:0.1027', 'circle:0.1022', 'poolgetty:0.0862', 'free:0.0672', 'look:0.0618']+titles_keywords+['biden:0.4111', 'ukrainians:0.3935', 'speech:0.2675', 'mistakenly:0.2304', 'state:0.11']"
+        ],
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/nydailynews.com/Ukraine braces for expected Russian offensives in east.txt+eventbasecode190+eventcode190+avgtone0.48223350253807107+goldsteinscale0.0+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.023026315789473683+news_keywords+['kyiv:0.5239', 'ukraines:0.4854', 'putin:0.4037', 'war:0.387', 'diplomatic:0.3274', 'reform:0.2699', 'veneditktova:0.2647', 'news:0.2279', 'psaki:0.2202', 'east:0.2157', 'subject:0.2124', 'besiege:0.1947', 'learn:0.1941', 'accompany:0.1937', 'report:0.1852', 'want:0.1805', 'end:0.1736', 'general:0.1729', 'reconstruct:0.1591', 'essentially:0.1565', 'house:0.1389', 'weekend:0.1386', 'ap:0.1371', 'horrify:0.1361', 'expedite:0.1284', 'state:0.1183', 'crane:0.1057', 'photorodrigo:0.1036', 'doesnt:0.0761', 'weve:0.0636']+titles_keywords+['ukraine:0.4313', 'offensives:0.2402', 'braces:0.1646', 'east:0.1479', 'expected:0.0988']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "BEL+UKR+46":[
+        [
+            "20211217+../news_crawling/RUS_UKR/p_articles/kesq.com/EU hopes to avert Ukraine war with talks sanctions threat.txt+eventbasecode46+eventcode46+avgtone0.475+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.416', 'agreements:0.3886', 'eu:0.3767', 'war:0.3587', 'diplomatic:0.3389', 'sanction:0.2893', 'impose:0.2824', 'bloc:0.2626', 'threat:0.2486', 'border:0.2426', 'troop:0.2376', 'union:0.2331', 'normandy:0.2253', 'talk:0.2031', 'president:0.1995', 'enter:0.1906', 'avert:0.184', 'hop:0.1721', 'response:0.1603', 'plead:0.1567', 'format:0.1246', 'week:0.1065', 'say:0.1058', 'severe:0.0989', 'broker:0.0912', 'renew:0.0858', 'ap:0.0849', 'unprecedented:0.0817', 'send:0.0806', 'cost:0.0629']+titles_keywords+['sanctions:0.356', 'war:0.33', 'avert:0.322', 'eu:0.2287', 'hopes:0.1274']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/kesq.com/Russia says it will reduce military operations around Kyiv following talks with Ukraine.txt+eventbasecode46+eventcode46+avgtone0.48611111111111105+goldsteinscale0.85+nummentions0.07547169811320754+numarticles0.07614213197969544+numsources0.08552631578947369+news_keywords+['kyiv:0.509', 'crimea:0.5066', 'natos:0.4211', 'ceasefire:0.4032', 'putin:0.372', 'annexation:0.3596', 'negotiation:0.2753', 'operation:0.2662', 'retreat:0.2615', 'oppose:0.2316', 'underway:0.2273', 'news:0.2219', 'warn:0.2069', 'adviser:0.2001', 'table:0.1817', 'soon:0.181', 'cite:0.1596', 'follow:0.1575', 'reduce:0.1563', 'end:0.1555', 'rotate:0.1456', 'sevastopol:0.1384', 'pathway:0.1377', 'state:0.1305', 'forces:0.127', 'agree:0.1252', 'cover:0.1237', 'major:0.1166', 'possibility:0.1056', 'btgs:0.0927']+titles_keywords+['kyiv:0.4426', 'reduce:0.2649', 'military:0.175', 'talks:0.1477', 'following:-0.0243']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+100":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Ukraine crisis Russian general branded butcher of Mariupol comes under UK sanctions.txt+eventbasecode100+eventcode100+avgtone0.44831730769230754+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4916', 'ukraine:0.4892', 'sanction:0.3851', 'propagandist:0.3657', 'regime:0.323', 'invasion:0.3108', 'news:0.2922', 'narrative:0.2901', 'falsehood:0.2726', 'atrocity:0.2712', 'colonel:0.268', 'novosti:0.261', 'table:0.2384', 'distinction:0.2337', 'gazprom:0.2284', 'rt:0.2272', 'uk:0.2264', 'know:0.214', 'butcher:0.2033', 'street:0.1935', 'hit:0.1919', 'people:0.1918', 'tv:0.1869', 'forward:0.1794', 'continue:0.1738', 'downing:0.1674', 'head:0.1569', 'alexey:0.1566', 'wanton:0.1549', 'manage:0.1262']+titles_keywords+['ukraine:0.4245', 'sanctions:0.3777', 'butcher:0.2429', 'mariupol:0.2241', 'general:0.2138']"
+        ]
+    ],
+    "RUS+UKR+100":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Russia admits nearly 10000 soldiers dead and more injured in Ukraine invasion.txt+eventbasecode100+eventcode100+avgtone0.46924428822495606+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4616', 'ukraines:0.4232', 'ceasefire:0.4032', 'nato:0.3498', 'pravda:0.3134', 'negotiate:0.2824', 'zelensky:0.2633', 'agreement:0.2492', 'troop:0.2218', 'understand:0.2146', 'strategy:0.2046', 'urgent:0.2032', 'news:0.1961', 'meet:0.1959', 'predict:0.177', 'secure:0.1759', 'end:0.1725', 'instead:0.169', 'turn:0.1563', 'month:0.1553', 'ready:0.1522', 'condition:0.149', 'suffer:0.1415', 'number:0.1386', 'cite:0.1301', 'mistake:0.1239', 'possible:0.1092', 'state:0.1035', 'actual:0.1004', 'increasingly:0.0968']+titles_keywords+['ukraine:0.3852', '10000:0.3088', 'invasion:0.2675', 'admits:0.1638', 'dead:0.125']"
+        ]
+    ]
+}

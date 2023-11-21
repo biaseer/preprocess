@@ -1,0 +1,12 @@
+{
+    "IDN+RUS+36":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/sbs.com.au/He wants to Vladimir Putin plans to attend G20 summit in Bali.txt+eventbasecode36+eventcode36+avgtone0.482200647249191+goldsteinscale0.7+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.4072', 'wto:0.3512', 'meeting:0.3151', 'genocide:0.3146', 'veto:0.3106', 'bali:0.31', 'adviser:0.2888', 'neutrality:0.2669', 'group:0.254', 'economy:0.2482', 'global:0.2415', 'proceed:0.2158', 'resolve:0.2093', 'news:0.2079', 'instead:0.2064', 'want:0.204', 'assess:0.1853', 'plan:0.1849', 'states:0.169', 'message:0.1641', 'pressure:0.1532', 'problematic:0.1491', 'hold:0.1442', 'include:0.1406', 'vorobieva:0.1326', 'restrict:0.1065', 'november:0.1011', 'rotate:0.0854', 'fabrication:0.0798', 'likely:0.0621']+titles_keywords+['putin:0.4283', 'g20:0.3352', 'bali:0.3264', 'attend:0.2671', 'wants:0.1581']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/sbs.com.au/Joe Biden and Vladimir Putin agree to hold a summit on Ukraine on one condition.txt+eventbasecode36+eventcode36+avgtone0.48619631901840493+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.473', 'diplomacy:0.4708', 'invades:0.3777', 'biden:0.3645', 'peskov:0.2752', 'tensions:0.2743', 'prepare:0.2558', 'announce:0.2487', 'plan:0.2442', 'pursue:0.242', 'border:0.2311', 'meet:0.223', 'military:0.2164', 'summit:0.1983', 'secretary:0.1939', 'monday:0.1908', 'psaki:0.1844', 'states:0.1829', 'consequence:0.1821', 'dissuade:0.1821', 'press:0.1769', 'session:0.171', 'choose:0.1562', 'follow:0.1463', 'forward:0.1436', 'end:0.1429', 'hour:0.1361', 'impossible:0.1155', 'andcurrently:0.0758', 'agree:0.0635']+titles_keywords+['biden:0.4674', 'ukraine:0.2883', 'summit:0.1844', 'agree:0.1011', 'hold:0.0991']"
+        ]
+    ]
+}

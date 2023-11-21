@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+120":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/chinanationalnews.com/China Reaffirms Strong Ties with Russia.txt+eventbasecode120+eventcode120+avgtone0.48954703832752605+goldsteinscale0.3+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.023026315789473683+news_keywords+['putin:0.4568', 'ukraine:0.3725', 'xinhua:0.3098', 'beijing:0.3035', 'war:0.2482', 'partnership:0.2257', 'reaffirm:0.2144', 'news:0.2044', 'sovereignty:0.2006', 'jinping:0.1769', 'unprovoked:0.1767', 'world:0.1712', 'continue:0.158', 'strong:0.147', 'counterpart:0.1316', 'shield:0.1262', 'neutral:0.1182', 'stand:0.1179', 'behavior:0.1174', 'cctv:0.1052', 'winter:0.1042', 'instead:0.0967', 'refuse:0.0884', 'basic:0.0876', 'make:0.0854', 'close:0.0841', 'state:0.0829', 'external:0.067', 'far:0.056', 'voa:0.0458']+titles_keywords+['russia:0.2682', 'china:0.2409', 'reaffirms:0.2287', 'strong:0.1809', 'ties:0.088']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/chinanationalnews.com/ChinaEurope fault lines exposed at 23rd bilateral summit.txt+eventbasecode120+eventcode120+avgtone0.47924187725631767+goldsteinscale0.3+nummentions0.0330188679245283+numarticles0.0337200870195794+numsources0.05921052631578947+news_keywords+['eu:0.3432', 'chinaeurope:0.3057', 'war:0.294', 'moscow:0.2387', 'sanction:0.2187', 'accompany:0.2168', 'crisis:0.2049', 'discuss:0.2041', 'align:0.1913', 'president:0.1878', 'relation:0.1862', 'covid:0.1738', 'climate:0.1727', 'unprovoked:0.1717', 'soon:0.1552', 'jinping:0.1546', 'prolong:0.1424', 'party:0.1309', 'end:0.1231', 'stay:0.121', 'contrast:0.1097', 'common:0.1053', 'trade:0.1049', 'priority:0.0982', 'keqiang:0.098', 'bilateral:0.0955', 'fault:0.0944', 'safe:0.0942', 'significant:0.0854', 'ani:0.07']+titles_keywords+['chinaeurope:0.4472', 'lines:0.2246', 'fault:0.1326', 'bilateral:0.1206', '23rd:0.0947']"
+        ]
+    ]
+}

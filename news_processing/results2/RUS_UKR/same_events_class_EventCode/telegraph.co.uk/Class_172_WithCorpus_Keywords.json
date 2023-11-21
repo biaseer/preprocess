@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+172":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Germany can afford to ban Russian gas completely so why hasnt it.txt+eventbasecode172+eventcode172+avgtone0.4861386138613862+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['russia:0.4333', 'merkel:0.314', 'economics:0.2836', 'democratic:0.27', 'change:0.2438', 'impose:0.2287', 'autobahns:0.2223', 'pipeline:0.2118', 'coal:0.2115', 'argue:0.1992', 'furlough:0.1985', 'output:0.1915', 'zero:0.1695', 'plan:0.1693', 'forward:0.167', 'catastrophic:0.1653', 'import:0.163', 'habeck:0.1536', 'recover:0.1528', 'like:0.1485', 'comparison:0.1469', 'union:0.1449', 'end:0.116', 'borrow:0.1157', 'excuse:0.113', 'sure:0.1112', 'trickier:0.1063', 'drawing:0.1002', 'crony:0.0927', 'doesnt:0.0816']+titles_keywords+['germany:0.3348', 'gas:0.3053', 'ban:0.2053', 'afford:0.1188', 'completely:0.0754']"
+        ]
+    ],
+    "HUN+RUS+172":[
+        [
+            "20220506+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Viktor Orban says EU oil ban would be nuclear bomb on Hungarys economy.txt+eventbasecode172+eventcode172+avgtone0.4798903107861061+goldsteinscale0.25+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.013157894736842105+news_keywords+['sanctions:0.509', 'russia:0.4479', 'vladimir:0.3751', 'eu:0.3747', 'economy:0.3275', 'orban:0.3166', 'diplomats:0.2969', 'annexation:0.2941', 'nuclear:0.2673', 'petroleum:0.2579', 'agreement:0.2487', 'attack:0.2344', 'telegraph:0.2224', 'landlocked:0.2115', 'table:0.2104', 'list:0.1949', 'import:0.1791', 'responding:0.174', 'halted:0.1611', 'cross:0.1595', 'source:0.1594', 'friday:0.1538', 'want:0.1516', 'like:0.1501', 'reduce:0.146', 'accord:0.1406', 'head:0.1335', 'long:0.1217', 'significant:0.106', 'mr:0.1035']+titles_keywords+['oil:0.3802', 'orban:0.3777', 'nuclear:0.3125', 'ban:0.2349', 'eu:0.2309']"
+        ]
+    ]
+}

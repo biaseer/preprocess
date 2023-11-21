@@ -1,0 +1,12 @@
+{
+    "RUS+TUR+30":[
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/politico.eu/Russia and Ukraine reach basic deal on Black Sea grain ships Turkey says.txt+eventbasecode30+eventcode30+avgtone0.5019417475728155+goldsteinscale0.7+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.3985', 'ankaras:0.3381', 'blockade:0.3088', 'war:0.3051', 'agreement:0.2994', 'establish:0.2751', 'news:0.2561', 'meeting:0.2528', 'coordinate:0.2509', 'deadlock:0.2463', 'secure:0.2292', 'technical:0.2105', 'president:0.2078', 'progress:0.2046', 'trade:0.2014', 'forward:0.1967', 'sure:0.1912', 'feed:0.1908', 'supply:0.1897', 'hold:0.1883', 'soon:0.1864', 'problem:0.1862', 'long:0.1845', 'general:0.1817', 'mechanism:0.1732', 'substantive:0.1711', 'end:0.1606', 'related:0.1563', 'akar:0.1337', 'reach:0.1187']+titles_keywords+['ukraine:0.3128', 'deal:0.2689', 'ships:0.2138', 'grain:0.1713', 'basic:0.1157']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/politico.eu/Peace putsch or European Syria 3 endgames for Ukraine.txt+eventbasecode30+eventcode30+avgtone0.5+goldsteinscale0.7+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.023026315789473683+news_keywords+['putin:0.5051', 'kyiv:0.4124', 'natos:0.3902', 'syria:0.3471', 'war:0.3161', 'escalation:0.2773', 'ouster:0.2393', 'european:0.2183', 'adviser:0.2179', 'remain:0.2159', 'coincides:0.2121', 'stalemate:0.211', 'prepare:0.2073', 'north:0.1972', 'putsch:0.1971', 'turn:0.1954', 'end:0.1885', 'chaos:0.1885', 'know:0.1868', 'posture:0.18', 'organize:0.1696', 'long:0.1656', 'view:0.1517', 'whitewash:0.1451', 'broader:0.1451', 'quip:0.1448', 'wont:0.1386', 'like:0.1312', 'current:0.1052', 'bid:0.0976']+titles_keywords+['ukraine:0.475', 'syria:0.4736', 'putsch:0.347', 'peace:0.3465', 'endgames:0.3405']"
+        ]
+    ]
+}

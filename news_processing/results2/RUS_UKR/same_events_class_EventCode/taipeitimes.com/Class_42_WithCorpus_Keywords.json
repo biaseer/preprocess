@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+42":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/taipeitimes.com/West readies new Russia sanctions.txt+eventbasecode42+eventcode42+avgtone0.45230263157894735+goldsteinscale0.595+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4748', 'kremlin:0.457', 'sanction:0.3304', 'invasion:0.3034', 'hostilities:0.2889', 'kill:0.2742', 'diplomat:0.2527', 'capital:0.2421', 'zelenskiy:0.2322', 'victim:0.2297', 'occur:0.2184', 'expect:0.2159', 'isolate:0.2109', 'psaki:0.2001', 'harrowing:0.1922', 'ready:0.19', 'convince:0.1858', 'end:0.1852', 'bucha:0.1786', 'power:0.1598', 'fifth:0.1593', 'galvanize:0.1567', 'new:0.1557', 'short:0.1477', 'fund:0.1421', 'total:0.1223', 'poise:0.1211', 'complicate:0.1167', 'today:0.1156', 'compare:0.1124']+titles_keywords+['sanctions:0.5306', 'russia:0.3426', 'readies:0.3045', 'west:0.2155', 'new:0.1238']"
+        ]
+    ],
+    "PRT+UKR+42":[
+        [
+            "20220605+../news_crawling/RUS_UKR/p_articles/taipeitimes.com/Strikes on Kyiv hit tanks donated by West Russia says.txt+eventbasecode42+eventcode42+avgtone0.47903563941299787+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5207', 'putin:0.3973', 'russias:0.3736', 'missile:0.2968', 'destroy:0.2917', 'strikes:0.2592', 'dniprovski:0.2545', 'invasion:0.2477', 'military:0.2455', 'rail:0.2233', 'telegram:0.2013', 'supply:0.1927', 'strangle:0.179', 'warning:0.1699', 'refer:0.1687', 'secretary:0.1622', 'april:0.1614', 'shoot:0.1574', 'structure:0.1571', 'televise:0.1486', 'long:0.1359', 'focus:0.1323', 'capability:0.1256', 'state:0.1018', 'heart:0.1008', 'include:0.0969', 'middle:0.095', 'new:0.0941', 'eerie:0.0925', 'seemingly:0.0884']+titles_keywords+['kyiv:0.5314', 'tanks:0.36', 'hit:0.2541', 'donated:0.22', 'says:0.0462']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/taipeitimes.com/Ukraine Conflict Kherson rally dispersed.txt+eventbasecode42+eventcode42+avgtone0.4601542416452444+goldsteinscale0.595+nummentions0.01741654571843251+numarticles0.018129079042784626+numsources0.03289473684210526+news_keywords+['ukraine:0.5198', 'occupiers:0.3705', 'war:0.3477', 'protest:0.3344', 'gunfire:0.2717', 'flee:0.2674', 'kherson:0.2524', 'zelenskiy:0.2377', 'bleed:0.2189', 'city:0.198', 'stop:0.1857', 'incident:0.1832', 'isolate:0.1808', 'criminal:0.1653', 'group:0.1639', 'write:0.1636', 'footage:0.1564', 'heard:0.1531', 'stun:0.1489', 'telegram:0.1479', 'despite:0.1363', 'badly:0.1341', 'woman:0.1293', 'wrap:0.1219', 'carry:0.1183', 'square:0.1044', 'multiple:0.1007', 'open:0.1003', 'regular:0.0894', 'tomorrow:0.0829']+titles_keywords+['ukraine:0.3881', 'rally:0.3484', 'kherson:0.3455', 'conflict:0.3119', 'dispersed:0.3007']"
+        ]
+    ]
+}

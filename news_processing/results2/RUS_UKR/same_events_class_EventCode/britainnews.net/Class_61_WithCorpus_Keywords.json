@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+61":[
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/britainnews.net/McDonalds sells entire Russian operation due to Ukraine war.txt+eventbasecode61+eventcode61+avgtone0.48758865248226946+goldsteinscale0.82+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.029605263157894735+news_keywords+['mcdonald:0.4615', 'moscow:0.3772', 'franchisees:0.372', 'putin:0.3532', 'crisis:0.2794', 'operate:0.2606', 'invasion:0.2166', 'food:0.2093', 'buy:0.195', 'western:0.1912', 'country:0.1844', 'humanitarian:0.1788', 'future:0.1694', 'pushkin:0.1634', 'end:0.1516', 'leave:0.1496', 'million:0.1442', 'unclear:0.1434', 'chain:0.133', 'near:0.1327', 'impossible:0.1248', 'month:0.1222', 'bring:0.1172', 'square:0.1144', 'entire:0.0841', 'longer:0.0837', 'agree:0.0814', 'cold:0.0782', 'new:0.0753', 'message:0.0515']+titles_keywords+['ukraine:0.4204', 'mcdonalds:0.3697', 'operation:0.2547', 'sells:0.2365', 'entire:0.1216']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/britainnews.net/Moscow suspects UK of seeking to infiltrate Black Sea.txt+eventbasecode61+eventcode61+avgtone0.47409909909909914+goldsteinscale0.82+nummentions0.06531204644412192+numarticles0.06598984771573604+numsources0.14473684210526316+news_keywords+['russia:0.3981', 'ukrainians:0.352', 'boris:0.3022', 'pretexts:0.2776', 'threat:0.2741', 'government:0.2714', 'divert:0.2549', 'odessa:0.2521', 'railways:0.2381', 'infiltrate:0.236', 'port:0.2204', 'supply:0.2164', 'seek:0.1856', 'navy:0.1818', 'issue:0.1703', 'news:0.166', 'process:0.1603', 'accuse:0.1556', 'safe:0.1464', 'neoliberal:0.146', 'black:0.145', 'grain:0.1383', 'allow:0.1372', 'look:0.1367', 'possible:0.1292', 'clearly:0.1268', 'sell:0.1193', 'expertise:0.1179', 'convulsion:0.0679', 'truss:0.0658']+titles_keywords+['moscow:0.4022', 'suspects:0.2761', 'infiltrate:0.2615', 'sea:0.2222', 'black:0.1266']"
+        ],
+        [
+            "20220723+../news_crawling/RUS_UKR/p_articles/britainnews.net/Heavy Fighting in Ukraine Reports Britains Defense Ministry.txt+eventbasecode61+eventcode61+avgtone0.48825065274151436+goldsteinscale0.82+nummentions0.024310595065312045+numarticles0.025018129079042786+numsources0.06578947368421052+news_keywords+['ukraine:0.5189', 'artillery:0.2739', 'supply:0.2707', 'fight:0.2561', 'invasion:0.2426', 'zelenskyy:0.2357', 'scope:0.2067', 'sector:0.2062', 'fund:0.1852', 'pledge:0.1755', 'continue:0.1743', 'friday:0.1705', 'farmer:0.1681', 'tributary:0.158', 'increasingly:0.1555', 'long:0.1537', 'himars:0.1513', 'reports:0.1451', 'simultaneously:0.1409', 'export:0.1407', 'world:0.1398', 'million:0.1397', 'deal:0.1263', 'mobility:0.1215', 'new:0.1165', 'major:0.1133', 'freeze:0.1121', 'season:0.1076', 'downgrade:0.1039', 'way:0.075']+titles_keywords+['ukraine:0.4909', 'fighting:0.3907', 'heavy:0.1308', 'reports:0.1172', 'ministry:0.0073']"
+        ]
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "PRT+UKR+26":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/menafn.com/Zelensky Calls On UN To Make Efforts To Stop Deportation Of Ukrainians To Russia.txt+eventbasecode26+eventcode26+avgtone0.4865470852017937+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.426', 'refugees:0.3926', 'zelensky:0.3512', 'humanitarian:0.3292', 'deport:0.2953', 'relocate:0.2468', 'war:0.2128', 'federation:0.1762', 'forcibly:0.1695', 'ukrinform:0.1653', 'president:0.1574', 'legality:0.1536', 'abduct:0.1465', 'volodymyr:0.1428', 'contact:0.1414', 'postwar:0.136', 'general:0.1132', 'guterres:0.0936', 'return:0.0921', 'menafn:0.0914', 'adult:0.0859', 'soon:0.0782', 'hundreds:0.074', 'completeness:0.0719', 'image:0.0466', 'say:0.0353', 'relate:0.0325', 'reliability:0.0295', 'high:0.0189', 'importance:0.0157']+titles_keywords+['zelensky:0.5341', 'ukrainians:0.4149', 'deportation:0.3417', 'calls:0.0475', 'stop:0.0451']"
+        ]
+    ],
+    "RUS+RUS+26":[
+        [
+            "20211224+../news_crawling/RUS_UKR/p_articles/menafn.com/Ukraine Defense Ministry refutes Kremlins fakes about US military chemical weapons in Donetsk region.txt+eventbasecode26+eventcode26+avgtone0.4722222222222222+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4783', 'kremlin:0.4735', 'ceasefire:0.345', 'disinformation:0.3313', 'military:0.325', 'threat:0.3058', 'sergey:0.2985', 'chemical:0.2663', 'weapon:0.2608', 'fake:0.2335', 'untrue:0.2278', 'report:0.22', 'article:0.2137', 'operational:0.199', 'prepare:0.196', 'scenario:0.172', 'state:0.1688', 'ukrinform:0.1637', 'read:0.1632', 'unidentified:0.155', 'emphasize:0.1471', 'disclaimer:0.1342', 'reliability:0.1287', 'allegedlyreliably:0.1286', 'shoigu:0.1192', 'high:0.1109', 'possible:0.097', 'center:0.0591', 'seriously:0.0497', 'calledblue:0.0406']+titles_keywords+['ukraine:0.4161', 'fakes:0.337', 'refutes:0.2893', 'weapons:0.2675', 'chemical:0.2286']"
+        ]
+    ],
+    "RUS+UKR+26":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/menafn.com/UN requests onetoone meetings to settle RussianUkrainian war down.txt+eventbasecode26+eventcode26+avgtone0.5+goldsteinscale0.7+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukraine:0.42', 'refugee:0.4153', 'putin:0.4141', 'russianukrainian:0.337', 'war:0.2973', 'meeting:0.2894', 'dujarric:0.2712', 'president:0.2344', 'contact:0.2171', 'request:0.1913', 'onetoone:0.1799', 'document:0.1758', 'general:0.1748', 'provide:0.1738', 'volodymyr:0.1638', 'settle:0.1515', 'message:0.1471', 'representative:0.1409', 'leave:0.1233', 'summit:0.1164', 'issue:0.1157', 'menafn:0.1119', 'completeness:0.1103', 'important:0.1103', 'relate:0.0934', 'million:0.0929', 'legal:0.083', 'accuracy:0.0665', 'unfortunately:0.0549', 'surge:0.0518']+titles_keywords+['russianukrainian:0.3496', 'war:0.3242', 'meetings:0.293', 'onetoone:0.2732', 'settle:0.2599']"
+        ]
+    ],
+    "UKR+AUT+26":[
+        [
+            "20211217+../news_crawling/RUS_UKR/p_articles/menafn.com/Ukraine at OSCE Russia launches another campaign to denigrate Ukrainians.txt+eventbasecode26+eventcode26+avgtone0.465+goldsteinscale0.7+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['ukrainians:0.5183', 'putin:0.4774', 'ussr:0.4425', 'extremism:0.3942', 'rhetoric:0.3361', 'allegedlyukrainian:0.335', 'correspondent:0.3133', 'war:0.308', 'osce:0.2848', 'radical:0.2378', 'hysteria:0.2262', 'nation:0.2134', 'accuse:0.2094', 'ukrinform:0.2088', 'consequence:0.2029', 'psy:0.1886', 'provide:0.1877', 'read:0.1836', 'coordinate:0.1806', 'representative:0.1769', 'yevhenii:0.1735', 'outlet:0.1633', 'group:0.1615', 'issue:0.1539', 'fsb:0.1517', 'head:0.1455', 'right:0.1427', 'thursday:0.1411', 'op:0.1273', 'menafn:0.0906']+titles_keywords+['ukrainians:0.4545', 'osce:0.372', 'denigrate:0.2623', 'campaign:0.1863', 'launches:0.1199']"
+        ]
+    ],
+    "UKR+RUS+26":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/menafn.com/Ukraines president asks to meet Russian leader.txt+eventbasecode26+eventcode26+avgtone0.5+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4953', 'putin:0.4863', 'russias:0.3818', 'zelenskyy:0.3447', 'diplomatic:0.3373', 'nuclear:0.2424', 'federation:0.2292', 'emergency:0.2198', 'invasion:0.2192', 'military:0.1888', 'meet:0.1862', 'plan:0.181', 'announce:0.1793', 'debate:0.1767', 'know:0.1761', 'caution:0.1614', 'power:0.16', 'report:0.1569', 'saturday:0.1418', 'want:0.1356', 'develop:0.1344', 'follow:0.1272', 'issue:0.1257', 'strike:0.1163', 'poise:0.0971', 'completeness:0.0944', 'house:0.0719', 'vice:0.0638', 'menafn:0.0597', 'welcome:0.0493']+titles_keywords+['ukraines:0.383', 'russian:0.2988', 'president:0.254', 'meet:0.2479', 'asks:0.1132']"
+        ],
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/menafn.com/Ukraine Army liquidates commander and chief of staff of Russian motor rifle regiment.txt+eventbasecode26+eventcode26+avgtone0.4664179104477612+goldsteinscale0.7+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.0+news_keywords+['ukraine:0.5127', 'regiment:0.4574', 'tactical:0.3909', 'war:0.3691', 'tanker:0.3683', 'rifle:0.3264', 'uavs:0.3199', 'liquidate:0.3088', 'operational:0.2828', 'commander:0.2759', 'ukrinform:0.2335', 'rd:0.2146', 'fight:0.2087', 'group:0.2045', 'article:0.1966', 'march:0.1925', 'information:0.1872', 'reliability:0.1859', 'th:0.1833', 'contact:0.1832', 'liability:0.178', 'issue:0.1779', 'force:0.1636', 'combined:0.1594', 'devil:0.1546', 'batch:0.1486', 'menafn:0.1474', 'statement:0.1304', 'videos:0.1224', 'seven:0.1081']+titles_keywords+['regiment:0.3952', 'russian:0.3094', 'rifle:0.2538', 'liquidates:0.2268', 'motor:0.1171']"
+        ]
+    ],
+    "WST+UKR+26":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/menafn.com/Russia moves from covert attempts to destabilize Ukraine to overt military action Stoltenberg.txt+eventbasecode26+eventcode26+avgtone0.4766949152542373+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4829', 'nato:0.4655', 'destabilize:0.3117', 'provocation:0.2843', 'escalation:0.2716', 'military:0.2641', 'undermine:0.2563', 'peaceful:0.2374', 'correspondent:0.2359', 'territorial:0.2067', 'covert:0.1818', 'legality:0.1814', 'dangerous:0.1679', 'ukrinform:0.166', 'respond:0.1634', 'unite:0.157', 'forward:0.1487', 'issue:0.148', 'strike:0.144', 'note:0.1271', 'information:0.1206', 'meeting:0.1166', 'follow:0.1067', 'reliability:0.1028', 'stoltenberg:0.1009', 'commend:0.0939', 'strong:0.0847', 'create:0.0836', 'menafn:0.081', 'thatallies:0.0437']+titles_keywords+['ukraine:0.4024', 'destabilize:0.3198', 'stoltenberg:0.3', 'military:0.2784', 'moves:0.2765']"
+        ]
+    ]
+}

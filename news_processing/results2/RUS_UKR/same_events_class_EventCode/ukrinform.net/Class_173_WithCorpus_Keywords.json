@@ -1,0 +1,17 @@
+{
+    "ESP+RUS+173":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/ukrinform.net/ProRussian blogger Shariy detained in Spain.txt+eventbasecode173+eventcode173+avgtone0.46534653465346537+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukrainian:0.3952', 'traitor:0.3935', 'suspect:0.3767', 'investigation:0.3406', 'detain:0.3338', 'violation:0.3036', 'shariy:0.2978', 'illegal:0.2971', 'article:0.2906', 'punishment:0.2597', 'read:0.2458', 'security:0.2401', 'blogger:0.2367', 'citizens:0.2317', 'person:0.2105', 'information:0.2097', 'agency:0.2064', 'statement:0.2021', 'proof:0.1982', 'result:0.1979', 'commit:0.1956', 'speech:0.1749', 'operational:0.1736', 'possible:0.1446', 'level:0.1289', 'sbu:0.1251', 'according:0.1016', 'measure:0.0843', 'carry:0.0841', 'sphere:0.0836']+titles_keywords+['shariy:0.4418', 'detained:0.3417', 'blogger:0.2875', 'prorussian:0.2666', 'spain:0.2239']"
+        ]
+    ],
+    "RUS+UKR+173":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Russian accomplice gathering intel on Ukraine military nabbed in Cherkasy region.txt+eventbasecode173+eventcode173+avgtone0.4731543624161074+goldsteinscale0.25+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4677', 'russian:0.4664', 'counterintelligence:0.3964', 'operative:0.3436', 'military:0.3433', 'clandestine:0.3415', 'enemy:0.3267', 'cherkasy:0.2971', 'detain:0.2969', 'perpetrator:0.2945', 'infrastructure:0.2734', 'inform:0.2557', 'unauthorized:0.2494', 'law:0.2478', 'phone:0.2476', 'strategic:0.2441', 'use:0.2025', 'swap:0.1949', 'movement:0.1903', 'intel:0.1762', 'charge:0.1575', 'gather:0.1449', 'careful:0.1301', 'nab:0.1251', 'local:0.1083', 'sbu:0.1071', 'include:0.0993', 'martial:0.0911', 'send:0.0823', 'lprdpr:0.0613']+titles_keywords+['cherkasy:0.4324', 'russian:0.3987', 'accomplice:0.3751', 'military:0.2293', 'intel:0.1451']"
+        ]
+    ],
+    "UKR+RUS+173":[
+        [
+            "20220617+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukrainian military shoot down enemy UAV not listed as in service with Russian army.txt+eventbasecode173+eventcode173+avgtone0.4951923076923077+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['uav:0.5029', 'military:0.4273', 'aircrafts:0.4135', 'ukrainian:0.4134', 'helicopter:0.3898', 'russias:0.3869', 'reconnaissance:0.3177', 'enemy:0.289', 'aerial:0.2837', 'vehicle:0.2532', 'armed:0.2111', 'bird:0.2013', 'shoot:0.1763', 'vr:0.1698', 'destroy:0.1621', 'correspondent:0.1567', 'hunt:0.1471', 'unman:0.1447', 'report:0.1408', 'ukrinform:0.1285', 'interesting:0.1186', 'telegram:0.1089', 'list:0.1064', 'force:0.0936', 'make:0.0854', 'statement:0.0683', 'state:0.0458', 'reminder:0.0348', 'officially:0.0304', 'september:0.0076']+titles_keywords+['ukrainian:0.4252', 'uav:0.3843', 'military:0.2941', 'shoot:0.1899', 'listed:0.0953']"
+        ]
+    ]
+}

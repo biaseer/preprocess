@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+12":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/tweaktown.com/Satellites photograph Russias military activity sparking concern.txt+eventbasecode12+eventcode12+avgtone0.48675496688741726+goldsteinscale0.48+nummentions0.06821480406386067+numarticles0.06889050036258158+numsources0.2565789473684211+news_keywords+['russia:0.5482', 'crimea:0.5244', 'vladimir:0.4201', 'satellites:0.4047', 'peacekeeping:0.3636', 'news:0.2655', 'rts:0.2646', 'empires:0.248', 'troop:0.2464', 'activity:0.2421', 'technologies:0.2279', 'informed:0.2248', 'global:0.2014', 'concern:0.1899', 'sanction:0.1873', 'photograph:0.1873', 'attack:0.1803', 'instead:0.1798', 'biden:0.1764', 'tweaktown:0.171', 'snap:0.1666', 'describes:0.1564', 'begin:0.1454', 'banner:0.1331', 'authorize:0.1315', 'make:0.1278', 'monday:0.1261', 'jak:0.1185', 'contradictory:0.1122', 'typical:0.1061']+titles_keywords+['satellites:0.4527', 'russias:0.3568', 'military:0.3133', 'concern:0.2341', 'photograph:0.1626']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/tweaktown.com/Ukraine warns Russias withdrawal of troops may be misleading.txt+eventbasecode12+eventcode12+avgtone0.46839080459770116+goldsteinscale0.48+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5177', 'russias:0.3728', 'pentagon:0.3041', 'military:0.2875', 'retreat:0.2853', 'threat:0.2506', 'informed:0.2357', 'news:0.2186', 'reposition:0.216', 'rts:0.2136', 'pull:0.206', 'prepare:0.1961', 'instead:0.1729', 'ploy:0.1692', 'watch:0.1636', 'agreement:0.1612', 'occupier:0.1538', 'misconception:0.1396', 'tuesday:0.128', 'dramatically:0.1117', 'reduce:0.111', 'tweaktown:0.1075', 'arm:0.1032', 'major:0.0953', 'state:0.0935', 'technology:0.0898', 'jak:0.0789', 'fps:0.0663', 'progression:0.0593', 'review:0.0569']+titles_keywords+['ukraine:0.4094', 'misleading:0.286', 'warns:0.2422', 'troops:0.238', 'withdrawal:0.1873']"
+        ]
+    ]
+}

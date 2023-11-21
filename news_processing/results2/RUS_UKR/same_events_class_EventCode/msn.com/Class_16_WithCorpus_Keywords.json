@@ -1,0 +1,25 @@
+{
+    "RUS+GBR+16":[
+        []
+    ],
+    "RUS+UKR+16":[
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "RUS+USA+16":[
+        [
+            "20220802+../news_crawling/RUS_UKR/p_articles/msn.com/Kyiv recaptures 53 settlements in Kherson as fightback grows.txt+eventbasecode16+eventcode16+avgtone0.4792729591836735+goldsteinscale0.4+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.009868421052631578+news_keywords+['kyiv:0.5464', 'russianoccupied:0.5353', 'russiaisaterroriststate:0.4999', 'putin:0.4618', 'nato:0.3998', 'vkontakte:0.3666', 'reuters:0.365', 'crises:0.3562', 'refugee:0.34', 'blockade:0.3192', 'briefing:0.3184', 'regiment:0.3098', 'logistics:0.2922', 'pentagon:0.2745', 'appeasement:0.2684', 'concern:0.2581', 'annex:0.2562', 'provoke:0.2534', 'read:0.2458', 'know:0.2363', 'prepare:0.2087', 'secretary:0.2063', 'whichhas:0.2041', 'lengthy:0.1961', 'update:0.1866', 'healy:0.1787', 'withdraw:0.1545', 'midnight:0.1496', 'reverse:0.1197', 'agree:0.1105']+titles_keywords+['kyiv:0.5255', 'settlements:0.3674', 'kherson:0.3394', 'fightback:0.2634', '53:0.1908']"
+        ]
+    ],
+    "UKR+RUS+16":[
+        [],
+        []
+    ],
+    "USA+RUS+16":[
+        []
+    ]
+}

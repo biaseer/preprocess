@@ -1,0 +1,15 @@
+{
+    "RUS+TUR+43":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/alaraby.co.uk/Turkey says it cannot stop returning Russian warships from accessing Black Sea.txt+eventbasecode43+eventcode43+avgtone0.4896907216494846+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['crimea:0.4898', 'nato:0.4371', 'ankara:0.3725', 'erdogan:0.3296', 'warships:0.3246', 'war:0.3062', 'pursue:0.2451', 'azov:0.2372', 'allow:0.209', 'port:0.2015', 'drone:0.1831', 'study:0.1805', 'strait:0.1719', 'reiterate:0.1663', 'block:0.1658', 'control:0.1655', 'direction:0.1615', 'decide:0.1476', 'sell:0.1469', 'hurriyet:0.1462', 'process:0.1451', 'positive:0.1385', 'stop:0.1347', 'cokxnocwhv:0.1317', 'expert:0.1222', 'invoke:0.1208', 'make:0.1179', 'request:0.1139', 'set:0.1107', 'define:0.0715']+titles_keywords+['turkey:0.3417', 'warships:0.3181', 'returning:0.14', 'black:0.1089', 'says:-0.0127']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220717+../news_crawling/RUS_UKR/p_articles/alaraby.co.uk/Crimea attack would spark Judgement Day response says Russias Medvedev.txt+eventbasecode43+eventcode43+avgtone0.47696476964769646+goldsteinscale0.64+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['crimea:0.5678', 'russias:0.3373', 'nato:0.3337', 'medvedev:0.3026', 'annex:0.2966', 'war:0.2621', 'strategic:0.2575', 'warn:0.2568', 'skibitskyi:0.216', 'note:0.1924', 'missile:0.1817', 'justify:0.1807', 'happen:0.1464', 'topple:0.1459', 'news:0.1414', 'serf:0.1311', 'televise:0.1277', 'come:0.1275', 'sevastopol:0.1269', 'quote:0.1211', 'produce:0.1197', 'vadym:0.1189', 'state:0.1174', 'return:0.1163', 'thursday:0.1141', 'western:0.0979', 'https:0.0964', 'particular:0.0847', 'pose:0.0825', 'ownedtass:0.0748']+titles_keywords+['crimea:0.4167', 'medvedev:0.3926', 'attack:0.3098', 'judgement:0.1377', 'says:0.028']"
+        ],
+        [
+            "20220728+../news_crawling/RUS_UKR/p_articles/alaraby.co.uk/Kherson Ukraine counterattack gathers momentum UK defence ministry says.txt+eventbasecode43+eventcode43+avgtone0.472093023255814+goldsteinscale0.64+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.006578947368421052+news_keywords+['ukraine:0.5196', 'war:0.3939', 'invasion:0.3091', 'ankara:0.2958', 'kherson:0.2913', 'occupy:0.2838', 'counterattack:0.2726', 'supply:0.2263', 'ofukrainian:0.2244', 'river:0.2081', 'east:0.1916', 'block:0.1729', 'vulnerable:0.1641', 'begin:0.164', 'th:0.1592', 'thursday:0.1581', 'grain:0.1542', 'endanger:0.1474', 'twitter:0.1395', 'counteroffensive:0.1394', 'fertiliserexportsthat:0.1382', 'result:0.1322', 'bulletin:0.1315', 'global:0.1238', 'bridqehead:0.1172', 'include:0.1102', 'say:0.0986', 'virtually:0.0959', 'deal:0.0892', 'reopen:0.0673']+titles_keywords+['counterattack:0.3847', 'momentum:0.3775', 'ukraine:0.367', 'kherson:0.3635', 'says:-0.0014']"
+        ]
+    ]
+}

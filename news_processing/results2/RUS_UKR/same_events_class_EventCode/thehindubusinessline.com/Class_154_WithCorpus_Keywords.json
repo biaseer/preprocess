@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220125+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/Crude oil futures gain on the back of ongoing geopolitical tensions.txt+eventbasecode154+eventcode154+avgtone0.4839285714285714+goldsteinscale0.13999999999999999+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.023026315789473683+news_keywords+['geopolitical:0.3817', 'future:0.3711', 'commodities:0.3527', 'april:0.2942', 'oil:0.2828', 'disruption:0.2784', 'uae:0.276', 'monday:0.2347', 'tension:0.2311', 'nato:0.2173', 'guar:0.216', 'rise:0.2079', 'open:0.2021', 'ongoing:0.2009', 'derivatives:0.2001', 'reinforce:0.1868', 'attack:0.1834', 'previous:0.1808', 'houthis:0.1801', 'ncdex:0.1757', 'eastern:0.1659', 'probable:0.1549', 'wti:0.1374', 'term:0.1254', 'contract:0.1213', 'brent:0.1194', 'build:0.1105', 'help:0.1077', 'base:0.0955', 'jet:0.0658']+titles_keywords+['geopolitical:0.3551', 'futures:0.2853', 'gain:0.2561', 'crude:0.1968', 'ongoing:0.0864']"
+        ],
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/Did the West except Obama misread RussiaUkraine all along.txt+eventbasecode154+eventcode154+avgtone0.48184357542+goldsteinscale0.13999999999999999+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['putin:0.494', 'crimea:0.4232', 'nato:0.3828', 'kleptocracy:0.313', 'wmd:0.3029', 'strategic:0.2653', 'annex:0.2323', 'inaugural:0.2227', 'history:0.2222', 'predict:0.2174', 'alignment:0.2079', 'western:0.2012', 'ahead:0.1921', 'world:0.1761', 'consequence:0.1758', 'kumbaya:0.1715', 'wrong:0.1688', 'enter:0.1615', 'promise:0.1546', 'expel:0.1401', 'dictionary:0.1354', 'misread:0.1278', 'state:0.1236', 'look:0.1179', 'deal:0.1095', 'frighteningly:0.1069', 'recover:0.1029', 'gauge:0.0964', 'refrain:0.0956', 'numerous:0.0771']+titles_keywords+['russiaukraine:0.4128', 'obama:0.3378', 'misread:0.2092', 'west:0.1835', 'did:0.1273']"
+        ]
+    ]
+}

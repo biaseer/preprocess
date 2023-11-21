@@ -1,0 +1,22 @@
+{
+    "EUR+RUS+130":[
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Taoiseach restates solidarity with Ukraine as he arrives in Kyiv.txt+eventbasecode130+eventcode130+avgtone0.4937185929648241+goldsteinscale0.27999999999999997+nummentions0.2706821480406386+numarticles0.271211022480058+numsources0.33223684210526316+news_keywords+['ukraine:0.4716', 'putins:0.358', 'taoiseach:0.3554', 'irelands:0.3389', 'refugee:0.3306', 'invade:0.3015', 'troop:0.2757', 'terror:0.2319', 'unprovoked:0.2179', 'bombardment:0.2123', 'escalate:0.2114', 'zelensky:0.208', 'arrive:0.2068', 'ahead:0.2063', 'solidarity:0.199', 'sanction:0.1937', 'coveney:0.1857', 'suspect:0.1841', 'neighbouring:0.184', 'capital:0.1813', 'oleksii:0.1797', 'debate:0.1735', 'bucha:0.1545', 'martin:0.1255', 'winter:0.1129', 'fully:0.1039', 'equipment:0.0994', 'short:0.0971', 'welcome:0.0892', 'million:0.0844']+titles_keywords+['taoiseach:0.4504', 'kyiv:0.3981', 'solidarity:0.305', 'arrives:0.1935', 'restates:0.0943']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Truss draws up hit list of oligarchs to face sanctions over Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4747292418772563+goldsteinscale0.27999999999999997+nummentions0.4477503628447025+numarticles0.448150833937636+numsources0.4473684210526316+news_keywords+['putin:0.5228', 'ukraines:0.4727', 'oligarchs:0.4585', 'kyiv:0.4417', 'sanction:0.295', 'tory:0.2878', 'sovereignty:0.2866', 'table:0.2818', 'telegraph:0.278', 'secretary:0.2525', 'invasion:0.2406', 'pursue:0.2343', 'unprovoked:0.2339', 'prepare:0.219', 'affair:0.2189', 'truss:0.2077', 'know:0.2016', 'evidence:0.166', 'end:0.1647', 'long:0.1583', 'step:0.1432', 'suggest:0.142', 'properly:0.1386', 'sure:0.1349', 'weve:0.1281', 'ratchet:0.1211', 'freeze:0.1191', 'face:0.1119', 'trying:0.1116', 'week:0.1096']+titles_keywords+['oligarchs:0.449', 'sanctions:0.419', 'truss:0.4115', 'ukraine:0.3588', 'list:0.2469']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Ukraine officials come under shelling attack on front as invasion fears rise.txt+eventbasecode130+eventcode130+avgtone0.4641180415828303+goldsteinscale0.27999999999999997+nummentions0.3076923076923077+numarticles0.30819434372733867+numsources0.7203947368421053+news_keywords+['ukraine:0.4727', 'kremlin:0.3994', 'invade:0.3566', 'separatists:0.346', 'evacuate:0.3371', 'escalation:0.3135', 'peaceful:0.3084', 'battalion:0.2972', 'prepare:0.288', 'political:0.2852', 'news:0.264', 'sinenkov:0.2573', 'worry:0.2458', 'justify:0.2346', 'trouble:0.2225', 'know:0.221', 'report:0.215', 'secretary:0.2047', 'order:0.1985', 'capital:0.1967', 'pretext:0.1939', 'catastrophic:0.1819', 'pull:0.1799', 'speak:0.1767', 'biden:0.1675', 'saturday:0.1516', 'long:0.1506', 'metadata:0.1254', 'sure:0.1221', 'focus:0.1075']+titles_keywords+['ukraine:0.3279', 'attack:0.2758', 'fears:0.2148', 'shelling:0.1761', 'officials:0.1504']"
+        ]
+    ],
+    "WST+UKR+130":[
+        [
+            "20211130+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Putin warns West Russia has red line over Ukraine.txt+eventbasecode130+eventcode130+avgtone0.48721399730820997+goldsteinscale0.27999999999999997+nummentions0.25616835994194487+numarticles0.25670775924583034+numsources0.23355263157894737+news_keywords+['putin:0.5271', 'crimean:0.4827', 'natos:0.4401', 'moscows:0.3661', 'ceasefire:0.3157', 'seerussiahttps:0.2761', 'invade:0.2755', 'nuclear:0.2673', 'strategic:0.2626', 'border:0.2314', 'concern:0.2255', 'warn:0.2133', 'command:0.2034', 'constitution:0.1898', 'expect:0.1893', 'range:0.1783', 'agreement:0.1774', 'line:0.1694', 'peninsula:0.1625', 'enter:0.1618', 'longer:0.1598', 'learn:0.1598', 'speaking:0.1541', 'current:0.1508', 'end:0.1438', 'red:0.1376', 'previous:0.1276', 'possibility:0.0986', 'welcome:0.0796', 'decade:0.0765']+titles_keywords+['putin:0.4386', 'line:0.2953', 'warns:0.2184', 'red:0.2091', 'west:0.1055']"
+        ]
+    ]
+}

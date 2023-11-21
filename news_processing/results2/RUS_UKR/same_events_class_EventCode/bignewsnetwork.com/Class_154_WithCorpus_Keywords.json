@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220203+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Will Western Sanctions on Russia Work.txt+eventbasecode154+eventcode154+avgtone0.47011661807580174+goldsteinscale0.13999999999999999+nummentions0.11538461538461539+numarticles0.11602610587382162+numsources0.20723684210526316+news_keywords+['sanctions:0.554', 'putin:0.4543', 'crimea:0.4107', 'destabilize:0.3451', 'war:0.2861', 'retaliatory:0.2806', 'legislation:0.2583', 'diplomat:0.258', 'economic:0.2305', 'persuade:0.2221', 'agreement:0.2155', 'capital:0.2113', 'formulate:0.2068', 'prepare:0.2057', 'impact:0.2039', 'western:0.2029', 'import:0.1836', 'complicit:0.176', 'rail:0.1702', 'worry:0.1644', 'poison:0.1592', 'end:0.1515', 'cyber:0.1485', 'want:0.1475', 'long:0.135', 'measure:0.134', 'increase:0.1283', 'immediately:0.1271', 'skripal:0.1265', 'feb:0.1095']+titles_keywords+['sanctions:0.5306', 'russia:0.3353', 'western:0.1477', 'work:0.1256']"
+        ],
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Russia Black Sea fleet flagship Moskva sinks following blast.txt+eventbasecode154+eventcode154+avgtone0.4736842105263158+goldsteinscale0.13999999999999999+nummentions0.12917271407837447+numarticles0.12980420594633793+numsources0.29276315789473684+news_keywords+['moscow:0.411', 'warship:0.3581', 'sunk:0.3431', 'moskva:0.3038', 'war:0.2741', 'evacuation:0.2094', 'news:0.194', 'investigation:0.1886', 'donbas:0.1812', 'hit:0.1808', 'neptune:0.1536', 'prepare:0.1519', 'ammunition:0.145', 'tow:0.1395', 'outcome:0.1395', 'command:0.1389', 'black:0.1363', 'eastern:0.126', 'th:0.1259', 'fired:0.1192', 'range:0.1112', 'acknowledge:0.1094', 'april:0.105', 'point:0.0933', 'follow:0.0907', 'unable:0.0773', 'certainly:0.0723', 'states:0.0709', 'jake:0.0644', 'way:0.0527']+titles_keywords+['moskva:0.3785', 'sinks:0.2399', 'fleet:0.1998', 'blast:0.1312', 'black:0.1139']"
+        ]
+    ]
+}

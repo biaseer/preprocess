@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220510+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/Rescuers find 44 bodies under the rubble of fivestorey building destroyed by Russian rockets in.txt+eventbasecode194+eventcode194+avgtone0.47762176393154887+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.4714', 'putin:0.3979', 'airstrikes:0.3959', 'nato:0.3681', 'battalion:0.3666', 'pentagon:0.3428', 'news:0.3165', 'emergency:0.3057', 'destroy:0.2849', 'wreckage:0.2803', 'victory:0.2675', 'report:0.2533', 'administration:0.2403', 'strategic:0.2223', 'project:0.2174', 'satellite:0.2121', 'watch:0.211', 'interpret:0.2055', 'north:0.1954', 'images:0.1884', 'prepares:0.1879', 'order:0.1876', 'fall:0.182', 'continue:0.1779', 'anonymity:0.177', 'similar:0.1667', 'donbas:0.165', 'red:0.1644', 'days:0.1534', 'according:0.1467']+titles_keywords+['rubble:0.3724', 'russian:0.3519', 'missiles:0.3439', 'rescuers:0.2897', 'fivestorey:0.2089']"
+        ]
+    ],
+    "UKR+RUS+194":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/Russian artillery targets inspectors route to nuclear power plant at centre of Chernobyl disaster fears.txt+eventbasecode194+eventcode194+avgtone0.4820224719101123+goldsteinscale0.0+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.013157894736842105+news_keywords+['kyiv:0.5142', 'chernobyl:0.5084', 'nato:0.4096', 'putin:0.3781', 'demilitarize:0.3687', 'nuclear:0.3644', 'bombardment:0.3504', 'zelensky:0.3472', 'thezaporizhzhia:0.3338', 'operation:0.2881', 'iaea:0.285', 'frontline:0.2772', 'saboteurs:0.2698', 'reporter:0.2561', 'safety:0.2415', 'infantryman:0.2301', 'information:0.2053', 'damageafter:0.1866', 'coincide:0.1857', 'annexed:0.1838', 'inspect:0.1797', 'continue:0.1749', 'grid:0.1697', 'facilitysits:0.1672', 'prepare:0.1641', 'evhen:0.1552', 'write:0.153', 'issue:0.1281', 'reach:0.1257', 'today:0.071']+titles_keywords+['chernobyl:0.5765', 'artillery:0.3275', 'inspectors:0.2716', 'uns:0.1854', 'route:0.1693']"
+        ]
+    ]
+}

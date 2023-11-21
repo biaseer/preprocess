@@ -1,0 +1,12 @@
+{
+    "POL+RUS+20":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/cambridge-news.co.uk/Johnson helping Ukraine more thanks to British public pressure say Zelensky.txt+eventbasecode20+eventcode20+avgtone0.4838308457711443+goldsteinscale0.65+nummentions0.2144412191582003+numarticles0.21501087744742567+numsources0.3223684210526316+news_keywords+['ukraine:0.4617', 'nato:0.4438', 'putins:0.4044', 'war:0.3598', 'boris:0.2729', 'economist:0.2709', 'government:0.2708', 'overthrow:0.2665', 'macron:0.2561', 'approach:0.2411', 'border:0.2139', 'volodymyr:0.1963', 'remain:0.1931', 'want:0.1893', 'react:0.184', 'newsletter:0.1809', 'clarify:0.1752', 'afraid:0.1604', 'speech:0.1599', 'note:0.1565', 'comparison:0.1505', 'row:0.1497', 'powerful:0.1473', 'make:0.1428', 'ready:0.1364', 'balanced:0.135', 'mr:0.1019', 'dig:0.0845', 'prime:0.0808', 'today:0.059']+titles_keywords+['zelensky:0.3951', 'ukraine:0.3851', 'johnson:0.2952', 'british:0.205', 'helping:0.1134']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/cambridge-news.co.uk/UK to end all imports of Russian coal and oil by end of year.txt+eventbasecode20+eventcode20+avgtone0.4649572649572649+goldsteinscale0.65+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.04276315789473684+news_keywords+['putin:0.51', 'sanction:0.3904', 'kyiv:0.3717', 'regime:0.3626', 'news:0.3116', 'nazification:0.2769', 'block:0.2758', 'labour:0.2756', 'report:0.2722', 'climate:0.2639', 'invasion:0.2427', 'context:0.231', 'secretary:0.2287', 'end:0.2273', 'order:0.2229', 'combine:0.211', 'americans:0.2051', 'alfabank:0.1994', 'sign:0.193', 'say:0.1915', 'bucha:0.191', 'invest:0.1881', 'soon:0.1787', 'forward:0.1776', 'underprepared:0.1708', 'afraid:0.1708', 'apparent:0.1564', 'similar:0.1506', 'year:0.1309', 'tonne:0.0852']+titles_keywords+['coal:0.3253', 'russian:0.268', 'end:0.1718', 'imports:0.1687', 'year:0.079']"
+        ]
+    ]
+}

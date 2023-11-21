@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+42":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/winnipegfreepress.com/Leaders pledge arms and EU path for Ukraine in Kyiv visit.txt+eventbasecode42+eventcode42+avgtone0.4875717017208413+goldsteinscale0.595+nummentions0.25217706821480407+numarticles0.2527193618564177+numsources0.3157894736842105+news_keywords+['ukraine:0.5116', 'nato:0.4678', 'kremlin:0.393', 'macron:0.3221', 'revolution:0.3053', 'medvedev:0.3041', 'election:0.2719', 'prepare:0.2631', 'meeting:0.2267', 'pledge:0.2253', 'concern:0.2174', 'bloc:0.2166', 'howitzer:0.2141', 'volodymyr:0.2124', 'agreement:0.2091', 'sanction:0.1924', 'information:0.1923', 'increasingly:0.1905', 'want:0.1864', 'geir:0.1861', 'arm:0.183', 'continue:0.175', 'transit:0.1721', 'powerful:0.1631', 'thursday:0.161', 'long:0.1535', 'make:0.1517', 'tweet:0.1413', 'export:0.1308', 'doesnt:0.051']+titles_keywords+['kyiv:0.4484', 'eu:0.2884', 'pledge:0.2873', 'leaders:0.252', 'arms:0.2421']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/winnipegfreepress.com/Fendi Cavalli open a more relaxed Milan Fashion Week.txt+eventbasecode42+eventcode42+avgtone0.509212730318258+goldsteinscale0.595+nummentions0.23076923076923078+numarticles0.23132704858593184+numsources0.17434210526315788+news_keywords+['fashion:0.5694', 'couture:0.4741', 'fendi:0.4389', 'cavalli:0.3974', 'chiffony:0.3682', 'runway:0.3287', 'modern:0.3247', 'season:0.2841', 'stitch:0.2704', 'palette:0.2563', 'womans:0.2457', 'inspire:0.2391', 'enter:0.2182', 'tell:0.2125', 'list:0.2121', 'fallylah:0.2118', 'sans:0.2117', 'grid:0.2021', 'europe:0.1889', 'current:0.1767', 'cover:0.1742', 'michelle:0.1715', 'coronavirus:0.1694', 'like:0.1679', 'day:0.1481', 'asymmetrical:0.1474', 'ora:0.1465', 'print:0.1389', 'rapid:0.1335', 'modulate:0.0784']+titles_keywords+['fendi:0.4995', 'cavalli:0.4869', 'open:0.311', 'week:0.2729', 'relaxed:0.1962']"
+        ]
+    ]
+}

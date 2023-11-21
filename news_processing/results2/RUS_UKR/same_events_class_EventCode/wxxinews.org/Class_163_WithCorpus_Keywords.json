@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+163":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/wxxinews.org/Coming up on Connections Tuesday April 5 2022.txt+eventbasecode163+eventcode163+avgtone0.4786729857819905+goldsteinscale0.1+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kyiv:0.4528', 'russians:0.3735', 'sanction:0.3369', 'announce:0.3288', 'alcoholism:0.3098', 'report:0.3088', 'tuesday:0.3053', 'pandemic:0.2922', 'april:0.2825', 'institute:0.2652', 'biden:0.2606', 'union:0.2597', 'advocate:0.2538', 'european:0.2389', 'guest:0.2351', 'connections:0.2261', 'import:0.2171', 'hour:0.2157', 'coming:0.2006', 'increase:0.1944', 'local:0.187', 'emerge:0.1851', 'racquel:0.1839', 'stephen:0.1832', 'coal:0.1796', 'story:0.1768', 'include:0.1596', 'civilian:0.1459', 'like:0.1218', 'percent:0.102']+titles_keywords+['2022:0.5652', 'connections:0.4915', 'tuesday:0.4007', 'coming:0.3248', 'april:0.2998']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/wxxinews.org/US officials say Russia will face pressure at the UN over Ukraine.txt+eventbasecode163+eventcode163+avgtone0.4788321167883211+goldsteinscale0.1+nummentions0.9426705370101597+numarticles0.9427121102248006+numsources0.9243421052631579+news_keywords+['nato:0.4706', 'crimea:0.4082', 'invade:0.3706', 'vladimir:0.3065', 'cyberattacks:0.2822', 'threat:0.2719', 'propaganda:0.2416', 'diplomatic:0.2336', 'prepare:0.2314', 'preemptively:0.2266', 'unify:0.2174', 'border:0.2021', 'agreement:0.1963', 'flag:0.1926', 'president:0.192', 'table:0.1773', 'increasingly:0.1537', 'explain:0.1503', 'monday:0.1468', 'discus:0.1393', 'suggest:0.1279', 'forget:0.1267', 'current:0.1267', 'nbc:0.1186', 'state:0.1078', 'long:0.1076', 'near:0.0965', 'underline:0.0832', 'durbin:0.0721', 'resolution:0.0519']+titles_keywords+['ukraine:0.2935', 'pressure:0.2751', 'officials:0.1229', 'face:0.0304', 'say:-0.0142']"
+        ]
+    ]
+}

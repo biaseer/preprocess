@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220103+../news_crawling/RUS_UKR/p_articles/bdnews24.com/US to respond decisively if Russia invades Biden tells Ukraine.txt+eventbasecode154+eventcode154+avgtone0.49523809523809526+goldsteinscale0.13999999999999999+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['nato:0.4502', 'invades:0.4044', 'ukraines:0.3995', 'diplomatic:0.3581', 'kremlin:0.3543', 'biden:0.3151', 'escalation:0.2941', 'vladimir:0.2909', 'crisis:0.2556', 'respond:0.2416', 'warn:0.2279', 'upcoming:0.2144', 'meet:0.2125', 'ally:0.2063', 'operation:0.2052', 'psaki:0.2019', 'border:0.201', 'action:0.1966', 'security:0.1786', 'preparation:0.1714', 'want:0.1667', 'states:0.163', 'reform:0.1629', 'follow:0.1494', 'reporter:0.1235', 'second:0.1194', 'day:0.1091', 'set:0.1027', 'prove:0.0874', 'decisively:0.0737']+titles_keywords+['biden:0.3228', 'invades:0.2993', 'ukraine:0.2959', 'respond:0.2595', 'decisively:0.1852']"
+        ]
+    ],
+    "UKR+RUS+154":[
+        [
+            "20220205+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Ukrainian soldiers drill urban warfare scenario in deserted Chernobyl town.txt+eventbasecode154+eventcode154+avgtone0.46296296296296297+goldsteinscale0.13999999999999999+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['chernobyl:0.5758', 'crimea:0.4492', 'soviet:0.4307', 'warfare:0.3922', 'nato:0.3718', 'radiation:0.3693', 'troop:0.352', 'reactor:0.3412', 'safety:0.2738', 'explode:0.2215', 'scenario:0.2027', 'brace:0.1839', 'town:0.1766', 'separatist:0.1741', 'pripyat:0.1645', 'worker:0.1515', 'plant:0.1461', 'acute:0.1395', 'april:0.1366', 'snowy:0.1295', 'test:0.127', 'remain:0.1254', 'botch:0.1168', 'th:0.1162', 'km:0.1067', 'later:0.085', 'total:0.0641', 'long:0.063', 'send:0.059', 'include:0.0528']+titles_keywords+['chernobyl:0.4809', 'soldiers:0.4023', 'deserted:0.3047', 'town:0.2322', 'scenario:0.1846']"
+        ]
+    ]
+}

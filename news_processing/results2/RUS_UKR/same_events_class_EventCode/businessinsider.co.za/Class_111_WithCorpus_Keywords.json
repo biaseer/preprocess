@@ -1,0 +1,22 @@
+{
+    "EUR+RUS+111":[
+        [
+            "20220803+../news_crawling/RUS_UKR/p_articles/businessinsider.co.za/Europe has ramped up imports of Russian diesel as the EU struggles to wean off.txt+eventbasecode111+eventcode111+avgtone0.46114864864864863+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['diesel:0.4741', 'refineries:0.4133', 'ukraine:0.4128', 'eu:0.3779', 'supply:0.3274', 'kremlin:0.3168', 'plummet:0.2599', 'winter:0.2549', 'economist:0.2488', 'import:0.2481', 'war:0.2221', 'increase:0.2144', 'ahead:0.2042', 'covid:0.1991', 'concern:0.1942', 'travel:0.1933', 'barrel:0.1719', 'alternative:0.1434', 'choke:0.1432', 'tuesday:0.1413', 'wean:0.1343', 'source:0.1316', 'report:0.131', 'end:0.1229', 'track:0.1204', 'overall:0.1117', 'shore:0.1042', 'nearly:0.0883', 'price:0.0799', 'simultaneously:0.0765']+titles_keywords+['diesel:0.4546', 'eu:0.3106', 'imports:0.2354', 'supplies:0.1764', 'wean:0.0747']"
+        ]
+    ],
+    "RUS+RUS+111":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/businessinsider.co.za/A Russian Orthodox church in Amsterdam broke ties with the Moscow Patriarchate over the invasion.txt+eventbasecode111+eventcode111+avgtone0.47859589041095885+goldsteinscale0.4+nummentions0.00725689404934688+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['orthodox:0.5612', 'constantinople:0.4259', 'ukraine:0.417', 'vladimir:0.3984', 'liturgy:0.3704', 'patriarchate:0.3691', 'archbishop:0.3538', 'invasion:0.3267', 'parish:0.2714', 'condemn:0.2656', 'federation:0.2212', 'announce:0.213', 'saturday:0.1855', 'affair:0.1788', 'evil:0.1779', 'myra:0.1753', 'read:0.1723', 'pjotr:0.1649', 'split:0.1497', 'end:0.1455', 'willingness:0.1437', 'safe:0.1355', 'unanimously:0.1232', 'population:0.1209', 'accord:0.1193', 'request:0.1179', 'effectively:0.0916', 'arm:0.0864', 'longer:0.0543', 'possible:0.05']+titles_keywords+['orthodox:0.5435', 'moscow:0.4211', 'amsterdam:0.2706', 'invasion:0.202', 'broke:0.1153']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/businessinsider.co.za/US officials reportedly say Russia has a list of opponents to arrest or assassinate if.txt+eventbasecode111+eventcode111+avgtone0.47314375987361773+goldsteinscale0.4+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4232', 'putin:0.4165', 'invades:0.3065', 'assassinate:0.2842', 'threat:0.268', 'agenda:0.2321', 'troop:0.2206', 'ethnic:0.2017', 'journalist:0.2013', 'imminent:0.1999', 'border:0.1855', 'kidnappingsforced:0.1811', 'anonymity:0.1758', 'order:0.1524', 'report:0.1483', 'oppose:0.1483', 'people:0.1346', 'classification:0.1314', 'replace:0.1287', 'include:0.1182', 'similar:0.113', 'hope:0.1031', 'current:0.0985', 'downgrade:0.0942', 'fsb:0.0859', 'new:0.0742', 'track:0.0722', 'building:0.0652', 'blinken:0.0641', 'grow:0.0388']+titles_keywords+['ukraine:0.3759', 'assassinate:0.3383', 'list:0.2678', 'opponents:0.197', 'reportedly:0.1357']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/businessinsider.co.za/Russian state media denies its military attacked Kyiv and even claims Ukraine shot down its.txt+eventbasecode111+eventcode111+avgtone0.4662398137369033+goldsteinscale0.4+nummentions0.01741654571843251+numarticles0.018129079042784626+numsources0.029605263157894735+news_keywords+['kyiv:0.5226', 'russians:0.4164', 'news:0.3201', 'war:0.3086', 'cite:0.2723', 'zelensky:0.2616', 'erupt:0.2335', 'justify:0.2296', 'translation:0.221', 'publishes:0.2104', 'bbc:0.2089', 'plane:0.1919', 'evidence:0.1917', 'outlet:0.1883', 'reporteda:0.179', 'shoot:0.1787', 'speak:0.1691', 'omit:0.1677', 'interrupt:0.1633', 'censure:0.1567', 'agency:0.1528', 'naval:0.1384', 'state:0.1242', 'major:0.1228', 'photo:0.1186', 'similar:0.1184', 'scarr:0.1127', 'huddle:0.0909', 'outlandish:0.0835', 'array:0.0704']+titles_keywords+['kyiv:0.5059', 'military:0.2431', 'attacked:0.2343', 'media:0.1763', 'state:0.1283']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "GBR+UKR+36":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Criminal Record Vladimir Putins relationship with the Russian mafia.txt+eventbasecode36+eventcode36+avgtone0.460902255639098+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.5579', 'moscow:0.4345', 'litvinenko:0.4175', 'oligarchs:0.3954', 'kleptocracy:0.3293', 'fbi:0.307', 'prosecute:0.291', 'crony:0.2528', 'absentia:0.2476', 'hague:0.2315', 'news:0.2226', 'border:0.2102', 'world:0.2032', 'future:0.1907', 'anti:0.1765', 'collated:0.1727', 'head:0.1707', 'want:0.167', 'icc:0.1664', 'prostitution:0.1575', 'underworld:0.1559', 'originate:0.1493', 'horrific:0.141', 'return:0.1397', 'richer:0.1339', 'cell:0.1253', 'thrive:0.1234', 'step:0.111', 'general:0.1006', 'launder:0.0703']+titles_keywords+['putins:0.5599', 'mafia:0.5275', 'criminal:0.4218', 'russian:0.4134', 'relationship:0.2712']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Vladimir Putin launches Satan2 missile in chilling warning to those who threaten Russia.txt+eventbasecode36+eventcode36+avgtone0.4771386430678466+goldsteinscale0.7+nummentions0.022496371552975326+numarticles0.023205221174764323+numsources0.019736842105263157+news_keywords+['icbm:0.5477', 'putin:0.4771', 'nuclear:0.422', 'geopolitical:0.3994', 'rusi:0.3836', 'russias:0.3754', 'lavrov:0.3287', 'sarmat:0.3248', 'threaten:0.3218', 'reuters:0.2958', 'weapon:0.2809', 'announcement:0.2564', 'deploy:0.2417', 'rhetoric:0.2403', 'firing:0.2351', 'kamchatka:0.2124', 'capability:0.2118', 'preparation:0.1991', 'cosmodrome:0.1971', 'world:0.1903', 'modern:0.1858', 'big:0.1607', 'arm:0.1598', 'winter:0.1569', 'analogues:0.153', 'trajectory:0.1457', 'think:0.1431', 'reliably:0.1098', 'difference:0.1001', 'wont:0.096']+titles_keywords+['putin:0.4897', 'satan2:0.4334', 'missile:0.3867', 'threaten:0.3666', 'warning:0.2836']"
+        ],
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Why is there a shortage of cooking oil and how many bottles can you buy.txt+eventbasecode36+eventcode36+avgtone0.4805194805194805+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['oil:0.4551', 'shortage:0.4295', 'supply:0.4183', 'ukraine:0.3422', 'commodity:0.3292', 'sainsbury:0.3057', 'sunflower:0.2968', 'ration:0.2936', 'conflict:0.2909', 'alternative:0.2504', 'ingredient:0.2445', 'news:0.2267', 'increase:0.217', 'make:0.1929', 'april:0.1804', 'notice:0.1743', 'implement:0.1725', 'consortium:0.1714', 'term:0.1697', 'explain:0.1686', 'chain:0.1624', 'miss:0.1363', 'unintended:0.1308', 'include:0.1247', 'like:0.1146', 'cost:0.1126', 'minimise:0.109', 'begin:0.1087', 'send:0.1022', 'major:0.0885']+titles_keywords+['oil:0.5077', 'shortage:0.3845', 'bottles:0.3295', 'cooking:0.2682', 'buy:0.1555']"
+        ]
+    ]
+}

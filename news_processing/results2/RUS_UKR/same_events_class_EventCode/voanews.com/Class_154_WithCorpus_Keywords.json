@@ -1,0 +1,18 @@
+{
+    "RUS+RUS+154":[
+        [
+            "20220118+../news_crawling/RUS_UKR/p_articles/voanews.com/Russia Moves More Troops Westward Amid Ukraine Tensions.txt+eventbasecode154+eventcode154+avgtone0.48861566484517305+goldsteinscale0.13999999999999999+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.019736842105263157+news_keywords+['nato:0.4854', 'crimean:0.4321', 'moscow:0.3853', 'war:0.3361', 'deploy:0.3188', 'tensions:0.2666', 'armed:0.2663', 'escalate:0.2481', 'annex:0.2475', 'lukashenko:0.2452', 'moves:0.2259', 'president:0.212', 'future:0.2001', 'plan:0.1979', 'meeting:0.1974', 'agreement:0.1919', 'psaki:0.1906', 'separatist:0.1881', 'north:0.1832', 'order:0.1824', 'dangerous:0.1822', 'general:0.1789', 'drill:0.1635', 'mlanie:0.1499', 'write:0.1484', 'counterpart:0.1436', 'stretch:0.1217', 'stoltenberg:0.1133', 'estimate:0.1024', 'concentrate:0.0993']+titles_keywords+['ukraine:0.3602', 'westward:0.3093', 'troops:0.3049', 'moves:0.2678', 'tensions:0.1505']"
+        ]
+    ],
+    "RUS+UKR+154":[
+        [
+            "20211019+../news_crawling/RUS_UKR/p_articles/voanews.com/Pentagon Chief No Country Has Veto on Ukraines NATO Aspirations.txt+eventbasecode154+eventcode154+avgtone0.4832134292565947+goldsteinscale0.13999999999999999+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukrainehas:0.547', 'nato:0.5101', 'crimea:0.4962', 'putin:0.4636', 'veto:0.3477', 'pentagon:0.3183', 'diplomat:0.2777', 'destabilizing:0.2759', 'annexed:0.2676', 'tensions:0.238', 'border:0.2223', 'attack:0.221', 'states:0.1925', 'future:0.1857', 'visit:0.1759', 'counterpart:0.1718', 'pipeline:0.1704', 'pull:0.1665', 'continue:0.1601', 'conference:0.1517', 'say:0.1437', 'operate:0.1423', 'expect:0.141', 'positive:0.1351', 'voa:0.1273', 'month:0.1127', 'interference:0.111', 'ransomware:0.0905', 'earlier:0.0902', 'theyre:0.0611']+titles_keywords+['nato:0.535', 'ukraines:0.4217', 'veto:0.3922', 'pentagon:0.3847', 'chief:0.1534']"
+        ],
+        [
+            "20220203+../news_crawling/RUS_UKR/p_articles/voanews.com/Will Western Sanctions on Russia Work.txt+eventbasecode154+eventcode154+avgtone0.46909903201787045+goldsteinscale0.13999999999999999+nummentions0.11538461538461539+numarticles0.11602610587382162+numsources0.20723684210526316+news_keywords+['sanctions:0.4986', 'russia:0.4202', 'destabilize:0.329', 'diplomatic:0.3109', 'dmitry:0.3023', 'oligarchs:0.2829', 'annexation:0.2705', 'escalate:0.2453', 'attack:0.2433', 'economic:0.2318', 'implement:0.1999', 'worried:0.1834', 'align:0.1832', 'rail:0.1825', 'news:0.1817', 'downplay:0.1773', 'western:0.1772', 'import:0.1712', 'implies:0.1666', 'military:0.1622', 'suffer:0.1592', 'want:0.1469', 'buildup:0.1419', 'measure:0.1414', 'current:0.1285', 'long:0.1191', 'end:0.1188', 'great:0.094', 'unity:0.0845', 'fishman:0.0571']+titles_keywords+['sanctions:0.5306', 'russia:0.3353', 'western:0.1477', 'work:0.1256']"
+        ]
+    ],
+    "UKR+RUS+154":[
+        []
+    ]
+}

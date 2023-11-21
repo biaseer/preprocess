@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/tellerreport.com/Ukraines largest nuclear power plant attack fire Ukrainian Foreign Minister.txt+eventbasecode190+eventcode190+avgtone0.47105263157894733+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['chernobyl:0.5447', 'nuclear:0.4568', 'ukraines:0.4387', 'reactor:0.3931', 'explodes:0.271', 'invade:0.2685', 'russian:0.2573', 'occur:0.2492', 'zaporizhia:0.2373', 'warn:0.2204', 'immediately:0.19', 'nhk:0.1845', 'tank:0.1672', 'iaea:0.1667', 'report:0.1612', 'plant:0.1573', 'power:0.1492', 'barricade:0.1416', 'kreva:0.1219', 'twitter:0.1152', 'use:0.1143', 'stop:0.109', 'southeastern:0.1019', 'near:0.1002', 'reveal:0.0905', 'enerhodar:0.0803', 'large:0.0675', 'line:0.0658', 'rd:0.0489', 'add:0.0451']+titles_keywords+['ukraines:0.3508', 'nuclear:0.2971', 'largest:0.21', 'attack:0.2032', 'minister:0.0797']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220808+../news_crawling/RUS_UKR/p_articles/tellerreport.com/Updated as needed Russia invades Ukraine movement on August 9.txt+eventbasecode190+eventcode190+avgtone0.46511627906976744+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['fukushima:0.6214', 'chernobyl:0.5701', 'ukraine:0.4541', 'nuclear:0.4372', 'catastrophe:0.3169', 'diplomacy:0.3003', 'demilitarize:0.2799', 'invades:0.2576', 'concern:0.2456', 'daiichi:0.2435', 'military:0.2393', 'nhk:0.2379', 'power:0.1923', 'fighting:0.155', 'development:0.1513', 'continue:0.1468', 'tepco:0.1407', 'plant:0.14', 'accident:0.1301', 'th:0.13', 'updated:0.1294', 'container:0.1034', 'include:0.0968', 'august:0.095', 'kotin:0.0805', 'bad:0.0779', 'level:0.0769', 'difference:0.0705', 'thousand:0.0641', 'large:0.0629']+titles_keywords+['ukraine:0.5158', 'invades:0.3801', 'august:0.2654', 'updated:0.2561', 'movement:0.2272']"
+        ]
+    ]
+}

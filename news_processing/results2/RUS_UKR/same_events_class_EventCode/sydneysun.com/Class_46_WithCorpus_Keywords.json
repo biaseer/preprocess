@@ -1,0 +1,17 @@
+{
+    "BLR+RUS+46":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/sydneysun.com/Indian Defence Expert terms ZelenskyyPutin meeting crucial.txt+eventbasecode46+eventcode46+avgtone0.48711340206185566+goldsteinscale0.85+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.04276315789473684+news_keywords+['meeting:0.4047', 'putin:0.3994', 'zelenskyy:0.3514', 'donetsk:0.328', 'mediate:0.326', 'war:0.3215', 'israel:0.2941', 'readiness:0.2785', 'delegation:0.2593', 'crisis:0.2117', 'naftali:0.1867', 'minister:0.1845', 'response:0.1786', 'term:0.1667', 'sanction:0.1579', 'important:0.151', 'chatterjee:0.1461', 'expert:0.1354', 'say:0.1246', 'request:0.1211', 'include:0.1197', 'state:0.1183', 'amid:0.1182', 'ani:0.1142', 'february:0.109', 'point:0.1089', 'discus:0.1046', 'open:0.0892', 'prime:0.0712', 'reach:0.0698']+titles_keywords+['zelenskyyputin:0.5669', 'meeting:0.348', 'indian:0.2524', 'terms:0.2398', 'defence:0.1747']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/sydneysun.com/Latest Developments in Ukraine April 1.txt+eventbasecode46+eventcode46+avgtone0.48214285714285715+goldsteinscale0.85+nummentions0.02576197387518142+numarticles0.026468455402465556+numsources0.046052631578947366+news_keywords+['ukraine:0.5937', 'military:0.2771', 'oil:0.2649', 'zelenskyy:0.2546', 'governor:0.2388', 'peace:0.2374', 'helicopter:0.237', 'developments:0.226', 'attack:0.2249', 'parliament:0.2229', 'april:0.2155', 'belgorod:0.2006', 'ablaze:0.1803', 'aid:0.179', 'report:0.1733', 'city:0.1623', 'regional:0.1596', 'bbc:0.1459', 'address:0.1423', 'post:0.1243', 'discussion:0.121', 'responsibility:0.1133', 'send:0.105', 'resume:0.1036', 'say:0.1023', 'claim:0.0976', 'unspecified:0.0974', 'number:0.0813', 'carrier:0.0772', 'set:0.0545']+titles_keywords+['ukraine:0.5396', 'april:0.318', 'developments:0.3169', 'latest:0.2399']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20211207+../news_crawling/RUS_UKR/p_articles/sydneysun.com/Ruble holds strong as US threatens to cut Russia off SWIFT.txt+eventbasecode46+eventcode46+avgtone0.4673913043478261+goldsteinscale0.85+nummentions0.10885341074020319+numarticles0.10949963741841914+numsources0.16447368421052633+news_keywords+['russia:0.4729', 'rubles:0.4456', 'threat:0.3299', 'currency:0.3042', 'bloomberg:0.3032', 'sanction:0.2931', 'government:0.2753', 'banking:0.2663', 'president:0.2441', 'cite:0.202', 'monday:0.2014', 'stock:0.2004', 'report:0.1988', 'strengthen:0.192', 'speculation:0.1861', 'swift:0.1833', 'event:0.1768', 'convert:0.1643', 'plan:0.1537', 'follow:0.1499', 'outlet:0.1303', 'disconnect:0.1287', 'greenback:0.1237', 'wide:0.1148', 'moex:0.1134', 'receive:0.1083', 'set:0.1062', 'reignite:0.0987', 'gmt:0.0835', 'benchmark:0.0662']+titles_keywords+['ruble:0.4739', 'strong:0.3269', 'cut:0.2161', 'swift:0.2155', 'threatens:0.1605']"
+        ]
+    ]
+}

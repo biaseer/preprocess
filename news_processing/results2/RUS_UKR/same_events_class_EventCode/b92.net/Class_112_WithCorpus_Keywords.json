@@ -1,0 +1,17 @@
+{
+    "HRV+RUS+112":[
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/b92.net/Hopeless and Destructive Russia disappointed with Croatias and Slovenias move.txt+eventbasecode112+eventcode112+avgtone0.4739263803680982+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['russia:0.4587', 'slovenias:0.4329', 'zagreb:0.4172', 'geopolitical:0.4018', 'diplomatic:0.3806', 'smolensky:0.337', 'cooperation:0.3186', 'government:0.2432', 'relation:0.2406', 'reality:0.22', 'sanction:0.2146', 'achieve:0.2103', 'invasion:0.2054', 'disastrous:0.2021', 'contrary:0.1995', 'mutually:0.199', 'statement:0.1875', 'step:0.1848', 'issue:0.1675', 'position:0.1588', 'beneficial:0.1568', 'say:0.1498', 'bilateral:0.149', 'recent:0.1419', 'national:0.1363', 'join:0.1349', 'square:0.1266', 'sure:0.116', 'disappoint:0.1038', 'th:0.0884']+titles_keywords+['slovenias:0.5051', 'russia:0.4787', 'disappointed:0.2346', 'hopeless:0.2103', 'destructive:0.1965']"
+        ]
+    ],
+    "RUS+RUS+112":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/b92.net/Putin ordered Cancel it It will be over in 3 days Zelensky Itll be painful.txt+eventbasecode112+eventcode112+avgtone0.4900398406374502+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.5279', 'zelensky:0.4994', 'cancel:0.3917', 'day:0.3041', 'order:0.2797', 'itll:0.246', 'painful:0.2328']+titles_keywords+['putin:0.4636', 'zelensky:0.4343', 'cancel:0.3606', 'days:0.2191', 'painful:0.1745']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220827+../news_crawling/RUS_UKR/p_articles/b92.net/Chaos at Zaporizhzhia nuclear power plant Moscow and Kyiv accusing each other.txt+eventbasecode112+eventcode112+avgtone0.4758454106280193+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.479', 'zaporizhzhia:0.4375', 'reactor:0.4298', 'nuclear:0.4055', 'moscow:0.3821', 'chaos:0.2885', 'power:0.1812', 'plant:0.1673', 'news:0.1667', 'speak:0.1641', 'authority:0.1552', 'accuse:0.1203', 'turn:0.115', 'second:0.0682', 'late:0.0581', 'time:0.0377', 'local:0.0219']+titles_keywords+['kyiv:0.5031', 'nuclear:0.3559', 'zaporizhzhia:0.337', 'chaos:0.2984', 'accusing:0.2071']"
+        ]
+    ]
+}

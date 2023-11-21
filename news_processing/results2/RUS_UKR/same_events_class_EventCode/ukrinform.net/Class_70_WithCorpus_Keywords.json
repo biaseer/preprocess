@@ -1,0 +1,17 @@
+{
+    "DEU+RUS+70":[
+        [
+            "20210712+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Berlin ready to contribute to signing gas transit contract between Ukraine and Russia.txt+eventbasecode70+eventcode70+avgtone0.5032467532467533+goldsteinscale0.85+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4268', 'transit:0.3226', 'merkel:0.3108', 'pipeline:0.3078', 'gas:0.2938', 'berlin:0.2672', 'steffen:0.1807', 'nord:0.1801', 'zelensky:0.1755', 'president:0.1667', 'seibert:0.1534', 'volodymyr:0.15', 'correspondent:0.1413', 'sign:0.1274', 'government:0.1258', 'ukrinform:0.1253', 'chancellor:0.1226', 'ready:0.1136', 'remain:0.1039', 'extension:0.1031', 'statement:0.1018', 'course:0.1005', 'predict:0.0944', 'clear:0.0817', 'god:0.0733', 'possible:0.0713', 'july:0.0691', 'thank:0.0683', 'issue:0.0658', 'make:0.0431']+titles_keywords+['berlin:0.3535', 'transit:0.2545', 'contract:0.2284', 'gas:0.2041', 'ready:0.1288']"
+        ]
+    ],
+    "RUS+UKR+70":[
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Crimean Tatar leader appeals to people in Crimea to dodge Russian army draft.txt+eventbasecode70+eventcode70+avgtone0.4782608695652174+goldsteinscale0.85+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['crimean:0.6086', 'tatar:0.4513', 'mobilization:0.4102', 'war:0.3222', 'military:0.3118', 'occupy:0.2898', 'threaten:0.2831', 'chubarov:0.2763', 'humanitarian:0.2716', 'peninsula:0.2597', 'draft:0.2585', 'avoid:0.2535', 'citizen:0.2504', 'persons:0.2468', 'invaders:0.2109', 'appeal:0.1813', 'contact:0.1809', 'rights:0.1801', 'write:0.1713', 'mejlis:0.1565', 'option:0.1554', 'order:0.1535', 'immediately:0.1513', 'geneva:0.1448', 'iv:0.1394', 'article:0.1279', 'age:0.1164', 'cross:0.1135', 'close:0.1122', 'forcible:0.0891']+titles_keywords+['crimean:0.5247', 'tatar:0.4701', 'draft:0.2873', 'army:0.2189', 'leader:0.1337']"
+        ]
+    ],
+    "UKR+RUS+70":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukraine meets all necessary criteria for EU candidate status Zelensky.txt+eventbasecode70+eventcode70+avgtone0.5160493827160494+goldsteinscale0.85+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4871', 'zelensky:0.272', 'remain:0.2646', 'ukrinform:0.2248', 'unite:0.2237', 'volodymyr:0.2081', 'reminder:0.202', 'strategic:0.1977', 'submit:0.1929', 'want:0.18', 'strengthen:0.177', 'candidate:0.1744', 'june:0.1717', 'status:0.1714', 'diversity:0.1582', 'future:0.1562', 'power:0.1525', 'correspondent:0.1509', 'questionnaire:0.1418', 'complete:0.1157', 'sanction:0.1151', 'make:0.1129', 'fifth:0.1087', 'commission:0.1075', 'recurrence:0.0816', 'fragment:0.0754', 'thank:0.0753', 'video:0.066', 'true:0.0502', 'unprecedentedly:0.0442']+titles_keywords+['zelensky:0.4427', 'ukraine:0.4426', 'eu:0.297', 'criteria:0.2081', 'status:0.1976']"
+        ]
+    ]
+}

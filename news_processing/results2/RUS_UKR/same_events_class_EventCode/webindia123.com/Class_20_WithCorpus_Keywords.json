@@ -1,0 +1,37 @@
+{
+    "DEU+RUS+20":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/webindia123.com/Russia taking necessary actions to preserve sovereignty Myanmar military spokesperson.txt+eventbasecode20+eventcode20+avgtone0.4987593052109181+goldsteinscale0.65+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.019736842105263157+news_keywords+['ukraine:0.4263', 'geopolitical:0.3893', 'putin:0.3892', 'sovereignty:0.321', 'separatist:0.2839', 'sanction:0.2189', 'undermine:0.2166', 'respond:0.2052', 'peace:0.2019', 'tun:0.1865', 'result:0.1858', 'act:0.177', 'problem:0.174', 'contrary:0.1719', 'sputnik:0.1688', 'continue:0.1583', 'allow:0.1431', 'unwillingness:0.1411', 'emphasize:0.1409', 'order:0.1369', 'right:0.1289', 'world:0.1289', 'people:0.1268', 'forward:0.1121', 'current:0.1099', 'general:0.087', 'include:0.0814', 'rightly:0.0728', 'quote:0.0709', 'ani:0.0676']+titles_keywords+['myanmar:0.4398', 'sovereignty:0.3686', 'military:0.2277', 'actions:0.2221', 'necessary:0.0965']"
+        ]
+    ],
+    "FRA+UKR+20":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/webindia123.com/Paris says will put forward measures to safeguard 5 Ukrainian nuclear facilities.txt+eventbasecode20+eventcode20+avgtone0.49236641221374045+goldsteinscale0.65+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.019736842105263157+news_keywords+['chernobyl:0.4986', 'nuclear:0.4505', 'ukrainian:0.3366', 'safeguard:0.3119', 'iaea:0.3111', 'contamination:0.252', 'facility:0.2468', 'firing:0.2196', 'macron:0.2057', 'sabotage:0.2015', 'provocation:0.1937', 'paris:0.1776', 'note:0.175', 'adjacent:0.1742', 'anisputnik:0.1691', 'source:0.1661', 'seal:0.1502', 'rivne:0.1477', 'npp:0.141', 'accuse:0.1379', 'forward:0.1369', 'plant:0.1361', 'power:0.1341', 'fifth:0.1338', 'propose:0.1186', 'measure:0.0815', 'set:0.0755', 'general:0.067', 'coming:0.0588', 'installation:0.0215']+titles_keywords+['safeguard:0.3676', 'paris:0.2695', 'nuclear:0.2434', 'ukrainian:0.2136', 'measures:0.1703']"
+        ]
+    ],
+    "PGS+RUS+20":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/webindia123.com/Europe turns to Middle East Mediterranean to reduce its dependence on Russian gas.txt+eventbasecode20+eventcode20+avgtone0.49139676113360325+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.3686', 'oil:0.3544', 'economic:0.3357', 'pipeline:0.3162', 'future:0.2685', 'doha:0.2579', 'disrupt:0.2474', 'global:0.2441', 'cite:0.2431', 'crisis:0.2393', 'priority:0.2238', 'reduce:0.2159', 'turn:0.2104', 'warming:0.2067', 'biden:0.2021', 'lng:0.1991', 'want:0.1984', 'relation:0.1956', 'promise:0.1783', 'replace:0.175', 'trilateral:0.1732', 'know:0.1601', 'make:0.1582', 'approve:0.1533', 'export:0.1416', 'gcc:0.1376', 'pariah:0.128', 'eastmed:0.1253', 'possible:0.1111', 'significantly:0.0827']+titles_keywords+['mediterranean:0.3618', 'gas:0.287', 'reduce:0.1405', 'middle:0.1335', 'dependence:0.057']"
+        ]
+    ],
+    "RUS+EUR+20":[
+        [
+            "20220122+../news_crawling/RUS_UKR/p_articles/webindia123.com/Russian Embassy in Japan says Tokyos position on Ukraines issue counterproductive.txt+eventbasecode20+eventcode20+avgtone0.48442367601246106+goldsteinscale0.65+nummentions0.023222060957910014+numarticles0.023930384336475707+numsources0.029605263157894735+news_keywords+['nato:0.4727', 'ukraines:0.4148', 'invade:0.3159', 'kiev:0.3137', 'cooperation:0.2891', 'strategic:0.2753', 'japan:0.2537', 'counterproductive:0.2493', 'eastward:0.2344', 'embassy:0.2262', 'meeting:0.2229', 'coordinate:0.2207', 'agenda:0.2148', 'pretext:0.1909', 'president:0.1797', 'allegation:0.175', 'anisputnik:0.1709', 'activity:0.1576', 'ally:0.1536', 'impartially:0.1482', 'reject:0.1475', 'kishida:0.1444', 'issue:0.1428', 'relation:0.1413', 'read:0.1407', 'stability:0.1405', 'fumio:0.0958', 'close:0.0787', 'equipment:0.0746', 'agree:0.0719']+titles_keywords+['counterproductive:0.3963', 'tokyos:0.2986', 'russian:0.2913', 'embassy:0.2285', 'says:0.0828']"
+        ]
+    ],
+    "RUS+SYR+20":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/webindia123.com/Russia looks to recruit Syrian soldiers to fight in Ukraine.txt+eventbasecode20+eventcode20+avgtone0.4780564263322884+goldsteinscale0.65+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.04276315789473684+news_keywords+['syria:0.4586', 'kyiv:0.3748', 'bashar:0.3349', 'demilitarize:0.327', 'war:0.3214', 'troop:0.2791', 'involvement:0.2461', 'fight:0.2233', 'operation:0.2196', 'prepare:0.2039', 'join:0.191', 'expert:0.1672', 'cite:0.1644', 'republic:0.158', 'zelensky:0.1568', 'report:0.1497', 'states:0.1497', 'internationalize:0.1488', 'applicant:0.1352', 'say:0.1192', 'point:0.1042', 'hop:0.1029', 'nearly:0.094', 'deal:0.0846', 'new:0.079', 'today:0.0654', 'hill:0.0643', 'hard:0.0587', 'inside:0.0507', 'decade:0.0447']+titles_keywords+['recruit:0.3861', 'syrian:0.3565', 'soldiers:0.3158', 'russia:0.3127', 'looks:0.0778']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20211208+../news_crawling/RUS_UKR/p_articles/webindia123.com/Biden Putin hold video call on bilateral ties Ukrainian crisis Iran nuclear deal.txt+eventbasecode20+eventcode20+avgtone0.4910179640718562+goldsteinscale0.65+nummentions0.038461538461538464+numarticles0.03915881073241479+numsources0.02631578947368421+news_keywords+['putin:0.478', 'diplomacy:0.4515', 'nato:0.4226', 'kiev:0.3423', 'escalation:0.3058', 'talk:0.2614', 'iran:0.26', 'concern:0.228', 'news:0.2159', 'reiterate:0.1997', 'respond:0.1941', 'border:0.1909', 'event:0.1793', 'say:0.1694', 'bilateral:0.1645', 'task:0.1607', 'explain:0.1588', 'direction:0.1586', 'dangerous:0.1574', 'deploy:0.1556', 'function:0.1527', 'ally:0.1477', 'follow:0.1441', 'readout:0.141', 'separate:0.1387', 'surround:0.1313', 'attempt:0.1135', 'donbass:0.1115', 'deep:0.0978', 'deal:0.0879']+titles_keywords+['putin:0.4297', 'biden:0.3667', 'bilateral:0.1755', 'video:0.1509', 'deal:0.1156']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/webindia123.com/Russia putting nuclear forces on high alert chilling development Guterres.txt+eventbasecode20+eventcode20+avgtone0.4783783783783784+goldsteinscale0.65+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ceasefire:0.4963', 'diplomacy:0.4381', 'russia:0.3527', 'vetoed:0.329', 'convening:0.3256', 'nuclear:0.3002', 'federation:0.2779', 'escalate:0.2764', 'emergency:0.2758', 'alert:0.2656', 'invasion:0.2638', 'vasily:0.2628', 'rhetoric:0.2571', 'mandate:0.2536', 'justify:0.2364', 'macron:0.2305', 'deadlocked:0.2272', 'result:0.2215', 'action:0.212', 'say:0.1871', 'monday:0.1815', 'general:0.1812', 'successor:0.1761', 'assembly:0.1701', 'unfettered:0.1427', 'state:0.1419', 'idea:0.1406', 'resolution:0.1395', 'lians:0.1282', 'child:0.1188']+titles_keywords+['nuclear:0.4592', 'russia:0.3645', 'development:0.2365', 'guterres:0.2207', 'alert:0.1611']"
+        ]
+    ]
+}

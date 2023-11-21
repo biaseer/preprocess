@@ -1,0 +1,17 @@
+{
+    "HUN+UKR+110":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Live updates Zelenskyy Russian attack is genocide.txt+eventbasecode110+eventcode110+avgtone0.47985347985347987+goldsteinscale0.4+nummentions0.38824383164005805+numarticles0.38868745467730237+numsources0.28289473684210525+news_keywords+['kyiv:0.4857', 'putin:0.4504', 'zelenskyy:0.3998', 'chernobyl:0.3851', 'natos:0.3808', 'massacre:0.3185', 'evacuate:0.2941', 'separatist:0.2707', 'embargo:0.2624', 'disinformation:0.26', 'diplomat:0.2548', 'peace:0.2246', 'excerpt:0.2136', 'know:0.2072', 'infrastructure:0.1956', 'soon:0.1814', 'report:0.1814', 'emphasize:0.1799', 'unchanged:0.164', 'end:0.1632', 'neighboring:0.1576', 'aggressiveness:0.1572', 'column:0.1561', 'horrifying:0.1536', 'prepared:0.1491', 'general:0.1451', 'bucha:0.1444', 'study:0.1247', 'hour:0.1182', 'import:0.1153']+titles_keywords+['zelenskyy:0.5152', 'genocide:0.4592', 'attack:0.3411', 'live:0.2801', 'updates:0.236']"
+        ]
+    ],
+    "RUS+UKR+110":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Iran seeks creative ways to nuke deal after Russian demand.txt+eventbasecode110+eventcode110+avgtone0.49546044098573283+goldsteinscale0.4+nummentions0.11574746008708273+numarticles0.1163886874546773+numsources0.10197368421052631+news_keywords+['iran:0.4499', 'negotiation:0.4265', 'nuke:0.3445', 'iaea:0.3443', 'agreement:0.3151', 'peaceful:0.3098', 'sanction:0.2754', 'unilaterally:0.2451', 'uranium:0.2435', 'form:0.2316', 'news:0.2007', 'power:0.1969', 'moscows:0.1766', 'interpret:0.1702', 'withdraw:0.1673', 'head:0.1665', 'hossein:0.1555', 'donald:0.151', 'draft:0.147', 'timetable:0.146', 'reimplementing:0.1444', 'enrich:0.1341', 'let:0.1341', 'sequence:0.1328', 'program:0.1233', 'year:0.1078', 'short:0.1031', 'possible:0.1019', 'difference:0.0825', 'shouldnt:0.0262']+titles_keywords+['nuke:0.4235', 'iran:0.3985', 'deal:0.1733', 'creative:0.1597', 'ways:0.1487']"
+        ]
+    ],
+    "UKR+RUS+110":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/French 32yearold journalist is killed in Ukraine.txt+eventbasecode110+eventcode110+avgtone0.47433903576982894+goldsteinscale0.4+nummentions0.06640058055152395+numarticles0.06707759245830312+numsources0.05921052631578947+news_keywords+['ukraine:0.4631', 'journalist:0.4199', 'evacuation:0.3399', 'news:0.337', 'humanitarian:0.3314', 'kill:0.315', 'tragedy:0.3088', 'zelenskyy:0.2932', 'macron:0.2897', 'military:0.2895', 'sievierodonetsk:0.275', 'paris:0.2558', 'report:0.2494', 'citizenship:0.2242', 'telegram:0.2068', 'write:0.1992', 'condolence:0.1973', 'soon:0.1834', 'ap:0.1774', 'statement:0.1585', 'cover:0.1574', 'shell:0.1461', 'course:0.1323', 'alongside:0.1284', 'image:0.1264', 'begin:0.1248', 'relatives:0.1224', 'hotly:0.1217', 'frdric:0.1119', 'possible:0.1073']+titles_keywords+['journalist:0.3997', 'ukraine:0.3477', 'killed:0.2765', 'french:0.2572', '32yearold:0.1553']"
+        ]
+    ]
+}

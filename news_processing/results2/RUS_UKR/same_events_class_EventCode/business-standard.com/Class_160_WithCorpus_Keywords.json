@@ -1,0 +1,12 @@
+{
+    "KOR+RUS+160":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/business-standard.com/S Korea bans export of strategic materials to Russia amid Ukraine invasion.txt+eventbasecode160+eventcode160+avgtone0.5035460992907802+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4615', 'demilitarization:0.3551', 'sanction:0.326', 'invasion:0.2996', 'military:0.264', 'danger:0.252', 'strategic:0.2456', 'export:0.2325', 'operation:0.2281', 'korean:0.2256', 'border:0.2213', 'government:0.217', 'headline:0.1925', 'restriction:0.1866', 'report:0.1745', 'subject:0.1725', 'industry:0.1672', 'launch:0.1605', 'include:0.1463', 'expect:0.1451', 'item:0.1267', 'donbas:0.1265', 'verification:0.1263', 'hold:0.1246', 'sensor:0.1218', 'follow:0.1091', 'generate:0.1004', 'monday:0.0973', 'rework:0.0768', 'syndicated:0.0487']+titles_keywords+['ukraine:0.3143', 'export:0.2628', 'bans:0.1769', 'strategic:0.1608', 'materials:0.1583']"
+        ]
+    ],
+    "RUS+UKR+160":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/business-standard.com/Spotify closes its offices in Russia indefinitely over Ukraine invasion.txt+eventbasecode160+eventcode160+avgtone0.505+goldsteinscale0.3+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['spotify:0.4487', 'kremlin:0.4388', 'ukraine:0.4301', 'sputnik:0.2992', 'business:0.2789', 'headline:0.2714', 'invasion:0.2636', 'military:0.2449', 'report:0.2389', 'launch:0.23', 'unprovoked:0.22', 'humanitarian:0.2178', 'support:0.2164', 'global:0.2152', 'source:0.2122', 'feed:0.2074', 'rt:0.1821', 'remove:0.18', 'important:0.1754', 'affiliate:0.1724', 'sadden:0.1674', 'restrict:0.1632', 'discoverability:0.1619', 'variety:0.1523', 'indefinitely:0.1492', 'amid:0.1359', 'additional:0.1321', 'july:0.1243', 'step:0.1225', 'say:0.1159']+titles_keywords+['spotify:0.4222', 'ukraine:0.3434', 'indefinitely:0.1805', 'closes:0.1681', 'invasion:0.1412']"
+        ]
+    ]
+}

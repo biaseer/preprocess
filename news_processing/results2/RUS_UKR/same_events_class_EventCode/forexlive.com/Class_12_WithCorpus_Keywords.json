@@ -1,0 +1,13 @@
+{
+    "GBR+RUS+12":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/forexlive.com/The UK Defence ministry doubts that Russia has accomplished its objectives yet in Ukraine.txt+eventbasecode12+eventcode12+avgtone0.48484848484848486+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4303', 'russia:0.3402', 'objective:0.2249', 'accomplish:0.2243', 'doubt:0.196', 'uk:0.1576', 'defence:0.1504', 'ministry:0.0301']+titles_keywords+['ukraine:0.4033', 'objectives:0.2229', 'doubts:0.2192', 'defence:0.1329', 'accomplished:0.0656']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220204+../news_crawling/RUS_UKR/p_articles/forexlive.com/Oil continues to impress as the run higher gathers more legs.txt+eventbasecode12+eventcode12+avgtone0.49361022364217255+goldsteinscale0.48+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['oil:0.338', 'surge:0.292', 'turnaround:0.286', 'momentum:0.2819', 'week:0.2764', 'gain:0.2624', 'upside:0.2598', 'bull:0.2563', 'tension:0.2488', 'escalation:0.2466', 'longs:0.2393', 'technical:0.2357', 'chart:0.2351', 'favourable:0.234', 'continue:0.2323', 'trader:0.2011', 'consecutive:0.1991', 'news:0.1988', 'watch:0.1969', 'jump:0.1816', 'brent:0.1743', 'level:0.1678', 'big:0.1656', 'soon:0.1527', 'sure:0.1336', 'price:0.1279', 'alongside:0.1171', 'say:0.1115', 'house:0.1067', 'pan:0.087']+titles_keywords+['oil:0.4757', 'run:0.3602', 'higher:0.2656', 'impress:0.2179', 'continues:0.1902']",
+            "20220204+../news_crawling/RUS_UKR/p_articles/forexlive.com/Oil continues to push higher on the day where to next.txt+eventbasecode12+eventcode12+avgtone0.49411764705882355+goldsteinscale0.48+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['oil:0.3695', 'geopolitical:0.2882', 'surge:0.2732', 'bull:0.2693', 'week:0.2644', 'escalation:0.2503', 'tension:0.2495', 'longs:0.2468', 'chart:0.2396', 'gain:0.2389', 'technical:0.2263', 'push:0.2251', 'news:0.2192', 'continue:0.2082', 'favourable:0.2067', 'level:0.1895', 'soon:0.1881', 'trader:0.1848', 'consecutive:0.1832', 'stage:0.1831', 'jump:0.1813', 'big:0.1813', 'think:0.1485', 'price:0.1423', 'sure:0.1365', 'tough:0.1282', 'house:0.1165', 'alongside:0.1081', 'pan:0.0993', 'outline:0.0957']+titles_keywords+['oil:0.4443', 'higher:0.3016', 'push:0.2931', 'day:0.2281', 'continues:0.1977']"
+        ]
+    ]
+}

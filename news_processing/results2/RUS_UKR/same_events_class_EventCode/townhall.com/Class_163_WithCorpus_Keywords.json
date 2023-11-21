@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+163":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/townhall.com/Ted Cruz Goes After Biden on Ukraine Biden Becoming President is Best Thing that Ever.txt+eventbasecode163+eventcode163+avgtone0.4728205128205128+goldsteinscale0.1+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.003289473684210526+news_keywords+['putin:0.48', 'biden:0.4047', 'sanction:0.3942', 'political:0.3778', 'bipartisan:0.3685', 'filibuster:0.3113', 'crisis:0.2899', 'invade:0.2866', 'border:0.256', 'argue:0.2453', 'occur:0.2425', 'news:0.2385', 'reality:0.2367', 'relations:0.2335', 'prepare:0.2056', 'bash:0.1983', 'pipeline:0.1956', 'lament:0.1942', 'difference:0.1869', 'clear:0.18', 'secretary:0.1691', 'like:0.1676', 'emphasize:0.1672', 'remind:0.1655', 'hear:0.159', 'state:0.1561', 'sen:0.1416', 'big:0.1255', 'thrust:0.1197', 'reverse:0.1136']+titles_keywords+['biden:0.5223', 'cruz:0.4474', 'ukraine:0.2758', 'happened:0.1029', 'best:0.0954']"
+        ]
+    ],
+    "WST+RUS+163":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/townhall.com/Nikole HannahJones Claims Europe Is Not a Continent Concern Over Ukraine Is Due to Racial.txt+eventbasecode163+eventcode163+avgtone0.4818181818181818+goldsteinscale0.1+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['europe:0.4884', 'geopolitical:0.4504', 'ukraine:0.4363', 'nato:0.3878', 'invasion:0.2648', 'vladimir:0.2508', 'nation:0.2077', 'ally:0.1855', 'bias:0.1834', 'prompt:0.1828', 'people:0.1824', 'civilize:0.1756', 'concern:0.1736', 'dog:0.1664', 'white:0.1653', 'president:0.1589', 'impoverished:0.1527', 'telegraph:0.1459', 'condemn:0.1402', 'write:0.1381', 'casualty:0.1165', 'definition:0.111', 'recent:0.0997', 'separate:0.092', 'continue:0.088', 'figure:0.0864', 'hannahjones:0.0788', 'heighten:0.0785', 'add:0.057', 'welcomed:0.013']+titles_keywords+['europe:0.3789', 'racial:0.3268', 'whistle:0.1751', 'nikole:0.1743', 'hannahjones:0.1173']"
+        ]
+    ]
+}

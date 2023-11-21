@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+72":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/fox35orlando.com/RussiaUkraine war Major cities bombarded as civilians try to flee.txt+eventbasecode72+eventcode72+avgtone0.47806215722120654+goldsteinscale0.915+nummentions0.09107402031930334+numarticles0.09173313995649021+numsources0.10526315789473684+news_keywords+['ukraine:0.4848', 'kremlin:0.4734', 'chernobyl:0.3564', 'ivanov:0.3418', 'evacuate:0.3233', 'administration:0.2924', 'capital:0.2725', 'threat:0.2683', 'regiment:0.261', 'reporter:0.2589', 'read:0.2582', 'progress:0.2555', 'unwinding:0.2206', 'world:0.2147', 'structure:0.2147', 'terms:0.2133', 'begin:0.2126', 'palinchaksopa:0.2097', 'suffer:0.2072', 'people:0.1971', 'grabchak:0.1931', 'radical:0.1917', 'list:0.1823', 'corridor:0.1734', 'cover:0.1727', 'furthermore:0.172', 'orbit:0.1583', 'nearly:0.1523', 'agreeto:0.1048', 'sending:0.0628']+titles_keywords+['russiaukraine:0.4628', 'civilians:0.3368', 'bombarded:0.3324', 'cities:0.2963', 'flee:0.2767']"
+        ]
+    ],
+    "RUS+BLR+72":[
+        [
+            "20220119+../news_crawling/RUS_UKR/p_articles/fox35orlando.com/Russia moves unspecified number of troops towards Ukraine amid heightened tensions.txt+eventbasecode72+eventcode72+avgtone0.48877455565949485+goldsteinscale0.915+nummentions0.04753265602322206+numarticles0.048223350253807105+numsources0.07236842105263158+news_keywords+['ukraine:0.4474', 'nato:0.4399', 'putin:0.4263', 'moscows:0.3476', 'troop:0.3249', 'deploy:0.3179', 'war:0.3135', 'alexei:0.2843', 'tank:0.2586', 'maneuver:0.2494', 'concern:0.2214', 'annex:0.2081', 'forward:0.1824', 'restate:0.1806', 'expect:0.1757', 'psaki:0.1702', 'friday:0.1658', 'political:0.1654', 'weapon:0.1652', 'strengthen:0.1605', 'general:0.1554', 'agreement:0.1519', 'near:0.1498', 'write:0.1351', 'druzhininsputnikafp:0.1344', 'ready:0.1301', 'stoltenberg:0.1197', 'preclude:0.0967', 'arent:0.0898', 'fully:0.0847']+titles_keywords+['ukraine:0.3879', 'troops:0.3163', 'moves:0.2408', 'tensions:0.1514', 'unspecified:0.1377']"
+        ]
+    ]
+}

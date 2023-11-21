@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+51":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/azerbaijannews.net/Polish president first leader to speak before Ukraine parliament.txt+eventbasecode51+eventcode51+avgtone0.4976958525345622+goldsteinscale0.67+nummentions0.03447024673439768+numarticles0.03517041334300217+numsources0.03289473684210526+news_keywords+['ukraine:0.457', 'putin:0.4305', 'polish:0.3561', 'andrzej:0.3175', 'ceasefire:0.3015', 'president:0.2683', 'parliament:0.2588', 'nation:0.2281', 'invasion:0.193', 'duda:0.1901', 'agreement:0.1885', 'union:0.1866', 'speak:0.1722', 'world:0.1687', 'future:0.1647', 'position:0.163', 'appear:0.1547', 'sanction:0.1537', 'person:0.1521', 'economic:0.1479', 'ally:0.1304', 'strong:0.1212', 'worrying:0.1173', 'cede:0.1099', 'week:0.0977', 'start:0.0898', 'th:0.0586', 'add:0.0528', 'withdraw:0.0515', 'centimeter:0.0482']+titles_keywords+['polish:0.3924', 'ukraine:0.3161', 'leader:0.2591', 'speak:0.2553', 'parliament:0.2458']"
+        ]
+    ],
+    "MMR+RUS+51":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/azerbaijannews.net/Myanmar junta blames Ukraine for the Russian invasion.txt+eventbasecode51+eventcode51+avgtone0.48066298342541436+goldsteinscale0.67+nummentions0.05660377358490566+numarticles0.05728788977519942+numsources0.17763157894736842+news_keywords+['myanmar:0.4682', 'putin:0.3968', 'ukrainian:0.3845', 'invasion:0.3335', 'junta:0.331', 'yangon:0.2992', 'nato:0.2884', 'zelensky:0.2111', 'history:0.2089', 'blame:0.2062', 'puppet:0.1955', 'volodymyr:0.1699', 'myint:0.1672', 'reiterate:0.1624', 'author:0.1571', 'people:0.1518', 'wrong:0.1463', 'casualty:0.1422', 'rationalism:0.1289', 'hand:0.1182', 'page:0.1173', 'chose:0.1084', 'learned:0.1069', 'praise:0.1031', 'commentary:0.0964', 'plot:0.0851', 'failing:0.0722', 'quietly:0.0571', 'add:0.0503', 'build:0.0393']+titles_keywords+['myanmar:0.3581', 'junta:0.3096', 'invasion:0.2941', 'blames:0.2742', 'russian:0.2395']"
+        ]
+    ]
+}

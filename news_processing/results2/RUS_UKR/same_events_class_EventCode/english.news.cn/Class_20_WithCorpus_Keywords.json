@@ -1,0 +1,22 @@
+{
+    "CHN+UKR+20":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/english.news.cn/Chinese envoy calls for joint efforts to ensure safety of nuclear facilities in Ukraine.txt+eventbasecode20+eventcode20+avgtone0.5+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4225', 'nuclear:0.4093', 'diplomatic:0.383', 'evacuation:0.3505', 'iaea:0.3348', 'escalation:0.3005', 'concern:0.275', 'xinhua:0.2618', 'conflict:0.2602', 'agreement:0.2259', 'facilitate:0.2215', 'safe:0.2108', 'clarification:0.2067', 'report:0.2045', 'continue:0.1837', 'help:0.1789', 'preliminary:0.1729', 'information:0.166', 'direction:0.1631', 'note:0.1628', 'matter:0.1549', 'unchanged:0.1525', 'casualty:0.152', 'speak:0.1478', 'order:0.1257', 'soon:0.1151', 'zhang:0.1098', 'welcome:0.0691', 'set:0.0656', 'possible:0.0553']+titles_keywords+['nuclear:0.3415', 'ukraine:0.3184', 'safety:0.2714', 'envoy:0.1954', 'efforts:0.0523']"
+        ]
+    ],
+    "DEU+UKR+20":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/english.news.cn/German Chancellor Scholz calls for negotiated solution to Ukraine crisis.txt+eventbasecode20+eventcode20+avgtone0.4867021276595745+goldsteinscale0.65+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.006578947368421052+news_keywords+['putin:0.4329', 'ukraine:0.4249', 'nato:0.3985', 'diplomatic:0.393', 'treaty:0.3701', 'berlin:0.3057', 'war:0.2928', 'crisis:0.271', 'podium:0.2657', 'agenda:0.2528', 'conference:0.2503', 'scholz:0.2442', 'xinhua:0.2424', 'eastward:0.2346', 'speaks:0.2235', 'postpone:0.2104', 'chancellor:0.2062', 'warn:0.2021', 'ischinger:0.2013', 'monday:0.1871', 'regulation:0.174', 'regarding:0.1705', 'clause:0.1685', 'want:0.1394', 'accession:0.137', 'press:0.1351', 'yang:0.123', 'th:0.1155', 'importance:0.1154', 'possible:0.087']+titles_keywords+['scholz:0.478', 'ukraine:0.3178', 'negotiated:0.2782', 'crisis:0.1742', 'chancellor:0.1698']"
+        ]
+    ],
+    "FRA+RUS+20":[
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/english.news.cn/Scholz Zelensky discuss grain exports from Ukraine.txt+eventbasecode20+eventcode20+avgtone0.509090909090909+goldsteinscale0.65+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4115', 'putin:0.3475', 'grain:0.3314', 'zelensky:0.306', 'scholz:0.2682', 'export:0.2562', 'humanitarian:0.2392', 'exchange:0.225', 'xinhua:0.211', 'macron:0.2027', 'german:0.1895', 'government:0.1878', 'discus:0.1584', 'sea:0.1518', 'make:0.1461', 'volodymyr:0.1356', 'conversation:0.1219', 'enable:0.1129', 'chancellor:0.0998', 'statement:0.0995', 'say:0.0855', 'current:0.0796', 'issued:0.0724', 'brief:0.0614', 'wednesday:0.059', 'phone:0.0574', 'view:0.0534', 'accord:0.0461', 'effort:0.0452', 'especially:0.042']+titles_keywords+['zelensky:0.4895', 'grain:0.4231', 'exports:0.3757', 'scholz:0.3754', 'ukraine:0.3591']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220625+../news_crawling/RUS_UKR/p_articles/english.news.cn/GLOBALink Latest on Ukraine crisis June 25.txt+eventbasecode20+eventcode20+avgtone0.48837209302325585+goldsteinscale0.65+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.5536', 'crisis:0.3523', 'june:0.3374', 'latest:0.2851', 'globalink:0.2761']+titles_keywords+['ukraine:0.524', 'crisis:0.3147', 'latest:0.2942', 'globalink:0.2875', 'june:0.2408']"
+        ]
+    ]
+}

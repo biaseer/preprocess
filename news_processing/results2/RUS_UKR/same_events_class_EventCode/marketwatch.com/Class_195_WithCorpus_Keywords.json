@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+195":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Bitcoin and Ether Plunge as Russia Attacks Ukraine.txt+eventbasecode195+eventcode195+avgtone0.4766355140186916+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['bitcoin:0.439', 'volatility:0.3639', 'ether:0.3165', 'ukraines:0.3062', 'coindesk:0.2833', 'erupt:0.2815', 'speculator:0.257', 'investment:0.2536', 'plunge:0.241', 'risky:0.2403', 'january:0.239', 'bet:0.2233', 'crisis:0.2163', 'attacks:0.1919', 'fell:0.1901', 'capital:0.1781', 'oanda:0.1753', 'tension:0.1706', 'effect:0.1524', 'status:0.1523', 'metal:0.1433', 'end:0.1417', 'price:0.1411', 'president:0.1369', 'like:0.1358', 'respectively:0.1108', 'large:0.0954', 'likely:0.0942', 'hour:0.0765', 'hargreaves:0.0717']+titles_keywords+['ukraine:0.3549', 'plunge:0.3502', 'attacks:0.2551', 'bitcoin:0.2499', 'ether:0.2391']"
+        ]
+    ],
+    "UKR+RUS+195":[
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Ukraine commemorates its independence day as it marks the passage of six months since Russias.txt+eventbasecode195+eventcode195+avgtone0.4734446130500759+goldsteinscale0.0+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.013157894736842105+news_keywords+['kyiv:0.4907', 'ukraine:0.4883', 'ukraines:0.4469', 'independence:0.3516', 'commemorates:0.3007', 'russias:0.2806', 'invasion:0.2619', 'month:0.2499', 'wednesday:0.2125', 'day:0.2009', 'sirens:0.187', 'military:0.1674', 'residents:0.1422', 'launch:0.1303', 'observe:0.1115', 'miss:0.1038', 'fears:0.0989', 'new:0.0944', 'dont:0.0739', 'target:0.0563', 'start:0.0463', 'mark:0.0455', 'raid:0.0436', 'exactly:0.0419', 'ap:0.039', 'passage:0.0343', 'wake:0.0288', 'air:0.0143', 'mount:0.0129', 'fullscale:-0.0273']+titles_keywords+['ukraine:0.5084', 'independence:0.3399', 'commemorates:0.2937', 'months:0.2356', 'fullscale:0.0257']"
+        ]
+    ]
+}

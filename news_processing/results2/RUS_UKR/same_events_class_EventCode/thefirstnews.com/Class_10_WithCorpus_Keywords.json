@@ -1,0 +1,10 @@
+{
+    "RUS+POL+10":[
+        [
+            "20211228+../news_crawling/RUS_UKR/p_articles/thefirstnews.com/Polish US FMs agree on coordinated backing for Ukraine.txt+eventbasecode10+eventcode10+avgtone0.5+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.412', 'polish:0.3509', 'kremlin:0.3226', 'coordinate:0.2337', 'biden:0.2286', 'solidarity:0.2031', 'attack:0.1823', 'military:0.1793', 'ally:0.1676', 'border:0.1655', 'blinken:0.1641', 'response:0.1589', 'concern:0.1575', 'crisis:0.1523', 'strong:0.1296', 'policy:0.1269', 'minister:0.1247', 'backing:0.1127', 'rau:0.1116', 'zbigniew:0.1106', 'concerted:0.0977', 'state:0.0961', 'fms:0.0893', 'step:0.0876', 'long:0.0844', 'telephone:0.0701', 'recent:0.0692', 'tuesday:0.0667', 'agree:0.0657', 'say:0.0485']+titles_keywords+['ukraine:0.3559', 'coordinated:0.2335', 'fms:0.1944', 'backing:0.1359', 'agree:0.0733']"
+        ],
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/thefirstnews.com/Poland should feel safe says Polish general.txt+eventbasecode10+eventcode10+avgtone0.4837962962962963+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['polands:0.4403', 'putin:0.4176', 'ukrainian:0.3885', 'skrzypczak:0.3806', 'invasion:0.2529', 'safe:0.2228', 'armed:0.2173', 'soldier:0.2143', 'artillery:0.214', 'tank:0.1967', 'battle:0.1696', 'disastrous:0.1542', 'destroy:0.1444', 'incur:0.1423', 'capability:0.1392', 'pap:0.1358', 'report:0.126', 'undertake:0.1194', 'end:0.1074', 'nearly:0.1047', 'feel:0.0937', 'term:0.092', 'waldemar:0.0869', 'restore:0.0865', 'ground:0.0706', 'staff:0.0652', 'add:0.0651', 'wednesday:0.0648', 'gen:0.0646', 'year:0.0461']+titles_keywords+['poland:0.4159', 'safe:0.3421', 'general:0.2195', 'feel:0.1192', 'says:0.0564']"
+        ]
+    ]
+}

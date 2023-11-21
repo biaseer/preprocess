@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/newforestpost.co.uk/Ukraine and Russia sign UN deal to export grain on Black Sea.txt+eventbasecode112+eventcode112+avgtone0.48822800495662955+goldsteinscale0.4+nummentions0.5674891146589259+numarticles0.5678027556200145+numsources0.8947368421052632+news_keywords+['ukraine:0.4523', 'blockade:0.3742', 'kremlin:0.3734', 'war:0.3418', 'agreement:0.2909', 'economic:0.2767', 'plan:0.2409', 'enact:0.2381', 'coordinate:0.2368', 'want:0.2346', 'know:0.2242', 'debate:0.2169', 'incoming:0.2111', 'document:0.2059', 'adviser:0.2027', 'halt:0.2014', 'sign:0.1921', 'grain:0.1886', 'issue:0.1747', 'rail:0.1699', 'general:0.1597', 'separate:0.1574', 'long:0.1552', 'vulnerable:0.1519', 'amid:0.1279', 'export:0.1251', 'significant:0.1186', 'million:0.1136', 'shoigu:0.1062', 'today:0.0856']+titles_keywords+['ukraine:0.3409', 'grain:0.2488', 'deal:0.2463', 'export:0.1709', 'black:0.134']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220623+../news_crawling/RUS_UKR/p_articles/newforestpost.co.uk/Taoiseach Granting EU candidate status to Ukraine sends message of solidarity.txt+eventbasecode112+eventcode112+avgtone0.47879858657243823+goldsteinscale0.4+nummentions0.11828737300435414+numarticles0.11892675852066716+numsources0.26973684210526316+news_keywords+['ukraine:0.4274', 'irelands:0.3069', 'history:0.2777', 'accession:0.2694', 'weaponising:0.2646', 'taoiseach:0.2576', 'famine:0.2493', 'ahead:0.2438', 'debate:0.2339', 'solidarity:0.232', 'blockade:0.2317', 'facilitate:0.223', 'status:0.2204', 'crisis:0.219', 'worry:0.2018', 'want:0.1995', 'relation:0.1969', 'enlargement:0.1926', 'comprehend:0.1843', 'meeting:0.1813', 'accuse:0.1737', 'rise:0.1728', 'long:0.171', 'fact:0.1658', 'sure:0.1636', 'import:0.1507', 'general:0.1415', 'th:0.1288', 'martin:0.1274', 'particularly:0.0871']+titles_keywords+['taoiseach:0.4169', 'ukraine:0.3649', 'solidarity:0.2783', 'sends:0.129', 'granting:0.1202']"
+        ]
+    ]
+}

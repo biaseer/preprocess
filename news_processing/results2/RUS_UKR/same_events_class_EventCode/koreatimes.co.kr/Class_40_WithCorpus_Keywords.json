@@ -1,0 +1,17 @@
+{
+    "CHN+RUS+40":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/China asked Russia to delay Ukraine invasion until after Olympics NYT.txt+eventbasecode40+eventcode40+avgtone0.49713740458015265+goldsteinscale0.55+nummentions0.0+numarticles0.0+numsources0.0+news_keywords+['putin:0.437', 'ukraine:0.3871', 'invade:0.3798', 'strategic:0.3088', 'beijing:0.3057', 'cia:0.2909', 'nyt:0.2684', 'speculation:0.2525', 'prepare:0.2412', 'jinping:0.2397', 'intend:0.226', 'information:0.2169', 'persuade:0.1993', 'delay:0.1958', 'winter:0.1916', 'expert:0.1818', 'interpretation:0.1751', 'european:0.175', 'collaborate:0.1627', 'report:0.1569', 'states:0.1388', 'end:0.126', 'matter:0.1202', 'pronged:0.1184', 'necessarily:0.1063', 'fully:0.1039', 'smear:0.0963', 'confirm:0.0938', 'quote:0.0821', 'far:0.0716']+titles_keywords+['ukraine:0.3641', 'olympics:0.3175', 'nyt:0.2765', 'delay:0.1922', 'invasion:0.1833']"
+        ]
+    ],
+    "FRA+RUS+40":[
+        [
+            "20220125+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/Russia says US troop alert escalating tensions.txt+eventbasecode40+eventcode40+avgtone0.4777777777777778+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0+numsources0.0+news_keywords+['ukraine:0.4429', 'nato:0.4345', 'kremlin:0.3828', 'escalation:0.3485', 'war:0.328', 'diplomat:0.3142', 'separatist:0.244', 'impasse:0.2424', 'alert:0.2316', 'meeting:0.2285', 'justify:0.2039', 'order:0.2021', 'border:0.1967', 'prepare:0.193', 'bloc:0.1722', 'leave:0.1702', 'soon:0.1701', 'biden:0.1701', 'volodymyr:0.1697', 'write:0.1675', 'forward:0.1528', 'pull:0.1514', 'unity:0.1259', 'long:0.1214', 'cold:0.1122', 'include:0.0932', 'standby:0.0748', 'agree:0.0609', 'possible:0.0608', 'thousand:0.0464']+titles_keywords+['escalating:0.3143', 'russia:0.2951', 'troop:0.269', 'alert:0.2635', 'tensions:0.2452']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/Seoul shares dip over 1 on Feds hawkish minutes.txt+eventbasecode40+eventcode40+avgtone0.4860759493670886+goldsteinscale0.55+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['securities:0.4247', 'seoul:0.3871', 'profit:0.3028', 'russia:0.2857', 'yonhap:0.2737', 'fed:0.2681', 'ji:0.2498', 'crisis:0.2472', 'lg:0.242', 'meeting:0.2402', 'tuesday:0.2315', 'dip:0.2221', 'month:0.2156', 'benchmark:0.2052', 'trillion:0.2007', 'decrease:0.1989', 'uncertainties:0.1944', 'generally:0.1797', 'say:0.1773', 'fell:0.1731', 'percent:0.1731', 'mobile:0.1669', 'additional:0.1663', 'chip:0.1635', 'share:0.1615', 'volume:0.1599', 'bellwether:0.1424', 'kakao:0.1358', 'track:0.1321', 'agree:0.1202']+titles_keywords+['seoul:0.3614', 'dip:0.3287', 'shares:0.1747', 'hawkish:0.1557', 'feds:0.1485']"
+        ]
+    ]
+}

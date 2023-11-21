@@ -1,0 +1,17 @@
+{
+    "POL+UKR+73":[
+        [
+            "20220402+../news_crawling/RUS_UKR/p_articles/straitstimes.com/In tears at border Ukrainians say they held on until they had to flee.txt+eventbasecode73+eventcode73+avgtone0.4656084656084656+goldsteinscale0.8699999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.475', 'refugee:0.4211', 'war:0.3713', 'demilitarise:0.3256', 'border:0.3155', 'flee:0.3112', 'emergency:0.2776', 'reuters:0.2682', 'kogemiakiva:0.2496', 'know:0.2406', 'unprovoked:0.2302', 'block:0.2171', 'watch:0.2165', 'shift:0.2152', 'enter:0.2105', 'word:0.2024', 'home:0.1995', 'want:0.1985', 'port:0.1834', 'tearfully:0.1772', 'bad:0.1767', 'far:0.1667', 'carry:0.1658', 'balcony:0.1654', 'fell:0.1635', 'month:0.1618', 'hundreds:0.1399', 'sip:0.1378', 'sorokin:0.1355', 'send:0.0938']+titles_keywords+['ukrainians:0.5153', 'tears:0.3372', 'border:0.317', 'flee:0.2968', 'held:0.2222']"
+        ]
+    ],
+    "RUS+UKR+73":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Ukraine war sends wheat prices soaring 25 this week to 14year high.txt+eventbasecode73+eventcode73+avgtone0.470125786163522+goldsteinscale0.8699999999999999+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.006578947368421052+news_keywords+['ukraine:0.4669', 'putin:0.4032', 'invade:0.3639', 'reuters:0.3393', 'oligarch:0.3208', 'conflict:0.3105', 'infrastructure:0.2806', 'oil:0.2662', 'troop:0.232', 'feed:0.2303', 'prepare:0.228', 'farmer:0.2209', 'grow:0.2113', 'sanction:0.2017', 'long:0.1917', 'trade:0.1888', 'exacerbate:0.1794', 'term:0.1773', 'thursday:0.1699', 'bushel:0.1694', 'claim:0.1539', 'board:0.1532', 'usus:0.1401', 'hit:0.1359', 'expensive:0.1357', 'counter:0.135', 'hassent:0.1325', 'export:0.1195', 'familiar:0.1083', 'way:0.0863']+titles_keywords+['wheat:0.308', 'ukraine:0.2636', 'prices:0.2483', 'high:0.2283', '14year:0.1662']"
+        ]
+    ],
+    "SGP+UKR+73":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Ukraine war sends wheat soaring 25 this week worsening already high food prices.txt+eventbasecode73+eventcode73+avgtone0.46944444444444444+goldsteinscale0.8699999999999999+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukrainehassent:0.4742', 'putin:0.4102', 'reuters:0.3974', 'invade:0.3326', 'commodity:0.3326', 'oligarch:0.321', 'wheat:0.3199', 'conflict:0.2951', 'oil:0.2891', 'infrastructure:0.287', 'april:0.2481', 'future:0.2429', 'prepare:0.2391', 'grow:0.2375', 'projection:0.2352', 'asia:0.2305', 'bushel:0.2098', 'buy:0.2017', 'sanction:0.2011', 'long:0.2002', 'fund:0.1976', 'term:0.1892', 'exacerbate:0.1882', 'update:0.1841', 'export:0.1604', 'counter:0.1426', 'say:0.1303', 'cost:0.1222', 'pas:0.1091', 'notably:0.0849']+titles_keywords+['wheat:0.381', 'ukraine:0.3319', 'war:0.2967', 'prices:0.2159', 'soaring:0.1623']"
+        ]
+    ]
+}

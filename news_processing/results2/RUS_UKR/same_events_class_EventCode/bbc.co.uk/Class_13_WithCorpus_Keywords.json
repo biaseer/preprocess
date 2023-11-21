@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+13":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine war Ukrainian fightback gains ground west of Kyiv.txt+eventbasecode13+eventcode13+avgtone0.4776714513556618+goldsteinscale0.52+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4815', 'war:0.3065', 'pentagon:0.2612', 'fightback:0.2584', 'territory:0.2376', 'encirclement:0.2145', 'eastern:0.1968', 'continue:0.192', 'armoured:0.1914', 'consolidate:0.1898', 'reroute:0.1864', 'capital:0.1803', 'pull:0.1792', 'supply:0.1792', 'increase:0.1763', 'news:0.1584', 'analyst:0.1519', 'plan:0.1519', 'reverse:0.1492', 'weather:0.146', 'donbas:0.1428', 'km:0.1408', 'momentum:0.1384', 'retake:0.1375', 'concentrate:0.1352', 'counter:0.127', 'far:0.1024', 'coming:0.0867', 'kirby:0.0783', 'partly:0.0718']+titles_keywords+['kyiv:0.5109', 'fightback:0.3254', 'west:0.2323', 'gains:0.1805', 'ground:0.1382']"
+        ]
+    ],
+    "RUS+UKR+13":[
+        [
+            "20220528+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine war Putin urged to hold direct serious negotiations with Zelensky.txt+eventbasecode13+eventcode13+avgtone0.4793814432989691+goldsteinscale0.52+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.019736842105263157+news_keywords+['ukraine:0.5075', 'ceasefire:0.48', 'diplomacy:0.4023', 'kremlin:0.3994', 'occupy:0.291', 'blockade:0.2831', 'military:0.2542', 'yasko:0.2459', 'fight:0.2375', 'instability:0.2278', 'know:0.2244', 'update:0.2204', 'strategic:0.2199', 'soon:0.2158', 'industrial:0.2131', 'read:0.209', 'leave:0.2055', 'execute:0.195', 'counterpart:0.1946', 'volodymyr:0.1919', 'order:0.1897', 'governor:0.1865', 'end:0.1832', 'resume:0.1829', 'town:0.1642', 'surround:0.1504', 'crossroad:0.1295', 'reduce:0.1165', 'export:0.0965', 'multiple:0.0902']+titles_keywords+['zelensky:0.4402', 'putin:0.3929', 'negotiations:0.3588', 'direct:0.1403', 'urged:0.0527']"
+        ]
+    ]
+}

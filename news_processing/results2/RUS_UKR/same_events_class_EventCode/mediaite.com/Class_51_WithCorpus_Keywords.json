@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/mediaite.com/John Oliver Calls Putin a Huge Bitch and Tells Bush to Shut the Fck Up.txt+eventbasecode51+eventcode51+avgtone0.4747126436781609+goldsteinscale0.67+nummentions0.11538461538461539+numarticles0.11421319796954314+numsources0.09210526315789473+news_keywords+['putin:0.4253', 'cnn:0.3942', 'warmonger:0.3261', 'applebees:0.2791', 'american:0.2629', 'oliveraddressed:0.261', 'host:0.2599', 'invasion:0.259', 'unprovoked:0.2571', 'comyhnag:0.2565', 'speaking:0.2427', 'commercial:0.2351', 'george:0.233', 'food:0.2296', 'calls:0.2216', 'break:0.2202', 'jq:0.215', 'bitch:0.2066', 'list:0.1943', 'read:0.1902', 'mock:0.1885', 'issue:0.1817', 'end:0.1808', 'week:0.1745', 'make:0.1692', 'warm:0.1637', 'imagine:0.1503', 'lyric:0.1481', 'tact:0.1435', 'isnt:0.141']+titles_keywords+['putin:0.4482', 'oliver:0.326', 'bitch:0.2362', 'fck:0.2089', 'huge:0.0881']"
+        ]
+    ],
+    "WST+UKR+51":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/mediaite.com/Biden Says US Has Yet to Verify Russian Forces Are Pulling Back Warns Putin of.txt+eventbasecode51+eventcode51+avgtone0.46838407494145196+goldsteinscale0.67+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['nato:0.4802', 'putin:0.4577', 'ukraine:0.4208', 'diplomacy:0.4203', 'invade:0.368', 'biden:0.3563', 'threat:0.3239', 'vladimir:0.3089', 'imminent:0.2691', 'worry:0.2533', 'hesitate:0.2297', 'reaffirm:0.2186', 'news:0.1979', 'report:0.181', 'plunge:0.1749', 'table:0.1748', 'pull:0.172', 'continue:0.1626', 'step:0.146', 'safely:0.1403', 'basic:0.1373', 'measure:0.1348', 'necessary:0.1276', 'transparency:0.1269', 'bloody:0.1172', 'observer:0.1159', 'idea:0.1116', 'adding:0.0724', 'thats:0.0652', 'cost:0.0555']+titles_keywords+['putin:0.3704', 'war:0.2388', 'verify:0.2038', 'forces:0.1576', 'bloody:0.1287']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+61":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/aa.com.tr/RussiaUkraine crisis exposes need to expedite energy transition in EU.txt+eventbasecode61+eventcode61+avgtone0.49671052631578955+goldsteinscale0.82+nummentions0.02939042089985486+numarticles0.02284263959390863+numsources0.019736842105263157+news_keywords+['ukraine:0.4065', 'economy:0.3327', 'eus:0.3189', 'exxonmobil:0.3138', 'pipeline:0.2693', 'develop:0.2318', 'data:0.2163', 'cite:0.2075', 'sector:0.2056', 'projection:0.2021', 'global:0.2', 'sanction:0.1795', 'shift:0.1755', 'grid:0.1687', 'issue:0.1618', 'expedite:0.1535', 'heating:0.1468', 'trend:0.1452', 'trade:0.1423', 'importance:0.1402', 'dramatic:0.1363', 'exporter:0.1274', 'portmanteau:0.1264', 'compare:0.1224', 'end:0.1188', 'long:0.106', 'spfs:0.0894', 'feb:0.0842', 'anytime:0.0652', 'unless:0.0523']+titles_keywords+['russiaukraine:0.3697', 'eu:0.2715', 'crisis:0.2526', 'energy:0.1894', 'expedite:0.1575']"
+        ]
+    ],
+    "RUS+UKR+61":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/aa.com.tr/Lebanon faces bread crisis amid flour shortage.txt+eventbasecode61+eventcode61+avgtone0.4597457627118644+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['lebanons:0.4836', 'wheat:0.3888', 'shortage:0.3429', 'food:0.3059', 'bakery:0.2999', 'economic:0.2818', 'arab:0.259', 'war:0.2543', 'funding:0.2227', 'liban:0.2169', 'country:0.214', 'crisis:0.2137', 'warn:0.1837', 'outage:0.1664', 'shipment:0.1653', 'make:0.1518', 'sufficient:0.1458', 'february:0.134', 'import:0.1299', 'fuel:0.1228', 'basic:0.1139', 'syndicate:0.1133', 'include:0.1031', 'severe:0.0992', 'widespread:0.0946', 'statement:0.0923', 'number:0.0793', 'delay:0.0699', 'erode:0.0623', 'add:0.035']+titles_keywords+['bread:0.4565', 'lebanon:0.4494', 'shortage:0.2975', 'amid:0.0563', 'faces:0.056']"
+        ]
+    ]
+}

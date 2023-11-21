@@ -1,0 +1,15 @@
+{
+    "RUS+RUS+72":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/EXPLAINER Is stuck convoy in Ukraine a setback for Russia.txt+eventbasecode72+eventcode72+avgtone0.46909827760891587+goldsteinscale0.915+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['convoys:0.4622', 'ukrainian:0.4004', 'moscows:0.3945', 'logistics:0.3405', 'truck:0.3294', 'war:0.3256', 'pentagon:0.308', 'strategic:0.2781', 'forward:0.2505', 'tank:0.2418', 'roadblock:0.2275', 'muddy:0.2256', 'takeover:0.1997', 'lack:0.1905', 'long:0.1876', 'overtake:0.1862', 'kilometer:0.1793', 'focus:0.1743', 'conclusion:0.1741', 'redistribute:0.1737', 'term:0.1723', 'anticipate:0.1479', 'adjust:0.1478', 'segment:0.133', 'thursday:0.1244', 'ready:0.1182', 'hit:0.1165', 'prybisk:0.0973', 'possible:0.0776', 'doesnt:0.0764']+titles_keywords+['explainer:0.4328', 'convoy:0.4081', 'ukraine:0.3981', 'stuck:0.3305', 'setback:0.2745']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Russia to stage massive nuclear drills amid Ukraine standoff.txt+eventbasecode72+eventcode72+avgtone0.48709122203098104+goldsteinscale0.915+nummentions0.08853410740203194+numarticles0.08919506889050036+numsources0.09868421052631579+news_keywords+['kremlin:0.4551', 'nato:0.4396', 'crimean:0.43', 'ukraines:0.4121', 'icbms:0.4111', 'nuclear:0.3597', 'invade:0.3301', 'peskov:0.3195', 'deploy:0.3057', 'maneuver:0.2989', 'prepare:0.2714', 'standoff:0.2644', 'plan:0.2378', 'annex:0.237', 'threaten:0.2338', 'drill:0.2308', 'exercise:0.2171', 'concern:0.1957', 'president:0.1868', 'coincide:0.1859', 'supervise:0.1746', 'notify:0.1713', 'base:0.1605', 'saturdays:0.1499', 'north:0.1495', 'continue:0.1219', 'actually:0.0677', 'doesnt:0.041', 'thousand:0.0399', 'offer:0.0107']+titles_keywords+['ukraine:0.3177', 'nuclear:0.3156', 'drills:0.284', 'standoff:0.2291', 'stage:0.1303']"
+        ],
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Russians buy last goods from HM IKEA as stores wind down.txt+eventbasecode72+eventcode72+avgtone0.5016638935108153+goldsteinscale0.915+nummentions0.1955732946298984+numarticles0.19253081943437272+numsources0.20394736842105263+news_keywords+['russians:0.5123', 'putin:0.4681', 'minsk:0.4281', 'ikea:0.3296', 'business:0.3124', 'stock:0.2651', 'furnishing:0.2524', 'nestle:0.2458', 'vkusno:0.2207', 'leonid:0.2184', 'country:0.202', 'make:0.1979', 'import:0.1917', 'president:0.1903', 'rewritten:0.1774', 'leave:0.1693', 'forward:0.1623', 'troop:0.1609', 'right:0.1595', 'month:0.1549', 'associated:0.1509', 'urgency:0.1472', 'marks:0.1463', 'clothe:0.1428', 'example:0.1418', 'red:0.1326', 'begin:0.1277', 'deeply:0.1124', 'scale:0.1078', 'oysho:0.07']+titles_keywords+['ikea:0.5534', 'russians:0.3756', 'goods:0.2427', 'buy:0.2151', 'hm:0.137']"
+        ]
+    ]
+}

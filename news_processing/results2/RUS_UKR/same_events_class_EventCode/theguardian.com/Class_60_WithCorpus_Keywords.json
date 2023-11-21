@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+60":[
+        [
+            "20220512+../news_crawling/RUS_UKR/p_articles/theguardian.com/0036First Russian soldier to go on trial in Ukraine for war crimes arrives in court.txt+eventbasecode60+eventcode60+avgtone0.4398395721925135+goldsteinscale0.8+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.006578947368421052+news_keywords+['ukraine:0.5129', 'kremlin:0.4788', 'moscows:0.4091', 'nato:0.4014', 'mikhail:0.3747', 'siverskiy:0.3466', 'propaganda:0.3196', 'poltava:0.3121', 'diplomatic:0.3007', 'violence:0.296', 'separatist:0.285', 'evacuation:0.2803', 'news:0.2625', 'bratchuk:0.2438', 'prosecutors:0.2407', 'accuse:0.2274', 'sergeant:0.2138', 'pipeline:0.1902', 'arrive:0.1881', 'continue:0.1792', 'hear:0.1742', 'nonsense:0.1716', 'term:0.1665', 'combine:0.152', 'april:0.1512', 'long:0.1471', 'increase:0.1383', 'dozen:0.1235', 'prices:0.077', 'thanks:0.0754']+titles_keywords+['russian:0.3675', 'soldier:0.2971', 'trial:0.281', 'video:0.2352', 'arrives:0.2268']"
+        ]
+    ],
+    "UKR+RUS+60":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/theguardian.com/There has been a sharp intensification of the Russian bombardment of Ukrainian cities Photograph Vyacheslav.txt+eventbasecode60+eventcode60+avgtone0.45905172413793105+goldsteinscale0.8+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['moscow:0.4847', 'climate:0.3579', 'hamas:0.3325', 'war:0.324', 'policymakers:0.3236', 'report:0.2964', 'madiyevskyyreuters:0.2915', 'sanction:0.2826', 'newsletterstheguardian:0.2723', 'awareness:0.2715', 'engorons:0.2647', 'spacex:0.2634', 'arguments:0.258', 'analyze:0.2499', 'data:0.2457', 'vaccinate:0.2393', 'warning:0.2348', 'ipcc:0.233', 'unfolding:0.2302', 'donald:0.2271', 'hear:0.2178', 'harari:0.215', 'resident:0.1996', 'continue:0.1942', 'april:0.193', 'coital:0.1921', 'like:0.192', 'expedite:0.1918', 'cover:0.1804', 'decade:0.1725']+titles_keywords+['bombardment:0.4701', 'madiyevskyyreuters:0.4076', 'ukrainian:0.4015', 'cities:0.2348', 'sharp:0.1695']"
+        ]
+    ]
+}

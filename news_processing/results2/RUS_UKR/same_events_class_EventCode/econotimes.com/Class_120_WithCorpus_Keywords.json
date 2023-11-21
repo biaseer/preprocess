@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict Vladimir Putin says he wants Kyivs relationship with NATO to be resolved now.txt+eventbasecode120+eventcode120+avgtone0.49170616113744076+goldsteinscale0.3+nummentions0.06966618287373004+numarticles0.07034082668600435+numsources0.14473684210526316+news_keywords+['nato:0.4571', 'kyiv:0.4214', 'putin:0.4001', 'russiaukraine:0.3765', 'russias:0.3544', 'war:0.3041', 'negotiate:0.2399', 'annex:0.2313', 'agreement:0.214', 'concern:0.197', 'crisis:0.1928', 'escalated:0.1901', 'oppose:0.1791', 'border:0.1743', 'retaliate:0.1586', 'drill:0.1582', 'join:0.1578', 'solve:0.1472', 'tank:0.129', 'say:0.1266', 'end:0.1243', 'immediately:0.1226', 'partner:0.1171', 'pull:0.1132', 'buildup:0.1092', 'close:0.1019', 'send:0.0928', 'state:0.0886', 'include:0.0825', 'theres:0.0056']+titles_keywords+['putin:0.4773', 'kyivs:0.4501', 'nato:0.411', 'resolved:0.1819', 'relationship:0.1785']"
+        ]
+    ],
+    "UKR+UKR+120":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict Volodymyr Zelenskyy says Ukraine will put up resistance in the east.txt+eventbasecode120+eventcode120+avgtone0.4855263157894737+goldsteinscale0.3+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4704', 'zelenskyy:0.2908', 'territory:0.288', 'fight:0.2593', 'surrender:0.2506', 'remain:0.2308', 'understand:0.2225', 'military:0.2062', 'anticipate:0.1848', 'biden:0.1842', 'instead:0.1758', 'outcome:0.1756', 'donbas:0.1738', 'meeting:0.1689', 'finance:0.1683', 'cnn:0.1638', 'wont:0.1581', 'note:0.158', 'say:0.1539', 'direction:0.1496', 'assistance:0.1381', 'depend:0.1341', 'shmyhal:0.1272', 'allow:0.1111', 'fact:0.1015', 'send:0.0928', 'official:0.0766', 'week:0.0725', 'doesnt:0.0691', 'set:0.0591']+titles_keywords+['zelenskyy:0.493', 'ukraine:0.4428', 'volodymyr:0.3036', 'resistance:0.2489', 'conflict:0.2138']"
+        ]
+    ]
+}

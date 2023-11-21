@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+12":[
+        [
+            "20220211+../news_crawling/RUS_UKR/p_articles/hillingdontimes.co.uk/Britons told to leave Ukraine immediately amid threat of invasion by Russia.txt+eventbasecode12+eventcode12+avgtone0.4864253393665159+goldsteinscale0.48+nummentions0.06386066763425254+numarticles0.06453952139231327+numsources0.09539473684210527+news_keywords+['ukraine:0.4496', 'natos:0.4191', 'evacuate:0.404', 'putin:0.3975', 'invasion:0.3602', 'war:0.3195', 'threat:0.3111', 'readiness:0.3023', 'diplomatic:0.2889', 'troop:0.2521', 'boris:0.2444', 'britons:0.2309', 'immediate:0.2175', 'adviser:0.2106', 'soon:0.2074', 'news:0.1887', 'macron:0.1818', 'come:0.1731', 'order:0.1655', 'winter:0.1628', 'understand:0.1505', 'end:0.1447', 'current:0.1434', 'hour:0.1427', 'say:0.1186', 'grow:0.0928', 'possibility:0.0892', 'mount:0.0875', 'plus:0.0731', 'theres:0.0307']+titles_keywords+['ukraine:0.4107', 'leave:0.3011', 'britons:0.2964', 'invasion:0.2962', 'immediately:0.1903']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/hillingdontimes.co.uk/Hillingdon Muslims join antiwar protest.txt+eventbasecode12+eventcode12+avgtone0.4523809523809524+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['muslimassociation:0.6173', 'muslims:0.5289', 'antiwar:0.4033', 'hillingdon:0.3981', 'protest:0.3827', 'caliph:0.3724', 'privilege:0.295', 'london:0.292', 'debate:0.2618', 'ukraine:0.2341', 'forewarn:0.2296', 'escalate:0.2192', 'holiness:0.2182', 'danger:0.2103', 'reader:0.2', 'mirza:0.1819', 'campaign:0.1709', 'lively:0.1689', 'right:0.1688', 'saturday:0.1672', 'thousand:0.1633', 'ama:0.1619', 'world:0.1603', 'story:0.14', 'culminating:0.133', 'want:0.132', 'mount:0.11', 'afield:0.1026', 'bythe:0.0863', 'thereis:0.0799']+titles_keywords+['antiwar:0.4705', 'hillingdon:0.4328', 'protest:0.4326', 'muslims:0.3402', 'join:0.1852']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+57":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/allafrica.com/Tanzania A Few Lessons From RussiaUkraine War.txt+eventbasecode57+eventcode57+avgtone0.4842681258549931+goldsteinscale0.9+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['russia:0.4941', 'industrialization:0.4461', 'economist:0.3607', 'warfares:0.3464', 'communist:0.3449', 'conflict:0.3212', 'supply:0.2853', 'nation:0.2758', 'independence:0.2603', 'ramification:0.2446', 'sanction:0.239', 'realise:0.2382', 'foreseeable:0.2189', 'trademap:0.2117', 'increase:0.211', 'stabilize:0.2077', 'inputs:0.2069', 'xi:0.2', 'write:0.1955', 'quote:0.1938', 'agro:0.1934', 'broadly:0.1844', 'cpc:0.183', 'purpose:0.183', 'export:0.1651', 'scarcer:0.1624', 'outbreak:0.162', 'population:0.1599', 'long:0.1408', 'bad:0.1383']+titles_keywords+['tanzania:0.5794', 'war:0.3808', 'russiaukraine:0.3637', 'lessons:0.1575']"
+        ]
+    ],
+    "UKR+RUS+57":[
+        [
+            "20220723+../news_crawling/RUS_UKR/p_articles/allafrica.com/Africa Oxfam Reaction to Ukraine and Russias Historic Grain Deal.txt+eventbasecode57+eventcode57+avgtone0.4794238683127572+goldsteinscale0.9+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['grain:0.3773', 'poverty:0.3752', 'ethiopia:0.3665', 'oxfam:0.3609', 'aid:0.3229', 'russias:0.3063', 'ensure:0.2831', 'war:0.2748', 'inequality:0.2614', 'market:0.2574', 'global:0.232', 'news:0.2261', 'important:0.2261', 'deal:0.2212', 'policy:0.1889', 'crisis:0.185', 'equally:0.1723', 'translate:0.1593', 'fix:0.1557', 'say:0.154', 'include:0.1525', 'reduction:0.1503', 'access:0.1458', 'immediate:0.1321', 'bad:0.1244', 'item:0.1205', 'max:0.1064', 'year:0.1013', 'mire:0.098', 'especially:0.0939']+titles_keywords+['oxfam:0.405', 'ukraine:0.4031', 'grain:0.3017', 'reaction:0.2186', 'deal:0.1918']"
+        ]
+    ]
+}

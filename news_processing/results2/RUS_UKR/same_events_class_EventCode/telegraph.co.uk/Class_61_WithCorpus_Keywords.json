@@ -1,0 +1,22 @@
+{
+    "CHN+RUS+61":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Xi Jinping snaps up Vladimir Putins bargain coal.txt+eventbasecode61+eventcode61+avgtone0.48309859154929574+goldsteinscale0.82+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['russia:0.4102', 'economist:0.3435', 'march:0.322', 'coal:0.3107', 'disruption:0.3099', 'jinping:0.2726', 'beijings:0.262', 'import:0.2379', 'phasing:0.2341', 'power:0.231', 'demand:0.2198', 'union:0.2158', 'sanction:0.2145', 'plan:0.2065', 'recent:0.2044', 'produce:0.2014', 'use:0.1894', 'reduce:0.1873', 'source:0.1865', 'bn:0.1759', 'rise:0.1665', 'overall:0.1625', 'say:0.1622', 'grab:0.1492', 'bargain:0.1364', 'step:0.134', 'major:0.1019', 'holger:0.0994', 'redirect:0.0855', 'far:0.0718']+titles_keywords+['coal:0.4828', 'putins:0.4164', 'bargain:0.3377', 'xi:0.2498', 'jinping:0.2357']"
+        ]
+    ],
+    "DEU+RUS+61":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Germanystyle energy rationing will not happen in UK despite Labour calls.txt+eventbasecode61+eventcode61+avgtone0.4880095923261391+goldsteinscale0.82+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.003289473684210526+news_keywords+['russia:0.4005', 'labour:0.3227', 'germanystyle:0.3163', 'gas:0.3057', 'supply:0.2972', 'nuclear:0.2842', 'industrial:0.2748', 'policy:0.2676', 'rouble:0.2646', 'power:0.2627', 'ration:0.2517', 'complacency:0.2316', 'bbc:0.2227', 'scheme:0.2025', 'introduce:0.2', 'disaster:0.1977', 'prepare:0.192', 'forward:0.1757', 'shapps:0.1599', 'robert:0.154', 'zero:0.1504', 'idea:0.149', 'secretary:0.1462', 'fact:0.1442', 'reject:0.1391', 'increase:0.131', 'thursday:0.1295', 'end:0.1062', 'sure:0.0917', 'necessarily:0.0863']+titles_keywords+['germanystyle:0.3233', 'labour:0.288', 'rationing:0.2737', 'uk:0.2071', 'despite:0.1188']"
+        ]
+    ],
+    "GBR+UKR+61":[
+        [
+            "20211020+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Britain in talks to sell arms to Ukraine for first time.txt+eventbasecode61+eventcode61+avgtone0.474+goldsteinscale0.82+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.5025', 'russias:0.4056', 'putin:0.4046', 'missiles:0.3251', 'pipeline:0.2969', 'supply:0.2783', 'divert:0.2466', 'concern:0.2233', 'security:0.2175', 'gas:0.2069', 'transit:0.2047', 'territory:0.1992', 'gdp:0.1969', 'crisis:0.1964', 'exploit:0.1962', 'implication:0.1929', 'maritime:0.1856', 'sell:0.1704', 'arm:0.161', 'occur:0.1401', 'downing:0.1342', 'talk:0.1314', 'counterpart:0.1192', 'newspaper:0.1037', 'historically:0.0889', 'brimstone:0.0877', 'come:0.0692', 'accord:0.0528', 'longer:0.0392', 'surface:0.0364']+titles_keywords+['ukraine:0.3837', 'arms:0.2451', 'sell:0.2239', 'talks:0.1488', 'time:-0.0016']"
+        ]
+    ],
+    "RUS+UKR+61":[
+        [
+            "20220512+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Russia is fixing weapons with fridge and dishwasher parts.txt+eventbasecode61+eventcode61+avgtone0.46828358208955223+goldsteinscale0.82+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['russia:0.5429', 'russias:0.5271', 'kremlin:0.5106', 'crimea:0.4868', 'ukrainians:0.4527', 'annexation:0.3225', 'modernisation:0.3045', 'military:0.2954', 'commerce:0.2806', 'weapon:0.2604', 'western:0.245', 'sanction:0.2445', 'drone:0.2397', 'conflict:0.2358', 'tank:0.2272', 'report:0.2177', 'dishwasher:0.202', 'make:0.2006', 'secure:0.1929', 'export:0.18', 'component:0.1609', 'downed:0.1507', 'dissect:0.1341', 'secretary:0.1309', 'slr:0.1242', 'correct:0.1222', 'measure:0.1166', 'nearly:0.1149', 'begin:0.1052', 'wednesday:0.0867']+titles_keywords+['russia:0.4255', 'dishwasher:0.398', 'weapons:0.3877', 'fridge:0.3254', 'fixing:0.2431']"
+        ]
+    ]
+}

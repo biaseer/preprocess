@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+110":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/npr.org/Russia shifts its militarys focus in Ukraine and its tone in negotiations.txt+eventbasecode110+eventcode110+avgtone0.48520084566596194+goldsteinscale0.4+nummentions0.07801161103047896+numarticles0.07868020304568528+numsources0.09210526315789473+news_keywords+['crimea:0.508', 'oblast:0.439', 'donetsk:0.4037', 'russians:0.3616', 'diplomatic:0.3431', 'negotiate:0.3407', 'pentagon:0.303', 'combat:0.2899', 'peace:0.2632', 'separatist:0.2585', 'capital:0.2323', 'position:0.2223', 'podolyak:0.2105', 'ongoing:0.1956', 'help:0.1914', 'donbas:0.1853', 'shortly:0.1744', 'advance:0.1732', 'capture:0.1679', 'counterpart:0.1655', 'appear:0.1611', 'focus:0.1587', 'halt:0.1562', 'say:0.1476', 'state:0.1461', 'farther:0.1327', 'woman:0.122', 'month:0.1171', 'dig:0.1115', 'official:0.1108']+titles_keywords+['ukraine:0.4143', 'negotiations:0.3813', 'militarys:0.2595', 'focus:0.2216', 'tone:0.2031']"
+        ],
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/npr.org/Russia now says 1 crew member died 27 are missing in the sinking of its.txt+eventbasecode110+eventcode110+avgtone0.4783950617283951+goldsteinscale0.4+nummentions0.21988388969521044+numarticles0.22044960116026105+numsources0.24342105263157895+news_keywords+['crimea:0.4805', 'warships:0.4387', 'kremlin:0.4137', 'torpedoed:0.3183', 'propaganda:0.3025', 'imperatritsa:0.2749', 'reuters:0.2682', 'victory:0.2427', 'nuclear:0.2335', 'significance:0.2236', 'sink:0.2212', 'casualty:0.2135', 'report:0.2043', 'incident:0.2039', 'forensics:0.2003', 'involve:0.1992', 'reinforces:0.181', 'flagship:0.1795', 'study:0.1758', 'thursday:0.1582', 'board:0.1567', 'worried:0.1551', 'additional:0.1509', 'ap:0.1488', 'long:0.1357', 'say:0.1254', 'rename:0.123', 'century:0.1229', 'deal:0.0764', 'true:0.0706']+titles_keywords+['sinking:0.3186', 'russia:0.2918', 'died:0.2559', 'crew:0.2297', '27:0.1742']"
+        ]
+    ]
+}

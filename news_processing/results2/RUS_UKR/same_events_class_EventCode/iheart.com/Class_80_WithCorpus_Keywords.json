@@ -1,0 +1,12 @@
+{
+    "RUS+EST+80":[
+        [
+            "20220822+../news_crawling/RUS_UKR/p_articles/iheart.com/Russia And Ukraine Trade Accusations After Daughter Of Putin Ally Killed.txt+eventbasecode80+eventcode80+avgtone0.4756944444444444+goldsteinscale0.75+nummentions0.2202467343976778+numarticles0.22081218274111675+numsources0.009868421052631578+news_keywords+['putin:0.448', 'ukrainian:0.4183', 'assassination:0.3782', 'ru:0.3627', 'estonia:0.3448', 'suspect:0.324', 'dugina:0.3192', 'accusations:0.3079', 'killed:0.2851', 'propagandist:0.275', 'darya:0.2738', 'azov:0.2464', 'news:0.2409', 'fake:0.2262', 'vipers:0.2214', 'woman:0.2057', 'detonate:0.2007', 'security:0.1891', 'daughterof:0.1863', 'involve:0.168', 'andriy:0.1661', 'flee:0.1658', 'write:0.1463', 'plant:0.144', 'arrive:0.1353', 'state:0.1287', 'fsb:0.1254', 'intraspecies:0.1142', 'world:0.091', 'trade:0.076']+titles_keywords+['ukraine:0.3915', 'accusations:0.2911', 'daughter:0.2167', 'killed:0.181', 'trade:0.0956']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/iheart.com/Support Rally For Ukraine Held In Front Of State Capitol.txt+eventbasecode80+eventcode80+avgtone0.48898678414096913+goldsteinscale0.75+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.0+news_keywords+['ukraine:0.462', 'sacramento:0.38', 'rally:0.3711', 'invasion:0.327', 'solidarityright:0.3192', 'opposition:0.2664', 'military:0.2617', 'stay:0.2538', 'state:0.2495', 'population:0.2487', 'kcra:0.2429', 'tank:0.234', 'denounce:0.2292', 'citizen:0.2234', 'navrotski:0.2228', 'event:0.205', 'fight:0.1993', 'east:0.1916', 'voices:0.187', 'families:0.1838', 'congest:0.1822', 'help:0.1642', 'gold:0.1501', 'step:0.1342', 'upcoming:0.1332', 'night:0.1267', 'large:0.1091', 'actively:0.1041', 'theyre:0.1019', 'significant:0.1004']+titles_keywords+['rally:0.4151', 'ukraine:0.3832', 'capitol:0.3403', 'state:0.2339', 'held:0.1356']"
+        ]
+    ]
+}

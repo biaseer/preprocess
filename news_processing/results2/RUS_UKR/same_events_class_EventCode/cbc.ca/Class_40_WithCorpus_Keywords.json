@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+40":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/cbc.ca/Canada pulls out of upcoming Arctic Council meeting in Russia.txt+eventbasecode40+eventcode40+avgtone0.49173553719008267+goldsteinscale0.55+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['arctic:0.4239', 'russians:0.3482', 'federation:0.3129', 'chairmanship:0.2382', 'sovereignty:0.2379', 'meeting:0.2358', 'peace:0.1841', 'pursue:0.1828', 'letter:0.179', 'invasion:0.1654', 'action:0.1536', 'remain:0.1514', 'condemn:0.1474', 'pull:0.1464', 'security:0.1445', 'reiterate:0.1355', 'state:0.1334', 'issue:0.1321', 'upcoming:0.1285', 'statement:0.1234', 'say:0.1223', 'prevent:0.12', 'resource:0.1178', 'world:0.1049', 'usual:0.1021', 'rotate:0.0973', 'year:0.0922', 'circumpolarallies:0.0907', 'horgan:0.0777', 'create:0.0692']+titles_keywords+['arctic:0.3671', 'russia:0.2818', 'council:0.2169', 'pulls:0.1045', 'upcoming:0.0825']"
+        ]
+    ],
+    "RUS+USA+40":[
+        [
+            "20220513+../news_crawling/RUS_UKR/p_articles/cbc.ca/Russias war in Ukraine could limit ability to fight wildfires in Siberia says researcher.txt+eventbasecode40+eventcode40+avgtone0.4782608695652174+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['wildfires:0.541', 'siberia:0.4923', 'climate:0.3396', 'erupt:0.3144', 'oblastsadministrative:0.3044', 'overwintering:0.2898', 'shrubs:0.2452', 'war:0.2449', 'burn:0.2268', 'spring:0.2038', 'western:0.1798', 'warn:0.1539', 'begin:0.1474', 'boreal:0.1422', 'plane:0.1398', 'population:0.1377', 'governor:0.1377', 'tanker:0.1283', 'emit:0.1187', 'dark:0.1032', 'satellite:0.1021', 'align:0.1016', 'read:0.1009', 'far:0.0969', 'send:0.0884', 'srchashamprefsrctwsrc:0.0665', 'colloquially:0.0545', 'limit:0.0351', 'possibility:0.0348', 'unless:0.0205']+titles_keywords+['wildfires:0.4398', 'ukraine:0.3854', 'war:0.2421', 'says:0.0483', 'limit:0.0171']"
+        ]
+    ]
+}

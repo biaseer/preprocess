@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+1124":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Putin grants honorary title to brigade that operated in Bucha.txt+eventbasecode112+eventcode1124+avgtone0.47126436781609193+goldsteinscale0.4+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['putin:0.4616', 'vladimir:0.4343', 'brigade:0.4237', 'kyiv:0.4235', 'troop:0.3961', 'russian:0.3657', 'civilian:0.3327', 'honorary:0.3187', 'russias:0.3145', 'massacre:0.308', 'guard:0.273', 'title:0.2698', 'leader:0.2514', 'bucha:0.2463', 'rifle:0.2416', 'authority:0.2277', 'decree:0.2006', 'operate:0.1721', 'handcuff:0.1718', 'assign:0.1445', 'accuse:0.1342', 'grant:0.1216', 'th:0.1092', 'false:0.1062', 'efe:0.1026', 'detached:0.0967', 'make:0.0928', 'state:0.0833', 'website:0.0808', 'body:0.0677']+titles_keywords+['brigade:0.427', 'putin:0.4155', 'bucha:0.3428', 'honorary:0.3395', 'title:0.1954']"
+        ]
+    ],
+    "UKR+RUS+1124":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Zelenskyy accuses Russia of hiding war crimes evidence in Ukraine.txt+eventbasecode112+eventcode1124+avgtone0.46629213483146065+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['kyiv:0.5195', 'zelenskyy:0.4705', 'russians:0.395', 'massacre:0.3358', 'blockade:0.2684', 'crime:0.2423', 'know:0.2411', 'accuse:0.2336', 'hide:0.2152', 'repressive:0.2082', 'tactic:0.2057', 'president:0.1949', 'occupied:0.1913', 'deport:0.1901', 'change:0.1625', 'unjustified:0.1522', 'search:0.1488', 'end:0.1467', 'ally:0.1435', 'succeed:0.1407', 'equate:0.1369', 'message:0.1221', 'miss:0.1198', 'thousand:0.1125', 'buy:0.1088', 'world:0.1088', 'thursday:0.0994', 'body:0.0742', 'efe:0.0727', 'little:0.0499']+titles_keywords+['zelenskyy:0.5496', 'ukraine:0.3244', 'accuses:0.2638', 'hiding:0.2146', 'war:0.2099']"
+        ]
+    ]
+}

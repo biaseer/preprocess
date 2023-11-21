@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+163":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Parliament rushes through economic crime reforms in response to Ukraine invasion.txt+eventbasecode163+eventcode163+avgtone0.4803664921465969+goldsteinscale0.1+nummentions0.3635703918722787+numarticles0.3640319071791153+numsources0.41118421052631576+news_keywords+['legislation:0.4375', 'reform:0.3904', 'parliamentary:0.3752', 'sanction:0.3667', 'ukraine:0.3513', 'crime:0.3368', 'oligarchs:0.3144', 'comply:0.3014', 'establish:0.288', 'houses:0.2765', 'ahead:0.272', 'progress:0.2664', 'submit:0.2427', 'rush:0.2408', 'long:0.2192', 'result:0.1967', 'midnight:0.1928', 'session:0.1708', 'concern:0.1651', 'scrap:0.1625', 'transparency:0.1598', 'period:0.1589', 'opening:0.1545', 'beneficial:0.151', 'rapid:0.1434', 'dispose:0.1424', 'week:0.129', 'launder:0.1256', 'callanan:0.1244', 'true:0.0766']+titles_keywords+['ukraine:0.3721', 'reforms:0.366', 'crime:0.3179', 'invasion:0.2923', 'parliament:0.2776']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/US Russia to face pressure at UN over Ukraine crisis.txt+eventbasecode163+eventcode163+avgtone0.47591623036649217+goldsteinscale0.1+nummentions0.9426705370101597+numarticles0.9427121102248006+numsources0.9243421052631579+news_keywords+['natos:0.4795', 'putin:0.426', 'crimea:0.4138', 'invade:0.3491', 'diplomatic:0.2816', 'threat:0.2685', 'veto:0.2513', 'cyberattacks:0.2393', 'flag:0.2096', 'unify:0.2083', 'border:0.2014', 'debate:0.1773', 'table:0.1738', 'want:0.1686', 'news:0.1655', 'plan:0.1614', 'aid:0.1581', 'continue:0.1539', 'behave:0.1529', 'volodymyr:0.152', 'monday:0.1372', 'explain:0.1368', 'current:0.1309', 'increasingly:0.1294', 'ready:0.119', 'long:0.1044', 'durbin:0.0968', 'state:0.0966', 'resolution:0.0645', 'theyre:0.0223']+titles_keywords+['ukraine:0.339', 'russia:0.3088', 'pressure:0.2388', 'crisis:0.185', 'face:0.0415']"
+        ]
+    ]
+}

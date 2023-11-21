@@ -1,0 +1,12 @@
+{
+    "RUS+TUR+164":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/wksu.org/Negotiators from Russia and Ukraine meet face to face for the first time in weeks.txt+eventbasecode164+eventcode164+avgtone0.5+goldsteinscale0.15+nummentions0.06567489114658925+numarticles0.06635242929659173+numsources0.11842105263157894+news_keywords+['crimea:0.4948', 'negotiation:0.3977', 'erdogan:0.3408', 'nato:0.3385', 'invade:0.3306', 'peacemaker:0.3071', 'annex:0.3068', 'zelenskyy:0.24', 'want:0.2399', 'escalate:0.2363', 'agreement:0.2246', 'table:0.2179', 'planning:0.2034', 'security:0.1884', 'news:0.1862', 'capital:0.1825', 'meet:0.1816', 'hold:0.1764', 'corridor:0.171', 'respond:0.1699', 'implement:0.1648', 'note:0.1626', 'study:0.1418', 'forward:0.1417', 'exactly:0.1293', 'near:0.1291', 'complete:0.1181', 'big:0.1114', 'awkward:0.1092', 'actually:0.0572']+titles_keywords+['negotiators:0.4953', 'ukraine:0.3428', 'meet:0.3103', 'weeks:0.1461', 'face:0.12']"
+        ]
+    ],
+    "RUS+UKR+164":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/wksu.org/A look inside the war in Ukraine from the capital city of Kyiv.txt+eventbasecode164+eventcode164+avgtone0.5+goldsteinscale0.15+nummentions0.10595065312046444+numarticles0.1065989847715736+numsources0.11842105263157894+news_keywords+['kyiv:0.5699', 'russians:0.3941', 'war:0.39', 'evacuate:0.3239', 'talk:0.2456', 'tank:0.2405', 'watch:0.2338', 'happen:0.2285', 'presence:0.228', 'checkpoint:0.2185', 'want:0.2117', 'arrive:0.2114', 'continue:0.2002', 'night:0.189', 'siren:0.183', 'heard:0.1778', 'long:0.1775', 'western:0.1723', 'note:0.1696', 'reach:0.1608', 'right:0.1591', 'direct:0.1431', 'different:0.1412', 'building:0.1352', 'state:0.1264', 'irpin:0.1248', 'official:0.1191', 'million:0.1112', 'largely:0.1016', 'thank:0.0938']+titles_keywords+['kyiv:0.6205', 'war:0.4399', 'capital:0.3108', 'inside:0.1795', 'look:0.1719']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/itv.com/Russia a step closer to stated goal of seizing Donbas region after claiming to have.txt+eventbasecode87+eventcode874+avgtone0.4795918367346939+goldsteinscale1.0+nummentions0.04716981132075472+numarticles0.047860768672951415+numsources0.20394736842105263+news_keywords+['kyiv:0.4816', 'putin:0.4003', 'russias:0.3875', 'invade:0.3621', 'separatists:0.3273', 'correspondent:0.2596', 'intercept:0.2421', 'military:0.2342', 'lysychansk:0.2282', 'remind:0.2084', 'provocation:0.2033', 'know:0.201', 'long:0.1835', 'north:0.1805', 'strengthen:0.176', 'state:0.1722', 'telegram:0.171', 'donbas:0.1662', 'mortar:0.1647', 'hold:0.1619', 'supply:0.1591', 'closer:0.1541', 'strike:0.1512', 'draw:0.121', 'spring:0.1148', 'major:0.1082', 'claim:0.1', 'th:0.083', 'online:0.0738', 'story:0.0474']+titles_keywords+['russia:0.3794', 'donbas:0.3549', 'lysychansk:0.2606', 'step:0.1688', 'seizing:0.1685']"
+        ]
+    ],
+    "UKR+RUS+874":[
+        [
+            "20220809+../news_crawling/RUS_UKR/p_articles/itv.com/President Joe Biden pledges 1 billion in arms to Ukraine.txt+eventbasecode87+eventcode874+avgtone0.48926767676767674+goldsteinscale1.0+nummentions0.026124818577648767+numarticles0.026831036983321246+numsources0.03618421052631579+news_keywords+['ukraine:0.4947', 'nato:0.4669', 'artillery:0.3372', 'treaty:0.3328', 'troop:0.3218', 'funding:0.2933', 'operation:0.2857', 'tank:0.2815', 'attack:0.2815', 'prepare:0.2471', 'supplier:0.2335', 'news:0.2257', 'incremental:0.2206', 'biden:0.2148', 'know:0.2083', 'brief:0.1969', 'estimate:0.1946', 'volodymyr:0.1898', 'direct:0.1693', 'outbreak:0.1672', 'port:0.1628', 'make:0.1613', 'include:0.1606', 'gotten:0.1548', 'month:0.1504', 'thousand:0.1424', 'listen:0.1351', 'himarsas:0.131', 'far:0.1265', 'kahl:0.1087']+titles_keywords+['biden:0.4269', 'ukraine:0.3516', 'pledges:0.2902', 'billion:0.2016', 'arms:0.1833']"
+        ]
+    ],
+    "USA+RUS+874":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/itv.com/Does a dip in Netflix subscribers mean a crackdown on password sharing is imminent.txt+eventbasecode87+eventcode874+avgtone0.48630136986301375+goldsteinscale1.0+nummentions0.011248185776487663+numarticles0.011965192168237854+numsources0.009868421052631578+news_keywords+['netflixs:0.4285', 'subscription:0.396', 'dip:0.3596', 'crackdown:0.3377', 'competition:0.3011', 'fall:0.2868', 'platform:0.2851', 'news:0.2625', 'shareholder:0.2619', 'know:0.2333', 'audience:0.2324', 'covid:0.2285', 'increase:0.2283', 'protest:0.2148', 'proposal:0.2114', 'squid:0.2111', 'month:0.2103', 'combine:0.2089', 'stem:0.202', 'imminent:0.1996', 'decision:0.1939', 'share:0.1935', 'russia:0.1915', 'feature:0.1911', 'letter:0.1852', 'hope:0.1756', 'begin:0.1516', 'similar:0.145', 'wipe:0.1424', 'half:0.1359']+titles_keywords+['netflix:0.4403', 'password:0.2659', 'imminent:0.2119', 'dip:0.156', 'does:0.1301']"
+        ]
+    ]
+}

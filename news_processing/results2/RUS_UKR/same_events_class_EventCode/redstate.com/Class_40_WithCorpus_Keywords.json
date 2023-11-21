@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+40":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/redstate.com/CBS Ukraine Coverage Hammers Home Americas Withering Grasp of the High Stakes.txt+eventbasecode40+eventcode40+avgtone0.47404661016949157+goldsteinscale0.55+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['crimea:0.4932', 'ukrainians:0.4593', 'lgbtq:0.3927', 'transphobia:0.3846', 'headline:0.3395', 'government:0.3106', 'attack:0.2821', 'subject:0.2787', 'psychiatric:0.2734', 'pandemic:0.2709', 'distinction:0.2657', 'erupts:0.2636', 'border:0.2627', 'concern:0.258', 'stay:0.2468', 'capital:0.2465', 'conflate:0.2428', 'undergo:0.2417', 'diverse:0.2401', 'inform:0.2374', 'male:0.2202', 'vfwmlur:0.197', 'isnt:0.1927', 'function:0.1835', 'necessities:0.1835', 'long:0.1497', 'perfectly:0.1191', 'weve:0.1161', 'thousand:0.1055', 'decorate:0.102']+titles_keywords+['cbs:0.4874', 'ukraine:0.3845', 'coverage:0.2619', 'stakes:0.2274', 'hammers:0.2021']"
+        ]
+    ],
+    "USA+UKR+40":[
+        [
+            "20211207+../news_crawling/RUS_UKR/p_articles/redstate.com/Joe Biden Discusses His Meeting With Putin and He Really Shouldnt Have.txt+eventbasecode40+eventcode40+avgtone0.4858712715855573+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5368', 'biden:0.4829', 'invades:0.2997', 'confront:0.2908', 'sanction:0.2796', 'scandal:0.2636', 'meet:0.2411', 'administration:0.2291', 'jinping:0.2245', 'unilaterally:0.2185', 'rush:0.2133', 'embolden:0.2017', 'know:0.1912', 'prospect:0.19', 'moment:0.1876', 'dangerous:0.186', 'authoritative:0.1817', 'rant:0.1811', 'learn:0.1768', 'abouteconomic:0.1727', 'leverage:0.1716', 'attempt:0.17', 'transcript:0.1622', 'page:0.1525', 'world:0.147', 'difference:0.1346', 'great:0.1201', 'nordstream:0.1084', 'pxomy:0.1083', 'greenlit:0.0729']+titles_keywords+['biden:0.5593', 'putin:0.4661', 'meeting:0.2874', 'shouldnt:0.1271', 'really:0.114']"
+        ]
+    ]
+}

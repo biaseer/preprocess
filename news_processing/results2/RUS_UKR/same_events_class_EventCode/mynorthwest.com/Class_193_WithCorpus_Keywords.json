@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+193":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Russia booted from Eurovision Song Contest over Ukraine.txt+eventbasecode193+eventcode193+avgtone0.49321266968325794+goldsteinscale0.0+nummentions0.04426705370101597+numarticles0.044960116026105876+numsources0.046052631578947366+news_keywords+['eurovision:0.6246', 'kyiv:0.4546', 'russian:0.3948', 'russias:0.3666', 'putin:0.3568', 'vladmir:0.3104', 'europe:0.2321', 'entry:0.2224', 'song:0.2209', 'orchestra:0.2066', 'competition:0.1912', 'disrepute:0.1696', 'celebrate:0.1675', 'troop:0.1458', 'statement:0.1237', 'audience:0.1206', 'hit:0.1131', 'represent:0.1006', 'hop:0.0945', 'report:0.0931', 'hundreds:0.0922', 'world:0.0896', 'copyright:0.0833', 'begin:0.083', 'president:0.0803', 'year:0.0769', 'redistribute:0.0719', 'friday:0.0539', 'ap:0.0532', 'ebu:0.0383']+titles_keywords+['eurovision:0.5191', 'ukraine:0.4638', 'song:0.22', 'contest:0.179', 'booted:0.1736']"
+        ],
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/EXPLAINER Fighting in Ukraine endangers big nuclear plant.txt+eventbasecode193+eventcode193+avgtone0.4709480122324159+goldsteinscale0.0+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.013157894736842105+news_keywords+['chernobyl:0.523', 'ukraines:0.4414', 'reactor:0.4025', 'kremlin:0.3846', 'war:0.3369', 'demilitarize:0.3337', 'decommission:0.3272', 'zelenskyy:0.2658', 'government:0.2469', 'emergency:0.2409', 'plant:0.2215', 'iaea:0.2197', 'operate:0.213', 'surge:0.2121', 'dangerous:0.2016', 'megawatts:0.1855', 'know:0.1845', 'output:0.1783', 'watchdog:0.1773', 'preparation:0.1702', 'oppose:0.167', 'turn:0.1643', 'continue:0.1495', 'area:0.1475', 'shelling:0.1377', 'visit:0.1289', 'soon:0.1156', 'explainer:0.1138', 'sure:0.0903', 'hesitant:0.089']+titles_keywords+['nuclear:0.4781', 'ukraine:0.4247', 'fighting:0.316', 'explainer:0.2631', 'endangers:0.2409']"
+        ]
+    ]
+}

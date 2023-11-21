@@ -1,0 +1,12 @@
+{
+    "IRL+UKR+10":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/loopnews.com/Ukrainian unremorseful after damaging SVG flagged yacht of Russian.txt+eventbasecode10+eventcode10+avgtone0.4797507788161994+goldsteinscale0.5+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['kyiv:0.5478', 'russia:0.4693', 'superyacht:0.3306', 'sailor:0.3251', 'flag:0.3157', 'sabotage:0.3055', 'aggression:0.2964', 'newscast:0.2899', 'criminal:0.2851', 'anastasias:0.2811', 'report:0.28', 'missile:0.2795', 'spanish:0.2662', 'pfjsioibnewsyachtnewssuperyachtpic:0.2579', 'subject:0.241', 'luxury:0.2342', 'alexander:0.2268', 'guardia:0.2263', 'sink:0.1954', 'avoid:0.1824', 'image:0.1812', 'pollute:0.1683', 'allegedly:0.1597', 'owner:0.1545', 'associated:0.1532', 'arrive:0.1497', 'coh:0.1365', 'https:0.1362', 'building:0.1296', 'taxngiiy:0.1206']+titles_keywords+['ukrainian:0.3658', 'svg:0.3312', 'yacht:0.3248', 'unremorseful:0.2803', 'flagged:0.2421']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/loopnews.com/World expresses outrage plans stronger Russia sanctions.txt+eventbasecode10+eventcode10+avgtone0.47482638888888895+goldsteinscale0.5+nummentions0.005805515239477504+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4611', 'peacekeeping:0.4037', 'kremlin:0.3807', 'diplomatic:0.3582', 'sanction:0.3228', 'separatist:0.2857', 'coexistence:0.275', 'crisis:0.2738', 'escalate:0.262', 'oppose:0.2327', 'align:0.2316', 'attention:0.2273', 'foreseeable:0.2269', 'macron:0.2154', 'remind:0.2146', 'word:0.1998', 'modernize:0.1865', 'instead:0.1846', 'hear:0.1801', 'order:0.1778', 'surge:0.1743', 'covid:0.173', 'aircraft:0.1728', 'decide:0.1609', 'begin:0.1594', 'import:0.1561', 'flank:0.1515', 'ap:0.1508', 'big:0.1247', 'highlighting:0.0938']+titles_keywords+['sanctions:0.4929', 'russia:0.3513', 'outrage:0.3382', 'world:0.2453', 'stronger:0.1685']"
+        ]
+    ]
+}

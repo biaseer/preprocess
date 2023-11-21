@@ -1,0 +1,15 @@
+{
+    "RUS+RUS+46":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Its time to meet Zelenskiy appeals to Putin.txt+eventbasecode46+eventcode46+avgtone0.4902439024390244+goldsteinscale0.85+nummentions0.6658200290275762+numarticles0.33321247280638144+numsources0.3684210526315789+news_keywords+['putin:0.4974', 'zelenskyy:0.4902', 'kyiv:0.4868', 'ukrainians:0.4491', 'vladimir:0.4488', 'russian:0.4027', 'blockade:0.3554', 'tactic:0.2756', 'cooperate:0.2701', 'kill:0.2359', 'humanitarian:0.2291', 'hear:0.2151', 'troop:0.2126', 'flee:0.2083', 'meet:0.2023', 'time:0.1928', 'supply:0.1747', 'catastrophe:0.1729', 'hold:0.1609', 'audience:0.134', 'reach:0.1322', 'corridor:0.1316', 'directly:0.1184', 'office:0.1175', 'friday:0.1167', 'mariupol:0.109', 'send:0.0996', 'thousand:0.0987', 'able:0.0892', 'totally:0.0445']+titles_keywords+['zelenskiy:0.571', 'putin:0.4988', 'meet:0.2765', 'time:0.1673', 'appeals:0.1594']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20211210+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Biden gives Ukraine strong support.txt+eventbasecode46+eventcode46+avgtone0.5019762845849802+goldsteinscale0.85+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['biden:0.4178', 'ukraine:0.4173', 'diplomacy:0.4074', 'putin:0.4011', 'nato:0.3986', 'talk:0.2514', 'unite:0.2275', 'attack:0.2103', 'zelensky:0.1994', 'thursday:0.1935', 'concerned:0.1806', 'continue:0.1743', 'warn:0.169', 'border:0.1622', 'eastern:0.1555', 'partner:0.1544', 'sanction:0.154', 'hour:0.1405', 'push:0.1404', 'ready:0.1397', 'solution:0.1135', 'need:0.1131', 'backing:0.0957', 'white:0.0955', 'reinvigorate:0.0766', 'unwavering:0.0758', 'like:0.0647', 'house:0.0574', 'obviously:0.0414', 'senior:0.0257']+titles_keywords+['biden:0.4321', 'ukraine:0.4075', 'strong:0.2177', 'support:0.1645', 'gives:0.0931']"
+        ],
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Leave your homes Russia to Kyiv residents.txt+eventbasecode46+eventcode46+avgtone0.47346938775510206+goldsteinscale0.85+nummentions0.05624092888243832+numarticles0.05293691080493111+numsources0.0756578947368421+news_keywords+['kyiv:0.5474', 'crimea:0.5428', 'ukrainians:0.4411', 'putin:0.4163', 'evacuate:0.4011', 'invade:0.3747', 'civilians:0.3104', 'separatist:0.3091', 'rallying:0.2283', 'peace:0.2238', 'north:0.2231', 'artillery:0.2229', 'shift:0.2163', 'afp:0.208', 'live:0.2048', 'report:0.1915', 'satellite:0.1885', 'information:0.1875', 'column:0.1844', 'say:0.1715', 'dmytro:0.1619', 'neutralise:0.1605', 'main:0.1564', 'ready:0.1562', 'nearly:0.1544', 'km:0.1457', 'long:0.1394', 'intact:0.1361', 'prove:0.1233', 'today:0.1183']+titles_keywords+['kyiv:0.6836', 'russia:0.4458', 'leave:0.3495', 'residents:0.2565', 'homes:0.2453']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+64":[
+        [
+            "20220517+../news_crawling/RUS_UKR/p_articles/menafn.com/Briefing Operational Information On The Russian Invasion Of Ukraine.txt+eventbasecode64+eventcode64+avgtone0.5+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4978', 'invasion:0.3879', 'briefing:0.2801', 'operational:0.2085', 'motuzyanyk:0.205', 'accreditation:0.1776', 'article:0.1661', 'ukrinform:0.1654', 'event:0.1413', 'oleksandr:0.1342', 'street:0.1287', 'indicate:0.1192', 'representative:0.1134', 'broadcast:0.1133', 'liability:0.1103', 'official:0.109', 'bohdan:0.0983', 'accuracy:0.098', 'videos:0.0876', 'hour:0.0862', 'hold:0.0853', 'use:0.0838', 'loud:0.0831', 'necessary:0.0826', 'completeness:0.0711', 'confirm:0.0563', 'center:0.0543', 'material:0.0423', 'possible:0.0358', 'relate:0.0341']+titles_keywords+['briefing:0.5122', 'ukraine:0.4414', 'invasion:0.354', 'information:0.3124', 'operational:0.2969']"
+        ],
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/menafn.com/Briefing On Operational Situation On The Front Of The RussianUkrainian War.txt+eventbasecode64+eventcode64+avgtone0.5035971223021583+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.4358', 'russianukrainian:0.3349', 'war:0.3308', 'operational:0.304', 'hromov:0.2966', 'briefing:0.2838', 'armed:0.2672', 'leonid:0.2355', 'journalists:0.2339', 'border:0.1723', 'forces:0.168', 'situation:0.1666', 'reliability:0.151', 'chief:0.128', 'offline:0.1261', 'refer:0.1135', 'hold:0.1119', 'afu:0.1104', 'bohdan:0.104', 'official:0.1039', 'center:0.0947', 'str:0.093', 'live:0.0926', 'contact:0.0915', 'loud:0.0855', 'videos:0.077', 'screen:0.059', 'possible:0.0518', 'state:0.0353', 'completeness:0.0094']+titles_keywords+['briefing:0.4218', 'russianukrainian:0.3874', 'operational:0.3129', 'war:0.3105', 'situation:0.1606']"
+        ]
+    ]
+}

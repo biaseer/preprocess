@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+111":[
+        [
+            "20220209+../news_crawling/RUS_UKR/p_articles/news.am/Moodys SP and Fitch analyze scenarios for possible escalation of conflict with Ukraine.txt+eventbasecode111+eventcode111+avgtone0.4434389140271495+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4335', 'tensions:0.2539', 'escalation:0.2496', 'consequence:0.2105', 'military:0.197', 'investors:0.1747', 'fitch:0.1561', 'theoretical:0.1493', 'report:0.1472', 'relation:0.1433', 'analyze:0.142', 'grade:0.1305', 'downgrade:0.1232', 'sp:0.1174', 'moody:0.1053', 'rbc:0.078', 'significant:0.0779', 'immediately:0.0759', 'direct:0.0718', 'follow:0.0718', 'case:0.071', 'sure:0.0673', 'february:0.0633', 'outlook:0.0612', 'blocked:0.0332', 'likely:0.0157', 'default:0.0154', 'accord:0.0149', 'listsanctions:0.0135', 'cost:0.0049']+titles_keywords+['ukraine:0.389', 'escalation:0.305', 'moodys:0.1967', 'fitch:0.1783', 'sp:0.1464']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/news.am/Stoltenberg says Russia may be planning operations with use of chemical weapons.txt+eventbasecode111+eventcode111+avgtone0.4685714285714285+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['nato:0.3783', 'kremlin:0.3729', 'stoltenberg:0.3094', 'russian:0.2965', 'attack:0.2328', 'chemical:0.2108', 'pretext:0.207', 'report:0.1776', 'lie:0.1734', 'escalation:0.1618', 'statement:0.1499', 'politico:0.1474', 'general:0.1356', 'plan:0.1323', 'vigilant:0.1248', 'sonntag:0.1223', 'create:0.1151', 'direct:0.1102', 'say:0.1074', 'fly:0.1053', 'department:0.1036', 'possible:0.0914', 'state:0.0913', 'force:0.0821', 'fraught:0.0781', 'welt:0.0752', 'uncontrolled:0.0732', 'zone:0.0695', 'storage:0.0396', 'earlier:0.0365']+titles_keywords+['stoltenberg:0.3982', 'russia:0.2979', 'chemical:0.221', 'planning:0.1194', 'says:0.0291']"
+        ]
+    ]
+}

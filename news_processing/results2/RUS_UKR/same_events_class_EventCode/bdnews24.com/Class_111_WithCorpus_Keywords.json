@@ -1,0 +1,25 @@
+{
+    "BGD+RUS+111":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Dhakas UNGA vote on Ukraine based on humanitarian grounds not Western pressure Momen.txt+eventbasecode111+eventcode111+avgtone0.4702127659574468+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['bangladesh:0.4734', 'putin:0.4189', 'nato:0.4134', 'crimea:0.4075', 'war:0.3654', 'tensions:0.3284', 'separatist:0.3189', 'political:0.3118', 'humanitarian:0.3093', 'abstain:0.2818', 'proceed:0.2759', 'unga:0.2721', 'invasion:0.2698', 'cite:0.2542', 'oppress:0.2169', 'want:0.1975', 'result:0.1969', 'position:0.1822', 'hasina:0.1806', 'hall:0.1744', 'fact:0.1617', 'say:0.1536', 'feb:0.1535', 'monitor:0.1505', 'notion:0.1472', 'blame:0.1463', 'th:0.1367', 'exactly:0.1275', 'momen:0.1275', 'bend:0.0781']+titles_keywords+['dhakas:0.4509', 'ukraine:0.4119', 'humanitarian:0.4028', 'unga:0.3457', 'vote:0.2221']"
+        ]
+    ],
+    "CHN+RUS+111":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/bdnews24.com/China would back Russia diplomatically if it moved on Ukraine.txt+eventbasecode111+eventcode111+avgtone0.4865771812080537+goldsteinscale0.4+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.019736842105263157+news_keywords+['crimea:0.3724', 'putin:0.3454', 'militarily:0.2909', 'invasion:0.2214', 'strategic:0.2046', 'chinas:0.2026', 'consequence:0.2022', 'yinhong:0.1907', 'expand:0.1779', 'import:0.1541', 'meeting:0.1492', 'world:0.1452', 'polarise:0.1434', 'biden:0.1386', 'want:0.1322', 'prepare:0.1292', 'renmin:0.1229', 'counterpart:0.1228', 'jinping:0.1205', 'instead:0.1199', 'include:0.1125', 'experts:0.0952', 'promise:0.0901', 'circumvent:0.077', 'decide:0.0748', 'state:0.0737', 'address:0.07', 'backfill:0.049', 'false:0.0462', 'oft:0.0174']+titles_keywords+['ukraine:0.4032', 'russia:0.381', 'china:0.2949', 'diplomatically:0.2651', 'moved:0.071']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Ukraine rebels accuse government forces of attacks.txt+eventbasecode111+eventcode111+avgtone0.4587020648967552+goldsteinscale0.4+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.013157894736842105+news_keywords+['ukraine:0.4754', 'nato:0.3958', 'ceasefire:0.3859', 'separatist:0.2964', 'conflict:0.2935', 'attack:0.283', 'escalation:0.2712', 'troop:0.2591', 'territory:0.2497', 'occur:0.2453', 'government:0.2427', 'armed:0.2292', 'suspect:0.1963', 'rebel:0.1917', 'president:0.1495', 'evidence:0.1474', 'adjacent:0.1435', 'pull:0.1389', 'mortar:0.1388', 'organization:0.1346', 'come:0.1269', 'immediately:0.1268', 'month:0.1265', 'long:0.1204', 'swath:0.1191', 'say:0.1126', 'fabricate:0.0981', 'new:0.0909', 'monitor:0.0729', 'possibly:0.0455']+titles_keywords+['rebels:0.3805', 'ukraine:0.3718', 'attacks:0.3138', 'accuse:0.2792', 'government:0.165']"
+        ],
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Zelensky says Ukraine will win back lost cities admits war is tough to bear.txt+eventbasecode111+eventcode111+avgtone0.47135416666666663+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4882', 'donetsk:0.4796', 'zelensky:0.4574', 'sievierodonetsk:0.3519', 'victory:0.2958', 'missile:0.2814', 'fight:0.2393', 'night:0.2201', 'long:0.2157', 'say:0.1896', 'mention:0.1895', 'help:0.1879', 'sanction:0.1862', 'stage:0.1857', 'time:0.1806', 'fell:0.1734', 'hit:0.1734', 'modern:0.1595', 'break:0.1558', 'sense:0.1521', 'horizon:0.134', 'address:0.1336', 'train:0.1309', 'world:0.1301', 'week:0.1288', 'relentless:0.126', 'earlier:0.1246', 'bear:0.1137', 'partner:0.1055', 'cynical:0.1022']+titles_keywords+['zelensky:0.4603', 'ukraine:0.3372', 'war:0.303', 'tough:0.212', 'says:0.1068']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/bdnews24.com/UAEs newly elected ruler sees Iran Islamists as threat to Gulf safe haven.txt+eventbasecode111+eventcode111+avgtone0.4868270332187858+goldsteinscale0.4+nummentions0.04934687953555878+numarticles0.05003625815808557+numsources0.039473684210526314+news_keywords+['uae:0.5423', 'bashar:0.384', 'diplomat:0.3591', 'islamists:0.3266', 'opec:0.3096', 'liberalisation:0.2874', 'agenda:0.2853', 'administration:0.2795', 'biden:0.2695', 'educated:0.2681', 'capital:0.2401', 'concern:0.2395', 'world:0.223', 'power:0.2211', 'talk:0.2164', 'pump:0.2162', 'know:0.2157', 'military:0.2033', 'begin:0.1875', 'perceive:0.1851', 'transform:0.1847', 'dictate:0.1825', 'like:0.1812', 'stalemate:0.1752', 'mbz:0.172', 'choose:0.1717', 'warm:0.1528', 'decade:0.147', 'divergence:0.14', 'longer:0.1227']+titles_keywords+['uaes:0.472', 'iran:0.3822', 'islamists:0.3642', 'threat:0.228', 'elected:0.1114']"
+        ]
+    ]
+}

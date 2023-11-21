@@ -1,0 +1,17 @@
+{
+    "EGY+RUS+43":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/middleeastmonitor.com/Russia tourist company announces it is resuming flights to Egypts Red Sea resorts.txt+eventbasecode43+eventcode43+avgtone0.4879807692307692+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4277', 'arabiya:0.3457', 'tourist:0.3441', 'revolution:0.3378', 'egypts:0.3246', 'invasion:0.3068', 'resort:0.2968', 'economy:0.2907', 'conflict:0.2801', 'sharm:0.2763', 'terror:0.2697', 'flight:0.2525', 'coronavirus:0.2423', 'news:0.1963', 'stay:0.1959', 'attract:0.1821', 'coupand:0.1752', 'recaptcha:0.1611', 'allow:0.1589', 'increase:0.1545', 'protect:0.1523', 'february:0.1463', 'withdraw:0.1414', 'talk:0.1386', 'estimate:0.1359', 'arrange:0.1337', 'red:0.1222', 'biblio:0.1103', 'expensive:0.1079', 'resume:0.0964']+titles_keywords+['russia:0.2753', 'resorts:0.2628', 'red:0.1711', 'company:0.1482', 'resuming:0.1431']"
+        ]
+    ],
+    "EGY+UKR+43":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/middleeastmonitor.com/Russia tourists see holiday prices to Egypt Turkey more than double.txt+eventbasecode43+eventcode43+avgtone0.5012722646310432+goldsteinscale0.64+nummentions0.0+numarticles0.0+numsources0.0+news_keywords+['ukraine:0.4344', 'ruble:0.3296', 'tourist:0.3158', 'turkish:0.2989', 'conflict:0.1548', 'cost:0.1416', 'pandemic:0.1412', 'government:0.1384', 'increase:0.1333', 'invasion:0.1288', 'month:0.1285', 'news:0.1284', 'report:0.1232', 'period:0.1162', 'ahram:0.1031', 'data:0.0998', 'recaptcha:0.0978', 'industry:0.0914', 'depreciation:0.08', 'cite:0.0768', 'average:0.0759', 'aeroflot:0.0712', 'protect:0.0622', 'say:0.0616', 'inclusive:0.0586', 'surge:0.0573', 'open:0.0395', 'seat:0.0365', 'end:0.0358', 'earlier:0.0335']+titles_keywords+['turkey:0.4002', 'tourists:0.2461', 'prices:0.1973', 'holiday:0.1953', 'double:0.1496']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220201+../news_crawling/RUS_UKR/p_articles/middleeastmonitor.com/Erdogan to visit Kiev on Thursday to mediate between Russia and Ukraine.txt+eventbasecode43+eventcode43+avgtone0.5039840637450199+goldsteinscale0.64+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['erdogan:0.525', 'kiev:0.4523', 'putin:0.4471', 'turkey:0.3762', 'tayyip:0.2811', 'mediate:0.2759', 'haswarnedrussia:0.269', 'visit:0.2259', 'zelenskiy:0.2254', 'invasion:0.1725', 'military:0.1595', 'expect:0.1585', 'bring:0.156', 'soon:0.1394', 'report:0.1353', 'privacy:0.1175', 'office:0.0975', 'cite:0.0922', 'relation:0.0911', 'good:0.0843', 'recaptcha:0.0838', 'direct:0.0801', 'hassuppliedukraine:0.0764', 'state:0.0762', 'possible:0.0696', 'mr:0.0634', 'ease:0.0601', 'arm:0.0573', 'tass:0.0343', 'terms:0.0248']+titles_keywords+['erdogan:0.4551', 'kiev:0.4296', 'mediate:0.2164', 'visit:0.201', 'thursday:0.1191']"
+        ]
+    ]
+}

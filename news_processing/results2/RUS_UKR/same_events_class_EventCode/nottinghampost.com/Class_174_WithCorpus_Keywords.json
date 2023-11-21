@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+174":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/nottinghampost.com/Theres lots of confusion Ukrainian deli owners abused after being mistaken as Russian.txt+eventbasecode174+eventcode174+avgtone0.49013499480999995+goldsteinscale0.25+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.023026315789473683+news_keywords+['ukraine:0.5077', 'oligarch:0.2883', 'invasion:0.2825', 'confrontational:0.2737', 'confusion:0.2726', 'english:0.2633', 'sanction:0.246', 'happen:0.237', 'flag:0.2347', 'news:0.2343', 'know:0.232', 'affect:0.2271', 'stay:0.2237', 'help:0.2196', 'people:0.2154', 'contact:0.2128', 'want:0.1934', 'example:0.1773', 'mis:0.1767', 'like:0.1766', 'begin:0.1636', 'worryingly:0.1607', 'produce:0.151', 'study:0.1507', 'safe:0.1487', 'area:0.146', 'theyre:0.1153', 'doesnt:0.1142', 'sorry:0.1091', 'welcome:0.0976']+titles_keywords+['ukrainian:0.5079', 'confusion:0.3177', 'deli:0.2984', 'abused:0.2721', 'theres:0.1245']"
+        ]
+    ],
+    "GBR+UKR+174":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/nottinghampost.com/Britishborn teacher trapped in Ukrainian basement with young family as destruction hits city.txt+eventbasecode174+eventcode174+avgtone0.48937784522003036+goldsteinscale0.25+nummentions0.04934687953555878+numarticles0.05003625815808557+numsources0.04276315789473684+news_keywords+['kyiv:0.5288', 'putin:0.4048', 'war:0.36', 'invasion:0.3488', 'shelter:0.2922', 'stay:0.2888', 'news:0.2612', 'british:0.2545', 'traffic:0.2529', 'dramatic:0.2521', 'trap:0.2515', 'underground:0.2384', 'know:0.2382', 'hear:0.2358', 'safe:0.2343', 'missile:0.2339', 'office:0.2238', 'report:0.2198', 'normality:0.2091', 'woke:0.1984', 'kick:0.1882', 'begin:0.1742', 'like:0.1695', 'th:0.1648', 'hour:0.1541', 'dan:0.149', 'head:0.1415', 'difficult:0.1395', 'stepdaughter:0.1355', 'theres:0.0839']+titles_keywords+['ukrainian:0.3319', 'teacher:0.3277', 'basement:0.2814', 'city:0.237', 'trapped:0.2217']"
+        ]
+    ]
+}

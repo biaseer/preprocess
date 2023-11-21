@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220123+../news_crawling/RUS_UKR/p_articles/tipperarylive.ie/Huge concerns over planned Russian missile tests off Irish coast.txt+eventbasecode12+eventcode12+avgtone0.4820627802690583+goldsteinscale0.48+nummentions0.035921625544267054+numarticles0.03662073966642494+numsources0.029605263157894735+news_keywords+['russia:0.3605', 'ireland:0.3348', 'naval:0.2908', 'missile:0.2774', 'cork:0.2537', 'aviation:0.239', 'test:0.1973', 'operation:0.1822', 'concern:0.161', 'coast:0.1528', 'territorial:0.1515', 'publish:0.1392', 'schedule:0.132', 'political:0.1169', 'point:0.111', 'drill:0.1107', 'unclos:0.1038', 'current:0.0888', 'km:0.0882', 'independent:0.077', 'water:0.0733', 'raise:0.0708', 'month:0.0678', 'carry:0.0614', 'eez:0.038', 'request:0.0285', 'simon:0.0244', 'say:0.0138', 'include:-0.0144', 'huge:-0.0145']+titles_keywords+['concerns:0.2813', 'missile:0.2635', 'russian:0.2403', 'tests:0.2071', 'coast:0.1233']"
+        ],
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/tipperarylive.ie/No major concerns of proPutin agents among refugees from Ukraine Tnaiste.txt+eventbasecode12+eventcode12+avgtone0.5036144578313253+goldsteinscale0.48+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.013157894736842105+news_keywords+['refugee:0.5376', 'ukrainian:0.4287', 'ethnicity:0.3876', 'ireland:0.3217', 'kremlin:0.3202', 'accommodation:0.3139', 'concern:0.2865', 'government:0.2671', 'resident:0.2611', 'invasion:0.2502', 'directive:0.2489', 'agent:0.2238', 'guise:0.2216', 'neighbouring:0.2085', 'status:0.1791', 'understand:0.1582', 'integration:0.1526', 'involve:0.1503', 'term:0.1387', 'arrive:0.1362', 'procure:0.1323', 'resolution:0.1258', 'varadkar:0.1237', 'dissimilar:0.1156', 'look:0.1129', 'dual:0.1105', 'mr:0.1094', 'long:0.1053', 'impossible:0.0912', 'thats:0.027']+titles_keywords+['refugees:0.5269', 'ukraine:0.4251', 'proputin:0.3177', 'concerns:0.2714', 'agents:0.267']"
+        ]
+    ]
+}

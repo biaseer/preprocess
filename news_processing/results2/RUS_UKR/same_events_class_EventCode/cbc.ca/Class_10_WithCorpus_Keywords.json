@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/cbc.ca/Ukrainians in Winnipeg find solace in music amid ongoing Russian invasion.txt+eventbasecode10+eventcode10+avgtone0.48606271777003485+goldsteinscale0.5+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.03618421052631579+news_keywords+['ukrainians:0.4743', 'invasion:0.3385', 'band:0.3299', 'country:0.3107', 'revolution:0.3101', 'song:0.2932', 'cultural:0.2932', 'government:0.2842', 'todaschuk:0.2707', 'winnipeg:0.2684', 'casualty:0.2582', 'michalchyshyn:0.25', 'protester:0.2268', 'endure:0.2206', 'performs:0.2002', 'write:0.1938', 'andriy:0.193', 'represent:0.1895', 'identity:0.1861', 'kacha:0.1857', 'know:0.183', 'zrada:0.1702', 'undercount:0.1692', 'report:0.162', 'noble:0.1559', 'carry:0.1317', 'deep:0.1253', 'po:0.1148', 'way:0.1062', 'confirmed:-0.0116']+titles_keywords+['ukrainians:0.4773', 'winnipeg:0.3614', 'invasion:0.3342', 'music:0.3248', 'solace:0.2962']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/cbc.ca/Ottawans with ties to Ukraine watch worry from afar.txt+eventbasecode10+eventcode10+avgtone0.4815436241610738+goldsteinscale0.5+nummentions0.03265602322206096+numarticles0.03335750543872371+numsources0.08552631578947369+news_keywords+['ukraine:0.5063', 'evacuate:0.3594', 'embassythursday:0.3479', 'diplomatic:0.3325', 'trudeau:0.3305', 'ottawa:0.3286', 'war:0.3215', 'sovereignty:0.3083', 'oligarchs:0.2861', 'korbutiak:0.286', 'pandemic:0.2698', 'plan:0.2402', 'sanction:0.2349', 'worry:0.2343', 'prepared:0.2254', 'announce:0.2198', 'ordinate:0.2054', 'read:0.1942', 'surge:0.1853', 'stop:0.1835', 'hobble:0.1649', 'unfold:0.1634', 'sad:0.1518', 'webster:0.1502', 'stillhas:0.1468', 'big:0.1386', 'friend:0.1382', 'standby:0.1295', 'head:0.1181', 'unless:0.0722']+titles_keywords+['ottawans:0.4707', 'ukraine:0.4618', 'worry:0.3028', 'afar:0.2687', 'ties:0.1837']"
+        ]
+    ],
+    "WST+RUS+10":[
+        [
+            "20211217+../news_crawling/RUS_UKR/p_articles/cbc.ca/Russia demands NATO deny membership to Ukraine other exSoviet nations.txt+eventbasecode10+eventcode10+avgtone0.48056994818652854+goldsteinscale0.5+nummentions0.15130624092888245+numarticles0.15192168237853518+numsources0.2532894736842105+news_keywords+['nato:0.5173', 'ukraine:0.3739', 'treaty:0.3413', 'vladimir:0.3209', 'annexation:0.2887', 'destabilize:0.2188', 'threat:0.2083', 'deploy:0.1938', 'join:0.1891', 'prepare:0.1846', 'increase:0.175', 'agreement:0.1681', 'rescind:0.1624', 'oblige:0.153', 'include:0.1467', 'envisages:0.1451', 'ally:0.1412', 'psaki:0.1398', 'president:0.1344', 'seek:0.1256', 'respond:0.1221', 'publication:0.1214', 'make:0.1213', 'forward:0.1181', 'drill:0.1157', 'emphasize:0.1132', 'friday:0.0842', 'long:0.0695', 'interference:0.0496', 'decade:0.0225']+titles_keywords+['ukraine:0.4378', 'nato:0.4339', 'deny:0.2103', 'exsoviet:0.165', 'membership:0.1195']"
+        ]
+    ]
+}

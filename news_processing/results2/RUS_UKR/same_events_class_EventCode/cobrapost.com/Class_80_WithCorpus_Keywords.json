@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/cobrapost.com/G7 issues nuclear demand to Moscow.txt+eventbasecode80+eventcode80+avgtone0.48837209302325585+goldsteinscale0.75+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4842', 'nuclear:0.3979', 'zaporozhye:0.351', 'sovereignty:0.3346', 'seize:0.2391', 'withdraw:0.2199', 'power:0.2135', 'facilitys:0.2129', 'operation:0.2076', 'diplomat:0.2054', 'troop:0.2031', 'report:0.1993', 'secure:0.1928', 'say:0.1822', 'plant:0.1811', 'release:0.1807', 'rt:0.1766', 'issue:0.1743', 'immediately:0.1737', 'control:0.1681', 'rightful:0.1605', 'demand:0.159', 'official:0.1518', 'statement:0.148', 'march:0.1396', 'owner:0.1344', 'hand:0.1289', 'necessary:0.1079', 'cede:0.0921', 'seven:0.091']+titles_keywords+['nuclear:0.4037', 'moscow:0.357', 'g7:0.261', 'demand:0.1862', 'issues:0.0641']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/cobrapost.com/Concern Grows For Ukrainian Soldiers After Surrender To Russia In Mariupol.txt+eventbasecode80+eventcode80+avgtone0.443181818181818+goldsteinscale0.75+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.009868421052631578+news_keywords+['ukrainian:0.4392', 'soldiers:0.3985', 'donetsk:0.384', 'surrender:0.3667', 'putin:0.3464', 'wounded:0.3145', 'novoazovsk:0.2998', 'azovstal:0.2597', 'steelworks:0.217', 'concern:0.2149', 'treat:0.2094', 'arrive:0.203', 'news:0.1807', 'report:0.1681', 'carry:0.1615', 'fighter:0.1493', 'vehicle:0.1484', 'witness:0.1396', 'arm:0.1346', 'story:0.1293', 'ndtv:0.1216', 'donation:0.1199', 'end:0.1174', 'seven:0.1105', 'left:0.1067', 'resistance:0.1013', 'grows:0.0875', 'wednesday:0.0871', 'like:0.0809', 'reopen:0.0626']+titles_keywords+['ukrainian:0.3881', 'soldiers:0.3494', 'surrender:0.3385', 'concern:0.2448', 'mariupol:0.2324']"
+        ]
+    ]
+}

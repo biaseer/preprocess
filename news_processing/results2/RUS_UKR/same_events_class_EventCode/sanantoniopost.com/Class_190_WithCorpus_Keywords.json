@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+190":[
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/sanantoniopost.com/Ukraine Calls for Faster Weapons Deliveries.txt+eventbasecode190+eventcode190+avgtone0.49519230769230765+goldsteinscale0.0+nummentions0.038824383164005806+numarticles0.03952139231327049+numsources0.08552631578947369+news_keywords+['nato:0.5402', 'oblast:0.4227', 'putin:0.4107', 'pentagon:0.3351', 'kurdistan:0.3244', 'gulen:0.3141', 'expand:0.2787', 'artillery:0.278', 'operation:0.248', 'tank:0.2416', 'conflict:0.2392', 'border:0.2319', 'pledge:0.2147', 'pkk:0.1953', 'world:0.1841', 'donbas:0.1833', 'citing:0.1777', 'forward:0.1763', 'secretary:0.1714', 'davos:0.1684', 'long:0.1657', 'current:0.1583', 'arm:0.1569', 'include:0.1543', 'wednesday:0.1528', 'send:0.1321', 'similar:0.13', 'agree:0.108', 'highlight:0.1028', 'welcome:0.0814']+titles_keywords+['ukraine:0.4109', 'faster:0.3124', 'weapons:0.3009', 'deliveries:0.2758', 'calls:0.1323']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220120+../news_crawling/RUS_UKR/p_articles/sanantoniopost.com/Ukrainian president responds to invasion fears.txt+eventbasecode190+eventcode190+avgtone0.45562770562770566+goldsteinscale0.0+nummentions0.031567489114658925+numarticles0.032269760696156634+numsources0.046052631578947366+news_keywords+['ukraine:0.4572', 'kremlin:0.4176', 'invade:0.4025', 'scaremongering:0.3391', 'conflict:0.2947', 'panic:0.2845', 'zelensky:0.2817', 'president:0.2568', 'military:0.249', 'dangerous:0.242', 'news:0.2354', 'psaki:0.2316', 'reality:0.2242', 'soon:0.2161', 'order:0.1954', 'bank:0.1788', 'stock:0.1689', 'fake:0.1675', 'stage:0.165', 'end:0.1641', 'respond:0.1631', 'withdrawing:0.1561', 'donbass:0.1471', 'sign:0.1466', 'declare:0.1377', 'increase:0.128', 'friend:0.1267', 'big:0.1179', 'house:0.1085', 'hasn:0.0998']+titles_keywords+['ukrainian:0.3875', 'invasion:0.2956', 'fears:0.2923', 'president:0.2426', 'responds:0.1223']"
+        ],
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/sanantoniopost.com/EU country sends attack choppers to Ukraine WSJ.txt+eventbasecode190+eventcode190+avgtone0.5014577259475219+goldsteinscale0.0+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.019736842105263157+news_keywords+['ukraine:0.4764', 'war:0.3167', 'chopper:0.3158', 'attack:0.2932', 'dmitry:0.2789', 'deploy:0.2673', 'gunships:0.2621', 'kopecny:0.2559', 'soon:0.2089', 'fortification:0.2079', 'vehicle:0.2068', 'ally:0.1988', 'base:0.1598', 'republic:0.1593', 'risk:0.1518', 'arm:0.1499', 'tomas:0.1393', 'make:0.1334', 'follow:0.1321', 'donate:0.1078', 'wsj:0.0949', 'bad:0.0868', 'legitimate:0.0778', 'open:0.0756', 'prognosis:0.0695', 'breadth:0.0694', 'secretary:0.067', 'recent:0.0573', 'entire:0.0522', 'thank:0.0371']+titles_keywords+['ukraine:0.4488', 'choppers:0.3742', 'attack:0.2466', 'wsj:0.224', 'sends:0.0817']"
+        ]
+    ]
+}

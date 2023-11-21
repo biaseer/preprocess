@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+90":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/kelo.com/Ukraine infrastructure minister says grain deal only possible because of military successes.txt+eventbasecode90+eventcode90+avgtone0.5097560975609756+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4802', 'kubrakov:0.3068', 'infrastructure:0.2926', 'territory:0.2733', 'reuters:0.2716', 'port:0.2283', 'deal:0.222', 'want:0.2028', 'strategically:0.2027', 'warship:0.2019', 'snake:0.1966', 'success:0.1958', 'corridor:0.1668', 'oleksandr:0.1667', 'grain:0.1543', 'point:0.1537', 'risk:0.1439', 'unblock:0.1431', 'unacceptable:0.1389', 'sign:0.1347', 'friday:0.1282', 'possible:0.1222', 'green:0.1208', 'reach:0.1157', 'television:0.1106', 'eventually:0.108', 'export:0.1011', 'inspect:0.0946', 'outcrop:0.0841', 'thanks:0.0731']+titles_keywords+['ukraine:0.33', 'grain:0.2393', 'military:0.2342', 'deal:0.1587', 'says:0.0792']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/kelo.com/Ukraine has filed more eight war crimes cases to court prosecutor.txt+eventbasecode90+eventcode90+avgtone0.435064935064935+goldsteinscale0.4+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['ukraine:0.4534', 'kyiv:0.4147', 'ukraines:0.4015', 'russian:0.3337', 'war:0.2984', 'russias:0.2767', 'venediktova:0.2708', 'invasion:0.266', 'crime:0.2631', 'prosecutor:0.2624', 'court:0.246', 'investigation:0.2453', 'case:0.2361', 'soldier:0.1848', 'reuters:0.1774', 'iryna:0.1491', 'begin:0.1311', 'open:0.1311', 'file:0.1276', 'general:0.0972', 'sentence:0.0898', 'addition:0.0893', 'feb:0.0503', 'television:0.0493', 'hand:0.0397', 'wednesday:0.0313', 'say:0.0126', 'possible:0.0104']+titles_keywords+['ukraine:0.3955', 'cases:0.2703', 'war:0.2372', 'crimes:0.2164', 'filed:0.1584']"
+        ]
+    ]
+}

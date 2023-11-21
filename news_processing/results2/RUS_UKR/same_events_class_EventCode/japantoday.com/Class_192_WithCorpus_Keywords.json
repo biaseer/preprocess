@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+192":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/japantoday.com/Russian airstrike escalates offensive in western Ukraine near Poland border.txt+eventbasecode192+eventcode192+avgtone0.46697774587221824+goldsteinscale0.025+nummentions0.03193033381712627+numarticles0.032632342277012324+numsources0.06907894736842106+news_keywords+['putin:0.4782', 'nato:0.4258', 'ukrainians:0.4032', 'gulag:0.3793', 'fascism:0.3316', 'disinformation:0.3233', 'nuke:0.3149', 'invasion:0.3127', 'lviv:0.2796', 'argument:0.256', 'geography:0.2355', 'psychopathy:0.2351', 'tank:0.2202', 'biodefense:0.207', 'worried:0.204', 'learn:0.2032', 'know:0.2021', 'keyboard:0.1922', 'turn:0.1855', 'emphasize:0.1844', 'donbass:0.1714', 'soon:0.1712', 'order:0.1656', 'similarity:0.1644', 'factory:0.1578', 'exactly:0.148', 'er:0.1375', 'lolol:0.1326', 'redline:0.1295', 'wasnt:0.0827']+titles_keywords+['airstrike:0.424', 'ukraine:0.3507', 'escalates:0.229', 'offensive:0.1514', 'near:0.1319']"
+        ],
+        [
+            "20220605+../news_crawling/RUS_UKR/p_articles/japantoday.com/Explosions rock Ukrainian capital Kyiv.txt+eventbasecode192+eventcode192+avgtone0.47389033942558745+goldsteinscale0.025+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.009868421052631578+news_keywords+['ukraine:0.5121', 'nato:0.4026', 'kremlin:0.3955', 'geopolitical:0.3897', 'sanctions:0.3078', 'propaganda:0.2872', 'infantry:0.2814', 'explosions:0.2809', 'evacuate:0.2778', 'takeover:0.2727', 'refugee:0.2702', 'maneuver:0.2585', 'map:0.2537', 'defend:0.2205', 'sector:0.2', 'read:0.1893', 'neocon:0.1885', 'instead:0.188', 'disintegrate:0.1859', 'aligned:0.1828', 'know:0.1768', 'badly:0.1743', 'lol:0.1689', 'soon:0.167', 'surender:0.1659', 'make:0.1629', 'final:0.1567', 'shortcoming:0.1223', 'practicallyall:0.1204', 'clock:0.1178']+titles_keywords+['kyiv:0.6056', 'explosions:0.4774', 'ukrainian:0.388', 'capital:0.2543', 'rock:0.1588']"
+        ]
+    ]
+}

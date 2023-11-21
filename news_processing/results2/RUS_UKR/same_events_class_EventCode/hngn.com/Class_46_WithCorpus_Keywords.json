@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+46":[
+        [
+            "20220612+../news_crawling/RUS_UKR/p_articles/hngn.com/Moscow Denies the Geneva Convention Covers the UK Foreign Fighters Sentenced to Death.txt+eventbasecode46+eventcode46+avgtone0.4610507246376811+goldsteinscale0.85+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4601', 'kgb:0.4213', 'putin:0.4026', 'bloodshed:0.3126', 'combatant:0.3041', 'coup:0.2964', 'diplomatic:0.2963', 'government:0.2699', 'geneva:0.2489', 'rt:0.2298', 'prisoners:0.2281', 'volodymyr:0.2227', 'read:0.2093', 'autonomy:0.2047', 'neocon:0.2002', 'appeal:0.1984', 'concern:0.1931', 'know:0.19', 'legal:0.1791', 'report:0.1704', 'facts:0.1563', 'breakaway:0.1554', 'despite:0.1435', 'illogical:0.1393', 'end:0.1376', 'rollout:0.1343', 'cover:0.1177', 'volunteer:0.1099', 'arm:0.1044', 'month:0.0869']+titles_keywords+['moscow:0.3421', 'sentenced:0.1907', 'denies:0.1795', 'convention:0.1144', 'fighters:0.1015']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20211208+../news_crawling/RUS_UKR/p_articles/hngn.com/EU Urges Role in the Upcoming RussiaUS Security Guarantee Talks Over Ukraine Crisis.txt+eventbasecode46+eventcode46+avgtone0.47485632183908044+goldsteinscale0.85+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4569', 'geopolitical:0.432', 'nato:0.4141', 'diplomacy:0.3869', 'russiaus:0.3757', 'kyiv:0.3679', 'eu:0.3307', 'invade:0.3065', 'governance:0.2497', 'pipeline:0.2362', 'gas:0.2276', 'crisis:0.1982', 'worry:0.1918', 'psaki:0.187', 'read:0.1657', 'upcoming:0.1643', 'talks:0.1596', 'worldreported:0.1576', 'agreement:0.1556', 'order:0.1532', 'leverage:0.1519', 'step:0.1129', 'willingness:0.1098', 'preclude:0.1052', 'redirect:0.1018', 'deeper:0.0926', 'bystander:0.0915', 'imaginable:0.0745', 'ordinarily:0.07', 'house:0.0657']+titles_keywords+['ukraine:0.3566', 'talks:0.2062', 'role:0.1787', 'crisis:0.1273', 'upcoming:0.1211']"
+        ]
+    ]
+}

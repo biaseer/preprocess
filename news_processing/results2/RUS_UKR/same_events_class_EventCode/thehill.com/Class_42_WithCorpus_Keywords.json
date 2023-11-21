@@ -1,0 +1,21 @@
+{
+    "ITA+RUS+42":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/thehill.com/Pope Francis In Ukraine rivers of blood and tears are flowing.txt+eventbasecode42+eventcode42+avgtone0.46474358974358976+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['invade:0.4365', 'pope:0.4047', 'war:0.3821', 'ukrainian:0.3506', 'russias:0.3341', 'humanitarian:0.3097', 'peace:0.288', 'embassy:0.2567', 'flee:0.2532', 'italy:0.2522', 'reuters:0.2415', 'unprovoked:0.2382', 'flag:0.2248', 'sanction:0.2116', 'blood:0.2038', 'world:0.1755', 'river:0.1721', 'protocol:0.1474', 'concern:0.1468', 'thursday:0.145', 'rejecting:0.1414', 'know:0.1346', 'million:0.1293', 'crowd:0.1229', 'repeat:0.1178', 'end:0.1151', 'hold:0.1133', 'andriy:0.093', 'sow:0.0742', 'accord:0.0603']+titles_keywords+['pope:0.4912', 'ukraine:0.4045', 'blood:0.3847', 'tears:0.346', 'flowing:0.2833']"
+        ]
+    ],
+    "RUS+SYR+42":[
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/thehill.com/Pentagon Navy planes experienced unprofessional intercepts by Russian aircraft over Mediterranean.txt+eventbasecode42+eventcode42+avgtone0.484984984984985+goldsteinscale0.595+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.006578947368421052+news_keywords+['nato:0.4471', 'pentagon:0.3618', 'ukraines:0.3203', 'military:0.3113', 'russian:0.2964', 'invade:0.2576', 'warship:0.2428', 'mediterranean:0.2362', 'diplomatic:0.2357', 'concern:0.2284', 'incident:0.2246', 'intercept:0.2039', 'cnn:0.1966', 'dangerous:0.1938', 'poseidon:0.1716', 'report:0.1617', 'fly:0.1545', 'possibility:0.1477', 'drill:0.1423', 'know:0.1338', 'meet:0.1268', 'involvemore:0.1158', 'weekend:0.1126', 'miscalculation:0.1114', 'cite:0.1023', 'near:0.1003', 'drawdown:0.0964', 'exactly:0.0777', 'proofof:0.0555', 'restrict:0.0498']+titles_keywords+['pentagon:0.4041', 'aircraft:0.32', 'russian:0.2594', 'intercepts:0.2528', 'unprofessional:0.2048']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20211207+../news_crawling/RUS_UKR/p_articles/thehill.com/CIA director says US intelligence hasnt concluded Russia will invade Ukraine.txt+eventbasecode42+eventcode42+avgtone0.4835766423357664+goldsteinscale0.595+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['putin:0.4462', 'ukrainian:0.3547', 'cia:0.3466', 'invasion:0.3072', 'border:0.2506', 'upcoming:0.2317', 'expect:0.2177', 'prepare:0.2147', 'know:0.1745', 'plan:0.1662', 'risk:0.1476', 'conclude:0.146', 'underestimate:0.1407', 'early:0.1378', 'peskovsaidof:0.1328', 'washington:0.1321', 'director:0.1227', 'conversation:0.1131', 'offensive:0.1067', 'summit:0.1057', 'highlight:0.105', 'act:0.1023', 'video:0.0795', 'burns:0.0722', 'breakthroughs:0.0716', 'roughly:0.0703', 'theres:0.0584', 'year:0.0559', 'cost:0.0311', 'way:0.0167']+titles_keywords+['cia:0.3613', 'ukraine:0.2767', 'invade:0.2045', 'director:0.1206', 'says:0.0648']"
+        ],
+        [],
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/thehill.com/Russia says it has gained control of Ukrainian city Izyum.txt+eventbasecode42+eventcode42+avgtone0.4694656488549619+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4956', 'occupiers:0.3857', 'zaluzhnyis:0.3395', 'separatists:0.3343', 'luhansk:0.3059', 'izyumfollows:0.3014', 'relocation:0.2817', 'takeover:0.273', 'blockade:0.2676', 'war:0.2667', 'novosti:0.2629', 'news:0.2121', 'boichenko:0.1933', 'outlet:0.1858', 'mayor:0.1851', 'report:0.1826', 'leave:0.1694', 'control:0.1692', 'statement:0.1448', 'ii:0.1405', 'allege:0.134', 'child:0.13', 'begin:0.1243', 'horrific:0.1234', 'today:0.1144', 'main:0.1104', 'include:0.1028', 'themariupol:0.0862', 'thousand:0.0827', 'body:0.08']+titles_keywords+['izyum:0.4764', 'ukrainian:0.3936', 'control:0.1585', 'gained:0.138', 'says:0.0786']"
+        ]
+    ]
+}

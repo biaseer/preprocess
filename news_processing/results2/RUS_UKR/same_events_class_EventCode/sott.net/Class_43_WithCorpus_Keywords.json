@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+43":[
+        [
+            "20211226+../news_crawling/RUS_UKR/p_articles/sott.net/More than 10000 Russian troops return to permanent bases after drills near Ukraine.txt+eventbasecode43+eventcode43+avgtone0.5031847133757963+goldsteinscale0.64+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['crimea:0.5184', 'nato:0.3962', 'donetsk:0.3628', 'deploy:0.3506', 'apsoldiers:0.337', 'russian:0.3342', 'drills:0.2326', 'near:0.1953', 'eastward:0.1948', 'parade:0.187', 'attack:0.1654', 'area:0.149', 'news:0.1362', 'saturday:0.136', 'base:0.1333', 'month:0.127', 'report:0.1269', 'plan:0.1019', 'kuban:0.1004', 'vary:0.0973', 'long:0.0954', 'promise:0.0893', 'grow:0.0835', 'combine:0.0828', 'cite:0.0817', 'hold:0.0783', 'complete:0.0772', 'estimates:0.0495', 'thousand:0.0417', 'interfax:-0.0168']+titles_keywords+['troops:0.3379', 'russian:0.2401', 'return:0.175', 'permanent:0.1718', '10000:0.1416']"
+        ]
+    ],
+    "WST+UKR+43":[
+        [
+            "20220520+../news_crawling/RUS_UKR/p_articles/sott.net/Ukraine war has no end in sight.txt+eventbasecode43+eventcode43+avgtone0.4947058823529412+goldsteinscale0.64+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.4534', 'nato:0.4288', 'war:0.3566', 'demilitarization:0.3526', 'escalation:0.3166', 'strategic:0.2607', 'outcome:0.2451', 'predict:0.2448', 'scope:0.2236', 'transform:0.2176', 'neutral:0.2101', 'remain:0.1991', 'transnistria:0.1899', 'organize:0.1854', 'long:0.1802', 'term:0.18', 'instead:0.1771', 'know:0.1764', 'haphazard:0.1739', 'agreement:0.1719', 'begin:0.1662', 'article:0.1588', 'state:0.1576', 'observer:0.1542', 'include:0.1323', 'major:0.1254', 'ritter:0.1247', 'refit:0.1178', 'sure:0.0792', 'unless:0.0598']+titles_keywords+['ukraine:0.483', 'war:0.3871', 'end:0.2784', 'sight:0.0782']"
+        ]
+    ]
+}

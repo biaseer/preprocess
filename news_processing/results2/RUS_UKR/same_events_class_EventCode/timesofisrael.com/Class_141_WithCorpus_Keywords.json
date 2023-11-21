@@ -1,0 +1,20 @@
+{
+    "DEU+RUS+141":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Germannewspaper hiresRussianjournalistwho protested Ukraine war on state TV.txt+eventbasecode141+eventcode141+avgtone0.4772727272727273+goldsteinscale0.175+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.01644736842105263+news_keywords+['hiresrussianjournalistwho:0.5956', 'journalistic:0.484', 'correspondent:0.4751', 'germannewspaper:0.4514', 'ovsyannikova:0.3793', 'news:0.3561', 'moscows:0.3292', 'israel:0.3202', 'protest:0.2918', 'ruble:0.29', 'poster:0.2575', 'report:0.2472', 'channel:0.2458', 'job:0.2386', 'vremya:0.2338', 'freedom:0.2322', 'read:0.2317', 'english:0.2255', 'paywall:0.2214', 'troop:0.221', 'marina:0.2049', 'outlet:0.197', 'statement:0.195', 'coverage:0.1798', 'stay:0.1735', 'important:0.1636', 'macron:0.1432', 'ordered:0.1332', 'hour:0.1211', 'thats:0.0838']+titles_keywords+['hiresrussianjournalistwho:0.673', 'germannewspaper:0.512', 'ukraine:0.4118', 'protested:0.2407', 'tv:0.1356']"
+        ]
+    ],
+    "RUS+LVA+141":[
+        [
+            "20220825+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Latvia removes controversial Soviet monument.txt+eventbasecode141+eventcode141+avgtone0.5059808612440192+goldsteinscale0.175+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['riga:0.5057', 'soviet:0.4359', 'estonia:0.3959', 'kremlin:0.3725', 'nato:0.2964', 'israel:0.2897', 'memorial:0.2768', 'fascist:0.2718', 'liberators:0.2623', 'parliament:0.2617', 'controversial:0.2454', 'news:0.2362', 'obelisk:0.2132', 'remove:0.2102', 'remain:0.2034', 'important:0.187', 'times:0.1866', 'bas:0.1779', 'state:0.1713', 'built:0.1642', 'read:0.1574', 'looks:0.1296', 'paywall:0.1182', 'despite:0.1154', 'surround:0.1096', 'like:0.1071', 'meter:0.0978', 'glorifying:0.0958', 'enjoy:0.0927', 'thats:0.0852']+titles_keywords+['soviet:0.3734', 'monument:0.3705', 'latvia:0.3396', 'controversial:0.2338', 'removes:0.1999']"
+        ]
+    ],
+    "RUS+UKR+141":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Russian TV protester emerges from court says police questioned her for 14 hours.txt+eventbasecode141+eventcode141+avgtone0.49004975124378114+goldsteinscale0.175+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4084', 'ovsyannikova:0.4077', 'propaganda:0.3708', 'protester:0.3445', 'journalist:0.3374', 'broadcast:0.3016', 'news:0.2945', 'ruble:0.2877', 'war:0.2721', 'court:0.2461', 'video:0.2249', 'paywall:0.2191', 'jewish:0.2175', 'marina:0.2027', 'stunt:0.1987', 'sign:0.1889', 'anti:0.1796', 'read:0.1727', 'sentence:0.1662', 'outlet:0.159', 'exit:0.1572', 'month:0.1341', 'comwesb:0.1144', 'pleased:0.1105', 'times:0.0944', 'discern:0.0917', 'thats:0.0809', 'theyre:0.0712', 'invite:0.0473', 'havent:0.0009']+titles_keywords+['protester:0.3742', 'russian:0.3354', 'court:0.2832', 'tv:0.1973', 'hours:0.1699']"
+        ],
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/A conference to address the crises of today.txt+eventbasecode141+eventcode141+avgtone0.48251028806584356+goldsteinscale0.175+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['sustainability:0.4678', 'refugee:0.4098', 'sociology:0.402', 'war:0.3982', 'protest:0.3718', 'russias:0.3207', 'purification:0.315', 'distress:0.2975', 'headline:0.2866', 'presentation:0.2848', 'world:0.2835', 'destabilise:0.2651', 'departments:0.2594', 'issue:0.252', 'read:0.2497', 'policy:0.2484', 'groundbreaking:0.2076', 'begin:0.2061', 'respond:0.2018', 'idea:0.1894', 'boris:0.185', 'awash:0.1816', 'stories:0.1729', 'extent:0.1659', 'tel:0.1525', 'stream:0.1519', 'expert:0.1283', 'annual:0.1136', 'today:0.0811', 'bmi:0.0717']+titles_keywords+['crises:0.6312', 'conference:0.4547', 'today:0.1872', 'address:0.1705']"
+        ]
+    ]
+}

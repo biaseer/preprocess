@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+40":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/cambodiantimes.com/Biden discusses ways to hold Russia accountable for unprovokedunjustified attack on Ukraine.txt+eventbasecode40+eventcode40+avgtone0.47567567567567565+goldsteinscale0.55+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.013157894736842105+news_keywords+['putin:0.455', 'nato:0.4244', 'biden:0.3672', 'attack:0.3076', 'war:0.2896', 'donetsk:0.2768', 'unprovokedunjustified:0.2709', 'operation:0.2531', 'inform:0.2264', 'respond:0.2204', 'consequence:0.1977', 'coordinate:0.1968', 'unite:0.1952', 'donbas:0.1945', 'interfere:0.1889', 'plan:0.1878', 'troop:0.1854', 'zelensky:0.1789', 'say:0.1672', 'thursday:0.1459', 'bring:0.1453', 'follow:0.1422', 'counterparts:0.1332', 'state:0.1238', 'include:0.1101', 'discus:0.1011', 'clearly:0.0893', 'ani:0.0782', 'stoltenberg:0.0771', 'way:0.0524']+titles_keywords+['biden:0.3924', 'attack:0.3021', 'accountable:0.2915', 'ukraine:0.2902', 'unprovokedunjustified:0.2836']"
+        ]
+    ],
+    "WST+RUS+40":[
+        [
+            "20211204+../news_crawling/RUS_UKR/p_articles/cambodiantimes.com/Kremlin Says Biden and Putin to Discuss Ukraine Crisis Next Week.txt+eventbasecode40+eventcode40+avgtone0.4898989898989899+goldsteinscale0.55+nummentions0.026124818577648767+numarticles0.026831036983321246+numsources0.02631578947368421+news_keywords+['putin:0.4785', 'nato:0.3969', 'ukraine:0.373', 'diplomatic:0.354', 'invade:0.2983', 'meeting:0.2958', 'peskov:0.2857', 'adviser:0.2581', 'escalation:0.245', 'concerned:0.2221', 'border:0.2186', 'troop:0.2174', 'prepare:0.2119', 'thursday:0.2115', 'rhetoric:0.1941', 'news:0.1928', 'psaki:0.1892', 'report:0.1857', 'remark:0.1585', 'near:0.1536', 'geneva:0.1468', 'bilateral:0.1325', 'potential:0.1262', 'believe:0.1086', 'end:0.1083', 'presse:0.106', 'blinken:0.101', 'state:0.1004', 'says:0.0621', 'price:0.0539']+titles_keywords+['kremlin:0.4156', 'biden:0.3978', 'ukraine:0.3187', 'week:0.2139', 'discuss:0.1904']"
+        ],
+        [
+            "20220118+../news_crawling/RUS_UKR/p_articles/cambodiantimes.com/Russian Foreign Ministry says embassy in Kiev working as usual.txt+eventbasecode40+eventcode40+avgtone0.48014440433212996+goldsteinscale0.55+nummentions0.029753265602322207+numarticles0.030456852791878174+numsources0.019736842105263157+news_keywords+['kiev:0.4371', 'nato:0.3836', 'diplomat:0.3625', 'russia:0.3128', 'evacuate:0.2757', 'invasion:0.1818', 'strategic:0.1719', 'tensions:0.1644', 'headquarters:0.155', 'council:0.1406', 'month:0.1358', 'monday:0.1252', 'usual:0.1233', 'present:0.1154', 'anisputnik:0.1096', 'instruct:0.1092', 'spouses:0.1076', 'talk:0.1014', 'report:0.0972', 'work:0.096', 'board:0.0927', 'number:0.0746', 'point:0.0742', 'unknown:0.0694', 'draft:0.0631', 'follow:0.0535', 'begin:0.0527', 'head:0.0501', 'exact:0.0426', 'allegedly:0.0177']+titles_keywords+['kiev:0.4558', 'embassy:0.3577', 'working:0.2292', 'usual:0.1579', 'says:0.0216']"
+        ]
+    ]
+}

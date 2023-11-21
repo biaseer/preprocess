@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Presidents Office Ukrainian military loses control of Chornobyl NPP.txt+eventbasecode192+eventcode192+avgtone0.446043165467626+goldsteinscale0.025+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['ukraine:0.4603', 'nuclear:0.4267', 'chornobyl:0.3818', 'zelensky:0.3175', 'volodymyr:0.2843', 'threat:0.26', 'safe:0.2376', 'podoliak:0.2282', 'occupier:0.2108', 'seize:0.2089', 'control:0.186', 'military:0.185', 'presidents:0.1821', 'waste:0.1745', 'facility:0.1709', 'nv:0.168', 'prepare:0.1665', 'plant:0.1629', 'power:0.1503', 'accuse:0.1407', 'loses:0.1364', 'direction:0.1361', 'npp:0.1345', 'declare:0.1146', 'today:0.1076', 'senseless:0.1055', 'impossible:0.0998', 'comment:0.0962', 'object:0.0955', 'completely:0.0602']+titles_keywords+['ukrainian:0.3521', 'chornobyl:0.3457', 'presidents:0.2554', 'npp:0.2545', 'control:0.2008']"
+        ]
+    ],
+    "UKR+RUS+192":[
+        [
+            "20220720+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukrainian military strike Russian occupiers near Antonivka Bridge councilman.txt+eventbasecode192+eventcode192+avgtone0.49206349206349204+goldsteinscale0.025+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukrainian:0.4381', 'kakhovka:0.4266', 'military:0.2856', 'bridge:0.2458', 'destroy:0.2367', 'ammunition:0.2284', 'occupier:0.2249', 'operational:0.2192', 'correspondent:0.2148', 'yurii:0.2061', 'nova:0.1908', 'kherson:0.1852', 'orcs:0.1813', 'video:0.175', 'report:0.1738', 'depots:0.1627', 'launch:0.1622', 'strike:0.1491', 'near:0.1423', 'forces:0.1415', 'smerch:0.1361', 'command:0.1261', 'night:0.1171', 'statement:0.1015', 'multiple:0.0897', 'earlier:0.0847', 'reminder:0.0807', 'state:0.0743', 'accord:0.0635', 'mlrs:0.0529']+titles_keywords+['antonivka:0.4404', 'occupiers:0.3222', 'military:0.2535', 'strike:0.2495', 'bridge:0.2032']"
+        ]
+    ]
+}

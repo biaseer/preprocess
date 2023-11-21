@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+16":[
+        [
+            "20220803+../news_crawling/RUS_UKR/p_articles/sana.sy/Russia rejects accusations of threats to use nuclear weapons in Ukraine says Trofimov.txt+eventbasecode16+eventcode16+avgtone0.453551912568306+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4219', 'nuclear:0.3219', 'threaten:0.3119', 'trofimov:0.2592', 'treaty:0.2538', 'allegation:0.1973', 'respond:0.1952', 'weapons:0.165', 'hypothetically:0.1468', 'hysteria:0.1293', 'note:0.123', 'know:0.1141', 'existence:0.0966', 'intensify:0.0952', 'arm:0.0908', 'nonproliferation:0.0842', 'state:0.0841', 'anti:0.081', 'alexander:0.0758', 'new:0.0682', 'unacceptable:0.0678', 'line:0.06', 'control:0.0577', 'sana:0.0551', 'review:0.0551', 'ungrounded:0.0513', 'tuesday:0.0503', 'particular:0.0203', 'pretty:0.0166', 'ministrys:-0.0169']+titles_keywords+['trofimov:0.3651', 'ukraine:0.346', 'nuclear:0.2412', 'accusations:0.1953', 'weapons:0.1659']"
+        ]
+    ],
+    "USA+RUS+16":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/sana.sy/US officials refute claims that Russia is preparing to use chemical weapons in Ukraine.txt+eventbasecode16+eventcode16+avgtone0.4855491329479769+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4458', 'disinformation:0.4367', 'ukraines:0.3842', 'war:0.3369', 'tactic:0.3055', 'information:0.3023', 'declassified:0.2504', 'misleading:0.2361', 'prepare:0.2293', 'evidence:0.2237', 'chemical:0.2173', 'report:0.2126', 'administration:0.2113', 'indicate:0.2089', 'warning:0.2005', 'nbc:0.1928', 'crisis:0.1911', 'accuracy:0.1895', 'cite:0.1864', 'achieve:0.1634', 'leak:0.15', 'state:0.1482', 'examples:0.1388', 'western:0.1354', 'order:0.1328', 'view:0.1316', 'empt:0.1225', 'prevent:0.1196', 'official:0.1106', 'low:0.0689']+titles_keywords+['ukraine:0.3773', 'refute:0.2624', 'weapons:0.2039', 'chemical:0.1843', 'preparing:0.1548']"
+        ]
+    ]
+}

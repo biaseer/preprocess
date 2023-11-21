@@ -1,0 +1,10 @@
+{
+    "AFR+RUS+20":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/allafrica.com/Africa Dialogue and Containment Can Work Matsanga on Russia.txt+eventbasecode20+eventcode20+avgtone0.4685230024213075+goldsteinscale0.65+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['nato:0.4132', 'sanctions:0.3514', 'putin:0.349', 'war:0.344', 'invade:0.3166', 'isolate:0.2747', 'impasse:0.2556', 'escalate:0.2345', 'african:0.2332', 'autocratic:0.2276', 'neutrality:0.2254', 'territory:0.2244', 'negotiate:0.2187', 'dialogue:0.2062', 'condemn:0.1949', 'aligned:0.1785', 'organization:0.1716', 'option:0.1468', 'world:0.1462', 'table:0.1244', 'cold:0.1168', 'stand:0.1148', 'like:0.114', 'positive:0.1076', 'stopping:0.1072', 'agree:0.0928', 'note:0.0818', 'make:0.0589', 'pan:0.0524', 'syndrome:0.0421']+titles_keywords+['russia:0.3888', 'matsanga:0.3242', 'containment:0.2828', 'dialogue:0.1955', 'work:0.1034']"
+        ],
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/allafrica.com/Africa Opinion What Can We Learn From Prior Food Price Shocks.txt+eventbasecode20+eventcode20+avgtone0.4796747967479674+goldsteinscale0.65+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['africa:0.4536', 'agriculture:0.4502', 'economy:0.4281', 'commodity:0.3405', 'diversification:0.2918', 'reuters:0.2819', 'volatility:0.2542', 'aid:0.2459', 'subsidy:0.2326', 'cassava:0.2191', 'conflict:0.2132', 'adapt:0.2116', 'analysis:0.209', 'invade:0.1837', 'raise:0.1821', 'poor:0.1803', 'import:0.168', 'potash:0.1621', 'shocks:0.1513', 'january:0.1497', 'important:0.1397', 'anticipate:0.1378', 'general:0.1267', 'send:0.1226', 'quick:0.1205', 'predominate:0.1171', 'insulating:0.1157', 'billion:0.0922', 'state:0.0838', 'end:0.063']+titles_keywords+['africa:0.4525', 'shocks:0.2537', 'opinion:0.1876', 'price:0.1798', 'learn:0.1358']"
+        ]
+    ]
+}

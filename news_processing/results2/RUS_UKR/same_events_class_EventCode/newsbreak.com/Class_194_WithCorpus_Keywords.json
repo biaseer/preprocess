@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220705+../news_crawling/RUS_UKR/p_articles/newsbreak.com/High cost of Russian gains in Ukraine may limit new advance.txt+eventbasecode194+eventcode194+avgtone0.4792345276872964+goldsteinscale0.0+nummentions0.08055152394775036+numarticles0.08085569253081944+numsources0.28289473684210525+news_keywords+['kyiv:0.4553', 'russias:0.3503', 'evacuate:0.3012', 'invasion:0.2809', 'separatist:0.2487', 'conscript:0.2329', 'predict:0.2314', 'advance:0.2295', 'tank:0.223', 'attrition:0.2221', 'pentagon:0.2088', 'fight:0.2067', 'protracted:0.2043', 'switch:0.1908', 'industrial:0.1843', 'northern:0.1832', 'howitzer:0.1804', 'successful:0.175', 'replenish:0.1707', 'ready:0.1581', 'donbas:0.1576', 'governor:0.1325', 'report:0.1322', 'million:0.1278', 'conditional:0.1135', 'basically:0.1088', 'drawback:0.1036', 'deep:0.1008', 'way:0.0772', 'avril:0.0584']+titles_keywords+['ukraine:0.3734', 'advance:0.2122', 'gains:0.206', 'cost:0.2026', 'limit:0.097']"
+        ]
+    ],
+    "UKR+RUS+194":[
+        [
+            "20220814+../news_crawling/RUS_UKR/p_articles/newsbreak.com/Ship carrying grain for Ethiopia ready to leave Ukraine.txt+eventbasecode194+eventcode194+avgtone0.4849699398797595+goldsteinscale0.0+nummentions0.07474600870827286+numarticles0.07541696881798404+numsources0.06578947368421052+news_keywords+['ukraine:0.4844', 'famine:0.3482', 'mikhail:0.3303', 'invade:0.3237', 'nuclear:0.313', 'government:0.2872', 'diplomat:0.2864', 'grain:0.2847', 'emergency:0.2692', 'artillery:0.2629', 'concern:0.2565', 'news:0.2477', 'initiative:0.2472', 'mission:0.2367', 'occur:0.2357', 'align:0.2204', 'report:0.2137', 'order:0.2032', 'port:0.1836', 'work:0.1744', 'world:0.17', 'locate:0.1632', 'send:0.1618', 'capacity:0.1537', 'ready:0.1429', 'february:0.1382', 'bereznehuvate:0.134', 'reach:0.1282', 'unload:0.1277', 'tass:0.0947']+titles_keywords+['ship:0.4829', 'ethiopia:0.4321', 'grain:0.351', 'ready:0.1807', 'leave:0.1197']"
+        ]
+    ]
+}

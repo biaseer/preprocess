@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+10":[
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/pmnewsnigeria.com/Putin has blood cancer reports.txt+eventbasecode10+eventcode10+avgtone0.45921052631578946+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.5696', 'cancer:0.4314', 'moscow:0.3942', 'ukraines:0.3708', 'oligarch:0.3493', 'news:0.3225', 'blood:0.2894', 'coup:0.2477', 'zelensky:0.2423', 'economy:0.2152', 'report:0.2016', 'die:0.1979', 'shortly:0.1904', 'office:0.1678', 'turn:0.1611', 'oust:0.1558', 'world:0.1473', 'huge:0.1449', 'head:0.144', 'deep:0.1415', 'erratically:0.137', 'quote:0.1295', 'unidentified:0.1282', 'calamitous:0.1278', 'multipolar:0.1197', 'strongman:0.1185', 'venture:0.1174', 'year:0.1171', 'obtain:0.1088', 'blanket:0.1022']+titles_keywords+['putin:0.5681', 'cancer:0.5009', 'blood:0.3672', 'reports:0.2484']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/pmnewsnigeria.com/Russia set to invade Ukraine in days Joe Biden.txt+eventbasecode10+eventcode10+avgtone0.47017543859649125+goldsteinscale0.5+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.009868421052631578+news_keywords+['putin:0.4498', 'ukraineputin:0.4358', 'invade:0.3848', 'russias:0.3807', 'nato:0.3756', 'diplomacy:0.3554', 'provoke:0.3063', 'misinformation:0.3062', 'threat:0.2903', 'separatist:0.2306', 'readiness:0.2262', 'news:0.2235', 'border:0.221', 'donbas:0.1894', 'destabilise:0.1887', 'report:0.1804', 'order:0.176', 'thursday:0.168', 'speak:0.1642', 'evidence:0.1642', 'continue:0.1607', 'look:0.1368', 'kindergarten:0.1259', 'long:0.1164', 'arrayed:0.112', 'like:0.1063', 'uptick:0.0979', 'set:0.0951', 'house:0.0817', 'agree:0.0545']+titles_keywords+['biden:0.4325', 'ukraine:0.3694', 'invade:0.3321', 'set:0.143', 'days:0.1219']"
+        ]
+    ]
+}

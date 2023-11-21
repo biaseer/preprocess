@@ -1,0 +1,12 @@
+{
+    "CUB+RUS+51":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/wtkr.com/UN votes overwhelmingly to demand Russia withdraw from Ukraine.txt+eventbasecode51+eventcode51+avgtone0.47714285714285715+goldsteinscale0.67+nummentions0.02467343976777939+numarticles0.025380710659898477+numsources0.02631578947368421+news_keywords+['ukraine:0.4868', 'abstain:0.3119', 'moscows:0.2841', 'withdraw:0.28', 'nation:0.2675', 'condemn:0.2452', 'troop:0.2331', 'overwhelmingly:0.233', 'world:0.2244', 'vote:0.2232', 'aggression:0.1804', 'immediate:0.1663', 'stop:0.1582', 'north:0.1536', 'united:0.1515', 'speak:0.1503', 'use:0.1475', 'salvador:0.1297', 'demand:0.1164', 'like:0.1146', 'resolution:0.1145', 'general:0.113', 'term:0.1116', 'island:0.1108', 'state:0.1063', 'strong:0.0974', 'african:0.0851', 'include:0.0785', 'tiny:0.0606', 'assembly:0.0411']+titles_keywords+['ukraine:0.403', 'overwhelmingly:0.3384', 'votes:0.2523', 'withdraw:0.2422', 'demand:0.0818']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/wtkr.com/Vladimir Putin defends invasion of Ukraine during Victory Day speech.txt+eventbasecode51+eventcode51+avgtone0.4664804469273743+goldsteinscale0.67+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.019736842105263157+news_keywords+['putin:0.5173', 'invade:0.4231', 'ukraine:0.416', 'moscows:0.3395', 'nazi:0.2857', 'strategy:0.2705', 'mobilization:0.2625', 'military:0.2349', 'conflict:0.2328', 'border:0.2303', 'speech:0.2129', 'motherland:0.2111', 'parade:0.2109', 'action:0.1862', 'victory:0.1835', 'future:0.1814', 'donbas:0.1656', 'monday:0.1612', 'addressing:0.1536', 'red:0.1527', 'square:0.1483', 'tell:0.1302', 'signal:0.1287', 'force:0.128', 'forgotten:0.1185', 'draw:0.118', 'necessary:0.1151', 'suppose:0.1102', 'lessons:0.1067', 'parallel:0.0784']+titles_keywords+['putin:0.4552', 'invasion:0.276', 'speech:0.229', 'victory:0.2257', 'defends:0.2022']"
+        ]
+    ]
+}

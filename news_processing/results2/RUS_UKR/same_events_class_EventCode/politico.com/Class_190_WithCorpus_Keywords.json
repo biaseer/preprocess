@@ -1,0 +1,13 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/politico.com/Putin puts Russias nuclear deterrent forces on alert.txt+eventbasecode190+eventcode190+avgtone0.44230769230769246+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['putin:0.5583', 'nato:0.4561', 'vladimir:0.4185', 'kyiv:0.4108', 'russias:0.4009', 'russian:0.3816', 'nuclear:0.3104', 'invasion:0.2765', 'militarys:0.2545', 'impose:0.2504', 'regime:0.2476', 'sanction:0.2125', 'alert:0.2124', 'aggressive:0.2098', 'order:0.2082', 'meeting:0.1821', 'power:0.1531', 'lead:0.1381', 'chief:0.1356', 'tension:0.135', 'include:0.1336', 'defense:0.1134', 'official:0.1016', 'sunday:0.0992', 'financial:0.0959', 'make:0.095', 'west:0.092', 'high:0.0804', 'amid:0.0755', 'statement:0.0628']+titles_keywords+['putin:0.4786', 'nuclear:0.4044', 'forces:0.1957', 'deterrent:0.1934', 'alert:0.1636']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/politico.com/Russias Kyiv offensive stalls as Ukrainians counterattack in the south.txt+eventbasecode190+eventcode190+avgtone0.47633744855967075+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['kyiv:0.596', 'ukrainians:0.4221', 'kremlin:0.4089', 'sergei:0.3575', 'bombardment:0.298', 'rudskoi:0.274', 'operation:0.248', 'tactic:0.2476', 'capital:0.2461', 'march:0.2211', 'shift:0.2023', 'main:0.1962', 'donbas:0.1956', 'stage:0.1893', 'conflict:0.1842', 'monthlong:0.183', 'control:0.1811', 'outskirt:0.1762', 'accomplish:0.1663', 'focus:0.1584', 'resistance:0.155', 'prepare:0.146', 'analyst:0.1425', 'consolidate:0.1414', 'general:0.1332', 'western:0.1281', 'renew:0.126', 'scale:0.0731', 'photo:0.0579', 'significant:0.0535']+titles_keywords+['kyiv:0.5217', 'counterattack:0.3089', 'russias:0.2739', 'stalls:0.2727', 'south:0.1651']"
+        ],
+        []
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "ISR+RUS+40":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/ksl.com/Putin says Ukraines future in doubt as ceasefires collapse.txt+eventbasecode40+eventcode40+avgtone0.4688661710037175+goldsteinscale0.55+nummentions0.05333817126269957+numarticles0.0532994923857868+numsources0.15789473684210525+news_keywords+['ukraine:0.5039', 'ceasefires:0.4279', 'kremlin:0.4127', 'statehood:0.3047', 'diplomatic:0.2997', 'boychenko:0.2895', 'emergency:0.2892', 'future:0.2719', 'bleakness:0.2719', 'rhetoric:0.2691', 'annex:0.2609', 'flee:0.2572', 'news:0.2571', 'underway:0.2535', 'agreement:0.2294', 'column:0.2222', 'tell:0.2216', 'worsen:0.2193', 'world:0.2182', 'naftali:0.2075', 'implement:0.2067', 'secretary:0.206', 'vadym:0.1906', 'powerful:0.1742', 'warrant:0.1692', 'outmatch:0.1482', 'onlookers:0.1394', 'include:0.1362', 'entirely:0.1102', 'measure:0.1097']+titles_keywords+['putin:0.43', 'ukraines:0.3904', 'ceasefires:0.3035', 'doubt:0.2349', 'future:0.2285']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/ksl.com/Putin appears at big rally as Russian troops press attack in Ukraine.txt+eventbasecode40+eventcode40+avgtone0.4782135076252723+goldsteinscale0.55+nummentions0.026850507982583455+numarticles0.02755620014503263+numsources0.03289473684210526+news_keywords+['putin:0.4832', 'nato:0.3457', 'lviv:0.342', 'annexation:0.326', 'diplomatic:0.3223', 'demilitarization:0.3172', 'globe:0.2724', 'troop:0.2518', 'event:0.2507', 'protest:0.2395', 'table:0.2385', 'ahead:0.2332', 'history:0.2312', 'arrive:0.223', 'read:0.2191', 'know:0.2178', 'kramatorsk:0.2123', 'twitter:0.2013', 'jinping:0.1974', 'surround:0.1944', 'rail:0.1895', 'big:0.1878', 'administrative:0.1868', 'end:0.1817', 'boast:0.1642', 'alive:0.1624', 'difference:0.1621', 'color:0.1567', 'baseless:0.1303', 'characterize:0.1222']+titles_keywords+['putin:0.4227', 'rally:0.3185', 'attack:0.2664', 'big:0.1473', 'appears:0.1262']"
+        ],
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/ksl.com/UN works to broker Ukranian civilian evacuation from Mariupol.txt+eventbasecode40+eventcode40+avgtone0.46518987341772156+goldsteinscale0.55+nummentions0.10341074020319303+numarticles0.10406091370558376+numsources0.125+news_keywords+['kyiv:0.5338', 'putin:0.393', 'airstrikes:0.3502', 'troop:0.2738', 'news:0.2709', 'fesenko:0.2557', 'separatist:0.2509', 'chernov:0.2461', 'unfolding:0.2336', 'flee:0.2314', 'hear:0.2213', 'fight:0.2207', 'east:0.2105', 'involve:0.2072', 'columns:0.2026', 'safe:0.2014', 'vadym:0.1996', 'production:0.199', 'order:0.195', 'secretary:0.1893', 'detained:0.1803', 'discharge:0.1775', 'hell:0.1602', 'donbas:0.1602', 'spring:0.1529', 'right:0.1459', 'nearly:0.1454', 'hour:0.1271', 'global:0.1259', 'enjoy:0.1209']+titles_keywords+['evacuation:0.4556', 'ukranian:0.415', 'mariupol:0.3464', 'civilian:0.2706', 'broker:0.1177']"
+        ]
+    ]
+}

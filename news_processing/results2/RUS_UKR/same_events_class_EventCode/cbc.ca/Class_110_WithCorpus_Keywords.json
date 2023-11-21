@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+110":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/cbc.ca/Russian opposition figure detained by police in Moscow activist says.txt+eventbasecode110+eventcode110+avgtone0.42473118279569905+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['poisoned:0.4291', 'nemtsov:0.4102', 'moscow:0.4088', 'oligarch:0.3265', 'kara:0.3248', 'khodorkovsky:0.3209', 'yashin:0.3191', 'murza:0.2983', 'dissident:0.2973', 'detain:0.2766', 'coma:0.2756', 'suspect:0.2652', 'journalist:0.2544', 'kill:0.2371', 'opposition:0.2168', 'hospital:0.196', 'symptom:0.189', 'incident:0.1882', 'medically:0.1692', 'kidney:0.1451', 'twitter:0.1396', 'induce:0.1271', 'sudden:0.1269', 'sicken:0.1265', 'cause:0.1033', 'monday:0.0949', 'turn:0.0928', 'wife:0.0916', 'nearly:0.0507', 'confirm:0.0485']+titles_keywords+['detained:0.3624', 'activist:0.3508', 'moscow:0.3031', 'figure:0.1068', 'says:0.012']"
+        ]
+    ],
+    "UKR+RUS+110":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/cbc.ca/Russian forces shell residential buildings in Ukraine as convoy of refugees leaves Mariupol.txt+eventbasecode110+eventcode110+avgtone0.4748725418790969+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.019736842105263157+news_keywords+['kyiv:0.5279', 'ceasefire:0.4618', 'chechnya:0.4574', 'kremlin:0.4463', 'airstrikes:0.4176', 'evacuate:0.3753', 'civilians:0.367', 'nato:0.3654', 'refugee:0.3446', 'diplomatic:0.2905', 'obolonskyi:0.2633', 'expand:0.2497', 'news:0.2275', 'rout:0.2252', 'east:0.211', 'involve:0.1967', 'alert:0.1873', 'history:0.1873', 'general:0.1805', 'corridor:0.1734', 'order:0.1641', 'residential:0.1619', 'world:0.1606', 'toll:0.1601', 'suffer:0.1564', 'unclear:0.139', 'training:0.1347', 'reverberate:0.1178', 'hour:0.1156', 'true:0.0525']+titles_keywords+['ukraine:0.3753', 'refugees:0.373', 'convoy:0.2838', 'residential:0.2609', 'leaves:0.15']"
+        ]
+    ]
+}

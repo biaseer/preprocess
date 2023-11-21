@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+112":[
+        [
+            "20220103+../news_crawling/RUS_UKR/p_articles/mb.com.ph/Biden tells Ukraine leader US will respond decisively if Russia invades.txt+eventbasecode112+eventcode112+avgtone0.4906779661016949+goldsteinscale0.4+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.05263157894736842+news_keywords+['diplomacy:0.4534', 'putin:0.4119', 'nato:0.3778', 'invades:0.3463', 'biden:0.3406', 'kiev:0.3164', 'standoff:0.3145', 'erupt:0.2782', 'talk:0.2596', 'upcoming:0.245', 'relationship:0.2302', 'reassure:0.2167', 'reform:0.2092', 'border:0.2056', 'tense:0.2025', 'consequence:0.1944', 'agreement:0.1808', 'secretary:0.1803', 'respond:0.1801', 'emphasize:0.178', 'anonymity:0.1757', 'discus:0.1633', 'substantive:0.1613', 'press:0.1554', 'state:0.153', 'day:0.1455', 'january:0.1429', 'include:0.1283', 'stay:0.1278', 'house:0.1075']+titles_keywords+['biden:0.3524', 'ukraine:0.2844', 'invades:0.2531', 'respond:0.2213', 'decisively:0.2064']"
+        ]
+    ],
+    "UKR+EUR+112":[
+        [
+            "20220807+../news_crawling/RUS_UKR/p_articles/mb.com.ph/Zelensky condemns Russian terror after damage to nuclear plant.txt+eventbasecode112+eventcode112+avgtone0.4612860892388451+goldsteinscale0.4+nummentions0.01632801161103048+numarticles0.01704133430021755+numsources0.023026315789473683+news_keywords+['kremlin:0.451', 'kyiv:0.4326', 'zelensky:0.393', 'terrorist:0.327', 'amnesty:0.2876', 'iaea:0.2857', 'protest:0.2812', 'accusation:0.2708', 'unions:0.2548', 'ignore:0.2489', 'invade:0.2488', 'report:0.2459', 'telegram:0.2329', 'operation:0.2281', 'endangering:0.22', 'oksana:0.216', 'reactor:0.1909', 'catastrophic:0.1887', 'coordinate:0.1875', 'word:0.1807', 'publication:0.1781', 'firepower:0.1716', 'watchdog:0.161', 'selectivity:0.1601', 'like:0.1574', 'compare:0.1472', 'agree:0.1404', 'head:0.1381', 'thursday:0.1254', 'swath:0.1168']+titles_keywords+['zelensky:0.5589', 'nuclear:0.3459', 'terror:0.3273', 'russian:0.3189', 'damage:0.1868']"
+        ]
+    ]
+}

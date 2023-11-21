@@ -1,0 +1,12 @@
+{
+    "TUR+UKR+60":[
+        [
+            "20220201+../news_crawling/RUS_UKR/p_articles/kelo.com/Turkey balancing Russia ties says drones to Ukraine are sales not aid Sabah.txt+eventbasecode60+eventcode60+avgtone0.47732426303854875+goldsteinscale0.8+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4578', 'nato:0.4564', 'drone:0.4022', 'erdogan:0.36', 'ankara:0.348', 'turkeys:0.3234', 'invasion:0.2786', 'conflict:0.2749', 'cooperate:0.2498', 'concern:0.2429', 'government:0.2246', 'rhetoric:0.2057', 'yavuz:0.1956', 'buy:0.1892', 'attract:0.1783', 'tourist:0.1731', 'newspaper:0.169', 'maritime:0.1653', 'say:0.1641', 'good:0.1536', 'arm:0.1501', 'help:0.1497', 'closely:0.1453', 'meant:0.1346', 'baykar:0.1307', 'recent:0.1148', 'balance:0.1094', 'amid:0.1039', 'underscore:0.1001', 'highlighting:0.0673']+titles_keywords+['turkey:0.3929', 'drones:0.362', 'sales:0.1562', 'ties:0.1001', 'says:0.0872']"
+        ]
+    ],
+    "USA+UKR+60":[
+        [
+            "20220620+../news_crawling/RUS_UKR/p_articles/kelo.com/Ukrainian first lady appeals to US Congress for more weapons against Russias Hunger Games.txt+eventbasecode60+eventcode60+avgtone0.49562363238512036+goldsteinscale0.8+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.0625+news_keywords+['ukraine:0.5007', 'russias:0.4338', 'war:0.3869', 'genocide:0.3476', 'zelenskiy:0.3268', 'president:0.3022', 'reuters:0.2941', 'aid:0.2728', 'representatives:0.2651', 'democratic:0.2563', 'speech:0.2253', 'reporting:0.2211', 'translator:0.2204', 'olena:0.211', 'help:0.1944', 'katharine:0.1877', 'long:0.1787', 'expect:0.1751', 'respond:0.1728', 'authorize:0.1671', 'begin:0.1668', 'somebody:0.1622', 'stay:0.1573', 'limb:0.1478', 'right:0.1433', 'thousand:0.1407', 'like:0.1366', 'boy:0.1177', 'theyre:0.0869', 'nows:0.0826']+titles_keywords+['russias:0.3509', 'weapons:0.2475', 'congress:0.2023', 'hunger:0.1448', 'lady:0.1366']"
+        ]
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "RUS+CAN+120":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/infotel.ca/No politics allowed in Kelownas Russian and Ukrainian Deli.txt+eventbasecode120+eventcode120+avgtone0.4926289926289926+goldsteinscale0.3+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5124', 'politics:0.3625', 'kelowna:0.3316', 'smirnov:0.328', 'flag:0.3127', 'canadian:0.3086', 'infonews:0.2765', 'censor:0.2526', 'allow:0.2482', 'customers:0.2438', 'sign:0.2385', 'oppose:0.2336', 'deli:0.2327', 'spam:0.2287', 'fake:0.2206', 'concern:0.2169', 'statement:0.2076', 'submit:0.2032', 'hear:0.201', 'ok:0.1857', 'make:0.1811', 'story:0.1746', 'rob:0.1665', 'buy:0.1613', 'come:0.161', 'photo:0.1475', 'different:0.1386', 'welcome:0.1033', 'thats:0.1003', 'include:0.0918']+titles_keywords+['kelownas:0.4762', 'politics:0.4398', 'russian:0.3841', 'deli:0.3469', 'allowed:0.2415']"
+        ]
+    ],
+    "RUS+LTU+120":[
+        [
+            "20211129+../news_crawling/RUS_UKR/p_articles/infotel.ca/Belarusian leader accuses Lithuania of dumping dead migrants.txt+eventbasecode120+eventcode120+avgtone0.4451939291736935+goldsteinscale0.3+nummentions0.03737300435413643+numarticles0.03807106598984772+numsources0.03618421052631579+news_keywords+['belarus:0.4996', 'kremlin:0.4101', 'lukashenko:0.4088', 'vladimir:0.3973', 'border:0.3556', 'nato:0.3529', 'kurds:0.3458', 'migrant:0.3396', 'destabilize:0.316', 'separatist:0.3132', 'invade:0.3111', 'conflict:0.2714', 'democracy:0.2703', 'bloc:0.2644', 'troop:0.2437', 'stay:0.2024', 'trap:0.1861', 'passage:0.1748', 'safe:0.1662', 'accuse:0.1648', 'know:0.1547', 'order:0.1432', 'temperature:0.1299', 'liudas:0.1138', 'drill:0.1085', 'aim:0.0884', 'treatment:0.087', 'nov:0.0828', 'wag:0.0733', 'squarely:0.0678']+titles_keywords+['belarusian:0.3736', 'migrants:0.2963', 'accuses:0.2284', 'dumping:0.2147', 'dead:0.1184']"
+        ]
+    ],
+    "RUS+UKR+120":[
+        [
+            "20210627+../news_crawling/RUS_UKR/p_articles/infotel.ca/Report Classified UK defense papers found at bus stop.txt+eventbasecode120+eventcode120+avgtone0.4839285714285715+goldsteinscale0.3+nummentions0.19013062409288825+numarticles0.19071791153009426+numsources0.20394736842105263+news_keywords+['crimea:0.462', 'investigation:0.3691', 'military:0.3426', 'russias:0.3361', 'operation:0.3291', 'report:0.3114', 'undermine:0.292', 'department:0.2867', 'inform:0.2828', 'labour:0.2699', 'bbc:0.2432', 'worry:0.2392', 'hms:0.2377', 'accordance:0.2291', 'claim:0.2099', 'discussion:0.2001', 'ap:0.1984', 'defence:0.1984', 'passage:0.1808', 'unnamed:0.1748', 'statement:0.1716', 'happens:0.1707', 'react:0.1696', 'possible:0.1681', 'page:0.1633', 'inappropriate:0.1625', 'wednesday:0.1411', 'want:0.1403', 'like:0.1236', 'water:0.1042']+titles_keywords+['papers:0.3901', 'classified:0.2909', 'bus:0.2643', 'report:0.2564', 'uk:0.2272']"
+        ]
+    ],
+    "RUS+WST+120":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/infotel.ca/Trudeau says Canada very supportive of Sweden Finland joining NATO alliance.txt+eventbasecode120+eventcode120+avgtone0.5064935064935066+goldsteinscale0.3+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.003289473684210526+news_keywords+['natos:0.5963', 'ukraine:0.429', 'finland:0.3635', 'vladimir:0.2683', 'sarkozy:0.2369', 'invasion:0.2189', 'cybersecurity:0.2107', 'join:0.2096', 'trudeau:0.1909', 'unions:0.1795', 'volodymyr:0.1672', 'retaliatory:0.1526', 'promise:0.1333', 'supportive:0.1228', 'initiate:0.1184', 'option:0.1158', 'ahead:0.1155', 'article:0.0892', 'file:0.0848', 'long:0.0823', 'february:0.08', 'associated:0.08', 'make:0.069', 'hybrid:0.0609', 'measure:0.0596', 'minister:0.0594', 'reason:0.052', 'possible:0.0429', 'review:0.0313', 'focus:0.0104']+titles_keywords+['nato:0.4472', 'finland:0.3975', 'trudeau:0.363', 'supportive:0.2056', 'joining:0.1966']"
+        ]
+    ],
+    "SRB+RUS+120":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/infotel.ca/Serbia rejects Western calls to join sanctions on Russia.txt+eventbasecode120+eventcode120+avgtone0.4833333333333333+goldsteinscale0.3+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.02631578947368421+news_keywords+['serbia:0.5014', 'ukraines:0.3427', 'eu:0.3421', 'russian:0.2862', 'reject:0.2682', 'join:0.2593', 'allow:0.2498', 'remain:0.2321', 'invasion:0.2111', 'vucic:0.1983', 'sanction:0.1958', 'want:0.18', 'understand:0.1733', 'autocratic:0.1703', 'cite:0.1688', 'decision:0.1622', 'violation:0.1541', 'state:0.1484', 'friendly:0.1476', 'wrong:0.1472', 'happen:0.1457', 'strengthen:0.1335', 'council:0.1271', 'claim:0.1264', 'supply:0.1261', 'rush:0.1197', 'like:0.1027', 'wont:0.098', 'bloody:0.0761', 'arm:0.0297']+titles_keywords+['serbia:0.4855', 'sanctions:0.4027', 'rejects:0.2014', 'join:0.1794', 'western:0.127']"
+        ]
+    ]
+}

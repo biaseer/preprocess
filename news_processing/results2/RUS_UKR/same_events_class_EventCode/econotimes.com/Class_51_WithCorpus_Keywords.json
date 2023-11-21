@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict NATO ready to maintain support for Ukraine for years.txt+eventbasecode51+eventcode51+avgtone0.5037220843672456+goldsteinscale0.67+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['nato:0.5039', 'kyiv:0.4174', 'russiaukraine:0.4149', 'putin:0.3877', 'russias:0.3871', 'reuters:0.2746', 'invasion:0.2658', 'prepare:0.2607', 'conflict:0.2399', 'aid:0.2304', 'security:0.1964', 'howitzer:0.1925', 'inventory:0.1924', 'warn:0.1913', 'shift:0.1869', 'continue:0.1766', 'increase:0.1737', 'require:0.172', 'legislation:0.166', 'thursday:0.162', 'term:0.16', 'arm:0.1549', 'long:0.1475', 'secretary:0.1455', 'modern:0.1329', 'say:0.1311', 'possibility:0.0973', 'send:0.0958', 'stoltenberg:0.0941', 'absolutely:0.0757']+titles_keywords+['nato:0.5196', 'russiaukraine:0.3709', 'years:0.1684', 'maintain:0.126', 'ready:0.0954']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/econotimes.com/From Z to Q when letters become political symbols.txt+eventbasecode51+eventcode51+avgtone0.4834710743801653+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['alphabet:0.4944', 'symbols:0.4594', 'history:0.3196', 'politically:0.2621', 'organizations:0.237', 'usage:0.2327', 'alfa:0.226', 'connotation:0.2135', 'xi:0.2039', 'direction:0.1943', 'anti:0.1939', 'word:0.1867', 'zed:0.1821', 'surname:0.1818', 'flag:0.18', 'end:0.1724', 'emblazon:0.1718', 'russias:0.1702', 'transforms:0.1696', 'slogan:0.1643', 'qanon:0.1641', 'oddity:0.1539', 'national:0.1457', 'postage:0.137', 'make:0.1255', 'covid:0.1177', 'rise:0.1162', 'kuliak:0.1094', 'basis:0.1048', 'far:0.0787']+titles_keywords+['letters:0.5045', 'symbols:0.4806', 'political:0.4614']"
+        ]
+    ]
+}

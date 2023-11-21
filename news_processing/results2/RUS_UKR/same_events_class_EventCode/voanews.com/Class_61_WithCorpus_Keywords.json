@@ -1,0 +1,27 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/voanews.com/Food Crisis Inches Toward Record High in West Central Africa.txt+eventbasecode61+eventcode61+avgtone0.4855555555555556+goldsteinscale0.82+nummentions0.02576197387518142+numarticles0.026468455402465556+numsources0.023026315789473683+news_keywords+['agriculture:0.4856', 'nutrition:0.368', 'drought:0.3551', 'senegal:0.326', 'aid:0.3153', 'economic:0.3044', 'pandemic:0.29', 'countries:0.2851', 'provide:0.242', 'equatorial:0.2322', 'poor:0.2275', 'war:0.2235', 'population:0.2185', 'crisis:0.2156', 'resource:0.2152', 'improve:0.1931', 'sufficiency:0.1832', 'world:0.1809', 'import:0.1628', 'displacement:0.1477', 'trade:0.1471', 'increasingly:0.14', 'scope:0.1383', 'organize:0.1258', 'week:0.1103', 'general:0.1035', 'year:0.0898', 'quadruple:0.0718', 'way:0.0671', 'central:0.0532']+titles_keywords+['africa:0.3891', 'food:0.2659', 'record:0.1705', 'high:0.1692', 'crisis:0.158']"
+        ]
+    ],
+    "EUR+RUS+61":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/voanews.com/Biden Calls to End Normal Trade Relations With Russia.txt+eventbasecode61+eventcode61+avgtone0.48634453781512604+goldsteinscale0.82+nummentions0.04462989840348331+numarticles0.045322697606961566+numsources0.04276315789473684+news_keywords+['putin:0.4901', 'multilateral:0.3236', 'annexation:0.3178', 'tariff:0.3174', 'escalation:0.2932', 'retaliatory:0.2918', 'propaganda:0.2786', 'bipartisan:0.2742', 'enact:0.2653', 'relations:0.256', 'exxon:0.2428', 'administration:0.2343', 'import:0.2273', 'sidestep:0.2249', 'bloc:0.2242', 'eu:0.219', 'isolate:0.1974', 'strip:0.1931', 'seek:0.1821', 'end:0.1805', 'stage:0.1677', 'goldman:0.166', 'friday:0.1583', 'make:0.1458', 'mfn:0.1424', 'galvanize:0.1402', 'lower:0.1385', 'significant:0.1247', 'unlike:0.1158', 'way:0.1146']+titles_keywords+['biden:0.4082', 'russia:0.2404', 'end:0.2195', 'trade:0.1545', 'relations:0.1492']"
+        ]
+    ],
+    "RUS+DEU+61":[
+        [
+            "20220828+../news_crawling/RUS_UKR/p_articles/voanews.com/In Germany the Stuttering Bid to Jumpstart Coal Plants.txt+eventbasecode61+eventcode61+avgtone0.4819651741293532+goldsteinscale0.82+nummentions0.045718432510885344+numarticles0.046410442349528645+numsources0.039473684210526314+news_keywords+['ukraine:0.3797', 'logistics:0.3653', 'coal:0.3588', 'plan:0.3042', 'operation:0.2868', 'prioritize:0.2775', 'turbine:0.2733', 'winter:0.2722', 'government:0.2651', 'current:0.2541', 'rwe:0.2489', 'reduce:0.2394', 'timetable:0.2351', 'feasible:0.2229', 'jumpstart:0.2185', 'warn:0.2169', 'turn:0.2122', 'meantime:0.2116', 'rail:0.205', 'subsidy:0.1975', 'afp:0.1927', 'churn:0.1841', 'world:0.184', 'view:0.1793', 'issue:0.1754', 'stuttering:0.1639', 'generate:0.1581', 'unblock:0.1518', 'bid:0.1275', 'like:0.1253']+titles_keywords+['coal:0.488', 'germany:0.3467', 'stuttering:0.2873', 'jumpstart:0.2386', 'bid:0.0928']"
+        ]
+    ],
+    "RUS+UKR+61":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/voanews.com/Crafters Sell UkrainianThemed Goods to Raise Money for Charity.txt+eventbasecode61+eventcode61+avgtone0.5070422535211268+goldsteinscale0.82+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crafters:0.5039', 'ukrainian:0.4474', 'charity:0.3913', 'etsy:0.3874', 'russias:0.3538', 'infrastructure:0.3167', 'marketplace:0.2741', 'tech:0.2731', 'moskalkov:0.2724', 'proceeds:0.2649', 'product:0.2528', 'website:0.2366', 'platform:0.2162', 'invasion:0.2153', 'emerge:0.2153', 'sell:0.205', 'theme:0.1758', 'help:0.1609', 'thousand:0.1602', 'global:0.1568', 'raise:0.1475', 'send:0.1452', 'story:0.1355', 'focus:0.117', 'directly:0.1161', 'start:0.1066', 'hidden:0.0987', 'way:0.0887', 'maxim:0.0742', 'quickly:0.0388']+titles_keywords+['crafters:0.4837', 'charity:0.4148', 'ukrainianthemed:0.3764', 'sell:0.2922', 'goods:0.279']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220723+../news_crawling/RUS_UKR/p_articles/voanews.com/Heavy Fighting in Ukraine Reports Britains Defense Ministry.txt+eventbasecode61+eventcode61+avgtone0.48942598187311176+goldsteinscale0.82+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraines:0.5162', 'russian:0.3275', 'supply:0.274', 'fighting:0.2735', 'artillery:0.2695', 'deploy:0.2663', 'scope:0.2014', 'sector:0.1854', 'volodymyr:0.1847', 'fund:0.1828', 'friday:0.1825', 'promise:0.1824', 'risk:0.1723', 'farmer:0.1662', 'long:0.1648', 'increasingly:0.1532', 'reports:0.1476', 'tributary:0.1468', 'million:0.1457', 'deal:0.142', 'simultaneously:0.1419', 'follow:0.1374', 'himars:0.134', 'sign:0.129', 'downgrade:0.1254', 'statement:0.1143', 'new:0.1134', 'major:0.1126', 'unable:0.0879', 'state:0.0789']+titles_keywords+['ukraine:0.4909', 'fighting:0.3907', 'heavy:0.1308', 'reports:0.1172', 'ministry:0.0073']"
+        ]
+    ]
+}

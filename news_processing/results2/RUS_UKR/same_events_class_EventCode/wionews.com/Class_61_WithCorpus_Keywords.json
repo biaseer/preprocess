@@ -1,0 +1,15 @@
+{
+    "EGY+RUS+61":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/wionews.com/Middle East to suffer from the grain shortage Russian attack disrupts Ukraines supply chain.txt+eventbasecode61+eventcode61+avgtone0.4696335078534031+goldsteinscale0.82+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4186', 'war:0.3724', 'economy:0.3656', 'intifada:0.364', 'devaluation:0.3425', 'famine:0.3389', 'crisis:0.2905', 'refugee:0.2895', 'strategic:0.2857', 'peril:0.2755', 'concern:0.2703', 'disrupts:0.2632', 'ratio:0.2178', 'increase:0.2173', 'sisi:0.2173', 'stockpile:0.2167', 'column:0.2102', 'afp:0.2081', 'global:0.2039', 'follow:0.1664', 'depend:0.165', 'respond:0.1562', 'plant:0.1508', 'similar:0.1461', 'soon:0.1456', 'dimensional:0.1401', 'include:0.1365', 'paralyze:0.1364', 'deal:0.1272', 'exporter:0.0836']+titles_keywords+['ukraines:0.3805', 'shortage:0.272', 'grain:0.2695', 'attack:0.2474', 'middle:0.1815']"
+        ]
+    ],
+    "EUR+RUS+61":[
+        [
+            "20210820+../news_crawling/RUS_UKR/p_articles/wionews.com/Chinas coal import from Russia surges to record high amid EU ban.txt+eventbasecode61+eventcode61+avgtone0.4797979797979798+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['coal:0.4875', 'ukraine:0.3552', 'putin:0.3347', 'eu:0.3105', 'supply:0.271', 'russiaestimated:0.2668', 'import:0.2502', 'chinas:0.2473', 'war:0.2066', 'tank:0.1871', 'sanction:0.1667', 'problem:0.1538', 'data:0.149', 'surge:0.1415', 'increase:0.1345', 'feasible:0.1168', 'thermal:0.1124', 'know:0.1076', 'significant:0.0963', 'month:0.0937', 'assertedthat:0.0915', 'price:0.0907', 'come:0.0885', 'bruegel:0.0884', 'write:0.0623', 'interference:0.0557', 'trans:0.0548', 'new:0.0483', 'state:0.0465', 'share:0.0388']+titles_keywords+['coal:0.3477', 'import:0.2935', 'russia:0.2801', 'ban:0.1274', 'record:0.0455']"
+        ],
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/wionews.com/Foreign minister Jaishankar hits out at campaignagainst India for buying Russian oil.txt+eventbasecode61+eventcode61+avgtone0.5+goldsteinscale0.82+nummentions0.014150943396226415+numarticles0.011240029006526469+numsources0.009868421052631578+news_keywords+['ukraine:0.4136', 'oil:0.3829', 'supply:0.3125', 'indias:0.2671', 'strategic:0.2642', 'tank:0.201', 'buy:0.187', 'invasion:0.1852', 'read:0.184', 'futures:0.182', 'sovereign:0.1722', 'issue:0.162', 'point:0.1568', 'look:0.1491', 'suspect:0.1433', 'mention:0.137', 'sanction:0.1352', 'campaignagainst:0.1351', 'natural:0.1332', 'importing:0.1309', 'wont:0.1243', 'month:0.1211', 'sure:0.1037', 'xrfh:0.1006', 'jaishankar:0.0952', 'actually:0.0877', 'iusff:0.0872', 'eam:0.0812', 'wider:0.066', 'truss:0.057']+titles_keywords+['jaishankar:0.3468', 'oil:0.3047', 'russian:0.2553', 'campaignagainst:0.1681', 'buying:0.1119']"
+        ]
+    ]
+}

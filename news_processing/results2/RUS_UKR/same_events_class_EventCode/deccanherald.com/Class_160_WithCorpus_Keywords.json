@@ -1,0 +1,12 @@
+{
+    "CHN+UKR+160":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Russias invasion of Ukraine Day six situation on the ground.txt+eventbasecode160+eventcode160+avgtone0.4903846153846153+goldsteinscale0.3+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.009868421052631578+news_keywords+['kyiv:0.5284', 'russias:0.4031', 'russian:0.3981', 'invasion:0.3638', 'war:0.338', 'troop:0.2866', 'weaponry:0.2497', 'tank:0.246', 'truck:0.211', 'flee:0.1962', 'radars:0.1902', 'satellite:0.1861', 'hour:0.1783', 'kilometre:0.1731', 'hit:0.1688', 'people:0.1653', 'tuesday:0.1642', 'organisation:0.1636', 'long:0.1604', 'rebel:0.1599', 'source:0.1595', 'north:0.1589', 'summary:0.1554', 'progress:0.1364', 'area:0.1348', 'stop:0.1327', 'million:0.1256', 'residential:0.1054', 'make:0.0983', 'little:0.0795']+titles_keywords+['ukraine:0.5015', 'invasion:0.3752', 'situation:0.2542', 'day:0.193', 'ground:0.1853']"
+        ]
+    ],
+    "RUS+UKR+160":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Joe Biden bans Russian oil imports amid Ukraine crisis.txt+eventbasecode160+eventcode160+avgtone0.467226890755+goldsteinscale0.3+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.006578947368421052+news_keywords+['putin:0.4822', 'russiaopened:0.4353', 'russiais:0.4109', 'kyiv:0.3977', 'ceasefire:0.381', 'oil:0.3696', 'evacuate:0.3381', 'invasion:0.3208', 'isolaterussia:0.3121', 'baseless:0.2796', 'poltava:0.2635', 'pretext:0.2036', 'import:0.1801', 'allow:0.1785', 'end:0.1773', 'dependent:0.1773', 'shortly:0.1766', 'butbidenhas:0.1706', 'corridor:0.1618', 'world:0.1587', 'states:0.1563', 'write:0.154', 'child:0.15', 'toll:0.1477', 'step:0.1435', 'powerful:0.1399', 'thousand:0.1358', 'official:0.1121', 'deal:0.1045', 'dehydration:0.0901']+titles_keywords+['biden:0.3668', 'ukraine:0.3363', 'oil:0.2739', 'bans:0.1479', 'crisis:0.1239']"
+        ]
+    ]
+}

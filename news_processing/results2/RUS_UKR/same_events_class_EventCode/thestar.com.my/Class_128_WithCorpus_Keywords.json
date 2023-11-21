@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+128":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Russia says it prevented border breach from Ukraine Kyiv calls it fake news.txt+eventbasecode128+eventcode128+avgtone0.46043165467625896+goldsteinscale0.25+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukraine:0.4622', 'rostov:0.3768', 'russian:0.3476', 'invade:0.3416', 'border:0.309', 'troop:0.274', 'reconnaissance:0.2459', 'report:0.2439', 'fake:0.2229', 'guard:0.2114', 'territory:0.2005', 'kill:0.196', 'news:0.1882', 'people:0.1814', 'incident:0.1778', 'breach:0.165', 'diversionary:0.1515', 'prevent:0.1485', 'continue:0.1281', 'say:0.1228', 'tension:0.1221', 'reject:0.1169', 'force:0.1065', 'monday:0.0966', 'statement:0.0955', 'allege:0.0718', 'extreme:0.0603', 'time:0.0474', 'agency:0.0473', 'united:0.0301']+titles_keywords+['kyiv:0.4814', 'fake:0.3273', 'border:0.2817', 'news:0.2592', 'says:0.0435']"
+        ],
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Singapore to cosponsor resolution on human rights situation in Ukraine.txt+eventbasecode128+eventcode128+avgtone0.49328859060402686+goldsteinscale0.25+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.003289473684210526+news_keywords+['ukraine:0.4253', 'sovereignty:0.3527', 'diplomacy:0.3465', 'humanitarian:0.3273', 'peaceful:0.2825', 'unprovoked:0.2523', 'invasion:0.2418', 'contravention:0.2354', 'straits:0.2085', 'urgent:0.1969', 'debate:0.1928', 'abuse:0.1832', 'geneva:0.1823', 'timesasia:0.1746', 'pretext:0.1711', 'say:0.1668', 'representative:0.1646', 'state:0.1564', 'vote:0.1551', 'term:0.1544', 'table:0.1496', 'spar:0.1459', 'umej:0.1398', 'cosponsor:0.1288', 'return:0.1246', 'resolution:0.1241', 'right:0.1054', 'end:0.1038', 'population:0.0912', 'bhatia:0.0879']+titles_keywords+['ukraine:0.467', 'rights:0.2778', 'cosponsor:0.1556', 'human:0.1485', 'resolution:0.1279']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/nbcnewyork.com/MAP See Where Ukraine Has Been Attacked So Far After Russia Launches Invasion.txt+eventbasecode190+eventcode190+avgtone0.48454746136865345+goldsteinscale0.0+nummentions0.09216255442670537+numarticles0.08484408992023205+numsources0.19078947368421054+news_keywords+['ukraine:0.5068', 'putin:0.3554', 'invasion:0.3188', 'annex:0.258', 'military:0.2555', 'update:0.2175', 'news:0.2149', 'crisis:0.2117', 'separatist:0.2035', 'tank:0.2006', 'radioactive:0.1916', 'fighting:0.1858', 'report:0.1766', 'northeast:0.1764', 'advance:0.1709', 'checkpoint:0.1603', 'order:0.1591', 'intense:0.1568', 'president:0.1544', 'telegram:0.1537', 'thursday:0.1526', 'hit:0.1443', 'enter:0.1412', 'surround:0.1361', 'live:0.1274', 'avoid:0.1221', 'thevilcha:0.122', 'repository:0.1122', 'volodymyrsaid:0.0903', 'dozens:0.0719']+titles_keywords+['ukraine:0.4992', 'map:0.3316', 'invasion:0.3109', 'launches:0.1284', 'far:0.0733']"
+        ],
+        [
+            "20220729+../news_crawling/RUS_UKR/p_articles/nbcnewyork.com/Top US Russian Diplomats Speak About Detained Americans Grain Deal Ukraine Denies Missile Strike on.txt+eventbasecode190+eventcode190+avgtone0.4729580573951435+goldsteinscale0.0+nummentions0.05370101596516691+numarticles0.025380710659898477+numsources0.03289473684210526+news_keywords+['crimea:0.4672', 'kremlin:0.4636', 'reuters:0.3571', 'blockade:0.3253', 'briefing:0.3118', 'diplomats:0.3109', 'war:0.2822', 'zelenskyy:0.2815', 'table:0.2634', 'cybersecurity:0.257', 'telegram:0.2375', 'agreement:0.2332', 'detained:0.2282', 'prepare:0.2125', 'term:0.2105', 'anonymous:0.2105', 'decentralize:0.2058', 'soon:0.2043', 'want:0.1892', 'breakthrough:0.189', 'continue:0.1872', 'long:0.1824', 'emphasize:0.1786', 'capability:0.1741', 'accuse:0.1646', 'sector:0.1614', 'greenfield:0.1386', 'griner:0.1323', 'million:0.1281', 'deteriorate:0.1242']+titles_keywords+['russian:0.3487', 'diplomats:0.2593', 'detained:0.1812', 'donbas:0.1679', 'deal:0.1294']"
+        ]
+    ]
+}

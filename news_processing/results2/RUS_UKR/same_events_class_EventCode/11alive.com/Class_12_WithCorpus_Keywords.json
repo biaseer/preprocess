@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+12":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/11alive.com/Nobody wants that war Atlanta woman from Belarus fears impacts of RussiaUkraine conflict.txt+eventbasecode12+eventcode12+avgtone0.4741035856573705+goldsteinscale0.48+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['belarus:0.5256', 'russiaukraine:0.3934', 'conflict:0.35', 'government:0.3162', 'involvement:0.2795', 'travel:0.2447', 'invasion:0.2291', 'capital:0.2249', 'flee:0.2147', 'pandemic:0.2104', 'afraid:0.2091', 'sanction:0.1992', 'villain:0.1917', 'know:0.1909', 'want:0.1889', 'logical:0.1832', 'position:0.1829', 'hear:0.1762', 'import:0.1694', 'rely:0.1677', 'restrict:0.1513', 'like:0.1495', 'woman:0.1471', 'group:0.1469', 'anybody:0.1239', 'baravik:0.1206', 'start:0.1147', 'sight:0.1092', 'resource:0.0988', 'normal:0.0935']+titles_keywords+['russiaukraine:0.4374', 'war:0.4014', 'woman:0.2583', 'atlanta:0.2151', 'wants:0.147']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/11alive.com/Russians shell Europes largest nuclear power plant.txt+eventbasecode12+eventcode12+avgtone0.4739776951672862+goldsteinscale0.48+nummentions0.04100145137880987+numarticles0.04169688179840464+numsources0.05263157894736842+news_keywords+['crimea:0.4851', 'kremlin:0.4385', 'ukrainians:0.4235', 'nato:0.36', 'evacuate:0.356', 'chernobyl:0.3556', 'demilitarization:0.3259', 'war:0.3188', 'kalashnikovs:0.3007', 'takeover:0.2758', 'strategic:0.2701', 'pentagon:0.2697', 'explosion:0.249', 'warn:0.2419', 'chernov:0.235', 'zaporizhzhia:0.2268', 'enter:0.225', 'firefighters:0.2217', 'urgent:0.2186', 'happen:0.1981', 'capital:0.193', 'neutral:0.1835', 'agreement:0.1763', 'surround:0.1675', 'thursday:0.1674', 'gurney:0.1537', 'yield:0.1535', 'like:0.1516', 'ap:0.1487', 'andriy:0.1323']+titles_keywords+['nuclear:0.4249', 'russians:0.3482', 'largest:0.2519', 'shell:0.2209', 'plant:0.162']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+1246":[
+        [
+            "20220202+../news_crawling/RUS_UKR/p_articles/i24news.tv/Ukraine says diplomacy working but urges vigilance.txt+eventbasecode124+eventcode1246+avgtone0.49200000000000005+goldsteinscale0.3+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4761', 'kremlin:0.4059', 'nato:0.3651', 'diplomatic:0.3565', 'moscows:0.3356', 'situate:0.24', 'troop:0.2309', 'oppose:0.214', 'ambiguity:0.208', 'border:0.2034', 'depart:0.2026', 'caution:0.1822', 'brief:0.1782', 'say:0.1693', 'decrease:0.1679', 'power:0.1642', 'scenario:0.1625', 'deliver:0.1587', 'end:0.1573', 'dmytro:0.1311', 'signal:0.1258', 'overture:0.1195', 'bad:0.1133', 'sphere:0.1117', 'believe:0.1044', 'course:0.1022', 'virtually:0.0903', 'number:0.0838', 'limit:0.062', 'add:0.0231']+titles_keywords+['diplomacy:0.5056', 'ukraine:0.394', 'vigilance:0.3215', 'working:0.2527', 'says:0.0736']"
+        ]
+    ],
+    "WST+RUS+1246":[
+        [
+            "20211211+../news_crawling/RUS_UKR/p_articles/i24news.tv/NATO chief rejects Russia demand to deny Ukraine entry.txt+eventbasecode124+eventcode1246+avgtone0.48684210526315785+goldsteinscale0.3+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nato:0.5281', 'crimea:0.4202', 'kremlin:0.3797', 'vladimir:0.3064', 'reject:0.2361', 'annex:0.2253', 'separatist:0.2173', 'declaration:0.1849', 'security:0.1744', 'news:0.1736', 'border:0.1673', 'power:0.167', 'join:0.1668', 'decide:0.1663', 'biden:0.1614', 'stoltenberg:0.1591', 'ally:0.1528', 'reestablish:0.1328', 'general:0.1234', 'talk:0.1214', 'scrap:0.1198', 'donbas:0.117', 'launchpad:0.1123', 'hold:0.1098', 'week:0.0876', 'big:0.0623', 'spheres:0.0568', 'hour:0.0555', 'necessary:0.0439', 'allegedly:0.0175']+titles_keywords+['nato:0.3972', 'ukraine:0.3502', 'deny:0.2316', 'chief:0.1281', 'entry:0.0762']"
+        ]
+    ]
+}

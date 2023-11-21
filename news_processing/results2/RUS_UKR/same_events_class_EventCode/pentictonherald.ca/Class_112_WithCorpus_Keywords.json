@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220710+../news_crawling/RUS_UKR/p_articles/pentictonherald.ca/Large explosions rock Russian military air base in Crimea.txt+eventbasecode112+eventcode112+avgtone0.4675438596491228+goldsteinscale0.4+nummentions0.1346153846153846+numarticles0.1352429296591733+numsources0.20065789473684212+news_keywords+['crimea:0.491', 'kremlin:0.4187', 'explosion:0.4021', 'casualties:0.3691', 'emergency:0.3194', 'zelenskyy:0.2724', 'news:0.2578', 'airbase:0.2522', 'report:0.2518', 'industrial:0.2477', 'shelling:0.2082', 'flee:0.2069', 'know:0.2022', 'fired:0.2015', 'gov:0.1981', 'ap:0.1895', 'town:0.1795', 'reinforce:0.1765', 'fight:0.1722', 'apartment:0.165', 'range:0.1625', 'starukh:0.1591', 'cryptically:0.159', 'big:0.1502', 'like:0.1339', 'photoevgeniy:0.1323', 'way:0.1207', 'include:0.0804', 'restore:0.0797', 'partially:0.0722']+titles_keywords+['crimea:0.4385', 'explosions:0.3575', 'base:0.2067', 'military:0.1928', 'large:0.1369']"
+        ],
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/pentictonherald.ca/A beacon of hope Ukraine Russia sign grain export deal.txt+eventbasecode112+eventcode112+avgtone0.4884853852967228+goldsteinscale0.4+nummentions0.5674891146589259+numarticles0.5678027556200145+numsources0.8947368421052632+news_keywords+['ukraine:0.4557', 'kremlin:0.3659', 'erdogan:0.3636', 'negotiation:0.3443', 'war:0.3371', 'blockade:0.304', 'humanitarian:0.2857', 'infrastructure:0.2498', 'news:0.2324', 'sidenko:0.2303', 'grain:0.2081', 'know:0.2078', 'anticipate:0.1887', 'extend:0.1825', 'incoming:0.1736', 'global:0.1717', 'long:0.1631', 'turn:0.1599', 'eat:0.1542', 'safe:0.1377', 'resume:0.1291', 'separate:0.1247', 'board:0.1227', 'end:0.1205', 'ramaphosa:0.1177', 'agree:0.1057', 'identical:0.0925', 'guterres:0.089', 'exporter:0.0866', 'doesnt:0.0736']+titles_keywords+['ukraine:0.454', 'grain:0.3084', 'deal:0.2324', 'hope:0.2055', 'export:0.2014']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/pentictonherald.ca/Russia renews strikes on Ukraine capital hits other cities.txt+eventbasecode112+eventcode112+avgtone0.46826758147512865+goldsteinscale0.4+nummentions1.0+numarticles1.0+numsources1.0+news_keywords+['kyiv:0.5599', 'putin:0.4114', 'russias:0.4067', 'airstrikes:0.4054', 'truce:0.2896', 'troop:0.2734', 'annexed:0.2667', 'safer:0.2463', 'news:0.2392', 'chernov:0.2313', 'strategic:0.2285', 'industrial:0.2282', 'intensify:0.2236', 'embassy:0.2182', 'victim:0.2165', 'hit:0.2045', 'prepare:0.2002', 'azovstal:0.1963', 'reminder:0.1861', 'bucha:0.1857', 'april:0.1803', 'stay:0.1777', 'mook:0.1739', 'sprawling:0.17', 'nehammer:0.1696', 'people:0.1676', 'exaggeration:0.1394', 'end:0.1297', 'hour:0.1198', 'resurface:0.1165']+titles_keywords+['ukraine:0.3756', 'strikes:0.2603', 'hits:0.2247', 'capital:0.2012', 'renews:0.1045']"
+        ]
+    ]
+}

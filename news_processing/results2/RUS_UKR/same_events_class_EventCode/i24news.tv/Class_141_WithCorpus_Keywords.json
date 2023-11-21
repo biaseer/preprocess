@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+141":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/i24news.tv/Worlds largest plane destroyed by Russian strikes in Ukraine.txt+eventbasecode141+eventcode141+avgtone0.4890282131661442+goldsteinscale0.175+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['plane:0.481', 'ukraine:0.433', 'vladimir:0.4031', 'gostomel:0.3117', 'destroy:0.2996', 'kilometer:0.2922', 'cargo:0.2308', 'weapons:0.2194', 'invasion:0.2142', 'dmytro:0.202', 'hour:0.1838', 'operate:0.1768', 'large:0.1717', 'billion:0.1667', 'pandemic:0.1642', 'flagship:0.1593', 'build:0.1566', 'prevail:0.1563', 'strike:0.1515', 'world:0.1513', 'speed:0.1479', 'dream:0.1242', 'fourth:0.1117', 'cover:0.1086', 'test:0.0966', 'cost:0.0963', 'able:0.0935', 'copy:0.0892', 'group:0.0794', 'add:0.0691']+titles_keywords+['russian:0.3566', 'plane:0.3385', 'largest:0.3169', 'destroyed:0.2074', 'strikes:0.1064']"
+        ]
+    ],
+    "UKR+RUS+141":[
+        [
+            "20220205+../news_crawling/RUS_UKR/p_articles/i24news.tv/In city near border Ukrainians protest Russian threat.txt+eventbasecode141+eventcode141+avgtone0.4756637168141593+goldsteinscale0.175+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.562', 'kyiv:0.5527', 'ukrainians:0.4462', 'kremlin:0.4391', 'vladimir:0.3886', 'kharkiv:0.3513', 'border:0.2986', 'protest:0.2888', 'nato:0.2794', 'separatist:0.2789', 'zelensky:0.263', 'troop:0.2567', 'capital:0.2354', 'warn:0.2107', 'incursion:0.2105', 'expand:0.2033', 'gayeva:0.1843', 'near:0.1802', 'inhabitant:0.1773', 'fear:0.1766', 'seize:0.1692', 'want:0.168', 'population:0.1675', 'live:0.1523', 'industrial:0.1389', 'strong:0.0991', 'saturday:0.094', 'right:0.0754', 'unity:0.0746', 'half:0.0635']+titles_keywords+['ukrainians:0.4809', 'protest:0.3234', 'border:0.2683', 'threat:0.2351', 'city:0.2029']"
+        ]
+    ]
+}

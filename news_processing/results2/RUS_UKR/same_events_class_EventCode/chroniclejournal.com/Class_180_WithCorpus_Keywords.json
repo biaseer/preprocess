@@ -1,0 +1,15 @@
+{
+    "CAN+RUS+180":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/chroniclejournal.com/Punish Russia for sex crimes against Ukrainian women and children Ukraine ambassador.txt+eventbasecode180+eventcode180+avgtone0.4723756906077348+goldsteinscale0.05+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['ukraine:0.4588', 'putin:0.4201', 'victim:0.2938', 'violence:0.2666', 'nazi:0.2646', 'diplomat:0.2565', 'zelenskyy:0.2534', 'condemn:0.2504', 'investigate:0.2487', 'misinformation:0.246', 'horrific:0.2384', 'trudeau:0.2339', 'annexed:0.2294', 'affair:0.2185', 'troop:0.2115', 'child:0.2072', 'remind:0.1902', 'corridor:0.175', 'tariff:0.1652', 'speaking:0.1621', 'book:0.1578', 'detonate:0.1431', 'world:0.1424', 'point:0.1388', 'begin:0.1373', 'reach:0.122', 'modern:0.1053', 'compile:0.0919', 'added:0.0622', 'thanks:0.0424']+titles_keywords+['ukraine:0.4696', 'punish:0.3351', 'crimes:0.2804', 'ambassador:0.2246', 'children:0.2233']"
+        ]
+    ],
+    "RUS+UKR+180":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/chroniclejournal.com/Cyberattack in Ukraine targets government websites.txt+eventbasecode180+eventcode180+avgtone0.4779661016949152+goldsteinscale0.05+nummentions0.2155297532656023+numarticles0.21609862218999276+numsources0.3026315789473684+news_keywords+['cyberattacks:0.5717', 'ukraine:0.4478', 'kremlin:0.4412', 'europol:0.362', 'government:0.3345', 'ransom:0.3206', 'virus:0.3197', 'cryptocurrency:0.2997', 'destabilize:0.2788', 'suspect:0.2711', 'concerned:0.2483', 'know:0.2442', 'coveware:0.2431', 'report:0.2217', 'ceo:0.2166', 'data:0.2151', 'sector:0.2139', 'email:0.1923', 'gang:0.1909', 'agreement:0.1773', 'notpetya:0.1644', 'forward:0.1613', 'implication:0.152', 'pipeline:0.1486', 'ap:0.1412', 'lengthy:0.1247', 'buy:0.1242', 'month:0.1204', 'nearly:0.1015', 'coming:0.0822']+titles_keywords+['cyberattack:0.5158', 'ukraine:0.3902', 'government:0.3049', 'websites:0.2739', 'targets:0.2237']"
+        ],
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/chroniclejournal.com/Rocket attacks hit Ukraines Lviv as Biden visits Poland.txt+eventbasecode180+eventcode180+avgtone0.46776859504132234+goldsteinscale0.05+nummentions0.14949201741654572+numarticles0.15010877447425672+numsources0.15460526315789475+news_keywords+['lviv:0.5278', 'ukrainets:0.4972', 'airstrikes:0.4221', 'bomb:0.2923', 'espionage:0.2771', 'refugee:0.2762', 'alarm:0.262', 'occur:0.2424', 'police:0.2345', 'safe:0.225', 'east:0.2212', 'prepare:0.2176', 'neighboring:0.2159', 'hear:0.2134', 'hit:0.2067', 'rocket:0.2062', 'know:0.2051', 'organize:0.2019', 'update:0.2008', 'biden:0.1928', 'hide:0.1878', 'industrial:0.1689', 'story:0.1596', 'ap:0.1498', 'turn:0.1451', 'sure:0.1318', 'hour:0.1305', 'inga:0.1165', 'focus:0.0904', 'largely:0.0693']+titles_keywords+['lviv:0.4411', 'ukraines:0.3296', 'attacks:0.3154', 'biden:0.3015', 'rocket:0.2172']"
+        ]
+    ]
+}

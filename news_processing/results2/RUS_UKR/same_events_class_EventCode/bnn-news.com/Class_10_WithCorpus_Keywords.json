@@ -1,0 +1,12 @@
+{
+    "RUS+GBR+10":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/bnn-news.com/Russia has halted gas supplies to Europe.txt+eventbasecode10+eventcode10+avgtone0.47164948453608246+goldsteinscale0.5+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['russia:0.4228', 'pipeline:0.3724', 'putins:0.3702', 'gas:0.3156', 'infrastructure:0.2759', 'gazprom:0.2757', 'regulator:0.254', 'crisis:0.2148', 'outage:0.1976', 'extend:0.1715', 'promise:0.1715', 'prevent:0.1708', 'approve:0.1623', 'accusation:0.1593', 'president:0.157', 'kilometer:0.1396', 'winter:0.1386', 'troop:0.1236', 'der:0.1226', 'robert:0.1137', 'export:0.109', 'email:0.0935', 'northeastern:0.0923', 'resume:0.0901', 'week:0.0868', 'ease:0.0797', 'price:0.0653', 'really:0.0495', 'accord:0.0495', 'potentially:0.0328']+titles_keywords+['russia:0.4096', 'gas:0.3505', 'halted:0.3132', 'europe:0.2562', 'supplies:0.0953']"
+        ]
+    ],
+    "RUS+WST+10":[
+        [
+            "20220725+../news_crawling/RUS_UKR/p_articles/bnn-news.com/Latvian expert says Russia doesnt care about its troops.txt+eventbasecode10+eventcode10+avgtone0.48839907192575405+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraines:0.4341', 'nato:0.3442', 'vladimir:0.3368', 'strategic:0.2625', 'military:0.2501', 'prepare:0.2232', 'annex:0.2069', 'battlefield:0.2027', 'expert:0.1968', 'communications:0.1938', 'interfere:0.1891', 'turn:0.188', 'die:0.1755', 'rta:0.1741', 'realistic:0.1596', 'underway:0.1569', 'peace:0.1542', 'decide:0.1528', 'want:0.1486', 'end:0.1216', 'believe:0.1204', 'counter:0.0854', 'line:0.0823', 'tide:0.0778', 'new:0.0766', 'instrument:0.0765', 'ive:0.0748', 'doesnt:0.0731', 'unlike:0.0718', 'export:0.0207']+titles_keywords+['latvian:0.3494', 'troops:0.2889', 'care:0.1896', 'doesnt:0.1386', 'expert:0.104']"
+        ]
+    ]
+}

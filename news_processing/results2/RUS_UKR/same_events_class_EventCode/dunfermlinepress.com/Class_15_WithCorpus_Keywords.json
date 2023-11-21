@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+15":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/dunfermlinepress.com/Police More than 900 civilian bodies found in Kyiv region.txt+eventbasecode15+eventcode15+avgtone0.4688644688644688+goldsteinscale0.5+nummentions0.09433962264150944+numarticles0.09499637418419145+numsources0.10526315789473684+news_keywords+['kyiv:0.5645', 'soviet:0.4246', 'airstrikes:0.4045', 'russias:0.3511', 'moskva:0.314', 'pentagon:0.3083', 'casualty:0.284', 'news:0.2666', 'police:0.2591', 'annexed:0.2573', 'nationalist:0.2563', 'explosion:0.2561', 'survive:0.2551', 'diversion:0.2308', 'execute:0.22', 'warning:0.218', 'intensify:0.2146', 'hit:0.2082', 'industrial:0.2071', 'donbas:0.2051', 'cite:0.1913', 'bucha:0.1905', 'data:0.1725', 'shelling:0.1692', 'anonymity:0.163', 'understand:0.162', 'andriy:0.1587', 'weekend:0.1542', 'heard:0.1449', 'warm:0.1222']+titles_keywords+['kyiv:0.4262', 'bodies:0.3739', 'police:0.3241', 'civilian:0.2936', '900:0.2421']"
+        ],
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/dunfermlinepress.com/Russian soldier pleads guilty in first war crimes trial of Ukraine conflict.txt+eventbasecode15+eventcode15+avgtone0.44537815126050395+goldsteinscale0.5+nummentions0.3164005805515239+numarticles0.31689630166787525+numsources0.32894736842105265+news_keywords+['kyiv:0.4059', 'russians:0.3502', 'war:0.3363', 'kalashnikov:0.3323', 'sergeant:0.3233', 'suspect:0.3198', 'hague:0.3025', 'pleads:0.2969', 'law:0.2877', 'venediktovas:0.2784', 'kill:0.2657', 'absentia:0.255', 'case:0.243', 'report:0.237', 'tank:0.2205', 'confession:0.2201', 'torture:0.2139', 'video:0.2033', 'invader:0.1991', 'shishimarin:0.1909', 'look:0.165', 'know:0.1614', 'order:0.1456', 'sumy:0.1201', 'short:0.1157', 'metre:0.1103', 'way:0.1011', 'ready:0.093', 'pavement:0.0888', 'include:0.0691']+titles_keywords+['russian:0.36', 'pleads:0.2841', 'soldier:0.2603', 'crimes:0.1382', 'conflict:0.0834']"
+        ]
+    ]
+}

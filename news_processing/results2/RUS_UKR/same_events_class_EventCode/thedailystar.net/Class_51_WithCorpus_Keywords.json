@@ -1,0 +1,17 @@
+{
+    "BGD+RUS+51":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Bangladesh to stay neutral at WTO.txt+eventbasecode51+eventcode51+avgtone0.4967462039045553+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['wto:0.4783', 'belarus:0.3763', 'commerce:0.2553', 'aggression:0.2193', 'undermine:0.2008', 'democracy:0.1911', 'unprovoked:0.1909', 'trade:0.1823', 'neutral:0.1795', 'letter:0.1731', 'rahman:0.17', 'continue:0.1669', 'peace:0.1658', 'policyfriendship:0.1637', 'union:0.1513', 'read:0.1512', 'suspend:0.1468', 'imposition:0.1413', 'urgently:0.139', 'case:0.1368', 'convince:0.1353', 'process:0.1317', 'concession:0.1238', 'include:0.121', 'future:0.1161', 'fit:0.1052', 'say:0.0961', 'accessionrelated:0.073', 'daily:0.0695', 'general:0.0625']+titles_keywords+['bangladesh:0.4448', 'wto:0.3619', 'neutral:0.3169', 'stay:0.0995']"
+        ]
+    ],
+    "CHN+RUS+51":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/thedailystar.net/China to immediately provide aid to Ukraine says friendship with Russia rock solid.txt+eventbasecode51+eventcode51+avgtone0.5061728395061729+goldsteinscale0.67+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.029605263157894735+news_keywords+['ukraine:0.4422', 'putin:0.3787', 'humanitarian:0.3387', 'beijing:0.307', 'friendship:0.2506', 'strategic:0.2334', 'crisis:0.2272', 'meeting:0.2129', 'coordination:0.2021', 'wang:0.2003', 'concern:0.1967', 'invasion:0.1941', 'soon:0.1808', 'happen:0.1801', 'continue:0.1789', 'news:0.1768', 'resolve:0.1753', 'willing:0.1555', 'western:0.1528', 'jinping:0.1516', 'forward:0.1374', 'require:0.132', 'winter:0.1212', 'sign:0.104', 'hour:0.1032', 'range:0.1006', 'possible:0.083', 'fuel:0.0711', 'bright:0.0651', 'contradiction:0.0587']+titles_keywords+['ukraine:0.3488', 'friendship:0.2549', 'immediately:0.198', 'aid:0.1879', 'rock:0.1066']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Russia lost a third of its forces in Ukraine.txt+eventbasecode51+eventcode51+avgtone0.48321554770318015+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4817', 'combat:0.3077', 'troop:0.3055', 'reuters:0.2871', 'evacuate:0.2722', 'underway:0.2642', 'update:0.2501', 'strategic:0.2483', 'refugee:0.2358', 'result:0.2293', 'attrition:0.2268', 'advance:0.2261', 'petrenko:0.218', 'infrastructure:0.2154', 'sievierodonetsk:0.2135', 'arrive:0.2011', 'fell:0.1898', 'direction:0.1859', 'donbas:0.1854', 'switch:0.1711', 'km:0.1576', 'second:0.1517', 'night:0.1443', 'focus:0.1387', 'broader:0.1384', 'month:0.1351', 'counteroffensive:0.1303', 'care:0.1299', 'whilst:0.1263', 'welcome:0.0692']+titles_keywords+['ukraine:0.4504', 'russia:0.3999', 'lost:0.2107', 'forces:0.1811']"
+        ]
+    ]
+}

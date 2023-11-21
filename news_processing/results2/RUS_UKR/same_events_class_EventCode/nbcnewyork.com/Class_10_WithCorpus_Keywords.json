@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220515+../news_crawling/RUS_UKR/p_articles/nbcnewyork.com/Ukrainian Band Kalush Orchestra Wins Eurovision Amid War.txt+eventbasecode10+eventcode10+avgtone0.5103181427343079+goldsteinscale0.5+nummentions0.021407837445573296+numarticles0.022117476432197244+numsources0.03289473684210526+news_keywords+['eurovision:0.6476', 'ukraines:0.4274', 'music:0.3279', 'lyric:0.2768', 'zelenskyy:0.2719', 'victory:0.268', 'separatist:0.2574', 'participate:0.2563', 'stefania:0.2128', 'voiceover:0.2108', 'invasion:0.2045', 'rotterdam:0.2025', 'amid:0.1979', 'world:0.1957', 'traditional:0.1881', 'kalush:0.1839', 'journalist:0.1811', 'organization:0.1774', 'stay:0.1704', 'somber:0.1657', 'big:0.1652', 'tiktok:0.162', 'hat:0.1539', 'prove:0.1493', 'genderless:0.1437', 'welcome:0.129', 'reminder:0.1158', 'oh:0.1115', 'numerous:0.1075', 'send:0.1055']+titles_keywords+['eurovision:0.5321', 'ukrainian:0.3699', 'kalush:0.3121', 'war:0.2679', 'band:0.2578']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/nbcnewyork.com/Biden Russia War a Genocide Trying to Wipe Out Ukraine.txt+eventbasecode10+eventcode10+avgtone0.46296296296296297+goldsteinscale0.5+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.023026315789473683+news_keywords+['putin:0.495', 'genocide:0.4215', 'biden:0.4201', 'president:0.3778', 'intervene:0.2747', 'accuse:0.246', 'controversy:0.2331', 'administration:0.2029', 'nuclear:0.2002', 'imply:0.1982', 'block:0.1875', 'tutsis:0.1833', 'say:0.1775', 'europe:0.1745', 'dramatic:0.1536', 'hesitate:0.1524', 'wipe:0.1368', 'bloody:0.1367', 'articulate:0.1365', 'learn:0.1351', 'clearer:0.1335', 'direct:0.1216', 'dodge:0.1181', 'month:0.1021', 'idea:0.0939', 'update:0.0905', 'spike:0.0836', 'sure:0.0789', 'price:0.0684', 'wasnt:0.0535']+titles_keywords+['biden:0.5002', 'genocide:0.4654', 'ukraine:0.4317', 'war:0.3981', 'trying:0.1738']"
+        ]
+    ]
+}

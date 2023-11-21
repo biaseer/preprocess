@@ -1,0 +1,12 @@
+{
+    "NLD+RUS+20":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/dutchnews.nl/Rutte ban on Russian oil would have enormous consquences for Europe.txt+eventbasecode20+eventcode20+avgtone0.4739696312364425+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['russia:0.4424', 'putins:0.3798', 'nato:0.3796', 'rutte:0.3081', 'boycott:0.2804', 'economy:0.2775', 'fuel:0.2609', 'boris:0.2562', 'militarily:0.2523', 'sanction:0.2436', 'president:0.232', 'invasion:0.2191', 'news:0.2129', 'dependency:0.1922', 'risk:0.1743', 'confront:0.1734', 'import:0.1577', 'continue:0.1519', 'reduce:0.1433', 'counterpart:0.1415', 'great:0.1362', 'make:0.1356', 'extent:0.1337', 'direct:0.1287', 'volodymyr:0.1283', 'meant:0.1194', 'anp:0.1084', 'backing:0.0989', 'price:0.0747', 'send:0.0668']+titles_keywords+['oil:0.3693', 'russian:0.2906', 'europe:0.2719', 'rutte:0.2597', 'ban:0.2531']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/dutchnews.nl/Ukraine is part of the European family but EU leaders dont back fast track EU.txt+eventbasecode20+eventcode20+avgtone0.5116279069767442+goldsteinscale0.65+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraines:0.4295', 'eu:0.3498', 'entry:0.2807', 'dutchnews:0.2628', 'want:0.2505', 'join:0.2452', 'pursue:0.2367', 'zelenski:0.2241', 'political:0.2165', 'rutte:0.2145', 'versailles:0.2115', 'lengthy:0.2072', 'procedure:0.1695', 'fast:0.1679', 'leader:0.1677', 'commission:0.1651', 'publish:0.1497', 'hour:0.147', 'month:0.1452', 'feature:0.1431', 'photo:0.1384', 'case:0.1355', 'end:0.1335', 'talk:0.1322', 'waal:0.1182', 'state:0.1163', 'anp:0.1148', 'according:0.103', 'thank:0.0662', 'maybe:0.0598']+titles_keywords+['ukraine:0.3837', 'entry:0.167', 'family:0.1223', 'fast:0.1208', 'dont:0.0196']"
+        ]
+    ]
+}

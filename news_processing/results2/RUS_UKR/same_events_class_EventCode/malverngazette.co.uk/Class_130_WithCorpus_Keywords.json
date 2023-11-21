@@ -1,0 +1,20 @@
+{
+    "RUS+RUS+130":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/malverngazette.co.uk/Boris Johnson announcement on Ukraine today how to watch.txt+eventbasecode130+eventcode130+avgtone0.4778325123152709+goldsteinscale0.27999999999999997+nummentions0.09216255442670537+numarticles0.09282088469905729+numsources0.13157894736842105+news_keywords+['putin:0.4386', 'ukrainians:0.3707', 'borisjohnson:0.3413', 'justintrudeau:0.3131', 'border:0.2171', 'debate:0.2152', 'visa:0.2118', 'johnson:0.2107', 'downing:0.2095', 'uk:0.2093', 'attack:0.2044', 'minister:0.1694', 'alongside:0.1656', 'privilege:0.1607', 'sanction:0.1572', 'announcement:0.1562', 'minpres:0.1479', 'street:0.1412', 'lively:0.1402', 'flee:0.1324', 'right:0.1248', 'rutte:0.1247', 'watch:0.124', 'meet:0.1202', 'prime:0.1029', 'misuse:0.0974', 'process:0.0886', 'story:0.065', 'welcome:0.0549', 'thousand:0.0499']+titles_keywords+['watch:0.3749', 'ukraine:0.3668', 'boris:0.3526', 'announcement:0.3016', 'johnson:0.2417']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220121+../news_crawling/RUS_UKR/p_articles/malverngazette.co.uk/Biden issues new warning to Russia over invading Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4766949152542373+goldsteinscale0.27999999999999997+nummentions0.3835268505079826+numarticles0.3839738941261784+numsources0.5098684210526315+news_keywords+['crimea:0.4679', 'putin:0.4623', 'nato:0.4477', 'invade:0.4199', 'russias:0.3856', 'war:0.377', 'treaty:0.3734', 'biden:0.3289', 'pursue:0.2628', 'prepare:0.2626', 'border:0.2573', 'sanction:0.2264', 'remind:0.2166', 'coordinate:0.216', 'prompt:0.2146', 'concern:0.2104', 'know:0.2027', 'news:0.2021', 'manoeuvre:0.1982', 'order:0.19', 'remark:0.1876', 'risky:0.183', 'cite:0.1758', 'dramatic:0.1655', 'avalanche:0.1505', 'willing:0.1418', 'current:0.1417', 'long:0.1398', 'include:0.1367', 'february:0.1238']+titles_keywords+['biden:0.4173', 'ukraine:0.3224', 'warning:0.2937', 'invading:0.215', 'new:0.1043']"
+        ],
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/malverngazette.co.uk/Truss draws up hit list of oligarchs to face sanctions over Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4747292418772563+goldsteinscale0.27999999999999997+nummentions0.4477503628447025+numarticles0.448150833937636+numsources0.4473684210526316+news_keywords+['putin:0.5339', 'oligarchs:0.4868', 'ukraines:0.4851', 'kyiv:0.4411', 'sovereignty:0.3223', 'sanction:0.3077', 'tory:0.2647', 'invasion:0.2552', 'table:0.2512', 'unprovoked:0.2476', 'telegraph:0.2473', 'pursue:0.2342', 'secretary:0.2159', 'know:0.1962', 'prepare:0.1938', 'hide:0.1832', 'fraud:0.1706', 'truss:0.158', 'debate:0.1537', 'end:0.1468', 'long:0.1404', 'mr:0.1352', 'story:0.128', 'suggest:0.1231', 'sure:0.1229', 'step:0.1129', 'ratchet:0.1103', 'weve:0.1076', 'world:0.1069', 'wage:0.1064']+titles_keywords+['oligarchs:0.449', 'sanctions:0.419', 'truss:0.4115', 'ukraine:0.3588', 'list:0.2469']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/malverngazette.co.uk/Ukraine officials come under shelling attack on front as invasion fears rise.txt+eventbasecode130+eventcode130+avgtone0.46223776223776225+goldsteinscale0.27999999999999997+nummentions0.3076923076923077+numarticles0.30819434372733867+numsources0.7203947368421053+news_keywords+['ukraine:0.4997', 'kremlin:0.4393', 'nato:0.4225', 'invade:0.3746', 'evacuation:0.3741', 'separatists:0.3488', 'peaceful:0.3267', 'military:0.3257', 'sinenkov:0.2927', 'escalation:0.29', 'prepare:0.2802', 'border:0.2605', 'news:0.2569', 'worry:0.238', 'reminder:0.2109', 'drill:0.2011', 'watch:0.1953', 'report:0.1946', 'cite:0.1864', 'order:0.1802', 'secretary:0.1758', 'debate:0.1755', 'biden:0.1737', 'continue:0.1696', 'saturday:0.1567', 'long:0.1336', 'major:0.1214', 'send:0.0988', 'thousand:0.0743', 'possible:0.0653']+titles_keywords+['ukraine:0.3279', 'attack:0.2758', 'fears:0.2148', 'shelling:0.1761', 'officials:0.1504']"
+        ]
+    ]
+}

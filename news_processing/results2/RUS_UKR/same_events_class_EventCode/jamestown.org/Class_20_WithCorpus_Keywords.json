@@ -1,0 +1,17 @@
+{
+    "RUS+MDV+20":[
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/jamestown.org/Moscow May Not Be Able to Count on North Caucasians Any Longer to Fill Draft.txt+eventbasecode20+eventcode20+avgtone0.47680690399137005+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['caucasus:0.4761', 'comrade:0.4243', 'conscription:0.4059', 'putins:0.3849', 'ru:0.347', 'dmitrovgrad:0.3411', 'demographic:0.2848', 'chernovik:0.2817', 'draftee:0.272', 'conflict:0.2653', 'progeny:0.25', 'invades:0.2414', 'concerned:0.2336', 'government:0.2287', 'transform:0.2081', 'general:0.1921', 'consequence:0.1882', 'news:0.1872', 'north:0.1745', 'write:0.1702', 'negatively:0.1598', 'assume:0.1587', 'suggest:0.147', 'long:0.1466', 'state:0.1317', 'natural:0.1061', 'additionally:0.0988', 'sent:0.0884', 'idel:0.0824', 'pattern:0.0789']+titles_keywords+['moscow:0.4847', 'draft:0.3418', 'caucasians:0.3228', 'north:0.1742', 'count:0.1041']"
+        ]
+    ],
+    "RUS+RUS+20":[
+        [
+            "20220715+../news_crawling/RUS_UKR/p_articles/jamestown.org/Moscow Turns to Regions to Replace Losses and Boost Forces in Ukraine.txt+eventbasecode20+eventcode20+avgtone0.49281221922731355+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4733', 'kremlin:0.4625', 'ru:0.3985', 'mobilization:0.3941', 'battalion:0.3646', 'recruit:0.3557', 'federation:0.3275', 'invade:0.3126', 'strategic:0.2913', 'dispatch:0.2839', 'extend:0.2314', 'ahead:0.2242', 'turn:0.2184', 'undermines:0.2156', 'vk:0.2096', 'warsa:0.2004', 'news:0.1861', 'issue:0.1797', 'write:0.1786', 'trt:0.1756', 'procure:0.1729', 'choose:0.1724', 'men:0.1638', 'promise:0.1512', 'population:0.1495', 'age:0.148', 'president:0.1448', 'buryats:0.143', 'spring:0.1238', 'idel:0.1132']+titles_keywords+['moscow:0.4555', 'regions:0.3675', 'replace:0.1964', 'turns:0.1564', 'forces:0.1108']"
+        ]
+    ],
+    "WST+UKR+20":[
+        [
+            "20210603+../news_crawling/RUS_UKR/p_articles/jamestown.org/Defense Reform in Ukraine The Leadership Challenge.txt+eventbasecode20+eventcode20+avgtone0.49171539961013644+goldsteinscale0.65+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['nato:0.4504', 'ukrainian:0.3591', 'military:0.3555', 'directorate:0.3535', 'ukrmilitary:0.3137', 'armyinform:0.2877', 'government:0.2853', 'comdefencepolicydirectoratemodu:0.2834', 'procurement:0.266', 'change:0.258', 'strategy:0.2356', 'incompetence:0.2224', 'implement:0.2145', 'rank:0.1871', 'general:0.1824', 'prerequisite:0.1558', 'weapon:0.1552', 'current:0.1363', 'assistance:0.1359', 'forces:0.1351', 'continue:0.1327', 'train:0.1299', 'state:0.1201', 'reminder:0.1183', 'report:0.1119', 'analogous:0.0964', 'rada:0.0896', 'long:0.0804', 'million:0.0502', 'define:0.0321']+titles_keywords+['ukraine:0.4201', 'reform:0.3965', 'leadership:0.3409', 'defense:0.2783', 'challenge:0.1011']"
+        ]
+    ]
+}

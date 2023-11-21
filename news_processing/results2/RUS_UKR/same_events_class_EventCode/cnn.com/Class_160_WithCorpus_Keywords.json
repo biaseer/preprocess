@@ -1,0 +1,10 @@
+{
+    "BEL+RUS+160":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/cnn.com/February 24 2022 RussiaUkraine news.txt+eventbasecode160+eventcode160+avgtone0.4783627839884601+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5041', 'airstrikes:0.4132', 'nato:0.3938', 'putins:0.3728', 'invasion:0.3607', 'government:0.2999', 'briefing:0.2822', 'troop:0.2806', 'protest:0.2701', 'humanitarian:0.2668', 'consulates:0.2514', 'news:0.2439', 'escalate:0.2416', 'peace:0.2336', 'trudeau:0.2281', 'coordinate:0.2224', 'detain:0.2156', 'capital:0.2124', 'prepare:0.2073', 'read:0.1779', 'contingency:0.1687', 'shagina:0.1617', 'function:0.1578', 'january:0.1394', 'day:0.1393', 'prepositioned:0.1193', 'oh:0.1172', 'total:0.1158', 'astanin:0.1034', 'export:0.0957']+titles_keywords+['russiaukraine:0.5482', '2022:0.4881', 'february:0.365', 'news:0.351', '24:0.2075']"
+        ],
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/cnn.com/EU blacklists 21 Russian airlines over serious safety concerns.txt+eventbasecode160+eventcode160+avgtone0.49608355091383805+goldsteinscale0.3+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['rusjet:0.4214', 'putin:0.3962', 'blacklist:0.3684', 'russias:0.3619', 'rossiya:0.3592', 'airlines:0.3359', 'sanction:0.3175', 'eus:0.2932', 'izhavia:0.2827', 'allow:0.2486', 'safety:0.2329', 'smartavia:0.2272', 'concern:0.2264', 'airworthiness:0.222', 'certify:0.2099', 'invasion:0.2067', 'statement:0.1944', 'union:0.1902', 'aurora:0.1893', 'action:0.188', 'bloc:0.1825', 'enter:0.1613', 'skol:0.1462', 'attempt:0.1317', 'want:0.1213', 'yamal:0.1146', 'solely:0.0993', 'vlean:0.0919', 'week:0.0914', 'make:0.0775']+titles_keywords+['blacklists:0.4668', 'airlines:0.3302', 'russian:0.2985', '21:0.1278', 'concerns:0.0952']"
+        ]
+    ]
+}

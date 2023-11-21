@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+130":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Airbnb cancels reservations in Russia and Belarus.txt+eventbasecode130+eventcode130+avgtone0.4869047619047619+goldsteinscale0.27999999999999997+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['belarus:0.4403', 'bookings:0.3648', 'airbnb:0.3596', 'visa:0.334', 'war:0.2933', 'guests:0.2753', 'cancelled:0.2658', 'sanction:0.2612', 'block:0.2504', 'profit:0.2385', 'availability:0.2309', 'situation:0.2263', 'comply:0.2204', 'bank:0.214', 'occur:0.2133', 'statement:0.2028', 'untenable:0.1928', 'temporarily:0.1828', 'platform:0.1795', 'list:0.1744', 'continue:0.1612', 'national:0.1572', 'april:0.1509', 'zero:0.1405', 'join:0.138', 'additional:0.1238', 'share:0.1234', 'search:0.1215', 'meaning:0.1056', 'levy:0.1054']+titles_keywords+['belarus:0.4041', 'airbnb:0.3992', 'russia:0.3241', 'reservations:0.32', 'cancels:0.2417']"
+        ]
+    ],
+    "WST+RUS+130":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Russia expels US embassys secondincommand in Moscow amid Ukraine tensions.txt+eventbasecode130+eventcode130+avgtone0.464080459770115+goldsteinscale0.27999999999999997+nummentions0.019593613933236574+numarticles0.017766497461928935+numsources0.02631578947368421+news_keywords+['moscow:0.443', 'diplomat:0.3667', 'nato:0.36', 'ceasefire:0.324', 'expel:0.2995', 'invasion:0.2982', 'visa:0.2714', 'zakharova:0.2613', 'retaliatory:0.2605', 'flag:0.2508', 'tensions:0.2475', 'operation:0.2182', 'department:0.2157', 'translation:0.2106', 'baseless:0.2054', 'order:0.1688', 'prepare:0.1601', 'biden:0.1579', 'pretext:0.1567', 'donbas:0.1549', 'intend:0.1455', 'month:0.1444', 'step:0.1384', 'continue:0.1335', 'state:0.1301', 'productively:0.127', 'secondincommand:0.1166', 'automate:0.0758', 'longstanding:0.0746', 'parity:0.0533']+titles_keywords+['moscow:0.452', 'embassys:0.3635', 'expels:0.306', 'secondincommand:0.189', 'tensions:0.1224']"
+        ]
+    ]
+}

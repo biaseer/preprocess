@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220128+../news_crawling/RUS_UKR/p_articles/brentwoodlive.co.uk/What the papers say January 28.txt+eventbasecode192+eventcode192+avgtone0.46259842519685035+goldsteinscale0.025+nummentions0.17271407837445574+numarticles0.17331399564902103+numsources0.15460526315789475+news_keywords+['labour:0.4299', 'thatcher:0.3323', 'ukraine:0.3258', 'monarchy:0.3119', 'crisis:0.3073', 'telegraph:0.3068', 'debate:0.2934', 'sanction:0.2831', 'privilege:0.2825', 'boris:0.268', 'secretary:0.2621', 'thedaily:0.2574', 'downing:0.2546', 'cite:0.234', 'covid:0.2279', 'important:0.2277', 'january:0.2229', 'invade:0.2219', 'financial:0.2185', 'fear:0.2149', 'prepare:0.2111', 'lively:0.2091', 'misuse:0.2044', 'tax:0.2018', 'independent:0.2', 'street:0.1996', 'scrap:0.1938', 'mailreports:0.1928', 'pound:0.19', 'repeat:0.172']+titles_keywords+['january:0.5407', 'papers:0.3629', '28:0.291', 'say:0.1628']"
+        ],
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/brentwoodlive.co.uk/Ukraine rejects Belarus as venue for talks as Russian troops enter Kharkiv.txt+eventbasecode192+eventcode192+avgtone0.48+goldsteinscale0.025+nummentions0.014150943396226415+numarticles0.014865844815083394+numsources0.03289473684210526+news_keywords+['ukraine:0.541', 'kremlin:0.4411', 'nato:0.3966', 'war:0.346', 'border:0.26', 'azov:0.2588', 'overthrow:0.2427', 'map:0.2373', 'escalates:0.2372', 'ahead:0.2299', 'strategic:0.2278', 'veto:0.2249', 'allys:0.2186', 'warn:0.2178', 'pipeline:0.2007', 'want:0.1934', 'investigate:0.1849', 'corridor:0.1834', 'replace:0.1742', 'general:0.1735', 'airfields:0.1695', 'responding:0.1687', 'tech:0.1564', 'ready:0.1541', 'allow:0.1516', 'end:0.1483', 'long:0.1327', 'focus:0.1237', 'agree:0.1043', 'possible:0.0691']+titles_keywords+['belarus:0.3703', 'kharkiv:0.2895', 'enter:0.1589', 'rejects:0.1405', 'talks:0.1236']"
+        ]
+    ],
+    "UKR+RUS+192":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/brentwoodlive.co.uk/Ukraine sees openings as Russia fixates on besieged Mariupol.txt+eventbasecode192+eventcode192+avgtone0.4739382239382239+goldsteinscale0.025+nummentions0.29390420899854863+numarticles0.29441624365482233+numsources0.375+news_keywords+['crimea:0.5549', 'ukrainians:0.4514', 'moscows:0.4114', 'war:0.3574', 'separatist:0.3083', 'redeployment:0.2875', 'zelensky:0.2623', 'journalist:0.249', 'flee:0.2466', 'capital:0.2415', 'destroy:0.2355', 'corridor:0.2246', 'afar:0.2082', 'crosshairs:0.1985', 'mriya:0.1933', 'continue:0.188', 'difference:0.1781', 'plant:0.1697', 'heed:0.1691', 'left:0.1679', 'hub:0.1638', 'bucha:0.1585', 'capability:0.1505', 'informally:0.15', 'ap:0.1498', 'pre:0.1473', 'gain:0.1418', 'warm:0.1357', 'agree:0.1137', 'audio:0.1016']+titles_keywords+['ukraine:0.4158', 'openings:0.3132', 'mariupol:0.2361', 'besieged:0.1752', 'fixates:0.1354']"
+        ]
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "RUS+RUS+46":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/china.org.cn/Zelensky says talks with Russia to continue despite atrocities of Russian military.txt+eventbasecode46+eventcode46+avgtone0.46226415094339623+goldsteinscale0.85+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.01644736842105263+news_keywords+['kiev:0.4626', 'zelensky:0.4083', 'russian:0.3711', 'war:0.2923', 'provocation:0.2857', 'kill:0.251', 'turkey:0.2509', 'continue:0.2296', 'mediation:0.2294', 'volodymyr:0.2171', 'military:0.2002', 'talk:0.196', 'regime:0.1836', 'president:0.1788', 'news:0.1763', 'allege:0.1742', 'bucha:0.1572', 'report:0.1535', 'statement:0.1522', 'km:0.1381', 'case:0.129', 'emphasize:0.1272', 'video:0.1066', 'withdraw:0.1063', 'child:0.1008', 'despite:0.1006', 'april:0.0684', 'kind:0.0544', 'add:0.038', 'difficult:0.0305']+titles_keywords+['zelensky:0.5517', 'talks:0.2594', 'russia:0.2541', 'atrocities:0.1849', 'continue:0.1667']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [],
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/china.org.cn/Ukrainian president seeks talks with Russia.txt+eventbasecode46+eventcode46+avgtone0.49557522123893805+goldsteinscale0.85+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4799', 'zelensky:0.44', 'ukraine:0.4381', 'vladimir:0.4251', 'ukrainians:0.3993', 'russian:0.3565', 'president:0.303', 'negotiation:0.2853', 'talk:0.2742', 'volodymyr:0.2298', 'donbass:0.228', 'kill:0.2142', 'operation:0.1945', 'military:0.1795', 'authorize:0.1659', 'televise:0.1588', 'want:0.1578', 'say:0.1316', 'make:0.121', 'confirm:0.1204', 'address:0.1087', 'thursday:0.1062', 'official:0.1032', 'hold:0.1027', 'publish:0.0912', 'statement:0.0553', 'earlier:0.0473', 'injured:0.0428', 'accord:0.0312', 'installation:-0.0039']+titles_keywords+['ukrainian:0.3985', 'russia:0.2714', 'talks:0.2495', 'president:0.1914', 'seeks:0.0554']"
+        ],
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/china.org.cn/Ukraine Russia to continue peace talks on Wednesday Ukrainian negotiator.txt+eventbasecode46+eventcode46+avgtone0.4965277777777778+goldsteinscale0.85+nummentions0.102322206095791+numarticles0.07940536620739666+numsources0.08552631578947369+news_keywords+['ukraine:0.4312', 'negotiation:0.4116', 'ukrainian:0.3711', 'talk:0.3434', 'peace:0.3352', 'compromise:0.3335', 'negotiator:0.3047', 'russian:0.2894', 'podolyak:0.2406', 'continue:0.2328', 'mykhailo:0.2022', 'room:0.1755', 'wednesday:0.1708', 'delegation:0.1669', 'tweet:0.1619', 'round:0.154', 'presidential:0.1204', 'fourth:0.1147', 'say:0.1134', 'process:0.1109', 'start:0.1084', 'contradiction:0.1077', 'advisor:0.0831', 'link:0.0677', 'video:0.0642', 'certainly:0.063', 'difficult:0.0057', 'fundamental:0.0055', 'member:0.0039', 'viscous:-0.0344']+titles_keywords+['ukraine:0.3296', 'peace:0.3057', 'negotiator:0.2896', 'continue:0.1906', 'wednesday:0.1463']"
+        ],
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/china.org.cn/Ukraine Russia conduct fifth prisoner swap.txt+eventbasecode46+eventcode46+avgtone0.4746376811594203+goldsteinscale0.85+nummentions0.011248185776487663+numarticles0.011965192168237854+numsources0.023026315789473683+news_keywords+['ukraine:0.463', 'ukrainian:0.4325', 'vereshchuk:0.4183', 'russian:0.3694', 'russia:0.3332', 'swap:0.3121', 'exchange:0.2776', 'prisoner:0.2752', 'iryna:0.2492', 'war:0.224', 'conflict:0.2132', 'fifth:0.2121', 'civilian:0.1989', 'telegram:0.189', 'release:0.1452', 'deputy:0.1288', 'conduct:0.1282', 'return:0.1233', 'home:0.1138', 'result:0.088', 'tuesday:0.0819', 'prime:0.0733', 'say:0.0672', 'start:0.0599', 'following:0.0411', 'minister:0.034', 'force:0.0326', 'write:0.0266', 'include:0.0207']+titles_keywords+['ukraine:0.4729', 'swap:0.3312', 'prisoner:0.3107', 'fifth:0.2591', 'conduct:0.0836']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/china.org.cn/Erdogan Putin agree to hold next round of RussiaUkraine negotiations in Turkey.txt+eventbasecode46+eventcode46+avgtone0.5066489361702128+goldsteinscale0.85+nummentions0.059506531204644414+numarticles0.05946337926033358+numsources0.22039473684210525+news_keywords+['erdogan:0.4363', 'putin:0.4309', 'ceasefire:0.4244', 'kiev:0.3439', 'russiaukraine:0.3394', 'diplomatic:0.3351', 'belarus:0.3288', 'istanbul:0.2987', 'meeting:0.2564', 'talk:0.2382', 'presidency:0.2214', 'lavrov:0.1988', 'soon:0.1882', 'delegation:0.1799', 'continue:0.1638', 'counterpart:0.1581', 'round:0.1435', 'military:0.1277', 'decide:0.126', 'hold:0.1151', 'feb:0.1058', 'week:0.1032', 'process:0.0936', 'write:0.0924', 'agree:0.0839', 'possible:0.0706', 'fourth:0.0535', 'head:0.0508', 'video:0.0502', 'sideline:0.0253']+titles_keywords+['putin:0.4113', 'negotiations:0.3325', 'turkey:0.3266', 'round:0.1458', 'agree:0.0494']"
+        ]
+    ]
+}

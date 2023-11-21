@@ -1,0 +1,15 @@
+{
+    "CHN+RUS+50":[
+        [
+            "20220615+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Xi tells Putin China will keep backing Russia on sovereignty security.txt+eventbasecode50+eventcode50+avgtone0.4909706546275395+goldsteinscale0.675+nummentions0.04426705370101597+numarticles0.044960116026105876+numsources0.07894736842105263+news_keywords+['putin:0.4447', 'beijing:0.3495', 'diplomatic:0.3321', 'kyiv:0.3288', 'sovereignty:0.2603', 'war:0.2501', 'economy:0.2482', 'retaliatory:0.2032', 'concern:0.1993', 'jinping:0.193', 'mutual:0.1894', 'bridge:0.1886', 'global:0.1612', 'afp:0.1581', 'report:0.1538', 'allow:0.1497', 'continue:0.1467', 'strengthen:0.1345', 'order:0.1296', 'winter:0.1247', 'contrary:0.1233', 'day:0.1219', 'say:0.1206', 'recent:0.1172', 'sphere:0.1166', 'th:0.113', 'data:0.0938', 'ready:0.0899', 'state:0.0853', 'heihe:0.0548']+titles_keywords+['putin:0.3995', 'sovereignty:0.2915', 'xi:0.2623', 'china:0.2114', 'backing:0.1683']"
+        ]
+    ],
+    "RUS+UKR+50":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Ukraine proposes negotiations with Russia in besieged Mariupol.txt+eventbasecode50+eventcode50+avgtone0.48158640226628896+goldsteinscale0.675+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.009868421052631578+news_keywords+['kyiv:0.4793', 'negotiation:0.4365', 'evacuate:0.3617', 'surrender:0.3588', 'azov:0.2976', 'mykhailo:0.2733', 'strategic:0.2586', 'nationalist:0.24', 'federation:0.2341', 'territory:0.2337', 'telegram:0.2305', 'afp:0.2253', 'safety:0.2222', 'civilian:0.2166', 'hold:0.2037', 'propose:0.1961', 'wounded:0.194', 'president:0.1937', 'help:0.1921', 'besiege:0.185', 'heed:0.1672', 'goal:0.1612', 'ready:0.1598', 'round:0.1503', 'live:0.1357', 'arm:0.1345', 'mr:0.1176', 'fully:0.1167', 'plant:0.1086', 'wednesday:0.0912']+titles_keywords+['ukraine:0.393', 'negotiations:0.3518', 'mariupol:0.2667', 'besieged:0.1364', 'proposes:0.13']"
+        ],
+        [
+            "20220604+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Bosphorus sea trade unaffected by Ukraine war sanctions.txt+eventbasecode50+eventcode50+avgtone0.48654708520179374+goldsteinscale0.675+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['crimea:0.5243', 'bosphorus:0.4449', 'ankara:0.3823', 'chornomorsk:0.3357', 'embargo:0.3035', 'war:0.2958', 'diplomatic:0.2899', 'freighter:0.2515', 'intercept:0.2486', 'lavrov:0.2406', 'port:0.2382', 'information:0.2275', 'afp:0.2183', 'overlook:0.1953', 'list:0.1859', 'current:0.1759', 'strait:0.1708', 'corridor:0.1592', 'satellite:0.1579', 'long:0.1544', 'significant:0.149', 'suddenly:0.1403', 'pre:0.1395', 'count:0.1359', 'trade:0.1262', 'end:0.1262', 'depend:0.1192', 'set:0.0926', 'thanks:0.0814', 'unless:0.0543']+titles_keywords+['bosphorus:0.4254', 'sanctions:0.3902', 'ukraine:0.3566', 'unaffected:0.2138', 'trade:0.149']"
+        ]
+    ]
+}

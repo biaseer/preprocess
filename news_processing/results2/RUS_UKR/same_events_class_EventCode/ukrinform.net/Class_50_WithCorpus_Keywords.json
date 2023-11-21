@@ -1,0 +1,22 @@
+{
+    "AUT+UKR+50":[
+        [],
+        []
+    ],
+    "EUR+RUS+50":[
+        [
+            "20210616+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Support for Ukraine remains fundamental part of EU policy towards Russia Borrell.txt+eventbasecode50+eventcode50+avgtone0.516728624535316+goldsteinscale0.675+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4313', 'minsk:0.3853', 'communicationreviews:0.2426', 'agreement:0.21', 'correspondent:0.2063', 'pragmatism:0.195', 'ukrinform:0.1874', 'forward:0.1746', 'strengthen:0.1702', 'territorial:0.1637', 'contact:0.1516', 'union:0.1495', 'implement:0.1485', 'understanding:0.1439', 'borrell:0.1388', 'partner:0.1346', 'continue:0.1336', 'presentation:0.127', 'security:0.1265', 'assume:0.1155', 'predictable:0.1097', 'issue:0.1008', 'current:0.0901', 'party:0.0876', 'state:0.0868', 'circumstance:0.0855', 'thefive:0.0837', 'fully:0.0788', 'basis:0.0447', 'today:0.0313']+titles_keywords+['ukraine:0.4202', 'borrell:0.2157', 'policy:0.1848', 'remains:0.136', 'fundamental:0.1276']"
+        ]
+    ],
+    "RUS+UKR+50":[
+        [
+            "20211203+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukraine calls on Russia to stop escalation and return to negotiating table.txt+eventbasecode50+eventcode50+avgtone0.475+goldsteinscale0.675+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['crimea:0.5057', 'kremlin:0.4192', 'escalation:0.3148', 'osce:0.3098', 'conflict:0.3017', 'peaceful:0.283', 'involvement:0.256', 'correspondent:0.2502', 'negotiate:0.2482', 'political:0.2326', 'crisis:0.2249', 'troop:0.2039', 'table:0.2', 'organization:0.1922', 'agreement:0.1859', 'stability:0.1828', 'ukrinform:0.1751', 'contact:0.1732', 'refrain:0.156', 'return:0.1437', 'trilateral:0.1402', 'donbas:0.1283', 'future:0.1254', 'say:0.1154', 'lack:0.1089', 'arm:0.1041', 'state:0.1016', 'december:0.0788', 'highlight:0.0764', 'unprecedented:0.0651']+titles_keywords+['ukraine:0.4124', 'negotiating:0.3631', 'escalation:0.3292', 'table:0.2305', 'return:0.2088']"
+        ],
+        [
+            "20220704+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Its up to Ukraine to decide when it will sit down at negotiating table with.txt+eventbasecode50+eventcode50+avgtone0.4951690821256039+goldsteinscale0.675+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['steinmeier:0.4523', 'ukraine:0.4358', 'putin:0.3765', 'war:0.2906', 'negotiate:0.285', 'german:0.2234', 'decide:0.2096', 'table:0.1897', 'occupy:0.1856', 'border:0.1848', 'note:0.1834', 'lie:0.1593', 'inform:0.1508', 'cite:0.146', 'position:0.143', 'say:0.1396', 'state:0.1341', 'prospect:0.1285', 'ahead:0.123', 'begin:0.1171', 'exactly:0.106', 'ready:0.1019', 'include:0.0924', 'zdf:0.0922', 'strong:0.0908', 'wag:0.0711', 'year:0.0634', 'donbas:0.0527', 'scale:0.0255', 'restore:0.0116']+titles_keywords+['ukraine:0.4613', 'steinmeier:0.4015', 'negotiating:0.3525', 'decide:0.2444', 'table:0.2293']"
+        ],
+        [
+            "20220804+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukraines Presidential Office names four key elements required for negotiations with Russia.txt+eventbasecode50+eventcode50+avgtone0.47586206896551725+goldsteinscale0.675+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.4952', 'ukraines:0.4802', 'negotiate:0.3898', 'readiness:0.312', 'talk:0.2661', 'table:0.2534', 'presidents:0.2397', 'mykhailo:0.2363', 'advisor:0.201', 'element:0.1786', 'affairs:0.173', 'require:0.1712', 'declaration:0.1648', 'range:0.1638', 'drone:0.1511', 'tweet:0.1485', 'rf:0.1434', 'destroy:0.1434', 'report:0.1351', 'head:0.1283', 'considers:0.1221', 'counteroffensive:0.1143', 'right:0.1086', 'sit:0.1015', 'key:0.1005', 'long:0.0828', 'state:0.0823', 'thursday:0.0817', 'actams:0.0689', 'allegedly:0.03']+titles_keywords+['ukraines:0.3829', 'negotiations:0.3692', 'elements:0.2118', 'required:0.1737', 'presidential:0.1598']"
+        ]
+    ]
+}

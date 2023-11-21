@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/fox13news.com/I just love him Bay Area RussianUkrainian couple stand united during invasion.txt+eventbasecode51+eventcode51+avgtone0.4882075471698113+goldsteinscale0.67+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4855', 'russianukrainian:0.4034', 'petersburg:0.3894', 'unite:0.3205', 'care:0.2773', 'stay:0.269', 'marry:0.2619', 'dara:0.2492', 'know:0.2479', 'nuclear:0.2293', 'invasion:0.224', 'hear:0.2182', 'support:0.2164', 'sad:0.2163', 'bay:0.2102', 'want:0.2052', 'sign:0.2014', 'tension:0.199', 'shes:0.1967', 'people:0.189', 'state:0.1743', 'end:0.1739', 'morning:0.1671', 'heart:0.1641', 'way:0.1564', 'soon:0.1517', 'respectively:0.1488', 'artem:0.1471', 'agreeto:0.1456', 'year:0.1051']+titles_keywords+['russianukrainian:0.3869', 'invasion:0.3586', 'bay:0.3129', 'couple:0.3096', 'stand:0.151']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/fox13news.com/Ghost of Kyiv fighter pilot is a myth Ukraines air force says.txt+eventbasecode51+eventcode51+avgtone0.4957627118644068+goldsteinscale0.67+nummentions0.018142235123367198+numarticles0.01885424220449601+numsources0.02631578947368421+news_keywords+['kyiv:0.4834', 'ukrainians:0.4304', 'poroshenko:0.3491', 'tarabalka:0.3394', 'military:0.3294', 'ghost:0.3118', 'plane:0.2992', 'aviatsiya:0.2878', 'hero:0.2615', 'oligarchs:0.2401', 'anonymous:0.2359', 'ace:0.2357', 'alive:0.2179', 'real:0.1961', 'unrelated:0.1855', 'story:0.1733', 'supposedly:0.1711', 'shoot:0.1704', 'uaf:0.1644', 'footage:0.1515', 'publish:0.1479', 'moniker:0.1444', 'outlet:0.1434', 'information:0.1363', 'confirmthat:0.1354', 'embodies:0.1182', 'friday:0.1083', 'increase:0.1018', 'year:0.0916', 'rightly:0.0841']+titles_keywords+['kyiv:0.4268', 'ghost:0.3787', 'myth:0.3338', 'pilot:0.2971', 'says:0.0915']"
+        ]
+    ]
+}

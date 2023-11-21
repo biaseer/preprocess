@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+128":[
+        [
+            "20211127+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Donbas update Ukrainian soldier killed in warzone amid latest 2 enemy attacks Nov 26.txt+eventbasecode128+eventcode128+avgtone0.445859872611465+goldsteinscale0.25+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['ceasefire:0.4891', 'kyiv:0.4611', 'novomykhailivka:0.3533', 'military:0.349', 'warzone:0.3282', 'russias:0.3019', 'donbas:0.2885', 'mortar:0.2837', 'update:0.2495', 'attack:0.2477', 'condolence:0.2331', 'die:0.2247', 'hero:0.2184', 'report:0.1964', 'read:0.1831', 'carry:0.1589', 'note:0.154', 'shell:0.1471', 'new:0.1451', 'monitor:0.1409', 'amid:0.1376', 'jfo:0.1353', 'late:0.135', 'employ:0.1227', 'maryinka:0.1225', 'mm:0.121', 'non:0.1188', 'sustain:0.0996', 'small:0.0935', 'compatible:0.0833']+titles_keywords+['ukrainian:0.3997', 'donbas:0.3471', 'warzone:0.3364', 'update:0.2823', 'killed:0.2448']"
+        ],
+        [
+            "20220112+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Donbas update Occupiers fire toward Novotoshkivske Ukrainian soldier killed.txt+eventbasecode128+eventcode128+avgtone0.4601226993865029+goldsteinscale0.25+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['kyiv:0.483', 'ceasefire:0.4654', 'novotoshkivske:0.3904', 'russias:0.3382', 'occupiers:0.3262', 'soldier:0.2881', 'donbas:0.2836', 'update:0.2663', 'operation:0.2641', 'armed:0.2254', 'agreement:0.2094', 'breach:0.2053', 'report:0.1991', 'condolence:0.1889', 'contact:0.1876', 'die:0.1729', 'hold:0.1692', 'repel:0.1692', 'forces:0.1682', 'january:0.1388', 'new:0.1323', 'caliber:0.1283', 'non:0.1275', 'ukrinform:0.1217', 'ready:0.1122', 'employ:0.105', 'line:0.0957', 'time:0.0803', 'stress:0.0796', 'accord:0.0724']+titles_keywords+['ukrainian:0.3805', 'novotoshkivske:0.3749', 'occupiers:0.368', 'donbas:0.3639', 'update:0.29']"
+        ]
+    ]
+}

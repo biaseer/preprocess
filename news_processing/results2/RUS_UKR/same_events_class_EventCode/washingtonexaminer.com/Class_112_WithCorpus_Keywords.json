@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220622+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Russian military may be in the process of radically reshuffling Report.txt+eventbasecode112+eventcode112+avgtone0.4743975903614458+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['kremlin:0.4533', 'russian:0.365', 'military:0.3591', 'donetsk:0.351', 'deploy:0.3397', 'dvornikov:0.3224', 'reshuffle:0.3092', 'war:0.2988', 'dpr:0.289', 'attrition:0.2543', 'casualty:0.2279', 'general:0.2229', 'reserve:0.2187', 'personnel:0.2134', 'kill:0.2063', 'update:0.1966', 'donbas:0.1915', 'remain:0.1914', 'increasingly:0.1502', 'june:0.147', 'col:0.1423', 'outcome:0.1309', 'statistic:0.1279', 'current:0.1091', 'contradictory:0.1091', 'nearly:0.1038', 'fourth:0.1025', 'believe:0.1004', 'southern:0.0666', 'generate:0.0641']+titles_keywords+['reshuffling:0.4755', 'military:0.3382', 'russian:0.3214', 'report:0.2671', 'radically:0.149']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220116+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Ukraine says Russia behind cyberattack in hybrid war move.txt+eventbasecode112+eventcode112+avgtone0.46126760563380287+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['cyberattacks:0.5493', 'russia:0.4222', 'kyiv:0.4199', 'virus:0.3504', 'invasion:0.3485', 'microsoft:0.283', 'threat:0.2825', 'government:0.2824', 'know:0.2455', 'destroy:0.2394', 'diplomatic:0.2011', 'notpetya:0.1865', 'hybrid:0.1816', 'source:0.1792', 'learn:0.1782', 'coincide:0.1763', 'blog:0.1656', 'sector:0.1641', 'span:0.1607', 'detect:0.1529', 'tense:0.1499', 'possibility:0.1462', 'neighbor:0.1396', 'saturday:0.1373', 'oleh:0.1262', 'temporarily:0.1238', 'billion:0.1157', 'jake:0.1134', 'ap:0.1003', 'solarwinds:0.0617']+titles_keywords+['cyberattack:0.4367', 'ukraine:0.4273', 'war:0.2563', 'hybrid:0.2257', 'says:0.0346']"
+        ]
+    ]
+}

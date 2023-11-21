@@ -1,0 +1,17 @@
+{
+    "DEU+UKR+36":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Macron warns Russia will pay very high price if Ukraine attacked.txt+eventbasecode36+eventcode36+avgtone0.4739454094292804+goldsteinscale0.7+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['putin:0.4028', 'crimea:0.3955', 'macron:0.3806', 'conflict:0.3027', 'attack:0.2842', 'talk:0.2739', 'eu:0.2615', 'berlin:0.2479', 'behave:0.2308', 'agreement:0.2172', 'unite:0.2048', 'subject:0.1983', 'warn:0.1934', 'consequence:0.1921', 'alongside:0.1909', 'prepare:0.1892', 'clarification:0.1883', 'disequilibrium:0.1815', 'visit:0.1766', 'telephone:0.1708', 'speculation:0.1671', 'normandy:0.1609', 'analyst:0.1591', 'line:0.1394', 'clear:0.1271', 'consider:0.1244', 'price:0.1235', 'continue:0.1212', 'week:0.1122', 'format:0.1086']+titles_keywords+['macron:0.3336', 'ukraine:0.329', 'attacked:0.2255', 'price:0.1976', 'warns:0.1671']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/deccanherald.com/EU considers looser state aid rules for firms hit by sanctions.txt+eventbasecode36+eventcode36+avgtone0.5021834061135371+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4073', 'kremlin:0.3575', 'policymakers:0.3305', 'aid:0.3237', 'geopolitical:0.3151', 'sanction:0.2907', 'euro:0.2864', 'regulator:0.2558', 'coronavirus:0.2444', 'union:0.2364', 'bloc:0.2307', 'allow:0.2083', 'sector:0.1892', 'impacted:0.1828', 'state:0.1792', 'read:0.1676', 'situation:0.1657', 'airline:0.1508', 'current:0.1489', 'output:0.1456', 'stop:0.1321', 'order:0.125', 'reduce:0.1188', 'precedent:0.1175', 'year:0.1172', 'philip:0.1016', 'flexibility:0.0872', 'toolbox:0.0822', 'looser:0.078', 'ready:0.054']+titles_keywords+['sanctions:0.4976', 'aid:0.262', 'eu:0.2504', 'firms:0.1997', 'looser:0.1343']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Get us out or else we will die for sure Indian students send frantic SOS.txt+eventbasecode36+eventcode36+avgtone0.477979274611399+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.3953', 'explosion:0.3936', 'student:0.3057', 'indian:0.2676', 'war:0.2647', 'noushad:0.2483', 'die:0.2354', 'bunker:0.2305', 'pursue:0.217', 'bus:0.2104', 'supply:0.2009', 'mbbs:0.1926', 'feel:0.1833', 'right:0.1787', 'phone:0.177', 'sos:0.1688', 'away:0.1637', 'friends:0.1622', 'send:0.1605', 'state:0.1512', 'rush:0.1466', 'heard:0.1426', 'soon:0.1416', 'area:0.136', 'powe:0.131', 'comqbfnybxxbt:0.1169', 'step:0.1131', 'able:0.1084', 'sub:0.1073', 'really:0.1012']+titles_keywords+['explosion:0.4165', 'students:0.3878', 'sos:0.2532', 'indian:0.2469', 'near:0.1296']"
+        ]
+    ]
+}

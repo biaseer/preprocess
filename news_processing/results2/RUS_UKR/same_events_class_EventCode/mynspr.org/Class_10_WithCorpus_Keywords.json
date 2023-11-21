@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+10":[
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/mynspr.org/RussiaUkraine war What happened today June 30.txt+eventbasecode10+eventcode10+avgtone0.4794372294372294+goldsteinscale0.5+nummentions0.23439767779390422+numarticles0.23495286439448876+numsources0.21052631578947367+news_keywords+['ukraine:0.5388', 'russiaukraine:0.5259', 'kremlin:0.4837', 'nato:0.4168', 'war:0.3846', 'embassies:0.3382', 'separatist:0.2764', 'border:0.2407', 'sanction:0.2387', 'evacuate:0.2346', 'recap:0.2224', 'read:0.2025', 'strategic:0.2017', 'report:0.1907', 'npr:0.1864', 'closure:0.1838', 'update:0.174', 'thursday:0.1712', 'long:0.1558', 'happen:0.1513', 'organization:0.148', 'biden:0.1379', 'speaking:0.1377', 'end:0.136', 'grade:0.1294', 'tie:0.1283', 'complies:0.1069', 'new:0.0937', 'hundreds:0.0868', 'coverage:0.0822']+titles_keywords+['russiaukraine:0.4814', 'war:0.4249', 'june:0.3017', 'today:0.3012', 'happened:0.2627']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/mynspr.org/Security experts doubt Ukraine readiness against Russian cyberattack.txt+eventbasecode10+eventcode10+avgtone0.47626339969372133+goldsteinscale0.5+nummentions0.10921625544267054+numarticles0.10986221899927484+numsources0.10855263157894737+news_keywords+['ukraine:0.4969', 'cyberattack:0.3715', 'scare:0.3217', 'disinformation:0.3196', 'infrastructure:0.2894', 'zelenskyy:0.2827', 'military:0.2786', 'secure:0.2679', 'prepare:0.2592', 'expert:0.2458', 'news:0.2424', 'know:0.2403', 'confuse:0.2292', 'school:0.2171', 'switch:0.2146', 'bomb:0.2058', 'annexed:0.2027', 'situation:0.2001', 'report:0.1977', 'help:0.1968', 'president:0.1879', 'transcript:0.1835', 'speak:0.1817', 'estrin:0.1615', 'fake:0.1596', 'boy:0.1494', 'plant:0.1477', 'winter:0.1414', 'entirely:0.116', 'far:0.0793']+titles_keywords+['cyberattack:0.4041', 'ukraine:0.3756', 'readiness:0.295', 'experts:0.1534', 'doubt:0.1453']"
+        ],
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/mynspr.org/Russia is still blocking key Ukrainian port as fighting continues in Ukraines east.txt+eventbasecode10+eventcode10+avgtone0.45+goldsteinscale0.5+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.03289473684210526+news_keywords+['kyiv:0.5257', 'blockade:0.3555', 'know:0.2453', 'crisis:0.2451', 'fight:0.2351', 'sewage:0.2294', 'continue:0.2266', 'industrial:0.2209', 'troop:0.2109', 'east:0.2106', 'hear:0.1931', 'turn:0.1904', 'report:0.1899', 'long:0.1894', 'push:0.1861', 'arrive:0.1706', 'focal:0.1672', 'transcript:0.166', 'plant:0.165', 'dead:0.1636', 'ok:0.1534', 'weekend:0.1511', 'relation:0.1438', 'donbas:0.1395', 'president:0.1351', 'global:0.1312', 'severodonetsk:0.1219', 'largely:0.1194', 'myre:0.1087', 'price:0.0833']+titles_keywords+['ukrainian:0.3817', 'port:0.3694', 'blocking:0.2952', 'continues:0.1783', 'key:0.0874']"
+        ]
+    ]
+}

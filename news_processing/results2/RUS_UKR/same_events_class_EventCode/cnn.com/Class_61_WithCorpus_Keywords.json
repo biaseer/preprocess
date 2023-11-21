@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+61":[
+        [
+            "20211118+../news_crawling/RUS_UKR/p_articles/cnn.com/Europe was already facing a winter gas crisis The risks just got even bigger.txt+eventbasecode61+eventcode61+avgtone0.48936170212765956+goldsteinscale0.82+nummentions0.022133526850507984+numarticles0.02284263959390863+numsources0.03618421052631579+news_keywords+['winter:0.3507', 'pipeline:0.3456', 'gas:0.322', 'geopolitics:0.2951', 'europes:0.2556', 'nord:0.2489', 'supply:0.2255', 'crisis:0.2136', 'gazprom:0.1908', 'future:0.1823', 'pandemic:0.1735', 'fraught:0.1676', 'current:0.1635', 'russian:0.1535', 'incoming:0.1535', 'strategist:0.1448', 'emerge:0.1375', 'delay:0.125', 'week:0.1204', 'start:0.1138', 'wont:0.1134', 'certification:0.1094', 'import:0.1064', 'increase:0.0971', 'approve:0.0905', 'write:0.0863', 'step:0.0861', 'torres:0.0812', 'cost:0.0444', 'theyre:0.0118']+titles_keywords+['risks:0.347', 'europe:0.29', 'gas:0.2848', 'winter:0.2702', 'crisis:0.2625']"
+        ]
+    ],
+    "RUS+USA+61":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/cnn.com/May 25 2022 RussiaUkraine news.txt+eventbasecode61+eventcode61+avgtone0.47461928934010156+goldsteinscale0.82+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['putin:0.504', 'crimea:0.4926', 'war:0.323', 'upheaval:0.3039', 'separatist:0.3006', 'annexed:0.2956', 'unhcr:0.2938', 'agenda:0.2917', 'liaise:0.2872', 'proceeding:0.2762', 'border:0.2686', 'announce:0.2624', 'expand:0.2572', 'theukrainian:0.2401', 'yevhen:0.2384', 'sanction:0.238', 'wednesday:0.2344', 'flee:0.2281', 'passportization:0.2257', 'visit:0.2034', 'order:0.202', 'pretext:0.1826', 'long:0.1642', 'donbas:0.1514', 'state:0.1504', 'data:0.1487', 'opg:0.1313', 'welcome:0.103', 'agree:0.0955', 'actually:0.0922']+titles_keywords+['2022:0.5395', 'russiaukraine:0.523', 'news:0.3321', '25:0.2129']"
+        ]
+    ]
+}

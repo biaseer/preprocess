@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/enewscourier.com/Ukraine rejects Russian demand for surrender in Mariupol.txt+eventbasecode80+eventcode80+avgtone0.46852387843704774+goldsteinscale0.75+nummentions0.18142235123367198+numarticles0.18056562726613487+numsources0.45394736842105265+news_keywords+['kyiv:0.4859', 'pravda:0.4084', 'putin:0.408', 'chernobyl:0.3385', 'nato:0.3375', 'war:0.3167', 'evacuate:0.3078', 'news:0.2853', 'capitulation:0.2572', 'takeover:0.256', 'prepare:0.255', 'meltdown:0.2533', 'progress:0.2399', 'know:0.2294', 'unite:0.2173', 'warms:0.1959', 'friday:0.1934', 'concerns:0.1928', 'heading:0.1836', 'chaotic:0.1813', 'nearly:0.1747', 'bucha:0.1712', 'long:0.1693', 'described:0.1677', 'bad:0.1579', 'kilometer:0.1459', 'gmt:0.14', 'send:0.1213', 'major:0.1208', 'state:0.1103']+titles_keywords+['surrender:0.4206', 'ukraine:0.3945', 'mariupol:0.2589', 'rejects:0.1848', 'demand:0.0172']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/enewscourier.com/Ukraine talks yield no breakthrough as Russians close in.txt+eventbasecode80+eventcode80+avgtone0.4752018454440599+goldsteinscale0.75+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4845', 'kremlin:0.4588', 'blitzkrieg:0.2833', 'pipeline:0.2392', 'know:0.2361', 'agreement:0.2348', 'conscript:0.2321', 'capital:0.2315', 'azov:0.2314', 'involvement:0.2285', 'rhetoric:0.2259', 'read:0.2169', 'frighten:0.2044', 'fled:0.2014', 'end:0.2005', 'president:0.1968', 'fight:0.192', 'casualty:0.1848', 'wrap:0.1839', 'stir:0.1794', 'order:0.1791', 'long:0.178', 'report:0.1756', 'increasingly:0.1522', 'warm:0.1476', 'telephone:0.1442', 'powerful:0.137', 'monday:0.1364', 'orbit:0.1311', 'undercount:0.1277']+titles_keywords+['ukraine:0.3562', 'talks:0.1934', 'close:0.118', 'breakthrough:0.116', 'yield:0.0414']"
+        ]
+    ]
+}

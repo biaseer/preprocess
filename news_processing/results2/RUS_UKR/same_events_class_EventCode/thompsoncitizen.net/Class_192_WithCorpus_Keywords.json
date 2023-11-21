@@ -1,0 +1,12 @@
+{
+    "POL+UKR+192":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/thompsoncitizen.net/Live updates Briton killed in Ukraine another missing.txt+eventbasecode192+eventcode192+avgtone0.4813069431354069+goldsteinscale0.025+nummentions0.1625544267053701+numarticles0.16316171138506164+numsources0.23026315789473684+news_keywords+['ukraine:0.4643', 'kremlin:0.4307', 'natos:0.3985', 'erdogans:0.3705', 'briefing:0.3379', 'oligarch:0.3309', 'headline:0.312', 'airstrikes:0.3031', 'government:0.2889', 'propagandize:0.2787', 'boychenko:0.2688', 'telegram:0.2638', 'conflict:0.2634', 'future:0.2176', 'catastrophic:0.2141', 'term:0.2093', 'expect:0.208', 'forget:0.2023', 'misleading:0.2018', 'recep:0.1997', 'update:0.1962', 'turn:0.1957', 'tank:0.1931', 'say:0.1817', 'compare:0.1801', 'import:0.1687', 'isnt:0.1668', 'month:0.1508', 'warmly:0.1493', 'welcome:0.0915']+titles_keywords+['ukraine:0.4023', 'killed:0.286', 'missing:0.2484', 'updates:0.2462', 'live:0.2258']"
+        ]
+    ],
+    "UKR+RUS+192":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/thompsoncitizen.net/Russian airstrike escalates offensive in western Ukraine.txt+eventbasecode192+eventcode192+avgtone0.46990084985835695+goldsteinscale0.025+nummentions0.03193033381712627+numarticles0.032632342277012324+numsources0.06907894736842106+news_keywords+['crimea:0.4606', 'airstrikes:0.4393', 'kremlin:0.4064', 'nato:0.4039', 'deploy:0.2962', 'zelenskyy:0.2768', 'provoke:0.2668', 'intensify:0.2433', 'ivano:0.242', 'crisis:0.2383', 'strategic:0.2224', 'worry:0.2182', 'journalist:0.218', 'evade:0.215', 'understand:0.2056', 'western:0.2001', 'arrive:0.1865', 'continue:0.1846', 'ally:0.1777', 'ap:0.1731', 'corridor:0.1729', 'sprawl:0.1701', 'rewrite:0.1695', 'perilously:0.1638', 'word:0.1624', 'reach:0.1577', 'send:0.1322', 'unanswered:0.1274', 'draw:0.1215', 'large:0.1204']+titles_keywords+['airstrike:0.472', 'ukraine:0.3759', 'escalates:0.245', 'western:0.1895', 'offensive:0.1738']"
+        ]
+    ]
+}

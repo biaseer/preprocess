@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+42":[
+        [
+            "20220205+../news_crawling/RUS_UKR/p_articles/heraldseries.co.uk/Johnson and Macron agree to fight against malicious Russian activity.txt+eventbasecode42+eventcode42+avgtone0.4853372434017595+goldsteinscale0.595+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.3157894736842105+news_keywords+['natos:0.489', 'kremlin:0.4071', 'macron:0.3993', 'attack:0.3331', 'diplomatic:0.3301', 'kyiv:0.3286', 'boris:0.2946', 'justify:0.242', 'sanction:0.2022', 'remain:0.2018', 'occur:0.1878', 'meet:0.1773', 'monday:0.177', 'border:0.174', 'forward:0.1668', 'planning:0.1647', 'worry:0.164', 'debate:0.1592', 'want:0.1497', 'pretext:0.1485', 'ensure:0.1337', 'lively:0.1293', 'agree:0.1142', 'olaf:0.1092', 'current:0.0948', 'weve:0.0946', 'story:0.0922', 'prime:0.0819', 'fully:0.0742', 'overriding:0.0215']+titles_keywords+['macron:0.3704', 'russian:0.2682', 'malicious:0.2397', 'johnson:0.2233', 'fight:0.2066']"
+        ]
+    ],
+    "EUR+UKR+42":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/heraldseries.co.uk/Ukrainians return from abroad to fight Russian invasion.txt+eventbasecode42+eventcode42+avgtone0.4842931937172775+goldsteinscale0.595+nummentions0.3098693759071118+numarticles0.3103698332124728+numsources0.27960526315789475+news_keywords+['ukrainians:0.4993', 'refugee:0.449', 'lviv:0.3962', 'invasion:0.3465', 'military:0.3072', 'border:0.2822', 'flee:0.2568', 'zelensky:0.2428', 'onward:0.233', 'labour:0.2252', 'checkpoint:0.2203', 'afraid:0.2181', 'volodymyr:0.215', 'morale:0.213', 'train:0.1999', 'return:0.1993', 'cross:0.1991', 'republic:0.1989', 'jacket:0.1952', 'debate:0.1776', 'family:0.1736', 'boy:0.1698', 'woman:0.167', 'cite:0.1624', 'allow:0.1571', 'want:0.15', 'stand:0.1267', 'story:0.1251', 'right:0.1059', 'thousand:0.0994']+titles_keywords+['ukrainians:0.5028', 'invasion:0.3527', 'return:0.1908', 'abroad:0.1817', 'fight:0.1633']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "GBR+RUS+163":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/britainnews.net/UK bans imports of Russian silver wood products highquality goods.txt+eventbasecode163+eventcode163+avgtone0.5059171597633135+goldsteinscale0.1+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.013157894736842105+news_keywords+['belarus:0.4105', 'tariff:0.3702', 'russian:0.3277', 'wood:0.2561', 'ban:0.2308', 'iron:0.2208', 'silver:0.2203', 'product:0.1905', 'impose:0.1807', 'international:0.1793', 'caviar:0.179', 'luxury:0.1762', 'export:0.1754', 'trade:0.1589', 'pound:0.1466', 'trevelyan:0.1363', 'anisputnik:0.1296', 'statement:0.1188', 'good:0.1145', 'highquality:0.1011', 'increase:0.0907', 'military:0.0898', 'april:0.0797', 'include:0.0777', 'end:0.0761', 'today:0.0685', 'quantum:0.061', 'percentage:0.0584', 'worth:0.0527', 'secretary:0.0183']+titles_keywords+['wood:0.3369', 'russian:0.2764', 'products:0.2376', 'bans:0.2092', 'highquality:0.1207']"
+        ],
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/britainnews.net/Ukraine the problem with Russias sanctionsbusting arms industry.txt+eventbasecode163+eventcode163+avgtone0.4801255230125523+goldsteinscale0.1+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.046052631578947366+news_keywords+['soviet:0.4757', 'espionage:0.4602', 'russias:0.4383', 'crimea:0.4344', 'embargoes:0.3673', 'government:0.3353', 'industrial:0.3144', 'nuclear:0.3139', 'procurement:0.3045', 'history:0.2979', 'academic:0.258', 'technology:0.2541', 'weapon:0.2536', 'annex:0.2278', 'pursue:0.2104', 'frontlines:0.2009', 'evidence:0.2007', 'help:0.1982', 'circumvent:0.188', 'export:0.186', 'make:0.183', 'north:0.176', 'understand:0.1751', 'formalised:0.175', 'benefit:0.1595', 'dependence:0.1538', 'author:0.1523', 'end:0.1434', 'long:0.1215', 'multiple:0.0712']+titles_keywords+['ukraine:0.6074', 'sanctionsbusting:0.412', 'industry:0.2666', 'arms:0.2263', 'problem:0.202']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220817+../news_crawling/RUS_UKR/p_articles/britainnews.net/Saudi Arabia invests in Russian energy companies.txt+eventbasecode163+eventcode163+avgtone0.5+goldsteinscale0.1+nummentions0.24528301886792453+numarticles0.24583031182015955+numsources0.27631578947368424+news_keywords+['opec:0.4689', 'ukraine:0.3988', 'lukoil:0.3806', 'arabia:0.3543', 'russian:0.3405', 'invest:0.2803', 'gazprom:0.2644', 'company:0.246', 'petroleum:0.2413', 'rosneft:0.1812', 'stake:0.1712', 'executive:0.1581', 'invasion:0.1479', 'group:0.1382', 'lead:0.138', 'energy:0.1352', 'talal:0.1315', 'prince:0.1283', 'western:0.1186', 'th:0.1005', 'twitter:0.0897', 'form:0.0871', 'billion:0.0806', 'sanction:0.0696', 'percent:0.0668', 'year:0.064', 'add:0.0486', 'program:0.0337', 'primarily:0.0293', 'exporting:0.0128']+titles_keywords+['saudi:0.437', 'russian:0.2928', 'companies:0.2201', 'invests:0.2009', 'energy:0.1439']"
+        ]
+    ]
+}

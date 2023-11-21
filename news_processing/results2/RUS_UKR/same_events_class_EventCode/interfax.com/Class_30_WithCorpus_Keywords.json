@@ -1,0 +1,17 @@
+{
+    "EUR+UKR+30":[
+        [
+            "20220728+../news_crawling/RUS_UKR/p_articles/interfax.com/European Parliament ready to provide Ukraine with expertise advice to strengthen democracy on its path.txt+eventbasecode30+eventcode30+avgtone0.5284090909090909+goldsteinscale0.7+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4623', 'eu:0.3684', 'parliament:0.2942', 'verkhovna:0.2614', 'candidate:0.2038', 'expertise:0.1867', 'ready:0.1736', 'plenary:0.1725', 'union:0.1658', 'strengthen:0.1424', 'support:0.1344', 'status:0.1332', 'ep:0.1327', 'continue:0.1189', 'step:0.1145', 'speech:0.1136', 'metsola:0.1116', 'thursday:0.1066', 'session:0.095', 'roberta:0.0948', 'rada:0.0941', 'granting:0.0911', 'desire:0.0908', 'report:0.0854', 'confirm:0.0589', 'easy:0.0586', 'friend:0.0276', 'shoulder:0.0275', 'say:0.0244', 'accord:0.0122']+titles_keywords+['ukraine:0.414', 'expertise:0.2984', 'parliament:0.279', 'advice:0.171', 'ready:0.0874']"
+        ]
+    ],
+    "RUS+BLR+30":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/interfax.com/Belarusian Russian pilots training at Baranovichi airfield as part of preparedness check of Union States.txt+eventbasecode30+eventcode30+avgtone0.4946808510638298+goldsteinscale0.7+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['minsk:0.4678', 'baranovichi:0.4194', 'nato:0.418', 'russian:0.3681', 'military:0.3403', 'train:0.3095', 'preparedness:0.3069', 'airfield:0.2911', 'exercise:0.2692', 'formation:0.2502', 'base:0.2407', 'operation:0.2292', 'feb:0.2181', 'viktor:0.2125', 'escalate:0.2063', 'border:0.2046', 'donbas:0.1983', 'union:0.1878', 'response:0.1718', 'end:0.1698', 'eastern:0.1575', 'check:0.1549', 'unit:0.1537', 'relation:0.152', 'st:0.1412', 'state:0.1395', 'special:0.1356', 'president:0.1302', 'rapid:0.1123', 'suppose:0.0909']+titles_keywords+['russian:0.4022', 'baranovichi:0.3997', 'airfield:0.3445', 'preparedness:0.3138', 'rapid:0.1828']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220628+../news_crawling/RUS_UKR/p_articles/interfax.com/Ukrainian Infrastructure Ministry raises rail cargo transportation tariffs by 70.txt+eventbasecode30+eventcode30+avgtone0.5040322580645161+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['tariff:0.4627', 'rail:0.3729', 'ukrainian:0.3509', 'increase:0.332', 'moscow:0.318', 'cargo:0.3035', 'infrastructure:0.2622', 'kubrakov:0.2346', 'ukrzaliznytsia:0.2287', 'order:0.2217', 'executive:0.157', 'forth:0.152', 'coefficient:0.1473', 'oleksandr:0.1371', 'june:0.1337', 'sign:0.1336', 'soon:0.1269', 'register:0.1206', 'publish:0.098', 'effect:0.0964', 'proposal:0.0898', 'previous:0.0762', 'interfax:0.0672', 'type:0.0659', 'agree:0.063', 'officially:0.0445', 'justice:0.0378', 'unlike:0.0326', 'hike:0.0324', 'medium:0.0125']+titles_keywords+['ukrainian:0.3432', 'tariffs:0.3365', 'rail:0.2901', 'cargo:0.2704', '70:0.1798']"
+        ]
+    ]
+}

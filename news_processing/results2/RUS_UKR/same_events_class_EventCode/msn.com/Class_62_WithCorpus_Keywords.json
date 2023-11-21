@@ -1,0 +1,21 @@
+{
+    "BLR+RUS+62":[
+        []
+    ],
+    "BLR+UKR+62":[
+        []
+    ],
+    "RUS+UKR+62":[
+        [],
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/msn.com/How foreign fighters may further complicate RussiaUkraine war.txt+eventbasecode62+eventcode62+avgtone0.4665621734587252+goldsteinscale0.8699999999999999+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukrainian:0.4119', 'kremlin:0.3639', 'nato:0.3629', 'warfare:0.3266', 'recruit:0.1971', 'fighter:0.1855', 'volodymyr:0.1633', 'visa:0.1619', 'pr:0.1578', 'annexed:0.1571', 'avoid:0.1562', 'casualty:0.1546', 'blackmail:0.152', 'infosys:0.1476', 'freelance:0.1448', 'want:0.1431', 'complicate:0.1422', 'important:0.1419', 'direct:0.1236', 'structure:0.1234', 'factor:0.1199', 'length:0.1002', 'oust:0.0942', 'early:0.088', 'look:0.0767', 'ramzan:0.0752', 'ready:0.0711', 'cost:0.07', 'similar:0.0644', 'shy:0.0606']+titles_keywords+['russiaukraine:0.4066', 'war:0.4027', 'fighters:0.3465', 'foreign:0.2087', 'complicate:0.1018']"
+        ],
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/msn.com/Former MSNBC analyst joins Ukrainian resistance fighting Russian forces.txt+eventbasecode62+eventcode62+avgtone0.484+goldsteinscale0.8699999999999999+nummentions0.018867924528301886+numarticles0.018129079042784626+numsources0.013157894736842105+news_keywords+['msnbc:0.443', 'putins:0.3846', 'troop:0.38', 'war:0.3735', 'ukraine:0.3529', 'vladimir:0.352', 'reporter:0.3388', 'president:0.27', 'volunteer:0.2526', 'officer:0.2489', 'fight:0.2346', 'contributor:0.2325', 'atrocity:0.206', 'rifle:0.1985', 'oath:0.1965', 'foreign:0.1807', 'tell:0.1793', 'appear:0.1777', 'forget:0.1732', 'outlet:0.1718', 'tucker:0.1678', 'extermination:0.1648', 'intelligence:0.1613', 'nance:0.1525', 'dozens:0.1371', 'night:0.1359', 'joy:0.1255', 'right:0.1246', 'recently:0.1119', 'program:0.0896']+titles_keywords+['ukrainian:0.418', 'msnbc:0.4088', 'resistance:0.1858', 'analyst:0.1504', 'joins:0.1228']",
+            "20220419+../news_crawling/RUS_UKR/p_articles/msn.com/MSNBC analyst joins fight in Ukraine I am done talking.txt+eventbasecode62+eventcode62+avgtone0.4928716904276986+goldsteinscale0.8699999999999999+nummentions0.018867924528301886+numarticles0.018129079042784626+numsources0.013157894736842105+news_keywords+['ukraine:0.4664', 'war:0.4099', 'msnbc:0.3861', 'platoon:0.3543', 'civilian:0.33', 'multinational:0.3029', 'president:0.285', 'spokesperson:0.2841', 'victims:0.2763', 'ideologies:0.2628', 'read:0.2288', 'nance:0.2236', 'fentanyl:0.2021', 'secure:0.1921', 'advantage:0.1917', 'radical:0.1815', 'asymmetrics:0.1781', 'appear:0.1747', 'da:0.1716', 'range:0.1579', 'story:0.1547', 'like:0.1543', 'make:0.1542', 'suit:0.15', 'actual:0.1494', 'comzvithum:0.1376', 'long:0.1343', 'theyre:0.1239', 'retire:0.1131', 'thats:0.1103']+titles_keywords+['msnbc:0.5157', 'fight:0.3097', 'ukraine:0.3069', 'analyst:0.2553', 'talking:0.2239']"
+        ]
+    ],
+    "WST+RUS+62":[
+        []
+    ]
+}

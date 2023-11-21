@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/worldoil.com/Security for US and Europe begins with new energy policy.txt+eventbasecode180+eventcode180+avgtone0.495621716285+goldsteinscale0.05+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['europe:0.3643', 'security:0.2997', 'policy:0.2673', 'energy:0.2539', 'begin:0.1363', 'new:0.1249']+titles_keywords+['security:0.3301', 'europe:0.2886', 'energy:0.2547', 'begins:0.2235', 'new:0.133']"
+        ],
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/worldoil.com/Halliburton raises North American oilindustry spending outlook.txt+eventbasecode180+eventcode180+avgtone0.4936708860759494+goldsteinscale0.05+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['halliburton:0.5127', 'oilindustry:0.3357', 'spending:0.2071', 'raise:0.1376', 'outlook:0.1335', 'north:0.1196', 'american:0.0446']+titles_keywords+['halliburton:0.5295', 'oilindustry:0.3295', 'spending:0.202', 'north:0.1303', 'outlook:0.1292']"
+        ]
+    ]
+}

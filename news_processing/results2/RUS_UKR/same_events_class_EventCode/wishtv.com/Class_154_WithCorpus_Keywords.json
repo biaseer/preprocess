@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/wishtv.com/Russia claims advances in Ukraine amid barrages troop boost.txt+eventbasecode154+eventcode154+avgtone0.4792079207920792+goldsteinscale0.13999999999999999+nummentions0.04354136429608128+numarticles0.04060913705583756+numsources0.049342105263157895+news_keywords+['ukraine:0.4825', 'kremlin:0.4276', 'war:0.3474', 'invaded:0.3365', 'deploy:0.3261', 'expand:0.2816', 'zelenskyy:0.2761', 'maneuver:0.2751', 'barrage:0.2594', 'separatist:0.2483', 'warn:0.2381', 'standoff:0.238', 'sievierodonetsk:0.2293', 'advance:0.2283', 'plan:0.2139', 'news:0.2138', 'industrial:0.213', 'term:0.1928', 'kilometer:0.1914', 'want:0.1886', 'resume:0.1799', 'long:0.1635', 'town:0.1607', 'presidential:0.1577', 'sure:0.1573', 'capability:0.1446', 'nearly:0.138', 'main:0.1353', 'focus:0.1331', 'associated:0.1137']+titles_keywords+['ukraine:0.4099', 'barrages:0.3102', 'troop:0.2632', 'advances:0.2418', 'claims:0.1889']"
+        ]
+    ],
+    "UKR+RUS+154":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/wishtv.com/Ukraines Zelenskyy calls on Putin to meet as tensions soar.txt+eventbasecode154+eventcode154+avgtone0.4640926640926641+goldsteinscale0.13999999999999999+nummentions0.10522496371552975+numarticles0.10587382160986222+numsources0.13486842105263158+news_keywords+['crimea:0.4832', 'putin:0.4541', 'ceasefire:0.4018', 'natos:0.3936', 'invade:0.3894', 'separatist:0.3384', 'battalion:0.3283', 'zelenskyy:0.3098', 'escalation:0.3051', 'government:0.2865', 'relocate:0.2691', 'know:0.2627', 'underway:0.2522', 'influx:0.2413', 'chaos:0.2377', 'briefed:0.2228', 'plan:0.2213', 'secretary:0.2044', 'order:0.1984', 'watch:0.1965', 'report:0.1961', 'fear:0.1893', 'friday:0.1873', 'long:0.1722', 'underscoring:0.1649', 'estimate:0.1427', 'end:0.1419', 'nearly:0.1397', 'prerecorded:0.1192', 'hustle:0.1135']+titles_keywords+['zelenskyy:0.5474', 'putin:0.3566', 'ukraines:0.3337', 'meet:0.2845', 'tensions:0.1767']"
+        ]
+    ]
+}

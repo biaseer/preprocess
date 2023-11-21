@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+36":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/presstv.ir/Some Russian troops return from Ukraine border in a sign of deescalation.txt+eventbasecode36+eventcode36+avgtone0.47605363984674326+goldsteinscale0.7+nummentions0.13824383164005805+numarticles0.13669325598259607+numsources0.22039473684210525+news_keywords+['nato:0.4524', 'putin:0.3975', 'moscow:0.3952', 'invade:0.3362', 'war:0.3215', 'deploy:0.2881', 'tensions:0.2681', 'escalate:0.2611', 'border:0.2531', 'prepare:0.2507', 'propaganda:0.2419', 'armament:0.2381', 'news:0.2357', 'rail:0.1973', 'bloc:0.1904', 'tuesday:0.1897', 'dangerous:0.189', 'scenario:0.1787', 'drill:0.1663', 'president:0.1623', 'continue:0.161', 'pull:0.1595', 'clear:0.1553', 'exercise:0.1455', 'return:0.1345', 'write:0.1274', 'units:0.1054', 'dt:0.0893', 'include:0.0785', 'pic:0.0602']+titles_keywords+['troops:0.3711', 'russian:0.3083', 'border:0.2633', 'return:0.2549', 'deescalation:0.0795']"
+        ]
+    ],
+    "IRN+RUS+36":[
+        [
+            "20220719+../news_crawling/RUS_UKR/p_articles/presstv.ir/Terrorism must be fought with in all of its manifestations Raeisi.txt+eventbasecode36+eventcode36+avgtone0.48514851485148514+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0018129079042784628+numsources0.006578947368421052+news_keywords+['tehran:0.4679', 'erdogan:0.4382', 'irans:0.4046', 'sayingterrorism:0.3968', 'turkey:0.366', 'tayyip:0.3086', 'presidencys:0.2712', 'concern:0.2418', 'security:0.2336', 'translate:0.2255', 'visit:0.2226', 'relation:0.2136', 'border:0.1974', 'coronavirus:0.1905', 'expect:0.1574', 'head:0.1503', 'confront:0.1501', 'assistance:0.1483', 'tuesday:0.1244', 'current:0.1215', 'recep:0.1177', 'point:0.1174', 'organize:0.1106', 'state:0.1012', 'powerful:0.1001', 'official:0.0954', 'long:0.0751', 'billion:0.0538', 'focus:0.048', 'benchmark:0.0409']+titles_keywords+['terrorism:0.6241', 'raeisi:0.3125', 'fought:0.2708', 'manifestations:0.2124']"
+        ]
+    ]
+}

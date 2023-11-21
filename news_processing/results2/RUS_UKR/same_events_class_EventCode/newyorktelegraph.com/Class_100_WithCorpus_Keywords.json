@@ -1,0 +1,7 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220829+../news_crawling/RUS_UKR/p_articles/newyorktelegraph.com/Exact dates for IAEA mission to targeted nuclear site named WSJ.txt+eventbasecode100+eventcode100+avgtone0.48593350383631706+goldsteinscale0.25+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.019736842105263157+news_keywords+['chernobyl:0.5222', 'iaea:0.4509', 'nuclear:0.4408', 'kiev:0.3867', 'kremlin:0.3648', 'zaporozhye:0.2736', 'mission:0.2733', 'peskov:0.2665', 'government:0.2342', 'personnel:0.2331', 'dangerous:0.2303', 'watchdog:0.225', 'examine:0.2209', 'report:0.1986', 'provocation:0.1864', 'trigger:0.1815', 'locate:0.1785', 'artillery:0.1777', 'neutral:0.1665', 'delegation:0.164', 'cite:0.1608', 'lead:0.1502', 'wsj:0.1444', 'pal:0.128', 'official:0.1115', 'say:0.1053', 'september:0.0867', 'eclipse:0.0863', 'begin:0.071', 'house:0.0667']+titles_keywords+['nuclear:0.3504', 'wsj:0.3451', 'iaea:0.3141', 'mission:0.3048', 'dates:0.2342']"
+        ]
+    ]
+}

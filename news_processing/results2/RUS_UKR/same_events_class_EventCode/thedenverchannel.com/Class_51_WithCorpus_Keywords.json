@@ -1,0 +1,17 @@
+{
+    "CUB+RUS+51":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/thedenverchannel.com/UN votes overwhelmingly to demand Russia withdraw from Ukraine.txt+eventbasecode51+eventcode51+avgtone0.47714285714285715+goldsteinscale0.67+nummentions0.02467343976777939+numarticles0.025380710659898477+numsources0.02631578947368421+news_keywords+['ukraine:0.4899', 'abstain:0.3053', 'withdraw:0.2833', 'moscows:0.2777', 'nation:0.2511', 'condemn:0.2419', 'overwhelmingly:0.2266', 'troop:0.2244', 'world:0.2185', 'vote:0.2119', 'aggression:0.1763', 'immediate:0.1646', 'use:0.1569', 'stop:0.1514', 'united:0.1471', 'speak:0.1445', 'offensive:0.1399', 'force:0.1308', 'salvador:0.1296', 'like:0.1199', 'resolution:0.118', 'state:0.1157', 'demand:0.1149', 'general:0.1089', 'term:0.1036', 'island:0.1028', 'african:0.0909', 'include:0.0887', 'tiny:0.0508', 'assembly:0.046']+titles_keywords+['ukraine:0.403', 'overwhelmingly:0.3384', 'votes:0.2523', 'withdraw:0.2422', 'demand:0.0818']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/thedenverchannel.com/Denver Zoo collects 50K in donations to help Ukraine zoos.txt+eventbasecode51+eventcode51+avgtone0.5141342756183745+goldsteinscale0.67+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.5143', 'zoo:0.4856', 'ukrainians:0.4283', 'russia:0.3689', 'veterinary:0.3326', 'cherkassy:0.3217', 'nonprofit:0.3136', 'evacuation:0.3082', 'aquariums:0.305', 'conservation:0.2818', 'crisis:0.2647', 'fund:0.2619', 'fence:0.2527', 'compassionate:0.2306', 'raise:0.2283', 'colorado:0.2222', 'watch:0.2009', 'march:0.1872', 'world:0.1665', 'distributed:0.1624', 'continue:0.1579', 'vescolani:0.1537', 'president:0.1496', 'dangerous:0.1374', 'send:0.1345', 'main:0.1145', 'necessary:0.1126', 'thanks:0.1036', 'wrong:0.0956', 'weve:0.0349']+titles_keywords+['zoos:0.4721', 'donations:0.4082', '50k:0.2889', 'ukraine:0.2864', 'denver:0.2742']"
+        ]
+    ],
+    "UKR+USA+51":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/thedenverchannel.com/PEN America will honor imprisoned Ukrainian journalist Vladyslav Yesypenko at gala.txt+eventbasecode51+eventcode51+avgtone0.4693877551020406+goldsteinscale0.67+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['crimean:0.5171', 'yesypenko:0.3923', 'correspondent:0.3832', 'vladyslav:0.3817', 'espionage:0.3441', 'russias:0.3419', 'imprison:0.3002', 'allegation:0.2279', 'europeradio:0.2241', 'war:0.2234', 'news:0.222', 'freedomtowrite:0.2015', 'occupied:0.1838', 'illegal:0.1664', 'source:0.1619', 'write:0.143', 'nossel:0.1418', 'freelance:0.1303', 'penbarbey:0.1242', 'march:0.1066', 'confess:0.1059', 'suzanne:0.0962', 'ceo:0.0934', 'intensified:0.0924', 'federal:0.0839', 'right:0.0779', 'bare:0.0778', 'run:0.0773', 'hgrq:0.0647', 'pic:0.0454']+titles_keywords+['yesypenko:0.405', 'pen:0.2521', 'imprisoned:0.1991', 'honor:0.1989', 'gala:0.1171']"
+        ]
+    ]
+}

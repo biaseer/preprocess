@@ -1,0 +1,20 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/UN Security Council to meet as Ukraine calls for humanitarian corridors.txt+eventbasecode46+eventcode46+avgtone0.4768211920529801+goldsteinscale0.85+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5+news_keywords+['ukraine:0.4698', 'humanitarian:0.4088', 'briefing:0.3496', 'war:0.3491', 'nuclear:0.3271', 'putins:0.3211', 'blockade:0.309', 'embassy:0.2899', 'emergency:0.2889', 'government:0.2864', 'corridor:0.2766', 'flee:0.2023', 'anonymity:0.1979', 'delegation:0.1943', 'debate:0.1853', 'organise:0.1711', 'zelensky:0.1645', 'intensifies:0.1585', 'catherine:0.1486', 'shmyhal:0.1411', 'hear:0.1407', 'toll:0.1405', 'immediately:0.1367', 'expect:0.1221', 'follow:0.1158', 'weu:0.0978', 'million:0.0935', 'send:0.0853', 'resolution:0.0771', 'set:0.0715']+titles_keywords+['ukraine:0.3616', 'humanitarian:0.3131', 'corridors:0.2686', 'council:0.2649', 'meet:0.1889']"
+        ],
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Irish Government doing everything it can to find accommodation for Ukrainians.txt+eventbasecode46+eventcode46+avgtone0.4846938775510204+goldsteinscale0.85+nummentions0.16364296081277213+numarticles0.16098622189992748+numsources0.3684210526315789+news_keywords+['ukraine:0.4608', 'refugee:0.4211', 'demilitarisation:0.385', 'war:0.3581', 'irish:0.2981', 'accommodation:0.2856', 'government:0.2755', 'instability:0.2703', 'debate:0.2545', 'unilaterally:0.2509', 'consequences:0.2342', 'directive:0.2233', 'future:0.2166', 'broader:0.2104', 'dramatic:0.2078', 'increase:0.2054', 'turning:0.2033', 'flee:0.1955', 'martin:0.1856', 'idea:0.1732', 'term:0.1725', 'significant:0.1703', 'end:0.1613', 'arrive:0.158', 'scrpv:0.1529', 'population:0.1527', 'vat:0.1449', 'research:0.143', 'refit:0.1358', 'measure:0.1266']+titles_keywords+['ukrainians:0.4157', 'accommodation:0.3827', 'irish:0.3624', 'government:0.201', 'doing:0.0561']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20220122+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/US and Russia agree to keep talking amid tensions over Ukraine.txt+eventbasecode46+eventcode46+avgtone0.5+goldsteinscale0.85+nummentions0.18396226415094338+numarticles0.1845540246555475+numsources0.3684210526315789+news_keywords+['diplomacy:0.4611', 'nato:0.4345', 'putin:0.3937', 'kyivs:0.3498', 'invades:0.2951', 'pursue:0.2677', 'deploy:0.2576', 'crisis:0.2429', 'manoeuvre:0.2191', 'concern:0.2184', 'ongoing:0.2165', 'debate:0.2077', 'weaponry:0.2019', 'anticipate:0.2006', 'know:0.1961', 'aid:0.1949', 'position:0.1865', 'word:0.1827', 'pull:0.1745', 'reiterate:0.1735', 'direct:0.1668', 'promise:0.165', 'unite:0.1578', 'consequence:0.1561', 'virtual:0.1554', 'strike:0.1402', 'difference:0.1394', 'week:0.1313', 'send:0.1248', 'produce:0.1093']+titles_keywords+['talking:0.31', 'ukraine:0.29', 'tensions:0.0986', 'agree:0.0386', 'amid:-0.0234']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Russias troops withdrawing and risk being attacked by Ukraine forces Radakin.txt+eventbasecode46+eventcode46+avgtone0.474816369359916+goldsteinscale0.85+nummentions0.1320754716981132+numarticles0.13270485859318346+numsources0.14802631578947367+news_keywords+['putin:0.4629', 'kyiv:0.4174', 'nato:0.3963', 'russias:0.387', 'propaganda:0.3157', 'gchq:0.304', 'colonel:0.2786', 'escalate:0.2535', 'bombardment:0.2529', 'retreat:0.2506', 'predict:0.2476', 'negotiation:0.2406', 'secure:0.2224', 'sanction:0.2106', 'replace:0.2023', 'order:0.1931', 'emphasis:0.1854', 'shoot:0.1847', 'map:0.1733', 'misled:0.1715', 'conversely:0.1714', 'unite:0.1646', 'fleming:0.1515', 'arm:0.1458', 'short:0.142', 'resume:0.1409', 'coming:0.1247', 'include:0.1127', 'weve:0.112', 'agreed:0.0971']+titles_keywords+['ukraine:0.4267', 'radakin:0.3193', 'withdrawing:0.313', 'attacked:0.1929', 'forces:0.1493']"
+        ]
+    ]
+}

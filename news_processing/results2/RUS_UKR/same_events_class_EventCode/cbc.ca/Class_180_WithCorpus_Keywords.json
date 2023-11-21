@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/cbc.ca/Cyberattack hits Ukraine as US warns Russia preparing pretext for invasion.txt+eventbasecode180+eventcode180+avgtone0.4822954822954823+goldsteinscale0.05+nummentions0.2155297532656023+numarticles0.21609862218999276+numsources0.3026315789473684+news_keywords+['cyberattack:0.5218', 'ukraine:0.4445', 'natoexperts:0.4442', 'kremlin:0.4395', 'invade:0.3656', 'diplomacy:0.3259', 'government:0.2988', 'operation:0.2645', 'concern:0.2613', 'psaki:0.2535', 'allegation:0.249', 'malicious:0.2487', 'news:0.2424', 'pretext:0.2382', 'prepare:0.2307', 'future:0.2279', 'president:0.2075', 'remind:0.1994', 'report:0.1977', 'understand:0.1924', 'possibility:0.1558', 'meet:0.1452', 'unfolded:0.1406', 'fabricate:0.1367', 'resume:0.1304', 'echoed:0.1266', 'josep:0.1241', 'categorically:0.1137', 'long:0.1097', 'unless:0.0533']+titles_keywords+['cyberattack:0.4659', 'ukraine:0.3855', 'preparing:0.2419', 'pretext:0.2176', 'warns:0.2097']"
+        ],
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/cbc.ca/What happened in Week 9 of Russias assault on Ukraine.txt+eventbasecode180+eventcode180+avgtone0.46875+goldsteinscale0.05+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4859', 'war:0.3568', 'russias:0.3314', 'april:0.3084', 'battle:0.3078', 'happen:0.261', 'recap:0.2607', 'victory:0.26', 'assault:0.2354', 'continue:0.2097', 'artillery:0.205', 'steel:0.1988', 'bombs:0.1807', 'week:0.169', 'report:0.1676', 'east:0.1651', 'port:0.1631', 'phase:0.1511', 'proclaim:0.15', 'plant:0.1486', 'new:0.1429', 'city:0.1356', 'rain:0.1308', 'increase:0.1122', 'despite:0.1094', 'control:0.0989', 'mariupol:0.084', 'heres:0.0617', 'sheltered:0.0576', 'heavy:0.0394']+titles_keywords+['ukraine:0.4049', 'russias:0.3419', 'happened:0.319', 'assault:0.2954', 'week:0.1918']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220621+../news_crawling/RUS_UKR/p_articles/cbc.ca/Everything was burned Kharkiv residents emerge from life underground to find a city in ruins.txt+eventbasecode180+eventcode180+avgtone0.4909993792675357+goldsteinscale0.05+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4536', 'saltivka:0.4022', 'terkhov:0.3942', 'korobochkyno:0.3374', 'war:0.3356', 'bombardment:0.3147', 'safecity:0.3043', 'flee:0.2811', 'homeless:0.2644', 'troop:0.2583', 'hallway:0.2479', 'house:0.2471', 'understand:0.2442', 'collapsed:0.2226', 'table:0.2168', 'visit:0.2082', 'scary:0.2065', 'emotion:0.2018', 'cover:0.1897', 'story:0.1886', 'soon:0.1812', 'begin:0.1753', 'make:0.1746', 'structureand:0.1617', 'delineate:0.1615', 'kilometresaway:0.1551', 'main:0.1527', 'granddaughter:0.1446', 'caritas:0.1287', 'radiator:0.0908']+titles_keywords+['kharkiv:0.4227', 'ruins:0.3902', 'underground:0.3518', 'burned:0.2683', 'emerge:0.2652']"
+        ]
+    ]
+}

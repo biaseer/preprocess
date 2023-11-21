@@ -1,0 +1,20 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/kuaf.com/RussiaUkraine war What happened today June 8.txt+eventbasecode180+eventcode180+avgtone0.4826086956521739+goldsteinscale0.05+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.08223684210526316+news_keywords+['ukraine:0.5095', 'russiaukraine:0.4655', 'putin:0.3929', 'war:0.358', 'ankara:0.2781', 'zelenskyy:0.2719', 'regiment:0.2244', 'recap:0.2046', 'update:0.198', 'read:0.1754', 'long:0.16', 'safe:0.157', 'npr:0.1556', 'continue:0.1512', 'corridor:0.1475', 'fall:0.1427', 'today:0.1416', 'changing:0.1402', 'arrive:0.1335', 'donbas:0.1084', 'port:0.1055', 'plant:0.1031', 'control:0.0958', 'exchange:0.0922', 'draw:0.0907', 'middle:0.086', 'like:0.0836', 'million:0.0761', 'black:0.0704', 'agree:0.0602']+titles_keywords+['russiaukraine:0.4775', 'war:0.4188', 'today:0.3041', 'june:0.2979', 'happened:0.2659']"
+        ]
+    ],
+    "UKR+BGD+180":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/kuaf.com/Missile strikes in western Ukraine kill 6 as country braces for new assault in east.txt+eventbasecode180+eventcode180+avgtone0.4706943192064923+goldsteinscale0.05+nummentions0.11175616835994194+numarticles0.11240029006526468+numsources0.16776315789473684+news_keywords+['kyiv:0.476', 'airstrikes:0.4121', 'putin:0.3801', 'azov:0.3046', 'missile:0.2963', 'news:0.272', 'prepare:0.2572', 'emergency:0.2532', 'victory:0.2518', 'railways:0.2311', 'strategically:0.2236', 'reinforce:0.2129', 'spar:0.211', 'troop:0.2081', 'sprawl:0.2028', 'seize:0.2027', 'separatist:0.2011', 'tell:0.1925', 'basically:0.1837', 'shmyhal:0.1771', 'end:0.1761', 'analyst:0.1748', 'fall:0.1645', 'western:0.1607', 'amid:0.1561', 'donbas:0.1484', 'affected:0.1456', 'maternity:0.1305', 'plant:0.1295', 'plume:0.1138']+titles_keywords+['ukraine:0.3391', 'missile:0.2372', 'strikes:0.1254', 'braces:0.0817', 'new:0.0491']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/kuaf.com/A Ukrainian boy travels 620 miles to safety with a phone number written on his.txt+eventbasecode180+eventcode180+avgtone0.51+goldsteinscale0.05+nummentions0.054426705370101594+numarticles0.05511240029006526+numsources0.10526315789473684+news_keywords+['ukrainian:0.4513', 'pisetskaya:0.4336', 'slovakia:0.4261', 'zaporizhzhia:0.3714', 'border:0.3402', 'translate:0.3387', 'troop:0.3328', 'safety:0.3111', 'embassy:0.304', 'boy:0.301', 'hero:0.2715', 'attack:0.2676', 'travel:0.2532', 'kilometer:0.2465', 'volunteer:0.2403', 'nuclear:0.2326', 'flee:0.2272', 'widow:0.207', 'care:0.2048', 'contact:0.2038', 'write:0.1947', 'table:0.1861', 'town:0.184', 'relatives:0.1814', 'video:0.1644', 'praise:0.1632', 'real:0.1522', 'trek:0.1413', 'welcome:0.1294', 'able:0.1279']+titles_keywords+['ukrainian:0.3785', 'number:0.3498', 'miles:0.3307', 'boy:0.3071', 'written:0.2242']"
+        ],
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/kuaf.com/These Ukrainian students are competing virtually in an international science fair.txt+eventbasecode180+eventcode180+avgtone0.4968879668049792+goldsteinscale0.05+nummentions0.14368650217706821+numarticles0.14430746918056564+numsources0.12828947368421054+news_keywords+['ukraine:0.4659', 'school:0.3436', 'project:0.3424', 'smovzh:0.3423', 'compete:0.341', 'engineering:0.3307', 'event:0.3039', 'explosion:0.2899', 'read:0.2821', 'involve:0.2762', 'world:0.2691', 'make:0.2436', 'mixture:0.2403', 'news:0.2374', 'circumstance:0.2371', 'problem:0.2259', 'parasite:0.2242', 'explain:0.2207', 'people:0.2197', 'independent:0.2137', 'insecticides:0.2126', 'learned:0.2059', 'dmytriy:0.1925', 'treatment:0.1885', 'long:0.1736', 'central:0.1569', 'isef:0.1482', 'feb:0.1419', 'arriving:0.1358', 'deal:0.0964']+titles_keywords+['competing:0.4041', 'students:0.3741', 'ukrainian:0.3673', 'science:0.2047', 'virtually:0.1353']"
+        ]
+    ]
+}

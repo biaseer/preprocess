@@ -1,0 +1,15 @@
+{
+    "CHN+UKR+51":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/straitstimes.com/War complicates Russias role in supplying commodities to China.txt+eventbasecode51+eventcode51+avgtone0.47379454926624737+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['russia:0.3766', 'war:0.2933', 'logistics:0.2319', 'renminbi:0.2312', 'concern:0.217', 'implication:0.1939', 'future:0.1802', 'complicate:0.1798', 'importer:0.174', 'hong:0.1642', 'news:0.1629', 'jinping:0.1608', 'xi:0.1507', 'trade:0.1457', 'cite:0.1437', 'sanction:0.1434', 'global:0.1431', 'continue:0.1321', 'enhance:0.1241', 'long:0.1218', 'biden:0.1198', 'shun:0.1164', 'compare:0.1151', 'term:0.1104', 'role:0.1091', 'ore:0.1057', 'calculation:0.0914', 'outlook:0.0801', 'unilateral:0.0776', 'senior:0.0593']+titles_keywords+['war:0.3906', 'russias:0.3736', 'commodities:0.322', 'complicates:0.1939', 'role:0.127']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Russias sharpening of demands over Ukraine not encouraging for ongoing crisis.txt+eventbasecode51+eventcode51+avgtone0.5+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5249', 'ukraine:0.4388', 'russias:0.4374', 'vladimir:0.4004', 'russian:0.3688', 'nuclear:0.2873', 'crisis:0.2385', 'drill:0.2366', 'exercise:0.207', 'encourage:0.2024', 'demand:0.175', 'authority:0.1738', 'involve:0.1724', 'sharpen:0.1651', 'launch:0.1592', 'advance:0.1518', 'plan:0.1509', 'oversee:0.1386', 'ongoing:0.1298', 'ballistic:0.1283', 'feb:0.1221', 'begin:0.1148', 'saturday:0.0831', 'matter:0.0717', 'claim:0.0508', 'cruise:0.0508', 'archive:0.0391', 'miss:0.02', 'major:0.0173', 'personally:-0.0362']+titles_keywords+['ukraine:0.4064', 'demands:0.2642', 'crisis:0.2432', 'sharpening:0.172', 'encouraging:0.1681']"
+        ],
+        [
+            "20220526+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Party or not Couples in Ukraine face wedding quandary.txt+eventbasecode51+eventcode51+avgtone0.4872122762148337+goldsteinscale0.67+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.01644736842105263+news_keywords+['nuptials:0.4558', 'kyiv:0.4387', 'war:0.3084', 'celebrate:0.2876', 'evacuate:0.2516', 'afp:0.2161', 'ruin:0.214', 'quandary:0.2021', 'resume:0.2013', 'witness:0.201', 'notice:0.1997', 'future:0.1975', 'office:0.1864', 'irpin:0.1813', 'surround:0.1803', 'synonymous:0.1801', 'discreet:0.1759', 'long:0.1722', 'want:0.1694', 'returning:0.1623', 'registrar:0.1608', 'february:0.1565', 'bucha:0.1556', 'style:0.1527', 'newly:0.1495', 'way:0.1435', 'glassware:0.1243', 'bright:0.1238', 'liana:0.1221', 'unlike:0.1077']+titles_keywords+['wedding:0.5049', 'party:0.4481', 'couples:0.4132', 'ukraine:0.3261', 'quandary:0.1672']"
+        ]
+    ]
+}

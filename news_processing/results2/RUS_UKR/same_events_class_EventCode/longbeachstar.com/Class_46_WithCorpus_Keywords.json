@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+46":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/West working to disrupt Ukraine peace talks Russia.txt+eventbasecode46+eventcode46+avgtone0.49472759226713536+goldsteinscale0.85+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.009868421052631578+news_keywords+['treaty:0.461', 'diplomatic:0.4009', 'kiev:0.3876', 'nato:0.3715', 'negotiations:0.3701', 'provocation:0.2858', 'talk:0.2774', 'eastward:0.2553', 'align:0.2373', 'investigation:0.2349', 'continue:0.2323', 'delegation:0.2262', 'formalize:0.214', 'president:0.2099', 'future:0.2029', 'event:0.2021', 'reminder:0.1923', 'bloc:0.1824', 'order:0.1748', 'deploy:0.174', 'issue:0.1705', 'signal:0.1695', 'neutral:0.1676', 'purported:0.1524', 'hysteria:0.1519', 'pushcha:0.1434', 'difference:0.1412', 'donbass:0.128', 'possible:0.1091', 'agree:0.087']+titles_keywords+['ukraine:0.4077', 'peace:0.2916', 'disrupt:0.2515', 'west:0.2415', 'working:0.1676']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/India wants peace issues resolved through talks says Rajnath Singh on Ukraine crisis.txt+eventbasecode46+eventcode46+avgtone0.5+goldsteinscale0.85+nummentions0.038461538461538464+numarticles0.03915881073241479+numsources0.0625+news_keywords+['ukraine:0.4379', 'putin:0.3941', 'diplomatic:0.3753', 'tensions:0.3432', 'peace:0.3292', 'resolve:0.309', 'uttar:0.3021', 'escalation:0.2664', 'border:0.2291', 'crisis:0.2188', 'talk:0.2093', 'federation:0.2001', 'independence:0.1826', 'rajnath:0.1697', 'counterpart:0.1684', 'want:0.1651', 'armed:0.1583', 'biden:0.1567', 'table:0.1527', 'mutually:0.1475', 'troop:0.147', 'address:0.1397', 'unsc:0.1388', 'monday:0.1255', 'emphasize:0.1194', 'brief:0.1145', 'exercise:0.1089', 'ani:0.0977', 'hold:0.0872', 'far:0.0607']+titles_keywords+['peace:0.3812', 'talks:0.3016', 'ukraine:0.2802', 'rajnath:0.2189', 'resolved:0.1753']"
+        ]
+    ]
+}

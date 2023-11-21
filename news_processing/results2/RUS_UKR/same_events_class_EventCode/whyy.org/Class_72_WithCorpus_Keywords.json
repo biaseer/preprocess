@@ -1,0 +1,17 @@
+{
+    "BLR+UKR+72":[
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/whyy.org/Relentless Russia squeezes Ukrainian strongholds in east.txt+eventbasecode72+eventcode72+avgtone0.470616570327553+goldsteinscale0.915+nummentions0.07111756168359942+numarticles0.07179115300942712+numsources0.0756578947368421+news_keywords+['ukraine:0.4792', 'putins:0.3929', 'ceasefires:0.3893', 'invade:0.3499', 'zhdanov:0.278', 'artillery:0.275', 'embargo:0.2692', 'underway:0.2661', 'industrial:0.241', 'read:0.2397', 'intensify:0.2379', 'news:0.2294', 'warn:0.2267', 'sievierodonetsk:0.224', 'backfire:0.2161', 'precede:0.1988', 'term:0.1869', 'rebuild:0.1795', 'supportfor:0.1759', 'secretary:0.1757', 'delivered:0.173', 'trap:0.1684', 'end:0.1668', 'advantage:0.1646', 'huddle:0.1636', 'untreated:0.139', 'wont:0.1311', 'rd:0.1066', 'agree:0.1056', 'ambivalent:0.098']+titles_keywords+['ukrainian:0.4104', 'relentless:0.2985', 'strongholds:0.2817', 'squeezes:0.2784', 'east:0.1987']"
+        ]
+    ],
+    "DEU+UKR+72":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/whyy.org/Ukraine seeks to join EU as round of talks with Russia ends.txt+eventbasecode72+eventcode72+avgtone0.47405329593267886+goldsteinscale0.915+nummentions0.16110304789550073+numarticles0.16171138506163887+numsources0.17763157894736842+news_keywords+['ukraine:0.5253', 'nato:0.4367', 'kremlin:0.4331', 'diplomacy:0.3848', 'euronews:0.3345', 'oleg:0.3318', 'blitzkrieg:0.3038', 'escalation:0.281', 'overthrow:0.2684', 'table:0.2356', 'agreement:0.2327', 'read:0.2313', 'ally:0.2041', 'want:0.2002', 'anonymity:0.1942', 'orbit:0.192', 'discus:0.1902', 'begin:0.1893', 'soon:0.1891', 'survive:0.1866', 'import:0.181', 'report:0.1773', 'long:0.174', 'tense:0.1728', 'corridor:0.1722', 'reserve:0.169', 'oncology:0.1589', 'direct:0.1435', 'head:0.134', 'anytime:0.0835']+titles_keywords+['ukraine:0.4094', 'join:0.2377', 'ends:0.157', 'talks:0.0813', 'round:0.0761']"
+        ]
+    ],
+    "WST+UKR+72":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/whyy.org/Russian attacks halt plans to evacuate Ukrainian civilians.txt+eventbasecode72+eventcode72+avgtone0.4733527131782946+goldsteinscale0.915+nummentions0.3033381712626996+numarticles0.30384336475707036+numsources0.34210526315789475+news_keywords+['kyiv:0.5024', 'putin:0.385', 'airstrikes:0.3845', 'russias:0.3696', 'syria:0.3507', 'nato:0.3446', 'dispatch:0.2665', 'humanitarian:0.2623', 'troop:0.2541', 'annex:0.2517', 'flee:0.2512', 'unprovoked:0.2453', 'conflict:0.2334', 'telegram:0.2243', 'continue:0.222', 'journalism:0.2216', 'plan:0.211', 'know:0.2078', 'intensify:0.2057', 'read:0.1969', 'corridor:0.1833', 'outmatch:0.1656', 'friday:0.1545', 'bucha:0.1451', 'like:0.1318', 'hour:0.1296', 'onlookers:0.125', 'somber:0.1206', 'major:0.1118', 'anytime:0.0777']+titles_keywords+['ukrainian:0.4235', 'evacuate:0.409', 'civilians:0.3263', 'attacks:0.2054', 'plans:0.1356']"
+        ]
+    ]
+}

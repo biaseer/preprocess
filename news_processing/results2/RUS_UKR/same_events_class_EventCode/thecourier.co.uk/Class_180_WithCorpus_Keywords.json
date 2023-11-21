@@ -1,0 +1,10 @@
+{
+    "IRL+RUS+180":[
+        []
+    ],
+    "RUS+UKR+180":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/thecourier.co.uk/Ukraine assault Nicola Sturgeon says Kremlin must face the severest consequences.txt+eventbasecode180+eventcode180+avgtone0.4705014749262537+goldsteinscale0.05+nummentions0.1962989840348331+numarticles0.19543147208121828+numsources0.20394736842105263+news_keywords+['ukraine:0.4859', 'kremlin:0.4406', 'militarily:0.3666', 'peaceful:0.3521', 'attack:0.3402', 'bloodshed:0.3176', 'sovereignty:0.3157', 'disruption:0.2821', 'unprovoked:0.2759', 'warn:0.2624', 'sanction:0.2601', 'ahead:0.26', 'anticipating:0.2452', 'urgent:0.2259', 'standwithukraine:0.223', 'president:0.2188', 'debate:0.2116', 'sturgeon:0.1958', 'unqualified:0.1784', 'impede:0.1754', 'horrific:0.1711', 'end:0.1686', 'venture:0.1523', 'helicopter:0.1485', 'agree:0.1276', 'long:0.1188', 'scale:0.1081', 'weve:0.0988', 'today:0.0979', 'external:0.0712']+titles_keywords+['kremlin:0.412', 'sturgeon:0.351', 'consequences:0.3367', 'severest:0.2708', 'says:0.125']"
+        ]
+    ]
+}

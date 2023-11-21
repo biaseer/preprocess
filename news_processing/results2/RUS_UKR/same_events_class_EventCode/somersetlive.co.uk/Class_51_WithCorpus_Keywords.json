@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+51":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/somersetlive.co.uk/Clive Myrie how the BBCs man in Ukraine and Mastermind host rose to the top.txt+eventbasecode51+eventcode51+avgtone0.5083612040133779+goldsteinscale0.67+nummentions0.020682148040638608+numarticles0.02139231327048586+numsources0.046052631578947366+news_keywords+['journalist:0.492', 'clive:0.3892', 'kyiv:0.3647', 'presenter:0.3606', 'bbcs:0.3595', 'catherine:0.3063', 'myrie:0.2865', 'history:0.2709', 'prominence:0.2479', 'radio:0.2352', 'cite:0.2242', 'jamaican:0.2179', 'report:0.2121', 'misinformation:0.2119', 'hes:0.1988', 'quant:0.1897', 'honest:0.1813', 'father:0.1792', 'story:0.1693', 'election:0.1668', 'continue:0.1604', 'troop:0.1594', 'speak:0.1583', 'coverage:0.1576', 'th:0.1444', 'world:0.1373', 'list:0.1365', 'familiar:0.1327', 'late:0.1265', 'big:0.1059']+titles_keywords+['journalism:0.4985', 'bbcs:0.4054', 'clive:0.3376', 'mastermind:0.2435', 'myrie:0.2329']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/somersetlive.co.uk/Drivers in rural areas could be hit with new pay per mile road tax.txt+eventbasecode51+eventcode51+avgtone0.48433242506811985+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['roads:0.4263', 'motorists:0.3651', 'leaseelectriccar:0.3062', 'mps:0.3051', 'rural:0.2896', 'uk:0.288', 'petrol:0.2779', 'driver:0.271', 'future:0.2469', 'organisation:0.2398', 'tax:0.2378', 'mile:0.2356', 'proposal:0.2224', 'amounting:0.1904', 'news:0.1883', 'read:0.1868', 'increasingly:0.1846', 'disadvantage:0.1678', 'registration:0.16', 'replace:0.1551', 'report:0.1518', 'turn:0.1481', 'cheap:0.145', 'backlash:0.1366', 'essential:0.1352', 'neutral:0.1332', 'upfest:0.1249', 'way:0.1054', 'generate:0.085', 'disable:0.0767']+titles_keywords+['rural:0.3324', 'road:0.3052', 'mile:0.3006', 'drivers:0.274', 'tax:0.2686']"
+        ]
+    ]
+}

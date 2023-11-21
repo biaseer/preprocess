@@ -1,0 +1,12 @@
+{
+    "AUS+UKR+231":[
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/cbc.ca/Victoria paramedics raise enough money to donate 3 ambulances to war effort in Ukraine.txt+eventbasecode23+eventcode231+avgtone0.4968944099378882+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ambulance:0.5103', 'ukraine:0.4878', 'war:0.3673', 'volunteer:0.3569', 'logistics:0.3189', 'civilian:0.2863', 'help:0.276', 'expertise:0.2614', 'raise:0.2471', 'coverage:0.2453', 'pirogov:0.2363', 'safe:0.2103', 'care:0.201', 'news:0.1947', 'overwhelming:0.1934', 'arrive:0.1841', 'word:0.1833', 'impacted:0.1822', 'heard:0.1801', 'ohchr:0.1793', 'buy:0.1682', 'far:0.1586', 'andrew:0.1401', 'appreciate:0.14', 'ofhow:0.1358', 'feb:0.1355', 'millsput:0.121', 'difference:0.1064', 'little:0.1026', 'flash:0.0868']+titles_keywords+['ambulances:0.4609', 'donate:0.3537', 'ukraine:0.3108', 'victoria:0.2892', 'war:0.2318']"
+        ]
+    ],
+    "UKR+RUS+231":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/cbc.ca/St Patricks Day celebrated in Windsor after twoyear hiatus.txt+eventbasecode23+eventcode231+avgtone0.5163147792706334+goldsteinscale0.67+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['windsor:0.517', 'holiday:0.3632', 'patricks:0.3454', 'celebrate:0.3337', 'brewing:0.2999', 'ukrainian:0.2922', 'pint:0.2654', 'craftheads:0.2632', 'event:0.2344', 'troupe:0.2317', 'pandemic:0.2295', 'county:0.2276', 'east:0.2121', 'make:0.2024', 'people:0.194', 'busy:0.1892', 'miss:0.1861', 'come:0.1776', 'mask:0.1715', 'big:0.1707', 'know:0.1698', 'st:0.1689', 'donate:0.1686', 'public:0.1624', 'week:0.1581', 'idea:0.1517', 'welcome:0.1479', 'dr:0.1404', 'guideline:0.1133', 'really:0.1006']+titles_keywords+['windsor:0.505', 'patricks:0.3095', 'celebrated:0.2696', 'twoyear:0.2154', 'st:0.1564']"
+        ]
+    ]
+}

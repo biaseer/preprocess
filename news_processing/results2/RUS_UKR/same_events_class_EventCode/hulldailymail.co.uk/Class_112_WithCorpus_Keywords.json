@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+112":[
+        [
+            "20220123+../news_crawling/RUS_UKR/p_articles/hulldailymail.co.uk/Britain accuses Putin of plotting to install proMoscow leader in Ukraine.txt+eventbasecode112+eventcode112+avgtone0.48849104859335035+goldsteinscale0.4+nummentions0.2862844702467344+numarticles0.2868020304568528+numsources0.6118421052631579+news_keywords+['kremlin:0.5015', 'putin:0.4942', 'yanukovych:0.4519', 'kyiv:0.4189', 'russias:0.4008', 'sivkovich:0.3653', 'diplomacy:0.3144', 'invasion:0.2953', 'puppet:0.2748', 'interpol:0.2452', 'flee:0.2163', 'secretary:0.2121', 'accuse:0.2091', 'topple:0.1981', 'prepare:0.1965', 'information:0.1695', 'end:0.1548', 'secure:0.1527', 'seat:0.1482', 'andriy:0.14', 'mr:0.1273', 'plotting:0.1171', 'list:0.1114', 'red:0.1076', 'reportedly:0.0969', 'lengths:0.0932', 'unusual:0.0845', 'install:0.0657', 'today:0.0589', 'price:0.0544']+titles_keywords+['putin:0.481', 'britain:0.2464', 'accuses:0.2121', 'promoscow:0.1283', 'install:0.0641']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/hulldailymail.co.uk/Russia vows new strikes on Kyiv as Ukraine reports 900 civilian bodies found.txt+eventbasecode112+eventcode112+avgtone0.4716636197440585+goldsteinscale0.4+nummentions1.0+numarticles1.0+numsources1.0+news_keywords+['kyiv:0.5214', 'russian:0.4059', 'airstrikes:0.378', 'russias:0.3672', 'terrorise:0.2756', 'sinehubov:0.2629', 'nationalist:0.2585', 'missile:0.249', 'troop:0.2271', 'occupier:0.2215', 'victory:0.1991', 'understand:0.1945', 'hit:0.1891', 'diversion:0.1864', 'bucha:0.1815', 'cite:0.1806', 'production:0.18', 'accuse:0.1783', 'address:0.1665', 'indicate:0.1652', 'remain:0.1639', 'buried:0.1593', 'shelling:0.1578', 'andriy:0.1485', 'data:0.1424', 'month:0.132', 'head:0.1186', 'mount:0.1062', 'old:0.1002', 'add:0.0483']+titles_keywords+['kyiv:0.4441', '900:0.2181', 'strikes:0.1881', 'new:0.1378', 'civilian:0.107']"
+        ]
+    ]
+}

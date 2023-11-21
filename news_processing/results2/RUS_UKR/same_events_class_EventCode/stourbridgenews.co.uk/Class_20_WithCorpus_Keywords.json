@@ -1,0 +1,17 @@
+{
+    "POL+RUS+20":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/stourbridgenews.co.uk/Johnson helping Ukraine more thanks to British public pressure Zelensky says.txt+eventbasecode20+eventcode20+avgtone0.48329048843187655+goldsteinscale0.65+nummentions0.2144412191582003+numarticles0.21501087744742567+numsources0.3223684210526316+news_keywords+['putin:0.4694', 'ukraines:0.4387', 'nato:0.3998', 'invade:0.3489', 'conflict:0.3134', 'neutrality:0.2779', 'escalation:0.26', 'zelensky:0.2453', 'speak:0.2009', 'volodymyr:0.1936', 'reiterate:0.1882', 'want:0.1869', 'logistically:0.1803', 'feed:0.1749', 'secretary:0.1708', 'vote:0.1692', 'row:0.1687', 'term:0.1678', 'french:0.1531', 'hesitant:0.1512', 'stay:0.1484', 'ready:0.1431', 'end:0.1375', 'unscripted:0.1322', 'powerful:0.1299', 'deep:0.1145', 'agree:0.0975', 'house:0.097', 'antony:0.0954', 'month:0.0794']+titles_keywords+['zelensky:0.4409', 'ukraine:0.3697', 'johnson:0.2798', 'british:0.1875', 'helping:0.1351']"
+        ]
+    ],
+    "RUS+RUS+20":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/stourbridgenews.co.uk/PM denies intervening to secure peerage for Evgeny Lebedev.txt+eventbasecode20+eventcode20+avgtone0.4950576606260297+goldsteinscale0.65+nummentions0.0841799709724238+numarticles0.08484408992023205+numsources0.18421052631578946+news_keywords+['peerage:0.5398', 'putin:0.4827', 'parliamentary:0.389', 'evgeny:0.3513', 'privilege:0.316', 'regime:0.3136', 'allegation:0.2538', 'law:0.2383', 'nominate:0.237', 'bbc:0.2336', 'mr:0.2298', 'labours:0.2201', 'intervene:0.2066', 'grant:0.1966', 'letter:0.1922', 'debate:0.1726', 'james:0.1663', 'seat:0.165', 'invasion:0.164', 'matter:0.158', 'protect:0.1579', 'clearance:0.1575', 'evening:0.1466', 'discus:0.1421', 'come:0.1397', 'previous:0.1336', 'withdraw:0.0984', 'agree:0.0929', 'cleverly:0.0908', 'override:0.0591']+titles_keywords+['peerage:0.4634', 'lebedev:0.4059', 'denies:0.219', 'intervening:0.1889', 'pm:0.0884']"
+        ]
+    ],
+    "RUS+USA+20":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/stourbridgenews.co.uk/Putin and Biden hold highstakes phone call over Ukraine crisis.txt+eventbasecode20+eventcode20+avgtone0.48572561459159397+goldsteinscale0.65+nummentions0.27322206095791+numarticles0.2737490935460479+numsources0.4506578947368421+news_keywords+['putin:0.4905', 'natos:0.4448', 'kyiv:0.407', 'war:0.3414', 'embassys:0.3126', 'annex:0.2917', 'administration:0.2521', 'border:0.2423', 'incursion:0.2417', 'commence:0.2374', 'misinformation:0.2305', 'sanction:0.2212', 'plan:0.2148', 'separatist:0.2137', 'event:0.2106', 'reassure:0.2062', 'order:0.2049', 'soon:0.2009', 'debate:0.1868', 'winter:0.1865', 'know:0.1854', 'telephone:0.1794', 'rail:0.1749', 'tense:0.1701', 'eastern:0.1689', 'counterpart:0.1665', 'pull:0.1653', 'summary:0.1577', 'highstakes:0.1398', 'big:0.1327']+titles_keywords+['putin:0.4179', 'biden:0.3862', 'phone:0.2157', 'hold:0.1745', 'highstakes:0.1693']"
+        ]
+    ]
+}

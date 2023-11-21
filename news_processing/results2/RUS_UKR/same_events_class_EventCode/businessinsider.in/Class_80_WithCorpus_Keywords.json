@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+80":[
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/businessinsider.in/A British man who joined Ukraines marines is said to have surrendered to Russian forces.txt+eventbasecode80+eventcode80+avgtone0.4715261958997722+goldsteinscale0.75+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukrainian:0.4807', 'mercenary:0.4297', 'kremlin:0.3847', 'brigade:0.3664', 'marines:0.3409', 'boychenko:0.308', 'syria:0.3069', 'separatist:0.3004', 'conflict:0.2364', 'defend:0.2271', 'ammunition:0.218', 'leave:0.2081', 'ypg:0.204', 'aslin:0.1843', 'vadym:0.1731', 'law:0.173', 'relay:0.1648', 'idiot:0.1589', 'alongside:0.1577', 'cite:0.1446', 'soon:0.1415', 'end:0.1399', 'hell:0.1384', 'geneva:0.1329', 'joined:0.1316', 'identify:0.1248', 'definition:0.1083', 'tass:0.105', 'pleasure:0.0994', 'medium:0.0608']+titles_keywords+['marines:0.3551', 'russian:0.3321', 'surrendered:0.3065', 'supplies:0.1871', 'man:0.1074']"
+        ]
+    ],
+    "RUS+UKR+80":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/businessinsider.in/Ukraine offers to negotiate with Russia without any conditions to allow troops and civilians in.txt+eventbasecode80+eventcode80+avgtone0.4840764331210191+goldsteinscale0.75+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.51', 'ukrainian:0.4212', 'putin:0.4072', 'evacuate:0.3519', 'zelenskyy:0.3218', 'negotiate:0.3163', 'podolyak:0.2919', 'peace:0.2799', 'bombardment:0.2692', 'military:0.2403', 'mariupol:0.2203', 'strategic:0.2042', 'city:0.1947', 'president:0.1789', 'toll:0.1579', 'begin:0.1579', 'allow:0.156', 'surround:0.1503', 'live:0.1468', 'condition:0.1424', 'million:0.1401', 'people:0.1374', 'nearly:0.1318', 'ready:0.129', 'month:0.1242', 'write:0.1197', 'child:0.1175', 'earlier:0.1165', 'hole:0.1113', 'target:0.0949']+titles_keywords+['ukraine:0.3902', 'negotiate:0.3749', 'evacuate:0.2247', 'civilians:0.215', 'mariupol:0.2146']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/businessinsider.in/EU nations unanimously agree to accept Ukrainian refugees for 3 years without going through asylum.txt+eventbasecode80+eventcode80+avgtone0.481060606060606+goldsteinscale0.75+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.006578947368421052+news_keywords+['refugee:0.4995', 'ukraine:0.4772', 'putin:0.3537', 'european:0.2643', 'war:0.2189', 'flee:0.2014', 'volodymyr:0.1975', 'zelensky:0.1845', 'der:0.1345', 'people:0.1254', 'year:0.1119', 'apply:0.1117', 'anticipate:0.1075', 'report:0.1035', 'respond:0.1008', 'unanimously:0.099', 'follow:0.0911', 'arm:0.0875', 'ursula:0.0859', 'care:0.0815', 'welcome:0.0787', 'commissioner:0.074', 'million:0.0729', 'begin:0.0683', 'weekend:0.061', 'include:0.0573', 'nearly:0.0547', 'adler:0.0521', 'interior:0.0395', 'previously:0.0395']+titles_keywords+['ukrainian:0.4064', 'asylum:0.2945', 'accept:0.1933', 'unanimously:0.1903', 'years:0.1755']"
+        ]
+    ]
+}

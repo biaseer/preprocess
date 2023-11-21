@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+1123":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/sbs.com.au/Russia accused of attacking Ukrainians with banned cluster munitions and vacuum bombs.txt+eventbasecode112+eventcode1123+avgtone0.45967741935483875+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4407', 'bomb:0.3696', 'invasion:0.3364', 'sanction:0.2782', 'dangerous:0.272', 'indiscriminate:0.2598', 'weapon:0.254', 'vacuum:0.2481', 'conflict:0.2411', 'munition:0.2346', 'cluster:0.2336', 'humanitarian:0.233', 'report:0.2073', 'constitute:0.2043', 'thermobaric:0.1925', 'know:0.1882', 'congress:0.1826', 'cnn:0.1692', 'shelter:0.157', 'high:0.1377', 'launcher:0.1305', 'zone:0.127', 'generate:0.1268', 'look:0.1156', 'sherman:0.1152', 'conventional:0.1115', 'markarova:0.1049', 'price:0.0796', 'today:0.0562', 'duration:0.0431']+titles_keywords+['ukrainians:0.4182', 'munitions:0.3923', 'accused:0.2713', 'cluster:0.1806', 'vacuum:0.1507']"
+        ]
+    ],
+    "UKR+RUS+1123":[
+        [
+            "20220417+../news_crawling/RUS_UKR/p_articles/sbs.com.au/Russia demands Mariupol surrender as Ukraine president says killing soldiers would end peace efforts.txt+eventbasecode112+eventcode1123+avgtone0.4637573964497041+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.5452', 'crimea:0.5436', 'putin:0.4181', 'pravda:0.4081', 'nato:0.3759', 'annex:0.3354', 'demilitarise:0.3351', 'bloodshed:0.3109', 'refugee:0.3077', 'kill:0.2914', 'peace:0.2856', 'economy:0.2699', 'crisis:0.2648', 'news:0.26', 'strategic:0.2513', 'union:0.2438', 'donbas:0.229', 'sanction:0.2222', 'rail:0.2133', 'forthcoming:0.2122', 'overlook:0.2093', 'address:0.2085', 'april:0.1928', 'nearly:0.1799', 'long:0.1774', 'gmt:0.1627', 'mariupol:0.1597', 'main:0.1593', 'forces:0.1364', 'thank:0.1255']+titles_keywords+['surrender:0.3853', 'ukraine:0.3627', 'peace:0.2949', 'mariupol:0.2896', 'end:0.1468']"
+        ]
+    ]
+}

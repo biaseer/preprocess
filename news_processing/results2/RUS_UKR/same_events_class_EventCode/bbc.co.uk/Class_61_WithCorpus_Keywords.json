@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+61":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Petrol prices Getting to work costs so much I might have to quit.txt+eventbasecode61+eventcode61+avgtone0.4870967741935484+goldsteinscale0.82+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['petrol:0.4085', 'labour:0.3526', 'uk:0.3169', 'struggle:0.2952', 'supply:0.2891', 'wage:0.2814', 'worry:0.2813', 'crisis:0.2736', 'tank:0.2543', 'increase:0.2406', 'drive:0.2292', 'march:0.2222', 'affected:0.2143', 'vote:0.2117', 'living:0.2074', 'stop:0.1933', 'bp:0.1919', 'bad:0.1845', 'soar:0.1802', 'cost:0.1792', 'newsbeat:0.1718', 'equivalent:0.1715', 'house:0.1682', 'say:0.1674', 'laura:0.153', 'average:0.1498', 'mile:0.147', 'billion:0.1305', 'absolute:0.1242', 'actually:0.1052']+titles_keywords+['petrol:0.4502', 'quit:0.3621', 'work:0.2701', 'costs:0.2646', 'getting:0.1283']"
+        ],
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine war UK imports no fuel from Russia for first time on record.txt+eventbasecode61+eventcode61+avgtone0.4796747967479675+goldsteinscale0.82+nummentions0.013425253991291727+numarticles0.014140681653372008+numsources0.013157894736842105+news_keywords+['ukraine:0.4702', 'war:0.3277', 'government:0.3149', 'independence:0.3', 'data:0.2593', 'sanction:0.2533', 'gas:0.251', 'import:0.2139', 'irrelevant:0.2103', 'compare:0.1925', 'speculation:0.1815', 'increase:0.1814', 'mismatch:0.1728', 'market:0.1721', 'january:0.168', 'largely:0.1609', 'total:0.1592', 'household:0.1583', 'effect:0.1556', 'good:0.1529', 'prior:0.1521', 'alternative:0.1348', 'include:0.1307', 'accord:0.1302', 'relate:0.1204', 'pledge:0.1159', 'make:0.1088', 'set:0.1076', 'link:0.0953', 'fell:0.093']+titles_keywords+['ukraine:0.4025', 'fuel:0.2546', 'war:0.2109', 'imports:0.1528', 'record:0.0105']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/economist.com/The West needs to send Ukraine more and better weapons.txt+eventbasecode100+eventcode100+avgtone0.4815100154083205+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.5069', 'natos:0.406', 'armament:0.3345', 'war:0.3298', 'tank:0.2508', 'supply:0.2502', 'gvozdika:0.2459', 'disrupt:0.2287', 'want:0.2137', 'help:0.2093', 'separatist:0.1959', 'advantage:0.1944', 'capital:0.1849', 'direction:0.1797', 'continue:0.1748', 'plane:0.164', 'pummel:0.155', 'hold:0.1528', 'general:0.1459', 'donbas:0.1453', 'contrast:0.1452', 'soon:0.1367', 'th:0.1352', 'headline:0.1328', 'short:0.1328', 'km:0.1284', 'send:0.1221', 'slide:0.1191', 'stretch:0.1091', 'huge:0.0994']+titles_keywords+['ukraine:0.5077', 'weapons:0.3565', 'needs:0.1971', 'send:0.1607', 'better:0.1457']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/economist.com/The idea that Russia never wanted Kyiv is nonsense on stiltsthe invaders shifting plans.txt+eventbasecode100+eventcode100+avgtone0.46698113207547165+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.6144', 'ukraines:0.5424', 'russia:0.503', 'war:0.3014', 'capital:0.2967', 'democratic:0.2775', 'tactic:0.2543', 'economist:0.2469', 'colonial:0.2429', 'bolivias:0.2197', 'shift:0.2095', 'dominanceand:0.1954', 'contraband:0.1708', 'future:0.1669', 'lead:0.1646', 'nonsense:0.1582', 'want:0.1577', 'preponderance:0.1565', 'withdraw:0.156', 'stiltsthe:0.1533', 'signify:0.152', 'podcast:0.1381', 'idea:0.1374', 'comintelligenceoffer:0.1362', 'whats:0.1186', 'vie:0.1084', 'daily:0.1074', 'examine:0.0976', 'print:0.077', 'min:0.0555']+titles_keywords+['kyiv:0.5929', 'nonsense:0.2864', 'invaders:0.2585', 'plans:0.1617', 'wanted:0.0603']"
+        ]
+    ]
+}

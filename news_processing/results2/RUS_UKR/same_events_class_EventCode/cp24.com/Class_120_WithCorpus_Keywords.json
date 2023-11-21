@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/cp24.com/Strike kills 52 at Ukraine rail station crowded with people.txt+eventbasecode120+eventcode120+avgtone0.4691535150645624+goldsteinscale0.3+nummentions0.011248185776487663+numarticles0.011965192168237854+numsources0.019736842105263157+news_keywords+['ukraine:0.4722', 'kremlin:0.4252', 'massacre:0.3796', 'invade:0.3224', 'military:0.3141', 'strike:0.2922', 'missile:0.2782', 'rail:0.2724', 'zelenskyy:0.249', 'embargo:0.245', 'turnaround:0.2318', 'intensifies:0.2253', 'deflect:0.2157', 'report:0.2135', 'die:0.2114', 'cite:0.2077', 'involved:0.2043', 'spiegel:0.1898', 'people:0.1824', 'bucha:0.1818', 'resupplied:0.175', 'child:0.1715', 'like:0.1661', 'bury:0.1538', 'gas:0.1537', 'thursday:0.1517', 'begin:0.1388', 'point:0.1351', 'dozen:0.1322', 'send:0.0868']+titles_keywords+['ukraine:0.2787', 'strike:0.2782', 'rail:0.2484', '52:0.1976', 'crowded:0.1803']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        []
+    ]
+}

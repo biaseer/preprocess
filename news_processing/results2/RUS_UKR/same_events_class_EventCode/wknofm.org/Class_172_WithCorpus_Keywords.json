@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+172":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/wknofm.org/Russian law bans journalists from calling Ukraine conflict a war or an invasion.txt+eventbasecode172+eventcode172+avgtone0.4021739130434785+goldsteinscale0.25+nummentions0.07184325108853411+numarticles0.0725163161711385+numsources0.07894736842105263+news_keywords+['putin:0.4716', 'ukraine:0.4217', 'russian:0.4099', 'journalism:0.3899', 'dmitry:0.3843', 'novaya:0.3355', 'npr:0.3217', 'reporting:0.2789', 'ban:0.2359', 'legislation:0.2273', 'illegal:0.2104', 'invasion:0.201', 'military:0.1836', 'false:0.1752', 'coverage:0.1687', 'safety:0.166', 'copyright:0.1649', 'outlet:0.1516', 'casualty:0.1396', 'echo:0.1321', 'conflict:0.1304', 'transcript:0.1183', 'independent:0.1179', 'edit:0.1029', 'daily:0.0805', 'official:0.0762', 'sign:0.0665', 'year:0.053', 'make:0.0518', 'million:0.0471']+titles_keywords+['ukraine:0.3911', 'journalists:0.3042', 'invasion:0.2447', 'law:0.2419', 'bans:0.164']"
+        ],
+        [
+            "20220813+../news_crawling/RUS_UKR/p_articles/wknofm.org/Ukrainian health minister says Russia is blocking access to medicines.txt+eventbasecode172+eventcode172+avgtone0.4747191011235955+goldsteinscale0.25+nummentions0.2663280116110305+numarticles0.2668600435097897+numsources0.40131578947368424+news_keywords+['ukraine:0.4824', 'putin:0.4078', 'war:0.3384', 'humanitarian:0.3371', 'invade:0.3302', 'casualty:0.3056', 'hospital:0.2897', 'coronavirus:0.2896', 'infrastructure:0.2641', 'liashko:0.2275', 'crime:0.2209', 'health:0.218', 'treatment:0.1979', 'reform:0.1944', 'interfere:0.185', 'occupied:0.1828', 'allow:0.1663', 'corridor:0.1567', 'undergo:0.1505', 'accuse:0.1469', 'care:0.1455', 'order:0.145', 'cause:0.1317', 'million:0.1081', 'aug:0.0985', 'directly:0.0936', 'run:0.0899', 'recognize:0.0887', 'record:0.0676', 'largely:0.0539']+titles_keywords+['ukrainian:0.4055', 'medicines:0.3243', 'blocking:0.1447', 'access:0.1077', 'minister:0.0716']"
+        ]
+    ]
+}

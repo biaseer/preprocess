@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+25":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Ukraine requests urgent UNSC meet after heads of DPR LPR ask Putin for help.txt+eventbasecode25+eventcode25+avgtone0.483271375464684+goldsteinscale0.485+nummentions0.03011611030478955+numarticles0.03009427121102248+numsources0.046052631578947366+news_keywords+['ukraine:0.4898', 'putin:0.3772', 'sovereignty:0.3039', 'emergency:0.2954', 'unsc:0.275', 'urgent:0.2118', 'sanction:0.2084', 'escalate:0.2075', 'verkhovna:0.1974', 'border:0.1965', 'breakaway:0.1757', 'armed:0.1734', 'provide:0.1716', 'president:0.1678', 'meeting:0.1663', 'state:0.1643', 'declare:0.1615', 'approve:0.1445', 'urge:0.1256', 'dprlpr:0.1235', 'representative:0.1215', 'refrain:0.1124', 'dangerous:0.1086', 'say:0.0989', 'follow:0.0938', 'head:0.049', 'february:0.0477', 'ani:0.028', 'thousand:0.0145', 'fontelles:-0.0025']+titles_keywords+['ukraine:0.3822', 'unsc:0.3296', 'lpr:0.2232', 'urgent:0.1933', 'meet:0.1805']"
+        ]
+    ],
+    "WST+RUS+25":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Well continue our support to Ukraine says NATO chief.txt+eventbasecode25+eventcode25+avgtone0.4828042328042328+goldsteinscale0.485+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['nato:0.4829', 'ukraine:0.4292', 'putin:0.4155', 'invasion:0.2719', 'strategic:0.2334', 'unprovoked:0.2278', 'continue:0.2131', 'ally:0.2108', 'protect:0.2056', 'pursue:0.2047', 'peace:0.181', 'know:0.179', 'response:0.1708', 'future:0.1668', 'sanction:0.158', 'hold:0.1562', 'stoltenberg:0.1505', 'turn:0.1477', 'misunderstand:0.1445', 'introduce:0.144', 'general:0.1426', 'long:0.12', 'displace:0.1171', 'state:0.1095', 'highlight:0.1018', 'ready:0.1', 'inch:0.0993', 'include:0.087', 'price:0.0762', 'tragic:0.0491']+titles_keywords+['nato:0.5022', 'ukraine:0.4202', 'support:0.2397', 'continue:0.2157', 'says:0.0995']"
+        ]
+    ]
+}

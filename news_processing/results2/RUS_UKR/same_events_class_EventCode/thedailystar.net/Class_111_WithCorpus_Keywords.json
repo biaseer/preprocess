@@ -1,0 +1,12 @@
+{
+    "BGD+RUS+111":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Some Bangladeshi media outlets echoing Wests antiRussia campaign Russian ambassador.txt+eventbasecode111+eventcode111+avgtone0.48602794411177647+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4672', 'bangladeshis:0.4296', 'antirussia:0.3501', 'genocide:0.3045', 'fascism:0.3033', 'newspaper:0.2895', 'language:0.2818', 'coexistence:0.2725', 'threat:0.2698', 'bias:0.2579', 'ambassador:0.2377', 'border:0.237', 'refer:0.2228', 'mantytskiy:0.2208', 'operation:0.2171', 'outlet:0.2101', 'demilitarise:0.2012', 'section:0.1944', 'echo:0.1889', 'russo:0.1864', 'mainstream:0.1712', 'donbas:0.1691', 'base:0.1652', 'obtain:0.1642', 'end:0.1468', 'explain:0.1458', 'eliminate:0.1421', 'say:0.1253', 'great:0.0978', 'free:0.0424']+titles_keywords+['antirussia:0.4409', 'bangladeshi:0.3215', 'ambassador:0.3155', 'media:0.2198', 'echoing:0.2019']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Russians will feel cut off silenced deprived Facebook criticises ban.txt+eventbasecode111+eventcode111+avgtone0.4810126582278481+goldsteinscale0.4+nummentions0.04462989840348331+numarticles0.045322697606961566+numsources0.039473684210526314+news_keywords+['russians:0.4335', 'facebook:0.42', 'ban:0.2743', 'federation:0.2315', 'platform:0.2142', 'bbc:0.201', 'cut:0.1999', 'discrimination:0.199', 'silenced:0.1978', 'information:0.1842', 'report:0.1722', 'war:0.1621', 'statement:0.1479', 'prevent:0.1371', 'access:0.1245', 'reliable:0.1171', 'global:0.1133', 'continue:0.113', 'say:0.1118', 'introduce:0.1066', 'meta:0.106', 'feel:0.1018', 'regulator:0.1002', 'october:0.0928', 'nick:0.092', 'clegg:0.0814', 'ordinary:0.0807', 'free:0.0544', 'restore:0.0354', 'comjljwiu:0.0352']+titles_keywords+['russians:0.4056', 'ban:0.405', 'silenced:0.3742', 'facebook:0.3154', 'deprived:0.2801']"
+        ]
+    ]
+}

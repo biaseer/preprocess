@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+57":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/menafn.com/Ukraine the Council of Europe says Russia has violated international law so why is it.txt+eventbasecode57+eventcode57+avgtone0.4879441624365482+goldsteinscale0.9+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.4851', 'putin:0.3351', 'diplomatic:0.3093', 'sanction:0.2843', 'remain:0.266', 'justify:0.2658', 'war:0.264', 'argue:0.2463', 'delegation:0.2456', 'european:0.2377', 'completeness:0.2245', 'escalate:0.219', 'confuse:0.2088', 'pejinovi:0.1768', 'matter:0.1724', 'information:0.1699', 'vote:0.168', 'aspect:0.1597', 'join:0.1596', 'return:0.1583', 'article:0.1525', 'point:0.1518', 'state:0.1434', 'anticipate:0.1266', 'efe:0.12', 'non:0.0968', 'longer:0.095', 'warranty:0.0918', 'agree:0.0885', 'hundreds:0.0641']+titles_keywords+['ukraine:0.4854', 'law:0.2485', 'member:0.2115', 'violated:0.1903', 'says:0.0926']"
+        ]
+    ],
+    "RUS+UKR+57":[
+        [
+            "20220614+../news_crawling/RUS_UKR/p_articles/menafn.com/Russians Trying To Encircle Ukrainian Troops In Donetsk Direction.txt+eventbasecode57+eventcode57+avgtone0.46882217090069284+goldsteinscale0.9+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['donetsk:0.43', 'russians:0.3977', 'reconnaissance:0.3914', 'troops:0.3678', 'combat:0.3502', 'mykolaivka:0.3252', 'artillery:0.3238', 'operation:0.298', 'assault:0.2907', 'retreat:0.2815', 'direction:0.2557', 'logistical:0.2322', 'mortar:0.2314', 'issue:0.1767', 'regroup:0.1692', 'contact:0.1679', 'change:0.1676', 'volyn:0.1626', 'reliability:0.1579', 'continue:0.1575', 'battery:0.1489', 'area:0.1482', 'focus:0.1403', 'read:0.1354', 'ukrinform:0.134', 'main:0.1195', 'tube:0.1167', 'buh:0.0842', 'multiple:0.0834', 'february:0.0543']+titles_keywords+['donetsk:0.479', 'troops:0.3143', 'encircle:0.2717', 'direction:0.2421', 'trying:0.1711']"
+        ],
+        [
+            "20220723+../news_crawling/RUS_UKR/p_articles/menafn.com/Black Sea Grain Exports Deal A Beacon Of Hope Amid Ukraine War Says Guterres.txt+eventbasecode57+eventcode57+avgtone0.5007225433526011+goldsteinscale0.9+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4274', 'famine:0.4114', 'agriculture:0.3638', 'humanitarian:0.3559', 'war:0.3257', 'grain:0.2918', 'supply:0.2747', 'chernomorsk:0.2699', 'government:0.2675', 'table:0.2431', 'initiative:0.2212', 'news:0.2163', 'bosphorus:0.2147', 'tayyip:0.2118', 'agreement:0.2062', 'silos:0.2034', 'global:0.203', 'stabilize:0.1834', 'port:0.1519', 'recep:0.1463', 'menafn:0.1441', 'significant:0.1423', 'trade:0.1421', 'head:0.1351', 'strait:0.1277', 'beenworking:0.1206', 'long:0.1199', 'annually:0.1196', 'exporter:0.1157', 'fao:0.0853']+titles_keywords+['ukraine:0.3076', 'exports:0.306', 'grain:0.3019', 'guterres:0.243', 'hope:0.2076']"
+        ]
+    ]
+}

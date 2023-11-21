@@ -1,0 +1,13 @@
+{
+    "AUS+UKR+42":[
+        []
+    ],
+    "EUR+UKR+42":[
+        []
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/9and10news.com/Thousands of Cars Leave Besieged Ukraine City.txt+eventbasecode42+eventcode42+avgtone0.48837209302325585+goldsteinscale0.595+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.02631578947368421+news_keywords+['kyiv:0.5292', 'humanitarian:0.284', 'zaporizhzhia:0.283', 'flee:0.2663', 'besieged:0.256', 'arrive:0.242', 'route:0.2414', 'car:0.2345', 'kilometer:0.2225', 'corridor:0.1972', 'west:0.1841', 'open:0.1578', 'thousands:0.1532', 'people:0.1529', 'immediately:0.1521', 'port:0.1519', 'advise:0.1485', 'number:0.1479', 'night:0.1469', 'mayor:0.1255', 'hold:0.1181', 'clear:0.1164', 'close:0.1045', 'spend:0.0867', 'lead:0.0758', 'manage:0.0599', 'local:0.0563', 'mariupol:0.0437', 'unless:0.036', 'include:0.0232']+titles_keywords+['ukraine:0.3767', 'besieged:0.2697', 'cars:0.2484', 'leave:0.2427', 'thousands:0.2036']"
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "ISR+RUS+111":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/bordertelegraph.com/Israel hits out at Russia over Lavrovs Nazism remarks.txt+eventbasecode111+eventcode111+avgtone0.4601366742596811+goldsteinscale0.4+nummentions0.4125544267053701+numarticles0.4129804205946338+numsources0.47039473684210525+news_keywords+['holocaust:0.5549', 'nazification:0.4865', 'antisemitism:0.4731', 'propaganda:0.3787', 'israel:0.3725', 'kremlin:0.3642', 'ukrainian:0.3167', 'russias:0.298', 'historical:0.2771', 'lavrov:0.2716', 'justify:0.233', 'enemy:0.208', 'debate:0.1993', 'translation:0.1978', 'mykhailo:0.1962', 'mediate:0.1913', 'inversion:0.1789', 'remark:0.1763', 'hit:0.1641', 'yair:0.1596', 'people:0.158', 'president:0.1553', 'scandalous:0.137', 'hebstreit:0.1273', 'remember:0.1156', 'include:0.1063', 'ordination:0.101', 'way:0.069', 'doesnt:0.0667', 'centre:0.0569']+titles_keywords+['israel:0.3632', 'lavrovs:0.3046', 'nazism:0.2932', 'remarks:0.0937', 'hits:0.0675']"
+        ]
+    ],
+    "RUS+GBR+111":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/bordertelegraph.com/Ukrainian Catholic bishop warns British people to avoid disinformation about war.txt+eventbasecode111+eventcode111+avgtone0.5112359550561798+goldsteinscale0.4+nummentions0.1509433962264151+numarticles0.15155910079767948+numsources0.2730263157894737+news_keywords+['ukraine:0.4689', 'refugee:0.3785', 'war:0.3557', 'humanitarian:0.3256', 'cornwall:0.3056', 'oligarch:0.298', 'britons:0.295', 'duchess:0.2912', 'disinformation:0.2665', 'privilege:0.2451', 'neighbour:0.2317', 'warn:0.2198', 'distinction:0.2132', 'listen:0.1834', 'instead:0.1766', 'organisation:0.1741', 'visit:0.1718', 'issue:0.1663', 'reputable:0.1584', 'want:0.1525', 'nowakowski:0.1439', 'spoken:0.1323', 'catholic:0.1322', 'right:0.1311', 'press:0.1144', 'sure:0.1116', 'especially:0.0996', 'big:0.0838', 'today:0.0686', 'weve:0.0679']+titles_keywords+['disinformation:0.3305', 'war:0.3109', 'ukrainian:0.2825', 'bishop:0.281', 'warns:0.2703']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/bordertelegraph.com/Russian attacks halt plans to evacuate Ukrainian civilians.txt+eventbasecode111+eventcode111+avgtone0.47014456316781894+goldsteinscale0.4+nummentions0.3124092888243832+numarticles0.31290790427846266+numsources0.42105263157894735+news_keywords+['ukraine:0.4857', 'airstrikes:0.3891', 'moscows:0.38', 'evacuate:0.3562', 'separatists:0.3263', 'erdogan:0.3176', 'dispatch:0.296', 'propaganda:0.2927', 'concern:0.2372', 'telegram:0.2366', 'troop:0.2334', 'know:0.2308', 'rouble:0.23', 'disaster:0.2282', 'adviser:0.2149', 'soon:0.2141', 'reiterate:0.2008', 'besiege:0.184', 'switch:0.1833', 'bucha:0.1695', 'end:0.1654', 'schedule:0.1627', 'interference:0.1435', 'idea:0.1374', 'longer:0.1342', 'accept:0.1289', 'motionless:0.1263', 'amid:0.1197', 'external:0.1131', 'onlookers:0.1077']+titles_keywords+['ukrainian:0.4235', 'evacuate:0.409', 'civilians:0.3263', 'attacks:0.2054', 'plans:0.1356']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/bordertelegraph.com/Volodymyr Zelensky says Russia tried to humiliate UN with Kyiv attack.txt+eventbasecode111+eventcode111+avgtone0.4697368421052632+goldsteinscale0.4+nummentions0.17271407837445574+numarticles0.17331399564902103+numsources0.2598684210526316+news_keywords+['kyiv:0.5749', 'putin:0.4341', 'zelensky:0.3777', 'nato:0.366', 'airstrikes:0.3572', 'regiment:0.2877', 'unprovoked:0.2708', 'news:0.2436', 'humanitarian:0.2364', 'know:0.236', 'mortar:0.2178', 'unfolding:0.2156', 'negotiation:0.2115', 'secure:0.2014', 'industrial:0.2005', 'ruin:0.1973', 'write:0.192', 'instead:0.1805', 'donbas:0.1661', 'grad:0.1642', 'normality:0.1597', 'hour:0.1536', 'grow:0.1404', 'far:0.1377', 'dysentery:0.1366', 'sure:0.1304', 'focus:0.1251', 'spring:0.121', 'largely:0.1124', 'enjoy:0.0981']+titles_keywords+['kyiv:0.4503', 'zelensky:0.4438', 'humiliate:0.2613', 'tried:0.1125', 'says:0.0812']"
+        ]
+    ]
+}

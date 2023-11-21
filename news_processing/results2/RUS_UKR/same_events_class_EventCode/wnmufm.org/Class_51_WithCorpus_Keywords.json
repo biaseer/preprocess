@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/wnmufm.org/Some Russian performing artists are speaking out against Putin.txt+eventbasecode51+eventcode51+avgtone0.4964994165694282+goldsteinscale0.67+nummentions0.14223512336719885+numarticles0.14285714285714285+numsources0.24342105263157895+news_keywords+['putin:0.4885', 'kyiv:0.4424', 'tchaikovsky:0.4402', 'ballet:0.3811', 'philharmonic:0.3761', 'stanislavsky:0.3568', 'performing:0.3249', 'peaceful:0.2885', 'art:0.2816', 'repression:0.2723', 'karbauskis:0.2711', 'crisis:0.2595', 'oppose:0.2546', 'nobility:0.251', 'celebrate:0.2437', 'federation:0.242', 'depart:0.226', 'speak:0.2134', 'world:0.21', 'forward:0.206', 'letter:0.2038', 'hall:0.2034', 'statement:0.2029', 'know:0.1996', 'lengthy:0.1767', 'public:0.1711', 'prepare:0.1709', 'fall:0.1682', 'worker:0.1462', 'state:0.1294']+titles_keywords+['putin:0.4357', 'artists:0.3155', 'russian:0.3048', 'performing:0.2874', 'speaking:0.1492']"
+        ],
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/wnmufm.org/The US will welcome up to 100000 Ukrainians fleeing the Russian invasion.txt+eventbasecode51+eventcode51+avgtone0.4756097560975609+goldsteinscale0.67+nummentions0.057329462989840346+numarticles0.05801305293691081+numsources0.12171052631578948+news_keywords+['refugee:0.5379', 'immigration:0.4239', 'ukrainians:0.4099', 'reunification:0.4069', 'nato:0.3435', 'war:0.3069', 'assistance:0.2798', 'deploy:0.2666', 'crisis:0.2544', 'stay:0.2482', 'pathway:0.2467', 'understand:0.2457', 'want:0.2347', 'displace:0.2299', 'administration:0.2254', 'housing:0.22', 'bring:0.2073', 'know:0.1753', 'protect:0.1728', 'resource:0.1727', 'speak:0.1674', 'money:0.1598', 'neighboring:0.1538', 'biden:0.1396', 'center:0.1391', 'desperately:0.1378', 'integrate:0.1246', 'kind:0.1154', 'welcome:0.1084', 'saw:0.0893']+titles_keywords+['ukrainians:0.515', 'invasion:0.3163', '100000:0.2719', 'fleeing:0.2616', 'welcome:0.0587']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220605+../news_crawling/RUS_UKR/p_articles/wnmufm.org/Kyiv opera house reopens after 3 months.txt+eventbasecode51+eventcode51+avgtone0.48648648648648646+goldsteinscale0.67+nummentions0.07111756168359942+numarticles0.07179115300942712+numsources0.0625+news_keywords+['kyiv:0.5394', 'operas:0.4525', 'poltavka:0.3383', 'theater:0.3253', 'natalia:0.3142', 'lysenko:0.3103', 'conductor:0.2928', 'russification:0.2832', 'rossini:0.2827', 'putin:0.2725', 'perform:0.2645', 'production:0.2216', 'aristocracy:0.2153', 'archivist:0.1959', 'translate:0.1905', 'evacuate:0.1876', 'speak:0.1633', 'imperial:0.1544', 'playbill:0.1289', 'tour:0.1215', 'preference:0.1144', 'forced:0.1088', 'story:0.1014', 'late:0.0968', 'enjoy:0.0962', 'sort:0.0932', 'year:0.0899', 'th:0.0803', 'reopen:0.0735', 'entire:0.0725']+titles_keywords+['kyiv:0.4288', 'opera:0.3525', 'reopens:0.2376', 'house:0.2238', 'months:0.1974']"
+        ]
+    ]
+}

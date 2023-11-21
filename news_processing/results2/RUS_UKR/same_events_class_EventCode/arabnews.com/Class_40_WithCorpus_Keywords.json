@@ -1,0 +1,16 @@
+{
+    "HUN+RUS+40":[
+        [
+            "20210813+../news_crawling/RUS_UKR/p_articles/arabnews.com/Gazprom ramps up gas flow to Hungary via Turkstream pipeline official says.txt+eventbasecode40+eventcode40+avgtone0.4965635738831615+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4184', 'gazprom:0.4155', 'hungarys:0.3868', 'turkstream:0.3259', 'gas:0.3231', 'orban:0.2796', 'pipeline:0.2778', 'lavrov:0.2375', 'szijjarto:0.2115', 'import:0.1987', 'menczer:0.1902', 'invasion:0.1746', 'receive:0.1585', 'term:0.1563', 'deal:0.1497', 'quantity:0.1318', 'neighbor:0.1311', 'ramp:0.1255', 'secure:0.1247', 'subsequent:0.1214', 'month:0.1187', 'statement:0.1113', 'long:0.1046', 'official:0.1033', 'data:0.0985', 'peter:0.0911', 'percent:0.0898', 'middle:0.0768', 'maintain:0.0652', 'oppose:0.0615']+titles_keywords+['gazprom:0.493', 'turkstream:0.4075', 'pipeline:0.344', 'gas:0.3022', 'hungary:0.2473']"
+        ]
+    ],
+    "IRN+RUS+40":[
+        []
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/arabnews.com/Analysts see 39 percent decline in Ukraine 2022 spring grain sowing area.txt+eventbasecode40+eventcode40+avgtone0.479020979020979+goldsteinscale0.55+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraines:0.4533', 'spring:0.2989', 'russian:0.2956', 'lviv:0.2932', 'crop:0.2914', 'hectare:0.2742', 'war:0.27', 'rapeseed:0.267', 'farmer:0.2568', 'zelenskiy:0.2343', 'rye:0.225', 'sown:0.1986', 'replace:0.1503', 'field:0.1426', 'inform:0.1373', 'region:0.1321', 'expect:0.1237', 'opportunity:0.1185', 'start:0.1105', 'analysts:0.1018', 'export:0.0962', 'reduce:0.0891', 'week:0.0865', 'year:0.079', 'million:0.0731', 'physical:0.0726', 'percent:0.0593', 'apk:0.0538', 'possible:0.0259', 'significantly:0.0119']+titles_keywords+['grain:0.2763', 'ukraine:0.2441', 'spring:0.2373', 'percent:0.2088', '2022:0.1783']",
+            "20220318+../news_crawling/RUS_UKR/p_articles/arabnews.com/Ukraine foreign minister says he discussed further Russian sanctions with EUs Borrell.txt+eventbasecode40+eventcode40+avgtone0.46774193548387094+goldsteinscale0.55+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4763', 'ukrainians:0.3984', 'lviv:0.3626', 'sanction:0.3447', 'war:0.2858', 'eus:0.271', 'kuleba:0.243', 'protection:0.2301', 'borrell:0.2009', 'unions:0.1983', 'preparation:0.1941', 'dmytro:0.1781', 'bomb:0.1758', 'barbarism:0.1711', 'flee:0.1555', 'discuss:0.1519', 'friday:0.1427', 'policy:0.1399', 'package:0.1384', 'foreign:0.1347', 'josep:0.1323', 'minister:0.13', 'mount:0.1228', 'pressure:0.1093', 'long:0.1092', 'th:0.1084', 'help:0.1071', 'stop:0.0746', 'twitter:0.066', 'spoken:0.04']+titles_keywords+['sanctions:0.3659', 'ukraine:0.3632', 'borrell:0.2031', 'minister:0.0823', 'discussed:0.005']"
+        ]
+    ]
+}

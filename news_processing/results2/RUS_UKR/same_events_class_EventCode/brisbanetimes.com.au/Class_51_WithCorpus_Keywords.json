@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+51":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/What the Russian invasion means for the global economy and why the EU should welcome.txt+eventbasecode51+eventcode51+avgtone0.4768211920529801+goldsteinscale0.67+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.006578947368421052+news_keywords+['ukraine:0.4689', 'kremlin:0.3812', 'invasion:0.3133', 'au:0.2669', 'economist:0.2157', 'retaliate:0.2072', 'pipeline:0.1962', 'immediate:0.1703', 'implication:0.1657', 'destabilise:0.1606', 'jinping:0.1602', 'occur:0.1538', 'enter:0.1526', 'covid:0.1509', 'global:0.145', 'important:0.1303', 'turn:0.1165', 'arrange:0.0995', 'hangover:0.0936', 'like:0.0931', 'dimension:0.0924', 'strong:0.0901', 'wont:0.084', 'price:0.0802', 'resource:0.0695', 'board:0.067', 'story:0.0587', 'welcome:0.046', 'doesnt:0.029', 'olaf:0.025']+titles_keywords+['ukraine:0.4959', 'economy:0.3786', 'invasion:0.375', 'means:0.155', 'welcome:0.0624']"
+        ]
+    ],
+    "GBR+UKR+51":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/Atrocity leaders condemn Russian air strikes on Mariupol maternity hospital.txt+eventbasecode51+eventcode51+avgtone0.45827439887+goldsteinscale0.67+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.009868421052631578+news_keywords+['kyiv:0.5155', 'putin:0.4433', 'ceasefire:0.4061', 'airstrikes:0.4033', 'chernobyl:0.3926', 'syria:0.3848', 'russias:0.3812', 'nato:0.3691', 'evacuate:0.3477', 'emergency:0.3199', 'correspondent:0.3114', 'humanitarian:0.3099', 'horrific:0.2965', 'casualty:0.2947', 'decommission:0.279', 'aggressor:0.2697', 'headline:0.2662', 'warn:0.2652', 'expand:0.2466', 'vulnerable:0.2417', 'agreement:0.227', 'crime:0.2208', 'world:0.2064', 'power:0.2057', 'downing:0.1755', 'corridor:0.1644', 'according:0.1589', 'set:0.1218', 'dehydration:0.1197', 'thousand:0.1049']+titles_keywords+['russian:0.2879', 'maternity:0.272', 'atrocity:0.2586', 'strikes:0.2557', 'air:0.16']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20220813+../news_crawling/RUS_UKR/p_articles/manilatimes.net/Russia blocking access to medicines minister.txt+eventbasecode120+eventcode120+avgtone0.47506561679790027+goldsteinscale0.3+nummentions0.06458635703918723+numarticles0.06526468455402465+numsources0.29605263157894735+news_keywords+['ukraine:0.5009', 'russia:0.4701', 'kyiv:0.4321', 'russian:0.4304', 'medicine:0.3033', 'liashko:0.2841', 'invade:0.2748', 'crime:0.2466', 'access:0.2185', 'block:0.2143', 'subsidized:0.2086', 'viktor:0.2058', 'occupied:0.1856', 'authority:0.1582', 'provide:0.1455', 'ap:0.1288', 'people:0.1197', 'affordable:0.1093', 'month:0.1029', 'minister:0.0998', 'state:0.0972', 'accuse:0.0945', 'force:0.0944', 'tell:0.0922', 'town:0.0902', 'area:0.0861', 'interview:0.0713', 'ago:0.0556', 'repeatedly:0.0436', 'official:0.0404']+titles_keywords+['russia:0.3598', 'medicines:0.3322', 'access:0.2119', 'blocking:0.2043', 'minister:0.1974']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220716+../news_crawling/RUS_UKR/p_articles/manilatimes.net/Russia shelling from captured nuke plant.txt+eventbasecode120+eventcode120+avgtone0.46643109540636046+goldsteinscale0.3+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5755', 'nuclear:0.4708', 'russia:0.4128', 'nuke:0.3877', 'petro:0.2974', 'zaporizhzhia:0.2972', 'plant:0.2289', 'shell:0.2284', 'weapon:0.2131', 'facility:0.208', 'alert:0.1789', 'surround:0.1785', 'soldier:0.1758', 'base:0.1618', 'situation:0.1581', 'control:0.1551', 'tense:0.1353', 'raid:0.1349', 'store:0.1348', 'area:0.1341', 'use:0.1333', 'president:0.1263', 'energoatom:0.1213', 'friday:0.1139', 'nearly:0.1057', 'agency:0.1056', 'large:0.1033', 'kotin:0.102', 'say:0.0946', 'entire:0.0792']+titles_keywords+['nuke:0.4485', 'russia:0.3215', 'shelling:0.2961', 'plant:0.2219', 'captured:0.2029']"
+        ]
+    ]
+}

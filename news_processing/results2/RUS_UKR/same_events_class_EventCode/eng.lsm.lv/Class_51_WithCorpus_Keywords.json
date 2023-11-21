@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+51":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/eng.lsm.lv/Latvian agriculture resources sufficient this year says minister.txt+eventbasecode51+eventcode51+avgtone0.5095238095238096+goldsteinscale0.67+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['latvia:0.4719', 'agriculture:0.4418', 'fertilizer:0.4174', 'produce:0.3401', 'russian:0.333', 'soil:0.2693', 'climate:0.2589', 'import:0.2405', 'organic:0.2278', 'invasion:0.2001', 'cooperation:0.1964', 'military:0.1447', 'sufficient:0.1352', 'support:0.1317', 'alternative:0.1152', 'resource:0.1152', 'reduce:0.1071', 'report:0.1056', 'correction:0.1043', 'select:0.1018', 'text:0.1004', 'look:0.0961', 'send:0.0704', 'plan:0.0697', 'minister:0.0631', 'addition:0.0585', 'year:0.0526', 'break:0.0488', 'gerhards:0.0428', 'available:0.0402']+titles_keywords+['agriculture:0.3552', 'latvian:0.2909', 'sufficient:0.2648', 'minister:0.0933', 'year:0.0713']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/eng.lsm.lv/Latvian women protest against sexual violence in war.txt+eventbasecode51+eventcode51+avgtone0.42045454545454547+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['russia:0.4405', 'latvian:0.3769', 'cruelty:0.3582', 'war:0.3577', 'report:0.3387', 'protest:0.3103', 'undressed:0.2944', 'crime:0.2628', 'woman:0.251', 'suffer:0.2505', 'sexual:0.2313', 'fake:0.2188', 'tank:0.2134', 'action:0.2125', 'kill:0.2018', 'text:0.1888', 'stain:0.1832', 'face:0.1742', 'child:0.1742', 'urgethe:0.1628', 'correction:0.1595', 'participantscall:0.1589', 'send:0.1387', 'western:0.1178', 'minor:0.1167', 'tie:0.1144', 'st:0.1137', 'alongside:0.1056', 'actively:0.0829', 'century:0.0765']+titles_keywords+['war:0.3358', 'latvian:0.2917', 'women:0.2747', 'protest:0.2714', 'sexual:0.1984']"
+        ]
+    ]
+}

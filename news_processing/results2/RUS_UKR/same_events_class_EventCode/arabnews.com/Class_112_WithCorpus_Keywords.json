@@ -1,0 +1,26 @@
+{
+    "CHE+UKR+112":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/arabnews.com/UN 65 million people displaced inside Ukraine due to war.txt+eventbasecode112+eventcode112+avgtone0.4570446735395189+goldsteinscale0.4+nummentions0.09252539912917271+numarticles0.09318346627991297+numsources0.08552631578947369+news_keywords+['ukraine:0.5468', 'refugee:0.4378', 'syrias:0.4056', 'displaced:0.3531', 'war:0.338', 'migration:0.3089', 'unhcr:0.276', 'population:0.2661', 'displace:0.2154', 'leave:0.1968', 'crisis:0.1829', 'representation:0.1614', 'geneva:0.1592', 'lack:0.1559', 'accommodation:0.1541', 'roads:0.1503', 'neighboring:0.1448', 'cite:0.138', 'far:0.1338', 'home:0.1312', 'affected:0.131', 'risk:0.119', 'begin:0.1125', 'person:0.1102', 'follow:0.1042', 'nearly:0.1027', 'calculate:0.0968', 'feb:0.0785', 'iom:0.0746', 'level:0.0498']+titles_keywords+['ukraine:0.502', 'war:0.3399', 'displaced:0.3277', 'million:0.2377', '65:0.1436']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/arabnews.com/Ukraine Russia sign UN deal to export grain on Black Sea.txt+eventbasecode112+eventcode112+avgtone0.4881818181818181+goldsteinscale0.4+nummentions0.5674891146589259+numarticles0.5678027556200145+numsources0.8947368421052632+news_keywords+['ukraine:0.4416', 'kremlin:0.3822', 'blockade:0.3537', 'war:0.3232', 'infrastructure:0.2631', 'ships:0.2505', 'coordinate:0.2485', 'agreement:0.244', 'commodity:0.2199', 'plan:0.2176', 'meeting:0.2145', 'incoming:0.1977', 'tayyip:0.1949', 'adviser:0.1887', 'rail:0.1832', 'need:0.181', 'allow:0.18', 'write:0.176', 'undergo:0.1661', 'export:0.1475', 'endanger:0.1432', 'recep:0.1383', 'blame:0.1307', 'general:0.1295', 'sunflower:0.124', 'like:0.1231', 'difference:0.1055', 'million:0.0998', 'unviable:0.0994', 'week:0.0854']+titles_keywords+['ukraine:0.3654', 'grain:0.2594', 'deal:0.246', 'export:0.1907', 'black:0.1439']"
+        ],
+        [
+            "20220806+../news_crawling/RUS_UKR/p_articles/arabnews.com/Russian forces begin assault on two eastern Ukraine cities.txt+eventbasecode112+eventcode112+avgtone0.4740882917466411+goldsteinscale0.4+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.013157894736842105+news_keywords+['kyiv:0.4906', 'russias:0.3478', 'war:0.3175', 'nuclear:0.3034', 'artillery:0.2722', 'operation:0.2643', 'assault:0.2592', 'kill:0.2402', 'infrastructure:0.2373', 'concern:0.2254', 'voltage:0.2182', 'reznichenko:0.2101', 'bakhmut:0.2053', 'ongoing:0.2017', 'east:0.1962', 'civilian:0.1908', 'calm:0.1773', 'telegram:0.1744', 'perilous:0.171', 'begin:0.153', 'enterprise:0.1498', 'fell:0.1457', 'study:0.138', 'main:0.137', 'acknowledge:0.1318', 'thursday:0.1308', 'state:0.1265', 'long:0.123', 'wont:0.1024', 'new:0.0959']+titles_keywords+['ukraine:0.3194', 'assault:0.2599', 'begin:0.1959', 'forces:0.1619', 'eastern:0.1313']"
+        ],
+        [
+            "20220817+../news_crawling/RUS_UKR/p_articles/arabnews.com/Russia replaces Black Sea fleet chief after Crimea setbacks.txt+eventbasecode112+eventcode112+avgtone0.47302904564315357+goldsteinscale0.4+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['crimea:0.5543', 'putin:0.3992', 'moscows:0.3667', 'chornomorsk:0.331', 'osipov:0.2982', 'invasion:0.2933', 'blockade:0.2741', 'fleet:0.2566', 'news:0.2537', 'saboteurs:0.2533', 'demilitarise:0.2363', 'command:0.2358', 'flee:0.2358', 'conflict:0.2264', 'sacking:0.2201', 'replace:0.2199', 'urgently:0.2099', 'governor:0.2032', 'order:0.1998', 'shift:0.1959', 'agreement:0.1903', 'scary:0.1868', 'cite:0.1681', 'fsb:0.1571', 'cell:0.1413', 'rise:0.1409', 'feb:0.1294', 'black:0.1245', 'deeper:0.1093', 'thousand:0.087']+titles_keywords+['crimea:0.4307', 'chief:0.2342', 'fleet:0.2077', 'replaces:0.1827', 'black:0.1143']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/arabnews.com/Kyiv accuses Moscow of illegal adoptions of Ukrainian children.txt+eventbasecode112+eventcode112+avgtone0.4602888086642599+goldsteinscale0.4+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['kyiv:0.4577', 'ukrainians:0.3838', 'russia:0.375', 'adoption:0.3569', 'child:0.2891', 'deport:0.2671', 'humanitarian:0.2565', 'war:0.2556', 'accuse:0.237', 'occupy:0.2337', 'flee:0.2228', 'azov:0.2085', 'legal:0.1965', 'federation:0.1927', 'violate:0.1926', 'afp:0.1827', 'abduct:0.1713', 'read:0.1662', 'authority:0.1547', 'treatment:0.1313', 'begin:0.1223', 'transfer:0.1221', 'tyumen:0.1175', 'port:0.117', 'base:0.1112', 'surround:0.1066', 'finding:0.0952', 'hold:0.0944', 'different:0.055', 'fully:0.0477']+titles_keywords+['kyiv:0.5207', 'adoptions:0.392', 'accuses:0.2464', 'children:0.2445', 'illegal:0.1643']"
+        ]
+    ],
+    "WST+RUS+112":[
+        []
+    ]
+}

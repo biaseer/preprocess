@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+43":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/enfieldindependent.co.uk/UKbased Russians horrified by war in Ukraine.txt+eventbasecode43+eventcode43+avgtone0.4680573663624511+goldsteinscale0.64+nummentions0.03483309143686502+numarticles0.03553299492385787+numsources0.08552631578947369+news_keywords+['ukrainian:0.5053', 'moscow:0.4493', 'putins:0.435', 'propaganda:0.4142', 'refugee:0.3664', 'society:0.3062', 'invasion:0.2966', 'concern:0.2469', 'bashtanova:0.2422', 'military:0.2274', 'realise:0.2258', 'censor:0.2137', 'casualty:0.2095', 'fradkin:0.2075', 'publish:0.1958', 'emphasise:0.1939', 'cambridge:0.1922', 'leave:0.1921', 'postdoctoral:0.1812', 'organise:0.1765', 'synonymous:0.1695', 'chemistry:0.161', 'view:0.1503', 'story:0.1398', 'range:0.1371', 'echoed:0.135', 'long:0.1328', 'stateless:0.1098', 'true:0.0944', 'doesnt:0.0667']+titles_keywords+['russians:0.5269', 'ukraine:0.5234', 'war:0.3346', 'horrified:0.2818', 'ukbased:0.243']"
+        ]
+    ],
+    "GBR+UKR+43":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/enfieldindependent.co.uk/Ukrainian visa delays are a national embarrassment says British host.txt+eventbasecode43+eventcode43+avgtone0.49261083743842365+goldsteinscale0.64+nummentions0.14332365747460088+numarticles0.14394488759970994+numsources0.2565789473684211+news_keywords+['kyiv:0.4581', 'refugee:0.4448', 'visa:0.3751', 'putins:0.3255', 'government:0.2453', 'housing:0.2431', 'apply:0.2231', 'row:0.2097', 'privilege:0.2079', 'leave:0.2056', 'farnham:0.2046', 'scheme:0.1942', 'handout:0.1828', 'partygate:0.1757', 'rubbish:0.1699', 'allow:0.1687', 'debate:0.1634', 'march:0.1558', 'obstacle:0.1531', 'story:0.147', 'turn:0.1451', 'know:0.1426', 'desperately:0.1408', 'spokesperson:0.1384', 'stability:0.1372', 'later:0.136', 'lively:0.1224', 'reduce:0.0802', 'big:0.0781', 'thousand:0.0767']+titles_keywords+['ukrainian:0.3681', 'delays:0.3398', 'embarrassment:0.313', 'visa:0.2695', 'says:0.1095']"
+        ]
+    ]
+}

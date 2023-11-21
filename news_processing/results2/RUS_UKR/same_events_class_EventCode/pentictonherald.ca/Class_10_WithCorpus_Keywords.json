@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+10":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/pentictonherald.ca/Zelenskyy says siege of Mariupol involved war crimes.txt+eventbasecode10+eventcode10+avgtone0.47732513451191394+goldsteinscale0.5+nummentions0.18359941944847605+numarticles0.18419144307469182+numsources0.15789473684210525+news_keywords+['kyiv:0.5387', 'chechnya:0.4399', 'evacuations:0.4017', 'demilitarization:0.3962', 'zelenskyy:0.3867', 'mykolaiv:0.3444', 'russias:0.3394', 'refugee:0.3149', 'peaceful:0.2775', 'genocidal:0.2763', 'pentagon:0.2732', 'news:0.2575', 'annex:0.2535', 'mig:0.2504', 'battle:0.2397', 'operational:0.2318', 'know:0.2287', 'continue:0.2053', 'mariupol:0.1986', 'kilometer:0.192', 'deliver:0.1917', 'anonymity:0.1845', 'long:0.1638', 'nursery:0.1528', 'immediately:0.1483', 'convert:0.1444', 'galvanize:0.1345', 'hearing:0.1292', 'largely:0.1251', 'nineteen:0.102']+titles_keywords+['zelenskyy:0.5074', 'siege:0.3261', 'crimes:0.2791', 'mariupol:0.2663', 'says:0.0467']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/pentictonherald.ca/Biden Russia war a genocide trying to wipe out Ukraine.txt+eventbasecode10+eventcode10+avgtone0.46226415094339623+goldsteinscale0.5+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.023026315789473683+news_keywords+['putin:0.4865', 'genocide:0.4709', 'biden:0.3743', 'confrontation:0.3161', 'regime:0.3061', 'accuse:0.258', 'term:0.2494', 'news:0.2189', 'constitute:0.2187', 'tutsis:0.2133', 'washington:0.1959', 'know:0.1912', 'word:0.1856', 'power:0.1853', 'campaign:0.182', 'example:0.1713', 'tweet:0.165', 'articulate:0.1645', 'trip:0.1638', 'learn:0.1636', 'bloody:0.16', 'wipe:0.1587', 'april:0.1531', 'volodymyr:0.1468', 'hesitate:0.1429', 'direct:0.1303', 'ap:0.1171', 'calling:0.1171', 'sure:0.103', 'seemingly:0.0778']+titles_keywords+['biden:0.5002', 'genocide:0.4654', 'ukraine:0.4317', 'war:0.3981', 'trying:0.1738']"
+        ]
+    ]
+}

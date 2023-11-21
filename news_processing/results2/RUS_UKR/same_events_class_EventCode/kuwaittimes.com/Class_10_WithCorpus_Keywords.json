@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/kuwaittimes.com/Ukraine war already gets its own museum show.txt+eventbasecode10+eventcode10+avgtone0.47253787878787873+goldsteinscale0.5+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukrainecrucifixion:0.5915', 'kyiv:0.5317', 'ukraines:0.4825', 'war:0.4004', 'history:0.3654', 'propaganda:0.3568', 'putin:0.3423', 'occupy:0.3185', 'reconstruction:0.2979', 'museum:0.2806', 'loyalist:0.2278', 'shrapnel:0.2237', 'reminder:0.2083', 'live:0.194', 'afp:0.1906', 'heroes:0.1857', 'didok:0.1856', 'title:0.1716', 'ration:0.1715', 'want:0.1634', 'capitalnow:0.149', 'draw:0.1464', 'actually:0.1416', 'beneath:0.14', 'parallel:0.134', 'fierce:0.1256', 'respond:0.1251', 'million:0.1213', 'far:0.1197', 'theres:0.0763']+titles_keywords+['ukraine:0.4312', 'museum:0.4263', 'war:0.3547', 'gets:0.1079']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/kuwaittimes.com/Biden calls latest Russian bombing of Kyiv barbarism.txt+eventbasecode10+eventcode10+avgtone0.47540983606557374+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5624', 'ukraines:0.4063', 'russian:0.3672', 'bombing:0.3634', 'barbarism:0.322', 'russias:0.3119', 'biden:0.2804', 'bomb:0.2425', 'capital:0.237', 'missile:0.2317', 'president:0.2204', 'reporter:0.166', 'elmau:0.1402', 'reaction:0.1316', 'germany:0.1298', 'tell:0.1291', 'joe:0.1232', 'german:0.1153', 'strike:0.1116', 'building:0.109', 'residential:0.1023', 'site:0.071', 'sunday:0.059', 'summit:0.0574', 'castle:0.0519', 'late:0.0505', 'ask:0.0181', 'alps:0.0129']+titles_keywords+['kyiv:0.4573', 'barbarism:0.382', 'bombing:0.3554', 'biden:0.2972', 'latest:0.054']"
+        ]
+    ]
+}

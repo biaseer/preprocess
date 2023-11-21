@@ -1,0 +1,12 @@
+{
+    "RUS+GBR+90":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/ndtv.com/Russian President Vladimir Putin Losing Eyesight Has 3 Years To Live Claims Spy Report.txt+eventbasecode90+eventcode90+avgtone0.47566909975669097+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.5748', 'moscow:0.3931', 'eyesight:0.3384', 'cancer:0.3082', 'lavrov:0.3028', 'news:0.2281', 'spy:0.2202', 'appear:0.1994', 'read:0.1929', 'sanction:0.1873', 'report:0.1823', 'years:0.1811', 'sane:0.1778', 'deteriorate:0.1758', 'grow:0.1717', 'speech:0.1623', 'power:0.161', 'complication:0.1598', 'world:0.159', 'broadcaster:0.1462', 'big:0.1385', 'underwent:0.1374', 'losing:0.133', 'public:0.1325', 'mr:0.119', 'svr:0.1162', 'tf:0.1098', 'rapidly:0.1006', 'fsb:0.0984', 'piece:0.0938']+titles_keywords+['putin:0.4948', 'eyesight:0.3029', 'years:0.2363', 'report:0.1632', 'live:0.1081']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/ndtv.com/Russia Could Be Suspended From Human Rights Body Over Ukraine Invasion.txt+eventbasecode90+eventcode90+avgtone0.45953002610966037+goldsteinscale0.4+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.01644736842105263+news_keywords+['ukraine:0.3726', 'impunity:0.2952', 'humanitarian:0.2841', 'abstention:0.2433', 'invasion:0.2287', 'demilitarize:0.2137', 'rights:0.213', 'suspend:0.2041', 'denounce:0.1795', 'report:0.1755', 'violation:0.1725', 'concern:0.1723', 'geneva:0.1686', 'continue:0.1599', 'muammar:0.1594', 'nebenzia:0.1513', 'headline:0.1445', 'say:0.1349', 'decision:0.1202', 'include:0.1042', 'count:0.1039', 'council:0.1032', 'body:0.1025', 'second:0.0917', 'unfriendly:0.0869', 'gesture:0.0807', 'bucha:0.079', 'bilateral:0.0772', 'year:0.051', 'adopt:0.0306']+titles_keywords+['ukraine:0.4235', 'suspended:0.2287', 'rights:0.2217', 'invasion:0.2174', 'body:0.125']"
+        ]
+    ]
+}

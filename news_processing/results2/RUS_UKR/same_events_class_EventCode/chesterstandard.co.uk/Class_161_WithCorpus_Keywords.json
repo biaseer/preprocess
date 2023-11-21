@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+161":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/chesterstandard.co.uk/What is the state of play in Ukraine crisis.txt+eventbasecode161+eventcode161+avgtone0.4810710987996306+goldsteinscale0.3+nummentions0.284833091436865+numarticles0.28535170413343003+numsources0.3157894736842105+news_keywords+['ukraine:0.538', 'kremlin:0.4242', 'nato:0.4067', 'erdogan:0.3979', 'separatist:0.3751', 'sovereignty:0.362', 'war:0.3422', 'political:0.3339', 'evacuate:0.2989', 'sanction:0.2888', 'crisis:0.2792', 'correspondent:0.2639', 'frontline:0.2398', 'formalise:0.231', 'debate:0.2238', 'concern:0.2132', 'agreement:0.2124', 'state:0.2092', 'know:0.1973', 'capital:0.1892', 'pipeline:0.1874', 'future:0.1866', 'volodymyr:0.1772', 'continue:0.1667', 'whip:0.1628', 'rank:0.1581', 'count:0.1542', 'long:0.151', 'strengthen:0.1502', 'like:0.1271']+titles_keywords+['ukraine:0.4923', 'crisis:0.3474', 'play:0.2682', 'state:0.2487']"
+        ]
+    ],
+    "UKR+RUS+161":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/chesterstandard.co.uk/Russia attacks Ukraine as peace in Europe shattered.txt+eventbasecode161+eventcode161+avgtone0.46237562189054726+goldsteinscale0.3+nummentions0.41110304789550073+numarticles0.411530094271211+numsources0.6513157894736842+news_keywords+['ukraine:0.4669', 'natos:0.4281', 'kremlin:0.4274', 'geopolitical:0.4153', 'war:0.3985', 'chernobyl:0.397', 'propaganda:0.3119', 'strategic:0.2707', 'aggressor:0.2657', 'annex:0.2498', 'predict:0.2448', 'azov:0.2431', 'worry:0.2422', 'emergency:0.2401', 'autocratic:0.223', 'arrange:0.2178', 'flee:0.2147', 'tank:0.2134', 'surge:0.2124', 'countermeasure:0.2022', 'readied:0.197', 'report:0.1954', 'rewrite:0.19', 'tech:0.1714', 'want:0.1659', 'scale:0.1639', 'exactly:0.1571', 'reverberate:0.1559', 'resume:0.1473', 'far:0.12']+titles_keywords+['ukraine:0.4427', 'attacks:0.3137', 'peace:0.2662', 'europe:0.2502', 'shattered:0.2475']"
+        ]
+    ]
+}

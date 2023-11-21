@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/ross-shirejournal.co.uk/Roman Abramovich suspected poisoning claims very concerning Foreign Office.txt+eventbasecode10+eventcode10+avgtone0.47664071190211343+goldsteinscale0.5+nummentions0.18650217706821481+numarticles0.18709209572153734+numsources0.42105263157894735+news_keywords+['putin:0.5287', 'kyiv:0.4804', 'abramovich:0.4354', 'oligarch:0.4341', 'negotiation:0.3329', 'poison:0.301', 'allegation:0.2975', 'bomb:0.2937', 'news:0.2854', 'invasion:0.2766', 'concern:0.2703', 'table:0.2692', 'oppose:0.254', 'report:0.2529', 'know:0.2422', 'humanitarian:0.2357', 'orchestrate:0.2339', 'expect:0.2299', 'tense:0.2106', 'british:0.2093', 'secure:0.2049', 'end:0.1914', 'long:0.1874', 'mps:0.1868', 'look:0.1861', 'reiterate:0.1823', 'explanation:0.179', 'outlet:0.1724', 'reach:0.171', 'plausible:0.1565']+titles_keywords+['abramovich:0.5631', 'poisoning:0.3889', 'suspected:0.2883', 'claims:0.1765', 'office:0.1638']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/ross-shirejournal.co.uk/Highland Council awards Freedom of the Highlands to President Volodymyr Zelensky of Ukraine and pledges.txt+eventbasecode10+eventcode10+avgtone0.4910313901345292+goldsteinscale0.5+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.029605263157894735+news_keywords+['ukraine:0.519', 'vladimir:0.3814', 'refugee:0.3327', 'councillor:0.3175', 'highland:0.311', 'solidarity:0.2777', 'volodymyr:0.2721', 'government:0.2687', 'troop:0.2677', 'pandemic:0.2418', 'applause:0.2197', 'debate:0.1991', 'translate:0.1919', 'hear:0.1846', 'andrew:0.1802', 'atrocity:0.1747', 'safe:0.1719', 'repeat:0.1434', 'motion:0.1419', 'fund:0.1418', 'round:0.1374', 'chamber:0.1354', 'end:0.134', 'deliver:0.1258', 'exactly:0.1137', 'increasingly:0.1058', 'early:0.0982', 'link:0.0843', 'theyre:0.0834', 'practical:0.0799']+titles_keywords+['highland:0.4399', 'ukraine:0.4398', 'zelensky:0.4376', 'freedom:0.3072', 'pension:0.1987']"
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "EUR+RUS+46":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/foxbusiness.com/RussiaUkraine an opportunity for Biden to stand up for American values Harvard professor says.txt+eventbasecode46+eventcode46+avgtone0.5053571428571428+goldsteinscale0.85+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.5042', 'putin:0.4979', 'russiaukraine:0.4781', 'nato:0.3899', 'war:0.3196', 'capitalism:0.3001', 'cybersecurity:0.2874', 'biden:0.2713', 'crisis:0.2615', 'democratic:0.2491', 'argue:0.241', 'harvard:0.1954', 'newsroom:0.1936', 'activity:0.1921', 'fox:0.1888', 'important:0.175', 'transgress:0.1706', 'result:0.158', 'invest:0.157', 'privet:0.1558', 'look:0.1478', 'rise:0.1444', 'ally:0.1416', 'author:0.1396', 'ap:0.1353', 'thursday:0.1335', 'precisely:0.1175', 'harrigan:0.0884', 'doesnt:0.0683', 'theyre:0.0524']+titles_keywords+['biden:0.4948', 'russiaukraine:0.3251', 'harvard:0.2866', 'values:0.188', 'stand:0.1489']"
+        ]
+    ],
+    "IRN+RUS+46":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/foxbusiness.com/Oil adds to gains on lack of progress in RussiaUkraine talks.txt+eventbasecode46+eventcode46+avgtone0.46319018404907975+goldsteinscale0.85+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['reuters:0.3928', 'oil:0.384', 'supply:0.3386', 'volatility:0.3283', 'surge:0.297', 'disruption:0.2867', 'pump:0.2726', 'week:0.2577', 'future:0.2478', 'worry:0.236', 'bakersfield:0.2324', 'progress:0.232', 'jacks:0.2242', 'brent:0.2239', 'russiaukraine:0.2163', 'democrats:0.2043', 'independence:0.198', 'prolonged:0.1975', 'benchmark:0.1831', 'covid:0.1716', 'stockpile:0.1684', 'rollercoaster:0.1611', 'peek:0.148', 'file:0.1408', 'photo:0.1345', 'nearly:0.1202', 'prices:0.1201', 'percentage:0.1007', 'mid:0.0946', 'set:0.0786']+titles_keywords+['oil:0.4144', 'gains:0.2525', 'russiaukraine:0.2065', 'talks:0.187', 'adds:0.0897']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/foxbusiness.com/Ukrainian Olympic gold medalist Oksana BaiulFarina leads rescue initiative amid Russia invasion.txt+eventbasecode46+eventcode46+avgtone0.49736842105263157+goldsteinscale0.85+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5157', 'putins:0.4514', 'olympics:0.427', 'airstrikes:0.3722', 'humanitarian:0.36', 'medalist:0.3077', 'crisis:0.3029', 'oksana:0.2973', 'invasion:0.2959', 'woman:0.2611', 'dniepropetrovsk:0.259', 'news:0.2442', 'strategic:0.2424', 'farina:0.24', 'initiative:0.2384', 'rally:0.2381', 'president:0.2283', 'happen:0.2148', 'priority:0.2123', 'continue:0.204', 'siren:0.2014', 'peace:0.1995', 'organize:0.1985', 'fight:0.1985', 'discus:0.178', 'imports:0.156', 'recognize:0.1522', 'cold:0.1306', 'blare:0.1132', 'adopt:0.0808']+titles_keywords+['oksana:0.4052', 'rescue:0.3878', 'russia:0.36', 'baiulfarina:0.3506', 'olympic:0.34']"
+        ]
+    ],
+    "WST+RUS+46":[
+        [
+            "20220512+../news_crawling/RUS_UKR/p_articles/foxbusiness.com/Russia looks to cut gas supplies to Finland amid NATO bid.txt+eventbasecode46+eventcode46+avgtone0.47713414634146345+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.4571', 'russia:0.4497', 'finlands:0.4156', 'geopolitics:0.3862', 'putins:0.3812', 'putinstipulated:0.3652', 'dmitry:0.3334', 'invade:0.2737', 'threat:0.2648', 'gas:0.2308', 'supply:0.2242', 'pipeline:0.2109', 'instability:0.1916', 'news:0.1817', 'president:0.1724', 'react:0.1637', 'expand:0.162', 'neutral:0.1608', 'seaport:0.1595', 'prepare:0.1571', 'enter:0.1539', 'soon:0.1439', 'ice:0.1284', 'reject:0.1174', 'fiscal:0.1112', 'lakhta:0.103', 'possibility:0.1001', 'prior:0.087', 'traditionally:0.0636', 'man:0.0434']+titles_keywords+['finland:0.3342', 'nato:0.2813', 'gas:0.2365', 'cut:0.1894', 'bid:0.0398']"
+        ]
+    ]
+}

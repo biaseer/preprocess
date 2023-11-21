@@ -1,0 +1,15 @@
+{
+    "GBR+RUS+163":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/dunfermlinepress.com/Parliament rushes through economic crime reforms in response to Ukraine invasion.txt+eventbasecode163+eventcode163+avgtone0.4803664921465969+goldsteinscale0.1+nummentions0.3635703918722787+numarticles0.3640319071791153+numsources0.41118421052631576+news_keywords+['legislation:0.4098', 'reform:0.3889', 'parliamentary:0.3822', 'houses:0.3421', 'ukraine:0.2968', 'establish:0.2919', 'comply:0.282', 'crime:0.2753', 'progress:0.2636', 'ahead:0.2508', 'submit:0.2265', 'long:0.2134', 'result:0.2061', 'lords:0.196', 'midnight:0.1913', 'promise:0.1792', 'dispose:0.1767', 'session:0.1677', 'transparency:0.1603', 'opening:0.1567', 'beneficial:0.1566', 'measure:0.1551', 'period:0.1518', 'scrap:0.1476', 'risk:0.1365', 'launder:0.1335', 'week:0.1323', 'rapid:0.112', 'callanan:0.1064', 'true:0.0812']+titles_keywords+['ukraine:0.3721', 'reforms:0.366', 'crime:0.3179', 'invasion:0.2923', 'parliament:0.2776']"
+        ],
+        [
+            "20220629+../news_crawling/RUS_UKR/p_articles/dunfermlinepress.com/Search ongoing for 20 missing after Russian strike on Ukraine shopping centre.txt+eventbasecode163+eventcode163+avgtone0.4714003944773175+goldsteinscale0.1+nummentions0.1665457184325109+numarticles0.16715010877447425+numsources0.24671052631578946+news_keywords+['ukraine:0.4959', 'putins:0.4269', 'airstrike:0.3731', 'nato:0.3729', 'mykolaiv:0.3302', 'government:0.2975', 'genocide:0.2865', 'victim:0.2441', 'embattled:0.2353', 'troop:0.2295', 'conglomerate:0.2018', 'fight:0.1852', 'warn:0.1839', 'benefit:0.1725', 'shopping:0.1657', 'swap:0.1559', 'drain:0.1558', 'left:0.154', 'statement:0.1538', 'address:0.1538', 'mourn:0.1465', 'study:0.1422', 'cousin:0.138', 'flower:0.1318', 'sure:0.1305', 'fully:0.1294', 'incremental:0.1269', 'late:0.1128', 'mr:0.1095', 'shouldnt:0.0388']+titles_keywords+['ukraine:0.3074', 'search:0.2887', 'missing:0.243', '20:0.1791', 'strike:0.1274']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/dunfermlinepress.com/US Russia to face pressure at UN over Ukraine crisis.txt+eventbasecode163+eventcode163+avgtone0.47591623036649217+goldsteinscale0.1+nummentions0.9426705370101597+numarticles0.9427121102248006+numsources0.9243421052631579+news_keywords+['natos:0.4724', 'putin:0.3979', 'crimea:0.3975', 'war:0.3005', 'diplomatic:0.2618', 'veto:0.2516', 'cyberattacks:0.2377', 'annex:0.2236', 'unify:0.214', 'agreement:0.2024', 'crisis:0.197', 'border:0.1848', 'table:0.1842', 'behave:0.1794', 'future:0.1683', 'continue:0.1674', 'want:0.1648', 'warning:0.1616', 'volodymyr:0.1427', 'stability:0.1323', 'ready:0.1264', 'current:0.1262', 'increase:0.1262', 'explain:0.1256', 'long:0.1116', 'state:0.1107', 'month:0.0934', 'resolution:0.0787', 'unlikely:0.0718', 'theyre:0.0266']+titles_keywords+['ukraine:0.339', 'russia:0.3088', 'pressure:0.2388', 'crisis:0.185', 'face:0.0415']"
+        ]
+    ]
+}

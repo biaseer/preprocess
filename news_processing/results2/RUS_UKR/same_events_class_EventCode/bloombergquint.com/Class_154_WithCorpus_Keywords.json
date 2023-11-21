@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220201+../news_crawling/RUS_UKR/p_articles/bloombergquint.com/Extra US Allied Troops Bolster NATOs Eastern Flank.txt+eventbasecode154+eventcode154+avgtone0.5034782608695652+goldsteinscale0.13999999999999999+nummentions0.017779390420899856+numarticles0.01849166062364032+numsources0.02631578947368421+news_keywords+['natos:0.5474', 'crimea:0.465', 'troop:0.3665', 'invade:0.3598', 'deploy:0.3351', 'annex:0.3144', 'readiness:0.3098', 'pentagon:0.3061', 'increase:0.2649', 'threat:0.24', 'ally:0.2251', 'border:0.2247', 'urgent:0.1961', 'extra:0.1952', 'multinational:0.1902', 'dispatch:0.1873', 'forward:0.1809', 'near:0.1596', 'approve:0.1477', 'added:0.1342', 'wednesday:0.1304', 'biden:0.1288', 'end:0.1071', 'make:0.1028', 'million:0.1012', 'stoltenberg:0.0995', 'wont:0.0878', 'calculus:0.0836', 'theyve:0.0767', 'hardware:0.0506']+titles_keywords+['natos:0.558', 'allied:0.379', 'flank:0.2862', 'extra:0.2529', 'bolster:0.2517']"
+        ],
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/bloombergquint.com/Oil Gold Advance as Putin Orders Forces to Regions of Ukraine.txt+eventbasecode154+eventcode154+avgtone0.48514851485148514+goldsteinscale0.13999999999999999+nummentions0.021407837445573296+numarticles0.022117476432197244+numsources0.04276315789473684+news_keywords+['opecs:0.4321', 'geopolitical:0.4043', 'bloomberg:0.3723', 'moscow:0.3333', 'turmoil:0.3187', 'future:0.3085', 'volatility:0.2993', 'timespread:0.2808', 'april:0.2776', 'worry:0.2711', 'data:0.2678', 'cryptocurrencies:0.2669', 'announce:0.2653', 'dailyfx:0.254', 'pipelines:0.2514', 'output:0.2511', 'oanda:0.2396', 'intensify:0.2365', 'orders:0.2308', 'significant:0.2202', 'strategist:0.2171', 'gold:0.2165', 'fed:0.2084', 'world:0.1989', 'rally:0.1964', 'end:0.1906', 'term:0.184', 'resume:0.1685', 'sri:0.1564', 'theres:0.0467']+titles_keywords+['ukraine:0.4325', 'oil:0.3782', 'gold:0.3363', 'advance:0.234', 'orders:0.2206']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+90":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/wesa.fm/Russias Victory Day celebrations take on new importance for the Kremlin this year.txt+eventbasecode90+eventcode90+avgtone0.4946341463414634+goldsteinscale0.4+nummentions0.2539912917271408+numarticles0.25453226976069615+numsources0.2730263157894737+news_keywords+['kremlin:0.4543', 'ukrainian:0.4151', 'russias:0.4049', 'celebrate:0.3497', 'victory:0.3461', 'annexation:0.3231', 'news:0.2497', 'event:0.233', 'rhetoric:0.2321', 'prominence:0.229', 'troop:0.2203', 'presidential:0.206', 'greet:0.2042', 'escalate:0.1834', 'turn:0.1605', 'generation:0.1584', 'point:0.1544', 'big:0.1529', 'red:0.1514', 'world:0.1411', 'fall:0.1408', 'donbas:0.1397', 'include:0.1388', 'state:0.1282', 'underscoring:0.1139', 'rehearse:0.1126', 'late:0.1091', 'integrate:0.1065', 'galvanize:0.0918', 'send:0.0754']+titles_keywords+['kremlin:0.4621', 'celebrations:0.3708', 'victory:0.2929', 'importance:0.2016', 'new:0.0765']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/wesa.fm/Fighting to survive Ukraines cancer patients struggle to find care while fleeing.txt+eventbasecode90+eventcode90+avgtone0.46327212020033387+goldsteinscale0.4+nummentions0.03918722786647315+numarticles0.03988397389412618+numsources0.08881578947368421+news_keywords+['kyiv:0.5071', 'ukraines:0.4507', 'war:0.4155', 'hospital:0.3653', 'oncologist:0.3544', 'survive:0.3293', 'resupplies:0.2986', 'bombardment:0.2967', 'covid:0.2625', 'displaced:0.2613', 'treatment:0.2461', 'reserve:0.2154', 'region:0.2115', 'supply:0.2056', 'operate:0.1985', 'urgent:0.1949', 'home:0.1833', 'care:0.1796', 'siren:0.1789', 'anna:0.1715', 'orest:0.1599', 'middle:0.1579', 'story:0.1504', 'begin:0.1444', 'despite:0.1321', 'search:0.1232', 'choose:0.1218', 'load:0.1065', 'lot:0.1027', 'horrible:0.0843']+titles_keywords+['ukraines:0.4572', 'cancer:0.4164', 'survive:0.3792', 'fleeing:0.3375', 'care:0.2117']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "FRA+RUS+36":[
+        [
+            "20220127+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Putin unveils secret weapon in looming Ukraine conflict soldiers in lipstick.txt+eventbasecode36+eventcode36+avgtone0.48129251700680276+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5436', 'nato:0.4545', 'ukraines:0.4531', 'tensions:0.2788', 'troop:0.2608', 'torpedo:0.2561', 'terrify:0.2453', 'flag:0.2309', 'newsletter:0.2297', 'weapon:0.2281', 'stealthy:0.2238', 'femininity:0.2186', 'unveil:0.1955', 'supply:0.1858', 'lipstick:0.1786', 'ft:0.1724', 'world:0.1605', 'contest:0.1573', 'intend:0.1563', 'later:0.15', 'bright:0.1449', 'designer:0.1441', 'huge:0.1428', 'poseidon:0.1391', 'plus:0.1365', 'look:0.1337', 'km:0.1287', 'varnish:0.1169', 'sure:0.1013', 'year:0.1004']+titles_keywords+['putin:0.4968', 'lipstick:0.453', 'weapon:0.3924', 'soldiers:0.3089', 'unveils:0.296']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/RussiaUkraine war means mankind not going to Mars this year warn global space agencies.txt+eventbasecode36+eventcode36+avgtone0.4732704402515723+goldsteinscale0.7+nummentions0.018142235123367198+numarticles0.01849166062364032+numsources0.05263157894736842+news_keywords+['ukraine:0.3831', 'mars:0.3686', 'esa:0.3262', 'spacecraft:0.3155', 'conflict:0.2259', 'exomars:0.2214', 'operation:0.2152', 'news:0.2084', 'warn:0.2071', 'align:0.1805', 'statement:0.1781', 'sign:0.1657', 'continuation:0.1631', 'project:0.1625', 'regarding:0.1561', 'plant:0.155', 'red:0.1436', 'date:0.1389', 'lander:0.1315', 'make:0.1256', 'russo:0.1233', 'include:0.1148', 'board:0.1106', 'sure:0.0993', 'covid:0.0961', 'wider:0.0905', 'global:0.0901', 'confirm:0.0829', 'doesnt:0.0544', 'unlikely:0.0486']+titles_keywords+['mars:0.3997', 'russiaukraine:0.3639', 'war:0.2901', 'warn:0.2589', 'going:0.0967']"
+        ]
+    ]
+}

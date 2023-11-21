@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+193":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/businessinsider.in/A Russian soldier says Putins troops have been blowing up their own as if they.txt+eventbasecode193+eventcode193+avgtone0.4716312056737588+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kremlin:0.455', 'ukrainians:0.4297', 'russian:0.409', 'vladimir:0.3485', 'invasion:0.3483', 'donetsk:0.3408', 'refugee:0.3267', 'bombing:0.3142', 'provoke:0.2904', 'soldier:0.2797', 'flee:0.234', 'orchestrate:0.2059', 'crap:0.1847', 'order:0.1783', 'blame:0.1765', 'intercepted:0.1527', 'bulletproof:0.1526', 'begin:0.1478', 'hear:0.14', 'authority:0.139', 'federal:0.1373', 'apartments:0.1369', 'data:0.1358', 'phone:0.1338', 'compare:0.1276', 'like:0.1191', 'radio:0.1175', 'straddle:0.1155', 'million:0.102', 'intel:0.0744']+titles_keywords+['terrorists:0.3775', 'russian:0.3582', 'soldier:0.329', 'blowing:0.1196', 'says:0.075']"
+        ]
+    ],
+    "RUS+UKR+193":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/businessinsider.in/Ukrainians are trembling and crying as they shelter and listen to bombs and planes flying.txt+eventbasecode193+eventcode193+avgtone0.4844517184942717+goldsteinscale0.0+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukrainian:0.4837', 'missiles:0.408', 'oleg:0.3952', 'sirens:0.316', 'terrify:0.3153', 'bomb:0.3008', 'shelter:0.2966', 'enemy:0.2953', 'sinegubov:0.278', 'government:0.2727', 'plane:0.2508', 'vacate:0.2327', 'telegram:0.232', 'hiding:0.23', 'safe:0.2199', 'write:0.2173', 'hears:0.2125', 'live:0.2063', 'plan:0.1933', 'people:0.1924', 'hit:0.1786', 'change:0.1751', 'night:0.1655', 'area:0.1548', 'reason:0.1547', 'whoosh:0.147', 'like:0.1401', 'far:0.1343', 'senior:0.0783', 'pas:0.0563']+titles_keywords+['ukrainians:0.4403', 'kharkiv:0.3566', 'trembling:0.3447', 'shelter:0.3298', 'bombs:0.3051']"
+        ]
+    ]
+}

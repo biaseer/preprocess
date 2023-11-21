@@ -1,0 +1,17 @@
+{
+    "CHN+RUS+70":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/business-standard.com/China to face economic consequences if it aids Russia in Ukraine Biden.txt+eventbasecode70+eventcode70+avgtone0.4957983193277311+goldsteinscale0.85+nummentions0.024310595065312045+numarticles0.025018129079042786+numsources0.023026315789473683+news_keywords+['nato:0.4022', 'russia:0.3865', 'economic:0.3598', 'concern:0.2918', 'consequence:0.2899', 'talk:0.2894', 'develop:0.2851', 'topic:0.2819', 'future:0.2803', 'chinese:0.2715', 'news:0.2575', 'biden:0.2557', 'understand:0.2529', 'report:0.2522', 'refugee:0.2461', 'world:0.246', 'assistance:0.2388', 'jinping:0.2304', 'conference:0.2193', 'increase:0.2067', 'feed:0.195', 'counterpart:0.1929', 'sure:0.1721', 'include:0.158', 'generate:0.1499', 'disseminate:0.1463', 'long:0.1433', 'possibility:0.1358', 'picture:0.1266', 'remainder:0.1192']+titles_keywords+['ukraine:0.3344', 'biden:0.2679', 'consequences:0.2367', 'economic:0.1673', 'face:0.0342']"
+        ]
+    ],
+    "RUS+UKR+70":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/business-standard.com/Uflex gains after credit rating upgrade.txt+eventbasecode70+eventcode70+avgtone0.5116696588868941+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['uflex:0.5017', 'packaging:0.3474', 'product:0.3258', 'industry:0.317', 'capex:0.3049', 'financial:0.2886', 'subsidiary:0.2852', 'flexible:0.2707', 'consolidated:0.2631', 'laminate:0.2514', 'diversify:0.2392', 'print:0.2345', 'films:0.2207', 'purchase:0.1893', 'increase:0.1858', 'fmcg:0.1777', 'deprecation:0.1771', 'dubai:0.1741', 'margin:0.1686', 'newsletter:0.1472', 'susceptibility:0.1459', 'crore:0.1423', 'include:0.1135', 'significant:0.1048', 'month:0.1032', 'powered:0.0912', 'rus:0.0878', 'profile:0.0834', 'aa:0.0672', 'say:0.0638']+titles_keywords+['uflex:0.3429', 'upgrade:0.2365', 'gains:0.1885', 'credit:0.1849', 'rating:0.1674']"
+        ]
+    ],
+    "USA+RUS+70":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/business-standard.com/Major drug makers pause operations in Russia amid Ukraine invasion.txt+eventbasecode70+eventcode70+avgtone0.498046875+goldsteinscale0.85+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.009868421052631578+news_keywords+['ukraine:0.5263', 'pharma:0.3578', 'humanitarian:0.3173', 'invasion:0.3158', 'military:0.297', 'operation:0.2931', 'supply:0.2625', 'headline:0.2328', 'visa:0.2193', 'cancer:0.211', 'sanction:0.2093', 'syndicate:0.2052', 'know:0.204', 'western:0.1962', 'dysfunction:0.1948', 'continue:0.1911', 'sector:0.1911', 'invest:0.1794', 'export:0.1725', 'rvtsvnonly:0.167', 'forward:0.1656', 'matter:0.1539', 'exclude:0.1337', 'rework:0.1313', 'lilly:0.1261', 'abbott:0.1257', 'february:0.1067', 'times:0.09', 'focus:0.0889', 'nearly:0.0875']+titles_keywords+['ukraine:0.3812', 'drug:0.2925', 'invasion:0.2199', 'pause:0.0937', 'major:0.0358']"
+        ]
+    ]
+}

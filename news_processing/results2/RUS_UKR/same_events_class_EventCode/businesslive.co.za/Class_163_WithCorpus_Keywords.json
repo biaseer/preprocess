@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+163":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/businesslive.co.za/Commodity supplies at risk as Russia invades Ukraine.txt+eventbasecode163+eventcode163+avgtone0.49647887323943657+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4798', 'russias:0.4036', 'rusal:0.3787', 'invades:0.2772', 'commodity:0.2759', 'korniyenkoreuters:0.205', 'pipeline:0.2042', 'risk:0.1945', 'output:0.1817', 'replace:0.1592', 'potash:0.153', 'subject:0.1359', 'global:0.1296', 'export:0.1248', 'april:0.1185', 'alrosa:0.1123', 'include:0.1077', 'data:0.0993', 'continue:0.092', 'transit:0.0895', 'black:0.0773', 'crop:0.075', 'long:0.0735', 'combine:0.0734', 'million:0.0715', 'unlikely:0.0661', 'largely:0.0654', 'nlmk:0.0591', 'usgs:0.0503', 'major:0.0461']+titles_keywords+['ukraine:0.469', 'commodity:0.3854', 'supplies:0.3388', 'invades:0.2962', 'risk:0.2396']"
+        ],
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/businesslive.co.za/Disruption to oil supply in Kazakhstan pushes price up.txt+eventbasecode163+eventcode163+avgtone0.47916666666666663+goldsteinscale0.1+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.019736842105263157+news_keywords+['opec:0.5297', 'oil:0.4121', 'sanctions:0.39', 'kazakhstans:0.383', 'supply:0.382', 'pipeline:0.3476', 'disruption:0.3427', 'coronavirus:0.2889', 'emirates:0.2357', 'output:0.2347', 'increase:0.2321', 'cpc:0.2217', 'outage:0.2199', 'hurry:0.211', 'world:0.2023', 'analyst:0.1996', 'stabilise:0.1977', 'commerzbank:0.1954', 'fall:0.1919', 'monday:0.1817', 'source:0.1615', 'brent:0.1609', 'benchmark:0.1571', 'overreaction:0.1545', 'staunovo:0.144', 'hold:0.1381', 'gmt:0.1343', 'major:0.1272', 'price:0.1208', 'albeit:0.1022']+titles_keywords+['kazakhstan:0.3935', 'oil:0.328', 'supply:0.2439', 'disruption:0.214', 'price:0.2105']"
+        ]
+    ]
+}

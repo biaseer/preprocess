@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+50":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/arabnews.com/UN aid chief Im not optimistic about Ukraine ceasefire.txt+eventbasecode50+eventcode50+avgtone0.48588410104011887+goldsteinscale0.675+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.06578947368421052+news_keywords+['ceasefire:0.5229', 'kyiv:0.4141', 'nato:0.3482', 'evacuate:0.3409', 'geography:0.2663', 'dispatch:0.2647', 'aid:0.2608', 'ongoing:0.2449', 'ahead:0.2433', 'know:0.2218', 'secure:0.2114', 'bleak:0.2061', 'secretary:0.1991', 'cross:0.1957', 'talk:0.1941', 'representatives:0.1925', 'return:0.1855', 'end:0.1849', 'closer:0.1833', 'general:0.1833', 'flow:0.1822', 'want:0.1794', 'short:0.1775', 'understanding:0.1746', 'wrap:0.1674', 'tomorrow:0.1431', 'ap:0.14', 'reach:0.1309', 'bucha:0.1212', 'griffiths:0.0737']+titles_keywords+['ceasefire:0.4669', 'ukraine:0.3717', 'aid:0.3403', 'optimistic:0.2915', 'chief:0.1395']"
+        ]
+    ],
+    "SAU+RUS+50":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/arabnews.com/McDonalds CocaCola Starbucks join global trend of halting Russian operations.txt+eventbasecode50+eventcode50+avgtone0.489285714285+goldsteinscale0.675+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['russia:0.4737', 'moscows:0.4322', 'starbucks:0.3732', 'heineken:0.3434', 'boycott:0.3127', 'war:0.3085', 'zhigulevskoe:0.2689', 'bloomberg:0.2356', 'profitability:0.2322', 'unprovoked:0.2221', 'escalation:0.2057', 'global:0.2048', 'announce:0.1774', 'statement:0.1633', 'report:0.1563', 'continue:0.1555', 'widespreadcriticism:0.1532', 'executive:0.1525', 'trend:0.1521', 'make:0.1339', 'forgo:0.122', 'sadden:0.1106', 'longer:0.0931', 'van:0.0839', 'loral:0.0826', 'derive:0.0701', 'completely:0.0673', 'second:0.0663', 'weigh:0.0534', 'accord:0.015']+titles_keywords+['starbucks:0.524', 'russian:0.3966', 'global:0.2259', 'trend:0.1875', 'halting:0.1723']"
+        ]
+    ]
+}

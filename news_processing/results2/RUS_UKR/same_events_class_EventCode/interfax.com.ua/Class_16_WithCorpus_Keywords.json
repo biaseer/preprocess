@@ -1,0 +1,12 @@
+{
+    "SVK+RUS+16":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Slovakian PM denies fake that S300 air defense system transferred to Ukraine was destroyed.txt+eventbasecode16+eventcode16+avgtone0.435483870967742+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['slovakia:0.4823', 'slovakian:0.4466', 'ukraine:0.4129', 'propaganda:0.2939', 'hoax:0.2935', 'fake:0.281', 'russian:0.2554', 'destroy:0.2012', 'deny:0.2011', 'denies:0.1948', 'announce:0.1886', 'heger:0.1799', 'defence:0.1766', 'eduard:0.1735', 'prime:0.1567', 'air:0.1469', 'provide:0.1464', 'confirm:0.1397', 'country:0.1303', 'service:0.1145', 'minister:0.1137', 'provision:0.1083', 'twitter:0.1071', 'information:0.1064', 'say:0.0997', 'earlier:0.0979', 'pm:0.0822', 'officially:0.0727', 'transfer:0.069', 'categorically:-0.0837']+titles_keywords+['slovakian:0.3809', 'fake:0.3196', 's300:0.3084', 'defense:0.0881', 'pm:0.0717']"
+        ]
+    ],
+    "UKR+RUS+16":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Ukraines Defense Ministry does not confirm or refute info on involvement of Ukraine in fire.txt+eventbasecode16+eventcode16+avgtone0.4713375796178344+goldsteinscale0.4+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['ukraine:0.4985', 'kyiv:0.4553', 'oil:0.2934', 'accusation:0.2573', 'refute:0.2449', 'belgorod:0.2429', 'territory:0.2388', 'repel:0.2356', 'occur:0.2224', 'motuzianyk:0.2165', 'defense:0.1987', 'involvement:0.1964', 'operation:0.1955', 'aggression:0.1862', 'depot:0.1688', 'oleksandr:0.1682', 'state:0.1604', 'responsible:0.1546', 'spokesperson:0.137', 'information:0.1352', 'disaster:0.1348', 'emphasize:0.1272', 'confirm:0.1143', 'arm:0.1053', 'say:0.0974', 'miscalculation:0.0878', 'carrying:0.0787', 'today:0.0553', 'like:0.0516', 'medium:0.0212']+titles_keywords+['ukraines:0.4183', 'refute:0.2547', 'oil:0.2519', 'belgorod:0.2191', 'depot:0.1804']"
+        ]
+    ]
+}

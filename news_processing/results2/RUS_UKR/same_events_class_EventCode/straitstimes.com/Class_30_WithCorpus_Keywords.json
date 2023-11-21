@@ -1,0 +1,15 @@
+{
+    "GBR+UKR+30":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Putin highly likely to attack Kyiv says UK Foreign Secretary.txt+eventbasecode30+eventcode30+avgtone0.4850136239782017+goldsteinscale0.7+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.4646', 'kyiv:0.44', 'oligarch:0.309', 'invasion:0.2941', 'treaty:0.2628', 'pretexts:0.2517', 'britain:0.2258', 'news:0.1926', 'secretary:0.1868', 'plan:0.1864', 'sanction:0.1823', 'hold:0.1511', 'storm:0.1511', 'dependency:0.1507', 'ambiguous:0.1489', 'financial:0.1464', 'ready:0.1447', 'direct:0.1406', 'stability:0.1374', 'modernise:0.1263', 'truss:0.1262', 'cite:0.1214', 'feb:0.1198', 'current:0.1164', 'inject:0.1155', 'follow:0.1102', 'tell:0.1033', 'billion:0.098', 'likely:0.0764', 'prime:0.0749']+titles_keywords+['kyiv:0.4205', 'putin:0.3906', 'attack:0.2456', 'likely:0.1875', 'secretary:0.1204']"
+        ]
+    ],
+    "UKR+RUS+30":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Ukraine and Russia agree on evacuation corridors as US sanctions oligarchs.txt+eventbasecode30+eventcode30+avgtone0.4742647058823529+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.517', 'evacuate:0.4072', 'syria:0.3894', 'putin:0.3641', 'war:0.3421', 'diplomatic:0.2972', 'reuters:0.296', 'oligarchs:0.2895', 'logistics:0.2697', 'corridor:0.2429', 'armoured:0.2095', 'rouble:0.2085', 'turn:0.1986', 'continue:0.1931', 'north:0.1928', 'want:0.1853', 'plunge:0.1816', 'sanction:0.1779', 'timetable:0.175', 'ready:0.1611', 'increase:0.1501', 'expert:0.1409', 'refer:0.1375', 'thaw:0.1365', 'km:0.136', 'huge:0.1349', 'way:0.1205', 'nearly:0.1061', 'resolution:0.065', 'confirmed:0.0483']+titles_keywords+['ukraine:0.4396', 'evacuation:0.3791', 'sanctions:0.3728', 'oligarchs:0.3602', 'agree:0.0848']"
+        ],
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Ukraines Zelensky eyes inflection point in war as Russia tightens grip on key target.txt+eventbasecode30+eventcode30+avgtone0.4856459330143541+goldsteinscale0.7+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['ukraine:0.5196', 'kremlin:0.4451', 'moscows:0.3922', 'war:0.3642', 'zelensky:0.3551', 'natosecretary:0.3308', 'threaten:0.2772', 'artillery:0.2631', 'separatist:0.2609', 'occupy:0.2528', 'sievierodonetsk:0.2487', 'destabilise:0.2421', 'crisis:0.2401', 'economic:0.2311', 'volodymir:0.2177', 'drone:0.2169', 'news:0.2156', 'usplans:0.2066', 'advance:0.1986', 'range:0.189', 'point:0.1863', 'help:0.1797', 'railway:0.1592', 'th:0.1588', 'import:0.1583', 'nearly:0.1502', 'general:0.1468', 'grain:0.1364', 'inflection:0.1319', 'bos:0.0877']+titles_keywords+['zelensky:0.5832', 'ukraines:0.4274', 'war:0.3117', 'tightens:0.2172', 'inflection:0.1822']"
+        ]
+    ]
+}

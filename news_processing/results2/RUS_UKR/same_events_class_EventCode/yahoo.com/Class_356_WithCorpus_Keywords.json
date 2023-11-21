@@ -1,0 +1,11 @@
+{
+    "RUS+UKR+356":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/yahoo.com/Civilian suffering intensifies as new RussianUkrainian talks fail to yield breakthrough.txt+eventbasecode35+eventcode356+avgtone0.49395770392749244+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5136', 'kremlin:0.4461', 'evacuate:0.4078', 'airstrikes:0.3765', 'nato:0.3463', 'refugee:0.2981', 'troop:0.2927', 'intensifies:0.2555', 'strategic:0.2397', 'news:0.2322', 'beleaguered:0.2285', 'assault:0.2145', 'deliver:0.2133', 'hear:0.2024', 'ignore:0.1941', 'soon:0.193', 'north:0.1824', 'governor:0.1733', 'standstill:0.1665', 'want:0.1621', 'end:0.16', 'renew:0.1594', 'long:0.1586', 'additional:0.1567', 'bucha:0.1556', 'weekend:0.15', 'expectation:0.1471', 'funnel:0.144', 'nearly:0.1337', 'building:0.1249']+titles_keywords+['russianukrainian:0.3363', 'suffering:0.3125', 'civilian:0.2727', 'talks:0.1702', 'breakthrough:0.0908']",
+            "20220308+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russia Ukraine agree to humanitarian ceasefire.txt+eventbasecode35+eventcode356+avgtone0.49265555372173625+goldsteinscale0.85+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4781', 'ceasefire:0.4329', 'humanitarian:0.3749', 'russia:0.3483', 'agreement:0.2182', 'corridor:0.1866', 'student:0.181', 'cross:0.1789', 'trap:0.1524', 'city:0.144', 'northeastern:0.1325', 'open:0.1234', 'red:0.1128', 'foreign:0.0946', 'reach:0.0853', 'agree:0.085', 'announce:0.0748', 'thousand:0.0624', 'sumy:0.023']+titles_keywords+['ukraine:0.4388', 'ceasefire:0.4255', 'humanitarian:0.3121', 'russia:0.2842', 'agree:0.1068']"
+        ]
+    ],
+    "UKR+RUS+356":[
+        []
+    ]
+}

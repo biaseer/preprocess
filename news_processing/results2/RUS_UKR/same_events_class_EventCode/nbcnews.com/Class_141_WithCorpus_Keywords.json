@@ -1,0 +1,12 @@
+{
+    "POL+UKR+141":[
+        [
+            "20220625+../news_crawling/RUS_UKR/p_articles/nbcnews.com/Ukraines KyivPride teams up with Polands Warsaw Pride to march for peace.txt+eventbasecode141+eventcode141+avgtone0.5088597842835131+goldsteinscale0.175+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.003289473684210526+news_keywords+['kyiv:0.4639', 'lgbtq:0.4144', 'polands:0.4122', 'activism:0.3709', 'parade:0.3362', 'refugee:0.3254', 'pride:0.2899', 'unite:0.2891', 'equality:0.2873', 'forward:0.2247', 'live:0.2201', 'walk:0.211', 'space:0.2098', 'happen:0.2091', 'understand:0.1921', 'military:0.179', 'forbid:0.174', 'world:0.1719', 'main:0.1645', 'big:0.1635', 'population:0.1628', 'remind:0.162', 'warmly:0.1498', 'include:0.1473', 'bucha:0.1463', 'sort:0.1378', 'emson:0.1322', 'feature:0.1306', 'multipronged:0.1078', 'welcome:0.0822']+titles_keywords+['kyivpride:0.515', 'polands:0.455', 'peace:0.307', 'pride:0.2842', 'march:0.2145']"
+        ]
+    ],
+    "RUS+UKR+141":[
+        [
+            "20220622+../news_crawling/RUS_UKR/p_articles/nbcnews.com/Russian cyberspying targets 42 Ukraine allies Microsoft says.txt+eventbasecode141+eventcode141+avgtone0.4834437086092715+goldsteinscale0.175+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.023026315789473683+news_keywords+['cyberattacks:0.5321', 'russia:0.4748', 'nato:0.4529', 'espionage:0.4486', 'ukrainian:0.4344', 'propaganda:0.3813', 'moscows:0.3529', 'microsoft:0.3409', 'invade:0.316', 'government:0.3047', 'virusdid:0.249', 'strategic:0.2439', 'targeted:0.2415', 'data:0.2356', 'washington:0.2297', 'thenotpetya:0.212', 'ally:0.2086', 'report:0.1965', 'deflect:0.1878', 'coinciding:0.1793', 'assistance:0.1662', 'capability:0.1586', 'month:0.1365', 'note:0.1308', 'think:0.1235', 'conduit:0.1202', 'main:0.1199', 'increase:0.1027', 'percent:0.0932', 'woo:0.0359']+titles_keywords+['ukraine:0.398', 'allies:0.3126', 'microsoft:0.3097', 'cyberspying:0.3083', '42:0.2495']"
+        ]
+    ]
+}

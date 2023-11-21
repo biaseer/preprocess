@@ -1,0 +1,15 @@
+{
+    "CAN+UKR+100":[
+        [
+            "20220129+../news_crawling/RUS_UKR/p_articles/panow.com/This is our country local Ukrainians react to unfolding situation with Russia.txt+eventbasecode100+eventcode100+avgtone0.5010940919037199+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.6152', 'ukrainians:0.5241', 'country:0.3377', 'homeland:0.2764', 'unfold:0.2725', 'tension:0.2514', 'sergeniuk:0.2313', 'south:0.2204', 'situation:0.1887', 'concern:0.1841', 'heritage:0.1798', 'vasyl:0.1729', 'surround:0.1648', 'happen:0.1625', 'local:0.1502', 'watch:0.1439', 'room:0.139', 'living:0.1379', 'news:0.1345', 'react:0.1314', 'parish:0.1281', 'current:0.1261', 'continue:0.1245', 'choir:0.117', 'prominent:0.112', 'prince:0.1074', 'boast:0.0897', 'whats:0.0889', 'mount:0.0735', 'albert:0.0236']+titles_keywords+['ukrainians:0.5556', 'unfolding:0.2529', 'local:0.2412', 'situation:0.2307', 'react:0.2164']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/panow.com/Russia presses invasion to outskirts of Ukrainian capital.txt+eventbasecode100+eventcode100+avgtone0.46879021879021876+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5711', 'ukraines:0.4834', 'putin:0.4523', 'airstrikes:0.3893', 'zelenskyy:0.3407', 'invasion:0.3258', 'capital:0.3061', 'emergency:0.2785', 'threaten:0.2669', 'security:0.2367', 'subversive:0.233', 'tank:0.2288', 'enter:0.2128', 'meeting:0.2074', 'information:0.2048', 'austin:0.2012', 'secretary:0.195', 'order:0.1764', 'outskirt:0.1671', 'day:0.1656', 'rewrite:0.1574', 'blast:0.1521', 'familiar:0.1518', 'schedule:0.1438', 'lloyd:0.1333', 'mechanize:0.1322', 'ap:0.131', 'global:0.1185', 'state:0.1113', 'mile:0.0697']+titles_keywords+['invasion:0.3683', 'ukrainian:0.3678', 'capital:0.1887', 'outskirts:0.1837', 'presses:0.0927']"
+        ],
+        [
+            "20220529+../news_crawling/RUS_UKR/p_articles/panow.com/Russians storm city shell east Ukraine as Zelenskyy visits.txt+eventbasecode100+eventcode100+avgtone0.4733924611973393+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['donetsk:0.4902', 'moscows:0.4822', 'ukraine:0.4725', 'pokrovsk:0.4238', 'russians:0.4004', 'conquer:0.3317', 'zelenskyy:0.3262', 'sievierodonetsk:0.2765', 'storm:0.2758', 'donbas:0.228', 'region:0.2267', 'strategic:0.2245', 'industrial:0.1962', 'shelling:0.1945', 'river:0.1922', 'engage:0.1879', 'fighting:0.1823', 'civilian:0.1722', 'operate:0.1681', 'epicenter:0.1632', 'kilometer:0.1615', 'neighbor:0.1541', 'span:0.1487', 'report:0.1487', 'visit:0.1463', 'escape:0.1392', 'rush:0.1179', 'important:0.1092', 'say:0.081', 'sunday:0.0628']+titles_keywords+['zelenskyy:0.5424', 'ukraine:0.3669', 'storm:0.1795', 'shell:0.1612', 'visits:0.1203']"
+        ]
+    ]
+}

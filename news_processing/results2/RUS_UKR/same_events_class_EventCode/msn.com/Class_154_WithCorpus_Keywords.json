@@ -1,0 +1,36 @@
+{
+    "QAT+RUS+154":[
+        []
+    ],
+    "RUS+UKR+154":[
+        [
+            "20210825+../news_crawling/RUS_UKR/p_articles/msn.com/Ukraine Putin orders another 137000 Russia troops amid reports of heavy casualties.txt+eventbasecode154+eventcode154+avgtone0.4831460674157303+goldsteinscale0.13999999999999999+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraines:0.4758', 'putin:0.4652', 'moscow:0.4319', 'troop:0.4211', 'militarys:0.4129', 'conscript:0.3775', 'casualties:0.3377', 'war:0.3332', 'invasion:0.2854', 'operation:0.2434', 'increase:0.2431', 'strategic:0.2322', 'deferment:0.2018', 'order:0.1889', 'headcount:0.1863', 'month:0.1557', 'publish:0.1521', 'age:0.14', 'big:0.1363', 'total:0.1359', 'active:0.1285', 'official:0.1203', 'respectively:0.1181', 'independent:0.1101', 'explain:0.105', 'student:0.1038', 'arm:0.102', 'previous:0.0935', 'non:0.0829', 'set:0.0384']+titles_keywords+['ukraine:0.3872', '137000:0.3651', 'casualties:0.271', 'orders:0.1994', 'heavy:0.0988']"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "20220830+../news_crawling/RUS_UKR/p_articles/msn.com/Russia locking conscripts in hot rooms without water until they sign up to fight in.txt+eventbasecode154+eventcode154+avgtone0.484375+goldsteinscale0.13999999999999999+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.003289473684210526+news_keywords+['conscripts:0.5052', 'kremlin:0.4993', 'ukraine:0.4878', 'moscow:0.43', 'battalion:0.4202', 'war:0.3855', 'deploy:0.3738', 'pravda:0.3721', 'frontline:0.3595', 'invasion:0.3292', 'volunteer:0.2921', 'tactic:0.2668', 'pretext:0.2271', 'shelter:0.2233', 'report:0.1926', 'telegraph:0.19', 'leave:0.1861', 'order:0.1762', 'bonus:0.1714', 'month:0.1706', 'eager:0.1645', 'signing:0.1527', 'page:0.1309', 'guys:0.1276', 'negative:0.1137', 'vary:0.1081', 'thousand:0.1043', 'st:0.1037', 'uptake:0.0772', 'unless:0.0625']+titles_keywords+['conscripts:0.5286', 'russia:0.4162', 'rooms:0.2472', 'locking:0.2247', 'hot:0.1586']"
+        ]
+    ],
+    "UKR+RUS+154":[
+        [],
+        [],
+        []
+    ],
+    "WST+RUS+154":[
+        [],
+        [],
+        [
+            "20220629+../news_crawling/RUS_UKR/p_articles/msn.com/NATO to boost high alert troops to over 300000.txt+eventbasecode154+eventcode154+avgtone0.5061224489795919+goldsteinscale0.13999999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['natos:0.6057', 'readiness:0.3687', 'annexation:0.345', 'baltics:0.3372', 'troop:0.3119', 'moscow:0.2979', 'tactical:0.2976', 'bolster:0.2477', 'defend:0.2399', 'overhaul:0.2375', 'battle:0.2206', 'ally:0.2172', 'emergency:0.2144', 'deterrence:0.2082', 'flank:0.187', 'command:0.1827', 'fallout:0.1728', 'forward:0.1712', 'eastern:0.1691', 'addition:0.1659', 'alert:0.1631', 'transformative:0.1532', 'summit:0.1414', 'cold:0.1263', 'week:0.1166', 'stoltenberg:0.095', 'large:0.093', 'include:0.081', 'say:0.0723', 'likely:0.0214']+titles_keywords+['nato:0.4062', '300000:0.2786', 'high:0.2016', 'alert:0.1723', 'boost:0.1607']"
+        ]
+    ]
+}

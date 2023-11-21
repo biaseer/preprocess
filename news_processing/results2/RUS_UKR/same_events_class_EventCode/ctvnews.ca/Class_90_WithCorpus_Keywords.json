@@ -1,0 +1,22 @@
+{
+    "AUS+RUS+90":[
+        [
+            "20220818+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Putin revives Stalinera Mother Heroine award for women with 10 children.txt+eventbasecode90+eventcode90+avgtone0.4935275080906149+goldsteinscale0.4+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['putin:0.4575', 'revolution:0.3873', 'newspaper:0.3422', 'recession:0.3355', 'topic:0.3193', 'trending:0.3159', 'pandemic:0.3021', 'data:0.3019', 'announcement:0.2994', 'morning:0.2704', 'world:0.2703', 'spacex:0.2468', 'murder:0.2411', 'celebrate:0.241', 'week:0.2398', 'crackdown:0.2263', 'increase:0.2195', 'year:0.2121', 'canadas:0.2107', 'gastronomic:0.2085', 'head:0.208', 'rosstat:0.2029', 'according:0.2019', 'natuna:0.2006', 'function:0.1983', 'like:0.1923', 'combine:0.1845', 'big:0.174', 'plunge:0.1685', 'sluggish:0.1312']+titles_keywords+['stalinera:0.4857', 'putin:0.4371', 'award:0.2812', 'women:0.23', 'revives:0.1042']"
+        ]
+    ],
+    "RUS+UKR+90":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Russian families turn to Ukrainian hotline in desperate search for lost soldiers.txt+eventbasecode90+eventcode90+avgtone0.48924731182795705+goldsteinscale0.4+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['ukraine:0.532', 'government:0.3342', 'journalist:0.3253', 'bloodshed:0.3024', 'pandemic:0.2909', 'border:0.2868', 'hotline:0.2858', 'information:0.2785', 'telegram:0.2683', 'capital:0.2602', 'civilized:0.2476', 'behead:0.2472', 'report:0.2466', 'turn:0.2439', 'stem:0.2346', 'world:0.2329', 'trigger:0.2208', 'excerpt:0.2157', 'podium:0.2102', 'long:0.2096', 'extend:0.209', 'begin:0.2087', 'traditional:0.1896', 'mothers:0.1846', 'allegation:0.1829', 'soon:0.1685', 'missing:0.1667', 'murdaugh:0.1617', 'export:0.1443', 'galvanize:0.1326']+titles_keywords+['ukrainian:0.3798', 'soldiers:0.3732', 'hotline:0.3585', 'desperate:0.2628', 'search:0.1804']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/The search for survivors in Mariupol theatre blown apart by airstrike.txt+eventbasecode90+eventcode90+avgtone0.46755921730175076+goldsteinscale0.4+nummentions0.1781567489114659+numarticles0.1787527193618564+numsources0.13157894736842105+news_keywords+['putin:0.446', 'revolution:0.4352', 'kyiv:0.4091', 'airstrikes:0.3831', 'pandemic:0.3598', 'separatists:0.3292', 'office:0.3114', 'information:0.3005', 'peace:0.3005', 'subject:0.2973', 'cybercrime:0.2851', 'shrapnel:0.2838', 'report:0.2828', 'spacex:0.266', 'behead:0.2573', 'blogger:0.2544', 'term:0.2458', 'troop:0.2412', 'gastronomic:0.2349', 'anticipate:0.2337', 'columned:0.233', 'thursday:0.2263', 'national:0.2165', 'ap:0.2077', 'reminiscent:0.207', 'big:0.1931', 'murdaugh:0.1899', 'hundreds:0.1892', 'distinguish:0.1782', 'true:0.1527']+titles_keywords+['airstrike:0.549', 'survivors:0.4768', 'theatre:0.3574', 'blown:0.2732', 'mariupol:0.2427']"
+        ]
+    ],
+    "USA+UKR+90":[
+        [
+            "20220622+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Microsoft Russian cyber spying targets 42 Ukraine allies.txt+eventbasecode90+eventcode90+avgtone0.47790697674418603+goldsteinscale0.4+nummentions0.07039187227866474+numarticles0.07106598984771574+numsources0.08223684210526316+news_keywords+['espionage:0.4449', 'cyberattacks:0.4446', 'microsoft:0.3886', 'propaganda:0.3708', 'disrupt:0.358', 'kyiv:0.3384', 'government:0.328', 'pandemic:0.324', 'newspaper:0.3085', 'data:0.3039', 'report:0.2786', 'stem:0.2771', 'write:0.2692', 'example:0.2657', 'stab:0.2638', 'trudeau:0.2599', 'morning:0.2521', 'coinciding:0.2454', 'world:0.2337', 'alex:0.2289', 'label:0.227', 'week:0.2237', 'cognitive:0.2144', 'allegation:0.2089', 'assistance:0.1993', 'significant:0.1964', 'end:0.1942', 'murdaugh:0.1925', 'past:0.1759', 'heater:0.128']+titles_keywords+['ukraine:0.4116', 'microsoft:0.3753', 'spying:0.3628', 'allies:0.3383', '42:0.2159']"
+        ]
+    ]
+}

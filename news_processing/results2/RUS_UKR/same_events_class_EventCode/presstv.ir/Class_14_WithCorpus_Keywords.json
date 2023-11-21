@@ -1,0 +1,13 @@
+{
+    "RUS+RUS+14":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/presstv.ir/Putin Russia will respond if NATO bolsters military infrastructure in Sweden Finland.txt+eventbasecode14+eventcode14+avgtone0.49743589743589745+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['natos:0.5715', 'russia:0.3986', 'treaty:0.3429', 'dmitry:0.3269', 'deploy:0.2462', 'eastwardexpansion:0.2293', 'expansion:0.2174', 'concern:0.1834', 'warn:0.177', 'president:0.1769', 'prolong:0.1727', 'bolster:0.1708', 'ally:0.1683', 'respond:0.1618', 'organization:0.1564', 'cite:0.1544', 'shortly:0.1516', 'follow:0.1447', 'capital:0.1429', 'sayswashington:0.1362', 'include:0.1268', 'state:0.119', 'sophisticated:0.1133', 'step:0.113', 'draw:0.1073', 'array:0.1068', 'make:0.1064', 'mistake:0.0898', 'possible:0.0803', 'csto:0.0787']+titles_keywords+['nato:0.4868', 'putin:0.444', 'finland:0.3392', 'respond:0.1951', 'bolsters:0.1824']"
+        ]
+    ],
+    "RUS+UKR+14":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/presstv.ir/US officials accuse Russia of trying to create pretext for invasion.txt+eventbasecode14+eventcode14+avgtone0.448126801152738+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4325', 'propaganda:0.405', 'ukraine:0.4012', 'pretext:0.3598', 'militarism:0.3316', 'wmds:0.3277', 'invasion:0.314', 'cia:0.2727', 'provocations:0.27', 'flag:0.2417', 'zakharova:0.2335', 'accuse:0.2157', 'complicit:0.1998', 'falsely:0.1848', 'protestors:0.1842', 'ambiguity:0.1694', 'soon:0.1478', 'plan:0.1452', 'tonkin:0.1397', 'source:0.1379', 'create:0.1316', 'stage:0.1312', 'order:0.1223', 'statement:0.1174', 'pull:0.1128', 'familiar:0.0997', 'sink:0.0945', 'long:0.0859', 'arm:0.0834', 'official:0.0688']+titles_keywords+['pretext:0.3792', 'invasion:0.3204', 'russia:0.3139', 'accuse:0.2536', 'trying:0.1152']"
+        ],
+        []
+    ]
+}

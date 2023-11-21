@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+141":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/dw.com/Are bans against Russian arts the right target.txt+eventbasecode141+eventcode141+avgtone0.48395445134575565+goldsteinscale0.175+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['putin:0.4534', 'moscow:0.4048', 'propaganda:0.3696', 'boycott:0.3633', 'ban:0.3472', 'repression:0.3422', 'art:0.278', 'radiodeutschlandfunk:0.2718', 'allow:0.265', 'war:0.2556', 'rightsandthe:0.2516', 'argument:0.2459', 'anti:0.2395', 'affect:0.2369', 'condemningputin:0.2334', 'standwithukraine:0.225', 'write:0.2167', 'philharmonic:0.2159', 'paavo:0.2093', 'inadmissible:0.2086', 'employment:0.1991', 'report:0.1843', 'know:0.1553', 'table:0.151', 'end:0.1471', 'poison:0.1432', 'extend:0.1254', 'population:0.1083', 'global:0.1005', 'big:0.0915']+titles_keywords+['bans:0.3851', 'arts:0.3562', 'russian:0.3315', 'right:0.1076', 'target:0.0863']"
+        ]
+    ],
+    "UKR+RUS+141":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/dw.com/Worldwide protests against assault on Ukraine.txt+eventbasecode141+eventcode141+avgtone0.44776119402985054+goldsteinscale0.175+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.023026315789473683+news_keywords+['ukraine:0.459', 'protesters:0.438', 'russia:0.3887', 'protest:0.3671', 'assault:0.3074', 'police:0.3004', 'arrest:0.2893', 'streets:0.2666', 'people:0.2479', 'demonstrate:0.198', 'worldwide:0.1851', 'world:0.1579', 'presence:0.1176', 'meet:0.0892', 'close:0.0251', 'heavy:-0.0116']+titles_keywords+['protests:0.4735', 'ukraine:0.4685', 'assault:0.3053', 'worldwide:0.1914']"
+        ]
+    ]
+}

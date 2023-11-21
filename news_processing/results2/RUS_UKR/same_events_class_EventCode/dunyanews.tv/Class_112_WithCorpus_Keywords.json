@@ -1,0 +1,20 @@
+{
+    "EUR+RUS+112":[
+        [
+            "20220103+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Biden tells Ukraine leader US will respond decisively if Russia invades.txt+eventbasecode112+eventcode112+avgtone0.49070945945945943+goldsteinscale0.4+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.05263157894736842+news_keywords+['diplomacy:0.4561', 'putin:0.4267', 'nato:0.4094', 'ukraines:0.3916', 'invades:0.3619', 'biden:0.3375', 'standoff:0.3017', 'erupt:0.2694', 'engage:0.2616', 'sanction:0.224', 'border:0.2235', 'upcoming:0.2145', 'psaki:0.2122', 'relationship:0.2071', 'warn:0.2048', 'separatist:0.2044', 'emphasize:0.2037', 'agreement:0.1951', 'anonymity:0.1791', 'secretary:0.1668', 'substantive:0.1659', 'discus:0.1607', 'tweet:0.1563', 'state:0.1519', 'volodymyr:0.1403', 'depth:0.1289', 'include:0.1267', 'end:0.1225', 'day:0.1133', 'make:0.0885']+titles_keywords+['biden:0.3524', 'ukraine:0.2844', 'invades:0.2531', 'respond:0.2213', 'decisively:0.2064']"
+        ],
+        [
+            "20220830+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/How could Europe cap surging energy prices.txt+eventbasecode112+eventcode112+avgtone0.49+goldsteinscale0.4+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.006578947368421052+news_keywords+['renewables:0.3476', 'policymakers:0.313', 'subsidise:0.3027', 'gas:0.3003', 'eu:0.2924', 'surge:0.2728', 'power:0.2716', 'russias:0.2432', 'reduce:0.2114', 'capping:0.1985', 'gazprom:0.1939', 'restrict:0.1834', 'profit:0.1721', 'blocs:0.1706', 'scheer:0.1594', 'example:0.1538', 'accuse:0.1436', 'solution:0.1299', 'winter:0.1279', 'soar:0.1247', 'household:0.1071', 'generate:0.0992', 'set:0.0919', 'benchmark:0.0904', 'level:0.0813', 'prepare:0.0721', 'mwh:0.07', 'mario:0.0692', 'big:0.0521', 'agree:0.0334']+titles_keywords+['europe:0.3234', 'energy:0.21', 'surging:0.1974', 'cap:0.1799', 'prices:0.1688']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220821+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Russia accuses Kyiv of poisoning some of its soldiers in Ukraine.txt+eventbasecode112+eventcode112+avgtone0.46851385390428213+goldsteinscale0.4+nummentions0.031567489114658925+numarticles0.03154459753444525+numsources0.046052631578947366+news_keywords+['ukraine:0.5102', 'putin:0.3958', 'poisoning:0.3808', 'neurotoxin:0.3385', 'terrorism:0.3338', 'botulism:0.3203', 'gerashchenko:0.2917', 'invasion:0.2773', 'unprovoked:0.2747', 'investigation:0.2745', 'reuters:0.2693', 'chemical:0.2638', 'demilitarize:0.2575', 'volodymyr:0.2378', 'operation:0.228', 'allegation:0.222', 'sanction:0.2169', 'telegram:0.1883', 'department:0.1827', 'ingest:0.1815', 'fact:0.1718', 'serviceman:0.1671', 'ration:0.1563', 'result:0.1536', 'meat:0.1525', 'prepare:0.1385', 'additional:0.1259', 'immediately:0.1255', 'tests:0.1209', 'say:0.084']+titles_keywords+['kyiv:0.5465', 'russia:0.317', 'poisoning:0.25', 'accuses:0.2401', 'soldiers:0.2215']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Putin calls on Ukraine army to remove leadership in Kyiv.txt+eventbasecode112+eventcode112+avgtone0.4911660777385159+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5047', 'putin:0.4939', 'ukraines:0.4776', 'russian:0.3954', 'invade:0.3614', 'nationalist:0.3396', 'provoke:0.3164', 'troop:0.2655', 'overthrow:0.2612', 'zelensky:0.2387', 'adviser:0.2329', 'prepare:0.2276', 'know:0.2164', 'pretext:0.2149', 'want:0.1911', 'addressing:0.1902', 'afp:0.1816', 'televise:0.1776', 'fear:0.1742', 'people:0.1632', 'thursday:0.1596', 'lead:0.1543', 'fact:0.1444', 'cape:0.1387', 'blame:0.1309', 'like:0.1248', 'successfully:0.1173', 'primarily:0.11', 'official:0.1095', 'launcher:0.0626']+titles_keywords+['putin:0.404', 'kyiv:0.4026', 'remove:0.203', 'army:0.1917', 'calls:0.0723']"
+        ]
+    ]
+}

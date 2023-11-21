@@ -1,0 +1,17 @@
+{
+    "BLR+RUS+43":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/prokerala.com/Russia Belarus to deepen integration amid Western sanctions By IANS Published on Wed Apr 13.txt+eventbasecode43+eventcode43+avgtone0.4824561403508772+goldsteinscale0.64+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['belarus:0.5628', 'putin:0.4709', 'economy:0.2748', 'wto:0.2613', 'border:0.258', 'demchenko:0.2371', 'vostochny:0.2037', 'peace:0.2019', 'communique:0.1997', 'sanction:0.1987', 'negotiating:0.1947', 'cite:0.1821', 'news:0.1806', 'isolate:0.1726', 'integration:0.1485', 'cosmodrome:0.1374', 'ukrinform:0.1269', 'forecast:0.1264', 'position:0.1221', 'continue:0.1212', 'ist:0.118', 'current:0.1174', 'strengthen:0.1119', 'trade:0.1023', 'say:0.1', 'jointly:0.085', 'measure:0.0846', 'additional:0.0828', 'difference:0.0783', 'percentage:0.0635']+titles_keywords+['belarus:0.5058', 'sanctions:0.462', 'integration:0.2417', 'deepen:0.2002', 'ist:0.1488']"
+        ]
+    ],
+    "BLR+UKR+43":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/prokerala.com/Ukraine imposes state of emergency over tensions with Russia By IANS Published on Thu Feb.txt+eventbasecode43+eventcode43+avgtone0.46875+goldsteinscale0.64+nummentions0.045718432510885344+numarticles0.046410442349528645+numsources0.03618421052631579+news_keywords+['ukraine:0.4978', 'emergency:0.3332', 'treaty:0.2738', 'curfew:0.2737', 'border:0.2578', 'security:0.2494', 'law:0.2472', 'protest:0.2443', 'troop:0.2427', 'state:0.2383', 'tension:0.2296', 'attack:0.2293', 'destabilise:0.2248', 'ban:0.2024', 'introduction:0.1919', 'news:0.1897', 'report:0.1816', 'constitute:0.1766', 'ist:0.174', 'live:0.1555', 'plane:0.1496', 'text:0.1453', 'residence:0.1375', 'increase:0.119', 'photograph:0.1127', 'thu:0.111', 'feb:0.1097', 'published:0.094', 'right:0.0881', 'near:0.0862']+titles_keywords+['ukraine:0.4494', 'emergency:0.2816', 'tensions:0.2175', '2022:0.1743', 'published:0.0954']"
+        ]
+    ],
+    "DEU+UKR+43":[
+        [
+            "20220627+../news_crawling/RUS_UKR/p_articles/prokerala.com/Zelensky to address G7 Summit By IANS Published on Mon Jun 27 2022 1018 IST.txt+eventbasecode43+eventcode43+avgtone0.4865319865319865+goldsteinscale0.64+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.009868421052631578+news_keywords+['kiev:0.5114', 'ukrainians:0.4644', 'putin:0.4506', 'nato:0.4486', 'zelensky:0.4374', 'meeting:0.2742', 'war:0.2523', 'volodymyr:0.244', 'agenda:0.2191', 'severodonetsk:0.1849', 'summit:0.1802', 'separatist:0.1786', 'promise:0.1739', 'ist:0.1679', 'industrial:0.1598', 'strike:0.1524', 'report:0.1481', 'scholz:0.1372', 'say:0.1311', 'km:0.1275', 'right:0.1235', 'barrage:0.1228', 'counterpart:0.1204', 'address:0.1191', 'june:0.1162', 'control:0.0996', 'donbas:0.0928', 'bbc:0.09', 'arm:0.072', 'faster:0.0536']+titles_keywords+['zelensky:0.5561', '2022:0.285', 'summit:0.2473', 'ist:0.2299', 'published:0.1129']"
+        ]
+    ]
+}

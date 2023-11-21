@@ -1,0 +1,25 @@
+{
+    "RUS+RUS+10":[
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/Russian journalist detained charged over war criticism.txt+eventbasecode10+eventcode10+avgtone0.4573459715639812+goldsteinscale0.5+nummentions0.030841799709724237+numarticles0.03154459753444525+numsources0.02631578947368421+news_keywords+['kremlin:0.4992', 'propaganda:0.444', 'journalist:0.419', 'ovsyannikova:0.4184', 'ukraine:0.39', 'moscows:0.3812', 'headline:0.3406', 'antiwar:0.334', 'refugees:0.2994', 'ruble:0.2758', 'detain:0.2748', 'freedom:0.2699', 'read:0.2603', 'telegram:0.2344', 'scrutiny:0.202', 'cell:0.1916', 'statement:0.1864', 'channel:0.1787', 'case:0.1755', 'legal:0.1755', 'medal:0.1691', 'independent:0.1645', 'gazeta:0.1637', 'stop:0.1626', 'group:0.1475', 'night:0.1411', 'new:0.1169', 'million:0.1163', 'shortly:0.0962', 'decade:0.091']+titles_keywords+['russian:0.3409', 'journalist:0.3172', 'detained:0.3158', 'war:0.2132', 'criticism:0.163']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/Is the Russian economy headed for collapse.txt+eventbasecode10+eventcode10+avgtone0.49251870324189523+goldsteinscale0.5+nummentions0.04898403483309144+numarticles0.049673676577229875+numsources0.13486842105263158+news_keywords+['putin:0.5455', 'russias:0.464', 'ruble:0.4253', 'crimean:0.394', 'gdp:0.3498', 'annexation:0.293', 'war:0.2508', 'hegemonic:0.2483', 'plummet:0.2202', 'commodity:0.2177', 'crisis:0.2153', 'table:0.2065', 'capital:0.2059', 'competitiveness:0.2057', 'stock:0.2037', 'establish:0.1911', 'world:0.1906', 'read:0.1754', 'export:0.1505', 'bad:0.1428', 'head:0.1412', 'measure:0.1353', 'oncoming:0.132', 'satellite:0.1307', 'according:0.1258', 'wipe:0.1239', 'th:0.1158', 'tenfold:0.0982', 'outlook:0.0878', 'likely:0.031']+titles_keywords+['economy:0.3664', 'russian:0.3568', 'collapse:0.2653', 'headed:0.1027']"
+        ],
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/How fairy tales shape fighting spirit Ukraines children hear bedtime stories of underdog heroes while.txt+eventbasecode10+eventcode10+avgtone0.503586800573888+goldsteinscale0.5+nummentions0.017779390420899856+numarticles0.01849166062364032+numsources0.029605263157894735+news_keywords+['narratives:0.426', 'ukrainian:0.3751', 'dichotomy:0.2735', 'portray:0.2711', 'leadership:0.2694', 'fairy:0.2661', 'troop:0.2627', 'repertoire:0.2613', 'read:0.2483', 'transform:0.2397', 'prevail:0.2329', 'traditional:0.2307', 'contrast:0.2191', 'childrens:0.21', 'burka:0.2089', 'volodymyr:0.2023', 'creative:0.1873', 'evil:0.1813', 'recipe:0.1764', 'prediction:0.1728', 'script:0.1706', 'navigate:0.1498', 'know:0.148', 'vulnerable:0.1427', 'like:0.1302', 'west:0.1097', 'decade:0.0778', 'doesnt:0.0715', 'define:0.0664', 'unlikely:0.056']+titles_keywords+['tales:0.4042', 'russias:0.3489', 'fighting:0.3152', 'children:0.3038', 'fairy:0.272']"
+        ]
+    ],
+    "RUS+USA+10":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/A battle for hearts and minds Inside Russias war propaganda bubble.txt+eventbasecode10+eventcode10+avgtone0.4769470404984424+goldsteinscale0.5+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['kremlin:0.5516', 'propaganda:0.4768', 'ukrainian:0.4558', 'russias:0.4504', 'czar:0.4371', 'rossiya:0.4211', 'dmitry:0.412', 'correspondent:0.3478', 'revolution:0.3095', 'pavlovsky:0.3045', 'trump:0.2934', 'strategist:0.2588', 'rt:0.2389', 'read:0.2334', 'telegram:0.2327', 'know:0.2253', 'battle:0.2135', 'emphasis:0.2072', 'flee:0.1987', 'sanction:0.1801', 'radio:0.1777', 'nonexistent:0.1739', 'respectively:0.1677', 'photograph:0.1544', 'end:0.1527', 'pull:0.1376', 'surround:0.1322', 'state:0.1251', 'shortly:0.1196', 'reposted:0.0908']+titles_keywords+['propaganda:0.627', 'russias:0.4275', 'bubble:0.2905', 'battle:0.2355', 'minds:0.204']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/Biden Russia war a genocide Putin trying to wipe out Ukraine.txt+eventbasecode10+eventcode10+avgtone0.47071583514099785+goldsteinscale0.5+nummentions0.3454281567489115+numarticles0.34590282813633066+numsources0.3782894736842105+news_keywords+['genocide:0.4784', 'putin:0.4777', 'treaty:0.3674', 'moscow:0.3462', 'biden:0.3442', 'intervene:0.2854', 'term:0.2668', 'constitute:0.2596', 'accuse:0.2578', 'ethnical:0.2453', 'controversy:0.245', 'administration:0.2399', 'consequence:0.2199', 'read:0.2193', 'evidence:0.2192', 'say:0.2105', 'block:0.203', 'evil:0.202', 'continue:0.1725', 'bloody:0.1604', 'articulate:0.158', 'clearer:0.1561', 'volodymyr:0.144', 'day:0.134', 'bucha:0.125', 'calling:0.1131', 'shortly:0.1109', 'direct:0.1102', 'far:0.0925', 'price:0.0579']+titles_keywords+['putin:0.6035', 'biden:0.5088', 'genocide:0.4684', 'war:0.4202', 'trying:0.17']"
+        ]
+    ]
+}

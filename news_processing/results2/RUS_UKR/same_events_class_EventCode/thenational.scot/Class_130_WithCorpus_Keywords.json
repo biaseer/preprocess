@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+130":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/thenational.scot/Boris Johnson announcement on Ukraine today how to watch.txt+eventbasecode130+eventcode130+avgtone0.4778325123152709+goldsteinscale0.27999999999999997+nummentions0.09216255442670537+numarticles0.09282088469905729+numsources0.13157894736842105+news_keywords+['ukraine:0.474', 'putin:0.4655', 'borisjohnson:0.35', 'debate:0.3349', 'trudeau:0.297', 'border:0.2584', 'downing:0.2203', 'visa:0.2194', 'sanction:0.2192', 'forth:0.2119', 'minpres:0.2084', 'privilege:0.206', 'announcement:0.1995', 'engage:0.1941', 'troll:0.1867', 'risk:0.1862', 'street:0.1805', 'alongside:0.1706', 'flee:0.1674', 'misuse:0.1538', 'right:0.1394', 'arent:0.1367', 'rutte:0.1218', 'story:0.1211', 'weve:0.0982', 'big:0.0973', 'vile:0.097', 'thousand:0.0854', 'today:0.0671', 'welcome:0.0648']+titles_keywords+['watch:0.3749', 'ukraine:0.3668', 'boris:0.3526', 'announcement:0.3016', 'johnson:0.2417']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/thenational.scot/Tensions between Russia and Nato will affect postindy plans for Trident.txt+eventbasecode130+eventcode130+avgtone0.4705128205128205+goldsteinscale0.27999999999999997+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4223', 'scotlands:0.3756', 'tensions:0.3689', 'imperialistic:0.3455', 'independence:0.3318', 'gorbachev:0.3287', 'westminster:0.3192', 'nuclear:0.3016', 'nursultan:0.2901', 'government:0.2888', 'reunification:0.2876', 'consultancy:0.2404', 'clyde:0.2228', 'skirmish:0.2176', 'informed:0.2064', 'foreseeable:0.2057', 'decide:0.2038', 'refer:0.2023', 'write:0.1996', 'instead:0.1946', 'misuse:0.1852', 'deteriorate:0.181', 'space:0.1804', 'term:0.1703', 'interference:0.1623', 'weve:0.1605', 'troll:0.1515', 'include:0.1484', 'withdraw:0.1396', 'exactly:0.1294']+titles_keywords+['nato:0.4238', 'trident:0.3594', 'tensions:0.2992', 'plans:0.1577', 'postindy:0.0744']"
+        ]
+    ]
+}

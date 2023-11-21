@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+71":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/thestar.com.my/EU exploring ways to use Russian oligarchs frozen assets to rebuild Ukraine.txt+eventbasecode71+eventcode71+avgtone0.49416342412451364+goldsteinscale0.8699999999999999+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4892', 'oligarch:0.3208', 'reform:0.3032', 'euro:0.2581', 'corruption:0.2457', 'want:0.2383', 'accession:0.2319', 'union:0.2211', 'rebuild:0.2127', 'finance:0.2106', 'war:0.1901', 'look:0.1602', 'file:0.1594', 'news:0.14', 'long:0.1387', 'make:0.1372', 'port:0.133', 'behaves:0.1182', 'fend:0.1181', 'der:0.1174', 'thursday:0.1166', 'coupling:0.1165', 'price:0.1062', 'zdf:0.1036', 'area:0.0848', 'term:0.0804', 'certain:0.076', 'intensively:0.062', 'set:0.0581', 'frozen:0.0433']+titles_keywords+['ukraine:0.4198', 'oligarchs:0.4043', 'rebuild:0.2292', 'assets:0.198', 'frozen:0.1368']"
+        ]
+    ],
+    "EUR+RUS+71":[
+        [
+            "20220821+../news_crawling/RUS_UKR/p_articles/thestar.com.my/FactboxWho is Alexander Dugin Russian nationalist whose daughter died in car bomb attack.txt+eventbasecode71+eventcode71+avgtone0.49121265377855894+goldsteinscale0.8699999999999999+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['putin:0.5015', 'kremlin:0.4962', 'bolshevik:0.4935', 'geopolitics:0.4225', 'tsargrad:0.4207', 'ukraine:0.4064', 'propaganda:0.3667', 'eurasian:0.3482', 'ru:0.3471', 'dugin:0.332', 'separatist:0.3024', 'politologist:0.2851', 'alexander:0.2616', 'establish:0.2324', 'anti:0.216', 'complicit:0.2125', 'intellectual:0.2004', 'reutersfile:0.1918', 'write:0.1704', 'donbas:0.1647', 'behalf:0.1643', 'factboxwho:0.1593', 'army:0.1502', 'critical:0.1466', 'future:0.1379', 'centre:0.1282', 'attract:0.1234', 'long:0.1224', 'include:0.1079', 'true:0.104']+titles_keywords+['russian:0.3919', 'bomb:0.3283', 'dugin:0.3136', 'factboxwho:0.2943', 'died:0.2911']"
+        ]
+    ]
+}

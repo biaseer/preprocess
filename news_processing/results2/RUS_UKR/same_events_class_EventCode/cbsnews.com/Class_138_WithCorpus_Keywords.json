@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+138":[
+        [
+            "20220430+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Russians are several days behind their goal in Ukraine Pentagon assesses.txt+eventbasecode138+eventcode138+avgtone0.48837209302325585+goldsteinscale0.15+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4479', 'nato:0.4102', 'battalion:0.4043', 'invade:0.3679', 'pentagon:0.3482', 'frontlines:0.3467', 'howitzer:0.286', 'operation:0.2593', 'advance:0.2537', 'training:0.23', 'push:0.2114', 'eastern:0.2074', 'know:0.1996', 'long:0.1947', 'fight:0.1891', 'donbas:0.1872', 'friday:0.186', 'supply:0.1772', 'track:0.1675', 'terrain:0.1625', 'wary:0.1569', 'effectiveness:0.1565', 'receive:0.1551', 'arm:0.1388', 'secretary:0.1374', 'numeric:0.135', 'focus:0.1342', 'uneven:0.1134', 'new:0.1114', 'like:0.1045']+titles_keywords+['russians:0.3653', 'pentagon:0.3593', 'days:0.245', 'goal:0.1837', 'assesses:0.0868']"
+        ]
+    ],
+    "USA+UKR+138":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Kyivs mayor on potential for chemical weapon attack Russia doesnt have rules.txt+eventbasecode138+eventcode138+avgtone0.4640625+goldsteinscale0.15+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5415', 'russia:0.3631', 'war:0.3111', 'warn:0.2475', 'unprovoked:0.2459', 'chemical:0.2437', 'pathogen:0.2198', 'escalate:0.2156', 'mayor:0.2144', 'psaki:0.2067', 'ploy:0.1991', 'klitschko:0.1934', 'concern:0.182', 'evidence:0.1774', 'twitter:0.1685', 'civilian:0.1648', 'goal:0.1556', 'false:0.1556', 'reptiles:0.154', 'house:0.1533', 'justify:0.1511', 'organize:0.1366', 'norah:0.1233', 'want:0.1217', 'monday:0.1136', 'possible:0.1068', 'editor:0.1054', 'yilek:0.1029', 'population:0.0632', 'doesnt:0.0529']+titles_keywords+['kyivs:0.4625', 'mayor:0.277', 'rules:0.2176', 'attack:0.2158', 'chemical:0.2099']"
+        ]
+    ]
+}

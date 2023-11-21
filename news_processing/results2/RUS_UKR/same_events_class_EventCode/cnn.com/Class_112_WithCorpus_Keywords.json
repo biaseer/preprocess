@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+112":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/cnn.com/August 11 2022 RussiaUkraine news.txt+eventbasecode112+eventcode112+avgtone0.47167325428194995+goldsteinscale0.4+nummentions0.008345428156748911+numarticles0.009064539521392313+numsources0.019736842105263157+news_keywords+['nuclear:0.4762', 'natoformalized:0.3966', 'kyiv:0.3902', 'russias:0.3591', 'demilitarize:0.3492', 'war:0.3244', 'iaea:0.3188', 'concern:0.2873', 'urgent:0.2759', 'warn:0.2673', 'economy:0.2614', 'nebenzia:0.2543', 'cite:0.2304', 'facility:0.2201', 'news:0.2163', 'consequence:0.2149', 'extend:0.1981', 'withdraw:0.1802', 'kilometer:0.1668', 'soon:0.1641', 'fertilizer:0.1585', 'direction:0.141', 'unwilling:0.1401', 'state:0.1314', 'agree:0.1269', 'whichis:0.1167', 'export:0.1122', 'heather:0.0889', 'set:0.075', 'welcome:0.0692']+titles_keywords+['russiaukraine:0.5632', '2022:0.4763', 'news:0.3419', 'august:0.2966', '11:0.212']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220729+../news_crawling/RUS_UKR/p_articles/cnn.com/Ukrainian President Volodymyr Zelensky says prison attack deliberate war crime by the Russians as Russia.txt+eventbasecode112+eventcode112+avgtone0.444343065693431+goldsteinscale0.4+nummentions0.04281567489114659+numarticles0.03625815808556925+numsources0.12171052631578948+news_keywords+['kyiv:0.4559', 'terrorism:0.3839', 'russians:0.3602', 'prisoner:0.3469', 'occupy:0.328', 'regiment:0.3122', 'provocation:0.2947', 'investigation:0.2793', 'zelensky:0.2744', 'separatist:0.2652', 'kill:0.265', 'infrastructure:0.2478', 'know:0.2403', 'missile:0.2157', 'news:0.2132', 'read:0.2076', 'pows:0.2066', 'coordinate:0.2018', 'blame:0.1986', 'telegram:0.1846', 'reiterate:0.1647', 'shelling:0.1619', 'plant:0.16', 'ward:0.1554', 'nominal:0.1459', 'center:0.1372', 'allocate:0.1311', 'state:0.1237', 'confirm:0.1183', 'surgical:0.1015']+titles_keywords+['zelensky:0.4872', 'ukraine:0.3119', 'crime:0.2492', 'deliberate:0.1374', 'says:0.0487']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/cnn.com/US officials warn of new hacking tools that could be used to target energy facilities.txt+eventbasecode112+eventcode112+avgtone0.468235294117647+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['cyberattacks:0.5947', 'hacker:0.4397', 'ukraine:0.3828', 'nato:0.3788', 'sabotage:0.3613', 'infrastructure:0.3492', 'fbi:0.3461', 'nuclear:0.3397', 'threat:0.3025', 'utility:0.2856', 'invasion:0.2803', 'industrial:0.2754', 'power:0.2737', 'operation:0.2697', 'device:0.2609', 'tool:0.2526', 'outage:0.243', 'analyze:0.2346', 'unnamed:0.2076', 'code:0.1875', 'thwart:0.1817', 'help:0.1789', 'link:0.1348', 'burrow:0.1281', 'emulate:0.0943', 'include:0.094', 'track:0.0848', 'likely:0.0706', 'million:0.0687', 'year:0.0597']+titles_keywords+['hacking:0.3298', 'warn:0.1722', 'energy:0.1188', 'officials:0.0957', 'target:0.0561']"
+        ]
+    ]
+}

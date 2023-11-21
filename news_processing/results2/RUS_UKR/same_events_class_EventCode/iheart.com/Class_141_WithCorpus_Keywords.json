@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+141":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/iheart.com/Before You Dump That Vodka Did It Really Come From Russia.txt+eventbasecode141+eventcode141+avgtone0.45569620253164567+goldsteinscale0.175+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['vodka:0.5756', 'ukraine:0.5167', 'russian:0.4426', 'invaded:0.2726', 'bottles:0.2521', 'youngkin:0.2042', 'troop:0.1665', 'source:0.1532', 'surprise:0.1496', 'protest:0.1488', 'make:0.1406', 'dump:0.1405', 'come:0.1366', 'newsweek:0.1245', 'did:0.1229', 'getty:0.1178', 'february:0.116', 'alex:0.113', 'people:0.106', 'actually:0.0989', 'governor:0.0909', 'photo:0.0873', 'symbolic:0.0857', 'abc:0.0836', 'shelf:0.0805', 'control:0.0691', 'favorite:0.0624', 'expensive:0.0605', 'glenn:0.0594', 'read:0.0587']+titles_keywords+['vodka:0.6318', 'russia:0.4999', 'did:0.2181', 'dump:0.1691', 'really:0.1609']"
+        ]
+    ],
+    "UKR+RUS+141":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/iheart.com/Dee Snider Supports Ukrainians Using Were Not Gonna Take It As Battlecry.txt+eventbasecode141+eventcode141+avgtone0.47591743119266056+goldsteinscale0.175+nummentions0.36429608127721336+numarticles0.36475707034082666+numsources0.039473684210526314+news_keywords+['ukrainians:0.4866', 'putin:0.3949', 'propaganda:0.3753', 'ceasefire:0.3693', 'invasion:0.3271', 'oppose:0.2909', 'aggressor:0.2731', 'anthem:0.2452', 'twisted:0.239', 'country:0.2369', 'snider:0.2297', 'justified:0.2279', 'kharkiv:0.2218', 'gon:0.2178', 'feed:0.2096', 'argue:0.2092', 'prouder:0.1958', 'disapproved:0.188', 'metal:0.1875', 'fled:0.1819', 'decry:0.1733', 'clarify:0.1688', 'na:0.1634', 'happen:0.1595', 'issue:0.1593', 'swallow:0.1476', 'order:0.1405', 'ww:0.1392', 'true:0.0982', 'weekend:0.0929']+titles_keywords+['ukrainians:0.4594', 'snider:0.453', 'battlecry:0.3147', 'dee:0.3057', 'supports:0.2032']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "PHL+RUS+20":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/mb.com.ph/Parishes in Manila urged to join Pope in the consecration of Russia Ukraine to the.txt+eventbasecode20+eventcode20+avgtone0.5195035460992908+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['consecration:0.4466', 'archdiocese:0.4436', 'pope:0.4023', 'eucharistic:0.3972', 'parishes:0.3952', 'philippine:0.2964', 'participate:0.2878', 'celebration:0.2657', 'request:0.265', 'blessed:0.2506', 'mary:0.2478', 'march:0.2361', 'pray:0.234', 'letter:0.2317', 'ambassador:0.2183', 'organize:0.2081', 'nation:0.2', 'soon:0.1794', 'mass:0.1781', 'heart:0.1739', 'fr:0.1711', 'sister:0.1708', 'official:0.1665', 'day:0.1212', 'make:0.1169', 'concelebrate:0.1056', 'issue:0.0984', 'arada:0.0899', 'preferably:0.0467', 'possible:0.0291']+titles_keywords+['pope:0.3713', 'parishes:0.3385', 'manila:0.336', 'ukraine:0.2823', 'urged:0.1983']"
+        ]
+    ],
+    "WST+UKR+20":[
+        [
+            "20220619+../news_crawling/RUS_UKR/p_articles/mb.com.ph/The war in Ukraine could last for years NATO chief.txt+eventbasecode20+eventcode20+avgtone0.5+goldsteinscale0.65+nummentions0.03555878084179971+numarticles0.03625815808556925+numsources0.03618421052631579+news_keywords+['nato:0.5179', 'putin:0.4025', 'kyiv:0.3914', 'war:0.3725', 'russias:0.3459', 'troop:0.2906', 'frontline:0.2862', 'prepare:0.2262', 'reznikov:0.2199', 'easternmost:0.1994', 'ammunition:0.1974', 'warn:0.1786', 'donbas:0.1706', 'stoltenberg:0.1643', 'continue:0.1467', 'weaken:0.1458', 'general:0.1424', 'long:0.1403', 'surge:0.1382', 'secretary:0.1255', 'likelihood:0.1176', 'reiterate:0.112', 'year:0.1036', 'compare:0.0933', 'week:0.0913', 'control:0.0828', 'price:0.0819', 'hardware:0.0688', 'great:0.0616', 'currently:0.0585']+titles_keywords+['nato:0.4921', 'ukraine:0.3911', 'war:0.3661', 'years:0.3084', 'chief:0.1902']"
+        ]
+    ]
+}

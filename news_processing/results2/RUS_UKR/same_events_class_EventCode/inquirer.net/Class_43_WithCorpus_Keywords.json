@@ -1,0 +1,27 @@
+{
+    "CHE+RUS+43":[
+        [
+            "20220508+../news_crawling/RUS_UKR/p_articles/inquirer.net/WHO gathers evidence for possible war crimes investigation against Russia.txt+eventbasecode43+eventcode43+avgtone0.46625766871165647+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4884', 'investigation:0.336', 'war:0.3336', 'reuters:0.3277', 'humanitarian:0.3143', 'healthcare:0.2924', 'federation:0.2786', 'unprovoked:0.2635', 'diplomatic:0.2583', 'sanction:0.2577', 'civilian:0.2264', 'geneva:0.2147', 'document:0.1955', 'zelensky:0.1937', 'read:0.1926', 'breach:0.1781', 'world:0.1757', 'continue:0.1706', 'obtain:0.1699', 'submit:0.1506', 'terms:0.1461', 'prepare:0.1438', 'say:0.1412', 'feb:0.124', 'picture:0.1072', 'tedros:0.1035', 'previous:0.0978', 'gadget:0.0826', 'possible:0.0612', 'plus:0.0579']+titles_keywords+['investigation:0.4527', 'russia:0.3468', 'war:0.2144', 'gathers:0.1025', 'possible:0.0348']"
+        ]
+    ],
+    "EUR+UKR+43":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/inquirer.net/EU Commission proposes temporary residence rights for Ukraine refugees.txt+eventbasecode43+eventcode43+avgtone0.48604651162790696+goldsteinscale0.64+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['refugee:0.4785', 'ukrainians:0.4341', 'eu:0.3316', 'residence:0.3065', 'temporary:0.2388', 'invasion:0.2322', 'permit:0.2292', 'protection:0.2249', 'flee:0.222', 'military:0.2147', 'legislation:0.2133', 'reutersyves:0.1839', 'commission:0.1475', 'apply:0.1453', 'file:0.1314', 'displace:0.1255', 'herman:0.1118', 'read:0.1096', 'immediately:0.0977', 'link:0.0967', 'adopt:0.0875', 'photo:0.0819', 'end:0.081', 'deal:0.0691', 'unless:0.0658', 'flutter:0.0553', 'year:0.0517', 'acknowledge:0.0487', 'plus:0.0408', 'agree:0.0368']+titles_keywords+['ukraine:0.4213', 'refugees:0.4072', 'residence:0.3084', 'temporary:0.2221', 'rights:0.1448']"
+        ]
+    ],
+    "FIN+RUS+43":[
+        [
+            "20220814+../news_crawling/RUS_UKR/p_articles/inquirer.net/Russian tourists to Finland greeted with Ukrainian anthem.txt+eventbasecode43+eventcode43+avgtone0.4949856733524355+goldsteinscale0.64+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['finlands:0.4327', 'imatrankoski:0.3438', 'ukrainian:0.3386', 'petersburg:0.3299', 'tourist:0.3025', 'schengen:0.3011', 'ahtiainen:0.232', 'pekka:0.1907', 'invasion:0.1807', 'protest:0.1557', 'circumvention:0.152', 'rapids:0.1507', 'covid:0.1427', 'restrict:0.1408', 'read:0.1333', 'news:0.1241', 'people:0.1139', 'relationship:0.1116', 'yle:0.0994', 'greet:0.0992', 'know:0.0978', 'kilometer:0.0968', 'plan:0.0879', 'link:0.0818', 'agree:0.0788', 'traditionally:0.0758', 'end:0.0464', 'percent:0.0441', 'unfortunate:0.0346', 'plus:0.0105']+titles_keywords+['ukrainian:0.4201', 'finland:0.3858', 'anthem:0.2389', 'tourists:0.2327', 'greeted:0.1475']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220209+../news_crawling/RUS_UKR/p_articles/inquirer.net/Cautious Macron holds advantage in French election.txt+eventbasecode43+eventcode43+avgtone0.48886532343584305+goldsteinscale0.64+nummentions0.014150943396226415+numarticles0.014140681653372008+numsources0.029605263157894735+news_keywords+['macron:0.6193', 'mitterrand:0.4944', 'nomination:0.3835', 'gaulle:0.3807', 'campaigning:0.3798', 'sarkozy:0.3785', 'hollande:0.3383', 'chirac:0.2982', 'pecresse:0.289', 'communist:0.2447', 'paris:0.2402', 'invalides:0.2384', 'afp:0.229', 'poll:0.227', 'analysts:0.2153', 'uncertainty:0.206', 'march:0.2007', 'formal:0.1926', 'lackluster:0.1894', 'left:0.1848', 'trend:0.1798', 'preoccupy:0.176', 'file:0.1661', 'reshuffle:0.1608', 'master:0.1535', 'set:0.1451', 'prove:0.134', 'listen:0.1288', 'surmount:0.1071', 'relatively:0.0896']+titles_keywords+['macron:0.5473', 'election:0.3081', 'cautious:0.2571', 'advantage:0.2256', 'french:0.1903']"
+        ]
+    ],
+    "TUR+UKR+43":[
+        [
+            "20220815+../news_crawling/RUS_UKR/p_articles/inquirer.net/First ship carrying Ukraine wheat under UN deal docks in Turkey.txt+eventbasecode43+eventcode43+avgtone0.48731884057971014+goldsteinscale0.64+nummentions0.0047169811320754715+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['ukraine:0.4488', 'chornomorsk:0.3439', 'war:0.3281', 'istanbul:0.3129', 'shipment:0.3097', 'demilitarize:0.3011', 'wheat:0.2759', 'reuters:0.2722', 'naval:0.2495', 'sormovsky:0.2327', 'supply:0.2295', 'flag:0.2045', 'port:0.1964', 'read:0.1468', 'odesa:0.1313', 'global:0.1307', 'outbreaks:0.1303', 'deal:0.1291', 'feb:0.1233', 'featured:0.1201', 'terms:0.1135', 'resumption:0.112', 'acknowledge:0.1078', 'stories:0.1047', 'coordination:0.1042', 'plus:0.0859', 'gadget:0.0826', 'nearly:0.0724', 'commandhandout:0.0602', 'agree:0.0543']+titles_keywords+['turkey:0.381', 'ship:0.3096', 'wheat:0.3029', 'docks:0.1986', 'deal:0.1785']"
+        ]
+    ]
+}

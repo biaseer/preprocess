@@ -1,0 +1,18 @@
+{
+    "RUS+UKR+193":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/wn.com/Jeremy Corbyn Now let us talk peace.txt+eventbasecode193+eventcode193+avgtone0.4782608695652174+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['peace:0.4966', 'ceasefire:0.4718', 'war:0.4475', 'talk:0.3647', 'corbyn:0.3193', 'conflict:0.3162', 'palestinians:0.2917', 'world:0.2123', 'jerusalem:0.2009', 'yemen:0.191', 'attack:0.1875', 'uneasy:0.1528', 'let:0.1436', 'absolutely:0.1385', 'ukrainian:0.1221', 'prayer:0.1087', 'inappropriate:0.1014', 'city:0.095', 'time:0.093', 'russian:0.089', 'rain:0.0853', 'jeremy:0.0442', 'shell:0.0005']+titles_keywords+['corbyn:0.7289', 'peace:0.4379', 'jeremy:0.3416', 'talk:0.2466', 'let:0.1853']"
+        ],
+        [
+            "20220827+../news_crawling/RUS_UKR/p_articles/wn.com/Risk of radioactive leak at Ukraines nuclear power plantAs a result of periodic shelling the.txt+eventbasecode193+eventcode193+avgtone0.4710144927536232+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['radioactive:0.5313', 'nuclear:0.4867', 'ukraine:0.4304', 'ukraines:0.4135', 'moscow:0.3241', 'russian:0.27', 'leak:0.2623', 'risk:0.2521', 'zaporizhzhia:0.2366', 'europe:0.1802', 'plant:0.1757', 'occupied:0.1715', 'troop:0.1688', 'periodic:0.1685', 'shelling:0.1589', 'plantas:0.1551', 'power:0.1403', 'energoatom:0.1204', 'site:0.1083', 'result:0.0986', 'past:0.081', 'operator:0.0764', 'saturday:0.0582', 'large:0.0581', 'state:0.0506', 'day:0.0461', 'repeatedly:0.0399', 'say:0.0234', 'southern:0.0209', 'whilst:0.0153']+titles_keywords+['radioactive:0.4973', 'ukraines:0.3324', 'leak:0.2303', 'shelling:0.2071', 'plantas:0.1338']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220512+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine to hold first war crimes trial as Moscow says Kyiv shelled Russian city.txt+eventbasecode193+eventcode193+avgtone0.43644067796610153+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5752', 'ukraine:0.4932', 'moscow:0.4804', 'russian:0.3764', 'war:0.3318', 'crime:0.2925', 'invasion:0.2792', 'accuse:0.2712', 'trial:0.2525', 'conflict:0.2261', 'flashpoint:0.2187', 'city:0.2184', 'europe:0.206', 'devastate:0.1582', 'gas:0.1555', 'announce:0.1483', 'fear:0.1365', 'impact:0.1343', 'shell:0.1308', 'international:0.1115', 'displace:0.0996', 'supply:0.0944', 'say:0.093', 'hold:0.0887', 'late:0.0778', 'grow:0.0619', 'million:0.0588', 'broad:-0.0264']+titles_keywords+['kyiv:0.4936', 'trial:0.2552', 'war:0.1608', 'shelled:0.0475', 'says:0.0246']"
+        ],
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine shells village in Russias Kursk killing one Regional governor.txt+eventbasecode193+eventcode193+avgtone0.4736842105263158+goldsteinscale0.0+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['kursk:0.5777', 'kyiv:0.4687', 'ukraine:0.4231', 'ukrainian:0.3916', 'russia:0.3288', 'russias:0.2712', 'village:0.2589', 'civilian:0.2215', 'shell:0.2207', 'kill:0.1948', 'region:0.1721', 'governor:0.1659', 'border:0.1605', 'regional:0.129', 'western:0.1246', 'dawn:0.0626', 'thursday:0.0286', 'force:0.0064']+titles_keywords+['kursk:0.5345', 'ukraine:0.4202', 'killing:0.1957', 'shells:0.1956', 'governor:0.1441']"
+        ]
+    ]
+}

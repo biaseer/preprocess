@@ -1,0 +1,17 @@
+{
+    "AFG+RUS+172":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/tass.com/UK stages military provocations in Black Sea MFAIn June 2021 it was reported that a.txt+eventbasecode172+eventcode172+avgtone0.4743589743589744+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['crimea:0.5488', 'putin:0.4404', 'russias:0.4193', 'soviet:0.4106', 'afghanistan:0.3707', 'qaeda:0.3208', 'refugee:0.3099', 'provocation:0.3054', 'warship:0.2861', 'border:0.2777', 'militant:0.2705', 'pursue:0.2299', 'flood:0.218', 'violate:0.2109', 'point:0.2005', 'zakharova:0.1972', 'report:0.1939', 'republic:0.1882', 'conjunction:0.1721', 'intelligence:0.1701', 'continue:0.1437', 'people:0.1399', 'unidentified:0.1351', 'similar:0.1344', 'imagine:0.1278', 'stag:0.1263', 'upward:0.123', 'stage:0.1041', 'february:0.0968', 'saidthe:0.0761']+titles_keywords+['crimea:0.5059', 'provocation:0.3029', 'warship:0.2846', 'zakharova:0.2284', '2021:0.1234']"
+        ]
+    ],
+    "TUR+RUS+172":[
+        [
+            "20220725+../news_crawling/RUS_UKR/p_articles/tass.com/Military operation in UkraineIstanbul grain accords do not bar Russia from continuing operation in Ukraine.txt+eventbasecode172+eventcode172+avgtone0.488421052631579+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukrainecontrolled:0.5066', 'policymilitary:0.3949', 'operation:0.3762', 'russias:0.3727', 'odessa:0.3712', 'missiles:0.3314', 'memorandum:0.318', 'diplomat:0.3079', 'provocationstagsforeign:0.3014', 'congo:0.2887', 'lavrov:0.2794', 'threat:0.2737', 'shipment:0.2567', 'antiship:0.2489', 'news:0.2481', 'supply:0.2388', 'develop:0.2379', 'enterprise:0.2311', 'agreement:0.2304', 'ussupplied:0.2234', 'report:0.2159', 'grain:0.2133', 'port:0.2082', 'continue:0.1947', 'interpretation:0.1899', 'export:0.1628', 'expert:0.1625', 'upgrade:0.1612', 'labilities:0.1402', 'far:0.0921']+titles_keywords+['ukrainecontrolled:0.4413', 'agreements:0.305', 'grain:0.2173', 'warship:0.2126', 'interpretation:0.1791']"
+        ]
+    ],
+    "UKR+RUS+172":[
+        [
+            "20220101+../news_crawling/RUS_UKR/p_articles/tass.com/Ukraine crisisUkraine bans access of Russian vessels to its inland watersThe document approved by Ukraines.txt+eventbasecode172+eventcode172+avgtone0.4924812030075188+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4226', 'legislation:0.34', 'waterways:0.335', 'russiathe:0.2864', 'shipowner:0.2609', 'lawstagsukraine:0.2466', 'crisis:0.2339', 'ban:0.2275', 'transport:0.2187', 'navigation:0.2163', 'flag:0.2154', 'yuri:0.211', 'regulate:0.2067', 'smityuktasskiev:0.1785', 'property:0.1714', 'conduct:0.168', 'sunk:0.1634', 'relation:0.1546', 'business:0.1528', 'indicate:0.14', 'procedure:0.1267', 'forth:0.1262', 'register:0.1182', 'access:0.1087', 'national:0.1039', 'accord:0.0954', 'set:0.084', 'january:0.0657', 'bar:0.0586', 'gain:0.0429']+titles_keywords+['ukraine:0.4798', 'shipowners:0.3328', 'legislation:0.286', 'flag:0.1982', 'navigation:0.1692']"
+        ]
+    ]
+}

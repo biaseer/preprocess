@@ -1,0 +1,12 @@
+{
+    "BEL+RUS+20":[
+        [
+            "20220423+../news_crawling/RUS_UKR/p_articles/kuwaittimes.com/Fierce battles rage in east Ukraine as 52 million flee.txt+eventbasecode20+eventcode20+avgtone0.47877984084880637+goldsteinscale0.65+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['kyiv:0.4976', 'ceasefire:0.4744', 'putin:0.3609', 'evacuate:0.349', 'invade:0.3343', 'frontlines:0.296', 'battle:0.2882', 'orthodox:0.2841', 'ongoing:0.26', 'artillery:0.2514', 'sinegubov:0.2272', 'afp:0.2257', 'april:0.2185', 'summary:0.2104', 'operate:0.2103', 'soon:0.2066', 'strategic:0.2057', 'stay:0.1973', 'turn:0.1966', 'sprawl:0.1963', 'telegram:0.1938', 'school:0.181', 'bout:0.1781', 'help:0.1719', 'donbas:0.1712', 'kilometer:0.1656', 'counter:0.1594', 'resume:0.1563', 'huge:0.1409', 'price:0.085']+titles_keywords+['ukraine:0.4172', 'flee:0.3583', 'battles:0.3401', 'million:0.1778', '52:0.1689']"
+        ]
+    ],
+    "EUR+RUS+20":[
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/kuwaittimes.com/EU readies for end of Russia gas warns wont pay in rubles.txt+eventbasecode20+eventcode20+avgtone0.4797639123102867+goldsteinscale0.65+nummentions0.03374455732946299+numarticles0.03444525018129079+numsources0.03289473684210526+news_keywords+['rubles:0.3965', 'kremlin:0.3924', 'embargo:0.3782', 'eu:0.3441', 'sanction:0.2897', 'diplomat:0.2659', 'economic:0.2356', 'prepare:0.1945', 'propose:0.1932', 'disruption:0.192', 'issue:0.1915', 'unite:0.1914', 'import:0.1724', 'commission:0.1707', 'monday:0.1706', 'end:0.1695', 'clarification:0.164', 'renew:0.1572', 'diversify:0.1554', 'gazproms:0.1516', 'gas:0.1418', 'wont:0.1397', 'sidestep:0.1392', 'official:0.1369', 'bit:0.1366', 'pompili:0.1362', 'set:0.0954', 'state:0.0927', 'face:0.0905', 'habeck:0.0175']+titles_keywords+['rubles:0.4345', 'eu:0.3171', 'readies:0.2779', 'wont:0.2008', 'end:0.1941']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/waer.org/Fighting breaks out after Russian troops enter Ukraines secondlargest city.txt+eventbasecode192+eventcode192+avgtone0.44+goldsteinscale0.025+nummentions0.04426705370101597+numarticles0.044960116026105876+numsources0.06578947368421052+news_keywords+['kyiv:0.5337', 'ukrainians:0.4805', 'putin:0.402', 'invade:0.3436', 'conflict:0.2983', 'separatist:0.2889', 'troop:0.2809', 'know:0.2691', 'english:0.2647', 'border:0.2525', 'hear:0.2437', 'worried:0.228', 'tetyana:0.2247', 'leave:0.2238', 'pipeline:0.2221', 'neighbor:0.2071', 'main:0.1942', 'future:0.1933', 'live:0.1842', 'trap:0.1819', 'npr:0.1767', 'finish:0.1679', 'world:0.1652', 'reach:0.165', 'ready:0.1589', 'way:0.125', 'thousand:0.1227', 'precondition:0.1205', 'actually:0.1184', 'stas:0.1053']+titles_keywords+['ukraines:0.3761', 'fighting:0.3088', 'enter:0.186', 'city:0.1769', 'secondlargest:0.1331']"
+        ],
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/waer.org/Russia is moving its attacks into western Ukraine.txt+eventbasecode192+eventcode192+avgtone0.4761904761904762+goldsteinscale0.025+nummentions0.125544267053701+numarticles0.126178390137781+numsources0.1118421052631579+news_keywords+['kyiv:0.5462', 'russians:0.3378', 'war:0.3179', 'evacuate:0.3042', 'redeployment:0.276', 'catastrophe:0.2458', 'adapt:0.216', 'north:0.2148', 'happen:0.2054', 'changed:0.1965', 'vereshchuk:0.1952', 'town:0.1869', 'turn:0.1843', 'unscathed:0.1753', 'help:0.1707', 'tank:0.1661', 'clear:0.1609', 'far:0.1522', 'horrific:0.141', 'npr:0.1379', 'unpredictable:0.1368', 'airfield:0.1346', 'early:0.1312', 'signal:0.1298', 'short:0.1212', 'like:0.1209', 'night:0.1157', 'maternity:0.0919', 'hundreds:0.0641', 'byline:0.0577']+titles_keywords+['ukraine:0.4675', 'russia:0.3729', 'attacks:0.3464', 'moving:0.2943', 'western:0.2508']"
+        ]
+    ]
+}

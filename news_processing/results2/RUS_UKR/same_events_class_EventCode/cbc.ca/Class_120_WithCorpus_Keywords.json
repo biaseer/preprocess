@@ -1,0 +1,20 @@
+{
+    "EUR+RUS+120":[
+        [
+            "20220512+../news_crawling/RUS_UKR/p_articles/cbc.ca/Pressure builds for Europe to secure gas supplies from outside Russia.txt+eventbasecode120+eventcode120+avgtone0.4803427419354838+goldsteinscale0.3+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['ukraine:0.4492', 'europol:0.3859', 'kremlin:0.385', 'gas:0.3509', 'pipeline:0.3272', 'economy:0.2492', 'occupy:0.2445', 'gazprombank:0.2424', 'global:0.2269', 'concern:0.2223', 'eastward:0.2208', 'surge:0.2201', 'impose:0.2141', 'transit:0.196', 'increase:0.1937', 'cite:0.1687', 'report:0.1507', 'soon:0.1481', 'winter:0.1364', 'robert:0.1228', 'albeit:0.1193', 'term:0.1154', 'end:0.1113', 'mechanism:0.1112', 'big:0.104', 'outlook:0.0983', 'fourbillion:0.0871', 'metrecapacity:0.0763', 'cost:0.0721', 'possible:0.0559']+titles_keywords+['gas:0.3794', 'russia:0.3418', 'pressure:0.2589', 'secure:0.2267', 'builds:0.0414']"
+        ]
+    ],
+    "RUS+EUR+120":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/cbc.ca/Some Russians scramble to leave fearing they may be drafted to fight in Ukraine.txt+eventbasecode120+eventcode120+avgtone0.469248291571754+goldsteinscale0.3+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['kremlin:0.4577', 'kyiv:0.4253', 'russiansto:0.4247', 'invasion:0.2987', 'visas:0.2822', 'stay:0.2807', 'protest:0.2576', 'worried:0.2359', 'future:0.2246', 'rush:0.223', 'soldier:0.2213', 'flight:0.2149', 'detain:0.2124', 'expect:0.2028', 'sentence:0.2006', 'ready:0.1799', 'organization:0.1783', 'begin:0.1752', 'soar:0.1671', 'article:0.1588', 'televise:0.1405', 'stomach:0.1368', 'info:0.1311', 'longer:0.1262', 'age:0.1196', 'onemillion:0.1163', 'bought:0.1149', 'arrangingcovid:0.1119', 'rebut:0.1101', 'possible:0.0521']+titles_keywords+['russians:0.4316', 'drafted:0.2731', 'leave:0.2344', 'fearing:0.186', 'scramble:0.1524']"
+        ]
+    ],
+    "RUS+UKR+120":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/cbc.ca/Russia denies bombing Ukraine hospital.txt+eventbasecode120+eventcode120+avgtone0.4393939393939395+goldsteinscale0.3+nummentions0.0043541364296081275+numarticles0.002175489485134155+numsources0.0+news_keywords+['kremlin:0.4973', 'ukraine:0.4527', 'ukrainian:0.4006', 'russia:0.3967', 'bomb:0.3317', 'hospital:0.2949', 'maternity:0.2638', 'mariupol:0.2094', 'outrage:0.2076', 'deny:0.2032', 'denying:0.1803', 'responsibility:0.1659', 'city:0.1491', 'childrens:0.145', 'international:0.111', 'spark:0.0436']+titles_keywords+['ukraine:0.4378', 'russia:0.3531', 'bombing:0.293', 'hospital:0.261', 'denies:0.2315']"
+        ],
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/cbc.ca/Ukrainian MP says Independence Day marked with little fanfare but a growing resolve to fight.txt+eventbasecode120+eventcode120+avgtone0.4847328244274809+goldsteinscale0.3+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraineis:0.5604', 'independence:0.4005', 'moscow:0.3972', 'stalinist:0.3545', 'war:0.3015', 'diplomatic:0.2753', 'federation:0.2703', 'readiness:0.2617', 'overcome:0.2523', 'language:0.2437', 'long:0.2356', 'say:0.2273', 'agreement:0.2092', 'table:0.2073', 'day:0.1938', 'remember:0.1904', 'fanfare:0.1901', 'want:0.1876', 'clarity:0.1871', 'produce:0.1658', 'end:0.1462', 'nora:0.1409', 'teens:0.1342', 'bannedover:0.134', 'sure:0.1164', 'actually:0.1143', 'mp:0.1071', 'upper:0.093', 'audio:0.0832', 'thousands:0.074']+titles_keywords+['ukrainian:0.4177', 'independence:0.3534', 'day:0.2479', 'fanfare:0.2363', 'fight:0.2207']"
+        ]
+    ]
+}

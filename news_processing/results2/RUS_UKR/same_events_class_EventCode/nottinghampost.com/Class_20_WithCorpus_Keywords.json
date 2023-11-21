@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/nottinghampost.com/Households urged to turn down thermostats by 1C to help defeat Russia.txt+eventbasecode20+eventcode20+avgtone0.5012562814070352+goldsteinscale0.65+nummentions0.04245283018867924+numarticles0.04314720812182741+numsources0.03618421052631579+news_keywords+['russia:0.3756', 'thermostat:0.3595', 'gas:0.2981', 'winter:0.2682', 'reduce:0.2579', 'celsius:0.2474', 'enact:0.2321', 'nuclear:0.2273', 'economic:0.2255', 'power:0.2195', 'increase:0.2016', 'alternative:0.1985', 'bioenergy:0.1747', 'household:0.1673', 'turn:0.1658', 'sign:0.1433', 'advice:0.1422', 'replace:0.1396', 'step:0.134', 'degree:0.1205', 'uswitch:0.1179', 'project:0.1159', 'secure:0.1064', 'point:0.1012', 'soon:0.0924', 'ieas:0.0892', 'term:0.084', 'say:0.0784', 'billion:0.0642', 'birol:0.0376']+titles_keywords+['thermostats:0.5225', 'russia:0.3306', 'households:0.2198', '1c:0.1315', 'turn:0.1008']"
+        ]
+    ],
+    "POL+RUS+20":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/nottinghampost.com/Johnson helping Ukraine more thanks to British public pressure Zelensky says.txt+eventbasecode20+eventcode20+avgtone0.4838107098381071+goldsteinscale0.65+nummentions0.2144412191582003+numarticles0.21501087744742567+numsources0.3223684210526316+news_keywords+['putin:0.4361', 'ukraines:0.4083', 'nato:0.4007', 'invade:0.3295', 'escalation:0.2776', 'govern:0.2734', 'argue:0.2452', 'peace:0.2287', 'logistically:0.2112', 'respond:0.2074', 'power:0.2028', 'speech:0.2022', 'change:0.2011', 'clarify:0.1998', 'say:0.1907', 'help:0.1844', 'relationship:0.1843', 'volodymyr:0.1778', 'deliver:0.1716', 'note:0.1714', 'secretary:0.1708', 'row:0.1692', 'north:0.166', 'bbcs:0.1658', 'end:0.1367', 'hesitant:0.1337', 'ready:0.132', 'unlike:0.1165', 'antony:0.0957', 'week:0.0815']+titles_keywords+['zelensky:0.4409', 'ukraine:0.3697', 'johnson:0.2798', 'british:0.1875', 'helping:0.1351']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/nottinghampost.com/UK to end all imports of Russian coal and oil by end of year.txt+eventbasecode20+eventcode20+avgtone0.4649572649572649+goldsteinscale0.65+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.04276315789473684+news_keywords+['putin:0.5069', 'kyiv:0.4065', 'sanction:0.3698', 'regime:0.3339', 'war:0.3014', 'nazification:0.2659', 'report:0.2618', 'parliament:0.2495', 'block:0.2475', 'climate:0.2354', 'information:0.2319', 'order:0.2065', 'end:0.2053', 'toxic:0.2027', 'context:0.2023', 'combine:0.199', 'secretary:0.1972', 'bucha:0.1812', 'say:0.1687', 'import:0.1665', 'soon:0.1659', 'invest:0.1658', 'forward:0.1634', 'afraid:0.1613', 'strip:0.1514', 'underprepared:0.1421', 'similar:0.1368', 'sberbank:0.1288', 'new:0.1226', 'big:0.112']+titles_keywords+['coal:0.3253', 'russian:0.268', 'end:0.1718', 'imports:0.1687', 'year:0.079']"
+        ]
+    ]
+}

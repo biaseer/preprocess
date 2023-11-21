@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+130":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/somerset-kentucky.com/UPDATE Ukraine Russia envoys talk under shadow of nuclear threat.txt+eventbasecode130+eventcode130+avgtone0.47388059701492535+goldsteinscale0.27999999999999997+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.5056', 'kremlin:0.4227', 'nato:0.3904', 'war:0.3503', 'blitzkrieg:0.3182', 'diplomatic:0.3106', 'emergency:0.261', 'warn:0.2418', 'azov:0.2418', 'soon:0.23', 'table:0.2252', 'agreement:0.2174', 'weaponry:0.2089', 'capital:0.1993', 'read:0.1973', 'order:0.1918', 'rhetoric:0.1863', 'change:0.1766', 'general:0.1748', 'clear:0.1714', 'corridor:0.1688', 'end:0.1687', 'curfew:0.1676', 'long:0.155', 'nearly:0.1522', 'anonymity:0.1522', 'ap:0.1404', 'pet:0.1371', 'residential:0.1359', 'undercount:0.1264']+titles_keywords+['ukraine:0.4153', 'nuclear:0.3395', 'threat:0.2904', 'envoys:0.2605', 'update:0.2067']"
+        ]
+    ],
+    "WST+UKR+130":[
+        [
+            "20211130+../news_crawling/RUS_UKR/p_articles/somerset-kentucky.com/Putin warns West Moscow has red line about Ukraine NATO.txt+eventbasecode130+eventcode130+avgtone0.48293299620733243+goldsteinscale0.27999999999999997+nummentions0.25616835994194487+numarticles0.25670775924583034+numsources0.23355263157894737+news_keywords+['putin:0.5407', 'natos:0.4481', 'crimean:0.4024', 'war:0.3119', 'destabilize:0.2923', 'nuclear:0.2879', 'concern:0.2716', 'threaten:0.2695', 'maneuver:0.2558', 'develop:0.2487', 'cybersecurity:0.24', 'eastward:0.2369', 'amendment:0.1905', 'plan:0.1838', 'range:0.1759', 'enter:0.1756', 'term:0.1735', 'agreement:0.1729', 'order:0.1697', 'current:0.1615', 'end:0.1568', 'longer:0.1469', 'draw:0.1451', 'isnt:0.145', 'monday:0.1425', 'previous:0.1423', 'help:0.1302', 'existence:0.1229', 'decade:0.1101', 'limit:0.0841']+titles_keywords+['putin:0.4356', 'nato:0.4091', 'line:0.2402', 'warns:0.2027', 'red:0.1606']"
+        ]
+    ]
+}

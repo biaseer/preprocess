@@ -1,0 +1,12 @@
+{
+    "JPN+UKR+43":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/forexlive.com/Ukraine president Zelensky Sanctions imposed on Russia are not enough.txt+eventbasecode43+eventcode43+avgtone0.45454545454545453+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.503', 'sanctions:0.5022', 'russia:0.382', 'sanction:0.354', 'europe:0.2978', 'zelensky:0.2703', 'impose:0.2598', 'risk:0.2551', 'ordeal:0.2221', 'happen:0.1979', 'change:0.1945', 'president:0.1941', 'end:0.194', 'reality:0.1784', 'inevitable:0.1422', 'hurt:0.1395', 'head:0.1331', 'sombre:0.1305', 'like:0.1149', 'current:0.1087', 'quite:0.1059', 'saga:0.0547', 'fact:0.0509', 'pretty:0.0473']+titles_keywords+['zelensky:0.5247', 'sanctions:0.4984', 'ukraine:0.3858', 'imposed:0.2247', 'president:0.1529']"
+        ]
+    ],
+    "UKR+RUS+43":[
+        [
+            "20220516+../news_crawling/RUS_UKR/p_articles/forexlive.com/EU US Agree to Cooperate on Supply Chain Ruptures From Russias Invasion Of Ukraine.txt+eventbasecode43+eventcode43+avgtone0.4811320754716983+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['cooperate:0.4038', 'eu:0.3562', 'ukraine:0.3369', 'russias:0.3297', 'supply:0.3006', 'moscow:0.2787', 'disinformation:0.2588', 'shortages:0.242', 'union:0.2256', 'invasion:0.2172', 'european:0.2154', 'disrupt:0.2149', 'commodity:0.2082', 'industrial:0.201', 'combat:0.1895', 'closely:0.1754', 'chain:0.1743', 'monitoring:0.1741', 'transparency:0.144', 'monday:0.1357', 'food:0.1325', 'semiconductor:0.1323', 'states:0.1281', 'ease:0.1048', 'united:0.1022', 'ruptures:0.0997', 'agree:0.0913', 'cause:0.0865', 'counter:0.0848', 'value:0.0347']+titles_keywords+['cooperate:0.3292', 'eu:0.3191', 'supply:0.2464', 'chain:0.1325', 'ruptures:0.1272']"
+        ]
+    ]
+}

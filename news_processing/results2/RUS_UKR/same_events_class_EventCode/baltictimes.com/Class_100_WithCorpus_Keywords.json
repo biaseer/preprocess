@@ -1,0 +1,12 @@
+{
+    "RUS+EUR+100":[
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/baltictimes.com/PM Karins calls for seizure of Russian central banks assets giving them to Ukraine.txt+eventbasecode100+eventcode100+avgtone0.48697068403908794+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4666', 'embargo:0.3748', 'oligarch:0.3488', 'sanction:0.3063', 'agenda:0.2698', 'karins:0.262', 'propose:0.2237', 'coordinate:0.2197', 'oil:0.2185', 'seize:0.206', 'nikkei:0.1938', 'june:0.1872', 'tomorrow:0.1753', 'fight:0.1753', 'import:0.172', 'forward:0.1581', 'end:0.155', 'newspaper:0.1503', 'bank:0.1445', 'freeze:0.1408', 'property:0.1381', 'summit:0.1251', 'unity:0.1247', 'timing:0.1227', 'reconstruction:0.1189', 'make:0.1121', 'like:0.1081', 'prime:0.1028', 'new:0.0943', 'agree:0.0875']+titles_keywords+['ukraine:0.3861', 'karins:0.3288', 'banks:0.2451', 'seizure:0.1037', 'giving:0.0792']"
+        ]
+    ],
+    "RUS+UKR+100":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/baltictimes.com/First sanctions package includes Russian banks politicians and elements of financial sector Rinkevics.txt+eventbasecode100+eventcode100+avgtone0.49174917491749176+goldsteinscale0.25+nummentions0.023222060957910014+numarticles0.023930384336475707+numsources0.06907894736842106+news_keywords+['sanction:0.4797', 'putin:0.4325', 'ukrainian:0.374', 'treaty:0.365', 'separatist:0.3052', 'riga:0.3025', 'republics:0.3003', 'bloc:0.223', 'procedure:0.216', 'affairs:0.2069', 'rinkevics:0.2055', 'approve:0.2051', 'escalate:0.2009', 'order:0.1961', 'legal:0.1942', 'conform:0.1933', 'impede:0.1845', 'report:0.1842', 'coordinate:0.1719', 'financial:0.1695', 'sector:0.1599', 'soon:0.1547', 'state:0.1398', 'apply:0.1225', 'include:0.1186', 'make:0.1092', 'link:0.1057', 'entity:0.0846', 'unity:0.0827', 'possible:0.0756']+titles_keywords+['sanctions:0.504', 'banks:0.3204', 'politicians:0.2956', 'russian:0.2875', 'package:0.178']"
+        ]
+    ]
+}

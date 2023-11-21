@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+10":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/nonpareilonline.com/This matters Ernst says about preventing invasion of Ukraine.txt+eventbasecode10+eventcode10+avgtone0.47980997624703087+goldsteinscale0.5+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['putin:0.4431', 'diplomacy:0.4254', 'ukraines:0.4196', 'invade:0.4078', 'threat:0.3157', 'senate:0.2827', 'nation:0.2803', 'gop:0.2733', 'border:0.2719', 'sanction:0.2687', 'ernst:0.2151', 'know:0.2108', 'aid:0.2093', 'prevent:0.2026', 'matter:0.1959', 'want:0.1958', 'state:0.1948', 'independent:0.1923', 'happen:0.1883', 'veteran:0.1731', 'consider:0.1629', 'difference:0.156', 'joni:0.15', 'buildup:0.1444', 'hellman:0.1437', 'follow:0.1379', 'tuesday:0.1202', 'nearly:0.1197', 'sunk:0.1', 'welcome:0.0611']+titles_keywords+['ernst:0.409', 'ukraine:0.4044', 'matters:0.3302', 'invasion:0.2817', 'preventing:0.2716']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/nonpareilonline.com/Police More than 900 civilian bodies found in Kyiv region.txt+eventbasecode10+eventcode10+avgtone0.46535022354694483+goldsteinscale0.5+nummentions0.13352685050798258+numarticles0.13415518491660625+numsources0.2236842105263158+news_keywords+['kyiv:0.543', 'soviet:0.4563', 'airstrikes:0.3543', 'moskva:0.3485', 'reznikov:0.3035', 'troop:0.2984', 'missile:0.2966', 'annexed:0.2936', 'news:0.2893', 'casualty:0.2838', 'diversion:0.2727', 'falklands:0.272', 'report:0.2393', 'separatist:0.2372', 'industrial:0.2295', 'suspect:0.2237', 'prepare:0.2192', 'bucha:0.2096', 'cite:0.2067', 'donbas:0.1999', 'combine:0.1963', 'horrific:0.1913', 'sinking:0.1751', 'understand:0.1694', 'range:0.1624', 'long:0.1609', 'fought:0.1498', 'way:0.1153', 'true:0.0966', 'thousand:0.0948']+titles_keywords+['kyiv:0.4262', 'bodies:0.3739', 'police:0.3241', 'civilian:0.2936', '900:0.2421']"
+        ]
+    ]
+}

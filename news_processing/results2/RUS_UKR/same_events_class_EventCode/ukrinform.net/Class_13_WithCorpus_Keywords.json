@@ -1,0 +1,15 @@
+{
+    "DEU+UKR+13":[
+        [
+            "20220727+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukraines GTS capable of fully covering Nord Stream 1 capacities minister.txt+eventbasecode13+eventcode13+avgtone0.4807017543859649+goldsteinscale0.52+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4447', 'pipeline:0.4138', 'gas:0.3292', 'galushchenko:0.3068', 'gazprom:0.3005', 'nord:0.2569', 'turbine:0.2427', 'supply:0.2416', 'emergency:0.2086', 'security:0.1866', 'sector:0.1668', 'correspondent:0.1657', 'provocation:0.1643', 'ongoing:0.1611', 'stream:0.1522', 'shipment:0.1472', 'winter:0.1463', 'forward:0.1459', 'report:0.1431', 'fulfil:0.1253', 'cover:0.113', 'reduce:0.1082', 'capable:0.1065', 'cite:0.1013', 'gts:0.099', 'fully:0.0973', 'official:0.0924', 'emphasize:0.085', 'agree:0.0446', 'million:0.04']+titles_keywords+['ukraines:0.4632', 'nord:0.3042', 'capacities:0.2239', 'gts:0.2147', 'stream:0.1993']"
+        ]
+    ],
+    "UKR+RUS+13":[
+        [
+            "20220124+../news_crawling/RUS_UKR/p_articles/ukrinform.net/US orders relatives of embassy staff to leave Ukraine.txt+eventbasecode13+eventcode13+avgtone0.49395161290322576+goldsteinscale0.52+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['ukraine:0.4351', 'embassy:0.4058', 'depart:0.3062', 'destabilize:0.2787', 'military:0.2756', 'threat:0.2419', 'travel:0.2405', 'operation:0.2308', 'advisory:0.2172', 'reside:0.2146', 'coordinate:0.1791', 'status:0.1775', 'covid:0.1758', 'citizens:0.174', 'authorize:0.1594', 'staff:0.1594', 'open:0.1592', 'option:0.1513', 'relatives:0.1506', 'ukrinform:0.1493', 'publish:0.1382', 'step:0.1306', 'posture:0.1296', 'way:0.1255', 'increase:0.1207', 'tocontinued:0.1193', 'ordered:0.1124', 'day:0.1115', 'make:0.0639', 'regular:0.0558']+titles_keywords+['embassy:0.3626', 'ukraine:0.3599', 'relatives:0.3261', 'leave:0.2176', 'orders:0.1271']"
+        ],
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Zelensky Draghi discuss defense support fuel supply food crisis.txt+eventbasecode13+eventcode13+avgtone0.5+goldsteinscale0.52+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4523', 'zelensky:0.3673', 'draghi:0.3149', 'peace:0.2662', 'frontline:0.2655', 'italys:0.2534', 'aggression:0.2382', 'supply:0.2286', 'issue:0.2187', 'support:0.2137', 'port:0.1946', 'fuel:0.1799', 'informed:0.1798', 'conversation:0.1711', 'unblock:0.1579', 'twitter:0.1573', 'defense:0.1567', 'expect:0.1467', 'mario:0.1421', 'accept:0.1349', 'prevent:0.1319', 'decide:0.1312', 'term:0.128', 'discus:0.1276', 'partner:0.1235', 'post:0.1142', 'minister:0.1007', 'prime:0.0984', 'background:0.0623', 'earlier:0.0598']+titles_keywords+['zelensky:0.429', 'fuel:0.3669', 'draghi:0.2721', 'defense:0.2294', 'crisis:0.2279']"
+        ]
+    ]
+}

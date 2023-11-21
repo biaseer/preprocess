@@ -1,0 +1,20 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/i24news.tv/Costs of UN food agency surging in West Africa due to Ukraine war.txt+eventbasecode61+eventcode61+avgtone0.46360153256704983+goldsteinscale0.82+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.3948', 'africa:0.3883', 'crises:0.3648', 'war:0.357', 'aid:0.3558', 'agriculture:0.3353', 'wfp:0.3318', 'fund:0.302', 'hunger:0.2973', 'costs:0.2733', 'supplier:0.233', 'covid:0.2261', 'ration:0.2259', 'uns:0.2221', 'divert:0.2151', 'import:0.2083', 'expand:0.206', 'million:0.2035', 'global:0.195', 'fuel:0.1831', 'operational:0.1798', 'organization:0.1675', 'people:0.1568', 'expect:0.1405', 'month:0.1403', 'index:0.1142', 'unprecedented:0.1125', 'program:0.0832', 'percent:0.0692', 'accord:0.0652']+titles_keywords+['ukraine:0.3786', 'costs:0.2776', 'food:0.2522', 'agency:0.163', 'surging:0.0611']"
+        ]
+    ],
+    "RUS+UKR+61":[
+        [
+            "20220723+../news_crawling/RUS_UKR/p_articles/i24news.tv/US pledges 270m in military aid to Ukraine peace seems far off.txt+eventbasecode61+eventcode61+avgtone0.5+goldsteinscale0.82+nummentions0.013425253991291727+numarticles0.013778100072516316+numsources0.03289473684210526+news_keywords+['ukraine:0.5093', 'ceasefire:0.4475', 'negotiate:0.2774', 'agreement:0.2762', 'territory:0.2555', 'government:0.2538', 'promise:0.2356', 'zelensky:0.2328', 'table:0.2284', 'biden:0.2238', 'announce:0.2137', 'continue:0.1914', 'drone:0.19', 'sign:0.188', 'east:0.1869', 'hostility:0.1861', 'long:0.1843', 'wall:0.18', 'friday:0.1768', 'preliminary:0.1694', 'clear:0.1603', 'support:0.1566', 'live:0.1493', 'send:0.1449', 'make:0.1261', 'billion:0.1243', 'deadly:0.102', 'unblock:0.0892', 'himars:0.0606', 'unless:0.0486']+titles_keywords+['ukraine:0.4177', 'peace:0.2714', 'aid:0.2697', '270m:0.2533', 'pledges:0.2445']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/i24news.tv/Ramadan shoppers face soaring prices at grocery stores.txt+eventbasecode61+eventcode61+avgtone0.4850187265917603+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ramadan:0.5108', 'lebanon:0.3372', 'oil:0.323', 'muslim:0.2873', 'crisis:0.2729', 'afford:0.2707', 'farhan:0.2601', 'grocery:0.2558', 'shipping:0.2049', 'list:0.1986', 'live:0.1968', 'strike:0.1958', 'global:0.1905', 'price:0.1888', 'concern:0.1846', 'soar:0.1838', 'rimawi:0.1808', 'prepare:0.1758', 'import:0.1729', 'stock:0.1675', 'like:0.1557', 'explain:0.1517', 'difficult:0.14', 'number:0.1351', 'scrap:0.1346', 'politician:0.1333', 'holy:0.0956', 'middle:0.0911', 'theyve:0.0817', 'additionally:0.0734']+titles_keywords+['ramadan:0.4786', 'grocery:0.3495', 'prices:0.2874', 'soaring:0.0765', 'face:0.0292']"
+        ],
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/i24news.tv/Ukraines key food exports fell by almost half since Russian invasion.txt+eventbasecode61+eventcode61+avgtone0.4852320675105485+goldsteinscale0.82+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.5028', 'russias:0.3597', 'commodity:0.2779', 'harvest:0.2525', 'oil:0.2489', 'production:0.2288', 'grain:0.2284', 'invasion:0.2116', 'soybean:0.2103', 'export:0.185', 'feed:0.1833', 'military:0.1668', 'month:0.1413', 'seaport:0.134', 'fight:0.1282', 'period:0.1258', 'unblock:0.1164', 'fell:0.1138', 'data:0.1013', 'people:0.1', 'unharvested:0.0964', 'open:0.0882', 'begin:0.0822', 'half:0.0801', 'million:0.0793', 'low:0.074', 'capable:0.0411', 'deal:0.033', 'accord:0.0285', 'significantly:0.014']+titles_keywords+['ukraines:0.4117', 'exports:0.2625', 'fell:0.1837', 'half:0.1832', 'food:0.1781']"
+        ]
+    ]
+}

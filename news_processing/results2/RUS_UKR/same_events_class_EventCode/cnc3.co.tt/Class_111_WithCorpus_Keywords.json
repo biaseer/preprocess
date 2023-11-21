@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+111":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/cnc3.co.tt/Putin recognizes Ukraine rebel regions independence.txt+eventbasecode111+eventcode111+avgtone0.4669724770642202+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4959', 'putin:0.4811', 'natos:0.4006', 'separatist:0.3787', 'annexation:0.3701', 'sovereignty:0.3187', 'moscows:0.306', 'boris:0.282', 'peace:0.2483', 'crisis:0.2326', 'bloc:0.2157', 'breakaway:0.2046', 'decide:0.1969', 'decree:0.1965', 'concern:0.1894', 'reject:0.1894', 'warn:0.1891', 'table:0.1838', 'recognize:0.1697', 'pitting:0.139', 'turn:0.1371', 'advance:0.1307', 'join:0.1272', 'right:0.1194', 'residential:0.1084', 'wider:0.1053', 'send:0.0734', 'televised:0.0712', 'josep:0.0642', 'technology:0.0594']+titles_keywords+['ukraine:0.5104', 'putin:0.4095', 'independence:0.3641', 'rebel:0.2467', 'recognizes:0.16']"
+        ]
+    ],
+    "RUS+WST+111":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/cnc3.co.tt/RussiaUkraine war Key things to know about the conflict.txt+eventbasecode111+eventcode111+avgtone0.4761904761904762+goldsteinscale0.4+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.019736842105263157+news_keywords+['kyiv:0.5701', 'demilitarization:0.415', 'kremlin:0.4136', 'evacuate:0.3977', 'civilianshave:0.3697', 'natos:0.3536', 'war:0.3438', 'mosque:0.2842', 'expand:0.2733', 'town:0.2374', 'aid:0.2362', 'know:0.2282', 'table:0.2261', 'ongoing:0.2225', 'journalist:0.2216', 'corridor:0.2094', 'fleeukraine:0.2031', 'northeast:0.2023', 'kilometer:0.1974', 'pipe:0.1935', 'participate:0.1752', 'siren:0.1641', 'end:0.1637', 'cover:0.1589', 'interrupt:0.1531', 'satellite:0.1481', 'left:0.1468', 'additional:0.144', 'unverified:0.1297', 'send:0.1156']+titles_keywords+['russiaukraine:0.4639', 'war:0.424', 'know:0.18', 'things:0.1701', 'key:0.0945']"
+        ]
+    ]
+}

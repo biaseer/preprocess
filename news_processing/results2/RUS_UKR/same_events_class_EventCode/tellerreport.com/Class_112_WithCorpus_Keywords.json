@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+112":[
+        [
+            "20220819+../news_crawling/RUS_UKR/p_articles/tellerreport.com/Lukashenko said that Belarus has no plans to attack Ukraine.txt+eventbasecode112+eventcode112+avgtone0.47863247863247865+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['minsk:0.4942', 'belarus:0.4779', 'lukashenko:0.4455', 'nato:0.3969', 'belarusian:0.3921', 'russia:0.3224', 'attack:0.3219', 'brest:0.3061', 'war:0.2609', 'viktor:0.246', 'bloc:0.2036', 'president:0.1999', 'alexander:0.1942', 'khrenin:0.188', 'bomb:0.1758', 'planning:0.1621', 'territory:0.1569', 'informs:0.1502', 'say:0.1449', 'believe:0.1217', 'preventive:0.112', 'trip:0.1083', 'im:0.1059', 'operation:0.1002', 'dont:0.0998', 'earlier:0.0765', 'belta:0.0732', 'kind:0.0349', 'entire:0.0213', 'special:0.0185']+titles_keywords+['lukashenko:0.5012', 'belarus:0.4329', 'attack:0.1984', 'plans:0.1341', 'said:0.0436']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/tellerreport.com/Burning of a Russian army structure near the Ukrainian border.txt+eventbasecode112+eventcode112+avgtone0.474+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4569', 'gladkov:0.3997', 'kursk:0.3899', 'evacuate:0.304', 'belgorod:0.2882', 'war:0.2863', 'border:0.2791', 'municipality:0.2788', 'emergency:0.2654', 'civilian:0.2365', 'railway:0.2299', 'investigating:0.222', 'burning:0.2207', 'casualty:0.2177', 'governor:0.2017', 'azovstal:0.2001', 'kilometer:0.1949', 'structure:0.18', 'law:0.176', 'telegram:0.1757', 'problem:0.1591', 'accuse:0.1547', 'additional:0.1438', 'indicate:0.1435', 'cause:0.1299', 'broke:0.1118', 'level:0.1108', 'person:0.1052', 'earlier:0.0786', 'little:0.0608']+titles_keywords+['ukrainian:0.4132', 'burning:0.326', 'army:0.2964', 'structure:0.1724', 'near:0.1151']"
+        ]
+    ]
+}

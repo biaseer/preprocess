@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+130":[
+        [
+            "20220129+../news_crawling/RUS_UKR/p_articles/sydneysun.com/Ukraine NATO Differ on Imminence of Russian Attack.txt+eventbasecode130+eventcode130+avgtone0.4766269477543538+goldsteinscale0.27999999999999997+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.029605263157894735+news_keywords+['ukraine:0.4785', 'nato:0.4238', 'invade:0.4208', 'kremlin:0.3653', 'yanukovych:0.3544', 'alarmism:0.2898', 'destabilize:0.254', 'armed:0.2217', 'economy:0.221', 'tank:0.2183', 'reinforce:0.2124', 'diplomatic:0.2063', 'eventuality:0.1894', 'know:0.1677', 'leave:0.1673', 'news:0.1609', 'cite:0.1568', 'analyst:0.1553', 'order:0.1531', 'continue:0.1511', 'thursday:0.1427', 'suspect:0.1404', 'ready:0.1382', 'format:0.1331', 'rift:0.1326', 'long:0.1193', 'nearly:0.1097', 'dmytro:0.103', 'aside:0.1007', 'issue:0.0914']+titles_keywords+['nato:0.4868', 'russian:0.3341', 'attack:0.317', 'imminence:0.1662', 'differ:0.1463']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/sydneysun.com/AsiaPacific stock markets slide amid Russia sanctions.txt+eventbasecode130+eventcode130+avgtone0.48582995951417+goldsteinscale0.27999999999999997+nummentions0.10957910014513789+numarticles0.11022480058013052+numsources0.16447368421052633+news_keywords+['russia:0.4552', 'economy:0.3045', 'sanction:0.2969', 'nikkei:0.2781', 'donetsk:0.2558', 'demilitarize:0.2428', 'shanghai:0.2347', 'stock:0.2306', 'asiapacific:0.2151', 'attack:0.1985', 'operation:0.1884', 'toyota:0.1839', 'aircraft:0.1802', 'drop:0.1778', 'slide:0.1744', 'begin:0.1634', 'index:0.1624', 'exchange:0.1621', 'anisputnik:0.161', 'march:0.1607', 'gmt:0.1391', 'stress:0.1375', 'respond:0.1183', 'spasx:0.1084', 'point:0.0971', 'sign:0.0946', 'include:0.0859', 'amid:0.0781', 'official:0.0583', 'possible:0.0372']+titles_keywords+['sanctions:0.3293', 'russia:0.2385', 'asiapacific:0.2267', 'slide:0.1807', 'stock:0.1647']"
+        ]
+    ]
+}

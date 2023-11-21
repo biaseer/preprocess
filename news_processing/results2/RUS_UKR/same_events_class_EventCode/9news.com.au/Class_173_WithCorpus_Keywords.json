@@ -1,0 +1,15 @@
+{
+    "GBR+RUS+173":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/9news.com.au/UK seizes Russian billionaires lavish 24m yacht.txt+eventbasecode173+eventcode173+avgtone0.47131147540983603+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['yacht:0.4764', 'putin:0.4576', 'billionaire:0.3544', 'shapps:0.3145', 'london:0.3122', 'superyacht:0.3096', 'lavish:0.2613', 'crime:0.2462', 'transport:0.2348', 'wharf:0.2129', 'maltese:0.2054', 'grant:0.2011', 'nevis:0.1846', 'agency:0.1839', 'freshwater:0.1765', 'mr:0.1671', 'flag:0.1546', 'seize:0.1542', 'bright:0.1417', 'metre:0.1379', 'hide:0.1363', 'concept:0.1245', 'tuesday:0.1153', 'official:0.1084', 'refit:0.101', 'say:0.0939', 'st:0.0928', 'infinite:0.0882', 'accord:0.085', 'include:0.0496']+titles_keywords+['yacht:0.438', 'russian:0.3125', 'billionaires:0.2237', '24m:0.2111', 'seizes:0.188']"
+        ]
+    ],
+    "RUS+UKR+173":[
+        [
+            "20210827+../news_crawling/RUS_UKR/p_articles/9news.com.au/Researchers find Stalinera mass graves dating back to the 1930s.txt+eventbasecode173+eventcode173+avgtone0.475+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['stalinera:0.5637', 'soviet:0.4309', 'ukraine:0.3413', 'grave:0.3098', 'oddessa:0.2625', 'victim:0.2404', 'repression:0.2339', 'kill:0.2307', 'gutsalyuk:0.1999', 'famine:0.1947', 'remains:0.1858', 'researchers:0.1717', 'people:0.1671', 'police:0.1584', 'city:0.1504', 'southern:0.1471', 'graf:0.1422', 'sergiy:0.1422', 'identifying:0.1184', 'mass:0.1105', 'secret:0.1079', 'mr:0.1032', 'possible:0.1', 'thousand:0.0959', 'large:0.0892', 'afp:0.0835', 'late:0.0772', 'head:0.0752', 'memory:0.0679', 'record:0.0433']+titles_keywords+['stalinera:0.5826', '1930s:0.3005', 'graves:0.2721', 'researchers:0.1867', 'mass:0.1075']"
+        ],
+        [
+            "20211202+../news_crawling/RUS_UKR/p_articles/9news.com.au/US warns Russia as Kremlin talks about war threat in Ukraine.txt+eventbasecode173+eventcode173+avgtone0.47822374039282667+goldsteinscale0.25+nummentions0.13243831640058054+numarticles0.13306744017403915+numsources0.14473684210526316+news_keywords+['nato:0.4476', 'ukraine:0.4476', 'kremlin:0.4179', 'diplomacy:0.4069', 'dmitry:0.3289', 'destabilisation:0.2868', 'eastward:0.2856', 'threat:0.2823', 'cybersecurity:0.2625', 'escalate:0.2584', 'annex:0.2535', 'osce:0.24', 'separatist:0.2258', 'skirmish:0.2257', 'arrangement:0.2041', 'worry:0.201', 'turn:0.1875', 'agreement:0.1864', 'flare:0.1851', 'develop:0.1823', 'reporter:0.174', 'term:0.1466', 'amnesty:0.1412', 'thursday:0.1386', 'end:0.1305', 'follow:0.1259', 'renew:0.1257', 'fsb:0.1145', 'include:0.103', 'strong:0.078']+titles_keywords+['kremlin:0.4361', 'ukraine:0.3704', 'warns:0.3061', 'war:0.2714', 'threat:0.2645']"
+        ]
+    ]
+}

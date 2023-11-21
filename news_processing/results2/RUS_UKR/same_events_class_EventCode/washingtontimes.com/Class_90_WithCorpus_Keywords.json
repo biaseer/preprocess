@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+90":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Russian reports Ukraine sent saboteurs into disputed region at the center of tensions with Moscow.txt+eventbasecode90+eventcode90+avgtone0.480225988700565+goldsteinscale0.4+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['ukraine:0.4727', 'nato:0.4142', 'invade:0.3996', 'novoazovsk:0.3153', 'military:0.2897', 'operation:0.2363', 'border:0.2285', 'dpr:0.2155', 'saboteur:0.207', 'news:0.1971', 'report:0.1871', 'pretext:0.1764', 'breakaway:0.172', 'stage:0.1598', 'playbook:0.1562', 'donbass:0.1547', 'search:0.1409', 'come:0.1379', 'tension:0.1372', 'near:0.1339', 'coordination:0.12', 'people:0.1198', 'shell:0.1119', 'state:0.111', 'cite:0.0965', 'dispute:0.0947', 'right:0.0896', 'send:0.0812', 'array:0.0521', 'interfax:0.0505']+titles_keywords+['ukraine:0.485', 'saboteurs:0.4539', 'tensions:0.1962', 'disputed:0.1111', 'sent:0.0275']"
+        ]
+    ],
+    "USA+UKR+90":[
+        [
+            "20220622+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Microsoft Russian cyber spying targets 42 Ukraine allies.txt+eventbasecode90+eventcode90+avgtone0.47785547785547783+goldsteinscale0.4+nummentions0.07039187227866474+numarticles0.07106598984771574+numsources0.08223684210526316+news_keywords+['cyberattacks:0.5215', 'nato:0.4442', 'russias:0.4372', 'ukrainian:0.4281', 'spy:0.4198', 'propaganda:0.387', 'microsoft:0.3481', 'invade:0.3075', 'virus:0.3017', 'government:0.2901', 'operation:0.2436', 'threat:0.2424', 'targeted:0.2356', 'data:0.2299', 'washington:0.228', 'report:0.1916', 'example:0.1741', 'assistance:0.1681', 'deflect:0.1663', 'notpetya:0.1659', 'donbas:0.1446', 'coinciding:0.1425', 'capability:0.1375', 'ap:0.1352', 'month:0.1233', 'think:0.1217', 'conduit:0.1073', 'page:0.0991', 'nearly:0.0912', 'center:0.0882']+titles_keywords+['ukraine:0.4116', 'microsoft:0.3753', 'spying:0.3628', 'allies:0.3383', '42:0.2159']"
+        ]
+    ]
+}

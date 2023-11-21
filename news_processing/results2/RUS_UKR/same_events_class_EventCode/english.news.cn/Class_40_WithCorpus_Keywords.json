@@ -1,0 +1,27 @@
+{
+    "DEU+UKR+40":[
+        [
+            "20220529+../news_crawling/RUS_UKR/p_articles/english.news.cn/Putin discusses Ukraine situation food security with Macron Scholz.txt+eventbasecode40+eventcode40+avgtone0.48214285714285715+goldsteinscale0.55+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.01644736842105263+news_keywords+['putin:0.5233', 'ukraine:0.4739', 'macron:0.3331', 'destabilize:0.2947', 'humanitarian:0.2864', 'economic:0.256', 'supply:0.255', 'conversation:0.2229', 'negotiator:0.2211', 'inform:0.2163', 'sanction:0.2149', 'crisis:0.2132', 'xinhua:0.2109', 'agricultural:0.1743', 'global:0.1656', 'increase:0.1598', 'help:0.1458', 'port:0.1391', 'export:0.1355', 'erroneous:0.1303', 'scholz:0.1276', 'note:0.1248', 'cause:0.1036', 'open:0.1028', 'relevant:0.1002', 'resume:0.0988', 'hold:0.0923', 'include:0.0908', 'arm:0.0787', 'black:0.0672']+titles_keywords+['putin:0.4691', 'macron:0.3738', 'food:0.2405', 'scholz:0.1901', 'discusses:0.1795']"
+        ]
+    ],
+    "EGY+RUS+40":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/english.news.cn/Egypt Ukraine leaders discuss RussiaUkraine peace talks over phone.txt+eventbasecode40+eventcode40+avgtone0.5113636363636364+goldsteinscale0.55+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['ukraine:0.3874', 'putin:0.3851', 'negotiation:0.2949', 'talk:0.293', 'peaceful:0.288', 'sisi:0.2826', 'zelensky:0.2759', 'president:0.2721', 'cairo:0.2433', 'engage:0.2351', 'xinhua:0.2305', 'operation:0.1983', 'addressing:0.179', 'counterpart:0.1682', 'crisis:0.1623', 'leading:0.1514', 'achieve:0.1512', 'ongoing:0.1403', 'current:0.1298', 'emphasize:0.1183', 'abdel:0.11', 'bilateral:0.1021', 'brief:0.0917', 'wednesday:0.081', 'authorize:0.0804', 'phone:0.0788', 'start:0.0689', 'level:0.0567', 'recently:0.02', 'rady:0.0073']+titles_keywords+['ukraine:0.3434', 'talks:0.2805', 'peace:0.2795', 'leaders:0.1753', 'phone:0.1513']"
+        ]
+    ],
+    "EUR+UKR+40":[
+        [
+            "20220808+../news_crawling/RUS_UKR/p_articles/english.news.cn/Ukrainian European Council leaders discuss situation at Zaporizhzhia NPP.txt+eventbasecode40+eventcode40+avgtone0.47890295358649787+goldsteinscale0.55+nummentions0.013788098693759071+numarticles0.011965192168237854+numsources0.009868421052631578+news_keywords+['kiev:0.4919', 'nuclear:0.4354', 'zelensky:0.346', 'europe:0.2631', 'sanction:0.2376', 'power:0.2341', 'volodymyr:0.2229', 'strike:0.2164', 'report:0.2113', 'submunitions:0.2001', 'troop:0.1942', 'accuse:0.1929', 'launch:0.1916', 'news:0.1912', 'administration:0.18', 'energodar:0.1731', 'situation:0.1546', 'talk:0.151', 'plant:0.1503', 'fell:0.1251', 'npp:0.1195', 'mm:0.1118', 'generate:0.1078', 'state:0.1071', 'uragan:0.1055', 'late:0.0973', 'spend:0.0841', 'large:0.0706', 'tass:0.0537', 'total:0.0437']+titles_keywords+['zaporizhzhia:0.3543', 'council:0.2454', 'npp:0.1669', 'european:0.1427', 'situation:0.1273']"
+        ]
+    ],
+    "RUS+TUR+40":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/english.news.cn/Erdogan Putin discuss Ukraine crisis over phone.txt+eventbasecode40+eventcode40+avgtone0.5028735632183907+goldsteinscale0.55+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.019736842105263157+news_keywords+['erdogan:0.4872', 'putin:0.4445', 'ukraine:0.3992', 'ceasefire:0.3798', 'kremlin:0.3373', 'turkish:0.315', 'ankaramoscow:0.2641', 'conversation:0.2221', 'xinhua:0.2171', 'urgent:0.214', 'presidency:0.2109', 'crisis:0.1962', 'agreement:0.1842', 'concern:0.1745', 'achieve:0.1591', 'soon:0.1534', 'phone:0.1478', 'plan:0.1388', 'emphasize:0.1149', 'hold:0.1101', 'explain:0.1091', 'general:0.1086', 'authority:0.1081', 'current:0.1024', 'ready:0.0961', 'partner:0.0904', 'possible:0.0883', 'allow:0.0874', 'discus:0.0837', 'corridor:0.0812']+titles_keywords+['putin:0.4521', 'ukraine:0.3937', 'discuss:0.2436', 'phone:0.224', 'crisis:0.2174']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/english.news.cn/German Bundestag approves delivery of heavy weapons to Ukraine.txt+eventbasecode40+eventcode40+avgtone0.5061224489795919+goldsteinscale0.55+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['nato:0.5033', 'bundestag:0.4058', 'russia:0.3669', 'kiev:0.3471', 'treaty:0.3442', 'briefing:0.259', 'german:0.2584', 'tank:0.2539', 'democratic:0.2411', 'conflict:0.2409', 'gepard:0.2365', 'weapon:0.2361', 'escalation:0.2113', 'aircraft:0.2071', 'union:0.201', 'thursday:0.1937', 'xinhua:0.1901', 'approve:0.1893', 'deliveries:0.1766', 'ahead:0.1697', 'support:0.1506', 'direct:0.1356', 'include:0.1322', 'prolong:0.1119', 'corresponding:0.1105', 'alternative:0.1055', 'donbass:0.101', 'right:0.0964', 'reach:0.0784', 'low:0.072']+titles_keywords+['bundestag:0.3867', 'ukraine:0.3448', 'weapons:0.2765', 'approves:0.1513', 'heavy:0.1391']"
+        ]
+    ]
+}

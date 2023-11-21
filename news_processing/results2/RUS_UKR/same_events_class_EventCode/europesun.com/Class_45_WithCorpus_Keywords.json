@@ -1,0 +1,22 @@
+{
+    "CHN+UKR+45":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/europesun.com/Facts about RussiaUkraine conflict peace talks continue daily.txt+eventbasecode45+eventcode45+avgtone0.48715596330275235+goldsteinscale0.75+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.019736842105263157+news_keywords+['ukraine:0.4528', 'ceasefire:0.4428', 'putin:0.4274', 'diplomatic:0.4157', 'negotiations:0.3529', 'escalate:0.2517', 'economy:0.2479', 'medinsky:0.2256', 'telegram:0.2254', 'develop:0.2248', 'delegation:0.2168', 'news:0.2062', 'continue:0.205', 'tension:0.2042', 'clarification:0.1989', 'outcome:0.1983', 'pandemic:0.1925', 'unchanged:0.1881', 'corridor:0.1848', 'world:0.1582', 'issue:0.1548', 'current:0.1478', 'additional:0.1302', 'format:0.1181', 'tomorrow:0.1097', 'head:0.1002', 'far:0.0953', 'relevant:0.0926', 'million:0.0796', 'definition:0.0744']+titles_keywords+['russiaukraine:0.4266', 'conflict:0.3679', 'facts:0.3102', 'daily:0.2642', 'continue:0.2203']"
+        ]
+    ],
+    "RUS+TUR+45":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/europesun.com/World Insights RussiaUkraine talks constructive to settle conflict.txt+eventbasecode45+eventcode45+avgtone0.4982425307557118+goldsteinscale0.75+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['crimea:0.4621', 'ceasefire:0.4517', 'treaty:0.4393', 'putin:0.37', 'negotiation:0.3665', 'militarily:0.3518', 'moscowkiev:0.3187', 'escalation:0.2897', 'mutually:0.2326', 'consultation:0.2163', 'delegation:0.1843', 'zelensky:0.1755', 'continue:0.1755', 'soon:0.165', 'formulate:0.1602', 'long:0.1505', 'xinhua:0.1452', 'predict:0.1391', 'hold:0.136', 'stage:0.1337', 'official:0.1237', 'fix:0.1197', 'equal:0.1147', 'current:0.1042', 'receive:0.1004', 'state:0.0982', 'say:0.097', 'exactly:0.0895', 'sphere:0.0863', 'arm:0.0758']+titles_keywords+['russiaukraine:0.4722', 'conflict:0.3998', 'settle:0.3502', 'talks:0.3362', 'constructive:0.3012']"
+        ]
+    ],
+    "RUS+UKR+45":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/europesun.com/India can play mediators role between Moscow and Kyiv Russian FM Lavrov.txt+eventbasecode45+eventcode45+avgtone0.4940898345153664+goldsteinscale0.75+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['mediate:0.389', 'ukraine:0.3805', 'lavrov:0.3377', 'war:0.2715', 'strategic:0.2636', 'federation:0.2623', 'indo:0.262', 'relations:0.2497', 'responding:0.2033', 'rupee:0.1998', 'supply:0.1979', 'regime:0.1923', 'develop:0.1894', 'friend:0.1644', 'visit:0.1414', 'term:0.1349', 'minister:0.1341', 'sanction:0.1335', 'buy:0.1326', 'believe:0.1148', 'resolution:0.1139', 'possibility:0.1124', 'end:0.0967', 'ready:0.0931', 'friday:0.0872', 'say:0.0854', 'laud:0.0835', 'aim:0.0568', 'true:0.0465', 'characterize:0.0461']+titles_keywords+['lavrov:0.4468', 'mediators:0.383', 'kyiv:0.3748', 'india:0.1629', 'play:0.0913']"
+        ]
+    ],
+    "TUR+RUS+45":[
+        [
+            "20220731+../news_crawling/RUS_UKR/p_articles/europesun.com/UN ship brings food relief from Ukraine to Horn of Africa.txt+eventbasecode45+eventcode45+avgtone0.4796573875802998+goldsteinscale0.75+nummentions0.017779390420899856+numarticles0.01849166062364032+numsources0.019736842105263157+news_keywords+['rwanda:0.4986', 'humanitarian:0.46', 'refugee:0.4274', 'war:0.3861', 'blockade:0.3799', 'drought:0.3117', 'shipment:0.3101', 'provide:0.2993', 'kyiv:0.2982', 'nations:0.2964', 'ration:0.2735', 'initiative:0.2643', 'alleviate:0.2551', 'wheat:0.2383', 'displace:0.2359', 'wfp:0.2205', 'people:0.2031', 'exporter:0.1897', 'flow:0.1775', 'north:0.1758', 'problem:0.1755', 'begin:0.1668', 'explain:0.1563', 'alem:0.1523', 'million:0.1509', 'dramatic:0.149', 'soar:0.1247', 'soon:0.094', 'possible:0.0926', 'especially:0.0489']+titles_keywords+['ukraine:0.3283', 'ship:0.3265', 'africa:0.3248', 'food:0.2832', 'horn:0.1916']"
+        ]
+    ]
+}

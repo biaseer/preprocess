@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220129+../news_crawling/RUS_UKR/p_articles/latimes.com/Residents of Ukrainian rebel region are encouraged to join Russian army.txt+eventbasecode154+eventcode154+avgtone0.4832089552238806+goldsteinscale0.13999999999999999+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.013157894736842105+news_keywords+['ukraine:0.4491', 'nato:0.3654', 'treaty:0.3528', 'invade:0.3397', 'federation:0.2792', 'troop:0.2599', 'lavrov:0.2492', 'agreement:0.2348', 'political:0.1948', 'want:0.1924', 'future:0.192', 'authorize:0.1903', 'concern:0.1851', 'leave:0.178', 'draft:0.1671', 'wont:0.1611', 'integrate:0.1591', 'continue:0.1542', 'drill:0.1518', 'explain:0.1472', 'outline:0.132', 'secretary:0.1245', 'unhoused:0.1183', 'pose:0.1151', 'intermediate:0.1082', 'far:0.0914', 'possible:0.0844', 'welcome:0.0839', 'radio:0.0726', 'dozens:0.0618']+titles_keywords+['ukrainian:0.4347', 'army:0.2994', 'join:0.2765', 'rebel:0.2235', 'encouraged:0.1409']"
+        ],
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/latimes.com/Why is Putin obsessed with Ukraine.txt+eventbasecode154+eventcode154+avgtone0.48913043478260865+goldsteinscale0.13999999999999999+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['putin:0.556', 'crimea:0.4692', 'ukraines:0.4635', 'oligarch:0.336', 'nationalist:0.3256', 'diplomacy:0.3202', 'invade:0.2911', 'pipeline:0.2141', 'narrative:0.1971', 'want:0.1949', 'fear:0.1924', 'know:0.1903', 'obsess:0.1891', 'crony:0.1811', 'ominous:0.1747', 'peninsula:0.1595', 'volodymyr:0.1516', 'stay:0.1479', 'like:0.1436', 'swath:0.1401', 'separate:0.1386', 'refer:0.1378', 'state:0.1353', 'inclination:0.1312', 'end:0.1206', 'ostensibly:0.1024', 'big:0.1022', 'current:0.0906', 'harris:0.0541', 'month:0.0465']+titles_keywords+['putin:0.5442', 'ukraine:0.4732', 'obsessed:0.2961']"
+        ]
+    ]
+}

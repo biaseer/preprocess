@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+163":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/leicestermercury.co.uk/Tesco joins supermarket boycott of Russialinked products including vodka.txt+eventbasecode163+eventcode163+avgtone0.49177877428998507+goldsteinscale0.1+nummentions0.03193033381712627+numarticles0.032632342277012324+numsources0.02631578947368421+news_keywords+['vodka:0.5013', 'russias:0.4436', 'russian:0.4397', 'kiev:0.4368', 'boycott:0.4045', 'russialinked:0.3897', 'tesco:0.3443', 'product:0.2512', 'remove:0.2384', 'invasion:0.2377', 'headline:0.2273', 'chicken:0.1896', 'good:0.1811', 'organisation:0.1659', 'fear:0.1658', 'standard:0.1646', 'intensify:0.1605', 'list:0.1586', 'cross:0.1579', 'soon:0.1541', 'importing:0.1533', 'point:0.1437', 'humanitarian:0.1366', 'subscribe:0.132', 'range:0.1294', 'fourth:0.1208', 'wholly:0.1203', 'weve:0.117', 'longer:0.0996', 'shelve:0.0797']+titles_keywords+['vodka:0.4307', 'tesco:0.3796', 'boycott:0.3439', 'russialinked:0.2787', 'products:0.2044']"
+        ]
+    ],
+    "GBR+RUS+163":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/leicestermercury.co.uk/Ukraine lunchtime briefing Russian troops defect while Vladimir Putin faces trouble at home.txt+eventbasecode163+eventcode163+avgtone0.473202614379085+goldsteinscale0.1+nummentions0.027939042089985485+numarticles0.028281363306744016+numsources0.04276315789473684+news_keywords+['ukraine:0.5091', 'comrade:0.4802', 'putins:0.423', 'nato:0.4044', 'troop:0.3852', 'kadyrov:0.3376', 'colonel:0.2907', 'government:0.2785', 'battle:0.2512', 'disinformation:0.2498', 'headline:0.2361', 'depart:0.2264', 'plugotarenko:0.2247', 'brilev:0.2184', 'table:0.2175', 'dangerous:0.2068', 'rt:0.2022', 'switch:0.1938', 'telegram:0.193', 'experts:0.1747', 'brief:0.1648', 'soon:0.1624', 'plummet:0.1582', 'want:0.1508', 'alongside:0.1463', 'subdivision:0.1403', 'capability:0.1367', 'point:0.1346', 'hundreds:0.1149', 'study:0.1035']+titles_keywords+['putin:0.4859', 'briefing:0.3455', 'troops:0.265', 'trouble:0.2018', 'home:0.1491']"
+        ]
+    ]
+}

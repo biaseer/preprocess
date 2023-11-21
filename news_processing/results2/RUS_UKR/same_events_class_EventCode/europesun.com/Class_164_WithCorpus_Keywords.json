@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+164":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/europesun.com/Russia Ukraine end 3rd round of peace talks with no significant results.txt+eventbasecode164+eventcode164+avgtone0.49642857142857144+goldsteinscale0.15+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4568', 'result:0.3925', 'peace:0.3829', 'russia:0.3608', 'significant:0.2949', 'talk:0.2913', 'round:0.2725', 'rd:0.217', 'end:0.2013']+titles_keywords+['ukraine:0.3674', 'peace:0.3092', 'results:0.2931', 'round:0.1986', '3rd:0.1874']"
+        ],
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/europesun.com/Lavrov says end of RussiaUkraine talks not good for US.txt+eventbasecode164+eventcode164+avgtone0.4960317460317461+goldsteinscale0.15+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['lavrov:0.4219', 'ukraine:0.4206', 'russiaukraine:0.4011', 'negotiation:0.3015', 'proceed:0.2507', 'talk:0.2418', 'engage:0.2287', 'political:0.2081', 'end:0.1719', 'anisputnik:0.1687', 'unprofitable:0.162', 'want:0.1608', 'good:0.1421', 'rid:0.1408', 'read:0.1364', 'weapon:0.1332', 'long:0.1175', 'quickly:0.1108', 'western:0.11', 'united:0.1001', 'hold:0.0954', 'say:0.0946', 'minister:0.0917', 'beneficial:0.0865', 'wednesday:0.081', 'possible:0.0798', 'fact:0.0787', 'pump:0.0653', 'impression:0.0572', 'mgimo:0.0423']+titles_keywords+['lavrov:0.4735', 'russiaukraine:0.3298', 'talks:0.236', 'end:0.1919', 'good:0.1517']"
+        ]
+    ],
+    "UKR+RUS+164":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/europesun.com/Ukraine seeking ceasefire troop withdrawal at talks with Russia.txt+eventbasecode164+eventcode164+avgtone0.4805825242718446+goldsteinscale0.15+nummentions0.015602322206095792+numarticles0.016316171138506162+numsources0.01644736842105263+news_keywords+['ceasefire:0.5055', 'kiev:0.4459', 'ukrainian:0.4429', 'russia:0.3445', 'troop:0.2675', 'peace:0.2559', 'podolyak:0.2464', 'negotiation:0.2278', 'mykhailo:0.22', 'withdrawal:0.1973', 'march:0.1862', 'xinhua:0.171', 'presidential:0.17', 'delegation:0.1637', 'talk:0.161', 'advisor:0.1586', 'monday:0.1498', 'remain:0.1488', 'unchanged:0.1266', 'neighborly:0.1178', 'position:0.1153', 'twitter:0.1068', 'say:0.1047', 'immediate:0.0987', 'round:0.0903', 'video:0.0853', 'statement:0.078', 'ready:0.0723', 'fourth:0.0695', 'relation:0.0512']+titles_keywords+['ukraine:0.4263', 'ceasefire:0.3918', 'troop:0.2139', 'withdrawal:0.2044', 'talks:0.164']"
+        ]
+    ]
+}

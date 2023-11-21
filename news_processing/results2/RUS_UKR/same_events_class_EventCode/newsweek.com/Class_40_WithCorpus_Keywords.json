@@ -1,0 +1,26 @@
+{
+    "CHE+RUS+40":[
+        [
+            "20220112+../news_crawling/RUS_UKR/p_articles/newsweek.com/Russia Tells US To Not Arm Ukraine As It Assembles Nearly 130k Troops at Border.txt+eventbasecode40+eventcode40+avgtone0.4826530612244898+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4602', 'nato:0.4455', 'diplomatic:0.32', 'deploy:0.2799', 'lavrov:0.2254', 'border:0.2192', 'attack:0.213', 'ahead:0.213', 'administration:0.2125', 'expect:0.2034', 'preparation:0.1998', 'warn:0.1936', 'ammunition:0.1876', 'reposition:0.1861', 'newsweek:0.1829', 'friday:0.1796', 'biden:0.1777', 'end:0.1739', 'analysts:0.1693', 'deadlock:0.164', 'want:0.1631', 'forces:0.1475', 'arm:0.1354', 'state:0.1344', 'hysteria:0.1315', 'nearly:0.1307', 'split:0.1177', 'right:0.1094', 'million:0.0909', 'new:0.0783']+titles_keywords+['ukraine:0.415', 'troops:0.2716', 'arm:0.2078', 'assembles:0.1581', '130k:0.1313']"
+        ]
+    ],
+    "DEU+RUS+40":[
+        []
+    ],
+    "RUS+RUS+40":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/newsweek.com/The Threat of Nuclear War Should Not Be Underestimated Kremlin Says.txt+eventbasecode40+eventcode40+avgtone0.4593572778827977+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4036', 'nuclear:0.402', 'nato:0.3979', 'ukraine:0.3775', 'war:0.3273', 'threat:0.2985', 'lavrov:0.2504', 'escalation:0.2413', 'warn:0.2132', 'rhetoric:0.1847', 'concerns:0.182', 'hypothetical:0.1777', 'newsweek:0.1774', 'tactical:0.1759', 'translation:0.1329', 'horrify:0.1262', 'frenzied:0.1159', 'begin:0.1124', 'underestimate:0.1121', 'secretary:0.1029', 'retire:0.0943', 'week:0.0867', 'test:0.0788', 'later:0.0771', 'state:0.0751', 'long:0.0712', 'direct:0.0576', 'highlight:0.0489', 'says:0.0264', 'kirby:0.0198']+titles_keywords+['kremlin:0.4589', 'nuclear:0.4027', 'threat:0.3225', 'underestimated:0.3037', 'says:0.0646']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/newsweek.com/Russian POWs Vow to Rise Up Against Putin When They Get Home.txt+eventbasecode40+eventcode40+avgtone0.47388059701492535+goldsteinscale0.55+nummentions0.08127721335268505+numarticles0.07831762146482958+numsources0.12828947368421054+news_keywords+['putin:0.4575', 'kyiv:0.422', 'ukrainians:0.4067', 'war:0.2976', 'demilitarize:0.2939', 'fascism:0.2832', 'cnn:0.2747', 'troop:0.2721', 'captured:0.2699', 'communicate:0.2675', 'disinformation:0.2665', 'operation:0.2584', 'disclose:0.226', 'know:0.2206', 'justify:0.2154', 'leave:0.2023', 'order:0.1905', 'deaths:0.1531', 'child:0.1447', 'station:0.1403', 'horrify:0.1382', 'later:0.1358', 'like:0.1354', 'long:0.1242', 'look:0.123', 'professional:0.1216', 'direct:0.1212', 'bare:0.0904', 'state:0.0848', 'offer:0.0836']+titles_keywords+['putin:0.3679', 'pows:0.3067', 'rise:0.2143', 'vow:0.1483', 'home:0.1108']",
+            "20220317+../news_crawling/RUS_UKR/p_articles/newsweek.com/Nestles Russia Ties Puts Company in Twitter Users Crosshairs.txt+eventbasecode40+eventcode40+avgtone0.47297297297297297+goldsteinscale0.55+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['nestle:0.5184', 'ukraine:0.4605', 'putin:0.4505', 'stoprussia:0.4035', 'boycott:0.3182', 'usa:0.3116', 'federation:0.2812', 'company:0.2781', 'conflict:0.2756', 'kitkat:0.274', 'supply:0.2605', 'invade:0.2413', 'terror:0.2312', 'capital:0.2273', 'hryshchuk:0.2263', 'news:0.2258', 'report:0.2013', 'spokesperson:0.1873', 'direct:0.1536', 'conclude:0.1497', 'like:0.1461', 'ties:0.1405', 'stratcom:0.1391', 'recognize:0.1338', 'plan:0.1319', 'non:0.1246', 'baby:0.1099', 'crosshairs:0.1063', 'talked:0.0984', 'million:0.0968']+titles_keywords+['nestles:0.5669', 'russia:0.352', 'twitter:0.346', 'ties:0.179', 'crosshairs:0.1509']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/newsweek.com/What Putin Wing ExColonel Douglas Macgregor Has Said About Ukraine War.txt+eventbasecode40+eventcode40+avgtone0.4839357429718876+goldsteinscale0.55+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.01644736842105263+news_keywords+['putin:0.4647', 'ukrainians:0.4145', 'propaganda:0.3904', 'correspondent:0.3694', 'nato:0.3358', 'ceasefire:0.3354', 'invasion:0.2868', 'conflictand:0.2798', 'zelenskyy:0.2635', 'headline:0.2563', 'puppet:0.2548', 'macgregor:0.2432', 'suspect:0.2393', 'apologist:0.2366', 'gop:0.2356', 'pushback:0.2306', 'predict:0.2291', 'fox:0.2267', 'refer:0.2044', 'end:0.1992', 'term:0.193', 'know:0.1813', 'neutral:0.1748', 'stage:0.1745', 'interview:0.1737', 'stay:0.1629', 'fourth:0.1422', 'like:0.1286', 'days:0.1243', 'deal:0.0831']+titles_keywords+['putin:0.4486', 'war:0.3364', 'macgregor:0.3062', 'douglas:0.2675', 'said:0.1078']"
+        ]
+    ]
+}

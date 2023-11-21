@@ -1,0 +1,30 @@
+{
+    "AUS+UKR+61":[
+        [
+            "20220705+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Australia removes tariffs on imports from Ukraine for a year.txt+eventbasecode61+eventcode61+avgtone0.4953917050691245+goldsteinscale0.82+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.487', 'tariff:0.4684', 'import:0.2801', 'australian:0.2521', 'remove:0.2158', 'government:0.1859', 'volodymyr:0.1826', 'reduce:0.1793', 'package:0.1692', 'ukrinform:0.164', 'zero:0.152', 'correspondent:0.1509', 'tobacco:0.15', 'aggression:0.1457', 'good:0.1396', 'illegal:0.1353', 'unilateral:0.1347', 'prime:0.1309', 'equivalent:0.1296', 'manufactured:0.126', 'reminder:0.1222', 'albanese:0.1181', 'fuel:0.115', 'july:0.1072', 'range:0.0959', 'period:0.0956', 'follow:0.0822', 'visit:0.0818', 'farrell:0.0723', 'condemns:0.0693']+titles_keywords+['tariffs:0.3915', 'ukraine:0.3485', 'imports:0.2044', 'removes:0.1631', 'year:0.1256']"
+        ]
+    ],
+    "EUR+RUS+61":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/ukrinform.net/More sanctions full energy embargo needed to make Russia stop war on Ukraine intl YermakMcFaul.txt+eventbasecode61+eventcode61+avgtone0.47745098039215683+goldsteinscale0.82+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['sanctions:0.5092', 'ukraine:0.4355', 'kremlin:0.3744', 'war:0.2781', 'roadmap:0.1888', 'prevent:0.1888', 'convince:0.1856', 'disconnection:0.1841', 'approve:0.18', 'reduce:0.176', 'commensurate:0.1752', 'preparation:0.1679', 'end:0.1656', 'import:0.1656', 'emphasize:0.1635', 'soon:0.1625', 'reorientation:0.1567', 'respond:0.1555', 'implication:0.1502', 'gazprombank:0.1489', 'hydrocarbon:0.1455', 'financial:0.1341', 'fully:0.1312', 'include:0.1188', 'sixth:0.1185', 'month:0.1176', 'combination:0.0985', 'look:0.0965', 'welcome:0.0813', 'frozen:0.0577']+titles_keywords+['sanctions:0.4872', 'ukraine:0.4296', 'stop:0.2027', 'energy:0.1975', 'needed:0.1241']"
+        ]
+    ],
+    "LBN+UKR+61":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/ukrinform.net/US at UN Russia blocking in Black Sea more than 90 ships carrying food.txt+eventbasecode61+eventcode61+avgtone0.4834710743801653+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.4422', 'putin:0.3721', 'agribusiness:0.2597', 'oil:0.2495', 'invasion:0.2254', 'wheat:0.2025', 'block:0.1789', 'security:0.1676', 'consequence:0.1664', 'exacerbate:0.1545', 'global:0.1538', 'include:0.1385', 'port:0.1371', 'quantity:0.124', 'cut:0.1168', 'black:0.1102', 'good:0.1029', 'brief:0.1003', 'carry:0.1002', 'sherman:0.0953', 'directly:0.0942', 'send:0.094', 'secretary:0.0895', 'reach:0.0757', 'data:0.0742', 'according:0.0736', 'underscore:0.0681', 'felt:0.0571', 'hesitant:0.0432', 'middle:0.0336']+titles_keywords+['russia:0.3354', 'blocking:0.3105', 'ships:0.2973', 'black:0.1539', '90:0.0985']"
+        ]
+    ],
+    "RUS+UKR+61":[
+        [
+            "20210703+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Russia expands ban on imports from Ukraine.txt+eventbasecode61+eventcode61+avgtone0.484304932735426+goldsteinscale0.82+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.5026', 'russian:0.3926', 'prohibit:0.3272', 'import:0.3177', 'confectionery:0.2634', 'government:0.225', 'oil:0.2177', 'list:0.209', 'ukrinform:0.1975', 'broth:0.1919', 'barley:0.1869', 'industry:0.1727', 'legal:0.1725', 'make:0.1642', 'report:0.1458', 'cabinet:0.1429', 'march:0.1124', 'ice:0.1119', 'prepared:0.1089', 'read:0.1073', 'sauce:0.099', 'type:0.0927', 'offal:0.0854', 'expanded:0.0815', 'statement:0.0586', 'semis:0.049', 'unroasted:0.0485', 'add:0.0425', 'fraction:-0.0029', 'msli:-0.0167']+titles_keywords+['ukraine:0.4424', 'russia:0.3636', 'imports:0.2593', 'ban:0.2541', 'expands:0.1442']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20210929+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukraines ban on power imports from Russia Belarus extended until November.txt+eventbasecode61+eventcode61+avgtone0.49635036496350365+goldsteinscale0.82+nummentions0.006168359941944848+numarticles0.005438723712835388+numsources0.003289473684210526+news_keywords+['ukraine:0.5323', 'utilities:0.3559', 'legislation:0.2813', 'import:0.2671', 'power:0.2644', 'neurc:0.262', 'interstate:0.1999', 'ukrinform:0.1914', 'entry:0.1824', 'ban:0.1779', 'correspondent:0.1718', 'transmission:0.1664', 'extend:0.1602', 'report:0.1382', 'certification:0.1367', 'entitle:0.1168', 'need:0.1155', 'bandwidth:0.1107', 'crossing:0.1104', 'september:0.0984', 'auction:0.0965', 'decision:0.0926', 'memo:0.0835', 'new:0.0833', 'community:0.0825', 'resume:0.055', 'limit:0.0506', 'daily:0.038', 'party:0.0347', 'according:-0.0008']+titles_keywords+['belarus:0.4387', 'ban:0.2348', 'power:0.1464', 'november:0.1342', 'extended:0.1057']"
+        ],
+        [
+            "20220619+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukraine bans book imports from Russia Belarus.txt+eventbasecode61+eventcode61+avgtone0.4885057471264368+goldsteinscale0.82+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.476', 'import:0.3386', 'prohibit:0.3283', 'book:0.3005', 'print:0.2978', 'verkhovna:0.274', 'publish:0.2691', 'law:0.2438', 'territory:0.2334', 'parliament:0.2315', 'language:0.2307', 'security:0.2301', 'ukrinform:0.2222', 'correspondent:0.2154', 'license:0.2058', 'report:0.1933', 'telegram:0.1907', 'introduce:0.184', 'agreement:0.1737', 'product:0.1728', 'make:0.1551', 'national:0.1503', 'terminate:0.1435', 'vote:0.1353', 'people:0.1274', 'rules:0.1232', 'pavlo:0.1162', 'rada:0.0936', 'temporarily:0.0803', 'addition:0.0646']+titles_keywords+['belarus:0.4123', 'ukraine:0.3723', 'book:0.353', 'imports:0.2407', 'bans:0.2126']"
+        ]
+    ]
+}

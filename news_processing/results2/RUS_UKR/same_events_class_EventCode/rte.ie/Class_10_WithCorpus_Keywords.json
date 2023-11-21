@@ -1,0 +1,25 @@
+{
+    "BLR+UKR+10":[
+        [
+            "20220629+../news_crawling/RUS_UKR/p_articles/rte.ie/HMs secondquarter profit beats expectations.txt+eventbasecode10+eventcode10+avgtone0.5110294117647058+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['zara:0.4163', 'hms:0.3647', 'sales:0.3551', 'company:0.3464', 'ukraine:0.3387', 'store:0.3295', 'fashion:0.3202', 'profit:0.3093', 'disruption:0.2689', 'chain:0.2546', 'inditex:0.2481', 'compare:0.2478', 'lockdown:0.2461', 'world:0.2297', 'quarterly:0.229', 'flock:0.2207', 'covid:0.216', 'statement:0.2122', 'slump:0.2008', 'say:0.1903', 'year:0.1896', 'increase:0.1815', 'big:0.1768', 'pretax:0.1734', 'report:0.1727', 'helmersson:0.1688', 'rival:0.1684', 'markdowns:0.1677', 'despite:0.144', 'helena:0.1427']+titles_keywords+['hms:0.4927', 'profit:0.3388', 'expectations:0.2869', 'secondquarter:0.1865', 'beats:0.1855']"
+        ]
+    ],
+    "RUS+RUS+10":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/rte.ie/Zelensky waiting for positive signal on EU membership for Ukraine.txt+eventbasecode10+eventcode10+avgtone0.47698744769874474+goldsteinscale0.5+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.04276315789473684+news_keywords+['kyiv:0.5137', 'putin:0.4055', 'diplomatic:0.3212', 'zelensky:0.3076', 'eu:0.2909', 'disinformation:0.2565', 'bloodshed:0.242', 'remain:0.2391', 'walkout:0.2271', 'parliament:0.2266', 'translator:0.2098', 'applause:0.1998', 'bloc:0.1939', 'know:0.1907', 'enlargement:0.1623', 'yevheniia:0.1582', 'immediately:0.1561', 'end:0.1558', 'make:0.1552', 'brace:0.1539', 'poise:0.1506', 'include:0.1404', 'meps:0.1387', 'sure:0.1359', 'update:0.1352', 'track:0.1023', 'similar:0.0954', 'major:0.0807', 'year:0.0778', 'http:0.0649']+titles_keywords+['zelensky:0.5426', 'eu:0.2461', 'waiting:0.2452', 'positive:0.2033', 'signal:0.1554']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220511+../news_crawling/RUS_UKR/p_articles/rte.ie/Hell on Earth Faces of the last fighters in Azovstal.txt+eventbasecode10+eventcode10+avgtone0.46201232032854206+goldsteinscale0.5+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.013157894736842105+news_keywords+['kyiv:0.5072', 'war:0.4146', 'azov:0.3469', 'survive:0.3279', 'reuters:0.3236', 'evacuate:0.3211', 'bombardment:0.3178', 'regiment:0.3046', 'prokopenko:0.2957', 'epidemic:0.2919', 'erupt:0.2895', 'hell:0.2644', 'mortality:0.2636', 'sewerage:0.2595', 'steelworks:0.25', 'vulnerable:0.2442', 'warning:0.2203', 'hear:0.2106', 'continue:0.2093', 'turn:0.193', 'vadym:0.1906', 'bastion:0.182', 'care:0.1813', 'antibiotic:0.1787', 'increase:0.1757', 'thousand:0.1487', 'ombudswoman:0.1457', 'right:0.1369', 'red:0.1344', 'week:0.0893']+titles_keywords+['fighters:0.4415', 'azovstal:0.3823', 'hell:0.3508', 'faces:0.348', 'earth:0.1897']"
+        ],
+        [
+            "20220617+../news_crawling/RUS_UKR/p_articles/rte.ie/Russian attitudes to Ukrainians can help to explain war crimes.txt+eventbasecode10+eventcode10+avgtone0.46956521739130436+goldsteinscale0.5+nummentions0.00362844702467344+numarticles0.003988397389412618+numsources0.006578947368421052+news_keywords+['ukrainians:0.5379', 'crimea:0.4891', 'soviet:0.469', 'putin:0.4474', 'genocide:0.4054', 'propaganda:0.4013', 'repression:0.3274', 'nazi:0.3258', 'crime:0.3065', 'war:0.2925', 'patriotism:0.2913', 'statehood:0.2678', 'hierarchy:0.2367', 'compatriot:0.2348', 'annex:0.2146', 'article:0.2107', 'describes:0.2029', 'visa:0.1999', 'naive:0.1811', 'faustian:0.1724', 'rt:0.1654', 'fact:0.1611', 'say:0.1435', 'greeted:0.1318', 'list:0.1301', 'help:0.1237', 'wipe:0.1118', 'integration:0.1108', 'untold:0.1077', 'higher:0.1014']+titles_keywords+['ukrainians:0.5047', 'war:0.3096', 'crimes:0.2902', 'attitudes:0.2019', 'help:0.0665']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220628+../news_crawling/RUS_UKR/p_articles/rte.ie/Locals dismiss Russias absurd shopping centre strike claim.txt+eventbasecode10+eventcode10+avgtone0.4629032258064516+goldsteinscale0.5+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.05263157894736842+news_keywords+['kyiv:0.5449', 'russias:0.3797', 'war:0.3301', 'erupt:0.3165', 'unprovoked:0.3013', 'demolish:0.2996', 'counterattack:0.2887', 'zelensky:0.2822', 'separatist:0.2641', 'baseless:0.253', 'infrastructure:0.2362', 'journalist:0.2319', 'hear:0.2152', 'urgent:0.2004', 'refinery:0.1956', 'afp:0.1949', 'live:0.1866', 'immediately:0.1764', 'term:0.1735', 'telegram:0.1692', 'pretext:0.1684', 'enter:0.1681', 'intact:0.1621', 'pushintseva:0.1608', 'look:0.152', 'centre:0.1515', 'commander:0.1215', 'big:0.1207', 'february:0.1153', 'dozens:0.1003']+titles_keywords+['russias:0.3146', 'strike:0.2869', 'absurd:0.2206', 'shopping:0.1484', 'centre:0.1397']"
+        ]
+    ]
+}

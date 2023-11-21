@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+72":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/The Role of a Soldier.txt+eventbasecode72+eventcode72+avgtone0.48706896551724144+goldsteinscale0.915+nummentions0.03701015965166909+numarticles0.03770848440899202+numsources0.029605263157894735+news_keywords+['soldier:0.4955', 'putin:0.4557', 'troop:0.4258', 'ukraine:0.4129', 'russian:0.3638', 'sergei:0.3637', 'vladimir:0.3606', 'journalist:0.3326', 'role:0.3313', 'scenario:0.2618', 'president:0.2317', 'possible:0.2023', 'nonsense:0.1116', 'send:0.0858', 'loiko:0.0825', 'press:0.0654', 'reply:0.0512', 'ask:0.0424', 'like:0.0361', 'los:0.0271', 'conference:0.0093', 'complete:0.0058', 'times:0.005', 'angeles:-0.0343']+titles_keywords+['soldier:0.7627', 'role:0.4282']"
+        ],
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/Russia Sees Start of New Cold War.txt+eventbasecode72+eventcode72+avgtone0.48+goldsteinscale0.915+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['putin:0.4475', 'vladimir:0.4039', 'moscow:0.4035', 'ukraine:0.3737', 'war:0.3338', 'cold:0.1762', 'continuation:0.1684', 'february:0.1648', 'troop:0.1614', 'start:0.1601', 'history:0.1544', 'new:0.1442', 'current:0.1401', 'relation:0.1331', 'dark:0.1301', 'report:0.1214', 'sign:0.1159', 'european:0.1013', 'state:0.0975', 'send:0.0972', 'period:0.0828', 'divide:0.071', 'say:0.07', 'heal:0.0698', 'west:0.0629', 'sees:0.0383', 'encapsulate:0.0335', 'museum:0.0244', 'analyst:0.0092', 'harton:-0.0267']+titles_keywords+['russia:0.3781', 'war:0.3244', 'cold:0.2245', 'new:0.216', 'start:0.2006']"
+        ]
+    ]
+}

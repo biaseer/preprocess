@@ -1,0 +1,17 @@
+{
+    "BEL+RUS+112":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/politico.eu/Out to lunch Russian envoy to EU claims packed schedule despite public freezeout.txt+eventbasecode112+eventcode112+avgtone0.48787061994609165+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['diplomat:0.4301', 'putin:0.4298', 'crimea:0.4121', 'moscows:0.3903', 'nato:0.3841', 'chizhovs:0.3609', 'politico:0.276', 'affair:0.2571', 'strategy:0.24', 'expel:0.2379', 'osce:0.2361', 'bloc:0.2337', 'talk:0.2323', 'know:0.2314', 'scope:0.2305', 'union:0.2216', 'timeline:0.2198', 'word:0.1853', 'misperceptions:0.1829', 'severity:0.1804', 'come:0.1733', 'long:0.1677', 'make:0.1646', 'wryly:0.1555', 'end:0.1525', 'direct:0.1448', 'friday:0.1318', 'request:0.1276', 'lot:0.1274', 'hed:0.0883']+titles_keywords+['lunch:0.3533', 'schedule:0.3447', 'russian:0.3159', 'envoy:0.2794', 'freezeout:0.1914']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/politico.eu/Kyiv bans Independence Day festivities amid Russian strike fears.txt+eventbasecode112+eventcode112+avgtone0.4716981132075472+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.5718', 'ukraines:0.4608', 'zelenskyy:0.3546', 'putin:0.3471', 'independence:0.3102', 'curfew:0.3042', 'nationalist:0.2927', 'celebration:0.2443', 'invasion:0.2311', 'infrastructure:0.2288', 'event:0.2249', 'darya:0.2233', 'military:0.2074', 'shelter:0.207', 'strike:0.2016', 'embassy:0.1974', 'ban:0.1973', 'escalation:0.1966', 'kill:0.1842', 'weekend:0.1841', 'alert:0.174', 'launch:0.1712', 'fearing:0.1508', 'mayor:0.1473', 'month:0.132', 'come:0.124', 'order:0.1208', 'say:0.1163', 'state:0.0908', 'possibility:0.0441']+titles_keywords+['kyiv:0.5122', 'festivities:0.2931', 'independence:0.2814', 'bans:0.1771', 'day:0.1561']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220806+../news_crawling/RUS_UKR/p_articles/politico.eu/IAEA chief warns of very real risk of disaster at Ukraine nuclear plant.txt+eventbasecode112+eventcode112+avgtone0.4653179190751445+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['nuclear:0.4134', 'kyiv:0.3867', 'iaea:0.3416', 'safety:0.3013', 'warns:0.2945', 'zelenskyy:0.2904', 'russias:0.2849', 'concern:0.2813', 'disaster:0.2286', 'military:0.2266', 'terror:0.2201', 'operation:0.2128', 'firepower:0.2043', 'facility:0.1832', 'president:0.1511', 'plant:0.1395', 'undermine:0.1376', 'strike:0.1335', 'information:0.1304', 'blame:0.1289', 'statement:0.1143', 'play:0.1055', 'worker:0.1044', 'head:0.0982', 'direct:0.0901', 'grossi:0.0701', 'real:0.0641', 'potentially:0.0551', 'long:0.04', 'add:0.0287']+titles_keywords+['nuclear:0.395', 'iaea:0.3802', 'warns:0.3032', 'ukraine:0.2885', 'chief:0.1157']"
+        ]
+    ]
+}

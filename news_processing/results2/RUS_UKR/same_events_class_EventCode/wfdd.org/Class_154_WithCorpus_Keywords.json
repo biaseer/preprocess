@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220123+../news_crawling/RUS_UKR/p_articles/wfdd.org/Threat of Russian invasion escalates as both sides amass troops at Ukraine border.txt+eventbasecode154+eventcode154+avgtone0.42105263157894746+goldsteinscale0.13999999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['invasion:0.4238', 'ukraine:0.3923', 'troop:0.3423', 'threat:0.3398', 'border:0.3335', 'russian:0.3252', 'escalate:0.3224', 'amass:0.0682']+titles_keywords+['invasion:0.3779', 'ukraine:0.3349', 'escalates:0.2895', 'threat:0.2567', 'sides:0.1465']"
+        ],
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/wfdd.org/Russia confirms casualties in Ukraine ahead of the next round of talks.txt+eventbasecode154+eventcode154+avgtone0.464080459770115+goldsteinscale0.13999999999999999+nummentions0.10050798258345428+numarticles0.10116026105873821+numsources0.11513157894736842+news_keywords+['ukraine:0.4466', 'kremlin:0.4085', 'nato:0.3698', 'war:0.3555', 'zelenskyy:0.2972', 'military:0.2944', 'casualty:0.2936', 'news:0.2746', 'disinformation:0.2618', 'invasion:0.2469', 'kill:0.2418', 'prepare:0.2111', 'tally:0.193', 'negotiator:0.1858', 'estimate:0.1824', 'thursday:0.18', 'talk:0.18', 'president:0.1741', 'end:0.171', 'report:0.1672', 'unverified:0.1602', 'remain:0.1602', 'fine:0.1523', 'word:0.1508', 'cite:0.1468', 'outlet:0.1339', 'delegations:0.1322', 'medium:0.1048', 'focus:0.0755', 'special:0.0587']+titles_keywords+['casualties:0.4563', 'ukraine:0.4246', 'round:0.1422', 'confirms:0.1263', 'talks:0.1221']"
+        ]
+    ]
+}

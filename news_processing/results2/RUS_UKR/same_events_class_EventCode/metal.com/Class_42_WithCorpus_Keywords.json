@@ -1,0 +1,12 @@
+{
+    "RUS+TUR+42":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/metal.com/SMM Morning Comments Mar 10 LME and SHFE Base Metals Closed All with Losses amid.txt+eventbasecode42+eventcode42+avgtone0.4884281581485053+goldsteinscale0.595+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.006578947368421052+news_keywords+['nickel:0.3917', 'fluctuate:0.3385', 'bullish:0.3333', 'inventory:0.2907', 'profit:0.2843', 'current:0.2801', 'cpi:0.266', 'downstream:0.2449', 'news:0.241', 'shanghai:0.2405', 'shfe:0.2303', 'increase:0.2246', 'resumption:0.2212', 'talk:0.2089', 'february:0.2033', 'reading:0.2029', 'follow:0.1983', 'lme:0.1944', 'macro:0.1942', 'affected:0.1772', 'structure:0.1722', 'global:0.1679', 'tense:0.165', 'sanction:0.1648', 'sufficient:0.1643', 'importing:0.1584', 'olympics:0.1563', 'longer:0.1538', 'mt:0.149', 'possible:0.1313']+titles_keywords+['lme:0.4483', 'shfe:0.3108', 'metals:0.299', 'smm:0.2986', 'closed:0.2554']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/metal.com/Ferrous Products Prices Dropped Slightly Last Week amid Frequent Government Regulations.txt+eventbasecode42+eventcode42+avgtone0.48030634573304154+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['inventory:0.3551', 'market:0.3499', 'fluctuation:0.3454', 'production:0.2952', 'coal:0.2933', 'week:0.2787', 'concern:0.2571', 'winter:0.2559', 'current:0.2526', 'ferrous:0.252', 'future:0.2455', 'transaction:0.2426', 'increase:0.233', 'beijing:0.2297', 'requirement:0.2146', 'prices:0.2094', 'diverge:0.2078', 'reduce:0.2034', 'activity:0.203', 'policy:0.1996', 'import:0.1987', 'hold:0.1984', 'pb:0.1716', 'covid:0.1653', 'resume:0.149', 'open:0.1479', 'poor:0.1403', 'smm:0.1338', 'point:0.1071', 'possible:0.105']+titles_keywords+['ferrous:0.3456', 'regulations:0.2192', 'prices:0.2015', 'dropped:0.1439', 'week:0.1088']"
+        ]
+    ]
+}

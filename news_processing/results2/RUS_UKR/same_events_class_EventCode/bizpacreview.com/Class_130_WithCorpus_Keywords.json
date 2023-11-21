@@ -1,0 +1,12 @@
+{
+    "AUS+RUS+130":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/bizpacreview.com/Joint advisory against Russian cyber attacks released as US financial sector fights new SEC regulations.txt+eventbasecode130+eventcode130+avgtone0.4781105990783411+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['cybersecurity:0.5094', 'government:0.3523', 'nato:0.3456', 'cisa:0.3302', 'ukrainian:0.325', 'sanction:0.3067', 'news:0.2982', 'organization:0.2815', 'input:0.268', 'advisory:0.2661', 'disclose:0.2542', 'spam:0.2501', 'sector:0.2429', 'invasion:0.2366', 'liberal:0.2272', 'pipeline:0.2239', 'scope:0.2197', 'hear:0.2126', 'omnibus:0.1942', 'preparing:0.1911', 'exchange:0.1883', 'like:0.1876', 'catastrophic:0.1781', 'word:0.1778', 'thursday:0.1768', 'apts:0.1715', 'doxing:0.1686', 'increase:0.162', 'despite:0.1506', 'checker:0.1357']+titles_keywords+['advisory:0.3756', 'russian:0.242', 'cyber:0.2365', 'attacks:0.2148', 'sec:0.1612']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/bizpacreview.com/Countries snubbing Biden signs of postAmerican era Blind CNN finds a truth nut.txt+eventbasecode130+eventcode130+avgtone0.4927884615384615+goldsteinscale0.27999999999999997+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nato:0.4133', 'geopolitical:0.3975', 'postamerican:0.3842', 'biden:0.3248', 'unify:0.2688', 'economic:0.265', 'liberal:0.2501', 'conclusion:0.2436', 'world:0.236', 'news:0.2206', 'decade:0.2202', 'invasion:0.2177', 'uae:0.2148', 'posit:0.2002', 'eastern:0.1972', 'decline:0.1955', 'forth:0.1844', 'input:0.1824', 'urgent:0.1577', 'board:0.1346', 'push:0.1328', 'allude:0.1307', 'snub:0.1294', 'ready:0.1218', 'dimension:0.1137', 'state:0.1121', 'glance:0.1088', 'outlook:0.1082', 'define:0.0952', 'necessarily:0.0749']+titles_keywords+['biden:0.5255', 'postamerican:0.3849', 'cnn:0.3667', 'snubbing:0.2044', 'countries:0.1887']"
+        ]
+    ]
+}

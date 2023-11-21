@@ -1,0 +1,27 @@
+{
+    "GBR+RUS+20":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/countytimes.co.uk/Welsh leader calls for solidarity as Russia invades Ukraine.txt+eventbasecode20+eventcode20+avgtone0.4692211055276381+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4673', 'putins:0.408', 'invade:0.3726', 'labour:0.3285', 'authoritarian:0.3156', 'bloodshed:0.3068', 'refugee:0.2944', 'boris:0.2927', 'demilitarise:0.2817', 'threat:0.2791', 'standwithukraine:0.2679', 'cymru:0.2557', 'underway:0.2291', 'peace:0.2265', 'disinformation:0.2248', 'remain:0.2231', 'weaponised:0.2169', 'sanction:0.2095', 'neighbouring:0.2079', 'worry:0.2026', 'prepared:0.2024', 'debate:0.2022', 'future:0.1863', 'order:0.1758', 'josep:0.1495', 'statement:0.1488', 'gmt:0.1466', 'basic:0.1276', 'unfold:0.1076', 'entirely:0.1072']+titles_keywords+['solidarity:0.3584', 'ukraine:0.3456', 'welsh:0.3279', 'leader:0.2519', 'invades:0.2267']"
+        ]
+    ],
+    "HUN+RUS+20":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/countytimes.co.uk/Zelensky addresses EU leaders as divisions remain over oil embargo.txt+eventbasecode20+eventcode20+avgtone0.48819742489270385+goldsteinscale0.65+nummentions0.10304789550072568+numarticles0.10369833212472807+numsources0.22039473684210525+news_keywords+['ukraine:0.4443', 'kremlin:0.394', 'embargo:0.3921', 'oil:0.336', 'diplomat:0.3055', 'roubles:0.2983', 'blocs:0.2964', 'government:0.2874', 'gazprom:0.282', 'orban:0.2758', 'zelensky:0.2635', 'agreement:0.2577', 'pipeline:0.2466', 'table:0.2204', 'sector:0.2169', 'talk:0.2033', 'form:0.1985', 'remind:0.1976', 'order:0.1866', 'expectation:0.1664', 'summit:0.1629', 'forward:0.1594', 'issue:0.1558', 'lucrative:0.1544', 'source:0.1489', 'make:0.1422', 'week:0.1384', 'bogged:0.1233', 'ready:0.1176', 'metre:0.0895']+titles_keywords+['zelensky:0.4319', 'embargo:0.2973', 'oil:0.2731', 'eu:0.2638', 'leaders:0.1974']"
+        ]
+    ],
+    "POL+RUS+20":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/countytimes.co.uk/Johnson helping Ukraine more thanks to British public pressure Zelensky says.txt+eventbasecode20+eventcode20+avgtone0.48329048843187655+goldsteinscale0.65+nummentions0.2144412191582003+numarticles0.21501087744742567+numsources0.3223684210526316+news_keywords+['putin:0.4388', 'ukraines:0.4278', 'nato:0.3905', 'invade:0.3169', 'conflict:0.3138', 'neutrality:0.2798', 'escalation:0.2762', 'speak:0.2357', 'want:0.1945', 'reiterate:0.1943', 'logistically:0.1897', 'volodymyr:0.1884', 'row:0.1789', 'term:0.178', 'feed:0.1764', 'help:0.1761', 'secretary:0.175', 'afraid:0.1625', 'vote:0.1619', 'end:0.1527', 'korean:0.1522', 'powerful:0.1487', 'ready:0.1479', 'make:0.1456', 'unscripted:0.1452', 'agree:0.1131', 'house:0.1031', 'deep:0.1013', 'antony:0.0874', 'month:0.0766']+titles_keywords+['zelensky:0.4409', 'ukraine:0.3697', 'johnson:0.2798', 'british:0.1875', 'helping:0.1351']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/countytimes.co.uk/LETTER Welsh Government deserves credit for standing up for refugees.txt+eventbasecode20+eventcode20+avgtone0.48654708520179374+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['refugees:0.5408', 'welsh:0.4282', 'refuge:0.3575', 'accommodation:0.315', 'parliament:0.3011', 'plight:0.2915', 'borders:0.2837', 'detention:0.2816', 'ukraine:0.2737', 'nation:0.2407', 'debate:0.2268', 'privilege:0.2157', 'undermines:0.1934', 'abused:0.1909', 'reaffirmation:0.1884', 'unsafe:0.1875', 'away:0.1873', 'community:0.1871', 'turn:0.1572', 'issue:0.1548', 'agree:0.1444', 'fairly:0.1395', 'withdraw:0.1337', 'chaos:0.1335', 'reader:0.1324', 'comment:0.1273', 'welcome:0.1247', 'want:0.1223', 'end:0.0879', 'share:0.0307']+titles_keywords+['refugees:0.4917', 'welsh:0.4187', 'letter:0.3066', 'deserves:0.1812', 'standing:0.0305']"
+        ]
+    ],
+    "RUS+USA+20":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/countytimes.co.uk/Putin and Biden plan highstakes phone call in bid to resolve Ukraine crisis.txt+eventbasecode20+eventcode20+avgtone0.48393378773125606+goldsteinscale0.65+nummentions0.27322206095791+numarticles0.2737490935460479+numsources0.4506578947368421+news_keywords+['ukraine:0.5099', 'kremlin:0.4541', 'natos:0.4216', 'invade:0.3529', 'embassy:0.3459', 'provocations:0.3377', 'political:0.3355', 'adviser:0.3009', 'separatist:0.297', 'crisis:0.289', 'escalate:0.2881', 'border:0.2854', 'pentagon:0.2796', 'misinformation:0.2788', 'announce:0.2752', 'biden:0.2711', 'zakharova:0.2646', 'reporter:0.262', 'capital:0.2547', 'productive:0.2413', 'prepare:0.2328', 'concern:0.2327', 'rail:0.1975', 'winter:0.1947', 'telephone:0.1938', 'additional:0.1857', 'hour:0.1667', 'left:0.1524', 'combination:0.1505', 'like:0.142']+titles_keywords+['putin:0.4119', 'biden:0.3877', 'bid:0.2089', 'plan:0.1976', 'phone:0.1913']"
+        ]
+    ]
+}

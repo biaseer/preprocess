@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/publicradioeast.org/Russian troops continue push into east and south Ukraine.txt+eventbasecode190+eventcode190+avgtone0.48936170212765956+goldsteinscale0.0+nummentions0.05333817126269957+numarticles0.05402465554749819+numsources0.0625+news_keywords+['nato:0.471', 'kyiv:0.4184', 'ukrainians:0.4114', 'putin:0.354', 'troop:0.285', 'weapon:0.2328', 'colonel:0.231', 'soon:0.2263', 'prepare:0.225', 'conflict:0.2208', 'shifting:0.2189', 'flank:0.2124', 'know:0.2008', 'long:0.1802', 'status:0.1664', 'advantage:0.1628', 'propel:0.1607', 'eastern:0.1591', 'join:0.1471', 'interpreter:0.1449', 'hold:0.1444', 'grade:0.1425', 'end:0.1422', 'partner:0.1421', 'term:0.1421', 'new:0.1353', 'stoltenberg:0.1251', 'send:0.1098', 'interoperable:0.1082', 'welcome:0.0811']+titles_keywords+['ukraine:0.3775', 'push:0.2783', 'troops:0.2686', 'continue:0.2424', 'east:0.1634']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/publicradioeast.org/Ukrainian troops battle Russian troops to keep hold of Kyiv.txt+eventbasecode190+eventcode190+avgtone0.4464285714285715+goldsteinscale0.0+nummentions0.7060957910014514+numarticles0.6918056562726613+numsources0.694078947368421+news_keywords+['kyiv:0.5676', 'ukrainians:0.499', 'troop:0.3931', 'evacuation:0.3821', 'fight:0.291', 'underway:0.2791', 'transform:0.2582', 'know:0.2304', 'regime:0.2304', 'school:0.2261', 'missile:0.2179', 'countryman:0.2114', 'chaotic:0.2025', 'remind:0.1971', 'report:0.191', 'listen:0.1898', 'want:0.1814', 'video:0.1726', 'proud:0.1698', 'night:0.164', 'sign:0.1606', 'fake:0.1587', 'like:0.1479', 'child:0.1424', 'wail:0.1412', 'thousand:0.1242', 'second:0.1212', 'thanks:0.1118', 'completely:0.1093', 'rent:0.1036']+titles_keywords+['kyiv:0.5499', 'russian:0.3604', 'battle:0.2844', 'troops:0.2256', 'hold:0.1944']"
+        ]
+    ]
+}

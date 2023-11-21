@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/cambridge-news.co.uk/Ukraine latest Zelenskyy website down after another night of attacks by Russia.txt+eventbasecode87+eventcode874+avgtone0.47052845528455284+goldsteinscale1.0+nummentions0.0693033381712627+numarticles0.06997824510514866+numsources0.05263157894736842+news_keywords+['ukraine:0.5488', 'putin:0.4812', 'moscows:0.3712', 'zelenskyy:0.3279', 'refugee:0.3218', 'invasion:0.3095', 'strategic:0.2829', 'rouble:0.265', 'destroy:0.2451', 'predict:0.228', 'flee:0.2248', 'tank:0.2239', 'know:0.2201', 'news:0.219', 'ahead:0.2116', 'revise:0.2019', 'delegation:0.2001', 'people:0.1705', 'midnight:0.1665', 'safe:0.1662', 'tally:0.1478', 'world:0.1438', 'ready:0.1373', 'buk:0.1326', 'prove:0.1173', 'major:0.1166', 'mr:0.1083', 'mep:0.1018', 'aerial:0.0785', 'icc:0.063']+titles_keywords+['zelenskyy:0.5243', 'ukraine:0.3868', 'website:0.2725', 'attacks:0.2299', 'night:0.1869']"
+        ],
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/cambridge-news.co.uk/Ukraine will fight Russia for Donbas says President Zelensky full speech in English.txt+eventbasecode87+eventcode874+avgtone0.49913344887348354+goldsteinscale1.0+nummentions0.09941944847605225+numarticles0.09209572153734591+numsources0.1513157894736842+news_keywords+['ukraine:0.5088', 'war:0.3834', 'diplomatic:0.3631', 'troop:0.2949', 'talk:0.2938', 'zelensky:0.2825', 'warn:0.253', 'democratic:0.244', 'know:0.2416', 'deliver:0.2274', 'remain:0.217', 'newsletter:0.2111', 'biden:0.21', 'acknowledge:0.2096', 'prepare:0.1993', 'priorities:0.1976', 'turn:0.1932', 'begin:0.1904', 'result:0.1902', 'thursday:0.185', 'describing:0.1819', 'occupier:0.1801', 'donbas:0.1745', 'current:0.159', 'direct:0.1502', 'hour:0.1499', 'mr:0.1441', 'request:0.1307', 'thank:0.119', 'new:0.1188']+titles_keywords+['zelensky:0.4679', 'ukraine:0.4284', 'donbas:0.3386', 'fight:0.2947', 'speech:0.2004']"
+        ]
+    ]
+}

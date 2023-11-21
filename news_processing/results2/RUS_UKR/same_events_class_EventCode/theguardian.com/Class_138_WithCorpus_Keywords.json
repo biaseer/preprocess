@@ -1,0 +1,15 @@
+{
+    "GBR+RUS+138":[
+        [
+            "20220128+../news_crawling/RUS_UKR/p_articles/theguardian.com/GCHQs National Cyber Security Centre said that while it was unaware of any specific threats.txt+eventbasecode138+eventcode138+avgtone0.4697452229299363+goldsteinscale0.15+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['cybersecurity:0.5276', 'ukraine:0.4058', 'ransomware:0.3155', 'gchq:0.3143', 'attack:0.2752', 'warn:0.2608', 'concern:0.2382', 'bitcoin:0.2317', 'strategic:0.2312', 'organisation:0.2185', 'investigate:0.2006', 'know:0.1989', 'jargon:0.1644', 'update:0.1592', 'incident:0.1484', 'wipe:0.138', 'specific:0.1247', 'notpetya:0.1225', 'ncsc:0.1221', 'unintended:0.1037', 'previous:0.1031', 'collateral:0.0957', 'byrnepa:0.0875', 'make:0.0778', 'maersk:0.063', 'month:0.0523', 'digital:0.0491', 'tax:0.0471', 'senior:0.0463', 'likely:0.0252']+titles_keywords+['gchqs:0.4266', 'uk:0.3249', 'threats:0.262', 'cyber:0.2301', 'said:0.0118']"
+        ]
+    ],
+    "RUS+UKR+138":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/theguardian.com/Ukrainian Armed Forces hold a drill in eastern Ukraine earlier this month amid escalation on.txt+eventbasecode138+eventcode138+avgtone0.45714285714285713+goldsteinscale0.15+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.003289473684210526+news_keywords+['ukraine:0.4549', 'nato:0.415', 'militarily:0.3909', 'putins:0.3751', 'invasion:0.3494', 'escalation:0.3332', 'evacuate:0.3151', 'diplomatic:0.3075', 'annex:0.2828', 'prepare:0.2535', 'president:0.2433', 'boris:0.2327', 'drill:0.2004', 'dangerous:0.2003', 'organisation:0.1971', 'pretext:0.1924', 'news:0.1914', 'thursday:0.1895', 'distract:0.1895', 'fight:0.1756', 'hold:0.1661', 'assume:0.165', 'winter:0.1593', 'subsequent:0.159', 'prospect:0.1571', 'follow:0.1385', 'lengthy:0.1376', 'telephone:0.1339', 'weve:0.069', 'doesnt:0.0322']+titles_keywords+['ukraine:0.4522', 'armed:0.2782', 'drill:0.2694', 'escalation:0.2011', 'forces:0.1895']",
+            "20220212+../news_crawling/RUS_UKR/p_articles/theguardian.com/Bohdan Khmelnytsky Monument and St Sophias Cathedral are seen in the center of Kyiv Photograph.txt+eventbasecode138+eventcode138+avgtone0.49166666666666664+goldsteinscale0.15+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.003289473684210526+news_keywords+['kyiv:0.5776', 'ukraine:0.5457', 'vladimir:0.453', 'putin:0.4325', 'russian:0.3904', 'khmelnytsky:0.343', 'invade:0.2824', 'europe:0.2477', 'stay:0.2291', 'bohdan:0.2279', 'secure:0.1879', 'people:0.1783', 'sindeyevenurphotorexshutterstockbohdan:0.1764', 'warn:0.1705', 'telegram:0.141', 'monument:0.1333', 'imminently:0.1228', 'sophias:0.122', 'big:0.1123', 'read:0.1106', 'trouble:0.1104', 'order:0.0949', 'youre:0.0755', 'ignite:0.074', 'center:0.0699', 'step:0.049', 'term:0.0443', 'filling:0.0384', 'make:0.0359', 'recent:0.0242']+titles_keywords+['kyiv:0.506', 'monument:0.2701', 'center:0.2678', 'bohdan:0.2492', 'sindeyevenurphotorexshutterstockbohdan:0.2205']"
+        ],
+        [],
+        []
+    ]
+}

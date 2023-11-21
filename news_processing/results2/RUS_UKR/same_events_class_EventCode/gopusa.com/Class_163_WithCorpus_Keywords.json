@@ -1,0 +1,12 @@
+{
+    "AUS+RUS+163":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/gopusa.com/RussiaUkraine crisis expected to have major impact on Europes natural gas prices.txt+eventbasecode163+eventcode163+avgtone0.48260869565217396+goldsteinscale0.1+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4716', 'putin:0.4691', 'russias:0.4408', 'gas:0.2997', 'pipeline:0.2819', 'economics:0.2485', 'nuclear:0.2442', 'gazprom:0.237', 'invasion:0.2287', 'disrupt:0.2233', 'crisis:0.208', 'global:0.1993', 'golovniovshutterstockupi:0.1977', 'cnbc:0.191', 'sanction:0.1773', 'risk:0.1764', 'military:0.1699', 'future:0.1667', 'increase:0.1618', 'transiting:0.1415', 'export:0.1176', 'transaction:0.1039', 'month:0.101', 'promise:0.0959', 'majority:0.0768', 'prior:0.07', 'write:0.0683', 'accord:0.0391', 'likely:0.0241', 'andor:0.0145']+titles_keywords+['russiaukraine:0.3755', 'gas:0.27', 'europes:0.2485', 'crisis:0.2373', 'prices:0.135']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/gopusa.com/Wheat prices soar due to war in Ukraine will affect everyone.txt+eventbasecode163+eventcode163+avgtone0.4761904761904762+goldsteinscale0.1+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['wheat:0.4701', 'ukraine:0.4512', 'war:0.3268', 'shortage:0.2671', 'financial:0.2542', 'breadbasket:0.2278', 'bushel:0.2276', 'increase:0.2051', 'alarm:0.1925', 'wfp:0.1725', 'friday:0.164', 'long:0.1578', 'trade:0.1551', 'global:0.154', 'agreement:0.1412', 'sanction:0.1303', 'board:0.1275', 'chicago:0.1231', 'export:0.123', 'unprecedented:0.1217', 'soar:0.1209', 'kg:0.1143', 'roughly:0.1134', 'area:0.1115', 'content:0.11', 'hit:0.1097', 'end:0.1066', 'percent:0.1023', 'tragic:0.0988', 'limit:0.0673']+titles_keywords+['wheat:0.4413', 'war:0.313', 'ukraine:0.2765', 'prices:0.1843', 'soar:0.1602']"
+        ]
+    ]
+}

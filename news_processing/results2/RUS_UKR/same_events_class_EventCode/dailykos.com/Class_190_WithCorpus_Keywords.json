@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220610+../news_crawling/RUS_UKR/p_articles/dailykos.com/Ukraine update Russia appears to be losing the artillery battle at Severodonetsk.txt+eventbasecode190+eventcode190+avgtone0.475609756097561+goldsteinscale0.0+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.003289473684210526+news_keywords+['ukraine:0.4544', 'artillery:0.35', 'map:0.3119', 'battle:0.3012', 'pravda:0.2996', 'northeast:0.2741', 'update:0.2548', 'expand:0.2481', 'syriaaleksandr:0.2459', 'activity:0.2334', 'anticipate:0.2118', 'data:0.2075', 'dvornikov:0.2062', 'fall:0.2047', 'column:0.2027', 'akm:0.2022', 'lysychansk:0.1942', 'report:0.182', 'soon:0.1809', 'forward:0.178', 'unprovoked:0.1756', 'general:0.1739', 'recalibrate:0.1725', 'fuse:0.1716', 'whats:0.1498', 'reminds:0.1456', 'bluff:0.141', 'predetermine:0.0989', 'counteroffensive:0.0839', 'theres:0.0606']+titles_keywords+['ukraine:0.4397', 'artillery:0.3659', 'severodonetsk:0.3427', 'losing:0.3079', 'update:0.2819']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/dailykos.com/Ukraine update Anatomy of a Ukrainian ambush and what it says about Russias battlefield prowess.txt+eventbasecode190+eventcode190+avgtone0.4886363636363636+goldsteinscale0.0+nummentions0.026124818577648767+numarticles0.026831036983321246+numsources0.03618421052631579+news_keywords+['ukraine:0.4642', 'ambush:0.4383', 'nato:0.4382', 'infantry:0.3882', 'pentagon:0.3795', 'war:0.3649', 'comrades:0.3439', 'tactics:0.3434', 'oligarch:0.2715', 'shrapnel:0.2671', 'tank:0.2597', 'turn:0.2429', 'ahead:0.2276', 'news:0.2235', 'deliver:0.2092', 'learn:0.2086', 'zelenskyfor:0.2066', 'apc:0.2048', 'accurate:0.1947', 'zoneand:0.1894', 'urgent:0.189', 'combine:0.1867', 'cotltuppbm:0.1794', 'virtual:0.1768', 'biden:0.1717', 'hapless:0.1672', 'end:0.1669', 'despite:0.1568', 'covid:0.1501', 'authorize:0.132']+titles_keywords+['ukraine:0.4933', 'ambush:0.4223', 'prowess:0.2312', 'update:0.199', 'says:0.0786']"
+        ]
+    ]
+}

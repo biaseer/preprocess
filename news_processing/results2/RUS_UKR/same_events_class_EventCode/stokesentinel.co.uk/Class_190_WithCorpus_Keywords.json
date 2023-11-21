@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+190":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/stokesentinel.co.uk/Ukraine morning briefing Ukraine reportedly shells ammo depot in Russia as Kyiv attacked despite vow.txt+eventbasecode190+eventcode190+avgtone0.4680170575692964+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5229', 'putin:0.4178', 'eurovision:0.3204', 'invasion:0.3069', 'military:0.2894', 'emergency:0.2868', 'news:0.2822', 'divert:0.276', 'organise:0.2682', 'stage:0.2389', 'north:0.2264', 'peace:0.2259', 'hear:0.2259', 'brief:0.2256', 'evening:0.2111', 'report:0.2046', 'indicate:0.2041', 'successful:0.2029', 'sheeran:0.191', 'strike:0.1895', 'range:0.1857', 'risk:0.1813', 'learn:0.1786', 'unit:0.1727', 'rubble:0.1713', 'setbacks:0.1596', 'dec:0.1564', 'footage:0.1427', 'drastically:0.1272', 'head:0.1217']+titles_keywords+['kyiv:0.4515', 'ammo:0.3764', 'briefing:0.2613', 'depot:0.1858', 'attacked:0.1804']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/stokesentinel.co.uk/Worlds largest cargo aircraft destroyed by Russian forces outside Kyiv say reports.txt+eventbasecode190+eventcode190+avgtone0.49859550561797744+goldsteinscale0.0+nummentions0.3149492017416546+numarticles0.31435823060188545+numsources0.4967105263157895+news_keywords+['aircraft:0.4906', 'kyiv:0.4577', 'antonov:0.3968', 'soviet:0.3793', 'destroy:0.291', 'cargo:0.2872', 'ssr:0.2309', 'federation:0.213', 'dmytro:0.2111', 'report:0.1859', 'history:0.1832', 'arrive:0.1736', 'large:0.1693', 'news:0.1596', 'billion:0.1566', 'built:0.1564', 'want:0.1491', 'occupier:0.1404', 'capability:0.1375', 'prevail:0.1355', 'mr:0.1329', 'hostomel:0.1327', 'direct:0.1315', 'longer:0.1304', 'world:0.1187', 'task:0.1121', 'monoloading:0.0947', 'definitely:0.0933', 'cost:0.0886', 'track:0.0877']+titles_keywords+['kyiv:0.3975', 'largest:0.3161', 'aircraft:0.3155', 'cargo:0.2346', 'destroyed:0.1933']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/stokesentinel.co.uk/Ukraine war Before and after images show scale of destruction.txt+eventbasecode190+eventcode190+avgtone0.4664179104477612+goldsteinscale0.0+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.049342105263157895+news_keywords+['ukraine:0.4872', 'war:0.3956', 'vladimir:0.2792', 'conflict:0.2625', 'military:0.2507', 'bombardment:0.2474', 'destroy:0.2421', 'kharkiv:0.2413', 'humanitarian:0.2167', 'earlier:0.198', 'neighbouring:0.1664', 'long:0.1526', 'city:0.1514', 'scar:0.1472', 'flee:0.1365', 'western:0.1334', 'result:0.1331', 'use:0.1262', 'advance:0.1257', 'main:0.1225', 'repair:0.1215', 'plant:0.1202', 'routes:0.1006', 'forced:0.0862', 'million:0.0857', 'look:0.0837', 'day:0.0768', 'flatten:0.0751', 'bid:0.0409', 'slider:0.032']+titles_keywords+['ukraine:0.3946', 'war:0.3433', 'images:0.3353', 'destruction:0.3288', 'scale:0.1346']"
+        ]
+    ]
+}

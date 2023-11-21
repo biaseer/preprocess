@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+195":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/wn.com/Up to 600 Dead in Mariupol Theater Airstrike Investigation.txt+eventbasecode195+eventcode195+avgtone0.4609375+goldsteinscale0.0+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['airstrike:0.4962', 'donetsk:0.4414', 'russian:0.33', 'kill:0.3256', 'theater:0.2906', 'hit:0.2889', 'dead:0.2856', 'drama:0.2498', 'civilian:0.2428', 'mariupol:0.2393', 'people:0.2079', 'strike:0.1959', 'march:0.1691', 'ap:0.1689', 'air:0.168', 'report:0.1541', 'investigation:0.1525', 'academic:0.1426', 'shelter:0.1357', 'press:0.1332', 'unknown:0.1269', 'force:0.1105', 'shell:0.1043', 'regional:0.1025', 'wednesday:0.0786', 'associated:0.0774', 'new:0.0436']+titles_keywords+['airstrike:0.4743', 'mariupol:0.2951', '600:0.2699', 'dead:0.2623', 'theater:0.126']"
+        ]
+    ],
+    "UKR+RUS+195":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine says 9 Russian warplanes destroyed in Crimea blasts.txt+eventbasecode195+eventcode195+avgtone0.45454545454545453+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.5133', 'ukraine:0.3899', 'ukrainian:0.37', 'russian:0.3348', 'attack:0.3105', 'russia:0.3074', 'destroy:0.2914', 'war:0.2437', 'explosion:0.2386', 'aircraft:0.2335', 'escalation:0.2155', 'warplane:0.2149', 'damage:0.1871', 'blast:0.1808', 'base:0.1699', 'wednesday:0.1629', 'deadly:0.1483', 'result:0.1456', 'tuesday:0.1336', 'appear:0.1222', 'deny:0.1131', 'air:0.0976', 'say:0.0857', 'significant:0.0677', 'represent:0.0321', 'string:0.0299']+titles_keywords+['crimea:0.3626', 'warplanes:0.3436', 'blasts:0.2262', 'destroyed:0.1983', 'says:0.0722']"
+        ]
+    ]
+}

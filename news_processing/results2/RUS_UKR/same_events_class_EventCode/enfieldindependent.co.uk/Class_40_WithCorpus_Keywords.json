@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+40":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/enfieldindependent.co.uk/Zelensky seeks tough global response after 52 killed at Ukrainian train station.txt+eventbasecode40+eventcode40+avgtone0.45640074211502785+goldsteinscale0.55+nummentions0.24383164005805516+numarticles0.24437998549673676+numsources0.3157894736842105+news_keywords+['kremlin:0.5177', 'kyiv:0.4976', 'ukrainians:0.4543', 'vladimir:0.4388', 'zelensky:0.4068', 'peskovs:0.3675', 'massacre:0.3583', 'war:0.339', 'government:0.3117', 'separatist:0.2787', 'deflect:0.2362', 'safety:0.2289', 'president:0.2234', 'telegram:0.2206', 'railway:0.2188', 'command:0.2047', 'strike:0.1882', 'blame:0.1839', 'privilege:0.1819', 'bucha:0.1812', 'tell:0.1778', 'like:0.1632', 'research:0.161', 'phrasing:0.1585', 'child:0.1578', 'false:0.1564', 'begin:0.1545', 'world:0.149', 'unclear:0.1395', 'longer:0.115']+titles_keywords+['zelensky:0.5533', 'ukrainian:0.3151', '52:0.2085', 'train:0.1379', 'global:0.1346']"
+        ]
+    ],
+    "UKR+VAT+40":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/enfieldindependent.co.uk/Pope clearly condemns Russias repugnant war insists Vatican.txt+eventbasecode40+eventcode40+avgtone0.4640287769784173+goldsteinscale0.55+nummentions0.22496371552975328+numarticles0.22552574329224076+numsources0.33223684210526316+news_keywords+['pope:0.4447', 'orthodox:0.3889', 'war:0.366', 'kyiv:0.3644', 'russias:0.3593', 'condemn:0.3136', 'repugnant:0.3002', 'diplomat:0.2485', 'unequivocal:0.1903', 'debate:0.1748', 'privilege:0.1722', 'engage:0.1703', 'read:0.1677', 'insanity:0.1509', 'dmytro:0.1499', 'comment:0.1426', 'word:0.1419', 'view:0.1344', 'dramatic:0.1272', 'issue:0.124', 'insists:0.1174', 'holy:0.1121', 'apart:0.1069', 'significance:0.1066', 'withdraw:0.1025', 'summon:0.1', 'girl:0.0957', 'right:0.0869', 'dimension:0.0847', 'september:0.0648']+titles_keywords+['pope:0.4052', 'war:0.3106', 'repugnant:0.3086', 'russias:0.2814', 'clearly:0.1094']"
+        ]
+    ]
+}

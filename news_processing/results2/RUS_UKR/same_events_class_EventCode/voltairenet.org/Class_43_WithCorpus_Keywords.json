@@ -1,0 +1,12 @@
+{
+    "CHE+RUS+43":[
+        [
+            "20220110+../news_crawling/RUS_UKR/p_articles/voltairenet.org/Riabkov expects US to face up to its responsibilities.txt+eventbasecode43+eventcode43+avgtone0.48584905660377353+goldsteinscale0.64+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['riabkov:0.5042', 'nato:0.4645', 'russian:0.3442', 'geneva:0.3213', 'negotiation:0.3043', 'peace:0.2294', 'talk:0.2099', 'unilateral:0.2007', 'dinner:0.1898', 'infrastructure:0.1857', 'counterpart:0.1837', 'responsibility:0.178', 'underway:0.1764', 'reciprocal:0.1541', 'prepare:0.1405', 'pull:0.137', 'issue:0.1365', 'freeze:0.135', 'west:0.1348', 'important:0.1241', 'create:0.1137', 'fell:0.1119', 'short:0.1096', 'minister:0.1095', 'say:0.1055', 'guarantee:0.092', 'measure:0.0859', 'basis:0.0784', 'face:0.0713', 'adressing:0.0586']+titles_keywords+['riabkov:0.6368', 'responsibilities:0.3866', 'expects:0.2825', 'face:0.1073']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/voltairenet.org/Chechen governor offers reward to catch Ukrainian neonazis.txt+eventbasecode43+eventcode43+avgtone0.48360655737499997+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['chechnya:0.6268', 'chechens:0.496', 'kadyrov:0.4687', 'ukrainian:0.4484', 'jihadists:0.356', 'nazi:0.3106', 'reward:0.3087', 'yarosh:0.2915', 'regiment:0.2782', 'ramzan:0.2741', 'attack:0.2697', 'governor:0.2662', 'ternopol:0.2562', 'emirate:0.241', 'march:0.2281', 'commander:0.2208', 'capture:0.2133', 'western:0.2113', 'news:0.2095', 'congress:0.1996', 'promise:0.1781', 'dokou:0.1752', 'base:0.1746', 'traditionally:0.142', 'republish:0.1383', 'website:0.1331', 'seizure:0.1327', 'large:0.0836', 'ichkeria:0.0786', 'middle:0.0618']+titles_keywords+['chechen:0.4129', 'neonazis:0.3909', 'reward:0.3533', 'governor:0.2337', 'catch:0.1413']"
+        ]
+    ]
+}

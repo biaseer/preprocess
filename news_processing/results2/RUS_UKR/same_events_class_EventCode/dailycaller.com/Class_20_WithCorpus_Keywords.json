@@ -1,0 +1,12 @@
+{
+    "RUS+CHN+20":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/dailycaller.com/REPORT Russia Had Sought Aid From CCP Prior To Ukraine Invasion.txt+eventbasecode20+eventcode20+avgtone0.48263888888888895+goldsteinscale0.65+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['sanctions:0.4416', 'nato:0.4038', 'soviet:0.3752', 'kyiv:0.3411', 'disinformation:0.2977', 'ccp:0.2882', 'china:0.272', 'invasion:0.2663', 'escalation:0.2603', 'embassy:0.2287', 'aid:0.2261', 'implication:0.2218', 'president:0.2203', 'peaceful:0.2135', 'cnn:0.1931', 'communicate:0.1844', 'want:0.1755', 'soon:0.1728', 'report:0.1717', 'bash:0.1375', 'additional:0.1349', 'fatally:0.1219', 'argues:0.1191', 'party:0.115', 'times:0.1132', 'end:0.1095', 'current:0.1075', 'photo:0.0927', 'absolutely:0.0798', 'backfill:0.053']+titles_keywords+['ccp:0.3948', 'ukraine:0.3888', 'invasion:0.2421', 'report:0.2271', 'prior:0.0881']"
+        ]
+    ],
+    "RUS+RUS+20":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/dailycaller.com/Group Of Ukrainians Gather To Kneel Pray As Russia Bombs Their Country.txt+eventbasecode20+eventcode20+avgtone0.49170616113744076+goldsteinscale0.65+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kyiv:0.4727', 'ukrainians:0.4693', 'bombing:0.4264', 'putinclaimed:0.4109', 'demilitarize:0.3701', 'geopolitics:0.3404', 'prayforukraine:0.3128', 'separatist:0.2634', 'military:0.2386', 'pipeline:0.2343', 'gather:0.2273', 'desperation:0.2185', 'nazify:0.1987', 'speaks:0.1947', 'live:0.1805', 'escape:0.1767', 'cnn:0.1766', 'report:0.1657', 'want:0.1492', 'donbas:0.148', 'cite:0.1428', 'ordinary:0.1424', 'tweet:0.1411', 'child:0.1364', 'salwan:0.136', 'hundreds:0.1288', 'recognize:0.1154', 'state:0.1108', 'really:0.0961', 'thursday:0.0835']+titles_keywords+['ukrainians:0.4783', 'russia:0.347', 'kneel:0.3182', 'bombs:0.2427', 'group:0.1775']"
+        ]
+    ]
+}

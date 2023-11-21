@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+75":[
+        [
+            "20220206+../news_crawling/RUS_UKR/p_articles/wuft.org/Sovietera bomb shelters in Kyiv are now shops apartments and bars.txt+eventbasecode75+eventcode75+avgtone0.4782608695652174+goldsteinscale0.85+nummentions0.057329462989840346+numarticles0.05801305293691081+numsources0.08552631578947369+news_keywords+['kyiv:0.5884', 'soviet:0.5437', 'sovietera:0.5241', 'ukrainian:0.4478', 'shelter:0.4244', 'russia:0.3971', 'apartment:0.3511', 'bomb:0.3412', 'capital:0.3064', 'refurbish:0.3054', 'city:0.2807', 'bar:0.2559', 'prepare:0.1999', 'attack:0.199', 'shop:0.1941', 'resident:0.1841', 'decade:0.1399', 'disuse:0.0997', 'era:0.0824', 'possible:0.0773', 'wonder:0.0598']+titles_keywords+['kyiv:0.5494', 'shelters:0.4556', 'sovietera:0.4535', 'bomb:0.2617', 'shops:0.2605']"
+        ],
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/wuft.org/Russians shelled a mosque where 80 people were sheltering in Mariupol Ukraine says.txt+eventbasecode75+eventcode75+avgtone0.5158730158730158+goldsteinscale0.85+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['mosque:0.4901', 'russians:0.4484', 'turkish:0.4226', 'ukrainian:0.4188', 'ukraine:0.4119', 'turkey:0.3647', 'shelter:0.295', 'people:0.2314', 'safety:0.2207', 'embassy:0.2187', 'group:0.1841', 'child:0.184', 'mariupol:0.1531', 'shell:0.1335', 'seek:0.0827', 'say:0.0685', 'national:0.0481', 'include:0.0393']+titles_keywords+['mosque:0.4174', 'russians:0.3605', 'mariupol:0.2123', 'shelled:0.194', '80:0.16']"
+        ]
+    ]
+}

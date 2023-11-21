@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+180":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/nbcdfw.com/Russias Damaged Black Sea Flagship Sinks in Latest Setback.txt+eventbasecode180+eventcode180+avgtone0.46133751306165105+goldsteinscale0.05+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.0756578947368421+news_keywords+['crimea:0.5257', 'russiahas:0.4728', 'gorbachev:0.3431', 'warship:0.2839', 'attackwhen:0.2767', 'zelenskyy:0.2723', 'retreat:0.2695', 'peacetime:0.266', 'news:0.2561', 'nuclear:0.256', 'standoff:0.256', 'removal:0.255', 'strategic:0.2534', 'flag:0.2378', 'survive:0.2281', 'incompetence:0.2118', 'economy:0.2011', 'sink:0.1925', 'horrific:0.1714', 'mortar:0.1649', 'acknowledge:0.1629', 'donbas:0.1602', 'independenceof:0.1601', 'ap:0.1578', 'good:0.152', 'scene:0.1496', 'untold:0.1368', 'tow:0.1349', 'feb:0.1307', 'thousand:0.1105']+titles_keywords+['sinks:0.3034', 'russias:0.2933', 'flagship:0.1965', 'setback:0.1758', 'damaged:0.1721']"
+        ],
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/nbcdfw.com/Ukraine Says Potent Russian Hack Against Power Grid Thwarted.txt+eventbasecode180+eventcode180+avgtone0.4731578947368421+goldsteinscale0.05+nummentions0.10341074020319303+numarticles0.10406091370558376+numsources0.21052631578947367+news_keywords+['cyberattacks:0.5249', 'scada:0.3887', 'kyiv:0.381', 'russias:0.3633', 'outage:0.3251', 'invasion:0.3216', 'voltage:0.3098', 'aggressor:0.2539', 'cybercommand:0.2495', 'infect:0.2452', 'destroy:0.2433', 'satellite:0.2375', 'grid:0.2368', 'government:0.2317', 'know:0.222', 'industrial:0.2131', 'keyboard:0.2012', 'help:0.1927', 'sandworm:0.1779', 'data:0.1776', 'notpetya:0.1744', 'thwarted:0.1685', 'turn:0.1594', 'winter:0.155', 'cite:0.148', 'gru:0.1352', 'version:0.1325', 'state:0.1257', 'simultaneously:0.1249', 'lucky:0.0886']+titles_keywords+['ukraine:0.4512', 'hack:0.2607', 'thwarted:0.2597', 'power:0.1804', 'grid:0.1726']"
+        ]
+    ]
+}

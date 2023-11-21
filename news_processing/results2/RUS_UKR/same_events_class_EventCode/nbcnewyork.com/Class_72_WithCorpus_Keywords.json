@@ -1,0 +1,22 @@
+{
+    "RUS+BLR+72":[
+        [
+            "20211220+../news_crawling/RUS_UKR/p_articles/nbcnewyork.com/Biden Says Putin Will Pay Dear Price If He Invades Ukraine.txt+eventbasecode72+eventcode72+avgtone0.4924812030075188+goldsteinscale0.915+nummentions0.01269956458635704+numarticles0.013415518491660623+numsources0.0756578947368421+news_keywords+['putin:0.5061', 'ukraines:0.4087', 'diplomacy:0.4018', 'biden:0.3765', 'nato:0.3694', 'invades:0.3647', 'threat:0.3342', 'cyberattack:0.2823', 'foreseeable:0.2804', 'sanction:0.2748', 'bipartisan:0.2693', 'pursue:0.2689', 'border:0.2415', 'adviser:0.2135', 'dollar:0.2059', 'term:0.1936', 'news:0.1931', 'depend:0.1927', 'psaki:0.1871', 'conclude:0.1862', 'report:0.1847', 'thursday:0.1847', 'meet:0.1829', 'portman:0.1748', 'volodymyr:0.1717', 'reiterate:0.1698', 'turn:0.1598', 'flatly:0.1582', 'long:0.1502', 'state:0.1104']+titles_keywords+['biden:0.4213', 'ukraine:0.2938', 'invades:0.2682', 'price:0.2157', 'says:0.0975']"
+        ]
+    ],
+    "RUS+RUS+72":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/nbcnewyork.com/EXPLAINER Is Stuck Convoy in Ukraine a Setback for Russia.txt+eventbasecode72+eventcode72+avgtone0.46913580246913583+goldsteinscale0.915+nummentions0.1676342525399129+numarticles0.16823785351704135+numsources0.17105263157894737+news_keywords+['convoy:0.4409', 'kyiv:0.4222', 'logistics:0.3469', 'war:0.3377', 'putin:0.3059', 'pentagon:0.3021', 'strategic:0.2595', 'update:0.233', 'tank:0.2172', 'reassess:0.2132', 'stuck:0.2122', 'forward:0.2088', 'assault:0.2049', 'crisis:0.2016', 'muddy:0.2002', 'long:0.1922', 'overtake:0.1869', 'kilometer:0.1813', 'explainer:0.1594', 'success:0.1593', 'focus:0.1542', 'segment:0.1448', 'coverage:0.1438', 'observers:0.1373', 'despite:0.1334', 'combine:0.1197', 'implication:0.1188', 'anticipate:0.1124', 'prybisk:0.1016', 'state:0.0785']+titles_keywords+['explainer:0.4328', 'convoy:0.4081', 'ukraine:0.3981', 'stuck:0.3305', 'setback:0.2745']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/nbcnewyork.com/Ghost Drones Helicopters and Howitzers Heres a Look at the Weapons the US Is Sending.txt+eventbasecode72+eventcode72+avgtone0.49223946784922396+goldsteinscale0.915+nummentions0.03701015965166909+numarticles0.03770848440899202+numsources0.029605263157894735+news_keywords+['helicopters:0.4674', 'ukraine:0.4622', 'pentagon:0.4001', 'unmanned:0.363', 'militarize:0.3501', 'troop:0.339', 'missile:0.3355', 'taliban:0.3193', 'sentinel:0.2806', 'surveillance:0.2771', 'battlefield:0.2728', 'briefing:0.2672', 'ammunition:0.2601', 'raytheon:0.2285', 'takeover:0.2227', 'prepare:0.2101', 'scope:0.2052', 'know:0.1924', 'thursday:0.1706', 'ghost:0.1598', 'alongside:0.139', 'version:0.125', 'aerovironment:0.1161', 'billion:0.1061', 'agree:0.1008', 'far:0.1', 'martin:0.092', 'wishlists:0.0872', 'able:0.0764', 'sending:0.0729']+titles_keywords+['howitzers:0.5426', 'drones:0.5028', 'ukraine:0.4596', 'ghost:0.2516', 'sending:0.0724']"
+        ]
+    ],
+    "UKR+RUS+72":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/nbcnewyork.com/60 Rifles Donated at Long Island Gun Shop Being Shipped to Help Ukraine Fight.txt+eventbasecode72+eventcode72+avgtone0.495945945945946+goldsteinscale0.915+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['gunmakers:0.5349', 'ukraine:0.4389', 'weapon:0.394', 'supply:0.3427', 'invasion:0.3109', 'aid:0.3019', 'donated:0.2794', 'want:0.2751', 'approval:0.2579', 'make:0.2576', 'federal:0.2549', 'blueprint:0.2353', 'agency:0.2172', 'group:0.2092', 'fight:0.2086', 'send:0.2082', 'dozen:0.2066', 'friday:0.2032', 'collect:0.2031', 'happen:0.202', 'new:0.1998', 'know:0.1954', 'heard:0.1915', 'nassau:0.1914', 'long:0.1788', 'hop:0.1616', 'look:0.1517', 'way:0.1302', 'accord:0.0974', 'somewhat:0.0843']+titles_keywords+['rifles:0.4392', 'ukraine:0.3416', 'donated:0.3257', 'shipped:0.3092', '60:0.2447']"
+        ]
+    ]
+}

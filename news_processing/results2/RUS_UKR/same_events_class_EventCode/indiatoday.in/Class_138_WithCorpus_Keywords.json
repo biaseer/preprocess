@@ -1,0 +1,22 @@
+{
+    "RUS+RUS+138":[
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Girl poses in front of a bombed school in Ukraine wearing her prom dress Powerful.txt+eventbasecode138+eventcode138+avgtone0.5043383947939263+goldsteinscale0.15+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.5044', 'war:0.3416', 'school:0.3196', 'prom:0.2986', 'episheva:0.2897', 'anna:0.2851', 'zelenskyy:0.2848', 'teenage:0.2806', 'bombed:0.2795', 'dress:0.2719', 'niece:0.2568', 'glory:0.2434', 'reaction:0.2335', 'scream:0.2335', 'statement:0.2059', 'publish:0.1973', 'read:0.1967', 'executioners:0.1906', 'forward:0.1892', 'page:0.1877', 'photo:0.183', 'strong:0.1743', 'reminder:0.1705', 'downright:0.155', 'like:0.152', 'way:0.1501', 'twitter:0.149', 'want:0.1483', 'cjw:0.1352', 'chowdhury:0.1267']+titles_keywords+['prom:0.3799', 'ukraine:0.352', 'bombed:0.3184', 'photo:0.288', 'powerful:0.2486']"
+        ]
+    ],
+    "RUS+WST+138":[
+        [
+            "20220621+../news_crawling/RUS_UKR/p_articles/indiatoday.in/The impossible Ukraines secret deadly rescue missions.txt+eventbasecode138+eventcode138+avgtone0.47496871088861076+goldsteinscale0.15+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.441', 'nato:0.3742', 'azov:0.374', 'soldiers:0.3353', 'pilot:0.3281', 'catastrophe:0.3113', 'invasion:0.3049', 'redeploy:0.3032', 'shrapnel:0.2723', 'kill:0.2624', 'heroic:0.2342', 'gurney:0.2294', 'story:0.2286', 'risky:0.2241', 'clandestine:0.2236', 'know:0.2217', 'alive:0.2213', 'escape:0.2204', 'impossible:0.2124', 'read:0.2046', 'cover:0.1912', 'later:0.1875', 'arrange:0.1872', 'terrain:0.1805', 'kilometer:0.1628', 'april:0.1515', 'deep:0.1469', 'whoop:0.1383', 'list:0.1213', 'cost:0.0775']+titles_keywords+['ukraines:0.4663', 'rescue:0.4512', 'missions:0.4067', 'secret:0.2864', 'deadly:0.2771']"
+        ]
+    ],
+    "UKR+EUR+138":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Ukrainian President Zelensky warns of big war in Europe in emotional appeal to Russians.txt+eventbasecode138+eventcode138+avgtone0.4825783972125436+goldsteinscale0.15+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['ukrainians:0.454', 'kremlin:0.3794', 'russian:0.3661', 'zelenskyy:0.3637', 'war:0.2768', 'volodymyr:0.2341', 'nazi:0.2144', 'border:0.2095', 'warn:0.1938', 'trigger:0.183', 'nation:0.1582', 'calm:0.1546', 'accusation:0.1465', 'president:0.1403', 'want:0.1396', 'appear:0.1331', 'say:0.1313', 'news:0.1272', 'conclude:0.1238', 'table:0.1178', 'dissolve:0.1101', 'difference:0.106', 'enrich:0.0975', 'nearly:0.09', 'big:0.0811', 'today:0.079', 'main:0.0774', 'reason:0.0759', 'free:0.0577', 'directly:0.0391']+titles_keywords+['zelensky:0.5254', 'ukrainian:0.4016', 'war:0.2884', 'warns:0.2061', 'big:0.1184']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/indiatoday.in/WHO warns of Covid spike in Ukraine amid war with Russia.txt+eventbasecode138+eventcode138+avgtone0.46178343949044603+goldsteinscale0.15+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['covid:0.5505', 'ukraine:0.4635', 'pathogen:0.4109', 'vaccination:0.3852', 'war:0.3733', 'reuters:0.2851', 'warn:0.2376', 'dangerous:0.2084', 'population:0.169', 'world:0.164', 'treatment:0.1514', 'human:0.145', 'escalate:0.1393', 'lab:0.1366', 'house:0.1324', 'live:0.1182', 'organisation:0.117', 'affect:0.1158', 'spread:0.1113', 'result:0.1046', 'case:0.1045', 'spike:0.1', 'high:0.0979', 'displace:0.0966', 'receive:0.0856', 'include:0.0845', 'amid:0.065', 'week:0.0552', 'public:0.0456', 'like:0.0421']+titles_keywords+['covid:0.4948', 'ukraine:0.4312', 'war:0.2922', 'warns:0.2425', 'spike:0.096']"
+        ]
+    ]
+}

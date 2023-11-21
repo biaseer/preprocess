@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/ncronline.org/Russias Patriarch Kirill defends invasion of Ukraine stoking Orthodox tensions.txt+eventbasecode46+eventcode46+avgtone0.47927199191+goldsteinscale0.85+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['orthodox:0.5215', 'putin:0.4528', 'kyiv:0.4151', 'russias:0.3632', 'schism:0.3603', 'separatist:0.3582', 'conflict:0.3022', 'invasion:0.2975', 'hierarchy:0.2971', 'justify:0.2754', 'loyalists:0.2439', 'ordain:0.2388', 'news:0.2077', 'say:0.1918', 'omission:0.1877', 'evil:0.1877', 'kirill:0.1797', 'refrain:0.175', 'term:0.1721', 'begin:0.1701', 'significance:0.1601', 'authorize:0.1568', 'state:0.1471', 'worry:0.1471', 'study:0.1398', 'huge:0.1253', 'global:0.1186', 'physical:0.1153', 'ideas:0.1044', 'send:0.0709']+titles_keywords+['orthodox:0.4538', 'kirill:0.3424', 'russias:0.3062', 'invasion:0.2424', 'defends:0.1798']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20220124+../news_crawling/RUS_UKR/p_articles/ncronline.org/Pope sets Jan 26 as day of prayer for peace in Ukraine.txt+eventbasecode46+eventcode46+avgtone0.48158640226628896+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['pope:0.4167', 'peace:0.3557', 'ukraine:0.3145', 'jan:0.3119', 'conflict:0.2599', 'prayer:0.2471', 'worry:0.2167', 'day:0.2094', 'angelus:0.208', 'political:0.1963', 'threaten:0.1799', 'heartfelt:0.1652', 'follow:0.1443', 'serve:0.1376', 'initiative:0.1364', 'proclaim:0.1327', 'security:0.1297', 'rise:0.1285', 'recite:0.1204', 'almighty:0.1201', 'say:0.1158', 'good:0.1102', 'people:0.1081', 'city:0.1046', 'repercussion:0.0984', 'wide:0.0694', 'set:0.0644', 'fraternity:0.0605', 'new:0.034', 'possible:0.028']+titles_keywords+['peace:0.3553', 'pope:0.3289', 'ukraine:0.2745', 'day:0.2056', 'jan:0.2025']"
+        ]
+    ]
+}

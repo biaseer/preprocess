@@ -1,0 +1,17 @@
+{
+    "EST+RUS+10":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/wionews.com/Current sanctions announced by US wont affect Putin at all Estonias former prez.txt+eventbasecode10+eventcode10+avgtone0.4937943262411348+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4671', 'sanction:0.4266', 'nato:0.4237', 'ukrainedonetsk:0.3863', 'estonias:0.337', 'escalation:0.2897', 'eu:0.2883', 'economic:0.2693', 'executive:0.26', 'reform:0.2425', 'election:0.2418', 'announce:0.2256', 'emphasise:0.2255', 'secure:0.2116', 'debate:0.2014', 'response:0.1939', 'current:0.1817', 'issue:0.1709', 'order:0.1663', 'difference:0.166', 'rsv:0.1641', 'allow:0.1619', 'theissue:0.159', 'bite:0.1552', 'pipeline:0.1226', 'wont:0.118', 'accurately:0.0997', 'pointless:0.0919', 'possibility:0.0871', 'feel:0.0851']+titles_keywords+['putin:0.4787', 'sanctions:0.4775', 'estonias:0.3607', 'wont:0.2262', 'affect:0.1111']"
+        ]
+    ],
+    "USA+RUS+10":[
+        [
+            "20220802+../news_crawling/RUS_UKR/p_articles/wionews.com/United States to send 550 million worth of new weapons to Ukraine amid ongoing crisis.txt+eventbasecode10+eventcode10+avgtone0.5064724919093851+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4857', 'weapon:0.3333', 'war:0.3265', 'package:0.3129', 'artillery:0.2923', 'carry:0.249', 'fda:0.2475', 'crisis:0.2444', 'security:0.2358', 'afp:0.2183', 'agreement:0.2167', 'rsv:0.2109', 'assistance:0.1968', 'know:0.1958', 'advantage:0.1903', 'read:0.1827', 'million:0.1823', 'onward:0.1773', 'gsk:0.1711', 'report:0.1642', 'new:0.1589', 'mm:0.1438', 'spokesperson:0.1432', 'strait:0.1376', 'donbas:0.1363', 'february:0.1227', 'panel:0.1203', 'sunflower:0.115', 'adult:0.1076', 'pelosi:0.1038']+titles_keywords+['ukraine:0.3419', 'weapons:0.278', 'send:0.2388', '550:0.2073', 'million:0.1566']"
+        ]
+    ],
+    "WST+RUS+10":[
+        [
+            "20220113+../news_crawling/RUS_UKR/p_articles/wionews.com/Amid Ukraine tensions Russia unveils White Swan strategic bomber.txt+eventbasecode10+eventcode10+avgtone0.48753894080996885+goldsteinscale0.5+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['nato:0.4955', 'crimea:0.4133', 'aircraft:0.4092', 'putin:0.4003', 'missile:0.3801', 'tupolev:0.3675', 'nuclear:0.3227', 'invades:0.3126', 'fly:0.2918', 'threaten:0.2735', 'strategic:0.2345', 'news:0.2258', 'swan:0.2235', 'uac:0.2141', 'enterprise:0.2101', 'upgrade:0.1915', 'border:0.1912', 'know:0.1906', 'imminent:0.1851', 'white:0.1759', 'rsv:0.1491', 'continue:0.1373', 'quote:0.1355', 'submit:0.1265', 'significant:0.1256', 'eastern:0.1242', 'yury:0.1225', 'difference:0.1212', 'set:0.068', 'thousand:0.0625']+titles_keywords+['ukraine:0.3334', 'swan:0.3271', 'bomber:0.2801', 'white:0.2425', 'tensions:0.1345']"
+        ]
+    ]
+}

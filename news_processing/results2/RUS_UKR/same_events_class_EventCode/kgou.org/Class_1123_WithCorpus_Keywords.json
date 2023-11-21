@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+1123":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/kgou.org/Russia accused of war crimes in missile attack on Ukrainian train station.txt+eventbasecode112+eventcode1123+avgtone0.404255319148936+goldsteinscale0.4+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.046052631578947366+news_keywords+['kyiv:0.4379', 'russians:0.377', 'war:0.3647', 'evacuate:0.2905', 'missile:0.2876', 'terrorize:0.2814', 'sanction:0.2805', 'government:0.2722', 'safety:0.263', 'report:0.2571', 'accuse:0.2552', 'worry:0.2362', 'human:0.1991', 'type:0.1976', 'world:0.1883', 'buss:0.1824', 'look:0.1806', 'hit:0.1776', 'heinous:0.1764', 'rights:0.1758', 'continue:0.1687', 'description:0.1647', 'day:0.1447', 'like:0.1442', 'dead:0.1414', 'eastern:0.1385', 'npr:0.1256', 'surround:0.121', 'thousand:0.1134', 'thanks:0.0852']+titles_keywords+['ukrainian:0.3537', 'accused:0.3185', 'missile:0.2538', 'war:0.2324', 'station:0.1364']"
+        ],
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/kgou.org/Ukraine begins prosecuting Russians for war crimes.txt+eventbasecode112+eventcode1123+avgtone0.4+goldsteinscale0.4+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.04276315789473684+news_keywords+['ukraine:0.4897', 'war:0.3656', 'prosecute:0.3559', 'suspect:0.3101', 'nazi:0.2907', 'journalist:0.2764', 'case:0.2718', 'regime:0.2553', 'gunpoint:0.2413', 'capital:0.2404', 'proceeding:0.2369', 'witness:0.2285', 'sergeant:0.2265', 'atrocity:0.2207', 'capture:0.2011', 'know:0.1992', 'evidence:0.1813', 'combine:0.177', 'bucha:0.1628', 'resume:0.1627', 'seat:0.1612', 'time:0.1559', 'friday:0.1448', 'vadim:0.1446', 'link:0.1175', 'far:0.1147', 'saw:0.1106', 'particular:0.1001', 'lot:0.0921', 'shishimarin:0.0652']+titles_keywords+['ukraine:0.4042', 'russians:0.3818', 'prosecuting:0.2555', 'begins:0.2196', 'war:0.2151']"
+        ]
+    ]
+}

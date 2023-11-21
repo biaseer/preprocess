@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+61":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/cp24.com/Zelenskyy at the UN accuses Russian military of war crimes.txt+eventbasecode61+eventcode61+avgtone0.4586994727592267+goldsteinscale0.82+nummentions0.21734397677793904+numarticles0.21791153009427122+numsources0.18092105263157895+news_keywords+['ukraine:0.48', 'kremlin:0.45', 'zelenskyy:0.3879', 'massacre:0.3761', 'totalitarian:0.2692', 'postwar:0.2574', 'accuse:0.2495', 'diplomat:0.2487', 'capital:0.2195', 'reiterating:0.2114', 'watch:0.201', 'law:0.1961', 'deploy:0.1935', 'order:0.1931', 'credible:0.1843', 'afraid:0.184', 'recount:0.1782', 'stir:0.1742', 'general:0.1675', 'bucha:0.1654', 'like:0.1626', 'head:0.1536', 'chamber:0.1501', 'cross:0.1439', 'technologies:0.1388', 'billion:0.1142', 'ap:0.1129', 'far:0.1079', 'feb:0.1072', 'pleasure:0.086']+titles_keywords+['zelenskyy:0.5313', 'russian:0.303', 'accuses:0.2814', 'war:0.2432', 'military:0.2012']"
+        ]
+    ],
+    "LBN+UKR+61":[
+        [
+            "20220801+../news_crawling/RUS_UKR/p_articles/cp24.com/1st ship carrying Ukrainian grain leaves the port of Odesa.txt+eventbasecode61+eventcode61+avgtone0.48291069459757446+goldsteinscale0.82+nummentions0.3018867924528302+numarticles0.30239303843364757+numsources0.3223684210526316+news_keywords+['ukraine:0.4571', 'kremlin:0.3945', 'shipment:0.3327', 'evacuate:0.3082', 'sidenko:0.2795', 'disrupt:0.2792', 'commodity:0.2734', 'import:0.2636', 'agreement:0.2553', 'political:0.2479', 'crisis:0.2453', 'aid:0.2419', 'incoming:0.2367', 'forward:0.2362', 'know:0.2338', 'want:0.2338', 'plan:0.2277', 'corridor:0.1916', 'long:0.1912', 'continue:0.1912', 'write:0.1787', 'emphasize:0.1729', 'pows:0.168', 'rih:0.1624', 'mechanism:0.1588', 'billion:0.1441', 'wednesday:0.1405', 'counteroffensive:0.1314', 'monitor:0.1276', 'sunflower:0.126']+titles_keywords+['odesa:0.3845', 'ship:0.3632', 'ukrainian:0.319', 'grain:0.2653', '1st:0.1771']"
+        ]
+    ],
+    "RUS+UKR+61":[
+        [
+            "20220507+../news_crawling/RUS_UKR/p_articles/cp24.com/Ukraine evacuates civilians from Mariupol steel plant under siege.txt+eventbasecode61+eventcode61+avgtone0.478328173374613+goldsteinscale0.82+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.019736842105263157+news_keywords+['kyiv:0.5248', 'evacuation:0.4469', 'bilogorivka:0.3541', 'putin:0.3516', 'military:0.3165', 'azov:0.3131', 'chernov:0.2569', 'progress:0.2508', 'unprovoked:0.2434', 'commemorate:0.2407', 'organize:0.2389', 'conflict:0.238', 'tank:0.2359', 'prevail:0.2305', 'telegram:0.2255', 'report:0.2208', 'turn:0.2045', 'agreement:0.1956', 'resume:0.1895', 'reclaim:0.1895', 'kilometer:0.1891', 'ap:0.1844', 'overnight:0.1789', 'th:0.1779', 'feel:0.1733', 'swath:0.1712', 'world:0.1636', 'way:0.1488', 'photographs:0.1414', 'population:0.1197']+titles_keywords+['evacuates:0.3811', 'ukraine:0.3682', 'civilians:0.3453', 'mariupol:0.2624', 'steel:0.2613']"
+        ]
+    ]
+}

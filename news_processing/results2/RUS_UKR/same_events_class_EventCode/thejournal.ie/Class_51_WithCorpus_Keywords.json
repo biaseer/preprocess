@@ -1,0 +1,12 @@
+{
+    "POL+UKR+51":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/thejournal.ie/War in Ukraine pushes number of people forcibly displaced globally to 100 million.txt+eventbasecode51+eventcode51+avgtone0.46458739441195585+goldsteinscale0.67+nummentions0.20029027576197386+numarticles0.20087019579405366+numsources0.3026315789473684+news_keywords+['ukraine:0.5331', 'refugee:0.461', 'evacuation:0.4138', 'war:0.4019', 'humanitarian:0.3862', 'separatist:0.3695', 'putins:0.3512', 'unhcr:0.3474', 'infrastructure:0.329', 'border:0.2752', 'covid:0.2718', 'remain:0.2439', 'population:0.2396', 'displace:0.2386', 'artillery:0.2261', 'bloc:0.2209', 'sievierodonetsk:0.2049', 'kilometre:0.1967', 'report:0.1901', 'data:0.1893', 'worry:0.1863', 'resume:0.176', 'want:0.1619', 'main:0.1575', 'combine:0.151', 'end:0.1485', 'pretext:0.1476', 'long:0.1468', 'sure:0.1108', 'duda:0.0768']+titles_keywords+['ukraine:0.4179', 'displaced:0.3311', 'war:0.3239', 'million:0.2139', 'people:0.1669']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/thejournal.ie/McDonalds to reopen some restaurants in Ukraine.txt+eventbasecode51+eventcode51+avgtone0.49740932642487046+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4664', 'mcdonalds:0.4084', 'economy:0.2956', 'burger:0.2912', 'franchise:0.2747', 'operate:0.2661', 'tochka:0.2285', 'food:0.2237', 'vkusno:0.2124', 'reopen:0.2045', 'western:0.1904', 'invasion:0.1891', 'normalcy:0.1646', 'govor:0.1641', 'prepare:0.1506', 'happen:0.1431', 'month:0.1373', 'period:0.1367', 'chain:0.1262', 'fight:0.1218', 'fast:0.1073', 'help:0.1072', 'tasty:0.1056', 'nearly:0.0873', 'spoken:0.0837', 'cost:0.0815', 'welcome:0.0751', 'major:0.0684', 'small:0.0651', 'weve:0.0448']+titles_keywords+['mcdonalds:0.4326', 'ukraine:0.3527', 'restaurants:0.3489', 'reopen:0.2488']"
+        ]
+    ]
+}

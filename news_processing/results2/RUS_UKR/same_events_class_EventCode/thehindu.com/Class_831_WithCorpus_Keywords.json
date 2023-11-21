@@ -1,0 +1,12 @@
+{
+    "RUS+FRA+831":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/thehindu.com/Ukraine to confront Russia at International Court of Justice on March 7.txt+eventbasecode83+eventcode831+avgtone0.4777777777777777+goldsteinscale0.75+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['ukraine:0.501', 'treaty:0.4582', 'genocide:0.4225', 'embassy:0.3586', 'hague:0.3465', 'law:0.2945', 'case:0.2828', 'emergency:0.2462', 'procedure:0.2344', 'argue:0.2327', 'resignation:0.2208', 'icj:0.2156', 'purport:0.2058', 'action:0.1987', 'forum:0.1908', 'march:0.1848', 'gmt:0.1846', 'military:0.1835', 'president:0.1815', 'respond:0.1702', 'hear:0.1431', 'request:0.1344', 'interpretation:0.1335', 'include:0.1305', 'look:0.1183', 'reach:0.117', 'track:0.1151', 'prevent:0.1031', 'basis:0.0909', 'set:0.0904']+titles_keywords+['ukraine:0.4491', 'confront:0.2054', 'court:0.1969', 'march:0.195', 'international:0.1556']"
+        ]
+    ],
+    "RUS+UKR+831":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/thehindu.com/Explained Why has Putins advisor Anatoly Chubais quit and left Russia.txt+eventbasecode83+eventcode831+avgtone0.4706723891273248+goldsteinscale0.75+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5777', 'kremlin:0.539', 'oligarch:0.4213', 'regime:0.3362', 'resign:0.3182', 'reutersthat:0.3171', 'dvorkovich:0.304', 'privatisation:0.2789', 'novosti:0.2725', 'adviser:0.2723', 'chubais:0.2611', 'strategic:0.2428', 'organisation:0.2288', 'know:0.2276', 'anonymity:0.2129', 'yarmysh:0.2118', 'valery:0.2022', 'invasion:0.1944', 'cite:0.1851', 'write:0.1836', 'according:0.1628', 'murder:0.1558', 'grow:0.147', 'caption:0.1409', 'casualty:0.1399', 'head:0.1385', 'year:0.1369', 'chair:0.1288', 'doesnt:0.0723', 'unlikely:0.06']+titles_keywords+['putins:0.4662', 'chubais:0.4199', 'anatoly:0.2678', 'advisor:0.2127', 'explained:0.2034']"
+        ]
+    ]
+}

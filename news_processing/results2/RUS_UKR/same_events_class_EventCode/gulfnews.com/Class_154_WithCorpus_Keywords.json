@@ -1,0 +1,12 @@
+{
+    "ARE+RUS+154":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/gulfnews.com/Kuwait will not face food shortages in case of RussiaUkraine war.txt+eventbasecode154+eventcode154+avgtone0.4772117962466488+goldsteinscale0.13999999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kuwait:0.4043', 'shortage:0.394', 'supply:0.3865', 'commerce:0.3857', 'stock:0.2788', 'war:0.2768', 'strategic:0.2679', 'consume:0.2349', 'meat:0.234', 'case:0.1991', 'increase:0.198', 'prepared:0.1961', 'intervene:0.1665', 'term:0.1657', 'import:0.1603', 'compensate:0.151', 'report:0.1414', 'affected:0.1389', 'newspaper:0.1364', 'month:0.1322', 'validity:0.1093', 'fahd:0.1056', 'additional:0.1004', 'long:0.0996', 'slowdown:0.0782', 'quote:0.0756', 'possible:0.0753', 'best:0.072', 'brreaks:0.0693', 'rai:0.0561']+titles_keywords+['kuwait:0.3869', 'war:0.2633', 'russiaukraine:0.2341', 'food:0.2083', 'case:0.0378']"
+        ]
+    ],
+    "UKR+RUS+154":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/gulfnews.com/Saudis foreign escorts back from Ukraine exempted from prearrival PCRs.txt+eventbasecode154+eventcode154+avgtone0.47904191616766467+goldsteinscale0.13999999999999999+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['saudi:0.4786', 'ukraine:0.4639', 'vaccination:0.2936', 'escort:0.2687', 'pcrs:0.2488', 'traveller:0.2073', 'gaca:0.1987', 'cairo:0.1937', 'aviation:0.1856', 'prearrival:0.1799', 'attack:0.1784', 'exempt:0.1735', 'east:0.1534', 'people:0.1495', 'departure:0.1486', 'report:0.148', 'prompt:0.1427', 'authority:0.1422', 'test:0.1366', 'require:0.1291', 'come:0.1165', 'twitter:0.1111', 'hour:0.1084', 'status:0.1058', 'cancel:0.0995', 'issue:0.0935', 'month:0.0876', 'civil:0.0869', 'negative:0.0829', 'actual:0.0351']+titles_keywords+['saudis:0.3963', 'escorts:0.3639', 'pcrs:0.3119', 'exempted:0.2402', 'prearrival:0.1594']"
+        ]
+    ]
+}

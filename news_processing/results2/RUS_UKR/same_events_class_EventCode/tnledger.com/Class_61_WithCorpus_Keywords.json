@@ -1,0 +1,12 @@
+{
+    "BGD+RUS+61":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/tnledger.com/After pandemic war in Ukraine new threat to food security.txt+eventbasecode61+eventcode61+avgtone0.4713302752293578+goldsteinscale0.82+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.03618421052631579+news_keywords+['bangladesh:0.506', 'pandemic:0.4228', 'agriculture:0.4058', 'ukraine:0.3732', 'war:0.3297', 'rice:0.322', 'hunger:0.2907', 'supply:0.2639', 'population:0.2467', 'crisis:0.2098', 'nation:0.2026', 'increase:0.1859', 'need:0.1767', 'salinity:0.1679', 'global:0.1649', 'progress:0.1641', 'main:0.1549', 'victim:0.1435', 'surge:0.1406', 'organize:0.1347', 'careful:0.1278', 'bad:0.1252', 'export:0.1135', 'head:0.1055', 'hasina:0.1022', 'ap:0.0962', 'thursday:0.0907', 'inequalities:0.084', 'total:0.0839', 'reversing:0.075']+titles_keywords+['pandemic:0.4842', 'ukraine:0.436', 'war:0.3396', 'food:0.337', 'new:0.0558']"
+        ]
+    ],
+    "LBN+UKR+61":[
+        [
+            "20220801+../news_crawling/RUS_UKR/p_articles/tnledger.com/1st ship carrying Ukrainian grain leaves the port of Odesa.txt+eventbasecode61+eventcode61+avgtone0.48588490770901194+goldsteinscale0.82+nummentions0.3018867924528302+numarticles0.30239303843364757+numsources0.3223684210526316+news_keywords+['kyiv:0.4596', 'kremlin:0.388', 'war:0.3477', 'turkey:0.307', 'evacuate:0.3022', 'humanitarian:0.2813', 'shipment:0.2536', 'tank:0.2407', 'crisis:0.2231', 'forward:0.2053', 'odesa:0.1962', 'feed:0.1923', 'oppose:0.1896', 'silos:0.1891', 'sector:0.1792', 'help:0.1719', 'soon:0.1668', 'expect:0.1637', 'agreement:0.1626', 'emphasize:0.162', 'secretary:0.1581', 'agricultural:0.1557', 'long:0.1521', 'viability:0.1476', 'ap:0.1428', 'mechanism:0.1252', 'buy:0.1239', 'state:0.1043', 'welcome:0.0922', 'possibility:0.0751']+titles_keywords+['odesa:0.3845', 'ship:0.3632', 'ukrainian:0.319', 'grain:0.2653', '1st:0.1771']"
+        ]
+    ]
+}

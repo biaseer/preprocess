@@ -1,0 +1,12 @@
+{
+    "RUS+NLD+42":[
+        [
+            "20220716+../news_crawling/RUS_UKR/p_articles/pakobserver.net/Russian strikes kill 23 in Ukraine.txt+eventbasecode42+eventcode42+avgtone0.4615384615384615+goldsteinscale0.595+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5292', 'russian:0.4366', 'zelensky:0.4044', 'terrorism:0.3788', 'missiles:0.3337', 'kill:0.3079', 'vinnytsia:0.3026', 'invade:0.2725', 'frontlines:0.2579', 'strike:0.2146', 'president:0.1788', 'charred:0.1608', 'dozen:0.1424', 'miss:0.1355', 'child:0.1291', 'somber:0.1257', 'daily:0.1162', 'toll:0.1159', 'discus:0.1064', 'late:0.1047', 'gutted:0.0984', 'world:0.0984', 'open:0.0864', 'official:0.0861', 'convene:0.0819', 'central:0.0739', 'distribute:0.0724', 'include:0.0442', 'basis:0.037', 'likely:-0.0106']+titles_keywords+['ukraine:0.3557', 'russian:0.3179', '23:0.234', 'strikes:0.2187', 'kill:0.2129']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220812+../news_crawling/RUS_UKR/p_articles/pakobserver.net/G7 wants Russia to return nuclear plant control to Kyiv.txt+eventbasecode42+eventcode42+avgtone0.4762845849802372+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4734', 'nuclear:0.3873', 'zaporizhzhia:0.3178', 'crisis:0.2635', 'reuters:0.2618', 'iaea:0.229', 'allegation:0.2243', 'nation:0.2117', 'attack:0.2107', 'power:0.2079', 'control:0.2072', 'operation:0.2066', 'warning:0.206', 'secure:0.1979', 'seize:0.1932', 'plant:0.1903', 'want:0.1751', 'border:0.1749', 'say:0.1711', 'position:0.1679', 'state:0.1637', 'town:0.161', 'verify:0.1588', 'return:0.1571', 'instigator:0.1553', 'immediately:0.1477', 'hand:0.1406', 'main:0.1031', 'ment:0.0908', 'independently:0.0449']+titles_keywords+['kyiv:0.4778', 'nuclear:0.3403', 'g7:0.2135', 'return:0.148', 'wants:0.1055']"
+        ]
+    ]
+}

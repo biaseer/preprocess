@@ -1,0 +1,17 @@
+{
+    "ARG+RUS+120":[
+        [
+            "20220827+../news_crawling/RUS_UKR/p_articles/trtworld.com/Russia blocks adoption of nuclear disarmament text at UN.txt+eventbasecode120+eventcode120+avgtone0.4737470167064439+goldsteinscale0.3+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.009868421052631578+news_keywords+['nuclear:0.4022', 'disarmament:0.3988', 'treaty:0.391', 'ukraine:0.3629', 'signatory:0.2621', 'concern:0.2428', 'agreement:0.2385', 'vishnevetsky:0.2319', 'oppose:0.2208', 'warn:0.2108', 'conference:0.2028', 'declaration:0.2019', 'npt:0.1995', 'postpone:0.1902', 'paragraph:0.1823', 'delegation:0.1819', 'north:0.1696', 'president:0.1642', 'world:0.1533', 'power:0.1442', 'end:0.1377', 'review:0.1367', 'achieve:0.1328', 'source:0.1294', 'include:0.1128', 'unable:0.1112', 'week:0.1095', 'long:0.1008', 'hot:0.0688', 'number:0.0686']+titles_keywords+['disarmament:0.3634', 'russia:0.2921', 'text:0.1577', 'blocks:0.138', 'adoption:0.1075']"
+        ]
+    ],
+    "GBR+RUS+120":[
+        [
+            "20210628+../news_crawling/RUS_UKR/p_articles/trtworld.com/Soggy pile of classified UK defence documents reportedly found at bus stop.txt+eventbasecode120+eventcode120+avgtone0.4879120879120879+goldsteinscale0.3+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.04276315789473684+news_keywords+['crimea:0.5441', 'kremlin:0.436', 'annex:0.3373', 'diplomatic:0.3291', 'investigation:0.3017', 'provocation:0.2794', 'bombs:0.2769', 'report:0.2636', 'gunnery:0.2614', 'concern:0.2513', 'bbc:0.2467', 'department:0.2462', 'sea:0.2457', 'information:0.2357', 'pile:0.207', 'bus:0.198', 'classify:0.1931', 'soggy:0.1888', 'anonymous:0.1843', 'passage:0.1777', 'wednesday:0.1743', 'contain:0.174', 'page:0.1597', 'reportedly:0.1576', 'understand:0.1546', 'possible:0.1472', 'pre:0.1169', 'tri:0.1121', 'powerpoint:0.0903', 'welcome:0.0722']+titles_keywords+['documents:0.4382', 'bus:0.278', 'pile:0.2277', 'soggy:0.2072', 'uk:0.2019']"
+        ]
+    ],
+    "RUS+UKR+120":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/trtworld.com/UK floats currency ban on Russian firms operating in dollars pounds.txt+eventbasecode120+eventcode120+avgtone0.47976878612716767+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['russia:0.5101', 'putin:0.4848', 'boris:0.366', 'oligarchs:0.3644', 'london:0.2728', 'rosneft:0.2475', 'peerage:0.2439', 'sanction:0.2351', 'block:0.2162', 'tory:0.2132', 'territory:0.2119', 'report:0.2106', 'republic:0.203', 'pound:0.1872', 'reality:0.179', 'publish:0.1719', 'bank:0.1713', 'float:0.1608', 'forward:0.1576', 'union:0.1558', 'hide:0.1554', 'transaction:0.1487', 'spell:0.1343', 'fall:0.1323', 'exactly:0.1231', 'switch:0.1207', 'access:0.1195', 'official:0.1075', 'look:0.0924', 'largely:0.0534']+titles_keywords+['currency:0.2916', 'russian:0.2867', 'ban:0.2591', 'uk:0.2383', 'floats:0.2117']"
+        ]
+    ]
+}

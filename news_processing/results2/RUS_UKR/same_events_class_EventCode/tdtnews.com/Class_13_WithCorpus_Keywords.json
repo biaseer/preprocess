@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+13":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/tdtnews.com/Possible mass graves near Mariupol as Russia attacks in east.txt+eventbasecode13+eventcode13+avgtone0.4662790697674419+goldsteinscale0.52+nummentions0.11357039187227866+numarticles0.11421319796954314+numsources0.41776315789473684+news_keywords+['crimea:0.5102', 'kremlin:0.4964', 'war:0.3154', 'pentagon:0.302', 'yuriy:0.3008', 'redeploy:0.2869', 'disaster:0.2802', 'casualty:0.2684', 'kill:0.2565', 'strategic:0.255', 'donbas:0.2393', 'overview:0.2317', 'industrial:0.2297', 'town:0.2236', 'publish:0.2204', 'transnistria:0.2176', 'telegram:0.2092', 'bucha:0.1889', 'april:0.186', 'anonymity:0.1827', 'hear:0.1778', 'order:0.1763', 'noting:0.1731', 'incoming:0.1651', 'nearly:0.1551', 'scatter:0.1491', 'piotr:0.1488', 'align:0.1481', 'long:0.1416', 'study:0.1413']+titles_keywords+['russia:0.3426', 'mariupol:0.2873', 'graves:0.2825', 'attacks:0.179', 'near:0.1736']"
+        ],
+        [
+            "20220614+../news_crawling/RUS_UKR/p_articles/tdtnews.com/Battle for Donbas could prove decisive in RussiaUkraine war.txt+eventbasecode13+eventcode13+avgtone0.480963480963481+goldsteinscale0.52+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.023026315789473683+news_keywords+['kyiv:0.4606', 'ukraines:0.4352', 'kremlin:0.3758', 'natos:0.3433', 'annexation:0.3247', 'combat:0.2948', 'donbas:0.28', 'upheaval:0.2784', 'mykhailo:0.2351', 'expect:0.2017', 'decisive:0.1896', 'devour:0.1824', 'gain:0.1763', 'attention:0.1713', 'finish:0.1707', 'forward:0.1694', 'analyst:0.1653', 'codify:0.1578', 'howitzer:0.1568', 'foreign:0.1516', 'long:0.1475', 'draw:0.1425', 'corridor:0.1376', 'sphere:0.1274', 'botch:0.1249', 'th:0.0996', 'counteroffensive:0.0989', 'badly:0.0954', 'resource:0.0917', 'set:0.0583']+titles_keywords+['donbas:0.4347', 'russiaukraine:0.3659', 'battle:0.3325', 'decisive:0.2348', 'prove:0.0868']"
+        ]
+    ]
+}

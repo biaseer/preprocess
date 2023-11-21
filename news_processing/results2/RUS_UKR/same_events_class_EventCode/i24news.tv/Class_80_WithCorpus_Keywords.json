@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/i24news.tv/Russian warship in Black Sea seriously damaged.txt+eventbasecode80+eventcode80+avgtone0.474025974025974+goldsteinscale0.75+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['warship:0.4266', 'russia:0.3651', 'odessa:0.3214', 'marchenko:0.282', 'genocide:0.2509', 'evacuate:0.2357', 'damage:0.213', 'black:0.2115', 'ammunition:0.2099', 'report:0.2092', 'besiege:0.1894', 'assistance:0.1753', 'telegram:0.1744', 'maksym:0.1725', 'security:0.1644', 'understand:0.1576', 'slam:0.1548', 'write:0.1535', 'stormy:0.152', 'thursday:0.1468', 'right:0.1301', 'neptune:0.1206', 'million:0.1152', 'come:0.1086', 'fully:0.1006', 'official:0.0967', 'control:0.0928', 'accord:0.0825', 'biden:0.082', 'seriously:0.058']+titles_keywords+['warship:0.3764', 'damaged:0.3615', 'russian:0.3317', 'black:0.1336', 'seriously:0.0513']"
+        ],
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/i24news.tv/ProRussian separatists to form merchant fleet from ships seized in occupied Mariupol.txt+eventbasecode80+eventcode80+avgtone0.4887640449438202+goldsteinscale0.75+nummentions0.01269956458635704+numarticles0.013415518491660623+numsources0.029605263157894735+news_keywords+['tsarevna:0.436', 'ukrainian:0.434', 'russias:0.3879', 'separatist:0.373', 'flag:0.3489', 'nationalize:0.3376', 'shipment:0.2901', 'republic:0.2738', 'occupied:0.2704', 'port:0.2663', 'panaman:0.2619', 'seize:0.2567', 'jurisdiction:0.249', 'dpr:0.2342', 'remain:0.2315', 'proclaim:0.219', 'justify:0.2134', 'denis:0.2099', 'mariupol:0.2023', 'steel:0.185', 'telegram:0.1834', 'write:0.1787', 'pas:0.1694', 'rename:0.1672', 'withdraw:0.1541', 'measure:0.1459', 'month:0.139', 'official:0.1361', 'smarta:0.1185', 'today:0.0984']+titles_keywords+['prorussian:0.4427', 'separatists:0.3967', 'ships:0.3525', 'seized:0.2597', 'mariupol:0.2304']"
+        ]
+    ]
+}

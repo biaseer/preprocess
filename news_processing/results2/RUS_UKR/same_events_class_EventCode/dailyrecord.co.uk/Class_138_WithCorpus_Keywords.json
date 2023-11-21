@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+138":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Boris Johnson pledges to toughen up sanctions as Putin sends forces into Ukraine.txt+eventbasecode138+eventcode138+avgtone0.46590909090909094+goldsteinscale0.15+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.508', 'ukraine:0.4502', 'sanction:0.3339', 'threat:0.3042', 'tories:0.2953', 'bloodshed:0.2862', 'invasion:0.2509', 'democracy:0.2398', 'ahead:0.2146', 'equivocation:0.2134', 'uk:0.2094', 'emergency:0.1983', 'unprovoked:0.1942', 'involve:0.1887', 'pledge:0.1858', 'volodymyr:0.1836', 'morning:0.1699', 'meeting:0.1695', 'funding:0.1645', 'jackboot:0.1615', 'strong:0.1614', 'prevent:0.157', 'update:0.152', 'burn:0.1353', 'learn:0.1284', 'horrendous:0.1267', 'say:0.1205', 'keir:0.1029', 'actually:0.0975', 'decisively:0.0971']+titles_keywords+['sanctions:0.4325', 'boris:0.3581', 'ukraine:0.2694', 'toughen:0.2344', 'forces:0.1992']"
+        ]
+    ],
+    "RUS+UKR+138":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Nicola Sturgeon warns Ukraine invasion could be most dangerous moment since Second World War.txt+eventbasecode138+eventcode138+avgtone0.4798387096774194+goldsteinscale0.15+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.03289473684210526+news_keywords+['ukraine:0.46', 'putin:0.439', 'war:0.3311', 'scottish:0.3084', 'imperialist:0.3082', 'snp:0.3079', 'oligarchs:0.3047', 'escalation:0.2819', 'dangerous:0.2654', 'parliament:0.257', 'sturgeon:0.2533', 'unprovoked:0.2368', 'crony:0.2208', 'sarwar:0.2068', 'hush:0.1893', 'holyrood:0.1816', 'introduce:0.1737', 'forefront:0.1584', 'moment:0.1547', 'resist:0.1518', 'intention:0.1493', 'arm:0.1428', 'hear:0.137', 'ready:0.1332', 'function:0.1277', 'douglas:0.1241', 'follow:0.1156', 'borrow:0.1118', 'today:0.1112', 'true:0.0669']+titles_keywords+['ukraine:0.3417', 'dangerous:0.3316', 'invasion:0.3227', 'sturgeon:0.3138', 'moment:0.2221']"
+        ]
+    ]
+}

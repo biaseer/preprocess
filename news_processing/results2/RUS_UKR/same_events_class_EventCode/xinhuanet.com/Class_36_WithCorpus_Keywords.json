@@ -1,0 +1,20 @@
+{
+    "BLR+RUS+36":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/xinhuanet.com/Russia continues to hit Ukraine targets with MoscowKiev talks expected.txt+eventbasecode36+eventcode36+avgtone0.49642857142857144+goldsteinscale0.7+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.02631578947368421+news_keywords+['ukraine:0.4673', 'kremlin:0.4481', 'dmitry:0.3725', 'chernobyl:0.3497', 'military:0.2801', 'negotiation:0.2795', 'zelensky:0.2732', 'operation:0.2684', 'blockade:0.2646', 'occupy:0.2471', 'president:0.2369', 'fight:0.2265', 'continue:0.2249', 'agreement:0.2067', 'tank:0.2026', 'respond:0.1955', 'delegation:0.19', 'ready:0.1806', 'thursday:0.177', 'hold:0.1711', 'televise:0.1661', 'want:0.1576', 'report:0.1568', 'brief:0.1504', 'main:0.1267', 'reach:0.123', 'plant:0.1227', 'javelin:0.1069', 'currently:0.1056', 'sarcophagus:0.0566']+titles_keywords+['moscowkiev:0.4308', 'ukraine:0.3663', 'targets:0.3114', 'talks:0.1965', 'continues:0.1491']"
+        ]
+    ],
+    "RUS+BLR+36":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/xinhuanet.com/Putin ready to send delegation to Minsk for talks with Ukraine.txt+eventbasecode36+eventcode36+avgtone0.5+goldsteinscale0.7+nummentions0.5653120464441219+numarticles0.5627266134880348+numsources0.5493421052631579+news_keywords+['putin:0.4353', 'kiev:0.4207', 'demilitarization:0.3772', 'peskov:0.3529', 'igor:0.3184', 'negotiation:0.3068', 'occupy:0.2618', 'blockade:0.2577', 'operation:0.2437', 'delegation:0.237', 'military:0.2196', 'plan:0.2113', 'status:0.2102', 'ready:0.2042', 'xinhua:0.1936', 'consist:0.1867', 'brief:0.1844', 'hold:0.1773', 'continue:0.1662', 'promise:0.1487', 'televise:0.1465', 'friday:0.1455', 'send:0.1311', 'spokesman:0.1214', 'neutral:0.1196', 'people:0.1031', 'create:0.1005', 'arm:0.0692', 'integral:0.0517', 'actually:0.0476']+titles_keywords+['putin:0.4075', 'minsk:0.3868', 'delegation:0.2433', 'send:0.1857', 'ready:0.1572']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/xinhuanet.com/Oil prices slip as traders weigh geopolitical risks.txt+eventbasecode36+eventcode36+avgtone0.4706867671691793+goldsteinscale0.7+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.013157894736842105+news_keywords+['geopolitical:0.3685', 'oil:0.3529', 'russia:0.329', 'futures:0.2747', 'texas:0.2434', 'negotiation:0.2431', 'barrel:0.2389', 'april:0.2375', 'occupy:0.2244', 'refuel:0.2181', 'dmitry:0.2176', 'xinhua:0.2172', 'tension:0.2126', 'escalate:0.2083', 'surge:0.2057', 'decrease:0.2045', 'president:0.2027', 'capital:0.1738', 'benchmark:0.1692', 'exchange:0.1676', 'slip:0.1565', 'brief:0.1522', 'update:0.1495', 'intraday:0.1444', 'say:0.1207', 'nearly:0.1139', 'digital:0.1075', 'intermediate:0.107', 'percent:0.0884', 'man:0.0565']+titles_keywords+['slip:0.3738', 'oil:0.2845', 'geopolitical:0.2364', 'prices:0.1252', 'risks:0.099']"
+        ],
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/xinhuanet.com/Ukraine Russia to resume peace talks Friday Ukrainian media.txt+eventbasecode36+eventcode36+avgtone0.5157894736842106+goldsteinscale0.7+nummentions0.01741654571843251+numarticles0.016678752719361856+numsources0.02631578947368421+news_keywords+['ukraine:0.4452', 'putin:0.4196', 'dmitry:0.382', 'meeting:0.3681', 'peace:0.334', 'moscowkiev:0.3322', 'talk:0.3106', 'zelensky:0.2643', 'telegram:0.2632', 'resumption:0.2618', 'president:0.243', 'xinhua:0.2228', 'finalization:0.2149', 'news:0.211', 'volodymyr:0.2059', 'tomorrow:0.1721', 'hope:0.1697', 'delegation:0.1639', 'resume:0.1582', 'report:0.1472', 'timeframe:0.1447', 'precede:0.1439', 'april:0.1385', 'say:0.1258', 'online:0.0992', 'cite:0.0908', 'possible:0.0859', 'format:0.0753', 'ranking:0.0712', 'medium:0.0499']+titles_keywords+['ukraine:0.3847', 'peace:0.2904', 'talks:0.2067', 'friday:0.1304', 'resume:0.1163']"
+        ]
+    ]
+}

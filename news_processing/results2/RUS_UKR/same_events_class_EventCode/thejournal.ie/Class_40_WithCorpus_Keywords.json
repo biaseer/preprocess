@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+40":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/thejournal.ie/The war on misinformation What counts as a win.txt+eventbasecode40+eventcode40+avgtone0.475210970464135+goldsteinscale0.55+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.006578947368421052+news_keywords+['disinformation:0.5013', 'factcheckers:0.4259', 'journalists:0.4111', 'russias:0.3739', 'war:0.3737', 'inform:0.3609', 'ukrainian:0.3505', 'narrative:0.3359', 'chernobyl:0.3045', 'frontline:0.289', 'government:0.288', 'feed:0.2478', 'flag:0.2457', 'manipulate:0.2139', 'covid:0.2039', 'data:0.2006', 'coordinate:0.1995', 'proactively:0.1995', 'instead:0.1974', 'bucha:0.1902', 'resource:0.1893', 'believe:0.1842', 'remind:0.1829', 'teach:0.1662', 'mixture:0.1498', 'sleuth:0.1421', 'times:0.1402', 'month:0.1335', 'new:0.1013', 'set:0.0817']+titles_keywords+['misinformation:0.4711', 'win:0.41', 'war:0.3843', 'counts:0.2418']"
+        ]
+    ],
+    "UKR+PRT+40":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/thejournal.ie/Two British aid workers captured by Russian forces in Ukraine.txt+eventbasecode40+eventcode40+avgtone0.46758569299552905+goldsteinscale0.55+nummentions0.041364296081277216+numarticles0.03734590282813633+numsources0.05263157894736842+news_keywords+['kyiv:0.488', 'putin:0.4252', 'russias:0.4123', 'correspondent:0.3662', 'evacuate:0.3533', 'afghanistan:0.3428', 'humanitarian:0.3266', 'annexation:0.2956', 'overthrow:0.2925', 'military:0.2911', 'cooperate:0.2775', 'attack:0.271', 'afp:0.2588', 'report:0.2317', 'telegram:0.2266', 'torture:0.2106', 'hear:0.2073', 'production:0.2073', 'continue:0.1907', 'worry:0.189', 'anonymity:0.1881', 'soon:0.1845', 'want:0.1831', 'term:0.1779', 'knew:0.1683', 'substation:0.1569', 'urey:0.156', 'million:0.1512', 'higher:0.1373', 'forces:0.1363']+titles_keywords+['ukraine:0.3664', 'captured:0.2464', 'aid:0.2223', 'workers:0.2195', 'forces:0.0901']"
+        ]
+    ]
+}

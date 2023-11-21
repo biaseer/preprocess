@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+130":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/Why is Russia attacking Ukraines railway system.txt+eventbasecode130+eventcode130+avgtone0.47677793904209+goldsteinscale0.27999999999999997+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.4366', 'rail:0.3673', 'sergei:0.3637', 'russias:0.3626', 'nato:0.3174', 'attack:0.3062', 'infrastructure:0.277', 'disrupt:0.2616', 'safety:0.227', 'evacuate:0.218', 'read:0.2043', 'refugee:0.2023', 'substation:0.1882', 'know:0.1841', 'blame:0.1746', 'want:0.1738', 'reach:0.1519', 'anonymity:0.1464', 'donbas:0.144', 'focus:0.1381', 'spared:0.1285', 'eastern:0.1225', 'plant:0.1163', 'rumours:0.1158', 'general:0.1025', 'sporadic:0.0991', 'child:0.093', 'legitimate:0.0838', 'largely:0.0629', 'week:0.0391']+titles_keywords+['ukraines:0.4793', 'russia:0.3589', 'railway:0.3492', 'attacking:0.3487']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220707+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/Russia has barely started its action in Ukraine Vladimir Putin warns.txt+eventbasecode130+eventcode130+avgtone0.46464646464646464+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4803', 'kremlin:0.3957', 'invade:0.3255', 'conflict:0.2876', 'separatist:0.275', 'read:0.2288', 'know:0.2045', 'explain:0.1933', 'succeed:0.1871', 'military:0.1836', 'long:0.182', 'transnistria:0.1804', 'brace:0.1774', 'order:0.1771', 'end:0.175', 'corridor:0.1693', 'weaken:0.1662', 'president:0.1628', 'use:0.1628', 'stage:0.1614', 'analyst:0.158', 'ready:0.1578', 'term:0.1488', 'focus:0.1364', 'bad:0.1317', 'donbas:0.1288', 'reaffirm:0.1191', 'ominously:0.1178', 'thursday:0.1053', 'everybody:0.1042']+titles_keywords+['putin:0.4575', 'action:0.286', 'started:0.2152', 'warns:0.1866', 'barely:0.1348']"
+        ]
+    ]
+}

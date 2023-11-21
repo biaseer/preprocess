@@ -1,0 +1,27 @@
+{
+    "ARE+RUS+50":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/After criticism Wizz Air will not resume RussiaUAE flights.txt+eventbasecode50+eventcode50+avgtone0.4790697674418605+goldsteinscale0.675+nummentions0.28519593613933236+numarticles0.2857142857142857+numsources0.2565789473684211+news_keywords+['uae:0.4638', 'moscow:0.3898', 'flight:0.3773', 'airspace:0.347', 'theairline:0.3395', 'boycott:0.2943', 'ban:0.2635', 'supply:0.2346', 'european:0.224', 'sovereign:0.192', 'invasion:0.1884', 'statement:0.1849', 'twitter:0.1839', 'month:0.179', 'wizz:0.1743', 'venture:0.1726', 'criticism:0.1662', 'respond:0.1639', 'union:0.1616', 'say:0.1583', 'list:0.156', 'neutral:0.1513', 'previous:0.1509', 'adq:0.1407', 'stance:0.1406', 'despite:0.1338', 'use:0.1317', 'hold:0.128', 'percent:0.0871', 'resume:0.0649']+titles_keywords+['flights:0.3566', 'russiauae:0.3431', 'wizz:0.3111', 'criticism:0.2165', 'resume:0.0627']"
+        ]
+    ],
+    "EUR+RUS+50":[
+        [
+            "20220113+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/OSCE Meeting Ends No Movement Made In RussiaUkraine Crisis.txt+eventbasecode50+eventcode50+avgtone0.4894736842105263+goldsteinscale0.675+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['nato:0.4628', 'osce:0.4544', 'diplomacy:0.4388', 'crimea:0.3854', 'escalation:0.294', 'meeting:0.2851', 'vladimir:0.276', 'invade:0.2714', 'europeradio:0.25', 'reassure:0.2212', 'president:0.2081', 'border:0.2007', 'council:0.2005', 'exchange:0.1949', 'prospect:0.1842', 'ends:0.1739', 'prepare:0.1567', 'ally:0.1546', 'movement:0.1474', 'week:0.1314', 'near:0.1189', 'sphere:0.1181', 'images:0.1173', 'deadlock:0.1108', 'long:0.1101', 'seek:0.1091', 'issue:0.1006', 'official:0.0895', 'hear:0.0883', 'difference:0.0713']+titles_keywords+['osce:0.4426', 'russiaukraine:0.3483', 'meeting:0.2421', 'ends:0.2261', 'movement:0.2046']"
+        ]
+    ],
+    "RUS+UKR+50":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Russian military confirms seizure of Chernobyl nuclear power plant.txt+eventbasecode50+eventcode50+avgtone0.4803921568627451+goldsteinscale0.675+nummentions0.01088534107402032+numarticles0.011602610587382161+numsources0.013157894736842105+news_keywords+['chernobyl:0.5743', 'ukrainian:0.389', 'reactor:0.3773', 'moscow:0.3651', 'ceasefire:0.3196', 'operation:0.2673', 'coup:0.2532', 'dpr:0.2189', 'troop:0.2177', 'safe:0.2161', 'independence:0.2071', 'attack:0.1848', 'plant:0.1718', 'report:0.1662', 'situation:0.1638', 'seizure:0.163', 'prepare:0.1619', 'location:0.1483', 'continue:0.1469', 'friday:0.1407', 'surround:0.1218', 'structure:0.1206', 'shell:0.1178', 'confirms:0.1098', 'retake:0.1075', 'line:0.0976', 'reach:0.0846', 'major:0.083', 'entirely:0.0715', 'add:0.0425']+titles_keywords+['chernobyl:0.5417', 'russian:0.2618', 'military:0.17', 'plant:0.1449', 'confirms:0.1349']"
+        ]
+    ],
+    "UKR+RUS+50":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/US provides USD 350 million immediate support to Ukraine against Russias military actions.txt+eventbasecode50+eventcode50+avgtone0.5+goldsteinscale0.675+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.01644736842105263+news_keywords+['ukraine:0.5012', 'putin:0.4317', 'russias:0.4228', 'military:0.3371', 'threat:0.2921', 'president:0.266', 'unprovoked:0.2626', 'operation:0.2569', 'sanction:0.2483', 'pursuant:0.2444', 'assistance:0.2216', 'additional:0.2131', 'authorize:0.2072', 'authority:0.2037', 'state:0.2022', 'order:0.1976', 'ongoing:0.1975', 'union:0.1943', 'develop:0.178', 'donbas:0.1722', 'usd:0.1675', 'drawdown:0.1495', 'say:0.1453', 'december:0.1448', 'previous:0.1434', 'total:0.1419', 'today:0.1411', 'breakaway:0.1345', 'include:0.1219', 'ani:0.0934']+titles_keywords+['ukraine:0.4269', 'military:0.2592', 'immediate:0.2537', 'support:0.234', 'usd:0.2312']"
+        ]
+    ],
+    "WST+RUS+50":[
+        [
+            "20220210+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Moscow not thinking West ready for unleashing conflict with Russia Senior Diplomat.txt+eventbasecode50+eventcode50+avgtone0.4707792207792208+goldsteinscale0.675+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.01644736842105263+news_keywords+['ukraine:0.4288', 'nato:0.4226', 'moscow:0.3944', 'gatilov:0.3319', 'diplomat:0.2835', 'conflict:0.2731', 'sputnik:0.2006', 'preparation:0.1964', 'plan:0.1822', 'sanction:0.1815', 'ready:0.1721', 'talk:0.156', 'western:0.1473', 'conclusions:0.1452', 'security:0.139', 'geneva:0.1318', 'unleash:0.1292', 'raise:0.1257', 'office:0.1214', 'stakes:0.1115', 'make:0.1111', 'united:0.1071', 'february:0.0861', 'rethink:0.084', 'step:0.0838', 'real:0.0811', 'obvious:0.0775', 'possible:0.0642', 'far:0.042', 'senior:0.0383']+titles_keywords+['moscow:0.3816', 'diplomat:0.3704', 'conflict:0.2253', 'unleashing:0.1163', 'ready:0.0896']"
+        ]
+    ]
+}

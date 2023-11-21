@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/redriverradio.org/Russia calls peace talks a dead end as it preps a new offensive in eastern.txt+eventbasecode20+eventcode20+avgtone0.4591836734693875+goldsteinscale0.65+nummentions0.04898403483309144+numarticles0.049673676577229875+numsources0.049342105263157895+news_keywords+['crimea:0.4999', 'ukrainians:0.4268', 'nato:0.4158', 'putin:0.4008', 'war:0.3464', 'troop:0.3134', 'frontline:0.3087', 'strategic:0.2753', 'prepare:0.2707', 'predict:0.2475', 'artillery:0.2377', 'soon:0.2255', 'know:0.2203', 'escalate:0.2135', 'volodymyr:0.2038', 'organization:0.1974', 'medvedchuk:0.1864', 'analyst:0.168', 'response:0.1559', 'end:0.147', 'lead:0.1418', 'npr:0.1376', 'focus:0.1323', 'new:0.1304', 'eastern:0.1289', 'bloody:0.1271', 'hi:0.1262', 'big:0.1206', 'make:0.1202', 'rotate:0.1109']+titles_keywords+['ukraine:0.293', 'end:0.2785', 'peace:0.2651', 'dead:0.1757', 'preps:0.077']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220120+../news_crawling/RUS_UKR/p_articles/redriverradio.org/The US is giving Ukraine weapons and political support but not troops.txt+eventbasecode20+eventcode20+avgtone0.51+goldsteinscale0.65+nummentions0.12917271407837447+numarticles0.12980420594633793+numsources0.11513157894736842+news_keywords+['nato:0.4663', 'ukrainians:0.4085', 'invade:0.3798', 'kremlin:0.3597', 'troop:0.328', 'tank:0.2552', 'correspondent:0.2455', 'security:0.2229', 'assistance:0.2086', 'shortly:0.2056', 'weapon:0.2039', 'align:0.2005', 'biden:0.1959', 'explanation:0.1957', 'know:0.188', 'respond:0.1841', 'buffer:0.1765', 'reform:0.1762', 'western:0.1735', 'contingent:0.1648', 'friendly:0.1633', 'sell:0.1614', 'force:0.1546', 'make:0.1339', 'lengthy:0.1161', 'nightmare:0.1125', 'pifer:0.0949', 'miscalculation:0.0896', 'sort:0.0896', 'way:0.0742']+titles_keywords+['ukraine:0.4224', 'troops:0.3535', 'weapons:0.1918', 'political:0.1543', 'giving:0.1353']"
+        ],
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/redriverradio.org/What Kyiv looks like as Russian troops appear to reposition.txt+eventbasecode20+eventcode20+avgtone0.5+goldsteinscale0.65+nummentions0.02104499274310595+numarticles0.021754894851341553+numsources0.019736842105263157+news_keywords+['kyiv:0.6102', 'russians:0.3923', 'war:0.365', 'nato:0.3312', 'troop:0.3041', 'pentagon:0.2933', 'stay:0.2762', 'safer:0.2606', 'sheltering:0.2502', 'reposition:0.247', 'alarm:0.2447', 'tank:0.2377', 'scary:0.2261', 'understand:0.2078', 'table:0.1948', 'redirect:0.1868', 'npr:0.1726', 'deliver:0.1714', 'general:0.1688', 'hears:0.1637', 'transcript:0.1585', 'information:0.1582', 'population:0.1461', 'anticipate:0.1419', 'look:0.1305', 'way:0.1293', 'april:0.1263', 'nadworny:0.1256', 'hi:0.115', 'young:0.1043']+titles_keywords+['kyiv:0.6473', 'reposition:0.3815', 'troops:0.3762', 'looks:0.21', 'appear:0.1891']"
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "CHN+RUS+20":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/news.am/China calls for creation of green corridor to ensure grain exports from Russia and Ukraine.txt+eventbasecode20+eventcode20+avgtone0.4942528735632184+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.446', 'ceasefire:0.3119', 'china:0.2918', 'corridor:0.2316', 'yi:0.2036', 'export:0.2004', 'green:0.1946', 'wang:0.1824', 'grain:0.1725', 'assist:0.157', 'international:0.1445', 'concern:0.1349', 'deal:0.1328', 'ensure:0.1301', 'german:0.128', 'contribute:0.1227', 'create:0.1172', 'conference:0.1111', 'annalena:0.1077', 'aside:0.1049', 'current:0.1025', 'situation:0.0998', 'say:0.073', 'community:0.0682', 'minister:0.0612', 'according:0.061', 'video:0.038', 'soonest:0.0367', 'stand:0.0349', 'baerbock:0.0267']+titles_keywords+['ukraine:0.242', 'corridor:0.1978', 'grain:0.194', 'exports:0.1754', 'green:0.1653']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/news.am/Putin urges Ukrainian military to take power into its own hands.txt+eventbasecode20+eventcode20+avgtone0.5078125+goldsteinscale0.65+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.5452', 'kyiv:0.4799', 'vladimir:0.4587', 'russian:0.3961', 'nazis:0.301', 'power:0.2582', 'armed:0.2476', 'nation:0.2443', 'gang:0.2284', 'come:0.2204', 'agreement:0.2075', 'hostage:0.2048', 'allow:0.1997', 'urge:0.1899', 'report:0.1811', 'say:0.1691', 'forces:0.1658', 'hand:0.1628', 'benderovites:0.1488', 'use:0.1375', 'neo:0.1352', 'easy:0.1321', 'child:0.1263', 'serviceman:0.1235', 'drug:0.1146', 'shield:0.1078', 'rbc:0.107', 'appeal:0.0849', 'elderly:0.0633', 'entire:0.0358']+titles_keywords+['putin:0.414', 'ukrainian:0.3894', 'military:0.2651', 'power:0.1929', 'urges:0.0979']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220730+../news_crawling/RUS_UKR/p_articles/news.am/NYT Blinken resists attempts to declare Russia a sponsor of terrorism.txt+eventbasecode20+eventcode20+avgtone0.4911894273127754+goldsteinscale0.65+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['terrorism:0.3629', 'moscow:0.3282', 'sanctioned:0.3213', 'diplomacy:0.2973', 'nyt:0.2858', 'senate:0.2771', 'declare:0.2368', 'cuba:0.219', 'choice:0.216', 'president:0.2028', 'action:0.1897', 'department:0.1809', 'definition:0.1745', 'blinken:0.1698', 'thursday:0.162', 'base:0.16', 'state:0.1596', 'push:0.1434', 'exist:0.1425', 'publication:0.1421', 'note:0.1374', 'moot:0.1207', 'resist:0.1184', 'transition:0.109', 'list:0.1074', 'currently:0.1045', 'bypass:0.0996', 'sure:0.0904', 'entirely:0.0848', 'resolution:0.0685']+titles_keywords+['nyt:0.3744', 'russia:0.333', 'blinken:0.3233', 'terrorism:0.3095', 'resists:0.2747']"
+        ]
+    ],
+    "WST+UKR+20":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/news.am/NATO unlikely to support calls for nofly zone over Ukraine.txt+eventbasecode20+eventcode20+avgtone0.4726277372262773+goldsteinscale0.65+nummentions0.06785195936139332+numarticles0.03952139231327049+numsources0.046052631578947366+news_keywords+['nato:0.5139', 'ukraine:0.3857', 'airspace:0.3732', 'fly:0.3088', 'pentagon:0.2346', 'zone:0.219', 'zelenskyy:0.2165', 'conflict:0.2121', 'reuters:0.1828', 'enforce:0.179', 'worry:0.1619', 'ahead:0.139', 'president:0.1374', 'extend:0.1337', 'securing:0.1274', 'say:0.1244', 'reject:0.1155', 'discussed:0.1087', 'ally:0.1071', 'write:0.105', 'seek:0.098', 'turn:0.0864', 'stoltenberg:0.0783', 'unlikely:0.0706', 'friday:0.0642', 'prospect:0.0593', 'line:0.0463', 'request:0.0456', 'legitimate:0.04', 'kirby:0.0138']+titles_keywords+['nato:0.4894', 'nofly:0.2475', 'unlikely:0.1506', 'zone:0.1139', 'calls:0.0257']"
+        ]
+    ]
+}

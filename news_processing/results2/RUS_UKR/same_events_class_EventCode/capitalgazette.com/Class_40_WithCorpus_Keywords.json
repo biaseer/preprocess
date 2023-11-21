@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+40":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/capitalgazette.com/Glimmers of hope seen at talks but Russias onslaught continues in Ukraine.txt+eventbasecode40+eventcode40+avgtone0.4747961452928095+goldsteinscale0.55+nummentions0.08127721335268505+numarticles0.07831762146482958+numsources0.12828947368421054+news_keywords+['crimea:0.4849', 'putin:0.4008', 'diplomatic:0.3523', 'evacuate:0.3313', 'zelenskyy:0.3041', 'separatist:0.2978', 'erupt:0.2832', 'infrastructure:0.2664', 'military:0.2661', 'neutrality:0.2626', 'know:0.2474', 'bombardment:0.244', 'term:0.2275', 'continue:0.2264', 'align:0.2165', 'plan:0.2031', 'fight:0.196', 'order:0.1879', 'long:0.1862', 'corridor:0.1844', 'pull:0.1823', 'analyze:0.1819', 'donbas:0.1711', 'source:0.1708', 'view:0.1702', 'breakthrough:0.1579', 'world:0.1538', 'nearly:0.1458', 'bodies:0.1369', 'welcome:0.0946']+titles_keywords+['ukraine:0.4085', 'hope:0.3366', 'talks:0.2189', 'onslaught:0.1715', 'seen:0.0959']"
+        ]
+    ],
+    "RUS+USA+40":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/capitalgazette.com/Russian attacks halt plans to evacuate Ukrainian civilians.txt+eventbasecode40+eventcode40+avgtone0.47115384615384615+goldsteinscale0.55+nummentions0.057329462989840346+numarticles0.05801305293691081+numsources0.08552631578947369+news_keywords+['ukraine:0.4657', 'evacuations:0.4577', 'chernobyl:0.3694', 'moscows:0.3648', 'war:0.3249', 'zelenskyy:0.3085', 'erdogan:0.2956', 'propaganda:0.2916', 'crisis:0.2686', 'kill:0.2587', 'soon:0.2209', 'telegram:0.2193', 'plan:0.2111', 'concern:0.2058', 'presidentvoldymyr:0.1892', 'shift:0.189', 'bloc:0.1884', 'hear:0.1866', 'watchdog:0.1792', 'end:0.1756', 'intensify:0.1745', 'resume:0.1679', 'radical:0.162', 'bucha:0.1496', 'replace:0.149', 'backlog:0.1477', 'major:0.1369', 'far:0.1299', 'compare:0.1271', 'onlookers:0.1268']+titles_keywords+['ukrainian:0.4235', 'evacuate:0.409', 'civilians:0.3263', 'attacks:0.2054', 'plans:0.1356']"
+        ]
+    ]
+}

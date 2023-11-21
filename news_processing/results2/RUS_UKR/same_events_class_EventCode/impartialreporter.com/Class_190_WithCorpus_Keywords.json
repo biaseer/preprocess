@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+190":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Street fighting begins in Kyiv as Ukraine president refuses to leave.txt+eventbasecode190+eventcode190+avgtone0.47611788617886175+goldsteinscale0.0+nummentions0.3218432510885341+numarticles0.3223350253807107+numsources0.45394736842105265+news_keywords+['kyiv:0.5415', 'ceasefire:0.4014', 'militarily:0.3419', 'putins:0.3279', 'emergency:0.2843', 'invasion:0.266', 'fight:0.2617', 'escalates:0.2605', 'proceed:0.2563', 'zelensky:0.2526', 'warn:0.2319', 'stay:0.2209', 'presidential:0.2065', 'turn:0.1942', 'tank:0.1919', 'expect:0.1869', 'paratrooper:0.1855', 'storm:0.1826', 'meeting:0.1749', 'bleak:0.1615', 'eastern:0.158', 'anti:0.1576', 'tweet:0.1525', 'world:0.1324', 'far:0.1268', 'outside:0.125', 'bila:0.115', 'total:0.1146', 'highlight:0.0824', 'resolution:0.0661']+titles_keywords+['kyiv:0.4304', 'fighting:0.3772', 'street:0.2478', 'refuses:0.1682', 'president:0.1422']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220528+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Russia takes small cities as it aims to widen battle in east Ukraine.txt+eventbasecode190+eventcode190+avgtone0.48052536231884063+goldsteinscale0.0+nummentions0.36502177068214803+numarticles0.36548223350253806+numsources0.32894736842105265+news_keywords+['ukraine:0.4754', 'kremlin:0.4397', 'moscows:0.3906', 'nato:0.3795', 'sergey:0.339', 'invade:0.326', 'escalation:0.2636', 'prepare:0.246', 'sievierodonetsk:0.2281', 'logistics:0.223', 'develop:0.2216', 'capital:0.2155', 'news:0.2151', 'know:0.2148', 'navigation:0.21', 'don:0.2081', 'warhead:0.1884', 'president:0.1875', 'cite:0.184', 'resume:0.1818', 'multilateral:0.1804', 'naval:0.1715', 'safe:0.171', 'task:0.1626', 'long:0.159', 'end:0.1383', 'powerful:0.1383', 'trade:0.1302', 'second:0.1001', 'exporter:0.0635']+titles_keywords+['ukraine:0.4105', 'widen:0.2102', 'battle:0.1699', 'small:0.1665', 'takes:0.1411']"
+        ]
+    ]
+}

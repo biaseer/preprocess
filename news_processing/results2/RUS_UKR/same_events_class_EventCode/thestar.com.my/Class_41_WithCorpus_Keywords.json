@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+41":[
+        [
+            "20220819+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Russia says Putin and Macron hold call discuss Zaporizhzhia nuclear plant Russian food exports.txt+eventbasecode41+eventcode41+avgtone0.4864864864864865+goldsteinscale0.55+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['putin:0.518', 'kremlin:0.4488', 'russia:0.4241', 'kyiv:0.397', 'macron:0.3718', 'nuclear:0.291', 'reuters:0.2895', 'sputnikkremlin:0.2544', 'zaporizhzhia:0.2536', 'meet:0.1834', 'supply:0.1798', 'french:0.1767', 'situation:0.1666', 'risk:0.1435', 'attend:0.1355', 'world:0.1254', 'tell:0.124', 'blame:0.1218', 'plant:0.1147', 'phone:0.1127', 'send:0.109', 'shell:0.1057', 'file:0.0999', 'continue:0.0835', 'february:0.0826', 'according:0.0796', 'readout:0.0785', 'scale:0.0712', 'discus:0.0557', 'agree:0.0447']+titles_keywords+['putin:0.3559', 'zaporizhzhia:0.3251', 'nuclear:0.2917', 'exports:0.1439', 'hold:0.1386']"
+        ]
+    ],
+    "UKR+RUS+41":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Putin and Macron discuss need to step up Ukraine diplomacyKremlin.txt+eventbasecode41+eventcode41+avgtone0.48684210526315785+goldsteinscale0.55+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['putin:0.4119', 'ukraine:0.4049', 'ceasefire:0.3955', 'diplomacykremlin:0.386', 'diplomatic:0.3825', 'macron:0.3593', 'escalation:0.3059', 'presidents:0.2469', 'crisis:0.2357', 'adviser:0.2212', 'contact:0.2154', 'reutersfile:0.1988', 'urgency:0.1924', 'solution:0.1487', 'discuss:0.1458', 'zelenskiy:0.1329', 'eastern:0.1148', 'view:0.1019', 'progress:0.1018', 'secure:0.0969', 'acknowledge:0.0934', 'separate:0.0843', 'february:0.0831', 'format:0.0777', 'normandy:0.0715', 'possible:0.0703', 'donbass:0.0624', 'attend:0.0623', 'photo:0.0597', 'thibault:0.0182']+titles_keywords+['diplomacykremlin:0.476', 'macron:0.4652', 'ukraine:0.3354', 'discuss:0.1808', 'step:0.1155']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+60":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/cp24.com/Russian airstrike escalates offensive in western Ukraine.txt+eventbasecode60+eventcode60+avgtone0.47484984984984985+goldsteinscale0.8+nummentions0.3980406386066763+numarticles0.39847715736040606+numsources0.5855263157894737+news_keywords+['crimea:0.4682', 'airstrikes:0.4431', 'nato:0.4057', 'kremlin:0.4004', 'escalation:0.3144', 'deploy:0.2971', 'combatant:0.2771', 'attacked:0.2742', 'zelenskyy:0.2718', 'barrage:0.2279', 'strategic:0.219', 'respond:0.2172', 'worry:0.2114', 'news:0.2052', 'eastern:0.1992', 'justification:0.197', 'agreement:0.1845', 'sprawl:0.1812', 'corridor:0.1753', 'instead:0.1737', 'amplify:0.1586', 'fall:0.1552', 'word:0.1419', 'distant:0.127', 'population:0.1249', 'nearly:0.1238', 'medical:0.1167', 'draw:0.106', 'major:0.1058', 'request:0.0823']+titles_keywords+['airstrike:0.472', 'ukraine:0.3759', 'escalates:0.245', 'western:0.1895', 'offensive:0.1738']"
+        ]
+    ],
+    "UKR+RUS+60":[
+        [
+            "20220516+../news_crawling/RUS_UKR/p_articles/cp24.com/Ukraine More than 260 fighters evacuated from Mariupol mill.txt+eventbasecode60+eventcode60+avgtone0.48133116883116883+goldsteinscale0.8+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.019736842105263157+news_keywords+['kyiv:0.4899', 'nato:0.4408', 'kremlin:0.4073', 'military:0.3472', 'evacuate:0.3423', 'invasion:0.3193', 'azov:0.3131', 'erdogan:0.2993', 'separatist:0.2675', 'chernov:0.2469', 'infrastructure:0.2393', 'disinformation:0.237', 'know:0.2259', 'brace:0.2075', 'help:0.2064', 'kilometer:0.2045', 'agreement:0.1986', 'corridor:0.1985', 'additional:0.1975', 'fight:0.1902', 'count:0.1897', 'donbas:0.1895', 'import:0.1783', 'long:0.1719', 'th:0.1709', 'secretary:0.1693', 'immediately:0.1616', 'nonaligned:0.1513', 'thank:0.1168', 'prerecord:0.0946']+titles_keywords+['ukraine:0.3315', 'evacuated:0.2775', '260:0.2453', 'fighters:0.2392', 'mariupol:0.223']"
+        ]
+    ]
+}

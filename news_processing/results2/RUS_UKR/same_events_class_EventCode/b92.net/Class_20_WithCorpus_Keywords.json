@@ -1,0 +1,16 @@
+{
+    "EUR+RUS+20":[
+        [],
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/b92.net/EU resolution on Russia Serbia is mentioned in the text VIDEO.txt+eventbasecode20+eventcode20+avgtone0.4924731182795699+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4596', 'sanction:0.318', 'diplomatic:0.2514', 'federation:0.24', 'invasion:0.2363', 'paragraph:0.2267', 'unprovoked:0.2248', 'approve:0.2228', 'introduce:0.2196', 'continuation:0.2028', 'volodymyr:0.1975', 'vote:0.1956', 'economy:0.1949', 'euro:0.194', 'prepare:0.1721', 'session:0.1672', 'aid:0.1633', 'solution:0.1596', 'state:0.1411', 'order:0.1397', 'resolution:0.138', 'expectation:0.1226', 'fact:0.1211', 'weaken:0.1161', 'legally:0.1137', 'people:0.1134', 'video:0.1125', 'multibillion:0.0948', 'today:0.0854', 'far:0.053']+titles_keywords+['serbia:0.476', 'video:0.2487', 'resolution:0.2287', 'text:0.1838', 'mentioned:0.1277']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/b92.net/Russians declared a truce.txt+eventbasecode20+eventcode20+avgtone0.4855072463768116+goldsteinscale0.65+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.0+news_keywords+['ceasefire:0.5075', 'ukraine:0.4507', 'russians:0.4142', 'mikhail:0.3807', 'mezentsev:0.339', 'surrender:0.3301', 'vereshchuk:0.2683', 'announce:0.2446', 'troop:0.2206', 'operational:0.2061', 'april:0.1889', 'steel:0.182', 'mariupol:0.1782', 'report:0.1693', 'iryna:0.1636', 'minute:0.1589', 'send:0.158', 'today:0.1428', 'start:0.1383', 'radio:0.1354', 'guarantee:0.1275', 'assistance:0.1273', 'center:0.1254', 'management:0.1245', 'lay:0.1162', 'state:0.1118', 'plant:0.1104', 'tass:0.1018', 'according:0.0937', 'head:0.053']+titles_keywords+['truce:0.6126', 'russians:0.4542', 'declared:0.1732']"
+        ],
+        [
+            "20220629+../news_crawling/RUS_UKR/p_articles/b92.net/World War III Total disaster.txt+eventbasecode20+eventcode20+avgtone0.47602739726027393+goldsteinscale0.65+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['crimea:0.5167', 'russia:0.3674', 'dmitry:0.3651', 'medvedev:0.3587', 'war:0.3527', 'president:0.2439', 'disaster:0.2377', 'declaration:0.2126', 'iii:0.1968', 'world:0.1516', 'say:0.1385', 'security:0.1301', 'consider:0.0992', 'attempt:0.0867', 'deputy:0.0791', 'reach:0.0605', 'total:0.0402', 'council:0.0334']+titles_keywords+['disaster:0.5417', 'war:0.4439', 'world:0.3403', 'iii:0.2754', 'total:0.1576']"
+        ]
+    ]
+}

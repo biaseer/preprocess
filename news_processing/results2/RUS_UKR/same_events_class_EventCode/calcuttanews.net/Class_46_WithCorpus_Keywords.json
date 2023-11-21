@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/calcuttanews.net/Putin Orders Nuclear Deterrent Forces on High Alert.txt+eventbasecode46+eventcode46+avgtone0.47838899803536344+goldsteinscale0.85+nummentions0.14912917271407838+numarticles0.1410442349528644+numsources0.5230263157894737+news_keywords+['ukraine:0.4263', 'putin:0.4244', 'nato:0.3509', 'invasion:0.327', 'military:0.3005', 'nuclear:0.2666', 'pentagon:0.2516', 'kill:0.2422', 'mostyska:0.2326', 'correspondent:0.2312', 'alert:0.2209', 'separatist:0.2204', 'casualty:0.2053', 'orders:0.2007', 'protest:0.1986', 'aggressive:0.1957', 'pipeline:0.1956', 'truck:0.183', 'pripyat:0.1789', 'expect:0.1702', 'continue:0.1647', 'cite:0.1472', 'ready:0.1443', 'precondition:0.1348', 'saturday:0.1329', 'near:0.1207', 'child:0.12', 'voa:0.1157', 'pattern:0.109', 'agree:0.0601']+titles_keywords+['putin:0.4217', 'nuclear:0.3938', 'forces:0.1907', 'orders:0.1688', 'alert:0.1566']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20211207+../news_crawling/RUS_UKR/p_articles/calcuttanews.net/Ruble holds strong as US threatens to cut Russia off SWIFT.txt+eventbasecode46+eventcode46+avgtone0.4673913043478261+goldsteinscale0.85+nummentions0.10885341074020319+numarticles0.10949963741841914+numsources0.16447368421052633+news_keywords+['putin:0.4756', 'moscow:0.4369', 'rubles:0.4275', 'threat:0.3555', 'sanction:0.2813', 'bloomberg:0.2804', 'euro:0.2503', 'monday:0.201', 'stock:0.1983', 'strengthen:0.1936', 'report:0.1922', 'speculation:0.1922', 'military:0.1909', 'cite:0.1852', 'event:0.1621', 'plan:0.1602', 'fund:0.1574', 'talk:0.1561', 'swift:0.1517', 'follow:0.1417', 'outlet:0.1322', 'measure:0.1312', 'disconnect:0.1247', 'moex:0.1158', 'greenback:0.1145', 'wide:0.1101', 'reignite:0.1088', 'set:0.106', 'receive:0.0992', 'gmt:0.0912']+titles_keywords+['ruble:0.4739', 'strong:0.3269', 'cut:0.2161', 'swift:0.2155', 'threatens:0.1605']"
+        ]
+    ]
+}

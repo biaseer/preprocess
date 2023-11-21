@@ -1,0 +1,12 @@
+{
+    "AUS+UKR+40":[
+        [
+            "20220704+../news_crawling/RUS_UKR/p_articles/wn.com/Anadolu Agencys Morning Briefing July 4 2022.txt+eventbasecode40+eventcode40+avgtone0.49074074074074076+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraines:0.4981', 'putin:0.4699', 'russias:0.4613', 'vladimir:0.4291', 'luhansk:0.3841', 'moscows:0.3709', 'anadolu:0.3043', 'enclave:0.2742', 'development:0.2664', 'briefing:0.2653', 'agencys:0.256', 'australias:0.2186', 'independent:0.1942', 'proclaim:0.1877', 'president:0.1688', 'world:0.1661', 'tell:0.145', 'control:0.1447', 'minister:0.1423', 'rundown:0.1325', 'defense:0.1238', 'fully:0.1232', 'meet:0.1175', 'morning:0.1148', 'late:0.0938', 'july:0.0919', 'sunday:0.0827', 'self:0.0794', 'prime:0.071', 'express:0.0361']+titles_keywords+['anadolu:0.495', 'briefing:0.4419', 'agencys:0.4021', '2022:0.3642', 'morning:0.2414']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220110+../news_crawling/RUS_UKR/p_articles/wn.com/US Dont expect breakthrough in talks with Russia on Ukraine crisis.txt+eventbasecode40+eventcode40+avgtone0.5052083333333334+goldsteinscale0.55+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.01644736842105263+news_keywords+['talk:0.3111', 'ukraine:0.293', 'breakthrough:0.2929', 'breakthroughs:0.2631', 'russia:0.2627', 'hope:0.2537', 'cnn:0.2447', 'week:0.2212', 'blinken:0.2066', 'crisis:0.2066', 'expect:0.1847', 'sunday:0.1832', 'say:0.1567', 'washington:0.1267', 'think:0.1238', 'tell:0.1121', 'ground:0.1119', 'security:0.1097', 'state:0.0982', 'common:0.0914', 'amid:0.0845', 'thing:0.077', 'secretary:0.0736', 'come:0.0647', 'antony:0.0501', 'able:0.0446', 'dont:0.034']+titles_keywords+['ukraine:0.2906', 'expect:0.1984', 'talks:0.1814', 'breakthrough:0.1725', 'dont:0.0765']"
+        ]
+    ]
+}

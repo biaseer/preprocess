@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/prokerala.com/First Ukrainian air strikes on Russian territory By IANS Published on Fri Apr 1 2022.txt+eventbasecode112+eventcode112+avgtone0.4806949806949807+goldsteinscale0.4+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.009868421052631578+news_keywords+['ukraine:0.4075', 'gladkov:0.3122', 'airspace:0.2893', 'helicopter:0.2852', 'fly:0.2686', 'attack:0.2488', 'military:0.2325', 'belgorod:0.2072', 'bravery:0.1823', 'launch:0.1694', 'report:0.1389', 'video:0.1124', 'fuel:0.1068', 'mile:0.1052', 'function:0.1045', 'target:0.1008', 'telegram:0.0898', 'story:0.0826', 'ians:0.0817', 'avoid:0.0802', 'published:0.0736', 'detect:0.0706', 'wire:0.0649', 'fri:0.064', 'low:0.0609', 'known:0.0587', 'share:0.0537', 'apartment:0.0453', 'fast:0.0453', 'exactly:0.0404']+titles_keywords+['ukrainian:0.4362', '1642:0.2786', 'ians:0.2683', 'published:0.2244', 'strikes:0.2239']"
+        ],
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/prokerala.com/Oil depot on fire in Russian city near Ukraine border By IANS Published on Mon.txt+eventbasecode112+eventcode112+avgtone0.4718614718614718+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['moscow:0.4415', 'voronezh:0.3859', 'oil:0.2893', 'depot:0.2781', 'fokinsky:0.2774', 'evacuation:0.2695', 'bryansk:0.2676', 'novosti:0.242', 'location:0.2163', 'report:0.1852', 'casualty:0.1747', 'military:0.169', 'belgorod:0.169', 'rt:0.1587', 'near:0.1418', 'border:0.1364', 'transneft:0.1321', 'blaze:0.1308', 'population:0.1053', 'news:0.1022', 'druzhba:0.0972', 'cause:0.0853', 'heard:0.0828', 'building:0.082', 'ist:0.0686', 'state:0.064', 'accord:0.0591', 'large:0.0525', 'preliminary:0.0393', 'month:0.0373']+titles_keywords+['ukraine:0.4637', 'oil:0.4167', 'depot:0.3763', 'near:0.2632', 'published:0.161']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220610+../news_crawling/RUS_UKR/p_articles/prokerala.com/Russia claims that Kievs fighters have rigged fertiliser plant with explosives By IANS Published on.txt+eventbasecode112+eventcode112+avgtone0.4770992366412214+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['kiev:0.5445', 'explosives:0.4346', 'russia:0.4026', 'avdeyevka:0.3742', 'factory:0.3531', 'fertilizer:0.2861', 'tank:0.2821', 'nationalist:0.2755', 'war:0.2732', 'soldier:0.249', 'bunker:0.2472', 'azot:0.2444', 'plant:0.2437', 'territory:0.2291', 'nitric:0.2191', 'rt:0.1997', 'station:0.1839', 'ist:0.1773', 'heater:0.1744', 'captured:0.1671', 'remove:0.1588', 'provide:0.1577', 'donbass:0.1529', 'shield:0.1405', 'published:0.1352', 'blame:0.1307', 'primarily:0.1164', 'second:0.083', 'wednesday:0.07', 'official:0.059']+titles_keywords+['kievs:0.5044', 'explosives:0.4911', 'fertiliser:0.3687', '1927:0.2898', 'rigged:0.2633']"
+        ]
+    ]
+}

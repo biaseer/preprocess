@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220808+../news_crawling/RUS_UKR/p_articles/justiceinfo.net/Kremlin accuses Kyiv of shelling nuclear plant.txt+eventbasecode112+eventcode112+avgtone0.46780072904009723+goldsteinscale0.4+nummentions0.01632801161103048+numarticles0.01704133430021755+numsources0.039473684210526314+news_keywords+['kyiv:0.517', 'kremlin:0.4718', 'militarise:0.3407', 'annex:0.3003', 'terrorism:0.2977', 'escalation:0.2957', 'reunification:0.294', 'pentagon:0.2844', 'news:0.262', 'assassinate:0.2521', 'strategic:0.2371', 'catastrophe:0.2296', 'denounce:0.2229', 'pursue:0.2184', 'soon:0.2118', 'interrupt:0.2098', 'help:0.1974', 'cite:0.1942', 'progress:0.1884', 'fighting:0.1883', 'turn:0.1823', 'watchdog:0.1753', 'northern:0.1746', 'plant:0.1715', 'additional:0.1644', 'shipment:0.1564', 'lawyer:0.1327', 'swathe:0.1168', 'welcome:0.1038', 'sbu:0.1']+titles_keywords+['kyiv:0.4968', 'kremlin:0.4652', 'nuclear:0.3097', 'accuses:0.2184', 'shelling:0.1378']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/justiceinfo.net/Russian siege of Mariupol is genocide Ukraine chief prosecutor.txt+eventbasecode112+eventcode112+avgtone0.4461538461538465+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimean:0.5402', 'russia:0.4617', 'genocide:0.4597', 'invasion:0.3696', 'war:0.3586', 'occupy:0.3241', 'venediktova:0.3038', 'resupply:0.2478', 'federation:0.2363', 'mariupol:0.233', 'afp:0.225', 'strategic:0.2229', 'artillery:0.2223', 'seizing:0.208', 'penetrate:0.1978', 'know:0.1976', 'maternity:0.1914', 'watch:0.1773', 'port:0.177', 'donbas:0.1757', 'begin:0.1735', 'evidence:0.1703', 'general:0.1698', 'prosecutor:0.1594', 'dead:0.1585', 'strike:0.1581', 'stage:0.1556', 'hellscape:0.1537', 'incoming:0.1381', 'exactly:0.1345']+titles_keywords+['genocide:0.4796', 'russian:0.4016', 'siege:0.2916', 'prosecutor:0.2788', 'mariupol:0.2445']"
+        ]
+    ]
+}

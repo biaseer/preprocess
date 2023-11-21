@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+36":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/rollingstone.com/Biden Slaps Sanctions on Russia for Beginning of an Invasion Into Ukraine.txt+eventbasecode36+eventcode36+avgtone0.47382920110192833+goldsteinscale0.7+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['putin:0.4921', 'russias:0.425', 'sanction:0.3576', 'oligarchs:0.3537', 'whitehouse:0.3409', 'peacekeeping:0.3297', 'bipartisan:0.2906', 'separatist:0.2606', 'oppose:0.2591', 'retaliate:0.2578', 'incursion:0.2496', 'cite:0.2468', 'donetsk:0.2428', 'european:0.2309', 'announcement:0.2282', 'pretext:0.2276', 'delegation:0.2236', 'begin:0.2205', 'monday:0.2078', 'pipeline:0.2006', 'come:0.195', 'financing:0.1886', 'write:0.1772', 'sens:0.1718', 'function:0.1521', 'trade:0.1467', 'weve:0.1155', 'poise:0.1105', 'measure:0.1081', 'longer:0.1071']+titles_keywords+['sanctions:0.4138', 'biden:0.3196', 'ukraine:0.3168', 'invasion:0.2198', 'beginning:0.165']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/rollingstone.com/My Chemical Romance Cancel Russia Ukraine Shows.txt+eventbasecode36+eventcode36+avgtone0.49059561128526646+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['concert:0.396', 'kyiv:0.3787', 'russias:0.2793', 'gorillaz:0.2321', 'cancellation:0.2209', 'reunion:0.2183', 'invasion:0.2086', 'june:0.2047', 'soon:0.1815', 'emo:0.1738', 'mcrs:0.1701', 'stopsin:0.1594', 'schedule:0.1556', 'ongoing:0.1469', 'los:0.138', 'act:0.1365', 'know:0.1332', 'hope:0.1288', 'additionally:0.1252', 'needless:0.119', 'world:0.1189', 'tweet:0.1155', 'chemical:0.1102', 'set:0.1045', 'headline:0.0996', 'north:0.0982', 'big:0.0953', 'business:0.0868', 'deep:0.0854', 'roll:0.0611']+titles_keywords+['ukraine:0.428', 'cancel:0.3594', 'shows:0.195', 'romance:0.1784', 'chemical:0.1256']"
+        ]
+    ]
+}

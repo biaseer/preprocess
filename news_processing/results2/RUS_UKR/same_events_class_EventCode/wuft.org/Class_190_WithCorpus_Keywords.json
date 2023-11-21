@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+190":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/wuft.org/White House says Kremlin was behind denial of service attack in Ukraine.txt+eventbasecode190+eventcode190+avgtone0.4736842105263158+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['kremlin:0.4996', 'ukraine:0.3483', 'attack:0.3282', 'russias:0.3278', 'invasion:0.3026', 'threaten:0.2727', 'biden:0.2553', 'denial:0.2362', 'president:0.2085', 'come:0.1542', 'white:0.1453', 'revelation:0.1448', 'say:0.1397', 'speak:0.1347', 'set:0.0965', 'house:0.0951', 'service:0.0392']+titles_keywords+['kremlin:0.4527', 'attack:0.2367', 'white:0.1218', 'house:0.1009', 'says:0.0725']"
+        ],
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/wuft.org/A new stamp honors the Ukrainian soldiers who profanely told off a Russian warship.txt+eventbasecode190+eventcode190+avgtone0.4807692307692307+goldsteinscale0.0+nummentions0.026124818577648767+numarticles0.026831036983321246+numsources0.03618421052631579+news_keywords+['stamp:0.454', 'ukrainian:0.4379', 'ukraine:0.4141', 'russian:0.4003', 'soldier:0.3561', 'memorialize:0.354', 'warship:0.3245', 'honor:0.3128', 'postage:0.3083', 'battle:0.304', 'invasion:0.2581', 'fight:0.212', 'introduce:0.2081', 'country:0.2062', 'design:0.205', 'famous:0.2013', 'rally:0.191', 'new:0.1659', 'tell:0.1374', 'profanely:0.0933']+titles_keywords+['stamp:0.4122', 'ukrainian:0.3476', 'soldiers:0.3111', 'warship:0.2884', 'honors:0.2346']"
+        ]
+    ]
+}

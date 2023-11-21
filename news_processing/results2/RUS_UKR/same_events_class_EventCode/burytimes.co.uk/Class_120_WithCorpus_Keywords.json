@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/burytimes.co.uk/Refinery workers refuse to deal with ship carrying Russian oil.txt+eventbasecode120+eventcode120+avgtone0.4835294117647059+goldsteinscale0.3+nummentions0.3468795355587808+numarticles0.34735315445975345+numsources0.3026315789473684+news_keywords+['ukraine:0.4407', 'essar:0.3657', 'tanker:0.338', 'government:0.2907', 'sanction:0.2774', 'supply:0.2627', 'flag:0.2458', 'transport:0.2452', 'humanitarian:0.2305', 'sail:0.2208', 'invasion:0.2192', 'port:0.217', 'issue:0.211', 'statutory:0.2085', 'remain:0.2082', 'misuse:0.1986', 'dependence:0.1929', 'debate:0.1917', 'urgently:0.1891', 'crude:0.1878', 'general:0.1847', 'stanlow:0.1769', 'important:0.1746', 'turn:0.1673', 'approve:0.1662', 'reduce:0.1659', 'alternative:0.1636', 'subsequent:0.1402', 'unlike:0.1205', 'right:0.111']+titles_keywords+['refinery:0.3538', 'refuse:0.3116', 'russian:0.258', 'workers:0.2522', 'ship:0.1774']"
+        ]
+    ],
+    "RUS+WST+120":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/burytimes.co.uk/Volodymyr Zelensky calls for worldwide demonstrations on Thursday.txt+eventbasecode120+eventcode120+avgtone0.5076335877862596+goldsteinscale0.3+nummentions0.4695210449927431+numarticles0.4699057287889775+numsources0.41776315789473684+news_keywords+['ukraine:0.459', 'zelensky:0.4033', 'nato:0.3716', 'volodymyr:0.2876', 'invasion:0.2854', 'meeting:0.274', 'engage:0.2581', 'borisjohnson:0.255', 'peace:0.2392', 'presidential:0.2147', 'stay:0.2095', 'privilege:0.2075', 'heard:0.2028', 'betray:0.1902', 'tomorrow:0.1897', 'break:0.1854', 'fend:0.1792', 'debate:0.1773', 'friend:0.1756', 'emotional:0.171', 'want:0.1596', 'month:0.1518', 'make:0.1478', 'address:0.1475', 'exactly:0.1393', 'declare:0.1379', 'mr:0.1161', 'video:0.1102', 'fully:0.1027', 'thousand:0.0934']+titles_keywords+['zelensky:0.5035', 'demonstrations:0.2833', 'volodymyr:0.2551', 'worldwide:0.1807', 'thursday:0.1626']"
+        ]
+    ],
+    "WST+RUS+120":[
+        [
+            "20220209+../news_crawling/RUS_UKR/p_articles/burytimes.co.uk/Boris Johnson flies to Poland as more UK troops go on standby for eastern Europe.txt+eventbasecode120+eventcode120+avgtone0.4926873857404022+goldsteinscale0.3+nummentions0.10341074020319303+numarticles0.10406091370558376+numsources0.14144736842105263+news_keywords+['nato:0.5181', 'diplomacy:0.4354', 'ukraine:0.4339', 'putins:0.3999', 'boris:0.285', 'deploy:0.2715', 'attack:0.2705', 'escalate:0.2469', 'president:0.2349', 'refugee:0.2315', 'prepare:0.2205', 'dispatch:0.2169', 'safeguard:0.2085', 'prompt:0.1873', 'downing:0.1786', 'sanction:0.1752', 'disaster:0.1697', 'engineer:0.1689', 'counterpart:0.162', 'additional:0.1605', 'current:0.1597', 'visit:0.1593', 'general:0.1506', 'want:0.1496', 'important:0.1481', 'thursday:0.1422', 'snow:0.1292', 'hms:0.1237', 'right:0.1007', 'truss:0.0733']+titles_keywords+['poland:0.2741', 'johnson:0.265', 'boris:0.2533', 'troops:0.2007', 'standby:0.1873']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+13":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/Possible mass graves near Mariupol as Russia attacks in east.txt+eventbasecode13+eventcode13+avgtone0.4642487046632124+goldsteinscale0.52+nummentions0.11357039187227866+numarticles0.11421319796954314+numsources0.41776315789473684+news_keywords+['crimea:0.5095', 'kremlin:0.4903', 'invasion:0.3072', 'pentagon:0.3003', 'yuriy:0.2935', 'redeploy:0.2865', 'disaster:0.2604', 'industrial:0.2567', 'kill:0.2532', 'transnistria:0.2522', 'town:0.2297', 'strategic:0.2267', 'publish:0.2246', 'telegram:0.209', 'donbas:0.2056', 'organize:0.2036', 'bucha:0.1971', 'mariupol:0.1912', 'noting:0.1793', 'scatter:0.1782', 'imagery:0.1706', 'month:0.1695', 'early:0.169', 'stretch:0.1671', 'nearly:0.1645', 'row:0.1635', 'anonymity:0.1625', 'incoming:0.1548', 'piotr:0.1494', 'study:0.139']+titles_keywords+['russia:0.3426', 'mariupol:0.2873', 'graves:0.2825', 'attacks:0.179', 'near:0.1736']"
+        ],
+        [
+            "20220728+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/Russia steps up strikes on Ukraine amid counterattacks.txt+eventbasecode13+eventcode13+avgtone0.48522727272727273+goldsteinscale0.52+nummentions0.22387518142235124+numarticles0.22443799854967367+numsources0.48355263157894735+news_keywords+['kyiv:0.5229', 'kremlin:0.4204', 'counterattack:0.3082', 'military:0.2754', 'operation:0.2709', 'timeline:0.2642', 'separatist:0.2545', 'casualty:0.2541', 'poltava:0.2217', 'occupied:0.2156', 'organize:0.2144', 'movement:0.214', 'remind:0.2112', 'intensify:0.2089', 'telegram:0.1994', 'terror:0.1957', 'hit:0.1827', 'help:0.1733', 'conclude:0.1663', 'supply:0.1626', 'kilometer:0.1615', 'state:0.1547', 'long:0.1512', 'bridge:0.1498', 'day:0.1497', 'northern:0.1455', 'multiple:0.1238', 'second:0.1169', 'quote:0.1', 'really:0.0649']+titles_keywords+['ukraine:0.3906', 'counterattacks:0.3474', 'strikes:0.2469', 'steps:0.103', 'amid:-0.0171']"
+        ]
+    ]
+}

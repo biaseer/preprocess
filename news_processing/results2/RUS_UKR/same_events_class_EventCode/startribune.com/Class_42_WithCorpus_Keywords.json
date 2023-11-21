@@ -1,0 +1,23 @@
+{
+    "AUS+UKR+42":[
+        []
+    ],
+    "EUR+UKR+42":[
+        []
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/startribune.com/Minnesotans with ties to Ukraine nervously eye situation.txt+eventbasecode42+eventcode42+avgtone0.48268072289156627+goldsteinscale0.595+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.548', 'kievan:0.4877', 'orthodox:0.3497', 'diaspora:0.3269', 'mobilization:0.29', 'occupy:0.2895', 'nation:0.2854', 'political:0.2741', 'militarily:0.2689', 'minnesotans:0.2668', 'leaders:0.247', 'peace:0.2449', 'northeast:0.2434', 'border:0.2388', 'essay:0.2262', 'flag:0.2163', 'know:0.1884', 'stay:0.1881', 'reporter:0.1757', 'catastrophe:0.1756', 'breakaway:0.1735', 'saturday:0.1708', 'big:0.1512', 'iwaskewycz:0.1456', 'twin:0.1364', 'nervously:0.1337', 'rationalize:0.1314', 'sure:0.1185', 'myron:0.1177', 'th:0.1117']+titles_keywords+['minnesotans:0.4689', 'ukraine:0.4594', 'nervously:0.2499', 'situation:0.1575', 'ties:0.1527']"
+        ],
+        []
+    ],
+    "UKR+RUS+42":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/startribune.com/Owner wants to give away his smalltown Minnesota newspaper.txt+eventbasecode42+eventcode42+avgtone0.4984520123839009+goldsteinscale0.595+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.09210526315789473+news_keywords+['ukrainian:0.4698', 'newspaper:0.354', 'read:0.3028', 'stay:0.2924', 'want:0.2915', 'zion:0.2808', 'profitable:0.2767', 'owner:0.2766', 'embassy:0.2598', 'invade:0.252', 'plan:0.2362', 'ledger:0.2353', 'help:0.231', 'freelancer:0.2302', 'county:0.2289', 'fight:0.2188', 'marry:0.2158', 'free:0.2018', 'skeptical:0.1959', 'murder:0.195', 'make:0.1909', 'care:0.1898', 'right:0.1865', 'begin:0.1839', 'month:0.181', 'smalltown:0.1727', 'chorus:0.1491', 'someday:0.146', 'bandurists:0.1342', 'far:0.1225']+titles_keywords+['newspaper:0.4393', 'owner:0.3702', 'smalltown:0.2647', 'minnesota:0.2252', 'away:0.0966']"
+        ]
+    ],
+    "WST+RUS+42":[
+        [],
+        []
+    ]
+}

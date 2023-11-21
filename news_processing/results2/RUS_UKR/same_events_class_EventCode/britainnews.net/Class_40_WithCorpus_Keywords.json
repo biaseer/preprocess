@@ -1,0 +1,15 @@
+{
+    "RUS+RUS+40":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/britainnews.net/UK says invasion highly likely.txt+eventbasecode40+eventcode40+avgtone0.472809667673716+goldsteinscale0.55+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.013157894736842105+news_keywords+['putin:0.4466', 'ukraine:0.4287', 'invade:0.3855', 'geopolitical:0.3505', 'border:0.2095', 'meeting:0.2094', 'shortly:0.2092', 'aggressor:0.201', 'wwii:0.198', 'news:0.1887', 'come:0.1804', 'tank:0.1715', 'london:0.1665', 'wallace:0.1653', 'contrary:0.1607', 'secretary:0.1508', 'believe:0.1448', 'report:0.1412', 'say:0.141', 'switch:0.1345', 'remove:0.1342', 'heard:0.1274', 'cite:0.1252', 'intention:0.1201', 'clearly:0.1187', 'fake:0.1173', 'current:0.1088', 'shoigu:0.0908', 'deafness:0.0352', 'characterize:0.0195']+titles_keywords+['invasion:0.4385', 'uk:0.3016', 'likely:0.197', 'highly:0.1126', 'says:0.0447']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/britainnews.net/Answer concerning NATO misunderstood says Ukrainian envoy to UK.txt+eventbasecode40+eventcode40+avgtone0.47633136094674555+goldsteinscale0.55+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.013157894736842105+news_keywords+['crimea:0.5051', 'nato:0.4679', 'concern:0.2834', 'sovereignty:0.2584', 'invasion:0.2491', 'osce:0.233', 'zelenskyy:0.2315', 'threaten:0.2235', 'clarify:0.2201', 'sputnik:0.2075', 'avoid:0.2038', 'reaffirm:0.1987', 'reinforcementredeployment:0.1846', 'president:0.1713', 'speak:0.1566', 'turn:0.1564', 'news:0.156', 'prystaiko:0.1416', 'order:0.1403', 'word:0.14', 'state:0.1296', 'possibility:0.1261', 'indivisibility:0.1217', 'enhance:0.114', 'ready:0.1116', 'buildup:0.1103', 'step:0.1103', 'vadym:0.1085', 'near:0.0994', 'hour:0.0734']+titles_keywords+['nato:0.4488', 'ukrainian:0.3612', 'misunderstood:0.3263', 'concerning:0.1545', 'envoy:0.1488']"
+        ],
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/britainnews.net/Norman Foster proposes city of the future for Ukraine.txt+eventbasecode40+eventcode40+avgtone0.5185185185185185+goldsteinscale0.55+nummentions0.01269956458635704+numarticles0.01305293691080493+numsources0.019736842105263157+news_keywords+['kharkov:0.4403', 'ukraine:0.431', 'architecture:0.3737', 'city:0.3381', 'rebuild:0.324', 'modernist:0.2904', 'foster:0.265', 'destroy:0.2552', 'project:0.2324', 'sector:0.2245', 'east:0.2204', 'propose:0.2099', 'hall:0.2076', 'make:0.2075', 'plan:0.2075', 'reichstag:0.1844', 'thrive:0.1826', 'combine:0.1762', 'population:0.1448', 'emergency:0.1417', 'convert:0.1275', 'element:0.1258', 'soon:0.119', 'turn:0.1026', 'ihor:0.1017', 'fierce:0.095', 'mind:0.094', 'desirable:0.0924', 'decade:0.0846', 'greenest:0.0789']+titles_keywords+['ukraine:0.4081', 'foster:0.3935', 'city:0.3565', 'future:0.2646', 'proposes:0.1401']"
+        ]
+    ]
+}

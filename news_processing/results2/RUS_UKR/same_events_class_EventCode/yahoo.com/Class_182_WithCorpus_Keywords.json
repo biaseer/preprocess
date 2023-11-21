@@ -1,0 +1,15 @@
+{
+    "AFR+UKR+182":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russian Military Contractor Accused Of Human Rights Abuses Deployed To Ukraine.txt+eventbasecode182+eventcode182+avgtone0.4593023255813954+goldsteinscale0.025+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4514', 'kremlin:0.4418', 'dmitry:0.3756', 'troop:0.3694', 'pentagon:0.3311', 'mercenary:0.3185', 'deploy:0.3017', 'combat:0.2658', 'operation:0.236', 'wagner:0.2261', 'accused:0.212', 'contractor:0.2065', 'utkin:0.1945', 'abuses:0.1885', 'surrogate:0.1512', 'vice:0.1412', 'exist:0.1373', 'right:0.1306', 'denies:0.1261', 'look:0.1253', 'expect:0.123', 'reprioritize:0.1205', 'thousands:0.1086', 'intelligence:0.1005', 'available:0.1', 'december:0.0983', 'smeaths:0.088', 'official:0.086', 'middle:0.0806', 'heavy:0.0407']+titles_keywords+['ukraine:0.4036', 'contractor:0.2718', 'accused:0.2329', 'deployed:0.2', 'rights:0.1518']"
+        ]
+    ],
+    "UKR+RUS+182":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/yahoo.com/Twitter deletes Russian Embassy tweets about Ukrainian maternity ward bombing.txt+eventbasecode182+eventcode182+avgtone0.4562043795620438+goldsteinscale0.025+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kremlin:0.4693', 'bombing:0.4334', 'disinformation:0.389', 'ukrainian:0.3814', 'genocide:0.3606', 'maternity:0.3183', 'violent:0.2935', 'embassy:0.2789', 'zelenskyy:0.2728', 'crisis:0.2632', 'evidence:0.2524', 'cite:0.2496', 'occur:0.2491', 'report:0.2488', 'chernov:0.2452', 'unfounded:0.2405', 'mstyslav:0.2385', 'atrocity:0.2367', 'blogger:0.2354', 'military:0.2259', 'fake:0.2119', 'violate:0.2099', 'marianna:0.1998', 'tweet:0.1964', 'operational:0.1962', 'delete:0.1909', 'president:0.1871', 'cover:0.1511', 'far:0.0977', 'multiple:0.089']+titles_keywords+['twitter:0.3373', 'bombing:0.3276', 'russian:0.3227', 'embassy:0.2771', 'maternity:0.2227']"
+        ],
+        [
+            "20220618+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russian missiles destroy fuel depot in east Ukraine killing one official.txt+eventbasecode182+eventcode182+avgtone0.49242424242424243+goldsteinscale0.025+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['novomoskovsk:0.4197', 'ukrainian:0.3193', 'fuel:0.3005', 'explode:0.2844', 'missile:0.2836', 'destroy:0.2704', 'depot:0.267', 'reznichenko:0.2206', 'firefighters:0.2096', 'storage:0.1704', 'town:0.1319', 'reuters:0.1187', 'east:0.0978', 'regional:0.0931', 'hit:0.0872', 'reporting:0.0815', 'online:0.0767', 'ottawa:0.0695', 'message:0.0659', 'lidia:0.0564', 'administration:0.0561', 'hogue:0.0543', 'ljunggren:0.0519', 'editing:0.0424', 'hour:0.0307', 'early:0.0244', 'official:0.0174', 'say:0.0122', 'david:0.0072', 'try:-0.0045']+titles_keywords+['ukraine:0.3072', 'missiles:0.2722', 'destroy:0.2071', 'depot:0.1832', 'official:0.0728']"
+        ]
+    ]
+}

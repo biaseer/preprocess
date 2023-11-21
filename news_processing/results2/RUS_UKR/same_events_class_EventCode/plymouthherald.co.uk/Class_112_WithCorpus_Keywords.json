@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/plymouthherald.co.uk/McDonalds KFC Pizza Hut and Adidas slammed by Russian media for standing with Ukraine.txt+eventbasecode112+eventcode112+avgtone0.47961956521739135+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['russia:0.469', 'pravda:0.4378', 'russophobia:0.3858', 'americanisation:0.3735', 'mcdonald:0.3667', 'hypocrisy:0.2677', 'company:0.2559', 'western:0.2408', 'article:0.2315', 'ignore:0.2189', 'uranium:0.2188', 'synthetic:0.2071', 'operation:0.206', 'garbage:0.192', 'furniture:0.1895', 'shoe:0.1857', 'isn:0.1801', 'conclude:0.1785', 'heineken:0.1742', 'want:0.1721', 'sanction:0.1691', 'say:0.1654', 'healthy:0.1594', 'funny:0.1469', 'learn:0.1322', 'sure:0.1321', 'overpriced:0.121', 'way:0.1185', 'today:0.0779', 'longer:0.0752']+titles_keywords+['kfc:0.4533', 'ukraine:0.4259', 'adidas:0.3337', 'media:0.2435', 'standing:0.1464']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/plymouthherald.co.uk/Russia vows new strikes on Kyiv as Ukraine reports 900 civilian bodies found.txt+eventbasecode112+eventcode112+avgtone0.4716636197440585+goldsteinscale0.4+nummentions1.0+numarticles1.0+numsources1.0+news_keywords+['kyiv:0.5276', 'russian:0.4065', 'airstrikes:0.3715', 'russias:0.3677', 'moskva:0.3167', 'kill:0.2843', 'missile:0.2751', 'nationalist:0.2659', 'sinehubov:0.2644', 'troop:0.2425', 'occupier:0.2228', 'victory:0.2082', 'buried:0.1982', 'understand:0.1958', 'diversion:0.1936', 'ship:0.1823', 'cite:0.1754', 'production:0.1737', 'bucha:0.1703', 'address:0.1701', 'accuse:0.1615', 'indicate:0.1576', 'historic:0.14', 'andriy:0.1352', 'data:0.1326', 'people:0.1305', 'month:0.1276', 'scale:0.0905', 'straight:0.0789', 'add:0.0566']+titles_keywords+['kyiv:0.4441', '900:0.2181', 'strikes:0.1881', 'new:0.1378', 'civilian:0.107']"
+        ]
+    ]
+}

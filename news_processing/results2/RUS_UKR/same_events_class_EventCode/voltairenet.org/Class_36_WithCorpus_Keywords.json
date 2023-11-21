@@ -1,0 +1,12 @@
+{
+    "BEL+UKR+36":[
+        [
+            "20220615+../news_crawling/RUS_UKR/p_articles/voltairenet.org/Mass desertions in Ukraine.txt+eventbasecode36+eventcode36+avgtone0.4793814432989691+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4879', 'desertion:0.4456', 'mobilization:0.4412', 'troop:0.4334', 'conscript:0.3949', 'liberate:0.2882', 'casualty:0.2865', 'reznikov:0.2811', 'june:0.2751', 'ammunition:0.2593', 'outgunned:0.254', 'strategic:0.2498', 'general:0.2385', 'volodymyr:0.2352', 'incur:0.2245', 'stockpile:0.2245', 'shift:0.2129', 'training:0.2003', 'destroy:0.1912', 'president:0.1821', 'report:0.172', 'ratio:0.1704', 'men:0.1699', 'source:0.1604', 'spike:0.1475', 'young:0.1453', 'independent:0.1398', 'long:0.1339', 'speak:0.1298', 'authorize:0.1045']+titles_keywords+['desertions:0.6853', 'ukraine:0.5031', 'mass:0.1337']"
+        ]
+    ],
+    "EUR+RUS+36":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/voltairenet.org/Russia could leave Council of Europe for good.txt+eventbasecode36+eventcode36+avgtone0.4828767123287671+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['russia:0.3637', 'andrey:0.2955', 'consequence:0.2383', 'european:0.2004', 'leave:0.1936', 'exclusion:0.1737', 'federation:0.1692', 'decision:0.1464', 'invasion:0.1441', 'withdrawal:0.1425', 'insofar:0.1363', 'luigi:0.1253', 'council:0.1197', 'klishas:0.1164', 'constitutional:0.1125', 'report:0.0917', 'member:0.0661', 'february:0.0638', 'rigorous:0.0611', 'right:0.0595', 'temporarily:0.0589', 'maio:0.0526', 'good:0.0519', 'di:0.0514', 'hail:0.0432', 'press:0.0415', 'measure:0.0392', 'subject:0.0358', 'confuse:0.02', 'photo:-0.0073']+titles_keywords+['russia:0.3707', 'leave:0.237', 'council:0.21', 'europe:0.2056', 'good:0.0858']"
+        ]
+    ]
+}

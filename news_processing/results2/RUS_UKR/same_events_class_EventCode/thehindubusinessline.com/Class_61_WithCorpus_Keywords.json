@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+61":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/Sunflower oil imports may drop to 80000 tonnes in April.txt+eventbasecode61+eventcode61+avgtone0.4936204146730463+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['agriculture:0.3843', 'oil:0.3441', 'sunflower:0.3175', 'soyabean:0.312', 'finance:0.2789', 'india:0.271', 'demand:0.234', 'freightprice:0.2231', 'april:0.214', 'ratio:0.2138', 'decrease:0.1895', 'lakh:0.1849', 'shortfall:0.1843', 'insurance:0.1832', 'drop:0.1779', 'extractors:0.1708', 'replace:0.1635', 'estimate:0.1509', 'international:0.1455', 'palmolein:0.1442', 'differential:0.1283', 'mehta:0.1258', 'relief:0.1257', 'stating:0.1041', 'compare:0.1004', 'include:0.0836', 'cpo:0.0607', 'non:0.0562', 'prevail:0.0267', 'partially:0.0004']+titles_keywords+['sunflower:0.3819', 'oil:0.2324', 'drop:0.2007', '80000:0.1935', 'imports:0.1598']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20210913+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/High gas prices demand creative climate thinking.txt+eventbasecode61+eventcode61+avgtone0.5028089887640449+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['climate:0.4547', 'decarbonisation:0.3827', 'gas:0.3411', 'pipeline:0.3148', 'carbon:0.2761', 'supply:0.2699', 'russia:0.2453', 'negotiate:0.235', 'multilateral:0.2318', 'example:0.2313', 'politician:0.2066', 'megawatt:0.202', 'world:0.202', 'summit:0.2', 'generate:0.1943', 'building:0.1907', 'prepare:0.1907', 'rise:0.1845', 'upcoming:0.1786', 'risk:0.1764', 'replace:0.1724', 'glasgow:0.1683', 'report:0.1639', 'fossil:0.1597', 'think:0.1572', 'template:0.1526', 'decade:0.1453', 'factor:0.1313', 'significantly:0.0979', 'treble:0.067']+titles_keywords+['climate:0.4633', 'gas:0.3476', 'thinking:0.2976', 'demand:0.1884', 'high:0.0994']"
+        ],
+        [
+            "20220410+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/Ukraine bans all imports from Russia.txt+eventbasecode61+eventcode61+avgtone0.47565543071161054+goldsteinscale0.82+nummentions0.0420899854862119+numarticles0.03118201595358956+numsources0.03289473684210526+news_keywords+['ukraine:0.5028', 'embargo:0.4989', 'boycott:0.3444', 'sanction:0.3431', 'economy:0.3239', 'war:0.2998', 'impose:0.2978', 'isolate:0.2711', 'import:0.2653', 'boris:0.2462', 'federation:0.2448', 'territory:0.2352', 'zelenskyy:0.2243', 'halt:0.2085', 'aggressor:0.193', 'trade:0.1813', 'law:0.1682', 'good:0.155', 'western:0.1409', 'strengthen:0.1403', 'make:0.1289', 'come:0.1254', 'state:0.1089', 'step:0.1069', 'implementation:0.1017', 'partner:0.1007', 'page:0.0891', 'measure:0.089', 'today:0.0854', 'numerous:0.0366']+titles_keywords+['ukraine:0.4298', 'russia:0.329', 'imports:0.2405', 'bans:0.2055']"
+        ]
+    ]
+}

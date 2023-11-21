@@ -1,0 +1,27 @@
+{
+    "DEU+UKR+130":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Scholz defends Germanys caution over sending heavy arms to Ukraine.txt+eventbasecode130+eventcode130+avgtone0.47083333333333327+goldsteinscale0.27999999999999997+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.01644736842105263+news_keywords+['ukraine:0.4797', 'putin:0.4625', 'scholz:0.3791', 'berlin:0.3484', 'reuters:0.3279', 'war:0.3249', 'nationalism:0.3098', 'economy:0.302', 'embargo:0.2771', 'president:0.2641', 'gepard:0.2601', 'bild:0.2567', 'organisation:0.2277', 'tank:0.2232', 'indecisive:0.2175', 'howitzer:0.1999', 'unprovoked:0.1908', 'deliver:0.1896', 'olaf:0.185', 'fearing:0.1818', 'turn:0.181', 'approve:0.178', 'party:0.1767', 'repel:0.1683', 'april:0.1616', 'import:0.158', 'immediate:0.1413', 'wouldrather:0.1278', 'big:0.1096', 'like:0.0954']+titles_keywords+['scholz:0.4738', 'ukraine:0.3578', 'caution:0.2664', 'arms:0.1517', 'sending:0.0462']"
+        ]
+    ],
+    "GBR+RUS+130":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Britain warns Russia not to recognise breakaway Ukraine regions.txt+eventbasecode130+eventcode130+avgtone0.4774193548387097+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4709', 'minsk:0.4236', 'kremlin:0.3628', 'separatist:0.3498', 'vladimir:0.3491', 'sovereignty:0.2969', 'confrontation:0.2609', 'agreement:0.2436', 'destabilise:0.2266', 'breakaway:0.2009', 'remain:0.1996', 'halt:0.1845', 'recognise:0.1739', 'duma:0.1564', 'troop:0.147', 'sign:0.1455', 'repeat:0.1452', 'president:0.1417', 'state:0.1416', 'formally:0.1375', 'vote:0.135', 'implement:0.127', 'say:0.1169', 'current:0.1162', 'cause:0.1031', 'withdraw:0.1024', 'include:0.0991', 'truss:0.0891', 'wednesday:0.0679', 'accord:0.0283']+titles_keywords+['ukraine:0.4582', 'regions:0.2593', 'warns:0.2148', 'breakaway:0.2121', 'recognise:0.1312']"
+        ]
+    ],
+    "RUS+FRA+130":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/straitstimes.com/This war will last warns Frances Macron on Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4555160142348755+goldsteinscale0.27999999999999997+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['macron:0.4692', 'crises:0.4666', 'putin:0.4471', 'war:0.4406', 'ukrainian:0.3264', 'election:0.3115', 'warns:0.2576', 'sanction:0.2512', 'prepare:0.2463', 'humanitarian:0.2436', 'trigger:0.2411', 'declaration:0.2335', 'ahead:0.2283', 'april:0.2228', 'afp:0.2142', 'paris:0.2009', 'world:0.1875', 'unilaterally:0.1855', 'agriculture:0.1825', 'expect:0.1729', 'week:0.1706', 'speak:0.1552', 'short:0.1489', 'clock:0.1486', 'sector:0.124', 'broken:0.1134', 'official:0.1071', 'make:0.1034', 'notably:0.0842', 'mr:0.0764']+titles_keywords+['macron:0.421', 'war:0.3744', 'ukraine:0.3263', 'frances:0.2959', 'warns:0.222']"
+        ]
+    ],
+    "RUS+RUS+130":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Russia practises nuclearcapable missile strikes.txt+eventbasecode130+eventcode130+avgtone0.4713656387665198+goldsteinscale0.27999999999999997+nummentions0.013425253991291727+numarticles0.011965192168237854+numsources0.02631578947368421+news_keywords+['kremlin:0.4688', 'ukraine:0.4279', 'war:0.3472', 'kaliningrad:0.3417', 'muratov:0.3001', 'threat:0.2943', 'nuclearcapable:0.2712', 'tactical:0.245', 'crisis:0.2298', 'practise:0.2285', 'president:0.2174', 'simulated:0.2171', 'warn:0.2138', 'newspaper:0.2113', 'command:0.1994', 'eu:0.1946', 'infrastructure:0.1929', 'retaliation:0.1898', 'shortly:0.1837', 'manoeuvre:0.176', 'order:0.1383', 'recent:0.1364', 'launcher:0.1358', 'feb:0.1169', 'state:0.1168', 'make:0.1156', 'willingness:0.1125', 'laureate:0.0989', 'th:0.097', 'thousand:0.0516']+titles_keywords+['russia:0.4394', 'nuclearcapable:0.4271', 'missile:0.3741', 'practises:0.2324', 'strikes:0.2217']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Ukraine says Russian rockets flew over Europes biggest nuclear power plant.txt+eventbasecode130+eventcode130+avgtone0.4735202492211838+goldsteinscale0.27999999999999997+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4365', 'nuclear:0.4286', 'missiles:0.3743', 'reuters:0.3076', 'warning:0.2869', 'zaporizhzhia:0.2837', 'threaten:0.2695', 'decommission:0.2649', 'invade:0.2367', 'petro:0.2332', 'iaea:0.2046', 'operation:0.2043', 'tragedy:0.1978', 'chornobyl:0.172', 'soon:0.1675', 'issue:0.1644', 'assurance:0.1614', 'reiterate:0.1599', 'znpp:0.1594', 'lead:0.1502', 'act:0.143', 'world:0.1377', 'statement:0.1336', 'th:0.1302', 'building:0.0887', 'station:0.0879', 'big:0.0793', 'head:0.0726', 'directly:0.0701', 'offer:0.0184']+titles_keywords+['ukraine:0.4117', 'nuclear:0.3318', 'biggest:0.1797', 'flew:0.1107', 'says:0.056']"
+        ]
+    ]
+}

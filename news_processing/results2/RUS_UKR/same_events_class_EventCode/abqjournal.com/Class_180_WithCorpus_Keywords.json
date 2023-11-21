@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Rocket attacks hit Ukraines Lviv as Biden visits Poland.txt+eventbasecode180+eventcode180+avgtone0.46839546191247977+goldsteinscale0.05+nummentions0.14949201741654572+numarticles0.15010877447425672+numsources0.15460526315789475+news_keywords+['lvivs:0.5559', 'airstrikes:0.4478', 'ukrainian:0.394', 'attack:0.3467', 'refugee:0.3073', 'espionage:0.2615', 'occur:0.2504', 'safe:0.2428', 'blast:0.2314', 'checkpoint:0.2243', 'update:0.2191', 'capital:0.2188', 'siren:0.2149', 'street:0.2144', 'prepare:0.214', 'hear:0.213', 'staging:0.2115', 'stay:0.2053', 'organize:0.2021', 'know:0.2004', 'neighboring:0.1999', 'detain:0.1894', 'stress:0.1713', 'story:0.1663', 'kilometer:0.1416', 'complicate:0.1234', 'biden:0.1156', 'way:0.1156', 'youre:0.0991', 'largely:0.0957']+titles_keywords+['lviv:0.4411', 'ukraines:0.3296', 'attacks:0.3154', 'biden:0.3015', 'rocket:0.2172']"
+        ],
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Russias failure to take down Kyiv was a defeat for the ages.txt+eventbasecode180+eventcode180+avgtone0.4754385964912281+goldsteinscale0.05+nummentions0.03955007256894049+numarticles0.04024655547498187+numsources0.12171052631578948+news_keywords+['kyivs:0.5273', 'crimea:0.4808', 'invade:0.3796', 'putin:0.3297', 'armys:0.3207', 'pentagon:0.3117', 'battle:0.2755', 'paratrooper:0.2503', 'operation:0.241', 'know:0.1987', 'failure:0.1976', 'capital:0.1956', 'supply:0.1877', 'retrospect:0.1743', 'western:0.1685', 'report:0.153', 'long:0.1499', 'th:0.1492', 'enterprise:0.1463', 'combination:0.1453', 'bucha:0.1413', 'effectively:0.1403', 'secure:0.1402', 'frederick:0.1389', 'soon:0.1371', 'major:0.1333', 'fierce:0.1184', 'adjust:0.1105', 'underestimated:0.0967', 'cost:0.0488']+titles_keywords+['kyiv:0.5314', 'russias:0.381', 'defeat:0.3616', 'failure:0.2997', 'ages:0.1287']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220806+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Ukrainian unit digs in for Russian assault on eastern city.txt+eventbasecode180+eventcode180+avgtone0.4853395061728395+goldsteinscale0.05+nummentions0.05370101596516691+numarticles0.05438723712835388+numsources0.11842105263157894+news_keywords+['donetsk:0.5089', 'ukrainian:0.4271', 'sloviansks:0.3687', 'russias:0.3217', 'regiment:0.2746', 'invasion:0.2638', 'strategic:0.2491', 'tank:0.2479', 'occur:0.2424', 'prepare:0.2111', 'industrial:0.2057', 'east:0.1957', 'mortar:0.1941', 'donbas:0.1754', 'safe:0.1631', 'transfer:0.1623', 'long:0.1595', 'lull:0.158', 'fought:0.1579', 'neighbor:0.1555', 'weather:0.1502', 'later:0.1442', 'area:0.1383', 'wont:0.1361', 'furthermore:0.1346', 'treatment:0.1338', 'june:0.1266', 'cmdr:0.1195', 'th:0.1186', 'like:0.1133']+titles_keywords+['ukrainian:0.394', 'assault:0.2714', 'city:0.1761', 'digs:0.1459', 'eastern:0.1444']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+195":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/bbc.com/As it happened US intervention would mean WW3.txt+eventbasecode195+eventcode195+avgtone0.4727272727272727+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ww:0.3453', 'intervention:0.3009', 'happen:0.1784', 'mean:0.0641']+titles_keywords+['ww3:0.4895', 'intervention:0.2437', 'happened:0.1286', 'mean:0.0253']"
+        ],
+        [
+            "20220820+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine war Billowing smoke after strike in Sevastopol.txt+eventbasecode195+eventcode195+avgtone0.4714285714285715+goldsteinscale0.0+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4712', 'russia:0.3779', 'war:0.3284', 'smoke:0.3266', 'russian:0.3208', 'sevastopol:0.3134', 'attack:0.2766', 'military:0.271', 'peninsula:0.2512', 'annex:0.2457', 'billowing:0.2376', 'sea:0.2367', 'report:0.2172', 'video:0.2016', 'strike:0.1983', 'fleet:0.1893', 'area:0.1835', 'appear:0.1783', 'base:0.166', 'unconfirmed:0.1648', 'follow:0.1563', 'black:0.1466', 'string:0.1239', 'equipment:0.115', 'rise:0.1087', 'site:0.0878', 'week:0.0721', 'past:0.0612']+titles_keywords+['smoke:0.3684', 'ukraine:0.3447', 'sevastopol:0.3199', 'strike:0.2782', 'billowing:0.2259']"
+        ]
+    ],
+    "UKR+RUS+195":[
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/bbc.com/As it happened Russia must hand threatened nuclear plant back to Ukraine says G7.txt+eventbasecode195+eventcode195+avgtone0.4729064039408867+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4012', 'nuclear:0.3483', 'report:0.3183', 'burgess:0.3128', 'russia:0.3053', 'threaten:0.2574', 'gozzi:0.2319', 'happen:0.2142', 'james:0.2079', 'bring:0.188', 'george:0.1761', 'say:0.1656', 'chris:0.1594', 'jack:0.1502', 'plant:0.1396', 'today:0.1181', 'hand:0.1172', 'clarke:0.1069', 'wright:0.0934', 'laura:0.0633', 'giles:0.0576']+titles_keywords+['ukraine:0.4076', 'nuclear:0.367', 'threatened:0.1976', 'happened:0.1956', 'g7:0.1914']"
+        ]
+    ]
+}

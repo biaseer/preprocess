@@ -1,0 +1,13 @@
+{
+    "RUS+RUS+192":[
+        []
+    ],
+    "RUS+UKR+192":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/counterpunch.org/The Woman Who Lost Her Fear.txt+eventbasecode192+eventcode192+avgtone0.4688013136288998+goldsteinscale0.025+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['gulag:0.5404', 'putin:0.446', 'moscow:0.4423', 'repression:0.4189', 'riots:0.3977', 'tolokonnikova:0.3824', 'dissident:0.3695', 'regime:0.3558', 'masha:0.3319', 'maria:0.3278', 'journalist:0.3134', 'balaclavas:0.2954', 'flee:0.2824', 'pussy:0.2648', 'capital:0.2586', 'border:0.2504', 'know:0.2461', 'troop:0.2364', 'transform:0.2207', 'symbolic:0.2157', 'enter:0.2137', 'sentenced:0.2009', 'tweet:0.1994', 'end:0.1978', 'world:0.1906', 'listening:0.1837', 'meaning:0.1823', 'fourteen:0.1733', 'like:0.1659', 'compared:0.1218']+titles_keywords+['fear:0.5704', 'woman:0.4234', 'lost:0.3409']"
+        ],
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/counterpunch.org/Russian Takeover of Chernobyl Poses Grave Health Threat.txt+eventbasecode192+eventcode192+avgtone0.4710860366713681+goldsteinscale0.025+nummentions0.027939042089985485+numarticles0.02864394488759971+numsources0.04276315789473684+news_keywords+['chernobyls:0.6465', 'fukushima:0.5347', 'radioactivity:0.3833', 'reactor:0.3518', 'kyiv:0.3331', 'gorbachev:0.315', 'catastrophe:0.2808', 'reuters:0.2093', 'contaminated:0.1878', 'casualty:0.1642', 'priority:0.1546', 'consequence:0.1518', 'current:0.1399', 'health:0.1328', 'safe:0.1309', 'control:0.1247', 'military:0.1233', 'north:0.116', 'cover:0.1067', 'world:0.102', 'increase:0.0978', 'building:0.0884', 'exchange:0.086', 'include:0.076', 'massive:0.0756', 'advisor:0.0728', 'study:0.0644', 'plunge:0.0435', 'desperately:0.0293', 'percent:0.0216']+titles_keywords+['chernobyl:0.7122', 'russian:0.2971', 'takeover:0.1967', 'health:0.1457', 'threat:0.1385']"
+        ]
+    ]
+}

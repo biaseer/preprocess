@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/pentictonherald.ca/Cyberattack in Ukraine targets government websites.txt+eventbasecode180+eventcode180+avgtone0.4709443099273607+goldsteinscale0.05+nummentions0.2155297532656023+numarticles0.21609862218999276+numsources0.3026315789473684+news_keywords+['cyberattacks:0.5968', 'kremlin:0.4051', 'kyiv:0.4003', 'nato:0.3694', 'cryptocurrency:0.3066', 'disinformation:0.2891', 'ransom:0.2843', 'suspect:0.2696', 'know:0.2446', 'coveware:0.2376', 'data:0.2307', 'operation:0.2213', 'law:0.2145', 'sector:0.2115', 'report:0.2095', 'tensions:0.2065', 'email:0.2029', 'election:0.1943', 'agreement:0.1914', 'pipeline:0.1825', 'federal:0.1815', 'forward:0.169', 'link:0.163', 'issp:0.1542', 'freelancer:0.1464', 'grid:0.1257', 'lengthy:0.1234', 'billion:0.1177', 'largely:0.0968', 'coming:0.0789']+titles_keywords+['cyberattack:0.5158', 'ukraine:0.3902', 'government:0.3049', 'websites:0.2739', 'targets:0.2237']"
+        ],
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/pentictonherald.ca/Rocket attacks hit Ukraines Lviv as Biden visits Poland.txt+eventbasecode180+eventcode180+avgtone0.46776859504132234+goldsteinscale0.05+nummentions0.14949201741654572+numarticles0.15010877447425672+numsources0.15460526315789475+news_keywords+['lviv:0.5275', 'ukraines:0.4189', 'airstrikes:0.4175', 'attack:0.3397', 'kozytskyy:0.3044', 'missile:0.282', 'alarm:0.2723', 'refugee:0.2719', 'espionage:0.257', 'occur:0.2382', 'safe:0.2366', 'news:0.2081', 'east:0.2071', 'hear:0.2054', 'neighboring:0.2002', 'staging:0.1973', 'stay:0.1951', 'detain:0.1923', 'know:0.1901', 'solidarity:0.188', 'airport:0.1859', 'organize:0.1808', 'biden:0.15', 'sure:0.1294', 'complicate:0.1164', 'way:0.1084', 'photosergei:0.1067', 'plume:0.1046', 'second:0.0781', 'really:0.0553']+titles_keywords+['lviv:0.4411', 'ukraines:0.3296', 'attacks:0.3154', 'biden:0.3015', 'rocket:0.2172']"
+        ]
+    ]
+}

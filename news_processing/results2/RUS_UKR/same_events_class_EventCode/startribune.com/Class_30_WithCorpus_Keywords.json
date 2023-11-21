@@ -1,0 +1,11 @@
+{
+    "RUS+UKR+30":[
+        [],
+        []
+    ],
+    "USA+UKR+30":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/startribune.com/Minneapolis buildings bridges light up in show of support for Ukraine.txt+eventbasecode30+eventcode30+avgtone0.504+goldsteinscale0.7+nummentions0.011611030478955007+numarticles0.010514865844815084+numsources0.009868421052631578+news_keywords+['minneapolis:0.5105', 'bridges:0.3893', 'ukrainians:0.3573', 'headquarters:0.2977', 'building:0.2767', 'avenue:0.268', 'war:0.2673', 'stadium:0.2486', 'target:0.2401', 'mayor:0.1971', 'weekend:0.1889', 'rainville:0.1861', 'meeting:0.1857', 'sign:0.1601', 'frey:0.1544', 'advocate:0.1515', 'large:0.1464', 'blue:0.1436', 'sympathy:0.1395', 'capella:0.1193', 'follow:0.1143', 'ii:0.1065', 'lowry:0.1051', 'start:0.0979', 'official:0.0946', 'want:0.0823', 'earlier:0.0781', 'light:0.0745', 'say:0.0687', 'nicollet:0.0673']+titles_keywords+['bridges:0.4335', 'minneapolis:0.3482', 'ukraine:0.2836', 'light:0.2038', 'support:0.13']"
+        ]
+    ]
+}

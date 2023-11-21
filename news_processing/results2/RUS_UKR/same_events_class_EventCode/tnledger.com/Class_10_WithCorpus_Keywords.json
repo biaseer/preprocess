@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/tnledger.com/Police More than 900 civilian bodies found in Kyiv region.txt+eventbasecode10+eventcode10+avgtone0.46539027982326947+goldsteinscale0.5+nummentions0.13352685050798258+numarticles0.13415518491660625+numsources0.2236842105263158+news_keywords+['crimea:0.5231', 'ukrainians:0.3982', 'war:0.3083', 'zelenskyy:0.2942', 'nationalist:0.2632', 'journalist:0.2496', 'casualty:0.2453', 'capital:0.2419', 'survive:0.2282', 'prepare:0.2272', 'diversion:0.2245', 'detonate:0.2231', 'cite:0.2207', 'telegram:0.214', 'donbas:0.2111', 'bucha:0.1832', 'siren:0.1809', 'combine:0.1798', 'data:0.1723', 'shelling:0.1622', 'horrific:0.1592', 'wednesday:0.1589', 'accuse:0.1486', 'according:0.1485', 'significance:0.1473', 'like:0.1409', 'heard:0.1406', 'associated:0.1395', 'long:0.1377', 'renew:0.1329']+titles_keywords+['kyiv:0.4262', 'bodies:0.3739', 'police:0.3241', 'civilian:0.2936', '900:0.2421']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/tnledger.com/Biden Russia war is genocide trying to wipe out Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4722792607802874+goldsteinscale0.5+nummentions0.3454281567489115+numarticles0.34590282813633066+numsources0.3782894736842105+news_keywords+['genocide:0.5208', 'putin:0.4751', 'treaty:0.3774', 'ukrainian:0.3622', 'rhetoric:0.3507', 'escalation:0.3245', 'term:0.3237', 'conquer:0.3025', 'biden:0.288', 'overthrow:0.2637', 'administration:0.2503', 'accuse:0.2402', 'say:0.213', 'decide:0.2091', 'block:0.2014', 'subsequently:0.1988', 'example:0.1824', 'learn:0.1796', 'wipe:0.1769', 'bloody:0.1717', 'authorize:0.1692', 'clearer:0.1681', 'names:0.1655', 'ammunition:0.1654', 'articulate:0.1634', 'tweet:0.1411', 'sure:0.1362', 'direct:0.1228', 'cause:0.1188', 'far:0.101']+titles_keywords+['biden:0.4706', 'genocide:0.4538', 'ukraine:0.4142', 'war:0.38', 'trying:0.1789']"
+        ]
+    ],
+    "WST+RUS+10":[
+        [
+            "20211217+../news_crawling/RUS_UKR/p_articles/tnledger.com/Russia sets tough demands for USNATO in draft security pact.txt+eventbasecode10+eventcode10+avgtone0.4763349514563107+goldsteinscale0.5+nummentions0.15130624092888245+numarticles0.15192168237853518+numsources0.2532894736842105+news_keywords+['nato:0.4991', 'ukraine:0.3909', 'treaty:0.3908', 'annexation:0.3202', 'vladimir:0.2983', 'pacts:0.2944', 'threat:0.2626', 'destabilize:0.2445', 'prepare:0.2256', 'agreement:0.2194', 'enlargement:0.2122', 'deploy:0.2108', 'biden:0.176', 'rescind:0.1758', 'ally:0.1708', 'oblige:0.1623', 'follow:0.1465', 'friday:0.1384', 'step:0.1318', 'drawn:0.1298', 'refrain:0.1294', 'drill:0.1273', 'ap:0.125', 'include:0.1238', 'general:0.1222', 'publication:0.119', 'near:0.1053', 'set:0.0961', 'long:0.0955', 'intermediate:0.0767']+titles_keywords+['usnato:0.3709', 'russia:0.3208', 'draft:0.2264', 'pact:0.2089', 'demands:0.1892']"
+        ]
+    ]
+}

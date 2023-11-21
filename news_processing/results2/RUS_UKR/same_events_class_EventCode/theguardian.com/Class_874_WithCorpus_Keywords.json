@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/theguardian.com/A Russian navy battleship taking part in artillery drills Photograph Russian navy black sea fleetTassA.txt+eventbasecode87+eventcode874+avgtone0.4333333333333335+goldsteinscale1.0+nummentions0.028664731494920173+numarticles0.029369108049311095+numsources0.023026315789473683+news_keywords+['editorialize:0.404', 'initiatives:0.3888', 'government:0.3666', 'newsletterstheguardian:0.3466', 'climate:0.344', 'social:0.3355', 'surveilled:0.3349', 'russian:0.3335', 'escalation:0.3321', 'battleship:0.3223', 'troop:0.3201', 'antarcticas:0.3071', 'change:0.3008', 'analysis:0.2975', 'palins:0.2864', 'example:0.2785', 'cancer:0.2781', 'historic:0.2716', 'polar:0.2645', 'startup:0.2623', 'busyness:0.2584', 'dangerous:0.2511', 'deport:0.2504', 'coincide:0.237', 'vaccinate:0.2324', 'pipeline:0.2175', 'snapshot:0.217', 'large:0.2168', 'nyc:0.2103', 'soon:0.1655']+titles_keywords+['battleship:0.5563', 'artillery:0.4918', 'navy:0.4038', 'russian:0.3391', 'photograph:0.1433']"
+        ]
+    ],
+    "UKR+RUS+874":[
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/theguardian.com/0036Drone footage shows aftermath of Russian missile strikes on Odesa video.txt+eventbasecode87+eventcode874+avgtone0.4375+goldsteinscale1.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4492', 'natos:0.432', 'ceasefire:0.4024', 'kremlin:0.3791', 'sergei:0.3398', 'attack:0.2895', 'evacuate:0.2618', 'ankara:0.2605', 'drone:0.249', 'artillery:0.2419', 'operation:0.2394', 'remind:0.2161', 'news:0.215', 'portray:0.1786', 'president:0.178', 'concern:0.168', 'consolidate:0.1586', 'joko:0.1565', 'video:0.1515', 'arrive:0.1498', 'stock:0.1493', 'perfect:0.1443', 'realistic:0.1288', 'area:0.1222', 'timeframe:0.1031', 'far:0.0965', 'export:0.0867', 'thousand:0.0799', 'curtain:0.0761', 'currently:0.0641']+titles_keywords+['video:0.3857', 'odesa:0.3361', 'missile:0.3234', '0036drone:0.294', 'russian:0.2859']"
+        ]
+    ]
+}

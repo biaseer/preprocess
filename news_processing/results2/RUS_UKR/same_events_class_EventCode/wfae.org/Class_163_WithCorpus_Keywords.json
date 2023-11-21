@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+163":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/wfae.org/RussiaUkraine war What happened today May 31.txt+eventbasecode163+eventcode163+avgtone0.46794871794871795+goldsteinscale0.1+nummentions0.030478955007256895+numarticles0.03118201595358956+numsources0.06907894736842106+news_keywords+['ukraine:0.5491', 'russiaukraine:0.4967', 'kremlin:0.4825', 'embargo:0.3129', 'news:0.2947', 'evacuation:0.2917', 'oil:0.286', 'military:0.2849', 'zelenskyy:0.2674', 'pipeline:0.2388', 'npr:0.2302', 'viktor:0.2132', 'recap:0.2118', 'sievierodonetsk:0.2073', 'report:0.1921', 'undermine:0.1919', 'read:0.1884', 'president:0.1854', 'prepare:0.171', 'dead:0.1485', 'speaking:0.1454', 'today:0.1437', 'frenzied:0.1274', 'end:0.123', 'subscribe:0.1142', 'verified:0.1026', 'total:0.0944', 'associated:0.088', 'effect:0.0876', 'agree:0.0796']+titles_keywords+['russiaukraine:0.4786', 'war:0.4209', 'today:0.2912', 'happened:0.2677', '31:0.2104']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/wfae.org/US officials say Russia will face pressure at the UN over Ukraine.txt+eventbasecode163+eventcode163+avgtone0.4788321167883211+goldsteinscale0.1+nummentions0.9426705370101597+numarticles0.9427121102248006+numsources0.9243421052631579+news_keywords+['nato:0.4156', 'crimea:0.3982', 'sanction:0.3511', 'invade:0.3383', 'cyberattacks:0.2803', 'vladimir:0.2778', 'diplomatic:0.2521', 'preemptively:0.2446', 'flag:0.2247', 'crisis:0.2065', 'unify:0.2063', 'prepare:0.2054', 'trigger:0.203', 'table:0.1895', 'future:0.1797', 'propaganda:0.1781', 'discus:0.1752', 'turn:0.1499', 'reject:0.1493', 'promise:0.1456', 'explain:0.1272', 'fear:0.1272', 'state:0.1239', 'nbc:0.1145', 'forget:0.1143', 'current:0.1138', 'increasingly:0.1097', 'long:0.0925', 'durbin:0.0798', 'resolution:0.0647']+titles_keywords+['ukraine:0.2935', 'pressure:0.2751', 'officials:0.1229', 'face:0.0304', 'say:-0.0142']"
+        ],
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/wfae.org/Biden announces new sanctions as Russia attacks Ukraine.txt+eventbasecode163+eventcode163+avgtone0.45566502463054176+goldsteinscale0.1+nummentions0.0660377358490566+numarticles0.06671501087744743+numsources0.2138157894736842+news_keywords+['putin:0.4743', 'sanction:0.4157', 'ukraine:0.3827', 'biden:0.3342', 'invade:0.3259', 'bipartisan:0.2855', 'congress:0.2646', 'economic:0.2508', 'block:0.2461', 'separatist:0.215', 'expect:0.2083', 'pipeline:0.1995', 'thursday:0.1941', 'suffer:0.1567', 'financing:0.1554', 'catastrophic:0.1489', 'step:0.1468', 'speak:0.1463', 'ready:0.1453', 'backed:0.1447', 'western:0.1356', 'group:0.1271', 'statement:0.1251', 'issue:0.1217', 'export:0.1105', 'semiconductor:0.096', 'premeditate:0.092', 'ratchet:0.0877', 'additional:0.0853', 'senior:0.0652']+titles_keywords+['sanctions:0.4222', 'biden:0.3626', 'ukraine:0.257', 'attacks:0.2174', 'new:0.0878']"
+        ]
+    ]
+}

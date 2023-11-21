@@ -1,0 +1,22 @@
+{
+    "RUS+BLR+10":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/interfax.com/UkraineRussia talks may continue in Belarus by weekend source.txt+eventbasecode10+eventcode10+avgtone0.49107142857142855+goldsteinscale0.5+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['belarus:0.4063', 'ukrainerussia:0.367', 'negotiations:0.345', 'ukrainian:0.3278', 'moscow:0.3142', 'tomorrow:0.275', 'talk:0.2735', 'weekend:0.2606', 'continue:0.2166', 'hold:0.1998', 'date:0.1865', 'readiness:0.1854', 'march:0.1819', 'logistical:0.1506', 'closer:0.1375', 'unlikely:0.1355', 'scenario:0.1254', 'round:0.1187', 'say:0.1133', 'second:0.1116', 'confirm:0.1017', 'answer:0.0968', 'realistic:0.0956', 'issue:0.095', 'source:0.0817', 'time:0.0793', 'reach:0.0786', 'affirmative:0.0719', 'need:0.062', 'interfax:0.0534']+titles_keywords+['belarus:0.4033', 'talks:0.2673', 'continue:0.2118', 'weekend:0.2088', 'source:0.1473']"
+        ]
+    ],
+    "RUS+EUR+10":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/interfax.com/Gazprom continues supplying gas on schedule for transit via Ukraine supplies remain at maximum on.txt+eventbasecode10+eventcode10+avgtone0.4943181818181818+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4623', 'gazprom:0.429', 'gas:0.3362', 'transit:0.3134', 'sergei:0.2958', 'kupriyanov:0.2671', 'supply:0.2212', 'increase:0.182', 'utilization:0.165', 'hub:0.1577', 'schedule:0.1511', 'continue:0.1506', 'regular:0.1482', 'contract:0.1462', 'ttf:0.1415', 'data:0.1414', 'meter:0.1387', 'corridor:0.1381', 'march:0.1353', 'correspond:0.1334', 'current:0.113', 'gts:0.1073', 'long:0.1071', 'unchanged:0.1069', 'term:0.0986', 'reporter:0.087', 'price:0.0792', 'maximum:0.0714', 'impose:0.0542', 'mode:0.0412']+titles_keywords+['gazprom:0.4675', 'ukraine:0.3467', 'transit:0.2866', 'schedule:0.1961', 'continues:0.1466']"
+        ]
+    ],
+    "RUS+QAT+10":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/interfax.com/US attempts to turn other countries against Russia dishonorable unworthy Lavrov.txt+eventbasecode10+eventcode10+avgtone0.4745222929936305+goldsteinscale0.5+nummentions0.026124818577648767+numarticles0.026831036983321246+numsources0.02631578947368421+news_keywords+['russia:0.4289', 'lavrov:0.3753', 'sergei:0.3675', 'ambassador:0.3048', 'dishonorable:0.2657', 'turn:0.2557', 'act:0.2325', 'federation:0.2316', 'history:0.1959', 'world:0.1949', 'happen:0.1934', 'convince:0.1814', 'foreign:0.1758', 'know:0.162', 'run:0.1557', 'attempt:0.1461', 'jazeera:0.1458', 'fact:0.1453', 'use:0.1227', 'interview:0.1173', 'force:0.115', 'handle:0.1083', 'measure:0.0856', 'latin:0.0828', 'march:0.0784', 'partner:0.0728', 'sure:0.0658', 'absolute:0.0565', 'interfax:0.0543', 'base:0.0367']+titles_keywords+['lavrov:0.4509', 'dishonorable:0.3831', 'attempts:0.2251', 'turn:0.183', 'countries:0.1661']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/interfax.com/Ukrainian and Russian officials outlined certain solutions at talks now returning home for consultations Ukraines.txt+eventbasecode10+eventcode10+avgtone0.49705882352941183+goldsteinscale0.5+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ceasefire:0.4601', 'ukraines:0.4435', 'moscow:0.3503', 'consultation:0.2618', 'podolyak:0.2575', 'talk:0.2475', 'delegation:0.2422', 'round:0.2147', 'fighting:0.2115', 'implement:0.2039', 'outline:0.1972', 'party:0.1935', 'hold:0.1867', 'return:0.1823', 'capital:0.1816', 'logistical:0.181', 'issue:0.1667', 'future:0.1637', 'monday:0.1584', 'reporter:0.1574', 'goal:0.1485', 'feb:0.1386', 'official:0.1342', 'second:0.1313', 'follow:0.1129', 'head:0.1043', 'set:0.093', 'number:0.0916', 'ensure:0.0722', 'possibility:0.0468']+titles_keywords+['ukraines:0.4173', 'podolyak:0.3108', 'consultations:0.2614', 'solutions:0.2298', 'returning:0.1781']"
+        ]
+    ]
+}

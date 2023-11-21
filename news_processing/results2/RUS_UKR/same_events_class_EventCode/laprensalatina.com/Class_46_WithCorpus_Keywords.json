@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220705+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/KFC Pizza Hut to leave Russia.txt+eventbasecode46+eventcode46+avgtone0.514218009478673+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kfc:0.4517', 'russia:0.4407', 'restaurant:0.3388', 'franchise:0.2645', 'pizza:0.2515', 'company:0.2457', 'branding:0.2351', 'hut:0.2292', 'yum:0.2164', 'exit:0.2127', 'operate:0.2034', 'international:0.1984', 'renault:0.1467', 'apple:0.143', 'sell:0.1404', 'redirect:0.1386', 'google:0.1317', 'statement:0.1139', 'month:0.1101', 'list:0.1094', 'invasion:0.0994', 'right:0.0992', 'efe:0.0932', 'stage:0.0737', 'join:0.0669', 'initiate:0.0617', 'thousand:0.0374', 'complete:0.0343', 'master:0.0247', 'nearly:-0.0208']+titles_keywords+['kfc:0.5148', 'russia:0.3604', 'pizza:0.2918', 'hut:0.2684', 'leave:0.1976']"
+        ]
+    ],
+    "WST+UKR+46":[
+        [
+            "20220120+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Biden warns of disaster for Russia if it invades Ukraine.txt+eventbasecode46+eventcode46+avgtone0.4808575803981623+goldsteinscale0.85+nummentions0.009433962264150943+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['putin:0.4439', 'nato:0.4429', 'ukraines:0.3836', 'attack:0.3251', 'strategic:0.3219', 'cyberattacks:0.3119', 'scenario:0.2821', 'incursion:0.2816', 'warn:0.2724', 'prepare:0.271', 'sanction:0.2319', 'playbook:0.2117', 'border:0.2081', 'ally:0.2074', 'news:0.2068', 'administration:0.1965', 'negotiate:0.1955', 'clarify:0.1926', 'psaki:0.177', 'help:0.1736', 'happen:0.1732', 'certain:0.1708', 'type:0.1666', 'estimate:0.157', 'wednesday:0.1412', 'end:0.1272', 'long:0.1207', 'efe:0.1177', 'dollar:0.1025', 'adopt:0.0609']+titles_keywords+['biden:0.3563', 'ukraine:0.3274', 'invades:0.2531', 'warns:0.2149', 'disaster:0.2012']"
+        ]
+    ]
+}

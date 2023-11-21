@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/kios.org/Biden warns Putin of a decisive response if Russia invades Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4913294797687861+goldsteinscale0.27999999999999997+nummentions0.12917271407837447+numarticles0.12980420594633793+numsources0.28618421052631576+news_keywords+['putin:0.4352', 'invade:0.3691', 'prepare:0.3033', 'pentagon:0.2846', 'diplomatically:0.2783', 'inform:0.2741', 'lviv:0.2675', 'troop:0.248', 'pursue:0.2448', 'panic:0.2324', 'concern:0.2153', 'scenario:0.2143', 'predictable:0.2132', 'order:0.2074', 'unfolding:0.2062', 'update:0.2004', 'office:0.1966', 'table:0.1931', 'immediately:0.1883', 'forward:0.1876', 'stay:0.1703', 'european:0.1601', 'catastrophic:0.1577', 'repositioning:0.1566', 'state:0.1417', 'blinken:0.1232', 'official:0.118', 'bare:0.077', 'agree:0.0596', 'deescalate:0.0547']+titles_keywords+['putin:0.3925', 'biden:0.3831', 'invades:0.2541', 'decisive:0.2063', 'response:0.2062']"
+        ]
+    ],
+    "RUS+WST+130":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/kios.org/US is fully prepared if Russia invades Ukraine secretary of state says.txt+eventbasecode130+eventcode130+avgtone0.4816933638443936+goldsteinscale0.27999999999999997+nummentions0.10522496371552975+numarticles0.10587382160986222+numsources0.29276315789473684+news_keywords+['ukraine:0.4577', 'nato:0.4214', 'putin:0.4062', 'invades:0.3551', 'war:0.3038', 'prepare:0.3024', 'escalation:0.286', 'diplomatic:0.2825', 'cyberattack:0.2727', 'scenario:0.248', 'pursue:0.2302', 'reinforce:0.2178', 'border:0.2088', 'sanction:0.2061', 'concerned:0.2057', 'coalesce:0.2017', 'table:0.1771', 'telegraph:0.1716', 'things:0.1574', 'confident:0.1545', 'thursday:0.1399', 'sphere:0.1322', 'director:0.1095', 'fully:0.1003', 'wrong:0.0998', 'current:0.0986', 'blinken:0.0979', 'intermediate:0.0847', 'deadlock:0.0827', 'billion:0.0787']+titles_keywords+['prepared:0.4087', 'ukraine:0.3224', 'invades:0.2299', 'fully:0.1419', 'secretary:0.1202']"
+        ]
+    ]
+}

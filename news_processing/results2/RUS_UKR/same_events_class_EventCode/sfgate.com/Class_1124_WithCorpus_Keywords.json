@@ -1,0 +1,13 @@
+{
+    "RUS+UKR+1124":[
+        [
+            "20220809+../news_crawling/RUS_UKR/p_articles/sfgate.com/Ukraine Claims Attack on Russian Air Base in Crimea.txt+eventbasecode112+eventcode1124+avgtone0.4703125+goldsteinscale0.4+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['crimea:0.5308', 'kremlin:0.4121', 'detonation:0.3345', 'attack:0.3261', 'military:0.3139', 'sergei:0.3019', 'escalation:0.2956', 'occur:0.2858', 'occupy:0.2798', 'ordnance:0.2752', 'government:0.2679', 'confusion:0.2482', 'drone:0.2323', 'base:0.2285', 'blame:0.2123', 'plume:0.1899', 'disclose:0.1809', 'claims:0.1797', 'risk:0.1656', 'speculate:0.1615', 'scene:0.1546', 'resident:0.1477', 'shortly:0.1442', 'sevastopol:0.1338', 'exactly:0.1232', 'black:0.1058', 'huge:0.1036', 'instal:0.0699', 'send:0.0629', 'hallow:0.0525']+titles_keywords+['crimea:0.4674', 'attack:0.3092', 'base:0.2137', 'claims:0.112', 'air:0.0913']"
+        ]
+    ],
+    "UKR+RUS+1124":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/sfgate.com/Ukraine accuses retreating Russians of civilian massacre.txt+eventbasecode112+eventcode1124+avgtone0.46830692243536276+goldsteinscale0.4+nummentions0.027939042089985485+numarticles0.02864394488759971+numsources0.06578947368421052+news_keywords+['kyiv:0.5148', 'putin:0.4138', 'russias:0.3855', 'massacre:0.3649', 'evacuate:0.3453', 'refugee:0.2888', 'news:0.281', 'disinformation:0.2732', 'military:0.2701', 'azov:0.2696', 'tank:0.2388', 'territory:0.236', 'forward:0.2065', 'write:0.1964', 'accuse:0.1888', 'range:0.1815', 'odesa:0.1783', 'help:0.1775', 'northeast:0.1755', 'fought:0.1743', 'morning:0.1709', 'morph:0.1631', 'bucha:0.1628', 'week:0.1604', 'end:0.1556', 'import:0.1484', 'unburied:0.1296', 'independently:0.1091', 'great:0.105', 'retake:0.0995']+titles_keywords+['ukraine:0.4325', 'massacre:0.3961', 'retreating:0.2924', 'accuses:0.2286', 'civilian:0.1785']"
+        ],
+        []
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/calcuttanews.net/RussiaUkraine war Facebook Instagram unblock hashtags to Bucha killings.txt+eventbasecode80+eventcode80+avgtone0.4601449275362319+goldsteinscale0.75+nummentions0.0330188679245283+numarticles0.0337200870195794+numsources0.029605263157894735+news_keywords+['hashtags:0.5034', 'russia:0.4322', 'propaganda:0.4205', 'kyiv:0.3766', 'war:0.3448', 'unblock:0.3424', 'sanction:0.3254', 'facebook:0.3111', 'report:0.2814', 'bucha:0.2729', 'kill:0.2637', 'liberated:0.2511', 'disturbing:0.2444', 'geolocated:0.2342', 'troop:0.2337', 'automated:0.2322', 'imagery:0.2212', 'control:0.2193', 'technologies:0.2166', 'meta:0.2127', 'post:0.2113', 'aware:0.1765', 'issue:0.1733', 'authenticate:0.1657', 'video:0.1629', 'include:0.1628', 'arm:0.1621', 'ani:0.1456', 'april:0.1219', 'stag:0.0914']+titles_keywords+['hashtags:0.5344', 'russiaukraine:0.4586', 'war:0.3772', 'unblock:0.3712', 'bucha:0.3304']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/calcuttanews.net/More Ukrainians surrender in Mariupol Russia.txt+eventbasecode80+eventcode80+avgtone0.4679611650485437+goldsteinscale0.75+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.013157894736842105+news_keywords+['ukraine:0.4429', 'evacuation:0.4103', 'kremlin:0.403', 'nato:0.403', 'captives:0.3778', 'surrender:0.3374', 'nationalist:0.331', 'war:0.33', 'humanitarian:0.3235', 'icrc:0.3125', 'combatant:0.2996', 'pows:0.2853', 'azov:0.2757', 'remain:0.2757', 'republic:0.2696', 'status:0.263', 'geneva:0.2574', 'involvement:0.2514', 'organization:0.2414', 'agreement:0.2362', 'protocol:0.2285', 'unprovoked:0.2222', 'report:0.2149', 'watchdog:0.2103', 'bloc:0.2025', 'law:0.1858', 'additional:0.1748', 'donbass:0.1418', 'list:0.1409', 'compile:0.1208']+titles_keywords+['ukrainians:0.5129', 'surrender:0.4418', 'russia:0.3565', 'mariupol:0.2323']"
+        ]
+    ]
+}

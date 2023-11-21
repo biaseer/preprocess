@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+163":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Another disastrous war.txt+eventbasecode163+eventcode163+avgtone0.4737903225806452+goldsteinscale0.1+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4676', 'geopolitical:0.3878', 'nato:0.3846', 'demilitarisation:0.3785', 'invasion:0.3525', 'propaganda:0.333', 'imperialist:0.3241', 'oligarchs:0.2959', 'conflict:0.2858', 'operation:0.278', 'kill:0.2669', 'achieve:0.2558', 'panic:0.2423', 'missile:0.2401', 'oppose:0.2316', 'predict:0.2264', 'enter:0.2094', 'disastrous:0.2092', 'agreement:0.2063', 'order:0.1955', 'consolidate:0.1937', 'end:0.1926', 'structure:0.1905', 'turn:0.1875', 'law:0.1748', 'donbass:0.1455', 'long:0.1401', 'population:0.1372', 'wont:0.099', 'upper:0.0966']+titles_keywords+['war:0.541', 'disastrous:0.4593']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Forgotten suffering.txt+eventbasecode163+eventcode163+avgtone0.4444444444444445+goldsteinscale0.1+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.006578947368421052+news_keywords+['ukraine:0.349', 'russias:0.344', 'kashmir:0.3231', 'palestine:0.3183', 'attention:0.2335', 'forgotten:0.2262', 'reaction:0.2111', 'atrocity:0.2106', 'suffer:0.1895', 'opposition:0.1869', 'react:0.1848', 'invasion:0.181', 'sanction:0.1627', 'issue:0.1602', 'country:0.1574', 'badar:0.1477', 'kind:0.1345', 'quite:0.1336', 'ally:0.1276', 'engr:0.1235', 'impose:0.1158', 'different:0.1127', 'respectively:0.109', 'hand:0.0869', 'waqar:0.0787', 'kandhrolarkana:0.0555', 'harsh:0.0504', 'pay:0.05', 'vocal:0.0348', 'strongly:0.0143']+titles_keywords+['suffering:0.6883', 'forgotten:0.4788']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/taipeitimes.com/EU readies for end of Russian gas refuses to use rubles.txt+eventbasecode20+eventcode20+avgtone0.4892665474060823+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4135', 'kremlin:0.3903', 'embargo:0.3602', 'ruble:0.2928', 'pipeline:0.2597', 'memorandum:0.2473', 'neutrality:0.2427', 'supply:0.24', 'fuel:0.2224', 'import:0.2072', 'step:0.2058', 'bloc:0.2046', 'agreement:0.2009', 'implementing:0.1872', 'reduce:0.187', 'constitute:0.1838', 'president:0.1792', 'talk:0.1688', 'ambitious:0.1679', 'ready:0.1629', 'replace:0.1608', 'sign:0.1566', 'end:0.1558', 'cede:0.1431', 'trilateral:0.132', 'additional:0.1288', 'unfriendly:0.1105', 'summer:0.0952', 'possible:0.0887', 'largely:0.0883']+titles_keywords+['rubles:0.4744', 'eu:0.3018', 'refuses:0.2312', 'readies:0.2287', 'end:0.1691']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220707+../news_crawling/RUS_UKR/p_articles/taipeitimes.com/US and UK fret together about Chinese spying.txt+eventbasecode20+eventcode20+avgtone0.4721337579617835+goldsteinscale0.65+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.009868421052631578+news_keywords+['beijing:0.4218', 'espionage:0.3964', 'pengyu:0.3288', 'cyberattacks:0.3261', 'russias:0.3014', 'economy:0.2581', 'world:0.2555', 'takeover:0.2546', 'denounce:0.2441', 'concern:0.2437', 'talk:0.2221', 'allegation:0.208', 'term:0.206', 'western:0.1972', 'combat:0.1946', 'implication:0.1921', 'form:0.1814', 'learn:0.1691', 'look:0.1628', 'alongside:0.1584', 'wray:0.1553', 'brief:0.1529', 'head:0.152', 'spokesman:0.1497', 'extent:0.1476', 'right:0.1472', 'wednesday:0.1413', 'prove:0.1255', 'urge:0.1161', 'insulate:0.0521']+titles_keywords+['spying:0.4672', 'chinese:0.2856', 'uk:0.2262', 'fret:0.1958']"
+        ]
+    ]
+}

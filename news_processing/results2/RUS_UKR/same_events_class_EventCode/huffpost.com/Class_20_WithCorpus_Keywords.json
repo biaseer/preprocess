@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+20":[
+        [
+            "20220615+../news_crawling/RUS_UKR/p_articles/huffpost.com/Russia Says It Destroyed Lviv Depot Holding NATOSupplied Weapons.txt+eventbasecode20+eventcode20+avgtone0.4751166407465008+goldsteinscale0.65+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.0+news_keywords+['kyiv:0.5015', 'airstrikes:0.3909', 'natosupplied:0.3889', 'russias:0.3604', 'medvedev:0.263', 'howitzer:0.2466', 'sievierodonetsk:0.2227', 'outnumbered:0.2157', 'separatist:0.2139', 'aviation:0.2115', 'deliver:0.211', 'tell:0.2105', 'fight:0.2087', 'map:0.2062', 'donbas:0.2008', 'humanitarian:0.1959', 'sabotage:0.1879', 'continue:0.1875', 'range:0.1864', 'want:0.1796', 'advantage:0.1756', 'corridor:0.1719', 'type:0.1661', 'long:0.1655', 'adviser:0.1584', 'gas:0.1459', 'rag:0.1445', 'bad:0.1404', 'today:0.0823', 'possible:0.075']+titles_keywords+['lviv:0.4978', 'natosupplied:0.3511', 'weapons:0.2549', 'depot:0.249', 'destroyed:0.1745']"
+        ]
+    ],
+    "UKR+EUR+20":[
+        [
+            "20220617+../news_crawling/RUS_UKR/p_articles/huffpost.com/EU Commission Backs Candidate Status For Ukraine.txt+eventbasecode20+eventcode20+avgtone0.48674698795180726+goldsteinscale0.65+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.04276315789473684+news_keywords+['ukraine:0.5168', 'kyivs:0.4739', 'vasily:0.302', 'nation:0.2792', 'war:0.2788', 'accession:0.2538', 'union:0.2337', 'border:0.2264', 'bekh:0.218', 'strategic:0.2107', 'sievierodonesk:0.2107', 'bloc:0.2052', 'divided:0.1988', 'snake:0.1898', 'long:0.1894', 'status:0.1869', 'come:0.1867', 'kilometer:0.1701', 'port:0.1651', 'candidate:0.1635', 'later:0.156', 'commission:0.149', 'authority:0.1485', 'expect:0.1463', 'flee:0.1359', 'increase:0.1252', 'new:0.1079', 'nearly:0.0981', 'focus:0.0699', 'asked:0.0675']+titles_keywords+['ukraine:0.4597', 'candidate:0.3072', 'status:0.2246', 'commission:0.1444', 'backs:0.0958']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/huffpost.com/Ukraine President Warns Putin In Emotionally Powerful Speech.txt+eventbasecode20+eventcode20+avgtone0.46645021645021645+goldsteinscale0.65+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.019736842105263157+news_keywords+['putin:0.4873', 'kyiv:0.4221', 'natos:0.4052', 'war:0.3167', 'diplomatic:0.309', 'demilitarize:0.2954', 'escalation:0.2868', 'separatist:0.2761', 'sovereignty:0.2663', 'warns:0.2619', 'misinformation:0.2471', 'troop:0.2349', 'executive:0.2304', 'curfews:0.2281', 'know:0.2201', 'annex:0.22', 'ominously:0.2138', 'chaos:0.2091', 'order:0.2007', 'pretext:0.1909', 'pipeline:0.1858', 'thursday:0.1855', 'reposition:0.1722', 'hesitate:0.1677', 'ready:0.1582', 'write:0.1558', 'end:0.1442', 'big:0.1396', 'zeke:0.1149', 'array:0.0823']+titles_keywords+['putin:0.4582', 'speech:0.3145', 'warns:0.2957', 'emotionally:0.1808', 'powerful:0.176']"
+        ]
+    ]
+}

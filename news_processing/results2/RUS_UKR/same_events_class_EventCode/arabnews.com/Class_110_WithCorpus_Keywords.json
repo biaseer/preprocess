@@ -1,0 +1,17 @@
+{
+    "POL+UKR+110":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/arabnews.com/US VP Harris embraces call for war crimes probe of Russia.txt+eventbasecode110+eventcode110+avgtone0.4841688654353562+goldsteinscale0.4+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.009868421052631578+news_keywords+['natos:0.4505', 'ukrainian:0.3773', 'andrzej:0.3047', 'invade:0.3022', 'pentagon:0.2917', 'conflict:0.2722', 'genocide:0.2685', 'trudeau:0.2553', 'ally:0.2459', 'read:0.2308', 'administration:0.2272', 'escalate:0.2255', 'accuse:0.2194', 'unite:0.2145', 'speaking:0.2042', 'washington:0.2042', 'nutshell:0.1886', 'tod:0.1833', 'plane:0.1792', 'stop:0.1779', 'harris:0.1765', 'difference:0.168', 'turn:0.1677', 'thursday:0.1645', 'probe:0.1563', 'view:0.1534', 'hour:0.1396', 'include:0.1259', 'prepared:0.1231', 'doesnt:0.0636']+titles_keywords+['harris:0.4057', 'probe:0.2567', 'vp:0.2533', 'russia:0.2112', 'embraces:0.1565']"
+        ]
+    ],
+    "RUS+UKR+110":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/arabnews.com/Iran seeks creative ways to nuke deal after Russian demand.txt+eventbasecode110+eventcode110+avgtone0.49796334012219956+goldsteinscale0.4+nummentions0.11574746008708273+numarticles0.1163886874546773+numsources0.10197368421052631+news_keywords+['iran:0.441', 'negotiation:0.4229', 'nuclear:0.4028', 'iaea:0.3089', 'war:0.3033', 'russias:0.3024', 'sanction:0.2825', 'unilaterally:0.2602', 'president:0.2601', 'form:0.2292', 'lavrov:0.2262', 'vienna:0.2017', 'write:0.1703', 'information:0.1699', 'enrich:0.161', 'head:0.1596', 'draft:0.157', 'source:0.1551', 'withdraw:0.1521', 'centrifuge:0.1502', 'timetable:0.1444', 'month:0.1414', 'official:0.1384', 'reimplementing:0.1345', 'agree:0.1289', 'state:0.1186', 'mistake:0.107', 'acknowledgment:0.104', 'sure:0.0769', 'nearly:0.0615']+titles_keywords+['nuke:0.4235', 'iran:0.3985', 'deal:0.1733', 'creative:0.1597', 'ways:0.1487']"
+        ]
+    ],
+    "UKR+RUS+110":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/arabnews.com/Ukraine says Russian troop buildup insufficient for major attack.txt+eventbasecode110+eventcode110+avgtone0.4615384615384615+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.3889', 'kiev:0.3536', 'russian:0.3166', 'troop:0.2925', 'deploy:0.2839', 'attack:0.2605', 'threat:0.2078', 'occupy:0.2054', 'buildup:0.2048', 'insufficient:0.1873', 'border:0.185', 'kuleba:0.1804', 'number:0.1789', 'territory:0.146', 'large:0.1251', 'offensive:0.1204', 'scale:0.1024', 'major:0.0999', 'dmytro:0.0974', 'direct:0.0936', 'wednesday:0.0863', 'reporter:0.0861', 'pose:0.0623', 'speak:0.0569', 'amass:0.0539', 'tell:0.0407', 'moment:0.0397', 'entire:0.0306', 'say:0.0204', 'minister:0.014']+titles_keywords+['ukraine:0.3594', 'troop:0.2627', 'attack:0.2354', 'buildup:0.1836', 'insufficient:0.1583']"
+        ]
+    ]
+}

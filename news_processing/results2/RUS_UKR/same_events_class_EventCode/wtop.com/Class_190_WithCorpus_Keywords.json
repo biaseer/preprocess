@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/wtop.com/White House US allies to ban new investments in Russia.txt+eventbasecode190+eventcode190+avgtone0.45950704225352124+goldsteinscale0.0+nummentions0.08127721335268505+numarticles0.08194343727338652+numsources0.10197368421052631+news_keywords+['ukraine:0.4828', 'putin:0.4762', 'sanctions:0.4245', 'invade:0.3252', 'economy:0.2679', 'pentagon:0.2406', 'executive:0.2402', 'capital:0.2392', 'plan:0.2219', 'psaki:0.2084', 'intensify:0.2081', 'coal:0.202', 'victim:0.1975', 'announce:0.1966', 'fight:0.1945', 'burn:0.1789', 'pull:0.1714', 'end:0.1665', 'bucha:0.1641', 'atrocity:0.156', 'equipment:0.1507', 'monday:0.1471', 'make:0.1457', 'evidence:0.1444', 'associated:0.139', 'yard:0.1276', 'desperate:0.1259', 'big:0.1127', 'refrain:0.1067', 'send:0.0803']+titles_keywords+['russia:0.3728', 'allies:0.2688', 'investments:0.1959', 'ban:0.1855', 'white:0.0957']"
+        ],
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/wtop.com/No apologies Germanys Merkel defends approach to Ukraine.txt+eventbasecode190+eventcode190+avgtone0.489010989010989+goldsteinscale0.0+nummentions0.03374455732946299+numarticles0.03444525018129079+numsources0.14802631578947367+news_keywords+['diplomacy:0.45', 'ukraines:0.4252', 'merkel:0.4034', 'nato:0.401', 'putin:0.3877', 'annexation:0.3346', 'excuse:0.2734', 'separatist:0.2706', 'berlin:0.25', 'reaction:0.2307', 'write:0.2285', 'know:0.2241', 'chancellorship:0.2197', 'enter:0.2136', 'oppose:0.2037', 'concede:0.1995', 'plan:0.1857', 'matter:0.1789', 'long:0.1765', 'miscalculation:0.1665', 'try:0.1577', 'calamity:0.1531', 'pipeline:0.1447', 'ease:0.1431', 'associated:0.1277', 'deal:0.1247', 'wasnt:0.1192', 'year:0.1183', 'doesnt:0.0984', 'tuning:0.0543']+titles_keywords+['merkel:0.4744', 'ukraine:0.379', 'apologies:0.3616', 'defends:0.2718', 'approach:0.1831']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220808+../news_crawling/RUS_UKR/p_articles/wtop.com/Water crisis looms for eastern Ukrainian city of Sloviansk.txt+eventbasecode190+eventcode190+avgtone0.4764254385964912+goldsteinscale0.0+nummentions0.15602322206095792+numarticles0.15663524292965916+numsources0.18421052631578946+news_keywords+['ukraine:0.4617', 'water:0.349', 'drain:0.335', 'occupy:0.3281', 'war:0.2977', 'nikolai:0.2748', 'supply:0.273', 'tank:0.2697', 'lyubov:0.2659', 'humanitarian:0.2633', 'liter:0.2439', 'plan:0.2329', 'winter:0.2284', 'drink:0.2267', 'stay:0.2213', 'warn:0.2197', 'boils:0.2184', 'separatist:0.211', 'inhospitable:0.2005', 'artillery:0.1837', 'plant:0.182', 'issue:0.1741', 'population:0.1544', 'dwindle:0.1517', 'sirens:0.1427', 'end:0.1312', 'comparative:0.1214', 'dish:0.1134', 'near:0.1045', 'sure:0.0993']+titles_keywords+['sloviansk:0.4646', 'ukrainian:0.358', 'water:0.3423', 'crisis:0.1767', 'city:0.1712']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/dailyherald.com/Saturday Night Live opens with tribute to Ukraine.txt+eventbasecode190+eventcode190+avgtone0.49200000000000005+goldsteinscale0.0+nummentions0.3149492017416546+numarticles0.31435823060188545+numsources0.4967105263157895+news_keywords+['snl:0.5576', 'kyiv:0.4685', 'russian:0.3026', 'invasion:0.2837', 'troop:0.2758', 'live:0.2644', 'audience:0.2598', 'perform:0.2532', 'york:0.2458', 'introduce:0.2345', 'humor:0.2301', 'saturday:0.2261', 'airstrikes:0.2255', 'chorus:0.2182', 'kate:0.2159', 'table:0.2029', 'ongoing:0.1989', 'tribute:0.1987', 'dumka:0.1927', 'sketch:0.1913', 'capital:0.1869', 'kick:0.1815', 'night:0.1745', 'strong:0.1682', 'amid:0.1661', 'cast:0.1525', 'launch:0.1343', 'normally:0.1098', 'series:0.1004', 'mckinnon:0.0309']+titles_keywords+['ukraine:0.4007', 'saturday:0.2535', 'tribute:0.2179', 'live:0.213', 'opens:0.1554']"
+        ],
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/dailyherald.com/Police More than 900 civilian bodies found in Kyiv region.txt+eventbasecode190+eventcode190+avgtone0.46688500727802035+goldsteinscale0.0+nummentions0.10377358490566038+numarticles0.09934735315445975+numsources0.16447368421052633+news_keywords+['kyiv:0.5515', 'soviet:0.4156', 'airstrikes:0.3477', 'pentagon:0.3172', 'news:0.3025', 'evacuate:0.3016', 'annexed:0.289', 'casualty:0.2834', 'nationalist:0.2758', 'troop:0.2586', 'diversion:0.2423', 'warn:0.2256', 'cite:0.2175', 'anonymity:0.2034', 'horrific:0.2023', 'suspect:0.2005', 'rubble:0.1978', 'production:0.1931', 'shortly:0.1881', 'sinking:0.1867', 'dmytro:0.1862', 'significance:0.1793', 'understand:0.1744', 'combine:0.1727', 'according:0.1536', 'overshadow:0.144', 'fought:0.1412', 'spring:0.1357', 'long:0.1297', 'way:0.1096']+titles_keywords+['kyiv:0.4262', 'bodies:0.3739', 'police:0.3241', 'civilian:0.2936', '900:0.2421']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/dailyherald.com/A shelling a young girl and hopeless moments in a hospital.txt+eventbasecode190+eventcode190+avgtone0.4956331877729258+goldsteinscale0.0+nummentions0.11756168359941944+numarticles0.11820159535895576+numsources0.15460526315789475+news_keywords+['ukraine:0.469', 'ambulance:0.4324', 'bandaged:0.3835', 'blood:0.3824', 'putin:0.3821', 'fend:0.3261', 'gurney:0.3229', 'injection:0.2737', 'shelling:0.2736', 'child:0.268', 'cover:0.2232', 'band:0.2109', 'room:0.2069', 'port:0.1999', 'reach:0.1995', 'bring:0.1884', 'know:0.1873', 'desperately:0.1797', 'leave:0.1724', 'pant:0.1697', 'press:0.1651', 'look:0.1634', 'unicorn:0.1626', 'mariupol:0.1615', 'head:0.1581', 'immediately:0.1541', 'blue:0.1325', 'videojournalist:0.1298', 'advance:0.1133', 'year:0.0872']+titles_keywords+['hospital:0.5364', 'shelling:0.3807', 'hopeless:0.3145', 'girl:0.3087', 'moments:0.2167']"
+        ]
+    ]
+}

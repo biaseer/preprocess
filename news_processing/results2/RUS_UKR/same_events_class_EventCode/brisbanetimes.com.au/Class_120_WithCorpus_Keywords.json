@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+120":[
+        [
+            "20210627+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/Classified British defence papers found at bus stop.txt+eventbasecode120+eventcode120+avgtone0.47687861271676296+goldsteinscale0.3+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['crimea:0.4661', 'diplomatic:0.3489', 'russias:0.3449', 'telegraph:0.322', 'investigation:0.3158', 'operation:0.3051', 'government:0.2964', 'undermine:0.29', 'navy:0.2736', 'information:0.2658', 'provocation:0.2641', 'accordance:0.217', 'worrying:0.2167', 'british:0.1978', 'general:0.1905', 'armed:0.1765', 'reportedly:0.1617', 'page:0.1601', 'unnamed:0.1557', 'zakharova:0.1546', 'wednesday:0.1523', 'react:0.1518', 'ap:0.1438', 'bond:0.1388', 'enter:0.1357', 'happens:0.1352', 'like:0.1021', 'ordered:0.0931', 'covid:0.0867', 'longer:0.084']+titles_keywords+['papers:0.4203', 'classified:0.2906', 'bus:0.28', 'british:0.238', 'defence:0.1895']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/Russia strikes childrens hospital in Mariupol Ukrainian officials say.txt+eventbasecode120+eventcode120+avgtone0.468783068785+goldsteinscale0.3+nummentions0.025036284470246733+numarticles0.02574329224075417+numsources0.029605263157894735+news_keywords+['crimea:0.4926', 'kremlin:0.4711', 'ceasefire:0.4147', 'nato:0.3764', 'evacuate:0.3513', 'chernobyl:0.332', 'correspondent:0.3222', 'invasion:0.3114', 'destroy:0.2752', 'frontline:0.273', 'poltava:0.2605', 'know:0.2393', 'zhyvytskyy:0.2383', 'economy:0.2365', 'turn:0.2218', 'plan:0.2203', 'help:0.2105', 'firefighters:0.2101', 'concern:0.207', 'write:0.2018', 'mig:0.2002', 'world:0.1992', 'town:0.1976', 'grid:0.1777', 'eastern:0.1744', 'incoming:0.1707', 'snow:0.165', 'nearly:0.1517', 'grow:0.1461', 'images:0.1305']+titles_keywords+['ukrainian:0.3672', 'hospital:0.2501', 'mariupol:0.2422', 'childrens:0.2039', 'strikes:0.2012']"
+        ]
+    ]
+}

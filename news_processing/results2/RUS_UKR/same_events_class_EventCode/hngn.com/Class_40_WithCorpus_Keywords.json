@@ -1,0 +1,12 @@
+{
+    "FRA+RUS+40":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/hngn.com/ExTrump Adviser Called EU Weak To Oppose Russia If Putin Takes Action.txt+eventbasecode40+eventcode40+avgtone0.4745762711864407+goldsteinscale0.55+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.023026315789473683+news_keywords+['putin:0.5262', 'nato:0.4792', 'regime:0.3517', 'sanction:0.3148', 'militarily:0.3139', 'eu:0.3116', 'adviser:0.2792', 'extrump:0.2749', 'unify:0.2672', 'weaken:0.2654', 'standoff:0.2636', 'bloc:0.2619', 'imposition:0.2556', 'attention:0.2403', 'read:0.2293', 'ahead:0.2205', 'bolton:0.2069', 'trounce:0.2055', 'want:0.1997', 'citedeagles:0.1992', 'word:0.1941', 'assure:0.1926', 'vague:0.1925', 'disadvantage:0.1707', 'called:0.1702', 'dark:0.1562', 'significant:0.1426', 'says:0.1423', 'tothe:0.1383', 'state:0.1014']+titles_keywords+['extrump:0.3978', 'putin:0.3711', 'weak:0.2818', 'eu:0.2677', 'oppose:0.2059']"
+        ]
+    ],
+    "PRT+RUS+40":[
+        [
+            "20220819+../news_crawling/RUS_UKR/p_articles/hngn.com/RussiaUkraine War Radioactive Risk Threatens Germany Poland Slovakia Facing if Zaporizhzhia Nuclear Power Plant Takes.txt+eventbasecode40+eventcode40+avgtone0.4652241112828439+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4737', 'radioactive:0.4128', 'demilitarize:0.3193', 'war:0.318', 'reuters:0.3022', 'precaution:0.2936', 'zelenskyy:0.2814', 'provocation:0.2692', 'coincide:0.2647', 'disaster:0.2528', 'government:0.2504', 'aircrafts:0.2294', 'newsreported:0.1965', 'power:0.1875', 'organize:0.187', 'read:0.1837', 'exploit:0.1782', 'swap:0.1698', 'tank:0.1621', 'continue:0.156', 'secretary:0.1552', 'facility:0.1543', 'blame:0.1479', 'soon:0.147', 'dog:0.1408', 'brief:0.1274', 'schedule:0.1216', 'withdraw:0.1027', 'facing:0.1002', 'numerous:0.0917']+titles_keywords+['radioactive:0.4736', 'russiaukraine:0.3926', 'slovakia:0.3764', 'war:0.2726', 'risk:0.2582']"
+        ]
+    ]
+}

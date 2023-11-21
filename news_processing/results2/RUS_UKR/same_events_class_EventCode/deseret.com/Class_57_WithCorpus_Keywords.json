@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+57":[
+        [
+            "20220207+../news_crawling/RUS_UKR/p_articles/deseret.com/Could a deal stop Russia from invading Ukraine.txt+eventbasecode57+eventcode57+avgtone0.49094202898550726+goldsteinscale0.9+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.3921', 'macron:0.3675', 'invade:0.2982', 'peace:0.2418', 'deal:0.2237', 'president:0.1946', 'soon:0.188', 'emmanuel:0.1873', 'sign:0.165', 'sovereignty:0.1604', 'border:0.16', 'french:0.1589', 'military:0.1506', 'potentially:0.1281', 'propose:0.1235', 'stop:0.1218', 'happen:0.1217', 'news:0.1214', 'set:0.1145', 'big:0.1088', 'picture:0.09', 'accord:0.0899', 'break:0.0844', 'capable:0.0799', 'currently:0.0553', 'insider:0.0448', 'balance:0.0326', 'building:0.0272', 'whats:0.0254', 'preserve:0.0098']+titles_keywords+['ukraine:0.4163', 'deal:0.2942', 'russia:0.2885', 'invading:0.2501', 'stop:0.1236']"
+        ]
+    ],
+    "WST+UKR+57":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/deseret.com/Russias military buildup at Ukraines border is the biggest in Europe since World War II.txt+eventbasecode57+eventcode57+avgtone0.4849246231155779+goldsteinscale0.9+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraines:0.4567', 'invade:0.3829', 'war:0.3328', 'border:0.3061', 'imminent:0.299', 'military:0.2538', 'president:0.2505', 'ambassador:0.2295', 'democracy:0.2161', 'npr:0.1965', 'continue:0.1833', 'fear:0.1751', 'buildup:0.1746', 'american:0.162', 'speech:0.1595', 'big:0.1531', 'consequences:0.1519', 'happen:0.123', 'whats:0.1212', 'sign:0.1131', 'ii:0.1122', 'day:0.1009', 'greenfieldsaid:0.0981', 'decide:0.0863', 'understand:0.0863', 'bidensaid:0.0764', 'thomas:0.0658', 'accord:0.0632', 'linda:0.0516', 'cost:0.0509']+titles_keywords+['ukraines:0.468', 'border:0.2372', 'biggest:0.2246', 'military:0.2229', 'buildup:0.1801']"
+        ]
+    ]
+}

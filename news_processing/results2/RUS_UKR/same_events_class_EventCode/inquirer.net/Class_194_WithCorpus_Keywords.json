@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+194":[
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/inquirer.net/UK says Russia struck rail infrastructure in Kyiv.txt+eventbasecode194+eventcode194+avgtone0.4859550561797753+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['kyiv:0.569', 'russian:0.4038', 'putin:0.3856', 'russias:0.3855', 'rail:0.35', 'missile:0.2932', 'sievierodonetsk:0.2657', 'counterattack:0.259', 'reuters:0.2416', 'army:0.2319', 'infrastructure:0.2191', 'warn:0.2122', 'strike:0.2039', 'update:0.1793', 'range:0.1688', 'read:0.1634', 'region:0.1615', 'murder:0.1575', 'push:0.1426', 'model:0.1413', 'main:0.1237', 'email:0.1126', 'early:0.0968', 'daily:0.0949', 'featured:0.0947', 'concentrate:0.0934', 'plus:0.0871', 'stories:0.0821', 'agree:0.0545', 'half:0.0239']+titles_keywords+['kyiv:0.514', 'rail:0.3495', 'struck:0.1697', 'infrastructure:0.1464', 'says:0.0606']"
+        ]
+    ],
+    "RUS+UKR+194":[
+        [
+            "20220822+../news_crawling/RUS_UKR/p_articles/inquirer.net/Russian missiles rain on Ukraine as war nears halfyear mark.txt+eventbasecode194+eventcode194+avgtone0.4782366071428571+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4952', 'moscows:0.4147', 'war:0.3566', 'erdogan:0.3549', 'reuters:0.3128', 'demilitarise:0.3117', 'threat:0.3035', 'nuclear:0.2607', 'gatilov:0.2471', 'read:0.2431', 'separatist:0.24', 'telegram:0.2299', 'howitzers:0.2277', 'prepare:0.2234', 'annex:0.221', 'volodymyr:0.2107', 'report:0.2091', 'update:0.197', 'nears:0.1902', 'secretary:0.1894', 'continue:0.1857', 'industrial:0.1831', 'order:0.1826', 'month:0.1588', 'speculate:0.152', 'blahodatne:0.1376', 'like:0.137', 'saturdays:0.1344', 'shot:0.1313', 'thousand:0.0886']+titles_keywords+['missiles:0.4229', 'ukraine:0.4057', 'halfyear:0.2789', 'rain:0.2241', 'nears:0.1792']"
+        ]
+    ]
+}

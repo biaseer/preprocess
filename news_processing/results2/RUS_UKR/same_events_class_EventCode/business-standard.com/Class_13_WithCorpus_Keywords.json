@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+13":[
+        [
+            "20220604+../news_crawling/RUS_UKR/p_articles/business-standard.com/Ukraine says it will prevail over Russian as eastern battle grinds on.txt+eventbasecode13+eventcode13+avgtone0.48165618448637315+goldsteinscale0.52+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.009868421052631578+news_keywords+['ukraine:0.4944', 'ukrainian:0.489', 'prevail:0.4158', 'zelenskiy:0.3862', 'russian:0.3754', 'battle:0.3458', 'russia:0.3134', 'volodymyr:0.2959', 'war:0.2807', 'artillery:0.2654', 'match:0.2205', 'focus:0.1977', 'eastern:0.1658', 'city:0.1468', 'say:0.1462', 'saturday:0.142', 'slug:0.1224', 'grind:0.0829', 'president:0.0763']+titles_keywords+['ukraine:0.4509', 'prevail:0.3296', 'battle:0.3262', 'eastern:0.1633', 'says:0.0903']"
+        ]
+    ],
+    "RUS+PRT+13":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/business-standard.com/Ukraine president Zelenskiy calls for day of unity on February 16.txt+eventbasecode13+eventcode13+avgtone0.4910071942446044+goldsteinscale0.52+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.03289473684210526+news_keywords+['ukraine:0.4646', 'zelenskiy:0.4272', 'russian:0.3433', 'volodymyr:0.2925', 'invade:0.2531', 'flag:0.2345', 'february:0.2122', 'feb:0.2074', 'president:0.1984', 'monday:0.1734', 'anthem:0.146', 'day:0.139', 'sing:0.1319', 'people:0.1285', 'unison:0.1166', 'country:0.1148', 'unity:0.0973', 'date:0.0958', 'say:0.093', 'national:0.0695', 'western:0.0634', 'fly:0.0626', 'medium:-0.0481']+titles_keywords+['zelenskiy:0.454', 'ukraine:0.3402', 'february:0.219', 'day:0.1911', 'unity:0.1417']"
+        ]
+    ]
+}

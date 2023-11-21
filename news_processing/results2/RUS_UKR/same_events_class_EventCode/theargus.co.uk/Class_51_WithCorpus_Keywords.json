@@ -1,0 +1,20 @@
+{
+    "GBR+UKR+51":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/theargus.co.uk/Brighton i360 lit up in support of Ukraine amid war with Russia.txt+eventbasecode51+eventcode51+avgtone0.5+goldsteinscale0.67+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4428', 'protest:0.3652', 'brighton:0.36', 'war:0.3428', 'invasion:0.3386', 'organisers:0.2974', 'british:0.278', 'theatre:0.2525', 'privilege:0.2438', 'nation:0.2263', 'banner:0.2219', 'pavilion:0.2219', 'tourist:0.2139', 'important:0.2089', 'yellow:0.2089', 'bring:0.2009', 'ongoing:0.1893', 'lively:0.17', 'subject:0.1645', 'illuminate:0.1638', 'ban:0.16', 'story:0.1391', 'right:0.123', 'non:0.12', 'tonight:0.1165', 'dozen:0.1052', 'bandage:0.1028', 'make:0.0949', 'airways:0.0941', 'set:0.087']+titles_keywords+['ukraine:0.4024', 'i360:0.3068', 'brighton:0.3055', 'war:0.2809', 'lit:0.1408']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/theargus.co.uk/Who is Clive Myrie Journalist and Sussex graduate reporting live from Ukraine.txt+eventbasecode51+eventcode51+avgtone0.5054347826086957+goldsteinscale0.67+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['correspondent:0.5001', 'kyiv:0.3818', 'itv:0.3676', 'clive:0.3388', 'myrie:0.3068', 'warzone:0.302', 'news:0.292', 'reporting:0.2725', 'presenter:0.2619', 'happen:0.2203', 'safety:0.2178', 'privilege:0.2091', 'unbiased:0.2086', 'story:0.2071', 'flak:0.2003', 'outlet:0.1903', 'proud:0.1743', 'job:0.1743', 'dorris:0.155', 'live:0.1514', 'lively:0.1486', 'interrupt:0.1444', 'accurate:0.1391', 'debate:0.1212', 'want:0.1141', 'alongside:0.111', 'madness:0.1034', 'middle:0.1001', 'graduate:0.0877', 'youve:0.0525']+titles_keywords+['journalist:0.4585', 'clive:0.4501', 'myrie:0.4149', 'ukraine:0.3569', 'live:0.133']"
+        ],
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/theargus.co.uk/Russia temporarily stops gas flow through Nord Stream 1.txt+eventbasecode51+eventcode51+avgtone0.48223350253807107+goldsteinscale0.67+nummentions0.28156748911465895+numarticles0.2820884699057288+numsources0.2532894736842105+news_keywords+['ukraine:0.4141', 'gas:0.3972', 'pipeline:0.3555', 'embargo:0.3433', 'gazprom:0.337', 'government:0.2649', 'supply:0.2583', 'invade:0.2319', 'nord:0.2237', 'comrzsn:0.2119', 'winter:0.195', 'station:0.1922', 'decrease:0.1854', 'news:0.1799', 'bloc:0.167', 'report:0.1645', 'cite:0.1629', 'push:0.1609', 'plan:0.1563', 'debate:0.1563', 'urgent:0.1536', 'term:0.1438', 'step:0.1318', 'scholz:0.1284', 'continue:0.1274', 'respectively:0.1214', 'say:0.1178', 'long:0.1123', 'chancellor:0.0972', 'xg:0.0788']+titles_keywords+['russia:0.282', 'gas:0.2294', 'nord:0.2261', 'stream:0.1913', 'temporarily:0.1682']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220826+../news_crawling/RUS_UKR/p_articles/theargus.co.uk/Moscow film festival opens with praise of soldiers in Donbas.txt+eventbasecode51+eventcode51+avgtone0.5165562913907285+goldsteinscale0.67+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.2631578947368421+news_keywords+['moscow:0.4883', 'mikhalkov:0.4055', 'ukrainian:0.3799', 'nikita:0.355', 'film:0.3342', 'anton:0.2841', 'festival:0.2699', 'donbas:0.2213', 'historical:0.1897', 'academy:0.1698', 'award:0.1685', 'hero:0.1578', 'fight:0.1527', 'industrial:0.1509', 'representation:0.1291', 'separatist:0.1273', 'privilege:0.1203', 'direct:0.1145', 'th:0.1094', 'stay:0.1043', 'burnt:0.0895', 'local:0.0788', 'issue:0.0739', 'anticipate:0.0704', 'actually:0.0697', 'big:0.0624', 'everybody:0.0604', 'want:0.0594', 'reader:0.0593', 'reduce:0.0383']+titles_keywords+['moscow:0.4091', 'festival:0.3049', 'soldiers:0.2941', 'film:0.2748', 'praise:0.2153']"
+        ]
+    ]
+}

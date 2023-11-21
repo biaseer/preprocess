@@ -1,0 +1,20 @@
+{
+    "BLR+RUS+120":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/UkraineRussia evening briefing Five key developments as Moscow says it will target Western weapons convoys.txt+eventbasecode120+eventcode120+avgtone0.4803370786516854+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4911', 'minsk:0.4679', 'stalingrad:0.4401', 'ceasefire:0.4297', 'nato:0.4223', 'putin:0.3893', 'battalion:0.3444', 'convoys:0.334', 'invasion:0.2777', 'sayingkyiv:0.2502', 'escalate:0.2357', 'tank:0.2067', 'zelensky:0.2041', 'news:0.202', 'turn:0.1948', 'correspond:0.1912', 'orchestrate:0.1873', 'weapon:0.1752', 'general:0.1575', 'end:0.1508', 'dangerous:0.1505', 'brief:0.1445', 'include:0.1358', 'launchpad:0.1218', 'follow:0.1178', 'willingness:0.111', 'feb:0.106', 'today:0.1045', 'send:0.1018', 'million:0.0566']+titles_keywords+['moscow:0.4635', 'convoys:0.3496', 'briefing:0.3298', 'developments:0.2591', 'weapons:0.2501']"
+        ]
+    ],
+    "CHN+RUS+120":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/The West is sleepwalking into an even more devastating conflict with Russia.txt+eventbasecode120+eventcode120+avgtone0.47480988593155893+goldsteinscale0.3+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.003289473684210526+news_keywords+['putin:0.4268', 'kyivs:0.3727', 'balkanisation:0.3542', 'revolution:0.3251', 'scenario:0.2816', 'result:0.2689', 'world:0.24', 'jinping:0.2392', 'breakthrough:0.2364', 'nuclear:0.2339', 'cyberwarfare:0.2308', 'gameplan:0.2269', 'western:0.219', 'emerges:0.2174', 'advantage:0.2095', 'embolden:0.2095', 'history:0.2083', 'statesmanship:0.2062', 'cataclysm:0.1982', 'promising:0.1861', 'end:0.1821', 'return:0.1723', 'neutral:0.1618', 'smash:0.1595', 'column:0.1575', 'import:0.1464', 'comprehensively:0.1427', 'feverish:0.1304', 'agree:0.104', 'sure:0.1027']+titles_keywords+['russia:0.3925', 'sleepwalking:0.3111', 'conflict:0.2584', 'west:0.2419', 'devastating:0.1726']"
+        ]
+    ],
+    "RUS+UKR+120":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Russia and Ukraine at odds over neutrality in 15point peace plan.txt+eventbasecode120+eventcode120+avgtone0.4873772791023843+goldsteinscale0.3+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.009868421052631578+news_keywords+['ukraine:0.4815', 'nato:0.4228', 'kremlin:0.3499', 'demilitarisation:0.3375', 'annex:0.2891', 'separatist:0.2821', 'negotiator:0.2534', 'neutral:0.2414', 'peace:0.24', 'lavrov:0.2272', 'alignment:0.2234', 'pledge:0.2073', 'debate:0.1999', 'news:0.1972', 'prepare:0.1944', 'bloc:0.1839', 'deal:0.1823', 'wording:0.1746', 'reinforce:0.1746', 'meet:0.162', 'long:0.151', 'end:0.1345', 'poise:0.1314', 'allow:0.1225', 'similar:0.1216', 'draw:0.1077', 'second:0.0912', 'odds:0.0857', 'true:0.0578', 'accidentally:0.0563']+titles_keywords+['ukraine:0.4178', 'neutrality:0.3294', 'peace:0.2936', '15point:0.2786', 'plan:0.2314']"
+        ],
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Ukraine morning briefing Five developments as Zelensky refuses to sacrifice territory for peace.txt+eventbasecode120+eventcode120+avgtone0.4817073170731707+goldsteinscale0.3+nummentions0.2772133526850508+numarticles0.275924583031182+numsources0.3026315789473684+news_keywords+['ukraine:0.492', 'kremlin:0.3968', 'nato:0.3719', 'demilitarisation:0.3314', 'invade:0.3261', 'government:0.3096', 'medvedev:0.2966', 'sanction:0.2965', 'diplomatic:0.2961', 'separatist:0.282', 'news:0.2456', 'brief:0.2355', 'consolidate:0.2249', 'emergency:0.2242', 'argue:0.2019', 'continue:0.1976', 'table:0.1954', 'accomplishes:0.1812', 'autocrat:0.1786', 'jinping:0.1776', 'unravel:0.174', 'long:0.161', 'note:0.1531', 'rail:0.1337', 'precondition:0.1229', 'major:0.121', 'agree:0.1072', 'head:0.0968', 'heating:0.0958', 'decade:0.0746']+titles_keywords+['zelensky:0.5125', 'ukraine:0.413', 'briefing:0.2995', 'territory:0.2955', 'refuses:0.2572']"
+        ]
+    ]
+}

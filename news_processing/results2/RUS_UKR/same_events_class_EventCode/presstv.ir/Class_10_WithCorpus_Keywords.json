@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+10":[
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/presstv.ir/Russia declares 40 German diplomatic staff persona non grata in titfortat move.txt+eventbasecode10+eventcode10+avgtone0.48575129533678757+goldsteinscale0.5+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['diplomacy:0.4337', 'putin:0.3976', 'nato:0.3764', 'kiev:0.3153', 'government:0.2684', 'expel:0.2606', 'provoke:0.2596', 'operation:0.248', 'sanction:0.2444', 'german:0.2346', 'justify:0.2103', 'response:0.1906', 'insinuation:0.1886', 'offensiveagainst:0.1864', 'grata:0.1798', 'unfriendly:0.1775', 'happen:0.1768', 'order:0.1744', 'force:0.1531', 'staff:0.1454', 'persona:0.1448', 'note:0.142', 'false:0.1397', 'reciprocal:0.128', 'baerbock:0.1083', 'state:0.1074', 'monday:0.1074', 'similar:0.0909', 'way:0.0825', 'cohesion:0.0525']+titles_keywords+['russia:0.304', 'diplomatic:0.2655', 'grata:0.2184', 'staff:0.2113', '40:0.1104']"
+        ]
+    ],
+    "RUS+EUR+10":[
+        [
+            "20220622+../news_crawling/RUS_UKR/p_articles/presstv.ir/Questions surround Ukraines eligibility to join EU.txt+eventbasecode10+eventcode10+avgtone0.501953125+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4568', 'nato:0.3961', 'eu:0.3656', 'kremlin:0.3143', 'vladimir:0.3072', 'bloc:0.2361', 'join:0.2279', 'eligibility:0.1867', 'status:0.1849', 'want:0.1799', 'ready:0.1598', 'undermine:0.1587', 'commission:0.1523', 'affair:0.1506', 'step:0.1365', 'study:0.1336', 'legislator:0.1313', 'analysts:0.1309', 'pawn:0.1298', 'thursday:0.1276', 'questions:0.1203', 'closer:0.1187', 'impress:0.1058', 'current:0.1016', 'year:0.0984', 'head:0.0832', 'der:0.0718', 'video:0.0697', 'highly:0.0559', 'true:0.0361']+titles_keywords+['ukraines:0.4657', 'eu:0.3447', 'eligibility:0.2734', 'questions:0.2052', 'surround:0.0533']"
+        ]
+    ]
+}

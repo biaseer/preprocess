@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+43":[
+        [
+            "20220131+../news_crawling/RUS_UKR/p_articles/northcountrypublicradio.org/From Stalin to Putin Ukraine is still trying to break free from Moscow.txt+eventbasecode43+eventcode43+avgtone0.4776824034334764+goldsteinscale0.64+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.02631578947368421+news_keywords+['soviet:0.4705', 'yanukovych:0.4589', 'ukraine:0.4563', 'history:0.342', 'dictator:0.3323', 'revolution:0.3232', 'famine:0.3142', 'economy:0.2838', 'sovereignty:0.268', 'politically:0.2644', 'collectivized:0.2517', 'cite:0.2115', 'debate:0.2103', 'threaten:0.2091', 'help:0.1916', 'correspondent:0.1895', 'inherit:0.1883', 'want:0.1853', 'alienate:0.1777', 'peninsula:0.1623', 'long:0.1548', 'say:0.1495', 'lopsided:0.148', 'plan:0.1457', 'plokhy:0.1411', 'professor:0.1402', 'include:0.1309', 'right:0.1272', 'end:0.1207', 'free:0.0793']+titles_keywords+['ukraine:0.5396', 'stalin:0.4835', 'trying:0.1452', 'break:0.1296', 'free:0.1169']"
+        ],
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/northcountrypublicradio.org/Ukraines uses social media to combat Russias misinformation campaign.txt+eventbasecode43+eventcode43+avgtone0.47692307692307695+goldsteinscale0.64+nummentions0.008345428156748911+numarticles0.009064539521392313+numsources0.01644736842105263+news_keywords+['ukraine:0.4526', 'dissemination:0.3816', 'jazeera:0.3706', 'social:0.3575', 'russias:0.3453', 'npr:0.2951', 'information:0.2865', 'misinformation:0.2703', 'war:0.2701', 'campaign:0.2655', 'org:0.25', 'article:0.2496', 'stream:0.2347', 'talk:0.2347', 'public:0.2306', 'www:0.2', 'support:0.1987', 'action:0.1972', 'use:0.1955', 'effective:0.1844', 'copyright:0.184', 'wbur:0.1778', 'host:0.1777', 'resistance:0.1444', 'month:0.1415', 'medium:0.1371', 'oke:0.1106', 'allow:0.1037', 'femi:0.1017', 'al:0.0548']+titles_keywords+['ukraines:0.4893', 'misinformation:0.3259', 'social:0.2911', 'combat:0.216', 'uses:0.2052']"
+        ]
+    ]
+}

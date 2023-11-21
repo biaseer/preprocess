@@ -1,0 +1,13 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/nbcdfw.com/Moscows Claim About Firing Hypersonic Missiles Could Be More Hype Experts Say.txt+eventbasecode12+eventcode12+avgtone0.47600000000000003+goldsteinscale0.48+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.013157894736842105+news_keywords+['missiles:0.4563', 'kyiv:0.419', 'hypersonic:0.4133', 'moscows:0.413', 'vladimir:0.392', 'ukrainians:0.3773', 'putin:0.3679', 'russian:0.3571', 'destroy:0.2563', 'pentagon:0.2405', 'propaganda:0.2348', 'fly:0.2109', 'firing:0.2055', 'orbit:0.188', 'news:0.1823', 'nbc:0.1762', 'hit:0.1732', 'hype:0.1639', 'dramatic:0.1316', 'outgunned:0.1226', 'sound:0.1156', 'confirm:0.1063', 'monday:0.0973', 'far:0.0929', 'say:0.0876', 'build:0.0788', 'potentially:0.0773', 'true:0.0691', 'experts:0.0616', 'scratcher:-0.003']+titles_keywords+['hypersonic:0.4292', 'missiles:0.4225', 'moscows:0.3485', 'hype:0.2243', 'say:0.1051']"
+        ],
+        []
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/nbcdfw.com/Denied Easy Victory Russia Presses Reduced Goals in Ukraine.txt+eventbasecode12+eventcode12+avgtone0.4687235841081995+goldsteinscale0.48+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.029605263157894735+news_keywords+['putin:0.4483', 'kyiv:0.3714', 'russias:0.3488', 'strategic:0.3254', 'nato:0.3116', 'annex:0.2877', 'orthodox:0.2687', 'demilitarize:0.2467', 'genocidal:0.2368', 'pentagon:0.2179', 'fail:0.2025', 'tank:0.1821', 'change:0.1814', 'description:0.1813', 'combine:0.1779', 'independence:0.1772', 'long:0.1743', 'goals:0.1743', 'know:0.1714', 'negotiated:0.1694', 'restive:0.1612', 'foreseeably:0.156', 'drill:0.1349', 'ready:0.1329', 'previous:0.1309', 'kirby:0.1182', 'director:0.1013', 'track:0.101', 'largely:0.0834', 'skew:0.0729']+titles_keywords+['ukraine:0.4086', 'goals:0.3954', 'denied:0.2305', 'easy:0.2236', 'reduced:0.2163']"
+        ]
+    ]
+}

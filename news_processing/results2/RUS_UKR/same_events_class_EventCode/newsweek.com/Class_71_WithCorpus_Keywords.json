@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+71":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/newsweek.com/Russian Media Claims Markets Bouncing Back in Face of US Sanctions.txt+eventbasecode71+eventcode71+avgtone0.47107438016528924+goldsteinscale0.8699999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['sanctions:0.4915', 'putin:0.4768', 'ruble:0.4244', 'russian:0.4061', 'pravda:0.3955', 'economy:0.3744', 'sberbankrussia:0.3638', 'downturn:0.3385', 'output:0.254', 'block:0.2451', 'stock:0.2348', 'enact:0.23', 'expand:0.2134', 'prepare:0.2092', 'assertion:0.2035', 'future:0.2029', 'pipeline:0.2025', 'report:0.2024', 'avoid:0.1957', 'term:0.1799', 'exchange:0.1701', 'military:0.1665', 'global:0.1349', 'significant:0.1342', 'measure:0.131', 'tuesday:0.1231', 'state:0.1183', 'strong:0.1179', 'bouncing:0.1169', 'percent:0.0811']+titles_keywords+['sanctions:0.3965', 'russian:0.3248', 'markets:0.2503', 'bouncing:0.1911', 'face:0.0095']"
+        ]
+    ],
+    "UKR+RUS+71":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/newsweek.com/Ukrainian Arms Company Offers 1M for Capture of Working Russian Aircraft.txt+eventbasecode71+eventcode71+avgtone0.5+goldsteinscale0.8699999999999999+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4804', 'kremlin:0.4266', 'aircraft:0.3901', 'invasion:0.3227', 'alexei:0.3014', 'soldier:0.2893', 'ammo:0.2768', 'supply:0.2624', 'scope:0.2615', 'respondent:0.2609', 'concern:0.2558', 'order:0.2414', 'citizenship:0.2411', 'opportunity:0.2223', 'steal:0.2201', 'publish:0.2091', 'oblige:0.187', 'translated:0.1851', 'know:0.1814', 'million:0.1808', 'arm:0.1804', 'legitimate:0.1791', 'fight:0.1726', 'use:0.1662', 'offer:0.1629', 'disastrous:0.1599', 'blame:0.143', 'retrieve:0.131', 'frequency:0.1275', 'thanks:0.0794']+titles_keywords+['ukrainian:0.4254', 'aircraft:0.3098', 'capture:0.2314', 'offers:0.2271', '1m:0.2064']"
+        ]
+    ]
+}

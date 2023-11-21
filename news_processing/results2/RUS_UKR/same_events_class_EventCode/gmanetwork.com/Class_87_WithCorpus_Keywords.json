@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+87":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/gmanetwork.com/Russian troops have left Chernobyl Ukrainian officials.txt+eventbasecode87+eventcode87+avgtone0.4675925925925926+goldsteinscale0.95+nummentions0.00725689404934688+numarticles0.006526468455402465+numsources0.006578947368421052+news_keywords+['chernobyl:0.6135', 'ukrainian:0.3572', 'reactor:0.3422', 'invasion:0.2305', 'troop:0.2266', 'occupy:0.2188', 'contamination:0.2099', 'explode:0.1647', 'accident:0.1413', 'leave:0.1392', 'april:0.1357', 'plant:0.1327', 'telegram:0.1263', 'columns:0.1144', 'town:0.108', 'begin:0.1061', 'besiege:0.105', 'zone:0.096', 'official:0.0915', 'outsider:0.0911', 'world:0.0873', 'long:0.0827', 'number:0.0792', 'day:0.0766', 'form:0.0749', 'cause:0.0732', 'state:0.0718', 'currently:0.0691', 'evidence:0.0652', 'bad:0.0585']+titles_keywords+['chernobyl:0.4573', 'ukrainian:0.3628', 'troops:0.2617', 'officials:0.1679', 'left:0.0585']"
+        ],
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/gmanetwork.com/Russia urges Ukrainian forces to immediately lay down arms.txt+eventbasecode87+eventcode87+avgtone0.4849726775956284+goldsteinscale0.95+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.4665', 'kremlin:0.3896', 'donetsk:0.3797', 'russian:0.3789', 'battalion:0.3339', 'artillery:0.3236', 'armed:0.3108', 'azov:0.2795', 'nationalist:0.2564', 'peaceful:0.2509', 'civilian:0.2251', 'industrial:0.2227', 'strategic:0.2216', 'warn:0.2147', 'aerial:0.2115', 'federation:0.2073', 'understand:0.1864', 'fighting:0.1817', 'implement:0.1688', 'immediately:0.1656', 'order:0.1614', 'lay:0.1571', 'news:0.1435', 'eastern:0.125', 'plant:0.1238', 'issue:0.1141', 'main:0.1003', 'focus:0.0929', 'quote:0.0623', 'restore:0.006']+titles_keywords+['ukrainian:0.3823', 'arms:0.2596', 'immediately:0.1555', 'forces:0.1476', 'lay:0.1028']"
+        ]
+    ]
+}

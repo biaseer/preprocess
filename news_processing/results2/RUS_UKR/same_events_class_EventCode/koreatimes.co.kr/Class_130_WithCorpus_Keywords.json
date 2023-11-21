@@ -1,0 +1,17 @@
+{
+    "FRA+RUS+130":[
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/Macron fears escalation after Biden calls Putin a butcher.txt+eventbasecode130+eventcode130+avgtone0.4638728323699422+goldsteinscale0.27999999999999997+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.013157894736842105+news_keywords+['putin:0.4219', 'macron:0.4164', 'ceasefire:0.4042', 'escalation:0.3677', 'diplomatic:0.3392', 'regime:0.2777', 'flee:0.2634', 'bombardment:0.2337', 'besiege:0.2294', 'border:0.2151', 'military:0.1928', 'criticize:0.1829', 'afp:0.1825', 'paris:0.1811', 'remark:0.1798', 'empires:0.1777', 'fear:0.161', 'decide:0.1505', 'want:0.1481', 'relation:0.1478', 'word:0.1466', 'change:0.1459', 'organize:0.1388', 'quickly:0.1331', 'butcher:0.1317', 'look:0.1275', 'port:0.1185', 'saturday:0.1103', 'bilateral:0.1019', 'right:0.0845']+titles_keywords+['macron:0.4643', 'biden:0.3635', 'putin:0.3474', 'escalation:0.3212', 'butcher:0.2202']"
+        ]
+    ],
+    "USA+UKR+130":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/Russia coordinating cyberattacks with military strikes in Ukraine Microsoft.txt+eventbasecode130+eventcode130+avgtone0.4529652351738241+goldsteinscale0.27999999999999997+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['cyberattacks:0.5383', 'putin:0.3976', 'invade:0.3969', 'ukrainian:0.3912', 'disinformation:0.3287', 'tactic:0.3059', 'battlefield:0.2948', 'attacker:0.2909', 'microsoft:0.2868', 'undermine:0.2867', 'phishing:0.2853', 'military:0.2852', 'infrastructure:0.2834', 'coordinate:0.2402', 'upstream:0.2306', 'data:0.1912', 'report:0.1846', 'use:0.1699', 'activity:0.1572', 'unpatched:0.1484', 'prepare:0.1418', 'separate:0.1281', 'state:0.1249', 'wednesday:0.119', 'degrade:0.1176', 'array:0.1124', 'year:0.1087', 'major:0.1073', 'percent:0.0774', 'add:0.0713']+titles_keywords+['cyberattacks:0.52', 'ukraine:0.4453', 'microsoft:0.3437', 'coordinating:0.2393', 'military:0.2389']"
+        ]
+    ],
+    "WST+RUS+130":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/US to evacuate Ukraine Embassy amid Russian invasion fears.txt+eventbasecode130+eventcode130+avgtone0.48571428571428577+goldsteinscale0.27999999999999997+nummentions0.0+numarticles0.0+numsources0.0+news_keywords+['nato:0.4391', 'evacuate:0.4233', 'kyiv:0.4118', 'invading:0.398', 'troop:0.3583', 'putin:0.3467', 'deploy:0.335', 'pentagon:0.3211', 'diplomatic:0.3078', 'deterrence:0.2349', 'ahead:0.231', 'arrive:0.2293', 'plan:0.225', 'worry:0.2077', 'ally:0.2072', 'soon:0.2065', 'shift:0.2009', 'order:0.1853', 'increasingly:0.1692', 'additional:0.1664', 'north:0.157', 'authorize:0.1554', 'information:0.1444', 'sullivan:0.1228', 'state:0.1134', 'th:0.1053', 'majority:0.0936', 'rotational:0.093', 'possible:0.075', 'sent:0.0664']+titles_keywords+['evacuate:0.433', 'embassy:0.2887', 'invasion:0.2842', 'russian:0.2793', 'fears:0.179']"
+        ]
+    ]
+}

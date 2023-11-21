@@ -1,0 +1,12 @@
+{
+    "CHE+UKR+112":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/columbian.com/UN 65 million people displaced inside Ukraine due to war.txt+eventbasecode112+eventcode112+avgtone0.4587301587301587+goldsteinscale0.4+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['ukraine:0.5239', 'refugee:0.413', 'syrias:0.3674', 'war:0.329', 'migration:0.2895', 'unhcr:0.2506', 'population:0.2494', 'displace:0.2033', 'leave:0.2024', 'crisis:0.1779', 'lack:0.1388', 'geneva:0.1344', 'roads:0.1286', 'far:0.1266', 'neighboring:0.1237', 'affected:0.1153', 'cite:0.1106', 'projection:0.1088', 'risk:0.1076', 'follow:0.1031', 'person:0.1024', 'begin:0.1012', 'nearly:0.0974', 'calculate:0.0882', 'coordination:0.0825', 'office:0.0786', 'feb:0.0734', 'iom:0.0686', 'level:0.0407', 'ap:0.0397']+titles_keywords+['ukraine:0.502', 'war:0.3399', 'displaced:0.3277', 'million:0.2377', '65:0.1436']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/columbian.com/Cyberattacks knock out sites of Ukrainian army major banks.txt+eventbasecode112+eventcode112+avgtone0.4551971326164875+goldsteinscale0.4+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.04276315789473684+news_keywords+['cyberattacks:0.6776', 'ddos:0.4805', 'russias:0.4006', 'putin:0.3878', 'kyiv:0.3813', 'threat:0.3633', 'destabilizing:0.3421', 'invasion:0.3383', 'ransomware:0.3179', 'government:0.3091', 'barrage:0.2985', 'communications:0.2638', 'operation:0.2595', 'data:0.2524', 'worry:0.2431', 'smokescreen:0.2337', 'report:0.2314', 'delegitimize:0.2198', 'sinister:0.2173', 'crowdstrike:0.2167', 'sector:0.2056', 'privatbank:0.1946', 'winter:0.1928', 'aim:0.1831', 'issp:0.1773', 'tuesday:0.1627', 'possible:0.1606', 'like:0.1558', 'increase:0.136', 'series:0.13']+titles_keywords+['cyberattacks:0.5394', 'ukrainian:0.3074', 'banks:0.2951', 'army:0.2518', 'sites:0.2002']"
+        ]
+    ]
+}

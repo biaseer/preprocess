@@ -1,0 +1,20 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220121+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Biden issues new warning to Russia over invading Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4787808641975308+goldsteinscale0.27999999999999997+nummentions0.1106676342525399+numarticles0.1069615663524293+numsources0.3223684210526316+news_keywords+['putin:0.4848', 'nato:0.455', 'ukraines:0.4219', 'invades:0.4038', 'biden:0.3647', 'war:0.36', 'diplomat:0.293', 'disinformation:0.2833', 'threaten:0.2773', 'border:0.2693', 'tactic:0.2678', 'zakharova:0.2457', 'prepare:0.2429', 'meeting:0.229', 'blinken:0.2235', 'coordinate:0.2227', 'berlin:0.2168', 'crisis:0.2143', 'oppose:0.2141', 'know:0.2027', 'remind:0.2023', 'sanction:0.1928', 'remark:0.1822', 'turn:0.1793', 'risks:0.1739', 'bid:0.1685', 'quickly:0.1269', 'enormous:0.1141', 'cetera:0.1094', 'new:0.0965']+titles_keywords+['biden:0.4173', 'ukraine:0.3224', 'warning:0.2937', 'invading:0.215', 'new:0.1043']"
+        ],
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Biden is convinced Putin has decided to invade Ukraine.txt+eventbasecode130+eventcode130+avgtone0.466376582278481+goldsteinscale0.27999999999999997+nummentions0.45754716981132076+numarticles0.4579405366207397+numsources0.4473684210526316+news_keywords+['putin:0.4456', 'ukraines:0.4083', 'invade:0.3923', 'diplomatic:0.3111', 'prepare:0.2912', 'escalation:0.2858', 'emergency:0.2838', 'sinenkov:0.2709', 'pentagon:0.2668', 'cyberattacks:0.2523', 'flag:0.2498', 'uniformed:0.2419', 'miscommunication:0.2377', 'nuclear:0.2356', 'news:0.2329', 'separatist:0.2264', 'pretext:0.2151', 'know:0.2078', 'thursday:0.2057', 'organization:0.2005', 'convince:0.1962', 'varenytsia:0.1809', 'sieverodonetsk:0.1748', 'word:0.1687', 'cite:0.1641', 'estimate:0.1583', 'ordered:0.1455', 'lines:0.131', 'sure:0.1283', 'state:0.1239']+titles_keywords+['putin:0.4319', 'biden:0.4034', 'invade:0.3181', 'convinced:0.2857', 'decided:0.1955']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Ukrainians dig in as invading forces beef up firepower for eastern assault.txt+eventbasecode130+eventcode130+avgtone0.4822274881516587+goldsteinscale0.27999999999999997+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4676', 'putin:0.4572', 'nato:0.4121', 'militarily:0.3757', 'dvornikov:0.3452', 'invasion:0.3414', 'bashar:0.3341', 'pentagon:0.3306', 'conflict:0.2731', 'volodymyr:0.2577', 'veteran:0.232', 'authority:0.2288', 'know:0.226', 'translator:0.2249', 'outcome:0.2077', 'appoint:0.2043', 'surge:0.2036', 'demoralized:0.2028', 'advance:0.2006', 'centralized:0.2005', 'donbas:0.1984', 'cnns:0.1957', 'report:0.1855', 'survive:0.1707', 'day:0.1629', 'large:0.1425', 'nearly:0.1261', 'decorate:0.1088', 'thank:0.1036', 'bid:0.0946']+titles_keywords+['ukrainians:0.4146', 'invading:0.4009', 'firepower:0.3244', 'dig:0.1945', 'eastern:0.1464']"
+        ]
+    ],
+    "WST+UKR+130":[
+        [
+            "20211130+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Putin warns West Moscow has red line about Ukraine NATO.txt+eventbasecode130+eventcode130+avgtone0.4831309041835358+goldsteinscale0.27999999999999997+nummentions0.25616835994194487+numarticles0.25670775924583034+numsources0.23355263157894737+news_keywords+['natos:0.5073', 'putin:0.4931', 'crimean:0.4188', 'nuclear:0.2971', 'cybersecurity:0.2879', 'strategic:0.2838', 'destabilize:0.278', 'threaten:0.2597', 'worry:0.2439', 'eastward:0.241', 'annex:0.2285', 'rhetoric:0.2054', 'predict:0.1959', 'weapon:0.1905', 'psaki:0.1826', 'agreement:0.1761', 'buildup:0.1725', 'test:0.1656', 'order:0.1637', 'zircon:0.1607', 'current:0.1559', 'enter:0.1528', 'monday:0.1512', 'reach:0.1496', 'isnt:0.1416', 'longer:0.1358', 'hypersonic:0.1206', 'existence:0.1177', 'similar:0.1085', 'decade:0.075']+titles_keywords+['putin:0.4356', 'nato:0.4091', 'line:0.2402', 'warns:0.2027', 'red:0.1606']"
+        ]
+    ]
+}

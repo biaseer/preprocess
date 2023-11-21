@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220417+../news_crawling/RUS_UKR/p_articles/kwbu.org/Russia hammers Mariupol telling Ukraine to surrender to avoid more death.txt+eventbasecode80+eventcode80+avgtone0.4523809523809524+goldsteinscale0.75+nummentions0.038098693759071114+numarticles0.0387962291515591+numsources0.07236842105263158+news_keywords+['ukraine:0.4582', 'zelenskyy:0.3244', 'bombardment:0.2954', 'military:0.2787', 'diplomatic:0.2668', 'retreat:0.257', 'know:0.2544', 'help:0.2347', 'fight:0.2311', 'news:0.2293', 'stay:0.2262', 'casualty:0.2166', 'want:0.2115', 'prepare:0.1985', 'happen:0.1958', 'donbas:0.188', 'safe:0.1818', 'hear:0.18', 'address:0.1703', 'land:0.1659', 'mariupol:0.1636', 'like:0.1569', 'near:0.1548', 'mann:0.1546', 'pivot:0.1542', 'horrific:0.1382', 'major:0.1284', 'significance:0.1143', 'thousand:0.1018', 'byline:0.0941']+titles_keywords+['ukraine:0.4053', 'surrender:0.3817', 'mariupol:0.3397', 'hammers:0.293', 'death:0.2493']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/kwbu.org/Ukrainian officials refuse to surrender Mariupol to Russian forces.txt+eventbasecode80+eventcode80+avgtone0.4642857142857143+goldsteinscale0.75+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.4989', 'soviet:0.4152', 'airstrikes:0.3644', 'correspondent:0.3342', 'flee:0.291', 'troop:0.2884', 'crisis:0.2791', 'language:0.2436', 'humanitarian:0.2419', 'understand:0.2279', 'fight:0.2265', 'help:0.2143', 'reporting:0.212', 'prepare:0.1983', 'calm:0.1956', 'buildings:0.1883', 'result:0.1743', 'meantime:0.1716', 'heard:0.1677', 'like:0.1639', 'displace:0.1504', 'hi:0.1462', 'night:0.144', 'projectile:0.1299', 'shapiro:0.1226', 'tetiana:0.121', 'pretty:0.1161', 'mariupol:0.1138', 'noose:0.0963', 'ground:0.0937']+titles_keywords+['refuse:0.3417', 'ukrainian:0.3287', 'surrender:0.314', 'mariupol:0.2759', 'officials:0.1382']"
+        ]
+    ]
+}

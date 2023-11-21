@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+13":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/Ukrainian fightback gains ground west of Kyiv.txt+eventbasecode13+eventcode13+avgtone0.4796084828711256+goldsteinscale0.52+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['kyiv:0.4724', 'russians:0.344', 'pentagon:0.2677', 'troop:0.2509', 'operation:0.2278', 'pushback:0.2245', 'fight:0.2219', 'encirclement:0.2145', 'reorganise:0.2138', 'territory:0.213', 'defence:0.1978', 'reroute:0.1975', 'continue:0.1923', 'increase:0.1895', 'eastern:0.1797', 'supply:0.1707', 'news:0.1669', 'momentum:0.159', 'reverse:0.1576', 'donbas:0.1514', 'km:0.1495', 'concentrate:0.1436', 'counter:0.1346', 'page:0.1134', 'look:0.0971', 'coming:0.0958', 'large:0.0877', 'kirby:0.0862', 'partly:0.0694', 'frostbite:0.0576']+titles_keywords+['kyiv:0.5199', 'fightback:0.3579', 'west:0.251', 'gains:0.1606', 'ground:0.1286']"
+        ]
+    ],
+    "UKR+RUS+13":[
+        [
+            "20220622+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/Ukraine claims significant Snake Island victory over Russian forces.txt+eventbasecode13+eventcode13+avgtone0.48036951501154734+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4587', 'victory:0.3121', 'snake:0.2845', 'briefing:0.2812', 'deploy:0.2759', 'armament:0.2635', 'news:0.2622', 'strategically:0.2559', 'naval:0.2541', 'fighting:0.2436', 'intercept:0.2366', 'casualty:0.2235', 'government:0.2212', 'island:0.2146', 'operational:0.2078', 'attrition:0.201', 'sievierodonetsk:0.1829', 'prepare:0.182', 'sunk:0.1682', 'dpr:0.1675', 'donbas:0.1665', 'continue:0.1659', 'technologies:0.1621', 'contrast:0.1537', 'significant:0.1514', 'retake:0.1497', 'exchange:0.1466', 'page:0.1392', 'various:0.1382', 'beh:0.1216']+titles_keywords+['ukraine:0.4163', 'snake:0.369', 'victory:0.3262', 'island:0.3004', 'significant:0.085']"
+        ]
+    ]
+}

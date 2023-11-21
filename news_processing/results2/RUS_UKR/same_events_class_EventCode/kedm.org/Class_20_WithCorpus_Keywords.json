@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/kedm.org/Elon Musk hints at a crewed mission to Mars in 2029.txt+eventbasecode20+eventcode20+avgtone0.5017985611510791+goldsteinscale0.65+nummentions0.022133526850507984+numarticles0.02139231327048586+numsources0.049342105263157895+news_keywords+['mars:0.5348', 'rover:0.4326', 'elon:0.425', 'mission:0.3953', 'spacehub:0.3656', 'exploration:0.3542', 'esa:0.3188', 'astronautical:0.3057', 'startup:0.3028', 'ukraine:0.3026', 'prediction:0.2709', 'label:0.2466', 'congress:0.2422', 'date:0.231', 'envision:0.2276', 'guadalajara:0.2237', 'read:0.2209', 'say:0.212', 'intergovernmental:0.1944', 'lifetimes:0.1911', 'exomars:0.1799', 'suspend:0.1691', 'ongoing:0.1662', 'series:0.1515', 'combinator:0.1493', 'align:0.1436', 'member:0.1335', 'set:0.1167', 'possible:0.1027', 'fully:0.0932']+titles_keywords+['musk:0.4969', '2029:0.4218', 'mars:0.375', 'crewed:0.2269', 'hints:0.1111']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220120+../news_crawling/RUS_UKR/p_articles/kedm.org/The US is giving Ukraine weapons and political support but not troops.txt+eventbasecode20+eventcode20+avgtone0.51+goldsteinscale0.65+nummentions0.12917271407837447+numarticles0.12980420594633793+numsources0.11513157894736842+news_keywords+['ukraine:0.455', 'nato:0.4117', 'kremlin:0.3566', 'invade:0.3555', 'military:0.2772', 'tank:0.2351', 'correspondent:0.234', 'biden:0.2011', 'shortly:0.1969', 'align:0.1928', 'assistance:0.1872', 'reform:0.1851', 'fight:0.1843', 'explanation:0.1791', 'know:0.1764', 'economic:0.1727', 'weapon:0.1715', 'respond:0.1688', 'perform:0.1517', 'sell:0.1465', 'friendly:0.1462', 'contingent:0.1362', 'nightmare:0.1224', 'lengthy:0.1204', 'make:0.1202', 'sort:0.0854', 'miscalculation:0.0843', 'install:0.0799', 'pifer:0.0764', 'way:0.0608']+titles_keywords+['ukraine:0.4224', 'troops:0.3535', 'weapons:0.1918', 'political:0.1543', 'giving:0.1353']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "FRA+RUS+141":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/timeslive.co.za/Russia says real danger of Ukraine acquiring nuclear weapons required response.txt+eventbasecode141+eventcode141+avgtone0.4666666666666666+goldsteinscale0.175+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4635', 'disarmament:0.4142', 'nuclear:0.3325', 'propaganda:0.3064', 'invade:0.2738', 'diplomat:0.2695', 'dangerous:0.2663', 'lavrov:0.2617', 'operation:0.2056', 'respond:0.2021', 'meeting:0.1968', 'zelenskyys:0.1922', 'volodymyr:0.1859', 'speech:0.173', 'plan:0.1656', 'authority:0.1626', 'deliver:0.1578', 'weapon:0.1516', 'walkout:0.1457', 'require:0.1436', 'geneva:0.1359', 'say:0.1221', 'neighbour:0.1201', 'technology:0.1187', 'thursday:0.107', 'pose:0.0963', 'increase:0.0821', 'denazify:0.0807', 'parallel:0.0752', 'rebase:0.0536']+titles_keywords+['ukraine:0.4095', 'nuclear:0.3436', 'danger:0.2817', 'response:0.1654', 'real:0.0967']"
+        ]
+    ],
+    "RUS+UKR+141":[
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/timeslive.co.za/Russian ambassador doused in red by antiwar protesters in Poland.txt+eventbasecode141+eventcode141+avgtone0.48238482384823844+goldsteinscale0.175+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['putin:0.455', 'ukrainians:0.4204', 'soviet:0.4173', 'antiwar:0.3882', 'warsaw:0.3716', 'protest:0.3102', 'ambassador:0.3029', 'commemoration:0.3019', 'troop:0.2653', 'demilitarise:0.2434', 'unprovoked:0.2298', 'kill:0.2296', 'operation:0.2239', 'incident:0.223', 'red:0.2186', 'sanction:0.2174', 'report:0.2097', 'news:0.2', 'write:0.1889', 'word:0.1888', 'formal:0.1812', 'flower:0.1803', 'tense:0.1553', 'bring:0.1552', 'later:0.1372', 'surround:0.1027', 'year:0.0986', 'tass:0.0939', 'halfway:0.0474', 'cemetry:0.0379']+titles_keywords+['red:0.3722', 'antiwar:0.3639', 'russian:0.3426', 'ambassador:0.3369', 'doused:0.2913']"
+        ]
+    ]
+}

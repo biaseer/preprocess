@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220712+../news_crawling/RUS_UKR/p_articles/pmnewsnigeria.com/Ukraine hits Russias ammunition depot in Nova Kakhovka seven dead.txt+eventbasecode190+eventcode190+avgtone0.4718875502008032+goldsteinscale0.0+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.01644736842105263+news_keywords+['ukraine:0.508', 'vladimir:0.3675', 'ammunition:0.3222', 'demilitarise:0.3203', 'military:0.3097', 'invade:0.2986', 'kill:0.2809', 'news:0.2523', 'imperialist:0.2274', 'strike:0.2083', 'bratchuk:0.2066', 'dangerous:0.2049', 'happy:0.2019', 'rubble:0.1953', 'nova:0.1947', 'depot:0.1829', 'order:0.1739', 'administration:0.1703', 'people:0.1656', 'neighbour:0.16', 'world:0.1395', 'forces:0.139', 'minus:0.1336', 'odesa:0.1314', 'seven:0.1299', 'sure:0.1239', 'feb:0.1187', 'multipolar:0.1091', 'eventually:0.0946', 'quote:0.0819']+titles_keywords+['kakhovka:0.4989', 'ukraine:0.4341', 'ammunition:0.3205', 'seven:0.2016', 'depot:0.2007']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220813+../news_crawling/RUS_UKR/p_articles/pmnewsnigeria.com/Ukraine destroys 2 bridges to Russiaoccupied Kherson Oblast.txt+eventbasecode190+eventcode190+avgtone0.49640287769784175+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4292', 'russiaoccupied:0.4232', 'bridge:0.3905', 'resupply:0.2996', 'vulnerability:0.2979', 'cross:0.2556', 'destroy:0.2474', 'update:0.2341', 'road:0.2339', 'ferry:0.2318', 'territory:0.2294', 'supply:0.2245', 'military:0.2106', 'west:0.2001', 'defence:0.1676', 'kherson:0.16', 'remain:0.1594', 'use:0.1373', 'bank:0.1343', 'make:0.1224', 'manages:0.1171', 'point:0.1168', 'primary:0.1156', 'significant:0.1109', 'saturday:0.1052', 'accord:0.0786', 'size:0.0615', 'thousand:0.0614', 'certainly:0.0606', 'dnipro:0.0473']+titles_keywords+['ukraine:0.4018', 'bridges:0.3527', 'russiaoccupied:0.3405', 'kherson:0.3005', 'destroys:0.2629']"
+        ]
+    ]
+}

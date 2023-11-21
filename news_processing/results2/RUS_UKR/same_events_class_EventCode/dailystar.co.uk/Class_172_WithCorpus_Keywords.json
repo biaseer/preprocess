@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+172":[
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Donald Trump makes bizarre claim he could ban Putin from saying the word nuclear.txt+eventbasecode172+eventcode172+avgtone0.4748110831234257+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5316', 'nuclear:0.3481', 'threat:0.321', 'donald:0.3203', 'ban:0.2601', 'peaceful:0.2455', 'afraid:0.2274', 'word:0.2129', 'caspian:0.2128', 'missile:0.2117', 'veliky:0.2062', 'bizarre:0.1995', 'speak:0.1931', 'reconnaissance:0.1928', 'command:0.1861', 'suppose:0.1806', 'na:0.1801', 'newsletters:0.1506', 'ahead:0.1478', 'effectiveness:0.1449', 'piers:0.1303', 'daily:0.1278', 'uncensored:0.1225', 'new:0.0963', 'sure:0.0941', 'confirm:0.0929', 'state:0.0896', 'tv:0.0881', 'gon:0.086', 'surface:0.039']+titles_keywords+['putin:0.4815', 'nuclear:0.3596', 'ban:0.2579', 'bizarre:0.1832', 'saying:0.1173']"
+        ]
+    ],
+    "RUS+UKR+172":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Huge Russian oil depot on fire after Ukraine launch attack on Putins side of border.txt+eventbasecode172+eventcode172+avgtone0.4710610932475884+goldsteinscale0.25+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.003289473684210526+news_keywords+['ukraine:0.4729', 'oil:0.3587', 'putins:0.3484', 'tanker:0.3411', 'evacuate:0.3071', 'gladkov:0.3027', 'military:0.286', 'attack:0.2766', 'explosive:0.2562', 'flame:0.2478', 'news:0.2473', 'belgorod:0.2329', 'report:0.2285', 'outlet:0.2045', 'burst:0.2007', 'range:0.1698', 'illuminates:0.1692', 'video:0.1612', 'column:0.1608', 'scene:0.1533', 'zelesnkyy:0.1452', 'governor:0.1347', 'nexta:0.131', 'low:0.1126', 'cause:0.1121', 'huge:0.1052', 'start:0.1037', 'actual:0.1033', 'late:0.0902', 'intermittently:0.0749']+titles_keywords+['russian:0.3386', 'oil:0.3172', 'depot:0.2872', 'huge:0.1252', 'launch:0.0864']"
+        ]
+    ],
+    "UKR+RUS+172":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Russian models banned from OnlyFans again in response to Putins war on Ukraine.txt+eventbasecode172+eventcode172+avgtone0.48825065274151436+goldsteinscale0.25+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.003289473684210526+news_keywords+['russia:0.4209', 'putins:0.374', 'ban:0.3567', 'conflict:0.34', 'government:0.335', 'support:0.3099', 'region:0.3003', 'restriction:0.2958', 'financial:0.2739', 'platform:0.2731', 'invasion:0.2666', 'peaceful:0.2638', 'community:0.2607', 'functionality:0.22', 'month:0.2189', 'onlyfans:0.2114', 'temporarily:0.1988', 'example:0.1946', 'statement:0.1815', 'respond:0.1791', 'option:0.1712', 'creator:0.164', 'vice:0.1605', 'afraid:0.149', 'turn:0.143', 'particular:0.1198', 'restore:0.1183', 'amid:0.1111', 'maybe:0.0755', 'sixsexplanes:0.0597']+titles_keywords+['putins:0.4475', 'banned:0.3619', 'models:0.3352', 'onlyfans:0.3007', 'war:0.2082']"
+        ]
+    ]
+}

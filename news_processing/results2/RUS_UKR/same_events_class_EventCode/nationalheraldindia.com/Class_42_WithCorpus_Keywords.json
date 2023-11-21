@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+42":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/nationalheraldindia.com/Elite USUK forces in Ukraine since beginning of conflict with Russia says French daily.txt+eventbasecode42+eventcode42+avgtone0.5027322404371585+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.5416', 'regiment:0.3622', 'insurgency:0.3476', 'surveillance:0.2839', 'missiles:0.2788', 'boris:0.2711', 'usuk:0.2274', 'tactic:0.2248', 'adviser:0.2221', 'operational:0.219', 'tank:0.2119', 'know:0.2085', 'volodymyr:0.2048', 'update:0.1922', 'sas:0.1741', 'unprovoked:0.1699', 'visit:0.1685', 'tabloid:0.1665', 'input:0.1664', 'source:0.1572', 'report:0.1565', 'reiterate:0.1487', 'global:0.1444', 'fight:0.1409', 'highlight:0.1369', 'long:0.1368', 'weekend:0.1227', 'grade:0.1201', 'prime:0.1136', 'snip:0.084']+titles_keywords+['usuk:0.3934', 'ukraine:0.3843', 'elite:0.2364', 'forces:0.1953', 'daily:0.1497']"
+        ]
+    ],
+    "RUS+TUR+42":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/nationalheraldindia.com/Russia Ukraine make progress in ceasefire negotiations Turkish FM.txt+eventbasecode42+eventcode42+avgtone0.48+goldsteinscale0.595+nummentions0.011248185776487663+numarticles0.011965192168237854+numsources0.013157894736842105+news_keywords+['ceasefire:0.4641', 'crimea:0.4421', 'diplomacy:0.405', 'kiev:0.4027', 'turkey:0.3346', 'negotiate:0.3225', 'agreement:0.2643', 'talk:0.2427', 'progress:0.2078', 'news:0.2015', 'presidential:0.1657', 'point:0.1586', 'issue:0.1573', 'respectively:0.1505', 'report:0.1344', 'ibrahim:0.1332', 'spokesperson:0.1308', 'reiterate:0.1275', 'hopeful:0.1267', 'close:0.1249', 'attend:0.1108', 'current:0.1088', 'mevlut:0.0961', 'fm:0.0867', 'make:0.0857', 'nazification:0.0855', 'saturday:0.0846', 'fundamental:0.0788', 'onset:0.0649', 'sideline:0.0285']+titles_keywords+['ukraine:0.3936', 'ceasefire:0.3668', 'negotiations:0.2629', 'progress:0.2279', 'fm:0.1261']"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "EUR+RUS+46":[
+        [
+            "20210625+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/Germany France seek EU backing on Putin summit bid.txt+eventbasecode46+eventcode46+avgtone0.4796547472256474+goldsteinscale0.85+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.416', 'crimea:0.3641', 'eu:0.364', 'diplomatic:0.3597', 'merkel:0.3475', 'espionage:0.2678', 'annex:0.2538', 'unite:0.2388', 'ahead:0.2365', 'bloc:0.2287', 'sanction:0.2249', 'propose:0.2187', 'parliament:0.2077', 'conclusion:0.2001', 'predict:0.1985', 'attend:0.1926', 'revamp:0.1808', 'power:0.1742', 'stability:0.1676', 'understand:0.1554', 'countermeasures:0.1481', 'relation:0.1471', 'thursday:0.137', 'donbass:0.1286', 'mark:0.126', 'look:0.1244', 'deteriorate:0.1116', 'wage:0.0967', 'mh:0.0791', 'numerous:0.064']+titles_keywords+['putin:0.3353', 'eu:0.2738', 'bid:0.1922', 'seek:0.14', 'backing:0.1386']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/Biden warns Russia on chemical weapons vows no WWIII.txt+eventbasecode46+eventcode46+avgtone0.4733542319749216+goldsteinscale0.85+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nato:0.444', 'ukraine:0.3995', 'wwiii:0.3888', 'warn:0.2947', 'provoke:0.2941', 'biden:0.2899', 'vladimir:0.2847', 'invasion:0.2716', 'conflict:0.2476', 'sanction:0.2441', 'accuse:0.2438', 'ruse:0.2271', 'pledge:0.223', 'weapon:0.212', 'tank:0.207', 'chemical:0.1893', 'react:0.1882', 'anti:0.1853', 'emergency:0.1851', 'end:0.1617', 'bloody:0.1528', 'intelligence:0.1424', 'iii:0.1371', 'friday:0.1272', 'direct:0.1258', 'like:0.1207', 'price:0.078', 'underline:0.0714', 'share:0.0705', 'new:0.0696']+titles_keywords+['biden:0.3619', 'wwiii:0.3253', 'russia:0.3111', 'warns:0.2904', 'weapons:0.1814']"
+        ],
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/UN nuclear agency again asks to visit Ukraine nuclear plant.txt+eventbasecode46+eventcode46+avgtone0.4902818270165209+goldsteinscale0.85+nummentions0.012336719883889695+numarticles0.009064539521392313+numsources0.009868421052631578+news_keywords+['nuclear:0.4288', 'iaea:0.3937', 'kyiv:0.3824', 'putin:0.3386', 'demilitarize:0.3146', 'readiness:0.2923', 'war:0.2808', 'proceed:0.2739', 'itinerary:0.261', 'emergency:0.2523', 'mission:0.2327', 'alarm:0.2319', 'safe:0.2312', 'facility:0.2306', 'nebenzia:0.2197', 'secretary:0.211', 'blackmail:0.2058', 'report:0.1944', 'fraught:0.193', 'plant:0.1918', 'require:0.1861', 'issue:0.1703', 'soon:0.1656', 'cite:0.145', 'function:0.143', 'renew:0.1281', 'turn:0.1211', 'agree:0.0935', 'welcome:0.09', 'possible:0.0761']+titles_keywords+['nuclear:0.3944', 'ukraine:0.3676', 'visit:0.2207', 'agency:0.1572', 'asks:0.0959']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/Ukrainian president says defense is at turning point.txt+eventbasecode46+eventcode46+avgtone0.4833916083916084+goldsteinscale0.85+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.013157894736842105+news_keywords+['ukraine:0.4647', 'kremlin:0.3977', 'nato:0.3787', 'war:0.3258', 'redeploy:0.2925', 'pentagon:0.2884', 'blockade:0.2738', 'zelenskyy:0.2727', 'escalation:0.2561', 'agreement:0.25', 'separatist:0.2397', 'turn:0.229', 'know:0.2201', 'news:0.2138', 'prepare:0.2115', 'soon:0.211', 'occur:0.2103', 'presidential:0.2103', 'misinform:0.2065', 'pledge:0.2048', 'capital:0.1918', 'end:0.1897', 'order:0.1861', 'long:0.1832', 'resume:0.1808', 'afraid:0.1781', 'industrial:0.1546', 'bucha:0.1494', 'additional:0.1355', 'array:0.1133']+titles_keywords+['ukrainian:0.3214', 'turning:0.3207', 'defense:0.2639', 'president:0.2282', 'point:0.1336']"
+        ]
+    ]
+}

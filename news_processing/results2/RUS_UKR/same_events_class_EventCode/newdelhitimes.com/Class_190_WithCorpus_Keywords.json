@@ -1,0 +1,17 @@
+{
+    "NLD+RUS+190":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Dutch Australians launch case against Moscow over MH17.txt+eventbasecode190+eventcode190+avgtone0.4615384615384615+goldsteinscale0.0+nummentions0.23076923076923078+numarticles0.23132704858593184+numsources0.20723684210526316+news_keywords+['ukraine:0.4373', 'sovereignty:0.3551', 'hague:0.3499', 'investigation:0.3204', 'icao:0.3143', 'absentia:0.2944', 'unprovoked:0.2833', 'invasion:0.2806', 'australians:0.2703', 'airspace:0.2501', 'case:0.2487', 'kuala:0.2474', 'verdicts:0.2413', 'aggression:0.2319', 'accountable:0.2277', 'missile:0.219', 'boycott:0.2101', 'military:0.2079', 'legally:0.2043', 'disaster:0.1859', 'statement:0.1717', 'continue:0.1561', 'kin:0.1422', 'mh:0.1319', 'aim:0.1157', 'current:0.1143', 'isnt:0.1113', 'july:0.1108', 'bid:0.0986', 'passenger:0.0604']+titles_keywords+['mh17:0.3231', 'moscow:0.3215', 'australians:0.2795', 'case:0.2297', 'launch:0.1647']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Russian bombers fly over Belarus amid Ukraine tensions.txt+eventbasecode190+eventcode190+avgtone0.4846560846560846+goldsteinscale0.0+nummentions0.023947750362844702+numarticles0.014503263234227702+numsources0.003289473684210526+news_keywords+['natos:0.5505', 'putin:0.4561', 'kyiv:0.4065', 'diplomacy:0.4035', 'invade:0.3689', 'flight:0.3135', 'threat:0.3104', 'troop:0.2925', 'erupt:0.2545', 'olympics:0.253', 'flag:0.2427', 'arctic:0.2303', 'plan:0.2128', 'separatist:0.2076', 'publish:0.2066', 'increasingly:0.1854', 'learn:0.1849', 'buildup:0.1836', 'kilometer:0.1826', 'order:0.1817', 'long:0.1734', 'current:0.1549', 'spokeswoman:0.1415', 'friday:0.1382', 'similar:0.1328', 'ready:0.1234', 'state:0.1216', 'major:0.1019', 'agree:0.0852', 'overriding:0.055']+titles_keywords+['belarus:0.4128', 'bombers:0.3001', 'fly:0.2094', 'tensions:0.1411', 'amid:-0.0345']"
+        ]
+    ],
+    "UKR+IND+190":[
+        [
+            "20220604+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Fighting Rages in Eastern Ukraine on 100th Day of War.txt+eventbasecode190+eventcode190+avgtone0.49264705882352944+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.482', 'war:0.4257', 'kremlin:0.375', 'artillery:0.3414', 'dmitry:0.3353', 'retreat:0.2919', 'occupy:0.2883', 'reuters:0.2818', 'separatist:0.2754', 'sievierodonetsk:0.2529', 'progress:0.2428', 'civilian:0.2325', 'protect:0.2294', 'kilometer:0.2238', 'continue:0.2058', 'th:0.2047', 'thursday:0.1857', 'long:0.1819', 'acronym:0.1632', 'rag:0.1599', 'toll:0.158', 'issue:0.1572', 'gain:0.1551', 'coordinator:0.1535', 'say:0.1441', 'video:0.1392', 'new:0.1322', 'virtually:0.1261', 'biden:0.1187', 'send:0.1119']+titles_keywords+['ukraine:0.457', 'war:0.4299', 'fighting:0.3828', '100th:0.3688', 'day:0.1584']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+90":[
+        [
+            "20220103+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Full diplomatic break Decoding the latest BidenPutin call.txt+eventbasecode90+eventcode90+avgtone0.47690217391304346+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4707', 'ukraine:0.3993', 'nato:0.394', 'diplomatic:0.3398', 'invade:0.3129', 'yuri:0.3124', 'ushakov:0.2992', 'bidenputin:0.2508', 'nuclear:0.2443', 'sanction:0.2353', 'concern:0.2015', 'warn:0.196', 'adviser:0.1925', 'border:0.1911', 'pledge:0.1749', 'thursday:0.1605', 'indicative:0.1412', 'event:0.1376', 'combine:0.1304', 'break:0.1249', 'increasingly:0.1219', 'follow:0.1114', 'decoding:0.0901', 'export:0.0823', 'state:0.0769', 'weapon:0.0768', 'mistake:0.0731', 'reference:0.0693', 'likely:0.061', 'new:0.0406']+titles_keywords+['bidenputin:0.5459', 'diplomatic:0.4415', 'decoding:0.3596', 'break:0.2415', 'latest:0.123']"
+        ]
+    ],
+    "USA+RUS+90":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Google blocked in Russiaoccupied eastern Ukraine.txt+eventbasecode90+eventcode90+avgtone0.4390243902439025+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['russiaoccupied:0.5208', 'ukraine:0.4867', 'propaganda:0.4462', 'putin:0.4447', 'invade:0.3804', 'google:0.3667', 'government:0.3368', 'prohibit:0.3114', 'region:0.277', 'news:0.2762', 'persecution:0.2731', 'violence:0.2696', 'remove:0.2565', 'independence:0.2455', 'telegram:0.2426', 'content:0.238', 'pretext:0.236', 'anti:0.2356', 'operation:0.2252', 'instead:0.2226', 'imposition:0.206', 'donbas:0.1854', 'tech:0.1747', 'post:0.1669', 'peoples:0.1569', 'breakaway:0.151', 'pushilin:0.1498', 'real:0.1257', 'recognize:0.1191', 'long:0.116']+titles_keywords+['ukraine:0.4232', 'google:0.4053', 'blocked:0.3996', 'russiaoccupied:0.3912', 'eastern:0.1929']"
+        ]
+    ]
+}

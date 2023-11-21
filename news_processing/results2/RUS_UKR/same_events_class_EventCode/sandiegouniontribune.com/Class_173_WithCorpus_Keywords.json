@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+173":[
+        []
+    ],
+    "UKR+RUS+173":[
+        [
+            "20220712+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Ukraine reports striking Russian ammunition depot in south.txt+eventbasecode173+eventcode173+avgtone0.48725790010193676+goldsteinscale0.25+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['ukraine:0.4983', 'kremlin:0.4298', 'kill:0.2704', 'peaceful:0.2674', 'artillery:0.2673', 'briefing:0.2612', 'mobilization:0.2605', 'separatist:0.2597', 'news:0.2595', 'zelenskyy:0.2577', 'industrial:0.2233', 'casualty:0.2196', 'analyze:0.2047', 'report:0.2012', 'strike:0.1949', 'donbas:0.181', 'prosecutor:0.167', 'continue:0.1669', 'sirens:0.1599', 'format:0.1582', 'navigation:0.1526', 'weekend:0.1501', 'order:0.1376', 'town:0.1337', 'trilateral:0.1172', 'himar:0.1167', 'yar:0.1128', 'ready:0.108', 'possible:0.0796', 'doesnt:0.0692']+titles_keywords+['ukraine:0.4272', 'ammunition:0.3339', 'depot:0.1639', 'striking:0.133', 'reports:0.1022']"
+        ]
+    ]
+}

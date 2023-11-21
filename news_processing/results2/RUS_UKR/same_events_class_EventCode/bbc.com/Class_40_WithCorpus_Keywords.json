@@ -1,0 +1,28 @@
+{
+    "EUR+UKR+40":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine war No progress on ceasefire after KyivMoscow talks.txt+eventbasecode40+eventcode40+avgtone0.47062937062937066+goldsteinscale0.55+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['ceasefire:0.5073', 'russia:0.3681', 'kyivmoscow:0.3491', 'separatist:0.3237', 'ngo:0.262', 'invasion:0.2521', 'continue:0.2515', 'pentagon:0.2514', 'talk:0.2457', 'progress:0.2406', 'president:0.2356', 'leave:0.2142', 'fatality:0.2061', 'vote:0.2054', 'want:0.2007', 'psychology:0.1976', 'counterpart:0.1957', 'mislead:0.1936', 'discus:0.1873', 'horrific:0.1851', 'neutral:0.174', 'pathogen:0.1697', 'weapon:0.1696', 'prepare:0.1644', 'longer:0.1608', 'allegation:0.1597', 'allow:0.1508', 'counter:0.1476', 'maternity:0.1181', 'possible:0.0843']+titles_keywords+['ceasefire:0.4434', 'kyivmoscow:0.4134', 'ukraine:0.3843', 'progress:0.241', 'talks:0.1996']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine news latest Five possible ways di war in Ukraine fit end.txt+eventbasecode40+eventcode40+avgtone0.47264218862491+goldsteinscale0.55+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['ukraine:0.5108', 'putin:0.443', 'nato:0.4143', 'diplomatic:0.3513', 'airstrikes:0.3177', 'regime:0.2958', 'predict:0.2845', 'turn:0.2453', 'remain:0.2443', 'fight:0.2369', 'troop:0.225', 'afta:0.2163', 'combine:0.2133', 'power:0.2126', 'end:0.2102', 'news:0.2078', 'unstable:0.1988', 'corridor:0.1981', 'order:0.1908', 'replace:0.1905', 'reminder:0.1731', 'way:0.172', 'bloody:0.1719', 'happun:0.1515', 'witdraw:0.1515', 'ready:0.1496', 'dis:0.1447', 'longer:0.1417', 'major:0.1408', 'unless:0.0797']+titles_keywords+['ukraine:0.4821', 'war:0.3986', 'end:0.246', 'news:0.237', 'ways:0.2139']"
+        ],
+        [
+            "20220630+../news_crawling/RUS_UKR/p_articles/bbc.com/Indonesia leader hands Zelensky note to Putin.txt+eventbasecode40+eventcode40+avgtone0.4789915966386555+goldsteinscale0.55+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.003289473684210526+news_keywords+['putin:0.4558', 'nato:0.441', 'ukraine:0.4143', 'indonesia:0.363', 'zelensky:0.3606', 'leader:0.2532', 'summit:0.2314', 'live:0.2204', 'war:0.2188', 'writer:0.2151', 'james:0.2061', 'gahagan:0.1942', 'page:0.1867', 'lee:0.1777', 'today:0.1697', 'faulkner:0.1661', 'coverage:0.1616', 'note:0.1551', 'sharp:0.1511', 'thank:0.1415', 'rob:0.1363', 'malu:0.1358', 'dulcie:0.1278', 'cursino:0.1267', 'hand:0.1182', 'corp:0.1177', 'clarke:0.1118', 'holly:0.1109', 'shad:0.1019', 'join:0.0748']+titles_keywords+['zelensky:0.5147', 'putin:0.3634', 'indonesia:0.256', 'note:0.2106', 'hands:0.0401']"
+        ]
+    ],
+    "RUS+USA+40":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine conflict Petrol at fresh record as oil and gas prices soar.txt+eventbasecode40+eventcode40+avgtone0.47302904564315357+goldsteinscale0.55+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.006578947368421052+news_keywords+['ukraine:0.4756', 'putin:0.4458', 'economic:0.3699', 'embargo:0.3695', 'turmoil:0.3015', 'analysts:0.2973', 'escalation:0.2909', 'nuclear:0.2874', 'gas:0.2866', 'dow:0.2832', 'capital:0.2778', 'timely:0.2498', 'frightening:0.248', 'pandemic:0.2449', 'ftse:0.242', 'wall:0.2335', 'global:0.2228', 'paring:0.2163', 'morning:0.2017', 'january:0.2001', 'biden:0.1962', 'secretary:0.1847', 'respectively:0.1846', 'grow:0.1758', 'say:0.1644', 'head:0.1617', 'point:0.1583', 'irpin:0.1577', 'rutte:0.1548', 'added:0.0409']+titles_keywords+['ukraine:0.4016', 'petrol:0.3881', 'conflict:0.2734', 'prices:0.2128', 'record:0.1811']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/bbc.com/As it happened Deadly blast at Kyiv TV tower after Russia warns capital.txt+eventbasecode40+eventcode40+avgtone0.4829059829059829+goldsteinscale0.55+nummentions0.029753265602322207+numarticles0.029369108049311095+numsources0.05921052631578947+news_keywords+['kyiv:0.5858', 'ukraine:0.4804', 'russia:0.3724', 'capital:0.2905', 'crisis:0.2872', 'happen:0.2811', 'warn:0.2737', 'live:0.2599', 'blast:0.2302', 'tv:0.2254', 'deadly:0.2028', 'tower:0.1738', 'coverage:0.1725', 'transfer:0.1706', 'technical:0.1695', 'dull:0.1618', 'tell:0.1618', 'page:0.1098', 'reason:0.1007', 'new:0.0619']+titles_keywords+['kyiv:0.5176', 'warns:0.234', 'tv:0.2209', 'blast:0.2109', 'happened:0.1742']"
+        ],
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine British man fighting in Mariupol forced to surrender.txt+eventbasecode40+eventcode40+avgtone0.478515625+goldsteinscale0.55+nummentions0.00544267053701016+numarticles0.006163886874546773+numsources0.01644736842105263+news_keywords+['ukraine:0.4803', 'kurds:0.3771', 'surrender:0.3635', 'military:0.3584', 'brigade:0.3354', 'terrorism:0.3263', 'territory:0.3136', 'peril:0.2637', 'ypg:0.258', 'situation:0.257', 'communicate:0.2497', 'eastmidsnewsbbc:0.2496', 'update:0.2474', 'uncertain:0.2349', 'bbc:0.2214', 'know:0.2168', 'support:0.2044', 'geneva:0.201', 'newcomer:0.1993', 'report:0.1858', 'surround:0.1813', 'unit:0.1813', 'arm:0.1621', 'deteriorate:0.1596', 'brennan:0.1543', 'aslin:0.1493', 'th:0.1464', 'send:0.1382', 'like:0.1328', 'counter:0.1098']+titles_keywords+['surrender:0.4082', 'ukraine:0.3181', 'mariupol:0.2253', 'forced:0.1925', 'man:0.0948']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "BLR+UKR+40":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/wcbe.org/Ukrainian forces arent backing down 5 days after Russian attacks began.txt+eventbasecode40+eventcode40+avgtone0.48913043478260865+goldsteinscale0.55+nummentions0.08345428156748912+numarticles0.08411892675852067+numsources0.125+news_keywords+['kyiv:0.483', 'putin:0.385', 'nato:0.3536', 'invasion:0.2637', 'agenda:0.2267', 'fight:0.2252', 'align:0.2137', 'remain:0.2098', 'want:0.2056', 'hear:0.2022', 'hold:0.1997', 'neutral:0.1996', 'alert:0.1962', 'negotiator:0.1897', 'rally:0.1819', 'begin:0.1695', 'arent:0.1592', 'weekend:0.1498', 'backing:0.148', 'range:0.1442', 'bleak:0.1372', 'left:0.1332', 'mak:0.1319', 'bank:0.1298', 'outlook:0.1283', 'internal:0.1213', 'state:0.119', 'exactly:0.1145', 'relatively:0.0823', 'thanks:0.08']+titles_keywords+['ukrainian:0.3883', 'days:0.2237', 'backing:0.2134', 'forces:0.2085', 'arent:0.1438']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220110+../news_crawling/RUS_UKR/p_articles/wcbe.org/News brief Bronx fire record COVID19 cases USRussia talks on Ukraine.txt+eventbasecode40+eventcode40+avgtone0.49+goldsteinscale0.55+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.0756578947368421+news_keywords+['ukraine:0.5055', 'kremlin:0.4714', 'nato:0.4001', 'brinksmanship:0.3608', 'unrest:0.317', 'separatist:0.2981', 'coronavirus:0.2812', 'history:0.265', 'border:0.263', 'news:0.2425', 'autocratic:0.2385', 'immigrate:0.2291', 'sanction:0.2215', 'know:0.2198', 'risk:0.2165', 'troop:0.2105', 'ablaze:0.2069', 'progress:0.2066', 'urgent:0.2048', 'term:0.1743', 'assume:0.1667', 'asymptomatic:0.1665', 'prospect:0.1575', 'building:0.1553', 'exactly:0.1524', 'heater:0.1496', 'hear:0.1483', 'bronx:0.1369', 'turn:0.1296', 'hour:0.1211']+titles_keywords+['covid19:0.4309', 'bronx:0.3953', 'ukraine:0.3865', 'cases:0.2431', 'record:0.1857']"
+        ],
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/wcbe.org/Ukrainians debate the future of Russian identity and culture within their society.txt+eventbasecode40+eventcode40+avgtone0.48837209302325585+goldsteinscale0.55+nummentions0.10377358490566038+numarticles0.10442349528643945+numsources0.11842105263157894+news_keywords+['kyiv:0.5568', 'russianness:0.4897', 'ukrainians:0.4697', 'dorokhov:0.3805', 'putin:0.3664', 'propaganda:0.357', 'heritage:0.3374', 'pushkin:0.2657', 'celebrate:0.2379', 'remain:0.2362', 'know:0.23', 'independence:0.2288', 'write:0.2225', 'baroque:0.2214', 'future:0.2185', 'empress:0.2178', 'oleksandr:0.216', 'confederate:0.2151', 'battle:0.209', 'reinterpret:0.2089', 'philosopher:0.2088', 'npr:0.1964', 'people:0.1955', 'big:0.1775', 'space:0.1681', 'compare:0.1503', 'nuanced:0.1446', 'order:0.1426', 'view:0.1402', 'agree:0.1303']+titles_keywords+['ukrainians:0.5694', 'russian:0.4577', 'culture:0.3236', 'debate:0.2849', 'future:0.2022']"
+        ]
+    ]
+}

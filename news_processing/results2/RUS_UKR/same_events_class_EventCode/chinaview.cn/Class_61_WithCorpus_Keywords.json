@@ -1,0 +1,12 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/chinaview.cn/Ukraine crisis should reawaken Africas awareness of food independence.txt+eventbasecode61+eventcode61+avgtone0.48175787728026537+goldsteinscale0.82+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['uganda:0.4835', 'ukraine:0.4153', 'africas:0.3652', 'humanitarian:0.3385', 'drought:0.3104', 'arable:0.2941', 'commodity:0.2903', 'conflict:0.2873', 'putin:0.272', 'urgent:0.2553', 'produce:0.2521', 'pandemic:0.2424', 'odessa:0.2354', 'independence:0.2224', 'opportunity:0.2216', 'transformation:0.2124', 'feeding:0.2073', 'input:0.1834', 'sector:0.1793', 'import:0.1788', 'sanction:0.1603', 'announce:0.1587', 'sufficient:0.1548', 'continue:0.147', 'locust:0.1379', 'according:0.1315', 'chain:0.1304', 'untouched:0.1229', 'dollar:0.1057', 'way:0.0896']+titles_keywords+['ukraine:0.4224', 'africas:0.355', 'food:0.3324', 'independence:0.3271', 'crisis:0.2338']"
+        ]
+    ],
+    "RUS+TUR+61":[
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/chinaview.cn/Ukraine Russia make some progress at talks on grain exports Zelensky.txt+eventbasecode61+eventcode61+avgtone0.5075187969924813+goldsteinscale0.82+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.013157894736842105+news_keywords+['ukraine:0.4998', 'istanbul:0.2999', 'grain:0.2876', 'zelensky:0.2831', 'supply:0.2623', 'xinhua:0.2386', 'export:0.2378', 'food:0.2203', 'progress:0.2086', 'global:0.2062', 'inform:0.2047', 'talk:0.1912', 'port:0.1849', 'delegation:0.1833', 'nations:0.1709', 'president:0.1699', 'make:0.1639', 'representative:0.1335', 'volodymyr:0.1334', 'significant:0.0877', 'press:0.0806', 'agree:0.0756', 'july:0.0634', 'earlier:0.0525', 'black:0.0508', 'day:0.0281', 'come:0.0277', 'quote:0.0255', 'way:0.0179', 'restore:-0.0153']+titles_keywords+['zelensky:0.447', 'ukraine:0.3666', 'grain:0.2628', 'talks:0.2222', 'progress:0.1931']"
+        ]
+    ]
+}

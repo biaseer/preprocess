@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/techstory.in/Ukraine welcomes donations in dogecoin and other cryptocurrencies as funding reaches 35 million.txt+eventbasecode180+eventcode180+avgtone0.5+goldsteinscale0.05+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.02631578947368421+news_keywords+['cryptocurrency:0.533', 'dogecoin:0.4774', 'ukraines:0.467', 'stablecoins:0.3761', 'russian:0.3648', 'exchange:0.3121', 'donation:0.3064', 'fedorov:0.3006', 'government:0.2865', 'elon:0.2544', 'fiat:0.2492', 'platform:0.243', 'troop:0.2414', 'attack:0.2383', 'know:0.227', 'convert:0.2259', 'nfts:0.2053', 'increase:0.204', 'fungible:0.1993', 'billion:0.1992', 'polkadot:0.1953', 'read:0.19', 'tweet:0.1776', 'function:0.1737', 'world:0.1603', 'th:0.1572', 'allow:0.1534', 'continue:0.1504', 'doubtful:0.1115', 'welcome:0.11']+titles_keywords+['dogecoin:0.5617', 'ukraine:0.4528', 'cryptocurrencies:0.3791', 'donations:0.3369', 'welcomes:0.1075']"
+        ],
+        [
+            "20220715+../news_crawling/RUS_UKR/p_articles/techstory.in/Morgan Stanley profit slumps 30 as deals stall recession risks rise.txt+eventbasecode180+eventcode180+avgtone0.48043478260869565+goldsteinscale0.05+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['jpmorgan:0.5249', 'banks:0.5086', 'financial:0.4471', 'downturn:0.3675', 'stock:0.3369', 'ceo:0.3314', 'endeavor:0.3226', 'institution:0.3034', 'crisis:0.2648', 'concern:0.2586', 'stanley:0.2577', 'wellspring:0.255', 'information:0.2502', 'contain:0.2491', 'overall:0.2422', 'sector:0.2389', 'report:0.2313', 'raise:0.221', 'comparable:0.2183', 'precedent:0.212', 'misfortune:0.2107', 'swap:0.2092', 'view:0.2077', 'barrel:0.1986', 'examiner:0.1919', 'subsequently:0.1806', 'year:0.1747', 'powerful:0.1687', 'stall:0.1629', 'russias:0.1538']+titles_keywords+['morgan:0.2873', 'recession:0.266', '30:0.2259', 'profit:0.2174', 'stall:0.1411']"
+        ]
+    ]
+}

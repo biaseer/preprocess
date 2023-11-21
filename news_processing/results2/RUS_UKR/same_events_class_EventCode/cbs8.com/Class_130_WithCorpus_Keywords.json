@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220128+../news_crawling/RUS_UKR/p_articles/cbs8.com/Distinct possibility Russia invades Ukraine next month Biden says.txt+eventbasecode130+eventcode130+avgtone0.47684865238424323+goldsteinscale0.27999999999999997+nummentions0.13642960812772134+numarticles0.13705583756345177+numsources0.11842105263157894+news_keywords+['ukraine:0.4539', 'nato:0.3738', 'kremlin:0.3698', 'invade:0.3395', 'escalation:0.2648', 'diplomat:0.2427', 'emergency:0.242', 'soon:0.2185', 'expect:0.2096', 'coordinate:0.1981', 'order:0.1924', 'macroeconomic:0.1842', 'plan:0.1833', 'peace:0.163', 'biden:0.1579', 'know:0.153', 'volodymyr:0.1519', 'pipeline:0.1439', 'debate:0.1353', 'submit:0.1226', 'possibility:0.1213', 'consolidated:0.11', 'twitter:0.1069', 'end:0.1013', 'somberly:0.0939', 'refrain:0.0912', 'stark:0.081', 'normal:0.074', 'year:0.0592', 'motorized:0.049']+titles_keywords+['ukraine:0.3818', 'biden:0.3182', 'possibility:0.3041', 'invades:0.2819', 'month:0.2451']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/cbs8.com/Some flights to Ukraine halted or redirected as crisis brews.txt+eventbasecode130+eventcode130+avgtone0.4798567591763653+goldsteinscale0.27999999999999997+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['ukraine:0.4588', 'natos:0.4128', 'diplomacy:0.3873', 'invade:0.366', 'divert:0.3427', 'evacuate:0.3305', 'crisis:0.3151', 'danger:0.3043', 'annex:0.289', 'pentagon:0.2765', 'prepare:0.2721', 'infrastructure:0.268', 'information:0.2636', 'escalate:0.252', 'plan:0.251', 'deploy:0.2492', 'separatist:0.2428', 'nykyforov:0.242', 'office:0.2348', 'airline:0.2162', 'biden:0.21', 'order:0.2059', 'wednesday:0.1993', 'fluctuation:0.1887', 'speak:0.1811', 'understand:0.1745', 'hourlong:0.1598', 'include:0.1489', 'like:0.1361', 'deal:0.1022']+titles_keywords+['ukraine:0.4172', 'flights:0.3594', 'halted:0.2611', 'crisis:0.2515', 'redirected:0.1354']"
+        ]
+    ]
+}

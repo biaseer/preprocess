@@ -1,0 +1,17 @@
+{
+    "CHN+RUS+12":[
+        [
+            "20220615+../news_crawling/RUS_UKR/p_articles/stripes.com/Microsoft launches effort to slow Russian propaganda on war vaccines.txt+eventbasecode12+eventcode12+avgtone0.488061797752809+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.006578947368421052+news_keywords+['propaganda:0.4958', 'microsoft:0.4666', 'espionage:0.4269', 'russias:0.3796', 'news:0.3699', 'government:0.3229', 'sputnik:0.322', 'influencers:0.3144', 'cyberactivity:0.3081', 'report:0.302', 'summarize:0.2964', 'coronavirus:0.2909', 'initiative:0.2816', 'document:0.2693', 'geographic:0.2639', 'success:0.2589', 'data:0.2508', 'know:0.2471', 'forward:0.245', 'rt:0.2426', 'advantage:0.2342', 'president:0.2313', 'distort:0.227', 'polarization:0.2226', 'subsidiary:0.2216', 'make:0.2079', 'wednesday:0.18', 'hallap:0.1712', 'additional:0.1564', 'decade:0.1404']+titles_keywords+['propaganda:0.4507', 'microsoft:0.4156', 'vaccines:0.3335', 'russian:0.3046', 'slow:0.1529']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [],
+        [],
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/stripes.com/Russian forces take Chernobyl zone Ukraine says raising fears of ecological disaster.txt+eventbasecode12+eventcode12+avgtone0.46078431372549017+goldsteinscale0.48+nummentions0.09216255442670537+numarticles0.09209572153734591+numsources0.10855263157894737+news_keywords+['chernobyl:0.681', 'radioactively:0.3511', 'gorbachev:0.3434', 'ukraines:0.3401', 'evacuate:0.2847', 'coronavirus:0.2833', 'yaroslav:0.2603', 'safer:0.234', 'contaminate:0.1824', 'repository:0.1755', 'report:0.1652', 'artillery:0.1545', 'zone:0.1524', 'reconstruction:0.1523', 'thyroid:0.1396', 'regulatory:0.1358', 'plant:0.1351', 'tornado:0.1284', 'transform:0.1231', 'power:0.1161', 'exposure:0.1155', 'worker:0.1078', 'population:0.1072', 'world:0.1071', 'begin:0.096', 'ton:0.0924', 'diagnose:0.0868', 'fahrenheit:0.0837', 'significance:0.0813', 'npp:0.0399']+titles_keywords+['chernobyl:0.548', 'russian:0.2548', 'ecological:0.1276', 'zone:0.1115', 'says:0.0449']"
+        ],
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/stripes.com/Abramovich visits Kyiv seeking to restart UkraineRussia talks.txt+eventbasecode12+eventcode12+avgtone0.4849624060150376+goldsteinscale0.48+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['kyiv:0.5515', 'putin:0.4804', 'ukraines:0.4387', 'abramovich:0.3468', 'zelenskyy:0.3445', 'invasion:0.2771', 'mediator:0.2458', 'peace:0.2451', 'involve:0.243', 'news:0.2049', 'attend:0.2004', 'continue:0.1994', 'meet:0.1966', 'prospect:0.1749', 'accuse:0.1692', 'civilian:0.1528', 'increase:0.146', 'prepare:0.139', 'february:0.1335', 'supinskyafpgetty:0.1312', 'sink:0.1271', 'issue:0.1261', 'far:0.1226', 'flagship:0.119', 'complicate:0.1102', 'bucha:0.1081', 'send:0.1025', 'arm:0.1023', 'theyre:0.0727', 'imagestns:0.0655']+titles_keywords+['kyiv:0.4613', 'abramovich:0.4487', 'talks:0.1972', 'restart:0.1411', 'seeking:0.0428']"
+        ]
+    ]
+}

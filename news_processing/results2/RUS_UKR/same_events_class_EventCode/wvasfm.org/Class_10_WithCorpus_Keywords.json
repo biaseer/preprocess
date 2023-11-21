@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+10":[
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/wvasfm.org/RussiaUkraine war What happened today June 30.txt+eventbasecode10+eventcode10+avgtone0.4794372294372294+goldsteinscale0.5+nummentions0.23439767779390422+numarticles0.23495286439448876+numsources0.21052631578947367+news_keywords+['ukraine:0.5388', 'russiaukraine:0.5259', 'kremlin:0.4837', 'nato:0.4168', 'war:0.3846', 'embassies:0.3382', 'separatist:0.2764', 'border:0.2407', 'sanction:0.2387', 'evacuate:0.2346', 'recap:0.2224', 'read:0.2025', 'strategic:0.2017', 'report:0.1907', 'npr:0.1864', 'closure:0.1838', 'update:0.174', 'thursday:0.1712', 'long:0.1558', 'happen:0.1513', 'organization:0.148', 'biden:0.1379', 'speaking:0.1377', 'end:0.136', 'grade:0.1294', 'tie:0.1283', 'complies:0.1069', 'new:0.0937', 'hundreds:0.0868', 'coverage:0.0822']+titles_keywords+['russiaukraine:0.4814', 'war:0.4249', 'june:0.3017', 'today:0.3012', 'happened:0.2627']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/wvasfm.org/Theater stars spring to life on the pages of B is for Broadway.txt+eventbasecode10+eventcode10+avgtone0.5040347610180013+goldsteinscale0.5+nummentions0.10921625544267054+numarticles0.10986221899927484+numsources0.10855263157894737+news_keywords+['playwrights:0.5115', 'broadway:0.5115', 'sondheim:0.4094', 'audition:0.3714', 'liza:0.3702', 'ziegfeld:0.3071', 'famous:0.3051', 'jeanine:0.2512', 'alliterative:0.2401', 'chenoweth:0.2342', 'dreamgirls:0.2335', 'resume:0.2167', 'blog:0.2093', 'personalities:0.2025', 'diva:0.1917', 'include:0.1864', 'costume:0.1761', 'line:0.176', 'book:0.1728', 'croon:0.1706', 'say:0.1696', 'share:0.1692', 'perfect:0.1671', 'create:0.1647', 'end:0.1592', 'dazzle:0.1367', 'forget:0.1277', 'proceeds:0.1039', 'covid:0.069', 'mancha:0.0571']+titles_keywords+['broadway:0.6563', 'theater:0.5327', 'pages:0.3277', 'stars:0.2732', 'spring:0.1723']"
+        ]
+    ]
+}

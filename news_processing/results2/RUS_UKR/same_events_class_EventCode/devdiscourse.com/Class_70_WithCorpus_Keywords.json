@@ -1,0 +1,12 @@
+{
+    "RUS+EUR+70":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/devdiscourse.com/Russian gas nominations for Slovakia rise operator data shows.txt+eventbasecode70+eventcode70+avgtone0.49739583333333337+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4894', 'pipeline:0.3767', 'baltic:0.3762', 'gas:0.324', 'gazprom:0.2924', 'eustream:0.2715', 'sudzha:0.261', 'supply:0.2437', 'megawatt:0.1796', 'eastbound:0.1588', 'feed:0.156', 'data:0.1544', 'meter:0.1482', 'cubic:0.1378', 'reject:0.1271', 'syndicate:0.1265', 'kwhh:0.1199', 'auto:0.114', 'entry:0.107', 'velke:0.0982', 'continue:0.098', 'generate:0.0948', 'stable:0.0924', 'rise:0.0844', 'previous:0.0732', 'tso:0.0694', 'hour:0.0657', 'tuesday:0.0505', 'point:0.032', 'slightly:0.0059']+titles_keywords+['slovakia:0.4389', 'gas:0.2836', 'nominations:0.1978', 'rise:0.0949', 'data:0.0897']"
+        ]
+    ],
+    "USA+RUS+70":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/devdiscourse.com/Pfizer to donate all proceeds from Russia for humanitarian aid to Ukraine.txt+eventbasecode70+eventcode70+avgtone0.48786407766990286+goldsteinscale0.85+nummentions0.028664731494920173+numarticles0.029369108049311095+numsources0.02631578947368421+news_keywords+['russia:0.4748', 'fda:0.4438', 'pfizer:0.4181', 'medicine:0.3657', 'humanitarian:0.3308', 'concern:0.3148', 'cancer:0.3034', 'war:0.2786', 'company:0.263', 'patient:0.2626', 'unprovoked:0.2617', 'profit:0.2544', 'supplier:0.2469', 'global:0.2296', 'cardiovascular:0.2125', 'continue:0.211', 'read:0.2056', 'syndicate:0.2014', 'align:0.1807', 'story:0.1762', 'statement:0.169', 'direct:0.1668', 'flow:0.1611', 'impose:0.1592', 'alternative:0.1499', 'valiantly:0.1398', 'generate:0.1126', 'longer:0.1085', 'ani:0.0941', 'today:0.0883']+titles_keywords+['pfizer:0.4768', 'donate:0.3852', 'ukraine:0.3652', 'humanitarian:0.337', 'proceeds:0.2628']"
+        ]
+    ]
+}

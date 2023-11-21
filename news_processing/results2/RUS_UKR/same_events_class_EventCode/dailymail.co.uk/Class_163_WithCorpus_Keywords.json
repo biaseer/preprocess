@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+163":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/Liz Truss warns Vladimir Putin using chemical weapons in Ukraine would be a grave mistake.txt+eventbasecode163+eventcode163+avgtone0.4725063938618926+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4452', 'nato:0.398', 'strategic:0.3359', 'attack:0.3353', 'coexist:0.2977', 'invasionrepresents:0.2829', 'change:0.2822', 'warn:0.2801', 'expect:0.277', 'weaponry:0.2696', 'secretary:0.2695', 'speech:0.2627', 'sanction:0.2559', 'complacency:0.2529', 'uk:0.2364', 'evidence:0.2272', 'truss:0.2175', 'phase:0.2166', 'gas:0.2049', 'funding:0.1936', 'think:0.1931', 'word:0.1924', 'end:0.1916', 'appalling:0.1881', 'line:0.1746', 'pre:0.164', 'isnt:0.1628', 'red:0.158', 'frontal:0.1374', 'import:0.1316']+titles_keywords+['putin:0.396', 'invasion:0.3081', 'warns:0.231', 'chemical:0.2035', 'truss:0.1754']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/Troubled Petropavlovsk posts rise in gold production in first quarter of 2022 despite sanctions imposed.txt+eventbasecode163+eventcode163+avgtone0.47383720930232565+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.443', 'petropavlovsk:0.3754', 'gold:0.3261', 'miner:0.3194', 'production:0.309', 'war:0.2805', 'sanction:0.2351', 'operation:0.2286', 'disruption:0.2249', 'invasion:0.2213', 'report:0.2148', 'increase:0.208', 'lead:0.1747', 'despite:0.1682', 'month:0.1663', 'corporate:0.1596', 'western:0.1521', 'expect:0.1484', 'group:0.1394', 'chain:0.1353', 'guidance:0.1304', 'force:0.1295', 'follow:0.1265', 'cut:0.1106', 'end:0.0963', 'level:0.0948', 'previously:0.0934', 'bos:0.0779', 'denis:0.0753', 'ounce:0.0603']+titles_keywords+['petropavlovsk:0.4688', 'ukraine:0.3791', 'sanctions:0.3609', 'gold:0.3285', '2022:0.1709']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220117+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/Bidens awkward war footing Republicans demand President imposes Russia sanctions NOW while Dems try to.txt+eventbasecode163+eventcode163+avgtone0.4753039513677812+goldsteinscale0.1+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4034', 'briefing:0.3339', 'war:0.3339', 'dems:0.3199', 'diplomat:0.2769', 'baltic:0.2756', 'debate:0.2623', 'plan:0.2602', 'sanction:0.2586', 'administration:0.257', 'evacuate:0.2494', 'incursion:0.2412', 'alarm:0.227', 'introduce:0.2245', 'aggressive:0.2228', 'bidens:0.2187', 'order:0.2144', 'lengthy:0.2091', 'afraid:0.2024', 'ready:0.2007', 'classify:0.1994', 'monday:0.1943', 'ally:0.1921', 'act:0.1897', 'maryland:0.1789', 'know:0.177', 'help:0.175', 'leverage:0.1735', 'alike:0.146', 'completely:0.079']+titles_keywords+['sanctions:0.4109', 'war:0.3238', 'bidens:0.3109', 'republicans:0.2623', 'awkward:0.1242']"
+        ]
+    ]
+}

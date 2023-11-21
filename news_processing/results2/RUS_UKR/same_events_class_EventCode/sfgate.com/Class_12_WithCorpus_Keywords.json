@@ -1,0 +1,13 @@
+{
+    "CHN+UKR+12":[
+        []
+    ],
+    "POL+RUS+12":[
+        []
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/sfgate.com/Russian forces take Chernobyl zone Ukraine says raising fears of ecological disaster.txt+eventbasecode12+eventcode12+avgtone0.4616788321167883+goldsteinscale0.48+nummentions0.09216255442670537+numarticles0.09209572153734591+numsources0.10855263157894737+news_keywords+['chernobyl:0.6602', 'gorbachev:0.3317', 'radioactively:0.3273', 'evacuate:0.3236', 'ukrainians:0.3186', 'coronavirus:0.3003', 'fallout:0.2483', 'safer:0.2416', 'operation:0.2216', 'epidemiology:0.2155', 'iaea:0.2058', 'pentagon:0.204', 'concern:0.2038', 'contaminate:0.2011', 'casualty:0.1914', 'zone:0.1685', 'report:0.1564', 'world:0.1411', 'reconstruction:0.1297', 'bucharest:0.1293', 'thyroid:0.1273', 'plant:0.1273', 'continue:0.1108', 'worker:0.109', 'april:0.0941', 'shmyhal:0.0936', 'hot:0.0728', 'installation:0.0558', 'nearly:0.0433', 'true:0.0276']+titles_keywords+['chernobyl:0.548', 'russian:0.2548', 'ecological:0.1276', 'zone:0.1115', 'says:0.0449']"
+        ]
+    ]
+}

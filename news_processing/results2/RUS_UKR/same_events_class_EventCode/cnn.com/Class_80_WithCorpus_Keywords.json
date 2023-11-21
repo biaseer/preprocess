@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+80":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/cnn.com/Putin spokesman refuses to rule out use of nuclear weapons if Russia faced an existential.txt+eventbasecode80+eventcode80+avgtone0.483695652173913+goldsteinscale0.75+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.023026315789473683+news_keywords+['putin:0.4874', 'crimea:0.4096', 'nato:0.3673', 'nuclear:0.353', 'russias:0.3269', 'airstrikes:0.313', 'threat:0.3121', 'peskovs:0.298', 'nationalist:0.2465', 'operation:0.2287', 'euphemism:0.2093', 'battalion:0.2084', 'respond:0.2043', 'plan:0.1898', 'know:0.1718', 'secretary:0.1604', 'order:0.1584', 'stand:0.1386', 'televise:0.1384', 'press:0.1355', 'breakaway:0.1291', 'state:0.1218', 'allow:0.1169', 'immediately:0.1159', 'week:0.0935', 'strictly:0.0896', 'numerous:0.0874', 'kirby:0.0835', 'grim:0.0771', 'main:0.0769']+titles_keywords+['putin:0.4075', 'nuclear:0.3286', 'existential:0.2181', 'refuses:0.1754', 'faced:0.0682']"
+        ]
+    ],
+    "RUS+UKR+80":[
+        [
+            "20220417+../news_crawling/RUS_UKR/p_articles/cnn.com/April 16 2022 RussiaUkraine news.txt+eventbasecode80+eventcode80+avgtone0.4809688581314879+goldsteinscale0.75+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['kyiv:0.5042', 'evacuations:0.3915', 'news:0.331', 'diplomatic:0.3301', 'nationalist:0.3032', 'modernization:0.2871', 'mook:0.2693', 'ivana:0.2685', 'veteran:0.2426', 'report:0.2425', 'realize:0.2377', 'hear:0.2348', 'april:0.2304', 'goodbye:0.2232', 'plan:0.2182', 'cite:0.2112', 'world:0.2035', 'fight:0.2029', 'unfold:0.1947', 'bucha:0.1848', 'stage:0.1782', 'row:0.1694', 'longer:0.1638', 'sink:0.1591', 'ofwhich:0.145', 'additional:0.1401', 'worries:0.1367', 'state:0.1241', 'thetotal:0.1111', 'true:0.1071']+titles_keywords+['2022:0.5231', 'russiaukraine:0.5181', 'news:0.3397', 'april:0.3293', '16:0.1799']"
+        ]
+    ]
+}

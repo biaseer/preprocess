@@ -1,0 +1,15 @@
+{
+    "RUS+EUR+193":[
+        []
+    ],
+    "RUS+UKR+193":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/nbcbayarea.com/Ukraine Thwarts Russian Advances Fight Rages for Mariupol.txt+eventbasecode193+eventcode193+avgtone0.4698641765704584+goldsteinscale0.0+nummentions0.14622641509433962+numarticles0.14394488759970994+numsources0.39144736842105265+news_keywords+['crimea:0.5161', 'putins:0.3593', 'pravda:0.3464', 'combat:0.2979', 'evacuate:0.2938', 'pentagon:0.2652', 'zelenskyy:0.2636', 'blockade:0.2527', 'diplomatic:0.2281', 'casualty:0.2181', 'continue:0.2114', 'retaken:0.2038', 'arrive:0.1989', 'worry:0.1938', 'long:0.1798', 'neutral:0.1765', 'bucha:0.1764', 'cite:0.1713', 'western:0.169', 'nearly:0.1634', 'surround:0.1625', 'hear:0.152', 'advances:0.1508', 'residential:0.1438', 'vary:0.143', 'expert:0.1397', 'overall:0.1394', 'thousands:0.1358', 'crop:0.1152', 'true:0.0856']+titles_keywords+['ukraine:0.495', 'fight:0.3995', 'mariupol:0.3448', 'thwarts:0.2043', 'advances:0.1217']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220729+../news_crawling/RUS_UKR/p_articles/nbcbayarea.com/Russia Ukraine Trade Blame Over Strike That Hit Prison and Reportedly Killed Dozens of POW.txt+eventbasecode193+eventcode193+avgtone0.4566787003610109+goldsteinscale0.0+nummentions0.06966618287373004+numarticles0.07034082668600435+numsources0.05921052631578947+news_keywords+['ukraine:0.4539', 'war:0.3393', 'separatist:0.2994', 'regiment:0.298', 'evacuate:0.2918', 'kill:0.2849', 'artillery:0.2682', 'casualty:0.2546', 'occur:0.2434', 'azov:0.2423', 'gov:0.2229', 'prisoner:0.2099', 'pows:0.2006', 'information:0.1964', 'worry:0.1931', 'tunnel:0.1901', 'blame:0.1875', 'assistance:0.1822', 'town:0.1783', 'donbas:0.1721', 'lt:0.1645', 'resistance:0.1513', 'intensify:0.1492', 'story:0.1455', 'month:0.14', 'scores:0.1303', 'exchange:0.128', 'dozens:0.1257', 'sort:0.0954', 'doesnt:0.0945']+titles_keywords+['ukraine:0.4241', 'blame:0.2464', 'strike:0.2386', 'prison:0.1926', 'dozens:0.1101']"
+        ]
+    ]
+}

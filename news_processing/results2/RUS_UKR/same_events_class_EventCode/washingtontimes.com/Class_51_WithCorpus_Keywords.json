@@ -1,0 +1,17 @@
+{
+    "BLR+UKR+51":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/US sanctions Belarus president Russian officials for human rights abuses.txt+eventbasecode51+eventcode51+avgtone0.4433497536945815+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.546', 'belaruss:0.5328', 'lukashenko:0.4511', 'sanction:0.4482', 'moscow:0.4222', 'mushnikova:0.3317', 'government:0.3295', 'whistleblower:0.2887', 'visa:0.2865', 'block:0.254', 'unprovoked:0.2454', 'peaceful:0.2439', 'list:0.2356', 'announce:0.2214', 'allow:0.2158', 'military:0.2062', 'invasion:0.2043', 'statement:0.1993', 'intensify:0.1928', 'continue:0.1816', 'gacki:0.1794', 'treasury:0.1719', 'state:0.1656', 'month:0.1415', 'case:0.129', 'corridor:0.1234', 'fabricate:0.1165', 'mr:0.1077', 'measure:0.1015', 'today:0.0957']+titles_keywords+['sanctions:0.5074', 'belarus:0.4543', 'abuses:0.251', 'president:0.2191', 'rights:0.1079']"
+        ]
+    ],
+    "GBR+RUS+51":[
+        [
+            "20220612+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Russia launches rockets into western Ukraine Sunday as more troops mass in east.txt+eventbasecode51+eventcode51+avgtone0.47278225806451607+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4825', 'nato:0.3837', 'moscows:0.3729', 'reuters:0.3501', 'invasion:0.2982', 'peaceful:0.2891', 'political:0.248', 'dispatch:0.246', 'sievierodonetsk:0.2411', 'prepare:0.2296', 'destroy:0.2272', 'soon:0.2239', 'artillery:0.2195', 'update:0.2144', 'unfolds:0.212', 'term:0.2029', 'acknowledge:0.1977', 'skyrocket:0.196', 'tell:0.1875', 'reservist:0.1826', 'successes:0.1748', 'big:0.1718', 'weekend:0.1678', 'advantage:0.1663', 'donbas:0.1617', 'sentence:0.1454', 'overmatch:0.1387', 'focus:0.1379', 'virtually:0.1204', 'total:0.1144']+titles_keywords+['ukraine:0.3885', 'launches:0.2735', 'troops:0.212', 'western:0.2104', 'sunday:0.125']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Anonymous hacking group waging cyberwar against Russia.txt+eventbasecode51+eventcode51+avgtone0.4789915966386555+goldsteinscale0.67+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['cyberattacks:0.5551', 'cyberwar:0.5064', 'anonymous:0.445', 'russia:0.4018', 'ransomware:0.3928', 'fbi:0.3537', 'decentralize:0.3371', 'threaten:0.3172', 'disrupt:0.3134', 'reuters:0.2962', 'infrastructure:0.2846', 'twitter:0.2622', 'group:0.2546', 'alert:0.2464', 'gazproms:0.2347', 'affiliate:0.2275', 'support:0.2135', 'credit:0.2131', 'responder:0.193', 'rts:0.1917', 'offline:0.1885', 'thursday:0.1824', 'politically:0.1763', 'wag:0.1716', 'target:0.1708', 'litemods:0.1585', 'welcome:0.122', 'accord:0.1041', 'youranonone:0.1003', 'conti:0.1001']+titles_keywords+['cyberwar:0.5395', 'anonymous:0.4153', 'russia:0.3527', 'hacking:0.3151', 'group:0.3116']"
+        ]
+    ]
+}

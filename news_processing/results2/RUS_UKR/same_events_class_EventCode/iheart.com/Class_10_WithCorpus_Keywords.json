@@ -1,0 +1,40 @@
+{
+    "FRA+RUS+10":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/iheart.com/Anonymous Hacked Russian State TV To Air Footage Of Ukrainian Invasion.txt+eventbasecode10+eventcode10+avgtone0.441326530612245+goldsteinscale0.5+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.0+news_keywords+['russians:0.4184', 'anonymous:0.3556', 'hacked:0.3269', 'invasion:0.2993', 'broadcast:0.2984', 'news:0.2651', 'footage:0.2414', 'regime:0.2251', 'live:0.2154', 'ban:0.1974', 'know:0.1972', 'group:0.1971', 'translation:0.1911', 'post:0.1762', 'international:0.175', 'criminal:0.1731', 'ukrinform:0.1699', 'oppose:0.1673', 'affiliated:0.1635', 'today:0.1479', 'netflix:0.1458', 'ordinary:0.1187', 'service:0.1173', 'add:0.1166', 'message:0.1158', 'wag:0.0792', 'state:0.0787', 'continue:0.0775', 'towage:0.06', 'like:0.0569']+titles_keywords+['ukrainian:0.3892', 'hacked:0.3242', 'footage:0.2871', 'tv:0.2862', 'invasion:0.264']"
+        ]
+    ],
+    "RUS+LVA+10":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/iheart.com/Stoli Announces Major Rebrand Of Vodka Amid Russias Invasion Of Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4936908517350158+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['vodka:0.5853', 'russian:0.4731', 'kyiv:0.4639', 'stolichnaya:0.4554', 'putin:0.43', 'russias:0.4201', 'stoli:0.4', 'fromrussiasince:0.3721', 'invasion:0.2952', 'correspondent:0.267', 'news:0.2659', 'diplomatic:0.2567', 'rebrand:0.2516', 'missile:0.2475', 'military:0.2445', 'european:0.2364', 'translation:0.2245', 'protest:0.2143', 'anti:0.2003', 'cite:0.1907', 'group:0.1875', 'underway:0.1762', 'pour:0.1734', 'list:0.1705', 'pull:0.1668', 'february:0.1588', 'store:0.153', 'hear:0.136', 'longer:0.1306', 'prevent:0.1241']+titles_keywords+['vodka:0.5003', 'stoli:0.4833', 'rebrand:0.39', 'invasion:0.1632', 'major:0.0691']"
+        ]
+    ],
+    "RUS+RUS+10":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/iheart.com/Russia Claims Ukraine Faked Civilian Massacre.txt+eventbasecode10+eventcode10+avgtone0.45555555555555555+goldsteinscale0.5+nummentions0.17271407837445574+numarticles0.17331399564902103+numsources0.0+news_keywords+['ukraine:0.484', 'putin:0.4462', 'massacre:0.3555', 'war:0.3072', 'provocation:0.2936', 'correspondent:0.2852', 'diplomatic:0.2835', 'fake:0.2539', 'crime:0.2534', 'military:0.2252', 'report:0.2233', 'news:0.2142', 'tactic:0.2107', 'protester:0.2086', 'horrify:0.1847', 'bucha:0.1718', 'capital:0.1704', 'text:0.1419', 'statement:0.1139', 'hear:0.1134', 'mclaughlin:0.1077', 'dead:0.1028', 'direct:0.0997', 'shortly:0.0992', 'issue:0.0982', 'population:0.0885', 'follow:0.0776', 'obtain:0.0732', 'improvised:0.0566', 'prevent:0.0555']+titles_keywords+['ukraine:0.4588', 'massacre:0.3664', 'faked:0.2963', 'civilian:0.1817', 'claims:0.1243']"
+        ],
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/iheart.com/World Has 10Week Supply Of Wheat Remaining This Is Seismic Expert Says.txt+eventbasecode10+eventcode10+avgtone0.4616122840690979+goldsteinscale0.5+nummentions0.17053701015965167+numarticles0.17113850616388687+numsources0.003289473684210526+news_keywords+['geopolitical:0.4477', 'putin:0.3646', 'sanctions:0.3636', 'kyiv:0.3313', 'wheat:0.3031', 'crisis:0.2976', 'predict:0.286', 'conflictduring:0.2833', 'shortage:0.2778', 'cyclical:0.2648', 'correspondent:0.245', 'coordinate:0.2376', 'announcement:0.2293', 'intensify:0.2236', 'week:0.2214', 'translation:0.2183', 'data:0.2149', 'report:0.2117', 'ahead:0.207', 'protester:0.2049', 'world:0.2014', 'current:0.1922', 'risk:0.1782', 'long:0.1721', 'suffer:0.1668', 'isnt:0.1578', 'make:0.1407', 'gro:0.1201', 'combined:0.1134', 'anytime:0.0736']+titles_keywords+['wheat:0.4599', 'seismic:0.317', '10week:0.2761', 'world:0.203', 'expert:0.1533']"
+        ]
+    ],
+    "RUS+TUR+10":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/iheart.com/Russia To Drastically Reduce Military Presence In Kyiv Chernihiv.txt+eventbasecode10+eventcode10+avgtone0.49559471365638763+goldsteinscale0.5+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.01644736842105263+news_keywords+['kyiv:0.5361', 'putin:0.3905', 'peskov:0.315', 'diplomatic:0.2663', 'military:0.2607', 'correspondent:0.2248', 'invasion:0.2224', 'peace:0.201', 'operation:0.1918', 'protest:0.1911', 'nbc:0.1615', 'underway:0.1597', 'translation:0.1581', 'shortly:0.1538', 'reduce:0.1348', 'end:0.1326', 'hear:0.1225', 'neighbor:0.1203', 'eastern:0.1113', 'meet:0.1055', 'official:0.0911', 'reportedly:0.0805', 'prior:0.0781', 'decision:0.077', 'discus:0.0766', 'population:0.0751', 'state:0.072', 'erin:0.0615', 'shot:0.0462', 'fomin:0.0327']+titles_keywords+['kyiv:0.5387', 'chernihiv:0.3783', 'military:0.229', 'reduce:0.2154', 'drastically:0.0493']"
+        ]
+    ],
+    "UKR+AUS+10":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/iheart.com/Newlywed Ukrainian Couple Enlisted In The Army The Day After They Married.txt+eventbasecode10+eventcode10+avgtone0.5131964809384164+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.4762', 'russians:0.4082', 'war:0.367', 'airstrikes:0.3478', 'marry:0.3395', 'invasion:0.3358', 'enlisted:0.2971', 'undergo:0.2792', 'ceremony:0.2739', 'stay:0.2688', 'news:0.253', 'reality:0.2487', 'arieva:0.2458', 'fought:0.2411', 'plan:0.2095', 'happy:0.2076', 'siren:0.2048', 'country:0.2038', 'understanding:0.1984', 'help:0.1949', 'column:0.1753', 'rain:0.166', 'care:0.1658', 'fursinknew:0.1591', 'blare:0.1517', 'medical:0.1482', 'direct:0.1379', 'like:0.1321', 'hour:0.1218', 'second:0.1097']+titles_keywords+['enlisted:0.3993', 'ukrainian:0.3277', 'newlywed:0.3188', 'couple:0.2422', 'day:0.0797']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220128+../news_crawling/RUS_UKR/p_articles/iheart.com/Biden Releases Illegal on Terror Watchlist Into Michigan FULL SHOW 12822.txt+eventbasecode10+eventcode10+avgtone0.48070739549839225+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['biden:0.4698', 'zelensky:0.3458', 'senate:0.3154', 'kyiv:0.302', 'breyer:0.2809', 'fbi:0.2807', 'terror:0.2738', 'news:0.259', 'imminent:0.2566', 'watchlist:0.2287', 'report:0.2204', 'justicestephen:0.2199', 'regime:0.2126', 'know:0.2059', 'meeting:0.1897', 'leak:0.1873', 'retirement:0.1736', 'occupied:0.159', 'reportedly:0.1481', 'states:0.1444', 'subject:0.1432', 'run:0.1403', 'calm:0.1378', 'lead:0.1364', 'assumes:0.1201', 'summer:0.1198', 'jan:0.1178', 'decide:0.0968', 'counterpart:0.0946', 'send:0.0754']+titles_keywords+['biden:0.3922', 'watchlist:0.391', 'terror:0.2921', 'illegal:0.2883', '12822:0.1141']"
+        ]
+    ],
+    "WST+RUS+10":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/iheart.com/Thousands Arrested At AntiWar Protests Throughout Russia Report.txt+eventbasecode10+eventcode10+avgtone0.45632530120481946+goldsteinscale0.5+nummentions0.32728592162554426+numarticles0.32777374909354606+numsources0.16776315789473684+news_keywords+['antiwar:0.462', 'putin:0.4563', 'kyiv:0.3631', 'nato:0.3468', 'protest:0.3467', 'russias:0.3463', 'unprovoked:0.2727', 'invasion:0.2715', 'detain:0.2482', 'okeksiy:0.2283', 'news:0.2218', 'strike:0.2144', 'prepare:0.2111', 'warning:0.2111', 'missile:0.21', 'consequence:0.1992', 'respond:0.1816', 'people:0.1806', 'text:0.1764', 'statement:0.1609', 'casualty:0.1537', 'alongside:0.1345', 'ap:0.133', 'prior:0.1304', 'world:0.1261', 'tonight:0.1232', 'thousands:0.1218', 'follow:0.1212', 'state:0.0744', 'doesnt:0.0584']+titles_keywords+['antiwar:0.4301', 'protests:0.4099', 'russia:0.3194', 'arrested:0.2735', 'thousands:0.2364']"
+        ]
+    ]
+}

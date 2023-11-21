@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+173":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/arabnews.com/Ukraine jails two Russian soldiers for shelling villages Interfax.txt+eventbasecode173+eventcode173+avgtone0.445205479452055+goldsteinscale0.25+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.003289473684210526+news_keywords+['kyiv:0.5143', 'ukraine:0.5021', 'ukrainian:0.4938', 'ivanov:0.4911', 'russian:0.447', 'moscows:0.4281', 'jail:0.3033', 'war:0.2971', 'soldier:0.2847', 'bobykin:0.2555', 'village:0.2432', 'invasion:0.2214', 'alexander:0.2163', 'report:0.1815', 'sentence:0.1653', 'month:0.1621', 'violate:0.1544', 'trial:0.153', 'news:0.1386', 'shell:0.1134', 'legislation:0.1007', 'central:0.0989', 'hand:0.0973', 'day:0.0918', 'follow:0.0859', 'agency:0.0851', 'early:0.0832', 'term:0.0774', 'custom:0.0596', 'interfax:0.0073']+titles_keywords+['ukraine:0.384', 'soldiers:0.298', 'jails:0.2822', 'interfax:0.2282', 'shelling:0.1466']"
+        ]
+    ],
+    "UKR+MAR+173":[
+        [
+            "20220613+../news_crawling/RUS_UKR/p_articles/arabnews.com/Moroccan sentenced to death in Donetsk has Ukrainian nationality not a mercenary Father.txt+eventbasecode173+eventcode173+avgtone0.4543147208121827+goldsteinscale0.25+nummentions0.015602322206095792+numarticles0.016316171138506162+numsources0.019736842105263157+news_keywords+['ukrainian:0.4107', 'donetsk:0.3878', 'rabat:0.3808', 'mercenary:0.3774', 'morocco:0.3227', 'prisoner:0.2891', 'court:0.2692', 'saadoun:0.2483', 'father:0.2317', 'ordeal:0.2274', 'sentence:0.2189', 'overthrow:0.215', 'reuters:0.2084', 'death:0.2069', 'contact:0.1989', 'dpr:0.183', 'charge:0.1732', 'proclaim:0.1636', 'guilty:0.1617', 'undergo:0.16', 'training:0.1567', 'treat:0.1546', 'requirement:0.1336', 'aerospace:0.1307', 'aslin:0.1183', 'order:0.1118', 'pinner:0.0969', 'year:0.0829', 'medium:0.0786', 'aim:0.0472']+titles_keywords+['ukrainian:0.4335', 'moroccan:0.4074', 'mercenary:0.2821', 'father:0.243', 'sentenced:0.2017']"
+        ]
+    ]
+}

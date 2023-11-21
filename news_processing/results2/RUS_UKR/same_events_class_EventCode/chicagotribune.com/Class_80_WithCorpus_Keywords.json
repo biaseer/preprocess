@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/chicagotribune.com/Ukraine rejects Russian demand for surrender in Mariupol.txt+eventbasecode80+eventcode80+avgtone0.46669278996865204+goldsteinscale0.75+nummentions0.18142235123367198+numarticles0.18056562726613487+numsources0.45394736842105265+news_keywords+['kyiv:0.4972', 'kremlin:0.4289', 'chernobyl:0.3199', 'invasion:0.3133', 'propaganda:0.3072', 'decommission:0.2991', 'military:0.2759', 'emergency:0.2611', 'protestors:0.2593', 'separatist:0.2539', 'flee:0.2439', 'tank:0.2347', 'know:0.2097', 'continue:0.1852', 'population:0.1805', 'warms:0.1791', 'lethal:0.1779', 'curfew:0.1753', 'cite:0.1692', 'organize:0.1663', 'increase:0.1631', 'newly:0.1484', 'sign:0.1426', 'rivne:0.1408', 'long:0.1402', 'ap:0.1385', 'toll:0.1339', 'world:0.1242', 'way:0.112', 'offer:0.0556']+titles_keywords+['surrender:0.4206', 'ukraine:0.3945', 'mariupol:0.2589', 'rejects:0.1848', 'demand:0.0172']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/chicagotribune.com/McDonalds to reopen in Ukraine after Russian invasion six months ago.txt+eventbasecode80+eventcode80+avgtone0.4935064935064935+goldsteinscale0.75+nummentions0.21262699564586357+numarticles0.2131979695431472+numsources0.19078947368421054+news_keywords+['ukraine:0.48', 'kfc:0.3465', 'afterrussias:0.3278', 'economy:0.3015', 'operate:0.2622', 'invasion:0.2395', 'food:0.2331', 'tochka:0.2259', 'vkusno:0.2107', 'theamerican:0.2061', 'locationsunder:0.2056', 'western:0.1919', 'reopen:0.1853', 'normalcy:0.176', 'happen:0.1619', 'period:0.1516', 'prepare:0.1455', 'close:0.1334', 'chain:0.1303', 'million:0.1235', 'help:0.1209', 'thursday:0.1113', 'like:0.1102', 'pomroy:0.1098', 'tasty:0.1008', 'exited:0.1005', 'strong:0.0997', 'welcome:0.0667', 'decade:0.066', 'weve:0.0456']+titles_keywords+['mcdonalds:0.368', 'reopen:0.2566', 'russian:0.2555', 'invasion:0.1769', 'months:0.0906']"
+        ]
+    ]
+}

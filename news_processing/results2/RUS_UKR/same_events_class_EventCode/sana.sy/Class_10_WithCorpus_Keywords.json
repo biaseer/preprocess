@@ -1,0 +1,25 @@
+{
+    "CHN+UKR+10":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/sana.sy/China Accusations related to Bucha incident should be based on facts.txt+eventbasecode10+eventcode10+avgtone0.47179487179487184+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4098', 'accusation:0.3661', 'beijing:0.3033', 'nato:0.3006', 'sanction:0.2804', 'treaty:0.279', 'baseless:0.2719', 'bucha:0.2536', 'conduct:0.2214', 'zhang:0.2101', 'crisis:0.1877', 'fact:0.1765', 'conclusion:0.1659', 'reiterate:0.1589', 'coercive:0.1486', 'avoid:0.1281', 'realize:0.1257', 'security:0.117', 'quote:0.1', 'press:0.0856', 'party:0.0756', 'difference:0.0711', 'base:0.0701', 'exercise:0.0623', 'order:0.058', 'representative:0.057', 'make:0.0484', 'yesterday:0.0461', 'permanent:0.0217', 'way:0.0208']+titles_keywords+['accusations:0.4327', 'facts:0.3509', 'incident:0.3421', 'china:0.3313', 'bucha:0.3122']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220517+../news_crawling/RUS_UKR/p_articles/sana.sy/Russian MoD broadcasts video of multifunctional drones participating in the special operation to protect Donbass.txt+eventbasecode10+eventcode10+avgtone0.4824561403508772+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['drone:0.5737', 'reconnaissance:0.4314', 'military:0.3614', 'ukrainian:0.3459', 'moscow:0.308', 'combat:0.2927', 'multifunctional:0.2709', 'broadcast:0.2337', 'equipment:0.2297', 'command:0.1974', 'electronic:0.1944', 'video:0.1926', 'framework:0.1782', 'enemy:0.171', 'protect:0.1707', 'implement:0.1697', 'donbass:0.1622', 'monitor:0.1608', 'use:0.1594', 'various:0.1247', 'trip:0.12', 'post:0.1003', 'participate:0.0979', 'record:0.0904', 'necessary:0.0836', 'orlan:0.0733', 'bear:0.0685', 'precise:0.0679', 'say:0.0608', 'sana:0.0239']+titles_keywords+['drones:0.4948', 'russian:0.3546', 'video:0.3471', 'donbass:0.2918', 'broadcasts:0.2825']"
+        ]
+    ],
+    "SYR+RUS+10":[
+        [
+            "20220628+../news_crawling/RUS_UKR/p_articles/sana.sy/Nikonorova Relations between Donetsk and Syria are developing significantly.txt+eventbasecode10+eventcode10+avgtone0.5172413793103449+goldsteinscale0.5+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['donetsks:0.4703', 'syria:0.4579', 'dmitry:0.3785', 'russian:0.3338', 'nikonorova:0.3018', 'relation:0.258', 'develop:0.2282', 'friendship:0.2101', 'federation:0.2069', 'cooperate:0.1757', 'political:0.1648', 'delegation:0.1592', 'medicine:0.138', 'foreign:0.1165', 'news:0.1126', 'visit:0.112', 'actively:0.1076', 'minister:0.1002', 'interview:0.0929', 'upgrade:0.0808', 'level:0.0802', 'head:0.0639', 'sablin:0.0623', 'say:0.06', 'significantly:0.0591', 'include:0.0507', 'june:0.0393', 'quote:0.0199', 'tass:0.0008', 'remarkable:-0.004']+titles_keywords+['donetsk:0.5408', 'nikonorova:0.4399', 'syria:0.4153', 'relations:0.2954', 'significantly:0.1534']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/sana.sy/Donetsk Peoples Republic We want to join Russia as a republic.txt+eventbasecode10+eventcode10+avgtone0.5+goldsteinscale0.5+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.006578947368421052+news_keywords+['donetsk:0.4892', 'russia:0.3682', 'natalia:0.3026', 'republic:0.2956', 'nikonorova:0.2894', 'join:0.2766', 'remain:0.2046', 'flag:0.1891', 'desire:0.17', 'state:0.1465', 'rush:0.1316', 'fight:0.1161', 'convince:0.1157', 'people:0.1151', 'symbol:0.0961', 'ask:0.0944', 'say:0.0899', 'priority:0.0874', 'thing:0.0864', 'present:0.0791', 'confident:0.0764', 'sana:0.0748', 'reporter:0.0716', 'note:0.0679', 'touch:0.0625', 'website:0.0406', 'quote:0.0294', 'today:0.0221', 'express:0.0183', 'determine:0.0118']+titles_keywords+['donetsk:0.5512', 'russia:0.4323', 'republic:0.4112', 'join:0.3261', 'want:0.2347']"
+        ],
+        [
+            "20220813+../news_crawling/RUS_UKR/p_articles/sana.sy/Donetsk Three civilians killed in Ukrainian shelling on residential areas.txt+eventbasecode10+eventcode10+avgtone0.47126436781609193+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['donetsk:0.4993', 'ukrainian:0.3757', 'kill:0.3312', 'russian:0.284', 'civilian:0.2723', 'bomb:0.2202', 'residential:0.2198', 'peoples:0.2042', 'territories:0.1811', 'shelling:0.1667', 'novosti:0.1609', 'wound:0.135', 'center:0.1097', 'result:0.1015', 'cause:0.1013', 'command:0.0926', 'area:0.0901', 'leadership:0.0692', 'force:0.0685', 'injury:0.0673', 'land:0.0672', 'continue:0.0646', 'say:0.0604', 'statement:0.0581', 'republic:0.0498', 'sana:0.0484', 'ria:0.0387', 'saturday:0.0353', 'announce:0.0304', 'quote:0.0147']+titles_keywords+['donetsk:0.4526', 'civilians:0.3943', 'killed:0.2074', 'residential:0.1822', 'shelling:0.0973']"
+        ]
+    ]
+}

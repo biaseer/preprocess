@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/wqad.com/Sterling church builds more than 500 crosses in support of Ukraine.txt+eventbasecode51+eventcode51+avgtone0.5128458498023716+goldsteinscale0.67+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['cross:0.4722', 'ukraine:0.4136', 'make:0.3288', 'project:0.318', 'symbolize:0.2654', 'god:0.2617', 'east:0.2614', 'sense:0.2603', 'board:0.258', 'invade:0.2549', 'woodworker:0.2522', 'peril:0.2506', 'help:0.2462', 'cut:0.2426', 'rev:0.238', 'paint:0.2367', 'council:0.2279', 'yard:0.2268', 'stand:0.2251', 'town:0.2224', 'happen:0.219', 'metal:0.2174', 'world:0.2145', 'reminder:0.1959', 'time:0.1861', 'good:0.1805', 'free:0.1634', 'little:0.1555', 'sell:0.1544', 'streamline:0.1398']+titles_keywords+['crosses:0.3581', 'ukraine:0.2847', 'sterling:0.2513', 'church:0.189', '500:0.172']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/wqad.com/Ukraine admits Ghost of Kyiv fighter pilot is a myth.txt+eventbasecode51+eventcode51+avgtone0.4970059880239521+goldsteinscale0.67+nummentions0.05370101596516691+numarticles0.05438723712835388+numsources0.05921052631578947+news_keywords+['kyiv:0.5021', 'ukrainians:0.4454', 'poroshenko:0.3602', 'ghost:0.3421', 'tarabalka:0.3347', 'military:0.3204', 'plane:0.2859', 'anonymous:0.2471', 'hero:0.2455', 'alive:0.2304', 'ace:0.2231', 'real:0.2044', 'unrelated:0.2041', 'supposedly:0.1871', 'story:0.179', 'shoot:0.1758', 'president:0.1716', 'wasa:0.1634', 'footage:0.1613', 'publish:0.157', 'information:0.1534', 'uaf:0.1533', 'outlet:0.1437', 'moniker:0.1316', 'embodies:0.1229', 'friday:0.1148', 'increase:0.1064', 'year:0.1023', 'toll:0.0922', 'rightly:0.0823']+titles_keywords+['kyiv:0.4391', 'ghost:0.3315', 'myth:0.3066', 'pilot:0.2728', 'admits:0.0751']"
+        ]
+    ]
+}

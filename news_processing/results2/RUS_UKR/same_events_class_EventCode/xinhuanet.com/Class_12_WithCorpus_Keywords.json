@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+12":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/xinhuanet.com/Kremlin says premature for PutinZelensky meeting.txt+eventbasecode12+eventcode12+avgtone0.5060240963855421+goldsteinscale0.48+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.006578947368421052+news_keywords+['putinzelensky:0.4383', 'putin:0.4334', 'kremlin:0.4217', 'peskov:0.399', 'zelensky:0.396', 'negotiation:0.3927', 'meeting:0.3719', 'briefing:0.2777', 'talk:0.2728', 'belarus:0.272', 'peace:0.2551', 'volodymyr:0.1936', 'presidential:0.1804', 'delegation:0.1715', 'xinhua:0.1662', 'premature:0.1444', 'wednesday:0.1425', 'round:0.1379', 'possible:0.1345', 'breakthrough:0.1295', 'hold:0.1244', 'process:0.1199', 'fourth:0.1157', 'agree:0.106', 'spokesman:0.0805', 'make:0.0728', 'start:0.0692', 'video:0.0644', 'current:0.0545', 'far:0.0358']+titles_keywords+['kremlin:0.4652', 'putinzelensky:0.4652', 'premature:0.3839', 'meeting:0.3275', 'says:0.0319']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/xinhuanet.com/Oil prices rise amid RussiaUkraine tensions.txt+eventbasecode12+eventcode12+avgtone0.47302904564315357+goldsteinscale0.48+nummentions0.036284470246734396+numarticles0.0340826686004351+numsources0.029605263157894735+news_keywords+['geopolitical:0.4423', 'oil:0.432', 'ukraine:0.3839', 'vladimir:0.2859', 'increase:0.2635', 'april:0.253', 'barrel:0.2487', 'tension:0.2249', 'operation:0.2222', 'military:0.2166', 'president:0.214', 'futures:0.2112', 'attack:0.2008', 'texas:0.1928', 'rally:0.1817', 'xinhua:0.1674', 'high:0.1667', 'price:0.1592', 'stockpile:0.1561', 'settle:0.1521', 'sp:0.1514', 'exchange:0.1414', 'intraday:0.1367', 'report:0.131', 'information:0.1262', 'end:0.113', 'intermediate:0.1107', 'according:0.0931', 'benchmark:0.0811', 'authorize:0.0771']+titles_keywords+['oil:0.3217', 'russiaukraine:0.274', 'tensions:0.2166', 'rise:0.215', 'prices:0.1955']"
+        ]
+    ],
+    "SEN+UKR+12":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/xinhuanet.com/African Union calls for lasting ceasefire in Ukraine in call with Putin.txt+eventbasecode12+eventcode12+avgtone0.4880382775119617+goldsteinscale0.48+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.023026315789473683+news_keywords+['ceasefire:0.4867', 'ukraine:0.4007', 'putin:0.385', 'senegal:0.3546', 'humanitarian:0.338', 'evacuate:0.237', 'union:0.2362', 'xinhua:0.2332', 'chairperson:0.2028', 'negotiate:0.193', 'military:0.1909', 'reaffirm:0.1595', 'alignment:0.1574', 'feb:0.1508', 'current:0.1507', 'tweet:0.1484', 'immediate:0.1351', 'solution:0.1279', 'concern:0.1275', 'non:0.1224', 'hold:0.1195', 'brief:0.1181', 'open:0.1098', 'sall:0.1098', 'request:0.1049', 'phone:0.0984', 'faki:0.0814', 'possible:0.0527', 'welcome:0.0477', 'macky:0.0209']+titles_keywords+['ceasefire:0.4256', 'ukraine:0.3907', 'union:0.2377', 'african:0.2324', 'calls:0.1402']"
+        ]
+    ]
+}

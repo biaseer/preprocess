@@ -1,0 +1,17 @@
+{
+    "EUR+UKR+46":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Cyberattack knocks thousands offline in Europe.txt+eventbasecode46+eventcode46+avgtone0.4717391304347826+goldsteinscale0.85+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.009868421052631578+news_keywords+['cyberattacks:0.5197', 'ukraine:0.4174', 'outage:0.384', 'eutelsat:0.3143', 'internet:0.2728', 'armageddon:0.2655', 'disruption:0.2641', 'notify:0.2301', 'nordnet:0.2188', 'globally:0.1994', 'gigawatts:0.1917', 'deploy:0.1878', 'data:0.1866', 'outbreak:0.1832', 'spillover:0.1827', 'dos:0.1805', 'turbine:0.166', 'victim:0.1644', 'shortly:0.1605', 'know:0.1498', 'major:0.1474', 'scenario:0.145', 'combine:0.1427', 'remote:0.1422', 'cover:0.1408', 'ka:0.1209', 'begin:0.1197', 'possible:0.1164', 'subsidiary:0.1156', 'converter:0.1039']+titles_keywords+['cyberattack:0.5359', 'offline:0.2686', 'europe:0.2653', 'thousands:0.2118', 'knocks:0.1297']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Pakistan desires success of RussiaUkraine talks early ceasefire Qureshi.txt+eventbasecode46+eventcode46+avgtone0.5124223602484472+goldsteinscale0.85+nummentions0.102322206095791+numarticles0.07940536620739666+numsources0.08552631578947369+news_keywords+['ukraine:0.4759', 'ceasefire:0.4594', 'pakistans:0.4125', 'islamabad:0.3401', 'humanitarian:0.2796', 'mahmood:0.2328', 'shah:0.2053', 'success:0.1984', 'want:0.1943', 'disaster:0.1771', 'accompany:0.1723', 'news:0.1713', 'talk:0.1657', 'ongoing:0.1532', 'medicine:0.1403', 'dunya:0.1388', 'aircraft:0.1287', 'send:0.1263', 'secretary:0.123', 'nur:0.1195', 'human:0.1147', 'lead:0.0991', 'fm:0.0982', 'problem:0.0952', 'hand:0.0921', 'resolution:0.085', 'lt:0.0787', 'thank:0.06', 'hour:0.0592', 'early:0.0383']+titles_keywords+['ceasefire:0.4291', 'pakistan:0.3719', 'qureshi:0.344', 'russiaukraine:0.2751', 'success:0.2529']"
+        ]
+    ],
+    "RUS+WST+46":[
+        [
+            "20211214+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Putin wants immediate talks with NATO on Russias security.txt+eventbasecode46+eventcode46+avgtone0.47126436781609193+goldsteinscale0.85+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['putin:0.4785', 'crimean:0.4233', 'nato:0.4109', 'diplomatic:0.3387', 'militarily:0.3209', 'kievs:0.3076', 'tensions:0.271', 'annexation:0.2607', 'zelensky:0.2424', 'talk:0.2252', 'separatist:0.2242', 'coordinate:0.2154', 'attack:0.2121', 'order:0.2076', 'news:0.1891', 'drone:0.1885', 'reiterate:0.1739', 'sanction:0.1738', 'hesitate:0.1736', 'continue:0.1667', 'long:0.1644', 'immediately:0.1627', 'plan:0.1618', 'ready:0.1386', 'right:0.1259', 'scramble:0.1251', 'make:0.1067', 'state:0.0983', 'wont:0.0896', 'tens:0.0604']+titles_keywords+['nato:0.4678', 'putin:0.4481', 'immediate:0.2509', 'talks:0.2404', 'security:0.1691']"
+        ]
+    ]
+}

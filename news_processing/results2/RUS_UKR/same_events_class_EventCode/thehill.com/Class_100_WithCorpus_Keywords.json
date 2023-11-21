@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+100":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/thehill.com/A Ukrainian insurgency could drain Russias resources and will.txt+eventbasecode100+eventcode100+avgtone0.46916299559471364+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['counterinsurgency:0.4672', 'ukrainian:0.4472', 'putin:0.3959', 'russias:0.3944', 'nato:0.3927', 'invade:0.3844', 'iraq:0.3712', 'insurgent:0.329', 'oligarchs:0.2698', 'unprovoked:0.2596', 'bashar:0.256', 'tank:0.2344', 'puppet:0.2335', 'peaceful:0.2166', 'ofchechnyaseceded:0.2087', 'outcomes:0.1959', 'advantage:0.1915', 'fight:0.1872', 'abrams:0.1857', 'entail:0.1825', 'know:0.1806', 'want:0.1783', 'protestersduring:0.1745', 'coordinated:0.1707', 'soon:0.1487', 'imagine:0.1403', 'long:0.1333', 'area:0.121', 'period:0.1169', 'resource:0.1153']+titles_keywords+['ukrainian:0.4394', 'russias:0.3987', 'insurgency:0.2944', 'drain:0.1658', 'resources:0.1339']"
+        ]
+    ],
+    "WST+UKR+100":[
+        [
+            "20210614+../news_crawling/RUS_UKR/p_articles/thehill.com/Biden Ukraine must clean up corruption to be admitted to NATO.txt+eventbasecode100+eventcode100+avgtone0.4890510948905109+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.4851', 'putin:0.4485', 'crimea:0.4141', 'zelenskytoldnews:0.3555', 'impeach:0.3295', 'democratic:0.2707', 'presidentvolodymyr:0.2487', 'conflict:0.2454', 'remain:0.244', 'annex:0.231', 'conclude:0.2293', 'concerned:0.2248', 'pledge:0.2242', 'dependonthe:0.2132', 'investigate:0.2097', 'nation:0.2032', 'meet:0.1864', 'ally:0.1766', 'clear:0.1752', 'theorganizationstreaty:0.1723', 'article:0.1704', 'bidens:0.1674', 'convey:0.1589', 'conference:0.1572', 'week:0.1557', 'preclude:0.1476', 'increasingly:0.1468', 'long:0.1464', 'outletsearlier:0.1336', 'yes:0.09']+titles_keywords+['ukraine:0.4357', 'nato:0.4092', 'corruption:0.3614', 'biden:0.351', 'clean:0.2899']"
+        ]
+    ]
+}

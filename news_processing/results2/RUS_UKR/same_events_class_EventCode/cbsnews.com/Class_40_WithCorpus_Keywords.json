@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+40":[
+        [
+            "20211217+../news_crawling/RUS_UKR/p_articles/cbsnews.com/A Russian court document mentioned Russian troops stationed in eastern Ukraine Moscow insists there are.txt+eventbasecode40+eventcode40+avgtone0.4760039177277179+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kremlin:0.4876', 'nato:0.3858', 'sergei:0.3567', 'donetsk:0.3272', 'crimeaaway:0.3261', 'diplomat:0.309', 'invade:0.3079', 'bribery:0.3077', 'government:0.3068', 'court:0.297', 'ceasefire:0.2945', 'standoff:0.2699', 'accusation:0.2609', 'proceed:0.259', 'document:0.238', 'know:0.2284', 'concern:0.227', 'news:0.2216', 'clandestine:0.217', 'insists:0.1927', 'report:0.1924', 'shipment:0.1921', 'forward:0.1602', 'precondition:0.1563', 'possible:0.1381', 'stock:0.119', 'large:0.1052', 'necromancerand:0.0976', 'hour:0.0872', 'sent:0.0662']+titles_keywords+['ukraine:0.4688', 'troops:0.3187', 'court:0.1901', 'insists:0.0812', 'mentioned:0.0487']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220127+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Biden and Ukrainian President Zelenskyy speak amid Russias military buildup.txt+eventbasecode40+eventcode40+avgtone0.5081521739130435+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['diplomacy:0.4478', 'ukraines:0.4447', 'nato:0.4422', 'putin:0.4304', 'invades:0.351', 'biden:0.3168', 'readiness:0.3135', 'escalation:0.3019', 'zelenskyy:0.289', 'adviser:0.2717', 'psaki:0.2668', 'troop:0.2566', 'coordinate:0.2391', 'border:0.2082', 'alert:0.2044', 'thursday:0.1998', 'speak:0.1981', 'know:0.1972', 'deliver:0.186', 'continue:0.1667', 'pull:0.1663', 'twitter:0.153', 'clear:0.1514', 'hope:0.1473', 'readout:0.1415', 'long:0.1382', 'state:0.1319', 'discus:0.1275', 'house:0.0902', 'fully:0.0888']+titles_keywords+['zelenskyy:0.4379', 'biden:0.4262', 'speak:0.3075', 'russias:0.2779', 'military:0.2193']"
+        ]
+    ]
+}

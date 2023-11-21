@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+10":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/wcvb.com/Massachusetts Congressman William Keating speaks about Zoom call with Ukrainian president.txt+eventbasecode10+eventcode10+avgtone0.48119777158774374+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4448', 'putin:0.4237', 'keating:0.3995', 'bombing:0.3946', 'nato:0.3617', 'zelenskyy:0.3493', 'congressman:0.3375', 'terrify:0.2884', 'treaty:0.2841', 'kill:0.2708', 'hostage:0.2629', 'fly:0.2327', 'military:0.2314', 'horrific:0.2081', 'newscenter:0.204', 'entail:0.1911', 'table:0.1896', 'instead:0.1782', 'kindergarten:0.1768', 'represent:0.1683', 'speak:0.1663', 'dormitory:0.1569', 'zone:0.1474', 'address:0.1417', 'th:0.1293', 'hourlong:0.1235', 'statement:0.1165', 'certainly:0.1095', 'recent:0.1058', 'video:0.0954']+titles_keywords+['keating:0.5021', 'zoom:0.2552', 'ukrainian:0.2544', 'president:0.2099', 'speaks:0.1326']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/wcvb.com/President Biden calls atrocities in Ukraine genocide for the first time.txt+eventbasecode10+eventcode10+avgtone0.46262886597938147+goldsteinscale0.5+nummentions0.3454281567489115+numarticles0.34590282813633066+numsources0.3782894736842105+news_keywords+['genocide:0.4778', 'putin:0.4281', 'biden:0.3476', 'ukrainian:0.3073', 'confrontation:0.2754', 'accuse:0.2524', 'hutus:0.2322', 'decide:0.2061', 'clarify:0.1999', 'administration:0.1942', 'trigger:0.1881', 'evidence:0.1744', 'nuclear:0.1714', 'learn:0.1583', 'word:0.1546', 'formally:0.1539', 'bloody:0.1525', 'trip:0.1393', 'washington:0.1332', 'example:0.131', 'wipe:0.1171', 'month:0.1076', 'direct:0.1054', 'sure:0.1004', 'earlier:0.096', 'moral:0.0937', 'price:0.0813', 'carry:0.0701', 'wasnt:0.0685', 'board:0.0667']+titles_keywords+['genocide:0.4525', 'biden:0.373', 'ukraine:0.2878', 'calls:0.1177', 'time:0.0435']"
+        ]
+    ]
+}

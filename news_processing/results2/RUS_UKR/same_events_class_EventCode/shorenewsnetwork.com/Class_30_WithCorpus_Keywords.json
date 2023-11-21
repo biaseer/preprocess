@@ -1,0 +1,12 @@
+{
+    "FRA+UKR+30":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/shorenewsnetwork.com/Ukraine says Russian forces kill seven civilians in evacuation convoy.txt+eventbasecode30+eventcode30+avgtone0.46969696969696967+goldsteinscale0.7+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['ukraine:0.4899', 'kremlin:0.4597', 'ceasefire:0.4351', 'evacuate:0.3842', 'dmitry:0.367', 'diplomatic:0.305', 'invasion:0.2933', 'blockade:0.293', 'escalate:0.2806', 'military:0.2732', 'news:0.235', 'zelenskiy:0.2202', 'turn:0.2092', 'tank:0.2087', 'order:0.1863', 'designate:0.1666', 'world:0.1646', 'ally:0.162', 'writing:0.1584', 'end:0.1576', 'economically:0.1539', 'saturday:0.1463', 'blame:0.1426', 'import:0.1351', 'ready:0.1265', 'ria:0.1264', 'look:0.1236', 'agree:0.1201', 'far:0.1189', 'fruitless:0.1132']+titles_keywords+['ukraine:0.3763', 'civilians:0.369', 'convoy:0.2747', 'seven:0.234', 'says:0.0336']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/shorenewsnetwork.com/Russia Ukraine Reach Grain Export Deal As Food Crisis Worsens.txt+eventbasecode30+eventcode30+avgtone0.48456260720411665+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4122', 'blockade:0.3971', 'war:0.2844', 'maritime:0.2706', 'bosphorus:0.256', 'turkeys:0.2281', 'crisis:0.2263', 'mediate:0.2209', 'import:0.2176', 'shortage:0.2149', 'security:0.2102', 'deal:0.2094', 'grain:0.2078', 'arrangement:0.1968', 'wsj:0.19', 'read:0.1845', 'catastrophic:0.1805', 'passage:0.177', 'org:0.1735', 'report:0.165', 'instead:0.1615', 'immediately:0.1361', 'story:0.1303', 'official:0.1206', 'product:0.1171', 'resume:0.0843', 'agree:0.0826', 'eligible:0.0814', 'accord:0.0665', 'dcnfs:0.0387']+titles_keywords+['ukraine:0.3684', 'grain:0.255', 'deal:0.2317', 'export:0.2033', 'worsens:0.0539']"
+        ]
+    ]
+}

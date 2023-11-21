@@ -1,0 +1,15 @@
+{
+    "FRA+RUS+20":[
+        [
+            "20220629+../news_crawling/RUS_UKR/p_articles/theweek.com/Frances Macron calls Russian strike on Ukrainian mall a new war crime.txt+eventbasecode20+eventcode20+avgtone0.47131147540983603+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4716', 'ukraine:0.444', 'macron:0.4253', 'airstrike:0.368', 'zelensky:0.3503', 'war:0.3458', 'terrorist:0.3175', 'invasion:0.3058', 'kill:0.2739', 'sanction:0.2443', 'strike:0.2415', 'frances:0.2352', 'ambassador:0.2151', 'coincide:0.2105', 'volodymyr:0.2008', 'report:0.1878', 'speak:0.1588', 'shopping:0.1583', 'continue:0.1387', 'child:0.1194', 'chamber:0.1185', 'missing:0.1162', 'feb:0.1153', 'day:0.1044', 'virtually:0.0973', 'dozens:0.093', 'official:0.0908', 'long:0.0606', 'necessary:0.0571', 'add:0.0419']+titles_keywords+['macron:0.3386', 'russian:0.296', 'strike:0.2515', 'crime:0.2412', 'mall:0.1712']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/theweek.com/Russia proposes Ukraine humanitarian corridors that mostly lead to Russia or Belarus.txt+eventbasecode20+eventcode20+avgtone0.4789156626506024+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.467', 'evacuation:0.4357', 'putin:0.3611', 'aleppo:0.3576', 'humanitarian:0.357', 'corridor:0.3565', 'route:0.2615', 'war:0.2586', 'federation:0.2504', 'macron:0.2155', 'aggressor:0.1816', 'rout:0.159', 'narrative:0.1579', 'nonsense:0.1459', 'push:0.1396', 'eastern:0.1395', 'proposal:0.1386', 'people:0.1385', 'news:0.1379', 'vereshchuk:0.1358', 'open:0.1328', 'way:0.1261', 'choice:0.1125', 'number:0.1078', 'arm:0.0991', 'tell:0.0965', 'similar:0.0818', 'agree:0.0733', 'cleverly:0.0542', 'grow:0.0219']+titles_keywords+['ukraine:0.4747', 'corridors:0.3497', 'humanitarian:0.3262', 'proposes:0.096', 'lead:0.0192']"
+        ],
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/theweek.com/Is the RussiaUkraine war a clash of civilizations.txt+eventbasecode20+eventcode20+avgtone0.4758308157099698+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['geopolitical:0.4438', 'russiaukraine:0.4002', 'orthodox:0.3713', 'liberalism:0.3496', 'history:0.2837', 'civilizational:0.2836', 'multicultural:0.2795', 'western:0.261', 'clash:0.2557', 'thesis:0.2449', 'empire:0.2379', 'align:0.2289', 'antagonistic:0.2225', 'bloc:0.2158', 'prediction:0.2079', 'huntington:0.1863', 'douthat:0.1842', 'multipolar:0.179', 'machination:0.1765', 'fashion:0.1756', 'end:0.1673', 'general:0.1619', 'falsify:0.1531', 'stay:0.1527', 'wrong:0.1514', 'divergences:0.1468', 'big:0.1424', 'soon:0.1388', 'fukuyama:0.1266', 'spheres:0.1045']+titles_keywords+['russiaukraine:0.4251', 'war:0.4062', 'civilizations:0.3908', 'clash:0.3407']"
+        ]
+    ]
+}

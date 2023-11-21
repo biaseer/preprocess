@@ -1,0 +1,17 @@
+{
+    "BEL+RUS+40":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/arabherald.com/France ready to assist Ukraine with military equipment says Ukraine Foreign Minister.txt+eventbasecode40+eventcode40+avgtone0.4932203389830508+goldsteinscale0.55+nummentions0.026850507982583455+numarticles0.02755620014503263+numsources0.039473684210526314+news_keywords+['nato:0.5252', 'russia:0.4289', 'kiev:0.3543', 'treaty:0.3494', 'invasion:0.2419', 'sanction:0.2286', 'yves:0.215', 'defend:0.214', 'assistance:0.1931', 'supply:0.186', 'introduce:0.1838', 'friday:0.1723', 'furthermore:0.171', 'biden:0.1659', 'ready:0.1643', 'counterpart:0.1613', 'keiv:0.1608', 'join:0.1538', 'telephonic:0.1461', 'brief:0.1448', 'banking:0.1425', 'breakaway:0.1422', 'seek:0.1336', 'tweet:0.1251', 'swift:0.1153', 'strong:0.1127', 'ani:0.1031', 'dmytro:0.0926', 'hour:0.0819', 'agree:0.0805']+titles_keywords+['ukraine:0.3599', 'equipment:0.1877', 'military:0.1839', 'ready:0.1583', 'assist:0.15']"
+        ]
+    ],
+    "EGY+RUS+40":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/arabherald.com/Egypt Ukraine leaders discuss RussiaUkraine peace talks over phone.txt+eventbasecode40+eventcode40+avgtone0.5115606936416185+goldsteinscale0.55+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['ukraine:0.3851', 'putin:0.3746', 'sisi:0.2955', 'talk:0.2934', 'zelensky:0.2881', 'negotiation:0.2776', 'peaceful:0.2758', 'president:0.2601', 'cairo:0.2525', 'xinhua:0.2354', 'engage:0.2248', 'operation:0.1885', 'counterpart:0.1708', 'addressing:0.1643', 'crisis:0.1638', 'leading:0.1488', 'achieve:0.1392', 'current:0.1298', 'abdel:0.1159', 'emphasize:0.1098', 'bilateral:0.0968', 'phone:0.088', 'wednesday:0.0861', 'brief:0.0808', 'authorize:0.0751', 'start:0.0622', 'second:0.0588', 'level:0.0524', 'rady:0.0276', 'accord:-0.0069']+titles_keywords+['ukraine:0.3434', 'talks:0.2805', 'peace:0.2795', 'leaders:0.1753', 'phone:0.1513']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/arabherald.com/Russia tests antidrone gun in Ukraine media.txt+eventbasecode40+eventcode40+avgtone0.48148148148148145+goldsteinscale0.55+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.013157894736842105+news_keywords+['drone:0.5184', 'ukraine:0.3584', 'weapon:0.3527', 'laser:0.3454', 'antidrone:0.3397', 'dmitry:0.3177', 'electromagnetic:0.3002', 'futuristic:0.2668', 'militia:0.2601', 'deploy:0.236', 'zadira:0.2167', 'range:0.1841', 'research:0.1743', 'source:0.159', 'aim:0.1577', 'projector:0.1544', 'report:0.1483', 'hijack:0.1293', 'look:0.1279', 'news:0.1215', 'stupor:0.1177', 'tass:0.1168', 'interfere:0.1057', 'reportedly:0.0999', 'km:0.0995', 'positive:0.0971', 'familiar:0.0938', 'prime:0.0932', 'sponsor:0.0822', 'send:0.0732']+titles_keywords+['ukraine:0.4254', 'antidrone:0.3645', 'gun:0.3475', 'tests:0.2365', 'media:0.1097']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "POL+UKR+43":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/dorsetecho.co.uk/They were shooting civilians says Ukrainian who fled to Poland for safety.txt+eventbasecode43+eventcode43+avgtone0.4685483870967742+goldsteinscale0.64+nummentions0.13570391872278664+numarticles0.1363306744017404+numsources0.20394736842105263+news_keywords+['ukraine:0.4778', 'refugee:0.4325', 'evacuation:0.3897', 'civilians:0.3749', 'war:0.332', 'blockade:0.3117', 'diekov:0.275', 'contingency:0.2263', 'corridor:0.2211', 'turn:0.1937', 'leave:0.1905', 'privilege:0.1901', 'comply:0.1865', 'displace:0.176', 'prosecutor:0.1666', 'span:0.162', 'continue:0.158', 'evidence:0.1574', 'story:0.145', 'plant:0.1418', 'ihor:0.1394', 'trained:0.1381', 'thousand:0.1239', 'structure:0.1198', 'official:0.1137', 'badly:0.1124', 'right:0.102', 'longer:0.1018', 'eerie:0.0882', 'include:0.0689']+titles_keywords+['ukrainian:0.4323', 'civilians:0.4228', 'shooting:0.3249', 'fled:0.2782', 'says:0.0544']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220201+../news_crawling/RUS_UKR/p_articles/dorsetecho.co.uk/Boris Johnson uses Ukraine trip to urge Russia to step back.txt+eventbasecode43+eventcode43+avgtone0.48214285714285715+goldsteinscale0.64+nummentions0.14150943396226415+numarticles0.14213197969543148+numsources0.1611842105263158+news_keywords+['ukraine:0.4458', 'kremlin:0.4172', 'boris:0.3781', 'diplomatic:0.3532', 'zelensky:0.2637', 'sovereignty:0.2493', 'downing:0.2029', 'aggression:0.2021', 'volodymyr:0.1997', 'president:0.1906', 'trip:0.1825', 'lockdown:0.1717', 'warn:0.1475', 'provide:0.1372', 'debate:0.1364', 'military:0.1343', 'step:0.1322', 'prepare:0.1289', 'surround:0.1246', 'lively:0.1227', 'cross:0.1186', 'street:0.1181', 'important:0.1075', 'right:0.1058', 'say:0.0981', 'misuse:0.0911', 'withdraw:0.0889', 'mr:0.0741', 'prime:0.0645', 'reader:0.0337']+titles_keywords+['boris:0.3593', 'ukraine:0.3589', 'trip:0.1934', 'urge:0.0782', 'uses:-0.0103']"
+        ]
+    ]
+}

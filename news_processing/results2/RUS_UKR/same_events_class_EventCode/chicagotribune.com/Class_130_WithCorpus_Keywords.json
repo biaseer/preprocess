@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/chicagotribune.com/Ukrainian rebels evacuate civilians to Russia amid crisis.txt+eventbasecode130+eventcode130+avgtone0.4676549865229111+goldsteinscale0.27999999999999997+nummentions0.45754716981132076+numarticles0.4579405366207397+numsources0.4473684210526316+news_keywords+['ukraine:0.5114', 'kremlin:0.4928', 'nato:0.4343', 'evacuate:0.3819', 'diplomatic:0.3689', 'war:0.3614', 'disinformation:0.3472', 'cyberattacks:0.3394', 'government:0.3371', 'escalation:0.3294', 'separatist:0.32', 'sinenkov:0.3156', 'pentagon:0.2914', 'news:0.2803', 'uniformed:0.2725', 'president:0.2616', 'organize:0.2352', 'dangerous:0.2343', 'report:0.2299', 'reminder:0.2263', 'casualty:0.2222', 'conjunction:0.2157', 'continue:0.2092', 'donbas:0.1672', 'borderwith:0.1656', 'unchr:0.1629', 'long:0.156', 'ready:0.1445', 'possibility:0.1174', 'agree:0.0994']+titles_keywords+['ukrainian:0.429', 'civilians:0.3765', 'evacuate:0.3715', 'crisis:0.1594', 'amid:0.0228']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/chicagotribune.com/NATO talks with Finland Sweden falter but will continue.txt+eventbasecode130+eventcode130+avgtone0.4994918699186992+goldsteinscale0.27999999999999997+nummentions0.07365747460087083+numarticles0.07432922407541696+numsources0.13815789473684212+news_keywords+['natos:0.5656', 'helsinki:0.3612', 'welcomingfinland:0.3114', 'ukrainespurred:0.2953', 'pentagon:0.2705', 'invade:0.2629', 'diplomatic:0.2532', 'ratification:0.2079', 'join:0.206', 'erdogan:0.2046', 'terror:0.1937', 'pkk:0.1879', 'submit:0.1816', 'alongside:0.1802', 'expand:0.175', 'assurance:0.1734', 'deter:0.1684', 'soon:0.1504', 'jan:0.1443', 'article:0.1391', 'allyto:0.1386', 'armed:0.1379', 'stoltenberg:0.1365', 'state:0.1261', 'note:0.1237', 'upbeat:0.1186', 'tradeoff:0.0932', 'yes:0.0874', 'majority:0.0683', 'welcome:0.0662']+titles_keywords+['nato:0.4227', 'finland:0.3543', 'talks:0.2075', 'falter:0.143', 'continue:0.14']"
+        ]
+    ]
+}

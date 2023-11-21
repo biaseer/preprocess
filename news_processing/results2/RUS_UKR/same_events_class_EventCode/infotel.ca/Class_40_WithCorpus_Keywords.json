@@ -1,0 +1,12 @@
+{
+    "FRA+RUS+40":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/infotel.ca/In 1st big campaign do Macron unveils vision for 2nd term.txt+eventbasecode40+eventcode40+avgtone0.48760330578512395+goldsteinscale0.55+nummentions0.09397677793904209+numarticles0.09463379260333575+numsources0.20723684210526316+news_keywords+['macron:0.5433', 'presidency:0.3821', 'campaign:0.3805', 'frontrunner:0.2987', 'reform:0.296', 'ukraine:0.2826', 'versailles:0.274', 'crisis:0.2437', 'expect:0.2417', 'ahead:0.2402', 'conference:0.231', 'coordinate:0.2272', 'april:0.222', 'argue:0.2093', 'bloc:0.2075', 'pen:0.2058', 'newspaper:0.2055', 'weekend:0.186', 'le:0.1775', 'look:0.1658', 'pension:0.1621', 'big:0.1612', 'bernard:0.1589', 'garrigues:0.1586', 'related:0.1582', 'time:0.1528', 'rotate:0.1528', 'runoff:0.1486', 'percentage:0.114', 'unshaven:0.0961']+titles_keywords+['macron:0.554', 'campaign:0.4159', 'vision:0.2153', 'unveils:0.1634', '1st:0.1523']"
+        ]
+    ],
+    "UKR+VAT+40":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/infotel.ca/Vatican Pope clearly condemns Russias repugnant war.txt+eventbasecode40+eventcode40+avgtone0.47+goldsteinscale0.55+nummentions0.22496371552975328+numarticles0.22552574329224076+numsources0.33223684210526316+news_keywords+['pope:0.4323', 'orthodox:0.3661', 'kyiv:0.3631', 'russias:0.3599', 'war:0.3562', 'condemn:0.2935', 'repugnant:0.2798', 'diplomat:0.2438', 'intervention:0.1912', 'unequivocal:0.173', 'read:0.1634', 'word:0.1467', 'dmytro:0.1422', 'insanity:0.1369', 'victimized:0.1325', 'dramatic:0.1294', 'remark:0.1214', 'view:0.1182', 'issue:0.1143', 'planned:0.1132', 'holy:0.1075', 'come:0.1071', 'apart:0.0956', 'girl:0.0946', 'commentator:0.0885', 'right:0.0815', 'dimension:0.0791', 'ap:0.0717', 'september:0.0632', 'head:0.0409']+titles_keywords+['pope:0.4444', 'repugnant:0.3231', 'russias:0.2917', 'war:0.2734', 'clearly:0.116']"
+        ]
+    ]
+}

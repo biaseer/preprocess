@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Ukraine assessing damage after government websites are taken offline amid cyberattack.txt+eventbasecode180+eventcode180+avgtone0.4783631232361242+goldsteinscale0.05+nummentions0.2155297532656023+numarticles0.21609862218999276+numsources0.3026315789473684+news_keywords+['cyberattack:0.5275', 'ukraine:0.4226', 'kyiv:0.42', 'ukrainian:0.3625', 'government:0.3344', 'russia:0.3121', 'website:0.2665', 'offline:0.2389', 'disruption:0.2382', 'damage:0.227', 'temporarily:0.1861', 'progress:0.1215', 'fail:0.0962', 'friday:0.0957', 'number:0.0938', 'official:0.0931', 'ap:0.0872', 'leave:0.0846', 'talk:0.0764', 'immediately:0.0707', 'assess:0.0638', 'tension:0.0585', 'come:0.0571', 'clear:0.0482', 'west:0.0468', 'significant:0.046', 'amid:0.0438', 'wasnt:0.0377', 'heightened:0.0348', 'yield:-0.0514']+titles_keywords+['cyberattack:0.4747', 'ukraine:0.3675', 'damage:0.2813', 'websites:0.2334', 'offline:0.2082']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Ukraine says it foiled potent Russian cyberattack against its power grid.txt+eventbasecode180+eventcode180+avgtone0.47331154684095855+goldsteinscale0.05+nummentions0.10341074020319303+numarticles0.10406091370558376+numsources0.21052631578947367+news_keywords+['cyberattack:0.4672', 'ukraine:0.4592', 'ukrainians:0.4159', 'outage:0.3556', 'voltage:0.3386', 'russian:0.3273', 'hacker:0.3172', 'electrical:0.3141', 'attack:0.2824', 'power:0.2732', 'disrupt:0.2488', 'grid:0.2129', 'boston:0.2102', 'military:0.2031', 'industrial:0.1935', 'government:0.1748', 'penetrate:0.1698', 'foil:0.163', 'control:0.1613', 'station:0.1477', 'plan:0.1436', 'targeted:0.1055', 'attempt:0.1007', 'high:0.0999', 'tuesday:0.0905', 'million:0.078', 'long:0.0745', 'official:0.0738', 'able:0.0677', 'say:0.0497']+titles_keywords+['ukraine:0.4047', 'cyberattack:0.3968', 'foiled:0.2628', 'grid:0.1488', 'says:0.0389']"
+        ],
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Ukrainian prosecutor tells UN body that Russia has committed war crimes and that its conduct.txt+eventbasecode180+eventcode180+avgtone0.4712328767123287+goldsteinscale0.05+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['genocide:0.4487', 'ukraines:0.3935', 'russia:0.3794', 'war:0.3084', 'investigation:0.3079', 'crime:0.2832', 'prosecutor:0.2544', 'accountability:0.2458', 'atrocity:0.2444', 'nations:0.234', 'abuse:0.2268', 'meeting:0.1937', 'international:0.1696', 'resembles:0.162', 'united:0.1439', 'human:0.1379', 'tell:0.129', 'commission:0.1234', 'chair:0.1183', 'come:0.1167', 'seek:0.1158', 'commit:0.1111', 'right:0.1075', 'include:0.1058', 'chief:0.1001', 'ap:0.0695', 'time:0.0599', 'key:0.0502', 'wednesday:0.0475', 'clooney:0.0072']+titles_keywords+['genocide:0.3989', 'ukrainian:0.3297', 'prosecutor:0.2245', 'resembles:0.0999', 'body:0.0075']"
+        ]
+    ]
+}

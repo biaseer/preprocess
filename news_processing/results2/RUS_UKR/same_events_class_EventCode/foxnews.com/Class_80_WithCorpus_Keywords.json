@@ -1,0 +1,22 @@
+{
+    "EUR+RUS+80":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/foxnews.com/European leaders agree to partial embargo on Russian oil imports in latest round of sanctions.txt+eventbasecode80+eventcode80+avgtone0.47671568627450983+goldsteinscale0.75+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.009868421052631578+news_keywords+['ukraine:0.4677', 'putin:0.4371', 'oil:0.4195', 'embargo:0.383', 'pipeline:0.2747', 'macron:0.2443', 'zelenskyy:0.2151', 'news:0.205', 'viktor:0.1979', 'greenpeace:0.1774', 'finance:0.1591', 'concern:0.1519', 'march:0.1461', 'know:0.1426', 'argue:0.1329', 'cut:0.1326', 'meeting:0.1312', 'turn:0.1271', 'prime:0.1201', 'deliver:0.1168', 'week:0.1125', 'end:0.1097', 'world:0.1094', 'deal:0.1088', 'accord:0.1018', 'course:0.0949', 'additional:0.0925', 'bestfox:0.0538', 'photoolivier:0.0519', 'welcome:0.0463']+titles_keywords+['embargo:0.3799', 'oil:0.2501', 'russian:0.2154', 'partial:0.1438', 'agree:-0.0153']"
+        ]
+    ],
+    "PSE+UKR+80":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/foxnews.com/Russia aims to split Ukraine into 2 countries like Korea Ukrainian intelligence official says.txt+eventbasecode80+eventcode80+avgtone0.4986033519553073+goldsteinscale0.75+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5123', 'putin:0.4084', 'nato:0.3898', 'zelenskyy:0.3018', 'territory:0.2944', 'negotiation:0.2571', 'military:0.2343', 'neutrality:0.2326', 'aggressor:0.2203', 'split:0.2168', 'news:0.2117', 'conclusion:0.21', 'know:0.2057', 'tank:0.2053', 'predict:0.2025', 'destroy:0.201', 'fend:0.1869', 'pull:0.178', 'pivot:0.1771', 'cowardice:0.177', 'structure:0.1759', 'deliver:0.1706', 'donbas:0.1671', 'advance:0.1592', 'office:0.1476', 'similar:0.1422', 'include:0.1251', 'search:0.1143', 'far:0.1072', 'photofelipe:0.0688']+titles_keywords+['ukraine:0.4424', 'split:0.2883', 'aims:0.0206', 'official:-0.003', 'like:-0.0053']"
+        ]
+    ],
+    "RUS+UKR+80":[
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/foxnews.com/Russiabacked separatists say 900 Ukrainian troops surrendered at steel plant disputing earlier figures.txt+eventbasecode80+eventcode80+avgtone0.47413793103448276+goldsteinscale0.75+nummentions0.015965166908563134+numarticles0.01559100797679478+numsources0.029605263157894735+news_keywords+['ukraine:0.4483', 'evacuation:0.4145', 'russiabacked:0.3702', 'surrender:0.3513', 'zelenskyy:0.3478', 'military:0.3219', 'steel:0.2992', 'separatist:0.2933', 'ermochenko:0.2893', 'factory:0.2698', 'humanitarian:0.2616', 'negotiation:0.2556', 'news:0.2516', 'territory:0.2408', 'concern:0.2298', 'know:0.2186', 'dprs:0.2114', 'report:0.1975', 'reutersalexander:0.1935', 'successful:0.1714', 'corridor:0.1695', 'dead:0.1642', 'ap:0.1508', 'people:0.1487', 'april:0.1483', 'follow:0.1386', 'end:0.132', 'nearly:0.1239', 'total:0.1039', 'sent:0.0934']+titles_keywords+['900:0.3724', 'russiabacked:0.284', 'troops:0.2673', 'steel:0.2292', 'disputing:0.1219']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/foxnews.com/Rooftop Revelations Pastor Brooks On Americas failure in Ukraine and the South Side.txt+eventbasecode80+eventcode80+avgtone0.4848800834202294+goldsteinscale0.75+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.013157894736842105+news_keywords+['ukrainians:0.4668', 'crimea:0.4522', 'putin:0.4483', 'nato:0.3562', 'democracy:0.3459', 'nation:0.2772', 'invasion:0.2756', 'nuke:0.243', 'problem:0.2057', 'know:0.2043', 'happen:0.2009', 'evil:0.1979', 'ignore:0.1959', 'hear:0.1889', 'fight:0.1843', 'turn:0.1837', 'want:0.1701', 'weak:0.1688', 'like:0.1654', 'word:0.164', 'aw:0.1622', 'remind:0.1577', 'accompany:0.1569', 'end:0.153', 'collapsed:0.1528', 'saddens:0.1505', 'weve:0.1274', 'million:0.1164', 'chicago:0.1008', 'weekend:0.0793']+titles_keywords+['revelations:0.4093', 'brooks:0.3965', 'rooftop:0.3725', 'ukraine:0.3428', 'pastor:0.3391']"
+        ]
+    ]
+}

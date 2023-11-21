@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Ukraine updates Russian rock singer faces charges for remarks.txt+eventbasecode87+eventcode874+avgtone0.4764890282131662+goldsteinscale1.0+nummentions0.3588534107402032+numarticles0.3593183466279913+numsources0.2532894736842105+news_keywords+['ukraine:0.5408', 'kremlin:0.4261', 'ceasefire:0.3853', 'erdogan:0.3377', 'news:0.3026', 'briefing:0.3016', 'annexed:0.3008', 'coup:0.2852', 'political:0.2768', 'escalation:0.2748', 'sievierodonetsk:0.2603', 'cite:0.23', 'shelipova:0.227', 'know:0.2266', 'stem:0.2192', 'prepare:0.2162', 'future:0.2136', 'centralize:0.2016', 'covid:0.1943', 'counterpart:0.1939', 'write:0.1917', 'bucha:0.1874', 'swap:0.182', 'approve:0.1778', 'longer:0.1713', 'workers:0.1518', 'unprecedented:0.1511', 'total:0.113', 'prosthesis:0.1078', 'enjoy:0.1024']+titles_keywords+['ukraine:0.3062', 'singer:0.2319', 'rock:0.2097', 'charges:0.1907', 'updates:0.067']"
+        ],
+        [
+            "20220702+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Russian forces press assault on eastern Ukrainian city of Lysychansk.txt+eventbasecode87+eventcode874+avgtone0.4762340036563071+goldsteinscale1.0+nummentions0.04970972423802612+numarticles0.05039883973894126+numsources0.29605263157894735+news_keywords+['ukraine:0.4918', 'kremlin:0.4609', 'government:0.3459', 'revolution:0.3413', 'airstrike:0.3314', 'newspaper:0.2927', 'separatist:0.2917', 'diplomatic:0.2883', 'capital:0.2863', 'report:0.278', 'pandemic:0.2759', 'expand:0.2687', 'stab:0.2638', 'lysychansk:0.2614', 'fight:0.2501', 'stem:0.2324', 'behead:0.2303', 'allegation:0.2247', 'source:0.2236', 'day:0.2156', 'remind:0.2003', 'interpret:0.1973', 'quick:0.1943', 'feb:0.191', 'alex:0.1878', 'general:0.1808', 'end:0.1758', 'trucker:0.1532', 'aside:0.1507', 'unblock:0.1287']+titles_keywords+['lysychansk:0.3441', 'ukrainian:0.3307', 'assault:0.251', 'forces:0.1155', 'city:0.1155']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/wknofm.org/Biden warns Putin of a decisive response if Russia invades Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4913294797687861+goldsteinscale0.27999999999999997+nummentions0.12917271407837447+numarticles0.12980420594633793+numsources0.28618421052631576+news_keywords+['crimea:0.4429', 'putin:0.4126', 'invade:0.3685', 'threat:0.2903', 'prepare:0.2783', 'pentagon:0.2749', 'imminent:0.2746', 'biden:0.2634', 'diplomatically:0.2566', 'inform:0.2478', 'troop:0.2459', 'panic:0.2159', 'predictable:0.2139', 'ally:0.1948', 'stay:0.1798', 'order:0.1792', 'table:0.1777', 'repositioning:0.1762', 'increasingly:0.1693', 'consular:0.1665', 'friday:0.1612', 'catastrophic:0.1582', 'stated:0.1489', 'volodymyr:0.1368', 'western:0.1343', 'additional:0.1272', 'unclear:0.1249', 'state:0.1219', 'track:0.0879', 'agree:0.073']+titles_keywords+['putin:0.3925', 'biden:0.3831', 'invades:0.2541', 'decisive:0.2063', 'response:0.2062']"
+        ],
+        [
+            "20220712+../news_crawling/RUS_UKR/p_articles/wknofm.org/Encore Garbage collectors in Kharkiv dodge mortars to pick up the trash.txt+eventbasecode130+eventcode130+avgtone0.45+goldsteinscale0.27999999999999997+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['saltivka:0.3775', 'debris:0.3625', 'war:0.3478', 'artillery:0.3336', 'destroy:0.3301', 'neighborhood:0.3146', 'interpreter:0.2848', 'rows:0.273', 'know:0.2682', 'cab:0.2492', 'booming:0.2485', 'example:0.242', 'normalcy:0.2385', 'menace:0.2367', 'continue:0.233', 'shell:0.2309', 'talk:0.2258', 'fix:0.2226', 'fridges:0.2157', 'byline:0.2065', 'bulletproof:0.2004', 'horrible:0.1919', 'complicate:0.1892', 'month:0.1889', 'npr:0.186', 'far:0.1803', 'left:0.1736', 'come:0.1723', 'lot:0.1722', 'thanks:0.1219']+titles_keywords+['mortars:0.4714', 'dodge:0.3529', 'garbage:0.3524', 'kharkiv:0.3402', 'encore:0.1879']"
+        ]
+    ]
+}

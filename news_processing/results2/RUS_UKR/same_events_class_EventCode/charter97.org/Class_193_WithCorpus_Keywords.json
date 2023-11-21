@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+193":[
+        [
+            "20220506+../news_crawling/RUS_UKR/p_articles/charter97.org/SBU Captured 11 Russian Snipers In Kharkiv Region.txt+eventbasecode193+eventcode193+avgtone0.46428571428571436+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['reconnaissance:0.4623', 'kyiv:0.4401', 'snipers:0.3914', 'russian:0.3724', 'sbu:0.2964', 'security:0.2716', 'sabotage:0.2615', 'war:0.2314', 'region:0.2017', 'detain:0.199', 'aggressor:0.199', 'position:0.1864', 'collaborator:0.1831', 'orientate:0.1762', 'armed:0.1733', 'furthermore:0.171', 'bucha:0.1694', 'expose:0.1668', 'shell:0.1643', 'special:0.1612', 'zhytomyr:0.1544', 'help:0.1534', 'neutralize:0.15', 'begin:0.1386', 'sumy:0.1386', 'data:0.1233', 'group:0.123', 'collect:0.1178', 'number:0.0951', 'mp:0.0705']+titles_keywords+['snipers:0.4695', 'kharkiv:0.3391', 'sbu:0.3389', 'captured:0.2425', '11:0.2149']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/charter97.org/Ukrainian Armed Forces Mortar Troopers Destroy Enemy Column With Accurate Shots.txt+eventbasecode193+eventcode193+avgtone0.471311475409836+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['mortar:0.5084', 'troopers:0.4077', 'brigade:0.4006', 'ostrozhsky:0.3227', 'ukrainian:0.3089', 'enemy:0.289', 'range:0.2811', 'mechanize:0.2637', 'armed:0.2445', 'konstantin:0.2432', 'shots:0.2342', 'column:0.2285', 'destroy:0.2167', 'equipment:0.2165', 'men:0.193', 'shoot:0.1726', 'forces:0.1674', 'video:0.1636', 'obstacle:0.1576', 'accurate:0.1532', 'th:0.1368', 'class:0.1357', 'press:0.13', 'separate:0.1186', 'snow:0.1124', 'report:0.1079', 'service:0.1061', 'caption:0.0999', 'come:0.0823', 'prove:0.0426']+titles_keywords+['mortar:0.4539', 'troopers:0.3176', 'ukrainian:0.3097', 'shots:0.2484', 'accurate:0.1343']"
+        ],
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/charter97.org/Ukrainian Defenders Shot Down Three Russian T72s At Once Including One With Brazier On Turret.txt+eventbasecode193+eventcode193+avgtone0.4945652173913044+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['turret:0.4949', 'ukrainian:0.4254', 'russian:0.4174', 'gerashchenko:0.391', 'brazier:0.2684', 'shot:0.2446', 'defenders:0.2207', 'shoot:0.214', 'anton:0.1546', 'defender:0.141', 'report:0.1189', 'interior:0.047', 'including:0.045', 'head:0.028', 'advisor:-0.0105', 'ministry:-0.0623']+titles_keywords+['turret:0.4489', 'russian:0.3787', 't72s:0.296', 'brazier:0.2493', 'including:0.0858']"
+        ]
+    ]
+}

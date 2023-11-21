@@ -1,0 +1,12 @@
+{
+    "RUS+CHE+20":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/euobserver.com/Zelensky calls for maximum sanctions on Russia in Davos.txt+eventbasecode20+eventcode20+avgtone0.4817596566523605+goldsteinscale0.65+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.5149', 'embargo:0.4287', 'zelensky:0.356', 'war:0.3437', 'ceos:0.3412', 'recession:0.3258', 'political:0.2864', 'pandemic:0.2543', 'meeting:0.2467', 'warn:0.2377', 'habek:0.2313', 'aggressor:0.1971', 'world:0.195', 'plan:0.1933', 'order:0.1869', 'turn:0.1755', 'davos:0.1737', 'response:0.1658', 'current:0.1612', 'precedent:0.1471', 'compare:0.1404', 'increase:0.1379', 'like:0.1344', 'technology:0.131', 'enormous:0.1279', 'dollar:0.1248', 'agree:0.1217', 'robert:0.1094', 'story:0.1074', 'anytime:0.0475']+titles_keywords+['zelensky:0.5281', 'sanctions:0.4229', 'russia:0.2868', 'davos:0.2759', 'maximum:0.1732']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220812+../news_crawling/RUS_UKR/p_articles/euobserver.com/Ukraine urges US to sanction all Russian banks.txt+eventbasecode20+eventcode20+avgtone0.5066666666666667+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5074', 'putin:0.4595', 'bank:0.4275', 'treasury:0.3438', 'sanction:0.3338', 'zelensky:0.2851', 'government:0.2823', 'president:0.2729', 'war:0.2387', 'institution:0.2287', 'ambassador:0.2147', 'oksana:0.2053', 'hear:0.2025', 'volodymyr:0.2017', 'want:0.1962', 'convey:0.1872', 'washington:0.1838', 'list:0.1636', 'markarova:0.1521', 'wage:0.1487', 'end:0.1266', 'help:0.1232', 'private:0.1099', 'feedback:0.1079', 'value:0.1007', 'story:0.0951', 'week:0.0751', 'accord:0.0551', 'appreciate:0.0533', 'ability:0.0354']+titles_keywords+['ukraine:0.4303', 'banks:0.3447', 'sanction:0.3042', 'russian:0.2973', 'urges:0.0341']"
+        ]
+    ]
+}

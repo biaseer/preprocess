@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+193":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Putins approval rate at home soars one month into Ukraine invasion.txt+eventbasecode193+eventcode193+avgtone0.47985347985347987+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.5651', 'ukraines:0.4335', 'moscow:0.369', 'volkov:0.292', 'count:0.2477', 'invasion:0.2323', 'economy:0.2229', 'percentage:0.2007', 'popularity:0.2007', 'poll:0.1982', 'rally:0.163', 'month:0.1608', 'levada:0.1571', 'sanction:0.1559', 'minus:0.1548', 'pentagon:0.1472', 'future:0.1451', 'margin:0.1332', 'soar:0.118', 'seriousness:0.1134', 'outlet:0.1126', 'expert:0.1117', 'point:0.1116', 'acknowledge:0.1114', 'natural:0.1093', 'feel:0.1083', 'big:0.1079', 'head:0.1048', 'begin:0.0933', 'similar:0.0509']+titles_keywords+['putins:0.3667', 'invasion:0.2986', 'month:0.2313', 'home:0.1831', 'rate:0.17']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220729+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Russia Ukraine trade blame for shelling of POW prison.txt+eventbasecode193+eventcode193+avgtone0.4550561797752809+goldsteinscale0.0+nummentions0.06966618287373004+numarticles0.07034082668600435+numsources0.05921052631578947+news_keywords+['kyiv:0.4607', 'russians:0.4083', 'war:0.3407', 'separatist:0.3035', 'attack:0.2886', 'evacuate:0.2871', 'artillery:0.2779', 'mykolaiv:0.257', 'civilian:0.2468', 'occur:0.2439', 'pows:0.206', 'tunnel:0.2002', 'prisoner:0.1867', 'bloody:0.1806', 'worry:0.1771', 'donbas:0.1667', 'kindergarten:0.1649', 'information:0.1635', 'resistance:0.155', 'story:0.153', 'order:0.1515', 'eastern:0.1418', 'month:0.141', 'state:0.1372', 'ihor:0.1312', 'population:0.1275', 'multiple:0.117', 'nearly:0.1154', 'doesnt:0.1064', 'wasnt:0.0582']+titles_keywords+['ukraine:0.3925', 'blame:0.314', 'prison:0.2131', 'trade:0.1924', 'shelling:0.172']"
+        ]
+    ]
+}

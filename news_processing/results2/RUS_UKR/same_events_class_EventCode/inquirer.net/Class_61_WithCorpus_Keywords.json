@@ -1,0 +1,17 @@
+{
+    "DEU+RUS+61":[
+        [
+            "20220410+../news_crawling/RUS_UKR/p_articles/inquirer.net/Scholz and Zelenskiy discuss more sanctions on Russia.txt+eventbasecode61+eventcode61+avgtone0.47066014669926654+goldsteinscale0.82+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4918', 'kremlin:0.4126', 'embargo:0.3615', 'war:0.3308', 'reuters:0.3157', 'zelensky:0.304', 'invasion:0.303', 'crime:0.2678', 'demilitarise:0.248', 'allegation:0.2402', 'president:0.2302', 'scholz:0.1997', 'meeting:0.1942', 'gas:0.1909', 'read:0.1755', 'reject:0.1735', 'import:0.1698', 'terms:0.1585', 'additional:0.1584', 'bucha:0.1437', 'investigated:0.121', 'der:0.1189', 'tweet:0.1053', 'feb:0.0972', 'end:0.0898', 'agree:0.0746', 'far:0.0694', 'bilateral:0.0572', 'possible:0.053', 'download:0.0491']+titles_keywords+['sanctions:0.5058', 'zelenskiy:0.4782', 'scholz:0.3843', 'russia:0.2629', 'discuss:0.1127']"
+        ]
+    ],
+    "GBR+RUS+61":[
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/inquirer.net/Russia steps up missile strikes on Ukraine as G7 leaders gather.txt+eventbasecode61+eventcode61+avgtone0.47142857142857136+goldsteinscale0.82+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.01644736842105263+news_keywords+['kyiv:0.5176', 'putin:0.4458', 'russias:0.4191', 'nato:0.3998', 'war:0.3822', 'missiles:0.3479', 'reuters:0.3165', 'separatist:0.2971', 'evacuate:0.2966', 'read:0.2234', 'sievierodonetsks:0.2229', 'smash:0.2192', 'administration:0.2184', 'sanction:0.2146', 'telegram:0.2128', 'dangerous:0.2057', 'railway:0.1967', 'reiterate:0.1961', 'kindergarten:0.1913', 'terms:0.1857', 'direction:0.185', 'baseless:0.1832', 'enter:0.1696', 'struck:0.1667', 'big:0.1552', 'weekend:0.1435', 'plus:0.1317', 'focus:0.1232', 'dozen:0.1171', 'largely:0.1147']+titles_keywords+['ukraine:0.3668', 'missile:0.2293', 'g7:0.1851', 'strikes:0.1606', 'gather:0.1445']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220604+../news_crawling/RUS_UKR/p_articles/inquirer.net/Hefty fuel price increase seen.txt+eventbasecode61+eventcode61+avgtone0.48642533936651583+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['petroleum:0.4333', 'supply:0.2805', 'june:0.2611', 'quezon:0.26', 'pump:0.2564', 'increased:0.2454', 'news:0.2421', 'read:0.2271', 'pricing:0.2224', 'china:0.2168', 'surge:0.2159', 'weekend:0.2026', 'implement:0.1988', 'refine:0.1812', 'covid:0.1629', 'liter:0.1622', 'benchmark:0.154', 'import:0.1519', 'station:0.1474', 'stakeholder:0.1439', 'unioil:0.1379', 'terms:0.1331', 'driver:0.126', 'determine:0.1253', 'advisory:0.1236', 'subscribe:0.12', 'percent:0.118', 'include:0.0961', 'tricycle:0.0922', 'agree:0.0794']+titles_keywords+['fuel:0.3641', 'increase:0.353', 'price:0.2433', 'hefty:0.1862', 'seen:0.0917']"
+        ]
+    ]
+}

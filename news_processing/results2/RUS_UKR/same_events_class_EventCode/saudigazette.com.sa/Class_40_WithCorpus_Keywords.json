@@ -1,0 +1,15 @@
+{
+    "EUR+UKR+40":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/Ukraine Russia hold highprofile talks as war rages on.txt+eventbasecode40+eventcode40+avgtone0.4743589743589744+goldsteinscale0.55+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['ukraine:0.5298', 'ceasefire:0.4417', 'kremlin:0.4258', 'nato:0.3798', 'okhtyrka:0.2856', 'attack:0.2624', 'annexed:0.2579', 'military:0.2401', 'justify:0.2363', 'crime:0.2223', 'leave:0.205', 'horrific:0.2048', 'enters:0.1978', 'information:0.1954', 'neutral:0.1919', 'counterpart:0.188', 'plan:0.1789', 'secretary:0.1743', 'vote:0.1716', 'discus:0.1703', 'tukey:0.1695', 'thursday:0.1596', 'nearly:0.1477', 'pagenext:0.141', 'child:0.1329', 'false:0.1322', 'house:0.1301', 'expectation:0.1275', 'dehydration:0.0841', 'highprofile:0.0061']+titles_keywords+['ukraine:0.4253', 'war:0.3599', 'talks:0.2869', 'highprofile:0.1435', 'hold:0.1314']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220110+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/US says no breakthrough in frank and forthright talks with Russia over Ukraine border crisis.txt+eventbasecode40+eventcode40+avgtone0.4924623115577889+goldsteinscale0.55+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.01644736842105263+news_keywords+['diplomacy:0.4862', 'nato:0.4556', 'kremlin:0.3838', 'escalation:0.3565', 'invades:0.3314', 'ukrainian:0.3256', 'osce:0.2682', 'maneuver:0.268', 'pursue:0.2533', 'timeline:0.2498', 'adviser:0.2422', 'scope:0.2271', 'concern:0.2201', 'soon:0.2071', 'flank:0.2035', 'prepare:0.202', 'news:0.1979', 'know:0.1842', 'formal:0.1794', 'proposal:0.1789', 'long:0.1673', 'east:0.155', 'intermediate:0.1462', 'deescalating:0.1362', 'make:0.1303', 'state:0.116', 'defines:0.0941', 'prove:0.094', 'possible:0.0769', 'limit:0.0674']+titles_keywords+['ukraine:0.2866', 'border:0.2304', 'talks:0.2032', 'breakthrough:0.1942', 'forthright:0.173']"
+        ],
+        [
+            "20220529+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/Zelenskyy visits front lines in Ukraines battlescarred northeast.txt+eventbasecode40+eventcode40+avgtone0.4910979228486647+goldsteinscale0.55+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5619', 'ukraines:0.4955', 'zelenskyy:0.4642', 'kharkiv:0.3836', 'territory:0.2575', 'volodymyr:0.2445', 'troop:0.2339', 'northeast:0.22', 'visit:0.2174', 'president:0.2051', 'reconstruction:0.1962', 'remain:0.1742', 'andriy:0.1694', 'telegram:0.1659', 'fight:0.1536', 'long:0.1396', 'pagenext:0.136', 'cite:0.134', 'say:0.1295', 'risk:0.1188', 'raise:0.118', 'appearance:0.1069', 'february:0.0995', 'proof:0.0961', 'later:0.0952', 'official:0.0879', 'torn:0.0759', 'battlescarred:0.0672', 'multiple:0.0587', 'new:0.0552']+titles_keywords+['zelenskyy:0.6432', 'ukraines:0.4124', 'battlescarred:0.2351', 'northeast:0.222', 'lines:0.216']"
+        ]
+    ]
+}

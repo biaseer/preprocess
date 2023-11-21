@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+72":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/EXPLAINER Is Stuck Convoy in Ukraine a Setback for Russia.txt+eventbasecode72+eventcode72+avgtone0.4692307692307693+goldsteinscale0.915+nummentions0.1676342525399129+numarticles0.16823785351704135+numsources0.17105263157894737+news_keywords+['convoy:0.4598', 'ukrainian:0.3886', 'logistics:0.3468', 'war:0.3401', 'pentagon:0.2881', 'roadblock:0.2808', 'strategic:0.2564', 'update:0.2557', 'tank:0.2306', 'forward:0.2279', 'muddy:0.2173', 'reassess:0.2041', 'long:0.1972', 'crisis:0.1966', 'kilometer:0.1864', 'lack:0.184', 'success:0.1793', 'overtake:0.1743', 'signal:0.1662', 'coverage:0.1616', 'focus:0.1549', 'stick:0.1443', 'anticipate:0.14', 'macron:0.1336', 'segment:0.1331', 'ready:0.1306', 'explainer:0.1301', 'implication:0.1234', 'combine:0.1234', 'prybisk:0.08']+titles_keywords+['explainer:0.4328', 'convoy:0.4081', 'ukraine:0.3981', 'stuck:0.3305', 'setback:0.2745']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/Ghost Drones Helicopters and Howitzers Heres a Look at the Weapons the US Is Sending.txt+eventbasecode72+eventcode72+avgtone0.49227373068432667+goldsteinscale0.915+nummentions0.03701015965166909+numarticles0.03770848440899202+numsources0.029605263157894735+news_keywords+['drone:0.5054', 'pentagon:0.4158', 'ukraine:0.4047', 'howitzers:0.4035', 'troop:0.3626', 'militarize:0.3555', 'deploy:0.354', 'briefing:0.2915', 'battlefield:0.273', 'taliban:0.2718', 'raytheon:0.2467', 'scope:0.2458', 'prepare:0.2032', 'ghosts:0.2019', 'similar:0.1802', 'variant:0.1716', 'package:0.1667', 'alert:0.1661', 'right:0.1638', 'thursday:0.1615', 'alongside:0.1504', 'radiological:0.1305', 'far:0.1254', 'unman:0.1232', 'transfer:0.1224', 'slat:0.096', 'little:0.0921', 'billion:0.0906', 'wishlists:0.0886', 'martin:0.0865']+titles_keywords+['howitzers:0.5426', 'drones:0.5028', 'ukraine:0.4596', 'ghost:0.2516', 'sending:0.0724']"
+        ]
+    ]
+}

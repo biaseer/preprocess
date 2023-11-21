@@ -1,0 +1,12 @@
+{
+    "KAZ+UKR+14":[
+        [
+            "20220108+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Kazakhstan adds uncertainty to US talks with Russia on Ukraine.txt+eventbasecode14+eventcode14+avgtone0.4780509218612818+goldsteinscale0.5+nummentions0.102322206095791+numarticles0.10297316896301668+numsources0.1118421052631579+news_keywords+['kazakhstan:0.5985', 'putin:0.5159', 'ukrainians:0.3924', 'nato:0.3582', 'diplomatic:0.3212', 'conflate:0.246', 'separatist:0.2377', 'anticipate:0.2346', 'information:0.2334', 'instability:0.2233', 'cartoonists:0.2077', 'committees:0.2062', 'north:0.2031', 'stem:0.1992', 'stage:0.1943', 'pandemic:0.1921', 'crackdown:0.1914', 'behead:0.1902', 'say:0.1878', 'allegation:0.1847', 'period:0.1788', 'monday:0.1783', 'grow:0.1685', 'suddenly:0.1666', 'turn:0.1643', 'volodymyr:0.1603', 'longer:0.1422', 'additional:0.1333', 'decade:0.1179', 'send:0.1013']+titles_keywords+['kazakhstan:0.4732', 'ukraine:0.3579', 'uncertainty:0.3293', 'talks:0.2336', 'adds:-0.0107']"
+        ]
+    ],
+    "UKR+RUS+14":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Biden Putin signal bigger confrontation ahead over Ukraine.txt+eventbasecode14+eventcode14+avgtone0.4698436336559941+goldsteinscale0.5+nummentions0.5007256894049347+numarticles0.5010877447425671+numsources0.9473684210526315+news_keywords+['putin:0.5112', 'nato:0.381', 'invade:0.3617', 'diplomatic:0.3429', 'baltics:0.3397', 'threat:0.332', 'turmoil:0.3297', 'recession:0.3073', 'anticipate:0.3016', 'mobilization:0.2857', 'sanction:0.269', 'formalize:0.2552', 'pretext:0.2362', 'productive:0.2356', 'faceoff:0.234', 'newspaper:0.232', 'pandemic:0.2309', 'know:0.2229', 'brief:0.2151', 'soon:0.2007', 'combine:0.2004', 'podium:0.1916', 'end:0.1859', 'pipeline:0.1779', 'log:0.1686', 'study:0.1594', 'upper:0.1504', 'longer:0.1478', 'ah:0.1438', 'sent:0.0033']+titles_keywords+['putin:0.4321', 'biden:0.3974', 'confrontation:0.3454', 'bigger:0.1399', 'signal:0.0811']"
+        ]
+    ]
+}

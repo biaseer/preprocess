@@ -1,0 +1,19 @@
+{
+    "RUS+UKR+138":[
+        [
+            "20211213+../news_crawling/RUS_UKR/p_articles/freerepublic.com/G7 warns Russia of massive consequences if Ukraine is attacked.txt+eventbasecode138+eventcode138+avgtone0.46226415094339623+goldsteinscale0.15+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['nato:0.4279', 'putin:0.3976', 'moscow:0.3543', 'invade:0.3399', 'reuters:0.3131', 'russophobia:0.3124', 'collusion:0.2711', 'escalate:0.2553', 'veto:0.2493', 'reaction:0.2264', 'dangerous:0.2223', 'satire:0.1914', 'okay:0.1842', 'turn:0.1839', 'intend:0.18', 'end:0.1756', 'history:0.1727', 'wire:0.1703', 'adversae:0.1672', 'think:0.1665', 'wont:0.1645', 'covid:0.1477', 'meet:0.1449', 'vicit:0.1339', 'reindeer:0.1279', 'gb:0.1215', 'theyve:0.1158', 'likewise:0.0956', 'donner:0.0947', 'cost:0.0379']+titles_keywords+['ukraine:0.3774', 'g7:0.2592', 'consequences:0.2591', 'warns:0.2566', 'massive:0.1136']"
+        ],
+        [],
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Trump warns world war could be next as Russia continues invasion in Ukraine.txt+eventbasecode138+eventcode138+avgtone0.4726775956284153+goldsteinscale0.15+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4552', 'ukraine:0.446', 'nato:0.4052', 'war:0.3225', 'rhetoric:0.2711', 'border:0.2586', 'worried:0.2305', 'trigger:0.2257', 'europes:0.2256', 'vp:0.2156', 'boy:0.2096', 'woodrow:0.2037', 'tank:0.1944', 'rinos:0.191', 'news:0.1864', 'isnt:0.1756', 'wrong:0.1755', 'sudden:0.172', 'tell:0.166', 'phony:0.1608', 'forth:0.1583', 'like:0.1581', 'entrap:0.1563', 'come:0.1515', 'script:0.1494', 'end:0.1459', 'excuse:0.1364', 'big:0.1303', 'buy:0.1254', 'wont:0.1168']+titles_keywords+['war:0.3464', 'ukraine:0.3238', 'trump:0.3068', 'warns:0.2265', 'world:0.2181']"
+        ],
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Biden calls to put Putin on trial for war crimes over Russias actions in Ukraine.txt+eventbasecode138+eventcode138+avgtone0.48529411764705876+goldsteinscale0.15+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4644', 'kyiv:0.4473', 'nyt:0.3646', 'timeline:0.3477', 'treason:0.3354', 'report:0.309', 'invade:0.2878', 'surveillance:0.2869', 'provocation:0.2832', 'liberal:0.2788', 'troop:0.2674', 'reorganization:0.2656', 'retweets:0.2528', 'bezopasnosti:0.2397', 'bucha:0.238', 'evidence:0.2273', 'say:0.2212', 'keywords:0.2191', 'priority:0.2061', 'liar:0.1978', 'enter:0.1923', 'biddung:0.1864', 'soon:0.1803', 'gusp:0.1801', 'piece:0.1678', 'lol:0.1574', 'htmlmore:0.1256', 'major:0.1184', 'rf:0.1136', 'far:0.1069']+titles_keywords+['putin:0.3906', 'biden:0.3702', 'war:0.2268', 'trial:0.2057', 'calls:0.1002']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Rising gas prices arent the Putin price hike Theyre the Biden weakness tax.txt+eventbasecode138+eventcode138+avgtone0.456140350877193+goldsteinscale0.15+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putinpricehike:0.5588', 'putin:0.5586', 'ukraines:0.4002', 'trump:0.3693', 'austerity:0.3307', 'disarmament:0.2943', 'gasoline:0.2932', 'supply:0.2912', 'pipeline:0.276', 'invade:0.2634', 'arctic:0.2356', 'divest:0.2322', 'pri:0.2284', 'blame:0.2112', 'trend:0.199', 'learn:0.1981', 'agreement:0.1971', 'coincidence:0.1954', 'increase:0.1947', 'bidens:0.1915', 'arent:0.1873', 'slogan:0.1738', 'weakness:0.1646', 'covid:0.1587', 'funnies:0.1582', 'electric:0.1543', 'relax:0.1515', 'zero:0.1411', 'longer:0.1293', 'house:0.1242']+titles_keywords+['putin:0.4784', 'gas:0.3348', 'tax:0.3108', 'prices:0.1877', 'arent:0.1772']"
+        ]
+    ]
+}

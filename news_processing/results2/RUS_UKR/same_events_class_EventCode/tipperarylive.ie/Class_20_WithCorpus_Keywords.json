@@ -1,0 +1,17 @@
+{
+    "IRL+UKR+20":[
+        [
+            "20220731+../news_crawling/RUS_UKR/p_articles/tipperarylive.ie/Irish president urged to clarify position on Ukraine war following wifes letter.txt+eventbasecode20+eventcode20+avgtone0.471976401179941+goldsteinscale0.65+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['ukraine:0.4112', 'putin:0.3991', 'ceasefire:0.3805', 'irishtimes:0.362', 'conflict:0.2979', 'higgins:0.2973', 'byrne:0.2671', 'editorial:0.2283', 'incumbent:0.2216', 'view:0.1912', 'equivalence:0.1886', 'letter:0.1786', 'persuades:0.1711', 'action:0.1667', 'sabina:0.1553', 'zelenskiy:0.151', 'ongoing:0.1427', 'statement:0.1322', 'criticise:0.1152', 'believe:0.1089', 'agree:0.1073', 'people:0.1062', 'world:0.1053', 'follow:0.0941', 'appalling:0.0876', 'entitle:0.0786', 'cause:0.0773', 'hold:0.077', 'entirely:0.0649', 'draw:0.0476']+titles_keywords+['ukraine:0.2871', 'irish:0.2819', 'president:0.2732', 'clarify:0.1663', 'urged:0.1127']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/tipperarylive.ie/Ukrainians gather outside Dil in anger at Russian invasion.txt+eventbasecode20+eventcode20+avgtone0.4782608695652174+goldsteinscale0.65+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.03289473684210526+news_keywords+['ukraine:0.455', 'putin:0.4075', 'dublin:0.3516', 'invasion:0.3158', 'protester:0.2994', 'oireachtas:0.2809', 'flag:0.2165', 'flanagan:0.2123', 'gather:0.1978', 'crisis:0.1933', 'anger:0.1915', 'visa:0.1897', 'parliament:0.1817', 'waved:0.1767', 'news:0.1605', 'thursday:0.1528', 'enter:0.1228', 'live:0.1136', 'react:0.1121', 'red:0.1097', 'dozens:0.1086', 'varadkar:0.108', 'need:0.096', 'leo:0.0946', 'carry:0.0824', 'balbriggan:0.0763', 'world:0.0736', 'grow:0.0734', 'dil:0.0711', 'try:0.0675']+titles_keywords+['ukrainians:0.4916', 'invasion:0.3527', 'anger:0.2847', 'gather:0.2273', 'dil:0.1983']"
+        ]
+    ],
+    "RUS+USA+20":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/tipperarylive.ie/Biden and Putin hold tense call amid Ukraine crisis.txt+eventbasecode20+eventcode20+avgtone0.48326359832635984+goldsteinscale0.65+nummentions0.27322206095791+numarticles0.2737490935460479+numsources0.4506578947368421+news_keywords+['putin:0.4743', 'crimea:0.465', 'natos:0.4633', 'invade:0.3856', 'provocations:0.2749', 'embassy:0.2692', 'adviser:0.2639', 'olympics:0.2498', 'worried:0.2166', 'plan:0.2146', 'order:0.2105', 'separatist:0.2068', 'misinformation:0.2063', 'soon:0.2034', 'peace:0.2009', 'scenario:0.1859', 'firepower:0.1794', 'meet:0.1785', 'telephone:0.1784', 'know:0.1752', 'rail:0.1684', 'pull:0.167', 'ready:0.1642', 'eastern:0.1629', 'bidens:0.1526', 'additional:0.1515', 'progress:0.1414', 'short:0.1404', 'week:0.137', 'end:0.1353']+titles_keywords+['biden:0.4053', 'putin:0.3738', 'ukraine:0.2927', 'hold:0.1925', 'crisis:0.1706']"
+        ]
+    ]
+}

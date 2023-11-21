@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+194":[
+        [
+            "20220629+../news_crawling/RUS_UKR/p_articles/itv.com/Ukrainians who died in Kremenchuk collateral damage Russian ambassador to UK.txt+eventbasecode194+eventcode194+avgtone0.46204188481675396+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.006578947368421052+news_keywords+['kyiv:0.5571', 'ukrainians:0.4709', 'russias:0.3801', 'kremenchuk:0.3349', 'detonation:0.3228', 'terrorist:0.3086', 'missile:0.3057', 'kill:0.2849', 'attack:0.2754', 'boris:0.2495', 'escalation:0.2432', 'military:0.2405', 'happen:0.2124', 'news:0.2047', 'ambassador:0.1951', 'factory:0.1942', 'know:0.1812', 'worry:0.1657', 'people:0.1526', 'bad:0.1421', 'shop:0.1314', 'collateral:0.1305', 'end:0.1189', 'higher:0.1096', 'centre:0.1006', 'listen:0.0933', 'late:0.0833', 'mr:0.0691', 'doesnt:0.0682', 'sending:0.0465']+titles_keywords+['ukrainians:0.5093', 'kremenchuk:0.4469', 'ambassador:0.3111', 'died:0.2422', 'collateral:0.1832']"
+        ]
+    ],
+    "RUS+UKR+194":[
+        [
+            "20220710+../news_crawling/RUS_UKR/p_articles/itv.com/At least 15 dead and up to 20 buried under rubble as Russian missile hits.txt+eventbasecode194+eventcode194+avgtone0.4697368421052632+goldsteinscale0.0+nummentions0.08635703918722787+numarticles0.08701957940536621+numsources0.13815789473684212+news_keywords+['donetsk:0.5032', 'ukraine:0.4809', 'russians:0.3905', 'rubble:0.3191', 'bombardment:0.3162', 'war:0.2995', 'news:0.2797', 'casualty:0.275', 'region:0.2554', 'truck:0.2391', 'die:0.2375', 'separatist:0.2362', 'know:0.2201', 'donbas:0.2178', 'predict:0.201', 'civilian:0.189', 'lysychansk:0.1811', 'june:0.1615', 'governor:0.1607', 'regroup:0.1591', 'yar:0.1586', 'km:0.1532', 'major:0.1432', 'trap:0.1417', 'raise:0.1401', 'late:0.133', 'pause:0.1257', 'uragan:0.1208', 'true:0.0946', 'include:0.0917']+titles_keywords+['russian:0.374', 'rubble:0.3249', 'hits:0.2733', 'missile:0.2711', '15:0.1888']"
+        ]
+    ]
+}

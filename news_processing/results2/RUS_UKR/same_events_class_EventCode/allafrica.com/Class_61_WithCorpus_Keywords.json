@@ -1,0 +1,12 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/allafrica.com/Africa Potential Solution to Africas Food Crisis.txt+eventbasecode61+eventcode61+avgtone0.49045599151643693+goldsteinscale0.82+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['africa:0.522', 'sustainability:0.4396', 'poverty:0.4236', 'gdp:0.3759', 'malnutrition:0.3441', 'arable:0.3389', 'develop:0.3324', 'instability:0.2819', 'increase:0.2598', 'population:0.2325', 'potential:0.2295', 'problem:0.2274', 'hectare:0.2248', 'nation:0.2153', 'irrigate:0.2086', 'uninhabitable:0.2029', 'feed:0.1961', 'sector:0.1842', 'predict:0.1835', 'report:0.1803', 'current:0.1801', 'importing:0.1429', 'mckinsey:0.1421', 'overlap:0.1383', 'covid:0.134', 'abebe:0.134', 'begin:0.1304', 'ssa:0.1288', 'forgo:0.1077', 'albeit:0.0784']+titles_keywords+['africa:0.5221', 'food:0.393', 'solution:0.28', 'potential:0.273', 'crisis:0.2318']"
+        ]
+    ],
+    "TZA+RUS+61":[
+        [
+            "20220719+../news_crawling/RUS_UKR/p_articles/allafrica.com/African Development Bank Group Approves 735 Million to Boost Food Production in Tanzania.txt+eventbasecode61+eventcode61+avgtone0.5+goldsteinscale0.82+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['agriculture:0.5407', 'tanzania:0.4629', 'poverty:0.4166', 'fertilizer:0.3874', 'fund:0.3711', 'ensure:0.3384', 'supply:0.3155', 'oil:0.3106', 'project:0.2906', 'seed:0.2872', 'diversify:0.2857', 'increase:0.2817', 'affordability:0.265', 'benefit:0.2602', 'approval:0.2498', 'poor:0.2106', 'conflict:0.2086', 'nwabufo:0.2037', 'import:0.1975', 'estimate:0.1874', 'billion:0.1855', 'help:0.1832', 'adverse:0.1758', 'aligns:0.1731', 'covid:0.1598', 'include:0.1594', 'resultant:0.1331', 'rapid:0.1325', 'june:0.1224', 'smallholder:0.1065']+titles_keywords+['tanzania:0.3967', '735:0.2627', 'food:0.2594', 'bank:0.2364', 'approves:0.1658']"
+        ]
+    ]
+}

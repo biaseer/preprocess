@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/kwit.org/Russia calls peace talks a dead end as it preps a new offensive in eastern.txt+eventbasecode20+eventcode20+avgtone0.4591836734693875+goldsteinscale0.65+nummentions0.04898403483309144+numarticles0.049673676577229875+numsources0.049342105263157895+news_keywords+['crimea:0.4778', 'nato:0.4187', 'ukrainians:0.4146', 'putin:0.3655', 'invade:0.3441', 'troop:0.3156', 'zelenskyy:0.3091', 'frontline:0.3062', 'strategic:0.2763', 'artillery:0.2701', 'prepare:0.2496', 'oligarch:0.2443', 'know:0.24', 'fight:0.2395', 'soon:0.2394', 'predict:0.2317', 'organization:0.1889', 'peace:0.1868', 'end:0.1809', 'help:0.17', 'npr:0.1466', 'port:0.1404', 'grow:0.139', 'allegation:0.1335', 'hi:0.1291', 'new:0.1232', 'estrin:0.1158', 'photograph:0.1131', 'achievable:0.1098', 'rotate:0.1033']+titles_keywords+['ukraine:0.293', 'end:0.2785', 'peace:0.2651', 'dead:0.1757', 'preps:0.077']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220120+../news_crawling/RUS_UKR/p_articles/kwit.org/The US is giving Ukraine weapons and political support but not troops.txt+eventbasecode20+eventcode20+avgtone0.51+goldsteinscale0.65+nummentions0.12917271407837447+numarticles0.12980420594633793+numsources0.11513157894736842+news_keywords+['ukraine:0.455', 'nato:0.4117', 'kremlin:0.3566', 'invade:0.3555', 'military:0.2772', 'tank:0.2351', 'correspondent:0.234', 'biden:0.2011', 'shortly:0.1969', 'align:0.1928', 'assistance:0.1872', 'reform:0.1851', 'fight:0.1843', 'explanation:0.1791', 'know:0.1764', 'economic:0.1727', 'weapon:0.1715', 'respond:0.1688', 'perform:0.1517', 'sell:0.1465', 'friendly:0.1462', 'contingent:0.1362', 'nightmare:0.1224', 'lengthy:0.1204', 'make:0.1202', 'sort:0.0854', 'miscalculation:0.0843', 'install:0.0799', 'pifer:0.0764', 'way:0.0608']+titles_keywords+['ukraine:0.4224', 'troops:0.3535', 'weapons:0.1918', 'political:0.1543', 'giving:0.1353']"
+        ]
+    ]
+}

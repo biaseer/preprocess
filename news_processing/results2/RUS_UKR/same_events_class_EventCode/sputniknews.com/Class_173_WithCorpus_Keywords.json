@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+173":[
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/sputniknews.com/LIVE UPDATES 77th Victory Day Military Parade Held in Moscow.txt+eventbasecode173+eventcode173+avgtone0.5067264573991032+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kiev:0.4689', 'soviet:0.443', 'commemorate:0.4017', 'putin:0.3916', 'victory:0.3702', 'parade:0.3492', 'nationalist:0.3128', 'military:0.2576', 'demilitarise:0.2404', 'europe:0.2272', 'sunday:0.2257', 'coup:0.2241', 'nazifying:0.2076', 'happen:0.1935', 'live:0.1748', 'th:0.1691', 'world:0.167', 'activity:0.1605', 'attend:0.1455', 'red:0.1451', 'emphasise:0.1381', 'updates:0.1301', 'year:0.1263', 'central:0.1229', 'great:0.1199', 'held:0.1161', 'generation:0.1092', 'square:0.1079', 'hijack:0.0948', 'value:0.0727']+titles_keywords+['moscow:0.4741', 'parade:0.4436', '77th:0.2675', 'military:0.2474', 'updates:0.226']"
+        ]
+    ],
+    "RUS+WST+173":[
+        [
+            "20211209+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Russian Chief of General Staff Slams Reports About Imminent Invasion of Ukraine as Fake.txt+eventbasecode173+eventcode173+avgtone0.4766734279918864+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.4504', 'russia:0.4202', 'kiev:0.3503', 'gerasimov:0.3446', 'invade:0.3236', 'reconnaissance:0.3076', 'orbit:0.3052', 'threat:0.2778', 'destabilise:0.2531', 'report:0.2108', 'blocs:0.2046', 'tense:0.1945', 'agreement:0.1894', 'creates:0.1656', 'general:0.1645', 'donbas:0.1606', 'dismiss:0.1595', 'decreasing:0.157', 'trilateral:0.1504', 'precondition:0.1493', 'fake:0.1416', 'station:0.1401', 'advocate:0.1299', 'fragment:0.1265', 'direct:0.1174', 'practice:0.1123', 'state:0.1081', 'attache:0.0959', 'month:0.0901', 'unman:0.0761']+titles_keywords+['ukraine:0.313', 'fake:0.2673', 'invasion:0.2344', 'chief:0.1916', 'slams:0.1482']"
+        ]
+    ],
+    "UKR+RUS+173":[
+        [
+            "20211202+../news_crawling/RUS_UKR/p_articles/sputniknews.com/FSB Detains Three Ukrainian Special Agents Who Planned to Blow Up Black Sea Fleet Radio.txt+eventbasecode173+eventcode173+avgtone0.4972677595628415+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimean:0.4381', 'fsb:0.4049', 'sabotage:0.366', 'reconnaissance:0.3275', 'agents:0.3235', 'russia:0.3211', 'directorate:0.2894', 'officer:0.2888', 'detain:0.2858', 'tsylyk:0.2248', 'read:0.1762', 'weapon:0.1682', 'note:0.1677', 'radio:0.1632', 'sea:0.1595', 'plan:0.1586', 'coordinate:0.1383', 'black:0.1356', 'special:0.1332', 'statement:0.1304', 'suppress:0.1304', 'main:0.124', 'consist:0.1235', 'mast:0.1096', 'proven:0.0965', 'short:0.095', 'july:0.0814', 'send:0.0807', 'automatic:0.0773', 'fully:0.0713']+titles_keywords+['fsb:0.3236', 'ukrainian:0.2802', 'agents:0.2298', 'radio:0.202', 'special:0.0625']"
+        ]
+    ]
+}

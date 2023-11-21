@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+14":[
+        [
+            "20220127+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Ireland advises against nonessential travel to Ukraine.txt+eventbasecode14+eventcode14+avgtone0.4842105263157894+goldsteinscale0.5+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4481', 'dublin:0.3289', 'invade:0.3139', 'diplomacy:0.3099', 'taoiseach:0.2665', 'threat:0.2662', 'border:0.2534', 'travel:0.2429', 'military:0.2129', 'crisis:0.2083', 'enact:0.2046', 'advise:0.2042', 'unify:0.1784', 'opposed:0.1479', 'order:0.1347', 'coveney:0.1342', 'understand:0.1336', 'ongoing:0.1256', 'neighbor:0.1206', 'ups:0.1201', 'state:0.1026', 'say:0.0879', 'rule:0.0765', 'nonessential:0.0683', 'focus:0.0556', 'martin:0.0477', 'resolution:0.0389', 'official:0.0337', 'add:0.0177', 'seriously:-0.0026']+titles_keywords+['ukraine:0.4186', 'ireland:0.3712', 'travel:0.1631', 'nonessential:0.1368', 'advises:0.0729']"
+        ]
+    ],
+    "PRT+UKR+14":[
+        [
+            "20220819+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/UN chief warns Russia against cutting nuclear plant from Ukraine grid.txt+eventbasecode14+eventcode14+avgtone0.49890829694323147+goldsteinscale0.5+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['ukraine:0.4941', 'kremlin:0.3882', 'demilitarize:0.3754', 'nuclear:0.3742', 'iaea:0.3405', 'humanitarian:0.3382', 'war:0.3084', 'zelenskyy:0.297', 'warns:0.2827', 'operation:0.2811', 'crisis:0.2567', 'divert:0.2564', 'report:0.2252', 'supply:0.2084', 'plan:0.2082', 'grid:0.2032', 'contact:0.195', 'withdrawn:0.1881', 'capability:0.1854', 'secure:0.1837', 'strike:0.1829', 'continue:0.1776', 'global:0.1739', 'appoint:0.1574', 'reiterating:0.1562', 'fact:0.1357', 'agree:0.1263', 'thursday:0.114', 'guterres:0.1059', 'highlight:0.0843']+titles_keywords+['ukraine:0.3525', 'nuclear:0.3253', 'warns:0.2211', 'grid:0.1637', 'cutting:0.1285']"
+        ]
+    ],
+    "UKR+RUS+14":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Biden believes Putin has decided to invade Ukraine.txt+eventbasecode14+eventcode14+avgtone0.4762357414448669+goldsteinscale0.5+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['putin:0.4825', 'diplomacy:0.4184', 'invades:0.3818', 'disinformation:0.3352', 'kiev:0.3141', 'escalate:0.2616', 'pretext:0.2604', 'crisis:0.2578', 'adviser:0.2572', 'convince:0.2497', 'occur:0.2431', 'plan:0.2426', 'sanction:0.2375', 'warn:0.2266', 'separatist:0.211', 'want:0.2096', 'meet:0.2071', 'logic:0.1927', 'determine:0.1881', 'table:0.1853', 'military:0.1849', 'foreign:0.1749', 'ready:0.1519', 'view:0.1494', 'dark:0.1342', 'line:0.1289', 'possible:0.1251', 'state:0.1216', 'week:0.1161', 'ani:0.0966']+titles_keywords+['putin:0.4608', 'biden:0.426', 'invade:0.3518', 'decided:0.1643', 'believes:0.1554']"
+        ]
+    ]
+}

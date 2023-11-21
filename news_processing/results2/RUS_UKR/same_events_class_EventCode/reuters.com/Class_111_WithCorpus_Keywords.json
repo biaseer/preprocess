@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20210902+../news_crawling/RUS_UKR/p_articles/reuters.com/Kremlin says US military help could make Ukraine behave unpredictably.txt+eventbasecode111+eventcode111+avgtone0.48859934853420195+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.013157894736842105+news_keywords+['ukraine:0.49', 'nato:0.4606', 'kremlin:0.4107', 'dmitry:0.3467', 'reuters:0.2682', 'zelenskiy:0.2348', 'aid:0.2242', 'political:0.2009', 'read:0.197', 'concern:0.1913', 'territorial:0.1879', 'behave:0.1811', 'kill:0.1764', 'reform:0.1721', 'soldier:0.1684', 'biden:0.1529', 'unpredictable:0.1457', 'term:0.1439', 'order:0.1367', 'plan:0.1344', 'note:0.1331', 'long:0.1272', 'donbass:0.1257', 'believe:0.1231', 'gain:0.1216', 'thursday:0.1193', 'force:0.1108', 'potentially:0.0995', 'near:0.0829', 'million:0.0744']+titles_keywords+['kremlin:0.4705', 'ukraine:0.4138', 'military:0.2592', 'unpredictably:0.214', 'behave:0.1788']"
+        ],
+        [
+            "20211002+../news_crawling/RUS_UKR/p_articles/reuters.com/Ukraine to sanction participants in Russian vote in separatistheld area.txt+eventbasecode111+eventcode111+avgtone0.4782608695652174+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5312', 'election:0.4557', 'kremlin:0.4189', 'annexation:0.3651', 'sanction:0.3603', 'separatist:0.3211', 'ceasefire:0.3179', 'participant:0.288', 'oleksiy:0.2622', 'reuters:0.2505', 'federation:0.2197', 'danilov:0.2164', 'passport:0.1974', 'occupied:0.1698', 'televise:0.1686', 'grabs:0.1675', 'fight:0.1626', 'secretary:0.1502', 'end:0.1402', 'right:0.1397', 'apply:0.1364', 'read:0.136', 'step:0.1217', 'brief:0.1101', 'control:0.1101', 'friday:0.1078', 'despite:0.1032', 'confident:0.1004', 'dozens:0.0923', 'deadly:0.0844']+titles_keywords+['ukraine:0.473', 'sanction:0.3853', 'separatistheld:0.2455', 'participants:0.2321', 'vote:0.215']"
+        ]
+    ]
+}

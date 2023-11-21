@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+72":[
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/chosun.com/Russians Buy Last Goods from HM IKEA as Stores Wind down.txt+eventbasecode72+eventcode72+avgtone0.5016501650165016+goldsteinscale0.915+nummentions0.1955732946298984+numarticles0.19253081943437272+numsources0.20394736842105263+news_keywords+['russians:0.5346', 'putin:0.4387', 'minsk:0.4186', 'ikea:0.3022', 'logistics:0.2688', 'stock:0.2604', 'nestle:0.2489', 'operate:0.2375', 'import:0.228', 'department:0.2275', 'vkusno:0.2226', 'country:0.2224', 'make:0.2155', 'fashion:0.2021', 'leonid:0.1995', 'example:0.186', 'goods:0.1768', 'president:0.1756', 'halt:0.1679', 'say:0.1603', 'forward:0.1585', 'sadden:0.155', 'month:0.1543', 'marks:0.1431', 'expect:0.1378', 'reach:0.1329', 'billion:0.122', 'continued:0.1158', 'nonessential:0.1143', 'ap:0.1017']+titles_keywords+['ikea:0.5534', 'russians:0.3756', 'goods:0.2427', 'buy:0.2151', 'hm:0.137']"
+        ]
+    ],
+    "USA+UKR+72":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/chosun.com/Russia Claims It Has 97 Control of Ukraines Luhansk Province.txt+eventbasecode72+eventcode72+avgtone0.4982993197278911+goldsteinscale0.915+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['ukraine:0.5144', 'putin:0.4576', 'zelenskyy:0.3066', 'occupy:0.2976', 'tactic:0.277', 'weaponry:0.2699', 'capital:0.2603', 'news:0.2439', 'scare:0.2428', 'crisis:0.237', 'ahead:0.2342', 'protect:0.2313', 'sanction:0.2273', 'topple:0.22', 'afp:0.211', 'adviser:0.1962', 'refer:0.1925', 'civilian:0.1809', 'leave:0.1785', 'donbas:0.1781', 'allow:0.1777', 'range:0.1755', 'counteroffensive:0.1662', 'yellen:0.1574', 'list:0.1453', 'long:0.1448', 'receive:0.1431', 'unblock:0.1227', 'plus:0.1198', 'percent:0.0588']+titles_keywords+['ukraines:0.4443', 'luhansk:0.4328', 'control:0.1373', 'claims:0.136', '97:0.1135']"
+        ]
+    ]
+}

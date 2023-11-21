@@ -1,0 +1,20 @@
+{
+    "PRT+UKR+12":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/thejournal.ie/Biden says Russian attack on Ukraine remains very much a possibility.txt+eventbasecode12+eventcode12+avgtone0.4877300613496932+goldsteinscale0.48+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.013157894736842105+news_keywords+['ukraine:0.4698', 'kremlin:0.4098', 'nato:0.3978', 'diplomacy:0.3664', 'escalation:0.3159', 'invades:0.2939', 'cyberattack:0.2774', 'destabilise:0.2589', 'biden:0.2573', 'urgent:0.25', 'prepare:0.2459', 'news:0.2332', 'agreement:0.2303', 'rhetoric:0.2298', 'troop:0.2173', 'remain:0.2075', 'respond:0.2072', 'regarding:0.203', 'pipeline:0.202', 'rail:0.1942', 'contingency:0.1939', 'want:0.1859', 'choreograph:0.171', 'forget:0.1674', 'clear:0.1673', 'whip:0.164', 'resume:0.1442', 'possibility:0.1234', 'importer:0.1188', 'doesnt:0.0434']+titles_keywords+['ukraine:0.3309', 'biden:0.3073', 'attack:0.2453', 'possibility:0.2412', 'remains:0.103']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/thejournal.ie/Russia warns US of consequences of sending Ukraine more military aid.txt+eventbasecode12+eventcode12+avgtone0.4882860665844636+goldsteinscale0.48+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4844', 'nato:0.4575', 'war:0.3475', 'diplomatic:0.3298', 'blockade:0.3214', 'zelenskyy:0.2886', 'naval:0.2865', 'escalate:0.2716', 'unprovoked:0.2673', 'information:0.2613', 'prepare:0.2609', 'cnn:0.2501', 'concerned:0.2468', 'cite:0.239', 'report:0.2295', 'indicate:0.2172', 'counterpart:0.2164', 'additional:0.216', 'biden:0.2055', 'howitzer:0.2012', 'forward:0.1979', 'unpredictable:0.1868', 'follow:0.1822', 'horrific:0.1816', 'bucha:0.1807', 'make:0.1664', 'monthly:0.1568', 'precisely:0.1538', 'sure:0.1478', 'weve:0.0969']+titles_keywords+['ukraine:0.3903', 'warns:0.2168', 'aid:0.2138', 'military:0.181', 'sending:0.0725']"
+        ],
+        [
+            "20220526+../news_crawling/RUS_UKR/p_articles/thejournal.ie/Government to investigate Ukrainian concerns over accommodation centres.txt+eventbasecode12+eventcode12+avgtone0.5057736720554273+goldsteinscale0.48+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.013157894736842105+news_keywords+['refugee:0.5234', 'ukrainian:0.4114', 'citizenship:0.3858', 'accommodation:0.3807', 'ethnicity:0.3789', 'kremlin:0.3463', 'ireland:0.341', 'concern:0.3258', 'department:0.3217', 'directive:0.285', 'invasion:0.2824', 'guise:0.2703', 'investigate:0.2587', 'claim:0.2534', 'information:0.2395', 'article:0.2394', 'neighbouring:0.2268', 'understand:0.2014', 'stay:0.2011', 'procure:0.2006', 'help:0.2002', 'equality:0.1982', 'integration:0.1782', 'paywalls:0.1714', 'varadkar:0.1562', 'resolution:0.1507', 'botp:0.1405', 'sure:0.1346', 'long:0.1202', 'versa:0.1095']+titles_keywords+['ukrainian:0.4274', 'accommodation:0.3705', 'government:0.2479', 'concerns:0.2303', 'investigate:0.2216']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/thejournal.ie/Peace talks prove unsuccessful as Ukraine vows it will not surrender.txt+eventbasecode12+eventcode12+avgtone0.482078853046595+goldsteinscale0.48+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.006578947368421052+news_keywords+['ceasefire:0.5267', 'ukraine:0.5009', 'kremlin:0.4243', 'sergei:0.3754', 'diplomatic:0.3731', 'accomplish:0.2831', 'talk:0.2696', 'kuleba:0.2646', 'table:0.2515', 'reporter:0.2466', 'agreement:0.2414', 'counterpart:0.2316', 'narrative:0.2212', 'meet:0.2149', 'want:0.1995', 'land:0.1969', 'repeat:0.1964', 'long:0.1869', 'besiege:0.1843', 'dmytro:0.176', 'corridor:0.1649', 'position:0.1577', 'format:0.1567', 'matter:0.1536', 'people:0.153', 'ready:0.151', 'tense:0.148', 'emerge:0.1119', 'paywalls:0.0757', 'unfortunately:0.0621']+titles_keywords+['ukraine:0.3341', 'surrender:0.2703', 'peace:0.2549', 'unsuccessful:0.2292', 'prove:0.0726']"
+        ]
+    ]
+}

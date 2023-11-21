@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+62":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine conflict Simple visual guide to the Russian invasion.txt+eventbasecode62+eventcode62+avgtone0.47817189631650747+goldsteinscale0.8699999999999999+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['ukraine:0.5418', 'putin:0.405', 'nato:0.3907', 'invade:0.3398', 'separatist:0.3287', 'conflict:0.3192', 'military:0.28', 'oil:0.2284', 'gunfire:0.2278', 'border:0.2259', 'boris:0.2156', 'underway:0.2046', 'map:0.2012', 'leave:0.1862', 'tank:0.1823', 'shelter:0.1813', 'people:0.1732', 'future:0.1652', 'surge:0.165', 'know:0.1584', 'report:0.1447', 'long:0.1383', 'order:0.1328', 'investor:0.1192', 'arm:0.1101', 'normal:0.0913', 'significance:0.0861', 'agree:0.074', 'thousand:0.0733', 'restore:0.0066']+titles_keywords+['ukraine:0.4818', 'invasion:0.3225', 'conflict:0.2844', 'guide:0.2467', 'visual:0.2036']"
+        ]
+    ],
+    "RUS+UKR+62":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/War in Ukraine Inside Chernobyl after the Russian occupation.txt+eventbasecode62+eventcode62+avgtone0.48+goldsteinscale0.8699999999999999+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['chernobyl:0.6843', 'ukraine:0.5312', 'russian:0.3585', 'war:0.3401', 'invasion:0.3284', 'troop:0.2907', 'journalists:0.2743', 'north:0.2315', 'plant:0.2193', 'country:0.2125', 'bbc:0.2102', 'occupation:0.1854', 'limaye:0.1755', 'inside:0.1718', 'seize:0.1702', 'enter:0.15', 'work:0.1479', 'people:0.1422', 'arm:0.1359', 'force:0.0996', 'speak:0.0979', 'day:0.092', 'site:0.0883', 'yogita:0.0456']+titles_keywords+['chernobyl:0.6631', 'ukraine:0.4569', 'war:0.3418', 'inside:0.1477', 'occupation:0.142']"
+        ]
+    ]
+}

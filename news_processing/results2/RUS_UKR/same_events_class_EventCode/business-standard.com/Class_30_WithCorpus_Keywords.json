@@ -1,0 +1,20 @@
+{
+    "FRA+UKR+30":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/business-standard.com/France says Putin is not ready to end Ukraine war fighting rages.txt+eventbasecode30+eventcode30+avgtone0.4763113367174281+goldsteinscale0.7+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['putin:0.4828', 'ukraine:0.4582', 'kyiv:0.4025', 'russian:0.3716', 'vladimir:0.3665', 'france:0.3384', 'war:0.3322', 'evacuate:0.3206', 'readiness:0.29', 'ready:0.245', 'threaten:0.2358', 'president:0.2086', 'fighting:0.2042', 'end:0.1998', 'fight:0.1954', 'civilian:0.1608', 'saturday:0.1458', 'near:0.1285', 'rage:0.1143', 'say:0.1118', 'rag:0.1075', 'trap:0.0945', 'shell:0.0884', 'new:0.0752', 'attempt:0.0633', 'area:0.0317', 'heavy:0.0155']+titles_keywords+['putin:0.3983', 'france:0.276', 'fighting:0.2338', 'end:0.125', 'ready:0.1158']"
+        ]
+    ],
+    "RUS+BLR+30":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/business-standard.com/Ukrainian border guard agency says Russian army attacked from Belarus.txt+eventbasecode30+eventcode30+avgtone0.5049180327868852+goldsteinscale0.7+nummentions0.03701015965166909+numarticles0.03770848440899202+numsources0.029605263157894735+news_keywords+['belarus:0.4864', 'kyiv:0.3755', 'russian:0.3184', 'attack:0.3095', 'invasion:0.2934', 'border:0.2859', 'artillery:0.2701', 'military:0.2579', 'barrage:0.234', 'guard:0.1933', 'headline:0.1718', 'casualty:0.1612', 'report:0.157', 'drill:0.1384', 'prelude:0.1234', 'ally:0.1222', 'capital:0.1172', 'business:0.1103', 'feed:0.1079', 'neighbour:0.1077', 'syndicate:0.1039', 'auto:0.097', 'west:0.0827', 'rework:0.071', 'picture:0.0689', 'km:0.0685', 'say:0.0667', 'saw:0.0569', 'add:0.0232', 'generate:0.0206']+titles_keywords+['belarus:0.3713', 'army:0.2515', 'attacked:0.2508', 'border:0.2293', 'says:0.0115']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/business-standard.com/RussiaUkraine crisis Prez Zelenskyy welcomes offers to moderate talks.txt+eventbasecode30+eventcode30+avgtone0.5167224080267558+goldsteinscale0.7+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.003289473684210526+news_keywords+['ukraine:0.4607', 'erdogan:0.4319', 'nato:0.419', 'diplomacy:0.4184', 'aliyev:0.3999', 'zelenskyy:0.3353', 'negotiate:0.2997', 'talk:0.249', 'crisis:0.2484', 'prez:0.2299', 'moderate:0.2251', 'neutral:0.1986', 'headline:0.1966', 'feed:0.1946', 'join:0.1901', 'appear:0.181', 'message:0.1731', 'organise:0.1669', 'syndicate:0.1657', 'recep:0.1463', 'say:0.1424', 'advance:0.1362', 'staff:0.1316', 'friday:0.1233', 'movement:0.1209', 'generate:0.1162', 'picture:0.1132', 'welcome:0.1031', 'auto:0.0616', 'sputter:0.0534']+titles_keywords+['zelenskyy:0.5541', 'russiaukraine:0.3225', 'talks:0.2697', 'moderate:0.2162', 'welcomes:0.1065']"
+        ],
+        [
+            "20220512+../news_crawling/RUS_UKR/p_articles/business-standard.com/Ukraine blames Russia for gas transit interruption to European consumers.txt+eventbasecode30+eventcode30+avgtone0.4935304990757856+goldsteinscale0.7+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['ukraine:0.4218', 'transit:0.3485', 'gas:0.3408', 'gazprom:0.2589', 'novopskov:0.2468', 'conflict:0.2276', 'interrupt:0.22', 'operation:0.1981', 'accuse:0.1855', 'technical:0.1835', 'interference:0.1768', 'interconnection:0.1756', 'report:0.1708', 'cause:0.1623', 'feed:0.159', 'consumer:0.1442', 'headline:0.1402', 'control:0.1319', 'unauthorized:0.1149', 'meter:0.1127', 'schedule:0.1126', 'fell:0.102', 'intshsonly:0.0909', 'rework:0.0845', 'picture:0.0839', 'april:0.0779', 'start:0.0737', 'maximum:0.0672', 'generate:0.0565', 'percent:0.0516']+titles_keywords+['ukraine:0.4685', 'transit:0.2976', 'blames:0.273', 'gas:0.2671', 'interruption:0.2047']"
+        ]
+    ]
+}

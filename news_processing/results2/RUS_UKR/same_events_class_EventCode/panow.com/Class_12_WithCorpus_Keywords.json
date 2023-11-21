@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+12":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/panow.com/Ukrainian community in Canada hopeful but on edge as tensions escalate with Russia.txt+eventbasecode12+eventcode12+avgtone0.49347826086956526+goldsteinscale0.48+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.019736842105263157+news_keywords+['kyiv:0.5734', 'ukraine:0.5301', 'saskatoon:0.4107', 'evacuation:0.3456', 'canada:0.2989', 'stay:0.2672', 'escalate:0.2623', 'crisis:0.2504', 'calm:0.2421', 'live:0.2311', 'iryna:0.2298', 'capital:0.2203', 'community:0.2107', 'plan:0.1994', 'help:0.1959', 'news:0.1827', 'sister:0.1651', 'soon:0.1574', 'hopeful:0.1372', 'weekend:0.1354', 'wont:0.1332', 'matsiuk:0.1323', 'start:0.1254', 'edge:0.1226', 'area:0.1225', 'hop:0.1206', 'say:0.1131', 'way:0.109', 'big:0.1041', 'actually:0.0827']+titles_keywords+['ukrainian:0.4712', 'canada:0.2531', 'tensions:0.248', 'community:0.2021', 'hopeful:0.1821']"
+        ]
+    ],
+    "RUS+CAN+12":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/panow.com/SaskTel waiving fees for calls texts to Ukraine.txt+eventbasecode12+eventcode12+avgtone0.4925925925925926+goldsteinscale0.48+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.3873', 'sasktel:0.3811', 'province:0.2963', 'canada:0.2947', 'landline:0.2726', 'roaming:0.2668', 'messaging:0.2145', 'text:0.2037', 'international:0.1976', 'overages:0.1743', 'fee:0.1704', 'data:0.1646', 'wireless:0.1459', 'crown:0.1354', 'distance:0.1278', 'connect:0.1248', 'wont:0.1232', 'charge:0.1219', 'send:0.1113', 'business:0.0907', 'help:0.0902', 'waive:0.0867', 'announce:0.0777', 'long:0.0656', 'make:0.0468', 'collect:0.0459', 'friday:0.0224', 'people:0.0185', 'currently:0.0103', 'friend:-0.007']+titles_keywords+['sasktel:0.4267', 'ukraine:0.3261', 'fees:0.3128', 'calls:0.2867', 'texts:0.2261']"
+        ]
+    ]
+}

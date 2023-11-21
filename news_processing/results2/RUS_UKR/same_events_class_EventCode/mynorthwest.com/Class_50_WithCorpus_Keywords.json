@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+50":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/As West tries to force Russia from Ukraine endgame elusive.txt+eventbasecode50+eventcode50+avgtone0.47507190795781395+goldsteinscale0.675+nummentions0.25036284470246734+numarticles0.25090645395213923+numsources0.20065789473684212+news_keywords+['putin:0.4944', 'ukraines:0.4312', 'nato:0.409', 'diplomacy:0.402', 'bloodshed:0.298', 'assassinate:0.2765', 'aggressor:0.2366', 'sanction:0.2261', 'border:0.2225', 'end:0.2207', 'remain:0.2148', 'soon:0.2103', 'warn:0.2032', 'realize:0.1981', 'long:0.1954', 'implication:0.1948', 'advance:0.1926', 'orbit:0.186', 'order:0.1833', 'rewritten:0.1818', 'uncertainty:0.1715', 'arent:0.161', 'term:0.1603', 'contemporary:0.1601', 'fruitless:0.1452', 'direct:0.1402', 'state:0.1297', 'focus:0.1215', 'terrible:0.1143', 'lean:0.1078']+titles_keywords+['endgame:0.4755', 'ukraine:0.3788', 'west:0.2097', 'elusive:0.1845', 'force:0.1262']"
+        ]
+    ],
+    "RUS+UKR+50":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/UN aid chief Im not optimistic about Ukraine ceasefire.txt+eventbasecode50+eventcode50+avgtone0.4900142653352354+goldsteinscale0.675+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.06578947368421052+news_keywords+['ceasefires:0.5662', 'kyiv:0.45', 'nato:0.3507', 'evacuate:0.3334', 'geography:0.2326', 'progress:0.2215', 'bleak:0.2075', 'know:0.207', 'secure:0.2063', 'closer:0.1946', 'representatives:0.1869', 'cross:0.1867', 'secretary:0.1852', 'uns:0.1799', 'accompany:0.179', 'want:0.1789', 'talk:0.178', 'rewritten:0.1705', 'short:0.1696', 'corridor:0.1665', 'end:0.164', 'flow:0.1623', 'people:0.1615', 'wrap:0.1613', 'understanding:0.1566', 'tomorrow:0.149', 'shmyhal:0.148', 'apart:0.1465', 'ap:0.1434', 'reach:0.1084']+titles_keywords+['ceasefire:0.4669', 'ukraine:0.3717', 'aid:0.3403', 'optimistic:0.2915', 'chief:0.1395']"
+        ]
+    ]
+}

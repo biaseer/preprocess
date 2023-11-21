@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/wtsp.com/CPAC straw poll DeSantis top choice for 2024 if Trump doesnt run.txt+eventbasecode190+eventcode190+avgtone0.49277978339350176+goldsteinscale0.0+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['trump:0.4905', 'electoral:0.4047', 'gop:0.3879', 'desantis:0.3626', 'rhetoric:0.2789', 'straw:0.278', 'midterm:0.2599', 'choice:0.2526', 'victory:0.2409', 'hear:0.2358', 'orlando:0.2293', 'virginias:0.2266', 'cpac:0.2248', 'allegation:0.2221', 'keynote:0.2119', 'pivot:0.2064', 'recent:0.2032', 'crowd:0.1986', 'weve:0.1959', 'ironclad:0.1916', 'hawley:0.1903', 'big:0.1862', 'exclude:0.1821', 'like:0.1821', 'screen:0.1753', 'run:0.1729', 'ominous:0.1708', 'altogether:0.1548', 'youngkin:0.1474', 'remind:0.1464']+titles_keywords+['desantis:0.6758', 'trump:0.3767', '2024:0.3486', 'choice:0.2726', 'cpac:0.2396']"
+        ],
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/wtsp.com/Ukraine Tone improves in Russia talks even as Kyiv is hit.txt+eventbasecode190+eventcode190+avgtone0.473568281938326+goldsteinscale0.0+nummentions0.14622641509433962+numarticles0.14684554024655547+numsources0.18421052631578946+news_keywords+['kyiv:0.5304', 'putin:0.3952', 'demilitarize:0.3727', 'airstrikes:0.3535', 'nato:0.3393', 'news:0.2595', 'progress:0.2394', 'conflict:0.2256', 'troop:0.22', 'humanitarian:0.2173', 'leave:0.216', 'extend:0.2099', 'turn:0.2093', 'hear:0.2067', 'deliver:0.1996', 'calm:0.1981', 'mush:0.1959', 'neutral:0.1924', 'administration:0.1911', 'realize:0.1872', 'travel:0.1859', 'corridor:0.1753', 'kilometer:0.1729', 'brace:0.1638', 'curfew:0.1603', 'world:0.1558', 'long:0.1463', 'major:0.132', 'way:0.1233', 'true:0.0841']+titles_keywords+['kyiv:0.5147', 'tone:0.2626', 'talks:0.2289', 'improves:0.2207', 'hit:0.0816']"
+        ]
+    ]
+}

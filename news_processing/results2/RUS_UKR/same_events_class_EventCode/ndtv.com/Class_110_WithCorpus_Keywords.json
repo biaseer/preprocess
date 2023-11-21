@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+110":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/ndtv.com/New Delhi In Discussion To Buy Discounted Moscow Oil.txt+eventbasecode110+eventcode110+avgtone0.47354497354497355+goldsteinscale0.4+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['putin:0.4481', 'ukraine:0.4283', 'oil:0.372', 'supply:0.3502', 'rouble:0.33', 'embargo:0.295', 'rupee:0.2916', 'diplomatic:0.2724', 'delhi:0.2453', 'federation:0.2312', 'trade:0.2037', 'crude:0.1914', 'dispute:0.1773', 'report:0.1734', 'option:0.1472', 'look:0.1373', 'plunge:0.1255', 'importer:0.1255', 'data:0.1247', 'mr:0.1222', 'increasingly:0.1221', 'mechanism:0.1197', 'story:0.1153', 'short:0.1081', 'begin:0.1062', 'tuesday:0.0932', 'enjoy:0.0869', 'agree:0.0823', 'set:0.0719', 'ndtv:0.0685']+titles_keywords+['delhi:0.3696', 'moscow:0.3634', 'oil:0.3625', 'buy:0.2557', 'new:0.1485']"
+        ]
+    ],
+    "UKR+RUS+110":[
+        [
+            "20220630+../news_crawling/RUS_UKR/p_articles/ndtv.com/Going To Stick With Ukraine As Long As It Takes Biden.txt+eventbasecode110+eventcode110+avgtone0.49242424242424243+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4433', 'biden:0.3594', 'russian:0.3038', 'alliance:0.2947', 'long:0.292', 'stick:0.2787', 'ally:0.2776', 'president:0.2302', 'united:0.1933', 'support:0.1931', 'end:0.1826', 'headline:0.1754', 'going:0.1732', 'takes:0.1695', 'know:0.1662', 'thursday:0.1571', 'defeat:0.155', 'edit:0.1397', 'syndicate:0.1362', 'ensure:0.1349', 'feed:0.1348', 'story:0.1317', 'joe:0.1202', 'deal:0.1191', 'say:0.119', 'states:0.1138', 'ndtv:0.1106', 'severe:0.0731', 'make:0.0685', 'publish:0.0524']+titles_keywords+['ukraine:0.5338', 'biden:0.3785', 'long:0.2459', 'going:0.1978', 'stick:0.1448']"
+        ]
+    ]
+}

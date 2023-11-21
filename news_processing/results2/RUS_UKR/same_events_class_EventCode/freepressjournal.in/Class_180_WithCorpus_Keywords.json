@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/Just stop the bombing Ukraine Prez Zelenskiy says Russia must stop bombing cities before talks.txt+eventbasecode180+eventcode180+avgtone0.4691011235955056+goldsteinscale0.05+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.009868421052631578+news_keywords+['kyiv:0.5338', 'ceasefire:0.4735', 'nato:0.4035', 'bombing:0.3836', 'zelenskiy:0.3497', 'russias:0.3364', 'reuters:0.2759', 'terror:0.2659', 'escalation:0.2438', 'government:0.2333', 'tank:0.2262', 'talk:0.2207', 'telegram:0.2077', 'continue:0.2034', 'hit:0.2023', 'preventative:0.1888', 'reject:0.1865', 'forget:0.1646', 'people:0.154', 'prez:0.1404', 'control:0.1396', 'dozen:0.1393', 'big:0.1317', 'ready:0.1301', 'main:0.13', 'structure:0.1137', 'meant:0.1099', 'schedule:0.1027', 'wage:0.0911', 'zone:0.0849']+titles_keywords+['zelenskiy:0.425', 'ukraine:0.4089', 'bombing:0.3926', 'stop:0.2657', 'talks:0.2567']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/7 killed including a child 22 wounded in Russian shelling in Ukraines Kharkiv Governor.txt+eventbasecode180+eventcode180+avgtone0.46330275229357804+goldsteinscale0.05+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4661', 'kharkiv:0.3636', 'landmines:0.3305', 'zelenskyy:0.3049', 'kill:0.3024', 'casualty:0.297', 'civilian:0.2524', 'terror:0.2386', 'reuters:0.2342', 'child:0.2322', 'synegubov:0.2062', 'report:0.1969', 'street:0.1866', 'shell:0.1713', 'people:0.1682', 'governor:0.1607', 'scatter:0.1496', 'phosphorous:0.1416', 'televise:0.1264', 'area:0.1041', 'multiple:0.0994', 'come:0.0917', 'ihor:0.0862', 'receive:0.0841', 'continuous:0.0767', 'force:0.0759', 'northeastern:0.0699', 'hour:0.0632', 'pdf:0.0608', 'year:0.0485']+titles_keywords+['kharkiv:0.362', 'governor:0.2173', 'shelling:0.2165', 'killed:0.2035', '22:0.1818']"
+        ]
+    ]
+}

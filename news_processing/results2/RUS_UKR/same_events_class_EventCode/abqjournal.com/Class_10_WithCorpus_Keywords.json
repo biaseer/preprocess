@@ -1,0 +1,22 @@
+{
+    "RUS+FRA+10":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/abqjournal.com/West hits back with sanctions for Russias Ukraine actions.txt+eventbasecode10+eventcode10+avgtone0.47373188405797106+goldsteinscale0.5+nummentions0.09325108853410741+numarticles0.09390862944162437+numsources0.14802631578947367+news_keywords+['sanctions:0.4648', 'crimea:0.4548', 'putin:0.4368', 'russias:0.4047', 'invade:0.4004', 'nato:0.3954', 'confrontation:0.3133', 'separatist:0.2591', 'alert:0.2199', 'prepared:0.2076', 'soon:0.2042', 'avert:0.2036', 'bloc:0.2022', 'directive:0.2011', 'promsvyazbank:0.1987', 'cite:0.1942', 'align:0.1938', 'ditch:0.1914', 'confusion:0.1912', 'order:0.1884', 'continue:0.1812', 'western:0.1718', 'pipeline:0.1688', 'word:0.1668', 'orbit:0.163', 'long:0.1624', 'blame:0.1415', 'secretary:0.1366', 'current:0.125', 'agree:0.1106']+titles_keywords+['sanctions:0.4464', 'ukraine:0.3787', 'actions:0.2374', 'west:0.2357', 'hits:0.1908']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Airstrikes kill more Ukrainians despite grain export deal.txt+eventbasecode10+eventcode10+avgtone0.4753440366972477+goldsteinscale0.5+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.046052631578947366+news_keywords+['ukraine:0.4599', 'airstrikes:0.4204', 'zelenskyy:0.3113', 'news:0.278', 'strategic:0.2629', 'know:0.2456', 'investigation:0.2395', 'barrage:0.2264', 'gov:0.2149', 'casualty:0.2078', 'troop:0.2055', 'chaos:0.2014', 'publish:0.2004', 'supply:0.1972', 'reiterate:0.1913', 'fight:0.1867', 'grain:0.1838', 'help:0.1809', 'guise:0.1802', 'ap:0.178', 'donbas:0.162', 'destroyed:0.1614', 'range:0.1509', 'thursday:0.1319', 'thousand:0.1281', 'deal:0.1211', 'long:0.1164', 'gmlrs:0.1075', 'similar:0.106', 'true:0.102']+titles_keywords+['ukrainians:0.4119', 'airstrikes:0.3497', 'grain:0.2771', 'deal:0.155', 'export:0.1438']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Biden Russia war is genocide trying to wipe out Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4710806697108067+goldsteinscale0.5+nummentions0.3454281567489115+numarticles0.34590282813633066+numsources0.3782894736842105+news_keywords+['genocide:0.4894', 'putin:0.4513', 'treaty:0.4083', 'russias:0.35', 'rhetoric:0.3361', 'escalation:0.3209', 'biden:0.3039', 'term:0.3024', 'overthrow:0.2666', 'ethnical:0.2627', 'administration:0.2497', 'accuse:0.2271', 'decide:0.2169', 'event:0.19', 'meet:0.1896', 'example:0.1863', 'continue:0.1819', 'authorize:0.177', 'wipe:0.1672', 'clearer:0.164', 'ammunition:0.1628', 'bloody:0.162', 'immediate:0.1532', 'volodymyr:0.1459', 'sure:0.1389', 'tweet:0.1353', 'april:0.1242', 'cause:0.1149', 'far:0.0887', 'true:0.0521']+titles_keywords+['biden:0.4706', 'genocide:0.4538', 'ukraine:0.4142', 'war:0.38', 'trying:0.1789']"
+        ]
+    ],
+    "WST+RUS+10":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/abqjournal.com/NATO deputy Putin cant win his unprovoked illogical war.txt+eventbasecode10+eventcode10+avgtone0.4726027397260274+goldsteinscale0.5+nummentions0.07293178519593614+numarticles0.07360406091370558+numsources0.12828947368421054+news_keywords+['putin:0.4985', 'nato:0.4878', 'ukrainians:0.4104', 'militarily:0.3662', 'unprovoked:0.2759', 'battlegroups:0.2757', 'attack:0.2631', 'nation:0.2066', 'win:0.202', 'imperial:0.1992', 'flank:0.1966', 'ominous:0.1918', 'bravery:0.1836', 'constitute:0.1698', 'economic:0.1626', 'reassess:0.161', 'opposite:0.1602', 'geoanas:0.1584', 'continue:0.1536', 'come:0.1528', 'plan:0.1426', 'fact:0.1415', 'thursday:0.1334', 'chemical:0.1235', 'fully:0.1232', 'observer:0.1178', 'new:0.1024', 'agree:0.0942', 'wag:0.0865', 'welcome:0.0638']+titles_keywords+['nato:0.488', 'putin:0.4837', 'illogical:0.3012', 'unprovoked:0.2909', 'win:0.2421']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+120":[
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/Has Russia Already Lost the Cyberwar With Ukraine.txt+eventbasecode120+eventcode120+avgtone0.45891003460207613+goldsteinscale0.3+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['cyberattacks:0.4904', 'kremlin:0.4705', 'ukrainian:0.4328', 'russias:0.4203', 'espionage:0.3755', 'nato:0.3356', 'adversary:0.297', 'armageddon:0.2559', 'frontlines:0.2433', 'conflict:0.2281', 'hemorrhage:0.2231', 'news:0.2164', 'correspond:0.2164', 'predict:0.215', 'knew:0.1785', 'repository:0.1767', 'redevelopment:0.174', 'svr:0.1699', 'cascade:0.1693', 'latitude:0.169', 'exfiltrate:0.1682', 'haveconcocted:0.1678', 'shuckworm:0.1616', 'bucha:0.1532', 'end:0.1447', 'function:0.1392', 'likeblackenergy:0.1372', 'terabyte:0.1246', 'state:0.1213', 'list:0.1058']+titles_keywords+['cyberwar:0.5135', 'ukraine:0.3905', 'russia:0.3042', 'lost:0.179']"
+        ]
+    ],
+    "WST+RUS+120":[
+        [
+            "20220108+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/Britain Hopes HighImpact Sanctions Will Deter Russia.txt+eventbasecode120+eventcode120+avgtone0.46359223300970875+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.4433', 'ukraine:0.4221', 'sanctions:0.3964', 'kremlin:0.3928', 'moscows:0.352', 'yanukovych:0.3402', 'annexation:0.2838', 'diplomat:0.2536', 'euromaidan:0.2496', 'oppose:0.2046', 'aggressive:0.1993', 'consequence:0.1908', 'concern:0.1869', 'pipeline:0.1776', 'warn:0.1698', 'diverge:0.1643', 'strike:0.1636', 'expect:0.1559', 'enter:0.1467', 'authority:0.1374', 'coordinated:0.1364', 'truss:0.1315', 'sector:0.1293', 'exactly:0.1252', 'potential:0.1234', 'thursday:0.1004', 'pose:0.0903', 'underlining:0.0764', 'far:0.0517', 'cost:0.0136']+titles_keywords+['sanctions:0.4787', 'highimpact:0.2717', 'britain:0.2008', 'deter:0.1106', 'hopes:0.089']"
+        ]
+    ]
+}

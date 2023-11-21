@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+190":[
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/iraqsun.com/Ukraine Calls for Faster Weapons Deliveries.txt+eventbasecode190+eventcode190+avgtone0.49519230769230765+goldsteinscale0.0+nummentions0.038824383164005806+numarticles0.03952139231327049+numsources0.08552631578947369+news_keywords+['ukraine:0.5061', 'nato:0.5014', 'gulen:0.3082', 'terrorism:0.3075', 'pentagon:0.3043', 'expand:0.2937', 'coup:0.2635', 'president:0.2528', 'battle:0.2508', 'meeting:0.241', 'aid:0.2398', 'concern:0.227', 'severodonetsk:0.2227', 'orchestrate:0.2223', 'success:0.214', 'world:0.2136', 'pledge:0.2123', 'pkk:0.2015', 'davos:0.1963', 'citing:0.1951', 'wednesday:0.1934', 'say:0.1908', 'long:0.1876', 'forward:0.186', 'understand:0.1624', 'dmytro:0.1619', 'current:0.1476', 'highlight:0.1355', 'agree:0.1303', 'virtually:0.1277']+titles_keywords+['ukraine:0.4109', 'faster:0.3124', 'weapons:0.3009', 'deliveries:0.2758', 'calls:0.1323']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220120+../news_crawling/RUS_UKR/p_articles/iraqsun.com/Ukrainian president responds to invasion fears.txt+eventbasecode190+eventcode190+avgtone0.45562770562770566+goldsteinscale0.0+nummentions0.031567489114658925+numarticles0.032269760696156634+numsources0.046052631578947366+news_keywords+['ukraine:0.4752', 'putin:0.4635', 'invade:0.4394', 'scaremongering:0.3273', 'president:0.2957', 'conflict:0.2943', 'zelensky:0.2894', 'panic:0.2644', 'dangerous:0.2465', 'military:0.2415', 'psaki:0.2362', 'volodymyr:0.2337', 'border:0.222', 'maidan:0.2195', 'independence:0.2084', 'news:0.2047', 'soon:0.1995', 'order:0.1738', 'respond:0.1711', 'stage:0.1594', 'donbass:0.1363', 'withdrawing:0.1338', 'stock:0.1318', 'end:0.1307', 'increase:0.1304', 'house:0.1087', 'friend:0.1052', 'actually:0.0896', 'hasn:0.0806', 'anytime:0.0181']+titles_keywords+['ukrainian:0.3875', 'invasion:0.2956', 'fears:0.2923', 'president:0.2426', 'responds:0.1223']"
+        ]
+    ]
+}

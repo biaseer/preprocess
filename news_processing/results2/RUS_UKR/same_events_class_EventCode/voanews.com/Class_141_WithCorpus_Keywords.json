@@ -1,0 +1,17 @@
+{
+    "AUS+RUS+141":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/voanews.com/Latest Developments in Ukraine Feb 26.txt+eventbasecode141+eventcode141+avgtone0.4665071770334928+goldsteinscale0.175+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5221', 'kremlin:0.4033', 'erdogan:0.3423', 'evacuate:0.3335', 'reuters:0.3019', 'propaganda:0.277', 'incursion:0.2618', 'sanction:0.2606', 'military:0.2594', 'prepare:0.2502', 'translate:0.2454', 'capital:0.2251', 'continue:0.2117', 'fight:0.21', 'columns:0.1983', 'turn:0.1982', 'want:0.1909', 'hotline:0.1804', 'boy:0.1708', 'long:0.1678', 'counterpart:0.1669', 'voa:0.1645', 'vote:0.1626', 'besheer:0.1513', 'forget:0.1501', 'official:0.1374', 'quoted:0.1333', 'completely:0.1272', 'today:0.1188', 'theyre:0.0967']+titles_keywords+['ukraine:0.5766', 'developments:0.3271', 'latest:0.2374', 'feb:0.2169', '26:0.1641']"
+        ]
+    ],
+    "DEU+RUS+141":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/voanews.com/German Paper Hires Russian Journalist after AntiWar Stunt.txt+eventbasecode141+eventcode141+avgtone0.4761092150170649+goldsteinscale0.175+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.01644736842105263+news_keywords+['journalistic:0.5082', 'correspondent:0.4984', 'putin:0.4121', 'ukraine:0.4102', 'ovsyannikova:0.3931', 'news:0.353', 'rubles:0.3281', 'antiwar:0.3163', 'poster:0.2825', 'protest:0.2806', 'german:0.2535', 'freelance:0.2535', 'report:0.253', 'marina:0.2391', 'editor:0.2327', 'read:0.2267', 'channel:0.2257', 'military:0.2211', 'detain:0.2089', 'statement:0.2063', 'stunt:0.1951', 'press:0.1877', 'attention:0.1877', 'courage:0.1731', 'release:0.169', 'stay:0.1486', 'case:0.1421', 'ordered:0.1254', 'prime:0.1149', 'hour:0.1058']+titles_keywords+['journalist:0.4279', 'russian:0.3987', 'antiwar:0.3275', 'hires:0.2025', 'stunt:0.1884']"
+        ]
+    ],
+    "RUS+UKR+141":[
+        [
+            "20220622+../news_crawling/RUS_UKR/p_articles/voanews.com/Microsoft Russian Cyber Spying Targets 42 Ukraine Allies.txt+eventbasecode141+eventcode141+avgtone0.4800443458980045+goldsteinscale0.175+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.023026315789473683+news_keywords+['cyberattacks:0.5125', 'ukraine:0.4836', 'espionage:0.4637', 'nato:0.4559', 'propaganda:0.3696', 'microsoft:0.3515', 'allies:0.3514', 'government:0.3045', 'invade:0.3003', 'worm:0.2536', 'threat:0.2496', 'targeted:0.2267', 'data:0.2169', 'report:0.1893', 'cloud:0.1789', 'humanitarian:0.1747', 'coinciding:0.1735', 'example:0.1717', 'western:0.1675', 'deflect:0.1666', 'notpetya:0.1599', 'assistance:0.155', 'capability:0.1449', 'donbas:0.1317', 'write:0.1266', 'month:0.1249', 'conduit:0.1098', 'main:0.1018', 'percent:0.0758', 'woo:0.0288']+titles_keywords+['ukraine:0.4116', 'microsoft:0.3753', 'spying:0.3628', 'allies:0.3383', '42:0.2159']"
+        ]
+    ]
+}

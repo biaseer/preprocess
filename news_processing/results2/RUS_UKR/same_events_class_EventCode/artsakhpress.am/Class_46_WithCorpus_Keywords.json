@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/artsakhpress.am/3rd round of RussiaUkraine talks to take place on PolandBelarus border.txt+eventbasecode46+eventcode46+avgtone0.4957983193277311+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['russiaukraine:0.4454', 'ukrainian:0.4443', 'delegation:0.3869', 'polandbelarus:0.3424', 'russian:0.3287', 'round:0.3075', 'parliament:0.2833', 'chairman:0.2686', 'faction:0.2624', 'arakhamia:0.2611', 'rd:0.2593', 'border:0.2304', 'announce:0.208', 'monday:0.1957', 'talk:0.1787', 'member:0.1412', 'people:0.1398', 'david:0.13', 'rule:0.0994', 'tass:0.0951', 'place:0.0941', 'informs:0.0903', 'servant:0.0244']+titles_keywords+['russiaukraine:0.4178', 'border:0.2423', 'talks:0.2146', 'round:0.2082', '3rd:0.1958']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/artsakhpress.am/Peskov says dynamics of talks with Kyiv leaves much to be desired.txt+eventbasecode46+eventcode46+avgtone0.5035460992907802+goldsteinscale0.85+nummentions0.0043541364296081275+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['kyiv:0.4921', 'peskov:0.4871', 'dmitry:0.4153', 'negotiation:0.4121', 'ukrainian:0.3686', 'talk:0.3396', 'russian:0.3188', 'progress:0.253', 'dynamic:0.2293', 'news:0.217', 'spokesperson:0.1818', 'president:0.1763', 'desire:0.1621', 'say:0.1289', 'leave:0.1264', 'informs:0.1095', 'cite:0.075', 'tass:0.0565']+titles_keywords+['peskov:0.482', 'kyiv:0.4541', 'talks:0.3376', 'dynamics:0.223', 'desired:0.0331']"
+        ]
+    ]
+}

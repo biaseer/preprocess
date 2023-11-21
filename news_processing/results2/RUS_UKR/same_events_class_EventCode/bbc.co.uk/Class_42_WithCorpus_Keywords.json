@@ -1,0 +1,29 @@
+{
+    "DEU+UKR+42":[
+        []
+    ],
+    "FRA+RUS+42":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine France seizes Russian ship over sanctions.txt+eventbasecode42+eventcode42+avgtone0.4542857142857143+goldsteinscale0.595+nummentions0.030478955007256895+numarticles0.03118201595358956+numsources0.006578947368421052+news_keywords+['ukraine:0.447', 'baltic:0.3865', 'sanction:0.3285', 'promsvyazbank:0.3155', 'ship:0.3114', 'invasion:0.3105', 'embassy:0.2967', 'french:0.2731', 'flag:0.2692', 'breaching:0.2627', 'impounded:0.261', 'seize:0.2563', 'suspect:0.2284', 'rouen:0.223', 'subsidiary:0.1979', 'block:0.1895', 'intercept:0.1882', 'news:0.1789', 'sign:0.1558', 'issue:0.1432', 'owned:0.1347', 'link:0.124', 'check:0.1134', 'head:0.1028', 'st:0.0992', 'measure:0.0915', 'long:0.0879', 'firmness:0.08', 'send:0.0721', 'say:0.0711']+titles_keywords+['ukraine:0.3668', 'sanctions:0.3381', 'france:0.2872', 'seizes:0.2828', 'ship:0.2502']",
+            "20220226+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine conflict Your guide to understanding day three.txt+eventbasecode42+eventcode42+avgtone0.47643979057591623+goldsteinscale0.595+nummentions0.030478955007256895+numarticles0.03118201595358956+numsources0.006578947368421052+news_keywords+['ukraine:0.5505', 'kremlin:0.4055', 'conflict:0.3499', 'patriotic:0.292', 'government:0.2854', 'zelensky:0.2657', 'invasion:0.2487', 'promsvyazbank:0.2382', 'flee:0.2043', 'capital:0.2031', 'read:0.1915', 'safety:0.191', 'know:0.1904', 'intercept:0.1823', 'abramovich:0.1813', 'civilian:0.1655', 'main:0.1538', 'plan:0.1512', 'hour:0.1368', 'goliath:0.1338', 'begin:0.133', 'stuffed:0.1314', 'far:0.1272', 'angle:0.1187', 'make:0.1155', 'head:0.1143', 'measure:0.1066', 'soon:0.1043', 'welded:0.0957', 'export:0.095']+titles_keywords+['ukraine:0.4782', 'conflict:0.4152', 'understanding:0.3197', 'guide:0.1932', 'day:0.1582']"
+        ]
+    ],
+    "GBR+UKR+42":[
+        [
+            "20220201+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/RussiaUkraine tensions Zelensky praises allied response.txt+eventbasecode42+eventcode42+avgtone0.4839203675344564+goldsteinscale0.595+nummentions0.04027576197387518+numarticles0.04097171863669326+numsources0.023026315789473683+news_keywords+['nato:0.4519', 'putin:0.3991', 'kyiv:0.3717', 'war:0.3357', 'escalation:0.2942', 'political:0.2504', 'annex:0.2421', 'zelensky:0.23', 'order:0.2125', 'prepare:0.1992', 'news:0.1885', 'border:0.1863', 'soon:0.1814', 'envoys:0.1801', 'cite:0.1703', 'assure:0.1524', 'speak:0.1468', 'counterpart:0.1396', 'whip:0.1368', 'format:0.1352', 'investment:0.1345', 'issue:0.1307', 'reject:0.1274', 'nebenzya:0.1193', 'interference:0.118', 'state:0.1169', 'donbas:0.1164', 'eastern:0.1157', 'big:0.0796', 'true:0.0451']+titles_keywords+['zelensky:0.5261', 'russiaukraine:0.396', 'allied:0.2665', 'tensions:0.2464', 'praises:0.1404']"
+        ]
+    ],
+    "RUS+RUS+42":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine Amateurs dig in to fight Russian troops from Kyiv forests.txt+eventbasecode42+eventcode42+avgtone0.4776444929116685+goldsteinscale0.595+nummentions0.022496371552975326+numarticles0.02284263959390863+numsources0.04276315789473684+news_keywords+['kyiv:0.5151', 'putin:0.3389', 'invasion:0.3366', 'language:0.321', 'military:0.3056', 'barricade:0.3029', 'strategic:0.2808', 'checkpoints:0.2798', 'trench:0.2759', 'mix:0.2722', 'fight:0.2672', 'prepare:0.263', 'bomb:0.2563', 'know:0.2506', 'truck:0.2492', 'camaraderie:0.2488', 'distract:0.2442', 'motherland:0.2345', 'punctuate:0.2299', 'future:0.2211', 'party:0.2138', 'use:0.2028', 'sudden:0.1945', 'afraid:0.1803', 'like:0.1779', 'hipster:0.1775', 'centre:0.1694', 'hedgehog:0.1588', 'far:0.156', 'welcome:0.1318']+titles_keywords+['kyiv:0.4822', 'troops:0.4015', 'fight:0.2528', 'forests:0.2519', 'dig:0.1836']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/27yearold refugee Ludmyla Chyrkova is heading home.txt+eventbasecode42+eventcode42+avgtone0.439189189189189+goldsteinscale0.595+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.009868421052631578+news_keywords+['kyiv:0.5778', 'chyrkova:0.5302', 'refugee:0.4724', 'ukrainians:0.4619', 'russian:0.4348', 'ludmyla:0.2995', 'war:0.2671', 'troop:0.2558', 'home:0.2367', 'capital:0.2111', 'return:0.1974', 'city:0.1926', 'leave:0.1924', 'diary:0.1821', 'withdraw:0.1697', 'yearold:0.1617', 'threat:0.1513', 'second:0.1504', 'fight:0.1345', 'old:0.1342', 'struggle:0.1249', 'bbc:0.1187', 'day:0.111', 'year:0.1099', 'video:0.101', 'decision:0.0869', 'head:0.0825', 'increase:0.0659', 'explain:0.0323']+titles_keywords+['chyrkova:0.5449', 'refugee:0.4537', 'home:0.3928', 'ludmyla:0.3657', '27yearold:0.1879']"
+        ],
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Boris Johnson Endure energy crisis to counter Russia in Ukraine.txt+eventbasecode42+eventcode42+avgtone0.5027063599458728+goldsteinscale0.595+nummentions0.008345428156748911+numarticles0.00870195794053662+numsources0.01644736842105263+news_keywords+['putin:0.4916', 'ukrainians:0.4112', 'invade:0.3205', 'labour:0.2924', 'supply:0.2398', 'uk:0.2376', 'independence:0.2375', 'humanitarian:0.2268', 'uncompromising:0.2198', 'volodymyr:0.2142', 'crisis:0.2142', 'downing:0.211', 'secure:0.2008', 'ally:0.1949', 'capability:0.1928', 'capital:0.1848', 'evils:0.1816', 'sanction:0.1796', 'know:0.1726', 'bn:0.1699', 'continue:0.1669', 'forecast:0.1621', 'indirect:0.1514', 'friday:0.1489', 'shrink:0.1216', 'rate:0.1166', 'mr:0.1138', 'big:0.112', 'track:0.1089', 'welcome:0.0836']+titles_keywords+['ukraine:0.3885', 'boris:0.3336', 'energy:0.241', 'endure:0.227', 'crisis:0.2257']"
+        ]
+    ]
+}

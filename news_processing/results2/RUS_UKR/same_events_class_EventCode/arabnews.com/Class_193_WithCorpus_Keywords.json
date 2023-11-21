@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+193":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/arabnews.com/UK news crew shot at by Russian death squad in Ukraine.txt+eventbasecode193+eventcode193+avgtone0.4768976897689769+goldsteinscale0.0+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.009868421052631578+news_keywords+['kyiv:0.4564', 'correspondent:0.385', 'putin:0.3459', 'ambush:0.3429', 'military:0.3336', 'cameraman:0.3026', 'shot:0.3002', 'demilitarize:0.2931', 'news:0.2886', 'helmet:0.2722', 'ramsay:0.2508', 'reporting:0.246', 'crew:0.2457', 'nazify:0.2388', 'survive:0.2323', 'cover:0.2146', 'sky:0.2054', 'intense:0.2038', 'press:0.19', 'fell:0.1859', 'reach:0.1716', 'know:0.1697', 'low:0.1586', 'enter:0.1579', 'body:0.1422', 'stuart:0.1352', 'ive:0.123', 'near:0.1212', 'feb:0.0988', 'strange:0.0984']+titles_keywords+['ukraine:0.386', 'news:0.2567', 'shot:0.2553', 'crew:0.2432', 'death:0.1887']"
+        ]
+    ],
+    "RUS+UKR+193":[
+        [
+            "20220830+../news_crawling/RUS_UKR/p_articles/arabnews.com/At least five dead as Russian shelling hits central Kharkiv mayor.txt+eventbasecode193+eventcode193+avgtone0.4565217391304348+goldsteinscale0.0+nummentions0.040638606676342524+numarticles0.0337200870195794+numsources0.04276315789473684+news_keywords+['kyiv:0.5448', 'moscows:0.4156', 'kharkiv:0.4115', 'ukraines:0.4061', 'russian:0.3499', 'oleg:0.3416', 'kill:0.2838', 'city:0.2461', 'hit:0.2367', 'synegubov:0.22', 'war:0.2183', 'shell:0.199', 'population:0.1888', 'kilometer:0.1781', 'warn:0.1779', 'repel:0.1709', 'shelter:0.1469', 'stay:0.1421', 'governor:0.1361', 'occupier:0.1328', 'toll:0.1274', 'regional:0.1238', 'border:0.1027', 'center:0.0999', 'low:0.0871', 'official:0.0688', 'heavily:0.0604', 'second:0.0597', 'telegram:0.0533', 'tuesday:0.0364']+titles_keywords+['kharkiv:0.3913', 'mayor:0.2018', 'shelling:0.1865', 'hits:0.1859', 'dead:0.1627']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220729+../news_crawling/RUS_UKR/p_articles/arabnews.com/Ukraine Russia trade blame for shelling of prison that killed 40.txt+eventbasecode193+eventcode193+avgtone0.45229007633587787+goldsteinscale0.0+nummentions0.06966618287373004+numarticles0.07034082668600435+numsources0.05921052631578947+news_keywords+['ukraine:0.5284', 'russias:0.4254', 'war:0.3305', 'reuters:0.2898', 'separatist:0.2884', 'frontlines:0.2755', 'missile:0.2755', 'correspondent:0.2727', 'kill:0.2716', 'mykolaiv:0.2655', 'crime:0.2612', 'report:0.2206', 'accuse:0.2109', 'crisis:0.2037', 'telegram:0.2035', 'people:0.1911', 'torture:0.1901', 'occupier:0.1864', 'town:0.1674', 'eastern:0.1668', 'transport:0.1648', 'stem:0.1481', 'body:0.148', 'roof:0.1332', 'quote:0.1312', 'smashed:0.1277', 'general:0.1269', 'friday:0.106', 'backed:0.0905', 'overshadow:0.0686']+titles_keywords+['ukraine:0.4157', 'blame:0.3044', 'prison:0.2413', 'shelling:0.188', 'trade:0.1651']"
+        ]
+    ]
+}

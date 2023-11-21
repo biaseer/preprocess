@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+60":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Russian prisoner of war begs mum tell the truth about Ukraine war in phone call.txt+eventbasecode60+eventcode60+avgtone0.4728813559322033+goldsteinscale0.8+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['kremlin:0.4753', 'propaganda:0.4281', 'kyiv:0.4171', 'war:0.3785', 'invade:0.3261', 'soldier:0.2992', 'flag:0.2903', 'operation:0.2881', 'sob:0.255', 'hotline:0.2548', 'prisoner:0.2503', 'know:0.2486', 'footage:0.2386', 'help:0.2369', 'map:0.2366', 'pows:0.2245', 'kindergarten:0.2034', 'natasha:0.2022', 'mothers:0.196', 'alleged:0.1785', 'young:0.1713', 'heard:0.1674', 'rife:0.163', 'fodder:0.1584', 'word:0.1555', 'begs:0.1447', 'like:0.1413', 'tea:0.1301', 'possible:0.1273', 'send:0.1154']+titles_keywords+['russian:0.342', 'prisoner:0.294', 'war:0.279', 'mum:0.2608', 'tell:0.1533']"
+        ]
+    ],
+    "UKR+RUS+60":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Captured Russian soldiers cry as they tell relatives I was sent to my death.txt+eventbasecode60+eventcode60+avgtone0.464451313755796+goldsteinscale0.8+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.009868421052631578+news_keywords+['comrade:0.4826', 'wartime:0.4009', 'ukraine:0.4006', 'troop:0.386', 'civilians:0.3774', 'invasion:0.3478', 'frontline:0.339', 'prisoner:0.2908', 'intercept:0.2505', 'footage:0.2433', 'horrific:0.2425', 'news:0.2339', 'read:0.2296', 'helicopter:0.226', 'fight:0.217', 'kyslytsia:0.2154', 'morale:0.211', 'conversation:0.2009', 'lie:0.1851', 'radio:0.1773', 'gunmeat:0.1761', 'period:0.1735', 'analogue:0.1533', 'continue:0.1502', 'different:0.1442', 'greet:0.144', 'oh:0.1365', 'request:0.1323', 'low:0.1036', 'samuel:0.0998']+titles_keywords+['soldiers:0.4104', 'russian:0.3633', 'captured:0.2855', 'death:0.2684', 'relatives:0.2232']"
+        ]
+    ]
+}

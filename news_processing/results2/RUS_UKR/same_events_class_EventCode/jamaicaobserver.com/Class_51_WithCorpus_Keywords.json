@@ -1,0 +1,15 @@
+{
+    "ARM+RUS+51":[
+        [
+            "20220203+../news_crawling/RUS_UKR/p_articles/jamaicaobserver.com/Brinksmanship on the Russian border.txt+eventbasecode51+eventcode51+avgtone0.47863247863247865+goldsteinscale0.67+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.4997', 'nato:0.4433', 'brinksmanship:0.4223', 'brezhnev:0.3901', 'treaty:0.3841', 'militarily:0.3617', 'annexing:0.3607', 'vladimir:0.3486', 'invades:0.3172', 'border:0.3002', 'westernise:0.236', 'pole:0.2334', 'expansionist:0.2227', 'affinity:0.1872', 'know:0.1853', 'want:0.1734', 'plan:0.1728', 'placement:0.1675', 'implication:0.1664', 'manoeuvring:0.1664', 'sanction:0.163', 'continue:0.1512', 'research:0.1354', 'pipeline:0.1353', 'state:0.1176', 'difference:0.1115', 'ready:0.11', 'issue:0.1055', 'large:0.0976', 'dispose:0.0871']+titles_keywords+['brinksmanship:0.6654', 'border:0.4654', 'russian:0.3553']"
+        ]
+    ],
+    "GBR+RUS+51":[
+        []
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220613+../news_crawling/RUS_UKR/p_articles/jamaicaobserver.com/Ukraine hails teen drone operator who spied on Russian armour.txt+eventbasecode51+eventcode51+avgtone0.4904306220095694+goldsteinscale0.67+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['kyiv:0.4661', 'reconnaissance:0.4584', 'drone:0.4505', 'troop:0.3879', 'journalist:0.3312', 'artillery:0.3312', 'battle:0.3086', 'fly:0.2718', 'stanislav:0.2715', 'coordinate:0.2645', 'government:0.2469', 'pokrasa:0.2307', 'destroy:0.2265', 'teenager:0.2248', 'scary:0.2137', 'provide:0.2111', 'andriy:0.2108', 'risk:0.2105', 'ap:0.2038', 'aware:0.1859', 'talkie:0.1816', 'outskirt:0.1805', 'order:0.1793', 'failed:0.1769', 'subsequently:0.171', 'sure:0.1439', 'target:0.1429', 'small:0.1353', 'arent:0.1258', 'recount:0.1187']+titles_keywords+['drone:0.4459', 'ukraine:0.3987', 'teen:0.291', 'armour:0.1876', 'hails:0.1306']"
+        ]
+    ]
+}

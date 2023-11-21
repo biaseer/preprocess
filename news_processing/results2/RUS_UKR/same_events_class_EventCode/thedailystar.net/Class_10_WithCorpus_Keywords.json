@@ -1,0 +1,25 @@
+{
+    "RUS+RUS+10":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Ukraine President Zelenskyy to address European Parliament today.txt+eventbasecode10+eventcode10+avgtone0.4747081712062257+goldsteinscale0.5+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.04276315789473684+news_keywords+['kyiv:0.5548', 'putin:0.4787', 'vladimir:0.4415', 'zelensky:0.4076', 'russian:0.3976', 'oligarchs:0.3269', 'eu:0.3117', 'volodymyr:0.3012', 'invade:0.2854', 'disinformation:0.2673', 'parliament:0.2541', 'reform:0.2247', 'bloc:0.1967', 'remain:0.1882', 'speak:0.1777', 'artillery:0.1725', 'push:0.1528', 'ban:0.1492', 'brace:0.1465', 'twitter:0.1376', 'look:0.1273', 'kilometres:0.1251', 'outlet:0.1158', 'poise:0.1107', 'population:0.0956', 'today:0.0907', 'deep:0.0863', 'major:0.0759', 'non:0.0741', 'videolink:0.0476']+titles_keywords+['zelenskyy:0.5653', 'parliament:0.1804', 'european:0.1592', 'address:0.1441', 'today:0.0946']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Russian TV protester faces 10 days in prison.txt+eventbasecode10+eventcode10+avgtone0.4462809917355375+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ovsyannikova:0.3917', 'russia:0.3325', 'broadcast:0.325', 'propaganda:0.3236', 'protest:0.3203', 'journalist:0.317', 'prison:0.2891', 'trial:0.272', 'news:0.2554', 'poster:0.2539', 'hooliganism:0.2304', 'day:0.1946', 'war:0.1929', 'demonstration:0.186', 'face:0.1835', 'marina:0.1814', 'action:0.1739', 'breaching:0.1691', 'guilty:0.1651', 'representative:0.1403', 'read:0.1343', 'lie:0.1313', 'afp:0.1119', 'barge:0.0841', 'prime:0.0823', 'hold:0.0754', 'clearly:0.0733', 'state:0.0613', 'set:0.0565', 'praise:0.0061']+titles_keywords+['protester:0.34', 'russian:0.3299', 'prison:0.2615', '10:0.1927', 'days:0.1799']"
+        ],
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Russia bombs Ukraine cities a day after promising to pull back from Kyiv.txt+eventbasecode10+eventcode10+avgtone0.47806122448979593+goldsteinscale0.5+nummentions0.08962264150943396+numarticles0.09028281363306744+numsources0.10197368421052631+news_keywords+['kyiv:0.4995', 'kremlin:0.4297', 'ceasefire:0.4028', 'invasion:0.3217', 'reuters:0.3169', 'briefing:0.2933', 'frontline:0.2714', 'emergency:0.2472', 'pentagon:0.2435', 'tank:0.2432', 'unprovoked:0.2409', 'future:0.2285', 'flee:0.2178', 'reorganise:0.217', 'monopoly:0.2154', 'industrial:0.2082', 'learn:0.2055', 'ploy:0.1988', 'postpone:0.1978', 'northern:0.1909', 'hear:0.1825', 'pull:0.1824', 'increase:0.1703', 'donbas:0.1702', 'confirmation:0.1505', 'buyer:0.1484', 'month:0.146', 'major:0.124', 'possible:0.097', 'robert:0.0776']+titles_keywords+['kyiv:0.521', 'bombs:0.3098', 'day:0.1261', 'pull:0.1256', 'promising:0.0326']"
+        ]
+    ],
+    "RUS+USA+10":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Russia to expel US diplomats in titfortat move.txt+eventbasecode10+eventcode10+avgtone0.4751184834123223+goldsteinscale0.5+nummentions0.002902757619738752+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['diplomat:0.4318', 'moscow:0.3889', 'expel:0.2805', 'government:0.2063', 'sanction:0.2015', 'usactions:0.19', 'spy:0.1887', 'invasion:0.182', 'reuters:0.176', 'unproductive:0.1742', 'allegation:0.1727', 'provoke:0.1681', 'facilitate:0.1352', 'foreign:0.1331', 'step:0.1313', 'month:0.1175', 'relationship:0.1113', 'state:0.1111', 'grata:0.0966', 'receive:0.0952', 'declare:0.0935', 'persona:0.0931', 'people:0.0832', 'bilateral:0.082', 'later:0.0719', 'list:0.0681', 'non:0.064', 'weigh:0.0228', 'firmly:0.0186', 'comparable:0.0146']+titles_keywords+['diplomats:0.4194', 'expel:0.34', 'russia:0.3365', 'titfortat:0.2971']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Russia hits Kyiv Lviv.txt+eventbasecode10+eventcode10+avgtone0.4683098591549296+goldsteinscale0.5+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.009868421052631578+news_keywords+['kyiv:0.5708', 'ukrainians:0.4476', 'putin:0.4399', 'pravda:0.4271', 'nato:0.388', 'terrorism:0.3398', 'invasion:0.3124', 'evacuate:0.3079', 'military:0.2916', 'mykolaiv:0.2894', 'news:0.2606', 'conflict:0.2567', 'warn:0.2494', 'nuclear:0.249', 'separatist:0.2468', 'casualty:0.2221', 'tank:0.2101', 'hit:0.1918', 'tunnel:0.1856', 'howitzer:0.1819', 'secretary:0.1813', 'north:0.1807', 'heard:0.1729', 'unscathed:0.1706', 'bad:0.1532', 'fall:0.1505', 'end:0.1489', 'long:0.1407', 'major:0.129', 'population:0.1137']+titles_keywords+['lviv:0.6302', 'kyiv:0.6283', 'russia:0.3184', 'hits:0.2501']"
+        ]
+    ]
+}

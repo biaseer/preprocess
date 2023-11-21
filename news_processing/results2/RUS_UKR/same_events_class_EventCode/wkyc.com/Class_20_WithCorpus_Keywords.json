@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/wkyc.com/UN inspectors head to Ukraines Zaporizhzhia nuclear plant to check for damage.txt+eventbasecode20+eventcode20+avgtone0.47720797720797725+goldsteinscale0.65+nummentions0.3018867924528302+numarticles0.30239303843364757+numsources0.25+news_keywords+['kyiv:0.4668', 'nuclear:0.4321', 'demilitarize:0.348', 'iaea:0.3322', 'zaporizhzhia:0.3316', 'war:0.3157', 'administration:0.3026', 'danger:0.2934', 'towardukraine:0.2486', 'mission:0.2484', 'yevhen:0.2481', 'situate:0.238', 'watchdog:0.2355', 'ahead:0.2257', 'plantwas:0.1947', 'tour:0.1784', 'expert:0.1755', 'look:0.1752', 'world:0.169', 'long:0.161', 'stay:0.1602', 'complex:0.1545', 'accuse:0.1506', 'month:0.142', 'renew:0.1419', 'underscoring:0.1352', 'allow:0.1312', 'leak:0.1217', 'center:0.1167', 'tablet:0.0702']+titles_keywords+['ukraines:0.3213', 'nuclear:0.3207', 'inspectors:0.3118', 'zaporizhzhia:0.3092', 'damage:0.1242']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220826+../news_crawling/RUS_UKR/p_articles/wkyc.com/Woman recounts fleeing from Ukraine to Northeast Ohio encourages Americans to remember the war.txt+eventbasecode20+eventcode20+avgtone0.4365079365079365+goldsteinscale0.65+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['ukraine:0.4753', 'evacuation:0.4469', 'war:0.3762', 'tragedy:0.3041', 'stay:0.2862', 'didenko:0.2759', 'border:0.2571', 'fall:0.2507', 'feel:0.244', 'remember:0.2377', 'help:0.2365', 'know:0.2359', 'woman:0.2283', 'headline:0.221', 'forward:0.2151', 'train:0.2128', 'heard:0.212', 'family:0.2065', 'recount:0.1944', 'shock:0.1903', 'feed:0.1884', 'mile:0.1878', 'past:0.1857', 'want:0.1714', 'way:0.1591', 'unexplainable:0.1562', 'despite:0.1446', 'minus:0.1097', 'young:0.1051', 'really:0.1029']+titles_keywords+['ukraine:0.3255', 'war:0.2538', 'remember:0.2522', 'woman:0.2327', 'fleeing:0.2089']"
+        ]
+    ]
+}

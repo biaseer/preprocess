@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+193":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine war Holocaust survivor killed by Russian shelling in Kharkiv.txt+eventbasecode193+eventcode193+avgtone0.4611940298507462+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['holocaust:0.556', 'ukraine:0.4462', 'soviet:0.4408', 'romantschenko:0.4076', 'nazify:0.3626', 'buchenwald:0.3075', 'war:0.2994', 'volodymyr:0.2594', 'regime:0.2417', 'troop:0.2281', 'kill:0.2258', 'occupy:0.2145', 'celebrate:0.2119', 'infamous:0.1934', 'inform:0.1875', 'bergen:0.1858', 'escape:0.1676', 'th:0.1562', 'president:0.1507', 'deport:0.1493', 'survivor:0.1489', 'relatives:0.1423', 'world:0.1359', 'point:0.1327', 'time:0.1138', 'friday:0.1097', 'mile:0.0927', 'age:0.0847', 'difficult:0.0691', 'add:0.049']+titles_keywords+['holocaust:0.4288', 'kharkiv:0.398', 'russian:0.3765', 'killed:0.2664', 'shelling:0.1417']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine invasion Misleading claims continue to go viral.txt+eventbasecode193+eventcode193+avgtone0.472636815920398+goldsteinscale0.0+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['kyiv:0.4979', 'yanukovych:0.4411', 'conflict:0.357', 'conspiracy:0.3505', 'invasion:0.3455', 'misleading:0.3105', 'government:0.2955', 'palestinian:0.283', 'fake:0.281', 'allegation:0.274', 'newspaper:0.2666', 'unrelated:0.2622', 'inform:0.2609', 'molotov:0.2571', 'dramatic:0.2373', 'video:0.2164', 'believe:0.2152', 'arma:0.2074', 'topple:0.2061', 'viral:0.1952', 'follow:0.1919', 'instead:0.1857', 'verified:0.1705', 'recent:0.1683', 'nearly:0.1393', 'true:0.1373', 'blurry:0.1233', 'million:0.1203', 'major:0.1177', 'generate:0.1109']+titles_keywords+['ukraine:0.4345', 'invasion:0.4095', 'misleading:0.3418', 'claims:0.243', 'viral:0.1816']"
+        ]
+    ]
+}

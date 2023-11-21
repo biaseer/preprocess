@@ -1,0 +1,17 @@
+{
+    "CHN+UKR+20":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/sina.com/Chinese envoy calls for joint efforts to ensure safety of nuclear facilities in Ukraine.txt+eventbasecode20+eventcode20+avgtone0.4986737400530504+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['nuclear:0.4461', 'ukraine:0.424', 'diplomatic:0.3935', 'iaea:0.3595', 'evacuation:0.3453', 'escalation:0.2834', 'concern:0.2799', 'safe:0.2404', 'agreement:0.2213', 'report:0.2184', 'clarification:0.1918', 'corridor:0.1888', 'help:0.1804', 'note:0.1778', 'power:0.1702', 'information:0.1691', 'continue:0.1614', 'preliminary:0.1592', 'view:0.1392', 'zhang:0.1288', 'order:0.1281', 'head:0.124', 'unchanged:0.1211', 'soon:0.118', 'direct:0.1097', 'main:0.1061', 'encourage:0.1032', 'include:0.0976', 'welcome:0.0835', 'set:0.0756']+titles_keywords+['nuclear:0.3415', 'ukraine:0.3184', 'safety:0.2714', 'envoy:0.1954', 'efforts:0.0523']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20211208+../news_crawling/RUS_UKR/p_articles/sina.com/Biden Putin hold video call on bilateral ties Ukrainian crisis Iran nuclear deal.txt+eventbasecode20+eventcode20+avgtone0.4910179640718562+goldsteinscale0.65+nummentions0.038461538461538464+numarticles0.03915881073241479+numsources0.02631578947368421+news_keywords+['putin:0.4714', 'diplomacy:0.439', 'nato:0.3524', 'biden:0.3209', 'kiev:0.3173', 'meeting:0.2881', 'escalation:0.2653', 'talk:0.2536', 'event:0.2079', 'concern:0.2037', 'bilateral:0.1852', 'border:0.1731', 'task:0.171', 'expand:0.1653', 'function:0.1553', 'xinhua:0.1504', 'summit:0.142', 'explain:0.1416', 'direction:0.1409', 'follow:0.14', 'states:0.1337', 'separate:0.1236', 'june:0.1111', 'donbass:0.0841', 'measure:0.0801', 'strong:0.0801', 'deal:0.0787', 'attempt:0.076', 'house:0.0646', 'ransomware:0.0066']+titles_keywords+['putin:0.4297', 'biden:0.3667', 'bilateral:0.1755', 'video:0.1509', 'deal:0.1156']"
+        ]
+    ],
+    "WST+UKR+20":[
+        [
+            "20220619+../news_crawling/RUS_UKR/p_articles/sina.com/The war in Ukraine could last for years NATO chief.txt+eventbasecode20+eventcode20+avgtone0.5041152263374485+goldsteinscale0.65+nummentions0.03555878084179971+numarticles0.03625815808556925+numsources0.03618421052631579+news_keywords+['nato:0.5449', 'ukrainians:0.4312', 'putin:0.4276', 'kyiv:0.4177', 'war:0.3854', 'troop:0.2904', 'frontline:0.2825', 'reznikov:0.2508', 'easternmost:0.2393', 'ammunition:0.2188', 'prepare:0.2172', 'stoltenberg:0.1968', 'weaken:0.1792', 'warn:0.1777', 'surge:0.1737', 'general:0.17', 'donbas:0.1632', 'continue:0.1601', 'long:0.1572', 'organization:0.1458', 'likelihood:0.139', 'reiterate:0.1371', 'year:0.1251', 'contact:0.1163', 'week:0.1117', 'compare:0.1037', 'price:0.0924', 'hardware:0.0826', 'great:0.0712', 'currently:0.0682']+titles_keywords+['nato:0.4921', 'ukraine:0.3911', 'war:0.3661', 'years:0.3084', 'chief:0.1902']"
+        ]
+    ]
+}

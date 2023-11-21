@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+138":[
+        [
+            "20211213+../news_crawling/RUS_UKR/p_articles/dw.com/EU foreign ministers mull Russia sanctions.txt+eventbasecode138+eventcode138+avgtone0.48554913294797686+goldsteinscale0.15+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['ukraine:0.436', 'invade:0.3472', 'targetedrussia:0.3342', 'destabilize:0.3286', 'escalation:0.2895', 'diplomat:0.2826', 'bloc:0.2735', 'tensions:0.2724', 'legislation:0.2568', 'union:0.2505', 'border:0.237', 'unanimity:0.231', 'pipeline:0.2243', 'allow:0.209', 'accuse:0.2012', 'clarify:0.1991', 'table:0.1874', 'wagner:0.1831', 'immediately:0.179', 'theforeign:0.1749', 'coordinate:0.1705', 'issue:0.1448', 'measureswould:0.1378', 'study:0.1318', 'donbass:0.1257', 'link:0.1107', 'strong:0.1047', 'zdf:0.1026', 'denominator:0.079', 'cost:0.0656']+titles_keywords+['sanctions:0.4738', 'russia:0.2781', 'eu:0.2339', 'ministers:0.1423', 'mull:0.059']"
+        ],
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/dw.com/Biden is convinced Putin has decided to invade Ukraine.txt+eventbasecode138+eventcode138+avgtone0.4776785714285714+goldsteinscale0.15+nummentions0.005805515239477504+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4571', 'diplomacy:0.451', 'invade:0.4079', 'nato:0.3963', 'disinformation:0.3563', 'kyiv:0.3339', 'escalation:0.3288', 'pretext:0.257', 'bipartisan:0.2462', 'plan:0.2396', 'border:0.2312', 'briefed:0.2183', 'cite:0.2169', 'playbook:0.2159', 'justify:0.2153', 'choose:0.2014', 'evidence:0.2004', 'thatukrainians:0.199', 'ally:0.1952', 'thursday:0.1864', 'table:0.1861', 'attend:0.1832', 'write:0.1767', 'hold:0.1439', 'basic:0.1409', 'possible:0.1399', 'yearslong:0.1319', 'moment:0.1166', 'blinken:0.1162', 'state:0.1048']+titles_keywords+['putin:0.4319', 'biden:0.4034', 'invade:0.3181', 'convinced:0.2857', 'decided:0.1955']"
+        ]
+    ]
+}

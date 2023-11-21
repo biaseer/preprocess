@@ -1,0 +1,15 @@
+{
+    "GBR+RUS+112":[
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Little evidence of Russia withdrawing from Ukraine says British PM Boris Johnson.txt+eventbasecode112+eventcode112+avgtone0.4777227722772277+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.009868421052631578+news_keywords+['ukraine:0.4088', 'nato:0.3516', 'boris:0.2918', 'invasion:0.2134', 'mediate:0.213', 'urgent:0.2072', 'agreement:0.1982', 'withdraw:0.1977', 'humanitarian:0.1853', 'downing:0.175', 'obligation:0.1695', 'evidence:0.1615', 'security:0.1553', 'continue:0.1488', 'thursday:0.1368', 'disastrous:0.1366', 'discus:0.1332', 'sceptical:0.1328', 'announce:0.1166', 'james:0.1156', 'far:0.1135', 'avert:0.1124', 'building:0.1109', 'closely:0.1078', 'street:0.101', 'currently:0.0983', 'read:0.0924', 'general:0.0881', 'little:0.0565', 'presse:0.0343']+titles_keywords+['ukraine:0.3384', 'boris:0.3166', 'evidence:0.2899', 'withdrawing:0.2299', 'little:0.1361']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Cyberattack hits Ukrainian government sites major banks.txt+eventbasecode112+eventcode112+avgtone0.45634920634920634+goldsteinscale0.4+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.04276315789473684+news_keywords+['cyberattacks:0.5849', 'ukraine:0.4533', 'ddos:0.434', 'virus:0.3101', 'threat:0.2963', 'government:0.2952', 'invasion:0.278', 'bank:0.225', 'evacuate:0.2036', 'strategic:0.2004', 'website:0.1934', 'aggressor:0.1852', 'afraid:0.178', 'report:0.1775', 'proof:0.1671', 'notpetya:0.1666', 'information:0.1651', 'read:0.1577', 'brink:0.1556', 'hit:0.1459', 'possible:0.1455', 'customers:0.1408', 'expect:0.1377', 'cause:0.135', 'january:0.1341', 'immediate:0.1212', 'billion:0.1079', 'stated:0.0831', 'major:0.0767', 'disable:0.0661']+titles_keywords+['cyberattack:0.4688', 'ukrainian:0.3495', 'banks:0.2682', 'government:0.2322', 'major:0.1045']"
+        ],
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Russia has confirmed use of vacuum bombs against Ukraine says UK.txt+eventbasecode112+eventcode112+avgtone0.45833333333333337+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['bombs:0.4665', 'ukraine:0.4038', 'incendiary:0.3439', 'vacuum:0.3116', 'destroy:0.3031', 'aerosol:0.2736', 'rocket:0.2419', 'tank:0.2207', 'tactic:0.219', 'thermobaric:0.2168', 'penetrate:0.1915', 'indiscriminate:0.189', 'munition:0.1876', 'generate:0.1503', 'civilian:0.1497', 'horrific:0.1399', 'conventional:0.1302', 'effect:0.1301', 'stage:0.1257', 'standwithukraine:0.1162', 'know:0.1144', 'tweet:0.1113', 'global:0.0956', 'aka:0.095', 'law:0.094', 'distributing:0.0894', 'tos:0.0607', 'dr:0.0239', 'today:0.0195', 'add:0.0112']+titles_keywords+['ukraine:0.3738', 'bombs:0.3506', 'vacuum:0.2594', 'confirmed:0.0676', 'says:0.0293']"
+        ]
+    ]
+}

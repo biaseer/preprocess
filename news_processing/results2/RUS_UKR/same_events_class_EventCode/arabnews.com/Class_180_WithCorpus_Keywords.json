@@ -1,0 +1,17 @@
+{
+    "BEL+UKR+180":[
+        [
+            "20220510+../news_crawling/RUS_UKR/p_articles/arabnews.com/West blames Russia for satellite hack ahead of Ukraine invasion.txt+eventbasecode180+eventcode180+avgtone0.46660117878192536+goldsteinscale0.05+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['cyberattacks:0.5165', 'russias:0.4012', 'ukrainian:0.3598', 'invade:0.357', 'unprovoked:0.266', 'government:0.2651', 'malicious:0.2602', 'viasat:0.2481', 'blame:0.2428', 'scope:0.2051', 'data:0.2013', 'bloc:0.178', 'spillover:0.172', 'scenario:0.1706', 'connectivity:0.1692', 'outbreak:0.1658', 'respond:0.1641', 'fear:0.1571', 'deter:0.1535', 'expert:0.1512', 'terminal:0.1489', 'tuesday:0.1289', 'oust:0.1283', 'link:0.1225', 'directly:0.1129', 'certainly:0.0968', 'truss:0.0956', 'hour:0.0923', 'significant:0.0733', 'far:0.0612']+titles_keywords+['ukraine:0.367', 'blames:0.3028', 'satellite:0.2951', 'invasion:0.284', 'hack:0.2549']"
+        ]
+    ],
+    "RUS+UKR+180":[
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/arabnews.com/Ukrainians report fierce fighting as Russia marks Soviet WW2 victory.txt+eventbasecode180+eventcode180+avgtone0.4747393744987971+goldsteinscale0.05+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukraine:0.4995', 'kyivzaporizhzhia:0.4488', 'putins:0.381', 'war:0.3586', 'nationalist:0.3552', 'reuters:0.3009', 'annex:0.2742', 'strategic:0.2694', 'unprovoked:0.2415', 'tank:0.2245', 'know:0.2199', 'flee:0.2167', 'volodymyr:0.2126', 'report:0.21', 'storm:0.1985', 'bloody:0.1976', 'curfew:0.1971', 'agreement:0.1925', 'bloc:0.192', 'th:0.1838', 'saturday:0.1822', 'expect:0.18', 'advance:0.1783', 'hijack:0.1672', 'nearly:0.1589', 'end:0.1569', 'times:0.1489', 'longer:0.1479', 'nonsense:0.1431', 'conducting:0.1423']+titles_keywords+['ukrainians:0.452', 'fighting:0.2961', 'ww2:0.2608', 'report:0.1315', 'marks:0.121']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/arabnews.com/Russian losses in east worse than ours Ukraine says.txt+eventbasecode180+eventcode180+avgtone0.4533582089552241+goldsteinscale0.05+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.4738', 'russias:0.3854', 'russian:0.3848', 'defeat:0.3049', 'war:0.3015', 'invasion:0.269', 'casualty:0.2391', 'occupy:0.2325', 'bloody:0.222', 'bad:0.2059', 'gain:0.1865', 'humanitarian:0.1837', 'mortar:0.1824', 'north:0.1809', 'fully:0.1771', 'donbas:0.1683', 'aircraft:0.1603', 'regroup:0.1513', 'wasteland:0.1454', 'having:0.1405', 'big:0.1394', 'wear:0.1362', 'acknowledge:0.1207', 'hundreds:0.1127', 'adviser:0.1105', 'port:0.1055', 'come:0.1017', 'month:0.1016', 'significant:0.0926', 'cost:0.0683']+titles_keywords+['ukraine:0.4523', 'losses:0.3521', 'worse:0.2622', 'east:0.1856', 'says:0.1418']"
+        ]
+    ]
+}

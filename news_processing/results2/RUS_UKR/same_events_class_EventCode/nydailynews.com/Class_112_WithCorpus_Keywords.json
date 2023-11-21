@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/nydailynews.com/NATO will strike back if Russia attacks a member country White House says.txt+eventbasecode112+eventcode112+avgtone0.47523219814241485+goldsteinscale0.4+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.009868421052631578+news_keywords+['natos:0.5792', 'kyiv:0.3716', 'russians:0.368', 'treaty:0.2963', 'unprovoked:0.2945', 'invasion:0.29', 'military:0.2795', 'defend:0.2587', 'strike:0.2266', 'escalate:0.2249', 'ally:0.2141', 'respond:0.2', 'advisor:0.1791', 'jake:0.1764', 'concern:0.1667', 'rhetoric:0.1533', 'inch:0.1431', 'article:0.1378', 'irpin:0.1243', 'ap:0.1227', 'say:0.1217', 'states:0.1208', 'chemical:0.1178', 'ready:0.1014', 'use:0.0999', 'feb:0.0942', 'potentially:0.0862', 'white:0.0749', 'face:0.072', 'official:0.0705']+titles_keywords+['nato:0.5124', 'strike:0.2823', 'white:0.124', 'member:0.0777', 'says:0.0443']"
+        ],
+        [
+            "20220826+../news_crawling/RUS_UKR/p_articles/nydailynews.com/Fears of a radiation leak mount near Ukrainian nuclear plant.txt+eventbasecode112+eventcode112+avgtone0.47441520467836257+goldsteinscale0.4+nummentions0.055152394775036286+numarticles0.05583756345177665+numsources0.07236842105263158+news_keywords+['chernobyl:0.5683', 'nuclear:0.4845', 'ukraines:0.3261', 'zaporizhzhias:0.3108', 'iodine:0.3091', 'slovyansk:0.3067', 'warn:0.2468', 'risk:0.2447', 'authorities:0.2298', 'occupy:0.227', 'meltdown:0.2241', 'emergency:0.2133', 'war:0.2129', 'iaea:0.2098', 'supply:0.1902', 'artillery:0.1814', 'plant:0.1794', 'satellite:0.1654', 'grid:0.1571', 'sabotage:0.1533', 'region:0.1472', 'leak:0.1469', 'reinforce:0.1368', 'kilometer:0.1328', 'andriy:0.1188', 'send:0.1037', 'instal:0.0991', 'worker:0.0932', 'exactly:0.0815', 'unclear:0.0806']+titles_keywords+['nuclear:0.4222', 'ukrainian:0.2697', 'fears:0.2392', 'leak:0.2102', 'mount:0.0442']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/cei.int/Putin orders Ukraine offensive to continue.txt+eventbasecode192+eventcode192+avgtone0.5+goldsteinscale0.025+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['putin:0.4242', 'ukraine:0.3801', 'offensive:0.2579', 'continue:0.2293', 'order:0.183']+titles_keywords+['putin:0.4103', 'ukraine:0.3718', 'offensive:0.2454', 'continue:0.1943', 'orders:0.1517']"
+        ]
+    ],
+    "UKR+RUS+192":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/cei.int/Putin hails liberation of Mariupol.txt+eventbasecode192+eventcode192+avgtone0.4953271028037383+goldsteinscale0.025+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5563', 'liberation:0.4461', 'mariupol:0.4181', 'hail:0.358']+titles_keywords+['mariupol:0.4609', 'putin:0.4489', 'liberation:0.313', 'hails:0.2017']"
+        ]
+    ]
+}

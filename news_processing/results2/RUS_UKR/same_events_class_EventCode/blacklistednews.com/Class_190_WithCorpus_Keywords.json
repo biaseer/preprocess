@@ -1,0 +1,15 @@
+{
+    "JPN+RUS+190":[
+        [
+            "20220822+../news_crawling/RUS_UKR/p_articles/blacklistednews.com/Daughter of Putin Ally Killed in Car Bombing.txt+eventbasecode190+eventcode190+avgtone0.46470588235294125+goldsteinscale0.0+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.023026315789473683+news_keywords+['putin:0.4577', 'moscow:0.3936', 'russian:0.3721', 'bombing:0.332', 'darya:0.3235', 'killed:0.3152', 'dugina:0.3134', 'daughter:0.2986', 'suspect:0.2479', 'attack:0.2269', 'ideologue:0.2268', 'nationalist:0.2143', 'toyota:0.2124', 'involvement:0.1939', 'ally:0.1755', 'alexander:0.1714', 'advocate:0.1659', 'read:0.1382', 'foreign:0.1352', 'drive:0.1247', 'deny:0.123', 'state:0.0731', 'device:0.0728', 'blow:0.0701', 'speculate:0.066', 'absorb:0.0565', 'ministry:0.0433', 'land:0.0275', 'ultra:0.0226', 'sunday:0.012']+titles_keywords+['putin:0.3449', 'bombing:0.3218', 'daughter:0.3048', 'killed:0.2213', 'car:0.1962']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/blacklistednews.com/Kiev citizens are told to flee to bomb shelters NOW with Putins troops feared to.txt+eventbasecode190+eventcode190+avgtone0.4659949622166247+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kiev:0.5429', 'crimea:0.4673', 'russian:0.3702', 'putins:0.3618', 'military:0.2936', 'bomb:0.2686', 'flee:0.2678', 'tank:0.2658', 'capital:0.2469', 'fight:0.2379', 'barrage:0.2162', 'ongoing:0.2105', 'read:0.2035', 'report:0.2019', 'street:0.2019', 'airfield:0.1964', 'order:0.1835', 'northern:0.1833', 'enclaves:0.1732', 'mig:0.172', 'seized:0.1665', 'ammo:0.1626', 'imminently:0.1569', 'begin:0.1538', 'amid:0.1449', 'hour:0.1303', 'earlier:0.1293', 'sumy:0.124', 'power:0.1105', 'link:0.1052']+titles_keywords+['kiev:0.4955', 'flee:0.3861', 'shelters:0.374', 'bombing:0.3368', 'putins:0.2919']"
+        ],
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/blacklistednews.com/Russia Has Launched Phase Two Of Its Operation In Ukraine.txt+eventbasecode190+eventcode190+avgtone0.4816017316017316+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['oblasts:0.4481', 'donetsk:0.3975', 'deploy:0.3308', 'propaganda:0.3242', 'operation:0.3184', 'war:0.3158', 'tactical:0.3127', 'frontline:0.2735', 'lavrov:0.2609', 'update:0.2359', 'thestudyofwar:0.2289', 'phase:0.2103', 'surge:0.2046', 'supply:0.1901', 'read:0.1869', 'predict:0.1807', 'hurry:0.1796', 'donetzk:0.1623', 'align:0.1605', 'intend:0.152', 'demarcate:0.1488', 'begin:0.1454', 'continuous:0.139', 'large:0.1313', 'upper:0.1297', 'utc:0.1215', 'foreign:0.1013', 'mile:0.0991', 'sure:0.0953', 'week:0.0933']+titles_keywords+['ukraine:0.448', 'russia:0.3985', 'operation:0.2654', 'phase:0.2293', 'launched:0.1993']"
+        ]
+    ]
+}

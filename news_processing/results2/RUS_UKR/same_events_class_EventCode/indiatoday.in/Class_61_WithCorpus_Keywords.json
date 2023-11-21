@@ -1,0 +1,17 @@
+{
+    "BGD+RUS+61":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/indiatoday.in/After pandemic war in Ukraine new threat to food security.txt+eventbasecode61+eventcode61+avgtone0.4700956937799043+goldsteinscale0.82+nummentions0.022496371552975326+numarticles0.02030456852791878+numsources0.019736842105263157+news_keywords+['bangladesh:0.478', 'pandemic:0.4076', 'ukrainian:0.3693', 'russias:0.3539', 'agriculture:0.3505', 'war:0.3477', 'hunger:0.2436', 'population:0.2345', 'crisis:0.2128', 'nation:0.2031', 'read:0.1817', 'increase:0.1756', 'progress:0.1746', 'globally:0.1732', 'report:0.17', 'availability:0.166', 'import:0.1645', 'sufficiency:0.1644', 'surge:0.1616', 'salinity:0.1543', 'secure:0.1533', 'source:0.1452', 'organize:0.1427', 'bad:0.1249', 'head:0.106', 'hasina:0.1024', 'major:0.0965', 'inequalities:0.0919', 'reversing:0.0835', 'werent:0.0529']+titles_keywords+['pandemic:0.4842', 'ukraine:0.436', 'war:0.3396', 'food:0.337', 'new:0.0558']"
+        ]
+    ],
+    "LBN+UKR+61":[
+        [
+            "20220507+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Russias propaganda that West is forcing Ukraine into another Holodomor holds no water.txt+eventbasecode61+eventcode61+avgtone0.485239852398524+goldsteinscale0.82+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4525', 'propaganda:0.4055', 'famine:0.3799', 'supply:0.2986', 'territory:0.2417', 'vegetable:0.237', 'bomb:0.2212', 'complication:0.2136', 'sow:0.2026', 'yurii:0.1956', 'worsen:0.1913', 'sector:0.1822', 'shmyhal:0.1806', 'block:0.1799', 'important:0.1712', 'fund:0.1659', 'result:0.1607', 'argue:0.1578', 'military:0.157', 'export:0.1566', 'blaming:0.1521', 'holodomor:0.1487', 'world:0.144', 'according:0.1408', 'good:0.1373', 'begin:0.1358', 'buy:0.1309', 'solsky:0.1192', 'include:0.1158', 'wage:0.1151']+titles_keywords+['propaganda:0.4533', 'ukraine:0.4453', 'holodomor:0.3217', 'water:0.1771', 'holds:0.0785']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220410+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Ukraine announces complete termination of imports from Russia.txt+eventbasecode61+eventcode61+avgtone0.47302904564315357+goldsteinscale0.82+nummentions0.0420899854862119+numarticles0.03118201595358956+numsources0.03289473684210526+news_keywords+['ukraine:0.5349', 'embargo:0.4624', 'russias:0.4277', 'economy:0.2945', 'reuters:0.2744', 'import:0.2665', 'war:0.2632', 'zelenskyy:0.2582', 'boris:0.2551', 'federation:0.2381', 'isolate:0.2304', 'territory:0.2248', 'halt:0.2008', 'aggressor:0.1807', 'product:0.154', 'read:0.1538', 'law:0.1496', 'announces:0.1317', 'complete:0.1225', 'reduce:0.1215', 'grow:0.1042', 'biden:0.1014', 'come:0.0979', 'non:0.0928', 'feb:0.0921', 'example:0.0877', 'value:0.0826', 'page:0.0779', 'today:0.0653', 'virtually:0.0582']+titles_keywords+['ukraine:0.4427', 'termination:0.2495', 'imports:0.2388', 'complete:0.1825', 'announces:-0.0167']"
+        ]
+    ]
+}

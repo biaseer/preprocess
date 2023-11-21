@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+13":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/bworldonline.com/Biden calls Putin a war criminal.txt+eventbasecode13+eventcode13+avgtone0.4768041237113402+goldsteinscale0.52+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.009868421052631578+news_keywords+['putin:0.4662', 'ukraines:0.4399', 'moscow:0.4193', 'kyivlviv:0.4153', 'nato:0.4134', 'reuters:0.3195', 'negotiation:0.3173', 'diplomat:0.317', 'demilitarize:0.3137', 'sovereignty:0.2647', 'agreement:0.2557', 'invasion:0.2543', 'order:0.2193', 'plan:0.215', 'medinsky:0.2147', 'drone:0.2132', 'information:0.201', 'end:0.1844', 'thursday:0.1842', 'introduce:0.1741', 'additional:0.1656', 'ready:0.1643', 'repeat:0.1599', 'short:0.1525', 'hoax:0.152', 'fled:0.1484', 'version:0.1349', 'state:0.1261', 'wont:0.1239', 'powerful:0.1201']+titles_keywords+['putin:0.4833', 'biden:0.479', 'criminal:0.2974', 'war:0.2863', 'calls:0.0546']"
+        ],
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/bworldonline.com/Stocks rise as RussiaUkraine talks show progress.txt+eventbasecode13+eventcode13+avgtone0.48519362186788156+goldsteinscale0.52+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['reuters:0.4532', 'economy:0.4229', 'kyiv:0.418', 'philippine:0.3738', 'russias:0.3623', 'investors:0.3553', 'stock:0.3511', 'war:0.3371', 'increase:0.2986', 'optimism:0.2905', 'sectoral:0.2703', 'future:0.2668', 'status:0.2632', 'global:0.2565', 'exchange:0.2509', 'index:0.2462', 'follow:0.221', 'end:0.2016', 'neutral:0.2013', 'cue:0.1978', 'pull:0.1924', 'monitor:0.1895', 'yield:0.1873', 'digest:0.1862', 'say:0.1778', 'issue:0.1689', 'benchmark:0.1537', 'week:0.1529', 'nearly:0.1377', 'large:0.1362']+titles_keywords+['stocks:0.3218', 'russiaukraine:0.2882', 'rise:0.2734', 'talks:0.1724', 'progress:0.1421']"
+        ]
+    ]
+}

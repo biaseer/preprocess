@@ -1,0 +1,12 @@
+{
+    "BEL+RUS+46":[
+        [
+            "20211215+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/EU exSoviet state leaders meet as Russia tensions simmer.txt+eventbasecode46+eventcode46+avgtone0.4943502824858757+goldsteinscale0.85+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.013157894736842105+news_keywords+['ukraines:0.4127', 'moscow:0.3643', 'eu:0.3535', 'meeting:0.2928', 'lukashenko:0.2715', 'union:0.2572', 'tariffs:0.256', 'antigovernment:0.2285', 'bloc:0.2279', 'border:0.2279', 'petro:0.2264', 'table:0.2233', 'relation:0.1838', 'pledge:0.1755', 'strategic:0.1693', 'attract:0.1672', 'forward:0.1455', 'leave:0.1393', 'soon:0.1391', 'emphasize:0.1383', 'deal:0.1371', 'example:0.1343', 'simmer:0.1269', 'include:0.126', 'hour:0.1214', 'final:0.1177', 'state:0.1064', 'set:0.1047', 'word:0.101', 'differentiation:0.0753']+titles_keywords+['eu:0.3695', 'meet:0.3179', 'leaders:0.2613', 'tensions:0.2087', 'state:0.1514']"
+        ]
+    ],
+    "WST+UKR+46":[
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/No apologies Germanys Merkel defends approach to Ukraine.txt+eventbasecode46+eventcode46+avgtone0.4886547811993517+goldsteinscale0.85+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.023026315789473683+news_keywords+['diplomacy:0.479', 'ukraines:0.4379', 'merkel:0.4223', 'putin:0.4126', 'nato:0.4078', 'annexation:0.3295', 'attack:0.2826', 'separatist:0.2744', 'oligarch:0.2691', 'agreement:0.2574', 'berlin:0.2547', 'excuse:0.2541', 'develop:0.2252', 'chancellorship:0.2237', 'enter:0.214', 'know:0.2126', 'sanction:0.2087', 'happen:0.2047', 'calm:0.2002', 'oppose:0.1991', 'matter:0.18', 'think:0.1788', 'long:0.1713', 'miscalculation:0.1511', 'pipeline:0.1493', 'track:0.1305', 'april:0.1218', 'wont:0.114', 'wasnt:0.107', 'doesnt:0.098']+titles_keywords+['merkel:0.4744', 'ukraine:0.379', 'apologies:0.3616', 'defends:0.2718', 'approach:0.1831']"
+        ]
+    ]
+}

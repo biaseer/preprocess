@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/counterpunch.org/How Hypersonic Weapons Work.txt+eventbasecode190+eventcode190+avgtone0.4923547400611621+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['hypersonic:0.4981', 'icbms:0.4081', 'aerospace:0.2896', 'weapon:0.2393', 'rapidly:0.2294', 'russian:0.2095', 'maneuverability:0.1976', 'navys:0.1829', 'scramjet:0.1647', 'threaten:0.148', 'implement:0.1371', 'concern:0.1281', 'read:0.1245', 'altitude:0.1201', 'launched:0.1041', 'examples:0.1015', 'reach:0.1006', 'test:0.09', 'km:0.0867', 'republish:0.0818', 'layer:0.0793', 'fact:0.0792', 'predictable:0.0782', 'dongfeng:0.0781', 'constellation:0.0766', 'recent:0.075', 'meaning:0.0541', 'coverage:0.0282', 'necessarily:0.0224', 'cost:-0.0064']+titles_keywords+['hypersonic:0.6532', 'weapons:0.38', 'work:0.0654']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/counterpunch.org/The New Turn in Ukraine Putins War Becomes Bidens War.txt+eventbasecode190+eventcode190+avgtone0.46999117387466904+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimea:0.4778', 'putins:0.4111', 'nato:0.4018', 'militarily:0.38', 'ceasefire:0.3594', 'conflict:0.3106', 'cyberwarfare:0.3067', 'hegemony:0.3009', 'pentagon:0.2955', 'overthrow:0.2801', 'escalate:0.2652', 'prepares:0.252', 'zelensky:0.2438', 'administration:0.2419', 'turn:0.2346', 'biden:0.2218', 'know:0.2124', 'want:0.2014', 'end:0.1952', 'east:0.1921', 'secure:0.1872', 'weapon:0.183', 'long:0.1783', 'precipice:0.1778', 'assumption:0.1711', 'americaneuropean:0.1564', 'draw:0.1391', 'additional:0.1376', 'new:0.1229', 'true:0.0806']+titles_keywords+['war:0.4417', 'putins:0.4392', 'bidens:0.338', 'turn:0.3107', 'new:0.1216']"
+        ]
+    ]
+}

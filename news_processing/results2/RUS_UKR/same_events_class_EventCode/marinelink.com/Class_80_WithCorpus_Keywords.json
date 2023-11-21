@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/marinelink.com/First Cargo Ship Leaves Mariupol Since Russia Took the City.txt+eventbasecode80+eventcode80+avgtone0.4810126582278481+goldsteinscale0.75+nummentions0.01269956458635704+numarticles0.013415518491660623+numsources0.029605263157894735+news_keywords+['crimea:0.5218', 'donetsk:0.437', 'russian:0.3604', 'shipment:0.339', 'annexed:0.3042', 'mariupol:0.2732', 'vessel:0.2709', 'seize:0.2453', 'steelworks:0.2423', 'port:0.2391', 'bridge:0.2355', 'denis:0.22', 'mainland:0.217', 'separatist:0.2104', 'loot:0.1972', 'leave:0.187', 'telegram:0.1865', 'besieged:0.1678', 'breakaway:0.1637', 'republic:0.1569', 'open:0.145', 'month:0.1361', 'took:0.13', 'write:0.1295', 'people:0.1099', 'today:0.1009', 'roll:0.0937', 'link:0.0913', 'hot:0.0767', 'head:0.0371']+titles_keywords+['mariupol:0.3669', 'cargo:0.2943', 'russia:0.2214', 'leaves:0.1175', 'took:0.067']"
+        ],
+        [
+            "20220620+../news_crawling/RUS_UKR/p_articles/marinelink.com/Ukraine Hits Crimean Drilling Platforms.txt+eventbasecode80+eventcode80+avgtone0.47982062780269064+goldsteinscale0.75+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['crimea:0.5706', 'ukrainian:0.3963', 'russiaas:0.3928', 'drilling:0.3654', 'askyonov:0.2749', 'oil:0.2747', 'attack:0.2721', 'infrastructuresuch:0.2482', 'military:0.2399', 'chernomorneftegaz:0.2309', 'olga:0.2301', 'bridge:0.2121', 'report:0.1958', 'rig:0.1907', 'concern:0.1896', 'underway:0.1845', 'cite:0.1802', 'platforms:0.1798', 'news:0.1733', 'km:0.1652', 'sanction:0.1617', 'union:0.1484', 'telegram:0.143', 'gmt:0.1304', 'search:0.1287', 'upper:0.1248', 'operator:0.1161', 'people:0.1137', 'like:0.1082', 'black:0.0952']+titles_keywords+['crimean:0.4333', 'drilling:0.3642', 'ukraine:0.3347', 'hits:0.2611', 'platforms:0.1908']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CHE+RUS+46":[
+        [
+            "20220113+../news_crawling/RUS_UKR/p_articles/wtvr.com/Russia warns of Cuba Venezuela deployment if tensions mount.txt+eventbasecode46+eventcode46+avgtone0.48366013071895425+goldsteinscale0.85+nummentions0.04172714078374456+numarticles0.04242204496011603+numsources0.039473684210526314+news_keywords+['nato:0.4657', 'kremlin:0.4135', 'dmitry:0.3496', 'venezuela:0.2973', 'diplomat:0.2891', 'negotiation:0.2872', 'presidents:0.2555', 'tension:0.2467', 'sanction:0.2418', 'delegation:0.2278', 'worry:0.2143', 'invasion:0.2141', 'meet:0.1762', 'week:0.1704', 'infrastructure:0.164', 'remark:0.1612', 'geneva:0.1574', 'buildup:0.1314', 'exclude:0.116', 'eastern:0.1133', 'rtvi:0.111', 'state:0.1105', 'reduce:0.1074', 'sit:0.1062', 'sec:0.1026', 'possibility:0.1008', 'complete:0.0978', 'broadcast:0.0956', 'mount:0.094', 'narrow:0.0847']+titles_keywords+['cuba:0.3395', 'tensions:0.2097', 'warns:0.1781', 'deployment:0.1332', 'mount:0.0792']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220110+../news_crawling/RUS_UKR/p_articles/wtvr.com/US and Russia hold talks in Geneva amid tensions linked to Ukraine.txt+eventbasecode46+eventcode46+avgtone0.5+goldsteinscale0.85+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.02631578947368421+news_keywords+['putin:0.3956', 'nato:0.3928', 'ukraine:0.3672', 'geneva:0.3663', 'diplomatic:0.3516', 'meeting:0.3493', 'talk:0.2789', 'ryabkov:0.2667', 'troop:0.2262', 'border:0.2148', 'summit:0.179', 'report:0.177', 'npr:0.1764', 'monday:0.172', 'brief:0.163', 'tension:0.1616', 'delegation:0.157', 'hold:0.1512', 'arrive:0.1453', 'sherman:0.1332', 'rebuff:0.129', 'security:0.1273', 'blinken:0.1257', 'june:0.1078', 'request:0.1057', 'round:0.0994', 'state:0.0832', 'link:0.0798', 'times:0.0327', 'include:0.0307']+titles_keywords+['geneva:0.35', 'russia:0.2271', 'talks:0.2224', 'hold:0.0717', 'linked:0.009']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/wtvr.com/Talks between delegations from Ukraine Russia to resume Tuesday.txt+eventbasecode46+eventcode46+avgtone0.4854651162790698+goldsteinscale0.85+nummentions0.10631349782293179+numarticles0.09789702683103699+numsources0.10855263157894737+news_keywords+['ukraine:0.4826', 'putin:0.4594', 'zelenskyy:0.394', 'war:0.3451', 'mediate:0.3155', 'news:0.2804', 'speak:0.2713', 'interrupt:0.2616', 'economy:0.2553', 'president:0.2524', 'delegation:0.2501', 'monday:0.2463', 'naftali:0.238', 'resume:0.2026', 'provide:0.1938', 'arrest:0.1843', 'survive:0.1805', 'end:0.1729', 'good:0.1667', 'plan:0.1637', 'address:0.1604', 'poster:0.1564', 'tv:0.1562', 'bennett:0.1467', 'video:0.1377', 'reduce:0.1291', 'hail:0.1153', 'main:0.1147', 'sharply:0.0942', 'offer:0.0552']+titles_keywords+['ukraine:0.4013', 'delegations:0.2305', 'talks:0.2226', 'tuesday:0.1839', 'resume:0.1057']"
+        ]
+    ]
+}

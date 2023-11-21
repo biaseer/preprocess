@@ -1,0 +1,17 @@
+{
+    "IND+UKR+51":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/swarajyamag.com/Ukraine Crisis Russia Welcomes Indias Position.txt+eventbasecode51+eventcode51+avgtone0.49509803921568624+goldsteinscale0.67+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['ukraine:0.4892', 'putin:0.4395', 'diplomat:0.3129', 'indias:0.2802', 'babushkin:0.2695', 'strategic:0.2649', 'instability:0.2421', 'escalation:0.2398', 'peace:0.2271', 'economy:0.2265', 'swarajya:0.2245', 'headline:0.2094', 'power:0.1807', 'operate:0.1787', 'privilege:0.1701', 'independent:0.1656', 'global:0.1619', 'immediate:0.1525', 'continue:0.1479', 'term:0.1399', 'deliver:0.1307', 'say:0.1302', 'state:0.128', 'rs:0.1244', 'long:0.1143', 'multipolar:0.1107', 'welcome:0.0663', 'feb:0.0647', 'pti:0.0548', 'little:0.041']+titles_keywords+['ukraine:0.4807', 'indias:0.2498', 'position:0.1591', 'crisis:0.1367', 'welcomes:0.1159']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/swarajyamag.com/Ukraine How Boycotting Everything Russian And Blaming Russian Society Rather Than Putin Is Xenophobic.txt+eventbasecode51+eventcode51+avgtone0.46494066882416396+goldsteinscale0.67+nummentions0.057329462989840346+numarticles0.05801305293691081+numsources0.12171052631578948+news_keywords+['ukrainians:0.5058', 'xenophobic:0.4658', 'putin:0.4264', 'refugee:0.3977', 'antagonism:0.3722', 'boycott:0.3519', 'political:0.3367', 'history:0.3099', 'invade:0.3072', 'naturalise:0.2852', 'headline:0.2617', 'distinction:0.2606', 'sanction:0.2444', 'japanese:0.2343', 'north:0.1984', 'example:0.1877', 'attention:0.1852', 'conglomerate:0.1819', 'dangerous:0.1759', 'ordinary:0.1683', 'torpedoed:0.1672', 'help:0.1491', 'alongside:0.1234', 'swarajya:0.1212', 'similar:0.12', 'actually:0.1139', 'stoli:0.1112', 'long:0.1043', 'playlist:0.0957', 'crossfire:0.0897']+titles_keywords+['xenophobic:0.5758', 'boycotting:0.3938', 'ukraine:0.3777', 'blaming:0.2454', 'society:0.1434']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/swarajyamag.com/From Z To Q When Letters Become Political Symbols.txt+eventbasecode51+eventcode51+avgtone0.48351001177856306+goldsteinscale0.67+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['alphabet:0.4499', 'cyrillic:0.3883', 'propaganda:0.3721', 'history:0.3442', 'ukraine:0.3158', 'politically:0.2985', 'neutrality:0.2911', 'headline:0.2564', 'change:0.2526', 'zapad:0.2479', 'dictionary:0.2339', 'direction:0.2153', 'example:0.2149', 'flag:0.2072', 'national:0.1972', 'xi:0.1967', 'surname:0.1943', 'conglomerate:0.1931', 'end:0.1815', 'wire:0.1734', 'resonate:0.1641', 'resembles:0.16', 'qanon:0.1593', 'emblazon:0.1573', 'jinping:0.1516', 'basis:0.1265', 'superfluous:0.1093', 'far:0.0988', 'shortly:0.0879', 'theyre:0.079']+titles_keywords+['letters:0.5045', 'symbols:0.4806', 'political:0.4614']"
+        ]
+    ]
+}

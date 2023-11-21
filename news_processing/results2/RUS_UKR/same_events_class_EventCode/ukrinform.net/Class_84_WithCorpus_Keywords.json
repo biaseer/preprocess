@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+84":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukraines EU membership bid European Commission has to submit its opinion.txt+eventbasecode84+eventcode84+avgtone0.4857142857142857+goldsteinscale0.85+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.003289473684210526+news_keywords+['ukraine:0.4631', 'treaties:0.3144', 'readiness:0.29', 'peaceful:0.2738', 'sanction:0.2659', 'agreement:0.2643', 'remain:0.2561', 'humanitarian:0.2287', 'unprovoked:0.2251', 'facilitate:0.2195', 'crisis:0.2193', 'union:0.213', 'submit:0.2037', 'aggression:0.1924', 'circumvention:0.1911', 'read:0.1865', 'isolate:0.1853', 'democratic:0.1842', 'intensify:0.1811', 'invitation:0.1799', 'bomb:0.1754', 'immediate:0.172', 'coordinate:0.1586', 'include:0.1575', 'march:0.146', 'forces:0.1376', 'stop:0.1347', 'fully:0.1277', 'reconstruction:0.1214', 'welcome:0.1005']+titles_keywords+['ukraines:0.4068', 'eu:0.3411', 'submit:0.3286', 'commission:0.1653', 'opinion:0.1254']"
+        ]
+    ],
+    "RUS+UKR+84":[
+        [
+            "20220708+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Iron curtain shutting in Russia Ukrainians should leave ASAP Vereshchuk.txt+eventbasecode84+eventcode84+avgtone0.4922839506172839+goldsteinscale0.85+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4609', 'border:0.3338', 'remain:0.3162', 'curtain:0.289', 'government:0.2748', 'mobilized:0.2634', 'vereshchuk:0.2427', 'union:0.2378', 'allow:0.225', 'iron:0.2185', 'ukrinform:0.2133', 'opportunity:0.1933', 'collaborator:0.1833', 'aggressor:0.1819', 'end:0.1781', 'information:0.1769', 'asap:0.1715', 'telethon:0.1704', 'issue:0.1701', 'return:0.1602', 'hold:0.1482', 'urged:0.1473', 'narrow:0.1394', 'note:0.1266', 'sever:0.1239', 'way:0.1223', 'entire:0.1086', 'reach:0.0961', 'actually:0.0845', 'week:0.0753']+titles_keywords+['ukrainians:0.4606', 'vereshchuk:0.4052', 'curtain:0.3055', 'leave:0.2856', 'iron:0.2151']"
+        ]
+    ]
+}

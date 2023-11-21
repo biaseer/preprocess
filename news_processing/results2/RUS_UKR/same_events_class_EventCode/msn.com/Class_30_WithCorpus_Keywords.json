@@ -1,0 +1,53 @@
+{
+    "BLR+UKR+30":[
+        []
+    ],
+    "CAN+RUS+30":[
+        []
+    ],
+    "CAN+UKR+30":[
+        []
+    ],
+    "CHL+RUS+30":[
+        [
+            "20220714+../news_crawling/RUS_UKR/p_articles/msn.com/Photo of Bloodied Baby Carriage Shows Carnage of Russian Missile Attack.txt+eventbasecode30+eventcode30+avgtone0.4581497797356828+goldsteinscale0.7+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4916', 'putin:0.4335', 'atrocitiesincluding:0.4043', 'terrorist:0.3954', 'war:0.3706', 'casualty:0.2879', 'kill:0.2855', 'news:0.2718', 'bloodied:0.2496', 'civilian:0.2456', 'infrastructure:0.2439', 'buildingsukrainian:0.2354', 'report:0.2198', 'missilewatch:0.209', 'zelensky:0.2063', 'cite:0.2062', 'concern:0.1905', 'child:0.1899', 'comply:0.1864', 'continue:0.178', 'write:0.1767', 'ammo:0.1716', 'ford:0.163', 'displace:0.155', 'donbas:0.1474', 'large:0.1354', 'thousands:0.1312', 'right:0.1273', 'pic:0.1169', 'partially:0.08']+titles_keywords+['missile:0.3962', 'russian:0.3615', 'bloodied:0.3384', 'photo:0.2784', 'baby:0.2405']"
+        ]
+    ],
+    "EUR+UKR+30":[
+        [],
+        [],
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/msn.com/Anemic Russian attack making little headway Pentagon official says Biden displeased with leaks about role.txt+eventbasecode30+eventcode30+avgtone0.48100000000000004+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukrainianpresident:0.4812', 'crimea:0.4508', 'nato:0.4201', 'russias:0.397', 'troops:0.3109', 'pentagon:0.2943', 'volodymyrzelenskyy:0.2647', 'escalation:0.2625', 'victory:0.2302', 'news:0.2287', 'bipartisan:0.2207', 'oppose:0.2156', 'know:0.2123', 'expect:0.2032', 'bidenmade:0.2031', 'soon:0.2001', 'pandemic:0.1993', 'howitzer:0.1992', 'intercept:0.1954', 'brief:0.1942', 'pre:0.1923', 'economic:0.1906', 'orchestrate:0.1774', 'worsen:0.1767', 'inaccurately:0.1678', 'toattack:0.1528', 'distinction:0.1519', 'sprawl:0.1413', 'import:0.141', 'admittance:0.0596']+titles_keywords+['biden:0.3903', 'pentagon:0.3285', 'attack:0.3091', 'leaks:0.2985', 'anemic:0.282']"
+        ]
+    ],
+    "FRA+RUS+30":[
+        []
+    ],
+    "GBR+UKR+30":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/msn.com/UK promises to support Ukraine as Zelensky hints at concessions to secure peace.txt+eventbasecode30+eventcode30+avgtone0.4903713892709767+goldsteinscale0.7+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['ukraine:0.4942', 'putins:0.4002', 'negotiate:0.2754', 'neutrality:0.2732', 'government:0.2666', 'refugee:0.2624', 'boris:0.2617', 'strategically:0.2399', 'invasion:0.2248', 'peace:0.2244', 'secure:0.2124', 'remain:0.2048', 'downing:0.1994', 'news:0.197', 'supply:0.1934', 'prepared:0.1883', 'secretary:0.1802', 'volodymyr:0.1738', 'guidance:0.1661', 'map:0.1443', 'row:0.1392', 'allow:0.1372', 'end:0.1367', 'brief:0.1303', 'receive:0.1188', 'property:0.1128', 'plus:0.0835', 'cou:0.0644', 'possible:0.0581', 'theres:0.0484']+titles_keywords+['ukraine:0.4276', 'zelensky:0.4066', 'peace:0.1961', 'support:0.171', 'concessions:0.1617']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [],
+        [],
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/msn.com/Russia Ukraine agree on multiple humanitarian corridors on Sunday.txt+eventbasecode30+eventcode30+avgtone0.48653846153846153+goldsteinscale0.7+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.013157894736842105+news_keywords+['ukraine:0.4713', 'evacuate:0.3722', 'evacuees:0.344', 'vladimir:0.3233', 'humanitarian:0.2935', 'corridor:0.27', 'military:0.2171', 'vereshchuk:0.2115', 'attack:0.1907', 'reuters:0.1815', 'operation:0.1671', 'allow:0.1503', 'port:0.1403', 'area:0.1314', 'slam:0.1263', 'bus:0.1227', 'southeastern:0.1225', 'begin:0.122', 'iryna:0.1119', 'mariupol:0.0949', 'maksym:0.0908', 'sign:0.0786', 'handful:0.075', 'order:0.0748', 'today:0.0601', 'agree:0.06', 'month:0.0594', 'accord:0.0581', 'personal:0.048', 'available:0.042']+titles_keywords+['ukraine:0.4119', 'corridors:0.3363', 'humanitarian:0.2805', 'multiple:0.159', 'agree:0.0676']",
+            "20220328+../news_crawling/RUS_UKR/p_articles/msn.com/Transcript World Stage Belarus with Svetlana Tikhanovskaya.txt+eventbasecode30+eventcode30+avgtone0.4798307475317348+goldsteinscale0.7+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.02631578947368421+news_keywords+['belarus:0.5023', 'putin:0.4522', 'geopolitical:0.4161', 'lukashenkofor:0.3888', 'dictatorship:0.3724', 'destabilize:0.3454', 'militarily:0.3182', 'predict:0.25', 'read:0.2473', 'paragraph:0.2454', 'enter:0.2449', 'telegram:0.2448', 'provocation:0.2446', 'occur:0.2346', 'implication:0.2267', 'relationship:0.2187', 'vpn:0.2151', 'avoid:0.2105', 'weapon:0.1924', 'movement:0.1915', 'retranslate:0.1899', 'intertwine:0.1837', 'biden:0.1802', 'transcript:0.1768', 'sure:0.1285', 'volunteer:0.1276', 'young:0.116', 'theylook:0.1102', 'disagree:0.0888', 'nonnuclear:0.0622']+titles_keywords+['transcript:0.5278', 'tikhanovskaya:0.473', 'belarus:0.4673', 'stage:0.2853', 'world:0.2248']"
+        ],
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/msn.com/Russian and Ukrainian militaries set to discuss grain exports.txt+eventbasecode30+eventcode30+avgtone0.4863138686131387+goldsteinscale0.7+nummentions0.25544267053701014+numarticles0.25598259608411894+numsources0.39473684210526316+news_keywords+['ukraine:0.4458', 'blockade:0.3495', 'putins:0.3378', 'war:0.3336', 'diplomat:0.2686', 'infrastructure:0.2546', 'commodity:0.2413', 'shipment:0.2232', 'plan:0.2165', 'grain:0.2164', 'news:0.2101', 'upcoming:0.2032', 'navigation:0.2029', 'talk:0.1854', 'corridor:0.1803', 'enter:0.1755', 'pyotr:0.1755', 'need:0.1737', 'trap:0.1672', 'declare:0.1632', 'deal:0.1623', 'increase:0.1564', 'safe:0.1555', 'global:0.1501', 'willingness:0.1496', 'endanger:0.1398', 'exporter:0.1142', 'right:0.1112', 'blame:0.1057', 'antonio:0.086']+titles_keywords+['ukrainian:0.319', 'militaries:0.2943', 'grain:0.2681', 'exports:0.2503', 'discuss:0.0847']",
+            "20220713+../news_crawling/RUS_UKR/p_articles/msn.com/Russia and Ukraine hold talks to ease grain export blockage.txt+eventbasecode30+eventcode30+avgtone0.48743718592964824+goldsteinscale0.7+nummentions0.25544267053701014+numarticles0.25598259608411894+numsources0.39473684210526316+news_keywords+['ukraine:0.4483', 'blockade:0.3338', 'war:0.3331', 'diplomat:0.309', 'plan:0.2428', 'upcoming:0.2266', 'commodity:0.2196', 'expect:0.218', 'news:0.2179', 'navigation:0.2168', 'talk:0.215', 'corridor:0.2106', 'crisis:0.2074', 'ship:0.2035', 'trap:0.1805', 'need:0.1782', 'deal:0.1758', 'safe:0.1753', 'hold:0.1717', 'pyotr:0.1664', 'declare:0.1597', 'general:0.1539', 'remain:0.148', 'authority:0.1437', 'sunflower:0.1381', 'export:0.1344', 'endanger:0.134', 'possibility:0.1077', 'silo:0.1', 'head:0.0906']+titles_keywords+['ukraine:0.3485', 'grain:0.2551', 'talks:0.2014', 'blockage:0.1771', 'export:0.1271']"
+        ],
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/msn.com/US rocket system enables Ukraine to pummel key supply bridge.txt+eventbasecode30+eventcode30+avgtone0.486336032388664+goldsteinscale0.7+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4921', 'airstrikes:0.4318', 'dnipropetrovsk:0.3169', 'artillery:0.3123', 'news:0.2959', 'bridge:0.2934', 'troop:0.2855', 'coordinate:0.2832', 'strategic:0.2721', 'emergency:0.2711', 'underway:0.27', 'occupy:0.2698', 'victory:0.2657', 'traffic:0.2656', 'overmanrussian:0.2642', 'rocket:0.2479', 'industrial:0.2454', 'know:0.2407', 'gov:0.236', 'kilometer:0.2137', 'intensify:0.2062', 'chaotic:0.2045', 'halt:0.2043', 'pummel:0.2036', 'ap:0.1946', 'learn:0.1883', 'nearly:0.1813', 'receive:0.1703', 'contrast:0.1699', 'schumer:0.1093']+titles_keywords+['rocket:0.3841', 'ukraine:0.372', 'bridge:0.3098', 'key:0.1842', 'enables:0.1669']"
+        ]
+    ],
+    "UKR+RUS+30":[
+        [],
+        []
+    ],
+    "WST+UKR+30":[
+        []
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "RUS+RUS+181":[
+        []
+    ],
+    "RUS+UKR+181":[
+        [],
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/msn.com/Russian forces have abducted a second Ukrainian mayor this one from the town of Dniprorudne.txt+eventbasecode181+eventcode181+avgtone0.4663865546218487+goldsteinscale0.05+nummentions0.013425253991291727+numarticles0.011965192168237854+numsources0.03618421052631579+news_keywords+['kyiv:0.513', 'kidnap:0.439', 'russians:0.3949', 'mayor:0.3054', 'democratic:0.2979', 'war:0.2588', 'matveyev:0.2516', 'flee:0.2345', 'dmytro:0.2307', 'kuleba:0.216', 'invader:0.2125', 'civilian:0.2113', 'cnnreported:0.2111', 'protocol:0.1892', 'galina:0.1858', 'worry:0.1855', 'illegitimate:0.1687', 'plea:0.168', 'prohibit:0.1486', 'structure:0.1381', 'act:0.1356', 'international:0.1273', 'vitali:0.1239', 'additional:0.12', 'zero:0.1157', 'population:0.1128', 'similar:0.0963', 'right:0.0906', 'today:0.0668', 'instal:0.0514']+titles_keywords+['ukrainian:0.3609', 'abducted:0.343', 'mayor:0.2416', 'dniprorudne:0.2054', 'second:0.128']"
+        ],
+        [],
+        [],
+        [
+            "20220624+../news_crawling/RUS_UKR/p_articles/msn.com/Putin Dealt Blow as Russian Advance Likely to Stall in Coming Weeks.txt+eventbasecode181+eventcode181+avgtone0.47068145800316963+goldsteinscale0.05+nummentions0.04825834542815675+numarticles0.048948513415518494+numsources0.16776315789473684+news_keywords+['kremlin:0.4207', 'ukrainian:0.384', 'battle:0.2899', 'peacerussia:0.2858', 'operation:0.2803', 'update:0.2576', 'retreat:0.2486', 'advance:0.2432', 'accomplish:0.2406', 'encirclement:0.2384', 'friday:0.2223', 'prolonging:0.2164', 'ideological:0.2116', 'pull:0.2041', 'serhiy:0.1935', 'telegram:0.1887', 'report:0.1828', 'avoid:0.1682', 'articles:0.1642', 'overall:0.1616', 'counteroffensives:0.1595', 'coming:0.1587', 'significant:0.1555', 'donbas:0.1553', 'governor:0.152', 'vulnerable:0.1496', 'positionwhy:0.149', 'focus:0.1365', 'like:0.1132', 'dealt:0.1098']+titles_keywords+['putin:0.4049', 'weeks:0.2084', 'advance:0.1946', 'coming:0.1395', 'likely:0.1153']"
+        ]
+    ]
+}

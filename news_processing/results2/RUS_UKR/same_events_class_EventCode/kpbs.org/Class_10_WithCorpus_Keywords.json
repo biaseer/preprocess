@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+10":[
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/kpbs.org/RussiaUkraine war What happened today June 30.txt+eventbasecode10+eventcode10+avgtone0.4794372294372294+goldsteinscale0.5+nummentions0.23439767779390422+numarticles0.23495286439448876+numsources0.21052631578947367+news_keywords+['russiaukraine:0.5227', 'ukraine:0.5205', 'kremlin:0.4853', 'putin:0.4603', 'nato:0.3933', 'syria:0.3929', 'war:0.385', 'june:0.2249', 'separatist:0.2163', 'sanction:0.2042', 'evacuate:0.2036', 'border:0.2002', 'strategic:0.1986', 'recap:0.1864', 'read:0.1632', 'npr:0.1597', 'happen:0.1417', 'update:0.1416', 'long:0.1372', 'end:0.1122', 'refuse:0.1015', 'grade:0.1007', 'changing:0.0908', 'daily:0.0904', 'hundreds:0.0851', 'subscribe:0.08', 'coverage:0.0783', 'indicator:0.071', 'new:0.0614', 'request:0.0301']+titles_keywords+['russiaukraine:0.4814', 'war:0.4249', 'june:0.3017', 'today:0.3012', 'happened:0.2627']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220202+../news_crawling/RUS_UKR/p_articles/kpbs.org/10 books to read about Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4878444084278769+goldsteinscale0.5+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.023026315789473683+news_keywords+['kyiv:0.43', 'literature:0.3789', 'ethnographic:0.3572', 'journalist:0.3421', 'nationalist:0.3254', 'revolution:0.3244', 'putin:0.3201', 'npr:0.3195', 'read:0.3105', 'obits:0.3077', 'chernobyl:0.2882', 'chronicle:0.2708', 'historically:0.2678', 'document:0.2661', 'information:0.2656', 'occupy:0.2593', 'list:0.2466', 'kramers:0.2368', 'translate:0.2145', 'people:0.2143', 'misha:0.1781', 'hip:0.1729', 'like:0.1685', 'th:0.1629', 'cover:0.1623', 'idea:0.161', 'general:0.1595', 'push:0.1474', 'month:0.114', 'connector:0.1094']+titles_keywords+['ukraine:0.5367', 'books:0.3702', 'read:0.2294', '10:0.0577']"
+        ]
+    ]
+}

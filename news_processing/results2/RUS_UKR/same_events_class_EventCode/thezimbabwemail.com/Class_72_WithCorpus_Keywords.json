@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+72":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/thezimbabwemail.com/Ukraine Russia envoys talk under shadow of nuclear threat.txt+eventbasecode72+eventcode72+avgtone0.4750492449113592+goldsteinscale0.915+nummentions0.16110304789550073+numarticles0.16171138506163887+numsources0.17763157894736842+news_keywords+['ukraine:0.5241', 'kremlin:0.467', 'nato:0.4406', 'putincloser:0.4303', 'escalation:0.2889', 'cyberattacks:0.286', 'evacuate:0.2781', 'overthrow:0.2611', 'prepare:0.2541', 'strategic:0.2512', 'troop:0.2457', 'announcement:0.2407', 'terrify:0.2344', 'weaponry:0.2336', 'chernov:0.226', 'adviser:0.2191', 'capital:0.2088', 'rhetoric:0.2083', 'table:0.2016', 'agreement:0.2001', 'anonymity:0.1996', 'report:0.1992', 'authorize:0.1819', 'follow:0.1666', 'warm:0.1642', 'gurney:0.1625', 'curfew:0.1486', 'nearly:0.1341', 'long:0.1336', 'faina:0.0917']+titles_keywords+['ukraine:0.4015', 'nuclear:0.3082', 'threat:0.2665', 'envoys:0.252', 'talk:0.2228']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/thezimbabwemail.com/Russia to stage massive nuclear drills amid Ukraine standoff.txt+eventbasecode72+eventcode72+avgtone0.48796033994334276+goldsteinscale0.915+nummentions0.08853410740203194+numarticles0.08919506889050036+numsources0.09868421052631579+news_keywords+['kremlin:0.4444', 'nato:0.4394', 'crimean:0.4293', 'icbms:0.4096', 'ukraines:0.4081', 'readiness:0.3897', 'nuclear:0.3572', 'invade:0.3521', 'maneuver:0.3061', 'peskov:0.305', 'standoff:0.2843', 'troop:0.2828', 'plan:0.2505', 'exercise:0.2283', 'drill:0.2277', 'precede:0.2202', 'worry:0.2191', 'president:0.1996', 'reminder:0.1827', 'supervise:0.1788', 'peninsula:0.1764', 'friday:0.1678', 'base:0.1634', 'continue:0.1529', 'ap:0.1525', 'question:0.1505', 'pullback:0.1264', 'similar:0.1152', 'actually:0.0767', 'shouldnt:0.0453']+titles_keywords+['ukraine:0.3177', 'nuclear:0.3156', 'drills:0.284', 'standoff:0.2291', 'stage:0.1303']"
+        ]
+    ]
+}

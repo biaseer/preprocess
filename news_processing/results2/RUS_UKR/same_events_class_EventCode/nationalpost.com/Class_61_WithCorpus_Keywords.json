@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+61":[
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/nationalpost.com/Russia steps up missile strikes on Ukraine as G7 leaders gather.txt+eventbasecode61+eventcode61+avgtone0.4739884393063584+goldsteinscale0.82+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.01644736842105263+news_keywords+['kyiv:0.5264', 'putin:0.4361', 'nato:0.4118', 'russias:0.4091', 'war:0.4047', 'missiles:0.3409', 'evacuate:0.2909', 'separatist:0.251', 'strategic:0.2445', 'industrial:0.2341', 'reporting:0.2333', 'sievierodonetsks:0.2146', 'telegram:0.2118', 'dangerous:0.2102', 'administration:0.2019', 'reiterate:0.1953', 'article:0.1942', 'kilometer:0.1902', 'hit:0.1843', 'kindergarten:0.1782', 'update:0.1775', 'baseless:0.1751', 'pretext:0.1505', 'grow:0.143', 'long:0.1356', 'girl:0.1335', 'phase:0.1177', 'import:0.1177', 'largely:0.0894', 'welcome:0.0747']+titles_keywords+['ukraine:0.3668', 'missile:0.2293', 'g7:0.1851', 'strikes:0.1606', 'gather:0.1445']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/nationalpost.com/Ukraine war threatens to make bread a luxury in the Middle East.txt+eventbasecode61+eventcode61+avgtone0.47903657448706516+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['yemen:0.5199', 'poverty:0.4147', 'oil:0.3617', 'devaluation:0.3436', 'reuters:0.3426', 'aid:0.3112', 'conflict:0.3084', 'government:0.3005', 'hungry:0.2812', 'amin:0.2743', 'subsidize:0.2732', 'bakeries:0.2643', 'capital:0.2637', 'salam:0.2614', 'table:0.2606', 'ration:0.2521', 'ramadan:0.2357', 'stock:0.2188', 'covid:0.2177', 'regional:0.2071', 'combusinessenergywheat:0.2024', 'complex:0.1938', 'threatens:0.1916', 'ahead:0.1864', 'basic:0.1839', 'thousand:0.1606', 'story:0.1506', 'importer:0.1303', 'entirely:0.1145', 'enable:0.0962']+titles_keywords+['ukraine:0.4411', 'bread:0.4225', 'war:0.4123', 'luxury:0.2629', 'make:0.2011']"
+        ]
+    ]
+}

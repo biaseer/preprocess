@@ -1,0 +1,15 @@
+{
+    "GBR+UKR+111":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/justiceinfo.net/UK warns Putin could be tried for war crimes.txt+eventbasecode111+eventcode111+avgtone0.4552980132450333+goldsteinscale0.4+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.019736842105263157+news_keywords+['putin:0.5204', 'crimea:0.4274', 'russian:0.3831', 'war:0.3106', 'prosecution:0.2976', 'hague:0.2946', 'civilians:0.281', 'invasion:0.2802', 'okhtyrka:0.2505', 'investigate:0.2157', 'violator:0.2047', 'warn:0.1957', 'indiscriminate:0.1859', 'destroy:0.1822', 'news:0.1781', 'action:0.1672', 'heel:0.1667', 'turn:0.1554', 'stomach:0.1501', 'international:0.1392', 'hit:0.1391', 'end:0.1351', 'want:0.1318', 'girl:0.1308', 'secretary:0.1304', 'cluster:0.1299', 'carry:0.1237', 'preschool:0.1184', 'sure:0.09', 'long:0.0718']+titles_keywords+['putin:0.4263', 'war:0.2354', 'warns:0.2013', 'crimes:0.1714', 'uk:0.1452']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/justiceinfo.net/US calls attack on Ukraine nuclear plant a possible war crime.txt+eventbasecode111+eventcode111+avgtone0.4410569105691055+goldsteinscale0.4+nummentions0.011248185776487663+numarticles0.011965192168237854+numsources0.03289473684210526+news_keywords+['kremlin:0.4401', 'kyiv:0.3909', 'nuclear:0.3467', 'crime:0.2768', 'accuse:0.2742', 'invasion:0.2577', 'kill:0.2384', 'irresponsibility:0.2381', 'boris:0.236', 'operation:0.2331', 'military:0.2159', 'president:0.2036', 'targeting:0.1923', 'prohibit:0.1852', 'embassy:0.1851', 'action:0.179', 'infrastructure:0.173', 'plant:0.1693', 'power:0.1528', 'object:0.1228', 'day:0.1199', 'explicitly:0.1145', 'careful:0.1134', 'view:0.1102', 'recent:0.0959', 'height:0.0836', 'regardless:0.0808', 'state:0.08', 'include:0.0601', 'possible:0.0475']+titles_keywords+['nuclear:0.3375', 'ukraine:0.3265', 'attack:0.235', 'crime:0.2008', 'plant:0.1716']"
+        ],
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/justiceinfo.net/Putin tells Macron West must stop supplying weapons to Ukraine.txt+eventbasecode111+eventcode111+avgtone0.4551569506726457+goldsteinscale0.4+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.013157894736842105+news_keywords+['ceasefire:0.47', 'kyiv:0.4476', 'putin:0.4356', 'conflict:0.3401', 'blockade:0.2928', 'logistics:0.2578', 'talk:0.2362', 'counterpart:0.2296', 'ignore:0.2261', 'help:0.1931', 'reiterate:0.1878', 'weapon:0.1788', 'consequence:0.1754', 'western:0.1714', 'end:0.1668', 'french:0.1575', 'displace:0.1541', 'readout:0.1527', 'accusing:0.1454', 'world:0.1328', 'allow:0.1295', 'azovstal:0.1292', 'bad:0.1275', 'resolution:0.1274', 'ready:0.1128', 'plant:0.1119', 'export:0.111', 'accord:0.0989', 'hour:0.0902', 'tuesday:0.0867']+titles_keywords+['putin:0.4405', 'ukraine:0.3823', 'macron:0.3588', 'weapons:0.2402', 'stop:0.1772']"
+        ]
+    ]
+}

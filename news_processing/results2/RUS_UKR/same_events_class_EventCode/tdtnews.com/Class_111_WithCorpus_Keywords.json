@@ -1,0 +1,12 @@
+{
+    "JPN+RUS+111":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/tdtnews.com/Russian sentenced to life in Ukraines 1st war crimes trial.txt+eventbasecode111+eventcode111+avgtone0.4646974063400576+goldsteinscale0.4+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.003289473684210526+news_keywords+['ukraine:0.4859', 'war:0.4229', 'moscows:0.3756', 'sanction:0.2824', 'separatist:0.2732', 'kill:0.27', 'occupy:0.264', 'shelipov:0.2565', 'capital:0.2505', 'civilian:0.2442', 'news:0.238', 'outgunned:0.2353', 'sievierodonetsk:0.2322', 'testify:0.2224', 'sentence:0.2029', 'intensify:0.2', 'flee:0.1981', 'hear:0.1967', 'legislationgranting:0.1779', 'bucha:0.1779', 'order:0.1774', 'day:0.1698', 'help:0.1533', 'biden:0.1419', 'video:0.1411', 'andjapanese:0.1382', 'arm:0.1382', 'standstill:0.1373', 'million:0.1248', 'associated:0.1009']+titles_keywords+['sentenced:0.3613', 'russian:0.3597', 'ukraines:0.3268', 'war:0.2243', '1st:0.129']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/tdtnews.com/3 nations join international team probing Ukraine war crimes.txt+eventbasecode111+eventcode111+avgtone0.4570552147239264+goldsteinscale0.4+nummentions0.056966618287373004+numarticles0.05765047135605511+numsources0.07236842105263158+news_keywords+['ukraine:0.4539', 'hague:0.3733', 'investigation:0.3488', 'war:0.3338', 'prosecute:0.3305', 'tribunal:0.3296', 'civilians:0.3067', 'invasion:0.2982', 'atrocity:0.2343', 'agreement:0.228', 'icc:0.2221', 'proceed:0.2208', 'eurojusts:0.2167', 'infrastructure:0.2156', 'legality:0.2134', 'coordinate:0.2027', 'violent:0.192', 'world:0.1856', 'volodymyr:0.1798', 'propagandist:0.1789', 'office:0.1662', 'join:0.164', 'biden:0.1464', 'bucha:0.1208', 'link:0.1164', 'long:0.1164', 'knew:0.1113', 'ap:0.1035', 'underscore:0.0994', 'feb:0.0981']+titles_keywords+['ukraine:0.4089', 'war:0.2022', 'crimes:0.1861', 'join:0.1858', 'probing:0.1344']"
+        ]
+    ]
+}

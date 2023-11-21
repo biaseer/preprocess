@@ -1,0 +1,17 @@
+{
+    "DEU+UKR+42":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/gulfnews.com/EU leaders vow to back Ukraine in visit to wartorn Kyiv.txt+eventbasecode42+eventcode42+avgtone0.4853195164075993+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4837', 'nato:0.4162', 'putins:0.3692', 'war:0.333', 'macron:0.2877', 'separatist:0.2834', 'meeting:0.2514', 'adviser:0.2434', 'table:0.2349', 'sievierodonetsk:0.2306', 'deliver:0.2192', 'consolidate:0.2092', 'telegram:0.2082', 'advance:0.202', 'pledge:0.198', 'soon:0.1943', 'industrial:0.1907', 'long:0.176', 'alongside:0.1747', 'howitzer:0.1744', 'ambiguity:0.1732', 'view:0.1732', 'span:0.1726', 'leave:0.172', 'powerful:0.1712', 'occupies:0.1644', 'opposite:0.1602', 'discus:0.1439', 'official:0.1172', 'focus:0.1164']+titles_keywords+['ukraine:0.3915', 'leaders:0.2177', 'wartorn:0.1919', 'visit:0.1373', 'vow:0.1015']"
+        ]
+    ],
+    "LKA+RUS+42":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/gulfnews.com/Sri Lanka detains Russian aeroplane.txt+eventbasecode42+eventcode42+avgtone0.4813084112149532+goldsteinscale0.595+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.006578947368421052+news_keywords+['colombo:0.4196', 'aircraft:0.3838', 'sri:0.3738', 'detain:0.3697', 'ukraine:0.3201', 'invasion:0.2273', 'capital:0.2077', 'passenger:0.2048', 'operation:0.1989', 'arrive:0.1973', 'civil:0.195', 'traffic:0.1872', 'dispute:0.1822', 'connection:0.1683', 'international:0.1649', 'control:0.1642', 'hold:0.1491', 'seizure:0.1431', 'accommodate:0.1347', 'clear:0.1287', 'return:0.1252', 'board:0.1243', 'su:0.1214', 'reason:0.1196', 'flagship:0.1179', 'follow:0.0975', 'day:0.0973', 'hear:0.0879', 'official:0.0799', 'nearly:0.0617']+titles_keywords+['lanka:0.385', 'sri:0.3465', 'detains:0.3188', 'aeroplane:0.2974', 'russian:0.2944']"
+        ]
+    ],
+    "UKR+RUS+42":[
+        [
+            "20220620+../news_crawling/RUS_UKR/p_articles/gulfnews.com/ConocoPhillips invests in Qatars 29b natural gas project.txt+eventbasecode42+eventcode42+avgtone0.5017921146953406+goldsteinscale0.595+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['qatar:0.513', 'pipeline:0.3434', 'lng:0.3391', 'gas:0.3264', 'supply:0.2932', 'bloombergnef:0.2641', 'invest:0.2514', 'european:0.2387', 'firm:0.223', 'energys:0.2155', 'north:0.2087', 'gazprom:0.2085', 'conocophillips:0.1976', 'eni:0.1973', 'announce:0.1873', 'field:0.1856', 'world:0.1805', 'boost:0.169', 'vulnerability:0.1684', 'project:0.1525', 'al:0.1517', 'moscows:0.1493', 'pjsc:0.1466', 'join:0.1313', 'exporter:0.1147', 'deal:0.1021', 'look:0.0957', 'higher:0.0919', 'lance:0.088', 'particularly:0.0652']+titles_keywords+['conocophillips:0.3905', 'qatars:0.3287', 'gas:0.2655', 'invests:0.2199', '29b:0.185']"
+        ]
+    ]
+}

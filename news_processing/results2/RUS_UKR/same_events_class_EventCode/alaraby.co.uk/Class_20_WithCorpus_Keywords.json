@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/alaraby.co.uk/Ukraine invasion UN inspectors head to Russianheld Zaporizhzhia nuclear plant.txt+eventbasecode20+eventcode20+avgtone0.47599337748344367+goldsteinscale0.65+nummentions0.3018867924528302+numarticles0.30239303843364757+numsources0.25+news_keywords+['ukraine:0.4781', 'chernobyl:0.4102', 'demilitarize:0.4019', 'war:0.389', 'zelenskyy:0.3134', 'iaea:0.2991', 'government:0.2882', 'disaster:0.2733', 'mission:0.2655', 'radioactivity:0.2515', 'operate:0.2499', 'president:0.2332', 'occupied:0.2321', 'watchdog:0.2284', 'information:0.2211', 'ominously:0.208', 'risk:0.2079', 'planned:0.1975', 'grid:0.1962', 'hide:0.1887', 'enerhodar:0.1883', 'instead:0.1801', 'continue:0.177', 'plant:0.1652', 'town:0.156', 'josep:0.1473', 'reach:0.1359', 'kilometre:0.1288', 'week:0.0995', 'instal:0.0914']+titles_keywords+['ukraine:0.4281', 'nuclear:0.3701', 'zaporizhzhia:0.3513', 'invasion:0.307', 'inspectors:0.2545']"
+        ]
+    ],
+    "UKR+EUR+20":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/alaraby.co.uk/EU crushes Ukrainian hopes of immediate bloc membership amid Russian invasion.txt+eventbasecode20+eventcode20+avgtone0.494671403197158+goldsteinscale0.65+nummentions0.04172714078374456+numarticles0.04024655547498187+numsources0.0625+news_keywords+['ukraine:0.434', 'eu:0.3677', 'euronews:0.3306', 'accession:0.2651', 'bloc:0.2189', 'union:0.2108', 'reform:0.2091', 'invasion:0.1949', 'volodymyr:0.1834', 'come:0.1783', 'submit:0.177', 'negotiate:0.1727', 'political:0.1655', 'exit:0.1601', 'long:0.1424', 'sure:0.1398', 'allow:0.1394', 'enlarge:0.1364', 'count:0.1358', 'hopeful:0.1256', 'stick:0.121', 'direction:0.1134', 'prospect:0.1132', 'immediate:0.1068', 'goal:0.0975', 'unanimously:0.082', 'nearly:0.0664', 'eric:0.058', 'major:0.0537', 'decade:0.0501']+titles_keywords+['ukrainian:0.3852', 'invasion:0.2908', 'bloc:0.2227', 'hopes:0.1577', 'immediate:0.1075']"
+        ]
+    ]
+}

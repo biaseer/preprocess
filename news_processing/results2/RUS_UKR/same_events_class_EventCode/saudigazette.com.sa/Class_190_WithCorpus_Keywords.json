@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/NATO now has 40000 soldiers on Europes border with Russia.txt+eventbasecode190+eventcode190+avgtone0.5125786163522013+goldsteinscale0.0+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.006578947368421052+news_keywords+['nato:0.5551', 'troop:0.3232', 'deploy:0.2912', 'euronews:0.2853', 'europes:0.2813', 'romania:0.2632', 'russian:0.2615', 'border:0.2473', 'attack:0.1988', 'flank:0.197', 'additional:0.1885', 'strengthen:0.1772', 'multinational:0.173', 'gdp:0.1618', 'command:0.1525', 'agreement:0.1472', 'join:0.1472', 'respectively:0.1453', 'length:0.1379', 'order:0.1313', 'locate:0.1147', 'number:0.1062', 'data:0.0794', 'nearly:0.0794', 'page:0.0777', 'new:0.0746', 'january:0.0717', 'direct:0.066', 'spending:0.0505', 'share:0.037']+titles_keywords+['nato:0.6062', 'soldiers:0.4427', 'europes:0.3105', 'border:0.2691', '40000:0.2439']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/Russians attack Ukrainian fuel facilities troops enter Kharkiv.txt+eventbasecode190+eventcode190+avgtone0.4832089552238806+goldsteinscale0.0+nummentions0.008345428156748911+numarticles0.009064539521392313+numsources0.019736842105263157+news_keywords+['kiev:0.5061', 'russias:0.4132', 'russian:0.391', 'invasion:0.3294', 'zkyvytskyy:0.2953', 'euronews:0.2786', 'armed:0.257', 'pipeline:0.2487', 'oil:0.2442', 'kill:0.2395', 'mykhailo:0.235', 'safe:0.2243', 'aviation:0.2191', 'transformation:0.2101', 'ahead:0.1982', 'stay:0.1782', 'western:0.1723', 'underground:0.1656', 'saturday:0.1641', 'cite:0.1612', 'kindergarten:0.159', 'heard:0.1529', 'siren:0.1515', 'people:0.1461', 'believe:0.1427', 'hour:0.135', 'page:0.1117', 'completely:0.1114', 'state:0.0994', 'add:0.0611']+titles_keywords+['kharkiv:0.3224', 'ukrainian:0.2963', 'troops:0.2363', 'fuel:0.2134', 'enter:0.1436']"
+        ],
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/Russia bombards cities as eastern offensive begins.txt+eventbasecode190+eventcode190+avgtone0.47392638036809814+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.4724', 'demilitarise:0.3193', 'invasion:0.2935', 'operation:0.2741', 'pentagon:0.2717', 'accomplish:0.2618', 'donbas:0.2546', 'againstzelensky:0.253', 'prepare:0.2347', 'unprovoked:0.2261', 'separatist:0.2198', 'stage:0.215', 'spar:0.2149', 'ruse:0.2071', 'east:0.1968', 'help:0.1958', 'president:0.1903', 'end:0.1891', 'protract:0.1868', 'hold:0.1745', 'long:0.1584', 'focus:0.1513', 'monday:0.1465', 'redirect:0.1432', 'people:0.1388', 'andriy:0.1379', 'major:0.1342', 'page:0.1234', 'plant:0.1221', 'largely:0.0951']+titles_keywords+['bombards:0.3893', 'russia:0.305', 'cities:0.216', 'eastern:0.213', 'begins:0.2101']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+60":[
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/The Russian soldiers refusing to fight in Ukraine.txt+eventbasecode60+eventcode60+avgtone0.4745331069609508+goldsteinscale0.8+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['comrade:0.4598', 'ukraine:0.4229', 'battalion:0.4095', 'desertion:0.3939', 'sergey:0.3426', 'reconnaissance:0.3351', 'conflict:0.3225', 'trench:0.2749', 'assault:0.2731', 'strategy:0.2618', 'intercept:0.2462', 'kill:0.2394', 'interpret:0.2351', 'report:0.2321', 'avoid:0.2273', 'clause:0.216', 'inexperienced:0.2156', 'continue:0.2153', 'tabalov:0.2147', 'know:0.2091', 'order:0.2075', 'case:0.1904', 'source:0.1876', 'short:0.1687', 'month:0.1463', 'make:0.138', 'bad:0.1325', 'overnight:0.0993', 'salary:0.0988', 'largely:0.0702']+titles_keywords+['ukraine:0.486', 'soldiers:0.4712', 'russian:0.4058', 'refusing:0.4035', 'fight:0.2885']"
+        ]
+    ],
+    "UKR+RUS+60":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukrainians flock to get patriotic tattoos.txt+eventbasecode60+eventcode60+avgtone0.5+goldsteinscale0.8+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukrainians:0.5133', 'ukraines:0.511', 'ukraine:0.5094', 'lviv:0.4454', 'tattoo:0.4301', 'patriotic:0.4106', 'russia:0.3502', 'war:0.3003', 'soldier:0.2776', 'image:0.197', 'people:0.1679', 'remember:0.1474', 'studio:0.1448', 'clients:0.1383', 'body:0.1211', 'come:0.1205', 'flock:0.1126', 'mark:0.1086', 'leave:0.1039', 'month:0.0937', 'line:0.0925', 'deep:0.09', 'include:0.0564']+titles_keywords+['ukrainians:0.5385', 'tattoos:0.5007', 'patriotic:0.3894', 'flock:0.1466']"
+        ]
+    ]
+}

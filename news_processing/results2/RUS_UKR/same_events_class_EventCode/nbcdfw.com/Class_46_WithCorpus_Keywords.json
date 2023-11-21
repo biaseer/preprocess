@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+46":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/nbcdfw.com/Zelenskyy Says 9000 Leave Besieged Mariupol.txt+eventbasecode46+eventcode46+avgtone0.4855072463768116+goldsteinscale0.85+nummentions0.6658200290275762+numarticles0.33321247280638144+numsources0.3684210526315789+news_keywords+['kyiv:0.4964', 'zelenskyy:0.475', 'putin:0.4264', 'ukrainians:0.4162', 'russian:0.3764', 'blockade:0.356', 'humanitarian:0.2666', 'crisis:0.2359', 'cooperate:0.2172', 'surrounded:0.215', 'tactic:0.2146', 'leave:0.2086', 'safety:0.1757', 'update:0.1672', 'live:0.158', 'supply:0.1469', 'mariupol:0.1454', 'corridor:0.1385', 'speak:0.1298', 'video:0.1234', 'reach:0.1151', 'southeast:0.114', 'coverage:0.1124', 'nighttime:0.1104', 'directly:0.089', 'says:0.0875', 'able:0.0734', 'send:0.072', 'thousand:0.0716', 'large:0.0594']+titles_keywords+['zelenskyy:0.4942', '9000:0.3994', 'besieged:0.387', 'mariupol:0.3013', 'leave:0.2485']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/nbcdfw.com/RussiaUkraine Talks Ends With No Progress Towards Ceasefire.txt+eventbasecode46+eventcode46+avgtone0.4954128440366973+goldsteinscale0.85+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['ceasefire:0.4717', 'kyiv:0.4401', 'russiaukraine:0.3956', 'putin:0.3818', 'nato:0.3336', 'humanitarian:0.3179', 'negotiation:0.3104', 'diplomat:0.3018', 'corridor:0.2246', 'concern:0.2049', 'talk:0.1979', 'turkeys:0.1965', 'enemy:0.1872', 'news:0.1833', 'remain:0.1821', 'end:0.1605', 'facilitator:0.1527', 'progress:0.152', 'shriek:0.141', 'maternity:0.1324', 'way:0.1286', 'open:0.1197', 'agree:0.1156', 'mevlut:0.1125', 'far:0.1092', 'deal:0.1087', 'pathetic:0.1064', 'wrap:0.0924', 'direct:0.0905', 'cultivate:0.0841']+titles_keywords+['ceasefire:0.4656', 'russiaukraine:0.3861', 'talks:0.2073', 'ends:0.2031', 'progress:0.1734']"
+        ]
+    ]
+}

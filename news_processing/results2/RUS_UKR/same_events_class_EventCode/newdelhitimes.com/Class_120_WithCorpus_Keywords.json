@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+120":[
+        [
+            "20210628+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Classified UK Defense Documents Found at Bus Stop in England Says BBC.txt+eventbasecode120+eventcode120+avgtone0.49178082191780825+goldsteinscale0.3+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.04276315789473684+news_keywords+['crimean:0.4762', 'kremlin:0.4426', 'moscow:0.4258', 'russias:0.3992', 'annex:0.3397', 'diplomatic:0.3293', 'investigation:0.2864', 'documents:0.2706', 'provocation:0.2692', 'bbc:0.2586', 'report:0.2547', 'concern:0.2459', 'inform:0.241', 'security:0.2378', 'gunnery:0.2349', 'bombs:0.2264', 'ship:0.2232', 'classified:0.2048', 'anonymous:0.1959', 'tuesday:0.1537', 'reject:0.143', 'kent:0.1397', 'understand:0.1258', 'possible:0.1236', 'heap:0.1091', 'include:0.0869', 'tri:0.0847', 'says:0.0738', 'pjhq:0.0726', 'welcome:0.0655']+titles_keywords+['documents:0.3986', 'bbc:0.2647', 'bus:0.2508', 'classified:0.2278', 'says:0.0261']"
+        ]
+    ],
+    "RUS+UKR+120":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/EXPLAINER Why Victory Day in Russia is different this year.txt+eventbasecode120+eventcode120+avgtone0.4731781376518219+goldsteinscale0.3+nummentions0.10014513788098693+numarticles0.10079767947788253+numsources0.1513157894736842+news_keywords+['crimean:0.476', 'russias:0.4019', 'putin:0.3987', 'nationalist:0.3629', 'victory:0.3247', 'invasion:0.289', 'history:0.2836', 'rhetoric:0.2633', 'march:0.2449', 'zelenskyy:0.2351', 'destabilize:0.2322', 'day:0.2278', 'reservists:0.2248', 'tank:0.2083', 'know:0.1979', 'red:0.1699', 'big:0.1697', 'eastern:0.1669', 'order:0.1631', 'advance:0.1618', 'isnt:0.1521', 'donbas:0.1462', 'use:0.1427', 'similar:0.1324', 'explainer:0.1278', 'perceive:0.1264', 'total:0.1254', 'withdraw:0.1162', 'underline:0.097', 'hardware:0.0508']+titles_keywords+['russia:0.4026', 'victory:0.3567', 'year:0.2343', 'different:0.2268', 'explainer:0.2185']"
+        ]
+    ]
+}

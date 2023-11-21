@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/wmfe.org/Central Floridians with connections to Ukraine speak out on Russian invasion.txt+eventbasecode51+eventcode51+avgtone0.5021367521367521+goldsteinscale0.67+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4899', 'putin:0.4263', 'shapovalov:0.3485', 'invasion:0.339', 'separatist:0.3258', 'panic:0.268', 'political:0.2616', 'military:0.2455', 'floridians:0.2355', 'survive:0.227', 'reality:0.2225', 'speak:0.2135', 'oksana:0.2131', 'want:0.2094', 'forget:0.2022', 'contact:0.1792', 'study:0.1767', 'begin:0.1708', 'donbas:0.1676', 'hold:0.1649', 'sure:0.1598', 'advantage:0.1549', 'friend:0.1536', 'like:0.1504', 'bad:0.1375', 'town:0.1365', 'stretch:0.1318', 'element:0.1312', 'million:0.129', 'fully:0.1']+titles_keywords+['floridians:0.5006', 'ukraine:0.4263', 'invasion:0.3162', 'speak:0.1931', 'central:0.179']"
+        ],
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/wmfe.org/Russias war in Ukraine is threatening an outpost of cooperation in space.txt+eventbasecode51+eventcode51+avgtone0.48378615249780893+goldsteinscale0.67+nummentions0.10631349782293179+numarticles0.1069615663524293+numsources0.1875+news_keywords+['soyuz:0.4603', 'iss:0.4471', 'russianspaceweb:0.4198', 'putin:0.4008', 'russias:0.3954', 'geopolitical:0.3899', 'spaceport:0.3614', 'orbit:0.3474', 'astronauts:0.3424', 'propaganda:0.2942', 'interdependency:0.2835', 'collaboration:0.2692', 'globe:0.2361', 'esa:0.2264', 'meddle:0.2186', 'orientation:0.2106', 'biden:0.1959', 'worry:0.1739', 'seat:0.1722', 'deteriorate:0.1684', 'foreseeable:0.165', 'sanction:0.1544', 'comparison:0.1438', 'say:0.1427', 'strain:0.1419', 'function:0.1383', 'long:0.1361', 'end:0.1349', 'vienna:0.1278', 'sure:0.1102']+titles_keywords+['ukraine:0.3987', 'space:0.3503', 'cooperation:0.2947', 'outpost:0.2526', 'threatening:0.2027']"
+        ]
+    ]
+}

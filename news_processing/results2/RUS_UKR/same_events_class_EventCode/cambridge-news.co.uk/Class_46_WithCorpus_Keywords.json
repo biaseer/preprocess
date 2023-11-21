@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/cambridge-news.co.uk/UN Security Council set to meet as Ukraine calls for humanitarian corridors.txt+eventbasecode46+eventcode46+avgtone0.4779693486590038+goldsteinscale0.85+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5+news_keywords+['ukraine:0.4668', 'humanitarian:0.4015', 'blockade:0.367', 'briefing:0.3438', 'putins:0.3238', 'terrorism:0.314', 'embassy:0.3041', 'nuclear:0.2887', 'corridor:0.2814', 'emergency:0.2771', 'negotiation:0.2464', 'troop:0.2459', 'flee:0.2039', 'delegation:0.1907', 'news:0.1846', 'anonymity:0.1842', 'zelensky:0.164', 'organise:0.1565', 'toll:0.1529', 'intensifies:0.1474', 'shmyhal:0.1393', 'catherine:0.1304', 'hear:0.1287', 'immediately:0.1235', 'follow:0.1129', 'billion:0.0918', 'send:0.088', 'familiar:0.0823', 'resolution:0.0739', 'include:0.067']+titles_keywords+['ukraine:0.3205', 'council:0.2804', 'humanitarian:0.2774', 'corridors:0.2424', 'meet:0.1833']"
+        ],
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/cambridge-news.co.uk/Latest Ukraine talks end without breakthrough but more planned for tomorrow.txt+eventbasecode46+eventcode46+avgtone0.4941860465116279+goldsteinscale0.85+nummentions0.05406386066763425+numarticles0.05003625815808557+numsources0.09210526315789473+news_keywords+['ceasefire:0.4751', 'kyiv:0.4583', 'nato:0.3791', 'zelensky:0.3257', 'negotiator:0.303', 'podolyak:0.2916', 'evacuate:0.2385', 'talk:0.2299', 'news:0.2071', 'fight:0.2042', 'president:0.1977', 'plan:0.1787', 'tomorrow:0.1608', 'end:0.1514', 'short:0.1485', 'breakthrough:0.1448', 'optimism:0.1402', 'hour:0.1362', 'hold:0.1344', 'conference:0.1312', 'official:0.1285', 'supply:0.1265', 'immediate:0.1163', 'th:0.1152', 'agree:0.1142', 'near:0.1118', 'receive:0.1084', 'nightmare:0.1011', 'video:0.0984', 'level:0.0768']+titles_keywords+['ukraine:0.315', 'tomorrow:0.2521', 'talks:0.2505', 'end:0.1804', 'latest:0.1719']"
+        ]
+    ]
+}

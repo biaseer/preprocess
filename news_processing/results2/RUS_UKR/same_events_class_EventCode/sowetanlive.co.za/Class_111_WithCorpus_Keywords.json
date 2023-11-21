@@ -1,0 +1,12 @@
+{
+    "RUS+USA+111":[
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/sowetanlive.co.za/Russia renews Mariupol attacks top US officials to visit Kyiv Ukraine says.txt+eventbasecode111+eventcode111+avgtone0.4753289473684211+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.4733', 'putin:0.3959', 'demilitarise:0.3455', 'invasion:0.3264', 'mykolaiv:0.3137', 'terrorism:0.3085', 'battalion:0.3056', 'pentagon:0.3036', 'blockade:0.2871', 'missile:0.2552', 'kill:0.2436', 'intensify:0.2135', 'soon:0.2051', 'news:0.1978', 'mariupol:0.1965', 'donbas:0.1937', 'plan:0.1837', 'strike:0.1829', 'boy:0.1669', 'continue:0.1631', 'type:0.1611', 'heard:0.1597', 'want:0.1508', 'secretary:0.1389', 'near:0.1382', 'state:0.1364', 'feb:0.1362', 'ready:0.123', 'lloyd:0.1215', 'big:0.1081']+titles_keywords+['kyiv:0.4245', 'mariupol:0.297', 'attacks:0.2509', 'visit:0.2044', 'renews:0.0846']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/sowetanlive.co.za/ANC latest to call for a peaceful resolution to the RussiaUkraine war.txt+eventbasecode111+eventcode111+avgtone0.4719298245614035+goldsteinscale0.4+nummentions0.02576197387518142+numarticles0.021754894851341553+numsources0.03618421052631579+news_keywords+['anc:0.4987', 'war:0.4083', 'peaceful:0.405', 'diplomatic:0.4022', 'ukraine:0.3595', 'negotiation:0.356', 'zulu:0.3228', 'escalation:0.3089', 'sanction:0.2816', 'involve:0.259', 'subcommittee:0.2281', 'world:0.2074', 'president:0.2057', 'table:0.2014', 'history:0.1995', 'invasion:0.1982', 'averted:0.1926', 'concerned:0.1853', 'say:0.1661', 'cyril:0.1615', 'statement:0.1599', 'end:0.1583', 'progressive:0.1568', 'ramaphosa:0.1495', 'resolution:0.1468', 'ensure:0.1355', 'different:0.12', 'week:0.0895', 'biasedin:0.0882', 'invite:0.0574']+titles_keywords+['peaceful:0.4528', 'anc:0.4431', 'russiaukraine:0.4069', 'latest:0.1309', 'resolution:0.1155']"
+        ]
+    ]
+}

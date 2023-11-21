@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+36":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/chinanationalnews.com/USfunded biolabs in Ukraine at the heart of ongoing propaganda war.txt+eventbasecode36+eventcode36+avgtone0.47699175824175816+goldsteinscale0.7+nummentions0.022859216255442672+numarticles0.023567802755620013+numsources0.03289473684210526+news_keywords+['bioterrorism:0.5305', 'biolaboratories:0.4579', 'kyiv:0.4452', 'pathogens:0.396', 'propaganda:0.3768', 'putin:0.3363', 'proliferation:0.322', 'poison:0.289', 'virus:0.2875', 'lab:0.2734', 'cite:0.2561', 'cnbc:0.2441', 'pentagon:0.2387', 'phytosanitary:0.2352', 'embassy:0.2298', 'concerned:0.2143', 'manufacture:0.2098', 'strain:0.2052', 'read:0.1935', 'collaborate:0.1931', 'diagnose:0.1882', 'usfunded:0.1879', 'prove:0.1448', 'long:0.127', 'end:0.1231', 'april:0.1186', 'list:0.1164', 'reduction:0.1113', 'state:0.1088', 'wayback:0.1018']+titles_keywords+['biolabs:0.5229', 'propaganda:0.4394', 'ukraine:0.3935', 'usfunded:0.282', 'ongoing:0.1246']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20210624+../news_crawling/RUS_UKR/p_articles/chinanationalnews.com/HMS Defender incident what the law of the sea says.txt+eventbasecode36+eventcode36+avgtone0.49320882852292025+goldsteinscale0.7+nummentions0.038461538461538464+numarticles0.03915881073241479+numsources0.03289473684210526+news_keywords+['crimea:0.5987', 'geopolitics:0.3837', 'sovereignty:0.3706', 'naval:0.3228', 'proceed:0.2565', 'undermine:0.2387', 'directness:0.2349', 'clarify:0.2226', 'port:0.2205', 'navigation:0.2184', 'nonsense:0.2124', 'claimant:0.2011', 'peace:0.1975', 'smuggle:0.1972', 'incident:0.194', 'british:0.1828', 'cape:0.1712', 'tide:0.1687', 'react:0.1656', 'takeover:0.1593', 'distress:0.1586', 'contains:0.158', 'predictably:0.1382', 'board:0.1328', 'current:0.1302', 'prevent:0.1231', 'underline:0.1108', 'lane:0.1043', 'far:0.0955', 'possibly:0.0638']+titles_keywords+['hms:0.4061', 'incident:0.3553', 'sea:0.3377', 'law:0.3295', 'defender:0.2558']"
+        ]
+    ]
+}

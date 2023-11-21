@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220829+../news_crawling/RUS_UKR/p_articles/britainnews.net/Exact dates for IAEA mission to targeted nuclear site named WSJ.txt+eventbasecode100+eventcode100+avgtone0.48593350383631706+goldsteinscale0.25+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.019736842105263157+news_keywords+['chernobyl:0.5297', 'nuclear:0.4417', 'iaea:0.4258', 'kremlin:0.387', 'ukrainian:0.3556', 'safety:0.2883', 'military:0.2859', 'peskov:0.2803', 'mission:0.2802', 'zaporozhye:0.2576', 'government:0.2457', 'disaster:0.2284', 'watchdog:0.2247', 'provocation:0.2091', 'artillery:0.2065', 'report:0.2013', 'examine:0.1969', 'locate:0.1761', 'cite:0.1677', 'staff:0.1666', 'neutral:0.165', 'shell:0.1646', 'delegation:0.1631', 'wsj:0.1518', 'august:0.1291', 'reportedly:0.1222', 'eclipse:0.0836', 'house:0.0744', 'exact:0.0739', 'begin:0.0664']+titles_keywords+['nuclear:0.3504', 'wsj:0.3451', 'iaea:0.3141', 'mission:0.3048', 'dates:0.2342']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220717+../news_crawling/RUS_UKR/p_articles/britainnews.net/Era of Western dominance ending Tony Blair.txt+eventbasecode100+eventcode100+avgtone0.49326145552560646+goldsteinscale0.25+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.04276315789473684+news_keywords+['geopolitical:0.4374', 'ukraine:0.3887', 'blair:0.3875', 'history:0.2883', 'east:0.2644', 'turmoil:0.2604', 'beijing:0.2593', 'develop:0.2579', 'end:0.2414', 'dominance:0.2166', 'world:0.2154', 'argue:0.2072', 'modern:0.2066', 'term:0.2066', 'partisan:0.2058', 'predict:0.1946', 'event:0.1798', 'note:0.172', 'military:0.1578', 'pivot:0.1562', 'unproductive:0.15', 'effect:0.1473', 'order:0.1451', 'relevant:0.1318', 'misunderstand:0.1303', 'covid:0.1245', 'bi:0.1131', 'sure:0.1035', 'prime:0.0969', 'population:0.0616']+titles_keywords+['blair:0.489', 'ending:0.3569', 'western:0.2512', 'era:0.2482', 'dominance:0.2409']"
+        ]
+    ]
+}

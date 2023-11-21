@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20211231+../news_crawling/RUS_UKR/p_articles/fox17online.com/Biden Putin talk nearly an hour as alarm rises over Ukraine.txt+eventbasecode154+eventcode154+avgtone0.47105263157894733+goldsteinscale0.13999999999999999+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.01644736842105263+news_keywords+['putin:0.5325', 'kremlin:0.4355', 'biden:0.3925', 'ukraine:0.3803', 'nato:0.3764', 'threat:0.2981', 'escalation:0.2875', 'alarm:0.2453', 'adviser:0.2425', 'speak:0.2182', 'report:0.2161', 'troop:0.2112', 'news:0.1993', 'come:0.1892', 'ahead:0.1873', 'schedule:0.1694', 'hour:0.1553', 'estimate:0.1541', 'lead:0.1538', 'step:0.145', 'week:0.1448', 'phone:0.1403', 'reaffirm:0.1383', 'preclude:0.1187', 'ap:0.0977', 'nearly:0.0957', 'round:0.0877', 'jan:0.0851', 'underscore:0.0823', 'hypersonic:0.056']+titles_keywords+['putin:0.4304', 'biden:0.4146', 'talk:0.3432', 'hour:0.3296', 'rises:0.121']"
+        ],
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/fox17online.com/Native Ukrainian living in West Michigan frustrated for her family country.txt+eventbasecode154+eventcode154+avgtone0.4875259875259875+goldsteinscale0.13999999999999999+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.019736842105263157+news_keywords+['ukraine:0.5588', 'conflict:0.3014', 'economy:0.2737', 'worried:0.2437', 'troop:0.234', 'read:0.2263', 'know:0.22', 'parkhomenko:0.2161', 'pandemic:0.2153', 'degree:0.2134', 'people:0.2072', 'continue:0.1897', 'news:0.184', 'global:0.1801', 'want:0.1757', 'live:0.1703', 'kalamazoo:0.1655', 'leave:0.1654', 'soon:0.1611', 'unfolding:0.1607', 'sanction:0.1466', 'updated:0.1437', 'hop:0.1248', 'far:0.1221', 'mainly:0.1005', 'sorry:0.0867', 'butterfield:0.0832', 'lens:0.0822', 'reverberate:0.0576', 'theres:0.0523']+titles_keywords+['ukrainian:0.5317', 'michigan:0.4007', 'country:0.3581', 'family:0.241', 'frustrated:0.1941']"
+        ]
+    ]
+}

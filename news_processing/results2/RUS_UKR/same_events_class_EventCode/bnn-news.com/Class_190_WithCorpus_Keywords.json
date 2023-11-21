@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/bnn-news.com/After joining Ukrainian army Latvian Saeima member puts down his mandate.txt+eventbasecode190+eventcode190+avgtone0.5012376237623762+goldsteinscale0.0+nummentions0.036284470246734396+numarticles0.03698332124728064+numsources0.05263157894736842+news_keywords+['recruitment:0.43', 'latvias:0.4096', 'ukrainian:0.3994', 'military:0.3849', 'volunteer:0.3191', 'embassy:0.2582', 'volodimir:0.2323', 'graduate:0.2284', 'lv:0.2021', 'undergo:0.1988', 'ieva:0.1971', 'saeimas:0.1897', 'defend:0.1791', 'parliament:0.179', 'come:0.1735', 'resident:0.1733', 'announce:0.1485', 'help:0.1448', 'juris:0.14', 'bordns:0.1388', 'long:0.137', 'rga:0.1336', 'forces:0.1325', 'party:0.1154', 'president:0.1138', 'march:0.1101', 'arm:0.1086', 'confirm:0.1017', 'previously:0.0838', 'possible:0.067']+titles_keywords+['ukrainian:0.3794', 'saeima:0.3519', 'army:0.2818', 'member:0.2186', 'mandate:0.1872']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/bnn-news.com/Missile attack on Odessa Russian forces kill at least 17.txt+eventbasecode190+eventcode190+avgtone0.456521739130435+goldsteinscale0.0+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.023026315789473683+news_keywords+['odessa:0.5368', 'russian:0.4138', 'missile:0.3629', 'dnistrovskyi:0.3015', 'bratchuk:0.2714', 'attack:0.2509', 'kill:0.2497', 'emergency:0.2428', 'victim:0.2366', 'report:0.2159', 'serhiy:0.2145', 'rubble:0.2141', 'aviation:0.2041', 'armed:0.2011', 'operational:0.1797', 'strategic:0.1559', 'perform:0.1526', 'stairwell:0.1263', 'representative:0.1215', 'mention:0.1171', 'night:0.1147', 'story:0.1128', 'people:0.1107', 'july:0.0989', 'build:0.097', 'cause:0.0921', 'website:0.0883', 'dozen:0.0721', 'state:0.0603', 'partially:0.0089']+titles_keywords+['odessa:0.4005', 'russian:0.3485', 'missile:0.2742', 'kill:0.1818', '17:0.1339']"
+        ]
+    ]
+}

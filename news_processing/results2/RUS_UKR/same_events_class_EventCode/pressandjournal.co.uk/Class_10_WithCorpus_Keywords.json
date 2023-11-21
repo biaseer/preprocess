@@ -1,0 +1,11 @@
+{
+    "RUS+UKR+10":[
+        []
+    ],
+    "UKR+RUS+10":[
+        [],
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/pressandjournal.co.uk/Highland Council to withdraw pensions from Russian funds and award freedom of the Highlands to.txt+eventbasecode10+eventcode10+avgtone0.49054621848739494+goldsteinscale0.5+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.029605263157894735+news_keywords+['ukraine:0.5068', 'vladimir:0.4057', 'councillor:0.363', 'refugee:0.3395', 'highland:0.3054', 'government:0.2746', 'troop:0.2613', 'solidarity:0.2589', 'volodymyr:0.2577', 'paperwork:0.2271', 'debate:0.2141', 'applause:0.21', 'hear:0.2042', 'translate:0.2025', 'supply:0.1864', 'withdraw:0.1824', 'propose:0.1732', 'atrocity:0.1667', 'safe:0.1636', 'pandemic:0.1537', 'motion:0.1505', 'repeat:0.1495', 'end:0.1385', 'chamber:0.1383', 'word:0.1336', 'round:0.1329', 'increasingly:0.1257', 'population:0.0957', 'theyre:0.0924', 'early:0.0922']+titles_keywords+['zelensky:0.3987', 'highland:0.3722', 'pensions:0.3144', 'withdraw:0.2652', 'council:0.1934']"
+        ]
+    ]
+}

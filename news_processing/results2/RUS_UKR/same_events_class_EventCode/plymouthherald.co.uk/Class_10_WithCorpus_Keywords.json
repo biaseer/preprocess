@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+10":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/plymouthherald.co.uk/UK tells British nationals to leave Russia if presence is not essential.txt+eventbasecode10+eventcode10+avgtone0.47441860465116276+goldsteinscale0.5+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.03289473684210526+news_keywords+['ukraine:0.4886', 'kremlin:0.4511', 'ceasefire:0.4356', 'nato:0.3497', 'boris:0.3063', 'regime:0.2889', 'constituency:0.2653', 'crisis:0.2646', 'sanction:0.2597', 'invasion:0.2561', 'change:0.2517', 'salisbury:0.25', 'radioactive:0.2431', 'reiterate:0.2257', 'concern:0.221', 'report:0.22', 'forward:0.2033', 'newsletter:0.2006', 'bbc:0.1984', 'volodymyr:0.1893', 'president:0.1757', 'economic:0.1631', 'immediate:0.1583', 'night:0.1441', 'arm:0.1412', 'entirely:0.1279', 'mr:0.1209', 'length:0.107', 'welcome:0.0914', 'true:0.0634']+titles_keywords+['russia:0.3358', 'leave:0.2538', 'british:0.2201', 'presence:0.1479', 'essential:0.0737']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/plymouthherald.co.uk/Russian TV stations hacked and Kremlin website down amid cyber attack claims.txt+eventbasecode10+eventcode10+avgtone0.4761092150170649+goldsteinscale0.5+nummentions0.05333817126269957+numarticles0.05402465554749819+numsources0.1513157894736842+news_keywords+['kremlin:0.5327', 'putin:0.501', 'ukraine:0.4305', 'vladimir:0.4299', 'ru:0.3799', 'threaten:0.3248', 'cyber:0.2752', 'anonymous:0.2691', 'invasion:0.2553', 'hack:0.2481', 'embassy:0.238', 'police:0.2372', 'report:0.2173', 'newsletter:0.2092', 'operation:0.1894', 'broadcast:0.1607', 'offline:0.1368', 'apparently:0.1246', 'official:0.1234', 'song:0.1229', 'directly:0.114', 'request:0.1125', 'right:0.1094', 'step:0.1024', 'tonight:0.0989', 'page:0.0938', 'story:0.0875', 'matter:0.0747', 'restore:0.046', 'medium:0.0279']+titles_keywords+['kremlin:0.4947', 'hacked:0.3179', 'stations:0.2491', 'tv:0.2491', 'website:0.2252']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/plymouthherald.co.uk/Biden Russia war amounts to genocide and Putin trying to wipe out Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4615384615384615+goldsteinscale0.5+nummentions0.3454281567489115+numarticles0.34590282813633066+numsources0.3782894736842105+news_keywords+['putin:0.4866', 'genocide:0.4397', 'regime:0.2998', 'intervene:0.2847', 'controversy:0.2626', 'accuse:0.2483', 'imply:0.2182', 'trigger:0.2045', 'policy:0.201', 'clearer:0.1952', 'europe:0.1926', 'block:0.1895', 'power:0.1881', 'bidens:0.188', 'tell:0.1879', 'word:0.1751', 'example:0.1733', 'hesitate:0.171', 'dramatic:0.1697', 'articulate:0.1673', 'learn:0.1602', 'bloody:0.1573', 'wipe:0.1559', 'direct:0.1339', 'dodge:0.1095', 'month:0.104', 'sure:0.0973', 'mr:0.081', 'price:0.0634', 'wasnt:0.0612']+titles_keywords+['putin:0.5677', 'biden:0.4866', 'genocide:0.4681', 'wipe:0.1967', 'trying:0.1655']"
+        ]
+    ]
+}

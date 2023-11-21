@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+72":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/webindia123.com/Pentagon claims Russia sending troops from Georgia to Ukraine.txt+eventbasecode72+eventcode72+avgtone0.49714285714285716+goldsteinscale0.915+nummentions0.008345428156748911+numarticles0.009064539521392313+numsources0.009868421052631578+news_keywords+['ukraine:0.4377', 'troop:0.3872', 'pentagon:0.3523', 'georgia:0.3259', 'briefing:0.2787', 'operation:0.2714', 'sputnik:0.2267', 'defend:0.192', 'clarify:0.1857', 'movement:0.1821', 'infrastructure:0.1818', 'number:0.1571', 'reinforcement:0.1567', 'breakaway:0.1519', 'danger:0.1489', 'intensify:0.1484', 'indication:0.1392', 'republic:0.1367', 'february:0.132', 'population:0.1301', 'launch:0.1246', 'respond:0.1216', 'exact:0.1167', 'issue:0.1136', 'immediately:0.1134', 'solely:0.1061', 'say:0.1003', 'send:0.0972', 'centre:0.0893', 'official:0.083']+titles_keywords+['ukraine:0.3871', 'pentagon:0.3337', 'troops:0.3103', 'sending:0.1011', 'claims:0.076']"
+        ]
+    ],
+    "UKR+RUS+72":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/webindia123.com/US to allow Ukrainian refugees provide weapons to defend against invading Russian force Biden.txt+eventbasecode72+eventcode72+avgtone0.5084033613445379+goldsteinscale0.915+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.013157894736842105+news_keywords+['ukraine:0.4386', 'refugee:0.4086', 'invade:0.4001', 'allow:0.2722', 'aid:0.2203', 'zelenskyy:0.2157', 'accuse:0.2072', 'biden:0.1793', 'unprecedented:0.1711', 'corridor:0.1705', 'sure:0.1502', 'say:0.1456', 'force:0.1446', 'security:0.1415', 'weapon:0.1413', 'today:0.1302', 'decision:0.1285', 'live:0.1122', 'tweet:0.1092', 'million:0.1088', 'ani:0.1088', 'january:0.1062', 'additional:0.1057', 'drawdown:0.1036', 'fourth:0.099', 'taking:0.0917', 'white:0.0887', 'antony:0.0841', 'secretary:0.0798', 'welcome:0.0691']+titles_keywords+['ukrainian:0.3952', 'invading:0.313', 'weapons:0.2568', 'biden:0.2289', 'allow:0.2221']"
+        ]
+    ]
+}

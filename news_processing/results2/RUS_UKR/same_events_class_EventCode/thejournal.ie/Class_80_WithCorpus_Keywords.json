@@ -1,0 +1,12 @@
+{
+    "RUS+IRL+80":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/thejournal.ie/OPW refuses to grant permission for Russian Victory Day rally at Papal Cross in Phoenix.txt+eventbasecode80+eventcode80+avgtone0.49146110056925996+goldsteinscale0.75+nummentions0.002902757619738752+numarticles0.0014503263234227702+numsources0.0+news_keywords+['commemoration:0.4122', 'parade:0.3749', 'ukrainians:0.3704', 'moscow:0.3108', 'war:0.3104', 'march:0.2964', 'irish:0.2956', 'policing:0.2872', 'rally:0.2751', 'organise:0.2638', 'garda:0.2595', 'republic:0.2507', 'article:0.2431', 'permission:0.23', 'concern:0.2273', 'spokesperson:0.2258', 'cross:0.2239', 'opw:0.2195', 'aggressor:0.2194', 'happen:0.2093', 'day:0.2048', 'statement:0.1924', 'additional:0.189', 'request:0.1886', 'paywalls:0.1831', 'refuse:0.1755', 'cover:0.1615', 'theassociation:0.1524', 'whats:0.1228', 'bank:0.1198']+titles_keywords+['permission:0.2939', 'rally:0.2811', 'refuses:0.2633', 'opw:0.2277', 'russian:0.2204']"
+        ]
+    ],
+    "RUS+RUS+80":[
+        [
+            "20220801+../news_crawling/RUS_UKR/p_articles/thejournal.ie/Three British people to stand trial as mercenaries in Russiabacked court.txt+eventbasecode80+eventcode80+avgtone0.468235294117647+goldsteinscale0.75+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4677', 'kremlin:0.4596', 'russiabacked:0.4232', 'vladimir:0.3899', 'civilians:0.3276', 'prosecutors:0.3152', 'invasion:0.2848', 'exploitation:0.261', 'accuse:0.2547', 'azov:0.2516', 'prisoner:0.2409', 'kill:0.2209', 'intervene:0.1985', 'healy:0.1857', 'rights:0.1849', 'piers:0.1816', 'news:0.1763', 'representative:0.1644', 'fought:0.1549', 'proxy:0.1542', 'stand:0.1537', 'enter:0.1498', 'alongside:0.1355', 'carry:0.1156', 'link:0.1139', 'tass:0.0934', 'like:0.0921', 'theyre:0.0895', 'catalogue:0.0864', 'longer:0.0836']+titles_keywords+['mercenaries:0.3215', 'trial:0.2659', 'russiabacked:0.26', 'british:0.226', 'stand:0.0825']"
+        ]
+    ]
+}

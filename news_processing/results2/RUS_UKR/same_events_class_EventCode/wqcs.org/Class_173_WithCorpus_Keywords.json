@@ -1,0 +1,12 @@
+{
+    "RUS+EUR+173":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/wqcs.org/News brief nuclear plant seized Russian bombardments Trial related to Jan 6.txt+eventbasecode173+eventcode173+avgtone0.4722222222222222+goldsteinscale0.25+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.013157894736842105+news_keywords+['chernobyl:0.5372', 'kyiv:0.5093', 'reactor:0.4131', 'russians:0.3809', 'disaster:0.3015', 'industrial:0.2898', 'safer:0.2766', 'bombardment:0.2749', 'militia:0.2414', 'strategic:0.2394', 'news:0.2245', 'table:0.2206', 'worry:0.2173', 'casualty:0.2173', 'megawatts:0.2127', 'prosecution:0.1956', 'report:0.19', 'northeast:0.1871', 'extinguish:0.1798', 'fight:0.1754', 'transform:0.1739', 'fled:0.1703', 'intact:0.1671', 'continue:0.166', 'silo:0.162', 'hear:0.1511', 'ground:0.144', 'screenshots:0.115', 'long:0.1141', 'martinez:0.0848']+titles_keywords+['nuclear:0.5174', 'bombardments:0.3804', 'russian:0.3093', 'seized:0.2598', 'news:0.2469']"
+        ]
+    ],
+    "UKR+RUS+173":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/wqcs.org/Ukrainians are on alert for Russian saboteurs trying to infiltrate their towns.txt+eventbasecode173+eventcode173+avgtone0.443181818181818+goldsteinscale0.25+nummentions0.047895500725689405+numarticles0.048585931834662796+numsources0.05263157894736842+news_keywords+['ukrainian:0.4961', 'saboteurs:0.4275', 'putin:0.4252', 'infiltrate:0.3433', 'suspicious:0.3315', 'kondiukh:0.3187', 'government:0.3183', 'barricade:0.3137', 'interpreter:0.3136', 'enemy:0.3023', 'cherkoon:0.2978', 'help:0.2682', 'know:0.2395', 'safer:0.237', 'turn:0.2368', 'town:0.2358', 'live:0.2302', 'hear:0.2268', 'sentence:0.2224', 'transcript:0.2187', 'huk:0.2179', 'bring:0.2148', 'sausage:0.2019', 'worker:0.1999', 'end:0.1856', 'camera:0.1852', 'okean:0.1649', 'normal:0.1536', 'soon:0.1371', 'deep:0.128']+titles_keywords+['ukrainians:0.5093', 'saboteurs:0.4534', 'infiltrate:0.3032', 'towns:0.2268', 'alert:0.1221']"
+        ]
+    ]
+}

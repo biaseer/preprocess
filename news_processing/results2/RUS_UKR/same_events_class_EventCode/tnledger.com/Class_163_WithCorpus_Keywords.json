@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+163":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/tnledger.com/RussiaUkraine War What to know on Day 7 of Russian assault.txt+eventbasecode163+eventcode163+avgtone0.4735243055555556+goldsteinscale0.1+nummentions0.047895500725689405+numarticles0.048585931834662796+numsources0.049342105263157895+news_keywords+['russiaukraine:0.528', 'putin:0.4861', 'airstrikes:0.4065', 'stalingrad:0.393', 'blockade:0.322', 'readiness:0.2881', 'economy:0.2836', 'threat:0.2708', 'unilaterally:0.2554', 'troop:0.2462', 'news:0.245', 'flee:0.2249', 'know:0.2179', 'bloc:0.1887', 'north:0.1885', 'kilometer:0.1874', 'continue:0.1863', 'casualty:0.1769', 'delegation:0.1716', 'increasingly:0.1713', 'night:0.1528', 'hit:0.1455', 'state:0.1388', 'ready:0.1386', 'week:0.1317', 'substation:0.1274', 'roughly:0.1232', 'friendless:0.1227', 'abnormal:0.1038', 'unless:0.0398']+titles_keywords+['russiaukraine:0.4613', 'war:0.3919', 'assault:0.2358', 'know:0.205', 'day:0.187']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/tnledger.com/EU imposes more sanctions on Moscow over Ukraine invasion.txt+eventbasecode163+eventcode163+avgtone0.4763636363636363+goldsteinscale0.1+nummentions0.10595065312046444+numarticles0.1065989847715736+numsources0.09539473684210527+news_keywords+['ukraine:0.452', 'kremlin:0.3932', 'sanction:0.3821', 'impose:0.3298', 'euro:0.3133', 'war:0.2949', 'gold:0.2916', 'reinforce:0.28', 'bloc:0.2069', 'import:0.2011', 'aid:0.1953', 'circumvent:0.1473', 'good:0.1444', 'industrial:0.1437', 'commission:0.139', 'measure:0.139', 'decide:0.1325', 'important:0.132', 'look:0.1251', 'include:0.1224', 'long:0.1194', 'hop:0.1167', 'der:0.1072', 'week:0.1036', 'second:0.095', 'official:0.0863', 'josep:0.0791', 'send:0.0713', 'ap:0.0628', 'series:0.0616']+titles_keywords+['sanctions:0.4251', 'imposes:0.2903', 'moscow:0.2875', 'invasion:0.2708', 'eu:0.2525']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+160":[
+        [
+            "20220508+../news_crawling/RUS_UKR/p_articles/timeslive.co.za/UKRAINE WRAP Panic as fighter jet flies over Ukraines Kostiantynivka.txt+eventbasecode160+eventcode160+avgtone0.4880952380952381+goldsteinscale0.3+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['ukraine:0.5262', 'kyiv:0.4961', 'trudeau:0.4265', 'russian:0.3513', 'zelenskyy:0.3086', 'canadian:0.2764', 'kostiantynivka:0.2635', 'wrap:0.2553', 'panic:0.2398', 'invasion:0.2343', 'news:0.2255', 'volodymyr:0.2238', 'announce:0.221', 'president:0.2166', 'justin:0.2059', 'capital:0.199', 'fly:0.1976', 'talk:0.1799', 'unannounced:0.1741', 'prime:0.1643', 'weapon:0.1634', 'visit:0.1519', 'sanction:0.1517', 'address:0.1446', 'minister:0.1445', 'conference:0.1438', 'connection:0.1067', 'fighter:0.1016', 'sunday:0.0821', 'entity:0.044']+titles_keywords+['ukraines:0.4144', 'panic:0.3462', 'kostiantynivka:0.3095', 'wrap:0.2812', 'jet:0.2514']"
+        ]
+    ],
+    "UKR+RUS+160":[
+        [
+            "20220517+../news_crawling/RUS_UKR/p_articles/timeslive.co.za/UKRAINE WRAP Russian economy ministry sees Russias 2022 GDP down 78 Interfax.txt+eventbasecode160+eventcode160+avgtone0.4957627118644068+goldsteinscale0.3+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['gdp:0.4471', 'economy:0.4373', 'ukraine:0.3862', 'russias:0.3405', 'inflation:0.335', 'rouble:0.3045', 'commodity:0.2799', 'news:0.2199', 'quarter:0.2165', 'dollar:0.2129', 'wrap:0.2122', 'cite:0.1816', 'western:0.1495', 'peak:0.144', 'contract:0.1375', 'expect:0.1336', 'interfax:0.1284', 'agency:0.1239', 'end:0.1236', 'sanction:0.1181', 'domestic:0.1104', 'hit:0.11', 'weaken:0.0931', 'tuesday:0.0887', 'second:0.0656', 'say:0.0569', 'dependent:0.0501', 'add:0.039', 'currently:0.0256', 'gross:0.0205']+titles_keywords+['ukraine:0.3814', 'gdp:0.3165', '78:0.2358', 'wrap:0.2157', 'interfax:0.1334']"
+        ]
+    ]
+}

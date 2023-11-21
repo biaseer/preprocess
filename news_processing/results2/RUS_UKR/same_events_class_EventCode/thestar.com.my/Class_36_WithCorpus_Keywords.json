@@ -1,0 +1,32 @@
+{
+    "CHE+RUS+36":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Ukraines Zelenskiy says will only talk directly to Russias Putin.txt+eventbasecode36+eventcode36+avgtone0.4963235294117647+goldsteinscale0.7+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukraine:0.4723', 'putin:0.4651', 'vladimir:0.3957', 'zelenskiy:0.3522', 'diplomatic:0.2869', 'talk:0.2586', 'volodymyr:0.2183', 'executive:0.2003', 'invasion:0.1785', 'fight:0.1726', 'reutersarnd:0.1721', 'davos:0.1636', 'understand:0.157', 'willing:0.1483', 'directly:0.1384', 'begin:0.137', 'delegate:0.1285', 'reality:0.1177', 'withdraw:0.1061', 'forum:0.0895', 'feb:0.0864', 'klaus:0.0862', 'file:0.0647', 'possibility:0.0641', 'world:0.0638', 'display:0.0628', 'step:0.0491', 'photo:0.0489', 'wef:0.0176', 'recovered:0.0144']+titles_keywords+['zelenskiy:0.5157', 'putin:0.4398', 'ukraines:0.3934', 'talk:0.2476', 'directly:0.2371']"
+        ]
+    ],
+    "DEU+RUS+36":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Russia says it returns some troops to base in areas near Ukraine.txt+eventbasecode36+eventcode36+avgtone0.48461538461538467+goldsteinscale0.7+nummentions0.13824383164005805+numarticles0.13669325598259607+numsources0.22039473684210525+news_keywords+['ukraine:0.4534', 'nato:0.3916', 'vladimir:0.3397', 'troop:0.3326', 'war:0.2882', 'escalation:0.2526', 'tank:0.2423', 'kolodyazhnyywriting:0.2268', 'shortly:0.2095', 'news:0.2077', 'rouble:0.2068', 'border:0.2004', 'drill:0.1963', 'expect:0.1882', 'returning:0.1826', 'avert:0.1768', 'plan:0.1721', 'railway:0.1698', 'adjacent:0.1569', 'report:0.1505', 'dmytro:0.1493', 'exercise:0.1449', 'continue:0.1412', 'pullout:0.1126', 'arm:0.0979', 'feb:0.0942', 'footage:0.0938', 'say:0.0885', 'gopalakrishnan:0.0804', 'large:0.0774']+titles_keywords+['ukraine:0.4003', 'troops:0.3627', 'returns:0.2861', 'areas:0.1133', 'near:0.0835']"
+        ]
+    ],
+    "IDN+RUS+36":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Russias ambassador in Indonesia says Putin plans to attend G20 summit.txt+eventbasecode36+eventcode36+avgtone0.5078125+goldsteinscale0.7+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.006578947368421052+news_keywords+['putin:0.4277', 'russias:0.3096', 'jakarta:0.2856', 'ambassador:0.281', 'meeting:0.2466', 'group:0.2408', 'novgorod:0.2324', 'sputnikmikhail:0.2161', 'attend:0.1974', 'summit:0.1766', 'economy:0.1717', 'reutersfile:0.1478', 'news:0.1463', 'reporting:0.1407', 'invasion:0.1357', 'reaction:0.1302', 'vorobieva:0.1268', 'states:0.1161', 'remain:0.1005', 'paragraph:0.0951', 'correct:0.0858', 'kapoor:0.0727', 'wednesday:0.0657', 'year:0.0508', 'ed:0.05', 'second:0.0492', 'photo:0.0446', 'teo:0.0287', 'try:0.0259', 'davies:0.0192']+titles_keywords+['putin:0.3936', 'ambassador:0.2844', 'g20:0.2806', 'indonesia:0.2539', 'attend:0.2148']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Brent climbs above US120bbl after Saudi Arabia hikes crude prices.txt+eventbasecode36+eventcode36+avgtone0.48473282442748095+goldsteinscale0.7+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.01644736842105263+news_keywords+['opec:0.5003', 'reuters:0.3631', 'oil:0.3611', 'futures:0.3559', 'supply:0.3173', 'june:0.3051', 'increase:0.2987', 'barrel:0.2533', 'russia:0.2471', 'benchmarks:0.2331', 'output:0.2171', 'worry:0.1994', 'soon:0.1829', 'flagship:0.1803', 'intraday:0.1747', 'expect:0.1726', 'spread:0.1652', 'covid:0.1621', 'forward:0.1586', 'price:0.1386', 'sandu:0.1371', 'import:0.1356', 'hay:0.1352', 'phillip:0.1349', 'swap:0.1344', 'hike:0.1315', 'resume:0.1268', 'average:0.1096', 'unlikely:0.1085', 'especially:0.0705']+titles_keywords+['brent:0.3923', 'us120bbl:0.3014', 'saudi:0.2496', 'prices:0.1539', 'climbs:0.1414']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Asean ministers meet to gauge economic impact of RussiaUkraine war.txt+eventbasecode36+eventcode36+avgtone0.4877450980392157+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.006578947368421052+news_keywords+['asean:0.5631', 'gdp:0.3567', 'economic:0.3394', 'war:0.3119', 'russiaukraine:0.2721', 'readiness:0.2281', 'penh:0.1964', 'steel:0.1925', 'bloc:0.186', 'import:0.1766', 'memorandum:0.17', 'news:0.1674', 'association:0.1657', 'agreement:0.1591', 'increase:0.1582', 'covid:0.1475', 'ongoing:0.1419', 'th:0.1407', 'product:0.1377', 'compare:0.1222', 'soon:0.1206', 'rcep:0.1204', 'end:0.1159', 'trillion:0.1112', 'cost:0.11', 'attend:0.091', 'prevent:0.0906', 'direct:0.0899', 'minimal:0.0869', 'possible:0.0411']+titles_keywords+['asean:0.4617', 'russiaukraine:0.2685', 'economic:0.2527', 'meet:0.1473', 'impact:0.1088']"
+        ]
+    ],
+    "UKR+USA+36":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Biden and Putin agree in principle to Ukraine summit French presidency.txt+eventbasecode36+eventcode36+avgtone0.5045045045045045+goldsteinscale0.7+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['putin:0.5214', 'macron:0.413', 'ukraine:0.4018', 'biden:0.3947', 'presidency:0.3291', 'meeting:0.3256', 'reuters:0.2954', 'lavrov:0.2569', 'crisis:0.2143', 'elysee:0.2042', 'french:0.2033', 'switzerland:0.1962', 'reporting:0.1822', 'summit:0.1788', 'poutine:0.1692', 'monday:0.1537', 'june:0.1505', 'secretary:0.1501', 'file:0.126', 'feast:0.1254', 'prepare:0.124', 'kim:0.1237', 'write:0.1176', 'say:0.1172', 'www:0.1094', 'agree:0.0767', 'hold:0.0745', 'photo:0.0636', 'frenemmanuel:0.0615', 'principle:0.0537']+titles_keywords+['biden:0.4133', 'ukraine:0.2944', 'summit:0.1014', 'agree:0.0926', 'principle:0.072']"
+        ]
+    ]
+}

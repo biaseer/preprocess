@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+72":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/fox29.com/RussiaUkraine war Major cities bombarded as civilians try to flee.txt+eventbasecode72+eventcode72+avgtone0.47806215722120654+goldsteinscale0.915+nummentions0.09107402031930334+numarticles0.09173313995649021+numsources0.10526315789473684+news_keywords+['kyiv:0.5124', 'russiaukraine:0.5037', 'kremlin:0.484', 'evacuate:0.3604', 'chernobyl:0.354', 'war:0.3131', 'government:0.3029', 'reporter:0.2701', 'counterattack:0.2413', 'read:0.2408', 'change:0.2352', 'shriek:0.2255', 'continue:0.2242', 'casualty:0.2217', 'concern:0.2078', 'march:0.2057', 'world:0.2045', 'rih:0.1923', 'grabchak:0.1873', 'list:0.1872', 'period:0.1867', 'unwinding:0.1805', 'general:0.1802', 'orbit:0.1798', 'furthermore:0.1732', 'plant:0.1717', 'version:0.1609', 'nearly:0.1536', 'short:0.1486', 'ready:0.1243']+titles_keywords+['russiaukraine:0.4628', 'civilians:0.3368', 'bombarded:0.3324', 'cities:0.2963', 'flee:0.2767']"
+        ]
+    ],
+    "RUS+BLR+72":[
+        [
+            "20220119+../news_crawling/RUS_UKR/p_articles/fox29.com/Russia moves unspecified number of troops towards Ukraine amid heightened tensions.txt+eventbasecode72+eventcode72+avgtone0.48877455565949485+goldsteinscale0.915+nummentions0.04753265602322206+numarticles0.048223350253807105+numsources0.07236842105263158+news_keywords+['nato:0.4624', 'belarus:0.4275', 'crimean:0.4085', 'putin:0.4055', 'russias:0.3742', 'war:0.3485', 'deploy:0.3066', 'alexei:0.2669', 'maneuver:0.2557', 'concern:0.2162', 'meeting:0.2033', 'future:0.1926', 'restate:0.1814', 'expect:0.1768', 'increasingly:0.1705', 'agreement:0.165', 'psaki:0.1599', 'read:0.1576', 'general:0.1567', 'emphasize:0.155', 'near:0.1479', 'buildup:0.1475', 'anonymity:0.1404', 'ready:0.1262', 'feb:0.124', 'state:0.1225', 'preclude:0.1156', 'hopefully:0.1151', 'external:0.0917', 'dozen:0.0689']+titles_keywords+['ukraine:0.3879', 'troops:0.3163', 'moves:0.2408', 'tensions:0.1514', 'unspecified:0.1377']"
+        ]
+    ]
+}

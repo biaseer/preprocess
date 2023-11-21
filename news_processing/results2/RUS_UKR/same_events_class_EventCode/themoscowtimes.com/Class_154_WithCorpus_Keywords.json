@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20211102+../news_crawling/RUS_UKR/p_articles/themoscowtimes.com/Ukraine Denies Russian Military Buildup on Border as Defense Minister Quits.txt+eventbasecode154+eventcode154+avgtone0.4631782945736434+goldsteinscale0.13999999999999999+nummentions0.01088534107402032+numarticles0.011602610587382161+numsources0.019736842105263157+news_keywords+['crimea:0.4709', 'kremlin:0.4423', 'russiahas:0.4182', 'dmitry:0.353', 'troop:0.3358', 'pentagon:0.2803', 'government:0.2712', 'threaten:0.2466', 'separatist:0.2433', 'border:0.2404', 'erupt:0.2395', 'concerned:0.2365', 'artillery:0.2354', 'reshuffle:0.21', 'march:0.2059', 'movement:0.2039', 'reaffirm:0.1983', 'buildup:0.1922', 'reporter:0.1905', 'volodymyr:0.1862', 'taran:0.181', 'yelnya:0.1634', 'additional:0.1587', 'quits:0.153', 'pullback:0.1449', 'video:0.1359', 'potential:0.1227', 'reportedly:0.1012', 'comfitg:0.0822', 'large:0.0802']+titles_keywords+['ukraine:0.39', 'denies:0.2391', 'military:0.2122', 'quits:0.1669', 'buildup:0.113']"
+        ]
+    ],
+    "UKR+RUS+154":[
+        [
+            "20211101+../news_crawling/RUS_UKR/p_articles/themoscowtimes.com/Ukraine Leader Calls for Talks with Russia Amid Invasion Fears.txt+eventbasecode154+eventcode154+avgtone0.4707446808510638+goldsteinscale0.13999999999999999+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.02631578947368421+news_keywords+['ukraine:0.4671', 'kremlin:0.4501', 'nato:0.4041', 'war:0.3624', 'dmitry:0.3559', 'escalation:0.3008', 'diplomat:0.264', 'annex:0.2583', 'separatist:0.2483', 'border:0.2368', 'know:0.2332', 'zelenskiy:0.2064', 'talk:0.2043', 'turn:0.2029', 'organization:0.1984', 'surge:0.1949', 'appear:0.1921', 'afraid:0.1877', 'drill:0.1817', 'winter:0.1814', 'stir:0.1768', 'thursday:0.1616', 'report:0.1577', 'hold:0.1525', 'end:0.152', 'follow:0.1482', 'issue:0.1273', 'oust:0.1266', 'direct:0.1102', 'largely:0.0504']+titles_keywords+['ukraine:0.3699', 'talks:0.2098', 'fears:0.2031', 'invasion:0.1652', 'leader:0.1331']"
+        ]
+    ]
+}

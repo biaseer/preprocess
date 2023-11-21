@@ -1,0 +1,17 @@
+{
+    "CZE+RUS+111":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/batonrougepost.com/ExCzech leader denounces hatred of Russia.txt+eventbasecode111+eventcode111+avgtone0.47990543735224583+goldsteinscale0.4+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.039473684210526314+news_keywords+['ukraine:0.4848', 'kremlin:0.4018', 'vaclav:0.4006', 'nato:0.3828', 'war:0.3458', 'exczech:0.3209', 'negotiation:0.3049', 'bloc:0.2496', 'unprovoked:0.244', 'president:0.2377', 'pragmatism:0.2279', 'instead:0.2145', 'news:0.2081', 'write:0.2023', 'sanction:0.1987', 'neutral:0.1976', 'agreement:0.1958', 'plan:0.1906', 'kamikaze:0.1894', 'motive:0.18', 'table:0.1769', 'issue:0.1681', 'follow:0.1605', 'soon:0.1577', 'current:0.1359', 'term:0.1321', 'donbass:0.1253', 'tragic:0.1104', 'import:0.1082', 'retake:0.0927']+titles_keywords+['exczech:0.5748', 'denounces:0.3656', 'russia:0.3052', 'hatred:0.2941', 'leader:0.1269']"
+        ]
+    ],
+    "GBR+RUS+111":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/batonrougepost.com/UK will work to ensure sovereignty independence of Ukraine PM.txt+eventbasecode111+eventcode111+avgtone0.48214285714285715+goldsteinscale0.4+nummentions0.16545718432510886+numarticles0.1660623640319072+numsources0.14802631578947367+news_keywords+['ukraine:0.518', 'putin:0.4751', 'sanction:0.2964', 'boris:0.2791', 'negotiation:0.2745', 'independence:0.2665', 'zelenskyy:0.2654', 'news:0.245', 'flag:0.2339', 'table:0.2322', 'president:0.2223', 'sputnik:0.2155', 'cite:0.1959', 'downing:0.1921', 'isolate:0.1827', 'vtb:0.1787', 'friday:0.1772', 'sit:0.1743', 'introduce:0.1615', 'support:0.1505', 'tweet:0.1488', 'bank:0.134', 'global:0.1339', 'long:0.1297', 'ensure:0.1244', 'statement:0.1152', 'freeze:0.1086', 'telephone:0.0995', 'ani:0.0712', 'restore:0.0264']+titles_keywords+['ukraine:0.4237', 'sovereignty:0.3631', 'independence:0.3362', 'work:0.1623', 'ensure:0.1342']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/batonrougepost.com/Russia launches military strikes on Ukraine warns West to stay away.txt+eventbasecode111+eventcode111+avgtone0.47696245733788395+goldsteinscale0.4+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5822368421052632+news_keywords+['putin:0.4346', 'kyiv:0.3784', 'nato:0.378', 'war:0.3479', 'militarize:0.3375', 'escalation:0.285', 'cyberattack:0.2828', 'reuters:0.2825', 'diplomats:0.2678', 'unprovoked:0.2585', 'inform:0.2556', 'agreement:0.244', 'correspondent:0.2353', 'veto:0.2335', 'preside:0.2079', 'table:0.1965', 'avert:0.189', 'plan:0.1881', 'begin:0.1802', 'repeat:0.1782', 'happen:0.165', 'stay:0.1635', 'pipeline:0.158', 'thursday:0.1525', 'ready:0.1499', 'voa:0.1451', 'nearly:0.1206', 'state:0.1205', 'straight:0.0925', 'characterize:0.0783']+titles_keywords+['ukraine:0.3794', 'warns:0.2099', 'military:0.1762', 'strikes:0.1642', 'stay:0.1256']"
+        ]
+    ]
+}

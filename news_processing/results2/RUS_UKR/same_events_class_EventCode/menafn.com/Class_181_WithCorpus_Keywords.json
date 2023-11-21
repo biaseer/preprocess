@@ -1,0 +1,15 @@
+{
+    "RUS+RUS+181":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/menafn.com/Russia seeking to wrest seized nuclear plant from Ukraine.txt+eventbasecode181+eventcode181+avgtone0.4929178470254958+goldsteinscale0.05+nummentions0.02104499274310595+numarticles0.021754894851341553+numsources0.013157894736842105+news_keywords+['ukraine:0.4952', 'putin:0.411', 'chernobyl:0.4004', 'nuclear:0.3966', 'annex:0.2835', 'erupt:0.2622', 'operation:0.2342', 'future:0.2232', 'conflict:0.2181', 'intend:0.2167', 'plant:0.2137', 'production:0.2108', 'power:0.1947', 'troop:0.1945', 'article:0.1909', 'report:0.1839', 'information:0.18', 'stay:0.1753', 'help:0.172', 'afp:0.1484', 'enerhodar:0.1379', 'raise:0.1339', 'ready:0.1257', 'provider:0.1167', 'say:0.1157', 'integration:0.1099', 'possible:0.1027', 'fifth:0.1022', 'license:0.0561', 'unless:0.0462']+titles_keywords+['ukraine:0.4229', 'nuclear:0.3715', 'seized:0.2925', 'wrest:0.1038', 'seeking:0.0731']"
+        ]
+    ],
+    "RUS+UKR+181":[
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/menafn.com/Invaders Have Abducted 2389 Ukrainian Children.txt+eventbasecode181+eventcode181+avgtone0.4748322147651007+goldsteinscale0.05+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4331', 'invasion:0.4022', 'deportation:0.3909', 'evacuate:0.3734', 'territory:0.3375', 'occupied:0.3218', 'operation:0.2872', 'military:0.2871', 'abduct:0.2772', 'child:0.2686', 'involve:0.2145', 'read:0.2125', 'movement:0.2086', 'rights:0.2034', 'darya:0.2002', 'organization:0.1986', 'dangerous:0.1962', 'geneva:0.1911', 'source:0.1905', 'number:0.1824', 'increase:0.1793', 'issue:0.1701', 'area:0.1693', 'point:0.1664', 'begin:0.1525', 'accept:0.1422', 'completeness:0.1363', 'cross:0.1195', 'partly:0.0764', 'today:0.0625']+titles_keywords+['ukrainian:0.4441', 'abducted:0.4195', 'invaders:0.3673', 'children:0.3643', '2389:0.333']"
+        ],
+        [
+            "20220624+../news_crawling/RUS_UKR/p_articles/menafn.com/Russian Offensive Operations Likely To Stall In Coming Weeks ISW.txt+eventbasecode181+eventcode181+avgtone0.470703125+goldsteinscale0.05+nummentions0.04825834542815675+numarticles0.048948513415518494+numsources0.16776315789473684+news_keywords+['kremlin:0.4094', 'ukrainian:0.3679', 'troop:0.3085', 'sievierodonetsk:0.2827', 'victory:0.2488', 'siege:0.2484', 'operations:0.227', 'ideological:0.2237', 'assault:0.2218', 'correspondent:0.2217', 'advance:0.219', 'azovstal:0.2064', 'terrain:0.2004', 'stall:0.1767', 'substantial:0.176', 'direction:0.1664', 'advantageous:0.1494', 'reliability:0.1471', 'focus:0.1447', 'june:0.1409', 'reminder:0.1298', 'issue:0.1283', 'estimate:0.1234', 'rai:0.1111', 'coming:0.1102', 'donets:0.1015', 'prevent:0.1', 'relate:0.0687', 'make:0.0618', 'likely:0.0304']+titles_keywords+['russian:0.2794', 'weeks:0.255', 'stall:0.2508', 'isw:0.2101', 'coming:0.1031']"
+        ]
+    ]
+}

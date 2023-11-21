@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+163":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/stokesentinel.co.uk/What you can do to help Ukranians affected by Russian invasion.txt+eventbasecode163+eventcode163+avgtone0.49761904761904757+goldsteinscale0.1+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4953', 'ukranians:0.4444', 'humanitarian:0.3453', 'assistance:0.2703', 'invasion:0.2566', 'shelter:0.2291', 'embassy:0.2213', 'organise:0.189', 'affected:0.1806', 'push:0.1785', 'feel:0.1755', 'concern:0.1704', 'fund:0.1676', 'want:0.1654', 'population:0.1577', 'news:0.1421', 'independent:0.1389', 'sanction:0.126', 'arm:0.1234', 'global:0.1198', 'http:0.1066', 'grow:0.1049', 'write:0.1043', 'template:0.1027', 'like:0.0898', 'video:0.0888', 'straight:0.0818', 'mp:0.0736', 'way:0.0613', 'fullfact:0.038']+titles_keywords+['ukranians:0.5498', 'russian:0.425', 'invasion:0.327', 'help:0.2452', 'affected:0.2172']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/stokesentinel.co.uk/Ukraine latest PM calls on world leaders to act China delivers warning to US and.txt+eventbasecode163+eventcode163+avgtone0.4704641350210971+goldsteinscale0.1+nummentions0.030478955007256895+numarticles0.03118201595358956+numsources0.03289473684210526+news_keywords+['putin:0.4864', 'ukraine:0.4535', 'natos:0.4326', 'invasion:0.3064', 'disrupt:0.298', 'eastward:0.2833', 'negotiation:0.2761', 'crisis:0.2746', 'ahead:0.2697', 'warn:0.2661', 'telegraph:0.2611', 'sanction:0.2606', 'rhetoric:0.2443', 'executive:0.2423', 'oppose:0.2341', 'unprovoked:0.2315', 'plan:0.2243', 'implement:0.2136', 'visa:0.208', 'react:0.1954', 'order:0.1933', 'goalpost:0.1878', 'rewrite:0.1836', 'world:0.1748', 'counterpart:0.1629', 'matter:0.1578', 'saturday:0.1401', 'arm:0.1325', 'swathe:0.1215', 'longer:0.1185']+titles_keywords+['ukraine:0.4182', 'warning:0.2016', 'world:0.1386', 'calls:0.066', 'latest:0.0427']"
+        ]
+    ]
+}

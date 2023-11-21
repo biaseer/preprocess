@@ -1,0 +1,12 @@
+{
+    "FIN+RUS+1043":[
+        [
+            "20220520+../news_crawling/RUS_UKR/p_articles/business-standard.com/West rushes more aid as Mariupol teeters and fighting rages in East Ukraine.txt+eventbasecode104+eventcode1043+avgtone0.48171368861024033+goldsteinscale0.25+nummentions0.18650217706821481+numarticles0.18709209572153734+numsources0.20723684210526316+news_keywords+['ukraine:0.4965', 'kremlin:0.4773', 'nato:0.3954', 'separatist:0.3176', 'territory:0.2928', 'retreat:0.2866', 'cyberattacks:0.2858', 'east:0.2595', 'fight:0.2557', 'military:0.2516', 'telegram:0.2458', 'azov:0.2458', 'information:0.2147', 'continue:0.212', 'olha:0.21', 'ally:0.21', 'pull:0.2073', 'redistribute:0.2064', 'soon:0.1973', 'swath:0.1946', 'president:0.1935', 'donbas:0.1911', 'speaking:0.1876', 'plant:0.1536', 'verify:0.1515', 'head:0.1422', 'middle:0.14', 'major:0.1341', 'agree:0.113', 'relative:0.1049']+titles_keywords+['ukraine:0.4301', 'aid:0.3863', 'mariupol:0.3421', 'west:0.2779', 'fighting:0.1825']"
+        ]
+    ],
+    "RUS+RUS+1043":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/business-standard.com/Russian tycoons now 83billion richer as stock trading resumes.txt+eventbasecode104+eventcode1043+avgtone0.49134199134199136+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['moscow:0.3949', 'billionaires:0.3603', 'rich:0.3592', 'wealthy:0.3478', 'stock:0.3425', 'russia:0.3357', 'russian:0.3208', 'moex:0.3045', 'russians:0.3028', 'bloomberg:0.2798', 'fortune:0.2731', 'index:0.2473', 'billion:0.2242', 'tycoon:0.206', 'trading:0.2005', 'resume:0.1868', 'world:0.1726', 'suspension:0.1712', 'link:0.1693', 'month:0.1513', 'rise:0.15', 'cent:0.1266', 'share:0.1218', 'people:0.1123', 'combine:0.1052', 'benchmark:0.0931', 'track:0.0799', 'added:0.0666', 'climb:0.0576', 'accord:0.0228']+titles_keywords+['83billion:0.3652', 'russian:0.3618', 'stock:0.3271', 'tycoons:0.3263', 'richer:0.2956']"
+        ]
+    ]
+}

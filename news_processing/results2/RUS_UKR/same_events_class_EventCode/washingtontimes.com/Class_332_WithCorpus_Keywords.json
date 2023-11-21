@@ -1,0 +1,12 @@
+{
+    "WST+RUS+332":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Russia hits Ukrainian military installation near Polish border 35 dead as conflict escalates.txt+eventbasecode33+eventcode332+avgtone0.46484375+goldsteinscale0.76+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['ukraine:0.4657', 'kremlin:0.3979', 'peacekeeping:0.3858', 'invasion:0.3557', 'pentagon:0.3071', 'escalates:0.2792', 'zelenskyy:0.2677', 'border:0.2586', 'kill:0.2475', 'proximity:0.2313', 'nuclear:0.2279', 'repel:0.2278', 'worry:0.2139', 'enter:0.2099', 'weapon:0.2076', 'tank:0.206', 'news:0.1954', 'plan:0.1852', 'turn:0.1849', 'interpret:0.1817', 'adviser:0.1813', 'implement:0.1722', 'end:0.1688', 'alsoagain:0.1628', 'focus:0.1502', 'sure:0.1349', 'portman:0.1241', 'chorus:0.1238', 'installation:0.0748', 'theres:0.0537']+titles_keywords+['ukrainian:0.3602', 'hits:0.1524', '35:0.1347', 'escalates:0.0944', 'installation:0.0694']"
+        ]
+    ],
+    "WST+UKR+332":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/US and NATO need to show strength and resolve to stop Putin.txt+eventbasecode33+eventcode332+avgtone0.48145933014354064+goldsteinscale0.76+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['natos:0.5675', 'ukrainian:0.4153', 'putin:0.4136', 'militarily:0.3822', 'brinksmanship:0.2899', 'deploy:0.2795', 'cohen:0.262', 'armed:0.2604', 'tank:0.2502', 'colonel:0.2463', 'suggestion:0.2254', 'supply:0.2203', 'remind:0.2202', 'relay:0.2197', 'intervene:0.2183', 'strengthen:0.2161', 'howitzer:0.2106', 'retool:0.1953', 'plan:0.1901', 'effective:0.1831', 'unguided:0.1801', 'advantage:0.1748', 'kilometer:0.1533', 'include:0.1343', 'term:0.1292', 'new:0.1273', 'scorecard:0.1265', 'big:0.1139', 'iii:0.1062', 'feb:0.087']+titles_keywords+['nato:0.5301', 'putin:0.4166', 'strength:0.322', 'resolve:0.2195', 'stop:0.1541']"
+        ]
+    ]
+}

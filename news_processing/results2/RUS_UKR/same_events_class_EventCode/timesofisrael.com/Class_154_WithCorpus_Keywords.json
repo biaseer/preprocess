@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220125+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/US warns Moscow of massive consequences heavy sanctions over Ukraine crisis.txt+eventbasecode154+eventcode154+avgtone0.47634069400630913+goldsteinscale0.13999999999999999+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.009868421052631578+news_keywords+['putin:0.5031', 'crimea:0.4645', 'nato:0.4351', 'diplomacy:0.4049', 'invade:0.3479', 'threat:0.3056', 'veto:0.2748', 'consequence:0.2678', 'prepare:0.2516', 'news:0.249', 'alert:0.2312', 'firing:0.2274', 'separatist:0.2179', 'read:0.2093', 'supply:0.1986', 'implement:0.1952', 'anonymity:0.1864', 'interdependency:0.1852', 'forward:0.1733', 'counterpart:0.1724', 'friday:0.1715', 'winter:0.1695', 'hesitate:0.1629', 'additional:0.1456', 'list:0.137', 'mitigate:0.1333', 'telephone:0.1247', 'measure:0.1229', 'weve:0.1133', 'agree:0.0881']+titles_keywords+['sanctions:0.4523', 'moscow:0.3401', 'warns:0.2312', 'crisis:0.1549', 'heavy:0.127']"
+        ]
+    ],
+    "UKR+RUS+154":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Ukraine demands urgent meeting with Russia allies over troop buildup.txt+eventbasecode154+eventcode154+avgtone0.5022371364653244+goldsteinscale0.13999999999999999+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.013157894736842105+news_keywords+['ukraine:0.4941', 'moscows:0.3686', 'troop:0.3075', 'meeting:0.262', 'invasion:0.2574', 'osce:0.2302', 'urgent:0.2137', 'border:0.1868', 'reinforcement:0.1851', 'security:0.1851', 'notify:0.1848', 'require:0.1594', 'movement:0.1588', 'news:0.1587', 'ally:0.1527', 'advance:0.1431', 'ignore:0.1371', 'dmytro:0.1272', 'pleased:0.1261', 'explain:0.119', 'hour:0.1149', 'write:0.108', 'coverage:0.0958', 'sunday:0.0821', 'dozens:0.0773', 'start:0.0693', 'little:0.0582', 'thats:0.0431', 'like:0.0401', 'havent:-0.0055']+titles_keywords+['ukraine:0.4336', 'meeting:0.308', 'troop:0.2796', 'demands:0.1825', 'buildup:0.108']"
+        ]
+    ],
+    "WST+UKR+154":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Ukraine soldier dies in shelling attack by Russiabacked separatists.txt+eventbasecode154+eventcode154+avgtone0.4916467780429594+goldsteinscale0.13999999999999999+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.009868421052631578+news_keywords+['ukraine:0.502', 'putin:0.4149', 'russiabacked:0.4113', 'nato:0.3859', 'separatist:0.3452', 'soldier:0.3251', 'frontline:0.2861', 'invade:0.282', 'news:0.2634', 'dispatch:0.241', 'jewish:0.1864', 'read:0.1847', 'source:0.1691', 'month:0.1658', 'monday:0.1634', 'provide:0.1594', 'intensify:0.1554', 'coverage:0.1447', 'pleased:0.1399', 'suffer:0.1371', 'drill:0.1371', 'insightful:0.1302', 'tally:0.1289', 'arm:0.1066', 'like:0.0987', 'force:0.0917', 'thats:0.0885', 'little:0.0544', 'poise:0.0495', 'invite:0.0184']+titles_keywords+['ukraine:0.318', 'russiabacked:0.2998', 'soldier:0.2806', 'dies:0.216', 'shelling:0.1567']"
+        ]
+    ]
+}

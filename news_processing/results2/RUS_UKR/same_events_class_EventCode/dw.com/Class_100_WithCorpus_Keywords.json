@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+100":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/dw.com/What you need to know about the UkraineRussia crisis.txt+eventbasecode100+eventcode100+avgtone0.4842271293375394+goldsteinscale0.25+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.023026315789473683+news_keywords+['ukraine:0.5102', 'yanukovych:0.4091', 'kremlin:0.3645', 'ceasefire:0.3618', 'annexation:0.347', 'separatist:0.3266', 'natohas:0.3126', 'crisis:0.2673', 'memorandum:0.2238', 'remain:0.1992', 'military:0.1899', 'economically:0.1849', 'update:0.1794', 'concerned:0.1726', 'know:0.1611', 'elect:0.1595', 'article:0.1475', 'strengthen:0.1401', 'current:0.1368', 'state:0.1336', 'flank:0.1294', 'pursue:0.1271', 'order:0.1199', 'ready:0.1195', 'translated:0.1194', 'end:0.1109', 'million:0.089', 'january:0.0838', 'oust:0.0734', 'keydemands:0.0232']+titles_keywords+['ukrainerussia:0.4498', 'crisis:0.324', 'know:0.1933', 'need:0.1226']"
+        ]
+    ],
+    "RUS+UKR+100":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/dw.com/Russian authorities target antiwar celebrities.txt+eventbasecode100+eventcode100+avgtone0.45238095238095233+goldsteinscale0.25+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['russia:0.525', 'ukraine:0.4847', 'russian:0.4546', 'antiwar:0.3762', 'war:0.3062', 'authority:0.2741', 'intellectuals:0.2405', 'country:0.2223', 'celebrity:0.2115', 'entry:0.2041', 'presenter:0.1927', 'pressure:0.1757', 'refuse:0.1632', 'punish:0.1591', 'leave:0.159', 'speak:0.1569', 'artists:0.1524', 'force:0.1364', 'come:0.1356', 'tv:0.1179', 'increase:0.1153', 'opponent:0.1041', 'profile:0.0796', 'high:0.0718', 'target:0.0579']+titles_keywords+['antiwar:0.4272', 'celebrities:0.3422', 'russian:0.3115', 'authorities:0.2277', 'target:0.1429']"
+        ]
+    ]
+}

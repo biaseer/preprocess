@@ -1,0 +1,12 @@
+{
+    "RUS+TUR+61":[
+        [
+            "20220707+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict Turkey says grain exports deal to be signed off next week.txt+eventbasecode61+eventcode61+avgtone0.49216710182767626+goldsteinscale0.82+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4597', 'putin:0.4402', 'war:0.3941', 'blockade:0.3276', 'reuters:0.3221', 'agreement:0.271', 'trudeau:0.2677', 'border:0.2541', 'turkeys:0.2255', 'talk:0.2148', 'pipeline:0.2126', 'finalize:0.2068', 'long:0.1976', 'report:0.1702', 'shipment:0.1541', 'explain:0.149', 'february:0.1419', 'ally:0.1402', 'sign:0.1328', 'arent:0.132', 'grain:0.1302', 'hopeful:0.128', 'coordination:0.1266', 'resume:0.1243', 'increase:0.1172', 'include:0.1127', 'head:0.1025', 'set:0.0955', 'prices:0.091', 'dozen:0.0791']+titles_keywords+['turkey:0.382', 'grain:0.2747', 'signed:0.207', 'conflict:0.1868', 'week:0.0924']"
+        ]
+    ],
+    "UKR+USA+61":[
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict US issues new sanctions on Russia targeting oligarch cellist yachts linked to Vladimir.txt+eventbasecode61+eventcode61+avgtone0.4792746113989637+goldsteinscale0.82+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['putin:0.5433', 'russiaukraine:0.4464', 'oligarch:0.401', 'reuters:0.3556', 'sanction:0.3314', 'yachts:0.3279', 'invade:0.3123', 'congress:0.3073', 'drone:0.2793', 'pentagon:0.2724', 'report:0.2474', 'blacklist:0.2472', 'operation:0.2429', 'conflict:0.2318', 'shortly:0.1997', 'realise:0.1966', 'proposal:0.1874', 'reveal:0.1837', 'february:0.1785', 'end:0.1732', 'unprecedented:0.1685', 'property:0.1682', 'data:0.163', 'use:0.1613', 'include:0.1509', 'depend:0.1357', 'steel:0.1319', 'nega:0.1306', 'reversal:0.1213', 'large:0.1133']+titles_keywords+['sanctions:0.4732', 'putin:0.4308', 'russiaukraine:0.4151', 'oligarch:0.2953', 'yachts:0.2812']"
+        ]
+    ]
+}

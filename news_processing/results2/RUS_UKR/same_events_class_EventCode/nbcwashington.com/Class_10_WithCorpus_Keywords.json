@@ -1,0 +1,12 @@
+{
+    "USA+RUS+10":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/nbcwashington.com/Biden Praises Ukraine Condemns Russia to Begin State of the Union.txt+eventbasecode10+eventcode10+avgtone0.5+goldsteinscale0.5+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4958', 'putin:0.4646', 'biden:0.4122', 'russias:0.3969', 'democrats:0.2289', 'attack:0.2239', 'praises:0.2169', 'triumph:0.1823', 'remark:0.171', 'begin:0.1558', 'onukrainestretched:0.1556', 'meet:0.1536', 'capital:0.1507', 'constitution:0.146', 'wall:0.1444', 'tonight:0.1378', 'convoy:0.1351', 'prepared:0.1195', 'instead:0.1125', 'resolve:0.105', 'state:0.1049', 'quickly:0.1037', 'world:0.1021', 'free:0.0876', 'shake:0.0862', 'current:0.0835', 'unwavering:0.0799', 'importantly:0.0635', 'wag:0.0584', 'think:0.0583']+titles_keywords+['biden:0.3824', 'ukraine:0.3631', 'praises:0.2127', 'state:0.1792', 'begin:0.163']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/nbcwashington.com/Biden Russia War a Genocide Trying to Wipe Out Ukraine.txt+eventbasecode10+eventcode10+avgtone0.463254593175853+goldsteinscale0.5+nummentions0.3454281567489115+numarticles0.34590282813633066+numsources0.3782894736842105+news_keywords+['putin:0.495', 'genocide:0.4215', 'biden:0.4201', 'president:0.3778', 'intervene:0.2747', 'accuse:0.246', 'controversy:0.2331', 'administration:0.2029', 'nuclear:0.2002', 'imply:0.1982', 'block:0.1875', 'tutsis:0.1833', 'say:0.1775', 'europe:0.1745', 'dramatic:0.1536', 'hesitate:0.1524', 'wipe:0.1368', 'bloody:0.1367', 'articulate:0.1365', 'learn:0.1351', 'clearer:0.1335', 'direct:0.1216', 'dodge:0.1181', 'month:0.1021', 'idea:0.0939', 'update:0.0905', 'spike:0.0836', 'sure:0.0789', 'price:0.0684', 'wasnt:0.0535']+titles_keywords+['biden:0.5002', 'genocide:0.4654', 'ukraine:0.4317', 'war:0.3981', 'trying:0.1738']"
+        ]
+    ]
+}

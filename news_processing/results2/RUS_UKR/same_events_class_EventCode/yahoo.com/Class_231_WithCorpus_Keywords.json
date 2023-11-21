@@ -1,0 +1,16 @@
+{
+    "RUS+UKR+231":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/yahoo.com/Ukrainian Sisters Share Food To Support Humanitarian Relief.txt+eventbasecode23+eventcode231+avgtone0.4967793880837359+goldsteinscale0.67+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukrainian:0.4751', 'humanitarian:0.3894', 'protest:0.3154', 'sisters:0.3056', 'fundraise:0.3012', 'make:0.2762', 'culture:0.274', 'feel:0.2686', 'concern:0.2616', 'world:0.2614', 'help:0.2613', 'understand:0.2612', 'troop:0.2575', 'feeding:0.2499', 'receive:0.2466', 'share:0.2394', 'lie:0.2385', 'friend:0.2375', 'bombed:0.2374', 'woman:0.2361', 'cooky:0.2211', 'attendee:0.2064', 'piece:0.2004', 'covid:0.1968', 'radhika:0.1967', 'herndon:0.193', 'borscht:0.1868', 'month:0.1459', 'sum:0.1305', 'beautiful:0.1254']+titles_keywords+['sisters:0.4106', 'humanitarian:0.3708', 'ukrainian:0.3516', 'food:0.2967', 'share:0.2556']"
+        ],
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russian restaurant Ukrainian students to raise money for Ukraine.txt+eventbasecode23+eventcode231+avgtone0.4954407294832827+goldsteinscale0.67+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.462', 'babushkas:0.3454', 'protest:0.3268', 'immigration:0.3232', 'humanitarian:0.3061', 'menu:0.2957', 'cherniavskyi:0.2903', 'familys:0.2751', 'business:0.2733', 'place:0.2534', 'invasion:0.2432', 'issue:0.2155', 'chicken:0.2146', 'arrange:0.2116', 'terrace:0.1924', 'tell:0.1867', 'borscht:0.1859', 'historic:0.1718', 'port:0.1686', 'course:0.1649', 'word:0.1515', 'isnt:0.1487', 'despite:0.1465', 'proof:0.1435', 'include:0.1359', 'owner:0.1354', 'cost:0.1213', 'razom:0.1202', 'whats:0.1201', 'platt:0.1138']+titles_keywords+['ukrainian:0.4796', 'restaurant:0.4181', 'students:0.322', 'money:0.2359', 'raise:0.2169']"
+        ]
+    ],
+    "UKR+RUS+231":[
+        [],
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/yahoo.com/Ukrainian soldiers raise money by writing custom notes on artillery shells for 40 before firing.txt+eventbasecode23+eventcode231+avgtone0.4961383661481562+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['troop:0.4416', 'russian:0.4328', 'war:0.3846', 'sokolenko:0.3636', 'ngo:0.3466', 'fundraise:0.3122', 'social:0.2973', 'molotov:0.2896', 'text:0.2848', 'kill:0.2816', 'endorse:0.2765', 'idea:0.274', 'make:0.2584', 'arrangement:0.2563', 'shell:0.2498', 'meme:0.2454', 'casualty:0.2406', 'envelop:0.2374', 'colleague:0.2352', 'share:0.2323', 'custom:0.2305', 'postage:0.2245', 'brave:0.219', 'useful:0.2056', 'process:0.2014', 'note:0.1868', 'mm:0.1693', 'video:0.1693', 'radio:0.1555', 'far:0.1478']+titles_keywords+['russians:0.4544', 'artillery:0.3779', 'writing:0.2262', 'raise:0.2238', 'custom:0.1787']"
+        ]
+    ]
+}

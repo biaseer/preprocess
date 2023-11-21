@@ -1,0 +1,20 @@
+{
+    "RUS+EUR+193":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/prokerala.com/Russian forces seize Ukrainian nuke plant By IANS Published on Fri Mar 4 2022 1418.txt+eventbasecode193+eventcode193+avgtone0.47179487179487184+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['chernobyl:0.5661', 'nuclear:0.5012', 'reactor:0.4323', 'kiev:0.4286', 'zaporizhzhya:0.3776', 'nuke:0.35', 'erupt:0.3148', 'operation:0.2267', 'safe:0.207', 'troop:0.1906', 'plant:0.1872', 'power:0.1804', 'inspectorate:0.1758', 'npp:0.1724', 'maintenance:0.1692', 'grid:0.1515', 'consequence:0.1455', 'control:0.1451', 'ist:0.1229', 'discharge:0.1227', 'fourth:0.1129', 'level:0.1054', 'enter:0.0999', 'remind:0.0994', 'world:0.0984', 'responder:0.0921', 'daichi:0.0908', 'significant:0.0841', 'directly:0.0736', 'hour:0.0679']+titles_keywords+['ukrainian:0.3979', 'nuke:0.3089', 'ians:0.2717', '1418:0.2382', 'fri:0.1729']"
+        ]
+    ],
+    "RUS+RUS+193":[
+        [
+            "20220516+../news_crawling/RUS_UKR/p_articles/prokerala.com/Russian commanders allegedly slaughtering their own wounded soldiers By IANS Published on Mon May 16.txt+eventbasecode193+eventcode193+avgtone0.45399999999999996+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukrainian:0.4295', 'battalion:0.3791', 'colonel:0.3455', 'civilian:0.3117', 'slaughter:0.2953', 'zolkin:0.2778', 'journalist:0.2661', 'report:0.2625', 'investigation:0.2409', 'gun:0.229', 'video:0.2284', 'captured:0.2172', 'shell:0.2074', 'rank:0.2003', 'execute:0.2001', 'wound:0.1968', 'volodymyr:0.1945', 'shoot:0.1796', 'ist:0.1649', 'treatment:0.1635', 'town:0.1564', 'allegedly:0.1477', 'lie:0.1461', 'dead:0.1409', 'brutal:0.1405', 'bucha:0.1364', 'direct:0.1136', 'force:0.1067', 'come:0.1021', 'multiple:0.1012']+titles_keywords+['russian:0.4232', 'commanders:0.4173', 'slaughtering:0.318', 'published:0.2172', 'allegedly:0.1675']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/prokerala.com/Russian helicopters swarm over Ukraines capital By IANS Published on Thu Feb 24 2022 2021.txt+eventbasecode193+eventcode193+avgtone0.4745222929936305+goldsteinscale0.0+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.009868421052631578+news_keywords+['crimea:0.5304', 'kiev:0.5195', 'ukraines:0.5081', 'kakhovka:0.3308', 'military:0.2989', 'attack:0.2573', 'chopper:0.2346', 'swarm:0.2165', 'report:0.2135', 'seized:0.2074', 'airfield:0.1994', 'shoot:0.1783', 'border:0.1763', 'hydroelectric:0.1662', 'thu:0.1635', 'midday:0.1599', 'ammo:0.149', 'control:0.1447', 'delhi:0.1439', 'donbass:0.1433', 'ist:0.1371', 'dump:0.1365', 'published:0.1311', 'near:0.1286', 'feb:0.1166', 'retake:0.116', 'new:0.1142', 'sumy:0.1098', 'include:0.0924', 'views:0.0801']+titles_keywords+['helicopters:0.5332', 'ukraines:0.5326', 'capital:0.2904', '2022:0.2032', 'published:0.1625']"
+        ],
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/prokerala.com/Many Russian warplanes fire missiles from inside Russian airspace By IANS Published on Sat Mar.txt+eventbasecode193+eventcode193+avgtone0.483271375464684+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4598', 'russians:0.3854', 'missile:0.3191', 'drone:0.2994', 'airspace:0.2949', 'warplanes:0.2812', 'fly:0.255', 'pentagon:0.2274', 'airpower:0.226', 'range:0.2072', 'border:0.1477', 'shoot:0.1429', 'reporter:0.126', 'cautiousness:0.1138', 'daily:0.0978', 'sortie:0.0857', 'despite:0.084', 'sams:0.083', 'verify:0.0699', 'new:0.0603', 'make:0.057', 'ist:0.0528', 'cheap:0.047', 'roughly:0.0441', 'lob:0.0405', 'effect:0.0403', 'particularly:0.0393', 'number:0.0316', 'long:0.0301', 'general:0.0238']+titles_keywords+['missiles:0.4385', 'airspace:0.3958', 'russian:0.3676', 'published:0.1933', '2022:0.1263']"
+        ]
+    ]
+}

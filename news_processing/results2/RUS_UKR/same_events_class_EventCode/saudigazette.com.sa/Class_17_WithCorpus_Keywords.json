@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+17":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/Syrias President visits UAE first trip to Arab state since war began.txt+eventbasecode17+eventcode17+avgtone0.5+goldsteinscale0.5+nummentions0.0330188679245283+numarticles0.02719361856417694+numsources0.049342105263157895+news_keywords+['syria:0.49', 'uae:0.4661', 'assad:0.435', 'bashar:0.4321', 'arab:0.3477', 'president:0.322', 'emirates:0.3126', 'zayed:0.311', 'visit:0.2109', 'peaceful:0.2051', 'humanitarian:0.1563', 'security:0.119', 'news:0.1053', 'state:0.1049', 'relation:0.0899', 'prospect:0.0858', 'achieve:0.0835', 'consultation:0.0741', 'welcome:0.0649', 'way:0.0649', 'report:0.0532', 'pagenext:0.0513', 'wam:0.0355', 'number:0.0273', 'issue:0.0207', 'middle:0.0197', 'emphasize:0.0165', 'various:0.0107', 'forces:-0.0146', 'late:-0.0219']+titles_keywords+['uae:0.3912', 'syrias:0.3708', 'president:0.2634', 'visits:0.1224', 'began:0.01']"
+        ]
+    ],
+    "UKR+RUS+17":[
+        [
+            "20210824+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/Ukraine celebrates 30 years of independence amid tensions with Russia.txt+eventbasecode17+eventcode17+avgtone0.4834024896265561+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.4623', 'separatist:0.378', 'independence:0.3498', 'celebrate:0.3353', 'annexation:0.2915', 'gorbachev:0.2822', 'referendum:0.2698', 'euronews:0.2597', 'conflict:0.2505', 'coup:0.2295', 'communist:0.2231', 'continue:0.1987', 'zelenskyy:0.1813', 'tense:0.1719', 'say:0.1628', 'reaffirm:0.1585', 'period:0.1549', 'year:0.1508', 'keiv:0.1397', 'state:0.1363', 'significance:0.1098', 'world:0.1089', 'recognize:0.1046', 'monday:0.1032', 'pagenext:0.0987', 'control:0.0985', 'painful:0.0711', 'search:0.0672', 'amid:0.0525', 'sevastopol:0.038']+titles_keywords+['ukraine:0.5007', 'independence:0.3461', 'celebrates:0.283', '30:0.2135', 'tensions:0.2002']"
+        ]
+    ]
+}

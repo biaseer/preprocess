@@ -1,0 +1,25 @@
+{
+    "ISR+UKR+10":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/i24news.tv/Russia claims Israelis fighting alongside Azov militants.txt+eventbasecode10+eventcode10+avgtone0.44769874476987453+goldsteinscale0.5+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.019736842105263157+news_keywords+['israelis:0.4511', 'azov:0.4381', 'militants:0.4274', 'ukrainian:0.3843', 'kremlin:0.3765', 'sergei:0.3758', 'troop:0.3384', 'nazi:0.3255', 'blood:0.2484', 'separatist:0.2253', 'fight:0.16', 'alongside:0.157', 'affiliate:0.14', 'donbas:0.1326', 'resistance:0.1282', 'outrageous:0.12', 'tell:0.112', 'arm:0.1094', 'element:0.0997', 'right:0.0995', 'pro:0.0923', 'rise:0.0787', 'radio:0.0763', 'start:0.0745', 'error:0.0697', 'spokeswoman:0.0662', 'tuesday:0.0621', 'far:0.0582', 'plant:0.0522', 'practically:0.0348']+titles_keywords+['azov:0.47', 'israelis:0.457', 'militants:0.4209', 'russia:0.327', 'alongside:0.1778']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/i24news.tv/Zelensky Bennett talk again to discuss prospects for Russia ceasefire.txt+eventbasecode10+eventcode10+avgtone0.48559670781893+goldsteinscale0.5+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.029605263157894735+news_keywords+['ceasefire:0.5061', 'putin:0.4374', 'ukraine:0.4293', 'zelensky:0.4078', 'jerusalem:0.2862', 'mediation:0.2838', 'naftali:0.2812', 'bennett:0.2701', 'volodymyr:0.233', 'president:0.2298', 'news:0.2158', 'propose:0.2138', 'tweet:0.1849', 'abducted:0.1786', 'begin:0.1761', 'speaking:0.1727', 'report:0.1651', 'anonymity:0.1601', 'avoid:0.1475', 'host:0.1466', 'february:0.1421', 'stress:0.1388', 'discus:0.1377', 'deal:0.1343', 'melitopol:0.1295', 'issue:0.1294', 'tie:0.1105', 'make:0.1003', 'intention:0.0949', 'force:0.0795']+titles_keywords+['zelensky:0.5249', 'bennett:0.3888', 'ceasefire:0.3486', 'talk:0.3138', 'russia:0.1885']"
+        ],
+        [
+            "20220513+../news_crawling/RUS_UKR/p_articles/i24news.tv/Moscow warns Finland over NATO bid.txt+eventbasecode10+eventcode10+avgtone0.49200000000000005+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.4999', 'baltic:0.3981', 'helsinki:0.3823', 'russia:0.3359', 'finns:0.3353', 'vladimir:0.2691', 'neutrality:0.2302', 'psaki:0.1771', 'accession:0.1758', 'promised:0.1442', 'thursday:0.1332', 'stoltenberg:0.1308', 'warmly:0.1267', 'security:0.1267', 'ally:0.1103', 'warn:0.1044', 'action:0.0929', 'expectation:0.0928', 'accord:0.0926', 'cite:0.0844', 'bid:0.0842', 'include:0.0813', 'measure:0.0803', 'shift:0.0795', 'follow:0.0783', 'secretary:0.0762', 'welcome:0.0517', 'issue:0.0398', 'rapid:0.0133', 'decade:-0.0076']+titles_keywords+['finland:0.4012', 'nato:0.3996', 'moscow:0.3735', 'warns:0.2247', 'bid:0.1257']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/i24news.tv/Russia absent at UN court hearings on genocide in Ukraine.txt+eventbasecode10+eventcode10+avgtone0.45102040816326505+goldsteinscale0.5+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.0756578947368421+news_keywords+['ukraine:0.503', 'genocide:0.4612', 'treaty:0.3908', 'moscows:0.3433', 'separatist:0.2877', 'proceedings:0.243', 'occupy:0.2164', 'allegation:0.2163', 'argue:0.2113', 'law:0.2103', 'battlefield:0.206', 'narrative:0.2005', 'operation:0.2003', 'case:0.1965', 'icj:0.1805', 'news:0.1798', 'absent:0.1759', 'rebel:0.1546', 'aggressive:0.1366', 'forward:0.1348', 'hearing:0.1344', 'file:0.1336', 'interpretation:0.1317', 'say:0.1295', 'groundless:0.1214', 'begin:0.1159', 'number:0.1153', 'focus:0.0962', 'prevention:0.085', 'senior:0.0493']+titles_keywords+['ukraine:0.4571', 'genocide:0.3605', 'absent:0.3361', 'hearings:0.3032', 'court:0.1892']"
+        ]
+    ],
+    "USA+RUS+10":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/i24news.tv/US accuses Russia of war crimes after reviewing intelligence.txt+eventbasecode10+eventcode10+avgtone0.4721115537848605+goldsteinscale0.5+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.03618421052631579+news_keywords+['moscow:0.448', 'chechnya:0.4167', 'ukrainian:0.3997', 'airstrike:0.3627', 'accuse:0.323', 'syria:0.2982', 'crime:0.2781', 'report:0.2569', 'civilian:0.2526', 'alert:0.2266', 'source:0.2098', 'biden:0.205', 'satellite:0.2019', 'child:0.1714', 'write:0.161', 'information:0.1598', 'vulnerable:0.1585', 'statement:0.1404', 'word:0.1346', 'state:0.1314', 'international:0.1228', 'formally:0.1194', 'base:0.1101', 'gather:0.1082', 'review:0.1028', 'antony:0.1006', 'large:0.0903', 'track:0.0874', 'employ:0.0868', 'include:0.0709']+titles_keywords+['accuses:0.3266', 'russia:0.2588', 'reviewing:0.1733', 'war:0.1691', 'intelligence:0.1344']"
+        ]
+    ]
+}

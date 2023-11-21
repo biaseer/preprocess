@@ -1,0 +1,7 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/cnn.com/May 2 2022 RussiaUkraine news.txt+eventbasecode100+eventcode100+avgtone0.4770133681121617+goldsteinscale0.25+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.5157', 'putin:0.431', 'nato:0.3989', 'invade:0.3749', 'escalation:0.2802', 'propaganda:0.2801', 'boris:0.2631', 'regiment:0.2599', 'coincide:0.2574', 'diplomat:0.2529', 'peace:0.2301', 'soon:0.2213', 'ioc:0.221', 'know:0.2077', 'steinmeier:0.2059', 'declaration:0.2045', 'blood:0.1871', 'worried:0.1841', 'anniversary:0.1809', 'follow:0.1804', 'yair:0.1726', 'word:0.1625', 'draft:0.1515', 'cover:0.1435', 'galvanize:0.1291', 'direct:0.1238', 'volley:0.1164', 'offer:0.0901', 'thousand:0.0871', 'unless:0.0631']+titles_keywords+['2022:0.6099', 'russiaukraine:0.4807', 'news:0.3053']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+TUR+13":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Russians near Kyiv after attack on childrens hospital sparks fury.txt+eventbasecode13+eventcode13+avgtone0.4632768361581921+goldsteinscale0.52+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['kyiv:0.5496', 'evacuation:0.3843', 'russians:0.3639', 'war:0.3467', 'chernobyl:0.3357', 'battalion:0.2998', 'nationalist:0.2541', 'update:0.2325', 'involve:0.2238', 'prepare:0.2199', 'catastrophic:0.2105', 'report:0.2011', 'soon:0.1958', 'order:0.1882', 'northeast:0.184', 'watchdog:0.1786', 'corridor:0.1775', 'counterpart:0.1748', 'turn:0.1748', 'additional:0.1456', 'import:0.1454', 'refurbish:0.1446', 'boy:0.144', 'plant:0.1327', 'kilometre:0.1316', 'sparks:0.1172', 'deprave:0.1074', 'set:0.0874', 'price:0.068', 'limit:0.0673']+titles_keywords+['kyiv:0.5585', 'russians:0.3829', 'attack:0.2415', 'hospital:0.2238', 'childrens:0.1955']"
+        ]
+    ],
+    "UKR+RUS+13":[
+        [
+            "20220203+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Blame the US.txt+eventbasecode13+eventcode13+avgtone0.48494623655913977+goldsteinscale0.52+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['nato:0.4938', 'russias:0.3712', 'russian:0.2851', 'blame:0.2823', 'interventionism:0.2606', 'invasion:0.2516', 'pentagon:0.2399', 'puppet:0.1661', 'eastward:0.1626', 'counterpunch:0.1581', 'approve:0.141', 'tank:0.1403', 'bad:0.1393', 'know:0.1292', 'doesnt:0.1211', 'end:0.1198', 'independent:0.1191', 'make:0.1126', 'people:0.1104', 'pledge:0.1077', 'oh:0.1065', 'include:0.105', 'absorption:0.1016', 'argue:0.1', 'excerpted:0.0934', 'innocently:0.0894', 'gobble:0.0842', 'instal:0.0832', 'million:0.0435', 'today:0.026']+titles_keywords+['blame:0.677']"
+        ],
+        [
+            "20220521+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Ukraine conflict Russia claims victory in Mariupol.txt+eventbasecode13+eventcode13+avgtone0.4680616740088105+goldsteinscale0.52+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.5166', 'kremlin:0.4002', 'nato:0.3957', 'war:0.3885', 'militants:0.3593', 'oleg:0.3346', 'separatist:0.3238', 'pentagon:0.2875', 'argument:0.265', 'balticconnector:0.2447', 'industrialise:0.2239', 'align:0.2214', 'continue:0.2149', 'fend:0.2124', 'sergeant:0.211', 'finance:0.2108', 'blackmail:0.2089', 'repercussion:0.1954', 'approve:0.1913', 'severodonetsk:0.1898', 'long:0.1877', 'comprise:0.1868', 'instead:0.1849', 'town:0.1835', 'pipeline:0.1812', 'source:0.1802', 'gmt:0.1479', 'biden:0.1468', 'reach:0.1236', 'newly:0.0873']+titles_keywords+['ukraine:0.4392', 'victory:0.3488', 'mariupol:0.3081', 'conflict:0.1876', 'claims:0.1533']"
+        ]
+    ]
+}

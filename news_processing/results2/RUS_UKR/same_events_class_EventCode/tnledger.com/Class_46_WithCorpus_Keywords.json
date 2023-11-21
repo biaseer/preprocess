@@ -1,0 +1,12 @@
+{
+    "RUS+SYR+46":[
+        [
+            "20220720+../news_crawling/RUS_UKR/p_articles/tnledger.com/Syria formally breaks diplomatic ties with Ukraine.txt+eventbasecode46+eventcode46+avgtone0.48701298701298706+goldsteinscale0.85+nummentions0.03193033381712627+numarticles0.032632342277012324+numsources0.03289473684210526+news_keywords+['syria:0.494', 'putin:0.3858', 'kyiv:0.3691', 'diplomatic:0.3569', 'bashar:0.331', 'separatist:0.3018', 'sovereignty:0.2876', 'conflict:0.282', 'invade:0.2242', 'tayyip:0.2067', 'relation:0.1909', 'reality:0.1804', 'foreign:0.1543', 'state:0.1478', 'revalidate:0.1453', 'confer:0.1444', 'result:0.136', 'hold:0.1303', 'donbas:0.1278', 'trip:0.1272', 'say:0.121', 'help:0.1199', 'suspended:0.1182', 'refuse:0.1159', 'second:0.1031', 'storm:0.1026', 'official:0.0916', 'month:0.0916', 'recognize:0.086', 'ap:0.0578']+titles_keywords+['syria:0.3713', 'ukraine:0.3242', 'diplomatic:0.2455', 'ties:0.1217', 'breaks:0.0943']"
+        ]
+    ],
+    "RUS+WST+46":[
+        [
+            "20211122+../news_crawling/RUS_UKR/p_articles/tnledger.com/Russian FM Security talks with US NATO to start next month.txt+eventbasecode46+eventcode46+avgtone0.4789855072463768+goldsteinscale0.85+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.11513157894736842+news_keywords+['putin:0.4599', 'nato:0.4587', 'crimean:0.4334', 'diplomacy:0.4192', 'invade:0.3321', 'provocation:0.2591', 'separatist:0.2471', 'troop:0.2434', 'opposes:0.2341', 'concern:0.217', 'plan:0.2101', 'future:0.2081', 'know:0.2079', 'agreement:0.2009', 'secretary:0.1876', 'ready:0.1797', 'turn:0.1786', 'want:0.1755', 'dictate:0.169', 'note:0.1615', 'submit:0.1543', 'buildup:0.1517', 'rt:0.1481', 'discus:0.1473', 'state:0.142', 'month:0.1399', 'sit:0.1326', 'near:0.129', 'smear:0.1272', 'shoigu:0.1115']+titles_keywords+['nato:0.4476', 'fm:0.3038', 'russian:0.2823', 'talks:0.2211', 'month:0.1385']"
+        ]
+    ]
+}

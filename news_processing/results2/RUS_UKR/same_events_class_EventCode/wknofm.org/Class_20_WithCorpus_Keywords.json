@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/wknofm.org/Elon Musk hints at a crewed mission to Mars in 2029.txt+eventbasecode20+eventcode20+avgtone0.5017985611510791+goldsteinscale0.65+nummentions0.022133526850507984+numarticles0.02139231327048586+numsources0.049342105263157895+news_keywords+['mars:0.5328', 'elon:0.4527', 'rover:0.4288', 'mission:0.3986', 'spacehub:0.395', 'exploration:0.3492', 'astronautical:0.3357', 'esa:0.3321', 'prediction:0.3236', 'startup:0.3101', 'russia:0.2779', 'hint:0.2733', 'label:0.2708', 'envision:0.263', 'crew:0.252', 'date:0.2341', 'read:0.2272', 'say:0.2127', 'build:0.2058', 'guadalajara:0.1986', 'lifetimes:0.1981', 'exomars:0.1947', 'intergovernmental:0.1739', 'combinator:0.1731', 'suspend:0.1692', 'align:0.1681', 'impact:0.1609', 'compare:0.1444', 'series:0.1404', 'possible:0.1291']+titles_keywords+['musk:0.4969', '2029:0.4218', 'mars:0.375', 'crewed:0.2269', 'hints:0.1111']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/wknofm.org/What Kyiv looks like as Russian troops appear to reposition.txt+eventbasecode20+eventcode20+avgtone0.5+goldsteinscale0.65+nummentions0.02104499274310595+numarticles0.021754894851341553+numsources0.019736842105263157+news_keywords+['kyiv:0.6102', 'russians:0.3923', 'war:0.365', 'nato:0.3312', 'troop:0.3041', 'pentagon:0.2933', 'stay:0.2762', 'safer:0.2606', 'sheltering:0.2502', 'reposition:0.247', 'alarm:0.2447', 'tank:0.2377', 'scary:0.2261', 'understand:0.2078', 'table:0.1948', 'redirect:0.1868', 'npr:0.1726', 'deliver:0.1714', 'general:0.1688', 'hears:0.1637', 'transcript:0.1585', 'information:0.1582', 'population:0.1461', 'anticipate:0.1419', 'look:0.1305', 'way:0.1293', 'april:0.1263', 'nadworny:0.1256', 'hi:0.115', 'young:0.1043']+titles_keywords+['kyiv:0.6473', 'reposition:0.3815', 'troops:0.3762', 'looks:0.21', 'appear:0.1891']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict Vladimir Putin being misled by advisers say US UK.txt+eventbasecode192+eventcode192+avgtone0.46335078534031415+goldsteinscale0.025+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.013157894736842105+news_keywords+['putin:0.5362', 'ukraines:0.4581', 'russiaukraine:0.4443', 'chernobyl:0.4209', 'gchq:0.2906', 'invasion:0.2841', 'regime:0.2643', 'military:0.233', 'conflict:0.2319', 'sabotage:0.2249', 'iaea:0.2058', 'report:0.1856', 'adviser:0.1836', 'intelligence:0.1782', 'realise:0.1673', 'news:0.157', 'afraid:0.1561', 'short:0.1407', 'order:0.1253', 'accidentally:0.1163', 'plant:0.1141', 'plan:0.1113', 'whats:0.0986', 'overestimate:0.0962', 'real:0.0936', 'equipment:0.0924', 'state:0.0852', 'deteriorate:0.0821', 'canberra:0.0814', 'fleming:0.0487']+titles_keywords+['putin:0.5115', 'advisers:0.2759', 'conflict:0.27', 'misled:0.2573', 'uk:0.1802']"
+        ],
+        [
+            "20220720+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict Kyiv appoints investigator to be new anticorruption prosecutor.txt+eventbasecode192+eventcode192+avgtone0.4664879356568365+goldsteinscale0.025+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['ukraine:0.4682', 'kremlin:0.4447', 'anticorruption:0.3536', 'appoints:0.3218', 'government:0.2875', 'reuters:0.2847', 'investigator:0.2705', 'conflict:0.2681', 'attack:0.2539', 'yermak:0.2448', 'volodymyr:0.2392', 'unprovoked:0.2346', 'resign:0.2327', 'report:0.2048', 'want:0.1982', 'enter:0.1954', 'ongoing:0.1925', 'subject:0.1885', 'winter:0.183', 'approve:0.1812', 'long:0.1806', 'tuesday:0.1654', 'coming:0.1575', 'term:0.1568', 'protract:0.1549', 'realise:0.1427', 'nearly:0.1202', 'new:0.1175', 'head:0.1077', 'hop:0.0945']+titles_keywords+['kyiv:0.5168', 'anticorruption:0.3299', 'investigator:0.3158', 'conflict:0.1922', 'new:0.0769']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+154":[
+        [
+            "20211102+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Putin seeks concrete agreements against NATO expansion.txt+eventbasecode154+eventcode154+avgtone0.48333333333333334+goldsteinscale0.13999999999999999+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['nato:0.4689', 'kremlin:0.4281', 'crimea:0.4111', 'vladimir:0.3658', 'expand:0.2652', 'negotiation:0.2583', 'attack:0.2319', 'agreement:0.2129', 'eastward:0.1936', 'propose:0.1879', 'border:0.1873', 'insist:0.1864', 'appoint:0.1854', 'ally:0.1835', 'concern:0.1816', 'separatist:0.1652', 'deployment:0.1587', 'closer:0.1563', 'plan:0.1346', 'ignore:0.1343', 'sanction:0.1291', 'dmytro:0.1082', 'guarantee:0.0983', 'illegitimate:0.0921', 'newly:0.0898', 'wednesday:0.0827', 'possible:0.0783', 'winter:0.077', 'wanted:0.0638', 'concrete:0.0504']+titles_keywords+['putin:0.4466', 'nato:0.4419', 'agreements:0.3346', 'seeks:0.1202', 'concrete:0.102']"
+        ]
+    ],
+    "WST+RUS+154":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Ukrainian and Russian forces fight over capital Kyiv.txt+eventbasecode154+eventcode154+avgtone0.4644859813084112+goldsteinscale0.13999999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5193', 'nato:0.4413', 'putin:0.4312', 'moscows:0.4058', 'war:0.3843', 'military:0.3605', 'crises:0.3125', 'prokopov:0.3099', 'attack:0.307', 'evacuate:0.3067', 'ammunition:0.2503', 'capital:0.2431', 'prepare:0.234', 'secretary:0.1461', 'vetoed:0.1415', 'cold:0.1354', 'building:0.1349', 'direct:0.1318', 'child:0.1303', 'televise:0.1288', 'saturday:0.1276', 'complicate:0.1268', 'data:0.1237', 'brief:0.1115', 'actually:0.107', 'scale:0.0939', 'dozen:0.0907', 'far:0.0732', 'include:0.0715', 'value:0.0673']+titles_keywords+['kyiv:0.5684', 'russian:0.3197', 'fight:0.3084', 'capital:0.2412', 'forces:0.0488']"
+        ]
+    ]
+}

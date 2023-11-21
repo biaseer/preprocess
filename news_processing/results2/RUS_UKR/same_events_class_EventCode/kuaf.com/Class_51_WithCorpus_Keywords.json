@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/kuaf.com/Some Russian performing artists are speaking out against Putin.txt+eventbasecode51+eventcode51+avgtone0.4964994165694282+goldsteinscale0.67+nummentions0.14223512336719885+numarticles0.14285714285714285+numsources0.24342105263157895+news_keywords+['putin:0.454', 'kyiv:0.4535', 'tchaikovsky:0.4505', 'philharmonic:0.4187', 'bychkov:0.4074', 'protest:0.3283', 'regime:0.3239', 'repression:0.3113', 'performing:0.3057', 'nobility:0.2975', 'choreographer:0.2966', 'peaceful:0.2847', 'art:0.2761', 'crisis:0.2647', 'karbauskis:0.2645', 'unite:0.2395', 'depart:0.2378', 'speak:0.2348', 'continue:0.233', 'letter:0.2263', 'statement:0.2226', 'know:0.2203', 'social:0.2176', 'feel:0.2142', 'world:0.2078', 'lengthy:0.2003', 'death:0.1939', 'prepare:0.1667', 'friday:0.1261', 'state:0.1195']+titles_keywords+['putin:0.4357', 'artists:0.3155', 'russian:0.3048', 'performing:0.2874', 'speaking:0.1492']"
+        ],
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/kuaf.com/The US will welcome up to 100000 Ukrainians fleeing the Russian invasion.txt+eventbasecode51+eventcode51+avgtone0.4756097560975609+goldsteinscale0.67+nummentions0.057329462989840346+numarticles0.05801305293691081+numsources0.12171052631578948+news_keywords+['refugee:0.5266', 'ukraine:0.4346', 'reunification:0.3891', 'nato:0.3676', 'troop:0.2672', 'infrastructure:0.2669', 'assistance:0.2603', 'crisis:0.2581', 'stay:0.2531', 'want:0.2503', 'understand:0.2453', 'advocate:0.2252', 'displace:0.2077', 'talk:0.2019', 'know:0.1959', 'job:0.1949', 'navigate:0.1863', 'funnel:0.1697', 'circumstance:0.1661', 'biden:0.1514', 'month:0.1374', 'woman:0.1347', 'center:0.1302', 'new:0.1275', 'integrate:0.123', 'thousand:0.1193', 'welcome:0.1138', 'far:0.1084', 'asylees:0.0826', 'partly:0.061']+titles_keywords+['ukrainians:0.515', 'invasion:0.3163', '100000:0.2719', 'fleeing:0.2616', 'welcome:0.0587']"
+        ]
+    ]
+}

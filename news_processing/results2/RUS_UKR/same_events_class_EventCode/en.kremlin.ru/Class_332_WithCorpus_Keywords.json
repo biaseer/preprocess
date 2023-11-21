@@ -1,0 +1,12 @@
+{
+    "AZE+RUS+332":[
+        [
+            "20220118+../news_crawling/RUS_UKR/p_articles/en.kremlin.ru/Telephone conversation with President ofAzerbaijan Ilham Aliyev.txt+eventbasecode33+eventcode332+avgtone0.5037593984962406+goldsteinscale0.76+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['aliyev:0.5952', 'conversation:0.3804', 'president:0.3657', 'telephone:0.3561', 'ofazerbaijan:0.3181', 'ilham:0.2323']+titles_keywords+['aliyev:0.6003', 'conversation:0.3821', 'president:0.3383', 'telephone:0.3312', 'ofazerbaijan:0.3103']"
+        ]
+    ],
+    "RUS+WST+332":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/en.kremlin.ru/Telephone conversation with President ofFrance Emmanuel Macron.txt+eventbasecode33+eventcode332+avgtone0.49447513812154703+goldsteinscale0.76+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kiev:0.4716', 'ofrussia:0.3919', 'macron:0.3454', 'provocation:0.3285', 'president:0.2894', 'fortheescalation:0.2522', 'conversation:0.2515', 'andammunition:0.2508', 'weapon:0.2415', 'telephone:0.2386', 'agreement:0.219', 'note:0.1955', 'toimplement:0.1954', 'attention:0.1951', 'emmanuel:0.1946', 'thecurrent:0.1523', 'process:0.1457', 'astheagreements:0.1449', 'send:0.1385', 'ofthenormandy:0.1378', 'member:0.1338', 'format:0.1331', 'drawn:0.1315', 'reach:0.1294', 'imitate:0.1198', 'bynato:0.117', 'theminsk:0.1108', 'considering:0.0823', 'state:0.0799', 'deteriorate:0.0448']+titles_keywords+['macron:0.6155', 'telephone:0.4244', 'conversation:0.4093', 'emmanuel:0.3066', 'offrance:0.2114']"
+        ]
+    ]
+}

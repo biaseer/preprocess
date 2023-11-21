@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+138":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/May Day Rallies in Europe Honor Workers Protest Governments.txt+eventbasecode138+eventcode138+avgtone0.48473967684021546+goldsteinscale0.15+nummentions0.019593613933236574+numarticles0.02030456852791878+numsources0.03289473684210526+news_keywords+['protests:0.5148', 'europe:0.3766', 'march:0.3639', 'macron:0.3582', 'holiday:0.3519', 'election:0.3335', 'governments:0.3148', 'union:0.2998', 'event:0.2938', 'pandemic:0.2859', 'rally:0.2848', 'communist:0.2676', 'social:0.2496', 'organize:0.2393', 'peace:0.2094', 'progressive:0.2063', 'town:0.1937', 'say:0.1689', 'slogan:0.1652', 'term:0.1548', 'site:0.1535', 'fumarola:0.1504', 'sing:0.1491', 'draw:0.1473', 'main:0.1472', 'encircle:0.1347', 'head:0.1306', 'include:0.1194', 'ready:0.1012', 'far:0.0924']+titles_keywords+['protest:0.415', 'rallies:0.3991', 'workers:0.3637', 'europe:0.2371', 'day:0.1709']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/Zelenskyy calls for global protests as UkraineRussia war marks one month.txt+eventbasecode138+eventcode138+avgtone0.4872611464968153+goldsteinscale0.15+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.019736842105263157+news_keywords+['kyiv:0.4734', 'putin:0.3966', 'war:0.3923', 'zelenskyy:0.379', 'invasion:0.3293', 'protest:0.3203', 'genocide:0.3064', 'occupy:0.3033', 'demilitarize:0.2854', 'republics:0.2611', 'speak:0.2343', 'begin:0.2282', 'month:0.2281', 'plan:0.198', 'protect:0.1829', 'subject:0.1689', 'come:0.168', 'goal:0.1459', 'hour:0.1382', 'population:0.1369', 'calling:0.1271', 'donbas:0.1269', 'university:0.1104', 'exactly:0.1101', 'according:0.0926', 'global:0.0866', 'special:0.0778', 'ani:0.0722', 'add:0.0715', 'lpr:0.0242']+titles_keywords+['zelenskyy:0.5306', 'protests:0.3445', 'ukrainerussia:0.3278', 'month:0.2084', 'global:0.1154']"
+        ]
+    ]
+}

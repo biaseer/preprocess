@@ -1,0 +1,10 @@
+{
+    "RUS+USA+110":[
+        []
+    ],
+    "UKR+RUS+110":[
+        [
+            "20220825+../news_crawling/RUS_UKR/p_articles/indiatimes.com/India votes against Russia for the first time in UNSC during procedural vote on Ukraine.txt+eventbasecode110+eventcode110+avgtone0.5+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4781', 'geopolitical:0.4015', 'diplomatic:0.3649', 'iaea:0.3328', 'independence:0.2922', 'federation:0.2642', 'unsc:0.257', 'sanction:0.2223', 'procedure:0.2195', 'abstain:0.2046', 'input:0.1998', 'world:0.1994', 'zelensky:0.1821', 'concern:0.1778', 'pandemic:0.1774', 'observer:0.1771', 'annex:0.176', 'argue:0.1753', 'future:0.1705', 'report:0.1701', 'invitation:0.1607', 'turn:0.157', 'reiterating:0.1556', 'delhi:0.1479', 'prepare:0.1406', 'month:0.1332', 'include:0.1281', 'old:0.1159', 'body:0.1102', 'hoxha:0.0497']+titles_keywords+['ukraine:0.3278', 'unsc:0.2382', 'vote:0.228', 'procedural:0.0506', 'time:0.0208']"
+        ]
+    ]
+}

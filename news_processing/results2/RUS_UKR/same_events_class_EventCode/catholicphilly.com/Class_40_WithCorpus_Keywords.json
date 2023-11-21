@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+40":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/catholicphilly.com/Ukrainians ask Vatican to reconsider Good Friday service.txt+eventbasecode40+eventcode40+avgtone0.4839357429718876+goldsteinscale0.55+nummentions0.00544267053701016+numarticles0.006163886874546773+numsources0.006578947368421052+news_keywords+['reconciliation:0.3986', 'popes:0.35', 'war:0.3475', 'ukrainian:0.3462', 'cross:0.3144', 'condemn:0.2879', 'concern:0.214', 'embassy:0.2133', 'occur:0.2012', 'credo:0.2', 'incoherent:0.199', 'organize:0.1983', 'ambiguous:0.1897', 'friday:0.1747', 'general:0.157', 'gesture:0.1541', 'idea:0.1495', 'request:0.1468', 'change:0.143', 'visvaldas:0.1418', 'andrii:0.1401', 'scrap:0.1369', 'say:0.1359', 'tweet:0.1331', 'th:0.1313', 'colosseum:0.1256', 'wrong:0.1149', 'holy:0.0942', 'especially:0.072', 'cns:0.0607']+titles_keywords+['vatican:0.3653', 'ukrainians:0.3447', 'friday:0.1918', 'good:0.1311', 'reconsider:0.0887']"
+        ],
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/catholicphilly.com/Papal Foundation adds key members to team.txt+eventbasecode40+eventcode40+avgtone0.5145631067961165+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['papal:0.5987', 'archdioceses:0.56', 'diocesan:0.5525', 'philanthropic:0.4622', 'pastoral:0.3148', 'notre:0.2835', 'faith:0.2729', 'foundationfocuses:0.2583', 'institute:0.2575', 'bless:0.2319', 'executive:0.2216', 'announcement:0.2168', 'increase:0.1909', 'sister:0.179', 'serve:0.1733', 'rangel:0.1689', 'building:0.166', 'plan:0.1636', 'cohort:0.1621', 'world:0.1606', 'request:0.1557', 'charlotte:0.1407', 'counter:0.1389', 'breadth:0.1346', 'tofulfilling:0.1332', 'year:0.1305', 'kucia:0.1261', 'vice:0.1141', 'respectively:0.0867', 'welcome:0.0598']+titles_keywords+['papal:0.4925', 'team:0.3152', 'members:0.3047', 'foundation:0.2049', 'adds:0.1513']"
+        ]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "DEU+UKR+46":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/dw.com/Scholz stresses Ukraine support but no weapons.txt+eventbasecode46+eventcode46+avgtone0.4860788863109049+goldsteinscale0.85+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.006578947368421052+news_keywords+['ukraine:0.4649', 'nato:0.4402', 'putin:0.4202', 'diplomacy:0.3872', 'invade:0.3691', 'russiafaces:0.3435', 'pipeline:0.2601', 'correspondent:0.2483', 'standoff:0.2388', 'troop:0.2387', 'scholzstressed:0.238', 'accompany:0.2357', 'adviser:0.2341', 'democratic:0.2291', 'border:0.2218', 'escalate:0.221', 'hesitancy:0.1861', 'drill:0.1824', 'deliver:0.1762', 'consequence:0.1668', 'meant:0.1605', 'script:0.1416', 'issue:0.1412', 'say:0.134', 'proposal:0.1321', 'monday:0.1314', 'financial:0.1313', 'ready:0.1214', 'fact:0.1137', 'alot:0.1016']+titles_keywords+['ukraine:0.4406', 'scholz:0.4229', 'weapons:0.2859', 'support:0.2025', 'stresses:0.0608']"
+        ]
+    ],
+    "EUR+UKR+46":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/dw.com/EU chief offers Kyiv fast track to bloc membership.txt+eventbasecode46+eventcode46+avgtone0.49188311688311687+goldsteinscale0.85+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.5579', 'eu:0.3504', 'zelenskyy:0.3169', 'accompany:0.3003', 'embargo:0.2877', 'invade:0.2613', 'volodymyr:0.2542', 'union:0.2381', 'bloc:0.2227', 'paperwork:0.2027', 'approve:0.1997', 'president:0.1949', 'ready:0.184', 'import:0.1836', 'delegationto:0.1704', 'affair:0.1695', 'investigate:0.1676', 'supply:0.1654', 'talk:0.1627', 'chiefadded:0.1611', 'friday:0.1578', 'step:0.1564', 'envoy:0.1503', 'rank:0.1414', 'bucha:0.1401', 'usual:0.1314', 'returningits:0.1241', 'directly:0.1186', 'million:0.0799', 'heger:0.0789']+titles_keywords+['kyiv:0.4285', 'eu:0.2723', 'bloc:0.1717', 'fast:0.17', 'offers:0.0739']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/dw.com/Ukrainians to vote on any deal with Russia.txt+eventbasecode46+eventcode46+avgtone0.5373134328358209+goldsteinscale0.85+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukrainians:0.4596', 'zelenskyy:0.4459', 'ukrainian:0.442', 'vladimir:0.4176', 'putin:0.411', 'russian:0.3114', 'russia:0.3001', 'referendum:0.2885', 'peace:0.27', 'volodymyr:0.2526', 'agreement:0.2521', 'talk:0.2269', 'vote:0.2121', 'president:0.2075', 'deal:0.2031', 'renew:0.1619', 'change:0.1532', 'people:0.1292', 'counterpart:0.1285', 'involve:0.1089', 'historic:0.1081', 'say:0.103', 'direct:0.0794']+titles_keywords+['ukrainians:0.4646', 'russia:0.2997', 'vote:0.289', 'deal:0.2096']"
+        ],
+        [
+            "20220430+../news_crawling/RUS_UKR/p_articles/dw.com/Ukraine Kyiv police find bound men in Bucha.txt+eventbasecode46+eventcode46+avgtone0.4799544419134396+goldsteinscale0.85+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.023026315789473683+news_keywords+['ukraine:0.5095', 'nato:0.4328', 'pravda:0.4061', 'airstrike:0.3967', 'geopolitical:0.3879', 'pentagon:0.3041', 'zelenskyy:0.302', 'threat:0.2975', 'revolution:0.2784', 'diplomatically:0.2631', 'unhcr:0.263', 'occupy:0.2561', 'regiment:0.2489', 'report:0.2459', 'rhetoric:0.2447', 'citedvladimir:0.2272', 'besiege:0.2236', 'information:0.2151', 'intercept:0.2145', 'shortly:0.175', 'import:0.1632', 'saysa:0.1629', 'period:0.1584', 'generator:0.1554', 'terminology:0.1463', 'compare:0.1354', 'believe:0.1166', 'major:0.1155', 'retool:0.1094', 'includeplans:0.0636']+titles_keywords+['kyiv:0.4502', 'police:0.3553', 'men:0.2724', 'bucha:0.2447', 'bound:0.185']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/dw.com/Battle for Kyiv edges closer to city center.txt+eventbasecode46+eventcode46+avgtone0.4765625+goldsteinscale0.85+nummentions0.07946298984034833+numarticles0.08013052936910806+numsources0.16447368421052633+news_keywords+['kyiv:0.6901', 'ukrainian:0.4834', 'russian:0.367', 'battle:0.3256', 'city:0.3014', 'attack:0.2988', 'capital:0.2951', 'explosion:0.2644', 'night:0.2388', 'hour:0.2289', 'center:0.1987', 'come:0.1822', 'talk:0.1813', 'rock:0.1697', 'residential:0.1687', 'edge:0.1679', 'representative:0.1574', 'area:0.151', 'close:0.1425', 'resume:0.128', 'powerful:0.0729', 'series:0.0399']+titles_keywords+['kyiv:0.5271', 'battle:0.2758', 'center:0.2605', 'closer:0.2119', 'edges:0.1766']"
+        ],
+        []
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+130":[
+        [
+            "20211215+../news_crawling/RUS_UKR/p_articles/politico.eu/Draghi plays down risk of Putin invading Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4803370786516854+goldsteinscale0.27999999999999997+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4932', 'diplomacy:0.461', 'ukraines:0.3814', 'nato:0.3797', 'invade:0.3687', 'engage:0.2977', 'provocation:0.2851', 'maneuver:0.2783', 'draghi:0.2717', 'standoff:0.2605', 'acquisition:0.2456', 'border:0.2407', 'eu:0.2112', 'risk:0.1975', 'prepare:0.1965', 'peninsula:0.1771', 'step:0.161', 'solution:0.1548', 'cite:0.1543', 'prelude:0.1513', 'point:0.1334', 'volodymyr:0.1323', 'possibility:0.1281', 'week:0.1147', 'reach:0.1', 'regularly:0.095', 'say:0.0936', 'severe:0.0909', 'similar:0.09', 'low:0.0647']+titles_keywords+['putin:0.4525', 'draghi:0.4074', 'ukraine:0.355', 'risk:0.2631', 'invading:0.2554']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/politico.eu/Brussels Playbook 6 months of war Greek spy scandal returns Finns go bare.txt+eventbasecode130+eventcode130+avgtone0.48789346246973364+goldsteinscale0.27999999999999997+nummentions0.015602322206095792+numarticles0.013415518491660623+numsources0.046052631578947366+news_keywords+['pasok:0.4826', 'eurozone:0.4435', 'putin:0.4279', 'politico:0.4239', 'parliament:0.384', 'refugees:0.3801', 'merkel:0.3713', 'wiretapping:0.367', 'agenda:0.3659', 'brussels:0.3654', 'oligarch:0.3643', 'diplomat:0.343', 'demilitarization:0.3371', 'recession:0.3265', 'tensions:0.3184', 'eeas:0.3031', 'birthdays:0.2857', 'conference:0.2646', 'report:0.2532', 'rasmussen:0.2504', 'proposal:0.2481', 'expand:0.2467', 'divert:0.2264', 'predicting:0.216', 'read:0.1943', 'substantiated:0.1903', 'quo:0.1872', 'safe:0.1868', 'head:0.1825', 'today:0.1488']+titles_keywords+['scandal:0.4303', 'finns:0.4002', 'spy:0.3868', 'brussels:0.349', 'bare:0.2031']"
+        ]
+    ]
+}

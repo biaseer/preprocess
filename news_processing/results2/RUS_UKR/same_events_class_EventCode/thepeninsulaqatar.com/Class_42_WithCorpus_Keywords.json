@@ -1,0 +1,15 @@
+{
+    "EUR+UKR+42":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/thepeninsulaqatar.com/Ukrainians return from abroad to fight Russian invasion.txt+eventbasecode42+eventcode42+avgtone0.48102678571428575+goldsteinscale0.595+nummentions0.3098693759071118+numarticles0.3103698332124728+numsources0.27960526315789475+news_keywords+['ukrainians:0.4908', 'kyiv:0.4462', 'refugee:0.4421', 'invade:0.3509', 'zelenskyy:0.2953', 'military:0.293', 'border:0.2815', 'flee:0.278', 'reutersmikhail:0.2699', 'afraid:0.2505', 'arrive:0.2241', 'homeland:0.2234', 'fight:0.2206', 'cross:0.2134', 'return:0.2058', 'onward:0.2046', 'speak:0.1871', 'work:0.1854', 'boy:0.1772', 'want:0.1724', 'cite:0.1718', 'family:0.1706', 'palinchak:0.1606', 'forces:0.156', 'care:0.1533', 'place:0.1481', 'explosion:0.1419', 'thousand:0.1017', 'huge:0.0905', 'associated:0.0725']+titles_keywords+['ukrainians:0.5028', 'invasion:0.3527', 'return:0.1908', 'abroad:0.1817', 'fight:0.1633']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20211225+../news_crawling/RUS_UKR/p_articles/thepeninsulaqatar.com/More than 10000 Russian troops returning to bases after drills near Ukraine Interfax.txt+eventbasecode42+eventcode42+avgtone0.4961538461538461+goldsteinscale0.595+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['crimea:0.503', 'moscow:0.4055', 'troop:0.3966', 'nato:0.3944', 'deploy:0.3681', 'vladimir:0.3053', 'combat:0.2371', 'drills:0.2219', 'region:0.2011', 'march:0.1914', 'near:0.1894', 'eastward:0.1846', 'news:0.1385', 'soldatkin:0.1378', 'report:0.1296', 'threaten:0.1133', 'capital:0.1083', 'plan:0.1064', 'return:0.1038', 'kuban:0.1023', 'combine:0.0909', 'vary:0.0905', 'long:0.0903', 'grow:0.09', 'hold:0.0858', 'number:0.0838', 'arm:0.0752', 'stage:0.0744', 'editing:0.0688', 'need:0.0632']+titles_keywords+['troops:0.355', 'russian:0.2685', 'returning:0.2581', '10000:0.2', 'interfax:0.1591']"
+        ],
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/thepeninsulaqatar.com/Pentagon says it will help gather evidence of Russian war crimes in Ukraine.txt+eventbasecode42+eventcode42+avgtone0.4653846153846154+goldsteinscale0.595+nummentions0.01741654571843251+numarticles0.018129079042784626+numsources0.03289473684210526+news_keywords+['kremlin:0.4378', 'pentagon:0.3943', 'ukraine:0.3714', 'investigative:0.3558', 'accuse:0.3382', 'war:0.278', 'evidence:0.2637', 'attack:0.2173', 'briefing:0.2028', 'news:0.1783', 'help:0.1496', 'commit:0.1488', 'indiscriminate:0.1423', 'force:0.142', 'washington:0.1371', 'happen:0.1367', 'tell:0.1306', 'leadership:0.1123', 'intentional:0.1109', 'process:0.1074', 'clear:0.1067', 'make:0.102', 'monday:0.0999', 'decision:0.0996', 'kirby:0.0918', 'come:0.0844', 'carry:0.0751', 'certainly:0.059', 'john:0.0365', 'spokesman:0.0252']+titles_keywords+['pentagon:0.3581', 'russian:0.2673', 'evidence:0.2146', 'war:0.2078', 'help:0.1262']"
+        ]
+    ]
+}

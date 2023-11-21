@@ -1,0 +1,17 @@
+{
+    "RUS+GBR+190":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/getreading.co.uk/UK fears underpressure Vladimir Putin could declare WWIII in just a matter of days.txt+eventbasecode190+eventcode190+avgtone0.493421052631579+goldsteinscale0.0+nummentions0.036284470246734396+numarticles0.03698332124728064+numsources0.039473684210526314+news_keywords+['putin:0.4906', 'nato:0.4321', 'moscow:0.3867', 'ukrainians:0.3785', 'wwiii:0.3604', 'threat:0.2734', 'rhetoric:0.2594', 'expeditionary:0.2316', 'uk:0.224', 'newsletter:0.2061', 'cancerous:0.1916', 'cite:0.1893', 'day:0.183', 'border:0.1804', 'exercises:0.1803', 'plan:0.1796', 'long:0.1702', 'report:0.1625', 'scale:0.1613', 'alongside:0.161', 'february:0.1462', 'say:0.1408', 'significant:0.1376', 'mr:0.1281', 'limpet:0.1244', 'consolidate:0.121', 'nearly:0.091', 'believe:0.0833', 'direct:0.0647', 'add:0.0514']+titles_keywords+['wwiii:0.4447', 'putin:0.4118', 'underpressure:0.2193', 'uk:0.1715', 'days:0.0876']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/getreading.co.uk/Worlds largest cargo aircraft destroyed by Russian forces outside Kyiv say reports.txt+eventbasecode190+eventcode190+avgtone0.49881796690307334+goldsteinscale0.0+nummentions0.3149492017416546+numarticles0.31435823060188545+numsources0.4967105263157895+news_keywords+['kyiv:0.4857', 'aircraft:0.4541', 'antonov:0.4099', 'soviet:0.4074', 'destroy:0.3007', 'cargo:0.2715', 'ssr:0.2435', 'federation:0.234', 'report:0.2176', 'dmytro:0.2162', 'news:0.1835', 'arrive:0.1831', 'hit:0.1805', 'large:0.1614', 'occupier:0.1526', 'direct:0.1498', 'prevail:0.1423', 'mr:0.1379', 'capability:0.1375', 'billion:0.1362', 'built:0.1314', 'confirm:0.1248', 'dream:0.1224', 'longer:0.1204', 'world:0.1202', 'intentional:0.1154', 'year:0.1031', 'track:0.0878', 'monoloading:0.0868', 'cost:0.0748']+titles_keywords+['kyiv:0.3975', 'largest:0.3161', 'aircraft:0.3155', 'cargo:0.2346', 'destroyed:0.1933']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/getreading.co.uk/Ukraine war Before and after images show the scale of destruction.txt+eventbasecode190+eventcode190+avgtone0.46828358208955223+goldsteinscale0.0+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.049342105263157895+news_keywords+['ukraine:0.495', 'war:0.4011', 'vladimir:0.2872', 'kharkiv:0.2547', 'bombardment:0.2472', 'humanitarian:0.2275', 'convoy:0.2033', 'government:0.2031', 'crisis:0.1909', 'earlier:0.1826', 'assault:0.1764', 'aviation:0.1688', 'advance:0.16', 'capital:0.1492', 'scar:0.1461', 'flee:0.146', 'result:0.1455', 'western:0.1425', 'far:0.1363', 'main:0.122', 'plant:0.1213', 'neighbour:0.117', 'repair:0.1079', 'waste:0.0939', 'look:0.0936', 'irpin:0.093', 'forced:0.091', 'million:0.0759', 'bid:0.062', 'slider:0.0333']+titles_keywords+['ukraine:0.4145', 'war:0.3829', 'destruction:0.3671', 'images:0.3148', 'scale:0.1364']"
+        ]
+    ]
+}

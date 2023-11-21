@@ -1,0 +1,12 @@
+{
+    "MDA+UKR+161":[
+        [
+            "20220513+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Oil depot military office targeted in Moldovas separatist region.txt+eventbasecode161+eventcode161+avgtone0.46137339055793986+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.5004', 'moldovas:0.4734', 'kremlin:0.4482', 'war:0.3714', 'oil:0.3425', 'transnistria:0.3406', 'molotov:0.3401', 'attack:0.3145', 'separatist:0.299', 'bordering:0.2918', 'military:0.2849', 'destabilise:0.2647', 'chisinau:0.2628', 'tiraspol:0.2431', 'incident:0.2307', 'report:0.2288', 'flee:0.2273', 'infrastructure:0.2214', 'corridor:0.1894', 'pretext:0.1845', 'unidentified:0.1841', 'fears:0.178', 'stop:0.1752', 'want:0.175', 'spillover:0.1604', 'brief:0.143', 'central:0.1381', 'enterprise:0.1332', 'feb:0.1125', 'man:0.0521']+titles_keywords+['moldovas:0.4485', 'oil:0.3503', 'military:0.3411', 'depot:0.28', 'targeted:0.2138']"
+        ]
+    ],
+    "UKR+RUS+161":[
+        [
+            "20220131+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Why Russia is so eager to control Ukraine Statesman contributors.txt+eventbasecode161+eventcode161+avgtone0.48973429951690817+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.5423', 'geopolitical:0.4927', 'oblasts:0.4827', 'soviet:0.4343', 'ukrainians:0.4175', 'putin:0.4159', 'annexation:0.3983', 'nato:0.3546', 'separatist:0.2902', 'revolution:0.2792', 'statesmanasia:0.275', 'history:0.2746', 'economic:0.2392', 'globe:0.2318', 'know:0.1912', 'scare:0.1768', 'resolve:0.173', 'superpower:0.1585', 'grow:0.1534', 'volodymyr:0.1531', 'revolve:0.1502', 'relation:0.1472', 'buffer:0.1267', 'eager:0.1267', 'donbas:0.1263', 'dimension:0.1241', 'include:0.1039', 'delhi:0.102', 'major:0.086', 'add:0.0683']+titles_keywords+['ukraine:0.4751', 'statesman:0.2964', 'contributors:0.2103', 'control:0.2002', 'eager:0.1326']"
+        ]
+    ]
+}

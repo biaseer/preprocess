@@ -1,0 +1,20 @@
+{
+    "GBR+RUS+100":[
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/inquirer.net/Putin orders 81500 payment to families of National Guards who died in Ukraine.txt+eventbasecode100+eventcode100+avgtone0.4658703071672355+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5563', 'kyiv:0.4581', 'russias:0.4414', 'russian:0.438', 'syria:0.3508', 'rouble:0.3433', 'military:0.3261', 'government:0.2915', 'reuters:0.2821', 'order:0.2553', 'invasion:0.2532', 'operation:0.2425', 'compensation:0.2332', 'tank:0.2235', 'kill:0.2146', 'decree:0.206', 'casualty:0.2046', 'million:0.1765', 'bucha:0.1713', 'fact:0.1702', 'donbas:0.1641', 'interpret:0.1638', 'higher:0.16', 'privacy:0.1424', 'toll:0.1416', 'daily:0.1227', 'misplace:0.1068', 'agree:0.0772', 'focus:0.0691', 'download:0.0569']+titles_keywords+['putin:0.4007', 'guards:0.2497', 'payment:0.2347', '81500:0.1494', 'national:0.1088']"
+        ]
+    ],
+    "RUS+WST+100":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/inquirer.net/Zelensky to Moscow This is the time to meet.txt+eventbasecode100+eventcode100+avgtone0.4910891089108911+goldsteinscale0.25+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.023026315789473683+news_keywords+['kyiv:0.4835', 'ceasefire:0.4488', 'demilitarisation:0.4053', 'negotiation:0.3949', 'nato:0.3801', 'zelensky:0.3616', 'russias:0.3376', 'invade:0.294', 'podolyak:0.2872', 'president:0.2326', 'catastrophe:0.2193', 'status:0.2112', 'read:0.1876', 'turn:0.1867', 'neutral:0.1783', 'order:0.1737', 'philippine:0.1585', 'office:0.1574', 'hold:0.1553', 'begin:0.1527', 'email:0.1478', 'inquirer:0.1402', 'friday:0.1353', 'acknowledge:0.1318', 'far:0.1099', 'like:0.1029', 'agree:0.0968', 'possible:0.0861', 'plus:0.0801', 'hotspot:0.0798']+titles_keywords+['zelensky:0.6874', 'moscow:0.507', 'meet:0.3941', 'time:0.1852']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/inquirer.net/Marcos flipflops on Ukraine.txt+eventbasecode100+eventcode100+avgtone0.5029239766081871+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['philippines:0.4564', 'marcos:0.4344', 'ukraines:0.3997', 'dictator:0.3404', 'sovereignty:0.3109', 'peaceful:0.2752', 'crisis:0.2269', 'cowardice:0.2175', 'debate:0.207', 'ka:0.2044', 'chois:0.2014', 'murder:0.1968', 'involved:0.1938', 'news:0.1893', 'aspirant:0.1831', 'flipflops:0.1795', 'stand:0.1707', 'acknowledge:0.1622', 'address:0.1541', 'right:0.1539', 'family:0.1518', 'prevail:0.1496', 'arm:0.1419', 'read:0.1369', 'terms:0.1281', 'previous:0.1244', 'unconditional:0.1142', 'directly:0.0955', 'resolution:0.064', 'grisly:0.0457']+titles_keywords+['marcos:0.488', 'flipflops:0.4791', 'ukraine:0.3513']"
+        ],
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/inquirer.net/As Ukraine war enters second month Western leaders to put more pressure on Russia.txt+eventbasecode100+eventcode100+avgtone0.47551202137132675+goldsteinscale0.25+nummentions0.008345428156748911+numarticles0.009064539521392313+numsources0.023026315789473683+news_keywords+['ukrainehandout:0.5039', 'war:0.4258', 'putin:0.3818', 'nato:0.3688', 'lvivmykolaivkharkiv:0.3584', 'civilians:0.3475', 'demilitarise:0.3232', 'reuters:0.2984', 'oligarchs:0.2694', 'coordinate:0.2561', 'separatist:0.2449', 'continue:0.2341', 'read:0.2187', 'organisation:0.2106', 'turn:0.208', 'columns:0.1988', 'alarmed:0.1876', 'resign:0.183', 'enters:0.1748', 'general:0.1678', 'fully:0.1675', 'exacerbate:0.1668', 'transit:0.1555', 'photograph:0.1427', 'second:0.1363', 'month:0.1315', 'thousand:0.1246', 'far:0.1229', 'agree:0.1036', 'plus:0.0981']+titles_keywords+['ukraine:0.3769', 'war:0.3421', 'pressure:0.2451', 'western:0.2191', 'month:0.1458']"
+        ]
+    ]
+}

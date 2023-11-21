@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20210716+../news_crawling/RUS_UKR/p_articles/themoscowtimes.com/Russian Military to Make Putins Ukraine Opus Compulsory RBC.txt+eventbasecode190+eventcode190+avgtone0.48565573770491804+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimean:0.4729', 'kremlin:0.4541', 'putins:0.4269', 'sergei:0.4088', 'article:0.3223', 'military:0.3172', 'opus:0.3028', 'directorate:0.3003', 'thesis:0.2631', 'compulsory:0.2575', 'separatist:0.2487', 'sanction:0.2331', 'annex:0.2268', 'president:0.2181', 'order:0.2058', 'read:0.1901', 'report:0.1779', 'conflict:0.1779', 'predate:0.1764', 'shoigu:0.175', 'lengthy:0.1588', 'escalate:0.155', 'pro:0.1349', 'state:0.1268', 'unity:0.0942', 'great:0.0928', 'lull:0.0883', 'relative:0.0856', 'cause:0.0785', 'rbc:0.074']+titles_keywords+['putins:0.4631', 'military:0.2905', 'rbc:0.2883', 'opus:0.2838', 'compulsory:0.2679']"
+        ],
+        [
+            "20211217+../news_crawling/RUS_UKR/p_articles/themoscowtimes.com/Ukrainian Soldier Killed as Tensions with Moscow Soar.txt+eventbasecode190+eventcode190+avgtone0.4479166666666665+goldsteinscale0.0+nummentions0.00362844702467344+numarticles0.0036258158085569255+numsources0.009868421052631578+news_keywords+['ukraine:0.4854', 'putin:0.4732', 'crimean:0.4428', 'militarily:0.3021', 'kill:0.2911', 'tensions:0.2874', 'biden:0.2855', 'soldier:0.2657', 'separatist:0.2431', 'battle:0.2191', 'warn:0.214', 'union:0.2051', 'border:0.1989', 'counterpart:0.17', 'sanction:0.1682', 'simmer:0.1522', 'talk:0.146', 'annex:0.1424', 'lead:0.1416', 'afp:0.1259', 'toll:0.1213', 'compare:0.1147', 'start:0.1123', 'thursday:0.1107', 'plan:0.1041', 'near:0.0964', 'soar:0.0942', 'total:0.0785', 'official:0.0771', 'brings:0.0748']+titles_keywords+['ukrainian:0.4271', 'soldier:0.3122', 'killed:0.2446', 'tensions:0.177', 'soar:0.0808']"
+        ]
+    ]
+}

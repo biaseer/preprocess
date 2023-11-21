@@ -1,0 +1,49 @@
+{
+    "POL+RUS+173":[
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/msn.com/UK distances from Bidens plea that Vladimir Putin cannot remain in power.txt+eventbasecode173+eventcode173+avgtone0.48514851485148514+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.597', 'russian:0.3904', 'politics:0.3348', 'regime:0.323', 'lviv:0.3114', 'power:0.2614', 'speech:0.2272', 'impassioned:0.2221', 'bidens:0.2142', 'argue:0.2118', 'say:0.2045', 'climate:0.1981', 'report:0.1902', 'invasion:0.182', 'decline:0.1761', 'remark:0.1738', 'crony:0.1639', 'spin:0.1612', 'strike:0.1509', 'feed:0.1392', 'allow:0.1371', 'griner:0.1305', 'world:0.1293', 'agree:0.1249', 'clear:0.1245', 'issue:0.111', 'suit:0.1066', 'snl:0.0963', 'mr:0.0777', 'apparently:0.0766']+titles_keywords+['putin:0.4505', 'bidens:0.3149', 'distances:0.2668', 'plea:0.2536', 'uk:0.2022']"
+        ]
+    ],
+    "POL+UKR+173":[
+        []
+    ],
+    "RUS+EUR+173":[
+        []
+    ],
+    "RUS+RUS+173":[
+        [],
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/msn.com/Alleged Russian sting operation uncovers The Sims 3 guns grenade.txt+eventbasecode173+eventcode173+avgtone0.4688385269121813+goldsteinscale0.25+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['sims:0.4713', 'putin:0.4464', 'investigative:0.3957', 'news:0.3223', 'sanction:0.3211', 'paraphernalia:0.3131', 'columnist:0.311', 'report:0.2925', 'molotov:0.2738', 'concocted:0.2643', 'content:0.2606', 'navalny:0.2505', 'cooperate:0.2342', 'international:0.2295', 'scene:0.2277', 'host:0.2242', 'use:0.2173', 'predict:0.2163', 'fsb:0.2109', 'hypocrisy:0.2103', 'wacky:0.2032', 'ominously:0.1984', 'aric:0.1918', 'pr:0.1918', 'perfect:0.1852', 'attempt:0.1842', 'youtubes:0.1824', 'apartment:0.1762', 'customize:0.1757', 'compare:0.1414']+titles_keywords+['sims:0.4534', 'grenade:0.4257', 'russian:0.3548', 'guns:0.3457', 'alleged:0.2309']"
+        ],
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/msn.com/Russia issues first conviction for spreading fake news Report.txt+eventbasecode173+eventcode173+avgtone0.43559322033898296+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['russia:0.4609', 'mylnikov:0.3068', 'imprisonment:0.2806', 'news:0.2796', 'invasion:0.2607', 'accuse:0.2557', 'journalist:0.2496', 'reporting:0.2467', 'repercussion:0.1996', 'telegram:0.1991', 'pyotr:0.1983', 'fake:0.1942', 'protect:0.1671', 'come:0.1468', 'document:0.1407', 'president:0.1374', 'weapon:0.1291', 'donbas:0.1235', 'outlet:0.1145', 'child:0.1133', 'fine:0.113', 'run:0.1104', 'million:0.1076', 'video:0.1037', 'spread:0.0805', 'spar:0.0783', 'year:0.0774', 'similar:0.0578', 'focus:0.0543', 'knowingly:0.0523']+titles_keywords+['russia:0.3511', 'conviction:0.2998', 'report:0.2849', 'news:0.2797', 'fake:0.233']"
+        ]
+    ],
+    "RUS+UKR+173":[
+        [],
+        [],
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/msn.com/What is potassium iodide The drug is in demand as Russias invasion stokes radiation fears.txt+eventbasecode173+eventcode173+avgtone0.4734477124183007+goldsteinscale0.25+nummentions0.019230769230769232+numarticles0.01994198694706309+numsources0.029605263157894735+news_keywords+['iodine:0.5189', 'radioactive:0.5115', 'chernobyl:0.48', 'potassium:0.4508', 'isotopes:0.4175', 'contamination:0.3762', 'poison:0.3502', 'thyrosafes:0.3251', 'fda:0.3059', 'oil:0.2979', 'commodity:0.2976', 'dosage:0.2885', 'voltage:0.2727', 'emergency:0.2498', 'warn:0.2395', 'correspond:0.2334', 'russias:0.2315', 'zaporizhzhia:0.2238', 'kashmir:0.2181', 'data:0.2143', 'expose:0.2107', 'repercussion:0.2062', 'rumsfeld:0.201', 'order:0.1991', 'significant:0.1978', 'table:0.1934', 'increased:0.1848', 'make:0.1769', 'word:0.1446', 'accord:0.1369']+titles_keywords+['iodide:0.5704', 'potassium:0.459', 'radiation:0.3794', 'russias:0.2331', 'invasion:0.2254']"
+        ],
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/msn.com/Russianbacked separatists sentence POWs to death food supply disruptions could affect millions of people UN.txt+eventbasecode173+eventcode173+avgtone0.46644042232277527+goldsteinscale0.25+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.0+news_keywords+['ukrainiancitizens:0.5581', 'ukraine:0.523', 'putin:0.5053', 'moscow:0.4623', 'russias:0.431', 'separatist:0.387', 'russianbacked:0.3812', 'nato:0.3495', 'terrorism:0.2924', 'olya:0.2886', 'translate:0.2713', 'occupy:0.2688', 'overthrow:0.2674', 'news:0.2516', 'troop:0.2347', 'report:0.2289', 'telegram:0.2259', 'firing:0.2188', 'legitimacy:0.2115', 'continue:0.1987', 'term:0.1957', 'long:0.1897', 'cite:0.1851', 'bleed:0.1778', 'emphasize:0.1694', 'relations:0.1663', 'plant:0.1577', 'look:0.1427', 'smarter:0.1357', 'true:0.0948']+titles_keywords+['ukraine:0.4004', 'disruptions:0.2687', 'pows:0.2399', 'food:0.1955', 'millions:0.1463']"
+        ]
+    ],
+    "UKR+MAR+173":[
+        []
+    ],
+    "UKR+RUS+173":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/msn.com/New York Times pulling staffers out of Russia citing safety concerns.txt+eventbasecode173+eventcode173+avgtone0.47389033942558745+goldsteinscale0.25+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['kremlin:0.4388', 'ukraine:0.4014', 'news:0.3846', 'propaganda:0.3677', 'legislation:0.3388', 'editorial:0.328', 'reporting:0.2603', 'dateline:0.2559', 'safety:0.241', 'cite:0.218', 'invade:0.1987', 'coverage:0.197', 'federation:0.1896', 'outlet:0.1721', 'pull:0.1709', 'soon:0.1657', 'times:0.1567', 'photojournalist:0.1559', 'prison:0.1459', 'statement:0.1434', 'president:0.1425', 'independent:0.1425', 'new:0.1379', 'page:0.1374', 'state:0.1371', 'temporarily:0.1365', 'bylines:0.1347', 'step:0.1162', 'weekend:0.0996', 'look:0.0647']+titles_keywords+['russia:0.3305', 'safety:0.312', 'staffers:0.3073', 'york:0.2226', 'times:0.2034']"
+        ],
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/msn.com/US believes Russia is learning from failures in north of Ukraine senior defense official says.txt+eventbasecode173+eventcode173+avgtone0.4824561403508772+goldsteinscale0.25+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.019736842105263157+news_keywords+['ukraine:0.4573', 'battalion:0.3789', 'war:0.3285', 'pentagon:0.3096', 'escalation:0.2767', 'howitzer:0.2494', 'prepare:0.2379', 'shift:0.228', 'update:0.227', 'zelensky:0.2208', 'drone:0.2155', 'learn:0.211', 'cnn:0.1981', 'incoming:0.198', 'donbas:0.192', 'continue:0.1847', 'chaotic:0.1809', 'error:0.1763', 'adviser:0.1719', 'long:0.1671', 'capability:0.1658', 'second:0.1471', 'track:0.137', 'biden:0.1333', 'report:0.1321', 'largely:0.1131', 'exactly:0.107', 'btgs:0.1032', 'plant:0.0946', 'million:0.0858']+titles_keywords+['ukraine:0.2724', 'learning:0.2197', 'failures:0.1697', 'says:0.0348', 'official:0.0137']"
+        ],
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/msn.com/US and allies launch war crime investigatory advisory group for Ukraine.txt+eventbasecode173+eventcode173+avgtone0.4419642857142855+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4632', 'prosecute:0.366', 'war:0.3354', 'suspect:0.3277', 'military:0.3097', 'atrocity:0.2638', 'aggression:0.2262', 'investigatory:0.2257', 'prison:0.2173', 'secretary:0.1892', 'international:0.1859', 'expert:0.1836', 'evidence:0.1784', 'funding:0.1635', 'formation:0.1612', 'vadim:0.1457', 'commit:0.1396', 'units:0.1244', 'northeastern:0.117', 'type:0.1124', 'opg:0.1098', 'shishimarin:0.1058', 'view:0.1038', 'antony:0.1036', 'sentence:0.0977', 'wednesday:0.0923', 'actually:0.0847', 'add:0.0787', 'directly:0.0633', 'common:0.044']+titles_keywords+['ukraine:0.3953', 'allies:0.3295', 'group:0.2407', 'advisory:0.1908', 'investigatory:0.1677']"
+        ],
+        [
+            "20220804+../news_crawling/RUS_UKR/p_articles/msn.com/Putin recruiting prisoners from Russian jails to fight on frontline in Ukraine.txt+eventbasecode173+eventcode173+avgtone0.4770378874856487+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.5168', 'soviet:0.4951', 'putin:0.4659', 'russias:0.4411', 'battalion:0.3659', 'frontline:0.3183', 'resourcing:0.2784', 'morale:0.2743', 'news:0.2439', 'turn:0.2405', 'involve:0.2389', 'labour:0.2344', 'fight:0.2314', 'progress:0.2258', 'reaction:0.2228', 'prepare:0.2222', 'read:0.2207', 'adjust:0.2013', 'activate:0.2012', 'want:0.1899', 'unorthodox:0.1845', 'young:0.18', 'long:0.1778', 'donbas:0.1744', 'skilled:0.1525', 'sort:0.1401', 'observer:0.1388', 'generate:0.1366', 'largely:0.1139', 'population:0.101']+titles_keywords+['putin:0.4972', 'prisoners:0.4345', 'frontline:0.334', 'recruiting:0.2026', 'fight:0.1605']"
+        ]
+    ]
+}

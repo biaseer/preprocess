@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+84":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/businessinsider.co.za/Ukraine accuses Russia of playing hunger games by blocking its food exports.txt+eventbasecode84+eventcode84+avgtone0.4820295983086681+goldsteinscale0.85+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.5108', 'putin:0.437', 'blockade:0.411', 'war:0.3224', 'briefing:0.2737', 'commodity:0.2509', 'grain:0.2473', 'crisis:0.2438', 'report:0.2288', 'transit:0.2194', 'macron:0.2148', 'ambassador:0.2116', 'export:0.1976', 'allow:0.188', 'persuade:0.182', 'grow:0.172', 'global:0.1694', 'trade:0.1572', 'safe:0.154', 'dmytro:0.1509', 'week:0.1479', 'flow:0.147', 'deter:0.1364', 'say:0.1334', 'resume:0.1316', 'greenfield:0.1181', 'focus:0.113', 'nearly:0.1117', 'radio:0.1114', 'resolution:0.0972']+titles_keywords+['ukraine:0.424', 'hunger:0.2983', 'playing:0.1933', 'accuses:0.1785', 'exports:0.1722']"
+        ]
+    ],
+    "UKR+RUS+84":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/businessinsider.co.za/Ukraines postal service announces itll release a commemorative Russian warship go fck yourself stamp.txt+eventbasecode84+eventcode84+avgtone0.48983739837499995+goldsteinscale0.85+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['stamp:0.4433', 'ukraines:0.418', 'troop:0.3904', 'russian:0.3796', 'commemorate:0.3763', 'warship:0.3346', 'receive:0.2814', 'dzheppar:0.2765', 'forth:0.2754', 'fck:0.2681', 'publish:0.2584', 'print:0.2524', 'service:0.2396', 'citizen:0.2378', 'attack:0.2363', 'ammunition:0.235', 'depiction:0.225', 'expect:0.2117', 'know:0.204', 'word:0.2018', 'soon:0.1725', 'homeland:0.167', 'fuck:0.1583', 'dead:0.1514', 'distance:0.1479', 'finalist:0.1406', 'groh:0.1393', 'sent:0.1355', 'times:0.1216', 'flip:0.108']+titles_keywords+['stamp:0.4488', 'ukraines:0.4118', 'commemorative:0.3737', 'fck:0.3417', 'warship:0.3125']"
+        ]
+    ]
+}

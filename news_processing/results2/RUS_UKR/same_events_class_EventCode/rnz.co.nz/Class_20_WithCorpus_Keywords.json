@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+20":[
+        [
+            "20220705+../news_crawling/RUS_UKR/p_articles/rnz.co.nz/Ukrainian PM Rich Russians should pay the bill to rebuild.txt+eventbasecode20+eventcode20+avgtone0.5024570024570024+goldsteinscale0.65+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['ukraine:0.5378', 'kremlin:0.4621', 'oligarch:0.3863', 'funding:0.2974', 'rebuild:0.271', 'undermine:0.2689', 'euro:0.2396', 'invasion:0.2337', 'strategic:0.2309', 'confiscate:0.2283', 'shmyhal:0.2231', 'covid:0.2019', 'want:0.2011', 'trillion:0.1921', 'rich:0.19', 'military:0.1881', 'sector:0.1761', 'coordinate:0.1696', 'source:0.1641', 'speech:0.1631', 'people:0.1574', 'monday:0.1488', 'meet:0.1487', 'bloody:0.141', 'cause:0.1312', 'long:0.1301', 'described:0.1276', 'substantially:0.0811', 'year:0.0793', 'agree:0.0713']+titles_keywords+['russians:0.4545', 'rebuild:0.3495', 'rich:0.2911', 'pay:0.2179', 'pm:0.0794']"
+        ]
+    ],
+    "WST+UKR+20":[
+        [
+            "20220619+../news_crawling/RUS_UKR/p_articles/rnz.co.nz/Nato warns of long Ukraine war ahead.txt+eventbasecode20+eventcode20+avgtone0.4922619047619048+goldsteinscale0.65+nummentions0.03555878084179971+numarticles0.03625815808556925+numsources0.03618421052631579+news_keywords+['ukraine:0.4892', 'nato:0.4512', 'putin:0.4194', 'war:0.377', 'invade:0.3684', 'frontline:0.2762', 'separatist:0.2658', 'boris:0.2591', 'news:0.2587', 'prepare:0.2432', 'poltava:0.238', 'weaponry:0.2367', 'escalate:0.2366', 'sievierodonetsk:0.2313', 'warn:0.2303', 'telegram:0.2166', 'victory:0.207', 'industrial:0.2021', 'realise:0.1947', 'long:0.1934', 'order:0.1877', 'cite:0.1857', 'stay:0.1844', 'secretary:0.181', 'write:0.1722', 'unannounced:0.1711', 'near:0.1602', 'renew:0.1188', 'sphere:0.1078', 'sent:0.057']+titles_keywords+['nato:0.4251', 'ukraine:0.3634', 'war:0.3193', 'long:0.3191', 'warns:0.2139']"
+        ]
+    ]
+}

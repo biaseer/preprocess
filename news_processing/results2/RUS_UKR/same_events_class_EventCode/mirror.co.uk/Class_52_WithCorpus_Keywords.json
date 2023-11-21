@@ -1,0 +1,17 @@
+{
+    "JOR+RUS+52":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Strictlys James Jordan and Shirley Ballas in heated row over Ukraine crisis.txt+eventbasecode52+eventcode52+avgtone0.4876190476190476+goldsteinscale0.675+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['strictly:0.3589', 'dance:0.3041', 'russian:0.2879', 'shirley:0.2563', 'controversial:0.221', 'bbc:0.217', 'jordan:0.2113', 'ballas:0.1856', 'shame:0.1683', 'row:0.1679', 'hypocritical:0.1612', 'promotion:0.1569', 'stay:0.1557', 'judge:0.1526', 'consequence:0.1498', 'sic:0.1474', 'hit:0.1403', 'war:0.1384', 'fuming:0.1365', 'prove:0.1263', 'disappoint:0.1227', 'divide:0.1185', 'brainwash:0.1181', 'dear:0.1179', 'know:0.1161', 'retweeted:0.1074', 'xxx:0.105', 'story:0.0735', 'glitter:0.0633', 'sure:0.0202']+titles_keywords+['ballas:0.3513', 'strictlys:0.3477', 'shirley:0.2966', 'ukraine:0.2753', 'row:0.1855']"
+        ]
+    ],
+    "RUS+RUS+52":[
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Russia warns nuclear weapon use will be justified if there is an existential threat.txt+eventbasecode52+eventcode52+avgtone0.458273381294964+goldsteinscale0.675+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4512', 'nuclear:0.4005', 'russias:0.3351', 'kyiv:0.3306', 'deterrence:0.2921', 'military:0.2552', 'invasion:0.2505', 'warn:0.2498', 'bloodshed:0.245', 'unprovoked:0.2291', 'news:0.2065', 'nations:0.1989', 'concern:0.1976', 'weapon:0.1842', 'existential:0.1759', 'use:0.1516', 'begin:0.1419', 'order:0.1353', 'verify:0.1283', 'explain:0.1223', 'observer:0.1202', 'quote:0.1193', 'state:0.1156', 'phase:0.1102', 'ria:0.0991', 'nearly:0.0926', 'million:0.0906', 'include:0.0847', 'wider:0.057', 'week:0.0569']+titles_keywords+['nuclear:0.3702', 'existential:0.2929', 'russia:0.2727', 'warns:0.2411', 'justified:0.1661']"
+        ]
+    ],
+    "RUS+UKR+52":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Brave Ukrainian woman joins husband in treacherous patrol to protect village from invasion.txt+eventbasecode52+eventcode52+avgtone0.4989059080962801+goldsteinscale0.675+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukrainian:0.482', 'war:0.4348', 'putin:0.3823', 'paramilitary:0.3774', 'nation:0.2831', 'molotov:0.2775', 'village:0.2708', 'serhiy:0.2699', 'woman:0.2695', 'volunteer:0.2679', 'volodymyr:0.2664', 'protect:0.263', 'border:0.2628', 'help:0.2581', 'rouble:0.2515', 'courageous:0.2448', 'turn:0.2407', 'oksana:0.2373', 'enters:0.2351', 'stay:0.2307', 'news:0.2282', 'group:0.2136', 'night:0.2041', 'sign:0.202', 'begin:0.1999', 'reports:0.1968', 'order:0.1887', 'make:0.1579', 'shortly:0.1329', 'pair:0.1267']+titles_keywords+['ukrainian:0.3606', 'woman:0.3291', 'patrol:0.2751', 'village:0.2609', 'treacherous:0.2094']"
+        ]
+    ]
+}

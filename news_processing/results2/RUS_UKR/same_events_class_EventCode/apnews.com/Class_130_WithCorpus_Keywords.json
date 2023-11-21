@@ -1,0 +1,17 @@
+{
+    "FRA+RUS+130":[
+        [
+            "20220510+../news_crawling/RUS_UKR/p_articles/apnews.com/EU coordinator heads to Tehran in bid to save nuclear deal.txt+eventbasecode130+eventcode130+avgtone0.48293172690763053+goldsteinscale0.27999999999999997+nummentions0.041364296081277216+numarticles0.04205946337926034+numsources0.05921052631578947+news_keywords+['iran:0.4708', 'iaea:0.3818', 'diplomatic:0.3673', 'negotiator:0.32', 'sanction:0.2738', 'cooperate:0.269', 'mora:0.2679', 'war:0.2629', 'government:0.2556', 'impasse:0.2544', 'biden:0.2494', 'radioactive:0.2422', 'concern:0.2282', 'signatory:0.2072', 'head:0.1914', 'convey:0.1712', 'visit:0.1681', 'verge:0.1668', 'pile:0.1573', 'begin:0.1497', 'deal:0.1384', 'official:0.1359', 'kani:0.1316', 'month:0.1297', 'program:0.1266', 'say:0.1191', 'save:0.1165', 'proof:0.1163', 'closing:0.1102', 'hed:0.0822']+titles_keywords+['tehran:0.3583', 'eu:0.265', 'nuclear:0.2435', 'coordinator:0.1981', 'save:0.1214']"
+        ]
+    ],
+    "USA+RUS+130":[
+        [
+            "20220113+../news_crawling/RUS_UKR/p_articles/apnews.com/US sanctions Ukrainian officials accused of helping Russia.txt+eventbasecode130+eventcode130+avgtone0.4783362218370884+goldsteinscale0.27999999999999997+nummentions0.026124818577648767+numarticles0.026831036983321246+numsources0.05592105263157895+news_keywords+['putin:0.4423', 'ukraines:0.4264', 'sanction:0.4001', 'nato:0.3861', 'disinformation:0.3479', 'sovereignty:0.2789', 'weaponize:0.2733', 'incursion:0.2368', 'troop:0.2363', 'pretext:0.2343', 'annex:0.2241', 'voloshyn:0.2231', 'know:0.2205', 'oliynk:0.2205', 'banking:0.2167', 'authorized:0.2153', 'cite:0.2031', 'bipartisan:0.2031', 'dangerous:0.1971', 'remind:0.1904', 'secretary:0.1872', 'analyze:0.1844', 'direction:0.1514', 'sen:0.1493', 'attempt:0.1471', 'immediately:0.1398', 'state:0.1328', 'long:0.1284', 'rattle:0.0964', 'price:0.0527']+titles_keywords+['sanctions:0.4311', 'ukrainian:0.4069', 'accused:0.1977', 'officials:0.1947', 'helping:0.019']"
+        ]
+    ],
+    "WST+UKR+130":[
+        [
+            "20211130+../news_crawling/RUS_UKR/p_articles/apnews.com/Putin warns West Moscow has red line about Ukraine NATO.txt+eventbasecode130+eventcode130+avgtone0.4713701431492842+goldsteinscale0.27999999999999997+nummentions0.25616835994194487+numarticles0.25670775924583034+numsources0.23355263157894737+news_keywords+['putin:0.5414', 'natos:0.4739', 'crimean:0.4172', 'war:0.3028', 'destabilize:0.2812', 'reelection:0.2755', 'nuclear:0.269', 'cybersecurity:0.2672', 'maneuver:0.2521', 'concern:0.2343', 'eastward:0.2269', 'develop:0.2198', 'predict:0.2094', 'rhetoric:0.2092', 'psaki:0.1962', 'plan:0.1931', 'responding:0.1711', 'secretary:0.1682', 'current:0.1609', 'agreement:0.1605', 'term:0.1603', 'range:0.1596', 'draw:0.1595', 'note:0.1583', 'enter:0.1571', 'order:0.1498', 'longer:0.1444', 'isnt:0.1311', 'red:0.1146', 'decade:0.0913']+titles_keywords+['putin:0.4356', 'nato:0.4091', 'line:0.2402', 'warns:0.2027', 'red:0.1606']"
+        ]
+    ]
+}

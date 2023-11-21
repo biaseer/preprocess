@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+20":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/foxbusiness.com/China looks to Russia to replenish strategic oil reserves report.txt+eventbasecode20+eventcode20+avgtone0.5017301038062283+goldsteinscale0.65+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['russia:0.4664', 'oil:0.4169', 'refinery:0.3322', 'strategic:0.2861', 'blockade:0.2549', 'reutersvasily:0.2312', 'invasion:0.2304', 'fedosenko:0.2093', 'importation:0.2041', 'reserves:0.2013', 'president:0.1978', 'buy:0.1801', 'replenish:0.1646', 'look:0.1638', 'plummet:0.1601', 'expect:0.1547', 'source:0.1539', 'term:0.1506', 'affluent:0.1496', 'talk:0.1442', 'statement:0.1413', 'make:0.1396', 'march:0.1332', 'th:0.1327', 'begin:0.1295', 'yarakta:0.1236', 'file:0.12', 'billion:0.1021', 'maltsevpool:0.1006', 'largely:0.0362']+titles_keywords+['russia:0.3299', 'oil:0.2699', 'replenish:0.2259', 'strategic:0.1441', 'report:0.1239']"
+        ]
+    ],
+    "CHN+UKR+20":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/foxbusiness.com/Russias invasion affects billions in UkraineChina trade.txt+eventbasecode20+eventcode20+avgtone0.4867424242424242+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.515', 'putin:0.437', 'russias:0.4141', 'shandong:0.3069', 'invade:0.3044', 'economic:0.2389', 'bloomberg:0.2158', 'trade:0.1979', 'smartphone:0.1955', 'billion:0.1767', 'aircraft:0.1491', 'estimate:0.1467', 'affairs:0.1454', 'jinping:0.1349', 'port:0.1277', 'grow:0.1211', 'counterpart:0.1163', 'greet:0.1141', 'dispute:0.1123', 'look:0.0941', 'year:0.0908', 'document:0.0889', 'corn:0.0749', 'restrict:0.0605', 'vest:0.057', 'longer:0.0553', 'official:0.0549', 'install:0.0531', 'accord:0.0431', 'way:0.0395']+titles_keywords+['ukrainechina:0.5202', 'invasion:0.319', 'billions:0.2649', 'trade:0.1984', 'affects:0.1673']"
+        ]
+    ]
+}

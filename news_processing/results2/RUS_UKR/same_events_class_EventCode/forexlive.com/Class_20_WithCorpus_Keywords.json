@@ -1,0 +1,20 @@
+{
+    "RUS+CHN+20":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/forexlive.com/UK media reports that Russia has requested military assistance from China re Ukraine war.txt+eventbasecode20+eventcode20+avgtone0.4920634920634921+goldsteinscale0.65+nummentions0.0043541364296081275+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4066', 'russia:0.3952', 'war:0.3021', 'military:0.2943', 'report:0.2878', 'china:0.2693', 'cite:0.245', 'uk:0.2009', 'situation:0.1896', 'assistance:0.189', 'ft:0.1687', 'request:0.1128', 'official:0.1009', 'familiar:0.0964', 'person:0.0903', 'gate:0.0699', 'medium:0.0638']+titles_keywords+['ukraine:0.3965', 'military:0.2116', 'assistance:0.1244', 'reports:0.1221', 'media:0.063']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/forexlive.com/Forexlive Americas FX news wrap Putin recognizes Luhansk and Donetsk as independent.txt+eventbasecode20+eventcode20+avgtone0.4906015037593985+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.3971', 'news:0.3657', 'donetsk:0.3185', 'forexlive:0.3157', 'march:0.2903', 'usdrub:0.29', 'cliffhanger:0.2807', 'holiday:0.2786', 'separatist:0.2785', 'fed:0.2754', 'meeting:0.2537', 'know:0.2522', 'sanction:0.2492', 'region:0.2478', 'wrap:0.2453', 'baseline:0.2394', 'hold:0.2258', 'forward:0.2228', 'donbas:0.2211', 'continue:0.2081', 'intense:0.2064', 'rhetoric:0.1945', 'rise:0.1861', 'bps:0.1794', 'ultimately:0.1681', 'draw:0.1661', 'caused:0.1599', 'jitter:0.1574', 'like:0.153', 'entire:0.1524']+titles_keywords+['donetsk:0.4662', 'putin:0.4023', 'forexlive:0.3896', 'news:0.2813', 'wrap:0.1394']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/forexlive.com/Breakaway regions in Ukraine ask Putin to recognize independence.txt+eventbasecode20+eventcode20+avgtone0.4925925925925926+goldsteinscale0.65+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['ukraine:0.4848', 'putin:0.4738', 'ruble:0.3373', 'independence:0.3305', 'breakaway:0.2885', 'happen:0.1871', 'fall:0.1828', 'sanction:0.1803', 'motion:0.1747', 'tomorrow:0.1707', 'want:0.1705', 'state:0.1648', 'sign:0.1558', 'speak:0.1481', 'play:0.1415', 'duma:0.1399', 'agreement:0.1321', 'upend:0.1283', 'friendship:0.1254', 'pressure:0.1115', 'recognize:0.1084', 'line:0.1053', 'equity:0.1042', 'new:0.1015', 'home:0.0895', 'facto:0.0704', 'slat:0.053', 'maybe:0.0416', 'needle:0.0369', 'really:0.0103']+titles_keywords+['ukraine:0.4746', 'putin:0.3781', 'independence:0.3559', 'breakaway:0.3122', 'ask:0.0863']"
+        ],
+        [
+            "20220627+../news_crawling/RUS_UKR/p_articles/forexlive.com/Former Russian President Medvedev having a bitch and whine about NATO.txt+eventbasecode20+eventcode20+avgtone0.46913580246913583+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['medvedev:0.6088', 'nato:0.5381', 'russian:0.4344', 'president:0.3573', 'bitch:0.2865', 'whine:0.2793']+titles_keywords+['medvedev:0.5808', 'nato:0.4697', 'russian:0.3845', 'whine:0.3144', 'having:0.1473']"
+        ]
+    ]
+}

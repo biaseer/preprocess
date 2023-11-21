@@ -1,0 +1,22 @@
+{
+    "CAN+UKR+40":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Live updates UN council to meet on humanitarian situation.txt+eventbasecode40+eventcode40+avgtone0.4833472106577852+goldsteinscale0.55+nummentions0.12518142235123367+numarticles0.1258158085569253+numsources0.35855263157894735+news_keywords+['ukraine:0.5353', 'kremlin:0.4559', 'counterterrorism:0.3612', 'newsgathering:0.3358', 'propaganda:0.3338', 'briefing:0.328', 'diplomatic:0.3092', 'nuclear:0.2807', 'blockade:0.2775', 'militarily:0.2769', 'roskomnadzor:0.2662', 'iaea:0.2656', 'annex:0.2558', 'report:0.2527', 'agreement:0.2228', 'flee:0.2221', 'worry:0.2006', 'sao:0.1943', 'soon:0.191', 'organize:0.1879', 'pipe:0.1836', 'casualty:0.1825', 'affair:0.178', 'rewritten:0.1706', 'long:0.1598', 'untrue:0.1513', 'swish:0.1487', 'import:0.1461', 'enjoy:0.1208', 'definition:0.0902']+titles_keywords+['humanitarian:0.3755', 'council:0.3377', 'updates:0.26', 'live:0.239', 'situation:0.1494']"
+        ]
+    ],
+    "FRA+RUS+40":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/In 1st big campaign do Macron unveils vision for 2nd term.txt+eventbasecode40+eventcode40+avgtone0.4883419689119171+goldsteinscale0.55+nummentions0.09397677793904209+numarticles0.09463379260333575+numsources0.20723684210526316+news_keywords+['macron:0.5291', 'campaign:0.3929', 'presidency:0.3902', 'ukraine:0.3371', 'frontrunner:0.2912', 'pollsters:0.2747', 'versailles:0.27', 'crisis:0.2578', 'ahead:0.2471', 'announce:0.2398', 'coordinate:0.2356', 'april:0.2284', 'history:0.2243', 'sanction:0.2152', 'expect:0.2107', 'pen:0.2068', 'bloc:0.2056', 'counterpart:0.2039', 'unifying:0.1961', 'argue:0.1922', 'weekend:0.1897', 'garrigues:0.1821', 'le:0.1769', 'elabe:0.1646', 'bernard:0.1625', 'big:0.1606', 'rotate:0.1572', 'ap:0.1414', 'young:0.1399', 'runoff:0.1327']+titles_keywords+['macron:0.554', 'campaign:0.4159', 'vision:0.2153', 'unveils:0.1634', '1st:0.1523']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Ukraines detention of oligarch close to Putin angers Moscow.txt+eventbasecode40+eventcode40+avgtone0.47614991482112434+goldsteinscale0.55+nummentions0.027939042089985485+numarticles0.02864394488759971+numsources0.11513157894736842+news_keywords+['putin:0.5252', 'oligarch:0.4398', 'ukrainians:0.4392', 'zelenskyy:0.3701', 'bakanov:0.3614', 'medvedchuks:0.3383', 'lviv:0.33', 'detain:0.3256', 'terrorist:0.3248', 'war:0.2878', 'separatist:0.2696', 'treason:0.2682', 'law:0.2348', 'transnistria:0.2273', 'table:0.2199', 'undercover:0.2146', 'telegram:0.2022', 'turn:0.1656', 'afraid:0.1589', 'coal:0.1536', 'agreement:0.1517', 'unharmed:0.1487', 'rewritten:0.1473', 'usual:0.1428', 'fsb:0.1424', 'long:0.1369', 'head:0.1185', 'advise:0.1139', 'feb:0.1106', 'ready:0.0959']+titles_keywords+['putin:0.4535', 'ukraines:0.4177', 'oligarch:0.415', 'detention:0.2491', 'angers:0.1984']"
+        ]
+    ],
+    "UKR+VAT+40":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Vatican Pope clearly condemns Russias repugnant war.txt+eventbasecode40+eventcode40+avgtone0.4621409921671018+goldsteinscale0.55+nummentions0.22496371552975328+numarticles0.22552574329224076+numsources0.33223684210526316+news_keywords+['ukraine:0.4215', 'papal:0.3884', 'orthodox:0.3847', 'war:0.3544', 'condemn:0.267', 'repugnant:0.259', 'diplomat:0.2234', 'intervention:0.1785', 'unequivocal:0.161', 'read:0.1361', 'darya:0.1353', 'insanity:0.1288', 'dmytro:0.1266', 'dramatic:0.1194', 'comment:0.1186', 'word:0.113', 'come:0.1058', 'view:0.1041', 'planned:0.1019', 'issue:0.0958', 'cancel:0.0923', 'tuesday:0.089', 'apart:0.0884', 'girl:0.0868', 'significance:0.0816', 'right:0.0738', 'ap:0.0705', 'slam:0.0659', 'dimension:0.0611', 'link:0.0541']+titles_keywords+['pope:0.4444', 'repugnant:0.3231', 'russias:0.2917', 'war:0.2734', 'clearly:0.116']"
+        ]
+    ]
+}

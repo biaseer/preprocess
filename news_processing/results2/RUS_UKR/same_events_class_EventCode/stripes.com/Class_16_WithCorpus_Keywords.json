@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+16":[
+        [],
+        [],
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/stripes.com/Frances Macron resists calling Russias war in Ukraine genocide.txt+eventbasecode16+eventcode16+avgtone0.4616666666666667+goldsteinscale0.4+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['macron:0.4762', 'genocide:0.4632', 'putin:0.4361', 'diplomatic:0.3523', 'russias:0.3412', 'war:0.3233', 'escalation:0.2933', 'frances:0.2796', 'rhetoric:0.2726', 'sanction:0.2707', 'peskov:0.2506', 'crisis:0.2453', 'estonian:0.2275', 'eu:0.2206', 'term:0.1983', 'decline:0.1879', 'relation:0.1859', 'troop:0.1843', 'remark:0.1813', 'isolate:0.1797', 'disagree:0.1402', 'child:0.121', 'grisly:0.1178', 'suburb:0.1135', 'bucha:0.1111', 'look:0.1073', 'sure:0.1029', 'careful:0.0864', 'long:0.0779', 'today:0.0753']+titles_keywords+['genocide:0.3853', 'macron:0.3555', 'ukraine:0.2937', 'resists:0.2359', 'calling:0.0571']"
+        ]
+    ],
+    "UKR+RUS+16":[
+        []
+    ]
+}

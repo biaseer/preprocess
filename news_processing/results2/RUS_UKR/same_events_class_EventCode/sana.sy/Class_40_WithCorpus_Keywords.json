@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+40":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/sana.sy/Putin European Council head discuss Ukraine over telephone conversation.txt+eventbasecode40+eventcode40+avgtone0.484375+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4979', 'kyiv:0.4453', 'negotiation:0.3252', 'militarily:0.295', 'contact:0.2632', 'zelensky:0.2609', 'humanitarian:0.2491', 'achieve:0.2368', 'battalion:0.232', 'disregard:0.2148', 'council:0.1955', 'european:0.1906', 'irresponsible:0.1847', 'order:0.181', 'industrial:0.1794', 'inconsistency:0.1716', 'mutually:0.168', 'donbass:0.168', 'counterpart:0.1667', 'treatment:0.1641', 'protect:0.1576', 'note:0.1533', 'michel:0.1498', 'direct:0.141', 'necessity:0.1258', 'look:0.1161', 'isnt:0.1158', 'friday:0.1041', 'plant:0.0883', 'numerous:0.0858']+titles_keywords+['putin:0.3982', 'conversation:0.274', 'telephone:0.2544', 'council:0.2295', 'head:0.1424']"
+        ]
+    ],
+    "RUS+SYR+40":[
+        [
+            "20220830+../news_crawling/RUS_UKR/p_articles/sana.sy/Russian Iranian top diplomats to discuss nuclear deal Syria and Ukraine on August 31.txt+eventbasecode40+eventcode40+avgtone0.5+goldsteinscale0.55+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['iran:0.4147', 'ukraine:0.3765', 'moscow:0.3626', 'diplomat:0.355', 'lavrov:0.3406', 'caspian:0.2982', 'agenda:0.2534', 'nuclear:0.2291', 'talk:0.2169', 'humanitarian:0.1978', 'hossein:0.1647', 'exchange:0.1583', 'visit:0.1448', 'international:0.1356', 'economic:0.1292', 'counterpart:0.1278', 'prospect:0.1177', 'situation:0.1112', 'view:0.1037', 'technical:0.1007', 'expand:0.0944', 'action:0.09', 'bilateral:0.0899', 'number:0.0875', 'deal:0.0855', 'include:0.0632', 'sana:0.0567', 'according:0.044', 'wednesday:0.039', 'hold:0.0318']+titles_keywords+['iranian:0.3211', 'diplomats:0.2929', 'deal:0.1912', 'discuss:0.1269', '31:0.0547']"
+        ]
+    ]
+}

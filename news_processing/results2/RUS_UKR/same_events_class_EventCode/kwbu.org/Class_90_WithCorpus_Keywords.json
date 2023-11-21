@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+90":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/kwbu.org/Russias Victory Day celebrations take on new importance for the Kremlin this year.txt+eventbasecode90+eventcode90+avgtone0.4946341463414634+goldsteinscale0.4+nummentions0.2539912917271408+numarticles0.25453226976069615+numsources0.2730263157894737+news_keywords+['kremlin:0.4717', 'russias:0.398', 'nato:0.3312', 'donetsk:0.3217', 'annexation:0.3187', 'celebrate:0.305', 'mobilization:0.3042', 'babushka:0.2876', 'separatist:0.2776', 'news:0.2756', 'rhetoric:0.2488', 'battle:0.2353', 'presidential:0.212', 'monday:0.2051', 'report:0.1799', 'previous:0.1741', 'banner:0.1692', 'visit:0.1634', 'turn:0.1581', 'big:0.1465', 'point:0.1461', 'world:0.1343', 'rehearse:0.1337', 'include:0.1281', 'state:0.1277', 'plant:0.1233', 'integrate:0.1192', 'underscoring:0.1164', 'pattern:0.1119', 'send:0.0776']+titles_keywords+['kremlin:0.4621', 'celebrations:0.3708', 'victory:0.2929', 'importance:0.2016', 'new:0.0765']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/kwbu.org/Fighting to survive Ukraines cancer patients struggle to find care while fleeing.txt+eventbasecode90+eventcode90+avgtone0.46327212020033387+goldsteinscale0.4+nummentions0.05370101596516691+numarticles0.05438723712835388+numsources0.11513157894736842+news_keywords+['kyiv:0.4981', 'ukraines:0.4455', 'war:0.4006', 'survive:0.3636', 'hospital:0.3398', 'oncologist:0.3317', 'resupplies:0.3079', 'bombardment:0.283', 'displaced:0.2638', 'covid:0.2531', 'treatment:0.2396', 'country:0.2291', 'reserve:0.1982', 'supply:0.1959', 'operate:0.1903', 'anna:0.1851', 'care:0.1835', 'urgent:0.1775', 'western:0.1761', 'siren:0.1746', 'middle:0.16', 'story:0.1501', 'begin:0.1479', 'orest:0.1382', 'search:0.1304', 'choose:0.1172', 'despite:0.1154', 'lot:0.1116', 'load:0.1071', 'relative:0.0684']+titles_keywords+['ukraines:0.4572', 'cancer:0.4164', 'survive:0.3792', 'fleeing:0.3375', 'care:0.2117']"
+        ]
+    ]
+}

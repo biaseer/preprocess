@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+60":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/dailyexcelsior.com/Russian airstrike hits base in western Ukraine kills 35.txt+eventbasecode60+eventcode60+avgtone0.4730603448275862+goldsteinscale0.8+nummentions0.3980406386066763+numarticles0.39847715736040606+numsources0.5855263157894737+news_keywords+['crimea:0.5147', 'donetsks:0.4555', 'kremlin:0.4474', 'airstrikes:0.4386', 'nato:0.3967', 'occupy:0.318', 'zelenskyy:0.3166', 'ivano:0.2804', 'terror:0.2645', 'separatist:0.2525', 'know:0.2502', 'journalist:0.246', 'survive:0.2452', 'conflict:0.24', 'sprawl:0.2188', 'help:0.2157', 'table:0.2132', 'encircled:0.2129', 'detain:0.1996', 'drill:0.1911', 'address:0.189', 'future:0.1881', 'nearly:0.1725', 'pretext:0.1697', 'distance:0.1627', 'runway:0.1528', 'additional:0.1449', 'ready:0.1417', 'billion:0.1229', 'pas:0.0921']+titles_keywords+['airstrike:0.3464', 'ukraine:0.3271', 'base:0.2358', 'hits:0.1599', '35:0.1372']"
+        ]
+    ],
+    "UKR+RUS+60":[
+        [
+            "20220516+../news_crawling/RUS_UKR/p_articles/dailyexcelsior.com/In Ukraine and internationally scenario darkens for Russia.txt+eventbasecode60+eventcode60+avgtone0.4820359281437126+goldsteinscale0.8+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.019736842105263157+news_keywords+['ukraine:0.5109', 'nato:0.4444', 'militarily:0.4041', 'kremlin:0.3753', 'separatist:0.2644', 'expand:0.2587', 'border:0.2294', 'threat:0.2273', 'oil:0.221', 'industrial:0.2085', 'news:0.2065', 'retreat:0.2', 'volodymyr:0.1892', 'landlocked:0.1877', 'capital:0.1808', 'cite:0.1791', 'triumphant:0.1753', 'plan:0.1737', 'respond:0.1688', 'turn:0.1683', 'presidential:0.1595', 'order:0.1539', 'import:0.1335', 'nonaligned:0.1323', 'later:0.1303', 'feb:0.1106', 'trt:0.1085', 'counteroffensive:0.1054', 'mortar:0.1006', 'entire:0.0978']+titles_keywords+['ukraine:0.4702', 'russia:0.4369', 'darkens:0.2643', 'scenario:0.2071', 'internationally:0.1733']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+172":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/bdnews24.com/US House to vote on Russia oil ban Ukraine aid and govt spending.txt+eventbasecode172+eventcode172+avgtone0.5+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['bipartisan:0.4539', 'senate:0.4009', 'ukraine:0.3391', 'pelosi:0.3199', 'legislation:0.3126', 'cyberattacks:0.2935', 'omnibus:0.2608', 'friday:0.2562', 'vote:0.2537', 'announce:0.2389', 'plan:0.2146', 'bridge:0.2139', 'begin:0.1986', 'spending:0.195', 'deal:0.1937', 'prove:0.1936', 'debate:0.1897', 'set:0.1894', 'house:0.185', 'import:0.1795', 'aid:0.1693', 'statement:0.1605', 'major:0.1493', 'priority:0.1489', 'magnitsky:0.1405', 'trillion:0.1362', 'ease:0.1203', 'vicious:0.1187', 'resolution:0.1164', 'pas:0.0871']+titles_keywords+['ukraine:0.3286', 'vote:0.2645', 'ban:0.2236', 'house:0.1791', 'spending:0.1704']"
+        ]
+    ],
+    "UKR+RUS+172":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Biden bans Russia oil imports to US warns US gasoline prices will rise further.txt+eventbasecode172+eventcode172+avgtone0.4787985865724382+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['putin:0.4939', 'exxonmobil:0.38', 'economy:0.3742', 'war:0.287', 'sanction:0.2812', 'supply:0.2799', 'news:0.2757', 'predict:0.2672', 'coordinate:0.2525', 'representatives:0.2358', 'exploit:0.2295', 'implement:0.2284', 'taskforce:0.2269', 'rosneft:0.2265', 'european:0.2252', 'import:0.2179', 'coons:0.2105', 'crude:0.2095', 'understand:0.2031', 'engage:0.2001', 'dramatic:0.1933', 'end:0.182', 'phasing:0.1789', 'say:0.176', 'period:0.1753', 'pledge:0.1642', 'negligible:0.1221', 'longer:0.1178', 'benchmark:0.0878', 'welcome:0.074']+titles_keywords+['gasoline:0.3581', 'biden:0.3175', 'russia:0.265', 'prices:0.1432', 'warns:0.1048']"
+        ]
+    ]
+}

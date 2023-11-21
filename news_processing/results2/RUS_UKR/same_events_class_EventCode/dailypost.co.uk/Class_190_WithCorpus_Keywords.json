@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/dailypost.co.uk/Worlds largest cargo aircraft destroyed by Russian forces outside Kyiv say reports.txt+eventbasecode190+eventcode190+avgtone0.49859154929577465+goldsteinscale0.0+nummentions0.3149492017416546+numarticles0.31435823060188545+numsources0.4967105263157895+news_keywords+['kyiv:0.4794', 'aircraft:0.459', 'antonov:0.4157', 'soviet:0.4042', 'destroy:0.2942', 'cargo:0.275', 'ssr:0.2397', 'federation:0.2273', 'dmytro:0.213', 'report:0.2097', 'arrive:0.1736', 'large:0.1631', 'target:0.1595', 'occupier:0.1481', 'story:0.1449', 'billion:0.1387', 'update:0.1383', 'built:0.1367', 'capability:0.1366', 'prevail:0.1359', 'mr:0.1338', 'longer:0.1209', 'world:0.1174', 'intentional:0.1141', 'dream:0.112', 'send:0.1118', 'year:0.1003', 'monoloading:0.0851', 'track:0.0826', 'cost:0.08']+titles_keywords+['kyiv:0.3975', 'largest:0.3161', 'aircraft:0.3155', 'cargo:0.2346', 'destroyed:0.1933']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/dailypost.co.uk/Ukraine war Before and after images show the scale of destruction.txt+eventbasecode190+eventcode190+avgtone0.46828358208955223+goldsteinscale0.0+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.049342105263157895+news_keywords+['ukraine:0.495', 'war:0.4011', 'vladimir:0.2872', 'kharkiv:0.2547', 'bombardment:0.2472', 'humanitarian:0.2275', 'convoy:0.2033', 'government:0.2031', 'crisis:0.1909', 'earlier:0.1826', 'assault:0.1764', 'aviation:0.1688', 'advance:0.16', 'capital:0.1492', 'scar:0.1461', 'flee:0.146', 'result:0.1455', 'western:0.1425', 'far:0.1363', 'main:0.122', 'plant:0.1213', 'neighbour:0.117', 'repair:0.1079', 'waste:0.0939', 'look:0.0936', 'irpin:0.093', 'forced:0.091', 'million:0.0759', 'bid:0.062', 'slider:0.0333']+titles_keywords+['ukraine:0.4145', 'war:0.3829', 'destruction:0.3671', 'images:0.3148', 'scale:0.1364']"
+        ]
+    ]
+}

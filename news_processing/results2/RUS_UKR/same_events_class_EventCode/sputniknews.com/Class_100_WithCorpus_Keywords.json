@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/sputniknews.com/German Regulator Confirms Suspension of Nord Stream 2 Certification.txt+eventbasecode100+eventcode100+avgtone0.474264705882353+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.4268', 'ukraine:0.4042', 'pipeline:0.3588', 'regulator:0.3073', 'nord:0.2735', 'evacuation:0.2422', 'breakaway:0.2321', 'certification:0.2276', 'german:0.2092', 'scholz:0.204', 'announce:0.2018', 'economy:0.1911', 'independence:0.1884', 'suspend:0.1869', 'dpr:0.178', 'stream:0.1763', 'habeck:0.1752', 'chancellor:0.163', 'donbass:0.153', 'report:0.1493', 'confirms:0.1266', 'robert:0.1257', 'citizen:0.1221', 'monday:0.1126', 'step:0.0904', 'order:0.0714', 'earlier:0.0663', 'necessary:0.0648', 'offensive:0.0578', 'increase:0.0534']+titles_keywords+['regulator:0.3236', 'nord:0.3043', 'suspension:0.2447', 'stream:0.2163', 'confirms:0.1267']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220817+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Germany to Postpone Closure of Last Three Nuclear Power Plants WSJ.txt+eventbasecode100+eventcode100+avgtone0.4946091644204852+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['nuclear:0.3576', 'ukraine:0.2888', 'bavaria:0.2551', 'npps:0.2292', 'gas:0.2255', 'rwe:0.2254', 'postpone:0.22', 'government:0.1957', 'winter:0.1899', 'power:0.189', 'regulator:0.1845', 'scholz:0.176', 'shortage:0.1743', 'peskov:0.1655', 'plant:0.165', 'reduce:0.1577', 'extension:0.1445', 'remain:0.1432', 'ag:0.1223', 'close:0.1006', 'vote:0.0989', 'building:0.0949', 'wsj:0.084', 'respectively:0.083', 'start:0.0809', 'panacea:0.0727', 'official:0.0665', 'speak:0.0636', 'step:0.0581', 'percent:0.0452']+titles_keywords+['nuclear:0.3053', 'germany:0.2824', 'postpone:0.2676', 'wsj:0.0797', 'closure:0.0583']"
+        ]
+    ]
+}

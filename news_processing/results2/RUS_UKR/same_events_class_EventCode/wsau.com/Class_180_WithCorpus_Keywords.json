@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/wsau.com/US does not see imminent Russian amphibious assault of Odessa US official.txt+eventbasecode180+eventcode180+avgtone0.47600000000000003+goldsteinscale0.05+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['kyiv:0.4514', 'odessa:0.4335', 'invasion:0.3384', 'russian:0.3339', 'amphibious:0.2866', 'deploy:0.281', 'attack:0.273', 'imminent:0.2598', 'advance:0.2122', 'missile:0.1947', 'reuters:0.169', 'continue:0.118', 'meeting:0.1094', 'sunday:0.1088', 'pre:0.1082', 'concern:0.0978', 'anonymity:0.0956', 'resistance:0.0917', 'estimate:0.0914', 'states:0.0838', 'strong:0.0837', 'isolate:0.0815', 'amid:0.075', 'outside:0.0709', 'believe:0.0649', 'grow:0.0585', 'condition:0.0527', 'kharkhiv:0.0482', 'say:0.0368', 'stag:0.0245']+titles_keywords+['odessa:0.4136', 'russian:0.3093', 'amphibious:0.2451', 'imminent:0.2167', 'does:0.0459']"
+        ],
+        [
+            "20220510+../news_crawling/RUS_UKR/p_articles/wsau.com/Biden says he is worried Putin does not have a way out of Ukraine war.txt+eventbasecode180+eventcode180+avgtone0.47461928934010156+goldsteinscale0.05+nummentions0.022496371552975326+numarticles0.023205221174764323+numsources0.023026315789473683+news_keywords+['putin:0.5335', 'biden:0.3569', 'russian:0.3553', 'nato:0.3446', 'russias:0.328', 'kyiv:0.3134', 'war:0.2675', 'reuters:0.2229', 'worry:0.2221', 'troop:0.1593', 'speaking:0.1502', 'potomac:0.1449', 'say:0.1424', 'assault:0.1315', 'month:0.1296', 'believe:0.127', 'mistakenly:0.1227', 'problem:0.1174', 'union:0.1149', 'monday:0.1118', 'strong:0.1083', 'break:0.104', 'right:0.1021', 'figure:0.0993', 'eastern:0.0949', 'calculate:0.0934', 'gain:0.0895', 'man:0.0763', 'doesnt:0.0711', 'pour:0.043']+titles_keywords+['putin:0.4555', 'biden:0.4452', 'worried:0.2603', 'war:0.2102', 'way:0.0708']"
+        ]
+    ]
+}

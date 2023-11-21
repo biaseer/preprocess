@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+57":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/jurist.org/Russia vetoes UNSC resolution calling for an end to conflict in Ukraine.txt+eventbasecode57+eventcode57+avgtone0.46546961325966857+goldsteinscale0.9+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukraine:0.4435', 'veto:0.4178', 'abstention:0.3335', 'oppose:0.2818', 'unsc:0.2741', 'federations:0.2738', 'propaganda:0.2689', 'conflict:0.2587', 'invasion:0.2144', 'independence:0.2071', 'submit:0.2036', 'word:0.1647', 'immediate:0.1601', 'end:0.16', 'representative:0.1528', 'come:0.1493', 'obligation:0.1483', 'resolution:0.148', 'draft:0.1473', 'shield:0.1446', 'state:0.1436', 'implement:0.136', 'seat:0.1314', 'include:0.1134', 'hell:0.1059', 'sadden:0.0933', 'adopt:0.0788', 'yes:0.0624', 'pretzel:0.0467', 'thank:0.0451']+titles_keywords+['ukraine:0.4041', 'vetoes:0.2854', 'unsc:0.2347', 'end:0.1706', 'resolution:0.1459']"
+        ],
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/jurist.org/Ukraine court orders expresidents arrest in absentia for treason.txt+eventbasecode57+eventcode57+avgtone0.46947674418604657+goldsteinscale0.9+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.437', 'putin:0.4089', 'yanukovychunder:0.3881', 'treaties:0.3727', 'treason:0.3606', 'absentia:0.3564', 'criminal:0.3131', 'allegation:0.2682', 'case:0.2388', 'expresidents:0.2252', 'allow:0.2105', 'order:0.2036', 'flee:0.2006', 'conclude:0.1951', 'sentence:0.1755', 'inviolability:0.1655', 'state:0.1574', 'article:0.154', 'forcibly:0.1425', 'transport:0.1358', 'help:0.13', 'general:0.1292', 'extend:0.1228', 'lease:0.1207', 'anapa:0.1195', 'sevastopol:0.1191', 'send:0.1153', 'arm:0.1038', 'april:0.0764', 'restore:0.0354']+titles_keywords+['absentia:0.3939', 'treason:0.3776', 'arrest:0.3705', 'ukraine:0.3647', 'expresidents:0.3048']"
+        ]
+    ]
+}

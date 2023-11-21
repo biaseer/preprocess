@@ -1,0 +1,23 @@
+{
+    "BLR+RUS+40":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/dw.com/Belarus opposition leader Tsikhanouskaya on war in Ukraine.txt+eventbasecode40+eventcode40+avgtone0.4375+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['tsikhanouskaya:0.5561', 'minsk:0.5506', 'belarus:0.5138', 'ukraine:0.4573', 'moscow:0.4334', 'election:0.2956', 'war:0.2804', 'sviatlana:0.2589', 'opposition:0.2048', 'presidential:0.1976', 'follow:0.191', 'exile:0.174', 'leader:0.1707', 'relation:0.1624', 'assault:0.1558', 'dispute:0.1502', 'talk:0.1273', 'dw:0.0184']+titles_keywords+['tsikhanouskaya:0.5592', 'belarus:0.4033', 'war:0.2804', 'opposition:0.1655', 'leader:0.1366']"
+        ]
+    ],
+    "NGA+UKR+40":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/dw.com/Are young Africans willing to fight in Ukraine.txt+eventbasecode40+eventcode40+avgtone0.45833333333333315+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nigerians:0.486', 'africans:0.4699', 'ukraine:0.4231', 'kenyan:0.3935', 'youth:0.3478', 'russian:0.3315', 'young:0.3164', 'invasion:0.261', 'willing:0.2574', 'join:0.2492', 'risk:0.2446', 'implication:0.2095', 'debate:0.1958', 'fight:0.1935', 'resist:0.19', 'security:0.1723', 'percent:0.1596', 'ask:0.1543', 'issue:0.1355', 'life:0.1092', 'heat:0.1058', 'listen:0.1035', 'line:0.0957', 'possible:0.0894', 'expert:0.0781', 'edition:0.0607', 'week:-0.0005']+titles_keywords+['ukraine:0.4476', 'africans:0.4002', 'young:0.3132', 'willing:0.2463', 'fight:0.2105']"
+        ]
+    ],
+    "RUS+RUS+40":[
+        []
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220707+../news_crawling/RUS_UKR/p_articles/dw.com/Ukraine is unstable.txt+eventbasecode40+eventcode40+avgtone0.495530012771392+goldsteinscale0.55+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.516', 'donetsk:0.4889', 'decentralization:0.3455', 'stability:0.3449', 'government:0.341', 'nationalistic:0.3321', 'occupy:0.32', 'activists:0.3059', 'sloviansk:0.2932', 'confuse:0.2587', 'concern:0.2545', 'crisis:0.2532', 'east:0.2487', 'osce:0.2436', 'normality:0.2431', 'appoint:0.2421', 'town:0.2418', 'manage:0.2328', 'state:0.2104', 'population:0.2041', 'urgently:0.1974', 'talk:0.1883', 'military:0.1875', 'sector:0.187', 'want:0.1842', 'continue:0.172', 'circumstance:0.1714', 'increase:0.1682', 'apparatus:0.1372', 'right:0.1364']+titles_keywords+['ukraine:0.6407', 'unstable:0.5228']"
+        ]
+    ],
+    "RUS+USA+40":[
+        []
+    ]
+}

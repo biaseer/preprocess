@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220710+../news_crawling/RUS_UKR/p_articles/aspenpublicradio.org/At least 15 were killed and others are trapped after a Russian strike in Ukraine.txt+eventbasecode194+eventcode194+avgtone0.47081218274111675+goldsteinscale0.0+nummentions0.08635703918722787+numarticles0.08701957940536621+numsources0.13815789473684212+news_keywords+['moscow:0.4357', 'ukrainians:0.382', 'explosion:0.3232', 'refugee:0.2992', 'emergency:0.2958', 'rubble:0.2926', 'strike:0.2858', 'news:0.2842', 'enemy:0.2583', 'flinch:0.2526', 'killed:0.2491', 'artillery:0.2454', 'town:0.2418', 'know:0.2326', 'factory:0.2152', 'hear:0.1976', 'badly:0.1958', 'regroup:0.1922', 'contact:0.192', 'lysychansk:0.1752', 'stay:0.1752', 'cover:0.1703', 'dima:0.169', 'believe:0.1685', 'residential:0.1668', 'dozens:0.1646', 'saturday:0.1562', 'far:0.13', 'true:0.1097', 'thank:0.0944']+titles_keywords+['ukraine:0.4049', 'trapped:0.2744', 'strike:0.273', '15:0.2555', 'killed:0.2132']"
+        ]
+    ],
+    "UKR+RUS+194":[
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/aspenpublicradio.org/Russian warship is damaged but Ukraine and Russia offer different explanations.txt+eventbasecode194+eventcode194+avgtone0.4875+goldsteinscale0.0+nummentions0.07692307692307693+numarticles0.0775924583031182+numsources0.11513157894736842+news_keywords+['warship:0.4143', 'ukrainians:0.3541', 'conflict:0.3075', 'attack:0.2956', 'moskva:0.2839', 'narrative:0.2721', 'checkpoint:0.2584', 'victory:0.2515', 'evacuate:0.2404', 'damage:0.233', 'ammunition:0.2253', 'know:0.1933', 'press:0.1887', 'forward:0.1824', 'significance:0.1817', 'term:0.1814', 'accidental:0.1761', 'perception:0.158', 'tense:0.1504', 'continue:0.1494', 'reach:0.1473', 'prosecute:0.1469', 'version:0.144', 'board:0.1374', 'hell:0.1355', 'npr:0.1297', 'available:0.1218', 'roughly:0.1104', 'underline:0.1055', 'independently:0.0957']+titles_keywords+['ukraine:0.3839', 'warship:0.3384', 'damaged:0.2914', 'explanations:0.2119', 'different:0.138']"
+        ]
+    ]
+}

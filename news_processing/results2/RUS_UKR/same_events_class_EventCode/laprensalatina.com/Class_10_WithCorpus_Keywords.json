@@ -1,0 +1,25 @@
+{
+    "BEL+RUS+10":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Kremlin says no plans for summit with Biden amid Ukraine tensions.txt+eventbasecode10+eventcode10+avgtone0.48083941605839414+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['diplomacy:0.4633', 'kremlin:0.4152', 'convene:0.3623', 'escalation:0.3533', 'invade:0.344', 'tensions:0.3204', 'dmitry:0.3203', 'crisis:0.2877', 'eu:0.2805', 'sanction:0.276', 'summits:0.2703', 'macron:0.261', 'separatist:0.2513', 'troop:0.2501', 'plan:0.2458', 'urgent:0.2421', 'unions:0.2284', 'news:0.227', 'report:0.1998', 'table:0.1985', 'brusselsmoscowkiev:0.1875', 'armed:0.1864', 'decide:0.1846', 'ready:0.1704', 'efe:0.1639', 'continue:0.1608', 'drill:0.1495', 'format:0.1478', 'feb:0.1423', 'agree:0.1095']+titles_keywords+['kremlin:0.4711', 'biden:0.3528', 'summit:0.164', 'plans:0.1568', 'tensions:0.1268']"
+        ]
+    ],
+    "CHE+UKR+10":[
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Ukraine claims over 13 million civilians deported to Russian territory.txt+eventbasecode10+eventcode10+avgtone0.4703125+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4655', 'kremlin:0.4441', 'invasion:0.3725', 'deport:0.3316', 'denisova:0.2918', 'crime:0.2897', 'oppose:0.2516', 'ratify:0.2349', 'leave:0.2182', 'civilian:0.2181', 'vrangel:0.1939', 'forcibly:0.1874', 'violation:0.1843', 'lyudmila:0.1841', 'ombudsman:0.1828', 'child:0.1788', 'claim:0.1705', 'displace:0.1677', 'precarious:0.1586', 'hotline:0.1555', 'train:0.1431', 'million:0.1426', 'day:0.1421', 'february:0.1313', 'davos:0.1293', 'group:0.1209', 'believe:0.1145', 'exactly:0.0986', 'efe:0.0968', 'clock:0.0867']+titles_keywords+['ukraine:0.4499', 'civilians:0.3975', 'deported:0.3096', 'million:0.1973', '13:0.197']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220711+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Putin eases Russian citizenship procedure for Ukrainians.txt+eventbasecode10+eventcode10+avgtone0.49715909090909094+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['citizenship:0.4756', 'ukrainians:0.4099', 'putin:0.4057', 'republics:0.3303', 'donetsk:0.3222', 'separatist:0.2576', 'resident:0.2269', 'legal:0.2183', 'decree:0.21', 'invasion:0.203', 'ease:0.1513', 'state:0.1512', 'procedure:0.1461', 'military:0.1453', 'simplify:0.1442', 'apply:0.1429', 'publish:0.1347', 'read:0.1328', 'february:0.1252', 'land:0.1248', 'sign:0.1167', 'right:0.1048', 'day:0.1038', 'grant:0.0989', 'start:0.0989', 'orphan:0.0952', 'control:0.0602', 'efe:0.0338', 'offer:0.0306', 'swathe:0.0275']+titles_keywords+['ukrainians:0.3961', 'putin:0.3781', 'citizenship:0.3612', 'eases:0.1108', 'procedure:0.0859']"
+        ],
+        [
+            "20220825+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Zelenskyy raises death toll in Russian attack on train station to 22.txt+eventbasecode10+eventcode10+avgtone0.4573170731707317+goldsteinscale0.5+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['zelenskyy:0.4913', 'ukraine:0.4389', 'dnipropetrovsk:0.3717', 'war:0.3179', 'unprovoked:0.279', 'volodymyr:0.2647', 'president:0.2539', 'warn:0.2473', 'destroy:0.2166', 'update:0.2129', 'independence:0.2063', 'occurrence:0.2042', 'railroad:0.1943', 'month:0.1891', 'projectile:0.1805', 'dead:0.1743', 'today:0.1683', 'speech:0.1629', 'expand:0.1608', 'boy:0.1528', 'hour:0.1429', 'preparation:0.1341', 'make:0.1217', 'far:0.1062', 'efe:0.1059', 'search:0.0973', 'set:0.09', 'regular:0.0886', 'desk:0.0819', 'videoconference:0.0758']+titles_keywords+['zelenskyy:0.5245', 'russian:0.2852', '22:0.202', 'death:0.1667', 'train:0.1591']"
+        ]
+    ],
+    "RUS+USA+10":[
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/US Russia exchange prisoners.txt+eventbasecode10+eventcode10+avgtone0.47151898734177217+goldsteinscale0.5+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['hostage:0.4462', 'moscow:0.4157', 'espionage:0.3725', 'konstantin:0.335', 'smuggle:0.3229', 'biden:0.3055', 'visa:0.3008', 'veteran:0.2824', 'protest:0.2545', 'trial:0.2481', 'release:0.2435', 'administration:0.2303', 'campaign:0.2147', 'altercation:0.2136', 'exchange:0.2093', 'safe:0.2084', 'ongoing:0.2068', 'return:0.1987', 'priority:0.193', 'trevor:0.1904', 'reed:0.1824', 'statement:0.1757', 'way:0.1713', 'wednesday:0.1654', 'state:0.1633', 'begin:0.1562', 'life:0.1504', 'wrongfully:0.1421', 'afsdr:0.135', 'welcome:0.1106']+titles_keywords+['prisoners:0.4526', 'exchange:0.3615', 'russia:0.3388']"
+        ]
+    ]
+}

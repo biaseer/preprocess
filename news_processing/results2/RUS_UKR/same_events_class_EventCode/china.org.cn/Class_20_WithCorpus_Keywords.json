@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+20":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/china.org.cn/Facts about RussiaUkraine conflict EU proposing new sanctions Russia more prudent in food export.txt+eventbasecode20+eventcode20+avgtone0.4955654101995565+goldsteinscale0.65+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.01644736842105263+news_keywords+['ukraine:0.4399', 'putin:0.4236', 'chernobyl:0.4086', 'diplomat:0.2978', 'nuclear:0.2936', 'chizhov:0.2658', 'sanction:0.2525', 'conflict:0.233', 'euro:0.2329', 'strategic:0.2152', 'infrastructure:0.2039', 'xinhua:0.1983', 'pursue:0.1932', 'order:0.168', 'facts:0.155', 'tuesday:0.144', 'enter:0.1427', 'export:0.1385', 'fluctuation:0.1287', 'increase:0.1269', 'unfriendly:0.1229', 'seafood:0.1221', 'assure:0.1184', 'world:0.1181', 'grata:0.1172', 'make:0.1107', 'armed:0.1067', 'sufficiency:0.1016', 'year:0.0774', 'especially:0.0316']+titles_keywords+['sanctions:0.4908', 'russiaukraine:0.3711', 'conflict:0.2419', 'facts:0.2404', 'export:0.2122']"
+        ]
+    ],
+    "FRA+RUS+20":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/china.org.cn/Scholz Zelensky discuss grain exports from Ukraine.txt+eventbasecode20+eventcode20+avgtone0.5075187969924813+goldsteinscale0.65+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4332', 'putin:0.3519', 'zelensky:0.3056', 'grain:0.2804', 'scholz:0.2492', 'export:0.2317', 'humanitarian:0.2259', 'macron:0.21', 'exchange:0.2065', 'german:0.1815', 'government:0.1721', 'discus:0.1473', 'make:0.1379', 'volodymyr:0.1354', 'sea:0.1148', 'conversation:0.1131', 'chancellor:0.1059', 'enable:0.0982', 'emmanuel:0.0962', 'statement:0.0895', 'say:0.0792', 'current:0.0639', 'issued:0.0531', 'wednesday:0.0505', 'phone:0.048', 'brief:0.0476', 'view:0.0475', 'accord:0.037', 'especially:0.0353', 'effort:0.0288']+titles_keywords+['zelensky:0.4895', 'grain:0.4231', 'exports:0.3757', 'scholz:0.3754', 'ukraine:0.3591']"
+        ]
+    ]
+}

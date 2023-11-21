@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+40":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/kesq.com/I want to fight Ukrainian journalist in Kyiv says Russia is using terror tactics.txt+eventbasecode40+eventcode40+avgtone0.478932584269663+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.5013', 'crimean:0.4836', 'ukrainians:0.4313', 'fight:0.3608', 'nato:0.3532', 'terror:0.3277', 'tactic:0.3038', 'journalist:0.2814', 'negotiation:0.2672', 'government:0.2488', 'speak:0.2441', 'feel:0.2308', 'want:0.2272', 'prepare:0.2246', 'tregubov:0.2196', 'risk:0.1981', 'shift:0.1974', 'toxic:0.1892', 'use:0.1861', 'steered:0.1843', 'case:0.1636', 'creates:0.1631', 'north:0.1535', 'victor:0.1474', 'right:0.1444', 'long:0.1422', 'arm:0.1278', 'regular:0.11', 'monday:0.1096', 'ground:0.0818']+titles_keywords+['kyiv:0.5007', 'journalist:0.3328', 'fight:0.3244', 'terror:0.2857', 'says:0.1033']"
+        ],
+        [
+            "20220508+../news_crawling/RUS_UKR/p_articles/kesq.com/US announces sanctions against Kremlincontrolled media companies and bans Russia from using some American consulting.txt+eventbasecode40+eventcode40+avgtone0.4767741935483871+goldsteinscale0.55+nummentions0.059506531204644414+numarticles0.06018854242204496+numsources0.08552631578947369+news_keywords+['putin:0.4869', 'ukraines:0.4318', 'kremlincontrolled:0.4246', 'sanction:0.3914', 'disinformation:0.326', 'recession:0.2863', 'visa:0.2814', 'federation:0.2744', 'announcement:0.2696', 'invasion:0.2683', 'executive:0.2657', 'nuclear:0.2568', 'cite:0.2438', 'unprovoked:0.2241', 'promtekhnologiya:0.2147', 'prepare:0.2019', 'intend:0.1996', 'continue:0.1984', 'industrial:0.1926', 'hear:0.1826', 'export:0.1696', 'unblock:0.1646', 'state:0.1621', 'world:0.1552', 'include:0.1498', 'sure:0.142', 'purchase:0.129', 'longer:0.1228', 'million:0.1122', 'highlight:0.1121']+titles_keywords+['sanctions:0.4498', 'kremlincontrolled:0.3724', 'russia:0.3407', 'media:0.2204', 'companies:0.1623']"
+        ]
+    ]
+}

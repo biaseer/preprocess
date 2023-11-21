@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/fox13news.com/Ukraine war refugees UN says over 5M have fled as Russian assault intensifies.txt+eventbasecode190+eventcode190+avgtone0.47563352826510724+goldsteinscale0.0+nummentions0.02939042089985486+numarticles0.03009427121102248+numsources0.04276315789473684+news_keywords+['refugees:0.5663', 'ukrainians:0.4531', 'evacuation:0.4379', 'lviv:0.394', 'russia:0.3877', 'humanitarian:0.3706', 'war:0.3463', 'unhcr:0.3428', 'migration:0.327', 'cohadzic:0.2969', 'population:0.2377', 'stay:0.222', 'displace:0.2027', 'organization:0.1934', 'cross:0.1903', 'status:0.1895', 'read:0.1818', 'report:0.16', 'care:0.1487', 'child:0.1389', 'according:0.1352', 'photojournalist:0.1349', 'april:0.1318', 'far:0.1295', 'prediction:0.1291', 'waar:0.1266', 'rent:0.1262', 'hour:0.1258', 'send:0.1033', 'entire:0.1015']+titles_keywords+['refugees:0.4711', 'ukraine:0.4136', 'fled:0.3106', '5m:0.2462', 'intensifies:0.0559']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/fox13news.com/Biden announces new sanctions on Russia says Putin chose this war.txt+eventbasecode190+eventcode190+avgtone0.4539473684210526+goldsteinscale0.0+nummentions0.04644412191582003+numarticles0.04713560551124003+numsources0.05592105263157895+news_keywords+['putin:0.4823', 'ukraines:0.4176', 'sanction:0.3738', 'war:0.3543', 'chernobyl:0.3436', 'threaten:0.2749', 'decommission:0.2547', 'report:0.2122', 'read:0.2006', 'interfere:0.1916', 'table:0.1899', 'volodymyr:0.1788', 'terms:0.1702', 'thursday:0.1617', 'washington:0.1544', 'scene:0.1452', 'bad:0.1417', 'bloody:0.1312', 'sector:0.1253', 'chose:0.124', 'pregent:0.1196', 'highlight:0.1144', 'direct:0.1136', 'following:0.1133', 'quickly:0.108', 'wont:0.1078', 'export:0.102', 'new:0.1012', 'confirmthat:0.0978', 'hop:0.0872']+titles_keywords+['putin:0.4658', 'sanctions:0.4385', 'biden:0.434', 'chose:0.189', 'new:0.0852']"
+        ],
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/fox13news.com/Antonov An225 wreckage Footage shows worlds largest plane destroyed in Ukraine.txt+eventbasecode190+eventcode190+avgtone0.4747292418772564+goldsteinscale0.0+nummentions0.04716981132075472+numarticles0.046047860768672955+numsources0.09868421052631579+news_keywords+['kyiv:0.5423', 'soviet:0.4534', 'antonov:0.4204', 'aircraft:0.3783', 'russias:0.3635', 'wreckage:0.3159', 'invasion:0.2621', 'correspondent:0.2605', 'kill:0.2519', 'mriya:0.233', 'victim:0.2259', 'atrocity:0.2081', 'report:0.1914', 'area:0.1805', 'storyful:0.172', 'undergoing:0.17', 'charred:0.1611', 'covid:0.1608', 'supply:0.16', 'later:0.1576', 'evidence:0.154', 'photo:0.1441', 'large:0.143', 'originally:0.1428', 'twitter:0.1416', 'bucha:0.1396', 'completely:0.1264', 'built:0.1224', 'year:0.1223', 'rferl:0.0947']+titles_keywords+['wreckage:0.3717', 'antonov:0.3531', 'plane:0.3194', 'an225:0.3056', 'largest:0.3041']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+120":[
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/africaleader.com/Live Zelensky vows victory on 100th day of Russian invasion.txt+eventbasecode120+eventcode120+avgtone0.4755306603773585+goldsteinscale0.3+nummentions0.01269956458635704+numarticles0.013415518491660623+numsources0.019736842105263157+news_keywords+['crimea:0.4658', 'putin:0.4431', 'nato:0.3625', 'war:0.3451', 'podolyak:0.2945', 'zelensky:0.2932', 'occupy:0.288', 'occur:0.2771', 'journalist:0.2665', 'prepare:0.2383', 'capital:0.2349', 'know:0.2309', 'reiterate:0.2236', 'flee:0.2183', 'allegation:0.2116', 'agreement:0.2059', 'long:0.2022', 'june:0.1967', 'forward:0.189', 'end:0.1873', 'donbas:0.1871', 'milestone:0.182', 'follow:0.1764', 'bloody:0.1597', 'plant:0.1584', 'globsec:0.1533', 'somber:0.1398', 'gmt:0.1377', 'swathe:0.1328', 'new:0.1198']+titles_keywords+['zelensky:0.5514', 'russian:0.3876', '100th:0.3653', 'invasion:0.333', 'live:0.2309']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/africaleader.com/Live Russia pummels last Ukrainian defenders in port city Mariupol.txt+eventbasecode120+eventcode120+avgtone0.4885466034755134+goldsteinscale0.3+nummentions0.05152394775036284+numarticles0.05221174764321972+numsources0.0625+news_keywords+['ukraine:0.4794', 'kremlin:0.4522', 'invade:0.3796', 'cyberattacks:0.3549', 'reuters:0.3469', 'operation:0.2836', 'federation:0.2774', 'evacuate:0.2765', 'troop:0.2707', 'alert:0.2391', 'multilateral:0.2291', 'information:0.2193', 'update:0.2082', 'prepared:0.207', 'fight:0.1936', 'obtain:0.1821', 'continue:0.1783', 'modi:0.1752', 'counterpart:0.1726', 'th:0.1647', 'date:0.1586', 'usual:0.1556', 'big:0.1449', 'building:0.1424', 'gmt:0.1416', 'plant:0.134', 'broaden:0.131', 'week:0.1298', 'poise:0.1217', 'fora:0.095']+titles_keywords+['ukrainian:0.4596', 'port:0.2624', 'live:0.2604', 'mariupol:0.255', 'pummels:0.2507']"
+        ]
+    ]
+}

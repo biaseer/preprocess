@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+40":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/businessinsider.com/A growing amount of Russian oil is being sent destination unknown as wary buyers try.txt+eventbasecode40+eventcode40+avgtone0.49331550802139035+goldsteinscale0.55+nummentions0.009071117561683599+numarticles0.009789702683103698+numsources0.006578947368421052+news_keywords+['russia:0.4599', 'oil:0.4239', 'tankertrackers:0.3606', 'embargo:0.3234', 'bloomberg:0.2706', 'april:0.2458', 'industry:0.2457', 'invasion:0.2454', 'export:0.2226', 'data:0.2034', 'cite:0.203', 'report:0.2009', 'increase:0.2', 'obfuscate:0.1961', 'destination:0.1937', 'president:0.1876', 'wary:0.1794', 'prior:0.1574', 'unknown:0.1515', 'directly:0.1369', 'buyer:0.134', 'significant:0.1261', 'volodymyr:0.122', 'mark:0.1185', 'load:0.1118', 'new:0.106', 'times:0.1057', 'reach:0.0981', 'compare:0.0883', 'blend:0.0878']+titles_keywords+['oil:0.3965', 'russian:0.3084', 'wary:0.2712', 'unknown:0.243', 'sent:0.0408']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Bay Street Pressurized On Geopolitical Tensions.txt+eventbasecode40+eventcode40+avgtone0.48+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['geopolitical:0.4468', 'pressurized:0.3707', 'tension:0.3233', 'nikkei:0.3092', 'oil:0.2967', 'currency:0.2836', 'stock:0.2633', 'trend:0.2579', 'china:0.2518', 'bay:0.2377', 'fell:0.237', 'plunge:0.2245', 'rttnews:0.2204', 'lower:0.2188', 'border:0.217', 'index:0.2149', 'street:0.2141', 'escalate:0.2102', 'positive:0.2052', 'future:0.191', 'broadly:0.1759', 'week:0.1709', 'versus:0.1681', 'close:0.1606', 'percent:0.1416', 'end:0.1328', 'jan:0.1273', 'composite:0.1269', 'meet:0.1257', 'major:0.1062']+titles_keywords+['geopolitical:0.4972', 'tensions:0.4347', 'bay:0.4227', 'pressurized:0.3413', 'street:0.3077']"
+        ],
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Russian troops struggle to talk to each other in Ukraine reflects a problem thats only.txt+eventbasecode40+eventcode40+avgtone0.48515376458112414+goldsteinscale0.55+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.456', 'warfare:0.3407', 'information:0.2867', 'veteran:0.2724', 'introduction:0.2694', 'stavros:0.2516', 'government:0.2365', 'concern:0.2281', 'counterpart:0.2169', 'capability:0.2151', 'comms:0.215', 'intercept:0.2142', 'report:0.2102', 'change:0.2013', 'executive:0.1973', 'overlap:0.1885', 'specialize:0.1813', 'compromised:0.1797', 'rail:0.1784', 'source:0.168', 'physical:0.1539', 'order:0.152', 'incompatibility:0.1339', 'shortcoming:0.1243', 'fsb:0.1204', 'derive:0.1155', 'significant:0.1129', 'encrypt:0.1077', 'entire:0.1068', 'markpoint:0.0907']+titles_keywords+['militaries:0.3718', 'russian:0.3254', 'talk:0.2606', 'tougher:0.1925', 'thats:0.1061']"
+        ]
+    ]
+}

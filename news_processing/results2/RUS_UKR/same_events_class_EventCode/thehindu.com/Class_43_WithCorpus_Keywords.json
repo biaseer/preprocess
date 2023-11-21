@@ -1,0 +1,17 @@
+{
+    "BLR+RUS+43":[
+        [
+            "20211118+../news_crawling/RUS_UKR/p_articles/thehindu.com/Russia sends bombers on patrol over Belarus.txt+eventbasecode43+eventcode43+avgtone0.48648648648648646+goldsteinscale0.64+nummentions0.06785195936139332+numarticles0.06852791878172589+numsources0.1118421052631579+news_keywords+['natos:0.4824', 'belarus:0.4677', 'russian:0.3588', 'bomber:0.3103', 'fly:0.2555', 'deployment:0.2508', 'patrol:0.2406', 'attack:0.2384', 'nuclear:0.2026', 'range:0.1998', 'concern:0.1692', 'supply:0.1666', 'long:0.1553', 'send:0.1551', 'sky:0.1354', 'guarantee:0.131', 'saturdays:0.1289', 'practice:0.1143', 'cross:0.1132', 'buildup:0.1127', 'underline:0.1045', 'intend:0.101', 'pair:0.0989', 'month:0.0987', 'exclude:0.0911', 'say:0.088', 'ministry:0.071', 'tu:0.0581', 'strongly:0.0526', 'thousand:0.0043']+titles_keywords+['belarus:0.4037', 'bombers:0.3236', 'russia:0.2706', 'patrol:0.187', 'sends:0.1305']"
+        ]
+    ],
+    "CHN+UKR+43":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/thehindu.com/Lavrov in China for Afghan talks.txt+eventbasecode43+eventcode43+avgtone0.51+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['afghanistan:0.417', 'moscow:0.3675', 'russias:0.3562', 'diplomat:0.3534', 'lavrov:0.3436', 'meeting:0.2682', 'huangshan:0.2656', 'democratisation:0.2478', 'invasion:0.1989', 'aid:0.1727', 'talk:0.1707', 'global:0.1594', 'mr:0.1576', 'military:0.1564', 'attend:0.1457', 'neighbour:0.1434', 'relation:0.1408', 'future:0.1382', 'multipolarity:0.1375', 'expect:0.132', 'discus:0.1185', 'official:0.1064', 'continue:0.1062', 'wednesday:0.084', 'make:0.0753', 'lead:0.0733', 'vision:0.0599', 'new:0.0435', 'series:0.0207', 'saidin:0.0185']+titles_keywords+['lavrov:0.4422', 'afghan:0.3453', 'china:0.2957', 'talks:0.204']"
+        ]
+    ],
+    "TUR+RUS+43":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/thehindu.com/Turkey says Russia Ukraine close to agreement.txt+eventbasecode43+eventcode43+avgtone0.5050167224080268+goldsteinscale0.64+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.013157894736842105+news_keywords+['crimea:0.4456', 'putin:0.398', 'turkey:0.3592', 'mediator:0.3549', 'negotiate:0.3322', 'disarmament:0.3152', 'peace:0.3128', 'talk:0.2881', 'zelensky:0.2578', 'meeting:0.2484', 'agreement:0.2451', 'contact:0.2224', 'invasion:0.2187', 'status:0.2078', 'neutrality:0.2051', 'visit:0.1845', 'volodymyr:0.181', 'halt:0.1702', 'term:0.1625', 'hurriyet:0.1478', 'ready:0.1453', 'medium:0.1312', 'post:0.1273', 'play:0.1218', 'donbass:0.1184', 'breakaway:0.1177', 'like:0.1173', 'easy:0.1082', 'civilian:0.1008', 'week:0.0701']+titles_keywords+['ukraine:0.4245', 'turkey:0.4124', 'agreement:0.2921', 'close:0.1482', 'says:0.04']"
+        ]
+    ]
+}

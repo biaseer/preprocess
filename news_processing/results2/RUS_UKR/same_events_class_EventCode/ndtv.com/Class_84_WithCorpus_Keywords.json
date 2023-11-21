@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+84":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/ndtv.com/West Sees Positive Signs As Russia Pulls Some Troops From Ukraine Border.txt+eventbasecode84+eventcode84+avgtone0.48048780487804876+goldsteinscale0.85+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimean:0.4471', 'minsk:0.4138', 'putin:0.3998', 'nato:0.3896', 'escalation:0.3097', 'war:0.2903', 'diplomatic:0.2843', 'separatist:0.2629', 'agreement:0.2473', 'border:0.2399', 'relocate:0.2353', 'government:0.1994', 'headline:0.1993', 'withdraw:0.1883', 'future:0.1792', 'eastern:0.1712', 'breakaway:0.1688', 'solution:0.1651', 'rail:0.1649', 'signs:0.1592', 'warn:0.1576', 'drill:0.1439', 'usual:0.1295', 'begin:0.1196', 'roll:0.118', 'feed:0.1165', 'week:0.0939', 'units:0.0881', 'potentially:0.0628', 'partial:0.0522']+titles_keywords+['ukraine:0.3534', 'positive:0.2768', 'signs:0.2529', 'troops:0.2441', 'pulls:0.2385']"
+        ]
+    ],
+    "RUS+WST+84":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/ndtv.com/Ukraine President Urges NATO For NoFly Zone Over His Country.txt+eventbasecode84+eventcode84+avgtone0.48161764705882354+goldsteinscale0.85+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['ukraine:0.4517', 'nato:0.4384', 'zelensky:0.4143', 'lviv:0.3643', 'fly:0.2856', 'volodymyr:0.2669', 'president:0.2164', 'nofly:0.193', 'kill:0.1876', 'zone:0.1534', 'border:0.1473', 'strike:0.1467', 'impose:0.1206', 'midnight:0.1165', 'launch:0.1127', 'headline:0.1107', 'speak:0.0987', 'ndtv:0.0941', 'address:0.0917', 'feed:0.0884', 'edit:0.0816', 'close:0.0691', 'shortly:0.0676', 'fall:0.0668', 'syndicate:0.0657', 'people:0.065', 'state:0.0524', 'matter:0.0428', 'training:0.0409', 'ground:0.0336']+titles_keywords+['ukraine:0.4273', 'nato:0.4247', 'nofly:0.1995', 'president:0.1524', 'zone:0.1148']"
+        ]
+    ]
+}

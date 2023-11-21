@@ -1,0 +1,20 @@
+{
+    "GBR+UKR+73":[
+        [
+            "20220119+../news_crawling/RUS_UKR/p_articles/russiaherald.com/UK supplied Ukraine thousands of light antitank missiles amid tensions with Russia.txt+eventbasecode73+eventcode73+avgtone0.49173553719008267+goldsteinscale0.8699999999999999+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['ukraine:0.5078', 'diplomatic:0.3358', 'military:0.2998', 'supply:0.2724', 'armed:0.27', 'missile:0.266', 'airlift:0.2628', 'sputnik:0.258', 'president:0.2372', 'tank:0.2326', 'zelenskyy:0.2223', 'sabotage:0.203', 'antitank:0.201', 'arrive:0.1882', 'agreement:0.1881', 'instead:0.182', 'tension:0.1645', 'cnn:0.1556', 'plan:0.1456', 'fight:0.1451', 'blinken:0.1425', 'capital:0.1409', 'intra:0.124', 'report:0.121', 'inch:0.1198', 'antony:0.1183', 'emphasizing:0.1175', 'thousand:0.0914', 'january:0.083', 'ani:0.0574']+titles_keywords+['ukraine:0.4404', 'missiles:0.4064', 'antitank:0.3681', 'supplied:0.179', 'thousands:0.1629']"
+        ]
+    ],
+    "RUS+RUS+73":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/russiaherald.com/First refugees from eastern Ukraine arrive in Russia.txt+eventbasecode73+eventcode73+avgtone0.4576271186440678+goldsteinscale0.8699999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['refugees:0.5376', 'ukrainian:0.4467', 'russia:0.4305', 'rostov:0.4255', 'kiev:0.4145', 'evacuate:0.3719', 'invade:0.3529', 'republics:0.3144', 'border:0.3022', 'region:0.2688', 'arrive:0.2676', 'breakaway:0.2273', 'military:0.1967', 'report:0.1825', 'ahead:0.177', 'bus:0.1701', 'donbass:0.1665', 'neighbor:0.1462', 'authority:0.1412', 'action:0.1407', 'plan:0.1355', 'follow:0.1324', 'pretext:0.1274', 'earlier:0.1216', 'group:0.1191', 'child:0.1178', 'create:0.1107', 'allege:0.1', 'woman:0.0872', 'month:0.0836']+titles_keywords+['refugees:0.4602', 'ukraine:0.3963', 'russia:0.3082', 'arrive:0.2102', 'eastern:0.1024']"
+        ]
+    ],
+    "RUS+UKR+73":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/russiaherald.com/First train with refugees from Donbas arrives in Russias Volgograd Region.txt+eventbasecode73+eventcode73+avgtone0.5+goldsteinscale0.8699999999999999+nummentions0.009433962264150943+numarticles0.0029006526468455403+numsources0.0+news_keywords+['refugee:0.5001', 'volgograd:0.4835', 'russia:0.3781', 'arrive:0.2628', 'train:0.2342', 'accommodation:0.2312', 'anisputnik:0.2196', 'donbas:0.1981', 'child:0.194', 'people:0.1573', 'place:0.1448', 'temporary:0.1368', 'age:0.1313', 'regional:0.1304', 'baby:0.1001', 'statement:0.0965', 'prepare:0.0896', 'february:0.0889', 'organize:0.0864', 'health:0.0689', 'centre:0.0682', 'include:0.0574', 'carry:0.0561', 'today:0.053', 'task:0.0525', 'governor:0.0363', 'accordance:0.0305', 'say:0.016', 'set:-0.0114', 'accord:-0.0151']+titles_keywords+['volgograd:0.4491', 'refugees:0.431', 'train:0.3184', 'donbas:0.2968', 'arrives:0.1678']"
+        ],
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Russian missile strike hit buildings in Ukraines city Zhytomyr rescue efforts underway.txt+eventbasecode73+eventcode73+avgtone0.47916666666666674+goldsteinscale0.8699999999999999+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['ukraine:0.463', 'airstrikes:0.4229', 'missile:0.3241', 'kharkiv:0.3028', 'rescue:0.2831', 'zhytomyr:0.2766', 'demolish:0.2727', 'city:0.222', 'residential:0.2122', 'building:0.2', 'civilian:0.1982', 'debris:0.1929', 'underway:0.1895', 'hit:0.1837', 'inform:0.1625', 'home:0.1618', 'shelling:0.156', 'alive:0.1554', 'block:0.147', 'search:0.1432', 'flame:0.1419', 'north:0.1415', 'video:0.1365', 'intensify:0.1345', 'people:0.1302', 'march:0.1287', 'dozen:0.0953', 'water:0.0879', 'second:0.0842', 'according:0.0541']+titles_keywords+['zhytomyr:0.4152', 'ukraines:0.3112', 'rescue:0.2504', 'buildings:0.1872', 'hit:0.1696']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CHE+RUS+36":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/apnews.com/Zelenskyy urges maximum sanctions on Russia in Davos talk.txt+eventbasecode36+eventcode36+avgtone0.4747634069400631+goldsteinscale0.7+nummentions0.11828737300435414+numarticles0.11892675852066716+numsources0.15789473684210525+news_keywords+['ukraine:0.4291', 'kremlin:0.3793', 'economy:0.3203', 'davos:0.3164', 'executive:0.2942', 'confab:0.2765', 'federation:0.2696', 'sanction:0.2673', 'rhetoric:0.2517', 'crisis:0.2506', 'world:0.2477', 'covid:0.2454', 'winter:0.2415', 'democratic:0.2345', 'provide:0.2247', 'famine:0.2245', 'predict:0.2243', 'diversify:0.2239', 'renewable:0.204', 'transform:0.1766', 'headway:0.1687', 'inequality:0.1607', 'major:0.1572', 'ap:0.1505', 'agree:0.1477', 'decade:0.1442', 'rail:0.141', 'glitzy:0.1199', 'coming:0.1051', 'exporter:0.0776']+titles_keywords+['zelenskyy:0.5237', 'sanctions:0.3935', 'davos:0.2404', 'maximum:0.2223', 'talk:0.0863']"
+        ]
+    ],
+    "RUS+RUS+36":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/apnews.com/RussiaUkraine war Key things to know about the conflict.txt+eventbasecode36+eventcode36+avgtone0.4693486590038314+goldsteinscale0.7+nummentions0.1683599419448476+numarticles0.16896301667875271+numsources0.24671052631578946+news_keywords+['ukraine:0.4809', 'kremlin:0.4424', 'airstrikes:0.4062', 'nato:0.3702', 'propaganda:0.2923', 'refugee:0.2865', 'diplomatic:0.2797', 'zelenskyy:0.2791', 'escalation:0.2646', 'poltava:0.2368', 'fight:0.2256', 'troop:0.2135', 'scary:0.2089', 'headline:0.2028', 'know:0.1942', 'occupied:0.1915', 'capital:0.1804', 'pentagons:0.1803', 'learn:0.1725', 'anonymity:0.1714', 'interrupt:0.1656', 'short:0.1558', 'end:0.1455', 'burn:0.1381', 'cross:0.1377', 'maternity:0.1219', 'weekend:0.1193', 'million:0.1037', 'far:0.1037', 'true:0.0994']+titles_keywords+['russiaukraine:0.4639', 'war:0.424', 'know:0.18', 'things:0.1701', 'key:0.0945']"
+        ]
+    ],
+    "RUS+USA+36":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/apnews.com/North Dakota board to discuss investments in Russian bonds.txt+eventbasecode36+eventcode36+avgtone0.4881516587677725+goldsteinscale0.7+nummentions0.017779390420899856+numarticles0.01849166062364032+numsources0.02631578947368421+news_keywords+['russia:0.4382', 'dakotas:0.4379', 'invested:0.3522', 'gov:0.3519', 'state:0.3307', 'fund:0.3136', 'equity:0.2958', 'war:0.2842', 'policy:0.2696', 'unprovoked:0.2342', 'north:0.2246', 'guidance:0.2009', 'treasurer:0.1984', 'know:0.1977', 'bond:0.1914', 'resource:0.1902', 'burgum:0.1849', 'meet:0.1847', 'doug:0.1603', 'ongoing:0.1601', 'discus:0.159', 'disposal:0.15', 'board:0.1411', 'thursday:0.1316', 'act:0.1315', 'additional:0.1235', 'ap:0.1149', 'billion:0.1128', 'fixed:0.1069', 'fluid:0.1018']+titles_keywords+['russian:0.303', 'dakota:0.295', 'investments:0.2891', 'board:0.2606', 'discuss:0.1511']"
+        ]
+    ]
+}

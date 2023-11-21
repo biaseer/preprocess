@@ -1,0 +1,17 @@
+{
+    "BLR+RUS+10":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/localnews8.com/Russian strike kills 96yearold Holocaust survivor in Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4688888888888889+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.006578947368421052+news_keywords+['holocaust:0.5322', 'minsk:0.4625', 'buchenwald:0.4398', 'ukrainian:0.3846', 'romanchenko:0.3668', 'russias:0.2979', 'prisoner:0.2726', 'commemorate:0.2624', 'invasion:0.2618', 'military:0.2539', 'kill:0.2523', 'operation:0.247', 'report:0.2421', 'news:0.2376', 'yulia:0.2258', 'curfew:0.2232', 'read:0.222', 'visit:0.2127', 'surviving:0.2017', 'know:0.1957', 'grandfather:0.194', 'subject:0.1939', 'telegram:0.1887', 'surrounded:0.1853', 'yearold:0.1628', 'world:0.1369', 'house:0.1281', 'large:0.0984', 'series:0.09', 'rd:0.0655']+titles_keywords+['holocaust:0.4224', 'russian:0.3488', '96yearold:0.261', 'strike:0.2199', 'survivor:0.1196']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/localnews8.com/Russian forces seize control of Chernobyl nuclear plant and hold staff hostage Ukrainian officials.txt+eventbasecode10+eventcode10+avgtone0.4597402597402598+goldsteinscale0.5+nummentions0.020682148040638608+numarticles0.02139231327048586+numsources0.03289473684210526+news_keywords+['chernobyl:0.6709', 'reactor:0.4151', 'ukraines:0.3481', 'evacuate:0.2962', 'hostage:0.2662', 'tragedy:0.2443', 'government:0.2387', 'psaki:0.2309', 'concern:0.2204', 'zelensky:0.2107', 'olga:0.2099', 'contaminate:0.1849', 'control:0.1586', 'cover:0.1582', 'report:0.1575', 'artillery:0.1568', 'aftermath:0.1552', 'sarcophagus:0.1511', 'spokesperson:0.145', 'cnn:0.1252', 'continue:0.1186', 'pronged:0.1154', 'april:0.1058', 'know:0.1058', 'world:0.0909', 'storage:0.0775', 'impossible:0.0661', 'big:0.0607', 'yooll:0.0557', 'add:0.0255']+titles_keywords+['chernobyl:0.5044', 'ukrainian:0.3433', 'hostage:0.2899', 'control:0.1921', 'staff:0.1499']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/localnews8.com/Zakim Bridge in Boston will light up blue and gold Friday night for Ukraine.txt+eventbasecode10+eventcode10+avgtone0.48757763975155277+goldsteinscale0.5+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['kyiv:0.4629', 'boston:0.4161', 'putin:0.3832', 'attack:0.3648', 'russias:0.3647', 'bridge:0.3489', 'mbta:0.3123', 'government:0.2708', 'psaki:0.2685', 'embargo:0.2638', 'news:0.2523', 'zakim:0.2521', 'blue:0.252', 'friday:0.226', 'wbz:0.2122', 'people:0.1987', 'european:0.1899', 'biden:0.1757', 'order:0.1748', 'burns:0.1686', 'center:0.1649', 'support:0.1549', 'light:0.1485', 'say:0.1434', 'quickly:0.1328', 'join:0.1317', 'reach:0.1158', 'fore:0.114', 'jen:0.099', 'share:0.0713']+titles_keywords+['boston:0.404', 'ukraine:0.3605', 'blue:0.3249', 'zakim:0.2891', 'night:0.2428']"
+        ]
+    ]
+}

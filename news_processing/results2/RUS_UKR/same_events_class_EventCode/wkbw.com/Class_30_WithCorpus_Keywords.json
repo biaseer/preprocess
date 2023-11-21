@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+30":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/wkbw.com/Ukraine and Russia agree to diplomatic talks near Belarus border.txt+eventbasecode30+eventcode30+avgtone0.5072815533980582+goldsteinscale0.7+nummentions0.07764876632801161+numarticles0.07831762146482958+numsources0.06578947368421052+news_keywords+['putin:0.4324', 'ukraines:0.4122', 'nato:0.3818', 'meeting:0.3812', 'diplomat:0.3593', 'belarusian:0.3177', 'lukashenko:0.2939', 'border:0.2742', 'talk:0.2526', 'zelenskyys:0.2115', 'shortly:0.192', 'location:0.1767', 'delegation:0.1616', 'say:0.1358', 'order:0.1345', 'plane:0.1325', 'come:0.1256', 'alert:0.1142', 'reject:0.1131', 'precondition:0.1119', 'hour:0.1047', 'official:0.0972', 'state:0.0937', 'lead:0.0916', 'precise:0.0863', 'cnns:0.0848', 'idea:0.0768', 'power:0.0661', 'united:0.0652', 'agree:0.0467']+titles_keywords+['ukraine:0.3453', 'diplomatic:0.2735', 'border:0.2022', 'near:0.0639', 'agree:0.0451']"
+        ]
+    ],
+    "USA+UKR+30":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/wkbw.com/Buffalo to illuminate landmarks in blue and yellow in support of Ukraine.txt+eventbasecode30+eventcode30+avgtone0.4893238434163701+goldsteinscale0.7+nummentions0.011611030478955007+numarticles0.010514865844815084+numsources0.009868421052631578+news_keywords+['ukraine:0.5015', 'buffalo:0.485', 'putin:0.3607', 'city:0.3449', 'iskalo:0.3093', 'invasion:0.2993', 'announce:0.2511', 'hall:0.2459', 'leaders:0.2433', 'illuminate:0.2359', 'biden:0.2141', 'bohdan:0.2094', 'aggressor:0.1983', 'executive:0.189', 'electric:0.1872', 'thursday:0.1865', 'sanction:0.1779', 'development:0.1644', 'scripps:0.1484', 'follow:0.1422', 'include:0.1419', 'yellow:0.1413', 'national:0.1382', 'flee:0.1378', 'say:0.1304', 'wkbw:0.1296', 'start:0.1096', 'choose:0.1091', 'accord:0.0942', 'deeply:0.0266']+titles_keywords+['buffalo:0.4631', 'ukraine:0.3652', 'yellow:0.3309', 'illuminate:0.2943', 'landmarks:0.2707']"
+        ]
+    ]
+}

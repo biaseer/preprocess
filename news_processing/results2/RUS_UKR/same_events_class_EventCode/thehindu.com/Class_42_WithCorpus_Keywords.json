@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+42":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/thehindu.com/RussiaUkraine crisis updates March 12 2022.txt+eventbasecode42+eventcode42+avgtone0.48355899419729215+goldsteinscale0.595+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['putinrecognised:0.4675', 'ukraine:0.4625', 'kremlin:0.4556', 'ceasefire:0.4469', 'nato:0.3854', 'evacuate:0.3401', 'invasion:0.3059', 'crisis:0.2953', 'ankara:0.2942', 'military:0.2694', 'macron:0.2586', 'suleiman:0.2491', 'nuclear:0.2486', 'news:0.2414', 'respond:0.2237', 'tank:0.2167', 'concern:0.2153', 'understand:0.2026', 'adviser:0.2007', 'thursday:0.1831', 'economic:0.1774', 'turn:0.1712', 'term:0.1692', 'end:0.1623', 'telephone:0.1593', 'pentagons:0.1504', 'additional:0.1389', 'galvanize:0.1374', 'billion:0.1338', 'stuck:0.1282']+titles_keywords+['russiaukraine:0.5131', 'crisis:0.3276', '2022:0.3092', 'march:0.2417', 'updates:0.2209']"
+        ]
+    ],
+    "RUS+USA+42":[
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/thehindu.com/Zelenskyy meets toplevel US delegation.txt+eventbasecode42+eventcode42+avgtone0.49671052631578944+goldsteinscale0.595+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4962', 'zelenskyy:0.4502', 'moscows:0.3931', 'orthodox:0.2918', 'president:0.2606', 'invasion:0.2477', 'speaking:0.2163', 'delegation:0.2085', 'secretaries:0.2065', 'long:0.1921', 'celebrate:0.1879', 'reassure:0.1847', 'meet:0.1824', 'month:0.1802', 'schedule:0.1798', 'continue:0.1751', 'result:0.1691', 'toplevel:0.1404', 'look:0.1373', 'night:0.1367', 'hail:0.1361', 'evil:0.1344', 'right:0.1341', 'produce:0.1323', 'significance:0.1311', 'today:0.1278', 'nearly:0.1207', 'funnel:0.1123', 'arm:0.1112', 'highlight:0.0974']+titles_keywords+['zelenskyy:0.5826', 'delegation:0.3488', 'meets:0.2578', 'toplevel:0.1871']"
+        ]
+    ],
+    "WST+RUS+42":[
+        [
+            "20220818+../news_crawling/RUS_UKR/p_articles/thehindu.com/Russia deploys hypersonic missiles to its Baltic exclave.txt+eventbasecode42+eventcode42+avgtone0.5+goldsteinscale0.595+nummentions0.20391872278664733+numarticles0.20449601160261058+numsources0.23684210526315788+news_keywords+['kaliningrads:0.4763', 'kremlin:0.4587', 'nato:0.4195', 'missile:0.418', 'russias:0.3786', 'baltic:0.3523', 'russian:0.345', 'kinzhal:0.3205', 'hypersonic:0.3069', 'deploy:0.2805', 'airbase:0.2614', 'threaten:0.2422', 'kilometer:0.2294', 'strategic:0.1874', 'nears:0.187', 'forefront:0.1867', 'fly:0.1839', 'target:0.1832', 'border:0.1472', 'showcase:0.1272', 'iskander:0.1255', 'precision:0.1241', 'thursday:0.1045', 'state:0.1034', 'array:0.0943', 'make:0.0937', 'additional:0.0783', 'methodically:0.067', 'video:0.0502', 'apparently:0.031']+titles_keywords+['missiles:0.4153', 'hypersonic:0.4047', 'baltic:0.395', 'exclave:0.2125', 'deploys:0.1796']"
+        ]
+    ]
+}

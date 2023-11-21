@@ -1,0 +1,25 @@
+{
+    "EUR+UKR+112":[
+        [
+            "20220623+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Chinas Xi criticises sanctions abuse Putin scolds the West.txt+eventbasecode112+eventcode112+avgtone0.45735607675906204+goldsteinscale0.4+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['putin:0.464', 'brics:0.4071', 'nato:0.3943', 'ukraine:0.3865', 'macroeconomic:0.3344', 'nationalist:0.3136', 'sanction:0.299', 'war:0.2957', 'usinfluence:0.2722', 'threaten:0.2622', 'world:0.2591', 'confer:0.2561', 'crisis:0.2544', 'topic:0.244', 'translator:0.2361', 'strategic:0.2285', 'future:0.2125', 'oppose:0.2026', 'relation:0.2003', 'unilateral:0.1984', 'jinping:0.1894', 'mutually:0.1836', 'blame:0.1832', 'states:0.1584', 'dangerous:0.1516', 'include:0.1255', 'degrade:0.1146', 'trillion:0.1093', 'large:0.1065', 'look:0.1042']+titles_keywords+['sanctions:0.4952', 'putin:0.4647', 'chinas:0.2924', 'criticises:0.2684', 'xi:0.2605']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20211120+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/US patrol boats sent to beef up Ukrainian Navy near Black Sea.txt+eventbasecode112+eventcode112+avgtone0.48011363636363635+goldsteinscale0.4+nummentions0.018142235123367198+numarticles0.01885424220449601+numsources0.02631578947368421+news_keywords+['crimea:0.5402', 'nato:0.4917', 'kremlin:0.4149', 'naval:0.3776', 'ship:0.3358', 'missile:0.2486', 'port:0.2471', 'tank:0.2415', 'strait:0.2029', 'separatist:0.202', 'threaten:0.2', 'security:0.194', 'want:0.1756', 'topic:0.1713', 'prepare:0.171', 'baltimore:0.1688', 'expand:0.1669', 'refit:0.1657', 'consignment:0.1607', 'swath:0.1482', 'black:0.1464', 'cross:0.1463', 'prospect:0.1377', 'approve:0.1311', 'send:0.1101', 'right:0.096', 'similar:0.0892', 'week:0.0806', 'earlier:0.0712', 'million:0.0694']+titles_keywords+['navy:0.3608', 'ukrainian:0.3055', 'boats:0.3031', 'near:0.0882', 'sent:0.0432']"
+        ],
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Ukraine accuses Russia of continuing assault during evacuation ceasefire.txt+eventbasecode112+eventcode112+avgtone0.4619047619047619+goldsteinscale0.4+nummentions0.05079825834542816+numarticles0.05148658448150834+numsources0.07894736842105263+news_keywords+['crimean:0.4996', 'ceasefire:0.4827', 'moscow:0.4247', 'putin:0.405', 'nato:0.3769', 'evacuate:0.3757', 'nationalist:0.3367', 'invasion:0.3283', 'bordersmedecins:0.2778', 'strategic:0.2609', 'correspond:0.2575', 'infrastructure:0.2418', 'retaliate:0.2413', 'news:0.2254', 'continue:0.2242', 'report:0.1903', 'enter:0.1894', 'corridor:0.1869', 'carry:0.1749', 'short:0.165', 'boy:0.1613', 'world:0.154', 'women:0.1499', 'weekend:0.1441', 'th:0.1432', 'fully:0.1373', 'near:0.1308', 'freezing:0.1268', 'feb:0.1216', 'thousand:0.1073']+titles_keywords+['ukraine:0.4223', 'evacuation:0.3306', 'assault:0.252', 'accuses:0.2171', 'continuing:0.1382']"
+        ]
+    ],
+    "RUS+USA+112":[
+        [
+            "20220507+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Senior Russian lawmaker says US directly involved in Ukraine fighting.txt+eventbasecode112+eventcode112+avgtone0.4804964539007092+goldsteinscale0.4+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.023026315789473683+news_keywords+['nato:0.4115', 'kyiv:0.3637', 'unprovoked:0.2607', 'operation:0.2319', 'involve:0.2266', 'coup:0.2157', 'adviser:0.2104', 'coordinate:0.2087', 'ally:0.2048', 'fascist:0.2011', 'president:0.1951', 'accuse:0.1932', 'volodin:0.182', 'telegram:0.1788', 'aggression:0.1746', 'direct:0.1683', 'help:0.1462', 'baseless:0.142', 'foreign:0.1274', 'reference:0.1198', 'states:0.1136', 'supply:0.1134', 'write:0.1011', 'hold:0.0822', 'fled:0.0813', 'data:0.0706', 'saturday:0.0593', 'channel:0.0572', 'lower:0.0483', 'million:0.0327']+titles_keywords+['russian:0.3768', 'fighting:0.2167', 'lawmaker:0.2162', 'says:0.0936', 'directly:0.0802']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20211118+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Putin says West taking Russias red lines too lightly.txt+eventbasecode112+eventcode112+avgtone0.4818181818181818+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.006578947368421052+news_keywords+['kremlin:0.4919', 'moscow:0.4337', 'nato:0.4106', 'dmitry:0.376', 'war:0.2837', 'border:0.2803', 'strategic:0.2761', 'concern:0.2615', 'cybersecurity:0.2345', 'line:0.2322', 'talk:0.2206', 'crisis:0.2201', 'destabilise:0.2123', 'expand:0.2099', 'relation:0.2092', 'president:0.206', 'overstep:0.1882', 'form:0.1802', 'red:0.1739', 'range:0.1651', 'shall:0.1575', 'states:0.1432', 'week:0.1427', 'sharpen:0.1414', 'televise:0.1282', 'accuse:0.1271', 'cold:0.1263', 'level:0.1213', 'list:0.1081', 'generally:0.1009']+titles_keywords+['putin:0.4534', 'lines:0.2965', 'lightly:0.2117', 'red:0.1732', 'says:0.0699']"
+        ]
+    ]
+}

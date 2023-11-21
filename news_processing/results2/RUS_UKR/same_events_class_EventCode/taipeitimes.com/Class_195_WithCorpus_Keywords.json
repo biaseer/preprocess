@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+195":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/taipeitimes.com/Ukraine repels attacks Mariupol plant battle rages.txt+eventbasecode195+eventcode195+avgtone0.4604051565377532+goldsteinscale0.0+nummentions0.036284470246734396+numarticles0.03698332124728064+numsources0.13157894736842105+news_keywords+['kyiv:0.487', 'kremlin:0.4132', 'russias:0.3703', 'battle:0.3146', 'disrupt:0.3033', 'bombardment:0.2925', 'military:0.2788', 'separatist:0.2453', 'progress:0.2364', 'celebrate:0.2311', 'prepares:0.2307', 'school:0.2192', 'railroad:0.2179', 'switch:0.2166', 'sprawl:0.2139', 'bunker:0.2077', 'eastern:0.2008', 'siren:0.1915', 'order:0.1912', 'resume:0.1905', 'bloody:0.19', 'donbas:0.1841', 'early:0.1791', 'safe:0.1655', 'focus:0.1567', 'anew:0.1552', 'arm:0.1487', 'bogged:0.147', 'past:0.137', 'week:0.1357']+titles_keywords+['ukraine:0.4188', 'mariupol:0.3484', 'plant:0.3245', 'attacks:0.3162', 'battle:0.3134']"
+        ]
+    ],
+    "UKR+RUS+195":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/taipeitimes.com/Putin can win the battle in Kyiv but not the war.txt+eventbasecode195+eventcode195+avgtone0.4762396694214876+goldsteinscale0.0+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.003289473684210526+news_keywords+['kyiv:0.5119', 'ukraines:0.4869', 'putin:0.4697', 'soviet:0.458', 'battle:0.3032', 'strategist:0.2866', 'commanding:0.2753', 'appeasement:0.2649', 'cyberattack:0.248', 'occupy:0.2313', 'prepare:0.2083', 'involve:0.2009', 'success:0.1992', 'turn:0.1947', 'westward:0.1898', 'long:0.1789', 'count:0.1714', 'repel:0.1709', 'editorial:0.1691', 'vivid:0.1567', 'range:0.1512', 'fact:0.1486', 'huddle:0.1459', 'replace:0.143', 'glossing:0.1378', 'uncertain:0.1295', 'major:0.1261', 'commodity:0.1237', 'altogether:0.1232', 'exactly:0.1212']+titles_keywords+['putin:0.4958', 'kyiv:0.4742', 'war:0.337', 'battle:0.3332', 'win:0.3026']"
+        ]
+    ]
+}

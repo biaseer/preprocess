@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/wallstreetrebel.com/Annual Victory Day Commemoration Speech Fall.txt+eventbasecode51+eventcode51+avgtone0.4753086419753087+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4858', 'kyiv:0.4237', 'commemoration:0.3838', 'war:0.3313', 'zelensky:0.2892', 'volodymyr:0.2427', 'reiterate:0.2382', 'speech:0.2381', 'monday:0.2086', 'conclusion:0.2055', 'motherland:0.2', 'annihilation:0.1958', 'th:0.1757', 'deliver:0.1748', 'wrap:0.1743', 'raucous:0.1682', 'annual:0.1622', 'big:0.1616', 'ally:0.1612', 'allegation:0.1607', 'deteriorate:0.1557', 'past:0.1534', 'compare:0.1514', 'view:0.1493', 'treatment:0.1474', 'counteroffensive:0.1411', 'additional:0.1409', 'gain:0.1339', 'implicit:0.1239', 'mister:0.1065']+titles_keywords+['commemoration:0.5375', 'speech:0.4678', 'victory:0.3635', 'annual:0.2669', 'fall:0.2633']"
+        ]
+    ],
+    "USA+RUS+51":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/wallstreetrebel.com/US Cyber Command Confirms Offensive Hacking Operation Against Russia.txt+eventbasecode51+eventcode51+avgtone0.4908883826879271+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['cybersecurity:0.5851', 'dod:0.4055', 'fbi:0.3406', 'moscow:0.319', 'redeployment:0.3047', 'command:0.289', 'information:0.2849', 'combatant:0.2837', 'threat:0.2768', 'uscybercom:0.2747', 'coordinate:0.2458', 'president:0.2429', 'missions:0.2403', 'operational:0.2299', 'develop:0.2113', 'states:0.2096', 'forward:0.1982', 'ce:0.1912', 'authorize:0.1892', 'actionable:0.1866', 'confirms:0.1808', 'integrate:0.1691', 'midterm:0.1681', 'nakasone:0.1678', 'wednesday:0.1619', 'th:0.1451', 'cryptologicsignals:0.1258', 'include:0.1194', 'big:0.1192', 'exactly:0.0915']+titles_keywords+['cyber:0.2864', 'russia:0.2394', 'command:0.1987', 'confirms:0.171', 'offensive:0.1683']"
+        ]
+    ]
+}

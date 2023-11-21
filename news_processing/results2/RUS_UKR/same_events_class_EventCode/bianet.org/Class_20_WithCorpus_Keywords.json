@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+20":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/bianet.org/Turkey will use Montreux Convention to prevent escalation in Ukraine says Erdoan.txt+eventbasecode20+eventcode20+avgtone0.47630331753554506+goldsteinscale0.65+nummentions0.02830188679245283+numarticles0.029006526468455404+numsources0.06907894736842106+news_keywords+['ukraine:0.4148', 'nato:0.3822', 'turkish:0.3191', 'war:0.3051', 'escalate:0.2593', 'negotiation:0.2593', 'tayyip:0.2369', 'crisis:0.2352', 'convention:0.1925', 'erdoan:0.1814', 'president:0.1743', 'implement:0.1735', 'responsibility:0.1734', 'recep:0.1692', 'straits:0.1638', 'sanction:0.1604', 'range:0.1522', 'prevent:0.1495', 'use:0.1451', 'unacceptable:0.145', 'begin:0.1438', 'vk:0.1426', 'good:0.12', 'state:0.1056', 'say:0.1031', 'chair:0.0972', 'highlight:0.075', 'montreux:0.0721', 'praise:0.0657', 'yesterday:0.0172']+titles_keywords+['turkey:0.3573', 'escalation:0.2816', 'erdoan:0.2445', 'montreux:0.22', 'convention:0.2013']"
+        ]
+    ],
+    "WST+UKR+20":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/bianet.org/Turkeys nationalist party leader urges Russia to stop the invasion immediately.txt+eventbasecode20+eventcode20+avgtone0.4641434262948207+goldsteinscale0.65+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4742', 'nato:0.4176', 'ceasefire:0.4126', 'putin:0.4068', 'separatism:0.3906', 'invade:0.361', 'nationalist:0.3455', 'crises:0.3257', 'justify:0.2579', 'escalate:0.2327', 'scope:0.2256', 'turkeys:0.2108', 'president:0.1782', 'talk:0.1767', 'donbas:0.1699', 'polarization:0.1543', 'wrong:0.1485', 'option:0.1446', 'console:0.1433', 'suspense:0.1342', 'movement:0.134', 'recall:0.1302', 'precondition:0.1292', 'mhp:0.1151', 'curtain:0.1122', 'iron:0.1115', 'unit:0.1114', 'review:0.1068', 'new:0.0918', 'today:0.058']+titles_keywords+['nationalist:0.2982', 'russia:0.2981', 'turkeys:0.2752', 'immediately:0.2231', 'stop:0.1289']"
+        ]
+    ]
+}

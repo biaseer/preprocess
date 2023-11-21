@@ -1,0 +1,12 @@
+{
+    "RUS+BLR+80":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/thehill.com/Ukraine Moscows humanitarian corridors to Russia Belarus unacceptable.txt+eventbasecode80+eventcode80+avgtone0.46179401993355484+goldsteinscale0.75+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['evacuation:0.4933', 'kyiv:0.4634', 'belarus:0.3889', 'refugee:0.3865', 'civilians:0.385', 'putin:0.379', 'moscows:0.3787', 'corridor:0.2793', 'reuters:0.2544', 'territory:0.2234', 'pathways:0.1913', 'volodymyr:0.1724', 'begin:0.1411', 'ria:0.129', 'unacceptable:0.1229', 'order:0.1227', 'far:0.1178', 'additionally:0.1162', 'proposition:0.1039', 'use:0.1029', 'argue:0.1027', 'million:0.1016', 'deal:0.1006', 'completely:0.0856', 'defense:0.0833', 'mariupol:0.0792', 'close:0.0778', 'accord:0.0732', 'saturday:0.0553', 'ofthe:0.0542']+titles_keywords+['ukraine:0.4766', 'moscows:0.3862', 'humanitarian:0.3767', 'corridors:0.3365', 'unacceptable:0.2371']"
+        ]
+    ],
+    "RUS+DEU+80":[
+        [
+            "20210620+../news_crawling/RUS_UKR/p_articles/thehill.com/Whats Biden look like to Putin a tough guy or an easy target.txt+eventbasecode80+eventcode80+avgtone0.47809667673716005+goldsteinscale0.75+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['putin:0.5595', 'biden:0.4589', 'disinformation:0.2832', 'bidens:0.2741', 'bully:0.2471', 'escalate:0.2271', 'administration:0.2189', 'revolution:0.2167', 'meet:0.214', 'sanction:0.2124', 'economically:0.1954', 'parry:0.1945', 'imply:0.1943', 'leverage:0.1918', 'deliver:0.1861', 'shenanigan:0.1805', 'european:0.1746', 'confident:0.1726', 'pipeline:0.164', 'want:0.1612', 'cyber:0.1558', 'worrisome:0.1451', 'twitterrealktmcfarland:0.1426', 'naval:0.1396', 'similar:0.1342', 'predestine:0.1329', 'track:0.1103', 'week:0.1077', 'ransomware:0.0571', 'welcome:0.0494']+titles_keywords+['biden:0.5298', 'putin:0.5189', 'easy:0.2275', 'look:0.1921', 'guy:0.1827']"
+        ]
+    ]
+}

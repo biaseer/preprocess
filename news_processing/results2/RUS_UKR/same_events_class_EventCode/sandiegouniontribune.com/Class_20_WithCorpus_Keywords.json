@@ -1,0 +1,22 @@
+{
+    "EUR+UKR+20":[
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Russian missiles kill at least 21 in Ukraines Odesa region.txt+eventbasecode20+eventcode20+avgtone0.47413793103448276+goldsteinscale0.65+nummentions0.05878084179970972+numarticles0.05946337926033358+numsources0.08552631578947369+news_keywords+['ukraine:0.4912', 'kremlin:0.445', 'moscows:0.4048', 'airstrike:0.3844', 'pentagon:0.2999', 'zelenskyy:0.2889', 'snake:0.2873', 'separatist:0.2713', 'occupy:0.2708', 'troop:0.2464', 'news:0.2388', 'casualty:0.2272', 'fight:0.219', 'interpret:0.2045', 'refinery:0.1937', 'island:0.1927', 'flee:0.189', 'pullback:0.1867', 'kilometer:0.1661', 'reply:0.1558', 'disclose:0.1503', 'long:0.1497', 'healy:0.1452', 'weekend:0.1292', 'psychological:0.127', 'make:0.1263', 'unblock:0.1166', 'exact:0.0993', 'guide:0.0984', 'sbu:0.0801']+titles_keywords+['ukraines:0.4129', 'missiles:0.3892', 'odesa:0.2928', 'kill:0.1791', '21:0.1392']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/EXPLAINER Why Washington is boosting heavy arms for Ukraine.txt+eventbasecode20+eventcode20+avgtone0.48880179171332583+goldsteinscale0.65+nummentions0.050435413642960815+numarticles0.051124002900652644+numsources0.05592105263157895+news_keywords+['crimean:0.4581', 'pentagon:0.3736', 'drone:0.3709', 'russias:0.3565', 'invasion:0.3052', 'military:0.2876', 'howitzer:0.2629', 'maneuver:0.2607', 'tank:0.2534', 'know:0.2165', 'biden:0.2107', 'playbook:0.2091', 'multipronged:0.2032', 'administration:0.1978', 'advantage:0.1859', 'expect:0.184', 'fight:0.1778', 'proximity:0.1769', 'western:0.1736', 'stock:0.1678', 'additional:0.1675', 'explainer:0.1618', 'long:0.1541', 'help:0.152', 'thursday:0.1357', 'approve:0.1258', 'article:0.1199', 'unman:0.1001', 'largely:0.0974', 'million:0.0914']+titles_keywords+['ukraine:0.416', 'explainer:0.2515', 'arms:0.1787', 'heavy:0.1324', 'boosting:0.1165']"
+        ]
+    ],
+    "RUS+USA+20":[
+        [
+            "20211204+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Biden Putin set video call Tuesday as Ukraine tensions grow.txt+eventbasecode20+eventcode20+avgtone0.47976501305483027+goldsteinscale0.65+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.029605263157894735+news_keywords+['putin:0.5285', 'natos:0.4628', 'ukraine:0.4349', 'annexation:0.2991', 'diplomat:0.2927', 'escalation:0.2867', 'election:0.2759', 'infrastructure:0.2635', 'strategic:0.2577', 'coup:0.253', 'announcement:0.249', 'worry:0.2462', 'coordinate:0.2248', 'report:0.2211', 'soon:0.2138', 'psaki:0.2112', 'brief:0.199', 'prepared:0.1912', 'order:0.1885', 'anonymity:0.1884', 'intend:0.1823', 'cyber:0.1802', 'continue:0.1754', 'weekend:0.1717', 'volodymyr:0.1641', 'authorize:0.1396', 'make:0.1242', 'ransomware:0.1173', 'head:0.1009', 'possible:0.0986']+titles_keywords+['putin:0.3868', 'video:0.1719', 'tensions:0.1568', 'tuesday:0.1461', 'set:0.1045']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/US Ukrainian clergy flocks show support amid Russia crisis.txt+eventbasecode20+eventcode20+avgtone0.4874551971326165+goldsteinscale0.65+nummentions0.05188679245283019+numarticles0.052574329224075414+numsources0.07236842105263158+news_keywords+['ukraine:0.4827', 'orthodox:0.3966', 'moscows:0.3596', 'humanitarian:0.3109', 'invasion:0.3065', 'crisis:0.2812', 'concern:0.2633', 'oppose:0.2625', 'yuriy:0.2586', 'prepare:0.2487', 'diasporas:0.2463', 'flee:0.2402', 'repression:0.2329', 'peace:0.2279', 'parishioner:0.2103', 'headline:0.2006', 'nuclear:0.2006', 'involve:0.1853', 'fund:0.1834', 'interpret:0.1778', 'feed:0.1665', 'covid:0.1618', 'happen:0.1572', 'sell:0.1565', 'opoka:0.1424', 'ap:0.1262', 'combine:0.1226', 'longer:0.0722', 'theyre:0.0696', 'videoconference:0.0677']+titles_keywords+['ukrainian:0.3779', 'clergy:0.3358', 'flocks:0.2044', 'support:0.169', 'crisis:0.1515']"
+        ]
+    ]
+}

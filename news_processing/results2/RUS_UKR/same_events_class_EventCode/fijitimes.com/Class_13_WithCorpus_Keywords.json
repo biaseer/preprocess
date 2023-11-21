@@ -1,0 +1,12 @@
+{
+    "FJI+RUS+13":[
+        [
+            "20220704+../news_crawling/RUS_UKR/p_articles/fijitimes.com/Ukraine withdraws from battered Lysychansk city Russia claims major victory.txt+eventbasecode13+eventcode13+avgtone0.48107798165137616+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.532', 'kremlin:0.4016', 'invade:0.3193', 'lysychansk:0.3183', 'zelenskiy:0.3151', 'civilians:0.3091', 'propaganda:0.3061', 'artillery:0.2823', 'occur:0.2715', 'reuters:0.2682', 'tactic:0.2585', 'separatist:0.2545', 'assault:0.2518', 'logistics:0.2458', 'continuation:0.2319', 'rebuild:0.2122', 'shift:0.2066', 'withdraws:0.205', 'neighbouring:0.2036', 'baseless:0.1886', 'help:0.1883', 'scared:0.1817', 'long:0.1716', 'exactly:0.1595', 'home:0.1553', 'swathe:0.1473', 'major:0.1459', 'sortie:0.1397', 'focus:0.1345', 'multiple:0.0998']+titles_keywords+['ukraine:0.3826', 'lysychansk:0.3269', 'victory:0.2998', 'withdraws:0.1907', 'major:0.1623']"
+        ]
+    ],
+    "RUS+PRT+13":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/fijitimes.com/Ukraines Zelenskiy declares day of unity for Feb 16 cited as possible invasion day.txt+eventbasecode13+eventcode13+avgtone0.4830970556161395+goldsteinscale0.52+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.03289473684210526+news_keywords+['ukraines:0.4648', 'nato:0.3846', 'invade:0.3696', 'putin:0.3571', 'reuters:0.2995', 'predict:0.2607', 'crisis:0.2513', 'imminent:0.2474', 'day:0.2456', 'pentagon:0.2367', 'announce:0.2298', 'flag:0.2222', 'feb:0.2156', 'podolyak:0.2116', 'read:0.202', 'organisation:0.196', 'calm:0.1842', 'ready:0.1751', 'agreement:0.1719', 'say:0.1657', 'long:0.1612', 'continue:0.1593', 'cover:0.1389', 'yellow:0.1388', 'swap:0.1308', 'buildup:0.1204', 'billion:0.1172', 'state:0.1098', 'unless:0.0752', 'possible:0.0752']+titles_keywords+['zelenskiy:0.4239', 'ukraines:0.3797', 'invasion:0.2685', 'day:0.2517', 'feb:0.2252']"
+        ]
+    ]
+}

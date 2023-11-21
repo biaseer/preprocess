@@ -1,0 +1,17 @@
+{
+    "JPN+RUS+10":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/japantoday.com/RussoJapanese former HKT48 idol Anna Murashige reacts to hurtful online comments.txt+eventbasecode10+eventcode10+avgtone0.49221183800623053+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['ukraine:0.4258', 'russojapanese:0.3978', 'russophobia:0.3898', 'japantoday:0.3197', 'anna:0.3048', 'troll:0.2985', 'dostoevsky:0.2777', 'hiroshima:0.2757', 'genocide:0.2733', 'political:0.2637', 'murashige:0.2551', 'misinformation:0.2518', 'hkt:0.2508', 'fight:0.2399', 'subject:0.2359', 'understand:0.2208', 'react:0.2029', 'care:0.2027', 'parentage:0.1945', 'word:0.1826', 'veteran:0.163', 'turn:0.1621', 'grow:0.1605', 'like:0.1586', 'disturb:0.1572', 'far:0.144', 'true:0.1419', 'possible:0.1382', 'unseen:0.1378', 'exclude:0.1326']+titles_keywords+['murashige:0.4133', 'anna:0.3388', 'comments:0.2619', 'hurtful:0.2403', 'hkt48:0.209']"
+        ]
+    ],
+    "RUS+FRA+10":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/japantoday.com/Russia pushes into Ukraine West hits back with sanctions.txt+eventbasecode10+eventcode10+avgtone0.470010905125409+goldsteinscale0.5+nummentions0.09325108853410741+numarticles0.09390862944162437+numsources0.14802631578947367+news_keywords+['putinistan:0.5059', 'ukrainians:0.3711', 'gorbachev:0.37', 'politics:0.3491', 'blockade:0.2842', 'donald:0.2738', 'rightist:0.2647', 'paragraph:0.2589', 'playbook:0.257', 'hogwash:0.2557', 'ramble:0.2416', 'sudetenland:0.234', 'adviser:0.2292', 'botch:0.2253', 'learn:0.2225', 'direction:0.2165', 'preemptive:0.2115', 'boy:0.2073', 'twist:0.2014', 'table:0.1942', 'appear:0.1918', 'transcript:0.1876', 'gon:0.1866', 'say:0.1854', 'nbc:0.1749', 'long:0.1629', 'compare:0.1496', 'import:0.1443', 'exactly:0.142', 'shouldnt:0.0684']+titles_keywords+['ukraine:0.4166', 'sanctions:0.343', 'west:0.2045', 'hits:0.1544', 'pushes:0.1518']"
+        ]
+    ],
+    "WST+RUS+10":[
+        [
+            "20211217+../news_crawling/RUS_UKR/p_articles/japantoday.com/Russia sets out tough demands for security pact with NATO.txt+eventbasecode10+eventcode10+avgtone0.4874902267396404+goldsteinscale0.5+nummentions0.15130624092888245+numarticles0.15192168237853518+numsources0.2532894736842105+news_keywords+['natos:0.5308', 'crimea:0.4095', 'warmongering:0.3539', 'treaty:0.3417', 'vladimir:0.3387', 'authoritarian:0.3011', 'expand:0.2859', 'eastward:0.2701', 'history:0.2666', 'attack:0.246', 'disband:0.2358', 'news:0.2322', 'border:0.2257', 'enter:0.2137', 'compare:0.2057', 'semantics:0.196', 'neutral:0.1951', 'agreement:0.1949', 'want:0.1843', 'know:0.1796', 'contnued:0.1685', 'world:0.1514', 'buddy:0.1341', 'long:0.127', 'interference:0.1201', 'unbalance:0.1179', 'duscuss:0.1146', 'theyve:0.1138', 'doesnt:0.092', 'intermediate:0.0838']+titles_keywords+['nato:0.4114', 'russia:0.3102', 'demands:0.1904', 'sets:0.0981', 'tough:0.0543']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/infotel.ca/UN inspectors head to Ukraine nuclear plant in war zone.txt+eventbasecode20+eventcode20+avgtone0.4781073446327684+goldsteinscale0.65+nummentions0.3018867924528302+numarticles0.30239303843364757+numsources0.25+news_keywords+['ukraine:0.4999', 'demilitarize:0.3646', 'war:0.3523', 'nuclear:0.3437', 'iaea:0.303', 'partisans:0.2738', 'gazprom:0.273', 'yevhen:0.2552', 'pipeline:0.2533', 'visas:0.2519', 'mission:0.2277', 'watchdog:0.21', 'governor:0.1966', 'plant:0.1954', 'arrive:0.1951', 'hear:0.1878', 'continue:0.1868', 'expert:0.1796', 'town:0.1707', 'long:0.1625', 'stir:0.162', 'look:0.1619', 'like:0.1542', 'explanation:0.1534', 'week:0.1294', 'underscoring:0.1239', 'head:0.1202', 'counteroffensive:0.1034', 'pretty:0.0993', 'retake:0.0991']+titles_keywords+['ukraine:0.375', 'nuclear:0.3744', 'inspectors:0.2858', 'war:0.2519', 'zone:0.1242']"
+        ]
+    ],
+    "FRA+RUS+20":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/infotel.ca/Mexicos ruling party boosts Russia friendship committee.txt+eventbasecode20+eventcode20+avgtone0.49929971988795524+goldsteinscale0.65+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4652', 'russias:0.4452', 'soviet:0.4385', 'putin:0.4144', 'imperialist:0.3231', 'invasion:0.3152', 'militarily:0.3011', 'political:0.2848', 'coup:0.2806', 'cooperation:0.2709', 'mexican:0.2436', 'obrador:0.2364', 'veto:0.2355', 'neutral:0.2062', 'align:0.1622', 'avoid:0.1619', 'headline:0.161', 'relation:0.1605', 'long:0.1516', 'fact:0.1444', 'contradictory:0.1422', 'world:0.1322', 'wednesday:0.117', 'blame:0.114', 'increase:0.113', 'ap:0.1124', 'like:0.1057', 'ready:0.0791', 'doesnt:0.0501', 'cost:0.0099']+titles_keywords+['mexicos:0.3633', 'russia:0.2901', 'party:0.2091', 'friendship:0.1872', 'boosts:0.1255']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/infotel.ca/US Ukrainian clergy flocks show support amid Russia crisis.txt+eventbasecode20+eventcode20+avgtone0.4868839427662957+goldsteinscale0.65+nummentions0.05188679245283019+numarticles0.052574329224075414+numsources0.07236842105263158+news_keywords+['ukrainians:0.4712', 'orthodox:0.377', 'kremlin:0.3744', 'lviv:0.3632', 'refugee:0.339', 'invade:0.2933', 'scare:0.283', 'america:0.283', 'troop:0.2817', 'peace:0.2518', 'political:0.2499', 'yuriy:0.2475', 'oppose:0.2449', 'escalation:0.228', 'parishioner:0.2243', 'understand:0.2122', 'headline:0.1987', 'contact:0.1797', 'organize:0.1783', 'covid:0.1611', 'live:0.1534', 'opoka:0.1524', 'ap:0.1355', 'torn:0.1346', 'thousand:0.1248', 'ready:0.1166', 'way:0.1142', 'big:0.1081', 'weekend:0.0875', 'theyre:0.0745']+titles_keywords+['ukrainian:0.3779', 'clergy:0.3358', 'flocks:0.2044', 'support:0.169', 'crisis:0.1515']"
+        ]
+    ]
+}

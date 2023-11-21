@@ -1,0 +1,17 @@
+{
+    "CAN+RUS+43":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/leaderpost.com/Trudeau condemns egregious attack on Ukraine says Russia will suffer consequences.txt+eventbasecode43+eventcode43+avgtone0.47569113441372735+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.446', 'nato:0.3882', 'putins:0.3633', 'treaty:0.345', 'albertans:0.3374', 'attack:0.3313', 'militarily:0.3193', 'harper:0.3048', 'embargo:0.2822', 'oil:0.2668', 'stepanov:0.2486', 'unprovoked:0.2439', 'occupy:0.2215', 'headline:0.2098', 'democratic:0.2004', 'provocative:0.1996', 'ignore:0.1986', 'condemns:0.1898', 'postmedia:0.1766', 'obligation:0.1679', 'table:0.1645', 'safe:0.1311', 'soon:0.122', 'sosinternational:0.1134', 'hear:0.1083', 'information:0.1081', 'end:0.1037', 'calling:0.1009', 'unless:0.0784', 'export:0.0673']+titles_keywords+['trudeau:0.3668', 'ukraine:0.3464', 'consequences:0.3195', 'attack:0.2614', 'egregious:0.1551']"
+        ]
+    ],
+    "CAN+UKR+43":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/leaderpost.com/Mandryk Serious responses to tough issues fleeting at the legislature.txt+eventbasecode43+eventcode43+avgtone0.49349112425999997+goldsteinscale0.64+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['provincial:0.5519', 'ndps:0.5053', 'legislature:0.4101', 'postmedia:0.3665', 'political:0.3554', 'climate:0.3331', 'leadership:0.2976', 'party:0.2718', 'debate:0.2705', 'mlas:0.2689', 'adjust:0.2428', 'condescension:0.242', 'report:0.2303', 'pandemic:0.2164', 'acknowledge:0.214', 'subsidize:0.2136', 'list:0.209', 'brief:0.2042', 'guidelines:0.2037', 'phoney:0.1861', 'like:0.1799', 'relevant:0.1775', 'eyres:0.1678', 'read:0.1674', 'rail:0.162', 'theyre:0.1592', 'mandryk:0.1406', 'big:0.1305', 'goldilocks:0.1281', 'welcome:0.1211']+titles_keywords+['legislature:0.4527', 'mandryk:0.4249', 'issues:0.2751', 'fleeting:0.2677', 'tough:0.2011']"
+        ]
+    ],
+    "POL+UKR+43":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/leaderpost.com/Swift Current resident headed to Europe to assist Ukrainians.txt+eventbasecode43+eventcode43+avgtone0.5+goldsteinscale0.64+nummentions0.0050798258345428155+numarticles0.0036258158085569255+numsources0.009868421052631578+news_keywords+['organization:0.3902', 'refugee:0.3417', 'postmedia:0.3399', 'ngos:0.3382', 'plan:0.3332', 'canadians:0.324', 'facilitate:0.3228', 'community:0.2955', 'information:0.2935', 'saskatoon:0.2927', 'politics:0.2851', 'volunteer:0.2849', 'region:0.2828', 'headlinesnewsletter:0.261', 'type:0.2597', 'adjust:0.2499', 'want:0.246', 'issue:0.2381', 'behalf:0.2333', 'swift:0.2303', 'follow:0.2132', 'make:0.2117', 'head:0.2065', 'reader:0.2063', 'send:0.1954', 'right:0.1928', 'date:0.1908', 'heard:0.1808', 'dan:0.1586', 'welcome:0.1575']+titles_keywords+['ukrainians:0.4719', 'swift:0.4277', 'europe:0.3317', 'resident:0.2723', 'assist:0.1573']"
+        ]
+    ]
+}

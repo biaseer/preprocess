@@ -1,0 +1,31 @@
+{
+    "EUR+RUS+12":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/bbc.com/UN alarm as Ukraine nuclear power plant shelled again.txt+eventbasecode12+eventcode12+avgtone0.46565656565656566+goldsteinscale0.48+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['demilitarisation:0.4559', 'nuclear:0.4376', 'ukrainian:0.3317', 'safety:0.3105', 'iaea:0.3033', 'warn:0.2871', 'zelensky:0.2792', 'artillery:0.2349', 'provocation:0.2284', 'urgent:0.2281', 'mission:0.2063', 'watchdog:0.202', 'plant:0.1865', 'nearby:0.184', 'know:0.1781', 'inspect:0.1659', 'shell:0.1579', 'enerhoatom:0.1561', 'president:0.1493', 'allow:0.1475', 'irresponsible:0.1439', 'soon:0.1342', 'shift:0.1314', 'sensor:0.129', 'dnipro:0.1221', 'weld:0.1142', 'state:0.1127', 'statement:0.1035', 'new:0.0592', 'possible:0.0527']+titles_keywords+['nuclear:0.3789', 'ukraine:0.3781', 'alarm:0.2394', 'shelled:0.1584', 'plant:0.1378']"
+        ]
+    ],
+    "EUR+UKR+12":[
+        []
+    ],
+    "RUS+CHN+12":[
+        [
+            "20220812+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine war Predicting Russias next step in Ukraine.txt+eventbasecode12+eventcode12+avgtone0.48729792147806+goldsteinscale0.48+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4678', 'putin:0.4271', 'war:0.3612', 'strategic:0.3098', 'predicting:0.3015', 'modernisation:0.2673', 'information:0.2667', 'nuclear:0.261', 'redeploy:0.2442', 'map:0.2367', 'president:0.2312', 'classify:0.2059', 'concerned:0.2029', 'term:0.1825', 'oversee:0.1775', 'publish:0.1765', 'instigator:0.1682', 'imminently:0.1605', 'say:0.1539', 'donbas:0.1453', 'cyber:0.145', 'convince:0.1419', 'head:0.1361', 'big:0.1305', 'gen:0.1295', 'false:0.1286', 'interference:0.1277', 'hockenhull:0.1158', 'minutes:0.0915', 'incredible:0.0627']+titles_keywords+['ukraine:0.4807', 'russias:0.3594', 'war:0.3332', 'predicting:0.289', 'step:0.1267']"
+        ]
+    ],
+    "RUS+FIN+12":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine war Youngsters in Finland worried conflict could spread.txt+eventbasecode12+eventcode12+avgtone0.4357142857142855+goldsteinscale0.48+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['finland:0.4832', 'ukraine:0.4795', 'russia:0.4193', 'war:0.4136', 'conflict:0.3295', 'fear:0.3264', 'worry:0.3185', 'concern:0.3176', 'threat:0.3026', 'geographical:0.2918', 'border:0.2859', 'safety:0.2848', 'anxiety:0.2806', 'proximity:0.2456', 'uncertainty:0.2433', 'people:0.1979', 'news:0.193', 'world:0.1726', 'land:0.164', 'youngsters:0.1421', 'increase:0.133', 'young:0.1245', 'spread:0.1198', 'child:0.1015', 'coverage:0.099', 'share:0.0818', 'create:0.0611', 'immediate:0.0397', 'ask:0.0291']+titles_keywords+['ukraine:0.4296', 'war:0.4184', 'worried:0.278', 'youngsters:0.26', 'spread:0.1087']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine conflict Husband and father escapes back to Swansea home.txt+eventbasecode12+eventcode12+avgtone0.4732142857142857+goldsteinscale0.48+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.5261', 'odessa:0.4128', 'russian:0.3731', 'conflict:0.3677', 'escape:0.3161', 'invasion:0.3154', 'border:0.312', 'leave:0.2733', 'flight:0.2535', 'home:0.2491', 'bomb:0.2408', 'city:0.2314', 'swansea:0.2199', 'worried:0.2143', 'gegeshidze:0.2088', 'gio:0.1962', 'gower:0.1922', 'engineer:0.1905', 'scary:0.1868', 'father:0.1744', 'rachel:0.1728', 'start:0.1583', 'unbelievable:0.1562', 'hear:0.1507', 'elene:0.1477', 'manage:0.1371', 'time:0.1328', 'make:0.125', 'able:0.1116', 'man:0.067']+titles_keywords+['ukraine:0.3039', 'swansea:0.2682', 'escapes:0.2626', 'home:0.201', 'father:0.1781']"
+        ],
+        [
+            "20220614+../news_crawling/RUS_UKR/p_articles/bbc.com/Climate change New fossil fuel funding is delusional says UN chief.txt+eventbasecode12+eventcode12+avgtone0.4868651488616462+goldsteinscale0.48+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['renewables:0.4728', 'climate:0.4361', 'coal:0.3545', 'reform:0.3179', 'debate:0.3093', 'industrial:0.2938', 'bureaucracy:0.2901', 'progress:0.2755', 'reduce:0.2514', 'conference:0.2428', 'world:0.2352', 'war:0.2295', 'emission:0.2253', 'reinforce:0.2216', 'term:0.2134', 'dramatic:0.2026', 'previous:0.2017', 'fossil:0.2002', 'prepare:0.1771', 'century:0.1713', 'end:0.158', 'sharm:0.1552', 'acknowledge:0.1532', 'general:0.146', 'like:0.1449', 'seeing:0.1438', 'disconnect:0.1383', 'agree:0.1359', 'guterres:0.1249', 'import:0.1077']+titles_keywords+['fuel:0.2842', 'delusional:0.2831', 'climate:0.2569', 'says:0.1135', 'chief:0.0828']"
+        ],
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/bbc.com/As it happened Russian strike on rail station kills 22 Zelensky.txt+eventbasecode12+eventcode12+avgtone0.4697802197802198+goldsteinscale0.48+nummentions0.008345428156748911+numarticles0.009064539521392313+numsources0.009868421052631578+news_keywords+['zelensky:0.4555', 'ukraine:0.4351', 'russian:0.373', 'war:0.3383', 'kill:0.3016', 'rail:0.2952', 'strike:0.2603', 'live:0.2582', 'happen:0.247', 'station:0.2272', 'coverage:0.2093', 'page:0.2035', 'murphy:0.194', 'james:0.1862', 'close:0.1775', 'fitzgerald:0.1635', 'write:0.1613', 'catherine:0.1565', 'join:0.1472', 'today:0.1466', 'matt:0.141', 'moloney:0.1407', 'sam:0.1242', 'thanks:0.1196', 'evans:0.1026', 'hancock:0.0977', 'marita:0.0948', 'bring:0.0897']+titles_keywords+['zelensky:0.5407', 'strike:0.2741', 'rail:0.2563', 'happened:0.2272', '22:0.2207']"
+        ]
+    ]
+}

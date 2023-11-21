@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Police More than 900 civilian bodies found in Kyiv region.txt+eventbasecode51+eventcode51+avgtone0.4691409507923269+goldsteinscale0.67+nummentions0.06132075471698113+numarticles0.062001450326323426+numsources0.14473684210526316+news_keywords+['kyiv:0.5861', 'crimea:0.5215', 'russias:0.3867', 'airstrikes:0.3464', 'reznikov:0.2981', 'kill:0.2677', 'nationalist:0.267', 'annexed:0.254', 'casualty:0.2507', 'troop:0.2344', 'news:0.2272', 'diversion:0.2116', 'report:0.206', 'rubble:0.1996', 'suspect:0.19', 'victory:0.189', 'bucha:0.1745', 'street:0.1716', 'production:0.1706', 'horrific:0.17', 'telegram:0.1664', 'cite:0.1621', 'sinking:0.1481', 'data:0.1401', 'month:0.1371', 'ap:0.1331', 'significance:0.1161', 'like:0.1154', 'electric:0.0933', 'disagree:0.0678']+titles_keywords+['kyiv:0.4262', 'bodies:0.3739', 'police:0.3241', 'civilian:0.2936', '900:0.2421']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/abqjournal.com/On global holiday a terrible dream for Ukrainian women.txt+eventbasecode51+eventcode51+avgtone0.4891799544419135+goldsteinscale0.67+nummentions0.11030478955007257+numarticles0.11094996374184192+numsources0.11842105263157894+news_keywords+['refugees:0.5378', 'ukraine:0.4015', 'unicef:0.3796', 'przemysl:0.3225', 'traumatize:0.3074', 'woman:0.3066', 'conflict:0.2965', 'holiday:0.2952', 'cultural:0.2678', 'world:0.2556', 'flower:0.2483', 'travel:0.2308', 'volunteer:0.2211', 'realize:0.2118', 'greet:0.2103', 'worry:0.2', 'news:0.1944', 'child:0.1934', 'receive:0.1866', 'cross:0.1796', 'hide:0.1767', 'kind:0.16', 'shapoval:0.152', 'number:0.1407', 'end:0.1365', 'easier:0.1197', 'generally:0.1038', 'theyre:0.0925', 'wasnt:0.0745', 'doesnt:0.0535']+titles_keywords+['ukrainian:0.436', 'holiday:0.3858', 'women:0.3356', 'dream:0.2846', 'terrible:0.171']"
+        ]
+    ]
+}

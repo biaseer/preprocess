@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+20":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/engadget.com/Cyberattack hits Ukraine government websites amid tensions with Russia.txt+eventbasecode20+eventcode20+avgtone0.48037190082644626+goldsteinscale0.65+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.009868421052631578+news_keywords+['cyberattack:0.5523', 'crimea:0.3923', 'natos:0.3825', 'security:0.3496', 'government:0.3245', 'invade:0.2877', 'data:0.2454', 'alert:0.2313', 'news:0.2243', 'proxy:0.2223', 'future:0.2208', 'websites:0.2157', 'emergency:0.2132', 'engadgetyou:0.2105', 'read:0.2102', 'cnnthat:0.2047', 'historical:0.2044', 'flag:0.1929', 'aggression:0.1857', 'blame:0.1746', 'secretary:0.169', 'turn:0.1665', 'lead:0.1508', 'grid:0.1408', 'restore:0.1408', 'notpetya:0.1357', 'begin:0.1265', 'statement:0.1246', 'enhance:0.119', 'long:0.0856']+titles_keywords+['cyberattack:0.4856', 'ukraine:0.3935', 'websites:0.251', 'government:0.2368', 'hits:0.1483']"
+        ],
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/engadget.com/US and Britain blame Russia for cyberattacks on Ukraines websites.txt+eventbasecode20+eventcode20+avgtone0.4899425287356321+goldsteinscale0.65+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['cyberattacks:0.5253', 'ukrainian:0.4156', 'kremlin:0.4146', 'invade:0.3415', 'blame:0.3042', 'government:0.2818', 'malicious:0.2711', 'ip:0.2547', 'browser:0.2377', 'translate:0.2348', 'secure:0.2233', 'data:0.2114', 'engadgetyou:0.2038', 'historical:0.2023', 'news:0.1997', 'technical:0.1962', 'alert:0.1959', 'turn:0.1877', 'future:0.1799', 'biden:0.174', 'domain:0.1685', 'affected:0.158', 'restore:0.1448', 'merely:0.1381', 'obtain:0.1257', 'believe:0.1233', 'gru:0.0994', 'upload:0.0826', 'add:0.0662', 'house:0.0638']+titles_keywords+['ukraines:0.4937', 'cyberattacks:0.4359', 'blame:0.349', 'britain:0.2252', 'websites:0.1954']"
+        ]
+    ]
+}

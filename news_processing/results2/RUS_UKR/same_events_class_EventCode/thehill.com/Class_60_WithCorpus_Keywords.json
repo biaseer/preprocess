@@ -1,0 +1,25 @@
+{
+    "EUR+UKR+60":[
+        [
+            "20211211+../news_crawling/RUS_UKR/p_articles/thehill.com/From the Cold War to a hard freeze.txt+eventbasecode60+eventcode60+avgtone0.4833110814419226+goldsteinscale0.8+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['putin:0.4998', 'natos:0.4676', 'crimea:0.4539', 'diplomacy:0.3999', 'geopolitical:0.3962', 'revolution:0.2845', 'history:0.2828', 'agenda:0.2673', 'cyberattacks:0.2547', 'invasion:0.2482', 'expand:0.2396', 'weaponize:0.2367', 'event:0.2131', 'administration:0.206', 'celebrate:0.1929', 'reposition:0.1781', 'meet:0.1642', 'advantage:0.1639', 'decline:0.1589', 'volodymyr:0.1491', 'furthermore:0.1488', 'cold:0.1438', 'complete:0.137', 'th:0.1352', 'inseparable:0.1158', 'redline:0.1088', 'consistent:0.1049', 'proof:0.1011', 'indo:0.0989', 'doubtful:0.0557']+titles_keywords+['freeze:0.47', 'cold:0.3988', 'war:0.3336', 'hard:0.1888']"
+        ]
+    ],
+    "RUS+UKR+60":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/thehill.com/Democrats make global offer on government funding Ukraine COVID19 aid.txt+eventbasecode60+eventcode60+avgtone0.49671052631578944+goldsteinscale0.8+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['negotiation:0.4187', 'bipartisan:0.4093', 'senate:0.3843', 'coronavirus:0.3408', 'ukraine:0.3333', 'government:0.3121', 'funding:0.2999', 'deadline:0.2962', 'emergency:0.2931', 'stopgap:0.2799', 'enact:0.277', 'addressrussias:0.2674', 'schedule:0.2583', 'agreement:0.2532', 'expect:0.239', 'soon:0.2317', 'wrap:0.2272', 'omnibus:0.2115', 'need:0.2039', 'suppose:0.2002', 'meet:0.1992', 'invasion:0.198', 'house:0.1963', 'voteon:0.1923', 'complicating:0.1874', 'leave:0.1824', 'end:0.1795', 'similar:0.1543', 'colleague:0.1389', 'resolution:0.1296']+titles_keywords+['ukraine:0.3207', 'covid19:0.3164', 'democrats:0.3125', 'offer:0.2397', 'funding:0.2229']"
+        ],
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/thehill.com/Putins environmental crimes.txt+eventbasecode60+eventcode60+avgtone0.48169456066945604+goldsteinscale0.8+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['chernobyl:0.4976', 'kyivhadit:0.4177', 'putins:0.3612', 'pollutant:0.3065', 'protest:0.2693', 'witnessingunparalleledenvironmental:0.2679', 'political:0.2489', 'earth:0.2475', 'future:0.2443', 'concern:0.2395', 'hydropower:0.2388', 'peril:0.2315', 'accountability:0.2161', 'treatiesinclude:0.2117', 'plant:0.2056', 'destructionand:0.2055', 'waypolicies:0.1861', 'replace:0.1753', 'continue:0.1742', 'green:0.1691', 'fromthecrimea:0.1589', 'awash:0.1437', 'controlledyanukovychpacking:0.1393', 'reduce:0.1313', 'createagreen:0.1306', 'suddenly:0.1226', 'thosememories:0.1203', 'unlike:0.1187', 'thousand:0.1167', 'withwidespread:0.0081']+titles_keywords+['putins:0.4813', 'crimes:0.4536', 'environmental:0.4075']"
+        ]
+    ],
+    "UKR+RUS+60":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/thehill.com/Ukraine claims to have arrested hacker helping Russians.txt+eventbasecode60+eventcode60+avgtone0.4694915254237288+goldsteinscale0.8+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4483', 'hacker:0.378', 'nato:0.3707', 'securityagency:0.3625', 'enemy:0.28', 'detain:0.2791', 'military:0.257', 'psakiannounced:0.2522', 'zelensky:0.2507', 'invasionof:0.2478', 'biden:0.2379', 'telegram:0.2376', 'anonymously:0.2121', 'information:0.2061', 'conflict:0.2028', 'ssu:0.2003', 'law:0.1981', 'vice:0.196', 'censor:0.1836', 'command:0.1818', 'follow:0.172', 'allege:0.1695', 'visit:0.1562', 'official:0.1354', 'month:0.1314', 'photo:0.129', 'severity:0.1269', 'begin:0.1224', 'schedule:0.0663', 'nearly:0.0591']+titles_keywords+['ukraine:0.4667', 'hacker:0.321', 'arrested:0.1945', 'helping:0.0904', 'claims:0.0619']"
+        ]
+    ],
+    "WST+RUS+60":[
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/thehill.com/Experts paint dark picture for region global order if Russia invades.txt+eventbasecode60+eventcode60+avgtone0.4703417150225661+goldsteinscale0.8+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.4605', 'invade:0.3548', 'putins:0.3255', 'nato:0.2983', 'destabilizes:0.2514', 'sanctions:0.2431', 'diplomatic:0.2023', 'soon:0.1756', 'pentagon:0.1737', 'buy:0.1524', 'dark:0.137', 'zelensky:0.1347', 'biden:0.1242', 'pull:0.1241', 'know:0.124', 'align:0.1192', 'sap:0.1116', 'conclude:0.1099', 'rhetorical:0.1088', 'world:0.1015', 'bloody:0.1009', 'going:0.0964', 'long:0.0959', 'edge:0.09', 'galvanize:0.0785', 'miscalculation:0.0763', 'university:0.072', 'unless:0.0709', 'possibility:0.0601', 'hardware:0.0589']+titles_keywords+['russia:0.3732', 'invades:0.3413', 'dark:0.2538', 'order:0.1488', 'experts:0.1297']"
+        ]
+    ]
+}

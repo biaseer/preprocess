@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+871":[
+        []
+    ],
+    "RUS+UKR+871":[
+        [],
+        [],
+        [
+            "20220806+../news_crawling/RUS_UKR/p_articles/msn.com/Russian forces begin assault on two eastern Ukraine cities.txt+eventbasecode87+eventcode871+avgtone0.47516198704103674+goldsteinscale0.95+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['moscow:0.4626', 'ukraines:0.4377', 'war:0.3313', 'nuclear:0.2581', 'artillery:0.2563', 'valentyn:0.2561', 'news:0.2528', 'yurii:0.2376', 'kill:0.2349', 'concern:0.2191', 'infrastructure:0.219', 'reznichenko:0.2153', 'ongoing:0.2083', 'pervomaiskiy:0.1995', 'voltage:0.1946', 'begin:0.166', 'enterprise:0.1563', 'follow:0.1544', 'long:0.15', 'saturday:0.149', 'study:0.1435', 'near:0.137', 'acknowledge:0.1368', 'main:0.1348', 'fell:0.1338', 'polarnet:0.133', 'wont:0.12', 'grad:0.1193', 'state:0.1166', 'seriously:0.0502']+titles_keywords+['ukraine:0.3194', 'assault:0.2599', 'begin:0.1959', 'forces:0.1619', 'eastern:0.1313']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+172":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/harwichandmanningtreestandard.co.uk/Emmanuel Macron lashes UK for not doing enough for Ukraines refugees.txt+eventbasecode172+eventcode172+avgtone0.48314606741573035+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.4952', 'ukraines:0.4282', 'refugee:0.3994', 'disinformation:0.2937', 'labour:0.2873', 'invasion:0.2868', 'baseless:0.2707', 'sanction:0.2617', 'eu:0.2517', 'flee:0.2462', 'privilege:0.2453', 'mayfair:0.2224', 'secretary:0.2219', 'speaking:0.2078', 'volodymyr:0.2054', 'apply:0.1979', 'perilous:0.1979', 'news:0.1914', 'macrons:0.1877', 'biometrics:0.1701', 'plan:0.1649', 'patel:0.1604', 'perfectly:0.1603', 'qeur:0.1592', 'step:0.1563', 'forgot:0.1513', 'end:0.1479', 'welcome:0.1141', 'longer:0.1102', 'http:0.1036']+titles_keywords+['macron:0.4321', 'ukraines:0.3626', 'refugees:0.3546', 'lashes:0.2153', 'doing:0.024']"
+        ]
+    ],
+    "UKR+RUS+172":[
+        [
+            "20220813+../news_crawling/RUS_UKR/p_articles/harwichandmanningtreestandard.co.uk/Ukrainian health minister says Russian forces blocking access to medicines.txt+eventbasecode172+eventcode172+avgtone0.469283276450512+goldsteinscale0.25+nummentions0.2663280116110305+numarticles0.2668600435097897+numsources0.40131578947368424+news_keywords+['ukraine:0.4953', 'putin:0.3895', 'war:0.3537', 'humanitarian:0.3482', 'casualty:0.3327', 'invade:0.3064', 'hospital:0.2954', 'government:0.2922', 'coronavirus:0.2816', 'liashko:0.2442', 'troop:0.2321', 'health:0.2229', 'treatment:0.1851', 'subsidise:0.1754', 'corridor:0.1717', 'block:0.1616', 'misuse:0.1545', 'undergo:0.1468', 'access:0.1368', 'order:0.1304', 'displacement:0.1289', 'tell:0.1271', 'town:0.1166', 'debate:0.1129', 'million:0.1052', 'right:0.089', 'august:0.064', 'official:0.0638', 'largely:0.061', 'associated:0.0575']+titles_keywords+['ukrainian:0.407', 'medicines:0.3062', 'blocking:0.1564', 'forces:0.1157', 'minister:0.0772']"
+        ]
+    ]
+}

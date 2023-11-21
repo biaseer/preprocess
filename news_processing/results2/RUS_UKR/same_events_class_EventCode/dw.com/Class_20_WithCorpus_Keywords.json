@@ -1,0 +1,28 @@
+{
+    "DEU+RUS+20":[
+        [
+            "20220118+../news_crawling/RUS_UKR/p_articles/dw.com/Germany and NATO see real risk of UkraineRussia conflict.txt+eventbasecode20+eventcode20+avgtone0.4839203675344564+goldsteinscale0.65+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['nato:0.5233', 'diplomacy:0.3981', 'baltics:0.3741', 'kyiv:0.3596', 'invades:0.306', 'escalate:0.2329', 'deploy:0.2282', 'prepare:0.2237', 'battlegroups:0.2213', 'alert:0.2157', 'concern:0.1899', 'order:0.1888', 'psaki:0.1875', 'planning:0.18', 'ally:0.1746', 'bloc:0.1721', 'unite:0.1624', 'tosecure:0.156', 'forward:0.1511', 'interpret:0.1506', 'soon:0.1489', 'prospect:0.1342', 'speak:0.1324', 'discus:0.1283', 'general:0.1193', 'cold:0.1187', 'include:0.1176', 'stoltenberg:0.117', 'state:0.0923', 'unless:0.0788']+titles_keywords+['nato:0.4913', 'ukrainerussia:0.3735', 'risk:0.2386', 'conflict:0.2367', 'real:0.0737']",
+            "20220124+../news_crawling/RUS_UKR/p_articles/dw.com/Future MSC chief talks to DW.txt+eventbasecode20+eventcode20+avgtone0.49206349206349204+goldsteinscale0.65+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['munich:0.3697', 'ukraine:0.3453', 'heusgen:0.3099', 'conference:0.3051', 'invading:0.303', 'threat:0.2968', 'msc:0.2958', 'russia:0.293', 'security:0.284', 'christoph:0.2768', 'interview:0.2506', 'dw:0.2221', 'talk:0.2148', 'unity:0.2123', 'international:0.2071', 'future:0.2058', 'chief:0.1991', 'response:0.1836', 'designate:0.1638', 'head:0.1351', 'exclusive:0.133']+titles_keywords+['msc:0.4146', 'chief:0.3301', 'dw:0.3237', 'talks:0.2634', 'future:0.1483']"
+        ]
+    ],
+    "RUS+DEU+20":[
+        [
+            "20220716+../news_crawling/RUS_UKR/p_articles/dw.com/Russias Gazprom says no sign of Nord Steam 1 turbine.txt+eventbasecode20+eventcode20+avgtone0.4846153846153846+goldsteinscale0.65+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4584', 'putin:0.4268', 'pipeline:0.3595', 'gas:0.2872', 'trudeau:0.2824', 'gazprom:0.2745', 'siemens:0.2585', 'invasion:0.2443', 'sanction:0.2439', 'logistics:0.2379', 'nord:0.2149', 'engine:0.2103', 'allow:0.2009', 'blame:0.1622', 'despite:0.1518', 'know:0.1473', 'issue:0.1447', 'period:0.1442', 'document:0.1355', 'switch:0.1331', 'export:0.1325', 'respond:0.1258', 'conduit:0.1227', 'world:0.1214', 'federal:0.1148', 'revocable:0.104', 'unconditionally:0.095', 'backing:0.095', 'major:0.0662', 'possible:0.0656']+titles_keywords+['gazprom:0.3672', 'turbine:0.333', 'nord:0.2724', 'russias:0.2222', 'says:0.0121']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [],
+        []
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/dw.com/DW Business America.txt+eventbasecode20+eventcode20+avgtone0.5+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['gas:0.3419', 'surge:0.2824', 'ukrainian:0.2406', 'price:0.2243', 'russia:0.2091', 'high:0.1614', 'natural:0.155', 'america:0.1509', 'business:0.1249', 'suspend:0.1248', 'dw:0.1245', 'foreign:0.1232', 'west:0.1066', 'trade:0.1065', 'minister:-0.0094']+titles_keywords+['business:0.5703', 'dw:0.5334', 'america:0.3128']"
+        ]
+    ],
+    "WST+RUS+20":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/dw.com/Will Putins war go nuclear.txt+eventbasecode20+eventcode20+avgtone0.413793103448276+goldsteinscale0.65+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['nato:0.5149', 'ukraine:0.3914', 'putins:0.332', 'russia:0.3223', 'war:0.3061', 'nuclear:0.2884', 'escalation:0.2448', 'prepared:0.2435', 'conflict:0.2249', 'fight:0.1952', 'fly:0.1776', 'survival:0.1744', 'zone:0.1641', 'fear:0.1373', 'reject:0.1267', 'commander:0.1225', 'require:0.114', 'tell:0.084', 'doing:0.0766', 'national:0.0696', 'deputy:0.0433', 'dws:0.0044']+titles_keywords+['nuclear:0.4959', 'putins:0.4449', 'war:0.3789']"
+        ],
+        []
+    ]
+}

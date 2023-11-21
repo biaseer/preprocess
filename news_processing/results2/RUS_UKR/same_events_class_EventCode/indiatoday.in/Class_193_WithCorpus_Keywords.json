@@ -1,0 +1,20 @@
+{
+    "EUR+RUS+193":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Europes largest nuclear power plant on fire after Russian attack says Energodar mayor.txt+eventbasecode193+eventcode193+avgtone0.46508379888268153+goldsteinscale0.0+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4861', 'chernobyl:0.4302', 'kremlin:0.418', 'nuclear:0.3556', 'invasion:0.3209', 'oligarch:0.3195', 'nationalist:0.2834', 'reuters:0.2829', 'zelenskyy:0.2486', 'read:0.2273', 'military:0.2198', 'destroy:0.2155', 'unfolds:0.215', 'conflict:0.2038', 'enter:0.194', 'tank:0.1918', 'plant:0.1831', 'sanction:0.1826', 'casualty:0.1816', 'energodar:0.1684', 'friday:0.1667', 'end:0.1552', 'look:0.1415', 'world:0.14', 'building:0.1279', 'big:0.1214', 'points:0.1063', 'capability:0.1039', 'direct:0.097', 'million:0.0878']+titles_keywords+['nuclear:0.3758', 'energodar:0.2698', 'largest:0.2581', 'attack:0.2052', 'mayor:0.1865']"
+        ]
+    ],
+    "RUS+UKR+193":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Ukrainian forces shoot down Russian aircraft on outskirts of Chernihiv VIDEO.txt+eventbasecode193+eventcode193+avgtone0.4921465968586387+goldsteinscale0.0+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.013157894736842105+news_keywords+['ukraine:0.5026', 'chernihiv:0.387', 'russian:0.373', 'helicopter:0.3515', 'mykolaiv:0.3499', 'india:0.1957', 'attack:0.1902', 'operation:0.1683', 'shoot:0.1588', 'government:0.1378', 'incident:0.1371', 'visa:0.1277', 'atms:0.1197', 'outskirt:0.1086', 'video:0.1052', 'place:0.092', 'northern:0.0861', 'make:0.0724', 'saturday:0.0714', 'say:0.0626', 'lightly:0.0538', 'statement:0.0537', 'force:0.0469', 'tweet:0.0437', 'web:0.0433', 'partner:0.04', 'bring:0.0375', 'total:0.0222', 'suspend:0.0179', 'longer:0.0097']+titles_keywords+['chernihiv:0.4334', 'ukrainian:0.4125', 'aircraft:0.2226', 'video:0.2157', 'shoot:0.15']"
+        ],
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Survivors of Russian bombings cling on in flattened flats.txt+eventbasecode193+eventcode193+avgtone0.4847775175644028+goldsteinscale0.0+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.009868421052631578+news_keywords+['kyiv:0.5376', 'kremlin:0.4196', 'sobistiyanska:0.373', 'survivors:0.3369', 'rebuild:0.3232', 'war:0.2932', 'chernigiv:0.2932', 'flee:0.2585', 'mortar:0.2529', 'barricade:0.2391', 'table:0.2382', 'assistance:0.2378', 'corridor:0.2241', 'north:0.2214', 'know:0.2106', 'read:0.2018', 'apartment:0.2013', 'overlook:0.1887', 'historic:0.1843', 'end:0.168', 'blast:0.1601', 'completely:0.1565', 'function:0.1562', 'story:0.1562', 'fell:0.15', 'broader:0.1438', 'april:0.1358', 'lakh:0.1274', 'desna:0.1111', 'beautiful:0.0793']+titles_keywords+['survivors:0.4711', 'bombings:0.431', 'flats:0.3606', 'russian:0.3474', 'cling:0.2426']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Ukrainian forces claim to shoot down two Russian aircraft capture pilots.txt+eventbasecode193+eventcode193+avgtone0.4846938775510205+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4508', 'chernobyl:0.3729', 'krivolapov:0.3026', 'kill:0.2499', 'attack:0.2367', 'rescue:0.2178', 'pilot:0.2129', 'report:0.2035', 'incident:0.1949', 'video:0.1674', 'ongoing:0.1544', 'read:0.1378', 'people:0.128', 'rubble:0.1237', 'allegedly:0.1235', 'nexta:0.1186', 'school:0.1154', 'identify:0.1084', 'tv:0.1008', 'today:0.099', 'different:0.09', 'private:0.0851', 'exactly:0.0726', 'major:0.0672', 'trap:0.0664', 'online:0.0648', 'governor:0.0648', 'physically:0.0623', 'plant:0.0543', 'outskirt:0.027']+titles_keywords+['ukrainian:0.4092', 'pilots:0.2835', 'capture:0.1808', 'shoot:0.1807', 'forces:-0.0036']"
+        ]
+    ]
+}

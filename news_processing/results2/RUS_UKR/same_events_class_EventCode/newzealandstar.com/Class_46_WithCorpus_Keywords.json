@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+46":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/newzealandstar.com/Zelenskyy Warns of Larger Russian Operations in East.txt+eventbasecode46+eventcode46+avgtone0.48180076628352486+goldsteinscale0.85+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.03289473684210526+news_keywords+['ukraine:0.4818', 'putin:0.4766', 'zelenskyy:0.3942', 'war:0.3633', 'destabilizing:0.3203', 'troop:0.2806', 'biden:0.2642', 'refugee:0.2427', 'psaki:0.2361', 'ahead:0.215', 'artillery:0.2145', 'tank:0.2133', 'warn:0.2065', 'concern:0.1987', 'speaking:0.1775', 'operations:0.173', 'secretary:0.1631', 'result:0.1628', 'ready:0.1539', 'unguided:0.1531', 'virtual:0.1507', 'discus:0.1495', 'nehammer:0.1263', 'include:0.1198', 'larger:0.1192', 'minutes:0.1155', 'week:0.1138', 'cbs:0.1037', 'purchase:0.0896', 'prime:0.0893']+titles_keywords+['zelenskyy:0.5576', 'russian:0.3227', 'warns:0.2309', 'larger:0.1683', 'east:0.1403']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20211207+../news_crawling/RUS_UKR/p_articles/newzealandstar.com/Ruble holds strong as US threatens to cut Russia off SWIFT.txt+eventbasecode46+eventcode46+avgtone0.4673913043478261+goldsteinscale0.85+nummentions0.10885341074020319+numarticles0.10949963741841914+numsources0.16447368421052633+news_keywords+['russia:0.4745', 'putin:0.4743', 'ruble:0.4342', 'threat:0.3369', 'sanction:0.3042', 'bloomberg:0.3037', 'government:0.2651', 'president:0.248', 'banking:0.2347', 'report:0.2112', 'dollar:0.2057', 'monday:0.2042', 'cite:0.2001', 'stock:0.1916', 'strengthen:0.1844', 'speculation:0.1843', 'swift:0.164', 'convert:0.1634', 'event:0.1592', 'follow:0.1566', 'plan:0.1566', 'outlet:0.1355', 'greenback:0.1287', 'decline:0.1273', 'moex:0.1242', 'reignites:0.1207', 'wide:0.1202', 'set:0.1101', 'gmt:0.096', 'benchmark:0.052']+titles_keywords+['ruble:0.4739', 'strong:0.3269', 'cut:0.2161', 'swift:0.2155', 'threatens:0.1605']"
+        ]
+    ]
+}

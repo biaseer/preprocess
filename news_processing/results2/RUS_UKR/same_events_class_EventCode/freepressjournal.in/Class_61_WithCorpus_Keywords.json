@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+61":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/European Commission President Ursula von der Leyen proposes 5th package of sanctions against Russia.txt+eventbasecode61+eventcode61+avgtone0.46610169491525427+goldsteinscale0.82+nummentions0.21734397677793904+numarticles0.21791153009427122+numsources0.18092105263157895+news_keywords+['ukraine:0.4326', 'putin:0.4264', 'sanction:0.3557', 'ban:0.266', 'coal:0.2218', 'report:0.2147', 'union:0.1598', 'import:0.1496', 'propose:0.1307', 'telegram:0.1305', 'know:0.1281', 'permit:0.1266', 'kill:0.1206', 'commission:0.1181', 'troop:0.1165', 'let:0.1078', 'evidence:0.104', 'ursula:0.0966', 'increase:0.0952', 'heinous:0.0934', 'package:0.0895', 'der:0.0893', 'vessel:0.0845', 'pressure:0.0804', 'include:0.0705', 'th:0.0689', 'pdf:0.0594', 'like:0.0497', 'earlier:0.0404', 'ani:0.0152']+titles_keywords+['sanctions:0.3551', 'von:0.276', '5th:0.2532', 'european:0.1348', 'proposes:0.1278']"
+        ]
+    ],
+    "RUS+UKR+61":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/Edible oil prices soar as RussiaUkraine conflict hits sunflower oil import.txt+eventbasecode61+eventcode61+avgtone0.4840182648401827+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['oil:0.4827', 'sunflower:0.3225', 'shortage:0.3013', 'india:0.2665', 'increase:0.2491', 'soyabean:0.2375', 'conflict:0.235', 'price:0.2232', 'russiaukraine:0.2191', 'trader:0.2086', 'pune:0.1913', 'future:0.1684', 'ani:0.1454', 'telegram:0.1395', 'stop:0.1292', 'import:0.1273', 'people:0.1258', 'poona:0.1245', 'soar:0.1188', 'share:0.1149', 'pdf:0.0958', 'common:0.095', 'rs:0.0941', 'hit:0.0877', 'earlier:0.0823', 'cross:0.0815', 'amid:0.0654', 'man:0.058', 'especially:0.0514', 'kg:0.0452']+titles_keywords+['oil:0.408', 'sunflower:0.363', 'prices:0.2597', 'conflict:0.1876', 'russiaukraine:0.1872']"
+        ],
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/Exports touch alltime high of 66965 bn in FY 202122.txt+eventbasecode61+eventcode61+avgtone0.49693877551020404+goldsteinscale0.82+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['india:0.4283', 'economy:0.4017', 'modi:0.3999', 'achieve:0.3014', 'goyal:0.295', 'disruption:0.2885', 'news:0.279', 'align:0.2504', 'telegram:0.2457', 'report:0.2321', 'responding:0.2268', 'say:0.2241', 'product:0.2179', 'grow:0.2176', 'rouble:0.2113', 'exporter:0.2103', 'covid:0.2038', 'secretary:0.2019', 'bn:0.1952', 'end:0.1728', 'fy:0.1689', 'categorically:0.1658', 'trade:0.165', 'councils:0.1551', 'level:0.1507', 'today:0.143', 'billion:0.1373', 'pdf:0.1317', 'plateform:0.1258', 'set:0.1167']+titles_keywords+['exports:0.4534', '202122:0.2896', 'bn:0.2139', '66965:0.1648', 'alltime:0.1292']"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "BLR+RUS+36":[
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/dw.com/Multiple missiles hit Kyiv district.txt+eventbasecode36+eventcode36+avgtone0.4985632183908046+goldsteinscale0.7+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.006578947368421052+news_keywords+['kyiv:0.518', 'putin:0.476', 'nato:0.4205', 'diplomatic:0.3619', 'reuters:0.3519', 'correspondent:0.305', 'deterrence:0.2684', 'evacuate:0.2684', 'opec:0.2682', 'sievierodonetsk:0.2577', 'missile:0.2488', 'report:0.2408', 'agreement:0.2302', 'table:0.2297', 'read:0.2248', 'event:0.2212', 'telegramthat:0.2206', 'update:0.2126', 'expect:0.2072', 'climate:0.2066', 'modernize:0.2054', 'sector:0.1826', 'training:0.1592', 'utc:0.1553', 'twobuildings:0.155', 'step:0.1476', 'coming:0.1458', 'center:0.129', 'plantbefore:0.1174', 'days:0.0889']+titles_keywords+['kyiv:0.5344', 'missiles:0.498', 'hit:0.2506', 'multiple:0.1607', 'district:0.1423']",
+            "20220626+../news_crawling/RUS_UKR/p_articles/dw.com/Russia to send Belarus nuclearcapable missiles.txt+eventbasecode36+eventcode36+avgtone0.4953846153846153+goldsteinscale0.7+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.006578947368421052+news_keywords+['belarus:0.4605', 'putin:0.4588', 'nato:0.4237', 'soviet:0.3957', 'missile:0.3061', 'invade:0.2525', 'nuclearcapable:0.2427', 'chernihiv:0.2349', 'tactical:0.2275', 'logistics:0.2235', 'warhead:0.2199', 'upgrade:0.2107', 'president:0.2094', 'zhytomyr:0.2016', 'plane:0.1985', 'refer:0.1819', 'february:0.181', 'send:0.1731', 'iskander:0.1706', 'buy:0.1685', 'intend:0.1586', 'kilometer:0.1459', 'meeting:0.1445', 'make:0.1332', 'ss:0.124', 'stone:0.1167', 'coming:0.1136', 'details:0.1132', 'key:0.1027', 'broadcast:0.1003']+titles_keywords+['missiles:0.399', 'belarus:0.3943', 'nuclearcapable:0.3108', 'russia:0.2817', 'send:0.2629']"
+        ]
+    ],
+    "DEU+RUS+36":[
+        []
+    ],
+    "DEU+UKR+36":[
+        [
+            "20220611+../news_crawling/RUS_UKR/p_articles/dw.com/Why Ukrainian perspectives on cinema matter.txt+eventbasecode36+eventcode36+avgtone0.4864953886693017+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukrainianculture:0.5265', 'films:0.424', 'documentary:0.3933', 'director:0.3539', 'stalin:0.3497', 'timchenko:0.3394', 'propaganda:0.3346', 'history:0.3097', 'genre:0.2933', 'portraying:0.2876', 'revolution:0.271', 'camera:0.2505', 'perspectives:0.2217', 'author:0.2181', 'translate:0.1993', 'showcase:0.1914', 'berlin:0.1857', 'pandemic:0.1822', 'scene:0.179', 'produce:0.1711', 'odesa:0.1579', 'century:0.1497', 'know:0.146', 'kinemathek:0.1401', 'shot:0.1307', 'patent:0.1304', 'longstanding:0.1185', 'series:0.1148', 'myron:0.1102', 'increase:0.0816']+titles_keywords+['cinema:0.5117', 'ukrainian:0.4638', 'perspectives:0.3832', 'matter:0.1958']"
+        ]
+    ],
+    "EST+UKR+36":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/dw.com/Germanys Scholz vows to send more weapons to Ukraine.txt+eventbasecode36+eventcode36+avgtone0.47899673735725934+goldsteinscale0.7+nummentions0.07474600870827286+numarticles0.07541696881798404+numsources0.039473684210526314+news_keywords+['ukraine:0.5022', 'nato:0.4538', 'ceasefire:0.382', 'invade:0.3533', 'steinmeier:0.3125', 'reuters:0.2977', 'escalation:0.2941', 'cyberattack:0.2726', 'tactic:0.2692', 'adviser:0.2552', 'howitzer:0.2348', 'coordinate:0.2175', 'alsoproposedswappingpolitician:0.2165', 'ambiguous:0.2129', 'prepare:0.2097', 'know:0.2077', 'commits:0.2046', 'read:0.1967', 'order:0.194', 'contact:0.1927', 'function:0.1806', 'reassess:0.1789', 'synegubov:0.1783', 'capability:0.1745', 'soon:0.1704', 'corridor:0.1701', 'additional:0.1633', 'bucha:0.1619', 'horrific:0.1486', 'price:0.0915']+titles_keywords+['scholz:0.4239', 'ukraine:0.3659', 'germanys:0.3242', 'weapons:0.3087', 'send:0.1712']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220210+../news_crawling/RUS_UKR/p_articles/dw.com/Scholz to Russia Dont underestimate our resolve.txt+eventbasecode36+eventcode36+avgtone0.484982332155477+goldsteinscale0.7+nummentions0.06095791001451379+numarticles0.06163886874546773+numsources0.06907894736842106+news_keywords+['putin:0.4327', 'nato:0.4085', 'ceasefire:0.4061', 'diplomatic:0.402', 'kyiv:0.3592', 'invade:0.3456', 'escalation:0.3402', 'tensions:0.2902', 'meeting:0.2892', 'osce:0.2604', 'order:0.2024', 'plan:0.198', 'news:0.1977', 'soon:0.1974', 'promise:0.187', 'understand:0.1769', 'week:0.1553', 'counterpart:0.1508', 'end:0.1445', 'eastern:0.1421', 'say:0.1396', 'donbass:0.1365', 'pipeline:0.1317', 'rotate:0.1141', 'scholz:0.1117', 'proposalsputin:0.1097', 'andmet:0.0958', 'send:0.0924', 'major:0.0804', 'firsthand:0.033']+titles_keywords+['scholz:0.4593', 'russia:0.3904', 'resolve:0.3043', 'underestimate:0.26', 'dont:0.172']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/dw.com/Ukraine sees escalation of offensive.txt+eventbasecode36+eventcode36+avgtone0.5+goldsteinscale0.7+nummentions0.0+numarticles0.0+numsources0.0+news_keywords+['kyiv:0.5174', 'ukraine:0.4771', 'ukrainians:0.417', 'zelenskyy:0.3671', 'russia:0.3406', 'escalation:0.2851', 'escalate:0.2798', 'capital:0.1874', 'resistance:0.1532', 'choice:0.1403', 'hit:0.1321', 'offensive:0.1289', 'president:0.1217', 'residential:0.1182', 'city:0.1167', 'country:0.101', 'building:0.0731', 'say:0.0649', 'include:0.0363']+titles_keywords+['ukraine:0.3839', 'escalation:0.3757', 'offensive:0.2201', 'sees:0.0557']"
+        ]
+    ]
+}

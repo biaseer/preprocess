@@ -1,0 +1,20 @@
+{
+    "EUR+RUS+163":[
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Sanctions on Russia pushed imports to 21year low in May.txt+eventbasecode163+eventcode163+avgtone0.47648902821316613+goldsteinscale0.1+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.006578947368421052+news_keywords+['sanctions:0.429', 'ukraine:0.4202', 'recession:0.3987', 'kremlin:0.3348', 'coal:0.3105', 'eu:0.3024', 'supply:0.2963', 'imports:0.2891', 'predict:0.2504', 'april:0.2339', 'data:0.2299', 'port:0.2119', 'attack:0.2089', 'push:0.1874', 'zero:0.1625', 'bad:0.1594', 'unaffected:0.1583', 'drop:0.1565', 'continue:0.1451', 'relation:0.1408', 'crude:0.1394', 'ana:0.1292', 'largely:0.1219', 'exclude:0.1084', 'send:0.1029', 'head:0.0987', 'major:0.0975', 'second:0.0878', 'ons:0.086', 'far:0.0529']+titles_keywords+['sanctions:0.4068', 'imports:0.2636', 'russia:0.2374', 'low:0.2281', '21year:0.175']"
+        ]
+    ],
+    "GBR+RUS+163":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Parliament rushes through economic crime reforms in response to Ukraine invasion.txt+eventbasecode163+eventcode163+avgtone0.4803664921465969+goldsteinscale0.1+nummentions0.3635703918722787+numarticles0.3640319071791153+numsources0.41118421052631576+news_keywords+['legislation:0.4119', 'reform:0.3979', 'parliamentary:0.3841', 'houses:0.3248', 'ukraine:0.3114', 'oligarchs:0.2967', 'establish:0.29', 'comply:0.2858', 'progress:0.2743', 'crime:0.2739', 'ahead:0.257', 'submit:0.2339', 'long:0.2175', 'result:0.2139', 'invasion:0.1901', 'promise:0.1869', 'midnight:0.1814', 'session:0.17', 'dispose:0.1682', 'beneficial:0.1682', 'transparency:0.1648', 'scrap:0.1614', 'period:0.154', 'opening:0.1532', 'risk:0.1468', 'week:0.1395', 'launder:0.1381', 'rapid:0.129', 'callanan:0.1193', 'true:0.0858']+titles_keywords+['ukraine:0.3721', 'reforms:0.366', 'crime:0.3179', 'invasion:0.2923', 'parliament:0.2776']"
+        ],
+        [
+            "20220629+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Search ongoing for 20 missing after Russian strike on Ukraine shopping centre.txt+eventbasecode163+eventcode163+avgtone0.4714003944773175+goldsteinscale0.1+nummentions0.1665457184325109+numarticles0.16715010877447425+numsources0.24671052631578946+news_keywords+['ukraine:0.4959', 'putins:0.4269', 'airstrike:0.3731', 'nato:0.3729', 'mykolaiv:0.3302', 'government:0.2975', 'genocide:0.2865', 'victim:0.2441', 'embattled:0.2353', 'troop:0.2295', 'conglomerate:0.2018', 'fight:0.1852', 'warn:0.1839', 'shopping:0.1657', 'swap:0.1559', 'drain:0.1558', 'left:0.154', 'statement:0.1538', 'mourn:0.1465', 'study:0.1422', 'cousin:0.138', 'long:0.1343', 'flower:0.1318', 'sure:0.1305', 'fully:0.1294', 'incremental:0.1269', 'late:0.1128', 'mr:0.1095', 'reverberate:0.0923', 'shouldnt:0.0388']+titles_keywords+['ukraine:0.3074', 'search:0.2887', 'missing:0.243', '20:0.1791', 'strike:0.1274']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/US Russia to face pressure at UN over Ukraine crisis.txt+eventbasecode163+eventcode163+avgtone0.47591623036649217+goldsteinscale0.1+nummentions0.9426705370101597+numarticles0.9427121102248006+numsources0.9243421052631579+news_keywords+['natos:0.4724', 'putin:0.3979', 'crimea:0.3975', 'war:0.3005', 'diplomatic:0.2618', 'veto:0.2516', 'cyberattacks:0.2377', 'annex:0.2236', 'unify:0.214', 'agreement:0.2024', 'crisis:0.197', 'border:0.1848', 'table:0.1842', 'behave:0.1794', 'future:0.1683', 'continue:0.1674', 'want:0.1648', 'warning:0.1616', 'volodymyr:0.1427', 'stability:0.1323', 'ready:0.1264', 'current:0.1262', 'increase:0.1262', 'explain:0.1256', 'long:0.1116', 'state:0.1107', 'promising:0.11', 'month:0.0934', 'resolution:0.0787', 'theyre:0.0266']+titles_keywords+['ukraine:0.339', 'russia:0.3088', 'pressure:0.2388', 'crisis:0.185', 'face:0.0415']"
+        ]
+    ]
+}

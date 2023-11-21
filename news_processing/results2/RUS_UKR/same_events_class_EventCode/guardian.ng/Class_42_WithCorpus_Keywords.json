@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+42":[
+        [
+            "20220423+../news_crawling/RUS_UKR/p_articles/guardian.ng/After Moscow visit UN chief to meet Zelensky in Ukraine.txt+eventbasecode42+eventcode42+avgtone0.4684873949579832+goldsteinscale0.595+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.013157894736842105+news_keywords+['ukraine:0.4401', 'putin:0.429', 'invade:0.3295', 'contact:0.2616', 'confer:0.2608', 'president:0.2593', 'peace:0.2364', 'zelensky:0.2257', 'peril:0.2254', 'secretary:0.2228', 'crisis:0.2206', 'urgent:0.2173', 'letter:0.1986', 'initiative:0.1942', 'guterres:0.1806', 'united:0.1796', 'bring:0.178', 'general:0.176', 'council:0.1685', 'week:0.1677', 'march:0.1639', 'victim:0.1614', 'end:0.1526', 'say:0.1443', 'weaken:0.1288', 'marginalize:0.1214', 'state:0.1172', 'time:0.114', 'step:0.1131', 'little:0.0567']+titles_keywords+['zelensky:0.5249', 'ukraine:0.3664', 'meet:0.2329', 'visit:0.2115', 'chief:0.1313']"
+        ]
+    ],
+    "UKR+GBR+42":[
+        [
+            "20220624+../news_crawling/RUS_UKR/p_articles/guardian.ng/Ukraines Zelensky urges Glastonbury to help end war with Russia.txt+eventbasecode42+eventcode42+avgtone0.5042016806722689+goldsteinscale0.595+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.006578947368421052+news_keywords+['ukraine:0.4764', 'glastonbury:0.4188', 'zelensky:0.4027', 'refugees:0.3152', 'pandemic:0.2786', 'volodymyr:0.2638', 'freedom:0.2593', 'parliament:0.2587', 'peace:0.2511', 'live:0.2302', 'president:0.2226', 'crowd:0.1979', 'band:0.1951', 'know:0.1647', 'world:0.1491', 'priceless:0.1487', 'southwest:0.1382', 'address:0.1374', 'video:0.1315', 'start:0.1152', 'friday:0.1064', 'make:0.1061', 'wearing:0.1052', 'return:0.0945', 'include:0.0942', 'like:0.0823', 'goer:0.0797', 'enjoy:0.077', 'measure:0.0674', 'set:0.0588']+titles_keywords+['zelensky:0.5068', 'glastonbury:0.3576', 'ukraines:0.3258', 'war:0.3041', 'end:0.1279']"
+        ]
+    ]
+}

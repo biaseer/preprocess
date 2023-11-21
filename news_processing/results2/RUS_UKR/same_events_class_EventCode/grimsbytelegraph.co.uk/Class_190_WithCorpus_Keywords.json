@@ -1,0 +1,20 @@
+{
+    "RUS+GBR+190":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/grimsbytelegraph.co.uk/UK fears underpressure Vladimir Putin could declare WWIII in just a matter of days.txt+eventbasecode190+eventcode190+avgtone0.493421052631579+goldsteinscale0.0+nummentions0.036284470246734396+numarticles0.03698332124728064+numsources0.039473684210526314+news_keywords+['putin:0.4906', 'nato:0.4282', 'moscow:0.3855', 'wwiii:0.3668', 'ukrainians:0.3646', 'nuclear:0.2783', 'threat:0.277', 'rhetoric:0.2604', 'uk:0.2293', 'expeditionary:0.226', 'tank:0.2035', 'cite:0.1949', 'day:0.1939', 'cancerous:0.1936', 'plan:0.1923', 'exercises:0.1858', 'border:0.1816', 'matter:0.1774', 'long:0.1732', 'report:0.1655', 'scale:0.1609', 'february:0.1526', 'say:0.1473', 'significant:0.1414', 'mr:0.1334', 'consolidate:0.1234', 'limpet:0.1194', 'nearly:0.093', 'believe:0.0925', 'include:0.0924']+titles_keywords+['wwiii:0.4447', 'putin:0.4118', 'underpressure:0.2193', 'uk:0.1715', 'days:0.0876']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/grimsbytelegraph.co.uk/Worlds largest cargo aircraft destroyed by Russian forces outside Kyiv say reports.txt+eventbasecode190+eventcode190+avgtone0.4988207547169812+goldsteinscale0.0+nummentions0.3149492017416546+numarticles0.31435823060188545+numsources0.4967105263157895+news_keywords+['kyiv:0.4826', 'aircraft:0.4545', 'antonov:0.4071', 'soviet:0.3979', 'destroy:0.2982', 'cargo:0.2679', 'ssr:0.2419', 'federation:0.2377', 'report:0.2221', 'dmytro:0.2164', 'arrive:0.1891', 'hit:0.1831', 'history:0.176', 'large:0.1684', 'target:0.1654', 'update:0.1531', 'occupier:0.15', 'prevail:0.1453', 'mr:0.1437', 'capability:0.1399', 'billion:0.1388', 'built:0.1362', 'world:0.1287', 'dream:0.1264', 'longer:0.1262', 'intentional:0.1213', 'task:0.1204', 'track:0.0911', 'cost:0.0823', 'monoloading:0.0808']+titles_keywords+['kyiv:0.3975', 'largest:0.3161', 'aircraft:0.3155', 'cargo:0.2346', 'destroyed:0.1933']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/grimsbytelegraph.co.uk/Russia suffered heavy losses overnight in failed Kyiv attacks claims Ukraine General.txt+eventbasecode190+eventcode190+avgtone0.45375722543352587+goldsteinscale0.0+nummentions0.11756168359941944+numarticles0.11820159535895576+numsources0.15460526315789475+news_keywords+['kyiv:0.5695', 'russian:0.3716', 'syrsky:0.3527', 'troop:0.3065', 'attack:0.2943', 'colonel:0.2755', 'failed:0.2385', 'protect:0.2301', 'capital:0.228', 'storm:0.2143', 'demoralize:0.1927', 'enemy:0.1907', 'alexander:0.1811', 'personnel:0.1783', 'exhausted:0.1778', 'overnight:0.1768', 'columns:0.1708', 'timely:0.1624', 'colonies:0.151', 'claim:0.1501', 'forces:0.131', 'suffer:0.1291', 'outskirt:0.1237', 'lead:0.1229', 'repeat:0.1229', 'decision:0.117', 'official:0.11', 'make:0.0992', 'independently:0.075', 'facebook:0.0591']+titles_keywords+['kyiv:0.4387', 'losses:0.3364', 'failed:0.1961', 'general:0.1599', 'overnight:0.0928']"
+        ],
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/grimsbytelegraph.co.uk/Ukraine war Before and after images show scale of destruction.txt+eventbasecode190+eventcode190+avgtone0.4664179104477612+goldsteinscale0.0+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.049342105263157895+news_keywords+['ukraine:0.495', 'war:0.4011', 'vladimir:0.2872', 'kharkiv:0.2547', 'bombardment:0.2472', 'humanitarian:0.2275', 'convoy:0.2033', 'government:0.2031', 'crisis:0.1909', 'earlier:0.1826', 'assault:0.1764', 'aviation:0.1688', 'advance:0.16', 'capital:0.1492', 'scar:0.1461', 'flee:0.146', 'result:0.1455', 'western:0.1425', 'far:0.1363', 'main:0.122', 'plant:0.1213', 'neighbour:0.117', 'repair:0.1079', 'waste:0.0939', 'look:0.0936', 'irpin:0.093', 'forced:0.091', 'million:0.0759', 'bid:0.062', 'slider:0.0333']+titles_keywords+['ukraine:0.3946', 'war:0.3433', 'images:0.3353', 'destruction:0.3288', 'scale:0.1346']"
+        ]
+    ]
+}

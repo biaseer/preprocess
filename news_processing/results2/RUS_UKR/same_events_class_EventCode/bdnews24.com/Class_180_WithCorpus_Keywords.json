@@ -1,0 +1,14 @@
+{
+    "RUS+UKR+180":[
+        [],
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Ukraine president Zelensky insists on meeting with Putin.txt+eventbasecode180+eventcode180+avgtone0.4748010610079575+goldsteinscale0.05+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4472', 'ukraine:0.4308', 'nato:0.3634', 'zelensky:0.344', 'meeting:0.3121', 'reconcile:0.2596', 'occupy:0.2385', 'agreement:0.224', 'separatist:0.2121', 'fight:0.2117', 'want:0.2032', 'understand:0.1927', 'troop:0.184', 'issue:0.1827', 'instead:0.1754', 'security:0.1608', 'time:0.1513', 'end:0.1512', 'certain:0.1409', 'ready:0.1394', 'predict:0.1351', 'month:0.1321', 'withdraw:0.1219', 'make:0.1216', 'believe:0.1164', 'million:0.093', 'nearly:0.0815', 'link:0.0791', 'sort:0.076', 'reach:0.0627']+titles_keywords+['zelensky:0.5939', 'putin:0.3651', 'ukraine:0.2927', 'meeting:0.2649', 'insists:0.0369']"
+        ],
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Convoy of buses on its way to besieged Mariupol Ukraine says.txt+eventbasecode180+eventcode180+avgtone0.4756097560975609+goldsteinscale0.05+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.006578947368421052+news_keywords+['ukraine:0.5009', 'convoy:0.3624', 'invasion:0.3233', 'corridor:0.3086', 'bombardment:0.2824', 'bus:0.2541', 'mariupol:0.25', 'trap:0.2423', 'strategic:0.2225', 'safe:0.2169', 'near:0.2039', 'supply:0.201', 'besiege:0.1957', 'mayor:0.1849', 'civilian:0.1816', 'begin:0.1456', 'way:0.1453', 'population:0.1398', 'target:0.1285', 'organise:0.1269', 'cross:0.1269', 'blame:0.125', 'repeated:0.1187', 'focus:0.1142', 'deny:0.1119', 'usually:0.0934', 'ago:0.0806', 'dwindle:0.0803', 'agree:0.0796', 'week:0.0791']+titles_keywords+['convoy:0.5029', 'buses:0.451', 'ukraine:0.3193', 'mariupol:0.2586', 'way:0.0706']"
+        ],
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/bdnews24.com/US bars investors from buying Russian debt stocks on secondary market.txt+eventbasecode180+eventcode180+avgtone0.48641304347826086+goldsteinscale0.05+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.006578947368421052+news_keywords+['russia:0.4831', 'rouble:0.3617', 'transact:0.3278', 'treasury:0.3235', 'investment:0.3088', 'government:0.2965', 'stock:0.2732', 'lukoil:0.2721', 'prohibit:0.2643', 'war:0.2533', 'baseless:0.2251', 'pretext:0.2179', 'unprovoked:0.217', 'demilitarise:0.2134', 'continue:0.1659', 'goal:0.1636', 'global:0.1599', 'recent:0.1581', 'seaport:0.1456', 'make:0.1371', 'measure:0.128', 'according:0.1259', 'billion:0.1248', 'january:0.1241', 'dump:0.1164', 'questions:0.1142', 'like:0.1141', 'combined:0.1113', 'possible:0.0993', 'himanshu:0.0434']+titles_keywords+['russian:0.3393', 'stocks:0.2119', 'debt:0.1147', 'secondary:0.0811', 'bars:0.0286']"
+        ]
+    ]
+}

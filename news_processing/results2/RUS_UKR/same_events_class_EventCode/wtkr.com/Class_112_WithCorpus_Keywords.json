@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/wtkr.com/YouTube begins blocking global access to Russian state media.txt+eventbasecode112+eventcode112+avgtone0.4753086419753087+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['kremlin:0.4173', 'russian:0.3778', 'youtube:0.3581', 'ukraines:0.3482', 'google:0.3181', 'block:0.2605', 'telegram:0.2502', 'rt:0.2332', 'invasion:0.2214', 'global:0.1974', 'platform:0.1756', 'content:0.1735', 'policy:0.1683', 'violate:0.1647', 'soon:0.1581', 'remove:0.1506', 'military:0.1473', 'transformation:0.1445', 'violent:0.1379', 'begin:0.1181', 'documented:0.1132', 'predict:0.1044', 'access:0.1037', 'make:0.1015', 'boston:0.1005', 'way:0.099', 'state:0.0969', 'previously:0.0888', 'event:0.0653', 'ad:0.0608']+titles_keywords+['youtube:0.3762', 'russian:0.3528', 'blocking:0.2939', 'begins:0.1132', 'state:0.1087']"
+        ],
+        [
+            "20220520+../news_crawling/RUS_UKR/p_articles/wtkr.com/US accuses Russia of weaponizing food in Ukraine war.txt+eventbasecode112+eventcode112+avgtone0.4625850340136054+goldsteinscale0.4+nummentions0.022496371552975326+numarticles0.023205221174764323+numsources0.023026315789473683+news_keywords+['ukraine:0.4265', 'weaponize:0.3329', 'war:0.3265', 'invasion:0.2716', 'accuse:0.2672', 'jeopardize:0.2409', 'supply:0.2397', 'grain:0.2279', 'unsafe:0.2279', 'hostage:0.21', 'government:0.2043', 'block:0.1952', 'blinken:0.1945', 'navigation:0.1632', 'help:0.1591', 'say:0.1572', 'world:0.1563', 'nebenzia:0.156', 'trade:0.148', 'cause:0.146', 'result:0.1458', 'secretary:0.1366', 'hold:0.1269', 'antony:0.1232', 'skyrocket:0.1222', 'thursday:0.1193', 'export:0.1043', 'million:0.0949', 'unused:0.0906', 'area:0.0819']+titles_keywords+['ukraine:0.3802', 'weaponizing:0.3322', 'war:0.2631', 'accuses:0.2457', 'food:0.2402']"
+        ]
+    ]
+}

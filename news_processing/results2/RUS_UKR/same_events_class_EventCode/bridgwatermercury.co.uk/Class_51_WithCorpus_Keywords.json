@@ -1,0 +1,17 @@
+{
+    "DEU+UKR+51":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/bridgwatermercury.co.uk/Defence minister backs Ukraine striking Russian soil with British weapons.txt+eventbasecode51+eventcode51+avgtone0.483271375464684+goldsteinscale0.67+nummentions0.15529753265602322+numarticles0.1559100797679478+numsources0.17434210526315788+news_keywords+['ukraine:0.4863', 'nato:0.4498', 'putin:0.4256', 'invade:0.4008', 'war:0.3882', 'military:0.3029', 'firepower:0.2746', 'prepare:0.2676', 'logistics:0.2657', 'oil:0.2585', 'provoking:0.2547', 'lavrovs:0.2535', 'border:0.2488', 'warn:0.2454', 'fortify:0.2378', 'news:0.2162', 'provide:0.2107', 'nonsense:0.2026', 'advantage:0.1916', 'misuse:0.1787', 'depth:0.1759', 'stormer:0.1708', 'kit:0.1635', 'shift:0.1594', 'say:0.1574', 'blame:0.1417', 'line:0.1229', 'evenly:0.1142', 'necessarily:0.0917', 'send:0.0814']+titles_keywords+['ukraine:0.3742', 'striking:0.2176', 'weapons:0.2112', 'backs:0.1292', 'minister:0.081']"
+        ]
+    ],
+    "POL+UKR+51":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/bridgwatermercury.co.uk/Russian offensive turns to key Donbas city.txt+eventbasecode51+eventcode51+avgtone0.4753086419753087+goldsteinscale0.67+nummentions0.20029027576197386+numarticles0.20087019579405366+numsources0.3026315789473684+news_keywords+['kyiv:0.509', 'russia:0.4253', 'putins:0.3935', 'war:0.3524', 'zelensky:0.2895', 'occupy:0.2674', 'artillery:0.2584', 'separatist:0.246', 'engage:0.2301', 'turn:0.2274', 'sievierodonetsk:0.2265', 'donbas:0.2242', 'industrial:0.2026', 'casualty:0.201', 'sergeant:0.1913', 'news:0.1899', 'north:0.1834', 'prosecute:0.1819', 'resume:0.1803', 'prepare:0.1733', 'extend:0.1711', 'transit:0.1604', 'kilometre:0.159', 'hear:0.1561', 'want:0.1475', 'plant:0.126', 'right:0.1221', 'large:0.1152', 'withdraw:0.1121', 'misused:0.0862']+titles_keywords+['donbas:0.447', 'russian:0.3425', 'city:0.2564', 'offensive:0.1958', 'turns:0.1459']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220826+../news_crawling/RUS_UKR/p_articles/bridgwatermercury.co.uk/Moscow film festival opens with praise of soldiers in Donbas.txt+eventbasecode51+eventcode51+avgtone0.5165562913907285+goldsteinscale0.67+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.2631578947368421+news_keywords+['moscow:0.4882', 'mikhalkov:0.3962', 'nikita:0.355', 'ukraines:0.3318', 'film:0.317', 'megerdichev:0.2796', 'anton:0.2778', 'festival:0.2701', 'donbas:0.2405', 'historical:0.1788', 'academy:0.1621', 'fight:0.1569', 'industrial:0.1523', 'hero:0.1477', 'separatist:0.134', 'representation:0.1292', 'important:0.1231', 'praise:0.1187', 'direct:0.1185', 'stay:0.1068', 'th:0.1065', 'burnt:0.0819', 'anticipate:0.075', 'issue:0.075', 'world:0.0722', 'want:0.0653', 'actually:0.0608', 'big:0.0608', 'reduce:0.0359', 'bear:0.018']+titles_keywords+['moscow:0.4091', 'festival:0.3049', 'soldiers:0.2941', 'film:0.2748', 'praise:0.2153']"
+        ]
+    ]
+}

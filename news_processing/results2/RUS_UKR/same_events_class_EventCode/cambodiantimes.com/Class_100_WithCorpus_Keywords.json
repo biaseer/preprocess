@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+100":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/cambodiantimes.com/Fears of Indiscriminate Russian Shelling Mount as Ukraine Battles On.txt+eventbasecode100+eventcode100+avgtone0.4723065250379363+goldsteinscale0.25+nummentions0.06386066763425254+numarticles0.06453952139231327+numsources0.14473684210526316+news_keywords+['kyiv:0.5255', 'putin:0.3813', 'kalashnikov:0.299', 'invasion:0.2944', 'correspondent:0.2676', 'infrastructure:0.2598', 'military:0.2556', 'strategic:0.2429', 'destroy:0.2332', 'conflict:0.2319', 'worry:0.2275', 'casualty:0.2232', 'tank:0.2223', 'intercept:0.21', 'trigger:0.2072', 'precede:0.2009', 'shift:0.1949', 'telegram:0.1948', 'stay:0.1818', 'curfew:0.1801', 'increase:0.1755', 'northern:0.1707', 'bratchuk:0.1702', 'expect:0.162', 'stock:0.1545', 'buk:0.1454', 'plant:0.1369', 'good:0.1354', 'major:0.1286', 'population:0.1139']+titles_keywords+['ukraine:0.3533', 'fears:0.3328', 'shelling:0.2339', 'indiscriminate:0.2055', 'mount:0.1588']"
+        ]
+    ],
+    "RUS+UKR+100":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/cambodiantimes.com/US allies discuss whether Blinken will meet with Lavrov as planned on Feb 24.txt+eventbasecode100+eventcode100+avgtone0.5027624309392266+goldsteinscale0.25+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.019736842105263157+news_keywords+['putin:0.4812', 'lavrov:0.3411', 'meeting:0.3295', 'donetsk:0.302', 'announce:0.2893', 'independence:0.2864', 'republic:0.283', 'ahead:0.2589', 'sputnik:0.2541', 'state:0.2394', 'msnbc:0.2223', 'advisor:0.2153', 'department:0.2071', 'blinken:0.2022', 'plan:0.1962', 'foreign:0.1928', 'decree:0.1877', 'feb:0.1768', 'security:0.1698', 'long:0.1694', 'day:0.1644', 'donbas:0.1603', 'say:0.1562', 'week:0.1525', 'significant:0.1284', 'antony:0.1281', 'sign:0.1261', 'change:0.1259', 'wake:0.1221', 'possible:0.114']+titles_keywords+['blinken:0.348', 'lavrov:0.3108', 'meet:0.2962', 'allies:0.2721', 'feb:0.1048']"
+        ]
+    ]
+}

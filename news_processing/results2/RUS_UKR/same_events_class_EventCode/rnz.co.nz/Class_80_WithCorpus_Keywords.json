@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/rnz.co.nz/Ukraine updates Day three of war with Russia dawns.txt+eventbasecode80+eventcode80+avgtone0.4693486590038314+goldsteinscale0.75+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5629', 'putin:0.4068', 'evacuation:0.3526', 'war:0.3398', 'koshytsa:0.3109', 'crisis:0.2898', 'protesters:0.2815', 'poltava:0.2742', 'read:0.2739', 'capital:0.2641', 'update:0.2469', 'escalate:0.2381', 'volodymyr:0.2353', 'nation:0.2193', 'twitter:0.2078', 'european:0.2046', 'die:0.1867', 'day:0.1819', 'dc:0.1757', 'clear:0.1725', 'february:0.1638', 'walk:0.1635', 'say:0.1568', 'woman:0.1561', 'signal:0.1547', 'fake:0.1503', 'bad:0.1478', 'area:0.1252', 'building:0.1178', 'backdrop:0.0989']+titles_keywords+['ukraine:0.4644', 'war:0.3638', 'updates:0.2434', 'day:0.166', 'dawns:0.1205']"
+        ],
+        [
+            "20220417+../news_crawling/RUS_UKR/p_articles/rnz.co.nz/Ukraine war Mariupol defenders will fight to the end PM.txt+eventbasecode80+eventcode80+avgtone0.4676409185803758+goldsteinscale0.75+nummentions0.0050798258345428155+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.5436', 'ukrainian:0.4344', 'evacuation:0.359', 'territory:0.3558', 'surrender:0.3478', 'conflict:0.319', 'mykolaiv:0.3024', 'separatist:0.3003', 'strategic:0.2585', 'zelensky:0.2562', 'kill:0.2511', 'hold:0.2158', 'governor:0.2095', 'shmyhal:0.2073', 'continue:0.2053', 'ignore:0.203', 'donbas:0.2022', 'town:0.1959', 'deadline:0.1893', 'cnn:0.1764', 'civilian:0.1741', 'open:0.1558', 'corridor:0.1459', 'eastern:0.1411', 'pm:0.1386', 'allow:0.1285', 'port:0.1209', 'steelworks:0.1209', 'possibility:0.1124', 'huge:0.0864']+titles_keywords+['ukraine:0.4556', 'fight:0.3645', 'defenders:0.2987', 'mariupol:0.2773', 'end:0.2075']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "EUR+UKR+90":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/dailyherald.com/Biden Putin should face war crimes trial for Bucha killings.txt+eventbasecode90+eventcode90+avgtone0.46145833333333336+goldsteinscale0.4+nummentions0.5264876632801161+numarticles0.5250181290790428+numsources0.46710526315789475+news_keywords+['putin:0.5421', 'kyiv:0.4407', 'genocide:0.3639', 'crime:0.3301', 'sanction:0.315', 'prosecutor:0.2916', 'investigate:0.2884', 'bucha:0.2412', 'civilian:0.2062', 'fight:0.1828', 'seat:0.1826', 'continue:0.1807', 'european:0.1781', 'commission:0.1699', 'weapon:0.1635', 'outrageous:0.1538', 'say:0.153', 'come:0.1511', 'von:0.1456', 'states:0.144', 'remark:0.143', 'envoy:0.1425', 'associated:0.1304', 'passage:0.1303', 'right:0.1238', 'month:0.116', 'plan:0.1143', 'send:0.0968', 'saw:0.0967', 'resolution:0.0819']+titles_keywords+['putin:0.4878', 'biden:0.3519', 'bucha:0.2749', 'killings:0.2705', 'trial:0.2366']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        [
+            "20220115+../news_crawling/RUS_UKR/p_articles/dailyherald.com/White House Russia prepping pretext for Ukraine invasion.txt+eventbasecode90+eventcode90+avgtone0.4750000000000001+goldsteinscale0.4+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.009868421052631578+news_keywords+['crimea:0.4678', 'putin:0.4302', 'invade:0.3913', 'nato:0.3905', 'disinformation:0.353', 'militancy:0.3461', 'diplomatic:0.3054', 'cyberattacks:0.2925', 'prepare:0.2832', 'pretext:0.2599', 'flag:0.2547', 'aggressor:0.2532', 'adviser:0.2522', 'crisis:0.2377', 'news:0.2377', 'eastward:0.2327', 'dispatch:0.2277', 'ethnic:0.218', 'groundwork:0.1882', 'write:0.1846', 'emphasize:0.1827', 'continue:0.1608', 'blame:0.1602', 'thursday:0.1598', 'long:0.1596', 'lead:0.1574', 'determine:0.1461', 'state:0.1392', 'similar:0.1152', 'deteriorate:0.0937']+titles_keywords+['pretext:0.4065', 'ukraine:0.3887', 'prepping:0.3803', 'invasion:0.3511', 'white:0.2028']"
+        ],
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/dailyherald.com/Rescuers search theater rubble as Russian attacks continue.txt+eventbasecode90+eventcode90+avgtone0.46622264509990485+goldsteinscale0.4+nummentions0.1781567489114659+numarticles0.1787527193618564+numsources0.13157894736842105+news_keywords+['kyiv:0.4968', 'putin:0.4091', 'airstrikes:0.3981', 'emergency:0.2852', 'unprovoked:0.2758', 'troop:0.2571', 'journalist:0.2569', 'disrupt:0.251', 'theater:0.2444', 'casualty:0.2441', 'survive:0.2382', 'separatist:0.2302', 'alert:0.2146', 'column:0.1784', 'progress:0.1778', 'order:0.1724', 'anonymity:0.1623', 'fell:0.1622', 'false:0.152', 'begin:0.1516', 'word:0.1483', 'ap:0.1443', 'huge:0.1415', 'ombudswoman:0.1403', 'hundreds:0.1387', 'child:0.1365', 'building:0.136', 'hour:0.1277', 'cause:0.1266', 'toll:0.1208']+titles_keywords+['rubble:0.3765', 'rescuers:0.3136', 'russian:0.2774', 'search:0.2685', 'attacks:0.2078']"
+        ]
+    ]
+}

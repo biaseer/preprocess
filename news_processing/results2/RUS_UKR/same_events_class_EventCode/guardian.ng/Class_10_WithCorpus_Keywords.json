@@ -1,0 +1,12 @@
+{
+    "RUS+EUR+10":[
+        [
+            "20211202+../news_crawling/RUS_UKR/p_articles/guardian.ng/Russia says it hopes for Putin Biden contact soon.txt+eventbasecode10+eventcode10+avgtone0.46391752577319595+goldsteinscale0.5+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.023026315789473683+news_keywords+['putin:0.4607', 'diplomatic:0.4048', 'tensions:0.3281', 'kiev:0.3125', 'biden:0.3068', 'invade:0.2621', 'meet:0.2524', 'cyberattacks:0.2431', 'contact:0.2361', 'crisis:0.2359', 'news:0.2201', 'winter:0.2092', 'argue:0.2001', 'soon:0.1942', 'week:0.1933', 'summit:0.1712', 'hop:0.1702', 'calendar:0.1698', 'align:0.1657', 'eastern:0.1637', 'alarming:0.163', 'understanding:0.1576', 'allegation:0.1512', 'say:0.1497', 'clear:0.1385', 'states:0.1376', 'continue:0.1355', 'increase:0.1209', 'bilateral:0.1192', 'agree:0.0915']+titles_keywords+['putin:0.3652', 'biden:0.3569', 'contact:0.3009', 'hopes:0.2131', 'soon:0.1829']"
+        ]
+    ],
+    "WST+RUS+10":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/guardian.ng/Biden says Putin cannot remain in power.txt+eventbasecode10+eventcode10+avgtone0.4803921568627451+goldsteinscale0.5+nummentions0.07293178519593614+numarticles0.07360406091370558+numsources0.12828947368421054+news_keywords+['putin:0.508', 'biden:0.4106', 'ukraines:0.3685', 'nato:0.3297', 'speech:0.3284', 'warsaw:0.3062', 'warn:0.2423', 'addressing:0.2311', 'say:0.2214', 'reiterate:0.2201', 'pope:0.2169', 'power:0.2164', 'sanction:0.2162', 'conclusion:0.2152', 'fight:0.2087', 'capital:0.207', 'prepare:0.1964', 'strategic:0.1746', 'counterpart:0.1623', 'territory:0.1601', 'echo:0.1586', 'remain:0.1562', 'compare:0.1553', 'world:0.1547', 'future:0.1538', 'sweep:0.1353', 'long:0.1099', 'inch:0.1087', 'brighter:0.1068', 'ordinary:0.0882']+titles_keywords+['biden:0.4921', 'putin:0.4811', 'remain:0.22', 'power:0.2039', 'says:0.0754']"
+        ]
+    ]
+}

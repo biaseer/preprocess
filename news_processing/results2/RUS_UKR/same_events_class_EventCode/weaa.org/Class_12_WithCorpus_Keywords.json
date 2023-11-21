@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/weaa.org/Russian Americans react to Russian invasion in Ukraine.txt+eventbasecode12+eventcode12+avgtone0.4625+goldsteinscale0.48+nummentions0.0602322206095791+numarticles0.05728788977519942+numsources0.08881578947368421+news_keywords+['ukrainians:0.5462', 'russian:0.498', 'putin:0.4556', 'propaganda:0.3535', 'invasion:0.3188', 'provoke:0.2348', 'npr:0.2154', 'konsevych:0.2123', 'worry:0.1846', 'report:0.1771', 'transcript:0.1751', 'neighborhood:0.1705', 'atlantic:0.1705', 'type:0.1693', 'martyshina:0.1568', 'say:0.1568', 'come:0.1519', 'difference:0.1393', 'unfold:0.1323', 'grow:0.131', 'divide:0.1262', 'old:0.1225', 'face:0.0993', 'terrible:0.0975', 'friend:0.0973', 'byline:0.096', 'choice:0.0952', 'chilly:0.0921', 'track:0.0854', 'right:0.075']+titles_keywords+['russian:0.4839', 'ukraine:0.4646', 'americans:0.3606', 'invasion:0.3472', 'react:0.1515']"
+        ]
+    ],
+    "RUS+WST+12":[
+        [
+            "20220129+../news_crawling/RUS_UKR/p_articles/weaa.org/How NATOs expansion helped drive Putin to invade Ukraine.txt+eventbasecode12+eventcode12+avgtone0.49329677026203533+goldsteinscale0.48+nummentions0.25+numarticles0.25054387237128356+numsources0.27631578947368424+news_keywords+['natos:0.5614', 'crimea:0.4041', 'gorbachev:0.3214', 'invade:0.3193', 'treaty:0.3118', 'expand:0.3', 'eastward:0.259', 'memorandum:0.2153', 'diplomat:0.2118', 'conflict:0.2046', 'timeline:0.1853', 'separatist:0.1788', 'reunify:0.1758', 'make:0.1604', 'intend:0.1573', 'refer:0.1526', 'closer:0.1431', 'turn:0.1428', 'table:0.1413', 'denuclearization:0.1316', 'imminently:0.1206', 'long:0.1196', 'factually:0.1182', 'baker:0.1105', 'creep:0.1098', 'add:0.1078', 'end:0.1056', 'unity:0.1029', 'powerful:0.0968', 'curtain:0.0771']+titles_keywords+['natos:0.5934', 'putin:0.4798', 'invade:0.4372', 'expansion:0.2901', 'helped:0.1238']"
+        ]
+    ]
+}

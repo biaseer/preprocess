@@ -1,0 +1,27 @@
+{
+    "BLR+RUS+100":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/interfax.com/Russia was forced to launch several missiles at Ukraine from Belarusian territory at start of.txt+eventbasecode100+eventcode100+avgtone0.4814814814814815+goldsteinscale0.25+nummentions0.0043541364296081275+numarticles0.0029006526468455403+numsources0.0+news_keywords+['minsk:0.4853', 'ukraine:0.4801', 'belarus:0.4715', 'chernobyl:0.456', 'lukashenko:0.4214', 'russia:0.4091', 'belarusian:0.38', 'russian:0.3671', 'missile:0.2747', 'launch:0.2552', 'operation:0.2413', 'troop:0.2096', 'president:0.1993', 'conflict:0.1922', 'rocket:0.1847', 'start:0.1599', 'journalist:0.158', 'territory:0.1563', 'alexander:0.1524', 'feb:0.1492', 'drill:0.1323', 'referendum:0.1189', 'vote:0.1182', 'near:0.1025', 'answer:0.0984', 'area:0.0974', 'sunday:0.0902', 'say:0.0599', 'interfax:0.0141', 'force:0.0095']+titles_keywords+['ukraine:0.4417', 'lukashenko:0.4066', 'missiles:0.3762', 'operation:0.1447', 'forced:0.138']"
+        ]
+    ],
+    "EUR+UKR+100":[
+        [
+            "20220610+../news_crawling/RUS_UKR/p_articles/interfax.com/Zelensky hopes EU will take historic step and prove Ukraines belonging to European family.txt+eventbasecode100+eventcode100+avgtone0.5+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4555', 'zelensky:0.3575', 'european:0.2728', 'remain:0.2581', 'volodymyr:0.1969', 'union:0.1778', 'democratic:0.1688', 'hesitant:0.1651', 'hop:0.1623', 'step:0.1496', 'copenhagen:0.1362', 'allow:0.1312', 'security:0.1273', 'attend:0.1024', 'long:0.0937', 'quote:0.0887', 'coming:0.0874', 'people:0.0865', 'skeptic:0.0856', 'prove:0.0852', 'link:0.0836', 'june:0.0735', 'historic:0.069', 'need:0.0551', 'legally:0.0508', 'deed:0.0489', 'word:0.0477', 'efficient:0.0334', 'zone:0.0309', 'interfax:-0.0018']+titles_keywords+['zelensky:0.4558', 'ukraines:0.4194', 'eu:0.3177', 'prove:0.1835', 'belonging:0.1389']"
+        ]
+    ],
+    "KGZ+RUS+100":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/interfax.com/Kyrgyzstan calls on Russia Ukraine to sit down at negotiating table.txt+eventbasecode100+eventcode100+avgtone0.4968944099378882+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyrgyzstan:0.4834', 'ukraine:0.4649', 'conflict:0.3315', 'bishkek:0.3199', 'negotiate:0.3122', 'peace:0.284', 'resolve:0.2504', 'table:0.2303', 'proceeding:0.2163', 'concern:0.2093', 'achieve:0.206', 'relation:0.1969', 'friendly:0.1914', 'stability:0.1729', 'people:0.1686', 'mechanisms:0.1658', 'development:0.1618', 'say:0.1549', 'sit:0.1506', 'suggestion:0.1298', 'proper:0.1296', 'format:0.1255', 'civilian:0.1156', 'include:0.1115', 'zone:0.0947', 'feb:0.0917', 'welcome:0.0829', 'aim:0.0771', 'historically:0.0733', 'interfax:0.0441']+titles_keywords+['kyrgyzstan:0.4252', 'negotiating:0.3309', 'table:0.2612', 'sit:0.2101', 'calls:0.0351']"
+        ]
+    ],
+    "RUS+RUS+100":[
+        [
+            "20220801+../news_crawling/RUS_UKR/p_articles/interfax.com/Putin endorses Russias Maritime Doctrine.txt+eventbasecode100+eventcode100+avgtone0.5046583850931676+goldsteinscale0.25+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.046052631578947366+news_keywords+['putin:0.4587', 'maritime:0.4012', 'russias:0.3771', 'petersburg:0.3635', 'navy:0.355', 'baltic:0.3289', 'federation:0.3014', 'sovereignty:0.2808', 'decree:0.228', 'strategic:0.2121', 'boundary:0.1445', 'emphasize:0.1346', 'order:0.1291', 'state:0.1247', 'regard:0.1243', 'bering:0.1219', 'undergo:0.1172', 'kuril:0.0994', 'museum:0.0952', 'respond:0.093', 'use:0.0929', 'signing:0.0879', 'resolutely:0.0878', 'upgrade:0.0809', 'sunday:0.0804', 'water:0.0794', 'new:0.0717', 'mark:0.0686', 'include:0.0647', 'hereto:0.0137']+titles_keywords+['putin:0.484', 'russias:0.361', 'maritime:0.3327', 'doctrine:0.2069', 'endorses:0.1989']"
+        ]
+    ],
+    "RUS+UKR+100":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/interfax.com/Russian Orthodox Church views Kyivs sanctions on Patriarch Kirill as PR campaign.txt+eventbasecode100+eventcode100+avgtone0.4707446808510638+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['orthodox:0.5403', 'vladimir:0.4227', 'kyivs:0.4145', 'patriarch:0.3579', 'sanction:0.3313', 'russia:0.2823', 'clergymen:0.2768', 'pr:0.2099', 'reconciliation:0.1977', 'political:0.1941', 'authority:0.1873', 'announcement:0.1749', 'uproar:0.1669', 'enmity:0.1574', 'unification:0.1491', 'remain:0.1462', 'telegram:0.1207', 'goal:0.1162', 'convince:0.1155', 'reiterate:0.111', 'kirill:0.1107', 'pressure:0.1074', 'step:0.1045', 'say:0.0945', 'waste:0.0915', 'primate:0.0901', 'instrument:0.0792', 'view:0.0672', 'wednesday:0.0637', 'imagine:0.0409']+titles_keywords+['orthodox:0.447', 'kyivs:0.42', 'sanctions:0.358', 'pr:0.3074', 'kirill:0.1544']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+43":[
+        [
+            "20211129+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Putin and Lukashenka schedule joint RussiaBelarus war games in new year.txt+eventbasecode43+eventcode43+avgtone0.4624183006535948+goldsteinscale0.64+nummentions0.07982583454281568+numarticles0.08049311094996374+numsources0.08552631578947369+news_keywords+['putin:0.4501', 'belarus:0.4112', 'vladimir:0.3988', 'lukashenka:0.3554', 'war:0.3452', 'russiabelarus:0.3309', 'russian:0.2951', 'petersburg:0.2848', 'meeting:0.2765', 'game:0.2497', 'schedule:0.2463', 'military:0.238', 'president:0.2331', 'coordinate:0.2172', 'february:0.1948', 'alexander:0.1674', 'hold:0.1482', 'joint:0.1397', 'official:0.1301', 'proposal:0.1125', 'wednesday:0.1102', 'early:0.0993', 'round:0.0938', 'say:0.0926', 'drill:0.0913', 'st:0.0788', 'add:0.0638', 'ap:0.0533', 'welcome:0.0393', 'new:0.0154']+titles_keywords+['putin:0.4205', 'war:0.3528', 'lukashenka:0.3373', 'schedule:0.2681', 'new:0.0814']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Fleeing to the border Some 120000 Ukrainians seek refuge with Poland and other neighbors.txt+eventbasecode43+eventcode43+avgtone0.4770932069510268+goldsteinscale0.64+nummentions0.33200290275761973+numarticles0.3216098622189993+numsources0.3881578947368421+news_keywords+['ukrainians:0.4535', 'war:0.397', 'invade:0.3791', 'russian:0.3445', 'poland:0.3289', 'troop:0.3251', 'border:0.3065', 'flee:0.2746', 'crossing:0.2705', 'train:0.2401', 'capital:0.1821', 'rush:0.1782', 'government:0.173', 'mile:0.1668', 'advance:0.1645', 'organize:0.157', 'line:0.1464', 'greet:0.144', 'thousand:0.1411', 'night:0.1305', 'long:0.1282', 'center:0.1219', 'friend:0.1122', 'press:0.1102', 'wait:0.1018', 'form:0.0962', 'ii:0.0878', 'ground:0.0826', 'relative:0.0599', 'reception:0.0503']+titles_keywords+['ukrainians:0.4958', 'fleeing:0.3692', 'poland:0.3476', 'border:0.28', '120000:0.2652']"
+        ]
+    ]
+}

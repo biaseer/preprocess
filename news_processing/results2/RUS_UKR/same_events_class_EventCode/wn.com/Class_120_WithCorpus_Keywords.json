@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/wn.com/Russia pounds Ukraine as Kyiv rejects ultimatums.txt+eventbasecode120+eventcode120+avgtone0.4759036144578313+goldsteinscale0.3+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.5735', 'ukraine:0.5451', 'moscow:0.5029', 'ukrainian:0.472', 'russia:0.4407', 'kharkiv:0.2982', 'invasion:0.2673', 'artillery:0.2232', 'ultimatums:0.2203', 'battle:0.2139', 'city:0.1815', 'reject:0.1787', 'kherson:0.1764', 'troop:0.173', 'street:0.1693', 'accuse:0.167', 'captured:0.1601', 'want:0.1554', 'president:0.1327', 'port:0.1243', 'erase:0.1095', 'sea:0.1055', 'wednesday:0.0941', 'say:0.092', 'shell:0.0904', 'pound:0.0794', 'force:0.0713', 'black:0.0647', 'seventh:0.0633', 'mass:0.0517']+titles_keywords+['kyiv:0.4897', 'russia:0.2812', 'ultimatums:0.2609', 'rejects:0.1638', 'pounds:0.1066']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220117+../news_crawling/RUS_UKR/p_articles/wn.com/Biden adviser No surprise if Russia was behind hacks.txt+eventbasecode120+eventcode120+avgtone0.48823529411764705+goldsteinscale0.3+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['biden:0.4361', 'cyberattack:0.4088', 'russia:0.3424', 'ukrainian:0.3248', 'hack:0.289', 'adviser:0.2777', 'president:0.2018', 'security:0.1975', 'joe:0.1791', 'surprise:0.1645', 'evidence:0.1579', 'washington:0.145', 'website:0.1422', 'government:0.1403', 'official:0.1165', 'sunday:0.0977', 'say:0.0934', 'deny:0.0897', 'determine:0.0879', 'work:0.0694', 'point:0.0608', 'carry:0.0504', 'national:0.048']+titles_keywords+['biden:0.4669', 'hacks:0.3058', 'russia:0.2712', 'adviser:0.2465', 'surprise:0.2178']"
+        ]
+    ]
+}

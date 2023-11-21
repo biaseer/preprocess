@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/Police More Than 900 Civilian Bodies Found in Kyiv Region.txt+eventbasecode87+eventcode874+avgtone0.46931407942238274+goldsteinscale1.0+nummentions0.07256894049346879+numarticles0.07324147933284988+numsources0.09210526315789473+news_keywords+['kyiv:0.551', 'crimea:0.526', 'russiahas:0.4542', 'airstrikes:0.3417', 'pentagon:0.3249', 'casualty:0.2895', 'falklands:0.2827', 'nationalist:0.2754', 'troop:0.2692', 'annexed:0.2653', 'journalist:0.265', 'bodies:0.2505', 'diversion:0.2315', 'bury:0.23', 'torpedoed:0.2213', 'suspect:0.2119', 'ominous:0.2065', 'anonymity:0.2023', 'cite:0.2018', 'historic:0.1817', 'dmytro:0.1728', 'theinvasionand:0.1722', 'general:0.1639', 'data:0.161', 'telegram:0.1579', 'pummel:0.1547', 'heard:0.1315', 'understand:0.1266', 'electric:0.1212', 'long:0.1173']+titles_keywords+['kyiv:0.4262', 'bodies:0.3739', 'police:0.3241', 'civilian:0.2936', '900:0.2421']"
+        ],
+        [
+            "20220702+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/Russians Press Assault on Eastern Ukrainian City.txt+eventbasecode87+eventcode874+avgtone0.4776470588235294+goldsteinscale1.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5062', 'putin:0.4166', 'airstrike:0.3411', 'syria:0.3332', 'separatists:0.2848', 'maletskyy:0.2689', 'provocation:0.2628', 'intercept:0.2563', 'strategic:0.2401', 'fight:0.2385', 'lysychansk:0.233', 'victim:0.222', 'telegram:0.2126', 'trench:0.2125', 'interpret:0.2082', 'emphasize:0.1993', 'remind:0.1974', 'turn:0.1831', 'northern:0.1787', 'recover:0.1779', 'cluster:0.1707', 'long:0.1631', 'surroundings:0.1624', 'associated:0.1529', 'pull:0.1463', 'make:0.1427', 'april:0.1383', 'general:0.1238', 'right:0.1167', 'export:0.0942']+titles_keywords+['ukrainian:0.4107', 'assault:0.3531', 'city:0.2035', 'press:0.2022', 'eastern:0.1438']"
+        ]
+    ]
+}

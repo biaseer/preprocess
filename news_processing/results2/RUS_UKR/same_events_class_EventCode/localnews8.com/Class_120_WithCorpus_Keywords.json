@@ -1,0 +1,17 @@
+{
+    "GBR+UKR+120":[
+        [
+            "20210624+../news_crawling/RUS_UKR/p_articles/localnews8.com/Russia says London has lost its manners as UK plays down Crimean naval confrontation.txt+eventbasecode120+eventcode120+avgtone0.4796747967479674+goldsteinscale0.3+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.009868421052631578+news_keywords+['crimea:0.554', 'putin:0.3549', 'annex:0.3112', 'tensions:0.3031', 'naval:0.278', 'strategic:0.2712', 'attack:0.256', 'britains:0.2459', 'implications:0.2194', 'ambassador:0.2185', 'border:0.2116', 'provocatively:0.2082', 'prepare:0.206', 'chatham:0.1987', 'nigel:0.1936', 'news:0.1832', 'narrative:0.1793', 'risky:0.1759', 'soon:0.1686', 'telegram:0.1663', 'zakharova:0.1653', 'understand:0.1528', 'notice:0.1454', 'extend:0.1351', 'say:0.1169', 'inaccurate:0.1098', 'similar:0.1048', 'willing:0.1045', 'flare:0.1042', 'iiss:0.073']+titles_keywords+['crimean:0.4208', 'london:0.3184', 'manners:0.3176', 'lost:0.0776', 'says:0.0768']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220125+../news_crawling/RUS_UKR/p_articles/localnews8.com/Ukraine will not accept concessions to Russia Foreign Minister says.txt+eventbasecode120+eventcode120+avgtone0.4800285306704708+goldsteinscale0.3+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['ukraine:0.4623', 'kremlin:0.4107', 'nato:0.4101', 'invade:0.3323', 'destabilize:0.321', 'conflict:0.3129', 'escalate:0.2889', 'plan:0.2433', 'biden:0.241', 'panic:0.2175', 'secure:0.2054', 'pledge:0.2011', 'know:0.1926', 'deal:0.1868', 'instruction:0.1839', 'flank:0.1801', 'sign:0.1689', 'cnn:0.1686', 'speak:0.1647', 'forward:0.1601', 'make:0.1547', 'follow:0.1501', 'wont:0.1308', 'uss:0.1266', 'monday:0.1237', 'possibility:0.118', 'current:0.1029', 'minor:0.0961', 'big:0.0897', 'doesnt:0.0643']+titles_keywords+['ukraine:0.4156', 'concessions:0.2503', 'accept:0.2089', 'says:0.0111', 'minister:0.0019']"
+        ]
+    ],
+    "WST+RUS+120":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/localnews8.com/Biden announces new rockets and munitions to Ukraine.txt+eventbasecode120+eventcode120+avgtone0.47416020671834624+goldsteinscale0.3+nummentions0.13425253991291727+numarticles0.1348803480783176+numsources0.11513157894736842+news_keywords+['nato:0.4688', 'ukraines:0.4063', 'readiness:0.3378', 'war:0.3202', 'biden:0.3113', 'nuclear:0.31', 'vladimir:0.3073', 'ammunition:0.2749', 'announce:0.2479', 'tank:0.2464', 'escalate:0.2383', 'inventory:0.223', 'democratic:0.2173', 'surveillance:0.2162', 'rhetoric:0.2156', 'dangerous:0.2072', 'response:0.2034', 'ally:0.1999', 'continue:0.1961', 'helicopter:0.1897', 'direction:0.1894', 'javelin:0.1828', 'additional:0.1767', 'goal:0.1737', 'precisely:0.1651', 'long:0.153', 'week:0.1384', 'th:0.1343', 'look:0.1262', 'sending:0.111']+titles_keywords+['biden:0.421', 'munitions:0.376', 'ukraine:0.3217', 'new:0.1299', 'announces:0.1281']"
+        ]
+    ]
+}

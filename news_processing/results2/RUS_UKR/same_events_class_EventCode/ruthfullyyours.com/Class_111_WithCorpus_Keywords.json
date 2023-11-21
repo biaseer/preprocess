@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/ruthfullyyours.com/The Most Dangerous Speech of the PostCold War Era By Michael Brendan Dougherty.txt+eventbasecode111+eventcode111+avgtone0.4824561403508772+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['putin:0.5891', 'bolshevik:0.435', 'nato:0.385', 'minsk:0.375', 'ukrainians:0.3686', 'diplomatic:0.3648', 'propaganda:0.3428', 'speech:0.3287', 'nationhood:0.3122', 'war:0.3067', 'escalation:0.2895', 'decommunisation:0.2864', 'pretext:0.2474', 'rant:0.2166', 'ominously:0.1952', 'fool:0.1881', 'report:0.1871', 'know:0.187', 'term:0.1831', 'postcold:0.1633', 'forward:0.1532', 'archive:0.152', 'springboard:0.15', 'current:0.1461', 'promise:0.1408', 'idea:0.1402', 'issue:0.1373', 'long:0.1301', 'century:0.1211', 'ready:0.0837']+titles_keywords+['speech:0.4412', 'war:0.3704', 'dougherty:0.3126', 'dangerous:0.2887', 'postcold:0.2681']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/ruthfullyyours.com/RUSSIA ATTACKS UKRAINE Putins decision to launch military operation draws condemnation from West.txt+eventbasecode111+eventcode111+avgtone0.47995212447636143+goldsteinscale0.4+nummentions0.04680696661828737+numarticles0.047498187092095724+numsources0.14144736842105263+news_keywords+['ukraine:0.4839', 'putins:0.4092', 'airstrikes:0.4083', 'nato:0.3984', 'evacuate:0.3165', 'readiness:0.2976', 'propaganda:0.2954', 'troop:0.2891', 'escalation:0.2799', 'government:0.2751', 'radziyevskyy:0.2734', 'divert:0.2595', 'unprovoked:0.2585', 'diplomat:0.254', 'warns:0.249', 'justify:0.2467', 'veto:0.2236', 'organize:0.2072', 'thursday:0.1711', 'yves:0.1646', 'hear:0.1599', 'ready:0.1545', 'happy:0.1507', 'long:0.1375', 'issue:0.1373', 'wont:0.1338', 'statelets:0.1173', 'major:0.093', 'draw:0.0909', 'million:0.0904']+titles_keywords+['ukraine:0.3776', 'attacks:0.2375', 'condemnation:0.1851', 'military:0.1817', 'decision:0.0982']"
+        ]
+    ]
+}

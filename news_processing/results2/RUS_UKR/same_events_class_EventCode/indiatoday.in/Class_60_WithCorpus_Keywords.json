@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+60":[
+        [
+            "20220513+../news_crawling/RUS_UKR/p_articles/indiatoday.in/More Russian soldiers refuse to fight in Ukraine.txt+eventbasecode60+eventcode60+avgtone0.46878612716763+goldsteinscale0.8+nummentions0.01269956458635704+numarticles0.013415518491660623+numsources0.009868421052631578+news_keywords+['ukraine:0.4273', 'conscripts:0.4055', 'kremlin:0.3659', 'war:0.359', 'nato:0.3376', 'sergeant:0.3261', 'brigade:0.3081', 'bokov:0.2688', 'leave:0.2257', 'option:0.2025', 'shortage:0.1908', 'willingness:0.1789', 'corroborate:0.1653', 'know:0.1649', 'prepare:0.1603', 'anecdotes:0.1484', 'short:0.1311', 'compensation:0.1251', 'arent:0.1192', 'declare:0.1189', 'units:0.1182', 'firm:0.1127', 'rotation:0.1095', 'soon:0.1056', 'send:0.1035', 'main:0.1012', 'population:0.0903', 'entitle:0.0817', 'far:0.0602', 'highlight:0.0601']+titles_keywords+['ukraine:0.3996', 'russian:0.358', 'refuse:0.349', 'soldiers:0.3487', 'fight:0.1891']"
+        ]
+    ],
+    "UKR+RUS+60":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Ukraines Kyiv prepares for major Russian assault Ground Report.txt+eventbasecode60+eventcode60+avgtone0.49+goldsteinscale0.8+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['kyiv:0.5602', 'russians:0.3844', 'war:0.362', 'frontlines:0.358', 'tanker:0.333', 'troop:0.2968', 'berezenko:0.2413', 'fight:0.2404', 'strategically:0.2353', 'prepare:0.2266', 'bomb:0.2177', 'supply:0.2013', 'gauravcsawant:0.1974', 'turn:0.1924', 'armour:0.1835', 'rain:0.1815', 'continue:0.1735', 'column:0.1717', 'kilometer:0.1711', 'india:0.1697', 'report:0.1694', 'th:0.1619', 'refuge:0.1597', 'sawant:0.1573', 'amidst:0.1458', 'middle:0.1441', 'major:0.138', 'warm:0.1151', 'today:0.074', 'pas:0.0366']+titles_keywords+['kyiv:0.5373', 'assault:0.2291', 'prepares:0.1661', 'ground:0.1446', 'major:0.1346']"
+        ],
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/indiatoday.in/RussiaUkraine What will the Victory Day unravel In our Defence Ep 05.txt+eventbasecode60+eventcode60+avgtone0.5072463768115942+goldsteinscale0.8+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4516', 'russiaukraine:0.4221', 'ukraine:0.4018', 'victory:0.3794', 'war:0.2813', 'strategic:0.2515', 'announce:0.2331', 'operation:0.2244', 'upcoming:0.2115', 'today:0.1869', 'tv:0.1589', 'source:0.1459', 'india:0.1452', 'offensive:0.1326', 'official:0.124', 'time:0.1221', 'soldier:0.1201', 'host:0.1189', 'large:0.1185', 'order:0.1164', 'bhalla:0.1067', 'speculate:0.1007', 'capable:0.0957', 'goswami:0.0946', 'issue:0.0929', 'mariupol:0.0859', 'really:0.0649', 'mount:0.0457', 'unravel:0.0382', 'hover:0.0311']+titles_keywords+['victory:0.4521', 'russiaukraine:0.4492', 'defence:0.43', '05:0.2065', 'unravel:0.1973']"
+        ]
+    ]
+}

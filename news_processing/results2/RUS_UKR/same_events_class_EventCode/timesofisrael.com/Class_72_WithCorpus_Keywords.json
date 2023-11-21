@@ -1,0 +1,22 @@
+{
+    "EUR+UKR+72":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Bolshoi scraps performances by directors critical of Russias invasion of Ukraine.txt+eventbasecode72+eventcode72+avgtone0.48170731707317066+goldsteinscale0.915+nummentions0.020682148040638608+numarticles0.02139231327048586+numsources0.02631578947368421+news_keywords+['moscow:0.4356', 'ballet:0.4311', 'serebrennikov:0.4194', 'putins:0.4068', 'performances:0.3761', 'journalism:0.2936', 'spartacus:0.281', 'bolshoi:0.2808', 'rudolf:0.2584', 'director:0.2514', 'nudity:0.2401', 'outrage:0.2242', 'homophobia:0.2178', 'gogol:0.1969', 'shame:0.1924', 'troop:0.1896', 'critical:0.1703', 'fund:0.1609', 'pro:0.1593', 'jewish:0.1576', 'speak:0.1508', 'centre:0.147', 'paywall:0.133', 'scrap:0.1283', 'world:0.1216', 'thats:0.1181', 'april:0.1162', 'like:0.0905', 'enjoy:0.0855', 'discern:0.0822']+titles_keywords+['bolshoi:0.4238', 'directors:0.3753', 'performances:0.3292', 'ukraine:0.3219', 'invasion:0.2022']"
+        ]
+    ],
+    "GBR+UKR+72":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Russian troops reluctant to engage in urban warfare due to heavy losses says UK.txt+eventbasecode72+eventcode72+avgtone0.4831365935919056+goldsteinscale0.915+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5092', 'kremlin:0.396', 'nato:0.3705', 'infantry:0.3439', 'war:0.3065', 'counterattack:0.2717', 'territory:0.2693', 'zelensky:0.2686', 'separatist:0.2639', 'accomplish:0.2254', 'donbas:0.2213', 'news:0.2198', 'read:0.2164', 'corroborate:0.2151', 'general:0.1951', 'logistical:0.1942', 'instead:0.1892', 'shift:0.1851', 'kilometer:0.1818', 'pentagons:0.1804', 'brief:0.1708', 'main:0.1651', 'enter:0.1489', 'large:0.1441', 'overextended:0.1398', 'fall:0.1247', 'willing:0.1232', 'immediately:0.1215', 'warned:0.1194', 'largely:0.102']+titles_keywords+['troops:0.3551', 'russian:0.3105', 'reluctant:0.2914', 'urban:0.161', 'says:0.0919']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220529+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/In rare denial Lavrov rejects rumors that Putin is seriously ill.txt+eventbasecode72+eventcode72+avgtone0.4646017699115045+goldsteinscale0.915+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.5528', 'lavrov:0.3737', 'moscows:0.3252', 'illness:0.3005', 'news:0.291', 'diplomat:0.2426', 'israel:0.214', 'appear:0.2131', 'deny:0.2108', 'read:0.207', 'sanction:0.2065', 'report:0.2017', 'sign:0.1994', 'sane:0.1732', 'speech:0.168', 'month:0.1648', 'times:0.157', 'speculation:0.1546', 'important:0.15', 'paywall:0.1387', 'power:0.1327', 'taboo:0.1226', 'world:0.1214', 'big:0.1135', 'accurate:0.1054', 'tf:0.096', 'decade:0.0842', 'troop:0.0808', 'dont:0.0778', 'enjoy:0.0586']+titles_keywords+['lavrov:0.4729', 'putin:0.3861', 'rumors:0.2707', 'denial:0.2377', 'ill:0.0383']"
+        ]
+    ],
+    "UKR+RUS+72":[
+        [
+            "20220614+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Ukraine says it has only received 10 of weapons pledged by West.txt+eventbasecode72+eventcode72+avgtone0.5037593984962406+goldsteinscale0.915+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4644', 'moscows:0.3305', 'news:0.294', 'army:0.2754', 'deadline:0.2644', 'pledge:0.2624', 'territory:0.2272', 'provide:0.2241', 'read:0.2235', 'jewish:0.2079', 'weapon:0.2018', 'long:0.2008', 'coverage:0.1934', 'know:0.1877', 'wait:0.1805', 'fight:0.1753', 'times:0.1658', 'pleased:0.1516', 'clear:0.1332', 'professional:0.1246', 'insightful:0.1153', 'paywall:0.1152', 'like:0.1128', 'malyar:0.1103', 'thats:0.0858', 'invite:0.0821', 'little:0.0804', 'poise:0.0718', 'cost:0.0551', 'theres:0.0465']+titles_keywords+['ukraine:0.4374', 'weapons:0.2877', 'pledged:0.2291', '10:0.2245', 'received:0.1398']"
+        ]
+    ]
+}

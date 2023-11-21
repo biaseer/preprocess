@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+14":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/voanews.com/Head of UN Food Agency Says War in Ukraine Will Lead to Worst Food Crisis.txt+eventbasecode14+eventcode14+avgtone0.45516304347826086+goldsteinscale0.5+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4185', 'war:0.3912', 'putin:0.3676', 'famine:0.3531', 'destabilization:0.3319', 'humanitarian:0.2767', 'warn:0.1961', 'supply:0.1952', 'crisis:0.1934', 'migration:0.1723', 'want:0.1672', 'good:0.1595', 'instead:0.1569', 'people:0.149', 'world:0.1465', 'plant:0.146', 'turn:0.1433', 'continue:0.1375', 'breadbasket:0.1344', 'says:0.1194', 'blame:0.1148', 'combine:0.1143', 'allow:0.1016', 'sherman:0.1002', 'million:0.0953', 'corridor:0.088', 'hysterical:0.0784', 'head:0.0674', 'squarely:0.0568', 'black:0.053']+titles_keywords+['war:0.3399', 'ukraine:0.3016', 'crisis:0.1997', 'worst:0.161', 'says:0.0608']"
+        ]
+    ],
+    "UKR+RUS+14":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/voanews.com/Iran Official Russias Demand for US Guarantees May Harm Nuclear Talks.txt+eventbasecode14+eventcode14+avgtone0.4861337683523654+goldsteinscale0.5+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['iran:0.4568', 'iaea:0.3612', 'reuters:0.2923', 'sanction:0.2778', 'agreement:0.2679', 'conflict:0.265', 'moscow:0.2608', 'roadmap:0.2591', 'talk:0.2275', 'announcement:0.2273', 'fissile:0.2225', 'table:0.1995', 'document:0.1973', 'enrichment:0.1787', 'output:0.1774', 'power:0.1768', 'important:0.1671', 'donald:0.1493', 'month:0.1491', 'vaez:0.1488', 'segregate:0.1456', 'hope:0.1323', 'reimpose:0.1322', 'global:0.1227', 'stockpile:0.1189', 'longer:0.1158', 'grossi:0.1054', 'acquire:0.0992', 'impossible:0.083', 'reach:0.0827']+titles_keywords+['russias:0.2867', 'nuclear:0.2365', 'talks:0.1996', 'guarantees:0.1857', 'official:0.063']"
+        ]
+    ]
+}

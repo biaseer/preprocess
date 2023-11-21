@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/getreading.co.uk/Asda Sainsburys Aldi and Waitrose remove Russian goods from shelves to back Ukraine.txt+eventbasecode10+eventcode10+avgtone0.5011210762331839+goldsteinscale0.5+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.039473684210526314+news_keywords+['ukraine:0.4982', 'vodka:0.4007', 'vladimir:0.3851', 'sainsbury:0.37', 'boycott:0.356', 'solidarity:0.2941', 'products:0.2836', 'crisis:0.2553', 'humanitarian:0.2539', 'government:0.2432', 'asdas:0.2388', 'order:0.2289', 'news:0.2263', 'invasion:0.2173', 'chicken:0.1829', 'make:0.1763', 'list:0.1735', 'capital:0.172', 'statement:0.156', 'good:0.1556', 'standard:0.1531', 'direct:0.1519', 'equivalent:0.1479', 'range:0.134', 'rename:0.1248', 'significant:0.1208', 'long:0.1205', 'wholly:0.1186', 'issa:0.1155', 'shelve:0.1061']+titles_keywords+['waitrose:0.4139', 'ukraine:0.3672', 'shelves:0.3491', 'goods:0.1783', 'remove:0.1385']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/getreading.co.uk/Biden Russia war amounts to genocide and Putin trying to wipe out Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4615384615384615+goldsteinscale0.5+nummentions0.3454281567489115+numarticles0.34590282813633066+numsources0.3782894736842105+news_keywords+['putin:0.492', 'genocide:0.4448', 'russias:0.3425', 'intervene:0.2791', 'controversy:0.2504', 'accuse:0.2452', 'news:0.2212', 'imply:0.2144', 'administration:0.2116', 'nuclear:0.2033', 'tutsis:0.2016', 'block:0.1899', 'europe:0.1887', 'tell:0.1808', 'example:0.1788', 'clearer:0.1775', 'bidens:0.1765', 'word:0.1761', 'learn:0.1626', 'hesitate:0.1575', 'dramatic:0.1552', 'bloody:0.155', 'articulate:0.1537', 'wipe:0.1516', 'direct:0.1287', 'month:0.1134', 'sure:0.0912', 'price:0.0736', 'mr:0.0735', 'wasnt:0.0577']+titles_keywords+['putin:0.5677', 'biden:0.4866', 'genocide:0.4681', 'wipe:0.1967', 'trying:0.1655']"
+        ]
+    ]
+}

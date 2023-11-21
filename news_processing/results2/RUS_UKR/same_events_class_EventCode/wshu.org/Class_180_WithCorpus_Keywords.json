@@ -1,0 +1,12 @@
+{
+    "UKR+BGD+180":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/wshu.org/Missile strikes in western Ukraine kill 6 as country braces for new assault in east.txt+eventbasecode180+eventcode180+avgtone0.4706943192064923+goldsteinscale0.05+nummentions0.11175616835994194+numarticles0.11240029006526468+numsources0.16776315789473684+news_keywords+['kyiv:0.5129', 'putin:0.4254', 'airstrikes:0.3825', 'azov:0.2817', 'news:0.2724', 'victory:0.2598', 'barrage:0.2374', 'railways:0.2373', 'casualty:0.2346', 'prepare:0.2292', 'troop:0.2264', 'separatist:0.2259', 'sprawl:0.2054', 'tell:0.1973', 'seize:0.1902', 'end:0.1867', 'nehammer:0.1851', 'kilometer:0.1765', 'shmyhal:0.1744', 'debris:0.1687', 'eastern:0.1665', 'donbas:0.1648', 'month:0.1617', 'increase:0.1559', 'amid:0.1516', 'basically:0.1423', 'affected:0.1389', 'plant:0.1363', 'major:0.1307', 'population:0.1131']+titles_keywords+['ukraine:0.3391', 'missile:0.2372', 'strikes:0.1254', 'braces:0.0817', 'new:0.0491']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/wshu.org/A Ukrainian boy travels 620 miles to safety with a phone number written on his.txt+eventbasecode180+eventcode180+avgtone0.51+goldsteinscale0.05+nummentions0.054426705370101594+numarticles0.05511240029006526+numsources0.10526315789473684+news_keywords+['ukrainian:0.4201', 'pisetskaya:0.4012', 'translate:0.3532', 'border:0.3233', 'embassy:0.3225', 'safety:0.3202', 'troop:0.3137', 'boy:0.3081', 'attack:0.2584', 'travel:0.2523', 'hero:0.2392', 'flee:0.2366', 'volunteer:0.2286', 'kilometer:0.2232', 'nuclear:0.2206', 'care:0.2027', 'widow:0.2004', 'hassan:0.1888', 'table:0.1831', 'relatives:0.1816', 'town:0.1747', 'telephone:0.1647', 'send:0.1601', 'video:0.1531', 'real:0.1396', 'welcome:0.132', 'able:0.1288', 'praise:0.1258', 'make:0.1142', 'old:0.1104']+titles_keywords+['ukrainian:0.3785', 'number:0.3498', 'miles:0.3307', 'boy:0.3071', 'written:0.2242']"
+        ]
+    ]
+}

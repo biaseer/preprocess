@@ -1,0 +1,20 @@
+{
+    "RUS+POL+80":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/RussiaUkraine war Key developments in the ongoing conflict.txt+eventbasecode80+eventcode80+avgtone0.47469008264499996+goldsteinscale0.75+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.009868421052631578+news_keywords+['russiaukraine:0.5463', 'putin:0.5074', 'ukraines:0.4864', 'nato:0.4121', 'war:0.3542', 'chernobyl:0.3506', 'refugee:0.341', 'zelenskyy:0.3152', 'embargo:0.313', 'evacuate:0.3113', 'news:0.267', 'alarm:0.2515', 'urgent:0.2458', 'capital:0.2439', 'deliver:0.2397', 'communication:0.2299', 'rewritten:0.2277', 'secretary:0.214', 'plan:0.2107', 'begin:0.192', 'increase:0.1878', 'say:0.1863', 'debris:0.1716', 'plant:0.1689', 'grid:0.1685', 'wednesday:0.1599', 'billion:0.1584', 'preposterous:0.1578', 'overflow:0.1545', 'theyre:0.1077']+titles_keywords+['russiaukraine:0.5219', 'war:0.4528', 'ongoing:0.2576', 'developments:0.2277', 'key:0.091']"
+        ]
+    ],
+    "RUS+UKR+80":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Live Updates Russians fight in streets of Ukrainian town.txt+eventbasecode80+eventcode80+avgtone0.47756410256410253+goldsteinscale0.75+nummentions0.10268505079825835+numarticles0.10333575054387237+numsources0.1611842105263158+news_keywords+['kremlin:0.4758', 'kyiv:0.4351', 'war:0.3052', 'destabilize:0.3049', 'syrian:0.3047', 'federation:0.2689', 'prepare:0.2639', 'telegram:0.2628', 'diplomat:0.2557', 'divert:0.2552', 'future:0.2449', 'rail:0.2293', 'publish:0.2221', 'know:0.2211', 'industrialization:0.2169', 'lengthy:0.2105', 'resume:0.2093', 'agreement:0.2075', 'climactic:0.1976', 'pledge:0.1872', 'prosecute:0.1753', 'kilometer:0.173', 'import:0.1729', 'anonymity:0.1722', 'baseless:0.1689', 'ranking:0.1561', 'additional:0.1502', 'month:0.136', 'nearly:0.1343', 'symptoms:0.1146']+titles_keywords+['ukrainian:0.497', 'fight:0.3923', 'streets:0.3762', 'live:0.2803', 'updates:0.1847']"
+        ],
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Live updates UN Chief War in Ukraine driving world hunger.txt+eventbasecode80+eventcode80+avgtone0.48908703752994415+goldsteinscale0.75+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.01644736842105263+news_keywords+['ukraine:0.493', 'natos:0.4666', 'diplomatic:0.3608', 'coup:0.302', 'neutrality:0.2975', 'news:0.2675', 'progress:0.2524', 'pandemic:0.2499', 'agreement:0.2498', 'prepare:0.243', 'trudeau:0.2405', 'accession:0.2387', 'bloc:0.2302', 'soon:0.2294', 'submit:0.2204', 'resume:0.2202', 'interrupt:0.2105', 'flee:0.2059', 'world:0.2036', 'depleted:0.2017', 'plenkovic:0.1975', 'want:0.1919', 'enlargement:0.1915', 'pkk:0.1894', 'long:0.1829', 'list:0.1684', 'howitzer:0.1305', 'compared:0.1259', 'cbcradio:0.122', 'interpretation:0.1216']+titles_keywords+['war:0.4433', 'ukraine:0.4272', 'hunger:0.3498', 'chief:0.2145', 'updates:0.157']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Big Mac is coming back McDonalds to reopen in Ukraine.txt+eventbasecode80+eventcode80+avgtone0.494949494949495+goldsteinscale0.75+nummentions0.21262699564586357+numarticles0.2131979695431472+numsources0.19078947368421054+news_keywords+['ukraine:0.4978', 'russias:0.4202', 'kfc:0.3844', 'business:0.2707', 'food:0.25', 'western:0.2341', 'american:0.2336', 'capital:0.2228', 'invasion:0.2171', 'tochka:0.2045', 'mac:0.2039', 'vkusno:0.2006', 'redistribute:0.1912', 'open:0.1843', 'rewritten:0.1704', 'president:0.1608', 'prepare:0.1519', 'chain:0.1518', 'ap:0.1517', 'happen:0.1505', 'big:0.1447', 'month:0.1389', 'right:0.1343', 'tasty:0.121', 'fast:0.1188', 'help:0.1148', 'exited:0.097', 'nearly:0.0957', 'weve:0.0741', 'cost:0.0586']+titles_keywords+['mcdonalds:0.4186', 'ukraine:0.2781', 'reopen:0.2183', 'big:0.2015', 'coming:0.1525']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+190":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/inverness-courier.co.uk/British military veteran showed commando spirit until the end in Ukraine.txt+eventbasecode190+eventcode190+avgtone0.4953379953379954+goldsteinscale0.0+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.023026315789473683+news_keywords+['soldier:0.4149', 'ukraine:0.3629', 'tributes:0.338', 'squadron:0.3036', 'sibley:0.2598', 'bbc:0.2406', 'britons:0.2313', 'brave:0.2268', 'support:0.2019', 'forget:0.1981', 'invasion:0.1926', 'rip:0.1863', 'barker:0.1819', 'logistic:0.1807', 'fund:0.1686', 'gant:0.1601', 'page:0.1442', 'truss:0.1412', 'short:0.1408', 'mrs:0.1407', 'believe:0.14', 'force:0.1391', 'end:0.1387', 'right:0.1283', 'title:0.1187', 'ive:0.1123', 'confusion:0.1105', 'say:0.1084', 'alongside:0.1032', 'hi:0.1013']+titles_keywords+['veteran:0.5108', 'commando:0.3887', 'ukraine:0.2886', 'spirit:0.217', 'end:0.1028']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/inverness-courier.co.uk/What the papers say March 14.txt+eventbasecode190+eventcode190+avgtone0.463235294117647+goldsteinscale0.0+nummentions0.020682148040638608+numarticles0.02139231327048586+numsources0.04276315789473684+news_keywords+['putin:0.4583', 'ukraine:0.3973', 'nato:0.367', 'moscows:0.3464', 'invade:0.3373', 'airstrike:0.3322', 'telegraph:0.3242', 'march:0.2966', 'escalation:0.2582', 'publish:0.258', 'strike:0.2506', 'border:0.2388', 'tomorrow:0.2077', 'cite:0.2019', 'page:0.1963', 'warn:0.1937', 'times:0.1792', 'fear:0.1781', 'gove:0.1763', 'britons:0.1755', 'push:0.1713', 'lead:0.1588', 'daily:0.1583', 'close:0.154', 'independent:0.1296', 'uha:0.122', 'story:0.1154', 'gk:0.0954', 'cabinet:0.0652', 'comrjvinjscam:0.0598']+titles_keywords+['march:0.5831', 'papers:0.4125', '14:0.3781', 'say:0.1632']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "PRT+RUS+122":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/business-standard.com/UN chief Antonio Guterres urges Vladimir Putin to give peace a chance.txt+eventbasecode122+eventcode122+avgtone0.5043859649122807+goldsteinscale0.3+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.01644736842105263+news_keywords+['putin:0.4658', 'ukraine:0.3854', 'peace:0.3479', 'invade:0.3111', 'guterres:0.25', 'headline:0.243', 'rumour:0.2392', 'imminent:0.2267', 'report:0.1968', 'troop:0.1867', 'general:0.1751', 'emergency:0.1721', 'say:0.1681', 'urge:0.1632', 'secretary:0.1618', 'offensive:0.1541', 'believe:0.1516', 'wrong:0.1447', 'feed:0.1433', 'security:0.1427', 'die:0.1295', 'council:0.123', 'chance:0.1191', 'heart:0.119', 'send:0.1178', 'indication:0.1046', 'generate:0.0862', 'rework:0.0733', 'day:0.048', 'recent:0.033']+titles_keywords+['putin:0.3792', 'peace:0.3462', 'guterres:0.3229', 'chance:0.1638', 'chief:0.1238']"
+        ]
+    ],
+    "UKR+RUS+122":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/business-standard.com/Crisis in Ukraine impacts global shipping industry.txt+eventbasecode122+eventcode122+avgtone0.5023837902264601+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4273', 'war:0.3405', 'russia:0.3156', 'crisis:0.2915', 'economic:0.2428', 'pandemic:0.2324', 'disrupt:0.2316', 'commodity:0.2234', 'shipping:0.2208', 'global:0.18', 'international:0.1756', 'industry:0.1752', 'operation:0.1562', 'hurt:0.1526', 'impact:0.1465', 'trade:0.1446', 'price:0.1418', 'send:0.1238', 'recovery:0.1026', 'soar:0.0515', 'prospect:0.0187', 'quicker:0.012', 'slow:0.0076']+titles_keywords+['ukraine:0.4158', 'shipping:0.2802', 'crisis:0.2492', 'industry:0.1792', 'global:0.1585']"
+        ]
+    ]
+}

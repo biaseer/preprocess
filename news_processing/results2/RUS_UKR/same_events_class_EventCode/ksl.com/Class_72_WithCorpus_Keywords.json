@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+72":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/ksl.com/Russia to stage massive nuclear drills amid Ukraine standoff.txt+eventbasecode72+eventcode72+avgtone0.48752228163992867+goldsteinscale0.915+nummentions0.08853410740203194+numarticles0.08919506889050036+numsources0.09868421052631579+news_keywords+['nato:0.4637', 'kremlin:0.4501', 'icbms:0.4273', 'ukraine:0.418', 'nuclear:0.3722', 'war:0.3556', 'dmitry:0.3397', 'deploy:0.3099', 'maneuver:0.2952', 'prepare:0.287', 'standoff:0.2753', 'threaten:0.246', 'plan:0.2428', 'coincide:0.2288', 'president:0.2144', 'exercise:0.2129', 'drill:0.2119', 'concern:0.2068', 'reminder:0.1958', 'supervise:0.1791', 'base:0.1671', 'friday:0.1652', 'closer:0.158', 'peninsula:0.1569', 'continue:0.1501', 'pull:0.1487', 'previous:0.139', 'say:0.0952', 'actually:0.0813', 'thousand:0.0397']+titles_keywords+['ukraine:0.3177', 'nuclear:0.3156', 'drills:0.284', 'standoff:0.2291', 'stage:0.1303']"
+        ]
+    ],
+    "WST+UKR+72":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/ksl.com/Rivers of blood and tears Ukraine says Russia steps up shelling of residential areas.txt+eventbasecode72+eventcode72+avgtone0.4731543624161074+goldsteinscale0.915+nummentions0.3033381712626996+numarticles0.30384336475707036+numsources0.34210526315789475+news_keywords+['crimea:0.4934', 'nato:0.3998', 'airstrikes:0.3849', 'separatists:0.3602', 'dispatch:0.2871', 'erdogan:0.2812', 'flee:0.2622', 'telegram:0.2462', 'news:0.2408', 'aggressor:0.2405', 'disaster:0.2374', 'know:0.2257', 'blood:0.2231', 'organize:0.2222', 'zelenskyy:0.2221', 'corridor:0.2129', 'industrial:0.2013', 'ruble:0.1985', 'continue:0.1927', 'react:0.1846', 'clear:0.1788', 'anonymity:0.1715', 'upending:0.1697', 'hear:0.1685', 'import:0.1684', 'compare:0.1675', 'eastern:0.1619', 'th:0.1293', 'array:0.1021', 'sent:0.0431']+titles_keywords+['ukraine:0.4984', 'blood:0.3289', 'shelling:0.2445', 'rivers:0.236', 'residential:0.1607']"
+        ]
+    ]
+}

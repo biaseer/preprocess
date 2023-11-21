@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+61":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/postandcourier.com/Ukrainian leader Zelenskyy at the UN accuses Russian military of war crimes.txt+eventbasecode61+eventcode61+avgtone0.4588441330998249+goldsteinscale0.82+nummentions0.21734397677793904+numarticles0.21791153009427122+numsources0.18092105263157895+news_keywords+['ukraine:0.5081', 'kremlin:0.4581', 'nato:0.3892', 'massacre:0.3761', 'zelenskyy:0.337', 'totalitarian:0.2698', 'diplomat:0.2598', 'military:0.2491', 'report:0.2415', 'capital:0.2322', 'world:0.2038', 'announcement:0.2023', 'order:0.1946', 'watch:0.1935', 'reiterating:0.1873', 'afraid:0.1871', 'credible:0.1804', 'bucha:0.1735', 'stir:0.1719', 'recount:0.1685', 'head:0.1594', 'pbs:0.1565', 'import:0.1515', 'like:0.1492', 'coordination:0.138', 'short:0.1356', 'billion:0.1296', 'feb:0.1264', 'far:0.1083', 'pleasure:0.0855']+titles_keywords+['zelenskyy:0.5437', 'ukrainian:0.3542', 'accuses:0.226', 'military:0.1611', 'leader:0.0513']"
+        ]
+    ],
+    "LBN+UKR+61":[
+        [
+            "20220801+../news_crawling/RUS_UKR/p_articles/postandcourier.com/1st ship carrying Ukrainian grain leaves the port of Odesa.txt+eventbasecode61+eventcode61+avgtone0.4827008928571429+goldsteinscale0.82+nummentions0.3018867924528302+numarticles0.30239303843364757+numsources0.3223684210526316+news_keywords+['ukraine:0.4877', 'kremlin:0.4187', 'war:0.3428', 'evacuate:0.325', 'economy:0.3214', 'ship:0.2786', 'sidenko:0.2769', 'crisis:0.2548', 'columnists:0.2456', 'import:0.2358', 'supplier:0.2336', 'agreement:0.2264', 'forward:0.2184', 'feed:0.217', 'develop:0.2159', 'know:0.2149', 'want:0.2136', 'subject:0.2113', 'sector:0.2082', 'incoming:0.1994', 'grain:0.1984', 'corridor:0.1897', 'odesa:0.172', 'emphasize:0.1717', 'general:0.1668', 'mechanism:0.1556', 'long:0.1493', 'accuse:0.1458', 'million:0.1315', 'unblock:0.1263']+titles_keywords+['odesa:0.3845', 'ship:0.3632', 'ukrainian:0.319', 'grain:0.2653', '1st:0.1771']"
+        ]
+    ]
+}

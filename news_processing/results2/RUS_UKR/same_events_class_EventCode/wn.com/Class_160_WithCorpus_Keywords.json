@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+160":[
+        [
+            "20220513+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine says in talks with Russia over evacuation of injured from Mariupols Azovstal.txt+eventbasecode160+eventcode160+avgtone0.4508196721311475+goldsteinscale0.3+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['kiev:0.5151', 'ukraine:0.4877', 'ukrainian:0.4746', 'evacuation:0.3879', 'vereshchuk:0.3546', 'negotiation:0.3221', 'russia:0.3156', 'azovstal:0.3021', 'exchange:0.2884', 'iryna:0.2399', 'soldier:0.206', 'xinhua:0.1823', 'talk:0.1784', 'steel:0.1727', 'capture:0.1651', 'injured:0.163', 'mariupol:0.1481', 'injure:0.1469', 'hold:0.1243', 'mariupols:0.1138', 'deputy:0.1076', 'plant:0.1033', 'thursday:0.0849', 'prime:0.0829', 'seek:0.0693', 'say:0.0557', 'seriously:0.0535', 'severely:0.0377', 'minister:0.0298']+titles_keywords+['ukraine:0.4294', 'azovstal:0.4054', 'evacuation:0.3097', 'talks:0.2026', 'injured:0.1482']"
+        ],
+        [
+            "20220615+../news_crawling/RUS_UKR/p_articles/wn.com/Russia plans evacuations from chemical plant in battleground Ukraine city.txt+eventbasecode160+eventcode160+avgtone0.45294117647058824+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5146', 'ukrainian:0.447', 'evacuation:0.4325', 'evacuate:0.4127', 'russia:0.4018', 'industrial:0.3046', 'humanitarian:0.2484', 'bombardment:0.247', 'corridor:0.2391', 'chemical:0.2367', 'sievierodonetsk:0.2219', 'battleground:0.2105', 'plan:0.2018', 'region:0.2', 'donbas:0.1941', 'plant:0.1858', 'city:0.1841', 'hub:0.184', 'civilian:0.1767', 'seize:0.1634', 'establish:0.1573', 'eastern:0.151', 'control:0.1209', 'desperate:0.1132', 'focus:0.111', 'say:0.0651', 'intense:0.0646', 'offensive:0.0618', 'force:0.0388', 'wage:0.0299']+titles_keywords+['evacuations:0.4473', 'ukraine:0.4294', 'chemical:0.2198', 'battleground:0.1447', 'plans:0.1312']"
+        ]
+    ]
+}

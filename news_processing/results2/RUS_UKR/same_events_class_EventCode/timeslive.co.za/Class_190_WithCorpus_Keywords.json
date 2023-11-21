@@ -1,0 +1,10 @@
+{
+    "DEU+RUS+190":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/timeslive.co.za/Germany reports rise in attacks against Russian Ukrainian migrants.txt+eventbasecode190+eventcode190+avgtone0.44845360824742253+goldsteinscale0.0+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.013157894736842105+news_keywords+['ukraine:0.5152', 'putin:0.4567', 'attacks:0.3608', 'war:0.3587', 'migrant:0.3565', 'police:0.348', 'threat:0.3441', 'invasion:0.3431', 'report:0.3002', 'demilitarise:0.2685', 'flee:0.2376', 'society:0.2354', 'anti:0.2069', 'zeitung:0.2027', 'allow:0.1762', 'order:0.1471', 'increase:0.145', 'faeser:0.1412', 'act:0.1406', 'remind:0.132', 'nancy:0.1306', 'creep:0.127', 'start:0.1247', 'end:0.1239', 'property:0.1221', 'feb:0.112', 'say:0.1093', 'born:0.1016', 'record:0.0976', 'bodily:0.0911']+titles_keywords+['ukrainian:0.3962', 'migrants:0.3727', 'attacks:0.2996', 'germany:0.2825', 'rise:0.024']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        []
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Russian units near Ukraine moved into attack positions US official says.txt+eventbasecode192+eventcode192+avgtone0.4654255319148936+goldsteinscale0.025+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.006578947368421052+news_keywords+['ukraine:0.3873', 'putin:0.3666', 'invasion:0.3238', 'military:0.2563', 'formation:0.2075', 'scenario:0.1983', 'order:0.1935', 'action:0.1868', 'flag:0.1867', 'adviserjake:0.184', 'warn:0.1726', 'eastern:0.1644', 'near:0.1558', 'unit:0.1516', 'week:0.1431', 'electronic:0.1239', 'donbas:0.1235', 'possibility:0.1203', 'await:0.119', 'long:0.1092', 'sullivan:0.105', 'change:0.1038', 'end:0.1022', 'dramatic:0.0916', 'knowledge:0.0888', 'official:0.0706', 'proxy:0.0696', 'course:0.0688', 'launcher:0.0553', 'accord:0.0411']+titles_keywords+['ukraine:0.333', 'attack:0.2192', 'moved:0.1772', 'units:0.1245', 'official:0.0367']"
+        ],
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/cbsnews.com/US Embassy in Kyiv resumes operations 3 months after closing because of war.txt+eventbasecode192+eventcode192+avgtone0.47432432432432425+goldsteinscale0.025+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['kyiv:0.5275', 'ukrainians:0.3975', 'kremlin:0.385', 'evacuate:0.3496', 'war:0.3343', 'invasion:0.3309', 'operation:0.3129', 'diplomat:0.3071', 'administration:0.2724', 'commemoration:0.2679', 'flag:0.2416', 'victory:0.2385', 'resumption:0.2384', 'forward:0.2202', 'safety:0.2108', 'resume:0.2001', 'trip:0.1825', 'confront:0.1803', 'nazi:0.1789', 'reaffirm:0.1767', 'biden:0.1765', 'month:0.1709', 'wednesday:0.1707', 'state:0.1354', 'stripes:0.1322', 'enhance:0.1195', 'stand:0.1064', 'make:0.0791', 'millions:0.0772', 'unconscionable:0.0498']+titles_keywords+['kyiv:0.4475', 'embassy:0.3383', 'closing:0.1882', 'war:0.1826', 'months:0.1573']"
+        ]
+    ]
+}

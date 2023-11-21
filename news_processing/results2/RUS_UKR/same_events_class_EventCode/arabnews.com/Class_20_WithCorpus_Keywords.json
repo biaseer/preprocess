@@ -1,0 +1,15 @@
+{
+    "SAU+RUS+20":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/arabnews.com/Oil Updates Crude falls Indian refiners to cut Saudi oil Russian exit to cost Shell.txt+eventbasecode20+eventcode20+avgtone0.48671875+goldsteinscale0.65+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['petrobras:0.4517', 'oil:0.4261', 'reuters:0.4194', 'economy:0.4158', 'embargo:0.3147', 'ukrainians:0.2816', 'riyadh:0.2763', 'announcement:0.2705', 'predict:0.2665', 'sakhalin:0.2379', 'output:0.2361', 'world:0.2327', 'writedowns:0.2321', 'andrade:0.2304', 'texas:0.218', 'ahead:0.2149', 'project:0.2059', 'turbulent:0.1995', 'fall:0.1982', 'chain:0.1974', 'extend:0.1859', 'activity:0.1818', 'venture:0.1779', 'benchmark:0.1669', 'marginal:0.1667', 'elaborate:0.1638', 'brent:0.1614', 'decades:0.1515', 'greenhouse:0.1418', 'exporter:0.1045']+titles_keywords+['oil:0.371', 'russian:0.2726', 'falls:0.1521', '5bn:0.1496', 'cost:0.1327']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/arabnews.com/New US sanctions hit Russian banks elites EU list cover financial energy and transport sectors.txt+eventbasecode20+eventcode20+avgtone0.47004792332268375+goldsteinscale0.65+nummentions0.013425253991291727+numarticles0.014140681653372008+numsources0.019736842105263157+news_keywords+['sanctions:0.5564', 'kremlin:0.4466', 'ukraines:0.3805', 'geopolitics:0.3346', 'threaten:0.3142', 'invasion:0.2961', 'banking:0.2455', 'correspondent:0.2405', 'congress:0.2374', 'input:0.2337', 'allow:0.223', 'executive:0.2228', 'pipeline:0.2161', 'agreement:0.2069', 'worry:0.1904', 'vtb:0.1853', 'covid:0.1806', 'forsee:0.1791', 'isolate:0.1787', 'industrialize:0.1769', 'friday:0.1708', 'world:0.1692', 'freeze:0.1665', 'spar:0.1628', 'list:0.1623', 'export:0.1603', 'ready:0.1482', 'widen:0.1466', 'capta:0.117', 'doesnt:0.0556']+titles_keywords+['sanctions:0.4983', 'eu:0.3276', 'banks:0.3093', 'list:0.246', 'hit:0.1137']"
+        ],
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/arabnews.com/Ukraine trusts in Israeli mediation denies Bennett advised caving to Russia.txt+eventbasecode20+eventcode20+avgtone0.4982847341337907+goldsteinscale0.65+nummentions0.0997822931785196+numarticles0.10043509789702683+numsources0.6611842105263158+news_keywords+['diplomacy:0.4719', 'crimea:0.4197', 'putin:0.3975', 'israels:0.387', 'ukrainejerusalem:0.3319', 'intermediary:0.276', 'adviser:0.2574', 'contact:0.2572', 'bennett:0.2553', 'naftali:0.2393', 'dispute:0.2171', 'status:0.2155', 'coordinate:0.208', 'migration:0.2071', 'briefed:0.2012', 'stir:0.1993', 'news:0.192', 'cite:0.181', 'military:0.181', 'anonymity:0.1747', 'deal:0.152', 'invest:0.1498', 'say:0.1437', 'envisage:0.136', 'possible:0.1246', 'include:0.1211', 'wire:0.1184', 'immediately:0.116', 'wider:0.0968', 'agree:0.083']+titles_keywords+['bennett:0.3555', 'mediation:0.3026', 'ukraine:0.2841', 'trusts:0.2635', 'caving:0.0983']"
+        ]
+    ]
+}

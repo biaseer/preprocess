@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+42":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/redriverradio.org/Ukraine leader says US panic is playing into Russias strategy.txt+eventbasecode42+eventcode42+avgtone0.4782608695652174+goldsteinscale0.595+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.046052631578947366+news_keywords+['ukraine:0.4873', 'putin:0.4653', 'nato:0.3861', 'war:0.3152', 'escalation:0.2657', 'prepare:0.2574', 'leonid:0.2571', 'embassy:0.2455', 'adviser:0.2376', 'panic:0.2368', 'zelenskyy:0.2342', 'separatist:0.2291', 'biden:0.2247', 'talk:0.2205', 'know:0.2071', 'colonel:0.2065', 'soon:0.2', 'businesslike:0.1833', 'remain:0.1782', 'chop:0.1712', 'report:0.1695', 'pipeline:0.165', 'end:0.1646', 'npr:0.1616', 'wide:0.1278', 'compare:0.1197', 'basically:0.1157', 'version:0.111', 'retake:0.0959', 'deal:0.0861']+titles_keywords+['panic:0.3657', 'strategy:0.3296', 'russias:0.3059', 'leader:0.1504', 'says:0.1035']"
+        ],
+        [
+            "20220707+../news_crawling/RUS_UKR/p_articles/redriverradio.org/The Russian army appears close to taking the entire Donbas region.txt+eventbasecode42+eventcode42+avgtone0.5217391304347826+goldsteinscale0.595+nummentions0.07002902757619739+numarticles0.07070340826686004+numsources0.07894736842105263+news_keywords+['ukraine:0.4902', 'putin:0.4387', 'militarily:0.3791', 'conquer:0.3654', 'zelenskyy:0.3092', 'donbas:0.2801', 'guerre:0.2509', 'separatist:0.2445', 'liakh:0.2126', 'want:0.2056', 'president:0.1855', 'weapon:0.1822', 'long:0.174', 'end:0.168', 'hold:0.1616', 'boy:0.1564', 'hear:0.1531', 'news:0.1508', 'revert:0.1493', 'subjugating:0.142', 'pleased:0.1419', 'aid:0.1371', 'basically:0.1339', 'attrition:0.1301', 'teach:0.1251', 'warehouse:0.1202', 'transcript:0.1162', 'despite:0.0989', 'anecdote:0.0932', 'overall:0.0825']+titles_keywords+['donbas:0.4268', 'russian:0.376', 'army:0.2818', 'entire:0.146', 'close:0.1215']"
+        ]
+    ]
+}

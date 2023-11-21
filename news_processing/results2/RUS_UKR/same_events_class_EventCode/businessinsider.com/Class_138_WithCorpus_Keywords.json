@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+138":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Satellite photos show Russias final troop deployments around Ukraine before Putin launched an invasion.txt+eventbasecode138+eventcode138+avgtone0.4859022556390978+goldsteinscale0.15+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.4619', 'putin:0.422', 'russias:0.3374', 'war:0.3267', 'deploy:0.2821', 'cnn:0.2471', 'golovchino:0.2391', 'separatist:0.2367', 'occupy:0.2339', 'border:0.231', 'escalate:0.2223', 'immediately:0.2179', 'tank:0.2127', 'order:0.2102', 'telegraph:0.2076', 'report:0.197', 'clear:0.1801', 'pictures:0.18', 'yaruga:0.1765', 'preparation:0.1706', 'month:0.1593', 'catastrophic:0.1582', 'morning:0.1523', 'come:0.1503', 'track:0.1397', 'technologies:0.1299', 'large:0.1214', 'decide:0.1201', 'include:0.1143', 'make:0.079']+titles_keywords+['ukraine:0.4549', 'deployments:0.2922', 'satellite:0.2564', 'photos:0.2557', 'final:0.1255']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/businessinsider.com/EEII AG publishes annual results 2021.txt+eventbasecode138+eventcode138+avgtone0.4940758293838862+goldsteinscale0.15+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['gazprom:0.3842', 'shareholder:0.3839', 'instability:0.3801', 'business:0.3359', 'acquisition:0.3268', 'ukraine:0.3088', 'reaction:0.2683', 'collapse:0.2681', 'general:0.2558', 'remain:0.2553', 'information:0.2308', 'increase:0.2255', 'position:0.2144', 'publish:0.2128', 'sector:0.2068', 'previous:0.1958', 'initiate:0.1939', 'notice:0.1936', 'march:0.1848', 'hold:0.1832', 'resume:0.1783', 'request:0.1763', 'board:0.1654', 'adr:0.1639', 'nav:0.1532', 'make:0.1434', 'foresee:0.1432', 'price:0.1255', 'compare:0.1117', 'eeii:0.0993']+titles_keywords+['2021:0.4228', 'ag:0.366', 'results:0.3449', 'eeii:0.2959', 'annual:0.242']"
+        ]
+    ]
+}

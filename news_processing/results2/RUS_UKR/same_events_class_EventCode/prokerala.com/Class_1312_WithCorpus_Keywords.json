@@ -1,0 +1,22 @@
+{
+    "EUR+RUS+1312":[
+        [
+            "20220622+../news_crawling/RUS_UKR/p_articles/prokerala.com/Zelensky calls for speedy approval of next package of EU sanctions against Russia By IANS.txt+eventbasecode131+eventcode1312+avgtone0.4597315436241613+goldsteinscale0.21000000000000002+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['zelensky:0.3985', 'kiev:0.3739', 'russia:0.3608', 'sanction:0.3098', 'eu:0.2842', 'soon:0.2564', 'approve:0.2336', 'impose:0.2327', 'threat:0.2313', 'negotiation:0.2208', 'package:0.2067', 'news:0.2051', 'seventh:0.1988', 'volodymyr:0.1971', 'crisis:0.1856', 'union:0.1821', 'president:0.1618', 'june:0.1566', 'ukrinform:0.1513', 'anti:0.1395', 'ist:0.1259', 'gold:0.1256', 'restrictive:0.1084', 'emphasize:0.0955', 'grow:0.0851', 'possible:0.0805', 'quote:0.0789', 'lie:0.0658', 'feel:0.0506', 'speedy:0.0468']+titles_keywords+['zelensky:0.51', 'sanctions:0.4648', 'eu:0.2927', '2022:0.266', 'speedy:0.1925']"
+        ]
+    ],
+    "KOR+RUS+1312":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/prokerala.com/Moon calls for preemptive steps to minimise impact of Russias invasion of Ukraine By IANS.txt+eventbasecode131+eventcode1312+avgtone0.4715447154471545+goldsteinscale0.21000000000000002+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4033', 'seoul:0.3659', 'koreans:0.3561', 'preemptive:0.3511', 'invasion:0.339', 'moon:0.3129', 'war:0.3099', 'kyung:0.295', 'president:0.291', 'trigger:0.2417', 'news:0.2124', 'sanction:0.2045', 'economic:0.2012', 'safety:0.1934', 'situation:0.1774', 'step:0.1563', 'order:0.1405', 'feb:0.1379', 'cold:0.1206', 'instruct:0.1107', 'respond:0.1092', 'global:0.1066', 'ist:0.1008', 'say:0.0956', 'wake:0.0848', 'mee:0.0846', 'measure:0.0725', 'big:0.0672', 'tougher:0.0515', 'minimise:0.0448']+titles_keywords+['moon:0.5001', 'preemptive:0.383', 'invasion:0.3654', 'russias:0.3592', '2022:0.2327']"
+        ]
+    ],
+    "UKR+KOR+1312":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/prokerala.com/Ukraine envoy calls for S Koreas support massive sanctions for Russian invasion By IANS Published.txt+eventbasecode131+eventcode1312+avgtone0.5055187637969095+goldsteinscale0.21000000000000002+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5125', 'nato:0.49', 'geopolitical:0.4542', 'kremlin:0.4329', 'invasion:0.3535', 'seoul:0.2968', 'ambassador:0.2837', 'ponomarenko:0.2637', 'unprovoked:0.2633', 'sanction:0.2455', 'security:0.237', 'scenario:0.2207', 'defend:0.2131', 'coordinate:0.213', 'solidarity:0.2128', 'urgent:0.2101', 'puppet:0.21', 'news:0.1897', 'standwithukraine:0.184', 'future:0.1789', 'pledge:0.1655', 'people:0.155', 'arm:0.1427', 'world:0.1407', 'read:0.1398', 'ist:0.1133', 'counter:0.1124', 'hashtag:0.1057', 'feb:0.1036', 'grateful:0.0337']+titles_keywords+['ukraine:0.4428', 'sanctions:0.4307', 'invasion:0.3503', 'envoy:0.2985', 'ians:0.2711']"
+        ]
+    ],
+    "UKR+RUS+1312":[
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/prokerala.com/Ukraine crisis Biden urges diplomacy threatens sanctions against Russia By IANS Published on Wed Feb.txt+eventbasecode131+eventcode1312+avgtone0.48552123552123555+goldsteinscale0.21000000000000002+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['diplomacy:0.4904', 'nato:0.4607', 'putin:0.4277', 'ukraine:0.4273', 'invade:0.3308', 'biden:0.2844', 'standoff:0.2618', 'sanction:0.2554', 'pursue:0.2414', 'border:0.2334', 'eastward:0.232', 'concern:0.2255', 'warn:0.2209', 'prepare:0.1945', 'news:0.1854', 'table:0.1798', 'allow:0.1739', 'submit:0.163', 'conclusion:0.1593', 'current:0.1545', 'join:0.1481', 'drill:0.1399', 'say:0.1276', 'feb:0.1088', 'export:0.1071', 'cyber:0.1009', 'ist:0.1009', 'possible:0.0779', 'minimize:0.0699', 'price:0.0625']+titles_keywords+['diplomacy:0.4567', 'ukraine:0.42', 'sanctions:0.4102', 'biden:0.3258', 'published:0.1672']"
+        ]
+    ]
+}

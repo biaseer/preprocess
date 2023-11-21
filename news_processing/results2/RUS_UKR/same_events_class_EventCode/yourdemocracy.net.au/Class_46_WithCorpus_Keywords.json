@@ -1,0 +1,12 @@
+{
+    "RUS+TUR+46":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/yourdemocracy.net.au/propaganda burger.txt+eventbasecode46+eventcode46+avgtone0.4879703886489821+goldsteinscale0.85+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['propaganda:0.4913', 'kremlin:0.4755', 'ukraines:0.4396', 'correspondent:0.4372', 'provocateur:0.3817', 'massacre:0.3311', 'defactualization:0.28', 'conflict:0.2725', 'pentagon:0.2585', 'theinternational:0.2533', 'accountability:0.2514', 'read:0.2438', 'flag:0.2364', 'know:0.2327', 'conclude:0.2313', 'emphasize:0.231', 'occupy:0.2266', 'word:0.2239', 'azov:0.2238', 'factual:0.2179', 'timesfor:0.203', 'archive:0.2027', 'telegram:0.2018', 'turn:0.2007', 'fabricate:0.1913', 'french:0.1836', 'pretend:0.1806', 'raggedy:0.1789', 'hernyrbpiece:0.1773', 'bucha:0.1698']+titles_keywords+['burger:0.6713', 'propaganda:0.5939']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/yourdemocracy.net.au/whether by accident or design.txt+eventbasecode46+eventcode46+avgtone0.4728682170542636+goldsteinscale0.85+nummentions0.07256894049346879+numarticles0.06490210297316897+numsources0.08552631578947369+news_keywords+['ukraine:0.5009', 'putin:0.4555', 'nato:0.4501', 'militarily:0.3657', 'sanctions:0.3566', 'agreements:0.3282', 'hegemony:0.3221', 'nuclear:0.3041', 'merkel:0.2991', 'todenazifyanddemilitarizeits:0.2986', 'rhetoric:0.2765', 'escalation:0.2674', 'zelensky:0.2665', 'leftist:0.2581', 'maneuver:0.2358', 'prolong:0.2162', 'secretary:0.2149', 'know:0.2035', 'theatrics:0.189', 'aside:0.1858', 'read:0.1819', 'archive:0.1724', 'update:0.1721', 'begin:0.1548', 'boy:0.1358', 'zoneover:0.1353', 'sword:0.1319', 'thatthis:0.1263', 'integrate:0.0954', 'committinggenocideagainst:0.0912']+titles_keywords+['accident:0.5094', 'design:0.1698']"
+        ]
+    ]
+}

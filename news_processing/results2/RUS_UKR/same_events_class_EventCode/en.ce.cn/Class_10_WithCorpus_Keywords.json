@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+10":[
+        [
+            "20220705+../news_crawling/RUS_UKR/p_articles/en.ce.cn/Kiev says Ukraines military operation in Lugansk region successful.txt+eventbasecode10+eventcode10+avgtone0.4815950920245398+goldsteinscale0.5+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['kiev:0.4655', 'ukraines:0.42', 'lugansk:0.3867', 'operation:0.3491', 'putin:0.3182', 'oleksiy:0.303', 'counterattack:0.3026', 'military:0.2963', 'zelensky:0.2813', 'successful:0.2618', 'perform:0.2568', 'frontline:0.2416', 'interdict:0.24', 'region:0.2064', 'inform:0.1853', 'sector:0.183', 'withdraw:0.1775', 'severodonetsk:0.1551', 'weapon:0.1527', 'return:0.1527', 'confirm:0.1506', 'control:0.1479', 'advisor:0.1464', 'agglomeration:0.1309', 'key:0.1264', 'sunday:0.0942', 'currently:0.0827', 'say:0.0747', 'add:0.0577', 'accord:0.0214']+titles_keywords+['kiev:0.4603', 'lugansk:0.3626', 'successful:0.2986', 'military:0.2241', 'says:-0.0168']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/en.ce.cn/Risks posed by worldwide USfunded biolabs cause jitters around globe.txt+eventbasecode10+eventcode10+avgtone0.479978354978355+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['biolabs:0.5083', 'pathogen:0.3743', 'toxicology:0.3496', 'risks:0.3407', 'lab:0.3161', 'stem:0.3152', 'disinformation:0.3067', 'concern:0.3029', 'ukraine:0.2955', 'biological:0.2922', 'funding:0.2921', 'multilateral:0.2257', 'publish:0.205', 'mechanism:0.2023', 'fox:0.1997', 'greenwald:0.1766', 'pentagon:0.1756', 'data:0.1712', 'professor:0.1702', 'spill:0.1688', 'know:0.1684', 'weapons:0.1612', 'current:0.1387', 'quote:0.1266', 'freezer:0.1256', 'exactly:0.1252', 'eliminate:0.1232', 'according:0.1135', 'ctr:0.1101', 'deal:0.0567']+titles_keywords+['biolabs:0.5734', 'risks:0.3187', 'usfunded:0.2777', 'jitters:0.2624', 'worldwide:0.2411']"
+        ]
+    ]
+}

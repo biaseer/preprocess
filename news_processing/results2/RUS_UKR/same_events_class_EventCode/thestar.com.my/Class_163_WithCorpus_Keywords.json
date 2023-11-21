@@ -1,0 +1,25 @@
+{
+    "JPN+RUS+163":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Japan PM Kishida to stress unity on Ukraine in meet with Indias Modi.txt+eventbasecode163+eventcode163+avgtone0.5035211267605635+goldsteinscale0.1+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4045', 'nikkei:0.3092', 'indo:0.2854', 'japanese:0.285', 'kishida:0.2594', 'modi:0.2339', 'reutersfile:0.2231', 'coincide:0.2071', 'unify:0.1971', 'invasion:0.1939', 'announce:0.1781', 'reinforce:0.1727', 'agreement:0.1667', 'economic:0.166', 'sanction:0.15', 'fumio:0.1455', 'shinzo:0.1408', 'include:0.1254', 'allow:0.1193', 'railway:0.0959', 'importance:0.095', 'trillion:0.092', 'pm:0.0892', 'issue:0.0805', 'abe:0.0792', 'reciprocal:0.0741', 'second:0.0734', 'quadrilateral:0.0616', 'feb:0.0546', 'speed:0.0484']+titles_keywords+['kishida:0.43', 'ukraine:0.3161', 'meet:0.2228', 'modi:0.2022', 'unity:0.1188']"
+        ]
+    ],
+    "RUS+EUR+163":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Oil price ends week mixed on geopolitical uncertainty supply hopes.txt+eventbasecode163+eventcode163+avgtone0.4835294117647059+goldsteinscale0.1+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['opec:0.5218', 'oil:0.4087', 'reuters:0.4018', 'geopolitical:0.3736', 'supply:0.3144', 'tehran:0.284', 'barrel:0.2692', 'future:0.2644', 'april:0.2591', 'output:0.2494', 'week:0.2449', 'analyst:0.2376', 'uncertainty:0.2374', 'term:0.2156', 'phase:0.2067', 'president:0.1978', 'benchmark:0.1957', 'drillers:0.1954', 'increase:0.1908', 'threaten:0.1739', 'vladimir:0.1713', 'record:0.1707', 'consequently:0.1548', 'rally:0.1515', 'fell:0.1345', 'intermediate:0.1314', 'include:0.1292', 'deal:0.0901', 'integrate:0.0901', 'hughes:0.0796']+titles_keywords+['uncertainty:0.332', 'oil:0.2946', 'mixed:0.2625', 'week:0.1979', 'ends:0.1541']"
+        ],
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Russia expected to try to encircle Kyiv in coming days US official.txt+eventbasecode163+eventcode163+avgtone0.4801980198019802+goldsteinscale0.1+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.006578947368421052+news_keywords+['kyiv:0.5629', 'putin:0.3855', 'soviet:0.3847', 'invasion:0.2754', 'military:0.2689', 'tactic:0.2385', 'prepare:0.2323', 'garanich:0.2056', 'girds:0.1944', 'reutersgleb:0.1907', 'warn:0.1853', 'concern:0.1739', 'encircle:0.1711', 'forward:0.1685', 'siren:0.1663', 'commit:0.1638', 'happen:0.1569', 'union:0.1569', 'street:0.1505', 'coming:0.1493', 'continue:0.1474', 'want:0.1423', 'anonymity:0.1353', 'monday:0.1282', 'km:0.1109', 'long:0.1051', 'right:0.103', 'nearly:0.093', 'wagner:0.0908', 'state:0.0806']+titles_keywords+['kyiv:0.5091', 'encircle:0.2041', 'coming:0.0974', 'expected:0.0774', 'days:0.0694']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/thestar.com.my/EU tells Ukraine now is not yet time for sanctions on Russia.txt+eventbasecode163+eventcode163+avgtone0.4714285714285715+goldsteinscale0.1+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.013157894736842105+news_keywords+['ukraine:0.4086', 'putin:0.3845', 'war:0.3438', 'diplomat:0.3195', 'reutersyves:0.2782', 'separatist:0.2544', 'meeting:0.2524', 'impose:0.2519', 'timeline:0.2473', 'government:0.2465', 'arrange:0.2392', 'scope:0.2367', 'border:0.229', 'negotiate:0.2246', 'agreement:0.2229', 'bloc:0.2106', 'expect:0.2069', 'avoid:0.2059', 'pretext:0.197', 'soon:0.1911', 'speak:0.1696', 'long:0.1679', 'irresponsible:0.1526', 'step:0.1456', 'rebuff:0.1444', 'biden:0.1388', 'buildup:0.1235', 'additional:0.0994', 'price:0.0759', 'possible:0.0755']+titles_keywords+['ukraine:0.3862', 'sanctions:0.3811', 'time:0.2574', 'eu:0.2299', 'tells:0.0831']"
+        ]
+    ],
+    "USA+RUS+163":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Gold rises on geopolitical strife.txt+eventbasecode163+eventcode163+avgtone0.5030674846625768+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['geopolitical:0.398', 'gold:0.3756', 'april:0.3465', 'commerce:0.3351', 'demand:0.3053', 'ukraine:0.2989', 'future:0.2442', 'data:0.2341', 'announce:0.2335', 'claim:0.2306', 'strife:0.2208', 'xinhua:0.2195', 'states:0.2179', 'dollar:0.2146', 'rise:0.2101', 'related:0.2085', 'report:0.2071', 'contract:0.2043', 'bank:0.201', 'dip:0.1763', 'decrease:0.1691', 'prohibit:0.1679', 'initial:0.1488', 'chicago:0.1413', 'fell:0.1321', 'fuel:0.1236', 'percent:0.119', 'safe:0.1161', 'comex:0.096', 'jobless:0.0863']+titles_keywords+['geopolitical:0.5078', 'gold:0.4418', 'rises:0.306', 'strife:0.2494']"
+        ]
+    ]
+}

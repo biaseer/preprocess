@@ -1,0 +1,15 @@
+{
+    "RUS+BGR+10":[
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Oil extends gains on RussiaEurope tension China stimulus hopes.txt+eventbasecode10+eventcode10+avgtone0.4632768361581921+goldsteinscale0.5+nummentions0.04644412191582003+numarticles0.04713560551124003+numsources0.03618421052631579+news_keywords+['economy:0.439', 'stagflationary:0.3797', 'geopolitical:0.3755', 'disruption:0.3463', 'news:0.3342', 'data:0.3062', 'moscow:0.3045', 'nymex:0.3031', 'china:0.2856', 'future:0.2813', 'stimulus:0.2776', 'extend:0.268', 'lockdown:0.2621', 'plugging:0.2527', 'covid:0.2492', 'gazprom:0.2489', 'concern:0.2411', 'simmer:0.2304', 'gasoline:0.228', 'policy:0.2241', 'week:0.2233', 'significant:0.223', 'global:0.2224', 'warn:0.2204', 'aviation:0.2129', 'outlook:0.1998', 'uscrude:0.1914', 'rise:0.1803', 'intermediate:0.1087', 'spi:0.0671']+titles_keywords+['oil:0.4174', 'russiaeurope:0.2531', 'extends:0.2454', 'stimulus:0.1855', 'hopes:0.1078']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Diplomacy efforts step up after Russian strike on Ukraine base.txt+eventbasecode10+eventcode10+avgtone0.4619815668202765+goldsteinscale0.5+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['ukraine:0.4553', 'putin:0.414', 'nato:0.4057', 'diplomatic:0.385', 'ivano:0.263', 'blockade:0.2562', 'zelenskyy:0.2489', 'news:0.2459', 'evacuate:0.2413', 'leonid:0.2403', 'operation:0.238', 'fight:0.2345', 'arrange:0.2332', 'troop:0.2246', 'progress:0.2238', 'concern:0.2137', 'soon:0.21', 'delegate:0.1948', 'hear:0.1887', 'cite:0.1871', 'counterpart:0.1863', 'consequence:0.1748', 'end:0.173', 'cross:0.1524', 'irpin:0.1521', 'telephone:0.1422', 'week:0.1366', 'current:0.1335', 'trade:0.1262', 'focus:0.1223']+titles_keywords+['diplomacy:0.425', 'ukraine:0.3182', 'strike:0.1791', 'base:0.123', 'step:0.1177']"
+        ],
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Churning in Islamabad What does it mean for India.txt+eventbasecode10+eventcode10+avgtone0.482773851590106+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['pakistan:0.5126', 'geopolitics:0.4245', 'modi:0.3558', 'ceasefire:0.2769', 'musharrafs:0.2667', 'constituency:0.2468', 'attract:0.2133', 'positioning:0.2056', 'point:0.1764', 'pml:0.1746', 'gradation:0.1725', 'nosedive:0.1677', 'interlocutor:0.1638', 'effect:0.1632', 'reorganize:0.163', 'current:0.1623', 'transit:0.1616', 'relation:0.1607', 'considerations:0.1594', 'book:0.1571', 'continue:0.1571', 'industry:0.1569', 'level:0.1487', 'long:0.1369', 'strike:0.1278', 'precipitate:0.1224', 'pervez:0.121', 'differences:0.1185', 'qamar:0.0976', 'necessitate:0.0912']+titles_keywords+['islamabad:0.5455', 'churning:0.5203', 'india:0.3904', 'does:0.0623', 'mean:0.0409']"
+        ]
+    ]
+}

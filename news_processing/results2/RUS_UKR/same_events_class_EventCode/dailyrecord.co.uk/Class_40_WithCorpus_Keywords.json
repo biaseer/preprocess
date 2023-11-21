@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+40":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Russia is planning to stage public executions in Ukraine to shatter morale.txt+eventbasecode40+eventcode40+avgtone0.46717724288840257+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5003', 'soviet:0.4642', 'putins:0.4294', 'vladimir:0.4026', 'war:0.3436', 'invasion:0.3152', 'kill:0.2766', 'zelensky:0.2724', 'prepare:0.2671', 'military:0.262', 'news:0.2552', 'nuclear:0.2545', 'plan:0.2525', 'escalate:0.2352', 'map:0.2135', 'dramatic:0.2029', 'detention:0.1968', 'report:0.1894', 'order:0.1799', 'begin:0.1769', 'populate:0.1748', 'anonymous:0.1718', 'protract:0.1708', 'morale:0.1703', 'organiser:0.1437', 'hour:0.1366', 'weekend:0.1313', 'world:0.1306', 'large:0.1277', 'prevent:0.1078']+titles_keywords+['ukraine:0.4385', 'executions:0.4351', 'morale:0.2714', 'stage:0.1789', 'public:0.1464']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Whisky giants suspend sales to Russia after Putin regimes invasion of Ukraine.txt+eventbasecode40+eventcode40+avgtone0.4856801909307876+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.013157894736842105+news_keywords+['ukraine:0.4422', 'whisky:0.3896', 'scottish:0.3622', 'unhcr:0.3285', 'government:0.3141', 'snp:0.3093', 'invasion:0.3028', 'business:0.2928', 'diageo:0.2802', 'conflict:0.2583', 'cease:0.2442', 'product:0.2414', 'order:0.2335', 'safety:0.2117', 'spokesperson:0.2112', 'letter:0.2012', 'swa:0.1924', 'employ:0.1918', 'displace:0.1745', 'respectively:0.1691', 'illegal:0.1686', 'fund:0.1656', 'guidance:0.1619', 'export:0.1616', 'grow:0.1486', 'relevant:0.1476', 'believe:0.1307', 'fully:0.106', 'ago:0.1017', 'week:0.0759']+titles_keywords+['ukraine:0.3824', 'whisky:0.3719', 'invasion:0.1863', 'sales:0.1447', 'suspend:0.1303']"
+        ]
+    ]
+}

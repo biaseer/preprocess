@@ -1,0 +1,23 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220119+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine tension Biden says he thinks Putin will move in.txt+eventbasecode51+eventcode51+avgtone0.47522123893805307+goldsteinscale0.67+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.01644736842105263+news_keywords+['putin:0.4628', 'nato:0.3833', 'diplomacy:0.373', 'kyiv:0.372', 'annexed:0.2631', 'expand:0.2554', 'eastward:0.254', 'overthrow:0.2497', 'warn:0.2353', 'incursion:0.2306', 'news:0.2146', 'argue:0.196', 'aggressive:0.1904', 'fear:0.1871', 'interpretations:0.1866', 'want:0.1831', 'promise:0.1747', 'counterpart:0.1735', 'secretary:0.1657', 'word:0.1624', 'response:0.1609', 'disastrous:0.1608', 'long:0.1522', 'end:0.1516', 'meet:0.1474', 'thursday:0.1439', 'difference:0.141', 'state:0.1207', 'cover:0.118', 'icy:0.1152']+titles_keywords+['putin:0.4059', 'biden:0.4044', 'ukraine:0.3262', 'tension:0.1437', 'says:-0.0001']"
+        ],
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/BBC Russian reporter in Kyiv The day the war began.txt+eventbasecode51+eventcode51+avgtone0.48390941597139453+goldsteinscale0.67+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['kyiv:0.5817', 'crimea:0.5131', 'yanukovych:0.4799', 'ukrainians:0.4684', 'putin:0.4303', 'journalist:0.3488', 'invasion:0.3249', 'conflict:0.2887', 'strategic:0.2717', 'separatist:0.2659', 'stay:0.2494', 'happen:0.2349', 'street:0.2273', 'tank:0.2257', 'hide:0.221', 'warning:0.2068', 'railway:0.1999', 'listen:0.1946', 'order:0.1813', 'bloody:0.1808', 'begin:0.1741', 'word:0.1724', 'remember:0.1612', 'like:0.157', 'depose:0.1501', 'tomorrow:0.139', 'long:0.1366', 'saw:0.1315', 'appal:0.1145', 'tremble:0.0845']+titles_keywords+['kyiv:0.598', 'war:0.3694', 'reporter:0.3568', 'bbc:0.2994', 'day:0.1702']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine crisis President Zelensky hails Ukrainians defending country.txt+eventbasecode51+eventcode51+avgtone0.4642857142857143+goldsteinscale0.67+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['zelensky:0.5301', 'ukraine:0.4566', 'ukrainians:0.4357', 'russian:0.3584', 'invasion:0.2366', 'president:0.1983', 'defend:0.1872', 'nation:0.1808', 'hail:0.1796', 'crisis:0.1271', 'country:0.1154', 'address:0.072', 'effort:0.0397']+titles_keywords+['zelensky:0.5304', 'ukraine:0.4299', 'defending:0.1956', 'hails:0.1632', 'president:0.1232']"
+        ],
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/War in Ukraine Protesters in Kherson appear to make Russian truck reverse.txt+eventbasecode51+eventcode51+avgtone0.4714285714285715+goldsteinscale0.67+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['protesters:0.4864', 'ukraine:0.481', 'ukrainian:0.4573', 'russian:0.4286', 'russia:0.4203', 'protest:0.4132', 'truck:0.3965', 'war:0.3477', 'vehicle:0.3372', 'reverse:0.3346', 'invasion:0.3103', 'svobody:0.3094', 'reversing:0.3062', 'symbol:0.2325', 'appear:0.2087', 'kherson:0.1957', 'civilian:0.1935', 'footage:0.1831', 'letter:0.1819', 'post:0.1633', 'make:0.1551', 'away:0.1509', 'sunday:0.1439', 'square:0.1427', 'support:0.134', 'mark:0.1028', 'online:0.0644']+titles_keywords+['ukraine:0.4224', 'truck:0.4084', 'protesters:0.3961', 'war:0.3188', 'reverse:0.309']"
+        ]
+    ],
+    "WST+UKR+51":[
+        [
+            "20220410+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine Three ways this war could escalate and drag Nato in.txt+eventbasecode51+eventcode51+avgtone0.4762544802867384+goldsteinscale0.67+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['nato:0.4787', 'ukrainian:0.3791', 'putin:0.3726', 'war:0.3362', 'strategic:0.2722', 'nuclear:0.2473', 'escalate:0.2073', 'scenario:0.185', 'ally:0.1701', 'tank:0.1609', 'remind:0.153', 'poison:0.1397', 'range:0.1384', 'want:0.137', 'cross:0.13', 'helicopter:0.128', 'worry:0.1198', 'industrial:0.1106', 'long:0.1096', 'counter:0.1076', 'pan:0.1024', 'unity:0.1006', 'nearly:0.1003', 'donbas:0.0949', 'way:0.086', 'degree:0.085', 'bit:0.0804', 'drawn:0.0763', 'sort:0.0642', 'stiffens:0.0346']+titles_keywords+['nato:0.4914', 'ukraine:0.4722', 'war:0.3967', 'escalate:0.3028', 'ways:0.1645']"
+        ]
+    ]
+}

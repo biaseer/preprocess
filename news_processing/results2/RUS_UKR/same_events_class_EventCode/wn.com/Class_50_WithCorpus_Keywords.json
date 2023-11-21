@@ -1,0 +1,21 @@
+{
+    "DEU+UKR+50":[
+        [
+            "20220510+../news_crawling/RUS_UKR/p_articles/wn.com/Live updates Germany FM Baerbock reopens embassy in Kyiv.txt+eventbasecode50+eventcode50+avgtone0.5083333333333333+goldsteinscale0.675+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.006578947368421052+news_keywords+['kyiv:0.5015', 'embassy:0.4369', 'ukraine:0.4133', 'ambassador:0.3171', 'diplomatic:0.3088', 'russian:0.2786', 'germany:0.2634', 'germanys:0.2313', 'baerbock:0.223', 'reopen:0.2002', 'annalena:0.1935', 'mission:0.1925', 'minister:0.1873', 'invasion:0.1695', 'staff:0.1414', 'update:0.1403', 'anka:0.137', 'tuesday:0.1196', 'month:0.1164', 'foreign:0.1135', 'feldhusen:0.1036', 'close:0.0973', 'work:0.0963', 'live:0.0792', 'head:0.0496', 'say:0.0481', 'skeleton:0.0361', 'fm:0.0323', 'follow:0.0203', 'ago:0.0107']+titles_keywords+['kyiv:0.4682', 'embassy:0.4298', 'baerbock:0.3275', 'reopens:0.2641', 'updates:0.122']"
+        ]
+    ],
+    "RUS+UKR+50":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/wn.com/Kremlin says no concrete plans for summit with Biden over Ukraine.txt+eventbasecode50+eventcode50+avgtone0.48546511627906974+goldsteinscale0.675+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['putin:0.4088', 'kremlin:0.4004', 'biden:0.3845', 'vladimir:0.3354', 'moscow:0.3176', 'ukraine:0.2905', 'meet:0.2857', 'plan:0.2758', 'russian:0.2569', 'president:0.228', 'summit:0.2195', 'leader:0.2019', 'joe:0.1753', 'concrete:0.1676', 'europes:0.1636', 'reuters:0.1613', 'say:0.1603', 'french:0.1567', 'monday:0.1524', 'offer:0.1448', 'counterpart:0.0567', 'agree:0.0507', 'possible:0.0478', 'big:0.0463', 'principle:0.0418', 'path:0.0029']+titles_keywords+['kremlin:0.4744', 'biden:0.3648', 'plans:0.2634', 'summit:0.1702', 'says:0.0111']"
+        ],
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/wn.com/Russias attack on Ukraine reveals political fault lines in Asia.txt+eventbasecode50+eventcode50+avgtone0.48333333333333334+goldsteinscale0.675+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.003289473684210526+news_keywords+['putin:0.4744', 'ukraine:0.4337', 'russias:0.3907', 'russian:0.3483', 'vladimir:0.3481', 'asia:0.3165', 'modi:0.3083', 'narendra:0.2787', 'attack:0.2578', 'unprovoked:0.2322', 'friend:0.2225', 'political:0.2088', 'relation:0.2079', 'power:0.1918', 'strongman:0.1828', 'jinping:0.1788', 'warm:0.1754', 'xi:0.1312', 'question:0.1209', 'line:0.1195', 'leader:0.1172', 'dear:0.1152', 'step:0.1104', 'fault:0.1012', 'reveal:0.0989', 'prime:0.0651', 'bosom:0.0574', 'previously:0.0415', 'thrown:0.0191', 'best:0.0112']+titles_keywords+['ukraine:0.4576', 'political:0.2671', 'attack:0.2475', 'lines:0.1875', 'fault:0.0986']"
+        ],
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/wn.com/RussiaUkraine crisis EU to resume diplomatic presence in Kyiv.txt+eventbasecode50+eventcode50+avgtone0.5+goldsteinscale0.675+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['kyiv:0.5563', 'ukrainian:0.381', 'russiaukraine:0.3653', 'poland:0.3152', 'eu:0.3117', 'diplomatic:0.3073', 'russias:0.2657', 'capital:0.2125', 'crisis:0.1863', 'temporarily:0.1824', 'resume:0.1781', 'union:0.1724', 'european:0.1475', 'attack:0.1384', 'presence:0.129']+titles_keywords+['kyiv:0.5366', 'diplomatic:0.3431', 'eu:0.2706', 'presence:0.1364', 'resume:0.1014']"
+        ],
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine Offers Talks With Russia Without Any Conditions In Mariupol.txt+eventbasecode50+eventcode50+avgtone0.5+goldsteinscale0.675+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.4849', 'ukraine:0.4187', 'negotiation:0.2959', 'russia:0.2597', 'mariupol:0.2119', 'talks:0.1789', 'propose:0.1329', 'round:0.1214', 'offers:0.1214', 'city:0.0932', 'conditions:0.0732', 'official:0.0645', 'special:0.062', 'hold:0.0573', 'say:0.0388', 'besiege:0.017', 'wednesday:-0.0251']+titles_keywords+['ukraine:0.3676', 'mariupol:0.2219', 'talks:0.1364', 'offers:0.0972', 'conditions:0.091']"
+        ]
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "RUS+RUS+30":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Accenture to discontinue business in Russia but will support its nearly 2300 employees in Russia.txt+eventbasecode30+eventcode30+avgtone0.5072463768115942+goldsteinscale0.7+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['accenture:0.5233', 'russia:0.4318', 'ukrainian:0.4041', 'company:0.3117', 'business:0.2692', 'consultant:0.265', 'support:0.2647', 'discontinue:0.2352', 'attack:0.2242', 'plc:0.2209', 'work:0.218', 'employee:0.1986', 'telehealth:0.1866', 'provide:0.1693', 'end:0.1666', 'donate:0.155', 'resettle:0.1536', 'help:0.1533', 'extend:0.1493', 'leave:0.1415', 'say:0.1243', 'million:0.1194', 'people:0.1078', 'world:0.106', 'immediate:0.1019', 'unlawful:0.0617', 'horrific:0.0524', 'thursday:0.0442', 'include:0.0432', 'nearly:0.0358']+titles_keywords+['accenture:0.4845', 'russia:0.3102', 'discontinue:0.2692', '2300:0.1222', 'nearly:-0.0058']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Zelensky pushes peace without delay and wants to talk to Putin facetoface.txt+eventbasecode30+eventcode30+avgtone0.4802712700369913+goldsteinscale0.7+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.02631578947368421+news_keywords+['zelensky:0.4466', 'putin:0.4465', 'ukraines:0.4148', 'lviv:0.3327', 'russian:0.3156', 'war:0.3058', 'peace:0.3005', 'meeting:0.2527', 'volodymyr:0.236', 'talk:0.2286', 'ahead:0.1878', 'plan:0.1798', 'priority:0.1743', 'concession:0.173', 'secure:0.1718', 'neutrality:0.1691', 'territorial:0.1606', 'leader:0.1586', 'end:0.1424', 'round:0.1307', 'push:0.1306', 'integrity:0.1297', 'prevent:0.1112', 'say:0.1089', 'facetoface:0.0994', 'outlet:0.0976', 'offer:0.0762', 'possible:0.0657', 'hint:0.0561', 'medium:0.0494']+titles_keywords+['zelensky:0.5483', 'putin:0.41', 'peace:0.3055', 'talk:0.2838', 'facetoface:0.257']"
+        ],
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Russian Ukrainian militaries discuss freeing grain exports.txt+eventbasecode30+eventcode30+avgtone0.48269230769230775+goldsteinscale0.7+nummentions0.25544267053701014+numarticles0.25598259608411894+numsources0.39473684210526316+news_keywords+['ukraine:0.4606', 'grain:0.3748', 'war:0.3162', 'ship:0.285', 'military:0.2713', 'istanbul:0.2614', 'port:0.252', 'export:0.2502', 'market:0.2034', 'nations:0.202', 'talk:0.2', 'envoys:0.1899', 'agreement:0.1896', 'silo:0.1826', 'delegation:0.1714', 'plan:0.1577', 'million:0.1501', 'block:0.1431', 'world:0.1416', 'free:0.1406', 'way:0.128', 'ton:0.1168', 'month:0.1158', 'hold:0.1157', 'amid:0.1149', 'official:0.0999', 'reach:0.0997', 'united:0.0938', 'focus:0.0866', 'black:0.0686']+titles_keywords+['ukrainian:0.3368', 'exports:0.2826', 'grain:0.2731', 'militaries:0.2614', 'freeing:0.1826']"
+        ]
+    ],
+    "UKR+RUS+30":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Ukraine formally requests EU admission as first round of talks with Russia ends.txt+eventbasecode30+eventcode30+avgtone0.4781659388646288+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4492', 'eu:0.347', 'vladimir:0.2837', 'zelenskyy:0.2546', 'join:0.2279', 'admission:0.2235', 'volodymyr:0.189', 'union:0.1815', 'agreement:0.1509', 'request:0.1449', 'sign:0.1397', 'end:0.1136', 'long:0.1079', 'photo:0.1036', 'immediate:0.0995', 'president:0.0988', 'accuse:0.0886', 'sit:0.077', 'reality:0.0766', 'talk:0.0753', 'pull:0.0753', 'round:0.0721', 'aim:0.0638', 'year:0.0629', 'formally:0.0547', 'unlikely:0.0538', 'west:0.0518', 'solidify:0.0349', 'bond:0.0309', 'largely:-0.0074']+titles_keywords+['ukraine:0.3994', 'admission:0.1943', 'requests:0.1339', 'ends:0.1331', 'round:0.0644']"
+        ],
+        []
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+AUS+61":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/thisismoney.co.uk/MARKET REPORT Energy giants soar after crude price tops 115 a barrel as peace talks.txt+eventbasecode61+eventcode61+avgtone0.4865047233468286+goldsteinscale0.82+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ftse:0.4477', 'securities:0.4261', 'invest:0.3585', 'disruption:0.3542', 'announce:0.3464', 'analyst:0.3448', 'supply:0.333', 'keywords:0.3207', 'job:0.3197', 'trend:0.3083', 'acquisition:0.3004', 'pharma:0.2991', 'opec:0.2983', 'increase:0.2915', 'britain:0.2792', 'ahead:0.2736', 'combine:0.2607', 'january:0.2481', 'report:0.2392', 'weekend:0.2339', 'list:0.2302', 'share:0.2215', 'worth:0.2166', 'easyjet:0.2108', 'sunak:0.2099', 'soar:0.2097', 'dip:0.1763', 'similar:0.1707', 'ez:0.1592', 'hargreaves:0.1299']+titles_keywords+['oil:0.2993', 'giants:0.2265', 'report:0.1576', 'soar:0.157', 'price:0.1448']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220402+../news_crawling/RUS_UKR/p_articles/thisismoney.co.uk/British homes will still be heated by energy from Russian coal until the end of.txt+eventbasecode61+eventcode61+avgtone0.49090909090909096+goldsteinscale0.82+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.01644736842105263+news_keywords+['coal:0.4956', 'russia:0.3299', 'decommission:0.2898', 'industry:0.2796', 'nottinghamshire:0.2678', 'renewable:0.2575', 'diversification:0.2393', 'power:0.2288', 'switch:0.1939', 'supplier:0.1715', 'burton:0.1698', 'stockpile:0.1695', 'extend:0.148', 'firm:0.1478', 'mps:0.143', 'burn:0.1392', 'information:0.1234', 'invasion:0.1186', 'edf:0.1142', 'plant:0.1106', 'end:0.1079', 'month:0.1064', 'export:0.0936', 'big:0.0856', 'sixth:0.0833', 'mail:0.0784', 'understand:0.0707', 'soar:0.0376', 'accord:0.0224', 'uniper:-0.0035']+titles_keywords+['coal:0.4209', 'russian:0.2471', 'homes:0.2268', 'heated:0.1925', 'end:0.1255']"
+        ]
+    ]
+}

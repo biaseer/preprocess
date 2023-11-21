@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/wcbe.org/Some Russian performing artists are speaking out against Putin.txt+eventbasecode51+eventcode51+avgtone0.4964994165694282+goldsteinscale0.67+nummentions0.14223512336719885+numarticles0.14285714285714285+numsources0.24342105263157895+news_keywords+['putin:0.4885', 'kyiv:0.4424', 'tchaikovsky:0.4402', 'ballet:0.3811', 'philharmonic:0.3761', 'stanislavsky:0.3568', 'performing:0.3249', 'peaceful:0.2885', 'art:0.2816', 'repression:0.2723', 'karbauskis:0.2711', 'crisis:0.2595', 'oppose:0.2546', 'nobility:0.251', 'celebrate:0.2437', 'federation:0.242', 'depart:0.226', 'speak:0.2134', 'world:0.21', 'forward:0.206', 'letter:0.2038', 'hall:0.2034', 'statement:0.2029', 'know:0.1996', 'lengthy:0.1767', 'public:0.1711', 'prepare:0.1709', 'fall:0.1682', 'worker:0.1462', 'state:0.1294']+titles_keywords+['putin:0.4357', 'artists:0.3155', 'russian:0.3048', 'performing:0.2874', 'speaking:0.1492']"
+        ],
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/wcbe.org/Russias war in Ukraine is threatening an outpost of cooperation in space.txt+eventbasecode51+eventcode51+avgtone0.48752922837100543+goldsteinscale0.67+nummentions0.10631349782293179+numarticles0.1069615663524293+numsources0.1875+news_keywords+['soyuz:0.4545', 'iss:0.4431', 'russianspaceweb:0.4108', 'putin:0.3917', 'russias:0.387', 'geopolitical:0.3837', 'spaceport:0.3566', 'orbit:0.3486', 'astronauts:0.3313', 'propaganda:0.2857', 'interdependency:0.2817', 'collaboration:0.2618', 'globe:0.2336', 'esa:0.2217', 'orientation:0.219', 'meddle:0.2125', 'biden:0.2015', 'future:0.1895', 'matter:0.1797', 'seat:0.1696', 'deteriorate:0.1671', 'function:0.1443', 'prepare:0.1421', 'allegation:0.1407', 'say:0.1403', 'help:0.1399', 'end:0.1397', 'comparison:0.1389', 'vienna:0.126', 'month:0.0933']+titles_keywords+['ukraine:0.3987', 'space:0.3503', 'cooperation:0.2947', 'outpost:0.2526', 'threatening:0.2027']"
+        ]
+    ]
+}

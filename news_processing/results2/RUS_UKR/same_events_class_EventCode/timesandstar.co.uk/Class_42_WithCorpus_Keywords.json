@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+42":[
+        [
+            "20220205+../news_crawling/RUS_UKR/p_articles/timesandstar.co.uk/Johnson and Macron agree to fight against malicious Russian activity.txt+eventbasecode42+eventcode42+avgtone0.4853372434017595+goldsteinscale0.595+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.3157894736842105+news_keywords+['natos:0.4911', 'kremlin:0.4369', 'kyiv:0.3834', 'macron:0.3588', 'invade:0.3563', 'diplomatic:0.3455', 'boris:0.2909', 'engage:0.2384', 'justify:0.238', 'concern:0.2241', 'european:0.2207', 'remain:0.2205', 'friday:0.1959', 'planning:0.1929', 'forward:0.1889', 'unite:0.1825', 'pretext:0.1734', 'flank:0.1706', 'order:0.1689', 'debate:0.1687', 'report:0.168', 'course:0.163', 'solution:0.1434', 'mr:0.1222', 'current:0.1133', 'agree:0.1097', 'set:0.1022', 'olaf:0.1012', 'weve:0.0915', 'overriding:0.0402']+titles_keywords+['macron:0.3704', 'russian:0.2682', 'malicious:0.2397', 'johnson:0.2233', 'fight:0.2066']"
+        ]
+    ],
+    "POL+UKR+42":[
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/timesandstar.co.uk/Ukraines president set to meet US officials in Kyiv.txt+eventbasecode42+eventcode42+avgtone0.4734446130500759+goldsteinscale0.595+nummentions0.11284470246734397+numarticles0.11348803480783176+numsources0.10197368421052631+news_keywords+['kyiv:0.4972', 'russians:0.3944', 'invade:0.3572', 'president:0.2982', 'orthodox:0.2951', 'zelensky:0.2936', 'civilians:0.2493', 'holiday:0.2457', 'march:0.2317', 'plan:0.2279', 'separatist:0.2277', 'talk:0.216', 'armed:0.2046', 'update:0.1881', 'reorganise:0.1844', 'th:0.1738', 'tunnel:0.1699', 'good:0.1693', 'eastern:0.1692', 'long:0.1675', 'continue:0.1654', 'plant:0.1508', 'nearly:0.1378', 'make:0.1313', 'pummel:0.1304', 'prior:0.1163', 'significance:0.1134', 'highlight:0.1128', 'true:0.0786', 'cost:0.0432']+titles_keywords+['kyiv:0.417', 'ukraines:0.3679', 'president:0.2672', 'meet:0.2398', 'set:0.0509']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/timesandstar.co.uk/William visits MI6 ahead of Russias invasion of Ukraine.txt+eventbasecode42+eventcode42+avgtone0.5178571428571429+goldsteinscale0.595+nummentions0.1444121915820029+numarticles0.145032632342277+numsources0.16447368421052633+news_keywords+['gchq:0.4952', 'whitehall:0.4274', 'william:0.3506', 'security:0.3383', 'agency:0.3161', 'visit:0.2825', 'russias:0.2819', 'uk:0.2817', 'invasion:0.2745', 'intelligence:0.2671', 'private:0.2539', 'privilege:0.2379', 'throne:0.2377', 'diary:0.2244', 'important:0.2223', 'ahead:0.2005', 'duke:0.1959', 'wednesday:0.1726', 'hour:0.151', 'misuse:0.1475', 'head:0.1405', 'moore:0.1396', 'number:0.1295', 'background:0.1204', 'case:0.1201', 'engage:0.1166', 'say:0.1133', 'second:0.1043', 'learn:0.0963', 'debate:0.0911']+titles_keywords+['mi6:0.5131', 'ukraine:0.3076', 'william:0.291', 'invasion:0.274', 'ahead:0.1281']"
+        ]
+    ]
+}

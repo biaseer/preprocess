@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20220122+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Ukrainian foreign minister disappointed with Germanys decision not to provide weapons.txt+eventbasecode120+eventcode120+avgtone0.48951048951048953+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.464', 'putin:0.4053', 'embassy:0.2777', 'federation:0.2744', 'conflict:0.2596', 'lambrecht:0.2545', 'invasion:0.2486', 'deliver:0.2459', 'schnbach:0.2331', 'berlins:0.2266', 'escalate:0.2177', 'relations:0.2141', 'ammunition:0.1945', 'security:0.1926', 'understand:0.1889', 'admiral:0.1853', 'approve:0.1807', 'remark:0.177', 'contrary:0.1698', 'say:0.1676', 'deter:0.167', 'plan:0.1507', 'sonntag:0.1435', 'helpful:0.1231', 'december:0.115', 'include:0.1073', 'line:0.1006', 'today:0.0975', 'fissures:0.0934', 'cost:0.0696']+titles_keywords+['ukrainian:0.3666', 'disappointed:0.2767', 'germanys:0.2734', 'weapons:0.2411', 'decision:0.1183']"
+        ]
+    ],
+    "RUS+WST+120":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Zelenskyy pleads for effective and unrestricted support to Ukraine ahead of NATO summit.txt+eventbasecode120+eventcode120+avgtone0.48611111111111116+goldsteinscale0.3+nummentions0.4695210449927431+numarticles0.4699057287889775+numsources0.41776315789473684+news_keywords+['ukraine:0.454', 'nato:0.4514', 'zelenskyy:0.4458', 'invasion:0.2731', 'volodymyr:0.2643', 'refugee:0.2414', 'tank:0.233', 'ahead:0.2159', 'stay:0.208', 'betray:0.1882', 'peace:0.1818', 'pleads:0.1768', 'fend:0.174', 'provide:0.1566', 'friend:0.1551', 'president:0.1491', 'anti:0.1405', 'sell:0.1392', 'note:0.1374', 'switching:0.1332', 'weapon:0.1292', 'begin:0.1282', 'fully:0.1178', 'modern:0.1173', 'month:0.1137', 'longer:0.109', 'say:0.1014', 'thousand:0.0814', 'wipe:0.0728', 'tax:0.0653']+titles_keywords+['zelenskyy:0.573', 'nato:0.3702', 'support:0.2266', 'pleads:0.1636', 'unrestricted:0.1581']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Chinas Xi urges talks to settle disputes opposes sanctions.txt+eventbasecode120+eventcode120+avgtone0.4474789915966385+goldsteinscale0.3+nummentions0.045718432510885344+numarticles0.046410442349528645+numsources0.03618421052631579+news_keywords+['natos:0.4095', 'putin:0.4006', 'invade:0.3411', 'conflict:0.3071', 'taiwan:0.2938', 'sanction:0.282', 'sovereignty:0.2814', 'oppose:0.2359', 'xi:0.2222', 'unilateral:0.2138', 'world:0.2127', 'wang:0.2123', 'term:0.201', 'consultation:0.1868', 'imposition:0.1823', 'jinping:0.1756', 'weapon:0.1567', 'spillover:0.1527', 'end:0.1501', 'long:0.1469', 'study:0.1403', 'increasingly:0.1363', 'telephone:0.1298', 'right:0.1226', 'wanton:0.1216', 'ranking:0.1173', 'confirm:0.111', 'feb:0.1068', 'casualty:0.0992', 'population:0.085']+titles_keywords+['talks:0.2618', 'sanctions:0.2523', 'xi:0.2433', 'settle:0.2236', 'chinas:0.1956']"
+        ]
+    ]
+}

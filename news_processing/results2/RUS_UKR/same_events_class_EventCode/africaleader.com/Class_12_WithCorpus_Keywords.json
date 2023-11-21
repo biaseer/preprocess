@@ -1,0 +1,17 @@
+{
+    "AFR+RUS+12":[
+        [
+            "20220617+../news_crawling/RUS_UKR/p_articles/africaleader.com/AU approves urgent measures to tackle impacts of Ukraine crisis.txt+eventbasecode12+eventcode12+avgtone0.485054347826087+goldsteinscale0.48+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['africa:0.3756', 'ukraine:0.3671', 'infrastructure:0.335', 'au:0.2812', 'urgent:0.2342', 'current:0.2261', 'interregional:0.2088', 'crisis:0.2024', 'adapt:0.1738', 'covid:0.1718', 'read:0.1563', 'sectors:0.1544', 'impacted:0.1422', 'emphasize:0.1374', 'opportunity:0.1234', 'approve:0.117', 'meeting:0.1168', 'arise:0.1163', 'statement:0.1162', 'expedite:0.1147', 'export:0.1014', 'trade:0.0988', 'june:0.0784', 'tsoeu:0.0701', 'step:0.0641', 'cost:0.0556', 'pan:0.0417', 'like:0.0228', 'possible:0.0186', 'devise:0.0167']+titles_keywords+['ukraine:0.4027', 'au:0.336', 'urgent:0.2001', 'approves:0.1475', 'impacts:0.1171']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220711+../news_crawling/RUS_UKR/p_articles/africaleader.com/Anxiety Grows for Ukraines Grain Farmers as Harvest Begins.txt+eventbasecode12+eventcode12+avgtone0.48551564310544615+goldsteinscale0.48+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.01644736842105263+news_keywords+['ukraine:0.4268', 'war:0.3848', 'agriculture:0.3572', 'future:0.279', 'occupy:0.2731', 'reap:0.2715', 'blockade:0.2678', 'dnipropetrovsk:0.2639', 'survive:0.2633', 'shortage:0.2567', 'anxiety:0.2374', 'independence:0.2326', 'begins:0.2216', 'know:0.2204', 'tayyip:0.2104', 'scenario:0.2089', 'organization:0.2082', 'foreground:0.2012', 'help:0.1912', 'uncertain:0.1903', 'soon:0.1838', 'winter:0.1806', 'data:0.1521', 'like:0.1469', 'export:0.1316', 'effective:0.1268', 'buyer:0.1249', 'silo:0.1194', 'gro:0.1118', 'chubuk:0.0869']+titles_keywords+['farmers:0.4731', 'grain:0.3781', 'anxiety:0.3604', 'ukraines:0.3292', 'begins:0.1244']"
+        ]
+    ],
+    "SEN+UKR+12":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/africaleader.com/African Union calls for lasting ceasefire in Ukraine in call with Putin.txt+eventbasecode12+eventcode12+avgtone0.48786407766990286+goldsteinscale0.48+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.023026315789473683+news_keywords+['ceasefire:0.4863', 'ukraine:0.3945', 'putin:0.3715', 'senegal:0.3433', 'humanitarian:0.3351', 'evacuate:0.2582', 'union:0.2351', 'xinhua:0.2304', 'negotiate:0.1968', 'military:0.1877', 'chairperson:0.1852', 'alignment:0.1735', 'reaffirm:0.1596', 'feb:0.146', 'concern:0.1411', 'tweet:0.1404', 'immediate:0.1342', 'solution:0.1326', 'current:0.1316', 'hold:0.1234', 'brief:0.1223', 'non:0.1221', 'open:0.1105', 'sall:0.1096', 'request:0.104', 'phone:0.0947', 'faki:0.0839', 'emphasize:0.0579', 'welcome:0.0575', 'possible:0.0548']+titles_keywords+['ceasefire:0.4256', 'ukraine:0.3907', 'union:0.2377', 'african:0.2324', 'calls:0.1402']"
+        ]
+    ]
+}

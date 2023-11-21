@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+190":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/barryanddistrictnews.co.uk/Street fighting begins in Kyiv as Ukraine president refuses to leave.txt+eventbasecode190+eventcode190+avgtone0.47611788617886175+goldsteinscale0.0+nummentions0.3218432510885341+numarticles0.3223350253807107+numsources0.45394736842105265+news_keywords+['kyiv:0.5277', 'ceasefire:0.4372', 'militarily:0.3489', 'antiwar:0.3458', 'putins:0.3281', 'fight:0.3021', 'troop:0.2887', 'emergency:0.2825', 'overthrow:0.2789', 'gunfire:0.2722', 'proceed:0.259', 'stay:0.233', 'warn:0.2271', 'veto:0.2267', 'street:0.2245', 'tank:0.2222', 'shelter:0.2189', 'presidential:0.204', 'turn:0.1945', 'storm:0.1919', 'future:0.1794', 'bleak:0.1641', 'want:0.1556', 'tweet:0.1405', 'far:0.129', 'way:0.1261', 'bila:0.1187', 'associated:0.1098', 'total:0.1028', 'highlight:0.0858']+titles_keywords+['kyiv:0.4304', 'fighting:0.3772', 'street:0.2478', 'refuses:0.1682', 'president:0.1422']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220528+../news_crawling/RUS_UKR/p_articles/barryanddistrictnews.co.uk/Russia takes small cities as it aims to widen battle in east Ukraine.txt+eventbasecode190+eventcode190+avgtone0.48052536231884063+goldsteinscale0.0+nummentions0.36502177068214803+numarticles0.36548223350253806+numsources0.32894736842105265+news_keywords+['moscow:0.5172', 'kremlin:0.4975', 'ukraines:0.4345', 'nato:0.3811', 'invade:0.338', 'evacuate:0.3189', 'hostilities:0.3087', 'escalation:0.2935', 'azov:0.2504', 'separatist:0.2499', 'prevail:0.2437', 'news:0.2427', 'know:0.2274', 'prepare:0.2236', 'sievierodonetsks:0.2177', 'warhead:0.2119', 'reiterate:0.2054', 'railway:0.1975', 'help:0.1966', 'building:0.1889', 'enter:0.1864', 'governor:0.1855', 'resume:0.1781', 'long:0.1738', 'sophisticated:0.1701', 'block:0.1684', 'range:0.1531', 'major:0.1423', 'nearly:0.1299', 'population:0.1208']+titles_keywords+['ukraine:0.4105', 'widen:0.2102', 'battle:0.1699', 'small:0.1665', 'takes:0.1411']"
+        ]
+    ],
+    "UKR+UKR+190":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/barryanddistrictnews.co.uk/Russia batters Ukraine as both sides say they are ready for more talks.txt+eventbasecode190+eventcode190+avgtone0.4668508287292818+goldsteinscale0.0+nummentions0.33708272859216254+numarticles0.33756345177664976+numsources0.39473684210526316+news_keywords+['kremlin:0.5133', 'kyiv:0.4879', 'chechnya:0.4568', 'holocaust:0.4178', 'russias:0.4156', 'syria:0.3751', 'chernobyl:0.3643', 'invading:0.3479', 'boychenko:0.3275', 'escalation:0.2825', 'artillery:0.2698', 'rhetoric:0.255', 'strategic:0.2533', 'decommission:0.2507', 'casualty:0.2435', 'hit:0.229', 'news:0.2232', 'protest:0.2186', 'prepare:0.2092', 'coordinating:0.2053', 'remind:0.1825', 'resume:0.1606', 'cluster:0.1602', 'plant:0.1551', 'note:0.1435', 'watchdog:0.1433', 'teenager:0.1407', 'population:0.1406', 'according:0.1385', 'yar:0.1313']+titles_keywords+['ukraine:0.4364', 'batters:0.1857', 'sides:0.1489', 'talks:0.1467', 'ready:0.0904']"
+        ]
+    ]
+}

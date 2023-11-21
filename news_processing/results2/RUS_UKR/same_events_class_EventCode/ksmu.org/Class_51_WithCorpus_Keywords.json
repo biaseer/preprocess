@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/ksmu.org/The US will welcome up to 100000 Ukrainians fleeing the Russian invasion.txt+eventbasecode51+eventcode51+avgtone0.4756097560975609+goldsteinscale0.67+nummentions0.057329462989840346+numarticles0.05801305293691081+numsources0.12171052631578948+news_keywords+['refugee:0.5266', 'ukraine:0.4346', 'reunification:0.3891', 'nato:0.3676', 'troop:0.2672', 'infrastructure:0.2669', 'assistance:0.2603', 'crisis:0.2581', 'stay:0.2531', 'want:0.2503', 'understand:0.2453', 'advocate:0.2252', 'displace:0.2077', 'talk:0.2019', 'know:0.1959', 'job:0.1949', 'navigate:0.1863', 'funnel:0.1697', 'circumstance:0.1661', 'biden:0.1514', 'month:0.1374', 'woman:0.1347', 'center:0.1302', 'new:0.1275', 'integrate:0.123', 'thousand:0.1193', 'welcome:0.1138', 'far:0.1084', 'asylees:0.0826', 'partly:0.061']+titles_keywords+['ukrainians:0.515', 'invasion:0.3163', '100000:0.2719', 'fleeing:0.2616', 'welcome:0.0587']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220605+../news_crawling/RUS_UKR/p_articles/ksmu.org/Kyiv opera house reopens after 3 months.txt+eventbasecode51+eventcode51+avgtone0.48648648648648646+goldsteinscale0.67+nummentions0.07111756168359942+numarticles0.07179115300942712+numsources0.0625+news_keywords+['kyiv:0.532', 'operas:0.4699', 'theater:0.3431', 'poltavka:0.3299', 'conductor:0.3013', 'natalia:0.3013', 'russification:0.2956', 'rossini:0.2794', 'perform:0.2689', 'putin:0.2661', 'aristocracy:0.2541', 'production:0.234', 'archivist:0.2223', 'translate:0.1975', 'imperial:0.1779', 'evacuate:0.1779', 'speak:0.172', 'playbill:0.1391', 'preference:0.1279', 'tour:0.1275', 'song:0.1204', 'story:0.1118', 'forced:0.1092', 'enjoy:0.1016', 'sort:0.0965', 'late:0.0918', 'amid:0.0909', 'year:0.0878', 'th:0.0832', 'reopen:0.0732']+titles_keywords+['kyiv:0.4288', 'opera:0.3525', 'reopens:0.2376', 'house:0.2238', 'months:0.1974']"
+        ]
+    ]
+}

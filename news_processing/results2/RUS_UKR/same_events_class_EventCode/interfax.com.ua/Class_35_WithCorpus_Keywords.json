@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+35":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/There is hope for compromise at talks with Ukraine Lavrov.txt+eventbasecode35+eventcode35+avgtone0.4807692307692307+goldsteinscale0.85+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.003289473684210526+news_keywords+['negotiation:0.4441', 'ukraine:0.4351', 'compromise:0.4195', 'negotiator:0.3779', 'lavrov:0.3529', 'sergei:0.3355', 'russia:0.308', 'talk:0.2992', 'hope:0.2978', 'russian:0.2886', 'reach:0.1591', 'interview:0.1323', 'say:0.1293', 'foreign:0.1067', 'minister:0.1044', 'rely:0.0996', 'easy:0.0922', 'certain:0.0913', 'reason:0.0905', 'channel:0.0818', 'opinion:0.0547', 'apparent:0.0453', 'rbc:-0.0163']+titles_keywords+['compromise:0.4513', 'lavrov:0.393', 'hope:0.304', 'ukraine:0.2878', 'talks:0.2451']"
+        ],
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/London intends to supply Ukraine with longrange artillery and antiship missiles.txt+eventbasecode35+eventcode35+avgtone0.5+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.4519', 'missiles:0.4363', 'kyiv:0.391', 'ammunition:0.3823', 'howitzer:0.3434', 'supply:0.3087', 'tank:0.2982', 'bombard:0.2306', 'downing:0.226', 'range:0.2253', 'british:0.214', 'ship:0.2055', 'parliament:0.2039', 'aid:0.2038', 'antiship:0.1797', 'transfer:0.1681', 'tow:0.16', 'intend:0.1532', 'alongside:0.1499', 'long:0.1473', 'plastic:0.143', 'monday:0.1367', 'post:0.1361', 'source:0.1335', 'address:0.1239', 'recall:0.1172', 'important:0.1099', 'basis:0.0975', 'possible:0.0879', 'enable:0.0717']+titles_keywords+['ukraine:0.4152', 'artillery:0.3297', 'supply:0.2619', 'longrange:0.2083', 'antiship:0.1513']"
+        ]
+    ]
+}

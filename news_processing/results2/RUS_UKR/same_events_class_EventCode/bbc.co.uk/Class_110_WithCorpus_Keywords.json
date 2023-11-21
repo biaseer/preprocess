@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+110":[
+        [
+            "20220830+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Kherson Heavy fighting as Ukraine seeks to retake Russianheld region.txt+eventbasecode110+eventcode110+avgtone0.4773489932885906+goldsteinscale0.4+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.006578947368421052+news_keywords+['kyiv:0.5017', 'annexation:0.4254', 'putin:0.3378', 'russianheld:0.3173', 'kherson:0.3015', 'resupplies:0.2843', 'battle:0.259', 'forward:0.2083', 'occupied:0.2076', 'organise:0.204', 'result:0.2', 'warn:0.1984', 'bridge:0.1966', 'adviser:0.1958', 'casualty:0.1946', 'want:0.193', 'retake:0.1821', 'continue:0.1815', 'long:0.1784', 'coming:0.1631', 'february:0.1629', 'hold:0.1614', 'like:0.1524', 'quickly:0.15', 'slush:0.1444', 'major:0.138', 'state:0.1318', 'capability:0.1274', 'bronk:0.0999', 'dnipro:0.0678']+titles_keywords+['ukraine:0.4857', 'kherson:0.4532', 'fighting:0.3308', 'russianheld:0.2792', 'retake:0.1262']"
+        ]
+    ],
+    "UKR+RUS+110":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine Not all Russians support this war.txt+eventbasecode110+eventcode110+avgtone0.441666666666667+goldsteinscale0.4+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['ukraine:0.5479', 'putin:0.5141', 'russians:0.4763', 'war:0.3341', 'liberal:0.2383', 'economic:0.2018', 'young:0.1943', 'president:0.1857', 'concern:0.1832', 'sanction:0.1603', 'support:0.1449', 'lead:0.1398', 'crackdown:0.128', 'dissent:0.1237', 'shock:0.0965', 'late:0.0671']+titles_keywords+['ukraine:0.5731', 'russians:0.5371', 'war:0.3347', 'support:0.1288']"
+        ],
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine conflict Russia will push back Ukraine frontline Lavrov.txt+eventbasecode110+eventcode110+avgtone0.46969696969696967+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5308', 'russian:0.3689', 'sergei:0.3595', 'lavrov:0.357', 'nazism:0.3276', 'frontline:0.3201', 'threaten:0.3182', 'conflict:0.3095', 'missile:0.2917', 'troop:0.2399', 'federation:0.2385', 'range:0.2028', 'rosenberg:0.1925', 'supply:0.1898', 'news:0.1765', 'respond:0.1705', 'rife:0.1649', 'baseless:0.1636', 'push:0.159', 'west:0.1544', 'neo:0.1411', 'bbc:0.1333', 'editor:0.1265', 'say:0.1263', 'question:0.1251', 'long:0.1214', 'send:0.0967', 'minister:0.0746', 'claim:0.0696', 'steve:0.0491']+titles_keywords+['lavrov:0.5162', 'frontline:0.395', 'ukraine:0.3692', 'push:0.2271', 'conflict:0.1926']"
+        ]
+    ]
+}

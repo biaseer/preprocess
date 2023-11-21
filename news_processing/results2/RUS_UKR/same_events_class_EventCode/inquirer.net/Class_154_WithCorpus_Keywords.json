@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/inquirer.net/Ukraine says troops may retreat from eastern region as Russia advances.txt+eventbasecode154+eventcode154+avgtone0.47931034482758617+goldsteinscale0.13999999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.4535', 'putin:0.3874', 'news:0.3132', 'war:0.2827', 'blockade:0.2776', 'annex:0.2774', 'diplomatic:0.2767', 'predict:0.2604', 'sievierodonetsk:0.2545', 'read:0.2537', 'separatist:0.2465', 'telegram:0.2294', 'know:0.2206', 'organisation:0.2117', 'terms:0.2104', 'thursday:0.202', 'brief:0.2019', 'continue:0.201', 'pipeline:0.1887', 'title:0.188', 'scared:0.1826', 'ready:0.1803', 'swap:0.1798', 'north:0.1783', 'railway:0.1674', 'donets:0.1435', 'difference:0.1396', 'hour:0.1316', 'reach:0.1302', 'swathe:0.1274']+titles_keywords+['ukraine:0.3766', 'retreat:0.3278', 'troops:0.1997', 'advances:0.0756', 'says:-0.0153']"
+        ]
+    ],
+    "WST+UKR+154":[
+        [
+            "20220203+../news_crawling/RUS_UKR/p_articles/inquirer.net/US deploys 3000 troops in Ukraine standoff.txt+eventbasecode154+eventcode154+avgtone0.48995535714285715+goldsteinscale0.13999999999999999+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['nato:0.4847', 'putin:0.448', 'kyiv:0.3915', 'russias:0.3854', 'invade:0.3725', 'diplomatic:0.3481', 'standoff:0.2676', 'announce:0.2563', 'coordinate:0.2547', 'prepare:0.246', 'unify:0.239', 'reassure:0.2257', 'scope:0.2195', 'thursday:0.2114', 'sanction:0.1991', 'read:0.1934', 'movement:0.1932', 'jinping:0.1783', 'deployed:0.1777', 'pais:0.1656', 'imply:0.1555', 'word:0.1554', 'sure:0.142', 'end:0.1386', 'unwillingness:0.1343', 'state:0.1273', 'longer:0.1088', 'similar:0.107', 'stoltenberg:0.0995', 'hoped:0.0746']+titles_keywords+['standoff:0.315', 'ukraine:0.296', 'troops:0.2894', '3000:0.2831', 'deploys:0.2435']"
+        ]
+    ]
+}

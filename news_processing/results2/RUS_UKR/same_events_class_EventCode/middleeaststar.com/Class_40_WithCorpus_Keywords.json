@@ -1,0 +1,17 @@
+{
+    "BEL+RUS+40":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/middleeaststar.com/France ready to assist Ukraine with military equipment says Ukraine Foreign Minister.txt+eventbasecode40+eventcode40+avgtone0.4932203389830508+goldsteinscale0.55+nummentions0.026850507982583455+numarticles0.02755620014503263+numsources0.039473684210526314+news_keywords+['nato:0.5383', 'russia:0.4236', 'kiev:0.3657', 'treaty:0.3492', 'war:0.3141', 'invasion:0.2635', 'troop:0.262', 'coalition:0.241', 'defend:0.2245', 'sanction:0.2183', 'president:0.2156', 'yves:0.207', 'strengthening:0.1933', 'supply:0.1847', 'introduce:0.183', 'keiv:0.1696', 'help:0.1694', 'volodymyr:0.1693', 'ready:0.1673', 'friday:0.1673', 'furthermore:0.1591', 'banking:0.1509', 'counterpart:0.1489', 'breakaway:0.143', 'telephonic:0.1411', 'hold:0.1153', 'ani:0.0886', 'hour:0.0844', 'grateful:0.0815', 'share:0.0621']+titles_keywords+['ukraine:0.3599', 'equipment:0.1877', 'military:0.1839', 'ready:0.1583', 'assist:0.15']"
+        ]
+    ],
+    "MMR+RUS+40":[
+        [
+            "20220618+../news_crawling/RUS_UKR/p_articles/middleeaststar.com/Myanmar to join Russias financial messaging system.txt+eventbasecode40+eventcode40+avgtone0.49457994579945797+goldsteinscale0.55+nummentions0.04934687953555878+numarticles0.05003625815808557+numsources0.04276315789473684+news_keywords+['myanmar:0.4621', 'russias:0.3517', 'ruble:0.3202', 'banking:0.2929', 'yuan:0.2865', 'transaction:0.2559', 'international:0.2415', 'economic:0.2231', 'petersburg:0.2169', 'junta:0.2044', 'sanction:0.1735', 'card:0.165', 'relation:0.1617', 'forum:0.155', 'talk:0.1434', 'join:0.1416', 'ani:0.1411', 'swift:0.1403', 'adviser:0.1386', 'use:0.1356', 'naing:0.1249', 'include:0.1208', 'issue:0.1161', 'saturday:0.0952', 'head:0.0891', 'yes:0.0849', 'alternative:0.082', 'grain:0.082', 'increase:0.0791', 'year:0.0508']+titles_keywords+['myanmar:0.3999', 'russias:0.3196', 'messaging:0.2836', 'financial:0.185', 'join:0.1843']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/middleeaststar.com/Russia tests antidrone gun in Ukraine media.txt+eventbasecode40+eventcode40+avgtone0.48148148148148145+goldsteinscale0.55+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.013157894736842105+news_keywords+['drone:0.5172', 'ukraine:0.3886', 'laser:0.379', 'weapon:0.3632', 'dmitry:0.3467', 'antidrone:0.3351', 'futuristic:0.285', 'electromagnetic:0.2753', 'militia:0.2698', 'zadira:0.2518', 'deploy:0.2356', 'range:0.1971', 'projector:0.1751', 'research:0.1735', 'report:0.1602', 'aim:0.1524', 'look:0.1462', 'stupor:0.1279', 'effective:0.1246', 'program:0.1114', 'reportedly:0.1104', 'km:0.1097', 'interfere:0.1093', 'prime:0.1084', 'tass:0.1068', 'sponsor:0.0983', 'familiar:0.0932', 'send:0.0728', 'exactly:0.0688', 'long:0.0589']+titles_keywords+['ukraine:0.4254', 'antidrone:0.3645', 'gun:0.3475', 'tests:0.2365', 'media:0.1097']"
+        ]
+    ]
+}

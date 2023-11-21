@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+1123":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/wbaa.org/Russia accused of war crimes in missile attack on Ukrainian train station.txt+eventbasecode112+eventcode1123+avgtone0.404255319148936+goldsteinscale0.4+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.046052631578947366+news_keywords+['kyiv:0.4525', 'russians:0.3987', 'war:0.3895', 'attack:0.3247', 'missile:0.2952', 'evacuate:0.2931', 'kill:0.289', 'safety:0.2718', 'report:0.2562', 'accuse:0.2546', 'worry:0.2347', 'law:0.2191', 'type:0.2035', 'buss:0.1942', 'hospital:0.1917', 'horrific:0.1888', 'child:0.1823', 'world:0.1805', 'future:0.1787', 'president:0.1774', 'description:0.1741', 'begin:0.1696', 'look:0.1693', 'right:0.1425', 'npr:0.1339', 'recover:0.1337', 'surround:0.1239', 'near:0.1175', 'thousand:0.1092', 'big:0.0948']+titles_keywords+['ukrainian:0.3537', 'accused:0.3185', 'missile:0.2538', 'war:0.2324', 'station:0.1364']"
+        ],
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/wbaa.org/Ukraine begins prosecuting Russians for war crimes.txt+eventbasecode112+eventcode1123+avgtone0.4+goldsteinscale0.4+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.04276315789473684+news_keywords+['ukraine:0.4679', 'prosecute:0.3598', 'war:0.3551', 'suspect:0.328', 'nazi:0.2929', 'case:0.2893', 'journalist:0.2682', 'sergeant:0.2412', 'witness:0.239', 'gunpoint:0.2285', 'proceeding:0.2273', 'capital:0.2135', 'know:0.2118', 'atrocity:0.2109', 'capture:0.2004', 'evidence:0.1859', 'bucha:0.1747', 'file:0.1734', 'resume:0.1697', 'shoot:0.1694', 'seat:0.1677', 'combine:0.1675', 'vadim:0.1407', 'quickly:0.1336', 'link:0.1282', 'friday:0.1268', 'far:0.1109', 'lot:0.0965', 'shishimarin:0.0683', 'shave:0.0437']+titles_keywords+['ukraine:0.4042', 'russians:0.3818', 'prosecuting:0.2555', 'begins:0.2196', 'war:0.2151']"
+        ]
+    ],
+    "UKR+RUS+1123":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/wbaa.org/Ukrainians accuse Russia of attack meant to push Belarus into war.txt+eventbasecode112+eventcode1123+avgtone0.422222222222222+goldsteinscale0.4+nummentions0.04354136429608128+numarticles0.04423495286439449+numsources0.09868421052631579+news_keywords+['belarusians:0.5053', 'oblast:0.4194', 'putin:0.4065', 'airstrikes:0.3517', 'attack:0.3256', 'border:0.2923', 'voronchenko:0.2842', 'military:0.2496', 'worry:0.2112', 'enter:0.209', 'airspace:0.2089', 'occur:0.2002', 'know:0.1813', 'npr:0.1806', 'interpreter:0.1734', 'pavlyshyn:0.1698', 'swampy:0.15', 'byline:0.1482', 'locate:0.1468', 'plant:0.1395', 'want:0.1364', 'quote:0.13', 'possibility:0.1271', 'prevent:0.1269', 'sure:0.125', 'word:0.1226', 'nonsense:0.1195', 'hell:0.1126', 'double:0.093', 'today:0.0761']+titles_keywords+['belarus:0.3871', 'ukrainians:0.3868', 'accuse:0.2938', 'war:0.266', 'meant:0.0842']"
+        ]
+    ]
+}

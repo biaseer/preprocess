@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+43":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/dunfermlinepress.com/UKbased Russians horrified by war in Ukraine.txt+eventbasecode43+eventcode43+avgtone0.4679738562091504+goldsteinscale0.64+nummentions0.03483309143686502+numarticles0.03553299492385787+numsources0.08552631578947369+news_keywords+['putin:0.5017', 'kgb:0.459', 'kyiv:0.4364', 'propaganda:0.4226', 'war:0.3547', 'refugee:0.3103', 'invasion:0.3016', 'protest:0.2388', 'bashtanova:0.2198', 'realise:0.2154', 'people:0.212', 'worried:0.207', 'pushkin:0.2061', 'organisation:0.1877', 'censor:0.187', 'emphasise:0.1846', 'publish:0.1712', 'chemistry:0.1588', 'horrify:0.1583', 'world:0.1528', 'ukbased:0.1457', 'grow:0.1408', 'relay:0.1395', 'dark:0.1365', 'echoed:0.1307', 'long:0.1193', 'story:0.1028', 'mr:0.0994', 'true:0.0923', 'doesnt:0.0632']+titles_keywords+['russians:0.5269', 'ukraine:0.5234', 'war:0.3346', 'horrified:0.2818', 'ukbased:0.243']"
+        ]
+    ],
+    "POL+UKR+43":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/dunfermlinepress.com/They were shooting civilians says Ukrainian who fled to Poland for safety.txt+eventbasecode43+eventcode43+avgtone0.4685483870967742+goldsteinscale0.64+nummentions0.13570391872278664+numarticles0.1363306744017404+numsources0.20394736842105263+news_keywords+['kyiv:0.4814', 'evacuation:0.4139', 'russians:0.4089', 'refugee:0.3992', 'civilians:0.3766', 'war:0.3441', 'blockade:0.2973', 'diekov:0.2773', 'kill:0.2465', 'investigation:0.2326', 'contingency:0.231', 'turn:0.2063', 'corridor:0.2038', 'river:0.1864', 'afraid:0.1836', 'continue:0.1753', 'increasingly:0.1734', 'enter:0.1684', 'span:0.1614', 'ihor:0.1574', 'world:0.1571', 'anna:0.1534', 'intense:0.1488', 'plant:0.1347', 'forced:0.1316', 'official:0.128', 'dozen:0.1061', 'mr:0.0856', 'state:0.0823', 'true:0.0636']+titles_keywords+['ukrainian:0.4323', 'civilians:0.4228', 'shooting:0.3249', 'fled:0.2782', 'says:0.0544']"
+        ]
+    ]
+}

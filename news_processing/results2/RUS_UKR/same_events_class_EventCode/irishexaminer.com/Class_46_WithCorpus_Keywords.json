@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220109+../news_crawling/RUS_UKR/p_articles/irishexaminer.com/Russian diplomat predicts difficult week of talks with US over Ukraine.txt+eventbasecode46+eventcode46+avgtone0.49130434782608695+goldsteinscale0.85+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['diplomacy:0.4385', 'putin:0.4308', 'nato:0.4236', 'ukraines:0.3776', 'ryabkov:0.2943', 'meeting:0.2848', 'geneva:0.2516', 'delegation:0.238', 'forthcoming:0.2372', 'eastward:0.2313', 'concerns:0.2188', 'reinforce:0.2101', 'news:0.1985', 'secretary:0.1974', 'formulate:0.1963', 'prospect:0.1896', 'incursion:0.1815', 'week:0.1785', 'predict:0.178', 'expectation:0.1687', 'attend:0.1617', 'subject:0.1565', 'long:0.1459', 'curtail:0.1436', 'clearer:0.1422', 'bilateral:0.1376', 'end:0.118', 'state:0.1107', 'list:0.0987', 'bid:0.0945']+titles_keywords+['diplomat:0.3651', 'week:0.2836', 'ukraine:0.2671', 'difficult:0.1685', 'predicts:0.1058']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20220122+../news_crawling/RUS_UKR/p_articles/irishexaminer.com/US and Russia agree to keep talking amid tensions over Ukraine.txt+eventbasecode46+eventcode46+avgtone0.5009803921568627+goldsteinscale0.85+nummentions0.18396226415094338+numarticles0.1845540246555475+numsources0.3684210526315789+news_keywords+['diplomacy:0.4476', 'nato:0.4282', 'putin:0.397', 'kyivs:0.3579', 'invades:0.2972', 'pursue:0.2737', 'deploy:0.2609', 'manoeuvre:0.213', 'scenario:0.2102', 'concern:0.2096', 'ongoing:0.2039', 'anticipate:0.1987', 'meet:0.1926', 'know:0.1909', 'aid:0.1866', 'forefront:0.1743', 'supply:0.1708', 'word:0.1705', 'pull:0.1704', 'promise:0.1671', 'reiterate:0.1657', 'secretary:0.1611', 'virtual:0.1567', 'strike:0.1448', 'send:0.1278', 'pgpqh:0.127', 'week:0.1263', 'difference:0.1196', 'state:0.1055', 'kirby:0.0868']+titles_keywords+['talking:0.31', 'ukraine:0.29', 'tensions:0.0986', 'agree:0.0386', 'amid:-0.0234']"
+        ]
+    ]
+}

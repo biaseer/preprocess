@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+42":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/irishexaminer.com/US condemns Putins nuclear alert order as EU to close airspace to Russian planes.txt+eventbasecode42+eventcode42+avgtone0.48377483443708613+goldsteinscale0.595+nummentions0.3098693759071118+numarticles0.3103698332124728+numsources0.27960526315789475+news_keywords+['putin:0.546', 'nato:0.4613', 'russias:0.437', 'kyiv:0.4167', 'war:0.3462', 'reuters:0.3265', 'diplomat:0.304', 'eu:0.2936', 'sanction:0.2868', 'escalate:0.2766', 'sputnik:0.2661', 'airspace:0.2649', 'overthrow:0.2539', 'order:0.2346', 'dangerous:0.2317', 'coincide:0.2253', 'telegram:0.2223', 'shortly:0.213', 'table:0.2112', 'bloc:0.2093', 'enter:0.2032', 'read:0.2013', 'burn:0.1982', 'speaking:0.1923', 'end:0.1852', 'disclose:0.1826', 'pipeline:0.1819', 'arent:0.1453', 'cover:0.1384', 'state:0.1074']+titles_keywords+['putins:0.3256', 'nuclear:0.2676', 'airspace:0.2399', 'eu:0.2313', 'alert:0.2185']"
+        ]
+    ],
+    "IRL+UKR+42":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/irishexaminer.com/Corkbased plumber returns home to fight for Ukraine.txt+eventbasecode42+eventcode42+avgtone0.45+goldsteinscale0.595+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.4794', 'troop:0.359', 'limerick:0.3552', 'russias:0.3372', 'invade:0.2954', 'inform:0.2633', 'worry:0.259', 'ally:0.2585', 'missile:0.2535', 'border:0.2413', 'hear:0.2376', 'plan:0.2316', 'fight:0.2295', 'shellshocked:0.211', 'flak:0.2105', 'lie:0.2096', 'push:0.2084', 'readied:0.198', 'okay:0.1884', 'order:0.1833', 'rt:0.1753', 'long:0.1748', 'continue:0.1701', 'economic:0.1591', 'mitigan:0.1525', 'like:0.1481', 'thursday:0.1441', 'plumber:0.1427', 'young:0.1077', 'thousand:0.0994']+titles_keywords+['plumber:0.4924', 'corkbased:0.4074', 'ukraine:0.3576', 'fight:0.1801', 'returns:0.1426']"
+        ]
+    ]
+}

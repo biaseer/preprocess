@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220526+../news_crawling/RUS_UKR/p_articles/breitbart.com/Bidens America Gas Price Average Reaches Record High of 460.txt+eventbasecode12+eventcode12+avgtone0.48856209150326796+goldsteinscale0.48+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.013157894736842105+news_keywords+['gas:0.3506', 'putin:0.3249', 'russias:0.2785', 'gallon:0.2696', 'biden:0.2553', 'increase:0.2303', 'granholm:0.2253', 'invade:0.2186', 'state:0.2178', 'average:0.1961', 'record:0.1944', 'recent:0.1938', 'blame:0.1804', 'high:0.1792', 'narrative:0.167', 'industry:0.1665', 'policy:0.1653', 'struggle:0.164', 'march:0.1633', 'price:0.1384', 'say:0.1361', 'reaches:0.1346', 'secretary:0.1261', 'survey:0.12', 'indicate:0.1145', 'york:0.1025', 'nearly:0.0903', 'order:0.0875', 'board:0.0435', 'thank:0.0423']+titles_keywords+['gas:0.2701', '460:0.2673', 'bidens:0.2496', 'average:0.2327', 'record:0.2212']"
+        ],
+        [
+            "20220710+../news_crawling/RUS_UKR/p_articles/breitbart.com/Food Crisis Harvest Fears as Millions of Tons of Grain Still Stuck in Ukraine.txt+eventbasecode12+eventcode12+avgtone0.4795353982300885+goldsteinscale0.48+nummentions0.09506531204644413+numarticles0.09572153734590283+numsources0.10197368421052631+news_keywords+['agriculture:0.4172', 'ukraines:0.378', 'shortage:0.3381', 'grain:0.3334', 'war:0.2981', 'reap:0.2955', 'blockade:0.2829', 'occupy:0.2592', 'migrant:0.2573', 'feed:0.2572', 'erdogan:0.2553', 'crisis:0.2484', 'stashevskyi:0.2405', 'breadbasket:0.2265', 'truck:0.21', 'trader:0.209', 'risk:0.2044', 'aya:0.1936', 'independence:0.1911', 'north:0.185', 'project:0.1773', 'send:0.1767', 'instead:0.1726', 'continue:0.1539', 'uncertain:0.1504', 'soon:0.1399', 'gro:0.1331', 'million:0.1329', 'print:0.1149', 'ministershttps:0.11']+titles_keywords+['harvest:0.3987', 'ukraine:0.3045', 'fears:0.2034', 'stuck:0.1919', 'millions:0.1666']"
+        ]
+    ]
+}

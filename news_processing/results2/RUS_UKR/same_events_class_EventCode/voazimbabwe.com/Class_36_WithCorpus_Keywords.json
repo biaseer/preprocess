@@ -1,0 +1,17 @@
+{
+    "BLR+RUS+36":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/US Moves to Sever Russian Access to Dollars.txt+eventbasecode36+eventcode36+avgtone0.4809027777777778+goldsteinscale0.7+nummentions0.026124818577648767+numarticles0.026831036983321246+numsources0.04276315789473684+news_keywords+['putin:0.498', 'russias:0.4728', 'invade:0.3584', 'kyiv:0.3451', 'economy:0.3255', 'treasury:0.3186', 'diplomatic:0.3084', 'disinformation:0.2949', 'sanction:0.2765', 'emergency:0.2391', 'moves:0.2378', 'unprovoked:0.235', 'delegations:0.2323', 'fund:0.2198', 'transaction:0.2107', 'prepare:0.2088', 'know:0.1951', 'foreign:0.1864', 'remove:0.1852', 'sunk:0.1837', 'follow:0.1732', 'export:0.1697', 'pledge:0.1605', 'billion:0.1532', 'week:0.1459', 'measure:0.1416', 'swifting:0.1274', 'background:0.1183', 'brazen:0.115', 'house:0.093']+titles_keywords+['russian:0.3283', 'dollars:0.2838', 'moves:0.1491', 'access:0.0692', 'sever:0.0265']"
+        ]
+    ],
+    "RUS+TUR+36":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/Ukraine Russia Agree to Civilian Evacuations.txt+eventbasecode36+eventcode36+avgtone0.47701949860724235+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.009868421052631578+news_keywords+['evacuations:0.5237', 'ukrainian:0.4302', 'civilians:0.3977', 'airstrike:0.3915', 'nato:0.3819', 'putins:0.3583', 'refugee:0.3554', 'war:0.3504', 'reuters:0.3119', 'diplomatic:0.3109', 'correspondent:0.2918', 'hostage:0.279', 'pentagon:0.2345', 'unprovoked:0.2274', 'leave:0.2187', 'capital:0.2', 'additional:0.1631', 'want:0.1545', 'allow:0.1496', 'monday:0.1467', 'end:0.1383', 'importing:0.1362', 'subjugate:0.1307', 'carla:0.128', 'accuse:0.1258', 'video:0.1167', 'near:0.1127', 'million:0.112', 'state:0.0961', 'way:0.0952']+titles_keywords+['evacuations:0.463', 'ukraine:0.4417', 'russia:0.2994', 'civilian:0.172', 'agree:0.0704']"
+        ]
+    ],
+    "WST+UKR+36":[
+        [
+            "20220628+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/Russia Launches New Missile Attacks on Ukraine.txt+eventbasecode36+eventcode36+avgtone0.4715984147952444+goldsteinscale0.7+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['ukraine:0.4941', 'nato:0.4824', 'war:0.3924', 'putins:0.3889', 'attack:0.3442', 'terrorist:0.3351', 'military:0.3091', 'zelenskyy:0.2611', 'history:0.2449', 'sanction:0.2382', 'industrialized:0.2329', 'launches:0.2105', 'telegram:0.2084', 'plan:0.2034', 'supply:0.1999', 'term:0.1794', 'increase:0.1716', 'consultation:0.1701', 'monday:0.1696', 'horrify:0.1502', 'entities:0.1474', 'end:0.1422', 'exactly:0.1414', 'coma:0.1384', 'say:0.1321', 'near:0.1213', 'dozen:0.1193', 'major:0.1107', 'calculate:0.0991', 'kh:0.0988']+titles_keywords+['ukraine:0.38', 'missile:0.3119', 'attacks:0.284', 'launches:0.1696', 'new:0.1617']"
+        ]
+    ]
+}

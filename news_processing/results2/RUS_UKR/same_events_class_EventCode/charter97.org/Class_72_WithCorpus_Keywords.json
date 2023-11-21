@@ -1,0 +1,15 @@
+{
+    "RUS+BLR+72":[
+        [
+            "20220119+../news_crawling/RUS_UKR/p_articles/charter97.org/American Official Moment That Will Decide Lukashenkas Fate Comes.txt+eventbasecode72+eventcode72+avgtone0.5+goldsteinscale0.915+nummentions0.04753265602322206+numarticles0.048223350253807105+numsources0.07236842105263158+news_keywords+['lukashenkas:0.5367', 'moment:0.3011', 'decide:0.2481', 'fate:0.223', 'official:0.2067', 'american:0.1935', 'comes:0.1664']+titles_keywords+['lukashenkas:0.5367', 'moment:0.3011', 'decide:0.2481', 'official:0.2067', 'american:0.1935']"
+        ],
+        [
+            "20220511+../news_crawling/RUS_UKR/p_articles/charter97.org/Oleksandr Khara Lukashenka Must Be Held Liable for Crimes Against Ukraine.txt+eventbasecode72+eventcode72+avgtone0.47916666666666663+goldsteinscale0.915+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['minsk:0.4879', 'putin:0.4104', 'ukrainian:0.3847', 'lukashenka:0.3804', 'tribunal:0.2936', 'genocide:0.2828', 'prosecute:0.2805', 'complicity:0.2736', 'conquer:0.2508', 'aggressor:0.2476', 'legislation:0.2251', 'military:0.1964', 'historic:0.1953', 'commit:0.1876', 'mention:0.1802', 'hit:0.1754', 'concern:0.1735', 'airspace:0.1707', 'long:0.1586', 'evidence:0.1569', 'help:0.1545', 'bucha:0.1427', 'state:0.1305', 'th:0.1259', 'properly:0.1122', 'reason:0.1096', 'lease:0.1016', 'deal:0.0973', 'wag:0.0628', 'resolution:0.0518']+titles_keywords+['lukashenka:0.4765', 'ukraine:0.393', 'liable:0.3822', 'crimes:0.3082', 'khara:0.2491']"
+        ]
+    ],
+    "UKR+RUS+72":[
+        [
+            "20220822+../news_crawling/RUS_UKR/p_articles/charter97.org/AFU Destroy Group Of Russian Troops And Ammunition Depot.txt+eventbasecode72+eventcode72+avgtone0.47023809523809523+goldsteinscale0.915+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['artillery:0.4741', 'drone:0.4569', 'unmanned:0.3899', 'troops:0.3724', 'ammunition:0.3692', 'ukrainian:0.3674', 'troop:0.3609', 'aerial:0.3536', 'russian:0.349', 'afu:0.3211', 'vehicle:0.288', 'armed:0.2839', 'enemy:0.2762', 'destroy:0.2676', 'depot:0.2105', 'pd:0.204', 'track:0.1975', 'position:0.1939', 'help:0.193', 'group:0.1766', 'correct:0.1759', 'use:0.1738', 'forces:0.1538', 'occupant:0.1515', 'concentration:0.1449', 'strike:0.1244', 'result:0.1151']+titles_keywords+['afu:0.3899', 'russian:0.3078', 'destroy:0.3063', 'troops:0.3027', 'ammunition:0.2787']"
+        ]
+    ]
+}

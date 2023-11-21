@@ -1,0 +1,23 @@
+{
+    "RUS+GBR+80":[
+        [
+            "20220612+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine No pardon for Britons sentenced to death says proRussian leader.txt+eventbasecode80+eventcode80+avgtone0.4878048780487804+goldsteinscale0.75+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4574', 'donetsk:0.2964', 'russian:0.2846', 'britons:0.2679', 'prorussian:0.2501', 'pardon:0.2473', 'british:0.2124', 'separatist:0.2004', 'death:0.1774', 'reason:0.1383', 'leader:0.135', 'region:0.1338', 'sentence:0.1232', 'national:0.0729', 'sunday:0.0552', 'say:0.0477']+titles_keywords+['ukraine:0.3761', 'sentenced:0.2445', 'britons:0.2362', 'leader:0.1051', 'says:0.0485']"
+        ]
+    ],
+    "RUS+UKR+80":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/wn.com/Russia promises to scale down operations around Kyiv and in northern Ukraine.txt+eventbasecode80+eventcode80+avgtone0.5235294117647059+goldsteinscale0.75+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5688', 'ukraine:0.497', 'istanbulkyiv:0.4233', 'russia:0.3841', 'istanbul:0.3722', 'peace:0.2887', 'outskirtsmariupol:0.2657', 'operation:0.2599', 'military:0.2471', 'protect:0.242', 'attack:0.2222', 'promise:0.213', 'talk:0.199', 'northern:0.161', 'palace:0.1605', 'propose:0.1599', 'neutral:0.1541', 'international:0.1495', 'guarantee:0.1244', 'status:0.1205', 'tuesday:0.0977', 'scale:0.0688', 'adopt:0.0231']+titles_keywords+['kyiv:0.4974', 'scale:0.2197', 'northern:0.1393', 'promises:0.1145', 'operations:0.1008']"
+        ],
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/wn.com/Russia says nearly 700 more Ukrainian fighters have surrendered in Mariupol.txt+eventbasecode80+eventcode80+avgtone0.4722222222222222+goldsteinscale0.75+nummentions0.002902757619738752+numarticles0.002175489485134155+numsources0.0+news_keywords+['russian:0.4297', 'ukrainian:0.4185', 'moscow:0.4132', 'surrender:0.408', 'russia:0.374', 'mariupol:0.2928', 'key:0.2628', 'held:0.2349', 'shore:0.209', 'nearly:0.2041', 'fighter:0.1965', 'south:0.175', 'gain:0.1442', 'say:0.0904']+titles_keywords+['ukrainian:0.3388', 'surrendered:0.3339', '700:0.285', 'fighters:0.2145', 'mariupol:0.1772']"
+        ],
+        [
+            "20220628+../news_crawling/RUS_UKR/p_articles/wn.com/Russia offensive will end when Ukraine surrenders Kremlin.txt+eventbasecode80+eventcode80+avgtone0.45833333333333337+goldsteinscale0.75+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.013157894736842105+news_keywords+['kremlin:0.4221', 'kyiv:0.4098', 'surrender:0.4006', 'ukraine:0.3869', 'russia:0.3136', 'halt:0.263', 'end:0.2419', 'troop:0.191', 'soon:0.1529', 'offensive:0.1457', 'arm:0.1401', 'order:0.1097', 'say:0.1015', 'tuesday:0.086', 'lay:0.0829', 'urge:0.0491']+titles_keywords+['kremlin:0.4666', 'surrenders:0.3788', 'ukraine:0.3515', 'end:0.281', 'offensive:0.2153']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220417+../news_crawling/RUS_UKR/p_articles/wn.com/Mariupol on the brink of falling as Ukrainian fighters defy Russian surrender demands.txt+eventbasecode80+eventcode80+avgtone0.44776119402985104+goldsteinscale0.75+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4621', 'surrender:0.4262', 'russian:0.3868', 'battle:0.3525', 'war:0.3268', 'troop:0.2954', 'azovstal:0.2897', 'steelworks:0.2848', 'bulos:0.2597', 'fighter:0.2327', 'bunker:0.2326', 'city:0.2181', 'brink:0.2179', 'fall:0.2098', 'deadline:0.2039', 'port:0.2006', 'outcome:0.1966', 'nabih:0.1803', 'change:0.17', 'kate:0.161', 'come:0.1594', 'devastated:0.1456', 'severodonetsk:0.1388', 'sunday:0.1356', 'pitch:0.1329', 'defy:0.1314', 'thousand:0.1111', 'course:0.1105', 'linthicum:0.0813', 'demand:0.0714']+titles_keywords+['surrender:0.3983', 'ukrainian:0.3497', 'mariupol:0.3451', 'falling:0.2768', 'brink:0.1834']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220709+../news_crawling/RUS_UKR/p_articles/thepeninsulaqatar.com/Zelenskiy sacks Ukraines envoy to Germany other ambassadors.txt+eventbasecode10+eventcode10+avgtone0.4959839357429719+goldsteinscale0.5+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.5278', 'diplomat:0.3843', 'zelenskiy:0.3494', 'dnipropetrovsk:0.2825', 'berlin:0.2594', 'invasion:0.2535', 'gazprom:0.246', 'president:0.2364', 'appoint:0.202', 'economy:0.1987', 'behave:0.1952', 'visit:0.189', 'scholz:0.175', 'oppose:0.174', 'know:0.1698', 'republic:0.1693', 'sanction:0.1499', 'military:0.1495', 'position:0.1456', 'gas:0.1362', 'sausage:0.1335', 'accept:0.1271', 'immediately:0.1238', 'andriy:0.117', 'turbine:0.1092', 'feb:0.094', 'include:0.0865', 'olaf:0.0846', 'big:0.0514', 'particularly:0.048']+titles_keywords+['zelenskiy:0.4728', 'ukraines:0.4015', 'envoy:0.324', 'ambassadors:0.281', 'sacks:0.0664']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/thepeninsulaqatar.com/Ukrainians say hackers used local government sites to spread fake capitulation news.txt+eventbasecode10+eventcode10+avgtone0.4520547945205482+goldsteinscale0.5+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.01644736842105263+news_keywords+['ukraine:0.4937', 'kremlin:0.4711', 'hack:0.3648', 'spy:0.3645', 'government:0.3563', 'hijack:0.3387', 'misinformation:0.3052', 'cyber:0.293', 'invasion:0.2747', 'report:0.2654', 'debunk:0.238', 'treaty:0.2334', 'twitter:0.229', 'false:0.2048', 'accuse:0.2009', 'researcher:0.1907', 'ghostwriter:0.1906', 'protection:0.1647', 'official:0.1639', 'link:0.1598', 'capitulation:0.1502', 'fight:0.1309', 'local:0.1279', 'track:0.0961', 'end:0.0902', 'springboard:0.0891', 'make:0.0859', 'year:0.0849', 'clear:0.0836', 'offer:0.0147']+titles_keywords+['ukrainians:0.414', 'fake:0.2648', 'news:0.2528', 'capitulation:0.2502', 'sites:0.1874']"
+        ]
+    ]
+}

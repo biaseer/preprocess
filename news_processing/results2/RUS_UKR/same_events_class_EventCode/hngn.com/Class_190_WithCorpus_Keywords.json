@@ -1,0 +1,20 @@
+{
+    "GBR+UKR+190":[
+        [
+            "20220826+../news_crawling/RUS_UKR/p_articles/hngn.com/RussiaUkraine War Vladimir Putin Approves Military Expansion Amid Major Casualties.txt+eventbasecode190+eventcode190+avgtone0.47290209790209786+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4841', 'russiaukraine:0.4465', 'kyiv:0.4096', 'war:0.3716', 'mobilization:0.3514', 'army:0.3424', 'government:0.3138', 'casualties:0.3082', 'increase:0.2707', 'strategic:0.2488', 'news:0.2176', 'correspond:0.2134', 'deferment:0.2016', 'general:0.1996', 'headcount:0.1964', 'regions:0.1788', 'report:0.1727', 'ordered:0.1693', 'big:0.1634', 'age:0.1583', 'begin:0.1521', 'total:0.1516', 'month:0.1515', 'approves:0.1427', 'short:0.1406', 'process:0.1378', 'note:0.119', 'avoids:0.1189', 'roughly:0.0966', 'budget:0.0871']+titles_keywords+['putin:0.4961', 'russiaukraine:0.4072', 'casualties:0.3063', 'expansion:0.2352', 'approves:0.1807']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/hngn.com/RussiaUkraine Crisis German Intelligence Intercepts Russian Radio Comms on Bucha Massacre.txt+eventbasecode190+eventcode190+avgtone0.45806451612903215+goldsteinscale0.0+nummentions0.022496371552975326+numarticles0.023205221174764323+numsources0.05263157894736842+news_keywords+['russiaukraine:0.4852', 'putin:0.4468', 'massacre:0.4367', 'ukrainians:0.3926', 'crime:0.3603', 'government:0.3586', 'syrian:0.3469', 'reuters:0.3458', 'war:0.3449', 'germany:0.2965', 'jurisdiction:0.2825', 'sanction:0.2824', 'fatality:0.2804', 'report:0.2737', 'spiegel:0.2675', 'analyze:0.2631', 'occur:0.2619', 'besiege:0.2577', 'allegation:0.2576', 'paranoia:0.2575', 'intercept:0.2308', 'bucha:0.1975', 'proof:0.1757', 'general:0.1634', 'want:0.1584', 'mainstreamed:0.1518', 'kilometer:0.1465', 'similar:0.134', 'recording:0.1316', 'set:0.1102']+titles_keywords+['russiaukraine:0.431', 'radio:0.3428', 'massacre:0.2903', 'bucha:0.2525', 'intercepts:0.1576']"
+        ],
+        [
+            "20220511+../news_crawling/RUS_UKR/p_articles/hngn.com/US Allies Claim Russia Wages Massive Cyberattack Against Ukraines Satellite Internet Since Invasion Began.txt+eventbasecode190+eventcode190+avgtone0.4705882352941177+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['cyberattacks:0.5384', 'kremlin:0.4357', 'ukrainian:0.3969', 'invasion:0.3604', 'infrastructure:0.3086', 'fbi:0.2969', 'cnn:0.2885', 'pentagon:0.2848', 'vulnerability:0.2807', 'malicious:0.2795', 'viasat:0.2577', 'operation:0.2499', 'anonymity:0.2476', 'electrical:0.2362', 'timesreported:0.2201', 'accuse:0.2145', 'know:0.2085', 'data:0.1969', 'block:0.1809', 'states:0.1697', 'help:0.164', 'technica:0.1582', 'notpetya:0.1579', 'donbas:0.1541', 'tuesday:0.1457', 'begin:0.1264', 'coldest:0.114', 'maersk:0.1106', 'according:0.1058', 'thousand:0.0713']+titles_keywords+['ukraines:0.4378', 'cyberattack:0.3976', 'satellite:0.2992', 'massive:0.0976', 'began:0.0856']"
+        ]
+    ],
+    "WST+RUS+190":[
+        [
+            "20210914+../news_crawling/RUS_UKR/p_articles/hngn.com/Vladimir Putin Oversees Vast War Games as Russia Belarus Agree to Deepen Economic Ties Huge.txt+eventbasecode190+eventcode190+avgtone0.4825493171471928+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5416', 'belarus:0.4768', 'nato:0.4623', 'militarily:0.4006', 'kyiv:0.3457', 'troop:0.2682', 'destabilize:0.2445', 'border:0.2115', 'maneuver:0.2074', 'simulation:0.2058', 'zubr:0.1986', 'exercises:0.1895', 'newsreported:0.1864', 'schedule:0.177', 'escalate:0.1741', 'economic:0.1678', 'cold:0.1634', 'conclusion:0.1582', 'combine:0.1572', 'long:0.1534', 'write:0.1529', 'drill:0.1527', 'month:0.1493', 'concern:0.1469', 'expert:0.1391', 'website:0.1368', 'state:0.1311', 'interpret:0.1306', 'include:0.1302', 'follow:0.1187']+titles_keywords+['putin:0.5245', 'belarus:0.4469', 'military:0.2866', 'exercises:0.2342', 'concern:0.1684']"
+        ]
+    ]
+}

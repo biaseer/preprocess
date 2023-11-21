@@ -1,0 +1,25 @@
+{
+    "DEU+RUS+43":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/dw.com/Ukrainians arrive at Berlin Central Station.txt+eventbasecode43+eventcode43+avgtone0.4649122807017544+goldsteinscale0.64+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['berlin:0.4715', 'ukrainians:0.4645', 'ukraine:0.4627', 'war:0.3444', 'arrive:0.3295', 'russian:0.3243', 'invasion:0.3083', 'train:0.2505', 'station:0.2435', 'flee:0.2409', 'arrival:0.2164', 'people:0.2047', 'volunteer:0.1987', 'help:0.162', 'new:0.1462', 'central:0.1434', 'thousand:0.1323', 'sure:0.1247', 'day:0.1012', 'seek:0.0969', 'local:0.0856', 'make:0.039']+titles_keywords+['ukrainians:0.4365', 'berlin:0.3586', 'arrive:0.2648', 'central:0.1977', 'station:0.1865']"
+        ]
+    ],
+    "ESP+RUS+43":[
+        [
+            "20220628+../news_crawling/RUS_UKR/p_articles/dw.com/Spain NATO summit focuses on Russia and China.txt+eventbasecode43+eventcode43+avgtone0.48920187793427233+goldsteinscale0.64+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.009868421052631578+news_keywords+['nato:0.5672', 'baltics:0.3714', 'spain:0.337', 'kyivwithout:0.3229', 'erdogan:0.2979', 'meeting:0.2918', 'bordering:0.239', 'trilateral:0.2286', 'adviser:0.2259', 'mediate:0.2187', 'presidentbiden:0.212', 'topic:0.2119', 'summit:0.1942', 'attend:0.1821', 'stability:0.1778', 'wednesday:0.1763', 'ahead:0.1725', 'bolster:0.1699', 'rota:0.1466', 'general:0.1423', 'previouslyplanned:0.1292', 'increasingly:0.1191', 'long:0.1016', 'sanchezdiscussed:0.0964', 'brutality:0.0869', 'workers:0.0812', 'make:0.0751', 'welcome:0.0587', 'agree:0.0584', 'aresupporting:0.0508']+titles_keywords+['nato:0.4947', 'russia:0.3573', 'spain:0.3354', 'summit:0.1852', 'focuses:0.0889']"
+        ]
+    ],
+    "EUR+UKR+43":[
+        [
+            "20220604+../news_crawling/RUS_UKR/p_articles/dw.com/Ukraine war Donations vital to national defense.txt+eventbasecode43+eventcode43+avgtone0.4933196300102775+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.5014', 'war:0.4256', 'drone:0.3781', 'guerilla:0.3649', 'deploy:0.3508', 'infrastructure:0.348', 'finance:0.3207', 'artillery:0.3074', 'fundraise:0.305', 'uniforms:0.2907', 'tank:0.2823', 'bakirov:0.2804', 'dispatch:0.2746', 'reporter:0.2648', 'read:0.2556', 'know:0.243', 'collaborate:0.243', 'sdependence:0.2393', 'want:0.2282', 'soon:0.2199', 'contact:0.2165', 'begin:0.1968', 'million:0.1946', 'farid:0.1926', 'pro:0.1713', 'proof:0.1668', 'track:0.1626', 'moved:0.1504', 'new:0.1502', 'basically:0.1422']+titles_keywords+['ukraine:0.5203', 'donations:0.4207', 'war:0.3547', 'vital:0.1121', 'national:0.0942']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220119+../news_crawling/RUS_UKR/p_articles/dw.com/US Biden says he didnt anticipate Republican obstruction.txt+eventbasecode43+eventcode43+avgtone0.4819532908704883+goldsteinscale0.64+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['biden:0.495', 'inauguration:0.4471', 'senate:0.3997', 'putin:0.3607', 'republican:0.3422', 'agenda:0.337', 'anticipate:0.3252', 'coronavirus:0.2688', 'obstruction:0.2675', 'invade:0.2614', 'sanction:0.2475', 'nato:0.2359', 'ofrepublican:0.2223', 'lockdown:0.217', 'debate:0.2083', 'brief:0.2069', 'say:0.1934', 'promise:0.1909', 'understanding:0.1801', 'page:0.178', 'incur:0.1761', 'stage:0.1759', 'renegotiate:0.1643', 'extent:0.1639', 'week:0.1615', 'upper:0.158', 'pull:0.1567', 'difference:0.1428', 'transmissible:0.1244', 'test:0.1202']+titles_keywords+['biden:0.4887', 'obstruction:0.3144', 'anticipate:0.2977', 'didnt:0.1115', 'says:0.0567']"
+        ],
+        [
+            "20220825+../news_crawling/RUS_UKR/p_articles/dw.com/The Day with Gerhard Elfers Scholz Visits Biden.txt+eventbasecode43+eventcode43+avgtone0.4519230769230771+goldsteinscale0.64+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['biden:0.4543', 'ukraine:0.3981', 'scholz:0.387', 'gerhard:0.3587', 'germany:0.3356', 'president:0.3208', 'talk:0.3147', 'war:0.2911', 'beijing:0.2857', 'nobel:0.2714', 'laureate:0.255', 'chancellor:0.252', 'day:0.2464', 'visits:0.2115', 'maria:0.2112', 'warn:0.1974', 'olaf:0.1944', 'joe:0.1846', 'matter:0.1763', 'coordinated:0.1704', 'leader:0.1498', 'policy:0.1321', 'reesa:0.1274', 'supply:0.1247', 'closely:0.1137', 'weapon:0.1108', 'plenty:0.0959', 'agree:0.0927', 'elfers:0.0701', 'dw:0.0465']+titles_keywords+['biden:0.5629', 'scholz:0.4695', 'day:0.2818', 'visits:0.2541', 'elfers:0.2057']"
+        ]
+    ]
+}

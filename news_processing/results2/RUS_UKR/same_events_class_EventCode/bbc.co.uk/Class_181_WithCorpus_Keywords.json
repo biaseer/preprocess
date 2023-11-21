@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+181":[
+        []
+    ],
+    "UKR+RUS+181":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Aerial video shows fleeing dad stopped and shot dead.txt+eventbasecode181+eventcode181+avgtone0.4411764705882355+goldsteinscale0.05+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukrainian:0.476', 'russians:0.4114', 'civilian:0.2994', 'flee:0.2419', 'shoot:0.225', 'video:0.2159', 'territorial:0.2093', 'bbc:0.1864', 'conflict:0.1852', 'report:0.1555', 'news:0.1516', 'dead:0.1431', 'play:0.1425', 'aerial:0.1341', 'capture:0.1279', 'group:0.1206', 'google:0.116', 'view:0.1061', 'force:0.104', 'stop:0.0959', 'zone:0.0915', 'number:0.0896', 'appear:0.055', 'defence:0.0533', 'dad:0.0512', 'iphone:0.0512', 'man:0.0332', 'grow:0.0296', 'store:0.0065', 'optimise:-0.0437']+titles_keywords+['video:0.3594', 'aerial:0.312', 'dad:0.306', 'shot:0.2625', 'fleeing:0.221']"
+        ]
+    ]
+}

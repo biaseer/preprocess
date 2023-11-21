@@ -1,0 +1,12 @@
+{
+    "RUS+TUR+46":[
+        [
+            "20220712+../news_crawling/RUS_UKR/p_articles/teletrader.com/Russia to talk grain crisis with Turkey Ukraine may join.txt+eventbasecode46+eventcode46+avgtone0.4817073170731707+goldsteinscale0.85+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.003289473684210526+news_keywords+['ukraine:0.433', 'erdogan:0.3255', 'ilyichev:0.3205', 'grain:0.3125', 'istanbul:0.3049', 'establish:0.2186', 'talk:0.1912', 'ship:0.1894', 'international:0.1788', 'navigation:0.1654', 'ensure:0.1562', 'export:0.1559', 'provocation:0.15', 'crisis:0.1487', 'expect:0.1365', 'observer:0.129', 'corridor:0.1268', 'refusal:0.1233', 'necessity:0.1229', 'ready:0.119', 'assist:0.1005', 'possibility:0.0944', 'recep:0.0942', 'representative:0.0942', 'arm:0.0931', 'statement:0.0856', 'underscoring:0.0811', 'control:0.0797', 'tuesday:0.063', 'understandable:0.0428']+titles_keywords+['ukraine:0.43', 'grain:0.2579', 'talk:0.1944', 'crisis:0.1572', 'join:0.1295']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20210913+../news_crawling/RUS_UKR/p_articles/teletrader.com/Putin wont talk Ukraine war with Zelensky official.txt+eventbasecode46+eventcode46+avgtone0.4673913043478261+goldsteinscale0.85+nummentions0.002902757619738752+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4821', 'zelensky:0.4107', 'kremlin:0.409', 'dmitry:0.4041', 'kiev:0.3762', 'peskov:0.3744', 'russian:0.3347', 'war:0.3074', 'talk:0.2836', 'involvement:0.2037', 'issue:0.1731', 'deny:0.1443', 'spokesperson:0.1403', 'picture:0.1201', 'wont:0.1162', 'armed:0.1118', 'change:0.1078', 'vehicle:0.1025', 'begin:0.0967', 'proof:0.0798', 'official:0.0798', 'party:0.0776', 'monday:0.0748', 'repeatedly:0.0675', 'state:0.0605', 'direct:0.0602', 'level:0.0432', 'illegally:0.0278', 'addition:0.0138', 'uniquely:0.0106']+titles_keywords+['zelensky:0.4721', 'putin:0.4488', 'war:0.2819', 'talk:0.2151', 'wont:0.1985']"
+        ]
+    ]
+}

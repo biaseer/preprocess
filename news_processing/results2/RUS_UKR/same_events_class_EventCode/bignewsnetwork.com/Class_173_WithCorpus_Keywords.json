@@ -1,0 +1,15 @@
+{
+    "POL+UKR+173":[
+        [
+            "20211119+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Ransomware Persists Even as HighProfile Attacks Have Slowed.txt+eventbasecode173+eventcode173+avgtone0.461755233494364+goldsteinscale0.25+nummentions0.14078374455732948+numarticles0.1414068165337201+numsources0.15789473684210525+news_keywords+['ransomware:0.603', 'cybersecurity:0.5016', 'victims:0.3183', 'warn:0.2923', 'government:0.288', 'currency:0.279', 'attack:0.2758', 'trend:0.2646', 'backup:0.2573', 'sector:0.2566', 'severity:0.255', 'email:0.2548', 'criminal:0.2548', 'know:0.2445', 'data:0.2435', 'complicating:0.2136', 'recapture:0.2097', 'spring:0.1993', 'originate:0.1963', 'peskov:0.1895', 'spokesperson:0.1887', 'soon:0.1872', 'updates:0.1854', 'eastern:0.1761', 'nakasone:0.1725', 'biden:0.172', 'resume:0.1611', 'quote:0.1542', 'longer:0.1326', 'highprofile:0.0961']+titles_keywords+['ransomware:0.6113', 'highprofile:0.3078', 'persists:0.2015', 'attacks:0.1639', 'slowed:0.1161']"
+        ]
+    ],
+    "RUS+UKR+173":[
+        [
+            "20210624+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Another Man Arrested In Crimea Accused Of Spying For Ukraine.txt+eventbasecode173+eventcode173+avgtone0.46366279069767447+goldsteinscale0.25+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['espionage:0.4971', 'crimea:0.4786', 'suspect:0.365', 'yanukovych:0.3609', 'terrorism:0.3232', 'officer:0.2959', 'arrested:0.2888', 'prosecute:0.2576', 'europeradio:0.2472', 'separatist:0.2379', 'petrushin:0.2363', 'protest:0.2082', 'kill:0.1955', 'lefortovo:0.1926', 'disclose:0.1917', 'authority:0.1743', 'capital:0.1629', 'sevastopol:0.1585', 'question:0.1359', 'classify:0.1269', 'fsb:0.1254', 'equip:0.1117', 'free:0.1036', 'special:0.0914', 'republished:0.0869', 'long:0.0721', 'oust:0.0677', 'send:0.0636', 'man:0.0445', 'august:0.0348']+titles_keywords+['crimea:0.3597', 'spying:0.2971', 'accused:0.1817', 'arrested:0.1666', 'man:0.0476']"
+        ],
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/RussiaUkraine peace talks continue daily head of Russian delegation.txt+eventbasecode173+eventcode173+avgtone0.5183823529411764+goldsteinscale0.25+nummentions0.019230769230769232+numarticles0.01994198694706309+numsources0.029605263157894735+news_keywords+['putin:0.4776', 'ukraine:0.4348', 'russiaukraine:0.4209', 'negotiations:0.42', 'vladimir:0.3947', 'meeting:0.3559', 'peaceful:0.3072', 'talk:0.3062', 'medinsky:0.3059', 'telegram:0.2438', 'podolyak:0.2371', 'delegation:0.2209', 'xinhua:0.2049', 'round:0.1713', 'continue:0.1708', 'advisor:0.1664', 'occur:0.1656', 'daily:0.1651', 'week:0.1513', 'march:0.1501', 'write:0.1215', 'head:0.1162', 'fourth:0.116', 'format:0.1086', 'hold:0.1054', 'task:0.1009', 'set:0.0954', 'technical:0.0878', 'video:0.085', 'possible:0.0617']+titles_keywords+['russiaukraine:0.3987', 'peace:0.3056', 'daily:0.2802', 'head:0.1705', 'delegation:0.1551']"
+        ]
+    ]
+}

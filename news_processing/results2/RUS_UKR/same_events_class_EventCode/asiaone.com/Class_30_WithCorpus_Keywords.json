@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+30":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/asiaone.com/We wish for nothing but peace Local Russian restaurant pledges portion of sales to Ukraine.txt+eventbasecode30+eventcode30+avgtone0.5026666666666667+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['dumplings:0.5901', 'kyiv:0.3863', 'restaurant:0.372', 'singapore:0.3593', 'recipe:0.3193', 'asian:0.3046', 'peace:0.292', 'salmon:0.2682', 'people:0.2287', 'invasion:0.222', 'humanitarian:0.2205', 'sanction:0.2188', 'balakrishnan:0.2139', 'establish:0.1967', 'statement:0.1918', 'lovechild:0.191', 'platformalvinology:0.182', 'read:0.1815', 'vadim:0.1741', 'leave:0.1585', 'like:0.1574', 'pledgingto:0.1508', 'sectionhas:0.15', 'isthe:0.1378', 'soon:0.1274', 'share:0.1203', 'unsurprisingly:0.1159', 'inspired:0.114', 'longer:0.1043', 'year:0.0971']+titles_keywords+['ukraine:0.4784', 'peace:0.3996', 'humanitarian:0.3829', 'restaurant:0.3539', 'pledges:0.2636']"
+        ]
+    ],
+    "WST+RUS+30":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/asiaone.com/Russian Orthodox Church scolds Pope Francis after Putins altar boy remark.txt+eventbasecode30+eventcode30+avgtone0.4861351819757365+goldsteinscale0.7+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['orthodox:0.5324', 'natoenlargement:0.4162', 'schism:0.4106', 'patriarchate:0.4074', 'putin:0.3974', 'pope:0.3771', 'kyiv:0.3686', 'conflict:0.3207', 'fascism:0.2974', 'churches:0.2726', 'expand:0.2425', 'cite:0.2209', 'continue:0.208', 'agreement:0.1976', 'unprovoked:0.197', 'speak:0.184', 'operation:0.1754', 'receive:0.1499', 'march:0.1492', 'adopt:0.1485', 'topple:0.1434', 'associate:0.138', 'report:0.1355', 'states:0.1353', 'direction:0.1346', 'boy:0.1334', 'inch:0.1206', 'far:0.1203', 'explicitly:0.1102', 'unlikely:0.0359']+titles_keywords+['orthodox:0.4664', 'putins:0.3678', 'boy:0.2239', 'francis:0.2227', 'scolds:0.2133']"
+        ]
+    ]
+}

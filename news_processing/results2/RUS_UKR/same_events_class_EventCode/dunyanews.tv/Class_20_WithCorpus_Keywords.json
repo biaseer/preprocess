@@ -1,0 +1,30 @@
+{
+    "EUR+UKR+20":[
+        [
+            "20220614+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/No way out for Ukrainians in embattled city as Russian forces destroy last bridge.txt+eventbasecode20+eventcode20+avgtone0.4753483386923902+goldsteinscale0.65+nummentions0.0330188679245283+numarticles0.0337200870195794+numsources0.05921052631578947+news_keywords+['kyiv:0.4934', 'ukraines:0.4803', 'kremlin:0.4098', 'nato:0.3511', 'evacuate:0.3202', 'separatist:0.2923', 'reuters:0.2796', 'invasion:0.2489', 'sievierodonetsk:0.2427', 'donbas:0.2364', 'baseless:0.2347', 'humanitarian:0.219', 'conflict:0.2137', 'read:0.1974', 'defend:0.1965', 'urgent:0.1955', 'trigger:0.1898', 'railway:0.1814', 'howitzer:0.1795', 'deliver:0.1765', 'end:0.163', 'long:0.1573', 'advantage:0.151', 'governor:0.1463', 'saturday:0.1365', 'badly:0.1341', 'near:0.1316', 'ready:0.1226', 'million:0.1166', 'maternity:0.0947']+titles_keywords+['ukrainians:0.4127', 'bridge:0.3538', 'destroy:0.2854', 'way:0.2179', 'forces:0.1212']"
+        ]
+    ],
+    "FRA+UKR+20":[
+        [
+            "20220127+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/US rejects Russia demand on Ukraine but talks see new life.txt+eventbasecode20+eventcode20+avgtone0.48018120045300106+goldsteinscale0.65+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['natos:0.453', 'ukraine:0.426', 'kremlin:0.3823', 'ceasefire:0.3453', 'invade:0.3316', 'diplomatic:0.3253', 'dmitry:0.3223', 'olympics:0.2381', 'eventuality:0.2372', 'prepare:0.237', 'president:0.237', 'separatist:0.2275', 'meeting:0.2248', 'escalate:0.2178', 'soon:0.2176', 'danger:0.2156', 'winter:0.185', 'forward:0.1667', 'promise:0.1599', 'write:0.1528', 'choose:0.1477', 'week:0.1354', 'pipeline:0.1282', 'bid:0.1248', 'hour:0.1245', 'idea:0.1204', 'current:0.1133', 'bad:0.1082', 'include:0.107', 'standby:0.0684']+titles_keywords+['ukraine:0.3894', 'rejects:0.2109', 'talks:0.1564', 'demand:0.0735', 'new:0.0394']"
+        ]
+    ],
+    "PAK+RUS+20":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/RussiaUkraine conflict should be resolved through diplomacy FM Qureshi.txt+eventbasecode20+eventcode20+avgtone0.5037878787878788+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4595', 'diplomacy:0.4131', 'ukraine:0.3683', 'islamabad:0.3318', 'mahmood:0.2624', 'shah:0.2196', 'resolve:0.1893', 'pipeline:0.1759', 'meet:0.1636', 'pms:0.1613', 'addressing:0.1536', 'visit:0.1504', 'inform:0.1446', 'news:0.1376', 'strengthen:0.1302', 'issue:0.1131', 'fm:0.1122', 'say:0.1117', 'suggest:0.1091', 'press:0.1091', 'north:0.1016', 'minister:0.0939', 'dunya:0.0855', 'occupied:0.0821', 'energy:0.074', 'ongoing:0.0724', 'project:0.0649', 'friday:0.0518', 'lng:0.043', 'deliberate:0.0356']+titles_keywords+['diplomacy:0.5667', 'russiaukraine:0.4472', 'qureshi:0.2787', 'resolved:0.2484', 'fm:0.1619']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/EU eyes more Russia sanctions NATO wary of Ukraine calls for nofly zone.txt+eventbasecode20+eventcode20+avgtone0.4806547619047619+goldsteinscale0.65+nummentions0.01269956458635704+numarticles0.013415518491660623+numsources0.046052631578947366+news_keywords+['nato:0.4632', 'putin:0.3985', 'kyiv:0.3758', 'russias:0.3699', 'eurointelligence:0.3366', 'demilitarize:0.317', 'invasion:0.2877', 'reuters:0.2744', 'ban:0.2497', 'ahead:0.2491', 'escalate:0.2473', 'diplomat:0.2367', 'blocs:0.2335', 'trigger:0.2329', 'conflict:0.2163', 'wary:0.2118', 'action:0.2088', 'stay:0.2013', 'table:0.1923', 'import:0.1827', 'end:0.1804', 'want:0.1774', 'discus:0.172', 'like:0.1596', 'ready:0.1585', 'fourth:0.1564', 'friday:0.1562', 'zone:0.1446', 'coal:0.1377', 'agree:0.0971']+titles_keywords+['nato:0.4498', 'sanctions:0.3706', 'nofly:0.2317', 'wary:0.1733', 'zone:0.0928']"
+        ],
+        [
+            "20220529+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Russia advances in east Ukraine calls for longerrange weapons.txt+eventbasecode20+eventcode20+avgtone0.4819767441860466+goldsteinscale0.65+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.019736842105263157+news_keywords+['ukraine:0.4707', 'kremlin:0.4103', 'nato:0.3828', 'war:0.3468', 'annexed:0.3263', 'blockade:0.3255', 'separatist:0.3003', 'demilitarise:0.295', 'reuters:0.2884', 'justify:0.2707', 'artillery:0.2677', 'sievierodonetsk:0.2528', 'advance:0.2493', 'pull:0.2488', 'result:0.2451', 'future:0.2437', 'tank:0.2384', 'railway:0.235', 'flee:0.2212', 'long:0.2138', 'enter:0.2', 'iron:0.1977', 'resume:0.1939', 'donbas:0.1933', 'tell:0.1923', 'momentum:0.1858', 'safe:0.1797', 'negotiator:0.1582', 'substantive:0.1414', 'hub:0.1355']+titles_keywords+['ukraine:0.3995', 'weapons:0.3525', 'longerrange:0.3254', 'advances:0.2581', 'calls:0.0885']"
+        ]
+    ],
+    "WST+UKR+20":[
+        [
+            "20220619+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/The war in Ukraine could last for years NATO chief.txt+eventbasecode20+eventcode20+avgtone0.5+goldsteinscale0.65+nummentions0.03555878084179971+numarticles0.03625815808556925+numsources0.03618421052631579+news_keywords+['nato:0.507', 'ukrainians:0.4225', 'kyiv:0.4033', 'putin:0.4003', 'russias:0.3633', 'war:0.3617', 'frontline:0.2806', 'troop:0.2656', 'prepare:0.2293', 'reznikov:0.2087', 'easternmost:0.2045', 'ammunition:0.1889', 'increase:0.179', 'warn:0.1771', 'continue:0.169', 'surge:0.1647', 'donbas:0.16', 'long:0.1419', 'stoltenberg:0.139', 'deliver:0.1249', 'likelihood:0.1188', 'general:0.1157', 'week:0.1064', 'price:0.1062', 'compare:0.0982', 'year:0.0978', 'control:0.0949', 'goal:0.0949', 'hardware:0.0716', 'currently:0.0688']+titles_keywords+['nato:0.4921', 'ukraine:0.3911', 'war:0.3661', 'years:0.3084', 'chief:0.1902']"
+        ]
+    ]
+}

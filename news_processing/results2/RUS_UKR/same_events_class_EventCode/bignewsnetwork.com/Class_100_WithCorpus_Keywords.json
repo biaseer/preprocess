@@ -1,0 +1,30 @@
+{
+    "EST+RUS+100":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Blinken Estonian Foreign Minister call on Russia to deescalate in Ukraine.txt+eventbasecode100+eventcode100+avgtone0.4873417721518987+goldsteinscale0.25+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['diplomacy:0.4711', 'nato:0.4065', 'estonia:0.3586', 'invade:0.3378', 'threat:0.3347', 'ukrainian:0.3272', 'escalate:0.3006', 'blinken:0.2337', 'unfold:0.2288', 'operation:0.2199', 'border:0.2163', 'pretext:0.2099', 'prepare:0.2092', 'meet:0.1932', 'demonstrate:0.1873', 'event:0.1831', 'table:0.1725', 'state:0.1645', 'eva:0.1585', 'issue:0.1517', 'thursday:0.1516', 'minister:0.1493', 'nonsense:0.141', 'world:0.1286', 'fact:0.1263', 'ani:0.1193', 'draw:0.1161', 'clearly:0.0964', 'blame:0.0939', 'hangar:0.0666']+titles_keywords+['ukraine:0.3476', 'blinken:0.3083', 'estonian:0.2871', 'deescalate:0.1982', 'minister:0.0733']"
+        ]
+    ],
+    "EUR+UKR+100":[
+        [
+            "20220124+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Majority of 8500 US troops on high alert over Ukraine crisis Pentagon.txt+eventbasecode100+eventcode100+avgtone0.4922360248447205+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['nato:0.5058', 'diplomatic:0.335', 'troop:0.3231', 'pentagon:0.3229', 'moscow:0.3055', 'briefing:0.2978', 'deployment:0.2523', 'border:0.2355', 'escalate:0.2299', 'alert:0.2076', 'crisis:0.2029', 'surveillance:0.1861', 'tension:0.1843', 'order:0.1659', 'general:0.163', 'remain:0.1603', 'near:0.1599', 'intra:0.1599', 'prepare:0.1552', 'ally:0.1459', 'eastern:0.141', 'guterres:0.1276', 'additional:0.1275', 'monday:0.127', 'united:0.1261', 'states:0.1249', 'current:0.1135', 'say:0.1043', 'month:0.0937', 'possibility:0.0727']+titles_keywords+['pentagon:0.3632', 'troops:0.356', 'ukraine:0.2841', '8500:0.1688', 'crisis:0.1524']"
+        ]
+    ],
+    "RUS+UKR+100":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/US allies discuss whether Blinken will meet with Lavrov as planned on Feb 24.txt+eventbasecode100+eventcode100+avgtone0.5027624309392266+goldsteinscale0.25+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.019736842105263157+news_keywords+['putin:0.4812', 'lavrov:0.3411', 'meeting:0.3295', 'donetsk:0.302', 'announce:0.2893', 'independence:0.2864', 'republic:0.283', 'ahead:0.2589', 'sputnik:0.2541', 'state:0.2394', 'msnbc:0.2223', 'advisor:0.2153', 'department:0.2071', 'blinken:0.2022', 'plan:0.1962', 'foreign:0.1928', 'decree:0.1877', 'feb:0.1768', 'security:0.1698', 'long:0.1694', 'day:0.1644', 'donbas:0.1603', 'say:0.1562', 'week:0.1525', 'significant:0.1284', 'antony:0.1281', 'sign:0.1261', 'change:0.1259', 'wake:0.1221', 'possible:0.114']+titles_keywords+['blinken:0.348', 'lavrov:0.3108', 'meet:0.2962', 'allies:0.2721', 'feb:0.1048']"
+        ],
+        [
+            "20220829+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Exact dates for IAEA mission to targeted nuclear site named WSJ.txt+eventbasecode100+eventcode100+avgtone0.48593350383631706+goldsteinscale0.25+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.019736842105263157+news_keywords+['chernobyl:0.5297', 'nuclear:0.4417', 'iaea:0.4258', 'kremlin:0.387', 'ukrainian:0.3556', 'safety:0.2883', 'military:0.2859', 'peskov:0.2803', 'mission:0.2802', 'zaporozhye:0.2576', 'government:0.2457', 'disaster:0.2284', 'watchdog:0.2247', 'provocation:0.2091', 'artillery:0.2065', 'report:0.2013', 'examine:0.1969', 'locate:0.1761', 'cite:0.1677', 'staff:0.1666', 'neutral:0.165', 'shell:0.1646', 'delegation:0.1631', 'wsj:0.1518', 'august:0.1291', 'reportedly:0.1222', 'eclipse:0.0836', 'house:0.0744', 'exact:0.0739', 'begin:0.0664']+titles_keywords+['nuclear:0.3504', 'wsj:0.3451', 'iaea:0.3141', 'mission:0.3048', 'dates:0.2342']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220717+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Era of Western dominance ending Tony Blair.txt+eventbasecode100+eventcode100+avgtone0.49326145552560646+goldsteinscale0.25+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.04276315789473684+news_keywords+['geopolitical:0.4374', 'ukraine:0.3887', 'blair:0.3875', 'history:0.2883', 'east:0.2644', 'turmoil:0.2604', 'beijing:0.2593', 'develop:0.2579', 'end:0.2414', 'dominance:0.2166', 'world:0.2154', 'argue:0.2072', 'modern:0.2066', 'term:0.2066', 'partisan:0.2058', 'predict:0.1946', 'event:0.1798', 'note:0.172', 'military:0.1578', 'pivot:0.1562', 'unproductive:0.15', 'effect:0.1473', 'order:0.1451', 'relevant:0.1318', 'misunderstand:0.1303', 'covid:0.1245', 'bi:0.1131', 'sure:0.1035', 'prime:0.0969', 'population:0.0616']+titles_keywords+['blair:0.489', 'ending:0.3569', 'western:0.2512', 'era:0.2482', 'dominance:0.2409']"
+        ]
+    ],
+    "USA+RUS+100":[
+        [
+            "20220618+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/US allies ready for long war in Ukraine Washington Post.txt+eventbasecode100+eventcode100+avgtone0.48280098280098277+goldsteinscale0.25+nummentions0.01632801161103048+numarticles0.01704133430021755+numsources0.019736842105263157+news_keywords+['ukraine:0.4274', 'nato:0.3922', 'biden:0.3121', 'conflict:0.2773', 'predict:0.2576', 'recession:0.2501', 'long:0.2448', 'imminent:0.2158', 'administration:0.2056', 'achieve:0.2018', 'plan:0.1964', 'ally:0.1837', 'conclusion:0.1825', 'term:0.1737', 'ready:0.1663', 'order:0.1658', 'cite:0.1643', 'spillover:0.1573', 'navigate:0.155', 'risk:0.1481', 'report:0.1439', 'protract:0.1264', 'bad:0.1231', 'bolster:0.1213', 'arm:0.1182', 'say:0.1159', 'sugarcoat:0.11', 'general:0.108', 'recent:0.0951', 'dozen:0.0742']+titles_keywords+['allies:0.4246', 'ukraine:0.3983', 'war:0.3899', 'long:0.2697', 'ready:0.1952']"
+        ]
+    ]
+}

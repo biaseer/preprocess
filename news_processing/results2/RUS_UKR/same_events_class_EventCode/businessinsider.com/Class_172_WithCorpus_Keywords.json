@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+172":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/businessinsider.com/New satellite photos show a bridge was built over a river near Ukraine that could.txt+eventbasecode172+eventcode172+avgtone0.48940998487140697+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.4553', 'belarus:0.4147', 'bridge:0.3734', 'infrastructure:0.3231', 'pentagon:0.3114', 'war:0.3081', 'expeditionary:0.2934', 'waterway:0.2616', 'strategic:0.2529', 'pripyat:0.2389', 'cnn:0.2387', 'construct:0.2376', 'span:0.2332', 'casualty:0.2183', 'movement:0.208', 'report:0.2039', 'training:0.1831', 'anticipate:0.1765', 'increase:0.1714', 'current:0.1525', 'familiar:0.1372', 'thursday:0.1298', 'kinds:0.1261', 'note:0.1253', 'biden:0.1207', 'possibility:0.1205', 'module:0.1196', 'disassemble:0.1146', 'actual:0.1037', 'state:0.1023']+titles_keywords+['kyiv:0.4748', 'bridge:0.3363', 'satellite:0.2548', 'military:0.2303', 'photos:0.1791']"
+        ]
+    ],
+    "RUS+UKR+172":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Russian ruble loses key lifeline as US sanctions target Putins 140 billion gold stockpile.txt+eventbasecode172+eventcode172+avgtone0.5043478260869566+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ruble:0.5415', 'ukraine:0.3999', 'putins:0.3992', 'gold:0.3708', 'vladimir:0.3426', 'treasury:0.3353', 'economic:0.3052', 'president:0.2477', 'fund:0.2477', 'war:0.2265', 'federation:0.2259', 'sanction:0.2256', 'value:0.2137', 'cite:0.1959', 'drop:0.1874', 'protect:0.1793', 'transaction:0.1756', 'month:0.1658', 'billion:0.1654', 'stockpile:0.1645', 'involve:0.1492', 'say:0.1344', 'amass:0.1318', 'beleaguer:0.1228', 'sign:0.1186', 'bolster:0.1172', 'issue:0.116', 'nearly:0.1085', 'slide:0.0905', 'lifeline:0.0647']+titles_keywords+['ruble:0.5191', 'sanctions:0.3553', 'putins:0.3436', 'lifeline:0.2403', 'stockpile:0.1794']"
+        ]
+    ]
+}

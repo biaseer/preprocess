@@ -1,0 +1,17 @@
+{
+    "UKR+QAT+46":[
+        [
+            "20220131+../news_crawling/RUS_UKR/p_articles/wdsm710.com/Biden to talk Ukraine energy shock Iran with Qatars emir US officials.txt+eventbasecode46+eventcode46+avgtone0.4829931972789116+goldsteinscale0.85+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['biden:0.4613', 'ukraine:0.3916', 'qatar:0.3853', 'president:0.3521', 'meeting:0.3368', 'reuters:0.2841', 'agenda:0.2585', 'talk:0.2471', 'conflict:0.2339', 'eastqatar:0.2151', 'austin:0.1896', 'say:0.1784', 'nuclear:0.1762', 'huddle:0.1723', 'energy:0.1672', 'discus:0.1667', 'washingtons:0.1609', 'world:0.1554', 'secretary:0.1516', 'disrupts:0.1441', 'military:0.142', 'supplier:0.1408', 'monday:0.1363', 'https:0.1265', 'thani:0.1229', 'include:0.1195', 'lng:0.1097', 'lloyd:0.0683', 'small:0.0528', 'reroute:0.0339']+titles_keywords+['biden:0.4018', 'qatars:0.3004', 'ukraine:0.2938', 'talk:0.26', 'energy:0.13']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220109+../news_crawling/RUS_UKR/p_articles/wdsm710.com/US tamps down expectations for talks with Russia amid Ukraine crisis.txt+eventbasecode46+eventcode46+avgtone0.48125+goldsteinscale0.85+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.3855', 'negotiation:0.3453', 'moscows:0.3066', 'upcoming:0.2598', 'escalation:0.2463', 'reuters:0.2445', 'border:0.23', 'talk:0.2279', 'hope:0.2248', 'breakthrough:0.2146', 'movement:0.2104', 'table:0.2024', 'troop:0.1819', 'week:0.1802', 'expectation:0.1714', 'prospect:0.1635', 'happen:0.1586', 'security:0.1377', 'avert:0.1305', 'cnns:0.1284', 'buildup:0.1255', 'blinken:0.1207', 'secretary:0.1164', 'state:0.1098', 'lower:0.1088', 'impossible:0.1087', 'head:0.0888', 'tamps:0.0835', 'reciprocal:0.0553', 'antony:0.0484']+titles_keywords+['ukraine:0.2862', 'expectations:0.2639', 'talks:0.2378', 'tamps:0.155', 'crisis:0.1035']"
+        ]
+    ],
+    "UKR+USA+46":[
+        [
+            "20220112+../news_crawling/RUS_UKR/p_articles/wdsm710.com/United States urges Russia to continue talks over Ukraine arms control.txt+eventbasecode46+eventcode46+avgtone0.4931972789115646+goldsteinscale0.85+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.009868421052631578+news_keywords+['nato:0.4365', 'diplomacy:0.4197', 'ukraine:0.3899', 'escalation:0.2912', 'sherman:0.2749', 'negotiate:0.2707', 'multilateral:0.2517', 'pursue:0.2388', 'continue:0.2303', 'control:0.2021', 'arm:0.1944', 'table:0.1924', 'ally:0.1901', 'discussion:0.1875', 'prepare:0.1758', 'demonstrate:0.1521', 'stay:0.147', 'eventuality:0.1441', 'reporter:0.1425', 'state:0.1349', 'bilateral:0.1342', 'quite:0.1265', 'walk:0.1231', 'urge:0.123', 'round:0.1218', 'council:0.1048', 'week:0.0988', 'make:0.0858', 'united:0.0858', 'include:0.0654']+titles_keywords+['ukraine:0.3308', 'talks:0.2266', 'continue:0.1519', 'arms:0.1387', 'control:0.103']"
+        ]
+    ]
+}

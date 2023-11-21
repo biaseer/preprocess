@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/npr.org/RussiaUkraine war What happened today April 25.txt+eventbasecode20+eventcode20+avgtone0.49096880131362886+goldsteinscale0.65+nummentions0.05841799709724238+numarticles0.05910079767947788+numsources0.06907894736842106+news_keywords+['russiaukraine:0.5092', 'putin:0.4554', 'nato:0.4046', 'airstrikes:0.4012', 'lviv:0.3961', 'railways:0.3156', 'blockade:0.2874', 'zelenskyy:0.2614', 'diplomat:0.2568', 'election:0.2455', 'npr:0.2436', 'recap:0.2194', 'strategic:0.2176', 'update:0.2135', 'warn:0.1931', 'april:0.1917', 'read:0.1868', 'vacant:0.1765', 'happen:0.1745', 'power:0.1743', 'today:0.1687', 'shift:0.1678', 'weapon:0.159', 'agreement:0.146', 'begin:0.1433', 'twisted:0.1364', 'draw:0.1148', 'far:0.1056', 'subscribe:0.1028', 'welcome:0.0647']+titles_keywords+['russiaukraine:0.4681', 'war:0.399', 'april:0.3372', 'today:0.2784', 'happened:0.2605']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220120+../news_crawling/RUS_UKR/p_articles/npr.org/The US is giving Ukraine weapons and political support but not troops.txt+eventbasecode20+eventcode20+avgtone0.5106382978723404+goldsteinscale0.65+nummentions0.12917271407837447+numarticles0.12980420594633793+numsources0.11513157894736842+news_keywords+['nato:0.4583', 'ukrainians:0.4085', 'invade:0.4005', 'putin:0.3992', 'troop:0.3282', 'correspondent:0.254', 'border:0.2352', 'political:0.2309', 'biden:0.2291', 'explanation:0.2078', 'fight:0.2016', 'align:0.2007', 'shortly:0.1998', 'weapon:0.1936', 'know:0.1873', 'contingent:0.1783', 'assistance:0.1737', 'force:0.1641', 'buffer:0.1582', 'respond:0.1574', 'general:0.1528', 'sell:0.1478', 'make:0.1295', 'nightmare:0.1268', 'capital:0.1155', 'text:0.1144', 'long:0.112', 'miscalculation:0.0907', 'pifer:0.0896', 'install:0.088']+titles_keywords+['ukraine:0.4224', 'troops:0.3535', 'weapons:0.1918', 'political:0.1543', 'giving:0.1353']"
+        ]
+    ]
+}

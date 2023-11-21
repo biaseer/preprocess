@@ -1,0 +1,19 @@
+{
+    "RUS+RUS+190":[
+        []
+    ],
+    "RUS+UKR+190":[
+        [],
+        [],
+        [],
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/kob.com/Austin pledges military training support for Baltics.txt+eventbasecode190+eventcode190+avgtone0.4944556451612903+goldsteinscale0.0+nummentions0.12082728592162555+numarticles0.121464829586657+numsources0.15789473684210525+news_keywords+['baltics:0.5433', 'nato:0.5191', 'soviet:0.3813', 'troop:0.3797', 'pentagon:0.3396', 'readiness:0.3132', 'threat:0.2682', 'annex:0.2584', 'reassure:0.2413', 'border:0.2404', 'koksarovpreviousnextaustins:0.2285', 'ally:0.2212', 'forward:0.2155', 'perry:0.2115', 'president:0.2046', 'meeting:0.1967', 'increase:0.1927', 'state:0.1865', 'news:0.1813', 'austin:0.1801', 'shortly:0.1796', 'fight:0.1539', 'long:0.1445', 'powerful:0.1395', 'rewritten:0.1319', 'month:0.1284', 'send:0.1224', 'gon:0.121', 'make:0.1096', 'total:0.0498']+titles_keywords+['baltics:0.458', 'austin:0.3599', 'military:0.3441', 'pledges:0.2936', 'training:0.2831']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [],
+        [
+            "20220808+../news_crawling/RUS_UKR/p_articles/kob.com/Water crisis looms for eastern Ukrainian city of Sloviansk.txt+eventbasecode190+eventcode190+avgtone0.4764512595837897+goldsteinscale0.0+nummentions0.15602322206095792+numarticles0.15663524292965916+numsources0.18421052631578946+news_keywords+['ukraine:0.4729', 'water:0.3624', 'sloviansks:0.3464', 'occupy:0.3463', 'drain:0.3461', 'supply:0.2914', 'lyubov:0.271', 'tank:0.2696', 'survive:0.2639', 'humanitarian:0.2433', 'boils:0.2378', 'liter:0.2357', 'municipal:0.2253', 'separatist:0.2243', 'kitchen:0.2219', 'plan:0.2024', 'winter:0.2013', 'rewritten:0.1726', 'terror:0.1713', 'structure:0.1662', 'population:0.1657', 'issue:0.1568', 'artillery:0.1562', 'apnews:0.1527', 'speaking:0.147', 'begin:0.1344', 'comparative:0.1207', 'din:0.1159', 'seven:0.1068', 'sure:0.0888']+titles_keywords+['sloviansk:0.4646', 'ukrainian:0.358', 'water:0.3423', 'crisis:0.1767', 'city:0.1712']"
+        ]
+    ]
+}

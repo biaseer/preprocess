@@ -1,0 +1,15 @@
+{
+    "BLR+UKR+100":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/voanews.com/Fears of Indiscriminate Russian Shelling Mount as Ukraine Battles On.txt+eventbasecode100+eventcode100+avgtone0.4739952718676123+goldsteinscale0.25+nummentions0.06386066763425254+numarticles0.06453952139231327+numsources0.14473684210526316+news_keywords+['kyiv:0.4961', 'kremlin:0.4081', 'invasion:0.309', 'military:0.2805', 'correspondent:0.2542', 'battles:0.2395', 'infrastructure:0.2323', 'strategic:0.2287', 'tank:0.2252', 'intercept:0.2186', 'casualty:0.2169', 'shift:0.2136', 'increase:0.1936', 'flee:0.1913', 'worry:0.1893', 'precede:0.1841', 'bratchuk:0.1787', 'northern:0.1764', 'continue:0.1717', 'stock:0.1662', 'buk:0.1598', 'kilometer:0.1541', 'mount:0.1509', 'cascade:0.1506', 'good:0.1482', 'saturday:0.1366', 'major:0.1333', 'lot:0.1218', 'fierce:0.1179', 'child:0.1059']+titles_keywords+['ukraine:0.3533', 'fears:0.3328', 'shelling:0.2339', 'indiscriminate:0.2055', 'mount:0.1588']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/voanews.com/Latest Developments in Ukraine April 4.txt+eventbasecode100+eventcode100+avgtone0.4722222222222222+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.5579', 'kremlin:0.4548', 'nato:0.417', 'reuters:0.396', 'diplomacy:0.382', 'correspondent:0.3633', 'propaganda:0.3503', 'civilians:0.3226', 'massacre:0.319', 'oligarch:0.3181', 'briefing:0.306', 'sanction:0.3013', 'separatist:0.298', 'cybersecurity:0.2816', 'pentagon:0.2531', 'developments:0.2449', 'anonymity:0.24', 'know:0.2167', 'immigrate:0.2162', 'pipeline:0.2122', 'gatilov:0.2105', 'soon:0.1958', 'reorganize:0.1896', 'refute:0.179', 'temporary:0.1758', 'voa:0.1696', 'submit:0.1642', 'case:0.1609', 'end:0.1496', 'enjoy:0.0848']+titles_keywords+['ukraine:0.5498', 'developments:0.3264', 'april:0.2946', 'latest:0.2397']"
+        ],
+        [
+            "20220727+../news_crawling/RUS_UKR/p_articles/voanews.com/Ukrainian Forces Strike Key Bridge in South.txt+eventbasecode100+eventcode100+avgtone0.49382716049382713+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['ukraine:0.4527', 'bridge:0.3784', 'stremousov:0.3411', 'river:0.309', 'artillery:0.2588', 'strike:0.2316', 'kherson:0.2268', 'podolyak:0.2164', 'road:0.2033', 'south:0.1989', 'supply:0.1861', 'strategically:0.185', 'mobility:0.1628', 'forces:0.1572', 'warning:0.1419', 'swim:0.1376', 'himars:0.129', 'hole:0.1206', 'tweet:0.1157', 'learn:0.1132', 'important:0.1126', 'allow:0.106', 'united:0.0958', 'say:0.0898', 'adviser:0.085', 'highlight:0.0822', 'link:0.0813', 'wednesday:0.0799', 'official:0.0771', 'head:0.052']+titles_keywords+['ukrainian:0.318', 'bridge:0.2538', 'key:0.2177', 'south:0.1873', 'forces:0.0543']"
+        ]
+    ]
+}

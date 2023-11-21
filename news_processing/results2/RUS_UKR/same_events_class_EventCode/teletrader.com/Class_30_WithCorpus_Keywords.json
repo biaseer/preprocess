@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+30":[
+        [
+            "20210912+../news_crawling/RUS_UKR/p_articles/teletrader.com/US Ukraine relations good despite Nord Stream 2 fears official.txt+eventbasecode30+eventcode30+avgtone0.48611111111111105+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4813', 'pipeline:0.3468', 'threat:0.2987', 'zelensky:0.2191', 'nord:0.2173', 'yermak:0.2086', 'assure:0.1987', 'presidential:0.1722', 'relation:0.1638', 'future:0.1508', 'state:0.1457', 'sanction:0.1381', 'statement:0.1305', 'good:0.1183', 'energy:0.1168', 'despite:0.1145', 'optimistic:0.1103', 'reiterate:0.1096', 'response:0.102', 'step:0.099', 'act:0.0984', 'picture:0.0969', 'stream:0.0954', 'come:0.0876', 'united:0.0853', 'recent:0.0841', 'andriy:0.0816', 'make:0.0511', 'office:0.0465', 'head:0.0258']+titles_keywords+['ukraine:0.3564', 'relations:0.1832', 'good:0.1535', 'stream:0.1085', 'despite:0.0737']"
+        ]
+    ],
+    "TUR+RUS+30":[
+        [
+            "20220801+../news_crawling/RUS_UKR/p_articles/teletrader.com/Erdogan Grain crisis overcome with Turkeys efforts.txt+eventbasecode30+eventcode30+avgtone0.516+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['erdogan:0.5041', 'turkey:0.4721', 'diplomatic:0.4053', 'tayyip:0.3324', 'grain:0.326', 'negotiating:0.3228', 'moscow:0.3166', 'peace:0.3058', 'table:0.2923', 'president:0.2875', 'nations:0.2389', 'crisis:0.2366', 'success:0.2334', 'general:0.2301', 'bring:0.2152', 'assure:0.202', 'sail:0.1835', 'port:0.1736', 'head:0.1634', 'make:0.157', 'turn:0.1564', 'guterres:0.1481', 'reveal:0.148', 'step:0.139', 'recep:0.1375', 'televise:0.133', 'possible:0.1274', 'start:0.1079', 'today:0.1007', 'welcome:0.0934']+titles_keywords+['erdogan:0.4455', 'turkeys:0.3527', 'grain:0.34', 'overcome:0.2668', 'crisis:0.2247']"
+        ]
+    ]
+}

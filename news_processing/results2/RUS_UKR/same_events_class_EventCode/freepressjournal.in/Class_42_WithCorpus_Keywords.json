@@ -1,0 +1,12 @@
+{
+    "IND+RUS+42":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/Mumbai NRI accused in cheating cases moves court for permit to travel to Russia to.txt+eventbasecode42+eventcode42+avgtone0.473021582733813+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nri:0.3547', 'moscow:0.3368', 'arrest:0.3187', 'case:0.2974', 'mumbai:0.2778', 'navlani:0.2756', 'magistrate:0.2498', 'accuse:0.2494', 'ravi:0.2448', 'travel:0.2275', 'kurla:0.2269', 'applicant:0.213', 'leave:0.1853', 'telegram:0.1743', 'pregnant:0.1706', 'allow:0.1591', 'cheat:0.157', 'approached:0.1407', 'state:0.1348', 'prevail:0.1336', 'know:0.1309', 'seek:0.1274', 'order:0.1128', 'pose:0.1053', 'covid:0.1049', 'complex:0.0983', 'pdf:0.0959', 'green:0.094', 'set:0.0721', 'share:0.0692']+titles_keywords+['nri:0.3419', 'russia:0.3066', 'accused:0.2262', 'wife:0.1368', 'moves:0.0908']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/Benchmark indices crash nearly 5 on expiry day as UkraineRussia standoff trigger global market selloff.txt+eventbasecode42+eventcode42+avgtone0.4866197183098591+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['sensex:0.6253', 'crore:0.3939', 'finance:0.358', 'bse:0.3537', 'mahindra:0.3408', 'forecast:0.3379', 'reuters:0.3372', 'rouble:0.3032', 'panic:0.2761', 'stability:0.2568', 'niftys:0.2542', 'rsi:0.2479', 'data:0.2478', 'covid:0.2456', 'upside:0.2312', 'intraday:0.2304', 'depreciate:0.2217', 'current:0.2157', 'benchmark:0.2137', 'scrip:0.2113', 'indicator:0.2012', 'sector:0.2004', 'bearishness:0.199', 'end:0.1828', 'month:0.1803', 'order:0.1713', 'world:0.1689', 'significant:0.1614', 'share:0.1444', 'deep:0.1392']+titles_keywords+['expiry:0.286', 'crash:0.235', 'indices:0.2243', 'ukrainerussia:0.1958', 'benchmark:0.1478']"
+        ]
+    ]
+}

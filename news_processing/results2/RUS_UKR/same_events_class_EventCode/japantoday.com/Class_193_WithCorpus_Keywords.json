@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+193":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/japantoday.com/Ukraine retakes key Kyiv suburb battle for Mariupol rages.txt+eventbasecode193+eventcode193+avgtone0.4697357203751066+goldsteinscale0.0+nummentions0.14622641509433962+numarticles0.14394488759970994+numsources0.39144736842105265+news_keywords+['putin:0.4641', 'kyiv:0.4336', 'propaganda:0.3546', 'nato:0.3479', 'genocidal:0.3143', 'invade:0.3068', 'battle:0.2727', 'poles:0.2614', 'flee:0.2503', 'change:0.2444', 'table:0.2434', 'future:0.2344', 'know:0.2278', 'combine:0.2166', 'type:0.2087', 'end:0.2057', 'blunder:0.1904', 'world:0.1829', 'adult:0.1782', 'wtf:0.1766', 'neutral:0.1739', 'realistic:0.1714', 'feed:0.167', 'corner:0.1663', 'retake:0.1593', 'unit:0.1504', 'big:0.1475', 'buy:0.1365', 'brilliantly:0.1297', 'anytime:0.0796']+titles_keywords+['kyiv:0.5487', 'suburb:0.3021', 'mariupol:0.289', 'battle:0.2422', 'retakes:0.1051']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220821+../news_crawling/RUS_UKR/p_articles/japantoday.com/Russians down Ukrainian drones in Crimea as war broadens.txt+eventbasecode193+eventcode193+avgtone0.47446083995459704+goldsteinscale0.0+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['crimea:0.5117', 'ukrainians:0.4059', 'nato:0.4051', 'putin:0.3993', 'war:0.373', 'invades:0.3012', 'weapon:0.258', 'diplomatically:0.2548', 'propaganda:0.2493', 'border:0.2343', 'coincide:0.2291', 'outcome:0.2165', 'stalemate:0.1983', 'know:0.1961', 'soon:0.1909', 'sievierodonetsk:0.1887', 'advantage:0.1793', 'column:0.17', 'idea:0.1685', 'factory:0.1672', 'long:0.1669', 'pull:0.1474', 'buy:0.147', 'eastern:0.1442', 'funnel:0.1376', 'th:0.1353', 'childish:0.1278', 'octocopters:0.1113', 'itsa:0.1091', 'sending:0.1017']+titles_keywords+['crimea:0.4935', 'drones:0.4544', 'russians:0.3858', 'war:0.2818', 'broadens:0.0578']"
+        ]
+    ]
+}

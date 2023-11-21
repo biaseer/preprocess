@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/capitalgazette.com/More than 900 civilian bodies found in Kyiv region following Russian withdrawal police say.txt+eventbasecode190+eventcode190+avgtone0.46649672250546254+goldsteinscale0.0+nummentions0.10377358490566038+numarticles0.09934735315445975+numsources0.16447368421052633+news_keywords+['kyiv:0.5573', 'russiahas:0.4589', 'moscowsflagshipin:0.4106', 'airstrikes:0.3785', 'pentagon:0.2969', 'news:0.2769', 'casualty:0.2765', 'annexed:0.2701', 'nationalist:0.2535', 'survive:0.248', 'victory:0.2309', 'diversion:0.2241', 'tank:0.2173', 'weekend:0.1982', 'production:0.1967', 'liquidate:0.1964', 'sank:0.1951', 'april:0.1928', 'warning:0.1907', 'dmytro:0.1882', 'cite:0.1859', 'hear:0.1805', 'data:0.1783', 'bucha:0.1747', 'sailor:0.1664', 'theinvasionand:0.1629', 'significance:0.1542', 'range:0.1358', 'warm:0.1323', 'thousand:0.0954']+titles_keywords+['kyiv:0.4158', 'bodies:0.3099', '900:0.2447', 'civilian:0.2158', 'withdrawal:0.141']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/capitalgazette.com/Explosions rock Kyiv again as Russians rain fire on Ukraine.txt+eventbasecode190+eventcode190+avgtone0.46447669977081746+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['kyiv:0.5922', 'putin:0.4043', 'airstrikes:0.3683', 'news:0.3055', 'explode:0.3024', 'separatist:0.2631', 'columns:0.2605', 'chernov:0.2593', 'rubble:0.251', 'report:0.2477', 'industrial:0.2471', 'telegram:0.2392', 'epicenter:0.2387', 'unfolding:0.2328', 'troop:0.2292', 'hear:0.227', 'victory:0.2254', 'north:0.2143', 'involve:0.2133', 'scary:0.2122', 'dramatic:0.2116', 'bucha:0.2047', 'cholera:0.2', 'fall:0.1968', 'secretary:0.192', 'calendar:0.1869', 'world:0.1803', 'additional:0.163', 'ruined:0.1485', 'ready:0.1257']+titles_keywords+['kyiv:0.546', 'explosions:0.4179', 'russians:0.3328', 'rain:0.1966', 'rock:0.1722']"
+        ]
+    ]
+}

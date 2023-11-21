@@ -1,0 +1,20 @@
+{
+    "GBR+RUS+120":[
+        [
+            "20210628+../news_crawling/RUS_UKR/p_articles/dw.com/US and allies begin largescale naval drill in Black Sea.txt+eventbasecode120+eventcode120+avgtone0.4872611464968153+goldsteinscale0.3+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.04276315789473684+news_keywords+['crimea:0.5485', 'russian:0.3432', 'navy:0.3047', 'warfare:0.3026', 'annex:0.2705', 'operation:0.268', 'drill:0.2364', 'dive:0.2177', 'exercise:0.2129', 'territorial:0.2108', 'warn:0.166', 'participation:0.1589', 'coast:0.1523', 'ross:0.149', 'incident:0.1418', 'water:0.1312', 'passage:0.131', 'cite:0.1288', 'black:0.1263', 'begin:0.1144', 'worldwide:0.1064', 'week:0.1043', 'neizhpapa:0.1018', 'representsthe:0.0961', 'send:0.0945', 'closely:0.0848', 'theyare:0.0816', 'thirty:0.039', 'largescale:0.0369', 'accord:0.0289']+titles_keywords+['naval:0.3349', 'drill:0.2045', 'black:0.1238', 'begin:0.1075', 'largescale:0.0515']"
+        ]
+    ],
+    "IDN+UKR+120":[
+        [
+            "20220709+../news_crawling/RUS_UKR/p_articles/dw.com/Lavrov denies wars role in rising prices.txt+eventbasecode120+eventcode120+avgtone0.45+goldsteinscale0.3+nummentions0.000725689404934688+numarticles0.0007251631617113851+numsources0.0+news_keywords+['lavrov:0.4607', 'ukraine:0.3506', 'russia:0.3458', 'sergey:0.3447', 'deny:0.3103', 'war:0.2726', 'price:0.1902', 'invasion:0.1803', 'fuel:0.1688', 'rise:0.1558', 'remark:0.1372', 'role:0.1331', 'indonesia:0.1286', 'foreign:0.1283', 'food:0.1089', 'make:0.1049', 'minister:0.099', 'responsible:0.0939', 'world:0.0935', 'summit:0.0654']+titles_keywords+['lavrov:0.4113', 'wars:0.3015', 'prices:0.2061', 'denies:0.1967', 'rising:0.1422']"
+        ]
+    ],
+    "RUS+UKR+120":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/dw.com/Ukraine Russian strikes wound several in Lviv.txt+eventbasecode120+eventcode120+avgtone0.48333333333333334+goldsteinscale0.3+nummentions0.2772133526850508+numarticles0.275924583031182+numsources0.3026315789473684+news_keywords+['ukrainiandefense:0.5596', 'lvivindirection:0.4978', 'moscow:0.4439', 'airstrikes:0.3866', 'hiroshima:0.291', 'andrzej:0.2904', 'evacuate:0.2805', 'reuters:0.2587', 'colonel:0.25', 'refugee:0.2287', 'unprovoked:0.2245', 'politics:0.2121', 'update:0.2017', 'fight:0.2', 'industrial:0.198', 'agreement:0.1889', 'output:0.1847', 'table:0.1814', 'western:0.1785', 'tell:0.1773', 'meetpolishpresident:0.1698', 'advantage:0.1373', 'study:0.1284', 'incompatible:0.1259', 'long:0.1211', 'hodges:0.1159', 'green:0.1082', 'overshadow:0.0865', 'utcgmt:0.069', 'partly:0.0546']+titles_keywords+['lviv:0.5523', 'ukraine:0.4214', 'strikes:0.2838', 'russian:0.2759', 'wound:0.1645']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        []
+    ]
+}

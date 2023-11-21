@@ -1,0 +1,17 @@
+{
+    "EUR+UKR+40":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/middleeastmonitor.com/Israel pardons Ukrainian prisoner to fight against Russia.txt+eventbasecode40+eventcode40+avgtone0.47950819672131145+goldsteinscale0.55+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.006578947368421052+news_keywords+['ukraine:0.477', 'refugee:0.3979', 'israeli:0.3974', 'war:0.3598', 'humanitarian:0.3404', 'sanction:0.326', 'prisoner:0.3107', 'herzog:0.2621', 'outrage:0.2226', 'kill:0.2201', 'president:0.2014', 'eastward:0.201', 'report:0.1955', 'news:0.1948', 'flee:0.1772', 'privacy:0.1615', 'read:0.1577', 'recaptcha:0.1541', 'high:0.1521', 'pronouns:0.1387', 'say:0.1168', 'february:0.1165', 'kilogram:0.1115', 'displace:0.1063', 'actual:0.099', 'wish:0.0978', 'internally:0.0946', 'far:0.0817', 'accord:0.0687', 'true:0.0244']+titles_keywords+['israel:0.319', 'ukrainian:0.2974', 'prisoner:0.2552', 'pardons:0.225', 'fight:0.1166']"
+        ]
+    ],
+    "QAT+RUS+40":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/middleeastmonitor.com/Qatars Emir meets Ukrainian envoy to discuss Russian war.txt+eventbasecode40+eventcode40+avgtone0.48406374501992033+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['qatar:0.4506', 'ukrainian:0.3621', 'sheikh:0.3369', 'diplomatic:0.3188', 'war:0.2657', 'tamim:0.257', 'president:0.2494', 'thani:0.1698', 'discus:0.1661', 'zelensky:0.1646', 'contact:0.146', 'sanction:0.1363', 'news:0.1242', 'report:0.1141', 'issue:0.1049', 'begin:0.1038', 'company:0.0962', 'say:0.0925', 'real:0.0736', 'way:0.0692', 'million:0.0689', 'recaptcha:0.0675', 'privacy:0.0657', 'fled:0.062', 'bektum:0.0613', 'amid:0.0542', 'toll:0.0506', 'injured:0.0489', 'draw:0.0464', 'wednesday:0.0372']+titles_keywords+['qatars:0.3386', 'ukrainian:0.3042', 'envoy:0.2376', 'war:0.2061', 'discuss:0.0949']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/middleeastmonitor.com/Some NATO members want longer war in Ukraine to weaken Russia Turkiye says.txt+eventbasecode40+eventcode40+avgtone0.4881889763779527+goldsteinscale0.55+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4095', 'nato:0.4069', 'turkiye:0.3336', 'war:0.2591', 'long:0.219', 'mediate:0.1872', 'continue:0.1775', 'want:0.1522', 'news:0.1356', 'weak:0.1334', 'mevlut:0.1257', 'good:0.1235', 'hold:0.1212', 'casualty:0.109', 'contact:0.1006', 'meeting:0.0975', 'relation:0.0932', 'say:0.0834', 'think:0.0801', 'recaptcha:0.0703', 'following:0.0699', 'disagree:0.0644', 'terms:0.0637', 'state:0.0571', 'google:0.0528', 'wednesday:0.0459', 'report:0.0454', 'according:0.0431', 'ministers:0.037', 'privacy:0.0246']+titles_keywords+['nato:0.4449', 'longer:0.2495', 'turkiye:0.2226', 'weaken:0.1859', 'want:0.1553']"
+        ]
+    ]
+}

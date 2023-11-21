@@ -1,0 +1,26 @@
+{
+    "EUR+RUS+120":[
+        []
+    ],
+    "RUS+UKR+120":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/theguardian.com/0059UK defence secretary explains why UK would not impose nofly zone over Ukraine video.txt+eventbasecode120+eventcode120+avgtone0.4767241379310345+goldsteinscale0.3+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.02631578947368421+news_keywords+['ukrainefocuses:0.5483', 'airstrikes:0.4235', 'nato:0.3897', 'moscow:0.3319', 'putins:0.3259', 'fly:0.2988', 'invaded:0.2737', 'zone:0.2402', 'boris:0.2337', 'editorial:0.2279', 'conflict:0.2277', 'uk:0.1945', 'remain:0.1906', 'volodymyr:0.1779', 'prepare:0.173', 'askyiv:0.1708', 'risky:0.1627', 'constituency:0.1572', 'defeatist:0.1515', 'misleading:0.1387', 'prevent:0.1352', 'general:0.1325', 'crosshas:0.1245', 'unfolds:0.1168', 'agree:0.1145', 'increase:0.1073', 'thenew:0.0927', 'include:0.0842', 'hour:0.0807', 'twittercovers:0.0614']+titles_keywords+['ukraine:0.3323', 'nofly:0.2738', 'explains:0.1826', 'impose:0.1552', 'video:0.1172']"
+        ],
+        []
+    ],
+    "UKR+EUR+120":[
+        []
+    ],
+    "UKR+RUS+120":[
+        [],
+        []
+    ],
+    "WST+RUS+120":[
+        []
+    ],
+    "WST+UKR+120":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/theguardian.com/Talks aimed at ending the war in Ukraine will resume as fighting rages around the.txt+eventbasecode120+eventcode120+avgtone0.4802123552123552+goldsteinscale0.3+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.003289473684210526+news_keywords+['ukraine:0.4646', 'nato:0.4305', 'kremlin:0.4226', 'airstrikes:0.4067', 'diplomacy:0.3895', 'escalation:0.3237', 'embargo:0.323', 'pentagon:0.2888', 'emergency:0.262', 'fight:0.2334', 'prepare:0.2261', 'telegram:0.2154', 'agreement:0.2091', 'rozcomnadzor:0.2035', 'future:0.1965', 'update:0.1948', 'arrange:0.1908', 'report:0.1858', 'cite:0.185', 'weekend:0.1804', 'drill:0.1788', 'end:0.1768', 'prompt:0.1703', 'counterpart:0.1562', 'biden:0.1489', 'arm:0.1448', 'elaborate:0.1435', 'resume:0.1361', 'focus:0.1092', 'far:0.0814']+titles_keywords+['ukraine:0.3734', 'war:0.3335', 'ending:0.2392', 'resume:0.2052', 'imagestalks:0.1038']"
+        ]
+    ]
+}

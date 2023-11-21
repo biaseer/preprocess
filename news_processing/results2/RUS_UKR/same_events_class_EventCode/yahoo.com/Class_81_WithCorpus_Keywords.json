@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+81":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russia legalizes stealing Ukrainian grain from Kherson.txt+eventbasecode81+eventcode81+avgtone0.4954128440366973+goldsteinscale0.75+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['oblast:0.5384', 'ukraine:0.5047', 'soviet:0.4807', 'putin:0.4152', 'kolykhaev:0.3675', 'khersons:0.2714', 'expropriate:0.269', 'flag:0.2688', 'grain:0.2534', 'legalize:0.2453', 'war:0.2423', 'cooperate:0.2417', 'hennadiy:0.2299', 'sanction:0.2197', 'shortage:0.2102', 'administration:0.2072', 'read:0.206', 'armed:0.1845', 'bring:0.1612', 'lease:0.1568', 'foreign:0.153', 'caused:0.1494', 'april:0.1437', 'official:0.1252', 'th:0.1179', 'expected:0.1033', 'say:0.1025', 'saldo:0.0932', 'way:0.0798', 'partially:0.0288']+titles_keywords+['ukrainian:0.4089', 'grain:0.3315', 'kherson:0.3065', 'stealing:0.2949', 'legalizes:0.2659']"
+        ]
+    ],
+    "UKR+RUS+81":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/yahoo.com/Facebook users in Ukraine can now post Death to Putin after Meta relaxes its rules.txt+eventbasecode81+eventcode81+avgtone0.4968559275013871+goldsteinscale0.75+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['censorship:0.5097', 'facebook:0.4005', 'putin:0.3899', 'russias:0.3515', 'racism:0.3399', 'political:0.3365', 'reuters:0.3327', 'rohingya:0.3048', 'muslims:0.2953', 'allow:0.2951', 'metas:0.2602', 'violent:0.2441', 'credibility:0.2399', 'post:0.2213', 'report:0.2195', 'paramilitary:0.2193', 'hate:0.215', 'protest:0.2124', 'marginalize:0.1961', 'intercept:0.1829', 'protect:0.1811', 'include:0.1733', 'statement:0.1707', 'speechwhich:0.1677', 'lead:0.1617', 'temporarily:0.1448', 'forms:0.1288', 'relax:0.1047', 'normally:0.1008', 'far:0.0861']+titles_keywords+['putin:0.4175', 'facebook:0.2985', 'meta:0.2238', 'hate:0.204', 'rules:0.2018']"
+        ]
+    ]
+}

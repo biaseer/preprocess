@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+111":[
+        []
+    ],
+    "RUS+UKR+111":[
+        [],
+        [],
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/sfgate.com/Ukraines position has worsened in fight for Severodonetsk.txt+eventbasecode111+eventcode111+avgtone0.4801349325337331+goldsteinscale0.4+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.006578947368421052+news_keywords+['ukraine:0.5391', 'kremlin:0.4679', 'invade:0.3913', 'war:0.389', 'military:0.3064', 'nuclear:0.2837', 'terror:0.2623', 'battleground:0.2583', 'intensifies:0.2301', 'weapon:0.2267', 'report:0.2223', 'blacklist:0.2123', 'snake:0.2099', 'turn:0.1946', 'severodonetsk:0.1805', 'discus:0.1773', 'commemoration:0.176', 'remain:0.1747', 'counterpart:0.1741', 'governor:0.1689', 'compare:0.1673', 'combine:0.1602', 'cover:0.1552', 'newsletter:0.1547', 'say:0.1492', 'longer:0.1371', 'stressful:0.133', 'fund:0.1286', 'sink:0.1245', 'lateshia:0.1172']+titles_keywords+['ukraines:0.4461', 'worsened:0.3399', 'severodonetsk:0.3212', 'position:0.2873', 'fight:0.2404']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/sfgate.com/Signs of massacre in Bucha spark calls for war crime probes.txt+eventbasecode111+eventcode111+avgtone0.4568434032059186+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.006578947368421052+news_keywords+['kyiv:0.4831', 'genocide:0.4587', 'putin:0.4344', 'nato:0.337', 'invade:0.3284', 'assault:0.2908', 'investigation:0.2697', 'disinformation:0.2611', 'report:0.2487', 'troop:0.2436', 'accuse:0.2417', 'involvement:0.2309', 'news:0.2042', 'law:0.1928', 'unacceptable:0.1918', 'bucha:0.1697', 'annalena:0.168', 'world:0.1341', 'child:0.134', 'characterized:0.1334', 'outlet:0.1306', 'footage:0.1305', 'expert:0.1293', 'haunting:0.1193', 'numerous:0.1178', 'buying:0.1061', 'reposted:0.0862', 'right:0.0838', 'normalize:0.081', 'blinken:0.0783']+titles_keywords+['massacre:0.5223', 'war:0.3932', 'bucha:0.3659', 'crime:0.361', 'probes:0.2002']"
+        ]
+    ]
+}

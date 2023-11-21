@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220828+../news_crawling/RUS_UKR/p_articles/hampshirechronicle.co.uk/Radiation leak fears as cities near Ukrainian nuclear plant shelled.txt+eventbasecode194+eventcode194+avgtone0.472568578553616+goldsteinscale0.0+nummentions0.14404934687953555+numarticles0.1446700507614213+numsources0.2565789473684211+news_keywords+['radioactive:0.4698', 'reactors:0.4305', 'donetsk:0.37', 'ukraines:0.3643', 'dnipropetrovsk:0.3298', 'igor:0.2895', 'concern:0.2836', 'catastrophe:0.2746', 'hydroelectric:0.2658', 'occupy:0.2532', 'government:0.244', 'vicinity:0.2405', 'artillery:0.2117', 'report:0.1876', 'strategically:0.1859', 'casualty:0.1833', 'plant:0.1763', 'exposure:0.1737', 'help:0.1563', 'sputter:0.1516', 'km:0.1037', 'worker:0.1019', 'live:0.1007', 'soon:0.096', 'high:0.092', 'agreement:0.0907', 'head:0.0846', 'major:0.0846', 'dozen:0.0582', 'accord:0.0523']+titles_keywords+['nuclear:0.4272', 'ukrainian:0.2641', 'fears:0.1997', 'leak:0.1926', 'shelled:0.1386']"
+        ]
+    ],
+    "UKR+RUS+194":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/hampshirechronicle.co.uk/Winchester Cathedral to host blue and yellow vigil in support of Ukraine.txt+eventbasecode194+eventcode194+avgtone0.4956521739130435+goldsteinscale0.0+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4242', 'winchester:0.346', 'cathedral:0.332', 'vigil:0.3049', 'evacuation:0.2995', 'ukworshiplive:0.2811', 'peace:0.2689', 'rev:0.2661', 'refugee:0.2617', 'faiths:0.2433', 'prevail:0.2202', 'military:0.2117', 'catherine:0.2052', 'community:0.1957', 'thy:0.1931', 'continue:0.192', 'come:0.1866', 'grief:0.1771', 'org:0.1728', 'reading:0.1595', 'debate:0.1538', 'february:0.1533', 'important:0.1491', 'toll:0.1407', 'hundreds:0.1361', 'teach:0.1324', 'voice:0.1165', 'story:0.0967', 'different:0.084', 'welcome:0.079']+titles_keywords+['winchester:0.3765', 'cathedral:0.3141', 'yellow:0.3078', 'vigil:0.298', 'ukraine:0.2852']"
+        ]
+    ]
+}

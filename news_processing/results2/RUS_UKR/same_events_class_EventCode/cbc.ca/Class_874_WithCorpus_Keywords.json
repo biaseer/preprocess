@@ -1,0 +1,12 @@
+{
+    "CAN+UKR+874":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/cbc.ca/Family back in Canada after adopting Ukrainian sons during Russian invasion.txt+eventbasecode87+eventcode874+avgtone0.4972924187725632+goldsteinscale1.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['adoption:0.5188', 'ukrainewith:0.3926', 'russians:0.3092', 'passport:0.2958', 'cbc:0.2956', 'invadedright:0.2932', 'stay:0.2375', 'finalize:0.2138', 'news:0.2067', 'violence:0.2031', 'timeframe:0.199', 'valik:0.1984', 'updated:0.1926', 'safe:0.1796', 'darren:0.1783', 'choice:0.1659', 'interview:0.1658', 'far:0.1585', 'military:0.1566', 'right:0.1509', 'boys:0.1505', 'crash:0.1493', 'horrific:0.1425', 'world:0.1355', 'matter:0.1346', 'hop:0.1312', 'loved:0.1281', 'siren:0.1108', 'lot:0.11', 'shorter:0.0816']+titles_keywords+['ukrainian:0.3556', 'sons:0.336', 'adopting:0.3175', 'canada:0.2174', 'invasion:0.2163']"
+        ]
+    ],
+    "RUS+UKR+874":[
+        [
+            "20220410+../news_crawling/RUS_UKR/p_articles/cbc.ca/Zelensky says next few days of war are crucial as Ukraine braces for new Russian.txt+eventbasecode87+eventcode874+avgtone0.4614467408585056+goldsteinscale1.0+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.013157894736842105+news_keywords+['ukraineto:0.4797', 'moscow:0.4389', 'putin:0.4331', 'zelenskythanked:0.3853', 'propaganda:0.3613', 'evidencefromukrainians:0.3268', 'conquer:0.3192', 'evacuate:0.2985', 'investigation:0.2698', 'separatist:0.2683', 'detain:0.2518', 'trudeaufor:0.2507', 'military:0.2463', 'preparingfor:0.2273', 'itannounced:0.2103', 'accordance:0.2098', 'donbas:0.2095', 'thursday:0.2011', 'casualty:0.1981', 'anonymity:0.1978', 'checkpoint:0.1945', 'speak:0.1929', 'long:0.1888', 'enter:0.186', 'ignore:0.1846', 'additional:0.1528', 'weather:0.1424', 'kilometreconvoy:0.124', 'arm:0.1106', 'mistake:0.1041']+titles_keywords+['zelensky:0.4958', 'ukraine:0.2823', 'war:0.2759', 'days:0.2369', 'crucial:0.1438']"
+        ]
+    ]
+}

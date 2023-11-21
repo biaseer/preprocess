@@ -1,0 +1,21 @@
+{
+    "POL+RUS+174":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/msn.com/Poland expels 45 Russian diplomats accused of spying.txt+eventbasecode174+eventcode174+avgtone0.4765625+goldsteinscale0.25+nummentions0.0330188679245283+numarticles0.0337200870195794+numsources0.05592105263157895+news_keywords+['poland:0.4502', 'diplomat:0.3633', 'spy:0.3321', 'warsaws:0.3232', 'russians:0.3187', 'baltic:0.2846', 'officer:0.2817', 'eu:0.2813', 'mariusz:0.2785', 'investigation:0.2275', 'threat:0.2169', 'expels:0.2088', 'agency:0.1951', 'accuse:0.1674', 'law:0.1546', 'violate:0.1426', 'kamiski:0.1425', 'status:0.1339', 'office:0.1155', 'number:0.0996', 'convention:0.0823', 'unveiled:0.0725', 'wednesday:0.0566', 'pretend:0.0558', 'archive:0.0543', 'interior:0.0479', 'aryn:0.0478', 'say:0.0431', 'national:0.0409', 'recently:0.0315']+titles_keywords+['diplomats:0.3317', 'poland:0.2788', 'expels:0.2685', '45:0.136', 'accused:0.109']"
+        ]
+    ],
+    "RUS+UKR+174":[
+        [],
+        [
+            "20220430+../news_crawling/RUS_UKR/p_articles/msn.com/Vladimir Putin calls them scum and traitors Heres what life is like for Russias new.txt+eventbasecode174+eventcode174+avgtone0.486013986013986+goldsteinscale0.25+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4909', 'russiaused:0.4736', 'subcontinent:0.351', 'colombo:0.3278', 'armenia:0.3243', 'visa:0.3079', 'peaceful:0.2983', 'blacklist:0.2689', 'realise:0.2543', 'exile:0.2473', 'australiansanctions:0.2254', 'lgbtqi:0.2216', 'term:0.2198', 'allegation:0.2099', 'end:0.2003', 'speak:0.1985', 'information:0.1979', 'scum:0.1904', 'historically:0.1862', 'help:0.1708', 'superyacht:0.1579', 'mr:0.1529', 'compare:0.1433', 'longer:0.1402', 'strange:0.1402', 'somehave:0.1312', 'billion:0.1221', 'true:0.0915', 'makepropaganda:0.0872', 'cohesion:0.0477']+titles_keywords+['traitors:0.4665', 'vladimir:0.4368', 'russias:0.4234', 'scum:0.3848', 'exiles:0.3838']"
+        ]
+    ],
+    "RUS+WST+174":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/msn.com/Russia to ban entrance of foreign nationals from US and allies.txt+eventbasecode174+eventcode174+avgtone0.4837758112094396+goldsteinscale0.25+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['putin:0.4473', 'ukraine:0.4258', 'nato:0.4181', 'diplomat:0.34', 'balkan:0.323', 'visa:0.313', 'sanction:0.2871', 'sheremetyevo:0.2533', 'conflict:0.2451', 'retaliatory:0.2442', 'airport:0.23', 'restriction:0.2249', 'expel:0.2239', 'citizens:0.2135', 'entrance:0.2069', 'meeting:0.2059', 'unfriendly:0.1919', 'cite:0.1627', 'reutersstringer:0.1456', 'state:0.1437', 'develop:0.1343', 'declare:0.1236', 'board:0.1099', 'monday:0.1038', 'look:0.0994', 'resume:0.0994', 'number:0.0983', 'follow:0.0953', 'right:0.094', 'non:0.083']+titles_keywords+['russia:0.3779', 'ban:0.2134', 'entrance:0.1694', 'allies:0.129', 'nationals:0.1028']"
+        ]
+    ],
+    "UKR+RUS+174":[
+        []
+    ]
+}

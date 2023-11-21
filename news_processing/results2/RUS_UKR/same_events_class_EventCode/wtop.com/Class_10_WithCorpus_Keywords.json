@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+10":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/wtop.com/Missile kills at least 52 at crowded Ukrainian train station.txt+eventbasecode10+eventcode10+avgtone0.46546546546546547+goldsteinscale0.5+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.03289473684210526+news_keywords+['kyiv:0.4804', 'soviet:0.4184', 'massacre:0.4151', 'war:0.3743', 'putins:0.374', 'missile:0.3385', 'nato:0.3317', 'nationalist:0.3009', 'journalist:0.2519', 'intercept:0.2244', 'report:0.2178', 'spiegel:0.2072', 'railway:0.2054', 'child:0.2039', 'justification:0.2037', 'involved:0.201', 'excerpt:0.2', 'intensifies:0.1998', 'shoot:0.1877', 'bucha:0.1869', 'anonymity:0.1793', 'row:0.1565', 'type:0.1497', 'dozen:0.1475', 'cover:0.1421', 'bury:0.126', 'badly:0.1201', 'unclear:0.1194', 'resupplied:0.1059', 'overall:0.0891']+titles_keywords+['ukrainian:0.328', 'missile:0.2824', 'kills:0.1912', 'train:0.1876', '52:0.1688']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220723+../news_crawling/RUS_UKR/p_articles/wtop.com/Airstrikes kill more Ukrainians despite grain export deal.txt+eventbasecode10+eventcode10+avgtone0.47491248541423575+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['airstrikes:0.4761', 'kyiv:0.4506', 'russias:0.4312', 'soviet:0.4279', 'missile:0.2963', 'peaceful:0.2813', 'news:0.2745', 'destroy:0.2606', 'strategic:0.2546', 'territory:0.2415', 'investigation:0.241', 'casualty:0.237', 'gov:0.2349', 'know:0.2282', 'troop:0.2203', 'redistribute:0.2122', 'agreement:0.2116', 'grain:0.1984', 'shoot:0.1925', 'outlet:0.1914', 'anonymity:0.1904', 'false:0.1836', 'chaos:0.18', 'explain:0.178', 'write:0.1756', 'donbas:0.1744', 'systems:0.173', 'avert:0.153', 'lot:0.1222', 'export:0.1146']+titles_keywords+['ukrainians:0.4119', 'airstrikes:0.3497', 'grain:0.2771', 'deal:0.155', 'export:0.1438']"
+        ]
+    ]
+}

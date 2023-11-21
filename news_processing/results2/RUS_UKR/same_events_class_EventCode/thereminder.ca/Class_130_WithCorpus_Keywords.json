@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220121+../news_crawling/RUS_UKR/p_articles/thereminder.ca/US Russia to try more diplomacy amid tensions over Ukraine.txt+eventbasecode130+eventcode130+avgtone0.47556207233626585+goldsteinscale0.27999999999999997+nummentions0.3835268505079826+numarticles0.3839738941261784+numsources0.5098684210526315+news_keywords+['diplomacy:0.4743', 'nato:0.4519', 'putin:0.444', 'ukraines:0.4394', 'invades:0.381', 'maneuver:0.3262', 'pursue:0.2896', 'border:0.2517', 'separatist:0.2297', 'ahead:0.2269', 'concern:0.2221', 'crisis:0.2174', 'anticipate:0.2131', 'ally:0.2083', 'input:0.2074', 'weaponry:0.2074', 'tank:0.2023', 'sanction:0.2023', 'misunderstand:0.199', 'huddle:0.1908', 'know:0.1901', 'psaki:0.1828', 'promise:0.1809', 'forefront:0.1759', 'brief:0.1687', 'trade:0.1394', 'nonstarter:0.1325', 'virtual:0.1135', 'week:0.1131', 'make:0.0965']+titles_keywords+['diplomacy:0.4538', 'ukraine:0.3012', 'tensions:0.2005', 'try:0.1306', 'amid:0.0013']"
+        ],
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/thereminder.ca/Biden is convinced Putin has decided to invade Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4659727782225781+goldsteinscale0.27999999999999997+nummentions0.45754716981132076+numarticles0.4579405366207397+numsources0.4473684210526316+news_keywords+['putin:0.4667', 'kyiv:0.4106', 'invade:0.3952', 'disinformation:0.311', 'cyberattacks:0.3061', 'separatists:0.3057', 'sinenkov:0.2934', 'troop:0.2893', 'escalation:0.2877', 'flag:0.2738', 'prepare:0.2632', 'pretext:0.2606', 'occur:0.2538', 'nuclear:0.2508', 'evacuee:0.2439', 'news:0.2319', 'know:0.2193', 'varenytsia:0.2125', 'justify:0.1961', 'basic:0.1942', 'gas:0.1827', 'sieverodonetsk:0.1803', 'drill:0.1767', 'pull:0.1639', 'thursday:0.1567', 'simmer:0.1507', 'secretary:0.1397', 'sure:0.1146', 'lines:0.113', 'state:0.1044']+titles_keywords+['putin:0.4319', 'biden:0.4034', 'invade:0.3181', 'convinced:0.2857', 'decided:0.1955']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/thereminder.ca/Ukraines Zelenskyy calls on Putin to meet as tensions soar.txt+eventbasecode130+eventcode130+avgtone0.4549050632911392+goldsteinscale0.27999999999999997+nummentions0.3076923076923077+numarticles0.30819434372733867+numsources0.7203947368421053+news_keywords+['ukraine:0.4851', 'kremlin:0.42', 'natos:0.4056', 'ceasefire:0.3803', 'invade:0.345', 'diplomatic:0.313', 'emergency:0.2942', 'escalation:0.291', 'president:0.2792', 'annex:0.2786', 'zelenskyy:0.2705', 'underway:0.2642', 'know:0.2497', 'worry:0.2477', 'update:0.2385', 'flee:0.2353', 'meeting:0.222', 'report:0.2152', 'influx:0.2095', 'order:0.2037', 'watch:0.2002', 'brief:0.1978', 'schedule:0.1943', 'cite:0.1846', 'drill:0.1769', 'month:0.1588', 'nearly:0.1521', 'ap:0.1407', 'lines:0.1338', 'hot:0.1252']+titles_keywords+['zelenskyy:0.5474', 'putin:0.3566', 'ukraines:0.3337', 'meet:0.2845', 'tensions:0.1767']"
+        ]
+    ]
+}

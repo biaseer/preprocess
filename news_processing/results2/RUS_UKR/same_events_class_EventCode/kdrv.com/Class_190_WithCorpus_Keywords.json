@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220611+../news_crawling/RUS_UKR/p_articles/kdrv.com/Stronger Russian weapons against Ukraine Russian troops to Nicaragua.txt+eventbasecode190+eventcode190+avgtone0.4872340425531915+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5039', 'russian:0.4198', 'war:0.3205', 'nicaragua:0.3138', 'weaponry:0.3098', 'zelenskyy:0.2656', 'troop:0.2643', 'incendiary:0.229', 'border:0.2224', 'government:0.2144', 'warn:0.1891', 'ortega:0.1813', 'president:0.1753', 'sanction:0.1712', 'plane:0.165', 'volodymr:0.163', 'emergency:0.1612', 'authorize:0.1559', 'followkdrv:0.1549', 'news:0.1541', 'want:0.1443', 'hemisphere:0.144', 'stronger:0.1423', 'northeastern:0.1167', 'collateral:0.1031', 'april:0.0926', 'small:0.0854', 'produce:0.0779', 'partly:0.0494', 'thousand:0.0235']+titles_keywords+['ukraine:0.4186', 'weapons:0.4042', 'nicaragua:0.3723', 'troops:0.3226', 'stronger:0.2841']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/kdrv.com/Ukraine claims Russian general has been killed in Kharkiv.txt+eventbasecode190+eventcode190+avgtone0.47410714285714284+goldsteinscale0.0+nummentions0.04716981132075472+numarticles0.047860768672951415+numsources0.046052631578947366+news_keywords+['ukraine:0.4586', 'kharkiv:0.345', 'troop:0.2677', 'genocide:0.262', 'kill:0.2604', 'grozev:0.2498', 'artillery:0.2302', 'general:0.2255', 'cnn:0.2152', 'report:0.2126', 'strategic:0.2087', 'information:0.1987', 'executive:0.1892', 'outlet:0.1778', 'rank:0.1751', 'consolidate:0.1747', 'forward:0.1742', 'march:0.1674', 'remain:0.1557', 'ferocity:0.1533', 'understand:0.1498', 'district:0.1372', 'strikes:0.1323', 'murky:0.1295', 'proof:0.1227', 'large:0.1115', 'new:0.0921', 'maternity:0.0831', 'unsecured:0.0792', 'added:0.0539']+titles_keywords+['kharkiv:0.4025', 'ukraine:0.3292', 'general:0.2612', 'killed:0.2547', 'claims:0.0757']"
+        ]
+    ]
+}

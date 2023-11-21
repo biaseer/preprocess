@@ -1,0 +1,12 @@
+{
+    "CHE+UKR+43":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/pakobserver.net/Global elites return to Davos under Ukraine storm.txt+eventbasecode43+eventcode43+avgtone0.47474747474747475+goldsteinscale0.64+nummentions0.01088534107402032+numarticles0.011602610587382161+numsources0.02631578947368421+news_keywords+['davos:0.3971', 'meeting:0.3356', 'summit:0.323', 'ukraine:0.3192', 'coronavirus:0.319', 'world:0.2936', 'economic:0.2932', 'conflict:0.2649', 'crisis:0.262', 'elites:0.2534', 'history:0.2487', 'resort:0.2476', 'afp:0.2401', 'swiss:0.2274', 'forum:0.2038', 'january:0.1981', 'momentous:0.1859', 'place:0.1741', 'fallout:0.1715', 'glitzy:0.1661', 'storm:0.1476', 'theme:0.1407', 'return:0.1349', 'day:0.1333', 'wef:0.1265', 'devastate:0.1075', 'tone:0.0896', 'induce:0.0778', 'set:0.0471', 'morph:0.0455']+titles_keywords+['davos:0.4412', 'elites:0.3664', 'ukraine:0.3339', 'storm:0.2995', 'return:0.2297']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20211226+../news_crawling/RUS_UKR/p_articles/pakobserver.net/Thousands of Russian troops withdrawing from Ukraine border.txt+eventbasecode43+eventcode43+avgtone0.4935344827586207+goldsteinscale0.64+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['crimea:0.4996', 'kyiv:0.4163', 'nato:0.3989', 'troop:0.3645', 'deploy:0.3346', 'russian:0.3285', 'combat:0.2372', 'eastward:0.217', 'expand:0.2152', 'border:0.2133', 'drills:0.2066', 'march:0.1859', 'withdraw:0.1817', 'near:0.1755', 'news:0.1613', 'threaten:0.1417', 'area:0.1415', 'combine:0.136', 'plan:0.1274', 'vary:0.1188', 'kuban:0.1138', 'return:0.1126', 'report:0.1108', 'hold:0.1098', 'arm:0.1096', 'long:0.1045', 'thousands:0.1025', 'capital:0.098', 'stage:0.0965', 'need:0.0818']+titles_keywords+['troops:0.3636', 'russian:0.3246', 'withdrawing:0.2881', 'thousands:0.2305', 'border:0.2288']"
+        ]
+    ]
+}

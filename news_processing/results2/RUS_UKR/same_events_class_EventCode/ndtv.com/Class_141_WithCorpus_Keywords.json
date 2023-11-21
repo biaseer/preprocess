@@ -1,0 +1,15 @@
+{
+    "RUS+RUS+141":[
+        [
+            "20220702+../news_crawling/RUS_UKR/p_articles/ndtv.com/Man Throws Flammable Liquid At Government Building In Russia Report.txt+eventbasecode141+eventcode141+avgtone0.46934865900383144+goldsteinscale0.175+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kgb:0.46', 'putin:0.4504', 'ukraine:0.4439', 'molotov:0.4308', 'flammable:0.3766', 'government:0.351', 'extinguish:0.346', 'bomb:0.3037', 'invade:0.2702', 'nizhny:0.2522', 'suspicious:0.2422', 'cocktail:0.2295', 'protest:0.2195', 'report:0.2136', 'emergency:0.2129', 'fsb:0.2116', 'table:0.2073', 'office:0.1938', 'union:0.1932', 'locate:0.1722', 'building:0.1582', 'belgorod:0.15', 'scene:0.148', 'outlet:0.1464', 'person:0.1366', 'newsweek:0.1338', 'throws:0.1198', 'mr:0.1082', 'thursday:0.1078', 'according:0.0777']+titles_keywords+['flammable:0.3624', 'russia:0.3059', 'throws:0.1655', 'building:0.1439', 'man:0.0968']"
+        ]
+    ],
+    "UKR+RUS+141":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/ndtv.com/Ukrainian Brewery Switches From Beer To Molotov Cocktails.txt+eventbasecode141+eventcode141+avgtone0.5+goldsteinscale0.175+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.5433', 'molotov:0.4255', 'pravda:0.4092', 'putin:0.3893', 'revolution:0.3832', 'brewery:0.383', 'cocktails:0.3588', 'industrial:0.3451', 'zelensky:0.3067', 'mixture:0.296', 'invasion:0.2882', 'oil:0.2784', 'khuylo:0.2703', 'tank:0.2672', 'table:0.2558', 'volodymyr:0.2498', 'street:0.2345', 'demonstrate:0.2169', 'checkpoint:0.2111', 'protect:0.1811', 'point:0.1766', 'generate:0.1728', 'historic:0.1669', 'snowfall:0.1616', 'switch:0.1599', 'push:0.1516', 'oust:0.1461', 'saturday:0.1404', 'pro:0.1363', 'ready:0.1056']+titles_keywords+['molotov:0.4565', 'brewery:0.4377', 'ukrainian:0.4032', 'cocktails:0.356', 'switches:0.0897']"
+        ],
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/ndtv.com/Come To Your Streets Ukraine President Zelensky Urges Global Protests Against Russia.txt+eventbasecode141+eventcode141+avgtone0.48387096774193544+goldsteinscale0.175+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.006578947368421052+news_keywords+['ukraine:0.4412', 'protest:0.415', 'zelensky:0.3757', 'invasion:0.3196', 'volodymyr:0.2478', 'street:0.2333', 'peace:0.2206', 'flee:0.2148', 'freedom:0.2088', 'citizen:0.2062', 'speak:0.2045', 'headline:0.204', 'globe:0.202', 'president:0.1903', 'come:0.189', 'kill:0.1843', 'people:0.1691', 'heard:0.1626', 'hundreds:0.1489', 'start:0.1307', 'february:0.1296', 'thwart:0.1242', 'feed:0.1235', 'bloody:0.1165', 'urge:0.1011', 'square:0.0903', 'passionate:0.0866', 'visible:0.0785', 'video:0.0664', 'pro:0.0561']+titles_keywords+['zelensky:0.5078', 'ukraine:0.4037', 'protests:0.3697', 'president:0.1445', 'come:0.1369']"
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "CAN+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/northernirelandnews.com/Canada condemns Russias military operation in Ukraine asks for withdrawal of forces.txt+eventbasecode111+eventcode111+avgtone0.47230769230769226+goldsteinscale0.4+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.019736842105263157+news_keywords+['ukraine:0.4403', 'putin:0.3857', 'sovereignty:0.2944', 'trudeau:0.2913', 'peaceful:0.2733', 'invasion:0.2728', 'military:0.2481', 'vasily:0.2461', 'conflict:0.2363', 'protect:0.2355', 'escalation:0.2289', 'unprovoked:0.2252', 'emergency:0.2043', 'stop:0.1984', 'ambassador:0.1872', 'condemns:0.1866', 'donbas:0.1809', 'act:0.1778', 'strike:0.1683', 'term:0.1507', 'immediately:0.1451', 'nebenzya:0.1358', 'withdraw:0.1308', 'world:0.1219', 'subsequent:0.1214', 'decision:0.105', 'proxy:0.0781', 'strong:0.0748', 'ani:0.0676', 'add:0.0589']+titles_keywords+['ukraine:0.4434', 'condemns:0.2107', 'military:0.2058', 'withdrawal:0.1463', 'forces:0.1052']"
+        ]
+    ],
+    "EUR+RUS+111":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/northernirelandnews.com/EU proposes fifth package of sanctions against Russia bans coal import from Russia.txt+eventbasecode111+eventcode111+avgtone0.463254593175853+goldsteinscale0.4+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.013157894736842105+news_keywords+['sanction:0.4376', 'putin:0.4105', 'ukraine:0.4074', 'euro:0.236', 'coal:0.2261', 'war:0.2207', 'import:0.2148', 'comprise:0.1827', 'order:0.1812', 'exclusion:0.1805', 'commission:0.1503', 'vtb:0.1454', 'additional:0.1388', 'promise:0.1377', 'idea:0.128', 'source:0.1269', 'th:0.119', 'equipment:0.1183', 'important:0.1162', 'ani:0.1131', 'like:0.1082', 'tax:0.1047', 'escrow:0.0994', 'apply:0.0947', 'civilian:0.0921', 'der:0.0919', 'new:0.0892', 'today:0.089', 'cruel:0.0817', 'wag:0.0692']+titles_keywords+['sanctions:0.424', 'coal:0.2703', 'eu:0.2365', 'package:0.1996', 'fifth:0.1901']"
+        ]
+    ],
+    "RUS+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/northernirelandnews.com/Will hold Kremlin accountable says EU chief condemning Russias military operations in Ukraine.txt+eventbasecode111+eventcode111+avgtone0.47701149425287354+goldsteinscale0.4+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['ukraine:0.4341', 'nato:0.4283', 'kremlin:0.4001', 'zelensky:0.2583', 'attack:0.2574', 'donbas:0.2551', 'inform:0.2354', 'airspace:0.2285', 'safety:0.22', 'unprovoked:0.2152', 'civilian:0.2149', 'cnn:0.2145', 'explosion:0.2087', 'accordance:0.203', 'urgent:0.1941', 'president:0.1918', 'report:0.1915', 'calm:0.1878', 'capital:0.1785', 'soon:0.1703', 'mobilize:0.1681', 'hear:0.1621', 'statement:0.1437', 'terming:0.1288', 'live:0.1285', 'dark:0.1182', 'hour:0.0959', 'renew:0.0831', 'ursula:0.0713', 'countless:0.0186']+titles_keywords+['kremlin:0.4509', 'accountable:0.334', 'eu:0.289', 'chief:0.1956', 'says:0.0906']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/northernirelandnews.com/Russia Attacks Ukraine as Biden Accuses Putin of Premeditated War.txt+eventbasecode111+eventcode111+avgtone0.47590870667793744+goldsteinscale0.4+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5822368421052632+news_keywords+['putin:0.4332', 'nato:0.4164', 'war:0.3589', 'militarize:0.3447', 'genocide:0.3432', 'kyiv:0.3411', 'cyberattack:0.3275', 'escalation:0.2963', 'diplomats:0.2953', 'unprovoked:0.2858', 'veto:0.282', 'agreement:0.2644', 'report:0.2562', 'respond:0.2493', 'accuses:0.2355', 'correspondent:0.2216', 'avoid:0.2153', 'table:0.2138', 'know:0.1959', 'plan:0.1832', 'begin:0.1779', 'voa:0.1452', 'like:0.1407', 'thursday:0.1391', 'short:0.1383', 'ready:0.1205', 'pipeline:0.1205', 'agence:0.1196', 'state:0.1187', 'characterize:0.0987']+titles_keywords+['putin:0.4256', 'biden:0.3834', 'premeditated:0.3068', 'war:0.2627', 'accuses:0.2444']"
+        ]
+    ]
+}

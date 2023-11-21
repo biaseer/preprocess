@@ -1,0 +1,12 @@
+{
+    "CHN+UKR+30":[
+        [
+            "20220615+../news_crawling/RUS_UKR/p_articles/azertag.az/Xi Jinping tells Putin he is ready to help settle Ukrainian crisis.txt+eventbasecode30+eventcode30+avgtone0.47580645161290325+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4414', 'ukrainian:0.342', 'settle:0.2631', 'peace:0.251', 'crisis:0.2343', 'readiness:0.2287', 'china:0.2238', 'jinping:0.2183', 'conversation:0.1978', 'concern:0.188', 'xi:0.1842', 'ready:0.1657', 'leader:0.1657', 'help:0.1379', 'role:0.1377', 'broadcaster:0.1233', 'promote:0.1223', 'telephone:0.1213', 'actively:0.1211', 'party:0.1206', 'correct:0.1152', 'economic:0.11', 'stable:0.1084', 'wednesday:0.098', 'explain:0.0879', 'order:0.0832', 'express:0.0483', 'accord:0.0373', 'likewise:0.0158', 'tass:-0.0241']+titles_keywords+['putin:0.3879', 'jinping:0.2315', 'xi:0.2161', 'ready:0.159', 'settle:0.1589']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/azertag.az/Putin tells Macron Russia is ready to continue dialogue with Kiev Kremlin.txt+eventbasecode30+eventcode30+avgtone0.49609375+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4405', 'macron:0.3881', 'conversation:0.2824', 'negotiation:0.281', 'approach:0.2441', 'kievs:0.2246', 'contact:0.2167', 'french:0.2117', 'concern:0.1859', 'counterpart:0.147', 'election:0.1386', 'continue:0.1344', 'sanction:0.1288', 'food:0.1208', 'global:0.1203', 'problem:0.1196', 'open:0.099', 'ready:0.0979', 'say:0.0966', 'unpreparedness:0.0951', 'tuesday:0.0912', 'maintain:0.0837', 'level:0.082', 'victory:0.0789', 'explain:0.0771', 'foremost:0.0693', 'agree:0.0563', 'recent:0.0411', 'accord:0.0284', 'different:0.0213']+titles_keywords+['putin:0.3802', 'kiev:0.3474', 'continue:0.1683', 'dialogue:0.1577', 'ready:0.1002']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+17":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/newsweek.com/Ukraine War G7 Calls on Russia to Stop Military Operations.txt+eventbasecode17+eventcode17+avgtone0.45679012345679015+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5251', 'kremlin:0.4325', 'nato:0.4298', 'treaty:0.3664', 'oligarch:0.3232', 'cyberattacks:0.289', 'occupy:0.2869', 'agenda:0.2804', 'pentagon:0.2726', 'potus:0.2695', 'history:0.26', 'armed:0.2571', 'deploy:0.2481', 'cite:0.2424', 'escalate:0.2407', 'news:0.2372', 'railways:0.2359', 'detain:0.2327', 'march:0.2325', 'term:0.2292', 'know:0.1988', 'concerned:0.1893', 'order:0.1753', 'long:0.1733', 'casualty:0.1688', 'forward:0.1624', 'end:0.1604', 'unprecedented:0.1397', 'interoperability:0.1039', 'welcome:0.0772']+titles_keywords+['ukraine:0.4366', 'g7:0.2839', 'military:0.2514', 'stop:0.1607', 'calls:0.1215']"
+        ],
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/newsweek.com/Russian Strikes Against Ukraines Civilian Infrastructure ImminentUS.txt+eventbasecode17+eventcode17+avgtone0.48960302457466925+goldsteinscale0.5+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukraine:0.4899', 'putin:0.3882', 'invade:0.3036', 'antonovsky:0.2736', 'government:0.2653', 'threat:0.2516', 'nuclear:0.2368', 'artillery:0.2328', 'news:0.2211', 'capital:0.218', 'civilian:0.2131', 'outlet:0.208', 'strategist:0.2073', 'continue:0.1999', 'imminently:0.1879', 'celebrate:0.1747', 'advise:0.1739', 'neighbor:0.1705', 'increase:0.1631', 'building:0.1583', 'flare:0.1568', 'deteriorate:0.1493', 'donbas:0.1374', 'sit:0.1317', 'chart:0.126', 'major:0.1241', 'blame:0.121', 'look:0.1072', 'august:0.1056', 'available:0.0778']+titles_keywords+['ukraines:0.4564', 'imminentus:0.3206', 'strikes:0.2349', 'infrastructure:0.2327', 'civilian:0.2197']"
+        ]
+    ]
+}

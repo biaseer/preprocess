@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220202+../news_crawling/RUS_UKR/p_articles/theindianawaaz.com/Russia accuses US of trying to draw country into war in Ukraine.txt+eventbasecode112+eventcode112+avgtone0.4516129032258065+goldsteinscale0.4+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.003289473684210526+news_keywords+['ukraine:0.4588', 'putin:0.416', 'nato:0.3935', 'invade:0.3776', 'russias:0.3619', 'war:0.3433', 'vladimir:0.3189', 'confrontation:0.2649', 'accuse:0.2368', 'president:0.2185', 'pretext:0.2089', 'military:0.1722', 'draw:0.1691', 'ally:0.1691', 'impose:0.1655', 'european:0.1624', 'concern:0.1577', 'sanction:0.155', 'ignore:0.1344', 'expansion:0.1118', 'planning:0.1073', 'goal:0.1005', 'say:0.0941', 'use:0.0912', 'western:0.0805', 'add:0.0629', 'hand:0.0622', 'repeatedly:0.0601', 'try:0.046', 'mr:0.0065']+titles_keywords+['ukraine:0.3606', 'war:0.2849', 'accuses:0.2555', 'draw:0.1232', 'trying:0.0818']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/theindianawaaz.com/India expresses concern over shelling near Ukraines Zaporizhzhia nuclear plant.txt+eventbasecode112+eventcode112+avgtone0.4859154929577465+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['nuclear:0.4166', 'ukraines:0.3559', 'safety:0.3191', 'zaporizhzhia:0.2921', 'russian:0.2757', 'concern:0.2655', 'shell:0.197', 'india:0.1937', 'military:0.1874', 'briefing:0.1873', 'operation:0.1798', 'ruchira:0.1763', 'endanger:0.1742', 'report:0.167', 'accident:0.1538', 'unsc:0.1436', 'consequence:0.1377', 'facility:0.1302', 'fuel:0.1252', 'plant:0.123', 'near:0.1134', 'accuse:0.1042', 'statement:0.0875', 'importance:0.0706', 'severe:0.0533', 'ms:0.0362', 'potentially:0.0311', 'enter:0.0273', 'follow:0.0206', 'month:0.0096']+titles_keywords+['nuclear:0.3462', 'zaporizhzhia:0.3177', 'ukraines:0.2999', 'concern:0.278', 'india:0.2417']"
+        ]
+    ]
+}

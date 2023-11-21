@@ -1,0 +1,22 @@
+{
+    "BEL+UKR+163":[
+        [
+            "20220826+../news_crawling/RUS_UKR/p_articles/politico.eu/Leffe faces boycott calls as Ukraine conflict spills into Belgian beer industry.txt+eventbasecode163+eventcode163+avgtone0.48578199052132703+goldsteinscale0.1+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4438', 'putin:0.4147', 'brew:0.4119', 'boycott:0.3775', 'oleg:0.3545', 'belgian:0.3481', 'leffe:0.3405', 'industry:0.3247', 'inbev:0.3245', 'genocide:0.3001', 'politico:0.2845', 'oil:0.2763', 'spill:0.2735', 'engags:0.2711', 'threat:0.2566', 'western:0.2326', 'ethical:0.2222', 'uber:0.2111', 'party:0.2047', 'allow:0.1828', 'grow:0.1788', 'terneftegaz:0.1743', 'billion:0.1726', 'despite:0.1695', 'agree:0.1613', 'thursday:0.1448', 'like:0.1375', 'buyer:0.1351', 'long:0.1296', 'percent:0.1061']+titles_keywords+['leffe:0.4683', 'boycott:0.448', 'ukraine:0.3602', 'beer:0.2815', 'conflict:0.2461']"
+        ]
+    ],
+    "GBR+RUS+163":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/politico.eu/UK bans imports of Russian caviar silver and other highend products.txt+eventbasecode163+eventcode163+avgtone0.4723404255319149+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4609', 'putins:0.4593', 'tariffs:0.4401', 'vladimir:0.3953', 'sanction:0.3314', 'war:0.3202', 'government:0.2738', 'iron:0.2356', 'sovereign:0.2228', 'barbaric:0.2204', 'bring:0.2181', 'product:0.2093', 'lucrative:0.2007', 'rubber:0.1987', 'good:0.1923', 'caviar:0.1869', 'isolate:0.1804', 'export:0.1761', 'announcing:0.1757', 'range:0.1584', 'continue:0.1568', 'unjustified:0.1504', 'thursday:0.1456', 'tighten:0.1423', 'increase:0.124', 'stand:0.1211', 'secretary:0.12', 'alongside:0.1179', 'sunak:0.108', 'total:0.101']+titles_keywords+['caviar:0.3066', 'silver:0.2562', 'uk:0.2194', 'products:0.1947', 'bans:0.1939']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/politico.eu/Putin balks over rublesforgas threat.txt+eventbasecode163+eventcode163+avgtone0.48841059602649006+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4873', 'rublesforgas:0.3513', 'blackmail:0.3301', 'economy:0.3247', 'contract:0.2946', 'sanction:0.264', 'europe:0.2601', 'conversion:0.2537', 'settle:0.2454', 'attack:0.2416', 'gazprom:0.2408', 'federation:0.2386', 'understand:0.2355', 'dollar:0.225', 'intermediary:0.2201', 'insist:0.2141', 'talk:0.2135', 'order:0.2135', 'subject:0.2082', 'loophole:0.1942', 'point:0.1612', 'make:0.153', 'foreseen:0.1358', 'thursday:0.1343', 'free:0.1315', 'unfriendly:0.1303', 'different:0.1177', 'long:0.1174', 'scholz:0.0936', 'largely:0.0498']+titles_keywords+['putin:0.5324', 'rublesforgas:0.527', 'threat:0.2722', 'balks:0.247']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220725+../news_crawling/RUS_UKR/p_articles/politico.eu/Ukraine to EU Ask Russians if they support war in visa application.txt+eventbasecode163+eventcode163+avgtone0.48945147679324896+goldsteinscale0.1+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['russians:0.4133', 'putin:0.4024', 'kyiv:0.3718', 'vladimir:0.3626', 'genocidal:0.2983', 'visa:0.294', 'questionnaire:0.2768', 'war:0.2721', 'eu:0.2542', 'makeiev:0.2494', 'sanction:0.2149', 'government:0.2066', 'politico:0.1926', 'responsibility:0.1891', 'introduce:0.174', 'urging:0.1643', 'rationale:0.1419', 'population:0.1194', 'envoy:0.1185', 'think:0.104', 'change:0.1019', 'world:0.1018', 'come:0.0976', 'example:0.0972', 'person:0.0962', 'end:0.089', 'include:0.0801', 'free:0.0645', 'way:0.0542', 'partially:0.0363']+titles_keywords+['ukraine:0.4242', 'war:0.278', 'visa:0.221', 'ask:0.1324', 'support:0.0541']"
+        ]
+    ]
+}

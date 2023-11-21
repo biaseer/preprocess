@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+43":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/ledburyreporter.co.uk/UKbased Russians horrified by war in Ukraine.txt+eventbasecode43+eventcode43+avgtone0.4679738562091504+goldsteinscale0.64+nummentions0.03483309143686502+numarticles0.03553299492385787+numsources0.08552631578947369+news_keywords+['ukrainian:0.5053', 'moscow:0.4493', 'putins:0.435', 'propaganda:0.4142', 'refugee:0.3664', 'society:0.3062', 'invasion:0.2966', 'concern:0.2469', 'bashtanova:0.2422', 'military:0.2274', 'realise:0.2258', 'censor:0.2137', 'casualty:0.2095', 'fradkin:0.2075', 'publish:0.1958', 'emphasise:0.1939', 'cambridge:0.1922', 'leave:0.1921', 'postdoctoral:0.1812', 'organise:0.1765', 'synonymous:0.1695', 'chemistry:0.161', 'view:0.1503', 'story:0.1398', 'range:0.1371', 'echoed:0.135', 'long:0.1328', 'stateless:0.1098', 'true:0.0944', 'doesnt:0.0667']+titles_keywords+['russians:0.5269', 'ukraine:0.5234', 'war:0.3346', 'horrified:0.2818', 'ukbased:0.243']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220201+../news_crawling/RUS_UKR/p_articles/ledburyreporter.co.uk/Boris Johnson uses Ukraine trip to urge Russia to step back.txt+eventbasecode43+eventcode43+avgtone0.48214285714285715+goldsteinscale0.64+nummentions0.14150943396226415+numarticles0.14213197969543148+numsources0.1611842105263158+news_keywords+['ukraine:0.4458', 'kremlin:0.4172', 'boris:0.3781', 'diplomatic:0.3532', 'zelensky:0.2637', 'sovereignty:0.2493', 'downing:0.2029', 'aggression:0.2021', 'volodymyr:0.1997', 'president:0.1906', 'trip:0.1825', 'lockdown:0.1717', 'warn:0.1475', 'provide:0.1372', 'debate:0.1364', 'military:0.1343', 'step:0.1322', 'prepare:0.1289', 'surround:0.1246', 'lively:0.1227', 'cross:0.1186', 'street:0.1181', 'important:0.1075', 'right:0.1058', 'say:0.0981', 'misuse:0.0911', 'withdraw:0.0889', 'mr:0.0741', 'prime:0.0645', 'reader:0.0337']+titles_keywords+['boris:0.3593', 'ukraine:0.3589', 'trip:0.1934', 'urge:0.0782', 'uses:-0.0103']"
+        ]
+    ]
+}

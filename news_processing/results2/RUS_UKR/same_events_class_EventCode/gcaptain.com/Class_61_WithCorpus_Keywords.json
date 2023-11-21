@@ -1,0 +1,12 @@
+{
+    "RUS+FIN+61":[
+        [
+            "20210712+../news_crawling/RUS_UKR/p_articles/gcaptain.com/Russias LPG Exporters OpenBlack Sea Portof Poti.txt+eventbasecode61+eventcode61+avgtone0.5+goldsteinscale0.82+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['lpg:0.4557', 'exporters:0.4202', 'petroleum:0.4189', 'russias:0.3546', 'supply:0.3235', 'reuters:0.2994', 'eu:0.2613', 'gazprom:0.2436', 'transit:0.2379', 'revolution:0.2348', 'shale:0.228', 'conflicts:0.2053', 'profitable:0.1918', 'consumes:0.1655', 'risk:0.1524', 'estimate:0.1497', 'accord:0.1436', 'statistic:0.1427', 'troop:0.1332', 'compare:0.1125', 'poti:0.1085', 'stop:0.1023', 'bypeter:0.1019', 'month:0.0994', 'cost:0.098', 'eikon:0.0832', 'possibility:0.0826', 'tonne:0.0786', 'closed:0.0783', 'openblack:0.0334']+titles_keywords+['lpg:0.5787', 'exporters:0.4828', 'russias:0.3736', 'portof:0.3545', 'openblack:0.2704']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/gcaptain.com/Floating Mines Hit Danube Ship Traffic.txt+eventbasecode61+eventcode61+avgtone0.4887640449438202+goldsteinscale0.82+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.425', 'danube:0.4247', 'miningshippinglanes:0.3822', 'reutersukrainian:0.313', 'ship:0.235', 'danger:0.2324', 'traffic:0.1972', 'border:0.1867', 'invasion:0.1799', 'port:0.1731', 'report:0.1712', 'floating:0.1637', 'agriculture:0.1559', 'block:0.1531', 'train:0.1335', 'lead:0.1108', 'seek:0.0946', 'izmail:0.0742', 'export:0.0735', 'april:0.0674', 'mines:0.0593', 'good:0.0464', 'major:0.0427', 'impossible:0.0368', 'mouth:0.0363', 'consultancy:0.0278', 'significantly:0.0144', 'apk:0.0124', 'previously:0.0077', 'limit:-0.0143']+titles_keywords+['danube:0.455', 'floating:0.2883', 'traffic:0.191', 'mines:0.1083', 'hit:0.0761']"
+        ]
+    ]
+}

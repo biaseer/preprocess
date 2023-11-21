@@ -1,0 +1,12 @@
+{
+    "RUS+BLR+10":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/Russia ready to resume Ukraine talks chief negotiator.txt+eventbasecode10+eventcode10+avgtone0.4959183673469388+goldsteinscale0.5+nummentions0.008345428156748911+numarticles0.009064539521392313+numsources0.003289473684210526+news_keywords+['kyiv:0.4423', 'negotiation:0.3705', 'kremlin:0.3607', 'vladimir:0.2923', 'talk:0.2867', 'peace:0.2814', 'meeting:0.2652', 'medinsky:0.2577', 'continue:0.2571', 'turkey:0.2565', 'podolyak:0.2349', 'hold:0.2042', 'tuesday:0.18', 'resume:0.1795', 'delegation:0.1775', 'ready:0.1577', 'inconclusive:0.1562', 'afp:0.1486', 'bring:0.1441', 'say:0.1398', 'freezing:0.1363', 'stage:0.1325', 'military:0.1313', 'regularly:0.1189', 'lead:0.1105', 'ball:0.0899', 'link:0.0708', 'earlier:0.065', 'person:0.0592', 'entirely:0.0448']+titles_keywords+['ukraine:0.3315', 'negotiator:0.3132', 'resume:0.1299', 'ready:0.0897', 'chief:0.0521']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220613+../news_crawling/RUS_UKR/p_articles/koreatimes.co.kr/Wikipedia fights Russian order to remove Ukraine war information.txt+eventbasecode10+eventcode10+avgtone0.4601063829787234+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['moscow:0.4634', 'putin:0.4059', 'wikipedia:0.374', 'reuters:0.3713', 'government:0.3566', 'disinformation:0.3541', 'jurisdiction:0.3134', 'roskomnadzor:0.2957', 'nato:0.2917', 'prosecute:0.2772', 'argue:0.268', 'misreporting:0.2497', 'history:0.2496', 'revolt:0.2486', 'remove:0.2205', 'know:0.2089', 'unprovoked:0.2085', 'operation:0.2012', 'word:0.1829', 'write:0.1772', 'torture:0.17', 'order:0.168', 'turn:0.1508', 'bucha:0.1508', 'general:0.1496', 'end:0.1453', 'verify:0.142', 'land:0.1368', 'include:0.1261', 'construct:0.1209']+titles_keywords+['ukraine:0.3867', 'wikipedia:0.359', 'war:0.2289', 'remove:0.2043', 'order:0.0717']"
+        ]
+    ]
+}

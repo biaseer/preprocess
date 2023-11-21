@@ -1,0 +1,17 @@
+{
+    "IND+UKR+12":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Russia says sanctions wont affect S400 missile deal with India.txt+eventbasecode12+eventcode12+avgtone0.47540983606557385+goldsteinscale0.48+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['sanctions:0.4566', 'geopolitical:0.3284', 'ukrainian:0.2869', 'threaten:0.2407', 'concern:0.2181', 'crisis:0.2132', 'adversaries:0.2093', 'delhi:0.2068', 'missile:0.198', 'iaf:0.1855', 'evacuate:0.1795', 'inform:0.1776', 'safe:0.1759', 'countering:0.1708', 'understand:0.167', 'relation:0.164', 'act:0.1391', 'supply:0.1373', 'wont:0.1269', 'foresee:0.125', 'argue:0.1212', 'force:0.1212', 'continue:0.1146', 'sign:0.1054', 'buy:0.099', 'send:0.0892', 'long:0.0885', 'corridor:0.0832', 'significantly:0.0366', 'billion:0.0353']+titles_keywords+['sanctions:0.4954', 's400:0.34', 'wont:0.2287', 'india:0.1177', 'says:0.0654']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/USsupervised Ukraine lab studies disease transmission via bats.txt+eventbasecode12+eventcode12+avgtone0.48135593220338985+goldsteinscale0.48+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.029605263157894735+news_keywords+['ukraine:0.3654', 'virus:0.3508', 'bat:0.3463', 'laboratory:0.3427', 'radiation:0.2837', 'biological:0.2816', 'zelensky:0.2462', 'specialists:0.2252', 'disease:0.2163', 'concern:0.2034', 'weapon:0.1914', 'project:0.1836', 'pentagon:0.1785', 'senate:0.1711', 'transmit:0.1673', 'ussupervised:0.1598', 'fund:0.1583', 'disclose:0.1563', 'vdbbsey:0.1534', 'read:0.1533', 'million:0.1425', 'direct:0.1351', 'package:0.1311', 'video:0.1109', 'control:0.0977', 'basis:0.0949', 'thursday:0.086', 'kind:0.0819', 'way:0.0809', 'generally:0.0601']+titles_keywords+['bats:0.4932', 'lab:0.278', 'ukraine:0.2512', 'disease:0.1777', 'ussupervised:0.0785']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Our stance towards Ukraine war must change.txt+eventbasecode12+eventcode12+avgtone0.4926534140017286+goldsteinscale0.48+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4392', 'pakistans:0.3799', 'nato:0.3789', 'realignment:0.3273', 'realpolitik:0.3207', 'eastward:0.3157', 'militarily:0.3095', 'conflict:0.2878', 'economy:0.2575', 'future:0.2151', 'turn:0.2015', 'developments:0.2002', 'attract:0.1929', 'response:0.1908', 'complementarity:0.1894', 'aggressor:0.1852', 'benefit:0.1732', 'world:0.1675', 'help:0.1657', 'secure:0.1638', 'happen:0.1624', 'sure:0.1589', 'undertake:0.154', 'warm:0.1464', 'cpec:0.146', 'friend:0.1419', 'look:0.1227', 'covid:0.1039', 'unconditionally:0.0967', 'true:0.0943']+titles_keywords+['ukraine:0.4152', 'war:0.3591', 'change:0.3117', 'stance:0.2232']"
+        ]
+    ]
+}

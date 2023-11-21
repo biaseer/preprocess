@@ -1,0 +1,17 @@
+{
+    "AUS+RUS+111":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Russian troops ordered to advance in Ukraine.txt+eventbasecode111+eventcode111+avgtone0.46592489568845624+goldsteinscale0.4+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['ukraine:0.4782', 'kremlin:0.4281', 'invade:0.4032', 'nato:0.3952', 'war:0.3705', 'pentagon:0.2836', 'overthrow:0.2743', 'order:0.2304', 'infiltrated:0.2064', 'curfew:0.1968', 'continue:0.1855', 'volodymyr:0.1852', 'plan:0.1849', 'concern:0.1775', 'report:0.1747', 'modi:0.1609', 'reject:0.1606', 'secretary:0.1464', 'friday:0.1461', 'explicitly:0.1408', 'hold:0.1366', 'reverse:0.122', 'million:0.1056', 'new:0.1051', 'major:0.1025', 'far:0.1025', 'baby:0.0781', 'rapid:0.0736', 'thank:0.0675', 'resolution:0.0512']+titles_keywords+['ukraine:0.3858', 'troops:0.3411', 'russian:0.3327', 'advance:0.247', 'ordered:0.1707']"
+        ]
+    ],
+    "CHN+UKR+111":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/China calls NYT report fake.txt+eventbasecode111+eventcode111+avgtone0.4681528662420382+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4791', 'ukraine:0.4644', 'beijing:0.3563', 'invasion:0.3369', 'war:0.3291', 'olympics:0.3195', 'jinping:0.2293', 'news:0.2233', 'report:0.2031', 'flee:0.1882', 'topic:0.175', 'world:0.1717', 'fake:0.1636', 'cite:0.1632', 'warm:0.1624', 'people:0.158', 'warning:0.1513', 'immediately:0.1491', 'administration:0.1416', 'overwhelmingly:0.1394', 'end:0.1209', 'february:0.1207', 'short:0.1176', 'times:0.1167', 'plan:0.1107', 'meet:0.1066', 'withdraw:0.105', 'counterpart:0.1027', 'agree:0.0691', 'accord:0.0422']+titles_keywords+['nyt:0.5444', 'china:0.3823', 'fake:0.3361', 'report:0.3079', 'calls:0.0529']"
+        ]
+    ],
+    "EUR+RUS+111":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Crisis in Europe and Pakistans interests.txt+eventbasecode111+eventcode111+avgtone0.4786363636363636+goldsteinscale0.4+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.006578947368421052+news_keywords+['geopolitical:0.4752', 'pakistaniyyat:0.3924', 'nato:0.3809', 'palestinians:0.3796', 'ideology:0.3489', 'crisis:0.3442', 'policymakers:0.3373', 'neutrality:0.3188', 'embassy:0.3132', 'border:0.2946', 'narrativecasting:0.2861', 'disastrous:0.2669', 'collude:0.2641', 'protocol:0.2628', 'western:0.261', 'sanction:0.25', 'exploitation:0.2467', 'word:0.2461', 'alignment:0.2254', 'multipolar:0.2153', 'sense:0.2133', 'emphasise:0.206', 'compare:0.199', 'engineer:0.1807', 'ascendant:0.1785', 'turn:0.1764', 'shade:0.1578', 'choruspower:0.1248', 'importexport:0.057', 'enjoy:0.047']+titles_keywords+['pakistans:0.4455', 'crisis:0.3247', 'europe:0.288', 'interests:0.1485']"
+        ]
+    ]
+}

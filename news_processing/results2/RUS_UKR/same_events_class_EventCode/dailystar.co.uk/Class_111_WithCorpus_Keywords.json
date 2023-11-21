@@ -1,0 +1,25 @@
+{
+    "DEU+RUS+111":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Terrified Russian soldiers lock themselves in tank as Ukrainian mocks them in German.txt+eventbasecode111+eventcode111+avgtone0.47214484679665736+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukrainian:0.4565', 'kremlin:0.4227', 'invade:0.3934', 'troop:0.3728', 'tank:0.3455', 'grenade:0.3033', 'solider:0.2757', 'nazifi:0.2744', 'operation:0.2506', 'news:0.2264', 'terrified:0.2253', 'situation:0.1983', 'armour:0.1922', 'taunting:0.1838', 'footage:0.1774', 'reference:0.1747', 'pig:0.1737', 'greeting:0.1698', 'president:0.1683', 'arm:0.1592', 'people:0.1577', 'element:0.1535', 'good:0.1439', 'mark:0.1417', 'believe:0.1234', 'maintenance:0.1207', 'unity:0.0981', 'second:0.0971', 'scale:0.0963', 'tot:0.0811']+titles_keywords+['russian:0.4557', 'tank:0.4177', 'soldiers:0.3986', 'terrified:0.2976', 'lock:0.1854']"
+        ]
+    ],
+    "RUS+RUS+111":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Putin mocked as his state of the art missiles operate on 1960s technology.txt+eventbasecode111+eventcode111+avgtone0.4820051413881748+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.5294', 'ukraine:0.4404', 'missile:0.4366', 'nuclear:0.3156', 'threaten:0.3077', 'invade:0.2623', 'conflict:0.2559', 'mock:0.2494', 'takedown:0.2465', 'satan:0.2375', 'newsletter:0.2235', 'posture:0.2053', 'report:0.2051', 'learn:0.1993', 'know:0.1978', 'navigation:0.1959', 'resistance:0.1866', 'basic:0.1771', 'scientist:0.1714', 'conclude:0.1709', 'world:0.1585', 'labelled:0.1581', 'specifications:0.1577', 'actually:0.1385', 'terrifyingly:0.1272', 'soon:0.1269', 'long:0.1107', 'fellow:0.0948', 'sure:0.0902', 'century:0.0858']+titles_keywords+['missiles:0.4534', 'putin:0.427', '1960s:0.2462', 'mocked:0.2143', 'operate:0.1732']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/F idiot Russians mocked by Ukrainian soldier for hapless shooting skills.txt+eventbasecode111+eventcode111+avgtone0.463855421686747+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukrainian:0.5269', 'chechnya:0.4542', 'troops:0.3757', 'invasion:0.3394', 'enemy:0.3026', 'conflict:0.2912', 'casualty:0.2618', 'drone:0.2307', 'reality:0.2181', 'translation:0.2115', 'article:0.21', 'defend:0.198', 'stupid:0.1929', 'snow:0.1874', 'operational:0.1785', 'video:0.1694', 'goof:0.1691', 'hear:0.1672', 'helmet:0.1619', 'numerous:0.1533', 'shoot:0.152', 'use:0.1504', 'mock:0.1394', 'month:0.1295', 'like:0.1233', 'second:0.1122', 'bronk:0.1097', 'far:0.1034', 'sign:0.0887', 'add:0.0468']+titles_keywords+['russians:0.4871', 'shooting:0.3754', 'idiot:0.3614', 'mocked:0.3351', 'soldier:0.2567']"
+        ],
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Elon Musk jokes he could die in mysterious circumstances after Russian warning.txt+eventbasecode111+eventcode111+avgtone0.48554216867469885+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.009868421052631578+news_keywords+['putin:0.4699', 'litvinenko:0.4137', 'ukraines:0.4068', 'propaganda:0.3461', 'nazi:0.3172', 'assassination:0.3053', 'die:0.2997', 'satellite:0.2936', 'azov:0.289', 'news:0.2877', 'musks:0.28', 'warning:0.2595', 'fool:0.2559', 'communication:0.247', 'colonel:0.2363', 'freenet:0.2323', 'provider:0.2268', 'navalny:0.2246', 'nuclear:0.2241', 'lighthearted:0.2236', 'report:0.2235', 'pentagon:0.2208', 'dmytro:0.2196', 'besiege:0.213', 'starlink:0.1788', 'ideal:0.1751', 'way:0.1573', 'hour:0.1356', 'doesnt:0.1', 'include:0.0998']+titles_keywords+['musk:0.4545', 'die:0.287', 'russian:0.265', 'warning:0.2415', 'jokes:0.2308']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220710+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Top Brit soldiers training thousands of Ukrainian recruits to fight Putin in England.txt+eventbasecode111+eventcode111+avgtone0.49798387096774194+goldsteinscale0.4+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['ukrainian:0.4531', 'troop:0.4067', 'training:0.351', 'frontline:0.3329', 'brigadier:0.3276', 'combat:0.3182', 'invading:0.2893', 'basic:0.273', 'trench:0.2654', 'change:0.2342', 'peacetime:0.2173', 'command:0.2163', 'secretary:0.2097', 'aiming:0.2004', 'read:0.1973', 'news:0.1906', 'deliver:0.189', 'ready:0.1778', 'build:0.1714', 'hour:0.1674', 'rotate:0.1631', 'priority:0.1596', 'th:0.155', 'nasa:0.1532', 'men:0.1519', 'february:0.1491', 'safe:0.146', 'survive:0.1319', 'deal:0.1073', 'thousands:0.0673']+titles_keywords+['soldiers:0.4057', 'putin:0.3766', 'training:0.3753', 'brit:0.3201', 'fight:0.2144']"
+        ]
+    ]
+}

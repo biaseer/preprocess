@@ -1,0 +1,15 @@
+{
+    "IND+UKR+163":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/arabherald.com/India in Talks with Russia to Buy Discounted Crude Oil.txt+eventbasecode163+eventcode163+avgtone0.4842300556586271+goldsteinscale0.1+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.03618421052631579+news_keywords+['russia:0.4582', 'petroleum:0.3561', 'supply:0.2987', 'diplomatic:0.285', 'investment:0.2621', 'indian:0.218', 'expand:0.215', 'briefing:0.2048', 'impose:0.201', 'trade:0.1933', 'western:0.1911', 'position:0.1911', 'crisis:0.1876', 'report:0.1861', 'worry:0.179', 'cite:0.1743', 'sector:0.1734', 'importer:0.1726', 'psaki:0.1464', 'abstain:0.1378', 'puri:0.1327', 'fluctuation:0.13', 'weapon:0.1279', 'newspaper:0.1237', 'say:0.1137', 'friday:0.1131', 'end:0.1115', 'appropriate:0.0951', 'possibility:0.0732', 'house:0.0596']+titles_keywords+['russia:0.3134', 'oil:0.2968', 'talks:0.1912', 'crude:0.1783', 'buy:0.1779']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/arabherald.com/Global oil price jumps amid supply fears.txt+eventbasecode163+eventcode163+avgtone0.4881516587677725+goldsteinscale0.1+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['opec:0.5282', 'oil:0.406', 'saudi:0.2894', 'june:0.2789', 'increase:0.2747', 'reuters:0.2738', 'surge:0.2736', 'demand:0.2634', 'barrel:0.2459', 'price:0.221', 'predict:0.2022', 'global:0.1982', 'jump:0.1749', 'concern:0.1602', 'flagship:0.1539', 'benchmark:0.1518', 'wti:0.1516', 'hike:0.1473', 'covid:0.1414', 'tighten:0.1413', 'output:0.1337', 'unexpectedly:0.1133', 'lockdowns:0.1124', 'aramco:0.1104', 'bpd:0.1095', 'potential:0.1041', 'level:0.0688', 'state:0.0653', 'exporter:0.063', 'large:0.0573']+titles_keywords+['oil:0.3001', 'jumps:0.2275', 'price:0.2202', 'global:0.169', 'fears:0.1157']"
+        ],
+        [
+            "20220817+../news_crawling/RUS_UKR/p_articles/arabherald.com/Saudis buy stake in Russian energy companies spend billions.txt+eventbasecode163+eventcode163+avgtone0.5+goldsteinscale0.1+nummentions0.24528301886792453+numarticles0.24583031182015955+numsources0.27631578947368424+news_keywords+['opec:0.4888', 'saudis:0.4186', 'ukraine:0.3929', 'lukoil:0.3919', 'russian:0.364', 'invest:0.2995', 'gazprom:0.2981', 'petroleum:0.262', 'company:0.251', 'jeddah:0.2408', 'stake:0.1997', 'rosneft:0.1974', 'talal:0.1508', 'invasion:0.1492', 'energy:0.1465', 'billion:0.1431', 'lead:0.133', 'prince:0.1292', 'western:0.1215', 'th:0.1134', 'twitter:0.1054', 'form:0.0963', 'say:0.0879', 'percent:0.0793', 'year:0.0742', 'sanction:0.0677', 'add:0.0515', 'exporting:0.0324', 'primarily:0.0277', 'program:0.0274']+titles_keywords+['saudis:0.4123', 'russian:0.3109', 'energy:0.1706', 'billions:0.1696', 'buy:0.165']"
+        ]
+    ]
+}

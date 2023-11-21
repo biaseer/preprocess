@@ -1,0 +1,22 @@
+{
+    "EUR+RUS+26":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/msn.com/Latvia May Strip Citizenship as Scrutiny on Russian Billionaire Grows.txt+eventbasecode26+eventcode26+avgtone0.48327464788732394+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['naturalization:0.4521', 'legislation:0.3871', 'latvian:0.3661', 'kremlin:0.3618', 'annexation:0.3295', 'mikhail:0.3277', 'rescind:0.2795', 'impose:0.2651', 'republic:0.2591', 'falsehood:0.2585', 'change:0.2178', 'security:0.2106', 'trigger:0.2089', 'bloc:0.2069', 'behalf:0.2038', 'news:0.1893', 'alfa:0.1852', 'step:0.1835', 'eus:0.1801', 'exam:0.1799', 'conceal:0.177', 'president:0.1715', 'bordans:0.1632', 'state:0.1555', 'issue:0.1474', 'index:0.1241', 'feb:0.1021', 'appreciate:0.0793', 'possible:0.0783', 'doesnt:0.076']+titles_keywords+['citizenship:0.3752', 'latvia:0.358', 'billionaire:0.1974', 'scrutiny:0.109', 'strip:0.0631']"
+        ],
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/msn.com/Russia seeks Ukraine city stranglehold.txt+eventbasecode26+eventcode26+avgtone0.47198275862068967+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4661', 'kremlin:0.4011', 'separatist:0.2717', 'territory:0.247', 'bombardment:0.2395', 'capital:0.2372', 'military:0.2343', 'enemy:0.2301', 'fight:0.2281', 'sievierodonetsk:0.2064', 'justification:0.1998', 'long:0.1979', 'order:0.1972', 'flee:0.189', 'announce:0.1835', 'donbas:0.1782', 'march:0.1728', 'tension:0.1571', 'gain:0.1564', 'direction:0.1512', 'stupid:0.1504', 'governor:0.1474', 'focus:0.1472', 'decompose:0.1465', 'major:0.1295', 'draw:0.1226', 'million:0.1141', 'largely:0.1099', 'decade:0.1026', 'underlining:0.0876']+titles_keywords+['ukraine:0.4508', 'russia:0.3275', 'stranglehold:0.3063', 'city:0.2723', 'seeks:0.1089']"
+        ]
+    ],
+    "EUR+UKR+26":[
+        []
+    ],
+    "PRT+RUS+26":[
+        []
+    ],
+    "RUS+UKR+26":[
+        [],
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/msn.com/The Latest Russian pledge to scale back in Ukraine draws skepticism.txt+eventbasecode26+eventcode26+avgtone0.4820872274143302+goldsteinscale0.7+nummentions0.1716255442670537+numarticles0.17222625090645396+numsources0.22039473684210525+news_keywords+['kyiv:0.4804', 'putin:0.4139', 'nato:0.3723', 'airstrikes:0.3203', 'troop:0.2568', 'devolve:0.2503', 'compromise:0.2493', 'soon:0.2481', 'prepare:0.2434', 'know:0.2358', 'read:0.2284', 'headline:0.2246', 'emergency:0.2229', 'trostyanets:0.2073', 'repositioned:0.2055', 'rail:0.2045', 'administration:0.2016', 'fight:0.2007', 'buy:0.1821', 'pullback:0.1786', 'fleeing:0.1775', 'word:0.1719', 'tense:0.1619', 'end:0.1609', 'swath:0.1586', 'week:0.1565', 'resume:0.1547', 'similar:0.139', 'state:0.1307', 'anytime:0.081']+titles_keywords+['ukraine:0.387', 'skepticism:0.2661', 'pledge:0.1945', 'scale:0.1489', 'latest:0.0328']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "DNK+RUS+10":[
+        [
+            "20211114+../news_crawling/RUS_UKR/p_articles/dailyherald.com/Ukrainian defense minister Our troop buildup is defensive.txt+eventbasecode10+eventcode10+avgtone0.4785100286532951+goldsteinscale0.5+nummentions0.022496371552975326+numarticles0.023205221174764323+numsources0.03289473684210526+news_keywords+['nato:0.5267', 'kyiv:0.4214', 'putin:0.3915', 'invade:0.3744', 'soviet:0.3435', 'troop:0.3293', 'reznikov:0.2847', 'sweden:0.2773', 'separatist:0.2402', 'border:0.1993', 'organization:0.1902', 'plan:0.1787', 'defense:0.1747', 'oleksii:0.1631', 'concern:0.1628', 'prompt:0.1563', 'soon:0.1556', 'meet:0.1544', 'turn:0.154', 'training:0.1526', 'emphasize:0.1426', 'write:0.1377', 'counterpart:0.1233', 'deny:0.1147', 'constitution:0.1112', 'minister:0.1085', 'include:0.0879', 'add:0.0855', 'facto:0.0654', 'possible:0.0646']+titles_keywords+['troop:0.4108', 'ukrainian:0.3876', 'defensive:0.345', 'buildup:0.219', 'minister:0.1955']"
+        ]
+    ],
+    "RUS+FRA+10":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/dailyherald.com/Russia pushes into Ukraine West hits back with sanctions.txt+eventbasecode10+eventcode10+avgtone0.4709371293001186+goldsteinscale0.5+nummentions0.09325108853410741+numarticles0.09390862944162437+numsources0.14802631578947367+news_keywords+['ukraine:0.4784', 'putin:0.4622', 'nato:0.4147', 'invade:0.4126', 'sanctions:0.3825', 'oligarchs:0.3237', 'diplomatic:0.3145', 'separatist:0.3059', 'escalate:0.2946', 'border:0.2678', 'boris:0.2527', 'crisis:0.2441', 'promsvyazbank:0.2317', 'dangerous:0.2166', 'order:0.2068', 'directive:0.2046', 'prepared:0.1995', 'combine:0.1921', 'world:0.1912', 'confusion:0.1886', 'pipeline:0.185', 'pretext:0.1801', 'report:0.1761', 'orbit:0.1742', 'thursday:0.1642', 'cite:0.1627', 'long:0.1626', 'end:0.1552', 'current:0.1385', 'agree:0.0833']+titles_keywords+['ukraine:0.4166', 'sanctions:0.343', 'west:0.2045', 'hits:0.1544', 'pushes:0.1518']"
+        ]
+    ]
+}

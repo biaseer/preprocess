@@ -1,0 +1,146 @@
+{
+    "AUT+UKR+46":[
+        []
+    ],
+    "BGR+UKR+46":[
+        []
+    ],
+    "BLR+RUS+46":[
+        [],
+        [],
+        [],
+        [
+            "20220627+../news_crawling/RUS_UKR/p_articles/msn.com/Putins Motorcade Seen Rushing Towards Kremlin Speculations Arise Regarding His Health.txt+eventbasecode46+eventcode46+avgtone0.48260869565217396+goldsteinscale0.85+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.5633', 'moscow:0.4383', 'motorcade:0.3864', 'peskov:0.3429', 'nato:0.3165', 'manezhnaya:0.3138', 'alarm:0.2569', 'news:0.252', 'arrive:0.2497', 'emergency:0.2347', 'rushing:0.221', 'confrontational:0.2106', 'tweet:0.2026', 'speculations:0.1975', 'terror:0.1974', 'intensified:0.1921', 'report:0.1863', 'neighboring:0.1844', 'supply:0.1704', 'midnight:0.1649', 'ballistic:0.1644', 'viral:0.1582', 'read:0.1578', 'lysychansk:0.1534', 'statement:0.1483', 'seat:0.1309', 'like:0.1183', 'seen:0.1077', 'head:0.1066', 'eliminate:0.1052']+titles_keywords+['motorcade:0.4125', 'kremlin:0.4099', 'rushing:0.255', 'speculations:0.1901', 'arise:0.1092']"
+        ]
+    ],
+    "BLR+UKR+46":[
+        []
+    ],
+    "CAN+RUS+46":[
+        []
+    ],
+    "CHE+RUS+46":[
+        [],
+        [],
+        []
+    ],
+    "CHN+RUS+46":[
+        []
+    ],
+    "CHN+UKR+46":[
+        [
+            "20220804+../news_crawling/RUS_UKR/p_articles/msn.com/Live France welcomes 100000 Ukrainian refugees.txt+eventbasecode46+eventcode46+avgtone0.5060728744939271+goldsteinscale0.85+nummentions0.009433962264150943+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['ukraine:0.5125', 'nato:0.4548', 'kremlin:0.4364', 'war:0.3539', 'merkel:0.3116', 'refugee:0.298', 'iaea:0.2689', 'telegram:0.2475', 'engage:0.2223', 'rosneft:0.2162', 'information:0.2157', 'meeting:0.2131', 'corresponds:0.2111', 'source:0.1951', 'pipeline:0.1944', 'jinping:0.1809', 'schroeder:0.1804', 'prepare:0.1794', 'approve:0.1754', 'thursday:0.1747', 'function:0.1747', 'occupied:0.1724', 'direction:0.1619', 'write:0.1531', 'governor:0.1526', 'preliminary:0.1524', 'gmt:0.1471', 'tages:0.1408', 'allegation:0.1338', 'welcome:0.0786']+titles_keywords+['refugees:0.4982', 'ukrainian:0.4398', '100000:0.2491', 'live:0.2237', 'welcomes:0.1487']"
+        ]
+    ],
+    "DEU+UKR+46":[
+        []
+    ],
+    "EUR+UKR+46":[
+        []
+    ],
+    "FRA+RUS+46":[
+        []
+    ],
+    "FRA+UKR+46":[
+        []
+    ],
+    "GBR+UKR+46":[
+        [],
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/msn.com/New UK visa centre in Lille will not offer walkin appointments for Ukrainian refugees.txt+eventbasecode46+eventcode46+avgtone0.48309608541000004+goldsteinscale0.85+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['refugees:0.5146', 'ukraine:0.394', 'visa:0.3592', 'diplomat:0.2753', 'boris:0.2574', 'flee:0.2559', 'lille:0.2519', 'border:0.2416', 'deploy:0.2373', 'urgent:0.2319', 'petition:0.2319', 'affairs:0.222', 'arrive:0.2017', 'calm:0.1852', 'vulnerable:0.1823', 'mps:0.1812', 'facility:0.1705', 'approve:0.1704', 'temporarily:0.169', 'action:0.1584', 'news:0.1509', 'rzesvow:0.1344', 'page:0.1328', 'overwhelm:0.1324', 'gofundme:0.1307', 'understand:0.1273', 'welcome:0.1165', 'faster:0.1082', 'thousand:0.1019', 'likely:0.0432']+titles_keywords+['refugees:0.3237', 'lille:0.2802', 'appointments:0.1747', 'uk:0.1599', 'walkin:0.0982']"
+        ]
+    ],
+    "RUS+RUS+46":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/msn.com/Russia uses hypersonic missile 10 humanitarian corridors to open 15M children have fled Ukraine Live.txt+eventbasecode46+eventcode46+avgtone0.4750902527075812+goldsteinscale0.85+nummentions0.6658200290275762+numarticles0.33321247280638144+numsources0.3684210526315789+news_keywords+['ukraine:0.4858', 'kremlin:0.478', 'russianforces:0.4673', 'warfare:0.3331', 'refugee:0.3321', 'evacuate:0.3309', 'disinformation:0.3302', 'annexation:0.3241', 'oligarch:0.3112', 'blockade:0.3005', 'ivano:0.2991', 'pentagon:0.2769', 'unicef:0.2678', 'violent:0.2314', 'interpret:0.2243', 'bipartisan:0.2042', 'agreement:0.1952', 'report:0.1893', 'coincidence:0.188', 'orbit:0.186', 'capturingkyivor:0.1713', 'soon:0.1587', 'hypersonic:0.1519', 'contrast:0.1504', 'billion:0.1479', 'long:0.1405', 'ammo:0.131', 'disregardinginternational:0.1292', 'hasdisplaced:0.1095', 'ontwitterwith:0.1012']+titles_keywords+['ukraine:0.4282', 'hypersonic:0.3449', 'fled:0.276', 'corridors:0.2728', 'open:0.15']"
+        ],
+        [
+            "20220612+../news_crawling/RUS_UKR/p_articles/msn.com/Putin is preparing to starve much of the developing world in order to win Russias.txt+eventbasecode46+eventcode46+avgtone0.46287128712871284+goldsteinscale0.85+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.0+news_keywords+['putin:0.5023', 'soviet:0.4137', 'russias:0.3942', 'propaganda:0.3593', 'starvation:0.3519', 'kyiv:0.3386', 'blockade:0.3155', 'refugee:0.289', 'statehood:0.2866', 'yemen:0.2841', 'war:0.274', 'supply:0.2593', 'develop:0.2331', 'historian:0.2306', 'prepare:0.219', 'want:0.212', 'region:0.1814', 'explain:0.1744', 'refer:0.1629', 'implication:0.1511', 'lengthy:0.1455', 'blame:0.1421', 'breadbasket:0.1382', 'donbas:0.1353', 'import:0.1276', 'chapter:0.1202', 'importance:0.106', 'previously:0.103', 'refocus:0.1022', 'nearly:0.093']+titles_keywords+['putin:0.4993', 'starve:0.3049', 'preparing:0.2898', 'war:0.2616', 'world:0.1718']"
+        ]
+    ],
+    "RUS+TUR+46":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/msn.com/Russia says it will scale back its assaults on Kyiv and Chernihiv during peace talks.txt+eventbasecode46+eventcode46+avgtone0.5071090047393365+goldsteinscale0.85+nummentions0.024310595065312045+numarticles0.025018129079042786+numsources0.03289473684210526+news_keywords+['kyiv:0.5327', 'chernihiv:0.338', 'negotiation:0.2862', 'invade:0.2813', 'peace:0.2401', 'military:0.2082', 'assault:0.2078', 'control:0.188', 'reduce:0.1768', 'order:0.1565', 'plan:0.1536', 'news:0.1477', 'lie:0.146', 'progress:0.1415', 'surround:0.1401', 'long:0.1201', 'goal:0.1186', 'scale:0.1172', 'direction:0.1081', 'agree:0.1011', 'state:0.0986', 'close:0.0965', 'weeeks:0.0934', 'round:0.0901', 'drastically:0.0823', 'today:0.0781', 'make:0.0779', 'fomin:0.0758', 'little:0.0546', 'retake:0.0382']+titles_keywords+['kyiv:0.4245', 'assaults:0.2243', 'peace:0.1514', 'scale:0.107', 'says:0.0031']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [],
+        [],
+        [],
+        [],
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/msn.com/Ukrainian official says Russia is trying to split country in 2 Blinken walks back Biden.txt+eventbasecode46+eventcode46+avgtone0.4793266391021854+goldsteinscale0.85+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.02631578947368421+news_keywords+['putin:0.5023', 'russiahave:0.4771', 'ukrainians:0.3965', 'nato:0.3536', 'diplomatic:0.3194', 'lviv:0.2962', 'saidpresident:0.2763', 'separatist:0.2625', 'yuriy:0.2546', 'pursue:0.235', 'news:0.2266', 'know:0.2142', 'translation:0.2089', 'decide:0.2054', 'revisit:0.1996', 'troop:0.1909', 'anonymity:0.1891', 'states:0.1867', 'bidens:0.1804', 'shortly:0.1771', 'empower:0.1687', 'stir:0.1637', 'end:0.1632', 'structure:0.1582', 'portman:0.1513', 'complicate:0.1513', 'safe:0.1507', 'deal:0.1447', 'replace:0.1387', 'bilateral:0.1379']+titles_keywords+['ukrainian:0.3745', 'biden:0.3082', 'split:0.2117', 'recap:0.1125', 'trying:0.0891']"
+        ],
+        [],
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/msn.com/Russian former foreign minister calls for Ukraine ceasefire.txt+eventbasecode46+eventcode46+avgtone0.47637051039697537+goldsteinscale0.85+nummentions0.07256894049346879+numarticles0.06490210297316897+numsources0.08552631578947369+news_keywords+['ceasefire:0.4995', 'diplomacy:0.475', 'ukraine:0.4186', 'yeltsin:0.412', 'putins:0.3991', 'ivanov:0.3681', 'nuclear:0.3288', 'negotiator:0.3015', 'president:0.2766', 'firefight:0.2507', 'resign:0.2365', 'appoint:0.2105', 'reminder:0.2044', 'military:0.2037', 'pursue:0.1997', 'marginalise:0.1924', 'recep:0.1524', 'acceptable:0.1473', 'end:0.1472', 'say:0.1465', 'publish:0.1445', 'issue:0.1402', 'believe:0.1383', 'step:0.1257', 'bilateral:0.1191', 'dmytro:0.1162', 'reduce:0.1016', 'year:0.0928', 'welcome:0.0748', 'olaf:0.0627']+titles_keywords+['ukraine:0.3566', 'ceasefire:0.3477', 'russian:0.32', 'minister:0.165', 'calls:0.0264']",
+            "20220314+../news_crawling/RUS_UKR/p_articles/msn.com/He can kill 40 in a day Meet the worlds deadliest sniper who has joined.txt+eventbasecode46+eventcode46+avgtone0.46949602122015915+goldsteinscale0.85+nummentions0.05406386066763425+numarticles0.05003625815808557+numsources0.09210526315789473+news_keywords+['ukrainian:0.4566', 'soldier:0.4328', 'kill:0.3114', 'molotov:0.2972', 'surveillance:0.2815', 'zelenskyys:0.2763', 'iraqs:0.2692', 'kandahar:0.2612', 'citizenship:0.2584', 'know:0.255', 'mlanie:0.2278', 'chopper:0.2274', 'cbc:0.2255', 'iss:0.2064', 'join:0.2054', 'reality:0.2041', 'world:0.1925', 'suit:0.1925', 'clarify:0.187', 'hed:0.1828', 'type:0.1799', 'th:0.1691', 'deliver:0.1652', 'sure:0.1461', 'alongside:0.139', 'far:0.1358', 'glad:0.1281', 'reportedly:0.1146', 'little:0.1077', 'renovate:0.0908']+titles_keywords+['sniper:0.4729', 'deadliest:0.3866', 'kill:0.3799', 'russia:0.3511', 'day:0.1756']",
+            "20220316+../news_crawling/RUS_UKR/p_articles/msn.com/Irish Government doing everything it can to find accommodation for Ukrainians.txt+eventbasecode46+eventcode46+avgtone0.4891451831750339+goldsteinscale0.85+nummentions0.16364296081277213+numarticles0.16098622189992748+numsources0.3684210526315789+news_keywords+['ukraine:0.4873', 'demilitarisation:0.4115', 'refugee:0.4088', 'politics:0.3268', 'irish:0.3097', 'taoiseach:0.2937', 'accommodation:0.2724', 'peace:0.2686', 'instability:0.2597', 'unilaterally:0.2444', 'broader:0.2194', 'dramatic:0.2189', 'consequences:0.2179', 'directive:0.2172', 'future:0.2126', 'increase:0.2119', 'turning:0.2111', 'significant:0.1784', 'world:0.1758', 'idea:0.1706', 'scrpv:0.1679', 'degree:0.1591', 'require:0.1577', 'population:0.1538', 'martin:0.1499', 'arrive:0.1481', 'vat:0.147', 'measure:0.124', 'proof:0.1228', 'inbox:0.0965']+titles_keywords+['ukrainians:0.4157', 'accommodation:0.3827', 'irish:0.3624', 'government:0.201', 'doing:0.0561']",
+            "20220316+../news_crawling/RUS_UKR/p_articles/msn.com/Taoiseach urged to keep pressure on Russia in phone call with Ukrainian President.txt+eventbasecode46+eventcode46+avgtone0.5125448028673836+goldsteinscale0.85+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['ukraine:0.4322', 'taoiseach:0.4099', 'zelenskyy:0.3472', 'irish:0.3053', 'peace:0.2168', 'biden:0.2146', 'volodymyr:0.1892', 'journalist:0.189', 'aid:0.1802', 'news:0.1723', 'kill:0.1707', 'visa:0.1612', 'speak:0.1555', 'martin:0.1423', 'thursday:0.1361', 'great:0.1333', 'continue:0.1318', 'pressure:0.1235', 'high:0.1223', 'admire:0.119', 'minute:0.1163', 'hop:0.1075', 'immoral:0.1037', 'mr:0.0957', 'people:0.0834', 'phone:0.0697', 'facility:0.0482', 'house:0.0434', 'face:0.0378', 'offer:0.0111']+titles_keywords+['taoiseach:0.4227', 'ukrainian:0.2898', 'pressure:0.2647', 'urged:0.1544', 'phone:0.1078']",
+            "20220316+../news_crawling/RUS_UKR/p_articles/msn.com/Maine Senators react to Ukrainian President Volodymyr Zelenskyys address.txt+eventbasecode46+eventcode46+avgtone0.5020746887966805+goldsteinscale0.85+nummentions0.102322206095791+numarticles0.07940536620739666+numsources0.08552631578947369+news_keywords+['ukraine:0.4157', 'putin:0.4139', 'zelenskyy:0.3929', 'congress:0.3013', 'attack:0.2297', 'compromise:0.2264', 'remind:0.1951', 'impassioned:0.1892', 'freedom:0.189', 'speak:0.176', 'military:0.1755', 'know:0.1746', 'sen:0.1568', 'harbor:0.1332', 'lead:0.1325', 'strong:0.1269', 'isnt:0.126', 'plan:0.1239', 'principally:0.1168', 'today:0.1159', 'fly:0.1043', 'galvanize:0.1018', 'academic:0.1005', 'signal:0.0982', 'collins:0.0964', 'th:0.0948', 'weve:0.0837', 'zone:0.0796', 'sort:0.0368', 'wabi:0.0214']+titles_keywords+['senators:0.3711', 'ukrainian:0.3381', 'zelenskyys:0.3345', 'maine:0.2403', 'president:0.2214']",
+            "20220318+../news_crawling/RUS_UKR/p_articles/msn.com/Chinese aircraft carrier sails through Taiwan Strait ahead of Biden Xi call.txt+eventbasecode46+eventcode46+avgtone0.49373040752351094+goldsteinscale0.85+nummentions0.018867924528301886+numarticles0.019216823785351705+numsources0.029605263157894735+news_keywords+['taiwan:0.4737', 'warship:0.3167', 'reuters:0.2981', 'icbm:0.2949', 'transit:0.2613', 'flight:0.2566', 'biden:0.2421', 'xi:0.2295', 'southwest:0.2116', 'talk:0.2108', 'conduct:0.2106', 'invasion:0.2083', 'spokesperson:0.2082', 'ahead:0.208', 'lijian:0.2069', 'friday:0.1851', 'jinping:0.1826', 'time:0.1811', 'foreign:0.1741', 'know:0.1617', 'tension:0.1589', 'training:0.1537', 'tucker:0.1491', 'issue:0.1299', 'strait:0.1271', 'include:0.1161', 'test:0.1139', 'reuter:0.1083', 'grasp:0.092', 'state:0.0734']+titles_keywords+['taiwan:0.3405', 'carrier:0.2327', 'xi:0.1853', 'biden:0.1574', 'sails:0.1429']",
+            "20220320+../news_crawling/RUS_UKR/p_articles/msn.com/Zelensky Again Warns Of World War If Talks With Russia Fail.txt+eventbasecode46+eventcode46+avgtone0.4876847290640394+goldsteinscale0.85+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['putin:0.4086', 'zelensky:0.4072', 'nato:0.3689', 'ceasefire:0.364', 'war:0.3459', 'ukraine:0.3383', 'negotiate:0.2724', 'volodymyr:0.2214', 'meeting:0.2152', 'mediator:0.2107', 'soon:0.1949', 'warns:0.1908', 'tayyip:0.1887', 'agreement:0.1737', 'wont:0.1454', 'translation:0.1424', 'isnt:0.1357', 'world:0.1348', 'end:0.1323', 'hopeful:0.1186', 'envoy:0.1158', 'ready:0.1157', 'watch:0.1149', 'nbc:0.1142', 'cnns:0.0984', 'kurt:0.0617', 'invoke:0.061', 'realisticheres:0.0541', 'multiple:0.0404', 'emerge:0.0392']+titles_keywords+['zelensky:0.5198', 'war:0.3166', 'russia:0.2529', 'warns:0.2474', 'talks:0.1725']"
+        ],
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/msn.com/China Urges Restraint After Russia Warns of World War III.txt+eventbasecode46+eventcode46+avgtone0.4694989106753813+goldsteinscale0.85+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['nato:0.3935', 'gorbachev:0.3403', 'crimea:0.3324', 'militarily:0.3048', 'peaceful:0.271', 'nuclear:0.2705', 'conflict:0.2651', 'warns:0.2452', 'diplomat:0.2273', 'escalate:0.222', 'world:0.203', 'talk:0.1714', 'border:0.167', 'involved:0.1643', 'soon:0.1484', 'chinese:0.1435', 'volodymyr:0.138', 'prolongation:0.1361', 'foremost:0.1314', 'aid:0.1264', 'bring:0.1174', 'weapon:0.1163', 'current:0.1068', 'pledge:0.0932', 'relevant:0.083', 'articles:0.0807', 'possibility:0.0373', 'price:0.0283', 'resolution:0.0275', 'wenbin:0.0246']+titles_keywords+['russia:0.3233', 'war:0.213', 'warns:0.2086', 'restraint:0.2083', 'iii:0.0899']",
+            "20220328+../news_crawling/RUS_UKR/p_articles/msn.com/Tax the billionaires.txt+eventbasecode46+eventcode46+avgtone0.48040313549832026+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['congress:0.4252', 'election:0.3993', 'administration:0.3952', 'resignation:0.3911', 'job:0.3818', 'defund:0.3735', 'billionaires:0.3453', 'income:0.3369', 'kremlin:0.3304', 'newsletter:0.3254', 'donald:0.3112', 'expectationsmonday:0.3082', 'riot:0.3053', 'subpoenas:0.2909', 'household:0.2849', 'demographic:0.2658', 'pandemic:0.2633', 'proposal:0.2619', 'list:0.2613', 'expand:0.2533', 'say:0.2488', 'jan:0.2453', 'disparity:0.2324', 'mandatory:0.2212', 'panel:0.2112', 'tucker:0.1947', 'significant:0.1757', 'today:0.1562', 'sugarcoat:0.1445', 'toare:0.1238']+titles_keywords+['billionaires:0.5863', 'tax:0.5542']"
+        ],
+        [],
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/msn.com/UN humanitarian chief cancels trip to Turkey for Ukraine ceasefire talks after testing COVID19 positive.txt+eventbasecode46+eventcode46+avgtone0.48365384615384616+goldsteinscale0.85+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.01644736842105263+news_keywords+['ceasefires:0.5806', 'humanitarian:0.4215', 'kyiv:0.4099', 'erdogan:0.3843', 'turkey:0.3594', 'emergency:0.318', 'mediation:0.3147', 'agenda:0.2731', 'covid:0.2728', 'cease:0.2598', 'occur:0.2585', 'achieve:0.2448', 'coordinator:0.2431', 'governmental:0.2404', 'talk:0.2254', 'guidance:0.2233', 'invaded:0.2119', 'long:0.2079', 'watch:0.1915', 'turn:0.1732', 'recep:0.1652', 'isolate:0.1638', 'april:0.1592', 'quite:0.1551', 'supply:0.1547', 'data:0.145', 'ready:0.1349', 'importance:0.122', 'upi:0.0767', 'minimum:0.0617']+titles_keywords+['covid19:0.4082', 'humanitarian:0.3208', 'turkey:0.2564', 'trip:0.1819', 'cancels:0.1645']"
+        ],
+        [
+            "20220430+../news_crawling/RUS_UKR/p_articles/msn.com/Ukraine Kyiv police find bound men in Bucha as Russia continues eastern assault live updates.txt+eventbasecode46+eventcode46+avgtone0.4776432231020028+goldsteinscale0.85+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.023026315789473683+news_keywords+['ukraine:0.5193', 'nato:0.4106', 'pravda:0.3734', 'revolution:0.3456', 'diplomatic:0.3245', 'emergency:0.3101', 'government:0.3065', 'separatist:0.293', 'occupy:0.2916', 'sanctioning:0.2782', 'pentagon:0.2596', 'kill:0.2505', 'information:0.241', 'cite:0.2343', 'expect:0.2254', 'worry:0.2244', 'thursday:0.2116', 'macron:0.2074', 'leverage:0.1876', 'import:0.1853', 'follow:0.1725', 'long:0.1672', 'submit:0.1661', 'bucha:0.1659', 'retool:0.1519', 'fully:0.1401', 'compare:0.1375', 'terminology:0.1331', 'andriy:0.1263', 'thank:0.106']+titles_keywords+['kyiv:0.4638', 'assault:0.2818', 'men:0.2324', 'updates:0.1714', 'bound:0.1433']"
+        ],
+        [
+            "20220615+../news_crawling/RUS_UKR/p_articles/msn.com/Oligarch Roman Abramovich transferred the ownership of his 400 million luxury jets to his children.txt+eventbasecode46+eventcode46+avgtone0.49601063829787234+goldsteinscale0.85+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.0+news_keywords+['putin:0.5129', 'oligarch:0.4914', 'abramovich:0.4775', 'billionaire:0.4605', 'russian:0.4141', 'sergeevich:0.3932', 'peskov:0.3422', 'ownership:0.3277', 'million:0.303', 'financial:0.2587', 'fbi:0.2539', 'luxurious:0.2273', 'invade:0.2212', 'tax:0.2056', 'document:0.2005', 'accuse:0.2', 'discrepancy:0.197', 'legal:0.1931', 'roman:0.1927', 'transfer:0.1914', 'child:0.1817', 'anonymity:0.1806', 'peace:0.1636', 'jet:0.1504', 'shell:0.1502', 'reportedly:0.1335', 'eu:0.1311', 'combine:0.1311', 'link:0.1038', 'york:0.0972']+titles_keywords+['abramovich:0.5212', 'russia:0.3685', 'ownership:0.3485', 'million:0.2821', 'invaded:0.2599']"
+        ],
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/msn.com/Kremlin set to run out of steam giving Kyiv chance to strike says MI6 chief.txt+eventbasecode46+eventcode46+avgtone0.47792679519418835+goldsteinscale0.85+nummentions0.019593613933236574+numarticles0.02030456852791878+numsources0.019736842105263157+news_keywords+['ukrainehas:0.5699', 'putin:0.4976', 'russias:0.4254', 'addressesrussian:0.4197', 'natoafter:0.3534', 'ceasefire:0.339', 'telegraph:0.2898', 'zakharova:0.2851', 'supply:0.2734', 'table:0.253', 'political:0.2501', 'expand:0.2423', 'istanbul:0.2379', 'pipeline:0.2347', 'landmines:0.2265', 'coordinated:0.2235', 'concern:0.2061', 'soon:0.1949', 'hear:0.191', 'summary:0.1852', 'unexpected:0.1759', 'feb:0.1725', 'long:0.17', 'healthand:0.1539', 'resume:0.1467', 'centcapacity:0.1395', 'major:0.1202', 'true:0.1105', 'deal:0.1018', 'celsius:0.0987']+titles_keywords+['kremlin:0.5347', 'mi6:0.4481', 'kyiv:0.3948', 'run:0.1972', 'says:0.0633']"
+        ],
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/msn.com/Whats happening at Zaporizhzhia Inside the standoff at Ukraines largest nuclear plant.txt+eventbasecode46+eventcode46+avgtone0.48613678373382624+goldsteinscale0.85+nummentions0.012336719883889695+numarticles0.009064539521392313+numsources0.009868421052631578+news_keywords+['chernobyl:0.4887', 'nuclear:0.4458', 'kremlin:0.402', 'crimea:0.3918', 'demilitarize:0.3286', 'standoff:0.3277', 'zaporizhzhia:0.3202', 'meltdown:0.299', 'threat:0.2941', 'divert:0.2786', 'strategically:0.2726', 'plan:0.2461', 'iaea:0.2309', 'ongoing:0.2203', 'prepare:0.2157', 'personnel:0.2133', 'watchdog:0.207', 'news:0.203', 'plant:0.2018', 'petro:0.198', 'contact:0.1948', 'desynchronized:0.1754', 'grid:0.1698', 'order:0.1679', 'president:0.1646', 'whats:0.1618', 'world:0.1392', 'wont:0.1388', 'state:0.128', 'nearly:0.1037']+titles_keywords+['standoff:0.4446', 'nuclear:0.4333', 'ukraines:0.4112', 'zaporizhzhia:0.3987', 'happening:0.2751']"
+        ]
+    ],
+    "RUS+USA+46":[
+        []
+    ],
+    "RUS+WST+46":[
+        []
+    ],
+    "UKR+BLR+46":[
+        []
+    ],
+    "UKR+RUS+46":[
+        [],
+        [],
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/msn.com/Zelensky to deliver virtual address to Congress on Wednesday.txt+eventbasecode46+eventcode46+avgtone0.48792270531400966+goldsteinscale0.85+nummentions0.07946298984034833+numarticles0.08013052936910806+numsources0.16447368421052633+news_keywords+['ukraine:0.4544', 'zelensky:0.4069', 'nato:0.3603', 'congress:0.3339', 'trump:0.3019', 'invade:0.2962', 'announce:0.2806', 'pelosi:0.2789', 'democratic:0.2739', 'volodymyr:0.2455', 'troop:0.2425', 'unprovoked:0.2189', 'talk:0.2173', 'conflict:0.216', 'march:0.2155', 'economy:0.2093', 'forget:0.1874', 'continue:0.1836', 'sanction:0.1792', 'week:0.162', 'fend:0.1605', 'great:0.1539', 'virtual:0.143', 'house:0.1334', 'step:0.1285', 'th:0.1282', 'gas:0.1182', 'chuck:0.1058', 'close:0.0968', 'mr:0.0821']+titles_keywords+['zelensky:0.497', 'congress:0.2755', 'virtual:0.2669', 'deliver:0.2451', 'wednesday:0.1901']"
+        ],
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/msn.com/Kyiv US intel assess major strategy shift by Russia as it moves some forces away.txt+eventbasecode46+eventcode46+avgtone0.49298597194388777+goldsteinscale0.85+nummentions0.07547169811320754+numarticles0.07614213197969544+numsources0.08552631578947369+news_keywords+['kyiv:0.5196', 'putin:0.4004', 'escalation:0.2933', 'battalion:0.2747', 'strategy:0.2538', 'meeting:0.2469', 'overthrow:0.2439', 'adviser:0.2426', 'movement:0.2126', 'government:0.212', 'peace:0.2114', 'north:0.1987', 'cnn:0.1905', 'read:0.1903', 'fight:0.1817', 'occupied:0.1792', 'stab:0.1784', 'medinsky:0.1721', 'incoming:0.1622', 'korean:0.1601', 'meantime:0.1573', 'surround:0.156', 'biden:0.1505', 'end:0.1429', 'report:0.1407', 'bilateral:0.1399', 'likelihood:0.137', 'gon:0.133', 'long:0.1191', 'major:0.1146']+titles_keywords+['kyiv:0.4975', 'strategy:0.2991', 'intel:0.1968', 'assess:0.1258', 'major:0.1083']",
+            "20220329+../news_crawling/RUS_UKR/p_articles/msn.com/Kyiv Russia says it will reduce military operations around capital following Ukraine talks.txt+eventbasecode46+eventcode46+avgtone0.4851668726823239+goldsteinscale0.85+nummentions0.07547169811320754+numarticles0.07614213197969544+numsources0.08552631578947369+news_keywords+['kyiv:0.5063', 'ceasefire:0.4456', 'putin:0.4105', 'nato:0.3807', 'annexation:0.3316', 'unhcr:0.2814', 'emergency:0.2654', 'underway:0.2584', 'flee:0.2273', 'telegram:0.225', 'meeting:0.2242', 'narrative:0.224', 'update:0.2237', 'adviser:0.2194', 'table:0.2147', 'achieve:0.2102', 'shifting:0.1893', 'format:0.1887', 'medinsky:0.1781', 'general:0.1765', 'battlefront:0.1754', 'say:0.1741', 'end:0.174', 'long:0.1737', 'prepare:0.1676', 'bilateral:0.1674', 'northeast:0.1643', 'pathway:0.1467', 'sevastopol:0.114', 'million:0.0791']+titles_keywords+['kyiv:0.4473', 'reduce:0.269', 'capital:0.2058', 'military:0.1748', 'talks:0.1215']",
+            "20220331+../news_crawling/RUS_UKR/p_articles/msn.com/Zelensky accuses Russian forces of worst atrocities since World War II.txt+eventbasecode46+eventcode46+avgtone0.48253043938591844+goldsteinscale0.85+nummentions0.10957910014513789+numarticles0.11022480058013052+numsources0.17434210526315788+news_keywords+['kyiv:0.4876', 'putin:0.4741', 'zelensky:0.4434', 'pravda:0.4318', 'natos:0.4172', 'demilitarization:0.3548', 'roskomnadzor:0.3437', 'geopolitical:0.3313', 'disinformation:0.3026', 'holocaust:0.279', 'combatant:0.2674', 'opec:0.2317', 'interpret:0.1968', 'dangerous:0.1884', 'warrant:0.1879', 'orbit:0.1807', 'coronavirus:0.18', 'flee:0.1788', 'counteroffensive:0.1702', 'fsb:0.164', 'isnt:0.1623', 'table:0.1617', 'forget:0.1577', 'soon:0.1489', 'tense:0.1367', 'extend:0.1296', 'end:0.1231', 'dosimetry:0.1176', 'resume:0.1104', 'sincerely:0.1073']+titles_keywords+['zelensky:0.5533', 'atrocities:0.3761', 'russian:0.3245', 'war:0.2483', 'worst:0.2002']"
+        ]
+    ],
+    "UKR+USA+46":[
+        []
+    ],
+    "WST+RUS+46":[
+        [],
+        [],
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/msn.com/Russia says Ukraine neutrality key at conflict talks What does it mean and could it.txt+eventbasecode46+eventcode46+avgtone0.4963976945244957+goldsteinscale0.85+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['nato:0.451', 'ukraines:0.4045', 'neutral:0.3997', 'kyiv:0.3441', 'diplomatic:0.3338', 'demilitarise:0.3224', 'putin:0.319', 'war:0.3158', 'annexation:0.2612', 'nation:0.2536', 'agreement:0.2145', 'renounces:0.2104', 'interfere:0.2024', 'pledge:0.2001', 'status:0.1888', 'achieve:0.1686', 'note:0.1609', 'wording:0.1596', 'aggressor:0.1586', 'alongside:0.1573', 'assume:0.1466', 'long:0.1333', 'help:0.1252', 'bind:0.1184', 'room:0.1001', 'view:0.0887', 'nearly:0.0784', 'direct:0.0756', 'enshrine:0.0386', 'katharine:0.0364']+titles_keywords+['neutrality:0.4449', 'ukraine:0.3896', 'peace:0.2639', 'talks:0.1752', 'key:0.1577']"
+        ]
+    ],
+    "WST+UKR+46":[
+        [],
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/msn.com/What will it take to end Russias war in Ukraine Creative diplomacy.txt+eventbasecode46+eventcode46+avgtone0.48879551820728295+goldsteinscale0.85+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.006578947368421052+news_keywords+['ukraine:0.4517', 'putin:0.4254', 'diplomacy:0.3892', 'nato:0.3792', 'arrangement:0.2368', 'occupy:0.2151', 'achieve:0.2119', 'dilemma:0.2101', 'bashar:0.2061', 'massacre:0.2036', 'russo:0.1908', 'neutral:0.1894', 'adviser:0.1874', 'foreseeable:0.1814', 'end:0.1761', 'sanction:0.1662', 'outline:0.1591', 'versa:0.1566', 'oppose:0.1478', 'know:0.1452', 'trade:0.1426', 'virtual:0.1341', 'meantime:0.1309', 'pretext:0.1286', 'formal:0.1205', 'current:0.112', 'longer:0.0995', 'second:0.0888', 'thermobaric:0.0851', 'directly:0.0837']+titles_keywords+['diplomacy:0.5665', 'ukraine:0.4341', 'war:0.4013', 'creative:0.2396', 'end:0.1977']",
+            "20220315+../news_crawling/RUS_UKR/p_articles/msn.com/Zelensky concedes Ukraine unlikely to join NATO seeks security guarantees.txt+eventbasecode46+eventcode46+avgtone0.47634069400630913+goldsteinscale0.85+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['nato:0.5067', 'crimean:0.4563', 'ukraine:0.4498', 'zelensky:0.4072', 'putin:0.388', 'ceasefire:0.3207', 'invasion:0.2556', 'troop:0.2454', 'volodymyr:0.2134', 'reuters:0.2008', 'enter:0.1922', 'concedes:0.1674', 'negotiator:0.1486', 'guarantee:0.14', 'enact:0.1374', 'short:0.1367', 'western:0.1253', 'continue:0.1239', 'flee:0.12', 'heard:0.1148', 'immediate:0.1048', 'make:0.1038', 'deal:0.0959', 'surround:0.0931', 'grow:0.0775', 'potentially:0.0731', 'port:0.0698', 'agree:0.0653', 'million:0.0631', 'year:0.036']+titles_keywords+['zelensky:0.5535', 'nato:0.4344', 'guarantees:0.1822', 'concedes:0.1453', 'unlikely:0.1284']"
+        ],
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/msn.com/Democracy at the heart of conflict with Putin Dan Hoffman.txt+eventbasecode46+eventcode46+avgtone0.490674318507891+goldsteinscale0.85+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['putin:0.5591', 'ukrainian:0.4208', 'natos:0.3836', 'moscows:0.3653', 'propaganda:0.3631', 'democracy:0.3336', 'cia:0.3279', 'conflict:0.3172', 'puppet:0.2725', 'zelenskyy:0.2519', 'conclude:0.2446', 'border:0.2409', 'operation:0.2288', 'know:0.2195', 'gowdy:0.2172', 'word:0.1945', 'expect:0.1902', 'goal:0.1843', 'follow:0.1693', 'probe:0.1686', 'speak:0.1664', 'hall:0.1663', 'student:0.1593', 'logical:0.1567', 'bidens:0.1551', 'enrich:0.1489', 'longer:0.1185', 'swivel:0.1054', 'weve:0.0956', 'anytime:0.0509']+titles_keywords+['putin:0.5932', 'democracy:0.5746', 'conflict:0.3266', 'hoffman:0.2706', 'dan:0.1931']"
+        ]
+    ]
+}

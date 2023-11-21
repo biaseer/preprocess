@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20211101+../news_crawling/RUS_UKR/p_articles/columbian.com/Russia warns NATO against moving nuclear weapons east.txt+eventbasecode154+eventcode154+avgtone0.4622222222222222+goldsteinscale0.13999999999999999+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.05921052631578947+news_keywords+['nato:0.5267', 'moscow:0.366', 'ukraines:0.3635', 'nuclear:0.3605', 'crimean:0.3478', 'sergey:0.3028', 'war:0.2919', 'invade:0.2535', 'lukashenko:0.2479', 'tensions:0.2201', 'relocate:0.2115', 'warn:0.2095', 'escalate:0.1977', 'provocative:0.1782', 'weapon:0.1699', 'respond:0.1373', 'separatist:0.1269', 'near:0.1173', 'stoltenbergs:0.1163', 'peninsula:0.1106', 'irresponsible:0.1089', 'cold:0.0952', 'german:0.0943', 'policy:0.0922', 'secretary:0.0894', 'buildup:0.0891', 'willing:0.0854', 'new:0.0732', 'wednesday:0.069', 'upper:0.0624']+titles_keywords+['nato:0.4079', 'nuclear:0.3234', 'warns:0.2034', 'moving:0.1753', 'weapons:0.1622']"
+        ],
+        [
+            "20220203+../news_crawling/RUS_UKR/p_articles/columbian.com/US says new intel shows Russia plotting false flag attack.txt+eventbasecode154+eventcode154+avgtone0.48656542056074764+goldsteinscale0.13999999999999999+nummentions0.11538461538461539+numarticles0.11602610587382162+numsources0.20723684210526316+news_keywords+['kremlin:0.4651', 'ukraines:0.4235', 'nato:0.4065', 'disinformation:0.3558', 'tactic:0.3127', 'sergey:0.3078', 'pentagon:0.2734', 'annexation:0.2702', 'news:0.2609', 'pretext:0.2584', 'prepare:0.2432', 'ankara:0.221', 'deploy:0.2087', 'accuse:0.2076', 'uncertainty:0.2044', 'president:0.2044', 'eus:0.1938', 'dispatch:0.1884', 'elaborate:0.1836', 'reinforce:0.1784', 'document:0.177', 'want:0.1691', 'calm:0.1685', 'thursday:0.1681', 'fabricate:0.1653', 'activity:0.152', 'administrationdivulging:0.1465', 'end:0.1348', 'macrons:0.0991', 'weve:0.0713']+titles_keywords+['flag:0.2602', 'russia:0.2595', 'intel:0.1563', 'new:0.1481', 'plotting:0.0918']"
+        ]
+    ]
+}

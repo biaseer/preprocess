@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+46":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/hongkongherald.com/Dragonbear alliance may pose challenges for Israel Report.txt+eventbasecode46+eventcode46+avgtone0.49455337690631807+goldsteinscale0.85+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.05592105263157895+news_keywords+['geopolitical:0.4402', 'ukraine:0.4215', 'kremlin:0.3679', 'invade:0.2771', 'peacemaker:0.2706', 'beijing:0.2696', 'alliance:0.2676', 'interfere:0.2599', 'vladimir:0.2529', 'news:0.2393', 'visa:0.2198', 'meet:0.2162', 'indo:0.2131', 'president:0.213', 'naftali:0.2046', 'affair:0.2023', 'investment:0.2007', 'east:0.1984', 'aviv:0.189', 'abstention:0.1832', 'world:0.1819', 'jinping:0.1718', 'prepare:0.1708', 'tel:0.1571', 'write:0.1506', 'current:0.1439', 'replace:0.1351', 'turn:0.1348', 'bri:0.076', 'fora:0.0499']+titles_keywords+['israel:0.4658', 'dragonbear:0.4588', 'alliance:0.3653', 'report:0.1836', 'challenges:0.1383']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/hongkongherald.com/What is Russias MIR payment system.txt+eventbasecode46+eventcode46+avgtone0.4994523548740416+goldsteinscale0.85+nummentions0.30043541364296084+numarticles0.29949238578680204+numsources0.33881578947368424+news_keywords+['rosselkhozbank:0.3907', 'russia:0.3613', 'visa:0.3466', 'mastercard:0.3455', 'mir:0.3404', 'currency:0.291', 'atms:0.2593', 'account:0.2443', 'transaction:0.2267', 'regional:0.2062', 'budget:0.1631', 'withdraw:0.162', 'block:0.1526', 'service:0.1501', 'nfc:0.1472', 'pensions:0.1343', 'extend:0.1336', 'convert:0.1297', 'acquire:0.1178', 'main:0.1171', 'check:0.1119', 'end:0.1097', 'word:0.1096', 'include:0.1007', 'android:0.1002', 'example:0.0995', 'website:0.0991', 'vote:0.0741', 'currently:0.0368', 'possible:0.0316']+titles_keywords+['mir:0.5013', 'russias:0.3819', 'payment:0.3186']"
+        ]
+    ]
+}

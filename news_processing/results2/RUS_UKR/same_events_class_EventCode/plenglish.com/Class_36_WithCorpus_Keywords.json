@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+36":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/plenglish.com/Kremlin Russia ready to talk with Ukraine.txt+eventbasecode36+eventcode36+avgtone0.4899497487437186+goldsteinscale0.7+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4786', 'kremlin:0.4379', 'negotiate:0.3632', 'vladimir:0.3592', 'talk:0.2553', 'zelensky:0.2314', 'ready:0.2048', 'president:0.2018', 'continuation:0.1995', 'soon:0.1956', 'responds:0.1744', 'hold:0.1729', 'armed:0.1719', 'counterpart:0.1666', 'solution:0.1584', 'conference:0.1545', 'warn:0.1544', 'capital:0.1536', 'group:0.1408', 'official:0.134', 'stress:0.125', 'bilateral:0.112', 'send:0.1057', 'include:0.1016', 'determine:0.1014', 'home:0.0972', 'search:0.0906', 'possibility:0.0821', 'agree:0.0724', 'forces:0.0719']+titles_keywords+['kremlin:0.5112', 'ukraine:0.489', 'russia:0.3892', 'talk:0.2782', 'ready:0.1978']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/plenglish.com/Russia opens humanitarian corridors in four Ukrainian cities.txt+eventbasecode36+eventcode36+avgtone0.4846938775510204+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.458', 'humanitarian:0.39', 'rostov:0.3793', 'putin:0.3395', 'corridor:0.3141', 'route:0.2841', 'kharkov:0.2674', 'travel:0.2509', 'cooperation:0.2406', 'coordinate:0.2379', 'operation:0.2036', 'federation:0.1928', 'security:0.1612', 'counterpart:0.1578', 'cross:0.1547', 'warn:0.152', 'exit:0.1475', 'open:0.1351', 'interrupt:0.1286', 'meaningless:0.1246', 'world:0.1217', 'civilize:0.1147', 'town:0.1127', 'gomel:0.111', 'pas:0.0977', 'red:0.0859', 'emmanuel:0.084', 'request:0.0808', 'make:0.0746', 'entire:0.0374']+titles_keywords+['ukrainian:0.3688', 'humanitarian:0.3271', 'corridors:0.2998', 'cities:0.2161', 'opens:0.1256']"
+        ]
+    ]
+}

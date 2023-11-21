@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/ndtv.com/Russia Used A Vacuum Bomb During Invasion Claims Ukraine.txt+eventbasecode194+eventcode194+avgtone0.46470588235294114+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['bombs:0.4451', 'ukraine:0.4028', 'invasion:0.3774', 'vacuum:0.3509', 'dangerous:0.2607', 'indiscriminate:0.2421', 'headline:0.2402', 'munition:0.2389', 'thermobaric:0.2173', 'conflict:0.2058', 'humanitarian:0.195', 'president:0.1802', 'accuse:0.1801', 'law:0.1703', 'know:0.1634', 'cluster:0.1634', 'launcher:0.1387', 'shelter:0.1378', 'generate:0.1277', 'high:0.127', 'suck:0.1229', 'zone:0.1162', 'confirmation:0.1126', 'typically:0.1053', 'markarova:0.0883', 'sherman:0.0869', 'price:0.0752', 'today:0.0504', 'ndtv:0.0402', 'duration:0.04']+titles_keywords+['ukraine:0.4194', 'bomb:0.3806', 'vacuum:0.3636', 'invasion:0.3394', 'claims:0.1393']"
+        ],
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/ndtv.com/Ukraine At Stake Elon Musk Challenges Putin To Single Combat.txt+eventbasecode194+eventcode194+avgtone0.48782608695652174+goldsteinscale0.0+nummentions0.013425253991291727+numarticles0.012327773749093546+numsources0.019736842105263157+news_keywords+['ukraine:0.5488', 'putin:0.5221', 'cyrillic:0.3923', 'musk:0.3874', 'disrupt:0.3242', 'fedorov:0.3089', 'zelensky:0.2767', 'fight:0.2588', 'richest:0.2543', 'satellite:0.2505', 'space:0.2497', 'colonize:0.238', 'operation:0.2351', 'provide:0.2331', 'volodymyr:0.2267', 'tagging:0.216', 'address:0.2144', 'write:0.2099', 'tweet:0.2079', 'stake:0.1985', 'world:0.1844', 'say:0.1836', 'challenges:0.1807', 'mr:0.1663', 'discussed:0.1639', 'month:0.1515', 'truck:0.1474', 'agree:0.1196', 'official:0.1142', 'possible:0.1131']+titles_keywords+['putin:0.496', 'musk:0.4818', 'combat:0.3707', 'stake:0.18', 'single:0.1488']"
+        ]
+    ]
+}

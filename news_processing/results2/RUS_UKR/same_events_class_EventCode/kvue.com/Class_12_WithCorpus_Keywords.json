@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/kvue.com/Russians shell Europes largest nuclear power plant.txt+eventbasecode12+eventcode12+avgtone0.4739776951672862+goldsteinscale0.48+nummentions0.04100145137880987+numarticles0.04169688179840464+numsources0.05263157894736842+news_keywords+['crimea:0.4851', 'kremlin:0.4385', 'ukrainians:0.4235', 'nato:0.36', 'evacuate:0.356', 'chernobyl:0.3556', 'demilitarization:0.3259', 'war:0.3188', 'kalashnikovs:0.3007', 'takeover:0.2758', 'strategic:0.2701', 'pentagon:0.2697', 'explosion:0.249', 'warn:0.2419', 'chernov:0.235', 'zaporizhzhia:0.2268', 'enter:0.225', 'firefighters:0.2217', 'urgent:0.2186', 'happen:0.1981', 'capital:0.193', 'neutral:0.1835', 'agreement:0.1763', 'surround:0.1675', 'thursday:0.1674', 'gurney:0.1537', 'yield:0.1535', 'like:0.1516', 'ap:0.1487', 'andriy:0.1323']+titles_keywords+['nuclear:0.4249', 'russians:0.3482', 'largest:0.2519', 'shell:0.2209', 'plant:0.162']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/kvue.com/Please support us Locals with Ukraine ties worried as Russia conflict escalates.txt+eventbasecode12+eventcode12+avgtone0.43421052631578955+goldsteinscale0.48+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.009868421052631578+news_keywords+['ukraine:0.4885', 'putin:0.4327', 'invade:0.3699', 'separatist:0.3355', 'troop:0.2752', 'sovereignty:0.2584', 'border:0.2468', 'prepare:0.2272', 'sanction:0.2113', 'president:0.2097', 'bipartisan:0.2013', 'conflict:0.1936', 'worry:0.1883', 'state:0.1828', 'want:0.1801', 'understand:0.1781', 'plan:0.1745', 'representative:0.1692', 'stop:0.1666', 'austinite:0.1598', 'support:0.1555', 'monday:0.1539', 'strong:0.1521', 'coming:0.1473', 'say:0.1443', 'implication:0.1436', 'everybody:0.1198', 'live:0.1149', 'hour:0.0968', 'new:0.0856']+titles_keywords+['ukraine:0.4558', 'locals:0.2801', 'worried:0.2608', 'support:0.2134', 'escalates:0.1815']"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "EUR+UKR+43":[
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/inverness-courier.co.uk/Ukraine will not be silent about horror of rapes against women during invasion.txt+eventbasecode43+eventcode43+avgtone0.4733201581027668+goldsteinscale0.64+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.532', 'victim:0.3817', 'war:0.3481', 'crime:0.3328', 'report:0.3027', 'humanitarian:0.3022', 'parliamentary:0.2705', 'accuse:0.2557', 'mezentseva:0.2531', 'scary:0.2358', 'woman:0.2235', 'ookslksh:0.2124', 'boris:0.2031', 'aftermath:0.1957', 'town:0.1874', 'recall:0.1858', 'general:0.1794', 'fact:0.1738', 'speak:0.1703', 'proceeded:0.1698', 'cope:0.1663', 'scene:0.1643', 'understanding:0.1634', 'issue:0.1555', 'head:0.1259', 'sorry:0.1217', 'add:0.0903', 'http:0.0842', 'weve:0.0817', 'particularly:0.0681']+titles_keywords+['ukraine:0.4173', 'rapes:0.3441', 'invasion:0.3368', 'women:0.2225', 'silent:0.1514']"
+        ]
+    ],
+    "GBR+UKR+43":[
+        [
+            "20210824+../news_crawling/RUS_UKR/p_articles/inverness-courier.co.uk/Kalush Orchestra make appeal for Azovstal fighters on Ukrainian Independence Day.txt+eventbasecode43+eventcode43+avgtone0.5150150150150151+goldsteinscale0.64+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyivs:0.5295', 'eurovision:0.5083', 'orchestra:0.4356', 'oleg:0.3977', 'solidarity:0.3732', 'spokespeople:0.3558', 'parade:0.3438', 'stage:0.3346', 'psyuk:0.3237', 'rap:0.3078', 'maidan:0.2875', 'kalush:0.2863', 'battle:0.2763', 'metal:0.2652', 'launch:0.2632', 'fund:0.2574', 'microphone:0.2474', 'involve:0.2388', 'trophy:0.2381', 'rehabilitation:0.2309', 'east:0.225', 'military:0.2246', 'performance:0.2152', 'away:0.202', 'main:0.1913', 'august:0.1902', 'deliver:0.1868', 'say:0.1713', 'end:0.1445', 'grateful:0.1432']+titles_keywords+['orchestra:0.416', 'ukrainian:0.3721', 'kalush:0.3176', 'azovstal:0.2857', 'fighters:0.2305']"
+        ],
+        [
+            "20220724+../news_crawling/RUS_UKR/p_articles/inverness-courier.co.uk/Life on the front line for surgeon Andy Kent who has returned to the Highlands.txt+eventbasecode43+eventcode43+avgtone0.4890350877192982+goldsteinscale0.64+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.3998', 'war:0.3586', 'missile:0.3515', 'shrapnel:0.3406', 'trauma:0.3224', 'soldier:0.2795', 'hospital:0.2482', 'inverness:0.2463', 'government:0.2452', 'railway:0.2424', 'operate:0.2286', 'situation:0.1879', 'advise:0.1687', 'accurately:0.1562', 'km:0.1429', 'liev:0.1381', 'andy:0.138', 'th:0.1325', 'unlucky:0.127', 'line:0.1258', 'know:0.1242', 'away:0.111', 'mainly:0.1091', 'late:0.1073', 'fixator:0.0974', 'donate:0.0953', 'best:0.0727', 'big:0.0718', 'unless:0.045', 'add:0.0275']+titles_keywords+['ukraine:0.3963', 'surgeon:0.3941', 'attacks:0.3176', 'liev:0.2493', 'returned:0.1367']"
+        ]
+    ],
+    "IRL+UKR+43":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/inverness-courier.co.uk/Ukrainian protesters in Dublin turn focus to Chinese Embassy.txt+eventbasecode43+eventcode43+avgtone0.48433420365535246+goldsteinscale0.64+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.01644736842105263+news_keywords+['ukrainians:0.4577', 'solidaritywithukraine:0.4316', 'protest:0.427', 'russianinvasion:0.4103', 'putin:0.3849', 'nato:0.3313', 'sovereignty:0.3027', 'embassy:0.2974', 'invasion:0.295', 'dublin:0.266', 'stopthewar:0.2542', 'labour:0.245', 'placard:0.2328', 'gardai:0.2297', 'fein:0.2196', 'fighting:0.1989', 'turn:0.1912', 'recognise:0.1877', 'supply:0.1845', 'survive:0.1804', 'world:0.1692', 'ironically:0.1629', 'monday:0.1583', 'jinping:0.1514', 'end:0.1453', 'anna:0.1422', 'separate:0.1377', 'right:0.1243', 'thank:0.0727', 'doesnt:0.0711']+titles_keywords+['protesters:0.4194', 'dublin:0.3718', 'ukrainian:0.2939', 'embassy:0.2725', 'focus:0.1125']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+40":[
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/capitalfm.co.ke/Russian strikes hit Kyiv as G7 meets.txt+eventbasecode40+eventcode40+avgtone0.4843912591050989+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5227', 'putin:0.4514', 'russias:0.3941', 'nato:0.3795', 'yuri:0.3558', 'missiles:0.3357', 'diplomacy:0.3226', 'savilov:0.2893', 'invasion:0.2543', 'proceed:0.2528', 'strike:0.2522', 'intervene:0.2444', 'strategic:0.2362', 'victim:0.2313', 'separatist:0.2278', 'read:0.226', 'report:0.2195', 'industrialise:0.2188', 'tank:0.199', 'instability:0.1883', 'donbas:0.1854', 'say:0.1679', 'shkuta:0.1479', 'fake:0.1469', 'thursday:0.1391', 'building:0.133', 'gmt:0.1117', 'completely:0.1044', 'focus:0.1034', 'unlike:0.0891']+titles_keywords+['kyiv:0.5454', 'hit:0.2922', 'strikes:0.2526', 'meets:0.2247', 'g7:0.2132']"
+        ]
+    ],
+    "PRT+UKR+40":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/capitalfm.co.ke/Biden sees chance for Ukraine diplomacy keeps pressure on Moscow.txt+eventbasecode40+eventcode40+avgtone0.4898989898989899+goldsteinscale0.55+nummentions0.01269956458635704+numarticles0.013415518491660623+numsources0.019736842105263157+news_keywords+['diplomacy:0.4622', 'ukraines:0.4484', 'putin:0.4377', 'nato:0.4335', 'invade:0.3555', 'cyberattacks:0.3089', 'threatening:0.2756', 'biden:0.2718', 'sputnikafp:0.2516', 'crisis:0.2499', 'border:0.239', 'sanction:0.2238', 'agreement:0.2234', 'predict:0.214', 'plan:0.2108', 'read:0.1887', 'remain:0.1871', 'respond:0.1863', 'soon:0.1841', 'meet:0.1836', 'order:0.1806', 'ready:0.1486', 'state:0.1478', 'step:0.1287', 'possibility:0.127', 'resume:0.1221', 'weekend:0.1175', 'pullback:0.1137', 'bank:0.0988', 'resolution:0.0869']+titles_keywords+['biden:0.3765', 'diplomacy:0.3663', 'ukraine:0.2872', 'pressure:0.2006', 'chance:0.1827']"
+        ]
+    ]
+}

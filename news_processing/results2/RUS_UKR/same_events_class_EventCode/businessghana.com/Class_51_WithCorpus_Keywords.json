@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+51":[
+        [
+            "20220729+../news_crawling/RUS_UKR/p_articles/businessghana.com/Ukraine war Russia hits Kyiv area as Ukraine seeks to retake south.txt+eventbasecode51+eventcode51+avgtone0.4736286919831223+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5064', 'kremlin:0.4289', 'war:0.3717', 'annex:0.2627', 'hromov:0.2586', 'redeploy:0.2361', 'briefing:0.2315', 'osce:0.2114', 'capital:0.1998', 'specify:0.1913', 'president:0.1912', 'continue:0.1774', 'authority:0.171', 'torture:0.1634', 'accuse:0.1538', 'range:0.1469', 'important:0.1465', 'deteriorate:0.1408', 'hit:0.1405', 'long:0.1404', 'expert:0.1362', 'control:0.1323', 'pictures:0.1252', 'gmt:0.1242', 'month:0.1211', 'andriy:0.1094', 'residential:0.107', 'review:0.1029', 'agree:0.0927', 'separately:0.0432']+titles_keywords+['kyiv:0.5401', 'war:0.2426', 'hits:0.1645', 'area:0.1251', 'retake:0.0621']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/businessghana.com/Digital diplomacy gets a reboot.txt+eventbasecode51+eventcode51+avgtone0.5046353522867737+goldsteinscale0.67+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.013157894736842105+news_keywords+['diplomacy:0.4529', 'bureaucratic:0.4367', 'interagency:0.3694', 'policymakers:0.3614', 'departments:0.3608', 'consulate:0.3424', 'modernize:0.3407', 'disinformation:0.3356', 'cybersecurity:0.3244', 'democratic:0.3193', 'biden:0.2967', 'ceo:0.2751', 'coordinate:0.2632', 'future:0.2502', 'announce:0.2489', 'projectexamines:0.2353', 'washington:0.2303', 'eu:0.2243', 'remit:0.218', 'write:0.1965', 'idea:0.1951', 'operationally:0.1918', 'intertwine:0.1888', 'senior:0.1717', 'issue:0.1681', 'przysucha:0.156', 'seriousness:0.1472', 'like:0.1444', 'ready:0.143', 'sherman:0.1393']+titles_keywords+['diplomacy:0.6371', 'digital:0.2875', 'reboot:0.1467', 'gets:0.1458']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220822+../news_crawling/RUS_UKR/p_articles/businessghana.com/Ukraine war Allies seek more security at Zaporizhzhia nuclear plant.txt+eventbasecode51+eventcode51+avgtone0.4844290657439446+goldsteinscale0.67+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['crimea:0.5535', 'putin:0.475', 'ukrainian:0.434', 'war:0.3463', 'nuclear:0.3118', 'zaporizhzhia:0.3109', 'nationalist:0.3102', 'allies:0.3016', 'provocation:0.27', 'attack:0.2659', 'involvement:0.2555', 'safety:0.2418', 'objectives:0.2245', 'future:0.2185', 'subject:0.2153', 'know:0.2151', 'report:0.2042', 'drone:0.197', 'reiterate:0.1857', 'visit:0.1855', 'counterpart:0.1834', 'biden:0.183', 'write:0.1806', 'conclusion:0.1757', 'weekend:0.1704', 'approve:0.154', 'conference:0.141', 'resist:0.1329', 'welcome:0.0781', 'installation:0.0069']+titles_keywords+['ukraine:0.4222', 'nuclear:0.3823', 'zaporizhzhia:0.3751', 'allies:0.2704', 'security:0.2438']"
+        ]
+    ]
+}

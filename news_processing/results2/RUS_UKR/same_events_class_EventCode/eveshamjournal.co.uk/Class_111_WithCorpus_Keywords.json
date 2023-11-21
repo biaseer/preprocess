@@ -1,0 +1,22 @@
+{
+    "ISR+RUS+111":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/eveshamjournal.co.uk/Israel hits out at Russia over Lavrovs Nazism remarks.txt+eventbasecode111+eventcode111+avgtone0.46049222797927464+goldsteinscale0.4+nummentions0.4125544267053701+numarticles0.4129804205946338+numsources0.47039473684210525+news_keywords+['holocaust:0.5729', 'nazification:0.4817', 'antisemitism:0.4541', 'propaganda:0.4056', 'israel:0.3902', 'kremlin:0.3801', 'sergei:0.3292', 'russias:0.3131', 'historical:0.2899', 'justify:0.2454', 'debate:0.2237', 'invade:0.2152', 'translation:0.2121', 'volodymyr:0.2059', 'people:0.197', 'mediate:0.1953', 'inversion:0.1916', 'remark:0.1629', 'presidential:0.1559', 'mark:0.1472', 'reach:0.1359', 'issue:0.13', 'scandalous:0.123', 'remember:0.1219', 'neutral:0.1203', 'ordination:0.1158', 'tweet:0.106', 'big:0.0946', 'yad:0.0896', 'sent:0.0339']+titles_keywords+['israel:0.3632', 'lavrovs:0.3046', 'nazism:0.2932', 'remarks:0.0937', 'hits:0.0675']"
+        ]
+    ],
+    "RUS+GBR+111":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/eveshamjournal.co.uk/Ukrainian Catholic bishop warns British people to avoid disinformation about war.txt+eventbasecode111+eventcode111+avgtone0.5112359550561798+goldsteinscale0.4+nummentions0.1509433962264151+numarticles0.15155910079767948+numsources0.2730263157894737+news_keywords+['ukrainians:0.4853', 'refugee:0.4033', 'war:0.3468', 'oligarch:0.2934', 'duchess:0.2846', 'london:0.2621', 'disinformation:0.2404', 'privilege:0.2301', 'khromeychuk:0.2241', 'distinction:0.2063', 'warn:0.203', 'nowakowski:0.1959', 'instead:0.1816', 'catholic:0.1758', 'organisation:0.1694', 'donate:0.1589', 'want:0.155', 'issue:0.1528', 'reputable:0.1475', 'heard:0.1411', 'right:0.1371', 'reader:0.1302', 'meet:0.1256', 'sure:0.1057', 'especially:0.1011', 'lot:0.0902', 'big:0.0887', 'terrible:0.0758', 'today:0.0735', 'weve:0.0678']+titles_keywords+['disinformation:0.3305', 'war:0.3109', 'ukrainian:0.2825', 'bishop:0.281', 'warns:0.2703']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/eveshamjournal.co.uk/Russian attacks halt plans to evacuate Ukrainian civilians.txt+eventbasecode111+eventcode111+avgtone0.47187669010275823+goldsteinscale0.4+nummentions0.3124092888243832+numarticles0.31290790427846266+numsources0.42105263157894735+news_keywords+['ukraine:0.5028', 'airstrikes:0.3612', 'separatists:0.3396', 'evacuate:0.3361', 'erdogan:0.3158', 'propaganda:0.2908', 'dispatch:0.2885', 'humanitarian:0.2466', 'telegram:0.2455', 'scenario:0.2324', 'azov:0.2315', 'turn:0.2213', 'know:0.2145', 'corridor:0.2135', 'rouble:0.21', 'adviser:0.2061', 'concerned:0.2059', 'bloc:0.1929', 'soon:0.1732', 'essentially:0.1668', 'increase:0.1565', 'interference:0.1487', 'bucha:0.1463', 'backlog:0.1425', 'compare:0.1386', 'external:0.1374', 'th:0.1335', 'onlookers:0.1333', 'include:0.1229', 'major:0.1189']+titles_keywords+['ukrainian:0.4235', 'evacuate:0.409', 'civilians:0.3263', 'attacks:0.2054', 'plans:0.1356']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220611+../news_crawling/RUS_UKR/p_articles/eveshamjournal.co.uk/Uneasy peace settles on Kyiv as war rages elsewhere.txt+eventbasecode111+eventcode111+avgtone0.46639344262295085+goldsteinscale0.4+nummentions0.23439767779390422+numarticles0.23495286439448876+numsources0.21052631578947367+news_keywords+['kyiv:0.6087', 'bashtovyi:0.3628', 'russias:0.3146', 'war:0.308', 'capital:0.3043', 'journalist:0.2819', 'chatter:0.2727', 'table:0.2663', 'shrilly:0.2472', 'east:0.2394', 'tank:0.2391', 'unoccupied:0.2351', 'flee:0.233', 'checkpoint:0.2308', 'neighbourhood:0.2289', 'ruin:0.2275', 'chink:0.2252', 'uneasy:0.2236', 'curfew:0.222', 'continue:0.1935', 'kit:0.1929', 'use:0.1924', 'say:0.1919', 'fall:0.1883', 'soon:0.1689', 'flame:0.1682', 'unlike:0.1663', 'savour:0.1655', 'right:0.1559', 'meaning:0.1287']+titles_keywords+['kyiv:0.5445', 'war:0.4035', 'peace:0.3968', 'uneasy:0.287', 'settles:0.2454']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+100":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Completely immoral.txt+eventbasecode100+eventcode100+avgtone0.47507788161993775+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4591', 'ceasefires:0.4399', 'invasion:0.3045', 'immoral:0.3016', 'refugee:0.3', 'corridor:0.2896', 'atrocity:0.2765', 'strategic:0.2729', 'zelenskiy:0.2544', 'besiege:0.234', 'flee:0.2208', 'trap:0.2014', 'ally:0.1818', 'tank:0.1761', 'allow:0.1738', 'extend:0.1698', 'plunge:0.1665', 'news:0.1638', 'delegation:0.1564', 'completely:0.1455', 'map:0.1446', 'people:0.1322', 'talk:0.1248', 'arm:0.1178', 'far:0.1172', 'begin:0.1155', 'yield:0.1095', 'million:0.1087', 'main:0.1061', 'crossed:0.0843']+titles_keywords+['immoral:0.8604', 'completely:0.3883']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Oil nears 100.txt+eventbasecode100+eventcode100+avgtone0.4793814432989691+goldsteinscale0.25+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.5055', 'kremlin:0.4008', 'oil:0.3838', 'pipeline:0.3449', 'economy:0.3303', 'separatist:0.309', 'disruption:0.2954', 'crisis:0.2807', 'diplomatic:0.2727', 'sanction:0.2536', 'surge:0.2477', 'north:0.2406', 'pull:0.2122', 'prepare:0.2108', 'immediate:0.1957', 'fall:0.1844', 'monday:0.1775', 'uncertainty:0.1744', 'near:0.1718', 'world:0.1673', 'increase:0.1591', 'gmt:0.1537', 'brent:0.1482', 'troop:0.1455', 'end:0.1368', 'compare:0.1065', 'send:0.0992', 'exporter:0.0932', 'set:0.077', 'olaf:0.0416']+titles_keywords+['oil:0.3965', '100:0.3931', 'nears:0.2733']"
+        ]
+    ]
+}

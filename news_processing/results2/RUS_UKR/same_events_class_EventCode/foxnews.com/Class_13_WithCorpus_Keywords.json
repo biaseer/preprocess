@@ -1,0 +1,32 @@
+{
+    "RUS+FRA+13":[
+        []
+    ],
+    "RUS+RUS+13":[
+        []
+    ],
+    "RUS+UKR+13":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/foxnews.com/Auschwitz Memorial factchecks MSNBC guests Hitler claim.txt+eventbasecode13+eventcode13+avgtone0.47239263803680975+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['auschwitz:0.5166', 'putin:0.5103', 'hitler:0.4681', 'genocidal:0.3623', 'kyiv:0.3209', 'regime:0.278', 'factchecks:0.226', 'slaughter:0.2243', 'msnbc:0.2238', 'ethnic:0.2123', 'horrific:0.1984', 'speak:0.165', 'comparison:0.155', 'oppose:0.1485', 'military:0.1471', 'know:0.141', 'memorial:0.1328', 'studies:0.1303', 'strategy:0.1109', 'increased:0.1045', 'order:0.1034', 'story:0.0875', 'highlight:0.0873', 'like:0.0834', 'population:0.0782', 'large:0.0694', 'house:0.055', 'reorganize:0.0536', 'nerozzifox:0.0328', 'inbox:0.0106']+titles_keywords+['auschwitz:0.5249', 'msnbc:0.4387', 'factchecks:0.324', 'guests:0.2809', 'memorial:0.267']"
+        ],
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/foxnews.com/US official Russia is making minimal at best progress in eastern Ukraine.txt+eventbasecode13+eventcode13+avgtone0.48565573770491804+goldsteinscale0.52+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4721', 'sergei:0.3327', 'invasion:0.2829', 'progress:0.2623', 'soldier:0.2452', 'turret:0.2101', 'continue:0.1906', 'logistics:0.1867', 'push:0.1823', 'know:0.1822', 'northeast:0.1742', 'nuclear:0.1664', 'news:0.1638', 'presonnel:0.1625', 'resist:0.1519', 'supinskyafp:0.1424', 'april:0.1424', 'poor:0.1355', 'getty:0.1306', 'ap:0.1227', 'walk:0.1196', 'second:0.1185', 'aversion:0.1183', 'focus:0.1175', 'uneven:0.1161', 'far:0.1145', 'donbas:0.1098', 'large:0.0977', 'images:0.0879', 'frankly:0.051']+titles_keywords+['ukraine:0.3987', 'progress:0.3308', 'minimal:0.2005', 'official:0.1491', 'making:0.0869']"
+        ],
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/foxnews.com/UkraineRussia war Moscowbacked rebels claim progress in Donbas offensive.txt+eventbasecode13+eventcode13+avgtone0.459849435382685+goldsteinscale0.52+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.003289473684210526+news_keywords+['ukraine:0.5123', 'moscowbacked:0.378', 'war:0.3776', 'nato:0.3763', 'evacuation:0.3663', 'separatist:0.3206', 'correspondent:0.2994', 'territory:0.2825', 'underway:0.2691', 'artillery:0.2671', 'kill:0.2655', 'aggressor:0.2521', 'industrial:0.2318', 'know:0.2314', 'uninhabitable:0.2295', 'governor:0.2212', 'organization:0.2116', 'telegram:0.2074', 'deliver:0.203', 'good:0.1955', 'result:0.1954', 'write:0.1926', 'lysychansk:0.1823', 'strengthen:0.1788', 'population:0.1607', 'donbas:0.1607', 'pre:0.1438', 'hour:0.1351', 'completely:0.1314', 'include:0.1287']+titles_keywords+['moscowbacked:0.4128', 'rebels:0.3267', 'ukrainerussia:0.3225', 'donbas:0.3153', 'progress:0.2607']"
+        ],
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/foxnews.com/UkraineRussia war UK video shows Moscows costly failure.txt+eventbasecode13+eventcode13+avgtone0.463963963963964+goldsteinscale0.52+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['ukraines:0.5127', 'kyiv:0.4775', 'kremlin:0.4045', 'moscows:0.3961', 'russian:0.3833', 'vladimir:0.3534', 'combat:0.3176', 'troop:0.2943', 'invasion:0.2782', 'sputnik:0.2529', 'readiness:0.2456', 'attrition:0.1872', 'northern:0.1691', 'capital:0.1524', 'push:0.1518', 'know:0.1421', 'news:0.1316', 'president:0.1213', 'donbas:0.1163', 'june:0.1113', 'seize:0.1048', 'initial:0.1004', 'end:0.0995', 'costly:0.0927', 'hop:0.0878', 'videoconference:0.0828', 'time:0.0789', 'add:0.0752', 'completely:0.0649', 'welcome:0.0142']+titles_keywords+['moscows:0.4679', 'ukrainerussia:0.4427', 'war:0.3242', 'video:0.3149', 'costly:0.1696']"
+        ]
+    ],
+    "USA+RUS+13":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/foxnews.com/Former US secretary of defense details if Putin has territorial ambitions past Ukraine.txt+eventbasecode13+eventcode13+avgtone0.49050632911392406+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5012', 'nato:0.4891', 'ukraine:0.4364', 'invade:0.408', 'baltic:0.3805', 'border:0.2615', 'puppet:0.2217', 'brigade:0.2062', 'secretary:0.1879', 'risk:0.1803', 'operation:0.1696', 'covert:0.1696', 'want:0.1405', 'power:0.1336', 'cyber:0.1318', 'gates:0.1279', 'idea:0.1264', 'deliver:0.1233', 'defense:0.1233', 'tell:0.1177', 'armored:0.1138', 'increase:0.1134', 'news:0.1132', 'near:0.1121', 'million:0.0984', 'hold:0.0772', 'true:0.0742', 'probably:0.0564', 'saturday:0.0552', 'install:0.0442']+titles_keywords+['putin:0.4628', 'territorial:0.2408', 'secretary:0.2048', 'ambitions:0.1516', 'defense:0.091']"
+        ]
+    ],
+    "WST+RUS+13":[
+        [
+            "20220731+../news_crawling/RUS_UKR/p_articles/foxnews.com/Vladimir Putin targets US in new Russian navy doctrine warns of using hypersonic weapons.txt+eventbasecode13+eventcode13+avgtone0.4822134387351778+goldsteinscale0.52+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5384', 'nato:0.4399', 'vladimir:0.4121', 'ukraine:0.3784', 'missile:0.3232', 'naval:0.3171', 'petersburg:0.317', 'threaten:0.2683', 'hypersonic:0.2657', 'drone:0.2645', 'strategic:0.2407', 'viktor:0.235', 'sovereignty:0.2129', 'news:0.1862', 'soon:0.1767', 'power:0.1611', 'hit:0.1488', 'hagstromanders:0.1276', 'expand:0.1258', 'unknown:0.1194', 'point:0.1164', 'morning:0.115', 'getty:0.1034', 'sevastopol:0.1026', 'st:0.0805', 'images:0.0763', 'number:0.0759', 'send:0.0547', 'able:0.0439', 'significantly:0.0264']+titles_keywords+['putin:0.447', 'hypersonic:0.3767', 'navy:0.2922', 'targets:0.2342', 'doctrine:0.1424']"
+        ]
+    ]
+}

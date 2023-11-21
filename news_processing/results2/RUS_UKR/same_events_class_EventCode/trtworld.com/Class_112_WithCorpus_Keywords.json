@@ -1,0 +1,12 @@
+{
+    "RUS+DEU+112":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/trtworld.com/Germany and Ukraine in disagreement over Russian gas.txt+eventbasecode112+eventcode112+avgtone0.4781021897810219+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4737', 'pipeline:0.4053', 'kremlin:0.339', 'renewables:0.3276', 'gas:0.2971', 'turbine:0.286', 'supply:0.2853', 'siemens:0.2702', 'gazprom:0.2663', 'industrial:0.2643', 'government:0.2618', 'nord:0.2379', 'justify:0.2293', 'transit:0.2164', 'blackmail:0.2154', 'steffen:0.1798', 'halt:0.1768', 'issue:0.1707', 'hebestreit:0.1625', 'contact:0.1598', 'read:0.1585', 'submit:0.1422', 'reduction:0.1349', 'swift:0.1171', 'falloff:0.1097', 'normal:0.0751', 'month:0.071', 'earlier:0.0679', 'set:0.0623', 'hope:0.0551']+titles_keywords+['ukraine:0.521', 'germany:0.3807', 'gas:0.327', 'russian:0.3007', 'disagreement:0.2373']"
+        ]
+    ],
+    "RUS+POL+112":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/trtworld.com/Ukraine mortgaging itself to US Russian parliament chief.txt+eventbasecode112+eventcode112+avgtone0.49322033898305084+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5266', 'ukrainians:0.521', 'ukrainian:0.5039', 'russian:0.4175', 'vyacheslav:0.3608', 'mortgage:0.3416', 'lend:0.3049', 'indebting:0.282', 'volodin:0.2667', 'supply:0.2528', 'commodity:0.2447', 'lease:0.232', 'profit:0.2197', 'pay:0.2133', 'parliament:0.2112', 'ammunition:0.2042', 'conflict:0.1958', 'accuse:0.1796', 'future:0.1585', 'house:0.1541', 'citizen:0.153', 'cheap:0.1375', 'speaker:0.1373', 'generation:0.1309', 'states:0.1309', 'lower:0.1148', 'friday:0.1135', 'say:0.0965', 'united:0.0908', 'seek:0.0872']+titles_keywords+['ukraine:0.4368', 'russian:0.3446', 'mortgaging:0.2986', 'parliament:0.2219', 'chief:0.1152']"
+        ]
+    ]
+}

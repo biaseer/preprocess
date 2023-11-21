@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+57":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Ukraine and a Deluded Putin.txt+eventbasecode57+eventcode57+avgtone0.47112462006079026+goldsteinscale0.9+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5173', 'ukraine:0.4627', 'annexation:0.4004', 'geopolitical:0.3751', 'novorossiya:0.321', 'coup:0.2951', 'separatist:0.2916', 'democratic:0.2687', 'strategic:0.2616', 'unprovoked:0.2529', 'agreements:0.2434', 'federation:0.2381', 'impose:0.2364', 'occur:0.2138', 'blood:0.2136', 'change:0.2099', 'result:0.2037', 'subjugation:0.2028', 'organize:0.202', 'expect:0.1974', 'future:0.1779', 'shoot:0.1578', 'book:0.1547', 'avoid:0.1532', 'begin:0.1502', 'orbit:0.1487', 'existential:0.1453', 'employ:0.1452', 'like:0.1358', 'th:0.1075']+titles_keywords+['ukraine:0.6611', 'putin:0.6246', 'deluded:0.2329']"
+        ]
+    ],
+    "UKR+RUS+57":[
+        [
+            "20220707+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Ukrainians cling to life at front line We are patriots.txt+eventbasecode57+eventcode57+avgtone0.479066985645933+goldsteinscale0.9+nummentions0.01088534107402032+numarticles0.011602610587382161+numsources0.019736842105263157+news_keywords+['kyiv:0.4874', 'soviet:0.4652', 'war:0.3047', 'trench:0.2836', 'rebuild:0.2667', 'north:0.2482', 'distract:0.2458', 'remain:0.241', 'lazar:0.2373', 'communities:0.2287', 'table:0.2194', 'sudden:0.2178', 'neighbor:0.2125', 'debris:0.2086', 'world:0.2069', 'crumble:0.2064', 'tense:0.2035', 'term:0.1968', 'long:0.1927', 'smash:0.1873', 'echo:0.1827', 'curtain:0.1777', 'netsov:0.1763', 'arm:0.1727', 'like:0.1719', 'proclaim:0.15', 'overtakes:0.149', 'ready:0.1458', 'youll:0.1443', 'comparison:0.1431']+titles_keywords+['ukrainians:0.5959', 'patriots:0.2437', 'cling:0.2202', 'line:0.1812', 'life:0.1645']"
+        ]
+    ]
+}

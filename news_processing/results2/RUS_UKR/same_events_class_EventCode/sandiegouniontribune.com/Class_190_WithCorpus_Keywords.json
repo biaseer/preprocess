@@ -1,0 +1,21 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Sorting fact disinformation after Russian attack on Ukraine.txt+eventbasecode190+eventcode190+avgtone0.47+goldsteinscale0.0+nummentions0.06422351233671988+numarticles0.06490210297316897+numsources0.10197368421052631+news_keywords+['kyiv:0.4993', 'putin:0.4066', 'russias:0.3703', 'invasion:0.3475', 'disinformation:0.3283', 'military:0.2905', 'readiness:0.2614', 'underway:0.2397', 'nuclear:0.2247', 'sorting:0.2171', 'pipeline:0.2012', 'repatriation:0.1985', 'warn:0.1934', 'fight:0.1902', 'happen:0.1899', 'observer:0.1807', 'early:0.1692', 'office:0.169', 'kilometer:0.1665', 'chart:0.1623', 'people:0.1603', 'increase:0.1434', 'official:0.1308', 'counterclaim:0.1302', 'fully:0.1299', 'red:0.1224', 'state:0.1155', 'determine:0.1075', 'exactly:0.0961', 'hunker:0.0647']+titles_keywords+['disinformation:0.4867', 'ukraine:0.3733', 'fact:0.3567', 'attack:0.2635', 'sorting:0.2431']"
+        ],
+        [
+            "20220423+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Official says Russian forces are attacking a steel plant that is the last Ukrainian stronghold.txt+eventbasecode190+eventcode190+avgtone0.5+goldsteinscale0.0+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.019736842105263157+news_keywords+['ukrainian:0.4172', 'russian:0.38', 'steel:0.3415', 'attack:0.2568', 'mariupol:0.2567', 'stronghold:0.2289', 'city:0.2179', 'official:0.1499', 'plant:0.1384', 'force:0.1177', 'say:0.062']+titles_keywords+['ukrainian:0.3253', 'steel:0.2788', 'mariupol:0.2424', 'stronghold:0.1228', 'forces:0.0885']"
+        ],
+        [
+            "20220521+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/AP PHOTOS A POWs legacy of Mariupol siege pictures.txt+eventbasecode190+eventcode190+avgtone0.48502994011976047+goldsteinscale0.0+nummentions0.10740203193033382+numarticles0.10804931109499638+numsources0.08881578947368421+news_keywords+['comrade:0.474', 'troop:0.3568', 'azovstals:0.3374', 'russias:0.3295', 'kozatsky:0.3119', 'siege:0.2998', 'camouflage:0.2913', 'immortalize:0.2872', 'journalistic:0.2865', 'victory:0.2845', 'bunker:0.279', 'pows:0.2755', 'mundaneness:0.2604', 'photos:0.2463', 'crossword:0.2432', 'command:0.2407', 'grimly:0.2369', 'dmytro:0.2284', 'ap:0.2279', 'reading:0.2229', 'amid:0.2091', 'familiar:0.1943', 'memory:0.1938', 'march:0.1818', 'say:0.1432', 'electric:0.1402', 'shoigu:0.1355', 'ready:0.127', 'thats:0.1211', 'theyd:0.099']+titles_keywords+['pows:0.4337', 'photos:0.3753', 'siege:0.365', 'ap:0.3237', 'mariupol:0.2357']"
+        ],
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/US and Germany agree to supply advanced weapons to Ukraine.txt+eventbasecode190+eventcode190+avgtone0.48320693391115926+goldsteinscale0.0+nummentions0.32329462989840346+numarticles0.3237853517041334+numsources0.46710526315789475+news_keywords+['ukraine:0.4919', 'nato:0.4508', 'kremlin:0.3959', 'airstrikes:0.393', 'artillery:0.3043', 'enemy:0.2838', 'zelenskyy:0.2824', 'tank:0.2571', 'intercept:0.2566', 'provocation:0.2509', 'separatist:0.2473', 'sievierodonetsk:0.2377', 'telegram:0.2346', 'railways:0.22', 'help:0.2038', 'intend:0.1985', 'kilometer:0.1985', 'expand:0.1979', 'turn:0.1961', 'swaths:0.1763', 'steal:0.1721', 'forget:0.1598', 'donbas:0.155', 'unsuccessfully:0.1527', 'isnt:0.1444', 'long:0.1388', 'focus:0.1373', 'difference:0.121', 'received:0.1107', 'chancellor:0.1107']+titles_keywords+['ukraine:0.4005', 'weapons:0.3132', 'supply:0.1998', 'advanced:0.0843', 'agree:0.0385']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Russias Defense Ministry says 498 of its troops killed in Ukraine 1597 wounded in 1st.txt+eventbasecode190+eventcode190+avgtone0.418918918918919+goldsteinscale0.0+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['ukraine:0.499', 'russias:0.3844', 'military:0.3713', 'casualty:0.3425', 'troop:0.3412', 'kill:0.3378', 'report:0.3056', 'wound:0.2364', 'st:0.1524', 'say:0.1349', 'defense:0.1251', 'ministry:0.0634']+titles_keywords+['498:0.3891', 'casualties:0.3844', 'ukraine:0.3812', 'report:0.187', 'says:0.0827']"
+        ]
+    ]
+}

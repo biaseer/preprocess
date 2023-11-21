@@ -1,0 +1,20 @@
+{
+    "BEL+RUS+163":[
+        [
+            "20220726+../news_crawling/RUS_UKR/p_articles/interfax.com/Council of EU extends Russia sanctions over Ukraine by another 6 months.txt+eventbasecode163+eventcode163+avgtone0.4753086419753087+goldsteinscale0.1+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['sanction:0.422', 'ukraine:0.4174', 'eu:0.2857', 'extend:0.2291', 'renew:0.2092', 'federation:0.1851', 'action:0.1838', 'destabilizing:0.1837', 'month:0.1751', 'restrictive:0.1556', 'response:0.1474', 'diplomatic:0.1433', 'range:0.1266', 'sectoral:0.1243', 'consist:0.1222', 'sevastopol:0.121', 'measure:0.1118', 'travel:0.1105', 'dpr:0.1075', 'finance:0.1024', 'introduce:0.0898', 'decide:0.0893', 'freeze:0.0762', 'entity:0.0738', 'good:0.0675', 'hit:0.0567', 'start:0.0396', 'currently:0.0254', 'special:0.0134', 'dual:0.0112']+titles_keywords+['sanctions:0.3427', 'eu:0.2344', 'months:0.2338', 'extends:0.1929', 'council:0.0813']"
+        ]
+    ],
+    "CAN+RUS+163":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/interfax.com/Canada imposes renewed sanctions on several Russian banks defense finance justice ministers Russian elite members.txt+eventbasecode163+eventcode163+avgtone0.4716312056737588+goldsteinscale0.1+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.003289473684210526+news_keywords+['russia:0.4357', 'sanction:0.4159', 'trudeau:0.2719', 'bank:0.2536', 'canadian:0.2498', 'impose:0.2378', 'export:0.2247', 'revoke:0.215', 'security:0.2051', 'finance:0.2012', 'permit:0.1592', 'renew:0.1571', 'justice:0.1565', 'severe:0.136', 'feb:0.1272', 'prime:0.1132', 'interfax:0.1046', 'number:0.1007', 'washington:0.1007', 'council:0.1', 'target:0.0986', 'speech:0.0852', 'include:0.0833', 'note:0.0655', 'member:0.0611', 'entity:0.058', 'say:0.0579', 'family:0.0567', 'moment:0.0413', 'wagner:0.0317']+titles_keywords+['sanctions:0.4652', 'russian:0.2877', 'trudeau:0.2762', 'banks:0.2358', 'members:0.1178']"
+        ],
+        [
+            "20220520+../news_crawling/RUS_UKR/p_articles/interfax.com/Canada imposes new sanctions on Russia bans export import of luxury goods computer equipment.txt+eventbasecode163+eventcode163+avgtone0.48509933774834435+goldsteinscale0.1+nummentions0.0043541364296081275+numarticles0.00435097897026831+numsources0.006578947368421052+news_keywords+['russia:0.4933', 'sanctions:0.4627', 'nikita:0.3193', 'timchenko:0.2841', 'import:0.254', 'canadian:0.2299', 'restriction:0.2075', 'railways:0.2071', 'kitchenware:0.2069', 'yelena:0.1994', 'list:0.1972', 'businessmen:0.1724', 'luxury:0.1703', 'legal:0.1648', 'military:0.1619', 'product:0.1543', 'tobacco:0.1321', 'uralkhim:0.1299', 'president:0.1236', 'keyboard:0.1222', 'statement:0.1148', 'set:0.094', 'begin:0.0911', 'family:0.0861', 'esn:0.0732', 'charger:0.0664', 'brauning:0.0536', 'head:0.0396', 'earlier:0.037', 'measure:0.0345']+titles_keywords+['sanctions:0.5068', 'canada:0.2904', 'export:0.2349', 'equipment:0.1345', 'new:0.0538']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220620+../news_crawling/RUS_UKR/p_articles/interfax.com/Council of EU renews sanctions imposed on Russia over Crimea for 1 year.txt+eventbasecode163+eventcode163+avgtone0.47277227722772275+goldsteinscale0.1+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimea:0.516', 'annexation:0.3755', 'sanction:0.3698', 'eu:0.3288', 'ban:0.2873', 'impose:0.2847', 'accession:0.233', 'federation:0.2053', 'extend:0.1948', 'sevastopol:0.1784', 'restriction:0.1784', 'prospection:0.1698', 'response:0.1683', 'continue:0.1564', 'import:0.1562', 'council:0.1505', 'production:0.1463', 'illegal:0.1425', 'statement:0.1349', 'measure:0.1327', 'monday:0.1322', 'sector:0.1205', 'include:0.1127', 'recognize:0.1076', 'year:0.1053', 'good:0.1037', 'say:0.0928', 'limit:0.071', 'repeatedly:0.0633', 'telecommunication:0.0621']+titles_keywords+['crimea:0.3986', 'imposed:0.2679', 'renews:0.2391', 'council:0.132', 'year:0.1208']"
+        ]
+    ]
+}

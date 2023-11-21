@@ -1,0 +1,12 @@
+{
+    "BEL+RUS+43":[
+        [
+            "20211118+../news_crawling/RUS_UKR/p_articles/themoscowtimes.com/Kremlin Says Europe Should Not Blame Russia for All Problems.txt+eventbasecode43+eventcode43+avgtone0.4656398104265403+goldsteinscale0.64+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.013157894736842105+news_keywords+['putin:0.4412', 'crimea:0.4297', 'nato:0.3844', 'eu:0.3054', 'blame:0.3053', 'peskov:0.3051', 'border:0.2534', 'invasion:0.2505', 'separatist:0.2455', 'diplomatic:0.2402', 'concern:0.1925', 'sanction:0.1896', 'defend:0.1837', 'briefing:0.164', 'supply:0.1517', 'dispute:0.1486', 'dmytro:0.1456', 'source:0.1394', 'remark:0.1355', 'orchestrate:0.1305', 'exercise:0.1249', 'stay:0.1234', 'everybody:0.1094', 'telephone:0.1024', 'scale:0.1002', 'week:0.0771', 'says:0.0757', 'add:0.0586', 'twice:0.0398', 'welcome:0.026']+titles_keywords+['kremlin:0.4717', 'blame:0.3509', 'europe:0.2348', 'problems:0.0854', 'says:0.0609']"
+        ]
+    ],
+    "CHE+RUS+43":[
+        [
+            "20220112+../news_crawling/RUS_UKR/p_articles/themoscowtimes.com/NATO and Russia Lay Out Stark Differences on Ukraine Crisis.txt+eventbasecode43+eventcode43+avgtone0.5017574692442882+goldsteinscale0.64+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nato:0.5347', 'crimea:0.4356', 'kremlin:0.3876', 'dmitry:0.3007', 'invade:0.2844', 'diplomatically:0.256', 'veto:0.2412', 'espionage:0.2359', 'pact:0.233', 'threat:0.203', 'ally:0.1997', 'expand:0.1927', 'future:0.1725', 'order:0.1686', 'meet:0.1671', 'choose:0.1593', 'subversion:0.1581', 'differences:0.1575', 'turn:0.1504', 'advise:0.1419', 'western:0.1373', 'closer:0.1345', 'ready:0.1288', 'cold:0.1219', 'iron:0.1147', 'general:0.1132', 'week:0.1056', 'state:0.1034', 'reciprocal:0.0758', 'agree:0.0613']+titles_keywords+['nato:0.49', 'ukraine:0.4215', 'differences:0.3279', 'crisis:0.2063', 'stark:0.1069']"
+        ]
+    ]
+}

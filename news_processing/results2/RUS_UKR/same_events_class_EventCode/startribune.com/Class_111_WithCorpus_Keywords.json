@@ -1,0 +1,18 @@
+{
+    "EUR+RUS+111":[
+        []
+    ],
+    "RUS+RUS+111":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/startribune.com/Readers Write Ukraine the freedom to read.txt+eventbasecode111+eventcode111+avgtone0.4887808526551982+goldsteinscale0.4+nummentions0.011248185776487663+numarticles0.011965192168237854+numsources0.039473684210526314+news_keywords+['putin:0.4868', 'crimean:0.4125', 'political:0.3722', 'nation:0.3585', 'read:0.3318', 'crisis:0.3299', 'sanction:0.3116', 'editorial:0.308', 'solidarity:0.3', 'administration:0.2993', 'border:0.2952', 'undermines:0.2926', 'invade:0.2886', 'power:0.2862', 'word:0.2849', 'obamabiden:0.2836', 'report:0.277', 'use:0.2323', 'pipeline:0.2263', 'know:0.2218', 'unfold:0.2214', 'order:0.2158', 'begin:0.2128', 'peninsula:0.1956', 'savvy:0.1921', 'arm:0.1864', 'quote:0.1787', 'magnitude:0.1734', 'th:0.1696', 'welcome:0.1131']+titles_keywords+['readers:0.5395', 'read:0.4873', 'ukraine:0.468', 'write:0.362', 'freedom:0.3526']"
+        ],
+        []
+    ],
+    "RUS+UKR+111":[
+        [],
+        []
+    ],
+    "RUS+WST+111":[
+        []
+    ]
+}

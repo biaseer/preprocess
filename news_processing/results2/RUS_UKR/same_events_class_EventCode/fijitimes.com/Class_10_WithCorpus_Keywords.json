@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/fijitimes.com/Ukraine to pull troops and equipment from UN missions.txt+eventbasecode10+eventcode10+avgtone0.49696969697+goldsteinscale0.5+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.04276315789473684+news_keywords+['peacekeeping:0.5723', 'ukraines:0.4317', 'troop:0.4062', 'demilitarise:0.3891', 'congo:0.3773', 'deploy:0.3466', 'invasion:0.3333', 'repatriation:0.2805', 'operation:0.2452', 'reuters:0.2377', 'helicopter:0.2315', 'monusco:0.2214', 'flee:0.2057', 'pullout:0.2018', 'know:0.1616', 'order:0.1501', 'zelenskiy:0.148', 'involve:0.1468', 'democratic:0.1411', 'recall:0.135', 'western:0.1306', 'notification:0.1295', 'goma:0.1267', 'capability:0.114', 'thousands:0.113', 'denazify:0.1116', 'dwarfed:0.0727', 'woman:0.0675', 'nearly:0.0611', 'week:0.0563']+titles_keywords+['ukraine:0.4476', 'troops:0.3092', 'pull:0.242', 'missions:0.234', 'equipment:0.1023']"
+        ],
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/fijitimes.com/Russia revokes registration of Amnesty and Human Rights Watch.txt+eventbasecode10+eventcode10+avgtone0.47592592592592586+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4703', 'russias:0.4157', 'amnesty:0.3381', 'invasion:0.3362', 'government:0.3057', 'demilitarise:0.2939', 'military:0.2903', 'law:0.2692', 'federation:0.2648', 'reuters:0.2507', 'registration:0.2427', 'rights:0.225', 'allegation:0.2177', 'revoke:0.2144', 'pretext:0.2139', 'organisation:0.2043', 'report:0.1814', 'peace:0.1813', 'hrw:0.1744', 'unjustified:0.1681', 'false:0.1647', 'reject:0.1609', 'include:0.1148', 'new:0.1061', 'say:0.104', 'human:0.096', 'day:0.0952', 'long:0.0939', 'branch:0.0885', 'rosa:0.0687']+titles_keywords+['russia:0.3694', 'amnesty:0.3395', 'revokes:0.2099', 'registration:0.1844', 'watch:0.0586']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "PRT+UKR+130":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/nbcnewyork.com/The Enabler of Russias War Ukraines Top Climate Scientist Lays the Blame on Fossil Fuels.txt+eventbasecode130+eventcode130+avgtone0.47263397947548463+goldsteinscale0.27999999999999997+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['ukraine:0.4615', 'kremlin:0.4076', 'coal:0.3551', 'genocide:0.3067', 'oil:0.2983', 'conflict:0.2503', 'meteorology:0.2355', 'unprovoked:0.2223', 'future:0.2196', 'supply:0.2182', 'coincide:0.2084', 'polar:0.2056', 'president:0.2026', 'change:0.1932', 'scary:0.1917', 'begin:0.1878', 'fossil:0.187', 'dependency:0.1816', 'source:0.178', 'survive:0.1776', 'ipcc:0.1748', 'world:0.1741', 'know:0.1659', 'report:0.1612', 'stage:0.1458', 'study:0.1425', 'like:0.115', 'major:0.1007', 'importing:0.0978', 'highlight:0.0871']+titles_keywords+['fuels:0.3652', 'climate:0.3623', 'ukraines:0.355', 'scientist:0.3287', 'blame:0.3']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/nbcnewyork.com/Is NY Suddenly More Scared of Nuclear Attack Fallout Shelter Near Me Searches Boom.txt+eventbasecode130+eventcode130+avgtone0.46335877862595415+goldsteinscale0.27999999999999997+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['nuclear:0.4819', 'ukraine:0.3843', 'ny:0.2966', 'fallout:0.2952', 'demilitarize:0.2902', 'war:0.2828', 'fear:0.2746', 'concern:0.2731', 'alarm:0.2576', 'vladimir:0.2568', 'threaten:0.2563', 'emergency:0.249', 'shelter:0.2482', 'news:0.2475', 'president:0.2051', 'psa:0.1842', 'report:0.1806', 'know:0.1679', 'dramatically:0.1649', 'world:0.1524', 'likelihood:0.1465', 'begin:0.141', 'landscape:0.1404', 'grow:0.1298', 'february:0.1162', 'public:0.1114', 'nearly:0.1028', 'step:0.0962', 'direct:0.0845', 'underline:0.0185']+titles_keywords+['nuclear:0.4293', 'ny:0.3958', 'shelter:0.3906', 'scared:0.3079', 'searches:0.1718']"
+        ]
+    ]
+}

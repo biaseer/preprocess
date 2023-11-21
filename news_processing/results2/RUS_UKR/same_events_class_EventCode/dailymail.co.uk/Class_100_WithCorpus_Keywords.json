@@ -1,0 +1,17 @@
+{
+    "LVA+RUS+100":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/Is LATVIA in Putins crosshairs Kremlin rants against neoNazis in the Baltic state in chilling.txt+eventbasecode100+eventcode100+avgtone0.48611111111111105+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['latvia:0.4955', 'kremlin:0.4784', 'putins:0.4551', 'vladimir:0.4246', 'nato:0.4208', 'kiev:0.4145', 'rossiya:0.3817', 'invade:0.335', 'political:0.2906', 'border:0.2648', 'brigade:0.2594', 'timesreported:0.2463', 'victory:0.2372', 'relocation:0.2141', 'tyrant:0.2122', 'coincide:0.2107', 'information:0.2092', 'ribbon:0.2072', 'solntsepyok:0.2', 'long:0.1676', 'recent:0.1667', 'advisor:0.1664', 'greets:0.1543', 'crosshairs:0.1479', 'thermobaric:0.1299', 'pull:0.1212', 'yars:0.1112', 'surprising:0.1027', 'alsonot:0.1013', 'population:0.0875']+titles_keywords+['kremlin:0.4907', 'baltic:0.4695', 'threats:0.2831', 'neonazis:0.2675', 'crosshairs:0.1829']"
+        ]
+    ],
+    "POL+RUS+100":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/And the award for worst dressed goes to Naomi Campbell and Lashana Lynch tone down.txt+eventbasecode100+eventcode100+avgtone0.5039941902687001+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['baftas:0.5267', 'ceremony:0.3655', 'showbiz:0.3571', 'dress:0.3498', 'nomination:0.3432', 'uninspired:0.3004', 'nato:0.2855', 'attendee:0.279', 'conflict:0.2785', 'gaga:0.2747', 'glam:0.2725', 'memo:0.2566', 'lviv:0.2556', 'ribbon:0.2524', 'cruise:0.2523', 'unanimously:0.2497', 'source:0.2449', 'predictable:0.2385', 'explosion:0.2341', 'say:0.2285', 'ensemble:0.2258', 'crown:0.2156', 'campbell:0.2124', 'grotesque:0.2081', 'dune:0.2015', 'respectively:0.1954', 'base:0.1848', 'covid:0.1735', 'big:0.1613', 'enjoy:0.1046']+titles_keywords+['baftas:0.5597', 'dress:0.3614', 'glam:0.301', 'naomi:0.298', 'worst:0.2804']"
+        ]
+    ],
+    "RUS+UKR+100":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/This is a massive crime against humanity Trump says we cant let the situation in.txt+eventbasecode100+eventcode100+avgtone0.47483940042826556+goldsteinscale0.25+nummentions0.029753265602322207+numarticles0.030456852791878174+numsources0.10855263157894737+news_keywords+['putin:0.453', 'nato:0.4236', 'ceasefire:0.416', 'kyiv:0.3969', 'invade:0.3454', 'flag:0.3191', 'evacuation:0.3188', 'sanction:0.3043', 'conflict:0.3039', 'rhetoric:0.2883', 'escalate:0.2864', 'nation:0.2463', 'bipartisan:0.2212', 'besiege:0.2181', 'horrific:0.2143', 'attention:0.2126', 'like:0.2031', 'volodymy:0.203', 'help:0.191', 'adviser:0.1861', 'happen:0.1838', 'torepublican:0.1802', 'general:0.151', 'area:0.1495', 'chinese:0.1495', 'include:0.1413', 'promised:0.1309', 'state:0.1272', 'counter:0.1154', 'week:0.1068']+titles_keywords+['nato:0.4567', 'inaction:0.2643', 'trump:0.2634', 'says:0.1658', 'massive:0.1186']"
+        ]
+    ]
+}

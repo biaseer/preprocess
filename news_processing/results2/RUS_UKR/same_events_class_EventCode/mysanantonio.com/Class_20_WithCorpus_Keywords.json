@@ -1,0 +1,10 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/mysanantonio.com/Russian propaganda outgunned by social media rebuttals.txt+eventbasecode20+eventcode20+avgtone0.4745529573590097+goldsteinscale0.65+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.019736842105263157+news_keywords+['propaganda:0.5438', 'putin:0.4721', 'ukraine:0.4552', 'zelensky:0.3876', 'papadopoulos:0.3212', 'news:0.3087', 'sputnik:0.3035', 'novosti:0.2816', 'telegram:0.2781', 'translate:0.2743', 'invasion:0.2722', 'donald:0.2614', 'globe:0.2609', 'volodymyr:0.2554', 'google:0.2374', 'capital:0.2325', 'publish:0.2315', 'conflict:0.2313', 'flee:0.22', 'forefront:0.2012', 'meddle:0.1959', 'remove:0.1946', 'distort:0.1931', 'ammunition:0.1679', 'begin:0.1561', 'rebuttal:0.1501', 'make:0.1481', 'story:0.1334', 'praise:0.1295', 'week:0.0886']+titles_keywords+['propaganda:0.5846', 'rebuttals:0.4725', 'russian:0.3693', 'outgunned:0.3381', 'social:0.2801']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        []
+    ]
+}

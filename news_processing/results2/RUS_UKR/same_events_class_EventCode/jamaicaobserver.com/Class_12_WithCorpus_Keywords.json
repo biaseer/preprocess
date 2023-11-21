@@ -1,0 +1,13 @@
+{
+    "RUS+UKR+12":[
+        [],
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/jamaicaobserver.com/Money Anxiety.txt+eventbasecode12+eventcode12+avgtone0.5036674816625917+goldsteinscale0.48+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['finance:0.4599', 'future:0.3369', 'health:0.3177', 'retire:0.316', 'midterm:0.3067', 'worried:0.3043', 'saving:0.2987', 'plan:0.2915', 'pandemic:0.2868', 'budget:0.2709', 'crisis:0.2688', 'achieve:0.2607', 'travel:0.26', 'workforce:0.2483', 'progress:0.2473', 'reality:0.2365', 'avoid:0.2251', 'family:0.2177', 'talk:0.2064', 'priority:0.2048', 'lifes:0.2022', 'stuck:0.1966', 'complicate:0.1934', 'monthly:0.1918', 'onset:0.1692', 'global:0.1588', 'freefall:0.1561', 'list:0.1456', 'outlook:0.1339', 'whilst:0.0985']+titles_keywords+['anxiety:0.5939', 'money:0.477']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220209+../news_crawling/RUS_UKR/p_articles/jamaicaobserver.com/Macron Putin told him Russia wont escalate Ukraine crisis.txt+eventbasecode12+eventcode12+avgtone0.4779507133592737+goldsteinscale0.48+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.4422', 'putin:0.4389', 'diplomacy:0.436', 'nato:0.3979', 'macron:0.375', 'escalation:0.3624', 'invade:0.3239', 'separatist:0.2457', 'agreement:0.2257', 'manoeuvre:0.2133', 'ignore:0.1854', 'know:0.1828', 'vasile:0.181', 'prepare:0.1801', 'news:0.168', 'write:0.161', 'visit:0.1566', 'drill:0.1521', 'continue:0.1512', 'exchange:0.1472', 'tu:0.1414', 'range:0.1356', 'general:0.1251', 'pipeline:0.122', 'oust:0.1202', 'week:0.1201', 'flank:0.1199', 'long:0.1156', 'wont:0.1088', 'current:0.0993']+titles_keywords+['putin:0.4562', 'macron:0.4168', 'escalate:0.275', 'crisis:0.1831', 'wont:0.1568']"
+        ]
+    ]
+}

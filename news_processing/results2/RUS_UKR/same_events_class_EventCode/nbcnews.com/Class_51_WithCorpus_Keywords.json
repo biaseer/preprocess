@@ -1,0 +1,17 @@
+{
+    "DEU+RUS+51":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/nbcnews.com/How the war with Ukraine could color Victory Day in Russia this year.txt+eventbasecode51+eventcode51+avgtone0.49282296650717705+goldsteinscale0.67+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['ukraines:0.4895', 'crimean:0.4731', 'putin:0.3963', 'commemorate:0.322', 'petersburg:0.2943', 'zelenskky:0.2665', 'separatist:0.2478', 'pageantry:0.2459', 'political:0.2357', 'insurgency:0.2197', 'result:0.2068', 'tank:0.2064', 'red:0.2057', 'flag:0.1877', 'embolden:0.1778', 'northern:0.1703', 'overcame:0.1671', 'annex:0.1657', 'april:0.163', 'fight:0.1629', 'contrast:0.1624', 'morning:0.1558', 'big:0.1273', 'true:0.1203', 'say:0.1189', 'follow:0.114', 'study:0.1054', 'alongside:0.1032', 'population:0.0867', 'hardware:0.0408']+titles_keywords+['ukraine:0.4878', 'victory:0.3694', 'war:0.368', 'color:0.215', 'year:0.1773']"
+        ]
+    ],
+    "EUR+UKR+51":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/nbcnews.com/Zelenskyy gets standing ovation after speech to European Parliament Nobody is going to break us.txt+eventbasecode51+eventcode51+avgtone0.5021276595744681+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5196', 'zelenskyy:0.4708', 'volodymyr:0.312', 'parliament:0.3041', 'speech:0.2879', 'bloc:0.2574', 'union:0.2443', 'translator:0.2316', 'applaud:0.231', 'impassioned:0.2268', 'lengthy:0.2251', 'know:0.2217', 'strong:0.215', 'come:0.2077', 'fight:0.2025', 'admission:0.2001', 'underway:0.1959', 'survival:0.195', 'president:0.1914', 'prove:0.1758', 'ban:0.1611', 'today:0.1507', 'quite:0.1476', 'exactly:0.1387', 'dozen:0.1255', 'highlight:0.1228', 'thats:0.1197', 'everybody:0.1182', 'receive:0.1112', 'measure:0.1058']+titles_keywords+['zelenskyy:0.5311', 'ovation:0.3591', 'speech:0.2933', 'break:0.231', 'european:0.177']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220210+../news_crawling/RUS_UKR/p_articles/nbcnews.com/US intel Nine probable Russian routes into Ukraine in fullscale invasion.txt+eventbasecode51+eventcode51+avgtone0.4754901960784314+goldsteinscale0.67+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraines:0.4055', 'putin:0.3629', 'invade:0.3487', 'odessa:0.246', 'tactical:0.2443', 'scenario:0.2205', 'chernobyl:0.2172', 'incoming:0.1852', 'correspondent:0.1809', 'analysis:0.1702', 'azov:0.1661', 'infrastructure:0.164', 'extensive:0.1461', 'simultaneous:0.1399', 'hour:0.1333', 'swath:0.1306', 'know:0.1199', 'north:0.1103', 'donbas:0.1019', 'follow:0.0928', 'physically:0.0924', 'official:0.0831', 'install:0.081', 'array:0.0733', 'line:0.0716', 'focus:0.0677', 'nearly:0.0669', 'degrade:0.0472', 'dnipro:0.0445', 'doesnt:0.0303']+titles_keywords+['ukraine:0.3855', 'invasion:0.3793', 'routes:0.2894', 'probable:0.116', 'fullscale:0.0966']"
+        ]
+    ]
+}

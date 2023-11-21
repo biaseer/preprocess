@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+30":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/Sensex surges 679 points on signs of deescalation in RussiaUkraine conflict.txt+eventbasecode30+eventcode30+avgtone0.498220640569395+goldsteinscale0.7+nummentions0.2663280116110305+numarticles0.2668600435097897+numsources0.18092105263157895+news_keywords+['sensex:0.6382', 'icici:0.36', 'stock:0.3466', 'surge:0.3158', 'bse:0.2795', 'india:0.2645', 'conflict:0.2532', 'kyiv:0.2529', 'escalation:0.2331', 'index:0.2167', 'point:0.2072', 'financial:0.1989', 'exchange:0.1921', 'gain:0.1856', 'axis:0.1839', 'soar:0.1731', 'global:0.173', 'sp:0.1723', 'day:0.1712', 'nifty:0.1637', 'tata:0.1604', 'benchmark:0.1567', 'strong:0.1374', 'deescalation:0.1343', 'cue:0.1314', 'start:0.1226', 'troop:0.0973', 'amid:0.0928', 'previous:0.0826', 'tracking:0.064']+titles_keywords+['sensex:0.4869', 'surges:0.3037', 'deescalation:0.2143', '679:0.2121', 'russiaukraine:0.1996']"
+        ]
+    ],
+    "TUR+RUS+30":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/What the Montreux Convention is and what it means for the Ukraine war.txt+eventbasecode30+eventcode30+avgtone0.49021526418786693+goldsteinscale0.7+nummentions0.038461538461538464+numarticles0.03915881073241479+numsources0.029605263157894735+news_keywords+['nato:0.4209', 'warships:0.3632', 'ukraine:0.3213', 'bosporus:0.2915', 'convention:0.2496', 'montreux:0.2388', 'dardanelles:0.2013', 'port:0.1996', 'seagoing:0.1946', 'allow:0.186', 'turkish:0.1807', 'peace:0.1627', 'strait:0.1596', 'regarding:0.1503', 'passage:0.1486', 'element:0.1362', 'construct:0.1341', 'axis:0.1331', 'belligerent:0.1256', 'claim:0.1148', 'set:0.0939', 'control:0.0939', 'notify:0.09', 'current:0.09', 'strengthen:0.072', 'purchased:0.0706', 'feb:0.0616', 'resolution:0.0579', 'highlight:0.0478', 'limit:0.0037']+titles_keywords+['montreux:0.4109', 'ukraine:0.3967', 'war:0.3218', 'convention:0.3204', 'means:0.0941']"
+        ]
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "BEL+UKR+17":[
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/voanews.com/Zelenskyy Says Ukraine Will Fight Until the End.txt+eventbasecode17+eventcode17+avgtone0.48788368336025845+goldsteinscale0.5+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.029605263157894735+news_keywords+['ukraine:0.4778', 'zelenskyy:0.3522', 'separatist:0.3137', 'conflict:0.277', 'annexed:0.2659', 'reconnaissance:0.2556', 'victory:0.2519', 'government:0.2481', 'announce:0.2304', 'want:0.2244', 'fund:0.2191', 'secure:0.2096', 'long:0.2077', 'battlefront:0.2055', 'supply:0.2055', 'capital:0.1902', 'help:0.1885', 'donbas:0.1743', 'additional:0.1721', 'term:0.1716', 'hope:0.1677', 'general:0.1561', 'avert:0.1464', 'end:0.1451', 'month:0.1451', 'billion:0.1388', 'says:0.11', 'child:0.108', 'largely:0.0827', 'micro:0.0818']+titles_keywords+['zelenskyy:0.5526', 'ukraine:0.3763', 'fight:0.3045', 'end:0.2553', 'says:0.1048']"
+        ]
+    ],
+    "UKR+RUS+17":[
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/voanews.com/Flashpoint Ukraine.txt+eventbasecode17+eventcode17+avgtone0.48863636363636365+goldsteinscale0.5+nummentions0.027213352685050797+numarticles0.027918781725888325+numsources0.039473684210526314+news_keywords+['ukraine:0.5342', 'ukrainian:0.5122', 'zelenskyy:0.4204', 'russian:0.3899', 'war:0.376', 'celebrate:0.33', 'independence:0.3299', 'victory:0.2981', 'fight:0.2783', 'month:0.2666', 'european:0.2449', 'aggression:0.2412', 'flashpoint:0.2111', 'leader:0.2009', 'day:0.1895', 'continue:0.1834', 'country:0.1777', 'president:0.1742', 'support:0.1622', 'tell:0.1602', 'message:0.1496', 'end:0.1375', 'mark:0.1259', 'st:0.1203', 'send:0.1189']+titles_keywords+['ukraine:0.6076', 'flashpoint:0.5759']",
+            "20220824+../news_crawling/RUS_UKR/p_articles/voanews.com/6 Months Since Russia Invaded Ukraine Experts See Global Impact.txt+eventbasecode17+eventcode17+avgtone0.4384615384615385+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.529', 'russias:0.3398', 'invasion:0.3291', 'zaporizhzhya:0.3217', 'nuclear:0.2939', 'fallout:0.2644', 'refugee:0.2616', 'danger:0.254', 'correspondent:0.2475', 'months:0.2398', 'conflict:0.2279', 'diplomatic:0.219', 'impact:0.1954', 'report:0.1838', 'nations:0.183', 'anniversary:0.1661', 'millions:0.1573', 'power:0.1544', 'experts:0.1474', 'world:0.1338', 'plant:0.1231', 'flee:0.114', 'plummet:0.0895', 'export:0.0752', 'voas:0.0742', 'cindy:0.0662', 'maximum:0.0525', 'face:0.0521', 'united:0.0332', 'saine:-0.0104']+titles_keywords+['ukraine:0.4671', 'invaded:0.3293', 'impact:0.2723', 'global:0.2068', 'months:0.2021']"
+        ]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "GBR+RUS+190":[
+        []
+    ],
+    "RUS+RUS+190":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/theguardian.com/A window barricaded by books in Kyiv Photograph Lev ShevenkoA window barricaded by books in.txt+eventbasecode190+eventcode190+avgtone0.49380165289256195+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5106', 'soviet:0.4444', 'putins:0.3791', 'books:0.2968', 'war:0.2925', 'infrastructure:0.2906', 'evacuate:0.2876', 'authoritarian:0.2857', 'cultural:0.283', 'publish:0.2794', 'translation:0.2727', 'barricade:0.2692', 'researcher:0.2632', 'coronavirus:0.257', 'ilya:0.2567', 'orphanage:0.2522', 'arrange:0.2443', 'neighbours:0.2286', 'use:0.222', 'emergence:0.214', 'begin:0.1946', 'live:0.1905', 'zhadan:0.1812', 'population:0.172', 'painting:0.1716', 'evidence:0.1666', 'idea:0.1587', 'focus:0.1328', 'relatively:0.0852', 'thanks:0.0679']+titles_keywords+['kyiv:0.4407', 'barricaded:0.4214', 'window:0.3801', 'books:0.3791', 'lev:0.2577']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [],
+        [],
+        [],
+        [
+            "20220624+../news_crawling/RUS_UKR/p_articles/theguardian.com/The governor of Luhansk Serhiy Haidai said troops in the city had already received the.txt+eventbasecode190+eventcode190+avgtone0.47897196261682246+goldsteinscale0.0+nummentions0.019593613933236574+numarticles0.02030456852791878+numsources0.029605263157894735+news_keywords+['kyiv:0.5159', 'kremlin:0.3904', 'troops:0.2851', 'victory:0.27', 'reuters:0.2645', 'retreat:0.2578', 'demolish:0.25', 'predict:0.2451', 'advance:0.2449', 'stay:0.2341', 'sievierodonetsk:0.2266', 'east:0.2248', 'separatist:0.2194', 'turn:0.2192', 'governor:0.2191', 'ilko:0.2112', 'pull:0.2017', 'soon:0.1947', 'order:0.1915', 'long:0.1889', 'fall:0.1811', 'donbas:0.1803', 'neighbouring:0.1768', 'main:0.1663', 'observer:0.1541', 'electrical:0.1444', 'substantial:0.1412', 'nearly:0.14', 'focus:0.1309', 'doesnt:0.0681']+titles_keywords+['luhansk:0.3702', 'troops:0.306', 'governor:0.2772', 'order:0.2603', 'received:0.1981']"
+        ],
+        []
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/theguardian.com/Russias Major General Vitalii Gerasimov whom Ukraine claims to have killed outside Kharkiv Photograph Wikimedia.txt+eventbasecode190+eventcode190+avgtone0.4814285714285714+goldsteinscale0.0+nummentions0.04716981132075472+numarticles0.047860768672951415+numsources0.046052631578947366+news_keywords+['crimea:0.4917', 'putin:0.4905', 'ukrainian:0.4603', 'russias:0.4217', 'andrei:0.3615', 'gerasimovs:0.3575', 'invasion:0.3014', 'kharkiv:0.2965', 'military:0.2878', 'operation:0.2533', 'journalism:0.2382', 'general:0.2315', 'chechen:0.2279', 'intercept:0.2276', 'fsb:0.2151', 'executive:0.21', 'volodymyr:0.1995', 'secure:0.1966', 'death:0.1887', 'fight:0.1731', 'source:0.1701', 'rank:0.1673', 'accuse:0.1649', 'introduce:0.1594', 'hear:0.1463', 'confirm:0.1252', 'major:0.1083', 'like:0.0938', 'tuesday:0.0909', 'longer:0.0712']+titles_keywords+['ukraine:0.5121', 'gerasimov:0.4573', 'kharkiv:0.412', 'general:0.2331', 'killed:0.1973']",
+            "20220309+../news_crawling/RUS_UKR/p_articles/theguardian.com/A destroyed Russian armoured vehicle in Borodianka Ukraine Photograph Ceng Shou YiNurPhotoRexShutterstockA destroyed Russian armoured.txt+eventbasecode190+eventcode190+avgtone0.4674556213017752+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kremlin:0.4568', 'ukrainian:0.4347', 'russias:0.3903', 'regiment:0.3862', 'peskov:0.3585', 'paratrooper:0.3392', 'war:0.3174', 'armoured:0.3012', 'casualty:0.2839', 'die:0.2086', 'statistic:0.2034', 'cite:0.1949', 'intercept:0.1912', 'discharge:0.1901', 'vdv:0.1885', 'unverified:0.172', 'publish:0.168', 'th:0.1678', 'undershirt:0.1664', 'ranking:0.1508', 'accuse:0.1497', 'photographs:0.1353', 'istories:0.1351', 'according:0.1325', 'shou:0.1222', 'huge:0.1174', 'month:0.1091', 'theyre:0.1023', 'add:0.067', 'confirmed:0.0659']+titles_keywords+['armoured:0.4667', 'borodianka:0.4379', 'vehicle:0.4008', 'ukraine:0.3799', 'shou:0.1103']"
+        ],
+        [
+            "20220821+../news_crawling/RUS_UKR/p_articles/theguardian.com/0101Daughter of Putin ally Alexander Dugin killed by car bomb in Moscow video.txt+eventbasecode190+eventcode190+avgtone0.47438633938100316+goldsteinscale0.0+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['kremlin:0.5546', 'kyiv:0.4791', 'terrorist:0.4206', 'zakharova:0.3452', 'conspiracy:0.339', 'government:0.3325', 'investigations:0.2965', 'news:0.2889', 'ponomarevs:0.2845', 'explode:0.2811', 'duma:0.2623', 'overthrow:0.2537', 'tensions:0.2409', 'deadly:0.2402', 'rightwing:0.2314', 'subject:0.221', 'pretext:0.2145', 'warn:0.2095', 'rt:0.201', 'coincide:0.1951', 'dugin:0.1948', 'airspace:0.1711', 'believe:0.1546', 'scene:0.1417', 'make:0.1416', 'world:0.1312', 'house:0.1006', 'true:0.1003', 'far:0.0975', 'verified:0.094']+titles_keywords+['putin:0.3906', 'dugin:0.3718', 'bomb:0.3437', 'killed:0.3006', '0101daughter:0.2188']"
+        ]
+    ]
+}

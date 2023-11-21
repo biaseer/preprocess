@@ -1,0 +1,15 @@
+{
+    "POL+UKR+42":[
+        [
+            "20220630+../news_crawling/RUS_UKR/p_articles/thefirstnews.com/Poland accepts 443 mln refugees since war in Ukraine started.txt+eventbasecode42+eventcode42+avgtone0.4878048780487805+goldsteinscale0.595+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['refugee:0.429', 'poland:0.3904', 'ukraine:0.3811', 'ukrainian:0.372', 'polish:0.3643', 'war:0.2554', 'russia:0.2457', 'invade:0.2388', 'border:0.2281', 'enter:0.1731', 'officer:0.1455', 'accept:0.1436', 'crossed:0.1241', 'people:0.1224', 'number:0.1197', 'arrival:0.1144', 'carry:0.1115', 'february:0.1084', 'thursday:0.1073', 'start:0.1065', 'guard:0.1054', 'mln:0.105', 'wednesday:0.0718', 'million:0.0655', 'tweet:0.0566', 'check:0.046', 'morning:0.0328', 'according:0.022', 'reach:0.0095', 'sg:-0.0244']+titles_keywords+['refugees:0.4889', 'poland:0.4617', '443:0.3164', 'mln:0.1191', 'accepts:0.109']"
+        ],
+        [
+            "20220709+../news_crawling/RUS_UKR/p_articles/thefirstnews.com/Poland accepts 464 mln refugees since war in Ukraine started.txt+eventbasecode42+eventcode42+avgtone0.4852941176470588+goldsteinscale0.595+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['refugee:0.4007', 'poland:0.3881', 'ukraine:0.3599', 'polish:0.3513', 'ukrainian:0.3457', 'war:0.271', 'invade:0.2418', 'border:0.2082', 'enter:0.1629', 'accept:0.1374', 'officer:0.1365', 'crossed:0.1171', 'people:0.1147', 'carry:0.1123', 'start:0.1085', 'february:0.1038', 'number:0.1037', 'arrival:0.0936', 'guard:0.0923', 'mln:0.0847', 'saturday:0.0834', 'tweet:0.0556', 'left:0.0542', 'million:0.0529', 'check:0.0467', 'morning:0.026', 'according:0.0212', 'reach:-0.0018', 'sg:-0.0347', 'say:-0.0385']+titles_keywords+['refugees:0.4735', 'poland:0.4517', '464:0.2301', 'mln:0.1199', 'accepts:0.1113']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220828+../news_crawling/RUS_UKR/p_articles/thefirstnews.com/Poland will defend its homeland says Polish MoD.txt+eventbasecode42+eventcode42+avgtone0.4877450980392157+goldsteinscale0.595+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.0+news_keywords+['poland:0.4939', 'baszczak:0.4084', 'kyiv:0.3837', 'bolsheviks:0.3205', 'russian:0.3046', 'defend:0.2875', 'invasion:0.2552', 'occupy:0.2522', 'sniatycka:0.203', 'commemorate:0.2024', 'cavalry:0.1979', 'threat:0.1778', 'komarw:0.1755', 'visit:0.1644', 'allow:0.164', 'westward:0.1598', 'homeland:0.1571', 'know:0.1481', 'irpin:0.1431', 'response:0.1427', 'wolica:0.1329', 'statement:0.1328', 'inch:0.1316', 'perseverance:0.1179', 'want:0.1113', 'ongoing:0.0976', 'soil:0.0897', 'sunday:0.0835', 'minister:0.075', 'make:0.0611']+titles_keywords+['poland:0.4895', 'defend:0.3753', 'homeland:0.2318', 'mod:0.1509', 'says:0.0038']"
+        ]
+    ]
+}

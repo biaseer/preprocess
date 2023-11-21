@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+130":[
+        [
+            "20211130+../news_crawling/RUS_UKR/p_articles/cambridge-news.co.uk/UK issues Ukraine warning to Russias Vladimir Putin.txt+eventbasecode130+eventcode130+avgtone0.48863636363636365+goldsteinscale0.27999999999999997+nummentions0.03483309143686502+numarticles0.03553299492385787+numsources0.029605263157894735+news_keywords+['natos:0.5141', 'crimea:0.4927', 'putin:0.4485', 'strategic:0.3071', 'undermine:0.2894', 'intervened:0.2734', 'invasion:0.2611', 'provocation:0.2573', 'pursue:0.2331', 'safeguard:0.231', 'ahead:0.2307', 'worry:0.2303', 'agenda:0.212', 'stability:0.1985', 'news:0.1819', 'forge:0.1754', 'secretary:0.1609', 'want:0.1586', 'respond:0.1529', 'meet:0.1527', 'freedom:0.1353', 'playbook:0.1343', 'roundups:0.1295', 'enhance:0.1242', 'eastern:0.1237', 'world:0.1051', 'truss:0.1044', 'false:0.1021', 'frankly:0.0999', 'encircle:0.0811']+titles_keywords+['ukraine:0.4123', 'putin:0.3851', 'warning:0.3215', 'vladimir:0.3095', 'issues:-0.0076']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/cambridge-news.co.uk/Ukraine officials flee to bomb shelter during shelling attack as invasion fears grow.txt+eventbasecode130+eventcode130+avgtone0.4620991253644315+goldsteinscale0.27999999999999997+nummentions0.3076923076923077+numarticles0.30819434372733867+numsources0.7203947368421053+news_keywords+['ukraine:0.4684', 'putin:0.4355', 'invade:0.389', 'evacuate:0.3332', 'peaceful:0.3145', 'separatist:0.3012', 'conflict:0.2817', 'escalate:0.2737', 'mobilisation:0.2634', 'frontline:0.2498', 'warn:0.2497', 'boris:0.2386', 'border:0.2366', 'president:0.2334', 'news:0.2281', 'accompany:0.2186', 'know:0.2096', 'want:0.2036', 'volodymyr:0.1957', 'react:0.1606', 'cover:0.1553', 'cite:0.1516', 'saturday:0.1504', 'sure:0.1476', 'office:0.139', 'long:0.1368', 'estimate:0.136', 'look:0.1297', 'child:0.1174', 'alike:0.1081']+titles_keywords+['flee:0.3452', 'ukraine:0.3259', 'invasion:0.3078', 'fears:0.2436', 'bomb:0.219']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+70":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/ndtv.com/Ukraine Legalised Cryptocurrency Just Days Before Russian Invasion What It Means.txt+eventbasecode70+eventcode70+avgtone0.5+goldsteinscale0.85+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['cryptocurrency:0.5324', 'ukraine:0.4885', 'economy:0.2844', 'ether:0.2753', 'secure:0.2601', 'crowdfund:0.2555', 'legislation:0.2483', 'fedorov:0.2461', 'invasion:0.2294', 'usdt:0.218', 'conflict:0.2138', 'ngos:0.2109', 'military:0.1959', 'people:0.1855', 'link:0.1627', 'transformation:0.1616', 'ahead:0.1601', 'analytics:0.1529', 'month:0.1449', 'begin:0.1438', 'alternative:0.1427', 'accept:0.1412', 'million:0.1366', 'intermediary:0.1345', 'world:0.1178', 'tweet:0.1162', 'like:0.1074', 'digital:0.1004', 'track:0.0519', 'significantly:0.0489']+titles_keywords+['ukraine:0.447', 'cryptocurrency:0.4021', 'legalised:0.2674', 'invasion:0.2566', 'days:0.1134']"
+        ],
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/ndtv.com/KFC In Australia To Serve Cabbage Instead Of Lettuce Heres Why.txt+eventbasecode70+eventcode70+avgtone0.4731543624161074+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['cabbage:0.5258', 'lettuce:0.3944', 'kfc:0.3754', 'food:0.2919', 'shortage:0.2716', 'farmer:0.2382', 'poultry:0.2247', 'fried:0.2001', 'qld:0.1988', 'disruption:0.1913', 'cause:0.19', 'instead:0.1849', 'coronavirus:0.1842', 'product:0.1764', 'recipe:0.1713', 'american:0.1528', 'iceberg:0.1387', 'simply:0.1376', 'act:0.1294', 'wrap:0.125', 'housing:0.1153', 'world:0.1107', 'dollar:0.0986', 'usual:0.0951', 'skyrocket:0.0916', 'asap:0.0805', 'rs:0.0767', 'customise:0.0738', 'year:0.066', 'apologies:0.0565']+titles_keywords+['cabbage:0.5439', 'kfc:0.4661', 'instead:0.2174', 'australia:0.2161', 'serve:0.1774']"
+        ]
+    ]
+}

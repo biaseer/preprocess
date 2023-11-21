@@ -1,0 +1,15 @@
+{
+    "RUS+TUR+164":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/hppr.org/Negotiators from Russia and Ukraine meet face to face for the first time in weeks.txt+eventbasecode164+eventcode164+avgtone0.5+goldsteinscale0.15+nummentions0.06567489114658925+numarticles0.06635242929659173+numsources0.11842105263157894+news_keywords+['crimea:0.4645', 'negotiators:0.3523', 'erdogan:0.3397', 'war:0.338', 'nato:0.3205', 'talk:0.251', 'want:0.2377', 'zelenskyy:0.2369', 'escalate:0.224', 'table:0.216', 'planning:0.2093', 'ok:0.1936', 'security:0.1882', 'concession:0.1857', 'news:0.185', 'implement:0.1771', 'respond:0.1729', 'hold:0.1672', 'corridor:0.1657', 'mutual:0.1641', 'capital:0.1631', 'study:0.1531', 'dutch:0.1515', 'begin:0.1506', 'forward:0.1499', 'separate:0.1245', 'exactly:0.1166', 'complete:0.1162', 'set:0.1123', 'bit:0.074']+titles_keywords+['negotiators:0.4953', 'ukraine:0.3428', 'meet:0.3103', 'weeks:0.1461', 'face:0.12']"
+        ]
+    ],
+    "RUS+UKR+164":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/hppr.org/A look inside the war in Ukraine from the capital city of Kyiv.txt+eventbasecode164+eventcode164+avgtone0.5+goldsteinscale0.15+nummentions0.10595065312046444+numarticles0.1065989847715736+numsources0.11842105263157894+news_keywords+['kyiv:0.606', 'russians:0.3858', 'war:0.3682', 'evacuate:0.3034', 'capital:0.2806', 'tank:0.2326', 'watch:0.2137', 'checkpoint:0.2088', 'talk:0.2083', 'happen:0.2025', 'arrive:0.1901', 'continue:0.1888', 'siren:0.1824', 'night:0.1775', 'want:0.1774', 'pummel:0.175', 'western:0.1679', 'heard:0.1634', 'note:0.1577', 'far:0.154', 'shot:0.1522', 'cop:0.1434', 'building:0.1311', 'direct:0.1306', 'irpin:0.1218', 'state:0.1173', 'largely:0.1124', 'official:0.1114', 'million:0.0999', 'thank:0.0861']+titles_keywords+['kyiv:0.6205', 'war:0.4399', 'capital:0.3108', 'inside:0.1795', 'look:0.1719']"
+        ],
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/hppr.org/Russia calls peace talks a dead end as it preps a new offensive in eastern.txt+eventbasecode164+eventcode164+avgtone0.4591836734693875+goldsteinscale0.15+nummentions0.07474600870827286+numarticles0.07541696881798404+numsources0.06578947368421052+news_keywords+['crimea:0.4778', 'nato:0.4187', 'ukrainians:0.4146', 'putin:0.3655', 'invade:0.3441', 'troop:0.3156', 'zelenskyy:0.3091', 'frontline:0.3062', 'strategic:0.2763', 'artillery:0.2701', 'prepare:0.2496', 'oligarch:0.2443', 'know:0.24', 'fight:0.2395', 'soon:0.2394', 'predict:0.2317', 'organization:0.1889', 'peace:0.1868', 'end:0.1809', 'help:0.17', 'npr:0.1466', 'port:0.1404', 'grow:0.139', 'allegation:0.1335', 'hi:0.1291', 'new:0.1232', 'estrin:0.1158', 'photograph:0.1131', 'achievable:0.1098', 'rotate:0.1033']+titles_keywords+['ukraine:0.293', 'end:0.2785', 'peace:0.2651', 'dead:0.1757', 'preps:0.077']"
+        ]
+    ]
+}

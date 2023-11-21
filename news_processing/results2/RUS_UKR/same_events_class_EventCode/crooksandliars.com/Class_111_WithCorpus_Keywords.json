@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20220809+../news_crawling/RUS_UKR/p_articles/crooksandliars.com/Karma Comes For Russian Woman Mocking Ukrainian Refugees Fck Your Ukraine.txt+eventbasecode111+eventcode111+avgtone0.4612903225806451+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4571', 'deportation:0.419', 'refugee:0.417', 'propaganda:0.3948', 'harass:0.3442', 'karma:0.3277', 'woman:0.2815', 'salzburg:0.2553', 'stay:0.2047', 'hell:0.1997', 'fck:0.1981', 'telegram:0.1959', 'street:0.1928', 'occur:0.1915', 'social:0.1867', 'nonsense:0.1844', 'capital:0.1762', 'pseudonym:0.1752', 'awful:0.1613', 'tell:0.1601', 'video:0.1541', 'visegrd:0.1481', 'mock:0.1385', 'rail:0.1365', 'pic:0.0919', 'likely:0.084', 'phrase:0.082', 'august:0.0811', 'big:0.0806', 'young:0.0756']+titles_keywords+['ukraine:0.5057', 'karma:0.3398', 'mocking:0.2687', 'woman:0.2585', 'fck:0.2462']"
+        ]
+    ],
+    "RUS+USA+111":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/crooksandliars.com/Visa And Mastercard Suspend Russian Operations Effective Immediately.txt+eventbasecode111+eventcode111+avgtone0.47606382978723405+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['russia:0.4527', 'ukrainians:0.3617', 'invasion:0.2954', 'visa:0.2657', 'sanction:0.2519', 'business:0.2511', 'mastercard:0.2383', 'exit:0.2232', 'unprovoked:0.2198', 'zelensky:0.219', 'concern:0.2142', 'cite:0.1977', 'increasingly:0.1932', 'pipeline:0.1877', 'president:0.1857', 'know:0.1832', 'global:0.1832', 'arrive:0.1817', 'pull:0.1744', 'update:0.1684', 'event:0.1589', 'unprecedented:0.1589', 'pause:0.1532', 'wont:0.1236', 'list:0.1198', 'usual:0.1067', 'completely:0.1048', 'million:0.1038', 'pariah:0.093', 'pretty:0.0673']+titles_keywords+['mastercard:0.3598', 'russian:0.2791', 'visa:0.2463', 'suspend:0.225', 'immediately:0.0926']"
+        ]
+    ]
+}

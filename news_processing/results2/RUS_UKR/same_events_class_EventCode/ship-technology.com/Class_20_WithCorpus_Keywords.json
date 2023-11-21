@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/ship-technology.com/War in Ukraine European companies increase Russian gas orders.txt+eventbasecode20+eventcode20+avgtone0.48849104859335035+goldsteinscale0.65+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['ukraine:0.4745', 'gas:0.3223', 'war:0.2974', 'pipeline:0.2899', 'gazprom:0.2825', 'supply:0.2785', 'surge:0.2525', 'strategic:0.2332', 'glencore:0.2186', 'increase:0.2125', 'bloombergnef:0.2113', 'buy:0.2071', 'concern:0.2063', 'news:0.2058', 'data:0.1702', 'gmt:0.1607', 'brent:0.1574', 'import:0.1545', 'month:0.1544', 'cite:0.1478', 'long:0.1297', 'term:0.1269', 'additional:0.1265', 'range:0.1262', 'report:0.1127', 'imagine:0.1122', 'look:0.1026', 'accord:0.0685', 'agree:0.0669', 'nearly:0.053']+titles_keywords+['ukraine:0.4717', 'war:0.3111', 'orders:0.2796', 'gas:0.2784', 'increase:0.1923']"
+        ]
+    ],
+    "RUS+EUR+20":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/ship-technology.com/Opinion why it is essential that SWIFT ejects Russia.txt+eventbasecode20+eventcode20+avgtone0.49705882352941183+goldsteinscale0.65+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['swift:0.41', 'russia:0.3829', 'bank:0.3543', 'transact:0.3042', 'cooperative:0.2874', 'communicate:0.2655', 'secure:0.258', 'global:0.242', 'organisation:0.2355', 'headquarter:0.2101', 'exporters:0.208', 'cross:0.1922', 'telex:0.1876', 'sanction:0.186', 'undermine:0.1805', 'require:0.1793', 'technology:0.1549', 'unprovoked:0.153', 'diversity:0.1495', 'ecosystem:0.1453', 'brief:0.1287', 'word:0.116', 'fast:0.108', 'completely:0.1031', 'opinion:0.101', 'live:0.0946', 'fall:0.0859', 'value:0.0857', 'hour:0.0467', 'dither:0.0396']+titles_keywords+['russia:0.3972', 'swift:0.3894', 'ejects:0.3375', 'opinion:0.2447', 'essential:0.134']"
+        ]
+    ]
+}

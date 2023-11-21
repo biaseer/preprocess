@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/dnaindia.com/Elon Musk activates Starlink internet services in Ukraine amid conflict.txt+eventbasecode194+eventcode194+avgtone0.4959677419354838+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4727', 'satellite:0.4022', 'starlink:0.3747', 'spacex:0.3574', 'putin:0.3563', 'musk:0.3536', 'luhansk:0.3012', 'disrupt:0.2908', 'fedorov:0.2541', 'colonize:0.237', 'activate:0.2305', 'military:0.2261', 'conflict:0.2181', 'source:0.2176', 'latency:0.2092', 'connection:0.1987', 'ist:0.1942', 'address:0.1926', 'coverage:0.1849', 'breakaway:0.1842', 'company:0.1801', 'follow:0.1561', 'webdesk:0.1362', 'prime:0.1316', 'reported:0.1287', 'say:0.1024', 'special:0.0957', 'notably:0.076', 'saturday:0.0691', 'dna:0.0679']+titles_keywords+['starlink:0.4359', 'musk:0.4259', 'ukraine:0.3368', 'internet:0.2092', 'activates:0.1755']"
+        ],
+        [
+            "20220711+../news_crawling/RUS_UKR/p_articles/dnaindia.com/RussiaUkraine war Death toll from rocket attack on housing block in Donetsk region rises to.txt+eventbasecode194+eventcode194+avgtone0.46954314720812185+goldsteinscale0.0+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.006578947368421052+news_keywords+['ukraine:0.5059', 'russiaukraine:0.4958', 'donetsk:0.4558', 'russian:0.4461', 'war:0.2822', 'attack:0.2728', 'emergency:0.2251', 'rubble:0.2062', 'donbas:0.1809', 'eastern:0.1778', 'civilian:0.1761', 'apartment:0.1673', 'rocket:0.1661', 'people:0.1529', 'read:0.1499', 'continue:0.1495', 'source:0.1484', 'rise:0.1299', 'updated:0.1219', 'yar:0.1187', 'body:0.1143', 'search:0.1123', 'toll:0.1084', 'shinzo:0.0983', 'focus:0.0973', 'ist:0.0912', 'weekend:0.0836', 'pms:0.0746', 'big:0.0705', 'abe:0.047']+titles_keywords+['russiaukraine:0.4065', 'war:0.2222', '24:0.2182', 'housing:0.1725', 'toll:0.1246']"
+        ]
+    ]
+}

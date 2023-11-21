@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+20":[
+        [
+            "20220528+../news_crawling/RUS_UKR/p_articles/thesun.ie/Ukraine war latest news Roman Abramovich charged with exporting two USmade planes to Russia WITHOUT.txt+eventbasecode20+eventcode20+avgtone0.47876447876447875+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5241', 'putin:0.5172', 'nato:0.4317', 'oligarch:0.3924', 'missiles:0.33', 'abramovich:0.3295', 'military:0.3096', 'blockade:0.3005', 'journalistday:0.2962', 'strategic:0.2938', 'unprovoked:0.2885', 'inform:0.283', 'sievierodonetsk:0.2598', 'autonomy:0.2514', 'allegation:0.2503', 'peace:0.2468', 'fight:0.2369', 'rail:0.2304', 'citing:0.2223', 'want:0.2207', 'concerns:0.2158', 'prepare:0.2119', 'rag:0.2041', 'statement:0.1994', 'respond:0.1952', 'turn:0.1872', 'allow:0.1774', 'export:0.1566', 'link:0.1475', 'longer:0.1318']+titles_keywords+['ukraine:0.4457', 'abramovich:0.4073', 'planes:0.2957', 'exporting:0.2283', 'charged:0.1367']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220124+../news_crawling/RUS_UKR/p_articles/thesun.ie/Coveney says Russian naval exercises off Irish coast not welcome as Cabinet to be briefed.txt+eventbasecode20+eventcode20+avgtone0.49797570850202433+goldsteinscale0.65+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.389', 'militarily:0.3758', 'attack:0.269', 'irish:0.2681', 'affairs:0.2564', 'border:0.2545', 'escalate:0.2523', 'naval:0.2379', 'reassurance:0.2287', 'counterparts:0.228', 'ambassador:0.2242', 'coveney:0.2143', 'plan:0.2058', 'brief:0.198', 'cabinet:0.1929', 'filatov:0.1918', 'term:0.1915', 'consequence:0.1841', 'want:0.1721', 'conference:0.1666', 'fine:0.161', 'view:0.1604', 'unity:0.1503', 'decide:0.1479', 'range:0.1402', 'tomorrow:0.1389', 'isnt:0.1335', 'exercise:0.1262', 'welcome:0.078', 'decade:0.0399']+titles_keywords+['coveney:0.2854', 'naval:0.2763', 'ukraine:0.2712', 'exercises:0.1622', 'says:0.0721']"
+        ]
+    ]
+}

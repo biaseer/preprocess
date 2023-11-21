@@ -1,0 +1,17 @@
+{
+    "CHN+UKR+12":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine photo of Chinese army heading to Russia is fake news Beijing says.txt+eventbasecode12+eventcode12+avgtone0.4620253164556962+goldsteinscale0.48+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4994', 'russia:0.4493', 'china:0.3278', 'fake:0.3119', 'beijing:0.3066', 'border:0.293', 'rumour:0.2799', 'photo:0.2761', 'photograph:0.2738', 'army:0.262', 'news:0.2509', 'military:0.2448', 'chinese:0.2329', 'position:0.218', 'head:0.175', 'crisis:0.1721', 'purportedly:0.1676', 'distorted:0.1549', 'deny:0.1324', 'internet:0.1261', 'say:0.0746', 'include:0.0495']+titles_keywords+['ukraine:0.4149', 'fake:0.3657', 'news:0.2858', 'army:0.2386', 'photo:0.2274']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220120+../news_crawling/RUS_UKR/p_articles/wn.com/Biden warns of disaster for Russia if they invade Ukraine.txt+eventbasecode12+eventcode12+avgtone0.45+goldsteinscale0.48+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['biden:0.379', 'invade:0.3648', 'ukraine:0.3594', 'russia:0.316', 'invasion:0.2551', 'incursion:0.2513', 'warn:0.2354', 'president:0.2164', 'disaster:0.2114', 'price:0.1704', 'pushback:0.1542', 'prompt:0.1503', 'joe:0.123', 'say:0.1101', 'wednesday:0.0983', 'pay:0.096', 'stiff:0.0814', 'confusion:0.0746', 'suggest:0.0613', 'believe:0.0548', 'west:0.0436', 'blown:0.0168', 'minor:0.0152', 'sow:-0.0102']+titles_keywords+['biden:0.3614', 'ukraine:0.3409', 'invade:0.2802', 'warns:0.2182', 'disaster:0.2043']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine refuses to surrender Mariupol as Russia warns of humanitarian catastrophe.txt+eventbasecode12+eventcode12+avgtone0.4365079365079365+goldsteinscale0.48+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['ukraine:0.4864', 'surrender:0.4225', 'ukrainska:0.3511', 'russian:0.3427', 'pravda:0.2992', 'mariupol:0.261', 'reject:0.2237', 'humanitarian:0.1881', 'sign:0.1677', 'catastrophe:0.1645', 'warn:0.16', 'arm:0.159', 'city:0.1559', 'resident:0.1497', 'fighting:0.1415', 'port:0.1329', 'cite:0.1312', 'question:0.1288', 'news:0.1178', 'besiege:0.1157', 'water:0.0988', 'deputy:0.0775', 'little:0.0771', 'ease:0.0725', 'power:0.0663', 'monday:0.0622', 'portal:0.0557', 'fierce:0.0534', 'prime:0.0527', 'laying:0.0427']+titles_keywords+['ukraine:0.4', 'surrender:0.3154', 'mariupol:0.3005', 'refuses:0.2462', 'warns:0.1503']"
+        ]
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "RUS+UKR+194":[
+        [],
+        [
+            "20220417+../news_crawling/RUS_UKR/p_articles/nbcwashington.com/Ukrainian Defenders in Mariupol Defy SurrenderOrDie Demand.txt+eventbasecode194+eventcode194+avgtone0.4641238670694864+goldsteinscale0.0+nummentions0.022133526850507984+numarticles0.02284263959390863+numsources0.08223684210526316+news_keywords+['kyiv:0.5179', 'kremlin:0.4432', 'airstrikes:0.3951', 'surrenderordie:0.3669', 'occupy:0.308', 'azov:0.2898', 'strategically:0.2501', 'chernov:0.2492', 'industrial:0.2462', 'climactic:0.2426', 'news:0.2425', 'casualty:0.2359', 'know:0.2319', 'fight:0.2287', 'prewar:0.2222', 'shmyhal:0.2153', 'reinforce:0.2102', 'anticipate:0.2012', 'deadline:0.1969', 'ignore:0.196', 'donbas:0.1931', 'torture:0.1745', 'end:0.1722', 'amid:0.1717', 'west:0.1708', 'ready:0.1698', 'kilometer:0.1621', 'maternity:0.1555', 'bad:0.1497', 'fully:0.1465']+titles_keywords+['surrenderordie:0.4686', 'ukrainian:0.4118', 'defenders:0.3009', 'mariupol:0.2494', 'defy:0.196']"
+        ],
+        [
+            "20220825+../news_crawling/RUS_UKR/p_articles/nbcwashington.com/Putin Orders Major Buildup of Russias Military Following Heavy Losses in Ukraine.txt+eventbasecode194+eventcode194+avgtone0.4646017699115044+goldsteinscale0.0+nummentions0.28592162554426703+numarticles0.2864394488759971+numsources0.24013157894736842+news_keywords+['ukraine:0.4721', 'kremlin:0.4385', 'chernobyl:0.3819', 'war:0.3495', 'catastrophe:0.2894', 'zelenskyy:0.2726', 'reservist:0.2663', 'shrapnel:0.2648', 'pentagon:0.262', 'coup:0.2557', 'expand:0.2419', 'news:0.2365', 'orders:0.2344', 'concern:0.2184', 'help:0.2114', 'victim:0.209', 'buildup:0.2009', 'emphasize:0.2', 'predict:0.1954', 'electrical:0.1952', 'presidential:0.1926', 'backup:0.1914', 'turn:0.1874', 'reminder:0.1866', 'immediately:0.1833', 'boy:0.159', 'limbs:0.1459', 'major:0.1397', 'end:0.1303', 'stoked:0.105']+titles_keywords+['putin:0.4434', 'military:0.2557', 'buildup:0.2271', 'orders:0.2027', 'heavy:0.1315']"
+        ]
+    ]
+}

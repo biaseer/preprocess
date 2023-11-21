@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/britainnews.net/Latest Developments in Ukraine June 2.txt+eventbasecode10+eventcode10+avgtone0.4755700325732899+goldsteinscale0.5+nummentions0.08563134978229318+numarticles0.08629441624365482+numsources0.15460526315789475+news_keywords+['kyiv:0.5804', 'ukrainian:0.5337', 'war:0.3416', 'olga:0.3256', 'journalist:0.3103', 'seversky:0.2896', 'soldier:0.2799', 'sievierodonetsk:0.2496', 'volodymyr:0.2463', 'resupply:0.2249', 'industrial:0.2233', 'reporting:0.2085', 'developments:0.1992', 'source:0.1774', 'june:0.1679', 'river:0.1667', 'independent:0.1585', 'continue:0.1514', 'intense:0.1486', 'risk:0.1481', 'current:0.1467', 'voa:0.138', 'eastern:0.1369', 'surround:0.1243', 'fact:0.1222', 'official:0.1191', 'times:0.11', 'tenuous:0.1097', 'say:0.0821', 'population:0.0818']+titles_keywords+['ukraine:0.5651', 'developments:0.3386', 'june:0.2559', 'latest:0.2355']"
+        ]
+    ],
+    "WST+RUS+10":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/britainnews.net/Biden Imposes Additional Sanctions After Russia Invades Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4771674387822635+goldsteinscale0.5+nummentions0.32728592162554426+numarticles0.32777374909354606+numsources0.16776315789473684+news_keywords+['ukraine:0.4788', 'nato:0.4473', 'putin:0.4347', 'sanctions:0.4122', 'invades:0.3773', 'demilitarization:0.3295', 'escalation:0.2714', 'oligarchs:0.247', 'prepare:0.2445', 'missiles:0.2395', 'pentagon:0.2369', 'zelenskyy:0.2358', 'deploy:0.2269', 'agreement:0.2169', 'biden:0.2117', 'correspondent:0.2107', 'inform:0.2012', 'thursday:0.1834', 'order:0.1817', 'fight:0.1804', 'table:0.1769', 'respond:0.1717', 'meeting:0.1587', 'nearly:0.1066', 'voa:0.1061', 'plus:0.1022', 'initial:0.0974', 'long:0.0909', 'greenfield:0.0873', 'cost:0.0241']+titles_keywords+['sanctions:0.4277', 'ukraine:0.3103', 'biden:0.309', 'invades:0.2459', 'additional:0.1197']"
+        ]
+    ]
+}

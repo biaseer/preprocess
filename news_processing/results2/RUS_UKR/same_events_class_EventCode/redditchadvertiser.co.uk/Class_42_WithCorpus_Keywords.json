@@ -1,0 +1,12 @@
+{
+    "POL+UKR+42":[
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/redditchadvertiser.co.uk/Ukraines president set to meet US officials in Kyiv.txt+eventbasecode42+eventcode42+avgtone0.4734446130500759+goldsteinscale0.595+nummentions0.11284470246734397+numarticles0.11348803480783176+numsources0.10197368421052631+news_keywords+['kyiv:0.4972', 'russians:0.3944', 'invade:0.3572', 'president:0.2982', 'orthodox:0.2951', 'zelensky:0.2936', 'civilians:0.2493', 'holiday:0.2457', 'march:0.2317', 'plan:0.2279', 'separatist:0.2277', 'talk:0.216', 'armed:0.2046', 'update:0.1881', 'reorganise:0.1844', 'th:0.1738', 'tunnel:0.1699', 'good:0.1693', 'eastern:0.1692', 'long:0.1675', 'continue:0.1654', 'plant:0.1508', 'nearly:0.1378', 'make:0.1313', 'pummel:0.1304', 'prior:0.1163', 'significance:0.1134', 'highlight:0.1128', 'true:0.0786', 'cost:0.0432']+titles_keywords+['kyiv:0.417', 'ukraines:0.3679', 'president:0.2672', 'meet:0.2398', 'set:0.0509']"
+        ]
+    ],
+    "RUS+RUS+42":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/redditchadvertiser.co.uk/Who has been hit by the latest round of UK sanctions against Russia.txt+eventbasecode42+eventcode42+avgtone0.48631239935587767+goldsteinscale0.595+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.039473684210526314+news_keywords+['sanctions:0.5552', 'putins:0.4546', 'moscow:0.4239', 'oligarch:0.4153', 'rusagro:0.3531', 'government:0.3194', 'eu:0.2395', 'invasion:0.2287', 'gazprom:0.2131', 'forbes:0.2114', 'report:0.2046', 'seize:0.1968', 'list:0.1631', 'rule:0.1527', 'pipe:0.1501', 'hiton:0.1485', 'begin:0.1469', 'invest:0.1399', 'aluminium:0.1383', 'port:0.1336', 'estimate:0.1306', 'head:0.1282', 'quite:0.1242', 'forget:0.123', 'today:0.1186', 'ufg:0.1167', 'big:0.116', 'meaning:0.1152', 'supervisory:0.1148', 'oao:0.1147']+titles_keywords+['sanctions:0.5631', 'russia:0.3588', 'uk:0.2334', 'hit:0.1537', 'latest:0.138']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "DEU+RUS+46":[
+        [
+            "20220627+../news_crawling/RUS_UKR/p_articles/publicradioeast.org/The war in Ukraine is looming large at a meeting of the G7 nations.txt+eventbasecode46+eventcode46+avgtone0.46808510638297873+goldsteinscale0.85+nummentions0.04499274310595065+numarticles0.04568527918781726+numsources0.049342105263157895+news_keywords+['ukraine:0.4644', 'putin:0.4437', 'economy:0.386', 'war:0.3693', 'oligarch:0.3596', 'agenda:0.3268', 'meeting:0.2953', 'biden:0.2729', 'global:0.2501', 'develop:0.25', 'unilaterally:0.2498', 'table:0.2421', 'gold:0.2266', 'pipeline:0.22', 'sanction:0.2186', 'argument:0.2137', 'concern:0.2096', 'know:0.2013', 'orbit:0.1838', 'equality:0.1837', 'begin:0.1777', 'help:0.1732', 'shortly:0.1699', 'deal:0.156', 'include:0.1453', 'recede:0.1406', 'short:0.1373', 'big:0.1335', 'schmitz:0.1083', 'byline:0.0963']+titles_keywords+['ukraine:0.4668', 'war:0.4667', 'meeting:0.373', 'looming:0.3084', 'g7:0.2508']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/publicradioeast.org/How daily life in Russia has changed since the country invaded Ukraine.txt+eventbasecode46+eventcode46+avgtone0.475609756097561+goldsteinscale0.85+nummentions0.011248185776487663+numarticles0.011965192168237854+numsources0.019736842105263157+news_keywords+['ukraine:0.4574', 'vladimir:0.3989', 'worry:0.2549', 'invade:0.2518', 'affect:0.2447', 'business:0.2298', 'consequence:0.2251', 'happen:0.2234', 'analysis:0.2164', 'understand:0.2161', 'harass:0.2153', 'change:0.2088', 'live:0.2077', 'sad:0.2029', 'like:0.1888', 'tell:0.1825', 'world:0.1692', 'day:0.162', 'policeman:0.1596', 'ordinary:0.1567', 'produce:0.1555', 'end:0.1471', 'right:0.1444', 'standpoint:0.1433', 'relatives:0.1402', 'lot:0.1286', 'big:0.116', 'salary:0.112', 'year:0.1082', 'does:0.1021']+titles_keywords+['ukraine:0.5422', 'invaded:0.3389', 'changed:0.2193', 'life:0.2084', 'daily:0.1886']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/publicradioeast.org/ECU survey shows NC support of US sanctions against Russia.txt+eventbasecode46+eventcode46+avgtone0.5071174377224199+goldsteinscale0.85+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4374', 'bipartisanship:0.3559', 'carolinians:0.3548', 'north:0.2737', 'american:0.2414', 'invasion:0.2409', 'military:0.2364', 'states:0.2307', 'majority:0.2197', 'oil:0.2171', 'economic:0.2168', 'president:0.2161', 'response:0.2129', 'involvement:0.21', 'sanction:0.1908', 'want:0.1775', 'fight:0.1759', 'ecu:0.1607', 'remain:0.1395', 'radford:0.1283', 'overall:0.1145', 'major:0.1141', 'stake:0.1135', 'unity:0.1129', 'meredith:0.0999', 'whats:0.0969', 'price:0.0744', 'agree:0.0618', 'possibility:0.0445', 'theres:0.0284']+titles_keywords+['sanctions:0.463', 'ecu:0.3752', 'nc:0.3289', 'russia:0.2839', 'survey:0.2617']"
+        ]
+    ]
+}

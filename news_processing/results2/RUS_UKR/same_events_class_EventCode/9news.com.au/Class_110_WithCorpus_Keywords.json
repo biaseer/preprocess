@@ -1,0 +1,12 @@
+{
+    "POL+UKR+110":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/9news.com.au/US Vice President Kamala Harris embraces call for war crimes probe of Russia.txt+eventbasecode110+eventcode110+avgtone0.48854262144821264+goldsteinscale0.4+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.009868421052631578+news_keywords+['nato:0.4514', 'poland:0.3937', 'ukrainians:0.3801', 'war:0.3237', 'andrzej:0.3076', 'refugee:0.2931', 'biden:0.2804', 'atrocities:0.2781', 'crisis:0.2529', 'ally:0.2512', 'speaking:0.2392', 'read:0.2372', 'evacuate:0.2338', 'economic:0.2329', 'allegation:0.2267', 'unite:0.2211', 'tod:0.2164', 'secretary:0.2126', 'command:0.2061', 'world:0.1985', 'harris:0.1965', 'stop:0.1894', 'nutshell:0.185', 'want:0.1804', 'view:0.1737', 'thursday:0.1722', 'probe:0.1702', 'difference:0.161', 'alongside:0.1594', 'prepared:0.1353']+titles_keywords+['harris:0.2902', 'russia:0.2669', 'vice:0.2381', 'probe:0.2064', 'embraces:0.1729']"
+        ]
+    ],
+    "RUS+RUS+110":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/9news.com.au/Russian foreign minister denies Vladimir Putin illness.txt+eventbasecode110+eventcode110+avgtone0.47937131630648333+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.5431', 'kyiv:0.4505', 'zhdanov:0.3227', 'separatist:0.3085', 'illness:0.3023', 'sievierodonetsk:0.2421', 'know:0.2416', 'pursue:0.2276', 'military:0.2239', 'report:0.2209', 'supply:0.2151', 'rumour:0.2075', 'arrive:0.1996', 'oleh:0.1978', 'analyst:0.1925', 'halt:0.1906', 'left:0.1873', 'donbas:0.185', 'source:0.1772', 'extend:0.1759', 'advantage:0.1726', 'gasterra:0.1685', 'regroup:0.1606', 'state:0.1598', 'world:0.1514', 'week:0.1506', 'withdraw:0.1422', 'periodically:0.1336', 'circulate:0.1306', 'surface:0.0785']+titles_keywords+['putin:0.4306', 'denies:0.2733', 'illness:0.2471', 'minister:0.1067', 'foreign:0.1055']"
+        ]
+    ]
+}

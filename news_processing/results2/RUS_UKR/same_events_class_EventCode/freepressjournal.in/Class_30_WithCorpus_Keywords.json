@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+30":[
+        [
+            "20211204+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/FPJ Explains Is Russia planning to invade Ukraine.txt+eventbasecode30+eventcode30+avgtone0.48013698630136986+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.4239', 'nato:0.4032', 'putin:0.3887', 'invades:0.3798', 'prepare:0.2456', 'concern:0.2196', 'coordinate:0.2153', 'planning:0.21', 'crisis:0.2093', 'biden:0.2087', 'border:0.2083', 'separatist:0.2064', 'soon:0.196', 'want:0.1941', 'learn:0.1897', 'economic:0.1895', 'know:0.1876', 'intensify:0.1765', 'prompt:0.1733', 'news:0.1731', 'table:0.163', 'exercise:0.1499', 'telephone:0.1454', 'continue:0.1399', 'role:0.1299', 'closer:0.123', 'billion:0.1099', 'long:0.1053', 'ani:0.0704', 'possible:0.0658']+titles_keywords+['ukraine:0.4212', 'invade:0.3602', 'fpj:0.3493', 'planning:0.1711', 'explains:0.116']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/Russia Ukraine War enters second month shows no sign of abating.txt+eventbasecode30+eventcode30+avgtone0.4639423076923077+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.5313', 'putin:0.4312', 'nato:0.4229', 'war:0.3961', 'demilitarize:0.3562', 'nationalist:0.3238', 'propaganda:0.3075', 'infrastructure:0.2546', 'zelenskyy:0.2377', 'predict:0.2264', 'subject:0.2249', 'sanction:0.2086', 'status:0.206', 'ignore:0.2044', 'plummet:0.1909', 'order:0.186', 'negotiator:0.1859', 'help:0.1857', 'surge:0.1838', 'enters:0.1791', 'biden:0.179', 'contrast:0.1708', 'month:0.1666', 'disastrous:0.1651', 'end:0.1632', 'encircle:0.1369', 'ready:0.1311', 'large:0.1298', 'make:0.1212', 'pdf:0.0969']+titles_keywords+['ukraine:0.4155', 'war:0.3658', 'month:0.2636', 'second:0.1312', 'enters:0.0782']"
+        ]
+    ]
+}

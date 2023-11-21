@@ -1,0 +1,30 @@
+{
+    "CHN+UKR+12":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/apnews.com/Live updates UN chief wants Ukraine humanitarian ceasefire.txt+eventbasecode12+eventcode12+avgtone0.47643678160919545+goldsteinscale0.48+nummentions0.054426705370101594+numarticles0.05511240029006526+numsources0.05921052631578947+news_keywords+['ukraine:0.4885', 'ceasefire:0.4601', 'erdogan:0.3692', 'invade:0.3312', 'unhcr:0.3238', 'blockaded:0.2829', 'pentagon:0.2778', 'agreement:0.2699', 'urgently:0.2633', 'news:0.2625', 'cyberattack:0.2608', 'hegemony:0.2569', 'ouster:0.2489', 'arrangement:0.2241', 'democratic:0.2204', 'progress:0.2193', 'world:0.2097', 'secretary:0.2078', 'end:0.2051', 'predict:0.2039', 'biden:0.1986', 'influx:0.1957', 'speaking:0.1932', 'reiterate:0.1751', 'sure:0.1576', 'hour:0.1446', 'breadth:0.1355', 'andersson:0.1295', 'look:0.1157', 'welcome:0.1045']+titles_keywords+['ceasefire:0.4596', 'humanitarian:0.4162', 'ukraine:0.3832', 'chief:0.1711', 'updates:0.1602']"
+        ]
+    ],
+    "POL+RUS+12":[
+        [
+            "20220515+../news_crawling/RUS_UKR/p_articles/apnews.com/Polish Nobel author says Russia threat to free world.txt+eventbasecode12+eventcode12+avgtone0.47727272727272746+goldsteinscale0.48+nummentions0.03773584905660377+numarticles0.03843364757070341+numsources0.049342105263157895+news_keywords+['tokarczuk:0.4095', 'ukraines:0.3584', 'polish:0.2995', 'poles:0.293', 'nobel:0.2707', 'olga:0.246', 'author:0.2454', 'war:0.2278', 'refugee:0.2267', 'jewish:0.2097', 'books:0.1882', 'jacob:0.1843', 'subversive:0.1668', 'risk:0.1454', 'world:0.1416', 'sanction:0.1267', 'know:0.1118', 'speak:0.111', 'mind:0.1034', 'present:0.0829', 'century:0.0816', 'th:0.0664', 'image:0.064', 'share:0.0569', 'ap:0.0481', 'february:0.0424', 'theme:0.0357', 'free:0.0279', 'add:0.0176', 'tough:0.0148']+titles_keywords+['russia:0.339', 'nobel:0.332', 'author:0.2646', 'threat:0.249', 'free:0.1742']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/apnews.com/Russia Turkey back plan to export grains Ukraine doubtful.txt+eventbasecode12+eventcode12+avgtone0.49672284644194753+goldsteinscale0.48+nummentions0.03701015965166909+numarticles0.03770848440899202+numsources0.06907894736842106+news_keywords+['ukraine:0.4751', 'nato:0.4583', 'kremlin:0.4181', 'ankaras:0.3729', 'erdogan:0.367', 'blockade:0.3479', 'invade:0.3102', 'political:0.2692', 'weaponize:0.2636', 'border:0.2634', 'peace:0.2428', 'supply:0.2396', 'concern:0.2191', 'import:0.2086', 'negotiate:0.207', 'grain:0.2018', 'news:0.1869', 'feasible:0.1838', 'counterpart:0.1786', 'report:0.1729', 'corridor:0.17', 'world:0.1597', 'gain:0.1469', 'studies:0.1465', 'acknowledge:0.127', 'resume:0.1208', 'general:0.1207', 'ready:0.1193', 'mevlut:0.078', 'month:0.0522']+titles_keywords+['turkey:0.4032', 'export:0.2343', 'grains:0.2274', 'plan:0.1842', 'doubtful:0.1335']"
+        ],
+        [
+            "20220710+../news_crawling/RUS_UKR/p_articles/apnews.com/Anxiety grows for Ukraines grain farmers as harvest begins.txt+eventbasecode12+eventcode12+avgtone0.48566308243727596+goldsteinscale0.48+nummentions0.09506531204644413+numarticles0.09572153734590283+numsources0.10197368421052631+news_keywords+['farmers:0.4333', 'ukraine:0.3985', 'grain:0.3123', 'shortage:0.2998', 'reap:0.2885', 'invasion:0.2714', 'grow:0.271', 'infrastructure:0.264', 'zelenskyy:0.2598', 'survive:0.256', 'blockade:0.2486', 'help:0.2128', 'aya:0.2117', 'know:0.1955', 'anxiety:0.1899', 'flag:0.1888', 'breadbasket:0.1834', 'scenario:0.1818', 'buyer:0.175', 'soon:0.174', 'safe:0.1716', 'silo:0.1639', 'winter:0.1574', 'million:0.1448', 'export:0.1423', 'begin:0.137', 'ap:0.1318', 'chubuk:0.1206', 'beneath:0.1163', 'gro:0.1155']+titles_keywords+['farmers:0.4731', 'grain:0.3781', 'anxiety:0.3604', 'ukraines:0.3292', 'begins:0.1244']"
+        ]
+    ],
+    "UKR+GBR+12":[
+        [
+            "20220720+../news_crawling/RUS_UKR/p_articles/apnews.com/Russia declares plans to grab more land in Ukraine.txt+eventbasecode12+eventcode12+avgtone0.48098591549295777+goldsteinscale0.48+nummentions0.02104499274310595+numarticles0.021754894851341553+numsources0.029605263157894735+news_keywords+['ukraine:0.5164', 'moscows:0.3832', 'invade:0.3453', 'gladkov:0.3203', 'hostilities:0.3059', 'evacuate:0.2919', 'readiness:0.273', 'separatist:0.2567', 'troop:0.2425', 'strategically:0.2386', 'news:0.2237', 'know:0.2152', 'victim:0.2011', 'blood:0.2002', 'soon:0.1954', 'industrial:0.1926', 'grab:0.1915', 'presidential:0.184', 'bridge:0.1766', 'confused:0.1757', 'overran:0.1704', 'long:0.1603', 'nearly:0.1532', 'rt:0.1527', 'boy:0.1481', 'unfold:0.1432', 'winter:0.1415', 'end:0.1275', 'listen:0.1194', 'deal:0.1101']+titles_keywords+['ukraine:0.4271', 'land:0.244', 'grab:0.231', 'plans:0.1485', 'declares:0.069']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220122+../news_crawling/RUS_UKR/p_articles/apnews.com/Where Ukraines sunflowers once sprouted fears now grow.txt+eventbasecode12+eventcode12+avgtone0.4920042643923241+goldsteinscale0.48+nummentions0.09433962264150944+numarticles0.09499637418419145+numsources0.08223684210526316+news_keywords+['ukraine:0.4802', 'natos:0.4767', 'disarmament:0.4373', 'treaty:0.3816', 'nuclear:0.352', 'sunflower:0.3166', 'nation:0.2813', 'eastward:0.2762', 'memorandum:0.2731', 'separatist:0.2679', 'foreseeable:0.2591', 'timeline:0.2523', 'warhead:0.2465', 'power:0.207', 'worry:0.2027', 'expand:0.202', 'biden:0.2016', 'word:0.1986', 'realize:0.1873', 'perry:0.177', 'significance:0.1715', 'sign:0.1713', 'pervomaysk:0.1633', 'warm:0.1585', 'counterpart:0.1557', 'order:0.1495', 'ready:0.1335', 'end:0.1217', 'plus:0.0993', 'true:0.0806']+titles_keywords+['sunflowers:0.572', 'ukraines:0.4453', 'sprouted:0.3906', 'grow:0.3314', 'fears:0.2677']"
+        ]
+    ]
+}

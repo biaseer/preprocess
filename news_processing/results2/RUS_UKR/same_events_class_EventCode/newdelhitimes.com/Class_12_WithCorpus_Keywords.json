@@ -1,0 +1,17 @@
+{
+    "POL+RUS+12":[
+        [
+            "20220517+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Polish Nobel author says Russia threat to free world.txt+eventbasecode12+eventcode12+avgtone0.48395721925133706+goldsteinscale0.48+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['tokarczuk:0.4507', 'nobel:0.4134', 'warsaw:0.3651', 'author:0.3032', 'russian:0.2935', 'jacob:0.2615', 'poles:0.2586', 'ukraines:0.2523', 'jewish:0.2436', 'books:0.2268', 'war:0.2188', 'olga:0.2046', 'refugee:0.2032', 'world:0.1646', 'subversive:0.1593', 'risk:0.1535', 'sanction:0.1456', 'mind:0.128', 'speak:0.119', 'century:0.1076', 'know:0.0911', 'image:0.0865', 'share:0.0802', 'february:0.0655', 'th:0.0574', 'free:0.0523', 'streak:0.0492', 'add:0.0471', 'theme:0.0464', 'tough:0.0411']+titles_keywords+['russia:0.339', 'nobel:0.332', 'author:0.2646', 'threat:0.249', 'free:0.1742']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220209+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Ukraine projects calm over Russia fears despite US rhetoric.txt+eventbasecode12+eventcode12+avgtone0.48011363636363635+goldsteinscale0.48+nummentions0.07402031930333818+numarticles0.07469180565627266+numsources0.05921052631578947+news_keywords+['crimea:0.5018', 'diplomacy:0.4496', 'putin:0.4316', 'nato:0.4101', 'russias:0.3832', 'separatists:0.3604', 'invade:0.3548', 'rhetoric:0.307', 'worried:0.2823', 'macron:0.2795', 'crisis:0.2757', 'psaki:0.2676', 'zelenskyy:0.2653', 'adviser:0.242', 'trench:0.2313', 'prolong:0.2227', 'enlist:0.2224', 'avert:0.2127', 'differ:0.2097', 'east:0.2035', 'respond:0.1937', 'movement:0.1921', 'anonymity:0.1914', 'want:0.1808', 'stem:0.1704', 'cold:0.1576', 'focus:0.1532', 'nearly:0.1398', 'draw:0.1282', 'doesnt:0.0857']+titles_keywords+['ukraine:0.4398', 'calm:0.3168', 'rhetoric:0.2754', 'fears:0.2297', 'despite:0.1351']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Denied easy victory Russia presses reduced goals in Ukraine.txt+eventbasecode12+eventcode12+avgtone0.4692307692307693+goldsteinscale0.48+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.029605263157894735+news_keywords+['putin:0.449', 'kyiv:0.3839', 'russias:0.3574', 'strategic:0.3244', 'annex:0.2854', 'orthodox:0.2642', 'demilitarize:0.2543', 'victory:0.2521', 'genocidal:0.2509', 'pentagon:0.2356', 'fail:0.2032', 'tank:0.1994', 'neutrality:0.1965', 'combine:0.1907', 'know:0.1864', 'long:0.1838', 'description:0.1835', 'change:0.1833', 'negotiated:0.1578', 'previous:0.1449', 'soon:0.1431', 'drill:0.1385', 'pro:0.1323', 'flatten:0.1308', 'relate:0.1304', 'range:0.1283', 'kirby:0.1143', 'retrieve:0.1035', 'largely:0.0983', 'welcome:0.0629']+titles_keywords+['ukraine:0.4086', 'goals:0.3954', 'denied:0.2305', 'easy:0.2236', 'reduced:0.2163']"
+        ]
+    ]
+}

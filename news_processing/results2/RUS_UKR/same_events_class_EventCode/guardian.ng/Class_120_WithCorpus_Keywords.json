@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/guardian.ng/Russia says Ukraine prolonging conflict by refusing talks.txt+eventbasecode120+eventcode120+avgtone0.46782178217821785+goldsteinscale0.3+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.023026315789473683+news_keywords+['putin:0.5028', 'ukrainians:0.4027', 'kyiv:0.3931', 'diplomatic:0.3194', 'conflict:0.2957', 'zelensky:0.2623', 'invasion:0.2526', 'kill:0.2266', 'table:0.2153', 'sanction:0.2013', 'predict:0.1979', 'economy:0.1938', 'military:0.1908', 'trigger:0.1865', 'prolong:0.1833', 'order:0.1793', 'warning:0.1659', 'meet:0.158', 'sit:0.1471', 'ready:0.1469', 'afp:0.1394', 'later:0.1318', 'february:0.1295', 'world:0.1239', 'north:0.1198', 'statement:0.1152', 'resume:0.1133', 'main:0.0973', 'sector:0.0938', 'big:0.0915']+titles_keywords+['ukraine:0.4273', 'conflict:0.3027', 'refusing:0.2186', 'prolonging:0.2185', 'says:0.1138']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/guardian.ng/Kyiv rejects Moscowproposed corridors to Belarus Russia.txt+eventbasecode120+eventcode120+avgtone0.49311926605504586+goldsteinscale0.3+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.02631578947368421+news_keywords+['kyiv:0.4907', 'ceasefires:0.4492', 'belarus:0.3993', 'putin:0.3443', 'corridor:0.3281', 'humanitarian:0.3216', 'negotiation:0.2583', 'border:0.2411', 'vereshchuk:0.2366', 'safe:0.2237', 'escape:0.221', 'azov:0.2152', 'disaster:0.1948', 'civilian:0.1879', 'iryna:0.1682', 'plane:0.1675', 'neutralise:0.1622', 'southeastern:0.1591', 'reject:0.1559', 'ongoing:0.1479', 'besiege:0.1308', 'talk:0.1294', 'ally:0.1239', 'near:0.1205', 'end:0.1032', 'gmt:0.1022', 'arent:0.1', 'sumy:0.0958', 'set:0.0838', 'earlier:0.0403']+titles_keywords+['kyiv:0.548', 'belarus:0.4021', 'moscowproposed:0.3802', 'corridors:0.3649', 'rejects:0.1564']"
+        ]
+    ]
+}

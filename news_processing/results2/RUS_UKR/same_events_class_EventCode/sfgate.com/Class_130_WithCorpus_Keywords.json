@@ -1,0 +1,29 @@
+{
+    "BLR+UKR+130":[
+        []
+    ],
+    "FRA+RUS+130":[
+        []
+    ],
+    "GBR+RUS+130":[
+        []
+    ],
+    "POL+RUS+130":[
+        []
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/sfgate.com/US stands ready to evacuate Zelensky Russias target No 1.txt+eventbasecode130+eventcode130+avgtone0.47781065088757396+goldsteinscale0.27999999999999997+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.019736842105263157+news_keywords+['kyiv:0.5166', 'zelensky:0.4463', 'putin:0.433', 'ukrainians:0.4239', 'evacuate:0.311', 'cia:0.2986', 'destabilize:0.2887', 'psaki:0.2819', 'invasion:0.2741', 'threaten:0.2464', 'prepare:0.2291', 'unprovoked:0.2255', 'situate:0.2184', 'forward:0.2152', 'fending:0.21', 'telegram:0.204', 'independence:0.2009', 'va:0.1994', 'commitee:0.1841', 'update:0.1823', 'information:0.1774', 'knew:0.1637', 'surround:0.1592', 'authorize:0.1557', 'continuity:0.155', 'switch:0.1345', 'th:0.1274', 'equivalent:0.1037', 'make:0.1034', 'prime:0.1014']+titles_keywords+['zelensky:0.58', 'evacuate:0.3744', 'russias:0.355', 'ready:0.1827', 'target:0.1748']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [],
+        []
+    ],
+    "USA+RUS+130":[
+        []
+    ],
+    "WST+UKR+130":[
+        []
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+138":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/latimes.com/Russians hold antiwar rallies amid ominous threats by Putin.txt+eventbasecode138+eventcode138+avgtone0.4544776119402985+goldsteinscale0.15+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kremlin:0.4892', 'antiwar:0.4191', 'russias:0.4015', 'russian:0.3998', 'minsk:0.3914', 'nemtsovs:0.3896', 'protest:0.38', 'roskomnadzor:0.3528', 'invasion:0.3157', 'separatist:0.2497', 'alert:0.2348', 'standoff:0.2297', 'capital:0.2248', 'ominous:0.2124', 'order:0.1991', 'kill:0.193', 'come:0.192', 'people:0.1916', 'turn:0.1774', 'soon:0.1763', 'continue:0.1756', 'president:0.169', 'world:0.1504', 'watchdog:0.1407', 'plunge:0.1386', 'bloody:0.1331', 'female:0.1113', 'thousand:0.1104', 'google:0.0976', 'true:0.0471']+titles_keywords+['antiwar:0.4657', 'rallies:0.3935', 'russians:0.3667', 'threats:0.2292', 'ominous:0.2274']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/latimes.com/US and Germany agree to supply advanced weapons to Ukraine.txt+eventbasecode138+eventcode138+avgtone0.48963029756537424+goldsteinscale0.15+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['ukraines:0.4971', 'nato:0.4415', 'airstrikes:0.3892', 'kremlin:0.3703', 'counterattack:0.305', 'pentagon:0.3009', 'weapon:0.2487', 'berlin:0.2397', 'conflict:0.2391', 'telegram:0.2237', 'advance:0.1999', 'separatist:0.1957', 'industrial:0.1945', 'ally:0.1891', 'swaths:0.1881', 'help:0.1856', 'radar:0.1789', 'promise:0.1691', 'direct:0.1669', 'afraid:0.15', 'governor:0.147', 'spare:0.1386', 'focus:0.1346', 'kahl:0.1331', 'include:0.1287', 'isnt:0.1234', 'received:0.1222', 'long:0.1222', 'fully:0.1167', 'million:0.1157']+titles_keywords+['ukraine:0.4005', 'weapons:0.3132', 'supply:0.1998', 'advanced:0.0843', 'agree:0.0385']"
+        ]
+    ]
+}

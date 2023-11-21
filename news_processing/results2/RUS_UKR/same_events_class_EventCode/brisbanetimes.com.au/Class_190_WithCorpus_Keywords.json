@@ -1,0 +1,18 @@
+{
+    "AUS+RUS+190":[
+        [
+            "20220818+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/Ukraine can win this war on these five conditions.txt+eventbasecode190+eventcode190+avgtone0.4936868686868687+goldsteinscale0.0+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['ukraine:0.4994', 'putin:0.4118', 'nato:0.4093', 'victory:0.3147', 'dictatorship:0.3116', 'military:0.2853', 'invasion:0.2799', 'strategist:0.2717', 'political:0.2678', 'remain:0.2382', 'concern:0.2115', 'map:0.1997', 'gain:0.1945', 'volodymyr:0.1907', 'turn:0.1869', 'foundational:0.1865', 'begin:0.1861', 'zelenskys:0.1834', 'stage:0.1805', 'understand:0.1802', 'write:0.1793', 'donbas:0.1531', 'order:0.1513', 'despite:0.1509', 'newsletter:0.1489', 'unified:0.1482', 'winter:0.1417', 'accuracy:0.1321', 'corrode:0.1096', 'largely:0.1039']+titles_keywords+['ukraine:0.4676', 'war:0.3618', 'conditions:0.3116', 'win:0.2965']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/China just set its lowest target for economic growth in 30 years It still looks.txt+eventbasecode190+eventcode190+avgtone0.4776536312849162+goldsteinscale0.0+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['economy:0.4112', 'beijing:0.3393', 'putins:0.3161', 'briefing:0.31', 'jinping:0.2891', 'conclusion:0.2824', 'world:0.2639', 'policy:0.2555', 'ambitious:0.241', 'stability:0.2401', 'congress:0.2307', 'input:0.2281', 'report:0.2278', 'term:0.224', 'recent:0.2157', 'foresee:0.2155', 'party:0.2134', 'influence:0.2133', 'covid:0.2104', 'coal:0.209', 'avoid:0.2003', 'increasingly:0.189', 'reduce:0.1868', 'exchange:0.1834', 'major:0.1762', 'generate:0.164', 'long:0.1536', 'reorient:0.1517', 'isnt:0.1467', 'thermal:0.1258']+titles_keywords+['ambitious:0.366', 'china:0.3436', 'economic:0.2586', 'years:0.1711', 'lowest:0.1162']"
+        ],
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/Karma is a cruel thing Blasts reported at Russian defence sites.txt+eventbasecode190+eventcode190+avgtone0.46942148760330576+goldsteinscale0.0+nummentions0.12590711175616837+numarticles0.12364031907179115+numsources0.2598684210526316+news_keywords+['ukraine:0.5138', 'kremlin:0.4439', 'nato:0.387', 'genocide:0.3837', 'invasion:0.3382', 'peskov:0.3267', 'separatists:0.3133', 'unprovoked:0.2864', 'correspondent:0.2815', 'transnistria:0.2762', 'political:0.2582', 'sanction:0.25', 'atrocity:0.2496', 'warn:0.2417', 'andrzej:0.2372', 'agreement:0.2345', 'know:0.2319', 'firing:0.2223', 'telegram:0.2087', 'fight:0.1725', 'switch:0.155', 'whats:0.1475', 'long:0.1435', 'matter:0.1434', 'arm:0.1319', 'later:0.1312', 'buyer:0.1151', 'photoevgeniy:0.1054', 'ascribe:0.1006', 'dozen:0.0954']+titles_keywords+['karma:0.4635', 'blasts:0.3383', 'russian:0.3254', 'cruel:0.2824', 'sites:0.1736']"
+        ],
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/Last Ukrainian defenders in Mariupol continue to battle Russian soldiers.txt+eventbasecode190+eventcode190+avgtone0.5+goldsteinscale0.0+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.023026315789473683+news_keywords+['ukrainian:0.475', 'russian:0.4474', 'soldier:0.3298', 'battle:0.3125', 'mariupol:0.2365', 'defender:0.2152', 'continue:0.1861']+titles_keywords+['ukrainian:0.4132', 'battle:0.2344', 'mariupol:0.2176', 'defenders:0.2079', 'continue:0.1175']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+42":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/infotel.ca/Fendi Cavalli open a more relaxed Milan Fashion Week.txt+eventbasecode42+eventcode42+avgtone0.5065005417118094+goldsteinscale0.595+nummentions0.23076923076923078+numarticles0.23132704858593184+numsources0.17434210526315788+news_keywords+['fashion:0.6103', 'fendi:0.4895', 'couture:0.485', 'daywear:0.4766', 'cashmere:0.413', 'minidresses:0.4067', 'runway:0.3845', 'cavalli:0.384', 'chiffony:0.3771', 'modern:0.3489', 'stitch:0.2908', 'season:0.2898', 'palette:0.2549', 'accessory:0.2508', 'enter:0.2406', 'regimented:0.2246', 'list:0.218', 'grid:0.2132', 'observe:0.2128', 'wrap:0.2111', 'fallylah:0.2093', 'vips:0.2037', 'coronavirus:0.1976', 'know:0.1895', 'europe:0.181', 'nyny:0.1805', 'kim:0.1762', 'day:0.1741', 'print:0.1515', 'recycle:0.1344']+titles_keywords+['fendi:0.4995', 'cavalli:0.4869', 'open:0.311', 'week:0.2729', 'relaxed:0.1962']"
+        ],
+        [
+            "20220825+../news_crawling/RUS_UKR/p_articles/infotel.ca/Putin orders Russian military to beef up forces by 137000.txt+eventbasecode42+eventcode42+avgtone0.48593530239099864+goldsteinscale0.595+nummentions0.0602322206095791+numarticles0.06091370558375635+numsources0.26973684210526316+news_keywords+['conscript:0.4311', 'mobilization:0.409', 'putin:0.4078', 'draftees:0.3917', 'moscows:0.3673', 'battalion:0.3512', 'chechnya:0.3226', 'war:0.3054', 'increase:0.2751', 'deferment:0.2481', 'training:0.2276', 'rank:0.2083', 'organization:0.1806', 'concern:0.1763', 'predict:0.1748', 'separatist:0.1745', 'news:0.1715', 'beef:0.1574', 'commission:0.1442', 'effect:0.1426', 'feb:0.1338', 'respectively:0.1262', 'send:0.126', 'earlier:0.1164', 'big:0.1163', 'ap:0.1047', 'note:0.0947', 'total:0.0857', 'rbc:0.0846', 'state:0.0727']+titles_keywords+['putin:0.3946', '137000:0.3147', 'military:0.2586', 'orders:0.2026', 'forces:0.1881']"
+        ]
+    ]
+}

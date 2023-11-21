@@ -1,0 +1,17 @@
+{
+    "JPN+RUS+111":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Russian soldier sentenced to life in Ukraines first war crimes trial.txt+eventbasecode111+eventcode111+avgtone0.46584302325581395+goldsteinscale0.4+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.009868421052631578+news_keywords+['ukraine:0.467', 'war:0.4119', 'moscows:0.3691', 'oleksandrivka:0.3216', 'zelensky:0.2728', 'conviction:0.2568', 'separatist:0.2553', 'casualty:0.2484', 'news:0.2412', 'capital:0.2373', 'outgunned:0.2323', 'occupy:0.2323', 'democratic:0.2291', 'engage:0.1948', 'report:0.1897', 'hear:0.1883', 'bucha:0.1803', 'flee:0.1786', 'order:0.1786', 'industrial:0.1777', 'sgt:0.1719', 'aug:0.1533', 'help:0.1502', 'powerful:0.1437', 'extend:0.1367', 'stir:0.1353', 'standstill:0.1329', 'clock:0.1219', 'davos:0.12', 'thousand:0.1194']+titles_keywords+['sentenced:0.3512', 'russian:0.3436', 'ukraines:0.2632', 'soldier:0.26', 'life:0.2191']"
+        ]
+    ],
+    "RUS+GBR+111":[
+        [
+            "20220610+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Civilians flee intense fighting in contested eastern Ukraine.txt+eventbasecode111+eventcode111+avgtone0.46549707602339185+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4963', 'evacuation:0.3803', 'pokrovsk:0.3686', 'wartime:0.321', 'zelenskyy:0.3195', 'territory:0.282', 'overrun:0.2563', 'information:0.2424', 'capital:0.2393', 'kill:0.2385', 'administration:0.2266', 'shift:0.2158', 'industrial:0.2138', 'prepare:0.2108', 'reiterate:0.1938', 'howitzer:0.1933', 'table:0.1929', 'donbas:0.1849', 'resume:0.1821', 'hear:0.1802', 'report:0.1798', 'negotiating:0.1772', 'separate:0.1764', 'long:0.171', 'afraid:0.1543', 'feb:0.1294', 'fsb:0.1285', 'drumbeat:0.1254', 'official:0.1209', 'child:0.0999']+titles_keywords+['flee:0.416', 'civilians:0.4148', 'ukraine:0.412', 'fighting:0.2929', 'intense:0.1897']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/3 nations join international team probing Ukraine war crimes.txt+eventbasecode111+eventcode111+avgtone0.4569486404833837+goldsteinscale0.4+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4582', 'war:0.3521', 'investigation:0.3352', 'prosecute:0.3181', 'hague:0.3124', 'tribunal:0.3022', 'invasion:0.2979', 'military:0.2615', 'agreement:0.2352', 'atrocity:0.2293', 'coordinate:0.2205', 'infrastructure:0.2166', 'icc:0.2085', 'continuation:0.2073', 'violent:0.2065', 'propagandist:0.1912', 'volodymyr:0.1825', 'world:0.1799', 'analysts:0.1759', 'gather:0.1652', 'order:0.1519', 'biden:0.1449', 'ready:0.142', 'bucha:0.1396', 'monday:0.1384', 'link:0.1207', 'pbs:0.1163', 'knew:0.1139', 'underscore:0.1059', 'set:0.097']+titles_keywords+['ukraine:0.4089', 'war:0.2022', 'crimes:0.1861', 'join:0.1858', 'probing:0.1344']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/azerbaijannews.net/Latest Developments in Ukraine April 1.txt+eventbasecode46+eventcode46+avgtone0.48214285714285715+goldsteinscale0.85+nummentions0.02576197387518142+numarticles0.026468455402465556+numsources0.046052631578947366+news_keywords+['ukraine:0.5894', 'april:0.2663', 'oil:0.2605', 'military:0.2539', 'zelenskyy:0.2526', 'peace:0.241', 'attack:0.2262', 'developments:0.1979', 'parliament:0.1976', 'helicopter:0.1911', 'governor:0.1864', 'belgorod:0.1787', 'ablaze:0.1687', 'aid:0.165', 'report:0.1489', 'regional:0.1406', 'bbc:0.1296', 'city:0.129', 'discussion:0.1233', 'address:0.119', 'post:0.109', 'resume:0.1009', 'unspecified:0.0986', 'responsibility:0.0948', 'claim:0.0942', 'send:0.0905', 'number:0.0885', 'say:0.083', 'carrier:0.0686', 'set:0.0617']+titles_keywords+['ukraine:0.5396', 'april:0.318', 'developments:0.3169', 'latest:0.2399']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20211207+../news_crawling/RUS_UKR/p_articles/azerbaijannews.net/Ruble holds strong as US threatens to cut Russia off SWIFT.txt+eventbasecode46+eventcode46+avgtone0.4673913043478261+goldsteinscale0.85+nummentions0.10885341074020319+numarticles0.10949963741841914+numsources0.16447368421052633+news_keywords+['putin:0.4756', 'moscow:0.4369', 'rubles:0.4275', 'threat:0.3555', 'sanction:0.2813', 'bloomberg:0.2804', 'euro:0.2503', 'monday:0.201', 'stock:0.1983', 'strengthen:0.1936', 'report:0.1922', 'speculation:0.1922', 'military:0.1909', 'cite:0.1852', 'event:0.1621', 'plan:0.1602', 'fund:0.1574', 'talk:0.1561', 'swift:0.1517', 'follow:0.1417', 'outlet:0.1322', 'measure:0.1312', 'disconnect:0.1247', 'moex:0.1158', 'greenback:0.1145', 'wide:0.1101', 'reignite:0.1088', 'set:0.106', 'receive:0.0992', 'gmt:0.0912']+titles_keywords+['ruble:0.4739', 'strong:0.3269', 'cut:0.2161', 'swift:0.2155', 'threatens:0.1605']"
+        ]
+    ]
+}

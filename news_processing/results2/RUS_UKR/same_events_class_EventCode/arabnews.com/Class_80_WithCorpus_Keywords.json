@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/arabnews.com/First ship leaves Mariupol since Russia took the city separatist leader.txt+eventbasecode80+eventcode80+avgtone0.4782608695652174+goldsteinscale0.75+nummentions0.01269956458635704+numarticles0.013415518491660623+numsources0.029605263157894735+news_keywords+['crimea:0.5376', 'donetsk:0.4512', 'russian:0.3684', 'shipment:0.3355', 'annexed:0.3296', 'separatist:0.2828', 'vessel:0.2807', 'seize:0.259', 'mariupol:0.2552', 'port:0.2464', 'denis:0.2386', 'bridge:0.2381', 'steelworks:0.2347', 'mainland:0.231', 'leave:0.2164', 'besieged:0.2117', 'telegram:0.2072', 'loot:0.2043', 'republic:0.1924', 'overland:0.1621', 'open:0.1618', 'month:0.1588', 'write:0.1569', 'pushilin:0.1391', 'control:0.1388', 'peoples:0.1248', 'today:0.1241', 'link:0.1082', 'hot:0.0865', 'head:0.065']+titles_keywords+['ship:0.3183', 'mariupol:0.2931', 'separatist:0.2629', 'russia:0.2616', 'city:0.1857']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/arabnews.com/Russia says no escape for last defenders of Ukrainian port prepares for new offensive.txt+eventbasecode80+eventcode80+avgtone0.46794871794871795+goldsteinscale0.75+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.009868421052631578+news_keywords+['ukraine:0.474', 'kremlin:0.4681', 'kyivlviv:0.4391', 'demilitarise:0.3495', 'azov:0.3442', 'genocide:0.3384', 'separatist:0.3059', 'incursion:0.3033', 'flee:0.285', 'expand:0.2845', 'denounce:0.2696', 'brigade:0.2656', 'news:0.2566', 'osce:0.2513', 'capital:0.2324', 'telegram:0.229', 'officer:0.2261', 'accompany:0.2117', 'tank:0.2087', 'block:0.2073', 'allegation:0.2051', 'bucha:0.1922', 'industrial:0.1918', 'description:0.1895', 'write:0.1867', 'later:0.1458', 'ordered:0.1455', 'th:0.1412', 'long:0.1394', 'billion:0.137']+titles_keywords+['ukrainian:0.3636', 'escape:0.3023', 'port:0.2116', 'defenders:0.1477', 'prepares:0.1235']"
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "EUR+RUS+42":[
+        [
+            "20220205+../news_crawling/RUS_UKR/p_articles/falmouthpacket.co.uk/Johnson and Macron agree to fight against malicious Russian activity.txt+eventbasecode42+eventcode42+avgtone0.4853372434017595+goldsteinscale0.595+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.3157894736842105+news_keywords+['natos:0.489', 'kremlin:0.4071', 'macron:0.3993', 'attack:0.3331', 'diplomatic:0.3301', 'kyiv:0.3286', 'boris:0.2946', 'justify:0.242', 'sanction:0.2022', 'remain:0.2018', 'occur:0.1878', 'meet:0.1773', 'monday:0.177', 'border:0.174', 'forward:0.1668', 'planning:0.1647', 'worry:0.164', 'debate:0.1592', 'want:0.1497', 'pretext:0.1485', 'ensure:0.1337', 'lively:0.1293', 'agree:0.1142', 'olaf:0.1092', 'current:0.0948', 'weve:0.0946', 'story:0.0922', 'prime:0.0819', 'fully:0.0742', 'overriding:0.0215']+titles_keywords+['macron:0.3704', 'russian:0.2682', 'malicious:0.2397', 'johnson:0.2233', 'fight:0.2066']"
+        ]
+    ],
+    "EUR+UKR+42":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/falmouthpacket.co.uk/Macron Scholz and Draghi back Ukraines bid to join EU during trip to Kyiv.txt+eventbasecode42+eventcode42+avgtone0.4793070259865255+goldsteinscale0.595+nummentions0.25217706821480407+numarticles0.2527193618564177+numsources0.3157894736842105+news_keywords+['ukraine:0.5237', 'putin:0.4476', 'treaty:0.3699', 'moscows:0.3537', 'macron:0.3257', 'refugee:0.3208', 'volodymyr:0.2575', 'visit:0.2503', 'infrastructure:0.2439', 'engage:0.2385', 'write:0.2276', 'bloc:0.2217', 'prepare:0.2173', 'concern:0.2144', 'news:0.214', 'urgently:0.2097', 'understand:0.2082', 'opportunity:0.2066', 'instead:0.1977', 'rally:0.1975', 'upcoming:0.1969', 'outgunned:0.1762', 'long:0.174', 'list:0.1728', 'donbas:0.1716', 'decide:0.1612', 'powerful:0.1574', 'sure:0.1534', 'head:0.1525', 'mr:0.1282']+titles_keywords+['ukraines:0.4434', 'macron:0.344', 'draghi:0.2783', 'scholz:0.238', 'bid:0.1323']"
+        ]
+    ],
+    "POL+UKR+42":[
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/falmouthpacket.co.uk/Ukraines president set to meet US officials in Kyiv.txt+eventbasecode42+eventcode42+avgtone0.4734446130500759+goldsteinscale0.595+nummentions0.11284470246734397+numarticles0.11348803480783176+numsources0.10197368421052631+news_keywords+['kyiv:0.5016', 'russians:0.413', 'invade:0.3439', 'civilians:0.2768', 'zelensky:0.2696', 'president:0.2503', 'separatist:0.2271', 'armed:0.2166', 'plan:0.1966', 'friday:0.1876', 'reorganise:0.1814', 'continue:0.1767', 'report:0.173', 'speaking:0.1729', 'donbas:0.1718', 'tunnel:0.17', 'good:0.1677', 'north:0.1675', 'long:0.1654', 'death:0.1578', 'plant:0.1406', 'believe:0.1347', 'nearly:0.1297', 'pummel:0.128', 'prior:0.1204', 'withdraw:0.1165', 'significance:0.1003', 'highlight:0.0951', 'true:0.08', 'cost:0.0267']+titles_keywords+['kyiv:0.417', 'ukraines:0.3679', 'president:0.2672', 'meet:0.2398', 'set:0.0509']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/falmouthpacket.co.uk/William visits MI6 ahead of Russias invasion of Ukraine.txt+eventbasecode42+eventcode42+avgtone0.5178571428571429+goldsteinscale0.595+nummentions0.1444121915820029+numarticles0.145032632342277+numsources0.16447368421052633+news_keywords+['gchq:0.502', 'whitehall:0.4098', 'william:0.3592', 'security:0.3522', 'agency:0.3028', 'russias:0.287', 'intelligence:0.278', 'uk:0.2726', 'throne:0.2721', 'visit:0.2617', 'attack:0.2551', 'privilege:0.2537', 'private:0.2523', 'important:0.223', 'diary:0.2207', 'duke:0.2135', 'ahead:0.2041', 'court:0.1686', 'extraordinary:0.154', 'time:0.1529', 'misuse:0.1504', 'know:0.1469', 'head:0.1408', 'issue:0.1384', 'moore:0.1346', 'want:0.1294', 'background:0.1179', 'second:0.1157', 'week:0.1058', 'make:0.0832']+titles_keywords+['mi6:0.5131', 'ukraine:0.3076', 'william:0.291', 'invasion:0.274', 'ahead:0.1281']"
+        ]
+    ]
+}

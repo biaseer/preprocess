@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+51":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/neworleanssun.com/Premier Li Offers Chinas Help for Grave Ukraine Situation.txt+eventbasecode51+eventcode51+avgtone0.48958333333333337+goldsteinscale0.67+nummentions0.061683599419448475+numarticles0.06236403190717912+numsources0.08223684210526316+news_keywords+['ukraine:0.4102', 'beijing:0.3556', 'keqiang:0.2735', 'peaceful:0.2687', 'humanitarian:0.2583', 'conflict:0.2552', 'sovereignty:0.2521', 'sanction:0.2441', 'economy:0.2361', 'disinformation:0.2356', 'role:0.222', 'li:0.201', 'jinping:0.1907', 'help:0.1886', 'leader:0.1871', 'world:0.1781', 'neutral:0.1753', 'news:0.1683', 'continue:0.1678', 'speak:0.1501', 'party:0.148', 'refer:0.1475', 'ready:0.135', 'encourage:0.1343', 'include:0.1133', 'false:0.0979', 'second:0.0866', 'largely:0.0831', 'basis:0.0658', 'rubber:0.0535']+titles_keywords+['li:0.326', 'ukraine:0.2989', 'chinas:0.2618', 'help:0.1736', 'offers:0.0327']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/neworleanssun.com/Mattis Putin Goes to Bed at Night Fearful.txt+eventbasecode51+eventcode51+avgtone0.48170731707317066+goldsteinscale0.67+nummentions0.09288824383164006+numarticles0.09354604786076867+numsources0.06578947368421052+news_keywords+['putin:0.433', 'nato:0.3943', 'mattis:0.3696', 'seoul:0.3694', 'diplomatic:0.3655', 'yoon:0.352', 'turkmenistan:0.3328', 'pentagon:0.3082', 'war:0.3042', 'dostoevsky:0.2874', 'democracies:0.2616', 'talk:0.2597', 'redeploy:0.2368', 'world:0.2307', 'night:0.2234', 'outcome:0.222', 'don:0.2088', 'arrangement:0.2037', 'fearful:0.1972', 'oppose:0.1968', 'compare:0.1952', 'studies:0.1834', 'suk:0.1756', 'state:0.1571', 'long:0.1544', 'abbreviation:0.1543', 'praise:0.1358', 'agree:0.1165', 'nontraditional:0.1127', 'june:0.1099']+titles_keywords+['mattis:0.5722', 'putin:0.4637', 'fearful:0.4073', 'night:0.3177', 'bed:0.3122']"
+        ]
+    ]
+}

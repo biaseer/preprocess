@@ -1,0 +1,25 @@
+{
+    "BEL+RUS+100":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Exclusive Four EU countries call for use of Russian assets to rebuild Ukraine.txt+eventbasecode100+eventcode100+avgtone0.4771634615384615+goldsteinscale0.25+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.013157894736842105+news_keywords+['ukraine:0.4916', 'war:0.3307', 'oligarch:0.3299', 'confiscate:0.3292', 'occupy:0.3115', 'nationalist:0.2832', 'funding:0.2657', 'reuterspavel:0.2656', 'destroy:0.2501', 'reconstruction:0.2441', 'euro:0.223', 'bloc:0.1997', 'prepare:0.1808', 'leverage:0.1779', 'klimovfile:0.1776', 'legal:0.1776', 'iron:0.1758', 'case:0.1665', 'enterprise:0.1637', 'continue:0.1563', 'sum:0.1555', 'write:0.15', 'azovstal:0.1485', 'monday:0.1447', 'substantial:0.1227', 'frozen:0.1184', 'link:0.1111', 'compensates:0.1109', 'measure:0.1074', 'possible:0.058']+titles_keywords+['ukraine:0.4494', 'rebuild:0.2268', 'assets:0.1603', 'use:0.1362', 'exclusive:0.0245']"
+        ]
+    ],
+    "EUR+UKR+100":[
+        [
+            "20211010+../news_crawling/RUS_UKR/p_articles/thestar.com.my/OSCE mission in eastern Ukraine suspends operations amid protests.txt+eventbasecode100+eventcode100+avgtone0.4535315985130112+goldsteinscale0.25+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.023026315789473683+news_keywords+['osce:0.4738', 'ceasefire:0.4298', 'crimean:0.4163', 'donetsk:0.3656', 'kremlin:0.3377', 'protesters:0.3333', 'reconnaissance:0.3201', 'operation:0.3079', 'officer:0.2675', 'separatist:0.2493', 'safety:0.2226', 'concern:0.2112', 'organization:0.2102', 'annex:0.2031', 'justify:0.197', 'control:0.1832', 'reutersalexander:0.1796', 'confront:0.1739', 'evik:0.1727', 'follow:0.1712', 'oust:0.1558', 'yaar:0.154', 'monitor:0.1511', 'rebel:0.1411', 'pro:0.1063', 'wednesday:0.105', 'near:0.1038', 'photo:0.0977', 'housing:0.0849', 'added:0.0408']+titles_keywords+['osce:0.4999', 'ukraine:0.3322', 'protests:0.2553', 'suspends:0.207', 'mission:0.1733']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/thestar.com.my/EU unveils new sanctions on Moscow as Kyiv mayor calls for halt to bloody money.txt+eventbasecode100+eventcode100+avgtone0.46799999999999997+goldsteinscale0.25+nummentions0.01995645863570392+numarticles0.020667150108774474+numsources0.023026315789473683+news_keywords+['sanctions:0.4626', 'kyiv:0.4217', 'kremlin:0.4039', 'reutersvladyslav:0.3453', 'war:0.3128', 'demilitarize:0.3001', 'separatist:0.2878', 'news:0.271', 'investigation:0.2655', 'diplomat:0.2636', 'reporting:0.263', 'approve:0.2407', 'halt:0.2399', 'cite:0.2393', 'euro:0.2337', 'atrocity:0.2248', 'coal:0.2196', 'enter:0.2016', 'convened:0.1915', 'bucha:0.1807', 'prove:0.1788', 'brace:0.1619', 'states:0.1573', 'port:0.1572', 'grim:0.1526', 'biden:0.1483', 'april:0.1447', 'general:0.1308', 'sweeping:0.1307', 'additional:0.1259']+titles_keywords+['sanctions:0.5166', 'kyiv:0.4683', 'bloody:0.1838', 'halt:0.1547', 'new:0.1139']"
+        ],
+        [
+            "20220725+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Britain says Russia has continued to attempt tactical assaults on Bakhmut axis.txt+eventbasecode100+eventcode100+avgtone0.4875+goldsteinscale0.25+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['ukrainehandout:0.4404', 'donetsk:0.3925', 'russian:0.3851', 'tactical:0.3337', 'bakhmut:0.3259', 'attack:0.3139', 'zaporizhzhia:0.2268', 'reuters:0.2122', 'update:0.2111', 'donbas:0.211', 'emergency:0.2038', 'continue:0.1891', 'axis:0.1864', 'press:0.1757', 'reinforcement:0.1708', 'work:0.1697', 'northern:0.1666', 'monday:0.1574', 'sector:0.1564', 'adjust:0.1445', 'vulnerable:0.1371', 'briefed:0.1224', 'firefighter:0.1216', 'reallocate:0.1215', 'area:0.12', 'number:0.0736', 'say:0.0605', 'significant:0.0371', 'state:0.0331', 'likely:0.0151']+titles_keywords+['bakhmut:0.334', 'russia:0.3288', 'tactical:0.2465', 'assaults:0.1891', 'continued:0.0725']"
+        ]
+    ],
+    "UKR+UKR+100":[
+        [
+            "20220516+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Ukraines Zelenskiy says he would meet with Putin to end the war.txt+eventbasecode100+eventcode100+avgtone0.4780701754385964+goldsteinscale0.25+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['putin:0.4564', 'kyiv:0.4295', 'ukraines:0.4282', 'war:0.335', 'zelenskiy:0.2932', 'talk:0.2576', 'negotiator:0.2436', 'arrange:0.2165', 'halt:0.2078', 'end:0.2076', 'involve:0.1924', 'federation:0.191', 'reutersarnd:0.1882', 'remain:0.1756', 'annexed:0.1667', 'willing:0.1611', 'decide:0.149', 'hold:0.1479', 'davos:0.1387', 'civilian:0.1345', 'official:0.1152', 'february:0.1085', 'issue:0.0956', 'price:0.0867', 'near:0.0866', 'bloody:0.0764', 'impossible:0.0649', 'degrade:0.0581', 'pour:0.0251', 'particularly:0.0153']+titles_keywords+['zelenskiy:0.4975', 'putin:0.433', 'ukraines:0.3554', 'meet:0.2771', 'war:0.2509']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+60":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Russia might not be able to take Kyiv Western officials say desperate Putin is trying.txt+eventbasecode60+eventcode60+avgtone0.48295454545454547+goldsteinscale0.8+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.003289473684210526+news_keywords+['kyiv:0.5676', 'ukraines:0.4825', 'chechnya:0.4399', 'putinsbuttboys:0.39', 'nato:0.3221', 'syrian:0.2891', 'invade:0.2811', 'strategic:0.2571', 'troop:0.2325', 'proceed:0.2255', 'scare:0.1955', 'victory:0.1771', 'know:0.174', 'bloody:0.1624', 'journalism:0.1503', 'replace:0.1424', 'supervision:0.1401', 'long:0.1329', 'plus:0.123', 'ranking:0.1189', 'agitprop:0.116', 'aerial:0.1023', 'make:0.0996', 'sht:0.0924', 'true:0.0886', 'http:0.0847', 'resistance:0.0813', 'shouldnt:0.0759', 'lots:0.0647', 'float:0.0593']+titles_keywords+['kyiv:0.5395', 'putin:0.4641', 'mercenaries:0.3232', 'kremlins:0.2877', 'desperate:0.2279']"
+        ]
+    ],
+    "UKR+RUS+60":[
+        [
+            "20220516+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Russia says wounded Ukrainian soldiers will be evacuated from Azovstal to Russianoccupied territories of Donetsk.txt+eventbasecode60+eventcode60+avgtone0.4508196721311475+goldsteinscale0.8+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4884', 'ceasefire:0.4766', 'russianoccupied:0.4734', 'pravda:0.3713', 'negotiation:0.3689', 'operation:0.3586', 'evacuate:0.3479', 'military:0.3196', 'translation:0.3178', 'azovs:0.2849', 'treat:0.2648', 'claim:0.2624', 'description:0.2522', 'vomit:0.2379', 'assorted:0.234', 'report:0.2338', 'source:0.2239', 'guidance:0.2227', 'nutrition:0.2191', 'prisoner:0.2181', 'physician:0.217', 'corridor:0.2102', 'rcv:0.198', 'deal:0.1815', 'allow:0.1798', 'long:0.1787', 'arent:0.1504', 'reach:0.1495', 'soon:0.1416', 'interestingly:0.0994']+titles_keywords+['ukrainian:0.4224', 'russianoccupied:0.4006', 'evacuated:0.3322', 'azovstal:0.3067', 'soldiers:0.3043']"
+        ]
+    ]
+}

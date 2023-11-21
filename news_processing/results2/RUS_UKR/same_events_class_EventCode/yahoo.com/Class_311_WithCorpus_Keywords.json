@@ -1,0 +1,18 @@
+{
+    "DEU+UKR+311":[
+        [
+            "20210721+../news_crawling/RUS_UKR/p_articles/yahoo.com/Biden and Germany vow to protect Ukraine in enabling completion of Nord Stream 2 pipeline.txt+eventbasecode31+eventcode311+avgtone0.5054945054945055+goldsteinscale0.76+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.006578947368421052+news_keywords+['pipeline:0.3895', 'russias:0.3421', 'biden:0.3102', 'undermine:0.278', 'threat:0.2754', 'renewables:0.267', 'republicans:0.2495', 'sovereignty:0.2445', 'agreement:0.2389', 'negotiate:0.2261', 'risch:0.213', 'sanction:0.2127', 'berlin:0.2079', 'assurances:0.2058', 'alliance:0.2002', 'progress:0.1987', 'relations:0.1943', 'cite:0.1916', 'construction:0.1806', 'pave:0.1768', 'allow:0.1752', 'foreign:0.1746', 'hawkish:0.1736', 'receive:0.1436', 'reporter:0.1424', 'sure:0.1405', 'state:0.1303', 'invest:0.1145', 'export:0.0998', 'billion:0.0708']+titles_keywords+['ukraine:0.3506', 'pipeline:0.3358', 'biden:0.3092', 'protect:0.2902', 'nord:0.2105']"
+        ]
+    ],
+    "RUS+EUR+311":[
+        []
+    ],
+    "RUS+UKR+311":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russia will allow Ukraine to export grain in UNbrokered bid to alleviate global food crisis.txt+eventbasecode31+eventcode311+avgtone0.4923199680829843+goldsteinscale0.76+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4466', 'erdogan:0.3553', 'war:0.3224', 'destabilize:0.3045', 'famine:0.2903', 'agreement:0.2884', 'briefing:0.2845', 'infrastructure:0.283', 'negotiate:0.2756', 'commodity:0.2644', 'plan:0.2641', 'tayyip:0.2557', 'bosporus:0.2517', 'know:0.2335', 'emergency:0.2315', 'allow:0.2303', 'import:0.219', 'minefield:0.2015', 'crop:0.1849', 'soon:0.1787', 'issue:0.1628', 'implemented:0.1627', 'viability:0.1622', 'plunge:0.1616', 'unprecedented:0.1545', 'recep:0.1522', 'similar:0.1411', 'facto:0.1316', 'eighteen:0.112', 'percent:0.0737']+titles_keywords+['ukraine:0.3762', 'grain:0.2692', 'export:0.2306', 'allow:0.1905', 'crisis:0.057']"
+        ],
+        [
+            "20220809+../news_crawling/RUS_UKR/p_articles/yahoo.com/US to provide 89 million for demining efforts in Ukraine.txt+eventbasecode31+eventcode311+avgtone0.478932584269663+goldsteinscale0.76+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5025', 'landmines:0.3897', 'isis:0.3478', 'ordnance:0.3236', 'deploy:0.317', 'invasion:0.3118', 'defuse:0.2512', 'funding:0.2313', 'unprovoked:0.2245', 'deliver:0.2086', 'swath:0.2042', 'billion:0.1892', 'donbas:0.1808', 'monastyrsky:0.1798', 'block:0.1759', 'farmland:0.1711', 'combine:0.1703', 'reconstruction:0.1558', 'demine:0.1514', 'continue:0.1481', 'compare:0.144', 'th:0.1345', 'employ:0.1319', 'far:0.1251', 'child:0.1198', 'unlawful:0.1128', 'roughly:0.1114', 'size:0.1101', 'improvise:0.1024', 'high:0.0869']+titles_keywords+['ukraine:0.3938', 'million:0.2582', 'demining:0.2075', '89:0.1571', 'provide:0.1266']"
+        ]
+    ]
+}

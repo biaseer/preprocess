@@ -1,0 +1,16 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/US President Joe Biden announces sanctions against Russia calls Putins moves on Ukraine an invasion.txt+eventbasecode20+eventcode20+avgtone0.4603580562659847+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['putin:0.4796', 'sanction:0.4158', 'ukraine:0.378', 'invade:0.365', 'threaten:0.3348', 'yellen:0.2887', 'block:0.2881', 'government:0.2776', 'economic:0.2427', 'imply:0.2379', 'eu:0.2323', 'coordinate:0.2178', 'report:0.2114', 'banking:0.2013', 'implement:0.1935', 'announces:0.1933', 'telegram:0.1837', 'severe:0.1807', 'table:0.1621', 'cover:0.1565', 'continue:0.1539', 'step:0.1451', 'export:0.1395', 'tuesday:0.135', 'option:0.1302', 'swiftly:0.1279', 'veb:0.1143', 'tranche:0.1125', 'big:0.1114', 'state:0.1044']+titles_keywords+['sanctions:0.4309', 'biden:0.4011', 'putins:0.2921', 'invasion:0.165', 'announces:0.0795']"
+        ],
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/RussiaUkraine War Zelenskyy pushes call for nofly zone over Ukraine.txt+eventbasecode20+eventcode20+avgtone0.47586206896551725+goldsteinscale0.65+nummentions0.016690856313497822+numarticles0.01704133430021755+numsources0.05921052631578947+news_keywords+['ukraine:0.4521', 'nato:0.3965', 'russiaukraine:0.3534', 'fly:0.3353', 'vladimir:0.2882', 'zone:0.1977', 'military:0.196', 'volodymyr:0.1856', 'nofly:0.1741', 'conflict:0.1588', 'impose:0.1202', 'president:0.1139', 'sky:0.1111', 'rule:0.1104', 'western:0.1015', 'telegram:0.0967', 'unauthorised:0.0815', 'say:0.0805', 'world:0.0771', 'consider:0.067', 'share:0.0601', 'risk:0.0595', 'bar:0.0537', 'address:0.0524', 'participation:0.0496', 'directly:0.0371', 'pdf:0.0258', 'click:0.0208', 'arm:0.0172', 'saturday:0.0071']+titles_keywords+['zelenskyy:0.4755', 'ukraine:0.3898', 'war:0.3069', 'nofly:0.2797', 'zone:0.1749']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [],
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/Hitler had Jewish blood Russian Foreign Minister Lavrov.txt+eventbasecode20+eventcode20+avgtone0.46495956873315364+goldsteinscale0.65+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.01644736842105263+news_keywords+['hitler:0.4972', 'jewish:0.4805', 'nazification:0.4609', 'antisemites:0.3509', 'sergey:0.3013', 'russia:0.2966', 'ancestry:0.2816', 'historically:0.2612', 'conspiracy:0.2577', 'blood:0.226', 'rhetoric:0.2194', 'volodymyr:0.1933', 'theorist:0.191', 'article:0.1761', 'vile:0.173', 'inaccurate:0.1561', 'forget:0.1521', 'dangerous:0.1516', 'investigate:0.1469', 'blinken:0.1399', 'lawyer:0.1303', 'rumour:0.1258', 'counterpart:0.1167', 'elect:0.1142', 'negate:0.1115', 'remark:0.1007', 'big:0.083', 'told:0.0643', 'nightly:0.0531', 'free:0.049']+titles_keywords+['hitler:0.5184', 'jewish:0.4254', 'lavrov:0.4177', 'russian:0.3882', 'blood:0.2989']"
+        ]
+    ]
+}

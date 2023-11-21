@@ -1,0 +1,25 @@
+{
+    "AUS+UKR+172":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/ndtv.com/Australia Departs Ukraine Targets Autocratic Russia Silent China.txt+eventbasecode172+eventcode172+avgtone0.4721189591078067+goldsteinscale0.25+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4746', 'diplomacy:0.3415', 'evacuate:0.3129', 'australians:0.3045', 'invasion:0.292', 'autocracies:0.2649', 'border:0.2511', 'operation:0.2163', 'troop:0.2104', 'bully:0.1837', 'security:0.1824', 'dangerous:0.1715', 'unilateral:0.162', 'drill:0.1591', 'tension:0.1509', 'syndicate:0.1463', 'morrison:0.1413', 'immediately:0.1265', 'kilometres:0.1258', 'pivot:0.1141', 'direct:0.111', 'auto:0.1083', 'begin:0.1076', 'reiterate:0.106', 'stage:0.105', 'telephone:0.1021', 'short:0.1005', 'similar:0.0976', 'feed:0.0968', 'reach:0.0782']+titles_keywords+['ukraine:0.4736', 'silent:0.2082', 'autocratic:0.2037', 'departs:0.1437', 'targets:0.1398']"
+        ]
+    ],
+    "RUS+UKR+172":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/ndtv.com/50 Russian Forces In Attack Position Tactical Moves US On Ukraine.txt+eventbasecode172+eventcode172+avgtone0.4688427299703264+goldsteinscale0.25+nummentions0.08055152394775036+numarticles0.07831762146482958+numsources0.02631578947368421+news_keywords+['crimea:0.495', 'nato:0.4375', 'invade:0.4191', 'putin:0.4145', 'battalion:0.3567', 'tactical:0.3515', 'destabilization:0.3268', 'border:0.2625', 'moves:0.2493', 'position:0.2327', 'bluff:0.2301', 'occupied:0.2142', 'near:0.1923', 'plan:0.1866', 'order:0.1848', 'donbas:0.1831', 'news:0.1819', 'forces:0.1815', 'pretext:0.1785', 'syndicate:0.169', 'observe:0.1577', 'wednesday:0.1576', 'secretary:0.1453', 'austin:0.126', 'short:0.1257', 'increase:0.1222', 'fabricate:0.1162', 'believe:0.098', 'uncoil:0.0925', 'ndtv:0.0865']+titles_keywords+['tactical:0.4111', 'ukraine:0.3788', 'moves:0.3248', 'attack:0.3217', '50:0.185']"
+        ],
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/ndtv.com/Why Ukraine Has Been Able To Stall Russian Troops Till Now 5 Reasons.txt+eventbasecode172+eventcode172+avgtone0.4844913151364764+goldsteinscale0.25+nummentions0.029753265602322207+numarticles0.030456852791878174+numsources0.03618421052631579+news_keywords+['crimea:0.4622', 'ukrainians:0.4268', 'nato:0.3481', 'putin:0.3407', 'invade:0.3405', 'strategy:0.3147', 'troops:0.2947', 'armed:0.2265', 'zelensky:0.2171', 'molotov:0.2084', 'turn:0.2081', 'early:0.1797', 'hold:0.1773', 'colonel:0.1755', 'enters:0.1634', 'resist:0.1601', 'future:0.1583', 'overreaction:0.1483', 'focus:0.1395', 'combine:0.1377', 'increase:0.1298', 'write:0.1283', 'treatment:0.1247', 'reasons:0.1147', 'point:0.1141', 'unclear:0.1041', 'analyses:0.0998', 'rapid:0.0969', 'substantially:0.0628', 'sleepless:0.0578']+titles_keywords+['ukraine:0.4639', 'troops:0.3288', 'reasons:0.2805', 'stall:0.224', 'able:0.1269']"
+        ]
+    ],
+    "RUS+USA+172":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/ndtv.com/Russia Fines Google Over YouTube Fakes Report.txt+eventbasecode172+eventcode172+avgtone0.4548872180451128+goldsteinscale0.25+nummentions0.02104499274310595+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['russia:0.4458', 'google:0.3736', 'youtube:0.2875', 'rouble:0.2687', 'fines:0.2555', 'report:0.2521', 'fake:0.2385', 'news:0.2057', 'nationalist:0.194', 'fail:0.1866', 'alphabet:0.1766', 'comply:0.1752', 'troop:0.1728', 'million:0.1653', 'watchdog:0.1574', 'syndicate:0.1474', 'dangerous:0.1371', 'ndtv:0.1355', 'term:0.1273', 'earlier:0.1135', 'generate:0.107', 'auto:0.0998', 'send:0.095', 'tass:0.0934', 'step:0.0911', 'say:0.0905', 'fin:0.0887', 'thursday:0.0882', 'capability:0.0588', 'degrade:0.047']+titles_keywords+['russia:0.3542', 'google:0.3315', 'fines:0.3291', 'report:0.3199', 'fakes:0.1957']"
+        ]
+    ],
+    "UKR+RUS+172":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/ndtv.com/Ukraine Crisis Russian Ships Fishing Boats Banned From Entering Canada.txt+eventbasecode172+eventcode172+avgtone0.48983739837398377+goldsteinscale0.25+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4545', 'ottawa:0.3295', 'ship:0.2824', 'war:0.2596', 'invasion:0.2426', 'canadian:0.2326', 'crisis:0.2114', 'flag:0.2048', 'humanitarian:0.2044', 'airspace:0.2014', 'ban:0.1902', 'fishing:0.1831', 'atlantic:0.1791', 'headline:0.1718', 'economic:0.1524', 'syndicate:0.1281', 'immediately:0.1207', 'flee:0.12', 'water:0.1103', 'neighbor:0.1082', 'number:0.1028', 'additional:0.0958', 'follow:0.0866', 'good:0.0769', 'significant:0.0763', 'ndtv:0.071', 'acknowledge:0.0702', 'week:0.0613', 'measure:0.0564', 'welcome:0.0518']+titles_keywords+['ukraine:0.3869', 'ships:0.2661', 'fishing:0.2196', 'crisis:0.1608', 'banned:0.1567']"
+        ]
+    ]
+}

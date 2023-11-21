@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+90":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/sana.sy/Russian Defense Washington conducts secret program in Ukraine to study spreading of pathogens from bats.txt+eventbasecode90+eventcode90+avgtone0.5+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4699', 'pathogen:0.4485', 'putin:0.3495', 'labs:0.3039', 'bat:0.2994', 'kharkov:0.267', 'military:0.2602', 'viral:0.2472', 'biological:0.2443', 'border:0.2398', 'pentagon:0.236', 'weapon:0.2269', 'funding:0.2225', 'export:0.1887', 'president:0.1504', 'study:0.146', 'secret:0.1406', 'conduct:0.1391', 'document:0.1381', 'carry:0.1328', 'point:0.1247', 'transmission:0.122', 'program:0.1096', 'thursday:0.0989', 'erase:0.0978', 'sana:0.0909', 'dozen:0.083', 'track:0.0681', 'say:0.054', 'add:0.0488']+titles_keywords+['bats:0.4061', 'pathogens:0.3594', 'russian:0.3062', 'washington:0.2268', 'study:0.0809']"
+        ],
+        [
+            "20220612+../news_crawling/RUS_UKR/p_articles/sana.sy/Russia investigates the recent practices of Kyiv regime.txt+eventbasecode90+eventcode90+avgtone0.45669291338582674+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5502', 'ukrainian:0.4298', 'russia:0.4153', 'investigate:0.3766', 'prosecute:0.3219', 'crime:0.3216', 'bomb:0.2256', 'committee:0.1977', 'federation:0.1939', 'regime:0.191', 'news:0.1857', 'civilian:0.1788', 'act:0.1766', 'injure:0.1683', 'melitopol:0.161', 'press:0.1413', 'people:0.1323', 'device:0.1274', 'intention:0.1217', 'donbass:0.1188', 'recent:0.1013', 'monday:0.1', 'official:0.091', 'force:0.0861', 'sana:0.083', 'interior:0.0828', 'say:0.0668', 'build:0.066', 'near:0.025', 'man:-0.0283']+titles_keywords+['kyiv:0.6072', 'russia:0.4125', 'regime:0.2901', 'investigates:0.2198', 'recent:0.0917']"
+        ]
+    ]
+}

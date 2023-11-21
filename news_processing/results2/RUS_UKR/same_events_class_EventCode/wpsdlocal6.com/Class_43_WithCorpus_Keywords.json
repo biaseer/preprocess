@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+43":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/wpsdlocal6.com/Karine JeanPierre to become White House press secretary the first Black and out LGBTQ person.txt+eventbasecode43+eventcode43+avgtone0.5029455081001473+goldsteinscale0.64+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.03618421052631579+news_keywords+['biden:0.4617', 'secretary:0.389', 'election:0.3419', 'msnbc:0.3104', 'anita:0.3071', 'pierre:0.2973', 'podium:0.2831', 'psaki:0.277', 'rolenext:0.2742', 'cnnkarine:0.2569', 'pentagon:0.2393', 'white:0.2366', 'takeover:0.234', 'dunn:0.2278', 'lgbtq:0.2109', 'brief:0.2038', 'communicate:0.1994', 'schedule:0.1895', 'say:0.1886', 'official:0.1821', 'list:0.1767', 'press:0.174', 'report:0.1716', 'decorum:0.1702', 'history:0.1639', 'begin:0.1634', 'positive:0.1617', 'departs:0.1581', 'sever:0.1286', 'unsurprising:0.1106']+titles_keywords+['jeanpierre:0.3966', 'secretary:0.3363', 'white:0.3046', 'lgbtq:0.2896', 'role:0.2741']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/wpsdlocal6.com/Russia says its withdrawing some troops following exercises around Ukraine but major drills continue.txt+eventbasecode43+eventcode43+avgtone0.4924812030075188+goldsteinscale0.64+nummentions0.03555878084179971+numarticles0.03625815808556925+numsources0.049342105263157895+news_keywords+['crimea:0.5499', 'russiaannounced:0.4863', 'kremlin:0.4581', 'dmitry:0.3779', 'majormilitary:0.3746', 'diplomacy:0.339', 'escalation:0.3217', 'underway:0.262', 'formation:0.2235', 'exerciseswould:0.2181', 'choreograph:0.2179', 'drill:0.2124', 'helicopter:0.2123', 'talk:0.2024', 'adjacent:0.2014', 'vacant:0.1975', 'agreement:0.1967', 'plan:0.1956', 'cnn:0.1954', 'march:0.1908', 'table:0.186', 'operationally:0.1824', 'end:0.1819', 'rail:0.1811', 'hold:0.1753', 'long:0.1728', 'issue:0.1517', 'state:0.1472', 'possibility:0.1197', 'returnto:0.1075']+titles_keywords+['ukraine:0.358', 'withdrawing:0.2838', 'troops:0.2524', 'exercises:0.231', 'says:0.0177']"
+        ]
+    ]
+}

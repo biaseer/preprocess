@@ -1,0 +1,28 @@
+{
+    "CAN+RUS+163":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/news.am/Trudeau announces new sanctions against 10 Russians.txt+eventbasecode163+eventcode163+avgtone0.45698924731182794+goldsteinscale0.1+nummentions0.00362844702467344+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['putin:0.4987', 'trudeau:0.4255', 'russians:0.4174', 'sanction:0.3836', 'ukraine:0.3782', 'canadian:0.279', 'oligarchs:0.258', 'impose:0.23', 'navalny:0.228', 'government:0.2233', 'jailed:0.2161', 'report:0.2085', 'invasion:0.178', 'unjustified:0.1774', 'activist:0.1762', 'alexey:0.1635', 'import:0.137', 'cnn:0.127', 'involved:0.1215', 'list:0.1094', 'official:0.1038', 'come:0.0839', 'alongside:0.0813', 'new:0.0749', 'london:0.0726', 'speaking:0.0631', 'express:0.048', 'hope:0.0378', 'current:0.0334', 'compile:0.0204']+titles_keywords+['sanctions:0.4682', 'russians:0.341', 'trudeau:0.3178', '10:0.2734', 'new:0.0554']"
+        ]
+    ],
+    "EUR+RUS+163":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/news.am/Newspaper EU imposes sanction also on excommander of Russia peacekeepers in Artsakh.txt+eventbasecode163+eventcode163+avgtone0.4947368421052632+goldsteinscale0.1+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['muradov:0.4921', 'ukraine:0.4471', 'donetsk:0.378', 'russian:0.3777', 'karabakh:0.3377', 'yerevan:0.3253', 'peacekeeper:0.324', 'military:0.322', 'journalist:0.286', 'war:0.2803', 'artsakh:0.26', 'sanction:0.2579', 'hraparak:0.2094', 'operation:0.2019', 'nagorno:0.1985', 'commander:0.1873', 'union:0.18', 'excommander:0.1242', 'ranking:0.108', 'information:0.1008', 'lead:0.0991', 'number:0.0879', 'write:0.0846', 'tooon:0.0816', 'official:0.0796', 'list:0.0768', 'high:0.0673', 'according:0.0667', 'key:0.0612', 'daily:0.0381']+titles_keywords+['sanction:0.4498', 'peacekeepers:0.3289', 'artsakh:0.3018', 'eu:0.2743', 'newspaper:0.2687']"
+        ]
+    ],
+    "GBR+RUS+163":[
+        [
+            "20220726+../news_crawling/RUS_UKR/p_articles/news.am/UK extends sanctions on Russia.txt+eventbasecode163+eventcode163+avgtone0.46774193548387094+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['sanctions:0.5439', 'sanction:0.4371', 'russia:0.4201', 'usmanov:0.3499', 'sanctioned:0.3333', 'uk:0.3077', 'donetsk:0.2944', 'kuznetsov:0.2902', 'impose:0.2743', 'vladislav:0.2734', 'extend:0.2378', 'businessmen:0.2255', 'billionaire:0.1815', 'republic:0.1796', 'march:0.176', 'citizen:0.1596', 'vitaly:0.152', 'official:0.1513', 'list:0.1493', 'proclaim:0.1443', 'know:0.1421', 'governor:0.1398', 'come:0.1257', 'far:0.1107', 'alisher:0.1024', 'organization:0.0941', 'say:0.0879', 'include:0.0848', 'nephew:0.0692', 'self:0.0274']+titles_keywords+['sanctions:0.4531', 'russia:0.3308', 'extends:0.2902', 'uk:0.2228']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/news.am/Newspaper Sanctions on Russia have consequences in Armenia.txt+eventbasecode163+eventcode163+avgtone0.4824561403508772+goldsteinscale0.1+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['armenia:0.4753', 'sanctions:0.3801', 'russian:0.347', 'karabakh:0.2968', 'artsakh:0.2728', 'copper:0.2529', 'teghut:0.2332', 'newspaper:0.2296', 'consequence:0.2218', 'operate:0.2065', 'companywhich:0.1886', 'zhoghovurd:0.1864', 'province:0.1577', 'military:0.1525', 'cease:0.1519', 'remind:0.1501', 'vtb:0.146', 'know:0.1441', 'closed:0.1438', 'power:0.1408', 'transfer:0.1395', 'bank:0.1375', 'write:0.1292', 'reason:0.1286', 'fall:0.117', 'period:0.1138', 'combine:0.1133', 'world:0.1065', 'acp:0.0824', 'price:0.0595']+titles_keywords+['sanctions:0.5541', 'armenia:0.4875', 'newspaper:0.4042', 'russia:0.3875', 'consequences:0.2689']",
+            "20220311+../news_crawling/RUS_UKR/p_articles/news.am/Sanctions on Russia have consequences in Armenia.txt+eventbasecode163+eventcode163+avgtone0.48139534883720925+goldsteinscale0.1+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['armenia:0.4863', 'sanctions:0.4112', 'ukrainian:0.3765', 'karabakh:0.3042', 'copper:0.2606', 'artsakh:0.2598', 'consequence:0.2396', 'teghut:0.2242', 'operate:0.207', 'companywhich:0.1769', 'cease:0.1671', 'remind:0.1589', 'transfer:0.1567', 'vtb:0.151', 'power:0.1425', 'military:0.1418', 'know:0.1408', 'closed:0.1386', 'reason:0.1315', 'bank:0.1275', 'newspaper:0.1223', 'combine:0.1194', 'period:0.1094', 'fall:0.1084', 'world:0.1012', 'acp:0.0949', 'price:0.067', 'difficult:0.0516', 'large:0.04', 'particular:0.0366']+titles_keywords+['sanctions:0.6038', 'armenia:0.5595', 'russia:0.3851', 'consequences:0.2946']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/news.am/Zelenskyy speaks on need to introduce preventive sanctions against Russia.txt+eventbasecode163+eventcode163+avgtone0.48295454545454547+goldsteinscale0.1+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['zelenskyy:0.4482', 'putin:0.4348', 'ukraine:0.4203', 'russia:0.3693', 'meeting:0.2295', 'sanction:0.2162', 'unblock:0.1898', 'return:0.188', 'relation:0.1756', 'speak:0.17', 'speaking:0.1521', 'president:0.1463', 'homeland:0.1376', 'introduce:0.1332', 'preventive:0.1127', 'country:0.1073', 'expectation:0.1071', 'say:0.0841', 'note:0.0821', 'today:0.0769', 'need:0.0497', 'likely:0.0335', 'definitely:-0.0084']+titles_keywords+['zelenskyy:0.5978', 'sanctions:0.4685', 'russia:0.2768', 'preventive:0.2167', 'speaks:0.1569']"
+        ]
+    ]
+}

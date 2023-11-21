@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/fbcnews.com.fj/EU seeks Fijis support in condemning Russia Share.txt+eventbasecode111+eventcode111+avgtone0.48761609907120745+goldsteinscale0.4+nummentions0.04354136429608128+numarticles0.04423495286439449+numsources0.06578947368421052+news_keywords+['ukraine:0.4331', 'fijis:0.373', 'eu:0.3454', 'multilateral:0.2911', 'unprovoked:0.2648', 'suva:0.255', 'ambassador:0.2062', 'oil:0.2015', 'crisis:0.1972', 'warring:0.1899', 'union:0.1794', 'action:0.1773', 'concern:0.1745', 'news:0.162', 'violate:0.1518', 'world:0.1497', 'military:0.1442', 'economic:0.1311', 'echo:0.1245', 'coordinate:0.1207', 'sujiro:0.1146', 'example:0.1128', 'know:0.1126', 'return:0.1098', 'fbc:0.0992', 'course:0.0981', 'account:0.0973', 'price:0.0972', 'include:0.093', 'look:0.0877']+titles_keywords+['fijis:0.4072', 'eu:0.3044', 'condemning:0.1395', 'share:0.1297', 'seeks:0.1016']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/fbcnews.com.fj/Zelensky lampoons Russias laser weapons claim Share.txt+eventbasecode111+eventcode111+avgtone0.47860962566844917+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['zelensky:0.4699', 'ukraine:0.4445', 'laser:0.4123', 'weapon:0.3723', 'war:0.3399', 'drone:0.3217', 'propaganda:0.2726', 'volodymyr:0.2691', 'nazi:0.2385', 'invent:0.2282', 'point:0.1985', 'president:0.1812', 'turn:0.1756', 'lampoon:0.1634', 'mission:0.1624', 'use:0.1535', 'night:0.1507', 'extend:0.1478', 'mock:0.1463', 'law:0.1408', 'sophisticated:0.13', 'final:0.1278', 'clearer:0.1222', 'draw:0.1183', 'approve:0.1129', 'parallel:0.1109', 'wednesday:0.0866', 'disable:0.0846', 'amazing:0.0695', 'martial:0.0613']+titles_keywords+['zelensky:0.5709', 'russias:0.3934', 'laser:0.3808', 'claim:0.2039', 'share:0.165']"
+        ]
+    ]
+}

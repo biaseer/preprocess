@@ -1,0 +1,19 @@
+{
+    "RUS+UKR+57":[
+        [],
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/msn.com/What nuclear energy has to do with nuclear war.txt+eventbasecode57+eventcode57+avgtone0.47814207650273216+goldsteinscale0.9+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.006578947368421052+news_keywords+['nuclear:0.5536', 'chernobyl:0.4736', 'environmental:0.3598', 'infrastructure:0.3518', 'energy:0.332', 'impacting:0.2941', 'war:0.292', 'safety:0.283', 'concern:0.254', 'iaea:0.2472', 'gorbachev:0.2412', 'example:0.2347', 'crisis:0.2331', 'refer:0.2185', 'category:0.2155', 'kan:0.1867', 'memorandum:0.1867', 'linkage:0.183', 'world:0.1754', 'emerge:0.1733', 'include:0.1716', 'increasingly:0.1634', 'prevent:0.1513', 'derive:0.1408', 'discus:0.1408', 'argue:0.1402', 'study:0.1393', 'true:0.1178', 'program:0.1085', 'burch:0.1081']+titles_keywords+['nuclear:0.6056', 'war:0.4613', 'energy:0.3599']"
+        ]
+    ],
+    "UKR+RUS+57":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/msn.com/Attack on Ukraine could cause spike in food prices.txt+eventbasecode57+eventcode57+avgtone0.47496522948539643+goldsteinscale0.9+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4546', 'disruptions:0.3229', 'conflict:0.2855', 'invasion:0.2465', 'agrifood:0.2303', 'supply:0.2295', 'exacerbate:0.1982', 'volatility:0.1907', 'input:0.186', 'malnourishment:0.1772', 'skyrocket:0.1747', 'dramatic:0.1584', 'avoid:0.1478', 'import:0.1434', 'population:0.134', 'uncertain:0.1322', 'buffer:0.1241', 'source:0.1228', 'report:0.1226', 'entirely:0.1115', 'follow:0.1101', 'saharan:0.0967', 'price:0.0905', 'major:0.0789', 'secretary:0.0758', 'season:0.0753', 'ready:0.067', 'dozen:0.0463', 'https:0.0458', 'saidfao:0.0296']+titles_keywords+['ukraine:0.3682', 'attack:0.3163', 'food:0.2373', 'prices:0.1963', 'spike:0.1485']"
+        ]
+    ],
+    "WST+RUS+57":[
+        [],
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/msn.com/Explained Why Sweden and Finland are reconsidering their yearslong neutral stance towards NATO.txt+eventbasecode57+eventcode57+avgtone0.4993315508021391+goldsteinscale0.9+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['finlandization:0.5273', 'nato:0.4891', 'russias:0.339', 'geopolitical:0.2914', 'militarily:0.29', 'dmitry:0.2378', 'neutral:0.196', 'stability:0.1903', 'nation:0.1856', 'aaltola:0.1557', 'react:0.1521', 'bloc:0.1507', 'strengthen:0.1385', 'align:0.1334', 'neighbouring:0.1314', 'stoltenberg:0.1243', 'promise:0.1235', 'simple:0.1112', 'accession:0.1103', 'vote:0.1089', 'matter:0.1084', 'mps:0.0933', 'yearslong:0.0799', 'svt:0.0775', 'describes:0.0736', 'secretary:0.0658', 'fact:0.0653', 'offer:0.0508', 'outbreak:0.0415', 'welcome:0.0197']+titles_keywords+['nato:0.559', 'sweden:0.4018', 'reconsidering:0.2726', 'explained:0.1632', 'yearslong:0.1106']"
+        ]
+    ]
+}

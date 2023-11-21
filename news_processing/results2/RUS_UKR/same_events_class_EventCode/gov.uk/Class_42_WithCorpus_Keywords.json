@@ -1,0 +1,12 @@
+{
+    "AFG+RUS+42":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/gov.uk/We must face down the clear and present threat posed by Russia article by Liz.txt+eventbasecode42+eventcode42+avgtone0.4912170639899624+goldsteinscale0.595+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['crimea:0.4931', 'putin:0.4661', 'natos:0.4373', 'brinkmanship:0.4092', 'ukrainians:0.392', 'moscows:0.382', 'diplomatically:0.3003', 'border:0.2481', 'pursue:0.2341', 'coordinate:0.2331', 'manifesto:0.2299', 'alongside:0.2155', 'agreement:0.2149', 'future:0.2079', 'concern:0.205', 'prepare:0.2023', 'organisation:0.1988', 'safer:0.1919', 'intensify:0.1917', 'turn:0.1883', 'ally:0.1863', 'deploy:0.1807', 'sanction:0.1793', 'historical:0.1792', 'pose:0.1555', 'clear:0.1552', 'spearhead:0.1542', 'say:0.1398', 'send:0.071', 'possible:0.063']+titles_keywords+['russia:0.4057', 'threat:0.3832', 'article:0.322', 'liz:0.1337', 'clear:0.124']"
+        ]
+    ],
+    "GBR+UKR+42":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/gov.uk/Ukraine UK government to reopen British embassy in Kyiv.txt+eventbasecode42+eventcode42+avgtone0.515527950310559+goldsteinscale0.595+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.013157894736842105+news_keywords+['kyiv:0.4837', 'embassy:0.3959', 'russias:0.3074', 'invasion:0.2869', 'zelenskyy:0.2559', 'humanitarian:0.2527', 'remain:0.2272', 'reopen:0.2213', 'security:0.2153', 'temporarily:0.1997', 'uk:0.1933', 'bravery:0.1917', 'contact:0.1654', 'success:0.1539', 'hour:0.138', 'return:0.1319', 'soon:0.1279', 'close:0.1197', 'illegal:0.1172', 'want:0.1154', 'resist:0.111', 'contingent:0.1054', 'tribute:0.1034', 'simmons:0.0849', 'possible:0.0791', 'prime:0.0737', 'fcdo:0.0689', 'start:0.0621', 'set:0.051', 'monitor:0.0423']+titles_keywords+['kyiv:0.4457', 'embassy:0.3029', 'reopen:0.2807', 'government:0.1497', 'british:0.1402']"
+        ]
+    ]
+}

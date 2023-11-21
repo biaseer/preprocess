@@ -1,0 +1,12 @@
+{
+    "RUS+BLR+80":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/engadget.com/Airbnb is suspending its operations in Russia and Belarus.txt+eventbasecode80+eventcode80+avgtone0.48444444444444446+goldsteinscale0.75+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['belarus:0.4983', 'airbnb:0.4565', 'refugee:0.4325', 'reuters:0.2978', 'invasion:0.2867', 'booking:0.2437', 'flee:0.2232', 'chesky:0.1959', 'report:0.1923', 'table:0.1769', 'people:0.1769', 'platform:0.1765', 'economic:0.1734', 'visit:0.1582', 'term:0.143', 'suspend:0.1367', 'brian:0.1325', 'book:0.1267', 'estimate:0.1239', 'include:0.1198', 'waive:0.1179', 'million:0.1165', 'tweet:0.1006', 'agree:0.0995', 'start:0.0873', 'week:0.0824', 'accord:0.0711', 'severe:0.0709', 'eventually:0.0658', 'different:0.0569']+titles_keywords+['airbnb:0.4625', 'belarus:0.4214', 'russia:0.3543', 'suspending:0.2046', 'operations:-0.0199']"
+        ]
+    ],
+    "RUS+RUS+80":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/engadget.com/US sanctions against Russia will limit its access to technology from overseas.txt+eventbasecode80+eventcode80+avgtone0.48673740053050396+goldsteinscale0.75+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.003289473684210526+news_keywords+['russia:0.4553', 'sanction:0.3532', 'import:0.3075', 'commerce:0.2981', 'licensing:0.2819', 'allow:0.2809', 'policy:0.2522', 'invasion:0.2417', 'military:0.2351', 'enterprise:0.2287', 'maritime:0.2163', 'acquire:0.2044', 'news:0.1981', 'alert:0.1723', 'implement:0.1653', 'avoid:0.1535', 'make:0.1463', 'engadgetyou:0.1357', 'list:0.1323', 'union:0.1287', 'deal:0.116', 'partner:0.1051', 'biden:0.1031', 'browser:0.1017', 'sensor:0.0983', 'estimate:0.0889', 'nowturn:0.0883', 'long:0.065', 'completely:0.0615', 'limit:0.0612']+titles_keywords+['sanctions:0.4515', 'russia:0.3216', 'technology:0.1869', 'limit:0.1006', 'access:0.0668']"
+        ]
+    ]
+}

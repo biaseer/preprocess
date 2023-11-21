@@ -1,0 +1,20 @@
+{
+    "AUS+UKR+51":[
+        [
+            "20220121+../news_crawling/RUS_UKR/p_articles/rte.ie/US and Russia agree to keep talking after meeting on Ukraine.txt+eventbasecode51+eventcode51+avgtone0.4676674364896074+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['diplomacy:0.4315', 'nato:0.4268', 'putin:0.4191', 'invade:0.3757', 'ukrainian:0.367', 'biden:0.2482', 'eastward:0.2353', 'crisis:0.2265', 'prepare:0.2188', 'imminently:0.2141', 'meet:0.1975', 'news:0.1915', 'warn:0.1904', 'telegram:0.1896', 'conclude:0.1876', 'ally:0.1826', 'concern:0.177', 'pledge:0.1742', 'order:0.1682', 'sanction:0.1611', 'understand:0.1608', 'hold:0.1501', 'row:0.1457', 'secretary:0.1389', 'sure:0.111', 'weapon:0.11', 'complicate:0.0954', 'state:0.0909', 'possibility:0.0884', 'kirby:0.0679']+titles_keywords+['ukraine:0.3072', 'meeting:0.3003', 'talking:0.2884', 'russia:0.2274', 'agree:0.0588']"
+        ]
+    ],
+    "EUR+UKR+51":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/rte.ie/EU warns of sanctions for Russia if it invades Ukraine.txt+eventbasecode51+eventcode51+avgtone0.4810126582278481+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4322', 'invades:0.3893', 'eu:0.355', 'diplomacy:0.3501', 'escalate:0.3348', 'warn:0.2351', 'consequence:0.2175', 'concern:0.2135', 'unite:0.2132', 'prepare:0.2088', 'stability:0.1764', 'respond:0.1705', 'allow:0.1673', 'ally:0.1596', 'solution:0.1447', 'capital:0.1374', 'continue:0.1351', 'speaking:0.1293', 'stand:0.1274', 'bad:0.1122', 'quite:0.1051', 'hop:0.101', 'today:0.0944', 'hope:0.0757', 'clear:0.0749', 'story:0.0656', 'mcguinness:0.0652', 'focus:0.0649', 'times:0.0485', 'add:0.044']+titles_keywords+['ukraine:0.3848', 'sanctions:0.3759', 'invades:0.283', 'eu:0.2684', 'warns:0.2325']"
+        ],
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/rte.ie/EU offers farmers aid more land to grow due to Ukraine war.txt+eventbasecode51+eventcode51+avgtone0.5+goldsteinscale0.67+nummentions0.022133526850507984+numarticles0.02284263959390863+numsources0.019736842105263157+news_keywords+['agriculture:0.4524', 'ukraine:0.407', 'wheat:0.365', 'crop:0.3475', 'shortage:0.2764', 'sow:0.276', 'war:0.2632', 'sunflower:0.2535', 'grow:0.2404', 'ensure:0.233', 'feed:0.2239', 'halve:0.1969', 'fallow:0.1942', 'strategic:0.1866', 'bloc:0.1819', 'assistance:0.1754', 'spring:0.1695', 'remain:0.1632', 'potential:0.1515', 'mitigate:0.149', 'allow:0.1483', 'commission:0.1437', 'share:0.1304', 'exporter:0.1142', 'example:0.1096', 'particularly:0.0952', 'offer:0.0904', 'aside:0.0847', 'set:0.0729', 'today:0.0656']+titles_keywords+['farmers:0.383', 'eu:0.2942', 'grow:0.2334', 'aid:0.2313', 'offers:0.1045']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/rte.ie/Russia says forces fully control Ukraines Luhansk region.txt+eventbasecode51+eventcode51+avgtone0.4707536557930259+goldsteinscale0.67+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.006578947368421052+news_keywords+['kyiv:0.4898', 'kremlin:0.4018', 'invade:0.3289', 'propaganda:0.2996', 'reuters:0.2988', 'military:0.2633', 'result:0.2491', 'reform:0.2433', 'logistics:0.2272', 'fight:0.2218', 'peacetime:0.2198', 'roadmap:0.2069', 'geolocated:0.2038', 'baseless:0.2037', 'independence:0.2022', 'brief:0.1947', 'northern:0.1915', 'live:0.1798', 'help:0.1748', 'concern:0.1709', 'fall:0.1661', 'field:0.1634', 'withdraw:0.1598', 'ammunition:0.1588', 'major:0.1581', 'blast:0.1574', 'study:0.1482', 'exactly:0.144', 'swathe:0.1372', 'dozens:0.0906']+titles_keywords+['luhansk:0.4124', 'ukraines:0.4116', 'fully:0.2445', 'control:0.1466', 'says:0.056']"
+        ]
+    ]
+}

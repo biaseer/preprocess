@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+40":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/nwemail.co.uk/Barrow residents send heartfelt messages to the people of Ukraine.txt+eventbasecode40+eventcode40+avgtone0.5069686411149825+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.5858', 'ukrainian:0.525', 'refugee:0.4718', 'barrow:0.4047', 'community:0.2382', 'invasion:0.2279', 'borough:0.2216', 'country:0.2179', 'flag:0.2104', 'thomson:0.2027', 'liverpool:0.197', 'abused:0.1917', 'karen:0.1913', 'feel:0.1864', 'heard:0.1766', 'lively:0.1716', 'come:0.158', 'booking:0.1346', 'withdraw:0.1276', 'resolve:0.1195', 'heartbreaking:0.1164', 'important:0.1126', 'welcome:0.1042', 'right:0.0998', 'include:0.0992', 'final:0.0953', 'reader:0.0947', 'half:0.0866', 'usually:0.0618', 'year:0.0484']+titles_keywords+['barrow:0.4897', 'ukraine:0.3977', 'heartfelt:0.3742', 'residents:0.2854', 'messages:0.2845']"
+        ],
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/nwemail.co.uk/Zelensky seeks tough global response after 52 killed at Ukrainian train station.txt+eventbasecode40+eventcode40+avgtone0.45640074211502785+goldsteinscale0.55+nummentions0.24383164005805516+numarticles0.24437998549673676+numsources0.3157894736842105+news_keywords+['kremlin:0.519', 'kyiv:0.5102', 'ukrainians:0.4683', 'vladimir:0.4411', 'zelensky:0.4068', 'peskovs:0.3779', 'massacre:0.3466', 'firing:0.2882', 'missile:0.2855', 'separatist:0.2782', 'military:0.2723', 'deflect:0.2454', 'infrastructure:0.2422', 'reporter:0.241', 'flag:0.2391', 'telegram:0.2242', 'blame:0.1781', 'debate:0.1755', 'misuse:0.1676', 'bucha:0.1663', 'direct:0.1648', 'phrasing:0.1623', 'child:0.1597', 'say:0.1563', 'pull:0.1527', 'order:0.1506', 'unclear:0.1459', 'right:0.1371', 'begin:0.1348', 'critical:0.1346']+titles_keywords+['zelensky:0.5533', 'ukrainian:0.3151', '52:0.2085', 'train:0.1379', 'global:0.1346']"
+        ]
+    ],
+    "UKR+VAT+40":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/nwemail.co.uk/Pope clearly condemns Russias repugnant war insists Vatican.txt+eventbasecode40+eventcode40+avgtone0.4640287769784173+goldsteinscale0.55+nummentions0.22496371552975328+numarticles0.22552574329224076+numsources0.33223684210526316+news_keywords+['pope:0.4327', 'orthodox:0.3906', 'kyiv:0.3682', 'russias:0.363', 'war:0.3522', 'condemn:0.3075', 'repugnant:0.289', 'diplomat:0.2479', 'unequivocal:0.1867', 'engage:0.1698', 'debate:0.1643', 'privilege:0.1631', 'read:0.1579', 'insanity:0.1555', 'dmytro:0.1424', 'word:0.1385', 'dramatic:0.1384', 'comment:0.1367', 'view:0.1239', 'issue:0.112', 'holy:0.1105', 'apart:0.1082', 'insists:0.1063', 'significance:0.1002', 'withdraw:0.0995', 'girl:0.0965', 'summon:0.0906', 'right:0.0838', 'dimension:0.0757', 'september:0.0624']+titles_keywords+['pope:0.4052', 'war:0.3106', 'repugnant:0.3086', 'russias:0.2814', 'clearly:0.1094']"
+        ]
+    ]
+}

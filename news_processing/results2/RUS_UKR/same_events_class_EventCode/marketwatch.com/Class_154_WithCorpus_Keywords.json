@@ -1,0 +1,20 @@
+{
+    "RUS+RUS+154":[
+        [
+            "20220118+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Russia moves more troops westward as US fears a Ukraine invasion could be launched at.txt+eventbasecode154+eventcode154+avgtone0.48743961352657+goldsteinscale0.13999999999999999+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.019736842105263157+news_keywords+['ukraine:0.4378', 'invasion:0.3513', 'russian:0.3343', 'troop:0.334', 'war:0.3014', 'deployment:0.2788', 'military:0.2738', 'tank:0.2477', 'westward:0.2443', 'near:0.1961', 'weapon:0.1755', 'warn:0.167', 'fear:0.167', 'deliver:0.1611', 'plan:0.1495', 'send:0.1216', 'tuesday:0.1075', 'beef:0.0966', 'unspecified:0.0873', 'white:0.0748', 'point:0.0716', 'time:0.0633', 'amid:0.0618', 'anti:0.0603', 'say:0.059', 'house:0.0578', 'soar:0.0563', 'number:0.0527', 'batch:0.0474', 'asset:0.028']+titles_keywords+['invasion:0.3659', 'ukraine:0.3328', 'westward:0.26', 'moves:0.24', 'fears:0.1647']"
+        ]
+    ],
+    "RUS+UKR+154":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Bread Pasta and PackagedFood Prices Are Rising Heres Why.txt+eventbasecode154+eventcode154+avgtone0.4861351819757365+goldsteinscale0.13999999999999999+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['agriculture:0.364', 'pandemic:0.3563', 'economist:0.3204', 'packagedfood:0.2998', 'market:0.2979', 'geopolitics:0.2925', 'consumerswill:0.2865', 'increase:0.2786', 'impactfor:0.2551', 'disrupts:0.2401', 'spring:0.2329', 'risk:0.231', 'pasta:0.2302', 'strain:0.2192', 'significant:0.215', 'america:0.2142', 'futureshaveclimbed:0.1986', 'global:0.1974', 'estimate:0.1817', 'index:0.1748', 'prices:0.1702', 'bad:0.1644', 'example:0.1622', 'toa:0.1212', 'weekly:0.1061', 'dont:0.106', 'combined:0.1054', 'set:0.0959', 'bushel:0.0865', 'likely:0.0818']+titles_keywords+['packagedfood:0.4097', 'prices:0.3889', 'bread:0.3764', 'pasta:0.3762', 'rising:0.2541']"
+        ],
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/marketwatch.com/White House commits to barring antisatellite missile tests.txt+eventbasecode154+eventcode154+avgtone0.48134328358208955+goldsteinscale0.13999999999999999+nummentions0.07111756168359942+numarticles0.07179115300942712+numsources0.07894736842105263+news_keywords+['biden:0.2864', 'russia:0.2792', 'satellite:0.2409', 'test:0.2399', 'anti:0.2377', 'missile:0.2356', 'military:0.2271', 'action:0.2158', 'conduct:0.1932', 'destroy:0.1753', 'criticize:0.1734', 'administration:0.1694', 'announce:0.1675', 'spy:0.1652', 'space:0.1597', 'monday:0.1459', 'meant:0.1437', 'commit:0.1434', 'bar:0.1192', 'use:0.1192', 'say:0.1154', 'malfunction:0.1083', 'sharply:0.1046', 'norm:0.1006', 'white:0.0986', 'year:0.096', 'new:0.0942', 'official:0.0803', 'underscore:0.0724', 'house:0.0444']+titles_keywords+['antisatellite:0.2577', 'tests:0.2093', 'missile:0.2079', 'barring:0.1425', 'white:0.1365']"
+        ]
+    ],
+    "UKR+RUS+154":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Ukraine rebels mobilize troops amid Russia invasion fears.txt+eventbasecode154+eventcode154+avgtone0.4627791563275434+goldsteinscale0.13999999999999999+nummentions0.10522496371552975+numarticles0.10587382160986222+numsources0.13486842105263158+news_keywords+['ukraine:0.4663', 'troop:0.4352', 'mobilization:0.41', 'invasion:0.3881', 'enlistment:0.3556', 'donetsk:0.3483', 'military:0.3316', 'war:0.3294', 'mobilize:0.3285', 'separatist:0.2673', 'region:0.1787', 'fear:0.176', 'pretext:0.175', 'rebel:0.173', 'government:0.173', 'urge:0.1718', 'pushilin:0.1638', 'strife:0.1474', 'order:0.1444', 'leader:0.129', 'saturday:0.1235', 'denis:0.112', 'west:0.1008', 'amid:0.0953', 'spike:0.0844', 'use:0.0829', 'announce:0.0781', 'office:0.0628', 'statement:0.0512', 'pro:0.0474']+titles_keywords+['ukraine:0.405', 'troops:0.3795', 'mobilize:0.2461', 'fears:0.2395', 'amid:0.0486']"
+        ]
+    ]
+}

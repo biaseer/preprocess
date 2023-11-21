@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220106+../news_crawling/RUS_UKR/p_articles/the-sun.com/Vladimir Putin planning Ukraine blitzkrieg nuclear blackmail on the West to recreate USSR leaked dossier.txt+eventbasecode12+eventcode12+avgtone0.473+goldsteinscale0.48+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['putin:0.4928', 'kyiv:0.3925', 'dossier:0.3493', 'invade:0.3486', 'blitzkrieg:0.3451', 'espionage:0.3444', 'nuclear:0.2744', 'prepare:0.2544', 'tensions:0.2266', 'border:0.223', 'plan:0.2209', 'warnedpresident:0.2196', 'distract:0.2066', 'kadamovsky:0.2054', 'intensify:0.2009', 'festive:0.1903', 'report:0.1893', 'snow:0.1858', 'shooting:0.1791', 'histroops:0.1637', 'end:0.1503', 'plot:0.1416', 'strongman:0.1331', 'short:0.1278', 'global:0.1244', 'plus:0.1154', 'week:0.1154', 'footage:0.1134', 'emerge:0.1088', 'supposedly:0.0331']+titles_keywords+['putin:0.5089', 'dossier:0.4417', 'nuclear:0.3515', 'blackmail:0.3428', 'blitzkrieg:0.3148']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220820+../news_crawling/RUS_UKR/p_articles/the-sun.com/Russia moves military equipment into Europes biggest nuke power plant amid fears Putin will launch.txt+eventbasecode12+eventcode12+avgtone0.47183098591549294+goldsteinscale0.48+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['chernobyl:0.5263', 'ukraine:0.4293', 'putin:0.3965', 'therussianoccupied:0.391', 'nuke:0.3239', 'terrify:0.2893', 'disaster:0.2862', 'prepare:0.2623', 'military:0.2191', 'risk:0.2165', 'cnn:0.2099', 'north:0.199', 'power:0.1804', 'world:0.172', 'stage:0.1701', 'order:0.1657', 'plant:0.1616', 'reveal:0.1587', 'enerhodar:0.1572', 'building:0.1486', 'shield:0.1276', 'dos:0.1256', 'huge:0.1216', 'include:0.1038', 'believe:0.1024', 'barrel:0.1009', 'kilometre:0.0973', 'send:0.0916', 'like:0.0824', 'today:0.0494']+titles_keywords+['putin:0.3479', 'nuke:0.3328', 'equipment:0.1576', 'plant:0.1318', 'biggest:0.1297']"
+        ]
+    ]
+}

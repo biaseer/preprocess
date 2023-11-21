@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/kelo.com/Russia says civil vessels may use Mariupol port mine danger lifted.txt+eventbasecode192+eventcode192+avgtone0.4805194805194805+goldsteinscale0.025+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['azov:0.3896', 'russian:0.3403', 'ukraine:0.3383', 'ukrainian:0.3179', 'russia:0.3123', 'azovstal:0.2985', 'mariupol:0.2288', 'steelworks:0.2227', 'vessel:0.2102', 'sea:0.1896', 'port:0.1798', 'danger:0.1739', 'safely:0.1567', 'surrender:0.1515', 'use:0.1358', 'reuters:0.1124', 'besieged:0.0857', 'civil:0.0728', 'defence:0.0683', 'control:0.0533', 'fighter:0.0513', 'lift:0.0283', 'eliminate:0.0174', 'thursday:0.0026', 'ministry:-0.0125', 'say:-0.019', 'week:-0.0272']+titles_keywords+['russia:0.2685', 'mariupol:0.2209', 'vessels:0.1714', 'danger:0.1262', 'says:-0.0156']"
+        ],
+        [
+            "20220708+../news_crawling/RUS_UKR/p_articles/kelo.com/US to send 400 million in weapons to Ukraine including more HIMARS.txt+eventbasecode192+eventcode192+avgtone0.49465240641711233+goldsteinscale0.025+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.013157894736842105+news_keywords+['ukraines:0.4913', 'moscow:0.3423', 'military:0.2908', 'howitzer:0.2742', 'operation:0.2544', 'escalation:0.2392', 'reuters:0.2375', 'annex:0.2364', 'disarm:0.2321', 'himars:0.2127', 'million:0.2094', 'ally:0.1872', 'additional:0.1862', 'washington:0.1827', 'receive:0.1819', 'biden:0.1759', 'flank:0.1725', 'use:0.1624', 'friday:0.1553', 'meant:0.1462', 'tell:0.1456', 'precision:0.1294', 'hold:0.1288', 'sophisticate:0.1277', 'successfully:0.1264', 'roll:0.1252', 'new:0.117', 'anonymity:0.0924', 'deep:0.0767', 'chunk:0.0672']+titles_keywords+['ukraine:0.3743', 'weapons:0.3184', 'himars:0.2549', 'million:0.2465', 'send:0.2419']"
+        ]
+    ]
+}

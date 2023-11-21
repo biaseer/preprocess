@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+46":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/daily-sun.com/Cyberattack knocks thousands offline in Europe.txt+eventbasecode46+eventcode46+avgtone0.47161572052401746+goldsteinscale0.85+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.009868421052631578+news_keywords+['cyberattacks:0.5405', 'ukraine:0.3966', 'outage:0.3906', 'viasat:0.2762', 'internet:0.2754', 'armageddon:0.2637', 'notify:0.2375', 'operation:0.2345', 'nordnet:0.2207', 'danger:0.2064', 'dos:0.1982', 'data:0.1965', 'spillover:0.1925', 'globally:0.19', 'gigawatts:0.186', 'outbreak:0.1828', 'deploy:0.1808', 'victim:0.1781', 'output:0.1733', 'turbine:0.1721', 'event:0.1627', 'know:0.1571', 'major:0.1523', 'cover:0.1381', 'shortly:0.1374', 'combine:0.1315', 'ka:0.1275', 'begin:0.1177', 'subsidiary:0.1048', 'according:0.0882']+titles_keywords+['cyberattack:0.5359', 'offline:0.2686', 'europe:0.2653', 'thousands:0.2118', 'knocks:0.1297']"
+        ]
+    ],
+    "RUS+RUS+46":[
+        [
+            "20220529+../news_crawling/RUS_UKR/p_articles/daily-sun.com/Putin told Scholz and Macron Russia is ready to resume dialogue with Kiev.txt+eventbasecode46+eventcode46+avgtone0.4654178674351585+goldsteinscale0.85+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['putin:0.4907', 'destabilization:0.3788', 'macron:0.3551', 'kiev:0.328', 'talk:0.2583', 'humanitarian:0.2448', 'readiness:0.2349', 'peace:0.2215', 'pandemic:0.2189', 'food:0.2048', 'report:0.202', 'issue:0.1726', 'exacerbate:0.1687', 'counterpart:0.1663', 'continue:0.1645', 'dangerous:0.1553', 'data:0.1521', 'statement:0.1518', 'french:0.1508', 'global:0.1488', 'explain:0.1428', 'chancellor:0.124', 'long:0.1225', 'current:0.1145', 'open:0.1135', 'scholz:0.0968', 'state:0.0826', 'track:0.0655', 'earlier:0.0468', 'tass:0.0296']+titles_keywords+['kiev:0.4023', 'macron:0.2402', 'scholz:0.2126', 'dialogue:0.1716', 'resume:0.1114']"
+        ]
+    ]
+}

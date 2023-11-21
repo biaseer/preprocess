@@ -1,0 +1,21 @@
+{
+    "BEL+UKR+36":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Live updates Macron to provide extra support Zelenskyy says.txt+eventbasecode36+eventcode36+avgtone0.47399741267787837+goldsteinscale0.7+nummentions0.49927431059506533+numarticles0.4782451051486584+numsources0.3190789473684211+news_keywords+['putin:0.4808', 'nato:0.4139', 'soyuz:0.3871', 'ukrainians:0.3812', 'lviv:0.3718', 'zelenskyy:0.3336', 'demilitarization:0.3032', 'translate:0.2789', 'annex:0.2699', 'sanction:0.2601', 'meeting:0.253', 'crisis:0.2478', 'telegram:0.2378', 'cyberattacks:0.2371', 'prepare:0.2286', 'agreement:0.2227', 'pursue:0.2222', 'pivot:0.2137', 'soon:0.2122', 'cite:0.2052', 'information:0.2008', 'world:0.187', 'dangerous:0.1697', 'long:0.1684', 'forget:0.1614', 'draw:0.1524', 'pipeline:0.1518', 'look:0.1478', 'electric:0.1113', 'sluggish:0.0801']+titles_keywords+['updates:0.4271', 'macron:0.3169', 'zelenskyy:0.289', 'support:0.2664', 'live:0.259']"
+        ]
+    ],
+    "DEU+RUS+36":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/US hasnt verified Russian pullback of troops near Ukraine.txt+eventbasecode36+eventcode36+avgtone0.4861244019138756+goldsteinscale0.7+nummentions0.13824383164005805+numarticles0.13669325598259607+numsources0.22039473684210525+news_keywords+['putin:0.4684', 'kyiv:0.4163', 'diplomacy:0.3559', 'disrupt:0.317', 'cyberattacks:0.3108', 'escalation:0.2973', 'agenda:0.2941', 'recession:0.2791', 'information:0.2771', 'separatist:0.2668', 'report:0.2517', 'stab:0.2475', 'anticipate:0.2452', 'stem:0.2311', 'continue:0.2141', 'agreement:0.2087', 'table:0.208', 'canadas:0.2042', 'day:0.1987', 'source:0.1911', 'eastern:0.188', 'smokescreen:0.1806', 'long:0.1779', 'significant:0.1756', 'head:0.1753', 'murdaugh:0.1682', 'natuna:0.1582', 'general:0.155', 'howitzer:0.1487', 'sluggish:0.1245']+titles_keywords+['ukraine:0.3455', 'troops:0.2947', 'pullback:0.2666', 'verified:0.1729', 'near:0.0901']"
+        ]
+    ],
+    "RUS+BLR+36":[
+        []
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Have no illusions UNs major bodies both meet on Ukraine.txt+eventbasecode36+eventcode36+avgtone0.4917695473251029+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4506', 'diplomacy:0.4453', 'election:0.3841', 'veto:0.3369', 'federation:0.3367', 'pandemic:0.3081', 'journalist:0.2963', 'information:0.2944', 'impasse:0.2916', 'world:0.2786', 'trudeau:0.2686', 'riot:0.266', 'monday:0.2585', 'uns:0.2508', 'anticipate:0.2421', 'stem:0.2319', 'stab:0.2299', 'remain:0.2275', 'function:0.222', 'urgent:0.2174', 'jan:0.2155', 'head:0.2071', 'distort:0.2013', 'combine:0.2009', 'general:0.1988', 'end:0.1834', 'like:0.1789', 'aside:0.1755', 'murdaugh:0.1673', 'longer:0.1481']+titles_keywords+['ukraine:0.4639', 'uns:0.3521', 'meet:0.25', 'illusions:0.2273', 'major:0.0991']",
+            "20220302+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Refugee count tops one million Russians besiege Ukraine ports.txt+eventbasecode36+eventcode36+avgtone0.4652466367713004+goldsteinscale0.7+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.003289473684210526+news_keywords+['ukraine:0.5269', 'stalingrad:0.455', 'putins:0.4278', 'refugee:0.3837', 'oleg:0.3818', 'government:0.3535', 'history:0.3422', 'disrupt:0.3134', 'pandemic:0.304', 'capital:0.3024', 'anonymity:0.2938', 'news:0.2913', 'crisis:0.289', 'decommission:0.2839', 'exodus:0.2816', 'rhetoric:0.28', 'report:0.2717', 'progress:0.2688', 'strategic:0.2585', 'stem:0.2561', 'gunfire:0.2539', 'column:0.2472', 'spacex:0.2358', 'know:0.2329', 'concerned:0.2303', 'civilian:0.2299', 'world:0.2139', 'log:0.182', 'midnight:0.1819', 'kilometre:0.171']+titles_keywords+['refugee:0.4546', 'russians:0.4303', 'ports:0.2517', 'million:0.2463', 'count:0.2227']"
+        ]
+    ]
+}

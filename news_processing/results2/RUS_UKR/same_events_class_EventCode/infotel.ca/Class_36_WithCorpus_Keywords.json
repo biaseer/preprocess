@@ -1,0 +1,12 @@
+{
+    "RUS+BLR+36":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/infotel.ca/Live updates Moscow says outlook unclear for Ukraine talks.txt+eventbasecode36+eventcode36+avgtone0.47794831940936466+goldsteinscale0.7+nummentions0.5653120464441219+numarticles0.5627266134880348+numsources0.5493421052631579+news_keywords+['ukraine:0.4757', 'kremlin:0.434', 'natos:0.3876', 'geopolitics:0.3718', 'airstrikes:0.3386', 'news:0.305', 'repatriation:0.266', 'annex:0.2444', 'flee:0.2418', 'agreement:0.2306', 'onwards:0.2301', 'anticipate:0.2271', 'belligerent:0.2239', 'urgent:0.2224', 'prosecute:0.2218', 'tun:0.2203', 'brigade:0.2172', 'rtr:0.2129', 'know:0.2108', 'respond:0.2094', 'steinmeier:0.1957', 'saturday:0.1957', 'organize:0.189', 'covid:0.1806', 'counterpart:0.1721', 'industrial:0.1571', 'emphasize:0.1548', 'long:0.1502', 'arent:0.1389', 'pronged:0.1383']+titles_keywords+['moscow:0.3849', 'outlook:0.3099', 'updates:0.293', 'unclear:0.2889', 'talks:0.2454']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/infotel.ca/Ukraine sees room for compromise as 20000 escape Mariupol.txt+eventbasecode36+eventcode36+avgtone0.47591190640055053+goldsteinscale0.7+nummentions0.028664731494920173+numarticles0.029369108049311095+numsources0.039473684210526314+news_keywords+['kyiv:0.5418', 'nato:0.3828', 'evacuate:0.3773', 'russias:0.375', 'war:0.3395', 'pentagon:0.311', 'diplomatic:0.2984', 'journalist:0.2499', 'underway:0.2463', 'telegram:0.2338', 'agreement:0.2338', 'help:0.228', 'navigate:0.2197', 'east:0.2194', 'mush:0.2191', 'deliver:0.2127', 'kilometer:0.2068', 'intensify:0.2059', 'end:0.191', 'general:0.1834', 'delegation:0.1767', 'adjacent:0.1752', 'siren:0.1748', 'anonymity:0.1736', 'speak:0.1702', 'realistic:0.1663', 'afraid:0.1629', 'smash:0.154', 'building:0.1473', 'longer:0.1322']+titles_keywords+['compromise:0.4111', 'ukraine:0.3852', 'escape:0.301', 'mariupol:0.2063', '20000:0.177']"
+        ]
+    ]
+}

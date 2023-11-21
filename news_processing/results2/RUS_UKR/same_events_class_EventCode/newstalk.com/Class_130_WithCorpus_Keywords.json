@@ -1,0 +1,12 @@
+{
+    "IRL+RUS+130":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/newstalk.com/Zelenskyy thanks every citizen of Ireland for supporting Ukraine through Russian invasion.txt+eventbasecode130+eventcode130+avgtone0.5008576329331046+goldsteinscale0.27999999999999997+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4453', 'zelenskyy:0.3479', 'ireland:0.3474', 'oireachtas:0.2954', 'invasion:0.2858', 'nation:0.2601', 'applaud:0.2372', 'rhetoric:0.2319', 'humanitarian:0.2312', 'president:0.2005', 'know:0.1787', 'hear:0.1784', 'remain:0.1745', 'mary:0.1687', 'feed:0.1638', 'long:0.156', 'sanction:0.1521', 'begin:0.143', 'bucha:0.1422', 'source:0.139', 'help:0.1358', 'fund:0.1294', 'list:0.1245', 'distinguished:0.1236', 'equal:0.1231', 'chamber:0.116', 'today:0.1094', 'rouse:0.1072', 'mishap:0.0995', 'welcome:0.0993']+titles_keywords+['zelenskyy:0.4983', 'russian:0.3419', 'ireland:0.322', 'invasion:0.2607', 'thanks:0.1026']"
+        ]
+    ],
+    "RUS+EUR+130":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/newstalk.com/Ireland must stand with Ukraine not just in words but with action Ukrainian MP.txt+eventbasecode130+eventcode130+avgtone0.4859154929577465+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.4896', 'ukraines:0.4869', 'blitzkrieg:0.3912', 'demilitarisation:0.3475', 'putin:0.3375', 'embargo:0.2714', 'fight:0.2538', 'irish:0.2487', 'warn:0.2433', 'firepower:0.2393', 'sirens:0.2305', 'victory:0.2182', 'parliament:0.2157', 'turn:0.2114', 'newstalk:0.2011', 'airspace:0.2002', 'nightmare:0.1958', 'pull:0.1954', 'order:0.1828', 'hero:0.1694', 'incur:0.164', 'word:0.159', 'hour:0.146', 'end:0.1457', 'like:0.1341', 'big:0.1217', 'living:0.1091', 'welcome:0.0961', 'state:0.0867', 'maybe:0.0428']+titles_keywords+['ukraine:0.4671', 'action:0.1818', 'stand:0.1705', 'words:0.1299', 'mp:0.1267']"
+        ]
+    ]
+}

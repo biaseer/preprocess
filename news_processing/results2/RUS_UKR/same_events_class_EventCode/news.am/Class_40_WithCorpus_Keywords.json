@@ -1,0 +1,22 @@
+{
+    "EUR+RUS+40":[
+        [
+            "20220402+../news_crawling/RUS_UKR/p_articles/news.am/Medvedev insinuates that Ukraine will never join EU.txt+eventbasecode40+eventcode40+avgtone0.5073891625615764+goldsteinscale0.55+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['medvedev:0.425', 'kyiv:0.3575', 'ukrainians:0.3477', 'nato:0.3438', 'eu:0.3218', 'vladimir:0.3208', 'montenegro:0.3042', 'join:0.2051', 'accession:0.201', 'ambassador:0.1638', 'telegram:0.1581', 'chernomyrdin:0.1367', 'know:0.1293', 'insinuate:0.1194', 'agreement:0.1181', 'align:0.1108', 'desire:0.085', 'quote:0.0794', 'respond:0.0784', 'mk:0.0726', 'accord:0.0622', 'immediately:0.06', 'record:0.0579', 'state:0.0577', 'year:0.0487', 'confirmedin:0.0449', 'issue:0.0394', 'pastwords:0.0276', 'channelthat:0.0231', 'head:0.0178']+titles_keywords+['medvedev:0.4732', 'ukraine:0.3804', 'eu:0.3403', 'insinuates:0.1872', 'join:0.1486']"
+        ]
+    ],
+    "FRA+RUS+40":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/news.am/Russia and France presidents discuss situation around Ukraine.txt+eventbasecode40+eventcode40+avgtone0.4977777777777777+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.4964', 'putin:0.448', 'ukrainian:0.3893', 'macron:0.345', 'demilitarization:0.3154', 'threaten:0.2314', 'nationalist:0.224', 'conversation:0.2224', 'military:0.2199', 'french:0.2186', 'telephone:0.186', 'status:0.1605', 'donbas:0.1534', 'initiate:0.1534', 'neutral:0.1446', 'report:0.14', 'exchange:0.1308', 'task:0.1228', 'press:0.1196', 'forces:0.1074', 'lengthy:0.1052', 'residential:0.1042', 'legitimate:0.1005', 'open:0.0899', 'object:0.0846', 'possible:0.0841', 'resolution:0.0769', 'shield:0.0602', 'hop:0.0589', 'include:0.0529']+titles_keywords+['ukraine:0.3897', 'presidents:0.2528', 'france:0.2454', 'discuss:0.1738', 'situation:0.1423']"
+        ]
+    ],
+    "ISR+RUS+40":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/news.am/Bennett says Israel protects its interests by communicating with Russia and Ukraine.txt+eventbasecode40+eventcode40+avgtone0.5185185185185185+goldsteinscale0.55+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.006578947368421052+news_keywords+['mossad:0.4667', 'israel:0.4634', 'ukraine:0.4064', 'bennet:0.3115', 'bennett:0.2848', 'communicate:0.281', 'protecting:0.2778', 'government:0.2647', 'position:0.2278', 'naftali:0.2117', 'minister:0.1974', 'state:0.194', 'work:0.1924', 'begin:0.1823', 'invasion:0.1695', 'responsible:0.1657', 'help:0.1643', 'allows:0.1618', 'headquarters:0.1471', 'note:0.1431', 'say:0.1375', 'directly:0.1316', 'head:0.1282', 'balance:0.1184', 'possible:0.0919', 'party:0.0747', 'prime:0.0669', 'quietly:0.0606', 'accord:0.0442', 'times:0.0156']+titles_keywords+['israel:0.3693', 'bennett:0.363', 'protects:0.2972', 'communicating:0.28', 'says:0.0816']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/news.am/Russian Turkish defense ministers discuss situation in Ukraine.txt+eventbasecode40+eventcode40+avgtone0.5+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4552', 'russia:0.3668', 'turkey:0.3478', 'russian:0.3261', 'turkish:0.3086', 'sergei:0.3077', 'talk:0.2208', 'army:0.2164', 'general:0.2038', 'cooperation:0.199', 'department:0.1875', 'situation:0.1767', 'discuss:0.1701', 'ministers:0.1662', 'minister:0.1648', 'defense:0.1395', 'shoigu:0.1338', 'issue:0.132', 'country:0.1116', 'topical:0.1057', 'hulusi:0.0951', 'akar:0.0682', 'ministry:0.0491', 'according:0.019']+titles_keywords+['ukraine:0.4093', 'turkish:0.3377', 'discuss:0.158', 'ministers:0.1345', 'defense:0.1151']"
+        ]
+    ]
+}

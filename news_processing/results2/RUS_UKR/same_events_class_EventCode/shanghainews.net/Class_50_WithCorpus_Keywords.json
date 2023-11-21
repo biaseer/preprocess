@@ -1,0 +1,12 @@
+{
+    "ARE+RUS+50":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/shanghainews.net/Contrary to plans Wizz Air to not resume RussiaUAE flights to.txt+eventbasecode50+eventcode50+avgtone0.47926267281105994+goldsteinscale0.675+nummentions0.28519593613933236+numarticles0.2857142857142857+numsources0.2565789473684211+news_keywords+['russia:0.4233', 'airline:0.4092', 'dhabi:0.3933', 'airspace:0.3344', 'boycott:0.3189', 'suspend:0.2668', 'sanction:0.26', 'supply:0.2263', 'invasion:0.2188', 'capital:0.2154', 'venture:0.1924', 'statement:0.1882', 'twitter:0.1882', 'sovereign:0.1765', 'respond:0.1718', 'wizz:0.1685', 'despite:0.1643', 'hold:0.1635', 'limitation:0.1621', 'union:0.1618', 'plan:0.16', 'neutral:0.1597', 'say:0.159', 'month:0.1578', 'western:0.1548', 'list:0.1529', 'th:0.1321', 'adq:0.1313', 'percent:0.0873', 'resume:0.0814']+titles_keywords+['flights:0.3875', 'russiauae:0.3697', 'wizz:0.238', 'contrary:0.1682', 'resume:0.0811']"
+        ]
+    ],
+    "CHN+RUS+50":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/shanghainews.net/The key area where China must now pair up with Russia to defy the US.txt+eventbasecode50+eventcode50+avgtone0.49568500539374327+goldsteinscale0.675+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.029605263157894735+news_keywords+['geopolitics:0.4056', 'semiconductor:0.3329', 'industry:0.3027', 'establish:0.2863', 'patent:0.2792', 'collaboration:0.2779', 'huawei:0.2706', 'advantage:0.2647', 'roadmap:0.2566', 'embargo:0.2467', 'consolidate:0.2456', 'japan:0.2389', 'coordinate:0.2359', 'nuclear:0.2242', 'subject:0.2181', 'enterprise:0.2144', 'help:0.2057', 'make:0.2056', 'mutually:0.1951', 'result:0.1868', 'strongarming:0.1824', 'trend:0.1804', 'trade:0.1652', 'moon:0.1642', 'fight:0.1595', 'biden:0.1347', 'wider:0.1345', 'smic:0.1132', 'previously:0.1054', 'unilateral:0.0984']+titles_keywords+['russia:0.41', 'defy:0.1842', 'area:0.1281', 'key:0.1225', 'pair:0.0783']"
+        ]
+    ]
+}

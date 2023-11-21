@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+60":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/northcountrypublicradio.org/Russian attack strikes a Ukrainian military site miles from Polish border killing 35.txt+eventbasecode60+eventcode60+avgtone0.47375988497483823+goldsteinscale0.8+nummentions0.3980406386066763+numarticles0.39847715736040606+numsources0.5855263157894737+news_keywords+['crimea:0.5073', 'ukrainians:0.4226', 'putin:0.3946', 'airstrikes:0.3868', 'nato:0.3746', 'evacuate:0.3324', 'blockade:0.3063', 'zelenskyy:0.298', 'separatist:0.2777', 'disrupt:0.2695', 'corridor:0.2516', 'border:0.2495', 'humanitarian:0.2478', 'know:0.2429', 'sprawl:0.2305', 'fight:0.2263', 'plan:0.2156', 'nation:0.2087', 'npr:0.2028', 'help:0.1971', 'pretext:0.1894', 'visit:0.1884', 'unfold:0.1872', 'fall:0.1724', 'end:0.1683', 'additional:0.1497', 'ready:0.1464', 'nearly:0.1456', 'long:0.1445', 'procure:0.1238']+titles_keywords+['ukrainian:0.2939', 'military:0.1825', 'attack:0.1586', 'site:0.148', '35:0.1082']"
+        ]
+    ],
+    "UKR+RUS+60":[
+        [
+            "20220517+../news_crawling/RUS_UKR/p_articles/northcountrypublicradio.org/Hundreds of Ukrainian soldiers evacuated from steel plant to Russianheld territory.txt+eventbasecode60+eventcode60+avgtone0.4806547619047619+goldsteinscale0.8+nummentions0.19593613933236576+numarticles0.19651921682378534+numsources0.20394736842105263+news_keywords+['evacuation:0.5087', 'ukrainian:0.4318', 'soldier:0.329', 'bombing:0.3283', 'humanitarian:0.3201', 'novoazovsk:0.3112', 'zelenskyy:0.3079', 'occupied:0.2788', 'steel:0.2575', 'secure:0.2274', 'remain:0.2121', 'prisoner:0.2028', 'org:0.1925', 'telegram:0.1843', 'help:0.1799', 'east:0.1771', 'town:0.1713', 'injured:0.1551', 'spare:0.15', 'exchange:0.147', 'npr:0.1426', 'arrive:0.1407', 'plant:0.1391', 'hole:0.1387', 'hundreds:0.1303', 'month:0.1155', 'post:0.1128', 'amid:0.1068', 'entire:0.0904', 'reportedly:0.078']+titles_keywords+['ukrainian:0.434', 'soldiers:0.3515', 'evacuated:0.3342', 'steel:0.261', 'hundreds:0.1356']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+46":[
+        [
+            "20220118+../news_crawling/RUS_UKR/p_articles/castanet.net/Joly wraps Ukraine trip amid fears of Russian invasion in standoff with West NATO.txt+eventbasecode46+eventcode46+avgtone0.5095693779904306+goldsteinscale0.85+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['nato:0.5197', 'kyiv:0.3909', 'invade:0.363', 'joly:0.2659', 'troop:0.2639', 'canada:0.2616', 'mlanie:0.2232', 'border:0.2173', 'tank:0.2161', 'meeting:0.2015', 'ally:0.1944', 'transatlantic:0.1801', 'tour:0.1735', 'fear:0.1609', 'supply:0.1503', 'monday:0.1413', 'come:0.1404', 'timely:0.1252', 'intend:0.1176', 'counterpart:0.1173', 'dmytro:0.112', 'position:0.1115', 'help:0.108', 'arm:0.0976', 'heard:0.0895', 'united:0.0836', 'include:0.0833', 'run:0.0814', 'decide:0.0757', 'firmly:0.0506']+titles_keywords+['nato:0.425', 'joly:0.3524', 'standoff:0.2593', 'fears:0.1778', 'trip:0.1687']"
+        ]
+    ],
+    "WST+RUS+46":[
+        [
+            "20220113+../news_crawling/RUS_UKR/p_articles/castanet.net/Russia wont rule out military deployment to Cuba Venezuela as tensions rise.txt+eventbasecode46+eventcode46+avgtone0.47483690587138866+goldsteinscale0.85+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.0+news_keywords+['nato:0.4557', 'ukraines:0.4348', 'kremlin:0.4345', 'crimean:0.4331', 'geopolitical:0.4197', 'dmitry:0.3534', 'diplomat:0.2917', 'tensions:0.2897', 'annexed:0.2834', 'blockade:0.2598', 'delegation:0.2404', 'rapprochement:0.2402', 'prepare:0.2239', 'erupt:0.2225', 'table:0.2171', 'turn:0.2073', 'retreat:0.1946', 'dispatch:0.1919', 'warhead:0.1862', 'soon:0.1852', 'order:0.1836', 'result:0.1776', 'neutral:0.1646', 'write:0.1515', 'maduro:0.1376', 'assume:0.1126', 'deal:0.1055', 'building:0.105', 'year:0.0874', 'deep:0.0646']+titles_keywords+['cuba:0.3759', 'military:0.2402', 'wont:0.1872', 'tensions:0.1423', 'rule:0.0363']"
+        ]
+    ]
+}

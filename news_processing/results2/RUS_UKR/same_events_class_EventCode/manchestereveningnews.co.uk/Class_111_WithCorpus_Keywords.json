@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+111":[
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/manchestereveningnews.co.uk/Do I get a certificate Manchester MPs mock Russia after Putin sanctions them.txt+eventbasecode111+eventcode111+avgtone0.4721649484536083+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4657', 'putin:0.4649', 'sanction:0.4182', 'russophobic:0.3727', 'refugee:0.3359', 'parliamentarian:0.3124', 'rhetoric:0.294', 'letter:0.2735', 'invasion:0.2709', 'federation:0.2702', 'crony:0.2637', 'lavrovs:0.2594', 'report:0.2584', 'flee:0.2168', 'protect:0.2146', 'reciprocity:0.2098', 'condone:0.2089', 'distraction:0.203', 'certificate:0.2025', 'enter:0.1948', 'read:0.1857', 'william:0.1755', 'whip:0.1742', 'list:0.1695', 'gorton:0.1552', 'course:0.145', 'clear:0.1432', 'far:0.1342', 'send:0.1114', 'havent:0.0393']+titles_keywords+['certificate:0.4234', 'sanctions:0.3972', 'mps:0.3089', 'manchester:0.2479', 'mock:0.2467']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/manchestereveningnews.co.uk/Kherson protests Man stands on tank with Ukraine flag as thousands protest against Russia.txt+eventbasecode111+eventcode111+avgtone0.4833333333333333+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.5616', 'kyiv:0.5411', 'ceasefire:0.3975', 'putin:0.3571', 'evacuation:0.3514', 'conflict:0.3045', 'kherson:0.3027', 'news:0.2701', 'read:0.2606', 'town:0.2583', 'flag:0.2446', 'river:0.2434', 'react:0.2165', 'curfew:0.2148', 'march:0.2093', 'soldier:0.2056', 'regime:0.2045', 'north:0.1995', 'order:0.1931', 'chant:0.1927', 'seize:0.1926', 'live:0.1877', 'continue:0.1734', 'surround:0.173', 'shoot:0.1583', 'port:0.158', 'unphased:0.1502', 'temporary:0.1466', 'stretch:0.1122', 'dozen:0.0957']+titles_keywords+['protest:0.382', 'tank:0.3591', 'kherson:0.269', 'russia:0.2383', 'thousands:0.199']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+RUS+14":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/tass.com/Nuclear weapon delivery to Ukraine is issue of nonproliferation not desire diplomatMaria Zakharova recalled that.txt+eventbasecode14+eventcode14+avgtone0.5+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4636', 'nuclear:0.4414', 'ukraines:0.4188', 'treaty:0.4071', 'moscow:0.3597', 'zakharova:0.273', 'diplomatmaria:0.2571', 'nation:0.2076', 'telegram:0.2055', 'statement:0.1768', 'issue:0.1759', 'technology:0.1638', 'weaponsmoscow:0.1573', 'vehicle:0.1502', 'states:0.1499', 'address:0.1486', 'spokeswoman:0.1471', 'foreign:0.1442', 'nonproliferation:0.1419', 'regulate:0.1368', 'write:0.1314', 'tuesday:0.1179', 'possibility:0.1023', 'bravado:0.1008', 'recall:0.1005', 'possess:0.097', 'televised:0.086', 'party:0.0808', 'greenfield:0.0657', 'tass:0.0435']+titles_keywords+['nuclear:0.418', 'ukraines:0.3968', 'putin:0.3935', 'diplomat:0.2704', 'statement:0.1635']"
+        ]
+    ],
+    "RUS+UKR+14":[
+        [
+            "20211116+../news_crawling/RUS_UKR/p_articles/tass.com/Russian energy minister says no talks between Russia and Ukraine on coal suppliesNikolai Shulginov also.txt+eventbasecode14+eventcode14+avgtone0.49411764705882355+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4045', 'coal:0.3498', 'russias:0.3179', 'supply:0.2885', 'suppliesnikolai:0.2733', 'power:0.2263', 'regulator:0.2044', 'statedshulginov:0.1878', 'issue:0.1568', 'import:0.1516', 'talk:0.1416', 'hold:0.1395', 'extend:0.1386', 'matter:0.136', 'fall:0.1099', 'balance:0.0995', 'nur:0.0962', 'decision:0.096', 'nothey:0.0957', 'state:0.0955', 'ban:0.0917', 'later:0.0904', 'today:0.0781', 'follow:0.0753', 'moment:0.0694', 'resume:0.0591', 'request:0.0469', 'official:0.0457', 'fouryear:0.0202', 'tass:0.005']+titles_keywords+['ukraine:0.4072', 'shulginov:0.3439', 'coal:0.3218', 'issue:0.1076', 'says:0.0618']"
+        ],
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/tass.com/Ukraine crisisRussia hopes OSCE chair will facilitate conflict resolution in Ukraine top diplomat saysSergey Lavrov.txt+eventbasecode14+eventcode14+avgtone0.48409090909090907+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4626', 'crisisrussia:0.4213', 'osce:0.3623', 'diplomat:0.3298', 'conflict:0.2857', 'chairmanship:0.2651', 'facilitate:0.2486', 'lavrov:0.2224', 'crisisforeign:0.2211', 'contact:0.1898', 'approve:0.1895', 'report:0.1844', 'ignore:0.1754', 'authority:0.1725', 'note:0.1378', 'policysergey:0.1347', 'direction:0.1264', 'alternative:0.1203', 'include:0.1197', 'follow:0.1189', 'hope:0.1164', 'current:0.1157', 'publishes:0.1134', 'group:0.1012', 'rau:0.0926', 'hop:0.0894', 'measures:0.0837', 'possible:0.0635', 'accord:0.063', 'permanent:0.0494']+titles_keywords+['osce:0.4562', 'diplomat:0.3711', 'chairmanship:0.3457', 'crisisrussia:0.341', 'lavrov:0.3168']"
+        ]
+    ]
+}

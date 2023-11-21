@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+26":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/thehindu.com/Russia shows some troops leaving near Ukraine seeks talks.txt+eventbasecode26+eventcode26+avgtone0.4845183486238532+goldsteinscale0.7+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['crimea:0.4897', 'putin:0.4382', 'nato:0.4197', 'war:0.3475', 'diplomatic:0.3108', 'escalation:0.3095', 'propaganda:0.2763', 'maneuver:0.2683', 'separatist:0.2425', 'zakharova:0.231', 'announcement:0.2222', 'soon:0.2199', 'long:0.1937', 'want:0.1829', 'term:0.1817', 'remain:0.1799', 'flank:0.1762', 'salute:0.1697', 'hear:0.1695', 'week:0.1692', 'pullback:0.1567', 'anonymity:0.153', 'sign:0.1518', 'dmytro:0.1319', 'proof:0.1259', 'previously:0.1202', 'reduce:0.1102', 'fabricate:0.1098', 'major:0.0828', 'possible:0.0819']+titles_keywords+['ukraine:0.3655', 'troops:0.2743', 'leaving:0.2137', 'talks:0.1623', 'near:0.1236']"
+        ]
+    ],
+    "UKR+RUS+26":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/thehindu.com/Ukraine seeks to join EU as round of talks with Russia ends.txt+eventbasecode26+eventcode26+avgtone0.4788533834586467+goldsteinscale0.7+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.013157894736842105+news_keywords+['ukraine:0.4957', 'kremlin:0.3928', 'euronews:0.3841', 'diplomacy:0.3442', 'cyberattacks:0.2489', 'table:0.2436', 'union:0.2419', 'agreement:0.2324', 'bloc:0.2198', 'read:0.2149', 'warn:0.2065', 'volodymyr:0.2045', 'embattled:0.2016', 'advance:0.1983', 'come:0.1982', 'long:0.1895', 'slaughter:0.18', 'end:0.1797', 'orbit:0.1748', 'kilometer:0.174', 'nearly:0.1639', 'medinsky:0.1556', 'immediate:0.146', 'replace:0.1454', 'powerful:0.1453', 'port:0.1382', 'soldier:0.1281', 'building:0.1186', 'decade:0.1066', 'little:0.0745']+titles_keywords+['ukraine:0.4094', 'join:0.2377', 'ends:0.157', 'talks:0.0813', 'round:0.0761']"
+        ]
+    ]
+}

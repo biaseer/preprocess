@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+14":[
+        [
+            "20220209+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Captured Russian soldiers fear firing squad as funerals already arranged back home.txt+eventbasecode14+eventcode14+avgtone0.4713375796178344+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4816', 'kremlin:0.4672', 'troops:0.3999', 'frontline:0.3453', 'correspondent:0.3451', 'invasion:0.3414', 'herashchenko:0.3034', 'battle:0.3022', 'infantryman:0.2982', 'fascist:0.2825', 'news:0.2711', 'kill:0.2665', 'intercept:0.2576', 'morale:0.2338', 'know:0.2335', 'sob:0.2194', 'prisoner:0.2187', 'translation:0.2186', 'report:0.2176', 'expect:0.2074', 'video:0.1909', 'continue:0.1902', 'arrange:0.1894', 'warning:0.1843', 'sommerville:0.1649', 'world:0.1511', 'arm:0.1462', 'longer:0.1405', 'late:0.1405', 'sure:0.1196']+titles_keywords+['soldiers:0.3978', 'russian:0.3392', 'funerals:0.2749', 'fear:0.2203', 'captured:0.1992']"
+        ]
+    ],
+    "UKR+RUS+14":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Tragic photos show destroyed flat of concentration camp survivor killed in Putins war.txt+eventbasecode14+eventcode14+avgtone0.45530726256983245+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5294', 'soviet:0.5199', 'kyiv:0.3912', 'hitlers:0.3221', 'romanchenko:0.3208', 'buchenwald:0.2828', 'news:0.27', 'invade:0.2692', 'missiles:0.2603', 'survive:0.239', 'intelligence:0.2249', 'report:0.2208', 'veteran:0.2197', 'tragic:0.2181', 'achieve:0.2028', 'world:0.2006', 'campaign:0.1976', 'event:0.1969', 'know:0.1932', 'rubble:0.1917', 'block:0.1672', 'pipeline:0.1611', 'flat:0.1538', 'notorious:0.1471', 'long:0.1354', 'year:0.121', 'surround:0.1081', 'dora:0.1017', 'painstakingly:0.101', 'picture:0.0949']+titles_keywords+['putins:0.354', 'tragic:0.3159', 'photos:0.2765', 'camp:0.2738', 'flat:0.2184']"
+        ]
+    ]
+}

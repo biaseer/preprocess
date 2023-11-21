@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+61":[
+        [
+            "20220712+../news_crawling/RUS_UKR/p_articles/daijiworld.com/Winter is Coming but without Russias help can Germany brave the cold.txt+eventbasecode61+eventcode61+avgtone0.48652694610778446+goldsteinscale0.82+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['russia:0.4429', 'geopolitics:0.4137', 'berlin:0.3671', 'winter:0.3101', 'opec:0.2827', 'energiewende:0.2681', 'industrialize:0.2627', 'oppose:0.2428', 'change:0.2373', 'nuclear:0.2323', 'tesla:0.2283', 'announce:0.2235', 'defamatory:0.2215', 'concern:0.2015', 'diversification:0.2008', 'pandemic:0.1916', 'article:0.1851', 'comment:0.169', 'policy:0.166', 'habeck:0.1531', 'import:0.153', 'plant:0.1458', 'mishra:0.1455', 'phrase:0.1322', 'redirect:0.1254', 'coming:0.124', 'pent:0.1235', 'include:0.1159', 'long:0.1013', 'relatively:0.0914']+titles_keywords+['russias:0.373', 'germany:0.3623', 'winter:0.3429', 'coming:0.1285', 'help:0.1215']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/daijiworld.com/Sunflower oil shortage boon for palm oil producers bane for consumers.txt+eventbasecode61+eventcode61+avgtone0.48560000000000003+goldsteinscale0.82+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['oilseed:0.4134', 'economic:0.3971', 'stagflation:0.376', 'commodity:0.3743', 'shortage:0.329', 'securities:0.327', 'crop:0.2855', 'malaysia:0.2826', 'provide:0.2687', 'disruption:0.2576', 'worry:0.2362', 'march:0.2291', 'output:0.224', 'cooking:0.2174', 'significant:0.2146', 'vinod:0.2115', 'reduce:0.2099', 'world:0.2063', 'palm:0.2029', 'boon:0.1922', 'import:0.1851', 'personal:0.1679', 'benchmark:0.1626', 'geojit:0.1599', 'like:0.1569', 'rise:0.1475', 'entire:0.1464', 'million:0.1399', 'variant:0.139', 'house:0.0932']+titles_keywords+['sunflower:0.4882', 'oil:0.4322', 'consumers:0.3375', 'palm:0.2769', 'shortage:0.2736']"
+        ]
+    ]
+}

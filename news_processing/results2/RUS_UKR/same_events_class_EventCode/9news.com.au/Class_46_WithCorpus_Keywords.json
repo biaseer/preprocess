@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/9news.com.au/Volodymyr Zelenskyy fumes at NATO after it refuses to impose nofly zone over Ukraine.txt+eventbasecode46+eventcode46+avgtone0.45934959349593496+goldsteinscale0.85+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5+news_keywords+['ukraine:0.4561', 'nato:0.4448', 'putin:0.3811', 'zelenskyy:0.3338', 'war:0.3141', 'blockade:0.3132', 'corridor:0.2851', 'humanitarian:0.2655', 'warn:0.2623', 'memorandum:0.2552', 'catastrophe:0.2112', 'plan:0.1964', 'escape:0.196', 'help:0.1914', 'endanger:0.1896', 'burn:0.1806', 'fly:0.1782', 'continue:0.1771', 'speak:0.1741', 'forward:0.1686', 'allow:0.167', 'procurement:0.1643', 'shmyhal:0.1496', 'encircle:0.1403', 'remember:0.125', 'address:0.1249', 'nighttime:0.1181', 'plant:0.117', 'today:0.105', 'fully:0.0728']+titles_keywords+['zelenskyy:0.5078', 'nato:0.4187', 'refuses:0.2754', 'fumes:0.27', 'nofly:0.258']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220123+../news_crawling/RUS_UKR/p_articles/9news.com.au/Russia warned of severe response by US as tensions rise over Ukraine.txt+eventbasecode46+eventcode46+avgtone0.48750600672753486+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.4751', 'nato:0.4695', 'kremlin:0.3804', 'diplomacy:0.3543', 'invade:0.3532', 'armament:0.3187', 'disinformation:0.2766', 'escalate:0.2467', 'eastward:0.2429', 'crisis:0.2362', 'separatist:0.2221', 'security:0.2191', 'trigger:0.2087', 'warning:0.2056', 'raykov:0.2053', 'table:0.1828', 'clarify:0.1818', 'coordinate:0.179', 'additional:0.1661', 'covid:0.1589', 'current:0.1581', 'discus:0.1473', 'biden:0.1459', 'thursday:0.1403', 'ready:0.1291', 'end:0.1264', 'loggerheads:0.1262', 'replace:0.1187', 'study:0.1113', 'numerous:0.0962']+titles_keywords+['ukraine:0.3224', 'severe:0.2378', 'warned:0.188', 'response:0.1841', 'tensions:0.1371']"
+        ]
+    ]
+}

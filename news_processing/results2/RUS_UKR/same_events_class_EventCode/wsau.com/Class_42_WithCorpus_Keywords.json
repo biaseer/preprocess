@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+42":[
+        [
+            "20220207+../news_crawling/RUS_UKR/p_articles/wsau.com/US officials head to Europe to coordinate sanctions options for Russia.txt+eventbasecode42+eventcode42+avgtone0.4816666666666667+goldsteinscale0.595+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4525', 'putin:0.4362', 'russias:0.4055', 'invade:0.3657', 'sanction:0.304', 'threaten:0.2768', 'european:0.2553', 'reuters:0.2379', 'border:0.2245', 'prepare:0.2046', 'coordinate:0.1943', 'delegation:0.1816', 'economic:0.1811', 'adviser:0.1713', 'military:0.1651', 'order:0.1531', 'departments:0.1485', 'export:0.1418', 'meet:0.1305', 'discus:0.1293', 'event:0.1291', 'hit:0.1267', 'include:0.1084', 'potential:0.098', 'tell:0.0922', 'head:0.0816', 'kendler:0.0749', 'week:0.0662', 'house:0.0536', 'focus:0.0404']+titles_keywords+['sanctions:0.3925', 'europe:0.2396', 'coordinate:0.1493', 'options:0.0733', 'head:0.0325']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220627+../news_crawling/RUS_UKR/p_articles/wsau.com/Russian forces turn sights on Lysychansk in battle for eastern Ukraine.txt+eventbasecode42+eventcode42+avgtone0.47484662576687114+goldsteinscale0.595+nummentions0.03193033381712627+numarticles0.032632342277012324+numsources0.02631578947368421+news_keywords+['ukraine:0.4921', 'kremlin:0.4684', 'moscows:0.4303', 'nato:0.3827', 'war:0.3339', 'separatist:0.3178', 'frontline:0.286', 'news:0.2796', 'strategic:0.2657', 'lysychansk:0.2599', 'flee:0.2466', 'sanction:0.2404', 'capital:0.2275', 'direction:0.2056', 'industrial:0.205', 'president:0.1968', 'pretext:0.1964', 'baseless:0.1909', 'kindergarten:0.1904', 'cut:0.1876', 'say:0.1857', 'long:0.1839', 'safe:0.1774', 'achieve:0.1763', 'shirtless:0.1599', 'import:0.1539', 'feb:0.1515', 'ria:0.1507', 'oh:0.1365', 'largely:0.0927']+titles_keywords+['lysychansk:0.4438', 'ukraine:0.3509', 'battle:0.2508', 'sights:0.2363', 'turn:0.2198']"
+        ]
+    ]
+}

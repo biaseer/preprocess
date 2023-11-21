@@ -1,0 +1,20 @@
+{
+    "CHN+RUS+40":[
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/presstv.ir/China aims to strengthen ties with Russia within multilateral frameworks.txt+eventbasecode40+eventcode40+avgtone0.5019083969465649+goldsteinscale0.55+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['multilateral:0.3558', 'russia:0.3352', 'diplomat:0.3266', 'cooperation:0.2798', 'beijing:0.2726', 'meet:0.2515', 'sergey:0.2472', 'conflict:0.1887', 'talk:0.1876', 'relation:0.1839', 'strategic:0.1694', 'attendee:0.1385', 'group:0.1355', 'strengthen:0.1259', 'bilateral:0.1228', 'summit:0.1198', 'upcoming:0.1105', 'news:0.0961', 'usual:0.0904', 'cite:0.0807', 'interested:0.0721', 'statement:0.0621', 'follow:0.0618', 'include:0.0567', 'suit:0.0519', 'framework:0.0506', 'likely:0.0486', 'state:0.0452', 'overshadow:0.0293', 'keenness:-0.0049']+titles_keywords+['multilateral:0.3309', 'russia:0.278', 'strengthen:0.1901', 'ties:0.0549', 'frameworks:0.0331']"
+        ]
+    ],
+    "GBR+UKR+40":[
+        [
+            "20211021+../news_crawling/RUS_UKR/p_articles/presstv.ir/UK in talks to sell missiles to Ukraine in first arms deal Report.txt+eventbasecode40+eventcode40+avgtone0.4890282131661442+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.544', 'nato:0.4562', 'moscowstrongly:0.2749', 'conflict:0.2717', 'referendum:0.2653', 'territory:0.2614', 'deploy:0.2492', 'missile:0.2482', 'union:0.2287', 'maritime:0.2031', 'volodymyr:0.2028', 'result:0.1914', 'zelensky:0.1911', 'lead:0.1867', 'eubacked:0.1839', 'impose:0.1811', 'report:0.1793', 'president:0.1694', 'strengthen:0.1679', 'arm:0.1522', 'donbass:0.148', 'include:0.1395', 'deal:0.1376', 'come:0.1322', 'brimstone:0.1245', 'round:0.1217', 'say:0.1202', 'wednesday:0.1164', 'times:0.0971', 'reportedly:0.0946']+titles_keywords+['ukraine:0.3872', 'missiles:0.3447', 'deal:0.2733', 'talks:0.1784', 'report:0.0606']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/presstv.ir/Ukraine pres says no to talks with Russia in Belarus agrees to talks without preconditions.txt+eventbasecode40+eventcode40+avgtone0.48263254113345516+goldsteinscale0.55+nummentions0.023947750362844702+numarticles0.023205221174764323+numsources0.03289473684210526+news_keywords+['diplomacy:0.4732', 'putin:0.4445', 'minsk:0.3956', 'ukrainians:0.3682', 'unhcr:0.311', 'border:0.2956', 'israel:0.2869', 'refugeesfilippo:0.2741', 'escalate:0.2571', 'fight:0.2495', 'missiles:0.2248', 'urgent:0.2139', 'news:0.2075', 'volodymyr:0.206', 'prepare:0.1944', 'inconsistency:0.1874', 'end:0.1736', 'tel:0.1638', 'precondition:0.1637', 'neutral:0.1579', 'long:0.145', 'sit:0.1434', 'include:0.1422', 'explain:0.1417', 'counterpart:0.1388', 'room:0.1355', 'follow:0.1279', 'agree:0.1006', 'welcome:0.0861', 'possible:0.0807']+titles_keywords+['ukraine:0.3535', 'preconditions:0.1978', 'pres:0.1875', 'talks:0.1806', 'agrees:0.0516']"
+        ],
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/presstv.ir/Ukraine conflict Russia says military operation will stop in a moment if Ukraine meets its.txt+eventbasecode40+eventcode40+avgtone0.48611111111111105+goldsteinscale0.55+nummentions0.02939042089985486+numarticles0.027918781725888325+numsources0.03618421052631579+news_keywords+['ceasefires:0.5256', 'kyiv:0.4297', 'nato:0.3818', 'evacuate:0.3568', 'kremlin:0.3425', 'erdogan:0.3422', 'diplomatic:0.3319', 'refugee:0.3257', 'border:0.2582', 'corridor:0.252', 'encirclement:0.2482', 'agreement:0.2474', 'operation:0.2435', 'continue:0.2414', 'oppose:0.219', 'news:0.1926', 'truck:0.1648', 'telephone:0.1609', 'covid:0.1582', 'prepared:0.1581', 'world:0.157', 'gmt:0.1485', 'issue:0.1424', 'format:0.1418', 'twelfth:0.1297', 'state:0.1218', 'far:0.1177', 'focus:0.0951', 'make:0.0907', 'hundreds:0.0828']+titles_keywords+['ukraine:0.4237', 'military:0.2198', 'conflict:0.1903', 'conditions:0.182', 'says:0.0542']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "IND+UKR+163":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/heraldglobe.com/India in Talks with Russia to Buy Discounted Crude Oil.txt+eventbasecode163+eventcode163+avgtone0.4842300556586271+goldsteinscale0.1+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.03618421052631579+news_keywords+['russia:0.4312', 'petroleum:0.3459', 'supply:0.2907', 'investment:0.2646', 'diplomatic:0.2609', 'indian:0.2264', 'trade:0.1976', 'expand:0.1923', 'impose:0.1828', 'worry:0.1811', 'crisis:0.1779', 'briefing:0.1754', 'position:0.1731', 'western:0.1692', 'report:0.1684', 'importer:0.1644', 'cite:0.161', 'matter:0.1553', 'sector:0.1532', 'availability:0.144', 'statement:0.1372', 'puri:0.1328', 'deep:0.1303', 'fluctuation:0.1267', 'look:0.1215', 'weapon:0.1135', 'book:0.1127', 'vote:0.101', 'appropriate:0.0903', 'middle:0.0406']+titles_keywords+['russia:0.3134', 'oil:0.2968', 'talks:0.1912', 'crude:0.1783', 'buy:0.1779']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220817+../news_crawling/RUS_UKR/p_articles/heraldglobe.com/Saudis buy stake in Russian energy companies spend billions.txt+eventbasecode163+eventcode163+avgtone0.5+goldsteinscale0.1+nummentions0.24528301886792453+numarticles0.24583031182015955+numsources0.27631578947368424+news_keywords+['opec:0.4763', 'saudis:0.4114', 'ukraine:0.4027', 'lukoil:0.3875', 'russian:0.3606', 'invest:0.2808', 'gazprom:0.2756', 'petroleum:0.2453', 'jeddah:0.2268', 'stake:0.2158', 'rosneft:0.2013', 'invasion:0.1868', 'firm:0.1863', 'executive:0.1777', 'energy:0.1513', 'talal:0.1475', 'prince:0.1446', 'lead:0.1418', 'western:0.1237', 'billion:0.1236', 'th:0.1197', 'form:0.1167', 'twitter:0.1102', 'say:0.0951', 'sanction:0.0868', 'year:0.0779', 'percent:0.0773', 'add:0.0571', 'primarily:0.0437', 'exporting:0.0195']+titles_keywords+['saudis:0.4123', 'russian:0.3109', 'energy:0.1706', 'billions:0.1696', 'buy:0.165']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+43":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/waer.org/Ukrainian lawmakers visit the US Capitol to ask for help in the war with Russia.txt+eventbasecode43+eventcode43+avgtone0.5096153846153847+goldsteinscale0.64+nummentions0.07692307692307693+numarticles0.0775924583031182+numsources0.11513157894736842+news_keywords+['ukraine:0.4792', 'nato:0.4242', 'terrorist:0.3279', 'invade:0.2934', 'zelenskyy:0.287', 'political:0.2595', 'urgently:0.2505', 'terrify:0.2497', 'attention:0.2367', 'delegation:0.2343', 'tank:0.2338', 'order:0.2326', 'learn:0.2294', 'advocate:0.2269', 'hear:0.2243', 'shelter:0.2221', 'weapon:0.2053', 'safe:0.1982', 'serviceman:0.1976', 'corridor:0.1926', 'transcript:0.1879', 'radina:0.1875', 'npr:0.185', 'world:0.1726', 'story:0.166', 'negotiate:0.1629', 'bad:0.1549', 'far:0.1151', 'possible:0.1126', 'week:0.0812']+titles_keywords+['ukrainian:0.3655', 'lawmakers:0.2885', 'war:0.2198', 'visit:0.1588', 'help:0.075']"
+        ],
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/waer.org/Ukrainian mayor describes being held hostage by Russian soldiers.txt+eventbasecode43+eventcode43+avgtone0.4795918367346939+goldsteinscale0.64+nummentions0.08200290275761973+numarticles0.08049311094996374+numsources0.08881578947368421+news_keywords+['crimea:0.5172', 'ukrainians:0.4481', 'putin:0.4261', 'propaganda:0.3755', 'hostage:0.3709', 'fedorov:0.3647', 'occupy:0.3178', 'european:0.3045', 'troop:0.2737', 'flag:0.2682', 'macron:0.2623', 'speak:0.2386', 'mayor:0.2352', 'understand:0.2319', 'mistreat:0.2241', 'story:0.2238', 'help:0.2146', 'union:0.2034', 'npr:0.1999', 'visit:0.1939', 'world:0.172', 'finance:0.1681', 'prepares:0.1486', 'realistic:0.1465', 'head:0.145', 'free:0.1339', 'camera:0.1337', 'despite:0.1323', 'main:0.1296', 'thousand:0.1127']+titles_keywords+['hostage:0.4753', 'ukrainian:0.4035', 'mayor:0.2983', 'soldiers:0.2234', 'describes:0.1234']"
+        ]
+    ]
+}

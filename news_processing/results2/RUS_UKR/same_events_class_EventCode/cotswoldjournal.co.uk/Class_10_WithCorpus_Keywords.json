@@ -1,0 +1,20 @@
+{
+    "RUS+RUS+10":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/cotswoldjournal.co.uk/Lloyds Bank on high alert for cyber attack as Russia invades Ukraine.txt+eventbasecode10+eventcode10+avgtone0.47+goldsteinscale0.5+nummentions0.04499274310595065+numarticles0.04568527918781726+numsources0.049342105263157895+news_keywords+['ukraine:0.459', 'putin:0.4586', 'cybersecurity:0.4377', 'banking:0.4085', 'lloyds:0.401', 'invade:0.3373', 'boris:0.304', 'bloodshed:0.29', 'government:0.2852', 'unprovoked:0.2664', 'warn:0.2587', 'sanction:0.2415', 'misuse:0.2282', 'invest:0.2235', 'privilege:0.2022', 'volodymyr:0.1887', 'debate:0.1822', 'twitter:0.1699', 'sector:0.1667', 'want:0.1557', 'control:0.1538', 'thursday:0.1535', 'reader:0.1446', 'goal:0.1441', 'right:0.141', 'lively:0.1352', 'address:0.1297', 'look:0.1186', 'past:0.1164', 'story:0.1142']+titles_keywords+['lloyds:0.4197', 'bank:0.3151', 'ukraine:0.2926', 'attack:0.2499', 'cyber:0.2421']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/cotswoldjournal.co.uk/Asda removes Russian products and announces 1 million Ukrainian support package.txt+eventbasecode10+eventcode10+avgtone0.5118421052631579+goldsteinscale0.5+nummentions0.2053701015965167+numarticles0.20594633792603337+numsources0.18092105263157895+news_keywords+['asda:0.441', 'ukrainians:0.4343', 'refugee:0.3848', 'russia:0.3733', 'grocery:0.312', 'support:0.3066', 'uk:0.3004', 'donate:0.2835', 'crisis:0.2656', 'product:0.2511', 'privilege:0.2242', 'withdraw:0.2229', 'want:0.22', 'ahead:0.1927', 'global:0.1749', 'misuse:0.1716', 'originate:0.1694', 'right:0.1617', 'https:0.1577', 'range:0.1535', 'force:0.1525', 'labzdj:0.1518', 'reader:0.151', 'issa:0.1462', 'stand:0.1457', 'saddened:0.1418', 'displace:0.137', 'long:0.0962', 'coming:0.0849', 'cofie:0.0567']+titles_keywords+['asda:0.4503', 'russian:0.3924', 'products:0.2887', 'removes:0.2122', 'support:0.1988']"
+        ],
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/cotswoldjournal.co.uk/Roman Abramovich suspected poisoning claims very concerning Foreign Office.txt+eventbasecode10+eventcode10+avgtone0.47686230248307+goldsteinscale0.5+nummentions0.18650217706821481+numarticles0.18709209572153734+numsources0.42105263157894735+news_keywords+['putin:0.4826', 'kyiv:0.4481', 'poison:0.4439', 'oligarch:0.4102', 'abramovich:0.401', 'sabotage:0.3188', 'kill:0.2968', 'nuclear:0.2834', 'allegation:0.2751', 'scare:0.2703', 'sanction:0.2691', 'involved:0.254', 'table:0.251', 'negotiator:0.2492', 'humanitarian:0.2486', 'operation:0.247', 'know:0.2168', 'oppose:0.2131', 'wsj:0.2067', 'british:0.2', 'conclusion:0.1948', 'story:0.185', 'mps:0.1711', 'tense:0.1689', 'high:0.1682', 'ensure:0.1671', 'symptom:0.1659', 'suggest:0.1626', 'plausible:0.1496', 'long:0.1399']+titles_keywords+['abramovich:0.5631', 'poisoning:0.3889', 'suspected:0.2883', 'claims:0.1765', 'office:0.1638']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/cotswoldjournal.co.uk/Scientists donate profits from Chernobyl schnapps drinks to Ukrainian refugees.txt+eventbasecode10+eventcode10+avgtone0.4942307692307692+goldsteinscale0.5+nummentions0.03773584905660377+numarticles0.03843364757070341+numsources0.08223684210526316+news_keywords+['chernobyl:0.6586', 'kyiv:0.4031', 'reactor:0.3759', 'vodka:0.3516', 'refugees:0.2744', 'economic:0.2653', 'donate:0.2396', 'academic:0.2394', 'produce:0.2348', 'initiative:0.2221', 'company:0.2214', 'gennady:0.2115', 'emergency:0.2075', 'enterprise:0.203', 'community:0.1902', 'consequence:0.1871', 'experiment:0.1806', 'safely:0.1784', 'privilege:0.1684', 'story:0.1614', 'control:0.1606', 'valuable:0.1396', 'future:0.1393', 'debate:0.1348', 'batch:0.1327', 'misuse:0.1315', 'having:0.1277', 'horrify:0.1149', 'year:0.1018', 'right:0.0845']+titles_keywords+['chernobyl:0.5398', 'schnapps:0.3633', 'ukrainian:0.3581', 'donate:0.3226', 'refugees:0.3067']"
+        ]
+    ]
+}

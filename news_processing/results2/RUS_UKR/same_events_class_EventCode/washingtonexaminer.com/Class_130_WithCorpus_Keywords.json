@@ -1,0 +1,15 @@
+{
+    "IRL+RUS+130":[
+        [
+            "20220610+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Ukraine facing 40 decline in harvest Zelensky warns millions could starve.txt+eventbasecode130+eventcode130+avgtone0.45792079207920794+goldsteinscale0.27999999999999997+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4397', 'blockade:0.3367', 'war:0.3312', 'vysotskyi:0.3266', 'harvest:0.2958', 'grain:0.2787', 'supply:0.2589', 'azov:0.2495', 'concern:0.227', 'warn:0.225', 'crisis:0.2198', 'destroy:0.2189', 'starve:0.2143', 'warehouse:0.1965', 'cnn:0.182', 'president:0.1719', 'anticipate:0.1699', 'untrue:0.1657', 'soon:0.1629', 'tera:0.1444', 'stop:0.1423', 'term:0.1394', 'clear:0.136', 'feb:0.1167', 'exporter:0.0905', 'head:0.0859', 'millions:0.0798', 'necessary:0.077', 'tonne:0.0749', 'half:0.0682']+titles_keywords+['zelensky:0.4339', 'ukraine:0.3493', 'starve:0.3051', 'harvest:0.3006', 'warns:0.1731']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220127+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/White House downplays concerns of Russian cyber strikes on US homeland.txt+eventbasecode130+eventcode130+avgtone0.46262886597938147+goldsteinscale0.27999999999999997+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['cyberattacks:0.4395', 'putin:0.3407', 'ukraines:0.295', 'moscow:0.2946', 'imminent:0.2484', 'prepare:0.2396', 'psaki:0.2383', 'warn:0.2272', 'war:0.2226', 'concern:0.2166', 'president:0.2121', 'respond:0.1993', 'aggressive:0.1898', 'dhs:0.1895', 'memo:0.169', 'news:0.1601', 'wednesday:0.1449', 'grid:0.1427', 'homeland:0.1399', 'state:0.1355', 'downplay:0.1286', 'supply:0.127', 'navigate:0.1224', 'consequence:0.1055', 'right:0.1005', 'range:0.0945', 'attempt:0.0922', 'white:0.0846', 'plant:0.0432', 'theres:0.025']+titles_keywords+['cyber:0.267', 'downplays:0.2626', 'russian:0.2461', 'homeland:0.2288', 'concerns:0.2173']"
+        ],
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Russians drove through radioactive Red Forest by Chernobyl with no radioactive gear on.txt+eventbasecode130+eventcode130+avgtone0.46964285714285714+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['chernobyl:0.6337', 'radioactively:0.4128', 'nuclear:0.3779', 'ukrainian:0.3504', 'zelensky:0.2748', 'contaminate:0.2183', 'disaster:0.198', 'toxic:0.187', 'forest:0.1787', 'reuters:0.1782', 'volodymyr:0.1778', 'troop:0.1708', 'red:0.1691', 'lead:0.1666', 'warn:0.164', 'gas:0.1513', 'treating:0.1304', 'kilometer:0.1266', 'continuation:0.1109', 'aggression:0.1102', 'kidnap:0.0972', 'travel:0.0962', 'push:0.088', 'gear:0.0825', 'worker:0.0806', 'dead:0.0696', 'accord:0.0687', 'complete:0.0519', 'early:0.0217', 'cost:0.0107']+titles_keywords+['chernobyl:0.5426', 'russians:0.3046', 'drove:0.2615', 'forest:0.2443', 'gear:0.1977']"
+        ]
+    ]
+}

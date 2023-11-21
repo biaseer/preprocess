@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+13":[
+        [
+            "20210916+../news_crawling/RUS_UKR/p_articles/krdo.com/Putin says several dozen in his inner circle test positive for coronavirus.txt+eventbasecode13+eventcode13+avgtone0.4902309058614565+goldsteinscale0.52+nummentions0.025036284470246733+numarticles0.02574329224075417+numsources0.03289473684210526+news_keywords+['coronavirus:0.6104', 'vaccinate:0.4545', 'putin:0.4479', 'quarantine:0.4219', 'antibody:0.3104', 'communicate:0.2921', 'globally:0.2205', 'paralympians:0.2133', 'capital:0.2125', 'know:0.2019', 'experiment:0.2013', 'entourage:0.1989', 'attend:0.1937', 'data:0.1862', 'positive:0.1796', 'level:0.1721', 'military:0.1686', 'case:0.1681', 'prior:0.1637', 'cause:0.1564', 'hesitancy:0.1558', 'population:0.1491', 'csto:0.1331', 'circle:0.133', 'worst:0.1308', 'month:0.128', 'parameter:0.1263', 'albeit:0.1208', 'fell:0.1197', 'sputink:0.1125']+titles_keywords+['coronavirus:0.4939', 'putin:0.4435', 'test:0.1738', 'dozen:0.1627', 'positive:0.1456']"
+        ]
+    ],
+    "RUS+UKR+13":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/krdo.com/Amid speculation over his whereabouts Russias defense minister resurfaces.txt+eventbasecode13+eventcode13+avgtone0.484375+goldsteinscale0.52+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['putin:0.5026', 'ukraines:0.3965', 'news:0.3224', 'government:0.3141', 'yeltsins:0.3043', 'pentagon:0.2956', 'investigative:0.2762', 'shoigu:0.2677', 'procurement:0.261', 'report:0.2583', 'appear:0.2556', 'troop:0.2546', 'agenstvo:0.2474', 'secretary:0.2431', 'resign:0.2399', 'conflict:0.2372', 'correction:0.228', 'cite:0.2128', 'important:0.2101', 'decree:0.2069', 'interrupt:0.2059', 'separatist:0.2038', 'chubais:0.1966', 'state:0.185', 'plan:0.1843', 'say:0.1841', 'february:0.1649', 'longstanding:0.1576', 'robotic:0.1421', 'far:0.1045']+titles_keywords+['resurfaces:0.3487', 'russias:0.2819', 'minister:0.2665', 'speculation:0.1821', 'defense:0.1621']"
+        ]
+    ]
+}

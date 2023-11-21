@@ -1,0 +1,12 @@
+{
+    "IND+RUS+145":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/prokerala.com/Hungry Russian soldiers robbing shops and residential buildings BySanjeev Sharma IANS Published on Wed Mar.txt+eventbasecode145+eventcode145+avgtone0.4713261648745519+goldsteinscale0.125+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['russian:0.5018', 'robbery:0.3821', 'military:0.3591', 'nikolaev:0.3414', 'trostyanets:0.3248', 'report:0.3146', 'aggressor:0.3143', 'demolish:0.3132', 'suspect:0.2925', 'hungry:0.2831', 'bysanjeev:0.2805', 'tank:0.271', 'delhi:0.2569', 'region:0.2526', 'happen:0.2404', 'march:0.2368', 'people:0.2268', 'telegram:0.222', 'homeland:0.2203', 'shop:0.2186', 'stress:0.2167', 'change:0.2159', 'mobility:0.2068', 'continue:0.2', 'morning:0.1993', 'enterprises:0.1918', 'ist:0.1893', 'pull:0.1872', 'known:0.1827', 'second:0.1234']+titles_keywords+['russian:0.4554', 'soldiers:0.4302', 'robbing:0.3965', 'hungry:0.3212', 'published:0.2011']"
+        ]
+    ],
+    "UKR+RUS+145":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/prokerala.com/Russian troops stole kettles coffee makers from Chernobyl nuclear plant Ukraine By IANS Published on.txt+eventbasecode145+eventcode145+avgtone0.4767932489451477+goldsteinscale0.125+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['chernobyl:0.6021', 'nuclear:0.4137', 'kiev:0.4038', 'russian:0.3546', 'pravda:0.2773', 'troop:0.2427', 'kettle:0.2398', 'report:0.2125', 'stole:0.1989', 'infrastructure:0.1924', 'story:0.1805', 'wire:0.177', 'worker:0.1525', 'hotel:0.1497', 'plant:0.1483', 'inspect:0.1305', 'withdraw:0.129', 'indicator:0.1139', 'control:0.1118', 'forks:0.1088', 'april:0.1027', 'damage:0.0959', 'th:0.0923', 'publish:0.0919', 'quiet:0.0865', 'ist:0.0841', 'set:0.0666', 'significant:0.0615', 'able:0.0536', 'offer:0.0517']+titles_keywords+['chernobyl:0.6054', 'kettles:0.4092', 'russian:0.3546', 'stole:0.2733', '1706:0.2229']"
+        ]
+    ]
+}

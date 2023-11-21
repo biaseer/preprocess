@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+46":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/fool.com/Alibabas Exposure to Russia Deserves a Much Closer Look.txt+eventbasecode46+eventcode46+avgtone0.4862068965517241+goldsteinscale0.85+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['russia:0.4352', 'alibabas:0.3991', 'macroeconomic:0.2783', 'region:0.2651', 'ipo:0.2631', 'expand:0.2616', 'global:0.2183', 'capital:0.2152', 'predict:0.1881', 'disclose:0.1852', 'ecosystem:0.1664', 'conflict:0.1638', 'exchange:0.1634', 'bridge:0.1561', 'pr:0.1524', 'previous:0.1217', 'list:0.1201', 'avoid:0.1169', 'rank:0.1095', 'abrupt:0.1055', 'million:0.1017', 'trendyol:0.0927', 'october:0.0809', 'term:0.0774', 'similarweb:0.0654', 'look:0.064', 'mainly:0.062', 'significantly:0.0595', 'deconsolidation:0.0581', 'download:0.0559']+titles_keywords+['alibabas:0.475', 'russia:0.389', 'exposure:0.1907', 'look:0.1509', 'deserves:0.0803']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/fool.com/Crypto Prices Surge as RussiaUkraine Conflict Continues.txt+eventbasecode46+eventcode46+avgtone0.48224195338512765+goldsteinscale0.85+nummentions0.05624092888243832+numarticles0.05293691080493111+numsources0.0756578947368421+news_keywords+['crypto:0.3704', 'russiaukraine:0.3327', 'conflict:0.3286', 'prices:0.2654', 'surge:0.2482', 'continues:0.1577']+titles_keywords+['crypto:0.3569', 'russiaukraine:0.2967', 'conflict:0.2789', 'surge:0.2686', 'prices:0.2639']"
+        ]
+    ]
+}

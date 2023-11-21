@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/Ukraine rejects Russian demand for surrender in Mariupol.txt+eventbasecode80+eventcode80+avgtone0.465032154340836+goldsteinscale0.75+nummentions0.18142235123367198+numarticles0.18056562726613487+numsources0.45394736842105265+news_keywords+['kyiv:0.541', 'pravda:0.3815', 'putins:0.3654', 'evacuate:0.3585', 'airstrike:0.3576', 'surrender:0.328', 'azov:0.2873', 'conflict:0.2669', 'survive:0.2603', 'troop:0.2457', 'casualty:0.2448', 'government:0.2424', 'update:0.225', 'know:0.2215', 'arrive:0.2199', 'podil:0.2009', 'read:0.1976', 'outlet:0.1854', 'intensify:0.1853', 'heading:0.1806', 'curfew:0.179', 'report:0.1764', 'western:0.1729', 'nearly:0.1644', 'metal:0.1569', 'proposal:0.1518', 'surround:0.1517', 'bad:0.1453', 'major:0.1345', 'kilometres:0.1339']+titles_keywords+['surrender:0.4206', 'ukraine:0.3945', 'mariupol:0.2589', 'rejects:0.1848', 'demand:0.0172']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/Missiles cause multiple blasts in western Ukrainians Lviv mayor says.txt+eventbasecode80+eventcode80+avgtone0.4677952105697771+goldsteinscale0.75+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.01644736842105263+news_keywords+['kyiv:0.5161', 'airstrikes:0.4229', 'putin:0.3928', 'missile:0.3023', 'azov:0.2915', 'news:0.2621', 'catastrophic:0.2476', 'victory:0.2437', 'industrial:0.2348', 'know:0.2201', 'rail:0.2082', 'separatist:0.1986', 'troop:0.1955', 'sprawl:0.1949', 'read:0.1924', 'bucha:0.1831', 'prepared:0.1745', 'eastern:0.1697', 'basically:0.1679', 'scenes:0.1644', 'resume:0.1563', 'amid:0.1375', 'accuse:0.1338', 'plume:0.1273', 'february:0.1271', 'include:0.1249', 'reduce:0.118', 'doesnt:0.1079', 'population:0.0774', 'anytime:0.0745']+titles_keywords+['lviv:0.5166', 'missiles:0.4294', 'mayor:0.1738', 'multiple:0.1577', 'cause:0.0763']"
+        ]
+    ]
+}

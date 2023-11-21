@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+30":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/oxfordmail.co.uk/Boris Johnson 5pm update 10 major measures announced against Russia.txt+eventbasecode30+eventcode30+avgtone0.4856870229007634+goldsteinscale0.7+nummentions0.0330188679245283+numarticles0.0337200870195794+numsources0.11842105263157894+news_keywords+['putin:0.5285', 'russias:0.4426', 'diplomacy:0.4101', 'boris:0.3722', 'nato:0.3699', 'attack:0.2984', 'sanction:0.2925', 'nazification:0.2664', 'uk:0.2611', 'conquest:0.2251', 'debate:0.2206', 'cabinet:0.2138', 'misuse:0.2007', 'pretext:0.1999', 'clearing:0.1878', 'blood:0.1803', 'evening:0.1755', 'want:0.1503', 'implementing:0.1495', 'weve:0.1492', 'lively:0.1417', 'exclude:0.1397', 'pledge:0.1392', 'step:0.1387', 'absurd:0.1374', 'fact:0.1315', 'mr:0.128', 'vbt:0.1215', 'measure:0.115', 'stoltenberg:0.1093']+titles_keywords+['boris:0.4271', 'russia:0.3879', '5pm:0.251', 'update:0.2292', 'measures:0.2137']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/oxfordmail.co.uk/Russian and Ukrainian militaries set to discuss grain exports.txt+eventbasecode30+eventcode30+avgtone0.4858078602620088+goldsteinscale0.7+nummentions0.25544267053701014+numarticles0.25598259608411894+numsources0.39473684210526316+news_keywords+['ukraine:0.4607', 'blockade:0.3632', 'putins:0.3594', 'war:0.3569', 'diplomat:0.2956', 'ilyichev:0.2942', 'infrastructure:0.2693', 'commodity:0.2655', 'grain:0.243', 'want:0.2268', 'shipment:0.2248', 'plan:0.207', 'secure:0.2051', 'news:0.2015', 'agreement:0.1995', 'navigation:0.1923', 'upcoming:0.1883', 'declare:0.1762', 'enter:0.1762', 'talk:0.172', 'increase:0.1597', 'general:0.1567', 'corridor:0.1535', 'endanger:0.1498', 'withdraw:0.1457', 'issue:0.1373', 'exporter:0.1311', 'blame:0.1167', 'possibility:0.0983', 'focus:0.098']+titles_keywords+['ukrainian:0.319', 'militaries:0.2943', 'grain:0.2681', 'exports:0.2503', 'discuss:0.0847']"
+        ]
+    ]
+}

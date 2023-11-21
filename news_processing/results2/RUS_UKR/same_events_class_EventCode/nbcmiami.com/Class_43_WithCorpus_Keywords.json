@@ -1,0 +1,15 @@
+{
+    "CHE+UKR+43":[
+        []
+    ],
+    "POL+UKR+43":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/They Were Shooting Civilians Ukraine Refugees Provide Testimony of Abuse.txt+eventbasecode43+eventcode43+avgtone0.46858288770053474+goldsteinscale0.64+nummentions0.13570391872278664+numarticles0.1363306744017404+numsources0.20394736842105263+news_keywords+['kyiv:0.4788', 'russians:0.4358', 'refugee:0.3902', 'civilians:0.3692', 'evacuation:0.3575', 'war:0.3023', 'blockade:0.2836', 'diekov:0.2669', 'contingency:0.2234', 'evidence:0.2057', 'corridor:0.2054', 'shooting:0.2048', 'river:0.1989', 'continue:0.1956', 'turn:0.1896', 'prosecutor:0.1879', 'tell:0.1843', 'accountable:0.1788', 'scared:0.1775', 'anna:0.1642', 'plant:0.1409', 'arrive:0.1395', 'displace:0.1381', 'million:0.1357', 'ihor:0.1322', 'structure:0.1312', 'official:0.1229', 'badly:0.1203', 'longer:0.1045', 'thats:0.0671']+titles_keywords+['refugees:0.5353', 'ukraine:0.4595', 'abuse:0.3373', 'shooting:0.2712', 'testimony:0.1818']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/Tripwire for War The Dangers of Cyberattacks and Their Fuzzy Rules of Engagement.txt+eventbasecode43+eventcode43+avgtone0.45553935860058326+goldsteinscale0.64+nummentions0.04644412191582003+numarticles0.04713560551124003+numsources0.06578947368421052+news_keywords+['cyberattacks:0.6079', 'cyberespionage:0.5609', 'espionage:0.479', 'natos:0.4383', 'stuxnet:0.4329', 'cybercom:0.4002', 'tripwire:0.3855', 'destabilizing:0.3633', 'armageddon:0.3253', 'war:0.3226', 'crimea:0.3099', 'microsoft:0.2766', 'dangers:0.2763', 'escalation:0.2641', 'battlespace:0.254', 'proxy:0.2262', 'blacklist:0.2191', 'know:0.1937', 'data:0.1932', 'midterm:0.1849', 'centrifuge:0.1797', 'departments:0.175', 'biden:0.1648', 'current:0.1566', 'fuzzy:0.1469', 'markoff:0.1402', 'compare:0.14', 'simultaneously:0.1211', 'definition:0.1148', 'send:0.0651']+titles_keywords+['cyberattacks:0.6201', 'tripwire:0.3847', 'fuzzy:0.3722', 'war:0.328', 'rules:0.2336']"
+        ]
+    ]
+}

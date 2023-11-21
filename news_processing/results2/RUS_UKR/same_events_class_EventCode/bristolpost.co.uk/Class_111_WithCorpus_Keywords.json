@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+111":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/bristolpost.co.uk/Johnson calls on China to speak out on Ukraine war.txt+eventbasecode111+eventcode111+avgtone0.4825367647058823+goldsteinscale0.4+nummentions0.02358490566037736+numarticles0.024292965917331398+numsources0.046052631578947366+news_keywords+['ukraine:0.4949', 'putins:0.4225', 'nato:0.3904', 'democracy:0.2925', 'jinpings:0.289', 'president:0.2801', 'boris:0.2744', 'threat:0.2681', 'conversation:0.263', 'invasion:0.2613', 'news:0.2522', 'yucheng:0.2303', 'volodymyr:0.2191', 'turn:0.2138', 'tory:0.2122', 'sanction:0.2116', 'world:0.2079', 'fence:0.2075', 'continue:0.2016', 'important:0.178', 'pledge:0.1646', 'want:0.1645', 'clear:0.1512', 'look:0.1506', 'fall:0.1456', 'prove:0.1208', 'ive:0.0904', 'total:0.0849', 'possible:0.0758', 'passively:0.0709']+titles_keywords+['ukraine:0.3054', 'johnson:0.2772', 'war:0.2224', 'speak:0.1624', 'calls:0.1426']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/bristolpost.co.uk/Russia Ukraine crisis Bristol readers have say on how British troops should help.txt+eventbasecode111+eventcode111+avgtone0.4821981424148607+goldsteinscale0.4+nummentions0.019230769230769232+numarticles0.01994198694706309+numsources0.03618421052631579+news_keywords+['ukraine:0.4899', 'putin:0.4119', 'bristollive:0.3333', 'boris:0.3301', 'invasion:0.3147', 'bloodshed:0.2729', 'politics:0.2663', 'bbc:0.2604', 'headline:0.2475', 'soldier:0.2246', 'flee:0.2196', 'volodymyr:0.2152', 'curfew:0.2081', 'interferes:0.1961', 'capital:0.1894', 'enter:0.1888', 'read:0.1882', 'strike:0.1877', 'organise:0.1758', 'deliver:0.1678', 'respondent:0.1505', 'assistance:0.1379', 'careful:0.1355', 'february:0.1257', 'sure:0.1221', 'stand:0.1174', 'unsure:0.1058', 'like:0.0947', 'disagree:0.0859', 'multiple:0.0599']+titles_keywords+['ukraine:0.4584', 'troops:0.3931', 'bristol:0.2521', 'crisis:0.2441', 'say:0.1029']"
+        ]
+    ]
+}

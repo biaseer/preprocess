@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+17":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/theargus.co.uk/Vladimir Putin praises Russian troops as assault on Ukraines cities continues.txt+eventbasecode17+eventcode17+avgtone0.47483940042826556+goldsteinscale0.5+nummentions0.274310595065312+numarticles0.27483683828861494+numsources0.3092105263157895+news_keywords+['kyiv:0.5374', 'putin:0.4384', 'airstrikes:0.3713', 'genocide:0.2984', 'annexation:0.2891', 'unprovoked:0.2726', 'separatist:0.2614', 'conflict:0.2609', 'troop:0.2566', 'casualty:0.2408', 'alert:0.2364', 'survive:0.2303', 'telegram:0.2297', 'comply:0.217', 'order:0.1951', 'speak:0.1925', 'row:0.1836', 'data:0.1774', 'prepared:0.1732', 'weapon:0.1731', 'secretary:0.1716', 'increase:0.1683', 'surround:0.1585', 'world:0.1539', 'th:0.1518', 'long:0.1516', 'donbas:0.1379', 'like:0.1359', 'agree:0.1347', 'ap:0.1323']+titles_keywords+['putin:0.392', 'ukraines:0.3762', 'troops:0.278', 'praises:0.2624', 'continues:0.114']"
+        ]
+    ],
+    "UKR+RUS+17":[
+        [
+            "20220829+../news_crawling/RUS_UKR/p_articles/theargus.co.uk/Brighton man supports Ukraine effort with sixth aid mission.txt+eventbasecode17+eventcode17+avgtone0.5102941176470588+goldsteinscale0.5+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['ukraine:0.5229', 'war:0.3426', 'aid:0.3242', 'convoy:0.3217', 'supply:0.3052', 'brighton:0.2698', 'shelter:0.2677', 'remain:0.265', 'border:0.2549', 'privilege:0.237', 'important:0.2161', 'markedindependence:0.2137', 'curfew:0.2064', 'prepare:0.2062', 'anniversary:0.205', 'safely:0.2004', 'mile:0.1998', 'rid:0.1896', 'deans:0.1893', 'replace:0.1808', 'return:0.1805', 'modified:0.1793', 'coincide:0.1761', 'effort:0.1735', 'worker:0.1711', 'arent:0.1527', 'story:0.1508', 'reach:0.1487', 'say:0.1371', 'mr:0.1257']+titles_keywords+['brighton:0.3369', 'ukraine:0.3323', 'aid:0.3236', 'sixth:0.1949', 'man:0.0862']"
+        ]
+    ]
+}

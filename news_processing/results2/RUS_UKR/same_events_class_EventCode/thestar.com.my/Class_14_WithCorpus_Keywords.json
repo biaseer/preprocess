@@ -1,0 +1,20 @@
+{
+    "DEU+UKR+14":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Germany considers sending howitzers to Ukraine security source.txt+eventbasecode14+eventcode14+avgtone0.4943342776203966+goldsteinscale0.5+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['ukraine:0.5007', 'howitzer:0.476', 'nato:0.4375', 'ammunition:0.3433', 'kremlin:0.3107', 'military:0.2858', 'bundeswehr:0.2814', 'panzerhaubitze:0.2742', 'tank:0.2718', 'inventory:0.2242', 'range:0.1986', 'western:0.1931', 'reutersfabian:0.1928', 'ally:0.1549', 'km:0.1494', 'provide:0.148', 'shift:0.1401', 'repel:0.1391', 'import:0.1259', 'thursday:0.1179', 'fight:0.1159', 'donbas:0.1125', 'send:0.1039', 'describes:0.1007', 'instability:0.0977', 'warning:0.0949', 'powerful:0.085', 'long:0.0843', 'ready:0.0822', 'say:0.0606']+titles_keywords+['howitzers:0.5436', 'ukraine:0.3869', 'security:0.1748', 'sending:0.0679', 'source:0.0652']"
+        ]
+    ],
+    "RUS+UKR+14":[
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Whats in a name Ukraine plans to rename streets linked to Russia.txt+eventbasecode14+eventcode14+avgtone0.4858757062146893+goldsteinscale0.5+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.006578947368421052+news_keywords+['kyiv:0.5366', 'soviet:0.3874', 'russias:0.348', 'terekhov:0.3022', 'rename:0.2973', 'tolstoy:0.2319', 'oleksandr:0.2248', 'reutersgleb:0.2098', 'street:0.1877', 'fascist:0.1843', 'northern:0.1831', 'garanichfile:0.1822', 'independence:0.1794', 'gogol:0.1789', 'remind:0.1732', 'citing:0.1727', 'heritage:0.1672', 'invasion:0.1645', 'baikal:0.1625', 'table:0.1584', 'telegram:0.1575', 'governor:0.1573', 'unprovoked:0.1515', 'plan:0.1493', 'dismantle:0.1419', 'symbolise:0.1069', 'long:0.104', 'th:0.1029', 'want:0.101', 'derussification:0.0922']+titles_keywords+['ukraine:0.505', 'rename:0.3555', 'streets:0.3481', 'plans:0.1321', 'linked:0.0344']"
+        ]
+    ],
+    "UKR+RUS+14":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Russia wants to block Kyiv create land corridor to Crimea and Transdniestria Kyiv says.txt+eventbasecode14+eventcode14+avgtone0.465+goldsteinscale0.5+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.03289473684210526+news_keywords+['crimea:0.6093', 'kyiv:0.5446', 'ukraine:0.4777', 'moscow:0.4522', 'annex:0.3605', 'russian:0.3472', 'peninsula:0.2506', 'flee:0.2501', 'attack:0.2427', 'transdniestria:0.2404', 'corridor:0.2301', 'war:0.2253', 'land:0.2094', 'capital:0.2048', 'want:0.1954', 'region:0.191', 'coast:0.1613', 'military:0.1537', 'reuters:0.1524', 'block:0.1451', 'people:0.109', 'prompt:0.0989', 'mount:0.0983', 'say:0.0982', 'create:0.0797', 'thursday:0.0733', 'aim:0.0663', 'home:0.0659', 'big:0.0564', 'thousand:0.0502']+titles_keywords+['crimea:0.5213', 'kyiv:0.503', 'corridor:0.2415', 'create:0.0838', 'says:0.022']"
+        ],
+        [
+            "20220605+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Ample supply of lifesaving drugs.txt+eventbasecode14+eventcode14+avgtone0.4919590643274854+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['pharmacy:0.5234', 'shortage:0.5145', 'healthcare:0.4198', 'supply:0.3989', 'covid:0.3825', 'market:0.3417', 'procurement:0.3236', 'antihistamine:0.3171', 'stockpile:0.2994', 'hypertension:0.2944', 'order:0.2798', 'preparedness:0.2792', 'panic:0.262', 'help:0.2408', 'increase:0.2232', 'symptom:0.216', 'acute:0.2086', 'category:0.2024', 'alternative:0.1998', 'stabilise:0.1968', 'affected:0.1923', 'avoid:0.1825', 'import:0.1609', 'cause:0.1569', 'countrys:0.148', 'factor:0.1428', 'jaya:0.1416', 'reopen:0.1307', 'buang:0.1185', 'february:0.1091']+titles_keywords+['drugs:0.5058', 'lifesaving:0.3999', 'supply:0.3962', 'ample:0.2171']"
+        ]
+    ]
+}

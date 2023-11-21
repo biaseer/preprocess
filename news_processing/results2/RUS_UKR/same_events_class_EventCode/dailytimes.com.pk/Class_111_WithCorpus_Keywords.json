@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+111":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/dailytimes.com.pk/Ukrainians flee besieged cities as US oil ban looms.txt+eventbasecode111+eventcode111+avgtone0.45621301775+goldsteinscale0.4+nummentions0.031567489114658925+numarticles0.032269760696156634+numsources0.023026315789473683+news_keywords+['evacuations:0.4874', 'ukrainian:0.4404', 'ceasefire:0.416', 'refugee:0.3643', 'flee:0.3052', 'blockade:0.2965', 'corridor:0.279', 'frontline:0.2658', 'unprovoked:0.2474', 'poltava:0.2445', 'afp:0.2159', 'capital:0.2101', 'telegram:0.2088', 'continue:0.1953', 'hear:0.1912', 'river:0.191', 'world:0.1876', 'want:0.1796', 'intense:0.17', 'vadym:0.1664', 'frightened:0.1655', 'bucha:0.1585', 'ready:0.1529', 'import:0.1517', 'far:0.1485', 'th:0.1363', 'thousand:0.129', 'tighten:0.1169', 'biden:0.0918', 'today:0.0836']+titles_keywords+['ukrainians:0.3922', 'besieged:0.3118', 'oil:0.305', 'flee:0.3008', 'ban:0.2091']"
+        ],
+        [
+            "20220731+../news_crawling/RUS_UKR/p_articles/dailytimes.com.pk/Ukraine slams Russian call to hang Azov fighters.txt+eventbasecode111+eventcode111+avgtone0.4547511312217196+goldsteinscale0.4+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.006578947368421052+news_keywords+['kyiv:0.4834', 'ukraines:0.4791', 'kremlin:0.4552', 'russian:0.3991', 'azov:0.3735', 'regiment:0.3616', 'war:0.3246', 'terrorist:0.3241', 'assault:0.2845', 'accomplices:0.2767', 'territory:0.2545', 'denounce:0.2468', 'execute:0.2291', 'embassy:0.2238', 'pretext:0.1884', 'telegram:0.174', 'deserve:0.1621', 'andriy:0.1619', 'help:0.1618', 'video:0.1476', 'long:0.1461', 'fact:0.14', 'end:0.1341', 'difference:0.1279', 'purportedly:0.126', 'fierce:0.126', 'plant:0.1116', 'agree:0.1063', 'saturday:0.0976', 'state:0.0951']+titles_keywords+['azov:0.4789', 'ukraine:0.3967', 'fighters:0.2683', 'slams:0.2175', 'hang:0.1736']"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "RUS+RUS+111":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/presstv.ir/Russia Wests flow of arms to Ukraine impedes quick end to war.txt+eventbasecode111+eventcode111+avgtone0.4850374064837905+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['russiaforces:0.4915', 'ukrainewith:0.4872', 'kremlin:0.4501', 'donetsk:0.39', 'nato:0.3791', 'evacuate:0.3503', 'dmitry:0.3491', 'war:0.3294', 'corridor:0.2907', 'blockaded:0.2727', 'humanitarian:0.2638', 'involvement:0.2297', 'azovstal:0.2083', 'industrial:0.2066', 'help:0.2053', 'flow:0.194', 'push:0.1843', 'ally:0.1819', 'function:0.1693', 'end:0.1634', 'quick:0.1613', 'coupled:0.1535', 'flashpoint:0.1369', 'wests:0.135', 'indirect:0.1323', 'declare:0.1307', 'like:0.1164', 'measure:0.0918', 'hundreds:0.0781', 'isincapable:0.076']+titles_keywords+['ukraine:0.4255', 'arms:0.2075', 'end:0.1979', 'impedes:0.1961', 'flow:0.1798']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20211210+../news_crawling/RUS_UKR/p_articles/presstv.ir/Putin says war on ethnic Russians in Ukraines east certainly looks like genocide.txt+eventbasecode111+eventcode111+avgtone0.4602272727272727+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.003289473684210526+news_keywords+['putin:0.4457', 'ukraines:0.4419', 'genocide:0.3532', 'nato:0.3457', 'russophobia:0.3327', 'tensions:0.2691', 'ethnic:0.2506', 'zelensky:0.2457', 'peace:0.2453', 'border:0.2249', 'know:0.2022', 'fight:0.1875', 'contact:0.1834', 'accuse:0.176', 'volodymyr:0.1729', 'pretexts:0.172', 'remark:0.1595', 'reject:0.1586', 'look:0.1562', 'donbass:0.1472', 'delegation:0.1402', 'towardgenocide:0.1343', 'include:0.122', 'swap:0.1197', 'artillery:0.1187', 'grow:0.104', 'step:0.0992', 'amid:0.0921', 'far:0.0724', 'cost:0.0528']+titles_keywords+['genocide:0.4821', 'putin:0.3679', 'ukraines:0.3289', 'says:0.0955', 'certainly:0.0923']"
+        ],
+        [
+            "20220829+../news_crawling/RUS_UKR/p_articles/presstv.ir/Russia World must make Ukraine reduce military tension at Zaporizhzhia nuclear plant.txt+eventbasecode111+eventcode111+avgtone0.47297297297297297+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['chernobyl:0.4857', 'kremlin:0.426', 'nuclear:0.4214', 'kiev:0.3868', 'demilitarize:0.3784', 'russias:0.3451', 'war:0.3165', 'peskov:0.3157', 'zaporizhzhia:0.2993', 'concern:0.2824', 'iaea:0.2742', 'disaster:0.2563', 'operate:0.2371', 'mission:0.197', 'watchdog:0.1958', 'world:0.1937', 'grid:0.1901', 'plant:0.1852', 'press:0.1788', 'north:0.1742', 'current:0.1735', 'upcoming:0.1707', 'entersitsseventh:0.1695', 'kilometer:0.1563', 'stop:0.1477', 'fourth:0.121', 'normal:0.0973', 'despite:0.0942', 'way:0.0678', 'add:0.0511']+titles_keywords+['ukraine:0.4387', 'nuclear:0.4013', 'zaporizhzhia:0.3913', 'tension:0.2132', 'reduce:0.1895']"
+        ]
+    ],
+    "RUS+WST+111":[
+        [
+            "20211102+../news_crawling/RUS_UKR/p_articles/presstv.ir/Russia strikes enemy warships in Black Sea drills.txt+eventbasecode111+eventcode111+avgtone0.47610619469026555+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.5672', 'russiaseparatists:0.4604', 'kremlin:0.4588', 'nato:0.4521', 'enemyships:0.3637', 'missileartillery:0.3351', 'novorossiysk:0.3172', 'troop:0.2846', 'strategic:0.2432', 'politico:0.2328', 'conflict:0.2214', 'erupt:0.2194', 'news:0.2166', 'command:0.2033', 'border:0.1798', 'donbass:0.1741', 'soon:0.174', 'alert:0.1731', 'drill:0.1718', 'rehearse:0.1685', 'president:0.1632', 'increase:0.1624', 'port:0.1604', 'simultaneous:0.1492', 'follow:0.1344', 'eastern:0.1285', 'state:0.1145', 'fake:0.1118', 'whitney:0.1075', 'electronic:0.1022']+titles_keywords+['warships:0.399', 'russia:0.3348', 'drills:0.217', 'strikes:0.1892', 'black:0.1366']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+138":[
+        [
+            "20210702+../news_crawling/RUS_UKR/p_articles/charter97.org/Mayor Of Riga No One Could Imagine That Russia Could Attack Ukraine.txt+eventbasecode138+eventcode138+avgtone0.4841688654353562+goldsteinscale0.15+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.5116', 'riga:0.4339', 'soviet:0.4298', 'nato:0.4101', 'annexation:0.361', 'afraid:0.296', 'mobilization:0.28', 'risk:0.2755', 'regime:0.2702', 'battalion:0.2567', 'scenario:0.2434', 'victim:0.2238', 'act:0.2157', 'fight:0.2123', 'mayor:0.1883', 'draft:0.1735', 'law:0.1715', 'prepared:0.1711', 'people:0.1706', 'read:0.1689', 'join:0.152', 'know:0.1485', 'donbass:0.1383', 'big:0.1158', 'inaccurate:0.1109', 'similar:0.1053', 'word:0.0896', 'mrti:0.0847', 'stais:0.0802', 'away:0.0696']+titles_keywords+['riga:0.4648', 'russia:0.3393', 'mayor:0.2988', 'attack:0.2881', 'imagine:0.2529']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220817+../news_crawling/RUS_UKR/p_articles/charter97.org/Reznikov Ukraine Can Strike Russian Forces In Crimea With Any Weapon From USA.txt+eventbasecode138+eventcode138+avgtone0.4775862068965517+goldsteinscale0.15+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['crimea:0.4845', 'reznikov:0.3745', 'russian:0.286', 'weapon:0.2825', 'territory:0.2668', 'range:0.2657', 'military:0.2456', 'hit:0.2262', 'occupier:0.2005', 'oleksiy:0.1842', 'explain:0.1727', 'point:0.1688', 'target:0.1629', 'seize:0.1595', 'defence:0.1494', 'usa:0.1492', 'plan:0.1392', 'agreement:0.132', 'restrict:0.1217', 'use:0.1082', 'particular:0.1071', 'depend:0.1005', 'forces:0.0989', 'talk:0.0888', 'concerned:0.0831', 'sink:0.0766', 'people:0.0726', 'follow:0.0701', 'temporarily:0.0288', 'today:0.0059']+titles_keywords+['reznikov:0.4924', 'crimea:0.4556', 'weapon:0.3173', 'strike:0.114', 'forces:0.0713']"
+        ]
+    ]
+}

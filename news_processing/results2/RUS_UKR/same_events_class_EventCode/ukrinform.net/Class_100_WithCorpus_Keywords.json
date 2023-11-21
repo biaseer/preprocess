@@ -1,0 +1,55 @@
+{
+    "BLR+UKR+100":[
+        [
+            "20211006+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Interior Minister Monastyrsky meets with G7 ambassadors.txt+eventbasecode100+eventcode100+avgtone0.5027624309392266+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['belarus:0.4128', 'reform:0.3485', 'monastyrsky:0.3127', 'federation:0.3087', 'implement:0.2878', 'work:0.2738', 'minister:0.2585', 'corruption:0.2518', 'report:0.2436', 'officer:0.2388', 'border:0.212', 'increase:0.2107', 'monitoring:0.21', 'environment:0.203', 'involve:0.1951', 'neutralize:0.1819', 'confidence:0.1686', 'combat:0.1658', 'ukrinform:0.16', 'note:0.1562', 'internal:0.1547', 'safe:0.1492', 'digitalization:0.1443', 'public:0.1325', 'team:0.1308', 'area:0.1294', 'say:0.124', 'tool:0.1126', 'right:0.1113', 'add:0.1106']+titles_keywords+['monastyrsky:0.4338', 'ambassadors:0.3496', 'meets:0.196', 'g7:0.1491', 'interior:0.1469']"
+        ]
+    ],
+    "EUR+RUS+100":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/ukrinform.net/G7 ministers EU call on Russia to withdraw troops from Ukraine.txt+eventbasecode100+eventcode100+avgtone0.4687933425797503+goldsteinscale0.25+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.006578947368421052+news_keywords+['ukraine:0.4475', 'nato:0.3992', 'treaty:0.3697', 'sanction:0.301', 'massacre:0.2892', 'disinformation:0.2558', 'humanitarian:0.2443', 'comply:0.2414', 'allegation:0.2297', 'report:0.2278', 'military:0.2174', 'endangers:0.202', 'unacceptable:0.2009', 'unsubstantiated:0.196', 'safe:0.1934', 'read:0.1901', 'coordinate:0.1888', 'order:0.1708', 'withdraw:0.1613', 'end:0.1605', 'say:0.1567', 'bucha:0.1465', 'immediately:0.1444', 'chemical:0.1314', 'additional:0.1279', 'reduce:0.1191', 'right:0.1189', 'direct:0.1121', 'condolence:0.1012', 'deep:0.0594']+titles_keywords+['ukraine:0.3809', 'g7:0.2523', 'troops:0.2355', 'withdraw:0.2124', 'ministers:0.0707']"
+        ]
+    ],
+    "GBR+RUS+100":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Britain to send another 100M worth of weapons to Ukraine Johnson.txt+eventbasecode100+eventcode100+avgtone0.4837662337662338+goldsteinscale0.25+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4947', 'putin:0.4435', 'missile:0.3648', 'artillery:0.3223', 'boris:0.3174', 'invasion:0.3158', 'weapon:0.2961', 'military:0.2721', 'destroy:0.2602', 'tank:0.2552', 'infrastructure:0.2299', 'correspondent:0.2289', 'ukrinform:0.213', 'ballistic:0.2119', 'million:0.1984', 'starstreak:0.1733', 'prime:0.1711', 'announce:0.171', 'use:0.1638', 'munition:0.159', 'capable:0.1513', 'report:0.1351', 'february:0.1308', 'direct:0.1238', 'press:0.1204', 'send:0.1196', 'fly:0.1196', 'minister:0.1093', 'include:0.0916', 'non:0.0794']+titles_keywords+['ukraine:0.3636', 'weapons:0.3282', '100m:0.2679', 'johnson:0.253', 'send:0.2225']"
+        ]
+    ],
+    "RUS+BLR+100":[
+        [
+            "20211009+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Dzheppar West should step up pressure on Russia over actions against Belarus.txt+eventbasecode100+eventcode100+avgtone0.49277978339350176+goldsteinscale0.25+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['belarus:0.5573', 'putin:0.452', 'destabilize:0.2734', 'border:0.2264', 'anschluss:0.2228', 'repression:0.2172', 'develop:0.209', 'transform:0.2016', 'dzheppar:0.1994', 'initiate:0.1983', 'democratic:0.1953', 'european:0.1885', 'victim:0.1766', 'action:0.1766', 'military:0.1695', 'inform:0.1675', 'continue:0.165', 'protect:0.1452', 'long:0.1304', 'integration:0.1237', 'note:0.1188', 'speech:0.1174', 'say:0.1161', 'right:0.1045', 'relation:0.1027', 'arria:0.0972', 'councils:0.0787', 'framework:0.0712', 'upheld:0.0599', 'high:0.0585']+titles_keywords+['belarus:0.4239', 'dzheppar:0.3936', 'pressure:0.2361', 'west:0.2129', 'step:0.1493']"
+        ]
+    ],
+    "RUS+EUR+100":[
+        [
+            "20210615+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Kuleba calls on OSCE to respond to Russias blackmail and neglect.txt+eventbasecode100+eventcode100+avgtone0.46934865900383144+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4474', 'osce:0.4384', 'donetskon:0.3446', 'gukovo:0.3009', 'correspondent:0.2623', 'federation:0.2351', 'troop:0.2307', 'undermine:0.2292', 'checkpoint:0.2281', 'border:0.2258', 'affairs:0.2254', 'observer:0.2106', 'mandate:0.19', 'continue:0.1864', 'neglect:0.1715', 'want:0.1631', 'chairperson:0.163', 'position:0.1612', 'action:0.1515', 'report:0.1478', 'ukrinform:0.1465', 'withdraw:0.1125', 'explain:0.1112', 'independent:0.1063', 'month:0.0958', 'thetreatyonopen:0.085', 'addition:0.0616', 'shorten:0.056', 'completely:0.0469', 'difficult:0.0369']+titles_keywords+['osce:0.4549', 'kuleba:0.4108', 'russias:0.328', 'blackmail:0.3124', 'respond:0.1686']"
+        ]
+    ],
+    "RUS+NLD+100":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Zelensky calls on Dutch parliament to force Russia into peace.txt+eventbasecode100+eventcode100+avgtone0.48738170347003157+goldsteinscale0.25+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4849', 'putin:0.3993', 'hague:0.3571', 'wilders:0.356', 'zelensky:0.328', 'dutch:0.3178', 'invasion:0.3056', 'democracy:0.3025', 'pvv:0.2763', 'geert:0.2433', 'president:0.2351', 'speech:0.2328', 'correspondent:0.2276', 'party:0.2052', 'peace:0.1974', 'soon:0.181', 'clothe:0.1807', 'repel:0.1774', 'sanction:0.166', 'house:0.1588', 'begin:0.1537', 'present:0.1522', 'wopke:0.1476', 'forum:0.1283', 'make:0.1207', 'yellow:0.1174', 'steal:0.1114', 'burn:0.1094', 'far:0.0799', 'thousand:0.0733']+titles_keywords+['zelensky:0.5433', 'russia:0.2864', 'peace:0.2694', 'parliament:0.1989', 'calls:-0.0257']"
+        ]
+    ],
+    "RUS+PSE+100":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Sovereignty as top priority Zelensky ready for any format of talks to end war.txt+eventbasecode100+eventcode100+avgtone0.4935622317596567+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4795', 'kremlin:0.3874', 'erdogan:0.3627', 'agreements:0.3362', 'sovereignty:0.3009', 'zelensky:0.293', 'leaders:0.2746', 'talk:0.2743', 'war:0.2708', 'president:0.2617', 'participant:0.2548', 'priority:0.2386', 'format:0.2313', 'ukrinform:0.2229', 'emphasize:0.2044', 'summit:0.1854', 'report:0.1845', 'platform:0.1844', 'note:0.1634', 'ready:0.1593', 'assistance:0.1591', 'main:0.1536', 'head:0.1434', 'end:0.1431', 'direct:0.137', 'hour:0.122', 'bilaterally:0.1036', 'tuesday:0.075', 'unalterable:0.0727', 'quasi:0.0717']+titles_keywords+['zelensky:0.4364', 'sovereignty:0.4107', 'talks:0.2957', 'priority:0.2777', 'ready:0.1199']"
+        ]
+    ],
+    "RUS+UKR+100":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Situation in Chornobyl very dangerous for both Europe and Russia Podoliak.txt+eventbasecode100+eventcode100+avgtone0.4744525547445255+goldsteinscale0.25+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.006578947368421052+news_keywords+['ukraine:0.4786', 'nuclear:0.4154', 'putin:0.3914', 'war:0.3445', 'chornobyl:0.3015', 'dangerous:0.2641', 'disrupt:0.2623', 'ideological:0.2519', 'podoliak:0.2393', 'supply:0.2359', 'ukrinform:0.2307', 'problem:0.2157', 'occupier:0.2148', 'report:0.1974', 'iaea:0.197', 'happen:0.1928', 'understand:0.1871', 'adviser:0.1847', 'begin:0.1714', 'plant:0.1674', 'use:0.1525', 'oust:0.1363', 'data:0.1359', 'npp:0.1342', 'residential:0.1176', 'framework:0.1093', 'scale:0.1014', 'long:0.1', 'head:0.0932', 'restore:0.0805']+titles_keywords+['chornobyl:0.4393', 'podoliak:0.4289', 'russia:0.4023', 'dangerous:0.3764', 'situation:0.2026']"
+        ],
+        [
+            "20220625+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukrainian intelligence responds to Russias threats to attack US embassy in Kyiv.txt+eventbasecode100+eventcode100+avgtone0.49290780141843965+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['kyiv:0.5169', 'russian:0.3734', 'russias:0.3719', 'embassy:0.3421', 'threat:0.2974', 'directorate:0.2883', 'retaliation:0.24', 'shvytkin:0.2385', 'report:0.2133', 'destroy:0.206', 'telegram:0.1973', 'ukrinform:0.1925', 'yury:0.1853', 'duma:0.1779', 'supply:0.1769', 'direct:0.1593', 'intelligence:0.1548', 'rocket:0.1477', 'responds:0.1304', 'june:0.1189', 'main:0.1183', 'mp:0.0936', 'himars:0.0896', 'state:0.0895', 'late:0.0875', 'say:0.0865', 'add:0.0642', 'particular:0.0563', 'civilize:0.052', 'view:0.048']+titles_keywords+['kyiv:0.4759', 'russias:0.2995', 'embassy:0.2876', 'threats:0.2282', 'responds:0.1315']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20211116+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukraine sends note of protest to Russia over Putins decree on goods from CADLR.txt+eventbasecode100+eventcode100+avgtone0.49080882352941174+goldsteinscale0.25+nummentions0.009433962264150943+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4871', 'putin:0.4257', 'decree:0.3455', 'diplomatic:0.3301', 'protest:0.2998', 'occupy:0.2806', 'designation:0.2627', 'federation:0.2515', 'document:0.246', 'border:0.2387', 'electoral:0.2343', 'agreement:0.2245', 'regulation:0.2189', 'checkpoint:0.2177', 'contradicts:0.2049', 'renounce:0.1988', 'state:0.1929', 'unilateral:0.1902', 'sign:0.1791', 'point:0.1761', 'continue:0.1752', 'consolidate:0.1709', 'equate:0.1702', 'report:0.1683', 'interference:0.1631', 'issue:0.162', 'emphasize:0.1601', 'november:0.092', 'reach:0.0802', 'enshrine:0.0622']+titles_keywords+['ukraine:0.4547', 'protest:0.3474', 'cadlr:0.207', 'goods:0.1631', 'note:0.1295']"
+        ]
+    ],
+    "UKR+WST+100":[
+        [
+            "20211118+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Kuleba calls on NATO allies to assess Ukraine not through Russias prism.txt+eventbasecode100+eventcode100+avgtone0.5078534031413613+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.5187', 'nato:0.4965', 'russias:0.3656', 'allies:0.2951', 'kuleba:0.2396', 'reform:0.2196', 'euro:0.204', 'cnn:0.1626', 'stability:0.1589', 'benefit:0.1556', 'assess:0.1496', 'look:0.1483', 'approach:0.1423', 'partner:0.1418', 'success:0.1404', 'emphasize:0.1396', 'meet:0.1368', 'document:0.1264', 'continue:0.123', 'biden:0.1195', 'atlantic:0.1161', 'recent:0.1057', 'ensure:0.0872', 'deter:0.0871', 'macro:0.0858', 'accord:0.0843', 'include:0.0709', 'close:0.0641', 'add:0.0597', 'reported:0.0561']+titles_keywords+['nato:0.4768', 'ukraine:0.4004', 'kuleba:0.3632', 'assess:0.1878', 'calls:0.0494']"
+        ]
+    ]
+}

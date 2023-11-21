@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/kyodonews.net/Tsai pledges to defend Taiwans democracy amid Ukraine crisis.txt+eventbasecode190+eventcode190+avgtone0.47887323943661975+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['taiwan:0.4836', 'nationalist:0.4431', 'ukraine:0.3779', 'massacre:0.3465', 'democracy:0.3379', 'tsai:0.3325', 'ching:0.3256', 'occur:0.256', 'th:0.2512', 'crisis:0.2511', 'kuo:0.2436', 'unify:0.2338', 'remind:0.2292', 'anniversary:0.2142', 'president:0.2139', 'military:0.2069', 'concerns:0.1886', 'assertiveness:0.1872', 'fight:0.1831', 'jinping:0.1589', 'know:0.1583', 'day:0.1512', 'order:0.1471', 'dub:0.1422', 'powerful:0.1397', 'teach:0.1388', 'shek:0.1364', 'feb:0.1215', 'emulate:0.1093', 'implication:0.0988']+titles_keywords+['tsai:0.5195', 'taiwans:0.4311', 'democracy:0.316', 'ukraine:0.2961', 'defend:0.2143']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/kyodonews.net/55 of Japan firms based overseas impacted by Ukraine crisis poll.txt+eventbasecode190+eventcode190+avgtone0.4898843930635838+goldsteinscale0.0+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.505', 'economic:0.287', 'japanese:0.2744', 'oil:0.2472', 'inventory:0.2409', 'company:0.2306', 'invasion:0.2202', 'cite:0.2147', 'wholesaler:0.2084', 'sector:0.199', 'impacted:0.1957', 'countermeasure:0.1879', 'western:0.1859', 'operation:0.1837', 'sanction:0.1724', 'issue:0.167', 'packaging:0.1621', 'trade:0.1495', 'secure:0.1432', 'respond:0.128', 'month:0.1274', 'cost:0.1264', 'material:0.1174', 'raise:0.1056', 'mid:0.1032', 'foresee:0.09', 'specific:0.0766', 'percent:0.0753', 'say:0.0625', 'raw:0.0593']+titles_keywords+['ukraine:0.4124', 'firms:0.2857', 'impacted:0.2073', 'crisis:0.1606', '55:0.0733']"
+        ]
+    ]
+}

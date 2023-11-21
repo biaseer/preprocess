@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+873":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/indiatimes.com/WHO UKRAINE.txt+eventbasecode87+eventcode873+avgtone0.4915254237288136+goldsteinscale0.95+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5405', 'putin:0.4475', 'warfare:0.3659', 'occupy:0.2537', 'unprovoked:0.242', 'paragraphs:0.231', 'sanction:0.2147', 'output:0.2007', 'meeting:0.1989', 'advisor:0.1988', 'prepare:0.1927', 'general:0.1923', 'long:0.1921', 'investigate:0.1891', 'instead:0.1852', 'current:0.183', 'recent:0.1714', 'extent:0.1713', 'month:0.1629', 'hold:0.1526', 'end:0.1525', 'plunge:0.1512', 'vote:0.1496', 'footnote:0.1442', 'nearly:0.1395', 'left:0.1334', 'track:0.1215', 'shkarlet:0.1194', 'donbas:0.117', 'agree:0.1032']+titles_keywords+['ukraine:0.7793']"
+        ]
+    ],
+    "UKR+RUS+873":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Ukraine says Russian troops reduced pace of offensive.txt+eventbasecode87+eventcode873+avgtone0.48684210526315785+goldsteinscale0.95+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.389', 'ukrainian:0.3792', 'moscow:0.3665', 'russian:0.3472', 'troop:0.2732', 'pace:0.2219', 'military:0.2154', 'assault:0.2066', 'reduce:0.2021', 'slow:0.1789', 'offensive:0.1588', 'develop:0.1508', 'force:0.1497', 'monday:0.1419', 'fifth:0.1297', 'general:0.129', 'occupier:0.1282', 'success:0.12', 'arm:0.1145', 'say:0.1073', 'staff:0.101', 'try:0.0998', 'day:0.0981', 'area:0.0876']+titles_keywords+['ukraine:0.37', 'troops:0.2686', 'reduced:0.1943', 'pace:0.1695', 'says:0.0646']"
+        ]
+    ]
+}

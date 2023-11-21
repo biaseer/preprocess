@@ -1,0 +1,12 @@
+{
+    "POL+RUS+100":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/teletrader.com/Russia summons envoys from Baltic states report.txt+eventbasecode100+eventcode100+avgtone0.49484536082474223+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['baltic:0.3914', 'moscow:0.3738', 'estonia:0.3734', 'lithuania:0.3504', 'envoys:0.3236', 'ukraine:0.3193', 'russian:0.3098', 'diplomat:0.3071', 'summons:0.2477', 'expel:0.2182', 'leave:0.1176', 'order:0.1003', 'report:0.0972', 'state:0.0934', 'reciprocate:0.0748', 'vow:0.0697', 'tuesday:0.0606', 'conflict:0.0544', 'familiar:0.0488', 'ministry:0.0477', 'decision:0.0377', 'say:0.0215', 'follow:0.0146', 'source:0.0127', 'connection:0.0108', 'tass:-0.0005', 'reportedly:-0.0012', 'principle:-0.0093', 'base:-0.0273', 'total:-0.0471']+titles_keywords+['baltic:0.4611', 'russia:0.3785', 'envoys:0.376', 'summons:0.2752', 'report:0.2326']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20210901+../news_crawling/RUS_UKR/p_articles/teletrader.com/US vows to hold Russia liable for aggression.txt+eventbasecode100+eventcode100+avgtone0.44811320754717004+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4681', 'ceasefire:0.4131', 'moscow:0.3976', 'threaten:0.3366', 'president:0.3101', 'zelensky:0.3026', 'biden:0.2924', 'accuse:0.292', 'engage:0.2741', 'destabilize:0.2597', 'accountable:0.2585', 'conflict:0.2246', 'volodymyr:0.2168', 'statement:0.211', 'vow:0.2085', 'meet:0.1794', 'publish:0.1745', 'eastern:0.1652', 'recommit:0.1546', 'read:0.1528', 'end:0.1474', 'casualty:0.1387', 'hold:0.1348', 'work:0.1324', 'order:0.1323', 'wednesday:0.1277', 'united:0.0968', 'house:0.0967', 'resolution:0.0966', 'cause:0.0724']+titles_keywords+['liable:0.3228', 'russia:0.3174', 'aggression:0.2298', 'vows:0.2031', 'hold:0.1']"
+        ]
+    ]
+}

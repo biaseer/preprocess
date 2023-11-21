@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220605+../news_crawling/RUS_UKR/p_articles/europesun.com/RussiaUkraine war Rocket strikes on Kyiv continue 1 injured in recent attack.txt+eventbasecode194+eventcode194+avgtone0.44982078853046603+goldsteinscale0.0+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.02631578947368421+news_keywords+['kyiv:0.557', 'russiaukraine:0.4653', 'ukrainians:0.4474', 'war:0.345', 'refugee:0.3185', 'propaganda:0.3034', 'dniprovskyi:0.2588', 'leshchenko:0.25', 'railways:0.2423', 'crisis:0.2201', 'report:0.1986', 'xinhua:0.1938', 'flee:0.1888', 'cite:0.1856', 'respond:0.1836', 'rocket:0.1822', 'river:0.1801', 'nation:0.1687', 'hit:0.1583', 'continue:0.1531', 'lack:0.1367', 'assistance:0.1322', 'displace:0.1268', 'secretary:0.1154', 'incessant:0.1117', 'million:0.0987', 'state:0.0872', 'february:0.0764', 'terribly:0.0757', 'ani:0.0448']+titles_keywords+['kyiv:0.5067', 'war:0.2303', 'rocket:0.2224', 'strikes:0.1821', 'continue:0.0544']"
+        ],
+        [
+            "20220628+../news_crawling/RUS_UKR/p_articles/europesun.com/Russian missile strike death toll rises to 18 rescue operation continues.txt+eventbasecode194+eventcode194+avgtone0.4600694444444444+goldsteinscale0.0+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['ukraine:0.4538', 'kursk:0.3763', 'war:0.3463', 'missile:0.3222', 'military:0.3172', 'strike:0.3083', 'zelensky:0.2761', 'escalation:0.2533', 'invade:0.229', 'poltava:0.2191', 'volodymyr:0.2084', 'industrial:0.2068', 'sudden:0.1953', 'people:0.1834', 'cnn:0.1778', 'president:0.1606', 'ongoing:0.144', 'help:0.1395', 'million:0.1292', 'displace:0.1205', 'nearly:0.12', 'february:0.1136', 'night:0.1126', 'building:0.1074', 'quote:0.1028', 'toll:0.1023', 'care:0.0938', 'kh:0.0822', 'official:0.0791', 'small:0.0785']+titles_keywords+['russian:0.2784', 'rescue:0.2683', 'missile:0.2167', '18:0.1366', 'strike:0.109']"
+        ]
+    ],
+    "UKR+RUS+194":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/europesun.com/US to Send Advanced Rocket Systems to Ukraine.txt+eventbasecode194+eventcode194+avgtone0.47790404040404044+goldsteinscale0.0+nummentions0.2674165457184325+numarticles0.26794778825235677+numsources0.34868421052631576+news_keywords+['ukraine:0.4873', 'war:0.3639', 'negotiation:0.3035', 'evacuate:0.2899', 'bomb:0.2772', 'pipeline:0.2512', 'unprovoked:0.2317', 'advance:0.2315', 'troop:0.2311', 'sanction:0.2282', 'sievierodonetsk:0.2203', 'order:0.2196', 'expect:0.2167', 'street:0.2047', 'reconstruction:0.1918', 'ambassador:0.1904', 'cite:0.189', 'biden:0.1878', 'write:0.1847', 'kilometer:0.1811', 'essentially:0.1784', 'import:0.1778', 'end:0.1776', 'help:0.1751', 'long:0.1678', 'widen:0.1616', 'wednesday:0.1591', 'combined:0.1434', 'times:0.1334', 'sending:0.0977']+titles_keywords+['ukraine:0.377', 'rocket:0.3327', 'send:0.2332', 'systems:0.193', 'advanced:0.177']"
+        ]
+    ]
+}

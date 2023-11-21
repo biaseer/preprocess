@@ -1,0 +1,17 @@
+{
+    "CAN+RUS+180":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/infotel.ca/Punish Russia for sex crimes against Ukrainian women and children Ukraine ambassador.txt+eventbasecode180+eventcode180+avgtone0.48409893992932856+goldsteinscale0.05+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['ukraine:0.46', 'putin:0.4487', 'trudeau:0.3278', 'disinformation:0.3071', 'parliament:0.2663', 'nazi:0.2653', 'history:0.2593', 'zelenskyy:0.2582', 'windsor:0.255', 'punish:0.253', 'investigate:0.2465', 'deport:0.2433', 'attack:0.2415', 'diplomat:0.2389', 'horrific:0.2306', 'forget:0.2121', 'portray:0.2087', 'annexed:0.2002', 'fact:0.1982', 'tariff:0.1914', 'continue:0.1905', 'vote:0.1817', 'speaking:0.1802', 'document:0.1775', 'shameless:0.1725', 'corridor:0.137', 'reach:0.1314', 'peddle:0.0854', 'week:0.0629', 'coming:0.0556']+titles_keywords+['ukraine:0.4696', 'punish:0.3351', 'crimes:0.2804', 'ambassador:0.2246', 'children:0.2233']"
+        ]
+    ],
+    "RUS+UKR+180":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/infotel.ca/Cyberattack in Ukraine targets government websites.txt+eventbasecode180+eventcode180+avgtone0.4700460829493088+goldsteinscale0.05+nummentions0.2155297532656023+numarticles0.21609862218999276+numsources0.3026315789473684+news_keywords+['cyberattacks:0.6096', 'ukraine:0.4477', 'nato:0.42', 'kremlin:0.4049', 'virus:0.3295', 'ransom:0.3251', 'government:0.3088', 'destabilize:0.2926', 'enemy:0.2724', 'cryptocurrency:0.2722', 'coveware:0.2701', 'know:0.2528', 'future:0.2498', 'sector:0.2471', 'concerned:0.2395', 'crackdown:0.2238', 'report:0.2234', 'data:0.2104', 'ceo:0.2078', 'progress:0.1951', 'agreement:0.1945', 'expect:0.1757', 'use:0.1743', 'pipeline:0.1616', 'notpetya:0.1547', 'central:0.148', 'issp:0.1404', 'month:0.1347', 'implication:0.1309', 'garland:0.1293']+titles_keywords+['cyberattack:0.5158', 'ukraine:0.3902', 'government:0.3049', 'websites:0.2739', 'targets:0.2237']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220806+../news_crawling/RUS_UKR/p_articles/infotel.ca/Ukrainian unit digs in for Russian assault on eastern city.txt+eventbasecode180+eventcode180+avgtone0.48509687034277194+goldsteinscale0.05+nummentions0.023947750362844702+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['donetsk:0.5021', 'ukrainian:0.4364', 'russias:0.3462', 'sloviansk:0.332', 'regiment:0.309', 'invasion:0.2888', 'tank:0.2598', 'separatist:0.2583', 'occur:0.2506', 'strategic:0.2474', 'prepare:0.2293', 'region:0.2241', 'mortar:0.2096', 'yurii:0.2092', 'donbas:0.2035', 'supply:0.2001', 'help:0.1916', 'fought:0.1767', 'safe:0.1681', 'long:0.1669', 'weather:0.1643', 'transfer:0.1639', 'lull:0.1532', 'neighbor:0.1532', 'june:0.1436', 'furthermore:0.1405', 'cmdr:0.1376', 'th:0.1326', 'like:0.1205', 'associated:0.1157']+titles_keywords+['ukrainian:0.394', 'assault:0.2714', 'city:0.1761', 'digs:0.1459', 'eastern:0.1444']"
+        ]
+    ]
+}

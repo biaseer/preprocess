@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+332":[
+        [
+            "20220125+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Ukrainian Troops Trained by UK to Use New AntiTank Weapons Defense Ministry Says.txt+eventbasecode33+eventcode332+avgtone0.5+goldsteinscale0.76+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.009868421052631578+news_keywords+['antitank:0.4216', 'ukraine:0.4056', 'troops:0.4005', 'weaponry:0.3914', 'training:0.3305', 'orbital:0.3189', 'operation:0.3001', 'lieutenant:0.2878', 'arm:0.2446', 'personnel:0.226', 'launch:0.2133', 'tkachuk:0.21', 'support:0.1742', 'accompany:0.1739', 'government:0.1733', 'deliver:0.1674', 'soon:0.1659', 'force:0.1608', 'use:0.1511', 'new:0.1458', 'pavlo:0.1229', 'defense:0.1033', 'read:0.1029', 'able:0.1029', 'far:0.0987', 'million:0.0794', 'according:0.0753', 'non:0.0713', 'thank:0.0682', 'nlaws:0.0671']+titles_keywords+['ukrainian:0.4091', 'antitank:0.3884', 'troops:0.3273', 'weapons:0.3101', 'trained:0.2421']"
+        ]
+    ],
+    "UKR+RUS+332":[
+        [
+            "20220725+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Supplying Weapons to Kiev EU Invests in Further Hostilities Russian Foreign Ministry.txt+eventbasecode33+eventcode332+avgtone0.47357723577235766+goldsteinscale0.76+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5149', 'europol:0.3913', 'hostilities:0.3859', 'nationalist:0.3116', 'corruption:0.3008', 'battalion:0.288', 'supplying:0.2879', 'border:0.2629', 'regime:0.2551', 'weapon:0.25', 'zakharova:0.2225', 'kill:0.2211', 'law:0.2166', 'coincidence:0.2086', 'smuggle:0.2028', 'invests:0.2006', 'settlement:0.1977', 'conclude:0.164', 'turn:0.157', 'note:0.1552', 'organize:0.1542', 'hub:0.129', 'correct:0.1059', 'internal:0.1043', 'existence:0.0902', 'little:0.0869', 'total:0.086', 'july:0.0805', 'bear:0.0752', 'prevent:0.0736']+titles_keywords+['kiev:0.5058', 'hostilities:0.4052', 'weapons:0.2864', 'supplying:0.2775', 'invests:0.2746']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+40":[
+        [
+            "20220815+../news_crawling/RUS_UKR/p_articles/foxbusiness.com/Wall Street returns to Russian bond trading months after Moscow sanctions.txt+eventbasecode40+eventcode40+avgtone0.4796747967479674+goldsteinscale0.55+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['russia:0.4404', 'treasury:0.4115', 'rouble:0.3758', 'reuters:0.3334', 'government:0.2848', 'stock:0.2704', 'sanction:0.2639', 'bond:0.2569', 'security:0.2491', 'debt:0.2374', 'goldman:0.2342', 'war:0.2231', 'undermine:0.2194', 'wall:0.1986', 'regulator:0.1973', 'trade:0.187', 'chase:0.1783', 'position:0.1747', 'month:0.1712', 'pull:0.1666', 'document:0.1457', 'explain:0.1444', 'prior:0.1378', 'toxic:0.1338', 'case:0.119', 'return:0.1184', 'start:0.1066', 'scale:0.0792', 'outstanding:0.066', 'denominate:0.0418']+titles_keywords+['moscow:0.3757', 'sanctions:0.3689', 'bond:0.2868', 'returns:0.2231', 'months:0.1164']"
+        ]
+    ],
+    "EUR+UKR+40":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/foxbusiness.com/Ukraine definitely invites President Biden to visit Former President Poroshenko.txt+eventbasecode40+eventcode40+avgtone0.49275362318840576+goldsteinscale0.55+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.03289473684210526+news_keywords+['putin:0.4899', 'ukraines:0.4572', 'poroshenko:0.4293', 'kyiv:0.3888', 'nato:0.3878', 'biden:0.345', 'petro:0.2687', 'war:0.2196', 'blackmail:0.2109', 'meeting:0.2065', 'european:0.2026', 'humanitarian:0.1973', 'travel:0.1865', 'assure:0.1695', 'approve:0.1565', 'bidens:0.1514', 'include:0.1359', 'note:0.133', 'supply:0.1271', 'demonstrate:0.1258', 'thursday:0.1197', 'continue:0.1166', 'say:0.1163', 'sic:0.114', 'images:0.1111', 'irpin:0.1047', 'invite:0.0806', 'corn:0.0496', 'way:0.0409', 'torn:0.0354']+titles_keywords+['poroshenko:0.4648', 'biden:0.4269', 'visit:0.2041', 'invites:0.1447', 'definitely:0.0793']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/castanet.net/Ukrainian rebels to evacuate civilians as Russia flexes muscles.txt+eventbasecode130+eventcode130+avgtone0.46491969568892644+goldsteinscale0.27999999999999997+nummentions0.45754716981132076+numarticles0.4579405366207397+numsources0.4473684210526316+news_keywords+['ukraine:0.5015', 'kremlin:0.4302', 'nato:0.4054', 'evacuate:0.3616', 'diplomatic:0.3493', 'war:0.3372', 'escalation:0.3143', 'disrupt:0.3038', 'pentagon:0.2982', 'organize:0.2848', 'news:0.2781', 'separatist:0.2767', 'president:0.2439', 'prepared:0.2339', 'reminder:0.2308', 'report:0.2223', 'continue:0.22', 'conjunction:0.2095', 'casualty:0.2051', 'equivalent:0.2046', 'pull:0.2042', 'industrial:0.2021', 'weekend:0.1888', 'long:0.1847', 'simmer:0.1844', 'donbas:0.1752', 'unchr:0.1713', 'say:0.1595', 'surround:0.1569', 'head:0.1378']+titles_keywords+['ukrainian:0.4246', 'evacuate:0.4115', 'civilians:0.3394', 'rebels:0.3218', 'muscles:0.1288']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/castanet.net/NATO chief hails historic moment as Finland Sweden apply.txt+eventbasecode130+eventcode130+avgtone0.5018656716417911+goldsteinscale0.27999999999999997+nummentions0.07365747460087083+numarticles0.07432922407541696+numsources0.13815789473684212+news_keywords+['natos:0.4934', 'helsinki:0.3087', 'kremlin:0.263', 'geopolitical:0.2529', 'join:0.2485', 'invade:0.2453', 'ratification:0.2352', 'threat:0.2012', 'formalize:0.1957', 'enlargement:0.1943', 'submit:0.1781', 'alongside:0.1694', 'allow:0.1644', 'ambassadorial:0.1614', 'long:0.1584', 'canada:0.155', 'closely:0.1519', 'step:0.1457', 'pkk:0.1449', 'hail:0.1449', 'erdogan:0.1391', 'news:0.1351', 'state:0.1341', 'wednesday:0.1292', 'example:0.1205', 'continue:0.1186', 'stoltenberg:0.1065', 'welcome:0.0699', 'tt:0.0696', 'agree:0.0372']+titles_keywords+['nato:0.466', 'finland:0.408', 'hails:0.2561', 'moment:0.2411', 'chief:0.1722']"
+        ],
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/castanet.net/Recordhigh fuel prices crippling BC trucking industry.txt+eventbasecode130+eventcode130+avgtone0.4809045226130654+goldsteinscale0.27999999999999997+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['truckers:0.439', 'highway:0.3683', 'bc:0.35', 'diesel:0.3427', 'supply:0.3128', 'wage:0.2849', 'predicament:0.2785', 'change:0.2753', 'company:0.2729', 'canfor:0.2714', 'wildfire:0.271', 'tire:0.2616', 'surcharge:0.2594', 'haul:0.2521', 'municipal:0.2364', 'reduce:0.234', 'understand:0.2272', 'predict:0.2198', 'afford:0.2198', 'war:0.2149', 'happen:0.2064', 'offset:0.1869', 'greater:0.1778', 'dont:0.1762', 'line:0.174', 'month:0.1616', 'unlike:0.1537', 'circumvent:0.148', 'everybodys:0.107', 'reopen:0.104']+titles_keywords+['bc:0.3901', 'trucking:0.3738', 'fuel:0.28', 'prices:0.2156', 'recordhigh:0.076']"
+        ]
+    ]
+}

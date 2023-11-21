@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/thediplomat.com/Of ASEAN China Russia and Hypersonic Weapons.txt+eventbasecode190+eventcode190+avgtone0.495850622406639+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['asean:0.5207', 'natos:0.5081', 'russia:0.4041', 'weapons:0.3419', 'diplomat:0.2791', 'hypersonic:0.2634', 'balkan:0.2627', 'navy:0.2579', 'government:0.2189', 'develop:0.2071', 'destroyer:0.2046', 'publication:0.2041', 'bloc:0.1884', 'kyi:0.1811', 'analysis:0.1778', 'information:0.1716', 'capability:0.1708', 'specialty:0.1576', 'schuster:0.1427', 'increasingly:0.1425', 'suu:0.1425', 'skeptical:0.1328', 'speak:0.1225', 'trading:0.1201', 'follow:0.0996', 'include:0.086', 'story:0.0832', 'year:0.0734', 'similar:0.0725', 'center:0.0506']+titles_keywords+['asean:0.542', 'russia:0.4124', 'hypersonic:0.4118', 'weapons:0.4006', 'china:0.3897']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/thediplomat.com/How the RussiaUkraine War Is Reshaping Defense Trade.txt+eventbasecode190+eventcode190+avgtone0.4950124688279302+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4493', 'warfare:0.3699', 'conflicts:0.3198', 'suppliers:0.2921', 'diversification:0.2819', 'ucav:0.2421', 'aerospace:0.2412', 'concern:0.2386', 'tank:0.2333', 'buy:0.2317', 'anka:0.2116', 'advantageous:0.2017', 'priority:0.1886', 'change:0.18', 'general:0.1696', 'compared:0.1634', 'nontraditional:0.1608', 'interoperability:0.1502', 'anticipate:0.1387', 'function:0.1366', 'prospect:0.1359', 'arjun:0.123', 'addition:0.1217', 'story:0.1112', 'saab:0.1102', 'long:0.1051', 'segment:0.0995', 'low:0.091', 'werent:0.066', 'ready:0.056']+titles_keywords+['war:0.4202', 'russiaukraine:0.3697', 'defense:0.2946', 'trade:0.2376', 'reshaping:0.1074']"
+        ]
+    ]
+}

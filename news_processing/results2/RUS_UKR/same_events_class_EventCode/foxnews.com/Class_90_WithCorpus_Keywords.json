@@ -1,0 +1,17 @@
+{
+    "EUR+UKR+90":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/foxnews.com/Ukraines Zelenskyy visits Bucha massacre site War crimes must be recognized by the world as.txt+eventbasecode90+eventcode90+avgtone0.46317606444188725+goldsteinscale0.4+nummentions0.5264876632801161+numarticles0.5250181290790428+numsources0.46710526315789475+news_keywords+['kyiv:0.5122', 'putin:0.4861', 'genocide:0.3848', 'victim:0.3125', 'zelenksyy:0.2905', 'crime:0.2856', 'report:0.2665', 'news:0.2553', 'buchas:0.2537', 'troop:0.2484', 'territory:0.2476', 'know:0.2361', 'allegation:0.2349', 'ambassador:0.2147', 'translation:0.2138', 'rifle:0.2117', 'unfolding:0.2114', 'summary:0.2017', 'fakery:0.1829', 'backfire:0.1683', 'strangle:0.1676', 'categorize:0.1637', 'examines:0.1591', 'bury:0.1549', 'march:0.1541', 'th:0.153', 'emotional:0.1337', 'long:0.129', 'greenfield:0.1283', 'maternity:0.1061']+titles_keywords+['zelenskyy:0.4546', 'genocide:0.4482', 'ukraines:0.317', 'bucha:0.2466', 'visits:0.1629']"
+        ]
+    ],
+    "RUS+RUS+90":[
+        [
+            "20220821+../news_crawling/RUS_UKR/p_articles/foxnews.com/Daughter of top Putin ally Alexander Dugin who pushed for Ukraine invasion killed by car.txt+eventbasecode90+eventcode90+avgtone0.47312859884836855+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['putin:0.5586', 'tsargrad:0.4756', 'ukraine:0.4626', 'zelenskyy:0.3757', 'eurasianist:0.359', 'terrorist:0.3337', 'news:0.2703', 'invasion:0.2668', 'investigative:0.2645', 'kill:0.2619', 'strategist:0.2583', 'provocation:0.2483', 'nuclear:0.2424', 'concern:0.2325', 'daria:0.229', 'know:0.2182', 'dugin:0.2066', 'situate:0.1998', 'powerful:0.1896', 'continue:0.1888', 'th:0.1875', 'devalue:0.1739', 'deliver:0.1714', 'plant:0.1703', 'contributorgetty:0.169', 'speak:0.161', 'people:0.1542', 'way:0.1301', 'feb:0.1257', 'neville:0.1158']+titles_keywords+['putin:0.4206', 'dugin:0.2998', 'bomb:0.2928', 'killed:0.2716', 'daughter:0.2091']"
+        ]
+    ],
+    "USA+RUS+90":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/foxnews.com/US commander admits Bidens deterrence strategy failed in Ukraine.txt+eventbasecode90+eventcode90+avgtone0.466+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.013157894736842105+news_keywords+['sanctions:0.5219', 'nato:0.4592', 'putin:0.4585', 'deterrence:0.4483', 'ukraine:0.3935', 'invade:0.3383', 'threat:0.3094', 'vladimir:0.2873', 'diplomatic:0.2852', 'intend:0.2555', 'biden:0.2515', 'severity:0.2296', 'response:0.1967', 'psaki:0.1915', 'history:0.175', 'continue:0.1634', 'term:0.1564', 'cnn:0.1542', 'thursday:0.1493', 'admission:0.1463', 'state:0.1439', 'fact:0.1427', 'say:0.1268', 'press:0.1266', 'straight:0.1255', 'non:0.1198', 'wolters:0.1069', 'covered:0.0914', 'agree:0.09', 'major:0.0896']+titles_keywords+['strategy:0.3447', 'bidens:0.2965', 'failed:0.287', 'commander:0.2338', 'ukraine:0.2171']"
+        ]
+    ]
+}

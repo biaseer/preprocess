@@ -1,0 +1,15 @@
+{
+    "RUS+RUS+10":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/boston.com/Zelensky says Russian troops are confused children who dont know why they are in Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4760765550239235+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukrainian:0.4719', 'zelensky:0.4656', 'kremlin:0.4324', 'vladimir:0.4208', 'invade:0.3563', 'russias:0.3496', 'war:0.32', 'enemys:0.2839', 'volodymyr:0.2547', 'territorial:0.2244', 'civilian:0.2169', 'know:0.2085', 'president:0.195', 'oppose:0.1906', 'confused:0.1862', 'fled:0.1685', 'echo:0.1414', 'willingness:0.1251', 'speech:0.1237', 'capital:0.1236', 'page:0.1123', 'control:0.11', 'make:0.1048', 'superpower:0.1033', 'directionless:0.1013', 'verify:0.0993', 'million:0.099', 'thursday:0.0956', 'video:0.0817', 'receive:0.0575']+titles_keywords+['zelensky:0.4989', 'troops:0.3544', 'ukraine:0.3392', 'confused:0.2641', 'says:0.1107']"
+        ],
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/boston.com/Why the world is so worried about Russias tactical nuclear weapons.txt+eventbasecode10+eventcode10+avgtone0.4730392156862745+goldsteinscale0.5+nummentions0.009071117561683599+numarticles0.009789702683103698+numsources0.013157894736842105+news_keywords+['nuclear:0.452', 'kremlin:0.4455', 'nato:0.3931', 'russias:0.358', 'dmitry:0.3253', 'threat:0.3026', 'strategy:0.2661', 'worry:0.239', 'doomsday:0.2219', 'weapon:0.218', 'stockpile:0.2149', 'deploy:0.2021', 'rhetoric:0.197', 'escalate:0.1826', 'president:0.1819', 'misinterpretation:0.1799', 'existential:0.1732', 'unilaterally:0.1715', 'research:0.147', 'world:0.143', 'nonproliferation:0.1357', 'stir:0.1301', 'invest:0.1227', 'fact:0.1059', 'new:0.1055', 'refocus:0.0882', 'state:0.0717', 'long:0.0711', 'limit:0.0653', 'include:0.0457']+titles_keywords+['russias:0.4115', 'nuclear:0.3962', 'worried:0.3204', 'weapons:0.2547', 'world:0.1652']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/boston.com/Biden Russia war a genocide trying to wipe out Ukraine.txt+eventbasecode10+eventcode10+avgtone0.47279411764705875+goldsteinscale0.5+nummentions0.3454281567489115+numarticles0.34590282813633066+numsources0.3782894736842105+news_keywords+['genocide:0.5023', 'putin:0.4779', 'treaty:0.3792', 'ukrainian:0.3505', 'rhetoric:0.3468', 'biden:0.3337', 'regime:0.332', 'escalation:0.3038', 'term:0.2795', 'constitute:0.2649', 'accuse:0.2637', 'decide:0.2183', 'word:0.2062', 'power:0.2051', 'block:0.198', 'learn:0.1933', 'wipe:0.1785', 'fact:0.169', 'articulate:0.1684', 'bloody:0.1637', 'want:0.1549', 'tweet:0.1495', 'look:0.1426', 'sure:0.1264', 'tuesday:0.1241', 'direct:0.1175', 'far:0.1069', 'ap:0.1048', 'seemingly:0.0961', 'wasnt:0.0743']+titles_keywords+['biden:0.5002', 'genocide:0.4654', 'ukraine:0.4317', 'war:0.3981', 'trying:0.1738']"
+        ]
+    ]
+}

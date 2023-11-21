@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+111":[
+        [
+            "20220802+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Europe has ramped up imports of Russian diesel as the EU struggles to wean off.txt+eventbasecode111+eventcode111+avgtone0.46686746987951805+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['diesel:0.4741', 'refineries:0.4133', 'ukraine:0.4128', 'eu:0.3779', 'supply:0.3274', 'kremlin:0.3168', 'plummet:0.2599', 'winter:0.2549', 'economist:0.2488', 'import:0.2481', 'war:0.2221', 'increase:0.2144', 'ahead:0.2042', 'covid:0.1991', 'concern:0.1942', 'travel:0.1933', 'barrel:0.1719', 'alternative:0.1434', 'choke:0.1432', 'tuesday:0.1413', 'wean:0.1343', 'source:0.1316', 'report:0.131', 'end:0.1229', 'track:0.1204', 'overall:0.1117', 'shore:0.1042', 'nearly:0.0883', 'price:0.0799', 'simultaneously:0.0765']+titles_keywords+['diesel:0.4546', 'eu:0.3106', 'imports:0.2354', 'supplies:0.1764', 'wean:0.0747']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220529+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Lithuanians crowdfund 54 million to buy Ukraine a feared Bayraktar combat drone.txt+eventbasecode111+eventcode111+avgtone0.49895397489539745+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4844', 'drone:0.3922', 'lithuanians:0.3833', 'crowdfund:0.3583', 'propaganda:0.327', 'military:0.3254', 'invade:0.2922', 'bayraktars:0.2904', 'reuters:0.2765', 'initiative:0.2608', 'nation:0.2562', 'petro:0.2488', 'million:0.2361', 'cite:0.2181', 'people:0.2004', 'buy:0.2', 'organize:0.1896', 'celebrate:0.1896', 'shipment:0.1779', 'claim:0.1722', 'modern:0.1716', 'unprecedented:0.1689', 'cheap:0.1666', 'soon:0.1579', 'directly:0.1454', 'piece:0.1361', 'small:0.1345', 'addition:0.1263', 'earmark:0.1111', 'thank:0.0774']+titles_keywords+['drone:0.4518', 'lithuanians:0.4242', 'crowdfund:0.3978', 'bayraktar:0.2704', 'feared:0.183']"
+        ]
+    ]
+}

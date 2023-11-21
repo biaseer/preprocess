@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220128+../news_crawling/RUS_UKR/p_articles/huffpost.com/Biden Says Russian Invasion Of Ukraine A Distinct Possibility.txt+eventbasecode130+eventcode130+avgtone0.4768095572733661+goldsteinscale0.27999999999999997+nummentions0.13642960812772134+numarticles0.13705583756345177+numsources0.11842105263157894+news_keywords+['ukraine:0.4611', 'nato:0.4106', 'kremlin:0.3905', 'invade:0.3904', 'escalation:0.2908', 'diplomat:0.25', 'macroeconomic:0.2225', 'warn:0.218', 'coordinate:0.2165', 'evasive:0.2139', 'biden:0.2061', 'soon:0.1951', 'order:0.1938', 'plan:0.1876', 'peace:0.1875', 'debate:0.1754', 'know:0.1683', 'pipeline:0.1668', 'submit:0.1472', 'twitter:0.1456', 'authorize:0.1394', 'refrain:0.1278', 'consolidated:0.1274', 'freeze:0.1263', 'similar:0.1233', 'end:0.1146', 'possibility:0.1109', 'somberly:0.1098', 'year:0.0614', 'motorized:0.0444']+titles_keywords+['ukraine:0.3685', 'biden:0.3498', 'possibility:0.2824', 'invasion:0.2754', 'says:0.02']"
+        ],
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/huffpost.com/RussiaBacked Separatists In Eastern Ukraine Tell Civilians To Evacuate To Russia.txt+eventbasecode130+eventcode130+avgtone0.46802106847253566+goldsteinscale0.27999999999999997+nummentions0.45754716981132076+numarticles0.4579405366207397+numsources0.4473684210526316+news_keywords+['crimea:0.4927', 'kremlin:0.4624', 'nato:0.4081', 'russiabacked:0.4002', 'separatists:0.3833', 'war:0.3546', 'evacuate:0.3543', 'escalation:0.3202', 'diplomatic:0.3066', 'flag:0.2802', 'uniformed:0.2751', 'miscommunication:0.2457', 'journalist:0.2453', 'alert:0.2429', 'know:0.237', 'organize:0.2342', 'justify:0.2308', 'pull:0.2186', 'prepared:0.2134', 'varenytsia:0.2037', 'chernov:0.1907', 'sieverodonetsk:0.1889', 'equivalent:0.1878', 'donbas:0.1804', 'pledge:0.1706', 'state:0.1464', 'long:0.1435', 'board:0.1409', 'weekend:0.1364', 'potentially:0.0659']+titles_keywords+['ukraine:0.4514', 'evacuate:0.4418', 'separatists:0.4161', 'russiabacked:0.3999', 'civilians:0.3454']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/huffpost.com/Ukrainian President Calls For Meeting With Putin Amid Increasing Violence.txt+eventbasecode130+eventcode130+avgtone0.46837944664031617+goldsteinscale0.27999999999999997+nummentions0.3076923076923077+numarticles0.30819434372733867+numsources0.7203947368421053+news_keywords+['putin:0.4795', 'kyiv:0.4115', 'ceasefire:0.3694', 'invade:0.3476', 'natos:0.3438', 'evacuate:0.3288', 'diplomatic:0.3246', 'escalation:0.289', 'conflict:0.2723', 'separatist:0.2439', 'troop:0.235', 'aggressor:0.235', 'border:0.2238', 'imminent:0.2217', 'occur:0.2048', 'worry:0.2047', 'order:0.2044', 'secretary:0.1801', 'know:0.1791', 'plan:0.1686', 'report:0.1668', 'increasing:0.1612', 'pretext:0.1564', 'calls:0.1553', 'drill:0.1544', 'hour:0.1203', 'end:0.1179', 'cold:0.1092', 'underscoring:0.0989', 'monthly:0.0743']+titles_keywords+['putin:0.4079', 'ukrainian:0.353', 'meeting:0.3147', 'violence:0.2022', 'increasing:0.0555']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+130":[
+        [
+            "20220510+../news_crawling/RUS_UKR/p_articles/enca.com/Doubts abound over Macron vision for broad Europe bloc.txt+eventbasecode130+eventcode130+avgtone0.4961439588688946+goldsteinscale0.27999999999999997+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['macron:0.402', 'nato:0.3847', 'eu:0.3822', 'brexit:0.3525', 'treaty:0.3035', 'election:0.2884', 'bloc:0.2805', 'remain:0.2625', 'strasbourg:0.243', 'union:0.2422', 'organise:0.2025', 'stir:0.2017', 'hopeful:0.1968', 'future:0.1765', 'include:0.1707', 'prospect:0.1695', 'idea:0.1662', 'cite:0.1656', 'enlargement:0.153', 'reject:0.1408', 'formal:0.1346', 'keynote:0.1338', 'make:0.1311', 'issue:0.1299', 'broad:0.1212', 'commission:0.117', 'body:0.1151', 'set:0.1123', 'substitute:0.1028', 'dmytro:0.0978']+titles_keywords+['macron:0.5422', 'europe:0.3302', 'doubts:0.246', 'bloc:0.2205', 'broad:0.1764']"
+        ]
+    ],
+    "RUS+RUS+130":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/enca.com/WATCH US allies lambast Russia over Ukraine at UN Security Council.txt+eventbasecode130+eventcode130+avgtone0.4807017543859649+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4655', 'peacekeeping:0.4586', 'kremlin:0.4199', 'diplomatic:0.3581', 'multilateralism:0.3355', 'conflict:0.3024', 'vasily:0.2965', 'separatist:0.2724', 'escalate:0.2589', 'emergency:0.2577', 'bloodbath:0.2473', 'urging:0.2266', 'brink:0.1884', 'pretext:0.1842', 'unilateral:0.1839', 'know:0.1837', 'order:0.1836', 'nonsense:0.173', 'rail:0.1727', 'ally:0.1715', 'dangerous:0.1682', 'lengthy:0.1584', 'refer:0.1542', 'donbass:0.1515', 'essentially:0.1473', 'end:0.1433', 'tuesday:0.1326', 'rotate:0.1215', 'hour:0.1155', 'new:0.0859']+titles_keywords+['ukraine:0.3842', 'allies:0.371', 'watch:0.164', 'council:0.155', 'lambast:0.0637']"
+        ]
+    ]
+}

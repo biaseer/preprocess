@@ -1,0 +1,12 @@
+{
+    "PRT+RUS+36":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/cambodiantimes.com/UN Secretary General heading to Moscow.txt+eventbasecode36+eventcode36+avgtone0.4729381443298969+goldsteinscale0.7+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['putin:0.427', 'nato:0.4183', 'multilateralism:0.3718', 'donetsk:0.3282', 'meeting:0.3109', 'war:0.3008', 'evacuation:0.29', 'disinformation:0.2713', 'secretary:0.2664', 'peskov:0.243', 'guterres:0.2162', 'general:0.2098', 'unprovoked:0.2078', 'respond:0.1919', 'consequence:0.1849', 'agreement:0.1844', 'plan:0.1767', 'brief:0.1551', 'accuse:0.1496', 'implement:0.1492', 'discus:0.1388', 'state:0.135', 'neutral:0.1348', 'head:0.1255', 'send:0.1222', 'follow:0.1103', 'february:0.0962', 'step:0.0922', 'like:0.0917', 'apparently:0.0678']+titles_keywords+['moscow:0.3979', 'secretary:0.2584', 'heading:0.2557', 'general:0.2059']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20210624+../news_crawling/RUS_UKR/p_articles/cambodiantimes.com/HMS Defender incident what the law of the sea says.txt+eventbasecode36+eventcode36+avgtone0.49320882852292025+goldsteinscale0.7+nummentions0.038461538461538464+numarticles0.03915881073241479+numsources0.03289473684210526+news_keywords+['crimea:0.5987', 'geopolitics:0.3837', 'sovereignty:0.3706', 'naval:0.3228', 'proceed:0.2565', 'undermine:0.2387', 'directness:0.2349', 'clarify:0.2226', 'port:0.2205', 'navigation:0.2184', 'nonsense:0.2124', 'claimant:0.2011', 'peace:0.1975', 'smuggle:0.1972', 'incident:0.194', 'british:0.1828', 'cape:0.1712', 'tide:0.1687', 'react:0.1656', 'takeover:0.1593', 'distress:0.1586', 'contains:0.158', 'predictably:0.1382', 'board:0.1328', 'current:0.1302', 'prevent:0.1231', 'underline:0.1108', 'lane:0.1043', 'far:0.0955', 'possibly:0.0638']+titles_keywords+['hms:0.4061', 'incident:0.3553', 'sea:0.3377', 'law:0.3295', 'defender:0.2558']"
+        ]
+    ]
+}

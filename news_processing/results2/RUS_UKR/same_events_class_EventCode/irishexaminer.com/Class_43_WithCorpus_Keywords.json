@@ -1,0 +1,22 @@
+{
+    "HUN+UKR+43":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/irishexaminer.com/Environmental catastrophe feared as Russia targets Ukraines fuel facilities.txt+eventbasecode43+eventcode43+avgtone0.4787305874409183+goldsteinscale0.64+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.006578947368421052+news_keywords+['ukraine:0.4876', 'natos:0.388', 'dmitry:0.3803', 'airstrikes:0.378', 'moscows:0.3714', 'invasion:0.3076', 'diplomatic:0.2614', 'uniformed:0.2342', 'escalate:0.2306', 'catastrophe:0.2292', 'pipeline:0.224', 'concern:0.223', 'map:0.2137', 'underway:0.1821', 'anticipate:0.1804', 'report:0.1734', 'sprawl:0.1683', 'curfew:0.1632', 'blast:0.1628', 'stay:0.1591', 'turn:0.149', 'replace:0.1475', 'organise:0.142', 'produce:0.1288', 'arent:0.1257', 'ocha:0.1189', 'billion:0.1153', 'long:0.1054', 'focus:0.1002', 'welcome:0.0793']+titles_keywords+['ukraines:0.4226', 'fuel:0.2205', 'catastrophe:0.2191', 'feared:0.176', 'targets:0.1742']"
+        ]
+    ],
+    "IRL+UKR+43":[
+        [
+            "20220821+../news_crawling/RUS_UKR/p_articles/irishexaminer.com/Large shipment of Ukrainian grain to land in Ireland first since war began.txt+eventbasecode43+eventcode43+avgtone0.4823529411764706+goldsteinscale0.64+nummentions0.0025399129172714078+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4365', 'shipment:0.3579', 'blockade:0.3409', 'chornmorsk:0.2833', 'supply:0.2484', 'corn:0.2447', 'limerick:0.2331', 'sail:0.2255', 'flag:0.2241', 'peace:0.2195', 'invasion:0.2142', 'navi:0.2051', 'feed:0.1919', 'ambassador:0.168', 'obligation:0.1565', 'uncertainty:0.1547', 'trade:0.1509', 'plan:0.1491', 'rh:0.1374', 'foynes:0.1333', 'lynch:0.1325', 'global:0.1299', 'sort:0.1243', 'delighted:0.1157', 'degree:0.1139', 'today:0.1002', 'possible:0.0989', 'distant:0.098', 'larysa:0.0884', 'true:0.0439']+titles_keywords+['shipment:0.4083', 'grain:0.3257', 'ukrainian:0.318', 'ireland:0.3145', 'war:0.2128']"
+        ]
+    ],
+    "ITA+UKR+43":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/irishexaminer.com/For Ukraine this is the most important year ever for Eurovision.txt+eventbasecode43+eventcode43+avgtone0.493993993993994+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0010877447425670776+numsources0.0+news_keywords+['eurovisions:0.6768', 'crimea:0.4267', 'eurosceptic:0.2702', 'stage:0.2591', 'nation:0.2567', 'result:0.2537', 'organisation:0.246', 'entry:0.235', 'sing:0.2247', 'controversial:0.2191', 'deportation:0.2146', 'attend:0.2125', 'standwithukraine:0.2116', 'correspondent:0.2026', 'bloc:0.2016', 'yulia:0.2007', 'party:0.1941', 'stay:0.1809', 'hilarity:0.173', 'emphasise:0.1701', 'reminder:0.1589', 'rivalry:0.1568', 'decade:0.1562', 'uneasy:0.1475', 'oleh:0.145', 'sala:0.1315', 'moreeurovision:0.1309', 'true:0.1236', 'tiktok:0.0942', 'theyd:0.0928']+titles_keywords+['eurovision:0.6772', 'ukraine:0.4743', 'important:0.3446', 'year:0.2459']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/irishexaminer.com/Nearly 120000 Ukrainians have fled Russian invasion says UN.txt+eventbasecode43+eventcode43+avgtone0.4344262295081965+goldsteinscale0.64+nummentions0.33200290275761973+numarticles0.3216098622189993+numsources0.3881578947368421+news_keywords+['ukrainians:0.4564', 'lviv:0.3773', 'refugee:0.3753', 'poland:0.3378', 'border:0.2801', 'flee:0.2481', 'incursion:0.2233', 'photoczarek:0.2204', 'military:0.2111', 'transport:0.2007', 'enter:0.1805', 'adapt:0.1764', 'update:0.1753', 'medyka:0.1619', 'numbers:0.1412', 'immediately:0.1287', 'mile:0.1272', 'stretch:0.1257', 'situation:0.1173', 'report:0.1153', 'expect:0.1035', 'treatment:0.0947', 'nearly:0.0946', 'stock:0.0903', 'feb:0.0758', 'tvn:0.0696', 'send:0.0668', 'official:0.0523', 'mantoo:0.0462', 'deteriorate:0.0286']+titles_keywords+['ukrainians:0.4698', 'fled:0.36', '120000:0.3438', 'invasion:0.2895', 'says:0.0118']"
+        ]
+    ]
+}

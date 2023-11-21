@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/northern-times.co.uk/What the papers say March 29.txt+eventbasecode112+eventcode112+avgtone0.46812080536912754+goldsteinscale0.4+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['news:0.5022', 'telegraph:0.4094', 'march:0.4088', 'abramovich:0.3733', 'oligarch:0.3622', 'publish:0.3382', 'ukraine:0.3318', 'paper:0.3237', 'boris:0.3082', 'peace:0.2736', 'nuclear:0.2632', 'disgrace:0.2579', 'poison:0.2389', 'times:0.2368', 'daily:0.2336', 'power:0.2326', 'warn:0.2285', 'britons:0.2273', 'lockdown:0.2222', 'reportedly:0.217', 'cohvpiopsy:0.215', 'downing:0.1995', 'independent:0.1936', 'memorial:0.193', 'act:0.185', 'case:0.18', 'scale:0.1639', 'wage:0.1611', 'oscars:0.1544', 'carry:0.1495']+titles_keywords+['march:0.5686', 'papers:0.3734', '29:0.3145', 'say:0.1736']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/northern-times.co.uk/What the papers say February 25.txt+eventbasecode112+eventcode112+avgtone0.4590643274853802+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['kyiv:0.5048', 'headline:0.4703', 'ukraines:0.4671', 'putin:0.4611', 'bloodshed:0.4067', 'airstrike:0.3338', 'bloody:0.2997', 'invasion:0.2895', 'telegraphs:0.2735', 'report:0.2543', 'panic:0.2216', 'read:0.2193', 'peace:0.217', 'page:0.1989', 'chuviuv:0.1988', 'injure:0.1966', 'february:0.1902', 'times:0.1856', 'woman:0.1842', 'lead:0.1615', 'hand:0.1603', 'daily:0.1451', 'big:0.1429', 'begin:0.1416', 'accuse:0.1387', 'eastern:0.1349', 'independents:0.131', 'new:0.1203', 'thousand:0.106', 'focus:0.1026']+titles_keywords+['february:0.5607', 'papers:0.4242', '25:0.3346', 'say:0.1798']"
+        ]
+    ]
+}

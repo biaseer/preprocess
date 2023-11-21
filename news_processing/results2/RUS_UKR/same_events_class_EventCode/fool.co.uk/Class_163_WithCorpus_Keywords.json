@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+163":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/fool.co.uk/My HSBC shares could tank if China invades Taiwan.txt+eventbasecode163+eventcode163+avgtone0.45121951219512196+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['stock:0.3946', 'hsbc:0.3904', 'liquidity:0.3758', 'invest:0.3588', 'economy:0.3476', 'risk:0.3392', 'jeopardise:0.3034', 'scenario:0.2889', 'territories:0.267', 'hong:0.2638', 'jinping:0.2467', 'tank:0.2425', 'militarily:0.241', 'presage:0.2335', 'ignore:0.2274', 'react:0.225', 'putins:0.2246', 'want:0.2169', 'learn:0.2106', 'global:0.2052', 'share:0.1875', 'sanction:0.1783', 'remember:0.1721', 'independent:0.1718', 'furthermore:0.1491', 'immediately:0.1462', 'compare:0.1381', 'youre:0.1249', 'depart:0.1221', 'integral:0.0952']+titles_keywords+['hsbc:0.4042', 'taiwan:0.3793', 'shares:0.2828', 'tank:0.2422', 'invades:0.2296']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/fool.co.uk/Why Evraz shares are the biggest faller in the FTSE 100 today.txt+eventbasecode163+eventcode163+avgtone0.48772504091653035+goldsteinscale0.1+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['invest:0.4227', 'ftse:0.393', 'stock:0.3909', 'evraz:0.3728', 'risk:0.3501', 'dividend:0.3408', 'putin:0.2948', 'undervaluing:0.2691', 'read:0.2483', 'remain:0.2403', 'worry:0.2373', 'issue:0.2333', 'europe:0.2246', 'news:0.2154', 'lower:0.213', 'advice:0.2072', 'mining:0.1991', 'pull:0.192', 'fool:0.1685', 'month:0.1516', 'respective:0.1488', 'structure:0.1484', 'element:0.148', 'look:0.1442', 'troop:0.1413', 'arent:0.1383', 'broadly:0.1269', 'send:0.1267', 'list:0.1194', 'pro:0.1164']+titles_keywords+['ftse:0.5417', 'evraz:0.3782', 'today:0.1491', 'faller:0.1448', 'biggest:0.1244']"
+        ]
+    ]
+}

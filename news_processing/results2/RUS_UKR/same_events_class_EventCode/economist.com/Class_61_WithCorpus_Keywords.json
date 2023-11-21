@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+61":[
+        [
+            "20220623+../news_crawling/RUS_UKR/p_articles/economist.com/Electrifying everything does not solve the climate crisis but it is a great start.txt+eventbasecode61+eventcode61+avgtone0.49587628865979383+goldsteinscale0.82+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['renewables:0.5314', 'electrification:0.4314', 'decarbonisation:0.3731', 'industrial:0.3627', 'climate:0.3566', 'turbine:0.3544', 'infrastructure:0.3517', 'grid:0.3368', 'powering:0.3264', 'geopolitically:0.321', 'electrifying:0.3153', 'develop:0.293', 'fukushima:0.2876', 'future:0.2767', 'berlin:0.2624', 'plan:0.2287', 'northern:0.214', 'trend:0.1953', 'guide:0.1846', 'tension:0.1825', 'headline:0.181', 'replace:0.1807', 'hertz:0.1743', 'start:0.1636', 'think:0.1555', 'complicate:0.1495', 'symposium:0.1435', 'entire:0.1355', 'option:0.121', 'sure:0.1112']+titles_keywords+['electrifying:0.3443', 'climate:0.2576', 'does:0.1682', 'start:0.1072', 'solve:0.0939']"
+        ]
+    ],
+    "EGY+RUS+61":[
+        [
+            "20220203+../news_crawling/RUS_UKR/p_articles/economist.com/How tensions in Ukraine could rile Egypt.txt+eventbasecode61+eventcode61+avgtone0.4787822878228782+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.3894', 'tensions:0.382', 'egypts:0.3428', 'oil:0.2718', 'wheat:0.2489', 'commodity:0.2373', 'stock:0.2265', 'gdp:0.2165', 'anwar:0.1942', 'subsidise:0.1864', 'headline:0.1795', 'know:0.1788', 'haggle:0.1751', 'riot:0.1742', 'replace:0.1706', 'grow:0.1695', 'seize:0.1647', 'president:0.1542', 'bad:0.1465', 'soon:0.1443', 'pandemic:0.1411', 'bring:0.135', 'imf:0.1337', 'begin:0.1275', 'level:0.1186', 'prove:0.1142', 'fraction:0.0827', 'reconsider:0.0693', 'entirely:0.0655', 'backtrack:0.0534']+titles_keywords+['tensions:0.4716', 'egypt:0.4491', 'ukraine:0.4382', 'rile:0.1193']"
+        ]
+    ]
+}

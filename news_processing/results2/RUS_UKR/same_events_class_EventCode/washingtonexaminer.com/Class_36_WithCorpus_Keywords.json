@@ -1,0 +1,12 @@
+{
+    "BEL+RUS+36":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Bucha massacre prompts West to consider stronger sanctions total Russian gas boycott.txt+eventbasecode36+eventcode36+avgtone0.46361746361746364+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5171', 'kremlin:0.4709', 'massacre:0.4217', 'sarkozy:0.3494', 'war:0.3408', 'threaten:0.309', 'boris:0.3008', 'sanction:0.2912', 'boycott:0.2864', 'report:0.2809', 'bucha:0.2808', 'kaczynski:0.275', 'political:0.2568', 'torture:0.2398', 'bloc:0.2384', 'volodymyr:0.2319', 'industrial:0.2187', 'gas:0.2146', 'evidence:0.2106', 'world:0.1968', 'sewer:0.1942', 'innocent:0.1932', 'visit:0.1927', 'intersection:0.1668', 'thrive:0.1666', 'dead:0.1547', 'end:0.1503', 'like:0.1472', 'wednesday:0.136', 'large:0.1317']+titles_keywords+['sanctions:0.4592', 'bucha:0.3144', 'massacre:0.3126', 'russian:0.3109', 'gas:0.2697']"
+        ]
+    ],
+    "EUR+UKR+36":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Lithuania urges Western allies to seek regime change in Russia.txt+eventbasecode36+eventcode36+avgtone0.4821041214750542+goldsteinscale0.7+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['putinization:0.5154', 'natos:0.4374', 'russia:0.433', 'kyiv:0.3732', 'militarize:0.3732', 'regime:0.3157', 'ceasefire:0.3017', 'escalation:0.2987', 'political:0.2787', 'border:0.2567', 'essay:0.2524', 'rhetoric:0.2523', 'scope:0.237', 'nordic:0.233', 'preemptive:0.2305', 'diverge:0.2285', 'achieve:0.2221', 'power:0.2132', 'corresponds:0.2032', 'turn:0.1964', 'secure:0.1889', 'ally:0.1692', 'world:0.1686', 'long:0.1674', 'weapon:0.1657', 'end:0.1643', 'know:0.1536', 'replace:0.1298', 'state:0.1259', 'invoke:0.1053']+titles_keywords+['lithuania:0.4265', 'allies:0.2909', 'regime:0.2653', 'change:0.1405', 'urges:0.0864']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/baltictimes.com/Russia alone is to blame for war in Ukraine Swedish defense minister.txt+eventbasecode112+eventcode112+avgtone0.5029585798816568+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.4735', 'sweden:0.4351', 'ukraine:0.4263', 'latvia:0.4024', 'riga:0.3425', 'hultqvist:0.2906', 'war:0.241', 'blame:0.1868', 'military:0.1749', 'security:0.1579', 'join:0.1517', 'talk:0.1455', 'defense:0.124', 'continue:0.1238', 'region:0.0987', 'change:0.0865', 'emphasize:0.0853', 'visit:0.0813', 'make:0.0812', 'adazi:0.0806', 'neighbor:0.0704', 'reporter:0.0694', 'minister:0.0648', 'ensure:0.0595', 'decision:0.0504', 'wednesday:0.0444', 'accession:0.0435', 'tell:0.0433', 'peter:0.0403', 'base:0.0305']+titles_keywords+['ukraine:0.4421', 'blame:0.3529', 'war:0.2833', 'swedish:0.2604', 'minister:0.0514']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/baltictimes.com/Putin will be held accountable for the brutal war in Ukraine at the Hague Tribunal.txt+eventbasecode112+eventcode112+avgtone0.4809027777777778+goldsteinscale0.4+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.013157894736842105+news_keywords+['putin:0.483', 'ukraine:0.4644', 'riga:0.3825', 'war:0.333', 'government:0.3326', 'tribunal:0.3118', 'troop:0.2831', 'attack:0.2724', 'karins:0.2714', 'hague:0.2664', 'humanitarian:0.2515', 'blame:0.2366', 'provision:0.2108', 'society:0.2054', 'position:0.1968', 'footage:0.1909', 'saeima:0.1908', 'concern:0.1761', 'term:0.1753', 'stinger:0.1698', 'note:0.1675', 'continue:0.1531', 'independent:0.1507', 'prime:0.1488', 'emphasize:0.1425', 'unequivocal:0.1325', 'thank:0.1255', 'unity:0.1141', 'partially:0.0845', 'today:0.0748']+titles_keywords+['putin:0.503', 'tribunal:0.3477', 'accountable:0.3154', 'karins:0.2806', 'war:0.2508']"
+        ]
+    ]
+}

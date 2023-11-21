@@ -1,0 +1,36 @@
+{
+    "DEU+RUS+10":[
+        [
+            "20220205+../news_crawling/RUS_UKR/p_articles/dw.com/Celebrities call for deescalation in Ukraine.txt+eventbasecode10+eventcode10+avgtone0.47611464968152867+goldsteinscale0.5+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.003289473684210526+news_keywords+['putin:0.5211', 'ukraine:0.4717', 'nato:0.3475', 'protest:0.3208', 'autocracy:0.3132', 'destabilize:0.3074', 'war:0.293', 'celebrities:0.2593', 'cyberattacks:0.2514', 'ban:0.2426', 'literature:0.2383', 'olympics:0.2341', 'publish:0.2251', 'misinformation:0.225', 'rt:0.2234', 'initiate:0.2024', 'signatory:0.1991', 'world:0.1875', 'know:0.1779', 'end:0.1777', 'nobel:0.1752', 'klaussner:0.1649', 'general:0.1411', 'according:0.1385', 'make:0.0995', 'mcewan:0.0991', 'thursday:0.0976', 'mediaclaudia:0.0956', 'way:0.0806', 'liao:0.0677']+titles_keywords+['celebrities:0.4127', 'ukraine:0.3776', 'deescalation:0.3124']"
+        ],
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/dw.com/Contact restored with Ukrainian fighters at Azovstal.txt+eventbasecode10+eventcode10+avgtone0.4798488664987406+goldsteinscale0.5+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4997', 'kremlin:0.4482', 'nato:0.4303', 'airstrikes:0.4086', 'reservists:0.3265', 'embargo:0.3048', 'disruption:0.2705', 'againsttheazovstalsteel:0.2672', 'redaktionsnetzwerk:0.2632', 'steinmeier:0.2572', 'journalist:0.2552', 'strategic:0.2502', 'afp:0.2425', 'tank:0.2348', 'contact:0.2345', 'scope:0.2337', 'cite:0.2332', 'know:0.2313', 'capital:0.2302', 'rhetoric:0.2263', 'underway:0.2092', 'rail:0.2054', 'emphasize:0.2033', 'scary:0.1932', 'order:0.19', 'consolidate:0.1866', 'bucha:0.1753', 'consequent:0.1566', 'friday:0.1548', 'welcome:0.086']+titles_keywords+['ukrainian:0.3452', 'azovstal:0.3048', 'contact:0.2836', 'fighters:0.2569', 'restored:0.1909']"
+        ]
+    ],
+    "EUR+UKR+10":[
+        [
+            "20211112+../news_crawling/RUS_UKR/p_articles/dw.com/Kremlin dismisses Western warnings over troop buildup.txt+eventbasecode10+eventcode10+avgtone0.4808153477218225+goldsteinscale0.5+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4408', 'kremlin:0.43', 'againstmilitary:0.363', 'dmitry:0.3333', 'troop:0.3266', 'escalation:0.3041', 'annex:0.2888', 'briefing:0.271', 'border:0.2629', 'diplomat:0.2609', 'separatist:0.2417', 'threaten:0.2365', 'worry:0.2286', 'movement:0.2041', 'kilometer:0.1805', 'watch:0.1663', 'news:0.1663', 'respond:0.144', 'thursday:0.1339', 'yves:0.1304', 'commission:0.1264', 'yelnya:0.1242', 'drawdown:0.1181', 'elect:0.1135', 'end:0.112', 'irregular:0.0984', 'itsupported:0.0818', 'theeuropean:0.0779', 'quote:0.0653', 'parly:0.0288']+titles_keywords+['kremlin:0.5092', 'troop:0.24', 'dismisses:0.2375', 'warnings:0.2325', 'buildup:0.1478']"
+        ]
+    ],
+    "PSE+UKR+10":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/dw.com/How to circumvent state internet censorship in Russia.txt+eventbasecode10+eventcode10+avgtone0.49646017699+goldsteinscale0.5+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['tor:0.5438', 'proxies:0.5277', 'vpn:0.4928', 'circumvent:0.4202', 'censorship:0.3899', 'russia:0.3747', 'blocked:0.3334', 'firewalls:0.3168', 'privacy:0.3089', 'ip:0.2809', 'securely:0.2652', 'roskomnadzor:0.2595', 'routing:0.2471', 'website:0.2181', 'barrier:0.1886', 'permit:0.1734', 'snowflake:0.1659', 'despite:0.1525', 'way:0.1404', 'organization:0.1375', 'want:0.1371', 'prove:0.1284', 'state:0.1272', 'relief:0.1078', 'impossible:0.1062', 'load:0.1035', 'month:0.1001', 'free:0.0906', 'instal:0.0806', 'small:0.0668']+titles_keywords+['circumvent:0.4498', 'russia:0.3776', 'censorship:0.3653', 'internet:0.3231', 'state:0.0967']"
+        ]
+    ],
+    "RUS+EUR+10":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/dw.com/Ukraines Zelenskyy pushes EU lawmakers for bloc membership.txt+eventbasecode10+eventcode10+avgtone0.48814229249011853+goldsteinscale0.5+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.009868421052631578+news_keywords+['ukraine:0.4769', 'putin:0.4066', 'eu:0.3741', 'zelenskyy:0.3549', 'bloc:0.2823', 'ahead:0.2604', 'parliament:0.251', 'iohannis:0.2333', 'accession:0.2225', 'attack:0.2123', 'president:0.2122', 'come:0.2111', 'speak:0.1842', 'hopefuls:0.1839', 'standwithukraine:0.179', 'achieved:0.1656', 'benefit:0.1628', 'sanction:0.1628', 'concern:0.1607', 'immediately:0.1474', 'unanimously:0.1466', 'right:0.1358', 'equal:0.1268', 'month:0.1145', 'make:0.1113', 'highlight:0.1098', 'attractive:0.1049', 'sixth:0.1002', 'der:0.0859', 'offer:0.0693']+titles_keywords+['zelenskyy:0.5191', 'ukraines:0.362', 'eu:0.284', 'bloc:0.2334', 'lawmakers:0.1962']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [],
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/dw.com/Finlands ruling party backs NATO bid.txt+eventbasecode10+eventcode10+avgtone0.49622166246851385+goldsteinscale0.5+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['nato:0.5289', 'finlands:0.4688', 'kremlin:0.3244', 'neutrality:0.3141', 'vladimir:0.2667', 'wary:0.2109', 'join:0.2058', 'sauli:0.177', 'proposal:0.1701', 'endorse:0.1665', 'vote:0.1661', 'import:0.1624', 'invasion:0.1612', 'supply:0.1388', 'long:0.1361', 'stoltenberg:0.1332', 'defense:0.1311', 'marin:0.1296', 'minister:0.1186', 'accord:0.1147', 'soon:0.1076', 'decision:0.1058', 'straightforward:0.0972', 'point:0.0801', 'previously:0.0788', 'relation:0.0777', 'covered:0.0747', 'welcome:0.0662', 'open:0.0653', 'trajectory:0.0265']+titles_keywords+['nato:0.4599', 'finlands:0.4486', 'bid:0.104', 'party:0.0778', 'backs:0.057']"
+        ]
+    ],
+    "WST+UKR+10":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/dw.com/Kyiv Moscow say talks could yield results in days.txt+eventbasecode10+eventcode10+avgtone0.47637991049229245+goldsteinscale0.5+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['kyiv:0.5122', 'putin:0.4224', 'diplomacy:0.4125', 'nato:0.3815', 'roskomnadzor:0.3159', 'secessionist:0.2923', 'evacuate:0.2864', 'news:0.2822', 'massacre:0.2794', 'agreement:0.2608', 'continue:0.2469', 'outcome:0.2446', 'know:0.2406', 'deliver:0.2278', 'cybersecurity:0.2174', 'intensification:0.2165', 'write:0.2127', 'cite:0.205', 'counterpart:0.189', 'allegation:0.1875', 'initialreports:0.1869', 'kilometer:0.1821', 'longer:0.1788', 'trade:0.1651', 'tomorrow:0.1636', 'function:0.1611', 'state:0.1539', 'grid:0.1279', 'possible:0.1202', 'phosphorous:0.1043']+titles_keywords+['kyiv:0.4895', 'talks:0.2875', 'days:0.2144', 'results:0.1906', 'say:0.1311']"
+        ]
+    ]
+}

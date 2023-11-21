@@ -1,0 +1,17 @@
+{
+    "POL+UKR+173":[
+        [
+            "20211118+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Ransomware persists even as highprofile attacks in US have slowed.txt+eventbasecode173+eventcode173+avgtone0.4619433198380567+goldsteinscale0.25+nummentions0.34107402031930334+numarticles0.34155184916606235+numsources0.375+news_keywords+['ransomware:0.6366', 'cybersecurity:0.4641', 'blackmail:0.3758', 'covid:0.3728', 'victims:0.339', 'currency:0.3118', 'criminal:0.3097', 'reporting:0.2763', 'government:0.2685', 'concern:0.2617', 'email:0.2548', 'trend:0.2509', 'know:0.2414', 'tuesday:0.2396', 'elon:0.2339', 'discover:0.232', 'program:0.222', 'crowdstrike:0.2206', 'neck:0.2145', 'spring:0.2114', 'drop:0.2041', 'lampoon:0.2003', 'cover:0.1925', 'atlantic:0.1855', 'trzaska:0.1758', 'significant:0.175', 'murdaugh:0.1705', 'resume:0.1421', 'sluggish:0.1296', 'highprofile:0.125']+titles_keywords+['ransomware:0.611', 'highprofile:0.262', 'persists:0.2035', 'attacks:0.162', 'slowed:0.1207']"
+        ]
+    ],
+    "RUS+UKR+173":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Putin appears at big rally as troops press attack in Ukraine.txt+eventbasecode173+eventcode173+avgtone0.48099260823653645+goldsteinscale0.25+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.013157894736842105+news_keywords+['putin:0.5181', 'kyiv:0.4479', 'revolution:0.3393', 'diplomatic:0.3348', 'journalist:0.3292', 'annexation:0.3158', 'demilitarization:0.2952', 'globe:0.2861', 'information:0.2752', 'podium:0.2747', 'emergency:0.2636', 'uniform:0.2583', 'table:0.257', 'report:0.2519', 'appear:0.2499', 'behead:0.2178', 'anticipate:0.2131', 'say:0.2094', 'big:0.1999', 'combine:0.197', 'week:0.1789', 'baseless:0.1738', 'ford:0.1683', 'appliances:0.1679', 'strengthen:0.151', 'difference:0.1483', 'emaildotcombellmedia:0.1414', 'nearly:0.141', 'ready:0.1367', 'characterize:0.1351']+titles_keywords+['putin:0.4247', 'rally:0.3155', 'attack:0.2904', 'big:0.1518', 'appears:0.1338']"
+        ]
+    ],
+    "UKR+RUS+173":[
+        [
+            "20220513+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Russian soldier on trial in first Ukraine warcrimes case.txt+eventbasecode173+eventcode173+avgtone0.46715328467153283+goldsteinscale0.25+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.01644736842105263+news_keywords+['russia:0.4667', 'investigation:0.3812', 'defendant:0.3745', 'yavorskyy:0.3549', 'rcmp:0.3302', 'cybercrime:0.3099', 'report:0.3084', 'newspaper:0.3072', 'gunfire:0.3048', 'capital:0.3038', 'conflict:0.2977', 'social:0.2752', 'proceeding:0.2685', 'podium:0.2651', 'source:0.2625', 'atrocity:0.2618', 'tank:0.2475', 'behead:0.2438', 'bucha:0.2433', 'liberties:0.2411', 'day:0.2408', 'stem:0.2403', 'know:0.2364', 'pandemic:0.2356', 'shift:0.2268', 'outfit:0.2215', 'shyshimarin:0.2197', 'late:0.188', 'similar:0.1799', 'longer:0.1618']+titles_keywords+['russian:0.4201', 'ukraine:0.3991', 'trial:0.3644', 'soldier:0.2995', 'warcrimes:0.2857']"
+        ]
+    ]
+}

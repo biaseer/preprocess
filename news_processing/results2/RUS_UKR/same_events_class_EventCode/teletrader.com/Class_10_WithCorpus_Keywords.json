@@ -1,0 +1,17 @@
+{
+    "KAZ+RUS+10":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/teletrader.com/Kazakhstan refuses to take part in Ukraine op report.txt+eventbasecode10+eventcode10+avgtone0.4859154929577465+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kazakhstan:0.4968', 'ukraine:0.4832', 'russia:0.3702', 'moscow:0.3337', 'donetsk:0.3216', 'lugansk:0.2017', 'refuse:0.1921', 'military:0.19', 'reject:0.1799', 'nbc:0.1664', 'operation:0.1608', 'dpr:0.1138', 'report:0.1127', 'states:0.1104', 'republic:0.1003', 'news:0.0972', 'cite:0.0885', 'ally:0.0839', 'united:0.0804', 'people:0.0714', 'inform:0.0665', 'security:0.0581', 'official:0.0519', 'close:0.0431', 'council:0.0416', 'national:0.0398', 'op:0.038', 'accord:0.0369', 'recognize:0.036', 'lpr:-0.0446']+titles_keywords+['kazakhstan:0.5126', 'ukraine:0.4814', 'refuses:0.339', 'report:0.3226', 'op:0.1576']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220814+../news_crawling/RUS_UKR/p_articles/teletrader.com/Russia claims it repelled attack on Zaporizhzhia plant.txt+eventbasecode10+eventcode10+avgtone0.45726495726495725+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4216', 'zaporizhzhia:0.393', 'nuclear:0.3568', 'demilitarized:0.3017', 'vladimir:0.3001', 'provoke:0.2142', 'novosti:0.2085', 'plant:0.2069', 'threat:0.2055', 'operate:0.2017', 'rogov:0.1993', 'repel:0.1939', 'nationalist:0.1686', 'cover:0.1683', 'army:0.1611', 'shell:0.1577', 'accuse:0.1529', 'power:0.1497', 'defense:0.1418', 'zone:0.1338', 'ria:0.1325', 'npp:0.1234', 'normally:0.1225', 'despite:0.1183', 'tell:0.1125', 'main:0.0758', 'label:0.0753', 'comment:0.0728', 'come:0.0531', 'previously:0.0376']+titles_keywords+['zaporizhzhia:0.4366', 'russia:0.386', 'plant:0.2468', 'repelled:0.2251', 'attack:0.2244']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20211202+../news_crawling/RUS_UKR/p_articles/teletrader.com/Russian FSB detains 3 suspected Ukrainian spies.txt+eventbasecode10+eventcode10+avgtone0.46788990825688076+goldsteinscale0.5+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.003289473684210526+news_keywords+['ukrainian:0.4225', 'spy:0.3828', 'igor:0.3648', 'tsilyk:0.361', 'terrorist:0.3574', 'suspect:0.3275', 'fsb:0.3074', 'zinoviy:0.2979', 'detain:0.2927', 'security:0.2426', 'agent:0.2223', 'federal:0.2221', 'koval:0.1949', 'directorate:0.1946', 'alexander:0.1722', 'attack:0.162', 'people:0.1415', 'enterprise:0.1341', 'work:0.1263', 'thursday:0.1251', 'information:0.1053', 'important:0.1049', 'strategically:0.0945', 'main:0.0937', 'allegedly:0.0935', 'photo:0.0769', 'commit:0.0727', 'send:0.0625', 'say:0.041', 'man:0.01']+titles_keywords+['spies:0.3788', 'ukrainian:0.3549', 'fsb:0.2781', 'detains:0.1711', 'suspected:0.1501']"
+        ]
+    ]
+}

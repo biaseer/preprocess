@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+40":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Together we defeated Hitler will defeat Putin too Ukraine Foreign Minister.txt+eventbasecode40+eventcode40+avgtone0.48648648648648646+goldsteinscale0.55+nummentions0.023947750362844702+numarticles0.023205221174764323+numsources0.03289473684210526+news_keywords+['ukraine:0.5558', 'putin:0.486', 'kremlin:0.4439', 'dmitry:0.3929', 'invade:0.3568', 'diplomatic:0.3054', 'zelenskiy:0.2499', 'hitler:0.2311', 'meet:0.2234', 'fight:0.2159', 'order:0.2015', 'delegation:0.1919', 'contact:0.1868', 'reject:0.1862', 'report:0.1822', 'kuleba:0.1787', 'foreigner:0.1769', 'afp:0.171', 'gomel:0.1546', 'ready:0.1534', 'world:0.1505', 'write:0.1411', 'street:0.14', 'twitter:0.1342', 'respective:0.1296', 'legion:0.1285', 'rag:0.1045', 'offer:0.0961', 'explosion:0.0864', 'today:0.0655']+titles_keywords+['putin:0.5165', 'ukraine:0.4037', 'defeated:0.2638', 'minister:0.16', 'foreign:0.1566']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Ukraine Russia diplomats agree to talks Putin puts nuclear forces on alert.txt+eventbasecode40+eventcode40+avgtone0.47501315097317204+goldsteinscale0.55+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.023026315789473683+news_keywords+['ukraine:0.4664', 'nato:0.4072', 'kremlin:0.4021', 'invade:0.3663', 'diplomat:0.29', 'escalate:0.2881', 'prepare:0.2648', 'telegram:0.2464', 'nuclear:0.2449', 'conflict:0.2446', 'yevhen:0.2227', 'shortly:0.2206', 'transformation:0.2122', 'order:0.2111', 'instead:0.2037', 'plan:0.2011', 'pipeline:0.1977', 'forward:0.1895', 'corridor:0.1884', 'terrified:0.1842', 'submit:0.1795', 'information:0.1728', 'end:0.1578', 'chart:0.1532', 'casualty:0.1475', 'billion:0.1343', 'general:0.134', 'hear:0.1336', 'long:0.1289', 'andriy:0.1275']+titles_keywords+['ukraine:0.3646', 'diplomats:0.2991', 'nuclear:0.2685', 'talks:0.2073', 'alert:0.1046']"
+        ]
+    ]
+}

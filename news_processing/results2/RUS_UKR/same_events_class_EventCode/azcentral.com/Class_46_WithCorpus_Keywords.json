@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+46":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/azcentral.com/Zelenskyy calls Mariupol terror a war crime Russia uses first hypersonic missile March 19 recap.txt+eventbasecode46+eventcode46+avgtone0.47607449856733525+goldsteinscale0.85+nummentions0.6658200290275762+numarticles0.33321247280638144+numsources0.3684210526315789+news_keywords+['kremlin:0.5136', 'russianforces:0.4812', 'zelenskyy:0.4576', 'ukrainiancities:0.4538', 'ukrainians:0.4361', 'sanctionson:0.3612', 'ivano:0.3523', 'evacuations:0.3396', 'annexation:0.3081', 'pentagon:0.2719', 'genocidal:0.2652', 'history:0.2521', 'threaten:0.2473', 'telegram:0.2407', 'read:0.2302', 'commissionerreported:0.2298', 'orbit:0.2082', 'ammunition:0.1944', 'soon:0.1893', 'order:0.1887', 'feb:0.1886', 'long:0.1701', 'virtssuggested:0.1595', 'disregardinginternational:0.1503', 'include:0.1467', 'thesecond:0.1466', 'ordinary:0.1402', 'difference:0.1306', 'agree:0.1215', 'total:0.1036']+titles_keywords+['zelenskyy:0.5017', 'missile:0.3863', 'russia:0.3473', 'crime:0.2594', 'mariupol:0.2546']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/azcentral.com/Stoli rebrands vodka and will no longer use Stolichnaya name amid Russia invading Ukraine.txt+eventbasecode46+eventcode46+avgtone0.48812095032397407+goldsteinscale0.85+nummentions0.15602322206095792+numarticles0.15373459028281364+numsources0.15460526315789475+news_keywords+['vodka:0.6082', 'russian:0.4482', 'stoli:0.4094', 'svedka:0.3817', 'afterrussia:0.3793', 'putin:0.3561', 'latvia:0.328', 'rebrands:0.3109', 'distilledfrom:0.294', 'sanctions:0.2903', 'regimeof:0.2153', 'production:0.2065', 'news:0.1969', 'sroots:0.1881', 'supportukraine:0.1872', 'import:0.183', 'ensure:0.1638', 'representstoli:0.1592', 'shelf:0.154', 'pour:0.1489', 'goose:0.1454', 'group:0.1362', 'includingsmirnoff:0.1275', 'longer:0.123', 'skyy:0.1139', 'absolut:0.1014', 'grade:0.1009', 'end:0.0991', 'meaningful:0.0951', 'shefler:0.0624']+titles_keywords+['stolichnaya:0.5394', 'stoli:0.503', 'vodka:0.501', 'rebrands:0.341', 'invading:0.1677']"
+        ]
+    ]
+}

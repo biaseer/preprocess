@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+12":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/cbc.ca/Protests denouncing the invasion of Ukraine go on this weekend in Montreal.txt+eventbasecode12+eventcode12+avgtone0.4742138364779875+goldsteinscale0.48+nummentions0.009071117561683599+numarticles0.009789702683103698+numsources0.023026315789473683+news_keywords+['ukrainecontinuedin:0.53', 'kyiv:0.4733', 'putin:0.4324', 'invade:0.3789', 'refugees:0.3729', 'protests:0.3637', 'oshchipkofocused:0.2606', 'consulate:0.2512', 'devastate:0.2473', 'pipeline:0.2427', 'nation:0.2395', 'curfew:0.238', 'montreal:0.2301', 'hear:0.227', 'stay:0.2219', 'soldier:0.2114', 'attend:0.2019', 'emphasize:0.1911', 'day:0.1875', 'row:0.1774', 'ihor:0.1724', 'dieas:0.1691', 'ashamed:0.1652', 'zhytomyr:0.1563', 'assumption:0.141', 'house:0.1369', 'fourth:0.1268', 'prayfor:0.1117', 'far:0.0992', 'atplace:0.0704']+titles_keywords+['protests:0.4993', 'ukraine:0.3739', 'montreal:0.3484', 'invasion:0.2725', 'weekend:0.1457']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220423+../news_crawling/RUS_UKR/p_articles/cbc.ca/Angry relatives seek answers about fate of sailors after Russian warship sinking.txt+eventbasecode12+eventcode12+avgtone0.4712121212121212+goldsteinscale0.48+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kremlin:0.4629', 'crimean:0.4423', 'kursk:0.4399', 'warship:0.373', 'news:0.3471', 'sinking:0.3245', 'casualty:0.3124', 'operation:0.2949', 'historical:0.2728', 'report:0.2659', 'worry:0.2438', 'trouble:0.2428', 'survive:0.2422', 'anonymity:0.2381', 'read:0.2221', 'emotional:0.1979', 'depart:0.1956', 'undercounts:0.1899', 'ap:0.1878', 'allege:0.1858', 'bleak:0.185', 'hotlines:0.1845', 'statement:0.1795', 'february:0.1792', 'president:0.1753', 'list:0.1538', 'pose:0.146', 'medium:0.134', 'largely:0.1214', 'redirect:0.1078']+titles_keywords+['sailors:0.3904', 'relatives:0.3307', 'sinking:0.3181', 'russian:0.2503', 'angry:0.1829']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/cbc.ca/Ukrainian Nova Scotians express fear as Russian invasion intensifies.txt+eventbasecode12+eventcode12+avgtone0.48561151079136694+goldsteinscale0.48+nummentions0.009071117561683599+numarticles0.009789702683103698+numsources0.019736842105263157+news_keywords+['crimea:0.5445', 'ukrainians:0.4471', 'invasion:0.4022', 'putin:0.399', 'halifax:0.3795', 'therussian:0.3319', 'separatist:0.3283', 'intensifies:0.2741', 'worry:0.2733', 'tank:0.273', 'mereshchuk:0.27', 'prepare:0.2676', 'remain:0.2652', 'feel:0.2441', 'presidentvladimir:0.2346', 'news:0.2341', 'ofukraine:0.2283', 'saidshe:0.2112', 'contact:0.2056', 'like:0.1981', 'home:0.1906', 'cityseized:0.1877', 'begin:0.1814', 'hearing:0.1771', 'parent:0.1754', 'kilometre:0.1746', 'world:0.172', 'backed:0.159', 'moment:0.1495', 'manufacturingfactory:0.092']+titles_keywords+['scotians:0.4245', 'invasion:0.3243', 'fear:0.316', 'russian:0.3082', 'intensifies:0.1776']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Russia temporarily stops gas flow through Nord Stream 1.txt+eventbasecode51+eventcode51+avgtone0.48044692737430167+goldsteinscale0.67+nummentions0.28156748911465895+numarticles0.2820884699057288+numsources0.2532894736842105+news_keywords+['ukraine:0.3893', 'gas:0.3681', 'pipeline:0.3351', 'gazprom:0.3252', 'embargo:0.3235', 'winter:0.2673', 'supply:0.2617', 'government:0.2522', 'nord:0.2444', 'comrzsn:0.2236', 'decrease:0.2101', 'news:0.2068', 'plan:0.1897', 'station:0.1826', 'push:0.1776', 'agreement:0.1772', 'urgent:0.1695', 'bloc:0.1609', 'report:0.1595', 'term:0.155', 'remain:0.1507', 'week:0.1502', 'scholz:0.1444', 'long:0.1437', 'respectively:0.1405', 'ending:0.1305', 'say:0.1152', 'confident:0.1041', 'chancellor:0.102', 'xg:0.071']+titles_keywords+['russia:0.282', 'gas:0.2294', 'nord:0.2261', 'stream:0.1913', 'temporarily:0.1682']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220826+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Moscow film festival opens with praise of soldiers in Donbas.txt+eventbasecode51+eventcode51+avgtone0.5165562913907285+goldsteinscale0.67+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.2631578947368421+news_keywords+['moscow:0.4807', 'mikhalkov:0.3792', 'film:0.3359', 'ukraines:0.332', 'festival:0.3305', 'nikita:0.3261', 'megerdichev:0.2833', 'anton:0.2797', 'historical:0.1907', 'award:0.1835', 'academy:0.1719', 'international:0.1667', 'fight:0.1664', 'representation:0.1635', 'industrial:0.1627', 'separatist:0.1509', 'epic:0.1493', 'donbas:0.1398', 'direct:0.1367', 'th:0.1365', 'stay:0.1251', 'say:0.1086', 'begin:0.105', 'anticipate:0.1033', 'burnt:0.095', 'big:0.084', 'everybody:0.08', 'reduce:0.0725', 'new:0.0677', 'actually:0.0567']+titles_keywords+['moscow:0.4091', 'festival:0.3049', 'soldiers:0.2941', 'film:0.2748', 'praise:0.2153']"
+        ]
+    ]
+}

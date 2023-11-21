@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+130":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/gulfnews.com/Russia attacks Ukraine Russian convoy 64km long bears down on Kyiv.txt+eventbasecode130+eventcode130+avgtone0.46867749419953597+goldsteinscale0.27999999999999997+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.009868421052631578+news_keywords+['ukraine:0.4796', 'kremlin:0.4341', 'nato:0.424', 'ceasefire:0.4024', 'invade:0.3903', 'militarily:0.3688', 'escalation:0.3287', 'infrastructure:0.2953', 'predict:0.2913', 'economist:0.2874', 'nuclear:0.2832', 'news:0.2747', 'worry:0.274', 'coordinate:0.2693', 'rouble:0.2693', 'alert:0.2681', 'annex:0.2639', 'izvestiya:0.2593', 'tank:0.2447', 'opec:0.2408', 'buy:0.2074', 'import:0.206', 'end:0.1929', 'immediately:0.1897', 'say:0.1862', 'huge:0.1578', 'restrict:0.1355', 'prerequisites:0.1318', 'coming:0.1308', 'unless:0.0915']+titles_keywords+['kyiv:0.4519', 'convoy:0.3144', '64km:0.2399', 'attacks:0.2122', 'long:0.1369']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/gulfnews.com/Ukraine rebels mobilise troops amid Russia invasion fears.txt+eventbasecode130+eventcode130+avgtone0.4549477071600965+goldsteinscale0.27999999999999997+nummentions0.3076923076923077+numarticles0.30819434372733867+numsources0.7203947368421053+news_keywords+['ukraine:0.4575', 'kremlin:0.4112', 'battalion:0.3886', 'evacuate:0.3736', 'war:0.3713', 'disinformation:0.2819', 'cyberattacks:0.2819', 'reservist:0.2799', 'sinenkov:0.2778', 'separatist:0.2738', 'news:0.2554', 'occur:0.2547', 'aggressor:0.2514', 'know:0.2264', 'imminent:0.2184', 'organization:0.1999', 'pull:0.1854', 'reiterate:0.1697', 'data:0.1686', 'drill:0.1589', 'contact:0.156', 'cold:0.1445', 'child:0.1417', 'donbas:0.1382', 'long:0.1295', 'biden:0.129', 'higher:0.1166', 'sure:0.1164', 'main:0.1086', 'monitor:0.1018']+titles_keywords+['ukraine:0.4069', 'rebels:0.356', 'invasion:0.3148', 'fears:0.2312', 'mobilise:0.1862']"
+        ]
+    ]
+}

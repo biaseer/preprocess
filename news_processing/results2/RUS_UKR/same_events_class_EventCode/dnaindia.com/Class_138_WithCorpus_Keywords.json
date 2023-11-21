@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+138":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/dnaindia.com/War in Ukraine Putin puts Russias nuclear deterrent forces on alert.txt+eventbasecode138+eventcode138+avgtone0.4503311258278147+goldsteinscale0.15+nummentions0.020682148040638608+numarticles0.02139231327048586+numsources0.0625+news_keywords+['ukraine:0.5423', 'kremlin:0.4517', 'nato:0.4173', 'vladimir:0.3962', 'war:0.3849', 'nuclear:0.3029', 'zelenskyy:0.2722', 'intervene:0.2588', 'capital:0.2583', 'president:0.2553', 'retaliate:0.2384', 'border:0.2349', 'alert:0.2333', 'curfew:0.2311', 'sanction:0.231', 'aggressive:0.2191', 'morning:0.2114', 'order:0.2044', 'anticipation:0.1992', 'instead:0.1857', 'terrified:0.1839', 'delegation:0.1748', 'remain:0.1585', 'feb:0.1568', 'boulevard:0.1382', 'include:0.1326', 'make:0.1225', 'ist:0.1179', 'deep:0.1116', 'scale:0.1086']+titles_keywords+['putin:0.4399', 'nuclear:0.3742', 'war:0.3398', 'alert:0.1391', 'puts:0.0731']"
+        ],
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/dnaindia.com/Russian President Vladimir Putin warns of lightningfast retaliation if West interferes in ongoing Ukraine war.txt+eventbasecode138+eventcode138+avgtone0.44462540716612353+goldsteinscale0.15+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['putin:0.5154', 'ukrainians:0.4026', 'war:0.3963', 'intervene:0.3463', 'unprovoked:0.3104', 'warn:0.2718', 'petersburg:0.2687', 'sanction:0.266', 'strategic:0.2648', 'pretext:0.2493', 'read:0.2247', 'disarm:0.2239', 'accuse:0.2187', 'event:0.2084', 'know:0.2037', 'western:0.1921', 'begin:0.1906', 'flee:0.1872', 'source:0.1784', 'addressing:0.1767', 'lightning:0.1625', 'thursday:0.1615', 'want:0.1563', 'arm:0.1447', 'webdesk:0.1382', 'ist:0.136', 'decade:0.1276', 'mark:0.1275', 'updated:0.1221', 'wider:0.117']+titles_keywords+['putin:0.4689', 'retaliation:0.3109', 'interferes:0.1732', 'lightningfast:0.1727', 'warns:0.1635']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+42":[
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/ksl.com/People are dying Utah veteran helps Ukrainian troops.txt+eventbasecode42+eventcode42+avgtone0.494475138121547+goldsteinscale0.595+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['war:0.4426', 'ukrainian:0.4416', 'humanitarian:0.4368', 'troop:0.4273', 'veteran:0.4256', 'help:0.3109', 'mission:0.3058', 'independence:0.3046', 'die:0.2742', 'defend:0.2716', 'tank:0.2614', 'circumstance:0.2606', 'organization:0.2561', 'nguyen:0.2537', 'provide:0.2448', 'video:0.2237', 'decide:0.2027', 'long:0.1943', 'extra:0.1763', 'reason:0.1734', 'tf:0.1607', 'course:0.1572', 'month:0.1467', 'head:0.143', 'focus:0.1329', 'barrier:0.1267', 'nearly:0.1134', 'kaysville:0.1128', 'minus:0.1019', 'agree:0.099']+titles_keywords+['veteran:0.4545', 'ukrainian:0.3817', 'dying:0.3599', 'utah:0.308', 'people:0.2301']"
+        ]
+    ],
+    "UKR+USA+42":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/ksl.com/Utah Ukrainian refugee Theyre hiding under their blankets at this point.txt+eventbasecode42+eventcode42+avgtone0.47883597883597884+goldsteinscale0.595+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['refugee:0.5458', 'ukraine:0.4684', 'family:0.3476', 'stay:0.3182', 'circumstance:0.293', 'help:0.2842', 'concerned:0.2833', 'feel:0.2787', 'fluent:0.2735', 'hide:0.2655', 'live:0.2563', 'devastation:0.2559', 'safety:0.2525', 'know:0.2496', 'child:0.2468', 'prepare:0.2448', 'blanket:0.242', 'attack:0.2305', 'news:0.2156', 'ksl:0.21', 'talk:0.2063', 'serhii:0.1981', 'bus:0.1793', 'difficult:0.1726', 'way:0.171', 'luda:0.1549', 'isom:0.151', 'jace:0.1337', 'general:0.1244', 'theyre:0.1061']+titles_keywords+['refugee:0.5326', 'utah:0.4911', 'blankets:0.3917', 'hiding:0.3785', 'theyre:0.228']"
+        ]
+    ]
+}

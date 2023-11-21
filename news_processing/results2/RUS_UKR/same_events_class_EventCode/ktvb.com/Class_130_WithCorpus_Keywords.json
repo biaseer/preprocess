@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220128+../news_crawling/RUS_UKR/p_articles/ktvb.com/Distinct possibility Russia invades Ukraine next month Biden says.txt+eventbasecode130+eventcode130+avgtone0.47684865238424323+goldsteinscale0.27999999999999997+nummentions0.13642960812772134+numarticles0.13705583756345177+numsources0.11842105263157894+news_keywords+['ukraine:0.4539', 'nato:0.3738', 'kremlin:0.3698', 'invade:0.3395', 'escalation:0.2648', 'diplomat:0.2427', 'emergency:0.242', 'soon:0.2185', 'expect:0.2096', 'coordinate:0.1981', 'order:0.1924', 'macroeconomic:0.1842', 'plan:0.1833', 'peace:0.163', 'biden:0.1579', 'know:0.153', 'volodymyr:0.1519', 'pipeline:0.1439', 'debate:0.1353', 'submit:0.1226', 'possibility:0.1213', 'consolidated:0.11', 'twitter:0.1069', 'end:0.1013', 'somberly:0.0939', 'refrain:0.0912', 'stark:0.081', 'normal:0.074', 'year:0.0592', 'motorized:0.049']+titles_keywords+['ukraine:0.3818', 'biden:0.3182', 'possibility:0.3041', 'invades:0.2819', 'month:0.2451']"
+        ],
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/ktvb.com/Ukrainian rebels evacuate civilians to Russia.txt+eventbasecode130+eventcode130+avgtone0.4684385382059801+goldsteinscale0.27999999999999997+nummentions0.45754716981132076+numarticles0.4579405366207397+numsources0.4473684210526316+news_keywords+['crimea:0.5074', 'evacuation:0.4387', 'nato:0.4342', 'putin:0.4329', 'russias:0.399', 'separatists:0.3739', 'invade:0.3595', 'diplomatic:0.3239', 'pentagon:0.3194', 'uniformed:0.3023', 'news:0.2889', 'flag:0.2864', 'organize:0.2529', 'lavrov:0.2481', 'aggressor:0.2454', 'alert:0.2403', 'concern:0.2165', 'fight:0.2163', 'prepared:0.216', 'continue:0.196', 'equivalent:0.1892', 'eastern:0.1818', 'borderwith:0.1749', 'pullback:0.1742', 'simmer:0.1558', 'state:0.1516', 'long:0.1469', 'drill:0.1369', 'like:0.1361', 'head:0.1195']+titles_keywords+['ukrainian:0.4638', 'civilians:0.4109', 'evacuate:0.3824', 'rebels:0.3362', 'russia:0.3209']"
+        ]
+    ]
+}

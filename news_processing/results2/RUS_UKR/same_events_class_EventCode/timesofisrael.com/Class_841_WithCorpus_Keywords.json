@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+841":[
+        [
+            "20220628+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Russia accuses Ukraine of torturing prisoners of war with starvation electric shock.txt+eventbasecode84+eventcode841+avgtone0.43807339449541305+goldsteinscale0.85+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.01644736842105263+news_keywords+['ukraine:0.5182', 'torture:0.3841', 'moscows:0.3548', 'war:0.2729', 'journalism:0.2642', 'crime:0.2299', 'medic:0.2212', 'inhuman:0.2105', 'provide:0.2012', 'jewish:0.1987', 'geneva:0.1975', 'amputate:0.192', 'read:0.1853', 'accuse:0.1821', 'violation:0.1778', 'outlet:0.1746', 'convention:0.1596', 'coverage:0.1385', 'exchange:0.1375', 'month:0.1212', 'examples:0.116', 'insightful:0.1123', 'pleased:0.1028', 'according:0.1005', 'hold:0.09', 'thats:0.0795', 'past:0.0794', 'free:0.0639', 'little:0.0461', 'havent:0.0118']+titles_keywords+['ukraine:0.4687', 'torturing:0.3896', 'electric:0.2564', 'war:0.2458', 'shock:0.2414']"
+        ]
+    ],
+    "UKR+RUS+841":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Ukraine says 45 prisoners freed in new swap with Russia.txt+eventbasecode84+eventcode841+avgtone0.511820330969267+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5166', 'russians:0.4089', 'israel:0.3259', 'news:0.2886', 'prisoner:0.2843', 'vereshchuk:0.2713', 'swap:0.2556', 'exchange:0.2482', 'telegram:0.2307', 'military:0.2267', 'iryna:0.2251', 'release:0.206', 'pleased:0.1818', 'provide:0.1812', 'invade:0.165', 'read:0.151', 'free:0.1495', 'coverage:0.1269', 'outlet:0.1229', 'immediate:0.1173', 'february:0.1131', 'day:0.1068', 'say:0.1035', 'help:0.0951', 'thats:0.0855', 'insightful:0.0847', 'little:0.0566', 'really:0.0517', 'discern:0.0282', 'havent:0.0214']+titles_keywords+['ukraine:0.3995', 'prisoners:0.3462', 'freed:0.2757', '45:0.2413', 'swap:0.2145']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+1123":[
+        [
+            "20220402+../news_crawling/RUS_UKR/p_articles/abc10.com/Ukrainian forces retake areas near Kyiv amid fear of traps.txt+eventbasecode112+eventcode1123+avgtone0.4755412991178829+goldsteinscale0.4+nummentions0.14731494920174165+numarticles0.14793328498912256+numsources0.33223684210526316+news_keywords+['kyiv:0.5625', 'evacuation:0.4199', 'putin:0.3777', 'refugee:0.358', 'war:0.3205', 'azov:0.2919', 'territory:0.2558', 'kill:0.2411', 'soldier:0.2403', 'safe:0.2175', 'shift:0.2112', 'telegram:0.2008', 'bucha:0.1914', 'live:0.1882', 'table:0.1837', 'soon:0.1829', 'mortar:0.1817', 'agreement:0.1775', 'ap:0.1746', 'cite:0.1738', 'write:0.1725', 'kilometer:0.1695', 'fought:0.1641', 'surround:0.1545', 'world:0.1396', 'population:0.1347', 'crosshairs:0.1293', 'dont:0.1223', 'state:0.1102', 'significance:0.1036']+titles_keywords+['kyiv:0.4834', 'traps:0.2457', 'fear:0.2208', 'areas:0.1905', 'retake:0.1191']"
+        ]
+    ],
+    "UKR+RUS+1123":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/abc10.com/Ukraine accuses Russia of planning false flag attack at Chernobyl.txt+eventbasecode112+eventcode1123+avgtone0.4707971586424625+goldsteinscale0.4+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.013157894736842105+news_keywords+['chernobyl:0.4876', 'kremlin:0.4476', 'propaganda:0.3925', 'ukrainians:0.3902', 'nato:0.3639', 'cyberattacks:0.3376', 'invade:0.3039', 'pentagon:0.2725', 'warn:0.2564', 'flag:0.2498', 'operation:0.2428', 'concern:0.2211', 'accusation:0.2177', 'separatist:0.2092', 'zaporizhzhia:0.2001', 'president:0.1998', 'psaki:0.1933', 'poison:0.1923', 'false:0.184', 'translation:0.1749', 'watchdog:0.1746', 'plant:0.1735', 'logistical:0.1551', 'uncover:0.1396', 'thursday:0.1298', 'galvanize:0.124', 'grid:0.1172', 'additional:0.1009', 'make:0.0869', 'zhao:0.0615']+titles_keywords+['chernobyl:0.4641', 'ukraine:0.3963', 'accuses:0.2262', 'flag:0.1894', 'false:0.1634']"
+        ]
+    ]
+}

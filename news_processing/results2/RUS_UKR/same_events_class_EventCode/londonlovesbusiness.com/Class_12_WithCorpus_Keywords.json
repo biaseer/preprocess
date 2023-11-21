@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220731+../news_crawling/RUS_UKR/p_articles/londonlovesbusiness.com/Putin is staring at a significant defeat in Kherson and he is clearly in a.txt+eventbasecode12+eventcode12+avgtone0.46796338672768883+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5073', 'ukraines:0.4253', 'predict:0.3214', 'war:0.3015', 'news:0.2939', 'stanovaya:0.2741', 'realise:0.2511', 'stalemate:0.2402', 'write:0.2119', 'end:0.2001', 'plan:0.1966', 'goal:0.195', 'happen:0.1885', 'hope:0.1884', 'dangerous:0.1869', 'intelligence:0.1859', 'troop:0.1831', 'stymie:0.1725', 'major:0.1709', 'flee:0.1652', 'assess:0.1587', 'later:0.1531', 'line:0.1505', 'estimate:0.1441', 'gain:0.132', 'york:0.1307', 'fifth:0.13', 'hop:0.1214', 'thats:0.0856', 'accord:0.0375']+titles_keywords+['putin:0.4856', 'defeat:0.3059', 'dangerous:0.261', 'kherson:0.2605', 'clearly:0.1366']"
+        ]
+    ],
+    "WST+RUS+12":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/londonlovesbusiness.com/Putin warned he should be in no doubt NATO will not tolerate any attack on.txt+eventbasecode12+eventcode12+avgtone0.47222222222222227+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['natos:0.5373', 'putin:0.3783', 'russia:0.3261', 'vladimir:0.3255', 'attack:0.3149', 'war:0.2369', 'warning:0.2131', 'sovereignty:0.2114', 'ally:0.1972', 'missile:0.1846', 'act:0.1802', 'concern:0.1719', 'stoltenberg:0.169', 'border:0.1682', 'escalate:0.1522', 'tolerate:0.1384', 'come:0.1322', 'say:0.1168', 'article:0.1117', 'cruise:0.1113', 'wednesday:0.1026', 'state:0.0985', 'doubt:0.0949', 'general:0.0818', 'force:0.0713', 'member:0.0651', 'direct:0.0599', 'send:0.0513', 'easily:0.0137', 'single:0.0059']+titles_keywords+['nato:0.4949', 'putin:0.3827', 'attack:0.2563', 'doubt:0.1255', 'tolerate:0.1241']"
+        ]
+    ]
+}

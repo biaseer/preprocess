@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+190":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/9news.com.au/Ukraines leader warns war will cost Russia for generations.txt+eventbasecode190+eventcode190+avgtone0.4823609226594301+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5178', 'ukraines:0.4936', 'putin:0.4508', 'demilitarisation:0.3815', 'nato:0.3724', 'antiwar:0.3195', 'evacuate:0.3005', 'annexation:0.2835', 'negotiation:0.2554', 'missile:0.246', 'table:0.2418', 'divided:0.2237', 'read:0.2205', 'school:0.2033', 'globe:0.2018', 'report:0.1975', 'baseless:0.1884', 'bucha:0.1718', 'long:0.1689', 'foe:0.1688', 'right:0.1681', 'happy:0.167', 'begin:0.1666', 'corridor:0.1584', 'say:0.158', 'generation:0.1459', 'smokescreen:0.1432', 'late:0.1295', 'dozen:0.1287', 'additional:0.1267']+titles_keywords+['ukraines:0.4079', 'war:0.3064', 'generations:0.2535', 'warns:0.1722', 'cost:0.1633']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/9news.com.au/Ukraine claims Russian general killed in Kharkiv.txt+eventbasecode190+eventcode190+avgtone0.47125+goldsteinscale0.0+nummentions0.0634978229317852+numarticles0.0630891950688905+numsources0.14473684210526316+news_keywords+['ukraine:0.434', 'kharkiv:0.3501', 'grozev:0.3141', 'general:0.2537', 'kill:0.2503', 'troop:0.2416', 'artillery:0.2157', 'cnn:0.2039', 'source:0.1973', 'report:0.1944', 'strategic:0.1877', 'ferocity:0.1791', 'rank:0.1704', 'information:0.1562', 'executive:0.1541', 'outlet:0.145', 'forward:0.1408', 'statement:0.1161', 'consolidate:0.113', 'immediately:0.1046', 'large:0.0995', 'iiss:0.0957', 'fellow:0.0923', 'murky:0.0916', 'holiday:0.0902', 'short:0.088', 'unsecured:0.0778', 'central:0.0769', 'independently:0.0731', 'added:0.045']+titles_keywords+['kharkiv:0.4225', 'ukraine:0.3522', 'general:0.2431', 'killed:0.2242', 'claims:0.0919']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/wamc.org/An antiwar protester in Moscow says the risk of arrest is worth it.txt+eventbasecode180+eventcode180+avgtone0.4708994708994709+goldsteinscale0.05+nummentions0.03229317851959362+numarticles0.03299492385786802+numsources0.07236842105263158+news_keywords+['putin:0.4514', 'antiwar:0.432', 'detained:0.4206', 'protester:0.4113', 'kyiv:0.3781', 'propaganda:0.3667', 'police:0.3389', 'read:0.2872', 'afraid:0.2649', 'situation:0.2637', 'complain:0.2621', 'avoid:0.2548', 'school:0.2494', 'realize:0.2409', 'future:0.2376', 'tank:0.2275', 'introduce:0.2201', 'posters:0.2177', 'child:0.2173', 'world:0.2001', 'silent:0.1985', 'repercussion:0.1932', 'pushkin:0.1923', 'right:0.1875', 'cause:0.173', 'come:0.1671', 'different:0.164', 'harry:0.1553', 'send:0.114', 'highlight:0.0819']+titles_keywords+['antiwar:0.4907', 'protester:0.4655', 'arrest:0.3868', 'moscow:0.3151', 'worth:0.1935']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/wamc.org/These Ukrainian students are competing virtually in an international science fair.txt+eventbasecode180+eventcode180+avgtone0.4968879668049792+goldsteinscale0.05+nummentions0.14368650217706821+numarticles0.14430746918056564+numsources0.12828947368421054+news_keywords+['ukraine:0.4541', 'participate:0.3668', 'project:0.3482', 'science:0.3477', 'smovzh:0.3292', 'student:0.3077', 'event:0.3066', 'finalists:0.2929', 'read:0.2861', 'world:0.2861', 'war:0.2733', 'make:0.241', 'news:0.2343', 'mixture:0.2298', 'learned:0.2263', 'family:0.2171', 'problem:0.2141', 'aromatic:0.2096', 'independent:0.2065', 'parasite:0.2051', 'bunk:0.1865', 'time:0.1858', 'central:0.1725', 'sofiia:0.1704', 'treatment:0.1694', 'feb:0.1652', 'huge:0.1623', 'isef:0.1591', 'aim:0.1499', 'arriving:0.1496']+titles_keywords+['competing:0.4041', 'students:0.3741', 'ukrainian:0.3673', 'science:0.2047', 'virtually:0.1353']"
+        ]
+    ]
+}

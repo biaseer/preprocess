@@ -1,0 +1,22 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220711+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Trump associates ties to extremists probed by Jan 6 panel.txt+eventbasecode10+eventcode10+avgtone0.46522781774580335+goldsteinscale0.5+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['ukraine:0.4295', 'strike:0.3665', 'moscows:0.3664', 'terrorism:0.3407', 'combat:0.3083', 'missiles:0.3039', 'brigade:0.2574', 'industrial:0.253', 'emergency:0.2321', 'tank:0.2312', 'civilian:0.2311', 'monday:0.2074', 'know:0.2016', 'month:0.1959', 'intense:0.1876', 'predict:0.1858', 'pipeline:0.1811', 'continue:0.1791', 'smash:0.1752', 'maintenance:0.1738', 'yar:0.1719', 'report:0.1669', 'turn:0.1533', 'regroup:0.1512', 'lysychansk:0.1479', 'telegram:0.1462', 'total:0.131', 'near:0.1232', 'governor:0.1227', 'inhabit:0.1035']+titles_keywords+['extremists:0.4115', 'trump:0.3559', 'panel:0.2369', 'ties:0.2157', 'probed:0.1919']"
+        ]
+    ],
+    "RUS+USA+10":[
+        [
+            "20220125+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Russian Markets Plunge as War Fears Mount.txt+eventbasecode10+eventcode10+avgtone0.47651006711409394+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4348', 'geopolitical:0.4126', 'kremlin:0.4084', 'ruble:0.3486', 'predict:0.3126', 'news:0.3031', 'volatility:0.2824', 'stock:0.2793', 'invade:0.2719', 'crisis:0.2679', 'disastrous:0.2517', 'trigger:0.2469', 'concern:0.2317', 'fall:0.2276', 'archduke:0.2276', 'capital:0.2238', 'order:0.2042', 'world:0.1989', 'report:0.1884', 'monday:0.1855', 'halt:0.1851', 'rts:0.1796', 'increase:0.1767', 'gas:0.1705', 'people:0.1692', 'biden:0.1638', 'goldman:0.1526', 'proceeds:0.1523', 'understand:0.1474', 'resume:0.1428']+titles_keywords+['russian:0.3139', 'plunge:0.2964', 'war:0.2878', 'fears:0.2149', 'mount:0.0541']"
+        ]
+    ],
+    "RUS+WST+10":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Council of Europe expels Russia from human rights body.txt+eventbasecode10+eventcode10+avgtone0.4787234042553192+goldsteinscale0.5+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['nato:0.4462', 'ukraine:0.4241', 'expel:0.3815', 'eu:0.3688', 'moscows:0.3598', 'invasion:0.287', 'democracy:0.2755', 'council:0.259', 'lavrov:0.2587', 'remain:0.2432', 'strasbourg:0.2379', 'peace:0.2203', 'initiated:0.2146', 'anti:0.2091', 'action:0.2064', 'barbaric:0.18', 'wednesday:0.1696', 'victim:0.1685', 'end:0.1667', 'decision:0.159', 'pomp:0.1547', 'kox:0.1531', 'say:0.1371', 'dmytro:0.1364', 'body:0.1285', 'foremost:0.1213', 'unceremonious:0.1189', 'year:0.0831', 'welcome:0.0487', 'multiple:0.0355']+titles_keywords+['russia:0.3782', 'expels:0.2772', 'council:0.2649', 'rights:0.1809', 'body:0.1751']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Biden Russia war a genocide trying to wipe out Ukraine.txt+eventbasecode10+eventcode10+avgtone0.47334754797441364+goldsteinscale0.5+nummentions0.3454281567489115+numarticles0.34590282813633066+numsources0.3782894736842105+news_keywords+['genocide:0.4814', 'putin:0.4706', 'biden:0.3544', 'treaty:0.3472', 'moscow:0.3401', 'intervene:0.2608', 'accuse:0.2511', 'controversy:0.242', 'administration:0.2205', 'evil:0.2067', 'block:0.2001', 'imply:0.1953', 'trigger:0.1941', 'american:0.1897', 'tell:0.1831', 'intent:0.1817', 'word:0.1777', 'formally:0.1681', 'learn:0.1599', 'trip:0.1597', 'defines:0.1592', 'example:0.1556', 'bloody:0.1526', 'volodymyr:0.1414', 'direct:0.1213', 'sure:0.1094', 'calling:0.1086', 'month:0.1063', 'wasnt:0.0726', 'price:0.0699']+titles_keywords+['biden:0.5002', 'genocide:0.4654', 'ukraine:0.4317', 'war:0.3981', 'trying:0.1738']"
+        ]
+    ]
+}

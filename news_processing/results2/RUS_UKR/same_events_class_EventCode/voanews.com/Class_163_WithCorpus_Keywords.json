@@ -1,0 +1,19 @@
+{
+    "EUR+RUS+163":[
+        [],
+        []
+    ],
+    "IND+UKR+163":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/voanews.com/India in Talks with Russia to Buy Discounted Crude Oil.txt+eventbasecode163+eventcode163+avgtone0.48428835489833644+goldsteinscale0.1+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['russia:0.4586', 'petroleum:0.3268', 'supply:0.2897', 'diplomatic:0.2655', 'investment:0.2627', 'expand:0.2033', 'trade:0.1975', 'briefing:0.1845', 'worry:0.1798', 'impose:0.1761', 'report:0.173', 'western:0.1716', 'crisis:0.1676', 'importer:0.1635', 'cite:0.1592', 'sector:0.1576', 'delhis:0.1527', 'availability:0.1386', 'statement:0.1302', 'psaki:0.128', 'deep:0.1229', 'fluctuation:0.12', 'look:0.1182', 'book:0.1129', 'finalizing:0.1126', 'weapon:0.1095', 'appropriate:0.0832', 'stand:0.0755', 'counter:0.0651', 'middle:0.0497']+titles_keywords+['russia:0.3134', 'oil:0.2968', 'talks:0.1912', 'crude:0.1783', 'buy:0.1779']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220207+../news_crawling/RUS_UKR/p_articles/voanews.com/US EU Pledge Closer Energy Cooperation amid Russian Threats.txt+eventbasecode163+eventcode163+avgtone0.5007163323782234+goldsteinscale0.1+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['geopolitical:0.4354', 'treaty:0.3694', 'renewables:0.3317', 'eu:0.294', 'emissions:0.2763', 'oil:0.2757', 'meeting:0.2645', 'moscow:0.24', 'achieve:0.2347', 'coordinate:0.2339', 'agreement:0.2306', 'biden:0.2264', 'threaten:0.2206', 'expand:0.2085', 'output:0.1906', 'neutral:0.1899', 'plan:0.1869', 'news:0.1849', 'sector:0.1836', 'ally:0.1818', 'newclimate:0.1797', 'stakeholder:0.1663', 'explain:0.1569', 'soon:0.156', 'turn:0.1552', 'help:0.1501', 'priority:0.133', 'long:0.1124', 'significant:0.0964', 'house:0.0885']+titles_keywords+['eu:0.2787', 'cooperation:0.2535', 'russian:0.2125', 'pledge:0.1576', 'closer:0.1408']"
+        ],
+        [
+            "20220612+../news_crawling/RUS_UKR/p_articles/voanews.com/Rebranded McDonalds Restaurants Reopen in Russia.txt+eventbasecode163+eventcode163+avgtone0.49772727272727274+goldsteinscale0.1+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.009868421052631578+news_keywords+['mcdonald:0.494', 'moscow:0.4384', 'restaurants:0.3697', 'rebranded:0.3608', 'oleg:0.313', 'nationwide:0.2934', 'tochka:0.269', 'paroyev:0.2586', 'vkusno:0.2444', 'news:0.2321', 'economy:0.2111', 'western:0.1727', 'owners:0.1705', 'tasty:0.1328', 'chain:0.1319', 'employed:0.1295', 'open:0.125', 'plan:0.1165', 'invade:0.1132', 'fast:0.1', 'notice:0.0849', 'ambience:0.0822', 'outlet:0.0776', 'end:0.0724', 'dozens:0.0676', 'year:0.0668', 'difference:0.0609', 'try:0.0598', 'sanction:0.042', 'quote:0.0294']+titles_keywords+['mcdonalds:0.4025', 'rebranded:0.3777', 'restaurants:0.3125', 'russia:0.2707', 'reopen:0.2216']"
+        ]
+    ]
+}

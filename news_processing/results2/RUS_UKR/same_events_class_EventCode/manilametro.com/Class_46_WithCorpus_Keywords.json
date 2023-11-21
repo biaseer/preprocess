@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+46":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/manilametro.com/West is trying to disrupt peace talks with Ukraine Russia.txt+eventbasecode46+eventcode46+avgtone0.49486301369863006+goldsteinscale0.85+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.013157894736842105+news_keywords+['treaty:0.4665', 'kyiv:0.4104', 'nato:0.3645', 'peace:0.3252', 'provocation:0.2814', 'massacre:0.2745', 'talk:0.2669', 'eastward:0.2541', 'thesis:0.2471', 'readiness:0.2324', 'continue:0.2276', 'occupy:0.2212', 'delegation:0.2112', 'formalize:0.2096', 'president:0.1995', 'happen:0.194', 'want:0.1908', 'reminder:0.1852', 'issue:0.1725', 'purported:0.1495', 'pushcha:0.1435', 'difference:0.1349', 'state:0.1292', 'prior:0.1252', 'according:0.1246', 'donbass:0.1215', 'addition:0.121', 'possible:0.0969', 'agree:0.0964', 'video:0.085']+titles_keywords+['ukraine:0.4287', 'peace:0.3235', 'west:0.2705', 'disrupt:0.2687', 'trying:0.1636']"
+        ]
+    ],
+    "EUR+RUS+46":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/manilametro.com/Zelenskyy Warns of Larger Russian Operations in East.txt+eventbasecode46+eventcode46+avgtone0.48180076628352486+goldsteinscale0.85+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.03289473684210526+news_keywords+['ukraine:0.4939', 'putin:0.476', 'zelenskyy:0.365', 'war:0.3554', 'destabilizing:0.3113', 'troop:0.2596', 'biden:0.2411', 'refugee:0.231', 'psaki:0.2191', 'tank:0.2084', 'artillery:0.2083', 'ahead:0.1985', 'warn:0.1905', 'concern:0.1812', 'meeting:0.1546', 'consequence:0.1545', 'operations:0.1473', 'virtual:0.1416', 'ready:0.1398', 'secretary:0.1373', 'unguided:0.1372', 'discus:0.1267', 'nehammer:0.1243', 'include:0.1121', 'larger:0.1084', 'statement:0.1058', 'week:0.0925', 'purchase:0.0917', 'million:0.0894', 'cbs:0.0835']+titles_keywords+['zelenskyy:0.5576', 'russian:0.3227', 'warns:0.2309', 'larger:0.1683', 'east:0.1403']"
+        ]
+    ]
+}

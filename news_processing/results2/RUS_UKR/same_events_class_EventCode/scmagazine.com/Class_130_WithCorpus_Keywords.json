@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/scmagazine.com/Cyberattacks out of Russia Log4j How vulnerable are US organizations.txt+eventbasecode130+eventcode130+avgtone0.47717842323651455+goldsteinscale0.27999999999999997+nummentions0.03265602322206096+numarticles0.03335750543872371+numsources0.10526315789473684+news_keywords+['cybersecurity:0.5739', 'threat:0.3824', 'exploit:0.3685', 'infrastructure:0.3312', 'log:0.3292', 'crimea:0.3256', 'vulnerable:0.3219', 'analysis:0.3215', 'alerts:0.3067', 'breach:0.2894', 'mitigation:0.283', 'report:0.2761', 'news:0.2748', 'advantage:0.2605', 'sector:0.2541', 'reallocation:0.2521', 'geotension:0.2418', 'change:0.2242', 'respondent:0.2042', 'patch:0.2032', 'scan:0.1998', 'emerge:0.1983', 'combine:0.1936', 'current:0.1859', 'want:0.1802', 'major:0.1747', 'exactly:0.1689', 'bit:0.1647', 'overflow:0.1518', 'weve:0.0835']+titles_keywords+['cyberattacks:0.5167', 'log4j:0.3675', 'russia:0.3538', 'vulnerable:0.2542', 'organizations:0.1637']"
+        ]
+    ],
+    "USA+UKR+130":[
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/scmagazine.com/Microsoft details rampant cyber warfare corresponding to Russian invasion.txt+eventbasecode130+eventcode130+avgtone0.4675213675213676+goldsteinscale0.27999999999999997+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['cybersecurity:0.4751', 'microsoft:0.41', 'kyiv:0.3714', 'nato:0.3561', 'invasion:0.3546', 'malware:0.3465', 'timeline:0.3372', 'operation:0.2998', 'destroy:0.2858', 'retaliation:0.2501', 'strategic:0.249', 'administration:0.2486', 'report:0.2476', 'correspond:0.2428', 'conflict:0.2409', 'missile:0.2386', 'know:0.2373', 'activity:0.2302', 'example:0.2282', 'whispergate:0.2103', 'assistance:0.1797', 'industroyer:0.1734', 'various:0.1696', 'day:0.1626', 'feb:0.1512', 'alongside:0.1478', 'dnipro:0.1342', 'nearly:0.1189', 'state:0.0935', 'widescale:0.0508']+titles_keywords+['microsoft:0.4254', 'invasion:0.3974', 'cyber:0.3486', 'russian:0.3397', 'rampant:0.1698']"
+        ]
+    ]
+}

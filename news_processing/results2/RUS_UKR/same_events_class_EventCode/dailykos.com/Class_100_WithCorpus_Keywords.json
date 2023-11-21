@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220529+../news_crawling/RUS_UKR/p_articles/dailykos.com/Ukraine update As Russia presses in on Severodonetsk other areas are open to counterattack.txt+eventbasecode100+eventcode100+avgtone0.48837209302325585+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukrainewar:0.5378', 'oblast:0.4622', 'nato:0.3961', 'russias:0.3784', 'update:0.2811', 'artillery:0.28', 'zelenskyy:0.2633', 'counterattack:0.2563', 'proceed:0.2493', 'reinforce:0.2424', 'dispatch:0.2348', 'soon:0.2156', 'map:0.2103', 'telegram:0.2037', 'result:0.1928', 'eastern:0.1908', 'announcementsincluding:0.1907', 'ka:0.1731', 'combine:0.164', 'focus:0.1592', 'apc:0.1577', 'unprotected:0.1562', 'hear:0.1559', 'briefly:0.15', 'main:0.1457', 'entire:0.1403', 'ahs:0.139', 'crossing:0.127', 'isnt:0.1245', 'counteroffensiveits:0.1002']+titles_keywords+['ukraine:0.5136', 'update:0.3293', 'severodonetsk:0.3095', 'counterattack:0.2914', 'areas:0.2008']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220511+../news_crawling/RUS_UKR/p_articles/dailykos.com/Ukraine update Russia pulling forces from Izyum to deal with whats happening north of Kharkiv.txt+eventbasecode100+eventcode100+avgtone0.5+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['ukraine:0.4947', 'chernobyl:0.3493', 'thesiverskyi:0.314', 'pol:0.2951', 'deploy:0.2925', 'strategic:0.276', 'span:0.2714', 'update:0.2534', 'trench:0.2444', 'map:0.2414', 'pipeline:0.234', 'predict:0.2141', 'telegrams:0.2136', 'distract:0.2118', 'concern:0.2038', 'fight:0.2017', 'uavs:0.1952', 'crossroad:0.1942', 'suddenly:0.186', 'donetsas:0.1832', 'itstime:0.1632', 'word:0.1448', 'end:0.1435', 'second:0.1404', 'unherd:0.129', 'deal:0.1231', 'ish:0.1099', 'theyll:0.0985', 'unitswithpontoon:0.086', 'doesnt:0.0697']+titles_keywords+['ukraine:0.4649', 'izyum:0.3522', 'update:0.3508', 'happening:0.2385', 'forces:0.2266']"
+        ],
+        [
+            "20220731+../news_crawling/RUS_UKR/p_articles/dailykos.com/Ukraine update Russia reportedly pulls forces from occupied towns to rush troops to Kherson.txt+eventbasecode100+eventcode100+avgtone0.48837209302325585+goldsteinscale0.25+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.0+news_keywords+['crimea:0.5004', 'donetsk:0.4114', 'battalion:0.3265', 'reposition:0.3085', 'resupply:0.2988', 'flank:0.2692', 'tactic:0.2654', 'pavlivka:0.2596', 'advance:0.2406', 'push:0.2389', 'fighting:0.2372', 'kos:0.2108', 'news:0.1983', 'shortly:0.1943', 'simultaneously:0.1925', 'trap:0.1867', 'northwest:0.1847', 'town:0.1722', 'leave:0.1661', 'far:0.1531', 'encircle:0.1505', 'major:0.1494', 'write:0.1479', 'intact:0.1423', 'end:0.1394', 'rih:0.1371', 'counteroffensive:0.1289', 'look:0.1282', 'theyre:0.0993', 'ofukraines:0.0659']+titles_keywords+['ukraine:0.4878', 'troops:0.3389', 'update:0.2555', 'reportedly:0.1588', 'forces:0.142']"
+        ]
+    ]
+}

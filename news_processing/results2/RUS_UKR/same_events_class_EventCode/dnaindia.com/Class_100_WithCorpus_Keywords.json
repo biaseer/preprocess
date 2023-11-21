@@ -1,0 +1,17 @@
+{
+    "RUS+WST+100":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/dnaindia.com/DNA Explainer 5 conditions to stop the war between Russia and Ukraine.txt+eventbasecode100+eventcode100+avgtone0.47748447204968947+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.4602', 'putin:0.4432', 'natoreverse:0.4389', 'invade:0.3296', 'presidentvladimirputin:0.3196', 'separatists:0.2964', 'diplomatic:0.2913', 'revolution:0.2752', 'want:0.2274', 'tactic:0.2207', 'danger:0.2203', 'bloc:0.2085', 'read:0.2076', 'accusingukraine:0.2071', 'end:0.2001', 'relation:0.198', 'infrastructure:0.1956', 'condition:0.1927', 'know:0.1791', 'collate:0.1649', 'explainer:0.1626', 'foreign:0.1567', 'state:0.1542', 'long:0.1506', 'donbas:0.1421', 'generate:0.1392', 'ready:0.1371', 'dna:0.1203', 'deadlock:0.1099', 'reported:0.107']+titles_keywords+['ukraine:0.3903', 'dna:0.3346', 'conditions:0.2045', 'stop:0.1637', 'explainer:0.1603']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/dnaindia.com/RussiaUkraine War in Pics Tears separations and debris on Day 14.txt+eventbasecode100+eventcode100+avgtone0.47441860464999996+goldsteinscale0.25+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.5287', 'russiaukraine:0.4814', 'ceasefire:0.4413', 'refugee:0.3528', 'oleg:0.3513', 'reuters:0.3511', 'coronavirus:0.3019', 'oil:0.2686', 'poltava:0.2599', 'concern:0.2369', 'flee:0.2355', 'flight:0.2304', 'separation:0.2278', 'industrial:0.2195', 'people:0.2013', 'intensify:0.1902', 'surge:0.1891', 'deliver:0.1828', 'continue:0.1766', 'world:0.1755', 'corridor:0.1748', 'write:0.1501', 'way:0.1207', 'million:0.1181', 'allow:0.1089', 'big:0.1033', 'similar:0.1004', 'week:0.0941', 'ready:0.0843', 'purchase:0.0709']+titles_keywords+['russiaukraine:0.4889', 'war:0.481', 'debris:0.3552', 'separations:0.341', 'pics:0.179']"
+        ]
+    ],
+    "UKR+UKR+100":[
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/dnaindia.com/Ukrainian President Zelenskyy willing to meet Russian President Putin to discuss how to end war.txt+eventbasecode100+eventcode100+avgtone0.48371335504886+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4657', 'diplomacy:0.3984', 'crimea:0.3949', 'zelenskyy:0.3881', 'ukrainians:0.3836', 'talk:0.2709', 'reuters:0.2495', 'arrange:0.2025', 'end:0.1978', 'fight:0.196', 'willing:0.1933', 'read:0.1828', 'troop:0.1669', 'remain:0.1578', 'february:0.1439', 'updated:0.13', 'directly:0.1245', 'near:0.1168', 'withdraw:0.1055', 'possibility:0.1024', 'world:0.1023', 'ist:0.0949', 'price:0.0908', 'step:0.0847', 'huge:0.0828', 'child:0.0764', 'associate:0.0658', 'drdo:0.0521', 'backbone:0.0488', 'special:0.0439']+titles_keywords+['zelenskyy:0.5525', 'putin:0.3878', 'meet:0.2413', 'war:0.1931', 'willing:0.1785']"
+        ]
+    ]
+}

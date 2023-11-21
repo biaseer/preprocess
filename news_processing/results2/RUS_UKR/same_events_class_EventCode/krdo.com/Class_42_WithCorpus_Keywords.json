@@ -1,0 +1,12 @@
+{
+    "POL+UKR+42":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/krdo.com/Pence seeks to set himself apart from Trump by speaking out against Putin.txt+eventbasecode42+eventcode42+avgtone0.49502677888293806+goldsteinscale0.595+nummentions0.019230769230769232+numarticles0.01994198694706309+numsources0.019736842105263157+news_keywords+['pence:0.5325', 'kremlin:0.4157', 'authoritarian:0.3248', 'election:0.3203', 'coalesce:0.297', 'strategist:0.2669', 'economic:0.2611', 'sanction:0.2546', 'vice:0.2541', 'nation:0.254', 'speech:0.2354', 'say:0.2076', 'retreat:0.1945', 'anonymity:0.1935', 'reframe:0.1934', 'midterm:0.1924', 'viewpoint:0.1842', 'distinguish:0.1814', 'trend:0.179', 'draw:0.1769', 'visit:0.1768', 'reprehensible:0.1742', 'prepare:0.1693', 'laud:0.1573', 'list:0.1497', 'long:0.1483', 'afterward:0.1406', 'bid:0.1349', 'surface:0.1226', 'export:0.1095']+titles_keywords+['pence:0.5815', 'putin:0.38', 'speaking:0.1736', 'apart:0.1601', 'set:0.0649']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/krdo.com/Ukrainians are making homemade body armor to send to frontline troops.txt+eventbasecode42+eventcode42+avgtone0.49327731092436977+goldsteinscale0.595+nummentions0.06095791001451379+numarticles0.06163886874546773+numsources0.049342105263157895+news_keywords+['ukrainian:0.4861', 'troop:0.435', 'ammunition:0.3998', 'armor:0.3951', 'frontline:0.3891', 'deploy:0.3729', 'operation:0.308', 'olretsky:0.3023', 'flak:0.2846', 'production:0.2837', 'engineer:0.281', 'scrap:0.2735', 'help:0.2556', 'fight:0.249', 'sew:0.248', 'improvised:0.2474', 'tell:0.2373', 'penetrate:0.2207', 'valery:0.2149', 'millimeter:0.1724', 'law:0.1722', 'previous:0.1714', 'donate:0.1636', 'world:0.1593', 'far:0.1568', 'scary:0.154', 'son:0.1535', 'able:0.1477', 'apartment:0.1277', 'enjoy:0.1238']+titles_keywords+['ukrainians:0.4155', 'armor:0.3787', 'homemade:0.2935', 'frontline:0.2663', 'send:0.1332']"
+        ]
+    ]
+}

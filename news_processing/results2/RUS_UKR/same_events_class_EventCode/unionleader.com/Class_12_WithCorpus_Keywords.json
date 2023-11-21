@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+12":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/unionleader.com/Sanctions will not be lifted until Russia signs peace deal with Ukraine.txt+eventbasecode12+eventcode12+avgtone0.48848684210526316+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.476', 'putin:0.4361', 'steinmeier:0.4084', 'war:0.381', 'sanction:0.3267', 'berlin:0.3265', 'annexation:0.3012', 'agreement:0.2531', 'scholz:0.2383', 'announce:0.2258', 'tank:0.1926', 'plan:0.1899', 'strip:0.1877', 'howitzer:0.1859', 'reject:0.1855', 'anticipated:0.1771', 'finance:0.1746', 'visit:0.167', 'iron:0.1663', 'port:0.1613', 'dictate:0.1592', 'hold:0.1566', 'monday:0.1506', 'plant:0.1382', 'like:0.1253', 'zdf:0.1192', 'olaf:0.1079', 'unless:0.0924', 'entire:0.0916', 'send:0.0815']+titles_keywords+['sanctions:0.4491', 'ukraine:0.3024', 'peace:0.2332', 'deal:0.1726', 'lifted:0.1095']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/unionleader.com/Texans lined up for hours to support Ukrainianowned bakery It was like all of San.txt+eventbasecode12+eventcode12+avgtone0.500998003992016+goldsteinscale0.48+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukrainian:0.4773', 'bakery:0.3215', 'cheesecakes:0.3181', 'laika:0.2996', 'war:0.2712', 'make:0.2674', 'pandemic:0.2634', 'evacuate:0.2535', 'know:0.2515', 'sputnik:0.2512', 'successful:0.2428', 'customers:0.2264', 'help:0.2223', 'states:0.2146', 'alamo:0.209', 'irony:0.2004', 'visit:0.1994', 'contributor:0.1832', 'million:0.1747', 'th:0.1694', 'exchange:0.1658', 'funnel:0.1642', 'page:0.163', 'heartbreaking:0.1597', 'wrap:0.1486', 'way:0.1453', 'heights:0.1379', 'tiny:0.1261', 'tomorrow:0.0823', 'maybe:0.0805']+titles_keywords+['ukrainianowned:0.3848', 'texans:0.3696', 'bakery:0.3337', 'san:0.2272', 'showed:0.1635']"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/wsiltv.com/Biden Every indication is that Russia will attack Ukraine within the next several days.txt+eventbasecode20+eventcode20+avgtone0.4852071005917159+goldsteinscale0.65+nummentions0.02358490566037736+numarticles0.024292965917331398+numsources0.046052631578947366+news_keywords+['putin:0.3959', 'biden:0.3561', 'attack:0.3085', 'diplomatic:0.2627', 'escalation:0.2493', 'flag:0.2431', 'prepare:0.234', 'conflict:0.228', 'cnn:0.2186', 'troop:0.2073', 'read:0.2055', 'thursday:0.2018', 'indication:0.1863', 'operation:0.1842', 'happen:0.18', 'pull:0.1749', 'blinken:0.1705', 'speak:0.1675', 'minute:0.1576', 'near:0.1466', 'contradict:0.1458', 'earlier:0.1339', 'state:0.1239', 'secretary:0.1236', 'continue:0.1164', 'united:0.1087', 'reason:0.1033', 'antony:0.077', 'new:0.0654', 'send:0.0363']+titles_keywords+['biden:0.4154', 'ukraine:0.3639', 'attack:0.279', 'indication:0.1892', 'days:0.1544']"
+        ],
+        []
+    ],
+    "UKR+RUS+20":[
+        []
+    ],
+    "USA+RUS+20":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/wsiltv.com/US is expelling 12 Russian UN diplomats.txt+eventbasecode20+eventcode20+avgtone0.4855263157894737+goldsteinscale0.65+nummentions0.03011611030478955+numarticles0.030819434372733864+numsources0.04276315789473684+news_keywords+['diplomats:0.462', 'expulsion:0.3763', 'moscow:0.3446', 'espionage:0.3436', 'hostile:0.2486', 'accuse:0.244', 'mission:0.2255', 'violate:0.224', 'bombardment:0.2205', 'leave:0.2182', 'action:0.2086', 'agreement:0.1931', 'nebenzia:0.1892', 'news:0.1892', 'obligation:0.1722', 'meeting:0.1694', 'united:0.169', 'month:0.1676', 'know:0.143', 'explanation:0.1323', 'visit:0.1244', 'deputy:0.1203', 'state:0.1161', 'respond:0.11', 'receive:0.108', 'olivia:0.1052', 'asked:0.1015', 'rank:0.0914', 'begin:0.0829', 'prescribe:0.0537']+titles_keywords+['diplomats:0.4546', 'russian:0.2869', 'expelling:0.2858', '12:0.2151']"
+        ]
+    ]
+}

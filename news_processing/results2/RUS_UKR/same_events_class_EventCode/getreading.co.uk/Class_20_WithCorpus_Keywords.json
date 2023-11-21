@@ -1,0 +1,22 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/getreading.co.uk/Households urged to turn down thermostats by 1C to help defeat Russia.txt+eventbasecode20+eventcode20+avgtone0.5012562814070352+goldsteinscale0.65+nummentions0.04245283018867924+numarticles0.04314720812182741+numsources0.03618421052631579+news_keywords+['thermostat:0.3884', 'russias:0.3656', 'gas:0.3403', 'celsius:0.317', 'winter:0.2828', 'heat:0.2524', 'vladimir:0.2442', 'nuclear:0.232', 'supply:0.2295', 'uk:0.2005', 'enact:0.1912', 'lowering:0.1883', 'bioenergy:0.1828', 'alternative:0.1787', 'households:0.1752', 'political:0.1631', 'sign:0.1461', 'turn:0.1447', 'degree:0.1401', 'maximise:0.1273', 'uswitch:0.1168', 'daily:0.1032', 'rollout:0.1003', 'point:0.0972', 'anymore:0.0875', 'tax:0.0874', 'head:0.0783', 'billion:0.0713', 'say:0.0664', 'add:0.0262']+titles_keywords+['thermostats:0.5225', 'russia:0.3306', 'households:0.2198', '1c:0.1315', 'turn:0.1008']"
+        ]
+    ],
+    "POL+RUS+20":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/getreading.co.uk/Johnson helping Ukraine more thanks to British public pressure say Zelensky.txt+eventbasecode20+eventcode20+avgtone0.4838308457711443+goldsteinscale0.65+nummentions0.2144412191582003+numarticles0.21501087744742567+numsources0.3223684210526316+news_keywords+['ukraine:0.4643', 'nato:0.4478', 'putins:0.4081', 'war:0.3611', 'boris:0.2766', 'government:0.2714', 'economist:0.2686', 'overthrow:0.2666', 'macron:0.2601', 'approach:0.2428', 'border:0.2233', 'logistically:0.2025', 'volodymyr:0.1934', 'want:0.1932', 'remain:0.193', 'react:0.1824', 'newsletter:0.1806', 'clarify:0.175', 'say:0.1692', 'armoured:0.1676', 'afraid:0.1616', 'note:0.1554', 'comparison:0.1512', 'row:0.1461', 'powerful:0.1446', 'ready:0.1367', 'allow:0.1335', 'mr:0.0995', 'dig:0.0843', 'prime:0.0804']+titles_keywords+['zelensky:0.3951', 'ukraine:0.3851', 'johnson:0.2952', 'british:0.205', 'helping:0.1134']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/getreading.co.uk/UK to end all imports of Russian coal and oil by end of year.txt+eventbasecode20+eventcode20+avgtone0.4648972602739726+goldsteinscale0.65+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.04276315789473684+news_keywords+['putin:0.5144', 'sanction:0.3925', 'kyiv:0.3652', 'regime:0.3596', 'news:0.3025', 'block:0.279', 'nazification:0.2738', 'labour:0.2711', 'report:0.2693', 'operation:0.2564', 'climate:0.2563', 'invasion:0.2538', 'know:0.237', 'secretary:0.2257', 'context:0.224', 'end:0.2236', 'combine:0.2114', 'alfabank:0.2085', 'commit:0.1977', 'want:0.1952', 'bucha:0.1942', 'sign:0.1932', 'toxic:0.1899', 'forward:0.1709', 'afraid:0.1688', 'underprepared:0.1687', 'february:0.1519', 'similar:0.1446', 'measure:0.1354', 'big:0.1293']+titles_keywords+['coal:0.3253', 'russian:0.268', 'end:0.1718', 'imports:0.1687', 'year:0.079']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/getreading.co.uk/F35B Lightning beast mode fighter jets brought in by RAF as Ukraine invasion continues.txt+eventbasecode20+eventcode20+avgtone0.48755656108597284+goldsteinscale0.65+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.013157894736842105+news_keywords+['aircraft:0.4777', 'raf:0.4626', 'squadron:0.45', 'nato:0.4466', 'ukraine:0.3364', 'lightning:0.327', 'weapon:0.3002', 'bombard:0.294', 'takeoff:0.2914', 'stealth:0.2911', 'ordnance:0.2802', 'mach:0.2539', 'ft:0.2423', 'fighter:0.2385', 'siren:0.2337', 'standoff:0.221', 'use:0.2054', 'volodymyr:0.1991', 'capability:0.1971', 'zone:0.1969', 'newsletter:0.1859', 'fearsome:0.1856', 'arrive:0.1838', 'global:0.1818', 'advance:0.1762', 'new:0.1516', 'awesome:0.1471', 'integrate:0.1216', 'far:0.1145', 'internally:0.1032']+titles_keywords+['f35b:0.4616', 'raf:0.3845', 'ukraine:0.3043', 'beast:0.237', 'invasion:0.2339']"
+        ]
+    ]
+}

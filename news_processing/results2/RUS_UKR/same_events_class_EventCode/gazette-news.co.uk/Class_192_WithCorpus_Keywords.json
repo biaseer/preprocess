@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220128+../news_crawling/RUS_UKR/p_articles/gazette-news.co.uk/What the papers say January 28.txt+eventbasecode192+eventcode192+avgtone0.46259842519685035+goldsteinscale0.025+nummentions0.17271407837445574+numarticles0.17331399564902103+numsources0.15460526315789475+news_keywords+['labour:0.4299', 'thatcher:0.3323', 'ukraine:0.3258', 'monarchy:0.3119', 'crisis:0.3073', 'telegraph:0.3068', 'debate:0.2934', 'sanction:0.2831', 'privilege:0.2825', 'boris:0.268', 'secretary:0.2621', 'thedaily:0.2574', 'downing:0.2546', 'cite:0.234', 'covid:0.2279', 'important:0.2277', 'january:0.2229', 'invade:0.2219', 'financial:0.2185', 'fear:0.2149', 'prepare:0.2111', 'lively:0.2091', 'misuse:0.2044', 'tax:0.2018', 'independent:0.2', 'street:0.1996', 'scrap:0.1938', 'mailreports:0.1928', 'pound:0.19', 'repeat:0.172']+titles_keywords+['january:0.5407', 'papers:0.3629', '28:0.291', 'say:0.1628']"
+        ]
+    ],
+    "UKR+RUS+192":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/gazette-news.co.uk/Ukraine sees openings as Russia fixates on besieged Mariupol.txt+eventbasecode192+eventcode192+avgtone0.4739382239382239+goldsteinscale0.025+nummentions0.29390420899854863+numarticles0.29441624365482233+numsources0.375+news_keywords+['crimea:0.5549', 'ukrainians:0.4514', 'moscows:0.4114', 'war:0.3574', 'separatist:0.3083', 'redeployment:0.2875', 'zelensky:0.2623', 'journalist:0.249', 'flee:0.2466', 'capital:0.2415', 'destroy:0.2355', 'corridor:0.2246', 'afar:0.2082', 'crosshairs:0.1985', 'mriya:0.1933', 'continue:0.188', 'difference:0.1781', 'plant:0.1697', 'heed:0.1691', 'left:0.1679', 'hub:0.1638', 'bucha:0.1585', 'capability:0.1505', 'informally:0.15', 'ap:0.1498', 'pre:0.1473', 'gain:0.1418', 'warm:0.1357', 'agree:0.1137', 'audio:0.1016']+titles_keywords+['ukraine:0.4158', 'openings:0.3132', 'mariupol:0.2361', 'besieged:0.1752', 'fixates:0.1354']"
+        ]
+    ]
+}

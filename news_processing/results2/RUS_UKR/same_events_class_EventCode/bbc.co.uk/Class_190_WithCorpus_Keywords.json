@@ -1,0 +1,19 @@
+{
+    "GBR+RUS+190":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine war Russia bans Boris Johnson from country over Ukraine war.txt+eventbasecode190+eventcode190+avgtone0.46677740863787376+goldsteinscale0.0+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.006578947368421052+news_keywords+['ukraine:0.4937', 'nato:0.4106', 'kremlin:0.3983', 'war:0.365', 'militarily:0.3545', 'government:0.3433', 'sanction:0.3188', 'diplomat:0.3005', 'involved:0.2712', 'invasion:0.2624', 'boris:0.2539', 'coordinate:0.2355', 'result:0.2322', 'information:0.2267', 'salisbury:0.2173', 'isolate:0.2126', 'cabinet:0.2123', 'react:0.2024', 'diaries:0.197', 'orchestrate:0.1904', 'unexpected:0.183', 'plan:0.1824', 'weapon:0.17', 'worry:0.1619', 'remain:0.1612', 'ranking:0.1588', 'exactly:0.1486', 'difference:0.1304', 'truss:0.0687', 'sending:0.0554']+titles_keywords+['ukraine:0.3996', 'boris:0.3778', 'war:0.2926', 'bans:0.2085', 'johnson:0.1918']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Inside a childrens hospital and pressure on Russian artists Ukraine war roundup.txt+eventbasecode190+eventcode190+avgtone0.4573934837092733+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['ukraine:0.5078', 'putin:0.4776', 'evacuate:0.3397', 'propaganda:0.3392', 'invasion:0.3272', 'correspondent:0.2998', 'trauma:0.2899', 'military:0.2789', 'conflict:0.2081', 'bomb:0.1975', 'child:0.1973', 'map:0.1856', 'consequence:0.1785', 'oppose:0.1699', 'people:0.1558', 'theatre:0.1468', 'roundup:0.1431', 'underneath:0.1427', 'want:0.1392', 'live:0.1339', 'continue:0.1334', 'hundreds:0.1295', 'physically:0.1252', 'hear:0.1197', 'th:0.1093', 'teach:0.1047', 'look:0.1017', 'building:0.0956', 'terrible:0.0843', 'davies:0.0449']+titles_keywords+['ukraine:0.46', 'artists:0.4187', 'war:0.3995', 'hospital:0.35', 'childrens:0.3205']"
+        ],
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Chernihiv is silent after having been under constant attack from Russian forces.txt+eventbasecode190+eventcode190+avgtone0.48913043478260865+goldsteinscale0.0+nummentions0.00544267053701016+numarticles0.006163886874546773+numsources0.009868421052631578+news_keywords+['chernihiv:0.5094', 'ukrainian:0.4967', 'russians:0.4487', 'destroy:0.2816', 'silence:0.228', 'city:0.2228', 'attack:0.2004', 'scary:0.1935', 'humanitarian:0.1839', 'suddenly:0.18', 'northern:0.1683', 'surround:0.1583', 'people:0.1535', 'bbc:0.1466', 'speak:0.1437', 'believe:0.14', 'help:0.1384', 'video:0.1361', 'stephanie:0.1245', 'really:0.115', 'diary:0.1115', 'mean:0.102', 'good:0.0947', 'withdraw:0.0876', 'food:0.0866', 'large:0.0863', 'partially:0.0853', 'constant:0.0803', 'force:0.0525', 'week:0.0359']+titles_keywords+['chernihiv:0.5335', 'silent:0.3907', 'russian:0.318', 'attack:0.1965', 'constant:0.1684']"
+        ],
+        []
+    ],
+    "UKR+RUS+190":[
+        []
+    ]
+}

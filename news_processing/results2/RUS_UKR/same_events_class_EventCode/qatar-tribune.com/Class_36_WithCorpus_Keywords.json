@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+36":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/qatar-tribune.com/Russia says some forces pulling back amid Ukraine crisis.txt+eventbasecode36+eventcode36+avgtone0.48287345385347286+goldsteinscale0.7+nummentions0.13824383164005805+numarticles0.13669325598259607+numsources0.22039473684210525+news_keywords+['crimea:0.4385', 'diplomacy:0.4116', 'nato:0.4095', 'putin:0.3859', 'russias:0.3607', 'invade:0.3525', 'escalation:0.3007', 'deploy:0.2563', 'crisis:0.2516', 'flag:0.2157', 'lavrov:0.2057', 'calm:0.2027', 'agreement:0.1989', 'push:0.1926', 'argue:0.1915', 'prepare:0.1912', 'understand:0.1831', 'avert:0.1751', 'closer:0.155', 'drill:0.1528', 'muddying:0.1432', 'information:0.1405', 'write:0.1396', 'wont:0.1363', 'indefinitely:0.1201', 'wednesday:0.1198', 'bid:0.105', 'th:0.1045', 'dr:0.095', 'house:0.0638']+titles_keywords+['ukraine:0.3841', 'pulling:0.288', 'forces:0.2757', 'crisis:0.1527', 'says:0.0249']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/qatar-tribune.com/Russia says it will scale back near Kyiv as talks progress.txt+eventbasecode36+eventcode36+avgtone0.4786245353159852+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.4756', 'ukraines:0.4451', 'natos:0.4262', 'negotiation:0.3318', 'war:0.3051', 'pentagon:0.2926', 'operation:0.2656', 'demolish:0.2544', 'arrangement:0.252', 'agreement:0.2208', 'neutral:0.2089', 'prepare:0.2048', 'progress:0.202', 'turn:0.2013', 'spar:0.1915', 'halt:0.1808', 'corroborate:0.1805', 'remain:0.179', 'peninsula:0.1783', 'future:0.1757', 'long:0.1686', 'increase:0.1544', 'say:0.1533', 'detailed:0.1467', 'near:0.1425', 'meant:0.1211', 'port:0.1208', 'governor:0.1172', 'major:0.1171', 'fomin:0.0832']+titles_keywords+['kyiv:0.4441', 'scale:0.2295', 'talks:0.1281', 'near:0.1225', 'progress:0.0671']"
+        ]
+    ]
+}

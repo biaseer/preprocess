@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/infotel.ca/A beacon of hope Ukraine Russia sign grain export deal.txt+eventbasecode112+eventcode112+avgtone0.48673740053050396+goldsteinscale0.4+nummentions0.5674891146589259+numarticles0.5678027556200145+numsources0.8947368421052632+news_keywords+['ukraine:0.445', 'kremlin:0.3901', 'negotiation:0.3521', 'blockade:0.3412', 'war:0.3307', 'grain:0.2893', 'humanitarian:0.2874', 'infrastructure:0.2767', 'feed:0.2596', 'sidenko:0.2529', 'agreement:0.2489', 'want:0.2456', 'production:0.2422', 'know:0.2398', 'anticipate:0.2158', 'incoming:0.2104', 'forward:0.2083', 'extend:0.193', 'tayyip:0.1923', 'rail:0.1827', 'word:0.1821', 'safe:0.1724', 'long:0.1655', 'recep:0.1376', 'ramaphosa:0.1374', 'exporter:0.1369', 'significant:0.1232', 'peter:0.1069', 'accord:0.0943', 'doesnt:0.086']+titles_keywords+['ukraine:0.454', 'grain:0.3084', 'deal:0.2324', 'hope:0.2055', 'export:0.2014']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/infotel.ca/Russia renews strikes on Ukraine capital hits other cities.txt+eventbasecode112+eventcode112+avgtone0.46709956709956707+goldsteinscale0.4+nummentions1.0+numarticles1.0+numsources1.0+news_keywords+['kyiv:0.5312', 'putin:0.4513', 'russias:0.3949', 'airstrikes:0.3892', 'blockade:0.2952', 'truce:0.2709', 'vereshchuk:0.2649', 'annexed:0.2453', 'safer:0.2241', 'victim:0.2237', 'emergency:0.2183', 'warn:0.2146', 'intensify:0.2024', 'railyards:0.1913', 'nbc:0.1886', 'outlet:0.178', 'bucha:0.1773', 'sprawling:0.1655', 'format:0.1589', 'armored:0.1573', 'shoot:0.1559', 'mook:0.1489', 'day:0.1483', 'swap:0.1441', 'general:0.1392', 'end:0.126', 'resurface:0.1249', 'exaggeration:0.1236', 'recent:0.1112', 'feb:0.1049']+titles_keywords+['ukraine:0.3756', 'strikes:0.2603', 'hits:0.2247', 'capital:0.2012', 'renews:0.1045']"
+        ]
+    ],
+    "WST+RUS+112":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/infotel.ca/UkraineRussia crisis What to know as tensions hit new high.txt+eventbasecode112+eventcode112+avgtone0.4851190476190476+goldsteinscale0.4+nummentions0.17561683599419448+numarticles0.17621464829586658+numsources0.16447368421052633+news_keywords+['ukraine:0.5112', 'natos:0.4434', 'diplomacy:0.3744', 'invade:0.3325', 'tensions:0.2857', 'isachenkov:0.2849', 'separatist:0.2775', 'escalation:0.2768', 'strategic:0.2547', 'border:0.2508', 'president:0.2218', 'warn:0.2203', 'unprovoked:0.2036', 'cite:0.197', 'pretext:0.1953', 'instead:0.1829', 'direction:0.1673', 'thursday:0.1553', 'combine:0.152', 'ready:0.1378', 'technologies:0.1316', 'whats:0.1185', 'sketch:0.118', 'unanimously:0.1148', 'nearly:0.1139', 'prove:0.1091', 'ap:0.1089', 'anew:0.1032', 'array:0.1016', 'true:0.0546']+titles_keywords+['ukrainerussia:0.4087', 'tensions:0.3964', 'crisis:0.2796', 'know:0.1762', 'high:0.1036']"
+        ]
+    ]
+}

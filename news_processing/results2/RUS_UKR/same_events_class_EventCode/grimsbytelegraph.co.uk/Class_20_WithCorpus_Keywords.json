@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/grimsbytelegraph.co.uk/Households urged to turn down thermostats by 1C to help defeat Russia.txt+eventbasecode20+eventcode20+avgtone0.5012562814070352+goldsteinscale0.65+nummentions0.04245283018867924+numarticles0.04314720812182741+numsources0.03618421052631579+news_keywords+['thermostat:0.3894', 'russias:0.361', 'gas:0.3384', 'celsius:0.3102', 'winter:0.2811', 'heat:0.2525', 'vladimir:0.2445', 'supply:0.2291', 'nuclear:0.2289', 'enact:0.2013', 'uk:0.1957', 'lowering:0.193', 'alternative:0.1821', 'bioenergy:0.1815', 'households:0.1752', 'political:0.165', 'turn:0.1543', 'sign:0.1485', 'plan:0.1429', 'degree:0.1381', 'maximise:0.1332', 'uswitch:0.1199', 'benefit:0.1157', 'end:0.11', 'soon:0.0869', 'term:0.0766', 'billion:0.0686', 'say:0.066', 'add:0.0267', 'possible:0.0239']+titles_keywords+['thermostats:0.5225', 'russia:0.3306', 'households:0.2198', '1c:0.1315', 'turn:0.1008']"
+        ]
+    ],
+    "POL+RUS+20":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/grimsbytelegraph.co.uk/Johnson helping Ukraine more thanks to British public pressure Zelensky says.txt+eventbasecode20+eventcode20+avgtone0.4838107098381071+goldsteinscale0.65+nummentions0.2144412191582003+numarticles0.21501087744742567+numsources0.3223684210526316+news_keywords+['ukraine:0.4542', 'nato:0.424', 'putins:0.3884', 'war:0.3535', 'economist:0.2902', 'government:0.2799', 'overthrow:0.2679', 'boris:0.2653', 'approach:0.2402', 'biden:0.2189', 'logistically:0.2083', 'border:0.2075', 'warn:0.2073', 'volodymyr:0.1885', 'remain:0.1872', 'want:0.1846', 'react:0.1799', 'speech:0.178', 'clarify:0.1703', 'comparison:0.1519', 'row:0.1519', 'powerful:0.1515', 'ready:0.1429', 'unscripted:0.1325', 'end:0.1278', 'suspect:0.1274', 'make:0.1253', 'alternative:0.1158', 'dig:0.0818', 'today:0.051']+titles_keywords+['zelensky:0.4409', 'ukraine:0.3697', 'johnson:0.2798', 'british:0.1875', 'helping:0.1351']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/grimsbytelegraph.co.uk/UK to end all imports of Russian coal and oil by end of year.txt+eventbasecode20+eventcode20+avgtone0.4649572649572649+goldsteinscale0.65+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.04276315789473684+news_keywords+['putin:0.5067', 'sanction:0.3972', 'kyiv:0.3743', 'regime:0.3589', 'announcement:0.2802', 'block:0.2756', 'nazification:0.2743', 'report:0.265', 'operation:0.253', 'invasion:0.2448', 'know:0.2396', 'context:0.2293', 'order:0.2275', 'end:0.2273', 'secretary:0.2258', 'coal:0.2191', 'uk:0.2161', 'combine:0.2158', 'alfabank:0.2051', 'bucha:0.1916', 'vote:0.1895', 'invest:0.1875', 'forward:0.1753', 'afraid:0.1671', 'underprepared:0.1661', 'strip:0.1607', 'week:0.1568', 'freeze:0.1568', 'similar:0.1505', 'big:0.1325']+titles_keywords+['coal:0.3253', 'russian:0.268', 'end:0.1718', 'imports:0.1687', 'year:0.079']"
+        ]
+    ]
+}

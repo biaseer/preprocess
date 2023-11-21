@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Russia attacks Kyiv as UN leader visits and onslaught continues in eastern Ukraine.txt+eventbasecode111+eventcode111+avgtone0.46316557257476293+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5668', 'putin:0.4359', 'airstrikes:0.3604', 'correspondent:0.2915', 'separatist:0.2392', 'warn:0.2305', 'catastrophic:0.2212', 'columns:0.2209', 'scary:0.2203', 'victory:0.2188', 'subject:0.2153', 'sewer:0.2111', 'troop:0.2063', 'unfolding:0.2026', 'industrial:0.2026', 'intercept:0.1977', 'sirens:0.1945', 'pirogova:0.1941', 'telegram:0.1926', 'bucha:0.1853', 'outbreak:0.1579', 'april:0.134', 'hour:0.132', 'explanation:0.1317', 'weather:0.1289', 'like:0.1249', 'additional:0.1224', 'grow:0.1206', 'flame:0.1171', 'enjoy:0.1051']+titles_keywords+['kyiv:0.4948', 'attacks:0.3076', 'continues:0.1306', 'eastern:0.1231', 'leader:0.1229']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/cbsnews.com/McDonalds to reopen in Ukraine as war with Russia rages on.txt+eventbasecode111+eventcode111+avgtone0.49110671936758893+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4988', 'mcdonald:0.3914', 'economy:0.3646', 'war:0.3236', 'corporate:0.2634', 'operation:0.2577', 'western:0.2473', 'know:0.2369', 'tensions:0.2364', 'kherson:0.2354', 'vkusno:0.2336', 'counterattack:0.2298', 'announce:0.2287', 'outposts:0.2111', 'prepare:0.2029', 'govor:0.1999', 'happen:0.1926', 'normalcy:0.1854', 'continue:0.1753', 'month:0.165', 'reopen:0.1626', 'chain:0.1619', 'like:0.1593', 'shrink:0.1322', 'new:0.1277', 'agree:0.1252', 'tasty:0.1233', 'deal:0.1145', 'stylized:0.1016', 'configure:0.0938']+titles_keywords+['mcdonalds:0.3863', 'ukraine:0.3594', 'reopen:0.2799', 'war:0.2498', 'rages:0.0875']"
+        ]
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "AUT+RUS+12":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Nuclear monitor loses contact with Chernobyl radiation sensors raising alarm.txt+eventbasecode12+eventcode12+avgtone0.48403193613+goldsteinscale0.48+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['chernobyl:0.5938', 'reactor:0.3715', 'safeguard:0.3614', 'decommission:0.3429', 'ukraines:0.328', 'iaea:0.299', 'concern:0.29', 'watchdog:0.2843', 'safer:0.2534', 'regulator:0.2472', 'sensor:0.2267', 'zaporizhzhia:0.2191', 'atomic:0.2185', 'staff:0.212', 'terror:0.21', 'news:0.2074', 'coverage:0.1952', 'contact:0.1761', 'outlet:0.169', 'urgently:0.1605', 'chornobyl:0.1512', 'cite:0.1485', 'remain:0.1476', 'world:0.1334', 'look:0.1129', 'rotate:0.112', 'npp:0.1035', 'enjoy:0.0835', 'instal:0.0822', 'thats:0.0625']+titles_keywords+['chernobyl:0.5254', 'sensors:0.32', 'alarm:0.2638', 'monitor:0.255', 'contact:0.145']"
+        ]
+    ],
+    "GBR+RUS+12":[
+        [
+            "20220201+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/British PM warns any Russian invasion of Ukraine would be a disaster.txt+eventbasecode12+eventcode12+avgtone0.5034246575342466+goldsteinscale0.48+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4253', 'diplomacy:0.3393', 'boris:0.3247', 'troop:0.2202', 'news:0.1996', 'imminent:0.1988', 'border:0.1969', 'volodymyr:0.1932', 'warn:0.1887', 'urgent:0.1879', 'jewish:0.1617', 'minister:0.1426', 'pull:0.1318', 'disaster:0.1309', 'read:0.1249', 'insightful:0.1226', 'times:0.1213', 'pleased:0.108', 'prime:0.0932', 'choose:0.0854', 'preparation:0.0848', 'large:0.0824', 'step:0.0821', 'start:0.0817', 'consistent:0.0764', 'believe:0.0747', 'like:0.0588', 'thats:0.0394', 'youve:0.0328', 'paywall:0.0327']+titles_keywords+['ukraine:0.3547', 'disaster:0.2849', 'invasion:0.2363', 'warns:0.2194', 'pm:0.0249']"
+        ]
+    ],
+    "RUS+RUS+12":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Russia praises Indias balanced stance on Ukraine after Security Council abstention.txt+eventbasecode12+eventcode12+avgtone0.49183673469387756+goldsteinscale0.48+nummentions0.009071117561683599+numarticles0.009789702683103698+numsources0.023026315789473683+news_keywords+['russia:0.4135', 'indias:0.3203', 'modi:0.299', 'war:0.2822', 'delhi:0.2778', 'abstention:0.2378', 'embassy:0.2329', 'article:0.2299', 'strategic:0.2289', 'order:0.1899', 'privilege:0.1688', 'concern:0.1619', 'independent:0.1585', 'state:0.1376', 'use:0.1353', 'volodymyr:0.1337', 'continue:0.1284', 'times:0.1209', 'unsc:0.1204', 'hail:0.1049', 'include:0.1037', 'discern:0.1022', 'arm:0.0966', 'enjoy:0.0937', 'sector:0.0868', 'far:0.0841', 'way:0.0693', 'certainly:0.0628', 'resolution:0.0585', 'unlike:0.0573']+titles_keywords+['russia:0.3639', 'abstention:0.3471', 'indias:0.2475', 'balanced:0.2107', 'praises:0.1174']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Zelensky says Russian forces continue to attack Kyiv.txt+eventbasecode12+eventcode12+avgtone0.5013123359580053+goldsteinscale0.48+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5538', 'zelensky:0.4763', 'russians:0.3443', 'blockaded:0.2557', 'volodymyr:0.2262', 'troop:0.2038', 'israel:0.1914', 'continue:0.1888', 'fight:0.1841', 'read:0.1807', 'news:0.1767', 'humanitarian:0.1721', 'donbas:0.1505', 'president:0.1486', 'tense:0.1339', 'pleased:0.1285', 'irpin:0.1236', 'northeast:0.1162', 'control:0.1149', 'outlet:0.1148', 'accurate:0.11', 'say:0.1081', 'nighttime:0.1004', 'despite:0.0979', 'today:0.0932', 'video:0.0742', 'really:0.0541', 'discern:0.042', 'havent:0.0126', 'free:0.0058']+titles_keywords+['zelensky:0.5604', 'kyiv:0.4905', 'attack:0.1977', 'continue:0.1855', 'forces:0.0393']"
+        ],
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Ukraine flogs Russia after missiles buzz Zaporizhzhia nuclear plant.txt+eventbasecode12+eventcode12+avgtone0.46254355400696867+goldsteinscale0.48+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.01644736842105263+news_keywords+['chernobyl:0.5407', 'thechernobylpower:0.4932', 'ukraines:0.4418', 'nuclear:0.4404', 'soviet:0.373', 'missiles:0.3319', 'evacuate:0.3103', 'dangerous:0.2638', 'zaporizhzhia:0.2632', 'concern:0.2494', 'fires:0.2353', 'trigger:0.2322', 'troop:0.2239', 'news:0.2221', 'petro:0.2072', 'takeover:0.1872', 'read:0.1784', 'april:0.1773', 'cover:0.1745', 'watchdog:0.1658', 'visit:0.1558', 'znpp:0.1549', 'radius:0.1326', 'world:0.1321', 'fight:0.1114', 'th:0.1084', 'state:0.1071', 'huge:0.102', 'enjoy:0.0992', 'sarcophagus:0.0922']+titles_keywords+['ukraine:0.4599', 'zaporizhzhia:0.3739', 'missiles:0.3577', 'flogs:0.2102', 'buzz:0.1574']"
+        ]
+    ],
+    "WST+RUS+12":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Zelensky condemns NATO decision to rule out Ukraine nofly zone.txt+eventbasecode12+eventcode12+avgtone0.5125+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['natos:0.4726', 'zelensky:0.453', 'ukrainian:0.3778', 'volodymyr:0.2426', 'israel:0.2365', 'fly:0.2231', 'war:0.1963', 'afp:0.1865', 'zone:0.1734', 'president:0.1654', 'news:0.1613', 'read:0.1199', 'coverage:0.1181', 'rule:0.1169', 'concern:0.1031', 'paywall:0.0906', 'outlet:0.0847', 'unlike:0.0816', 'pleased:0.0748', 'report:0.0682', 'condemns:0.0671', 'join:0.0608', 'times:0.0595', 'thats:0.0575', 'insightful:0.0529', 'today:0.0459', 'really:0.0444', 'little:0.0361', 'discern:0.0333', 'havent:-0.035']+titles_keywords+['zelensky:0.5134', 'nato:0.4085', 'nofly:0.2576', 'condemns:0.1512', 'rule:0.1388']"
+        ]
+    ]
+}

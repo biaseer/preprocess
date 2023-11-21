@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20211222+../news_crawling/RUS_UKR/p_articles/themoscowtimes.com/Russia Expects Security Talks With US NATO in January.txt+eventbasecode112+eventcode112+avgtone0.49043062200956933+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['nato:0.5102', 'russia:0.3305', 'sergei:0.3067', 'negotiation:0.2889', 'eurasian:0.229', 'invasion:0.2088', 'concern:0.2022', 'security:0.1895', 'news:0.1786', 'january:0.1654', 'come:0.1561', 'prepared:0.1524', 'plan:0.1493', 'document:0.1481', 'step:0.1444', 'defend:0.1362', 'draft:0.1353', 'begin:0.1341', 'contact:0.126', 'reiterate:0.1251', 'week:0.1232', 'rt:0.1122', 'state:0.1026', 'desirable:0.1007', 'hope:0.0991', 'say:0.0928', 'panel:0.0924', 'assistant:0.0794', 'mount:0.078', 'bilateral:0.0622']+titles_keywords+['nato:0.4204', 'russia:0.2432', 'talks:0.2079', 'january:0.1835', 'security:0.1728']"
+        ]
+    ],
+    "WST+RUS+112":[
+        [
+            "20211214+../news_crawling/RUS_UKR/p_articles/themoscowtimes.com/2 in 5 Russians Believe War With Ukraine Likely Poll.txt+eventbasecode112+eventcode112+avgtone0.4580152671755725+goldsteinscale0.4+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.01644736842105263+news_keywords+['ukraines:0.4987', 'russian:0.4129', 'moscows:0.3777', 'nato:0.3684', 'war:0.321', 'troop:0.2055', 'tension:0.1921', 'standoff:0.1751', 'accusation:0.1705', 'border:0.1696', 'levada:0.1636', 'maneuver:0.1607', 'eastward:0.1496', 'breakaway:0.1419', 'survey:0.1353', 'remain:0.1346', 'respondent:0.1318', 'believe:0.1275', 'unavoidable:0.1232', 'counterpart:0.113', 'current:0.0922', 'group:0.0861', 'younger:0.0836', 'publish:0.0781', 'nov:0.0776', 'heighten:0.0591', 'half:0.0568', 'exactly:0.0425', 'little:0.0406', 'highly:0.0039']+titles_keywords+['russians:0.4564', 'war:0.3128', 'poll:0.2516', 'believe:0.2205', 'likely:0.1399']"
+        ]
+    ]
+}

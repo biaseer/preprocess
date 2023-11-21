@@ -1,0 +1,12 @@
+{
+    "POL+RUS+130":[
+        [
+            "20211231+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Putin New Germanybound pipeline may help reduce prices.txt+eventbasecode130+eventcode130+avgtone0.49528301886792453+goldsteinscale0.27999999999999997+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['pipeline:0.4365', 'putin:0.3781', 'russias:0.3082', 'germanybound:0.2833', 'gas:0.27', 'nord:0.2353', 'gazprom:0.2285', 'supply:0.2139', 'increase:0.205', 'transit:0.198', 'stabilize:0.1811', 'surge:0.1675', 'reduce:0.1566', 'approval:0.1332', 'attack:0.1313', 'project:0.1213', 'trillion:0.1203', 'natural:0.1163', 'wont:0.1068', 'directly:0.0972', 'point:0.0941', 'price:0.092', 'await:0.0906', 'washington:0.0883', 'certainly:0.0877', 'long:0.0801', 'new:0.0709', 'link:0.0624', 'say:0.0417', 'wednesday:0.032']+titles_keywords+['pipeline:0.4355', 'putin:0.3772', 'germanybound:0.3613', 'reduce:0.171', 'prices:0.1657']"
+        ]
+    ],
+    "WST+RUS+130":[
+        [
+            "20211123+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Is Putin SaberRattling or Preparing for War.txt+eventbasecode130+eventcode130+avgtone0.47669664758789865+goldsteinscale0.27999999999999997+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.006578947368421052+news_keywords+['putin:0.5218', 'crimean:0.4752', 'russias:0.4115', 'nato:0.3978', 'airstrikes:0.3826', 'geopolitical:0.3756', 'armageddon:0.3219', 'tactical:0.3055', 'disinformation:0.3016', 'prepare:0.2968', 'threaten:0.2892', 'incursion:0.2761', 'feint:0.2686', 'predictable:0.2674', 'annex:0.2626', 'dangerous:0.2396', 'alarm:0.2395', 'playbook:0.2221', 'know:0.2149', 'pipeline:0.1947', 'secretary:0.1823', 'analyses:0.1744', 'rehash:0.1684', 'capital:0.1467', 'creating:0.1465', 'end:0.1393', 'swathe:0.1349', 'week:0.1171', 'possible:0.1082', 'unresolved:0.0565']+titles_keywords+['putin:0.5297', 'saberrattling:0.4244', 'war:0.3746', 'preparing:0.3596']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "CAN+UKR+30":[
+        [
+            "20220121+../news_crawling/RUS_UKR/p_articles/kelo.com/Canada to offer Ukraine a loan of up to C120 million as Russia crisis deepens.txt+eventbasecode30+eventcode30+avgtone0.4969512195121951+goldsteinscale0.7+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4874', 'russias:0.3763', 'canada:0.3635', 'trudeau:0.3391', 'loan:0.254', 'ottawa:0.2455', 'provide:0.1896', 'destabilize:0.1877', 'help:0.1851', 'crisis:0.1842', 'government:0.1681', 'border:0.161', 'troop:0.1574', 'economic:0.1531', 'send:0.1433', 'million:0.1312', 'resilience:0.1241', 'weapon:0.1212', 'news:0.1152', 'offer:0.1122', 'meet:0.1083', 'movement:0.1042', 'option:0.1039', 'prime:0.1034', 'look:0.0959', 'friday:0.0932', 'aim:0.0707', 'unacceptable:0.0654', 'near:0.058', 'absolutely:0.0355']+titles_keywords+['ukraine:0.4335', 'loan:0.2453', 'c120:0.1505', 'pm:0.1407', 'deepens:0.0239']"
+        ]
+    ],
+    "UKR+RUS+30":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/kelo.com/Ukraine to support crop sowing campaign says prime minister.txt+eventbasecode30+eventcode30+avgtone0.515+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['crop:0.3741', 'ukraines:0.3562', 'sow:0.354', 'supply:0.2971', 'support:0.2531', 'food:0.2525', 'plan:0.2499', 'campaign:0.2406', 'lviv:0.2237', 'sufficient:0.2036', 'government:0.2024', 'safeguard:0.2018', 'invasion:0.1873', 'reuters:0.1866', 'future:0.1808', 'product:0.1791', 'soon:0.1789', 'month:0.1789', 'implement:0.1582', 'shmygal:0.1495', 'start:0.1329', 'statement:0.1092', 'basic:0.0954', 'effort:0.0947', 'amid:0.0905', 'say:0.0756', 'think:0.0738', 'possible:0.0716', 'denys:0.0588', 'prime:0.0559']+titles_keywords+['ukraine:0.3612', 'sowing:0.2791', 'campaign:0.2321', 'prime:0.042', 'says:-0.0129']"
+        ]
+    ]
+}

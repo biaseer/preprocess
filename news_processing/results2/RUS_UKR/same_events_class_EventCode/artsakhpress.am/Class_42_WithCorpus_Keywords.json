@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+42":[
+        [
+            "20220124+../news_crawling/RUS_UKR/p_articles/artsakhpress.am/US orders families of embassy staff to leave Ukraine.txt+eventbasecode42+eventcode42+avgtone0.4961977186311788+goldsteinscale0.595+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.009868421052631578+news_keywords+['evacuation:0.4607', 'kyiv:0.4272', 'diplomat:0.2876', 'military:0.2706', 'travel:0.2627', 'department:0.2207', 'remain:0.2147', 'open:0.1898', 'news:0.159', 'tension:0.1587', 'relatives:0.1559', 'border:0.1555', 'notice:0.1512', 'covid:0.1483', 'advise:0.1473', 'eastern:0.1445', 'authorize:0.1432', 'state:0.1394', 'plan:0.1238', 'report:0.1106', 'stepanakert:0.1081', 'voluntary:0.1025', 'ordering:0.1006', 'january:0.0744', 'artsakhpress:0.0694', 'deteriorate:0.0633', 'cite:0.0594', 'wellereported:0.0483', 'say:0.043', 'particularly:-0.0328']+titles_keywords+['ukraine:0.363', 'embassy:0.3268', 'families:0.2562', 'leave:0.2326', 'orders:0.1313']"
+        ],
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/artsakhpress.am/Number of victims injured at Crimea airfield blast rises to 13.txt+eventbasecode42+eventcode42+avgtone0.446524064171123+goldsteinscale0.595+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.003289473684210526+news_keywords+['crimean:0.4423', 'airfield:0.3487', 'explosion:0.3416', 'novofyodorovka:0.2564', 'incident:0.2241', 'injure:0.2163', 'hospital:0.2079', 'kill:0.1954', 'report:0.1928', 'russias:0.1906', 'victim:0.1737', 'operate:0.1637', 'simferopol:0.1457', 'cite:0.1424', 'underage:0.1342', 'underway:0.1342', 'artsakhpress:0.1283', 'number:0.1251', 'people:0.1187', 'cause:0.1153', 'point:0.1138', 'zarina:0.0954', 'federal:0.0933', 'capital:0.0913', 'care:0.0795', 'tass:0.0788', 'rise:0.0746', 'august:0.0631', 'normally:0.0574', 'head:0.0132']+titles_keywords+['crimea:0.3067', 'airfield:0.2423', 'victims:0.2208', '13:0.2138', 'blast:0.2107']"
+        ]
+    ],
+    "RUS+USA+42":[
+        [
+            "20210901+../news_crawling/RUS_UKR/p_articles/artsakhpress.am/Defense agreement marks new stage in cooperation with US Ukrainian president.txt+eventbasecode42+eventcode42+avgtone0.5220588235294117+goldsteinscale0.595+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['nato:0.4974', 'ukrainian:0.3789', 'zelensky:0.2939', 'vladimir:0.2928', 'cooperation:0.2755', 'defense:0.2439', 'strategic:0.2318', 'president:0.2236', 'agreement:0.1922', 'meeting:0.1608', 'states:0.1558', 'department:0.1522', 'cyber:0.1297', 'framework:0.1293', 'continue:0.128', 'sign:0.1278', 'priority:0.1278', 'stage:0.1238', 'read:0.1018', 'implement:0.0955', 'artsakhpress:0.0776', 'ensure:0.076', 'tass:0.0749', 'area:0.074', 'bilateral:0.0715', 'intel:0.0693', 'stepanakert:0.0669', 'gain:0.0664', 'share:0.0613', 'earlier:0.0342']+titles_keywords+['ukrainian:0.348', 'president:0.2557', 'defense:0.2039', 'agreement:0.2008', 'stage:0.1658']"
+        ]
+    ]
+}

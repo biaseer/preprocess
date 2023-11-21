@@ -1,0 +1,18 @@
+{
+    "EUR+UKR+90":[
+        []
+    ],
+    "RUS+UKR+90":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/sfgate.com/Russian soldiers in Ukraine sabotaged own equipment UK spy chief says.txt+eventbasecode90+eventcode90+avgtone0.4814004376367615+goldsteinscale0.4+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.009868421052631578+news_keywords+['putin:0.5222', 'ukrainians:0.4458', 'kyiv:0.4167', 'annexation:0.3199', 'strategic:0.313', 'war:0.3094', 'spy:0.2598', 'separatist:0.2425', 'troop:0.2392', 'indoctrinate:0.2213', 'adviser:0.221', 'corroborate:0.2133', 'turn:0.196', 'portrays:0.1914', 'consequence:0.1664', 'chaos:0.1598', 'alexey:0.1594', 'newsletter:0.1587', 'short:0.1578', 'order:0.1548', 'device:0.1452', 'donbas:0.1419', 'galvanize:0.126', 'grow:0.125', 'ordinary:0.1136', 'global:0.1013', 'like:0.1001', 'underestimating:0.088', 'pleasure:0.0745', 'actually:0.0688']+titles_keywords+['ukraine:0.3898', 'spy:0.3347', 'soldiers:0.3242', 'sabotaged:0.2858', 'equipment:0.2017']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/sfgate.com/Forest fires near Russianheld Chernobyl nuclear plant raise radiation fears Ukraine says.txt+eventbasecode90+eventcode90+avgtone0.46231617647058826+goldsteinscale0.4+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.003289473684210526+news_keywords+['chernobyl:0.6123', 'fires:0.3476', 'reactor:0.3378', 'radiation:0.3094', 'radioisotope:0.2693', 'hazardous:0.2662', 'evacuate:0.2384', 'russian:0.2175', 'forest:0.1946', 'concerned:0.186', 'plant:0.162', 'military:0.1609', 'nasa:0.1518', 'goddard:0.1408', 'occur:0.131', 'reporter:0.1292', 'iaea:0.1195', 'region:0.1169', 'cover:0.1079', 'despite:0.0721', 'structure:0.0638', 'external:0.0579', 'timothy:0.0533', 'strelets:0.0515', 'story:0.0407', 'longer:0.0243', 'rotation:0.0225', 'decrease:0.0195', 'add:-0.0042', 'today:-0.0148']+titles_keywords+['chernobyl:0.548', 'fires:0.3181', 'ukraine:0.3148', 'forest:0.2237', 'says:0.0022']"
+        ]
+    ],
+    "USA+UKR+90":[
+        []
+    ]
+}

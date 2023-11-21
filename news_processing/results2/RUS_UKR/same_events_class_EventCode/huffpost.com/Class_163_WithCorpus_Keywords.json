@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+163":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/huffpost.com/US And Russia Square Off At UN Security Council.txt+eventbasecode163+eventcode163+avgtone0.47750511247443767+goldsteinscale0.1+nummentions0.9426705370101597+numarticles0.9427121102248006+numsources0.9243421052631579+news_keywords+['putin:0.445', 'diplomacy:0.4437', 'ukraines:0.4286', 'nato:0.4146', 'russophobes:0.3726', 'invade:0.3212', 'sanction:0.3164', 'escalation:0.3162', 'cyberattacks:0.3053', 'veto:0.295', 'warn:0.2538', 'rhetoric:0.2483', 'oppose:0.2466', 'border:0.2457', 'ouster:0.2368', 'prepare:0.2208', 'spar:0.2204', 'pretext:0.2147', 'understand:0.1836', 'psaki:0.1825', 'whip:0.1785', 'monday:0.1742', 'word:0.1674', 'happen:0.1501', 'warm:0.15', 'formal:0.1487', 'whats:0.1392', 'rotate:0.1257', 'fabricate:0.1248', 'arent:0.1241']+titles_keywords+['russia:0.3209', 'council:0.2222', 'square:0.1381', 'security:0.0893']"
+        ]
+    ],
+    "WST+RUS+163":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/huffpost.com/Madeleine Albright Foresaw Putins Historic Mistake In Final OpEd Before She Died.txt+eventbasecode163+eventcode163+avgtone0.4691119691119691+goldsteinscale0.1+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['putin:0.5737', 'russias:0.3599', 'nato:0.3436', 'invade:0.2686', 'secretary:0.2217', 'diplomatically:0.2161', 'report:0.2102', 'woman:0.2091', 'madeleine:0.2089', 'foresaw:0.2066', 'ally:0.2051', 'historic:0.1978', 'reptilian:0.1969', 'economic:0.1916', 'error:0.1846', 'expect:0.1802', 'note:0.1717', 'denounce:0.1685', 'died:0.1665', 'column:0.1653', 'vulnerable:0.1649', 'pave:0.1591', 'collapse:0.1445', 'time:0.1423', 'oped:0.1313', 'greatness:0.1283', 'meet:0.1199', 'albright:0.1111', 'state:0.0814', 'feb:0.0812']+titles_keywords+['putins:0.3982', 'madeleine:0.3352', 'albright:0.2287', 'foresaw:0.2146', 'oped:0.1783']"
+        ]
+    ]
+}

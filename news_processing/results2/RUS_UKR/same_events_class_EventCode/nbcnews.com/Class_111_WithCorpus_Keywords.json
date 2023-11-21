@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20211229+../news_crawling/RUS_UKR/p_articles/nbcnews.com/Biden Putin to speak Thursday amid growing tensions over Ukraine.txt+eventbasecode111+eventcode111+avgtone0.4344262295081965+goldsteinscale0.4+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['putin:0.505', 'diplomacy:0.4847', 'crimean:0.4306', 'biden:0.3733', 'escalation:0.3172', 'annex:0.2774', 'border:0.2646', 'coordinate:0.2452', 'speaking:0.2329', 'separatist:0.2287', 'expect:0.2267', 'pipeline:0.2245', 'shortly:0.2191', 'zelenskyy:0.2149', 'oppose:0.2066', 'fight:0.1963', 'consult:0.1866', 'military:0.1857', 'washington:0.1803', 'continue:0.1788', 'hesitate:0.1776', 'discus:0.1711', 'say:0.1677', 'emily:0.1581', 'come:0.152', 'draw:0.1479', 'virtual:0.1162', 'blinken:0.1074', 'price:0.0825', 'senior:0.0808']+titles_keywords+['putin:0.4548', 'biden:0.4542', 'speak:0.3212', 'thursday:0.2021', 'tensions:0.1551']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220129+../news_crawling/RUS_UKR/p_articles/nbcnews.com/Russias military buildup near Ukraine includes blood supplies officials say.txt+eventbasecode111+eventcode111+avgtone0.47906602254428343+goldsteinscale0.4+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.0+news_keywords+['crimea:0.4494', 'nato:0.4348', 'putin:0.4054', 'russias:0.3947', 'invades:0.3451', 'war:0.3361', 'prepare:0.31', 'troop:0.2963', 'reuters:0.2927', 'blood:0.263', 'standoff:0.2507', 'deployment:0.2476', 'supply:0.2463', 'prediction:0.2157', 'enlargement:0.2108', 'border:0.2052', 'separatist:0.2049', 'information:0.2041', 'analysis:0.191', 'pull:0.1823', 'volodymyr:0.177', 'friday:0.1758', 'detect:0.167', 'near:0.1547', 'respond:0.1521', 'general:0.1292', 'note:0.1279', 'new:0.1133', 'state:0.1036', 'unless:0.0732']+titles_keywords+['ukraine:0.4068', 'blood:0.3302', 'supplies:0.2672', 'military:0.2441', 'buildup:0.2017']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220120+../news_crawling/RUS_UKR/p_articles/ledburyreporter.co.uk/Boris Johnson warns of disaster for Russia if it invades Ukraine.txt+eventbasecode12+eventcode12+avgtone0.4795918367346939+goldsteinscale0.48+nummentions0.14150943396226415+numarticles0.14213197969543148+numsources0.1611842105263158+news_keywords+['putin:0.4721', 'russias:0.4064', 'invade:0.3932', 'nato:0.3902', 'kiev:0.3616', 'war:0.3162', 'strategic:0.2888', 'sovereignty:0.2538', 'incursion:0.2525', 'warn:0.2429', 'destabilise:0.2363', 'border:0.2323', 'prepare:0.2272', 'concern:0.2162', 'news:0.1979', 'debate:0.1928', 'downing:0.1853', 'order:0.1633', 'uks:0.163', 'secretary:0.1538', 'thursday:0.1469', 'look:0.1301', 'mistake:0.1241', 'closely:0.1157', 'deep:0.113', 'believe:0.1078', 'withdraw:0.1036', 'agree:0.1012', 'scale:0.0902', 'blinken:0.0745']+titles_keywords+['boris:0.3996', 'ukraine:0.3392', 'invades:0.2391', 'disaster:0.2226', 'warns:0.1992']"
+        ],
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/ledburyreporter.co.uk/98 Irish citizens registered with Ukraine embassy.txt+eventbasecode12+eventcode12+avgtone0.49311926605504586+goldsteinscale0.48+nummentions0.12010159651669086+numarticles0.12073966642494562+numsources0.26644736842105265+news_keywords+['ukraine:0.4901', 'russiaukraine:0.4478', 'nato:0.3595', 'irelands:0.3138', 'sovereignty:0.3049', 'consular:0.2807', 'troop:0.2739', 'parliamentary:0.2332', 'gael:0.233', 'affairs:0.2308', 'remain:0.2135', 'colleague:0.176', 'escalate:0.1721', 'north:0.1575', 'safe:0.1563', 'pulling:0.1542', 'debate:0.1476', 'want:0.1358', 'important:0.125', 'lively:0.1128', 'dmytrokuleba:0.1097', 'long:0.1095', 'plan:0.1083', 'weapon:0.0991', 'abused:0.0922', 'story:0.0915', 'official:0.0842', 'tomorrow:0.075', 'right:0.0712', 'focus:0.0263']+titles_keywords+['ukraine:0.4178', 'irish:0.3941', 'embassy:0.33', 'registered:0.3043', '98:0.1634']"
+        ]
+    ]
+}

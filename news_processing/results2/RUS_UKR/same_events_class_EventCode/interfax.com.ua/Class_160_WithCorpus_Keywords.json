@@ -1,0 +1,13 @@
+{
+    "RUS+UKR+160":[
+        [
+            "20220118+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Russian embassy in Kyiv functioning as usual Russian Foreign Ministry.txt+eventbasecode160+eventcode160+avgtone0.49264705882352944+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.4925', 'embassy:0.4122', 'ukraine:0.3661', 'diplomat:0.3174', 'russian:0.2855', 'russia:0.2753', 'operate:0.2377', 'function:0.2013', 'evacuate:0.1959', 'usual:0.1799', 'foreign:0.0964', 'tuesday:0.0885', 'york:0.0857', 'report:0.0827', 'ministry:0.0622', 'asked:0.0371', 'say:0.0146', 'comment:-0.0246', 'new:-0.0468', 'times:-0.0756']+titles_keywords+['kyiv:0.5314', 'embassy:0.3844', 'russian:0.3283', 'functioning:0.209', 'usual:0.1658']"
+        ],
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Russian troops try to deploy evacuation buses from Mariupol to Donetsk Yemchenko.txt+eventbasecode160+eventcode160+avgtone0.47633136094674555+goldsteinscale0.3+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4782', 'donetsk:0.4768', 'evacuation:0.4551', 'russian:0.4346', 'hostage:0.3324', 'troop:0.3283', 'deploy:0.3232', 'bus:0.2739', 'leave:0.2645', 'yemchenko:0.2261', 'turn:0.2212', 'zaporizhia:0.2148', 'passports:0.1957', 'settlement:0.1743', 'people:0.1674', 'ban:0.1665', 'berdiansk:0.1661', 'force:0.1589', 'write:0.1521', 'enter:0.1496', 'stop:0.141', 'mariupol:0.1378', 'mangush:0.1266', 'relation:0.1181', 'exchange:0.1176', 'scm:0.1077', 'actively:0.1004', 'suppose:0.0687', 'today:0.0618', 'year:0.0563']+titles_keywords+['evacuation:0.4162', 'donetsk:0.368', 'buses:0.3558', 'yemchenko:0.2542', 'mariupol:0.1807']"
+        ],
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Wizz Air extends cancellation of flights from Ukraine until July sharply cuts number of destinations.txt+eventbasecode160+eventcode160+avgtone0.4940239043824701+goldsteinscale0.3+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['flights:0.4455', 'ukraine:0.3895', 'warsaw:0.3673', 'booking:0.3539', 'cancel:0.353', 'wroclaw:0.2939', 'ticket:0.2906', 'schedule:0.26', 'rout:0.2586', 'war:0.2579', 'abu:0.2532', 'extend:0.2509', 'wizz:0.23', 'cut:0.2251', 'plan:0.2186', 'reduce:0.216', 'route:0.2077', 'exchange:0.2019', 'remain:0.1926', 'future:0.1919', 'cost:0.187', 'month:0.1768', 'larnaca:0.1663', 'frequency:0.1537', 'report:0.1536', 'company:0.1524', 'end:0.142', 'information:0.1327', 'particular:0.125', 'according:0.0883']+titles_keywords+['flights:0.3442', 'wizz:0.3326', 'ukraine:0.325', 'cancellation:0.3141', 'july:0.1386']"
+        ]
+    ]
+}

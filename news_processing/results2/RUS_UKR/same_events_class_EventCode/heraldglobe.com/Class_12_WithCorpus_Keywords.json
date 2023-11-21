@@ -1,0 +1,12 @@
+{
+    "FRA+UKR+12":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/heraldglobe.com/Putin scheduled to have phone call with Macron amid RussiaUkraine tensions.txt+eventbasecode12+eventcode12+avgtone0.484375+goldsteinscale0.48+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.019736842105263157+news_keywords+['putin:0.4501', 'crimea:0.397', 'macron:0.3718', 'telephone:0.2735', 'escalation:0.2733', 'tensions:0.2522', 'conversation:0.2415', 'emergencies:0.2324', 'border:0.2223', 'europe:0.218', 'separatist:0.2102', 'schedule:0.21', 'military:0.203', 'news:0.1831', 'report:0.1677', 'coordination:0.1523', 'decree:0.1343', 'quick:0.1328', 'day:0.132', 'donbas:0.1316', 'drill:0.1293', 'elysee:0.1259', 'partner:0.1205', 'open:0.1092', 'complete:0.1068', 'january:0.1063', 'roughly:0.1026', 'step:0.0948', 'strong:0.0947', 'contrary:0.0869']+titles_keywords+['putin:0.4111', 'macron:0.3536', 'phone:0.1995', 'tensions:0.1099', 'scheduled:0.0963']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/heraldglobe.com/Russia names profiteers from Ukraine crisis.txt+eventbasecode12+eventcode12+avgtone0.4790502793296089+goldsteinscale0.48+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.009868421052631578+news_keywords+['ukraine:0.5333', 'kremlin:0.4893', 'nato:0.3976', 'nikolay:0.3128', 'embargo:0.3119', 'economic:0.2662', 'trump:0.2577', 'crisis:0.2474', 'unprovoked:0.2242', 'pipeline:0.2146', 'supplier:0.1999', 'coal:0.1973', 'breakaway:0.1921', 'term:0.1841', 'protocol:0.1808', 'report:0.176', 'future:0.1756', 'sector:0.1706', 'bloc:0.1687', 'neutral:0.1686', 'retreat:0.1589', 'hostility:0.1582', 'scrap:0.1543', 'state:0.1423', 'agreement:0.1417', 'semiconductors:0.1361', 'donbass:0.1361', 'use:0.1337', 'trade:0.1263', 'molecule:0.119']+titles_keywords+['ukraine:0.5263', 'russia:0.4406', 'profiteers:0.4391', 'names:0.2979', 'crisis:0.1981']"
+        ]
+    ]
+}

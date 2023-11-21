@@ -1,0 +1,17 @@
+{
+    "ETH+RUS+51":[
+        [
+            "20220724+../news_crawling/RUS_UKR/p_articles/prokerala.com/African Union hails RussiaUkraine grain export deal By IANS Published on Sun Jul 24 2022.txt+eventbasecode51+eventcode51+avgtone0.5049261083743842+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.3601', 'au:0.3223', 'ababa:0.2298', 'grain:0.2253', 'african:0.2195', 'union:0.2094', 'oil:0.1931', 'produce:0.1877', 'chairperson:0.1826', 'kubrakov:0.1816', 'moussa:0.1775', 'xinhua:0.1669', 'infrastructure:0.1539', 'general:0.1401', 'oleksandr:0.1333', 'exporter:0.1169', 'sunflower:0.1166', 'world:0.1093', 'breadbaskets:0.1025', 'deal:0.0987', 'current:0.0864', 'commend:0.0853', 'statement:0.0825', 'hail:0.0808', 'trkiye:0.0797', 'month:0.0751', 'published:0.058', 'officially:0.0463', 'ist:0.0279', 'resumption:-0.0076']+titles_keywords+['russiaukraine:0.4102', 'grain:0.3383', 'export:0.2522', 'hails:0.2436', 'deal:0.1863']"
+        ]
+    ],
+    "TUR+RUS+51":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/prokerala.com/Netherlands lends support to Turkeys mediation role in Ukraine crisis By IANS Published on Wed.txt+eventbasecode51+eventcode51+avgtone0.49514563106796117+goldsteinscale0.67+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.006578947368421052+news_keywords+['ukraine:0.4332', 'ankara:0.4154', 'nato:0.3977', 'erdogan:0.3919', 'dutch:0.3085', 'mediation:0.3046', 'turkeys:0.2594', 'political:0.1811', 'develop:0.1655', 'news:0.1584', 'role:0.1516', 'rutte:0.1442', 'ist:0.1441', 'lend:0.1437', 'responding:0.1426', 'ahead:0.1385', 'float:0.133', 'precaution:0.1294', 'visit:0.1277', 'trade:0.1222', 'wire:0.1142', 'ally:0.1098', 'issue:0.1006', 'currently:0.0876', 'recep:0.0834', 'pleased:0.07', 'like:0.0683', 'mark:0.0681', 'necessary:0.0651', 'billion:0.0329']+titles_keywords+['netherlands:0.4226', 'mediation:0.3763', 'turkeys:0.332', 'ist:0.1607', '2022:0.129']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/prokerala.com/European tensions Stocks plunge on geopolitics realty shares down Ld By IANS Published on Tue.txt+eventbasecode51+eventcode51+avgtone0.48091603053435117+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['geopolitical:0.5172', 'sensex:0.4334', 'putin:0.3749', 'securities:0.3604', 'downtrend:0.3507', 'tension:0.3431', 'kiev:0.3333', 'india:0.309', 'oil:0.292', 'plunge:0.2458', 'global:0.2412', 'independence:0.2376', 'commodity:0.2363', 'lead:0.2216', 'sp:0.2141', 'monday:0.1945', 'order:0.1921', 'gaurav:0.1921', 'sector:0.1909', 'point:0.1839', 'drain:0.1812', 'key:0.1734', 'capitalvia:0.1609', 'subdue:0.1567', 'troop:0.155', 'act:0.1478', 'previous:0.1283', 'ians:0.1257', 'head:0.1213', 'share:0.0988']+titles_keywords+['geopolitics:0.4724', 'tensions:0.4469', 'plunge:0.331', 'stocks:0.2441', 'ist:0.1333']"
+        ]
+    ]
+}

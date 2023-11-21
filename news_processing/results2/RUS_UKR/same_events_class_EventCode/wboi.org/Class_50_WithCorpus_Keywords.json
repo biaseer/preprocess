@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+50":[
+        [
+            "20220203+../news_crawling/RUS_UKR/p_articles/wboi.org/Rep Adam Schiff on latest US efforts to resolve crisis between Russia and Ukraine.txt+eventbasecode50+eventcode50+avgtone0.5+goldsteinscale0.675+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.03618421052631579+news_keywords+['putin:0.4685', 'nato:0.4104', 'threat:0.3573', 'ukrainians:0.3534', 'senate:0.3359', 'sanction:0.3223', 'diplomatic:0.3119', 'goad:0.2705', 'flag:0.2639', 'briefing:0.2584', 'incursion:0.2581', 'border:0.256', 'schiff:0.2533', 'imminent:0.2469', 'scope:0.2291', 'react:0.2127', 'ought:0.2079', 'realize:0.2074', 'want:0.2032', 'conclude:0.2027', 'tense:0.1859', 'ally:0.1841', 'happen:0.1808', 'chair:0.1731', 'sure:0.1497', 'house:0.142', 'long:0.1383', 'classify:0.1273', 'difference:0.1097', 'welcome:0.0814']+titles_keywords+['schiff:0.5188', 'ukraine:0.2832', 'adam:0.1902', 'efforts:0.189', 'latest:0.1334']"
+        ],
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/wboi.org/After atrocities many Ukrainians arent interested in negotiating peace with Russia.txt+eventbasecode50+eventcode50+avgtone0.5116279069767442+goldsteinscale0.675+nummentions0.08345428156748912+numarticles0.044960116026105876+numsources0.05592105263157895+news_keywords+['ukraine:0.4627', 'war:0.4339', 'diplomatic:0.3584', 'zelenskyy:0.3308', 'busharov:0.3298', 'government:0.2502', 'interpreter:0.2302', 'know:0.2138', 'atrocity:0.2122', 'continue:0.2119', 'situation:0.2102', 'speak:0.2044', 'future:0.2022', 'navigate:0.1764', 'npr:0.1728', 'view:0.1686', 'short:0.1676', 'believe:0.1647', 'bleak:0.1575', 'alleviate:0.1502', 'anecdotes:0.1434', 'child:0.1405', 'arent:0.133', 'mak:0.1256', 'month:0.1141', 'way:0.1103', 'population:0.1077', 'manufacture:0.101', 'interested:0.089', 'set:0.0742']+titles_keywords+['ukrainians:0.4856', 'negotiating:0.2913', 'peace:0.2531', 'atrocities:0.2494', 'arent:0.1256']"
+        ]
+    ]
+}

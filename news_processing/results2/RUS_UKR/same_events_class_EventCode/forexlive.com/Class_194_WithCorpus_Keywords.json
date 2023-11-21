@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/forexlive.com/Risk continues its drop CAD AUD NZD equities all sliding further.txt+eventbasecode194+eventcode194+avgtone0.4611111111111111+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['usdjpy:0.3435', 'future:0.3281', 'risk:0.3062', 'stock:0.2869', 'hope:0.2676', 'ceasefire:0.2649', 'weekend:0.2606', 'usd:0.255', 'drop:0.2547', 'index:0.2365', 'talk:0.2336', 'continue:0.2316', 'equity:0.2166', 'nzd:0.2139', 'flex:0.2094', 'regional:0.2083', 'slide:0.201', 'wan:0.1957', 'today:0.1777', 'build:0.1708', 'gain:0.1642', 'help:0.1574', 'cad:0.1498', 'hit:0.1497', 'year:0.1224', 'equioty:0.1146', 'time:0.0954', 'high:0.0951', 'big:0.0937', 'somewhat:0.0227']+titles_keywords+['risk:0.2847', 'sliding:0.2714', 'nzd:0.2713', 'drop:0.2363', 'continues:0.1684']"
+        ],
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/forexlive.com/Russia precisionguided missiles failure rates up to 60 in its attack on Ukraine.txt+eventbasecode194+eventcode194+avgtone0.46564885496183206+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['euro:0.5327', 'currency:0.4616', 'forex:0.426', 'eu:0.4199', 'russia:0.3678', 'missile:0.3156', 'failure:0.297', 'banknotes:0.2942', 'value:0.2841', 'precisionguided:0.2705', 'unit:0.2598', 'attack:0.2454', 'rate:0.2198', 'market:0.2189', 'make:0.1906', 'replace:0.1819', 'union:0.1711', 'second:0.1393', 'january:0.1328', 'enter:0.1233', 'physical:0.1146', 'time:0.101', 'subsequently:0.0954', 'high:0.0895', 'official:0.0797', 'vague:0.0663', 'circulation:0.0645', 'huh:0.0557', 'quite:0.0484', 'state:0.0479']+titles_keywords+['missiles:0.4574', 'ukraine:0.3793', 'precisionguided:0.3221', 'failure:0.1767', 'rates:0.126']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/kwit.org/ExUkrainian defense official doesnt expect Russia to fully invade Ukraine.txt+eventbasecode130+eventcode130+avgtone0.46590909090909094+goldsteinscale0.27999999999999997+nummentions0.022496371552975326+numarticles0.023205221174764323+numsources0.019736842105263157+news_keywords+['crimea:0.4821', 'ukrainians:0.4169', 'putin:0.378', 'invade:0.3564', 'predicts:0.293', 'prepare:0.28', 'cyberattacks:0.2735', 'worried:0.2493', 'military:0.2386', 'scenario:0.2252', 'zelenskyy:0.2201', 'timeline:0.2152', 'olympics:0.1733', 'learn:0.1695', 'stay:0.1658', 'distract:0.1633', 'eastern:0.1572', 'ok:0.1557', 'movement:0.1551', 'intend:0.1446', 'february:0.138', 'estimate:0.1368', 'report:0.132', 'npr:0.1252', 'hybrid:0.1237', 'end:0.1147', 'current:0.1078', 'major:0.1047', 'increase:0.1046', 'new:0.0956']+titles_keywords+['ukraine:0.3701', 'exukrainian:0.3347', 'invade:0.3239', 'expect:0.2401', 'official:0.0751']"
+        ],
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/kwit.org/Biden warns Putin of a decisive response if Russia invades Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4913294797687861+goldsteinscale0.27999999999999997+nummentions0.12917271407837447+numarticles0.12980420594633793+numsources0.28618421052631576+news_keywords+['putin:0.4352', 'invade:0.3691', 'prepare:0.3033', 'pentagon:0.2846', 'diplomatically:0.2783', 'inform:0.2741', 'lviv:0.2675', 'troop:0.248', 'pursue:0.2448', 'panic:0.2324', 'concern:0.2153', 'scenario:0.2143', 'predictable:0.2132', 'order:0.2074', 'unfolding:0.2062', 'update:0.2004', 'office:0.1966', 'table:0.1931', 'immediately:0.1883', 'forward:0.1876', 'stay:0.1703', 'european:0.1601', 'catastrophic:0.1577', 'repositioning:0.1566', 'state:0.1417', 'blinken:0.1232', 'official:0.118', 'bare:0.077', 'agree:0.0596', 'deescalate:0.0547']+titles_keywords+['putin:0.3925', 'biden:0.3831', 'invades:0.2541', 'decisive:0.2063', 'response:0.2062']"
+        ]
+    ]
+}

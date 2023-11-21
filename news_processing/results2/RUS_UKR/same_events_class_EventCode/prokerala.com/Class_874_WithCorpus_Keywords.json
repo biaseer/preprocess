@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/prokerala.com/Ukraine confirms partial withdrawal of Russian troops from Kiev Chernihiv directions By IANS Published on.txt+eventbasecode87+eventcode874+avgtone0.4862068965517241+goldsteinscale1.0+nummentions0.09941944847605225+numarticles0.09209572153734591+numsources0.1513157894736842+news_keywords+['kiev:0.4908', 'troop:0.3387', 'russian:0.3104', 'chernihiv:0.2937', 'relocation:0.2912', 'withdraw:0.2341', 'replenish:0.1846', 'news:0.1831', 'march:0.1812', 'general:0.1634', 'armed:0.1488', 'northern:0.1373', 'brief:0.1348', 'activity:0.1274', 'respectively:0.1206', 'reduce:0.1129', 'thu:0.1111', 'partial:0.1085', 'report:0.1066', 'ist:0.106', 'forces:0.1053', 'certain:0.1018', 'staff:0.0883', 'area:0.0701', 'loss:0.0701', 'wire:0.0597', 'big:0.0586', 'say:0.058', 'olexandr:0.0327', 'interfax:0.0002']+titles_keywords+['kiev:0.5719', 'troops:0.2611', 'partial:0.2336', 'withdrawal:0.2165', 'confirms:0.1498']"
+        ],
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/prokerala.com/Russian forces fully withdraw from northern Ukraine UK By IANS Published on Fri Apr 8.txt+eventbasecode87+eventcode874+avgtone0.49397590361445787+goldsteinscale1.0+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['kiev:0.4853', 'redeployment:0.3637', 'russia:0.3596', 'withdrawing:0.2574', 'separatist:0.2553', 'northern:0.2242', 'update:0.2159', 'strategically:0.1644', 'fully:0.1568', 'bbc:0.1475', 'continue:0.1452', 'donbas:0.1389', 'april:0.1302', 'announce:0.1295', 'text:0.1203', 'feed:0.1172', 'control:0.1163', 'ist:0.1152', 'fight:0.1145', 'main:0.1131', 'ready:0.1065', 'report:0.1021', 'published:0.0997', 'comprise:0.0963', 'force:0.0925', 'area:0.0892', 'wire:0.0665', 'shell:0.0522', 'significant:0.0275', 'likely:-0.0103']+titles_keywords+['ukraine:0.4556', 'withdraw:0.2925', 'fully:0.2358', '1303:0.2253', '2022:0.2162']"
+        ]
+    ],
+    "UKR+RUS+874":[
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/prokerala.com/Ukraine to withdraw from talks with Russia if Mariupol forces killed By IANS Published on.txt+eventbasecode87+eventcode874+avgtone0.487460815047022+goldsteinscale1.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4648', 'kiev:0.4421', 'diplomatic:0.3569', 'zelensky:0.3425', 'militarily:0.3294', 'peace:0.309', 'negotiate:0.2853', 'independence:0.2643', 'destroy:0.2509', 'territory:0.2447', 'remain:0.2369', 'instead:0.2236', 'withdraw:0.2092', 'volodymyr:0.2034', 'regiment:0.2022', 'know:0.2017', 'respond:0.1951', 'mariupol:0.1722', 'choose:0.1655', 'control:0.1625', 'rt:0.1605', 'end:0.1589', 'order:0.1554', 'reiterate:0.1489', 'april:0.1149', 'published:0.1098', 'pseudo:0.1033', 'port:0.0985', 'able:0.0949', 'ians:0.078']+titles_keywords+['ukraine:0.4571', 'mariupol:0.2871', 'withdraw:0.2663', '1342:0.1942', 'killed:0.1935']"
+        ]
+    ]
+}

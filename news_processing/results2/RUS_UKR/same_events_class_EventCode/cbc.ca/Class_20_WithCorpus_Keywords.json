@@ -1,0 +1,17 @@
+{
+    "DEU+RUS+20":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/cbc.ca/Former Russian PM says country will start to doubt Putins leadership as sanctions hit harder.txt+eventbasecode20+eventcode20+avgtone0.48848684210526316+goldsteinscale0.65+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.003289473684210526+news_keywords+['putin:0.5547', 'ukraine:0.4629', 'kasyanov:0.4124', 'kgb:0.4009', 'regime:0.3558', 'propaganda:0.3504', 'marchenko:0.3126', 'correspondent:0.2681', 'finance:0.2477', 'transition:0.2251', 'sanction:0.2195', 'remain:0.2151', 'power:0.2026', 'humanitarian:0.1937', 'situation:0.192', 'begin:0.1726', 'help:0.1682', 'fool:0.1646', 'cbc:0.1578', 'say:0.1541', 'becauseukraine:0.1521', 'month:0.1501', 'billion:0.1499', 'gas:0.1481', 'eat:0.1406', 'exportsto:0.1374', 'polling:0.1289', 'accurate:0.1241', 'divide:0.1214', 'normal:0.092']+titles_keywords+['putins:0.3539', 'sanctions:0.2846', 'doubt:0.2281', 'leadership:0.1756', 'says:0.017']"
+        ]
+    ],
+    "UKR+CAN+20":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/cbc.ca/Visit to Ukraine turned into a 1way trip for Quebec woman.txt+eventbasecode20+eventcode20+avgtone0.46741573033707867+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.5285', 'nato:0.4064', 'militarily:0.3117', 'invasion:0.2744', 'turn:0.2563', 'gatineau:0.2476', 'stay:0.2464', 'visit:0.2341', 'plan:0.2191', 'help:0.2182', 'governmentshaveimposed:0.2159', 'dronova:0.2134', 'zelensky:0.2099', 'escalate:0.1976', 'fight:0.1909', 'understand:0.1795', 'fly:0.1786', 'want:0.1757', 'mourn:0.1676', 'covid:0.1596', 'long:0.1555', 'end:0.1503', 'president:0.1382', 'forsafety:0.1343', 'zone:0.1316', 'ready:0.1266', 'way:0.1262', 'house:0.1231', 'feb:0.1053', 'send:0.0781']+titles_keywords+['ukraine:0.4373', 'quebec:0.3498', 'trip:0.254', '1way:0.2372', 'woman:0.2167']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/cbc.ca/Russias military losses in Ukraine continue to mount Heres a look at why the death.txt+eventbasecode20+eventcode20+avgtone0.47162162162162163+goldsteinscale0.65+nummentions0.013425253991291727+numarticles0.014140681653372008+numsources0.03289473684210526+news_keywords+['ukraine:0.4645', 'comrade:0.4124', 'warfare:0.3984', 'nato:0.3815', 'casualty:0.2803', 'bloodier:0.238', 'die:0.226', 'autocratic:0.2181', 'saidthatan:0.1995', 'long:0.1953', 'fact:0.1827', 'isa:0.1817', 'order:0.1781', 'experts:0.178', 'end:0.1749', 'report:0.1615', 'stay:0.1605', 'theseheavy:0.1534', 'study:0.1508', 'clear:0.1493', 'effect:0.1378', 'serviceshave:0.1349', 'like:0.1299', 'acknowledge:0.1206', 'calculate:0.1174', 'casesof:0.1111', 'manyhighly:0.1061', 'inadequateequipment:0.1028', 'dorn:0.0846', 'deal:0.0646']+titles_keywords+['ukraine:0.4215', 'losses:0.2757', 'toll:0.1877', 'continue:0.1631', 'look:0.101']"
+        ]
+    ]
+}

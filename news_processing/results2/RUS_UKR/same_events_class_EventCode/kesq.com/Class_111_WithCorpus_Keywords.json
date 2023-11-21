@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/kesq.com/Higher food prices and slumping trade How the war in Ukraine could hitAfrica.txt+eventbasecode111+eventcode111+avgtone0.47295918367346945+goldsteinscale0.4+nummentions0.04462989840348331+numarticles0.045322697606961566+numsources0.039473684210526314+news_keywords+['ukraine:0.452', 'conflict:0.3031', 'africans:0.2533', 'economist:0.244', 'oil:0.2386', 'logistics:0.2156', 'invasion:0.2075', 'multilateral:0.1946', 'worry:0.19', 'sector:0.1649', 'wheat:0.1627', 'stock:0.159', 'gain:0.1587', 'current:0.1521', 'subregion:0.1486', 'counterpart:0.1429', 'explain:0.1349', 'adversely:0.1279', 'importer:0.1218', 'data:0.1191', 'include:0.1149', 'deal:0.1134', 'isnt:0.1057', 'immediately:0.0966', 'big:0.0888', 'feature:0.0882', 'plunge:0.0865', 'filatova:0.0736', 'year:0.0662', 'hadebe:0.0563']+titles_keywords+['ukraine:0.4044', 'war:0.3691', 'trade:0.1937', 'slumping:0.127', 'higher:0.1025']"
+        ],
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/kesq.com/Putin gives honorary title to Russian brigade accused of war crimes in Bucha.txt+eventbasecode111+eventcode111+avgtone0.4615384615384617+goldsteinscale0.4+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.019736842105263157+news_keywords+['putin:0.4972', 'kyiv:0.4492', 'borodianka:0.3807', 'russias:0.3676', 'genocide:0.3426', 'troop:0.3164', 'assault:0.2781', 'accuse:0.2778', 'jurisdiction:0.2753', 'extradite:0.2665', 'honorary:0.2653', 'bucha:0.2651', 'title:0.2402', 'operation:0.2396', 'involvement:0.2322', 'rifle:0.2096', 'donbas:0.201', 'fake:0.195', 'valor:0.1949', 'signature:0.1689', 'read:0.1674', 'professionalism:0.1661', 'reiterate:0.1551', 'th:0.1376', 'bury:0.1328', 'shell:0.1292', 'numerous:0.1149', 'withdraw:0.1129', 'great:0.1012', 'month:0.0973']+titles_keywords+['putin:0.4262', 'brigade:0.359', 'bucha:0.2884', 'accused:0.2666', 'title:0.2263']"
+        ]
+    ]
+}

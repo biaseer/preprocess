@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/bangkokpost.com/EU readies for end of Russia gas warns wont pay in rubles.txt+eventbasecode20+eventcode20+avgtone0.4818523153942428+goldsteinscale0.65+nummentions0.03374455732946299+numarticles0.03444525018129079+numsources0.03289473684210526+news_keywords+['embargo:0.4303', 'kremlin:0.4038', 'ruble:0.3789', 'eu:0.3698', 'diplomat:0.2937', 'economy:0.2905', 'comply:0.2599', 'payments:0.2213', 'unite:0.2198', 'import:0.207', 'diversify:0.1932', 'gazprombank:0.1902', 'prepare:0.189', 'end:0.1868', 'issue:0.1853', 'capital:0.1806', 'sidestep:0.1781', 'want:0.1773', 'transition:0.1743', 'clarification:0.1724', 'report:0.1636', 'gas:0.1629', 'bit:0.1511', 'clear:0.1425', 'wont:0.1382', 'today:0.1231', 'sixth:0.1177', 'state:0.102', 'face:0.0999', 'possible:0.0918']+titles_keywords+['rubles:0.4345', 'eu:0.3171', 'readies:0.2779', 'wont:0.2008', 'end:0.1941']"
+        ]
+    ],
+    "EUR+UKR+20":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/bangkokpost.com/Invading Russian forces press deep into Ukraine.txt+eventbasecode20+eventcode20+avgtone0.4591165413533835+goldsteinscale0.65+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.013157894736842105+news_keywords+['ukraine:0.4863', 'kremlin:0.4368', 'nato:0.4273', 'invading:0.3704', 'diplomacy:0.346', 'reuters:0.3429', 'chernobyl:0.3288', 'unrest:0.3099', 'frontline:0.2945', 'emergency:0.2606', 'strategic:0.2534', 'capital:0.2388', 'president:0.2193', 'volodymyr:0.215', 'fight:0.2117', 'horrific:0.2027', 'thursday:0.1889', 'sector:0.1879', 'sanction:0.1864', 'georgieva:0.1806', 'helicopter:0.1777', 'power:0.1763', 'stock:0.1495', 'spook:0.1489', 'say:0.1465', 'long:0.1448', 'submit:0.1373', 'complete:0.1368', 'new:0.1242', 'reverberate:0.1136']+titles_keywords+['invading:0.3756', 'russian:0.3284', 'deep:0.2323', 'forces:0.1979', 'press:0.1417']"
+        ]
+    ],
+    "MDV+UKR+20":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/bangkokpost.com/Biden meets top Ukrainian ministers in Warsaw.txt+eventbasecode20+eventcode20+avgtone0.4855195911413969+goldsteinscale0.65+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.009868421052631578+news_keywords+['ukraine:0.4424', 'putin:0.4414', 'nato:0.3886', 'biden:0.367', 'war:0.3615', 'poles:0.3024', 'andrzej:0.2675', 'table:0.2465', 'talk:0.2418', 'tiananmen:0.2348', 'visit:0.23', 'reporter:0.2145', 'march:0.1978', 'sanction:0.1972', 'compare:0.1915', 'remember:0.1849', 'long:0.1766', 'pledge:0.175', 'department:0.1699', 'morning:0.1653', 'flee:0.1561', 'opposite:0.1548', 'week:0.1449', 'current:0.1376', 'properly:0.1342', 'fragment:0.1318', 'continued:0.1294', 'backbone:0.1262', 'possible:0.0754', 'price:0.0731']+titles_keywords+['biden:0.4473', 'warsaw:0.3522', 'ukrainian:0.1968', 'meets:0.1888', 'ministers:0.1738']"
+        ]
+    ]
+}

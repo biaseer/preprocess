@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+30":[
+        [
+            "20220205+../news_crawling/RUS_UKR/p_articles/gulfnews.com/Ukraine at the crossroads of a European energy crisis.txt+eventbasecode30+eventcode30+avgtone0.4820322180916976+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4434', 'geopolitical:0.4349', 'opec:0.3638', 'sanctions:0.3161', 'fukushima:0.2901', 'infrastructure:0.2518', 'crisis:0.2332', 'pipeline:0.2262', 'cyberattack:0.2239', 'scenarios:0.2117', 'crossroad:0.1888', 'interrupt:0.1874', 'current:0.1863', 'output:0.1727', 'winter:0.1592', 'covid:0.1545', 'attract:0.1468', 'import:0.1443', 'replace:0.1438', 'biden:0.1407', 'strengthen:0.1237', 'wary:0.1193', 'reverse:0.1177', 'major:0.1157', 'combine:0.1143', 'long:0.1112', 'deal:0.111', 'house:0.1014', 'particularly:0.0725', 'individual:0.042']+titles_keywords+['ukraine:0.5549', 'crisis:0.2631', 'european:0.2532', 'energy:0.2149', 'crossroads:0.1918']"
+        ]
+    ],
+    "GBR+UKR+30":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/gulfnews.com/UK pledges missiles to Ukraine new US ambassador in Kyiv.txt+eventbasecode30+eventcode30+avgtone0.49018595041322316+goldsteinscale0.7+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.013157894736842105+news_keywords+['ukraine:0.5247', 'kremlin:0.4602', 'diplomatic:0.3711', 'sergey:0.3342', 'pentagon:0.3151', 'coordinate:0.3014', 'separatist:0.2722', 'bombardment:0.2601', 'announce:0.2581', 'impeachment:0.2525', 'capital:0.2363', 'kill:0.2327', 'sievierodonetsk:0.232', 'governor:0.2231', 'promise:0.215', 'advance:0.2145', 'rail:0.2142', 'systems:0.1824', 'forget:0.1792', 'swaths:0.174', 'thursday:0.1686', 'complete:0.1656', 'make:0.1586', 'fend:0.1492', 'arm:0.1441', 'steal:0.1424', 'difference:0.1412', 'tighten:0.1351', 'similar:0.1328', 'doesnt:0.0597']+titles_keywords+['ukraine:0.4162', 'missiles:0.4067', 'ambassador:0.3121', 'pledges:0.2027', 'new:0.0796']"
+        ]
+    ]
+}

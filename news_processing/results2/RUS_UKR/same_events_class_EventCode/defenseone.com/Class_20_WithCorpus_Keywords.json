@@ -1,0 +1,17 @@
+{
+    "RUS+CHN+20":[
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/defenseone.com/Russian Officials Talk About Unplugging the Country from the Internet But Is That Possible.txt+eventbasecode20+eventcode20+avgtone0.47890625+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['russia:0.4278', 'nsa:0.3737', 'disconnection:0.3483', 'internet:0.3382', 'infrastructure:0.3275', 'totalitarian:0.2761', 'federation:0.253', 'intranet:0.2311', 'global:0.1988', 'redirect:0.1983', 'independent:0.1968', 'news:0.1679', 'invasion:0.167', 'virtual:0.16', 'state:0.1588', 'zakharovas:0.1576', 'segment:0.1451', 'function:0.1402', 'concern:0.1315', 'remain:0.1312', 'restrict:0.1276', 'possible:0.1108', 'far:0.1', 'replace:0.0836', 'point:0.0832', 'entirety:0.0797', 'immediately:0.0714', 'pivot:0.0647', 'closed:0.056', 'head:0.0505']+titles_keywords+['unplugging:0.383', 'russian:0.2911', 'internet:0.2879', 'possible:0.2042', 'officials:0.0943']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20211215+../news_crawling/RUS_UKR/p_articles/defenseone.com/Trollfare How to Recognize and Fight Off Online Psyops.txt+eventbasecode20+eventcode20+avgtone0.4725363489499192+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['propaganda:0.5149', 'sockpuppets:0.4624', 'trollfare:0.4015', 'putin:0.38', 'russias:0.3447', 'diplomacy:0.3325', 'blogs:0.3195', 'euromaidan:0.3117', 'telegram:0.3106', 'bot:0.306', 'social:0.2882', 'retweeting:0.2838', 'campaign:0.281', 'masquerade:0.2729', 'psyop:0.254', 'classifier:0.2532', 'escalation:0.2436', 'ban:0.2267', 'distract:0.2111', 'analysis:0.2101', 'deploy:0.2071', 'distort:0.1895', 'covid:0.1877', 'coordinate:0.1864', 'west:0.1841', 'fight:0.1768', 'nevnov:0.1728', 'anticipate:0.1697', 'divisive:0.1685', 'understand:0.1315']+titles_keywords+['trollfare:0.453', 'psyops:0.3632', 'fight:0.1797', 'recognize:0.1487', 'online:0.1137']"
+        ]
+    ],
+    "WST+RUS+20":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/defenseone.com/Russian Jets Flying 200 Sorties a Day But Firing from Their Own Airspace Pentagon Says.txt+eventbasecode20+eventcode20+avgtone0.48378839590443684+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4738', 'nato:0.4347', 'airstrike:0.3723', 'pentagon:0.3199', 'airpower:0.3178', 'airspace:0.2876', 'drone:0.2815', 'confrontation:0.2261', 'sorties:0.2069', 'movement:0.1806', 'range:0.1722', 'counterpart:0.1708', 'administration:0.1677', 'emphasis:0.1602', 'direct:0.1559', 'warrant:0.1414', 'compare:0.1307', 'avoid:0.1275', 'biden:0.1218', 'daily:0.1157', 'transfer:0.1155', 'make:0.1107', 'additional:0.1098', 'long:0.1053', 'conservative:0.1038', 'independently:0.1007', 'largely:0.0809', 'way:0.0718', 'tree:0.066', 'says:0.0622']+titles_keywords+['pentagon:0.3267', 'russian:0.3231', '200:0.2234', 'sorties:0.2085', 'day:0.1581']"
+        ]
+    ]
+}

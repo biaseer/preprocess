@@ -1,0 +1,20 @@
+{
+    "RUS+RUS+13":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/ndtv.com/Russias Interests NonNegotiable President Vladimir Putin.txt+eventbasecode13+eventcode13+avgtone0.49671052631578944+goldsteinscale0.52+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.5443', 'russias:0.4754', 'ukrainian:0.4241', 'moscow:0.4002', 'diplomatic:0.3252', 'federation:0.2854', 'invasion:0.2624', 'military:0.2308', 'prepare:0.2293', 'headline:0.2268', 'nonnegotiable:0.2178', 'future:0.2063', 'weapon:0.184', 'avoid:0.1831', 'professionalism:0.1762', 'sanction:0.1685', 'include:0.1594', 'speak:0.1578', 'strongman:0.153', 'elements:0.1526', 'continue:0.1517', 'feed:0.1438', 'address:0.1337', 'problem:0.1209', 'look:0.1098', 'ndtv:0.101', 'hypersonic:0.099', 'upper:0.0955', 'potentially:0.0857', 'congratulate:0.0479']+titles_keywords+['putin:0.6268', 'russias:0.5105', 'vladimir:0.4608', 'nonnegotiable:0.339', 'interests:0.2622']"
+        ],
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/ndtv.com/Russia Says Significant Progress After Conflict Talks With Ukraine.txt+eventbasecode13+eventcode13+avgtone0.49647887323943657+goldsteinscale0.52+nummentions0.04644412191582003+numarticles0.04713560551124003+numsources0.0625+news_keywords+['negotiation:0.4248', 'kyiv:0.4105', 'putin:0.4015', 'talk:0.2928', 'progress:0.2913', 'zelensky:0.2497', 'fight:0.2378', 'resolve:0.2316', 'news:0.2205', 'leonid:0.2136', 'headway:0.1864', 'continue:0.1822', 'delegation:0.1816', 'rt:0.1752', 'monday:0.1747', 'edit:0.1684', 'border:0.1668', 'positive:0.1667', 'unify:0.1633', 'troop:0.1511', 'feed:0.1366', 'ndtv:0.1271', 'order:0.1271', 'round:0.1127', 'cite:0.105', 'send:0.1045', 'different:0.0848', 'state:0.0755', 'spokesman:0.065', 'generate:0.0553']+titles_keywords+['progress:0.4374', 'ukraine:0.3733', 'talks:0.1937', 'conflict:0.1525', 'significant:0.1508']"
+        ]
+    ],
+    "RUS+TUR+13":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/ndtv.com/Russians Near Ukraines Kyiv After Attack On Childrens Hospital Sparks Fury.txt+eventbasecode13+eventcode13+avgtone0.45958083832335334+goldsteinscale0.52+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['kyiv:0.55', 'russians:0.3829', 'chernobyl:0.3621', 'war:0.3452', 'evacuated:0.3293', 'battalion:0.3028', 'refugee:0.2827', 'crisis:0.2617', 'headline:0.2476', 'prepare:0.2043', 'engage:0.2007', 'sanction:0.1987', 'feed:0.1984', 'soon:0.1967', 'help:0.1943', 'order:0.1895', 'northeast:0.1875', 'corridor:0.1862', 'representatives:0.1791', 'turn:0.1786', 'secretary:0.1589', 'import:0.1507', 'fly:0.15', 'additional:0.1474', 'boy:0.1465', 'kilometre:0.1421', 'refurbish:0.1396', 'current:0.1315', 'nearly:0.1265', 'set:0.092']+titles_keywords+['kyiv:0.5476', 'attack:0.2351', 'hospital:0.2112', 'childrens:0.2001', 'near:0.1237']"
+        ]
+    ],
+    "RUS+UKR+13":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/ndtv.com/No Significant Progress In Peace Talks With Ukraine Russia.txt+eventbasecode13+eventcode13+avgtone0.5072463768115942+goldsteinscale0.52+nummentions0.027213352685050797+numarticles0.027918781725888325+numsources0.029605263157894735+news_keywords+['kyiv:0.4251', 'negotiate:0.3662', 'peskov:0.35', 'putin:0.3495', 'peace:0.3245', 'progress:0.313', 'surrender:0.2404', 'speaking:0.2259', 'willingness:0.1841', 'result:0.176', 'headline:0.172', 'publish:0.1622', 'monday:0.1605', 'unacceptable:0.1509', 'counterpart:0.1487', 'ndtv:0.1409', 'meet:0.1398', 'feed:0.1364', 'hold:0.1352', 'possible:0.1347', 'work:0.1316', 'accommodate:0.1176', 'file:0.096', 'story:0.0951', 'syndicate:0.0943', 'far:0.0934', 'reiterate:0.0873', 'accuse:0.0815', 'make:0.0755', 'basis:0.0426']+titles_keywords+['ukraine:0.4072', 'peace:0.3146', 'progress:0.2895', 'talks:0.2312', 'significant:0.1184']"
+        ]
+    ]
+}

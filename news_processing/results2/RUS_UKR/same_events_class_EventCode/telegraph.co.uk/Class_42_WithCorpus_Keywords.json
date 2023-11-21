@@ -1,0 +1,22 @@
+{
+    "AFG+RUS+42":[
+        [
+            "20220129+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/We must face down the clear and present threat posed by Russia.txt+eventbasecode42+eventcode42+avgtone0.4912060301507538+goldsteinscale0.595+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.4895', 'natos:0.4427', 'putin:0.4167', 'ukrainians:0.4061', 'brinkmanship:0.3736', 'moscows:0.3666', 'invasion:0.2594', 'pursue:0.2403', 'coordinate:0.2385', 'sovereignty:0.2276', 'reinforce:0.2164', 'turn:0.2078', 'agreement:0.2065', 'future:0.2059', 'manifesto:0.2037', 'ally:0.1964', 'organisation:0.1947', 'historical:0.1913', 'concern:0.1896', 'safer:0.1769', 'quagmire:0.1673', 'clear:0.1652', 'spearhead:0.154', 'range:0.1362', 'step:0.1353', 'lie:0.1269', 'ready:0.1158', 'big:0.1137', 'like:0.0888', 'cost:0.0323']+titles_keywords+['threat:0.4236', 'russia:0.378', 'present:0.2176', 'posed:0.1663', 'clear:0.164']"
+        ]
+    ],
+    "EUR+RUS+42":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/How the war in Ukraine has redrawn the travel map.txt+eventbasecode42+eventcode42+avgtone0.49212271973466004+goldsteinscale0.595+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.02631578947368421+news_keywords+['ukraine:0.4889', 'war:0.3924', 'nato:0.3539', 'itineraries:0.3112', 'hedge:0.239', 'aviation:0.2323', 'emergency:0.2311', 'covid:0.2178', 'rerouting:0.1876', 'upcoming:0.1875', 'influx:0.1873', 'supply:0.187', 'concern:0.1867', 'involve:0.1826', 'turn:0.1528', 'increase:0.1434', 'red:0.1251', 'notam:0.119', 'andersson:0.1143', 'depart:0.1096', 'entirely:0.1028', 'https:0.1026', 'oag:0.0945', 'cost:0.0941', 'far:0.0864', 'gtcyrmzuq:0.0596', 'right:0.0564', 'apologise:0.0502', 'pas:0.043', 'pattern:0.0411']+titles_keywords+['ukraine:0.504', 'travel:0.4665', 'map:0.4508', 'war:0.3438', 'redrawn:0.1365']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/In Russia Putin is struggling to hide the true toll of his war.txt+eventbasecode42+eventcode42+avgtone0.46411483253588515+goldsteinscale0.595+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kremlin:0.4724', 'ukraine:0.4636', 'nationalist:0.4038', 'propaganda:0.3803', 'conflict:0.3203', 'blockade:0.2612', 'interpret:0.2559', 'conscript:0.2469', 'operation:0.2362', 'information:0.2251', 'marching:0.2246', 'accomplish:0.2245', 'cite:0.2137', 'hide:0.2065', 'telegram:0.2037', 'callousness:0.1984', 'turn:0.1976', 'column:0.1879', 'suspicious:0.1808', 'morph:0.1755', 'blunder:0.1648', 'simmer:0.1543', 'hear:0.1492', 'soon:0.1361', 'dead:0.129', 'true:0.1263', 'th:0.1238', 'big:0.1084', 'horrify:0.0997', 'surface:0.0826']+titles_keywords+['putin:0.555', 'war:0.4168', 'hide:0.3362', 'struggling:0.215', 'true:0.1146']"
+        ]
+    ],
+    "USA+RUS+42":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Russia faces a new Soviet era amid exodus of western brands.txt+eventbasecode42+eventcode42+avgtone0.496391752575+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ussr:0.5748', 'putin:0.4468', 'vodka:0.3734', 'vladislav:0.2969', 'modernise:0.2831', 'news:0.2541', 'profit:0.2475', 'emigrate:0.2367', 'pushkin:0.233', 'war:0.2329', 'kfc:0.23', 'introduce:0.2171', 'know:0.2133', 'western:0.206', 'polar:0.1922', 'unfolding:0.1862', 'agency:0.1803', 'navigate:0.1792', 'redirect:0.1752', 'ignore:0.1746', 'retreat:0.1725', 'compare:0.1689', 'isnt:0.1539', 'end:0.1534', 'credinform:0.1459', 'iron:0.1429', 'big:0.1319', 'afraid:0.1287', 'way:0.1281', 'year:0.1257']+titles_keywords+['soviet:0.5457', 'brands:0.3267', 'western:0.2208', 'exodus:0.1527', 'new:0.1088']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/infotel.ca/Live updates Biden explains providing Ukraine with rockets.txt+eventbasecode61+eventcode61+avgtone0.472011385199241+goldsteinscale0.82+nummentions0.19738751814223512+numarticles0.19796954314720813+numsources0.15460526315789475+news_keywords+['putin:0.4926', 'russias:0.4221', 'nato:0.4167', 'sanction:0.3985', 'kyiv:0.3876', 'blockade:0.3566', 'visas:0.3163', 'war:0.3093', 'threaten:0.306', 'diplomatic:0.3016', 'news:0.2605', 'sievierodonetsk:0.2371', 'cite:0.2337', 'pipeline:0.2314', 'worry:0.2289', 'eus:0.2202', 'conclude:0.2059', 'sentence:0.2003', 'arrangement:0.1881', 'artillery:0.1865', 'spar:0.1844', 'enter:0.1572', 'convert:0.1542', 'bad:0.1499', 'precisely:0.1489', 'long:0.1456', 'compare:0.1415', 'wont:0.125', 'exporter:0.1151', 'percent:0.0709']+titles_keywords+['biden:0.409', 'ukraine:0.3944', 'rockets:0.3324', 'updates:0.2466', 'explains:0.2055']"
+        ]
+    ],
+    "LBN+UKR+61":[
+        [
+            "20220801+../news_crawling/RUS_UKR/p_articles/infotel.ca/1st ship carrying Ukrainian grain leaves the port of Odesa.txt+eventbasecode61+eventcode61+avgtone0.4890610756608933+goldsteinscale0.82+nummentions0.3018867924528302+numarticles0.30239303843364757+numsources0.3223684210526316+news_keywords+['ukraine:0.4681', 'kremlin:0.409', 'war:0.3396', 'evacuate:0.3047', 'zelenskyy:0.2682', 'instability:0.2404', 'shipment:0.2376', 'feed:0.2154', 'know:0.2127', 'tank:0.2107', 'forward:0.2085', 'continue:0.1957', 'agreement:0.1915', 'write:0.1887', 'emphasize:0.1875', 'secretary:0.1846', 'sector:0.1812', 'long:0.1804', 'howitzer:0.1736', 'agricultural:0.166', 'april:0.1514', 'unblock:0.1489', 'buy:0.1464', 'blame:0.1447', 'sure:0.1429', 'ap:0.1395', 'relate:0.1372', 'mechanism:0.1363', 'board:0.1306', 'counteroffensive:0.1205']+titles_keywords+['odesa:0.3845', 'ship:0.3632', 'ukrainian:0.319', 'grain:0.2653', '1st:0.1771']"
+        ]
+    ],
+    "RUS+UKR+61":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/infotel.ca/Kinross in negotiations to sell its Russian assets due to Ukraine invasion.txt+eventbasecode61+eventcode61+avgtone0.4959839357429719+goldsteinscale0.82+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.433', 'divesture:0.3622', 'negotiation:0.3236', 'kinross:0.2928', 'kupol:0.2698', 'corp:0.2572', 'miner:0.2507', 'invasion:0.2423', 'transition:0.2354', 'operation:0.2334', 'gold:0.2289', 'tsx:0.2271', 'investment:0.2184', 'exclusivity:0.2073', 'continue:0.1832', 'government:0.1819', 'story:0.1801', 'period:0.1703', 'agreement:0.1676', 'pending:0.1667', 'month:0.1666', 'report:0.1581', 'subject:0.1437', 'prior:0.1387', 'benefit:0.1278', 'control:0.1208', 'unsolicited:0.1095', 'properly:0.1071', 'unnamed:0.0988', 'nearly:0.0586']+titles_keywords+['kinross:0.516', 'ukraine:0.3881', 'negotiations:0.3069', 'sell:0.305', 'invasion:0.1968']"
+        ]
+    ]
+}

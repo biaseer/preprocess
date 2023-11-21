@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+30":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/Russia Ukraine Agree to Ceasefire to Evacuate 2 Cities But Officials Say Attacks Are Ongoing.txt+eventbasecode30+eventcode30+avgtone0.48319327731092443+goldsteinscale0.7+nummentions0.02358490566037736+numarticles0.024292965917331398+numsources0.023026315789473683+news_keywords+['kyiv:0.5087', 'ceasefire:0.4849', 'crimea:0.4797', 'evacuate:0.4182', 'putin:0.3104', 'military:0.2511', 'continue:0.2194', 'unconfirmed:0.213', 'attack:0.2123', 'town:0.211', 'translation:0.1975', 'vereshchuk:0.19', 'telegram:0.1847', 'east:0.1739', 'shortages:0.1626', 'temporary:0.1586', 'return:0.1524', 'near:0.1405', 'column:0.1377', 'population:0.1282', 'cover:0.1231', 'allow:0.1196', 'midday:0.1079', 'agree:0.1067', 'state:0.1066', 'et:0.1033', 'major:0.0954', 'video:0.0952', 'fact:0.0951', 'multiple:0.089']+titles_keywords+['ukraine:0.4099', 'ceasefire:0.3334', 'evacuate:0.286', 'attacks:0.1951', 'agree:0.0557']"
+        ],
+        [
+            "20220720+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/USSupplied Rocket System Enabled Ukraine to Pummel a Key Russian Supply Bridge.txt+eventbasecode30+eventcode30+avgtone0.4834656084656085+goldsteinscale0.7+nummentions0.03773584905660377+numarticles0.03843364757070341+numsources0.05592105263157895+news_keywords+['ukraine:0.4755', 'airstrikes:0.4038', 'stremousov:0.3114', 'artillery:0.2962', 'counterattack:0.2864', 'tank:0.2769', 'occupy:0.2568', 'know:0.2551', 'underway:0.2548', 'victory:0.2542', 'bridge:0.2364', 'crisis:0.2346', 'intensify:0.2326', 'industrial:0.2319', 'ussupplied:0.223', 'traffic:0.2042', 'kilometer:0.2029', 'halt:0.1978', 'chaotic:0.1935', 'help:0.1922', 'nearly:0.1692', 'donbas:0.169', 'verify:0.1676', 'adviser:0.1637', 'plant:0.1574', 'gumenyuk:0.1541', 'overall:0.1515', 'contrast:0.1452', 'month:0.1439', 'reported:0.1377']+titles_keywords+['ukraine:0.3824', 'rocket:0.3619', 'ussupplied:0.3133', 'bridge:0.2668', 'pummel:0.1981']"
+        ]
+    ],
+    "UKR+RUS+30":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/Ukraine Says 10 Corridors Agreed with Russians.txt+eventbasecode30+eventcode30+avgtone0.5+goldsteinscale0.7+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['kyiv:0.5083', 'ukrainians:0.4409', 'corridor:0.3234', 'blockade:0.3047', 'zelenskyy:0.3037', 'evacuate:0.2926', 'vereshchuk:0.2619', 'humanitarian:0.2243', 'cooperate:0.2121', 'surrounded:0.2062', 'region:0.2059', 'kherson:0.1638', 'update:0.1497', 'supply:0.1468', 'crisis:0.1405', 'coverage:0.1301', 'iryna:0.1204', 'prevent:0.1181', 'reach:0.106', 'mariupol:0.0996', 'satellite:0.0967', 'goal:0.0926', 'click:0.0919', 'technologies:0.0862', 'complete:0.0822', 'agree:0.0738', 'long:0.0731', 'live:0.0712', 'condition:0.0539', 'nightly:0.0248']+titles_keywords+['ukraine:0.4378', 'corridors:0.4049', 'russians:0.3425', '10:0.1606', 'agreed:0.0561']"
+        ]
+    ]
+}

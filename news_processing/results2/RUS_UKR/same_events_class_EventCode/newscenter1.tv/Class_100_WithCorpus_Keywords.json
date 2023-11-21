@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220526+../news_crawling/RUS_UKR/p_articles/newscenter1.tv/Russia slams sanctions seeks to blame West for food crisis.txt+eventbasecode100+eventcode100+avgtone0.4274809160305345+goldsteinscale0.25+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.006578947368421052+news_keywords+['ukraine:0.5043', 'kyivs:0.4327', 'blockade:0.4014', 'kremlin:0.3892', 'war:0.3395', 'sanction:0.3329', 'dmitry:0.3164', 'peskov:0.3036', 'oil:0.2968', 'crisis:0.239', 'blame:0.2047', 'grain:0.1767', 'west:0.1654', 'slams:0.1653', 'ship:0.1624', 'press:0.1597', 'world:0.1467', 'grow:0.1451', 'insist:0.1426', 'prevent:0.142', 'ransom:0.1407', 'shift:0.1386', 'exporter:0.1357', 'flow:0.1145', 'inability:0.1098', 'product:0.1033', 'include:0.0813', 'ap:0.0743', 'million:0.0453', 'squarely:0.042']+titles_keywords+['sanctions:0.4389', 'russia:0.351', 'blame:0.2876', 'crisis:0.1882', 'food:0.1746']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220109+../news_crawling/RUS_UKR/p_articles/newscenter1.tv/US hones warnings offers to Russia over Ukraine.txt+eventbasecode100+eventcode100+avgtone0.45955882352941174+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.3652', 'threat:0.3096', 'sanction:0.2898', 'warning:0.2855', 'biden:0.268', 'invade:0.2633', 'intervene:0.2443', 'prepare:0.2404', 'strategic:0.213', 'meet:0.1639', 'tension:0.1621', 'hone:0.1458', 'missile:0.1386', 'administration:0.1329', 'monday:0.1264', 'offer:0.1223', 'future:0.1214', 'comment:0.1044', 'hit:0.0986', 'possibility:0.0978', 'curtail:0.097', 'clear:0.0944', 'decision:0.087', 'shift:0.0842', 'open:0.0803', 'new:0.0507', 'official:0.0492', 'incremental:0.0425', 'ap:0.0374', 'senior:0.0306']+titles_keywords+['ukraine:0.3623', 'warnings:0.318', 'russia:0.3108', 'hones:0.2755', 'offers:0.1744']"
+        ]
+    ]
+}

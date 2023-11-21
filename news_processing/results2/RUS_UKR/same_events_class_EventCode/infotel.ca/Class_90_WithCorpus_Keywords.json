@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+90":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/infotel.ca/UK spy chief says Russian soldiers disobey orders in Ukraine.txt+eventbasecode90+eventcode90+avgtone0.4625748502994012+goldsteinscale0.4+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.006578947368421052+news_keywords+['ukraine:0.4389', 'kremlin:0.4188', 'disinformation:0.317', 'sabotage:0.3111', 'cyberattack:0.3052', 'operation:0.294', 'gchq:0.2934', 'war:0.2868', 'soldier:0.2453', 'morale:0.2393', 'consequence:0.2121', 'zelenskyys:0.204', 'disobey:0.2003', 'aircraft:0.1784', 'afraid:0.1589', 'president:0.1542', 'misjudgments:0.1531', 'capital:0.151', 'short:0.1469', 'fleming:0.1361', 'playbook:0.1347', 'overestimate:0.1332', 'shoot:0.128', 'believe:0.1124', 'thursday:0.1082', 'galvanize:0.0976', 'weve:0.0831', 'stall:0.0824', 'rapid:0.0746', 'highly:0.0662']+titles_keywords+['ukraine:0.3497', 'soldiers:0.3183', 'spy:0.281', 'chief:0.2369', 'disobey:0.2341']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/infotel.ca/Coalition backs war crimes probe over RussiaUkraine war.txt+eventbasecode90+eventcode90+avgtone0.47782705099778267+goldsteinscale0.4+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.006578947368421052+news_keywords+['nato:0.4195', 'russiaukraine:0.3817', 'hague:0.3748', 'impunity:0.3645', 'investigation:0.3434', 'jurisdiction:0.326', 'prosecute:0.3227', 'invasion:0.315', 'icc:0.3119', 'coalition:0.2998', 'humanitarian:0.2733', 'impartial:0.2373', 'conflict:0.2212', 'coordinate:0.2033', 'funding:0.2008', 'world:0.1965', 'expertise:0.1932', 'soon:0.1551', 'help:0.1546', 'additional:0.1532', 'dozen:0.1476', 'order:0.1459', 'begin:0.1448', 'look:0.1442', 'sure:0.1383', 'antony:0.128', 'formal:0.1185', 'right:0.1152', 'set:0.0786', 'screen:0.0635']+titles_keywords+['russiaukraine:0.3465', 'war:0.2892', 'coalition:0.2559', 'crimes:0.2298', 'probe:0.2085']"
+        ]
+    ]
+}

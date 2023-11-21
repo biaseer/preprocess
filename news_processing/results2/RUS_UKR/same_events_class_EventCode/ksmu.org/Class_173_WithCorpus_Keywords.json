@@ -1,0 +1,12 @@
+{
+    "RUS+EUR+173":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/ksmu.org/News brief nuclear plant seized Russian bombardments Trial related to Jan 6.txt+eventbasecode173+eventcode173+avgtone0.4722222222222222+goldsteinscale0.25+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.013157894736842105+news_keywords+['kyiv:0.5193', 'russians:0.4096', 'correspondent:0.3084', 'government:0.299', 'transform:0.2502', 'fled:0.2473', 'strategic:0.2461', 'disaster:0.2434', 'fight:0.2395', 'veterans:0.2377', 'table:0.2338', 'industrial:0.2333', 'hear:0.2278', 'future:0.2227', 'worry:0.2205', 'continue:0.2161', 'text:0.2146', 'defendant:0.2032', 'combine:0.1812', 'reffitt:0.1796', 'shelling:0.178', 'southern:0.1729', 'want:0.1725', 'mak:0.1693', 'long:0.1624', 'flare:0.1526', 'entirely:0.1491', 'fact:0.1288', 'screenshots:0.1228', 'thousands:0.1216']+titles_keywords+['nuclear:0.5174', 'bombardments:0.3804', 'russian:0.3093', 'seized:0.2598', 'news:0.2469']"
+        ]
+    ],
+    "UKR+RUS+173":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/ksmu.org/Ukrainians are on alert for Russian saboteurs trying to infiltrate their towns.txt+eventbasecode173+eventcode173+avgtone0.443181818181818+goldsteinscale0.25+nummentions0.047895500725689405+numarticles0.048585931834662796+numsources0.05263157894736842+news_keywords+['kyiv:0.5113', 'saboteurs:0.4787', 'russian:0.4765', 'putin:0.4299', 'spy:0.421', 'suspicious:0.3815', 'infiltrate:0.3411', 'interpreter:0.3404', 'kondiukh:0.3247', 'barricade:0.2749', 'history:0.2709', 'neighbor:0.2701', 'know:0.2683', 'bombardment:0.2617', 'safer:0.2558', 'censorship:0.2523', 'unidentified:0.2514', 'help:0.2503', 'region:0.2445', 'oksana:0.2373', 'sentence:0.2332', 'turn:0.2242', 'huk:0.2201', 'news:0.2042', 'live:0.2037', 'sausage:0.2009', 'allege:0.1989', 'make:0.1933', 'begin:0.1874', 'fully:0.1021']+titles_keywords+['ukrainians:0.5093', 'saboteurs:0.4534', 'infiltrate:0.3032', 'towns:0.2268', 'alert:0.1221']"
+        ]
+    ]
+}

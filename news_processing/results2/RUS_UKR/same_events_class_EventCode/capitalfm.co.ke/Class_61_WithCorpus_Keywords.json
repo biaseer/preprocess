@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+61":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/capitalfm.co.ke/Russias war in Ukraine Latest developments.txt+eventbasecode61+eventcode61+avgtone0.4616588419405321+goldsteinscale0.82+nummentions0.04462989840348331+numarticles0.045322697606961566+numsources0.04276315789473684+news_keywords+['kyiv:0.5386', 'putin:0.4744', 'russias:0.4169', 'war:0.3805', 'nato:0.3665', 'evacuate:0.3334', 'zelensky:0.304', 'orthodox:0.29', 'mykhailo:0.2681', 'strategic:0.2672', 'read:0.237', 'tank:0.2286', 'buses:0.2052', 'shift:0.1915', 'report:0.1898', 'engineer:0.1892', 'arrive:0.1789', 'orbit:0.1749', 'nonsense:0.1689', 'reject:0.1596', 'end:0.1595', 'developments:0.1514', 'north:0.151', 'additional:0.1499', 'happy:0.1492', 'long:0.1411', 'plant:0.1388', 'authorise:0.1358', 'million:0.1193', 'maternity:0.1069']+titles_keywords+['ukraine:0.5113', 'war:0.4061', 'russias:0.3879', 'developments:0.2778', 'latest:0.2344']"
+        ]
+    ],
+    "JPN+RUS+61":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/capitalfm.co.ke/Japan ends Russian coal imports expels diplomats.txt+eventbasecode61+eventcode61+avgtone0.4692307692307693+goldsteinscale0.82+nummentions0.03918722786647315+numarticles0.03770848440899202+numsources0.039473684210526314+news_keywords+['japan:0.3982', 'kishida:0.2918', 'ukrainian:0.2643', 'war:0.2582', 'moscows:0.2569', 'diplomat:0.2547', 'nuclear:0.2378', 'sanction:0.217', 'coal:0.2118', 'territories:0.2054', 'allegation:0.1977', 'import:0.1946', 'fumio:0.1824', 'relation:0.1788', 'trade:0.1681', 'understanding:0.1624', 'forgive:0.1299', 'afp:0.1284', 'pledge:0.1164', 'include:0.1148', 'decrease:0.1097', 'end:0.1065', 'seek:0.1031', 'facility:0.0964', 'lockstep:0.0948', 'long:0.0905', 'say:0.0899', 'friday:0.0782', 'percent:0.0592', 'welcome:0.0295']+titles_keywords+['japan:0.3138', 'coal:0.2907', 'diplomats:0.2634', 'russian:0.2576', 'expels:0.2528']"
+        ]
+    ],
+    "RUS+DEU+61":[
+        [
+            "20220828+../news_crawling/RUS_UKR/p_articles/capitalfm.co.ke/In Germany the stuttering bid to jumpstart coal plants.txt+eventbasecode61+eventcode61+avgtone0.4830508474576271+goldsteinscale0.82+nummentions0.045718432510885344+numarticles0.046410442349528645+numsources0.039473684210526314+news_keywords+['coal:0.4686', 'logistics:0.355', 'turbine:0.325', 'berlin:0.3227', 'plan:0.2941', 'rwe:0.2797', 'current:0.2742', 'shortage:0.2734', 'reduce:0.2676', 'winter:0.2518', 'restart:0.2465', 'job:0.2426', 'prioritise:0.2356', 'future:0.2278', 'feasible:0.2271', 'subsidy:0.2223', 'russias:0.2126', 'read:0.207', 'scramble:0.2055', 'retire:0.204', 'plant:0.2028', 'vattenfall:0.1903', 'steag:0.1889', 'rail:0.1865', 'mothballed:0.18', 'world:0.1745', 'generate:0.1559', 'stutter:0.138', 'longer:0.132', 'prove:0.1088']+titles_keywords+['coal:0.488', 'germany:0.3467', 'stuttering:0.2873', 'jumpstart:0.2386', 'bid:0.0928']"
+        ]
+    ]
+}

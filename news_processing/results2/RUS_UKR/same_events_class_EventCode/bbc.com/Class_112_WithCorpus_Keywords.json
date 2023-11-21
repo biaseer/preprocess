@@ -1,0 +1,17 @@
+{
+    "RUS+EUR+112":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine PM warns Putin could be planning biggest war in Europe since 1945.txt+eventbasecode112+eventcode112+avgtone0.4414893617021275+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4739', 'ukraine:0.4137', 'invade:0.3687', 'vladimir:0.3668', 'boris:0.3072', 'war:0.2885', 'imminent:0.2236', 'warn:0.1907', 'military:0.1518', 'planning:0.1467', 'uk:0.1303', 'big:0.1096', 'hysteria:0.1072', 'watch:0.106', 'entail:0.1038', 'deny:0.099', 'gmt:0.0969', 'evidence:0.0856', 'point:0.0792', 'people:0.0774', 'understand:0.0737', 'repeatedly:0.0702', 'morning:0.0671', 'raworth:0.0623', 'prime:0.0586', 'conduct:0.0551', 'interview:0.0382', 'iplayer:0.0314', 'add:0.0244', 'cost:0.0011']+titles_keywords+['putin:0.4295', 'war:0.287', 'biggest:0.1891', 'warns:0.1565', 'pm:0.0542']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220730+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine condemns Russias humiliating death tweet after prison attack.txt+eventbasecode112+eventcode112+avgtone0.446195652173913+goldsteinscale0.4+nummentions0.04390420899854862+numarticles0.04278462654097172+numsources0.17105263157894737+news_keywords+['kyiv:0.4747', 'kremlin:0.4365', 'azov:0.3498', 'battalion:0.3436', 'bloodshed:0.343', 'terrorist:0.3378', 'execution:0.3229', 'evacuation:0.315', 'propaganda:0.3143', 'diplomatic:0.2477', 'occupied:0.2295', 'fight:0.2221', 'remain:0.1809', 'acknowledge:0.176', 'telegram:0.172', 'unverified:0.1688', 'write:0.1688', 'andriy:0.167', 'immediately:0.1638', 'shot:0.1623', 'false:0.1554', 'look:0.149', 'icrc:0.1452', 'long:0.1394', 'cross:0.1386', 'state:0.1169', 'february:0.112', 'difference:0.1057', 'track:0.1056', 'set:0.0873']+titles_keywords+['ukraine:0.4257', 'prison:0.2318', 'condemns:0.2166', 'tweet:0.2154', 'attack:0.2087']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/bbc.com/As it happened Kyiv warned of toxic fumes after strike on oil depot.txt+eventbasecode112+eventcode112+avgtone0.46839080459770116+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.422', 'reporting:0.3555', 'fume:0.35', 'oil:0.3443', 'warn:0.3146', 'toxic:0.2843', 'depot:0.2302', 'strike:0.2289', 'happen:0.1923', 'february:0.1832', 'technical:0.1735', 'tell:0.1471', 'continue:0.1373', 'page:0.1339', 'dull:0.1296', 'reason:0.0824', 'new:0.0508']+titles_keywords+['kyiv:0.4536', 'fumes:0.3872', 'strike:0.2168', 'depot:0.1898', 'happened:0.1193']"
+        ]
+    ]
+}

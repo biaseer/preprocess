@@ -1,0 +1,19 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/businessinsider.com/A famous Russian actor who spoke at Putins prowar rally got called out by his.txt+eventbasecode51+eventcode51+avgtone0.47547683923705725+goldsteinscale0.67+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.02631578947368421+news_keywords+['putins:0.4409', 'daughter:0.3655', 'prowar:0.3569', 'cnn:0.3499', 'actor:0.3397', 'war:0.3326', 'father:0.3241', 'russian:0.3225', 'famous:0.2845', 'speak:0.2665', 'masha:0.2385', 'tell:0.2085', 'support:0.1822', 'network:0.1784', 'rally:0.1732', 'break:0.1576', 'criticize:0.1533', 'heart:0.1269']+titles_keywords+['putins:0.3847', 'cnn:0.3125', 'daughter:0.293', 'actor:0.2852', 'prowar:0.2779']",
+            "20220328+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Terran Orbital Begins Trading on the New York Stock Exchange Under Ticker Symbol LLAP and.txt+eventbasecode51+eventcode51+avgtone0.5032798833819242+goldsteinscale0.67+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['orbital:0.4641', 'satellitesprimarily:0.3975', 'aerospace:0.3658', 'ticker:0.3585', 'terranorbital:0.3382', 'constellation:0.3122', 'launch:0.3002', 'ceo:0.2836', 'llap:0.2644', 'manufacture:0.2631', 'prnewswire:0.2404', 'gaap:0.2335', 'com:0.213', 'information:0.2047', 'capitalize:0.2011', 'milestone:0.1967', 'listing:0.1923', 'current:0.1802', 'warrant:0.1774', 'symbols:0.164', 'term:0.1607', 'exponentially:0.1552', 'vertically:0.1451', 'month:0.1415', 'anticipate:0.1334', 'integrate:0.1328', 'new:0.1304', 'prove:0.1288', 'backlog:0.1273', 'look:0.1026']+titles_keywords+['llap:0.5051', 'orbital:0.3801', 'ticker:0.3476', 'backlog:0.2157', 'million:0.1452']"
+        ],
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/businessinsider.com/EPAM Reports Results for First Quarter 2022.txt+eventbasecode51+eventcode51+avgtone0.4861908177905308+goldsteinscale0.67+nummentions0.022133526850507984+numarticles0.02284263959390863+numsources0.03618421052631579+news_keywords+['epam:0.5461', 'gaap:0.42', 'company:0.3576', 'diversification:0.3569', 'expense:0.3457', 'prnewswire:0.2983', 'consolidate:0.2894', 'benefit:0.2782', 'enterprise:0.2731', 'evaluate:0.2477', 'exchange:0.2444', 'accordance:0.2432', 'resource:0.2328', 'engineering:0.2205', 'report:0.2201', 'translate:0.2173', 'global:0.2148', 'list:0.2113', 'improve:0.2058', 'results:0.2028', 'anticipate:0.2', 'belarus:0.1862', 'comparable:0.175', 'sp:0.1742', 'basis:0.1701', 'factor:0.1691', 'headings:0.165', 'fluctuation:0.1586', 'forward:0.1464', 'emerge:0.1334']+titles_keywords+['epam:0.6697', 'results:0.3262', '2022:0.3123', 'reports:0.1898', 'quarter:0.1772']"
+        ]
+    ],
+    "UKR+DEU+51":[
+        []
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Trump again praised smart Putin amid Ukraine invasion and said the US had become a.txt+eventbasecode51+eventcode51+avgtone0.49213286713286714+goldsteinscale0.67+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['putin:0.525', 'nato:0.4136', 'ukraine:0.3854', 'attack:0.3094', 'impeach:0.2992', 'political:0.2882', 'nation:0.2628', 'evasive:0.2612', 'speech:0.2376', 'investigate:0.2355', 'response:0.2289', 'smart:0.2239', 'occur:0.2176', 'atrocity:0.2156', 'repercussion:0.2147', 'say:0.2081', 'troop:0.1915', 'chaotic:0.1856', 'organization:0.1714', 'admiration:0.1694', 'differently:0.1522', 'volodymyr:0.1485', 'florida:0.1385', 'later:0.1269', 'year:0.1236', 'cpac:0.1208', 'nearly:0.1111', 'week:0.0997', 'include:0.0972', 'send:0.0678']+titles_keywords+['putin:0.4731', 'smart:0.2958', 'invasion:0.1843', 'praised:0.1259', 'country:0.0806']"
+        ]
+    ]
+}

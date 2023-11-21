@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+163":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/peacefmonline.com/Ukraine War Russia Earns 97bn On Energy Exports Since Invasion.txt+eventbasecode163+eventcode163+avgtone0.4824561403508772+goldsteinscale0.1+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['ukraine:0.484', 'war:0.3513', 'eu:0.3126', 'supply:0.254', 'import:0.2053', 'gas:0.1998', 'spending:0.1913', 'union:0.179', 'cost:0.1762', 'earns:0.1731', 'reduce:0.1521', 'june:0.1511', 'bn:0.1475', 'sale:0.1294', 'curb:0.1231', 'overall:0.1221', 'shun:0.1217', 'bloc:0.1198', 'report:0.1188', 'accord:0.118', 'independent:0.1106', 'end:0.102', 'approximately:0.0921', 'arrive:0.092', 'effort:0.0886', 'plan:0.0848', 'high:0.0705', 'crea:0.0669', 'loophole:0.0488', 'alsocommitted:0.0205']+titles_keywords+['ukraine:0.4776', 'exports:0.2759', 'invasion:0.2668', 'earns:0.2293', '97bn:0.2043']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/peacefmonline.com/EU To Soften Sanctions On Russian Banks To Allow Food Trade.txt+eventbasecode163+eventcode163+avgtone0.47338935574229685+goldsteinscale0.1+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['sanctions:0.5191', 'promsvyazbank:0.3665', 'moscow:0.3511', 'rossiya:0.3464', 'reuters:0.3108', 'eu:0.3002', 'economic:0.2597', 'allow:0.2525', 'fund:0.2401', 'read:0.2174', 'blockading:0.2127', 'vtbr:0.2021', 'trade:0.1873', 'disarm:0.1825', 'shortage:0.1768', 'unprovoked:0.1727', 'export:0.1711', 'revised:0.1652', 'port:0.1572', 'exacerbate:0.1527', 'expect:0.1522', 'invasion:0.1426', 'unfreeze:0.137', 'wednesday:0.1324', 'otkritie:0.1268', 'fertiliser:0.1253', 'negative:0.1081', 'explicitly:0.1078', 'new:0.0905', 'ease:0.0904']+titles_keywords+['sanctions:0.4355', 'banks:0.2325', 'eu:0.2067', 'trade:0.1693', 'soften:0.1528']"
+        ]
+    ]
+}

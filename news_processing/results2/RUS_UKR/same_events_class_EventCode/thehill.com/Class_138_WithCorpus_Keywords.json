@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+138":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/thehill.com/US says Russia lying about chemical plot to set up attack.txt+eventbasecode138+eventcode138+avgtone0.46595744680851064+goldsteinscale0.15+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.019736842105263157+news_keywords+['disinformation:0.41', 'russias:0.3652', 'ukrainian:0.363', 'pathogens:0.3134', 'warn:0.2877', 'allegation:0.2721', 'invasionof:0.2623', 'assassination:0.2594', 'concerned:0.2533', 'pretext:0.2443', 'unprovoked:0.2378', 'flag:0.2323', 'border:0.2085', 'justify:0.2074', 'false:0.2071', 'weapon:0.1905', 'spreadliesand:0.1865', 'secretary:0.1843', 'biological:0.1825', 'statefor:0.1749', 'plot:0.1739', 'world:0.1479', 'shortly:0.1351', 'exactly:0.1297', 'laughable:0.1228', 'come:0.1222', 'bidenon:0.1208', 'month:0.112', 'track:0.0679', 'price:0.0542']+titles_keywords+['lying:0.343', 'russia:0.3208', 'chemical:0.248', 'attack:0.197', 'plot:0.1602']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20211201+../news_crawling/RUS_UKR/p_articles/thehill.com/Putin looking for guarantees NATO wont expand westward.txt+eventbasecode138+eventcode138+avgtone0.48307692307692307+goldsteinscale0.15+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['natos:0.4894', 'putin:0.4217', 'crimean:0.3964', 'invade:0.3232', 'expand:0.2448', 'border:0.2317', 'eastward:0.2305', 'diplomat:0.1956', 'concern:0.1665', 'prepare:0.1632', 'authority:0.1562', 'agreement:0.154', 'near:0.1508', 'know:0.1394', 'verbal:0.1384', 'guarantee:0.1358', 'order:0.1347', 'refrain:0.1168', 'thursday:0.1167', 'wont:0.1113', 'look:0.1111', 'news:0.1084', 'step:0.1068', 'dmytro:0.0971', 'long:0.0895', 'accord:0.08', 'ap:0.0782', 'state:0.0738', 'antony:0.0648', 'thousand:0.0435']+titles_keywords+['nato:0.5139', 'putin:0.4385', 'expand:0.2753', 'westward:0.2604', 'wont:0.1535']"
+        ]
+    ]
+}

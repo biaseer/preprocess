@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+90":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/kelownadailycourier.ca/Biden Putin should face war crimes trial for Bucha killings.txt+eventbasecode90+eventcode90+avgtone0.4479166666666665+goldsteinscale0.4+nummentions0.5264876632801161+numarticles0.5250181290790428+numsources0.46710526315789475+news_keywords+['putin:0.4915', 'kyiv:0.4379', 'massacre:0.337', 'sanction:0.312', 'allegation:0.3093', 'investigate:0.302', 'civilians:0.2918', 'prosecutor:0.2723', 'warn:0.2397', 'bucha:0.23', 'realize:0.2126', 'continue:0.1917', 'approve:0.1899', 'european:0.1855', 'fight:0.1749', 'seat:0.1674', 'come:0.1616', 'intensify:0.1615', 'commission:0.1605', 'word:0.157', 'false:0.1545', 'passage:0.1529', 'view:0.1486', 'ally:0.1482', 'states:0.1382', 'whats:0.136', 'bidens:0.1332', 'von:0.1309', 'closing:0.1225', 'surround:0.1024']+titles_keywords+['putin:0.4878', 'biden:0.3519', 'bucha:0.2749', 'killings:0.2705', 'trial:0.2366']"
+        ]
+    ],
+    "RUS+UKR+90":[
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/kelownadailycourier.ca/Ukrainian pastor held prisoner by Russians coming to Kelowna.txt+eventbasecode90+eventcode90+avgtone0.502212389380531+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukrainian:0.465', 'warsaw:0.4497', 'krzysztof:0.4226', 'refugee:0.4014', 'dmitry:0.3362', 'troop:0.3102', 'arrest:0.2924', 'invasion:0.2923', 'pastor:0.2547', 'zareba:0.2231', 'kelowna:0.2024', 'melitopol:0.1993', 'capital:0.1843', 'oceola:0.184', 'accompany:0.1756', 'help:0.1598', 'speak:0.1575', 'february:0.1478', 'gratitude:0.1382', 'care:0.136', 'rd:0.1245', 'begin:0.1239', 'money:0.1238', 'public:0.1191', 'feed:0.1151', 'hold:0.1092', 'free:0.1014', 'late:0.086', 'house:0.0754', 'bodyu:0.0651']+titles_keywords+['ukrainian:0.3926', 'prisoner:0.3859', 'kelowna:0.3444', 'pastor:0.3273', 'coming:0.0633']"
+        ]
+    ]
+}

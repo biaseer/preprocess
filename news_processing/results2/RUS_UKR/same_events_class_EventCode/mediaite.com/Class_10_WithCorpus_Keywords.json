@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+10":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/mediaite.com/SNLs Weekend Update Mocks Biden Labeling UkraineRelated Call as Very Very Very Good Like Gaetz.txt+eventbasecode10+eventcode10+avgtone0.4866666666666667+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['snls:0.5718', 'biden:0.4211', 'jostmockedpresident:0.3744', 'livesweekend:0.3552', 'donald:0.3196', 'democrats:0.2978', 'ukrainerelated:0.2899', 'topic:0.2882', 'weekend:0.2752', 'mocks:0.2748', 'announcement:0.2743', 'mcconnell:0.2727', 'gaetz:0.2363', 'matt:0.2348', 'report:0.2255', 'bidens:0.2208', 'jab:0.2161', 'hostsmichael:0.2138', 'allegation:0.2028', 'left:0.1987', 'plummet:0.1955', 'quote:0.1842', 'phase:0.1836', 'woman:0.1475', 'good:0.1424', 'start:0.1368', 'cover:0.1349', 'sniff:0.1263', 'hope:0.1206', 'year:0.1153']+titles_keywords+['snls:0.455', 'biden:0.34', 'ukrainerelated:0.3249', 'gaetz:0.3046', '18:0.1995']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/mediaite.com/The Putin Wing of the GOP Liz Cheney Rails Against Col Doug Macgregor For Calling.txt+eventbasecode10+eventcode10+avgtone0.507+goldsteinscale0.5+nummentions0.031567489114658925+numarticles0.032269760696156634+numsources0.05921052631578947+news_keywords+['putin:0.5004', 'czarist:0.439', 'cheneyr:0.3976', 'ukrainian:0.3936', 'nato:0.3582', 'sincerussian:0.335', 'zelenskyyis:0.3003', 'rhetoric:0.2873', 'puppet:0.2807', 'pentagon:0.2773', 'apologist:0.2705', 'gop:0.2586', 'invasion:0.2572', 'hero:0.252', 'conflict:0.239', 'macgregoron:0.2064', 'news:0.1911', 'term:0.1845', 'hes:0.1649', 'stay:0.1604', 'say:0.1585', 'rebuke:0.1507', 'end:0.1492', 'neutralize:0.1453', 'predict:0.138', 'right:0.1346', 'calling:0.1229', 'couldve:0.0691', 'hoststuart:0.0569', 'add:0.0491']+titles_keywords+['cheney:0.4502', 'zelenskyy:0.3975', 'puppet:0.2986', 'macgregor:0.2935', 'calling:0.1069']"
+        ]
+    ]
+}

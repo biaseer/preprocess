@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/leaderpost.com/Putin likens Western sanctions to war as Russian assault traps Ukrainian civilians.txt+eventbasecode112+eventcode112+avgtone0.46801218583396803+goldsteinscale0.4+nummentions0.05079825834542816+numarticles0.05148658448150834+numsources0.07894736842105263+news_keywords+['crimea:0.5113', 'putin:0.4976', 'russias:0.4462', 'nato:0.4456', 'diplomacy:0.3802', 'invasion:0.3482', 'oligarch:0.3396', 'demilitarize:0.3304', 'civilians:0.3262', 'reuters:0.3096', 'sanction:0.2948', 'separatist:0.2835', 'polityuk:0.2788', 'bordersmedecins:0.2631', 'kill:0.2439', 'armed:0.2414', 'zelenskiy:0.2065', 'plan:0.1929', 'soon:0.1851', 'boy:0.1827', 'liken:0.1653', 'stay:0.1628', 'corridor:0.1584', 'begin:0.1564', 'anna:0.1406', 'list:0.1366', 'increase:0.1362', 'notificationsyou:0.1156', 'measure:0.1063', 'welcome:0.0673']+titles_keywords+['putin:0.46', 'sanctions:0.4215', 'war:0.3353', 'assault:0.2539', 'likens:0.0864']"
+        ],
+        [
+            "20220820+../news_crawling/RUS_UKR/p_articles/leaderpost.com/Russia accuses Ukraine of poisoning some of their soldiers.txt+eventbasecode112+eventcode112+avgtone0.47346938775510194+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['poisoning:0.4556', 'ukraine:0.446', 'botulinum:0.4332', 'neurotoxin:0.4193', 'terrorism:0.3409', 'chemical:0.3204', 'contaminate:0.3021', 'canned:0.275', 'meat:0.2581', 'invasion:0.2505', 'serviceman:0.2067', 'sanction:0.2041', 'volodymyr:0.2005', 'hospital:0.1952', 'analyze:0.1933', 'fact:0.1924', 'ration:0.1815', 'headline:0.1766', 'junk:0.166', 'issue:0.1428', 'prepare:0.1264', 'additional:0.1249', 'adviser:0.1241', 'fell:0.1118', 'way:0.1099', 'notificationsyou:0.1086', 'daily:0.1032', 'july:0.0941', 'timothy:0.0642', 'enable:0.0469']+titles_keywords+['ukraine:0.4685', 'russia:0.3417', 'accuses:0.2749', 'poisoning:0.2676', 'soldiers:0.2464']"
+        ]
+    ],
+    "WST+UKR+112":[
+        [
+            "20220117+../news_crawling/RUS_UKR/p_articles/leaderpost.com/Diane Francis Putin is threatened by Ukraines success.txt+eventbasecode112+eventcode112+avgtone0.46487119437939106+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5253', 'kremlin:0.5', 'vladimir:0.4149', 'nato:0.381', 'dictatorship:0.3652', 'destabilize:0.3317', 'invasion:0.3036', 'political:0.3006', 'headline:0.299', 'involvement:0.2693', 'europeanize:0.2643', 'navalnys:0.2411', 'narrate:0.2317', 'know:0.2301', 'armament:0.2172', 'continue:0.2139', 'increasingly:0.209', 'turn:0.2078', 'bluff:0.2078', 'organization:0.2053', 'update:0.1905', 'boy:0.1853', 'afraid:0.1773', 'notificationsyou:0.1575', 'lively:0.1507', 'number:0.133', 'january:0.1166', 'far:0.1149', 'export:0.1037', 'welcome:0.0794']+titles_keywords+['putin:0.5974', 'ukraines:0.4497', 'diane:0.3609', 'threatened:0.3155', 'success:0.1428']"
+        ]
+    ]
+}

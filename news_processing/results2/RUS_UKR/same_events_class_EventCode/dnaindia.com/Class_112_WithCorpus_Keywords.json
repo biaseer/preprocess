@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/dnaindia.com/Ukraine President Zelenskyy urges Russians to stage protest as latter seizes Europes largest nuclear power.txt+eventbasecode112+eventcode112+avgtone0.45357142857142835+goldsteinscale0.4+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.01644736842105263+news_keywords+['chernobyl:0.603', 'ukraine:0.4559', 'zelenskyy:0.3963', 'nuclear:0.3938', 'evacuation:0.3291', 'catastrophe:0.3195', 'provocation:0.2558', 'protest:0.2551', 'contamination:0.2373', 'forget:0.2204', 'safer:0.2162', 'power:0.1989', 'ablaze:0.1928', 'earth:0.1914', 'trigger:0.184', 'president:0.1728', 'victim:0.1684', 'source:0.1636', 'plant:0.1582', 'waste:0.1398', 'live:0.1351', 'stage:0.1296', 'friday:0.1228', 'address:0.1224', 'reported:0.1218', 'ist:0.1167', 'bad:0.1036', 'want:0.1015', 'silent:0.0996', 'building:0.0882']+titles_keywords+['zelenskyy:0.4493', 'ukraine:0.3655', 'protest:0.2736', 'nuclear:0.2005', 'largest:0.1197']"
+        ]
+    ],
+    "WST+RUS+112":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/dnaindia.com/Air India will operate 3 flights between India and Ukraine amid growing tensions Details inside.txt+eventbasecode112+eventcode112+avgtone0.48825503355704697+goldsteinscale0.4+nummentions0.17561683599419448+numarticles0.17621464829586658+numsources0.16447368421052633+news_keywords+['ukraine:0.4315', 'flight:0.3093', 'invade:0.2653', 'tensions:0.2618', 'embassy:0.247', 'indian:0.23', 'authorise:0.2071', 'boryspil:0.2057', 'booking:0.1948', 'operate:0.191', 'issue:0.19', 'informed:0.1806', 'border:0.1698', 'coordinate:0.1691', 'stay:0.1655', 'increase:0.1652', 'ist:0.151', 'tweet:0.1477', 'prepare:0.1406', 'presently:0.1186', 'direct:0.1119', 'source:0.1095', 'th:0.1057', 'intention:0.1057', 'feb:0.0992', 'disseminate:0.0935', 'webdesk:0.0931', 'student:0.0893', 'day:0.0647', 'particularly:0.0365']+titles_keywords+['flights:0.3858', 'ukraine:0.3167', 'tensions:0.1865', 'details:0.0847', 'amid:0.0309']"
+        ]
+    ]
+}

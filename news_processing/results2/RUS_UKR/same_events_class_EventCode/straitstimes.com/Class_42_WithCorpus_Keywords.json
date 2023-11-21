@@ -1,0 +1,15 @@
+{
+    "GBR+UKR+42":[
+        [
+            "20220711+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Amid Ukraine war Russian Parliament to hold extraordinary session.txt+eventbasecode42+eventcode42+avgtone0.4923076923076923+goldsteinscale0.595+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['putin:0.5052', 'ukraine:0.442', 'nato:0.3432', 'vasilyev:0.3416', 'parliament:0.3212', 'war:0.3158', 'agenda:0.2476', 'gather:0.2428', 'reuters:0.2418', 'session:0.2208', 'telegram:0.2195', 'remain:0.2054', 'amendment:0.1888', 'ignore:0.1867', 'justification:0.1765', 'declare:0.1749', 'volodin:0.1743', 'decide:0.1656', 'monday:0.1654', 'information:0.1624', 'increasingly:0.1478', 'th:0.1371', 'hold:0.1363', 'want:0.1255', 'house:0.1169', 'mr:0.1079', 'head:0.098', 'pro:0.0867', 'lower:0.0823', 'thank:0.0732']+titles_keywords+['ukraine:0.4061', 'parliament:0.2914', 'session:0.2792', 'war:0.2684', 'hold:0.1319']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/straitstimes.com/After Putins actions nations seek strategic autonomy.txt+eventbasecode42+eventcode42+avgtone0.4765625+goldsteinscale0.595+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['putin:0.5118', 'ukraine:0.4892', 'geopolitical:0.3977', 'autonomy:0.3112', 'war:0.2803', 'nation:0.2682', 'invasion:0.2421', 'threat:0.2123', 'power:0.2047', 'onwards:0.1839', 'military:0.1811', 'conclusion:0.1754', 'remain:0.1744', 'world:0.1698', 'order:0.162', 'lead:0.1466', 'big:0.1371', 'look:0.1225', 'event:0.1145', 'head:0.1131', 'term:0.1118', 'acute:0.0865', 'overturn:0.0857', 'degrades:0.0836', 'connected:0.0722', 'mr:0.06', 'archive:0.056', 'alike:0.056', 'build:0.0458', 'especially:0.0139']+titles_keywords+['putins:0.4575', 'autonomy:0.3634', 'strategic:0.3237', 'nations:0.2763', 'actions:0.1725']"
+        ],
+        [
+            "20220627+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Russian forces turn sights on Lysychansk in battle for eastern Ukraine.txt+eventbasecode42+eventcode42+avgtone0.46344647519582244+goldsteinscale0.595+nummentions0.03193033381712627+numarticles0.032632342277012324+numsources0.02631578947368421+news_keywords+['kyiv:0.5051', 'putins:0.3935', 'evacuate:0.3043', 'frontline:0.3026', 'nationalist:0.2973', 'invasion:0.2896', 'strategic:0.2816', 'lysychansk:0.2811', 'news:0.2787', 'bratchuk:0.2585', 'victory:0.2521', 'turn:0.2401', 'fight:0.2152', 'bloody:0.2108', 'long:0.2104', 'aircraft:0.192', 'baseless:0.186', 'sanction:0.1836', 'eastern:0.183', 'feb:0.1768', 'tell:0.1728', 'observer:0.1722', 'import:0.1673', 'receive:0.1629', 'immediately:0.1602', 'oh:0.1552', 'tass:0.1421', 'eurobonds:0.1418', 'forces:0.1385', 'state:0.1267']+titles_keywords+['lysychansk:0.4438', 'ukraine:0.3509', 'battle:0.2508', 'sights:0.2363', 'turn:0.2198']"
+        ]
+    ]
+}

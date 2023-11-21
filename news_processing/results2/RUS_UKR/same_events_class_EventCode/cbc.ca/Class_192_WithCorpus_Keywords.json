@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220210+../news_crawling/RUS_UKR/p_articles/cbc.ca/As Russia maintains the pressure Ukraine trains citizensoldiers for guerrilla warfare.txt+eventbasecode192+eventcode192+avgtone0.4856481481481481+goldsteinscale0.025+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['crimea:0.4794', 'ukrainian:0.4618', 'infantry:0.3984', 'guerrilla:0.3767', 'war:0.3355', 'recruit:0.3075', 'territorial:0.2925', 'strategic:0.2756', 'hryhoriy:0.2608', 'reform:0.2583', 'podanchuk:0.2543', 'know:0.2305', 'learn:0.23', 'adviser:0.2205', 'repel:0.2186', 'concern:0.2151', 'expect:0.2073', 'turn:0.201', 'pershing:0.1967', 'future:0.1927', 'drill:0.1887', 'thoseinvolved:0.1842', 'donbas:0.1805', 'unitsare:0.1661', 'canadian:0.1454', 'long:0.1352', 'new:0.1337', 'happenif:0.1225', 'gen:0.1207', 'sure:0.109']+titles_keywords+['ukraine:0.4727', 'guerrilla:0.3348', 'citizensoldiers:0.2848', 'trains:0.1892', 'pressure:0.167']"
+        ]
+    ],
+    "UKR+RUS+192":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/cbc.ca/Residents of Kyiv suburb say retreating Russian troops killed civilians for no apparent reason.txt+eventbasecode192+eventcode192+avgtone0.4725759059745347+goldsteinscale0.025+nummentions0.29390420899854863+numarticles0.29441624365482233+numsources0.375+news_keywords+['kyiv:0.5584', 'putin:0.3998', 'civiliansprovides:0.3798', 'vereshchukalso:0.2987', 'evacuating:0.2738', 'annex:0.2722', 'separatist:0.2718', 'decommission:0.2657', 'conflict:0.2573', 'saidukrainian:0.2476', 'flag:0.2345', 'information:0.2177', 'artillery:0.2162', 'atrocity:0.213', 'pripyat:0.2016', 'column:0.1973', 'accuse:0.1921', 'help:0.1832', 'preliminary:0.1808', 'horrify:0.177', 'bucha:0.1723', 'hide:0.1713', 'north:0.1654', 'siren:0.1611', 'photographer:0.1567', 'red:0.1502', 'enter:0.1496', 'immediately:0.1391', 'flame:0.1319', 'month:0.1191']+titles_keywords+['kyiv:0.4889', 'civilians:0.4389', 'retreating:0.2281', 'reason:0.1821', 'killed:0.1798']"
+        ]
+    ]
+}

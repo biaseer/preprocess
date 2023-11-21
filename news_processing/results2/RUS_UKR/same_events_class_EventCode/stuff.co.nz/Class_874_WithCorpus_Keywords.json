@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/Jacinda Ardern Reports of war atrocities in Ukraine beyond reprehensible.txt+eventbasecode87+eventcode874+avgtone0.4733333333333333+goldsteinscale1.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4598', 'putin:0.4331', 'invasion:0.3018', 'crime:0.2873', 'oligarchs:0.2861', 'ponomarenko:0.267', 'escalate:0.2316', 'capital:0.2305', 'importation:0.223', 'agreement:0.2208', 'military:0.2187', 'report:0.2132', 'evidence:0.2022', 'action:0.2007', 'reprehensible:0.2005', 'ardern:0.197', 'announce:0.1945', 'marlborough:0.1892', 'mahuta:0.1844', 'read:0.1756', 'world:0.1744', 'jacinda:0.1735', 'wounding:0.1638', 'order:0.1573', 'stay:0.1524', 'counterpart:0.1499', 'steel:0.1422', 'cabinet:0.1273', 'short:0.1156', 'numerous:0.0999']+titles_keywords+['atrocities:0.4552', 'ukraine:0.4178', 'war:0.3427', 'jacinda:0.3344', 'ardern:0.275']"
+        ],
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/Ukraine Russians withdraw from around Kharkiv batter east.txt+eventbasecode87+eventcode874+avgtone0.47266729500471255+goldsteinscale1.0+nummentions0.1179245283018868+numarticles0.11856417693981146+numsources0.13815789473684212+news_keywords+['ukraine:0.5337', 'kremlin:0.4816', 'natos:0.4696', 'airstrikes:0.3616', 'erdogan:0.3121', 'zelenskyy:0.3042', 'troop:0.2799', 'separatist:0.245', 'predict:0.2266', 'delegation:0.1893', 'outcome:0.1893', 'friday:0.1829', 'forth:0.1691', 'worry:0.1627', 'avoiding:0.1625', 'industrial:0.1596', 'order:0.1559', 'telegram:0.1558', 'bridge:0.1528', 'long:0.1524', 'greet:0.1443', 'near:0.1325', 'encircle:0.1286', 'increase:0.1271', 'counteroffensive:0.1079', 'retake:0.1071', 'largely:0.1013', 'fierce:0.0991', 'agree:0.0857', 'antony:0.0618']+titles_keywords+['ukraine:0.4282', 'kharkiv:0.3956', 'withdraw:0.2733', 'batter:0.2094', 'east:0.1809']"
+        ]
+    ],
+    "UKR+RUS+874":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/Ukraine invasion Shell follows BP in pulling out of energy investments in Russia.txt+eventbasecode87+eventcode874+avgtone0.47954545454545455+goldsteinscale1.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4776', 'putins:0.3894', 'sakhalin:0.3378', 'invasion:0.3333', 'invest:0.3129', 'petroleum:0.2848', 'rosneft:0.2836', 'gazprom:0.2728', 'crisis:0.2438', 'supply:0.2426', 'security:0.2071', 'shell:0.2005', 'threatens:0.1994', 'plug:0.1976', 'stake:0.1937', 'exit:0.1922', 'executive:0.1869', 'read:0.1652', 'sink:0.1626', 'plan:0.1563', 'mitsubishi:0.1528', 'western:0.1519', 'pull:0.1453', 'million:0.1445', 'begin:0.1441', 'include:0.1323', 'act:0.1317', 'related:0.1244', 'cost:0.1052', 'senseless:0.0786']+titles_keywords+['ukraine:0.4075', 'invasion:0.3244', 'bp:0.2939', 'shell:0.2892', 'investments:0.1394']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+110":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/ukrinform.net/EU will deepen economic and political ties with Ukraine amid crisis Michel.txt+eventbasecode110+eventcode110+avgtone0.4985835694050991+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4336', 'putin:0.3635', 'destabilization:0.3112', 'economy:0.2736', 'eur:0.259', 'threat:0.2471', 'event:0.2315', 'invest:0.2258', 'rapprochement:0.2218', 'partnership:0.2197', 'want:0.2114', 'reform:0.211', 'strengthen:0.2045', 'talk:0.2006', 'correspondent:0.1874', 'ukrinform:0.1804', 'assistance:0.1573', 'sure:0.1541', 'make:0.1436', 'current:0.1223', 'step:0.1199', 'macro:0.1139', 'exactly:0.1089', 'february:0.1084', 'smart:0.1073', 'direct:0.1063', 'decide:0.096', 'effect:0.0956', 'accord:0.0829', 'miscalculation:0.0443']+titles_keywords+['ukraine:0.3402', 'economic:0.1946', 'michel:0.1513', 'ties:0.1497', 'deepen:0.1263']"
+        ],
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Russian strikes on Lviv show campaign of terror against people of Ukraine State Department.txt+eventbasecode110+eventcode110+avgtone0.437956204379562+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['lviv:0.5646', 'kyiv:0.5581', 'russia:0.4302', 'war:0.3604', 'attack:0.3342', 'terror:0.3332', 'invasion:0.3243', 'atrocities:0.3121', 'kharkiv:0.3113', 'missile:0.3104', 'kill:0.2781', 'correspondent:0.2211', 'indiscriminate:0.2035', 'infrastructure:0.1642', 'civilian:0.1577', 'department:0.1523', 'bucha:0.1516', 'ukrinform:0.1506', 'people:0.1487', 'fact:0.1328', 'outskirts:0.1237', 'state:0.1079', 'say:0.0963', 'ned:0.0957', 'monday:0.0886', 'injured:0.0845', 'mariupol:0.0834', 'price:0.0676', 'brief:0.0625', 'accord:0.0257']+titles_keywords+['lviv:0.4905', 'terror:0.3743', 'russian:0.2961', 'strikes:0.1884', 'state:0.1809']"
+        ]
+    ],
+    "UKR+RUS+110":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukraine dealt biggest blow to Russian army in decades President Zelensky.txt+eventbasecode110+eventcode110+avgtone0.4631336405529954+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukraine:0.4346', 'battalion:0.3568', 'invasion:0.3125', 'war:0.3078', 'zelensky:0.2918', 'tank:0.2676', 'loss:0.249', 'correspondent:0.1923', 'volodymyr:0.1897', 'armed:0.1874', 'leave:0.1858', 'vehicle:0.1716', 'th:0.1645', 'night:0.1623', 'term:0.1587', 'ukrinform:0.1546', 'period:0.1531', 'continue:0.145', 'capability:0.1396', 'count:0.1383', 'safe:0.137', 'video:0.13', 'big:0.1206', 'decade:0.1147', 'relevant:0.1007', 'thats:0.1005', 'dynamic:0.0997', 'make:0.093', 'theyve:0.0833', 'dealt:0.0598']+titles_keywords+['zelensky:0.5466', 'ukraine:0.3672', 'biggest:0.2097', 'president:0.1354', 'decades:0.0871']"
+        ]
+    ]
+}

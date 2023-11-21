@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+43":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/bbc.com/Evacuation convoy heading to Mariupol hellscape says UN.txt+eventbasecode43+eventcode43+avgtone0.48141891891891897+goldsteinscale0.64+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.03618421052631579+news_keywords+['bbc:0.4457', 'evacuation:0.4381', 'convoy:0.3887', 'news:0.346', 'writer:0.2928', 'mcgarvey:0.2727', 'davies:0.2502', 'sofia:0.233', 'coverage:0.2262', 'alys:0.2229', 'sands:0.2178', 'develop:0.21', 'page:0.2059', 'story:0.2013', 'emily:0.1987', 'fouche:0.1837', 'say:0.1565', 'end:0.1561', 'home:0.1558', 'depth:0.1527', 'major:0.1509', 'live:0.1509', 'hellscape:0.1502', 'hour:0.1353', 'post:0.1351', 'head:0.1333', 'santos:0.1212', 'today:0.1198', 'thing:0.0984', 'mariupol:0.0616']+titles_keywords+['evacuation:0.4863', 'convoy:0.4565', 'hellscape:0.4112', 'mariupol:0.3066', 'says:0.0586']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220517+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine Fighters evacuated from Mariupol steelworks arrive in Russianheld town.txt+eventbasecode43+eventcode43+avgtone0.4701492537313433+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.4075', 'steelworks:0.3861', 'novoazovsk:0.3625', 'olenivka:0.3313', 'russian:0.3295', 'russianheld:0.3294', 'evacuate:0.3059', 'azovstal:0.2803', 'fighters:0.2792', 'rescue:0.23', 'fighter:0.2172', 'separatist:0.1948', 'ongoing:0.1851', 'trapped:0.183', 'mariupol:0.1783', 'remain:0.1548', 'nearby:0.1463', 'arrive:0.1423', 'capture:0.1379', 'town:0.1329', 'sent:0.1255', 'area:0.1101', 'defence:0.0983', 'injure:0.0828', 'backed:0.0775', 'heavily:0.0738', 'effort:0.054', 'ministry:0.0272', 'say:0.002']+titles_keywords+['ukraine:0.3533', 'steelworks:0.307', 'fighters:0.2738', 'evacuated:0.2387', 'mariupol:0.1956']"
+        ],
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/bbc.com/Grantham Ukraine refugees business hopes and dreams of home.txt+eventbasecode43+eventcode43+avgtone0.5083333333333333+goldsteinscale0.64+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['ukraine:0.5411', 'refugee:0.4495', 'odessa:0.4414', 'russian:0.4371', 'natalia:0.375', 'lincolnshire:0.3242', 'flee:0.2686', 'yorkslincs:0.2604', 'grantham:0.2451', 'invasion:0.236', 'salon:0.2167', 'chekotun:0.2079', 'bbc:0.2013', 'wellness:0.1925', 'home:0.1722', 'centre:0.1582', 'shop:0.153', 'story:0.1415', 'follow:0.1286', 'send:0.115', 'son:0.1098', 'hop:0.1066', 'difficult:0.0984', 'make:0.097', 'dream:0.0949', 'thankful:0.0776', 'new:0.0753', 'year:0.0726', 'shortly:0.0598', 'set:0.048']+titles_keywords+['refugees:0.5348', 'ukraine:0.4273', 'grantham:0.3613', 'business:0.2752', 'home:0.2061']"
+        ]
+    ]
+}

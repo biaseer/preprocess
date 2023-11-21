@@ -1,0 +1,10 @@
+{
+    "RUS+EUR+111":[
+        []
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/wbur.org/Local Ukrainians decry Russian invasion of their homeland as attack on democracy.txt+eventbasecode111+eventcode111+avgtone0.4796348314606742+goldsteinscale0.4+nummentions0.014876632801161103+numarticles0.014865844815083394+numsources0.09539473684210527+news_keywords+['ukraine:0.4791', 'putin:0.4323', 'invasion:0.3424', 'demonstrators:0.3333', 'revolution:0.3316', 'democratic:0.272', 'flee:0.2695', 'newscast:0.2649', 'opposes:0.2525', 'military:0.2479', 'afraid:0.2445', 'flag:0.2398', 'rally:0.2316', 'resident:0.2194', 'represent:0.2112', 'know:0.2097', 'translation:0.193', 'fight:0.1912', 'graduate:0.18', 'speak:0.1791', 'tunnel:0.1664', 'framingham:0.1649', 'order:0.1571', 'covid:0.1452', 'laptiev:0.1263', 'great:0.1158', 'hour:0.1041', 'shirpa:0.1033', 'hannah:0.1005', 'array:0.0451']+titles_keywords+['ukrainians:0.5253', 'democracy:0.3566', 'invasion:0.3553', 'decry:0.1912', 'local:0.1787']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+190":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/watfordobserver.co.uk/Street fighting begins in Kyiv as Ukraine president refuses to leave.txt+eventbasecode190+eventcode190+avgtone0.47611788617886175+goldsteinscale0.0+nummentions0.3218432510885341+numarticles0.3223350253807107+numsources0.45394736842105265+news_keywords+['kyiv:0.513', 'ceasefire:0.4414', 'militarily:0.3542', 'putins:0.3284', 'emergency:0.313', 'fight:0.3085', 'diplomatic:0.2984', 'gunfire:0.2781', 'invasion:0.2541', 'proceed:0.2529', 'government:0.2519', 'street:0.217', 'precaution:0.2124', 'stay:0.2117', 'tank:0.2106', 'paratrooper:0.2106', 'storm:0.2033', 'turn:0.2027', 'tweet:0.1693', 'vetoed:0.1666', 'want:0.1562', 'american:0.1533', 'lively:0.1498', 'far:0.1375', 'unclear:0.1328', 'right:0.1194', 'total:0.1144', 'unlike:0.1018', 'highlight:0.0947', 'resolution:0.0895']+titles_keywords+['kyiv:0.4304', 'fighting:0.3772', 'street:0.2478', 'refuses:0.1682', 'president:0.1422']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/watfordobserver.co.uk/Watford should support people of Ukraine.txt+eventbasecode190+eventcode190+avgtone0.484375+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5865', 'ukrainians:0.4854', 'watfordians:0.4767', 'refugee:0.4113', 'democracy:0.3237', 'oligarch:0.313', 'labours:0.313', 'town:0.2754', 'live:0.2511', 'charities:0.246', 'peace:0.243', 'lively:0.2234', 'goliath:0.2187', 'safeguard:0.209', 'important:0.2041', 'prevail:0.2003', 'pollute:0.1982', 'want:0.192', 'away:0.1909', 'tragic:0.1782', 'strain:0.1778', 'allow:0.1761', 'toll:0.1712', 'right:0.1693', 'forget:0.1661', 'long:0.1661', 'abused:0.1572', 'issue:0.1543', 'thousand:0.152', 'welcome:0.0971']+titles_keywords+['watford:0.5832', 'ukraine:0.4746', 'support:0.248', 'people:0.1474']"
+        ]
+    ],
+    "UKR+UKR+190":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/watfordobserver.co.uk/Russia batters Ukraine as both sides say they are ready for more talks.txt+eventbasecode190+eventcode190+avgtone0.4668508287292818+goldsteinscale0.0+nummentions0.33708272859216254+numarticles0.33756345177664976+numsources0.39473684210526316+news_keywords+['ukraine:0.4577', 'kremlin:0.4385', 'war:0.3504', 'escalation:0.3178', 'nuclear:0.2583', 'news:0.2566', 'coordinating:0.2531', 'strategic:0.2499', 'rhetoric:0.2486', 'remind:0.2339', 'devastate:0.2299', 'worry:0.2206', 'soon:0.2104', 'tank:0.2034', 'report:0.1869', 'president:0.1869', 'volodymyr:0.1867', 'iaea:0.1825', 'ready:0.1779', 'boy:0.1514', 'town:0.1507', 'want:0.1476', 'resume:0.1419', 'roughly:0.1348', 'major:0.1334', 'yar:0.1292', 'initial:0.1262', 'watchdog:0.1249', 'plant:0.1213', 'set:0.1']+titles_keywords+['ukraine:0.4364', 'batters:0.1857', 'sides:0.1489', 'talks:0.1467', 'ready:0.0904']"
+        ]
+    ]
+}

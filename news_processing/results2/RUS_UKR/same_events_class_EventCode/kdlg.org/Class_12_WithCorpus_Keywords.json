@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/kdlg.org/Russia faces expulsion from a key tool used in the global banking system.txt+eventbasecode12+eventcode12+avgtone0.4840764331210191+goldsteinscale0.48+nummentions0.09216255442670537+numarticles0.09209572153734591+numsources0.10855263157894737+news_keywords+['ukraine:0.4528', 'swift:0.3601', 'banking:0.3026', 'invade:0.2883', 'sanction:0.2688', 'sovereignty:0.2419', 'secure:0.2224', 'oil:0.2202', 'nuclear:0.2116', 'disconnection:0.2042', 'predict:0.201', 'global:0.2006', 'politically:0.1997', 'zelenskyy:0.1881', 'isolate:0.1775', 'macron:0.1735', 'executive:0.1668', 'concern:0.1658', 'spillover:0.1656', 'introduction:0.1559', 'information:0.1485', 'wide:0.1412', 'help:0.1381', 'demand:0.1253', 'npr:0.1251', 'statement:0.1159', 'discussed:0.1116', 'month:0.0991', 'handle:0.0978', 'official:0.0893']+titles_keywords+['russia:0.4172', 'banking:0.3467', 'expulsion:0.3267', 'global:0.1525', 'used:0.1131']"
+        ]
+    ],
+    "RUS+WST+12":[
+        [
+            "20220129+../news_crawling/RUS_UKR/p_articles/kdlg.org/How NATOs expansion helped drive Putin to invade Ukraine.txt+eventbasecode12+eventcode12+avgtone0.4930930930930931+goldsteinscale0.48+nummentions0.25+numarticles0.25054387237128356+numsources0.27631578947368424+news_keywords+['natos:0.5668', 'crimea:0.4007', 'invade:0.3241', 'expand:0.3011', 'gorbachev:0.3011', 'eastward:0.2341', 'negotiation:0.2037', 'separatist:0.1913', 'power:0.1816', 'historical:0.1772', 'memorandum:0.1756', 'reunify:0.1688', 'news:0.1664', 'oppose:0.1531', 'encircling:0.148', 'table:0.1413', 'make:0.1397', 'denuclearization:0.1349', 'term:0.1312', 'long:0.1232', 'add:0.1174', 'imminently:0.1101', 'creep:0.1095', 'end:0.1083', 'cold:0.1042', 'kendall:0.0995', 'pathway:0.0974', 'unity:0.0944', 'curtain:0.0911', 'internally:0.0857']+titles_keywords+['natos:0.5934', 'putin:0.4798', 'invade:0.4372', 'expansion:0.2901', 'helped:0.1238']"
+        ]
+    ]
+}

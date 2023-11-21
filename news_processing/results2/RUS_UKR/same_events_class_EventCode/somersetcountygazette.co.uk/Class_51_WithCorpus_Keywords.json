@@ -1,0 +1,22 @@
+{
+    "DEU+UKR+51":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/somersetcountygazette.co.uk/Defence minister backs Ukraine striking Russian soil with British weapons.txt+eventbasecode51+eventcode51+avgtone0.483271375464684+goldsteinscale0.67+nummentions0.15529753265602322+numarticles0.1559100797679478+numsources0.17434210526315788+news_keywords+['ukraine:0.4849', 'nato:0.4352', 'russias:0.4202', 'putin:0.4102', 'warfare:0.3732', 'threat:0.2782', 'prepare:0.2649', 'lavrovs:0.2591', 'fortify:0.2219', 'supply:0.212', 'border:0.2088', 'news:0.2013', 'nonsense:0.2007', 'position:0.1942', 'range:0.175', 'response:0.1662', 'stormer:0.1588', 'want:0.1544', 'misuse:0.1501', 'heappey:0.1458', 'lively:0.1314', 'hit:0.1302', 'accuse:0.128', 'import:0.1267', 'amid:0.1238', 'fall:0.123', 'directly:0.1008', 'necessarily:0.0966', 'mr:0.0947', 'werent:0.0513']+titles_keywords+['ukraine:0.3742', 'striking:0.2176', 'weapons:0.2112', 'backs:0.1292', 'minister:0.081']"
+        ]
+    ],
+    "GBR+UKR+51":[
+        [
+            "20220705+../news_crawling/RUS_UKR/p_articles/somersetcountygazette.co.uk/Ukraine can retake land recently captured by Russia Johnson tells Zelensky.txt+eventbasecode51+eventcode51+avgtone0.4938461538461539+goldsteinscale0.67+nummentions0.0783744557329463+numarticles0.07904278462654098+numsources0.06578947368421052+news_keywords+['ukraine:0.5117', 'nato:0.3904', 'putins:0.3692', 'blockade:0.2921', 'zelensky:0.2523', 'troop:0.248', 'borisjohnson:0.2428', 'armed:0.2415', 'progress:0.2399', 'remain:0.2358', 'political:0.227', 'forward:0.2159', 'downing:0.2076', 'reconstruction:0.2053', 'secretary:0.1941', 'long:0.1902', 'map:0.1898', 'talk:0.1829', 'lively:0.1759', 'right:0.1524', 'whip:0.1504', 'withdraw:0.1492', 'retake:0.1481', 'lysychansk:0.1478', 'grain:0.1336', 'major:0.1325', 'focus:0.1277', 'thanked:0.1207', 'include:0.1117', 'today:0.1115']+titles_keywords+['zelensky:0.4351', 'ukraine:0.3398', 'johnson:0.2068', 'land:0.176', 'retake:0.1619']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/somersetcountygazette.co.uk/Russia temporarily stops gas flow through Nord Stream 1.txt+eventbasecode51+eventcode51+avgtone0.48223350253807107+goldsteinscale0.67+nummentions0.28156748911465895+numarticles0.2820884699057288+numsources0.2532894736842105+news_keywords+['ukraine:0.4141', 'gas:0.3972', 'pipeline:0.3555', 'embargo:0.3433', 'gazprom:0.337', 'government:0.2649', 'supply:0.2583', 'invade:0.2319', 'nord:0.2237', 'comrzsn:0.2119', 'winter:0.195', 'station:0.1922', 'decrease:0.1854', 'news:0.1799', 'bloc:0.167', 'report:0.1645', 'cite:0.1629', 'push:0.1609', 'plan:0.1563', 'debate:0.1563', 'urgent:0.1536', 'term:0.1438', 'step:0.1318', 'scholz:0.1284', 'continue:0.1274', 'respectively:0.1214', 'say:0.1178', 'long:0.1123', 'chancellor:0.0972', 'xg:0.0788']+titles_keywords+['russia:0.282', 'gas:0.2294', 'nord:0.2261', 'stream:0.1913', 'temporarily:0.1682']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220826+../news_crawling/RUS_UKR/p_articles/somersetcountygazette.co.uk/Moscow film festival opens with praise of soldiers in Donbas.txt+eventbasecode51+eventcode51+avgtone0.5165562913907285+goldsteinscale0.67+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.2631578947368421+news_keywords+['moscow:0.4883', 'mikhalkov:0.4055', 'ukrainian:0.3799', 'nikita:0.355', 'film:0.3342', 'anton:0.2841', 'festival:0.2699', 'donbas:0.2213', 'historical:0.1897', 'academy:0.1698', 'award:0.1685', 'hero:0.1578', 'fight:0.1527', 'industrial:0.1509', 'representation:0.1291', 'separatist:0.1273', 'privilege:0.1203', 'direct:0.1145', 'th:0.1094', 'stay:0.1043', 'burnt:0.0895', 'local:0.0788', 'issue:0.0739', 'anticipate:0.0704', 'actually:0.0697', 'big:0.0624', 'everybody:0.0604', 'want:0.0594', 'reader:0.0593', 'reduce:0.0383']+titles_keywords+['moscow:0.4091', 'festival:0.3049', 'soldiers:0.2941', 'film:0.2748', 'praise:0.2153']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+50":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/presstv.ir/UKs Johnson says West must not normalize ties with Russia.txt+eventbasecode50+eventcode50+avgtone0.47807017543859653+goldsteinscale0.675+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimea:0.4264', 'putin:0.4227', 'russias:0.3766', 'neutrality:0.3131', 'negotiation:0.304', 'occupy:0.254', 'attack:0.2436', 'federation:0.2315', 'refer:0.2295', 'erupt:0.2292', 'normalize:0.2192', 'calm:0.2086', 'foreign:0.1993', 'sanction:0.1976', 'result:0.1852', 'wrong:0.1755', 'future:0.1606', 'term:0.1581', 'order:0.158', 'exactly:0.1518', 'say:0.1489', 'sure:0.1461', 'begin:0.1432', 'volodymyr:0.1375', 'role:0.1306', 'donbass:0.1276', 'realistic:0.1255', 'civilian:0.1216', 'johnson:0.0928', 'havent:0.0353']+titles_keywords+['russia:0.2331', 'johnson:0.1838', 'normalize:0.1829', 'west:0.1151', 'says:0.0725']"
+        ]
+    ],
+    "UKR+RUS+50":[
+        [
+            "20220506+../news_crawling/RUS_UKR/p_articles/presstv.ir/Will Sweden regret joining NATOs Nordic expansion plan.txt+eventbasecode50+eventcode50+avgtone0.5083333333333333+goldsteinscale0.675+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['natos:0.4653', 'finlands:0.3472', 'nordic:0.3425', 'alliance:0.2448', 'moscow:0.2109', 'join:0.1922', 'neutral:0.1766', 'secure:0.1677', 'stability:0.1579', 'possibility:0.1505', 'naval:0.14', 'addition:0.1396', 'strengthen:0.1392', 'deploy:0.1376', 'result:0.1284', 'regret:0.1261', 'coming:0.1071', 'beneficial:0.1044', 'enthusiastic:0.0944', 'step:0.0934', 'plan:0.0876', 'include:0.072', 'area:0.0656', 'review:0.0611', 'th:0.0411', 'say:0.0332', 'new:0.0277', 'spark:0.0185', 'historically:0.0068', 'swift:-0.0101']+titles_keywords+['natos:0.509', 'sweden:0.3911', 'regret:0.2038', 'joining:0.1716', 'expansion:0.1715']"
+        ]
+    ]
+}

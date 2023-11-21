@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+181":[
+        [
+            "20220513+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Three Russian soldiers raped my mother and sister The fourth made me watch Hundreds of.txt+eventbasecode181+eventcode181+avgtone0.465+goldsteinscale0.05+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['russians:0.4721', 'kyiv:0.3987', 'propaganda:0.3937', 'nazi:0.3109', 'victim:0.2868', 'invasion:0.282', 'report:0.274', 'verkhovna:0.2738', 'horrific:0.2694', 'besiege:0.2633', 'rove:0.2579', 'soldier:0.2473', 'consent:0.2226', 'period:0.2093', 'shermans:0.2084', 'know:0.1927', 'psy:0.1802', 'compare:0.1758', 'telegraph:0.1724', 'ignoring:0.1678', 'modern:0.1628', 'exaggeration:0.1624', 'learn:0.1455', 'deep:0.142', 'like:0.1389', 'hotline:0.1383', 'precede:0.1346', 'dump:0.1337', 'memory:0.1291', 'way:0.0992']+titles_keywords+['russian:0.438', 'rape:0.3835', 'soldiers:0.3461', 'fourth:0.2451', 'hundreds:0.2173']"
+        ]
+    ],
+    "UKR+RUS+181":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Captured Russian Troops Call Home While Filmed by Ukrainian Officials Raising Geneva Convention Questions.txt+eventbasecode181+eventcode181+avgtone0.48181818181818187+goldsteinscale0.05+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['russianaggression:0.5146', 'putinsbuttboys:0.5066', 'propaganda:0.4382', 'chechnya:0.4301', 'ukrainians:0.3982', 'genevaconvention:0.3841', 'troop:0.3207', 'invade:0.3018', 'report:0.2702', 'captured:0.2492', 'criminal:0.2381', 'purporting:0.184', 'want:0.1774', 'tolerate:0.1697', 'confusion:0.169', 'video:0.1689', 'response:0.1583', 'point:0.157', 'text:0.1554', 'newworldodor:0.1509', 'theyre:0.1459', 'graduate:0.145', 'sure:0.1375', 'compare:0.1373', 'age:0.122', 'safe:0.1141', 'sere:0.1078', 'welcome:0.0846', 'doesnt:0.0843', 'mama:0.0834']+titles_keywords+['troops:0.3802', 'ukrainian:0.3758', 'geneva:0.3165', 'captured:0.2958', 'questions:0.1172']"
+        ]
+    ]
+}

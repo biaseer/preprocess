@@ -1,0 +1,12 @@
+{
+    "NLD+RUS+20":[
+        [
+            "20211027+../news_crawling/RUS_UKR/p_articles/themoscowtimes.com/Russia Slams Dutch Ruling on Crimean Gold as Dangerous Precedent.txt+eventbasecode20+eventcode20+avgtone0.5176211453744494+goldsteinscale0.65+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['crimea:0.5008', 'gold:0.2992', 'annex:0.29', 'museum:0.243', 'zakharova:0.2381', 'ruling:0.2261', 'political:0.2223', 'artefact:0.2141', 'dutch:0.2137', 'volodymyr:0.203', 'sovereign:0.1892', 'subject:0.1859', 'petition:0.1771', 'stay:0.1702', 'motif:0.1631', 'span:0.1573', 'state:0.1519', 'trade:0.1507', 'bastrykin:0.1481', 'piece:0.1239', 'loan:0.1219', 'say:0.1209', 'regain:0.1209', 'long:0.117', 'non:0.1101', 'wednesday:0.0873', 'probe:0.0865', 'head:0.0798', 'crossroads:0.0735', 'thoroughly:0.0659']+titles_keywords+['crimean:0.4069', 'gold:0.2878', 'precedent:0.2169', 'dangerous:0.1845', 'slams:0.0986']"
+        ]
+    ],
+    "RUS+RUS+20":[
+        [
+            "20210630+../news_crawling/RUS_UKR/p_articles/themoscowtimes.com/Russia Wields S400 Missile Systems in Response to USLed Black Sea Drills.txt+eventbasecode20+eventcode20+avgtone0.47692307692307695+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.5566', 'nato:0.4521', 'russias:0.4086', 'russian:0.3547', 'navys:0.3002', 'combat:0.2919', 'missile:0.2854', 'activate:0.238', 'firing:0.2358', 'hms:0.2336', 'warn:0.2247', 'exercise:0.2229', 'drill:0.2005', 'buildup:0.1908', 'radar:0.1891', 'border:0.1773', 'response:0.1761', 'involve:0.1718', 'monday:0.1701', 'systems:0.1678', 'check:0.1482', 'zone:0.1383', 'cover:0.1378', 'spring:0.1263', 'complicate:0.1221', 'long:0.1143', 'pantsir:0.106', 'closely:0.1008', 'su:0.0956', 'actual:0.059']+titles_keywords+['s400:0.4253', 'russia:0.4116', 'missile:0.383', 'systems:0.2043', 'response:0.1683']"
+        ]
+    ]
+}

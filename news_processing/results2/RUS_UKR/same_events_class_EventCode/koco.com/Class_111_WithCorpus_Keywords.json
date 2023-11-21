@@ -1,0 +1,12 @@
+{
+    "NOR+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/koco.com/What does Putin want in Ukraine The conflict explained.txt+eventbasecode111+eventcode111+avgtone0.47600369173973234+goldsteinscale0.4+nummentions0.02576197387518142+numarticles0.026468455402465556+numsources0.046052631578947366+news_keywords+['putin:0.5148', 'kyiv:0.4019', 'nato:0.3368', 'diplomacy:0.3194', 'invade:0.3188', 'propaganda:0.2911', 'separatist:0.2645', 'want:0.2513', 'bloodshed:0.2462', 'tensions:0.2351', 'cyberattacks:0.2325', 'coordinate:0.2281', 'justify:0.2204', 'know:0.2198', 'prepare:0.2012', 'pretext:0.1806', 'news:0.1799', 'secretary:0.1603', 'pipeline:0.1555', 'linguistically:0.1498', 'modernize:0.1479', 'end:0.143', 'responding:0.1201', 'sequence:0.1158', 'year:0.1085', 'longer:0.1062', 'reintegrate:0.098', 'similar:0.0927', 'upper:0.0801', 'population:0.0706']+titles_keywords+['putin:0.5202', 'ukraine:0.4551', 'conflict:0.3924', 'want:0.2861', 'explained:0.2808']"
+        ]
+    ],
+    "USA+RUS+111":[
+        [
+            "20220201+../news_crawling/RUS_UKR/p_articles/koco.com/US officials Indications Russia has moved blood supplies to Ukraine border.txt+eventbasecode111+eventcode111+avgtone0.4740882917466411+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.013157894736842105+news_keywords+['ukraine:0.4621', 'nato:0.4416', 'invade:0.3683', 'war:0.3411', 'blood:0.3041', 'reuters:0.2923', 'troop:0.2847', 'border:0.2708', 'imminent:0.2332', 'concern:0.2289', 'zelensky:0.2274', 'unprepared:0.219', 'supply:0.2105', 'president:0.2081', 'panic:0.1992', 'interpret:0.1962', 'indicator:0.1859', 'casualty:0.182', 'information:0.1616', 'weapon:0.1607', 'psaki:0.1582', 'movement:0.153', 'instead:0.1379', 'accumulation:0.1215', 'exchange:0.1213', 'fourth:0.1068', 'spread:0.1002', 'month:0.0998', 'short:0.0933', 'true:0.0215']+titles_keywords+['ukraine:0.4148', 'blood:0.3721', 'supplies:0.2029', 'indications:0.1647', 'moved:0.1252']"
+        ]
+    ]
+}

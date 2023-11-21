@@ -1,0 +1,12 @@
+{
+    "RUS+EUR+192":[
+        [
+            "20220207+../news_crawling/RUS_UKR/p_articles/kxxv.com/Ukrainian officials say Chernobyl site is now off the power grid.txt+eventbasecode192+eventcode192+avgtone0.4708994709+goldsteinscale0.025+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.019736842105263157+news_keywords+['chernobyl:0.6639', 'nuclear:0.426', 'decommission:0.3577', 'ukrainian:0.3027', 'disaster:0.2642', 'safety:0.2486', 'concerned:0.2271', 'generator:0.225', 'operate:0.212', 'outage:0.2065', 'uninhabitable:0.2047', 'iaea:0.1847', 'grid:0.1799', 'contaminate:0.1755', 'plant:0.1536', 'report:0.1503', 'consequence:0.1485', 'troop:0.141', 'building:0.1283', 'world:0.1185', 'enerhodar:0.1134', 'campus:0.0935', 'state:0.0907', 'prevent:0.0846', 'official:0.0837', 'surround:0.0784', 'soon:0.075', 'level:0.0528', 'parameter:0.0494', 'especially:0.0447']+titles_keywords+['chernobyl:0.5703', 'ukrainian:0.2779', 'grid:0.1718', 'power:0.0796', 'site:0.069']"
+        ]
+    ],
+    "UKR+RUS+192":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/kxxv.com/Biden Putin should face war crimes trial for killings in Ukraine.txt+eventbasecode192+eventcode192+avgtone0.447653429602888+goldsteinscale0.025+nummentions0.04970972423802612+numarticles0.05039883973894126+numsources0.06907894736842106+news_keywords+['putin:0.5283', 'ukraines:0.4179', 'kyiv:0.4116', 'nato:0.3893', 'war:0.338', 'biden:0.3375', 'zelenskyy:0.3284', 'investigation:0.3201', 'killing:0.2966', 'merkels:0.28', 'allegation:0.2779', 'sanction:0.2658', 'report:0.2524', 'bucha:0.2378', 'tortured:0.2303', 'negotiation:0.2271', 'visit:0.1792', 'bid:0.1768', 'casualty:0.176', 'agreement:0.1757', 'german:0.1648', 'breach:0.1642', 'monday:0.1629', 'say:0.1554', 'end:0.145', 'follow:0.1356', 'resist:0.1266', 'face:0.1252', 'flirt:0.1024', 'possible:0.0735']+titles_keywords+['putin:0.4735', 'biden:0.3446', 'killings:0.228', 'trial:0.2276', 'face:0.0251']"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "AUS+UKR+12":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/Ben Fordham launches a SCATHING attack on ABCs outoftouch virus doomsayer Norman Swan after he.txt+eventbasecode12+eventcode12+avgtone0.4573643410852713+goldsteinscale0.48+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['pandemic:0.5116', 'covid:0.5063', 'ukrainecould:0.4256', 'kyiv:0.3806', 'vaccination:0.372', 'invasion:0.3613', 'russians:0.3465', 'putinlaunched:0.3246', 'infect:0.3209', 'vomit:0.2621', 'health:0.2563', 'warn:0.238', 'conflict:0.234', 'nation:0.1917', 'population:0.1873', 'european:0.1789', 'capital:0.1775', 'dr:0.1753', 'increase:0.1688', 'chaotic:0.1639', 'omicron:0.1584', 'ramification:0.1454', 'bad:0.1431', 'roll:0.1225', 'variant:0.1027', 'long:0.0902', 'make:0.0894', 'previously:0.0765', 'radio:0.0747', 'particularly:0.0458']+titles_keywords+['covid:0.4357', 'fordham:0.3329', 'attack:0.2976', 'swan:0.2176', 'warned:0.2121']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/Russian mercenaries have boosted their presence in Ukraine increasing fears Moscow will engineer a false.txt+eventbasecode12+eventcode12+avgtone0.471123417721519+goldsteinscale0.48+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.023026315789473683+news_keywords+['kgb:0.4653', 'nato:0.4397', 'putin:0.4226', 'mercenaries:0.3733', 'troop:0.3508', 'readiness:0.3186', 'donetsk:0.3051', 'nationalists:0.2984', 'incursion:0.2835', 'diplomacy:0.2825', 'pentagon:0.2701', 'annex:0.2605', 'suspect:0.252', 'reuters:0.2493', 'pretext:0.2452', 'border:0.2387', 'tank:0.2341', 'concern:0.2334', 'alert:0.2288', 'flag:0.228', 'sabotage:0.2194', 'justify:0.2068', 'precede:0.2035', 'increase:0.1705', 'fabricate:0.1518', 'false:0.1459', 'come:0.1424', 'month:0.1242', 'gru:0.1173', 'state:0.0989']+titles_keywords+['mercenaries:0.4302', 'invasion:0.3434', 'moscow:0.3299', 'flag:0.1681', 'increasing:0.1098']"
+        ],
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/Ukraine crisis is WORSE than the Cold War says Russias former president Dmitry Medvedev as.txt+eventbasecode12+eventcode12+avgtone0.47463175122749596+goldsteinscale0.48+nummentions0.008345428156748911+numarticles0.005438723712835388+numsources0.003289473684210526+news_keywords+['putin:0.5095', 'medvedev:0.4174', 'conflict:0.3086', 'proceed:0.2651', 'nuclear:0.262', 'election:0.2465', 'sanction:0.2433', 'future:0.2394', 'talk:0.2292', 'sputnik:0.2291', 'news:0.2255', 'nationalise:0.198', 'businessmen:0.1944', 'term:0.1884', 'world:0.1863', 'boil:0.1838', 'order:0.1838', 'point:0.1832', 'use:0.1802', 'counterpart:0.1763', 'worse:0.1631', 'effect:0.1561', 'look:0.1383', 'head:0.1332', 'believe:0.1327', 'state:0.13', 'ria:0.1237', 'big:0.1218', 'include:0.1055', 'array:0.0762']+titles_keywords+['medvedev:0.4097', 'ukraine:0.3215', 'war:0.2813', 'worse:0.2497', 'says:0.0803']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/Everything that was said was done Heather Mills recalls meeting Vladimir Putin during 2003 world.txt+eventbasecode12+eventcode12+avgtone0.4991319444444444+goldsteinscale0.48+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4361', 'putin:0.43', 'conflict:0.3634', 'heather:0.3284', 'mccartney:0.3105', 'government:0.2738', 'landmines:0.2445', 'speaking:0.2229', 'change:0.2221', 'convince:0.2189', 'world:0.2188', 'say:0.2059', 'point:0.1879', 'want:0.1867', 'produce:0.184', 'stop:0.1805', 'touring:0.1804', 'care:0.1761', 'model:0.1761', 'businesswoman:0.1721', 'waste:0.1634', 'massive:0.1628', 'podcast:0.1623', 'marry:0.1542', 'far:0.1416', 'reveal:0.1411', 'bad:0.1402', 'later:0.1223', 'year:0.0993', 'set:0.0909']+titles_keywords+['putin:0.4065', 'landmines:0.3653', 'mccartney:0.3401', '2003:0.1704', 'said:0.1488']"
+        ]
+    ]
+}

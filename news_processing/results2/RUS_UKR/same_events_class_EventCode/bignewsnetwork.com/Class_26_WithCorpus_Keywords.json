@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+26":[
+        [
+            "20220128+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/EU UK planning massive sanctions against Russian gas media.txt+eventbasecode26+eventcode26+avgtone0.4701492537313433+goldsteinscale0.7+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['ukraine:0.4563', 'nato:0.3929', 'pipeline:0.2954', 'gas:0.2717', 'invasion:0.2529', 'negotiation:0.2421', 'expand:0.2209', 'lavrov:0.2188', 'aggressive:0.2178', 'diplomat:0.2177', 'imminent:0.1878', 'table:0.1832', 'eurostat:0.1805', 'security:0.1765', 'oppose:0.1762', 'sector:0.1653', 'bloc:0.1633', 'plan:0.1604', 'punish:0.1557', 'spar:0.1345', 'current:0.1314', 'term:0.1251', 'buy:0.1183', 'export:0.1127', 'step:0.1122', 'write:0.1074', 'long:0.0964', 'point:0.0956', 'olaf:0.0738', 'link:0.0603']+titles_keywords+['sanctions:0.4797', 'russian:0.2886', 'media:0.2312', 'uk:0.2084', 'gas:0.202']"
+        ]
+    ],
+    "RUS+FRA+26":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Putin and Macron agree on measures to halt escalation in Ukraine.txt+eventbasecode26+eventcode26+avgtone0.493573264781491+goldsteinscale0.7+nummentions0.02648766328011611+numarticles0.02719361856417694+numsources0.01644736842105263+news_keywords+['ceasefire:0.4443', 'diplomatic:0.3989', 'nato:0.3832', 'putin:0.3773', 'macron:0.3539', 'ukrainians:0.3178', 'escalation:0.314', 'meeting:0.3001', 'contact:0.2943', 'urgent:0.2598', 'evacuate:0.2365', 'lavrov:0.2035', 'order:0.1929', 'paris:0.1928', 'counterpart:0.172', 'plan:0.1704', 'subject:0.1687', 'trilateral:0.1662', 'immediately:0.1649', 'consist:0.1626', 'eastern:0.1597', 'resume:0.1582', 'general:0.1513', 'rt:0.142', 'format:0.1377', 'decide:0.1336', 'draw:0.1241', 'poise:0.1041', 'possible:0.0944', 'agree:0.0844']+titles_keywords+['macron:0.3891', 'ukraine:0.3026', 'escalation:0.2344', 'agree:0.0999', 'measures:0.0695']"
+        ]
+    ]
+}

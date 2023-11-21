@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+40":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/thehimalayantimes.com/Ukraine says Russian forces seize Zaporizhzhia nuclear plant.txt+eventbasecode40+eventcode40+avgtone0.4938650306748466+goldsteinscale0.55+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.023026315789473683+news_keywords+['ukraine:0.4501', 'nuclear:0.4377', 'reactor:0.3963', 'zaporizhzhia:0.3698', 'military:0.212', 'operational:0.2081', 'facility:0.2067', 'emergency:0.1992', 'granholm:0.1979', 'containment:0.1967', 'power:0.1867', 'plant:0.1766', 'attack:0.1635', 'inspectorate:0.1609', 'seize:0.1593', 'station:0.1398', 'safely:0.1383', 'southeast:0.1191', 'story:0.1087', 'near:0.1065', 'thursday:0.0954', 'reading:0.0945', 'condition:0.0937', 'twitter:0.0897', 'state:0.0888', 'speak:0.0852', 'set:0.0788', 'monitor:0.0723', 'quote:0.0645', 'large:0.0592']+titles_keywords+['zaporizhzhia:0.4148', 'ukraine:0.4088', 'nuclear:0.3072', 'seize:0.2118', 'says:0.068']"
+        ],
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/thehimalayantimes.com/EDITORIAL Realty business.txt+eventbasecode40+eventcode40+avgtone0.49150326797385624+goldsteinscale0.55+nummentions0.01088534107402032+numarticles0.011602610587382161+numsources0.03289473684210526+news_keywords+['realty:0.432', 'kathmandu:0.4019', 'shortage:0.289', 'industry:0.2872', 'chaudhary:0.2642', 'farm:0.25', 'project:0.2458', 'sector:0.2406', 'increase:0.2348', 'government:0.2204', 'landslide:0.2193', 'analysis:0.2163', 'bury:0.2149', 'tract:0.2069', 'covet:0.2065', 'stay:0.2053', 'report:0.204', 'trend:0.2003', 'rs:0.1916', 'stabilise:0.1753', 'million:0.172', 'let:0.1716', 'transaction:0.1587', 'implementable:0.1563', 'boom:0.1505', 'february:0.1505', 'like:0.1471', 'square:0.1408', 'till:0.1358', 'headworks:0.133']+titles_keywords+['realty:0.7054', 'business:0.5028', 'editorial:0.4611']"
+        ]
+    ]
+}

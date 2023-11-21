@@ -1,0 +1,22 @@
+{
+    "CHE+RUS+43":[
+        [
+            "20220107+../news_crawling/RUS_UKR/p_articles/greekherald.com/NATO Foreign Ministers Unified On Russia Strategy Ahead Of Busy Week.txt+eventbasecode43+eventcode43+avgtone0.4972451790633608+goldsteinscale0.64+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.02631578947368421+news_keywords+['nato:0.5522', 'putin:0.428', 'crimea:0.4067', 'diplomacy:0.3996', 'militarily:0.3574', 'sergei:0.3487', 'pentagon:0.2764', 'invade:0.2685', 'destabilize:0.248', 'escalation:0.2407', 'veteran:0.1892', 'border:0.1725', 'prepare:0.1677', 'videoconference:0.1672', 'meet:0.1637', 'council:0.1626', 'avert:0.1601', 'ally:0.1589', 'report:0.1412', 'promise:0.1259', 'radio:0.1104', 'risk:0.1072', 'matter:0.1069', 'unified:0.0993', 'week:0.0969', 'evidence:0.0965', 'busy:0.0914', 'republished:0.0785', 'set:0.0729', 'internal:0.0551']+titles_keywords+['nato:0.5127', 'strategy:0.3232', 'unified:0.1995', 'week:0.177', 'ministers:0.151']"
+        ]
+    ],
+    "CHN+UKR+43":[
+        [
+            "20220807+../news_crawling/RUS_UKR/p_articles/greekherald.com/Tons of Grain Leaving Ukraine.txt+eventbasecode43+eventcode43+avgtone0.4757085020242915+goldsteinscale0.64+nummentions0.011248185776487663+numarticles0.011965192168237854+numsources0.013157894736842105+news_keywords+['ukraine:0.4709', 'zelenskyy:0.3867', 'amnesty:0.3395', 'invasion:0.3347', 'humanitarian:0.2964', 'terroristic:0.2871', 'threat:0.2736', 'protest:0.2548', 'grain:0.2517', 'oksana:0.2485', 'unprovoked:0.247', 'silence:0.1963', 'repel:0.1878', 'resign:0.1859', 'president:0.1834', 'organization:0.1777', 'report:0.1749', 'port:0.1721', 'result:0.1659', 'begin:0.1506', 'blockage:0.1483', 'february:0.1361', 'selectivity:0.1325', 'include:0.1231', 'corridor:0.1126', 'head:0.11', 'set:0.0819', 'eloquent:0.0732', 'hypothetically:0.0726', 'price:0.0644']+titles_keywords+['grain:0.4641', 'ukraine:0.4427', 'tons:0.2528', 'leaving:0.2444']"
+        ]
+    ],
+    "RUS+TUR+43":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/greekherald.com/White Helmets group shares tips with Ukrainians media.txt+eventbasecode43+eventcode43+avgtone0.484775641025641+goldsteinscale0.64+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.029605263157894735+news_keywords+['ukraine:0.4446', 'nato:0.4339', 'propaganda:0.3911', 'damascus:0.3691', 'genocide:0.344', 'troop:0.3414', 'terrorist:0.3379', 'unprovoked:0.2828', 'government:0.2769', 'diplomatic:0.2753', 'territory:0.2699', 'helmets:0.2618', 'bloc:0.2416', 'report:0.234', 'evidence:0.2309', 'term:0.2036', 'help:0.1978', 'flee:0.1883', 'agreement:0.1842', 'fight:0.167', 'donbass:0.1619', 'say:0.1604', 'translated:0.1572', 'implement:0.1567', 'overarch:0.1564', 'white:0.1532', 'camera:0.1482', 'surge:0.1463', 'include:0.1298', 'early:0.0849']+titles_keywords+['ukrainians:0.4085', 'helmets:0.3815', 'white:0.2455', 'media:0.2147', 'tips:0.2046']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/greekherald.com/Nobel Prize to be sold by Russian to raise money for Ukrainians.txt+eventbasecode43+eventcode43+avgtone0.5+goldsteinscale0.64+nummentions0.261611030478955+numarticles0.2621464829586657+numsources0.29605263157894735+news_keywords+['nobel:0.5041', 'refugees:0.404', 'humanitarian:0.3909', 'ukrainians:0.384', 'dmitry:0.3665', 'moscow:0.3664', 'muratov:0.3508', 'prize:0.3117', 'medal:0.3053', 'reuters:0.3004', 'peace:0.2592', 'maria:0.2378', 'money:0.2115', 'philippines:0.2113', 'thousand:0.208', 'fund:0.208', 'announce:0.1972', 'world:0.1921', 'report:0.1839', 'famous:0.1792', 'ressa:0.1682', 'fled:0.163', 'sell:0.1604', 'respond:0.1419', 'paper:0.1327', 'note:0.1098', 'displace:0.1066', 'decide:0.0834', 'attend:0.0829', 'corridor:0.0547']+titles_keywords+['nobel:0.4904', 'ukrainians:0.4286', 'prize:0.3626', 'money:0.2698', 'sold:0.1599']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "GBR+RUS+14":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/watfordobserver.co.uk/Mikhail Gorbachev urged British boy to live a life that makes a difference.txt+eventbasecode14+eventcode14+avgtone0.5025380710659898+goldsteinscale0.5+nummentions0.25544267053701014+numarticles0.25598259608411894+numsources0.3848684210526316+news_keywords+['gorbachev:0.6245', 'soviet:0.4997', 'perestroika:0.4539', 'putins:0.4055', 'thatcher:0.3184', 'boris:0.2529', 'ambassador:0.2092', 'policy:0.2008', 'british:0.1955', 'introduce:0.1879', 'business:0.1819', 'privilege:0.1785', 'important:0.1711', 'encourage:0.1665', 'successful:0.1657', 'aggression:0.1647', 'read:0.157', 'debate:0.1567', 'glasnost:0.154', 'mr:0.1449', 'world:0.1247', 'live:0.1155', 'young:0.1137', 'sign:0.0978', 'right:0.0918', 'year:0.079', 'withdraw:0.069', 'iron:0.0669', 'longer:0.0553', 'curtain:0.0531']+titles_keywords+['gorbachev:0.5048', 'british:0.2597', 'live:0.1909', 'urged:0.1291', 'difference:0.1267']"
+        ]
+    ],
+    "RUS+UKR+14":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/watfordobserver.co.uk/Countries should ban use of Russian war symbol Z Ukraine minister.txt+eventbasecode14+eventcode14+avgtone0.49159663865546216+goldsteinscale0.5+nummentions0.2525399129172714+numarticles0.25308194343727336+numsources0.20723684210526316+news_keywords+['ukraine:0.4975', 'kremlin:0.4578', 'russias:0.4222', 'symbol:0.3364', 'war:0.3296', 'misuse:0.2998', 'german:0.2935', 'troop:0.2721', 'letter:0.2684', 'criminalize:0.2639', 'context:0.2623', 'barbarism:0.2591', 'ban:0.2519', 'privilege:0.2513', 'security:0.249', 'investigation:0.2033', 'vehicle:0.2005', 'people:0.1773', 'dmytro:0.1653', 'issue:0.1553', 'state:0.1516', 'publicly:0.1385', 'want:0.1357', 'liable:0.1315', 'make:0.1273', 'spokesman:0.122', 'tweet:0.1128', 'right:0.1102', 'tuesday:0.0826', 'thousand:0.0529']+titles_keywords+['ukraine:0.4796', 'symbol:0.3139', 'war:0.2591', 'ban:0.2281', 'minister:0.0981']"
+        ],
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/watfordobserver.co.uk/Russian soldier sentenced to life at Kyiv war crimes trial.txt+eventbasecode14+eventcode14+avgtone0.4646017699115045+goldsteinscale0.5+nummentions0.11465892597968069+numarticles0.11530094271211022+numsources0.2598684210526316+news_keywords+['kyiv:0.4947', 'kremlin:0.4397', 'trial:0.3468', 'civilians:0.3464', 'yavorsky:0.3432', 'war:0.3225', 'crime:0.2885', 'nationalist:0.2751', 'azov:0.2648', 'kill:0.2497', 'casualty:0.2491', 'atrocity:0.2412', 'sergeant:0.2403', 'captured:0.215', 'tank:0.2011', 'decide:0.1844', 'organisation:0.1593', 'story:0.1593', 'bucha:0.1558', 'return:0.1379', 'shishimarins:0.1312', 'eastern:0.1181', 'prove:0.1176', 'right:0.1154', 'unprepared:0.1104', 'far:0.1086', 'main:0.0998', 'maximum:0.098', 'reader:0.0959', 'numerous:0.0955']+titles_keywords+['kyiv:0.4269', 'russian:0.3566', 'sentenced:0.3469', 'soldier:0.2412', 'life:0.2062']"
+        ]
+    ]
+}

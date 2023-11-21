@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+138":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/thestar.com.my/China unsettled by Ukraine but dont underestimate Xi Jinpings Taiwan resolve warns CIA director.txt+eventbasecode138+eventcode138+avgtone0.48630136986301375+goldsteinscale0.15+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['prc:0.4376', 'korea:0.333', 'ukrainians:0.3188', 'moscow:0.3037', 'militarily:0.2996', 'cia:0.2908', 'political:0.2626', 'leaderships:0.251', 'nuclear:0.2382', 'deterrence:0.2249', 'concern:0.219', 'coordinate:0.2187', 'topic:0.2112', 'jinpings:0.2108', 'reunify:0.2081', 'revise:0.2006', 'expand:0.198', 'sectoral:0.1728', 'global:0.1702', 'compare:0.1625', 'warn:0.15', 'infographics:0.1444', 'posture:0.141', 'indo:0.1401', 'forward:0.1381', 'covid:0.1362', 'decade:0.1095', 'theyve:0.1028', 'unclear:0.0948', 'knotty:0.0583']+titles_keywords+['taiwan:0.3746', 'cia:0.2877', 'jinpings:0.2417', 'warns:0.1867', 'resolve:0.1506']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220506+../news_crawling/RUS_UKR/p_articles/thestar.com.my/US offers 15 million reward for information on Conti ransomware group.txt+eventbasecode138+eventcode138+avgtone0.4727722772277228+goldsteinscale0.15+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['ransomware:0.5767', 'reward:0.4342', 'extortion:0.4049', 'fbi:0.3757', 'russia:0.3361', 'million:0.3001', 'cyber:0.2844', 'victim:0.2804', 'protect:0.2658', 'information:0.2538', 'invasion:0.2383', 'total:0.233', 'price:0.2201', 'platform:0.2165', 'reuterskacper:0.2112', 'tax:0.2033', 'file:0.2016', 'conspiring:0.1824', 'group:0.1813', 'identification:0.1789', 'april:0.175', 'hood:0.1742', 'estimate:0.1731', 'project:0.1695', 'statement:0.1569', 'respond:0.1511', 'central:0.1461', 'conti:0.1393', 'hold:0.1101', 'pempelillustrationfile:0.0968']+titles_keywords+['ransomware:0.5535', 'reward:0.4044', 'million:0.3035', 'group:0.206', 'conti:0.1957']"
+        ]
+    ],
+    "WST+RUS+138":[
+        [
+            "20211021+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Putin says Western military backing of Ukraine threatens Russia.txt+eventbasecode138+eventcode138+avgtone0.4957894736842105+goldsteinscale0.15+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.013157894736842105+news_keywords+['putin:0.5161', 'crimea:0.5026', 'kremlin:0.4927', 'nato:0.4651', 'kyiv:0.4563', 'annexation:0.3144', 'separatists:0.3007', 'sputnikmaksim:0.2948', 'reuters:0.2899', 'threat:0.2592', 'cybersecurity:0.2277', 'oppose:0.2117', 'veto:0.2108', 'report:0.1657', 'investment:0.1652', 'direction:0.1591', 'thursday:0.1563', 'say:0.1545', 'osborn:0.153', 'formal:0.1502', 'foreign:0.1415', 'valdai:0.1256', 'end:0.1217', 'right:0.1193', 'join:0.1135', 'upbeat:0.1043', 'hour:0.09', 'stag:0.0856', 'send:0.0645', 'marrow:0.0474']+titles_keywords+['putin:0.4504', 'backing:0.1842', 'military:0.1719', 'western:0.131', 'says:0.0375']"
+        ]
+    ]
+}

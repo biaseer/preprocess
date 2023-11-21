@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20211120+../news_crawling/RUS_UKR/p_articles/wdsm710.com/US patrol boats sent to beef up Ukrainian Navy near Black Sea.txt+eventbasecode112+eventcode112+avgtone0.4811046511627907+goldsteinscale0.4+nummentions0.018142235123367198+numarticles0.01885424220449601+numsources0.02631578947368421+news_keywords+['crimea:0.5444', 'nato:0.4739', 'kremlin:0.4189', 'naval:0.3694', 'vessel:0.2876', 'port:0.2542', 'attack:0.2396', 'tank:0.2392', 'reuters:0.2171', 'concern:0.2099', 'strait:0.2075', 'transit:0.2064', 'separatist:0.2038', 'ammunition:0.2012', 'want:0.1867', 'infrastructure:0.1776', 'prepare:0.1738', 'proximity:0.1698', 'expand:0.1657', 'baltimore:0.1654', 'swath:0.1608', 'black:0.1475', 'prospect:0.1465', 'built:0.12', 'way:0.0982', 'similar:0.0941', 'unusual:0.0916', 'week:0.0862', 'earlier:0.076', 'billion:0.069']+titles_keywords+['navy:0.3608', 'ukrainian:0.3055', 'boats:0.3031', 'near:0.0882', 'sent:0.0432']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20211228+../news_crawling/RUS_UKR/p_articles/wdsm710.com/US helps Ukraine to strengthen its border with Russia Belarus.txt+eventbasecode112+eventcode112+avgtone0.4740259740259741+goldsteinscale0.4+nummentions0.018142235123367198+numarticles0.01885424220449601+numsources0.023026315789473683+news_keywords+['natos:0.5205', 'ukraines:0.4993', 'belarus:0.4445', 'kyiv:0.4157', 'border:0.337', 'treaty:0.3157', 'troop:0.281', 'security:0.2772', 'attack:0.2601', 'reuters:0.2529', 'ammunition:0.2416', 'monitoring:0.2238', 'escalation:0.2176', 'strengthen:0.216', 'eastward:0.1972', 'drone:0.1899', 'organization:0.1623', 'project:0.161', 'continue:0.1514', 'destabilise:0.1435', 'help:0.1428', 'join:0.1399', 'purchase:0.1372', 'video:0.1202', 'include:0.1143', 'million:0.1115', 'near:0.1053', 'possible:0.0675', 'series:0.0415', 'say:0.0411']+titles_keywords+['ukraine:0.3968', 'belarus:0.3638', 'border:0.2561', 'strengthen:0.2142', 'helps:0.1342']"
+        ]
+    ]
+}

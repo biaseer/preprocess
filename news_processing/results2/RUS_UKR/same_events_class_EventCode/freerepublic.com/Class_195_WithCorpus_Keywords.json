@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+195":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Invaders launched airstrikes on Kramatorsk railway damaged.txt+eventbasecode195+eventcode195+avgtone0.47413793103448276+goldsteinscale0.0+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['airstrikes:0.4093', 'attack:0.3819', 'missile:0.3295', 'ukraine:0.329', 'timing:0.3015', 'situation:0.2991', 'happen:0.2938', 'result:0.2875', 'article:0.2867', 'remind:0.2771', 'message:0.2632', 'coordinate:0.2616', 'morning:0.2597', 'internet:0.2563', 'troop:0.2442', 'type:0.2392', 'mistake:0.2312', 'goncharenko:0.214', 'post:0.2103', 'unclear:0.2031', 'know:0.1996', 'railway:0.1987', 'impossible:0.1914', 'link:0.186', 'check:0.1857', 'april:0.1848', 'th:0.1738', 'mourn:0.1453', 'mayor:0.1315', 'photosvideos:0.0659']+titles_keywords+['airstrikes:0.4733', 'kramatorsk:0.3488', 'invaders:0.3418', 'damaged:0.3272', 'railway:0.2737']"
+        ]
+    ],
+    "UKR+RUS+195":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Former Air Force Officers Please Explain MiG Situation.txt+eventbasecode195+eventcode195+avgtone0.4955357142857143+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.4548', 'mig:0.4484', 'aircraft:0.3761', 'awacs:0.334', 'ukrainian:0.3306', 'tactical:0.2786', 'administration:0.2215', 'interference:0.1928', 'ally:0.19', 'fight:0.1858', 'propaganda:0.1826', 'flare:0.1785', 'alter:0.165', 'af:0.1641', 'concern:0.1613', 'buy:0.1433', 'sure:0.1392', 'explain:0.1253', 'function:0.1194', 'columns:0.1193', 'moot:0.1184', 'similar:0.1168', 'sams:0.1138', 'wont:0.1124', 'additional:0.1106', 'plenty:0.0903', 'way:0.0867', 'ground:0.0806', 'biden:0.0799', 'true:0.079']+titles_keywords+['mig:0.6328', 'officers:0.2897', 'explain:0.1565', 'situation:0.1529', 'air:0.1436']"
+        ]
+    ]
+}

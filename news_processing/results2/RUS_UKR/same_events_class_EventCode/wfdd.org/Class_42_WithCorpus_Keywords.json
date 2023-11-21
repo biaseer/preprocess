@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+42":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/wfdd.org/RussiaUkraine war What happened today June 16.txt+eventbasecode42+eventcode42+avgtone0.47766990291262135+goldsteinscale0.595+nummentions0.25217706821480407+numarticles0.2527193618564177+numsources0.3157894736842105+news_keywords+['ukraine:0.5286', 'russiaukraine:0.5077', 'nato:0.4283', 'war:0.3858', 'orthodox:0.284', 'zelenskyy:0.2734', 'macron:0.2125', 'npr:0.2099', 'alert:0.1997', 'maria:0.1983', 'recap:0.1879', 'sanction:0.1824', 'read:0.1814', 'soon:0.1796', 'capital:0.1792', 'june:0.1601', 'pledge:0.146', 'general:0.135', 'changing:0.1346', 'adoption:0.1201', 'flank:0.1189', 'want:0.1186', 'cyber:0.1126', 'lvova:0.1098', 'facilitate:0.099', 'plus:0.0975', 'subscribe:0.0887', 'pullout:0.087', 'prepositioned:0.087', 'thousand:0.0639']+titles_keywords+['russiaukraine:0.4894', 'war:0.4291', 'today:0.3085', 'june:0.3051', 'happened:0.2632']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/wfdd.org/Whats motivating the foreigners who have gone to Ukraine to fight against Russia.txt+eventbasecode42+eventcode42+avgtone0.4736842105263158+goldsteinscale0.595+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukraine:0.5319', 'russia:0.4367', 'foreigner:0.3391', 'fight:0.2968', 'motivate:0.2601', 'whats:0.1187']+titles_keywords+['ukraine:0.4817', 'foreigners:0.3997', 'motivating:0.2879', 'fight:0.2001', 'whats:0.0971']"
+        ]
+    ]
+}

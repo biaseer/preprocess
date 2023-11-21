@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+60":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/itv.com/Ukrainians last stand to battle for Mariupol as city expected to fall within 24 hours.txt+eventbasecode60+eventcode60+avgtone0.4641089108910891+goldsteinscale0.8+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.019736842105263157+news_keywords+['ukraine:0.5237', 'airstrikes:0.3989', 'infantry:0.335', 'evacuate:0.3058', 'zelenskyy:0.298', 'separatist:0.278', 'conflict:0.2637', 'correspondent:0.2612', 'government:0.244', 'know:0.2116', 'update:0.2107', 'donbas:0.2078', 'future:0.2063', 'intensifies:0.1915', 'turn:0.1848', 'surge:0.1768', 'learn:0.1736', 'long:0.173', 'phosphorous:0.1677', 'kilometre:0.1663', 'nehammer:0.1636', 'unguided:0.1612', 'boy:0.1601', 'temperature:0.156', 'begin:0.1514', 'swath:0.1498', 'import:0.1409', 'horrific:0.1384', 'major:0.1225', 'flatten:0.1021']+titles_keywords+['ukrainians:0.4165', 'mariupol:0.2958', 'battle:0.2576', 'city:0.1694', 'hours:0.1323']"
+        ]
+    ],
+    "RUS+UKR+60":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/itv.com/Ukrainians remain defiant as Russian troops close in on Kyiv.txt+eventbasecode60+eventcode60+avgtone0.47421203438395415+goldsteinscale0.8+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['crimea:0.4961', 'ukrainians:0.4396', 'putin:0.3626', 'troop:0.3455', 'invasion:0.3267', 'zelenskyy:0.2898', 'enemy:0.2804', 'defiance:0.2798', 'confront:0.2466', 'government:0.2314', 'tank:0.2309', 'tiananmen:0.222', 'video:0.2158', 'traffic:0.2149', 'understand:0.2113', 'border:0.206', 'brave:0.2042', 'sentiment:0.1851', 'despite:0.1784', 'echo:0.175', 'act:0.1683', 'continue:0.1661', 'shooting:0.164', 'stand:0.1567', 'come:0.1529', 'heard:0.151', 'word:0.1496', 'swerve:0.1134', 'thousand:0.0976', 'send:0.0952']+titles_keywords+['kyiv:0.4646', 'ukrainians:0.3925', 'defiant:0.2927', 'troops:0.2052', 'close:0.0902']"
+        ]
+    ]
+}

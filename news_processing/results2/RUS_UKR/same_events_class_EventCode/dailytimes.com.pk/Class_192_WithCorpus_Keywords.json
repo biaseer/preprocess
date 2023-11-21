@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+192":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/dailytimes.com.pk/Twinkle wades into hijab row says it makes her chuckle.txt+eventbasecode192+eventcode192+avgtone0.5187637969094923+goldsteinscale0.025+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['hijab:0.5746', 'bhai:0.3364', 'twinkle:0.3331', 'veil:0.3046', 'woman:0.2762', 'peace:0.2673', 'row:0.2622', 'humour:0.261', 'government:0.2582', 'say:0.2414', 'ghungats:0.2324', 'advocate:0.2269', 'disturb:0.2267', 'ukraines:0.2238', 'snippet:0.2164', 'write:0.2157', 'head:0.2127', 'rule:0.2003', 'night:0.1824', 'issue:0.1751', 'wad:0.1725', 'quash:0.1692', 'emerge:0.1688', 'rummy:0.1643', 'manoeuvre:0.1496', 'include:0.1203', 'sharing:0.1164', 'sort:0.1146', 'thank:0.1138', 'earlier:0.1008']+titles_keywords+['twinkle:0.5064', 'hijab:0.4821', 'chuckle:0.3798', 'row:0.3017', 'says:0.1761']"
+        ]
+    ],
+    "RUS+UKR+192":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/dailytimes.com.pk/Russian troops start leaving Chernobyl.txt+eventbasecode192+eventcode192+avgtone0.47747747747747754+goldsteinscale0.025+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.013157894736842105+news_keywords+['chernobyl:0.5967', 'ukraines:0.3936', 'nuclear:0.3712', 'belarus:0.3527', 'russian:0.3066', 'troop:0.254', 'plant:0.15', 'border:0.1443', 'besiege:0.1305', 'station:0.1248', 'begin:0.1223', 'leave:0.1167', 'telegram:0.1142', 'town:0.1138', 'invader:0.1132', 'columns:0.1033', 'zone:0.093', 'house:0.0892', 'announce:0.0891', 'number:0.0837', 'form:0.083', 'worker:0.0823', 'thursday:0.0808', 'power:0.0807', 'state:0.0761', 'exclusion:0.0736', 'currently:0.0727', 'sad:0.0435', 'evidence:0.0395', 'small:0.0286']+titles_keywords+['chernobyl:0.5441', 'russian:0.2902', 'leaving:0.2403', 'troops:0.225', 'start:0.1078']"
+        ]
+    ]
+}

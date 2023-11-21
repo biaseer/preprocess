@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+10":[
+        [
+            "20220511+../news_crawling/RUS_UKR/p_articles/wuft.org/RussiaUkraine war What happened today May 10.txt+eventbasecode10+eventcode10+avgtone0.4807692307692307+goldsteinscale0.5+nummentions0.00544267053701016+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['ukraine:0.5088', 'russiaukraine:0.4837', 'russias:0.4184', 'war:0.3922', 'invasion:0.3504', 'happen:0.2917', 'today:0.254', 'roundup:0.2317', 'late:0.1628', 'coverage:0.1591', 'development:0.1318', 'key:0.1296', 'depth:0.1154']+titles_keywords+['russiaukraine:0.4695', 'war:0.4364', 'today:0.3043', 'happened:0.2805', '10:0.1718']"
+        ],
+        [
+            "20220702+../news_crawling/RUS_UKR/p_articles/wuft.org/Two Ukrainian fighters describe the current state of the frontlines against Russia.txt+eventbasecode10+eventcode10+avgtone0.5+goldsteinscale0.5+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.09210526315789473+news_keywords+['frontlines:0.4924', 'ukrainian:0.4276', 'russia:0.3966', 'war:0.3188', 'solider:0.298', 'fighter:0.2394', 'theyre:0.1488', 'commander:0.1453', 'volunteer:0.1194', 'current:0.0963', 'state:0.0948']+titles_keywords+['frontlines:0.4808', 'ukrainian:0.4312', 'fighters:0.4003', 'current:0.0833', 'state:0.0521']"
+        ]
+    ]
+}

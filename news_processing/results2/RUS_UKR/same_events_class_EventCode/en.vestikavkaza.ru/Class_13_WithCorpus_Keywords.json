@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+13":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/en.vestikavkaza.ru/China expresses readiness to mediate RussiaUkraine talks.txt+eventbasecode13+eventcode13+avgtone0.5031847133757963+goldsteinscale0.52+nummentions0.02576197387518142+numarticles0.026468455402465556+numsources0.029605263157894735+news_keywords+['mediate:0.4767', 'negotiation:0.4204', 'ukraine:0.3887', 'diplomat:0.3769', 'reconciliation:0.3335', 'talk:0.297', 'readiness:0.2879', 'calmness:0.2438', 'alignment:0.1959', 'progress:0.1955', 'relation:0.1839', 'upcoming:0.1833', 'wang:0.1779', 'continue:0.1735', 'expect:0.1618', 'party:0.1471', 'press:0.146', 'promote:0.1431', 'ready:0.1428', 'round:0.1403', 'hope:0.1216', 'direct:0.1183', 'role:0.1169', 'problem:0.1121', 'note:0.1045', 'bloc:0.1026', 'make:0.0998', 'additionally:0.0798', 'non:0.0655', 'wand:0.0519']+titles_keywords+['mediate:0.3845', 'russiaukraine:0.3044', 'china:0.2535', 'talks:0.2309', 'readiness:0.1726']"
+        ]
+    ],
+    "DEU+RUS+13":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/en.vestikavkaza.ru/German Chancellor NATOs decision not to accept Ukraine and Georgia correct.txt+eventbasecode13+eventcode13+avgtone0.5041666666666668+goldsteinscale0.52+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['nato:0.531', 'kiev:0.3399', 'russia:0.3332', 'georgia:0.2682', 'scholz:0.2648', 'accession:0.2617', 'accept:0.2352', 'german:0.2084', 'decision:0.197', 'conflict:0.1897', 'republic:0.1865', 'chancellor:0.181', 'join:0.169', 'insist:0.1555', 'refer:0.1525', 'correct:0.141', 'thursday:0.1316', 'zdf:0.1315', 'say:0.1264', 'olaf:0.1257', 'long:0.1094', 'maybrit:0.0926', 'summit:0.0864', 'comment:0.0835', 'illner:0.0796', 'undergoingreformsbefore:0.0764', 'current:0.0738', 'timeframe:0.0738', 'host:0.0733', 'channel:0.0591']+titles_keywords+['natos:0.5193', 'decision:0.2467', 'georgia:0.2232', 'german:0.1929', 'chancellor:0.1498']"
+        ]
+    ]
+}

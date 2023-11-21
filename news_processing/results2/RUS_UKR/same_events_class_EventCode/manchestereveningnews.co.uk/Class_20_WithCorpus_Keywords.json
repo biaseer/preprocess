@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+20":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/manchestereveningnews.co.uk/Ukraine crisis LIVE as Ukrainian citizens told to leave Russia now.txt+eventbasecode20+eventcode20+avgtone0.476343026121242+goldsteinscale0.65+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.05592105263157895+news_keywords+['ukraines:0.4499', 'invade:0.427', 'putin:0.3988', 'nato:0.3743', 'escalation:0.3263', 'demilitarisation:0.3015', 'diplomatic:0.301', 'government:0.2633', 'misinformation:0.2243', 'leave:0.222', 'realise:0.2202', 'prepared:0.2142', 'read:0.2065', 'authorise:0.2017', 'dorries:0.1992', 'afraid:0.1965', 'immediately:0.1892', 'biden:0.185', 'predict:0.1836', 'align:0.1799', 'ambiguous:0.1742', 'hypocritical:0.1676', 'table:0.1668', 'note:0.1595', 'exactly:0.1526', 'deal:0.1442', 'current:0.1338', 'unanimously:0.1242', 'weve:0.1153', 'long:0.1112']+titles_keywords+['ukraine:0.5438', 'leave:0.3382', 'crisis:0.2798', 'citizens:0.2591', 'live:0.2517']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/manchestereveningnews.co.uk/Taliban tells Russia and Ukraine to resolve crisis through peaceful means.txt+eventbasecode20+eventcode20+avgtone0.4716312056737588+goldsteinscale0.65+nummentions0.023222060957910014+numarticles0.023930384336475707+numsources0.05592105263157895+news_keywords+['peaceful:0.4825', 'taliban:0.4277', 'kyiv:0.3782', 'conflict:0.337', 'neutrality:0.2765', 'resolve:0.2475', 'crisis:0.2177', 'casualties:0.2124', 'invasion:0.2007', 'evacuate:0.198', 'communication:0.182', 'president:0.1691', 'statement:0.1498', 'continue:0.1276', 'student:0.1267', 'say:0.1219', 'morning:0.1192', 'monitor:0.1164', 'safeguard:0.1164', 'read:0.1113', 'causalities:0.1097', 'sign:0.1094', 'live:0.108', 'western:0.1079', 'balkhi:0.1002', 'intensify:0.0977', 'february:0.0798', 'possibility:0.0759', 'building:0.0433', 'send:0.036']+titles_keywords+['taliban:0.4494', 'peaceful:0.403', 'ukraine:0.38', 'resolve:0.2416', 'tells:0.0667']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/manchestereveningnews.co.uk/ITV This Mornings Josie Gibsons heartbreaking tribute as nan dies.txt+eventbasecode20+eventcode20+avgtone0.49441340782+goldsteinscale0.65+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['josie:0.4027', 'itv:0.3815', 'grandmother:0.2641', 'alisonkilling:0.2628', 'presenter:0.2369', 'rumour:0.2263', 'morning:0.2259', 'miss:0.1992', 'piers:0.1983', 'celeb:0.1867', 'women:0.1832', 'tribute:0.1808', 'gibsons:0.1681', 'cheeky:0.1622', 'ukraine:0.1507', 'nan:0.1487', 'rt:0.1452', 'heartbreaking:0.1399', 'care:0.139', 'shot:0.1262', 'big:0.1224', 'face:0.1217', 'walk:0.1192', 'main:0.1163', 'bless:0.1057', 'actually:0.1031', 'story:0.0974', 'alongside:0.095', 'share:0.0651', 'ive:0.0517']+titles_keywords+['josie:0.3289', 'itv:0.3159', 'heartbreaking:0.291', 'tribute:0.2572', 'nan:0.2485']"
+        ]
+    ]
+}

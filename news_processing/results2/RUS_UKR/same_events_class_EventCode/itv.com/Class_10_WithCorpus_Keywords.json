@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+10":[
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/itv.com/Hundreds of bodies found in Mariupol basement Ukrainian authorities say.txt+eventbasecode10+eventcode10+avgtone0.47555555555555556+goldsteinscale0.5+nummentions0.06458635703918723+numarticles0.06526468455402465+numsources0.07236842105263158+news_keywords+['kremlin:0.4701', 'moscow:0.4686', 'ukrainian:0.4404', 'war:0.34', 'stremousov:0.3378', 'evacuate:0.3245', 'resupply:0.3049', 'bombardment:0.2905', 'news:0.2136', 'know:0.2113', 'donbas:0.2025', 'ruin:0.2023', 'industrial:0.202', 'recovers:0.1771', 'decompose:0.173', 'pre:0.1663', 'neighbourhood:0.1607', 'end:0.1573', 'maternity:0.1525', 'hundreds:0.1368', 'ap:0.1299', 'big:0.1256', 'brief:0.1232', 'listen:0.1135', 'state:0.1054', 'mr:0.0922', 'overtake:0.0871', 'accused:0.0826', 'possible:0.0674', 'add:0.0521']+titles_keywords+['bodies:0.3299', 'ukrainian:0.3257', 'basement:0.2495', 'hundreds:0.2371', 'mariupol:0.2329']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/itv.com/Russia achieving success in Ukraines Donbas region MoD says on wars 100th day.txt+eventbasecode10+eventcode10+avgtone0.4921630094043888+goldsteinscale0.5+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['crimea:0.532', 'ukrainians:0.432', 'putin:0.4001', 'invade:0.394', 'annexing:0.3674', 'nato:0.3353', 'demilitarisation:0.3262', 'war:0.3199', 'separatist:0.3055', 'precede:0.2494', 'takeover:0.249', 'success:0.2182', 'soon:0.2014', 'want:0.1975', 'rhetoric:0.1967', 'realise:0.1929', 'secure:0.1907', 'donbas:0.189', 'fesenko:0.1808', 'expert:0.1703', 'information:0.1646', 'submit:0.1515', 'longer:0.1472', 'state:0.1425', 'instal:0.1341', 'phone:0.1334', 'integrate:0.1307', 'corridor:0.1214', 'measure:0.1121', 'partial:0.0716']+titles_keywords+['ukraines:0.4463', '100th:0.3601', 'success:0.3567', 'donbas:0.2691', 'wars:0.2352']"
+        ]
+    ]
+}

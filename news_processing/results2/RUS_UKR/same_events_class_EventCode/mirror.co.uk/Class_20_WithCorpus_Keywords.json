@@ -1,0 +1,40 @@
+{
+    "CHN+RUS+20":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/China begins to turn on Putin as it calls for Russia to negotiate with Ukraine.txt+eventbasecode20+eventcode20+avgtone0.45639943741209577+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4775', 'kremlin:0.4053', 'nato:0.3578', 'invasion:0.336', 'civilians:0.3132', 'bloodshed:0.3005', 'frontlines:0.2349', 'eastward:0.2291', 'strategic:0.2237', 'turn:0.2234', 'unprovoked:0.2227', 'president:0.2031', 'fight:0.1874', 'begin:0.1714', 'world:0.1683', 'counterpart:0.1624', 'truck:0.1608', 'warning:0.1525', 'brink:0.1463', 'achieve:0.1305', 'monitoring:0.1255', 'long:0.1242', 'abstain:0.1214', 'confirm:0.1127', 'age:0.0931', 'rights:0.0901', 'piece:0.0873', 'today:0.0833', 'seemingly:0.0556', 'add:0.0349']+titles_keywords+['putin:0.412', 'china:0.2624', 'negotiate:0.2473', 'turn:0.2287', 'begins:0.2033']"
+        ]
+    ],
+    "EUR+RUS+20":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Turn down your thermostat by 1C to reduce need for Russian gas urges regulator.txt+eventbasecode20+eventcode20+avgtone0.4970717423133236+goldsteinscale0.65+nummentions0.04245283018867924+numarticles0.04314720812182741+numsources0.03618421052631579+news_keywords+['russias:0.3653', 'thermostat:0.3414', 'putin:0.3338', 'gas:0.294', 'eu:0.2517', 'climate:0.2514', 'nuclear:0.2', 'lowering:0.1973', 'regulator:0.195', 'enact:0.1916', 'eliminate:0.1846', 'power:0.1649', 'alternative:0.1457', 'turn:0.14', 'bioenergy:0.1217', 'newsletter:0.1198', 'sign:0.1189', 'neighbour:0.1144', 'invasion:0.114', 'maximise:0.1049', 'uswitch:0.1031', 'fluctuation:0.1005', 'soon:0.0922', 'degree:0.0884', 'data:0.0881', 'average:0.0853', 'point:0.0737', 'offer:0.0525', 'say:0.0517', 'birol:0.0202']+titles_keywords+['thermostat:0.4972', 'regulator:0.4007', 'gas:0.3623', 'russian:0.3122', 'reduce:0.264']"
+        ]
+    ],
+    "EUR+UKR+20":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Russian amphibious armoured vehicle explodes in flames after being hit by missile.txt+eventbasecode20+eventcode20+avgtone0.48373287671232873+goldsteinscale0.65+nummentions0.026850507982583455+numarticles0.02755620014503263+numsources0.006578947368421052+news_keywords+['ukraine:0.4966', 'kremlin:0.4258', 'infantry:0.3911', 'war:0.3618', 'missile:0.3016', 'operation:0.2833', 'tank:0.2766', 'underway:0.2751', 'zelenskyy:0.2678', 'sievierodonetsk:0.2649', 'explodes:0.2585', 'assault:0.252', 'intensify:0.2196', 'report:0.2138', 'communications:0.2131', 'turn:0.1892', 'video:0.1864', 'suit:0.1795', 'use:0.1726', 'june:0.1689', 'th:0.1648', 'mechanised:0.161', 'long:0.1574', 'major:0.1396', 'area:0.1357', 'say:0.1316', 'unclear:0.1261', 'exactly:0.1257', 'multiple:0.123', 'confirm:0.1163']+titles_keywords+['missile:0.4066', 'explodes:0.3704', 'russian:0.3227', 'amphibious:0.2753', 'flames:0.2153']"
+        ]
+    ],
+    "GBR+UKR+20":[
+        [
+            "20211213+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Boris Johnson warns Putin of significant consequences if Russia invades Ukraine.txt+eventbasecode20+eventcode20+avgtone0.4604072398190045+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4679', 'crimea:0.4464', 'invade:0.4207', 'boris:0.3722', 'moscows:0.3622', 'frontline:0.2999', 'strategic:0.2949', 'incursion:0.2812', 'border:0.2644', 'separatist:0.2578', 'imminent:0.2522', 'military:0.2514', 'prepare:0.2432', 'destabilise:0.2243', 'conflict:0.2193', 'alert:0.218', 'tank:0.215', 'emphasise:0.2052', 'adviser:0.1951', 'kill:0.1749', 'uks:0.1676', 'order:0.1646', 'force:0.1622', 'worryingly:0.162', 'deep:0.141', 'spook:0.1362', 'mistake:0.1272', 'johhnson:0.1203', 'gru:0.0781', 'thousands:0.0779']+titles_keywords+['putin:0.4092', 'boris:0.3809', 'consequences:0.2743', 'invades:0.2212', 'johnson:0.133']"
+        ]
+    ],
+    "RUS+GBR+20":[
+        [
+            "20220809+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/London should be hit with nuclear missile strike Vladimir Putin ally threatens.txt+eventbasecode20+eventcode20+avgtone0.46689895470383275+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4663', 'nuclear:0.42', 'putin:0.368', 'war:0.3241', 'disaster:0.299', 'scenario:0.2545', 'warn:0.2231', 'trigger:0.2187', 'voltage:0.2166', 'concern:0.2133', 'propagandist:0.2095', 'petro:0.2058', 'iaea:0.2', 'operate:0.1839', 'future:0.178', 'colonel:0.1646', 'plant:0.1623', 'information:0.1603', 'winter:0.1548', 'switching:0.149', 'immediately:0.1279', 'yury:0.1164', 'surround:0.1163', 'make:0.1136', 'crosshairs:0.1078', 'dc:0.1046', 'hop:0.1007', 'like:0.0992', 'kot:0.0865', 'large:0.0826']+titles_keywords+['putin:0.4115', 'london:0.3572', 'nuclear:0.3428', 'threatens:0.3177', 'strike:0.2788']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Vladimir Putin claims war is going to plan and wont stop until Ukraine gives in.txt+eventbasecode20+eventcode20+avgtone0.4652061855670104+goldsteinscale0.65+nummentions0.016690856313497822+numarticles0.01704133430021755+numsources0.05921052631578947+news_keywords+['putin:0.4712', 'ceasefire:0.4587', 'kyiv:0.3887', 'syria:0.3591', 'invasion:0.3401', 'troop:0.2724', 'aggression:0.2642', 'armed:0.25', 'agreement:0.2482', 'plan:0.2245', 'turn:0.2241', 'tayyip:0.2232', 'continue:0.2202', 'negotiator:0.2189', 'urgent:0.2175', 'emphasise:0.2137', 'avoid:0.2093', 'know:0.2084', 'reality:0.2023', 'report:0.1838', 'attempt:0.1711', 'long:0.1548', 'britains:0.1524', 'readout:0.1511', 'wont:0.143', 'fully:0.1263', 'make:0.1221', 'element:0.1207', 'possible:0.0831', 'today:0.0796']+titles_keywords+['putin:0.4862', 'war:0.3636', 'plan:0.3176', 'wont:0.162', 'going:0.1249']"
+        ],
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Brave woman who stormed Russian TV show now extremely concerned for safety.txt+eventbasecode20+eventcode20+avgtone0.47343453510436434+goldsteinscale0.65+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.009868421052631578+news_keywords+['kremlin:0.475', 'ukrainian:0.459', 'ovsyannikova:0.4168', 'propaganda:0.4166', 'protest:0.354', 'interrogation:0.3403', 'war:0.3134', 'news:0.2812', 'concerned:0.2729', 'televise:0.2723', 'hooliganism:0.2665', 'warn:0.2533', 'legal:0.2238', 'storm:0.2188', 'source:0.2185', 'know:0.2172', 'brave:0.2098', 'help:0.2065', 'people:0.1971', 'listen:0.1934', 'outlet:0.1931', 'marina:0.1883', 'mrs:0.1845', 'deliver:0.1845', 'world:0.1835', 'day:0.1789', 'exhausted:0.1738', 'editor:0.1519', 'state:0.127', 'scale:0.0789']+titles_keywords+['russian:0.3197', 'woman:0.2906', 'safety:0.279', 'tv:0.2775', 'stormed:0.2581']"
+        ]
+    ],
+    "UKR+EUR+20":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Russia becomes even more isolated as 12 of Putins UN team booted out of US.txt+eventbasecode20+eventcode20+avgtone0.4823529411764706+goldsteinscale0.65+nummentions0.04172714078374456+numarticles0.04024655547498187+numsources0.0625+news_keywords+['putin:0.4437', 'kgb:0.4234', 'kyiv:0.387', 'diplomat:0.3353', 'espionage:0.3322', 'turmoil:0.2763', 'conquer:0.2348', 'sanction:0.2238', 'meeting:0.2172', 'nations:0.2124', 'nuclear:0.2113', 'border:0.2062', 'worry:0.1911', 'economic:0.1812', 'instead:0.1807', 'end:0.1787', 'respond:0.1624', 'nebenzia:0.1619', 'transfer:0.1561', 'slap:0.1545', 'deepen:0.1444', 'come:0.1413', 'assistance:0.1412', 'rifle:0.1369', 'month:0.1346', 'adverse:0.1299', 'state:0.1052', 'track:0.0934', 'array:0.0798', 'agree:0.066']+titles_keywords+['putins:0.4371', 'russia:0.4238', 'isolated:0.337', 'team:0.2124', '12:0.173']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/apnews.com/As Mariupol hangs on the extent of the horror not yet known.txt+eventbasecode80+eventcode80+avgtone0.46604215456674475+goldsteinscale0.75+nummentions0.18142235123367198+numarticles0.18056562726613487+numsources0.45394736842105265+news_keywords+['kyiv:0.5237', 'kremlin:0.4745', 'chernobyl:0.3491', 'invasion:0.3148', 'azov:0.3026', 'decommission:0.2941', 'military:0.2738', 'protestors:0.2556', 'emergency:0.2522', 'know:0.2501', 'flee:0.2317', 'curfew:0.2167', 'prepare:0.2122', 'report:0.2106', 'fight:0.1965', 'lethal:0.1899', 'warms:0.1878', 'supply:0.1871', 'continue:0.1854', 'cite:0.177', 'kilometer:0.1755', 'ap:0.1739', 'long:0.17', 'plant:0.1658', 'estimates:0.1551', 'world:0.1542', 'weekend:0.1412', 'toll:0.1389', 'flatten:0.1268', 'way:0.1211']+titles_keywords+['mariupol:0.5087', 'horror:0.4104', 'hangs:0.2042', 'extent:0.1959', 'known:0.1759']"
+        ],
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/apnews.com/Live Updates Russians fight in streets of Ukrainian town.txt+eventbasecode80+eventcode80+avgtone0.47693574958813834+goldsteinscale0.75+nummentions0.10268505079825835+numarticles0.10333575054387237+numsources0.1611842105263158+news_keywords+['ukraine:0.5058', 'kremlin:0.4672', 'moscows:0.4208', 'evacuation:0.3735', 'oleg:0.3683', 'battalion:0.3451', 'war:0.344', 'oligarch:0.2981', 'terrorist:0.2838', 'border:0.2572', 'pentagon:0.254', 'news:0.2325', 'provoke:0.2318', 'rail:0.2074', 'know:0.2064', 'future:0.205', 'agreement:0.1896', 'arrive:0.1872', 'climactic:0.1834', 'turn:0.1774', 'submit:0.1764', 'long:0.1742', 'anonymity:0.1662', 'preliminary:0.166', 'learn:0.1613', 'import:0.15', 'buy:0.1435', 'fully:0.1395', 'billion:0.1173', 'symptoms:0.0928']+titles_keywords+['ukrainian:0.497', 'fight:0.3923', 'streets:0.3762', 'live:0.2803', 'updates:0.1847']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/apnews.com/Big Mac is coming back McDonalds to reopen in Ukraine.txt+eventbasecode80+eventcode80+avgtone0.4933510638297872+goldsteinscale0.75+nummentions0.21262699564586357+numarticles0.2131979695431472+numsources0.19078947368421054+news_keywords+['ukraine:0.4871', 'russias:0.3994', 'kfc:0.3672', 'economy:0.2978', 'corporate:0.2333', 'operate:0.2313', 'food:0.2255', 'western:0.2213', 'mac:0.2074', 'tochka:0.2034', 'invasion:0.1991', 'vkusno:0.1944', 'prepare:0.1657', 'chicago:0.1654', 'reopen:0.155', 'happen:0.1495', 'normalcy:0.1492', 'month:0.1456', 'ap:0.1437', 'chain:0.142', 'continue:0.1414', 'big:0.137', 'fight:0.1309', 'sell:0.1252', 'tasty:0.1153', 'nearly:0.1088', 'shrink:0.0845', 'weve:0.0776', 'welcome:0.0692', 'didnt:0.0341']+titles_keywords+['mcdonalds:0.4186', 'ukraine:0.2781', 'reopen:0.2183', 'big:0.2015', 'coming:0.1525']"
+        ]
+    ]
+}

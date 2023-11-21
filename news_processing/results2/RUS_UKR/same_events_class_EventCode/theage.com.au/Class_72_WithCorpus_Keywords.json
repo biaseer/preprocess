@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+72":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/theage.com.au/Test of the West What Biden must do now.txt+eventbasecode72+eventcode72+avgtone0.45127118644067804+goldsteinscale0.915+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.023026315789473683+news_keywords+['putin:0.4969', 'natos:0.4309', 'diplomacy:0.422', 'america:0.278', 'correspondent:0.2767', 'senate:0.2666', 'donetsk:0.2637', 'bidens:0.2598', 'separatist:0.2553', 'pipeline:0.2486', 'plan:0.236', 'midterm:0.2293', 'concern:0.2135', 'western:0.2035', 'strongman:0.2001', 'change:0.192', 'incursion:0.1919', 'know:0.1903', 'order:0.1873', 'soon:0.1839', 'continue:0.1836', 'finance:0.1787', 'accuse:0.1768', 'long:0.1759', 'write:0.173', 'botch:0.1662', 'constrain:0.1648', 'isnt:0.1308', 'electronic:0.108', 'altogether:0.1005']+titles_keywords+['biden:0.5862', 'test:0.3909', 'west:0.2932']"
+        ]
+    ],
+    "WST+RUS+72":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/theage.com.au/Street fighting under way in Kyiv officials warn residents.txt+eventbasecode72+eventcode72+avgtone0.4736842105263158+goldsteinscale0.915+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.009868421052631578+news_keywords+['kyiv:0.5397', 'ukraines:0.4821', 'putin:0.3671', 'war:0.3652', 'natos:0.35', 'evacuate:0.2976', 'prepare:0.2843', 'molotov:0.268', 'correspondent:0.2603', 'border:0.2505', 'headline:0.2357', 'map:0.2211', 'worried:0.2141', 'know:0.1997', 'covid:0.193', 'entry:0.1912', 'pummel:0.1886', 'boy:0.187', 'hug:0.178', 'friday:0.1747', 'finance:0.1651', 'data:0.1534', 'increase:0.1526', 'responding:0.1473', 'direct:0.1445', 'morenattiap:0.1374', 'like:0.137', 'sure:0.1326', 'welcome:0.1319', 'inch:0.127']+titles_keywords+['kyiv:0.4961', 'fighting:0.4104', 'street:0.3359', 'warn:0.2135', 'way:0.0441']"
+        ]
+    ]
+}

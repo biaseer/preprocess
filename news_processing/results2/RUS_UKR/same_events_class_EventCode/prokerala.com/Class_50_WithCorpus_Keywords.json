@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+50":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/prokerala.com/German German Parliament approves delivery of heavy weapons to Ukraine By IANS Published on Fri.txt+eventbasecode50+eventcode50+avgtone0.5077720207253886+goldsteinscale0.675+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4575', 'bundestag:0.4261', 'gepard:0.3209', 'german:0.3105', 'tank:0.2946', 'weapon:0.2864', 'lambrecht:0.2792', 'war:0.277', 'soldier:0.2446', 'aircraft:0.2311', 'ist:0.2203', 'delivery:0.2076', 'parliamentary:0.1907', 'negotiation:0.1734', 'approve:0.1724', 'thursday:0.1665', 'news:0.1461', 'vote:0.1404', 'ahead:0.1283', 'report:0.1262', 'direct:0.1168', 'include:0.0951', 'alternative:0.0906', 'heavy:0.0896', 'corresponding:0.085', 'low:0.0827', 'urge:0.072', 'left:0.0712', 'possible:0.0627', 'accord:0.058']+titles_keywords+['ukraine:0.4699', 'weapons:0.3083', 'ist:0.2281', '2022:0.2143', 'heavy:0.1623']"
+        ]
+    ],
+    "RUS+UKR+50":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/prokerala.com/Ukraine seeks to open new humanitarian corridors in 4 regions By IANS Published on Wed.txt+eventbasecode50+eventcode50+avgtone0.4906542056074767+goldsteinscale0.675+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4947', 'kiev:0.4748', 'evacuation:0.4028', 'corridor:0.3406', 'humanitarian:0.3368', 'region:0.2856', 'route:0.2447', 'kharkiv:0.244', 'rescue:0.2403', 'zelensky:0.1987', 'open:0.1582', 'volodymyr:0.1517', 'underway:0.1436', 'xinhua:0.1391', 'central:0.1379', 'establish:0.1293', 'negotiation:0.1254', 'seek:0.1048', 'march:0.1044', 'news:0.0978', 'people:0.0853', 'ist:0.0796', 'besiege:0.0785', 'report:0.0748', 'quoting:0.0529', 'ians:0.0524', 'add:0.048', 'representative:0.033', 'mariupol:0.0283', 'force:0.009']+titles_keywords+['ukraine:0.5023', 'corridors:0.3889', 'humanitarian:0.3815', 'open:0.2071', 'ians:0.1742']"
+        ]
+    ]
+}

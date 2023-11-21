@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+36":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/cbc.ca/Ukraine says latest talks with Russia more constructive even as civilian sites in Kyiv targeted.txt+eventbasecode36+eventcode36+avgtone0.4727838258164852+goldsteinscale0.7+nummentions0.028664731494920173+numarticles0.029369108049311095+numsources0.039473684210526314+news_keywords+['ukraine:0.5241', 'kremlin:0.4267', 'nato:0.4161', 'evacuation:0.3342', 'svyatoshynskyi:0.2738', 'pentagon:0.2546', 'diplomat:0.2542', 'conflict:0.2383', 'ahead:0.2261', 'escalate:0.2247', 'telegram:0.2225', 'agreement:0.2145', 'capital:0.2132', 'veteran:0.213', 'interrupt:0.2095', 'information:0.1997', 'organize:0.1984', 'turn:0.1909', 'arrive:0.1869', 'neutral:0.1847', 'afraid:0.1823', 'report:0.1793', 'mush:0.1788', 'speak:0.1766', 'neighbouring:0.1735', 'calledfor:0.169', 'source:0.1526', 'long:0.1486', 'realistic:0.1404', 'cram:0.1025']+titles_keywords+['kyiv:0.4563', 'talks:0.2612', 'constructive:0.2248', 'targeted:0.1357', 'latest:0.0467']"
+        ]
+    ],
+    "WST+RUS+36":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/cbc.ca/The risks of a nofly zone over Ukraine.txt+eventbasecode36+eventcode36+avgtone0.4752747252747253+goldsteinscale0.7+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['nato:0.4519', 'ukraines:0.3882', 'zelensky:0.3697', 'fly:0.3569', 'zone:0.2883', 'russian:0.281', 'nofly:0.2722', 'risk:0.2194', 'combat:0.2141', 'president:0.2121', 'volodymyr:0.212', 'violates:0.1945', 'bomb:0.1905', 'warplane:0.1845', 'sky:0.1599', 'clear:0.1575', 'idea:0.1571', 'western:0.1485', 'escalate:0.1376', 'planning:0.1197', 'address:0.1', 'make:0.0994', 'virtual:0.093', 'potentially:0.0864', 'way:0.0863', 'speak:0.0836', 'line:0.0725', 'desperate:0.0675', 'today:0.0623', 'hinge:0.0308']+titles_keywords+['ukraine:0.3867', 'nofly:0.373', 'risks:0.2465', 'zone:0.2203']"
+        ]
+    ]
+}

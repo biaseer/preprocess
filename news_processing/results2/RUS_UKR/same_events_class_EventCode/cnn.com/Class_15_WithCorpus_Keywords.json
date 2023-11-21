@@ -1,0 +1,7 @@
+{
+    "RUS+UKR+15":[
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/cnn.com/May 18 2022 RussiaUkraine news.txt+eventbasecode15+eventcode15+avgtone0.4832083958020989+goldsteinscale0.5+nummentions0.3164005805515239+numarticles0.31689630166787525+numsources0.32894736842105265+news_keywords+['crimea:0.5224', 'nato:0.5181', 'russiaukraine:0.483', 'russias:0.4341', 'gulen:0.3983', 'ankara:0.381', 'bolshevik:0.3743', 'militarily:0.372', 'terrorist:0.3664', 'invasion:0.3252', 'diplomatic:0.3226', 'news:0.2771', 'concern:0.2694', 'dovhenke:0.266', 'armed:0.2419', 'sanction:0.2399', 'pkkypg:0.2352', 'ahead:0.2323', 'kilometer:0.225', 'term:0.2213', 'recep:0.2105', 'incoherence:0.2083', 'organization:0.2037', 'respectively:0.1801', 'emphasize:0.1735', 'want:0.1721', 'long:0.1666', 'whetherit:0.1616', 'interoperability:0.1294', 'welcome:0.0839']+titles_keywords+['russiaukraine:0.5409', '2022:0.5224', 'news:0.3342', '18:0.2074']"
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "ISR+RUS+111":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/westerntelegraph.co.uk/Israel hits out at Russia over Lavrovs Nazism remarks.txt+eventbasecode111+eventcode111+avgtone0.4601366742596811+goldsteinscale0.4+nummentions0.4125544267053701+numarticles0.4129804205946338+numsources0.47039473684210525+news_keywords+['holocaust:0.5536', 'antisemitism:0.4616', 'nazification:0.4454', 'kremlin:0.3914', 'propaganda:0.39', 'israel:0.3837', 'sergei:0.343', 'russias:0.3178', 'historical:0.289', 'justify:0.2532', 'mediate:0.2406', 'debate:0.2305', 'translation:0.2265', 'trivialise:0.2098', 'volodymyr:0.2068', 'inversion:0.2044', 'people:0.1916', 'speak:0.1871', 'invade:0.1868', 'ambassador:0.1834', 'reach:0.1568', 'issue:0.1443', 'remember:0.1382', 'strike:0.1235', 'scandalous:0.1214', 'centre:0.101', 'big:0.0955', 'yad:0.0953', 'doesnt:0.0601', 'sent:0.0492']+titles_keywords+['israel:0.3632', 'lavrovs:0.3046', 'nazism:0.2932', 'remarks:0.0937', 'hits:0.0675']"
+        ]
+    ],
+    "RUS+GBR+111":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/westerntelegraph.co.uk/Ukrainian Catholic bishop warns British people to avoid disinformation about war.txt+eventbasecode111+eventcode111+avgtone0.5112359550561798+goldsteinscale0.4+nummentions0.1509433962264151+numarticles0.15155910079767948+numsources0.2730263157894737+news_keywords+['ukrainians:0.4869', 'refugee:0.3965', 'war:0.351', 'oligarch:0.2957', 'duchess:0.2726', 'london:0.245', 'disinformation:0.238', 'privilege:0.2355', 'khromeychuk:0.2162', 'distinction:0.2153', 'neighbours:0.2091', 'warn:0.2033', 'instead:0.1756', 'nowakowski:0.1733', 'organisation:0.1717', 'donate:0.1538', 'issue:0.1509', 'want:0.148', 'reputable:0.1437', 'heard:0.1373', 'right:0.1309', 'reader:0.1272', 'property:0.1222', 'misused:0.1123', 'meet:0.1118', 'especially:0.1012', 'sure:0.1', 'lot:0.0958', 'big:0.09', 'past:0.0823']+titles_keywords+['disinformation:0.3305', 'war:0.3109', 'ukrainian:0.2825', 'bishop:0.281', 'warns:0.2703']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/westerntelegraph.co.uk/Russian attacks halt plans to evacuate Ukrainian civilians.txt+eventbasecode111+eventcode111+avgtone0.47187669010275823+goldsteinscale0.4+nummentions0.3124092888243832+numarticles0.31290790427846266+numsources0.42105263157894735+news_keywords+['ukraine:0.4735', 'airstrikes:0.3317', 'erdogan:0.2968', 'dispatch:0.2908', 'scenario:0.2897', 'evacuate:0.2843', 'organisation:0.2407', 'propaganda:0.2399', 'telegram:0.2373', 'azov:0.2271', 'concerned:0.2202', 'rouble:0.2036', 'switch:0.1959', 'supplier:0.1951', 'know:0.1878', 'soon:0.177', 'corridor:0.1676', 'civilian:0.1662', 'increase:0.1621', 'interference:0.1535', 'essentially:0.1462', 'bucha:0.1378', 'stable:0.1356', 'th:0.1295', 'major:0.1272', 'compare:0.1188', 'include:0.1109', 'warplanes:0.1078', 'onlookers:0.0743', 'sent:0.0692']+titles_keywords+['ukrainian:0.4235', 'evacuate:0.409', 'civilians:0.3263', 'attacks:0.2054', 'plans:0.1356']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/westerntelegraph.co.uk/Volodymyr Zelensky says Russia tried to humiliate UN with Kyiv attack.txt+eventbasecode111+eventcode111+avgtone0.4697368421052632+goldsteinscale0.4+nummentions0.17271407837445574+numarticles0.17331399564902103+numsources0.2598684210526316+news_keywords+['kyiv:0.5281', 'putin:0.4248', 'russias:0.385', 'airstrikes:0.367', 'nato:0.363', 'regiment:0.2948', 'emergency:0.2922', 'zelensky:0.2794', 'news:0.2783', 'unprovoked:0.2493', 'unfolding:0.2444', 'know:0.2381', 'report:0.2286', 'fight:0.2219', 'industrial:0.214', 'continue:0.2102', 'secretary:0.2016', 'dangerous:0.1998', 'mortar:0.1985', 'write:0.1945', 'donbas:0.176', 'weather:0.1702', 'dysentery:0.1697', 'anonymity:0.1632', 'ready:0.1608', 'far:0.1436', 'focus:0.1287', 'largely:0.1251', 'middle:0.1059', 'reduce:0.1015']+titles_keywords+['kyiv:0.4503', 'zelensky:0.4438', 'humiliate:0.2613', 'tried:0.1125', 'says:0.0812']"
+        ]
+    ]
+}

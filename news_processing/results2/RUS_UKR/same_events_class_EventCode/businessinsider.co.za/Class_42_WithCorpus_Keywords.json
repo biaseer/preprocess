@@ -1,0 +1,15 @@
+{
+    "GBR+RUS+42":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/businessinsider.co.za/A British man made a dramatic 48hour journey into Ukraine to be reunited with his.txt+eventbasecode42+eventcode42+avgtone0.5067287784679089+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukrainian:0.4212', 'stay:0.3324', 'troop:0.3197', 'invade:0.316', 'help:0.3048', 'transport:0.3014', 'arrive:0.2999', 'kindness:0.2994', 'ahead:0.2949', 'dramatic:0.289', 'concern:0.2855', 'family:0.281', 'speak:0.2702', 'reunite:0.2559', 'fight:0.2522', 'hour:0.2484', 'want:0.2445', 'reach:0.239', 'na:0.2319', 'far:0.2311', 'depend:0.2256', 'umney:0.2207', 'happy:0.2184', 'witness:0.217', 'town:0.2165', 'make:0.205', 'gon:0.2045', 'siren:0.1792', 'twice:0.1612', 'welcome:0.1453']+titles_keywords+['ukraine:0.438', 'staying:0.3663', 'journey:0.2152', 'dramatic:0.195', '48hour:0.1086']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/businessinsider.co.za/Russia warns it will sever ties with the US if it sanctions Putin over Ukraine.txt+eventbasecode42+eventcode42+avgtone0.4790874524714829+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4576', 'ukraine:0.4055', 'nato:0.3957', 'diplomatic:0.3458', 'threat:0.3324', 'pipeline:0.3313', 'invade:0.3004', 'escalation:0.2934', 'baltic:0.2893', 'legislation:0.2614', 'oppose:0.2463', 'debate:0.2214', 'worry:0.2151', 'economy:0.2147', 'gop:0.2115', 'pretext:0.198', 'gather:0.1749', 'news:0.172', 'relation:0.1611', 'potential:0.1561', 'forward:0.1514', 'map:0.1383', 'thursday:0.1354', 'statement:0.1319', 'aligning:0.1317', 'rewrite:0.1281', 'complete:0.0833', 'house:0.0757', 'blinken:0.0661', 'cost:0.0217']+titles_keywords+['putin:0.3747', 'sanctions:0.347', 'crisis:0.1627', 'ties:0.1544', 'warns:0.1465']"
+        ],
+        [
+            "20220728+../news_crawling/RUS_UKR/p_articles/businessinsider.co.za/More than 75000 Russian troops in Ukraine have been killed or injured US says one.txt+eventbasecode42+eventcode42+avgtone0.47222222222222227+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4243', 'casualty:0.2882', 'troop:0.2785', 'invasion:0.2449', 'total:0.2314', 'kill:0.2169', 'estimates:0.2034', 'cnn:0.1902', 'month:0.1827', 'number:0.1765', 'fighting:0.1758', 'half:0.1621', 'wound:0.1544', 'report:0.1524', 'cia:0.1484', 'stop:0.1353', 'new:0.1072', 'cohen:0.0918', 'cite:0.0914', 'originally:0.0855', 'far:0.0852', 'reinforcement:0.0829', 'high:0.0694', 'significantly:0.0628', 'slotkin:0.0486', 'chiefs:0.0471', 'accord:0.0457', 'william:0.0395', 'sent:0.0035', 'elissa:-0.0005']+titles_keywords+['ukraine:0.3576', '75000:0.3537', 'troops:0.3237', 'estimates:0.1771', 'says:0.097']"
+        ]
+    ]
+}

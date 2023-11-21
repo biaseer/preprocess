@@ -1,0 +1,13 @@
+{
+    "RUS+UKR+100":[
+        [],
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/npr.org/Ukrainian forces have liberated Kyiv region from Russia.txt+eventbasecode100+eventcode100+avgtone0.5277777777777777+goldsteinscale0.25+nummentions0.030478955007256895+numarticles0.03118201595358956+numsources0.03289473684210526+news_keywords+['kyiv:0.5019', 'russians:0.4318', 'warfare:0.4032', 'pentagon:0.3147', 'negotiation:0.2675', 'bombed:0.236', 'shift:0.225', 'region:0.2228', 'columns:0.2168', 'long:0.2004', 'help:0.1977', 'donbas:0.1973', 'sullivan:0.197', 'forth:0.195', 'flee:0.1922', 'news:0.1737', 'hold:0.1716', 'officer:0.1677', 'prepared:0.1565', 'flush:0.1496', 'middle:0.1494', 'unidentified:0.1465', 'accuracy:0.1465', 'transcript:0.1444', 'plus:0.1433', 'difference:0.1302', 'conventional:0.1189', 'eventually:0.0973', 'agree:0.0788', 'firsthand:0.0765']+titles_keywords+['kyiv:0.5912', 'ukrainian:0.4907', 'liberated:0.3254', 'region:0.1808', 'forces:0.0266']"
+        ]
+    ],
+    "UKR+EUR+100":[
+        [
+            "20220830+../news_crawling/RUS_UKR/p_articles/npr.org/Ukraine wants the EU to ban Russian tourists.txt+eventbasecode100+eventcode100+avgtone0.4642857142857143+goldsteinscale0.25+nummentions0.14005805515239478+numarticles0.1406816533720087+numsources0.11513157894736842+news_keywords+['crimea:0.4889', 'ukrainians:0.4008', 'schengen:0.3837', 'putin:0.3642', 'visas:0.3601', 'tourist:0.3005', 'eu:0.2545', 'border:0.2533', 'war:0.2185', 'restrict:0.19', 'flee:0.1826', 'bloc:0.1823', 'sanction:0.1803', 'counterproductive:0.1588', 'agreement:0.1554', 'enter:0.1484', 'report:0.1476', 'board:0.1435', 'know:0.1316', 'instead:0.1295', 'want:0.1245', 'future:0.1122', 'jolt:0.106', 'text:0.092', 'update:0.0814', 'make:0.068', 'high:0.0643', 'enjoy:0.0527', 'nprs:0.0164', 'likely:-0.0035']+titles_keywords+['ukraine:0.4585', 'eu:0.2423', 'tourists:0.2415', 'ban:0.2249', 'wants:0.0889']"
+        ]
+    ]
+}

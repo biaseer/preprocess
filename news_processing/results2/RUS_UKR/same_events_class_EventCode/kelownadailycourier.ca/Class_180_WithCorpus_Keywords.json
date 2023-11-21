@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/kelownadailycourier.ca/Cyberattack in Ukraine targets government websites.txt+eventbasecode180+eventcode180+avgtone0.4709443099273607+goldsteinscale0.05+nummentions0.2155297532656023+numarticles0.21609862218999276+numsources0.3026315789473684+news_keywords+['cyberattacks:0.5717', 'ukraine:0.4478', 'kremlin:0.4412', 'europol:0.362', 'government:0.3345', 'ransom:0.3206', 'virus:0.3197', 'cryptocurrency:0.2997', 'destabilize:0.2788', 'suspect:0.2711', 'concerned:0.2483', 'know:0.2442', 'coveware:0.2431', 'report:0.2217', 'ceo:0.2166', 'data:0.2151', 'sector:0.2139', 'email:0.1923', 'gang:0.1909', 'agreement:0.1773', 'notpetya:0.1644', 'forward:0.1613', 'implication:0.152', 'pipeline:0.1486', 'ap:0.1412', 'lengthy:0.1247', 'buy:0.1242', 'month:0.1204', 'nearly:0.1015', 'coming:0.0822']+titles_keywords+['cyberattack:0.5158', 'ukraine:0.3902', 'government:0.3049', 'websites:0.2739', 'targets:0.2237']"
+        ],
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/kelownadailycourier.ca/Rocket attacks hit Ukraines Lviv as Biden visits Poland.txt+eventbasecode180+eventcode180+avgtone0.46709129511677283+goldsteinscale0.05+nummentions0.14949201741654572+numarticles0.15010877447425672+numsources0.15460526315789475+news_keywords+['lviv:0.5278', 'ukrainets:0.4972', 'airstrikes:0.4221', 'bomb:0.2923', 'espionage:0.2771', 'refugee:0.2762', 'alarm:0.262', 'occur:0.2424', 'police:0.2345', 'safe:0.225', 'east:0.2212', 'prepare:0.2176', 'neighboring:0.2159', 'hear:0.2134', 'hit:0.2067', 'rocket:0.2062', 'know:0.2051', 'organize:0.2019', 'update:0.2008', 'biden:0.1928', 'hide:0.1878', 'industrial:0.1689', 'story:0.1596', 'ap:0.1498', 'turn:0.1451', 'sure:0.1318', 'hour:0.1305', 'inga:0.1165', 'focus:0.0904', 'largely:0.0693']+titles_keywords+['lviv:0.4411', 'ukraines:0.3296', 'attacks:0.3154', 'biden:0.3015', 'rocket:0.2172']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/kelownadailycourier.ca/Russias damaged Black Sea flagship sinks in latest setback.txt+eventbasecode180+eventcode180+avgtone0.46056782334384855+goldsteinscale0.05+nummentions0.036284470246734396+numarticles0.03698332124728064+numsources0.08223684210526316+news_keywords+['crimea:0.532', 'russias:0.418', 'russian:0.4048', 'gorbachev:0.3535', 'warship:0.3001', 'combat:0.2877', 'news:0.2791', 'zelenskyy:0.2614', 'evacuate:0.2541', 'report:0.2279', 'capital:0.2133', 'horrific:0.1986', 'blunder:0.1981', 'nation:0.198', 'sink:0.1972', 'acknowledge:0.1861', 'donbas:0.1767', 'forecast:0.1731', 'ap:0.1641', 'executive:0.16', 'anonymity:0.1594', 'overshadow:0.1541', 'setback:0.1424', 'feb:0.1343', 'big:0.1328', 'downgrade:0.1283', 'later:0.1257', 'cause:0.1222', 'heating:0.089', 'theyve:0.0696']+titles_keywords+['sinks:0.3034', 'russias:0.2933', 'flagship:0.1965', 'setback:0.1758', 'damaged:0.1721']"
+        ]
+    ]
+}

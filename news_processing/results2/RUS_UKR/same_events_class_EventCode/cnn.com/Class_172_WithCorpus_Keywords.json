@@ -1,0 +1,12 @@
+{
+    "RUS+EUR+172":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/cnn.com/March 3 2022 RussiaUkraine news.txt+eventbasecode172+eventcode172+avgtone0.4787342633548826+goldsteinscale0.25+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['ukraineentered:0.5542', 'kremlin:0.5156', 'crimea:0.5108', 'ukrainians:0.4581', 'moscowhas:0.4538', 'evacuation:0.3367', 'nationalist:0.332', 'journalist:0.3145', 'boychenko:0.3084', 'military:0.2901', 'rivnopillya:0.2794', 'unprovoked:0.2689', 'capital:0.2627', 'protest:0.2567', 'rt:0.256', 'threat:0.236', 'tank:0.2319', 'know:0.2141', 'comprehend:0.2084', 'satellite:0.1808', 'follow:0.174', 'bucha:0.1701', 'ramification:0.1583', 'warm:0.1494', 'world:0.1366', 'contradictory:0.1339', 'thedamagethat:0.1266', 'crosstalk:0.1243', 'roughly:0.1034', 'thank:0.0713']+titles_keywords+['2022:0.5551', 'russiaukraine:0.5106', 'march:0.4033', 'news:0.3561']"
+        ]
+    ],
+    "UKR+RUS+172":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/cnn.com/February 26 2022 RussiaUkraine news.txt+eventbasecode172+eventcode172+avgtone0.48677936714347636+goldsteinscale0.25+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.019736842105263157+news_keywords+['ukraine:0.4796', 'nato:0.4493', 'putins:0.4216', 'ukrainianleadersaid:0.3932', 'invades:0.388', 'cyberattacks:0.3413', 'novichok:0.3229', 'strategic:0.3127', 'news:0.2998', 'anticipate:0.2997', 'correspond:0.2997', 'mobilization:0.2978', 'conflict:0.2874', 'abramovich:0.2587', 'agreement:0.2517', 'presidential:0.2403', 'feb:0.2301', 'saturday:0.2173', 'order:0.2121', 'begin:0.2063', 'term:0.2055', 'allegation:0.2014', 'long:0.1861', 'additional:0.1754', 'billion:0.1713', 'spin:0.1646', 'czk:0.134', 'look:0.1329', 'gru:0.13', 'coming:0.1171']+titles_keywords+['russiaukraine:0.5532', '2022:0.4869', 'february:0.347', 'news:0.3301', '26:0.2286']"
+        ]
+    ]
+}

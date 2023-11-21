@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220204+../news_crawling/RUS_UKR/p_articles/irishexaminer.com/Macron heads to Russia and Ukraine in bid for diplomatic solution to crisis.txt+eventbasecode12+eventcode12+avgtone0.47647058823529415+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4589', 'geopolitics:0.4539', 'nato:0.4306', 'invade:0.3892', 'diplomatic:0.3804', 'russias:0.3625', 'escalation:0.3228', 'kyiv:0.3168', 'disinformation:0.308', 'crisis:0.2832', 'readiness:0.2588', 'macrons:0.24', 'olympics:0.2205', 'talk:0.2147', 'french:0.2078', 'pretext:0.203', 'plan:0.1975', 'follow:0.1705', 'uncertainty:0.1657', 'counterpart:0.1643', 'elaborate:0.1611', 'element:0.1609', 'week:0.1487', 'recep:0.1354', 'format:0.134', 'make:0.1335', 'head:0.1103', 'mr:0.107', 'possible:0.0931', 'major:0.0864']+titles_keywords+['macron:0.3941', 'ukraine:0.3351', 'diplomatic:0.2805', 'solution:0.1194', 'bid:0.0624']"
+        ],
+        [
+            "20220711+../news_crawling/RUS_UKR/p_articles/irishexaminer.com/Ukraines anxious grain farmers face uncertainty as harvest begins.txt+eventbasecode12+eventcode12+avgtone0.4820689655172414+goldsteinscale0.48+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.01644736842105263+news_keywords+['ukraine:0.4067', 'farmer:0.3473', 'war:0.3202', 'grain:0.3078', 'reap:0.2841', 'supply:0.2756', 'blockade:0.2755', 'zelenskyy:0.2592', 'erdogan:0.2556', 'forecast:0.2529', 'grow:0.242', 'survive:0.2411', 'warn:0.228', 'independence:0.2062', 'know:0.1999', 'sell:0.1916', 'truck:0.1901', 'uncertain:0.1876', 'soon:0.1758', 'scenario:0.1729', 'green:0.1482', 'open:0.1456', 'crossing:0.1443', 'recep:0.1439', 'export:0.1379', 'finish:0.1307', 'look:0.1139', 'beneath:0.1112', 'seven:0.1054', 'chubuk:0.0961']+titles_keywords+['farmers:0.4551', 'grain:0.3867', 'ukraines:0.3174', 'anxious:0.2992', 'begins:0.0887']"
+        ]
+    ]
+}

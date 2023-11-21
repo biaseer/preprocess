@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/dnaindia.com/Ukraine crisis Netflix TikTok become newest companies to stop operations in Russia.txt+eventbasecode10+eventcode10+avgtone0.4665809768637532+goldsteinscale0.5+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.03289473684210526+news_keywords+['ukraine:0.4894', 'kremlin:0.4276', 'news:0.3578', 'border:0.2939', 'invasion:0.2917', 'sanction:0.2901', 'tiktok:0.2789', 'visa:0.2711', 'source:0.2646', 'netflix:0.2644', 'social:0.2551', 'situation:0.2427', 'military:0.2403', 'content:0.2398', 'future:0.2386', 'live:0.2326', 'channel:0.2219', 'term:0.2217', 'view:0.2112', 'instead:0.2091', 'continue:0.2033', 'ist:0.2021', 'plummet:0.1874', 'stock:0.1812', 'reported:0.1602', 'wrap:0.1589', 'write:0.1546', 'series:0.1533', 'webdesk:0.1442', 'bandwagon:0.0972']+titles_keywords+['ukraine:0.4416', 'tiktok:0.4181', 'companies:0.2646', 'netflix:0.26', 'crisis:0.2598']"
+        ],
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/dnaindia.com/Russia continues to bombard Ukrainian cities despite promise to draw back.txt+eventbasecode10+eventcode10+avgtone0.478515625+goldsteinscale0.5+nummentions0.08962264150943396+numarticles0.09028281363306744+numsources0.10197368421052631+news_keywords+['kyiv:0.5101', 'kremlin:0.4299', 'ceasefire:0.4271', 'reuters:0.3036', 'briefing:0.2717', 'resupply:0.2509', 'unprovoked:0.2403', 'read:0.2382', 'threat:0.2372', 'artillery:0.2142', 'know:0.2141', 'industrialise:0.2111', 'flee:0.2045', 'continue:0.2042', 'postpone:0.1996', 'future:0.1955', 'reposition:0.1929', 'monopoly:0.1894', 'good:0.1827', 'gas:0.1786', 'pandemic:0.1748', 'naive:0.1675', 'updated:0.1643', 'pull:0.1558', 'month:0.1431', 'buyer:0.1358', 'count:0.1259', 'nearly:0.1221', 'symptoms:0.1111', 'major:0.0992']+titles_keywords+['ukrainian:0.3655', 'bombard:0.2014', 'continues:0.2001', 'cities:0.1996', 'draw:0.0808']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/dnaindia.com/Suspected poisoning of Russian billionaire Ukrainian peace negotiators Report.txt+eventbasecode10+eventcode10+avgtone0.47413793103448276+goldsteinscale0.5+nummentions0.03773584905660377+numarticles0.03843364757070341+numsources0.08223684210526316+news_keywords+['poison:0.4855', 'kyiv:0.4256', 'tatar:0.3391', 'zelenskyy:0.3246', 'abramovich:0.2984', 'umerov:0.2793', 'symptom:0.2792', 'reuters:0.2666', 'negotiator:0.2462', 'peace:0.2421', 'billionaire:0.2232', 'suspect:0.22', 'report:0.2096', 'dmytro:0.2091', 'avoid:0.2031', 'invasion:0.1976', 'help:0.192', 'tear:0.1832', 'consumed:0.1778', 'meet:0.1636', 'water:0.1627', 'quote:0.1467', 'rustem:0.1377', 'hand:0.1303', 'end:0.1205', 'item:0.12', 'rebel:0.1105', 'ist:0.1085', 'similar:0.0978', 'schedule:0.0569']+titles_keywords+['ukrainian:0.4322', 'poisoning:0.3677', 'negotiators:0.2967', 'billionaire:0.2693', 'suspected:0.2']"
+        ]
+    ]
+}

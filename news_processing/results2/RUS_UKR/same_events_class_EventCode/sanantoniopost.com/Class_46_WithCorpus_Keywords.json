@@ -1,0 +1,12 @@
+{
+    "RUS+FRA+46":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/sanantoniopost.com/Biden and Putin Discuss Mounting RussiaUkraine Crisis.txt+eventbasecode46+eventcode46+avgtone0.4846897663174859+goldsteinscale0.85+nummentions0.0330188679245283+numarticles0.0337200870195794+numsources0.08552631578947369+news_keywords+['ukraine:0.4449', 'embassies:0.419', 'nato:0.4053', 'putin:0.4046', 'invade:0.356', 'diplomatic:0.3536', 'evacuate:0.3416', 'escalation:0.3215', 'reuters:0.3094', 'readiness:0.3024', 'crisis:0.2821', 'correspondent:0.2698', 'imminent:0.2598', 'pentagon:0.256', 'adviser:0.2548', 'biden:0.2498', 'warn:0.2476', 'coordinate:0.2401', 'brigade:0.2258', 'saturday:0.2145', 'order:0.1905', 'ready:0.1854', 'winter:0.1766', 'information:0.1738', 'additional:0.1716', 'telephone:0.1471', 'function:0.147', 'happen:0.1446', 'end:0.1411', 'voa:0.1169']+titles_keywords+['putin:0.4714', 'biden:0.4569', 'russiaukraine:0.3994', 'discuss:0.1875', 'mounting:-0.0092']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20211207+../news_crawling/RUS_UKR/p_articles/sanantoniopost.com/Ruble holds strong as US threatens to cut Russia off SWIFT.txt+eventbasecode46+eventcode46+avgtone0.4673913043478261+goldsteinscale0.85+nummentions0.10885341074020319+numarticles0.10949963741841914+numsources0.16447368421052633+news_keywords+['russia:0.4729', 'rubles:0.4456', 'threat:0.3299', 'currency:0.3042', 'bloomberg:0.3032', 'sanction:0.2931', 'government:0.2753', 'banking:0.2663', 'president:0.2441', 'cite:0.202', 'monday:0.2014', 'stock:0.2004', 'report:0.1988', 'strengthen:0.192', 'speculation:0.1861', 'swift:0.1833', 'event:0.1768', 'convert:0.1643', 'plan:0.1537', 'follow:0.1499', 'outlet:0.1303', 'disconnect:0.1287', 'greenback:0.1237', 'wide:0.1148', 'moex:0.1134', 'receive:0.1083', 'set:0.1062', 'reignite:0.0987', 'gmt:0.0835', 'benchmark:0.0662']+titles_keywords+['ruble:0.4739', 'strong:0.3269', 'cut:0.2161', 'swift:0.2155', 'threatens:0.1605']"
+        ]
+    ]
+}

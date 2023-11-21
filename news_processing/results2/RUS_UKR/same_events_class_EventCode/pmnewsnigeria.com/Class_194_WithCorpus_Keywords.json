@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/pmnewsnigeria.com/Russia hits Kyiv with missiles as UN boss Guterres visits.txt+eventbasecode194+eventcode194+avgtone0.46835443037974683+goldsteinscale0.0+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.009868421052631578+news_keywords+['kyiv:0.6088', 'ukraines:0.4781', 'ukraineputin:0.4683', 'putin:0.4054', 'war:0.3189', 'evacuate:0.3153', 'zelenskiy:0.2651', 'destabilise:0.2438', 'prevailnigeria:0.2429', 'involvement:0.2342', 'news:0.2276', 'separatist:0.2189', 'concern:0.193', 'outcome:0.1865', 'east:0.176', 'hit:0.1723', 'order:0.1705', 'heard:0.1648', 'secretary:0.1574', 'soon:0.1551', 'multipolar:0.153', 'rocket:0.1427', 'rtp:0.1426', 'main:0.1398', 'believe:0.1357', 'building:0.122', 'plant:0.1206', 'focus:0.1205', 'guterres:0.1026', 'agree:0.0982']+titles_keywords+['kyiv:0.4862', 'missiles:0.2947', 'guterres:0.2552', 'boss:0.1328', 'visits:0.1152']"
+        ]
+    ],
+    "UKR+RUS+194":[
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/pmnewsnigeria.com/Russias MOD says fire contained in stricken warship Moskva.txt+eventbasecode194+eventcode194+avgtone0.4803921568627451+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['warship:0.4209', 'moskva:0.412', 'torpedo:0.3782', 'russian:0.3506', 'ablaze:0.3054', 'russias:0.3042', 'odessa:0.2804', 'armament:0.2788', 'afloat:0.2519', 'military:0.2452', 'operation:0.2034', 'evacuate:0.194', 'damage:0.1672', 'strike:0.1579', 'battery:0.1513', 'investigate:0.1483', 'safely:0.1459', 'tow:0.1387', 'atlant:0.1379', 'news:0.1287', 'set:0.1236', 'cause:0.1105', 'statement:0.0997', 'defense:0.0977', 'thursday:0.0879', 'near:0.0816', 'add:0.0777', 'neptune:0.0761', 'gutted:0.0558', 'measures:0.0523']+titles_keywords+['moskva:0.4291', 'warship:0.2889', 'russias:0.2153', 'contained:0.1547', 'mod:0.1331']"
+        ]
+    ]
+}

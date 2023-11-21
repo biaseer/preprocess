@@ -1,0 +1,12 @@
+{
+    "CHE+RUS+13":[
+        [
+            "20211005+../news_crawling/RUS_UKR/p_articles/reuters.com/Russia completes Nord Stream 2 construction gas flows yet to start.txt+eventbasecode13+eventcode13+avgtone0.5030257186081695+goldsteinscale0.52+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['pipeline:0.4483', 'putin:0.3691', 'kyiv:0.3241', 'reuters:0.3005', 'gas:0.2763', 'turkstream:0.2707', 'transit:0.2387', 'north:0.2217', 'construction:0.2157', 'consortium:0.2137', 'subsea:0.1956', 'know:0.1826', 'power:0.1746', 'statement:0.1608', 'export:0.1492', 'stage:0.1483', 'natural:0.1479', 'lucrative:0.1468', 'gazp:0.1448', 'finish:0.1429', 'basfn:0.14', 'unbundling:0.138', 'allow:0.1372', 'long:0.1286', 'draw:0.1104', 'deal:0.1041', 'pre:0.0904', 'increase:0.0899', 'torres:0.0867', 'today:0.075']+titles_keywords+['nord:0.2463', 'gas:0.2255', 'completes:0.1942', 'stream:0.1915', 'construction:0.1804']"
+        ]
+    ],
+    "RUS+EUR+13":[
+        [
+            "20211006+../news_crawling/RUS_UKR/p_articles/reuters.com/Russia says Nord Stream 2 clearance may cool gas prices in Europe.txt+eventbasecode13+eventcode13+avgtone0.4955947136563877+goldsteinscale0.52+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['gas:0.4007', 'putin:0.3754', 'pipeline:0.3376', 'economy:0.318', 'regulator:0.3089', 'reuters:0.3023', 'gazprom:0.2885', 'baltic:0.288', 'surge:0.2427', 'phase:0.242', 'crisis:0.2376', 'transit:0.2089', 'speculative:0.2076', 'increase:0.2065', 'calm:0.1989', 'weather:0.1894', 'accusation:0.169', 'esp:0.166', 'rosn:0.1634', 'reduction:0.16', 'prices:0.158', 'month:0.1561', 'megawatt:0.1374', 'turn:0.1342', 'mid:0.1276', 'long:0.1254', 'today:0.1216', 'ready:0.1016', 'particularly:0.0891', 'benchmark:0.0862']+titles_keywords+['russia:0.2911', 'gas:0.2554', 'nord:0.2547', 'stream:0.1197', 'clearance:0.1157']"
+        ]
+    ]
+}

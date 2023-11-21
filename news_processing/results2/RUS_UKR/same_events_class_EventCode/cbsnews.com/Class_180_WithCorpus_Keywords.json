@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/cbsnews.com/John McLaughlin on Russias worldchanging war Intelligence Matters.txt+eventbasecode180+eventcode180+avgtone0.4976224022543149+goldsteinscale0.05+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.009868421052631578+news_keywords+['crimea:0.4669', 'putin:0.4393', 'nato:0.4361', 'geopolitics:0.4227', 'russias:0.4114', 'counterterrorism:0.3038', 'invade:0.2986', 'finlandization:0.2972', 'worldchanging:0.2828', 'table:0.2108', 'maneuver:0.2106', 'forth:0.1941', 'know:0.1925', 'read:0.1887', 'remain:0.1857', 'implication:0.1836', 'negotiate:0.1824', 'remind:0.1741', 'anticipate:0.1727', 'afraid:0.1637', 'end:0.1576', 'coordinate:0.1552', 'role:0.1542', 'long:0.1431', 'sure:0.1344', 'insightful:0.1329', 'year:0.1117', 'upper:0.0919', 'npt:0.0856', 'material:0.0845']+titles_keywords+['russias:0.3839', 'mclaughlin:0.3269', 'war:0.2978', 'intelligence:0.29', 'worldchanging:0.2393']"
+        ],
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Why the war in Ukraine might make root canals more difficult.txt+eventbasecode180+eventcode180+avgtone0.4859075535512965+goldsteinscale0.05+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['shortages:0.3988', 'engineering:0.3402', 'helium:0.34', 'concern:0.3339', 'ukraine:0.3191', 'pipeline:0.3127', 'hospitals:0.3068', 'exacerbate:0.2887', 'war:0.2844', 'crisis:0.2786', 'pandemic:0.2663', 'dental:0.2357', 'haphazard:0.2349', 'unprepared:0.2305', 'roundup:0.2303', 'avoid:0.2163', 'reduce:0.2141', 'use:0.1891', 'sector:0.189', 'entail:0.1862', 'report:0.1817', 'executive:0.1806', 'crucial:0.177', 'emerge:0.173', 'plant:0.1649', 'know:0.1647', 'baseline:0.1629', 'factor:0.149', 'kff:0.1396', 'relatively:0.1299']+titles_keywords+['canals:0.4106', 'ukraine:0.3075', 'war:0.2271', 'root:0.1558', 'difficult:0.1277']"
+        ]
+    ]
+}

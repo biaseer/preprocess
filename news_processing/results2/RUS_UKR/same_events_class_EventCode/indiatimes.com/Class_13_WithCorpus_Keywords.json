@@ -1,0 +1,12 @@
+{
+    "RUS+GBR+13":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/indiatimes.com/UK to freeze assets of all Russian banks in days.txt+eventbasecode13+eventcode13+avgtone0.4862155388471178+goldsteinscale0.52+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4506', 'kremlin:0.4305', 'ruble:0.3869', 'oligarchs:0.3864', 'sergei:0.345', 'sovereignty:0.31', 'economy:0.2969', 'treasury:0.2801', 'ban:0.2595', 'legislation:0.2567', 'flowotherssubmitrussia:0.2429', 'withdraw:0.2167', 'plummet:0.2098', 'conflict:0.2078', 'read:0.2035', 'prepare:0.1976', 'want:0.1786', 'swift:0.1663', 'squeeze:0.1581', 'turn:0.1514', 'end:0.1513', 'global:0.1411', 'long:0.1376', 'ally:0.1368', 'veb:0.1233', 'relevant:0.1229', 'weekend:0.1179', 'house:0.0999', 'total:0.084', 'restore:0.0399']+titles_keywords+['banks:0.3661', 'russian:0.3044', 'uk:0.2443', 'freeze:0.2134', 'days:0.1083']"
+        ]
+    ],
+    "RUS+UKR+13":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Satellite photos show possible mass graves near Mariupol.txt+eventbasecode13+eventcode13+avgtone0.472265625+goldsteinscale0.52+nummentions0.11357039187227866+numarticles0.11421319796954314+numsources0.41776315789473684+news_keywords+['kyiv:0.5331', 'kremlin:0.4852', 'boychenko:0.3457', 'massacre:0.3367', 'airstrikes:0.3325', 'territory:0.2799', 'ruin:0.2686', 'sprawl:0.2669', 'troop:0.2566', 'pentagons:0.2552', 'strategic:0.2335', 'tunnel:0.2335', 'industrial:0.2316', 'underway:0.2052', 'plant:0.203', 'satellite:0.2009', 'predict:0.1995', 'mariupol:0.1927', 'hit:0.1912', 'bucha:0.1905', 'mayor:0.1894', 'photo:0.178', 'help:0.1694', 'anonymity:0.1648', 'significant:0.1534', 'piotr:0.1468', 'possible:0.1461', 'manhush:0.1317', 'population:0.1294', 'characterize:0.1183']+titles_keywords+['graves:0.3084', 'mariupol:0.2763', 'mass:0.2465', 'photos:0.2067', 'possible:0.1493']"
+        ]
+    ]
+}

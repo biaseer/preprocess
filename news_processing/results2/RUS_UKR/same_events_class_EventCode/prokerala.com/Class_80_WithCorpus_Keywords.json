@@ -1,0 +1,12 @@
+{
+    "IND+RUS+80":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/prokerala.com/I will never give up the conviction that Russians Ukrainians are one people Putin By.txt+eventbasecode80+eventcode80+avgtone0.48507462686567165+goldsteinscale0.75+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.5431', 'ukrainians:0.4593', 'nationalist:0.3807', 'propaganda:0.3762', 'evacuation:0.2874', 'federation:0.2817', 'rt:0.2564', 'henchman:0.2561', 'hostility:0.2552', 'hostage:0.2443', 'military:0.2385', 'corridor:0.225', 'fool:0.2089', 'speech:0.2003', 'fact:0.1999', 'proceeding:0.1974', 'despite:0.1923', 'allow:0.192', 'report:0.1909', 'safe:0.188', 'ist:0.1768', 'inhabitant:0.1761', 'emphasize:0.1468', 'precisely:0.1437', 'thu:0.1417', 'delhi:0.127', 'arm:0.1153', 'solve:0.1069', 'special:0.1036', 'new:0.0906']+titles_keywords+['ukrainians:0.5309', 'putin:0.5155', 'published:0.2783', 'views:0.2023', 'thu:0.1774']"
+        ]
+    ],
+    "RUS+UKR+80":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/prokerala.com/Ukrainians asked to confuse Russian forces by removing names of streets cities from road signs.txt+eventbasecode80+eventcode80+avgtone0.4705882352941177+goldsteinscale0.75+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['crimea:0.5793', 'kiev:0.5377', 'ukrainians:0.5066', 'kremlin:0.5026', 'russian:0.4206', 'airstrikes:0.3568', 'occupy:0.3381', 'redeploy:0.3159', 'poltava:0.2757', 'enemy:0.2736', 'border:0.252', 'streetscitiesvillages:0.2514', 'civilian:0.2467', 'remove:0.2357', 'hostage:0.2315', 'armed:0.2308', 'confuse:0.2242', 'tank:0.2156', 'news:0.2091', 'report:0.1917', 'airfield:0.1879', 'ist:0.1842', 'text:0.1833', 'order:0.1717', 'buk:0.171', 'soon:0.1435', 'continue:0.1231', 'possible:0.1028', 'feb:0.1027', 'plaques:0.1016']+titles_keywords+['ukrainians:0.4691', 'streets:0.3702', 'confuse:0.2983', 'removing:0.2159', 'ist:0.1969']"
+        ]
+    ]
+}

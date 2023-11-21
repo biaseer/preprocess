@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Ukraine man bids tearful goodbye to his family before staying behind to defend Odessa Visuals.txt+eventbasecode130+eventcode130+avgtone0.4676470588235294+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5185', 'ukraines:0.4744', 'ceasefire:0.413', 'evacuate:0.382', 'russian:0.3701', 'casualty:0.3', 'invasion:0.2647', 'civilian:0.242', 'goodbye:0.2371', 'government:0.2205', 'street:0.2161', 'people:0.1876', 'defend:0.183', 'continue:0.1629', 'read:0.1476', 'report:0.1427', 'midnight:0.1315', 'india:0.1297', 'arm:0.1194', 'heartbreaking:0.1111', 'willingly:0.1071', 'scene:0.1009', 'fog:0.0973', 'million:0.0939', 'higher:0.0904', 'photo:0.0872', 'right:0.0862', 'sequence:0.0641', 'bid:0.0623', 'man:0.0422']+titles_keywords+['odessa:0.3356', 'goodbye:0.3079', 'tearful:0.3059', 'family:0.2453', 'man:0.098']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Ukraine surrenders Russia wins Welcome to the world of deepfakes.txt+eventbasecode130+eventcode130+avgtone0.4893190921228305+goldsteinscale0.27999999999999997+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['putin:0.4495', 'deepfake:0.4009', 'hackers:0.3582', 'news:0.3432', 'segodnya:0.3274', 'evidence:0.3177', 'technology:0.3158', 'facebook:0.2957', 'false:0.282', 'community:0.282', 'detect:0.2765', 'authority:0.2687', 'violate:0.2653', 'anomalies:0.265', 'read:0.2621', 'military:0.2614', 'change:0.2612', 'report:0.2596', 'victory:0.2426', 'world:0.2362', 'note:0.2324', 'comtiicf:0.2286', 'volodymyr:0.2271', 'removed:0.2192', 'say:0.2101', 'backtrack:0.2065', 'blink:0.1968', 'arm:0.1823', 'year:0.177', 'fully:0.1587']+titles_keywords+['ukraine:0.4496', 'surrenders:0.418', 'deepfakes:0.3967', 'world:0.2498', 'welcome:0.0989']"
+        ],
+        [
+            "20220508+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Ukrainian drone destroys Russian ship near Snake Island in Black sea Watch.txt+eventbasecode130+eventcode130+avgtone0.4784172661870504+goldsteinscale0.27999999999999997+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['ukraine:0.4044', 'warship:0.3272', 'drone:0.3148', 'snake:0.3058', 'missile:0.291', 'island:0.2689', 'military:0.2561', 'slava:0.2437', 'attack:0.2252', 'propaganda:0.21', 'debris:0.2055', 'bayraktar:0.1991', 'launch:0.1921', 'tor:0.1656', 'serna:0.1463', 'watch:0.1434', 'parade:0.1392', 'black:0.1209', 'target:0.117', 'project:0.1141', 'tweet:0.1136', 'water:0.1089', 'arm:0.1044', 'achieved:0.0983', 'flame:0.0914', 'pic:0.0903', 'month:0.0885', 'today:0.0804', 'comwyepywmawx:0.0607', 'massive:0.0602']+titles_keywords+['drone:0.3696', 'russian:0.3243', 'island:0.2608', 'snake:0.2566', 'destroys:0.1308']"
+        ]
+    ]
+}

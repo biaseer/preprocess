@@ -1,0 +1,20 @@
+{
+    "FJI+RUS+20":[
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/fijitimes.com/Swiss give cool reply to Ukraine call for seizing Russian assets.txt+eventbasecode20+eventcode20+avgtone0.4968051118210862+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4936', 'russias:0.4337', 'confiscating:0.3732', 'sanction:0.3079', 'franc:0.2869', 'fund:0.2753', 'money:0.2508', 'protect:0.2482', 'reuters:0.2317', 'legislation:0.218', 'invasion:0.2168', 'unprovoked:0.2145', 'handover:0.2061', 'report:0.1952', 'propose:0.1871', 'asset:0.1821', 'use:0.1701', 'clarify:0.168', 'president:0.1621', 'freeze:0.1567', 'order:0.15', 'billion:0.1487', 'case:0.1434', 'say:0.1407', 'measure:0.1363', 'shmygal:0.132', 'state:0.1249', 'ignazio:0.1233', 'link:0.1106', 'long:0.0963']+titles_keywords+['ukraine:0.3867', 'swiss:0.3813', 'assets:0.1906', 'reply:0.1796', 'seizing:0.1679']"
+        ]
+    ],
+    "FJI+UKR+20":[
+        [
+            "20220123+../news_crawling/RUS_UKR/p_articles/fijitimes.com/Political advisers to hold fourway talks on Ukraine in Paris.txt+eventbasecode20+eventcode20+avgtone0.4805194805194805+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.3935', 'dmitry:0.3847', 'putins:0.3742', 'meeting:0.341', 'negotiator:0.3199', 'adviser:0.2832', 'normandy:0.2687', 'podolyak:0.2584', 'talk:0.2557', 'peace:0.2489', 'yermak:0.2415', 'fourway:0.231', 'political:0.2033', 'president:0.19', 'preliminary:0.171', 'separatist:0.1661', 'plan:0.1415', 'eastern:0.1347', 'format:0.1258', 'say:0.1185', 'month:0.1144', 'source:0.1122', 'chief:0.1057', 'andgermanywill:0.0999', 'hold:0.0968', 'set:0.0844', 'long:0.0808', 'confirm:0.0648', 'pro:0.0569', 'add:0.0473']+titles_keywords+['advisers:0.3832', 'fourway:0.3262', 'talks:0.2847', 'ukraine:0.2702', 'political:0.1726']"
+        ],
+        [
+            "20220612+../news_crawling/RUS_UKR/p_articles/fijitimes.com/Family of British man facing the death penalty in Donbas call for his release.txt+eventbasecode20+eventcode20+avgtone0.46379310344827585+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukrainian:0.4476', 'donetsk:0.4333', 'prisoner:0.2773', 'geneva:0.2658', 'mercenary:0.2513', 'illegal:0.2463', 'conflict:0.2399', 'invade:0.237', 'proceeding:0.2233', 'bloody:0.2215', 'judgment:0.2196', 'death:0.2125', 'donbas:0.1784', 'news:0.1777', 'port:0.1579', 'shaun:0.1546', 'sentence:0.1541', 'pinners:0.1528', 'independent:0.1511', 'aslin:0.1498', 'safe:0.1386', 'recognise:0.134', 'right:0.1175', 'saddened:0.1135', 'hope:0.1123', 'exchange:0.0996', 'sincerely:0.0957', 'advice:0.0879', 'late:0.0741', 'man:0.0472']+titles_keywords+['donbas:0.2747', 'death:0.2328', 'british:0.1969', 'family:0.1611', 'man:0.0265']"
+        ]
+    ],
+    "WST+RUS+20":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/fijitimes.com/More deaths and more suffering expected in Ukraine in days to come NATO says.txt+eventbasecode20+eventcode20+avgtone0.44767441860465096+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4609', 'nato:0.4475', 'war:0.3812', 'putin:0.3675', 'vladimir:0.2926', 'death:0.2781', 'reuters:0.2761', 'russias:0.2745', 'troop:0.2568', 'destruction:0.2559', 'alliance:0.2373', 'suffer:0.233', 'bad:0.2302', 'friday:0.2159', 'expect:0.1977', 'come:0.1943', 'stoltenberg:0.1922', 'day:0.1762', 'say:0.1587', 'general:0.1546', 'withdraw:0.1481', 'brussels:0.144', 'jens:0.1381', 'reporter:0.1364', 'condition:0.1236', 'cause:0.123', 'foreign:0.1105', 'secretary:0.1007', 'meet:0.0992', 'likely:0.0466']+titles_keywords+['ukraine:0.4148', 'deaths:0.3436', 'expected:0.1252', 'come:0.1212', 'says:0.0949']"
+        ]
+    ]
+}

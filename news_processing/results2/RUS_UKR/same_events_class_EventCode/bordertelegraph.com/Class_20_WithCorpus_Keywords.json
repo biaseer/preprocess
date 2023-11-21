@@ -1,0 +1,12 @@
+{
+    "POL+RUS+20":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/bordertelegraph.com/Johnson helping Ukraine more thanks to British public pressure Zelensky says.txt+eventbasecode20+eventcode20+avgtone0.48329048843187655+goldsteinscale0.65+nummentions0.2144412191582003+numarticles0.21501087744742567+numsources0.3223684210526316+news_keywords+['putin:0.4669', 'nato:0.4335', 'invade:0.3853', 'kyiv:0.3575', 'conflict:0.3478', 'escalation:0.2948', 'govern:0.2829', 'neutrality:0.2758', 'involve:0.2656', 'logistically:0.212', 'speak:0.2031', 'want:0.2027', 'reiterate:0.1915', 'foreign:0.1898', 'help:0.1867', 'term:0.1811', 'secretary:0.1731', 'row:0.1705', 'bbcs:0.1693', 'note:0.1655', 'hesitant:0.1654', 'stay:0.1471', 'powerful:0.1447', 'end:0.141', 'direct:0.1157', 'deep:0.1121', 'agree:0.111', 'antony:0.0983', 'house:0.098', 'month:0.0715']+titles_keywords+['zelensky:0.4409', 'ukraine:0.3697', 'johnson:0.2798', 'british:0.1875', 'helping:0.1351']"
+        ]
+    ],
+    "RUS+USA+20":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/bordertelegraph.com/Putin and Biden hold highstakes phone call over Ukraine crisis.txt+eventbasecode20+eventcode20+avgtone0.48572561459159397+goldsteinscale0.65+nummentions0.27322206095791+numarticles0.2737490935460479+numsources0.4506578947368421+news_keywords+['crimea:0.4729', 'putin:0.4365', 'natos:0.4308', 'invade:0.4208', 'provocations:0.2751', 'troop:0.2711', 'biden:0.2531', 'adviser:0.2477', 'border:0.2423', 'misinformation:0.2363', 'soon:0.2352', 'plan:0.2316', 'separatist:0.226', 'scenario:0.2158', 'order:0.2108', 'tension:0.2106', 'know:0.1969', 'ready:0.196', 'progress:0.1808', 'firepower:0.1764', 'volodymyr:0.173', 'respond:0.1678', 'telephone:0.1654', 'winter:0.1623', 'rail:0.1613', 'eastern:0.1605', 'help:0.1599', 'end:0.1577', 'short:0.1439', 'major:0.104']+titles_keywords+['putin:0.4179', 'biden:0.3862', 'phone:0.2157', 'hold:0.1745', 'highstakes:0.1693']"
+        ]
+    ]
+}

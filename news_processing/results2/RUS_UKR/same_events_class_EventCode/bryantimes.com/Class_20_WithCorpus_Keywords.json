@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/bryantimes.com/Shelley Inglis Russia blocks UN on Ukraine.txt+eventbasecode20+eventcode20+avgtone0.48607038123167157+goldsteinscale0.65+nummentions0.024310595065312045+numarticles0.022117476432197244+numsources0.02631578947368421+news_keywords+['peacekeeping:0.4704', 'diplomacy:0.4601', 'ukraine:0.3989', 'putins:0.3278', 'conflicts:0.3228', 'veto:0.3171', 'nuclear:0.2589', 'crisis:0.2578', 'president:0.2364', 'authority:0.2227', 'meeting:0.2204', 'world:0.2135', 'observer:0.208', 'reform:0.2072', 'action:0.1757', 'expand:0.173', 'investigation:0.1727', 'require:0.1725', 'agreement:0.1559', 'end:0.1329', 'shortly:0.1311', 'forward:0.1308', 'avert:0.1265', 'resolution:0.1201', 'feb:0.1132', 'powerful:0.1129', 'complicate:0.1097', 'hold:0.1084', 'unjustified:0.0928', 'price:0.0528']+titles_keywords+['ukraine:0.4475', 'russia:0.3831', 'inglis:0.3135', 'shelley:0.2594', 'blocks:0.2173']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        []
+    ]
+}

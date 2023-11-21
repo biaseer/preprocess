@@ -1,0 +1,27 @@
+{
+    "BLR+RUS+163":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/ukrinform.net/European Union to close its airspace to Russian airlines.txt+eventbasecode163+eventcode163+avgtone0.4666666666666666+goldsteinscale0.1+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['putin:0.4764', 'ukraine:0.3902', 'eu:0.3408', 'airspace:0.3176', 'propaganda:0.287', 'sanction:0.2763', 'war:0.255', 'justify:0.2481', 'zelensky:0.2286', 'sputnik:0.2223', 'volodymyr:0.1843', 'union:0.1777', 'begin:0.1653', 'report:0.1613', 'statement:0.1574', 'rt:0.151', 'control:0.1471', 'close:0.1423', 'decide:0.1353', 'commission:0.1306', 'outlet:0.1296', 'note:0.1226', 'strengthen:0.1165', 'day:0.1152', 'purchase:0.1045', 'longer:0.0993', 'february:0.0945', 'include:0.0894', 'general:0.0799', 'der:0.0716']+titles_keywords+['russian:0.2943', 'airspace:0.2791', 'airlines:0.2272', 'union:0.1481', 'close:0.1353']"
+        ]
+    ],
+    "ISR+RUS+163":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/ukrinform.net/President Zelensky Israel can help Ukrainian people to defend themselves.txt+eventbasecode163+eventcode163+avgtone0.4844559585492228+goldsteinscale0.1+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.006578947368421052+news_keywords+['ukraine:0.4412', 'holocaust:0.4351', 'knesset:0.4307', 'vladimir:0.3875', 'zelensky:0.3824', 'war:0.3395', 'mediation:0.2711', 'indifference:0.2672', 'volodymyr:0.2493', 'missile:0.2489', 'president:0.2348', 'correspondent:0.2117', 'visa:0.1967', 'initiate:0.1926', 'sanction:0.1837', 'people:0.181', 'know:0.1741', 'remind:0.1724', 'note:0.1655', 'erroneous:0.1573', 'help:0.1525', 'uman:0.1351', 'powerful:0.1275', 'long:0.1264', 'echo:0.1196', 'make:0.1145', 'bury:0.1032', 'dozen:0.0948', 'calculations:0.0868', 'yar:0.082']+titles_keywords+['zelensky:0.5255', 'ukrainian:0.4449', 'israel:0.4101', 'defend:0.2177', 'help:0.1457']"
+        ]
+    ],
+    "RUS+BLR+163":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/ukrinform.net/US announces new sanctions against Russian and Belarusian companies.txt+eventbasecode163+eventcode163+avgtone0.4672897196261683+goldsteinscale0.1+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4842', 'ukraine:0.4584', 'russias:0.4314', 'sanction:0.4156', 'invasion:0.3142', 'commerce:0.2906', 'aggressor:0.258', 'briefing:0.2576', 'report:0.2403', 'artillery:0.2303', 'european:0.2221', 'begin:0.2114', 'list:0.2039', 'sector:0.1883', 'evade:0.167', 'use:0.1609', 'state:0.1557', 'control:0.1542', 'february:0.1538', 'note:0.1404', 'ofac:0.1393', 'entity:0.1368', 'reach:0.1366', 'case:0.1305', 'license:0.1278', 'day:0.1239', 'degrade:0.1232', 'say:0.1199', 'coming:0.1189', 'longer:0.0855']+titles_keywords+['sanctions:0.4702', 'belarusian:0.2982', 'companies:0.1313', 'announces:0.0551', 'new:0.0313']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/ukrinform.net/EU extends Russia sanctions for six months over aggression in Ukraine.txt+eventbasecode163+eventcode163+avgtone0.46840148698884754+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['sanction:0.4213', 'crimea:0.4172', 'prohibit:0.3157', 'impose:0.3003', 'eu:0.2992', 'destabilizing:0.2649', 'extend:0.2422', 'sovereignty:0.2123', 'agreement:0.2113', 'aggression:0.2019', 'read:0.1998', 'economic:0.1906', 'recall:0.1876', 'response:0.178', 'remain:0.1772', 'restrictive:0.1758', 'month:0.1643', 'import:0.1636', 'introduce:0.1551', 'sector:0.1537', 'sevastopol:0.1482', 'aforementioned:0.1303', 'capital:0.1292', 'end:0.1235', 'measure:0.1164', 'foreseen:0.0977', 'state:0.0937', 'limit:0.0776', 'direct:0.0685', 'currently:0.0251']+titles_keywords+['sanctions:0.375', 'eu:0.2424', 'months:0.233', 'extends:0.216', 'aggression:0.1775']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20211011+../news_crawling/RUS_UKR/p_articles/ukrinform.net/EU imposes sanctions on eight more people over Russias occupation of Crimea.txt+eventbasecode163+eventcode163+avgtone0.4571865443425076+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.5271', 'sanction:0.3905', 'annexed:0.306', 'russias:0.2945', 'eu:0.283', 'sovereignty:0.2739', 'threaten:0.232', 'crisis:0.2201', 'remain:0.2196', 'legal:0.1817', 'sevastopol:0.1757', 'implement:0.1751', 'read:0.1737', 'response:0.1631', 'subject:0.1626', 'march:0.1506', 'decide:0.1435', 'reminder:0.1389', 'enter:0.133', 'force:0.1185', 'restrictive:0.1152', 'list:0.1068', 'sector:0.1049', 'measure:0.1027', 'individual:0.0996', 'transit:0.0845', 'freeze:0.0824', 'underscore:0.0713', 'additional:0.0697', 'limit:0.065']+titles_keywords+['sanctions:0.4738', 'crimea:0.3912', 'eu:0.2779', 'imposes:0.2542', 'people:0.1591']"
+        ]
+    ]
+}

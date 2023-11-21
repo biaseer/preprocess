@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/huffpost.com/War Crimes Meeting Held At Hague Over RussiaUkraine War.txt+eventbasecode111+eventcode111+avgtone0.45292207792207784+goldsteinscale0.4+nummentions0.056966618287373004+numarticles0.05765047135605511+numsources0.07236842105263158+news_keywords+['russiaukraine:0.4201', 'kyiv:0.3998', 'putin:0.3957', 'genocide:0.3746', 'war:0.37', 'hague:0.3606', 'prosecute:0.3565', 'civilians:0.3438', 'tribunal:0.3264', 'invade:0.3188', 'suspect:0.302', 'atrocity:0.2783', 'case:0.2417', 'denounce:0.2298', 'evidence:0.2183', 'propagandist:0.2172', 'infrastructure:0.1895', 'meeting:0.1806', 'biden:0.1579', 'ongoing:0.1486', 'order:0.1452', 'link:0.139', 'bucha:0.1353', 'sentence:0.1345', 'month:0.1156', 'knew:0.1074', 'commander:0.1044', 'pbs:0.0988', 'state:0.0963', 'set:0.0953']+titles_keywords+['hague:0.4334', 'russiaukraine:0.3756', 'war:0.3569', 'meeting:0.3157', 'crimes:0.2522']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/huffpost.com/Ukrainian Officials Say Russia Bombed Mariupol Theater Sheltering Hundreds.txt+eventbasecode111+eventcode111+avgtone0.4616755793226382+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.4914', 'chechnya:0.4794', 'russians:0.4649', 'putin:0.4527', 'aleppo:0.4137', 'genocide:0.4132', 'war:0.3769', 'invasion:0.3402', 'destroy:0.2886', 'hostage:0.2711', 'gunfire:0.2689', 'casualty:0.2618', 'investigation:0.2551', 'civilian:0.2518', 'tactic:0.2461', 'justify:0.2374', 'sheltering:0.229', 'theater:0.2199', 'know:0.2', 'dangerous:0.1973', 'child:0.195', 'mariupol:0.1673', 'hundreds:0.1333', 'https:0.1291', 'return:0.1271', 'pavement:0.1267', 'large:0.1003', 'month:0.0962', 'largely:0.0927', 'encircle:0.0876']+titles_keywords+['ukrainian:0.3474', 'mariupol:0.2558', 'theater:0.2308', 'bombed:0.2183', 'hundreds:0.1065']"
+        ]
+    ]
+}

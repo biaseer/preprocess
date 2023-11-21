@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+36":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/britainnews.net/US Moves to Sever Russian Access to Dollars.txt+eventbasecode36+eventcode36+avgtone0.48080279232111695+goldsteinscale0.7+nummentions0.026124818577648767+numarticles0.026831036983321246+numsources0.04276315789473684+news_keywords+['putin:0.4865', 'invade:0.3544', 'kyiv:0.3284', 'diplomatic:0.3084', 'economy:0.3068', 'treasury:0.3024', 'sanction:0.295', 'disinformation:0.2819', 'emergency:0.2417', 'moves:0.2397', 'unprovoked:0.2362', 'delegations:0.2228', 'prepare:0.2098', 'transaction:0.2039', 'know:0.1966', 'sunk:0.1873', 'states:0.1813', 'leave:0.1813', 'export:0.1735', 'follow:0.1674', 'global:0.1542', 'week:0.1532', 'pledge:0.1472', 'billion:0.1423', 'measure:0.1398', 'swifting:0.1311', 'direct:0.1275', 'brazen:0.123', 'background:0.1156', 'house:0.0972']+titles_keywords+['russian:0.3283', 'dollars:0.2838', 'moves:0.1491', 'access:0.0692', 'sever:0.0265']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20210624+../news_crawling/RUS_UKR/p_articles/britainnews.net/HMS Defender incident what the law of the sea says.txt+eventbasecode36+eventcode36+avgtone0.49320882852292025+goldsteinscale0.7+nummentions0.038461538461538464+numarticles0.03915881073241479+numsources0.03289473684210526+news_keywords+['crimea:0.5987', 'geopolitics:0.3837', 'sovereignty:0.3706', 'naval:0.3228', 'proceed:0.2565', 'undermine:0.2387', 'directness:0.2349', 'clarify:0.2226', 'port:0.2205', 'navigation:0.2184', 'nonsense:0.2124', 'claimant:0.2011', 'peace:0.1975', 'smuggle:0.1972', 'incident:0.194', 'british:0.1828', 'cape:0.1712', 'tide:0.1687', 'react:0.1656', 'takeover:0.1593', 'distress:0.1586', 'contains:0.158', 'predictably:0.1382', 'board:0.1328', 'current:0.1302', 'prevent:0.1231', 'underline:0.1108', 'lane:0.1043', 'far:0.0955', 'possibly:0.0638']+titles_keywords+['hms:0.4061', 'incident:0.3553', 'sea:0.3377', 'law:0.3295', 'defender:0.2558']"
+        ]
+    ]
+}

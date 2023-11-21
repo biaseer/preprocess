@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/kedm.org/President Biden warns that the threat of a Russian invasion of Ukraine is very high.txt+eventbasecode87+eventcode874+avgtone0.48287671232876717+goldsteinscale1.0+nummentions0.12300435413642961+numarticles0.12364031907179115+numsources0.11842105263157894+news_keywords+['putin:0.4246', 'invade:0.4008', 'ukraine:0.3918', 'diplomacy:0.3916', 'threat:0.321', 'flag:0.298', 'troop:0.2868', 'biden:0.2833', 'unprovoked:0.2482', 'warn:0.2462', 'pursue:0.2454', 'border:0.2362', 'prepare:0.2339', 'operation:0.2204', 'escalatory:0.2081', 'plan:0.1965', 'pull:0.1747', 'npr:0.1745', 'expulsion:0.1739', 'read:0.1737', 'thursday:0.1624', 'happen:0.158', 'excuse:0.1397', 'speak:0.1349', 'false:0.13', 'phone:0.1093', 'transatlantic:0.1068', 'house:0.0959', 'measure:0.0708', 'maynes:0.0519']+titles_keywords+['biden:0.3775', 'ukraine:0.3199', 'warns:0.2305', 'invasion:0.2063', 'high:0.1682']"
+        ],
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/kedm.org/Ukraine says Russian troops are withdrawing from Kharkiv.txt+eventbasecode87+eventcode874+avgtone0.47580015612802495+goldsteinscale1.0+nummentions0.1179245283018868+numarticles0.11856417693981146+numsources0.13815789473684212+news_keywords+['ukraine:0.507', 'nato:0.4041', 'airstrikes:0.3672', 'erdogan:0.3347', 'threat:0.2863', 'eastward:0.2796', 'troop:0.2761', 'separatist:0.2714', 'predict:0.2693', 'zelenskyy:0.2634', 'telegram:0.2196', 'worry:0.2113', 'history:0.2086', 'advance:0.2084', 'outcome:0.2042', 'severodonetsk:0.1996', 'enter:0.1968', 'order:0.1912', 'industrial:0.191', 'pull:0.1891', 'long:0.1884', 'counterpart:0.1759', 'avoiding:0.1749', 'negotiate:0.1583', 'grid:0.1574', 'straightforward:0.1445', 'donets:0.1225', 'today:0.1104', 'billion:0.1094', 'agree:0.105']+titles_keywords+['kharkiv:0.4158', 'ukraine:0.3751', 'withdrawing:0.3066', 'troops:0.2411', 'says:0.017']"
+        ]
+    ]
+}

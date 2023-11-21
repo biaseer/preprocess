@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+40":[
+        [
+            "20220506+../news_crawling/RUS_UKR/p_articles/indianewengland.com/India calls for international cooperation on energy crisis from Ukraine war.txt+eventbasecode40+eventcode40+avgtone0.48482549317147194+goldsteinscale0.55+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['diplomacy:0.4697', 'putin:0.4126', 'wto:0.4118', 'russias:0.371', 'evacuation:0.3572', 'kiev:0.3411', 'humanitarian:0.3179', 'india:0.3175', 'destabilise:0.251', 'organisation:0.2452', 'concern:0.2279', 'designate:0.2267', 'know:0.2008', 'continue:0.1938', 'reiterating:0.1781', 'word:0.1769', 'export:0.1767', 'increase:0.1706', 'trade:0.1692', 'general:0.1668', 'quick:0.1611', 'implication:0.1603', 'ians:0.1503', 'hasina:0.1426', 'steer:0.1404', 'equally:0.1384', 'volatility:0.1343', 'june:0.1321', 'fertiliser:0.1319', 'welcome:0.0789']+titles_keywords+['ukraine:0.3423', 'war:0.2934', 'cooperation:0.252', 'international:0.1747', 'crisis:0.1426']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/indianewengland.com/NATO has never been more united than it is today Biden.txt+eventbasecode40+eventcode40+avgtone0.49504950495049505+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['natos:0.5946', 'putin:0.4376', 'ukraine:0.4099', 'vladimir:0.3378', 'war:0.3201', 'unite:0.2759', 'biden:0.2643', 'strategic:0.2342', 'oligarchs:0.2217', 'strengthen:0.216', 'speak:0.2022', 'prepared:0.1998', 'intend:0.1908', 'armor:0.1823', 'invest:0.1818', 'democratic:0.1801', 'duma:0.1775', 'summit:0.1708', 'updated:0.1687', 'month:0.1686', 'sanction:0.1677', 'right:0.1626', 'help:0.1625', 'addressing:0.1611', 'today:0.1378', 'new:0.1346', 'additional:0.1315', 'opposite:0.1305', 'billion:0.1163', 'welcome:0.0993']+titles_keywords+['nato:0.6186', 'biden:0.4273', 'united:0.2428', 'today:0.144']"
+        ]
+    ]
+}

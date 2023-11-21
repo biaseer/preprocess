@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+154":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/How and why Russia is massing forces north of Kyiv.txt+eventbasecode154+eventcode154+avgtone0.47681451612903225+goldsteinscale0.13999999999999999+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5359', 'putin:0.3671', 'chernobyl:0.3208', 'military:0.2859', 'redeploy:0.2814', 'strategic:0.2753', 'attack:0.2441', 'pripyat:0.2242', 'encirclement:0.223', 'massing:0.2226', 'map:0.2195', 'bisect:0.2183', 'forward:0.2132', 'preparation:0.2051', 'border:0.1951', 'attract:0.1949', 'know:0.1816', 'report:0.1683', 'weather:0.162', 'focus:0.1467', 'gomel:0.1377', 'soon:0.1338', 'begin:0.1245', 'exacerbate:0.1238', 'covered:0.1097', 'radioecological:0.1035', 'hour:0.1003', 'electronic:0.0987', 'possible:0.0911', 'jump:0.0885']+titles_keywords+['kyiv:0.5812', 'russia:0.3901', 'massing:0.2988', 'north:0.2742', 'forces:0.2461']"
+        ]
+    ],
+    "RUS+UKR+154":[
+        [
+            "20220121+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/White House spends day in cleanup mode after Biden press conference.txt+eventbasecode154+eventcode154+avgtone0.48894348894348894+goldsteinscale0.13999999999999999+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.407', 'election:0.4042', 'briefing:0.3459', 'invades:0.3138', 'news:0.2826', 'pandemic:0.2657', 'outcome:0.2601', 'spin:0.25', 'write:0.2477', 'plan:0.2477', 'globe:0.2298', 'confederate:0.2277', 'term:0.226', 'bidens:0.2246', 'distinction:0.2193', 'predicting:0.215', 'fight:0.2076', 'cleanup:0.2072', 'psaki:0.2059', 'elaborate:0.1965', 'thursday:0.196', 'page:0.1927', 'ready:0.1922', 'tension:0.1888', 'hour:0.1798', 'look:0.1545', 'cyber:0.1522', 'volodymyr:0.1494', 'acknowledge:0.1491', 'haw:0.0576']+titles_keywords+['cleanup:0.4735', 'biden:0.3613', 'day:0.2743', 'house:0.2622', 'white:0.1956']"
+        ]
+    ]
+}

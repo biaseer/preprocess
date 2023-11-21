@@ -1,0 +1,17 @@
+{
+    "CHE+UKR+112":[
+        []
+    ],
+    "NLD+RUS+112":[
+        []
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220710+../news_crawling/RUS_UKR/p_articles/jamaicaobserver.com/Large explosions rock Russian military air base in Crimea.txt+eventbasecode112+eventcode112+avgtone0.4679144385026738+goldsteinscale0.4+nummentions0.1346153846153846+numarticles0.1352429296591733+numsources0.20065789473684212+news_keywords+['crimea:0.5267', 'kremlin:0.4621', 'chernobyl:0.4215', 'explosion:0.3474', 'missiles:0.3388', 'escalation:0.3364', 'konstantin:0.3283', 'dnipropetrovsk:0.3265', 'zelenskyy:0.2984', 'military:0.2679', 'kill:0.2586', 'flee:0.2413', 'occupied:0.2386', 'report:0.2329', 'industrial:0.2285', 'conflict:0.2216', 'know:0.2142', 'reinforce:0.2034', 'ap:0.1978', 'risk:0.1944', 'shelling:0.188', 'gov:0.1871', 'base:0.1848', 'big:0.1716', 'town:0.1635', 'plant:0.1541', 'significant:0.1476', 'month:0.1351', 'course:0.1348', 'saki:0.1216']+titles_keywords+['crimea:0.4385', 'explosions:0.3575', 'base:0.2067', 'military:0.1928', 'large:0.1369']",
+            "20220711+../news_crawling/RUS_UKR/p_articles/jamaicaobserver.com/Ukraine says 9 Russian warplanes destroyed in Crimea blasts.txt+eventbasecode112+eventcode112+avgtone0.4703389830508475+goldsteinscale0.4+nummentions0.16110304789550073+numarticles0.16171138506163887+numsources0.16776315789473684+news_keywords+['crimea:0.523', 'kremlin:0.434', 'sergei:0.3387', 'provoke:0.3', 'dnipropetrovsk:0.2923', 'explosion:0.2701', 'occupy:0.2615', 'military:0.2513', 'warn:0.2474', 'strategic:0.2342', 'emphasise:0.2266', 'concern:0.2209', 'result:0.1876', 'industrialised:0.1875', 'simultaneous:0.1837', 'president:0.1834', 'blame:0.1827', 'explanation:0.1724', 'study:0.1645', 'ap:0.1643', 'range:0.1622', 'state:0.1356', 'residential:0.1314', 'long:0.1288', 'fact:0.1255', 'wednesday:0.116', 'himars:0.0934', 'dozens:0.0856', 'doesnt:0.0785', 'sent:0.0507']+titles_keywords+['crimea:0.3626', 'warplanes:0.3436', 'blasts:0.2262', 'destroyed:0.1983', 'says:0.0722']"
+        ],
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/jamaicaobserver.com/Ukraine Russia sign UN deal to export grain on Black Sea.txt+eventbasecode112+eventcode112+avgtone0.4936886395511922+goldsteinscale0.4+nummentions0.5674891146589259+numarticles0.5678027556200145+numsources0.8947368421052632+news_keywords+['ukraine:0.4703', 'kremlin:0.3752', 'blockade:0.3646', 'war:0.3558', 'infrastructure:0.2846', 'agreement:0.2488', 'coordinate:0.2427', 'enact:0.234', 'commodity:0.2095', 'tayyip:0.2092', 'foresee:0.2051', 'meeting:0.1949', 'adviser:0.1836', 'write:0.1776', 'immediate:0.1651', 'long:0.1592', 'worsen:0.1586', 'corridor:0.1579', 'process:0.1523', 'general:0.1438', 'arm:0.1431', 'recep:0.1409', 'difference:0.137', 'export:0.1318', 'endanger:0.1316', 'april:0.1144', 'set:0.1029', 'welcome:0.0985', 'nearly:0.0968', 'focus:0.0943']+titles_keywords+['ukraine:0.3654', 'grain:0.2594', 'deal:0.246', 'export:0.1907', 'black:0.1439']"
+        ]
+    ]
+}

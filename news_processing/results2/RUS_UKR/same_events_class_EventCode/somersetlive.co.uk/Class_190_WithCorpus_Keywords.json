@@ -1,0 +1,25 @@
+{
+    "GBR+RUS+190":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/somersetlive.co.uk/British man reportedly killed fighting in Ukraine showed commando spirit until the end.txt+eventbasecode190+eventcode190+avgtone0.49387254901960786+goldsteinscale0.0+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.023026315789473683+news_keywords+['ukraine:0.3921', 'veteran:0.3864', 'tributes:0.3333', 'widow:0.2459', 'britons:0.2393', 'sibley:0.237', 'gofundme:0.2248', 'brave:0.2244', 'forget:0.2173', 'invasion:0.1988', 'kill:0.1986', 'news:0.1861', 'barker:0.1773', 'sadly:0.1701', 'logistic:0.163', 'gant:0.1629', 'page:0.1602', 'national:0.1401', 'title:0.1384', 'right:0.133', 'short:0.1311', 'confusion:0.1259', 'end:0.1223', 'truss:0.1198', 'hi:0.1107', 'alongside:0.1083', 'rd:0.1042', 'organise:0.1022', 'ive:0.1019', 'cost:0.0651']+titles_keywords+['commando:0.3066', 'ukraine:0.2864', 'fighting:0.249', 'killed:0.1747', 'man:0.147']"
+        ]
+    ],
+    "RUS+GBR+190":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/somersetlive.co.uk/UK fears underpressure Vladimir Putin could declare WWIII in just a matter of days.txt+eventbasecode190+eventcode190+avgtone0.493421052631579+goldsteinscale0.0+nummentions0.036284470246734396+numarticles0.03698332124728064+numsources0.039473684210526314+news_keywords+['putin:0.5112', 'nato:0.4356', 'moscow:0.3881', 'ukrainians:0.3827', 'wwiii:0.3606', 'threat:0.2855', 'rhetoric:0.2683', 'uk:0.2266', 'expeditionary:0.2212', 'newsletter:0.2065', 'border:0.2', 'cancerous:0.1994', 'cite:0.1939', 'matter:0.1845', 'plan:0.1837', 'long:0.1764', 'day:0.176', 'report:0.1726', 'alongside:0.1667', 'say:0.1591', 'exercises:0.1518', 'scale:0.1476', 'mr:0.1334', 'february:0.1334', 'consolidate:0.1323', 'significant:0.1302', 'limpet:0.1213', 'believe:0.1025', 'nearly:0.0966', 'add:0.0397']+titles_keywords+['wwiii:0.4447', 'putin:0.4118', 'underpressure:0.2193', 'uk:0.1715', 'days:0.0876']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/somersetlive.co.uk/Worlds largest cargo aircraft destroyed by Russian forces outside Kyiv say reports.txt+eventbasecode190+eventcode190+avgtone0.49859550561797744+goldsteinscale0.0+nummentions0.3149492017416546+numarticles0.31435823060188545+numsources0.4967105263157895+news_keywords+['aircraft:0.488', 'kyiv:0.4664', 'antonov:0.4063', 'soviet:0.3832', 'destroy:0.2887', 'cargo:0.2869', 'ssr:0.2338', 'federation:0.2173', 'dmytro:0.2163', 'report:0.1839', 'arrive:0.1826', 'history:0.1816', 'large:0.168', 'news:0.1571', 'target:0.1548', 'billion:0.1542', 'built:0.1532', 'occupier:0.1443', 'hostomel:0.1426', 'mr:0.1384', 'prevail:0.1351', 'capability:0.1345', 'longer:0.1339', 'confirm:0.1231', 'world:0.1143', 'dream:0.1049', 'monoloading:0.0929', 'track:0.0921', 'definitely:0.0901', 'cost:0.0871']+titles_keywords+['kyiv:0.3975', 'largest:0.3161', 'aircraft:0.3155', 'cargo:0.2346', 'destroyed:0.1933']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/somersetlive.co.uk/Russia suffered heavy losses overnight in failed Kyiv attacks claims Ukraine General.txt+eventbasecode190+eventcode190+avgtone0.45375722543352587+goldsteinscale0.0+nummentions0.11756168359941944+numarticles0.11820159535895576+numsources0.15460526315789475+news_keywords+['kyiv:0.5696', 'russian:0.3758', 'syrsky:0.3673', 'troop:0.3353', 'attack:0.3153', 'colonel:0.2982', 'failed:0.2408', 'protect:0.2404', 'storm:0.2261', 'capital:0.2261', 'enemy:0.212', 'demoralize:0.204', 'columns:0.1929', 'alexander:0.1891', 'exhausted:0.1823', 'news:0.1818', 'overnight:0.1619', 'claim:0.152', 'forces:0.149', 'suffer:0.1486', 'repeat:0.1429', 'lead:0.1385', 'somerset:0.1372', 'miss:0.1366', 'guests:0.1323', 'outskirt:0.1256', 'technology:0.1128', 'make:0.1047', 'independently:0.0753', 'significant:0.0719']+titles_keywords+['kyiv:0.4387', 'losses:0.3364', 'failed:0.1961', 'general:0.1599', 'overnight:0.0928']"
+        ],
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/somersetlive.co.uk/Ukraine war Before and after images show scale of destruction.txt+eventbasecode190+eventcode190+avgtone0.4664179104477612+goldsteinscale0.0+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.049342105263157895+news_keywords+['ukraine:0.4872', 'war:0.3956', 'vladimir:0.2792', 'conflict:0.2625', 'military:0.2507', 'bombardment:0.2474', 'destroy:0.2421', 'kharkiv:0.2413', 'humanitarian:0.2167', 'earlier:0.198', 'neighbouring:0.1664', 'long:0.1526', 'city:0.1514', 'scar:0.1472', 'flee:0.1365', 'western:0.1334', 'result:0.1331', 'use:0.1262', 'advance:0.1257', 'main:0.1225', 'repair:0.1215', 'plant:0.1202', 'routes:0.1006', 'forced:0.0862', 'million:0.0857', 'look:0.0837', 'day:0.0768', 'flatten:0.0751', 'bid:0.0409', 'slider:0.032']+titles_keywords+['ukraine:0.3946', 'war:0.3433', 'images:0.3353', 'destruction:0.3288', 'scale:0.1346']"
+        ]
+    ]
+}

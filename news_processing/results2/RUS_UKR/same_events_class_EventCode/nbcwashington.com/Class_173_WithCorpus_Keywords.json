@@ -1,0 +1,12 @@
+{
+    "POL+UKR+173":[
+        [
+            "20211119+../news_crawling/RUS_UKR/p_articles/nbcwashington.com/Ransomware Persists Even as HighProfile Attacks Have Slowed.txt+eventbasecode173+eventcode173+avgtone0.46299212598425193+goldsteinscale0.25+nummentions0.14078374455732948+numarticles0.1414068165337201+numsources0.15789473684210525+news_keywords+['ransomware:0.5897', 'cybersecurity:0.4707', 'extradition:0.3404', 'cryptocurrency:0.3316', 'threat:0.3052', 'spy:0.2931', 'government:0.2846', 'trend:0.2626', 'moscow:0.2523', 'urgent:0.2521', 'sector:0.2481', 'know:0.245', 'severity:0.2423', 'data:0.2265', 'pay:0.2257', 'report:0.22', 'soon:0.2023', 'originate:0.2006', 'biden:0.1947', 'updates:0.1937', 'june:0.1877', 'culprit:0.1869', 'reiterate:0.1838', 'nakasone:0.1624', 'theyve:0.161', 'overall:0.1549', 'tabloid:0.1541', 'longer:0.1351', 'virtual:0.1274', 'highprofile:0.0714']+titles_keywords+['ransomware:0.6113', 'highprofile:0.3078', 'persists:0.2015', 'attacks:0.1639', 'slowed:0.1161']"
+        ]
+    ],
+    "RUS+UKR+173":[
+        [
+            "20211202+../news_crawling/RUS_UKR/p_articles/nbcwashington.com/US Warns Russia as Kremlin Talks About War Threat in Ukraine.txt+eventbasecode173+eventcode173+avgtone0.4746478873239437+goldsteinscale0.25+nummentions0.13243831640058054+numarticles0.13306744017403915+numsources0.14473684210526316+news_keywords+['natos:0.4617', 'putin:0.4156', 'kyiv:0.3938', 'destabilization:0.3695', 'diplomatic:0.3332', 'annex:0.2839', 'escalate:0.262', 'eastward:0.2567', 'cybersecurity:0.2497', 'skirmish:0.2311', 'osce:0.2279', 'worry:0.1999', 'agreement:0.1952', 'consequence:0.1917', 'indicate:0.1882', 'organization:0.1712', 'turn:0.1697', 'prepared:0.1667', 'stay:0.1484', 'meet:0.1479', 'thursday:0.1473', 'renew:0.1454', 'long:0.1303', 'include:0.1254', 'state:0.1227', 'fsb:0.1219', 'ellen:0.1202', 'trade:0.0995', 'probability:0.0659', 'doesnt:0.0434']+titles_keywords+['kremlin:0.4361', 'ukraine:0.3704', 'warns:0.3061', 'war:0.2714', 'threat:0.2645']"
+        ]
+    ]
+}

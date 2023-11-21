@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+72":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/detroitnews.com/Russian forces shell Ukraines No 2 city menace Kyiv.txt+eventbasecode72+eventcode72+avgtone0.4740717029449424+goldsteinscale0.915+nummentions0.16110304789550073+numarticles0.16171138506163887+numsources0.17763157894736842+news_keywords+['kyiv:0.5063', 'putin:0.4121', 'war:0.3629', 'blitzkrieg:0.3482', 'negotiation:0.2636', 'emergency:0.2624', 'table:0.2565', 'kill:0.2463', 'conscript:0.2351', 'gazprom:0.2274', 'alert:0.2221', 'rhetoric:0.2219', 'border:0.219', 'envoys:0.2129', 'foresee:0.2074', 'school:0.2055', 'pipeline:0.2045', 'medinsky:0.2027', 'read:0.2003', 'occupier:0.195', 'soon:0.189', 'general:0.1775', 'orbit:0.1715', 'end:0.1673', 'fled:0.1668', 'long:0.1603', 'kilometer:0.1569', 'telephone:0.1508', 'warm:0.1494', 'population:0.1044']+titles_keywords+['kyiv:0.5937', 'ukraines:0.4679', 'menace:0.1768', 'shell:0.099', 'forces:0.0791']"
+        ]
+    ],
+    "WST+UKR+72":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/detroitnews.com/Russian attacks halt plans to evacuate Ukrainian civilians essentials in desperately short supply.txt+eventbasecode72+eventcode72+avgtone0.4689625850340136+goldsteinscale0.915+nummentions0.3033381712626996+numarticles0.30384336475707036+numsources0.34210526315789475+news_keywords+['kyiv:0.4882', 'putin:0.4241', 'airstrikes:0.3933', 'nato:0.367', 'evacuate:0.3623', 'chernobyl:0.3586', 'syria:0.3511', 'propaganda:0.3287', 'emergency:0.3284', 'dispatch:0.3161', 'humanitarian:0.2932', 'conflict:0.2881', 'annex:0.2437', 'telegram:0.2421', 'troop:0.2315', 'sanction:0.2303', 'know:0.2235', 'besiege:0.2105', 'turn:0.207', 'recep:0.2035', 'speak:0.1837', 'watchdog:0.1829', 'schedule:0.1776', 'blame:0.169', 'world:0.1669', 'bucha:0.1523', 'plant:0.1516', 'increase:0.1408', 'onlookers:0.1153', 'fully:0.1086']+titles_keywords+['evacuate:0.4205', 'ukrainian:0.3944', 'civilians:0.3273', 'attacks:0.2038', 'short:0.1218']"
+        ]
+    ]
+}

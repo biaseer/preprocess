@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+182":[
+        [
+            "20220715+../news_crawling/RUS_UKR/p_articles/msn.com/Robbed of the most precious thing Russian missile attack kills Liza 4.txt+eventbasecode182+eventcode182+avgtone0.4876543209876544+goldsteinscale0.025+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kyiv:0.4657', 'liza:0.3389', 'zelenskys:0.3009', 'dmytrysyna:0.2969', 'alive:0.2932', 'iryna:0.2816', 'war:0.2786', 'daughter:0.2745', 'morgue:0.2537', 'paperwork:0.2529', 'social:0.2519', 'care:0.2385', 'page:0.2365', 'help:0.2347', 'holiday:0.232', 'write:0.23', 'story:0.225', 'reach:0.216', 'precious:0.2124', 'syndrome:0.2097', 'remember:0.1969', 'cameraman:0.1819', 'end:0.1752', 'decorate:0.1691', 'direction:0.1628', 'jacket:0.1542', 'happily:0.1454', 'late:0.1341', 'robbed:0.1315', 'true:0.1146']+titles_keywords+['liza:0.4617', 'missile:0.3386', 'russian:0.3292', 'kills:0.2741', 'robbed:0.2532']"
+        ]
+    ],
+    "UKR+RUS+182":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/msn.com/Biden says his comment about Putin not remaining in power reflects moral outrage not a.txt+eventbasecode182+eventcode182+avgtone0.48284449363586057+goldsteinscale0.025+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.013157894736842105+news_keywords+['putin:0.5174', 'kyiv:0.4415', 'natos:0.361', 'war:0.3488', 'evacuation:0.333', 'rankingrussian:0.3192', 'diplomatic:0.31', 'boychenko:0.3009', 'cyberattack:0.2898', 'separatist:0.2832', 'troop:0.2581', 'escalate:0.2409', 'outrage:0.2336', 'recap:0.231', 'report:0.2177', 'cite:0.2134', 'orchestrated:0.2091', 'turn:0.2047', 'discus:0.1961', 'survive:0.1935', 'want:0.1839', 'outlet:0.1782', 'end:0.1775', 'fact:0.1715', 'look:0.1493', 'regulatingcommunications:0.1483', 'volatility:0.1383', 'conditional:0.1156', 'fora:0.1147', 'today:0.1003']+titles_keywords+['biden:0.4513', 'policy:0.2672', 'outrage:0.2618', 'change:0.1723', 'recap:0.1494']"
+        ],
+        [
+            "20220705+../news_crawling/RUS_UKR/p_articles/msn.com/US intel says Russia is fabricating evidence in Ukraine prison strike that killed 53 Ukrainian.txt+eventbasecode182+eventcode182+avgtone0.448665297741273+goldsteinscale0.025+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kgbs:0.4527', 'ukraine:0.4394', 'kremlin:0.4282', 'investigate:0.3032', 'prisoner:0.2995', 'olenivka:0.2962', 'collude:0.2727', 'flag:0.2595', 'evidence:0.2423', 'occupy:0.2415', 'attack:0.2365', 'separatist:0.229', 'ammunition:0.2108', 'false:0.207', 'blame:0.1954', 'unidentified:0.1866', 'soldier:0.1823', 'dialogue:0.175', 'survive:0.1689', 'intend:0.1683', 'fabricate:0.166', 'federal:0.1631', 'adviser:0.1553', 'sec:0.1519', 'plant:0.1485', 'month:0.1247', 'intel:0.1092', 'says:0.1047', 'main:0.0959', 'include:0.0861']+titles_keywords+['ukrainian:0.3148', 'evidence:0.2206', 'pows:0.1683', 'prison:0.1679', 'intel:0.1656']"
+        ]
+    ]
+}

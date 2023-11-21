@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/businessinsider.in/Poland could invoke NATO Article 4 after Russianmade missiles reportedly struck a Polish village Heres.txt+eventbasecode180+eventcode180+avgtone0.4939077458659704+goldsteinscale0.05+nummentions0.055152394775036286+numarticles0.05583756345177665+numsources0.05263157894736842+news_keywords+['nato:0.5578', 'treaty:0.3609', 'attack:0.3075', 'polish:0.2929', 'article:0.282', 'pentagon:0.2816', 'troop:0.2804', 'readiness:0.279', 'vladimir:0.2714', 'expansionism:0.2413', 'invoking:0.2392', 'aircraft:0.2248', 'president:0.2187', 'emergency:0.197', 'union:0.1905', 'designate:0.1836', 'respond:0.166', 'reiterate:0.1615', 'bind:0.1451', 'mutually:0.1421', 'relation:0.1408', 'inch:0.1353', 'state:0.1294', 'ostensibly:0.1216', 'know:0.1167', 'include:0.1158', 'significant:0.0836', 'sort:0.0752', 'decade:0.0355', 'thank:0.0263']+titles_keywords+['nato:0.4237', 'polish:0.3341', 'struck:0.1676', 'invoke:0.1568', 'village:0.081']"
+        ]
+    ],
+    "WST+RUS+180":[
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/businessinsider.in/Russian troops were killed after being given poisoned food and alcohol by Ukrainian civilians officials.txt+eventbasecode180+eventcode180+avgtone0.46296296296296297+goldsteinscale0.05+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['kyiv:0.535', 'ukrainians:0.4498', 'russian:0.4291', 'nato:0.3526', 'kharkiv:0.334', 'war:0.3216', 'invasion:0.2928', 'poison:0.2737', 'molotov:0.2696', 'civilian:0.2599', 'kill:0.2528', 'tank:0.2492', 'learn:0.1841', 'tiananmen:0.1827', 'hospital:0.1774', 'suspicious:0.1547', 'month:0.154', 'result:0.1532', 'region:0.1436', 'cake:0.1394', 'make:0.1271', 'rd:0.126', 'control:0.1068', 'begin:0.1059', 'stories:0.0979', 'intensive:0.0857', 'main:0.0848', 'available:0.0843', 'pickle:0.0649', 'man:0.0234']+titles_keywords+['ukrainian:0.3872', 'poisoned:0.3648', 'troops:0.2725', 'alcohol:0.1804', 'say:-0.0098']"
+        ]
+    ]
+}

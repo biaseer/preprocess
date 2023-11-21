@@ -1,0 +1,22 @@
+{
+    "EUR+UKR+51":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/britainnews.net/Polish president first leader to speak before Ukraine parliament.txt+eventbasecode51+eventcode51+avgtone0.4976958525345622+goldsteinscale0.67+nummentions0.03447024673439768+numarticles0.03517041334300217+numsources0.03289473684210526+news_keywords+['ukraine:0.457', 'putin:0.4305', 'polish:0.3561', 'andrzej:0.3175', 'ceasefire:0.3015', 'president:0.2683', 'parliament:0.2588', 'nation:0.2281', 'invasion:0.193', 'duda:0.1901', 'agreement:0.1885', 'union:0.1866', 'speak:0.1722', 'world:0.1687', 'future:0.1647', 'position:0.163', 'appear:0.1547', 'sanction:0.1537', 'person:0.1521', 'economic:0.1479', 'ally:0.1304', 'strong:0.1212', 'worrying:0.1173', 'cede:0.1099', 'week:0.0977', 'start:0.0898', 'th:0.0586', 'add:0.0528', 'withdraw:0.0515', 'centimeter:0.0482']+titles_keywords+['polish:0.3924', 'ukraine:0.3161', 'leader:0.2591', 'speak:0.2553', 'parliament:0.2458']"
+        ]
+    ],
+    "GBR+RUS+51":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/britainnews.net/West will form Marshall Plan for Ukraine says Zelenskyy.txt+eventbasecode51+eventcode51+avgtone0.49661016949000003+goldsteinscale0.67+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.023026315789473683+news_keywords+['ukraine:0.4494', 'russians:0.4197', 'zelenskyy:0.3201', 'sanctions:0.2922', 'boris:0.2872', 'war:0.2735', 'communist:0.2446', 'plan:0.2428', 'president:0.1967', 'telegram:0.1961', 'realize:0.193', 'negotiate:0.1906', 'table:0.1808', 'fool:0.1711', 'cite:0.1619', 'end:0.1542', 'marshall:0.1526', 'ally:0.1411', 'form:0.1394', 'west:0.1314', 'avoid:0.1308', 'obsolete:0.1237', 'word:0.1201', 'support:0.12', 'sure:0.1096', 'report:0.1009', 'import:0.0981', 'sit:0.0978', 'free:0.0866', 'substantive:0.0827']+titles_keywords+['zelenskyy:0.4681', 'ukraine:0.3322', 'plan:0.2795', 'marshall:0.266', 'says:-0.0079']"
+        ]
+    ],
+    "MMR+RUS+51":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/britainnews.net/Myanmar junta blames Ukraine for the Russian invasion.txt+eventbasecode51+eventcode51+avgtone0.48066298342541436+goldsteinscale0.67+nummentions0.05660377358490566+numarticles0.05728788977519942+numsources0.17763157894736842+news_keywords+['myanmar:0.4494', 'ukrainian:0.3986', 'junta:0.3588', 'invasion:0.351', 'nato:0.3171', 'vladimir:0.3113', 'blame:0.2678', 'history:0.2178', 'president:0.2084', 'puppet:0.1964', 'myint:0.1819', 'reiterate:0.1753', 'people:0.1734', 'wrong:0.169', 'happen:0.1584', 'write:0.1504', 'casualty:0.1483', 'title:0.1443', 'rationalism:0.1289', 'page:0.1201', 'commentary:0.1184', 'chose:0.1161', 'praise:0.1151', 'learned:0.1114', 'plot:0.1021', 'failing:0.0854', 'sunday:0.0792', 'add:0.0702', 'quietly:0.0657', 'mouthpiece:0.0631']+titles_keywords+['myanmar:0.3581', 'junta:0.3096', 'invasion:0.2941', 'blames:0.2742', 'russian:0.2395']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20211221+../news_crawling/RUS_UKR/p_articles/britainnews.net/Putin sets out military threats facing Russia.txt+eventbasecode51+eventcode51+avgtone0.4860861759425494+goldsteinscale0.67+nummentions0.02358490566037736+numarticles0.024292965917331398+numsources0.039473684210526314+news_keywords+['putin:0.518', 'nato:0.4664', 'kiev:0.3721', 'diplomat:0.2904', 'agreements:0.2798', 'eastward:0.2448', 'tensions:0.2399', 'unilaterally:0.2345', 'escalate:0.233', 'news:0.2272', 'invasion:0.2219', 'deliver:0.214', 'weapon:0.2098', 'realize:0.2006', 'interpret:0.1935', 'prospective:0.1867', 'demarcation:0.1816', 'robotic:0.1789', 'term:0.1743', 'plan:0.1664', 'upgrading:0.1663', 'long:0.1656', 'end:0.1591', 'priority:0.1509', 'current:0.1481', 'donbass:0.141', 'test:0.1284', 'state:0.1277', 'track:0.1273', 'hypersonic:0.1196']+titles_keywords+['putin:0.5089', 'threats:0.3215', 'military:0.2867', 'facing:0.1609', 'sets:0.0591']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "CHN+UKR+130":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/taipeitimes.com/Eyeing China Japan breaks with past for strong Ukraine response.txt+eventbasecode130+eventcode130+avgtone0.48404907975460126+goldsteinscale0.27999999999999997+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['japan:0.3743', 'moscow:0.2885', 'war:0.242', 'nuclear:0.2389', 'strategic:0.2338', 'shinzo:0.1947', 'democratic:0.1946', 'crisis:0.1946', 'expect:0.1878', 'response:0.1835', 'reunify:0.1829', 'push:0.1795', 'gdp:0.1684', 'precedent:0.1681', 'relation:0.1652', 'rhetoric:0.152', 'research:0.1515', 'worry:0.1478', 'deadlock:0.1391', 'view:0.1335', 'abe:0.1252', 'include:0.1155', 'eyeing:0.1116', 'measure:0.1114', 'warm:0.1072', 'kurils:0.1045', 'possibility:0.0884', 'far:0.0859', 'weve:0.0809', 'senior:0.0623']+titles_keywords+['japan:0.3696', 'strong:0.1226', 'response:0.1017', 'past:0.0912', 'eyeing:0.0876']"
+        ]
+    ],
+    "PRK+RUS+130":[
+        [
+            "20220719+../news_crawling/RUS_UKR/p_articles/taipeitimes.com/North Koreans could rebuild Donbas Russian envoy.txt+eventbasecode130+eventcode130+avgtone0.4772344013490725+goldsteinscale0.27999999999999997+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['pyongyang:0.4705', 'nk:0.4408', 'ukraines:0.3523', 'nuclear:0.2961', 'diplomatic:0.2834', 'sanction:0.2471', 'sovereignty:0.2334', 'rebuild:0.2235', 'donbas:0.219', 'north:0.2143', 'economic:0.2117', 'hyun:0.1981', 'justify:0.1708', 'industrial:0.1641', 'undermining:0.1608', 'act:0.1349', 'repatriated:0.1284', 'suppose:0.1261', 'issue:0.1239', 'fight:0.1209', 'trade:0.1171', 'right:0.1052', 'news:0.1005', 'state:0.0943', 'end:0.092', 'capable:0.0886', 'program:0.0849', 'studies:0.0762', 'come:0.0652', 'day:0.0588']+titles_keywords+['donbas:0.3765', 'rebuild:0.3259', 'russian:0.3091', 'envoy:0.3077', 'north:0.1482']"
+        ]
+    ]
+}

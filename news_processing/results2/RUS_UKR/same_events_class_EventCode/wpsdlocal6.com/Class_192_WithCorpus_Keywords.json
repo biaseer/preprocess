@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/wpsdlocal6.com/Key Ukrainian government websites hit by series of cyberattacks.txt+eventbasecode192+eventcode192+avgtone0.47297297297297297+goldsteinscale0.025+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['cyberattacks:0.5744', 'ukrainian:0.379', 'malware:0.3622', 'government:0.3521', 'symantec:0.2723', 'hack:0.2705', 'malicious:0.2584', 'data:0.2555', 'directorate:0.2538', 'disruption:0.2523', 'website:0.2389', 'news:0.2248', 'concern:0.2158', 'sanction:0.2096', 'know:0.2056', 'technical:0.205', 'report:0.2006', 'wipe:0.2002', 'eset:0.1719', 'deploy:0.1663', 'hit:0.1342', 'follow:0.1186', 'bank:0.1163', 'head:0.1104', 'multiple:0.1018', 'immediately:0.0998', 'potentially:0.0948', 'gru:0.0925', 'february:0.0857', 'house:0.0627']+titles_keywords+['cyberattacks:0.5136', 'ukrainian:0.3335', 'websites:0.3049', 'government:0.2708', 'hit:0.1456']"
+        ],
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/wpsdlocal6.com/Ukrainian forces withdraw from Lysychansk their last holdout in key region.txt+eventbasecode192+eventcode192+avgtone0.4840525328330207+goldsteinscale0.025+nummentions0.04354136429608128+numarticles0.0337200870195794+numsources0.05263157894736842+news_keywords+['ukraine:0.4858', 'kremlin:0.4325', 'kursk:0.3625', 'gladkov:0.346', 'war:0.3298', 'separatist:0.2977', 'presidentvladimir:0.2845', 'lysychansk:0.2535', 'occupied:0.2424', 'destroy:0.2316', 'troopsfailed:0.2258', 'read:0.2192', 'remain:0.2176', 'intercept:0.2094', 'update:0.2055', 'casualty:0.1997', 'aviation:0.1955', 'telegram:0.1955', 'warehouses:0.1816', 'epicenter:0.1814', 'acknowledge:0.1794', 'town:0.1759', 'long:0.1729', 'shot:0.1702', 'withdraw:0.1686', 'month:0.1681', 'report:0.1593', 'turn:0.1592', 'general:0.1407', 'evidence:0.1333']+titles_keywords+['ukrainian:0.3911', 'lysychansk:0.3677', 'withdraw:0.2679', 'holdout:0.2628', 'forces:0.0982']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "KAZ+RUS+80":[
+        [
+            "20210915+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Why nuke proliferation issues need urgent attention.txt+eventbasecode80+eventcode80+avgtone0.48415657036346693+goldsteinscale0.75+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['nuke:0.4664', 'korea:0.3989', 'seoul:0.3607', 'proliferation:0.3018', 'missile:0.2672', 'reuters:0.2592', 'watch:0.2545', 'tv:0.2536', 'issue:0.2493', 'attention:0.2411', 'broadcasting:0.2279', 'urgent:0.2218', 'north:0.2074', 'appear:0.2006', 'firing:0.1927', 'people:0.1818', 'east:0.1589', 'need:0.1269', 'coast:0.1199', 'footage:0.1195', 'ballistic:0.1154', 'south:0.1068', 'file:0.0896', 'wednesday:0.0775', 'pair:0.0215']+titles_keywords+['nuke:0.5504', 'proliferation:0.4436', 'urgent:0.2127', 'issues:0.2095', 'attention:0.1615']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Over 1000 Ukrainian soldiers surrender in Mariupol Russia.txt+eventbasecode80+eventcode80+avgtone0.47179487179487184+goldsteinscale0.75+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.009868421052631578+news_keywords+['crimea:0.5321', 'ukrainian:0.4357', 'civilians:0.3994', 'donetsk:0.3981', 'surrender:0.3975', 'operation:0.2863', 'occupy:0.2581', 'mariupol:0.2512', 'wounded:0.2489', 'separatist:0.2444', 'brigade:0.2421', 'conflict:0.2406', 'die:0.2308', 'officer:0.2295', 'factory:0.2183', 'city:0.2058', 'steel:0.2029', 'donbas:0.2009', 'believe:0.1627', 'arm:0.1611', 'illich:0.1494', 'near:0.1401', 'thousands:0.1375', 'plant:0.1304', 'start:0.1281', 'statement:0.1261', 'woman:0.122', 'try:0.1176', 'add:0.0918', 'ministry:0.0905']+titles_keywords+['surrender:0.4279', 'ukrainian:0.3875', 'soldiers:0.2956', '1000:0.2432', 'mariupol:0.2175']"
+        ]
+    ]
+}

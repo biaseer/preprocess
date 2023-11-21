@@ -1,0 +1,17 @@
+{
+    "ITA+RUS+110":[
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/sott.net/Italians skip prestigious contest after Russians banned.txt+eventbasecode110+eventcode110+avgtone0.4859611231101511+goldsteinscale0.4+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.006578947368421052+news_keywords+['ukraine:0.4592', 'kremlin:0.3945', 'orchestra:0.384', 'conflict:0.3281', 'sanction:0.309', 'italian:0.3052', 'participate:0.2945', 'event:0.2944', 'exclusion:0.2714', 'interrupt:0.2704', 'unprovoked:0.2625', 'sputnik:0.2574', 'establish:0.2558', 'kocharyan:0.2522', 'prestigious:0.2399', 'bloc:0.233', 'news:0.2288', 'businessmen:0.2191', 'world:0.2137', 'term:0.2104', 'rodolfo:0.2076', 'react:0.1955', 'anna:0.1954', 'agreement:0.1873', 'president:0.1751', 'instead:0.1748', 'direction:0.1735', 'field:0.1675', 'various:0.1466', 'year:0.1317']+titles_keywords+['russians:0.3571', 'contest:0.2944', 'banned:0.2857', 'skip:0.2351', 'prestigious:0.1821']"
+        ]
+    ],
+    "RUS+USA+110":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/sott.net/Tulsi Gabbard Warmonger Biden wants Russia to invade Ukraine to start new cold war benefit.txt+eventbasecode110+eventcode110+avgtone0.47163120567375894+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['nato:0.4724', 'putin:0.4277', 'gabbard:0.4252', 'warmonger:0.3941', 'invade:0.3192', 'congresswoman:0.2934', 'undermines:0.2744', 'troop:0.2469', 'want:0.2299', 'fail:0.2046', 'administration:0.1937', 'news:0.1927', 'fight:0.1832', 'point:0.1666', 'tulsi:0.1653', 'reality:0.1624', 'make:0.1623', 'washington:0.1567', 'guaranteeing:0.1556', 'tension:0.154', 'continue:0.1514', 'sanction:0.1374', 'hi:0.136', 'weapon:0.1314', 'friday:0.129', 'unlikely:0.1189', 'member:0.1182', 'cold:0.113', 'excuse:0.1113', 'levy:0.1085']+titles_keywords+['warmonger:0.4196', 'gabbard:0.4034', 'biden:0.3827', 'ukraine:0.3491', 'militaryindustrial:0.3294']"
+        ]
+    ],
+    "WST+UKR+110":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/sott.net/Pundits who advocate hot war with Russia are enemies of humanity.txt+eventbasecode110+eventcode110+avgtone0.48237022526934376+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.445', 'nato:0.3903', 'brinkmanship:0.3884', 'warmongering:0.3814', 'kyiv:0.349', 'nuke:0.3047', 'bloodshed:0.284', 'ideology:0.2669', 'escalate:0.2622', 'pundits:0.2595', 'scenario:0.2355', 'lunatic:0.2333', 'pentagon:0.2273', 'news:0.2213', 'warning:0.2123', 'future:0.2116', 'combatant:0.2069', 'mainstream:0.1956', 'megayachts:0.1736', 'explicitly:0.1624', 'stability:0.1616', 'word:0.1568', 'begin:0.1552', 'okay:0.1447', 'hot:0.1395', 'like:0.1383', 'learn:0.1359', 'line:0.1291', 'spencer:0.1268', 'obfuscate:0.0966']+titles_keywords+['pundits:0.404', 'russia:0.3109', 'war:0.3091', 'hot:0.1849', 'advocate:0.1314']"
+        ]
+    ]
+}

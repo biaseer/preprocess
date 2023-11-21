@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+16":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Live updates Russia urged to halt use of land mines.txt+eventbasecode16+eventcode16+avgtone0.4696245129295076+goldsteinscale0.4+nummentions0.3095065312046444+numarticles0.30928208846990574+numsources0.24671052631578946+news_keywords+['ukraine:0.5281', 'kremlin:0.4341', 'revolution:0.3324', 'oligarch:0.3299', 'evacuation:0.3243', 'diplomatic:0.3191', 'election:0.2826', 'infrastructures:0.2799', 'report:0.2746', 'rcmp:0.2738', 'annexed:0.2733', 'incidents:0.2636', 'information:0.2588', 'genocidal:0.2583', 'world:0.2464', 'telegram:0.2446', 'podium:0.2417', 'source:0.2401', 'coordinate:0.2363', 'agreement:0.2282', 'watch:0.2189', 'reorganize:0.2014', 'bucha:0.1949', 'soon:0.1931', 'stem:0.1899', 'smear:0.1597', 'additional:0.1581', 'th:0.1484', 'deep:0.1327', 'doesnt:0.0492']+titles_keywords+['russia:0.3722', 'halt:0.2033', 'updates:0.122', 'live:0.1189', 'urged:0.0802']"
+        ]
+    ],
+    "UKR+RUS+16":[
+        [
+            "20211222+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Russian FM Security talks with US NATO to start next month.txt+eventbasecode16+eventcode16+avgtone0.4781954887218045+goldsteinscale0.4+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.019736842105263157+news_keywords+['putin:0.4533', 'disrupt:0.3452', 'escalation:0.3204', 'information:0.3059', 'federation:0.3008', 'speak:0.2851', 'podium:0.284', 'secretary:0.2834', 'anticipate:0.282', 'world:0.2705', 'morning:0.258', 'proposal:0.2528', 'policy:0.251', 'coordinate:0.2504', 'washington:0.2397', 'agreement:0.2319', 'stem:0.2311', 'pandemic:0.2286', 'week:0.2239', 'behead:0.2171', 'german:0.217', 'continue:0.2156', 'discus:0.2042', 'long:0.2041', 'source:0.2027', 'retire:0.1975', 'like:0.1792', 'ready:0.176', 'heater:0.1376', 'glitch:0.1146']+titles_keywords+['nato:0.4476', 'fm:0.3038', 'russian:0.2823', 'talks:0.2211', 'month:0.1385']"
+        ]
+    ]
+}

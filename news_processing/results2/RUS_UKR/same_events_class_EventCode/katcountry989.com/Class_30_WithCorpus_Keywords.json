@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+30":[
+        [
+            "20220702+../news_crawling/RUS_UKR/p_articles/katcountry989.com/Lukashenko says Belarus intercepted attempted missile strikes by Ukraine Belta.txt+eventbasecode30+eventcode30+avgtone0.48529411764705876+goldsteinscale0.7+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['lukashenko:0.467', 'belarus:0.4441', 'ukraine:0.393', 'belarusian:0.3666', 'moscow:0.3193', 'war:0.2619', 'missile:0.2562', 'intercept:0.2354', 'reuters:0.2232', 'president:0.1824', 'military:0.1742', 'alexander:0.162', 'strike:0.1506', 'news:0.1279', 'report:0.1218', 'want:0.1108', 'territory:0.0952', 'say:0.0938', 'attempt:0.0917', 'belta:0.0882', 'state:0.0585', 'agency:0.0461', 'run:0.0398', 'day:0.039', 'saturday:0.0298', 'claim:0.0291', 'provide:0.029', 'evidence:0.0287', 'facility:0.0254', 'ago:-0.0222']+titles_keywords+['lukashenko:0.4293', 'belarus:0.3817', 'missile:0.2395', 'belta:0.1871', 'intercepted:0.1855']"
+        ]
+    ],
+    "JPN+UKR+30":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/katcountry989.com/Japan offers Ukraine 100 million in loans in show of support.txt+eventbasecode30+eventcode30+avgtone0.484375+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.448', 'loan:0.299', 'japanese:0.2871', 'emergency:0.2418', 'invades:0.2122', 'extend:0.2003', 'hayashi:0.1986', 'economy:0.1922', 'reuters:0.1867', 'diplomatic:0.1846', 'exchange:0.1811', 'zelenskiy:0.18', 'support:0.1705', 'million:0.1489', 'president:0.1256', 'military:0.124', 'offer:0.1143', 'fear:0.1039', 'sanction:0.1035', 'phone:0.1024', 'prime:0.0945', 'accord:0.0779', 'deny:0.0702', 'include:0.0701', 'ready:0.0687', 'write:0.0506', 'near:0.046', 'step:0.0234', 'cast:0.0232', 'agree:0.0157']+titles_keywords+['ukraine:0.3978', 'japan:0.3624', 'loans:0.292', 'support:0.1929', '100:0.1747']"
+        ]
+    ]
+}

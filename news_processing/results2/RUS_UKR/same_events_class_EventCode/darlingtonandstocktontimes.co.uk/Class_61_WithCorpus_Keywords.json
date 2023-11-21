@@ -1,0 +1,12 @@
+{
+    "BEL+RUS+61":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/darlingtonandstocktontimes.co.uk/EU leaders agree to ban 90 of Russian oil by yearend.txt+eventbasecode61+eventcode61+avgtone0.49491279069767435+goldsteinscale0.82+nummentions0.23076923076923078+numarticles0.23132704858593184+numsources0.3651315789473684+news_keywords+['ukraine:0.4216', 'embargo:0.4193', 'putin:0.4052', 'agreement:0.3328', 'compromise:0.3053', 'eus:0.2999', 'oligarch:0.2692', 'bloc:0.2603', 'table:0.2542', 'government:0.2489', 'union:0.2447', 'oil:0.2396', 'pipeline:0.211', 'soon:0.2006', 'prompt:0.1874', 'sector:0.1827', 'zelensky:0.1811', 'end:0.1601', 'long:0.155', 'withdraw:0.1523', 'include:0.1506', 'laud:0.1503', 'head:0.1449', 'help:0.1405', 'important:0.1292', 'cover:0.1272', 'official:0.1219', 'produce:0.1158', 'new:0.1076', 'price:0.0767']+titles_keywords+['oil:0.3771', 'eu:0.3081', 'ban:0.2058', '90:0.1738', 'agree:0.0629']"
+        ]
+    ],
+    "DEU+UKR+61":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/darlingtonandstocktontimes.co.uk/Germany signals major shift by sending weapons to Ukraine.txt+eventbasecode61+eventcode61+avgtone0.49193548387096775+goldsteinscale0.82+nummentions0.1204644412191582+numarticles0.1211022480058013+numsources0.2565789473684211+news_keywords+['ukraine:0.5153', 'invade:0.4006', 'war:0.3877', 'putins:0.3523', 'economy:0.3012', 'tank:0.2721', 'chancellery:0.2672', 'provision:0.2647', 'news:0.2615', 'oppose:0.2532', 'howitzer:0.249', 'shift:0.2384', 'order:0.2322', 'ally:0.2215', 'zelenskyy:0.1923', 'important:0.1906', 'stinger:0.1887', 'shortly:0.1823', 'swift:0.1572', 'habeck:0.1549', 'issue:0.1509', 'collateral:0.1455', 'addition:0.1401', 'decouple:0.132', 'export:0.1202', 'welcome:0.1183', 'olaf:0.0899', 'decisively:0.0878', 'entire:0.087', 'surface:0.0732']+titles_keywords+['ukraine:0.4128', 'weapons:0.2687', 'shift:0.2441', 'major:0.1389', 'sending:0.0896']"
+        ]
+    ]
+}

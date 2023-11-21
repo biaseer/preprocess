@@ -1,0 +1,20 @@
+{
+    "BLR+UKR+72":[
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/apnews.com/Russia takes small cities aims to widen east Ukraine battle.txt+eventbasecode72+eventcode72+avgtone0.47022684310018903+goldsteinscale0.915+nummentions0.07111756168359942+numarticles0.07179115300942712+numsources0.0756578947368421+news_keywords+['moscow:0.4913', 'kremlin:0.4713', 'ukraines:0.4492', 'nato:0.4196', 'evacuate:0.2962', 'invasion:0.2637', 'azov:0.2626', 'separatist:0.249', 'develop:0.248', 'threaten:0.2437', 'artillery:0.243', 'news:0.2401', 'navigation:0.2379', 'know:0.2345', 'prepare:0.2316', 'sievierodonetsks:0.2312', 'northeast:0.222', 'railway:0.2193', 'continue:0.209', 'rt:0.2065', 'widen:0.1967', 'cite:0.1921', 'president:0.1904', 'kilometer:0.1884', 'donbas:0.1843', 'reach:0.1761', 'long:0.1595', 'powerful:0.1429', 'substantive:0.1384', 'trade:0.1343']+titles_keywords+['ukraine:0.386', 'widen:0.2509', 'battle:0.1792', 'small:0.1504', 'takes:0.0981']"
+        ]
+    ],
+    "RUS+RUS+72":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/apnews.com/EXPLAINER Is stuck convoy in Ukraine a setback for Russia.txt+eventbasecode72+eventcode72+avgtone0.4685890834191555+goldsteinscale0.915+nummentions0.1676342525399129+numarticles0.16823785351704135+numsources0.17105263157894737+news_keywords+['convoys:0.4822', 'ukrainian:0.414', 'moscows:0.3802', 'war:0.3641', 'logistics:0.3528', 'truck:0.3172', 'pentagon:0.311', 'strategic:0.2737', 'forward:0.2549', 'roadblock:0.2359', 'tank:0.2244', 'involve:0.2157', 'muddy:0.2105', 'takeover:0.2104', 'kilometer:0.2035', 'long:0.1989', 'ap:0.1974', 'overtake:0.1869', 'conclusion:0.1842', 'signal:0.1785', 'term:0.174', 'observers:0.1693', 'ensure:0.1504', 'macron:0.1484', 'adjust:0.1472', 'thursday:0.1437', 'ready:0.1215', 'prybisk:0.1065', 'possible:0.1052', 'doesnt:0.087']+titles_keywords+['explainer:0.4328', 'convoy:0.4081', 'ukraine:0.3981', 'stuck:0.3305', 'setback:0.2745']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/apnews.com/Russia to stage massive nuclear drills amid Ukraine standoff.txt+eventbasecode72+eventcode72+avgtone0.4867256637168142+goldsteinscale0.915+nummentions0.08853410740203194+numarticles0.08919506889050036+numsources0.09868421052631579+news_keywords+['kremlin:0.4419', 'nato:0.4326', 'crimean:0.42', 'ukraines:0.4086', 'icbms:0.4043', 'nuclear:0.3686', 'invade:0.3405', 'deploy:0.3057', 'peskov:0.3039', 'maneuver:0.3035', 'prepare:0.2897', 'standoff:0.268', 'annex:0.2569', 'threaten:0.2449', 'plan:0.2444', 'drill:0.2317', 'exercise:0.2145', 'concern:0.2118', 'coincide:0.2032', 'president:0.1955', 'notify:0.1785', 'supervise:0.1728', 'pull:0.1512', 'base:0.1475', 'north:0.1467', 'saturdays:0.1439', 'continue:0.1331', 'actually:0.0703', 'doesnt:0.0319', 'offer:0.0109']+titles_keywords+['ukraine:0.3177', 'nuclear:0.3156', 'drills:0.284', 'standoff:0.2291', 'stage:0.1303']"
+        ],
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/apnews.com/Russians buy last goods from HM IKEA as stores wind down.txt+eventbasecode72+eventcode72+avgtone0.5017123287671234+goldsteinscale0.915+nummentions0.1955732946298984+numarticles0.19253081943437272+numsources0.20394736842105263+news_keywords+['russian:0.4742', 'minsk:0.4158', 'ikea:0.3746', 'business:0.329', 'sweden:0.289', 'stock:0.2833', 'furnishing:0.2546', 'nestle:0.2522', 'make:0.2162', 'import:0.1978', 'leave:0.1688', 'president:0.1637', 'example:0.1631', 'benefit:0.1613', 'forward:0.1581', 'saddened:0.1549', 'year:0.1499', 'marks:0.1481', 'troop:0.1471', 'good:0.1454', 'kronor:0.1435', 'emerge:0.1338', 'million:0.131', 'shelve:0.1283', 'week:0.1238', 'scale:0.1213', 'ap:0.119', 'pause:0.1177', 'reopen:0.0818', 'oysho:0.0811']+titles_keywords+['ikea:0.5534', 'russians:0.3756', 'goods:0.2427', 'buy:0.2151', 'hm:0.137']"
+        ]
+    ]
+}

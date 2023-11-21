@@ -1,0 +1,17 @@
+{
+    "POL+RUS+20":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Johnson helping Ukraine more thanks to British public pressure Zelensky says.txt+eventbasecode20+eventcode20+avgtone0.48329048843187655+goldsteinscale0.65+nummentions0.2144412191582003+numarticles0.21501087744742567+numsources0.3223684210526316+news_keywords+['ukraine:0.4258', 'nato:0.4057', 'putins:0.3722', 'war:0.3247', 'neutrality:0.2864', 'overthrow:0.2723', 'approach:0.2625', 'govern:0.2506', 'biden:0.2474', 'debate:0.2445', 'journalist:0.2188', 'speak:0.2135', 'logistically:0.1984', 'want:0.1949', 'help:0.1815', 'reiterate:0.1804', 'row:0.1776', 'volodymyr:0.1767', 'note:0.1697', 'term:0.167', 'deliver:0.1662', 'end:0.1562', 'afraid:0.1453', 'ready:0.1447', 'unscripted:0.1433', 'quickly:0.1375', 'powerful:0.1371', 'stay:0.1324', 'agree:0.1061', 'mr:0.0997']+titles_keywords+['zelensky:0.4409', 'ukraine:0.3697', 'johnson:0.2798', 'british:0.1875', 'helping:0.1351']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220209+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/These 3 major changes could be coming to your energy bills this year.txt+eventbasecode20+eventcode20+avgtone0.48843187660668375+goldsteinscale0.65+nummentions0.10304789550072568+numarticles0.10369833212472807+numsources0.1118421052631579+news_keywords+['tariff:0.3619', 'gas:0.3231', 'winter:0.252', 'demand:0.2503', 'ukraine:0.2499', 'increase:0.2347', 'surge:0.2307', 'globalmarkets:0.2246', 'overcharge:0.2026', 'debate:0.2023', 'crisis:0.1978', 'invade:0.1965', 'analysts:0.192', 'household:0.1861', 'regime:0.181', 'ofgemreviewed:0.167', 'predictedthat:0.164', 'cap:0.1555', 'news:0.1478', 'major:0.1323', 'lockdown:0.1312', 'alternative:0.1276', 'report:0.1268', 'deal:0.0976', 'average:0.0946', 'million:0.0924', 'frequency:0.0808', 'factor:0.0763', 'end:0.0617', 'successive:0.051']+titles_keywords+['changes:0.3154', 'energy:0.2725', 'bills:0.2573', 'major:0.1116', 'coming:0.0852']"
+        ]
+    ],
+    "RUS+USA+20":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Putin and Biden hold highstakes phone call over Ukraine crisis.txt+eventbasecode20+eventcode20+avgtone0.48572561459159397+goldsteinscale0.65+nummentions0.27322206095791+numarticles0.2737490935460479+numsources0.4506578947368421+news_keywords+['putin:0.4741', 'natos:0.4603', 'kyiv:0.3643', 'invade:0.3446', 'provocations:0.305', 'embassy:0.2676', 'adviser:0.2599', 'crisis:0.2532', 'evacuate:0.2527', 'misinformation:0.2389', 'skirmish:0.2347', 'separatist:0.2336', 'peace:0.231', 'announce:0.2293', 'plan:0.2221', 'worried:0.2219', 'transatlantic:0.2061', 'order:0.1899', 'telephone:0.1862', 'economic:0.186', 'ready:0.1686', 'counterpart:0.1639', 'saturday:0.1637', 'pull:0.1581', 'winter:0.1554', 'hour:0.1528', 'summary:0.1471', 'bidens:0.1461', 'include:0.1133', 'possible:0.0839']+titles_keywords+['putin:0.4179', 'biden:0.3862', 'phone:0.2157', 'hold:0.1745', 'highstakes:0.1693']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "NLD+UKR+42":[
+        [
+            "20211026+../news_crawling/RUS_UKR/p_articles/dw.com/Crimean gold must be returned to Ukraine but not yet.txt+eventbasecode42+eventcode42+avgtone0.502868068833652+goldsteinscale0.595+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['crimea:0.5101', 'territory:0.4189', 'annex:0.3677', 'archaeology:0.3519', 'ownership:0.311', 'dispute:0.309', 'museum:0.3026', 'gold:0.2731', 'law:0.2514', 'preserve:0.2379', 'political:0.2132', 'trove:0.2078', 'hostage:0.2063', 'returned:0.1801', 'stay:0.1778', 'hidden:0.1769', 'brooch:0.1725', 'originate:0.1642', 'order:0.1507', 'declare:0.1452', 'extend:0.1417', 'react:0.139', 'turn:0.137', 'studied:0.1089', 'dudok:0.0939', 'cost:0.0937', 'month:0.0876', 'pierson:0.0872', 'perfectly:0.0692', 'han:0.056']+titles_keywords+['crimean:0.4646', 'ukraine:0.3831', 'gold:0.3584', 'returned:0.2066']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220124+../news_crawling/RUS_UKR/p_articles/dw.com/US Western countries pull families of Kyiv embassy staff.txt+eventbasecode42+eventcode42+avgtone0.4910371318822023+goldsteinscale0.595+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.009868421052631578+news_keywords+['ukraine:0.4889', 'nato:0.4387', 'evacuation:0.4273', 'embassyemployees:0.4122', 'diplomatic:0.3587', 'escalation:0.3036', 'military:0.3016', 'affairs:0.2804', 'oleg:0.2645', 'remain:0.2501', 'ahead:0.2402', 'concern:0.239', 'warn:0.2363', 'border:0.2283', 'office:0.2237', 'pull:0.2119', 'information:0.1931', 'order:0.1883', 'covid:0.1849', 'function:0.1782', 'monday:0.165', 'cite:0.1632', 'additional:0.1533', 'authorize:0.1379', 'relatives:0.1338', 'thede:0.1253', 'josep:0.1237', 'goethe:0.1058', 'similar:0.0883', 'major:0.074']+titles_keywords+['kyiv:0.4452', 'embassy:0.4113', 'families:0.2594', 'western:0.1506', 'pull:0.1329']"
+        ]
+    ]
+}

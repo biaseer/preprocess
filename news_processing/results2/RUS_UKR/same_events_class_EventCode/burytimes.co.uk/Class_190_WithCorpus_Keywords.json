@@ -1,0 +1,20 @@
+{
+    "RUS+RUS+190":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/burytimes.co.uk/Street fighting begins in Kyiv as Ukraine president refuses to leave.txt+eventbasecode190+eventcode190+avgtone0.47611788617886175+goldsteinscale0.0+nummentions0.3218432510885341+numarticles0.3223350253807107+numsources0.45394736842105265+news_keywords+['kyiv:0.5277', 'ceasefire:0.4372', 'militarily:0.3489', 'antiwar:0.3458', 'putins:0.3281', 'fight:0.3021', 'troop:0.2887', 'emergency:0.2825', 'overthrow:0.2789', 'gunfire:0.2722', 'proceed:0.259', 'stay:0.233', 'warn:0.2271', 'veto:0.2267', 'street:0.2245', 'tank:0.2222', 'shelter:0.2189', 'presidential:0.204', 'turn:0.1945', 'storm:0.1919', 'future:0.1794', 'bleak:0.1641', 'want:0.1556', 'tweet:0.1405', 'far:0.129', 'way:0.1261', 'bila:0.1187', 'associated:0.1098', 'total:0.1028', 'highlight:0.0858']+titles_keywords+['kyiv:0.4304', 'fighting:0.3772', 'street:0.2478', 'refuses:0.1682', 'president:0.1422']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/burytimes.co.uk/Putin confirms Russian military operation in Ukraine.txt+eventbasecode190+eventcode190+avgtone0.4665841584158416+goldsteinscale0.0+nummentions0.0841799709724238+numarticles0.08484408992023205+numsources0.09539473684210527+news_keywords+['putin:0.5147', 'ukraine:0.4678', 'nato:0.4295', 'demilitarisation:0.3814', 'moscows:0.3499', 'operation:0.2946', 'bloodshed:0.2813', 'government:0.2791', 'threat:0.2783', 'zelensky:0.2619', 'unprovoked:0.2417', 'interfere:0.2174', 'order:0.2056', 'volodymyr:0.2008', 'respond:0.1899', 'downing:0.1817', 'cobra:0.1807', 'thursday:0.1681', 'event:0.1578', 'goal:0.147', 'spokesperson:0.1361', 'lively:0.1337', 'joining:0.128', 'right:0.1249', 'withdraw:0.1226', 'chair:0.1202', 'lie:0.1121', 'make:0.0982', 'decisively:0.0777', 'air:0.0622']+titles_keywords+['putin:0.4251', 'ukraine:0.3861', 'military:0.2621', 'operation:0.2151', 'confirms:0.1593']"
+        ],
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/burytimes.co.uk/West promises Ukraine more arms to fend off Russia.txt+eventbasecode190+eventcode190+avgtone0.4826086956521739+goldsteinscale0.0+nummentions0.32329462989840346+numarticles0.3237853517041334+numsources0.46710526315789475+news_keywords+['ukraine:0.4736', 'moscows:0.4063', 'counterattack:0.3329', 'war:0.3236', 'artillery:0.3042', 'escalation:0.2921', 'territory:0.2868', 'capital:0.2766', 'tank:0.2518', 'overrun:0.2426', 'separatist:0.2408', 'lysychansk:0.2404', 'western:0.2389', 'success:0.2284', 'plan:0.2245', 'turn:0.2215', 'supply:0.2191', 'help:0.2185', 'long:0.1956', 'swaths:0.1929', 'receive:0.1928', 'analyst:0.1835', 'focus:0.1676', 'governor:0.1669', 'right:0.1621', 'misuse:0.1617', 'anonymity:0.1609', 'say:0.1606', 'afraid:0.1554', 'allow:0.1439']+titles_keywords+['ukraine:0.4658', 'arms:0.229', 'promises:0.2263', 'west:0.1813', 'fend:0.145']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220528+../news_crawling/RUS_UKR/p_articles/burytimes.co.uk/Russia takes small cities as it aims to widen battle in east Ukraine.txt+eventbasecode190+eventcode190+avgtone0.48052536231884063+goldsteinscale0.0+nummentions0.36502177068214803+numarticles0.36548223350253806+numsources0.32894736842105265+news_keywords+['moscow:0.5172', 'kremlin:0.4975', 'ukraines:0.4345', 'nato:0.3811', 'invade:0.338', 'evacuate:0.3189', 'hostilities:0.3087', 'escalation:0.2935', 'azov:0.2504', 'separatist:0.2499', 'prevail:0.2437', 'news:0.2427', 'know:0.2274', 'prepare:0.2236', 'sievierodonetsks:0.2177', 'warhead:0.2119', 'reiterate:0.2054', 'railway:0.1975', 'help:0.1966', 'building:0.1889', 'enter:0.1864', 'governor:0.1855', 'resume:0.1781', 'long:0.1738', 'sophisticated:0.1701', 'block:0.1684', 'range:0.1531', 'major:0.1423', 'nearly:0.1299', 'population:0.1208']+titles_keywords+['ukraine:0.4105', 'widen:0.2102', 'battle:0.1699', 'small:0.1665', 'takes:0.1411']"
+        ]
+    ]
+}

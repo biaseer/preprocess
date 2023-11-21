@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+1123":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Russia warns that Ukraine attack on oil facility could undermine negotiations.txt+eventbasecode112+eventcode1123+avgtone0.46726190476190477+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4416', 'airstrike:0.3724', 'russias:0.3587', 'russia:0.3541', 'oil:0.3209', 'russian:0.3013', 'attack:0.2646', 'undermine:0.2395', 'negotiation:0.2376', 'belgorod:0.2297', 'gunships:0.1972', 'region:0.178', 'accuse:0.1727', 'occur:0.1713', 'warn:0.165', 'depot:0.1552', 'helicopter:0.1333', 'strike:0.1292', 'border:0.1271', 'injure:0.1215', 'fly:0.1121', 'allege:0.1105', 'people:0.1024', 'cause:0.0945', 'result:0.0927', 'governor:0.0912', 'facility:0.0898', 'multiple:0.0872', 'say:0.076', 'official:-0.0025']+titles_keywords+['ukraine:0.3417', 'undermine:0.2493', 'negotiations:0.2365', 'oil:0.1972', 'warns:0.1377']"
+        ]
+    ],
+    "UKR+RUS+1123":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Ukraine accuses Russia of showing middle finger to UN after Kyiv rocket attacks during diplomatic.txt+eventbasecode112+eventcode1123+avgtone0.4696035242290749+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['kyiv:0.5753', 'ukraine:0.572', 'russias:0.4029', 'zelenskyy:0.3267', 'diplomatic:0.303', 'war:0.2948', 'attack:0.2824', 'accuse:0.2549', 'capital:0.2465', 'volodymyr:0.2377', 'visit:0.2233', 'missile:0.2173', 'east:0.2127', 'safe:0.1675', 'say:0.1641', 'united:0.1633', 'secretary:0.1626', 'return:0.1625', 'advance:0.1521', 'rubble:0.1461', 'month:0.1388', 'trap:0.1382', 'focus:0.1363', 'normality:0.1327', 'general:0.129', 'tentative:0.0966', 'reduce:0.0936', 'long:0.0926', 'guterres:0.0792', 'largely:0.059']+titles_keywords+['kyiv:0.4247', 'diplomatic:0.2521', 'finger:0.2025', 'accuses:0.1951', 'rocket:0.1553']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+20":[
+        [
+            "20220611+../news_crawling/RUS_UKR/p_articles/thepeninsulaqatar.com/Family of British man facing the death penalty in Donbas call for his release.txt+eventbasecode20+eventcode20+avgtone0.4630281690140845+goldsteinscale0.65+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['ukrainian:0.4568', 'donetsk:0.4398', 'war:0.3191', 'prisoner:0.2649', 'mercenary:0.2621', 'geneva:0.2382', 'legal:0.2207', 'bloody:0.219', 'reuters:0.2096', 'proceeding:0.209', 'representation:0.1805', 'republichandout:0.1784', 'aiden:0.1675', 'decision:0.1639', 'donbas:0.1634', 'footage:0.1563', 'independent:0.1513', 'involve:0.1512', 'breach:0.1412', 'penalty:0.135', 'peoples:0.1283', 'port:0.1282', 'pinner:0.1239', 'sham:0.1176', 'hope:0.1135', 'saddened:0.1046', 'exchange:0.0926', 'sincerely:0.0863', 'late:0.0636', 'man:0.0509']+titles_keywords+['donbas:0.2747', 'death:0.2328', 'british:0.1969', 'family:0.1611', 'man:0.0265']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220815+../news_crawling/RUS_UKR/p_articles/thepeninsulaqatar.com/Little respite for doctors on Ukraines eastern front.txt+eventbasecode20+eventcode20+avgtone0.48137254901960785+goldsteinscale0.65+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.019736842105263157+news_keywords+['kyiv:0.4544', 'ambulances:0.4377', 'emergency:0.4207', 'nurse:0.3884', 'operation:0.3739', 'kremlin:0.3588', 'soldier:0.353', 'treating:0.3231', 'invasion:0.3196', 'department:0.3159', 'corridor:0.3154', 'infusion:0.305', 'strategy:0.2932', 'work:0.2661', 'publish:0.233', 'read:0.2308', 'fight:0.2183', 'forth:0.2161', 'change:0.2135', 'eastern:0.2028', 'secure:0.2028', 'tap:0.1943', 'want:0.1922', 'sight:0.1823', 'donbass:0.1816', 'andrii:0.1717', 'longer:0.151', 'record:0.14', 'proxies:0.1314', 'thousand:0.0996']+titles_keywords+['ukraines:0.4462', 'respite:0.4369', 'doctors:0.4096', 'eastern:0.2013', 'little:0.0835']"
+        ]
+    ]
+}

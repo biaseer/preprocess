@@ -1,0 +1,17 @@
+{
+    "CHL+RUS+30":[
+        [
+            "20220714+../news_crawling/RUS_UKR/p_articles/newsweek.com/Photo of Bloodied Baby Carriage Shows Carnage of Russian Missile Attack.txt+eventbasecode30+eventcode30+avgtone0.4564846416382252+goldsteinscale0.7+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.5028', 'putin:0.4241', 'atrocitiesincluding:0.4014', 'terrorist:0.3652', 'war:0.3592', 'refugees:0.3589', 'casualty:0.2828', 'news:0.2711', 'kill:0.2617', 'bloodied:0.234', 'civilian:0.2212', 'report:0.2171', 'capital:0.2087', 'cite:0.2047', 'child:0.1946', 'concern:0.1926', 'comply:0.1754', 'continue:0.1679', 'displace:0.1515', 'explain:0.151', 'thousands:0.1345', 'large:0.1329', 'right:0.1252', 'head:0.1248', 'pic:0.1162', 'february:0.115', 'dmytro:0.1099', 'fabric:0.0983', 'partially:0.0814', 'internally:0.0795']+titles_keywords+['missile:0.3962', 'russian:0.3615', 'bloodied:0.3384', 'photo:0.2784', 'baby:0.2405']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20211209+../news_crawling/RUS_UKR/p_articles/newsweek.com/Russia Security Says Ukraine Warship Poses Threat Sailing Toward Disputed Waters.txt+eventbasecode30+eventcode30+avgtone0.4800469483568075+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimean:0.4467', 'nato:0.4403', 'putin:0.4227', 'diplomacy:0.3803', 'militarily:0.3665', 'readiness:0.2729', 'provocation:0.2632', 'ship:0.2625', 'concern:0.2456', 'zakharova:0.239', 'crisis:0.2312', 'biden:0.229', 'attack:0.2195', 'border:0.2188', 'navigation:0.2015', 'imminent:0.1961', 'donbass:0.1942', 'update:0.1928', 'endanger:0.1787', 'chokepoint:0.1763', 'table:0.1724', 'instead:0.1689', 'write:0.1668', 'comply:0.1665', 'newsweek:0.1635', 'simmer:0.1275', 'state:0.0998', 'deteriorate:0.0929', 'agree:0.0742', 'define:0.0625']+titles_keywords+['ukraine:0.3598', 'warship:0.3324', 'threat:0.2584', 'waters:0.137', 'disputed:0.0888']"
+        ]
+    ],
+    "WST+UKR+30":[
+        [
+            "20220623+../news_crawling/RUS_UKR/p_articles/newsweek.com/Former Russian Oligarch Warns Putin Will Invade NATO Territory.txt+eventbasecode30+eventcode30+avgtone0.47321428571428575+goldsteinscale0.7+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['nato:0.522', 'putin:0.509', 'ukraine:0.4277', 'oligarch:0.3941', 'invade:0.3758', 'khodorkovsky:0.3177', 'zelensky:0.3074', 'justify:0.2446', 'volodymyr:0.238', 'warns:0.2236', 'conflict:0.2218', 'sanction:0.2029', 'soldier:0.1908', 'want:0.1898', 'obligation:0.1772', 'agreement:0.165', 'extend:0.1592', 'help:0.1569', 'fortune:0.1482', 'comparison:0.1113', 'reach:0.1062', 'tax:0.1038', 'eventually:0.0919', 'late:0.0916', 'large:0.09', 'shona:0.0783', 'directly:0.0766', 'current:0.0746', 'television:0.0741', 'thank:0.0367']+titles_keywords+['putin:0.5003', 'nato:0.4095', 'oligarch:0.404', 'invade:0.3147', 'warns:0.1686']"
+        ]
+    ]
+}

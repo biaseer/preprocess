@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/liverpoolecho.co.uk/Russian Forces in Ukraine are sustaining casualties and being captured says UK Mod.txt+eventbasecode190+eventcode190+avgtone0.47982062780269064+goldsteinscale0.0+nummentions0.00544267053701016+numarticles0.006163886874546773+numsources0.009868421052631578+news_keywords+['kyiv:0.4554', 'soviet:0.406', 'putins:0.3529', 'invade:0.3515', 'troop:0.3069', 'armoured:0.3067', 'tactic:0.2905', 'logistical:0.2321', 'casualty:0.2277', 'helicopter:0.2167', 'forward:0.2133', 'column:0.1904', 'understanding:0.1835', 'update:0.1828', 'forces:0.1808', 'collapse:0.1798', 'know:0.1748', 'long:0.1712', 'order:0.1703', 'na:0.1702', 'stay:0.1693', 'gon:0.1572', 'effectively:0.1565', 'professional:0.1453', 'variant:0.1338', 'successive:0.1277', 'aim:0.1197', 'report:0.1181', 'make:0.0971', 'werent:0.058']+titles_keywords+['casualties:0.4539', 'ukraine:0.4133', 'forces:0.1695', 'mod:0.1482', 'says:0.0937']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/liverpoolecho.co.uk/Ukraine live updates Fighting erupts in second city Kharkiv as Russia attacks.txt+eventbasecode190+eventcode190+avgtone0.4831029185867895+goldsteinscale0.0+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.006578947368421052+news_keywords+['ukraine:0.5525', 'comrade:0.4177', 'invade:0.3419', 'oligarchs:0.3223', 'unhcr:0.3011', 'escalation:0.2816', 'news:0.2797', 'peace:0.2728', 'casualties:0.2717', 'picket:0.2649', 'ahead:0.2641', 'business:0.2612', 'map:0.2556', 'boris:0.2537', 'pipeline:0.2516', 'fight:0.2489', 'rosneft:0.2358', 'combine:0.2243', 'nuclear:0.2222', 'stay:0.2191', 'hear:0.2127', 'curfew:0.2035', 'ready:0.182', 'general:0.1787', 'replace:0.1786', 'long:0.1721', 'anfield:0.1682', 'end:0.1663', 'https:0.1294', 'completely:0.1267']+titles_keywords+['ukraine:0.4461', 'kharkiv:0.3979', 'fighting:0.3385', 'erupts:0.299', 'updates:0.2335']"
+        ]
+    ]
+}

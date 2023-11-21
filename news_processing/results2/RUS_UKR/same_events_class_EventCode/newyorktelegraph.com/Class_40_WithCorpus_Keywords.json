@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+40":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/newyorktelegraph.com/UN UnderSecretaryGeneral to visit Moscow Kyiv to discuss Ukraine situation.txt+eventbasecode40+eventcode40+avgtone0.4948979591836735+goldsteinscale0.55+nummentions0.2757619738751814+numarticles0.27483683828861494+numsources0.3223684210526316+news_keywords+['kyiv:0.4304', 'humanitarian:0.4235', 'ukraine:0.4116', 'ceasefire:0.4066', 'visit:0.2901', 'envoy:0.2679', 'affairs:0.2219', 'secretary:0.2197', 'griffiths:0.2139', 'undersecretarygeneral:0.1794', 'conference:0.1776', 'guterres:0.1702', 'martin:0.1702', 'york:0.1653', 'pursue:0.1627', 'anisputnik:0.1525', 'antonio:0.1502', 'general:0.1432', 'ongoing:0.1369', 'situation:0.1285', 'discus:0.1276', 'say:0.1255', 'april:0.1225', 'special:0.1174', 'press:0.1115', 'fly:0.1069', 'friday:0.105', 'potential:0.0802', 'ask:0.0772', 'new:0.059']+titles_keywords+['kyiv:0.4711', 'ukraine:0.4086', 'undersecretarygeneral:0.3253', 'visit:0.194', 'situation:0.0773']"
+        ]
+    ],
+    "WST+RUS+40":[
+        [
+            "20220118+../news_crawling/RUS_UKR/p_articles/newyorktelegraph.com/Russian Foreign Ministry says embassy in Kiev working as usual.txt+eventbasecode40+eventcode40+avgtone0.48014440433212996+goldsteinscale0.55+nummentions0.029753265602322207+numarticles0.030456852791878174+numsources0.019736842105263157+news_keywords+['kiev:0.445', 'diplomat:0.3824', 'consulate:0.379', 'nato:0.3787', 'russia:0.3248', 'evacuate:0.3048', 'tensions:0.2464', 'invasion:0.2269', 'strategic:0.1856', 'month:0.1465', 'present:0.1339', 'council:0.1332', 'usual:0.1309', 'instruct:0.1295', 'spouses:0.1267', 'monday:0.1258', 'prepare:0.1228', 'anisputnik:0.1178', 'work:0.1166', 'talk:0.1144', 'board:0.0984', 'point:0.0957', 'alleged:0.0948', 'number:0.0892', 'begin:0.0841', 'cite:0.0825', 'follow:0.0808', 'unknown:0.0713', 'head:0.0677', 'exact:0.0542']+titles_keywords+['kiev:0.4558', 'embassy:0.3577', 'working:0.2292', 'usual:0.1579', 'says:0.0216']"
+        ]
+    ]
+}

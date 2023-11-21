@@ -1,0 +1,12 @@
+{
+    "POL+RUS+42":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/fox43.com/Central Pa native heading to Poland to help on front lines of Russian war on.txt+eventbasecode42+eventcode42+avgtone0.5012658227848101+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukrainians:0.5124', 'kyiv:0.4763', 'poland:0.4028', 'eurasia:0.4012', 'pa:0.3159', 'invade:0.308', 'west:0.2703', 'forth:0.2623', 'organization:0.2365', 'mission:0.2331', 'parsons:0.2281', 'help:0.21', 'alongside:0.2096', 'threat:0.208', 'center:0.1967', 'bible:0.1857', 'speak:0.1831', 'care:0.1742', 'come:0.1709', 'explain:0.1613', 'perfect:0.1603', 'train:0.1581', 'equip:0.1565', 'warm:0.1528', 'sit:0.1519', 'moreall:0.1514', 'stripe:0.106', 'packagesfilled:0.1027', 'theyre:0.0988', 'year:0.06']+titles_keywords+['poland:0.4305', 'pa:0.3688', 'war:0.2582', 'native:0.1782', 'heading:0.0943']"
+        ]
+    ],
+    "POL+UKR+42":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/fox43.com/York County veteran is heading to the PolandUkraine border to help refugees.txt+eventbasecode42+eventcode42+avgtone0.4974025974025974+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['refugee:0.5077', 'polandukraine:0.4371', 'russian:0.3773', 'border:0.3712', 'soldier:0.3631', 'survive:0.2911', 'firefight:0.2847', 'story:0.2568', 'help:0.244', 'bring:0.2416', 'risk:0.239', 'plan:0.2351', 'meet:0.2345', 'york:0.2321', 'happen:0.2281', 'friend:0.2228', 'telegram:0.2188', 'pa:0.2086', 'step:0.2033', 'county:0.1986', 'willing:0.1971', 'people:0.19', 'stand:0.1716', 'nerve:0.1601', 'hearing:0.1547', 'decide:0.1468', 'head:0.1281', 'little:0.1182', 'hopefully:0.0982', 'wasnt:0.0906']+titles_keywords+['veteran:0.4359', 'polandukraine:0.324', 'refugees:0.3191', 'york:0.2731', 'heading:0.174']"
+        ]
+    ]
+}

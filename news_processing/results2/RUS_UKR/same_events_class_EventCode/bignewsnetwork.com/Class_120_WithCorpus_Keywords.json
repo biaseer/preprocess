@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+120":[
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Live Zelensky vows victory on 100th day of Russian invasion.txt+eventbasecode120+eventcode120+avgtone0.4755306603773585+goldsteinscale0.3+nummentions0.01269956458635704+numarticles0.013415518491660623+numsources0.019736842105263157+news_keywords+['crimea:0.4992', 'kremlin:0.4714', 'nato:0.3702', 'genocide:0.3238', 'news:0.3039', 'incursion:0.3007', 'zakharova:0.2944', 'government:0.2857', 'occur:0.2857', 'expand:0.2847', 'know:0.2702', 'strategic:0.2455', 'involved:0.2329', 'capital:0.2305', 'notify:0.229', 'achieve:0.226', 'long:0.2104', 'industrial:0.2053', 'end:0.2033', 'kilometre:0.1991', 'fight:0.1977', 'order:0.1917', 'phase:0.189', 'donbas:0.1775', 'th:0.1772', 'transit:0.1724', 'ready:0.172', 'february:0.1701', 'somber:0.1547', 'thousands:0.1226']+titles_keywords+['zelensky:0.5514', 'russian:0.3876', '100th:0.3653', 'invasion:0.333', 'live:0.2309']"
+        ]
+    ],
+    "UKR+EUR+120":[
+        [
+            "20220512+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Kiev rejects Russias gas transit request.txt+eventbasecode120+eventcode120+avgtone0.48130841121495327+goldsteinscale0.3+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.009868421052631578+news_keywords+['kiev:0.4839', 'sokhranovka:0.3844', 'transit:0.3509', 'sudzha:0.3472', 'russian:0.3387', 'kupriyanov:0.3336', 'gazprom:0.3114', 'gas:0.3057', 'russias:0.3029', 'reroute:0.2271', 'reject:0.2235', 'station:0.1825', 'operation:0.1345', 'occupy:0.1331', 'flow:0.1241', 'obligation:0.1167', 'suspend:0.1089', 'entry:0.1006', 'consumer:0.0976', 'meter:0.0887', 'handle:0.0856', 'point:0.0814', 'interference:0.0722', 'average:0.069', 'official:0.0657', 'accord:0.0623', 'fully:0.0618', 'impossible:0.0601', 'add:0.0485', 'wednesday:0.0425']+titles_keywords+['kiev:0.5341', 'transit:0.3007', 'russias:0.295', 'rejects:0.1956', 'request:0.1624']"
+        ]
+    ]
+}

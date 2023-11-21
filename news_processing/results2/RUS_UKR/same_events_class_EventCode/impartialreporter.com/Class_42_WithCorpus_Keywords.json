@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+42":[
+        [
+            "20220205+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Johnson and Macron agree to fight against malicious Russian activity.txt+eventbasecode42+eventcode42+avgtone0.4853372434017595+goldsteinscale0.595+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.3157894736842105+news_keywords+['natos:0.4856', 'kremlin:0.3983', 'macron:0.3846', 'kyiv:0.3371', 'attack:0.3095', 'diplomatic:0.3031', 'boris:0.2764', 'european:0.209', 'concern:0.1931', 'malicious:0.191', 'remain:0.187', 'credible:0.1828', 'monday:0.1827', 'sanction:0.1821', 'occur:0.1788', 'planning:0.1768', 'meet:0.1695', 'border:0.1684', 'update:0.1617', 'forward:0.1616', 'pretext:0.1507', 'calm:0.15', 'ensure:0.1288', 'priority:0.1229', 'olaf:0.107', 'elaborate:0.1044', 'current:0.1025', 'agree:0.0985', 'weve:0.0951', 'overriding:0.0249']+titles_keywords+['macron:0.3704', 'russian:0.2682', 'malicious:0.2397', 'johnson:0.2233', 'fight:0.2066']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/William visits MI6 ahead of Russias invasion of Ukraine.txt+eventbasecode42+eventcode42+avgtone0.5178571428571429+goldsteinscale0.595+nummentions0.1444121915820029+numarticles0.145032632342277+numsources0.16447368421052633+news_keywords+['gchq:0.4742', 'whitehall:0.3992', 'william:0.3801', 'security:0.3199', 'visit:0.3096', 'russias:0.2745', 'uk:0.2726', 'throne:0.2708', 'agency:0.2703', 'intelligence:0.2614', 'private:0.2342', 'attack:0.2301', 'diary:0.2183', 'duke:0.205', 'work:0.191', 'ahead:0.1895', 'wednesday:0.1687', 'court:0.1547', 'hour:0.1357', 'know:0.1345', 'head:0.1332', 'moore:0.1239', 'mi:0.1217', 'number:0.119', 'second:0.113', 'line:0.101', 'background:0.0976', 'spending:0.0894', 'make:0.0847', 'vital:0.0711']+titles_keywords+['mi6:0.5131', 'ukraine:0.3076', 'william:0.291', 'invasion:0.274', 'ahead:0.1281']"
+        ],
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Ukraine now knows the price of freedom on Independence Day says aid worker.txt+eventbasecode42+eventcode42+avgtone0.4908722109533468+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4927', 'independence:0.4213', 'refugee:0.4134', 'peaceful:0.3332', 'soldier:0.281', 'nation:0.2656', 'ahead:0.265', 'understand:0.2585', 'aid:0.2533', 'parade:0.2477', 'news:0.2361', 'learn:0.2324', 'fight:0.227', 'tell:0.2254', 'kramatorsk:0.2085', 'devastate:0.2037', 'visit:0.1913', 'isnt:0.1908', 'organise:0.1882', 'contrast:0.1843', 'risk:0.1796', 'donbas:0.1665', 'sing:0.1625', 'dollar:0.1566', 'sure:0.152', 'population:0.1466', 'reunite:0.1461', 'existence:0.1295', 'literally:0.1067', 'major:0.1066']+titles_keywords+['ukraine:0.4415', 'freedom:0.4068', 'aid:0.2354', 'price:0.2332', 'says:0.1337']"
+        ]
+    ]
+}

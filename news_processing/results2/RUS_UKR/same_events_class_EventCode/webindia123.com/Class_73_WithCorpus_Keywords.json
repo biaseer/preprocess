@@ -1,0 +1,15 @@
+{
+    "GBR+UKR+73":[
+        [
+            "20220119+../news_crawling/RUS_UKR/p_articles/webindia123.com/UK supplied Ukraine thousands of light antitank missiles amid tensions with Russia.txt+eventbasecode73+eventcode73+avgtone0.49163179916317995+goldsteinscale0.8699999999999999+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['ukraine:0.5022', 'diplomatic:0.2981', 'supply:0.2894', 'military:0.2849', 'missile:0.2803', 'armed:0.2797', 'airlift:0.2607', 'sputnik:0.2587', 'tank:0.2538', 'agreement:0.2499', 'antitank:0.2423', 'sabotage:0.2317', 'zelenskyy:0.2185', 'instead:0.2099', 'tension:0.1767', 'cnn:0.1653', 'emphasizing:0.1643', 'plan:0.1637', 'arrive:0.1621', 'capital:0.1494', 'inch:0.1405', 'intra:0.1352', 'report:0.1282', 'wednesday:0.1185', 'proud:0.1177', 'refuse:0.1168', 'thousand:0.1097', 'ani:0.0993', 'antony:0.0978', 'truly:0.0452']+titles_keywords+['ukraine:0.4404', 'missiles:0.4064', 'antitank:0.3681', 'supplied:0.179', 'thousands:0.1629']"
+        ]
+    ],
+    "RUS+UKR+73":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/webindia123.com/First train with refugees from Donbas arrives in Russias Volgograd Region.txt+eventbasecode73+eventcode73+avgtone0.5+goldsteinscale0.8699999999999999+nummentions0.020319303338171262+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['refugee:0.5137', 'volgograd:0.4551', 'accommodation:0.3243', 'russias:0.299', 'arrive:0.2986', 'hotel:0.2753', 'train:0.2668', 'anisputnik:0.2427', 'region:0.216', 'child:0.2068', 'temporary:0.1962', 'place:0.1927', 'people:0.1898', 'donbas:0.1855', 'organize:0.1608', 'prepare:0.1512', 'statement:0.1455', 'age:0.1448', 'health:0.1422', 'centre:0.1264', 'baby:0.1176', 'task:0.1149', 'accordance:0.1109', 'include:0.1086', 'authority:0.0801', 'governor:0.0532', 'today:0.0497', 'say:0.0451', 'set:0.0361', 'accord:0.0169']+titles_keywords+['volgograd:0.4491', 'refugees:0.431', 'train:0.3184', 'donbas:0.2968', 'arrives:0.1678']"
+        ],
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/webindia123.com/Russian missile strike hit buildings in Ukraines city Zhytomyr rescue efforts underway.txt+eventbasecode73+eventcode73+avgtone0.4787878787878788+goldsteinscale0.8699999999999999+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['ukraine:0.4354', 'airstrikes:0.3867', 'missile:0.3088', 'kharkiv:0.2688', 'demolish:0.2615', 'zhytomyr:0.2588', 'rescue:0.2373', 'underway:0.2037', 'city:0.1992', 'debris:0.1973', 'operation:0.1931', 'hit:0.186', 'civilian:0.1799', 'building:0.1751', 'residential:0.1696', 'block:0.1449', 'shelling:0.1422', 'inform:0.1389', 'result:0.1328', 'home:0.1292', 'video:0.1289', 'search:0.1215', 'die:0.1215', 'intensify:0.1186', 'tuesday:0.1062', 'flame:0.1036', 'people:0.0961', 'dozen:0.0661', 'water:0.0605', 'according:0.0591']+titles_keywords+['zhytomyr:0.4152', 'ukraines:0.3112', 'rescue:0.2504', 'buildings:0.1872', 'hit:0.1696']"
+        ]
+    ]
+}

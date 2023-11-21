@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/ici.radio-canada.ca/Ukraine to ask US for more help as Russian airstrikes on Kyiv intensify.txt+eventbasecode46+eventcode46+avgtone0.4885496183206107+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.4938', 'nato:0.4107', 'airstrikes:0.3783', 'russians:0.3688', 'diplomatic:0.3392', 'pentagon:0.2913', 'occupy:0.2851', 'zelenskysuggested:0.237', 'occur:0.2339', 'prepare:0.2085', 'help:0.2062', 'realize:0.2043', 'fight:0.2035', 'intensify:0.2009', 'developments:0.1969', 'flee:0.1969', 'neutral:0.1846', 'hear:0.1837', 'long:0.1664', 'march:0.1604', 'anonymity:0.151', 'end:0.1509', 'direct:0.1462', 'range:0.1452', 'discus:0.1438', 'bucha:0.1393', 'confirm:0.1177', 'child:0.1106', 'threemillion:0.1054', 'true:0.0542']+titles_keywords+['kyiv:0.4537', 'airstrikes:0.3719', 'help:0.2035', 'intensify:0.138', 'ask:0.1003']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/ici.radio-canada.ca/Ukrainian President Volodymyr Zelensky set to address Parliament amid Russian attack.txt+eventbasecode46+eventcode46+avgtone0.49148936170212765+goldsteinscale0.85+nummentions0.07946298984034833+numarticles0.08013052936910806+numsources0.16447368421052633+news_keywords+['ukraine:0.4943', 'kyivtuesday:0.4879', 'putin:0.4601', 'russianairstrikes:0.45', 'enteringrussia:0.3944', 'zelenskyaddressed:0.3451', 'trudeau:0.3389', 'invade:0.2961', 'parliament:0.2738', 'peaceful:0.265', 'volodymyr:0.2464', 'embattle:0.2295', 'killingcivilians:0.2257', 'speak:0.2202', 'affairs:0.2062', 'sanction:0.1952', 'shortly:0.1817', 'callfor:0.17', 'party:0.1644', 'schedule:0.1628', 'rota:0.1621', 'withstand:0.1488', 'cn:0.1386', 'house:0.1322', 'resume:0.1279', 'help:0.1185', 'direct:0.1105', 'hisspeech:0.0945', 'video:0.094', 'large:0.0755']+titles_keywords+['zelensky:0.554', 'ukrainian:0.3187', 'volodymyr:0.2543', 'attack:0.1986', 'parliament:0.1586']"
+        ]
+    ]
+}

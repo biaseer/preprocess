@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+193":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/rnz.co.nz/UkraineRussia Putin recognises Ukraine rebel regions as independent.txt+eventbasecode193+eventcode193+avgtone0.4758672699849171+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5116', 'putin:0.449', 'nato:0.4168', 'separatist:0.372', 'invade:0.317', 'sovereignty:0.3045', 'border:0.2704', 'eastward:0.2629', 'intervene:0.2512', 'novognativka:0.2464', 'ottoman:0.1984', 'deploy:0.1932', 'agreement:0.1896', 'threat:0.1889', 'president:0.1873', 'extend:0.1808', 'state:0.172', 'shortly:0.1565', 'plan:0.1531', 'order:0.144', 'lengthy:0.141', 'area:0.1409', 'confident:0.1313', 'technical:0.124', 'exactly:0.1151', 'draw:0.1112', 'include:0.1088', 'send:0.0785', 'unless:0.0771', 'restore:0.0076']+titles_keywords+['ukraine:0.5375', 'putin:0.4244', 'independent:0.2647', 'rebel:0.2545', 'recognises:0.1518']"
+        ],
+        [
+            "20220526+../news_crawling/RUS_UKR/p_articles/rnz.co.nz/Ukraine says Russia shelled more than 40 towns in Donbas push.txt+eventbasecode193+eventcode193+avgtone0.4605582524271844+goldsteinscale0.0+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.5112', 'kremlin:0.4596', 'war:0.3334', 'separatist:0.3295', 'territory:0.302', 'kill:0.2817', 'blockade:0.2682', 'capital:0.2559', 'sievierodonetsk:0.2481', 'news:0.245', 'unprovoked:0.2383', 'donbas:0.2279', 'want:0.213', 'engage:0.2114', 'governor:0.211', 'tank:0.2082', 'comprise:0.2042', 'baseless:0.193', 'scrap:0.1899', 'end:0.1889', 'hold:0.1737', 'document:0.1704', 'ready:0.1656', 'april:0.165', 'swap:0.1631', 'corridor:0.1597', 'longer:0.1568', 'simplify:0.1555', 'hundreds:0.133', 'agree:0.0957']+titles_keywords+['ukraine:0.3732', 'donbas:0.313', 'towns:0.2724', 'push:0.1698', '40:0.1534']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "DEU+UKR+30":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/ndtv.com/Germany Inks Agreement With East Europe To Supply Weapons To Ukraine.txt+eventbasecode30+eventcode30+avgtone0.5059701492537314+goldsteinscale0.7+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4678', 'panzerhaubitze:0.368', 'tank:0.3617', 'bundeswehr:0.3585', 'army:0.3111', 'weapons:0.3081', 'lambrecht:0.2929', 'equip:0.2616', 'deliver:0.2466', 'want:0.2162', 'future:0.1972', 'thursday:0.1889', 'model:0.185', 'stock:0.1811', 'ally:0.1744', 'agreement:0.1696', 'position:0.161', 'fight:0.1589', 'underinvestment:0.1537', 'point:0.1337', 'headline:0.1318', 'ndtv:0.1241', 'allow:0.1217', 'impossible:0.1197', 'reach:0.1102', 'new:0.1096', 'continue:0.1004', 'longer:0.0951', 'olaf:0.0855', 'decade:0.0496']+titles_keywords+['ukraine:0.373', 'weapons:0.2778', 'agreement:0.1911', 'supply:0.1574', 'inks:0.1274']"
+        ]
+    ],
+    "EUR+UKR+30":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/ndtv.com/War Has Destroyed 100 Billion In Assets So Far Ukraine Official.txt+eventbasecode30+eventcode30+avgtone0.4969325153374233+goldsteinscale0.7+nummentions0.017053701015965168+numarticles0.017766497461928935+numsources0.01644736842105263+news_keywords+['ukraine:0.521', 'putin:0.4386', 'war:0.3688', 'oleg:0.3585', 'economy:0.3469', 'oligarchs:0.3447', 'boycott:0.2635', 'fund:0.2183', 'billion:0.2081', 'gas:0.199', 'destroyed:0.1867', 'operate:0.1765', 'order:0.1721', 'ally:0.1663', 'stop:0.1627', 'result:0.158', 'immediately:0.1521', 'help:0.1461', 'hide:0.1414', 'speech:0.1401', 'import:0.1307', 'monster:0.1233', 'virtual:0.1221', 'expected:0.1216', 'important:0.1167', 'nearly:0.1081', 'deal:0.0984', 'colder:0.0947', 'hop:0.0808', 'percent:0.0712']+titles_keywords+['ukraine:0.3906', 'war:0.3538', 'billion:0.314', 'destroyed:0.2374', 'assets:0.2212']"
+        ]
+    ],
+    "UKR+RUS+30":[
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/ndtv.com/US Says Moscow Is Forcibly Taking Ukrainians To Russia.txt+eventbasecode30+eventcode30+avgtone0.4676258992805755+goldsteinscale0.7+nummentions0.008345428156748911+numarticles0.009064539521392313+numsources0.006578947368421052+news_keywords+['ukraine:0.4596', 'putin:0.3941', 'deportation:0.3264', 'invasion:0.309', 'sovereignty:0.2846', 'pentagon:0.2631', 'zelensky:0.2197', 'headline:0.213', 'forcibly:0.2024', 'ethnic:0.2012', 'syndicate:0.1632', 'wrong:0.1545', 'president:0.1532', 'isolate:0.1517', 'taking:0.1387', 'feed:0.1353', 'power:0.1299', 'speak:0.1131', 'look:0.1051', 'child:0.0978', 'million:0.0974', 'prove:0.0972', 'ombudswoman:0.0962', 'fall:0.091', 'unconscionable:0.0903', 'says:0.0884', 'new:0.0828', 'low:0.0734', 'sent:0.0715', 'kirby:0.063']+titles_keywords+['ukrainians:0.5106', 'moscow:0.3887', 'forcibly:0.2237', 'taking:0.0968', 'says:0.039']"
+        ]
+    ]
+}

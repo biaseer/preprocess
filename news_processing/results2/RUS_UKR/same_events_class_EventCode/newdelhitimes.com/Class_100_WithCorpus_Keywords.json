@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Analysis Ukraine war tests growing ChinaRussia partnership.txt+eventbasecode100+eventcode100+avgtone0.47673216132368146+goldsteinscale0.25+nummentions0.05188679245283019+numarticles0.052574329224075414+numsources0.17105263157894737+news_keywords+['ukraine:0.4076', 'geopolitical:0.3869', 'putin:0.3855', 'natos:0.3668', 'invade:0.2843', 'eastward:0.2639', 'beijings:0.2313', 'strategic:0.2294', 'conclusion:0.2059', 'regime:0.2044', 'escalate:0.1907', 'communique:0.1903', 'yinhong:0.1885', 'veto:0.185', 'estrangement:0.1727', 'renmin:0.1699', 'russo:0.1668', 'import:0.1644', 'counterpart:0.1566', 'study:0.155', 'worry:0.1478', 'event:0.1335', 'meet:0.1333', 'portray:0.1264', 'arm:0.1251', 'current:0.1086', 'whats:0.0874', 'century:0.0739', 'feb:0.0716', 'possible:0.0371']+titles_keywords+['ukraine:0.4697', 'chinarussia:0.4547', 'war:0.3513', 'partnership:0.2191', 'analysis:0.1772']"
+        ],
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Biden says US sending mediumrange rocket systems to Ukraine.txt+eventbasecode100+eventcode100+avgtone0.4884898710865561+goldsteinscale0.25+nummentions0.6433236574746009+numarticles0.6435823060188542+numsources0.5296052631578947+news_keywords+['ukraines:0.4556', 'kremlin:0.3637', 'invade:0.3289', 'pentagon:0.3261', 'tank:0.2991', 'firepower:0.2904', 'intercept:0.2689', 'howitzer:0.2538', 'launch:0.2486', 'conflict:0.2456', 'plan:0.2391', 'advanced:0.2345', 'separatist:0.2315', 'transfer:0.226', 'campaign:0.2116', 'soon:0.2036', 'donbas:0.1938', 'biden:0.1932', 'need:0.193', 'sievierodonetsk:0.1927', 'far:0.1887', 'capital:0.1877', 'eastern:0.1867', 'arm:0.1731', 'prolong:0.1729', 'point:0.1672', 'th:0.1623', 'dynamic:0.1568', 'billion:0.1124', 'possible:0.1071']+titles_keywords+['biden:0.3654', 'ukraine:0.3381', 'rocket:0.2902', 'sending:0.1417', 'says:0.0669']"
+        ]
+    ]
+}

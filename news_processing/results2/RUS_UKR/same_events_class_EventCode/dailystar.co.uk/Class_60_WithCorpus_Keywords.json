@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+60":[
+        [
+            "20220715+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Brit soldier facing execution by Putin forced to sing the Russian national anthem.txt+eventbasecode60+eventcode60+avgtone0.46551724137931033+goldsteinscale0.8+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4595', 'putin:0.4508', 'hostage:0.386', 'refugee:0.3751', 'propaganda:0.3335', 'executed:0.3297', 'invasion:0.2904', 'separatist:0.2882', 'soldier:0.2833', 'threaten:0.2558', 'bbc:0.2455', 'aidens:0.2381', 'remain:0.2333', 'unilaterally:0.2238', 'table:0.2131', 'healy:0.2041', 'dpr:0.1993', 'emotional:0.1975', 'care:0.187', 'safe:0.1848', 'isnt:0.1834', 'read:0.1791', 'urey:0.1742', 'story:0.1645', 'alongside:0.1609', 'preparation:0.1591', 'line:0.1296', 'deep:0.1162', 'swap:0.1151', 'official:0.1017']+titles_keywords+['putin:0.4206', 'brit:0.3044', 'soldier:0.2884', 'execution:0.2568', 'sing:0.1916']"
+        ]
+    ],
+    "UKR+RUS+60":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/McDonalds new Russian owners have new names for chain including The Only Way.txt+eventbasecode60+eventcode60+avgtone0.4932432432432432+goldsteinscale0.8+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['mcdonald:0.4881', 'soviet:0.4262', 'news:0.3158', 'trademark:0.3151', 'food:0.2654', 'slogan:0.2592', 'industry:0.2483', 'govor:0.223', 'social:0.2146', 'billionaire:0.2116', 'globe:0.2021', 'invade:0.1949', 'change:0.1884', 'chain:0.1872', 'term:0.1835', 'list:0.1664', 'big:0.1645', 'closing:0.1625', 'mcgenocide:0.1605', 'block:0.1506', 'tasty:0.1448', 'daily:0.1381', 'snap:0.1317', 'way:0.1271', 'continue:0.1242', 'agree:0.1196', 'significant:0.1168', 'year:0.1111', 'nearly:0.0966', 'send:0.066']+titles_keywords+['mcdonalds:0.4154', 'russian:0.381', 'way:0.2846', 'names:0.2619', 'chain:0.2336']"
+        ]
+    ]
+}

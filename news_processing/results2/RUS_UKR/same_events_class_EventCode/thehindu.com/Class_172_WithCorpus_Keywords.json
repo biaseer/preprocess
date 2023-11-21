@@ -1,0 +1,12 @@
+{
+    "RUS+POL+172":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/thehindu.com/US journalist shot dead in Ukraine medic witnesses.txt+eventbasecode172+eventcode172+avgtone0.47262247838616717+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['correspondent:0.5129', 'ukraine:0.3911', 'shapovalov:0.33', 'shot:0.3071', 'victim:0.2819', 'frontline:0.274', 'surgeon:0.2434', 'papers:0.241', 'afp:0.2372', 'report:0.2311', 'death:0.2279', 'artillery:0.2275', 'circumstance:0.2237', 'documentary:0.2169', 'york:0.2154', 'lead:0.1611', 'renaud:0.1563', 'twitter:0.1512', 'injure:0.1509', 'statement:0.1457', 'brent:0.1418', 'volunteer:0.1387', 'unclear:0.1298', 'new:0.125', 'hear:0.1239', 'talented:0.1202', 'year:0.1067', 'pic:0.1046', 'zone:0.0923', 'exact:0.0432']+titles_keywords+['journalist:0.3629', 'ukraine:0.3377', 'shot:0.2873', 'medic:0.2867', 'witnesses:0.1448']"
+        ]
+    ],
+    "UKR+RUS+172":[
+        [
+            "20220113+../news_crawling/RUS_UKR/p_articles/thehindu.com/New report sheds light on forgotten humanitarian crises.txt+eventbasecode172+eventcode172+avgtone0.4671574178935447+goldsteinscale0.25+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['humanitarian:0.4991', 'crises:0.4573', 'poverty:0.4511', 'malawi:0.448', 'unesco:0.3783', 'pandemic:0.3723', 'war:0.3206', 'climate:0.3185', 'reliefweb:0.3036', 'earthquake:0.2935', 'world:0.2631', 'alleviate:0.248', 'population:0.2451', 'report:0.2168', 'border:0.2106', 'resource:0.2072', 'subject:0.1979', 'publication:0.1888', 'reading:0.1811', 'priority:0.1783', 'republic:0.1732', 'inequality:0.158', 'list:0.1556', 'contrast:0.1479', 'forgotten:0.1474', 'meghan:0.1189', 'reach:0.0988', 'additional:0.08', 'femicide:0.061', 'largely:0.0522']+titles_keywords+['humanitarian:0.491', 'crises:0.4082', 'forgotten:0.3253', 'report:0.2045', 'new:0.1059']"
+        ]
+    ]
+}

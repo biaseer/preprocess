@@ -1,0 +1,12 @@
+{
+    "NLD+UKR+42":[
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/justiceinfo.net/US blasts Moscow for forced deportations of Ukrainians to Russia.txt+eventbasecode42+eventcode42+avgtone0.4644128113879003+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5056', 'moscow:0.4707', 'chechnya:0.4624', 'putin:0.4615', 'deport:0.3618', 'crime:0.3102', 'war:0.3043', 'occupy:0.2848', 'hague:0.2713', 'operation:0.264', 'atrocity:0.2477', 'accuse:0.2248', 'confiscate:0.2202', 'filtration:0.1883', 'forcibly:0.1861', 'source:0.1836', 'indicate:0.1807', 'civilian:0.1799', 'demographic:0.1783', 'child:0.1563', 'separate:0.15', 'statement:0.137', 'thursday:0.1342', 'change:0.1262', 'blast:0.1235', 'blinken:0.1121', 'million:0.1021', 'far:0.1015', 'include:0.0938', 'similar:0.0835']+titles_keywords+['moscow:0.4566', 'ukrainians:0.4447', 'deportations:0.4026', 'blasts:0.1964', 'forced:0.1296']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/justiceinfo.net/Russian troops land in Ukraines second city Kharkiv.txt+eventbasecode42+eventcode42+avgtone0.470311027332705+goldsteinscale0.595+nummentions0.08055152394775036+numarticles0.08049311094996374+numsources0.20723684210526316+news_keywords+['kyiv:0.4707', 'putin:0.4327', 'invade:0.393', 'escalation:0.3336', 'news:0.3079', 'military:0.2701', 'alert:0.2678', 'telegram:0.2611', 'unprovoked:0.2569', 'underway:0.2553', 'expect:0.244', 'butyak:0.2402', 'boycotts:0.2395', 'cite:0.2386', 'victory:0.2333', 'order:0.2319', 'fear:0.2015', 'tuesday:0.1994', 'repeat:0.1949', 'equities:0.1918', 'big:0.1877', 'world:0.1869', 'comparison:0.1836', 'speak:0.1772', 'isolate:0.1716', 'northern:0.1631', 'barrel:0.1461', 'freeze:0.1421', 'kilometres:0.1268', 'largely:0.0871']+titles_keywords+['kharkiv:0.4603', 'ukraines:0.3859', 'troops:0.2312', 'second:0.1509', 'land:0.1195']"
+        ]
+    ]
+}

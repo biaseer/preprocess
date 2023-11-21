@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/austinglobe.com/US allies discuss whether Blinken will meet with Lavrov as planned on Feb 24.txt+eventbasecode100+eventcode100+avgtone0.5027624309392266+goldsteinscale0.25+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.019736842105263157+news_keywords+['putin:0.4724', 'meeting:0.3304', 'lavrov:0.3302', 'announce:0.2886', 'independence:0.2836', 'donetsk:0.2776', 'republic:0.2744', 'ahead:0.2693', 'state:0.2322', 'anisputnik:0.225', 'blinken:0.2216', 'advisor:0.2216', 'msnbc:0.2134', 'department:0.2119', 'plan:0.1995', 'foreign:0.1983', 'decree:0.1779', 'day:0.1754', 'feb:0.1706', 'long:0.17', 'security:0.1677', 'say:0.1672', 'donbas:0.1615', 'week:0.158', 'decision:0.1399', 'antony:0.1338', 'change:0.1245', 'wake:0.1238', 'significant:0.1194', 'possible:0.1146']+titles_keywords+['blinken:0.348', 'lavrov:0.3108', 'meet:0.2962', 'allies:0.2721', 'feb:0.1048']"
+        ]
+    ],
+    "USA+RUS+100":[
+        [
+            "20220618+../news_crawling/RUS_UKR/p_articles/austinglobe.com/US allies ready for long war in Ukraine Washington Post.txt+eventbasecode100+eventcode100+avgtone0.48280098280098277+goldsteinscale0.25+nummentions0.01632801161103048+numarticles0.01704133430021755+numsources0.019736842105263157+news_keywords+['ukraine:0.4261', 'nato:0.4033', 'war:0.3485', 'biden:0.2737', 'recession:0.2686', 'predict:0.2633', 'long:0.2601', 'imminent:0.218', 'meeting:0.2014', 'administration:0.2006', 'ally:0.1909', 'plan:0.1868', 'achieve:0.1811', 'spillover:0.1733', 'term:0.1718', 'sanction:0.1656', 'cite:0.1653', 'order:0.1632', 'ready:0.1587', 'weaken:0.1524', 'negotiated:0.1501', 'navigate:0.1492', 'bad:0.1157', 'help:0.1136', 'protract:0.1055', 'recent:0.0991', 'like:0.0804', 'dozen:0.0782', 'costly:0.0651', 'mount:0.0597']+titles_keywords+['allies:0.4246', 'ukraine:0.3983', 'war:0.3899', 'long:0.2697', 'ready:0.1952']"
+        ]
+    ]
+}

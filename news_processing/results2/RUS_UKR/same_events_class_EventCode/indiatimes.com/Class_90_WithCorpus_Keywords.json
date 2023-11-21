@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+90":[
+        [
+            "20210602+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Russia will monitor UkraineUS military drills and react if necessary Defence ministry.txt+eventbasecode90+eventcode90+avgtone0.4885057471264368+goldsteinscale0.4+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['crimea:0.5011', 'nato:0.4414', 'ukraineus:0.423', 'russian:0.3153', 'naval:0.2941', 'drill:0.254', 'preparation:0.2384', 'tensions:0.1999', 'exercise:0.1863', 'security:0.1718', 'upcoming:0.167', 'uprise:0.1459', 'trigger:0.1395', 'eastern:0.1315', 'involve:0.1307', 'respond:0.1203', 'zone:0.1193', 'remain:0.1126', 'people:0.1104', 'states:0.1049', 'closely:0.0946', 'strain:0.0937', 'july:0.0917', 'black:0.0838', 'hosted:0.0835', 'necessary:0.0821', 'pro:0.0774', 'breeze:0.0733', 'set:0.068', 'number:0.0388']+titles_keywords+['ukraineus:0.452', 'military:0.2955', 'drills:0.2532', 'react:0.1267', 'monitor:0.1129']"
+        ],
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Govt closely monitoring global commodity price movements amid RussiaUkraine war FinMin.txt+eventbasecode90+eventcode90+avgtone0.48251748251748255+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['geopolitical:0.3642', 'commodity:0.341', 'india:0.3282', 'gdp:0.3217', 'oil:0.3179', 'supply:0.3081', 'finance:0.28', 'volatility:0.2422', 'disruption:0.2344', 'increase:0.2167', 'russiaukraine:0.2096', 'output:0.2016', 'govt:0.191', 'global:0.1831', 'inform:0.1807', 'reserves:0.1663', 'pandemic:0.1499', 'mitigate:0.131', 'pre:0.1299', 'calm:0.1281', 'aftermath:0.1261', 'trade:0.1257', 'month:0.1245', 'breakout:0.1163', 'monitor:0.1142', 'vulnerable:0.1068', 'brent:0.0898', 'include:0.0661', 'recent:0.0625', 'review:0.0172']+titles_keywords+['commodity:0.3431', 'russiaukraine:0.2863', 'monitoring:0.2749', 'govt:0.2731', 'global:0.213']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        [
+            "20220115+../news_crawling/RUS_UKR/p_articles/indiatimes.com/White House Russia prepping pretext for Ukraine invasion.txt+eventbasecode90+eventcode90+avgtone0.47319587628865983+goldsteinscale0.4+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.009868421052631578+news_keywords+['kremlin:0.4353', 'crimea:0.4229', 'invade:0.379', 'propaganda:0.3763', 'nato:0.3747', 'diplomatic:0.323', 'cyberattacks:0.3118', 'pretext:0.3078', 'pentagon:0.2979', 'nationalist:0.2903', 'tactic:0.2885', 'prepare:0.2725', 'aggressor:0.2523', 'information:0.2456', 'groundwork:0.2295', 'dispatch:0.2192', 'concern:0.217', 'psaki:0.1953', 'playbook:0.1901', 'intercepted:0.1829', 'thursday:0.1789', 'sullivan:0.1772', 'forward:0.1722', 'conjunction:0.1716', 'blame:0.1598', 'author:0.1498', 'declassify:0.1386', 'long:0.1247', 'nonstarter:0.1218', 'similar:0.1173']+titles_keywords+['pretext:0.4065', 'ukraine:0.3887', 'prepping:0.3803', 'invasion:0.3511', 'white:0.2028']"
+        ]
+    ]
+}

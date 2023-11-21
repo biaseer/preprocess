@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/enca.com/Russia fires hypersonic missiles as Ukraine presses for peace deal.txt+eventbasecode194+eventcode194+avgtone0.48108108108108105+goldsteinscale0.0+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.009868421052631578+news_keywords+['ukraine:0.4776', 'kremlin:0.4553', 'ceasefire:0.3993', 'nato:0.3846', 'yuri:0.3557', 'confrontation:0.3088', 'detonation:0.2909', 'zelensky:0.2894', 'strategic:0.2527', 'military:0.2425', 'know:0.2352', 'urgent:0.2225', 'turn:0.2058', 'reporter:0.201', 'progress:0.1982', 'capital:0.1967', 'range:0.1859', 'jinping:0.1803', 'unscathed:0.1771', 'triumphalist:0.1687', 'long:0.154', 'nearly:0.1514', 'friday:0.1487', 'rid:0.1453', 'integration:0.1308', 'broken:0.1284', 'count:0.1266', 'hotspot:0.1158', 'unrealistic:0.113', 'olaf:0.0901']+titles_keywords+['hypersonic:0.3983', 'ukraine:0.3974', 'missiles:0.3912', 'peace:0.2408', 'deal:0.1792']"
+        ]
+    ],
+    "UKR+RUS+194":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/enca.com/Ukrainians wake up to sounds of bombings as war hits home.txt+eventbasecode194+eventcode194+avgtone0.4828767123287671+goldsteinscale0.0+nummentions0.00544267053701016+numarticles0.006163886874546773+numsources0.006578947368421052+news_keywords+['kyiv:0.5204', 'putin:0.3829', 'war:0.375', 'revolution:0.3602', 'terekhov:0.3333', 'explode:0.319', 'frighten:0.2863', 'insurgent:0.2558', 'woke:0.2538', 'homeland:0.2382', 'calm:0.2325', 'sounds:0.2196', 'train:0.2173', 'continue:0.2137', 'hug:0.2102', 'northern:0.1966', 'pull:0.1939', 'main:0.1846', 'cover:0.1844', 'scatter:0.1819', 'deep:0.1752', 'avenue:0.1751', 'historic:0.1691', 'reverse:0.1677', 'building:0.1652', 'teenage:0.1608', 'suitcase:0.1551', 'state:0.1448', 'thursday:0.1436', 'hour:0.1385']+titles_keywords+['ukrainians:0.4218', 'bombings:0.4137', 'sounds:0.2351', 'wake:0.2116', 'home:0.1658']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "FRA+RUS+42":[
+        [
+            "20220210+../news_crawling/RUS_UKR/p_articles/economist.com/Diplomacy has created an opening for detente in Ukraine but beware a trap.txt+eventbasecode42+eventcode42+avgtone0.48091603053435117+goldsteinscale0.595+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['minsk:0.4505', 'ceasefire:0.4174', 'ukraines:0.4036', 'diplomacy:0.4003', 'putin:0.3823', 'nato:0.3378', 'destabilise:0.2697', 'veto:0.2552', 'separatist:0.2541', 'implement:0.2157', 'plan:0.2038', 'sketch:0.196', 'trap:0.1931', 'perilous:0.1752', 'volodymyr:0.1717', 'frances:0.1692', 'deal:0.1689', 'headline:0.1625', 'turn:0.1584', 'unpredictable:0.1525', 'follow:0.1396', 'interpretation:0.1383', 'word:0.1355', 'long:0.1261', 'include:0.1206', 'properly:0.1187', 'relation:0.1137', 'version:0.1033', 'agree:0.0774', 'converge:0.0762']+titles_keywords+['diplomacy:0.5231', 'detente:0.4297', 'ukraine:0.3895', 'trap:0.3078', 'beware:0.1267']"
+        ]
+    ],
+    "UKR+RUS+42":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/economist.com/Why people are buying potassium iodide pills.txt+eventbasecode42+eventcode42+avgtone0.4661654135338346+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nuclear:0.4685', 'hiroshimas:0.4086', 'bomb:0.4001', 'iodine:0.3593', 'war:0.3429', 'pill:0.3258', 'readiness:0.2998', 'disaster:0.2767', 'risk:0.2737', 'thyroid:0.2613', 'fallout:0.2603', 'aid:0.259', 'poisoning:0.2587', 'obliterate:0.2363', 'stockpile:0.224', 'survive:0.2222', 'russias:0.2201', 'use:0.213', 'researchers:0.2022', 'global:0.1662', 'immediate:0.165', 'include:0.1383', 'begin:0.1374', 'increase:0.1365', 'km:0.1285', 'zero:0.1194', 'think:0.1115', 'decade:0.1109', 'radius:0.0998', 'offer:0.0748']+titles_keywords+['iodide:0.5216', 'potassium:0.4512', 'pills:0.3419', 'people:0.1689', 'buying:0.1599']"
+        ]
+    ]
+}

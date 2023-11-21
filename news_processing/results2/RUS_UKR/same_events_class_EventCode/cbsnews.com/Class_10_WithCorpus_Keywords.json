@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Biden says Russian invasion of Ukraine remains distinctly possible but theres still room for diplomacy.txt+eventbasecode10+eventcode10+avgtone0.47803347280334735+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['cyberattacks:0.5036', 'ukraine:0.4509', 'putin:0.4483', 'nato:0.4029', 'invasion:0.3493', 'diplomacy:0.3277', 'military:0.2695', 'biden:0.2666', 'warn:0.2663', 'news:0.2602', 'strategic:0.2582', 'correspond:0.2524', 'prepare:0.2523', 'defend:0.2388', 'know:0.2242', 'privatbank:0.1719', 'log:0.1695', 'gazis:0.1694', 'hope:0.1651', 'transaction:0.1617', 'oschadbank:0.1582', 'january:0.1553', 'hit:0.1553', 'near:0.1438', 'possible:0.1416', 'increased:0.139', 'drawdown:0.1379', 'normally:0.1237', 'hour:0.1155', 'circle:0.1042']+titles_keywords+['diplomacy:0.3232', 'biden:0.2969', 'ukraine:0.2964', 'possible:0.2101', 'distinctly:0.124']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Transcript Ukrainian Foreign Minister Dmytro Kuleba on Face the Nation April 17 2022.txt+eventbasecode10+eventcode10+avgtone0.49157303370786515+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.5176', 'kyiv:0.3773', 'diplomat:0.3658', 'government:0.3338', 'conflict:0.3154', 'militarily:0.2956', 'nation:0.2401', 'operation:0.2292', 'know:0.2283', 'report:0.2261', 'behaves:0.2219', 'osce:0.2', 'speak:0.193', 'dmytro:0.1838', 'missile:0.1827', 'want:0.1805', 'message:0.1799', 'continue:0.1778', 'future:0.1734', 'bucha:0.1681', 'legal:0.1662', 'mr:0.1628', 'reopen:0.1425', 'brennan:0.1372', 'th:0.1355', 'exactly:0.1335', 'month:0.1171', 'house:0.0997', 'pave:0.0946', 'intensification:0.0917']+titles_keywords+['transcript:0.3772', 'kuleba:0.3651', 'nation:0.2237', 'dmytro:0.2166', '2022:0.1385']"
+        ]
+    ],
+    "USA+RUS+10":[
+        [
+            "20220113+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Russia wont exclude putting military hardware in Cuba or Venezuela amid unsuccessful talks with US.txt+eventbasecode10+eventcode10+avgtone0.4826815642458101+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['nato:0.4861', 'ukraine:0.4342', 'kremlin:0.4321', 'dmitry:0.3494', 'confrontation:0.2924', 'diplomat:0.2905', 'election:0.262', 'eastward:0.2591', 'invasion:0.2392', 'prepare:0.226', 'table:0.2213', 'expand:0.213', 'peninsula:0.1936', 'soon:0.1784', 'week:0.1707', 'want:0.1689', 'remain:0.1644', 'remark:0.158', 'cold:0.1448', 'say:0.1444', 'long:0.1401', 'report:0.1374', 'current:0.1354', 'wont:0.1239', 'amid:0.113', 'rau:0.1009', 'exclude:0.0896', 'measure:0.0877', 'possibility:0.0849', 'agree:0.063']+titles_keywords+['cuba:0.3961', 'military:0.2145', 'wont:0.156', 'hardware:0.0924', 'unsuccessful:0.0604']"
+        ]
+    ]
+}

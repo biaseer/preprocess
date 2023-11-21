@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/dunfermlinepress.com/Ukraine rejects Belarus as venue for talks as Russian troops enter Kharkiv.txt+eventbasecode192+eventcode192+avgtone0.48+goldsteinscale0.025+nummentions0.014150943396226415+numarticles0.014865844815083394+numsources0.03289473684210526+news_keywords+['ukraine:0.4943', 'kremlin:0.4052', 'moscows:0.3952', 'igor:0.3225', 'invasion:0.2905', 'escalates:0.2669', 'anticipate:0.2398', 'veto:0.2384', 'enter:0.2372', 'peace:0.2351', 'ahead:0.2331', 'map:0.2256', 'flee:0.2242', 'strategic:0.2218', 'gunfire:0.2216', 'school:0.217', 'regime:0.216', 'know:0.207', 'volodymyr:0.2041', 'pipeline:0.1978', 'ready:0.1908', 'corridor:0.187', 'include:0.1849', 'end:0.181', 'responding:0.1781', 'general:0.1663', 'long:0.1522', 'friday:0.1522', 'replace:0.1484', 'inspect:0.121']+titles_keywords+['belarus:0.3703', 'kharkiv:0.2895', 'enter:0.1589', 'rejects:0.1405', 'talks:0.1236']"
+        ]
+    ],
+    "UKR+RUS+192":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/dunfermlinepress.com/Ukraine sees openings as Russia fixates on besieged Mariupol.txt+eventbasecode192+eventcode192+avgtone0.4739382239382239+goldsteinscale0.025+nummentions0.29390420899854863+numarticles0.29441624365482233+numsources0.375+news_keywords+['crimea:0.537', 'ukrainians:0.4531', 'evacuation:0.3799', 'separatist:0.3471', 'victory:0.2732', 'troop:0.2706', 'capital:0.2593', 'enemy:0.2511', 'zelensky:0.2458', 'news:0.2366', 'provocation:0.2356', 'write:0.2297', 'column:0.2282', 'continue:0.2248', 'mriya:0.2101', 'heed:0.197', 'surround:0.1962', 'left:0.1729', 'plant:0.1728', 'like:0.1677', 'uncertain:0.1672', 'bucha:0.167', 'reach:0.1623', 'crosshairs:0.1613', 'population:0.1607', 'processing:0.1581', 'need:0.1525', 'immediately:0.1496', 'unimportant:0.145', 'agree:0.127']+titles_keywords+['ukraine:0.4158', 'openings:0.3132', 'mariupol:0.2361', 'besieged:0.1752', 'fixates:0.1354']"
+        ]
+    ]
+}

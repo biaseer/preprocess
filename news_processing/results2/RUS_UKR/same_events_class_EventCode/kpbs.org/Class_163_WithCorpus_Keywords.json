@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+163":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/kpbs.org/RussiaUkraine war What happened today May 31.txt+eventbasecode163+eventcode163+avgtone0.46794871794871795+goldsteinscale0.1+nummentions0.030478955007256895+numarticles0.03118201595358956+numsources0.06907894736842106+news_keywords+['ukraine:0.5298', 'russiaukraine:0.5018', 'kremlin:0.4928', 'news:0.3365', 'embargo:0.3069', 'military:0.2833', 'zelenskyy:0.2753', 'npr:0.2711', 'oil:0.2529', 'recap:0.2496', 'disrupt:0.2481', 'pipeline:0.2231', 'sievierodonetsk:0.2226', 'viktor:0.2154', 'march:0.2124', 'report:0.21', 'president:0.2049', 'read:0.202', 'victim:0.1881', 'bloc:0.1876', 'prepare:0.1846', 'today:0.1705', 'dead:0.1647', 'speaking:0.1598', 'frenzied:0.1379', 'end:0.1364', 'total:0.1101', 'associated:0.1084', 'verified:0.1082', 'agree:0.0796']+titles_keywords+['russiaukraine:0.4786', 'war:0.4209', 'today:0.2912', 'happened:0.2677', '31:0.2104']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/kpbs.org/US officials say Russia will face pressure at the UN over Ukraine.txt+eventbasecode163+eventcode163+avgtone0.4788321167883211+goldsteinscale0.1+nummentions0.9426705370101597+numarticles0.9427121102248006+numsources0.9243421052631579+news_keywords+['nato:0.4494', 'ukraine:0.4305', 'war:0.3018', 'vladimir:0.3001', 'diplomatic:0.2658', 'cyberattacks:0.2488', 'propaganda:0.2444', 'annex:0.2411', 'sanction:0.2275', 'unify:0.219', 'preemptively:0.21', 'crisis:0.2089', 'want:0.1903', 'table:0.1902', 'warning:0.1789', 'trigger:0.1787', 'behave:0.1751', 'position:0.1583', 'explain:0.1465', 'decide:0.1415', 'senate:0.1404', 'forget:0.1295', 'ready:0.1289', 'listen:0.1266', 'current:0.1248', 'increase:0.1198', 'long:0.1188', 'sphere:0.0682', 'resolution:0.0675', 'possible:0.06']+titles_keywords+['ukraine:0.2935', 'pressure:0.2751', 'officials:0.1229', 'face:0.0304', 'say:-0.0142']"
+        ]
+    ]
+}

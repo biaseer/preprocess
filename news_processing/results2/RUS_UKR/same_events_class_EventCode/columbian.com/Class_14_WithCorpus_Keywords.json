@@ -1,0 +1,12 @@
+{
+    "KAZ+UKR+14":[
+        [
+            "20220108+../news_crawling/RUS_UKR/p_articles/columbian.com/Kazakhstan adds uncertainty to talks with Russia on Ukraine.txt+eventbasecode14+eventcode14+avgtone0.4779735682819383+goldsteinscale0.5+nummentions0.059506531204644414+numarticles0.06018854242204496+numsources0.06578947368421052+news_keywords+['kazakhstan:0.5516', 'crimea:0.5261', 'soviet:0.4394', 'putins:0.4131', 'nato:0.3635', 'lukyanov:0.3407', 'karabakh:0.3345', 'conflict:0.3147', 'diplomatic:0.3117', 'nationalism:0.2738', 'conflate:0.2683', 'instability:0.2632', 'invade:0.252', 'stage:0.1946', 'reelection:0.1911', 'write:0.1785', 'plan:0.1784', 'help:0.1747', 'reminder:0.17', 'decide:0.1664', 'turn:0.161', 'armed:0.1605', 'grow:0.1541', 'suddenly:0.148', 'state:0.1477', 'period:0.1376', 'eastern:0.1358', 'additional:0.1301', 'far:0.0947', 'decade:0.084']+titles_keywords+['kazakhstan:0.4905', 'ukraine:0.3799', 'uncertainty:0.3761', 'talks:0.2385', 'adds:0.016']"
+        ]
+    ],
+    "UKR+RUS+14":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/columbian.com/Biden announces sanctions against Russian oligarchs banks.txt+eventbasecode14+eventcode14+avgtone0.4744597249508841+goldsteinscale0.5+nummentions0.5007256894049347+numarticles0.5010877447425671+numsources0.9473684210526315+news_keywords+['putin:0.4536', 'invade:0.4004', 'natos:0.3816', 'sanction:0.3031', 'diplomatic:0.2892', 'prepare:0.2728', 'lviv:0.2679', 'alarm:0.2366', 'soon:0.2345', 'separatist:0.2253', 'administration:0.2233', 'news:0.2203', 'formalize:0.2045', 'order:0.2011', 'chaos:0.1945', 'rhetoric:0.1909', 'plunge:0.1849', 'authorize:0.1832', 'lucrative:0.178', 'confusion:0.1682', 'pipeline:0.1557', 'end:0.152', 'eastern:0.1459', 'reject:0.1381', 'deal:0.135', 'ellen:0.1318', 'long:0.1123', 'exactly:0.1095', 'blinken:0.0929', 'superville:0.0695']+titles_keywords+['sanctions:0.4337', 'oligarchs:0.3697', 'biden:0.3573', 'banks:0.2797', 'russian:0.2414']"
+        ]
+    ]
+}

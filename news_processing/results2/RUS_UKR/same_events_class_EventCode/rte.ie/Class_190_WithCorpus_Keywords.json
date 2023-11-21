@@ -1,0 +1,15 @@
+{
+    "BEL+RUS+190":[
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/rte.ie/Zelensky urges EU to let Ukraine join bloc quickly.txt+eventbasecode190+eventcode190+avgtone0.5072202166064982+goldsteinscale0.0+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['ukraine:0.4984', 'ahead:0.2955', 'oligarch:0.2938', 'reform:0.2765', 'parliament:0.2703', 'candidacy:0.2623', 'zelensky:0.2569', 'bloc:0.2551', 'maidan:0.2396', 'war:0.2394', 'volodymyr:0.2335', 'long:0.2291', 'clap:0.2166', 'successful:0.2075', 'come:0.2062', 'movement:0.2035', 'comprise:0.2', 'hall:0.199', 'expect:0.1762', 'june:0.1743', 'allow:0.1688', 'urgent:0.1599', 'make:0.1498', 'port:0.1368', 'link:0.1232', 'moment:0.1176', 'official:0.1174', 'der:0.1003', 'add:0.0816', 'unimaginable:0.0805']+titles_keywords+['zelensky:0.4802', 'eu:0.2728', 'bloc:0.2393', 'quickly:0.2247', 'let:0.1225']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/rte.ie/Ukraine Ambassador to Ireland Im so emotional Im shocked.txt+eventbasecode190+eventcode190+avgtone0.48324022346368717+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4452', 'putin:0.3942', 'peaceful:0.3101', 'diplomat:0.3011', 'gerasko:0.2932', 'attack:0.2479', 'border:0.22', 'negotiation:0.2169', 'table:0.1947', 'affairs:0.1844', 'return:0.1678', 'rt:0.1586', 'justification:0.1501', 'stop:0.1499', 'coveney:0.1441', 'aiouglv:0.1425', 'read:0.1401', 'immediately:0.1347', 'parent:0.1241', 'believe:0.1226', 'illegal:0.1203', 'world:0.1179', 'actually:0.1108', 'order:0.1066', 'cynical:0.0895', 'km:0.0822', 'round:0.0822', 'simon:0.0557', 'pic:0.0553', 'http:0.0496']+titles_keywords+['ukraine:0.4427', 'ambassador:0.4033', 'emotional:0.3358', 'shocked:0.3332', 'ireland:0.3286']"
+        ],
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/rte.ie/Moscow retaliates against Western sanctions with export bans.txt+eventbasecode190+eventcode190+avgtone0.46590909090909094+goldsteinscale0.0+nummentions0.04281567489114659+numarticles0.043509789702683106+numsources0.046052631578947366+news_keywords+['moscow:0.4297', 'nationalise:0.3012', 'sanction:0.29', 'retaliate:0.2688', 'eurasian:0.254', 'restrict:0.2531', 'invasion:0.227', 'government:0.2256', 'commodity:0.1991', 'exporting:0.1804', 'news:0.1629', 'western:0.1578', 'port:0.1476', 'logical:0.1472', 'leave:0.1445', 'pull:0.1437', 'bloc:0.1413', 'prepare:0.1369', 'forestry:0.121', 'cite:0.115', 'form:0.1146', 'function:0.1105', 'lease:0.106', 'end:0.1038', 'approve:0.0964', 'measure:0.0774', 'auto:0.0625', 'eeu:0.0583', 'similar:0.0493', 'august:0.0473']+titles_keywords+['sanctions:0.5473', 'moscow:0.4202', 'retaliates:0.3792', 'export:0.3113', 'western:0.1323']"
+        ]
+    ]
+}

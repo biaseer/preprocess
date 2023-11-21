@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+16":[
+        [
+            "20220118+../news_crawling/RUS_UKR/p_articles/foxnews.com/Blinken to visit Ukraine amid rising tensions with Russia.txt+eventbasecode16+eventcode16+avgtone0.4788937409024745+goldsteinscale0.4+nummentions0.10667634252539913+numarticles0.10732414793328499+numsources0.25+news_keywords+['ukraine:0.4545', 'nato:0.4097', 'putinhas:0.3828', 'invade:0.3732', 'diplomat:0.3324', 'presidentvladimir:0.3214', 'disinformation:0.299', 'escalation:0.2598', 'zelenskyy:0.2576', 'blinken:0.2513', 'prepare:0.2286', 'separatist:0.228', 'border:0.2275', 'bipartisan:0.2131', 'news:0.2121', 'friday:0.2034', 'peninsulaafter:0.1927', 'trip:0.1922', 'fear:0.1884', 'meetingin:0.1877', 'speak:0.1774', 'reaffirm:0.1569', 'instead:0.1552', 'hastily:0.1534', 'stonewall:0.1491', 'follow:0.135', 'industrial:0.1217', 'nearly:0.1185', 'house:0.0902', 'price:0.0668']+titles_keywords+['blinken:0.422', 'ukraine:0.3893', 'visit:0.2282', 'tensions:0.1537', 'amid:0.0263']"
+        ]
+    ],
+    "RUS+UKR+16":[
+        [
+            "20220117+../news_crawling/RUS_UKR/p_articles/foxnews.com/Russia angrily rejects claim its creating a pretext to invade Ukraine.txt+eventbasecode16+eventcode16+avgtone0.4673267326732673+goldsteinscale0.4+nummentions0.2663280116110305+numarticles0.2668600435097897+numsources0.2993421052631579+news_keywords+['putin:0.498', 'crimean:0.4692', 'belarus:0.4468', 'russias:0.4085', 'nato:0.4053', 'invade:0.3526', 'petrovbelta:0.2822', 'prepare:0.2513', 'disinformation:0.245', 'troop:0.2307', 'pretext:0.2126', 'negotiation:0.2043', 'flag:0.1966', 'news:0.1848', 'greets:0.1825', 'adviser:0.1767', 'know:0.1766', 'fear:0.1762', 'conclude:0.1625', 'drill:0.1619', 'allegation:0.1604', 'increasingly:0.1395', 'write:0.1362', 'current:0.1235', 'concentrated:0.0977', 'exclude:0.0935', 'measure:0.0814', 'possible:0.0785', 'fridaythat:0.0741', 'send:0.0612']+titles_keywords+['ukraine:0.4171', 'invade:0.3186', 'pretext:0.3003', 'angrily:0.1861', 'rejects:0.1477']"
+        ]
+    ]
+}

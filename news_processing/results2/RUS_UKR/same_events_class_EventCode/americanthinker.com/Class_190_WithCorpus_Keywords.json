@@ -1,0 +1,12 @@
+{
+    "POL+RUS+190":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/americanthinker.com/Biden lets yet another cat out of the bag with an offhand remark.txt+eventbasecode190+eventcode190+avgtone0.4794661190965092+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4115', 'biden:0.3995', 'ukraineandreportedly:0.3788', 'ciaparamilitaries:0.346', 'war:0.3388', 'gaffe:0.3129', 'remark:0.2992', 'troop:0.2785', 'context:0.2377', 'sanction:0.2319', 'implication:0.2314', 'nowpoland:0.2275', 'underway:0.2151', 'tell:0.198', 'uspulled:0.1947', 'offhand:0.1895', 'gon:0.1826', 'confusion:0.182', 'senile:0.1789', 'soon:0.1655', 'superpower:0.1525', 'previous:0.1523', 'signal:0.1463', 'comhnuztlci:0.1442', 'step:0.1297', 'grab:0.1237', 'zone:0.1212', 'usually:0.1202', 'ordered:0.1085', 'planner:0.1032']+titles_keywords+['biden:0.5572', 'remark:0.3293', 'offhand:0.253', 'cat:0.2313', 'lets:0.0696']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/americanthinker.com/Was there really a massacre at Bucha.txt+eventbasecode190+eventcode190+avgtone0.4661111111111111+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['massacre:0.4984', 'kyiv:0.4142', 'soviet:0.3955', 'deception:0.3235', 'autopsy:0.3042', 'government:0.2873', 'victim:0.2778', 'evidenceamong:0.2774', 'report:0.2613', 'bucha:0.2506', 'territory:0.2437', 'false:0.2264', 'cnn:0.2262', 'execute:0.2204', 'bury:0.2201', 'artillery:0.2112', 'organization:0.1984', 'april:0.1963', 'past:0.1905', 'unrealistic:0.1743', 'determine:0.1656', 'speaking:0.1481', 'refuse:0.1431', 'end:0.1422', 'bad:0.1392', 'snow:0.1385', 'triumphantly:0.1355', 'make:0.1202', 'overflow:0.1152', 'deal:0.0893']+titles_keywords+['massacre:0.4931', 'bucha:0.424', 'really:0.2012']"
+        ]
+    ]
+}

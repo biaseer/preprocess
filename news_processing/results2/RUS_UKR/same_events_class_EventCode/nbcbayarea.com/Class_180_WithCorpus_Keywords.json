@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/nbcbayarea.com/Ukraine Hacks Add to Worries of Cyber Conflict With Russia.txt+eventbasecode180+eventcode180+avgtone0.4815384615384615+goldsteinscale0.05+nummentions0.2155297532656023+numarticles0.21609862218999276+numsources0.3026315789473684+news_keywords+['cyberattacks:0.579', 'ukraine:0.4491', 'kremlin:0.3876', 'nato:0.3618', 'ransom:0.3063', 'destabilize:0.2935', 'invasion:0.2924', 'defacement:0.2573', 'concerned:0.2538', 'anonymity:0.2373', 'coveware:0.2341', 'know:0.2187', 'cryptocurrency:0.2146', 'history:0.2074', 'sector:0.1911', 'enforcement:0.1843', 'unrelated:0.1801', 'gang:0.1763', 'ceo:0.1744', 'data:0.1697', 'forward:0.1632', 'briefed:0.1521', 'accuse:0.1485', 'pipeline:0.146', 'prepare:0.1383', 'contribute:0.1348', 'main:0.1245', 'perfect:0.1093', 'ap:0.1059', 'month:0.1027']+titles_keywords+['ukraine:0.4087', 'cyber:0.2924', 'hacks:0.2699', 'conflict:0.226', 'worries:0.1909']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/nbcbayarea.com/Russias Damaged Black Sea Flagship Sinks in Latest Setback.txt+eventbasecode180+eventcode180+avgtone0.4615384615384615+goldsteinscale0.05+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.0756578947368421+news_keywords+['crimea:0.5194', 'russiahas:0.492', 'gorbachev:0.3582', 'warship:0.3262', 'attackwhen:0.2839', 'news:0.2812', 'zelenskyy:0.2726', 'sank:0.2717', 'economy:0.2616', 'standoff:0.2524', 'peacetime:0.2499', 'nuclear:0.2481', 'troopsregroup:0.2414', 'firepower:0.2376', 'survive:0.2323', 'blunder:0.2294', 'flag:0.2286', 'horrific:0.1935', 'commemorate:0.1915', 'forecast:0.191', 'enter:0.1864', 'sak:0.1856', 'help:0.1739', 'overshadow:0.1618', 'say:0.1523', 'downgrade:0.1498', 'independenceof:0.1473', 'cause:0.1394', 'thousand:0.108', 'theyve:0.0855']+titles_keywords+['sinks:0.3034', 'russias:0.2933', 'flagship:0.1965', 'setback:0.1758', 'damaged:0.1721']"
+        ],
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/nbcbayarea.com/Ukraine Says Potent Russian Hack Against Power Grid Thwarted.txt+eventbasecode180+eventcode180+avgtone0.47348886532343587+goldsteinscale0.05+nummentions0.10341074020319303+numarticles0.10406091370558376+numsources0.21052631578947367+news_keywords+['cyberattacks:0.5162', 'scada:0.3971', 'ukrainian:0.3918', 'russias:0.3741', 'invade:0.3155', 'outage:0.303', 'electricity:0.2847', 'aggressor:0.2582', 'substation:0.2577', 'government:0.247', 'cybercommand:0.2447', 'infect:0.2441', 'grid:0.237', 'know:0.2272', 'microsoft:0.2242', 'switch:0.2186', 'sandworm:0.2144', 'notpetya:0.1927', 'report:0.1924', 'thwarted:0.1923', 'concern:0.1887', 'data:0.1743', 'plant:0.1579', 'winter:0.1455', 'major:0.1385', 'directly:0.1311', 'gru:0.1193', 'thousand:0.1097', 'farid:0.0869', 'lucky:0.083']+titles_keywords+['ukraine:0.4512', 'hack:0.2607', 'thwarted:0.2597', 'power:0.1804', 'grid:0.1726']"
+        ]
+    ]
+}

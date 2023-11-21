@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/hillingdontimes.co.uk/Russia claims surrender of 1000 Ukrainian troops in Mariupol.txt+eventbasecode80+eventcode80+avgtone0.47297297297297297+goldsteinscale0.75+nummentions0.1792452830188679+numarticles0.1798404641044235+numsources0.23355263157894737+news_keywords+['ukrainian:0.406', 'surrender:0.3855', 'marine:0.3326', 'konashenkov:0.306', 'arestovych:0.2738', 'brigade:0.2569', 'manoeuvre:0.2021', 'personnel:0.1962', 'mariupol:0.1921', 'general:0.1909', 'supply:0.1634', 'port:0.1582', 'february:0.1372', 'low:0.126', 'force:0.1257', 'post:0.1215', 'claim:0.1134', 'place:0.1126', 'elements:0.1122', 'wound:0.1117', 'risky:0.1066', 'adviser:0.0994', 'misuse:0.0957', 'right:0.0953', 'lively:0.0908', 'story:0.0899', 'late:0.08', 'received:0.0758', 'debate:0.0668', 'twitter:0.0655']+titles_keywords+['surrender:0.3805', 'ukrainian:0.3579', 'mariupol:0.2498', '1000:0.2469', 'troops:0.2332']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/hillingdontimes.co.uk/Russia takes aim at crowded cities as Biden vows Putin will pay.txt+eventbasecode80+eventcode80+avgtone0.46794871794871795+goldsteinscale0.75+nummentions0.36792452830188677+numarticles0.36838288614938364+numsources0.5460526315789473+news_keywords+['moscow:0.5006', 'putin:0.4732', 'ukraines:0.4665', 'invading:0.3927', 'airstrike:0.3893', 'syria:0.3726', 'bloodshed:0.3546', 'boychenko:0.3201', 'holocaust:0.3122', 'destroy:0.3078', 'missile:0.2964', 'government:0.2674', 'strategic:0.2508', 'hit:0.2445', 'warn:0.2356', 'prepare:0.2286', 'news:0.2207', 'agreement:0.2024', 'deliver:0.1964', 'like:0.1801', 'cluster:0.1748', 'learn:0.1712', 'want:0.1672', 'th:0.1597', 'shift:0.1517', 'substation:0.1441', 'yar:0.1439', 'itselfincreasingly:0.136', 'highlight:0.1265', 'long:0.1001']+titles_keywords+['putin:0.4283', 'pay:0.237', 'cities:0.2335', 'crowded:0.1733', 'aim:0.129']"
+        ]
+    ]
+}

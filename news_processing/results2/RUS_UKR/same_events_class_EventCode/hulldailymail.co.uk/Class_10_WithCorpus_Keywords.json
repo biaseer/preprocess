@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+10":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/hulldailymail.co.uk/UK tells British nationals to leave Russia if presence is not essential.txt+eventbasecode10+eventcode10+avgtone0.47441860465116276+goldsteinscale0.5+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.03289473684210526+news_keywords+['ukraine:0.4979', 'kremlin:0.4677', 'ceasefire:0.4399', 'nato:0.349', 'boris:0.316', 'sanction:0.2761', 'invasion:0.26', 'salisbury:0.2512', 'constituency:0.2507', 'change:0.2309', 'radioactive:0.2272', 'news:0.2262', 'reiterate:0.2155', 'report:0.2155', 'concern:0.2077', 'forward:0.199', 'volodymyr:0.1893', 'continue:0.1839', 'secretary:0.1774', 'argue:0.1742', 'economic:0.1636', 'night:0.1399', 'arm:0.128', 'mr:0.1243', 'entirely:0.1212', 'non:0.1075', 'length:0.107', 'today:0.1064', 'welcome:0.0902', 'true:0.058']+titles_keywords+['russia:0.3358', 'leave:0.2538', 'british:0.2201', 'presence:0.1479', 'essential:0.0737']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/hulldailymail.co.uk/Biden Russia war amounts to genocide and Putin trying to wipe out Ukraine.txt+eventbasecode10+eventcode10+avgtone0.443548387096774+goldsteinscale0.5+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.023026315789473683+news_keywords+['putin:0.4736', 'genocide:0.4368', 'intervene:0.2969', 'controversy:0.2767', 'accuse:0.2523', 'administration:0.2279', 'imply:0.223', 'evidence:0.2109', 'trigger:0.2096', 'nuclear:0.2019', 'clearer:0.1987', 'tell:0.198', 'example:0.1958', 'block:0.1941', 'europe:0.1863', 'bidens:0.1847', 'word:0.182', 'hesitate:0.1719', 'learn:0.1699', 'articulate:0.1696', 'dramatic:0.1604', 'bloody:0.1549', 'wipe:0.153', 'direct:0.1306', 'just:0.1277', 'month:0.1117', 'sure:0.1075', 'price:0.0776', 'mr:0.0736', 'wasnt:0.0706']+titles_keywords+['putin:0.5677', 'biden:0.4866', 'genocide:0.4681', 'wipe:0.1967', 'trying:0.1655']"
+        ]
+    ]
+}

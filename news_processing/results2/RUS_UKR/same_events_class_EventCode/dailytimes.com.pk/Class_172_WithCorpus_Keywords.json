@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+172":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/dailytimes.com.pk/US says 40 of Russian forces on Ukraine border in attack position.txt+eventbasecode172+eventcode172+avgtone0.4725913621262458+goldsteinscale0.25+nummentions0.08055152394775036+numarticles0.07831762146482958+numsources0.02631578947368421+news_keywords+['crimea:0.5258', 'ukraines:0.4533', 'invade:0.4376', 'putin:0.4244', 'nato:0.4189', 'troop:0.3284', 'destabilization:0.3219', 'attack:0.3056', 'tactical:0.3035', 'border:0.2867', 'bluff:0.2764', 'occupied:0.2173', 'plan:0.2003', 'news:0.1942', 'order:0.191', 'wednesday:0.1761', 'movement:0.1754', 'warn:0.1751', 'donbas:0.175', 'states:0.1614', 'secretary:0.1373', 'close:0.1339', 'anonymity:0.1213', 'austin:0.1201', 'short:0.1191', 'increase:0.1188', 'fabricate:0.1181', 'estimate:0.1103', 'compare:0.0958', 'normal:0.0681']+titles_keywords+['ukraine:0.3576', 'attack:0.2556', '40:0.1915', 'forces:0.1511', 'says:0.0336']"
+        ],
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/dailytimes.com.pk/Russia barred from Euro vision over Ukraine invasion.txt+eventbasecode172+eventcode172+avgtone0.4880382775119617+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['eurovision:0.6415', 'ukraine:0.4656', 'invasion:0.2887', 'participate:0.2843', 'entry:0.2627', 'competition:0.242', 'crisis:0.2369', 'stage:0.2343', 'disrepute:0.2322', 'turin:0.2186', 'euro:0.2108', 'announcement:0.2103', 'song:0.2003', 'bring:0.1819', 'apolitical:0.161', 'kitschy:0.1595', 'unprecedented:0.1556', 'concern:0.1529', 'ebu:0.1414', 'diversity:0.1374', 'thursday:0.1298', 'protect:0.1261', 'permit:0.1113', 'lederhosen:0.1108', 'maneskin:0.1071', 'bar:0.0933', 'say:0.0914', 'th:0.087', 'year:0.0826', 'understanding:0.0757']+titles_keywords+['ukraine:0.4408', 'euro:0.289', 'vision:0.2267', 'invasion:0.2115', 'barred:0.2086']"
+        ]
+    ]
+}

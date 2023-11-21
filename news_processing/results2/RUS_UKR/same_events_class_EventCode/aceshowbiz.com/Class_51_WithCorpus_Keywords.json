@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/aceshowbiz.com/Putin Supporter Steven Seagal Boasts About Working for CIA in Shocking Recording.txt+eventbasecode51+eventcode51+avgtone0.5009225092250922+goldsteinscale0.67+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.006578947368421052+news_keywords+['cia:0.4575', 'kremlin:0.4', 'celebrity:0.3509', 'seagal:0.338', 'reporters:0.3045', 'political:0.3022', 'vladimir:0.2813', 'allegation:0.2624', 'secret:0.2607', 'bombshell:0.255', 'reportedly:0.2333', 'investigate:0.2252', 'treachery:0.222', 'audiotape:0.2168', 'know:0.2108', 'heard:0.1863', 'chong:0.1824', 'diss:0.1763', 'meet:0.1739', 'world:0.1687', 'radar:0.1606', 'decade:0.1598', 'ramble:0.1471', 'amid:0.1442', 'react:0.1356', 'grant:0.1334', 'tone:0.131', 'hour:0.1135', 'great:0.1121', 'relocate:0.0957']+titles_keywords+['seagal:0.4745', 'cia:0.4348', 'putin:0.3827', 'boasts:0.174', 'recording:0.1516']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/aceshowbiz.com/BAFTAs 2022 Millie Bobby Brown and BF Make Debut as Couple Emma Watson Stuns on.txt+eventbasecode51+eventcode51+avgtone0.5217391304347826+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['baftas:0.6152', 'celebrities:0.3942', 'tuxedo:0.3461', 'meghan:0.3455', 'dress:0.3351', 'hairstyle:0.2934', 'gaga:0.2853', 'millie:0.2831', 'nomination:0.2725', 'romance:0.2503', 'royal:0.2422', 'arrival:0.2367', 'cumberbatch:0.2252', 'diss:0.2233', 'jewelry:0.2183', 'london:0.212', 'event:0.2114', 'brown:0.2055', 'strap:0.2034', 'pugh:0.1942', 'stunning:0.1864', 'say:0.1853', 'th:0.1751', 'valli:0.1727', 'saw:0.1709', 'complete:0.1596', 'big:0.1572', 'plus:0.1567', 'role:0.1539', 'tiered:0.1377']+titles_keywords+['baftas:0.3984', 'emma:0.365', 'brown:0.3056', 'couple:0.2737', '2022:0.2192']"
+        ]
+    ]
+}

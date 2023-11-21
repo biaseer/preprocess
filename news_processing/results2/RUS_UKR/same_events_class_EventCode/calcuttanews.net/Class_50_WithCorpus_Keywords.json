@@ -1,0 +1,12 @@
+{
+    "ARE+RUS+50":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/calcuttanews.net/Contrary to plans Wizz Air to not resume RussiaUAE flights to.txt+eventbasecode50+eventcode50+avgtone0.47926267281105994+goldsteinscale0.675+nummentions0.28519593613933236+numarticles0.2857142857142857+numsources0.2565789473684211+news_keywords+['dhabi:0.4263', 'moscow:0.4167', 'flight:0.3436', 'russiauae:0.3161', 'theairline:0.3037', 'boycott:0.2871', 'suspend:0.2675', 'sanction:0.2538', 'supply:0.2157', 'capital:0.2063', 'european:0.1913', 'statement:0.1814', 'twitter:0.1772', 'contrary:0.1741', 'venture:0.1701', 'invasion:0.1689', 'sovereign:0.1683', 'respond:0.1664', 'neutral:0.1617', 'february:0.1603', 'say:0.1504', 'criticism:0.1483', 'wizz:0.1482', 'stance:0.146', 'adq:0.1353', 'plan:0.1344', 'list:0.1205', 'th:0.1178', 'note:0.1082', 'percent:0.0932']+titles_keywords+['flights:0.3875', 'russiauae:0.3697', 'wizz:0.238', 'contrary:0.1682', 'resume:0.0811']"
+        ]
+    ],
+    "EUR+RUS+50":[
+        [
+            "20220113+../news_crawling/RUS_UKR/p_articles/calcuttanews.net/OSCE Meeting Ends No Movement Made In RussiaUkraine Crisis.txt+eventbasecode50+eventcode50+avgtone0.4894736842105263+goldsteinscale0.675+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['nato:0.4564', 'osce:0.4523', 'diplomacy:0.4346', 'crimea:0.3844', 'kremlin:0.3493', 'escalation:0.2983', 'meeting:0.2842', 'vladimir:0.2809', 'europeradio:0.2428', 'reassure:0.2124', 'vienna:0.2085', 'chairmanship:0.1978', 'deploy:0.1908', 'prospect:0.1897', 'exchange:0.1843', 'border:0.1773', 'ends:0.1668', 'prepare:0.1626', 'movement:0.1616', 'week:0.1419', 'ally:0.1366', 'images:0.1169', 'sphere:0.1166', 'long:0.1158', 'near:0.1152', 'seek:0.1108', 'deadlock:0.1072', 'official:0.1043', 'hear:0.0903', 'difference:0.0555']+titles_keywords+['osce:0.4426', 'russiaukraine:0.3483', 'meeting:0.2421', 'ends:0.2261', 'movement:0.2046']"
+        ]
+    ]
+}

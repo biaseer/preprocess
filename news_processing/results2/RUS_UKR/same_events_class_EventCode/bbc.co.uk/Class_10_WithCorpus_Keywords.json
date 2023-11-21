@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Telegram founder commits to Ukraine user privacy.txt+eventbasecode10+eventcode10+avgtone0.48053892215568866+goldsteinscale0.5+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.01644736842105263+news_keywords+['telegram:0.5545', 'disinformation:0.3352', 'privacy:0.3297', 'plaintext:0.3135', 'government:0.3122', 'social:0.3064', 'ukrainians:0.2976', 'concern:0.2845', 'database:0.2691', 'follow:0.2664', 'read:0.2628', 'language:0.2504', 'volodymyr:0.2354', 'sanction:0.2306', 'involve:0.2276', 'publish:0.2236', 'feature:0.222', 'channels:0.2203', 'founder:0.2099', 'durov:0.2041', 'fsb:0.1894', 'safe:0.1862', 'cogufcjbqdc:0.1805', 'order:0.1795', 'logically:0.1706', 'plug:0.1679', 'end:0.1647', 'significant:0.1551', 'reportedly:0.1237', 'week:0.1051']+titles_keywords+['telegram:0.4721', 'privacy:0.3378', 'ukraine:0.3322', 'founder:0.1911', 'commits:0.0906']"
+        ],
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine roundup Russia takes Lysychansk and border city hit.txt+eventbasecode10+eventcode10+avgtone0.4797008547008547+goldsteinscale0.5+nummentions0.017053701015965168+numarticles0.017766497461928935+numsources0.009868421052631578+news_keywords+['ukraine:0.5364', 'sergei:0.3615', 'saratov:0.3586', 'military:0.2838', 'detonation:0.2519', 'rogov:0.2491', 'operation:0.2491', 'roundup:0.2486', 'fight:0.2462', 'border:0.244', 'trauma:0.2421', 'strategic:0.2363', 'tank:0.2321', 'industrial:0.2279', 'berdyansk:0.2216', 'occupied:0.2135', 'trench:0.1999', 'block:0.1957', 'learn:0.1952', 'salvage:0.1735', 'topic:0.172', 'governor:0.1657', 'board:0.1632', 'km:0.1605', 'march:0.1591', 'university:0.1523', 'dozen:0.1363', 'let:0.1291', 'withdraw:0.1161', 'verify:0.1058']+titles_keywords+['ukraine:0.5228', 'lysychansk:0.37', 'border:0.3208', 'roundup:0.3054', 'hit:0.248']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [],
+        [],
+        [
+            "20220621+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Russian journalists Nobel medal sells for 1035m.txt+eventbasecode10+eventcode10+avgtone0.546875+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.006578947368421052+news_keywords+['nobel:0.4732', 'muratov:0.4056', 'russia:0.3644', 'dmitry:0.3637', 'russian:0.3514', 'award:0.351', 'journalist:0.3362', 'ukraine:0.3342', 'novaya:0.3105', 'medal:0.3061', 'prize:0.3036', 'auction:0.3', 'refugee:0.2797', 'newspaper:0.278', 'sell:0.241', 'money:0.2283', 'peace:0.21', 'sale:0.2039', 'war:0.1915', 'freedom:0.1875', 'editor:0.1607', 'gazeta:0.1383', 'expression:0.1287', 'independent:0.1213', 'help:0.0761', 'defend:0.0698', 'say:0.0667', 'chief:-0.0361']+titles_keywords+['nobel:0.4552', '1035m:0.33', 'russian:0.3246', 'journalists:0.3226', 'sells:0.238']"
+        ]
+    ]
+}

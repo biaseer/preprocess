@@ -1,0 +1,30 @@
+{
+    "RUS+BGR+10":[
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/shorenewsnetwork.com/Oil prices edge up as worldwide supply concerns remain at the fore.txt+eventbasecode10+eventcode10+avgtone0.4653333333333333+goldsteinscale0.5+nummentions0.04644412191582003+numarticles0.04713560551124003+numsources0.03618421052631579+news_keywords+['oil:0.4746', 'exxon:0.4713', 'roubles:0.3584', 'supply:0.3418', 'gallon:0.2948', 'coronavirus:0.2628', 'moscow:0.2535', 'worry:0.2514', 'invasion:0.2353', 'stock:0.2349', 'president:0.233', 'future:0.2284', 'escalate:0.2217', 'analysis:0.217', 'information:0.202', 'wednesday:0.1909', 'policy:0.1846', 'expectation:0.1792', 'drawdown:0.1759', 'worldwide:0.173', 'brent:0.1693', 'closing:0.1602', 'rally:0.1558', 'price:0.1471', 'fore:0.1461', 'long:0.139', 'fossil:0.135', 'subsequent:0.1337', 'say:0.1281', 'include:0.0923']+titles_keywords+['oil:0.3126', 'edge:0.2407', 'prices:0.1813', 'concerns:0.1432', 'worldwide:0.0867']"
+        ]
+    ],
+    "RUS+DEU+10":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/shorenewsnetwork.com/Deutsche Bank to wind down in Russia reversing course after backlash.txt+eventbasecode10+eventcode10+avgtone0.4882032667876588+goldsteinscale0.5+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.009868421052631578+news_keywords+['russia:0.437', 'reuters:0.4093', 'bank:0.396', 'moscows:0.3913', 'jpmorgan:0.3426', 'deutsche:0.3369', 'multinational:0.3082', 'capital:0.3059', 'investment:0.2918', 'sachs:0.283', 'corruption:0.2781', 'executive:0.276', 'euros:0.2738', 'disclose:0.2529', 'sanction:0.239', 'investigate:0.2374', 'invasion:0.207', 'stay:0.1957', 'argue:0.183', 'deteriorate:0.1665', 'end:0.1594', 'day:0.1566', 'regroup:0.1546', 'reverse:0.1528', 'trade:0.1513', 'significant:0.1442', 'faced:0.1411', 'completely:0.137', 'december:0.1184', 'chizu:0.0886']+titles_keywords+['deutsche:0.3601', 'russia:0.316', 'bank:0.2868', 'reversing:0.2186', 'backlash:0.1618']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/shorenewsnetwork.com/Anxious Ukrainians recall last words with loved ones in besieged Mariupol.txt+eventbasecode10+eventcode10+avgtone0.47529940119999997+goldsteinscale0.5+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.013157894736842105+news_keywords+['crimea:0.4825', 'ukrainians:0.4317', 'usenko:0.375', 'war:0.332', 'olga:0.3268', 'mulika:0.3261', 'bombardment:0.3198', 'humanitarian:0.3017', 'survive:0.2977', 'reuters:0.2961', 'operation:0.2918', 'information:0.2797', 'reunite:0.2578', 'government:0.2556', 'telephone:0.239', 'hear:0.238', 'write:0.2291', 'disarm:0.2243', 'love:0.2207', 'message:0.22', 'anatoliy:0.2173', 'relatives:0.212', 'anxious:0.2087', 'page:0.2006', 'turn:0.1845', 'apartment:0.1566', 'mile:0.1469', 'uha:0.1467', 'hundreds:0.1412', 'havent:0.0207']+titles_keywords+['ukrainians:0.44', 'besieged:0.3139', 'anxious:0.2278', 'recall:0.2086', 'loved:0.2032']"
+        ]
+    ],
+    "RWA+UKR+10":[
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/shorenewsnetwork.com/Pope wants to visit Moscow to meet Putin over Ukraine paper.txt+eventbasecode10+eventcode10+avgtone0.48606271777003485+goldsteinscale0.5+nummentions0.00544267053701016+numarticles0.006163886874546773+numsources0.006578947368421052+news_keywords+['putin:0.4481', 'vaticans:0.3809', 'kyiv:0.369', 'orthodox:0.3536', 'natos:0.3335', 'diplomat:0.3138', 'conflict:0.2642', 'visit:0.2605', 'meet:0.229', 'rwanda:0.2282', 'demilitarise:0.2059', 'pastor:0.1995', 'invasion:0.1932', 'neighbour:0.1663', 'boy:0.165', 'atrocity:0.1503', 'know:0.1488', 'allow:0.1435', 'receive:0.1411', 'extend:0.1382', 'refer:0.137', 'newspaper:0.1288', 'possibility:0.1279', 'asked:0.1232', 'leave:0.1166', 'plan:0.113', 'end:0.1085', 'week:0.0781', 'francesca:0.0685', 'osmond:0.0604']+titles_keywords+['putin:0.3689', 'pope:0.3612', 'visit:0.1995', 'paper:0.1379', 'wants:0.0575']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220806+../news_crawling/RUS_UKR/p_articles/shorenewsnetwork.com/US readies new 1 billion Ukraine weapons package.txt+eventbasecode10+eventcode10+avgtone0.4900793650793651+goldsteinscale0.5+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraines:0.4852', 'putin:0.3872', 'pentagon:0.3458', 'troop:0.3078', 'reuters:0.3006', 'ammunition:0.2974', 'annex:0.2515', 'security:0.2279', 'plan:0.2237', 'nasams:0.2225', 'conflict:0.2219', 'million:0.2195', 'fund:0.2172', 'separatist:0.2154', 'receive:0.2153', 'presidential:0.2035', 'unclear:0.2001', 'advanced:0.1952', 'stock:0.193', 'friday:0.1879', 'kill:0.1868', 'approves:0.1668', 'term:0.1663', 'ready:0.1615', 'make:0.1539', 'drawdown:0.1451', 'long:0.1323', 'largely:0.1139', 'prepositioned:0.1006', 'little:0.0783']+titles_keywords+['ukraine:0.3351', 'readies:0.3311', 'package:0.3202', 'weapons:0.2957', 'billion:0.1497']"
+        ],
+        [
+            "20220820+../news_crawling/RUS_UKR/p_articles/shorenewsnetwork.com/Russian missiles rain on Ukraine as war nears halfyear mark.txt+eventbasecode10+eventcode10+avgtone0.4720338983050848+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['crimea:0.5213', 'soviet:0.4729', 'putin:0.4607', 'moscows:0.4524', 'demilitarise:0.3425', 'razvozhayev:0.3318', 'terrorist:0.3199', 'invasion:0.2956', 'nuclear:0.2944', 'casualties:0.287', 'valentyn:0.2765', 'inform:0.2756', 'headline:0.2646', 'howitzers:0.2644', 'telegram:0.2289', 'nations:0.2234', 'concern:0.2171', 'prepare:0.2145', 'fighting:0.2064', 'flee:0.1979', 'east:0.1963', 'nears:0.1844', 'hit:0.1814', 'word:0.1753', 'order:0.1654', 'wednesday:0.1475', 'times:0.1429', 'embroil:0.1135', 'halfyear:0.1099', 'export:0.1069']+titles_keywords+['missiles:0.4229', 'ukraine:0.4057', 'halfyear:0.2789', 'rain:0.2241', 'nears:0.1792']"
+        ]
+    ]
+}

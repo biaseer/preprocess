@@ -1,0 +1,12 @@
+{
+    "AUT+UKR+12":[
+        [
+            "20220417+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Austrian Chancellor Says Putin Willing to Take Part in International Probe on War Crimes in.txt+eventbasecode12+eventcode12+avgtone0.47633136094674555+goldsteinscale0.48+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5007', 'kiev:0.4152', 'investigation:0.3378', 'yugoslavia:0.3079', 'humanitarian:0.3068', 'nazi:0.2725', 'prosecute:0.2611', 'zelensky:0.2518', 'nehammer:0.2161', 'inform:0.2107', 'crisis:0.1945', 'peace:0.1906', 'wary:0.1778', 'visit:0.1594', 'chancellor:0.1548', 'donbass:0.1422', 'future:0.1413', 'willingness:0.1353', 'promised:0.1341', 'bucha:0.1335', 'battle:0.1324', 'independent:0.1317', 'corridor:0.1275', 'prior:0.1242', 'point:0.1146', 'says:0.1091', 'unit:0.1041', 'official:0.0859', 'add:0.0729', 'maybe:0.0513']+titles_keywords+['putin:0.4432', 'austrian:0.2714', 'willing:0.1851', 'probe:0.1807', 'says:0.0394']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220101+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Ukraine Unilaterally Closes Ports to Russian Ships.txt+eventbasecode12+eventcode12+avgtone0.4707446808510638+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.4681', 'putin:0.4043', 'treaty:0.3289', 'government:0.3226', 'sanction:0.3107', 'shipbuilding:0.3005', 'coup:0.2909', 'ports:0.2826', 'unilaterally:0.2776', 'economic:0.2373', 'flag:0.2274', 'verkhovna:0.219', 'operate:0.2062', 'tension:0.2054', 'aggressor:0.1981', 'cite:0.19', 'know:0.184', 'prepare:0.1807', 'counterpart:0.1651', 'pretext:0.16', 'river:0.1573', 'entry:0.1549', 'deterioration:0.1491', 'continue:0.1485', 'trade:0.1211', 'tonnage:0.119', 'thursday:0.1038', 'way:0.0906', 'new:0.082', 'dtat:0.0715']+titles_keywords+['ukraine:0.4236', 'ports:0.3016', 'unilaterally:0.2595', 'ships:0.2323', 'closes:0.1922']"
+        ]
+    ]
+}

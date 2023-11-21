@@ -1,0 +1,17 @@
+{
+    "IND+UKR+42":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/webindia123.com/Indian students in Ukraine priority for government world is witnessing difficult phase in international relationships.txt+eventbasecode42+eventcode42+avgtone0.4990791896869245+goldsteinscale0.595+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['crimea:0.4844', 'geopolitics:0.4374', 'ukrainian:0.3898', 'nato:0.3726', 'putin:0.3523', 'donetsk:0.3494', 'diplomatic:0.3395', 'conflict:0.2902', 'evacuation:0.2508', 'remain:0.224', 'independence:0.1937', 'position:0.1874', 'delhi:0.1841', 'want:0.1774', 'developments:0.1747', 'operate:0.1743', 'neighbouring:0.1713', 'states:0.1519', 'foreign:0.1456', 'study:0.1426', 'important:0.1328', 'sure:0.129', 'emphasize:0.1268', 'direct:0.1139', 'breakaway:0.1125', 'ani:0.1058', 'shashank:0.1054', 'say:0.1041', 'longer:0.0881', 'monday:0.0683']+titles_keywords+['ukraine:0.419', 'students:0.3021', 'indian:0.2597', 'priority:0.1991', 'secretary:0.1955']"
+        ]
+    ],
+    "KOR+UKR+42":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/webindia123.com/South Korea to issue travel documents to Ukrainians without passports.txt+eventbasecode42+eventcode42+avgtone0.5085910652920963+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['korea:0.3366', 'evacuation:0.3101', 'ukrainians:0.2937', 'visa:0.2469', 'procedure:0.2463', 'donetsk:0.2355', 'humanitarian:0.2249', 'urgent:0.1817', 'provocation:0.1613', 'issue:0.1483', 'republic:0.1437', 'enact:0.1434', 'military:0.135', 'receive:0.1282', 'sibling:0.1277', 'stay:0.1209', 'status:0.1154', 'enter:0.1136', 'simplify:0.1133', 'breakaway:0.1022', 'additional:0.1007', 'march:0.1005', 'roll:0.0744', 'expiration:0.0743', 'day:0.0674', 'enable:0.0621', 'term:0.0537', 'long:0.0507', 'exactly:0.0431', 'anisputnik:0.0396']+titles_keywords+['ukrainians:0.3589', 'passports:0.3523', 'korea:0.3296', 'documents:0.1501', 'issue:0.028']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/webindia123.com/RussiaUkraine conflict Train carrying relief material leaves from Lviv for Kyiv.txt+eventbasecode42+eventcode42+avgtone0.47950819672131145+goldsteinscale0.595+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['ceasefire:0.5035', 'kyiv:0.4944', 'evacuation:0.4275', 'russiaukraine:0.4266', 'putin:0.4148', 'humanitarian:0.3448', 'military:0.2628', 'train:0.2474', 'news:0.2389', 'sputnik:0.2141', 'report:0.2134', 'catastrophic:0.1799', 'march:0.1795', 'corridor:0.179', 'response:0.1663', 'read:0.1624', 'help:0.1594', 'statement:0.1541', 'gmt:0.1485', 'interdepartmental:0.1482', 'open:0.1434', 'aggravation:0.1404', 'cite:0.1321', 'control:0.1209', 'cover:0.1143', 'include:0.111', 'center:0.0799', 'state:0.0784', 'ani:0.0773', 'milk:0.0686']+titles_keywords+['kyiv:0.5041', 'russiaukraine:0.4731', 'train:0.364', 'conflict:0.1983', 'leaves:0.1506']"
+        ]
+    ]
+}

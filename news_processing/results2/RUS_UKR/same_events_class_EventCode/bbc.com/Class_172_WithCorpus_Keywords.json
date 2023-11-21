@@ -1,0 +1,22 @@
+{
+    "IRL+RUS+172":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine invasion Irelands response will not be found wanting.txt+eventbasecode172+eventcode172+avgtone0.46846846846846846+goldsteinscale0.25+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.01644736842105263+news_keywords+['ukraine:0.4451', 'putin:0.4116', 'irelands:0.322', 'invasion:0.3066', 'sanction:0.2909', 'oligarchs:0.2854', 'taoiseach:0.2347', 'peace:0.2315', 'aircraft:0.2217', 'humanitarian:0.2088', 'instead:0.2006', 'byrne:0.1994', 'bloc:0.1991', 'blood:0.1913', 'history:0.1865', 'abstain:0.1862', 'soon:0.1857', 'want:0.1653', 'morning:0.1618', 'swift:0.1567', 'lethal:0.1344', 'control:0.1331', 'line:0.127', 'unified:0.1241', 'current:0.1151', 'big:0.1047', 'thousand:0.092', 'registered:0.0836', 'including:0.0694', 'make:0.0617']+titles_keywords+['irelands:0.458', 'ukraine:0.422', 'invasion:0.3855', 'response:0.1998', 'wanting:0.1648']"
+        ]
+    ],
+    "RUS+RUS+172":[
+        [
+            "20220402+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine Why the cartoon Masyanya was banned in Russia.txt+eventbasecode172+eventcode172+avgtone0.4909909909909909+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4579', 'oleg:0.3992', 'russian:0.3937', 'kuvaev:0.3679', 'masyanya:0.3584', 'cartoon:0.3545', 'ban:0.3254', 'war:0.2227', 'bbc:0.2114', 'laugh:0.1804', 'channel:0.1797', 'animate:0.1767', 'emigrate:0.1756', 'federation:0.1707', 'series:0.1462', 'publish:0.1456', 'heroine:0.1383', 'force:0.1362', 'mischievous:0.1253', 'soon:0.1235', 'discredit:0.1086', 'ago:0.1048', 'popular:0.0943', 'arm:0.0927', 'speaker:0.0828', 'bring:0.0789', 'way:0.0488', 'subscribed:0.0422', 'million:0.0328', 'praise:0.0271']+titles_keywords+['masyanya:0.4288', 'ukraine:0.4093', 'russia:0.3789', 'banned:0.3068', 'cartoon:0.3019']"
+        ]
+    ],
+    "RUS+UKR+172":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine war EU plans Russian oil ban and war crimes sanctions.txt+eventbasecode172+eventcode172+avgtone0.47063369397217936+goldsteinscale0.25+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.5128', 'embargo:0.4182', 'kremlin:0.4091', 'rossiya:0.3808', 'vaclav:0.3195', 'economy:0.315', 'oil:0.3138', 'propaganda:0.279', 'transnistria:0.2579', 'threat:0.2368', 'pipeline:0.2286', 'read:0.2141', 'oppose:0.2096', 'sector:0.2092', 'submit:0.199', 'output:0.189', 'plan:0.1868', 'petr:0.1799', 'know:0.178', 'complicit:0.1641', 'yourquestionsbbc:0.1607', 'global:0.1607', 'reduce:0.1502', 'end:0.1489', 'sure:0.1457', 'long:0.1409', 'list:0.1398', 'boy:0.139', 'fall:0.1325', 'exactly:0.1089']+titles_keywords+['ukraine:0.4253', 'sanctions:0.4221', 'war:0.3441', 'ban:0.2501', 'plans:0.1152']"
+        ]
+    ],
+    "UKR+RUS+172":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine invasion I had to leave my parents in Sumy.txt+eventbasecode172+eventcode172+avgtone0.46551724137999995+goldsteinscale0.25+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.013157894736842105+news_keywords+['ukraine:0.4278', 'russian:0.3587', 'invasion:0.326', 'frontline:0.3221', 'border:0.2618', 'shell:0.2323', 'leave:0.2294', 'sumy:0.2236', 'parent:0.2169', 'water:0.1781', 'power:0.1294', 'cut:0.109', 'close:0.0874', 'heavy:0.0779', 'experience:0.0392']+titles_keywords+['ukraine:0.5455', 'invasion:0.4252', 'parents:0.3455', 'sumy:0.3007', 'leave:0.2881']"
+        ]
+    ]
+}

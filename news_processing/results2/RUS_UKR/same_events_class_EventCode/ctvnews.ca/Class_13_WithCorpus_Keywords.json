@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+13":[
+        [
+            "20220521+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Putins invasion of Ukraine an act of madness former UK PM Blair says.txt+eventbasecode13+eventcode13+avgtone0.47667910447761197+goldsteinscale0.52+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.4239', 'ctvnews:0.3747', 'recession:0.3438', 'parliament:0.3123', 'column:0.3', 'expand:0.2878', 'predict:0.287', 'term:0.2837', 'write:0.2823', 'podium:0.2821', 'change:0.2815', 'information:0.2792', 'riot:0.27', 'morning:0.2675', 'sanction:0.2644', 'stem:0.2593', 'week:0.2534', 'stab:0.2437', 'end:0.2281', 'spacex:0.2273', 'bombshell:0.226', 'cartoonists:0.2191', 'rational:0.2171', 'murdaugh:0.212', 'covid:0.2047', 'shrug:0.2002', 'heming:0.1846', 'big:0.1825', 'agree:0.1793', 'export:0.1413']+titles_keywords+['blair:0.4254', 'ukraine:0.3718', 'madness:0.3574', 'invasion:0.3088', 'act:0.1288']"
+        ],
+        [
+            "20220728+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Russia attacks Kyiv area for the first time in weeks.txt+eventbasecode13+eventcode13+avgtone0.48002421307506055+goldsteinscale0.52+nummentions0.22387518142235124+numarticles0.22443799854967367+numsources0.48355263157894735+news_keywords+['kyiv:0.5608', 'kremlin:0.4455', 'revolution:0.3795', 'territory:0.3084', 'separatist:0.3007', 'government:0.2997', 'poltava:0.282', 'journalist:0.2658', 'pandemic:0.2634', 'expand:0.2578', 'commemoration:0.2536', 'report:0.2358', 'underway:0.2343', 'remind:0.2331', 'fight:0.2268', 'retreat:0.2232', 'stab:0.2225', 'stem:0.2163', 'northern:0.2134', 'anticipate:0.2099', 'telegram:0.2063', 'artillery:0.1979', 'combine:0.1943', 'friday:0.1925', 'general:0.1866', 'bucha:0.1748', 'ford:0.1691', 'end:0.1569', 'longer:0.1567', 'export:0.1274']+titles_keywords+['kyiv:0.5433', 'russia:0.275', 'attacks:0.2399', 'weeks:0.1078', 'area:0.0625']"
+        ]
+    ]
+}

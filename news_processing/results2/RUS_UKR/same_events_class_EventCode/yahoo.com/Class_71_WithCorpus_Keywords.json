@@ -1,0 +1,13 @@
+{
+    "RUS+UKR+71":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russia agrees in principle to evacuations from Mariupol steel plant.txt+eventbasecode71+eventcode71+avgtone0.4829059829059829+goldsteinscale0.8699999999999999+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['kyiv:0.4857', 'putin:0.4559', 'evacuate:0.3857', 'russias:0.3516', 'war:0.3447', 'humanitarian:0.304', 'zelensky:0.2597', 'involvement:0.2467', 'federation:0.2338', 'mobilize:0.2318', 'steel:0.2028', 'continue:0.1937', 'general:0.19', 'assistance:0.1699', 'order:0.1685', 'happen:0.1623', 'noting:0.1612', 'visit:0.1585', 'speak:0.1529', 'severe:0.1497', 'violation:0.1463', 'plant:0.1424', 'amid:0.1311', 'port:0.1299', 'difference:0.1283', 'ready:0.123', 'agree:0.1117', 'weekend:0.102', 'guterres:0.0911', 'possible:0.0706']+titles_keywords+['evacuations:0.3079', 'russia:0.2998', 'mariupol:0.2524', 'steel:0.2459', 'agrees:0.077']"
+        ]
+    ],
+    "UKR+RUS+71":[
+        [],
+        [
+            "20220627+../news_crawling/RUS_UKR/p_articles/yahoo.com/Peoples war Ukraine Russia crowdfunding gear for troops.txt+eventbasecode71+eventcode71+avgtone0.49174428450465707+goldsteinscale0.8699999999999999+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['ukraine:0.528', 'troop:0.4452', 'kremlin:0.438', 'pysarenko:0.3363', 'guerre:0.3266', 'fundraise:0.314', 'logistics:0.3076', 'artillery:0.3056', 'initiative:0.2768', 'peoples:0.2694', 'drone:0.2627', 'capital:0.2457', 'oppose:0.2437', 'aggressor:0.2231', 'orchestra:0.2127', 'surge:0.2119', 'donbas:0.2004', 'source:0.1975', 'savvy:0.1969', 'slogan:0.1943', 'long:0.1924', 'cryptocurrency:0.1919', 'help:0.1909', 'convert:0.1768', 'range:0.1745', 'tablet:0.1616', 'writes:0.1613', 'ready:0.1563', 'include:0.1495', 'feb:0.1472']+titles_keywords+['troops:0.4963', 'ukraine:0.4785', 'crowdfunding:0.4059', 'war:0.3745', 'gear:0.328']"
+        ]
+    ]
+}

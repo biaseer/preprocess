@@ -1,0 +1,38 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine crisis should reawaken Africas awareness of food independence.txt+eventbasecode61+eventcode61+avgtone0.4333333333333335+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['africa:0.5269', 'ukraine:0.4816', 'africas:0.4338', 'russia:0.3762', 'kampala:0.358', 'food:0.3242', 'conflict:0.3162', 'pandemic:0.2854', 'hungry:0.2641', 'independence:0.2589', 'grain:0.2474', 'crisis:0.2439', 'covid:0.2391', 'awareness:0.2137', 'import:0.2084', 'situation:0.1682', 'escalate:0.1646', 'communities:0.1601', 'xinhua:0.1494', 'ongoing:0.146', 'continue:0.1418', 'june:0.1224', 'price:0.1194', 'exacerbating:0.1131', 'bad:0.1035', 'pay:0.0932', 'relies:0.0716', 'compound:0.0668', 'far:0.0644', 'reawaken:0.063']+titles_keywords+['ukraine:0.4224', 'africas:0.355', 'food:0.3324', 'independence:0.3271', 'crisis:0.2338']"
+        ],
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/wn.com/Russias New Export Stolen Ukrainian Grain.txt+eventbasecode61+eventcode61+avgtone0.4464285714285715+goldsteinscale0.82+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['russia:0.4484', 'ukraines:0.4403', 'ukrainian:0.4022', 'grain:0.3956', 'russias:0.389', 'steal:0.2839', 'drought:0.2695', 'stolen:0.2638', 'export:0.2381', 'originate:0.2093', 'country:0.2063', 'territory:0.199', 'market:0.1795', 'sell:0.1726', 'accuse:0.1661', 'african:0.1521', 'global:0.1503', 'halt:0.1364', 'new:0.1134', 'claim:0.1111', 'allegedly:0.1044', 'contributor:0.0923', 'tonne:0.0792', 'experience:0.0511', 'multiple:0.0444', 'official:0.0393', 'approximately:0.0363', 'large:0.0044']+titles_keywords+['ukrainian:0.4285', 'russias:0.407', 'grain:0.3859', 'stolen:0.3114', 'export:0.2971']"
+        ]
+    ],
+    "GBR+RUS+61":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/wn.com/Matt Ridley UK sitting on gas gold mine so madness not to frack.txt+eventbasecode61+eventcode61+avgtone0.4788732394366197+goldsteinscale0.82+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['ukraine:0.3893', 'russia:0.3644', 'britain:0.35', 'gas:0.3455', 'uk:0.2728', 'energy:0.2346', 'skyrocket:0.2343', 'import:0.2291', 'war:0.2277', 'ridley:0.2214', 'billion:0.2037', 'foreign:0.1983', 'spend:0.1964', 'track:0.1735', 'household:0.1656', 'rely:0.1433', 'gold:0.1409', 'frack:0.1366', 'matt:0.1321', 'natural:0.1319', 'madness:0.1307', 'year:0.1268', 'happen:0.1235', 'sit:0.1199', 'rage:0.1179', 'liquefied:0.1112', 'stagger:0.0826', 'hit:0.0285']+titles_keywords+['ridley:0.4678', 'gas:0.4083', 'frack:0.3918', 'madness:0.1939', 'uk:0.1612']"
+        ]
+    ],
+    "IND+RUS+61":[
+        [
+            "20220511+../news_crawling/RUS_UKR/p_articles/wn.com/Indias imports from Russia rise 3 folds since Ukraine conflict.txt+eventbasecode61+eventcode61+avgtone0.4761904761904762+goldsteinscale0.82+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['russia:0.3716', 'ukraine:0.3564', 'india:0.3261', 'import:0.3238', 'indias:0.2742', 'increase:0.255', 'delhi:0.195', 'conflict:0.1771', 'rise:0.1262', 'billion:0.1231', 'xinhua:0.1199', 'report:0.1071', 'western:0.0798', 'pressure:0.0767', 'dollar:0.0743', 'attribute:0.066', 'threefold:0.0584', 'new:0.0522', 'nation:0.0498', 'newspaper:0.0473', 'jump:0.0407', 'despite:0.039', 'year:0.0346', 'begin:0.0279', 'wednesday:0.0047', 'fold:0.0045', 'say:-0.0001', 'local:-0.0221', 'witness:-0.0256']+titles_keywords+['ukraine:0.3825', 'imports:0.2603', 'indias:0.2478', 'conflict:0.1782', 'rise:0.14']"
+        ]
+    ],
+    "RUS+ARG+61":[
+        [
+            "20220726+../news_crawling/RUS_UKR/p_articles/wn.com/UkraineRussia crisis impacts Indias crude sunflower oil imports.txt+eventbasecode61+eventcode61+avgtone0.46875+goldsteinscale0.82+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.449', 'ukrainerussia:0.373', 'oil:0.3316', 'russia:0.3121', 'sunflower:0.2676', 'india:0.249', 'indias:0.231', 'argentina:0.2135', 'import:0.1879', 'crisis:0.1761', 'lakh:0.1368', 'june:0.1329', 'crude:0.1011', 'inform:0.0893', 'february:0.073', 'fell:0.0624', 'number:0.0416', 'year:0.0371', 'statement:0.0287', 'tuesday:0.0221', 'parliament:0.0114', 'impact:0.0075', 'write:0.0064', 'tonne:-0.0016', 'majorly:-0.0105', 'wake:-0.0149', 'cent:-0.0152']+titles_keywords+['oil:0.3692', 'sunflower:0.3114', 'ukrainerussia:0.293', 'crisis:0.1536', 'imports:0.1233']"
+        ]
+    ],
+    "RUS+UKR+61":[
+        [
+            "20220820+../news_crawling/RUS_UKR/p_articles/wn.com/Russiacontrolled Zaporizhzhia says its exporting up to 7000 T of grain per day.txt+eventbasecode61+eventcode61+avgtone0.4915254237288136+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['zaporizhzhia:0.4572', 'ukraine:0.4544', 'russia:0.4167', 'moscow:0.3928', 'russian:0.3841', 'russiacontrolled:0.3439', 'grain:0.3403', 'export:0.2518', 'produce:0.2518', 'region:0.2381', 'reuters:0.2352', 'coverage:0.1786', 'southeastern:0.1597', 'restrict:0.1467', 'military:0.1458', 'day:0.1316', 'operation:0.1295', 'tonne:0.1258', 'control:0.1175', 'aug:0.1172', 'say:0.0928', 'summary:0.0716', 'content:0.0627', 'law:0.0497', 'instal:-0.0169']+titles_keywords+['zaporizhzhia:0.4479', 'grain:0.3584', 'russiacontrolled:0.3527', '7000:0.2301', 'exporting:0.2283']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220612+../news_crawling/RUS_UKR/p_articles/wn.com/Gujarats diamond industry hit hard by RussiaUkraine war.txt+eventbasecode61+eventcode61+avgtone0.47457627118644063+goldsteinscale0.82+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['diamond:0.4762', 'gujarats:0.4278', 'gujarat:0.4101', 'industry:0.3184', 'ukraine:0.2952', 'livelihood:0.2803', 'war:0.2601', 'russia:0.2372', 'russiaukraine:0.2241', 'lakhs:0.2226', 'saurashtra:0.2044', 'polish:0.195', 'processing:0.1738', 'import:0.1591', 'rural:0.1463', 'worker:0.1458', 'region:0.1353', 'state:0.1169', 'adversely:0.0922', 'hit:0.0884', 'affect:0.0744', 'accord:0.0718', 'unit:0.0701', 'hard:0.0496', 'especially:0.0284', 'size:0.0279', 'small:-0.0031', 'representative:-0.0157']+titles_keywords+['gujarats:0.42', 'diamond:0.4059', 'war:0.3068', 'russiaukraine:0.2503', 'industry:0.2206']"
+        ],
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine and Russia sign deal to export millions of tonsof grain.txt+eventbasecode61+eventcode61+avgtone0.4855072463768116+goldsteinscale0.82+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4965', 'ukrainian:0.439', 'russia:0.3769', 'russian:0.3428', 'turkey:0.3384', 'istanbul:0.278', 'grain:0.2612', 'deal:0.2522', 'agreement:0.236', 'export:0.231', 'fertilizer:0.2047', 'globe:0.1875', 'food:0.1699', 'need:0.1563', 'nations:0.1353', 'security:0.1264', 'sign:0.1225', 'threaten:0.1179', 'million:0.1136', 'standoff:0.1107', 'ton:0.1036', 'wartime:0.0946', 'separate:0.0943', 'clear:0.0898', 'friday:0.0642', 'way:0.0617', 'tonsof:0.0551', 'end:0.0479', 'desperately:0.0278', 'united:0.0236']+titles_keywords+['ukraine:0.3708', 'grain:0.258', 'deal:0.2552', 'export:0.2308', 'millions:0.0528']"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "POL+UKR+173":[
+        [
+            "20211119+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/Ransomware Persists Even as HighProfile Attacks Have Slowed.txt+eventbasecode173+eventcode173+avgtone0.46310832025117743+goldsteinscale0.25+nummentions0.14078374455732948+numarticles0.1414068165337201+numsources0.15789473684210525+news_keywords+['ransomware:0.6204', 'cybersecurity:0.4662', 'extradition:0.3357', 'victims:0.3276', 'currency:0.2893', 'warn:0.2722', 'severity:0.2624', 'backup:0.2582', 'trend:0.2484', 'government:0.2465', 'sector:0.2456', 'email:0.2455', 'europe:0.2451', 'know:0.2334', 'data:0.2291', 'shortage:0.2187', 'discover:0.2109', 'complicating:0.2084', 'lock:0.1943', 'culprit:0.194', 'crowdstrike:0.193', 'updates:0.1921', 'peskov:0.1896', 'june:0.1883', 'nakasone:0.1773', 'tabloid:0.1649', 'resume:0.1418', 'theyve:0.1407', 'longer:0.1336', 'highprofile:0.1029']+titles_keywords+['ransomware:0.6113', 'highprofile:0.3078', 'persists:0.2015', 'attacks:0.1639', 'slowed:0.1161']"
+        ]
+    ],
+    "RUS+UKR+173":[
+        [
+            "20211202+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/US Warns Russia as Kremlin Talks About War Threat in Ukraine.txt+eventbasecode173+eventcode173+avgtone0.4742268041237114+goldsteinscale0.25+nummentions0.13243831640058054+numarticles0.13306744017403915+numsources0.14473684210526316+news_keywords+['natos:0.4921', 'ukraines:0.4713', 'putin:0.4401', 'diplomacy:0.4003', 'kyiv:0.3845', 'destabilization:0.3815', 'cybersecurity:0.2985', 'invasion:0.2851', 'strategic:0.2698', 'annex:0.2581', 'eastward:0.2561', 'escalate:0.2469', 'coup:0.2292', 'skirmish:0.2097', 'worry:0.1986', 'trigger:0.18', 'assertion:0.1689', 'term:0.1438', 'prepared:0.1419', 'thursday:0.1303', 'fsb:0.1201', 'pledge:0.1144', 'prevent:0.1069', 'long:0.1055', 'say:0.1051', 'slide:0.0997', 'follow:0.0985', 'include:0.0672', 'deal:0.0453', 'doesnt:0.0405']+titles_keywords+['kremlin:0.4361', 'ukraine:0.3704', 'warns:0.3061', 'war:0.2714', 'threat:0.2645']"
+        ],
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/Ukraine 410 Civilian Bodies Found Near Kyiv.txt+eventbasecode173+eventcode173+avgtone0.4649532710280374+goldsteinscale0.25+nummentions0.07982583454281568+numarticles0.08049311094996374+numsources0.08223684210526316+news_keywords+['kyiv:0.5897', 'civilians:0.4362', 'russias:0.3068', 'zelenskyy:0.291', 'vereshchuk:0.2532', 'volodymyr:0.2393', 'killing:0.2269', 'harrow:0.2126', 'occupied:0.2106', 'suburbs:0.2043', 'body:0.1906', 'report:0.1748', 'iryna:0.1469', 'atrocity:0.1428', 'video:0.1421', 'crisis:0.1367', 'address:0.1358', 'freak:0.1355', 'live:0.1332', 'specialist:0.1273', 'update:0.1245', 'know:0.1226', 'removed:0.1161', 'bucha:0.1149', 'coverage:0.1119', 'friday:0.0896', 'president:0.0883', 'allegedly:0.0815', 'facebook:0.0765', 'retake:-0.0073']+titles_keywords+['kyiv:0.4775', 'bodies:0.3346', '410:0.3217', 'civilian:0.2549', 'near:0.0434']"
+        ]
+    ],
+    "UKR+RUS+173":[
+        [
+            "20220507+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/Croatian Citizen Fighting for Ukraine Detained by Russians.txt+eventbasecode173+eventcode173+avgtone0.4631578947368421+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['ukrainian:0.5099', 'croatian:0.4723', 'russians:0.4265', 'croatia:0.3997', 'troop:0.3179', 'detained:0.2865', 'nazi:0.2323', 'citizen:0.2141', 'fight:0.206', 'hrt:0.1718', 'bombardment:0.1718', 'crisis:0.155', 'mariupol:0.1432', 'report:0.1423', 'celebrate:0.1307', 'strategic:0.1282', 'port:0.1242', 'flee:0.1193', 'update:0.1192', 'alongside:0.1045', 'authority:0.1026', 'day:0.1007', 'steel:0.0906', 'state:0.0807', 'immediately:0.0787', 'sensitivity:0.0717', 'click:0.069', 'offer:0.0289', 'man:0.0226', 'medium:0.0196']+titles_keywords+['croatian:0.427', 'ukraine:0.3872', 'detained:0.3579', 'citizen:0.2325', 'fighting:0.1642']"
+        ]
+    ]
+}

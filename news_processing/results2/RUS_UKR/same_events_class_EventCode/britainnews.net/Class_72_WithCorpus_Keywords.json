@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+72":[
+        [
+            "20220129+../news_crawling/RUS_UKR/p_articles/britainnews.net/Russia accuses US of using Ukraine.txt+eventbasecode72+eventcode72+avgtone0.45759368836291914+goldsteinscale0.915+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.019736842105263157+news_keywords+['ukraine:0.4483', 'kremlin:0.4074', 'dmitry:0.3424', 'war:0.3136', 'invasion:0.3126', 'escalation:0.309', 'diplomatic:0.2852', 'evacuate:0.2829', 'rhetoric:0.2732', 'politicize:0.2701', 'president:0.2409', 'dangerous:0.2295', 'border:0.2189', 'occur:0.2134', 'cnn:0.189', 'shortly:0.1766', 'consulates:0.1736', 'accuse:0.1714', 'volodymyr:0.1703', 'ambiguous:0.1678', 'authorize:0.1607', 'know:0.1602', 'use:0.1577', 'counterpart:0.1431', 'order:0.1416', 'remark:0.1411', 'arm:0.112', 'month:0.1116', 'groundless:0.0999', 'grow:0.0834']+titles_keywords+['ukraine:0.4315', 'russia:0.3459', 'accuses:0.2873', 'using:0.1817']"
+        ],
+        [
+            "20220511+../news_crawling/RUS_UKR/p_articles/britainnews.net/Success of Lockheed Martins Javelin means doubling of production.txt+eventbasecode72+eventcode72+avgtone0.5+goldsteinscale0.915+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.03289473684210526+news_keywords+['lockheed:0.5111', 'missile:0.4505', 'raytheon:0.4404', 'javelins:0.4206', 'ukraine:0.3388', 'ammunition:0.3234', 'howitzer:0.3207', 'war:0.2843', 'production:0.2815', 'stinger:0.2753', 'bethesda:0.2713', 'tank:0.2521', 'technologies:0.2315', 'armor:0.2228', 'success:0.1999', 'anticipate:0.1889', 'package:0.1729', 'news:0.1642', 'increase:0.1638', 'executive:0.1569', 'worth:0.1489', 'billion:0.1402', 'report:0.1349', 'current:0.1259', 'nearly:0.1175', 'turn:0.1135', 'approve:0.1037', 'long:0.1034', 'february:0.0985', 'immediately:0.0776']+titles_keywords+['javelin:0.5306', 'lockheed:0.4449', 'production:0.2847', 'doubling:0.255', 'martins:0.2245']"
+        ]
+    ]
+}

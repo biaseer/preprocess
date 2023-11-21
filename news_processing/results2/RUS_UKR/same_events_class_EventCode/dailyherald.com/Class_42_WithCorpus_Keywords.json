@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+42":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/dailyherald.com/Leaders pledge arms and EU path for Ukraine in Kyiv visit.txt+eventbasecode42+eventcode42+avgtone0.48214285714285715+goldsteinscale0.595+nummentions0.25217706821480407+numarticles0.2527193618564177+numsources0.3157894736842105+news_keywords+['ukraine:0.5029', 'putin:0.4141', 'revolution:0.321', 'macron:0.3123', 'meeting:0.2669', 'prepare:0.2638', 'election:0.2561', 'infrastructure:0.2502', 'news:0.2337', 'weaponry:0.231', 'pledge:0.2254', 'agreement:0.225', 'facilitate:0.216', 'iohannis:0.2159', 'bloc:0.2158', 'sanction:0.2055', 'scare:0.2042', 'soon:0.2034', 'hemisphere:0.2022', 'want:0.1874', 'geir:0.1801', 'text:0.1775', 'continue:0.1724', 'powerful:0.1707', 'transit:0.1597', 'long:0.1467', 'closer:0.1207', 'export:0.1156', 'focus:0.0874', 'billion:0.0832']+titles_keywords+['kyiv:0.4484', 'eu:0.2884', 'pledge:0.2873', 'leaders:0.252', 'arms:0.2421']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/dailyherald.com/Elgin shows support for victims of invasion of Ukraine.txt+eventbasecode42+eventcode42+avgtone0.5+goldsteinscale0.595+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.023026315789473683+news_keywords+['elgin:0.5683', 'ukrainians:0.4718', 'war:0.3632', 'invasion:0.3609', 'russia:0.3221', 'solidarity:0.3083', 'victim:0.3064', 'gather:0.264', 'plaza:0.2362', 'attendee:0.2309', 'toll:0.2175', 'vigil:0.2026', 'help:0.1955', 'center:0.1868', 'love:0.1801', 'safety:0.178', 'orchestra:0.1777', 'dark:0.1684', 'thea:0.1553', 'kornelius:0.1538', 'lose:0.1526', 'information:0.1477', 'organizer:0.1453', 'civic:0.1376', 'say:0.1183', 'rev:0.1171', 'today:0.1121', 'brother:0.1119', 'presbyterian:0.1044', 'cloud:0.0838']+titles_keywords+['elgin:0.563', 'ukraine:0.4162', 'victims:0.3405', 'invasion:0.3264', 'shows:0.1552']"
+        ]
+    ]
+}

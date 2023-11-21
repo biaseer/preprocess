@@ -1,0 +1,12 @@
+{
+    "IRL+UKR+51":[
+        [
+            "20220804+../news_crawling/RUS_UKR/p_articles/agriland.ie/IGFA welcomes resumption of grain exports from ports in Ukraine.txt+eventbasecode51+eventcode51+avgtone0.4974937343358396+goldsteinscale0.67+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4241', 'grain:0.3536', 'famine:0.3233', 'shipment:0.3045', 'oilseeds:0.2725', 'feed:0.2417', 'threat:0.2317', 'ports:0.2259', 'northern:0.222', 'import:0.216', 'yield:0.2095', 'gallagher:0.1941', 'establish:0.1883', 'trade:0.1693', 'igfa:0.1476', 'agreement:0.1442', 'executive:0.141', 'resumption:0.1362', 'report:0.1357', 'direct:0.1289', 'spring:0.1284', 'odesa:0.1259', 'insurance:0.1255', 'soon:0.1252', 'high:0.1168', 'whyte:0.0942', 'irrespective:0.0934', 'welcome:0.093', 'possible:0.0655', 'cost:0.0607']+titles_keywords+['ukraine:0.3222', 'igfa:0.3206', 'grain:0.3205', 'ports:0.2596', 'resumption:0.1551']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220805+../news_crawling/RUS_UKR/p_articles/agriland.ie/Commission approves 110m to support Austrian agriproducers.txt+eventbasecode51+eventcode51+avgtone0.5278884462151394+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['agricultural:0.3887', 'ukraine:0.3871', 'produce:0.3189', 'greenhouse:0.3167', 'geopolitical:0.2622', 'aidtemporary:0.2083', 'support:0.2067', 'agriproducers:0.1989', 'fund:0.1956', 'input:0.1814', 'market:0.1788', 'republicwhich:0.1748', 'increase:0.1724', 'invasion:0.1697', 'ensure:0.1614', 'sector:0.1583', 'coordinate:0.1553', 'sanction:0.134', 'june:0.1306', 'approve:0.12', 'executive:0.1157', 'related:0.1141', 'receive:0.1112', 'include:0.1025', 'scheme:0.093', 'continue:0.0924', 'cause:0.0888', 'cost:0.0629', 'entitle:0.0482', 'say:0.0312']+titles_keywords+['agriproducers:0.406', 'austrian:0.3332', '110m:0.1981', 'approves:0.1932', 'commission:0.1898']"
+        ]
+    ]
+}

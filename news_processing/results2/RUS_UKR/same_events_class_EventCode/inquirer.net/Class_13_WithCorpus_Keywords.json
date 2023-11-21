@@ -1,0 +1,12 @@
+{
+    "PHL+RUS+13":[
+        [
+            "20220615+../news_crawling/RUS_UKR/p_articles/inquirer.net/Cebu City govt promises to pursue plan to set up fuel depot at SRP.txt+eventbasecode13+eventcode13+avgtone0.5061224489795919+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['cebu:0.4209', 'fuel:0.3788', 'govt:0.3043', 'policy:0.2876', 'subsidize:0.2866', 'siya:0.2835', 'read:0.2747', 'plan:0.2682', 'problem:0.2594', 'establish:0.258', 'carillo:0.2558', 'increase:0.2515', 'kaning:0.2404', 'wala:0.2356', 'point:0.2252', 'srp:0.2218', 'consumer:0.2201', 'na:0.2127', 'address:0.2122', 'program:0.2044', 'depot:0.198', 'card:0.1941', 'cost:0.192', 'reduction:0.1841', 'share:0.1797', 'sure:0.1461', 'year:0.132', 'dynamic:0.1227', 'welcome:0.1078', 'far:0.0859']+titles_keywords+['cebu:0.4335', 'fuel:0.3226', 'srp:0.3137', 'depot:0.2622', 'plan:0.1761']"
+        ]
+    ],
+    "RUS+UKR+13":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/inquirer.net/Kremlin says no significant progress in peace talks with Ukraine.txt+eventbasecode13+eventcode13+avgtone0.5037735849056604+goldsteinscale0.52+nummentions0.027213352685050797+numarticles0.027918781725888325+numsources0.029605263157894735+news_keywords+['kyiv:0.474', 'putin:0.434', 'peskov:0.3858', 'russias:0.3605', 'negotiate:0.3309', 'peace:0.3293', 'reutersvladyslav:0.315', 'progress:0.2731', 'surrender:0.2495', 'speaking:0.2139', 'news:0.2057', 'invasion:0.1857', 'willingness:0.181', 'meet:0.1733', 'continue:0.1714', 'counterpart:0.1614', 'monday:0.1596', 'military:0.1592', 'acknowledge:0.1561', 'philippine:0.1478', 'read:0.1335', 'terms:0.1163', 'title:0.1088', 'privacy:0.1073', 'plus:0.1039', 'unacceptable:0.1026', 'possible:0.1009', 'center:0.0875', 'far:0.084', 'gadget:0.041']+titles_keywords+['kremlin:0.3992', 'ukraine:0.3668', 'progress:0.3166', 'peace:0.2495', 'talks:0.1827']"
+        ]
+    ]
+}

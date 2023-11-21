@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/asiaone.com/Ukraine president Zelenskiy insists on meeting with Putin.txt+eventbasecode180+eventcode180+avgtone0.4754299754299754+goldsteinscale0.05+nummentions0.06422351233671988+numarticles0.06490210297316897+numsources0.07236842105263158+news_keywords+['putin:0.4384', 'ukraine:0.4168', 'nato:0.3325', 'war:0.2836', 'zelenskiy:0.2692', 'meet:0.261', 'compromise:0.2589', 'talk:0.2429', 'agreement:0.2253', 'occupy:0.2177', 'want:0.2033', 'urgent:0.1987', 'understand:0.1896', 'future:0.1889', 'separatist:0.1868', 'kill:0.181', 'instead:0.1671', 'leader:0.1644', 'end:0.1643', 'prepared:0.1614', 'certain:0.1445', 'month:0.1407', 'coming:0.1295', 'repeat:0.1236', 'withdraw:0.0991', 'number:0.0982', 'link:0.0877', 'nearly:0.0807', 'sort:0.0703', 'truly:-0.0119']+titles_keywords+['zelenskiy:0.5116', 'putin:0.3702', 'ukraine:0.2972', 'meeting:0.2757', 'insists:0.0451']"
+        ],
+        [
+            "20220510+../news_crawling/RUS_UKR/p_articles/asiaone.com/Biden says he is worried Putin does not have a way out of Ukraine war.txt+eventbasecode180+eventcode180+avgtone0.4726775956284153+goldsteinscale0.05+nummentions0.022496371552975326+numarticles0.023205221174764323+numsources0.023026315789473683+news_keywords+['putin:0.5435', 'russian:0.3613', 'invade:0.3553', 'biden:0.3543', 'nato:0.3423', 'kyiv:0.3282', 'worry:0.2513', 'prepare:0.2208', 'political:0.2026', 'read:0.1744', 'potomac:0.1732', 'beat:0.1605', 'speaking:0.1602', 'monday:0.1592', 'say:0.1515', 'month:0.1246', 'believe:0.1161', 'union:0.1159', 'problem:0.1141', 'mistakenly:0.1141', 'break:0.109', 'fundraiser:0.1088', 'figure:0.1068', 'gain:0.1037', 'right:0.0999', 'calculate:0.0868', 'huge:0.074', 'man:0.0713', 'resistance:0.0594', 'pour:0.0503']+titles_keywords+['putin:0.4555', 'biden:0.4452', 'worried:0.2603', 'war:0.2102', 'way:0.0708']"
+        ]
+    ]
+}

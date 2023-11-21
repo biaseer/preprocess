@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+10":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/rnz.co.nz/Ukraine war Russia says it will curb Kyiv assault as peace talks progress.txt+eventbasecode10+eventcode10+avgtone0.4894736842105263+goldsteinscale0.5+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.478', 'ceasefire:0.4317', 'nato:0.3925', 'putin:0.3755', 'diplomatic:0.3388', 'neutral:0.2697', 'escalation:0.2661', 'operation:0.2473', 'agreement:0.2386', 'status:0.1997', 'capital:0.1976', 'news:0.1913', 'involve:0.1902', 'medinsky:0.188', 'reduce:0.1874', 'industrial:0.1851', 'remain:0.1758', 'fix:0.1742', 'tank:0.1709', 'corridor:0.1628', 'secretary:0.1567', 'volodymyr:0.1563', 'signal:0.1473', 'word:0.1453', 'unclear:0.1302', 'aforementioned:0.13', 'encircle:0.1234', 'draw:0.1186', 'approved:0.1123', 'twist:0.0935']+titles_keywords+['kyiv:0.4698', 'peace:0.2439', 'assault:0.2152', 'curb:0.0865', 'says:0.0671']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/rnz.co.nz/Massive cyberattack hits Ukrainian government websites amid Russia tensions.txt+eventbasecode10+eventcode10+avgtone0.4700996677740864+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['cyberattack:0.5864', 'kyiv:0.3929', 'attack:0.3415', 'government:0.3397', 'nato:0.3366', 'hacked:0.3198', 'security:0.3161', 'reuters:0.2852', 'warning:0.2417', 'data:0.2229', 'destroy:0.2167', 'investigation:0.2081', 'provocation:0.2074', 'future:0.2042', 'subject:0.1883', 'hit:0.1686', 'affair:0.1619', 'response:0.1611', 'persuade:0.1599', 'write:0.1536', 'restore:0.1435', 'usual:0.1422', 'inaccessible:0.1398', 'possible:0.1385', 'continue:0.1372', 'foreign:0.122', 'come:0.117', 'cabinet:0.1006', 'long:0.089', 'upload:0.0791']+titles_keywords+['cyberattack:0.4932', 'ukrainian:0.3817', 'websites:0.2497', 'government:0.2277', 'tensions:0.1311']"
+        ]
+    ]
+}

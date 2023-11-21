@@ -1,0 +1,22 @@
+{
+    "EUR+RUS+130":[
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/gazetteandherald.co.uk/Taoiseach restates solidarity with Ukraine as he arrives in Kyiv.txt+eventbasecode130+eventcode130+avgtone0.4937185929648241+goldsteinscale0.27999999999999997+nummentions0.2706821480406386+numarticles0.271211022480058+numsources0.33223684210526316+news_keywords+['ukraine:0.4727', 'putins:0.3602', 'taoiseach:0.3565', 'irelands:0.3387', 'refugee:0.3365', 'troop:0.2695', 'terror:0.2371', 'unprovoked:0.2127', 'zelensky:0.2107', 'coveney:0.2035', 'escalate:0.2034', 'solidarity:0.2034', 'ahead:0.2023', 'sanction:0.2003', 'arrive:0.1972', 'bombardment:0.1966', 'suspect:0.1831', 'debate:0.1826', 'neighbouring:0.1817', 'oleksii:0.1784', 'capital:0.1763', 'want:0.1636', 'important:0.1584', 'bucha:0.143', 'lively:0.1362', 'winter:0.1096', 'equipment:0.096', 'fully:0.0952', 'short:0.0886', 'welcome:0.0856']+titles_keywords+['taoiseach:0.4504', 'kyiv:0.3981', 'solidarity:0.305', 'arrives:0.1935', 'restates:0.0943']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/gazetteandherald.co.uk/Truss draws up hit list of oligarchs to face sanctions over Ukraine.txt+eventbasecode130+eventcode130+avgtone0.475177304964539+goldsteinscale0.27999999999999997+nummentions0.4477503628447025+numarticles0.448150833937636+numsources0.4473684210526316+news_keywords+['putin:0.525', 'ukraines:0.4773', 'oligarchs:0.4627', 'kyiv:0.4467', 'sanction:0.3046', 'sovereignty:0.3024', 'tory:0.2861', 'table:0.276', 'telegraph:0.2751', 'secretary:0.2526', 'invasion:0.2487', 'unprovoked:0.2399', 'pursue:0.2353', 'affair:0.2246', 'prepare:0.2185', 'know:0.2033', 'truss:0.1967', 'hide:0.1786', 'evidence:0.163', 'end:0.1607', 'long:0.1574', 'lively:0.1493', 'suggest:0.1429', 'step:0.1408', 'properly:0.1368', 'sure:0.133', 'weve:0.1227', 'ratchet:0.1188', 'world:0.1123', 'week:0.1059']+titles_keywords+['oligarchs:0.449', 'sanctions:0.419', 'truss:0.4115', 'ukraine:0.3588', 'list:0.2469']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/gazetteandherald.co.uk/Ukraine officials come under shelling attack on front as invasion fears rise.txt+eventbasecode130+eventcode130+avgtone0.4641180415828303+goldsteinscale0.27999999999999997+nummentions0.3076923076923077+numarticles0.30819434372733867+numsources0.7203947368421053+news_keywords+['ukraine:0.4904', 'kremlin:0.412', 'invade:0.3488', 'evacuate:0.3468', 'escalation:0.3175', 'peaceful:0.3147', 'political:0.3017', 'mobilisation:0.2952', 'prepare:0.2858', 'military:0.2715', 'sinenkov:0.2708', 'news:0.2675', 'nuclear:0.257', 'justify:0.2501', 'worry:0.2405', 'report:0.227', 'trouble:0.227', 'casualty:0.2254', 'know:0.2199', 'secretary:0.214', 'capital:0.2118', 'watch:0.2035', 'pretext:0.2004', 'order:0.195', 'industrial:0.1907', 'pledge:0.1892', 'pull:0.1853', 'final:0.1717', 'weekend:0.1607', 'separate:0.1576']+titles_keywords+['ukraine:0.3279', 'attack:0.2758', 'fears:0.2148', 'shelling:0.1761', 'officials:0.1504']"
+        ]
+    ],
+    "WST+UKR+130":[
+        [
+            "20211130+../news_crawling/RUS_UKR/p_articles/gazetteandherald.co.uk/Putin warns West Russia has red line over Ukraine.txt+eventbasecode130+eventcode130+avgtone0.48721399730820997+goldsteinscale0.27999999999999997+nummentions0.25616835994194487+numarticles0.25670775924583034+numsources0.23355263157894737+news_keywords+['crimea:0.5516', 'putin:0.5355', 'natos:0.4615', 'soviet:0.4435', 'moscows:0.3942', 'ceasefire:0.3395', 'invade:0.298', 'seerussiahttps:0.2838', 'strategic:0.2752', 'nuclear:0.2697', 'border:0.2609', 'eastward:0.226', 'command:0.2036', 'worry:0.1999', 'develop:0.1991', 'debate:0.196', 'constitution:0.1897', 'range:0.1894', 'agreement:0.1882', 'privilege:0.1762', 'enter:0.161', 'current:0.1522', 'longer:0.15', 'red:0.1402', 'zircon:0.1347', 'pandemic:0.1318', 'possibility:0.0958', 'millet:0.0873', 'enjoy:0.0809', 'decade:0.0648']+titles_keywords+['putin:0.4386', 'line:0.2953', 'warns:0.2184', 'red:0.2091', 'west:0.1055']"
+        ]
+    ]
+}

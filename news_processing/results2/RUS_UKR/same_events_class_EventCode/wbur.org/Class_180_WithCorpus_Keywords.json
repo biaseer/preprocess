@@ -1,0 +1,14 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/wbur.org/Attack on Ukrainian nuclear plant triggers worldwide alarm.txt+eventbasecode180+eventcode180+avgtone0.45293315143246926+goldsteinscale0.05+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.019736842105263157+news_keywords+['kyiv:0.4208', 'chernobyl:0.4158', 'nato:0.3771', 'airstrikes:0.3672', 'putins:0.3076', 'disaster:0.2886', 'reactor:0.2843', 'azov:0.2608', 'pentagon:0.2598', 'alarm:0.2578', 'strategic:0.2361', 'battle:0.2277', 'unprovoked:0.2167', 'scary:0.2023', 'news:0.197', 'cite:0.1902', 'separatist:0.1855', 'flee:0.1664', 'agreement:0.1626', 'appear:0.1516', 'forward:0.1489', 'global:0.1379', 'contemplate:0.136', 'surround:0.1347', 'adviser:0.128', 'fund:0.1222', 'stoltenberg:0.0928', 'scale:0.0864', 'blush:0.0795', 'welcome:0.0762']+titles_keywords+['nuclear:0.4137', 'ukrainian:0.3401', 'alarm:0.2469', 'attack:0.2294', 'plant:0.1465']"
+        ],
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/wbur.org/Russia steps up bombardment of Kyiv as civilians flee Mariupol.txt+eventbasecode180+eventcode180+avgtone0.47253634894991925+goldsteinscale0.05+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kyiv:0.5684', 'evacuation:0.44', 'airstrikes:0.4259', 'demilitarize:0.3763', 'russias:0.3661', 'nato:0.3634', 'troop:0.2748', 'barrage:0.2545', 'sinehubov:0.2309', 'journalist:0.2261', 'kaczynski:0.225', 'conflict:0.2179', 'intensify:0.2', 'leave:0.1997', 'mush:0.193', 'siren:0.1862', 'kilometer:0.1747', 'immediately:0.1728', 'april:0.1637', 'nightmare:0.1615', 'north:0.1613', 'brace:0.1576', 'law:0.1572', 'ap:0.1437', 'main:0.142', 'lived:0.1309', 'building:0.1254', 'adjacent:0.1229', 'longer:0.11', 'true:0.0425']+titles_keywords+['kyiv:0.5405', 'bombardment:0.3546', 'civilians:0.3136', 'flee:0.2384', 'mariupol:0.2191']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [],
+        []
+    ]
+}

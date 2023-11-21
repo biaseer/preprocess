@@ -1,0 +1,12 @@
+{
+    "RUS+BLR+36":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/abcactionnews.com/Kremlin says Russia agrees to talks with Ukraine.txt+eventbasecode36+eventcode36+avgtone0.506993006993007+goldsteinscale0.7+nummentions0.5653120464441219+numarticles0.5627266134880348+numsources0.5493421052631579+news_keywords+['putin:0.4804', 'ukraine:0.4655', 'nato:0.4167', 'kremlin:0.4148', 'dmitry:0.4063', 'minsk:0.3821', 'zelenskyy:0.358', 'peskov:0.349', 'negotiate:0.3036', 'demilitarize:0.2688', 'reuters:0.2417', 'talk:0.1959', 'willing:0.1933', 'delegation:0.1736', 'table:0.1724', 'come:0.1446', 'prompt:0.1331', 'offer:0.1277', 'order:0.1272', 'death:0.1201', 'sit:0.1131', 'people:0.101', 'report:0.1004', 'official:0.0971', 'friday:0.0957', 'associated:0.0791', 'statement:0.072', 'agree:0.0699', 'accord:0.069', 'video:0.0631']+titles_keywords+['kremlin:0.3902', 'ukraine:0.3818', 'talks:0.1962', 'agrees:0.0534', 'says:0.0371']"
+        ]
+    ],
+    "RUS+GBR+36":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/abcactionnews.com/UN Security Council to meet on Ukraine Thursday ahead of vote on Russian humanitarian solution.txt+eventbasecode36+eventcode36+avgtone0.48324022346368717+goldsteinscale0.7+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['ukraine:0.4613', 'humanitarian:0.328', 'war:0.3261', 'meeting:0.2807', 'council:0.2558', 'evacuate:0.2504', 'nations:0.2237', 'threat:0.1952', 'schedule:0.1664', 'friday:0.1587', 'mission:0.1551', 'safe:0.1445', 'people:0.1405', 'vote:0.1367', 'request:0.1289', 'united:0.1283', 'ahead:0.1242', 'resolution:0.1228', 'neighbor:0.1218', 'solution:0.1211', 'draft:0.1052', 'tweet:0.0849', 'seek:0.0782', 'body:0.0687', 'pause:0.0616', 'illegal:0.0525', 'underscore:0.051', 'agree:0.0479', 'make:0.0469', 'circulate:0.0439']+titles_keywords+['ukraine:0.3761', 'humanitarian:0.2567', 'council:0.2313', 'thursday:0.1961', 'solution:0.1387']"
+        ]
+    ]
+}

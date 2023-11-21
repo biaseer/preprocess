@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+36":[
+        [
+            "20220809+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Hungarian oil company says flows via Druzhba pipeline halted.txt+eventbasecode36+eventcode36+avgtone0.4789473684210527+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4111', 'pipeline:0.3935', 'oil:0.324', 'transit:0.311', 'druzhba:0.2969', 'supply:0.2388', 'pump:0.2084', 'problem:0.1882', 'ukrtransnafta:0.1853', 'halt:0.1557', 'stock:0.1504', 'negotiation:0.1492', 'efe:0.1442', 'fell:0.1432', 'reserve:0.1289', 'mol:0.1255', 'obligation:0.1203', 'statement:0.1086', 'central:0.1052', 'impose:0.0992', 'start:0.0939', 'branch:0.0819', 'aug:0.0793', 'operator:0.0741', 'share:0.0645', 'confirm:0.0538', 'related:0.0519', 'information:0.0498', 'week:0.0385', 'completely:0.0379']+titles_keywords+['druzhba:0.3666', 'pipeline:0.3661', 'oil:0.2661', 'halted:0.2578', 'hungarian:0.2473']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20220617+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Ukraine will not host Eurovision 2023 due to Russian invasion.txt+eventbasecode36+eventcode36+avgtone0.4932432432432432+goldsteinscale0.7+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['eurovision:0.6185', 'ukraines:0.4228', 'russian:0.2863', 'host:0.2788', 'broadcasting:0.2573', 'contest:0.2347', 'bbc:0.2236', 'war:0.2031', 'security:0.1764', 'issue:0.1749', 'song:0.1601', 'circumstance:0.1573', 'party:0.151', 'statement:0.1508', 'feasibility:0.1375', 'conclude:0.1356', 'current:0.1246', 'cause:0.1241', 'year:0.12', 'united:0.117', 'include:0.1138', 'hold:0.1125', 'disappointment:0.1044', 'produce:0.099', 'organize:0.0979', 'efe:0.0863', 'kingdom:0.082', 'given:0.0735', 'study:0.0586', 'geneva:0.0437']+titles_keywords+['eurovision:0.4734', 'ukraine:0.473', 'invasion:0.253', '2023:0.2468', 'host:0.1903']"
+        ]
+    ],
+    "WST+UKR+36":[
+        [
+            "20220110+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Russia tells US not planning to attack Ukraine.txt+eventbasecode36+eventcode36+avgtone0.485969387755102+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['natos:0.4984', 'putin:0.3883', 'diplomatic:0.3415', 'kievs:0.3207', 'olga:0.2799', 'attack:0.27', 'troop:0.2629', 'escalation:0.2495', 'border:0.2442', 'osce:0.2173', 'meet:0.2022', 'sherman:0.2017', 'agreement:0.1913', 'plan:0.191', 'concern:0.1905', 'warn:0.1865', 'term:0.1519', 'hold:0.1484', 'stipulate:0.148', 'general:0.1418', 'counterpart:0.1384', 'forward:0.1376', 'state:0.1238', 'efe:0.1159', 'televise:0.1086', 'united:0.0997', 'week:0.0946', 'price:0.0757', 'possible:0.0743', 'double:0.0713']+titles_keywords+['ukraine:0.405', 'russia:0.3179', 'attack:0.216', 'planning:0.1524', 'tells:0.0241']"
+        ]
+    ]
+}

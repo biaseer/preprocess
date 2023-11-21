@@ -1,0 +1,17 @@
+{
+    "NZL+RUS+12":[
+        [
+            "20220204+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/Kiwi in Ukraine says its calm near the frontline as threat of Russian invasion looms.txt+eventbasecode12+eventcode12+avgtone0.4857784431137725+goldsteinscale0.48+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimea:0.5213', 'ukrainians:0.4274', 'putin:0.3813', 'nato:0.3524', 'invade:0.3464', 'conflict:0.3183', 'separatist:0.3171', 'journalist:0.3044', 'frontline:0.2889', 'read:0.2782', 'border:0.2721', 'government:0.2527', 'prepare:0.2484', 'tank:0.247', 'weaponry:0.229', 'speak:0.2241', 'want:0.2208', 'simmer:0.2141', 'donestk:0.2138', 'alert:0.2118', 'town:0.206', 'kiwi:0.2026', 'pretext:0.1972', 'like:0.1971', 'fall:0.1827', 'zelensky:0.1807', 'km:0.1787', 'continue:0.1787', 'look:0.1629', 'big:0.0995']+titles_keywords+['kiwi:0.4559', 'ukraine:0.3362', 'frontline:0.3082', 'calm:0.2746', 'near:0.1254']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/Russian forces take Chernobyl zone Ukraine says raising fears of ecological disaster.txt+eventbasecode12+eventcode12+avgtone0.46072013093289693+goldsteinscale0.48+nummentions0.09216255442670537+numarticles0.09209572153734591+numsources0.10855263157894737+news_keywords+['chernobyl:0.682', 'nuclear:0.4056', 'kremlin:0.3812', 'radioactively:0.3511', 'gorbachev:0.3506', 'russian:0.286', 'coronavirus:0.2731', 'yaroslav:0.2575', 'safer:0.2131', 'warn:0.2049', 'operation:0.1989', 'contaminate:0.1864', 'repository:0.1681', 'thyroid:0.1674', 'reconstruction:0.1595', 'plant:0.1476', 'artillery:0.1416', 'collapse:0.1297', 'transform:0.1276', 'population:0.116', 'tornado:0.115', 'world:0.1141', 'accident:0.1138', 'exposure:0.1107', 'north:0.1071', 'significance:0.1003', 'study:0.0984', 'worker:0.097', 'complete:0.0519', 'decade:0.0372']+titles_keywords+['chernobyl:0.548', 'russian:0.2548', 'ecological:0.1276', 'zone:0.1115', 'says:0.0449']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/Cut Russian Kiwis some slack they are us as well.txt+eventbasecode12+eventcode12+avgtone0.4708029197080292+goldsteinscale0.48+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.006578947368421052+news_keywords+['russians:0.4421', 'radicalisation:0.3801', 'islamophobic:0.3144', 'kiwi:0.2776', 'bully:0.266', 'war:0.26', 'forget:0.2483', 'demonise:0.2149', 'plight:0.2138', 'read:0.2093', 'acknowledge:0.2049', 'happen:0.2024', 'point:0.198', 'world:0.1838', 'empathetic:0.1821', 'day:0.1819', 'heritage:0.1804', 'blair:0.1771', 'opinion:0.1734', 'meme:0.16', 'speech:0.1534', 'christchurch:0.1517', 'km:0.1505', 'identify:0.1487', 'rightly:0.1455', 'stand:0.1297', 'quick:0.1273', 'infringement:0.1195', 'doesnt:0.0884', 'theyve:0.0793']+titles_keywords+['kiwis:0.5626', 'russian:0.3371', 'cut:0.0905', 'slack:0.0398']"
+        ]
+    ]
+}

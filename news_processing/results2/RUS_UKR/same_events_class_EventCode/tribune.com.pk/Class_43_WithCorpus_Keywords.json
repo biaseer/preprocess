@@ -1,0 +1,12 @@
+{
+    "CHN+UKR+43":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Dangerous RussiaUkraine standoff.txt+eventbasecode43+eventcode43+avgtone0.47047619047619044+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.497', 'russiaukraine:0.4461', 'putin:0.4224', 'kievan:0.3907', 'russias:0.3793', 'russification:0.3642', 'war:0.3094', 'standoff:0.272', 'strategic:0.2702', 'instability:0.2508', 'scenario:0.2216', 'instigate:0.2116', 'concern:0.2112', 'russo:0.2028', 'debate:0.1875', 'topple:0.17', 'corridor:0.152', 'want:0.1512', 'comprehend:0.1444', 'editorial:0.1339', 'standpoint:0.1284', 'extent:0.1271', 'grow:0.1265', 'eastern:0.1249', 'current:0.1247', 'th:0.1172', 'avert:0.1145', 'later:0.109', 'utilise:0.0976', 'major:0.0955']+titles_keywords+['russiaukraine:0.5793', 'standoff:0.5363', 'dangerous:0.3317']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220613+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Moscow visit one of the factors behind Imrans ouster Russian envoy.txt+eventbasecode43+eventcode43+avgtone0.47857142857142854+goldsteinscale0.64+nummentions0.03918722786647315+numarticles0.03988397389412618+numsources0.05592105263157895+news_keywords+['conspiracy:0.3746', 'moscow:0.3559', 'pakistan:0.3214', 'invasion:0.309', 'allegation:0.3086', 'memorandum:0.3002', 'affair:0.2918', 'imran:0.2872', 'ouster:0.273', 'ambassador:0.2617', 'negotiation:0.2559', 'government:0.254', 'khans:0.2526', 'oil:0.2005', 'topic:0.1961', 'interfere:0.196', 'happen:0.1896', 'know:0.1849', 'intend:0.1567', 'pms:0.1531', 'superpower:0.1414', 'april:0.1409', 'pti:0.1252', 'factor:0.1206', 'channel:0.1204', 'day:0.1173', 'comment:0.1144', 'precisely:0.103', 'offer:0.086', 'internal:0.0777']+titles_keywords+['moscow:0.4393', 'imrans:0.4286', 'envoy:0.2895', 'ouster:0.2717', 'factors:0.0997']"
+        ]
+    ]
+}

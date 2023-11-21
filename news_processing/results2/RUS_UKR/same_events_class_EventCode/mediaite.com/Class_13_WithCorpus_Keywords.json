@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+13":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/mediaite.com/This is Where the Media Fails Jim Cramer Rips the Press for Encouraging Stock Market.txt+eventbasecode13+eventcode13+avgtone0.4832474226804123+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4279', 'cnbcs:0.4256', 'cramer:0.3565', 'news:0.3338', 'panic:0.3302', 'media:0.3251', 'kyiv:0.3', 'stock:0.2592', 'happen:0.2562', 'bank:0.2417', 'manifestos:0.2399', 'sanction:0.2339', 'conflict:0.2302', 'usa:0.2036', 'lehman:0.1984', 'bad:0.1907', 'conclude:0.1898', 'statement:0.1846', 'fool:0.1792', 'disconnect:0.1708', 'monday:0.1663', 'fortune:0.1585', 'raze:0.1511', 'like:0.1426', 'editor:0.141', 'encourage:0.1391', 'big:0.1176', 'wont:0.0984', 'doesnt:0.0916', 'unbeatable:0.0793']+titles_keywords+['cramer:0.4053', 'market:0.3036', 'chase:0.298', 'media:0.2892', 'panic:0.2891']"
+        ]
+    ],
+    "UKR+RUS+13":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/mediaite.com/An RT Editor Walks Out OAN Subpoenas Winners Losers in Todays Green Room.txt+eventbasecode13+eventcode13+avgtone0.4603960396039604+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putinsinvasion:0.4956', 'kremlin:0.4949', 'subpoenas:0.487', 'russias:0.3696', 'election:0.3058', 'rt:0.3043', 'invasion:0.3043', 'protest:0.2943', 'news:0.2865', 'totalitarian:0.2733', 'investigate:0.2422', 'telegram:0.2368', 'astatement:0.2293', 'executive:0.226', 'worry:0.222', 'donaldtrumpthat:0.2214', 'overturn:0.2112', 'conglomerate:0.21', 'english:0.2048', 'list:0.1897', 'maria:0.1857', 'rep:0.1738', 'aftermonthsof:0.1727', 'continue:0.1707', 'public:0.1585', 'bobb:0.1503', 'theywere:0.1217', 'thousand:0.1214', 'screen:0.1065', 'weve:0.0984']+titles_keywords+['subpoenas:0.3711', 'rt:0.3709', 'editor:0.3088', 'walks:0.2215', 'room:0.2189']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+42":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Putin appreciates Macrons proposals over Ukraine standoff.txt+eventbasecode42+eventcode42+avgtone0.48802816901408447+goldsteinscale0.595+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.006578947368421052+news_keywords+['putin:0.486', 'diplomacy:0.4653', 'nato:0.4536', 'invades:0.3218', 'kyiv:0.3206', 'standoff:0.2703', 'readiness:0.2642', 'coordinate:0.2455', 'border:0.2282', 'french:0.2163', 'macrons:0.2137', 'meet:0.2129', 'bloc:0.1893', 'news:0.1875', 'secretary:0.1779', 'respond:0.1762', 'follow:0.1702', 'study:0.1686', 'undertaking:0.1647', 'pipeline:0.1627', 'week:0.1517', 'forward:0.1501', 'end:0.1392', 'idea:0.1369', 'ready:0.1348', 'long:0.1295', 'current:0.1209', 'nearly:0.1069', 'bilateral:0.1039', 'price:0.0568']+titles_keywords+['putin:0.4411', 'macrons:0.2927', 'standoff:0.1876', 'proposals:0.1847', 'appreciates:0.0924']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Nancy Pelosi.txt+eventbasecode42+eventcode42+avgtone0.48026315789473684+goldsteinscale0.595+nummentions0.018142235123367198+numarticles0.01885424220449601+numsources0.03618421052631579+news_keywords+['pelosi:0.539', 'kyiv:0.4879', 'ukraine:0.4804', 'ukrainian:0.4223', 'russia:0.3689', 'polish:0.3108', 'rzeszow:0.3079', 'nancy:0.3078', 'bully:0.2871', 'speaker:0.2798', 'president:0.2742', 'zelensky:0.2724', 'threat:0.2588', 'talk:0.2368', 'volodymyr:0.2249', 'visit:0.2122', 'news:0.1844', 'capital:0.1715', 'view:0.1471', 'house:0.1404', 'conference:0.1365', 'tell:0.1272', 'follow:0.1236', 'day:0.1194', 'face:0.1181', 'sunday:0.088', 'like:0.0805', 'thats:0.0778', 'make:0.0589', 'urge:0.0373']+titles_keywords+['pelosi:0.9218', 'nancy:0.6082']"
+        ]
+    ]
+}

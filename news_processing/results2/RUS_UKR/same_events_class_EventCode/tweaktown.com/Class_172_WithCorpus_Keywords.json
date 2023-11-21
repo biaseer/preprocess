@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+172":[
+        [
+            "20220402+../news_crawling/RUS_UKR/p_articles/tweaktown.com/Russia is allegedly using weapons banned by UN conventions in Ukraine.txt+eventbasecode172+eventcode172+avgtone0.47183098591549305+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['landmines:0.5339', 'ukrainian:0.3923', 'treaty:0.3377', 'weapon:0.3121', 'antipersonnel:0.2945', 'civilians:0.291', 'combatant:0.2548', 'prohibit:0.2407', 'ngo:0.2289', 'know:0.2058', 'tech:0.2055', 'subject:0.1976', 'world:0.1804', 'sensor:0.176', 'locate:0.1744', 'lead:0.1719', 'help:0.1657', 'learn:0.1645', 'activate:0.1634', 'pom:0.1625', 'turok:0.1564', 'association:0.1465', 'differentiate:0.1313', 'rights:0.1294', 'age:0.1258', 'smart:0.118', 'mines:0.1117', 'way:0.0622', 'interested:0.0485', 'supposedly:0.0479']+titles_keywords+['ukraine:0.4592', 'weapons:0.3529', 'banned:0.1875', 'allegedly:0.1739', 'conventions:0.135']"
+        ]
+    ],
+    "RUS+USA+172":[
+        [
+            "20220720+../news_crawling/RUS_UKR/p_articles/tweaktown.com/Russia fines Google for refusing to censor fake Ukraine war news.txt+eventbasecode172+eventcode172+avgtone0.4435483870967745+goldsteinscale0.25+nummentions0.005805515239477504+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['russia:0.4856', 'google:0.4114', 'censor:0.3901', 'ban:0.3554', 'news:0.3485', 'roskomnadzor:0.3288', 'facebook:0.3051', 'content:0.2991', 'platform:0.2873', 'jak:0.2721', 'war:0.2703', 'misinformation:0.2408', 'tweaktown:0.2251', 'fake:0.2188', 'instead:0.2166', 'rts:0.2065', 'failure:0.1978', 'industry:0.1893', 'court:0.1891', 'regulator:0.1874', 'age:0.1703', 'point:0.1557', 'begin:0.1533', 'daily:0.1513', 'press:0.1449', 'systematic:0.112', 'past:0.1104', 'agree:0.0972', 'long:0.0861', 'approximately:0.0635']+titles_keywords+['russia:0.4', 'google:0.3536', 'fines:0.2974', 'censor:0.2954', 'fake:0.1981']"
+        ]
+    ]
+}

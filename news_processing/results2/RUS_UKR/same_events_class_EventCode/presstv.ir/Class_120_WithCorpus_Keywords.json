@@ -1,0 +1,15 @@
+{
+    "GBR+UKR+120":[
+        []
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/presstv.ir/Press TVs news headlines.txt+eventbasecode120+eventcode120+avgtone0.48141263940520446+goldsteinscale0.3+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['iraq:0.463', 'truce:0.3871', 'ankara:0.3661', 'election:0.3337', 'governmentand:0.2654', 'negotiation:0.2628', 'russian:0.2552', 'headline:0.24', 'sanction:0.2379', 'ambassador:0.2233', 'halt:0.2004', 'trigger:0.198', 'expect:0.1935', 'snap:0.191', 'retaliate:0.1879', 'anti:0.1852', 'movement:0.1843', 'office:0.1833', 'tell:0.1616', 'mattarella:0.1597', 'withdraw:0.1577', 'april:0.1545', 'term:0.1448', 'pave:0.1366', 'day:0.1346', 'daffaires:0.1281', 'later:0.1171', 'summon:0.1065', 'tvs:0.0675', 'heavy:0.0465']+titles_keywords+['headlines:0.6515', 'news:0.5477', 'tvs:0.4487', 'press:0.3879']"
+        ]
+    ],
+    "WST+RUS+120":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/presstv.ir/US sending mediumrange rocket systems to Ukraine Biden.txt+eventbasecode120+eventcode120+avgtone0.4920454545454545+goldsteinscale0.3+nummentions0.13425253991291727+numarticles0.1348803480783176+numsources0.11513157894736842+news_keywords+['natos:0.4466', 'kiev:0.4023', 'putin:0.3889', 'rocket:0.3392', 'artillery:0.3056', 'presidentvladimir:0.2926', 'zelensky:0.2733', 'escalation:0.2729', 'kilometer:0.2412', 'order:0.21', 'prepare:0.2033', 'reach:0.1984', 'soon:0.1963', 'security:0.1936', 'continue:0.1877', 'publish:0.1872', 'liberate:0.187', 'aid:0.1856', 'intend:0.1839', 'confidently:0.176', 'point:0.1678', 'make:0.1671', 'fight:0.167', 'cnn:0.1562', 'long:0.1503', 'sending:0.1457', 'wont:0.1322', 'oust:0.1236', 'possible:0.1098', 'wrotethat:0.1093']+titles_keywords+['biden:0.3335', 'ukraine:0.3266', 'rocket:0.3189', 'systems:0.1731', 'sending:0.1604']"
+        ]
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/theguardian.com/Kyivs residents with their absurd sense of humour have a unique culture all of their.txt+eventbasecode192+eventcode192+avgtone0.4948387096774194+goldsteinscale0.025+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.02631578947368421+news_keywords+['kyiv:0.6111', 'bolsheviks:0.4682', 'vladimir:0.446', 'putins:0.4241', 'correspondent:0.3371', 'capital:0.3221', 'history:0.3165', 'bilingualism:0.2864', 'yaffa:0.2665', 'autocracy:0.2487', 'read:0.2479', 'kleptocrat:0.2471', 'crisis:0.2372', 'introduce:0.2321', 'gogol:0.2166', 'know:0.2126', 'terrify:0.1923', 'imageskyivs:0.1795', 'fires:0.1786', 'vulgar:0.1744', 'hide:0.1736', 'anecdote:0.1697', 'grow:0.1555', 'th:0.1438', 'order:0.134', 'true:0.1323', 'alike:0.1207', 'bloodlands:0.1191', 'took:0.1103', 'swag:0.0941']+titles_keywords+['kyivs:0.5783', 'berlin:0.4518', 'humour:0.4261', 'war:0.2551', 'residents:0.2447']"
+        ],
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/theguardian.com/A world turned upside down illustration by Zhenya Oliinyk Photograph Zhenya OliinykA world turned upside.txt+eventbasecode192+eventcode192+avgtone0.5026362038664324+goldsteinscale0.025+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['yanukovych:0.4684', 'ukrainian:0.4678', 'lviv:0.3825', 'propaganda:0.3712', 'euromaidan:0.366', 'journalist:0.3481', 'russias:0.3186', 'essay:0.3142', 'turn:0.3113', 'conflict:0.3049', 'read:0.3043', 'annexation:0.3023', 'anthology:0.2776', 'zhadan:0.2687', 'chaotic:0.2591', 'world:0.2509', 'theatre:0.2506', 'troop:0.2449', 'title:0.2388', 'oliinyk:0.2317', 'contemporary:0.223', 'entry:0.2182', 'upside:0.2159', 'fall:0.192', 'priority:0.1859', 'gdask:0.1854', 'unleash:0.1676', 'plenary:0.1633', 'shortly:0.1432', 'true:0.136']+titles_keywords+['world:0.4385', 'upside:0.4195', 'illustration:0.3544', 'turned:0.323', 'zhenya:0.1831']"
+        ]
+    ],
+    "RUS+WST+192":[
+        []
+    ]
+}

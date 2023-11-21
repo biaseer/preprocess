@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/ketr.org/SNL offers a Prayer for Ukraine in its cold open.txt+eventbasecode190+eventcode190+avgtone0.49200000000000005+goldsteinscale0.0+nummentions0.3149492017416546+numarticles0.31435823060188545+numsources0.4967105263157895+news_keywords+['snl:0.5622', 'kyiv:0.4639', 'invasion:0.2964', 'troop:0.2886', 'audience:0.2622', 'kate:0.2456', 'live:0.2437', 'perform:0.2405', 'dumka:0.2396', 'airstrikes:0.2393', 'humor:0.233', 'chorus:0.2169', 'saturday:0.2039', 'introduce:0.2033', 'night:0.1938', 'strong:0.188', 'ongoing:0.184', 'table:0.1837', 'cast:0.1778', 'kick:0.1722', 'sketch:0.1673', 'tribute:0.1559', 'amid:0.1556', 'cold:0.1512', 'launch:0.1342', 'candle:0.1179', 'series:0.0865', 'normally:0.0814', 'offer:0.0691', 'mckinnon:0.0474']+titles_keywords+['snl:0.5281', 'ukraine:0.3815', 'prayer:0.2403', 'cold:0.2089', 'open:0.1656']"
+        ],
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/ketr.org/A new stamp honors the Ukrainian soldiers who profanely told off a Russian warship.txt+eventbasecode190+eventcode190+avgtone0.5033783783783784+goldsteinscale0.0+nummentions0.11865021770682148+numarticles0.11856417693981146+numsources0.15460526315789475+news_keywords+['crimean:0.4626', 'stamp:0.4151', 'memorialize:0.3632', 'soldier:0.3597', 'ukrposhta:0.2916', 'surrender:0.2711', 'naval:0.2651', 'honor:0.2585', 'island:0.2448', 'invasion:0.2159', 'morale:0.2091', 'grokh:0.1865', 'translate:0.1861', 'station:0.1731', 'snake:0.1727', 'phrase:0.1452', 'npr:0.1408', 'distract:0.1252', 'public:0.1215', 'borys:0.1203', 'rally:0.12', 'vote:0.1167', 'design:0.1132', 'month:0.1132', 'live:0.1065', 'say:0.0895', 'new:0.0884', 'hour:0.0658', 'complete:0.0608', 'literally:0.0608']+titles_keywords+['stamp:0.4122', 'ukrainian:0.3476', 'soldiers:0.3111', 'warship:0.2884', 'honors:0.2346']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+WST+120":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/ledburyreporter.co.uk/Volodymyr Zelensky calls for worldwide demonstrations on Thursday.txt+eventbasecode120+eventcode120+avgtone0.5076335877862596+goldsteinscale0.3+nummentions0.4695210449927431+numarticles0.4699057287889775+numsources0.41776315789473684+news_keywords+['ukraine:0.459', 'zelensky:0.4033', 'nato:0.3716', 'volodymyr:0.2876', 'invasion:0.2854', 'meeting:0.274', 'engage:0.2581', 'borisjohnson:0.255', 'peace:0.2392', 'presidential:0.2147', 'stay:0.2095', 'privilege:0.2075', 'heard:0.2028', 'betray:0.1902', 'tomorrow:0.1897', 'break:0.1854', 'fend:0.1792', 'debate:0.1773', 'friend:0.1756', 'emotional:0.171', 'want:0.1596', 'month:0.1518', 'make:0.1478', 'address:0.1475', 'exactly:0.1393', 'declare:0.1379', 'mr:0.1161', 'video:0.1102', 'fully:0.1027', 'thousand:0.0934']+titles_keywords+['zelensky:0.5035', 'demonstrations:0.2833', 'volodymyr:0.2551', 'worldwide:0.1807', 'thursday:0.1626']"
+        ]
+    ],
+    "WST+RUS+120":[
+        [
+            "20220209+../news_crawling/RUS_UKR/p_articles/ledburyreporter.co.uk/Boris Johnson flies to Poland as more UK troops go on standby for eastern Europe.txt+eventbasecode120+eventcode120+avgtone0.4926873857404022+goldsteinscale0.3+nummentions0.10341074020319303+numarticles0.10406091370558376+numsources0.14144736842105263+news_keywords+['nato:0.5181', 'diplomacy:0.4354', 'ukraine:0.4339', 'putins:0.3999', 'boris:0.285', 'deploy:0.2715', 'attack:0.2705', 'escalate:0.2469', 'president:0.2349', 'refugee:0.2315', 'prepare:0.2205', 'dispatch:0.2169', 'safeguard:0.2085', 'prompt:0.1873', 'downing:0.1786', 'sanction:0.1752', 'disaster:0.1697', 'engineer:0.1689', 'counterpart:0.162', 'additional:0.1605', 'current:0.1597', 'visit:0.1593', 'general:0.1506', 'want:0.1496', 'important:0.1481', 'thursday:0.1422', 'snow:0.1292', 'hms:0.1237', 'right:0.1007', 'truss:0.0733']+titles_keywords+['poland:0.2741', 'johnson:0.265', 'boris:0.2533', 'troops:0.2007', 'standby:0.1873']"
+        ]
+    ]
+}

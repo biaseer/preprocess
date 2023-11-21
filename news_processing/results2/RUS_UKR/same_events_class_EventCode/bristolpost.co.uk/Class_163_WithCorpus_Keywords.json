@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+163":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/bristolpost.co.uk/Tesco joins supermarket boycott of Russialinked products including vodka.txt+eventbasecode163+eventcode163+avgtone0.49177877428998507+goldsteinscale0.1+nummentions0.03193033381712627+numarticles0.032632342277012324+numsources0.02631578947368421+news_keywords+['vodka:0.5004', 'russias:0.4476', 'russian:0.4408', 'kiev:0.4374', 'boycott:0.3983', 'russialinked:0.3914', 'tesco:0.346', 'product:0.25', 'remove:0.2373', 'news:0.2304', 'invasion:0.2294', 'report:0.1907', 'chicken:0.1869', 'good:0.1783', 'organisation:0.172', 'list:0.1677', 'fear:0.1636', 'intensify:0.1602', 'cross:0.1563', 'importing:0.1535', 'soon:0.1514', 'point:0.1372', 'humanitarian:0.1345', 'range:0.1283', 'wholly:0.12', 'weve:0.1184', 'main:0.1183', 'like:0.116', 'longer:0.0954', 'shelve:0.0791']+titles_keywords+['vodka:0.4307', 'tesco:0.3796', 'boycott:0.3439', 'russialinked:0.2787', 'products:0.2044']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/bristolpost.co.uk/Ukraine latest PM calls on world leaders to act China delivers warning to US and.txt+eventbasecode163+eventcode163+avgtone0.4704641350210971+goldsteinscale0.1+nummentions0.030478955007256895+numarticles0.03118201595358956+numsources0.03289473684210526+news_keywords+['putin:0.466', 'ukraine:0.4622', 'natos:0.4259', 'conflict:0.2977', 'eastward:0.2849', 'invasion:0.2808', 'disrupt:0.2796', 'sovereignty:0.2663', 'ahead:0.2572', 'rhetoric:0.2552', 'telegraph:0.2462', 'warn:0.244', 'sanction:0.2438', 'unprovoked:0.2202', 'attention:0.2192', 'executive:0.2174', 'oppose:0.2122', 'act:0.1917', 'implement:0.1903', 'goalpost:0.1883', 'world:0.1815', 'rewrite:0.1742', 'delivers:0.1635', 'counterpart:0.1577', 'transaction:0.1444', 'flame:0.1194', 'swathe:0.1159', 'arm:0.1102', 'yi:0.1039', 'new:0.0874']+titles_keywords+['ukraine:0.4182', 'warning:0.2016', 'world:0.1386', 'calls:0.066', 'latest:0.0427']"
+        ]
+    ]
+}

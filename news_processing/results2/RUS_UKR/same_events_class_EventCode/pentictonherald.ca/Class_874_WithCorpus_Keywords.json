@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/pentictonherald.ca/Letters to the Editor Tuesday March 1 2022.txt+eventbasecode87+eventcode874+avgtone0.48551448551448556+goldsteinscale1.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['russia:0.4206', 'journalism:0.4007', 'herald:0.3896', 'political:0.3256', 'nation:0.3092', 'letter:0.2904', 'peace:0.2752', 'pander:0.2746', 'flag:0.2641', 'educate:0.2525', 'pandemic:0.2497', 'viewpoint:0.2453', 'head:0.2282', 'know:0.2279', 'nonsense:0.2237', 'penticton:0.2204', 'forward:0.2201', 'times:0.1917', 'pariah:0.1896', 'decline:0.1883', 'alternative:0.1877', 'sedate:0.1827', 'importance:0.1787', 'vulnerable:0.1747', 'like:0.1701', 'general:0.167', 'continued:0.1657', 'year:0.1526', 'tomorrow:0.1046', 'limit:0.1021']+titles_keywords+['letters:0.3946', 'march:0.3326', '2022:0.32', 'editor:0.3006', 'tuesday:0.2967']"
+        ],
+        [
+            "20220515+../news_crawling/RUS_UKR/p_articles/pentictonherald.ca/Small wins buoy Ukraine West says Russians losing momentum.txt+eventbasecode87+eventcode874+avgtone0.48574338085539714+goldsteinscale1.0+nummentions0.04644412191582003+numarticles0.04713560551124003+numsources0.0625+news_keywords+['ukraines:0.5081', 'nato:0.4439', 'moscow:0.4248', 'eurovision:0.3234', 'invade:0.2936', 'victory:0.2878', 'diplomatic:0.2501', 'nordic:0.2358', 'sinegubov:0.2159', 'evacuate:0.2134', 'news:0.2054', 'industrial:0.2039', 'enemy:0.2025', 'know:0.1982', 'advance:0.1947', 'flank:0.1662', 'divide:0.1619', 'join:0.1603', 'nonaligned:0.1596', 'small:0.1518', 'somber:0.1512', 'trt:0.1495', 'weekend:0.1494', 'eat:0.1246', 'dozen:0.1214', 'largely:0.1195', 'pan:0.1034', 'include:0.0976', 'hearing:0.0952', 'sepsis:0.0814']+titles_keywords+['ukraine:0.371', 'momentum:0.366', 'losing:0.3599', 'small:0.2811', 'buoy:0.1791']"
+        ]
+    ]
+}

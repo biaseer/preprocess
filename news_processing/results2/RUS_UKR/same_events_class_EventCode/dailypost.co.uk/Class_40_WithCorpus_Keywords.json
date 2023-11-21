@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+40":[
+        [
+            "20220417+../news_crawling/RUS_UKR/p_articles/dailypost.co.uk/Ukraine morning briefing Austrian leader believes Putin thinks he is winning war.txt+eventbasecode40+eventcode40+avgtone0.4742138364779874+goldsteinscale0.55+nummentions0.05551523947750363+numarticles0.05620014503263234+numsources0.049342105263157895+news_keywords+['ukraine:0.5235', 'putin:0.4712', 'diplomacy:0.385', 'briefing:0.3645', 'infrastructure:0.3272', 'terekhov:0.3159', 'veterans:0.304', 'blockade:0.2969', 'journalist:0.2894', 'zelensky:0.271', 'displaced:0.2495', 'battle:0.2333', 'rebuild:0.2254', 'task:0.2235', 'resume:0.2222', 'report:0.209', 'future:0.2089', 'feed:0.1992', 'pivot:0.1949', 'mayor:0.1886', 'bucha:0.1864', 'arrive:0.1701', 'safe:0.1623', 'say:0.1603', 'huge:0.143', 'nearly:0.1393', 'flagship:0.137', 'internally:0.1228', 'include:0.1074', 'doesnt:0.0574']+titles_keywords+['putin:0.4523', 'austrian:0.3138', 'winning:0.2581', 'briefing:0.2227', 'believes:0.1849']"
+        ]
+    ],
+    "GBR+UKR+40":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/dailypost.co.uk/Emergency meeting of UK Cabinet to be held over horrific attacks in Ukraine.txt+eventbasecode40+eventcode40+avgtone0.46919431279620855+goldsteinscale0.55+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.023026315789473683+news_keywords+['putin:0.4996', 'nato:0.4238', 'russias:0.4148', 'kyiv:0.4115', 'demilitarisation:0.3851', 'bloodshed:0.3308', 'attack:0.3233', 'unprovoked:0.2757', 'flag:0.2676', 'narrative:0.2482', 'sanction:0.2459', 'emergency:0.2449', 'warn:0.2186', 'interfere:0.2159', 'downing:0.2064', 'horrific:0.2', 'fool:0.1962', 'forget:0.177', 'shortly:0.1757', 'cabinet:0.1632', 'televise:0.1578', 'north:0.1566', 'cobra:0.1529', 'continue:0.1482', 'say:0.1464', 'false:0.1368', 'newsletter:0.1327', 'populated:0.1287', 'straight:0.1055', 'reach:0.0909']+titles_keywords+['meeting:0.3655', 'ukraine:0.3404', 'emergency:0.3403', 'attacks:0.2609', 'cabinet:0.2337']"
+        ]
+    ]
+}

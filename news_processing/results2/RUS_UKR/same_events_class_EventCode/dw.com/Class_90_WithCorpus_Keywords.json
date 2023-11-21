@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+90":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/dw.com/Russia accuses Ukraine of car bomb killing.txt+eventbasecode90+eventcode90+avgtone0.4552238805970152+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4689', 'kyiv:0.4652', 'putin:0.3744', 'russia:0.3563', 'bomb:0.3314', 'accuse:0.3033', 'allegation:0.2871', 'kill:0.2736', 'darya:0.2576', 'attack:0.227', 'speculation:0.1815', 'car:0.1776', 'dugina:0.1631', 'deny:0.1537', 'involvement:0.1428', 'group:0.1158', 'responsible:0.1116', 'ally:0.0939', 'daughter:0.0928', 'carry:0.0629', 'inside:0.0625', 'come:0.0556', 'amid:0.0392']+titles_keywords+['ukraine:0.4217', 'bomb:0.3216', 'accuses:0.3072', 'killing:0.2285', 'car:0.2053']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/dw.com/Will Russia be held accountable for crimes.txt+eventbasecode90+eventcode90+avgtone0.4083333333333335+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['ukraine:0.4343', 'russia:0.3988', 'russian:0.3897', 'prosecute:0.345', 'investigation:0.3385', 'report:0.3243', 'crime:0.3219', 'video:0.3037', 'atrocity:0.2641', 'war:0.2597', 'troop:0.2453', 'accountable:0.2046', 'image:0.1811', 'dead:0.1709', 'commit:0.1532', 'warning:0.1468', 'contain:0.1282', 'people:0.1197', 'hold:0.0932', 'open:0.069', 'difficult:0.0525']+titles_keywords+['russia:0.4255', 'crimes:0.3436', 'accountable:0.3086', 'held:0.1293']"
+        ]
+    ]
+}

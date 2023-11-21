@@ -1,0 +1,12 @@
+{
+    "CAN+UKR+12":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/sott.net/My answer to Canadian friends worrying about the war in Ukraine.txt+eventbasecode12+eventcode12+avgtone0.4956287827841291+goldsteinscale0.48+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4785', 'putin:0.4161', 'euromaidan:0.325', 'political:0.3144', 'history:0.2898', 'read:0.2877', 'subject:0.2714', 'escalation:0.256', 'pluralism:0.2535', 'collaborator:0.2444', 'achieve:0.2345', 'troop:0.2342', 'monolingual:0.2332', 'relation:0.2182', 'map:0.2166', 'know:0.215', 'agreement:0.2137', 'zelensky:0.2137', 'fight:0.2122', 'turn:0.2094', 'bomb:0.2053', 'greet:0.1968', 'word:0.1952', 'instead:0.1923', 'space:0.1851', 'end:0.1768', 'outline:0.1687', 'comparison:0.1681', 'divide:0.1643', 'tense:0.158']+titles_keywords+['ukraine:0.4332', 'war:0.3366', 'canadian:0.3182', 'worrying:0.2532', 'friends:0.2163']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/sott.net/Amnesty Sweden cofounder resigns after org releases report documenting Ukraine militarys use of citizen areas.txt+eventbasecode12+eventcode12+avgtone0.4726027397260274+goldsteinscale0.48+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['ukraine:0.4453', 'amnesty:0.4431', 'org:0.3551', 'government:0.3405', 'terrorist:0.3336', 'misinformation:0.3263', 'humanitarian:0.3237', 'troop:0.3066', 'advocate:0.297', 'conflict:0.2929', 'oksana:0.2779', 'victimhood:0.2634', 'resigns:0.2385', 'secretary:0.2385', 'violate:0.2338', 'report:0.2317', 'newspaper:0.2106', 'disavow:0.1931', 'april:0.1729', 'johansson:0.1718', 'end:0.1709', 'cover:0.1569', 'expanded:0.1532', 'right:0.1498', 'branch:0.146', 'heart:0.137', 'long:0.1319', 'say:0.1313', 'new:0.121', 'pattern:0.0929']+titles_keywords+['amnesty:0.3851', 'ukraine:0.3359', 'resigns:0.2812', 'cofounder:0.2248', 'report:0.2104']"
+        ]
+    ]
+}

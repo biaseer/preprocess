@@ -1,0 +1,25 @@
+{
+    "BLR+RUS+36":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/voanews.com/US Moves to Sever Russian Access to Dollars.txt+eventbasecode36+eventcode36+avgtone0.4809027777777778+goldsteinscale0.7+nummentions0.026124818577648767+numarticles0.026831036983321246+numsources0.04276315789473684+news_keywords+['putin:0.4913', 'russias:0.4637', 'invade:0.3805', 'kyiv:0.3502', 'diplomatic:0.3076', 'sanction:0.305', 'economy:0.3032', 'treasury:0.3002', 'disinformation:0.28', 'unprovoked:0.2569', 'escalate:0.2556', 'emergency:0.2414', 'border:0.2301', 'moves:0.2273', 'prepare:0.2167', 'delegations:0.2141', 'transaction:0.1986', 'know:0.1918', 'remove:0.1909', 'sunk:0.1753', 'pledge:0.1618', 'follow:0.1587', 'export:0.1546', 'billion:0.1504', 'week:0.1377', 'measure:0.1376', 'restrictive:0.1167', 'swifting:0.1146', 'house:0.0985', 'offset:0.0862']+titles_keywords+['russian:0.3283', 'dollars:0.2838', 'moves:0.1491', 'access:0.0692', 'sever:0.0265']"
+        ]
+    ],
+    "IDN+UKR+36":[
+        []
+    ],
+    "POL+UKR+36":[
+        [
+            "20220522+../news_crawling/RUS_UKR/p_articles/voanews.com/Polish President Only Ukraine Should Decide Its Future.txt+eventbasecode36+eventcode36+avgtone0.48108108108108105+goldsteinscale0.7+nummentions0.045718432510885344+numarticles0.046410442349528645+numsources0.039473684210526314+news_keywords+['ukraine:0.4925', 'kremlin:0.3921', 'separatist:0.2825', 'zelenskyy:0.2671', 'political:0.2627', 'andrzej:0.2602', 'erupt:0.222', 'victory:0.2035', 'adviser:0.1989', 'troop:0.198', 'biden:0.1958', 'speech:0.1925', 'soon:0.192', 'decide:0.1727', 'plan:0.1723', 'worrying:0.1697', 'want:0.1685', 'forward:0.1684', 'emphasize:0.1683', 'hour:0.1619', 'donbas:0.1495', 'end:0.1488', 'structure:0.1484', 'port:0.144', 'integration:0.1418', 'fact:0.1321', 'nearly:0.1293', 'plant:0.1266', 'rebuff:0.1094', 'list:0.1086']+titles_keywords+['ukraine:0.4638', 'polish:0.4317', 'president:0.2494', 'decide:0.2243', 'future:0.1236']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/voanews.com/US Defense Chief Austin in Brussels for High Stakes NATO Talks.txt+eventbasecode36+eventcode36+avgtone0.4891696750902528+goldsteinscale0.7+nummentions0.027939042089985485+numarticles0.02864394488759971+numsources0.05263157894736842+news_keywords+['nato:0.5104', 'putin:0.4408', 'ukraines:0.4272', 'invade:0.4042', 'annexation:0.3725', 'diplomatic:0.3413', 'moscow:0.3402', 'president:0.2906', 'threaten:0.2686', 'deploy:0.2589', 'meeting:0.2516', 'concern:0.2462', 'separatist:0.237', 'soon:0.2235', 'ally:0.2086', 'andrzej:0.2037', 'cite:0.2036', 'counterparts:0.1904', 'flank:0.1701', 'jinping:0.1671', 'current:0.1645', 'state:0.1613', 'follow:0.1583', 'planeloads:0.154', 'unit:0.1505', 'additional:0.1425', 'longer:0.1286', 'voa:0.1237', 'redraw:0.1027', 'potentially:0.0765']+titles_keywords+['nato:0.4397', 'brussels:0.3605', 'austin:0.3301', 'talks:0.2184', 'chief:0.2056']"
+        ]
+    ],
+    "RUS+USA+36":[
+        [
+            "20220119+../news_crawling/RUS_UKR/p_articles/voanews.com/Biden Waited Too Long to Act on Russian Buildup at Ukraine Border US Senators Say.txt+eventbasecode36+eventcode36+avgtone0.4897260273972603+goldsteinscale0.7+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.01644736842105263+news_keywords+['bipartisan:0.4416', 'senate:0.417', 'kremlin:0.3792', 'ukraines:0.3736', 'biden:0.3565', 'appeasement:0.3311', 'invade:0.3158', 'legislation:0.3151', 'compromise:0.2932', 'threat:0.2818', 'border:0.2763', 'pipeline:0.2654', 'vote:0.2456', 'troop:0.2323', 'prepare:0.227', 'relations:0.2174', 'portman:0.2049', 'thursday:0.2037', 'authorize:0.1913', 'continue:0.1846', 'discus:0.1844', 'long:0.1837', 'aisle:0.1642', 'readout:0.1565', 'closely:0.1555', 'refuse:0.1529', 'mistake:0.1257', 'isnt:0.1066', 'ernst:0.1052', 'welcome:0.0913']+titles_keywords+['biden:0.3222', 'waited:0.2824', 'ukraine:0.231', 'long:0.1855', 'buildup:0.1787']"
+        ]
+    ]
+}

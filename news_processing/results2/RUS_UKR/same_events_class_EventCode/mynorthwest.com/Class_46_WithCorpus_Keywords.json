@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+46":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Live updates 20 babies from surrogate moms in bomb shelter.txt+eventbasecode46+eventcode46+avgtone0.4772929652715939+goldsteinscale0.85+nummentions0.6658200290275762+numarticles0.33321247280638144+numsources0.3684210526315789+news_keywords+['kyiv:0.473', 'pravda:0.4386', 'putin:0.428', 'evacuations:0.3766', 'natos:0.3762', 'poles:0.3456', 'peacetime:0.3409', 'revolution:0.3288', 'news:0.3179', 'diplomat:0.292', 'eastward:0.2843', 'organize:0.2646', 'telegram:0.2605', 'table:0.2604', 'bipartisan:0.2453', 'know:0.2407', 'shortly:0.2387', 'rewritten:0.2221', 'term:0.214', 'jinping:0.2093', 'urgent:0.1992', 'speak:0.1945', 'graduate:0.1941', 'warm:0.1929', 'estimates:0.162', 'additionally:0.1553', 'big:0.1547', 'equip:0.1523', 'ihnat:0.1495', 'welcome:0.1085']+titles_keywords+['surrogate:0.53', 'babies:0.4459', 'bomb:0.3482', 'shelter:0.2964', 'live:0.2743']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20211210+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Ukraine leader hopes for talks with Russia amid tensions.txt+eventbasecode46+eventcode46+avgtone0.48081841432225064+goldsteinscale0.85+nummentions0.02467343976777939+numarticles0.025380710659898477+numsources0.02631578947368421+news_keywords+['ukraine:0.5005', 'diplomacy:0.4622', 'nato:0.4263', 'putins:0.3901', 'escalation:0.2909', 'tensions:0.2863', 'eastward:0.2622', 'separatist:0.2549', 'zelenskyy:0.2524', 'biden:0.2448', 'troop:0.2223', 'contact:0.212', 'fight:0.1981', 'speak:0.1942', 'turn:0.189', 'appear:0.1881', 'agreement:0.1872', 'ally:0.1652', 'continue:0.1628', 'plan:0.1576', 'platform:0.1394', 'direct:0.1349', 'format:0.1168', 'world:0.1134', 'week:0.103', 'preclude:0.1001', 'blame:0.0954', 'official:0.0808', 'possible:0.077', 'doesnt:0.0518']+titles_keywords+['ukraine:0.3789', 'talks:0.2535', 'tensions:0.1599', 'leader:0.1308', 'hopes:0.1228']"
+        ]
+    ],
+    "WST+UKR+46":[
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/No apologies Germanys Merkel defends approach to Ukraine.txt+eventbasecode46+eventcode46+avgtone0.489010989010989+goldsteinscale0.85+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.023026315789473683+news_keywords+['diplomacy:0.4521', 'ukraines:0.4382', 'merkel:0.4355', 'nato:0.4229', 'putin:0.41', 'annexation:0.339', 'attack:0.279', 'separatist:0.2686', 'agreement:0.2639', 'excuse:0.2622', 'berlin:0.2561', 'oligarch:0.252', 'ally:0.2307', 'chancellorship:0.2182', 'know:0.2151', 'enter:0.2087', 'oppose:0.2085', 'sanction:0.2085', 'develop:0.2013', 'calm:0.1857', 'rewritten:0.181', 'think:0.1803', 'matter:0.1696', 'miscalculation:0.1678', 'long:0.157', 'pipeline:0.1364', 'buy:0.1332', 'track:0.1185', 'wont:0.1171', 'doesnt:0.0936']+titles_keywords+['merkel:0.4744', 'ukraine:0.379', 'apologies:0.3616', 'defends:0.2718', 'approach:0.1831']"
+        ]
+    ]
+}

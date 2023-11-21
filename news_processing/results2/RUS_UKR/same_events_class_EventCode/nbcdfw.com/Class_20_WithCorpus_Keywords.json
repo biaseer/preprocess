@@ -1,0 +1,15 @@
+{
+    "EUR+UKR+20":[
+        [
+            "20220617+../news_crawling/RUS_UKR/p_articles/nbcdfw.com/European Commission Recommends EU Candidate Status for Ukraine.txt+eventbasecode20+eventcode20+avgtone0.4883990719257541+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5317', 'kyivs:0.4599', 'eu:0.3889', 'accession:0.2877', 'nation:0.259', 'union:0.2475', 'bloc:0.2281', 'candidate:0.2089', 'sievierodonesk:0.1962', 'status:0.1836', 'peace:0.169', 'safeguard:0.1684', 'leave:0.165', 'long:0.1453', 'battle:0.1338', 'increase:0.133', 'unanimous:0.1284', 'expect:0.1252', 'desperate:0.1235', 'donbas:0.1154', 'friday:0.1138', 'track:0.1046', 'nearly:0.1002', 'new:0.0924', 'arm:0.0886', 'vira:0.0775', 'elderly:0.075', 'million:0.0511', 'decade:0.0502', 'send:0.0442']+titles_keywords+['ukraine:0.5126', 'candidate:0.2547', 'status:0.2117', 'commission:0.1354', 'recommends:0.0334']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        []
+    ],
+    "USA+RUS+20":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/nbcdfw.com/Dallas Mayor Calls for City Officials to Suspend Ties With Russian Sister City.txt+eventbasecode20+eventcode20+avgtone0.5+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4339', 'russianfederations:0.4192', 'dallas:0.3813', 'invasion:0.3388', 'mayor:0.3288', 'texans:0.2843', 'saratov:0.2822', 'approve:0.234', 'tosupport:0.2228', 'peace:0.2159', 'voting:0.2136', 'rally:0.2088', 'march:0.2075', 'fundraiser:0.2065', 'memo:0.1925', 'contract:0.1879', 'north:0.1684', 'ties:0.1606', 'official:0.1527', 'community:0.1515', 'calling:0.15', 'withentities:0.1392', 'say:0.1241', 'cut:0.1203', 'eric:0.1182', 'significant:0.0897', 'resolution:0.0714', 'sister:0.0675', 'whileencouraging:0.0611', 'sent:0.0207']+titles_keywords+['dallas:0.3739', 'mayor:0.3118', 'russian:0.2468', 'ties:0.0916', 'sister:0.0782']"
+        ]
+    ]
+}

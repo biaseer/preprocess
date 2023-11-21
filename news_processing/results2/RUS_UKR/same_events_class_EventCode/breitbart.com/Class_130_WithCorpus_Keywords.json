@@ -1,0 +1,17 @@
+{
+    "IRL+UKR+130":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/breitbart.com/Heavy Dependence On Russian Gas Has Europe Scrambling for Alternatives Over Supply Fears.txt+eventbasecode130+eventcode130+avgtone0.49147286821705427+goldsteinscale0.27999999999999997+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.0+news_keywords+['ukraine:0.4388', 'geopolitical:0.4177', 'nato:0.3497', 'gas:0.3236', 'supply:0.2818', 'pipeline:0.268', 'crisis:0.2138', 'dependence:0.2114', 'boris:0.1983', 'blackmail:0.1814', 'concern:0.1808', 'divert:0.1705', 'alternatives:0.1485', 'increasingly:0.1427', 'bloc:0.1399', 'potential:0.1319', 'winter:0.1315', 'help:0.131', 'ally:0.1268', 'know:0.1232', 'prepared:0.1099', 'tackle:0.1097', 'respond:0.0917', 'majority:0.0881', 'long:0.0793', 'torussian:0.071', 'deal:0.0667', 'house:0.0596', 'undoubtedly:0.0448', 'partially:0.0365']+titles_keywords+['gas:0.3419', 'supply:0.2914', 'russian:0.2641', 'alternatives:0.2437', 'dependence:0.1998']"
+        ]
+    ],
+    "ITA+RUS+130":[
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/breitbart.com/Ukrainian Archbishop Warns of Russian Ideological Pandemic.txt+eventbasecode130+eventcode130+avgtone0.449579831932773+goldsteinscale0.27999999999999997+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4325', 'coronavirus:0.3902', 'ideological:0.3215', 'dnipropetrovsk:0.3038', 'condemn:0.3027', 'infect:0.2961', 'invasion:0.2706', 'realize:0.2509', 'blood:0.2455', 'evil:0.2389', 'survive:0.2371', 'archbishop:0.2264', 'isolate:0.2262', 'mir:0.2249', 'world:0.2223', 'help:0.2106', 'careful:0.208', 'journalist:0.2011', 'freedom:0.1993', 'forefront:0.1948', 'misfortune:0.1905', 'pretension:0.1815', 'come:0.168', 'order:0.167', 'like:0.1443', 'distance:0.1398', 'underscoring:0.123', 'cogpmuffzzbs:0.1047', 'today:0.0985', 'new:0.0924']+titles_keywords+['ukrainian:0.4', 'pandemic:0.3844', 'archbishop:0.3386', 'ideological:0.284', 'warns:0.2547']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/breitbart.com/Turkey Blocks NATO Membership Talks for Sweden and Norway.txt+eventbasecode130+eventcode130+avgtone0.4960681520314547+goldsteinscale0.27999999999999997+nummentions0.07365747460087083+numarticles0.07432922407541696+numsources0.13815789473684212+news_keywords+['natos:0.5235', 'ukraine:0.3455', 'vladimir:0.2886', 'finnish:0.2604', 'diplomatic:0.2556', 'invade:0.2458', 'ratification:0.2419', 'erdogan:0.2225', 'join:0.2213', 'proceeding:0.1972', 'submit:0.1957', 'expand:0.1849', 'soon:0.1621', 'alongside:0.1607', 'border:0.154', 'ally:0.1435', 'pkk:0.1408', 'terror:0.137', 'stoltenberg:0.1267', 'armed:0.1166', 'note:0.1141', 'feb:0.1093', 'upbeat:0.1055', 'article:0.104', 'precisely:0.0825', 'exchanged:0.081', 'hang:0.0786', 'moment:0.0744', 'welcome:0.0587', 'wouldnt:0.0398']+titles_keywords+['nato:0.4374', 'turkey:0.3818', 'talks:0.1284', 'blocks:0.1238', 'membership:0.0921']"
+        ]
+    ]
+}

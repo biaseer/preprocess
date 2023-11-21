@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+100":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/sanantoniopost.com/Fears of Indiscriminate Russian Shelling Mount as Ukraine Battles On.txt+eventbasecode100+eventcode100+avgtone0.4723065250379363+goldsteinscale0.25+nummentions0.06386066763425254+numarticles0.06453952139231327+numsources0.14473684210526316+news_keywords+['kyiv:0.5089', 'kremlin:0.4347', 'refugees:0.3142', 'correspondent:0.2842', 'deploy:0.2779', 'conflict:0.2679', 'rifle:0.2558', 'tactic:0.2478', 'government:0.2463', 'destroy:0.2388', 'worry:0.2367', 'shelter:0.2238', 'intercept:0.217', 'catastrophic:0.2157', 'curfew:0.1927', 'bratchuk:0.1912', 'increase:0.1881', 'echo:0.183', 'ambulance:0.1763', 'precede:0.1758', 'continue:0.1749', 'suspect:0.1686', 'kilometer:0.1652', 'northern:0.1609', 'contact:0.1607', 'buk:0.1576', 'good:0.1449', 'today:0.1233', 'voa:0.1194', 'multiple:0.1153']+titles_keywords+['ukraine:0.3533', 'fears:0.3328', 'shelling:0.2339', 'indiscriminate:0.2055', 'mount:0.1588']"
+        ]
+    ],
+    "USA+RUS+100":[
+        [
+            "20220618+../news_crawling/RUS_UKR/p_articles/sanantoniopost.com/US allies ready for long war in Ukraine Washington Post.txt+eventbasecode100+eventcode100+avgtone0.48280098280098277+goldsteinscale0.25+nummentions0.01632801161103048+numarticles0.01704133430021755+numsources0.019736842105263157+news_keywords+['ukraine:0.4256', 'nato:0.3982', 'war:0.3349', 'biden:0.2892', 'predict:0.2525', 'recession:0.2422', 'long:0.2403', 'imminent:0.2138', 'plan:0.1949', 'ally:0.1947', 'meeting:0.191', 'administration:0.1871', 'achieve:0.1825', 'order:0.1662', 'negotiated:0.159', 'spillover:0.1571', 'ready:0.1555', 'sanction:0.1547', 'term:0.1545', 'weaken:0.1543', 'cite:0.1496', 'navigate:0.1476', 'protract:0.1097', 'bad:0.1074', 'recent:0.0846', 'certainly:0.081', 'dozen:0.0788', 'like:0.0732', 'mount:0.0597', 'add:0.0556']+titles_keywords+['allies:0.4246', 'ukraine:0.3983', 'war:0.3899', 'long:0.2697', 'ready:0.1952']"
+        ]
+    ]
+}

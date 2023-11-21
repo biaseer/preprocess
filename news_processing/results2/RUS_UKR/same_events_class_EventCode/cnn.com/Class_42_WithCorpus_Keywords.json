@@ -1,0 +1,15 @@
+{
+    "POL+UKR+42":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/cnn.com/Pence seeks to set himself apart from Trump by speaking out against Putin.txt+eventbasecode42+eventcode42+avgtone0.4949297971918877+goldsteinscale0.595+nummentions0.019230769230769232+numarticles0.01994198694706309+numsources0.019736842105263157+news_keywords+['pence:0.5663', 'presidency:0.4156', 'kremlin:0.3623', 'donald:0.3432', 'political:0.3149', 'gop:0.293', 'coalesce:0.2867', 'strategist:0.2591', 'sanction:0.2556', 'vice:0.248', 'trumps:0.2446', 'nation:0.2276', 'conversation:0.2212', 'contrast:0.2092', 'pressure:0.2024', 'decide:0.1973', 'retreat:0.1961', 'midterm:0.1795', 'reprehensible:0.175', 'draw:0.1745', 'equivalency:0.1737', 'virtual:0.1552', 'look:0.1518', 'recast:0.1504', 'laud:0.1486', 'utilize:0.1357', 'address:0.1269', 'soon:0.1257', 'bristle:0.1238', 'decade:0.1083']+titles_keywords+['pence:0.5815', 'putin:0.38', 'speaking:0.1736', 'apart:0.1601', 'set:0.0649']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/cnn.com/Ukrainians are making homemade body armor to send to frontline troops.txt+eventbasecode42+eventcode42+avgtone0.49372056514913654+goldsteinscale0.595+nummentions0.06095791001451379+numarticles0.06163886874546773+numsources0.049342105263157895+news_keywords+['ukrainian:0.4888', 'troop:0.424', 'bolsheviks:0.4114', 'frontline:0.3811', 'armor:0.3735', 'operation:0.307', 'gun:0.3044', 'olretsky:0.29', 'production:0.2898', 'flak:0.2766', 'engineer:0.2697', 'scrap:0.2651', 'help:0.2574', 'sew:0.2444', 'fight:0.2438', 'improvised:0.2436', 'tell:0.2368', 'penetrate:0.2238', 'valery:0.2071', 'modern:0.2049', 'hugo:0.1938', 'cnn:0.1847', 'previous:0.1803', 'millimeter:0.1721', 'world:0.1682', 'donate:0.1621', 'scary:0.1606', 'far:0.1568', 'apartment:0.1433', 'enjoy:0.1259']+titles_keywords+['ukrainians:0.4155', 'armor:0.3787', 'homemade:0.2935', 'frontline:0.2663', 'send:0.1332']"
+        ],
+        [
+            "20220517+../news_crawling/RUS_UKR/p_articles/cnn.com/May 17 2022 RussiaUkraine news.txt+eventbasecode42+eventcode42+avgtone0.48208955223880595+goldsteinscale0.595+nummentions0.021407837445573296+numarticles0.010877447425670777+numsources0.003289473684210526+news_keywords+['nato:0.4927', 'ukraine:0.4767', 'ankara:0.4549', 'kurdistan:0.4358', 'russiaukraine:0.4201', 'finlands:0.4138', 'ceasefire:0.3964', 'erdogan:0.3837', 'terror:0.2953', 'pkk:0.2612', 'evacuate:0.2567', 'approvesweden:0.2257', 'news:0.2213', 'designate:0.2045', 'rhea:0.2013', 'armed:0.1849', 'recep:0.174', 'reiterate:0.1649', 'corridor:0.1628', 'organization:0.1561', 'monday:0.1516', 'vogt:0.1466', 'prospect:0.1362', 'state:0.1325', 'positively:0.1262', 'ria:0.1212', 'note:0.116', 'membershipif:0.1103', 'plant:0.0907', 'add:0.0763']+titles_keywords+['russiaukraine:0.5408', '2022:0.5151', 'news:0.3359', '17:0.1954']"
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "RUS+UKR+113":[
+        [
+            "20220430+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russians stages support for war against Ukraine by the Crimean Tatars.txt+eventbasecode113+eventcode113+avgtone0.4948275862068966+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimean:0.6079', 'tatars:0.5688', 'kremlin:0.5007', 'russians:0.4989', 'putin:0.4476', 'war:0.2689', 'sovereignty:0.2434', 'occupy:0.2326', 'petrenko:0.2137', 'multinational:0.2027', 'congress:0.1964', 'gather:0.1845', 'fsb:0.1477', 'student:0.1433', 'mejlis:0.1427', 'write:0.134', 'source:0.1245', 'course:0.1234', 'reason:0.1234', 'stage:0.123', 'require:0.1053', 'population:0.1032', 'look:0.1018', 'control:0.0926', 'ready:0.0915', 'state:0.0856', 'april:0.0842', 'significant:0.0717', 'allegedly:0.049', 'entire:0.0447']+titles_keywords+['crimean:0.5537', 'tatars:0.5356', 'war:0.2961', 'stages:0.1238', 'support:0.1187']"
+        ]
+    ],
+    "UKR+RUS+113":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/yahoo.com/I want Arizonans to be aware Ukrainians in Phoenix call for more severe action from.txt+eventbasecode113+eventcode113+avgtone0.49572649572649574+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['ukraine:0.4907', 'protest:0.3645', 'arizonans:0.3432', 'war:0.3334', 'concerned:0.2938', 'aid:0.2902', 'rally:0.2864', 'know:0.261', 'read:0.2556', 'republic:0.2531', 'president:0.2499', 'deliver:0.2206', 'capital:0.218', 'happen:0.218', 'hide:0.2063', 'courageous:0.1917', 'state:0.1912', 'immediate:0.1903', 'organization:0.1834', 'intersection:0.179', 'sen:0.1781', 'televise:0.1741', 'flower:0.1703', 'like:0.1643', 'authorize:0.1608', 'night:0.1488', 'drawdown:0.1347', 'traditional:0.1302', 'million:0.1247', 'theyre:0.1078']+titles_keywords+['ukrainians:0.452', 'arizonans:0.4455', 'phoenix:0.337', 'action:0.2149', 'aware:0.1464']",
+            "20220303+../news_crawling/RUS_UKR/p_articles/yahoo.com/Ukraine urges more tech companies take action against Russia.txt+eventbasecode113+eventcode113+avgtone0.4926175720014582+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.552', 'russian:0.3926', 'oracle:0.3348', 'fedorov:0.2961', 'tech:0.2705', 'musk:0.2656', 'invasion:0.2634', 'satellite:0.2446', 'company:0.2394', 'sanction:0.201', 'flag:0.1911', 'transformation:0.1698', 'bring:0.158', 'help:0.1498', 'peace:0.1458', 'tweet:0.1456', 'outreach:0.1392', 'begin:0.1155', 'hour:0.1132', 'hoodie:0.1053', 'say:0.1036', 'vice:0.0917', 'prime:0.086', 'wednesday:0.0806', 'faster:0.0799', 'story:0.0782', 'urge:0.065', 'sit:0.0606', 'state:0.0548', 'new:0.0488']+titles_keywords+['ukraine:0.4708', 'companies:0.2658', 'tech:0.1938', 'action:0.1934', 'urges:-0.0039']"
+        ],
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/yahoo.com/Ukrainian President Volodymyr Zelenskyy urges UN Security Council to take action against Russia for genocide.txt+eventbasecode113+eventcode113+avgtone0.4940828402366864+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['zelenskyy:0.5056', 'genocide:0.4096', 'ukrainian:0.4094', 'russia:0.3308', 'volodymyr:0.2752', 'president:0.2424', 'correspondent:0.1843', 'nations:0.1543', 'attention:0.135', 'news:0.1317', 'council:0.1259', 'address:0.1237', 'action:0.1199', 'bring:0.1125', 'bucha:0.0947', 'accountable:0.0933', 'international:0.0844', 'security:0.0747', 'urge:0.0739', 'pamela:0.0734', 'united:0.0708', 'tuesday:0.0642', 'cbs:0.0597', 'country:0.057', 'new:0.0478', 'community:0.0423', 'york:0.034', 'hold:0.0276', 'falk:0.0026']+titles_keywords+['zelenskyy:0.487', 'genocide:0.4028', 'russia:0.3201', 'bucha:0.1877', 'council:0.1261']"
+        ]
+    ],
+    "WST+RUS+113":[
+        []
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "EUR+UKR+42":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/business-standard.com/Ukrainians return from across Europe to fight Russian invasion.txt+eventbasecode42+eventcode42+avgtone0.4959415584415584+goldsteinscale0.595+nummentions0.3098693759071118+numarticles0.3103698332124728+numsources0.27960526315789475+news_keywords+['ukrainians:0.5021', 'kyiv:0.4584', 'refugee:0.4432', 'poland:0.3554', 'zelenskyy:0.3167', 'invasion:0.3134', 'military:0.2786', 'border:0.2664', 'flee:0.2444', 'afraid:0.2296', 'cross:0.2209', 'checkpoint:0.2108', 'onward:0.188', 'boy:0.1876', 'return:0.1845', 'fight:0.1823', 'morale:0.1816', 'cite:0.1668', 'speak:0.1647', 'woman:0.1617', 'family:0.1611', 'feed:0.1577', 'allow:0.1492', 'want:0.1482', 'care:0.1388', 'denis:0.1182', 'thursday:0.1104', 'thousand:0.104', 'age:0.0892', 'close:0.0728']+titles_keywords+['ukrainians:0.5458', 'invasion:0.3581', 'europe:0.259', 'return:0.1954', 'fight:0.1747']"
+        ],
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/business-standard.com/President Zelensky hails visit of senior European officials to Ukraine.txt+eventbasecode42+eventcode42+avgtone0.5082304526748971+goldsteinscale0.595+nummentions0.02939042089985486+numarticles0.02284263959390863+numsources0.01644736842105263+news_keywords+['kiev:0.5488', 'russia:0.3777', 'zelensky:0.3732', 'eu:0.3133', 'visit:0.3', 'president:0.2286', 'volodymyr:0.2263', 'massacre:0.214', 'news:0.1997', 'bucha:0.1943', 'military:0.1925', 'report:0.1667', 'conflict:0.1635', 'talk:0.1481', 'staff:0.1463', 'feed:0.1427', 'brief:0.134', 'km:0.1283', 'step:0.128', 'syndicate:0.1227', 'friday:0.1221', 'want:0.1118', 'josep:0.1037', 'welcome:0.1016', 'hail:0.1012', 'borrell:0.0935', 'strong:0.0908', 'rework:0.0672', 'start:0.0547', 'generate:0.0399']+titles_keywords+['zelensky:0.5412', 'ukraine:0.3596', 'visit:0.2194', 'hails:0.1848', 'president:0.1827']"
+        ]
+    ],
+    "GBR+RUS+42":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/business-standard.com/Oil drops from 7year high on report some Russian troops return to base.txt+eventbasecode42+eventcode42+avgtone0.5018348623853212+goldsteinscale0.595+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['reuters:0.4537', 'ukraine:0.4385', 'petroleum:0.3965', 'supply:0.3418', 'tehran:0.304', 'diplomacy:0.3003', 'disruption:0.2942', 'volatility:0.2902', 'nuclear:0.2744', 'report:0.2423', 'military:0.2364', 'drill:0.2239', 'boris:0.2169', 'covid:0.2153', 'escalate:0.2099', 'global:0.2098', 'watch:0.1876', 'strain:0.1845', 'counterpart:0.1828', 'standard:0.1811', 'benchmark:0.1713', 'fell:0.1646', 'forward:0.1623', 'biden:0.1592', 'week:0.1424', 'note:0.1341', 'late:0.1328', 'agree:0.1259', 'bout:0.1219', 'possible:0.1058']+titles_keywords+['oil:0.3714', 'russian:0.2467', 'drops:0.1967', '7year:0.1481', 'return:0.0622']"
+        ]
+    ],
+    "RUS+TUR+42":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/business-standard.com/Putin Macron discuss situation in Ukraine over phone conversation.txt+eventbasecode42+eventcode42+avgtone0.5091383812010444+goldsteinscale0.595+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.006578947368421052+news_keywords+['putin:0.511', 'macron:0.4173', 'kiev:0.3766', 'talk:0.2937', 'xinhua:0.2819', 'turkey:0.2752', 'evacuation:0.2633', 'humanitarian:0.2625', 'counterpart:0.2285', 'peace:0.2155', 'attention:0.2083', 'report:0.1982', 'business:0.1912', 'conclude:0.1849', 'european:0.1826', 'situation:0.1776', 'headline:0.1717', 'feed:0.1668', 'unfriendly:0.1562', 'phone:0.1557', 'shortly:0.1554', 'cite:0.1509', 'union:0.1507', 'assistance:0.1485', 'civilian:0.144', 'order:0.1349', 'measure:0.1107', 'large:0.1028', 'round:0.0949', 'particularly:0.0665']+titles_keywords+['putin:0.4172', 'macron:0.3911', 'ukraine:0.3472', 'conversation:0.3004', 'phone:0.2179']"
+        ]
+    ]
+}

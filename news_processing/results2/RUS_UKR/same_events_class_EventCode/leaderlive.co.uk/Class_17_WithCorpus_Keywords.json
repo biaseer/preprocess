@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+17":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/leaderlive.co.uk/Vladimir Putin praises Russian troops as assault on Ukraines cities continues.txt+eventbasecode17+eventcode17+avgtone0.47483940042826556+goldsteinscale0.5+nummentions0.274310595065312+numarticles0.27483683828861494+numsources0.3092105263157895+news_keywords+['kyiv:0.5132', 'putin:0.4546', 'russias:0.3967', 'annexation:0.3481', 'airstrikes:0.3467', 'genocide:0.3353', 'unprovoked:0.2882', 'troop:0.2866', 'separatist:0.266', 'conflict:0.2503', 'know:0.2337', 'casualty:0.2278', 'report:0.2276', 'ahead:0.2252', 'survive:0.2155', 'paraphrase:0.2', 'telegram:0.1992', 'enter:0.1857', 'remind:0.1778', 'detain:0.1748', 'row:0.1743', 'surround:0.1702', 'weapon:0.1682', 'long:0.1528', 'nearly:0.1513', 'data:0.1508', 'building:0.1299', 'agree:0.1279', 'dozen:0.1252', 'student:0.1191']+titles_keywords+['putin:0.392', 'ukraines:0.3762', 'troops:0.278', 'praises:0.2624', 'continues:0.114']"
+        ]
+    ],
+    "UKR+RUS+17":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/leaderlive.co.uk/NEW Sinfonia will perform A Prayer for Ukraine at T Pawb.txt+eventbasecode17+eventcode17+avgtone0.5078534031413613+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['wrexham:0.4268', 'performing:0.4082', 'ukrainian:0.3974', 'venue:0.3267', 'repertoire:0.2919', 'lysenko:0.2626', 'hymn:0.2617', 'solidarity:0.2587', 'voices:0.2345', 'celebrate:0.2211', 'folk:0.2088', 'hiraeth:0.1981', 'capital:0.1882', 'lively:0.1861', 'fiesta:0.176', 'sinfonias:0.1721', 'string:0.1596', 'april:0.1378', 'cymanfa:0.1317', 'include:0.1277', 'huge:0.1134', 'separately:0.1134', 'suppress:0.1066', 'issue:0.1014', 'world:0.0963', 'read:0.0934', 'abused:0.093', 'pawb:0.084', 'new:0.0722', 'oh:0.0629']+titles_keywords+['ukraine:0.397', 'sinfonia:0.316', 'prayer:0.2827', 'pawb:0.2719', 'new:0.161']"
+        ]
+    ]
+}

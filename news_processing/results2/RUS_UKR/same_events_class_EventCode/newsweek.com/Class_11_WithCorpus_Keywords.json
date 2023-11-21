@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+11":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/newsweek.com/Russian Soldiers Refuse To Fight as Morale Deteriorating Ukraine Says.txt+eventbasecode11+eventcode11+avgtone0.46774193548387105+goldsteinscale0.495+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['troop:0.4306', 'russian:0.3625', 'morale:0.3541', 'war:0.345', 'surrender:0.2771', 'discharged:0.2544', 'armed:0.2188', 'shortage:0.2021', 'general:0.1952', 'pentagon:0.193', 'refuse:0.1837', 'report:0.1652', 'forces:0.1612', 'donbas:0.1585', 'rosgvardia:0.1524', 'people:0.1483', 'news:0.1387', 'deteriorate:0.1308', 'says:0.1205', 'separate:0.1186', 'begin:0.1181', 'region:0.1163', 'video:0.1137', 'send:0.1111', 'outlet:0.1101', 'young:0.1101', 'numerous:0.0921', 'fodder:0.0902', 'focus:0.0817', 'amid:0.0677']+titles_keywords+['soldiers:0.3623', 'refuse:0.3362', 'russian:0.318', 'morale:0.311', 'deteriorating:0.1411']"
+        ]
+    ],
+    "RUS+UKR+11":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/newsweek.com/Will Ukraine Win the War Against Russia.txt+eventbasecode11+eventcode11+avgtone0.49032258064516127+goldsteinscale0.495+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.4757', 'ukrainian:0.4144', 'yanukovych:0.3869', 'lose:0.2765', 'nationalist:0.276', 'treaty:0.2673', 'finns:0.2496', 'ultimately:0.2259', 'warsaw:0.2235', 'reuters:0.2204', 'successful:0.2051', 'troop:0.1923', 'long:0.1874', 'escalation:0.1853', 'reversal:0.1715', 'wmd:0.1699', 'friday:0.1534', 'likelihood:0.1521', 'expert:0.152', 'main:0.1418', 'afraid:0.1408', 'corridor:0.1389', 'fate:0.1286', 'winter:0.1146', 'word:0.1123', 'imagine:0.1079', 'oust:0.1065', 'dealt:0.1039', 'total:0.097', 'arm:0.0922']+titles_keywords+['ukraine:0.5079', 'russia:0.3617', 'win:0.3342', 'war:0.3146']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+72":[
+        [
+            "20220103+../news_crawling/RUS_UKR/p_articles/thehill.com/Biden tells Zelensky US allies will respond decisively if Russia invades.txt+eventbasecode72+eventcode72+avgtone0.48563968668407315+goldsteinscale0.915+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.4143', 'nato:0.4118', 'invades:0.3669', 'russias:0.3423', 'biden:0.3252', 'diplomatic:0.3225', 'war:0.2932', 'strategic:0.2626', 'psaki:0.2307', 'escalate:0.228', 'zelenskyon:0.2273', 'warn:0.2248', 'convene:0.2109', 'ally:0.2025', 'prepared:0.1967', 'respond:0.1907', 'sanction:0.1898', 'videoconference:0.1668', 'follow:0.1579', 'tension:0.1484', 'asdiscussions:0.1467', 'note:0.1441', 'end:0.1264', 'southeastern:0.1192', 'sunday:0.1061', 'addingukraine:0.1032', 'bilateral:0.102', 'make:0.0979', 'price:0.0748', 'saidthe:0.0538']+titles_keywords+['zelensky:0.3869', 'biden:0.3573', 'allies:0.2867', 'decisively:0.2006', 'respond:0.1866']"
+        ],
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/thehill.com/More rocket strikes but no additional Russian troops as attack on Ukraine continues.txt+eventbasecode72+eventcode72+avgtone0.47045454545454546+goldsteinscale0.915+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukraine:0.4263', 'kremlin:0.3668', 'incursion:0.2833', 'military:0.2814', 'prepare:0.255', 'progress:0.2523', 'missile:0.2216', 'increase:0.1941', 'monday:0.1926', 'continue:0.1913', 'infrastructure:0.1892', 'result:0.1885', 'hit:0.1879', 'conflict:0.181', 'reporter:0.1765', 'additional:0.1715', 'near:0.1637', 'long:0.1566', 'indicate:0.155', 'bogged:0.1364', 'fled:0.1328', 'great:0.13', 'imprecision:0.1194', 'amass:0.1152', 'lot:0.1127', 'fierce:0.1051', 'major:0.1033', 'theyve:0.0905', 'send:0.0838', 'percent:0.055']+titles_keywords+['ukraine:0.3931', 'rocket:0.2507', 'continues:0.2182', 'troops:0.2144', 'strikes:0.1575']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+30":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/12newsnow.com/In major shift Germany will send weapons to Ukraine.txt+eventbasecode30+eventcode30+avgtone0.4868995633187773+goldsteinscale0.7+nummentions0.023222060957910014+numarticles0.023930384336475707+numsources0.03618421052631579+news_keywords+['ukraine:0.4803', 'military:0.3187', 'invasion:0.2968', 'pentagon:0.2951', 'shift:0.2898', 'conflict:0.2752', 'economy:0.2685', 'oppose:0.2545', 'news:0.2523', 'strategy:0.2463', 'tank:0.2415', 'order:0.2389', 'chancellery:0.2367', 'howitzer:0.2291', 'assistance:0.2271', 'ally:0.2207', 'pledge:0.2143', 'soon:0.2001', 'biden:0.1608', 'global:0.1538', 'decouple:0.1466', 'collateral:0.1331', 'various:0.1291', 'significant:0.1288', 'nonlethal:0.1219', 'make:0.1104', 'habeck:0.1091', 'long:0.1029', 'welcome:0.0993', 'billion:0.0945']+titles_keywords+['ukraine:0.4673', 'weapons:0.3475', 'shift:0.3136', 'major:0.2062', 'send:0.1553']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/12newsnow.com/A beacon of hope Ukraine Russia sign grain export deal.txt+eventbasecode30+eventcode30+avgtone0.4898198903680502+goldsteinscale0.7+nummentions0.062409288824383166+numarticles0.0630891950688905+numsources0.06578947368421052+news_keywords+['ukraine:0.4325', 'blockade:0.3179', 'peace:0.2718', 'humanitarian:0.2691', 'globe:0.2595', 'plan:0.2553', 'economic:0.2475', 'meeting:0.2398', 'want:0.2322', 'anticipate:0.2224', 'incoming:0.2175', 'ap:0.2157', 'tayyip:0.2148', 'forward:0.2096', 'departures:0.2078', 'extend:0.2058', 'feed:0.1957', 'corridor:0.1921', 'sign:0.1893', 'word:0.187', 'authority:0.1836', 'secretary:0.1654', 'described:0.1535', 'point:0.1507', 'export:0.1387', 'minesweeper:0.1315', 'corn:0.1244', 'month:0.1165', 'blame:0.1142', 'doesnt:0.0567']+titles_keywords+['ukraine:0.454', 'grain:0.3084', 'deal:0.2324', 'hope:0.2055', 'export:0.2014']"
+        ]
+    ]
+}

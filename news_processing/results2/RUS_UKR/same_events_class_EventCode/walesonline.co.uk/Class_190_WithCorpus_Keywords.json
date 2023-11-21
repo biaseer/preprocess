@@ -1,0 +1,35 @@
+{
+    "GBR+RUS+190":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/British man reportedly killed fighting in Ukraine showed commando spirit until the end.txt+eventbasecode190+eventcode190+avgtone0.49387254901960786+goldsteinscale0.0+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.023026315789473683+news_keywords+['ukraine:0.3864', 'veteran:0.3814', 'tributes:0.3281', 'gofundme:0.2443', 'widow:0.2441', 'bbc:0.2389', 'britons:0.2352', 'sibleys:0.2351', 'brave:0.2277', 'forget:0.2173', 'kill:0.206', 'invasion:0.1918', 'commando:0.1914', 'barker:0.1763', 'logistic:0.1656', 'gant:0.1639', 'page:0.1635', 'believe:0.1483', 'title:0.1429', 'confusion:0.1402', 'short:0.1355', 'right:0.1319', 'reportedly:0.1312', 'end:0.1212', 'hi:0.1146', 'rd:0.111', 'ive:0.1054', 'alongside:0.1049', 'organise:0.1027', 'cost:0.0797']+titles_keywords+['commando:0.3066', 'ukraine:0.2864', 'fighting:0.249', 'killed:0.1747', 'man:0.147']"
+        ]
+    ],
+    "RUS+GBR+190":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/UK fears underpressure Vladimir Putin could declare WWIII in just a matter of days.txt+eventbasecode190+eventcode190+avgtone0.493421052631579+goldsteinscale0.0+nummentions0.036284470246734396+numarticles0.03698332124728064+numsources0.039473684210526314+news_keywords+['putin:0.4935', 'nato:0.4405', 'moscow:0.3789', 'ukrainians:0.3777', 'wwiii:0.3648', 'threat:0.2894', 'rhetoric:0.2659', 'expeditionary:0.2301', 'uk:0.2245', 'border:0.2005', 'cancerous:0.1918', 'cite:0.1899', 'plan:0.1898', 'long:0.1836', 'matter:0.1823', 'alongside:0.1755', 'report:0.1691', 'day:0.1689', 'say:0.1574', 'exercises:0.1551', 'scale:0.1466', 'consolidate:0.1406', 'mr:0.1317', 'february:0.1315', 'significant:0.1231', 'limpet:0.1167', 'believe:0.106', 'nearly:0.0994', 'wooddisse:0.0887', 'add:0.0435']+titles_keywords+['wwiii:0.4447', 'putin:0.4118', 'underpressure:0.2193', 'uk:0.1715', 'days:0.0876']"
+        ]
+    ],
+    "RUS+RUS+190":[
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Putin eyes powerful Kremlin job for daughter as rumours over his health continue.txt+eventbasecode190+eventcode190+avgtone0.4925512104283054+goldsteinscale0.0+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.013157894736842105+news_keywords+['putin:0.6016', 'kremlin:0.554', 'patrushev:0.3883', 'regime:0.3792', 'succession:0.3353', 'candidacy:0.3018', 'secretary:0.2894', 'katerina:0.284', 'puppet:0.2741', 'tikhonova:0.2537', 'situation:0.2507', 'unrest:0.2489', 'federation:0.2389', 'telegram:0.2355', 'information:0.2143', 'report:0.1929', 'rumour:0.1914', 'head:0.1901', 'want:0.1901', 'powerful:0.178', 'approves:0.1741', 'suffer:0.1646', 'circulate:0.1593', 'prerequisite:0.1592', 'raise:0.1585', 'end:0.1578', 'soon:0.1571', 'amid:0.1513', 'state:0.1509', 'new:0.109']+titles_keywords+['kremlin:0.46', 'job:0.2262', 'rumours:0.2042', 'daughter:0.2015', 'powerful:0.1101']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Worlds largest cargo aircraft destroyed by Russian forces outside Kyiv say reports.txt+eventbasecode190+eventcode190+avgtone0.49859154929577465+goldsteinscale0.0+nummentions0.3149492017416546+numarticles0.31435823060188545+numsources0.4967105263157895+news_keywords+['aircraft:0.4784', 'kyiv:0.4639', 'antonov:0.4173', 'soviet:0.3931', 'cargo:0.2911', 'destroy:0.2841', 'mriya:0.2587', 'ssr:0.2377', 'dmytro:0.2201', 'federation:0.2128', 'report:0.1979', 'large:0.1849', 'history:0.1694', 'arrive:0.1691', 'billion:0.1592', 'target:0.1566', 'make:0.1511', 'metre:0.1438', 'capability:0.1431', 'occupier:0.1416', 'longer:0.1413', 'update:0.1412', 'mr:0.1407', 'prevail:0.1327', 'world:0.121', 'covered:0.1204', 'dream:0.1102', 'cost:0.0934', 'monoloading:0.0934', 'definitely:0.0911']+titles_keywords+['kyiv:0.3975', 'largest:0.3161', 'aircraft:0.3155', 'cargo:0.2346', 'destroyed:0.1933']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Russia suffered heavy losses overnight in failed Kyiv attacks claims Ukraine General.txt+eventbasecode190+eventcode190+avgtone0.45375722543352587+goldsteinscale0.0+nummentions0.11756168359941944+numarticles0.11820159535895576+numsources0.15460526315789475+news_keywords+['kyiv:0.5658', 'russian:0.3761', 'syrsky:0.3428', 'attack:0.3158', 'troop:0.3135', 'colonel:0.2638', 'failed:0.2561', 'demoralize:0.2292', 'storm:0.2245', 'capital:0.2241', 'exhausted:0.2055', 'columns:0.1964', 'overnight:0.1861', 'alexander:0.1822', 'claim:0.1727', 'control:0.1677', 'suffer:0.1604', 'repeat:0.1482', 'forces:0.1417', 'occupant:0.1415', 'decision:0.1378', 'technology:0.1226', 'lead:0.122', 'outskirt:0.121', 'official:0.1157', 'make:0.1108', 'page:0.0936', 'independently:0.0891', 'significant:0.0752', 'share:0.0596']+titles_keywords+['kyiv:0.4387', 'losses:0.3364', 'failed:0.1961', 'general:0.1599', 'overnight:0.0928']"
+        ],
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Ukraine war Before and after images show the scale of destruction.txt+eventbasecode190+eventcode190+avgtone0.46828358208955223+goldsteinscale0.0+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.049342105263157895+news_keywords+['ukraine:0.4872', 'war:0.3956', 'vladimir:0.2792', 'conflict:0.2625', 'military:0.2507', 'bombardment:0.2474', 'destroy:0.2421', 'kharkiv:0.2413', 'humanitarian:0.2167', 'earlier:0.198', 'neighbouring:0.1664', 'long:0.1526', 'city:0.1514', 'scar:0.1472', 'flee:0.1365', 'western:0.1334', 'result:0.1331', 'use:0.1262', 'advance:0.1257', 'main:0.1225', 'repair:0.1215', 'plant:0.1202', 'routes:0.1006', 'forced:0.0862', 'million:0.0857', 'look:0.0837', 'day:0.0768', 'flatten:0.0751', 'bid:0.0409', 'slider:0.032']+titles_keywords+['ukraine:0.4145', 'war:0.3829', 'destruction:0.3671', 'images:0.3148', 'scale:0.1364']"
+        ]
+    ],
+    "UKR+UKR+190":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/More than 2000 civilians have died in a week in Ukraine says state service.txt+eventbasecode190+eventcode190+avgtone0.46545454545454545+goldsteinscale0.0+nummentions0.33708272859216254+numarticles0.33756345177664976+numsources0.39473684210526316+news_keywords+['ukraine:0.479', 'kremlin:0.4392', 'war:0.4081', 'airstrike:0.3862', 'chernobyl:0.329', 'boychenko:0.3089', 'escalation:0.3048', 'strategic:0.2471', 'tank:0.2435', 'decommission:0.2428', 'prepare:0.2395', 'news:0.2367', 'warn:0.2249', 'capital:0.2223', 'volodymyr:0.2204', 'soon:0.2158', 'occupier:0.2135', 'learn:0.2094', 'justify:0.2028', 'iaea:0.1974', 'populate:0.187', 'counter:0.1837', 'hit:0.1822', 'forget:0.1729', 'turn:0.1639', 'actual:0.1477', 'adjacent:0.1399', 'resume:0.1178', 'received:0.0672', 'cost:0.0656']+titles_keywords+['civilians:0.4228', 'ukraine:0.3517', '2000:0.2281', 'died:0.1698', 'week:0.1173']"
+        ]
+    ]
+}

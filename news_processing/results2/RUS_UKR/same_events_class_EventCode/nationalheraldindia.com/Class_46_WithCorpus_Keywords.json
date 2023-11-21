@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+46":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/nationalheraldindia.com/Zelensky says talks with Russia to continue despite atrocities of Russian military.txt+eventbasecode46+eventcode46+avgtone0.45294117647058824+goldsteinscale0.85+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.01644736842105263+news_keywords+['kiev:0.4785', 'zelensky:0.4098', 'russian:0.3882', 'war:0.2928', 'kill:0.2655', 'volodymyr:0.2385', 'accusation:0.2356', 'continue:0.2239', 'news:0.1932', 'talk:0.186', 'president:0.1824', 'atrocity:0.1796', 'settlement:0.1759', 'bucha:0.1756', 'regime:0.1738', 'report:0.1727', 'civilian:0.1666', 'emphasise:0.147', 'km:0.1366', 'photograph:0.121', 'quote:0.1162', 'control:0.1146', 'process:0.1128', 'despite:0.1068', 'retook:0.0732', 'kind:0.0593', 'early:0.0576', 'completely:0.0547', 'add:0.04', 'difficult:0.0244']+titles_keywords+['zelensky:0.5517', 'talks:0.2594', 'russia:0.2541', 'atrocities:0.1849', 'continue:0.1667']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/nationalheraldindia.com/Ukraines position at talks with Russia unchanged chief negotiator.txt+eventbasecode46+eventcode46+avgtone0.4913793103448276+goldsteinscale0.85+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4599', 'negotiation:0.3515', 'istanbul:0.3502', 'unchanged:0.3187', 'vladimir:0.3097', 'peace:0.2494', 'xinhua:0.2482', 'talk:0.2385', 'news:0.2167', 'communique:0.2069', 'telegram:0.2063', 'arakhamia:0.2004', 'position:0.1975', 'continue:0.1739', 'delegation:0.1718', 'president:0.1636', 'regime:0.1601', 'difference:0.1549', 'misinterpretation:0.1524', 'issue:0.1356', 'current:0.1305', 'say:0.1285', 'state:0.1104', 'head:0.0981', 'month:0.0874', 'earlier:0.0797', 'process:0.0794', 'guarantee:0.078', 'online:0.0708', 'include:0.0592']+titles_keywords+['ukraines:0.3852', 'unchanged:0.3471', 'negotiator:0.3267', 'position:0.2196', 'chief:0.0731']"
+        ]
+    ]
+}

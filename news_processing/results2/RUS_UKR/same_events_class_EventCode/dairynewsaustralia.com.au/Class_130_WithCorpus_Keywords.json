@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+130":[
+        [
+            "20220123+../news_crawling/RUS_UKR/p_articles/dairynewsaustralia.com.au/UK warns Russia against Ukraine puppet.txt+eventbasecode130+eventcode130+avgtone0.4711359404096834+goldsteinscale0.27999999999999997+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['ukraine:0.4441', 'kremlin:0.4238', 'nato:0.371', 'invade:0.3623', 'yanukovich:0.297', 'puppet:0.2944', 'treason:0.2862', 'disinformation:0.2856', 'diplomats:0.2741', 'crisis:0.204', 'confuse:0.1984', 'protest:0.1944', 'tension:0.188', 'yevhen:0.1806', 'officer:0.1731', 'supply:0.171', 'insist:0.1614', 'future:0.1604', 'careful:0.1493', 'democratically:0.14', 'ban:0.1301', 'usual:0.129', 'sentence:0.1147', 'mp:0.1088', 'integration:0.0979', 'install:0.0978', 'stand:0.0939', 'head:0.0923', 'numerous:0.071', 'raab:0.0668']+titles_keywords+['ukraine:0.4462', 'puppet:0.3467', 'russia:0.3288', 'warns:0.2098', 'uk:0.205']"
+        ]
+    ],
+    "RUS+EUR+130":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/dairynewsaustralia.com.au/Russia recognising Ukraine rebel areas.txt+eventbasecode130+eventcode130+avgtone0.4784217016029594+goldsteinscale0.27999999999999997+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.009868421052631578+news_keywords+['ukraine:0.4871', 'nato:0.4228', 'kremlin:0.3876', 'separatist:0.345', 'ceasefire:0.338', 'dmitry:0.332', 'statehood:0.3159', 'invade:0.3004', 'annex:0.2902', 'eastward:0.2416', 'ottoman:0.2353', 'table:0.2074', 'bloc:0.1971', 'predict:0.1918', 'enter:0.1885', 'urgent:0.1738', 'mediate:0.1724', 'history:0.1691', 'option:0.1639', 'reject:0.1506', 'news:0.1454', 'long:0.1389', 'pretext:0.1344', 'biden:0.1213', 'fabricate:0.1079', 'reversing:0.1016', 'entity:0.0941', 'look:0.0878', 'unless:0.0636', 'largely:0.0376']+titles_keywords+['ukraine:0.5224', 'russia:0.4358', 'rebel:0.2572', 'areas:0.2223', 'recognising:0.2108']"
+        ]
+    ]
+}

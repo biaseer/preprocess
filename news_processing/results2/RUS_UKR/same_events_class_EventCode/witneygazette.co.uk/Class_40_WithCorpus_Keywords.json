@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+40":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/witneygazette.co.uk/Putin puts Russias nuclear forces on alert amid invasion of Ukraine.txt+eventbasecode40+eventcode40+avgtone0.4775+goldsteinscale0.55+nummentions0.08526850507982583+numarticles0.08593183466279913+numsources0.19407894736842105+news_keywords+['putin:0.4818', 'nato:0.4753', 'kyiv:0.4265', 'belarus:0.4113', 'russias:0.4031', 'invasion:0.3714', 'nuclear:0.3332', 'negotiation:0.3047', 'zelensky:0.2971', 'infrastructure:0.2828', 'border:0.262', 'alert:0.2305', 'presidentvolodymyr:0.2233', 'prepare:0.2197', 'delegation:0.2124', 'action:0.2112', 'abuse:0.2108', 'order:0.2035', 'east:0.2022', 'launch:0.1697', 'weapon:0.1677', 'unfriendly:0.1594', 'increase:0.1554', 'statement:0.1385', 'make:0.1253', 'arent:0.119', 'reader:0.1073', 'amid:0.1002', 'multiple:0.0793', 'stag:0.0571']+titles_keywords+['putin:0.3605', 'nuclear:0.332', 'invasion:0.2151', 'alert:0.1236', 'puts:0.0318']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/witneygazette.co.uk/Zelensky seeks tough global response after 52 killed at Ukrainian train station.txt+eventbasecode40+eventcode40+avgtone0.45640074211502785+goldsteinscale0.55+nummentions0.24383164005805516+numarticles0.24437998549673676+numsources0.3157894736842105+news_keywords+['kremlin:0.519', 'kyiv:0.5102', 'ukrainians:0.4683', 'vladimir:0.4411', 'zelensky:0.4068', 'peskovs:0.3779', 'massacre:0.3466', 'firing:0.2882', 'missile:0.2855', 'separatist:0.2782', 'military:0.2723', 'deflect:0.2454', 'infrastructure:0.2422', 'reporter:0.241', 'flag:0.2391', 'telegram:0.2242', 'blame:0.1781', 'debate:0.1755', 'misuse:0.1676', 'bucha:0.1663', 'direct:0.1648', 'phrasing:0.1623', 'child:0.1597', 'say:0.1563', 'pull:0.1527', 'order:0.1506', 'unclear:0.1459', 'right:0.1371', 'begin:0.1348', 'critical:0.1346']+titles_keywords+['zelensky:0.5533', 'ukrainian:0.3151', '52:0.2085', 'train:0.1379', 'global:0.1346']"
+        ]
+    ]
+}

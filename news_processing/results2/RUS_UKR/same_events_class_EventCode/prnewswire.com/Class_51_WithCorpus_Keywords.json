@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/prnewswire.com/Terran Orbital Begins Trading on the New York Stock Exchange Under Ticker Symbol LLAP and.txt+eventbasecode51+eventcode51+avgtone0.5033185840707964+goldsteinscale0.67+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['orbital:0.4641', 'satellitesprimarily:0.3975', 'aerospace:0.3658', 'ticker:0.3585', 'terranorbital:0.3382', 'constellation:0.3122', 'launch:0.3002', 'ceo:0.2836', 'llap:0.2644', 'manufacture:0.2631', 'prnewswire:0.2404', 'gaap:0.2335', 'com:0.213', 'information:0.2047', 'capitalize:0.2011', 'milestone:0.1967', 'listing:0.1923', 'current:0.1802', 'warrant:0.1774', 'symbols:0.164', 'term:0.1607', 'exponentially:0.1552', 'vertically:0.1451', 'month:0.1415', 'anticipate:0.1334', 'integrate:0.1328', 'new:0.1304', 'prove:0.1288', 'backlog:0.1273', 'look:0.1026']+titles_keywords+['llap:0.5051', 'orbital:0.3801', 'ticker:0.3476', 'backlog:0.2157', 'million:0.1452']"
+        ],
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/prnewswire.com/EPAM Reports Results for First Quarter 2022.txt+eventbasecode51+eventcode51+avgtone0.48685158501440917+goldsteinscale0.67+nummentions0.022133526850507984+numarticles0.02284263959390863+numsources0.03618421052631579+news_keywords+['epam:0.4694', 'gaap:0.3807', 'profitability:0.3762', 'companies:0.3738', 'prnewswire:0.3278', 'concern:0.3', 'nyse:0.2788', 'anticipate:0.2705', 'consolidate:0.2624', 'translate:0.2407', 'benefit:0.2316', 'belarus:0.2264', 'forward:0.2198', 'report:0.216', 'accuracy:0.2055', 'update:0.1994', 'headings:0.1982', 'resource:0.1975', 'federal:0.1963', 'table:0.1945', 'systems:0.1931', 'sp:0.1878', 'statement:0.1856', 'require:0.1788', 'basis:0.1765', 'respectively:0.1761', 'month:0.1686', 'https:0.1669', 'emerge:0.1525', 'factor:0.1379']+titles_keywords+['epam:0.6697', 'results:0.3262', '2022:0.3123', 'reports:0.1898', 'quarter:0.1772']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/prnewswire.com/EarthDaily Analytics Terminates Operations in Russia.txt+eventbasecode51+eventcode51+avgtone0.4920159680638722+goldsteinscale0.67+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.003289473684210526+news_keywords+['earthdaily:0.5095', 'analytics:0.4332', 'terratech:0.3527', 'agriculture:0.3472', 'eda:0.3463', 'prnewswire:0.3388', 'geosys:0.3316', 'antarctica:0.3055', 'earthpipeline:0.3021', 'company:0.2996', 'global:0.2763', 'governmental:0.2688', 'constellation:0.2417', 'moscow:0.2405', 'utilize:0.2392', 'progress:0.2357', 'operation:0.2356', 'collaborate:0.2115', 'humanitarian:0.2039', 'comprehend:0.2024', 'bc:0.1984', 'daysandweeks:0.1754', 'derive:0.1605', 'andtheir:0.1592', 'diverse:0.1567', 'crucial:0.1485', 'say:0.1397', 'terminates:0.1375', 'vertically:0.1273', 'pre:0.1099']+titles_keywords+['earthdaily:0.4165', 'russia:0.3668', 'analytics:0.2336', 'terminates:0.2098', 'operations:0.0508']"
+        ]
+    ]
+}

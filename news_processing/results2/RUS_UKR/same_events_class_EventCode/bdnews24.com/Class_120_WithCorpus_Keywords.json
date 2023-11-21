@@ -1,0 +1,22 @@
+{
+    "GBR+RUS+120":[
+        [
+            "20210628+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Ukraine US to start Black Sea military drills despite Russian protest.txt+eventbasecode120+eventcode120+avgtone0.4856459330143541+goldsteinscale0.3+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.019736842105263157+news_keywords+['crimea:0.5686', 'nato:0.4501', 'peacekeeping:0.3695', 'russian:0.3297', 'troop:0.2929', 'operation:0.2443', 'annex:0.2405', 'drill:0.2166', 'uss:0.2156', 'separatist:0.1986', 'action:0.1952', 'protest:0.1948', 'border:0.1838', 'read:0.1678', 'tension:0.1638', 'multinational:0.1552', 'black:0.1539', 'involve:0.1535', 'protect:0.1455', 'aircraft:0.1436', 'incident:0.1432', 'ross:0.13', 'plummet:0.1166', 'cancel:0.1135', 'washington:0.1042', 'gain:0.0975', 'water:0.0933', 'week:0.0801', 'chase:0.058', 'main:0.0323']+titles_keywords+['ukraine:0.3545', 'military:0.2659', 'protest:0.2066', 'drills:0.1991', 'black:0.1013']"
+        ]
+    ],
+    "MEX+RUS+120":[
+        [
+            "20220410+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Mexico says it does not accept Russian invasion of Ukraine.txt+eventbasecode120+eventcode120+avgtone0.46060606060606063+goldsteinscale0.3+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.006578947368421052+news_keywords+['ukraine:0.4698', 'invasion:0.3761', 'obrador:0.3345', 'refugee:0.294', 'spanish:0.2537', 'trudeau:0.2528', 'abstain:0.2405', 'nation:0.2008', 'conflict:0.1968', 'lopez:0.1634', 'attend:0.1616', 'sanction:0.1453', 'promise:0.1382', 'justin:0.1371', 'neutral:0.1289', 'thursday:0.1131', 'displace:0.1097', 'people:0.1056', 'suffer:0.0928', 'unable:0.0893', 'reference:0.0818', 'invite:0.0763', 'video:0.0661', 'unga:0.062', 'ursula:0.0595', 'right:0.0575', 'commission:0.0444', 'fund:0.0363', 'der:0.0307', 'internally:0.0225']+titles_keywords+['ukraine:0.4415', 'mexico:0.3706', 'invasion:0.2559', 'accept:0.2187', 'does:0.0537']"
+        ]
+    ],
+    "UKR+DEU+120":[
+        [
+            "20220211+../news_crawling/RUS_UKR/p_articles/bdnews24.com/With Ukraine standoff Putin takes Europe into the unknown.txt+eventbasecode120+eventcode120+avgtone0.47958057395143494+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.5093', 'ukraine:0.4403', 'nato:0.4044', 'rossiya:0.3442', 'briefing:0.3196', 'invades:0.3013', 'odessa:0.293', 'expansionism:0.291', 'threat:0.2876', 'embassy:0.2743', 'eu:0.2355', 'news:0.2204', 'armament:0.2089', 'ahead:0.1982', 'intend:0.1967', 'term:0.1947', 'prescient:0.1851', 'bloc:0.1735', 'flag:0.1734', 'classify:0.1637', 'long:0.1621', 'say:0.1575', 'explicit:0.156', 'pipeline:0.1517', 'include:0.1511', 'current:0.1295', 'scale:0.1288', 'december:0.1184', 'uncontained:0.0981', 'false:0.0835']+titles_keywords+['putin:0.519', 'standoff:0.323', 'europe:0.2846', 'unknown:0.1904', 'takes:0.1103']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220521+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Europe is determined to cut fossil fuel ties with Russia.txt+eventbasecode120+eventcode120+avgtone0.48823529411764705+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['refineries:0.4436', 'soviet:0.3634', 'diesel:0.3369', 'economy:0.3286', 'technopolitics:0.3057', 'embargo:0.2663', 'sector:0.2491', 'eus:0.2475', 'renewable:0.2398', 'cite:0.2373', 'repowereu:0.2364', 'reduce:0.2256', 'arabia:0.204', 'debate:0.2011', 'study:0.1917', 'converter:0.1897', 'bloc:0.1889', 'replace:0.1853', 'make:0.1775', 'increase:0.1599', 'relation:0.1548', 'process:0.1526', 'know:0.1363', 'fossil:0.1355', 'term:0.1325', 'forward:0.1281', 'deep:0.108', 'cost:0.0786', 'ready:0.0763', 'month:0.0637']+titles_keywords+['russia:0.2998', 'fuel:0.2757', 'fossil:0.1673', 'cut:0.1619', 'ties:0.161']"
+        ]
+    ]
+}

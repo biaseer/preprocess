@@ -1,0 +1,18 @@
+{
+    "RUS+CAN+80":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/castanet.net/Vernonbased Slavic United Network raising funds to help Ukrainian refugees come to Vernon Lake Country.txt+eventbasecode80+eventcode80+avgtone0.49710144927536226+goldsteinscale0.75+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['refugee:0.5534', 'immigration:0.4575', 'ukraine:0.4283', 'residency:0.4059', 'okanagan:0.3721', 'vernon:0.3716', 'housing:0.3532', 'volunteer:0.3251', 'community:0.3059', 'apply:0.276', 'war:0.2692', 'rural:0.2402', 'benefit:0.2313', 'flee:0.2244', 'help:0.2156', 'fund:0.1943', 'goal:0.1927', 'request:0.1915', 'furnish:0.1901', 'primary:0.1835', 'route:0.1777', 'settle:0.1644', 'log:0.1509', 'come:0.1495', 'right:0.1446', 'february:0.1337', 'new:0.1319', 'square:0.1232', 'safeway:0.1191', 'integrate:0.0952']+titles_keywords+['vernon:0.483', 'refugees:0.4772', 'slavic:0.3574', 'funds:0.3135', 'united:0.2176']"
+        ]
+    ],
+    "RUS+UKR+80":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/castanet.net/Ukraine rejects Russian demand for surrender in Mariupol.txt+eventbasecode80+eventcode80+avgtone0.4683225341972643+goldsteinscale0.75+nummentions0.18142235123367198+numarticles0.18056562726613487+numsources0.45394736842105265+news_keywords+['ukraine:0.4684', 'kremlin:0.4303', 'chernobyl:0.3205', 'evacuate:0.3053', 'war:0.2842', 'takeover:0.283', 'zelenskyy:0.276', 'prepare:0.2595', 'news:0.2587', 'progress:0.2436', 'meltdown:0.2425', 'capitulation:0.2187', 'know:0.2169', 'warms:0.2076', 'unite:0.1981', 'concerns:0.1959', 'respond:0.1955', 'heading:0.1911', 'described:0.1871', 'friday:0.179', 'nearly:0.1764', 'help:0.1743', 'rivne:0.1741', 'bucha:0.1653', 'long:0.1636', 'civilian:0.156', 'rotate:0.1519', 'plant:0.1341', 'include:0.1227', 'major:0.1176']+titles_keywords+['surrender:0.4206', 'ukraine:0.3945', 'mariupol:0.2589', 'rejects:0.1848', 'demand:0.0172']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [],
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/castanet.net/Big Mac is coming back McDonalds to reopen in Ukraine.txt+eventbasecode80+eventcode80+avgtone0.49473684210526314+goldsteinscale0.75+nummentions0.21262699564586357+numarticles0.2131979695431472+numsources0.19078947368421054+news_keywords+['ukraine:0.5233', 'mcdonald:0.4271', 'economy:0.3313', 'operate:0.2508', 'corporate:0.2434', 'food:0.2408', 'capital:0.2326', 'western:0.2299', 'american:0.2261', 'tochka:0.218', 'vkusno:0.2103', 'invasion:0.2016', 'govor:0.1834', 'normalcy:0.1617', 'prepare:0.1598', 'happen:0.1594', 'chain:0.1519', 'month:0.1424', 'continue:0.1424', 'reopen:0.1402', 'fight:0.1367', 'big:0.1365', 'important:0.1268', 'tasty:0.1135', 'nearly:0.103', 'pull:0.101', 'shrink:0.0938', 'ease:0.0696', 'weve:0.0692', 'cost:0.0652']+titles_keywords+['mcdonalds:0.4186', 'ukraine:0.2781', 'reopen:0.2183', 'big:0.2015', 'coming:0.1525']"
+        ]
+    ]
+}

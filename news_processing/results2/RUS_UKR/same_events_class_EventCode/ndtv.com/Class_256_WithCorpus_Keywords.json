@@ -1,0 +1,15 @@
+{
+    "CHN+UKR+256":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/ndtv.com/China Inks New Rules On Supervision Of Military Equipment Purchase Contracts.txt+eventbasecode25+eventcode256+avgtone0.4862068965517241+goldsteinscale0.485+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['china:0.3184', 'supervision:0.3115', 'rule:0.2944', 'military:0.2781', 'xinhua:0.2766', 'purchase:0.2317', 'contracts:0.2257', 'equipment:0.2212', 'ceasefire:0.1816', 'biden:0.1705', 'news:0.1677', 'ink:0.1425', 'warn:0.1311', 'quality:0.1245', 'official:0.1155', 'auto:0.1151', 'ndtv:0.1147', 'make:0.1134', 'jinping:0.1085', 'deliver:0.1006', 'discuss:0.0975', 'syndicate:0.0945', 'attack:0.0855', 'sure:0.0849', 'good:0.081', 'feed:0.0764', 'aim:0.0697', 'saturday:0.0675', 'counterpart:0.0538', 'specific:0.0472']+titles_keywords+['china:0.303', 'military:0.256', 'rules:0.2478', 'purchase:0.1729', 'equipment:0.1581']"
+        ]
+    ],
+    "RUS+UKR+256":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/ndtv.com/UkraineRussia War Highlights Ukraine Refuses To Surrender Mariupol As Attacks Continue.txt+eventbasecode25+eventcode256+avgtone0.4125+goldsteinscale0.485+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.003289473684210526+news_keywords+['ukraine:0.5632', 'putin:0.4556', 'nato:0.4124', 'war:0.3614', 'zelensky:0.3111', 'humanitarian:0.2505', 'macron:0.2429', 'surrender:0.2394', 'volodymyr:0.2177', 'coordinate:0.1789', 'mariupol:0.1598', 'outlet:0.1496', 'understand:0.1414', 'counterpart:0.138', 'resident:0.1329', 'stop:0.1299', 'hour:0.1111', 'order:0.1079', 'february:0.1042', 'phone:0.1009', 'ready:0.0967', 'attend:0.0923', 'format:0.0915', 'sign:0.0862', 'summit:0.0848', 'discus:0.0808', 'fully:0.0786', 'highlights:0.0764', 'terrible:0.0686', 'little:0.05']+titles_keywords+['ukraine:0.4115', 'surrender:0.3578', 'mariupol:0.2856', 'refuses:0.2833', 'highlights:0.0846']"
+        ],
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/ndtv.com/This Is Genocide Ukraines Zelensky After Discovery Of Mass Graves.txt+eventbasecode25+eventcode256+avgtone0.48307952622673433+goldsteinscale0.485+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['genocide:0.5065', 'ceasefire:0.4405', 'kyiv:0.4079', 'putin:0.393', 'nato:0.3229', 'zelensky:0.3081', 'troop:0.2527', 'headline:0.2243', 'pursue:0.2203', 'know:0.2185', 'end:0.1992', 'transcript:0.1988', 'eliminate:0.1961', 'term:0.1934', 'grave:0.1905', 'law:0.181', 'th:0.1677', 'meet:0.1665', 'revulsion:0.1444', 'neutral:0.1421', 'world:0.1382', 'planning:0.1329', 'guarantee:0.1289', 'chorus:0.1273', 'secretary:0.1261', 'bucha:0.1072', 'child:0.1058', 'ndtv:0.1046', 'grateful:0.0963', 'offer:0.0875']+titles_keywords+['genocide:0.5522', 'zelensky:0.409', 'ukraines:0.3853', 'graves:0.2798', 'discovery:0.2387']"
+        ]
+    ]
+}

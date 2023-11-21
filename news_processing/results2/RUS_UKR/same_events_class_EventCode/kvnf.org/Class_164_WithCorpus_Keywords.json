@@ -1,0 +1,15 @@
+{
+    "RUS+TUR+164":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/kvnf.org/Negotiators from Russia and Ukraine meet face to face for the first time in weeks.txt+eventbasecode164+eventcode164+avgtone0.5+goldsteinscale0.15+nummentions0.06567489114658925+numarticles0.06635242929659173+numsources0.11842105263157894+news_keywords+['crimea:0.4645', 'negotiators:0.3523', 'erdogan:0.3397', 'war:0.338', 'nato:0.3205', 'talk:0.251', 'want:0.2377', 'zelenskyy:0.2369', 'escalate:0.224', 'table:0.216', 'planning:0.2093', 'ok:0.1936', 'security:0.1882', 'concession:0.1857', 'news:0.185', 'implement:0.1771', 'respond:0.1729', 'hold:0.1672', 'corridor:0.1657', 'mutual:0.1641', 'capital:0.1631', 'study:0.1531', 'dutch:0.1515', 'begin:0.1506', 'forward:0.1499', 'separate:0.1245', 'exactly:0.1166', 'complete:0.1162', 'set:0.1123', 'bit:0.074']+titles_keywords+['negotiators:0.4953', 'ukraine:0.3428', 'meet:0.3103', 'weeks:0.1461', 'face:0.12']"
+        ]
+    ],
+    "RUS+UKR+164":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/kvnf.org/With Russian troops at Ukraines border talks to avert a conflict end deadlocked.txt+eventbasecode164+eventcode164+avgtone0.4245283018867925+goldsteinscale0.15+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.029605263157894735+news_keywords+['nato:0.4838', 'diplomacy:0.4479', 'crimea:0.4359', 'militarily:0.3408', 'negotiating:0.3173', 'sergey:0.3143', 'invades:0.3091', 'border:0.2231', 'correspondent:0.2227', 'adviser:0.2187', 'separatist:0.2121', 'table:0.2031', 'tension:0.2017', 'urgent:0.197', 'soon:0.1962', 'prepare:0.1907', 'decide:0.1831', 'know:0.1828', 'justify:0.1808', 'join:0.175', 'word:0.1738', 'stick:0.1585', 'end:0.1558', 'long:0.1536', 'unity:0.1501', 'pretext:0.1433', 'idea:0.1302', 'cold:0.1159', 'year:0.0886', 'anytime:0.0545']+titles_keywords+['deadlocked:0.4748', 'ukraines:0.3801', 'border:0.2783', 'talks:0.2459', 'end:0.2082']"
+        ],
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/kvnf.org/A look inside the war in Ukraine from the capital city of Kyiv.txt+eventbasecode164+eventcode164+avgtone0.5+goldsteinscale0.15+nummentions0.10595065312046444+numarticles0.1065989847715736+numsources0.11842105263157894+news_keywords+['kyiv:0.606', 'russians:0.3858', 'war:0.3682', 'evacuate:0.3034', 'capital:0.2806', 'tank:0.2326', 'watch:0.2137', 'checkpoint:0.2088', 'talk:0.2083', 'happen:0.2025', 'arrive:0.1901', 'continue:0.1888', 'siren:0.1824', 'night:0.1775', 'want:0.1774', 'pummel:0.175', 'western:0.1679', 'heard:0.1634', 'note:0.1577', 'far:0.154', 'shot:0.1522', 'cop:0.1434', 'building:0.1311', 'direct:0.1306', 'irpin:0.1218', 'state:0.1173', 'largely:0.1124', 'official:0.1114', 'million:0.0999', 'thank:0.0861']+titles_keywords+['kyiv:0.6205', 'war:0.4399', 'capital:0.3108', 'inside:0.1795', 'look:0.1719']"
+        ]
+    ]
+}

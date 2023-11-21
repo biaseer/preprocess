@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+81":[
+        [
+            "20220705+../news_crawling/RUS_UKR/p_articles/menafn.com/Ukraine Insists On Strengthening Energy Sanctions Against Russia In Seventh Package.txt+eventbasecode81+eventcode81+avgtone0.4746543778801843+goldsteinscale0.75+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.474', 'sanctions:0.4402', 'galushchenko:0.2794', 'reinforce:0.2483', 'blackmail:0.2439', 'war:0.2194', 'energy:0.206', 'sector:0.1849', 'euros:0.1795', 'ukrinform:0.1677', 'finance:0.1657', 'aggressor:0.1487', 'article:0.1451', 'legal:0.1343', 'continue:0.1262', 'package:0.1252', 'seventh:0.1239', 'issue:0.1232', 'restrictive:0.1214', 'statement:0.1178', 'step:0.106', 'contact:0.1015', 'necessary:0.099', 'reported:0.0963', 'export:0.0897', 'warranty:0.0755', 'focus:0.0729', 'measure:0.0605', 'child:0.0564', 'valdis:0.0417']+titles_keywords+['ukraine:0.3915', 'sanctions:0.3438', 'strengthening:0.2132', 'package:0.1196', 'seventh:0.0818']"
+        ]
+    ],
+    "RUS+UKR+81":[
+        [
+            "20220605+../news_crawling/RUS_UKR/p_articles/menafn.com/Putins DecreeLegalizes Abduction Of Children From Ukraine MFA.txt+eventbasecode81+eventcode81+avgtone0.4756446991404012+goldsteinscale0.75+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.438', 'ukraine:0.4004', 'abduction:0.3902', 'deport:0.3305', 'citizenship:0.3291', 'diplomat:0.2794', 'orphan:0.2778', 'children:0.2758', 'legality:0.2723', 'prosecute:0.2669', 'occupy:0.2463', 'violate:0.2206', 'decreelegalizes:0.2157', 'procedure:0.2139', 'federation:0.2034', 'civilian:0.1977', 'aggression:0.1897', 'read:0.1773', 'article:0.1768', 'contact:0.1648', 'geneva:0.1611', 'ukrinform:0.1607', 'care:0.1577', 'acquire:0.1439', 'issue:0.1286', 'completeness:0.1264', 'state:0.1242', 'simplify:0.1082', 'right:0.0975', 'ranking:0.0638']+titles_keywords+['abduction:0.4313', 'putins:0.4285', 'children:0.3025', 'decreelegalizes:0.199', 'mfa:0.1876']"
+        ]
+    ]
+}

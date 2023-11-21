@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+192":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/winnipegfreepress.com/US says Russia closer to invading Ukraine agrees to meeting.txt+eventbasecode192+eventcode192+avgtone0.4733333333333334+goldsteinscale0.025+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4882', 'kremlin:0.4314', 'nato:0.4104', 'invade:0.4046', 'diplomacy:0.367', 'escalation:0.2913', 'pentagon:0.2514', 'prepared:0.2502', 'soon:0.2434', 'separatist:0.243', 'convene:0.231', 'plan:0.2262', 'worry:0.2181', 'brunch:0.1986', 'interrupt:0.1985', 'biden:0.198', 'order:0.1959', 'drill:0.1915', 'information:0.1754', 'closer:0.1701', 'say:0.1628', 'secretary:0.1575', 'current:0.1521', 'long:0.1471', 'format:0.1465', 'end:0.1426', 'estimate:0.1384', 'geir:0.1349', 'periscope:0.0964', 'doesnt:0.0267']+titles_keywords+['ukraine:0.3466', 'meeting:0.3139', 'invading:0.2572', 'closer:0.1949', 'agrees:0.0304']"
+        ]
+    ],
+    "UKR+RUS+192":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/winnipegfreepress.com/Russian airstrike escalates offensive in western Ukraine.txt+eventbasecode192+eventcode192+avgtone0.47256097560975613+goldsteinscale0.025+nummentions0.03193033381712627+numarticles0.032632342277012324+numsources0.06907894736842106+news_keywords+['kyiv:0.5188', 'airstrikes:0.4289', 'putin:0.3886', 'nato:0.352', 'escalation:0.3096', 'mykolaiv:0.2802', 'troop:0.2645', 'humanitarian:0.2508', 'conflict:0.231', 'fled:0.2221', 'fatality:0.2197', 'sprawl:0.2096', 'worry:0.2024', 'continue:0.2004', 'transit:0.1888', 'weapon:0.1864', 'amplify:0.1763', 'westernmost:0.1758', 'instead:0.174', 'publish:0.1733', 'corridor:0.1696', 'agreement:0.1692', 'order:0.1665', 'ap:0.1558', 'information:0.1558', 'fall:0.1458', 'thousand:0.1379', 'nearly:0.1254', 'long:0.1237', 'draw:0.1157']+titles_keywords+['airstrike:0.472', 'ukraine:0.3759', 'escalates:0.245', 'western:0.1895', 'offensive:0.1738']"
+        ]
+    ]
+}

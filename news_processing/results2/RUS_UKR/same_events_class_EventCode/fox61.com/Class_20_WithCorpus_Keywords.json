@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/fox61.com/UN inspectors head to Ukraines Zaporizhzhia nuclear plant to check for damage.txt+eventbasecode20+eventcode20+avgtone0.47720797720797725+goldsteinscale0.65+nummentions0.3018867924528302+numarticles0.30239303843364757+numsources0.25+news_keywords+['kyiv:0.4668', 'nuclear:0.4321', 'demilitarize:0.348', 'iaea:0.3322', 'zaporizhzhia:0.3316', 'war:0.3157', 'administration:0.3026', 'danger:0.2934', 'towardukraine:0.2486', 'mission:0.2484', 'yevhen:0.2481', 'situate:0.238', 'watchdog:0.2355', 'ahead:0.2257', 'plantwas:0.1947', 'tour:0.1784', 'expert:0.1755', 'look:0.1752', 'world:0.169', 'long:0.161', 'stay:0.1602', 'complex:0.1545', 'accuse:0.1506', 'month:0.142', 'renew:0.1419', 'underscoring:0.1352', 'allow:0.1312', 'leak:0.1217', 'center:0.1167', 'tablet:0.0702']+titles_keywords+['ukraines:0.3213', 'nuclear:0.3207', 'inspectors:0.3118', 'zaporizhzhia:0.3092', 'damage:0.1242']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/fox61.com/Im broken Russian family seeks political asylum as Ukraine crisis draws on.txt+eventbasecode20+eventcode20+avgtone0.46078431372549017+goldsteinscale0.65+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['ukraine:0.479', 'immigration:0.396', 'propaganda:0.3829', 'asylum:0.3745', 'flee:0.3413', 'translator:0.3211', 'activist:0.3148', 'bloodshed:0.2958', 'crisis:0.2838', 'jail:0.2782', 'bombed:0.2401', 'understand:0.2393', 'feel:0.2311', 'anton:0.23', 'panova:0.2277', 'anonymized:0.2206', 'family:0.2197', 'protect:0.2135', 'story:0.209', 'broken:0.1892', 'type:0.1873', 'position:0.1753', 'post:0.1711', 'decide:0.1668', 'roku:0.1651', 'hop:0.1591', 'long:0.1482', 'free:0.1423', 'wont:0.1289', 'wasnt:0.0813']+titles_keywords+['ukraine:0.4058', 'asylum:0.3558', 'family:0.2903', 'broken:0.256', 'political:0.2335']"
+        ]
+    ]
+}

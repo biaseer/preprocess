@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+15":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/thenorthernecho.co.uk/Police More than 900 civilian bodies found in Kyiv region.txt+eventbasecode15+eventcode15+avgtone0.4688644688644688+goldsteinscale0.5+nummentions0.09433962264150944+numarticles0.09499637418419145+numsources0.10526315789473684+news_keywords+['kyiv:0.5606', 'soviet:0.4534', 'airstrikes:0.3854', 'russias:0.3688', 'casualty:0.3213', 'pentagon:0.321', 'kill:0.2903', 'missile:0.2886', 'zelensky:0.2865', 'victim:0.2787', 'troop:0.2691', 'nationalist:0.2637', 'police:0.2616', 'news:0.2474', 'annexed:0.2344', 'diversion:0.2287', 'warn:0.2089', 'sank:0.2055', 'cite:0.2011', 'rubble:0.1995', 'industrial:0.1968', 'victory:0.1963', 'anonymity:0.1898', 'bucha:0.1817', 'andriy:0.1566', 'understand:0.148', 'official:0.1366', 'warm:0.1277', 'weekend:0.1257', 'thousand:0.0746']+titles_keywords+['kyiv:0.4262', 'bodies:0.3739', 'police:0.3241', 'civilian:0.2936', '900:0.2421']"
+        ],
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/thenorthernecho.co.uk/Russian soldier pleads guilty in first war crimes trial of Ukraine conflict.txt+eventbasecode15+eventcode15+avgtone0.44537815126050395+goldsteinscale0.5+nummentions0.3164005805515239+numarticles0.31689630166787525+numsources0.32894736842105265+news_keywords+['kyiv:0.4125', 'victim:0.3707', 'russians:0.3665', 'suspect:0.3413', 'kalashnikov:0.3369', 'war:0.3359', 'sergeant:0.3218', 'pleads:0.3024', 'law:0.2961', 'absentia:0.2756', 'venediktovas:0.2733', 'case:0.26', 'unarmed:0.259', 'report:0.2505', 'confession:0.2362', 'tank:0.2262', 'shyshimarin:0.2136', 'torture:0.2125', 'video:0.2093', 'story:0.2092', 'flee:0.203', 'invader:0.2016', 'shoot:0.1808', 'know:0.1631', 'brief:0.1529', 'order:0.1513', 'look:0.1464', 'dozen:0.1391', 'way:0.1215', 'pavement:0.0905']+titles_keywords+['russian:0.36', 'pleads:0.2841', 'soldier:0.2603', 'crimes:0.1382', 'conflict:0.0834']"
+        ]
+    ]
+}

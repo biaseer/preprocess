@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220121+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Will the European Union ask China where it stands on Ukraine.txt+eventbasecode20+eventcode20+avgtone0.48042168674698793+goldsteinscale0.65+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.449', 'putin:0.4343', 'eu:0.3586', 'regime:0.2491', 'political:0.2415', 'cooperation:0.2375', 'concern:0.235', 'attention:0.216', 'attack:0.1923', 'affair:0.19', 'bloc:0.1892', 'article:0.181', 'consequence:0.1809', 'exchange:0.1765', 'xi:0.1718', 'heed:0.1661', 'salutation:0.1603', 'know:0.1576', 'global:0.1363', 'criticize:0.1357', 'stand:0.1198', 'current:0.1171', 'thursday:0.1169', 'trumpet:0.1136', 'hyperbolic:0.0912', 'time:0.0912', 'simultaneous:0.0898', 'normally:0.069', 'oft:0.0549', 'enjoy:0.0504']+titles_keywords+['ukraine:0.4161', 'european:0.1721', 'ask:0.1271', 'union:0.1191', 'stands:0.0423']"
+        ]
+    ],
+    "RUS+RUS+20":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Trump Russian invasion of Ukraine wouldnt have happened on my watch.txt+eventbasecode20+eventcode20+avgtone0.4616564417177914+goldsteinscale0.65+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.009868421052631578+news_keywords+['putin:0.5245', 'kyiv:0.3905', 'cyberattacks:0.3395', 'invasion:0.3222', 'afghanistan:0.2979', 'happen:0.2493', 'conflict:0.2318', 'american:0.224', 'news:0.2142', 'thursday:0.2117', 'chaotic:0.2079', 'retaliation:0.1998', 'avoid:0.1945', 'report:0.1938', 'know:0.1901', 'begin:0.1626', 'world:0.1602', 'administration:0.1549', 'source:0.1532', 'leverage:0.1444', 'sadden:0.1416', 'people:0.1383', 'angela:0.1354', 'like:0.1313', 'withdrawal:0.1161', 'time:0.1142', 'note:0.1079', 'additionally:0.0892', 'monitor:0.0832', 'wouldnt:0.0774']+titles_keywords+['russian:0.3325', 'invasion:0.2787', 'trump:0.2779', 'wouldnt:0.1893', 'happened:0.1836']"
+        ]
+    ],
+    "RUS+USA+20":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Russia blocks Facebook Twitter and YouTube in retaliation.txt+eventbasecode20+eventcode20+avgtone0.46028037383177567+goldsteinscale0.65+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['russia:0.4767', 'government:0.3553', 'disinformation:0.3224', 'censor:0.318', 'roskomnadzor:0.316', 'google:0.3115', 'block:0.3038', 'social:0.3022', 'news:0.3021', 'nazis:0.2697', 'platform:0.2599', 'invasion:0.2454', 'justify:0.2357', 'ceos:0.2338', 'vice:0.2108', 'protester:0.1956', 'follow:0.1939', 'rt:0.1925', 'transformation:0.1858', 'use:0.1833', 'monetize:0.1789', 'securely:0.1752', 'end:0.1643', 'include:0.1585', 'try:0.1445', 'accessibility:0.1444', 'outlets:0.1312', 'globalcheck:0.1201', 'limit:0.1169', 'right:0.1117']+titles_keywords+['russia:0.3939', 'facebook:0.3449', 'retaliation:0.3083', 'youtube:0.268', 'blocks:0.2368']"
+        ]
+    ]
+}

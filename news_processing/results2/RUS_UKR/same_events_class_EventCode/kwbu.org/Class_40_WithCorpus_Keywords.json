@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+40":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/kwbu.org/Ukrainian forces arent backing down 5 days after Russian attacks began.txt+eventbasecode40+eventcode40+avgtone0.48913043478260865+goldsteinscale0.55+nummentions0.08345428156748912+numarticles0.08411892675852067+numsources0.125+news_keywords+['ukraine:0.5038', 'nato:0.3698', 'invasion:0.3185', 'military:0.294', 'zelenskyy:0.2517', 'assassinate:0.2381', 'remain:0.23', 'fight:0.2125', 'want:0.2078', 'alert:0.2026', 'rally:0.2019', 'hear:0.2011', 'align:0.2005', 'happen:0.1969', 'hold:0.1873', 'mak:0.1842', 'people:0.1813', 'neutral:0.1803', 'adviser:0.1788', 'arent:0.1727', 'begin:0.1633', 'backing:0.1609', 'weekend:0.156', 'npr:0.1557', 'range:0.1546', 'sanction:0.1407', 'large:0.1225', 'exactly:0.1049', 'thousand:0.1038', 'thanks:0.0784']+titles_keywords+['ukrainian:0.3883', 'days:0.2237', 'backing:0.2134', 'forces:0.2085', 'arent:0.1438']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/kwbu.org/Ukrainians debate the future of Russian identity and culture within their society.txt+eventbasecode40+eventcode40+avgtone0.48837209302325585+goldsteinscale0.55+nummentions0.10377358490566038+numarticles0.10442349528643945+numsources0.11842105263157894+news_keywords+['russianness:0.5142', 'kyiv:0.5042', 'ukrainians:0.4752', 'putin:0.4029', 'dorokhov:0.3859', 'historian:0.3781', 'propaganda:0.3722', 'pushkin:0.3108', 'multicultural:0.3082', 'read:0.281', 'know:0.2444', 'gogol:0.2382', 'npr:0.2259', 'oleksandr:0.2214', 'baroque:0.2199', 'celebrate:0.2185', 'speaking:0.2106', 'people:0.2079', 'confederate:0.1939', 'stay:0.1867', 'big:0.181', 'space:0.1769', 'fight:0.1712', 'nuanced:0.1617', 'reshape:0.1551', 'detain:0.1379', 'byline:0.1332', 'sort:0.1156', 'agrees:0.1076', 'house:0.0991']+titles_keywords+['ukrainians:0.5694', 'russian:0.4577', 'culture:0.3236', 'debate:0.2849', 'future:0.2022']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/sbs.com.au/Invading Russian forces have reached Kyiv Ukraines defence ministry says.txt+eventbasecode180+eventcode180+avgtone0.48118279569892475+goldsteinscale0.05+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5558', 'ukraines:0.4503', 'putin:0.3801', 'invade:0.374', 'zelenskyy:0.3325', 'military:0.3076', 'molotov:0.2905', 'gunfire:0.2819', 'enemy:0.2752', 'assault:0.2717', 'safety:0.237', 'operate:0.2117', 'news:0.2085', 'airfield:0.1999', 'movement:0.1854', 'reality:0.1822', 'river:0.1788', 'kilometre:0.1611', 'shortly:0.1546', 'plan:0.1507', 'centre:0.1473', 'outside:0.1428', 'hear:0.142', 'district:0.1394', 'repulse:0.1364', 'reach:0.1282', 'confirm:0.1204', 'mr:0.1118', 'distinguish:0.0949', 'add:0.0714']+titles_keywords+['kyiv:0.5136', 'invading:0.3441', 'reached:0.1256', 'ministry:0.0522', 'says:-0.0039']"
+        ],
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/sbs.com.au/Russias military assault on Ukraine intensifies.txt+eventbasecode180+eventcode180+avgtone0.4666666666666666+goldsteinscale0.05+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4556', 'russias:0.3845', 'intensifies:0.351', 'assault:0.3272', 'military:0.2839']+titles_keywords+['ukraine:0.4546', 'russias:0.3882', 'intensifies:0.343', 'assault:0.3154', 'military:0.2737']"
+        ]
+    ]
+}

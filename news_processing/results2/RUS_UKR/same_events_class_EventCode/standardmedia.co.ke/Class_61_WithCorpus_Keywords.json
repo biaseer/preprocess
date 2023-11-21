@@ -1,0 +1,15 @@
+{
+    "KEN+RUS+61":[
+        [
+            "20220613+../news_crawling/RUS_UKR/p_articles/standardmedia.co.ke/The way out of rising cost of animal feeds.txt+eventbasecode61+eventcode61+avgtone0.49651567944250874+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['agriculture:0.5183', 'kenya:0.4448', 'arid:0.3858', 'infrastructure:0.3754', 'develop:0.3618', 'hectare:0.3559', 'gdp:0.3264', 'agenda:0.2729', 'sorghum:0.2666', 'feed:0.2661', 'want:0.2556', 'investor:0.2481', 'translate:0.2284', 'herd:0.2235', 'problem:0.2024', 'uasin:0.1916', 'alternative:0.1841', 'rise:0.1786', 'material:0.1738', 'prove:0.1665', 'shall:0.1664', 'ochieng:0.1651', 'gishu:0.1624', 'current:0.1601', 'boreholes:0.1542', 'billion:0.1505', 'pan:0.1493', 'long:0.1341', 'exporter:0.0937', 'adversely:0.0697']+titles_keywords+['feeds:0.369', 'animal:0.35', 'cost:0.2538', 'rising:0.1715', 'way:0.1126']"
+        ]
+    ],
+    "KEN+UKR+61":[
+        []
+    ],
+    "LBN+UKR+61":[
+        [
+            "20220801+../news_crawling/RUS_UKR/p_articles/standardmedia.co.ke/1st ship carrying Ukrainian grain leaves the port of Odesa.txt+eventbasecode61+eventcode61+avgtone0.4855150214592275+goldsteinscale0.82+nummentions0.3018867924528302+numarticles0.30239303843364757+numsources0.3223684210526316+news_keywords+['ukraine:0.4676', 'war:0.3166', 'economy:0.306', 'evacuate:0.2955', 'sidenko:0.2808', 'shipment:0.2629', 'agreement:0.2413', 'develop:0.2349', 'instability:0.2267', 'forward:0.2223', 'plan:0.2203', 'know:0.2154', 'subject:0.2134', 'want:0.2122', 'reading:0.2099', 'portsthrough:0.2049', 'corridor:0.1958', 'sector:0.1897', 'help:0.1851', 'sure:0.183', 'soon:0.1829', 'sign:0.1765', 'emphasize:0.1678', 'mechanism:0.1651', 'ap:0.1598', 'long:0.1585', 'secretary:0.1549', 'whileukraine:0.1446', 'million:0.1293', 'doesnt:0.0853']+titles_keywords+['odesa:0.3845', 'ship:0.3632', 'ukrainian:0.319', 'grain:0.2653', '1st:0.1771']"
+        ]
+    ]
+}

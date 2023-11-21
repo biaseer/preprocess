@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+57":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Germany loses patience with exchancellors Russia lobbying.txt+eventbasecode57+eventcode57+avgtone0.49266503667481665+goldsteinscale0.9+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4958', 'merkel:0.4081', 'diplomatic:0.3773', 'spiegel:0.3639', 'gerhard:0.3561', 'nato:0.3368', 'germany:0.3352', 'petersburg:0.3303', 'handel:0.2689', 'invade:0.2483', 'chancellor:0.2474', 'durch:0.2419', 'announcement:0.2339', 'change:0.2229', 'party:0.2069', 'power:0.2051', 'pipeline:0.1997', 'relation:0.1969', 'finance:0.1928', 'union:0.1879', 'know:0.1777', 'muddy:0.1764', 'prodding:0.1693', 'longstanding:0.1648', 'write:0.156', 'fdp:0.1511', 'continue:0.1442', 'historically:0.1434', 'goal:0.1396', 'head:0.1233']+titles_keywords+['lobbying:0.3462', 'germany:0.2786', 'patience:0.2711', 'exchancellors:0.1901', 'loses:0.1203']"
+        ]
+    ],
+    "RUS+UKR+57":[
+        [
+            "20220129+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Ukraine tells West not to panic over Russian troop buildup.txt+eventbasecode57+eventcode57+avgtone0.47518610421836227+goldsteinscale0.9+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.4758', 'nato:0.4573', 'putin:0.4066', 'diplomacy:0.3797', 'invade:0.334', 'separatist:0.2787', 'coup:0.2696', 'news:0.2506', 'fraught:0.2497', 'cite:0.2107', 'warn:0.2078', 'historical:0.1945', 'zelensky:0.1926', 'format:0.1882', 'continue:0.1863', 'study:0.182', 'want:0.1786', 'counterpart:0.1782', 'stir:0.1766', 'conference:0.1622', 'pipeline:0.1602', 'fall:0.1583', 'expectation:0.1563', 'pullback:0.155', 'short:0.1541', 'list:0.154', 'eastern:0.145', 'telephone:0.137', 'agree:0.0763', 'welcome:0.0616']+titles_keywords+['ukraine:0.4132', 'troop:0.2634', 'panic:0.2378', 'buildup:0.1213', 'tells:0.061']"
+        ]
+    ]
+}

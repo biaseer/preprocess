@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+190":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/cambridge-news.co.uk/British man reportedly killed fighting in Ukraine showed commando spirit until the end.txt+eventbasecode190+eventcode190+avgtone0.49387254901960786+goldsteinscale0.0+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.023026315789473683+news_keywords+['soldier:0.3735', 'ukraine:0.3614', 'tributes:0.3209', 'gofundme:0.2688', 'sibley:0.2575', 'bbc:0.245', 'brave:0.239', 'britons:0.2328', 'kill:0.2109', 'news:0.204', 'invasion:0.1862', 'barker:0.1838', 'remember:0.1832', 'sadly:0.1789', 'page:0.1619', 'gant:0.1603', 'believe:0.1599', 'logistic:0.1578', 'mrs:0.1508', 'confusion:0.146', 'title:0.1449', 'national:0.1446', 'short:0.1355', 'truss:0.1338', 'sign:0.1275', 'hi:0.1097', 'ive:0.1091', 'alongside:0.0998', 'cost:0.0803', 'pleasure:0.0747']+titles_keywords+['commando:0.3066', 'ukraine:0.2864', 'fighting:0.249', 'killed:0.1747', 'man:0.147']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/cambridge-news.co.uk/Worlds largest cargo aircraft destroyed by Russian forces outside Kyiv say reports.txt+eventbasecode190+eventcode190+avgtone0.49859154929577465+goldsteinscale0.0+nummentions0.3149492017416546+numarticles0.31435823060188545+numsources0.4967105263157895+news_keywords+['kyiv:0.4849', 'aircraft:0.4616', 'antonov:0.4141', 'soviet:0.4052', 'destroy:0.2949', 'cargo:0.2742', 'ssr:0.2434', 'federation:0.2336', 'dmytro:0.2171', 'report:0.2144', 'arrive:0.1835', 'news:0.1806', 'large:0.1642', 'target:0.1613', 'roundups:0.1567', 'occupier:0.1487', 'prevail:0.1395', 'billion:0.1394', 'mr:0.1386', 'capability:0.136', 'built:0.1327', 'confirm:0.1228', 'longer:0.1211', 'world:0.1206', 'dream:0.1179', 'intentional:0.1139', 'year:0.1022', 'track:0.0874', 'cost:0.0774', 'currently:0.0547']+titles_keywords+['kyiv:0.3975', 'largest:0.3161', 'aircraft:0.3155', 'cargo:0.2346', 'destroyed:0.1933']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/cambridge-news.co.uk/Russia suffered heavy losses overnight in failed Kyiv attacks claims Ukraine General.txt+eventbasecode190+eventcode190+avgtone0.45375722543352587+goldsteinscale0.0+nummentions0.11756168359941944+numarticles0.11820159535895576+numsources0.15460526315789475+news_keywords+['kyiv:0.5535', 'russian:0.3867', 'troop:0.3324', 'syrsky:0.3203', 'attack:0.3068', 'protect:0.2353', 'capital:0.2306', 'failed:0.2291', 'storm:0.2244', 'enemy:0.2181', 'demoralize:0.2126', 'exhausted:0.1908', 'commander:0.1804', 'news:0.1797', 'overnight:0.1772', 'alexander:0.171', 'columns:0.1692', 'colonies:0.1659', 'roundups:0.1605', 'forces:0.1497', 'outskirt:0.1454', 'technology:0.1358', 'receive:0.1353', 'suffer:0.1286', 'repeat:0.128', 'claim:0.1265', 'lead:0.1256', 'make:0.0967', 'independently:0.079', 'significant:0.0699']+titles_keywords+['kyiv:0.4387', 'losses:0.3364', 'failed:0.1961', 'general:0.1599', 'overnight:0.0928']"
+        ]
+    ]
+}

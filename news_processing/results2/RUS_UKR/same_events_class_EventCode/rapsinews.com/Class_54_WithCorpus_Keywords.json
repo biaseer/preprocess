@@ -1,0 +1,12 @@
+{
+    "PRK+UKR+54":[
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/rapsinews.com/North Korea recognizes independence of Donetsk Peoples Republic.txt+eventbasecode54+eventcode54+avgtone0.5161290322580645+goldsteinscale0.8+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['ukraine:0.4728', 'putin:0.3624', 'independence:0.3339', 'republics:0.3189', 'statehood:0.3107', 'diplomatic:0.2891', 'dpr:0.2886', 'korean:0.2336', 'democratic:0.2257', 'victory:0.2109', 'status:0.1994', 'proclaim:0.1896', 'denis:0.1681', 'telegram:0.1587', 'military:0.1513', 'north:0.1455', 'continue:0.1421', 'decide:0.1394', 'recognize:0.1353', 'step:0.1174', 'people:0.1153', 'document:0.1148', 'day:0.1004', 'later:0.0916', 'february:0.0893', 'rapsi:0.0784', 'strengthen:0.0491', 'head:0.0442', 'agree:0.0309', 'accord:0.0253']+titles_keywords+['donetsk:0.3832', 'korea:0.3606', 'independence:0.3256', 'republic:0.1866', 'recognizes:0.1112']"
+        ]
+    ],
+    "SYR+RUS+54":[
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/rapsinews.com/Sovereignty of Lugansk Peoples Republic recognized by DPRK.txt+eventbasecode54+eventcode54+avgtone0.515625+goldsteinscale0.8+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.0+news_keywords+['ukraine:0.4631', 'sovereignty:0.4453', 'statehood:0.4436', 'geopolitical:0.43', 'republics:0.4274', 'dprk:0.4097', 'korea:0.3703', 'putin:0.3551', 'independence:0.3331', 'region:0.2993', 'state:0.2863', 'proclaim:0.2832', 'democratic:0.2525', 'leonid:0.2454', 'pasechnik:0.1996', 'recognize:0.1874', 'partnership:0.1728', 'military:0.1556', 'people:0.1438', 'decide:0.1382', 'reality:0.1297', 'bilateral:0.1236', 'today:0.1189', 'sure:0.1181', 'telegram:0.1173', 'february:0.1037', 'productive:0.0976', 'special:0.0858', 'write:0.074', 'long:0.0692']+titles_keywords+['lugansk:0.4625', 'dprk:0.447', 'sovereignty:0.4446', 'republic:0.3409', 'recognized:0.1216']"
+        ]
+    ]
+}

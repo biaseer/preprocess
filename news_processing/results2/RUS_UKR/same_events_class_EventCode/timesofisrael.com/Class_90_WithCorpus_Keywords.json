@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+90":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Biden urges war crimes trial against Putin over Bucha killings.txt+eventbasecode90+eventcode90+avgtone0.49014778325123154+goldsteinscale0.4+nummentions0.019593613933236574+numarticles0.02030456852791878+numsources0.019736842105263157+news_keywords+['kyiv:0.4871', 'putin:0.4819', 'genocide:0.3253', 'zelensky:0.3104', 'report:0.2994', 'crime:0.2957', 'biden:0.2893', 'bucha:0.2644', 'israel:0.2601', 'news:0.2455', 'volodymyr:0.2155', 'read:0.1967', 'civilian:0.1795', 'union:0.1725', 'trial:0.169', 'coverage:0.1437', 'tweet:0.1397', 'come:0.1392', 'pleased:0.1386', 'insightful:0.1292', 'outlet:0.1278', 'body:0.1179', 'spot:0.117', 'associated:0.111', 'discern:0.1097', 'like:0.1033', 'year:0.0854', 'paywall:0.0838', 'invite:0.0675', 'little:0.0643']+titles_keywords+['putin:0.403', 'biden:0.3981', 'bucha:0.2575', 'trial:0.2222', 'killings:0.2185']"
+        ]
+    ],
+    "RUS+UKR+90":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Russia launches probe focusing on false information about killings in Kyiv suburbs.txt+eventbasecode90+eventcode90+avgtone0.49715909090909094+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5519', 'russian:0.3735', 'investigative:0.3306', 'massacre:0.3253', 'israel:0.3158', 'allegation:0.2981', 'news:0.2665', 'government:0.2512', 'investigated:0.2481', 'incidents:0.2368', 'separatist:0.2364', 'read:0.2065', 'civilian:0.1963', 'probe:0.1946', 'coverage:0.1841', 'outlet:0.1753', 'ban:0.171', 'provide:0.1543', 'false:0.1513', 'suburbs:0.1497', 'pleased:0.1349', 'shell:0.1289', 'enter:0.1164', 'focus:0.114', 'force:0.1039', 'like:0.0955', 'hold:0.0892', 'year:0.0747', 'thats:0.0654', 'havent:-0.022']+titles_keywords+['kyiv:0.5202', 'killings:0.2296', 'probe:0.2191', 'suburbs:0.1755', 'false:0.1032']"
+        ]
+    ]
+}

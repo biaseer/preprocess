@@ -1,0 +1,15 @@
+{
+    "RUS+KAZ+80":[
+        [
+            "20220704+../news_crawling/RUS_UKR/p_articles/rte.ie/Disputed Russian cargo ship remains stranded off Turkish coast.txt+eventbasecode80+eventcode80+avgtone0.4807692307692307+goldsteinscale0.75+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kremlin:0.4195', 'ukrainian:0.368', 'turkey:0.3402', 'nato:0.3233', 'flag:0.3087', 'shipment:0.2734', 'sail:0.26', 'dispute:0.2489', 'occupy:0.2258', 'port:0.2147', 'stranded:0.2127', 'balitsky:0.1951', 'evgeny:0.1928', 'grain:0.1904', 'telegram:0.1893', 'know:0.188', 'ambassador:0.1875', 'approach:0.1837', 'impound:0.1653', 'unexpected:0.1647', 'illegally:0.1647', 'belongs:0.1401', 'zholy:0.1339', 'thursday:0.1328', 'control:0.121', 'buy:0.1176', 'set:0.1088', 'left:0.1071', 'state:0.0915', 'resume:0.0585']+titles_keywords+['russian:0.3288', 'stranded:0.3037', 'cargo:0.2025', 'disputed:0.1878', 'remains:0.1568']"
+        ]
+    ],
+    "RUS+UKR+80":[
+        []
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/rte.ie/Timeline Key moments in the battle for Mariupol.txt+eventbasecode80+eventcode80+avgtone0.4578025477707005+goldsteinscale0.75+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.013157894736842105+news_keywords+['crimea:0.4932', 'soviet:0.4398', 'donetsk:0.3904', 'evacuation:0.3685', 'war:0.3592', 'timeline:0.3332', 'battalion:0.327', 'blockade:0.3035', 'nationalist:0.3026', 'azov:0.2985', 'survive:0.2505', 'infrastructure:0.2465', 'eurovision:0.2408', 'strategic:0.226', 'corridor:0.2063', 'help:0.1868', 'april:0.1863', 'order:0.1846', 'orchestra:0.1785', 'steelworks:0.1779', 'swap:0.1704', 'amid:0.1691', 'scene:0.1643', 'photograph:0.1474', 'nearly:0.146', 'maternity:0.1445', 'held:0.1381', 'right:0.1256', 'young:0.1074', 'thousand:0.09']+titles_keywords+['timeline:0.4154', 'mariupol:0.4016', 'battle:0.3895', 'moments:0.2611', 'key:0.1473']"
+        ]
+    ]
+}

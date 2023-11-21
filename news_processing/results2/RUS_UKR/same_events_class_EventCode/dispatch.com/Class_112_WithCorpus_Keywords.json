@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/dispatch.com/Red Cross unable to reach Mariupol for evacuations Kremlin claims Ukraine targeted oil depot in.txt+eventbasecode112+eventcode112+avgtone0.4805396990140114+goldsteinscale0.4+nummentions0.07256894049346879+numarticles0.07324147933284988+numsources0.22697368421052633+news_keywords+['kyiv:0.4856', 'ceasefire:0.4454', 'putin:0.4215', 'evacuate:0.3926', 'chernobyl:0.3769', 'reuters:0.3028', 'military:0.2988', 'zelenskyyexemplifies:0.285', 'resupplying:0.2788', 'disinformation:0.2768', 'mariupolhave:0.2718', 'infrastructure:0.2666', 'embassy:0.2646', 'medinsky:0.2554', 'ptsd:0.2323', 'arrive:0.2282', 'telegram:0.2212', 'report:0.2167', 'read:0.2031', 'care:0.1837', 'turn:0.1787', 'state:0.1611', 'end:0.1604', 'allow:0.1545', 'demandingpayment:0.148', 'mile:0.1439', 'unman:0.1416', 'saidpetro:0.1321', 'impossible:0.1203', 'tomorrow:0.0988']+titles_keywords+['kremlin:0.4437', 'evacuations:0.4059', 'mariupol:0.2774', 'depot:0.2284', 'reach:0.1964']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/dispatch.com/Biden says his comment about Putin not remaining in power reflects moral outrage not a.txt+eventbasecode112+eventcode112+avgtone0.4786931818181818+goldsteinscale0.4+nummentions0.01741654571843251+numarticles0.018129079042784626+numsources0.03289473684210526+news_keywords+['putin:0.5416', 'kyiv:0.3801', 'diplomatic:0.3294', 'cyberattack:0.3265', 'hostilities:0.3021', 'rankingrussian:0.2946', 'evacuate:0.277', 'news:0.2704', 'separatist:0.2567', 'report:0.2351', 'recap:0.2302', 'pentagon:0.2292', 'counterproductive:0.2068', 'cite:0.2046', 'outage:0.2039', 'turn:0.2036', 'regulatingcommunications:0.1997', 'end:0.1989', 'order:0.1964', 'word:0.193', 'march:0.1929', 'capability:0.189', 'learn:0.1864', 'studentsalready:0.1637', 'severe:0.1528', 'volatility:0.1264', 'breakthroughs:0.1253', 'guaranteed:0.1149', 'fora:0.0949', 'theyre:0.0926']+titles_keywords+['biden:0.4513', 'policy:0.2672', 'outrage:0.2618', 'change:0.1723', 'recap:0.1494']"
+        ]
+    ]
+}

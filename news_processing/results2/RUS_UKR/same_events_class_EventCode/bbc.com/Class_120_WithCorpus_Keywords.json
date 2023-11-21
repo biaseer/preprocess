@@ -1,0 +1,12 @@
+{
+    "RUS+NLD+120":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/bbc.com/Shell sorry and pledges to stop buying Russian oil.txt+eventbasecode120+eventcode120+avgtone0.4756787330316742+goldsteinscale0.3+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4634', 'putin:0.4231', 'oil:0.3884', 'pipeline:0.3553', 'rosneft:0.2927', 'multinational:0.288', 'gazprom:0.2791', 'government:0.2708', 'supplier:0.2654', 'outrage:0.2218', 'executive:0.2185', 'changing:0.2178', 'impose:0.2174', 'announcement:0.2124', 'shell:0.2', 'bn:0.1977', 'buy:0.1941', 'term:0.1904', 'current:0.1898', 'world:0.1876', 'shun:0.1835', 'help:0.1822', 'secure:0.1766', 'catastrophic:0.1723', 'plan:0.1695', 'exactly:0.154', 'end:0.1524', 'quick:0.1524', 'rise:0.1421', 'month:0.1089']+titles_keywords+['oil:0.4031', 'shell:0.3834', 'russian:0.3295', 'sorry:0.199', 'buying:0.1018']"
+        ]
+    ],
+    "WST+UKR+120":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine crisis Five maps to explain Russian invasion.txt+eventbasecode120+eventcode120+avgtone0.48045023696682465+goldsteinscale0.3+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['crimea:0.4927', 'geopolitical:0.4275', 'putin:0.3928', 'invade:0.3719', 'nato:0.3666', 'separatist:0.3363', 'republics:0.312', 'crisis:0.3086', 'diplomatic:0.2967', 'organisation:0.2392', 'understand:0.2354', 'tension:0.219', 'help:0.2177', 'watch:0.2131', 'turn:0.2091', 'capital:0.1859', 'state:0.181', 'chart:0.1782', 'continue:0.1698', 'report:0.1647', 'long:0.162', 'volodymyr:0.1543', 'satellite:0.1529', 'pre:0.1425', 'population:0.1379', 'near:0.1345', 'dis:0.1211', 'gmt:0.1164', 'add:0.1011', 'ovum:0.1005']+titles_keywords+['ukraine:0.4904', 'maps:0.4107', 'invasion:0.3722', 'crisis:0.2556', 'explain:0.1515']"
+        ]
+    ]
+}

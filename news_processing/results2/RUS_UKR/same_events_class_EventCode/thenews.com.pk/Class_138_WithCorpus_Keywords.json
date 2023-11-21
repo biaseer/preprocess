@@ -1,0 +1,12 @@
+{
+    "RUS+GBR+138":[
+        [
+            "20210624+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Russia says it fired warning shots at UK ship.txt+eventbasecode138+eventcode138+avgtone0.4691901408450704+goldsteinscale0.15+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.0+news_keywords+['crimea:0.5716', 'nato:0.432', 'warships:0.3812', 'putin:0.3693', 'russias:0.3549', 'threaten:0.2581', 'azov:0.2142', 'operation:0.2094', 'concern:0.2093', 'border:0.2088', 'occur:0.205', 'strait:0.1983', 'dispatch:0.1898', 'news:0.187', 'react:0.1742', 'accordance:0.1715', 'defence:0.1691', 'preliminary:0.1577', 'navigate:0.1554', 'attache:0.151', 'cape:0.148', 'destroyer:0.1434', 'step:0.1187', 'kerch:0.1172', 'exercise:0.1138', 'close:0.1116', 'unpredictable:0.1102', 'swiftly:0.0954', 'height:0.089', 'su:0.0832']+titles_keywords+['russia:0.3496', 'ship:0.2522', 'shots:0.2152', 'warning:0.1958', 'fired:0.1116']"
+        ]
+    ],
+    "RUS+UKR+138":[
+        [
+            "20220528+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Russia says carried out hypersonic missile test.txt+eventbasecode138+eventcode138+avgtone0.492619926199262+goldsteinscale0.15+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.006578947368421052+news_keywords+['missile:0.4467', 'hypersonic:0.4196', 'moscow:0.394', 'putin:0.3797', 'gorshkov:0.3701', 'russias:0.3635', 'zircon:0.3422', 'launch:0.2943', 'combat:0.263', 'kinzhal:0.2617', 'test:0.2399', 'intercept:0.2247', 'announce:0.2089', 'arctic:0.2015', 'admiral:0.2002', 'kilometre:0.188', 'use:0.1831', 'reach:0.1822', 'february:0.1609', 'precision:0.1446', 'submerge:0.1418', 'follow:0.125', 'time:0.1212', 'successfully:0.1182', 'arsenal:0.1012', 'conventional:0.0954', 'maximum:0.095', 'look:0.0916', 'great:0.0847', 'add:0.0521']+titles_keywords+['hypersonic:0.4614', 'missile:0.3245', 'test:0.3235', 'russia:0.3015', 'says:-0.057']"
+        ]
+    ]
+}

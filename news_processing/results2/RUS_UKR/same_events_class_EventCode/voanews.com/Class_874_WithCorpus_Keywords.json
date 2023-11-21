@@ -1,0 +1,13 @@
+{
+    "RUS+UKR+874":[
+        [],
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/voanews.com/Fighting Intensifies Around Mariupol but Southern Port Resists.txt+eventbasecode87+eventcode874+avgtone0.4691964285714285+goldsteinscale1.0+nummentions0.07256894049346879+numarticles0.07324147933284988+numsources0.09210526315789473+news_keywords+['kyiv:0.5578', 'airstrikes:0.3916', 'nato:0.3868', 'putin:0.3784', 'evacuate:0.3039', 'briefing:0.2927', 'conflict:0.2871', 'nationalist:0.2766', 'troop:0.2754', 'unprovoked:0.2551', 'vereshchuk:0.2363', 'status:0.2241', 'intensifies:0.2147', 'casualty:0.2069', 'soon:0.1993', 'factory:0.1943', 'worry:0.1885', 'seize:0.1834', 'storm:0.1826', 'anonymity:0.1807', 'report:0.1719', 'mariupol:0.1699', 'area:0.1663', 'follow:0.1604', 'bucha:0.16', 'eastern:0.1536', 'main:0.1452', 'additional:0.1337', 'million:0.1167', 'copy:0.065']+titles_keywords+['fighting:0.3841', 'mariupol:0.3598', 'port:0.326', 'southern:0.2442', 'intensifies:0.1576']"
+        ]
+    ],
+    "UKR+RUS+874":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/voanews.com/More Civilians Flee East Ukraine After Deadly Station Strike.txt+eventbasecode87+eventcode874+avgtone0.46481876332622596+goldsteinscale1.0+nummentions0.025036284470246733+numarticles0.02574329224075417+numsources0.15460526315789475+news_keywords+['kyiv:0.5125', 'airstrike:0.3925', 'evacuate:0.3804', 'putin:0.3782', 'journalist:0.2836', 'separatist:0.2822', 'casualty:0.2764', 'misinformation:0.2731', 'troop:0.2644', 'pentagon:0.2606', 'map:0.2594', 'cite:0.2391', 'sanction:0.2251', 'prepare:0.2242', 'subject:0.2242', 'railway:0.2149', 'anonymity:0.2084', 'friday:0.202', 'fight:0.1971', 'excerpted:0.1943', 'turn:0.1943', 'help:0.1884', 'resupplied:0.1858', 'staged:0.1804', 'word:0.1597', 'donbas:0.1463', 'major:0.1353', 'largely:0.1133', 'agree:0.0996', 'meaning:0.0939']+titles_keywords+['ukraine:0.358', 'civilians:0.3539', 'flee:0.284', 'strike:0.1497', 'station:0.1421']"
+        ]
+    ]
+}

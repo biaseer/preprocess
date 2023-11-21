@@ -1,0 +1,17 @@
+{
+    "CHE+RUS+46":[
+        [
+            "20211224+../news_crawling/RUS_UKR/p_articles/voanews.com/Satellite Images Show Russia Still Building Up Forces Near Ukraine.txt+eventbasecode46+eventcode46+avgtone0.4862236628849271+goldsteinscale0.85+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.03289473684210526+news_keywords+['crimea:0.5272', 'kremlin:0.477', 'nato:0.4114', 'dmitry:0.3639', 'annex:0.3572', 'deploy:0.3295', 'invades:0.3253', 'infantry:0.3058', 'reuters:0.2956', 'maneuver:0.2773', 'neighboring:0.2465', 'satellite:0.2278', 'separatist:0.2204', 'buildup:0.2169', 'soon:0.2151', 'reiterate:0.2077', 'provocative:0.1931', 'increased:0.1921', 'ongoing:0.178', 'want:0.176', 'president:0.17', 'brief:0.1685', 'avoid:0.1683', 'yelnya:0.163', 'technologies:0.1615', 'month:0.1611', 'new:0.1398', 'large:0.1265', 'backdrop:0.1263', 'measure:0.1216']+titles_keywords+['ukraine:0.4191', 'images:0.2068', 'near:0.1793', 'forces:0.169', 'building:0.141']"
+        ]
+    ],
+    "RUS+FRA+46":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/voanews.com/Biden Warns Putin Again of Severe Costs as They Discuss Ukraine Crisis.txt+eventbasecode46+eventcode46+avgtone0.4869146005509642+goldsteinscale0.85+nummentions0.0330188679245283+numarticles0.0337200870195794+numsources0.08552631578947369+news_keywords+['putin:0.4553', 'diplomacy:0.4142', 'nato:0.3777', 'invades:0.362', 'russias:0.3579', 'evacuate:0.3339', 'threat:0.3117', 'reuters:0.2956', 'warns:0.2821', 'correspondent:0.2582', 'lviv:0.2425', 'visa:0.2368', 'adviser:0.2322', 'sanction:0.2247', 'prepared:0.2228', 'plan:0.2189', 'scenario:0.2178', 'soon:0.2047', 'covid:0.1685', 'winter:0.1584', 'cite:0.1568', 'telephone:0.1545', 'continue:0.1501', 'bid:0.1409', 'say:0.1377', 'voa:0.1094', 'state:0.0952', 'mount:0.0804', 'agree:0.0515', 'optimize:0.0512']+titles_keywords+['biden:0.4052', 'ukraine:0.261', 'costs:0.2412', 'severe:0.1588', 'discuss:0.0857']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/voanews.com/Latest Developments in Ukraine April 1.txt+eventbasecode46+eventcode46+avgtone0.49404761904761907+goldsteinscale0.85+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.02631578947368421+news_keywords+['ukraine:0.5249', 'nato:0.4087', 'airstrikes:0.3966', 'reuters:0.3298', 'humanitarian:0.3023', 'briefing:0.3016', 'correspondent:0.2947', 'conflict:0.2858', 'occupy:0.2846', 'decommission:0.2741', 'troop:0.2691', 'oligarch:0.2453', 'agreement:0.239', 'yevhen:0.2375', 'developments:0.2345', 'modi:0.2231', 'urgent:0.2225', 'coordinate:0.2224', 'unprovoked:0.2218', 'telegram:0.2082', 'remind:0.2068', 'prepare:0.1978', 'pipeline:0.1955', 'neutral:0.1946', 'know:0.1883', 'icrcs:0.1864', 'turn:0.1858', 'outbreak:0.1478', 'long:0.1456', 'emphasize:0.1296']+titles_keywords+['ukraine:0.5396', 'april:0.318', 'developments:0.3169', 'latest:0.2399']"
+        ]
+    ]
+}

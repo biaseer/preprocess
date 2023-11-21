@@ -1,0 +1,12 @@
+{
+    "BEL+UKR+138":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/cnn.com/US quietly planning potential responses in case Putin takes extreme step in Ukraine.txt+eventbasecode138+eventcode138+avgtone0.47200000000000003+goldsteinscale0.15+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.006578947368421052+news_keywords+['putin:0.4698', 'nato:0.4112', 'geopolitical:0.3866', 'russias:0.3615', 'nuclear:0.321', 'disinformation:0.3081', 'invade:0.3007', 'scenario:0.2982', 'prepare:0.2961', 'plan:0.2581', 'pentagon:0.2568', 'peskovs:0.2514', 'dangerous:0.2319', 'report:0.1984', 'secretary:0.1924', 'supply:0.1751', 'examination:0.1658', 'complicity:0.1656', 'know:0.1642', 'change:0.1636', 'thursday:0.1566', 'capability:0.1521', 'huddle:0.1513', 'people:0.1292', 'end:0.1274', 'mitigate:0.1202', 'internally:0.1125', 'reply:0.1103', 'stoltenberg:0.1045', 'entire:0.0569']+titles_keywords+['putin:0.3976', 'planning:0.2054', 'responses:0.1306', 'extreme:0.1255', 'step:0.1163']"
+        ]
+    ],
+    "RUS+UKR+138":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/cnn.com/Russian forces step up attacks on Ukraine steel plant.txt+eventbasecode138+eventcode138+avgtone0.48936170212765956+goldsteinscale0.15+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4642', 'ukrainian:0.4483', 'russian:0.396', 'steel:0.3895', 'russia:0.3624', 'attack:0.3104', 'azovstal:0.2904', 'iron:0.2622', 'economy:0.2564', 'soldier:0.24', 'wall:0.2231', 'report:0.2015', 'shield:0.1872', 'mariupol:0.1746', 'cnn:0.1666', 'plant:0.1579', 'onslaught:0.1509', 'isa:0.1494', 'line:0.1428', 'force:0.1427', 'defense:0.142', 'civilian:0.1414', 'step:0.128', 'community:0.1021', 'soares:0.0494', 'drive:0.0053']+titles_keywords+['ukraine:0.3374', 'steel:0.2979', 'attacks:0.2831', 'forces:0.1357', 'plant:0.1162']"
+        ]
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/cbc.ca/Edmontonians come out in droves to support Ukraine as invasion continues.txt+eventbasecode190+eventcode190+avgtone0.4894859813084112+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4615', 'edmontonians:0.4543', 'invasion:0.3356', 'solidarity:0.3289', 'troop:0.3213', 'rally:0.2829', 'endure:0.2394', 'citizenship:0.2351', 'feel:0.2298', 'ally:0.2256', 'street:0.2224', 'come:0.2162', 'help:0.2133', 'happen:0.2107', 'involve:0.2088', 'capital:0.1985', 'sad:0.1972', 'burn:0.1896', 'know:0.1872', 'olha:0.1803', 'change:0.1787', 'away:0.1784', 'general:0.1724', 'vitliyromanachkattended:0.1653', 'hold:0.1638', 'upfor:0.1519', 'able:0.1466', 'separaterallies:0.1435', 'th:0.1274', 'half:0.1047']+titles_keywords+['edmontonians:0.5397', 'ukraine:0.4078', 'invasion:0.3739', 'droves:0.2412', 'continues:0.1765']"
+        ],
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/cbc.ca/It was catastrophic relief worker says of the Ukraine train station missile strike.txt+eventbasecode190+eventcode190+avgtone0.48864418444597385+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['evacuation:0.4498', 'missiles:0.414', 'casualty:0.388', 'catastrophic:0.3764', 'humanitarian:0.3713', 'traumatize:0.3646', 'russian:0.3403', 'peaceful:0.3337', 'strategic:0.3033', 'sense:0.2968', 'happen:0.2949', 'impact:0.292', 'help:0.2891', 'organization:0.2851', 'realize:0.2822', 'news:0.2803', 'notify:0.2649', 'write:0.2549', 'station:0.2544', 'meal:0.2419', 'deliver:0.2348', 'story:0.2155', 'worker:0.1957', 'compare:0.1841', 'firsthand:0.1819', 'overpassi:0.1798', 'far:0.1721', 'hea:0.1568', 'thousand:0.1528', 'therebut:0.0918']+titles_keywords+['catastrophic:0.426', 'ukraine:0.3686', 'missile:0.3349', 'strike:0.2475', 'worker:0.1918']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/cbc.ca/In Lviv Ukraine civilians take resistance to Russia into their own hands.txt+eventbasecode190+eventcode190+avgtone0.48612487611496535+goldsteinscale0.0+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['lvivsmoothies:0.5816', 'ukraine:0.5009', 'soviet:0.4099', 'refugees:0.3845', 'war:0.3695', 'molotov:0.3128', 'barricade:0.294', 'flee:0.2574', 'help:0.2563', 'strategic:0.2458', 'volunteer:0.24', 'capital:0.2369', 'know:0.227', 'supply:0.2247', 'truck:0.2246', 'organize:0.2208', 'afraid:0.2193', 'historyand:0.2127', 'news:0.2034', 'suspect:0.2025', 'displace:0.1925', 'offshoot:0.1922', 'hit:0.1831', 'proximity:0.1626', 'polarize:0.1591', 'finish:0.1472', 'tthinkthe:0.1382', 'stephen:0.1294', 'wednesday:0.1081', 'largely:0.0708']+titles_keywords+['lviv:0.5451', 'civilians:0.4067', 'russia:0.3464', 'resistance:0.2128', 'hands:0.0803']"
+        ],
+        []
+    ],
+    "UKR+UKR+190":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/cbc.ca/Status of key Ukrainian port city of Kherson unclear ahead of 2nd round of talks.txt+eventbasecode190+eventcode190+avgtone0.4672742336371168+goldsteinscale0.0+nummentions0.33708272859216254+numarticles0.33756345177664976+numsources0.39473684210526316+news_keywords+['ukraine:0.5269', 'russiacontinued:0.4477', 'chernobyl:0.3459', 'briefing:0.3254', 'news:0.2792', 'decommission:0.2743', 'underway:0.2646', 'kherson:0.2627', 'zelensky:0.2599', 'pentagon:0.2594', 'prepare:0.2453', 'invasionhas:0.244', 'shipbuilding:0.2408', 'remind:0.2284', 'capitalkyivand:0.2249', 'expand:0.2226', 'know:0.2222', 'occur:0.2148', 'rhetoric:0.1911', 'fight:0.176', 'anonymity:0.169', 'justintrudeaua:0.1654', 'storey:0.1634', 'yar:0.1593', 'immediately:0.1545', 'nearly:0.1489', 'want:0.1474', 'study:0.1311', 'major:0.1242', 'true:0.088']+titles_keywords+['kherson:0.4259', 'ukrainian:0.3155', 'status:0.2851', 'port:0.2428', 'unclear:0.2247']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220830+../news_crawling/RUS_UKR/p_articles/thetablet.org/Vatican Says Pope Condemns War Initiated by Russia.txt+eventbasecode20+eventcode20+avgtone0.4651360544217687+goldsteinscale0.65+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.3961', 'pope:0.3832', 'war:0.3779', 'putins:0.3709', 'invasion:0.3131', 'diplomatic:0.3127', 'condemns:0.306', 'repugnant:0.294', 'justification:0.2551', 'kill:0.2332', 'initiated:0.2285', 'protest:0.2173', 'read:0.2151', 'intervention:0.2008', 'victim:0.1936', 'word:0.1855', 'independence:0.1849', 'know:0.1781', 'insanity:0.1701', 'darya:0.1671', 'unambiguously:0.1656', 'visvaldas:0.1648', 'statement:0.1479', 'twitter:0.1403', 'seat:0.1245', 'andrii:0.1194', 'issue:0.1169', 'denazification:0.0998', 'wednesday:0.0908', 'major:0.0549']+titles_keywords+['pope:0.4175', 'war:0.3428', 'russia:0.325', 'initiated:0.1654', 'says:0.0336']"
+        ]
+    ],
+    "VAT+RUS+20":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/thetablet.org/Pope Francis to Consecrate Russia Ukraine to Mary.txt+eventbasecode20+eventcode20+avgtone0.5066371681415929+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['vatican:0.452', 'fatima:0.4077', 'consecration:0.4064', 'archbishop:0.3668', 'consecrate:0.364', 'kyiv:0.3316', 'russias:0.3232', 'martyr:0.293', 'peace:0.2896', 'praytogether:0.2686', 'motherland:0.2507', 'parish:0.2496', 'convert:0.246', 'invasion:0.1894', 'peter:0.1672', 'famine:0.166', 'combine:0.1594', 'request:0.1543', 'friday:0.1488', 'say:0.1433', 'shall:0.1329', 'publish:0.1316', 'end:0.1272', 'holy:0.122', 'properly:0.1194', 'brief:0.1133', 'follow:0.1116', 'warning:0.1037', 'similar:0.0852', 'plenary:0.0722']+titles_keywords+['ukraine:0.3647', 'pope:0.3512', 'mary:0.3273', 'consecrate:0.3058', 'francis:0.2696']"
+        ]
+    ]
+}

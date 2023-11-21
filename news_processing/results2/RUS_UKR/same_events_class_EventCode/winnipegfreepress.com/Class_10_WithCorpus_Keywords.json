@@ -1,0 +1,12 @@
+{
+    "RUS+FRA+10":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/winnipegfreepress.com/Russia pushes into Ukraine West hits back with sanctionsBy Raf Casert The Associated PressPosted 1137.txt+eventbasecode10+eventcode10+avgtone0.4748490945674044+goldsteinscale0.5+nummentions0.09325108853410741+numarticles0.09390862944162437+numsources0.14802631578947367+news_keywords+['ukraine:0.5077', 'kremlin:0.4593', 'russias:0.4532', 'nato:0.4239', 'diplomacy:0.3859', 'invade:0.3529', 'sanctionsby:0.3467', 'oligarchs:0.3419', 'separatist:0.3142', 'escalation:0.3005', 'border:0.2604', 'rhetoric:0.2377', 'agreement:0.2228', 'ditch:0.2185', 'pretext:0.1996', 'orbit:0.1951', 'warn:0.1951', 'confusion:0.1928', 'continue:0.1765', 'directive:0.1703', 'hug:0.163', 'order:0.1618', 'blame:0.1566', 'shortly:0.1554', 'lucrative:0.1366', 'publish:0.1315', 'current:0.1297', 'short:0.1236', 'casert:0.114', 'wasnt:0.0548']+titles_keywords+['ukraine:0.4854', 'sanctionsby:0.3254', 'west:0.2901', 'pushes:0.1844', '1137:0.0903']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/winnipegfreepress.com/Russia raiding Ukraine wheat stores exporting it with false papers Ukraine minister.txt+eventbasecode10+eventcode10+avgtone0.4880952380952381+goldsteinscale0.5+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.013157894736842105+news_keywords+['ukraine:0.4468', 'blockade:0.3816', 'war:0.3367', 'wheat:0.3342', 'harvest:0.3057', 'divert:0.2924', 'supply:0.2743', 'silos:0.2712', 'territory:0.267', 'report:0.2301', 'information:0.199', 'fabricate:0.1933', 'explain:0.192', 'article:0.1814', 'false:0.1793', 'destroyed:0.1746', 'hear:0.1699', 'covertly:0.169', 'comply:0.1677', 'displace:0.1617', 'ally:0.1549', 'solskyi:0.1517', 'send:0.1476', 'mps:0.1363', 'thursday:0.1357', 'exporter:0.1326', 'rely:0.1259', 'million:0.1118', 'longer:0.1029', 'videolink:0.0463']+titles_keywords+['ukraine:0.4475', 'wheat:0.3352', 'raiding:0.2229', 'exporting:0.1625', 'false:0.1522']"
+        ]
+    ]
+}

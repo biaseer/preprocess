@@ -1,0 +1,12 @@
+{
+    "RUS+GBR+170":[
+        [
+            "20220610+../news_crawling/RUS_UKR/p_articles/msn.com/Ukrainian Bomb Experts Bury Unexploded Missiles Before Controlled Explosion.txt+eventbasecode170+eventcode170+avgtone0.4761363636363636+goldsteinscale0.15+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.5069', 'missiles:0.4608', 'kremlin:0.4337', 'bomb:0.4226', 'military:0.3736', 'war:0.3613', 'operation:0.3098', 'invade:0.3031', 'bury:0.3017', 'tanker:0.2966', 'zelensky:0.2719', 'dangerous:0.2637', 'experts:0.2634', 'unexploded:0.241', 'news:0.2304', 'volodymyr:0.227', 'corridor:0.2167', 'report:0.2008', 'demining:0.1969', 'write:0.167', 'footage:0.1659', 'june:0.1567', 'grain:0.1463', 'aiden:0.1454', 'ses:0.1431', 'control:0.1403', 'th:0.1323', 'candidacy:0.1238', 'receive:0.1176', 'export:0.1173']+titles_keywords+['missiles:0.4722', 'bury:0.3866', 'bomb:0.3682', 'unexploded:0.2956', 'ukrainian:0.2723']"
+        ]
+    ],
+    "RUS+MAR+170":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/msn.com/2 British men captured while fighting for Ukraine sentenced to death in sham judgment by.txt+eventbasecode170+eventcode170+avgtone0.47053045186640474+goldsteinscale0.15+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.04276315789473684+news_keywords+['ukraine:0.4751', 'russianoccupied:0.4369', 'putin:0.3641', 'war:0.348', 'prisoner:0.2934', 'territory:0.2915', 'troop:0.2763', 'separatist:0.254', 'court:0.2155', 'legitimacy:0.1982', 'viktor:0.1872', 'geneva:0.1795', 'bloody:0.1785', 'footage:0.1697', 'long:0.1671', 'negotiate:0.1665', 'status:0.1625', 'cnn:0.1551', 'held:0.1538', 'accuse:0.1497', 'truss:0.143', 'men:0.1358', 'continue:0.1292', 'swap:0.1265', 'donbas:0.1217', 'fighter:0.1181', 'according:0.1159', 'thursday:0.1081', 'multiple:0.0925', 'proxy:0.0828']+titles_keywords+['ukraine:0.3854', 'russianoccupied:0.3368', 'sentenced:0.2921', 'fighting:0.1161', 'men:0.109']"
+        ]
+    ]
+}

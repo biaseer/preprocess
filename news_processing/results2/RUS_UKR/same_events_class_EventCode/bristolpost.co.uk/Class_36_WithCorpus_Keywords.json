@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+36":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/bristolpost.co.uk/Ukraine afternoon latest Russia lays out its demands as two sides meet for talks again.txt+eventbasecode36+eventcode36+avgtone0.46639188332276477+goldsteinscale0.7+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['crimea:0.5049', 'demilitarisation:0.4213', 'kremlin:0.3968', 'nato:0.3956', 'evacuate:0.3649', 'erdogan:0.3411', 'embargo:0.33', 'intervene:0.318', 'invasion:0.3068', 'diplomat:0.2872', 'expand:0.2653', 'prepare:0.2384', 'battle:0.2329', 'news:0.227', 'capital:0.2163', 'bloc:0.2106', 'concern:0.2027', 'know:0.2005', 'rout:0.2', 'procedure:0.199', 'corridor:0.199', 'hypocrisy:0.1897', 'want:0.1769', 'vereshchuk:0.166', 'import:0.156', 'unmanageable:0.1558', 'people:0.153', 'bucha:0.1385', 'acknowledgment:0.1335', 'great:0.1192']+titles_keywords+['ukraine:0.4032', 'demands:0.258', 'sides:0.1878', 'meet:0.1824', 'latest:0.049']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/bristolpost.co.uk/Cheapest petrol prices near you in Bristol and most expensive.txt+eventbasecode36+eventcode36+avgtone0.47300469483568075+goldsteinscale0.7+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['petrolprices:0.5159', 'bristol:0.4129', 'diesel:0.3501', 'cheapest:0.224', 'uks:0.2009', 'street:0.1741', 'near:0.1519', 'station:0.1231', 'fluctuate:0.123', 'barrel:0.121', 'data:0.1078', 'shop:0.1076', 'drop:0.107', 'march:0.1059', 'worth:0.1022', 'live:0.0853', 'increase:0.0816', 'week:0.073', 'record:0.0705', 'current:0.0685', 'spike:0.0621', 'report:0.0607', 'come:0.0565', 'comparison:0.0548', 'know:0.0513', 'note:0.0451', 'average:0.0341', 'shift:0.0328', 'necessarily:0.0141', 'despite:-0.0104']+titles_keywords+['bristol:0.5196', 'cheapest:0.4414', 'petrol:0.4051', 'prices:0.3391', 'near:0.1915']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/Interview Ukraines Journalists in Epicenter of War.txt+eventbasecode10+eventcode10+avgtone0.49039200614911604+goldsteinscale0.5+nummentions0.015602322206095792+numarticles0.016316171138506162+numsources0.03289473684210526+news_keywords+['journalistic:0.529', 'kyiv:0.4855', 'ukraines:0.4694', 'propaganda:0.4639', 'russian:0.4066', 'pulitzer:0.4031', 'war:0.3349', 'rudenko:0.3224', 'territory:0.309', 'report:0.2893', 'read:0.2847', 'agenda:0.281', 'globe:0.2675', 'languages:0.2644', 'victim:0.2558', 'source:0.2327', 'concerned:0.2116', 'importance:0.2015', 'press:0.2003', 'department:0.1973', 'know:0.1925', 'table:0.1879', 'neutral:0.1737', 'cover:0.1712', 'intersection:0.1706', 'voa:0.1603', 'like:0.1452', 'difference:0.1411', 'commend:0.1284', 'sure:0.1207']+titles_keywords+['journalists:0.4992', 'ukraines:0.4431', 'war:0.3703', 'interview:0.3276', 'epicenter:0.1957']"
+        ],
+        [
+            "20220830+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/Ukraine accused of targeting possible route of nuclear inspectors.txt+eventbasecode10+eventcode10+avgtone0.47514619883040937+goldsteinscale0.5+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['kiev:0.4643', 'chernobyl:0.4464', 'nuclear:0.3501', 'iaea:0.3367', 'military:0.29', 'safety:0.2875', 'operation:0.2798', 'attack:0.2761', 'provocation:0.2743', 'zaporozhye:0.267', 'concern:0.2636', 'warn:0.2532', 'torpedo:0.2445', 'regime:0.2441', 'nationalist:0.2429', 'rogov:0.2395', 'disaster:0.2294', 'shell:0.1985', 'direction:0.168', 'npp:0.153', 'check:0.1394', 'expert:0.134', 'monday:0.1273', 'dozen:0.1033', 'make:0.1013', 'resort:0.1006', 'possible:0.0943', 'include:0.0767', 'house:0.0734', 'miserably:0.0466']+titles_keywords+['ukraine:0.39', 'nuclear:0.3198', 'targeting:0.2947', 'inspectors:0.2376', 'accused:0.2237']"
+        ]
+    ]
+}

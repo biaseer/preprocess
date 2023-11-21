@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20211213+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/Putin says he worked as a taxi driver after fall of USSR.txt+eventbasecode112+eventcode112+avgtone0.4766355140186916+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5317', 'ussr:0.479', 'petersburg:0.3392', 'speak:0.2247', 'know:0.2236', 'taxi:0.2235', 'union:0.2125', 'sobchak:0.2036', 'income:0.2033', 'resign:0.2023', 'remark:0.193', 'end:0.19', 'previous:0.1807', 'help:0.1801', 'make:0.1734', 'invade:0.1726', 'bbc:0.1704', 'disintegration:0.1674', 'deny:0.158', 'view:0.1572', 'speculation:0.1548', 'trigger:0.1537', 'fear:0.1499', 'plan:0.1365', 'stranger:0.1117', 'fuel:0.1087', 'anatoly:0.1023', 'amass:0.1021', 'unfortunately:0.0996', 'august:0.0686']+titles_keywords+['putin:0.4838', 'taxi:0.4143', 'worked:0.0834', 'fall:0.0368', 'says:-0.0186']"
+        ],
+        [
+            "20220826+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/World narrowly avoided radiation accident Zelensky.txt+eventbasecode112+eventcode112+avgtone0.4689984101748807+goldsteinscale0.4+nummentions0.01088534107402032+numarticles0.011602610587382161+numsources0.01644736842105263+news_keywords+['nuclear:0.4989', 'kyiv:0.3805', 'kremlin:0.3474', 'safety:0.3035', 'disaster:0.3013', 'fires:0.2822', 'outage:0.2701', 'zelensky:0.2544', 'operate:0.2487', 'worry:0.237', 'power:0.2235', 'occupy:0.2206', 'iaea:0.2089', 'grid:0.2026', 'satellite:0.1907', 'report:0.1797', 'enerhodar:0.1701', 'governor:0.1636', 'temporarily:0.1594', 'watchdog:0.1569', 'react:0.1456', 'cite:0.1432', 'world:0.1398', 'redirect:0.1379', 'generate:0.1323', 'fifth:0.1214', 'level:0.1093', 'near:0.0965', 'happens:0.0926', 'total:0.049']+titles_keywords+['zelensky:0.5256', 'radiation:0.4673', 'accident:0.2733', 'avoided:0.1884', 'world:0.1541']"
+        ]
+    ]
+}

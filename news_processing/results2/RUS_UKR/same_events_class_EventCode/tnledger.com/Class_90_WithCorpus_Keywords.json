@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+90":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/tnledger.com/Biden Putin should face war crimes trial for Bucha killings.txt+eventbasecode90+eventcode90+avgtone0.45478723404255317+goldsteinscale0.4+nummentions0.019593613933236574+numarticles0.02030456852791878+numsources0.019736842105263157+news_keywords+['putin:0.4992', 'kyiv:0.4426', 'sanction:0.3459', 'massacre:0.3267', 'investigate:0.3015', 'allegation:0.2878', 'journalist:0.2669', 'warn:0.2497', 'unfolding:0.2472', 'nations:0.223', 'senate:0.2183', 'bucha:0.2165', 'realize:0.2153', 'authority:0.2131', 'continue:0.213', 'fight:0.2006', 'approve:0.1969', 'intensify:0.1965', 'word:0.1881', 'expect:0.1871', 'monday:0.1855', 'come:0.1794', 'civilian:0.1777', 'seat:0.1739', 'view:0.168', 'ally:0.1667', 'commission:0.1582', 'right:0.148', 'state:0.1404', 'ap:0.1256']+titles_keywords+['putin:0.4878', 'biden:0.3519', 'bucha:0.2749', 'killings:0.2705', 'trial:0.2366']"
+        ]
+    ],
+    "USA+UKR+90":[
+        [
+            "20220623+../news_crawling/RUS_UKR/p_articles/tnledger.com/Microsoft Russian cyber spying targets 42 Ukraine allies.txt+eventbasecode90+eventcode90+avgtone0.48179871520342615+goldsteinscale0.4+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['cyberattacks:0.5176', 'nato:0.4548', 'ukrainian:0.4391', 'moscow:0.4124', 'spy:0.3951', 'propaganda:0.3803', 'microsoft:0.3367', 'invade:0.3072', 'government:0.2907', 'virus:0.2836', 'threat:0.2501', 'targeted:0.2375', 'operation:0.2329', 'washington:0.2293', 'data:0.2062', 'report:0.1921', 'deflect:0.1719', 'notpetya:0.1688', 'example:0.1613', 'coinciding:0.1551', 'donbas:0.1442', 'month:0.1276', 'write:0.1241', 'ap:0.1238', 'main:0.1056', 'conduit:0.1044', 'page:0.0961', 'nearly:0.089', 'brad:0.087', 'increase:0.0821']+titles_keywords+['ukraine:0.4116', 'microsoft:0.3753', 'spying:0.3628', 'allies:0.3383', '42:0.2159']"
+        ]
+    ]
+}

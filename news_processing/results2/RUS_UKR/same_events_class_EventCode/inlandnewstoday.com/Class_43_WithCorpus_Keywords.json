@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+43":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/inlandnewstoday.com/Reports Russian troops fall back to reorganize assault on Ukraine Refugee exodus hits 4 million.txt+eventbasecode43+eventcode43+avgtone0.4748322147651007+goldsteinscale0.64+nummentions0.041364296081277216+numarticles0.03444525018129079+numsources0.16447368421052633+news_keywords+['crimea:0.4917', 'kremlin:0.4068', 'war:0.3297', 'resupply:0.2909', 'refugee:0.2844', 'negotiation:0.2791', 'invasion:0.2698', 'news:0.245', 'flee:0.2271', 'zelenskyy:0.2199', 'reorganize:0.2155', 'read:0.2115', 'artillery:0.2046', 'plan:0.1854', 'forward:0.1839', 'ongoing:0.1827', 'pledge:0.1722', 'capital:0.1605', 'fall:0.1594', 'governor:0.1572', 'unfolded:0.1534', 'people:0.1461', 'unit:0.1396', 'sanction:0.1381', 'donbas:0.1345', 'million:0.1266', 'nearly:0.1158', 'child:0.1132', 'right:0.1021', 'verify:0.0896']+titles_keywords+['refugee:0.4217', 'ukraine:0.3695', 'troops:0.3448', 'reorganize:0.1663', 'million:0.164']"
+        ]
+    ],
+    "DEU+UKR+43":[
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/inlandnewstoday.com/Report Intelligencesharing used to shoot down Russian transport plane.txt+eventbasecode43+eventcode43+avgtone0.4981060606060606+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4476', 'invade:0.3849', 'putin:0.378', 'pentagon:0.3366', 'war:0.3191', 'spy:0.3152', 'aircraft:0.2807', 'troop:0.2609', 'security:0.2506', 'diplomatic:0.248', 'battlefield:0.2362', 'tank:0.2249', 'news:0.2198', 'intelligencesharing:0.2126', 'nbc:0.2041', 'report:0.1924', 'ally:0.1898', 'weapon:0.1767', 'repel:0.1743', 'justify:0.1702', 'use:0.1651', 'shoot:0.1584', 'early:0.147', 'current:0.1193', 'exactly:0.112', 'pave:0.1025', 'underscore:0.1012', 'house:0.0856', 'reverse:0.0806', 'major:0.0662']+titles_keywords+['intelligencesharing:0.3907', 'report:0.3897', 'russian:0.353', 'plane:0.3051', 'shoot:0.1277']"
+        ]
+    ]
+}

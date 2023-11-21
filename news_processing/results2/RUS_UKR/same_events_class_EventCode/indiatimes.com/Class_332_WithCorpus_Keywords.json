@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+332":[
+        [
+            "20211208+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Joe Biden says warned Vladimir Putin of sanctions like none hes ever seen if Ukraine.txt+eventbasecode33+eventcode332+avgtone0.46654929577464793+goldsteinscale0.76+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['putin:0.4382', 'biden:0.4004', 'nato:0.3811', 'invades:0.314', 'ukrainians:0.2985', 'retaliate:0.2905', 'warn:0.2606', 'unilaterally:0.2409', 'sanction:0.2329', 'confront:0.2181', 'troop:0.1893', 'understand:0.1503', 'bolster:0.1481', 'trigger:0.1475', 'say:0.1465', 'require:0.133', 'economic:0.1327', 'confident:0.1299', 'counterpart:0.0983', 'measure:0.0945', 'severe:0.0882', 'link:0.0841', 'absolutely:0.0737', 'hour:0.0693', 'unprecedented:0.0669', 'fact:0.0663', 'united:0.0651', 'send:0.0635', 'wednesday:0.0592', 'addition:0.0303']+titles_keywords+['biden:0.4167', 'sanctions:0.4102', 'vladimir:0.3139', 'warned:0.1724', 'like:0.057']"
+        ]
+    ],
+    "WST+UKR+332":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Ukraine playing western card vice versa Russian Envoy.txt+eventbasecode33+eventcode332+avgtone0.49240121580547114+goldsteinscale0.76+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4806', 'geopolitical:0.4392', 'putin:0.425', 'nato:0.4124', 'diplomat:0.3506', 'war:0.2913', 'genocide:0.2794', 'babushkin:0.266', 'interfere:0.2544', 'regime:0.2481', 'conclude:0.2289', 'independence:0.2256', 'achieve:0.2223', 'destabilise:0.2216', 'sanction:0.2197', 'emergency:0.2053', 'versa:0.2052', 'partnership:0.1999', 'western:0.1904', 'counterpart:0.1893', 'know:0.1698', 'breakaway:0.156', 'play:0.1457', 'note:0.1432', 'follow:0.138', 'pose:0.1242', 'double:0.1103', 'internal:0.1007', 'legitimate:0.0985', 'year:0.0972']+titles_keywords+['ukraine:0.4951', 'envoy:0.3185', 'western:0.2649', 'versa:0.2213', 'playing:0.2003']"
+        ]
+    ]
+}

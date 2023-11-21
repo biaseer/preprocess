@@ -1,0 +1,22 @@
+{
+    "BLR+RUS+100":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/foxnews.com/Russia still largely stalled across Ukraine US defense official.txt+eventbasecode100+eventcode100+avgtone0.48463114754098363+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4921', 'nato:0.4016', 'missiles:0.3614', 'dod:0.3152', 'zelenskyy:0.2516', 'invasion:0.2498', 'update:0.2463', 'aerial:0.2451', 'kilometer:0.2131', 'continue:0.2087', 'fight:0.2079', 'enact:0.1935', 'clear:0.1849', 'zone:0.1614', 'president:0.1559', 'round:0.1556', 'type:0.1498', 'cover:0.1465', 'cite:0.1416', 'concern:0.1407', 'overtake:0.1348', 'carry:0.115', 'late:0.1144', 'irpin:0.1135', 'reports:0.1046', 'largely:0.101', 'says:0.097', 'residential:0.0963', 'different:0.0943', 'billion:0.0924']+titles_keywords+['ukraine:0.4314', 'stalled:0.374', 'defense:0.1078', 'largely:0.0896', 'official:0.0419']"
+        ]
+    ],
+    "EUR+RUS+100":[
+        [
+            "20211217+../news_crawling/RUS_UKR/p_articles/foxnews.com/European Union leaders press Russia to resume peace talks with Ukraine.txt+eventbasecode100+eventcode100+avgtone0.48196948682385576+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['putin:0.4747', 'nato:0.4555', 'ukraines:0.4201', 'diplomatic:0.3686', 'baltic:0.3456', 'agreements:0.3419', 'sanction:0.3032', 'threat:0.3', 'eus:0.2977', 'border:0.2861', 'sovereignty:0.2739', 'news:0.2686', 'separatist:0.2663', 'annexed:0.2569', 'escalate:0.2537', 'coordinate:0.2302', 'rhetoric:0.2268', 'table:0.2252', 'prepare:0.2132', 'outline:0.1853', 'orbit:0.1837', 'know:0.183', 'resume:0.1795', 'submit:0.1786', 'celebrating:0.1764', 'repeat:0.1705', 'week:0.1325', 'end:0.1226', 'headway:0.1225', 'vanden:0.1088']+titles_keywords+['ukraine:0.3174', 'peace:0.2471', 'talks:0.1657', 'resume:0.0577', 'press:0.0451']"
+        ]
+    ],
+    "RUS+UKR+100":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/foxnews.com/Eric Swalwell floats kicking Russians out of US universities in retaliation to Putin invading Ukraine.txt+eventbasecode100+eventcode100+avgtone0.4731182795698925+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5783', 'ukraine:0.4381', 'nato:0.3964', 'oligarchs:0.3827', 'sanction:0.3658', 'invade:0.3629', 'reutersleah:0.3617', 'adversary:0.2769', 'reactionary:0.2684', 'gop:0.2647', 'infrastructure:0.2333', 'newsroom:0.2309', 'table:0.222', 'fight:0.2197', 'leverage:0.2119', 'know:0.2035', 'morning:0.1963', 'chuhuiv:0.1758', 'reassure:0.1728', 'rep:0.1675', 'tide:0.1571', 'delivers:0.1566', 'continue:0.1542', 'option:0.1517', 'assign:0.1485', 'great:0.1379', 'swalwell:0.1361', 'doocy:0.1308', 'th:0.1133', 'unless:0.0775']+titles_keywords+['putin:0.4128', 'swalwell:0.3269', 'invading:0.2882', 'universities:0.286', 'retaliation:0.2775']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/foxnews.com/Combat operations in Ukraine are coming to a critical inflection point and Congress must act.txt+eventbasecode100+eventcode100+avgtone0.49458288190682553+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['ukraine:0.5077', 'nato:0.4601', 'warfare:0.397', 'resupply:0.3042', 'emergency:0.2738', 'civilian:0.2662', 'prepare:0.254', 'logistically:0.2424', 'congress:0.2215', 'designate:0.2143', 'develop:0.2057', 'executive:0.2049', 'comprehensive:0.2039', 'displaced:0.2033', 'ap:0.1938', 'surround:0.1804', 'secure:0.1786', 'outcome:0.1782', 'know:0.1757', 'fy:0.1644', 'caliber:0.1629', 'list:0.1626', 'central:0.1583', 'long:0.1469', 'resource:0.146', 'battery:0.144', 'counter:0.1381', 'goggles:0.1078', 'bobokafp:0.1009', 'deal:0.0953']+titles_keywords+['congress:0.367', 'ukraine:0.3581', 'combat:0.3286', 'inflection:0.1204', 'coming:0.1113']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+NZL+100":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/rnz.co.nz/Ukrainians in NZ worried for friends family back home.txt+eventbasecode100+eventcode100+avgtone0.47321428571428575+goldsteinscale0.25+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4375', 'nato:0.3318', 'nz:0.3144', 'worry:0.2721', 'behave:0.2276', 'government:0.227', 'enemy:0.2242', 'world:0.1901', 'ban:0.1847', 'biden:0.1639', 'ambassador:0.1617', 'order:0.155', 'people:0.1484', 'planning:0.1429', 'fight:0.1411', 'indication:0.1399', 'explain:0.1376', 'ardern:0.1366', 'aotearoa:0.1331', 'degree:0.1217', 'remember:0.1199', 'home:0.1165', 'jacinda:0.1061', 'export:0.1025', 'deteriorate:0.1008', 'able:0.0817', 'possibility:0.0749', 'lot:0.0579', 'free:0.0452', 'year:0.0332']+titles_keywords+['ukrainians:0.474', 'nz:0.3175', 'worried:0.2532', 'family:0.2226', 'home:0.125']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/rnz.co.nz/Russian billionaire Abramovich Ukrainian peace negotiators hit by suspected poisoning reports.txt+eventbasecode100+eventcode100+avgtone0.47286012526096033+goldsteinscale0.25+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['putin:0.4931', 'kyiv:0.4262', 'poison:0.4114', 'abramovich:0.3397', 'negotiator:0.3223', 'war:0.3168', 'unprovoked:0.2862', 'scare:0.2844', 'investigative:0.2697', 'mykhailo:0.2594', 'umerov:0.2511', 'sanction:0.2373', 'symptom:0.2139', 'wsj:0.2036', 'anonymity:0.201', 'oppose:0.1814', 'conclude:0.1779', 'meet:0.1746', 'outlet:0.1687', 'help:0.1676', 'elaborate:0.164', 'cause:0.1532', 'allow:0.1422', 'attempt:0.1372', 'undefined:0.1335', 'month:0.1152', 'various:0.11', 'official:0.1081', 'factor:0.1041', 'likely:0.0727']+titles_keywords+['ukrainian:0.3759', 'negotiators:0.3403', 'abramovich:0.3076', 'poisoning:0.2703', 'hit:0.1821']"
+        ]
+    ]
+}

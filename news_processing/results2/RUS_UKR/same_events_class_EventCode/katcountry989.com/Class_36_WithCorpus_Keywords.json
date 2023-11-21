@@ -1,0 +1,17 @@
+{
+    "DEU+RUS+36":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/katcountry989.com/Russia returns some troops to base in areas near Ukraine report.txt+eventbasecode36+eventcode36+avgtone0.476890756302521+goldsteinscale0.7+nummentions0.13824383164005805+numarticles0.13669325598259607+numsources0.22039473684210525+news_keywords+['ukraines:0.4547', 'moscow:0.4077', 'nato:0.3932', 'putin:0.3566', 'military:0.3018', 'invasion:0.2958', 'shortly:0.2387', 'border:0.2193', 'rouble:0.2062', 'news:0.2044', 'drill:0.2009', 'returning:0.1813', 'expect:0.1695', 'escalate:0.167', 'plan:0.1667', 'adjacent:0.1601', 'avert:0.1517', 'western:0.1493', 'event:0.1457', 'exercise:0.1447', 'continue:0.1247', 'meet:0.1234', 'cite:0.1219', 'pledge:0.1219', 'sanction:0.1185', 'feb:0.1091', 'area:0.1046', 'stake:0.0884', 'large:0.0728', 'olaf:0.0632']+titles_keywords+['ukraine:0.3993', 'troops:0.3833', 'returns:0.2579', 'report:0.1142', 'near:0.0859']"
+        ]
+    ],
+    "RUS+TUR+36":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/katcountry989.com/Oil drops on China demand worries Ukraine peace talk hopes.txt+eventbasecode36+eventcode36+avgtone0.47629310344827586+goldsteinscale0.7+nummentions0.034107402031930335+numarticles0.03480783176214648+numsources0.03618421052631579+news_keywords+['reuters:0.4144', 'sanctions:0.3632', 'ukraine:0.3475', 'oil:0.3292', 'baidu:0.3086', 'worry:0.2831', 'future:0.2775', 'shanghai:0.2746', 'traffic:0.2649', 'drop:0.2599', 'anz:0.2585', 'data:0.2541', 'invade:0.2353', 'covid:0.2335', 'surge:0.2305', 'tuesday:0.2224', 'peace:0.221', 'expect:0.2053', 'west:0.1992', 'wti:0.1842', 'open:0.1833', 'brent:0.1721', 'extend:0.1642', 'month:0.1609', 'head:0.1529', 'worker:0.1358', 'importer:0.1319', 'intermediate:0.1286', 'case:0.1155', 'set:0.0979']+titles_keywords+['oil:0.3726', 'ukraine:0.3413', 'drops:0.2124', 'talk:0.203', 'hopes:0.1359']"
+        ]
+    ],
+    "UKR+AUS+36":[
+        [
+            "20220211+../news_crawling/RUS_UKR/p_articles/katcountry989.com/Stranded in Ukraine with COVIDpositive child Australian mum talks of her fears.txt+eventbasecode36+eventcode36+avgtone0.48375+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4849', 'evacuate:0.3586', 'covid:0.3574', 'invade:0.317', 'reuters:0.295', 'stranded:0.2856', 'troop:0.2822', 'affairs:0.2807', 'poshyvaylo:0.2655', 'forward:0.2545', 'nataliyas:0.2502', 'melbourne:0.2462', 'plan:0.2397', 'plane:0.2352', 'visit:0.2201', 'fear:0.2177', 'citizen:0.2122', 'expect:0.2096', 'advisory:0.2028', 'child:0.2017', 'return:0.199', 'know:0.1852', 'problem:0.1832', 'pull:0.1782', 'form:0.1734', 'book:0.134', 'feb:0.1302', 'immediately:0.1225', 'complete:0.1161', 'compare:0.1057']+titles_keywords+['ukraine:0.3178', 'stranded:0.3084', 'child:0.2577', 'fears:0.2086', 'covidpositive:0.1784']"
+        ]
+    ]
+}

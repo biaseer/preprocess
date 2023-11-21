@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+10":[
+        [
+            "20211208+../news_crawling/RUS_UKR/p_articles/bizpacreview.com/Ukrainian defense minister says Russian invasion would result in bloody massacre.txt+eventbasecode10+eventcode10+avgtone0.47769953051643194+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4531', 'ukrainian:0.4104', 'russias:0.3734', 'invade:0.3721', 'russiantroops:0.368', 'reznikovtoldcnn:0.3445', 'massacre:0.3077', 'destabilization:0.2838', 'troop:0.2743', 'armed:0.246', 'provocation:0.244', 'alarm:0.2354', 'expect:0.2115', 'fear:0.2076', 'input:0.2003', 'cnn:0.1931', 'eu:0.1902', 'come:0.1807', 'plan:0.18', 'phony:0.1651', 'emphasize:0.162', 'report:0.1606', 'disastrous:0.1582', 'fact:0.1397', 'million:0.103', 'like:0.1027', 'dont:0.0957', 'big:0.0928', 'bpr:0.0872', 'mr:0.0798']+titles_keywords+['massacre:0.4239', 'russian:0.3313', 'defense:0.0953', 'says:0.0701', 'minister:0.0698']"
+        ]
+    ],
+    "RUS+RUS+10":[
+        [
+            "20211211+../news_crawling/RUS_UKR/p_articles/bizpacreview.com/Top military adviser reportedly floats arming citizens if Russia gets too close.txt+eventbasecode10+eventcode10+avgtone0.486+goldsteinscale0.5+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['crimea:0.4621', 'ukrainians:0.4314', 'putin:0.4136', 'moscows:0.3586', 'airstrikes:0.3556', 'frontline:0.3458', 'budanov:0.3288', 'enlist:0.2707', 'ammunition:0.2475', 'nyt:0.2227', 'prepared:0.2217', 'adviser:0.207', 'pavlyuktoldradio:0.196', 'assault:0.1958', 'input:0.1897', 'arm:0.1807', 'general:0.1786', 'supply:0.1745', 'hold:0.1559', 'avoid:0.1439', 'happen:0.1416', 'implement:0.1379', 'aninvasionwere:0.136', 'radical:0.1311', 'phony:0.1307', 'exactly:0.1197', 'nearly:0.116', 'short:0.1146', 'big:0.1092', 'theyll:0.1089']+titles_keywords+['arming:0.3475', 'adviser:0.2727', 'russia:0.2541', 'floats:0.1788', 'reportedly:0.1694']"
+        ]
+    ]
+}

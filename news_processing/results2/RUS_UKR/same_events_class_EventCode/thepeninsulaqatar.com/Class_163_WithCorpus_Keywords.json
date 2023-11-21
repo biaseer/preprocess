@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+163":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/thepeninsulaqatar.com/Rally around Putin to save Russia Gazprom chief Miller says.txt+eventbasecode163+eventcode163+avgtone0.5015723270440252+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5398', 'kremlin:0.5325', 'ukraine:0.4304', 'gazprom:0.4191', 'petersburg:0.3737', 'hegemony:0.3385', 'rallying:0.3227', 'reutersfabian:0.3213', 'gas:0.3005', 'global:0.2599', 'power:0.2572', 'economic:0.2561', 'company:0.2359', 'military:0.2018', 'alert:0.1987', 'know:0.1979', 'letter:0.1844', 'common:0.1737', 'ally:0.1648', 'example:0.1627', 'appoint:0.1603', 'publish:0.1595', 'sanction:0.1587', 'discord:0.152', 'states:0.1514', 'plot:0.1513', 'great:0.1441', 'miller:0.1382', 'slap:0.1379', 'large:0.1235']+titles_keywords+['putin:0.4452', 'gazprom:0.4151', 'miller:0.3305', 'rally:0.2986', 'says:0.0306']"
+        ],
+        [
+            "20220711+../news_crawling/RUS_UKR/p_articles/thepeninsulaqatar.com/Gas pipeline shutdown starts amid German suspicion of Russia.txt+eventbasecode163+eventcode163+avgtone0.47749196141479106+goldsteinscale0.1+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.029605263157894735+news_keywords+['pipeline:0.4418', 'russia:0.3728', 'gas:0.3637', 'gazprom:0.3099', 'berlin:0.2549', 'economy:0.2517', 'siemens:0.2484', 'invasion:0.2182', 'nord:0.2105', 'emergency:0.209', 'hanschke:0.2045', 'political:0.1858', 'news:0.1743', 'suspicious:0.1732', 'phase:0.1731', 'import:0.1568', 'reduce:0.1514', 'deliver:0.1495', 'sanction:0.1434', 'march:0.1327', 'automation:0.129', 'reutershannibal:0.1289', 'cite:0.1244', 'risk:0.1211', 'resume:0.1152', 'allow:0.1071', 'robert:0.1056', 'say:0.0773', 'price:0.054', 'particularly:0.022']+titles_keywords+['pipeline:0.3829', 'gas:0.3282', 'shutdown:0.2519', 'german:0.249', 'suspicion:0.1884']"
+        ]
+    ]
+}

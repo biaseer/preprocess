@@ -1,0 +1,26 @@
+{
+    "ISR+RUS+193":[
+        [
+            "20220506+../news_crawling/RUS_UKR/p_articles/foxnews.com/Lavrov seen for first time since Putins apology for his Hitler comments.txt+eventbasecode193+eventcode193+avgtone0.4853556485355648+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4919', 'antisemitism:0.4458', 'holocaust:0.4262', 'biyatovsputnikafp:0.3844', 'lavrovs:0.3312', 'sochi:0.2646', 'commemoration:0.2453', 'talk:0.2234', 'controversial:0.2219', 'justify:0.2139', 'incendiary:0.2074', 'apology:0.2046', 'polands:0.197', 'term:0.1881', 'minister:0.1864', 'toisraeli:0.1842', 'transcript:0.1761', 'hit:0.163', 'fox:0.1609', 'foreign:0.1566', 'fact:0.1539', 'powerful:0.1529', 'attend:0.1506', 'guise:0.1473', 'bennett:0.1457', 'direct:0.1199', 'thatboth:0.1191', 'week:0.0989', 'images:0.0963', 'doesnt:0.0379']+titles_keywords+['lavrov:0.533', 'putins:0.381', 'hitler:0.2763', 'apology:0.2045', 'seen:0.1747']"
+        ]
+    ],
+    "RUS+RUS+193":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/foxnews.com/Heroic Ghost of Kyiv fighter pilot is a myth Ukraine says.txt+eventbasecode193+eventcode193+avgtone0.5126353790613719+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5052', 'ukrainians:0.411', 'tarabalka:0.3594', 'podilskyi:0.3377', 'ghost:0.3166', 'military:0.3073', 'hero:0.3026', 'heroically:0.26', 'plane:0.2536', 'legendary:0.2523', 'alive:0.2385', 'brigade:0.2052', 'fighter:0.2039', 'wreckage:0.1997', 'occupier:0.191', 'kill:0.1812', 'real:0.1776', 'story:0.1736', 'actually:0.1467', 'embodies:0.1439', 'agency:0.1348', 'information:0.1243', 'stepan:0.1181', 'deliver:0.1141', 'yinurphoto:0.1118', 'acknowledge:0.103', 'shou:0.1015', 'prior:0.0949', 'qualified:0.0771', 'ceng:0.0377']+titles_keywords+['kyiv:0.4541', 'ghost:0.3547', 'heroic:0.3373', 'myth:0.3314', 'pilot:0.2829']"
+        ]
+    ],
+    "RUS+UKR+193":[
+        [],
+        [
+            "20220605+../news_crawling/RUS_UKR/p_articles/foxnews.com/Putin says Russia will hit harder if US supplies longrange missiles to Ukraine.txt+eventbasecode193+eventcode193+avgtone0.47909407665505227+goldsteinscale0.0+nummentions0.029753265602322207+numarticles0.030456852791878174+numsources0.029605263157894735+news_keywords+['putin:0.5326', 'kyiv:0.3993', 'sputnik:0.2712', 'conflict:0.2629', 'demyanchuk:0.2562', 'news:0.2492', 'military:0.2432', 'coincide:0.2367', 'deliver:0.2254', 'weapon:0.2189', 'range:0.2097', 'know:0.2055', 'gaffes:0.2033', 'flag:0.2014', 'stockpile:0.1846', 'shoot:0.1812', 'excerpt:0.1791', 'advance:0.1719', 'powerful:0.1688', 'systems:0.1684', 'plan:0.1602', 'morning:0.1572', 'boast:0.1549', 'western:0.1503', 'getty:0.1413', 'long:0.1332', 'bidens:0.1313', 'exacerbate:0.1249', 'plague:0.1046', 'state:0.0836']+titles_keywords+['putin:0.417', 'missiles:0.3772', 'hit:0.1856', 'harder:0.1692', 'longrange:0.1638']"
+        ]
+    ],
+    "RUS+USA+193":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/foxnews.com/Ukrainian police officer implores correspondent to tell America what Russians did to a journalist.txt+eventbasecode193+eventcode193+avgtone0.48209366391184566+goldsteinscale0.0+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['pravda:0.5244', 'correspondent:0.5088', 'journalism:0.4871', 'putin:0.4173', 'ukrainians:0.3992', 'nyt:0.3729', 'gerashchenko:0.3329', 'refugee:0.3272', 'pbs:0.3136', 'politics:0.3051', 'renaud:0.3042', 'gunshot:0.2985', 'biography:0.2972', 'awards:0.2909', 'crisis:0.2868', 'directorate:0.2757', 'military:0.2627', 'report:0.2604', 'ferguson:0.2474', 'humanistic:0.2293', 'irpin:0.1955', 'capital:0.1857', 'know:0.1798', 'cover:0.1687', 'yingst:0.1678', 'jane:0.1676', 'bash:0.1637', 'decade:0.1567', 'heard:0.1435', 'purportedly:0.1378']+titles_keywords+['correspondent:0.4371', 'ukrainian:0.4155', 'officer:0.3454', 'tell:0.1836', 'implores:0.1797']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        []
+    ]
+}

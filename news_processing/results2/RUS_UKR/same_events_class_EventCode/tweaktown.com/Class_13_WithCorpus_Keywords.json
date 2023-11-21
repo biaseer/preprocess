@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+13":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/tweaktown.com/New satellite photos show progress of Russian invasion into Ukraine.txt+eventbasecode13+eventcode13+avgtone0.4918918918918919+goldsteinscale0.52+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.013157894736842105+news_keywords+['ukraine:0.4771', 'navalnews:0.4007', 'invasion:0.3831', 'military:0.3724', 'mykolaiv:0.292', 'skysat:0.266', 'turok:0.2564', 'tech:0.2515', 'learn:0.2289', 'progress:0.2262', 'movement:0.2241', 'help:0.2051', 'subject:0.2027', 'sail:0.1931', 'utc:0.1857', 'feb:0.1793', 'lead:0.1786', 'love:0.1767', 'image:0.1613', 'adam:0.1585', 'th:0.154', 'new:0.1515', 'world:0.1499', 'age:0.1479', 'coverage:0.1469', 'nearby:0.1335', 'rise:0.1209', 'lie:0.1162', 'way:0.1068', 'interested:0.0616']+titles_keywords+['ukraine:0.4032', 'invasion:0.3275', 'satellite:0.2912', 'photos:0.2709', 'progress:0.2698']"
+        ]
+    ],
+    "RUS+USA+13":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/tweaktown.com/Chernobyl footage confirms Russians dug trenches in radioactive soil.txt+eventbasecode13+eventcode13+avgtone0.4713375796178344+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['chernobyl:0.6215', 'radioactive:0.5035', 'russian:0.3074', 'rts:0.2913', 'military:0.2902', 'reuters:0.2826', 'trench:0.2513', 'jak:0.2328', 'tweaktown:0.2202', 'report:0.214', 'technology:0.1932', 'space:0.1862', 'play:0.1845', 'expose:0.1829', 'informed:0.1824', 'poison:0.1674', 'plant:0.1595', 'furthermore:0.1529', 'evidence:0.1511', 'valery:0.1411', 'recapture:0.135', 'red:0.1309', 'begin:0.1274', 'typical:0.1221', 'fell:0.1171', 'review:0.1102', 'year:0.0948', 'numerous:0.0879', 'cause:0.0852', 'dad:0.0724']+titles_keywords+['chernobyl:0.5517', 'trenches:0.417', 'russians:0.3343', 'footage:0.1637', 'confirms:0.078']"
+        ]
+    ]
+}

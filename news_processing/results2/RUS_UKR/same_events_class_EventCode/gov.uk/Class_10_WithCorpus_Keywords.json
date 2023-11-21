@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+10":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/gov.uk/Russias invasion of Ukraine joint statement on the OSCE Moscow Mechanism report.txt+eventbasecode10+eventcode10+avgtone0.4776785714285714+goldsteinscale0.5+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4842', 'civilians:0.3573', 'invasion:0.3507', 'osce:0.3477', 'war:0.3196', 'crime:0.2724', 'federations:0.2617', 'jurisdiction:0.2466', 'accountability:0.2351', 'occur:0.214', 'contravention:0.2087', 'violent:0.1923', 'analyse:0.1902', 'torture:0.1873', 'precaution:0.1852', 'capital:0.1825', 'bilkova:0.1804', 'evidence:0.1541', 'term:0.151', 'distinction:0.1501', 'mechanism:0.1379', 'dimension:0.1357', 'include:0.1243', 'summary:0.1174', 'expert:0.1171', 'stated:0.1054', 'follow:0.0818', 'degrade:0.0785', 'ihrl:0.0678', 'thank:0.0397']+titles_keywords+['ukraine:0.4774', 'osce:0.4189', 'invasion:0.3438', 'report:0.1979', 'mechanism:0.1978']"
+        ]
+    ],
+    "GBR+UKR+10":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/gov.uk/PM call with President Zelenskyy 19 May 2022.txt+eventbasecode10+eventcode10+avgtone0.49372384937238495+goldsteinscale0.5+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.006578947368421052+news_keywords+['ukraine:0.5195', 'zelenskyy:0.3947', 'putins:0.3636', 'blockade:0.2765', 'military:0.2448', 'president:0.2447', 'disinformation:0.2408', 'territory:0.2395', 'supply:0.2194', 'solidarity:0.2188', 'update:0.2058', 'reiterate:0.2036', 'urgently:0.1955', 'drone:0.1891', 'range:0.1872', 'noting:0.1846', 'prime:0.18', 'speak:0.178', 'rout:0.1706', 'long:0.1605', 'ally:0.1484', 'open:0.1367', 'option:0.1248', 'direct:0.1194', 'agree:0.1119', 'include:0.1072', 'look:0.1013', 'congratulate:0.0962', 'unman:0.088', 'define:0.0629']+titles_keywords+['zelenskyy:0.5244', '2022:0.3659', 'president:0.3197', 'pm:0.2615', '19:0.1438']"
+        ]
+    ]
+}

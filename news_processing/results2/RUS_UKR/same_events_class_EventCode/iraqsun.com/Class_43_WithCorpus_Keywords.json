@@ -1,0 +1,12 @@
+{
+    "RUS+TUR+43":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/iraqsun.com/White Helmets group shares tips with Ukrainians media.txt+eventbasecode43+eventcode43+avgtone0.484775641025641+goldsteinscale0.64+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.029605263157894735+news_keywords+['ukraine:0.4446', 'nato:0.4339', 'propaganda:0.3911', 'damascus:0.3691', 'genocide:0.344', 'troop:0.3414', 'terrorist:0.3379', 'unprovoked:0.2828', 'government:0.2769', 'diplomatic:0.2753', 'territory:0.2699', 'helmets:0.2618', 'bloc:0.2416', 'report:0.234', 'evidence:0.2309', 'term:0.2036', 'help:0.1978', 'flee:0.1883', 'agreement:0.1842', 'fight:0.167', 'donbass:0.1619', 'say:0.1604', 'translated:0.1572', 'implement:0.1567', 'overarch:0.1564', 'white:0.1532', 'camera:0.1482', 'surge:0.1463', 'include:0.1298', 'early:0.0849']+titles_keywords+['ukrainians:0.4085', 'helmets:0.3815', 'white:0.2455', 'media:0.2147', 'tips:0.2046']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/iraqsun.com/Nobel Prize to be sold by Russian to raise money for Ukrainians.txt+eventbasecode43+eventcode43+avgtone0.5+goldsteinscale0.64+nummentions0.261611030478955+numarticles0.2621464829586657+numsources0.29605263157894735+news_keywords+['nobel:0.5041', 'refugees:0.404', 'humanitarian:0.3909', 'ukrainians:0.384', 'dmitry:0.3665', 'moscow:0.3664', 'muratov:0.3508', 'prize:0.3117', 'medal:0.3053', 'reuters:0.3004', 'peace:0.2592', 'maria:0.2378', 'money:0.2115', 'philippines:0.2113', 'thousand:0.208', 'fund:0.208', 'announce:0.1972', 'world:0.1921', 'report:0.1839', 'famous:0.1792', 'ressa:0.1682', 'fled:0.163', 'sell:0.1604', 'respond:0.1419', 'paper:0.1327', 'note:0.1098', 'displace:0.1066', 'decide:0.0834', 'attend:0.0829', 'corridor:0.0547']+titles_keywords+['nobel:0.4904', 'ukrainians:0.4286', 'prize:0.3626', 'money:0.2698', 'sold:0.1599']"
+        ]
+    ]
+}

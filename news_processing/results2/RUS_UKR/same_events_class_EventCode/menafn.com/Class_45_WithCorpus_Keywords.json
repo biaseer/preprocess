@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+45":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/menafn.com/Ukraine how negotiations could stop the war and what needs to happen first.txt+eventbasecode45+eventcode45+avgtone0.4882583170254403+goldsteinscale0.75+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ceasefires:0.5286', 'diplomacy:0.5017', 'ukraine:0.4429', 'putin:0.3856', 'nato:0.3762', 'negotiator:0.3523', 'annexation:0.3301', 'escalate:0.2503', 'facilitate:0.2411', 'stalemate:0.2284', 'table:0.2189', 'outcomes:0.2185', 'macron:0.2032', 'remain:0.1981', 'deal:0.1889', 'forget:0.1672', 'uneasy:0.1597', 'end:0.1498', 'immediate:0.1429', 'article:0.1414', 'long:0.1412', 'alternative:0.1388', 'meet:0.1331', 'roadblock:0.1271', 'cross:0.1261', 'agree:0.1238', 'unfold:0.1227', 'formats:0.1119', 'comprehensive:0.1061', 'zone:0.0751']+titles_keywords+['negotiations:0.4896', 'ukraine:0.4531', 'war:0.4481', 'stop:0.2481', 'needs:0.1119']"
+        ]
+    ],
+    "TUR+RUS+45":[
+        [
+            "20220727+../news_crawling/RUS_UKR/p_articles/menafn.com/Kubrakov On Grain Exports Ukraine Will Shift To Plan B If Russia Attacks Ports.txt+eventbasecode45+eventcode45+avgtone0.5026737967914439+goldsteinscale0.75+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4108', 'kubrakov:0.3069', 'infrastructure:0.2899', 'grain:0.2783', 'ports:0.2596', 'danube:0.2576', 'agricultural:0.2514', 'supply:0.2495', 'railway:0.2432', 'plan:0.208', 'export:0.208', 'corridor:0.1726', 'attacks:0.1708', 'shift:0.1619', 'correspondent:0.1598', 'broker:0.1416', 'menafn:0.139', 'reliability:0.1365', 'ukrinform:0.1346', 'contact:0.1324', 'continue:0.1238', 'center:0.1046', 'deal:0.1012', 'possible:0.0765', 'completeness:0.0764', 'quadrilateral:0.0646', 'kind:0.0592', 'load:0.0559', 'relate:0.0466', 'july:0.0259']+titles_keywords+['kubrakov:0.4817', 'ukraine:0.3556', 'plan:0.2469', 'ports:0.2241', 'grain:0.1908']"
+        ]
+    ]
+}

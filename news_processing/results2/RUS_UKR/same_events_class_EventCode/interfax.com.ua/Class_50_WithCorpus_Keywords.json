@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+50":[
+        [
+            "20211005+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Ukraine does not plan negotiations with Russia on direct purchase of gas PM.txt+eventbasecode50+eventcode50+avgtone0.5064377682403434+goldsteinscale0.675+nummentions0.0043541364296081275+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4674', 'gas:0.393', 'transit:0.2871', 'negotiate:0.2592', 'supply:0.2426', 'warehouse:0.2145', 'direct:0.1937', 'plan:0.1916', 'expect:0.1903', 'government:0.1861', 'future:0.177', 'underground:0.1657', 'agreement:0.1547', 'ukrtransgaz:0.1533', 'allow:0.14', 'natural:0.132', 'meter:0.1254', 'pm:0.1203', 'use:0.1073', 'shmyhal:0.1011', 'pas:0.0935', 'export:0.0931', 'billion:0.089', 'level:0.0836', 'ugs:0.0819', 'say:0.0783', 'case:0.0756', 'resident:0.0559', 'season:0.0507', 'jsc:0.0171']+titles_keywords+['ukraine:0.3731', 'negotiations:0.2136', 'direct:0.1495', 'gas:0.1382', 'does:0.038']"
+        ],
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Russian side in negotiations with Ukraine agrees to referendum as way for Ukraine to obtain.txt+eventbasecode50+eventcode50+avgtone0.5140845070422535+goldsteinscale0.675+nummentions0.0+numarticles0.0+numsources0.0+news_keywords+['ukraine:0.4667', 'treaty:0.4147', 'neutral:0.3701', 'referendum:0.3684', 'negotiation:0.3126', 'status:0.2482', 'transition:0.2444', 'war:0.2385', 'arakhamia:0.2232', 'situation:0.2125', 'delegation:0.1898', 'state:0.1878', 'legal:0.1816', 'way:0.1792', 'happen:0.1575', 'return:0.1532', 'obtain:0.1384', 'talk:0.1268', 'process:0.114', 'telethon:0.103', 'force:0.097', 'support:0.0891', 'people:0.0879', 'saturday:0.0723', 'recognize:0.055', 'head:0.0544', 'david:0.0523', 'agree:0.0506', 'asked:0.0473', 'new:0.0323']+titles_keywords+['ukraine:0.3993', 'referendum:0.3355', 'neutral:0.3071', 'negotiations:0.2948', 'agrees:0.0434']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+PSE+36":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/huffpost.com/Red Cross Registers Hundreds Of Ukrainian POWs From Mariupol.txt+eventbasecode36+eventcode36+avgtone0.4672131147540983+goldsteinscale0.7+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['crimean:0.5226', 'kremlin:0.4539', 'ceasefire:0.4512', 'natos:0.3875', 'zelenskyy:0.3219', 'erdogan:0.3163', 'briefing:0.2753', 'prisoner:0.2663', 'concerned:0.2574', 'hospitalize:0.2492', 'amnestys:0.2339', 'occupied:0.2318', 'report:0.2181', 'agreement:0.2141', 'subject:0.2115', 'sgt:0.2049', 'asovstal:0.203', 'town:0.1743', 'truck:0.1705', 'ap:0.1698', 'readied:0.1655', 'hold:0.1646', 'immediately:0.1644', 'denis:0.1638', 'month:0.1467', 'swap:0.1448', 'karmanau:0.1419', 'population:0.1055', 'far:0.0961', 'impossible:0.0954']+titles_keywords+['ukrainian:0.3647', 'pows:0.3226', 'mariupol:0.1874', 'red:0.1713', 'registers:0.1467']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/huffpost.com/Putin Puts Nuclear Forces On High Alert Escalating Tensions.txt+eventbasecode36+eventcode36+avgtone0.47162426614481406+goldsteinscale0.7+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['kyiv:0.4787', 'putin:0.4537', 'nato:0.4101', 'russias:0.3685', 'war:0.3517', 'evacuate:0.3383', 'escalating:0.3137', 'prepare:0.2614', 'strategic:0.2604', 'news:0.2446', 'overthrow:0.2439', 'dangerous:0.2344', 'chernov:0.222', 'gurney:0.1944', 'confusion:0.1925', 'deliver:0.1924', 'enters:0.1917', 'siren:0.1859', 'directive:0.1821', 'immediate:0.1779', 'secretary:0.1743', 'follow:0.1695', 'kilometer:0.1523', 'citing:0.1507', 'arent:0.1468', 'nearly:0.144', 'switch:0.1434', 'large:0.1432', 'speak:0.1298', 'better:0.129']+titles_keywords+['putin:0.3972', 'nuclear:0.3968', 'escalating:0.2974', 'tensions:0.2397', 'forces:0.1968']"
+        ]
+    ]
+}

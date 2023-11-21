@@ -1,0 +1,12 @@
+{
+    "ISR+RUS+40":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/clevelandjewishnews.com/Israels Bennett and Russias Putin discuss Ukraine war in Moscow.txt+eventbasecode40+eventcode40+avgtone0.4951923076923077+goldsteinscale0.55+nummentions0.05333817126269957+numarticles0.0532994923857868+numsources0.15789473684210525+news_keywords+['putin:0.472', 'ukraine:0.4106', 'israels:0.3456', 'war:0.3303', 'meeting:0.2666', 'talk:0.2602', 'zeev:0.252', 'zelensky:0.2507', 'spokesperson:0.2458', 'contact:0.2385', 'translator:0.2369', 'naftali:0.2038', 'coordination:0.2001', 'bennetts:0.1923', 'advantage:0.1855', 'volodymyr:0.1715', 'elkin:0.1624', 'org:0.1571', 'security:0.1538', 'manage:0.1301', 'potential:0.1191', 'want:0.116', 'early:0.1132', 'housing:0.1013', 'hold:0.097', 'serve:0.084', 'various:0.0637', 'actually:0.0519', 'prime:0.048', 'theres:0.0233']+titles_keywords+['putin:0.4566', 'israels:0.3479', 'bennett:0.3446', 'war:0.2881', 'discuss:0.1988']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220210+../news_crawling/RUS_UKR/p_articles/clevelandjewishnews.com/Israel maintaining delicate balancing act over RussiaUkraine tensions.txt+eventbasecode40+eventcode40+avgtone0.4866935483870967+goldsteinscale0.55+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.006578947368421052+news_keywords+['ukraine:0.389', 'knesset:0.3529', 'putins:0.3389', 'diplomatic:0.3191', 'rakov:0.2367', 'maneuver:0.2254', 'refugee:0.2244', 'prepare:0.2106', 'tension:0.1871', 'yair:0.1807', 'neutral:0.1805', 'table:0.1782', 'military:0.1734', 'concurrent:0.1728', 'implication:0.1696', 'restructure:0.1485', 'immediate:0.1432', 'casualty:0.124', 'know:0.1232', 'worldviews:0.1163', 'long:0.1065', 'major:0.0984', 'focus:0.0946', 'probability:0.0912', 'send:0.0868', 'head:0.0868', 'million:0.0858', 'unipolar:0.0834', 'middle:0.0707', 'agree:0.0601']+titles_keywords+['israel:0.387', 'tensions:0.3566', 'russiaukraine:0.2934', 'balancing:0.2639', 'act:0.1243']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+30":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/11alive.com/In major shift Germany will send weapons to Ukraine.txt+eventbasecode30+eventcode30+avgtone0.4868995633187773+goldsteinscale0.7+nummentions0.023222060957910014+numarticles0.023930384336475707+numsources0.03618421052631579+news_keywords+['ukraine:0.4916', 'invade:0.3445', 'army:0.3037', 'shift:0.3007', 'pentagon:0.2782', 'news:0.2654', 'conflict:0.259', 'government:0.2579', 'oppose:0.25', 'order:0.2404', 'planning:0.2334', 'assistance:0.2306', 'soon:0.2256', 'howitzer:0.2244', 'armored:0.2241', 'pledge:0.2222', 'chancellery:0.2054', 'capital:0.1757', 'biden:0.1739', 'global:0.1543', 'decouple:0.1465', 'collateral:0.1365', 'fuel:0.1356', 'right:0.1298', 'various:0.1246', 'nonlethal:0.1182', 'long:0.1087', 'welcome:0.1078', 'million:0.1074', 'decisively:0.0812']+titles_keywords+['ukraine:0.4673', 'weapons:0.3475', 'shift:0.3136', 'major:0.2062', 'send:0.1553']"
+        ]
+    ],
+    "UKR+RUS+30":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/11alive.com/Atlanta Ukrainians rally at Centennial Olympic Park calling for US intervention.txt+eventbasecode30+eventcode30+avgtone0.48614958448753465+goldsteinscale0.7+nummentions0.009071117561683599+numarticles0.009789702683103698+numsources0.01644736842105263+news_keywords+['ukraine:0.4713', 'nato:0.4168', 'protester:0.361', 'war:0.3355', 'zaphliak:0.3287', 'evacuate:0.319', 'rally:0.3112', 'flag:0.3003', 'olympic:0.2981', 'missiles:0.2822', 'atlanta:0.2752', 'hear:0.2553', 'join:0.2341', 'sirens:0.2323', 'people:0.2118', 'continue:0.2087', 'support:0.2036', 'sign:0.2004', 'message:0.1816', 'scary:0.1811', 'right:0.1793', 'row:0.1766', 'electricity:0.1741', 'promise:0.1731', 'saturday:0.1675', 'witness:0.158', 'thousands:0.1355', 'plant:0.1296', 'passage:0.1282', 'mila:0.1154']+titles_keywords+['ukrainians:0.3911', 'olympic:0.3302', 'rally:0.3154', 'atlanta:0.2864', 'intervention:0.1658']"
+        ]
+    ]
+}

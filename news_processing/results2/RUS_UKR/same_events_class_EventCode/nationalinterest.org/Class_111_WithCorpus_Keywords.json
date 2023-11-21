@@ -1,0 +1,12 @@
+{
+    "JPN+RUS+111":[
+        [
+            "20220802+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/UN World Is One Miscalculation Away From Nuclear Annihilation.txt+eventbasecode111+eventcode111+avgtone0.4563567362428843+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['nuclear:0.4822', 'ukraineincluding:0.3874', 'putin:0.3684', 'treaty:0.3637', 'iaea:0.3219', 'iran:0.3067', 'nations:0.3042', 'annihilation:0.2938', 'warn:0.2864', 'catastrophe:0.2838', 'concern:0.2741', 'worldincluding:0.273', 'escalation:0.2596', 'dangerous:0.2489', 'conference:0.2487', 'rhetoric:0.2439', 'document:0.2314', 'future:0.2291', 'clashes:0.2282', 'pandemic:0.2271', 'uns:0.2269', 'power:0.2009', 'precede:0.1891', 'miscalculation:0.1703', 'nonproliferation:0.1635', 'expect:0.1634', 'concur:0.1601', 'speculate:0.1551', 'kishida:0.1388', 'npt:0.1222']+titles_keywords+['nuclear:0.5178', 'annihilation:0.5006', 'world:0.3774', 'miscalculation:0.3276', 'away:0.0891']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/Lavrov Says Russias War Aims Have Expanded Beyond the Donbas.txt+eventbasecode111+eventcode111+avgtone0.4835164835164836+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.45', 'kremlin:0.4288', 'annexation:0.4192', 'invade:0.3806', 'vladimir:0.359', 'demilitarize:0.3039', 'expand:0.2768', 'provoke:0.2598', 'lavrovs:0.2357', 'precede:0.2121', 'operation:0.195', 'donbas:0.1911', 'want:0.1847', 'emphasize:0.1667', 'news:0.1651', 'artillery:0.1628', 'turn:0.1586', 'refer:0.1551', 'blood:0.1507', 'neighbor:0.1226', 'remark:0.1132', 'risky:0.1125', 'historically:0.111', 'proto:0.1093', 'right:0.0949', 'onset:0.0877', 'month:0.078', 'basis:0.0698', 'independently:0.0667', 'kirby:0.0531']+titles_keywords+['lavrov:0.4208', 'russias:0.3544', 'war:0.2826', 'donbas:0.2544', 'expanded:0.2351']"
+        ]
+    ]
+}

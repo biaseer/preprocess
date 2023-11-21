@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+190":[
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/huffpost.com/Boris Johnson Makes Surprise Visit To Kyiv On Ukraines Independence Day.txt+eventbasecode190+eventcode190+avgtone0.4956521739130435+goldsteinscale0.0+nummentions0.01088534107402032+numarticles0.011602610587382161+numsources0.009868421052631578+news_keywords+['kyiv:0.4521', 'ukraines:0.3893', 'boris:0.3076', 'independence:0.2901', 'zelenskyy:0.269', 'diplomats:0.2476', 'visit:0.1868', 'downing:0.1717', 'telegraph:0.1653', 'british:0.1556', 'war:0.1243', 'qyi:0.0993', 'surprise:0.088', 'prime:0.0864', 'alongside:0.086', 'care:0.0858', 'sunflower:0.0827', 'dramatic:0.0781', 'update:0.072', 'today:0.0682', 'comfiovnqjgts:0.0509', 'feb:0.0502', 'say:0.0495', 'makes:0.0483', 'friend:0.0435', 'continue:0.0391', 'brief:0.0353', 'case:0.0307', 'pledge:0.0267', 'pic:0.0142']+titles_keywords+['kyiv:0.4378', 'boris:0.3582', 'independence:0.2636', 'surprise:0.2016', 'johnson:0.1867']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220402+../news_crawling/RUS_UKR/p_articles/huffpost.com/Ukrainian Forces Retake Areas Near Kyiv Amid Fear Of Traps.txt+eventbasecode190+eventcode190+avgtone0.476865671641791+goldsteinscale0.0+nummentions0.14404934687953555+numarticles0.1446700507614213+numsources0.26973684210526316+news_keywords+['kyiv:0.5499', 'ukraines:0.4776', 'evacuation:0.4387', 'kremlin:0.3895', 'nato:0.3432', 'marchenko:0.3204', 'war:0.3185', 'refugee:0.3042', 'territory:0.2551', 'soldier:0.2321', 'safe:0.2309', 'shift:0.2163', 'know:0.2102', 'telegram:0.1834', 'mortar:0.1662', 'near:0.1643', 'remind:0.1636', 'help:0.1623', 'table:0.1598', 'ap:0.1562', 'bucha:0.1536', 'surround:0.1529', 'maks:0.1353', 'fought:0.1333', 'negotiator:0.1332', 'focus:0.1115', 'major:0.1082', 'population:0.1077', 'significance:0.1065', 'state:0.1007']+titles_keywords+['kyiv:0.4834', 'traps:0.2457', 'fear:0.2208', 'areas:0.1905', 'retake:0.1191']"
+        ],
+        [
+            "20220830+../news_crawling/RUS_UKR/p_articles/huffpost.com/Heavy Fighting Rages In Ukraines RussianOccupied South.txt+eventbasecode190+eventcode190+avgtone0.47354497354497355+goldsteinscale0.0+nummentions0.01632801161103048+numarticles0.01704133430021755+numsources0.019736842105263157+news_keywords+['ukraine:0.4927', 'russianoccupied:0.4476', 'war:0.3943', 'reorganization:0.3257', 'underway:0.3003', 'artillery:0.2926', 'occupy:0.2802', 'news:0.2782', 'brigade:0.271', 'casualty:0.238', 'production:0.2363', 'surge:0.2318', 'east:0.2226', 'sector:0.2186', 'turn:0.1961', 'report:0.1919', 'ap:0.1874', 'long:0.1866', 'hear:0.1775', 'safeguard:0.1774', 'presidential:0.1759', 'kilometer:0.1738', 'fall:0.157', 'powerful:0.1424', 'lt:0.14', 'point:0.1373', 'counteroffensive:0.1208', 'wont:0.1144', 'scholz:0.0991', 'cost:0.051']+titles_keywords+['ukraines:0.5051', 'russianoccupied:0.4788', 'fighting:0.3812', 'south:0.2298', 'heavy:0.0343']"
+        ]
+    ]
+}

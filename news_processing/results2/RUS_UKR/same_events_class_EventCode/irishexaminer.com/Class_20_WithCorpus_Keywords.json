@@ -1,0 +1,12 @@
+{
+    "AFR+RUS+20":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/irishexaminer.com/21 people in Ukraine killed by Russian artillery that destroyed school.txt+eventbasecode20+eventcode20+avgtone0.46551724137931033+goldsteinscale0.65+nummentions0.6494920174165457+numarticles0.649746192893401+numsources0.2894736842105263+news_keywords+['kyiv:0.4604', 'iraq:0.3564', 'invasion:0.312', 'pentagon:0.2648', 'emergency:0.2484', 'artillery:0.2423', 'coordinate:0.2401', 'progress:0.2232', 'surge:0.2116', 'curfew:0.2001', 'fight:0.1947', 'combine:0.1933', 'warn:0.1899', 'order:0.178', 'subject:0.1743', 'column:0.1719', 'diplomat:0.1696', 'massive:0.1668', 'poor:0.1638', 'thursday:0.163', 'substantive:0.1518', 'western:0.1507', 'described:0.1485', 'nearly:0.1444', 'toll:0.1418', 'estimate:0.1415', 'supinskyafp:0.1299', 'longer:0.1262', 'images:0.107', 'fertiliser:0.1002']+titles_keywords+['ukraine:0.3705', 'artillery:0.2891', 'school:0.2508', 'killed:0.1872', '21:0.1708']"
+        ]
+    ],
+    "POL+RUS+20":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/irishexaminer.com/Johnson helping Ukraine more thanks to British public pressure Zelenskyy says.txt+eventbasecode20+eventcode20+avgtone0.4866898148148149+goldsteinscale0.65+nummentions0.2144412191582003+numarticles0.21501087744742567+numsources0.3223684210526316+news_keywords+['ukraine:0.4621', 'nato:0.4125', 'putins:0.3969', 'invade:0.3673', 'war:0.3577', 'neutrality:0.2818', 'macron:0.2574', 'boris:0.2572', 'approach:0.2503', 'govern:0.2338', 'journalist:0.2148', 'border:0.2106', 'decide:0.2098', 'want:0.2097', 'respond:0.2096', 'warn:0.2053', 'volodymyr:0.204', 'impassioned:0.1954', 'logistically:0.1945', 'row:0.167', 'follow:0.1563', 'ready:0.145', 'term:0.1441', 'end:0.1368', 'quickly:0.1337', 'make:0.1331', 'alternative:0.1089', 'deep:0.1057', 'mistake:0.0882', 'prime:0.0779']+titles_keywords+['zelenskyy:0.4378', 'ukraine:0.3745', 'johnson:0.2858', 'british:0.1897', 'helping:0.1286']"
+        ]
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "RUS+DEU+20":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Russian Oil Companies Find New Buyers Increase Exports to AsiaPacific.txt+eventbasecode20+eventcode20+avgtone0.48536585365853663+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4804', 'oil:0.365', 'supply:0.3496', 'tanker:0.328', 'shipowners:0.302', 'operation:0.2535', 'import:0.23', 'military:0.2207', 'company:0.2115', 'increase:0.2018', 'flag:0.1994', 'sanction:0.1952', 'asiapacific:0.1891', 'search:0.1849', 'republic:0.1736', 'buyer:0.1692', 'aggression:0.1686', 'issue:0.1677', 'circumvent:0.1671', 'reporter:0.1608', 'launch:0.1576', 'chain:0.1397', 'novak:0.1358', 'direction:0.1198', 'tell:0.1165', 'new:0.1149', 'area:0.1132', 'week:0.0845', 'obviously:0.0594', 'agree:0.036']+titles_keywords+['russian:0.3189', 'exports:0.3028', 'oil:0.2607', 'buyers:0.2259', 'increase:0.1544']"
+        ]
+    ],
+    "RUS+EUR+20":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Russias UN Envoy Calls on EU to Consider Real Threat of Biological Agents Spreading From.txt+eventbasecode20+eventcode20+avgtone0.46590909090909094+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['pathogen:0.4663', 'ukraine:0.4586', 'diplomat:0.3093', 'terrorist:0.307', 'laboratories:0.3045', 'mesputniknewsus:0.2821', 'biological:0.2571', 'dangerous:0.2411', 'warn:0.2317', 'weapon:0.2216', 'operation:0.2162', 'security:0.2069', 'migration:0.1928', 'news:0.1906', 'spreading:0.1821', 'pentagon:0.1784', 'evidence:0.1771', 'document:0.1759', 'obtain:0.1645', 'telegram:0.1643', 'nebenzia:0.1628', 'biomaterials:0.1568', 'make:0.1416', 'study:0.126', 'reduction:0.1228', 'lets:0.1111', 'boundary:0.1032', 'possible:0.0825', 'late:0.0704', 'specifically:0.0699']+titles_keywords+['ukraine:0.3972', 'envoy:0.2197', 'threat:0.1711', 'biological:0.154', 'real:0.0788']"
+        ]
+    ],
+    "UKR+NOR+20":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Norway Sends Ukraine 100 AntiAircraft Missiles Originally Slated for Scrapping.txt+eventbasecode20+eventcode20+avgtone0.4935691318327974+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['missiles:0.5301', 'ukraine:0.5029', 'mistral:0.2826', 'deploy:0.2657', 'norwegian:0.2446', 'tank:0.2404', 'navy:0.2295', 'euromaidan:0.2129', 'secession:0.2076', 'coup:0.2042', 'nrk:0.1975', 'conflict:0.1876', 'target:0.177', 'kilometre:0.1743', 'systems:0.1727', 'protective:0.1629', 'use:0.1552', 'scrap:0.1549', 'manufacturer:0.1514', 'arm:0.1448', 'nazify:0.1368', 'sends:0.1359', 'forward:0.1321', 'bjrn:0.124', 'donbass:0.1169', 'prior:0.1163', 'intensify:0.1149', 'line:0.0919', 'accord:0.0884', 'great:0.0768']+titles_keywords+['missiles:0.3898', 'norway:0.2864', '100:0.225', 'scrapping:0.1596', 'sends:0.1439']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Roger Stone Russia is Acting Defensively in Ukrainian Conflict.txt+eventbasecode20+eventcode20+avgtone0.4718875502008032+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4996', 'nato:0.4602', 'ukrainian:0.4594', 'donetsk:0.3421', 'demilitarise:0.333', 'invasion:0.3128', 'mesputniknewsus:0.2807', 'operation:0.2718', 'conflict:0.265', 'republics:0.247', 'eastward:0.239', 'civilian:0.2166', 'cite:0.2091', 'defensive:0.2016', 'infrastructure:0.1961', 'news:0.193', 'ally:0.1908', 'roger:0.1879', 'dangerous:0.1823', 'sanction:0.1759', 'pathogen:0.1737', 'nazify:0.1694', 'weapon:0.1639', 'elaborate:0.1381', 'follow:0.1349', 'labs:0.1217', 'make:0.1213', 'long:0.1046', 'real:0.0913', 'stone:0.0799']+titles_keywords+['russia:0.4406', 'stone:0.3036', 'roger:0.2913', 'conflict:0.2653', 'defensively:0.2264']"
+        ],
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Hungary Wants to Buy Additional Natural Gas From Russia Lavrov Says.txt+eventbasecode20+eventcode20+avgtone0.472707423580786+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4759', 'nato:0.3954', 'orban:0.3635', 'budapest:0.3292', 'ceasefire:0.2744', 'lavrov:0.2736', 'government:0.2603', 'economic:0.2516', 'sector:0.2409', 'escalation:0.2405', 'coup:0.2337', 'speak:0.194', 'import:0.1913', 'issue:0.1854', 'enemy:0.184', 'understand:0.1805', 'mutual:0.1725', 'contain:0.1676', 'gas:0.1675', 'information:0.1635', 'happen:0.1628', 'list:0.1532', 'buy:0.1484', 'advisor:0.1481', 'following:0.146', 'cut:0.1389', 'timely:0.1361', 'look:0.1332', 'note:0.1316', 'gasp:0.1239']+titles_keywords+['lavrov:0.4255', 'hungary:0.3039', 'gas:0.2472', 'buy:0.1621', 'additional:0.1494']"
+        ]
+    ],
+    "WST+RUS+20":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Biden Administration Reportedly Discussed Plans to Move Zelensky From Kiev If Russia Invades.txt+eventbasecode20+eventcode20+avgtone0.4849498327759198+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kiev:0.4629', 'putin:0.4429', 'zelensky:0.3593', 'nato:0.3429', 'belarus:0.3406', 'invades:0.3336', 'evacuation:0.2898', 'biden:0.286', 'relocation:0.2564', 'imminent:0.2115', 'meeting:0.1705', 'border:0.1649', 'engage:0.1644', 'plan:0.1612', 'prompt:0.1594', 'come:0.1502', 'concern:0.1446', 'emmanuel:0.1315', 'avert:0.1246', 'breakaway:0.1117', 'report:0.1057', 'state:0.104', 'sit:0.1038', 'mile:0.0936', 'contingency:0.0933', 'population:0.0864', 'include:0.0816', 'add:0.0464', 'details:0.0395', 'agree:0.0182']+titles_keywords+['zelensky:0.4977', 'kiev:0.4102', 'biden:0.3793', 'invades:0.2176', 'reportedly:0.0763']"
+        ]
+    ]
+}

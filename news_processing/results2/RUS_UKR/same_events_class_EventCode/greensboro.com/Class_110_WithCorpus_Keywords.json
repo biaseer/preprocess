@@ -1,0 +1,10 @@
+{
+    "HUN+UKR+110":[
+        []
+    ],
+    "RUS+RUS+110":[
+        [
+            "20220825+../news_crawling/RUS_UKR/p_articles/greensboro.com/Putin orders increase in Russian military in the face of Ukraine losses.txt+eventbasecode110+eventcode110+avgtone0.4704797047970479+goldsteinscale0.4+nummentions0.08708272859216255+numarticles0.0877447425670776+numsources0.19078947368421054+news_keywords+['ukraine:0.4465', 'putin:0.4246', 'invasion:0.3064', 'dnipropetrovsk:0.2938', 'increase:0.2794', 'reservist:0.2666', 'prepare:0.2633', 'emergency:0.24', 'nuclear:0.2353', 'news:0.233', 'order:0.2291', 'accomplish:0.2155', 'coincide:0.2147', 'predict:0.2082', 'independence:0.1987', 'numbers:0.1958', 'industrial:0.1904', 'president:0.1888', 'january:0.1837', 'concern:0.177', 'power:0.1747', 'long:0.1705', 'decree:0.1626', 'fight:0.1504', 'plant:0.1397', 'step:0.139', 'donbas:0.1345', 'ap:0.132', 'end:0.1262', 'million:0.1109']+titles_keywords+['putin:0.4782', 'increase:0.2861', 'orders:0.2804', 'military:0.279', 'losses:0.2083']"
+        ]
+    ]
+}

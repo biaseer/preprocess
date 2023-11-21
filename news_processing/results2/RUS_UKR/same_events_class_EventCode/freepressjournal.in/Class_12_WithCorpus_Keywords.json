@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/Govt going ahead with LIC IPO says FM Nirmala Sitharaman.txt+eventbasecode12+eventcode12+avgtone0.48114901256732495+goldsteinscale0.48+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ipo:0.4559', 'prospectus:0.4259', 'governance:0.4013', 'sitharaman:0.3935', 'finance:0.3803', 'sebi:0.3711', 'india:0.3474', 'compensation:0.3108', 'nse:0.2691', 'gst:0.2512', 'hold:0.2222', 'worried:0.2147', 'stability:0.2105', 'lic:0.2103', 'issue:0.2056', 'release:0.1853', 'happen:0.1814', 'decision:0.181', 'shortfall:0.1753', 'term:0.1706', 'step:0.1668', 'fuel:0.1661', 'telegram:0.1647', 'tyagi:0.1611', 'share:0.148', 'rising:0.1468', 'view:0.1458', 'new:0.1324', 'percent:0.1289', 'conducive:0.115']+titles_keywords+['ipo:0.4199', 'lic:0.409', 'sitharaman:0.358', 'govt:0.217', 'says:0.0224']"
+        ],
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/As Russias invasion continues Ukraine pleas with countries including India to intercede with Moscow.txt+eventbasecode12+eventcode12+avgtone0.48738532110091737+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4792', 'ceasefires:0.4302', 'putin:0.4062', 'evacuate:0.323', 'indians:0.2879', 'embassy:0.2845', 'ganga:0.2571', 'telegram:0.2368', 'continue:0.2273', 'attack:0.2272', 'agreement:0.2194', 'arrange:0.2183', 'president:0.2101', 'flight:0.2028', 'hotlines:0.1971', 'intercede:0.1902', 'manipulate:0.1874', 'term:0.1757', 'issue:0.1717', 'return:0.1695', 'corridor:0.1672', 'student:0.1601', 'relation:0.1587', 'demand:0.1557', 'global:0.142', 'far:0.139', 'hour:0.1329', 'televised:0.1323', 'saturday:0.1252', 'welcome:0.0684']+titles_keywords+['ukraine:0.4821', 'russias:0.4296', 'intercede:0.3482', 'invasion:0.3412', 'continues:0.1616']"
+        ]
+    ],
+    "UKR+WST+12":[
+        [
+            "20220129+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/FPJ Edit Conflict between US and Russia will change power equation in world.txt+eventbasecode12+eventcode12+avgtone0.48892405063291144+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['natos:0.462', 'diplomacy:0.399', 'russian:0.3043', 'expansionism:0.2984', 'belligerence:0.2825', 'asia:0.2645', 'superpower:0.2232', 'border:0.2033', 'implication:0.1889', 'alert:0.1889', 'telegram:0.1873', 'supply:0.1812', 'increasingly:0.1801', 'deployment:0.1773', 'shiver:0.1713', 'nation:0.1699', 'secure:0.1607', 'biden:0.1416', 'prevail:0.13', 'say:0.1161', 'equation:0.1106', 'spearhead:0.109', 'reciprocate:0.1034', 'cut:0.0997', 'focus:0.099', 'prospect:0.0942', 'standby:0.0718', 'far:0.0577', 'interested:0.0519', 'bulk:0.0197']+titles_keywords+['conflict:0.3555', 'power:0.3543', 'russia:0.309', 'equation:0.2854', 'fpj:0.226']"
+        ]
+    ]
+}

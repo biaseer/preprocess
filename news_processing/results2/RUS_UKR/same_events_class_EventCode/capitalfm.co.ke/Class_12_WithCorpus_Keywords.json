@@ -1,0 +1,17 @@
+{
+    "AUT+RUS+12":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/capitalfm.co.ke/UN watchdog concerned over Ukraine nuclear power plant.txt+eventbasecode12+eventcode12+avgtone0.4621848739495798+goldsteinscale0.48+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['chernobyl:0.5731', 'nuclear:0.5077', 'ukraines:0.4211', 'kyiv:0.4075', 'electricity:0.2802', 'plc:0.2731', 'concern:0.2643', 'nairobi:0.2446', 'disaster:0.2331', 'zaporizhzhia:0.2327', 'safe:0.231', 'facility:0.2262', 'operation:0.2229', 'report:0.2033', 'industrialist:0.1949', 'authority:0.1843', 'covid:0.1694', 'waste:0.161', 'troop:0.1572', 'watchdog:0.1508', 'student:0.1346', 'world:0.132', 'increase:0.1313', 'gold:0.1304', 'enter:0.0923', 'variety:0.0881', 'thursday:0.0797', 'apr:0.0657', 'receive:0.0595', 'scroll:0.043']+titles_keywords+['ukraine:0.4089', 'nuclear:0.4047', 'watchdog:0.3072', 'concerned:0.2528', 'plant:0.1723']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/capitalfm.co.ke/Russia warns US of consequences of Ukraine military aid reports.txt+eventbasecode12+eventcode12+avgtone0.48762886597938143+goldsteinscale0.48+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.02631578947368421+news_keywords+['nato:0.4363', 'kyiv:0.3561', 'russias:0.3351', 'aid:0.268', 'diplomatic:0.2655', 'invasion:0.2525', 'prepare:0.2497', 'unprovoked:0.2423', 'frontline:0.2149', 'escalate:0.2131', 'concerned:0.2127', 'consequence:0.1883', 'howitzer:0.1849', 'additional:0.1798', 'cnn:0.1741', 'biden:0.1684', 'horrific:0.1568', 'indicate:0.1535', 'read:0.148', 'unpredictable:0.1444', 'capability:0.1435', 'pledge:0.1319', 'forward:0.131', 'partner:0.118', 'fuel:0.1133', 'send:0.104', 'dollar:0.1002', 'familiar:0.087', 'possible:0.0866', 'week:0.0766']+titles_keywords+['ukraine:0.3904', 'warns:0.238', 'aid:0.211', 'military:0.1986', 'consequences:0.1976']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/capitalfm.co.ke/Ukrainian envoy to Kenya says Russia to blame for increased food prices.txt+eventbasecode12+eventcode12+avgtone0.49074074074074076+goldsteinscale0.48+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.009868421052631578+news_keywords+['ukraine:0.4817', 'nairobi:0.3556', 'conflict:0.3074', 'commodity:0.2774', 'oil:0.2657', 'invade:0.2649', 'increase:0.2446', 'president:0.2371', 'strategic:0.2311', 'afp:0.2281', 'narendra:0.22', 'read:0.2156', 'unchanged:0.2154', 'news:0.2149', 'volodymyrzelenskyy:0.199', 'peacefultimes:0.1869', 'crop:0.1836', 'hashtag:0.178', 'continue:0.1661', 'implication:0.1634', 'respectively:0.1549', 'good:0.1508', 'world:0.143', 'thursday:0.138', 'number:0.134', 'cost:0.1308', 'make:0.1303', 'basic:0.1254', 'export:0.1097', 'underlining:0.0716']+titles_keywords+['ukrainian:0.3659', 'kenya:0.3375', 'blame:0.2908', 'food:0.2154', 'prices:0.1882']"
+        ]
+    ]
+}

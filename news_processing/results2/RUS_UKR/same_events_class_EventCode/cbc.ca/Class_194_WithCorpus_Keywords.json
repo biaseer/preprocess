@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/cbc.ca/Russian missiles struck his seminary in Kyiv That only strengthened this priests faith.txt+eventbasecode194+eventcode194+avgtone0.4968051118210862+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukrainian:0.4012', 'war:0.3813', 'seminary:0.3129', 'pray:0.3122', 'missile:0.3101', 'zelenskyy:0.2954', 'believe:0.2899', 'unprovoked:0.2858', 'kill:0.2777', 'diplomatic:0.2736', 'confuse:0.2665', 'evacuate:0.2636', 'tolerate:0.2542', 'spiritual:0.2423', 'involve:0.2114', 'know:0.21', 'hear:0.2043', 'visit:0.1955', 'general:0.1913', 'serf:0.1896', 'strong:0.1784', 'sincerely:0.1703', 'bucha:0.1703', 'story:0.1687', 'quote:0.1654', 'isvery:0.1623', 'like:0.1571', 'conclusion:0.1547', 'far:0.1434', 'partof:0.103']+titles_keywords+['kyiv:0.4147', 'seminary:0.3433', 'missiles:0.2714', 'faith:0.2128', 'strengthened:0.2012']"
+        ],
+        [
+            "20220714+../news_crawling/RUS_UKR/p_articles/cbc.ca/Russian missiles kill at least 23 injure more than 100 in central Ukrainian city.txt+eventbasecode194+eventcode194+avgtone0.46907216494845355+goldsteinscale0.0+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.01644736842105263+news_keywords+['kyiv:0.5021', 'kremlin:0.4836', 'russian:0.4333', 'missile:0.3455', 'zhdanov:0.3452', 'terror:0.2827', 'evacuate:0.2618', 'government:0.261', 'volodymyr:0.2452', 'know:0.2146', 'rt:0.1974', 'report:0.1914', 'underway:0.1867', 'fight:0.1747', 'ordinate:0.17', 'presidentcalled:0.1685', 'televise:0.1606', 'shelling:0.1564', 'repeat:0.1509', 'dress:0.1392', 'badly:0.1348', 'intensifying:0.1326', 'make:0.1305', 'day:0.1259', 'far:0.1224', 'yar:0.1182', 'pre:0.1107', 'issue:0.1077', 'head:0.1023', 'thousands:0.0984']+titles_keywords+['missiles:0.3656', 'ukrainian:0.3612', 'injure:0.1684', '23:0.159', 'central:0.1367']"
+        ]
+    ]
+}

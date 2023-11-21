@@ -1,0 +1,20 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/news.am/Kremlin believes disclosure of talks details can damage negotiation process.txt+eventbasecode12+eventcode12+avgtone0.4906832298136646+goldsteinscale0.48+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.013157894736842105+news_keywords+['kremlin:0.4873', 'putin:0.4566', 'dmitry:0.3956', 'briefing:0.3753', 'ukraine:0.3723', 'peskov:0.3624', 'negotiate:0.3513', 'disclose:0.3214', 'procedure:0.3038', 'talk:0.2972', 'delegation:0.2947', 'information:0.2676', 'substantive:0.2212', 'referendum:0.2111', 'position:0.205', 'president:0.1935', 'stage:0.1829', 'prospect:0.1747', 'damage:0.1618', 'intra:0.1589', 'substances:0.1563', 'state:0.1458', 'view:0.1425', 'hold:0.1221', 'receive:0.1095', 'constantly:0.1023', 'make:0.0964', 'moment:0.0924', 'like:0.0789', 'according:0.0754']+titles_keywords+['kremlin:0.4686', 'negotiation:0.3982', 'disclosure:0.3196', 'details:0.1862', 'believes:0.0531']"
+        ],
+        [
+            "20220528+../news_crawling/RUS_UKR/p_articles/news.am/Putin discuss situation in Ukraine by phone with Macron and Scholz.txt+eventbasecode12+eventcode12+avgtone0.48691860465116277+goldsteinscale0.48+nummentions0.01741654571843251+numarticles0.018129079042784626+numsources0.023026315789473683+news_keywords+['putin:0.5168', 'kyiv:0.4097', 'destabilization:0.3283', 'negotiation:0.272', 'humanitarian:0.2415', 'sanction:0.2333', 'crisis:0.2197', 'report:0.2194', 'attention:0.2167', 'contact:0.2128', 'cite:0.1888', 'topical:0.1816', 'counterpart:0.176', 'fertilizer:0.1701', 'french:0.155', 'global:0.1538', 'erroneous:0.1531', 'increase:0.1466', 'explain:0.1384', 'armed:0.1367', 'organize:0.1355', 'data:0.1346', 'view:0.1281', 'port:0.124', 'ready:0.1203', 'say:0.117', 'donbass:0.1097', 'state:0.1048', 'track:0.1021', 'scholz:0.0809']+titles_keywords+['putin:0.4424', 'macron:0.3623', 'phone:0.1849', 'discuss:0.1835', 'scholz:0.1746']"
+        ]
+    ],
+    "TUR+RUS+12":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/news.am/Erdogan Only Ankara can ensure progress in negotiations between Russia and Ukraine.txt+eventbasecode12+eventcode12+avgtone0.49583333333333335+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['erdogan:0.4926', 'turkey:0.4616', 'ankara:0.4564', 'ukraine:0.3882', 'negotiation:0.3237', 'tayyip:0.2897', 'gas:0.2345', 'progress:0.2279', 'crisis:0.2197', 'worry:0.1948', 'increase:0.1829', 'relation:0.1776', 'industry:0.1741', 'explain:0.1504', 'report:0.1451', 'bring:0.1393', 'speech:0.1352', 'party:0.1275', 'follow:0.1215', 'close:0.1146', 'according:0.1078', 'effect:0.1077', 'deeply:0.1052', 'cabinet:0.1033', 'today:0.0992', 'say:0.0964', 'prevent:0.0893', 'ensure:0.0846', 'able:0.0759', 'raw:0.0387']+titles_keywords+['erdogan:0.5427', 'ankara:0.4586', 'ukraine:0.3411', 'negotiations:0.3285', 'ensure:0.0729']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/news.am/India speaks out about crisis in Ukraine.txt+eventbasecode12+eventcode12+avgtone0.47647058823529415+goldsteinscale0.48+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.009868421052631578+news_keywords+['ukraine:0.4962', 'putin:0.3809', 'diplomatic:0.3242', 'border:0.2651', 'crisis:0.2423', 'peace:0.2299', 'escalate:0.2112', 'indias:0.2086', 'tension:0.2085', 'independence:0.1924', 'federation:0.1919', 'concern:0.1897', 'convene:0.1717', 'report:0.1665', 'speak:0.1488', 'eastern:0.1389', 'position:0.1334', 'unsc:0.1332', 'security:0.1302', 'remark:0.1181', 'matter:0.1076', 'mutually:0.0979', 'monday:0.0852', 'present:0.0837', 'follow:0.0818', 'relate:0.0672', 'hour:0.0579', 'tirumurti:0.0563', 'include:0.0421', 'deep:0.0258']+titles_keywords+['ukraine:0.4493', 'india:0.32', 'crisis:0.2478', 'speaks:0.2186']"
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CHN+RUS+16":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/yahoo.com/China denies US claim that Russia asked for help in Ukraine.txt+eventbasecode16+eventcode16+avgtone0.49397590361445787+goldsteinscale0.4+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.0+news_keywords+['ukraine:0.4156', 'disinformation:0.3188', 'beijing:0.3058', 'invasion:0.2553', 'reuters:0.2372', 'deny:0.2326', 'embassy:0.2315', 'conflict:0.2292', 'concern:0.2273', 'accuse:0.2225', 'undermine:0.2089', 'malicious:0.2027', 'military:0.1976', 'instead:0.1758', 'escalate:0.1747', 'help:0.1737', 'priority:0.1683', 'seek:0.1574', 'statement:0.1224', 'western:0.1019', 'say:0.0848', 'repeatedly:0.084', 'feb:0.0803', 'equipment:0.079', 'force:0.0756', 'spread:0.0743', 'official:0.067', 'fuel:0.0663', 'white:0.0334', 'house:0.0183']+titles_keywords+['ukraine:0.4028', 'denies:0.2216', 'claim:0.1224', 'help:0.1208', 'asked:0.0748']"
+        ]
+    ],
+    "RUS+UKR+16":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russia rejects claims it was responsible for cyberattack on Ukraine.txt+eventbasecode16+eventcode16+avgtone0.4931972789115647+goldsteinscale0.4+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.013157894736842105+news_keywords+['ukraine:0.4473', 'cyberattack:0.4452', 'russian:0.39', 'moscow:0.3834', 'ddos:0.3674', 'reuters:0.3021', 'baseless:0.2946', 'allegation:0.2685', 'attack:0.2625', 'malicious:0.2413', 'government:0.2335', 'banking:0.2071', 'reject:0.2055', 'denial:0.2016', 'military:0.1957', 'statement:0.1902', 'operation:0.1573', 'responsible:0.1378', 'conduct:0.1205', 'friday:0.107', 'national:0.1041', 'say:0.094', 'offline:0.0937', 'neuberger:0.0923', 'recent:0.0881', 'anne:0.0787', 'advisor:0.074', 'categorically:0.0556', 'briefly:0.0359', 'spate:0.0059']+titles_keywords+['ukraine:0.4131', 'cyberattack:0.3809', 'rejects:0.1247', 'claims:0.1234', 'responsible:0.1174']",
+            "20220219+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russia denies accusations of false flag operation cyber attacks on Ukraine.txt+eventbasecode16+eventcode16+avgtone0.4973812533863103+goldsteinscale0.4+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.01644736842105263+news_keywords+['ukraine:0.4197', 'cyberattacks:0.4015', 'accuse:0.35', 'invade:0.3308', 'malicious:0.2667', 'justify:0.266', 'false:0.2581', 'pretext:0.2578', 'occur:0.248', 'antonov:0.2401', 'flag:0.2389', 'argument:0.2243', 'destabilize:0.2233', 'escalation:0.2216', 'embassy:0.2079', 'military:0.2064', 'president:0.194', 'learn:0.1812', 'news:0.1774', 'virtual:0.165', 'ally:0.1513', 'author:0.1395', 'mitigate:0.1379', 'post:0.135', 'state:0.1284', 'bank:0.1269', 'look:0.1251', 'friday:0.1208', 'poise:0.091', 'number:0.0712']+titles_keywords+['ukraine:0.3735', 'false:0.2899', 'accusations:0.2518', 'flag:0.203', 'cyber:0.1825']"
+        ]
+    ],
+    "UKR+RUS+16":[
+        [
+            "20220731+../news_crawling/RUS_UKR/p_articles/yahoo.com/Ukraine denies attacking Russian navy HQ in occupied Crimea.txt+eventbasecode16+eventcode16+avgtone0.4929178470254958+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.559', 'kyivs:0.4698', 'kremlin:0.447', 'russian:0.3807', 'russias:0.3791', 'drone:0.3181', 'attack:0.3083', 'paranoid:0.2867', 'navy:0.2086', 'occupy:0.2016', 'read:0.1956', 'bridge:0.1911', 'note:0.1798', 'sevastopol:0.1781', 'unidentified:0.1692', 'leave:0.1684', 'legitimate:0.1575', 'festivity:0.1569', 'say:0.1468', 'strait:0.1407', 'aim:0.1381', 'claim:0.1381', 'believe:0.1336', 'hq:0.1324', 'morning:0.1316', 'effectiveness:0.1288', 'order:0.1186', 'actually:0.1019', 'link:0.0884', 'conjure:0.0601']+titles_keywords+['crimea:0.4884', 'navy:0.2321', 'denies:0.226', 'attacking:0.2012', 'hq:0.1594']"
+        ],
+        []
+    ]
+}

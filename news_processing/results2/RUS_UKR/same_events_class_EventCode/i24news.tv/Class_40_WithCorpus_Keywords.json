@@ -1,0 +1,15 @@
+{
+    "RUS+RUS+40":[
+        [
+            "20211231+../news_crawling/RUS_UKR/p_articles/i24news.tv/Biden Ukraine president to speak on Sunday.txt+eventbasecode40+eventcode40+avgtone0.482532751091703+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4582', 'crimea:0.428', 'biden:0.4223', 'ukrainian:0.4044', 'nato:0.3597', 'diplomatic:0.3144', 'war:0.2597', 'reuters:0.2596', 'erupt:0.2291', 'zelenskiy:0.2237', 'speak:0.2231', 'border:0.1937', 'thursday:0.1926', 'troop:0.1925', 'plan:0.1889', 'separatist:0.1794', 'report:0.1719', 'follow:0.17', 'come:0.1659', 'sanction:0.1658', 'tension:0.1453', 'exchange:0.1401', 'warning:0.1374', 'minute:0.1244', 'reaffirm:0.1214', 'counterpart:0.1091', 'include:0.1048', 'stage:0.1021', 'united:0.0966', 'lower:0.0691']+titles_keywords+['biden:0.5248', 'speak:0.365', 'ukraine:0.349', 'president:0.2883', 'sunday:0.2177']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/i24news.tv/i24NEWS speaks to former Ukrainian prime minister.txt+eventbasecode40+eventcode40+avgtone0.4907749077490775+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5096', 'putin:0.3888', 'israeli:0.315', 'war:0.2818', 'negotiation:0.2701', 'territory:0.2612', 'historical:0.2355', 'tymoshenko:0.2278', 'news:0.2264', 'yulia:0.2255', 'naftali:0.2142', 'president:0.2088', 'emergency:0.2087', 'speak:0.2074', 'power:0.203', 'state:0.1975', 'know:0.1878', 'mention:0.1865', 'continue:0.178', 'reply:0.1729', 'people:0.1643', 'discus:0.1421', 'word:0.1394', 'moment:0.1107', 'december:0.0895', 'sit:0.0895', 'child:0.0806', 'thank:0.0702', 'particularly:0.0353', 'meir:0.0328']+titles_keywords+['i24news:0.4137', 'ukrainian:0.3874', 'minister:0.1952', 'speaks:0.1812', 'prime:0.14']"
+        ],
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/i24news.tv/In space Russians and Americans remain dear friends astronaut.txt+eventbasecode40+eventcode40+avgtone0.493993993993994+goldsteinscale0.55+nummentions0.02539912917271408+numarticles0.02610587382160986+numsources0.029605263157894735+news_keywords+['russians:0.5038', 'iss:0.4726', 'moscow:0.4282', 'nasa:0.3935', 'dmitry:0.3923', 'space:0.3866', 'crewmates:0.3291', 'cooperation:0.3201', 'cosmonaut:0.306', 'territory:0.2491', 'rogozin:0.2223', 'concern:0.212', 'government:0.2082', 'friend:0.1773', 'hear:0.1738', 'twitter:0.1691', 'block:0.1576', 'stay:0.1574', 'consecutive:0.154', 'day:0.1532', 'board:0.146', 'unaffected:0.1341', 'press:0.1331', 'february:0.128', 'positive:0.1269', 'mark:0.1068', 'prefer:0.1067', 'incendiary:0.0897', 'meant:0.0853', 'hei:0.0789']+titles_keywords+['russians:0.4592', 'astronaut:0.4091', 'space:0.3705', 'friends:0.3422', 'dear:0.1481']"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CHE+UKR+112":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/newstribune.com/UN 65M people displaced inside Ukraine due to war.txt+eventbasecode112+eventcode112+avgtone0.45751633986928103+goldsteinscale0.4+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['ukraine:0.5273', 'syria:0.4551', 'refugee:0.4113', 'war:0.3116', 'migration:0.3054', 'population:0.2867', 'unhcr:0.2463', 'displace:0.2226', 'leave:0.191', 'crisis:0.1716', 'neighboring:0.1561', 'accommodation:0.1476', 'geneva:0.1383', 'roads:0.1366', 'lack:0.1365', 'far:0.1352', 'cite:0.1152', 'projection:0.1117', 'affected:0.1101', 'calculate:0.0994', 'person:0.0993', 'nearly:0.0975', 'follow:0.0896', 'begin:0.0866', 'coordination:0.0853', 'office:0.0842', 'iom:0.071', 'feb:0.0687', 'ap:0.04', 'level:0.0351']+titles_keywords+['ukraine:0.4946', 'war:0.3432', 'displaced:0.3416', '65m:0.2584', 'people:0.2114']"
+        ]
+    ],
+    "EUR+RUS+112":[
+        [
+            "20220613+../news_crawling/RUS_UKR/p_articles/newstribune.com/Commentary Putins new war crime Starving worlds poor.txt+eventbasecode112+eventcode112+avgtone0.47739801543550164+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.5323', 'crimea:0.4957', 'nato:0.4091', 'destabilize:0.353', 'blockade:0.3466', 'war:0.3059', 'strategic:0.2769', 'unprovoked:0.2563', 'mykolaiv:0.2518', 'disaster:0.2486', 'threaten:0.2471', 'supply:0.2059', 'dardanelles:0.1935', 'nonsense:0.191', 'editorial:0.1849', 'rubin:0.184', 'rail:0.1811', 'rot:0.164', 'strait:0.1576', 'incoming:0.1555', 'long:0.1453', 'listen:0.1428', 'say:0.131', 'end:0.131', 'trudy:0.1305', 'general:0.1215', 'left:0.1091', 'include:0.1045', 'focus:0.1042', 'export:0.0989']+titles_keywords+['putins:0.4374', 'starving:0.4023', 'war:0.3986', 'commentary:0.2581', 'new:0.1515']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/newstribune.com/Ukraine says Russia wants to split nation.txt+eventbasecode112+eventcode112+avgtone0.4671340929009641+goldsteinscale0.4+nummentions0.034107402031930335+numarticles0.03335750543872371+numsources0.05592105263157895+news_keywords+['ukrainets:0.4882', 'moscow:0.4051', 'putin:0.4035', 'nato:0.3497', 'separatist:0.3296', 'yuri:0.3264', 'zelenskyy:0.2936', 'diplomacy:0.2897', 'erupt:0.2747', 'annex:0.2448', 'flee:0.2262', 'attack:0.2229', 'journalists:0.2224', 'predict:0.1909', 'north:0.1891', 'structure:0.1821', 'intend:0.1727', 'scrap:0.1696', 'shortly:0.1694', 'word:0.1665', 'concern:0.1632', 'redirect:0.1571', 'make:0.1394', 'end:0.1391', 'focus:0.124', 'comparison:0.0951', 'rev:0.0909', 'population:0.0907', 'dozen:0.0889', 'aerial:0.0794']+titles_keywords+['ukraine:0.5081', 'split:0.3676', 'nation:0.2311', 'wants:0.1179', 'says:0.0804']"
+        ],
+        [
+            "20220512+../news_crawling/RUS_UKR/p_articles/newstribune.com/Ukraine to hold first war crimes trial of captured Russian.txt+eventbasecode112+eventcode112+avgtone0.4612462006079028+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimea:0.5032', 'kremlin:0.4319', 'annex:0.3562', 'invasion:0.3053', 'disrupt:0.2807', 'separatist:0.2691', 'news:0.2638', 'casualties:0.2598', 'capital:0.2535', 'zelenskyy:0.2498', 'flee:0.2467', 'firing:0.2325', 'westward:0.2095', 'tank:0.2063', 'fight:0.2057', 'suspect:0.1995', 'industrial:0.1962', 'plan:0.1922', 'president:0.1758', 'awry:0.1726', 'lucrative:0.172', 'siphon:0.1675', 'want:0.1652', 'preview:0.1593', 'hold:0.1562', 'early:0.1523', 'donbas:0.1403', 'month:0.1321', 'sure:0.1251', 'export:0.1007']+titles_keywords+['ukraine:0.3935', 'trial:0.2799', 'war:0.1856', 'captured:0.1817', 'hold:0.0784']"
+        ]
+    ]
+}

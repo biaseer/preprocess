@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+61":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/arabnews.com/Commodities Update Gold hits oneweek low corn climbs Chinas alumina exports soar.txt+eventbasecode61+eventcode61+avgtone0.4885057471264368+goldsteinscale0.82+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['commodities:0.5147', 'chinas:0.3766', 'soybean:0.3301', 'russia:0.313', 'analysts:0.3057', 'yield:0.2727', 'alumina:0.2722', 'usand:0.2634', 'data:0.2584', 'importer:0.2437', 'trend:0.2365', 'treasury:0.2285', 'war:0.2274', 'western:0.2253', 'future:0.2199', 'increase:0.2111', 'worry:0.2083', 'need:0.2008', 'month:0.1981', 'previous:0.1801', 'general:0.177', 'shutterstock:0.1711', 'ton:0.1692', 'include:0.1647', 'compare:0.1498', 'sanction:0.1455', 'plunge:0.1438', 'deal:0.1198', 'strong:0.1039', 'percent:0.1001']+titles_keywords+['commodities:0.4311', 'alumina:0.3218', 'corn:0.313', 'climbs:0.1351', 'oneweek:0.1']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/arabnews.com/Africa development bank approves 15bn for food crisis.txt+eventbasecode61+eventcode61+avgtone0.5092165898617512+goldsteinscale0.82+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['africa:0.4659', 'aid:0.3817', 'fund:0.3458', 'accra:0.3337', 'fertilizer:0.333', 'bean:0.3257', 'food:0.3228', 'produce:0.301', 'seed:0.2977', 'farmer:0.2822', 'shortage:0.263', 'feed:0.2591', 'billion:0.2557', 'bn:0.2361', 'crisis:0.2116', 'akinwumi:0.1832', 'approve:0.1814', 'statement:0.1812', 'general:0.17', 'import:0.1587', 'president:0.1567', 'use:0.1442', 'ahead:0.1385', 'tell:0.1344', 'bountiful:0.1334', 'program:0.1326', 'face:0.1284', 'scale:0.1156', 'monday:0.1074', 'rapidly:0.0752']+titles_keywords+['africa:0.3681', '15bn:0.3167', 'food:0.306', 'crisis:0.1711', 'approves:0.1358']"
+        ]
+    ]
+}

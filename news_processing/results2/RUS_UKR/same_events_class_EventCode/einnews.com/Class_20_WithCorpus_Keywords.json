@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/einnews.com/Sweden providing additional humanitarian support to the UN to save lives and alleviate suffering.txt+eventbasecode20+eventcode20+avgtone0.48006644518272423+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4877', 'sweden:0.4701', 'humanitarian:0.4213', 'refugee:0.4183', 'unhcr:0.3822', 'invasion:0.2983', 'emergency:0.2879', 'government:0.2807', 'fund:0.2337', 'misleading:0.2087', 'priority:0.2048', 'world:0.2029', 'ernkrans:0.1982', 'need:0.1956', 'vulnerable:0.195', 'worsen:0.1913', 'news:0.1913', 'development:0.1878', 'april:0.1828', 'hunger:0.1826', 'additional:0.1794', 'continue:0.177', 'number:0.1735', 'sek:0.1658', 'displace:0.1592', 'according:0.1416', 'deliver:0.1371', 'reasonable:0.1074', 'enable:0.0927', 'welcome:0.0223']+titles_keywords+['sweden:0.5218', 'humanitarian:0.5058', 'support:0.3004', 'additional:0.1779', 'save:0.1428']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220206+../news_crawling/RUS_UKR/p_articles/einnews.com/Rommel Santos Diaz recommends the Declaration of Peace and Cessation of War DPCW.txt+eventbasecode20+eventcode20+avgtone0.4977168949771689+goldsteinscale0.65+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['diplomacy:0.4806', 'ukraine:0.4746', 'conflict:0.3558', 'peace:0.3558', 'humanitarian:0.2677', 'relations:0.2598', 'agreement:0.253', 'border:0.2437', 'president:0.2196', 'achieve:0.2174', 'document:0.1963', 'law:0.1891', 'editorial:0.1675', 'world:0.166', 'migration:0.161', 'allow:0.1567', 'federalista:0.1536', 'implies:0.1505', 'tense:0.1486', 'latin:0.1446', 'address:0.1407', 'rommel:0.1312', 'prevails:0.1312', 'alternative:0.1268', 'cessation:0.1202', 'rd:0.1169', 'contradiction:0.1085', 'hwpls:0.0935', 'resolution:0.0832', 'currently:0.0583']+titles_keywords+['peace:0.4041', 'declaration:0.3969', 'rommel:0.3507', 'diaz:0.3428', 'dpcw:0.2549']"
+        ]
+    ]
+}

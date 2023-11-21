@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20211207+../news_crawling/RUS_UKR/p_articles/nbcnews.com/Biden warns Putin of strong response if Russia invades Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4839319470699433+goldsteinscale0.27999999999999997+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['nato:0.4518', 'putin:0.4475', 'crimean:0.408', 'invade:0.377', 'diplomatic:0.3283', 'escalation:0.3139', 'biden:0.3005', 'adviser:0.2464', 'prepare:0.2325', 'economy:0.226', 'countermeasures:0.2157', 'adjacent:0.2087', 'misinformation:0.2006', 'oppose:0.1986', 'globe:0.189', 'table:0.1839', 'thursday:0.1744', 'debrief:0.1738', 'chaotic:0.1528', 'tell:0.1474', 'unclear:0.1455', 'direct:0.1313', 'type:0.1305', 'weapon:0.122', 'exactly:0.1168', 'big:0.1114', 'state:0.1051', 'hour:0.1021', 'end:0.0972', 'ransomware:0.0654']+titles_keywords+['putin:0.3898', 'biden:0.373', 'invades:0.2402', 'response:0.176', 'strong:0.1686']"
+        ],
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/nbcnews.com/Ukraine president issues clarification on earlier statement that Russia will attack Wednesday.txt+eventbasecode130+eventcode130+avgtone0.4658119658119659+goldsteinscale0.27999999999999997+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.006578947368421052+news_keywords+['ukraine:0.4272', 'zelenskyy:0.3469', 'invade:0.3419', 'threat:0.2864', 'president:0.27', 'news:0.2088', 'prediction:0.2023', 'military:0.1987', 'safe:0.1959', 'plan:0.1808', 'embassy:0.1793', 'know:0.1759', 'nbc:0.167', 'feb:0.1638', 'tank:0.1585', 'immediately:0.1484', 'observer:0.148', 'come:0.1408', 'report:0.1351', 'order:0.135', 'heard:0.1272', 'explain:0.1148', 'believe:0.1147', 'possibility:0.111', 'people:0.1089', 'near:0.1086', 'sure:0.0878', 'house:0.0779', 'dont:0.0736', 'toprotect:0.0134']+titles_keywords+['ukraine:0.3256', 'wednesday:0.2307', 'attack:0.2299', 'president:0.2008', 'clarification:0.1432']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220803+../news_crawling/RUS_UKR/p_articles/kcet.org/Ukraine Life Under Russias Attack 2023.txt+eventbasecode180+eventcode180+avgtone0.4456521739130435+goldsteinscale0.05+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.5133', 'ukraines:0.4905', 'russian:0.4168', 'frontline:0.416', 'kharkiv:0.3949', 'russias:0.3901', 'survive:0.3401', 'attack:0.3049', 'displaced:0.282', 'civilian:0.2766', 'underground:0.2463', 'assault:0.2412', 'city:0.2309', 'fight:0.2106', 'dramatic:0.1945', 'family:0.1803', 'risk:0.163', 'responder:0.1627', 'life:0.1468', 'intimate:0.1459', 'shell:0.1388', 'follow:0.135', 'amid:0.1166', 'second:0.1161', 'inside:0.1159', 'look:0.1048', 'large:0.0776', 'try:0.0516', 'catch:0.0384']+titles_keywords+['ukraine:0.53', 'russias:0.4099', '2023:0.3289', 'attack:0.3158', 'life:0.1487']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/kcet.org/June 3 2022.txt+eventbasecode180+eventcode180+avgtone0.4857142857142857+goldsteinscale0.05+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['newshour:0.5757', 'june:0.4835', 'pbs:0.4023', 'congress:0.3755', 'report:0.3515', 'labor:0.2917', 'job:0.2759', 'friday:0.2723', 'america:0.252', 'ambassador:0.239', 'brooks:0.2376', 'conflict:0.2346', 'economic:0.2329', 'david:0.2265', 'market:0.209', 'potential:0.1986', 'speak:0.196', 'assault:0.1946', 'russian:0.1922', 'continue:0.1913', 'entrench:0.1812', 'act:0.1673', 'late:0.1639', 'capehart:0.1563', 'fend:0.1385', 'solid:0.1356', 'wave:0.1222', 'cooldown:0.0963', 'plus:0.076', 'grows:0.0699']+titles_keywords+['2022:0.8019', 'june:0.474']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "BLR+RUS+43":[
+        []
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/nbcnews.com/Biden admin carefully examining legal issues around providing arms to Ukraine.txt+eventbasecode43+eventcode43+avgtone0.4958549222797927+goldsteinscale0.64+nummentions0.025036284470246733+numarticles0.02574329224075417+numsources0.06578947368421052+news_keywords+['ukraines:0.3868', 'armed:0.3583', 'military:0.3346', 'biden:0.3322', 'diplomacy:0.3319', 'pentagon:0.3033', 'procurement:0.303', 'impeach:0.2976', 'bipartisan:0.2924', 'legislation:0.2807', 'invasion:0.2756', 'taliban:0.2693', 'correspondent:0.2613', 'aid:0.2591', 'debate:0.2424', 'tank:0.2397', 'reznikovsaid:0.2348', 'capability:0.2205', 'stinger:0.2017', 'order:0.1984', 'issue:0.1934', 'extract:0.1853', 'brief:0.1768', 'know:0.1737', 'continue:0.1484', 'time:0.1328', 'sure:0.1221', 'january:0.1127', 'million:0.1014', 'weve:0.0871']+titles_keywords+['biden:0.4305', 'ukraine:0.3087', 'legal:0.2222', 'examining:0.1802', 'issues:0.1225']"
+        ]
+    ],
+    "UKR+RUS+43":[
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/nbcnews.com/Ukraines president travels close to frontline troops as Russia pushes them back.txt+eventbasecode43+eventcode43+avgtone0.4681724845995893+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5247', 'putin:0.3849', 'evacuations:0.3801', 'russias:0.3621', 'zelenskyy:0.3562', 'victory:0.2778', 'coordinate:0.2675', 'sievierodonetsk:0.2373', 'frontline:0.2365', 'tyotkino:0.2283', 'tank:0.2259', 'resume:0.2203', 'reminder:0.2132', 'continue:0.2082', 'long:0.1941', 'business:0.188', 'visit:0.1866', 'reversal:0.1794', 'railway:0.1785', 'report:0.1661', 'smash:0.1629', 'ranking:0.1606', 'feb:0.1591', 'say:0.158', 'focus:0.156', 'major:0.1532', 'states:0.15', 'arm:0.1222', 'largely:0.1203', 'new:0.1142']+titles_keywords+['ukraines:0.3764', 'frontline:0.3168', 'president:0.1719', 'travels:0.1276', 'close:0.0434']"
+        ]
+    ]
+}

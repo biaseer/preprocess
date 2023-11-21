@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+36":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Ben Wallace Nofly zone over Ukraine would only bolster Russia.txt+eventbasecode36+eventcode36+avgtone0.4812623274161736+goldsteinscale0.7+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['natos:0.4595', 'ukraines:0.4129', 'invade:0.3435', 'kyiv:0.3428', 'putin:0.3117', 'fly:0.2743', 'combat:0.2714', 'zone:0.2312', 'analyse:0.1654', 'shoot:0.1625', 'achieve:0.1624', 'know:0.1562', 'trigger:0.1542', 'position:0.1466', 'agreement:0.1348', 'warn:0.1251', 'article:0.1231', 'come:0.1227', 'western:0.1204', 'include:0.1145', 'prefer:0.1084', 'possibility:0.106', 'aim:0.0961', 'repulsion:0.0948', 'radio:0.0719', 'largely:0.0657', 'long:0.0638', 'difficult:0.0605', 'bolster:0.0574', 'meantime:0.0565']+titles_keywords+['ukraine:0.3434', 'wallace:0.3209', 'zone:0.2547', 'nofly:0.2157', 'bolster:0.1499']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220707+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Russia fails to take territory for first time since war with Ukraine began.txt+eventbasecode36+eventcode36+avgtone0.4665697674418605+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4584', 'kremlin:0.394', 'territory:0.2582', 'civilians:0.2436', 'artillery:0.24', 'operation:0.2398', 'frontline:0.2362', 'retreat:0.2168', 'tank:0.21', 'reorganise:0.2025', 'danilov:0.2024', 'deliver:0.1951', 'continue:0.1936', 'fight:0.1915', 'month:0.1838', 'immediately:0.1768', 'president:0.1761', 'warn:0.1706', 'lull:0.1626', 'want:0.1581', 'lysychansk:0.1497', 'composition:0.143', 'study:0.1393', 'images:0.126', 'televised:0.1181', 'reverse:0.1157', 'imply:0.1073', 'considerable:0.1069', 'building:0.1057', 'slowdown:0.0595']+titles_keywords+['ukraine:0.4089', 'territory:0.3171', 'fails:0.0993', 'began:0.0666', 'time:0.0617']"
+        ]
+    ]
+}

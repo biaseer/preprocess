@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+111":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/newstribune.com/Zelenskyy at the UN accuses Russian military of war crimes.txt+eventbasecode111+eventcode111+avgtone0.4615384615384615+goldsteinscale0.4+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.02631578947368421+news_keywords+['ukraine:0.4759', 'kremlin:0.4331', 'massacre:0.3862', 'zelenskyy:0.376', 'totalitarian:0.2634', 'report:0.258', 'accuse:0.2533', 'diplomat:0.2532', 'military:0.2151', 'agreement:0.2146', 'capital:0.214', 'law:0.2113', 'watch:0.1999', 'reiterating:0.1976', 'credible:0.1951', 'world:0.1892', 'order:0.1862', 'recount:0.1814', 'afraid:0.1717', 'chamber:0.1505', 'bucha:0.1479', 'head:0.1473', 'technologies:0.1447', 'cross:0.141', 'examples:0.137', 'similar:0.1322', 'pullout:0.1248', 'billion:0.1168', 'far:0.1119', 'resolution:0.0842']+titles_keywords+['zelenskyy:0.5313', 'russian:0.303', 'accuses:0.2814', 'war:0.2432', 'military:0.2012']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/newstribune.com/Ukraine thwarts Russian advances fight rages for Mariupol.txt+eventbasecode111+eventcode111+avgtone0.4672085201793722+goldsteinscale0.4+nummentions0.022133526850507984+numarticles0.02284263959390863+numsources0.039473684210526314+news_keywords+['kyiv:0.5208', 'kremlin:0.4444', 'chernobyl:0.3716', 'airstrikes:0.3679', 'nato:0.3397', 'decommission:0.2994', 'occupy:0.2964', 'escalation:0.2948', 'diplomatic:0.2792', 'troop:0.2532', 'flee:0.2513', 'disaster:0.2464', 'progress:0.2406', 'fight:0.2222', 'school:0.2216', 'retaken:0.2211', 'worry:0.2124', 'hear:0.2113', 'help:0.2066', 'cite:0.1988', 'end:0.1942', 'western:0.1807', 'surround:0.1805', 'nearly:0.1767', 'bucha:0.1764', 'view:0.1706', 'plant:0.1631', 'ap:0.1572', 'ready:0.1467', 'burst:0.1425']+titles_keywords+['ukraine:0.495', 'fight:0.3995', 'mariupol:0.3448', 'thwarts:0.2043', 'advances:0.1217']"
+        ]
+    ]
+}

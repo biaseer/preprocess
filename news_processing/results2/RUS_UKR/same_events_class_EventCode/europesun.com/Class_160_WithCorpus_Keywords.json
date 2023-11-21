@@ -1,0 +1,30 @@
+{
+    "IND+UKR+160":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/europesun.com/Govt to organise evacuation flights for Indians in Ukraine.txt+eventbasecode160+eventcode160+avgtone0.4981132075471698+goldsteinscale0.3+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['ukraine:0.5048', 'evacuation:0.4683', 'putin:0.3801', 'govt:0.2564', 'travel:0.2422', 'airspace:0.2293', 'indians:0.2244', 'delhi:0.2241', 'diplomatic:0.2221', 'breakaway:0.1957', 'border:0.1943', 'organise:0.1775', 'protect:0.1682', 'booking:0.1632', 'report:0.1486', 'ongoing:0.1485', 'authorize:0.1484', 'solution:0.1289', 'send:0.1162', 'people:0.1146', 'number:0.1074', 'tomorrow:0.1052', 'external:0.1026', 'ani:0.0976', 'mea:0.0949', 'boryspil:0.0861', 'emphasize:0.0757', 'special:0.0731', 'include:0.052', 'new:0.0391']+titles_keywords+['evacuation:0.4425', 'ukraine:0.3932', 'indians:0.3202', 'flights:0.2792', 'govt:0.2261']"
+        ]
+    ],
+    "JPN+RUS+160":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/europesun.com/Japan to ban luxury goods exports to Russia next week.txt+eventbasecode160+eventcode160+avgtone0.4856321839080459+goldsteinscale0.3+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.019736842105263157+news_keywords+['russia:0.4723', 'sanction:0.382', 'treaty:0.3181', 'tokyo:0.2982', 'economic:0.2593', 'correspond:0.2537', 'export:0.2198', 'avoid:0.2181', 'president:0.218', 'hayashi:0.2025', 'prepare:0.2003', 'withdraw:0.1897', 'order:0.1881', 'list:0.1847', 'anisputnik:0.1843', 'dominance:0.179', 'term:0.1736', 'western:0.1678', 'march:0.1625', 'event:0.1614', 'current:0.16', 'good:0.1447', 'unfriendly:0.1366', 'unveil:0.1302', 'week:0.1217', 'kurils:0.1192', 'step:0.1169', 'freeze:0.115', 'measure:0.1094', 'entire:0.0749']+titles_keywords+['japan:0.3129', 'exports:0.281', 'ban:0.1903', 'luxury:0.1685', 'week:0.0732']"
+        ]
+    ],
+    "KOR+RUS+160":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/europesun.com/South Korea bans export of strategic materials to Russia.txt+eventbasecode160+eventcode160+avgtone0.4886877828054299+goldsteinscale0.3+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.019736842105263157+news_keywords+['ukraine:0.4354', 'demilitarization:0.3529', 'sanction:0.3463', 'seoul:0.3158', 'strategic:0.2491', 'danger:0.2369', 'export:0.2226', 'border:0.2098', 'government:0.1994', 'procedure:0.1869', 'restriction:0.1789', 'delegations:0.1623', 'anisputnik:0.1541', 'subject:0.1503', 'space:0.1433', 'aviation:0.1412', 'material:0.1313', 'hold:0.1271', 'statement:0.1271', 'expect:0.1269', 'help:0.1257', 'item:0.1235', 'donbas:0.1234', 'strengthen:0.1202', 'include:0.1135', 'sensor:0.1132', 'talk:0.1115', 'follow:0.0981', 'monday:0.0856', 'decide:0.0822']+titles_keywords+['korea:0.3619', 'export:0.297', 'bans:0.2059', 'materials:0.1623', 'strategic:0.1426']"
+        ]
+    ],
+    "RUS+MDA+160":[
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/europesun.com/Russian military evacuates new batch of Khersons residents.txt+eventbasecode160+eventcode160+avgtone0.4964788732394366+goldsteinscale0.3+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['crimea:0.5285', 'evacuate:0.4401', 'moscow:0.4126', 'moldova:0.3906', 'russian:0.339', 'military:0.3283', 'embassy:0.2846', 'kherson:0.2722', 'resident:0.226', 'transport:0.2234', 'transfer:0.2229', 'rt:0.2096', 'operation:0.2042', 'federation:0.1979', 'safe:0.1899', 'district:0.1419', 'commander:0.1413', 'carry:0.1393', 'submit:0.1249', 'base:0.1087', 'batch:0.0873', 'new:0.0864', 'accord:0.0702', 'special:0.0661', 'today:0.06', 'person:0.0539', 'website:0.0511', 'begin:0.0467', 'sana:0.0424', 'cite:0.0338']+titles_keywords+['evacuates:0.3985', 'khersons:0.3868', 'russian:0.334', 'military:0.2348', 'new:0.0996']"
+        ]
+    ],
+    "RUS+UKR+160":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/europesun.com/US oil major quits Russia.txt+eventbasecode160+eventcode160+avgtone0.4615384615384615+goldsteinscale0.3+nummentions0.009433962264150943+numarticles0.008339376359680928+numsources0.009868421052631578+news_keywords+['russia:0.5318', 'moscow:0.4844', 'sakhalin:0.4509', 'exxonmobil:0.4147', 'sanction:0.2681', 'business:0.2578', 'oil:0.2387', 'discontinue:0.231', 'invasion:0.2228', 'world:0.2075', 'comply:0.2045', 'operation:0.1988', 'publish:0.1816', 'venture:0.1801', 'step:0.1747', 'begin:0.1697', 'statement:0.1435', 'big:0.1344', 'slap:0.1286', 'event:0.1282', 'say:0.1188', 'response:0.1171', 'freeze:0.1164', 'trade:0.111', 'direct:0.1107', 'make:0.1048', 'fully:0.1003', 'essentially:0.0873', 'asset:0.0843', 'new:0.079']+titles_keywords+['russia:0.343', 'quits:0.2625', 'oil:0.2455', 'major:0.1098']"
+        ],
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/europesun.com/Spotify suspends all operations in Russia amid countrys attack on Ukraine.txt+eventbasecode160+eventcode160+avgtone0.48046875+goldsteinscale0.3+nummentions0.030478955007256895+numarticles0.03118201595358956+numsources0.03289473684210526+news_keywords+['spotify:0.4421', 'ukraine:0.3475', 'kremlin:0.3399', 'subscription:0.2694', 'sputnik:0.2198', 'military:0.211', 'stockholm:0.1983', 'news:0.1806', 'stream:0.1751', 'audio:0.1647', 'suspend:0.1638', 'month:0.1537', 'operational:0.1532', 'platform:0.1412', 'statement:0.1351', 'indefinitely:0.1243', 'current:0.1217', 'rt:0.1163', 'disable:0.1125', 'discoverability:0.1098', 'state:0.0959', 'continue:0.0908', 'earlier:0.0895', 'enact:0.0824', 'option:0.0749', 'join:0.063', 'apparently:0.0621', 'circumstance:0.0445', 'amid:0.0431', 'ani:0.0358']+titles_keywords+['spotify:0.4328', 'ukraine:0.3135', 'suspends:0.1922', 'attack:0.0521', 'amid:0.021']"
+        ]
+    ]
+}

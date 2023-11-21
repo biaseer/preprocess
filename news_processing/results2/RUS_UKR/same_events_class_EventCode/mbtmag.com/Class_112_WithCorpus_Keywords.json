@@ -1,0 +1,12 @@
+{
+    "NLD+RUS+112":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/mbtmag.com/Dutch Australians Launch Case Against Moscow over MH17.txt+eventbasecode112+eventcode112+avgtone0.45778364116094994+goldsteinscale0.4+nummentions0.09579100145137881+numarticles0.09644670050761421+numsources0.07236842105263158+news_keywords+['ukraine:0.4317', 'hague:0.3588', 'sovereignty:0.3293', 'investigation:0.3005', 'icao:0.2941', 'absentia:0.2829', 'australians:0.2751', 'unprovoked:0.2744', 'invasion:0.2627', 'case:0.2558', 'kuala:0.2437', 'verdicts:0.237', 'aggression:0.2165', 'airspace:0.2159', 'kill:0.2159', 'legal:0.2106', 'accountable:0.2089', 'separatist:0.2065', 'boycott:0.1962', 'military:0.1886', 'allege:0.1698', 'statement:0.1638', 'disaster:0.1543', 'continue:0.1481', 'mh:0.1041', 'aim:0.1029', 'current:0.0969', 'july:0.0968', 'bid:0.0925', 'passenger:0.0486']+titles_keywords+['mh17:0.3231', 'moscow:0.3215', 'australians:0.2795', 'case:0.2297', 'launch:0.1647']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/mbtmag.com/Satellite Modems Crippled in Major Cyberattack.txt+eventbasecode112+eventcode112+avgtone0.46890862944162437+goldsteinscale0.4+nummentions0.1509433962264151+numarticles0.15155910079767948+numsources0.13157894736842105+news_keywords+['cyberattack:0.5319', 'eutelsat:0.4084', 'vpn:0.3747', 'modems:0.369', 'russias:0.3454', 'phishing:0.3218', 'internet:0.2989', 'disrupt:0.2843', 'vulnerable:0.2586', 'military:0.2572', 'investigation:0.2241', 'misconfiguration:0.2209', 'data:0.213', 'know:0.1961', 'plague:0.1905', 'blame:0.1885', 'launch:0.1848', 'offline:0.1773', 'contracts:0.1745', 'major:0.1688', 'locate:0.1651', 'useless:0.1616', 'ka:0.1582', 'user:0.1513', 'simultaneously:0.1356', 'month:0.1306', 'statementproviding:0.1186', 'largely:0.1142', 'far:0.1038', 'send:0.0987']+titles_keywords+['modems:0.4748', 'satellite:0.4274', 'cyberattack:0.4225', 'crippled:0.2152', 'major:0.1491']"
+        ]
+    ]
+}

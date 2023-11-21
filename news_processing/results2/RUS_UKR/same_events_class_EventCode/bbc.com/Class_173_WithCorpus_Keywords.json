@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+173":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine Pensioner arrested at antiwar protest in Russia.txt+eventbasecode173+eventcode173+avgtone0.402777777777778+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['antiwar:0.4068', 'protest:0.3598', 'ukraine:0.3566', 'arrest:0.3496', 'russia:0.3122', 'elderly:0.2941', 'invasion:0.2907', 'pensioner:0.257', 'woman:0.2094']+titles_keywords+['antiwar:0.3216', 'pensioner:0.3147', 'ukraine:0.3106', 'protest:0.2752', 'arrested:0.251']"
+        ],
+        [
+            "20220517+../news_crawling/RUS_UKR/p_articles/bbc.com/Biggestever US aid package approved for Ukraine.txt+eventbasecode173+eventcode173+avgtone0.4731543624161074+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4638', 'aid:0.3198', 'package:0.2708', 'approve:0.244', 'biggestever:0.2201']+titles_keywords+['ukraine:0.4363', 'aid:0.3119', 'package:0.2855', 'biggestever:0.2345', 'approved:0.2091']"
+        ]
+    ]
+}

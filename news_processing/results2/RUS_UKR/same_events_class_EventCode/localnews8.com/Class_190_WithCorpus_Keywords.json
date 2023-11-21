@@ -1,0 +1,20 @@
+{
+    "BLR+UKR+190":[
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/localnews8.com/Belarus claims to have shot down Ukrainian missiles.txt+eventbasecode190+eventcode190+avgtone0.4758771929824562+goldsteinscale0.0+nummentions0.02939042089985486+numarticles0.03009427121102248+numsources0.046052631578947366+news_keywords+['belarus:0.4785', 'lukashenkos:0.4462', 'kyiv:0.4363', 'putin:0.4351', 'nato:0.3528', 'gladkov:0.3426', 'missile:0.2865', 'provocation:0.2646', 'backfire:0.264', 'military:0.2471', 'investigate:0.2461', 'airspace:0.2432', 'sovereignty:0.2322', 'destroy:0.2265', 'reunification:0.2186', 'news:0.2152', 'intercept:0.2134', 'hit:0.2098', 'coordinate:0.2031', 'invasion:0.2006', 'cnns:0.1667', 'people:0.162', 'despite:0.1426', 'building:0.1354', 'lie:0.1318', 'morning:0.126', 'sumy:0.1021', 'kh:0.0863', 'thank:0.0642', 'usually:0.0637']+titles_keywords+['belarus:0.4503', 'missiles:0.3807', 'ukrainian:0.3399', 'shot:0.1363', 'claims:0.0852']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/localnews8.com/Heres what we know about how Russias invasion of Ukraine unfolded.txt+eventbasecode190+eventcode190+avgtone0.4724770642201835+goldsteinscale0.0+nummentions0.09216255442670537+numarticles0.08484408992023205+numsources0.19078947368421054+news_keywords+['crimea:0.4833', 'putin:0.3666', 'russias:0.3651', 'attack:0.322', 'genocide:0.2914', 'military:0.2889', 'emergency:0.2785', 'occupy:0.251', 'border:0.245', 'soon:0.2317', 'zelensky:0.2277', 'camouflage:0.2276', 'know:0.2158', 'eyewitness:0.2096', 'kramatorsk:0.2087', 'interfere:0.199', 'televised:0.1934', 'unfold:0.188', 'baseless:0.1816', 'trap:0.1757', 'switch:0.1686', 'run:0.1515', 'focus:0.1426', 'rubble:0.1364', 'deep:0.126', 'compare:0.1244', 'tow:0.1227', 'way:0.1032', 'plume:0.0965', 'installation:0.0497']+titles_keywords+['ukraine:0.4346', 'invasion:0.2901', 'know:0.2245', 'unfolded:0.1725', 'heres:-0.0251']"
+        ],
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/localnews8.com/Five important things that happened in Ukraine over the weekend.txt+eventbasecode190+eventcode190+avgtone0.47886647454370795+goldsteinscale0.0+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.009868421052631578+news_keywords+['kyiv:0.4971', 'airstrike:0.3862', 'peacekeeping:0.3693', 'russias:0.3264', 'pentagon:0.3096', 'occupy:0.2816', 'emergency:0.2728', 'propaganda:0.2624', 'concern:0.2233', 'expand:0.2133', 'diplomat:0.2107', 'economy:0.2084', 'leave:0.1849', 'consequence:0.1598', 'friday:0.1577', 'training:0.1546', 'western:0.1531', 'write:0.1523', 'kilometer:0.1503', 'zero:0.1413', 'loot:0.1413', 'long:0.132', 'focus:0.1314', 'footage:0.1099', 'state:0.0967', 'kylie:0.0946', 'theyre:0.0608', 'liu:0.0553', 'set:0.0524', 'instal:0.0341']+titles_keywords+['ukraine:0.5587', 'important:0.2999', 'things:0.2893', 'weekend:0.2614', 'happened:0.2559']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/localnews8.com/Ukraine claims Russian general has been killed in Kharkiv.txt+eventbasecode190+eventcode190+avgtone0.4748700173310225+goldsteinscale0.0+nummentions0.04716981132075472+numarticles0.047860768672951415+numsources0.046052631578947366+news_keywords+['ukraine:0.4493', 'kharkivs:0.3339', 'gerasimov:0.2555', 'kill:0.2519', 'troop:0.2454', 'general:0.2398', 'cnn:0.2224', 'artillery:0.2158', 'report:0.2103', 'strategic:0.2007', 'information:0.198', 'administration:0.1718', 'rank:0.1701', 'outlet:0.17', 'ferocity:0.1644', 'consolidate:0.1579', 'forward:0.1561', 'isnt:0.1471', 'proof:0.1412', 'understand:0.1391', 'progress:0.1339', 'kindergarten:0.1289', 'murky:0.1256', 'large:0.1176', 'day:0.0928', 'independently:0.0868', 'maternity:0.0801', 'unsecured:0.073', 'christo:0.069', 'added:0.0428']+titles_keywords+['kharkiv:0.4025', 'ukraine:0.3292', 'general:0.2612', 'killed:0.2547', 'claims:0.0757']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/alaraby.co.uk/Filmmakers rename Russian Arm camera system UCrane after invasion.txt+eventbasecode190+eventcode190+avgtone0.4939209726443769+goldsteinscale0.0+nummentions0.017053701015965168+numarticles0.01740391588107324+numsources0.039473684210526314+news_keywords+['russianarm:0.5033', 'kyiv:0.4659', 'filmotechnic:0.3992', 'filmmakers:0.3349', 'gyro:0.3262', 'crane:0.3153', 'arm:0.2791', 'invasion:0.2776', 'signage:0.2551', 'movement:0.2469', 'device:0.2444', 'title:0.2319', 'rename:0.2278', 'social:0.2149', 'magazine:0.1994', 'know:0.1935', 'anatoliy:0.1874', 'dynamic:0.1796', 'alternative:0.1783', 'hero:0.1684', 'require:0.1637', 'official:0.157', 'stablised:0.1546', 'report:0.1532', 'fight:0.1467', 'world:0.1442', 'year:0.1414', 'continue:0.1305', 'new:0.1164', 'longer:0.0897']+titles_keywords+['ucrane:0.3605', 'camera:0.3522', 'russian:0.3189', 'rename:0.2768', 'invasion:0.2567']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/alaraby.co.uk/Russia missile strike kills 10 wounds seven in Ukraines Odesa official says.txt+eventbasecode190+eventcode190+avgtone0.46853146853146854+goldsteinscale0.0+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.023026315789473683+news_keywords+['ukraines:0.4427', 'russian:0.3832', 'missile:0.3136', 'bratchuk:0.2889', 'serhiy:0.2065', 'strike:0.196', 'apartment:0.1739', 'dead:0.1699', 'odesa:0.1684', 'operation:0.1642', 'storey:0.1542', 'people:0.1499', 'rubble:0.1393', 'result:0.1318', 'report:0.1269', 'seven:0.116', 'incident:0.1134', 'port:0.1101', 'telegram:0.106', 'collapse:0.104', 'build:0.1039', 'night:0.0962', 'child:0.0783', 'television:0.0753', 'early:0.0652', 'official:0.0594', 'black:0.0582', 'remain:0.0527', 'state:0.0283', 'include:-0.0018']+titles_keywords+['ukraines:0.3667', 'missile:0.2757', 'wounds:0.2269', 'seven:0.2228', 'says:0.0105']"
+        ],
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/alaraby.co.uk/15000 Russians killed in Ukraine war CIA director.txt+eventbasecode190+eventcode190+avgtone0.4640449438202247+goldsteinscale0.0+nummentions0.024310595065312045+numarticles0.025018129079042786+numsources0.029605263157894735+news_keywords+['ukraine:0.5157', 'russians:0.477', 'putin:0.4193', 'military:0.288', 'kill:0.2829', 'cia:0.2796', 'pentagon:0.2609', 'infiltration:0.2448', 'zelenskiy:0.2403', 'battlefield:0.2301', 'casualty:0.2045', 'know:0.2015', 'donbas:0.1924', 'aspensecurity:0.1692', 'cite:0.1515', 'classify:0.144', 'long:0.1438', 'concern:0.1366', 'advantage:0.1342', 'order:0.1334', 'range:0.1317', 'endure:0.1161', 'updated:0.1159', 'expand:0.1154', 'nearly:0.1108', 'lesson:0.0891', 'wednesday:0.0804', 'director:0.0715', 'acknowledgment:0.0644', 'cost:0.0368']+titles_keywords+['ukraine:0.4583', 'cia:0.3649', '15000:0.2867', 'killed:0.2193', 'director:0.1941']"
+        ]
+    ]
+}

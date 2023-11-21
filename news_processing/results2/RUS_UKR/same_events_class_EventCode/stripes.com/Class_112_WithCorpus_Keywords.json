@@ -1,0 +1,20 @@
+{
+    "EUR+RUS+112":[
+        [
+            "20211121+../news_crawling/RUS_UKR/p_articles/stripes.com/Putin warns NATO of military response as US seeks dialogue.txt+eventbasecode112+eventcode112+avgtone0.48534482758620684+goldsteinscale0.4+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.006578947368421052+news_keywords+['natos:0.4804', 'crimea:0.4366', 'putin:0.4318', 'diplomatic:0.3421', 'threaten:0.285', 'invades:0.2801', 'petersburg:0.2654', 'meeting:0.2288', 'concern:0.2204', 'deploy:0.2184', 'expand:0.2157', 'border:0.1998', 'bloodshed:0.1975', 'soon:0.189', 'preparation:0.188', 'news:0.185', 'understand:0.1759', 'step:0.1505', 'react:0.1455', 'week:0.1251', 'isnt:0.123', 'hold:0.1149', 'choice:0.1093', 'donfried:0.1078', 'satellite:0.1048', 'substantive:0.1038', 'measure:0.1017', 'stoltenberg:0.0995', 'offer:0.0649', 'year:0.0586']+titles_keywords+['nato:0.4738', 'putin:0.3972', 'warns:0.2122', 'military:0.21', 'response:0.1854']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [],
+        [],
+        [
+            "20220710+../news_crawling/RUS_UKR/p_articles/stripes.com/Deadly Crimea blasts are just the beginning Ukraine warns Russia.txt+eventbasecode112+eventcode112+avgtone0.46885813148788924+goldsteinscale0.4+nummentions0.1346153846153846+numarticles0.1352429296591733+numsources0.20065789473684212+news_keywords+['crimea:0.5489', 'evacuated:0.3668', 'explosion:0.3161', 'attack:0.3086', 'sergei:0.308', 'novofedorivka:0.2977', 'military:0.2893', 'reuters:0.2691', 'operation:0.2589', 'warns:0.2434', 'victim:0.218', 'dozhd:0.21', 'topic:0.2067', 'hospitalize:0.2056', 'report:0.2022', 'attention:0.1897', 'write:0.1857', 'remind:0.1808', 'anonymity:0.1727', 'adviser:0.168', 'partisan:0.1566', 'localize:0.1543', 'additional:0.144', 'early:0.1392', 'state:0.1267', 'nearly:0.1237', 'deep:0.1027', 'skirt:0.1019', 'rightly:0.0891', 'compatible:0.0788']+titles_keywords+['crimea:0.5016', 'blasts:0.2969', 'warns:0.2813', 'beginning:0.1907', 'deadly:0.179']"
+        ],
+        []
+    ],
+    "UKR+RUS+112":[
+        [],
+        [],
+        []
+    ]
+}

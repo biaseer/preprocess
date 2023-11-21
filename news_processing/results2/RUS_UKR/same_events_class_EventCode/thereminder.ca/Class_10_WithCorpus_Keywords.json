@@ -1,0 +1,20 @@
+{
+    "RUS+RUS+10":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/thereminder.ca/Zelenskyy says siege of Mariupol involved war crimes.txt+eventbasecode10+eventcode10+avgtone0.4774119448698315+goldsteinscale0.5+nummentions0.18359941944847605+numarticles0.18419144307469182+numsources0.15789473684210525+news_keywords+['kyiv:0.5493', 'chechnya:0.4382', 'zelenskyy:0.3986', 'evacuations:0.3891', 'demilitarization:0.387', 'mykolaiv:0.3611', 'russias:0.3426', 'relocate:0.3073', 'pentagon:0.2751', 'peaceful:0.2731', 'genocidal:0.2523', 'mig:0.2482', 'journalist:0.2395', 'battle:0.2329', 'know:0.2298', 'operational:0.2249', 'continue:0.2061', 'deliver:0.205', 'western:0.1858', 'ap:0.185', 'dead:0.1742', 'anonymity:0.1687', 'hit:0.1665', 'emerge:0.1597', 'immediately:0.1582', 'far:0.1572', 'plant:0.1465', 'galvanize:0.1385', 'largely:0.1171', 'million:0.1118']+titles_keywords+['zelenskyy:0.5074', 'siege:0.3261', 'crimes:0.2791', 'mariupol:0.2663', 'says:0.0467']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        []
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/thereminder.ca/Russia raiding Ukraine wheat stores exporting it with false papers Ukraine minister.txt+eventbasecode10+eventcode10+avgtone0.48275862068965514+goldsteinscale0.5+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.013157894736842105+news_keywords+['ukraine:0.4313', 'putin:0.4002', 'blockade:0.3948', 'war:0.3169', 'grain:0.3099', 'divert:0.2971', 'territory:0.2852', 'farmer:0.2644', 'report:0.2404', 'security:0.2203', 'explain:0.2179', 'contain:0.2105', 'fabricate:0.2087', 'evidence:0.2082', 'steal:0.1988', 'false:0.1956', 'market:0.1905', 'destroyed:0.1889', 'covertly:0.187', 'hear:0.1789', 'displace:0.1755', 'mix:0.1746', 'ally:0.1676', 'stop:0.1661', 'mps:0.1487', 'solskyi:0.1451', 'send:0.1328', 'exporter:0.1324', 'thursday:0.1305', 'videolink:0.0553']+titles_keywords+['ukraine:0.4475', 'wheat:0.3352', 'raiding:0.2229', 'exporting:0.1625', 'false:0.1522']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/thereminder.ca/Biden Russia war a genocide trying to wipe out Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4697309417040359+goldsteinscale0.5+nummentions0.3454281567489115+numarticles0.34590282813633066+numsources0.3782894736842105+news_keywords+['putin:0.4936', 'genocide:0.4485', 'potus:0.4053', 'biden:0.3844', 'regime:0.3238', 'intervene:0.2763', 'term:0.2577', 'accuse:0.2511', 'controversy:0.2417', 'nuclear:0.214', 'tutsis:0.2069', 'american:0.2052', 'imply:0.2037', 'block:0.2031', 'tell:0.1962', 'power:0.1895', 'articulate:0.178', 'example:0.1769', 'washington:0.1739', 'clearer:0.1673', 'learn:0.1614', 'bloody:0.1606', 'volodymyr:0.1502', 'direct:0.1319', 'day:0.1311', 'calling:0.1147', 'ap:0.1059', 'praise:0.1046', 'yes:0.0988', 'price:0.0578']+titles_keywords+['biden:0.5002', 'genocide:0.4654', 'ukraine:0.4317', 'war:0.3981', 'trying:0.1738']"
+        ]
+    ]
+}

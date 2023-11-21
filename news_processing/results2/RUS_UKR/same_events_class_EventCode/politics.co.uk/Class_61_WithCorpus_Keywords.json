@@ -1,0 +1,12 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220605+../news_crawling/RUS_UKR/p_articles/politics.co.uk/World Environment Day Climate crisis exacerbates unprecedented levels of food insecurity and extreme hunger.txt+eventbasecode61+eventcode61+avgtone0.448176583493282+goldsteinscale0.82+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['climate:0.4462', 'ethiopia:0.4004', 'malnutrition:0.3714', 'aid:0.3394', 'world:0.3084', 'conflict:0.2796', 'project:0.2585', 'vegetable:0.2411', 'future:0.2405', 'covid:0.235', 'campaignfor:0.23', 'social:0.2183', 'increase:0.208', 'employment:0.2053', 'feed:0.2036', 'vulnerable:0.2008', 'coordinate:0.1929', 'priority:0.1885', 'input:0.181', 'current:0.1738', 'teach:0.1729', 'reminder:0.1718', 'muhammad:0.1695', 'live:0.1631', 'ircs:0.1623', 'woman:0.1582', 'decade:0.1313', 'include:0.12', 'latestreport:0.1103', 'million:0.1097']+titles_keywords+['climate:0.388', 'hunger:0.367', 'world:0.3008', 'day:0.2429', 'crisis:0.232']"
+        ]
+    ],
+    "RUS+UKR+61":[
+        [
+            "20220727+../news_crawling/RUS_UKR/p_articles/politics.co.uk/The IRC calls for support for children hit by this summers extreme drought.txt+eventbasecode61+eventcode61+avgtone0.4673267326732673+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['climate:0.4606', 'drought:0.4523', 'sahel:0.419', 'kenya:0.4029', 'livelihood:0.3638', 'shelter:0.3387', 'shortage:0.3292', 'malnutrition:0.3253', 'dependency:0.2704', 'poor:0.2687', 'russia:0.2678', 'emergency:0.2592', 'wheat:0.2587', 'conflicts:0.2467', 'ircs:0.2324', 'cope:0.2316', 'grow:0.2056', 'current:0.1964', 'people:0.1933', 'global:0.1893', 'displacement:0.184', 'increasingly:0.1604', 'start:0.1482', 'know:0.1384', 'import:0.1277', 'million:0.1241', 'decade:0.1191', 'child:0.1127', 'week:0.0951', 'milestonescampaign:0.0429']+titles_keywords+['drought:0.5184', 'summers:0.3495', 'children:0.3081', 'irc:0.2776', 'support:0.2653']"
+        ]
+    ]
+}

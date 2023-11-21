@@ -1,0 +1,22 @@
+{
+    "CAN+RUS+90":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/business-standard.com/Canada to refer ICC to examine alleged Russian war crimes in Ukraine.txt+eventbasecode90+eventcode90+avgtone0.5034883720930233+goldsteinscale0.4+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.006578947368421052+news_keywords+['ukraine:0.4282', 'canada:0.3131', 'russian:0.3007', 'icc:0.2451', 'refer:0.2419', 'war:0.2285', 'probe:0.2054', 'court:0.1976', 'crime:0.1956', 'examine:0.1923', 'crimes:0.19', 'criminal:0.1584', 'international:0.1467', 'government:0.1299', 'allege:0.1265', 'decide:0.1173', 'humanity:0.1135', 'situation:0.1024', 'tuesday:0.0667', 'force:0.065', 'say:0.0403']+titles_keywords+['ukraine:0.3872', 'icc:0.2336', 'refer:0.1979', 'war:0.1941', 'crimes:0.1672']"
+        ]
+    ],
+    "EUR+UKR+90":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/business-standard.com/Putin should face war crimes trial for Bucha killings US President Biden.txt+eventbasecode90+eventcode90+avgtone0.481981981981982+goldsteinscale0.4+nummentions0.5264876632801161+numarticles0.5250181290790428+numsources0.46710526315789475+news_keywords+['putin:0.5376', 'kyiv:0.5257', 'russian:0.4294', 'vladimir:0.4199', 'zelenskyy:0.3589', 'genocide:0.3335', 'war:0.32', 'venediktova:0.3183', 'civilians:0.305', 'report:0.2963', 'bucha:0.2957', 'kill:0.2876', 'crimes:0.2863', 'reporter:0.259', 'headline:0.2476', 'capital:0.2397', 'visit:0.2017', 'union:0.1909', 'syndicate:0.1814', 'feed:0.1692', 'weapon:0.1584', 'continue:0.1561', 'picture:0.136', 'monday:0.1349', 'associated:0.1276', 'actual:0.1249', 'spot:0.12', 'surround:0.1071', 'add:0.0698', 'auto:0.047']+titles_keywords+['putin:0.5038', 'biden:0.4016', 'killings:0.2459', 'trial:0.2339', 'bucha:0.2298']"
+        ]
+    ],
+    "RUS+UKR+90":[
+        [
+            "20220623+../news_crawling/RUS_UKR/p_articles/business-standard.com/Russian cyber spying targets 42 Ukraine allies amid war Microsoft report.txt+eventbasecode90+eventcode90+avgtone0.49121405750798725+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['cyberattacks:0.5189', 'nato:0.4352', 'ukrainian:0.4319', 'propaganda:0.4146', 'moscow:0.4103', 'spy:0.4077', 'microsoft:0.3107', 'government:0.3018', 'invade:0.2915', 'virus:0.2891', 'threat:0.2618', 'targeted:0.2362', 'syndicate:0.2214', 'washington:0.2201', 'data:0.2171', 'organisation:0.1994', 'report:0.1962', 'deflect:0.1736', 'assistance:0.1694', 'notpetya:0.1664', 'example:0.1663', 'coinciding:0.1593', 'feed:0.1429', 'donbas:0.1408', 'think:0.1242', 'month:0.1198', 'conduit:0.1159', 'page:0.1073', 'increase:0.0944', 'percent:0.0792']+titles_keywords+['ukraine:0.3862', 'allies:0.3517', 'spying:0.3457', 'microsoft:0.2683', '42:0.2162']"
+        ]
+    ],
+    "UKR+CAN+90":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/business-standard.com/Kyiv seeks to seize Russias assets for postwar recovery Ukrainian PM.txt+eventbasecode90+eventcode90+avgtone0.5092348284960422+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['ukraine:0.5141', 'russias:0.4443', 'oligarch:0.323', 'currency:0.268', 'seize:0.2669', 'reconstruction:0.2647', 'fund:0.2612', 'government:0.2443', 'war:0.1979', 'asset:0.1851', 'shmyhal:0.1752', 'reserve:0.1713', 'headline:0.1545', 'telegram:0.1422', 'legal:0.1419', 'prepared:0.1401', 'cabinet:0.1367', 'generate:0.1192', 'term:0.1142', 'believe:0.0967', 'write:0.0846', 'central:0.0835', 'picture:0.0827', 'estimate:0.0812', 'frozen:0.0797', 'long:0.076', 'add:0.058', 'set:0.0538', 'auto:0.0458', 'half:0.0415']+titles_keywords+['kyiv:0.4766', 'russias:0.3345', 'seize:0.2849', 'assets:0.2128', 'pm:0.0869']"
+        ]
+    ]
+}

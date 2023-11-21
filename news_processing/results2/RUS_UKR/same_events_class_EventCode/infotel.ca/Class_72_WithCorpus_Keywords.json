@@ -1,0 +1,20 @@
+{
+    "RUS+BLR+72":[
+        [
+            "20220119+../news_crawling/RUS_UKR/p_articles/infotel.ca/Biden says Putin will pay dear price if he invades Ukraine.txt+eventbasecode72+eventcode72+avgtone0.4908625730994152+goldsteinscale0.915+nummentions0.04753265602322206+numarticles0.048223350253807105+numsources0.07236842105263158+news_keywords+['putin:0.4822', 'diplomacy:0.4497', 'nato:0.4171', 'kyivs:0.3671', 'invades:0.3643', 'foreseeable:0.2791', 'adviser:0.2621', 'escalate:0.2581', 'cyberattack:0.2523', 'plan:0.2304', 'news:0.2226', 'speak:0.2187', 'conclude:0.2185', 'prepared:0.2166', 'order:0.2066', 'ouster:0.2063', 'fight:0.2029', 'thursday:0.1926', 'promise:0.1828', 'clarify:0.1753', 'pretext:0.1709', 'forward:0.1692', 'strengthen:0.1661', 'hour:0.1337', 'sure:0.133', 'make:0.1316', 'similar:0.1158', 'underline:0.1094', 'state:0.0997', 'theres:0.0298']+titles_keywords+['biden:0.4213', 'ukraine:0.2938', 'invades:0.2682', 'price:0.2157', 'says:0.0975']"
+        ]
+    ],
+    "RUS+RUS+72":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/infotel.ca/EXPLAINER Is stuck convoy in Ukraine a setback for Russia.txt+eventbasecode72+eventcode72+avgtone0.46809571286141577+goldsteinscale0.915+nummentions0.1676342525399129+numarticles0.16823785351704135+numsources0.17105263157894737+news_keywords+['convoy:0.4623', 'kyiv:0.4202', 'logistics:0.3553', 'war:0.3502', 'pentagon:0.3138', 'putin:0.3047', 'strategic:0.2627', 'forward:0.2323', 'roadblock:0.2244', 'tank:0.2098', 'apnews:0.1988', 'outcome:0.1977', 'long:0.1976', 'reassess:0.1976', 'kilometer:0.1928', 'overtake:0.187', 'western:0.1861', 'coverage:0.1813', 'muddy:0.1795', 'follow:0.1762', 'term:0.1674', 'focus:0.1617', 'anticipate:0.1509', 'segment:0.1436', 'addition:0.1259', 'http:0.12', 'prybisk:0.1039', 'ready:0.0995', 'possible:0.0905', 'does:0.0598']+titles_keywords+['explainer:0.4328', 'convoy:0.4081', 'ukraine:0.3981', 'stuck:0.3305', 'setback:0.2745']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/infotel.ca/Russia to stage massive nuclear drills amid Ukraine standoff.txt+eventbasecode72+eventcode72+avgtone0.4898148148148148+goldsteinscale0.915+nummentions0.08853410740203194+numarticles0.08919506889050036+numsources0.09868421052631579+news_keywords+['kremlin:0.4454', 'nato:0.4405', 'icbms:0.4121', 'ukraines:0.4076', 'nuclear:0.3658', 'invade:0.3438', 'peskov:0.3107', 'maneuver:0.3097', 'deploy:0.3083', 'prepare:0.2908', 'standoff:0.2822', 'plan:0.2556', 'threaten:0.2516', 'annex:0.2388', 'coincide:0.2273', 'drill:0.2231', 'exercise:0.2217', 'concern:0.2106', 'president:0.2101', 'supervise:0.1909', 'notify:0.1824', 'north:0.159', 'base:0.1558', 'ap:0.1484', 'continue:0.1466', 'thursday:0.1465', 'previous:0.1237', 'actually:0.0766', 'series:0.0698', 'shouldnt:0.0343']+titles_keywords+['ukraine:0.3177', 'nuclear:0.3156', 'drills:0.284', 'standoff:0.2291', 'stage:0.1303']"
+        ],
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/infotel.ca/Russians buy last goods from HM IKEA as stores wind down.txt+eventbasecode72+eventcode72+avgtone0.5024834437086093+goldsteinscale0.915+nummentions0.1955732946298984+numarticles0.19253081943437272+numsources0.20394736842105263+news_keywords+['russian:0.4605', 'minsk:0.4095', 'ikea:0.3804', 'business:0.336', 'sweden:0.2986', 'stock:0.2824', 'nestle:0.2594', 'furnishing:0.2534', 'make:0.2105', 'import:0.1989', 'leave:0.1777', 'president:0.1672', 'forward:0.1657', 'benefit:0.1638', 'saddened:0.1617', 'year:0.1547', 'example:0.1539', 'troop:0.1524', 'marks:0.1488', 'good:0.1488', 'kronor:0.1478', 'emerge:0.1419', 'million:0.134', 'shelve:0.1337', 'ap:0.1304', 'week:0.124', 'scale:0.1218', 'pause:0.1214', 'reopen:0.0931', 'oysho:0.0863']+titles_keywords+['ikea:0.5534', 'russians:0.3756', 'goods:0.2427', 'buy:0.2151', 'hm:0.137']"
+        ]
+    ]
+}

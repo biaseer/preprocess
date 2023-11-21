@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+111":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/iraqsun.com/UK will work to ensure sovereignty independence of Ukraine PM.txt+eventbasecode111+eventcode111+avgtone0.48214285714285715+goldsteinscale0.4+nummentions0.16545718432510886+numarticles0.1660623640319072+numsources0.14802631578947367+news_keywords+['ukraine:0.5163', 'putin:0.484', 'sanction:0.3126', 'independence:0.2756', 'negotiation:0.2726', 'zelenskyy:0.272', 'news:0.2432', 'flag:0.237', 'table:0.2246', 'sputnik:0.2229', 'isolate:0.1872', 'cite:0.1856', 'vtb:0.1793', 'downing:0.1746', 'sit:0.1701', 'friday:0.1691', 'support:0.1515', 'tweet:0.1479', 'long:0.1431', 'pledge:0.137', 'global:0.1356', 'let:0.1349', 'street:0.1319', 'statement:0.1165', 'pm:0.1082', 'freeze:0.1071', 'telephone:0.088', 'like:0.0766', 'ani:0.0615', 'restore:0.0307']+titles_keywords+['ukraine:0.4237', 'sovereignty:0.3631', 'independence:0.3362', 'work:0.1623', 'ensure:0.1342']"
+        ]
+    ],
+    "ISR+RUS+111":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/iraqsun.com/Israel Lashes Out at Russia Over Lavrovs Nazism Remarks.txt+eventbasecode111+eventcode111+avgtone0.45454545454545453+goldsteinscale0.4+nummentions0.4125544267053701+numarticles0.4129804205946338+numsources0.47039473684210525+news_keywords+['holocaust:0.5427', 'antisemitism:0.4602', 'kremlin:0.3881', 'israel:0.3689', 'ukrainians:0.3639', 'vashem:0.2963', 'lavrov:0.2809', 'manipulation:0.2646', 'justify:0.2549', 'narrative:0.2434', 'translation:0.2359', 'enemy:0.2221', 'inversion:0.2065', 'mediate:0.2048', 'trivialize:0.1876', 'president:0.1868', 'speak:0.1833', 'news:0.169', 'fight:0.1639', 'reach:0.1617', 'help:0.1589', 'propagate:0.1549', 'include:0.1434', 'lashes:0.1418', 'scandalous:0.13', 'remember:0.1221', 'look:0.1065', 'center:0.0891', 'yad:0.087', 'deal:0.0463']+titles_keywords+['israel:0.3601', 'lavrovs:0.3037', 'nazism:0.3008', 'lashes:0.1747', 'remarks:0.0931']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/iraqsun.com/Russia launches military strikes on Ukraine warns West to stay away.txt+eventbasecode111+eventcode111+avgtone0.47696245733788395+goldsteinscale0.4+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5822368421052632+news_keywords+['putin:0.4111', 'nato:0.4008', 'war:0.3799', 'militarize:0.3585', 'kyiv:0.3432', 'genocide:0.3401', 'escalation:0.3008', 'intervene:0.3002', 'diplomats:0.2768', 'unprovoked:0.2703', 'warn:0.2665', 'cyberattack:0.2373', 'respond:0.2355', 'agreement:0.2318', 'preside:0.2191', 'correspondent:0.2181', 'begin:0.1762', 'table:0.1737', 'information:0.1708', 'immediately:0.1662', 'word:0.1648', 'expect:0.1642', 'like:0.1446', 'short:0.1445', 'choose:0.144', 'voa:0.1413', 'follow:0.1313', 'state:0.1223', 'eastern:0.1216', 'pipeline:0.1113']+titles_keywords+['ukraine:0.3794', 'warns:0.2099', 'military:0.1762', 'strikes:0.1642', 'stay:0.1256']"
+        ]
+    ]
+}

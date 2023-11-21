@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220809+../news_crawling/RUS_UKR/p_articles/kelo.com/Ukraines nuclear chief warns of very high risks at occupied power plant.txt+eventbasecode20+eventcode20+avgtone0.48832271762208074+goldsteinscale0.65+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['nuclear:0.4801', 'kyiv:0.4073', 'russians:0.3174', 'safety:0.2981', 'occupy:0.2872', 'infrastructure:0.2756', 'peacekeepers:0.2485', 'polityuk:0.2457', 'warns:0.2425', 'plan:0.2232', 'grid:0.2204', 'reuters:0.2191', 'petro:0.2173', 'urgently:0.1986', 'control:0.1886', 'power:0.1837', 'renovate:0.1803', 'problem:0.1768', 'plant:0.1759', 'process:0.1659', 'shelling:0.137', 'want:0.1354', 'europes:0.1316', 'withdraw:0.1097', 'line:0.1058', 'season:0.0921', 'state:0.0882', 'kotin:0.088', 'head:0.0778', 'currently:0.0649']+titles_keywords+['nuclear:0.3824', 'ukraines:0.3173', 'risks:0.3123', 'warns:0.2748', 'chief:0.1456']"
+        ]
+    ],
+    "USA+RUS+20":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/kelo.com/Iowas Sen Ernst urges tossing Russia off the UN Security Council.txt+eventbasecode20+eventcode20+avgtone0.46774193548387094+goldsteinscale0.65+nummentions0.03011611030478955+numarticles0.030819434372733864+numsources0.04276315789473684+news_keywords+['putin:0.405', 'grassley:0.3145', 'abstain:0.2916', 'nationblocked:0.2781', 'invade:0.2693', 'councils:0.2556', 'world:0.252', 'ernst:0.2363', 'unprovoked:0.2141', 'iowas:0.2061', 'say:0.203', 'halt:0.1965', 'joni:0.1885', 'sen:0.1867', 'crony:0.1794', 'atrocity:0.1716', 'remove:0.163', 'idea:0.1612', 'north:0.1577', 'cramer:0.1456', 'veteran:0.1346', 'toss:0.1281', 'charade:0.1254', 'immediately:0.1242', 'right:0.1221', 'floor:0.1073', 'role:0.0996', 'current:0.082', 'week:0.0814', 'resolution:0.0782']+titles_keywords+['ernst:0.3424', 'iowas:0.2897', 'sen:0.2593', 'russia:0.2509', 'council:0.2069']"
+        ]
+    ]
+}

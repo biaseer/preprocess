@@ -1,0 +1,17 @@
+{
+    "DEU+RUS+111":[
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/politico.eu/Top German Social Democrats want Gerhard Schrder out of party.txt+eventbasecode111+eventcode111+avgtone0.4890282131661442+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['gerhard:0.4696', 'schrders:0.3755', 'putin:0.3752', 'democrats:0.3403', 'berlin:0.3321', 'chancellor:0.3067', 'spds:0.2796', 'party:0.2652', 'resign:0.2461', 'massacre:0.2331', 'denounce:0.2266', 'social:0.1932', 'hurdle:0.168', 'statute:0.168', 'proceeding:0.1678', 'position:0.1668', 'merely:0.165', 'member:0.159', 'culpa:0.1333', 'want:0.1304', 'say:0.1281', 'dirty:0.1234', 'notion:0.1217', 'energy:0.1158', 'saskia:0.1015', 'far:0.096', 'mntefering:0.0886', 'year:0.0877', 'accord:0.0557', 'doesnt:0.0004']+titles_keywords+['schrder:0.5398', 'democrats:0.2603', 'german:0.1962', 'social:0.174', 'want:0.0682']"
+        ]
+    ],
+    "EUR+UKR+111":[
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/politico.eu/Von der Leyen denounces Russian gas blackmail for stopping deliveries to Poland and Bulgaria.txt+eventbasecode111+eventcode111+avgtone0.4691119691119691+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4243', 'kremlin:0.3618', 'gas:0.3316', 'gazprom:0.3291', 'blackmail:0.3194', 'attack:0.2668', 'denounce:0.2413', 'der:0.2319', 'worry:0.2262', 'pgnig:0.2246', 'president:0.2181', 'statement:0.218', 'economic:0.215', 'response:0.2135', 'bloc:0.2111', 'supplier:0.1952', 'table:0.1951', 'prepare:0.193', 'term:0.1906', 'leyen:0.183', 'notify:0.1799', 'unreliability:0.1653', 'continue:0.1653', 'contingency:0.1586', 'coordinate:0.1557', 'month:0.1472', 'alternative:0.1372', 'ursula:0.1291', 'sixth:0.1264', 'mulling:0.0841']+titles_keywords+['gas:0.328', 'von:0.3121', 'blackmail:0.2916', 'bulgaria:0.2805', 'denounces:0.2455']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/politico.eu/Berlin Bulletin Kaiser Scholz Tanks no tanks Xinjiang Police Files.txt+eventbasecode111+eventcode111+avgtone0.4845360824742268+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['bundestag:0.4715', 'merkel:0.4126', 'xinjiang:0.4022', 'protectionism:0.3729', 'tohegemony:0.3505', 'historian:0.35', 'gdp:0.3386', 'russias:0.3385', 'politically:0.3241', 'european:0.3107', 'republic:0.3068', 'world:0.2703', 'scholz:0.2588', 'diversification:0.2413', 'pandemic:0.2359', 'scolding:0.2232', 'gazprom:0.2223', 'confidential:0.2098', 'allow:0.2062', 'news:0.2035', 'howitzer:0.1955', 'say:0.1876', 'watershed:0.177', 'significant:0.1706', 'prove:0.1697', 'example:0.1689', 'occupied:0.1597', 'aspeechat:0.1378', 'csu:0.1344', 'welcome:0.0695']+titles_keywords+['tanks:0.4141', 'xinjiang:0.3896', 'police:0.285', 'bulletin:0.2161', 'scholz:0.2032']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220125+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Biden issues warning to Putin over Russias new drills near Ukraine border.txt+eventbasecode154+eventcode154+avgtone0.47309941520467835+goldsteinscale0.13999999999999999+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.009868421052631578+news_keywords+['putin:0.4961', 'diplomacy:0.4551', 'nato:0.4544', 'russias:0.4007', 'kyiv:0.3412', 'invade:0.341', 'weaponize:0.3221', 'proceed:0.3014', 'pentagon:0.2931', 'veto:0.2839', 'consequence:0.2484', 'plan:0.2422', 'interdependency:0.2351', 'firing:0.2325', 'supply:0.2279', 'affaire:0.2265', 'reassess:0.2154', 'write:0.2094', 'separatist:0.2066', 'sophisticated:0.2002', 'counterpart:0.1954', 'posture:0.1801', 'winter:0.1697', 'additional:0.1486', 'measure:0.145', 'list:0.1351', 'export:0.1315', 'week:0.1264', 'possible:0.1038', 'agree:0.0729']+titles_keywords+['putin:0.3917', 'biden:0.3744', 'warning:0.2534', 'drills:0.1745', 'near:0.0865']"
+        ]
+    ],
+    "USA+UKR+154":[
+        [
+            "20211106+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Kremlin not expecting breakthroughs from BidenPutin talks.txt+eventbasecode154+eventcode154+avgtone0.4787985865724382+goldsteinscale0.13999999999999999+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kremlin:0.4612', 'putin:0.4596', 'crimea:0.4112', 'dmitry:0.3791', 'biden:0.2871', 'shortly:0.2486', 'border:0.2186', 'talk:0.196', 'news:0.1936', 'expect:0.1885', 'concerned:0.1876', 'secure:0.1775', 'troop:0.1737', 'separatist:0.1721', 'counterpart:0.1662', 'accusation:0.1583', 'plan:0.1558', 'breakthrough:0.1455', 'begin:0.1421', 'bilateral:0.1401', 'month:0.1349', 'relation:0.1296', 'range:0.1145', 'rise:0.0967', 'sad:0.0935', 'state:0.0898', 'send:0.0784', 'pro:0.0714', 'thousand:0.0231', 'accord:0.0105']+titles_keywords+['kremlin:0.4498', 'bidenputin:0.3866', 'breakthroughs:0.2528', 'expecting:0.2391', 'talks:0.1894']"
+        ]
+    ]
+}

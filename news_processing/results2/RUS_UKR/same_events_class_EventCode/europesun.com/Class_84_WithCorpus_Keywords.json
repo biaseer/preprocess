@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+84":[
+        [
+            "20220816+../news_crawling/RUS_UKR/p_articles/europesun.com/Zelensky reveals when men will be allowed to leave Ukraine.txt+eventbasecode84+eventcode84+avgtone0.4975429975429976+goldsteinscale0.85+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['kiev:0.4503', 'refugee:0.3405', 'zelensky:0.3343', 'military:0.3223', 'soviet:0.3138', 'verkhovna:0.2673', 'allow:0.2423', 'travel:0.2306', 'freedom:0.2162', 'leave:0.2036', 'law:0.1998', 'regime:0.1921', 'men:0.186', 'read:0.1802', 'emergency:0.1695', 'proceeding:0.1641', 'statement:0.1585', 'petition:0.153', 'unfit:0.1325', 'martial:0.1219', 'age:0.1209', 'extend:0.1151', 'send:0.1061', 'launch:0.1043', 'long:0.1013', 'carried:0.0885', 'limit:0.0776', 'day:0.0725', 'february:0.0681', 'resemble:0.0455']+titles_keywords+['zelensky:0.5478', 'ukraine:0.3317', 'men:0.2682', 'leave:0.1862', 'allowed:0.1085']"
+        ]
+    ],
+    "USA+RUS+84":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/europesun.com/Disney to pause theatrical releases in Russia.txt+eventbasecode84+eventcode84+avgtone0.4727272727272727+goldsteinscale0.85+nummentions0.3011611030478955+numarticles0.2922407541696882+numsources0.26644736842105265+news_keywords+['russia:0.421', 'pixar:0.3953', 'refugee:0.3317', 'crisis:0.3096', 'premiere:0.2881', 'pause:0.2843', 'hollywood:0.2625', 'invasion:0.2603', 'march:0.2404', 'release:0.2301', 'action:0.2295', 'future:0.227', 'theatrical:0.2168', 'interfere:0.2016', 'report:0.1968', 'military:0.186', 'turning:0.1842', 'red:0.1783', 'president:0.1568', 'unprovoked:0.1478', 'read:0.1193', 'aid:0.1186', 'statement:0.1157', 'decide:0.1088', 'ani:0.0958', 'set:0.0884', 'make:0.0727', 'previously:0.0635', 'scale:0.0555', 'partner:0.051']+titles_keywords+['disney:0.4517', 'russia:0.3032', 'pause:0.2503', 'releases:0.2022', 'theatrical:0.1821']"
+        ]
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "CHN+RUS+10":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/politico.eu/China Direct April fools summit Lavrov in China UK judges coming home.txt+eventbasecode10+eventcode10+avgtone0.4966338684619368+goldsteinscale0.5+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['diplomacy:0.4494', 'politburo:0.4171', 'putin:0.4122', 'nato:0.3851', 'ukraines:0.3748', 'sanction:0.3125', 'gchq:0.2973', 'correspondent:0.2797', 'hong:0.2721', 'internment:0.2679', 'crisis:0.2356', 'conference:0.2346', 'jinping:0.2331', 'xi:0.2218', 'capital:0.1946', 'fool:0.192', 'read:0.1861', 'upcoming:0.184', 'anonymity:0.1757', 'nuanced:0.1756', 'dovish:0.1743', 'long:0.1674', 'direction:0.1662', 'continue:0.1616', 'circumvent:0.1585', 'list:0.152', 'year:0.1485', 'point:0.1448', 'relation:0.135', 'doesnt:0.0618']+titles_keywords+['lavrov:0.3757', 'china:0.2884', 'judges:0.2811', 'coming:0.1828', 'direct:0.1732']"
+        ]
+    ],
+    "EUR+UKR+10":[
+        [
+            "20220511+../news_crawling/RUS_UKR/p_articles/politico.eu/EU plans to help Ukraines food exports dodge Black Sea blockade.txt+eventbasecode10+eventcode10+avgtone0.4831271091113611+goldsteinscale0.5+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4546', 'blockade:0.3658', 'propaganda:0.3356', 'war:0.3247', 'agribusiness:0.3091', 'shortage:0.2816', 'railways:0.2725', 'expand:0.255', 'diplomat:0.2477', 'crisis:0.2352', 'zelenskyy:0.2337', 'logistical:0.2337', 'bloc:0.2333', 'border:0.2227', 'feed:0.2218', 'feasibility:0.2198', 'plan:0.215', 'advantage:0.2119', 'help:0.2109', 'counterbalance:0.2082', 'know:0.1951', 'make:0.1864', 'explain:0.183', 'turn:0.1725', 'fuse:0.1613', 'exporter:0.1546', 'long:0.1525', 'dependent:0.1438', 'steal:0.1374', 'janusz:0.1258']+titles_keywords+['ukraines:0.3781', 'blockade:0.3507', 'exports:0.2191', 'food:0.1893', 'help:0.1221']"
+        ]
+    ],
+    "RUS+GBR+10":[
+        [
+            "20220210+../news_crawling/RUS_UKR/p_articles/politico.eu/Liz Truss Russia told UK it has no plans to invade Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4766536964980545+goldsteinscale0.5+nummentions0.1055878084179971+numarticles0.1062364031907179+numsources0.24013157894736842+news_keywords+['ukraine:0.4657', 'invade:0.4177', 'nato:0.4125', 'kremlin:0.4023', 'diplomatic:0.3469', 'warfare:0.3269', 'sergey:0.313', 'destabilize:0.2953', 'threat:0.2808', 'territory:0.2586', 'pursue:0.2533', 'troop:0.2351', 'democracy:0.2275', 'border:0.2021', 'plan:0.1729', 'campaign:0.1646', 'meet:0.1526', 'counterpart:0.1477', 'insist:0.1469', 'press:0.1441', 'end:0.1317', 'truss:0.1241', 'follow:0.1158', 'thursday:0.1131', 'liz:0.096', 'regrettable:0.0872', 'hybrid:0.0825', 'severe:0.0748', 'apart:0.0587', 'received:0.0472']+titles_keywords+['ukraine:0.4246', 'invade:0.2549', 'liz:0.1901', 'truss:0.1879', 'told:0.0548']"
+        ]
+    ],
+    "RUS+RUS+10":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/politico.eu/What if Putin attacks NATO next.txt+eventbasecode10+eventcode10+avgtone0.4920454545454545+goldsteinscale0.5+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['natos:0.5515', 'putins:0.3866', 'vladimir:0.3727', 'ukraine:0.3696', 'militarily:0.3499', 'attack:0.3016', 'treaty:0.2908', 'strategic:0.2593', 'countermeasure:0.1898', 'remind:0.1743', 'border:0.1731', 'adviser:0.1554', 'enlargement:0.1496', 'intend:0.1412', 'plug:0.1406', 'draft:0.1109', 'midterm:0.1084', 'priority:0.1035', 'studies:0.0996', 'state:0.0951', 'unity:0.091', 'make:0.0873', 'possibility:0.0854', 'deep:0.0834', 'track:0.078', 'recherche:0.0437', 'quasi:0.0428', 'decade:0.0385', 'rotational:0.0359', 'nonbinding:0.0205']+titles_keywords+['nato:0.5571', 'putin:0.4683', 'attacks:0.2803']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/politico.eu/The go fuck yourself Ukrainian soldiers on Snake Island are alive navy says.txt+eventbasecode10+eventcode10+avgtone0.4840182648401827+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['island:0.4352', 'snake:0.3757', 'ukraines:0.3704', 'russian:0.3351', 'zelenskyy:0.3164', 'military:0.2881', 'volodymyr:0.2877', 'kill:0.2736', 'territorial:0.2703', 'warship:0.2686', 'defiance:0.2455', 'shelling:0.212', 'infrastructure:0.201', 'know:0.1979', 'alive:0.1903', 'strategically:0.1819', 'itssouthernmost:0.1807', 'telegram:0.1595', 'happy:0.1523', 'aid:0.152', 'monday:0.1482', 'learn:0.1471', 'video:0.1468', 'black:0.1366', 'antenna:0.1343', 'deliver:0.1177', 'water:0.1118', 'attempt:0.1095', 'come:0.1003', 'include:0.0661']+titles_keywords+['soldiers:0.4176', 'ukrainian:0.3531', 'island:0.3115', 'snake:0.3115', 'alive:0.3015']"
+        ],
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/politico.eu/Brussels Playbook Summit prep Energy debate at boiling point Kyiv calls for more.txt+eventbasecode10+eventcode10+avgtone0.48992355802640725+goldsteinscale0.5+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['ukraine:0.4636', 'brexit:0.4425', 'annualpolitico:0.4256', 'nato:0.4255', 'opec:0.3766', 'embargo:0.3756', 'diplomacy:0.3723', 'euco:0.3654', 'legislation:0.3288', 'briefing:0.3133', 'steinmeier:0.3129', 'visa:0.2927', 'input:0.2544', 'debate:0.2518', 'pipeline:0.25', 'plenary:0.2476', 'agreement:0.2443', 'table:0.243', 'sector:0.2348', 'yves:0.1932', 'begins:0.1878', 'potential:0.1864', 'farmers:0.1808', 'adapt:0.1655', 'remind:0.1653', 'gijs:0.1502', 'exporting:0.1497', 'snchez:0.1417', 'longer:0.1358', 'becausethis:0.1135']+titles_keywords+['kyiv:0.3938', 'energy:0.2941', 'debate:0.2651', 'summit:0.2297', 'playbook:0.2223']"
+        ]
+    ]
+}

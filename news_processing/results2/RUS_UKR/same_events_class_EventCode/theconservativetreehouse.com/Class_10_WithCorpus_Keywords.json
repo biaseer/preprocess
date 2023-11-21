@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/theconservativetreehouse.com/March 5th 2022 Presidential Politics Resistance Day 410.txt+eventbasecode10+eventcode10+avgtone0.49696969696969695+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['propaganda:0.4429', 'leftist:0.3925', 'trump:0.3798', 'russiagate:0.3721', 'ukrainian:0.3628', 'correspondent:0.3551', 'regime:0.3482', 'subversive:0.3428', 'march:0.3357', 'alinsky:0.3219', 'protestors:0.3154', 'obamabiden:0.3011', 'subject:0.2797', 'xenophobia:0.2755', 'veteranstoday:0.2719', 'capital:0.2615', 'hear:0.2607', 'msm:0.2579', 'fool:0.2575', 'word:0.2565', 'hypos:0.2471', 'realize:0.2436', 'like:0.2295', 'list:0.2276', 'end:0.2251', 'hedge:0.2157', 'flush:0.1952', 'replace:0.1818', 'compare:0.1692', 'hyperimmune:0.1588']+titles_keywords+['presidential:0.4328', 'march:0.4002', '2022:0.393', '410:0.3795', 'resistance:0.2495']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/theconservativetreehouse.com/Col Douglas Macgregor Gives His Updated Opinion on Current Status of UkraineRussia Conflict.txt+eventbasecode10+eventcode10+avgtone0.5+goldsteinscale0.5+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.003289473684210526+news_keywords+['geopolitically:0.4616', 'nato:0.4227', 'ukrainian:0.4066', 'war:0.3628', 'putins:0.3524', 'hegemony:0.3502', 'neocon:0.3151', 'propaganda:0.298', 'nazify:0.2838', 'scope:0.2506', 'administration:0.2326', 'world:0.2271', 'escalates:0.2179', 'turn:0.2123', 'mess:0.2098', 'read:0.2089', 'soon:0.2024', 'end:0.2007', 'realize:0.1925', 'crap:0.1916', 'rational:0.1881', 'cth:0.1785', 'idea:0.1635', 'compare:0.161', 'want:0.1591', 'transcript:0.1555', 'isnt:0.1483', 'entirely:0.1459', 'current:0.1426', 'sure:0.1416']+titles_keywords+['macgregor:0.3742', 'ukrainerussia:0.294', 'conflict:0.2808', 'updated:0.2084', 'col:0.1643']"
+        ]
+    ]
+}

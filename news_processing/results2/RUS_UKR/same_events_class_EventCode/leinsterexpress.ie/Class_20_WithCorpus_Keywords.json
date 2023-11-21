@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/leinsterexpress.ie/Ukrainians gather outside Dil in anger at Russian invasion.txt+eventbasecode20+eventcode20+avgtone0.4782608695652174+goldsteinscale0.65+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.03289473684210526+news_keywords+['ukrainians:0.4561', 'putin:0.3908', 'dublin:0.341', 'invasion:0.326', 'protester:0.3222', 'oireachtas:0.2969', 'attack:0.2883', 'flag:0.2276', 'crisis:0.217', 'flanagan:0.21', 'gather:0.2091', 'visa:0.195', 'waved:0.1881', 'parliament:0.1745', 'news:0.1618', 'thursday:0.1607', 'enter:0.136', 'live:0.1281', 'red:0.127', 'varadkar:0.1189', 'dil:0.1151', 'expression:0.1129', 'dozens:0.1094', 'outside:0.1093', 'leo:0.1085', 'family:0.1068', 'need:0.1056', 'world:0.0757', 'include:0.0696', 'scale:0.0479']+titles_keywords+['ukrainians:0.4916', 'invasion:0.3527', 'anger:0.2847', 'gather:0.2273', 'dil:0.1983']"
+        ]
+    ],
+    "RUS+USA+20":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/leinsterexpress.ie/Biden and Putin hold tense call amid Ukraine crisis.txt+eventbasecode20+eventcode20+avgtone0.48326359832635984+goldsteinscale0.65+nummentions0.27322206095791+numarticles0.2737490935460479+numsources0.4506578947368421+news_keywords+['putin:0.4841', 'natos:0.4522', 'crimea:0.4393', 'invade:0.3734', 'provocations:0.3262', 'political:0.2845', 'crisis:0.2698', 'annex:0.2618', 'warn:0.2559', 'misinformation:0.2527', 'skirmish:0.2426', 'peace:0.2392', 'plan:0.2372', 'administration:0.2323', 'separatist:0.2284', 'meet:0.2066', 'order:0.1988', 'telephone:0.1971', 'transatlantic:0.1937', 'bidens:0.1791', 'ready:0.1734', 'volodymyr:0.1701', 'saturday:0.169', 'winter:0.1687', 'pull:0.163', 'counterpart:0.1597', 'end:0.1589', 'short:0.1577', 'hour:0.1471', 'possibility:0.1092']+titles_keywords+['biden:0.4053', 'putin:0.3738', 'ukraine:0.2927', 'hold:0.1925', 'crisis:0.1706']"
+        ]
+    ]
+}

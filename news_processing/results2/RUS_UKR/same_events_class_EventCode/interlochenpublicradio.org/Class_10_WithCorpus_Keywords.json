@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+10":[
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/interlochenpublicradio.org/RussiaUkraine war What happened today June 30.txt+eventbasecode10+eventcode10+avgtone0.4794372294372294+goldsteinscale0.5+nummentions0.23439767779390422+numarticles0.23495286439448876+numsources0.21052631578947367+news_keywords+['ukraine:0.5388', 'russiaukraine:0.5259', 'kremlin:0.4837', 'nato:0.4168', 'war:0.3846', 'embassies:0.3382', 'separatist:0.2764', 'border:0.2407', 'sanction:0.2387', 'evacuate:0.2346', 'recap:0.2224', 'read:0.2025', 'strategic:0.2017', 'report:0.1907', 'npr:0.1864', 'closure:0.1838', 'update:0.174', 'thursday:0.1712', 'long:0.1558', 'happen:0.1513', 'organization:0.148', 'biden:0.1379', 'speaking:0.1377', 'end:0.136', 'grade:0.1294', 'tie:0.1283', 'complies:0.1069', 'new:0.0937', 'hundreds:0.0868', 'coverage:0.0822']+titles_keywords+['russiaukraine:0.4814', 'war:0.4249', 'june:0.3017', 'today:0.3012', 'happened:0.2627']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220202+../news_crawling/RUS_UKR/p_articles/interlochenpublicradio.org/10 books to read about Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4878444084278769+goldsteinscale0.5+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.023026315789473683+news_keywords+['ukraine:0.52', 'nationalist:0.3363', 'ethnographic:0.3317', 'journalist:0.3225', 'chernobyl:0.3114', 'revolution:0.3082', 'stalin:0.3001', 'read:0.2884', 'historically:0.2541', 'ostashevsky:0.2482', 'information:0.2424', 'occupy:0.2423', 'chronicle:0.2414', 'translate:0.2393', 'obits:0.2375', 'document:0.2366', 'kramers:0.2207', 'capital:0.2156', 'people:0.2141', 'list:0.2078', 'relationship:0.1908', 'misha:0.1718', 'like:0.1478', 'th:0.1436', 'serf:0.1382', 'cover:0.1297', 'idea:0.1294', 'grow:0.1182', 'month:0.1158', 'stock:0.1008']+titles_keywords+['ukraine:0.5367', 'books:0.3702', 'read:0.2294', '10:0.0577']"
+        ]
+    ]
+}

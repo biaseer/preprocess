@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/wwltv.com/As Mariupol hangs on the full extent of the horror is not yet known.txt+eventbasecode80+eventcode80+avgtone0.47070707070707074+goldsteinscale0.75+nummentions0.18142235123367198+numarticles0.18056562726613487+numsources0.45394736842105265+news_keywords+['kyiv:0.504', 'kremlin:0.4453', 'chernobyl:0.3625', 'war:0.3229', 'decommission:0.3126', 'azov:0.2901', 'emergency:0.2505', 'know:0.232', 'intensify:0.2174', 'populated:0.2149', 'maria:0.2104', 'report:0.2097', 'journalist:0.2093', 'tank:0.2002', 'massive:0.1977', 'remain:0.1931', 'curfew:0.193', 'mariupols:0.1917', 'worrying:0.1845', 'turn:0.1812', 'ap:0.1809', 'kilometer:0.1804', 'anonymity:0.1726', 'long:0.1664', 'western:0.1664', 'nearly:0.1597', 'estimates:0.159', 'neutral:0.1561', 'way:0.1221', 'building:0.1162']+titles_keywords+['mariupol:0.5102', 'horror:0.404', 'hangs:0.2871', 'extent:0.1904', 'known:0.1548']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/wwltv.com/Most of the world lines up against Moscow but attacks intensify.txt+eventbasecode80+eventcode80+avgtone0.4666454891994918+goldsteinscale0.75+nummentions0.36792452830188677+numarticles0.36838288614938364+numsources0.5460526315789473+news_keywords+['kremlin:0.5252', 'kyiv:0.4801', 'russias:0.4403', 'chernobyl:0.3499', 'syria:0.3382', 'invading:0.3249', 'sinehubov:0.3087', 'rhetoric:0.253', 'strategic:0.2504', 'decommission:0.2469', 'military:0.2412', 'news:0.2405', 'intensify:0.2337', 'flee:0.2293', 'sanction:0.2241', 'prepare:0.2234', 'remind:0.2009', 'president:0.2004', 'fight:0.1996', 'concern:0.1984', 'railway:0.1936', 'continue:0.1793', 'boy:0.1792', 'immediate:0.1661', 'disclose:0.1618', 'yar:0.1445', 'reach:0.1295', 'plant:0.1284', 'nearly:0.1262', 'thousands:0.0941']+titles_keywords+['moscow:0.4912', 'attacks:0.3589', 'intensify:0.1662', 'lines:0.1649', 'world:0.1347']"
+        ]
+    ]
+}

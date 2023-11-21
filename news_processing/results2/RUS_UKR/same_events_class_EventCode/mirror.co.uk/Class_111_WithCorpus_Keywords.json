@@ -1,0 +1,25 @@
+{
+    "RUS+GBR+111":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Vladimir Putin orders peacemaking Russian troops into Ukraine after announcement.txt+eventbasecode111+eventcode111+avgtone0.47601476014760147+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4993', 'ukraine:0.4787', 'nato:0.3975', 'peacemaking:0.3804', 'separatist:0.3477', 'donetsk:0.3449', 'sovereignty:0.2961', 'erupt:0.2785', 'sanction:0.2685', 'agreement:0.2522', 'justify:0.2449', 'union:0.2395', 'crisis:0.2332', 'skirmish:0.2287', 'order:0.2039', 'announcement:0.2019', 'destroy:0.1977', 'respond:0.1864', 'write:0.1683', 'state:0.1651', 'increasing:0.1564', 'pretext:0.1474', 'inextricably:0.1463', 'recognise:0.1449', 'long:0.1427', 'plan:0.1414', 'current:0.1362', 'come:0.1342', 'tomorrow:0.1158', 'dark:0.086']+titles_keywords+['putin:0.3961', 'ukraine:0.3782', 'peacemaking:0.287', 'troops:0.2252', 'orders:0.1686']"
+        ]
+    ],
+    "RUS+RUS+111":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Sobbing Russian soldiers slam Putin for killing children in Ukraine invasion.txt+eventbasecode111+eventcode111+avgtone0.4633458646616541+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['putin:0.4777', 'ukrainian:0.4621', 'donetsk:0.3893', 'evacuate:0.361', 'humanitarian:0.3281', 'hostage:0.3275', 'invasion:0.304', 'military:0.2721', 'news:0.2612', 'besiege:0.2612', 'report:0.2437', 'bomb:0.2421', 'galkin:0.2315', 'fight:0.231', 'telegram:0.2257', 'horrific:0.2225', 'child:0.2151', 'write:0.2131', 'want:0.2074', 'continue:0.2074', 'street:0.2058', 'rag:0.2039', 'shot:0.203', 'reach:0.1981', 'pavlo:0.1882', 'analysis:0.1758', 'rise:0.156', 'unable:0.1511', 'apologise:0.1391', 'mr:0.1334']+titles_keywords+['putin:0.4359', 'children:0.3323', 'sobbing:0.2984', 'invasion:0.2454', 'killing:0.2243']"
+        ],
+        [
+            "20220822+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Vladimir Putin is a clown and has been outplayed by Ukraine blasts former ally.txt+eventbasecode111+eventcode111+avgtone0.47392923649906893+goldsteinscale0.4+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['putin:0.5525', 'kyiv:0.446', 'igor:0.4338', 'zelensky:0.3569', 'clown:0.3408', 'nato:0.3375', 'propaganda:0.3321', 'annexation:0.306', 'truce:0.2935', 'separatist:0.2602', 'know:0.249', 'frontline:0.2341', 'rt:0.2187', 'tank:0.2113', 'girkin:0.2074', 'execution:0.205', 'donbas:0.2008', 'flinch:0.2004', 'ally:0.2', 'general:0.1988', 'achieve:0.1895', 'previous:0.181', 'confidently:0.175', 'biathlons:0.1694', 'shoigu:0.1633', 'outplayed:0.161', 'month:0.146', 'unlike:0.1401', 'label:0.129', 'nom:0.0828']+titles_keywords+['putin:0.5809', 'clown:0.4359', 'ukraine:0.4314', 'outplayed:0.2666', 'ally:0.1847']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Queens secret nuclear escape plan Operation Candid in event of a bomb revealed.txt+eventbasecode111+eventcode111+avgtone0.4768856447688565+goldsteinscale0.4+nummentions0.04354136429608128+numarticles0.04423495286439449+numsources0.06578947368421052+news_keywords+['britannia:0.3173', 'whitehall:0.2955', 'putin:0.2698', 'privy:0.2693', 'scenario:0.2544', 'reveals:0.2412', 'royal:0.2398', 'plan:0.2257', 'document:0.2207', 'accordance:0.2137', 'interfere:0.2035', 'appoint:0.1998', 'intelligence:0.1991', 'decommission:0.1981', 'orchestrate:0.1933', 'bomb:0.1897', 'historical:0.189', 'tensions:0.1804', 'secure:0.1653', 'military:0.1645', 'flee:0.1541', 'morning:0.1403', 'end:0.1402', 'like:0.1295', 'include:0.1284', 'roll:0.121', 'devise:0.1124', 'current:0.1073', 'potentially:0.1059', 'major:0.0822']+titles_keywords+['nuclear:0.4674', 'plan:0.4027', 'secret:0.3616', 'escape:0.3208', 'queens:0.2924']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/George Bush blasts Vladimir Putins brutal IRAQ invasion in excruciating gaffe.txt+eventbasecode111+eventcode111+avgtone0.46511627906976744+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.5369', 'ukrainian:0.4252', 'iraq:0.3708', 'electoral:0.3551', 'invasion:0.3265', 'conflict:0.3145', 'bushs:0.3068', 'gaffe:0.285', 'nation:0.2545', 'result:0.2501', 'compare:0.2424', 'legitimacy:0.2225', 'kill:0.2166', 'behave:0.2165', 'participate:0.2015', 'audience:0.1977', 'speak:0.1905', 'volodymyr:0.1896', 'like:0.1791', 'twitter:0.1666', 'view:0.1549', 'displace:0.1542', 'weapon:0.1529', 'head:0.1375', 'correct:0.1346', 'night:0.1203', 'associate:0.108', 'month:0.1014', 'importance:0.0987', 'prolonged:0.0935']+titles_keywords+['putins:0.409', 'gaffe:0.3986', 'bush:0.3874', 'invasion:0.3216', 'brutal:0.1815']"
+        ]
+    ]
+}

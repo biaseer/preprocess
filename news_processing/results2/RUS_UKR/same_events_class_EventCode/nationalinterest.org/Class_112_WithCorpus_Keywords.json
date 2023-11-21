@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20211203+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/Russias EverShifting Red Lines in Ukraine.txt+eventbasecode112+eventcode112+avgtone0.4864864864864865+goldsteinscale0.4+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.05263157894736842+news_keywords+['crimea:0.4539', 'nato:0.4404', 'kremlin:0.4223', 'appeasement:0.2919', 'medvedev:0.2569', 'separatist:0.23', 'conflict:0.2258', 'prepare:0.1904', 'shift:0.19', 'future:0.1895', 'introduce:0.1887', 'rhetoric:0.1777', 'long:0.1739', 'table:0.1682', 'concerned:0.1596', 'lines:0.1518', 'follow:0.1511', 'explain:0.1503', 'avoid:0.1485', 'reaffirm:0.1405', 'enhance:0.1392', 'bold:0.1326', 'drill:0.1314', 'integration:0.1303', 'postdoctoral:0.1297', 'step:0.1278', 'initialingofukraines:0.1259', 'true:0.0673', 'price:0.0642', 'twice:0.0393']+titles_keywords+['ukraine:0.5092', 'russias:0.466', 'lines:0.3626', 'red:0.2826', 'evershifting:0.0757']"
+        ],
+        [
+            "20211229+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/Tanks for Nothing Will Russia Go to War.txt+eventbasecode112+eventcode112+avgtone0.49137931034482757+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['nato:0.4776', 'russias:0.4108', 'moscow:0.4103', 'tank:0.4078', 'vehicle:0.3359', 'specification:0.273', 'modernize:0.2583', 'reactive:0.2469', 'range:0.241', 'armor:0.2392', 'mbt:0.2363', 'update:0.2095', 'import:0.2035', 'reliktexplosive:0.1893', 'thousandmodels:0.1856', 'variant:0.1839', 'conflict:0.1773', 'stage:0.1701', 'corporationrostec:0.1695', 'decade:0.1681', 'aroundsixtykilometers:0.1672', 'new:0.1584', 'donbass:0.1565', 'report:0.1546', 'tense:0.1544', 'imaging:0.1473', 'age:0.1418', 'agreementearlier:0.1283', 'upwards:0.1149', 'major:0.0928']+titles_keywords+['tanks:0.4878', 'russia:0.3912', 'war:0.3428']"
+        ]
+    ],
+    "USA+RUS+112":[
+        [
+            "20220723+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/Will JudeoChristian Values Save us from Armageddon.txt+eventbasecode112+eventcode112+avgtone0.48286802030456855+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['judeochristian:0.4356', 'neocon:0.4063', 'armageddon:0.4039', 'hegemony:0.3845', 'politics:0.3558', 'socialist:0.3497', 'revolution:0.3124', 'vladimir:0.3036', 'russias:0.2997', 'donald:0.2995', 'chomsky:0.2857', 'commandments:0.2357', 'globe:0.2226', 'correspond:0.2197', 'values:0.2186', 'avoid:0.2154', 'quote:0.2068', 'direction:0.202', 'unprovoked:0.193', 'convert:0.1872', 'continue:0.1871', 'idea:0.183', 'universal:0.183', 'know:0.1495', 'someday:0.1431', 'list:0.1407', 'inherit:0.136', 'nearly:0.1341', 'gallup:0.1278', 'ready:0.1069']+titles_keywords+['judeochristian:0.5045', 'armageddon:0.4656', 'values:0.2144', 'save:0.1792']"
+        ]
+    ]
+}

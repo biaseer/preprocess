@@ -1,0 +1,12 @@
+{
+    "RUS+FRA+831":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Ukraine to confront Russia at International Court of Justice on Monday.txt+eventbasecode83+eventcode831+avgtone0.4777227722772277+goldsteinscale0.75+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['crimea:0.478', 'treaty:0.451', 'genocide:0.4011', 'putin:0.3707', 'jurisdiction:0.3586', 'embassy:0.3349', 'hague:0.3217', 'dispute:0.272', 'lawful:0.2255', 'icj:0.2126', 'procedure:0.2126', 'emergency:0.2079', 'confront:0.1991', 'justify:0.1864', 'gmt:0.1696', 'subject:0.1623', 'military:0.1621', 'forum:0.1557', 'present:0.1295', 'hear:0.1288', 'suit:0.127', 'order:0.1253', 'interpretation:0.1234', 'reach:0.1039', 'look:0.0996', 'track:0.0971', 'prevent:0.0952', 'basis:0.0752', 'way:0.0731', 'pellet:0.0383']+titles_keywords+['ukraine:0.447', 'confront:0.23', 'court:0.191', 'international:0.1613', 'monday:0.1357']"
+        ]
+    ],
+    "UKR+RUS+831":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Jharkhand CM Hemant Soren sends Amit Shah list of those stranded in Ukraine.txt+eventbasecode83+eventcode831+avgtone0.47520661157024796+goldsteinscale0.75+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['jharkhand:0.4917', 'ukraine:0.403', 'evacuate:0.3661', 'shah:0.3332', 'dispatch:0.3192', 'indians:0.3102', 'crisis:0.2892', 'government:0.2628', 'departmental:0.2393', 'coordinate:0.237', 'report:0.2364', 'returnees:0.2322', 'hemant:0.2259', 'tension:0.2242', 'blunder:0.2089', 'information:0.1986', 'telephone:0.1788', 'send:0.1737', 'prepared:0.1631', 'increase:0.1584', 'weather:0.1568', 'till:0.1518', 'course:0.1448', 'turn:0.1427', 'manage:0.1406', 'cm:0.1273', 'believe:0.1266', 'possible:0.1165', 'woe:0.1063', 'include:0.0792']+titles_keywords+['soren:0.4262', 'shah:0.3844', 'ukraine:0.3264', 'stranded:0.2621', 'list:0.2241']"
+        ]
+    ]
+}

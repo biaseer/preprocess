@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+30":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/news.am/Moscow and Kyiv agree on new round of talks.txt+eventbasecode30+eventcode30+avgtone0.5098522167487685+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.4651', 'meeting:0.4026', 'talk:0.3353', 'delegation:0.304', 'negotiator:0.2883', 'slutsky:0.2759', 'medinsky:0.2626', 'agenda:0.2459', 'leonid:0.2406', 'news:0.2255', 'duma:0.2232', 'round:0.2226', 'result:0.2082', 'continue:0.208', 'listen:0.2032', 'participate:0.1865', 'gomel:0.1806', 'report:0.1798', 'presidential:0.1736', 'hold:0.1721', 'hour:0.1718', 'ready:0.1511', 'predict:0.1421', 'issue:0.1358', 'head:0.1348', 'point:0.1308', 'international:0.1286', 'possible:0.0937', 'agree:0.0926', 'state:0.0905']+titles_keywords+['kyiv:0.4839', 'talks:0.23', 'round:0.1564', 'agree:0.0662', 'new:0.0292']"
+        ]
+    ],
+    "UKR+RUS+30":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/news.am/Zelenskyy Ukraine should have collective security treaty with its neighbors.txt+eventbasecode30+eventcode30+avgtone0.5019230769230769+goldsteinscale0.7+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.013157894736842105+news_keywords+['crimea:0.5396', 'putin:0.4152', 'nato:0.3831', 'treaty:0.378', 'ukrainian:0.3771', 'zelenskyy:0.3534', 'revolution:0.2068', 'speak:0.2022', 'capitulate:0.1921', 'remark:0.1833', 'future:0.1738', 'state:0.1653', 'issue:0.1619', 'elect:0.1588', 'ready:0.1327', 'recognize:0.1312', 'neighbor:0.1286', 'think:0.1286', 'message:0.1274', 'smart:0.1222', 'lead:0.1161', 'publish:0.1136', 'satisfied:0.112', 'decision:0.1114', 'cause:0.1067', 'donbas:0.1014', 'people:0.0929', 'world:0.0921', 'start:0.0705', 'direct:0.0386']+titles_keywords+['ukraine:0.5041', 'zelenskyy:0.4864', 'treaty:0.4511', 'security:0.2568', 'neighbors:0.1899']"
+        ]
+    ]
+}

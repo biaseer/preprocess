@@ -1,0 +1,17 @@
+{
+    "DEU+UKR+51":[
+        [
+            "20220617+../news_crawling/RUS_UKR/p_articles/ansa.it/European leaders visit Ukraine in show of support.txt+eventbasecode51+eventcode51+avgtone0.5067114093959731+goldsteinscale0.67+nummentions0.011611030478955007+numarticles0.011602610587382161+numsources0.009868421052631578+news_keywords+['ukraine:0.4404', 'leader:0.2672', 'visit:0.2619', 'european:0.2463', 'support:0.1996']+titles_keywords+['ukraine:0.4195', 'leaders:0.2444', 'visit:0.2272', 'european:0.2125', 'support:0.1644']"
+        ]
+    ],
+    "ITA+RUS+51":[
+        [
+            "20220620+../news_crawling/RUS_UKR/p_articles/ansa.it/Ukraine Zelensky thanks Italy Rome shd be among guarantors16.txt+eventbasecode51+eventcode51+avgtone0.5046296296296297+goldsteinscale0.67+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['zelensky:0.5114', 'italy:0.4477', 'ukraine:0.4207', 'rome:0.3975', 'guarantor:0.3248', 'shd:0.1826', 'thanks:0.0642']+titles_keywords+['italy:0.5328', 'zelensky:0.4638', 'guarantors16:0.4021', 'shd:0.136', 'thanks:0.0961']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220624+../news_crawling/RUS_UKR/p_articles/ansa.it/Italian pressing for July summit on gasprice cap.txt+eventbasecode51+eventcode51+avgtone0.4870967741935484+goldsteinscale0.67+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.003289473684210526+news_keywords+['summit:0.3425', 'italian:0.3325', 'gasprice:0.3275', 'july:0.2717', 'cap:0.2701', 'press:0.1643']+titles_keywords+['gasprice:0.3661', 'italian:0.3534', 'summit:0.3391', 'pressing:0.2742', 'july:0.2438']"
+        ]
+    ]
+}

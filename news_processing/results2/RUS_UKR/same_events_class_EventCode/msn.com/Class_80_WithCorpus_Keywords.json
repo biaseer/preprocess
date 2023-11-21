@@ -1,0 +1,57 @@
+{
+    "EUR+RUS+80":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/msn.com/European leaders agree to partial embargo on Russian oil imports in latest round of sanctions.txt+eventbasecode80+eventcode80+avgtone0.4827981651376147+goldsteinscale0.75+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.009868421052631578+news_keywords+['ukraine:0.4474', 'putin:0.4122', 'embargo:0.3994', 'oil:0.3894', 'eu:0.3584', 'macron:0.2712', 'pipeline:0.2332', 'zelenskyy:0.2116', 'viktor:0.2046', 'concern:0.1735', 'strategic:0.1729', 'turn:0.158', 'source:0.1566', 'march:0.1506', 'week:0.1331', 'accord:0.1298', 'end:0.1282', 'deal:0.1261', 'course:0.1237', 'prime:0.1223', 'cut:0.1159', 'increase:0.0922', 'visit:0.0842', 'launch:0.0752', 'say:0.0729', 'bank:0.071', 'welcome:0.0648', 'partially:0.0585', 'huge:0.0508', 'individual:0.0462']+titles_keywords+['embargo:0.3799', 'oil:0.2501', 'russian:0.2154', 'partial:0.1438', 'agree:-0.0153']"
+        ]
+    ],
+    "RUS+DEU+80":[
+        []
+    ],
+    "RUS+RUS+80":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/msn.com/Dmitry Peskov Putin spokesman refuses to rule out use of nuclear weapons if Russia faced.txt+eventbasecode80+eventcode80+avgtone0.4845605700712589+goldsteinscale0.75+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.023026315789473683+news_keywords+['putin:0.5255', 'crimea:0.4048', 'peskov:0.3899', 'nato:0.3699', 'nuclear:0.3275', 'airstrikes:0.2953', 'deterrence:0.275', 'pursue:0.2739', 'nationalist:0.2493', 'narrative:0.2336', 'respond:0.2198', 'euphemism:0.2099', 'alert:0.2088', 'existential:0.204', 'invasion:0.1961', 'plan:0.1809', 'capability:0.1563', 'meeting:0.1558', 'change:0.1504', 'order:0.1478', 'say:0.1474', 'spokesman:0.1455', 'goal:0.1446', 'stand:0.1371', 'allow:0.1243', 'state:0.107', 'february:0.1017', 'strictly:0.0942', 'numerous:0.0917', 'televised:0.0903']+titles_keywords+['putin:0.4012', 'peskov:0.3476', 'nuclear:0.3179', 'existential:0.2082', 'refuses:0.1697']"
+        ]
+    ],
+    "RUS+UKR+80":[
+        [],
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/msn.com/World Vision CEO speaks with KIRO 7 after dangerous trip to Ukraine border.txt+eventbasecode80+eventcode80+avgtone0.48168103448275856+goldsteinscale0.75+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.003289473684210526+news_keywords+['refugee:0.4554', 'moscow:0.3645', 'world:0.3365', 'conflict:0.331', 'border:0.3307', 'ceo:0.316', 'read:0.2803', 'vision:0.2785', 'flee:0.2765', 'news:0.2764', 'community:0.2588', 'escalate:0.2566', 'investigatekiro:0.2539', 'river:0.2389', 'say:0.2386', 'dangerous:0.2342', 'space:0.2328', 'fund:0.2304', 'need:0.23', 'europes:0.2299', 'mission:0.2264', 'sinha:0.1984', 'far:0.1967', 'tours:0.1869', 'year:0.1836', 'ii:0.1793', 'thousand:0.1763', 'end:0.1763', 'statistic:0.1692', 'weve:0.1556']+titles_keywords+['kiro:0.3347', 'ceo:0.3312', 'world:0.3183', 'vision:0.2864', 'speaks:0.254']"
+        ],
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/msn.com/RussiaUkraine war new highlights West remains wary of Russias scale down claim Moscow has repeatedly.txt+eventbasecode80+eventcode80+avgtone0.48815384615384616+goldsteinscale0.75+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.01644736842105263+news_keywords+['putin:0.5165', 'russiaukraine:0.5076', 'kyiv:0.4912', 'russias:0.4733', 'nato:0.4581', 'ceasefire:0.4099', 'espionage:0.4013', 'diplomatic:0.398', 'propaganda:0.3514', 'chernobyl:0.3286', 'combatting:0.3155', 'news:0.2784', 'industrials:0.2717', 'decommission:0.2661', 'tariff:0.2282', 'annexed:0.2256', 'coordinate:0.2235', 'report:0.2161', 'cite:0.212', 'tod:0.1944', 'term:0.1859', 'hear:0.1729', 'safe:0.1709', 'turn:0.1543', 'arrive:0.1481', 'feb:0.1442', 'portfolio:0.1361', 'groundless:0.1336', 'sure:0.13', 'true:0.0847']+titles_keywords+['missiles:0.3922', 'moscow:0.3689', 'wary:0.3245', 'repeatedly:0.1511', 'general:0.0913']"
+        ],
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/msn.com/Russian troops who seized Chernobyl will soon suffer the effects of radiation exposure after digging.txt+eventbasecode80+eventcode80+avgtone0.4676113360323887+goldsteinscale0.75+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['chernobyl:0.6602', 'radioactive:0.4395', 'decommission:0.3069', 'ukrainian:0.2951', 'concern:0.2306', 'reuters:0.193', 'cdc:0.1912', 'troop:0.1641', 'report:0.164', 'consequence:0.1623', 'shelter:0.1606', 'exposure:0.1544', 'poison:0.1515', 'thyroid:0.1316', 'plant:0.1212', 'zone:0.1144', 'burn:0.1118', 'control:0.1051', 'additional:0.0999', 'shortly:0.0993', 'red:0.0971', 'event:0.0911', 'begin:0.0652', 'receive:0.0608', 'accord:0.0587', 'costello:0.0528', 'believe:0.0526', 'exactly:0.0505', 'confirmedearlier:0.0181', 'length:-0.0023']+titles_keywords+['chernobyl:0.559', 'trenches:0.2738', 'russian:0.2411', 'suffer:0.1974', 'effects:0.1442']"
+        ],
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/msn.com/RussiaUkraine live updates Putin sends warning with planned ICBM test leaders boycott G20 meeting over.txt+eventbasecode80+eventcode80+avgtone0.4785775492716367+goldsteinscale0.75+nummentions0.16291727140783743+numarticles0.16352429296591733+numsources0.7171052631578947+news_keywords+['putin:0.5364', 'russiaukraine:0.5065', 'crimea:0.4996', 'natos:0.4442', 'kyivs:0.4108', 'sanctions:0.3956', 'diplomatic:0.3497', 'militarily:0.34', 'separatism:0.3201', 'unhcrs:0.2787', 'news:0.2761', 'proceeding:0.2688', 'annex:0.2514', 'report:0.2447', 'rhetoric:0.2418', 'table:0.2357', 'know:0.2349', 'warhead:0.2339', 'coordinate:0.2327', 'evade:0.2094', 'general:0.1886', 'bucha:0.1751', 'swap:0.1743', 'fall:0.169', 'produce:0.1592', 'simplify:0.1559', 'longer:0.1452', 'exactly:0.1391', 'compare:0.1367', 'weve:0.1101']+titles_keywords+['putin:0.4935', 'icbm:0.4049', 'g20:0.3371', 'warning:0.2379', 'live:0.1483']"
+        ],
+        [
+            "20220520+../news_crawling/RUS_UKR/p_articles/msn.com/Azov Fighters Describe Conditions at Russian Detention Camp After Surrender.txt+eventbasecode80+eventcode80+avgtone0.4733542319749216+goldsteinscale0.75+nummentions0.01269956458635704+numarticles0.013415518491660623+numsources0.009868421052631578+news_keywords+['ukrainian:0.4144', 'azov:0.3699', 'troop:0.3611', 'surrender:0.3535', 'kremlin:0.3524', 'war:0.32', 'militant:0.2735', 'bandage:0.2693', 'treat:0.268', 'prison:0.2627', 'severe:0.2148', 'basic:0.2127', 'know:0.2118', 'urgent:0.2082', 'steelworks:0.1918', 'continue:0.1821', 'resistance:0.1809', 'adequate:0.1787', 'condition:0.1759', 'footage:0.1729', 'fighter:0.1694', 'resort:0.1577', 'plan:0.1452', 'hour:0.142', 'heard:0.1392', 'plant:0.1363', 'sure:0.1262', 'din:0.1166', 'past:0.1009', 'porridge:0.0999']+titles_keywords+['azov:0.4723', 'russian:0.3467', 'surrender:0.3279', 'detention:0.3087', 'fighters:0.2644']"
+        ],
+        [],
+        [
+            "20220613+../news_crawling/RUS_UKR/p_articles/msn.com/Moscowbacked officials try to solidify their rule in captured Ukrainian cities.txt+eventbasecode80+eventcode80+avgtone0.4880546075085324+goldsteinscale0.75+nummentions0.028664731494920173+numarticles0.029369108049311095+numsources0.03289473684210526+news_keywords+['moscow:0.5297', 'kremlin:0.4966', 'ukrainian:0.4483', 'russias:0.3747', 'zaporizhzhia:0.3319', 'chortkiv:0.2937', 'protest:0.2911', 'news:0.28', 'terrorist:0.2669', 'celebrate:0.2664', 'report:0.2443', 'destroy:0.2296', 'administration:0.2176', 'day:0.2133', 'plan:0.2088', 'occupied:0.1974', 'begin:0.1883', 'align:0.1759', 'state:0.1747', 'substation:0.1711', 'modern:0.1702', 'antitank:0.1612', 'like:0.1562', 'make:0.1498', 'ria:0.1449', 'fall:0.1441', 'step:0.1265', 'color:0.122', 'center:0.1144', 'instal:0.0594']+titles_keywords+['moscowbacked:0.4445', 'ukrainian:0.342', 'cities:0.2884', 'officials:0.2487', 'solidify:0.1891']",
+            "20220616+../news_crawling/RUS_UKR/p_articles/msn.com/Russia Implores Ukraine to Stop Senseless Resistance in Severodonetsk.txt+eventbasecode80+eventcode80+avgtone0.48401420959147423+goldsteinscale0.75+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4993', 'ceasefire:0.4486', 'evacuate:0.3557', 'separatist:0.3168', 'militia:0.2939', 'zelensky:0.2823', 'territory:0.2771', 'militant:0.2723', 'disrupt:0.2691', 'operation:0.2663', 'artillery:0.2565', 'severodonetsk:0.2392', 'battleground:0.2375', 'continue:0.2287', 'corridor:0.2253', 'industrial:0.2126', 'news:0.2018', 'promise:0.1882', 'governor:0.186', 'allow:0.1785', 'donbas:0.1693', 'speech:0.1691', 'say:0.1614', 'plant:0.1465', 'point:0.135', 'makes:0.1224', 'display:0.1168', 'billion:0.1022', 'potentially:0.0602', 'percent:0.0469']+titles_keywords+['ukraine:0.484', 'severodonetsk:0.344', 'implores:0.2499', 'resistance:0.2274', 'senseless:0.1841']"
+        ]
+    ],
+    "UKR+KAZ+80":[
+        []
+    ],
+    "UKR+RUS+80":[
+        [],
+        [],
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/msn.com/Deepfake presidents used in RussiaUkraine war.txt+eventbasecode80+eventcode80+avgtone0.4752415458937198+goldsteinscale0.75+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['deepfake:0.4795', 'putin:0.4518', 'disinformation:0.4368', 'satire:0.3929', 'journalist:0.365', 'twitter:0.3415', 'hack:0.3261', 'government:0.311', 'voice:0.3101', 'ukrainian:0.3019', 'pornography:0.2761', 'kim:0.2646', 'platform:0.263', 'reveal:0.2547', 'sophisticated:0.2521', 'meme:0.2483', 'debate:0.2391', 'analyse:0.2384', 'purpose:0.2378', 'livestory:0.2368', 'dangerous:0.233', 'volodymr:0.2203', 'takedown:0.2157', 'proof:0.2033', 'podium:0.1978', 'deliver:0.1965', 'force:0.1889', 'world:0.1751', 'allows:0.1451', 'ha:0.1302']+titles_keywords+['presidents:0.5172', 'russiaukraine:0.3969', 'deepfake:0.3511', 'war:0.3073', 'used:0.1421']"
+        ],
+        []
+    ],
+    "WST+RUS+80":[
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/msn.com/Putins Lap Dog Humiliated by FedUp Guest on His Own Show.txt+eventbasecode80+eventcode80+avgtone0.46757679180887374+goldsteinscale0.75+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kremlin:0.5207', 'comrade:0.4559', 'ukraines:0.4429', 'nato:0.4158', 'solovyov:0.4027', 'war:0.3737', 'rhetoric:0.3351', 'demilitarize:0.3263', 'propagandist:0.2969', 'concern:0.2896', 'strategic:0.2839', 'weaponswhich:0.2741', 'president:0.2708', 'news:0.2605', 'read:0.2575', 'talk:0.2552', 'anticipate:0.2487', 'sanction:0.2484', 'frighten:0.2475', 'know:0.2363', 'audience:0.2343', 'react:0.2146', 'world:0.2049', 'leave:0.2036', 'radio:0.2004', 'begin:0.1914', 'domestic:0.1611', 'like:0.1486', 'multimillion:0.1263', 'delivered:0.1236']+titles_keywords+['putins:0.3918', 'dog:0.3696', 'guest:0.3444', 'humiliated:0.3318', 'lap:0.2472']"
+        ]
+    ],
+    "WST+UKR+80":[
+        []
+    ]
+}

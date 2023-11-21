@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+10":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/cambridge-news.co.uk/UK tells British nationals to leave Russia if presence is not essential.txt+eventbasecode10+eventcode10+avgtone0.47441860465116276+goldsteinscale0.5+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.03289473684210526+news_keywords+['ukraine:0.4967', 'kremlin:0.4627', 'ceasefire:0.4477', 'boris:0.307', 'salisbury:0.2565', 'invasion:0.2537', 'constituency:0.2517', 'remain:0.2367', 'warn:0.2326', 'radioactive:0.2262', 'news:0.2198', 'reiterate:0.213', 'amendment:0.2043', 'forward:0.2027', 'volodymyr:0.1843', 'secretary:0.1819', 'fine:0.1777', 'long:0.1752', 'straightforward:0.1748', 'morning:0.1708', 'prosecuting:0.163', 'economic:0.1586', 'roundups:0.1473', 'increase:0.1338', 'hit:0.1312', 'entirely:0.1243', 'difference:0.1234', 'desperate:0.1143', 'welcome:0.0921', 'grip:0.0398']+titles_keywords+['russia:0.3358', 'leave:0.2538', 'british:0.2201', 'presence:0.1479', 'essential:0.0737']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/cambridge-news.co.uk/Asda Sainsburys Aldi and Waitrose remove Russian goods from shelves to back Ukraine.txt+eventbasecode10+eventcode10+avgtone0.5011210762331839+goldsteinscale0.5+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.039473684210526314+news_keywords+['ukraine:0.504', 'vodka:0.4014', 'vladimir:0.3879', 'sainsbury:0.3671', 'boycott:0.3494', 'products:0.2863', 'war:0.2838', 'humanitarian:0.2535', 'crisis:0.2497', 'government:0.2487', 'asdas:0.2486', 'order:0.233', 'news:0.2212', 'partnership:0.2028', 'make:0.1819', 'list:0.1781', 'capital:0.1772', 'chicken:0.1759', 'read:0.1639', 'cross:0.1599', 'good:0.1556', 'standard:0.1556', 'equivalent:0.1502', 'range:0.1339', 'continue:0.1301', 'significant:0.1238', 'wholly:0.1215', 'long:0.1207', 'shelve:0.107', 'displace:0.0992']+titles_keywords+['waitrose:0.4139', 'ukraine:0.3672', 'shelves:0.3491', 'goods:0.1783', 'remove:0.1385']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/cambridge-news.co.uk/Biden Russia war amounts to genocide and Putin trying to wipe out Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4623955431754874+goldsteinscale0.5+nummentions0.3454281567489115+numarticles0.34590282813633066+numsources0.3782894736842105+news_keywords+['putin:0.4881', 'genocide:0.456', 'russias:0.3425', 'intervene:0.2909', 'controversy:0.2701', 'accuse:0.2538', 'imply:0.227', 'administration:0.2246', 'news:0.2208', 'trigger:0.2116', 'tutsis:0.2109', 'nuclear:0.2087', 'block:0.2024', 'clearer:0.1968', 'tell:0.1945', 'example:0.1933', 'word:0.1823', 'bidens:0.1822', 'washington:0.1715', 'hesitate:0.1704', 'articulate:0.166', 'learn:0.1634', 'bloody:0.1596', 'direct:0.1307', 'just:0.1265', 'month:0.109', 'sure:0.1055', 'mr:0.0795', 'price:0.0732', 'wasnt:0.0674']+titles_keywords+['putin:0.5677', 'biden:0.4866', 'genocide:0.4681', 'wipe:0.1967', 'trying:0.1655']"
+        ]
+    ]
+}

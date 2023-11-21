@@ -1,0 +1,21 @@
+{
+    "BLR+UKR+43":[
+        []
+    ],
+    "DEU+RUS+43":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/npr.org/A new stamp honors the Ukrainian soldiers who profanely told off a Russian warship.txt+eventbasecode43+eventcode43+avgtone0.4968652037617554+goldsteinscale0.64+nummentions0.0050798258345428155+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimean:0.4814', 'stamp:0.4033', 'memorialize:0.3573', 'soldier:0.3513', 'ukrposhta:0.3101', 'surrender:0.2943', 'honor:0.2681', 'naval:0.2615', 'island:0.2379', 'invasion:0.2285', 'morale:0.22', 'grokh:0.2079', 'translate:0.1906', 'snake:0.1813', 'phrase:0.1578', 'station:0.1535', 'borys:0.1473', 'distract:0.1326', 'npr:0.1299', 'rally:0.1281', 'vote:0.1235', 'public:0.1189', 'design:0.1182', 'live:0.1151', 'month:0.1087', 'say:0.0993', 'new:0.0959', 'profanely:0.0805', 'hour:0.0727', 'complete:0.0705']+titles_keywords+['stamp:0.4122', 'ukrainian:0.3476', 'soldiers:0.3111', 'warship:0.2884', 'honors:0.2346']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220131+../news_crawling/RUS_UKR/p_articles/npr.org/From Stalin to Putin Ukraine is still trying to break free from Moscow.txt+eventbasecode43+eventcode43+avgtone0.47658175842235+goldsteinscale0.64+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.02631578947368421+news_keywords+['soviet:0.4816', 'crimea:0.4618', 'yanukovych:0.4435', 'history:0.3272', 'revolution:0.317', 'famine:0.2842', 'sovereignty:0.2792', 'economy:0.2768', 'collectivized:0.2567', 'politically:0.2525', 'correspondent:0.1997', 'cite:0.194', 'help:0.1899', 'debate:0.1886', 'inherit:0.1819', 'alienate:0.1816', 'long:0.1635', 'make:0.1541', 'lopsided:0.1525', 'gunman:0.1501', 'plan:0.1487', 'different:0.1404', 'plokhy:0.1378', 'sack:0.1289', 'right:0.1241', 'include:0.1225', 'end:0.1215', 'doctorate:0.1059', 'field:0.103', 'deal:0.0903']+titles_keywords+['ukraine:0.5396', 'stalin:0.4835', 'trying:0.1452', 'break:0.1296', 'free:0.1169']"
+        ],
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/npr.org/Ukrainian lawmakers visit the US Capitol to ask for help in the war with Russia.txt+eventbasecode43+eventcode43+avgtone0.510204081632653+goldsteinscale0.64+nummentions0.07692307692307693+numarticles0.0775924583031182+numsources0.11513157894736842+news_keywords+['ukraine:0.4893', 'nato:0.4066', 'humanitarian:0.3086', 'invade:0.2894', 'zelenskyy:0.2775', 'urgently:0.2618', 'political:0.2595', 'peace:0.2393', 'order:0.2392', 'attention:0.2296', 'alarm:0.2243', 'delegation:0.2226', 'hear:0.2206', 'shelter:0.2203', 'radina:0.2189', 'afraid:0.2162', 'org:0.2153', 'learn:0.2119', 'future:0.2053', 'nprs:0.2039', 'continue:0.1966', 'circumstance:0.1927', 'transcript:0.1867', 'corridor:0.1834', 'weapon:0.1817', 'serviceman:0.1733', 'right:0.1562', 'kinds:0.1101', 'far:0.1098', 'baby:0.0654']+titles_keywords+['ukrainian:0.3655', 'lawmakers:0.2885', 'war:0.2198', 'visit:0.1588', 'help:0.075']"
+        ],
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/npr.org/Ukrainian mayor describes being held hostage by Russian soldiers.txt+eventbasecode43+eventcode43+avgtone0.4782608695652174+goldsteinscale0.64+nummentions0.05660377358490566+numarticles0.05728788977519942+numsources0.0625+news_keywords+['crimea:0.5549', 'ukrainians:0.4807', 'putin:0.4339', 'hostage:0.3471', 'propaganda:0.3436', 'occupy:0.3114', 'zelenskyy:0.2964', 'troop:0.2911', 'macron:0.2669', 'french:0.2597', 'federation:0.2532', 'flag:0.2409', 'recordingfedorov:0.2279', 'town:0.2001', 'story:0.1957', 'speak:0.1894', 'npr:0.1806', 'donbas:0.1762', 'boyish:0.1696', 'march:0.1528', 'realistic:0.1497', 'revised:0.1495', 'want:0.1299', 'non:0.116', 'despite:0.1156', 'describes:0.1101', 'beardsley:0.1095', 'head:0.1089', 'mr:0.1049', 'right:0.0988']+titles_keywords+['hostage:0.4753', 'ukrainian:0.4035', 'mayor:0.2983', 'soldiers:0.2234', 'describes:0.1234']"
+        ]
+    ]
+}

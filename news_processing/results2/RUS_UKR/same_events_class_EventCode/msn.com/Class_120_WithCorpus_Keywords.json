@@ -1,0 +1,88 @@
+{
+    "CHN+RUS+120":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/msn.com/Ukraine war risk of sanctions puts China stocks in valuation geopolitical traps as companies face.txt+eventbasecode120+eventcode120+avgtone0.4631336405529954+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['geopolitical:0.461', 'ukraine:0.422', 'kremlin:0.3928', 'economy:0.3688', 'bullish:0.3337', 'risk:0.3081', 'interdiction:0.2911', 'chinas:0.2797', 'news:0.2739', 'morningstar:0.2632', 'capital:0.2542', 'covid:0.2488', 'march:0.248', 'strategist:0.2444', 'event:0.2321', 'spillover:0.2146', 'precede:0.2133', 'report:0.2044', 'goldman:0.1854', 'increase:0.1822', 'unprecedented:0.1571', 'list:0.1524', 'emerge:0.1511', 'infographics:0.1444', 'turn:0.1379', 'tail:0.1314', 'relax:0.128', 'sluggish:0.124', 'xpeng:0.122', 'unless:0.0806']+titles_keywords+['sanctions:0.3922', 'geopolitical:0.386', 'ukraine:0.3423', 'stocks:0.286', 'risk:0.256']"
+        ]
+    ],
+    "CYP+RUS+120":[
+        []
+    ],
+    "DEU+RUS+120":[
+        []
+    ],
+    "GBR+RUS+120":[
+        []
+    ],
+    "ISR+RUS+120":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/msn.com/Israeli prime minister rejects Zelensky comparison of Russias invasion to Nazi genocide.txt+eventbasecode120+eventcode120+avgtone0.45866666666666667+goldsteinscale0.3+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['zelenskyy:0.4133', 'holocaust:0.4103', 'putin:0.3721', 'israel:0.353', 'invasion:0.2642', 'justify:0.2284', 'yair:0.2231', 'intervene:0.221', 'haaretz:0.216', 'peace:0.2079', 'reject:0.2031', 'missile:0.1993', 'dispute:0.1865', 'speak:0.1844', 'naftali:0.1788', 'citizens:0.1488', 'news:0.1451', 'know:0.1443', 'bypass:0.1433', 'refrain:0.1429', 'mediator:0.131', 'help:0.1279', 'bennet:0.12', 'future:0.1195', 'turn:0.1195', 'cautious:0.1187', 'prime:0.0908', 'long:0.0896', 'second:0.0823', 'video:0.069']+titles_keywords+['zelensky:0.4189', 'genocide:0.2813', 'israeli:0.279', 'russias:0.206', 'comparison:0.1781']"
+        ]
+    ],
+    "KAZ+UKR+120":[
+        [
+            "20220618+../news_crawling/RUS_UKR/p_articles/msn.com/Russia ally Kazakhstan refuses to recognise Donetsk Luhansk as independent republics.txt+eventbasecode120+eventcode120+avgtone0.495114006514658+goldsteinscale0.3+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4878', 'kremlin:0.4451', 'abkhazia:0.4194', 'kazakh:0.3672', 'nations:0.3281', 'territory:0.3165', 'tokayev:0.2956', 'political:0.2793', 'justify:0.2524', 'republic:0.2509', 'euromaidan:0.2417', 'dispute:0.2361', 'state:0.2336', 'leonid:0.219', 'declare:0.2164', 'pasechnik:0.2119', 'independent:0.2049', 'recognise:0.1999', 'instead:0.1891', 'chaos:0.1829', 'denis:0.174', 'stage:0.1579', 'united:0.1563', 'forum:0.1488', 'th:0.1451', 'plenary:0.1354', 'note:0.1304', 'apprehensive:0.1214', 'dignitary:0.1101', 'heads:0.1011']+titles_keywords+['kazakhstan:0.4438', 'donetsk:0.4115', 'refuses:0.2373', 'independent:0.1554', 'recognise:0.1351']"
+        ]
+    ],
+    "NZL+RUS+120":[
+        []
+    ],
+    "RUS+BEL+120":[
+        []
+    ],
+    "RUS+BGR+120":[
+        []
+    ],
+    "RUS+NZL+120":[
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/msn.com/Ukraine invasion casts ugly pall on Anzac commemorations.txt+eventbasecode120+eventcode120+avgtone0.47014925373134325+goldsteinscale0.3+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4886', 'anzac:0.4195', 'war:0.34', 'invasion:0.3254', 'humanitarian:0.2427', 'commemorate:0.2246', 'surrender:0.2194', 'shmyhal:0.1919', 'concerns:0.1774', 'remain:0.1762', 'anton:0.1752', 'turn:0.1738', 'know:0.1591', 'safe:0.1418', 'people:0.1418', 'area:0.1303', 'fade:0.1274', 'hero:0.1266', 'mixed:0.1222', 'expat:0.1215', 'upside:0.1212', 'trade:0.1148', 'arrived:0.1136', 'end:0.1096', 'tomorrow:0.1032', 'plant:0.1001', 'badly:0.0993', 'second:0.0871', 'similar:0.0821', 'data:0.0476']+titles_keywords+['commemorations:0.5325', 'anzac:0.5269', 'invasion:0.383', 'ukraine:0.3556', 'ugly:0.1709']"
+        ]
+    ],
+    "RUS+RUS+120":[
+        []
+    ],
+    "RUS+UKR+120":[
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/msn.com/Ukraine Russian strikes wound several in Lviv live updates.txt+eventbasecode120+eventcode120+avgtone0.48645362973254597+goldsteinscale0.3+nummentions0.2772133526850508+numarticles0.275924583031182+numsources0.3026315789473684+news_keywords+['ukraine:0.5341', 'nato:0.4419', 'airstrikes:0.4111', 'chernobyl:0.371', 'rzeszow:0.2969', 'rezanstev:0.2906', 'government:0.2883', 'pentagon:0.2879', 'occupy:0.2699', 'conflict:0.2606', 'pavlyuk:0.2473', 'reporter:0.206', 'agreement:0.2047', 'colonel:0.2009', 'know:0.1903', 'biden:0.1891', 'telegram:0.1874', 'output:0.1865', 'table:0.1795', 'neutralize:0.1747', 'safe:0.1727', 'counterparts:0.1692', 'hit:0.1656', 'rail:0.1645', 'current:0.1592', 'extend:0.148', 'end:0.1314', 'counteroffensive:0.1151', 'month:0.0954', 'welcome:0.0619']+titles_keywords+['lviv:0.5426', 'strikes:0.2826', 'wound:0.188', 'updates:0.1868', 'live:0.1524']"
+        ],
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/msn.com/War to slash Ukraines GDP output by over 45 World Bank forecasts.txt+eventbasecode120+eventcode120+avgtone0.46763202725724023+goldsteinscale0.3+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['ukraine:0.4623', 'war:0.3811', 'gdp:0.3426', 'refugee:0.3074', 'infrastructure:0.2823', 'forecast:0.269', 'disrupt:0.2535', 'output:0.2398', 'prepare:0.2318', 'escalation:0.2309', 'influx:0.2233', 'march:0.2188', 'contraction:0.2093', 'trigger:0.209', 'imf:0.1909', 'world:0.1689', 'deteriorate:0.1664', 'statement:0.1647', 'massive:0.1627', 'downside:0.1575', 'degree:0.157', 'uncertainty:0.1519', 'yellen:0.1451', 'baseline:0.1373', 'need:0.1263', 'swath:0.1227', 'secretary:0.1202', 'excludes:0.1148', 'enterprise:0.1011', 'mario:0.0633']+titles_keywords+['ukraines:0.441', 'war:0.3806', 'gdp:0.3552', 'forecasts:0.2945', 'slash:0.1665']"
+        ]
+    ],
+    "RUS+WST+120":[
+        []
+    ],
+    "UKR+EUR+120":[
+        []
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/msn.com/Zelenskyy says Putin is convinced that his special operation in Ukraine is going as planned.txt+eventbasecode120+eventcode120+avgtone0.49310344827586206+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4838', 'ukrainians:0.422', 'nato:0.4031', 'zelenskyy:0.3985', 'negotiation:0.3544', 'war:0.3269', 'news:0.2412', 'agreement:0.2393', 'convince:0.2127', 'troop:0.2097', 'delegation:0.1902', 'plan:0.1845', 'topic:0.1835', 'outcome:0.1829', 'say:0.1711', 'follow:0.1612', 'neutral:0.1454', 'include:0.1434', 'estimate:0.1396', 'sit:0.1391', 'griner:0.136', 'message:0.1317', 'friday:0.1315', 'billion:0.122', 'poke:0.1164', 'range:0.1096', 'snl:0.1014', 'nearly:0.0964', 'direct:0.0951', 'smoothly:0.0907']+titles_keywords+['zelenskyy:0.4687', 'putin:0.3282', 'convinced:0.2164', 'planned:0.1854', 'operation:0.1238']"
+        ],
+        [],
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/msn.com/UkraineRussia Russian foreign minister denies claims president Vladimir Putin has serious illness.txt+eventbasecode120+eventcode120+avgtone0.47138047138047134+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5186', 'cancer:0.369', 'parkinsons:0.3628', 'moscow:0.3195', 'lavrov:0.2914', 'doctor:0.2696', 'headache:0.2389', 'worry:0.2193', 'ukrainerussia:0.2083', 'covid:0.1961', 'liar:0.1916', 'sane:0.1561', 'table:0.1531', 'nonsense:0.1488', 'read:0.143', 'form:0.1386', 'report:0.1378', 'french:0.131', 'insist:0.1183', 'meet:0.1153', 'supposedly:0.1114', 'rebuttal:0.1108', 'month:0.0847', 'recent:0.079', 'long:0.0767', 'broken:0.0709', 'state:0.0658', 'public:0.0622', 'solovei:0.0618', 'surround:0.0258']+titles_keywords+['putin:0.4755', 'ukrainerussia:0.2904', 'illness:0.231', 'denies:0.1349', 'foreign:0.1167']"
+        ],
+        [
+            "20220614+../news_crawling/RUS_UKR/p_articles/msn.com/Wikipedia appeals Russian court order to remove articles on war in Ukraine.txt+eventbasecode120+eventcode120+avgtone0.4838235294117647+goldsteinscale0.3+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kremlin:0.4727', 'ukraine:0.4143', 'disinformation:0.3908', 'government:0.3833', 'jurisdiction:0.3739', 'article:0.3487', 'wikipedia:0.3259', 'appeal:0.2572', 'remove:0.2566', 'comply:0.2523', 'crimes:0.2423', 'massacre:0.2263', 'operation:0.2203', 'language:0.2106', 'constitutes:0.1825', 'announce:0.18', 'rule:0.1784', 'company:0.1768', 'statement:0.1621', 'general:0.1484', 'access:0.1421', 'bucha:0.1339', 'page:0.1236', 'say:0.1173', 'risk:0.1116', 'shelling:0.1099', 'verified:0.0921', 'laporte:0.0902', 'date:0.0901', 'coming:0.007']+titles_keywords+['ukraine:0.356', 'articles:0.3508', 'wikipedia:0.3196', 'court:0.2142', 'remove:0.1955']"
+        ]
+    ],
+    "WST+RUS+120":[
+        [],
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/msn.com/Biden administration to send longerrange rocket system to Ukraine as part of new aid package.txt+eventbasecode120+eventcode120+avgtone0.48973429951690817+goldsteinscale0.3+nummentions0.13425253991291727+numarticles0.1348803480783176+numsources0.11513157894736842+news_keywords+['nato:0.459', 'ukraineto:0.4115', 'putin:0.4077', 'biden:0.344', 'pentagon:0.3405', 'adviser:0.3088', 'attack:0.3077', 'diplomatic:0.3058', 'bipartisan:0.267', 'intend:0.2617', 'update:0.2548', 'announce:0.2435', 'telegram:0.2198', 'surveillance:0.2179', 'border:0.1955', 'continue:0.1878', 'kilometer:0.1874', 'longerrange:0.1819', 'javelin:0.1815', 'economically:0.177', 'systems:0.1713', 'month:0.1696', 'scramble:0.1528', 'nearly:0.1367', 'high:0.1225', 'clearest:0.1084', 'enable:0.1033', 'deep:0.0977', 'butin:0.0947', 'hasno:0.0511']+titles_keywords+['biden:0.3244', 'ukraine:0.3057', 'rocket:0.2497', 'longerrange:0.2161', 'send:0.1928']",
+            "20220601+../news_crawling/RUS_UKR/p_articles/msn.com/Kremlin warns Biden sending rockets to Ukraine adding fuel to the fire.txt+eventbasecode120+eventcode120+avgtone0.48739837398373986+goldsteinscale0.3+nummentions0.13425253991291727+numarticles0.1348803480783176+numsources0.11513157894736842+news_keywords+['nato:0.4282', 'kremlin:0.3963', 'ukrainians:0.3471', 'war:0.3442', 'dmitry:0.3203', 'pentagon:0.3099', 'attack:0.3018', 'escalation:0.2899', 'weaponry:0.2835', 'tank:0.2716', 'adviser:0.2645', 'news:0.259', 'biden:0.2526', 'plan:0.2447', 'deliver:0.2434', 'confusion:0.243', 'veto:0.2357', 'nears:0.2289', 'push:0.2218', 'know:0.2195', 'essay:0.2006', 'begin:0.1727', 'long:0.1622', 'eastern:0.1528', 'th:0.1476', 'include:0.1394', 'comparison:0.1378', 'possible:0.125', 'great:0.1244', 'himars:0.113']+titles_keywords+['kremlin:0.4535', 'biden:0.3708', 'warns:0.2443', 'fuel:0.2276', 'sending:0.0604']"
+        ]
+    ],
+    "WST+UKR+120":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/msn.com/A majority of Ukrainians support armed resistance and oppose concessions to Russia poll finds.txt+eventbasecode120+eventcode120+avgtone0.4778449144008057+goldsteinscale0.3+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.006578947368421052+news_keywords+['ukrainians:0.4854', 'minsk:0.4095', 'putin:0.406', 'invasion:0.2947', 'agreement:0.2941', 'majority:0.2716', 'polling:0.2397', 'government:0.2381', 'stay:0.2374', 'oppose:0.2327', 'unwilling:0.2253', 'conscript:0.2222', 'volodymyr:0.1846', 'end:0.1743', 'analyst:0.1693', 'arm:0.1689', 'know:0.1676', 'data:0.162', 'fully:0.1594', 'nightmare:0.1575', 'woman:0.1569', 'telephone:0.1446', 'age:0.1414', 'oust:0.1362', 'thousand:0.1298', 'publish:0.1289', 'snapshot:0.1225', 'ready:0.1148', 'ascertain:0.0914', 'far:0.0862']+titles_keywords+['ukrainians:0.5211', 'poll:0.3102', 'oppose:0.2922', 'armed:0.2079', 'concessions:0.1907']",
+            "20220314+../news_crawling/RUS_UKR/p_articles/msn.com/Lithuania fears being cut off by Kaliningrad if Ukraine war expands into Nato territory.txt+eventbasecode120+eventcode120+avgtone0.4677891654465593+goldsteinscale0.3+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.003289473684210526+news_keywords+['natos:0.5857', 'kaliningrad:0.3522', 'kyiv:0.3454', 'estonia:0.3389', 'russians:0.3323', 'war:0.3262', 'attack:0.2718', 'escalation:0.2536', 'expand:0.2501', 'frontline:0.244', 'prepare:0.2258', 'government:0.2217', 'border:0.2211', 'worry:0.1971', 'bn:0.151', 'article:0.1502', 'biden:0.1369', 'discussed:0.1351', 'cut:0.133', 'state:0.1325', 'monday:0.1288', 'draft:0.1276', 'require:0.1272', 'point:0.12', 'secretary:0.1082', 'say:0.1032', 'long:0.0965', 'weve:0.0841', 'rotation:0.0745', 'agree:0.0714']+titles_keywords+['kaliningrad:0.4492', 'nato:0.3607', 'fears:0.1669', 'expands:0.1586', 'cut:0.1382']"
+        ],
+        []
+    ]
+}

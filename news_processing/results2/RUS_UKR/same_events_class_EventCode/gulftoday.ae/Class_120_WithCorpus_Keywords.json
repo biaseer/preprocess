@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+120":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Around 20000 Indians stuck in Ukraine after Putin orders military operations.txt+eventbasecode120+eventcode120+avgtone0.4711316397228637+goldsteinscale0.3+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.003289473684210526+news_keywords+['ukraine:0.4831', 'putin:0.4325', 'indo:0.3682', 'war:0.3367', 'emergency:0.2681', 'escalation:0.2577', 'federation:0.2546', 'initiative:0.2258', 'consequence:0.2211', 'news:0.2137', 'airspace:0.212', 'turn:0.2018', 'speaking:0.1976', 'security:0.1975', 'breakaway:0.1972', 'eastern:0.1969', 'order:0.19', 'forecast:0.1862', 'report:0.1857', 'heed:0.1838', 'capital:0.1767', 'enter:0.1723', 'people:0.1655', 'facilitate:0.1601', 'stick:0.1589', 'virtual:0.1498', 'devastate:0.1495', 'general:0.1409', 'student:0.1293', 'tragic:0.0933']+titles_keywords+['ukraine:0.4722', 'indians:0.3556', 'military:0.2634', 'stuck:0.1828', '20000:0.1714']"
+        ]
+    ],
+    "RUS+UKR+120":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Russia reframes war goals in Ukraine.txt+eventbasecode120+eventcode120+avgtone0.49377593360995853+goldsteinscale0.3+nummentions0.2772133526850508+numarticles0.275924583031182+numsources0.3026315789473684+news_keywords+['ukraine:0.4446', 'demilitarise:0.3324', 'uniforms:0.2873', 'separatist:0.2728', 'directorate:0.2683', 'battle:0.2412', 'reuters:0.2331', 'shifted:0.2302', 'know:0.2103', 'achieve:0.2033', 'operational:0.1933', 'reframing:0.1898', 'donbas:0.1893', 'zelensky:0.177', 'instead:0.1703', 'regroup:0.1686', 'end:0.1685', 'phase:0.1617', 'focus:0.1565', 'main:0.1527', 'baseless:0.1511', 'pretext:0.1497', 'respond:0.1432', 'president:0.1378', 'note:0.1371', 'area:0.1104', 'largely:0.1063', 'early:0.1048', 'maternity:0.0993', 'shopping:0.091']+titles_keywords+['ukraine:0.4333', 'russia:0.3632', 'war:0.3382', 'reframes:0.2203', 'goals:0.2039']"
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "PAK+RUS+42":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/voanews.com/Pakistans Khan in Russia to Discuss Trade Energy Cooperation with Putin.txt+eventbasecode42+eventcode42+avgtone0.48182883939038684+goldsteinscale0.595+nummentions0.0025399129172714078+numarticles0.0025380710659898475+numsources0.013157894736842105+news_keywords+['putin:0.4967', 'ukraines:0.4295', 'moscow:0.3895', 'diplomacy:0.371', 'nato:0.3487', 'peskov:0.318', 'afghan:0.3048', 'karachi:0.3033', 'pipeline:0.2448', 'accompany:0.1919', 'standoff:0.1916', 'pursue:0.186', 'rt:0.169', 'briefed:0.1686', 'import:0.1653', 'relation:0.1615', 'clarification:0.1552', 'forward:0.1479', 'align:0.1476', 'kilometer:0.145', 'speculate:0.1412', 'shortage:0.134', 'invest:0.13', 'thursday:0.1177', 'long:0.1157', 'chaotic:0.1033', 'state:0.0874', 'reason:0.0861', 'deal:0.0699', 'review:0.0604']+titles_keywords+['putin:0.393', 'khan:0.3683', 'pakistans:0.3201', 'cooperation:0.1793', 'trade:0.1519']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220430+../news_crawling/RUS_UKR/p_articles/voanews.com/Why Some Countries Still Support Russia Amid Atrocities in Ukraine.txt+eventbasecode42+eventcode42+avgtone0.5+goldsteinscale0.595+nummentions0.01088534107402032+numarticles0.011602610587382161+numsources0.013157894736842105+news_keywords+['ukraine:0.4902', 'russia:0.4582', 'russian:0.3702', 'countries:0.2847', 'atrocities:0.2193', 'airstrike:0.2135', 'invasion:0.2081', 'support:0.1991', 'unite:0.1901', 'diplomatic:0.1889', 'western:0.1828', 'world:0.1563', 'correspondent:0.1541', 'asian:0.148', 'admit:0.1115', 'carry:0.1063', 'report:0.1039', 'say:0.1007', 'visit:0.0903', 'middle:0.088', 'analyst:0.0823', 'defense:0.078', 'city:0.0746', 'amid:0.0685', 'voa:0.0619', 'general:0.0549', 'cindy:0.0401', 'ministry:0.0084', 'try:0.0069', 'saine:-0.0359']+titles_keywords+['ukraine:0.4487', 'atrocities:0.2738', 'countries:0.2601', 'support:0.2076', 'amid:0.0029']"
+        ]
+    ],
+    "RUS+USA+42":[
+        [
+            "20220720+../news_crawling/RUS_UKR/p_articles/voanews.com/Ukrainian First Lady Pleads to US Lawmakers for AntiMissile Systems.txt+eventbasecode42+eventcode42+avgtone0.5+goldsteinscale0.595+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.023026315789473683+news_keywords+['ukraine:0.4169', 'zelenska:0.3654', 'moscows:0.3364', 'woman:0.2932', 'war:0.2894', 'terrorist:0.2744', 'eva:0.2634', 'unprovoked:0.2307', 'biden:0.23', 'lawmakers:0.225', 'translate:0.2061', 'protect:0.201', 'secretary:0.1885', 'order:0.177', 'pleads:0.1692', 'weaponsweapons:0.1657', 'talk:0.1553', 'systems:0.1494', 'visit:0.1415', 'continue:0.1238', 'reach:0.122', 'wag:0.1217', 'right:0.121', 'invasive:0.1117', 'title:0.1033', 'house:0.1013', 'highlight:0.0931', 'month:0.0801', 'earlier:0.0766', 'cost:0.053']+titles_keywords+['ukrainian:0.3553', 'antimissile:0.232', 'pleads:0.2288', 'lawmakers:0.2264', 'systems:0.1895']"
+        ]
+    ],
+    "UKR+RUS+42":[
+        [
+            "20220612+../news_crawling/RUS_UKR/p_articles/voanews.com/MoscowInstalled Officials Try to Solidify Rule in Parts of Southern Ukraine.txt+eventbasecode42+eventcode42+avgtone0.490811638591118+goldsteinscale0.595+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.009868421052631578+news_keywords+['kremlin:0.5207', 'kyiv:0.4935', 'moscowinstalled:0.443', 'russian:0.4374', 'terrorist:0.3201', 'evacuate:0.3032', 'strategic:0.2572', 'news:0.2469', 'sievierodonetsk:0.2433', 'administration:0.2265', 'leonid:0.2263', 'report:0.2202', 'achieve:0.2139', 'trush:0.2103', 'troop:0.2087', 'decree:0.203', 'underway:0.199', 'strike:0.1949', 'solidify:0.1887', 'align:0.1877', 'substation:0.1823', 'attend:0.1822', 'state:0.1773', 'day:0.1641', 'plant:0.1611', 'emergence:0.1608', 'like:0.1521', 'video:0.1275', 'center:0.1171', 'population:0.1149']+titles_keywords+['moscowinstalled:0.4007', 'ukraine:0.3996', 'solidify:0.2436', 'officials:0.2042', 'rule:0.1247']"
+        ]
+    ]
+}

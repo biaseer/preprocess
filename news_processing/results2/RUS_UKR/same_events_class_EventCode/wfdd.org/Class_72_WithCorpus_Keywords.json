@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+72":[
+        [
+            "20220108+../news_crawling/RUS_UKR/p_articles/wfdd.org/Russia sent troops near Ukraine and to Kazakhstan The US is watching and waiting.txt+eventbasecode72+eventcode72+avgtone0.5+goldsteinscale0.915+nummentions0.045718432510885344+numarticles0.046410442349528645+numsources0.039473684210526314+news_keywords+['ukraine:0.4772', 'kazakhstan:0.4748', 'russia:0.399', 'troop:0.3236', 'watching:0.2501', 'send:0.1969', 'near:0.1916', 'wait:0.1786']+titles_keywords+['ukraine:0.4411', 'troops:0.3039', 'waiting:0.282', 'near:0.1961', 'sent:0.0373']"
+        ]
+    ],
+    "UKR+RUS+72":[
+        [
+            "20220202+../news_crawling/RUS_UKR/p_articles/wfdd.org/US sending troops to Eastern Europe as Russia masses forces near Ukraine.txt+eventbasecode72+eventcode72+avgtone0.5+goldsteinscale0.915+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4541', 'russia:0.3839', 'troops:0.3603', 'europe:0.2559', 'eastern:0.2137', 'near:0.1697', 'send:0.1559', 'force:0.1476', 'mass:0.1181']+titles_keywords+['ukraine:0.3929', 'troops:0.3636', 'forces:0.1749', 'near:0.1664', 'sending:0.1213']"
+        ]
+    ]
+}

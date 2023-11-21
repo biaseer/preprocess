@@ -1,0 +1,17 @@
+{
+    "DEU+UKR+130":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/thejournal.ie/Taoiseach says Ireland supports strongest possible sanctions as he criticises immoral actions of Putin.txt+eventbasecode130+eventcode130+avgtone0.48479999999999995+goldsteinscale0.27999999999999997+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['nato:0.416', 'putin:0.3622', 'ireland:0.354', 'geopolitics:0.3402', 'kyiv:0.331', 'militarily:0.3117', 'conflict:0.2678', 'taoiseach:0.2671', 'expansionist:0.2521', 'diplomat:0.2392', 'ally:0.2388', 'repercussion:0.218', 'action:0.2179', 'want:0.2015', 'align:0.1955', 'article:0.187', 'visa:0.1789', 'neutral:0.1765', 'information:0.1725', 'sure:0.1616', 'safe:0.161', 'turn:0.1597', 'prepare:0.1473', 'sector:0.1448', 'forefront:0.1395', 'higher:0.136', 'ronanduffy:0.1339', 'long:0.1152', 'agree:0.0957', 'doesnt:0.039']+titles_keywords+['sanctions:0.4454', 'taoiseach:0.3682', 'ireland:0.3238', 'immoral:0.2561', 'strongest:0.1547']"
+        ]
+    ],
+    "RUS+RUS+130":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/thejournal.ie/US sanctions Russia for beginning invasion of Ukraine.txt+eventbasecode130+eventcode130+avgtone0.47793103448275864+goldsteinscale0.27999999999999997+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['putin:0.457', 'crimea:0.4486', 'russias:0.4154', 'peacekeeping:0.3566', 'sanction:0.354', 'separatist:0.3271', 'impeach:0.3183', 'attack:0.2842', 'annex:0.2761', 'agreement:0.2628', 'border:0.2619', 'yarylovychi:0.2549', 'bloc:0.2333', 'halt:0.2309', 'bloodbath:0.2245', 'prepare:0.2197', 'scenario:0.2196', 'table:0.2165', 'eus:0.209', 'introduce:0.2055', 'news:0.2035', 'nonsense:0.2022', 'know:0.2012', 'order:0.1958', 'pipeline:0.1823', 'finance:0.1662', 'sure:0.1626', 'state:0.1392', 'smart:0.137', 'weve:0.1151']+titles_keywords+['sanctions:0.4691', 'ukraine:0.4381', 'russia:0.3666', 'invasion:0.3252', 'beginning:0.186']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/thejournal.ie/The 9 at 9 Irish troops blocked from the US rental supply bottoms out and.txt+eventbasecode130+eventcode130+avgtone0.48902027027027034+goldsteinscale0.27999999999999997+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['news:0.4047', 'occupy:0.3744', 'fbi:0.371', 'escalation:0.3148', 'document:0.301', 'irish:0.2986', 'warn:0.2924', 'troop:0.2913', 'esta:0.2909', 'syria:0.2802', 'covid:0.2786', 'businesses:0.2752', 'term:0.2642', 'april:0.2628', 'nuclear:0.2584', 'donald:0.2578', 'memoir:0.2514', 'fear:0.2455', 'day:0.2404', 'like:0.238', 'paywalls:0.2359', 'zaporizhzhia:0.2276', 'despite:0.2105', 'big:0.1974', 'scam:0.1875', 'plumb:0.1847', 'meaningful:0.1827', 'bos:0.1546', 'reorient:0.1507', 'sure:0.1403']+titles_keywords+['troops:0.4834', 'irish:0.3933', 'covid:0.364', 'blocked:0.1546', 'rental:0.1544']"
+        ]
+    ]
+}

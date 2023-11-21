@@ -1,0 +1,25 @@
+{
+    "BLR+RUS+46":[
+        [
+            "20220402+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Kremlin says peace talks should continue lashes hostile Ukraine.txt+eventbasecode46+eventcode46+avgtone0.4902439024390244+goldsteinscale0.85+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4757', 'kremlin:0.448', 'putin:0.4329', 'dmitry:0.3903', 'peskov:0.3385', 'istanbul:0.3073', 'negotiation:0.2991', 'separatist:0.2643', 'peace:0.2477', 'talk:0.2378', 'invasion:0.23', 'language:0.2133', 'bully:0.2127', 'subject:0.1994', 'continue:0.1984', 'news:0.1918', 'oppose:0.1729', 'say:0.1626', 'president:0.1581', 'hold:0.1542', 'protect:0.1335', 'main:0.1184', 'lash:0.1093', 'meant:0.1051', 'state:0.1035', 'saturday:0.0846', 'ria:0.0761', 'difficult:0.05', 'add:0.0365', 'restore:-0.011']+titles_keywords+['kremlin:0.3952', 'ukraine:0.3672', 'peace:0.2521', 'continue:0.2063', 'lashes:0.1865']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Ceasefire talks underway at Belarus border as Ukraine demands Russia withdraw troops.txt+eventbasecode46+eventcode46+avgtone0.4736842105263158+goldsteinscale0.85+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['ukraine:0.4719', 'ceasefire:0.4582', 'kremlin:0.4414', 'russianforeign:0.4169', 'invade:0.3743', 'reuters:0.3633', 'escalation:0.3212', 'border:0.2963', 'nuclear:0.2842', 'military:0.277', 'infrastructure:0.2633', 'coordinate:0.2562', 'prepare:0.2559', 'president:0.2547', 'strategic:0.2483', 'underway:0.2472', 'propagandists:0.2464', 'detain:0.2271', 'anonymity:0.2117', 'table:0.2033', 'say:0.1967', 'end:0.1966', 'telephone:0.1893', 'notice:0.1834', 'versus:0.1618', 'buy:0.1603', 'long:0.1582', 'majorbp:0.1568', 'student:0.1524', 'sure:0.1509']+titles_keywords+['ceasefire:0.4316', 'belarus:0.398', 'border:0.2567', 'talks:0.2', 'withdraw:0.1207']"
+        ],
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Ukraine president Zelensky renews offer of peace talks with Putin.txt+eventbasecode46+eventcode46+avgtone0.4773269689737471+goldsteinscale0.85+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.5135', 'putin:0.4411', 'ukrainians:0.404', 'war:0.3033', 'zelensky:0.2799', 'occupy:0.2651', 'referendum:0.2558', 'agreement:0.2449', 'talk:0.2313', 'relinquish:0.2263', 'autocratic:0.2204', 'table:0.2122', 'want:0.1994', 'leave:0.1979', 'status:0.1891', 'counterpart:0.1877', 'renew:0.1711', 'publish:0.1702', 'end:0.1677', 'ready:0.1582', 'expert:0.1578', 'issue:0.1543', 'format:0.1492', 'wont:0.1484', 'afp:0.1362', 'statelets:0.1302', 'population:0.1165', 'entire:0.1089', 'far:0.0938', 'possible:0.0903']+titles_keywords+['zelensky:0.557', 'ukraine:0.2963', 'peace:0.2254', 'offer:0.1206', 'renews:0.1117']"
+        ]
+    ],
+    "WST+RUS+46":[
+        [
+            "20211231+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Nato wary of Russian security demands ahead of next weeks talks.txt+eventbasecode46+eventcode46+avgtone0.4929971988795518+goldsteinscale0.85+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['nato:0.5764', 'kremlin:0.4207', 'kyiv:0.3681', 'invade:0.285', 'troop:0.2365', 'reuters:0.2258', 'eastward:0.2167', 'veto:0.2028', 'negotiation:0.2', 'separatist:0.1869', 'wary:0.1866', 'stability:0.1745', 'remain:0.1728', 'reaffirm:0.1689', 'jeopardise:0.1472', 'soon:0.1464', 'instead:0.1333', 'week:0.1092', 'general:0.1089', 'prospect:0.1089', 'stoltenberg:0.0939', 'people:0.0924', 'jan:0.0902', 'end:0.0871', 'unity:0.0836', 'second:0.0699', 'building:0.0557', 'add:0.0447', 'welcome:0.0332', 'video:0.0314']+titles_keywords+['nato:0.4972', 'wary:0.2843', 'russian:0.2494', 'demands:0.1639', 'weeks:0.0855']"
+        ]
+    ],
+    "WST+UKR+46":[
+        [
+            "20211206+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Whats driving Putins Ukraine brinkmanship.txt+eventbasecode46+eventcode46+avgtone0.48295454545454547+goldsteinscale0.85+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.009868421052631578+news_keywords+['putin:0.5142', 'crimea:0.4943', 'geopolitics:0.4545', 'brinkmanship:0.4365', 'kyivan:0.4296', 'nato:0.3168', 'annexation:0.3164', 'pavlovsky:0.2631', 'leonid:0.2264', 'ethnic:0.2195', 'terrify:0.2149', 'trigger:0.1906', 'thesis:0.1857', 'justify:0.1845', 'escalate:0.1762', 'turn:0.1712', 'troop:0.1617', 'know:0.158', 'prelude:0.1562', 'telegraph:0.1546', 'stir:0.142', 'separation:0.1406', 'generation:0.1324', 'lengthy:0.1202', 'bring:0.1163', 'compare:0.112', 'receptive:0.0764', 'largely:0.0714', 'great:0.0569', 'unlikely:0.0439']+titles_keywords+['brinkmanship:0.6448', 'putins:0.4676', 'ukraine:0.452', 'whats:0.1578', 'driving:0.0996']"
+        ]
+    ]
+}

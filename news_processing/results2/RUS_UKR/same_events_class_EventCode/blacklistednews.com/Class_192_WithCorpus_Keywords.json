@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/blacklistednews.com/Russian forces enter northern part of capital Kyiv Ukraine defense ministry says.txt+eventbasecode192+eventcode192+avgtone0.4875+goldsteinscale0.025+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['kyiv:0.5568', 'ukraine:0.4498', 'russian:0.3796', 'troop:0.3385', 'military:0.3342', 'attack:0.2597', 'northern:0.2579', 'capital:0.2481', 'enter:0.2246', 'join:0.2127', 'fight:0.2117', 'remain:0.1756', 'report:0.1542', 'read:0.1528', 'movement:0.1379', 'home:0.1295', 'early:0.1266', 'force:0.1198', 'citizen:0.1175', 'say:0.1038', 'counter:0.1028', 'age:0.095', 'obolon:0.0891', 'firestorm:0.0877', 'tweet:0.0818', 'encourage:0.0783', 'amid:0.0688', 'regardless:0.0661', 'thosewho:0.0384', 'ministry:0.02']+titles_keywords+['kyiv:0.4994', 'enter:0.2009', 'northern:0.2003', 'forces:0.0919', 'says:-0.0033']"
+        ]
+    ],
+    "UKR+POL+192":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/blacklistednews.com/Here Are All The Latest News And Developments From The Ukraine War March 15.txt+eventbasecode192+eventcode192+avgtone0.4888438133874239+goldsteinscale0.025+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.009868421052631578+news_keywords+['ukraine:0.5084', 'nato:0.3966', 'kremlin:0.3787', 'news:0.3437', 'invade:0.2806', 'negotiation:0.2763', 'developments:0.2749', 'agreement:0.2679', 'inauguration:0.2659', 'march:0.2544', 'eastward:0.2475', 'outcome:0.2387', 'nuclear:0.2364', 'predict:0.2326', 'prepare:0.2297', 'continue:0.2152', 'sanction:0.207', 'cite:0.2039', 'pipeline:0.1984', 'preliminary:0.1938', 'incoming:0.1905', 'governor:0.1824', 'additionally:0.1667', 'note:0.1572', 'snapshot:0.1557', 'yamal:0.1402', 'cross:0.1375', 'th:0.1266', 'eqnr:0.1263', 'hour:0.1117']+titles_keywords+['ukraine:0.454', 'news:0.3826', 'war:0.3206', 'developments:0.3173', 'march:0.2781']"
+        ]
+    ]
+}

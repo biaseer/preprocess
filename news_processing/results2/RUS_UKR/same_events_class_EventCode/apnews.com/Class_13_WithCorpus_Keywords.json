@@ -1,0 +1,12 @@
+{
+    "RUS+DEU+13":[
+        [
+            "20211229+../news_crawling/RUS_UKR/p_articles/apnews.com/Putin New Germanybound pipeline may help reduce prices.txt+eventbasecode13+eventcode13+avgtone0.49188311688311687+goldsteinscale0.52+nummentions0.03483309143686502+numarticles0.03553299492385787+numsources0.03618421052631579+news_keywords+['pipeline:0.4499', 'putin:0.3976', 'russias:0.3158', 'germanybound:0.3025', 'gas:0.2744', 'gazprom:0.2391', 'nord:0.2377', 'transit:0.2156', 'supply:0.2099', 'increase:0.1599', 'surge:0.1575', 'kilometer:0.1548', 'stabilize:0.1444', 'approval:0.1433', 'stream:0.1321', 'trillion:0.1296', 'natural:0.128', 'attack:0.1204', 'project:0.1165', 'directly:0.1155', 'await:0.0942', 'price:0.0933', 'certainly:0.0905', 'washington:0.0888', 'wont:0.0877', 'long:0.0864', 'point:0.0853', 'new:0.0839', 'link:0.0803', 'say:0.0469']+titles_keywords+['pipeline:0.4355', 'putin:0.3772', 'germanybound:0.3613', 'reduce:0.171', 'prices:0.1657']"
+        ]
+    ],
+    "UKR+BLR+13":[
+        [
+            "20210730+../news_crawling/RUS_UKR/p_articles/apnews.com/Belarus leader ready to invite Russian troops if necessary.txt+eventbasecode13+eventcode13+avgtone0.4775510204081633+goldsteinscale0.52+nummentions0.045718432510885344+numarticles0.046410442349528645+numsources0.049342105263157895+news_keywords+['belarus:0.5135', 'lukashenkos:0.4844', 'kremlin:0.4381', 'dmitry:0.3816', 'moscows:0.3673', 'authoritarian:0.3198', 'troop:0.2752', 'threaten:0.2221', 'expand:0.2207', 'news:0.2078', 'border:0.207', 'security:0.1944', 'trigger:0.1872', 'prepare:0.187', 'station:0.1769', 'orchestrate:0.1659', 'hesitate:0.1643', 'urgent:0.1574', 'petrochemistry:0.1447', 'radar:0.1425', 'sentence:0.142', 'blogger:0.1409', 'include:0.1363', 'vote:0.1283', 'turn:0.1206', 'possible:0.1092', 'wont:0.1064', 'viasna:0.102', 'export:0.0707', 'salary:0.0638']+titles_keywords+['belarus:0.4005', 'troops:0.2283', 'invite:0.1453', 'leader:0.1223', 'necessary:0.0153']"
+        ]
+    ]
+}

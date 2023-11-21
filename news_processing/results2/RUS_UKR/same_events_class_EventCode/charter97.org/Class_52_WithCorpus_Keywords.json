@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+52":[
+        [
+            "20220508+../news_crawling/RUS_UKR/p_articles/charter97.org/Ukrainian Commander Personally Burned Two Tanks Of Occupiers.txt+eventbasecode52+eventcode52+avgtone0.48214285714285715+goldsteinscale0.675+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukrainian:0.4331', 'chernihiv:0.3754', 'afghan:0.3728', 'tank:0.3507', 'missile:0.3491', 'occupiers:0.3102', 'hryhoriy:0.2908', 'commander:0.2859', 'brigade:0.2782', 'enemy:0.2751', 'report:0.2573', 'command:0.2425', 'vehicle:0.2402', 'general:0.2374', 'destroy:0.2276', 'burned:0.1942', 'armed:0.1844', 'disclose:0.1699', 'event:0.1579', 'occupational:0.1551', 'help:0.1523', 'photo:0.1373', 'message:0.1113', 'apparently:0.1065', 'shoulder:0.0828', 'near:0.0734', 'hold:0.0595', 'time:0.0547', 'free:0.052', 'personally:0.0266']+titles_keywords+['ukrainian:0.3599', 'tanks:0.3512', 'burned:0.3196', 'occupiers:0.293', 'commander:0.2182']"
+        ],
+        [
+            "20220819+../news_crawling/RUS_UKR/p_articles/charter97.org/Ukrainian T64 Tank Crew Incinerates Enemy MTLB Armored Personnel Carrier With Air Defence Unit.txt+eventbasecode52+eventcode52+avgtone0.4735576923076923+goldsteinscale0.675+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['battalion:0.4852', 'armoured:0.4724', 'tank:0.4182', 'russian:0.3792', 'aircraft:0.3625', 'enemy:0.3376', 'weapon:0.3221', 'defend:0.3137', 'hit:0.3052', 'video:0.2736', 'destroy:0.2584', 'th:0.2349', 'occupying:0.2035', 'post:0.2013', 'demonstrate:0.195', 'bm:0.1948', 'carrier:0.1865', 'afu:0.1852', 'precise:0.1729', 'multipurpose:0.1645', 'matter:0.1643', 'hidden:0.1617', 'zu:0.1609', 'mtlb:0.155', 'relevant:0.1539', 'make:0.1484', 'page:0.1481', 'read:0.1441', 'day:0.1266', 'completely:0.1054']+titles_keywords+['tank:0.3914', 'ukrainian:0.3096', 't64:0.2776', 'crew:0.2245', 'mtlb:0.1935']"
+        ]
+    ],
+    "UKR+RUS+52":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/charter97.org/Armed Forces Of Ukraine Fighters Destroy Platoon Of Soldiers From Chechnya.txt+eventbasecode52+eventcode52+avgtone0.45185185185185167+goldsteinscale0.675+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['chechnya:0.5834', 'ukrainian:0.4899', 'chechens:0.4757', 'platoon:0.4032', 'military:0.3229', 'territory:0.2763', 'tsymbalyuk:0.2637', 'rifle:0.2585', 'fighters:0.2569', 'report:0.2292', 'journalist:0.2269', 'hostility:0.2266', 'video:0.2233', 'destroy:0.2082', 'burn:0.1899', 'april:0.1763', 'loss:0.1716', 'tiktok:0.1676', 'th:0.1664', 'republic:0.164', 'group:0.162', 'follow:0.146', 'miss:0.1363', 'make:0.135', 'forces:0.1273', 'dead:0.1104', 'worth:0.0967', 'note:0.0939', 'shali:0.0651', 'nd:0.0576']+titles_keywords+['chechnya:0.4747', 'platoon:0.3848', 'fighters:0.2836', 'destroy:0.2606', 'armed:0.1355']"
+        ]
+    ]
+}

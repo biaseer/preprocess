@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220202+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Putin accuses US and NATO allies of ignoring Russias security needs.txt+eventbasecode154+eventcode154+avgtone0.4876062322946176+goldsteinscale0.13999999999999999+nummentions0.009071117561683599+numarticles0.009789702683103698+numsources0.01644736842105263+news_keywords+['nato:0.4582', 'crimea:0.4479', 'kremlin:0.412', 'invade:0.3741', 'diplomatic:0.3438', 'vladimir:0.3404', 'escalate:0.2609', 'readiness:0.2531', 'eastward:0.2452', 'ouster:0.2164', 'ally:0.214', 'shortly:0.1954', 'biden:0.1901', 'convene:0.1895', 'trigger:0.1846', 'office:0.174', 'imagine:0.1662', 'news:0.158', 'option:0.1554', 'follow:0.1504', 'know:0.1435', 'draw:0.1421', 'renew:0.1329', 'make:0.1228', 'end:0.1176', 'general:0.1134', 'refrain:0.1056', 'long:0.0963', 'price:0.0602', 'bilaterally:0.0449']+titles_keywords+['putin:0.4663', 'nato:0.4474', 'russias:0.3869', 'accuses:0.2139', 'ignoring:0.1915']"
+        ],
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/cbsnews.com/US claims Russia has list of Ukrainians to be killed or sent to camps after.txt+eventbasecode154+eventcode154+avgtone0.47112462006079026+goldsteinscale0.13999999999999999+nummentions0.04281567489114659+numarticles0.043509789702683106+numsources0.0625+news_keywords+['ukraine:0.46', 'kremlin:0.4232', 'invasion:0.3893', 'ceasefire:0.3421', 'sergey:0.2805', 'escalation:0.2761', 'military:0.2684', 'diplomatic:0.2537', 'kidnappingsforced:0.2386', 'pursue:0.2361', 'warn:0.2288', 'expect:0.2134', 'news:0.1963', 'list:0.1919', 'organization:0.1766', 'thursday:0.1761', 'begin:0.1639', 'weapon:0.1493', 'anti:0.1367', 'ready:0.1347', 'biden:0.1274', 'option:0.1221', 'rights:0.1176', 'population:0.1018', 'fully:0.0982', 'line:0.0917', 'compiling:0.0825', 'deteriorate:0.0761', 'cause:0.0696', 'agree:0.0511']+titles_keywords+['ukrainians:0.4754', 'list:0.2838', 'invasion:0.2325', 'camps:0.2089', 'sent:-0.0265']"
+        ]
+    ]
+}

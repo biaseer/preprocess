@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+52":[
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Invasion will only backfire and cause deRussification of Ukraine warns Volodymyr Zelensky.txt+eventbasecode52+eventcode52+avgtone0.4716981132075472+goldsteinscale0.675+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.5024', 'ukrainian:0.4936', 'russification:0.4629', 'putin:0.4535', 'annexation:0.41', 'invasion:0.3427', 'language:0.3397', 'nazification:0.3031', 'zelensky:0.2892', 'justify:0.2721', 'backfire:0.2499', 'peaceful:0.2479', 'speak:0.2398', 'kill:0.2253', 'pretext:0.2189', 'mimic:0.2069', 'volodymyr:0.2059', 'indiscriminate:0.2054', 'afraid:0.2044', 'turn:0.2044', 'purport:0.2027', 'like:0.1704', 'law:0.167', 'make:0.1464', 'population:0.1365', 'main:0.1282', 'previous:0.124', 'derussification:0.1064', 'saturday:0.0935', 'address:0.0898']+titles_keywords+['zelensky:0.417', 'invasion:0.3825', 'backfire:0.3647', 'ukraine:0.3272', 'derussification:0.1664']"
+        ]
+    ],
+    "UKR+EUR+52":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Worlds largest aircraft feared to have been destroyed by Russian assault on Ukraine airport.txt+eventbasecode52+eventcode52+avgtone0.4935400516795866+goldsteinscale0.675+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['aircraft:0.5516', 'airbus:0.4534', 'ukrainian:0.3898', 'antonov:0.3841', 'destroy:0.2406', 'cargo:0.2293', 'length:0.2185', 'space:0.2102', 'supply:0.1898', 'big:0.1836', 'dmytro:0.1808', 'behemoth:0.1801', 'technical:0.1675', 'fear:0.1668', 'report:0.1589', 'shall:0.1539', 'coronavirus:0.1489', 'flame:0.1272', 'worlds:0.1215', 'component:0.1202', 'resemblance:0.1149', 'difference:0.1126', 'say:0.111', 'confirm:0.1002', 'perth:0.0983', 'meaning:0.0963', 'year:0.0962', 'currently:0.0576', 'draw:0.0567', 'add:0.0497']+titles_keywords+['aircraft:0.3498', 'russian:0.31', 'largest:0.3026', 'feared:0.1916', 'destroyed:0.1659']"
+        ]
+    ]
+}

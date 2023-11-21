@@ -1,0 +1,12 @@
+{
+    "POL+UKR+43":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/They were shooting civilians says Ukrainian who fled to Poland for safety.txt+eventbasecode43+eventcode43+avgtone0.4685483870967742+goldsteinscale0.64+nummentions0.13570391872278664+numarticles0.1363306744017404+numsources0.20394736842105263+news_keywords+['ukraine:0.4706', 'refugee:0.4113', 'evacuation:0.3969', 'civilians:0.3611', 'war:0.3387', 'blockade:0.2956', 'diekov:0.2696', 'contingency:0.2297', 'investigation:0.2202', 'corridor:0.2008', 'turn:0.1955', 'scared:0.1833', 'comply:0.1791', 'displace:0.1757', 'continue:0.1704', 'arrive:0.1695', 'span:0.1596', 'thousand:0.1419', 'bad:0.1416', 'ihor:0.1407', 'town:0.1323', 'trained:0.1314', 'speaking:0.1305', 'grow:0.1289', 'official:0.1287', 'longer:0.1099', 'potapola:0.1071', 'noted:0.0813', 'second:0.0752', 'mr:0.0716']+titles_keywords+['ukrainian:0.4323', 'civilians:0.4228', 'shooting:0.3249', 'fled:0.2782', 'says:0.0544']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Silence for Ukraine as Isle of Wight residents mark day of peace.txt+eventbasecode43+eventcode43+avgtone0.47641509434+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.5212', 'kharkiv:0.369', 'isle:0.3624', 'war:0.3494', 'newport:0.3024', 'wight:0.2597', 'silence:0.2541', 'victim:0.2389', 'resident:0.2301', 'flag:0.2144', 'city:0.2049', 'people:0.1988', 'ribbon:0.1876', 'gather:0.1776', 'debate:0.1759', 'destroy:0.1574', 'day:0.1356', 'andtwo:0.1351', 'attend:0.1324', 'placard:0.1288', 'civillians:0.1201', 'mark:0.1155', 'hold:0.1033', 'ago:0.0971', 'open:0.0959', 'mariupol:0.0843', 'start:0.0796', 'saw:0.0698', 'include:0.0608', 'certain:0.0605']+titles_keywords+['silence:0.3958', 'ukraine:0.3628', 'isle:0.3258', 'wight:0.3045', 'day:0.2324']"
+        ]
+    ]
+}

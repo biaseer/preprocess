@@ -1,0 +1,12 @@
+{
+    "CAN+UKR+42":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/castanet.net/Putin claims victory in Mariupol despite steelmill holdouts.txt+eventbasecode42+eventcode42+avgtone0.47398622800306045+goldsteinscale0.595+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimean:0.5244', 'kremlin:0.5097', 'moscows:0.4645', 'airstrikes:0.3603', 'boychenko:0.3469', 'zelenskyy:0.318', 'victory:0.3029', 'massacre:0.2708', 'strategic:0.2577', 'underway:0.2536', 'industrial:0.251', 'bury:0.2439', 'countersanctions:0.2398', 'pentagons:0.2227', 'telegram:0.2215', 'predict:0.2212', 'bucha:0.2171', 'sprawl:0.2156', 'remain:0.2154', 'mariupol:0.2027', 'anonymity:0.1855', 'mayor:0.1798', 'falsify:0.1671', 'cover:0.1652', 'help:0.1651', 'beware:0.1634', 'additional:0.1444', 'month:0.1429', 'largely:0.1244', 'manhush:0.1013']+titles_keywords+['putin:0.3921', 'victory:0.3427', 'steelmill:0.3342', 'mariupol:0.2887', 'holdouts:0.1847']"
+        ]
+    ],
+    "EUR+UKR+42":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/castanet.net/European leaders visit Kyiv in highprofile show of support.txt+eventbasecode42+eventcode42+avgtone0.4776046738072054+goldsteinscale0.595+nummentions0.25217706821480407+numarticles0.2527193618564177+numsources0.3157894736842105+news_keywords+['kyiv:0.5167', 'ukraines:0.4799', 'putin:0.436', 'nato:0.429', 'macron:0.3085', 'visit:0.2893', 'invasion:0.2671', 'refugee:0.2445', 'embattle:0.2355', 'upcoming:0.222', 'prepare:0.2155', 'weaponry:0.2126', 'iohannis:0.2088', 'conversation:0.1988', 'alert:0.189', 'turn:0.1889', 'follow:0.1866', 'supply:0.1853', 'instead:0.1591', 'increasingly:0.1488', 'long:0.1432', 'eastern:0.1381', 'point:0.1279', 'chancellor:0.1218', 'sure:0.1209', 'head:0.1208', 'multiple:0.0849', 'particularly:0.0773', 'shouldnt:0.0424', 'highprofile:0.0354']+titles_keywords+['kyiv:0.5227', 'leaders:0.262', 'visit:0.2349', 'european:0.2286', 'highprofile:0.1052']"
+        ]
+    ]
+}

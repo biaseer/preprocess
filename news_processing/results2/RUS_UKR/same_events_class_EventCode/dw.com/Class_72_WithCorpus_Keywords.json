@@ -1,0 +1,10 @@
+{
+    "RUS+POL+72":[
+        []
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/dw.com/Novaya Gazeta suspends operations until after Ukraine war.txt+eventbasecode72+eventcode72+avgtone0.4920424403183024+goldsteinscale0.915+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kremlin:0.5142', 'ukraine:0.4314', 'dmitry:0.3688', 'roskomnadzor:0.354', 'news:0.3489', 'censor:0.3205', 'europeradio:0.291', 'publication:0.2886', 'investigative:0.2828', 'operation:0.2468', 'aswar:0.2461', 'territory:0.2407', 'block:0.2368', 'law:0.2366', 'report:0.2338', 'attack:0.2285', 'warning:0.2149', 'peace:0.2122', 'gazeta:0.2041', 'outlet:0.2009', 'president:0.1987', 'ekho:0.1732', 'remain:0.1727', 'know:0.1718', 'independent:0.169', 'fake:0.1556', 'end:0.1555', 'list:0.138', 'medium:0.0827', 'received:0.0601']+titles_keywords+['novaya:0.4349', 'gazeta:0.3543', 'ukraine:0.3494', 'war:0.1892', 'suspends:0.18']"
+        ]
+    ]
+}

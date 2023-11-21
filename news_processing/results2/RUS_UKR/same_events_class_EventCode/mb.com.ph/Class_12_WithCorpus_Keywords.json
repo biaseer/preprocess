@@ -1,0 +1,18 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/mb.com.ph/Eleazar PH vote condemning Russian invasion of Ukraine upholds Pinoy moral values.txt+eventbasecode12+eventcode12+avgtone0.4921875+goldsteinscale0.48+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.01644736842105263+news_keywords+['ukraine:0.4256', 'filipinos:0.3502', 'pinoy:0.3266', 'eleazar:0.3203', 'vote:0.28', 'invasion:0.2724', 'delegation:0.2564', 'government:0.2524', 'nation:0.2472', 'ph:0.2434', 'result:0.2284', 'concern:0.2263', 'history:0.2127', 'guillermo:0.2028', 'peace:0.1939', 'favor:0.1858', 'arm:0.1849', 'veteran:0.1718', 'continue:0.1682', 'analyst:0.1614', 'long:0.1548', 'laud:0.1417', 'tuesday:0.138', 'include:0.1345', 'quote:0.1315', 'strengthen:0.1185', 'resolution:0.1027', 'fuel:0.0995', 'price:0.0955', 'welcome:0.0901']+titles_keywords+['pinoy:0.3949', 'ukraine:0.3842', 'upholds:0.2934', 'vote:0.2923', 'moral:0.2693']"
+        ],
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/mb.com.ph/MB Daily News Update PH opens doors to all fullyvaxxed foreigners starting April 1.txt+eventbasecode12+eventcode12+avgtone0.4855072463768116+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['philippine:0.4225', 'vaccinated:0.3444', 'malacanang:0.3157', 'ph:0.285', 'entry:0.2411', 'coast:0.2314', 'april:0.2284', 'infectious:0.2262', 'open:0.1992', 'municipality:0.1962', 'pcg:0.1929', 'news:0.1896', 'bajo:0.1869', 'exemption:0.1834', 'mb:0.1779', 'navy:0.1672', 'level:0.1425', 'alert:0.1325', 'emerging:0.1324', 'sail:0.1313', 'guard:0.1254', 'zambales:0.1173', 'begin:0.1079', 'approve:0.0963', 'daily:0.0954', 'classify:0.0724', 'fullyvaxxed:0.0702', 'despite:0.0658', 'specifically:0.0538', 'iatf:0.016']+titles_keywords+['news:0.2775', 'mb:0.2687', 'foreigners:0.2675', 'ph:0.2568', 'april:0.2518']"
+        ],
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/mb.com.ph/Russias Lavrov warns of real danger of World War III.txt+eventbasecode12+eventcode12+avgtone0.47767857142857145+goldsteinscale0.48+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.01644736842105263+news_keywords+['lavrov:0.4817', 'ukraine:0.3554', 'sergei:0.3474', 'moscow:0.2905', 'war:0.285', 'russian:0.2792', 'russia:0.2775', 'warn:0.2526', 'danger:0.2412', 'russias:0.2219', 'peace:0.2119', 'talk:0.1627', 'continue:0.1462', 'world:0.1281', 'iii:0.1012', 'real:0.0794', 'monday:0.0636', 'foreign:0.0619', 'say:0.0478', 'minister:0.0352']+titles_keywords+['lavrov:0.4885', 'warns:0.2452', 'russias:0.2422', 'war:0.2298', 'real:0.12']"
+        ]
+    ],
+    "SEN+UKR+12":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/mb.com.ph/African Union calls for lasting ceasefire in Ukraine in call with Putin.txt+eventbasecode12+eventcode12+avgtone0.48815165876777256+goldsteinscale0.48+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.023026315789473683+news_keywords+['ceasefire:0.4769', 'ukraine:0.4051', 'putin:0.3931', 'senegal:0.3543', 'humanitarian:0.3345', 'evacuate:0.2506', 'union:0.2419', 'chairperson:0.211', 'military:0.1966', 'negotiate:0.1964', 'establish:0.1793', 'alignment:0.163', 'reaffirm:0.1622', 'tweet:0.1534', 'current:0.1532', 'feb:0.1508', 'concern:0.1379', 'immediate:0.1355', 'brief:0.121', 'hold:0.1199', 'non:0.1165', 'open:0.1129', 'request:0.1076', 'sall:0.105', 'phone:0.0936', 'faki:0.08', 'emphasize:0.0546', 'possible:0.0531', 'welcome:0.0465', 'macky:0.0303']+titles_keywords+['ceasefire:0.4256', 'ukraine:0.3907', 'union:0.2377', 'african:0.2324', 'calls:0.1402']"
+        ]
+    ]
+}

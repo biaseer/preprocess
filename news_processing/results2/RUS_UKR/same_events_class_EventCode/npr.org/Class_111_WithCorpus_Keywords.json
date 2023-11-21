@@ -1,0 +1,19 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/npr.org/The US says it will stand firm against major Russian demands as tension rises.txt+eventbasecode111+eventcode111+avgtone0.49375+goldsteinscale0.4+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.006578947368421052+news_keywords+['ukraine:0.4464', 'putin:0.4164', 'nato:0.3648', 'war:0.3007', 'readiness:0.2826', 'occupy:0.2561', 'incursion:0.2429', 'troop:0.2344', 'cyberattacks:0.2293', 'readied:0.2286', 'approach:0.2285', 'expect:0.2175', 'border:0.2068', 'biden:0.1985', 'concern:0.1911', 'perekop:0.1843', 'know:0.1753', 'document:0.1441', 'formal:0.1441', 'npr:0.1359', 'board:0.1276', 'reiterate:0.1275', 'long:0.127', 'wednesday:0.1264', 'donbas:0.1229', 'allow:0.1163', 'separate:0.113', 'arm:0.1084', 'major:0.0862', 'price:0.073']+titles_keywords+['stand:0.2313', 'russian:0.2284', 'demands:0.1972', 'firm:0.103', 'major:-0.0119']"
+        ],
+        [],
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/npr.org/A Russian who protested the war on live TV refused to retract her statement in.txt+eventbasecode111+eventcode111+avgtone0.4653846153846154+goldsteinscale0.4+nummentions0.0758345428156749+numarticles0.047498187092095724+numsources0.07236842105263158+news_keywords+['kremlin:0.4462', 'propaganda:0.4161', 'ukraine:0.3961', 'protest:0.3674', 'ovsyannikova:0.3651', 'interrogation:0.3346', 'law:0.3124', 'newspaper:0.303', 'translate:0.3015', 'coexist:0.26', 'read:0.2576', 'fake:0.2464', 'aggressor:0.2419', 'case:0.2405', 'woman:0.2336', 'telegram:0.2239', 'statement:0.2125', 'help:0.211', 'allow:0.2049', 'uncoordinated:0.2048', 'military:0.2032', 'channel:0.1964', 'post:0.1771', 'state:0.1704', 'badamshin:0.1493', 'ashamed:0.1188', 'adopt:0.117', 'later:0.1081', 'long:0.0982', 'thank:0.0888']+titles_keywords+['russian:0.3426', 'protested:0.3248', 'court:0.2207', 'statement:0.1721', 'retract:0.1197']"
+        ],
+        [
+            "20220719+../news_crawling/RUS_UKR/p_articles/npr.org/Putin In Iran Record Heat Wave In Europe New ATF Head.txt+eventbasecode111+eventcode111+avgtone0.45588235294117646+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.489', 'russia:0.4681', 'iran:0.4409', 'europe:0.3933', 'heat:0.3468', 'president:0.3367', 'war:0.2983', 'explosives:0.2922', 'atf:0.2915', 'bureau:0.2705', 'wildfire:0.261', 'visit:0.2332', 'gun:0.2313', 'record:0.1939', 'head:0.1862', 'sweep:0.1809', 'wave:0.1723', 'content:0.1643', 'director:0.1632', 'today:0.1419', 'rise:0.1388', 'rag:0.1321', 'struggle:0.1296', 'finally:0.1294', 'new:0.1274', 'amid:0.1217', 'permanent:0.1183', 'make:0.1079', 'rare:0.0818', 'deal:0.0649']+titles_keywords+['putin:0.4901', 'heat:0.408', 'europe:0.3003', 'atf:0.2776', 'record:0.2177']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/npr.org/Olena Zelenska Ukraines first lady says Russia is waging mass murder of civilians.txt+eventbasecode111+eventcode111+avgtone0.477027027025+goldsteinscale0.4+nummentions0.00544267053701016+numarticles0.006163886874546773+numsources0.006578947368421052+news_keywords+['ukraine:0.4746', 'putin:0.4258', 'zelenskyy:0.3552', 'invade:0.3145', 'humanitarian:0.3132', 'polina:0.2957', 'flood:0.2781', 'casualty:0.2714', 'terrify:0.2522', 'president:0.2276', 'murdered:0.2179', 'olena:0.215', 'protect:0.2059', 'know:0.205', 'urgent:0.203', 'reiterate:0.1934', 'write:0.1873', 'truth:0.1786', 'happen:0.1782', 'turn:0.1778', 'lady:0.1673', 'names:0.1582', 'fourteen:0.1474', 'resist:0.1449', 'impossible:0.1339', 'wag:0.1131', 'showing:0.1126', 'night:0.1115', 'shell:0.1013', 'new:0.1008']+titles_keywords+['zelenska:0.4363', 'ukraines:0.4281', 'civilians:0.2759', 'lady:0.1993', 'says:0.1132']"
+        ]
+    ]
+}

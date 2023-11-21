@@ -1,0 +1,12 @@
+{
+    "ISR+RUS+111":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/arabherald.com/Israel Lashes Out at Russia Over Lavrovs Nazism Remarks.txt+eventbasecode111+eventcode111+avgtone0.45454545454545453+goldsteinscale0.4+nummentions0.4125544267053701+numarticles0.4129804205946338+numsources0.47039473684210525+news_keywords+['holocaust:0.4741', 'antisemitism:0.4269', 'russia:0.3896', 'lavrov:0.327', 'israeli:0.3184', 'vashem:0.2878', 'conflict:0.2787', 'justify:0.2633', 'translation:0.2343', 'invade:0.2193', 'affront:0.2153', 'inversion:0.1951', 'speak:0.1778', 'news:0.1619', 'dangerous:0.1596', 'trivialize:0.1585', 'reach:0.1556', 'help:0.1535', 'lash:0.1522', 'remarks:0.1478', 'minister:0.1466', 'include:0.1407', 'propagate:0.1341', 'neutral:0.1234', 'remember:0.1159', 'time:0.1126', 'look:0.1115', 'yad:0.0975', 'draw:0.0622', 'bid:0.0492']+titles_keywords+['israel:0.3601', 'lavrovs:0.3037', 'nazism:0.3008', 'lashes:0.1747', 'remarks:0.0931']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/arabherald.com/Russia launches military strikes on Ukraine warns West to stay away.txt+eventbasecode111+eventcode111+avgtone0.47696245733788395+goldsteinscale0.4+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5822368421052632+news_keywords+['putin:0.4346', 'kyiv:0.3784', 'nato:0.378', 'war:0.3479', 'militarize:0.3375', 'escalation:0.285', 'cyberattack:0.2828', 'reuters:0.2825', 'diplomats:0.2678', 'unprovoked:0.2585', 'inform:0.2556', 'agreement:0.244', 'correspondent:0.2353', 'veto:0.2335', 'preside:0.2079', 'table:0.1965', 'avert:0.189', 'plan:0.1881', 'begin:0.1802', 'repeat:0.1782', 'happen:0.165', 'stay:0.1635', 'pipeline:0.158', 'thursday:0.1525', 'ready:0.1499', 'voa:0.1451', 'nearly:0.1206', 'state:0.1205', 'straight:0.0925', 'characterize:0.0783']+titles_keywords+['ukraine:0.3794', 'warns:0.2099', 'military:0.1762', 'strikes:0.1642', 'stay:0.1256']"
+        ]
+    ]
+}

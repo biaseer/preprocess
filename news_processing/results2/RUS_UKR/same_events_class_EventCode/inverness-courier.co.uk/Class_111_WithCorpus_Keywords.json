@@ -1,0 +1,12 @@
+{
+    "IRL+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/inverness-courier.co.uk/Ireland brands Russian attack on Ukraine a murderous act of aggression.txt+eventbasecode111+eventcode111+avgtone0.4777777777777777+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.009868421052631578+news_keywords+['ukraine:0.4376', 'irish:0.3809', 'putin:0.3803', 'invasion:0.3359', 'war:0.3305', 'taoiseach:0.3231', 'diplomatic:0.279', 'action:0.2446', 'murderous:0.2267', 'condemn:0.2237', 'indefensible:0.2161', 'responsibility:0.2108', 'military:0.2014', 'respond:0.2009', 'term:0.199', 'world:0.1852', 'safe:0.1833', 'help:0.1792', 'people:0.1525', 'high:0.1464', 'wake:0.1459', 'mistake:0.1361', 'unsc:0.1359', 'lie:0.1301', 'thursday:0.1218', 'martin:0.118', 'hour:0.112', 'dfatirl:0.1062', 'scale:0.0776', 'price:0.0643']+titles_keywords+['ukraine:0.4081', 'ireland:0.3773', 'murderous:0.3445', 'attack:0.2971', 'act:0.1607']"
+        ]
+    ],
+    "RUS+GBR+111":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/inverness-courier.co.uk/Ukrainian Catholic bishop warns British people to avoid disinformation about war.txt+eventbasecode111+eventcode111+avgtone0.5110375275938189+goldsteinscale0.4+nummentions0.1509433962264151+numarticles0.15155910079767948+numsources0.2730263157894737+news_keywords+['ukrainians:0.4759', 'refugee:0.3906', 'war:0.3634', 'oligarch:0.2894', 'duchess:0.2642', 'london:0.2635', 'disinformation:0.24', 'warn:0.2178', 'khromeychuk:0.2122', 'distinction:0.2061', 'nowakowski:0.1823', 'instead:0.1812', 'know:0.1777', 'catholic:0.1638', 'organisation:0.1596', 'donate:0.1582', 'law:0.1461', 'heard:0.1454', 'reputable:0.144', 'meet:0.133', 'press:0.1124', 'property:0.1058', 'sure:0.1046', 'especially:0.1018', 'lot:0.0919', 'big:0.0911', 'left:0.0798', 'today:0.0757', 'weve:0.0742', 'terrible:0.0694']+titles_keywords+['disinformation:0.3305', 'war:0.3109', 'ukrainian:0.2825', 'bishop:0.281', 'warns:0.2703']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "POL+UKR+51":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Russian sentenced to life in Ukraines 1st war crimes trial.txt+eventbasecode51+eventcode51+avgtone0.4841498559077809+goldsteinscale0.67+nummentions0.20029027576197386+numarticles0.20087019579405366+numsources0.3026315789473684+news_keywords+['kremlin:0.4558', 'kyiv:0.4498', 'invade:0.3076', 'azov:0.3059', 'consequence:0.297', 'terrorist:0.269', 'embargo:0.2659', 'regiment:0.2603', 'know:0.2247', 'sievierodonetsk:0.223', 'interrogate:0.2215', 'strategic:0.2076', 'lawyer:0.1865', 'order:0.1789', 'resign:0.1728', 'rewritten:0.1712', 'continue:0.1703', 'decide:0.1661', 'bucha:0.154', 'world:0.1448', 'scathing:0.1427', 'unprepared:0.138', 'plant:0.1362', 'ap:0.1346', 'widow:0.1203', 'tonnage:0.1147', 'nearly:0.1095', 'month:0.0983', 'population:0.0638', 'sent:0.0391']+titles_keywords+['sentenced:0.3613', 'russian:0.3597', 'ukraines:0.3268', 'war:0.2243', '1st:0.129']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20211117+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Austin Moscow should explain its troop buildup near Ukraine.txt+eventbasecode51+eventcode51+avgtone0.47489082969432317+goldsteinscale0.67+nummentions0.035921625544267054+numarticles0.03662073966642494+numsources0.05263157894736842+news_keywords+['putin:0.4432', 'ukraines:0.436', 'crimean:0.4357', 'moscow:0.4108', 'nato:0.3812', 'annexation:0.3525', 'orbit:0.2524', 'strategic:0.243', 'deploy:0.2362', 'pentagons:0.233', 'erupt:0.2234', 'concern:0.2047', 'debris:0.1957', 'know:0.1826', 'buildup:0.1622', 'forward:0.1524', 'shortly:0.1521', 'term:0.1399', 'news:0.1345', 'continue:0.131', 'exactly:0.1273', 'rewritten:0.1219', 'austin:0.1178', 'long:0.107', 'field:0.1048', 'mr:0.09', 'rebel:0.0855', 'counter:0.0732', 'thatll:0.0631', 'theres:0.0358']+titles_keywords+['moscow:0.5637', 'troop:0.3562', 'austin:0.3468', 'explain:0.1994', 'buildup:0.1661']"
+        ],
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Police More than 900 civilian bodies found in Kyiv region.txt+eventbasecode51+eventcode51+avgtone0.4685908319185059+goldsteinscale0.67+nummentions0.06132075471698113+numarticles0.062001450326323426+numsources0.14473684210526316+news_keywords+['kyiv:0.5702', 'airstrikes:0.3503', 'russias:0.3447', 'casualty:0.3203', 'kill:0.3068', 'journalist:0.3046', 'annexed:0.2937', 'troop:0.2723', 'regime:0.2681', 'diversion:0.2667', 'sinehubov:0.2648', 'report:0.2644', 'separatist:0.2521', 'anonymity:0.242', 'rewritten:0.2388', 'cite:0.2285', 'suspect:0.2262', 'street:0.2246', 'data:0.2236', 'telegram:0.2178', 'buried:0.2156', 'dmytro:0.2098', 'ominous:0.2073', 'combine:0.1961', 'historic:0.1922', 'understand:0.1876', 'ap:0.1783', 'thursday:0.1766', 'like:0.1715', 'long:0.1589']+titles_keywords+['kyiv:0.4262', 'bodies:0.3739', 'police:0.3241', 'civilian:0.2936', '900:0.2421']"
+        ]
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "POL+RUS+130":[
+        [
+            "20211229+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Putin New Germanybound pipeline may help reduce prices.txt+eventbasecode130+eventcode130+avgtone0.4923076923076923+goldsteinscale0.27999999999999997+nummentions0.06821480406386067+numarticles0.06889050036258158+numsources0.08223684210526316+news_keywords+['pipeline:0.4482', 'putin:0.3608', 'russias:0.3067', 'germanybound:0.2993', 'nord:0.2725', 'gas:0.271', 'transit:0.2361', 'gazprom:0.2227', 'supply:0.2028', 'surge:0.1721', 'increase:0.1586', 'kilometer:0.1575', 'stabilize:0.1387', 'reduce:0.1363', 'deny:0.1117', 'trillion:0.1083', 'plan:0.0985', 'washington:0.0881', 'report:0.0875', 'await:0.085', 'rewritten:0.0846', 'immediately:0.0814', 'long:0.0801', 'new:0.0801', 'point:0.0771', 'price:0.0751', 'wont:0.0705', 'link:0.0642', 'purely:0.046', 'complete:0.0401']+titles_keywords+['pipeline:0.4355', 'putin:0.3772', 'germanybound:0.3613', 'reduce:0.171', 'prices:0.1657']"
+        ]
+    ],
+    "RUS+RUS+130":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/EXPLAINER Why is Russia attacking Ukraines railway system.txt+eventbasecode130+eventcode130+avgtone0.47846567967698517+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.4472', 'rail:0.3685', 'russias:0.3662', 'sergei:0.3501', 'nato:0.3338', 'infrastructure:0.2923', 'invasion:0.2585', 'resupply:0.2514', 'weaponry:0.2489', 'undermine:0.2307', 'refugee:0.2277', 'know:0.1697', 'western:0.1692', 'fight:0.1623', 'donbas:0.1601', 'pentagons:0.1583', 'blame:0.1578', 'want:0.1577', 'officer:0.1574', 'plan:0.1523', 'safe:0.1492', 'anonymity:0.146', 'rewritten:0.1419', 'follow:0.1413', 'viewpoint:0.1114', 'concentrate:0.1063', 'sporadic:0.0907', 'quickly:0.0906', 'largely:0.0775', 'dozen:0.0613']+titles_keywords+['ukraines:0.4779', 'russia:0.4088', 'railway:0.3836', 'attacking:0.3759', 'explainer:0.285']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Biden is convinced Putin has decided to invade Ukraine.txt+eventbasecode130+eventcode130+avgtone0.46959858323494685+goldsteinscale0.27999999999999997+nummentions0.45754716981132076+numarticles0.4579405366207397+numsources0.4473684210526316+news_keywords+['putin:0.4751', 'ukraines:0.4208', 'invasion:0.321', 'cyberattacks:0.3022', 'diplomatic:0.2922', 'sinenkov:0.2879', 'prepare:0.2837', 'evacuate:0.282', 'pentagon:0.2539', 'news:0.2485', 'uniformed:0.242', 'separatist:0.2413', 'miscommunication:0.2268', 'occur:0.222', 'know:0.2212', 'sanction:0.2032', 'weekend:0.1941', 'fight:0.1913', 'pretext:0.1877', 'varenytsia:0.1787', 'organization:0.1738', 'drill:0.1704', 'lines:0.1605', 'estimate:0.159', 'final:0.1563', 'pullback:0.1531', 'ordered:0.1452', 'rewritten:0.1445', 'sure:0.1441', 'state:0.1328']+titles_keywords+['putin:0.4319', 'biden:0.4034', 'invade:0.3181', 'convinced:0.2857', 'decided:0.1955']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Putins aide warns US against pressing for war crimes court.txt+eventbasecode130+eventcode130+avgtone0.45516304347826064+goldsteinscale0.27999999999999997+nummentions0.14804063860667635+numarticles0.14865844815083393+numsources0.14144736842105263+news_keywords+['putin:0.5589', 'kremlin:0.5303', 'moscows:0.382', 'war:0.3466', 'warn:0.3006', 'prosecute:0.2917', 'alaska:0.2892', 'nuclear:0.281', 'history:0.2447', 'conclude:0.2313', 'diatribe:0.2304', 'telegram:0.2283', 'hawkish:0.22', 'colonize:0.2151', 'volodin:0.2142', 'know:0.2082', 'wrath:0.2078', 'subjugation:0.2064', 'publish:0.1928', 'note:0.1749', 'world:0.174', 'come:0.1637', 'perceive:0.1618', 'council:0.1597', 'chair:0.1527', 'compare:0.1507', 'associated:0.1437', 'idea:0.1238', 'wednesday:0.1205', 'long:0.1172']+titles_keywords+['putins:0.3295', 'warns:0.2252', 'war:0.2188', 'court:0.1864', 'aide:0.0652']"
+        ]
+    ],
+    "WST+UKR+130":[
+        [
+            "20211130+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Putin warns West Moscow has red line about Ukraine NATO.txt+eventbasecode130+eventcode130+avgtone0.48290013679890564+goldsteinscale0.27999999999999997+nummentions0.25616835994194487+numarticles0.25670775924583034+numsources0.23355263157894737+news_keywords+['putin:0.5516', 'natos:0.4787', 'crimean:0.4276', 'war:0.3289', 'nuclear:0.3093', 'destabilize:0.2868', 'threaten:0.2839', 'concern:0.2737', 'cybersecurity:0.2592', 'maneuver:0.2584', 'eastward:0.2468', 'develop:0.2408', 'rhetoric:0.2204', 'predict:0.2013', 'range:0.1926', 'agreement:0.1811', 'psaki:0.1771', 'enter:0.1722', 'note:0.1705', 'amendment:0.1655', 'term:0.1587', 'order:0.1564', 'current:0.1556', 'rewritten:0.1489', 'monday:0.1475', 'isnt:0.1457', 'longer:0.1353', 'existence:0.119', 'decade:0.1008', 'limit:0.0865']+titles_keywords+['putin:0.4356', 'nato:0.4091', 'line:0.2402', 'warns:0.2027', 'red:0.1606']"
+        ]
+    ]
+}

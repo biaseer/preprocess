@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+13":[
+        [
+            "20220125+../news_crawling/RUS_UKR/p_articles/tass.com/UKs Boris Johnson says he is ready to speak to President Putin againI believe that.txt+eventbasecode13+eventcode13+avgtone0.4976525821596244+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4547', 'diplomacy:0.39', 'ukrainethe:0.357', 'russias:0.3557', 'nato:0.3409', 'invade:0.3202', 'boris:0.2846', 'counterproductive:0.2558', 'hesitate:0.2338', 'reiterate:0.2135', 'speak:0.2061', 'prepare:0.1927', 'plan:0.1889', 'sanction:0.17', 'point:0.1693', 'border:0.1642', 'toughen:0.1424', 'believe:0.1422', 'according:0.14', 'uks:0.1385', 'allay:0.1357', 'combine:0.1156', 'course:0.1123', 'message:0.1113', 'scarcely:0.1069', 'away:0.0897', 'january:0.0836', 'photo:0.0803', 'johnson:0.0722', 'melvillepool:0.017']+titles_keywords+['putin:0.4199', 'diplomacy:0.3478', 'johnson:0.1536', 'uk:0.1407', 'message:0.0639']"
+        ]
+    ],
+    "RUS+UKR+13":[
+        [
+            "20211024+../news_crawling/RUS_UKR/p_articles/tass.com/Ukrainian opposition politician says Kievs offer to increase gas transit is belatedThe fact that today.txt+eventbasecode13+eventcode13+avgtone0.4945054945054945+goldsteinscale0.52+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraines:0.4361', 'transit:0.3447', 'gas:0.3263', 'negotiate:0.2967', 'yuri:0.2654', 'vitrenko:0.2496', 'gazprom:0.2476', 'increase:0.2305', 'commissioning:0.2247', 'supplier:0.2198', 'bloomberg:0.2151', 'pipe:0.2058', 'crisis:0.1929', 'saidkiev:0.1912', 'post:0.1675', 'confirm:0.164', 'turn:0.1595', 'follow:0.148', 'fact:0.1455', 'absolutely:0.1298', 'depend:0.1283', 'belated:0.1211', 'dont:0.1196', 'today:0.1103', 'mr:0.0986', 'envisage:0.0932', 'anticrisis:0.0923', 'minimal:0.0901', 'meter:0.0811', 'fiveyear:0.0807']+titles_keywords+['ukraines:0.4163', 'transit:0.28', 'saidkiev:0.1926', 'pipe:0.1768', 'signed:0.1182']"
+        ]
+    ]
+}

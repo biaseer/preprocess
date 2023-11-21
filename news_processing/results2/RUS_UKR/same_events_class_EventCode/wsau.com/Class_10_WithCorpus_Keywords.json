@@ -1,0 +1,25 @@
+{
+    "CHE+RUS+10":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/wsau.com/UN experts say Russian media law amounts to information blackout.txt+eventbasecode10+eventcode10+avgtone0.47606382978723405+goldsteinscale0.5+nummentions0.017053701015965168+numarticles0.017766497461928935+numsources0.01644736842105263+news_keywords+['russia:0.5384', 'journalism:0.358', 'nato:0.3272', 'misinformation:0.3177', 'report:0.2838', 'law:0.2754', 'political:0.2625', 'peaceful:0.2403', 'nazis:0.2402', 'block:0.2312', 'invade:0.2312', 'rapporteurs:0.2112', 'alarm:0.1878', 'punitive:0.1867', 'intergovernmental:0.1855', 'know:0.1843', 'urgent:0.1695', 'term:0.1583', 'website:0.1448', 'authorise:0.1435', 'continue:0.1347', 'geneva:0.1303', 'official:0.1249', 'khan:0.1126', 'population:0.1102', 'set:0.0977', 'spread:0.0968', 'week:0.0644', 'weight:0.0551', 'entire:0.0498']+titles_keywords+['russian:0.3096', 'law:0.2813', 'blackout:0.2531', 'information:0.2432', 'say:0.0517']"
+        ]
+    ],
+    "EUR+UKR+10":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/wsau.com/Nord Stream flows stable Eastbound Yamal flows decline.txt+eventbasecode10+eventcode10+avgtone0.48958333333333337+goldsteinscale0.5+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.006578947368421052+news_keywords+['ukraine:0.3886', 'pipeline:0.3399', 'outage:0.2955', 'reuters:0.2828', 'flow:0.2595', 'nord:0.2513', 'gazprom:0.234', 'sudzha:0.2105', 'supply:0.203', 'gmt:0.2001', 'eastbound:0.1999', 'gascade:0.1848', 'data:0.1813', 'stream:0.1776', 'stable:0.1613', 'ag:0.154', 'border:0.1455', 'concern:0.1408', 'transmission:0.1348', 'meter:0.1286', 'yamal:0.1275', 'friday:0.119', 'halt:0.1101', 'export:0.1097', 'kwhh:0.0982', 'resume:0.0889', 'previous:0.0815', 'cubic:0.0732', 'expect:0.0652', 'compare:0.0434']+titles_keywords+['flows:0.3452', 'yamal:0.3013', 'nord:0.3002', 'stable:0.2183', 'decline:0.1364']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/wsau.com/History of sovereign debt defaults.txt+eventbasecode10+eventcode10+avgtone0.4753521126760563+goldsteinscale0.5+nummentions0.03664731494920174+numarticles0.03734590282813633+numsources0.1513157894736842+news_keywords+['russia:0.417', 'eurobonds:0.4159', 'debt:0.3923', 'roubles:0.3396', 'nicaragua:0.3361', 'investors:0.2446', 'sovereign:0.2317', 'reuters:0.2243', 'crisis:0.209', 'covid:0.1942', 'nation:0.1928', 'sanction:0.186', 'bond:0.1736', 'georgieva:0.1664', 'reporting:0.1576', 'global:0.1543', 'trigger:0.1187', 'default:0.1112', 'military:0.1072', 'billion:0.0987', 'patturaja:0.087', 'denominate:0.0806', 'wednesday:0.0624', 'year:0.0611', 'statistic:0.0603', 'moodys:0.0603', 'limit:0.0532', 'record:0.0477', 'say:0.0406', 'widen:-0.0068']+titles_keywords+['debt:0.4288', 'sovereign:0.3377', 'history:0.3281', 'defaults:0.2311']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/wsau.com/Ukrainian military has no information about Russian border guards coming under fire.txt+eventbasecode10+eventcode10+avgtone0.5+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kursk:0.4125', 'ukraine:0.3998', 'ukrainian:0.3942', 'ukraines:0.3901', 'russian:0.3462', 'military:0.2987', 'border:0.2935', 'guard:0.2599', 'reuters:0.1516', 'come:0.1256', 'region:0.1127', 'staff:0.1091', 'general:0.1055', 'incident:0.1046', 'force:0.0913', 'tuesday:0.0691', 'arm:0.0656', 'regional:0.0634', 'official:0.0529', 'question:0.0497', 'response:0.0458', 'information:0.0448', 'say:0.0308', 'wednesday:0.0306', 'spokesman:0.0038', 'comment:-0.0225']+titles_keywords+['ukrainian:0.3699', 'guards:0.283', 'border:0.1991', 'information:0.1513', 'coming:0.0306']"
+        ],
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/wsau.com/Russian security forces raid house of TV protestor Ovsyannikova lawyer.txt+eventbasecode10+eventcode10+avgtone0.4626865671641791+goldsteinscale0.5+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.01644736842105263+news_keywords+['ovsyannikova:0.4747', 'ukraine:0.4272', 'russian:0.4124', 'dmitry:0.3813', 'journalist:0.3768', 'russias:0.3631', 'broadcast:0.321', 'news:0.3074', 'television:0.2777', 'channel:0.254', 'protest:0.2525', 'arrest:0.2359', 'telegram:0.2184', 'security:0.2115', 'war:0.209', 'social:0.1858', 'fake:0.1807', 'marina:0.1656', 'search:0.1625', 'prominence:0.1429', 'live:0.1399', 'open:0.0924', 'flagship:0.0917', 'case:0.0909', 'state:0.0835', 'house:0.069', 'continued:0.0444', 'nightly:0.036', 'medium:0.0353', 'mount:0.0041']+titles_keywords+['ovsyannikova:0.4585', 'russian:0.3626', 'lawyer:0.221', 'tv:0.1901', 'forces:0.0448']"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "IRL+UKR+1123":[
+        []
+    ],
+    "RUS+UKR+1123":[
+        [],
+        [
+            "20220802+../news_crawling/RUS_UKR/p_articles/msn.com/Russia brands Ukrainian steel plant defenders terrorists.txt+eventbasecode112+eventcode1123+avgtone0.4710669077757686+goldsteinscale0.4+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.003289473684210526+news_keywords+['kremlin:0.4756', 'kyiv:0.4567', 'terrorist:0.418', 'reuters:0.3515', 'azov:0.3242', 'regiment:0.2958', 'turkey:0.2909', 'invade:0.2798', 'crime:0.2655', 'extract:0.2523', 'atrocity:0.2474', 'know:0.2344', 'crisis:0.2318', 'agricultural:0.2164', 'agreement:0.2123', 'steel:0.2102', 'proceeding:0.2096', 'word:0.2007', 'testify:0.1972', 'covid:0.1972', 'pows:0.1848', 'explanation:0.1742', 'longer:0.1624', 'thursday:0.1603', 'make:0.155', 'chain:0.151', 'shell:0.1402', 'state:0.1351', 'meter:0.1198', 'unblock:0.1075']+titles_keywords+['ukrainian:0.4541', 'terrorists:0.4388', 'steel:0.3551', 'brands:0.1372', 'plant:0.1141']"
+        ]
+    ],
+    "UKR+RUS+1123":[
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/msn.com/RussiaUkraine conflict highlights As Russian troops withdraw India releases FAQs for citizens in Ukraine.txt+eventbasecode112+eventcode1123+avgtone0.4832780188920092+goldsteinscale0.4+nummentions0.02939042089985486+numarticles0.03009427121102248+numsources0.039473684210526314+news_keywords+['crimea:0.4944', 'russiandefence:0.4852', 'ukraineblamed:0.4189', 'putin:0.4013', 'diplomacy:0.3569', 'evacuation:0.3553', 'sayingrussiasnext:0.3333', 'separatist:0.2763', 'reuters:0.266', 'troop:0.2604', 'cybersecurity:0.2599', 'border:0.2295', 'coordinate:0.223', 'agreement:0.2184', 'alert:0.1933', 'stay:0.1801', 'future:0.1796', 'prepare:0.168', 'hesitate:0.1625', 'table:0.157', 'resume:0.1495', 'contrary:0.148', 'turn:0.1473', 'long:0.146', 'function:0.1415', 'valentine:0.1359', 'pullback:0.1339', 'usual:0.1264', 'exactly:0.1169', 'increase:0.1166']+titles_keywords+['russiaukraine:0.4272', 'faqs:0.3192', 'troops:0.2763', 'conflict:0.2562', 'withdraw:0.1655']"
+        ],
+        [],
+        []
+    ]
+}

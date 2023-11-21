@@ -1,0 +1,30 @@
+{
+    "RUS+RUS+10":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/9news.com.au/Damage to Snake Island where Ukrainian troops sent defiant message to Russian warship seen in.txt+eventbasecode10+eventcode10+avgtone0.4681318681318682+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimea:0.5232', 'russian:0.3373', 'island:0.3209', 'zelensky:0.2911', 'invasion:0.2828', 'snake:0.2791', 'territorial:0.2724', 'volodymyr:0.2687', 'military:0.2406', 'kill:0.2156', 'shell:0.1945', 'infrastructure:0.1933', 'tank:0.1921', 'crater:0.1846', 'strategic:0.1826', 'damage:0.1744', 'cover:0.1563', 'repel:0.156', 'know:0.1402', 'kilometre:0.1323', 'snow:0.1305', 'report:0.1267', 'photo:0.1234', 'key:0.1112', 'reverse:0.0981', 'later:0.0951', 'include:0.0944', 'word:0.0735', 'highlighting:0.0667', 'send:0.0574']+titles_keywords+['island:0.3595', 'snake:0.3153', 'ukrainian:0.3103', 'troops:0.2735', 'damage:0.2366']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/9news.com.au/Inquest hears man who killed Brisbane bus driver urged police to detain him.txt+eventbasecode10+eventcode10+avgtone0.46830265848670755+goldsteinscale0.5+nummentions0.04898403483309144+numarticles0.049673676577229875+numsources0.13486842105263158+news_keywords+['security:0.3966', 'police:0.3528', 'screen:0.3317', 'barrier:0.3076', 'detain:0.2949', 'brisbane:0.2672', 'implementation:0.26', 'coroner:0.2568', 'information:0.2369', 'pandemic:0.2335', 'glare:0.2297', 'driver:0.214', 'perspex:0.2106', 'treatment:0.2023', 'despite:0.2006', 'inquest:0.1976', 'rail:0.1963', 'examine:0.1921', 'delusion:0.1895', 'molotov:0.1892', 'council:0.1873', 'necessary:0.1687', 'sharma:0.1599', 'cost:0.1597', 'hear:0.1574', 'continue:0.1365', 'year:0.1195', 'barnes:0.0976', 'today:0.0946', 'man:0.0845']+titles_keywords+['brisbane:0.2958', 'detain:0.2873', 'driver:0.22', 'inquest:0.1839', 'man:0.0943']"
+        ],
+        [
+            "20220712+../news_crawling/RUS_UKR/p_articles/9news.com.au/Ukraine claims its targeting Russian troops with longrange strikes.txt+eventbasecode10+eventcode10+avgtone0.47345132743362833+goldsteinscale0.5+nummentions0.015239477503628448+numarticles0.01595358955765047+numsources0.01644736842105263+news_keywords+['ukraine:0.4803', 'terrorism:0.3609', 'battalion:0.3046', 'artillery:0.2943', 'frontlines:0.2792', 'attack:0.2791', 'kill:0.2704', 'eyewitnesses:0.2682', 'news:0.2647', 'explosion:0.264', 'casualty:0.2522', 'damage:0.2309', 'report:0.2097', 'rubble:0.201', 'intercept:0.2005', 'write:0.1957', 'telegram:0.1857', 'syniehubov:0.1853', 'target:0.1742', 'structure:0.1519', 'point:0.15', 'systems:0.1434', 'residential:0.13', 'far:0.1293', 'tass:0.1289', 'saturday:0.1241', 'multiple:0.1224', 'child:0.0822', 'governor:0.0786', 'thanks:0.0682']+titles_keywords+['ukraine:0.4393', 'targeting:0.3082', 'troops:0.2283', 'longrange:0.216', 'strikes:0.1533']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220120+../news_crawling/RUS_UKR/p_articles/9news.com.au/Biden clarifies Russia will pay a heavy price if units move across Ukrainian border.txt+eventbasecode10+eventcode10+avgtone0.4820075757575758+goldsteinscale0.5+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.009868421052631578+news_keywords+['putin:0.4339', 'nato:0.4133', 'biden:0.3363', 'attack:0.3335', 'incursion:0.2939', 'cyberattacks:0.2884', 'border:0.2613', 'bipartisan:0.2602', 'clarify:0.2597', 'tactic:0.2571', 'coordinate:0.2326', 'predict:0.2278', 'economic:0.2222', 'news:0.2083', 'ally:0.1974', 'depend:0.1916', 'uniform:0.1889', 'response:0.184', 'page:0.1833', 'thursday:0.1781', 'psaki:0.1776', 'meet:0.1651', 'change:0.1585', 'assemble:0.1503', 'men:0.1425', 'price:0.1413', 'long:0.138', 'end:0.1323', 'severe:0.1285', 'ready:0.1213']+titles_keywords+['biden:0.3225', 'ukrainian:0.2828', 'price:0.2166', 'heavy:0.1451', 'clarifies:0.0607']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/9news.com.au/US President Joe Biden calls Russian atrocities in Ukraine a genocide for the first time.txt+eventbasecode10+eventcode10+avgtone0.47309833024118736+goldsteinscale0.5+nummentions0.3454281567489115+numarticles0.34590282813633066+numsources0.3782894736842105+news_keywords+['genocide:0.5202', 'putin:0.4462', 'treaty:0.3647', 'ukrainian:0.3562', 'confrontation:0.3099', 'biden:0.2915', 'intervene:0.288', 'hutus:0.2607', 'evil:0.2262', 'decide:0.222', 'trigger:0.2169', 'administration:0.2087', 'imply:0.2018', 'evidence:0.1873', 'block:0.1866', 'defines:0.1755', 'intent:0.1745', 'word:0.1741', 'example:0.1718', 'bloody:0.1677', 'dramatic:0.1576', 'washington:0.1566', 'learn:0.1493', 'declare:0.1439', 'names:0.1435', 'direct:0.1289', 'sure:0.1272', 'calling:0.1271', 'day:0.1145', 'far:0.0873']+titles_keywords+['biden:0.4207', 'genocide:0.4158', 'russian:0.2838', 'time:0.0704', 'calls:0.0565']"
+        ]
+    ],
+    "WST+RUS+10":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/9news.com.au/NATO deputy Putin cant win his unprovoked illogical war.txt+eventbasecode10+eventcode10+avgtone0.4705882352941177+goldsteinscale0.5+nummentions0.07293178519593614+numarticles0.07360406091370558+numsources0.12828947368421054+news_keywords+['putin:0.5081', 'nato:0.4989', 'ukrainians:0.4091', 'militarily:0.3764', 'unprovoked:0.2839', 'battlegroups:0.2709', 'nation:0.212', 'win:0.2033', 'ominous:0.2015', 'imperial:0.199', 'flank:0.1923', 'reinforcement:0.1838', 'occupy:0.1834', 'economic:0.1768', 'constitute:0.1723', 'opposite:0.172', 'continue:0.1612', 'come:0.1551', 'illogical:0.1434', 'weapon:0.1422', 'fierce:0.1388', 'eventually:0.1213', 'observer:0.1207', 'proof:0.1152', 'big:0.1108', 'month:0.1018', 'new:0.1013', 'miscalculation:0.0955', 'material:0.0915', 'welcome:0.0664']+titles_keywords+['nato:0.488', 'putin:0.4837', 'illogical:0.3012', 'unprovoked:0.2909', 'win:0.2421']"
+        ]
+    ]
+}

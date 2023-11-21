@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+17":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/wn.com/Stung by sanctions over Ukraine Russians rally behind Vladimir Putin.txt+eventbasecode17+eventcode17+avgtone0.4847328244274809+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5654', 'ukraine:0.5626', 'kremlin:0.5092', 'russians:0.4975', 'vladimir:0.4943', 'moscow:0.4835', 'oppose:0.2662', 'troop:0.2507', 'sanction:0.2487', 'rally:0.2451', 'guerman:0.2291', 'leader:0.1965', 'follow:0.1897', 'western:0.1664', 'affluent:0.1627', 'strongman:0.1587', 'advertising:0.1502', 'change:0.132', 'february:0.121', 'class:0.1065', 'rita:0.1053', 'opinion:0.1034', 'middle:0.1001', 'eye:0.0927', 'send:0.09', 'like:0.083', 'stung:0.0822', 'long:0.0797', 'late:0.0757', 'open:0.0628']+titles_keywords+['putin:0.5119', 'sanctions:0.4415', 'russians:0.4294', 'rally:0.3051', 'stung:0.0691']"
+        ],
+        [
+            "20220623+../news_crawling/RUS_UKR/p_articles/wn.com/Putins Global Ratings Drop to 20Year Low Pew.txt+eventbasecode17+eventcode17+avgtone0.4846153846153846+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putins:0.4807', 'russias:0.4122', 'vladimir:0.3898', 'russian:0.3616', 'ukrainians:0.3431', 'president:0.2591', 'pew:0.245', 'sunk:0.2386', 'low:0.2379', 'month:0.2267', 'invasion:0.2266', 'year:0.2172', 'median:0.2132', 'ratings:0.2078', 'drop:0.1977', 'poll:0.1954', 'country:0.1896', 'kill:0.1878', 'global:0.179', 'thousand:0.1651', 'research:0.1383', 'enter:0.1328', 'fourth:0.1288', 'publish:0.1155', 'say:0.0908', 'displace:0.0792', 'respondent:0.0772', 'accord:0.0669', 'wednesday:0.0553', 'center:0.0538']+titles_keywords+['putins:0.4128', 'pew:0.3825', '20year:0.2915', 'low:0.2585', 'global:0.1631']"
+        ]
+    ],
+    "UKR+RUS+17":[
+        [
+            "20220622+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine and Russia forces entrenched Putin to mark WWII anniversary.txt+eventbasecode17+eventcode17+avgtone0.49528301886792453+goldsteinscale0.5+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.5234', 'ukrainian:0.4632', 'soviet:0.4442', 'russia:0.428', 'wwii:0.4109', 'commemoration:0.4088', 'russian:0.3864', 'putin:0.3495', 'war:0.3224', 'anniversary:0.3106', 'battleground:0.301', 'artillery:0.2876', 'invasion:0.2669', 'fighting:0.2206', 'hitler:0.1963', 'month:0.1836', 'eastern:0.1826', 'recent:0.168', 'country:0.1563', 'wednesday:0.1562', 'day:0.1505', 'edge:0.1299', 'union:0.1268', 'long:0.1252', 'week:0.125', 'entrench:0.1193', 'favour:0.1004', 'force:0.0961', 'mark:0.085', 'huge:0.0719']+titles_keywords+['putin:0.4383', 'wwii:0.3538', 'anniversary:0.2695', 'forces:0.1389', 'entrenched:0.1169']"
+        ]
+    ]
+}

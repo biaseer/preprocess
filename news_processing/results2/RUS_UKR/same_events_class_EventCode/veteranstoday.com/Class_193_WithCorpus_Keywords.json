@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+193":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/veteranstoday.com/Russia Gifts Nazi War Gear to AntiFascist Peoples Militias.txt+eventbasecode193+eventcode193+avgtone0.49643281807372175+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5171', 'soviet:0.4628', 'putin:0.3976', 'warfare:0.3565', 'zelensky:0.2904', 'federation:0.2684', 'negotiation:0.2423', 'pr:0.2371', 'sabotage:0.2314', 'uav:0.2212', 'comakv:0.2177', 'technical:0.2139', 'develop:0.2125', 'corridor:0.2047', 'description:0.2008', 'read:0.1992', 'deliver:0.1984', 'breakthrough:0.1981', 'march:0.197', 'seize:0.1823', 'prepared:0.1807', 'gifts:0.1797', 'include:0.1731', 'direct:0.1699', 'fully:0.1608', 'buk:0.1561', 'donbass:0.1423', 'night:0.1322', 'far:0.12', 'agree:0.0816']+titles_keywords+['nazi:0.4173', 'russia:0.4078', 'militias:0.3952', 'gifts:0.2485', 'gear:0.1934']"
+        ],
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/veteranstoday.com/March 23 Early morning briefing by Russian Defence Ministry.txt+eventbasecode193+eventcode193+avgtone0.4824455205811138+goldsteinscale0.0+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.003289473684210526+news_keywords+['infantry:0.4657', 'donetsk:0.4445', 'novobakhmutovka:0.4262', 'russian:0.4042', 'brigade:0.3906', 'retreat:0.3335', 'railway:0.2952', 'march:0.2921', 'armed:0.2907', 'destroy:0.2831', 'nationalist:0.2735', 'verkhnetoretskoe:0.2627', 'fight:0.2584', 'colonelcassad:0.253', 'tank:0.2511', 'pursue:0.2427', 'continue:0.2207', 'unit:0.2128', 'control:0.2072', 'th:0.203', 'defence:0.2016', 'night:0.2015', 'forces:0.1935', 'mechanized:0.1795', 'area:0.1551', 'complete:0.1451', 'brief:0.1442', 'currently:0.1384', 'grouping:0.1344', 'livejournal:0.1182']+titles_keywords+['briefing:0.563', 'russian:0.3904', 'march:0.3147', 'defence:0.2719', 'morning:0.2614']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/veteranstoday.com/Russia uses unmanned helicopters to draw out Ukrainian air defenses.txt+eventbasecode193+eventcode193+avgtone0.48837209302325585+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['drone:0.5616', 'ukrainian:0.4157', 'russia:0.399', 'troop:0.3048', 'combat:0.3031', 'rotor:0.2917', 'vehicle:0.2765', 'prototype:0.2709', 'technodinamika:0.2621', 'footage:0.2456', 'weapon:0.2404', 'identify:0.173', 'starstreak:0.1667', 'make:0.1608', 'target:0.1579', 'possible:0.1343', 'simulate:0.1333', 'complex:0.126', 'unman:0.1246', 'claim:0.1163', 'include:0.1099', 'new:0.0925', 'tail:0.0919', 'behavior:0.0917', 'defenses:0.0893', 'ground:0.0862', 'jsc:0.0575', 'wednesday:0.0489', 'disintegrate:0.0462', 'completely:0.0431']+titles_keywords+['helicopters:0.5219', 'ukrainian:0.3897', 'unmanned:0.3392', 'defenses:0.1015', 'uses:0.0894']"
+        ]
+    ]
+}

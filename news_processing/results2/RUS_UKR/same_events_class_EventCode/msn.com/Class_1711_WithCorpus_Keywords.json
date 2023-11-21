@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+1711":[
+        [
+            "20220506+../news_crawling/RUS_UKR/p_articles/msn.com/Biden announces 150 million security package to Ukraine.txt+eventbasecode171+eventcode1711+avgtone0.5020408163265305+goldsteinscale0.040000000000000036+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.01644736842105263+news_keywords+['ukraine:0.4203', 'funding:0.3443', 'biden:0.3311', 'troop:0.3047', 'war:0.2871', 'reuters:0.2774', 'security:0.2706', 'oligarch:0.2696', 'congress:0.261', 'package:0.2571', 'artillery:0.2322', 'announcement:0.2306', 'humanitarian:0.2272', 'additional:0.2246', 'ahead:0.2125', 'intend:0.203', 'approve:0.1989', 'million:0.1969', 'superyachts:0.1862', 'table:0.1808', 'ally:0.177', 'term:0.172', 'read:0.1704', 'negotiate:0.1631', 'drawdown:0.1335', 'calendar:0.126', 'long:0.122', 'make:0.1199', 'today:0.1035', 'nearly:0.0989']+titles_keywords+['biden:0.4044', 'ukraine:0.3448', 'package:0.3346', 'security:0.2657', 'million:0.202']"
+        ],
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/msn.com/Justice Department seizing Russian oligarchs massive private jet.txt+eventbasecode171+eventcode1711+avgtone0.49413145539906106+goldsteinscale0.040000000000000036+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['oligarchs:0.4576', 'plane:0.3503', 'russian:0.3367', 'sanction:0.322', 'billionaire:0.3104', 'federal:0.2975', 'abramovich:0.2932', 'gulfstream:0.2717', 'oil:0.2523', 'seize:0.2489', 'commerce:0.2483', 'case:0.2398', 'biden:0.2339', 'concern:0.2335', 'document:0.2303', 'deliver:0.2266', 'peace:0.2231', 'manhattan:0.1921', 'information:0.1915', 'investigator:0.1805', 'million:0.1804', 'nbc:0.1764', 'continue:0.155', 'say:0.1401', 'frozen:0.1311', 'confirm:0.1254', 'independently:0.1155', 'include:0.1049', 'unfurnished:0.1032', 'accord:0.0818']+titles_keywords+['oligarchs:0.4205', 'russian:0.3434', 'jet:0.3386', 'justice:0.2073', 'private:0.1952']"
+        ]
+    ]
+}

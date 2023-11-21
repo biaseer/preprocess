@@ -1,0 +1,12 @@
+{
+    "ISR+UKR+40":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/inlandnewstoday.com/Ukraine Day 17 brings casualties clashes and evacuation attempts.txt+eventbasecode40+eventcode40+avgtone0.46969696969696967+goldsteinscale0.55+nummentions0.14622641509433962+numarticles0.14684554024655547+numsources0.5460526315789473+news_keywords+['kyiv:0.5514', 'ukraines:0.4888', 'ceasefire:0.4454', 'putin:0.4298', 'evacuate:0.3741', 'emergency:0.3209', 'zelensky:0.2959', 'news:0.2881', 'inform:0.2769', 'israeli:0.2477', 'military:0.2454', 'casualty:0.2447', 'naftali:0.2222', 'report:0.2168', 'visit:0.2157', 'friday:0.2133', 'speak:0.2101', 'ignore:0.2025', 'continue:0.1912', 'intensify:0.1639', 'ready:0.1563', 'nearly:0.154', 'temperature:0.1485', 'power:0.1433', 'include:0.1263', 'point:0.1249', 'corridor:0.1221', 'agree:0.119', 'make:0.1166', 'state:0.109']+titles_keywords+['evacuation:0.4815', 'ukraine:0.4366', 'casualties:0.421', 'clashes:0.3381', '17:0.1658']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220624+../news_crawling/RUS_UKR/p_articles/inlandnewstoday.com/EU makes Ukraine a candidate for membership Biden to send 450 million in aid to.txt+eventbasecode40+eventcode40+avgtone0.4975806451612903+goldsteinscale0.55+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4452', 'nato:0.4297', 'treaty:0.3791', 'invade:0.3015', 'reform:0.2743', 'political:0.2692', 'union:0.2691', 'bloc:0.2488', 'announcement:0.2453', 'urgency:0.2373', 'expect:0.2202', 'come:0.2202', 'biden:0.2185', 'aid:0.218', 'pentagon:0.2056', 'clause:0.2048', 'bid:0.1997', 'commission:0.1978', 'authorize:0.197', 'volodymyr:0.1966', 'thursday:0.1954', 'include:0.1825', 'hour:0.1773', 'gain:0.1697', 'detailed:0.1677', 'systems:0.145', 'cover:0.1386', 'set:0.1372', 'agree:0.0956', 'doesnt:0.0849']+titles_keywords+['ukraine:0.4039', 'biden:0.2945', 'aid:0.2505', 'million:0.1646', 'send:0.1523']"
+        ]
+    ]
+}

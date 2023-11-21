@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+51":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/dunfermlinepress.com/Defence minister backs Ukraine striking Russian soil with British weapons.txt+eventbasecode51+eventcode51+avgtone0.483271375464684+goldsteinscale0.67+nummentions0.15529753265602322+numarticles0.1559100797679478+numsources0.17434210526315788+news_keywords+['ukraine:0.4887', 'nato:0.4361', 'russias:0.4298', 'putin:0.4267', 'warfare:0.3807', 'threat:0.3002', 'prepare:0.2869', 'nuclear:0.2794', 'lavrovs:0.2654', 'fortify:0.2307', 'news:0.2265', 'border:0.2107', 'nonsense:0.208', 'order:0.1882', 'range:0.1783', 'response:0.1728', 'stormer:0.1698', 'lethal:0.1684', 'shift:0.1549', 'increase:0.1513', 'heappey:0.1499', 'import:0.1364', 'accuse:0.1325', 'world:0.1316', 'make:0.1305', 'amid:0.12', 'mr:0.114', 'evenly:0.1018', 'necessarily:0.0839', 'werent:0.059']+titles_keywords+['ukraine:0.3742', 'striking:0.2176', 'weapons:0.2112', 'backs:0.1292', 'minister:0.081']"
+        ]
+    ],
+    "POL+UKR+51":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/dunfermlinepress.com/Russian offensive turns to key Donbas city.txt+eventbasecode51+eventcode51+avgtone0.4753086419753087+goldsteinscale0.67+nummentions0.20029027576197386+numarticles0.20087019579405366+numsources0.3026315789473684+news_keywords+['kyiv:0.5129', 'putin:0.4387', 'war:0.3254', 'polands:0.2914', 'zelensky:0.2792', 'occupy:0.2489', 'sievierodonetsk:0.2432', 'partisan:0.23', 'engage:0.2233', 'turn:0.2114', 'news:0.2054', 'industrial:0.1993', 'unify:0.1967', 'prepare:0.1961', 'resume:0.1939', 'long:0.187', 'donbas:0.1866', 'extend:0.1847', 'north:0.1847', 'future:0.1672', 'prosecute:0.1664', 'important:0.1634', 'transit:0.1633', 'submit:0.161', 'hear:0.1609', 'sergeant:0.1593', 'kilometre:0.1567', 'example:0.1145', 'april:0.1109', 'thank:0.0895']+titles_keywords+['donbas:0.447', 'russian:0.3425', 'city:0.2564', 'offensive:0.1958', 'turns:0.1459']"
+        ]
+    ]
+}

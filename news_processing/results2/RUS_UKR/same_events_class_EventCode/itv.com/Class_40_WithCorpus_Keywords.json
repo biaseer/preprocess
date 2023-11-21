@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+40":[
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/itv.com/Weve got to show our pecs Johnson mocks Putins topless photos during G7 meeting.txt+eventbasecode40+eventcode40+avgtone0.49029126213592233+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5039', 'trudeau:0.4382', 'macron:0.3723', 'shirtless:0.3382', 'warming:0.2707', 'suit:0.2609', 'news:0.2273', 'history:0.199', 'germanys:0.1937', 'johnson:0.1914', 'photograph:0.1839', 'counterparts:0.1818', 'weve:0.1796', 'brief:0.1749', 'global:0.1745', 'mr:0.1744', 'podcasts:0.1739', 'calendar:0.1628', 'big:0.162', 'mock:0.1528', 'horseback:0.1525', 'pecs:0.1486', 'joke:0.1416', 'bizarre:0.1414', 'choice:0.1413', 'say:0.1405', 'rid:0.1399', 'pin:0.1368', 'emerge:0.1091', 'shopperslooking:0.0827']+titles_keywords+['putins:0.3627', 'pecs:0.3473', 'topless:0.3399', 'johnson:0.3041', 'weve:0.2307']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/itv.com/President Zelenskyy says Ukraine ready for peace talks with Russia but not in Belarus.txt+eventbasecode40+eventcode40+avgtone0.47975553857906794+goldsteinscale0.55+nummentions0.16944847605224964+numarticles0.1700507614213198+numsources0.5592105263157895+news_keywords+['kyiv:0.5605', 'putin:0.435', 'russias:0.3866', 'zelenskyy:0.3743', 'correspondent:0.3423', 'evacuate:0.3277', 'diplomatic:0.316', 'separatists:0.3098', 'overthrow:0.2716', 'military:0.2556', 'information:0.2389', 'north:0.2052', 'hear:0.1999', 'continue:0.1969', 'fighting:0.196', 'pipeline:0.1958', 'report:0.1957', 'plan:0.1939', 'terrified:0.1927', 'ready:0.1729', 'night:0.1607', 'warm:0.1586', 'stock:0.1544', 'main:0.1461', 'arent:0.1373', 'mile:0.1324', 'head:0.1308', 'focus:0.1192', 'captive:0.1166', 'gauze:0.1015']+titles_keywords+['zelenskyy:0.5124', 'ukraine:0.3459', 'peace:0.2392', 'president:0.122', 'ready:0.1086']"
+        ]
+    ]
+}

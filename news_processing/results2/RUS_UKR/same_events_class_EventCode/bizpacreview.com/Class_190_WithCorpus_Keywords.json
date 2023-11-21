@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/bizpacreview.com/Putin shocks world by firing on huge nuclear plant for the first time in history.txt+eventbasecode190+eventcode190+avgtone0.47417840375586856+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['chernobyl:0.5446', 'putin:0.4384', 'ukraines:0.416', 'reactors:0.41', 'propaganda:0.3139', 'evacuate:0.2761', 'dangerous:0.2741', 'bomb:0.2622', 'prepare:0.2242', 'atomic:0.2242', 'power:0.221', 'news:0.2185', 'urgent:0.2002', 'input:0.1971', 'volodymyr:0.1963', 'world:0.1944', 'sanction:0.1898', 'military:0.1839', 'aggressor:0.1837', 'know:0.1833', 'grid:0.1645', 'znpp:0.1514', 'monitoring:0.147', 'immediately:0.1438', 'fifth:0.1406', 'rf:0.1269', 'end:0.126', 'state:0.1062', 'set:0.0917', 'thanked:0.0394']+titles_keywords+['putin:0.439', 'nuclear:0.4365', 'firing:0.2541', 'world:0.2365', 'huge:0.1742']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/bizpacreview.com/Putins troops reportedly shooting themselves in the legs so they can go home.txt+eventbasecode190+eventcode190+avgtone0.46383866481223923+goldsteinscale0.0+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.019736842105263157+news_keywords+['comrade:0.501', 'putin:0.4569', 'battalion:0.4491', 'ukrainians:0.4182', 'airstrike:0.3691', 'invasion:0.3419', 'conscript:0.3131', 'officer:0.2961', 'peaceful:0.2867', 'kill:0.2801', 'ak:0.2613', 'news:0.2589', 'government:0.251', 'report:0.2449', 'oppose:0.2396', 'phony:0.2323', 'hide:0.2323', 'ammo:0.229', 'know:0.2267', 'child:0.2266', 'feed:0.224', 'order:0.2205', 'input:0.2083', 'end:0.187', 'footage:0.1602', 'legs:0.1551', 'wont:0.1527', 'bpr:0.1401', 'medium:0.1165', 'sent:0.0617']+titles_keywords+['putins:0.4507', 'troops:0.3932', 'shooting:0.3382', 'legs:0.2659', 'reportedly:0.2108']"
+        ]
+    ]
+}

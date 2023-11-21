@@ -1,0 +1,12 @@
+{
+    "RUS+USA+112":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/rte.ie/Biden says Putin considering using chemical weapons.txt+eventbasecode112+eventcode112+avgtone0.47647058823529415+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.4361', 'nato:0.3746', 'attack:0.3521', 'warn:0.3243', 'sanction:0.2967', 'cyber:0.283', 'operation:0.265', 'infrastructure:0.2522', 'flag:0.2337', 'chemical:0.2314', 'prepare:0.2266', 'know:0.2266', 'cite:0.2235', 'respond:0.2117', 'deter:0.192', 'secretary:0.1825', 'option:0.1792', 'psaki:0.1771', 'tweeted:0.174', 'issue:0.1637', 'immediately:0.1546', 'create:0.1406', 'undefined:0.1364', 'summit:0.1345', 'month:0.0997', 'possibly:0.0899', 'true:0.0877', 'house:0.0787', 'specific:0.0748', 'measure:0.0735']+titles_keywords+['putin:0.4531', 'biden:0.392', 'weapons:0.1846', 'chemical:0.1736', 'considering:0.1525']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220808+../news_crawling/RUS_UKR/p_articles/rte.ie/Zaporizhzhia Nuclear power plant caught in Ukraine war.txt+eventbasecode112+eventcode112+avgtone0.4747899159663866+goldsteinscale0.4+nummentions0.02358490566037736+numarticles0.02284263959390863+numsources0.06907894736842106+news_keywords+['chernobyl:0.585', 'reactor:0.458', 'kyiv:0.449', 'soviet:0.3794', 'uranium:0.3573', 'zaporizhzhia:0.3197', 'demilitarise:0.2772', 'disaster:0.2493', 'terrorism:0.249', 'annex:0.234', 'concern:0.2329', 'megawatt:0.2077', 'troop:0.198', 'iaea:0.1907', 'construction:0.1877', 'know:0.1589', 'cataclysmic:0.1526', 'switch:0.1481', 'contact:0.1461', 'withstand:0.1376', 'continue:0.137', 'major:0.1228', 'centre:0.1179', 'vver:0.1151', 'state:0.1043', 'world:0.0991', 'dnipro:0.0765', 'external:0.0685', 'hour:0.0633', 'possible:0.0498']+titles_keywords+['nuclear:0.4488', 'ukraine:0.4017', 'zaporizhzhia:0.3941', 'war:0.2619', 'caught:0.0737']"
+        ]
+    ]
+}

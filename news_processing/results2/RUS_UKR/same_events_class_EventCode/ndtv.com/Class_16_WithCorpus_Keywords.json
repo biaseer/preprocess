@@ -1,0 +1,20 @@
+{
+    "RUS+RUS+16":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/ndtv.com/I Think Sane People Can See Russian Minister Denies Putin Is Ill.txt+eventbasecode16+eventcode16+avgtone0.4666666666666666+goldsteinscale0.4+nummentions0.07293178519593614+numarticles0.043509789702683106+numsources0.06578947368421052+news_keywords+['putin:0.5791', 'moscow:0.4078', 'lavrov:0.3197', 'appear:0.2824', 'headline:0.2752', 'ailment:0.2731', 'diplomat:0.2699', 'sane:0.266', 'public:0.2262', 'sanction:0.2244', 'speech:0.2243', 'sign:0.2237', 'read:0.2181', 'subject:0.2095', 'crisis:0.2014', 'speculation:0.1987', 'deny:0.1971', 'war:0.1964', 'france:0.1806', 'taboo:0.166', 'world:0.1558', 'file:0.1452', 'staff:0.1299', 'point:0.1243', 'big:0.1242', 'ndtv:0.1091', 'february:0.1009', 'decade:0.0905', 'tf:0.0755', 'send:0.0607']+titles_keywords+['putin:0.4582', 'sane:0.3707', 'denies:0.1787', 'people:0.1238', 'think:0.1221']"
+        ]
+    ],
+    "RUS+UKR+16":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/ndtv.com/Russia Dismisses Claims It Was Responsible For Ukraine Cyberattack.txt+eventbasecode16+eventcode16+avgtone0.4699248120300752+goldsteinscale0.4+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.01644736842105263+news_keywords+['ukraine:0.4589', 'russian:0.3973', 'cyberattack:0.3934', 'ddos:0.2718', 'baseless:0.2517', 'allegation:0.2409', 'attack:0.218', 'malicious:0.2145', 'reject:0.157', 'denial:0.1559', 'banking:0.1543', 'statement:0.1523', 'military:0.1431', 'embassy:0.1349', 'responsible:0.1299', 'websites:0.1072', 'states:0.0984', 'conduct:0.0974', 'friday:0.0905', 'offline:0.0702', 'recent:0.0695', 'say:0.0585', 'briefly:0.0464', 'categorically:0.0443', 'advisor:0.0379', 'neuberger:0.0372', 'anne:0.0309', 'note:0.0219', 'united:0.0183', 'spate:-0.0075']+titles_keywords+['ukraine:0.396', 'cyberattack:0.3516', 'dismisses:0.1398', 'claims:0.1294', 'responsible:0.1181']"
+        ],
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/ndtv.com/Students Try Bulletproof Vests And Escape Drills In East Ukraine.txt+eventbasecode16+eventcode16+avgtone0.47345132743362833+goldsteinscale0.4+nummentions0.02576197387518142+numarticles0.026468455402465556+numsources0.02631578947368421+news_keywords+['ukraine:0.4991', 'soviet:0.4305', 'evacuation:0.4246', 'explosives:0.3797', 'military:0.367', 'vests:0.3525', 'students:0.2848', 'bulletproof:0.2802', 'zelenskiy:0.263', 'drill:0.2592', 'tank:0.2586', 'separatist:0.251', 'prepare:0.2443', 'scary:0.2257', 'nazar:0.2193', 'border:0.2166', 'plan:0.2078', 'defence:0.2027', 'learn:0.1985', 'child:0.1963', 'authority:0.1717', 'prevent:0.16', 'km:0.1585', 'specialist:0.1571', 'ndtv:0.1361', 'story:0.1271', 'higher:0.107', 'generate:0.0877', 'hypothetically:0.079', 'say:0.0749']+titles_keywords+['vests:0.4443', 'ukraine:0.4051', 'students:0.3413', 'bulletproof:0.3279', 'escape:0.2599']"
+        ]
+    ],
+    "TUR+RUS+16":[
+        [
+            "20220723+../news_crawling/RUS_UKR/p_articles/ndtv.com/Have Nothing To Do With Strike On Ukraines Odessa Port Russia To Turkey.txt+eventbasecode16+eventcode16+avgtone0.48290598290598297+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4288', 'odessa:0.4188', 'moscow:0.3978', 'ankara:0.3717', 'attack:0.2751', 'strike:0.245', 'port:0.2406', 'incident:0.2156', 'worry:0.2135', 'contact:0.1937', 'headline:0.1909', 'issue:0.1815', 'publish:0.162', 'syndicate:0.1486', 'statement:0.1234', 'edit:0.1101', 'examine:0.1088', 'right:0.1088', 'ndtv:0.1011', 'staff:0.1007', 'official:0.0938', 'akar:0.0928', 'defence:0.0907', 'closely:0.0785', 'yesterday:0.0671', 'really:0.0656', 'fee:0.0577', 'say:0.0447', 'add:0.0314', 'hulusai:-0.0028']+titles_keywords+['ukraines:0.4153', 'odessa:0.4036', 'turkey:0.3076', 'port:0.3035', 'strike:0.2845']"
+        ]
+    ]
+}

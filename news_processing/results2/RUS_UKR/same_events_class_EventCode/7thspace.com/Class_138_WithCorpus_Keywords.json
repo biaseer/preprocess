@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+138":[
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/7thspace.com/RTHK ChinaRussian show of force amid Quad summit.txt+eventbasecode138+eventcode138+avgtone0.4949290060851927+goldsteinscale0.15+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['putin:0.3745', 'diplomatic:0.3598', 'invade:0.3446', 'cooperation:0.332', 'military:0.2895', 'mainland:0.2758', 'provocation:0.2758', 'fight:0.2444', 'quad:0.2365', 'conference:0.2234', 'concern:0.2195', 'news:0.2133', 'airspace:0.209', 'xian:0.1922', 'align:0.1854', 'indo:0.1846', 'plan:0.1816', 'order:0.1768', 'rthk:0.1741', 'tu:0.1717', 'end:0.1512', 'say:0.1475', 'nobuo:0.1365', 'ready:0.1283', 'help:0.1145', 'february:0.1139', 'near:0.1113', 'likely:0.0901', 'hour:0.0865', 'characterize:0.022']+titles_keywords+['rthk:0.4869', 'chinarussian:0.4347', 'quad:0.3119', 'summit:0.2907', 'force:0.2379']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220423+../news_crawling/RUS_UKR/p_articles/7thspace.com/RTHK Zelensky calls for meeting with Putin to end war.txt+eventbasecode138+eventcode138+avgtone0.48582995951417+goldsteinscale0.15+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.006578947368421052+news_keywords+['ukraine:0.4554', 'putin:0.4533', 'zelensky:0.3811', 'diplomatic:0.3673', 'war:0.3635', 'negotiation:0.3519', 'rthk:0.2691', 'meet:0.2629', 'talk:0.2589', 'kill:0.245', 'afp:0.2193', 'want:0.1976', 'situation:0.1953', 'end:0.1927', 'referendum:0.1899', 'news:0.1889', 'ready:0.1769', 'remain:0.1766', 'organise:0.1734', 'mariupol:0.1662', 'afraid:0.1606', 'surround:0.1597', 'station:0.1585', 'men:0.1469', 'start:0.1463', 'partner:0.1285', 'repeat:0.1266', 'pseudo:0.113', 'withdraw:0.1072', 'black:0.0929']+titles_keywords+['zelensky:0.554', 'putin:0.4351', 'rthk:0.3348', 'meeting:0.3145', 'end:0.1676']"
+        ]
+    ],
+    "WST+UKR+138":[
+        [
+            "20210619+../news_crawling/RUS_UKR/p_articles/7thspace.com/RTHK Nato chief warns Ukraine war could last years.txt+eventbasecode138+eventcode138+avgtone0.4820627802690583+goldsteinscale0.15+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kyiv:0.5562', 'nato:0.4119', 'zelensky:0.3271', 'strategic:0.2923', 'invasion:0.2538', 'missiles:0.2471', 'regime:0.2397', 'prepare:0.2391', 'conflict:0.2317', 'victory:0.228', 'rthk:0.2279', 'remain:0.2247', 'industrial:0.2194', 'destroy:0.2128', 'safe:0.2053', 'long:0.2001', 'telegram:0.1968', 'howitzer:0.196', 'deliver:0.1855', 'general:0.1708', 'tell:0.1663', 'western:0.161', 'donbas:0.1574', 'article:0.1496', 'housing:0.1322', 'daily:0.1261', 'february:0.1224', 'arm:0.1163', 'mm:0.1123', 'price:0.0688']+titles_keywords+['nato:0.3719', 'rthk:0.3046', 'years:0.3004', 'war:0.297', 'warns:0.1838']"
+        ]
+    ]
+}

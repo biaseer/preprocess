@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/sott.net/Andrew Nekrasov The majority in Russia supports Putin for them the war is a form.txt+eventbasecode190+eventcode190+avgtone0.4740428293316029+goldsteinscale0.0+nummentions0.06676342525399129+numarticles0.06490210297316897+numsources0.07894736842105263+news_keywords+['putin:0.4722', 'ukrainians:0.4508', 'comrade:0.4428', 'nationalist:0.3601', 'geopolitical:0.3455', 'propaganda:0.3384', 'subversiveness:0.3009', 'petersburg:0.2798', 'bourgeoisie:0.2741', 'dialectic:0.2418', 'provoke:0.231', 'emigrate:0.2255', 'invasion:0.2096', 'unite:0.1959', 'understand:0.1827', 'turn:0.1781', 'conclude:0.1743', 'afraid:0.1722', 'future:0.1698', 'population:0.1635', 'reject:0.1511', 'study:0.1511', 'buchkomplizen:0.1447', 'association:0.1413', 'casualty:0.1196', 'long:0.1097', 'rtzer:0.102', 'version:0.0859', 'true:0.081', 'ready:0.071']+titles_keywords+['putin:0.554', 'nekrasov:0.3545', 'war:0.3424', 'majority:0.2718', 'supports:0.1438']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/sott.net/Unlike Ukraine Russia still has vast majority of combat power available as invasion continues.txt+eventbasecode190+eventcode190+avgtone0.4759036144578313+goldsteinscale0.0+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['crimea:0.5085', 'ukrainian:0.4344', 'invade:0.358', 'battalion:0.3461', 'airstrike:0.3337', 'combat:0.3318', 'pentagon:0.3132', 'briefing:0.2775', 'underway:0.2453', 'strategically:0.2315', 'separatist:0.2035', 'turn:0.1983', 'donbas:0.1958', 'operate:0.189', 'capital:0.1792', 'conclude:0.1759', 'zelensky:0.1712', 'assistance:0.1696', 'explain:0.1654', 'total:0.1539', 'eastern:0.1473', 'month:0.1291', 'earlier:0.1289', 'say:0.1234', 'concentrate:0.1127', 'biden:0.1117', 'unlike:0.1053', 'authorize:0.099', 'resource:0.0929', 'btgs:0.0658']+titles_keywords+['ukraine:0.4869', 'invasion:0.2816', 'power:0.1589', 'continues:0.1345', 'unlike:0.1219']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+111":[
+        [
+            "20220506+../news_crawling/RUS_UKR/p_articles/saltlakecitysun.com/China says sanctions make world economy worse amid pressure to condemn Russia.txt+eventbasecode111+eventcode111+avgtone0.4623287671232878+goldsteinscale0.4+nummentions0.02467343976777939+numarticles0.025380710659898477+numsources0.03618421052631579+news_keywords+['sanction:0.4335', 'nato:0.4029', 'war:0.3161', 'xinhua:0.2893', 'china:0.2698', 'world:0.2606', 'economic:0.2391', 'russian:0.2378', 'stabilize:0.2031', 'report:0.202', 'unilateral:0.1819', 'bad:0.1733', 'press:0.1645', 'continue:0.1643', 'remark:0.1604', 'imf:0.1585', 'forecast:0.1565', 'say:0.1446', 'facing:0.1429', 'refuse:0.1425', 'prove:0.1413', 'states:0.1305', 'zhao:0.1195', 'secretary:0.1167', 'increase:0.1098', 'ani:0.1086', 'ready:0.0966', 'sluggish:0.0815', 'especially:0.0754', 'recently:0.0546']+titles_keywords+['sanctions:0.4684', 'economy:0.2495', 'worse:0.2376', 'world:0.2318', 'condemn:0.2106']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/saltlakecitysun.com/Russia launches military strikes on Ukraine warns West to stay away.txt+eventbasecode111+eventcode111+avgtone0.47696245733788395+goldsteinscale0.4+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5822368421052632+news_keywords+['nato:0.4181', 'diplomacy:0.3917', 'kremlin:0.3796', 'kyiv:0.361', 'militarize:0.3582', 'genocide:0.3385', 'cyberattack:0.3165', 'escalation:0.3019', 'reuters:0.2785', 'sanction:0.2684', 'unprovoked:0.2658', 'agreement:0.2554', 'respond:0.2485', 'president:0.2433', 'report:0.2404', 'emergency:0.2221', 'impending:0.2195', 'halt:0.215', 'table:0.2121', 'border:0.2', 'know:0.1989', 'act:0.1984', 'world:0.1743', 'like:0.1534', 'voa:0.1434', 'donbas:0.1343', 'state:0.1255', 'ready:0.1251', 'month:0.1018', 'stoltenberg:0.0839']+titles_keywords+['ukraine:0.3794', 'warns:0.2099', 'military:0.1762', 'strikes:0.1642', 'stay:0.1256']"
+        ]
+    ]
+}

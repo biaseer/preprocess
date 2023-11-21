@@ -1,0 +1,15 @@
+{
+    "AUS+RUS+180":[
+        [
+            "20220709+../news_crawling/RUS_UKR/p_articles/teletrader.com/Australia starts quarantine pay amid new corona wave.txt+eventbasecode180+eventcode180+avgtone0.46969696969696967+goldsteinscale0.05+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['quarantine:0.4935', 'covid:0.4537', 'australia:0.4239', 'canberra:0.3501', 'wave:0.2389', 'support:0.2382', 'worker:0.2262', 'corona:0.2228', 'fend:0.2066', 'pay:0.2009', 'kiev:0.197', 'albanese:0.1863', 'military:0.1855', 'minister:0.1681', 'vulnerable:0.1613', 'amid:0.1549', 'situation:0.1468', 'properly:0.14', 'leave:0.1364', 'additional:0.1348', 'million:0.1284', 'week:0.1281', 'omicron:0.1262', 'assault:0.1138', 'start:0.11', 'able:0.1025', 'prime:0.0989', 'effort:0.0934', 'say:0.0828', 'new:0.0756']+titles_keywords+['quarantine:0.455', 'australia:0.3105', 'corona:0.2574', 'wave:0.2017', 'pay:0.1492']"
+        ]
+    ],
+    "RUS+UKR+180":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/teletrader.com/Ukrainian govt hit by massive cyberattack.txt+eventbasecode180+eventcode180+avgtone0.489795918367347+goldsteinscale0.05+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['cyberattack:0.5246', 'ukraine:0.4179', 'govt:0.3545', 'cyber:0.3046', 'attack:0.2972', 'russian:0.2878', 'police:0.2152', 'website:0.1872', 'hit:0.1824', 'investigation:0.1252', 'affairs:0.1212', 'friday:0.1188', 'state:0.101', 'restore:0.0975', 'work:0.0971', 'open:0.0902', 'foreign:0.0835', 'stress:0.0776', 'massive:0.0759', 'specialist:0.0717', 'record:0.0676', 'ministry:0.066', 'early:0.0585', 'long:0.0518', 'responsible:0.0393', 'note:0.0382', 'bring:0.028', 'conclusion:0.021', 'say:0.0158', 'draw:-0.0427']+titles_keywords+['cyberattack:0.5019', 'ukrainian:0.3776', 'govt:0.2896', 'hit:0.1876', 'massive:0.1143']"
+        ],
+        [
+            "20220814+../news_crawling/RUS_UKR/p_articles/teletrader.com/Russia likely redirecting units to reinforce southern Ukraine UK.txt+eventbasecode180+eventcode180+avgtone0.4925925925925926+goldsteinscale0.05+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['donetsk:0.5296', 'russia:0.3233', 'troop:0.3163', 'reorientation:0.2777', 'pisky:0.2776', 'reinforce:0.2541', 'north:0.2422', 'fighting:0.2397', 'donbas:0.1974', 'primary:0.1947', 'approach:0.1882', 'redirect:0.186', 'continue:0.1834', 'center:0.1665', 'airport:0.1661', 'defense:0.1659', 'near:0.1653', 'goal:0.1536', 'settlement:0.1439', 'sunday:0.1396', 'secure:0.1334', 'report:0.1282', 'unit:0.1237', 'aim:0.1232', 'force:0.1208', 'people:0.1152', 'communique:0.0951', 'largely:0.0664', 'add:0.0542', 'likely:0.0384']+titles_keywords+['ukraine:0.4447', 'reinforce:0.2419', 'redirecting:0.1842', 'units:0.1408', 'likely:0.1254']"
+        ]
+    ]
+}

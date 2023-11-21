@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+43":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/talkingpointsmemo.com/Where Things Stand A Reminder That Even Tucker Carlsons Lawyers Dont Think He Should Be.txt+eventbasecode43+eventcode43+avgtone0.47449521785334753+goldsteinscale0.64+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['putin:0.5592', 'putinism:0.5256', 'russias:0.3851', 'trumpian:0.3606', 'politico:0.3586', 'ideological:0.3463', 'maga:0.3307', 'columnist:0.2976', 'fox:0.2789', 'climate:0.26', 'concern:0.2567', 'topics:0.2564', 'carlsons:0.2546', 'argue:0.2314', 'primetime:0.2073', 'vyskocil:0.1929', 'invasion:0.191', 'sanction:0.1798', 'deep:0.1796', 'decades:0.1533', 'boy:0.1423', 'anecdote:0.1389', 'perhapsthe:0.1207', 'remind:0.1141', 'sen:0.1124', 'sort:0.1047', 'really:0.0985', 'hewondered:0.0964', 'weve:0.0916', 'buy:0.0583']+titles_keywords+['tucker:0.4025', 'stand:0.3001', 'lawyers:0.2525', 'things:0.1832', 'reminder:0.1687']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/talkingpointsmemo.com/How The Kremlin Dehumanizing Ukraine Set The Stage For Bucha.txt+eventbasecode43+eventcode43+avgtone0.4755760368663594+goldsteinscale0.64+nummentions0.00181422351233672+numarticles0.0018129079042784628+numsources0.009868421052631578+news_keywords+['kremlin:0.5089', 'kyiv:0.493', 'russiasswiftvictory:0.4318', 'deukrainianization:0.3817', 'demilitarize:0.3558', 'nationalist:0.3523', 'refugees:0.3078', 'akopovs:0.3049', 'propagandist:0.3046', 'rhetoric:0.3005', 'violent:0.246', 'theyreportedlykilled:0.2434', 'news:0.2274', 'bucha:0.2212', 'understand:0.2183', 'leadership:0.2083', 'write:0.2061', 'stage:0.1948', 'turn:0.1881', 'ambiguous:0.1869', 'anticipate:0.1844', 'outlet:0.1809', 'towndescribedrussian:0.165', 'articleprematurely:0.1596', 'upper:0.1529', 'feature:0.1496', 'state:0.1466', 'archive:0.1353', 'long:0.1182', 'thatdidnot:0.0773']+titles_keywords+['kremlin:0.5187', 'ukraine:0.4903', 'bucha:0.3856', 'dehumanizing:0.3225', 'stage:0.2064']"
+        ]
+    ]
+}

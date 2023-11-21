@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+10":[
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/kgou.org/RussiaUkraine war What happened today June 30.txt+eventbasecode10+eventcode10+avgtone0.4794372294372294+goldsteinscale0.5+nummentions0.23439767779390422+numarticles0.23495286439448876+numsources0.21052631578947367+news_keywords+['russiaukraine:0.5227', 'ukraine:0.5205', 'kremlin:0.4853', 'putin:0.4603', 'nato:0.3933', 'syria:0.3929', 'war:0.385', 'june:0.2249', 'separatist:0.2163', 'sanction:0.2042', 'evacuate:0.2036', 'border:0.2002', 'strategic:0.1986', 'recap:0.1864', 'read:0.1632', 'npr:0.1597', 'happen:0.1417', 'update:0.1416', 'long:0.1372', 'end:0.1122', 'refuse:0.1015', 'grade:0.1007', 'changing:0.0908', 'daily:0.0904', 'hundreds:0.0851', 'subscribe:0.08', 'coverage:0.0783', 'indicator:0.071', 'new:0.0614', 'request:0.0301']+titles_keywords+['russiaukraine:0.4814', 'war:0.4249', 'june:0.3017', 'today:0.3012', 'happened:0.2627']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220702+../news_crawling/RUS_UKR/p_articles/kgou.org/Two Ukrainian fighters describe the current state of the frontlines against Russia.txt+eventbasecode10+eventcode10+avgtone0.5+goldsteinscale0.5+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.09210526315789473+news_keywords+['ukraine:0.4493', 'nato:0.4275', 'frontlines:0.3691', 'pentagon:0.346', 'artillery:0.3373', 'kalashnikovs:0.3306', 'trench:0.3135', 'soldier:0.2869', 'bilohorivka:0.2784', 'understand:0.2513', 'fight:0.2511', 'position:0.2504', 'bomb:0.2442', 'interpreter:0.2341', 'read:0.2302', 'aid:0.2292', 'politics:0.2163', 'safer:0.2067', 'shellshocked:0.1955', 'information:0.1942', 'end:0.1869', 'stay:0.1778', 'radically:0.173', 'control:0.1669', 'reach:0.1504', 'send:0.1472', 'new:0.1389', 'cluster:0.1266', 'pretty:0.1057', 'unfortunately:0.0789']+titles_keywords+['frontlines:0.4808', 'ukrainian:0.4312', 'fighters:0.4003', 'current:0.0833', 'state:0.0521']"
+        ]
+    ]
+}

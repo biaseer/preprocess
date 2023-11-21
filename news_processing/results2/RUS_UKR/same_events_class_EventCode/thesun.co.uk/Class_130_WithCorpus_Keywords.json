@@ -1,0 +1,15 @@
+{
+    "GBR+RUS+130":[
+        []
+    ],
+    "RUS+GBR+130":[
+        [
+            "20210827+../news_crawling/RUS_UKR/p_articles/thesun.co.uk/Russia threatens UK saying it will make passage for British warships difficult through disputed Black.txt+eventbasecode130+eventcode130+avgtone0.47884615384615387+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.5015', 'warship:0.3988', 'hms:0.3053', 'russias:0.3012', 'confrontation:0.2625', 'andrei:0.2556', 'provocateur:0.2216', 'transit:0.2196', 'passage:0.206', 'dangerous:0.1737', 'defence:0.1684', 'border:0.1628', 'bbc:0.1597', 'issue:0.1515', 'report:0.1473', 'turn:0.1472', 'prepare:0.1437', 'law:0.1311', 'embassy:0.1297', 'black:0.1195', 'aware:0.1174', 'outlet:0.1074', 'near:0.1014', 'exactly:0.0895', 'exercise:0.0841', 'possible:0.0791', 'official:0.067', 'wider:0.0623', 'commonly:0.0436', 'make:0.0381']+titles_keywords+['russia:0.3223', 'warships:0.3018', 'threatens:0.2889', 'black:0.118', 'difficult:0.006']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/thesun.co.uk/When do petrol stations open and what time do they close.txt+eventbasecode130+eventcode130+avgtone0.49550224887556227+goldsteinscale0.27999999999999997+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['petrol:0.3788', 'uk:0.3193', 'motorway:0.3124', 'sainsbury:0.2846', 'station:0.2684', 'midnight:0.2543', 'supply:0.2358', 'open:0.2253', 'operate:0.2188', 'litre:0.2169', 'pump:0.1917', 'bank:0.1836', 'weekend:0.1798', 'esso:0.1798', 'generally:0.1779', 'bp:0.1595', 'skyrocket:0.1461', 'onrussia:0.1356', 'march:0.133', 'warn:0.1151', 'past:0.1108', 'specific:0.108', 'nearly:0.1065', 'welcome:0.0934', 'andgasreserves:0.0882', 'plenty:0.083', 'flock:0.0645', 'cost:0.0591', 'finder:0.055', 'major:0.032']+titles_keywords+['petrol:0.4047', 'stations:0.3372', 'open:0.3193', 'time:0.1919', 'close:0.1897']"
+        ]
+    ]
+}

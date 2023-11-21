@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/After 100 days of war Russia looks unlikely to leave Ukraine.txt+eventbasecode20+eventcode20+avgtone0.48751156336725254+goldsteinscale0.65+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['crimea:0.5084', 'kremlin:0.4514', 'ukrainians:0.4495', 'hryvnia:0.3913', 'takeover:0.2953', 'occupy:0.2941', 'war:0.2932', 'refugee:0.2919', 'referendum:0.2902', 'ruble:0.2683', 'stay:0.2643', 'zelenskyy:0.2609', 'soon:0.2489', 'kidnap:0.2265', 'leonid:0.2222', 'underway:0.2147', 'organisation:0.2127', 'read:0.2059', 'supplant:0.1968', 'realise:0.1955', 'independent:0.1688', 'day:0.1565', 'rush:0.1558', 'main:0.1513', 'version:0.1365', 'longer:0.1306', 'instal:0.1221', 'integrate:0.114', 'offer:0.0682', 'doesnt:0.064']+titles_keywords+['ukraine:0.4643', '100:0.2372', 'unlikely:0.2281', 'leave:0.2196', 'days:0.1838']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/We need to deal with the challenges of misinformation.txt+eventbasecode20+eventcode20+avgtone0.484822934232715+goldsteinscale0.65+nummentions0.019230769230769232+numarticles0.01994198694706309+numsources0.049342105263157895+news_keywords+['protests:0.3701', 'occupy:0.3566', 'parliament:0.3437', 'rhetoric:0.3436', 'change:0.3247', 'putin:0.3239', 'nation:0.3088', 'history:0.3079', 'notice:0.3039', 'misinformation:0.3002', 'border:0.286', 'hospitalise:0.2788', 'read:0.2759', 'zealand:0.2704', 'armageddon:0.2502', 'vaccinate:0.2492', 'envisage:0.2434', 'know:0.2372', 'end:0.2294', 'repeat:0.2237', 'advantage:0.2223', 'quash:0.219', 'opinion:0.2184', 'applaud:0.2169', 'like:0.1912', 'week:0.174', 'far:0.1731', 'welcome:0.1565', 'factor:0.1529', 'deal:0.1144']+titles_keywords+['misinformation:0.6181', 'challenges:0.2561', 'need:0.0813', 'deal:0.0564']"
+        ],
+        [
+            "20220511+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/Ukraine shuts down Russian gas pipeline as Kremlininstalled official asks for Kherson annexation.txt+eventbasecode20+eventcode20+avgtone0.4857142857142857+goldsteinscale0.65+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.013157894736842105+news_keywords+['crimea:0.5114', 'annexation:0.4608', 'russias:0.3853', 'putin:0.3852', 'nato:0.3452', 'pipeline:0.3418', 'airstrikes:0.301', 'evacuate:0.2884', 'gas:0.2625', 'expand:0.2566', 'separatist:0.2558', 'kremlininstalled:0.2266', 'standoff:0.2255', 'gazprom:0.2223', 'power:0.1983', 'future:0.1978', 'northeast:0.1927', 'read:0.1878', 'instability:0.1846', 'want:0.159', 'pledge:0.145', 'sure:0.1432', 'redirect:0.1408', 'preliminary:0.1369', 'report:0.1357', 'hub:0.124', 'major:0.1138', 'hour:0.1119', 'roughly:0.1082', 'significance:0.0912']+titles_keywords+['ukraine:0.3897', 'pipeline:0.3848', 'annexation:0.2946', 'kremlininstalled:0.2203', 'shuts:0.1646']"
+        ]
+    ]
+}

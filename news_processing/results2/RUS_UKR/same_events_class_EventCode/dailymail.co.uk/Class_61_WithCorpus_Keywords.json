@@ -1,0 +1,17 @@
+{
+    "RUS+AUS+61":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/MARKET REPORT Energy giants soar after crude price tops 115 a barrel as peace talks.txt+eventbasecode61+eventcode61+avgtone0.4865047233468286+goldsteinscale0.82+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['securities:0.408', 'ftse:0.4076', 'expand:0.3777', 'disruption:0.3621', 'opec:0.3368', 'announce:0.3325', 'keywords:0.3109', 'production:0.3073', 'britain:0.3037', 'trend:0.2984', 'ceasefire:0.263', 'ahead:0.263', 'glencore:0.2504', 'surge:0.2445', 'combine:0.2432', 'acquire:0.2428', 'list:0.239', 'iag:0.236', 'january:0.2345', 'weekend:0.2342', 'pessimism:0.2238', 'pumped:0.2101', 'bp:0.21', 'worth:0.2096', 'miner:0.2078', 'respectively:0.1918', 'dip:0.1887', 'sunak:0.1886', 'jitter:0.1487', 'hargreaves:0.1262']+titles_keywords+['oil:0.2993', 'giants:0.2265', 'report:0.1576', 'soar:0.157', 'price:0.1448']"
+        ]
+    ],
+    "RUS+EUR+61":[
+        [
+            "20220124+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/Putins hand on the gas tap How Net Zero ecopolicies have handed Russias strongman the.txt+eventbasecode61+eventcode61+avgtone0.4812185066422354+goldsteinscale0.82+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.003289473684210526+news_keywords+['putin:0.5026', 'russiaukraine:0.4305', 'nato:0.392', 'brexit:0.3883', 'baltics:0.3633', 'annexation:0.3253', 'escalation:0.3059', 'diplomat:0.302', 'strategic:0.2916', 'europeanforeign:0.2898', 'oil:0.2867', 'telegraph:0.2744', 'liaise:0.2618', 'pipeline:0.2605', 'ecopolicies:0.259', 'ukwould:0.2565', 'output:0.2233', 'prepare:0.2185', 'realise:0.2178', 'coordinate:0.2138', 'shortages:0.205', 'turn:0.1906', 'chaos:0.1828', 'colder:0.1757', 'downside:0.164', 'unprecedented:0.156', 'data:0.1456', 'long:0.1353', 'deteriorate:0.134', 'possible:0.0915']+titles_keywords+['putins:0.4129', 'bargaining:0.3347', 'ecopolicies:0.3284', 'gas:0.3002', 'zero:0.2718']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220402+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/British homes will still be heated by energy from Russian coal until the end of.txt+eventbasecode61+eventcode61+avgtone0.49090909090909096+goldsteinscale0.82+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.01644736842105263+news_keywords+['coal:0.5311', 'russia:0.3414', 'decommission:0.3068', 'industry:0.2794', 'nottinghamshire:0.2659', 'renewable:0.2531', 'power:0.2371', 'diversification:0.2275', 'switch:0.1989', 'stockpile:0.1913', 'burton:0.181', 'supplier:0.179', 'halt:0.1779', 'burn:0.1539', 'mps:0.1519', 'information:0.1518', 'firm:0.1488', 'extend:0.1453', 'invasion:0.1361', 'edf:0.1331', 'tata:0.1262', 'month:0.1239', 'end:0.1202', 'peak:0.1062', 'mail:0.102', 'export:0.0998', 'sixth:0.097', 'understand:0.0922', 'big:0.0881', 'accord:0.0354']+titles_keywords+['coal:0.4209', 'russian:0.2471', 'homes:0.2268', 'heated:0.1925', 'end:0.1255']"
+        ]
+    ]
+}

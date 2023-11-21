@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+30":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/theweek.com/Humanitarian corridor agreements collapse as Russia continues shelling.txt+eventbasecode30+eventcode30+avgtone0.48698884758364314+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['kyiv:0.5071', 'ceasefire:0.4699', 'humanitarian:0.3134', 'vereshchuk:0.2593', 'reuters:0.2551', 'military:0.2435', 'escape:0.219', 'safely:0.202', 'vicinity:0.2', 'pathway:0.1982', 'agreement:0.1978', 'tymoshenko:0.196', 'span:0.1933', 'street:0.1907', 'bridge:0.1892', 'continue:0.1621', 'negotiator:0.1617', 'tank:0.1421', 'invader:0.1415', 'fell:0.1382', 'video:0.1239', 'port:0.1237', 'mariupol:0.1235', 'allow:0.1229', 'shot:0.1218', 'encircle:0.118', 'precarious:0.116', 'hold:0.1123', 'hour:0.0976', 'building:0.0937']+titles_keywords+['humanitarian:0.2647', 'collapse:0.2492', 'corridor:0.2429', 'russia:0.239', 'agreements:0.2366']"
+        ],
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/theweek.com/Russias loss of its Black Sea flagship Moskva is a massive blow and maybe also.txt+eventbasecode30+eventcode30+avgtone0.4837837837837837+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.388', 'vladimir:0.3093', 'warship:0.3003', 'war:0.2783', 'moskva:0.2686', 'loss:0.2404', 'surrender:0.2272', 'operation:0.2253', 'news:0.2039', 'detonate:0.1787', 'setback:0.1787', 'incident:0.1626', 'morale:0.1624', 'significant:0.1612', 'flagship:0.1469', 'report:0.145', 'float:0.1395', 'ammunition:0.1361', 'hit:0.1273', 'cite:0.1092', 'pacific:0.105', 'retire:0.0988', 'poetic:0.0958', 'black:0.0883', 'thorn:0.0848', 'agree:0.0783', 'entire:0.0758', 'early:0.0623', 'governor:0.0498', 'likely:0.012']+titles_keywords+['moskva:0.4142', 'russias:0.3807', 'justice:0.2917', 'poetic:0.2856', 'sea:0.269']"
+        ]
+    ]
+}

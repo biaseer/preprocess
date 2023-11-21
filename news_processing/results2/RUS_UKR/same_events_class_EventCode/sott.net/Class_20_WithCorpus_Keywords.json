@@ -1,0 +1,22 @@
+{
+    "ESP+UKR+20":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/sott.net/Punish the bastard Russians Mayor of Madrid caught out on prank call saying Ukrainian refugees.txt+eventbasecode20+eventcode20+avgtone0.4584026622296175+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.4711', 'prank:0.4229', 'spanish:0.319', 'sanction:0.2923', 'mayor:0.2844', 'deport:0.2711', 'controversy:0.2639', 'almeida:0.2444', 'twitter:0.2345', 'nato:0.2337', 'coronavirus:0.2273', 'xenophobia:0.2207', 'idea:0.2206', 'accuse:0.2099', 'type:0.2005', 'dolores:0.1976', 'lgbti:0.1965', 'make:0.1843', 'remind:0.1691', 'come:0.1563', 'big:0.1536', 'tycoon:0.1506', 'oh:0.1497', 'pp:0.1485', 'shortage:0.1408', 'include:0.1363', 'circulate:0.1309', 'suggestedsince:0.1161', 'best:0.112', 'theyre:0.0972']+titles_keywords+['deported:0.4315', 'ukrainian:0.4273', 'refugees:0.3806', 'madrid:0.2984', 'fight:0.2656']"
+        ]
+    ],
+    "RUS+RUS+20":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/sott.net/US doesnt understand how Russia works Kremlin.txt+eventbasecode20+eventcode20+avgtone0.482421875+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kremlin:0.4682', 'nato:0.3563', 'sergey:0.2939', 'donetsk:0.2635', 'mislead:0.2608', 'understand:0.244', 'pentagon:0.2423', 'operation:0.2329', 'know:0.2298', 'information:0.2149', 'adviser:0.2141', 'president:0.2128', 'unprovoked:0.2053', 'accomplish:0.1977', 'turn:0.1936', 'neutral:0.1689', 'failure:0.1679', 'state:0.1659', 'donbass:0.1599', 'insist:0.1527', 'bloc:0.1415', 'stage:0.1352', 'afraid:0.1217', 'month:0.1207', 'official:0.1194', 'fully:0.1137', 'join:0.0975', 'doesnt:0.0876', 'late:0.0823', 'regularize:0.0477']+titles_keywords+['kremlin:0.5653', 'russia:0.3876', 'understand:0.3584', 'doesnt:0.1438', 'works:0.1034']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/sott.net/Retired Swiss MilitaryIntelligence Officer Is it Possible to Actually Know What Has Been And is.txt+eventbasecode20+eventcode20+avgtone0.48507042253521127+goldsteinscale0.65+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.003289473684210526+news_keywords+['ukrainian:0.4152', 'militaryintelligence:0.3928', 'nato:0.3709', 'war:0.3515', 'demilitarize:0.3211', 'propaganda:0.3129', 'strategic:0.3034', 'massacre:0.2987', 'chernobyl:0.2952', 'correspondent:0.2881', 'sanctions:0.2879', 'politic:0.2758', 'scenario:0.2724', 'rumsfeld:0.2688', 'provoke:0.2602', 'intercept:0.2412', 'clausewitzian:0.2221', 'octobernovember:0.1997', 'read:0.1982', 'turn:0.1979', 'organize:0.1904', 'propagate:0.1815', 'long:0.1788', 'simultaneous:0.1784', 'end:0.1681', 'sequence:0.167', 'schematically:0.1527', 'remember:0.1508', 'ready:0.1452', 'distinguish:0.098']+titles_keywords+['militaryintelligence:0.4647', 'ukraine:0.357', 'know:0.2012', 'retired:0.1856', 'possible:0.1683']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/sott.net/Ukraine calls on world to ban Z symbol associated with Russian military.txt+eventbasecode20+eventcode20+avgtone0.5135135135135135+goldsteinscale0.65+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4834', 'kremlin:0.4174', 'nazi:0.3799', 'petersburgukraine:0.3686', 'symbol:0.3035', 'letter:0.2993', 'war:0.2905', 'humanitarian:0.2723', 'troop:0.2586', 'security:0.2424', 'operation:0.2391', 'incursion:0.2214', 'vehicle:0.207', 'investigation:0.2056', 'targeted:0.204', 'ban:0.202', 'evacuate:0.1978', 'world:0.193', 'context:0.1841', 'use:0.1767', 'usnato:0.1677', 'baseless:0.1573', 'dmytro:0.1475', 'say:0.1418', 'set:0.1035', 'align:0.1031', 'paint:0.1028', 'tuesday:0.093', 'way:0.0679', 'criminally:0.0591']+titles_keywords+['ukraine:0.4226', 'symbol:0.2783', 'military:0.2149', 'ban:0.1756', 'calls:0.0277']"
+        ]
+    ]
+}

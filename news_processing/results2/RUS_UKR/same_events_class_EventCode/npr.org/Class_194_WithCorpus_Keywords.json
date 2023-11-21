@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/npr.org/50 people were killed in a Russian strike on a train station Ukrainian officials say.txt+eventbasecode194+eventcode194+avgtone0.45818815331010454+goldsteinscale0.0+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['kyiv:0.5066', 'kremlin:0.4648', 'russian:0.3982', 'evacuation:0.3286', 'rail:0.3198', 'tochka:0.3177', 'zelenskyy:0.3071', 'victim:0.2722', 'provocation:0.2621', 'destroy:0.2596', 'military:0.2572', 'missile:0.2525', 'pentagon:0.2403', 'report:0.2155', 'know:0.2094', 'hit:0.1947', 'donbas:0.184', 'bloody:0.1816', 'cluster:0.1776', 'cite:0.167', 'child:0.1529', 'believe:0.1415', 'northern:0.1398', 'population:0.1367', 'soon:0.1363', 'strength:0.1115', 'load:0.1011', 'photos:0.0962', 'refocus:0.0954', 'limit:0.0637']+titles_keywords+['ukrainian:0.282', 'strike:0.244', '50:0.2286', 'killed:0.1753', 'people:0.1637']"
+        ],
+        [
+            "20220710+../news_crawling/RUS_UKR/p_articles/npr.org/At least 15 were killed and others are trapped after a Russian strike in Ukraine.txt+eventbasecode194+eventcode194+avgtone0.4678800856531049+goldsteinscale0.0+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['moscow:0.4554', 'ukrainians:0.3875', 'refugee:0.3485', 'emergency:0.3286', 'destroy:0.3005', 'news:0.285', 'strike:0.2687', 'happen:0.262', 'know:0.2594', 'flinch:0.2573', 'alive:0.2451', 'hear:0.243', 'artillery:0.2391', 'stay:0.2277', 'neighborhood:0.227', 'predict:0.2157', 'dig:0.2151', 'lysychansk:0.2077', 'contact:0.2069', 'regroup:0.2067', 'like:0.1954', 'donbas:0.1941', 'corridor:0.189', 'twist:0.1836', 'dog:0.1693', 'far:0.1611', 'dozens:0.1592', 'associated:0.1551', 'haidai:0.1428', 'thank:0.1112']+titles_keywords+['ukraine:0.4049', 'trapped:0.2744', 'strike:0.273', '15:0.2555', 'killed:0.2132']"
+        ]
+    ]
+}

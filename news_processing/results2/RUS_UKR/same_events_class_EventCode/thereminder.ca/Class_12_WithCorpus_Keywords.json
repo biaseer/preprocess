@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+12":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/thereminder.ca/Ukrainian community in Canada hopeful but on edge as tensions escalate with Russia.txt+eventbasecode12+eventcode12+avgtone0.49067164179104483+goldsteinscale0.48+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.019736842105263157+news_keywords+['ukraine:0.5178', 'separatist:0.3558', 'saskatoon:0.3086', 'trudeau:0.3021', 'annexed:0.2691', 'conflict:0.2607', 'government:0.2565', 'border:0.2528', 'organize:0.2254', 'stay:0.221', 'concerned:0.2179', 'milentyevs:0.2081', 'troops:0.2078', 'protect:0.1907', 'speak:0.1886', 'generation:0.1817', 'escalate:0.1791', 'begin:0.167', 'vote:0.1624', 'want:0.1495', 'everybody:0.1398', 'data:0.1356', 'additional:0.1352', 'friend:0.1345', 'surround:0.1342', 'big:0.1295', 'soon:0.1291', 'evening:0.1277', 'actually:0.0885', 'doesnt:0.026']+titles_keywords+['ukrainian:0.4712', 'canada:0.2531', 'tensions:0.248', 'community:0.2021', 'hopeful:0.1821']"
+        ]
+    ],
+    "POL+RUS+12":[
+        [
+            "20220515+../news_crawling/RUS_UKR/p_articles/thereminder.ca/Polish Nobel author says Russia threat to free world.txt+eventbasecode12+eventcode12+avgtone0.4776536312849162+goldsteinscale0.48+nummentions0.03773584905660377+numarticles0.03843364757070341+numsources0.049342105263157895+news_keywords+['tokarczuk:0.4721', 'nobel:0.3879', 'poland:0.3448', 'russian:0.296', 'author:0.278', 'jewish:0.2359', 'books:0.2082', 'olga:0.2075', 'war:0.2058', 'jacob:0.1985', 'refugee:0.1983', 'world:0.1517', 'sanction:0.1435', 'risk:0.1392', 'subversive:0.1299', 'speak:0.1202', 'mind:0.1153', 'know:0.0856', 'century:0.082', 'image:0.0672', 'share:0.0633', 'free:0.06', 'february:0.0554', 'th:0.0521', 'add:0.0473', 'ap:0.0453', 'late:0.041', 'theme:0.0335', 'tough:0.0295', 'streak:0.0257']+titles_keywords+['russia:0.339', 'nobel:0.332', 'author:0.2646', 'threat:0.249', 'free:0.1742']"
+        ]
+    ]
+}

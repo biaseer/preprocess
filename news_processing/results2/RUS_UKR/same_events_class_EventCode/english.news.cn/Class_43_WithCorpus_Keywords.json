@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+43":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/english.news.cn/Facts about RussiaUkraine conflict Russia Belarus to deepen integration amid Western sanctions.txt+eventbasecode43+eventcode43+avgtone0.4820051413881748+goldsteinscale0.64+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.009868421052631578+news_keywords+['ukraine:0.5061', 'putin:0.4642', 'conflict:0.338', 'economy:0.3217', 'peaceful:0.3106', 'wto:0.2721', 'border:0.2438', 'communique:0.2316', 'news:0.2267', 'cite:0.2212', 'isolate:0.1995', 'report:0.1959', 'oppose:0.195', 'sanction:0.1944', 'unchanged:0.1816', 'continue:0.1796', 'increase:0.163', 'forecast:0.161', 'delegation:0.1497', 'current:0.1455', 'say:0.139', 'important:0.1294', 'cosmodrome:0.1276', 'outlook:0.1228', 'integration:0.1197', 'april:0.1152', 'jointly:0.114', 'head:0.0943', 'measure:0.0886', 'andriy:0.078']+titles_keywords+['belarus:0.4972', 'sanctions:0.4281', 'conflict:0.2957', 'facts:0.1899', 'deepen:0.1004']"
+        ]
+    ],
+    "BLR+UKR+43":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/english.news.cn/Ukraine introduces special measures in regions bordering Russia Belarus.txt+eventbasecode43+eventcode43+avgtone0.47649572649572647+goldsteinscale0.64+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.01644736842105263+news_keywords+['ukraine:0.5047', 'border:0.3561', 'treaty:0.3101', 'region:0.2824', 'government:0.28', 'security:0.2745', 'emergency:0.2665', 'invasion:0.2487', 'troop:0.2415', 'conflict:0.24', 'restriction:0.2245', 'state:0.2083', 'impose:0.2029', 'defend:0.1899', 'flight:0.1744', 'introduce:0.167', 'unmanned:0.1594', 'arm:0.1271', 'photograph:0.1237', 'start:0.1218', 'include:0.1167', 'increase:0.1156', 'intention:0.1137', 'approves:0.11', 'measure:0.1082', 'near:0.1009', 'feb:0.1002', 'object:0.0908', 'right:0.0694', 'day:0.0471']+titles_keywords+['belarus:0.4834', 'regions:0.3339', 'bordering:0.2845', 'special:0.1026', 'measures:0.0846']"
+        ]
+    ]
+}

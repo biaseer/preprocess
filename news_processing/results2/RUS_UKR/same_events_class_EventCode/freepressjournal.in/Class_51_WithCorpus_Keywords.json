@@ -1,0 +1,12 @@
+{
+    "RUS+DEU+51":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/RussiaUkraine conflict Ukraine welcomes Germanys move to halt certifying process of Nord Stream 2 gas.txt+eventbasecode51+eventcode51+avgtone0.4964539007092199+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.43', 'pipeline:0.4147', 'geopolitical:0.3726', 'nord:0.2728', 'gas:0.2327', 'transit:0.1946', 'oppose:0.1893', 'merkel:0.1851', 'crisis:0.1781', 'current:0.1758', 'bn:0.1673', 'certify:0.1544', 'development:0.1453', 'report:0.1405', 'know:0.1397', 'prove:0.1222', 'step:0.1098', 'reassess:0.1009', 'pending:0.0931', 'begin:0.0925', 'long:0.0901', 'near:0.0898', 'scholz:0.0803', 'increase:0.0792', 'decide:0.0785', 'pdf:0.0711', 'weapon:0.0688', 'inefficient:0.0495', 'welcome:0.0314', 'cost:0.0295']+titles_keywords+['ukraine:0.4683', 'pipeline:0.3819', 'conflict:0.2442', 'certifying:0.1915', 'welcomes:0.1131']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/Jai Ho Akhand Russia Hindu Sena puts up posters on Russian poet Alexander Pushkins statue.txt+eventbasecode51+eventcode51+avgtone0.49368686868686873+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['soviet:0.458', 'ukraine:0.4319', 'putin:0.4208', 'russias:0.4146', 'kharkiv:0.3814', 'gupta:0.3609', 'bharat:0.3523', 'pushkin:0.3159', 'piyush:0.2597', 'goyal:0.2334', 'telegram:0.1979', 'read:0.1961', 'invasion:0.1944', 'know:0.1906', 'ho:0.1879', 'kill:0.1851', 'poster:0.1839', 'conflict:0.1837', 'casualty:0.1802', 'urgent:0.1761', 'supporting:0.1721', 'convey:0.1657', 'condolence:0.1542', 'safe:0.1461', 'stand:0.1421', 'attend:0.1356', 'state:0.1167', 'true:0.0951', 'deep:0.0872', 'today:0.0837']+titles_keywords+['russian:0.345', 'pushkins:0.3435', 'delhi:0.3046', 'posters:0.2887', 'ho:0.1966']"
+        ]
+    ]
+}

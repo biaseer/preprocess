@@ -1,0 +1,25 @@
+{
+    "CHE+UKR+112":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/abqjournal.com/UN 65 million people displaced inside Ukraine due to war.txt+eventbasecode112+eventcode112+avgtone0.45987654320987653+goldsteinscale0.4+nummentions0.09252539912917271+numarticles0.09318346627991297+numsources0.08552631578947369+news_keywords+['ukraine:0.531', 'refugee:0.4337', 'syrias:0.4059', 'war:0.3533', 'migration:0.3019', 'population:0.2683', 'unhcr:0.2673', 'displace:0.2153', 'leave:0.1883', 'crisis:0.1822', 'accommodation:0.1623', 'roads:0.1621', 'representation:0.16', 'lack:0.1527', 'geneva:0.1516', 'neighboring:0.1484', 'cite:0.1442', 'home:0.1345', 'far:0.133', 'affected:0.1287', 'risk:0.1204', 'person:0.1161', 'begin:0.1072', 'office:0.1031', 'nearly:0.1018', 'follow:0.1014', 'calculate:0.1002', 'iom:0.0915', 'feb:0.0862', 'level:0.0504']+titles_keywords+['ukraine:0.502', 'war:0.3399', 'displaced:0.3277', 'million:0.2377', '65:0.1436']"
+        ]
+    ],
+    "GBR+RUS+112":[
+        [
+            "20220526+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Russia slams sanctions seeks to blame West for food crisis.txt+eventbasecode112+eventcode112+avgtone0.46865817825661116+goldsteinscale0.4+nummentions0.025036284470246733+numarticles0.02574329224075417+numsources0.046052631578947366+news_keywords+['ukraine:0.4971', 'kremlin:0.4364', 'blockade:0.3547', 'weaponize:0.3361', 'separatist:0.3353', 'ivanov:0.3316', 'diplomatic:0.2923', 'crisis:0.2728', 'battalion:0.2639', 'infrastructure:0.2433', 'sievierodonetsk:0.2367', 'summary:0.2307', 'know:0.2239', 'news:0.2185', 'halt:0.2177', 'rail:0.211', 'horrific:0.2028', 'world:0.1993', 'cite:0.1929', 'order:0.1798', 'readout:0.1786', 'long:0.1714', 'simultaneously:0.1647', 'export:0.1593', 'resume:0.1572', 'direction:0.1547', 'safe:0.1544', 'ready:0.149', 'week:0.1229', 'focus:0.1204']+titles_keywords+['sanctions:0.4389', 'russia:0.351', 'blame:0.2876', 'crisis:0.1882', 'food:0.1746']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Satellite modems nexus of worst cyberattack of Ukraine war.txt+eventbasecode112+eventcode112+avgtone0.46774193548387105+goldsteinscale0.4+nummentions0.06640058055152395+numarticles0.06707759245830312+numsources0.05921052631578947+news_keywords+['cyberattacks:0.5399', 'satellite:0.5067', 'viasat:0.4814', 'vpn:0.4041', 'nato:0.3834', 'ukraine:0.3756', 'modem:0.3566', 'phishing:0.326', 'communications:0.3077', 'disrupt:0.2977', 'government:0.2831', 'vulnerable:0.254', 'operation:0.2486', 'data:0.2276', 'nexus:0.2211', 'useless:0.188', 'issue:0.1814', 'offline:0.1809', 'major:0.1804', 'ka:0.1737', 'plague:0.1728', 'blame:0.1603', 'turbines:0.1533', 'month:0.1505', 'earlier:0.1382', 'statement:0.1355', 'far:0.118', 'likely:0.11', 'photojon:0.1039', 'shipped:0.0854']+titles_keywords+['cyberattack:0.4818', 'satellite:0.4371', 'modems:0.4265', 'ukraine:0.3894', 'worst:0.1757']"
+        ],
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/abqjournal.com/A beacon of hope Ukraine Russia sign grain export deal.txt+eventbasecode112+eventcode112+avgtone0.4896661367249603+goldsteinscale0.4+nummentions0.5674891146589259+numarticles0.5678027556200145+numsources0.8947368421052632+news_keywords+['ukraine:0.4575', 'kremlin:0.3924', 'negotiation:0.3721', 'erdogan:0.3393', 'war:0.3134', 'blockade:0.2966', 'infrastructure:0.2767', 'agreement:0.2711', 'humanitarian:0.2635', 'sidenko:0.2606', 'globe:0.2499', 'know:0.2357', 'president:0.2351', 'anticipate:0.2255', 'grain:0.2236', 'tayyip:0.2215', 'import:0.2101', 'extend:0.2037', 'forward:0.2026', 'incoming:0.1876', 'word:0.179', 'ap:0.1762', 'report:0.1758', 'eat:0.1673', 'long:0.1594', 'significant:0.1449', 'board:0.1412', 'april:0.1329', 'farhan:0.1322', 'welcome:0.093']+titles_keywords+['ukraine:0.454', 'grain:0.3084', 'deal:0.2324', 'hope:0.2055', 'export:0.2014']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Russia renews strikes on Ukraine capital hits other cities.txt+eventbasecode112+eventcode112+avgtone0.4686695278969957+goldsteinscale0.4+nummentions1.0+numarticles1.0+numsources1.0+news_keywords+['kyiv:0.5655', 'airstrikes:0.4074', 'russias:0.398', 'putin:0.3928', 'kononuchenko:0.3531', 'truce:0.266', 'troop:0.251', 'missile:0.251', 'safer:0.2377', 'occupied:0.2358', 'chernov:0.2323', 'emergency:0.2243', 'intensify:0.2188', 'victim:0.218', 'azovstal:0.1956', 'northeast:0.1924', 'reminder:0.1913', 'hit:0.1858', 'railyard:0.1846', 'bucha:0.1833', 'prepare:0.1812', 'sprawling:0.1749', 'outlet:0.1692', 'saturday:0.1688', 'people:0.1661', 'mook:0.1546', 'format:0.1369', 'photorodrigo:0.1331', 'exaggeration:0.1304', 'resurface:0.1252']+titles_keywords+['ukraine:0.3756', 'strikes:0.2603', 'hits:0.2247', 'capital:0.2012', 'renews:0.1045']"
+        ]
+    ]
+}

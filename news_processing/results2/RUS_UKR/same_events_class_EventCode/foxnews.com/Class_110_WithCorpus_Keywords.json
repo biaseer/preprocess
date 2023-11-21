@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+110":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/foxnews.com/Zelenskyy grateful to Russian reporter who interrupted live coverage with No War sign.txt+eventbasecode110+eventcode110+avgtone0.4722675367047309+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kremlin:0.5142', 'newscast:0.4389', 'propaganda:0.4362', 'ukrainian:0.4328', 'vladimir:0.4163', 'russias:0.4054', 'zelenskyy:0.4008', 'ovsyannikovarushed:0.389', 'totalitarian:0.3122', 'telegram:0.2739', 'report:0.2689', 'rt:0.2685', 'maria:0.2581', 'protest:0.245', 'president:0.2445', 'invasion:0.226', 'know:0.2163', 'afraid:0.2111', 'write:0.208', 'detain:0.2057', 'turn:0.1923', 'follow:0.192', 'interrupt:0.1899', 'world:0.1774', 'example:0.1584', 'ap:0.1566', 'gratitude:0.1502', 'ready:0.1378', 'export:0.1338', 'hour:0.1282']+titles_keywords+['zelenskyy:0.5643', 'russian:0.3803', 'reporter:0.3519', 'war:0.3129', 'interrupted:0.2562']"
+        ]
+    ],
+    "RUS+UKR+110":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/foxnews.com/Special Report AllStar Panel on worlds response to RussiaUkraine war.txt+eventbasecode110+eventcode110+avgtone0.49957983193277306+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.013157894736842105+news_keywords+['putin:0.5621', 'russiaukraine:0.5002', 'ukrainians:0.483', 'oligarchs:0.4258', 'odessa:0.3479', 'militarily:0.3313', 'weaponize:0.3082', 'sanction:0.2765', 'capital:0.2757', 'insurgency:0.2724', 'gowdy:0.2643', 'federalist:0.251', 'report:0.2489', 'news:0.2352', 'funding:0.2289', 'know:0.228', 'secretary:0.202', 'forth:0.1991', 'reconstruction:0.1949', 'expectant:0.1846', 'march:0.1838', 'turn:0.1738', 'begin:0.1638', 'night:0.1504', 'transcript:0.1393', 'panel:0.1335', 'glad:0.1263', 'freeze:0.1195', 'sure:0.1071', 'little:0.0896']+titles_keywords+['russiaukraine:0.4865', 'war:0.442', 'response:0.2767', 'report:0.1977', 'allstar:0.079']"
+        ]
+    ],
+    "UKR+RUS+110":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/foxnews.com/French 32yearold journalist is killed in Ukraine.txt+eventbasecode110+eventcode110+avgtone0.4742589703588143+goldsteinscale0.4+nummentions0.06640058055152395+numarticles0.06707759245830312+numsources0.05921052631578947+news_keywords+['journalists:0.4443', 'kyiv:0.4263', 'news:0.3439', 'humanitarian:0.3306', 'france:0.3231', 'evacuation:0.3112', 'tragedy:0.3097', 'kill:0.3082', 'investigation:0.2982', 'sievierodonetsk:0.298', 'war:0.2908', 'tomilenko:0.2864', 'veteran:0.2855', 'macron:0.2717', 'shrapnel:0.2599', 'report:0.2519', 'christophe:0.2427', 'condolence:0.223', 'foreign:0.2106', 'write:0.2068', 'story:0.2062', 'telegram:0.1894', 'channel:0.1839', 'ap:0.1807', 'statement:0.1758', 'soon:0.1731', 'photo:0.1404', 'hotly:0.1259', 'alongside:0.125', 'possible:0.1033']+titles_keywords+['journalist:0.3997', 'ukraine:0.3477', 'killed:0.2765', 'french:0.2572', '32yearold:0.1553']"
+        ]
+    ]
+}

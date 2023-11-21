@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+173":[
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/unionleader.com/Alleged Russian sting operation uncovers The Sims 3 guns grenade.txt+eventbasecode173+eventcode173+avgtone0.4653092006033182+goldsteinscale0.25+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['putin:0.5089', 'ukrainian:0.4445', 'investigative:0.4152', 'solovyev:0.3746', 'assassination:0.3508', 'sims:0.3437', 'news:0.3042', 'propagandist:0.3036', 'invasion:0.3011', 'report:0.2879', 'sanction:0.287', 'molotov:0.2863', 'paraphernalia:0.2822', 'orchestrated:0.2816', 'telegram:0.2501', 'cooperate:0.2391', 'meduza:0.2356', 'international:0.2305', 'fsb:0.2263', 'know:0.2172', 'scene:0.2024', 'ominously:0.202', 'suit:0.1853', 'use:0.1815', 'wacky:0.1762', 'book:0.1688', 'wig:0.1678', 'apartment:0.1503', 'turn:0.1478', 'customize:0.1467']+titles_keywords+['sims:0.4534', 'grenade:0.4257', 'russian:0.3548', 'guns:0.3457', 'alleged:0.2309']"
+        ]
+    ],
+    "UKR+RUS+173":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/unionleader.com/Ukraine has accused Russian troops of rape a tough crime to prosecute.txt+eventbasecode173+eventcode173+avgtone0.44374475230898397+goldsteinscale0.25+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.473', 'kremlin:0.4166', 'rape:0.4119', 'genocide:0.3942', 'victim:0.353', 'allegation:0.3377', 'trauma:0.3328', 'investigation:0.3268', 'karadzic:0.3231', 'report:0.2856', 'troop:0.2651', 'journalist:0.2637', 'zhyvotovskyi:0.2568', 'law:0.2547', 'conflict:0.2541', 'historically:0.2225', 'sexualize:0.2217', 'gunpoint:0.2181', 'table:0.2003', 'discrepancy:0.2003', 'recognize:0.1772', 'forget:0.1735', 'men:0.1708', 'world:0.1625', 'bucha:0.1572', 'believe:0.14', 'basis:0.1244', 'long:0.1204', 'reintegrate:0.1134', 'way:0.0822']+titles_keywords+['ukraine:0.4366', 'rape:0.3382', 'accused:0.3088', 'troops:0.2692', 'tough:0.0445']"
+        ]
+    ]
+}

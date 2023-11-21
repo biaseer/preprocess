@@ -1,0 +1,17 @@
+{
+    "JPN+UKR+111":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/kelo.com/Japan parliament resolution on Ukraine condemns changing status quo with force.txt+eventbasecode111+eventcode111+avgtone0.4831932773109244+goldsteinscale0.4+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4849', 'war:0.3274', 'diplomatic:0.2952', 'kishidas:0.2319', 'tension:0.2216', 'tokyo:0.2193', 'coordinate:0.2047', 'border:0.2', 'reuters:0.1981', 'commit:0.1907', 'concerned:0.1879', 'parliament:0.1792', 'response:0.1672', 'status:0.1565', 'stability:0.1564', 'denounce:0.1545', 'fumio:0.141', 'world:0.1288', 'help:0.1271', 'long:0.123', 'resolution:0.1147', 'end:0.108', 'chamber:0.1073', 'seize:0.1051', 'say:0.0955', 'row:0.0919', 'joe:0.0867', 'virtual:0.0828', 'closely:0.0741', 'prime:0.0593']+titles_keywords+['ukraine:0.353', 'force:0.1936', 'condemns:0.1887', 'changing:0.1499', 'resolution:0.0975']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220119+../news_crawling/RUS_UKR/p_articles/kelo.com/Russia can attack Ukraine at very short notice Blinken says on visit to Kyiv.txt+eventbasecode111+eventcode111+avgtone0.49673202614379086+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4497', 'ukraines:0.4225', 'kyiv:0.407', 'attack:0.2938', 'lavrov:0.2854', 'embassy:0.2843', 'peaceful:0.277', 'reuters:0.257', 'aggressive:0.2548', 'standoff:0.2481', 'troop:0.2445', 'visit:0.2396', 'blinken:0.2354', 'action:0.2328', 'plan:0.2282', 'border:0.2116', 'order:0.206', 'talk:0.1965', 'meet:0.1927', 'secretary:0.1901', 'know:0.1849', 'near:0.1844', 'notice:0.1651', 'short:0.1505', 'increase:0.1372', 'week:0.1365', 'hop:0.1333', 'antony:0.1224', 'force:0.1175', 'state:0.1007']+titles_keywords+['kyiv:0.3761', 'blinken:0.3209', 'attack:0.2576', 'short:0.1239', 'says:0.0637']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/kelo.com/UAEs newly elected ruler sees Iran Islamists as threat to Gulf safe haven.txt+eventbasecode111+eventcode111+avgtone0.4873015873015873+goldsteinscale0.4+nummentions0.04934687953555878+numarticles0.05003625815808557+numsources0.039473684210526314+news_keywords+['uae:0.537', 'bashar:0.3697', 'islam:0.3573', 'diplomat:0.3337', 'economy:0.3204', 'reuters:0.31', 'nationalism:0.3022', 'opec:0.3011', 'agenda:0.2871', 'russias:0.2807', 'educated:0.27', 'biden:0.2547', 'capital:0.2533', 'realignment:0.2265', 'concern:0.2238', 'military:0.2221', 'pump:0.2151', 'writing:0.211', 'world:0.2105', 'know:0.2022', 'perspective:0.186', 'dynastic:0.1803', 'fight:0.1727', 'like:0.1725', 'spring:0.1592', 'divergence:0.1423', 'mbz:0.1386', 'decade:0.1246', 'covid:0.1157', 'longer:0.1116']+titles_keywords+['uaes:0.472', 'iran:0.3822', 'islamists:0.3642', 'threat:0.228', 'elected:0.1114']"
+        ]
+    ]
+}

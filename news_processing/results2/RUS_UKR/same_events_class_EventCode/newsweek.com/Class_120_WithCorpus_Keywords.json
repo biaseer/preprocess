@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+120":[
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/newsweek.com/Who is Kanamat Botashev Russias Highest Ranking Airforce Commander Killed.txt+eventbasecode120+eventcode120+avgtone0.47239263803680975+goldsteinscale0.3+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['botashev:0.4624', 'putin:0.4544', 'ukrainian:0.3885', 'russias:0.3418', 'airforce:0.3297', 'lieutenant:0.3079', 'sukhoi:0.2821', 'war:0.2534', 'killed:0.2191', 'fly:0.2178', 'general:0.2065', 'anonymous:0.1995', 'report:0.1847', 'source:0.1835', 'kanamat:0.1748', 'higher:0.1684', 'fighterbomber:0.1653', 'telegram:0.154', 'information:0.1531', 'soon:0.1447', 'yeysk:0.1437', 'confirm:0.1268', 'note:0.1207', 'outlet:0.1192', 'graduate:0.1164', 'old:0.1148', 'unusually:0.1013', 'best:0.0967', 'registration:0.077', 'pmc:0.0457']+titles_keywords+['botashev:0.5214', 'airforce:0.301', 'kanamat:0.2794', 'killed:0.2375', 'highest:0.1905']"
+        ]
+    ],
+    "RUS+UKR+120":[
+        [
+            "20220723+../news_crawling/RUS_UKR/p_articles/newsweek.com/Russia Could Face Significant Setback Over Key Bridge British Intel.txt+eventbasecode120+eventcode120+avgtone0.483695652173913+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.3635', 'bridging:0.3611', 'attack:0.2674', 'cross:0.2479', 'traffic:0.2234', 'update:0.2143', 'military:0.2095', 'antonivsky:0.2091', 'tributary:0.2079', 'port:0.1961', 'risk:0.1895', 'dnipro:0.1867', 'kalibr:0.1694', 'supply:0.1657', 'range:0.1635', 'key:0.1609', 'simultaneously:0.1442', 'report:0.1392', 'pontoon:0.1373', 'conclude:0.1357', 'significant:0.1342', 'long:0.1258', 'node:0.1224', 'odesa:0.1194', 'telegram:0.1173', 'allow:0.0885', 'intel:0.0683', 'export:0.067', 'himars:0.0653', 'likely:0.0617']+titles_keywords+['bridge:0.3185', 'russia:0.3139', 'intel:0.298', 'key:0.2399', 'setback:0.1385']"
+        ]
+    ]
+}

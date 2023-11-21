@@ -1,0 +1,13 @@
+{
+    "RUS+UKR+42":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/cbc.ca/Influx of Russian troops has Ukrainians seeking shelter.txt+eventbasecode42+eventcode42+avgtone0.5+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5598', 'ukrainians:0.5257', 'ukrainian:0.5019', 'russian:0.417', 'troop:0.3888', 'shelter:0.3753', 'kharkiv:0.3294', 'influx:0.3054', 'supply:0.2246', 'underground:0.2203', 'city:0.2048', 'country:0.1894', 'people:0.1802', 'western:0.1542', 'key:0.1177', 'seek:0.0436', 'head:0.0024']+titles_keywords+['ukrainians:0.4907', 'shelter:0.3934', 'troops:0.3783', 'influx:0.2815', 'seeking:0.0799']"
+        ],
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/cbc.ca/Canada needs to sanction more oligarchs says Putin critic and US investor.txt+eventbasecode42+eventcode42+avgtone0.47222222222222227+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4989', 'oligarch:0.3748', 'russia:0.3711', 'ukraine:0.3669', 'sanction:0.3635', 'loophole:0.3071', 'canada:0.2679', 'magnitsky:0.2388', 'invasion:0.2282', 'canadian:0.2225', 'government:0.2146', 'browder:0.1852', 'justice:0.1819', 'stop:0.174', 'investor:0.1617', 'global:0.1352', 'critic:0.1153', 'campaign:0.0939', 'head:0.082', 'need:0.0805', 'say:0.0726', 'job:0.0701', 'lot:0.0537']+titles_keywords+['putin:0.4706', 'oligarchs:0.4456', 'sanction:0.3017', 'canada:0.2622', 'says:0.0832']"
+        ]
+    ],
+    "UKR+RUS+42":[
+        []
+    ]
+}

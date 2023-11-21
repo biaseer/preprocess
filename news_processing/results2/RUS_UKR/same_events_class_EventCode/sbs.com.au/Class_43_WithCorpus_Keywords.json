@@ -1,0 +1,12 @@
+{
+    "AUS+UKR+43":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/sbs.com.au/AM Bulletin 7 Apr 2022.txt+eventbasecode43+eventcode43+avgtone0.43137254901960803+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['bulletin:0.753', 'apr:0.5001']+titles_keywords+['bulletin:0.4833', '2022:0.3971', 'apr:0.3533']"
+        ]
+    ],
+    "RUS+RUS+43":[
+        [
+            "20220708+../news_crawling/RUS_UKR/p_articles/sbs.com.au/Vladimir Putin says Ukraine heading for tragedy as Russian shells continue to fall.txt+eventbasecode43+eventcode43+avgtone0.47988904299583907+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5102', 'putin:0.4418', 'reuters:0.3088', 'turmoil:0.3058', 'zelenskyy:0.2968', 'strategic:0.2695', 'occupy:0.2677', 'blockade:0.2577', 'prepare:0.2542', 'diplomat:0.2521', 'snake:0.247', 'heading:0.2352', 'shortly:0.2297', 'turn:0.2259', 'know:0.2252', 'flag:0.2228', 'respond:0.1996', 'fall:0.1966', 'stay:0.1938', 'end:0.1875', 'artchk:0.1811', 'plane:0.1784', 'televise:0.1735', 'long:0.1733', 'hear:0.1728', 'industrial:0.1724', 'level:0.1503', 'supplant:0.1476', 'include:0.1164', 'welcome:0.1152']+titles_keywords+['putin:0.4322', 'tragedy:0.2608', 'shells:0.1742', 'heading:0.1741', 'says:0.0414']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "FRA+RUS+46":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Putin signals compromise over Ukraine after Macron talks.txt+eventbasecode46+eventcode46+avgtone0.48562628336755653+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['diplomacy:0.478', 'putin:0.4768', 'nato:0.4133', 'macron:0.3943', 'compromise:0.3553', 'kyiv:0.3439', 'invade:0.3243', 'threat:0.2672', 'standoff:0.2576', 'escalate:0.2547', 'readiness:0.2481', 'crisis:0.2449', 'separatist:0.2094', 'soon:0.2027', 'meet:0.2016', 'want:0.1709', 'promise:0.1708', 'prospect:0.1546', 'suit:0.1486', 'conference:0.1439', 'step:0.1405', 'ideas:0.1378', 'week:0.1289', 'include:0.113', 'amid:0.11', 'southwestern:0.1089', 'substantive:0.1012', 'head:0.0952', 'hour:0.0867', 'possible:0.0732']+titles_keywords+['compromise:0.4298', 'putin:0.4011', 'macron:0.3489', 'ukraine:0.3042', 'signals:0.1531']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/BidenXi conversation over Ukraine.txt+eventbasecode46+eventcode46+avgtone0.49153846153846154+goldsteinscale0.85+nummentions0.012336719883889695+numarticles0.011602610587382161+numsources0.01644736842105263+news_keywords+['bidenxi:0.5988', 'ukraine:0.4906', 'conversation:0.3925']+titles_keywords+['bidenxi:0.4686', 'ukraine:0.4324', 'conversation:0.3518']"
+        ],
+        [
+            "20220712+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Dialogue important.txt+eventbasecode46+eventcode46+avgtone0.47641509433962265+goldsteinscale0.85+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['dialogue:0.7596', 'important:0.5127']+titles_keywords+['dialogue:0.7596', 'important:0.5127']"
+        ]
+    ]
+}

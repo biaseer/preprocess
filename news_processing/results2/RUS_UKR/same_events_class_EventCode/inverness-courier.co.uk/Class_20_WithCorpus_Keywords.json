@@ -1,0 +1,17 @@
+{
+    "POL+RUS+20":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/inverness-courier.co.uk/Johnson helping Ukraine more thanks to British public pressure Zelensky says.txt+eventbasecode20+eventcode20+avgtone0.4838107098381071+goldsteinscale0.65+nummentions0.2144412191582003+numarticles0.21501087744742567+numsources0.3223684210526316+news_keywords+['ukraines:0.4271', 'putin:0.4197', 'nato:0.3986', 'war:0.3269', 'neutrality:0.2804', 'overthrow:0.2644', 'escalation:0.2631', 'talk:0.2534', 'biden:0.2377', 'involve:0.2375', 'journalist:0.209', 'want:0.2008', 'clarify:0.1967', 'logistically:0.1965', 'remain:0.1833', 'volodymyr:0.1773', 'note:0.1627', 'split:0.1615', 'issue:0.1587', 'end:0.1543', 'spin:0.1522', 'comparison:0.149', 'hesitant:0.1426', 'quickly:0.142', 'ready:0.139', 'powerful:0.1368', 'range:0.1321', 'direct:0.1312', 'agree:0.1045', 'mr:0.0954']+titles_keywords+['zelensky:0.4409', 'ukraine:0.3697', 'johnson:0.2798', 'british:0.1875', 'helping:0.1351']"
+        ]
+    ],
+    "RUS+IRL+20":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/inverness-courier.co.uk/Russias actions will never be forgotten or forgiven Tanaiste warns.txt+eventbasecode20+eventcode20+avgtone0.4827777777777778+goldsteinscale0.65+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.006578947368421052+news_keywords+['ukraine:0.4547', 'putin:0.3879', 'irelands:0.3365', 'taoiseach:0.334', 'fein:0.2862', 'militarily:0.2848', 'zelensky:0.2829', 'refugee:0.2791', 'embargo:0.2195', 'table:0.2151', 'accountable:0.2106', 'history:0.2041', 'fearghail:0.196', 'atrocity:0.1935', 'salute:0.1839', 'peace:0.1827', 'harrow:0.1826', 'curragh:0.1824', 'forget:0.173', 'prosecute:0.169', 'hear:0.1425', 'long:0.1364', 'yury:0.1343', 'arm:0.1164', 'distant:0.1153', 'prepare:0.103', 'today:0.0913', 'transfer:0.088', 'welcome:0.0683', 'include:0.0568']+titles_keywords+['russias:0.3965', 'forgiven:0.3045', 'tanaiste:0.3009', 'warns:0.2571', 'actions:0.219']"
+        ]
+    ],
+    "RUS+RUS+20":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/inverness-courier.co.uk/London protesters tell of anger at Putin over Ukraine invasion.txt+eventbasecode20+eventcode20+avgtone0.4649122807017544+goldsteinscale0.65+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['putin:0.4695', 'ukraine:0.4432', 'invasion:0.3653', 'protester:0.3136', 'kovalenko:0.2763', 'war:0.2711', 'embassy:0.2432', 'flag:0.23', 'london:0.2205', 'police:0.2159', 'waving:0.174', 'emotional:0.1718', 'gather:0.1675', 'block:0.1646', 'live:0.1468', 'hundreds:0.1352', 'news:0.132', 'stop:0.1218', 'outside:0.1153', 'downing:0.1128', 'sing:0.1127', 'withdraw:0.1051', 'hold:0.0994', 'today:0.0928', 'add:0.0701', 'draw:0.0653', 'compare:0.0632', 'originally:0.052', 'chalk:0.0401', 'year:0.0311']+titles_keywords+['protesters:0.4305', 'putin:0.4078', 'invasion:0.2608', 'london:0.25', 'anger:0.2434']"
+        ]
+    ]
+}

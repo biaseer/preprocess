@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220710+../news_crawling/RUS_UKR/p_articles/thompsoncitizen.net/15 killed in Russian strike in Ukraine 20 believed trapped.txt+eventbasecode194+eventcode194+avgtone0.4716624685138539+goldsteinscale0.0+nummentions0.11937590711175616+numarticles0.12001450326323423+numsources0.14144736842105263+news_keywords+['ukraine:0.4382', 'moscows:0.3778', 'strike:0.3144', 'news:0.3006', 'refugee:0.2976', 'emergency:0.2858', 'enemy:0.2528', 'flinch:0.252', 'saturday:0.2461', 'die:0.2373', 'rubble:0.2331', 'artillery:0.2279', 'predict:0.2223', 'contact:0.2155', 'lysychansk:0.2138', 'understand:0.2117', 'regroup:0.2033', 'like:0.202', 'order:0.1932', 'yar:0.1919', 'donbas:0.1885', 'ap:0.1853', 'heard:0.1743', 'brief:0.1718', 'major:0.1592', 'far:0.1541', 'dozens:0.1514', 'haidai:0.1392', 'year:0.1263', 'true:0.1257']+titles_keywords+['ukraine:0.3842', '15:0.2893', 'strike:0.2653', 'trapped:0.258', 'killed:0.2121']"
+        ],
+        [
+            "20220825+../news_crawling/RUS_UKR/p_articles/thompsoncitizen.net/Putin orders troop replenishment in face of Ukraine losses.txt+eventbasecode194+eventcode194+avgtone0.46488888888888885+goldsteinscale0.0+nummentions0.28592162554426703+numarticles0.2864394488759971+numsources0.24013157894736842+news_keywords+['ukraine:0.4629', 'kremlin:0.4377', 'yevgeny:0.3434', 'reservist:0.331', 'civilians:0.3153', 'emergency:0.3076', 'bloodshed:0.2957', 'nuclear:0.275', 'coup:0.2619', 'prepare:0.2604', 'pentagon:0.2567', 'expand:0.2527', 'order:0.2202', 'news:0.2145', 'concern:0.2089', 'president:0.2072', 'fueling:0.2027', 'emphasize:0.1974', 'know:0.1861', 'boy:0.1784', 'turn:0.1603', 'long:0.1593', 'offensives:0.1575', 'limbs:0.1566', 'april:0.1496', 'end:0.1434', 'level:0.1369', 'blame:0.1136', 'wont:0.1054', 'reconnected:0.0333']+titles_keywords+['putin:0.4333', 'replenishment:0.3769', 'ukraine:0.3699', 'troop:0.2903', 'losses:0.2029']"
+        ]
+    ]
+}

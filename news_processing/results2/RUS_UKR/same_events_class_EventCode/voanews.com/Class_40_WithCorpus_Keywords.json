@@ -1,0 +1,22 @@
+{
+    "DEU+RUS+40":[
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/voanews.com/West Skeptical of Russian Troop Withdrawal as Ukraine Diplomacy Continues.txt+eventbasecode40+eventcode40+avgtone0.49009900990099015+goldsteinscale0.55+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.006578947368421052+news_keywords+['crimea:0.4822', 'putin:0.4176', 'diplomacy:0.3985', 'ukrainians:0.3975', 'nato:0.3902', 'invade:0.3383', 'reuters:0.308', 'crisis:0.2625', 'border:0.251', 'veto:0.2465', 'agreement:0.2364', 'imminent:0.2331', 'rhetoric:0.2326', 'roadmap:0.2229', 'understand:0.2048', 'warn:0.1928', 'want:0.1832', 'forward:0.1826', 'pullback:0.1808', 'tank:0.1758', 'long:0.1704', 'continues:0.1674', 'volodymyr:0.1665', 'school:0.1592', 'reintegrated:0.1589', 'process:0.1515', 'expert:0.1498', 'footage:0.1369', 'chancellor:0.1117', 'welcome:0.0734']+titles_keywords+['ukraine:0.3577', 'diplomacy:0.3491', 'skeptical:0.296', 'withdrawal:0.2168', 'troop:0.196']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20211202+../news_crawling/RUS_UKR/p_articles/voanews.com/Blinken Warns Russia Invasion of Ukraine Will Have Consequences.txt+eventbasecode40+eventcode40+avgtone0.44915254237288155+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.3499', 'blinken:0.3488', 'consequence:0.275', 'russian:0.2554', 'warns:0.2538', 'invasion:0.2418', 'diplomatic:0.2124', 'correspondent:0.181', 'border:0.1706', 'antony:0.1566', 'action:0.1456', 'tension:0.1427', 'report:0.1405', 'discus:0.1376', 'meet:0.1334', 'thursday:0.123', 'severe:0.1193', 'military:0.1186', 'secretary:0.1113', 'cindy:0.1063', 'plan:0.1016', 'stockholm:0.1005', 'foreign:0.0954', 'voa:0.0906', 'saine:0.0886', 'minister:0.0718', 'state:0.0517', 'heighten:0.0452', 'senior:-0.0017', 'separately:-0.0731']+titles_keywords+['blinken:0.4132', 'ukraine:0.3565', 'consequences:0.2815', 'invasion:0.2662', 'warns:0.2229']"
+        ]
+    ],
+    "RUS+WST+40":[
+        [
+            "20211203+../news_crawling/RUS_UKR/p_articles/voanews.com/Biden Says He Has a Plan to Protect Ukraine From Russia.txt+eventbasecode40+eventcode40+avgtone0.490066225165563+goldsteinscale0.55+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['putin:0.4348', 'biden:0.4017', 'ukraines:0.3869', 'nato:0.3833', 'invade:0.3423', 'diplomatic:0.317', 'plan:0.283', 'adviser:0.266', 'prepare:0.2616', 'troop:0.2534', 'reuters:0.2467', 'escalation:0.2415', 'protect:0.2269', 'rhetoric:0.2187', 'concerned:0.216', 'psaki:0.2123', 'blinken:0.1764', 'information:0.1664', 'thursday:0.163', 'remark:0.1496', 'near:0.1423', 'potential:0.1335', 'presse:0.1286', 'believe:0.1205', 'end:0.115', 'state:0.1128', 'certainly:0.0997', 'multifront:0.095', 'contains:0.0906', 'price:0.0557']+titles_keywords+['biden:0.4489', 'ukraine:0.3934', 'plan:0.3634', 'protect:0.3183', 'says:0.0272']"
+        ]
+    ],
+    "WST+RUS+40":[
+        [
+            "20211204+../news_crawling/RUS_UKR/p_articles/voanews.com/Kremlin Says Biden and Putin to Discuss Ukraine Crisis Next Week.txt+eventbasecode40+eventcode40+avgtone0.4878787878787879+goldsteinscale0.55+nummentions0.026124818577648767+numarticles0.026831036983321246+numsources0.02631578947368421+news_keywords+['putin:0.459', 'nato:0.419', 'ukraines:0.3873', 'diplomatic:0.3209', 'invade:0.3188', 'reuters:0.2859', 'escalation:0.2673', 'peskov:0.2663', 'troop:0.2483', 'adviser:0.2407', 'prepare:0.2127', 'thursday:0.2098', 'concerned:0.2073', 'border:0.2003', 'report:0.1772', 'information:0.1728', 'near:0.1491', 'meet:0.1466', 'continue:0.1397', 'operate:0.1379', 'agreement:0.136', 'bilateral:0.129', 'stockholm:0.1238', 'potential:0.1216', 'state:0.1043', 'blinken:0.1005', 'presse:0.0916', 'multifront:0.0858', 'building:0.0774', 'price:0.0552']+titles_keywords+['kremlin:0.4156', 'biden:0.3978', 'ukraine:0.3187', 'week:0.2139', 'discuss:0.1904']"
+        ]
+    ]
+}

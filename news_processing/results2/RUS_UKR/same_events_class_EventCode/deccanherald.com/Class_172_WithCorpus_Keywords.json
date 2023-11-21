@@ -1,0 +1,17 @@
+{
+    "RUS+BLR+172":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Russian shelling kills five including 3 children in Ukraines Chernihiv.txt+eventbasecode172+eventcode172+avgtone0.47093023255813954+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kyiv:0.508', 'ukraines:0.4561', 'chernihiv:0.4093', 'russian:0.392', 'reznikov:0.2899', 'kill:0.2522', 'rubble:0.251', 'emergency:0.2151', 'shell:0.1709', 'child:0.1707', 'conflict:0.1687', 'people:0.1611', 'damage:0.1567', 'apartment:0.1492', 'worker:0.1453', 'north:0.1237', 'offensive:0.1153', 'build:0.1125', 'telegram:0.1063', 'ally:0.1029', 'photo:0.0974', 'start:0.0923', 'inspect:0.0906', 'body:0.0836', 'bread:0.0766', 'february:0.0741', 'statement:0.067', 'close:0.0529', 'multi:0.0467', 'include:0.0419']+titles_keywords+['chernihiv:0.3897', 'ukraines:0.3778', 'children:0.2213', 'shelling:0.2037', 'kills:0.1598']"
+        ]
+    ],
+    "RUS+EUR+172":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Lufthansa on course for recovery Ukraine crisis limits visibility.txt+eventbasecode172+eventcode172+avgtone0.4724264705882353+goldsteinscale0.25+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['lufthansa:0.6022', 'airlines:0.4475', 'ukraine:0.3693', 'frankfurt:0.3607', 'eurowings:0.2916', 'financial:0.2753', 'crisis:0.2685', 'disruption:0.2609', 'traffic:0.2531', 'executive:0.2345', 'airspace:0.2274', 'pandemic:0.217', 'forecast:0.2066', 'remain:0.2009', 'booking:0.1883', 'shares:0.187', 'improvement:0.1867', 'united:0.1828', 'report:0.1825', 'pre:0.1555', 'uncertainties:0.1403', 'west:0.1389', 'spohr:0.1357', 'lengthy:0.1343', 'year:0.1328', 'outlook:0.1303', 'major:0.1278', 'technik:0.1189', 'billion:0.1067', 'sure:0.0725']+titles_keywords+['lufthansa:0.4812', 'ukraine:0.3302', 'visibility:0.2752', 'crisis:0.212', 'course:0.0993']"
+        ]
+    ],
+    "RUS+UKR+172":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/deccanherald.com/5 reasons why Ukraine has been able to stall Russian advance.txt+eventbasecode172+eventcode172+avgtone0.4860583016476553+goldsteinscale0.25+nummentions0.029753265602322207+numarticles0.030456852791878174+numsources0.03618421052631579+news_keywords+['crimea:0.4858', 'ukrainians:0.4331', 'soviet:0.4249', 'nato:0.3703', 'invade:0.3664', 'putin:0.3533', 'strategic:0.3139', 'frontline:0.2669', 'zelenskyy:0.2457', 'develops:0.2158', 'weaponry:0.2157', 'colonel:0.2054', 'turn:0.2041', 'cia:0.201', 'understanding:0.1949', 'attrition:0.1835', 'capital:0.1668', 'success:0.1627', 'combine:0.1591', 'future:0.1579', 'early:0.1577', 'write:0.1442', 'analyses:0.1432', 'focus:0.133', 'treatment:0.1148', 'irregular:0.0926', 'underestimated:0.0783', 'far:0.0777', 'non:0.065', 'numerically:0.018']+titles_keywords+['ukraine:0.4841', 'reasons:0.232', 'stall:0.2119', 'advance:0.2074', 'able:0.0798']"
+        ]
+    ]
+}

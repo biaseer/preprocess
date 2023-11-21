@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220128+../news_crawling/RUS_UKR/p_articles/wbir.com/Distinct possibility Russia invades Ukraine next month Biden says.txt+eventbasecode130+eventcode130+avgtone0.47684865238424323+goldsteinscale0.27999999999999997+nummentions0.13642960812772134+numarticles0.13705583756345177+numsources0.11842105263157894+news_keywords+['crimean:0.4279', 'putin:0.424', 'diplomacy:0.4038', 'nato:0.3817', 'russias:0.3549', 'invades:0.35', 'escalation:0.3047', 'emergency:0.2605', 'maneuver:0.2476', 'soon:0.23', 'macroeconomic:0.2183', 'evasive:0.2177', 'expect:0.2157', 'coordinate:0.2051', 'concern:0.2038', 'psaki:0.1977', 'order:0.1944', 'respond:0.1861', 'know:0.185', 'debate:0.1722', 'emphasize:0.1677', 'plunge:0.1629', 'possibility:0.1574', 'consolidated:0.1489', 'secretary:0.1478', 'pipeline:0.1388', 'authorize:0.1284', 'dmytro:0.1095', 'year:0.0971', 'hashtag:0.0779']+titles_keywords+['ukraine:0.3818', 'biden:0.3182', 'possibility:0.3041', 'invades:0.2819', 'month:0.2451']"
+        ],
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/wbir.com/Ukrainian rebels evacuate civilians to Russia.txt+eventbasecode130+eventcode130+avgtone0.46903820816864294+goldsteinscale0.27999999999999997+nummentions0.45754716981132076+numarticles0.4579405366207397+numsources0.4473684210526316+news_keywords+['ukraine:0.4969', 'kremlin:0.4507', 'nato:0.429', 'evacuate:0.3946', 'war:0.3836', 'diplomatic:0.3347', 'escalation:0.3331', 'separatist:0.3201', 'sinenkov:0.3006', 'disrupt:0.2957', 'uniformed:0.2718', 'news:0.2702', 'miscommunication:0.2594', 'organize:0.2467', 'casualty:0.2256', 'dangerous:0.2245', 'reminder:0.2197', 'conjunction:0.2193', 'industrial:0.2126', 'pull:0.207', 'continue:0.2061', 'bus:0.2041', 'type:0.1967', 'weekend:0.1791', 'donbas:0.1775', 'borderwith:0.1736', 'ready:0.1724', 'long:0.1509', 'unchr:0.1503', 'agree:0.0929']+titles_keywords+['ukrainian:0.4638', 'civilians:0.4109', 'evacuate:0.3824', 'rebels:0.3362', 'russia:0.3209']"
+        ]
+    ]
+}

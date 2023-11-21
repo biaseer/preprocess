@@ -1,0 +1,17 @@
+{
+    "CZE+UKR+40":[
+        [
+            "20220714+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Kyiv sounds alarm over warravaged nature EU vows aid.txt+eventbasecode40+eventcode40+avgtone0.4794050343249428+goldsteinscale0.55+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4917', 'war:0.345', 'infrastructure:0.2962', 'agenda:0.2881', 'coordinate:0.2828', 'aid:0.2719', 'communist:0.2491', 'destroy:0.2447', 'pollute:0.2226', 'meeting:0.2119', 'analyse:0.2074', 'bloc:0.2071', 'hubackova:0.2054', 'repair:0.2014', 'hear:0.19', 'plant:0.1834', 'pledge:0.1735', 'post:0.1658', 'result:0.1648', 'prepare:0.1643', 'make:0.1543', 'immediate:0.1482', 'receive:0.1452', 'sure:0.1424', 'example:0.1404', 'strilets:0.1262', 'rotate:0.1027', 'similar:0.1027', 'happily:0.0837', 'percent:0.0497']+titles_keywords+['kyiv:0.4724', 'aid:0.3445', 'warravaged:0.3232', 'nature:0.1728', 'vows:0.1545']"
+        ]
+    ],
+    "RUS+RUS+40":[
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Ukraines Zelenskyy Turkeys Erdogan discuss Mariupol.txt+eventbasecode40+eventcode40+avgtone0.48837209302325585+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.00036258158085569254+numsources0.0+news_keywords+['ukraine:0.4582', 'erdogan:0.4461', 'nato:0.4176', 'evacuation:0.3833', 'turkish:0.345', 'zelenskyy:0.3284', 'civilians:0.3194', 'threat:0.2827', 'reuters:0.2732', 'mediation:0.268', 'presidency:0.2498', 'turkeys:0.2401', 'border:0.2305', 'status:0.2138', 'oppose:0.191', 'assistance:0.1907', 'twitter:0.1781', 'mariupol:0.178', 'immediate:0.174', 'good:0.1579', 'port:0.1546', 'guarantor:0.1452', 'write:0.1447', 'future:0.143', 'ready:0.1372', 'hold:0.1372', 'month:0.1185', 'offer:0.1079', 'agree:0.0935', 'include:0.0689']+titles_keywords+['erdogan:0.4471', 'mariupol:0.4239', 'ukraines:0.4174', 'zelenskyy:0.3772', 'discuss:0.2092']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220829+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/EU may agree tightening visas for Russians discuss training of Ukraine troops.txt+eventbasecode40+eventcode40+avgtone0.48595041322314053+goldsteinscale0.55+nummentions0.001451378809869376+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.3838', 'nato:0.3626', 'visas:0.3553', 'moscows:0.3247', 'border:0.2585', 'diplomatic:0.2519', 'war:0.2477', 'troop:0.239', 'ban:0.2278', 'blocs:0.2225', 'agreement:0.202', 'agenda:0.184', 'zelenskiy:0.1814', 'euro:0.177', 'remain:0.1769', 'ahead:0.1734', 'enter:0.1691', 'concern:0.1517', 'facilitation:0.1363', 'wednesday:0.1276', 'lengthy:0.1261', 'widen:0.1198', 'train:0.1183', 'slap:0.1072', 'arguing:0.1064', 'source:0.099', 'dissident:0.0944', 'chair:0.09', 'set:0.0816', 'borrell:0.0663']+titles_keywords+['ukraine:0.3263', 'visas:0.2742', 'troops:0.2344', 'tightening:0.1395', 'agree:0.0238']"
+        ]
+    ]
+}

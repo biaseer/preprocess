@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+181":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Mayor of Ukraine city Melitopol abducted by Russian troops.txt+eventbasecode181+eventcode181+avgtone0.4718045112781955+goldsteinscale0.05+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.504', 'terrorist:0.4185', 'kidnap:0.4078', 'occupy:0.3521', 'mayor:0.3332', 'fedorov:0.3111', 'zelensky:0.3103', 'troop:0.2974', 'invader:0.2786', 'democracy:0.2626', 'melitopol:0.2492', 'volodymyr:0.2403', 'defend:0.208', 'bravely:0.1937', 'afp:0.1928', 'march:0.1927', 'dress:0.1907', 'issue:0.1745', 'come:0.1682', 'video:0.1629', 'mr:0.1594', 'legitimate:0.1519', 'centre:0.1446', 'km:0.1441', 'black:0.1425', 'like:0.1216', 'sign:0.1204', 'new:0.1022', 'head:0.0994', 'apparently:0.0728']+titles_keywords+['melitopol:0.435', 'abducted:0.3532', 'ukraine:0.3278', 'mayor:0.2898', 'troops:0.1434']"
+        ],
+        [
+            "20220610+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Ukraine says struck Russian positions in Kherson.txt+eventbasecode181+eventcode181+avgtone0.4673913043478261+goldsteinscale0.05+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['crimea:0.5982', 'kyiv:0.5123', 'annexed:0.3667', 'russian:0.3458', 'territory:0.3369', 'invasion:0.3291', 'occupy:0.3228', 'kherson:0.3221', 'troop:0.2566', 'reclaim:0.2015', 'north:0.1935', 'strike:0.1822', 'aircraft:0.1777', 'tense:0.1673', 'afp:0.1475', 'early:0.1474', 'come:0.1459', 'personnel:0.1458', 'integrate:0.1369', 'launch:0.131', 'continue:0.127', 'controversial:0.1268', 'control:0.123', 'feb:0.1152', 'carry:0.114', 'vote:0.1042', 'hear:0.0962', 'day:0.0921', 'float:0.0897', 'series:0.0535']+titles_keywords+['ukraine:0.471', 'kherson:0.4003', 'positions:0.1689', 'struck:0.156', 'says:0.0478']"
+        ]
+    ]
+}

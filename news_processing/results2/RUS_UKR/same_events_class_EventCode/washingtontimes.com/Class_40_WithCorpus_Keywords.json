@@ -1,0 +1,17 @@
+{
+    "FRA+RUS+40":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Macron barely campaigning leads French presidential race.txt+eventbasecode40+eventcode40+avgtone0.4875164257555848+goldsteinscale0.55+nummentions0.09397677793904209+numarticles0.09463379260333575+numsources0.20723684210526316+news_keywords+['macron:0.6027', 'presidency:0.4062', 'gaulle:0.3991', 'campaign:0.3481', 'frontrunner:0.3233', 'mlenchon:0.2846', 'nato:0.2831', 'paris:0.2732', 'centrist:0.2629', 'extremists:0.2321', 'lose:0.2171', 'sanction:0.2091', 'zemmour:0.1962', 'criticize:0.1922', 'april:0.1922', 'counterpart:0.1871', 'unifying:0.1751', 'news:0.1674', 'coordinate:0.1659', 'expert:0.1577', 'russian:0.1555', 'rotate:0.1523', 'stature:0.1489', 'prove:0.1423', 'pcresse:0.1388', 'note:0.1383', 'percentage:0.127', 'runoff:0.1269', 'want:0.1244', 'tired:0.1199']+titles_keywords+['macron:0.5501', 'campaigning:0.3439', 'barely:0.221', 'french:0.1852', 'race:0.1087']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Russia says Ukraine talks progressing as onslaught continues.txt+eventbasecode40+eventcode40+avgtone0.47470238095238093+goldsteinscale0.55+nummentions0.08127721335268505+numarticles0.07831762146482958+numsources0.12828947368421054+news_keywords+['ukraine:0.5214', 'airstrikes:0.3565', 'propaganda:0.3019', 'zelenskyy:0.2883', 'occupy:0.2857', 'separatist:0.2629', 'emergency:0.2565', 'troop:0.2471', 'capital:0.2349', 'agreement:0.2327', 'flee:0.2101', 'covid:0.2035', 'intensify:0.2032', 'worry:0.2027', 'continue:0.2022', 'navigate:0.1909', 'engineering:0.1861', 'curfew:0.1826', 'ablaze:0.1804', 'long:0.1709', 'bucha:0.1692', 'refer:0.1625', 'want:0.1594', 'range:0.1589', 'gouged:0.1585', 'nearly:0.1544', 'businesslike:0.149', 'fall:0.1469', 'undercount:0.1414', 'biden:0.1409']+titles_keywords+['ukraine:0.3987', 'progressing:0.3316', 'continues:0.2745', 'talks:0.2439', 'onslaught:0.2315']"
+        ]
+    ],
+    "UKR+VAT+40":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Vatican Pope clearly condemns Russias repugnant war.txt+eventbasecode40+eventcode40+avgtone0.46078431372549017+goldsteinscale0.55+nummentions0.22496371552975328+numarticles0.22552574329224076+numsources0.33223684210526316+news_keywords+['pope:0.4335', 'orthodox:0.3635', 'war:0.3541', 'kyiv:0.3512', 'russias:0.3446', 'condemn:0.2954', 'repugnant:0.2817', 'diplomat:0.238', 'intervention:0.1912', 'unequivocal:0.1716', 'read:0.161', 'word:0.1446', 'insanity:0.139', 'dmytro:0.137', 'dramatic:0.1285', 'human:0.128', 'victimized:0.1242', 'view:0.1209', 'planned:0.1125', 'remark:0.1117', 'issue:0.1117', 'holy:0.111', 'come:0.1032', 'summon:0.1012', 'apart:0.0927', 'dimension:0.0866', 'commentator:0.0864', 'right:0.0817', 'ap:0.0731', 'september:0.0611']+titles_keywords+['pope:0.4444', 'repugnant:0.3231', 'russias:0.2917', 'war:0.2734', 'clearly:0.116']"
+        ]
+    ]
+}

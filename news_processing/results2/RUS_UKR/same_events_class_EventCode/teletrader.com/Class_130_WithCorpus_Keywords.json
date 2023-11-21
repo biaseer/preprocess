@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/teletrader.com/Putin might not attend next G20 summit Kremlin.txt+eventbasecode130+eventcode130+avgtone0.48846153846153845+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4499', 'dmitry:0.3222', 'peskov:0.282', 'moscow:0.2779', 'geopolitical:0.2687', 'bali:0.2615', 'attend:0.2374', 'summit:0.2257', 'negotiation:0.1857', 'sanction:0.1586', 'say:0.1475', 'likely:0.1368', 'spokesperson:0.117', 'respond:0.1154', 'warn:0.1106', 'position:0.1069', 'thursday:0.1029', 'organize:0.0818', 'effect:0.0801', 'relation:0.0741', 'negative:0.0714', 'conducive:0.063', 'current:0.051', 'fit:0.0434', 'round:0.0432', 'add:0.0429', 'success:0.0269', 'evolution:0.0111', 'pump:0.0086', 'weapon:0.0076']+titles_keywords+['putin:0.441', 'kremlin:0.4287', 'g20:0.3543', 'attend:0.2422', 'summit:0.1945']"
+        ]
+    ],
+    "RUS+WST+130":[
+        [
+            "20211213+../news_crawling/RUS_UKR/p_articles/teletrader.com/NATO security guarantees needed to avoid conflict Russia.txt+eventbasecode130+eventcode130+avgtone0.4824561403508772+goldsteinscale0.27999999999999997+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.0+news_keywords+['nato:0.5247', 'assurances:0.3154', 'ryabkov:0.2703', 'sergey:0.2675', 'russian:0.2313', 'alliance:0.2235', 'security:0.2203', 'nuclear:0.1989', 'novosti:0.1958', 'deploy:0.1875', 'border:0.1851', 'conflict:0.1633', 'provide:0.1543', 'expand:0.1461', 'weapon:0.1393', 'avoid:0.1099', 'need:0.0998', 'intention:0.0899', 'near:0.0877', 'ria:0.0764', 'bind:0.0757', 'legally:0.0689', 'state:0.0614', 'convince:0.0578', 'lead:0.0504', 'monday:0.0463', 'say:0.0401', 'member:0.0171', 'likely:0.0005', 'deputy:-0.0005']+titles_keywords+['nato:0.5423', 'security:0.2592', 'guarantees:0.229', 'conflict:0.2154', 'avoid:0.1504']"
+        ]
+    ]
+}

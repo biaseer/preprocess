@@ -1,0 +1,18 @@
+{
+    "BLR+UKR+190":[
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/krdo.com/Belarus claims to have shot down Ukrainian missiles.txt+eventbasecode190+eventcode190+avgtone0.4758771929824562+goldsteinscale0.0+nummentions0.02939042089985486+numarticles0.03009427121102248+numsources0.046052631578947366+news_keywords+['belarus:0.4785', 'lukashenkos:0.4462', 'kyiv:0.4363', 'putin:0.4351', 'nato:0.3528', 'gladkov:0.3426', 'missile:0.2865', 'provocation:0.2646', 'backfire:0.264', 'military:0.2471', 'investigate:0.2461', 'airspace:0.2432', 'sovereignty:0.2322', 'destroy:0.2265', 'reunification:0.2186', 'news:0.2152', 'intercept:0.2134', 'hit:0.2098', 'coordinate:0.2031', 'invasion:0.2006', 'cnns:0.1667', 'people:0.162', 'despite:0.1426', 'building:0.1354', 'lie:0.1318', 'morning:0.126', 'sumy:0.1021', 'kh:0.0863', 'thank:0.0642', 'usually:0.0637']+titles_keywords+['belarus:0.4503', 'missiles:0.3807', 'ukrainian:0.3399', 'shot:0.1363', 'claims:0.0852']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220417+../news_crawling/RUS_UKR/p_articles/krdo.com/Page Not Found.txt+eventbasecode190+eventcode190+avgtone0.49174443646805455+goldsteinscale0.0+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.01644736842105263+news_keywords+['url:0.3272', 'search:0.3095', 'page:0.2986', 'request:0.2817', 'krdo:0.2763', 'migrate:0.219', 'look:0.2174', 'change:0.2086', 'com:0.1782', 'try:0.1656', 'platform:0.1589', 'new:0.15', 'recently:0.1284', 'old:0.1275', 'use:0.0754', 'possible:0.0739', 'box:0.066']+titles_keywords+['page:0.4234']",
+            "20220418+../news_crawling/RUS_UKR/p_articles/krdo.com/Can the worlds largest plane ever fly again.txt+eventbasecode190+eventcode190+avgtone0.49174443646805455+goldsteinscale0.0+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['aircraft:0.4416', 'wreckage:0.3295', 'salvageable:0.3133', 'moscows:0.3074', 'achieve:0.2638', 'revise:0.2277', 'structure:0.2203', 'extensive:0.2091', 'know:0.208', 'workshop:0.2029', 'history:0.2011', 'obliterate:0.201', 'agree:0.1757', 'despite:0.1756', 'ukrinform:0.1752', 'combine:0.173', 'compile:0.1712', 'issue:0.1662', 'world:0.1656', 'possible:0.152', 'mriya:0.1514', 'allow:0.151', 'fight:0.1475', 'surface:0.1466', 'custom:0.1431', 'wont:0.1375', 'realist:0.1363', 'longer:0.1206', 'doesnt:0.1197', 'pan:0.1077']+titles_keywords+['plane:0.4254', 'largest:0.3532', 'fly:0.3373', 'worlds:0.0994']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/krdo.com/Ukraine claims Russian general has been killed in Kharkiv.txt+eventbasecode190+eventcode190+avgtone0.4748700173310225+goldsteinscale0.0+nummentions0.04716981132075472+numarticles0.047860768672951415+numsources0.046052631578947366+news_keywords+['ukraine:0.4493', 'kharkivs:0.3339', 'gerasimov:0.2555', 'kill:0.2519', 'troop:0.2454', 'general:0.2398', 'cnn:0.2224', 'artillery:0.2158', 'report:0.2103', 'strategic:0.2007', 'information:0.198', 'administration:0.1718', 'rank:0.1701', 'outlet:0.17', 'ferocity:0.1644', 'consolidate:0.1579', 'forward:0.1561', 'isnt:0.1471', 'proof:0.1412', 'understand:0.1391', 'progress:0.1339', 'kindergarten:0.1289', 'murky:0.1256', 'large:0.1176', 'day:0.0928', 'independently:0.0868', 'maternity:0.0801', 'unsecured:0.073', 'christo:0.069', 'added:0.0428']+titles_keywords+['kharkiv:0.4025', 'ukraine:0.3292', 'general:0.2612', 'killed:0.2547', 'claims:0.0757']"
+        ]
+    ]
+}

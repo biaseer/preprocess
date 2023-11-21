@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/gazettelive.co.uk/Russian TV stations hacked and Kremlin website down amid cyber attack claims.txt+eventbasecode10+eventcode10+avgtone0.4761092150170649+goldsteinscale0.5+nummentions0.05333817126269957+numarticles0.05402465554749819+numsources0.1513157894736842+news_keywords+['kremlin:0.5576', 'putin:0.5172', 'moscow:0.4608', 'ukraine:0.4368', 'vladimir:0.4352', 'ru:0.3956', 'government:0.3147', 'threaten:0.2841', 'cyber:0.2768', 'hack:0.2664', 'anonymous:0.2619', 'embassy:0.2566', 'news:0.2486', 'invasion:0.2395', 'report:0.2274', 'tv:0.1955', 'operation:0.1871', 'airports:0.179', 'video:0.1558', 'shameful:0.1217', 'railway:0.1214', 'directly:0.1205', 'step:0.1183', 'request:0.1146', 'right:0.1056', 'page:0.1007', 'tonight:0.0978', 'unfortunately:0.0887', 'make:0.0637', 'restore:0.0389']+titles_keywords+['kremlin:0.4947', 'hacked:0.3179', 'stations:0.2491', 'tv:0.2491', 'website:0.2252']"
+        ],
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/gazettelive.co.uk/Biden Russia war amounts to genocide and Putin trying to wipe out Ukraine.txt+eventbasecode10+eventcode10+avgtone0.443548387096774+goldsteinscale0.5+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.023026315789473683+news_keywords+['putin:0.4982', 'genocide:0.4615', 'russias:0.3532', 'intervene:0.2865', 'accuse:0.2491', 'controversy:0.2482', 'imply:0.2174', 'nuclear:0.215', 'administration:0.2148', 'tutsis:0.2119', 'news:0.2094', 'trigger:0.2036', 'europe:0.2013', 'block:0.1921', 'say:0.1916', 'example:0.1818', 'bidens:0.1783', 'clearer:0.1699', 'hesitate:0.162', 'learn:0.1576', 'dramatic:0.1571', 'bloody:0.1555', 'wipe:0.154', 'articulate:0.1484', 'direct:0.1285', 'idea:0.1128', 'month:0.107', 'sure:0.0914', 'price:0.07', 'wasnt:0.0613']+titles_keywords+['putin:0.5677', 'biden:0.4866', 'genocide:0.4681', 'wipe:0.1967', 'trying:0.1655']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/abc57.com/Biden Every indication is that Russia will attack Ukraine within the next several days.txt+eventbasecode20+eventcode20+avgtone0.4837837837837838+goldsteinscale0.65+nummentions0.02358490566037736+numarticles0.024292965917331398+numsources0.046052631578947366+news_keywords+['putin:0.4112', 'biden:0.3685', 'ukraine:0.341', 'attack:0.3048', 'diplomatic:0.2684', 'escalation:0.2516', 'cnn:0.2403', 'prepare:0.237', 'flag:0.2335', 'read:0.2039', 'thursday:0.2008', 'troop:0.1967', 'indication:0.1816', 'blinken:0.1732', 'pull:0.1693', 'say:0.154', 'minute:0.1504', 'near:0.1433', 'false:0.1338', 'excuse:0.1196', 'united:0.1155', 'state:0.1152', 'continue:0.1129', 'earlier:0.112', 'set:0.098', 'antony:0.0766', 'new:0.0756', 'senior:0.0552', 'send:0.0473', 'fax:0.0432']+titles_keywords+['biden:0.4154', 'ukraine:0.3639', 'attack:0.279', 'indication:0.1892', 'days:0.1544']"
+        ],
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/abc57.com/US concerned Kyiv could fall to Russia within days sources familiar with intel say.txt+eventbasecode20+eventcode20+avgtone0.48643006263048016+goldsteinscale0.65+nummentions0.03918722786647315+numarticles0.03988397389412618+numsources0.039473684210526314+news_keywords+['kyiv:0.583', 'ukrainians:0.4257', 'putin:0.3416', 'invasion:0.2571', 'military:0.236', 'anticipate:0.2348', 'molotov:0.2273', 'partisan:0.2191', 'chaotic:0.2121', 'know:0.2078', 'fight:0.2077', 'concerned:0.2072', 'cnn:0.2068', 'shift:0.2067', 'compromise:0.192', 'remain:0.1845', 'friday:0.1844', 'hear:0.1617', 'report:0.1608', 'hour:0.1597', 'key:0.1533', 'response:0.1533', 'source:0.1452', 'tweet:0.1322', 'house:0.1319', 'rapidly:0.1289', 'huddle:0.1279', 'current:0.1231', 'center:0.1143', 'install:0.041']+titles_keywords+['kyiv:0.5424', 'concerned:0.2286', 'intel:0.1543', 'fall:0.1518', 'days:0.1414']"
+        ]
+    ],
+    "USA+RUS+20":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/abc57.com/US is expelling 12 Russian UN diplomats.txt+eventbasecode20+eventcode20+avgtone0.4851116625310174+goldsteinscale0.65+nummentions0.03011611030478955+numarticles0.030819434372733864+numsources0.04276315789473684+news_keywords+['diplomats:0.4581', 'expulsion:0.3833', 'espionage:0.3456', 'moscow:0.3436', 'accuse:0.2404', 'hostile:0.2402', 'violate:0.2301', 'mission:0.229', 'bombardment:0.2251', 'leave:0.2215', 'action:0.2009', 'agreement:0.1919', 'news:0.1889', 'nebenzia:0.1793', 'obligation:0.1789', 'residency:0.1782', 'united:0.161', 'month:0.1599', 'know:0.1348', 'explanation:0.1243', 'visit:0.1222', 'deputy:0.1137', 'state:0.1128', 'olivia:0.1073', 'receive:0.1034', 'asked:0.0974', 'rank:0.0942', 'alair:0.0934', 'begin:0.0806', 'prescribe:0.0528']+titles_keywords+['diplomats:0.4546', 'russian:0.2869', 'expelling:0.2858', '12:0.2151']"
+        ]
+    ]
+}

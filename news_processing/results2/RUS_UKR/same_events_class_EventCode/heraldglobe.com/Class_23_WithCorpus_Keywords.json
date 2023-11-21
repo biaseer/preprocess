@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+23":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/heraldglobe.com/US wants Ukrainians to win war against Russia.txt+eventbasecode23+eventcode23+avgtone0.49074074074074076+goldsteinscale0.67+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.03289473684210526+news_keywords+['ukrainian:0.4057', 'putin:0.3746', 'pentagon:0.3124', 'counterattack:0.2957', 'war:0.2956', 'information:0.2924', 'sovereignty:0.2763', 'operation:0.2742', 'want:0.2363', 'talk:0.2037', 'sputnik:0.1993', 'secretary:0.1901', 'cite:0.1721', 'end:0.1665', 'secure:0.1649', 'kirby:0.1604', 'conveyed:0.1512', 'senate:0.1474', 'report:0.1457', 'use:0.1405', 'issue:0.1335', 'friday:0.1203', 'constrain:0.1136', 'line:0.1124', 'united:0.1062', 'downgrade:0.1017', 'ani:0.0909', 'time:0.084', 'set:0.0751', 'medium:0.0349']+titles_keywords+['ukrainians:0.5508', 'russia:0.3522', 'war:0.2956', 'win:0.2797', 'wants:0.2557']"
+        ],
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/heraldglobe.com/Pentagon has no comments on Zelenskyys statement about Austin Blinken visiting Ukraine.txt+eventbasecode23+eventcode23+avgtone0.5+goldsteinscale0.67+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['ukraine:0.4162', 'pentagon:0.4068', 'zelenskyy:0.363', 'president:0.2686', 'military:0.2363', 'lloyd:0.2287', 'austin:0.2255', 'spokesperson:0.218', 'blinken:0.2147', 'visit:0.1979', 'upcoming:0.193', 'operation:0.1829', 'volodymyr:0.1699', 'breakaway:0.1491', 'anisputnik:0.1474', 'state:0.1464', 'february:0.142', 'republic:0.1393', 'provocation:0.1385', 'expect:0.1273', 'antony:0.1201', 'defense:0.1157', 'delivery:0.1157', 'say:0.1117', 'confirm:0.1083', 'statement:0.0999', 'launch:0.0931', 'day:0.0878', 'arm:0.0748', 'earlier:0.049']+titles_keywords+['zelenskyys:0.3814', 'pentagon:0.3703', 'blinken:0.2717', 'ukraine:0.271', 'statement:0.1466']"
+        ]
+    ]
+}

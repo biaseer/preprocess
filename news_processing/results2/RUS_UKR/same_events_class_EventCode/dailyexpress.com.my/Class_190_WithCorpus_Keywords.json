@@ -1,0 +1,12 @@
+{
+    "RUS+LTU+190":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/dailyexpress.com.my/Ukraine filmmakers horrified by Top Gun jet display at Cannes.txt+eventbasecode190+eventcode190+avgtone0.4744718309859155+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimean:0.4957', 'russia:0.415', 'production:0.3351', 'films:0.3088', 'fesiak:0.2911', 'zelensky:0.2796', 'language:0.2757', 'khalpakhchi:0.2731', 'war:0.2728', 'catastrophe:0.2338', 'news:0.2177', 'know:0.1997', 'ban:0.1917', 'th:0.1836', 'flee:0.1822', 'telegram:0.1782', 'independent:0.1628', 'cruise:0.1615', 'andriy:0.1613', 'end:0.16', 'resident:0.1571', 'delegation:0.1563', 'story:0.1528', 'mantas:0.1498', 'month:0.146', 'happy:0.1426', 'late:0.1245', 'include:0.1233', 'awkwardly:0.1149', 'big:0.1051']+titles_keywords+['cannes:0.3626', 'ukraine:0.3077', 'gun:0.2339', 'horrified:0.2138', 'jet:0.197']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220702+../news_crawling/RUS_UKR/p_articles/dailyexpress.com.my/Missile strikes kill 18 in Odessa.txt+eventbasecode190+eventcode190+avgtone0.46634615384615385+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5186', 'odessa:0.5021', 'ukraines:0.4621', 'moscows:0.4238', 'nato:0.3836', 'putin:0.3493', 'missile:0.3162', 'dnistrovskyi:0.2934', 'emergency:0.2722', 'strategic:0.2581', 'bratchuk:0.2544', 'kill:0.2484', 'conflict:0.2448', 'strike:0.2413', 'news:0.2277', 'invasion:0.227', 'flashpoint:0.217', 'region:0.1768', 'write:0.1702', 'administration:0.167', 'bad:0.1441', 'port:0.1374', 'follow:0.121', 'setback:0.1163', 'centre:0.1054', 'sure:0.1048', 'long:0.1044', 'black:0.0913', 'toll:0.0747', 'dozen:0.0736']+titles_keywords+['odessa:0.4514', 'missile:0.3502', 'kill:0.2124', 'strikes:0.1809', '18:0.1629']"
+        ]
+    ]
+}

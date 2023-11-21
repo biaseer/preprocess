@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/chosun.com/UN Food Chief Says Mariupol Is Starving.txt+eventbasecode190+eventcode190+avgtone0.453012048192771+goldsteinscale0.0+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['ukraine:0.4438', 'war:0.3936', 'genocide:0.384', 'destabilize:0.3251', 'aid:0.3078', 'shortage:0.2934', 'predict:0.2615', 'crisis:0.2612', 'hungry:0.2606', 'divert:0.2563', 'wfp:0.2479', 'migration:0.2445', 'know:0.2417', 'intensifies:0.2094', 'industrial:0.2089', 'halve:0.202', 'complexity:0.1765', 'bad:0.1765', 'plant:0.1764', 'global:0.174', 'begin:0.1679', 'bucha:0.1642', 'town:0.1594', 'biden:0.1534', 'heartbreaking:0.1408', 'month:0.1334', 'heating:0.13', 'reach:0.1265', 'include:0.1132', 'shipped:0.1097']+titles_keywords+['starving:0.4729', 'mariupol:0.4308', 'food:0.313', 'chief:0.1581', 'says:0.0819']"
+        ],
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/chosun.com/US Allies Ramping up Support for Ukraine.txt+eventbasecode190+eventcode190+avgtone0.484775641025641+goldsteinscale0.0+nummentions0.12590711175616837+numarticles0.12364031907179115+numsources0.2598684210526316+news_keywords+['nato:0.47', 'kyiv:0.3786', 'multilateralism:0.3653', 'invasion:0.3193', 'erdogan:0.2979', 'reuters:0.2963', 'evacuate:0.2923', 'humanitarian:0.2859', 'armament:0.2839', 'embassy:0.2791', 'ally:0.2671', 'meeting:0.2398', 'agreement:0.2364', 'coordinate:0.2316', 'rally:0.2192', 'unilateral:0.2111', 'soon:0.1937', 'corridor:0.1927', 'senate:0.1825', 'relations:0.1789', 'fight:0.1744', 'continue:0.1732', 'interpretation:0.1691', 'power:0.1651', 'hour:0.1586', 'unsuccessfully:0.1327', 'substantial:0.1087', 'make:0.1051', 'far:0.0983', 'wanted:0.0775']+titles_keywords+['allies:0.4703', 'ukraine:0.4277', 'support:0.2436', 'ramping:0.1161']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/hawaiitelegraph.com/Five essential reads on RussiaAfrica relations.txt+eventbasecode61+eventcode61+avgtone0.49404761904761907+goldsteinscale0.82+nummentions0.04934687953555878+numarticles0.05003625815808557+numsources0.04276315789473684+news_keywords+['russiaafrica:0.4377', 'putin:0.3905', 'congo:0.3668', 'african:0.3059', 'sanctions:0.2896', 'treaty:0.2862', 'sochi:0.2733', 'kalashnikov:0.2371', 'ababa:0.2355', 'ak:0.2224', 'governance:0.2161', 'president:0.2012', 'relations:0.1967', 'power:0.1811', 'strategic:0.1802', 'military:0.1554', 'expect:0.142', 'upcoming:0.1379', 'import:0.1379', 'attend:0.1334', 'precursor:0.1285', 'read:0.1255', 'include:0.1165', 'warning:0.0893', 'aim:0.0812', 'factor:0.0744', 'grow:0.0739', 'fact:0.0692', 'set:0.0619', 'offer:0.0404']+titles_keywords+['russiaafrica:0.5203', 'relations:0.2776', 'reads:0.1849', 'essential:0.1343']"
+        ]
+    ],
+    "EUR+RUS+61":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/hawaiitelegraph.com/Biden Calls to End Normal Trade Relations with Russia.txt+eventbasecode61+eventcode61+avgtone0.4860824742268041+goldsteinscale0.82+nummentions0.04462989840348331+numarticles0.045322697606961566+numsources0.04276315789473684+news_keywords+['putin:0.4779', 'moscow:0.4172', 'wto:0.366', 'economic:0.3075', 'annexation:0.2916', 'bipartisan:0.2886', 'exxon:0.2665', 'enact:0.2596', 'escalation:0.2592', 'retaliatory:0.2562', 'relations:0.2303', 'sidestep:0.1924', 'status:0.1917', 'bloc:0.1888', 'export:0.1858', 'ban:0.1847', 'end:0.1831', 'isolate:0.1786', 'effect:0.1667', 'trade:0.1665', 'friday:0.1591', 'galvanize:0.1529', 'stage:0.1478', 'mfn:0.1463', 'bp:0.1372', 'make:0.1366', 'signature:0.1287', 'venture:0.1254', 'lower:0.1229', 'unlike:0.1208']+titles_keywords+['biden:0.4082', 'russia:0.2404', 'end:0.2195', 'trade:0.1545', 'relations:0.1492']"
+        ]
+    ]
+}

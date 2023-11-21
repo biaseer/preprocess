@@ -1,0 +1,32 @@
+{
+    "BEL+RUS+46":[
+        [
+            "20211215+../news_crawling/RUS_UKR/p_articles/apnews.com/EU exSoviet state leaders meet as Russia tensions simmer.txt+eventbasecode46+eventcode46+avgtone0.49436619718309854+goldsteinscale0.85+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.013157894736842105+news_keywords+['belarus:0.4273', 'moscows:0.326', 'eus:0.3238', 'meeting:0.2812', 'union:0.2673', 'poroshenko:0.2661', 'tariffs:0.2641', 'border:0.2418', 'antigovernment:0.2358', 'table:0.2341', 'bloc:0.2326', 'pledge:0.1794', 'relation:0.1727', 'attract:0.1718', 'president:0.1694', 'strategic:0.1652', 'exsoviet:0.1521', 'forward:0.1442', 'include:0.1436', 'sanction:0.1395', 'soon:0.1394', 'leave:0.1372', 'deal:0.137', 'simmer:0.1245', 'final:0.1237', 'set:0.1131', 'text:0.1122', 'hour:0.1111', 'year:0.0608', 'differentiation:0.0601']+titles_keywords+['eu:0.3695', 'meet:0.3179', 'leaders:0.2613', 'tensions:0.2087', 'state:0.1514']"
+        ]
+    ],
+    "RUS+RUS+46":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/apnews.com/Live updates 20 babies from surrogate moms in bomb shelter.txt+eventbasecode46+eventcode46+avgtone0.4774714189643578+goldsteinscale0.85+nummentions0.6658200290275762+numarticles0.33321247280638144+numsources0.3684210526315789+news_keywords+['ukraine:0.5205', 'kremlin:0.4459', 'pravda:0.401', 'evacuations:0.3833', 'natos:0.3799', 'revolution:0.3147', 'oligarchs:0.2983', 'ivano:0.2938', 'peaceful:0.2926', 'news:0.2777', 'troop:0.2771', 'zelenskyy:0.2743', 'table:0.2358', 'genocidal:0.2293', 'saturday:0.2163', 'proceed:0.2124', 'report:0.2101', 'know:0.2039', 'bipartisan:0.2', 'bucha:0.1792', 'long:0.1782', 'estimates:0.1572', 'srf:0.1561', 'additionally:0.1524', 'flatten:0.1392', 'cover:0.1354', 'understanding:0.1328', 'ihnat:0.13', 'theyre:0.1079', 'look:0.1072']+titles_keywords+['surrogate:0.53', 'babies:0.4459', 'bomb:0.3482', 'shelter:0.2964', 'live:0.2743']"
+        ]
+    ],
+    "RUS+SYR+46":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/apnews.com/Syria formally breaks diplomatic ties with Ukraine.txt+eventbasecode46+eventcode46+avgtone0.48644067796610174+goldsteinscale0.85+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['syria:0.5012', 'ukraines:0.3798', 'putin:0.3691', 'kyiv:0.3593', 'bashar:0.3503', 'diplomatic:0.3428', 'separatist:0.2847', 'sovereignty:0.2666', 'conflict:0.244', 'tayyip:0.2118', 'invade:0.1933', 'relation:0.1844', 'reality:0.1776', 'state:0.1473', 'hold:0.1429', 'refuse:0.1393', 'result:0.1391', 'revalidate:0.139', 'donbas:0.1356', 'help:0.1323', 'trip:0.1249', 'say:0.124', 'suspended:0.1228', 'official:0.1041', 'second:0.1035', 'impossible:0.1012', 'storm:0.0947', 'month:0.0846', 'recognize:0.0845', 'ap:0.0568']+titles_keywords+['syria:0.3713', 'ukraine:0.3242', 'diplomatic:0.2455', 'ties:0.1217', 'breaks:0.0943']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220809+../news_crawling/RUS_UKR/p_articles/apnews.com/Russia curtails oil shipments to central Europe.txt+eventbasecode46+eventcode46+avgtone0.48248407643312097+goldsteinscale0.85+nummentions0.03991291727140784+numarticles0.04060913705583756+numsources0.0756578947368421+news_keywords+['ukraine:0.4762', 'embargo:0.4083', 'oil:0.3409', 'putins:0.3334', 'pipeline:0.3128', 'economy:0.2819', 'ruble:0.2771', 'transit:0.2751', 'landlocked:0.263', 'complication:0.2134', 'escalation:0.2104', 'slovnaft:0.2009', 'import:0.1761', 'druzhba:0.1737', 'instead:0.1691', 'order:0.1681', 'report:0.1615', 'unaffected:0.1576', 'curtail:0.1559', 'cite:0.1545', 'transpetrol:0.1451', 'bloc:0.1439', 'suffer:0.139', 'jozef:0.1374', 'technical:0.1151', 'certain:0.1117', 'end:0.1103', 'aug:0.1098', 'leg:0.0937', 'cover:0.0805']+titles_keywords+['russia:0.3862', 'oil:0.3111', 'curtails:0.1987', 'shipments:0.1706', 'central:0.1322']"
+        ]
+    ],
+    "RUS+WST+46":[
+        [
+            "20211122+../news_crawling/RUS_UKR/p_articles/apnews.com/Russian FM Security talks with US NATO to start next month.txt+eventbasecode46+eventcode46+avgtone0.4785819793205318+goldsteinscale0.85+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.11513157894736842+news_keywords+['natos:0.4614', 'ukraine:0.4327', 'kremlin:0.4121', 'dmitry:0.3285', 'confrontation:0.2889', 'diplomat:0.2554', 'deploy:0.2515', 'annexed:0.2387', 'confer:0.238', 'separatist:0.2348', 'coordinate:0.2279', 'shortly:0.2248', 'warn:0.221', 'know:0.2029', 'agreement:0.1943', 'plan:0.1888', 'security:0.1847', 'continue:0.1821', 'turn:0.1769', 'biden:0.1705', 'imply:0.1691', 'document:0.1644', 'hold:0.1583', 'emphasize:0.1576', 'want:0.1576', 'general:0.15', 'range:0.1255', 'buildup:0.1247', 'smear:0.1162', 'hail:0.1086']+titles_keywords+['nato:0.4476', 'fm:0.3038', 'russian:0.2823', 'talks:0.2211', 'month:0.1385']"
+        ]
+    ],
+    "WST+UKR+46":[
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/apnews.com/No apologies Germanys Merkel defends approach to Ukraine.txt+eventbasecode46+eventcode46+avgtone0.48869143780290797+goldsteinscale0.85+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.023026315789473683+news_keywords+['merkel:0.4479', 'ukraines:0.4093', 'diplomatic:0.3861', 'nato:0.3845', 'putin:0.3752', 'appeasement:0.3727', 'apology:0.3312', 'invade:0.3022', 'separatist:0.2603', 'agreement:0.2573', 'berlin:0.2453', 'ally:0.2304', 'chancellorship:0.2203', 'reaction:0.2155', 'know:0.2096', 'pledge:0.1766', 'long:0.1752', 'matter:0.1701', 'criticize:0.1665', 'miscalculation:0.1573', 'perspective:0.1552', 'pipeline:0.1276', 'ap:0.1263', 'wont:0.1231', 'track:0.1215', 'year:0.117', 'wasnt:0.1155', 'set:0.1061', 'doesnt:0.0964', 'add:0.0907']+titles_keywords+['merkel:0.4744', 'ukraine:0.379', 'apologies:0.3616', 'defends:0.2718', 'approach:0.1831']"
+        ]
+    ]
+}

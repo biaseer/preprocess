@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/Ukrainian cities brace for attack Russian convoy halts.txt+eventbasecode46+eventcode46+avgtone0.4747634069400631+goldsteinscale0.85+nummentions0.05624092888243832+numarticles0.05293691080493111+numsources0.0756578947368421+news_keywords+['kyiv:0.5068', 'ukraines:0.4934', 'putin:0.3824', 'invade:0.3444', 'disarmament:0.3304', 'troop:0.2953', 'bloodshed:0.2721', 'correspondent:0.2567', 'escalate:0.2505', 'strategic:0.2479', 'headline:0.2138', 'soon:0.2086', 'brace:0.2065', 'shift:0.1748', 'kilometer:0.1724', 'harley:0.1517', 'forget:0.1483', 'cluster:0.1465', 'long:0.1425', 'alphabets:0.1423', 'whats:0.1353', 'counterpart:0.1349', 'underground:0.1342', 'say:0.1292', 'poor:0.1179', 'prove:0.106', 'video:0.0978', 'completely:0.0921', 'theyre:0.0897', 'send:0.0864']+titles_keywords+['ukrainian:0.35', 'convoy:0.3308', 'brace:0.2409', 'cities:0.2127', 'halts:0.184']"
+        ]
+    ],
+    "WST+UKR+46":[
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/brisbanetimes.com.au/This is a different time Angela Merkel breaks her silence on Ukraine defends record on.txt+eventbasecode46+eventcode46+avgtone0.4915254237288136+goldsteinscale0.85+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['diplomacy:0.4812', 'merkel:0.4766', 'nato:0.4402', 'putin:0.4304', 'ukraines:0.3975', 'correspondent:0.2868', 'annexation:0.2831', 'separatist:0.2812', 'berlin:0.2688', 'agreement:0.252', 'chancellorship:0.2315', 'say:0.2232', 'ally:0.2189', 'develop:0.2119', 'headline:0.2063', 'reaction:0.1988', 'apologise:0.1966', 'note:0.1962', 'enter:0.1883', 'pledge:0.1811', 'world:0.1782', 'present:0.1746', 'long:0.1655', 'track:0.143', 'calamity:0.1425', 'april:0.1366', 'pipeline:0.1321', 'wont:0.1021', 'wasnt:0.0936', 'doesnt:0.0855']+titles_keywords+['merkel:0.5051', 'ukraine:0.317', 'time:0.2496', 'different:0.233', 'defends:0.2109']"
+        ]
+    ]
+}

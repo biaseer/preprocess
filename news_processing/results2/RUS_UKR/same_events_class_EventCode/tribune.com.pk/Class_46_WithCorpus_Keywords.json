@@ -1,0 +1,27 @@
+{
+    "RUS+RUS+46":[
+        [
+            "20211209+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/BidenPutin talks.txt+eventbasecode46+eventcode46+avgtone0.48542274052478135+goldsteinscale0.85+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5007', 'kyiv:0.4115', 'natos:0.3959', 'meeting:0.3154', 'annexation:0.3137', 'war:0.2893', 'bidenputin:0.2836', 'roubles:0.2799', 'forthcoming:0.2505', 'businesslike:0.2439', 'sanction:0.2319', 'worry:0.2284', 'report:0.22', 'formalise:0.2093', 'oppose:0.2056', 'editorial:0.2037', 'virtual:0.1654', 'tie:0.1606', 'cold:0.1576', 'say:0.1525', 'tense:0.1514', 'donbass:0.1423', 'end:0.1391', 'long:0.1369', 'daily:0.1251', 'convertibility:0.1069', 'etoped:0.1018', 'proxies:0.0914', 'offer:0.0542', 'trajectory:0.0485']+titles_keywords+['bidenputin:0.7741', 'talks:0.4102']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/China faces consequences if it helps Russia evade sanctions over Ukraine US says.txt+eventbasecode46+eventcode46+avgtone0.4761904761904761+goldsteinscale0.85+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.023026315789473683+news_keywords+['putin:0.425', 'ukraine:0.4168', 'war:0.3524', 'diplomat:0.2977', 'sanction:0.2876', 'invasion:0.2786', 'tariff:0.2522', 'chinas:0.2433', 'outcomes:0.2309', 'meeting:0.2249', 'coordinate:0.2236', 'warn:0.2198', 'world:0.2058', 'evade:0.2038', 'jinping:0.2013', 'import:0.2008', 'order:0.1965', 'read:0.194', 'participate:0.1918', 'plan:0.188', 'anonymity:0.1863', 'allow:0.1787', 'xijin:0.1782', 'forward:0.1622', 'broader:0.1462', 'source:0.1351', 'virtual:0.1242', 'good:0.099', 'million:0.0855', 'unpalatable:0.0694']+titles_keywords+['sanctions:0.3805', 'china:0.2329', 'evade:0.164', 'helps:0.0836', 'faces:0.0161']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Ukrainian president says he is ready for negotiations with Russian counterpart.txt+eventbasecode46+eventcode46+avgtone0.48120300751879697+goldsteinscale0.85+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['negotiation:0.4614', 'putin:0.4571', 'ukrainian:0.4141', 'war:0.3402', 'zelenskyy:0.2698', 'president:0.2578', 'talk:0.2398', 'ready:0.2202', 'kill:0.2076', 'volodymyr:0.2067', 'end:0.1692', 'counterpart:0.1662', 'possibility:0.1529', 'flee:0.1448', 'order:0.1447', 'real:0.1443', 'attempt:0.1375', 'say:0.1194', 'estimate:0.1193', 'reiterate:0.1151', 'high:0.113', 'feb:0.1046', 'figure:0.1027', 'generally:0.1004', 'million:0.096', 'data:0.0925', 'televise:0.0852', 'save:0.0816', 'innocent:0.0796', 'difficult:0.0763']+titles_keywords+['ukrainian:0.3593', 'negotiations:0.3289', 'ready:0.1889', 'president:0.1839', 'says:0.0293']"
+        ]
+    ],
+    "WST+RUS+46":[
+        [
+            "20211231+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/NATO united against any Russian aggression US says.txt+eventbasecode46+eventcode46+avgtone0.4896073903002309+goldsteinscale0.85+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['nato:0.5542', 'kremlin:0.3953', 'kyiv:0.3817', 'invade:0.3286', 'conflict:0.2604', 'troop:0.2531', 'eastward:0.2341', 'separatist:0.2106', 'veto:0.1985', 'news:0.1815', 'stability:0.1725', 'reaffirm:0.158', 'soon:0.1556', 'halt:0.1401', 'want:0.1398', 'say:0.1353', 'follow:0.1327', 'general:0.13', 'secretary:0.1284', 'unity:0.1259', 'upside:0.1197', 'week:0.1132', 'session:0.1123', 'idea:0.1053', 'stoltenberg:0.104', 'second:0.0933', 'open:0.0865', 'building:0.071', 'welcome:0.0636', 'dilute:0.0527']+titles_keywords+['nato:0.6018', 'russian:0.3225', 'aggression:0.232', 'united:0.178', 'says:0.1087']"
+        ]
+    ],
+    "WST+UKR+46":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Russia strikes military base near Polish border 35 dead Ukraine says.txt+eventbasecode46+eventcode46+avgtone0.4760166840458811+goldsteinscale0.85+nummentions0.04862119013062409+numarticles0.049311094996374184+numsources0.03618421052631579+news_keywords+['crimea:0.4892', 'nato:0.4173', 'putin:0.3993', 'invade:0.3756', 'demilitarise:0.3524', 'war:0.3434', 'escalation:0.3353', 'reuters:0.2706', 'kill:0.2612', 'mykolaiv:0.2569', 'andrzej:0.2523', 'border:0.2483', 'shrapnel:0.2163', 'flee:0.2128', 'concern:0.2078', 'tank:0.2037', 'pretext:0.1922', 'personnel:0.1874', 'respond:0.1865', 'clarify:0.1762', 'near:0.1722', 'push:0.1681', 'brief:0.1661', 'baseless:0.1654', 'hour:0.1424', 'siren:0.1402', 'ready:0.1319', 'intercepted:0.117', 'building:0.1144', 'major:0.1111']+titles_keywords+['ukraine:0.3481', 'base:0.1986', '35:0.1329', 'strikes:0.1258', 'says:0.0286']"
+        ]
+    ]
+}

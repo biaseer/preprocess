@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Oil soars above 113 a barrel as Russian invasion intensifies.txt+eventbasecode192+eventcode192+avgtone0.48533007334963324+goldsteinscale0.025+nummentions0.027939042089985485+numarticles0.02864394488759971+numsources0.04276315789473684+news_keywords+['opec:0.5375', 'geopolitical:0.4115', 'oil:0.3932', 'russias:0.3795', 'supply:0.3544', 'futures:0.26', 'surge:0.2557', 'invasion:0.2472', 'barrel:0.2363', 'increase:0.2356', 'emergency:0.2214', 'dramatic:0.2151', 'cnbc:0.2085', 'texas:0.1901', 'capital:0.1858', 'prices:0.1833', 'month:0.1744', 'rebalancing:0.1715', 'world:0.1711', 'soar:0.1704', 'elasticity:0.1583', 'sanction:0.1418', 'coordinated:0.1234', 'mmbtu:0.1214', 'point:0.1117', 'say:0.1033', 'benchmark:0.1032', 'intermediate:0.0981', 'coming:0.096', 'likely:0.0625']+titles_keywords+['oil:0.3606', 'invasion:0.3172', '113:0.2961', 'russian:0.2429', 'intensifies:0.1841']"
+        ]
+    ],
+    "UKR+RUS+192":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Satellite images show Russian convoy outside Kyiv largely dispersed artillery in firing position.txt+eventbasecode192+eventcode192+avgtone0.4788557213930348+goldsteinscale0.025+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['kyiv:0.532', 'convoy:0.4', 'deploy:0.3492', 'pentagon:0.3198', 'reposition:0.29', 'antonov:0.2841', 'briefing:0.2589', 'howitzer:0.2569', 'maneuver:0.2424', 'disperse:0.2353', 'nearby:0.2351', 'satellite:0.2311', 'range:0.2294', 'direct:0.2287', 'tank:0.2124', 'armored:0.2065', 'firing:0.2035', 'surround:0.203', 'north:0.2014', 'report:0.1603', 'shortage:0.1485', 'incremental:0.1469', 'type:0.1327', 'wooded:0.128', 'photo:0.1033', 'long:0.0975', 'thursday:0.087', 'associated:0.0843', 'confirm:0.0705', 'largely:0.0198']+titles_keywords+['kyiv:0.4886', 'artillery:0.4048', 'convoy:0.3765', 'satellite:0.2807', 'images:0.2095']"
+        ],
+        [
+            "20220803+../news_crawling/RUS_UKR/p_articles/washingtonexaminer.com/Over 10 million border crossings from Ukraine to neighboring countries since war began.txt+eventbasecode192+eventcode192+avgtone0.4796380090497738+goldsteinscale0.025+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['refugees:0.5043', 'ukraine:0.504', 'border:0.319', 'war:0.3003', 'invade:0.2672', 'nations:0.2174', 'crossed:0.209', 'casualty:0.203', 'protection:0.1694', 'neighbor:0.1688', 'hostility:0.1507', 'human:0.1396', 'republic:0.1373', 'corroboration:0.1369', 'entered:0.1163', 'million:0.1114', 'report:0.1106', 'half:0.1095', 'update:0.1089', 'actual:0.1029', 'following:0.1008', 'data:0.097', 'shy:0.0895', 'month:0.0852', 'include:0.08', 'roughly:0.0715', 'accord:0.046', 'plus:0.0447', 'high:0.0376', 'receipt:0.0346']+titles_keywords+['ukraine:0.4694', 'war:0.3162', 'crossings:0.3078', 'border:0.293', 'million:0.2362']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "RUS+EUR+190":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/veteranstoday.com/Su27S Fighter Jet Mess How main Ukrainian fighter jet from best in Europe turned into.txt+eventbasecode190+eventcode190+avgtone0.49041970802919704+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ussr:0.4094', 'su:0.2476', 'mig:0.2449', 'militarywatchmagazine:0.2237', 'airframes:0.2139', 'compare:0.2085', 'jet:0.2075', 'upgrade:0.1932', 'fight:0.1885', 'enemy:0.1844', 'modern:0.1486', 'zhytomyr:0.1468', 'continue:0.1424', 'layout:0.1399', 'range:0.1395', 'main:0.1329', 'ratio:0.131', 'turn:0.1218', 'duration:0.1158', 'true:0.1133', 'mismanagement:0.1061', 'write:0.1046', 'training:0.1025', 'uncertain:0.1023', 'countermeasures:0.0999', 'early:0.095', 'data:0.0751', 'reduce:0.0683', 'completely:0.0555', 'cost:0.0534']+titles_keywords+['su27s:0.4101', 'junk:0.3466', 'jet:0.2835', 'ukrainian:0.2768', 'turned:0.1199']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/veteranstoday.com/Theconspicuous hole at the center ofBidens RussiaUkrainestrategy.txt+eventbasecode190+eventcode190+avgtone0.4807692307692308+goldsteinscale0.0+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['unilateralism:0.5667', 'russiaukrainestrategy:0.5566', 'diplomacy:0.5089', 'regime:0.3819', 'iraq:0.3736', 'neoconservatives:0.3717', 'pyongyangs:0.3532', 'president:0.3499', 'conflict:0.335', 'withamerica:0.3215', 'undermine:0.3078', 'invasion:0.2993', 'justify:0.2944', 'peril:0.2648', 'centrality:0.2615', 'designate:0.2394', 'hawkish:0.2304', 'news:0.2298', 'thequincy:0.2209', 'authorization:0.2201', 'north:0.2176', 'institute:0.2116', 'report:0.1935', 'end:0.1761', 'outlets:0.1678', 'wrong:0.1622', 'reliefs:0.159', 'resolution:0.1365', 'tocall:0.0937', 'welcome:0.0544']+titles_keywords+['russiaukrainestrategy:0.5418', 'hole:0.4171', 'center:0.2556', 'theconspicuous:0.2534', 'ofbidens:0.2101']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/veteranstoday.com/Russia Deploying Kamikaze loitering Drones Against Ukies.txt+eventbasecode190+eventcode190+avgtone0.47925764192139736+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['drone:0.4612', 'ukraine:0.457', 'kalashnikov:0.4382', 'kamikaze:0.3666', 'warfare:0.3333', 'warhead:0.2937', 'loiter:0.2679', 'kub:0.2646', 'radar:0.2488', 'kilometer:0.2313', 'know:0.2133', 'malfunction:0.1991', 'downed:0.1928', 'locate:0.181', 'zala:0.1763', 'target:0.1689', 'precision:0.146', 'arm:0.1294', 'type:0.1257', 'proof:0.1175', 'qhrp:0.1075', 'today:0.1028', 'reportedly:0.0996', 'like:0.0953', 'special:0.0862', 'alsoemployedin:0.0833', 'group:0.0779', 'enable:0.0745', 'lancet:0.0731', 'pic:0.0408']+titles_keywords+['drones:0.5031', 'russia:0.4503', 'kamikaze:0.4006', 'ukies:0.3504', 'loitering:0.2864']"
+        ]
+    ]
+}

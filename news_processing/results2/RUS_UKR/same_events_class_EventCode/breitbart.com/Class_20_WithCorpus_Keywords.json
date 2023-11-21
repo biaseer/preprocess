@@ -1,0 +1,22 @@
+{
+    "CHN+UKR+20":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/breitbart.com/Graham to Biden Go After Anybody and Everybody Who Tries to Prop Up the War.txt+eventbasecode20+eventcode20+avgtone0.46370967741935487+goldsteinscale0.65+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.4801', 'biden:0.3902', 'ukraine:0.324', 'sanction:0.2833', 'war:0.2491', 'warn:0.1967', 'taiwan:0.1943', 'help:0.1852', 'sen:0.1715', 'jinping:0.1655', 'opportunity:0.1631', 'propose:0.1628', 'say:0.1534', 'isolate:0.1462', 'sentence:0.1428', 'monday:0.1425', 'continue:0.1421', 'xi:0.141', 'planet:0.1398', 'everybody:0.1351', 'partner:0.129', 'arm:0.1263', 'stand:0.1143', 'graham:0.1135', 'tries:0.1134', 'long:0.0843', 'able:0.0723', 'hes:0.0644', 'industrial:0.0376', 'doesnt:0.0215']+titles_keywords+['biden:0.555', 'putin:0.4801', 'graham:0.3285', 'everybody:0.2201', 'war:0.2119']"
+        ]
+    ],
+    "ITA+RUS+20":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/breitbart.com/Vatican Calls out Russia for Bombing Civilians in Ukraine.txt+eventbasecode20+eventcode20+avgtone0.47674418604651164+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5144', 'russians:0.4088', 'airstrikes:0.3913', 'terrorist:0.3578', 'vaticans:0.3529', 'invasion:0.2978', 'conflict:0.2925', 'humanitarian:0.2905', 'militia:0.2753', 'destroy:0.275', 'relocation:0.2508', 'rhetoric:0.2311', 'maneuver:0.2251', 'border:0.2232', 'newspaper:0.216', 'warn:0.2058', 'mayor:0.1869', 'romano:0.1841', 'calls:0.1651', 'live:0.1647', 'mortar:0.1634', 'temporary:0.1584', 'friday:0.1579', 'increase:0.1488', 'far:0.1228', 'state:0.1215', 'cromgetty:0.1178', 'include:0.1052', 'dnipro:0.0986', 'convergence:0.0719']+titles_keywords+['ukraine:0.3917', 'vatican:0.3232', 'bombing:0.2882', 'civilians:0.2873', 'calls:0.0994']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/breitbart.com/PICS Cities Across Ukraine Rocked by Missile Strikes Shelling.txt+eventbasecode20+eventcode20+avgtone0.4722607489597781+goldsteinscale0.65+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['kyiv:0.565', 'airstrikes:0.3914', 'evacuate:0.3586', 'putin:0.3472', 'civilians:0.3409', 'nato:0.3163', 'casualty:0.2828', 'journalist:0.2633', 'ruin:0.2583', 'tank:0.2371', 'unprovoked:0.2348', 'drama:0.2319', 'separatist:0.2206', 'report:0.216', 'know:0.2055', 'residential:0.2039', 'surround:0.1963', 'prepared:0.1894', 'march:0.1836', 'remind:0.1833', 'working:0.1796', 'organization:0.1787', 'western:0.1733', 'governor:0.1712', 'anonymity:0.1695', 'population:0.1528', 'additional:0.1301', 'agree:0.1292', 'relatively:0.1153', 'dozen:0.1133']+titles_keywords+['ukraine:0.4951', 'missile:0.3408', 'strikes:0.2472', 'shelling:0.21', 'pics:0.2095']"
+        ]
+    ],
+    "RUS+USA+20":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/breitbart.com/Zelensky WWIII May Have Already Started.txt+eventbasecode20+eventcode20+avgtone0.4703196347031964+goldsteinscale0.65+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['wwiii:0.4434', 'zelensky:0.3929', 'putin:0.3928', 'ukraine:0.3629', 'president:0.256', 'predict:0.2372', 'nuclear:0.2364', 'volodymyr:0.2354', 'nbc:0.2025', 'warn:0.1898', 'holt:0.188', 'start:0.172', 'possibility:0.1638', 'escalate:0.1614', 'news:0.1605', 'hesitancy:0.1581', 'translator:0.1536', 'know:0.1502', 'wednesday:0.131', 'iii:0.1301', 'year:0.1165', 'die:0.1157', 'weve:0.1103', 'interview:0.1058', 'people:0.0939', 'unconquerable:0.0798', 'overtake:0.063', 'building:0.0621', 'million:0.046', 'bidens:0.0285']+titles_keywords+['zelensky:0.6107', 'wwiii:0.5125', 'started:0.2094']"
+        ]
+    ]
+}

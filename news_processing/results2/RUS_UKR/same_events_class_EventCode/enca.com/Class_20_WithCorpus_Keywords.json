@@ -1,0 +1,12 @@
+{
+    "AFR+RUS+20":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/enca.com/South Africans in Ukraine desperate to come home.txt+eventbasecode20+eventcode20+avgtone0.46710526315789475+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5581', 'johannesburg:0.3711', 'flee:0.322', 'troop:0.3084', 'south:0.2923', 'humanitarian:0.2841', 'africans:0.2827', 'border:0.2685', 'country:0.2561', 'withdraw:0.2397', 'government:0.2092', 'fromukraine:0.2051', 'people:0.1935', 'stuck:0.1902', 'come:0.1901', 'desperate:0.1851', 'home:0.1789', 'arrange:0.1775', 'advance:0.1688', 'watch:0.1619', 'speaks:0.1489', 'reddy:0.1457', 'sputhnick:0.1332', 'courtesy:0.128', 'student:0.127', 'concern:0.1259', 'thousands:0.1239', 'grow:0.1025', 'dstv:0.0962', 'enca:0.0621']+titles_keywords+['ukraine:0.4543', 'south:0.2919', 'africans:0.2905', 'home:0.2751', 'desperate:0.2271']"
+        ]
+    ],
+    "EUR+RUS+20":[
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/enca.com/BP plunges into 204bn loss on Russia exit.txt+eventbasecode20+eventcode20+avgtone0.46590909090909094+goldsteinscale0.65+nummentions0.03374455732946299+numarticles0.03444525018129079+numsources0.03289473684210526+news_keywords+['bp:0.4291', 'russia:0.3799', 'embargo:0.3581', 'supply:0.3008', 'bn:0.2986', 'gas:0.2951', 'war:0.2643', 'shareholding:0.2571', 'volatility:0.2548', 'rosneft:0.2518', 'headline:0.2458', 'plunge:0.2227', 'surging:0.2166', 'executive:0.2079', 'breakdown:0.2056', 'deep:0.1928', 'tragic:0.1787', 'stake:0.1775', 'billion:0.1769', 'february:0.1673', 'afpben:0.1633', 'event:0.1426', 'warn:0.1419', 'price:0.1371', 'benefit:0.1335', 'pull:0.1314', 'decision:0.1299', 'wipe:0.1156', 'include:0.0875', 'looney:0.0499']+titles_keywords+['bp:0.497', '204bn:0.31', 'loss:0.2709', 'russia:0.2644', 'plunges:0.2']"
+        ]
+    ]
+}

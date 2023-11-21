@@ -1,0 +1,13 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/laois-nationalist.ie/Institutional Peace to Counteract the Threats of Global Conflicts is Examined.txt+eventbasecode10+eventcode10+avgtone0.5061349693251533+goldsteinscale0.5+nummentions0.04898403483309144+numarticles0.049673676577229875+numsources0.13486842105263158+news_keywords+['peacebuilding:0.6715', 'peace:0.5014', 'war:0.4871', 'ngos:0.4615', 'coexistence:0.4583', 'conflicts:0.4189', 'society:0.393', 'organization:0.3277', 'agenda:0.2998', 'africa:0.2919', 'unite:0.2904', 'declaration:0.2772', 'scripture:0.2749', 'develop:0.271', 'imam:0.2675', 'world:0.2663', 'threaten:0.2656', 'sustainable:0.2282', 'interdependence:0.2209', 'guidance:0.2183', 'include:0.1945', 'generals:0.1848', 'continue:0.1817', 'woman:0.1705', 'point:0.162', 'prevalent:0.1596', 'equal:0.1584', 'current:0.1497', 'resolution:0.1332', 'dpcw:0.1219']+titles_keywords+['peace:0.4171', 'conflicts:0.3777', 'institutional:0.2965', 'global:0.1653', 'counteract:0.1628']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/laois-nationalist.ie/People Before Profit TDs defend refusal to clap for Ukrainian president.txt+eventbasecode10+eventcode10+avgtone0.4757118927973199+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukrainians:0.4364', 'putin:0.4265', 'nato:0.4208', 'militarisation:0.3898', 'eu:0.3265', 'oppose:0.2914', 'undemocratic:0.2757', 'nation:0.2658', 'oireachtas:0.262', 'attack:0.2613', 'profit:0.2554', 'applause:0.2502', 'involvement:0.2495', 'volodymyr:0.2412', 'ofukraineand:0.2344', 'whataboutery:0.2319', 'join:0.2177', 'introduce:0.2077', 'gael:0.1991', 'escalate:0.1942', 'ban:0.183', 'fine:0.1826', 'dangerous:0.1825', 'arent:0.168', 'ashamed:0.149', 'link:0.1302', 'fact:0.13', 'brief:0.1284', 'house:0.1011', 'mr:0.0835']+titles_keywords+['clap:0.4209', 'ukrainian:0.3484', 'profit:0.2332', 'tds:0.2279', 'refusal:0.1969']",
+            "20220406+../news_crawling/RUS_UKR/p_articles/laois-nationalist.ie/Ukrainian Presidential address.txt+eventbasecode10+eventcode10+avgtone0.48936170212765956+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['clap:0.4025', 'zelenskiy:0.3852', 'ukrainian:0.3516', 'volodymyr:0.2512', 'president:0.2292', 'people:0.2016', 'presidential:0.2005', 'tds:0.1819', 'profit:0.1787', 'refuse:0.1764', 'address:0.146', 'follow:0.1272', 'wednesday:0.0802', 'joint:0.0396']+titles_keywords+['ukrainian:0.4863', 'presidential:0.3426', 'address:0.2676']"
+        ]
+    ]
+}

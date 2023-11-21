@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+42":[
+        [
+            "20220625+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Ukraine forces ordered to withdraw from key battleground city.txt+eventbasecode42+eventcode42+avgtone0.47469879518072283+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.5034', 'kremlin:0.3919', 'war:0.3088', 'reuters:0.2905', 'separatist:0.2891', 'deploy:0.286', 'order:0.2563', 'territory:0.2563', 'artillery:0.2351', 'stay:0.2287', 'sievierodonetsk:0.2275', 'advance:0.2209', 'withdraw:0.2163', 'reversal:0.2062', 'tank:0.2041', 'secure:0.1937', 'governor:0.189', 'counterpart:0.1838', 'unleash:0.1774', 'regional:0.1759', 'smash:0.1717', 'main:0.1611', 'focus:0.1453', 'month:0.1445', 'plant:0.132', 'donbas:0.1311', 'big:0.1216', 'arm:0.1202', 'reduce:0.1031', 'new:0.1']+titles_keywords+['ukraine:0.3972', 'withdraw:0.2778', 'city:0.2456', 'battleground:0.2217', 'forces:0.1366']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Japan considers doubling humanitarian aid loans to Ukraine.txt+eventbasecode42+eventcode42+avgtone0.5041322314049588+goldsteinscale0.595+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4416', 'japan:0.3627', 'humanitarian:0.3182', 'aid:0.3004', 'nhk:0.2733', 'emergency:0.2606', 'loan:0.2223', 'kishida:0.2212', 'support:0.2036', 'refugee:0.1866', 'dispatch:0.1662', 'double:0.1635', 'meeting:0.1527', 'nation:0.1403', 'consider:0.1097', 'million:0.1054', 'government:0.0986', 'fumio:0.0968', 'thursday:0.091', 'plan:0.0896', 'force:0.0775', 'look:0.0748', 'summit:0.057', 'prime:0.0562', 'minister:0.0531', 'defence:0.0449', 'self:0.0344', 'new:0.0262', 'measure:0.0123', 'unveil:-0.0071']+titles_keywords+['ukraine:0.3038', 'humanitarian:0.2766', 'doubling:0.2503', 'loans:0.224', 'considers:0.0175']"
+        ]
+    ]
+}

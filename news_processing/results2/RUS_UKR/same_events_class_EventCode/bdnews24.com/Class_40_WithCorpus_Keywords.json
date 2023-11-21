@@ -1,0 +1,12 @@
+{
+    "IND+UKR+40":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/bdnews24.com/UK PM Johnson says Ukraine peace talks are doomed because of crocodile Putin.txt+eventbasecode40+eventcode40+avgtone0.48944337811900196+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.4982', 'putin:0.4534', 'ukrainians:0.4311', 'negotiation:0.3242', 'modi:0.27', 'neutrality:0.2657', 'battle:0.2565', 'invasion:0.2324', 'want:0.2151', 'oil:0.2119', 'reporter:0.1928', 'understand:0.1921', 'east:0.1905', 'say:0.1883', 'volodymyr:0.1741', 'seize:0.1739', 'afraid:0.1614', 'artillery:0.1529', 'clear:0.1529', 'donbas:0.1517', 'friday:0.151', 'end:0.1496', 'allegation:0.1455', 'import:0.1416', 'pm:0.1368', 'vote:0.1353', 'intensify:0.1351', 'longstanding:0.1259', 'leg:0.1067', 'actually:0.0951']+titles_keywords+['putin:0.3888', 'crocodile:0.2532', 'johnson:0.2511', 'doomed:0.225', 'peace:0.2145']"
+        ]
+    ],
+    "PRT+RUS+40":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/bdnews24.com/UNled deal to ensure safe export of Ukraines grain.txt+eventbasecode40+eventcode40+avgtone0.501953125+goldsteinscale0.55+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4984', 'ukraines:0.4755', 'nato:0.428', 'ukrainian:0.4085', 'russia:0.3815', 'turkey:0.3275', 'deal:0.2954', 'war:0.2625', 'nations:0.2567', 'grain:0.2476', 'port:0.2306', 'unlock:0.2145', 'sign:0.199', 'food:0.193', 'safe:0.1849', 'export:0.1818', 'sea:0.1786', 'ensure:0.1602', 'help:0.1549', 'crisis:0.1511', 'fertiliser:0.1434', 'friday:0.1265', 'united:0.126', 'grow:0.1231', 'unled:0.1193', 'black:0.0884', 'worsen:0.0726', 'landmark:0.0675', 'relieve:0.0533', 'member:0.0323']+titles_keywords+['ukraines:0.4188', 'grain:0.3692', 'deal:0.2771', 'export:0.2714', 'unled:0.2294']"
+        ]
+    ]
+}

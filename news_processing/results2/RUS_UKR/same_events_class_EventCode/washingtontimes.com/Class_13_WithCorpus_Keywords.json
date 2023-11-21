@@ -1,0 +1,12 @@
+{
+    "FRA+RUS+13":[
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Can Ukraine ever win.txt+eventbasecode13+eventcode13+avgtone0.4693509615384615+goldsteinscale0.52+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['crimea:0.4758', 'putin:0.47', 'nato:0.4029', 'invade:0.328', 'strategy:0.3053', 'demilitarize:0.275', 'speakingukrainian:0.2649', 'historian:0.2625', 'battleground:0.2589', 'nation:0.2471', 'accomplish:0.2455', 'border:0.2298', 'threatens:0.2246', 'unpredictable:0.2017', 'complication:0.1879', 'global:0.1787', 'lethal:0.177', 'beleaguered:0.174', 'long:0.1733', 'stay:0.1638', 'lofty:0.154', 'precisely:0.1475', 'gotterdammerung:0.1454', 'order:0.1453', 'soon:0.1388', 'realistically:0.1228', 'distinguish:0.1196', 'authorvdhgmail:0.1185', 'hanson:0.1073', 'unless:0.0748']+titles_keywords+['ukraine:0.469', 'win:0.3695']"
+        ]
+    ],
+    "IRL+UKR+13":[
+        [
+            "20220430+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Ukraine accuses Russia of seizing grain.txt+eventbasecode13+eventcode13+avgtone0.44886363636363646+goldsteinscale0.52+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['ukraine:0.4751', 'grain:0.3498', 'war:0.2938', 'vysotsky:0.2797', 'invasion:0.2754', 'supply:0.2407', 'seize:0.2287', 'fertilizer:0.2263', 'usda:0.2148', 'pandemic:0.1821', 'accuse:0.18', 'report:0.1716', 'projection:0.1556', 'stem:0.1401', 'western:0.1328', 'pre:0.1322', 'increase:0.1314', 'fact:0.1261', 'story:0.1212', 'export:0.1186', 'price:0.1131', 'fall:0.1014', 'world:0.0982', 'thousand:0.0958', 'wire:0.0776', 'nearly:0.0765', 'level:0.0657', 'today:0.0611', 'official:0.0508', 'taras:0.0478']+titles_keywords+['ukraine:0.4364', 'grain:0.3508', 'russia:0.3066', 'accuses:0.2567', 'seizing:0.2165']"
+        ]
+    ]
+}

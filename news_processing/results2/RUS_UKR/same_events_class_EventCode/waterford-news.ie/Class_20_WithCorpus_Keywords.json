@@ -1,0 +1,12 @@
+{
+    "IRL+RUS+20":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/waterford-news.ie/Russian vessels spotted heading towards Ireland from Norway.txt+eventbasecode20+eventcode20+avgtone0.491566265060241+goldsteinscale0.65+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['flotilla:0.4203', 'maritime:0.3531', 'navys:0.3402', 'russia:0.3289', 'reconnaissance:0.3185', 'irish:0.3061', 'tanker:0.3049', 'cruise:0.2824', 'nuclear:0.2485', 'north:0.2219', 'plane:0.2093', 'ahead:0.1887', 'orion:0.1661', 'vyazma:0.1618', 'track:0.1546', 'forces:0.1543', 'barents:0.1495', 'exercise:0.1459', 'area:0.1429', 'indicate:0.1418', 'know:0.135', 'amid:0.1253', 'eez:0.1234', 'rd:0.118', 'probable:0.1098', 'times:0.0885', 'month:0.087', 'website:0.0785', 'reconsider:0.0725', 'send:0.0693']+titles_keywords+['ireland:0.3902', 'vessels:0.3704', 'russian:0.2901', 'heading:0.1337', 'spotted:0.0867']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220731+../news_crawling/RUS_UKR/p_articles/waterford-news.ie/Sabina Higgins letter a slap in the face for Ukrainian refugees in Ireland.txt+eventbasecode20+eventcode20+avgtone0.48100172711571676+goldsteinscale0.65+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['putin:0.4371', 'ukrainian:0.4062', 'refugee:0.3574', 'ceasefire:0.3503', 'ireland:0.3225', 'higginss:0.3104', 'sabina:0.3065', 'conflict:0.2798', 'editorials:0.2492', 'uachtarin:0.2058', 'oppose:0.2007', 'invasion:0.1988', 'mrs:0.1884', 'view:0.1852', 'action:0.18', 'rt:0.1599', 'clarify:0.1446', 'ongoing:0.1441', 'aware:0.1414', 'people:0.1301', 'officiate:0.1295', 'write:0.1292', 'want:0.1288', 'world:0.1274', 'tank:0.1179', 'agree:0.1046', 'reportedly:0.0885', 'theyre:0.0871', 'http:0.0653', 'roll:0.0624']+titles_keywords+['refugees:0.4939', 'ukrainian:0.4158', 'sabina:0.3676', 'higgins:0.364', 'letter:0.3134']"
+        ]
+    ]
+}

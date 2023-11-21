@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+20":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/iheart.com/US Bans Russian Oil Imports.txt+eventbasecode20+eventcode20+avgtone0.47635135135135137+goldsteinscale0.65+nummentions0.2656023222060958+numarticles0.2661348803480783+numsources0.0+news_keywords+['putin:0.5083', 'kyiv:0.4189', 'russian:0.3852', 'oil:0.3238', 'invasion:0.3111', 'news:0.2873', 'evacuate:0.2836', 'economy:0.2748', 'diplomatic:0.2668', 'correspondent:0.2622', 'military:0.2485', 'protest:0.2338', 'operation:0.223', 'underway:0.2215', 'shortly:0.2057', 'ban:0.1975', 'translation:0.1921', 'hear:0.1655', 'anti:0.1626', 'eastern:0.1519', 'february:0.1511', 'people:0.1507', 'neighbor:0.149', 'states:0.143', 'port:0.1427', 'increase:0.1417', 'live:0.1381', 'reportedly:0.1006', 'erin:0.0917', 'deal:0.0887']+titles_keywords+['oil:0.3514', 'russian:0.3334', 'bans:0.2097', 'imports:0.2045']"
+        ]
+    ],
+    "USA+RUS+20":[
+        [
+            "20211207+../news_crawling/RUS_UKR/p_articles/iheart.com/President Biden Warns Putin Of Strong Response If Russia Invades Ukraine.txt+eventbasecode20+eventcode20+avgtone0.48734177215189867+goldsteinscale0.65+nummentions0.047895500725689405+numarticles0.048585931834662796+numsources0.0+news_keywords+['putin:0.4902', 'nato:0.3846', 'ukrainians:0.3535', 'biden:0.3456', 'invades:0.3374', 'escalation:0.3044', 'communicate:0.2819', 'warn:0.2781', 'advisor:0.2491', 'nuclear:0.2484', 'prepare:0.2419', 'security:0.2392', 'concern:0.213', 'action:0.2122', 'sullivan:0.1637', 'telegraph:0.1475', 'directly:0.1399', 'type:0.1303', 'term:0.1203', 'ransomware:0.116', 'flank:0.1158', 'states:0.1142', 'deep:0.1051', 'strong:0.0997', 'near:0.0997', 'measure:0.0996', 'hour:0.0884', 'december:0.081', 'video:0.0775', 'today:0.0682']+titles_keywords+['biden:0.3882', 'ukraine:0.3146', 'invades:0.2363', 'warns:0.1958', 'strong:0.1473']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+43":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/sb.by/Over 60000 Donbass residents evacuated to Russia.txt+eventbasecode43+eventcode43+avgtone0.4776119402985075+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['donetskpeoples:0.5468', 'evacuate:0.4512', 'russia:0.4227', 'roubles:0.3979', 'evacuee:0.3619', 'luhansk:0.2823', 'disasters:0.2537', 'donbass:0.2388', 'arrive:0.2154', 'inform:0.2101', 'chupriyan:0.2055', 'report:0.2016', 'resident:0.2006', 'republic:0.1973', 'prepared:0.1833', 'number:0.1811', 'thousand:0.1786', 'increase:0.1695', 'mr:0.1583', 'alexander:0.1531', 'document:0.1441', 'payment:0.1334', 'stress:0.1278', 'night:0.1222', 'proclaim:0.0994', 'natural:0.0854', 'defence:0.0805', 'add:0.0772', 'head:0.0431', 'acting:0.0413']+titles_keywords+['evacuated:0.4054', 'russia:0.3766', 'donbass:0.3693', 'residents:0.1886', '60000:0.1787']"
+        ],
+        [
+            "20220809+../news_crawling/RUS_UKR/p_articles/sb.by/Ukraine stopped transit of Russian oil to Hungary Czech Republic and Slovakia.txt+eventbasecode43+eventcode43+avgtone0.49280575539568344+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4748', 'transit:0.4246', 'oil:0.342', 'pipeline:0.3154', 'igor:0.2937', 'novosti:0.23', 'transnefts:0.2289', 'pump:0.2058', 'ukrtransnaft:0.1768', 'druzhba:0.1568', 'stop:0.143', 'th:0.1418', 'sanction:0.1265', 'prepayment:0.1179', 'report:0.1179', 'territory:0.1177', 'service:0.1004', 'package:0.0906', 'republic:0.0822', 'direction:0.0779', 'august:0.0714', 'percent:0.0689', 'return:0.0621', 'southern:0.0602', 'confirm:0.0569', 'term:0.0546', 'anti:0.0497', 'information:0.0453', 'make:0.0452', 'note:0.0424']+titles_keywords+['ukraine:0.465', 'czech:0.302', 'transit:0.2904', 'oil:0.2628', 'stopped:0.2149']"
+        ]
+    ]
+}

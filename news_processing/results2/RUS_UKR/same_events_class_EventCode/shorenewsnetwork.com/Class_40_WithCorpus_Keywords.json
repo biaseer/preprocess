@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+40":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/shorenewsnetwork.com/Oil settles up but posts second consecutive weekly decline.txt+eventbasecode40+eventcode40+avgtone0.4816901408450704+goldsteinscale0.55+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.013157894736842105+news_keywords+['opec:0.5032', 'oil:0.4172', 'supply:0.3328', 'volatility:0.3312', 'barrel:0.3195', 'financial:0.2685', 'russia:0.2548', 'april:0.2488', 'settle:0.2477', 'week:0.2337', 'surge:0.2231', 'rig:0.2198', 'output:0.2084', 'progress:0.1945', 'ritterbuch:0.1904', 'expectation:0.1874', 'previous:0.1795', 'benchmark:0.1732', 'reduce:0.1719', 'emerge:0.1713', 'wti:0.1633', 'covid:0.1618', 'avoid:0.1589', 'prices:0.1553', 'taking:0.1353', 'intermediate:0.1303', 'bpd:0.1257', 'wild:0.1189', 'big:0.1068', 'hughes:0.0978']+titles_keywords+['oil:0.3148', 'weekly:0.3073', 'settles:0.1983', 'decline:0.1416', 'second:0.1091']"
+        ],
+        [
+            "20220611+../news_crawling/RUS_UKR/p_articles/shorenewsnetwork.com/US and allies trade barbs with China but Ukraine dominates Asia security meet.txt+eventbasecode40+eventcode40+avgtone0.47442143727162+goldsteinscale0.55+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['russia:0.3908', 'prc:0.3892', 'confrontation:0.3414', 'reuters:0.3362', 'asias:0.3342', 'blockade:0.275', 'invasion:0.2595', 'chen:0.2453', 'worry:0.2444', 'proceeding:0.2407', 'military:0.2341', 'world:0.2313', 'reiterate:0.2248', 'future:0.2216', 'economic:0.2181', 'gopalakrishnan:0.2164', 'alarm:0.2073', 'capital:0.1991', 'shangri:0.1986', 'secretary:0.1978', 'tell:0.1806', 'increasingly:0.1774', 'order:0.1746', 'recent:0.1644', 'export:0.1411', 'zelenskiy:0.1299', 'monitor:0.1171', 'nobuo:0.1149', 'possible:0.0881', 'strong:0.0868']+titles_keywords+['ukraine:0.4469', 'allies:0.3661', 'barbs:0.1305', 'dominates:0.1302', 'trade:0.0888']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/plenglish.com/Kiev accepts three of 10 humanitarian corridors proposed by Russia.txt+eventbasecode20+eventcode20+avgtone0.5+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.451', 'ceasefire:0.4126', 'demilitarize:0.3699', 'treaty:0.3176', 'genocide:0.2875', 'kharkov:0.2648', 'operation:0.2559', 'corridor:0.2551', 'aid:0.2282', 'itinerary:0.2166', 'infrastructure:0.2145', 'troop:0.2061', 'inform:0.1876', 'begin:0.1648', 'clarify:0.1575', 'deliver:0.143', 'relation:0.1428', 'direct:0.141', 'increase:0.1357', 'control:0.1215', 'draw:0.1169', 'consecutive:0.1156', 'request:0.1141', 'donbass:0.1077', 'live:0.095', 'resident:0.0927', 'prl:0.0846', 'include:0.0775', 'cynically:0.0619', 'agree:0.0384']+titles_keywords+['kiev:0.4714', 'corridors:0.3349', 'humanitarian:0.2343', 'accepts:0.1997', '10:0.1177']"
+        ],
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/plenglish.com/Russia urges Ukrainian soldiers to lay down their weapons.txt+eventbasecode20+eventcode20+avgtone0.4793814432989691+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukrainian:0.4901', 'donetsk:0.4096', 'svyatogorsk:0.3898', 'soldier:0.3815', 'nationalist:0.3457', 'brigade:0.3325', 'armed:0.3207', 'konashenkov:0.2935', 'territorial:0.2538', 'liberation:0.2422', 'assault:0.2358', 'defend:0.2335', 'river:0.2289', 'abandon:0.2174', 'dpr:0.1916', 'scatter:0.1692', 'live:0.1634', 'treatment:0.1634', 'resistance:0.1562', 'right:0.1465', 'th:0.1457', 'explain:0.1428', 'surround:0.1236', 'units:0.1197', 'proclaim:0.1118', 'monday:0.1014', 'donets:0.0935', 'self:0.0926', 'prevent:0.0925', 'add:0.0202']+titles_keywords+['ukrainian:0.4229', 'soldiers:0.2974', 'weapons:0.2916', 'lay:0.1388', 'urges:0.0482']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/plenglish.com/Crisis between Russia and Ukraine misrepresented in the US.txt+eventbasecode20+eventcode20+avgtone0.4665775401069519+goldsteinscale0.65+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.03289473684210526+news_keywords+['putin:0.4686', 'ukraines:0.4239', 'nato:0.3845', 'treaty:0.3246', 'demilitarize:0.3098', 'crisis:0.2893', 'covertaction:0.2859', 'invasion:0.2859', 'overthrow:0.2754', 'unprovoked:0.2521', 'kill:0.2404', 'article:0.2266', 'infrastructure:0.2132', 'expand:0.2074', 'misrepresent:0.206', 'aid:0.2025', 'want:0.1884', 'foreign:0.1872', 'report:0.1871', 'text:0.1781', 'explain:0.1765', 'missile:0.1742', 'expert:0.1741', 'wrong:0.1633', 'north:0.1565', 'arrive:0.1525', 'people:0.1494', 'state:0.1493', 'measure:0.0937', 'precipitate:0.0929']+titles_keywords+['ukraine:0.4866', 'russia:0.402', 'misrepresented:0.3562', 'crisis:0.3201']"
+        ]
+    ]
+}

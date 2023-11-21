@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+173":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine Pensioner arrested at antiwar protest in Russia.txt+eventbasecode173+eventcode173+avgtone0.402777777777778+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['antiwar:0.4068', 'protest:0.3598', 'ukraine:0.3566', 'arrest:0.3496', 'russia:0.3122', 'elderly:0.2941', 'invasion:0.2907', 'pensioner:0.257', 'woman:0.2094']+titles_keywords+['antiwar:0.3216', 'pensioner:0.3147', 'ukraine:0.3106', 'protest:0.2752', 'arrested:0.251']"
+        ],
+        [
+            "20220704+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine roundup Putin vows to continue war and the mood in a shelled Russian city.txt+eventbasecode173+eventcode173+avgtone0.4837837837837838+goldsteinscale0.25+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.5297', 'putin:0.4328', 'correspondent:0.2896', 'emergency:0.279', 'korsakov:0.2658', 'conflict:0.2624', 'firing:0.2591', 'troop:0.2565', 'flee:0.2371', 'cosmonauts:0.2291', 'flag:0.2272', 'rebuild:0.2159', 'celebrate:0.2157', 'safer:0.2094', 'belgorod:0.2012', 'continue:0.1976', 'neighbouring:0.1821', 'march:0.1819', 'order:0.1758', 'televised:0.153', 'world:0.1506', 'shmyhal:0.1454', 'approve:0.1426', 'displace:0.1409', 'board:0.1364', 'point:0.1331', 'colour:0.1321', 'completely:0.1169', 'focus:0.1141', 'gauge:0.1099']+titles_keywords+['putin:0.4328', 'war:0.3511', 'continue:0.2328', 'roundup:0.1861', 'shelled:0.132']"
+        ]
+    ]
+}

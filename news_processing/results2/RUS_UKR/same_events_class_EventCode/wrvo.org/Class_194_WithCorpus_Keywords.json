@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220628+../news_crawling/RUS_UKR/p_articles/wrvo.org/Over 20 people were killed in Russias missile attack on a crowded Ukrainian mall.txt+eventbasecode194+eventcode194+avgtone0.4576059850374065+goldsteinscale0.0+nummentions0.015239477503628448+numarticles0.01595358955765047+numsources0.03289473684210526+news_keywords+['kyiv:0.4993', 'terrorism:0.3885', 'zelenskyy:0.3527', 'russias:0.342', 'bombardment:0.3094', 'victim:0.2702', 'missile:0.2655', 'military:0.2491', 'invade:0.2465', 'hit:0.2028', 'fight:0.1926', 'act:0.1888', 'president:0.1852', 'escalate:0.1835', 'report:0.1789', 'shop:0.1729', 'npr:0.1603', 'organization:0.1592', 'instead:0.1518', 'telegram:0.1446', 'address:0.1343', 'false:0.131', 'center:0.1275', 'world:0.1223', 'population:0.121', 'state:0.1066', 'february:0.0996', 'drortbgse:0.0717', 'pic:0.0591', 'particularly:0.0433']+titles_keywords+['ukrainian:0.3667', 'missile:0.2813', 'killed:0.2486', 'mall:0.2267', '20:0.1871']"
+        ],
+        [
+            "20220710+../news_crawling/RUS_UKR/p_articles/wrvo.org/At least 15 were killed and others are trapped after a Russian strike in Ukraine.txt+eventbasecode194+eventcode194+avgtone0.47081218274111675+goldsteinscale0.0+nummentions0.08635703918722787+numarticles0.08701957940536621+numsources0.13815789473684212+news_keywords+['moscow:0.4655', 'ukrainians:0.3902', 'refugee:0.3384', 'news:0.2995', 'rubble:0.2899', 'die:0.2684', 'enemy:0.2682', 'rescue:0.2676', 'know:0.267', 'strike:0.263', 'trap:0.2589', 'flinch:0.2543', 'artillery:0.2494', 'hear:0.2449', 'smash:0.239', 'collapsed:0.2278', 'lysychansk:0.2259', 'predict:0.2237', 'like:0.2076', 'saturday:0.204', 'contact:0.1932', 'donbas:0.1905', 'dozens:0.1779', 'courtyard:0.1741', 'far:0.1615', 'haidai:0.1548', 'governor:0.1541', 'major:0.1531', 'year:0.1489', 'thank:0.1004']+titles_keywords+['ukraine:0.4049', 'trapped:0.2744', 'strike:0.273', '15:0.2555', 'killed:0.2132']"
+        ]
+    ]
+}

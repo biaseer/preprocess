@@ -1,0 +1,20 @@
+{
+    "GBR+UKR+51":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/enfieldindependent.co.uk/UK can be proud of support for Ukraine PM tells ministers.txt+eventbasecode51+eventcode51+avgtone0.4828042328042328+goldsteinscale0.67+nummentions0.045718432510885344+numarticles0.046410442349528645+numsources0.039473684210526314+news_keywords+['ukraine:0.5183', 'putins:0.4562', 'nato:0.4241', 'invade:0.4238', 'airstrikes:0.3758', 'oligarch:0.3743', 'sanction:0.3189', 'chernobyl:0.3152', 'threaten:0.3145', 'government:0.3027', 'boris:0.2961', 'introduce:0.2251', 'volodymyr:0.2174', 'weaponry:0.2145', 'news:0.2019', 'want:0.1895', 'shortly:0.1837', 'responses:0.1819', 'debate:0.1589', 'lethal:0.1556', 'resist:0.1544', 'end:0.154', 'world:0.1499', 'sector:0.1425', 'subjugate:0.1298', 'role:0.1296', 'house:0.1152', 'keatinge:0.1052', 'freeze:0.0966', 'cost:0.0404']+titles_keywords+['ukraine:0.3916', 'proud:0.3213', 'support:0.1326', 'ministers:0.0943', 'pm:0.0394']"
+        ],
+        [
+            "20220705+../news_crawling/RUS_UKR/p_articles/enfieldindependent.co.uk/Ukraine can retake land recently captured by Russia Johnson tells Zelensky.txt+eventbasecode51+eventcode51+avgtone0.4938461538461539+goldsteinscale0.67+nummentions0.0783744557329463+numarticles0.07904278462654098+numsources0.06578947368421052+news_keywords+['ukraine:0.5111', 'nato:0.3978', 'putins:0.3718', 'war:0.3003', 'blockade:0.2804', 'troop:0.2777', 'zelensky:0.2727', 'borisjohnson:0.2613', 'armed:0.2485', 'remain:0.245', 'political:0.2333', 'forward:0.2329', 'downing:0.2325', 'training:0.2256', 'reconstruction:0.2151', 'secretary:0.2139', 'capability:0.2133', 'map:0.199', 'update:0.1905', 'lively:0.1889', 'important:0.1859', 'long:0.1846', 'talk:0.1812', 'ready:0.1694', 'whip:0.1595', 'lysychansk:0.1518', 'retake:0.1509', 'withdraw:0.142', 'grain:0.1359', 'july:0.1017']+titles_keywords+['zelensky:0.4351', 'ukraine:0.3398', 'johnson:0.2068', 'land:0.176', 'retake:0.1619']"
+        ]
+    ],
+    "POL+UKR+51":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/enfieldindependent.co.uk/Russian offensive turns to key Donbas city.txt+eventbasecode51+eventcode51+avgtone0.4753086419753087+goldsteinscale0.67+nummentions0.20029027576197386+numarticles0.20087019579405366+numsources0.3026315789473684+news_keywords+['kyiv:0.509', 'russia:0.4253', 'putins:0.3935', 'war:0.3524', 'zelensky:0.2895', 'occupy:0.2674', 'artillery:0.2584', 'separatist:0.246', 'engage:0.2301', 'turn:0.2274', 'sievierodonetsk:0.2265', 'donbas:0.2242', 'industrial:0.2026', 'casualty:0.201', 'sergeant:0.1913', 'news:0.1899', 'north:0.1834', 'prosecute:0.1819', 'resume:0.1803', 'prepare:0.1733', 'extend:0.1711', 'transit:0.1604', 'kilometre:0.159', 'hear:0.1561', 'want:0.1475', 'plant:0.126', 'right:0.1221', 'large:0.1152', 'withdraw:0.1121', 'misused:0.0862']+titles_keywords+['donbas:0.447', 'russian:0.3425', 'city:0.2564', 'offensive:0.1958', 'turns:0.1459']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220826+../news_crawling/RUS_UKR/p_articles/enfieldindependent.co.uk/Moscow film festival opens with praise of soldiers in Donbas.txt+eventbasecode51+eventcode51+avgtone0.5165562913907285+goldsteinscale0.67+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.2631578947368421+news_keywords+['moscow:0.4882', 'mikhalkov:0.3962', 'nikita:0.355', 'ukraines:0.3318', 'film:0.317', 'megerdichev:0.2796', 'anton:0.2778', 'festival:0.2701', 'donbas:0.2405', 'historical:0.1788', 'academy:0.1621', 'fight:0.1569', 'industrial:0.1523', 'hero:0.1477', 'separatist:0.134', 'representation:0.1292', 'important:0.1231', 'praise:0.1187', 'direct:0.1185', 'stay:0.1068', 'th:0.1065', 'burnt:0.0819', 'anticipate:0.075', 'issue:0.075', 'world:0.0722', 'want:0.0653', 'actually:0.0608', 'big:0.0608', 'reduce:0.0359', 'bear:0.018']+titles_keywords+['moscow:0.4091', 'festival:0.3049', 'soldiers:0.2941', 'film:0.2748', 'praise:0.2153']"
+        ]
+    ]
+}

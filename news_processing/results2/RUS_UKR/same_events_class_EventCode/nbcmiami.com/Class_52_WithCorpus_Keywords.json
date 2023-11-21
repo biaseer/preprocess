@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+52":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/1 Million Children Leave Behind Lives Friends in Ukraine.txt+eventbasecode52+eventcode52+avgtone0.486893840105+goldsteinscale0.675+nummentions0.09760522496371553+numarticles0.09825960841189267+numsources0.125+news_keywords+['kyiv:0.4805', 'refugee:0.4367', 'war:0.3588', 'russias:0.3352', 'unicef:0.3341', 'shelter:0.2964', 'exodus:0.2871', 'troop:0.278', 'bombardment:0.2744', 'language:0.2712', 'government:0.2662', 'tragedy:0.2661', 'children:0.262', 'read:0.2592', 'leave:0.2074', 'safe:0.2057', 'know:0.1915', 'world:0.1812', 'house:0.163', 'end:0.1563', 'corridor:0.1547', 'mudrenko:0.1519', 'margot:0.1497', 'deep:0.144', 'like:0.1429', 'million:0.1404', 'aim:0.1348', 'unanswered:0.1338', 'reconnect:0.1038', 'include:0.0721']+titles_keywords+['ukraine:0.4079', 'children:0.3977', 'million:0.2835', 'lives:0.2421', 'leave:0.2225']"
+        ]
+    ],
+    "UKR+RUS+52":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/nbcmiami.com/20 Babies From Surrogate Moms Stuck in a Ukraine Bomb Shelter.txt+eventbasecode52+eventcode52+avgtone0.48095238095238096+goldsteinscale0.675+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.009868421052631578+news_keywords+['ukraine:0.4703', 'surrogate:0.4583', 'babies:0.3457', 'troop:0.3105', 'crisis:0.3062', 'yashchenko:0.3057', 'shelter:0.2771', 'bomb:0.276', 'supply:0.256', 'peacetime:0.2343', 'thrive:0.2313', 'stay:0.2255', 'nurse:0.225', 'capital:0.2146', 'woman:0.2113', 'dangerous:0.1964', 'lyudmilla:0.1962', 'coverage:0.1747', 'carry:0.1712', 'update:0.1654', 'shelling:0.1646', 'stuck:0.1575', 'fight:0.1518', 'makeshift:0.1509', 'care:0.1245', 'theyre:0.1116', 'briefly:0.1066', 'dont:0.1011', 'click:0.0922', 'clock:0.0893']+titles_keywords+['surrogate:0.4895', 'babies:0.4542', 'shelter:0.3477', 'bomb:0.3447', 'ukraine:0.3309']"
+        ]
+    ]
+}

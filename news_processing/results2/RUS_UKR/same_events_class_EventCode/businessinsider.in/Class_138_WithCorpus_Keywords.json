@@ -1,0 +1,10 @@
+{
+    "EUR+RUS+138":[
+        []
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/businessinsider.in/Ukraine claims Russia may be planning a falseflag terrorist attack at chemical plant in Crimea.txt+eventbasecode138+eventcode138+avgtone0.45576923076923054+goldsteinscale0.15+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.5021', 'russian:0.333', 'terrorist:0.2972', 'sabotage:0.2944', 'staged:0.2811', 'invasion:0.2806', 'falsify:0.276', 'evacuate:0.2713', 'pretexts:0.2678', 'flag:0.2582', 'provocation:0.2568', 'accuse:0.2522', 'falseflag:0.2355', 'military:0.2286', 'false:0.2005', 'plant:0.1743', 'chemical:0.1735', 'portray:0.1635', 'directorate:0.1526', 'ally:0.15', 'plan:0.1479', 'attempt:0.1175', 'twitter:0.115', 'declare:0.1102', 'dmytro:0.1075', 'order:0.1018', 'wednesday:0.0886', 'possible:0.0848', 'main:0.0476', 'limit:0.0283']+titles_keywords+['crimea:0.4102', 'falseflag:0.3288', 'terrorist:0.2768', 'chemical:0.2101', 'planning:0.0961']"
+        ]
+    ]
+}

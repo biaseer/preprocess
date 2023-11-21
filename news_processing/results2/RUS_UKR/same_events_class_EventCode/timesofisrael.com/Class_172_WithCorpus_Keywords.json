@@ -1,0 +1,22 @@
+{
+    "BEL+RUS+172":[
+        [
+            "20220829+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/EU ministers to study call for ban on Russian tourists.txt+eventbasecode172+eventcode172+avgtone0.48519515477792735+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['moscow:0.3935', 'russophobia:0.3516', 'ukrainians:0.3452', 'schengen:0.3446', 'ban:0.2665', 'border:0.2586', 'propaganda:0.2535', 'tourist:0.2483', 'veto:0.2187', 'restrict:0.2154', 'diplomatic:0.2141', 'bloc:0.2075', 'volodymyr:0.1818', 'flee:0.1667', 'read:0.1595', 'enter:0.1486', 'applicant:0.1391', 'opposite:0.138', 'idea:0.1287', 'law:0.1271', 'month:0.1097', 'dangerous:0.0936', 'like:0.0834', 'measure:0.0812', 'pleased:0.0698', 'tank:0.0687', 'issue:0.0644', 'percent:0.0587', 'big:0.05', 'thats:0.019']+titles_keywords+['russian:0.2576', 'tourists:0.2487', 'eu:0.2343', 'ban:0.2263', 'study:0.0792']"
+        ]
+    ],
+    "GBR+RUS+172":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/UK says Russians blockading Black Sea as Ukraine girds for Odesa assault.txt+eventbasecode172+eventcode172+avgtone0.505800464037123+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4524', 'blockade:0.4213', 'azov:0.3107', 'sea:0.2409', 'oleksiy:0.239', 'security:0.212', 'assault:0.2109', 'paratrooper:0.1653', 'read:0.1628', 'prepare:0.151', 'update:0.1482', 'girds:0.1476', 'insightful:0.1196', 'black:0.1166', 'televise:0.1104', 'adviser:0.1064', 'effectively:0.106', 'resistance:0.1031', 'coverage:0.0979', 'pleased:0.0941', 'route:0.0937', 'distant:0.0842', 'thats:0.075', 'times:0.0692', 'unlike:0.068', 'month:0.062', 'meet:0.0609', 'accord:0.039', 'little:0.0198', 'havent:0.0012']+titles_keywords+['ukraine:0.4032', 'blockading:0.2916', 'odesa:0.2093', 'black:0.1204', 'says:0.0604']"
+        ]
+    ],
+    "RUS+UKR+172":[
+        [
+            "20220825+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Monitor blasts Russias horrendous use of cluster bombs in Ukraine.txt+eventbasecode172+eventcode172+avgtone0.45218800648298196+goldsteinscale0.25+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['ukraine:0.4647', 'cluster:0.4033', 'landmines:0.3811', 'contamination:0.2924', 'government:0.2757', 'invasion:0.2576', 'explode:0.2547', 'scatter:0.235', 'casualty:0.2297', 'occur:0.2242', 'article:0.2124', 'production:0.201', 'report:0.1989', 'indiscriminate:0.1976', 'cmcs:0.1961', 'evidence:0.1953', 'kilometer:0.1839', 'know:0.1783', 'overview:0.1726', 'afp:0.1626', 'status:0.162', 'disregard:0.1569', 'world:0.1565', 'telegram:0.1518', 'read:0.1511', 'signatories:0.1505', 'include:0.117', 'child:0.0916', 'total:0.0677', 'enjoy:0.066']+titles_keywords+['ukraine:0.4234', 'blasts:0.3436', 'monitor:0.3346', 'cluster:0.239', 'horrendous:0.1658']"
+        ]
+    ],
+    "UKR+RUS+172":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Ukraine says has proof Russia used banned cluster bombs.txt+eventbasecode172+eventcode172+avgtone0.4756944444444444+goldsteinscale0.25+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4402', 'bombardment:0.3304', 'news:0.2939', 'treaty:0.2884', 'cluster:0.2743', 'investigation:0.2509', 'weapon:0.2402', 'proof:0.2394', 'explode:0.2372', 'read:0.2302', 'troop:0.2239', 'occupy:0.2179', 'ban:0.211', 'jewish:0.183', 'mention:0.1809', 'begin:0.1545', 'example:0.1532', 'anti:0.1523', 'sign:0.151', 'dozen:0.1447', 'rights:0.1441', 'insightful:0.1382', 'pleased:0.1349', 'area:0.1163', 'main:0.1126', 'discern:0.1123', 'really:0.0912', 'invite:0.0788', 'long:0.0724', 'possible:0.06']+titles_keywords+['ukraine:0.4338', 'proof:0.3359', 'bombs:0.3134', 'cluster:0.2076', 'says:0.0429']"
+        ]
+    ]
+}

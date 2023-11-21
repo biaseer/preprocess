@@ -1,0 +1,12 @@
+{
+    "RUS+FIN+61":[
+        [
+            "20210712+../news_crawling/RUS_UKR/p_articles/marinelink.com/Russias LPG Exporters to Use Georgias Poti Port.txt+eventbasecode61+eventcode61+avgtone0.5+goldsteinscale0.82+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['lpg:0.4022', 'exporters:0.3678', 'russia:0.3257', 'transit:0.2825', 'supply:0.2665', 'port:0.2369', 'georgias:0.2341', 'rail:0.1788', 'profitable:0.1717', 'poti:0.1403', 'gazp:0.1328', 'consumes:0.1275', 'varna:0.1153', 'purchase:0.112', 'possibility:0.1117', 'data:0.107', 'accord:0.1009', 'estimate:0.0975', 'troop:0.0963', 'cost:0.0938', 'surgut:0.0935', 'send:0.0926', 'compare:0.0913', 'stop:0.0871', 'feb:0.0829', 'remain:0.0788', 'refinitiv:0.0587', 'special:0.0385', 'tonne:0.0344', 'sharply:0.0158']+titles_keywords+['lpg:0.4754', 'exporters:0.3556', 'georgias:0.3329', 'poti:0.3257', 'port:0.3231']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/marinelink.com/Ukraine Tells Grain Transshipment Firms in Danube Ports to Reduce Prices.txt+eventbasecode61+eventcode61+avgtone0.49226006191950467+goldsteinscale0.82+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.427', 'tariff:0.4239', 'danube:0.3592', 'economic:0.3406', 'transshipment:0.3353', 'seaport:0.3075', 'grain:0.2966', 'traders:0.291', 'oilseeds:0.2663', 'vysotskiy:0.2565', 'government:0.2431', 'increase:0.2234', 'rail:0.2172', 'inform:0.2127', 'exporter:0.1956', 'report:0.1803', 'block:0.1665', 'allow:0.1608', 'invasion:0.1588', 'price:0.1577', 'important:0.1554', 'fall:0.1324', 'make:0.1244', 'alternative:0.1213', 'view:0.1203', 'soon:0.1092', 'begin:0.0907', 'wrong:0.089', 'taras:0.0784', 'normal:0.0579']+titles_keywords+['danube:0.3792', 'transshipment:0.2795', 'grain:0.2203', 'prices:0.1742', 'reduce:0.1407']"
+        ]
+    ]
+}

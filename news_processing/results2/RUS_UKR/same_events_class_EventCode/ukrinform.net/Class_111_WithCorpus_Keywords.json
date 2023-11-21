@@ -1,0 +1,25 @@
+{
+    "EUR+RUS+111":[
+        [
+            "20220825+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Russians amassing military equipment just 60 m from ZNPP reactor British intelligence.txt+eventbasecode111+eventcode111+avgtone0.4711111111111111+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4629', 'zelensky:0.375', 'zaporizhia:0.3526', 'znpp:0.3393', 'reactor:0.3049', 'propaganda:0.2918', 'deploy:0.2661', 'disruption:0.2531', 'security:0.2175', 'operate:0.2097', 'invader:0.1941', 'volodymyr:0.1869', 'activity:0.1816', 'iaea:0.1791', 'prepare:0.1731', 'report:0.159', 'surround:0.15', 'read:0.1472', 'seized:0.1461', 'ammunition:0.1408', 'soon:0.1222', 'gantry:0.1208', 'error:0.1192', 'president:0.1044', 'ground:0.1026', 'large:0.0775', 'amass:0.077', 'metre:0.0634', 'add:0.0606', 'possible:0.0562']+titles_keywords+['russians:0.4144', 'reactor:0.3602', 'znpp:0.3338', 'military:0.2964', 'equipment:0.2119']"
+        ]
+    ],
+    "POL+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Polands Sejm condemns Russian aggression in Ukraine.txt+eventbasecode111+eventcode111+avgtone0.4892241379310345+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4249', 'kremlin:0.3757', 'sovereignty:0.3495', 'nato:0.3492', 'sanction:0.2858', 'flag:0.256', 'diplomatic:0.2469', 'accordance:0.2424', 'reject:0.2328', 'aggression:0.2236', 'read:0.2215', 'sejm:0.2152', 'dpr:0.2069', 'readiness:0.1893', 'correspondent:0.1868', 'puppet:0.177', 'state:0.1765', 'intensify:0.1674', 'norm:0.1628', 'stand:0.1513', 'step:0.1479', 'right:0.1464', 'prove:0.1369', 'innocent:0.1335', 'end:0.1311', 'integral:0.116', 'resolution:0.1151', 'actually:0.0898', 'price:0.0732', 'past:0.0646']+titles_keywords+['ukraine:0.4198', 'polands:0.4117', 'sejm:0.3396', 'aggression:0.2221', 'condemns:0.2164']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220124+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Hackers behind cyber attack on Ukraine govt sites affiliated with Russian security services Polish envoy.txt+eventbasecode111+eventcode111+avgtone0.48181818181818187+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['hackers:0.4556', 'ukraines:0.4478', 'ddos:0.4029', 'kyiv:0.3954', 'govt:0.3429', 'cyber:0.3158', 'attack:0.3073', 'eu:0.2789', 'website:0.24', 'correspondent:0.2242', 'data:0.2203', 'bundestag:0.2159', 'protection:0.1979', 'perpetrator:0.1938', 'andrzej:0.192', 'report:0.1914', 'communications:0.1811', 'affairs:0.1743', 'sados:0.1736', 'veterans:0.1673', 'group:0.1635', 'altered:0.1516', 'official:0.1434', 'leak:0.1391', 'representative:0.1223', 'confirm:0.1095', 'january:0.1034', 'earlier:0.0946', 'restore:0.093', 'add:0.0563']+titles_keywords+['hackers:0.4851', 'ukraine:0.3841', 'attack:0.2669', 'govt:0.2569', 'envoy:0.1809']"
+        ],
+        [
+            "20220814+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Russia exploits Japanese restaurants brand in propaganda against Ukraine watchdog.txt+eventbasecode111+eventcode111+avgtone0.47715736040609136+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['sushi:0.4672', 'propaganda:0.4073', 'kremlin:0.403', 'japan:0.396', 'restaurant:0.3884', 'sushinomidori:0.3778', 'ukrainian:0.365', 'companys:0.2784', 'discrimination:0.2611', 'report:0.2442', 'zelensky:0.2267', 'embassy:0.2179', 'ukrinform:0.211', 'delicious:0.2045', 'provocative:0.2016', 'unrelated:0.1832', 'exploit:0.1831', 'refutation:0.1644', 'cover:0.16', 'doctored:0.148', 'image:0.1449', 'president:0.1412', 'billboard:0.1408', 'chain:0.1402', 'watchdog:0.1382', 'explain:0.1363', 'change:0.121', 'regard:0.1136', 'official:0.1006', 'thats:0.094']+titles_keywords+['ukraine:0.3906', 'propaganda:0.3813', 'restaurants:0.3525', 'japanese:0.303', 'watchdog:0.2246']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20210608+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukraine condemns Russias withdrawal from Open Skies Treaty.txt+eventbasecode111+eventcode111+avgtone0.47346072186836513+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.494', 'treaty:0.4179', 'russias:0.3731', 'occupy:0.2606', 'multilateral:0.2548', 'expansionist:0.2464', 'federation:0.2361', 'aggression:0.2289', 'violate:0.1988', 'procedure:0.1918', 'continue:0.1835', 'instead:0.1833', 'announce:0.1806', 'security:0.1773', 'read:0.1675', 'note:0.167', 'withdraw:0.1523', 'statement:0.1515', 'covert:0.1507', 'skies:0.1493', 'general:0.1431', 'predictability:0.1369', 'arm:0.1324', 'state:0.1306', 'effect:0.1257', 'fully:0.1245', 'day:0.1065', 'integral:0.0996', 'sevastopol:0.099', 'far:0.084']+titles_keywords+['ukraine:0.4698', 'treaty:0.2785', 'skies:0.193', 'condemns:0.176', 'withdrawal:0.1467']"
+        ]
+    ]
+}

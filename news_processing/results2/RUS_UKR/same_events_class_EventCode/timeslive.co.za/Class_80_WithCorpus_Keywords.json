@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220520+../news_crawling/RUS_UKR/p_articles/timeslive.co.za/UKRAINE WRAP Putin seeks LNG supplies boost to Kaliningrad western exclave Ifx.txt+eventbasecode80+eventcode80+avgtone0.4852941176470588+goldsteinscale0.75+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['putin:0.5259', 'ukraine:0.4877', 'kaliningrad:0.4523', 'vladimir:0.4385', 'nato:0.4234', 'baltic:0.4123', 'pipeline:0.2908', 'gazprom:0.2851', 'lng:0.2675', 'gas:0.2586', 'region:0.2573', 'nuclear:0.2419', 'supply:0.2404', 'wrap:0.1828', 'import:0.1702', 'exclave:0.1698', 'state:0.16', 'ship:0.1521', 'western:0.1434', 'news:0.1334', 'natural:0.1298', 'report:0.1202', 'iskander:0.1152', 'boost:0.1036', 'agency:0.0797', 'hail:0.0782', 'ifx:0.0759', 'january:0.0714', 'possibility:0.053', 'say:0.0422']+titles_keywords+['putin:0.4377', 'kaliningrad:0.4148', 'lng:0.313', 'wrap:0.2613', 'ifx:0.1703']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/timeslive.co.za/UKRAINE WRAP US considering move to block Russian debt payments.txt+eventbasecode80+eventcode80+avgtone0.5137254901960784+goldsteinscale0.75+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['russia:0.476', 'ukraine:0.4637', 'moscow:0.4432', 'russian:0.3838', 'cbc:0.355', 'visas:0.3439', 'canada:0.3018', 'block:0.2571', 'journalist:0.2162', 'ban:0.2082', 'accreditation:0.2048', 'bureau:0.1807', 'wrap:0.1688', 'tv:0.164', 'broadcaster:0.1635', 'station:0.1503', 'foreign:0.1486', 'debt:0.1226', 'withdraw:0.1097', 'state:0.0804', 'payment:0.0795', 'public:0.0737', 'ministry:0.0596', 'wednesday:0.0542', 'today:0.0372', 'close:0.0345', 'say:0.0272', 'consider:-0.0126']+titles_keywords+['ukraine:0.4068', 'wrap:0.2625', 'debt:0.2388', 'block:0.2251', 'considering:0.1034']"
+        ]
+    ]
+}

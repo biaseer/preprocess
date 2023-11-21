@@ -1,0 +1,12 @@
+{
+    "NLD+RUS+112":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/manufacturing.net/Dutch Australians Launch Case Against Moscow over MH17.txt+eventbasecode112+eventcode112+avgtone0.45778364116094994+goldsteinscale0.4+nummentions0.09579100145137881+numarticles0.09644670050761421+numsources0.07236842105263158+news_keywords+['ukraine:0.4362', 'hague:0.3439', 'sovereignty:0.3358', 'investigation:0.3236', 'icao:0.3179', 'unprovoked:0.2869', 'invasion:0.2853', 'absentia:0.2826', 'australians:0.254', 'flight:0.2457', 'consequence:0.244', 'case:0.2411', 'kuala:0.2385', 'innocent:0.2366', 'verdicts:0.2364', 'negotiation:0.2217', 'kill:0.2202', 'separatist:0.2127', 'legally:0.2022', 'boycott:0.2017', 'allege:0.1762', 'statement:0.1681', 'civilian:0.1572', 'continue:0.1548', 'kin:0.1384', 'current:0.111', 'july:0.1051', 'mh:0.1038', 'include:0.094', 'bid:0.0909']+titles_keywords+['mh17:0.3231', 'moscow:0.3215', 'australians:0.2795', 'case:0.2297', 'launch:0.1647']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/manufacturing.net/Satellite Modems Crippled in Major Cyberattack.txt+eventbasecode112+eventcode112+avgtone0.46890862944162437+goldsteinscale0.4+nummentions0.1509433962264151+numarticles0.15155910079767948+numsources0.13157894736842105+news_keywords+['cyberattack:0.5394', 'satellite:0.4584', 'eutelsat:0.4024', 'modems:0.3912', 'vpn:0.3366', 'russias:0.3222', 'internet:0.3092', 'vulnerable:0.2599', 'invade:0.2584', 'military:0.2477', 'misconfiguration:0.2306', 'data:0.2174', 'plague:0.2014', 'conflict:0.2007', 'offline:0.1941', 'launch:0.1871', 'know:0.1823', 'interrupt:0.1821', 'major:0.179', 'blame:0.1743', 'subsidiary:0.1738', 'locate:0.1651', 'replacement:0.1634', 'useless:0.1618', 'ka:0.1488', 'month:0.1416', 'simultaneously:0.1355', 'largely:0.1265', 'statementproviding:0.1137', 'falco:0.0751']+titles_keywords+['modems:0.4748', 'satellite:0.4274', 'cyberattack:0.4225', 'crippled:0.2152', 'major:0.1491']"
+        ]
+    ]
+}

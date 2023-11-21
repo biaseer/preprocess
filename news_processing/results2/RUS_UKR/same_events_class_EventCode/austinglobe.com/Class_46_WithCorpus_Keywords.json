@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+46":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/austinglobe.com/Zelenskyy Warns of Larger Russian Operations in East.txt+eventbasecode46+eventcode46+avgtone0.48180076628352486+goldsteinscale0.85+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.03289473684210526+news_keywords+['ukraine:0.4877', 'putin:0.4721', 'zelenskyy:0.365', 'war:0.3627', 'destabilizing:0.3013', 'biden:0.2754', 'psaki:0.2346', 'ahead:0.2147', 'artillery:0.2145', 'tank:0.2126', 'warn:0.2084', 'monday:0.2081', 'brief:0.1973', 'civilian:0.1916', 'concern:0.1831', 'speaking:0.1696', 'operations:0.1677', 'eastern:0.1629', 'result:0.1587', 'secretary:0.1556', 'ready:0.1544', 'visit:0.1509', 'unguided:0.1358', 'nehammer:0.125', 'large:0.121', 'right:0.1168', 'round:0.1167', 'include:0.1165', 'minutes:0.1135', 'purchase:0.0931']+titles_keywords+['zelenskyy:0.5576', 'russian:0.3227', 'warns:0.2309', 'larger:0.1683', 'east:0.1403']"
+        ]
+    ],
+    "RUS+FRA+46":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/austinglobe.com/Biden and Putin Discuss Mounting RussiaUkraine Crisis.txt+eventbasecode46+eventcode46+avgtone0.4846897663174859+goldsteinscale0.85+nummentions0.0330188679245283+numarticles0.0337200870195794+numsources0.08552631578947369+news_keywords+['nato:0.4702', 'putin:0.4251', 'invades:0.3847', 'diplomatic:0.3659', 'kyiv:0.3343', 'threat:0.324', 'readiness:0.3163', 'escalate:0.2918', 'reuters:0.2775', 'correspondent:0.2562', 'adviser:0.2448', 'biden:0.2441', 'retreat:0.2378', 'coordinate:0.2321', 'visa:0.2227', 'globe:0.2081', 'order:0.2052', 'soon:0.1899', 'cite:0.1819', 'additional:0.1458', 'telephone:0.1389', 'incompatible:0.1363', 'winter:0.1359', 'end:0.1349', 'decide:0.134', 'open:0.111', 'hour:0.1019', 'state:0.0969', 'possible:0.091', 'voa:0.0835']+titles_keywords+['putin:0.4714', 'biden:0.4569', 'russiaukraine:0.3994', 'discuss:0.1875', 'mounting:-0.0092']"
+        ]
+    ]
+}

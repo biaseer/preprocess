@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/wknofm.org/Putin calls sanctions a declaration of war as Zelenskyy pleads for more aid.txt+eventbasecode51+eventcode51+avgtone0.4854838709677419+goldsteinscale0.67+nummentions0.036284470246734396+numarticles0.03698332124728064+numsources0.08223684210526316+news_keywords+['putin:0.4692', 'nato:0.4486', 'kyiv:0.3629', 'zelenskyy:0.3093', 'fly:0.2545', 'attack:0.2325', 'oil:0.2319', 'allow:0.2301', 'bipartisan:0.2285', 'delegation:0.2155', 'economic:0.2134', 'interpret:0.209', 'emergency:0.2037', 'zone:0.1921', 'consequence:0.1839', 'decide:0.1732', 'import:0.1688', 'npr:0.1687', 'buy:0.1651', 'later:0.1617', 'meet:0.1574', 'reassure:0.1508', 'world:0.1404', 'desperate:0.1351', 'schedule:0.1287', 'grisales:0.1149', 'billion:0.1049', 'coons:0.0821', 'backfill:0.0789', 'thank:0.0514']+titles_keywords+['sanctions:0.5006', 'zelenskyy:0.4525', 'putin:0.4412', 'war:0.343', 'pleads:0.1861']"
+        ],
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/wknofm.org/Russias war in Ukraine is threatening an outpost of cooperation in space.txt+eventbasecode51+eventcode51+avgtone0.48752922837100543+goldsteinscale0.67+nummentions0.10631349782293179+numarticles0.1069615663524293+numsources0.1875+news_keywords+['soyuz:0.47', 'iss:0.453', 'putin:0.4378', 'russianspaceweb:0.4156', 'russias:0.374', 'geopolitical:0.3668', 'space:0.3264', 'propaganda:0.3053', 'hrozensky:0.2972', 'cooperation:0.2847', 'station:0.2529', 'esa:0.2343', 'globe:0.2296', 'announce:0.2272', 'change:0.2238', 'meddle:0.2191', 'symbiotic:0.2173', 'orientation:0.2124', 'worry:0.2061', 'foreseeable:0.1966', 'professor:0.1925', 'allegation:0.1901', 'end:0.1743', 'technical:0.1731', 'strain:0.1724', 'function:0.1656', 'long:0.1506', 'comparison:0.1448', 'employ:0.1409', 'largely:0.0742']+titles_keywords+['ukraine:0.3987', 'space:0.3503', 'cooperation:0.2947', 'outpost:0.2526', 'threatening:0.2027']"
+        ]
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "ARE+RUS+43":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/msn.com/Sanctioned Russians Spark Worries of Industry Crisis at Dubai Yacht Show.txt+eventbasecode43+eventcode43+avgtone0.47907488986784136+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['sanctions:0.4759', 'russias:0.4452', 'russian:0.4289', 'maritime:0.3257', 'bloomberg:0.3208', 'superyacht:0.2787', 'lavishness:0.273', 'drama:0.263', 'quandary:0.259', 'duma:0.2421', 'organization:0.2413', 'know:0.2357', 'ramification:0.2347', 'term:0.2305', 'report:0.2298', 'musks:0.2266', 'pandemic:0.2263', 'world:0.2258', 'citizens:0.2161', 'skyrocket:0.2132', 'future:0.2127', 'consultant:0.1913', 'list:0.1858', 'retreat:0.1814', 'languish:0.1756', 'nefzi:0.1609', 'big:0.1592', 'compare:0.1513', 'transferring:0.1202', 'deal:0.1111']+titles_keywords+['yacht:0.3416', 'russians:0.328', 'dubai:0.3079', 'sanctioned:0.2677', 'industry:0.2342']"
+        ]
+    ],
+    "BEL+RUS+43":[
+        []
+    ],
+    "BLR+RUS+43":[
+        [],
+        [],
+        [],
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/msn.com/Lviv attack Russia strikes strategic Ukraine city.txt+eventbasecode43+eventcode43+avgtone0.47969543147208127+goldsteinscale0.64+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.02631578947368421+news_keywords+['lviv:0.6074', 'ukraine:0.4722', 'soviet:0.3561', 'relocate:0.324', 'historylviv:0.2689', 'bombardment:0.2431', 'capital:0.2431', 'military:0.2389', 'unesco:0.2227', 'medieval:0.2189', 'conflict:0.2053', 'safeguard:0.1982', 'report:0.1979', 'independence:0.1905', 'logisticsthe:0.1875', 'reutersroman:0.1868', 'continue:0.1752', 'repercussion:0.173', 'know:0.1614', 'topography:0.1608', 'casualty:0.1597', 'street:0.15', 'manuscript:0.1463', 'state:0.1372', 'play:0.1366', 'plant:0.1189', 'middle:0.1178', 'according:0.1125', 'far:0.1119', 'major:0.0868']+titles_keywords+['lviv:0.588', 'attack:0.3421', 'city:0.2435', 'russia:0.1964', 'strategic:0.1726']",
+            "20220319+../news_crawling/RUS_UKR/p_articles/msn.com/Wounded Russian soldiers fill Belarusian hospitals.txt+eventbasecode43+eventcode43+avgtone0.475922131147541+goldsteinscale0.64+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['minsk:0.4076', 'ukrainian:0.3874', 'humanitarian:0.3464', 'war:0.3405', 'lukashenko:0.3349', 'kremlin:0.3321', 'doctor:0.3174', 'civilian:0.3003', 'situation:0.2633', 'bureaucratic:0.2396', 'limbs:0.2343', 'surveillance:0.212', 'contact:0.2054', 'international:0.1925', 'injured:0.1902', 'source:0.1844', 'report:0.1776', 'agreement:0.1748', 'replace:0.173', 'prepare:0.1663', 'complicit:0.1656', 'separate:0.1564', 'bohdan:0.1457', 'siarhei:0.1373', 'furthermore:0.1348', 'equate:0.1305', 'zone:0.1303', 'fsb:0.1203', 'brought:0.1153', 'possible:0.1064']+titles_keywords+['belarusian:0.4338', 'russian:0.3945', 'soldiers:0.363', 'hospitals:0.3335', 'wounded:0.2258']"
+        ],
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/msn.com/Russia Ukraine News LIVE Updates Britain says Russian units forced to return to Belarus Russia.txt+eventbasecode43+eventcode43+avgtone0.4666666666666666+goldsteinscale0.64+nummentions0.041364296081277216+numarticles0.03444525018129079+numsources0.16447368421052633+news_keywords+['kyiv:0.5484', 'ukrainians:0.4715', 'russias:0.408', 'belarus:0.3979', 'troop:0.3007', 'war:0.2906', 'resupply:0.2744', 'operation:0.2309', 'news:0.2183', 'fleeing:0.1889', 'security:0.1728', 'neutral:0.1718', 'general:0.168', 'devolve:0.1672', 'delegation:0.1489', 'hold:0.146', 'bloody:0.1437', 'withdrawal:0.143', 'misleading:0.1305', 'talk:0.1254', 'wednesday:0.1245', 'near:0.1232', 'rotation:0.1181', 'end:0.117', 'guarantee:0.1098', 'resume:0.1075', 'focus:0.1002', 'deal:0.0774', 'million:0.0549', 'array:0.0381']+titles_keywords+['ukraine:0.4749', 'resupply:0.3084', 'news:0.2056', 'units:0.1354', 'says:0.0147']",
+            "20220331+../news_crawling/RUS_UKR/p_articles/msn.com/Russian forces walking away from Chernobyl heading to Belarus Pentagon official.txt+eventbasecode43+eventcode43+avgtone0.47902097902097907+goldsteinscale0.64+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.0+news_keywords+['chernobyl:0.578', 'kyiv:0.4309', 'ukraines:0.4269', 'putin:0.3582', 'redeployment:0.2917', 'pentagon:0.2827', 'erupt:0.2776', 'operation:0.2688', 'military:0.2559', 'catastrophic:0.2335', 'safety:0.2307', 'prepare:0.216', 'zaporizhzhia:0.2034', 'hostage:0.2008', 'report:0.1851', 'control:0.1606', 'march:0.157', 'continue:0.1556', 'rotate:0.1519', 'plant:0.1381', 'major:0.1272', 'world:0.1215', 'house:0.1166', 'near:0.1149', 'believe:0.1132', 'week:0.0949', 'kirby:0.0726', 'theyre:0.0698', 'thats:0.0667', 'thousand:0.0597']+titles_keywords+['chernobyl:0.4635', 'russian:0.2852', 'pentagon:0.2735', 'heading:0.1945', 'forces:0.0676']"
+        ]
+    ],
+    "BLR+UKR+43":[
+        [],
+        []
+    ],
+    "CHE+UKR+43":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/msn.com/Volodymyr Zelensky calls for maximum sanctions on Russia during Davos speech.txt+eventbasecode43+eventcode43+avgtone0.47951344430217674+goldsteinscale0.64+nummentions0.025036284470246733+numarticles0.02574329224075417+numsources0.05592105263157895+news_keywords+['ukraine:0.4675', 'kremlin:0.4429', 'sanction:0.3374', 'federation:0.2946', 'humanitarian:0.2869', 'political:0.2856', 'zelensky:0.2853', 'executive:0.2829', 'davos:0.2702', 'crisis:0.2488', 'covid:0.248', 'world:0.2451', 'warn:0.2394', 'know:0.2247', 'read:0.2201', 'fight:0.2006', 'term:0.1957', 'attend:0.1949', 'source:0.1825', 'transform:0.1775', 'immediate:0.1701', 'head:0.156', 'rail:0.1514', 'awfp:0.1509', 'month:0.1434', 'grain:0.1426', 'entire:0.1401', 'big:0.1377', 'agree:0.1373', 'exporter:0.0895']+titles_keywords+['zelensky:0.5094', 'sanctions:0.3831', 'davos:0.2598', 'maximum:0.162', 'speech:0.1406']"
+        ]
+    ],
+    "CHN+UKR+43":[
+        []
+    ],
+    "DEU+RUS+43":[
+        [],
+        [],
+        [
+            "20220621+../news_crawling/RUS_UKR/p_articles/msn.com/Ukrainians find Russian priest ready to help them rebuild their shattered lives.txt+eventbasecode43+eventcode43+avgtone0.4899165507649513+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukrainian:0.4814', 'refugee:0.4318', 'orthodox:0.4232', 'petersburg:0.417', 'shishkin:0.328', 'government:0.2793', 'provocation:0.2787', 'assistance:0.2778', 'shelter:0.2697', 'troop:0.2643', 'bombed:0.2628', 'separate:0.2551', 'know:0.239', 'patriarch:0.2389', 'alive:0.2283', 'wreckage:0.2261', 'tolik:0.217', 'turn:0.2144', 'cnn:0.2137', 'hear:0.2098', 'prepare:0.2027', 'recount:0.188', 'far:0.1852', 'afraid:0.1822', 'word:0.1819', 'maternity:0.1759', 'renovate:0.1697', 'ottocnn:0.1541', 'date:0.1461', 'thousand:0.1351']+titles_keywords+['ukrainians:0.4708', 'priest:0.2927', 'rebuild:0.2329', 'lives:0.0997', 'ready:0.0658']"
+        ]
+    ],
+    "EUR+RUS+43":[
+        [],
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/msn.com/300 Dogs Found Dead at Ukraine Shelter After Going Without Care amid Russias Invasion Animal.txt+eventbasecode43+eventcode43+avgtone0.48324022346368717+goldsteinscale0.64+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4592', 'nato:0.3959', 'canine:0.3482', 'invasion:0.3389', 'humanitarian:0.3327', 'military:0.3132', 'news:0.2965', 'read:0.2712', 'traumatize:0.2606', 'conflict:0.2588', 'zelenskyy:0.2438', 'help:0.2436', 'survive:0.2435', 'ivano:0.2335', 'separated:0.2313', 'order:0.2276', 'report:0.2231', 'know:0.2132', 'cell:0.1839', 'uanimals:0.1774', 'happy:0.1701', 'begin:0.1641', 'coverage:0.1593', 'hundreds:0.1585', 'associated:0.1559', 'according:0.1492', 'going:0.1436', 'red:0.1359', 'time:0.1273', 'bend:0.0882']+titles_keywords+['dogs:0.3909', 'ukraine:0.3616', 'dead:0.2247', '300:0.2081', 'invasion:0.1996']"
+        ],
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/msn.com/Must be confident not pale imitation of others Jaishankar.txt+eventbasecode43+eventcode43+avgtone0.5070422535211268+goldsteinscale0.64+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.003289473684210526+news_keywords+['india:0.3973', 'democracy:0.3672', 'narendra:0.3669', 'talk:0.3508', 'russias:0.3301', 'conflict:0.3229', 'justify:0.3207', 'world:0.3178', 'capability:0.304', 'context:0.2869', 'remark:0.2842', 'development:0.2754', 'pushback:0.2618', 'entitlement:0.2558', 'imitation:0.2494', 'measure:0.2201', 'seek:0.216', 'idea:0.2076', 'forward:0.2014', 'time:0.2001', 'tie:0.1984', 'end:0.1834', 'difference:0.1827', 'make:0.1822', 'modis:0.1745', 'table:0.1733', 'pale:0.1643', 'fact:0.1618', 'strong:0.1467', 'wednesday:0.1286']+titles_keywords+['jaishankar:0.5723', 'confident:0.4347', 'imitation:0.2822', 'pale:0.211']"
+        ]
+    ],
+    "EUR+UKR+43":[
+        [],
+        []
+    ],
+    "GBR+RUS+43":[
+        []
+    ],
+    "ISR+RUS+43":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/msn.com/RussiaUkraine war 1306 Ukrainian citizens arrive in Israel 18 turned away.txt+eventbasecode43+eventcode43+avgtone0.4782608695652174+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.0007251631617113851+numsources0.003289473684210526+news_keywords+['israel:0.3943', 'ukraine:0.3939', 'russiaukraine:0.3902', 'war:0.3579', 'invasion:0.3349', 'russia:0.3316', 'ukrainian:0.3178', 'gurion:0.2973', 'arrive:0.2822', 'aliyah:0.2811', 'entry:0.2239', 'refuse:0.194', 'begin:0.183', 'refused:0.1642', 'turn:0.1635', 'airport:0.1602', 'citizen:0.151', 'hour:0.1411', 'integration:0.1303', 'announce:0.1006', 'away:0.0878', 'february:0.0811', 'ben:0.0444', 'accord:0.0415', 'total:0.0344', 'ministry:0.0059']+titles_keywords+['russiaukraine:0.4076', '1306:0.366', 'israel:0.3519', 'war:0.3091', 'citizens:0.2513']"
+        ]
+    ],
+    "ISR+UKR+43":[
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/msn.com/Who is the former Israeli commando that stepped up to Russian forces.txt+eventbasecode43+eventcode43+avgtone0.4974424552429667+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['idf:0.4198', 'military:0.4114', 'desyatnik:0.4005', 'russian:0.3852', 'combatant:0.3678', 'israel:0.3112', 'yasam:0.3071', 'undercover:0.3033', 'invasion:0.303', 'ynet:0.2945', 'missile:0.2925', 'tank:0.2412', 'help:0.2096', 'report:0.2049', 'volunteer:0.1877', 'story:0.1855', 'pre:0.181', 'dennis:0.1687', 'special:0.1639', 'step:0.1527', 'month:0.1508', 'sayeret:0.1506', 'resemble:0.1432', 'result:0.1366', 'briefly:0.1344', 'woman:0.1334', 'capital:0.1308', 'relative:0.1292', 'soon:0.1251', 'examples:0.1194']+titles_keywords+['israeli:0.4305', 'commando:0.3518', 'russian:0.2939', 'forces:0.1368', 'stepped:0.0857']"
+        ]
+    ],
+    "ITA+RUS+43":[
+        []
+    ],
+    "MDA+UKR+43":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/msn.com/Why Russia is dragging the Moldovan region of Transnistria into war.txt+eventbasecode43+eventcode43+avgtone0.48141486810551565+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['moldova:0.5162', 'kremlin:0.4554', 'russias:0.4374', 'diplomacy:0.3358', 'destabilize:0.2895', 'territory:0.2845', 'separatist:0.2603', 'transnistrias:0.258', 'zelensky:0.2393', 'attack:0.1944', 'journalist:0.1766', 'endanger:0.1752', 'report:0.1732', 'dependency:0.1592', 'follow:0.1522', 'reason:0.1505', 'state:0.1484', 'dorina:0.1329', 'care:0.1321', 'increase:0.1284', 'ammunition:0.1254', 'worthless:0.1181', 'short:0.1177', 'outcome:0.107', 'reach:0.1023', 'main:0.0928', 'radio:0.0917', 'month:0.0807', 'population:0.0775', 'offer:0.0311']+titles_keywords+['moldovan:0.4638', 'russia:0.4158', 'transnistria:0.3717', 'war:0.3559', 'dragging:0.1314']"
+        ]
+    ],
+    "POL+UKR+43":[
+        [],
+        []
+    ],
+    "PSE+RUS+43":[
+        [
+            "20220818+../news_crawling/RUS_UKR/p_articles/msn.com/Ukraine Presses UN Over Nuclear Blackmail at RussianOccupied Plant.txt+eventbasecode43+eventcode43+avgtone0.47782258064516125+goldsteinscale0.64+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.003289473684210526+news_keywords+['crimea:0.4778', 'erdogan:0.4235', 'kremlin:0.4146', 'russianoccupied:0.4111', 'treaty:0.4048', 'ankara:0.3712', 'war:0.3444', 'memorandum:0.3288', 'demilitarize:0.3189', 'zaporizhzhias:0.2792', 'blockade:0.2718', 'embassy:0.2712', 'mediator:0.2679', 'presidency:0.2612', 'telegram:0.2594', 'crisis:0.2539', 'investigate:0.253', 'table:0.2429', 'reconstruction:0.2108', 'reactor:0.2057', 'planning:0.2028', 'agreement:0.2011', 'sevastopols:0.1849', 'alongside:0.1804', 'tense:0.1531', 'general:0.1434', 'short:0.1259', 'invoke:0.1089', 'lovett:0.108', 'fsb:0.1064']+titles_keywords+['ukraine:0.4157', 'nuclear:0.3436', 'russianoccupied:0.3358', 'blackmail:0.3086', 'plant:0.1768']"
+        ]
+    ],
+    "RUS+RUS+43":[
+        [],
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/msn.com/Mark Levin ashamed of US response to Ukraine invasion urges Biden to start muscling up.txt+eventbasecode43+eventcode43+avgtone0.47314814814814815+goldsteinscale0.64+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['putin:0.4588', 'isolationistsand:0.3794', 'levin:0.3439', 'genocidal:0.3243', 'invasion:0.3121', 'ideologywill:0.3095', 'economicallygeopolitically:0.2842', 'andrussia:0.2812', 'democratparty:0.2743', 'defend:0.2703', 'bully:0.2553', 'impassioned:0.2508', 'freedom:0.2373', 'negotiation:0.2302', 'military:0.2275', 'hide:0.2274', 'turn:0.2221', 'continue:0.2197', 'involves:0.204', 'interpret:0.2032', 'speak:0.1976', 'mark:0.19', 'arm:0.1773', 'look:0.1706', 'usalone:0.1647', 'time:0.1643', 'notthe:0.1508', 'student:0.1493', 'hall:0.1444', 'doesnt:0.0832']+titles_keywords+['levin:0.4473', 'biden:0.372', 'military:0.3008', 'ashamed:0.2278', 'muscling:0.1967']"
+        ],
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/msn.com/Russian state TV quiz show host condemnds Putins Ukraine invasion.txt+eventbasecode43+eventcode43+avgtone0.47383720930232565+goldsteinscale0.64+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['rossiya:0.4923', 'putin:0.486', 'vladimir:0.4515', 'ukraine:0.3897', 'gurevich:0.3611', 'tv:0.3303', 'tragedy:0.2835', 'report:0.2815', 'host:0.2792', 'odessa:0.2765', 'invasion:0.2661', 'listen:0.2475', 'casualty:0.2294', 'hilarity:0.2215', 'quiz:0.2133', 'resign:0.2108', 'world:0.2091', 'barbaric:0.2077', 'feud:0.2011', 'live:0.1959', 'condemnds:0.1948', 'critical:0.1935', 'inappropriate:0.176', 'day:0.1538', 'say:0.1528', 'reportedly:0.1388', 'want:0.1242', 'late:0.1226', 'long:0.0853', 'similar:0.0807']+titles_keywords+['russian:0.3785', 'host:0.3007', 'invasion:0.248', 'tv:0.2392', 'quiz:0.1972']"
+        ]
+    ],
+    "RUS+SDN+43":[
+        []
+    ],
+    "RUS+UKR+43":[
+        [],
+        [],
+        [],
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/msn.com/Little increased capabilities at high risk Pentagon says US does not support transferring Polish fighter.txt+eventbasecode43+eventcode43+avgtone0.496794871795+goldsteinscale0.64+nummentions0.013425253991291727+numarticles0.014140681653372008+numsources0.029605263157894735+news_keywords+['nato:0.5071', 'ukrainian:0.3773', 'polands:0.3743', 'transfer:0.2491', 'airspace:0.2412', 'increase:0.239', 'mig:0.2377', 'unilaterally:0.2191', 'pentagons:0.2086', 'capability:0.1947', 'inventory:0.1932', 'politics:0.188', 'departments:0.1869', 'jet:0.1861', 'weapon:0.1842', 'additional:0.1842', 'plan:0.1645', 'know:0.1547', 'stem:0.1528', 'issue:0.1527', 'technical:0.1429', 'risk:0.1409', 'provoking:0.13', 'ping:0.1211', 'newsletter:0.1166', 'good:0.1097', 'immediately:0.1096', 'possibility:0.0926', 'listen:0.0813', 'little:0.0698']+titles_keywords+['ukraine:0.3248', 'pentagon:0.2838', 'increased:0.1336', 'transferring:0.104', 'says:0.0688']"
+        ],
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/msn.com/Putin Was a Wuss When Trump Was President Argues Judge Jeanine Pirro.txt+eventbasecode43+eventcode43+avgtone0.478+goldsteinscale0.64+nummentions0.014150943396226415+numarticles0.014865844815083394+numsources0.019736842105263157+news_keywords+['putin:0.5585', 'hannity:0.3613', 'biden:0.3555', 'nato:0.3262', 'invade:0.3153', 'threat:0.2724', 'republican:0.2614', 'conspiracy:0.2557', 'sanction:0.2202', 'debunk:0.2089', 'report:0.207', 'worry:0.2022', 'implication:0.1871', 'articles:0.1747', 'adviser:0.1738', 'respondent:0.1558', 'wuss:0.154', 'chinese:0.142', 'boys:0.1353', 'monday:0.1342', 'trend:0.1327', 'say:0.1317', 'feeble:0.1294', 'stage:0.1293', 'end:0.1274', 'strong:0.1201', 'similar:0.107', 'absolutely:0.1011', 'pirro:0.096', 'bidding:0.0903']+titles_keywords+['putin:0.4418', 'wuss:0.3422', 'judge:0.3054', 'pirro:0.2989', 'jeanine:0.1327']"
+        ],
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/msn.com/Russian troops left Chernobyl with Ukrainian soldiers as hostage Kyiv.txt+eventbasecode43+eventcode43+avgtone0.46913580246913583+goldsteinscale0.64+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.009868421052631578+news_keywords+['chernobyl:0.6474', 'kyiv:0.4224', 'nuclear:0.4114', 'reactor:0.3905', 'hostage:0.3047', 'troop:0.2312', 'government:0.218', 'contamination:0.2112', 'vacate:0.2058', 'kill:0.1654', 'hold:0.1516', 'accident:0.1506', 'column:0.1488', 'plant:0.1457', 'worker:0.1289', 'statement:0.1262', 'telegram:0.1249', 'cite:0.1191', 'station:0.115', 'feb:0.113', 'world:0.1093', 'ran:0.1015', 'number:0.097', 'currently:0.091', 'long:0.0904', 'day:0.0895', 'official:0.0855', 'zone:0.0848', 'outsider:0.0839', 'evidence:0.0693']+titles_keywords+['chernobyl:0.5725', 'hostage:0.4159', 'ukrainian:0.4115', 'troops:0.2199', 'left:0.0661']"
+        ],
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/msn.com/Pelosi in surprise Kyiv trip vows unbending US support.txt+eventbasecode43+eventcode43+avgtone0.4994913530010173+goldsteinscale0.64+nummentions0.06567489114658925+numarticles0.06635242929659173+numsources0.06578947368421052+news_keywords+['kyivs:0.4905', 'putin:0.4223', 'nato:0.3976', 'poland:0.3646', 'pelosis:0.3515', 'presidency:0.3311', 'globe:0.2877', 'bipartisan:0.2873', 'andrzej:0.2859', 'meeting:0.2754', 'refugee:0.2693', 'washington:0.258', 'visit:0.2578', 'forward:0.2425', 'know:0.2244', 'convey:0.2156', 'thursday:0.1949', 'fight:0.1852', 'keating:0.1846', 'continue:0.1787', 'longer:0.1701', 'ap:0.1639', 'general:0.1618', 'repercussion:0.1591', 'make:0.1546', 'house:0.1541', 'scores:0.1343', 'sure:0.1274', 'focus:0.1157', 'million:0.0908']+titles_keywords+['pelosi:0.491', 'kyiv:0.3049', 'unbending:0.2366', 'trip:0.1847', 'surprise:0.1683']"
+        ],
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/msn.com/Lockheed is nearly doubling production of Javelin antitank missiles which have proved devastating against Russian.txt+eventbasecode43+eventcode43+avgtone0.4954648526077097+goldsteinscale0.64+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.006578947368421052+news_keywords+['ukraine:0.4489', 'lockheed:0.4325', 'war:0.3586', 'military:0.3472', 'javelin:0.3223', 'reuters:0.3175', 'threat:0.2921', 'tank:0.2653', 'production:0.2537', 'antitank:0.2417', 'stockpile:0.2404', 'increase:0.2313', 'package:0.1921', 'estimate:0.1918', 'biden:0.1892', 'capital:0.1874', 'march:0.1863', 'report:0.1833', 'turn:0.1687', 'right:0.1629', 'plan:0.1558', 'billion:0.1459', 'prove:0.1446', 'active:0.1394', 'long:0.1313', 'approve:0.1293', 'nearly:0.1291', 'hardware:0.1231', 'ww:0.1218', 'hearing:0.1217']+titles_keywords+['lockheed:0.4685', 'javelin:0.3687', 'antitank:0.3381', 'doubling:0.2437', 'russian:0.1964']"
+        ],
+        [],
+        []
+    ],
+    "RUS+USA+43":[
+        [],
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/msn.com/Kremlin slams US for complete misunderstanding of Putins tactics.txt+eventbasecode43+eventcode43+avgtone0.4773445732349842+goldsteinscale0.64+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.009868421052631578+news_keywords+['kremlin:0.5198', 'putin:0.5096', 'crimea:0.4515', 'nato:0.3623', 'ceasefire:0.3597', 'sergey:0.3299', 'strategic:0.2951', 'pentagon:0.253', 'president:0.2439', 'misunderstanding:0.2385', 'annexed:0.2339', 'conscript:0.2056', 'turn:0.1997', 'declassified:0.1972', 'cite:0.1823', 'reinforce:0.1811', 'lie:0.1787', 'order:0.1777', 'continue:0.1771', 'enters:0.1705', 'tension:0.1619', 'people:0.1388', 'alongside:0.1382', 'state:0.1339', 'child:0.1253', 'bad:0.1201', 'nearly:0.1179', 'deep:0.1173', 'technologies:0.1145', 'week:0.0948']+titles_keywords+['kremlin:0.5363', 'putins:0.4062', 'tactics:0.3369', 'misunderstanding:0.2963', 'slams:0.2285']"
+        ],
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/msn.com/Austin says US wants to see Russias military capabilities weakened.txt+eventbasecode43+eventcode43+avgtone0.49553903345724915+goldsteinscale0.64+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['ukraine:0.4336', 'nato:0.4168', 'briefing:0.3436', 'invade:0.3123', 'diplomat:0.3084', 'pentagon:0.2952', 'threat:0.2855', 'negotiate:0.284', 'transition:0.2531', 'predict:0.2494', 'reznikov:0.2362', 'table:0.2249', 'news:0.224', 'know:0.2177', 'strengthen:0.2115', 'soon:0.2053', 'unprovoked:0.2027', 'biden:0.2007', 'bicameral:0.1957', 'long:0.1926', 'howitzer:0.1876', 'follow:0.1799', 'opposite:0.1712', 'end:0.1667', 'focused:0.1658', 'resume:0.1513', 'month:0.144', 'additional:0.1391', 'kirby:0.1025', 'shipped:0.0995']+titles_keywords+['russias:0.3791', 'austin:0.2618', 'weakened:0.252', 'capabilities:0.2037', 'military:0.1752']"
+        ]
+    ],
+    "TUR+UKR+43":[
+        []
+    ],
+    "UKR+DNK+43":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/msn.com/Inside Ukraines cyber guerilla army.txt+eventbasecode43+eventcode43+avgtone0.48323036187113855+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['cyberwar:0.5619', 'cybersecurity:0.4972', 'guerilla:0.4259', 'ukraines:0.4185', 'anonymity:0.3832', 'russian:0.3731', 'enemy:0.3431', 'government:0.3096', 'organization:0.3092', 'ip:0.3017', 'operation:0.2981', 'hack:0.2765', 'deploy:0.2764', 'telegram:0.2639', 'activist:0.2482', 'join:0.2416', 'know:0.2397', 'affiliate:0.2229', 'example:0.2124', 'websites:0.2068', 'help:0.2043', 'transformation:0.2036', 'write:0.1957', 'overwhelm:0.1733', 'kiddy:0.1677', 'encrypt:0.1605', 'world:0.1594', 'central:0.1558', 'simultaneously:0.1481', 'month:0.1446']+titles_keywords+['guerilla:0.4942', 'ukraines:0.4868', 'cyber:0.4471', 'army:0.4119', 'inside:0.1395']"
+        ]
+    ],
+    "UKR+RUS+43":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/msn.com/Russians arrive in space wearing Ukrainian colours.txt+eventbasecode43+eventcode43+avgtone0.5055096418732783+goldsteinscale0.64+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.009868421052631578+news_keywords+['russians:0.5305', 'iss:0.4586', 'cosmonauts:0.4405', 'kazakhstan:0.402', 'oleg:0.3744', 'yellow:0.3191', 'matveyev:0.3135', 'invasion:0.2893', 'greet:0.2722', 'crew:0.2531', 'earth:0.2016', 'suit:0.1965', 'solidarity:0.1928', 'flag:0.1894', 'board:0.1662', 'turn:0.1563', 'material:0.1523', 'month:0.1486', 'current:0.1413', 'standard:0.1368', 'use:0.1285', 'say:0.118', 'joke:0.1157', 'new:0.1144', 'fluctuate:0.1105', 'continue:0.1044', 'set:0.1042', 'welcome:0.0967', 'schedule:0.0962', 'issue:0.092']+titles_keywords+['russians:0.4814', 'colours:0.2682', 'space:0.2342', 'wearing:0.157', 'arrive:0.1439']"
+        ],
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/msn.com/Russian pilots parachute from doomed jet before it crashes in Ukraine.txt+eventbasecode43+eventcode43+avgtone0.45911949685534587+goldsteinscale0.64+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukrainian:0.4075', 'putin:0.3994', 'parachute:0.3684', 'sukhoi:0.3476', 'pilot:0.3125', 'bombardment:0.3037', 'war:0.3018', 'missile:0.2912', 'balakliia:0.2787', 'crash:0.2625', 'emergency:0.2567', 'dramatic:0.2146', 'doom:0.2106', 'mission:0.2026', 'paralysing:0.2005', 'fall:0.1945', 'know:0.186', 'loss:0.1849', 'reports:0.1706', 'eyewitness:0.1699', 'railway:0.1564', 'later:0.1407', 'believe:0.1306', 'white:0.1288', 'unclear:0.1263', 'link:0.1258', 'control:0.1163', 'surface:0.0974', 'twice:0.0901', 'especially:0.0315']+titles_keywords+['parachute:0.374', 'russian:0.3622', 'pilots:0.2924', 'doomed:0.2061', 'crashes:0.1762']"
+        ]
+    ],
+    "UKR+USA+43":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/msn.com/The people are fighting Ukrainian students in Tacoma feel weight of war at home.txt+eventbasecode43+eventcode43+avgtone0.49081304547542487+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukrainian:0.4667', 'communicate:0.3507', 'conflict:0.349', 'relocate:0.3386', 'read:0.3297', 'help:0.308', 'humanitarian:0.2929', 'independence:0.2709', 'unprovoked:0.27', 'schoolwork:0.2666', 'know:0.2657', 'feel:0.2556', 'friend:0.2546', 'reassuring:0.2518', 'graduation:0.2455', 'want:0.2451', 'punctuate:0.2449', 'tense:0.2426', 'plan:0.2383', 'pleasantry:0.2343', 'peninsula:0.23', 'enters:0.2205', 'turn:0.2181', 'make:0.2032', 'gon:0.1998', 'world:0.1846', 'far:0.1815', 'soon:0.1616', 'free:0.1524', 'possibility:0.1255']+titles_keywords+['war:0.419', 'tacoma:0.3768', 'ukrainian:0.339', 'students:0.3231', 'feel:0.1739']"
+        ]
+    ]
+}

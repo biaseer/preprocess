@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+40":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/talkingpointsmemo.com/The Strangeness Of Living Under Russian Occupation.txt+eventbasecode40+eventcode40+avgtone0.4838709677419355+goldsteinscale0.55+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.006578947368421052+news_keywords+['ukrainian:0.5177', 'russians:0.5116', 'russian:0.5115', 'woman:0.2711', 'city:0.2458', 'occupation:0.2446', 'live:0.2134', 'living:0.2128', 'strangeness:0.2091', 'speak:0.209', 'sophia:0.2056', 'capture:0.2021', 'young:0.1291', 'friday:0.1245', 'manage:0.113']+titles_keywords+['russian:0.5119', 'occupation:0.2812', 'strangeness:0.2713', 'living:0.2268']"
+        ],
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/talkingpointsmemo.com/Another Clue.txt+eventbasecode40+eventcode40+avgtone0.49385245901639346+goldsteinscale0.55+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['missile:0.4021', 'russians:0.376', 'ship:0.3667', 'navy:0.3637', 'shipyard:0.3533', 'ukraina:0.3451', 'slava:0.3154', 'sink:0.275', 'cruiser:0.2672', 'operational:0.235', 'vulnerability:0.2052', 'deep:0.1615', 'clue:0.1601', 'practice:0.1485', 'plan:0.1468', 'scrap:0.1441', 'class:0.1412', 'strike:0.1393', 'understand:0.1224', 'successful:0.1156', 'sell:0.1142', 'mention:0.1071', 'technology:0.1054', 'inherit:0.094', 'budget:0.0919', 'tentative:0.0854', 'year:0.0638', 'maybe:0.0634', 'tpm:0.0625', 'rename:0.039']+titles_keywords+['clue:0.7251']"
+        ]
+    ]
+}

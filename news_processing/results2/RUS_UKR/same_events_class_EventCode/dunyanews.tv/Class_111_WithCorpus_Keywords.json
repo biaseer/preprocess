@@ -1,0 +1,17 @@
+{
+    "DEU+RUS+111":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Macron and Putin to meet as Ukraine front line grows more volatile.txt+eventbasecode111+eventcode111+avgtone0.4691535150645625+goldsteinscale0.4+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.09868421052631579+news_keywords+['putin:0.5008', 'kyiv:0.4498', 'ceasefire:0.4368', 'nato:0.4348', 'russias:0.4037', 'rhetoric:0.2683', 'journalist:0.2642', 'incursion:0.2576', 'border:0.2494', 'predict:0.2325', 'concern:0.2299', 'visit:0.2083', 'announce:0.2055', 'fatality:0.2002', 'reiterate:0.1966', 'monday:0.1963', 'timeframes:0.1891', 'avert:0.1888', 'write:0.1827', 'leave:0.1821', 'general:0.1614', 'power:0.1607', 'dmytro:0.1469', 'end:0.146', 'increase:0.1361', 'fabricate:0.1278', 'false:0.1255', 'hundreds:0.0956', 'stoltenberg:0.0947', 'metre:0.0875']+titles_keywords+['macron:0.4165', 'putin:0.3948', 'meet:0.3067', 'ukraine:0.2946', 'line:0.1342']"
+        ]
+    ],
+    "POL+RUS+111":[
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Biden says butcher Putin cannot remain in power.txt+eventbasecode111+eventcode111+avgtone0.4711221122112212+goldsteinscale0.4+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['putin:0.4822', 'kyivs:0.4728', 'ceasefire:0.376', 'nato:0.3482', 'bervenkove:0.3133', 'chernobyl:0.2878', 'orthodox:0.2753', 'separatist:0.2558', 'combat:0.2446', 'sanction:0.234', 'resign:0.2307', 'pentagon:0.2256', 'continue:0.2176', 'east:0.2035', 'deliver:0.2017', 'telegram:0.1924', 'reassurance:0.192', 'confer:0.1889', 'word:0.1868', 'visit:0.1788', 'urgent:0.1787', 'nearly:0.1698', 'butcher:0.1655', 'poor:0.1621', 'night:0.1567', 'bidens:0.1471', 'big:0.1436', 'point:0.136', 'narrowing:0.134', 'kilometres:0.1325']+titles_keywords+['putin:0.5146', 'biden:0.4866', 'remain:0.2199', 'butcher:0.2197', 'says:0.1062']"
+        ]
+    ],
+    "RUS+TUR+111":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Erdogan says recognition of Ukraine rebel republics unacceptable.txt+eventbasecode111+eventcode111+avgtone0.47972972972972966+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.5311', 'erdogan:0.4472', 'ukrainian:0.4459', 'putin:0.4168', 'ankara:0.3783', 'russias:0.3727', 'nato:0.3524', 'separatist:0.2957', 'turkeys:0.2619', 'zelensky:0.2503', 'conflict:0.2329', 'concern:0.1947', 'volodymyr:0.1864', 'breakaway:0.1734', 'friendly:0.1655', 'oppose:0.1555', 'drone:0.133', 'unacceptable:0.128', 'look:0.1261', 'historical:0.1252', 'recep:0.1222', 'news:0.1196', 'act:0.1042', 'trade:0.1016', 'enjoy:0.1006', 'meantime:0.0865', 'law:0.0818', 'month:0.0733', 'mr:0.0699', 'burgeon:0.039']+titles_keywords+['ukraine:0.4313', 'erdogan:0.4293', 'republics:0.3352', 'rebel:0.2271', 'unacceptable:0.2181']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+51":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/belfastlive.co.uk/Clive Myrie how the BBCs man in Ukraine and Mastermind host rose to the top.txt+eventbasecode51+eventcode51+avgtone0.5083612040133779+goldsteinscale0.67+nummentions0.020682148040638608+numarticles0.02139231327048586+numsources0.046052631578947366+news_keywords+['journalist:0.4894', 'bbc:0.3905', 'clive:0.3762', 'kyiv:0.3497', 'presenter:0.3419', 'headline:0.3274', 'myrie:0.2778', 'prominence:0.2419', 'war:0.2372', 'radio:0.2366', 'reporting:0.2313', 'cite:0.2281', 'misinformation:0.2242', 'scotlands:0.2235', 'quant:0.1853', 'hes:0.1784', 'coverage:0.1712', 'truthful:0.1653', 'rag:0.162', 'continue:0.1588', 'speak:0.1477', 'th:0.1392', 'list:0.1267', 'increase:0.1265', 'panorama:0.126', 'familiar:0.1219', 'late:0.1173', 'big:0.0941', 'series:0.0856', 'way:0.0643']+titles_keywords+['journalism:0.4985', 'bbcs:0.4054', 'clive:0.3376', 'mastermind:0.2435', 'myrie:0.2329']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220627+../news_crawling/RUS_UKR/p_articles/belfastlive.co.uk/Zelensky calls on G7 to do more to support Ukraines fight against Russia.txt+eventbasecode51+eventcode51+avgtone0.4792857142857143+goldsteinscale0.67+nummentions0.07256894049346879+numarticles0.07324147933284988+numsources0.07236842105263158+news_keywords+['ukraine:0.4764', 'putins:0.4147', 'nato:0.41', 'blockade:0.3851', 'war:0.3261', 'zelensky:0.31', 'infrastructure:0.2984', 'boris:0.2932', 'president:0.2876', 'urgent:0.2666', 'humanitarian:0.2649', 'table:0.2632', 'crisis:0.2527', 'warn:0.238', 'agreement:0.2323', 'shortage:0.2322', 'headline:0.225', 'forward:0.2185', 'global:0.2076', 'grain:0.1972', 'powerful:0.1971', 'gather:0.1879', 'speech:0.1852', 'wider:0.1643', 'make:0.1621', 'observer:0.1551', 'monday:0.148', 'reduce:0.1434', 'actually:0.0925', 'free:0.0908']+titles_keywords+['zelensky:0.5477', 'ukraines:0.3838', 'g7:0.24', 'support:0.1417', 'fight:0.1204']"
+        ]
+    ]
+}

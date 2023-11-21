@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+130":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/sana.sy/Berlin warns of dire consequences of Russian gas and coal shortage.txt+eventbasecode130+eventcode130+avgtone0.4456521739130435+goldsteinscale0.27999999999999997+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['coal:0.4479', 'gas:0.3347', 'berlin:0.2855', 'shortage:0.2777', 'economy:0.2572', 'russian:0.2206', 'dire:0.1854', 'warn:0.1796', 'import:0.1582', 'power:0.1462', 'muller:0.143', 'region:0.1357', 'consequence:0.1289', 'ban:0.1188', 'event:0.1163', 'rt:0.1103', 'cause:0.0975', 'population:0.0966', 'immediate:0.0878', 'plant:0.082', 'wednesday:0.0804', 'exclude:0.0728', 'quote:0.0719', 'entire:0.068', 'unfortunately:0.0652', 'decision:0.0636', 'end:0.0605', 'federal:0.0481', 'make:0.0428', 'website:0.0241']+titles_keywords+['coal:0.3447', 'berlin:0.342', 'warns:0.2471', 'russian:0.2216', 'shortage:0.1971']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/sana.sy/Mezentsev Kyiv plans for a provocation in Lizichansk similar to what happened in Bucha.txt+eventbasecode130+eventcode130+avgtone0.4975124378109453+goldsteinscale0.27999999999999997+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.5448', 'russian:0.4352', 'russias:0.4202', 'provocation:0.3887', 'mikhail:0.3711', 'mezentsev:0.3549', 'report:0.3065', 'military:0.305', 'warn:0.2822', 'operation:0.2755', 'accuse:0.2725', 'news:0.2572', 'happen:0.2532', 'protect:0.2494', 'atrocity:0.2492', 'radiation:0.2441', 'regime:0.2369', 'donbass:0.2291', 'fake:0.2288', 'bucha:0.2262', 'prepare:0.2003', 'video:0.1799', 'response:0.1782', 'goal:0.1691', 'successes:0.1622', 'chemical:0.16', 'saturday:0.1537', 'quote:0.1227', 'similar:0.0923', 'add:0.0336']+titles_keywords+['kyiv:0.4929', 'mezentsev:0.4622', 'provocation:0.3661', 'bucha:0.2595', 'plans:0.2189']"
+        ]
+    ]
+}

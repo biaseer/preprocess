@@ -1,0 +1,20 @@
+{
+    "AUS+RUS+172":[
+        [
+            "20220707+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Australia to ban Russian gold deliver armored vehicles to Ukraine.txt+eventbasecode172+eventcode172+avgtone0.4777777777777777+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4446', 'gold:0.3487', 'australia:0.3395', 'ban:0.2653', 'armored:0.2441', 'albanese:0.2236', 'sanction:0.2183', 'import:0.2113', 'kiyiv:0.2031', 'oligarchs:0.2009', 'vehicle:0.1992', 'zelensky:0.1976', 'bring:0.1949', 'bushmaster:0.1903', 'volodymyr:0.1857', 'capital:0.156', 'impose:0.1487', 'visit:0.1277', 'deliver:0.1196', 'anthony:0.1156', 'additional:0.1092', 'alongside:0.0917', 'say:0.0596', 'number:0.0581', 'minister:0.0576', 'stress:0.049', 'total:0.0393', 'conference:0.0134', 'press:0.0048', 'week:-0.0347']+titles_keywords+['ukraine:0.3879', 'gold:0.2936', 'armored:0.2631', 'ban:0.2017', 'deliver:0.1605']"
+        ]
+    ],
+    "RUS+GBR+172":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Russia bans Western NGOs.txt+eventbasecode172+eventcode172+avgtone0.47847682119205304+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ngos:0.4984', 'amnesty:0.3966', 'government:0.3444', 'russian:0.3396', 'america:0.307', 'violate:0.2755', 'law:0.2418', 'cite:0.2395', 'antisemitic:0.2379', 'block:0.2025', 'peace:0.1822', 'accuse:0.178', 'originate:0.1729', 'shuttered:0.1669', 'western:0.1582', 'adenauer:0.156', 'false:0.1522', 'civilian:0.1411', 'order:0.1351', 'include:0.1317', 'branch:0.1184', 'registry:0.103', 'ebert:0.0977', 'rosa:0.0901', 'carnegie:0.0862', 'thursday:0.0733', 'wspolnota:0.0673', 'applies:0.0624', 'dozen:0.0608', 'middle:0.0319']+titles_keywords+['ngos:0.4943', 'russia:0.4269', 'bans:0.2229', 'western:0.174']"
+        ]
+    ],
+    "RUS+UKR+172":[
+        [
+            "20210601+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Exiled Crimean Tatar Leader Gets Six Years.txt+eventbasecode172+eventcode172+avgtone0.46382978723404256+goldsteinscale0.25+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.013157894736842105+news_keywords+['crimean:0.5918', 'tatar:0.4842', 'annexation:0.4697', 'moscow:0.4152', 'repression:0.327', 'government:0.3028', 'separatist:0.3001', 'takeover:0.2971', 'referendum:0.2675', 'peninsula:0.2617', 'absentia:0.2575', 'ban:0.254', 'troop:0.2344', 'leader:0.224', 'leave:0.2178', 'minority:0.2167', 'mejlis:0.2059', 'oppose:0.2054', 'europeradio:0.1845', 'follow:0.1788', 'years:0.1512', 'issue:0.1492', 'gets:0.1434', 'april:0.1419', 'speak:0.1372', 'copyright:0.1316', 'guilty:0.1165', 'sizable:0.0923', 'body:0.0878', 'simferopol:0.0714']+titles_keywords+['tatar:0.45', 'years:0.2761', 'exiled:0.2689', 'leader:0.1629', 'gets:0.0661']"
+        ],
+        [
+            "20220205+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Kremlin responds to Bloomberg invasion alert.txt+eventbasecode172+eventcode172+avgtone0.448780487804878+goldsteinscale0.25+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['kremlin:0.5166', 'ukraine:0.4398', 'invade:0.3773', 'bloomberg:0.3762', 'peskov:0.3696', 'dmitry:0.3659', 'headline:0.3452', 'danger:0.3082', 'scenario:0.2459', 'alarming:0.2451', 'blunder:0.2396', 'aggressive:0.2358', 'publish:0.2242', 'prepares:0.2204', 'report:0.2135', 'accusation:0.2111', 'border:0.2109', 'capital:0.1823', 'come:0.156', 'lead:0.1528', 'whip:0.1525', 'explain:0.1511', 'fake:0.1471', 'friday:0.1266', 'reject:0.1247', 'new:0.1107', 'reportedly:0.106', 'ria:0.0885', 'perfectly:0.0832', 'long:0.067']+titles_keywords+['kremlin:0.5706', 'bloomberg:0.3897', 'invasion:0.3404', 'alert:0.2351', 'responds:0.1402']"
+        ]
+    ]
+}

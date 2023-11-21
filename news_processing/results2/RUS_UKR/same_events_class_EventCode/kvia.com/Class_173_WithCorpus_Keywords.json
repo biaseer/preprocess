@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+173":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/kvia.com/OSCE report finds clear patterns of violations of international humanitarian law by Russian forces in.txt+eventbasecode173+eventcode173+avgtone0.46055979643765904+goldsteinscale0.25+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.013157894736842105+news_keywords+['ukraine:0.435', 'osce:0.3793', 'report:0.3039', 'war:0.2859', 'briefings:0.2391', 'atrocity:0.2383', 'civilian:0.2278', 'scope:0.2278', 'federation:0.2254', 'allegation:0.2158', 'torture:0.2117', 'conduct:0.2059', 'forensic:0.2005', 'redundant:0.1725', 'subject:0.1656', 'interpreter:0.1506', 'distinction:0.1484', 'fact:0.1359', 'bucha:0.1327', 'accompany:0.1311', 'hour:0.1093', 'degrade:0.1063', 'entities:0.1055', 'proportionality:0.0953', 'pattern:0.0936', 'request:0.086', 'conceivable:0.0809', 'fully:0.0808', 'websites:0.0692', 'confirmed:0.0257']+titles_keywords+['osce:0.4117', 'humanitarian:0.335', 'russian:0.3307', 'violations:0.2134', 'patterns:0.1373']"
+        ]
+    ],
+    "UKR+RUS+173":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/kvia.com/US believes Russia is learning from failures in north of Ukraine senior defense official says.txt+eventbasecode173+eventcode173+avgtone0.4839537869062901+goldsteinscale0.25+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.019736842105263157+news_keywords+['ukraine:0.4403', 'battalion:0.3924', 'pentagon:0.3655', 'howitzers:0.3542', 'war:0.334', 'operation:0.3117', 'package:0.2617', 'escalation:0.2571', 'drone:0.2518', 'capability:0.2293', 'resupplied:0.2251', 'cnn:0.2053', 'familiarize:0.2046', 'western:0.2017', 'adviser:0.2008', 'incoming:0.1984', 'million:0.1945', 'unknown:0.1803', 'report:0.1745', 'chaotic:0.1731', 'seize:0.167', 'mm:0.1664', 'make:0.1618', 'lengthy:0.1595', 'exactly:0.1421', 'switchblade:0.1381', 'largely:0.1183', 'week:0.1106', 'track:0.1096', 'stymie:0.1046']+titles_keywords+['ukraine:0.2724', 'learning:0.2197', 'failures:0.1697', 'says:0.0348', 'official:0.0137']"
+        ]
+    ]
+}

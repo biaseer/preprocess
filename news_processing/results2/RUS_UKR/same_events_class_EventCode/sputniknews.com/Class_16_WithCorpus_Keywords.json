@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+16":[
+        [
+            "20211211+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Ukraine Tensions Remain High After PutinBiden Talk as Neither Side Likely to Give Ground.txt+eventbasecode16+eventcode16+avgtone0.47350230414746547+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.484', 'nato:0.4153', 'disarmament:0.3986', 'putinbiden:0.3892', 'diplomatic:0.3627', 'tensions:0.3181', 'invade:0.297', 'eastward:0.2409', 'president:0.2374', 'border:0.232', 'stalemate:0.2316', 'escalate:0.2291', 'newsweek:0.1705', 'alarmed:0.1677', 'promise:0.1634', 'turn:0.1535', 'unforeseen:0.1516', 'range:0.1464', 'simmer:0.1443', 'continuing:0.1413', 'option:0.1311', 'thursday:0.1302', 'compare:0.1245', 'say:0.113', 'explicitly:0.113', 'prerequisite:0.1082', 'draw:0.1034', 'enhance:0.0961', 'science:0.0724', 'whalen:0.0498']+titles_keywords+['tensions:0.361', 'ukraine:0.3482', 'talk:0.1941', 'high:0.1298', 'likely:0.0269']"
+        ],
+        [
+            "20220120+../news_crawling/RUS_UKR/p_articles/sputniknews.com/US Green Lights Ukraine Proxy War Against Russia.txt+eventbasecode16+eventcode16+avgtone0.4671140939597316+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.4988', 'soviet:0.4034', 'russias:0.3888', 'diplomacy:0.3885', 'militarization:0.3828', 'kiev:0.376', 'invade:0.3415', 'coup:0.2916', 'agenda:0.2694', 'russophobic:0.2612', 'danger:0.2269', 'urgent:0.2085', 'formulate:0.2043', 'orchestration:0.1979', 'relations:0.1965', 'imminent:0.1964', 'supply:0.1937', 'facilitate:0.1895', 'biden:0.1696', 'ploy:0.167', 'quagmire:0.1664', 'weapon:0.1663', 'tell:0.1607', 'change:0.1517', 'lackey:0.14', 'additional:0.1317', 'state:0.1156', 'like:0.0935', 'ho:0.0853', 'dtat:0.0834']+titles_keywords+['ukraine:0.3997', 'war:0.311', 'green:0.237', 'proxy:0.17', 'lights:0.1278']"
+        ]
+    ],
+    "RUS+USA+16":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/sputniknews.com/White House Claims Russian Invasion of Ukraine Could Start Any Day Now Cant Predict Specific.txt+eventbasecode16+eventcode16+avgtone0.47497020262216927+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.3959', 'kremlin:0.371', 'nato:0.3574', 'invasion:0.3539', 'diplomacy:0.303', 'predict:0.2825', 'shortly:0.2694', 'prepare:0.2681', 'evacuate:0.2406', 'pretext:0.2381', 'collude:0.2377', 'president:0.2266', 'pentagon:0.2258', 'threaten:0.2228', 'news:0.2184', 'coup:0.2174', 'zakharova:0.1858', 'concern:0.1774', 'know:0.1688', 'begin:0.1628', 'fall:0.1563', 'breakaway:0.1507', 'unidentified:0.142', 'cite:0.1382', 'day:0.134', 'uh:0.1329', 'telephone:0.1248', 'look:0.0858', 'deal:0.0853', 'arrayed:0.0749']+titles_keywords+['ukraine:0.3322', 'predict:0.3193', 'invasion:0.2818', 'day:0.2322', 'start:0.1049']"
+        ]
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "FRA+RUS+190":[
+        []
+    ],
+    "NLD+RUS+190":[
+        []
+    ],
+    "RUS+EUR+190":[
+        []
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/sfgate.com/After call with Putin Macron convinced that the worst is yet to come and Russia.txt+eventbasecode190+eventcode190+avgtone0.4807692307692308+goldsteinscale0.0+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.006578947368421052+news_keywords+['putin:0.4786', 'macron:0.4199', 'diplomatic:0.3428', 'kyiv:0.3216', 'invasion:0.2744', 'engage:0.2611', 'french:0.2521', 'sanction:0.2076', 'delegation:0.2032', 'military:0.1952', 'history:0.1909', 'tense:0.1762', 'want:0.1744', 'thursday:0.1656', 'nation:0.1652', 'news:0.1541', 'remark:0.1521', 'deliver:0.1457', 'follow:0.1447', 'issue:0.1349', 'hold:0.128', 'minute:0.1239', 'end:0.1198', 'long:0.1164', 'readout:0.1069', 'record:0.1051', 'left:0.0989', 'set:0.0916', 'disagree:0.081', 'major:0.0619']+titles_keywords+['putin:0.452', 'macron:0.4408', 'wants:0.1591', 'worst:0.1522', 'convinced:0.1467']"
+        ],
+        [],
+        [],
+        []
+    ],
+    "UKR+RUS+190":[
+        [],
+        []
+    ]
+}

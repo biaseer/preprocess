@@ -1,0 +1,12 @@
+{
+    "ALB+RUS+90":[
+        [
+            "20220821+../news_crawling/RUS_UKR/p_articles/nationalpost.com/Ukraine and Russia What you need to know right now.txt+eventbasecode90+eventcode90+avgtone0.49748743718592964+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.5714', 'moscow:0.496', 'russians:0.4908', 'sergei:0.3952', 'dnipropetrovsk:0.3392', 'nationalist:0.3083', 'war:0.3032', 'nuclear:0.2665', 'artillery:0.2657', 'valentyn:0.2654', 'industrial:0.2266', 'turkeys:0.2207', 'finance:0.2005', 'know:0.1957', 'investigate:0.1953', 'article:0.1865', 'sanction:0.1763', 'bypass:0.1561', 'notificationsyou:0.1482', 'update:0.1477', 'hit:0.1427', 'early:0.1334', 'relevant:0.1325', 'junk:0.1312', 'ideologue:0.1308', 'governor:0.1207', 'hour:0.1179', 'export:0.0993', 'adjust:0.0917', 'welcome:0.0349']+titles_keywords+['ukraine:0.603', 'russia:0.4802', 'know:0.2309', 'need:0.1019', 'right:0.0805']"
+        ]
+    ],
+    "RUS+UKR+90":[
+        [
+            "20210602+../news_crawling/RUS_UKR/p_articles/nationalpost.com/Russia will monitor UkraineUS military drills and react if necessary defense ministry.txt+eventbasecode90+eventcode90+avgtone0.48936170212765956+goldsteinscale0.4+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['crimea:0.5479', 'nato:0.4387', 'ukraineus:0.4229', 'russias:0.3817', 'naval:0.3496', 'drill:0.2346', 'preparation:0.2037', 'tensions:0.1741', 'security:0.1648', 'eastern:0.1643', 'zone:0.1625', 'reporting:0.154', 'daily:0.1408', 'upcoming:0.1369', 'uprise:0.1347', 'visit:0.1342', 'check:0.1227', 'lively:0.1045', 'article:0.096', 'july:0.0948', 'junk:0.0948', 'notificationsyou:0.0932', 'encourage:0.0864', 'closely:0.0832', 'set:0.0576', 'say:0.0557', 'andrew:0.0535', 'share:0.0481', 'way:0.0424', 'marrow:0.0262']+titles_keywords+['ukraineus:0.4458', 'military:0.2992', 'drills:0.2505', 'react:0.1293', 'monitor:0.114']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+100":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/Fears of Indiscriminate Russian Shelling Mount as Ukraine Battles On.txt+eventbasecode100+eventcode100+avgtone0.47568013190436936+goldsteinscale0.25+nummentions0.06386066763425254+numarticles0.06453952139231327+numsources0.14473684210526316+news_keywords+['kyiv:0.521', 'ukraines:0.4471', 'putin:0.3772', 'invasion:0.2911', 'correspondent:0.2715', 'military:0.2458', 'infrastructure:0.228', 'casualty:0.2219', 'battles:0.2203', 'strategic:0.2195', 'worry:0.2164', 'tank:0.2152', 'intercept:0.2146', 'destroy:0.2125', 'bratchuk:0.1923', 'shift:0.1874', 'flee:0.1856', 'precede:0.1827', 'increase:0.166', 'northern:0.1616', 'expect:0.1574', 'stock:0.1454', 'buk:0.1452', 'kilometer:0.1377', 'contact:0.135', 'good:0.1347', 'major:0.1283', 'echelon:0.1044', 'fierce:0.1016', 'today:0.0999']+titles_keywords+['ukraine:0.3533', 'fears:0.3328', 'shelling:0.2339', 'indiscriminate:0.2055', 'mount:0.1588']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220727+../news_crawling/RUS_UKR/p_articles/voazimbabwe.com/Ukrainian Forces Strike Key Bridge in South.txt+eventbasecode100+eventcode100+avgtone0.49382716049382713+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['ukraine:0.4358', 'bridge:0.3924', 'stremousov:0.3293', 'river:0.2782', 'artillery:0.2436', 'strike:0.2226', 'kherson:0.2057', 'road:0.1935', 'south:0.1926', 'strategically:0.1844', 'warn:0.1774', 'supply:0.1747', 'mobility:0.1615', 'key:0.1473', 'himars:0.1292', 'swim:0.1229', 'tweet:0.1215', 'important:0.1198', 'learn:0.1138', 'hole:0.1131', 'allow:0.0985', 'united:0.0957', 'adviser:0.0868', 'highlight:0.0784', 'stand:0.0784', 'official:0.0766', 'link:0.0761', 'wednesday:0.0686', 'head:0.0575', 'possible:0.0462']+titles_keywords+['ukrainian:0.318', 'bridge:0.2538', 'key:0.2177', 'south:0.1873', 'forces:0.0543']"
+        ]
+    ]
+}

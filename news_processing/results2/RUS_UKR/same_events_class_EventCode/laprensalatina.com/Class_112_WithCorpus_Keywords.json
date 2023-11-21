@@ -1,0 +1,22 @@
+{
+    "BEL+UKR+112":[
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Nato casts doubt on Russias claims of troop withdrawal.txt+eventbasecode112+eventcode112+avgtone0.49533799533799533+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['natos:0.5418', 'crimea:0.4992', 'diplomacy:0.3327', 'moscowbrusselskiev:0.3237', 'invasion:0.3171', 'deploy:0.3072', 'escalation:0.289', 'reznikov:0.2641', 'news:0.2571', 'remind:0.2366', 'coincide:0.2303', 'prepare:0.2278', 'forecast:0.2097', 'barrack:0.1999', 'feb:0.1982', 'president:0.1871', 'morning:0.1833', 'volodymyr:0.1832', 'continue:0.1793', 'drill:0.1742', 'unexpected:0.1704', 'fight:0.1481', 'unit:0.143', 'point:0.1425', 'near:0.1351', 'stable:0.1343', 'efe:0.1338', 'say:0.1328', 'fully:0.1139', 'track:0.113']+titles_keywords+['nato:0.4548', 'russias:0.3193', 'doubt:0.212', 'withdrawal:0.1999', 'claims:0.1293']"
+        ]
+    ],
+    "CHE+UKR+112":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Ashamed Russian diplomat quits over war in Ukraine.txt+eventbasecode112+eventcode112+avgtone0.47553516819571867+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4525', 'diplomat:0.4374', 'ukrainian:0.38', 'bondarev:0.3303', 'propaganda:0.3299', 'warmongering:0.3288', 'war:0.289', 'resign:0.2771', 'ngo:0.2453', 'unprofessionalism:0.2371', 'turn:0.1764', 'geneva:0.1758', 'worsen:0.163', 'accuse:0.1624', 'source:0.1569', 'publish:0.1561', 'person:0.1542', 'unwatch:0.1484', 'aggressive:0.1473', 'analysis:0.141', 'efe:0.1264', 'rank:0.1251', 'forecast:0.1246', 'point:0.1244', 'countrys:0.1234', 'long:0.1193', 'begin:0.1173', 'past:0.0748', 'conceive:0.0606', 'add:0.0364']+titles_keywords+['diplomat:0.4175', 'ukraine:0.3608', 'ashamed:0.2922', 'quits:0.287', 'war:0.2323']"
+        ]
+    ],
+    "GBR+RUS+112":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/UK Putin deploying barbaric tactics in Mariupol.txt+eventbasecode112+eventcode112+avgtone0.4761904761904762+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5277', 'putin:0.4902', 'militarily:0.3541', 'airstrike:0.3532', 'invasion:0.3221', 'humanitarian:0.2762', 'destroy:0.2737', 'globe:0.2687', 'emergency:0.2639', 'conflict:0.2615', 'news:0.2453', 'trigger:0.2351', 'production:0.2298', 'encircled:0.221', 'warn:0.2119', 'vulnerable:0.2071', 'barbaric:0.2015', 'shelter:0.1876', 'term:0.171', 'heappy:0.1693', 'blame:0.1666', 'wheat:0.1567', 'february:0.1463', 'wfps:0.1367', 'fourth:0.1236', 'etch:0.1234', 'odesa:0.1151', 'million:0.1119', 'receive:0.1054', 'far:0.0956']+titles_keywords+['putin:0.5615', 'barbaric:0.4156', 'mariupol:0.3129', 'tactics:0.3121', 'deploying:0.1398']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220731+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Russia accuses Ukraine of striking Black Sea fleet HQ on Navy Day.txt+eventbasecode112+eventcode112+avgtone0.4803921568627451+goldsteinscale0.4+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.009868421052631578+news_keywords+['crimea:0.5382', 'kremlin:0.4463', 'russias:0.3889', 'russian:0.3641', 'moscowlviv:0.3583', 'mikhail:0.3341', 'attack:0.3078', 'naval:0.3076', 'drone:0.2584', 'bratchuk:0.2318', 'parade:0.2242', 'barrack:0.1926', 'occupier:0.1787', 'telegram:0.17', 'sevastopol:0.1653', 'prepare:0.1644', 'sunday:0.1641', 'cancel:0.156', 'serhiy:0.1537', 'say:0.1449', 'begin:0.1241', 'hq:0.1174', 'st:0.111', 'mark:0.1067', 'state:0.0993', 'efe:0.0973', 'new:0.0927', 'doctrine:0.0801', 'actively:0.0724', 'include:0.0575']+titles_keywords+['ukraine:0.3387', 'navy:0.283', 'accuses:0.2286', 'striking:0.1866', 'day:0.1091']"
+        ]
+    ]
+}

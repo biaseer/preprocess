@@ -1,0 +1,12 @@
+{
+    "AFR+RUS+70":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/ewn.co.za/How history may explain SAs refusal to condemn Russias invasion of Ukraine.txt+eventbasecode70+eventcode70+avgtone0.4791459781529295+goldsteinscale0.85+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.009868421052631578+news_keywords+['apartheid:0.3985', 'nato:0.3636', 'putins:0.3559', 'ukrainian:0.316', 'anc:0.3035', 'zambia:0.2921', 'multilateralism:0.2688', 'oppose:0.2673', 'war:0.2547', 'democratic:0.2276', 'sas:0.2159', 'refusal:0.2072', 'centenary:0.1909', 'reason:0.1873', 'unsavoury:0.1699', 'relation:0.1414', 'capability:0.1413', 'implies:0.1365', 'fact:0.1351', 'include:0.1306', 'funding:0.125', 'foreground:0.1035', 'summarise:0.0989', 'th:0.0948', 'general:0.0898', 'long:0.0843', 'link:0.0598', 'come:0.0573', 'dont:0.0535', 'today:0.0502']+titles_keywords+['sas:0.3558', 'history:0.3331', 'russias:0.3251', 'invasion:0.2478', 'refusal:0.2429']"
+        ]
+    ],
+    "RUS+UKR+70":[
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/ewn.co.za/Energy Department announces 12c petrol price decrease from Wednesday.txt+eventbasecode70+eventcode70+avgtone0.49130434782608695+goldsteinscale0.85+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['petrol:0.4442', 'diesel:0.4306', 'decrease:0.4053', 'ukraine:0.2364', 'increased:0.23', 'price:0.2146', 'drop:0.2131', 'russia:0.21', 'department:0.2069', 'departments:0.1927', 'energy:0.1763', 'breathe:0.1572', 'cent:0.1411', 'conflict:0.1391', 'sigh:0.1339', 'announce:0.1313', 'relief:0.1297', 'paraffin:0.1273', 'finally:0.1172', 'sanction:0.1059', 'wednesday:0.1033', 'motorist:0.0957', 'say:0.0868', 'robert:0.0824', 'late:0.0821', 'country:0.0821', 'contribute:0.0529', 'follow:0.0502', 'maake:0.029']+titles_keywords+['decrease:0.3734', 'petrol:0.3489', '12c:0.2856', 'price:0.1277', 'wednesday:0.1008']"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CAN+RUS+12":[
+        [
+            "20220113+../news_crawling/RUS_UKR/p_articles/infotel.ca/Canadian troops in Ukraine pressing ahead with training mission amid Russia tensions.txt+eventbasecode12+eventcode12+avgtone0.48973880597014924+goldsteinscale0.48+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraines:0.4815', 'nato:0.4553', 'crimean:0.45', 'troop:0.3613', 'putin:0.3309', 'deploy:0.3056', 'armed:0.2405', 'border:0.2196', 'crisis:0.209', 'separatist:0.2075', 'ottawa:0.2029', 'diplomat:0.1931', 'contingency:0.1856', 'instead:0.1845', 'aggression:0.1836', 'march:0.1765', 'order:0.1718', 'planning:0.1682', 'col:0.1627', 'alongside:0.1627', 'know:0.1598', 'avert:0.1422', 'emphasize:0.1405', 'unchanged:0.1369', 'end:0.1234', 'grow:0.1107', 'current:0.1068', 'wont:0.1067', 'tout:0.1023', 'week:0.0826']+titles_keywords+['ukraine:0.3758', 'training:0.3342', 'troops:0.3204', 'tensions:0.1403', 'ahead:0.1012']"
+        ]
+    ],
+    "POL+RUS+12":[
+        [
+            "20220515+../news_crawling/RUS_UKR/p_articles/infotel.ca/Polish Nobel author says Russia threat to free world.txt+eventbasecode12+eventcode12+avgtone0.4909502262443439+goldsteinscale0.48+nummentions0.03773584905660377+numarticles0.03843364757070341+numsources0.049342105263157895+news_keywords+['tokarczuk:0.4112', 'warsaw:0.3442', 'russian:0.3354', 'poles:0.2931', 'nobel:0.2917', 'author:0.2882', 'war:0.2659', 'olga:0.2511', 'refugee:0.2489', 'jerusalem:0.2193', 'books:0.2113', 'anachronistic:0.1747', 'humanist:0.1619', 'jacob:0.161', 'world:0.1575', 'sanction:0.1469', 'risk:0.1376', 'mind:0.1336', 'sect:0.1333', 'say:0.1196', 'image:0.0985', 'century:0.0936', 'th:0.092', 'share:0.0791', 'ap:0.0694', 'cruel:0.0532', 'echo:0.0532', 'february:0.0525', 'free:0.0376', 'add:0.0334']+titles_keywords+['russia:0.339', 'nobel:0.332', 'author:0.2646', 'threat:0.249', 'free:0.1742']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220122+../news_crawling/RUS_UKR/p_articles/infotel.ca/Where Ukraines sunflowers once sprouted fears now grow.txt+eventbasecode12+eventcode12+avgtone0.49184505606523954+goldsteinscale0.48+nummentions0.09433962264150944+numarticles0.09499637418419145+numsources0.08223684210526316+news_keywords+['ukraine:0.4824', 'disarmament:0.4261', 'nato:0.4245', 'treaty:0.4074', 'nuclear:0.332', 'memorandum:0.2884', 'separatist:0.2719', 'sunflower:0.2616', 'nation:0.2568', 'eastward:0.2462', 'timeline:0.2225', 'annexed:0.2165', 'worry:0.206', 'foreseeable:0.2044', 'realize:0.1952', 'prepare:0.1921', 'power:0.1785', 'sign:0.1768', 'word:0.169', 'order:0.1627', 'pervomaysk:0.1597', 'counterpart:0.1558', 'significance:0.1541', 'grow:0.1532', 'biden:0.1505', 'warm:0.1495', 'refrain:0.1327', 'end:0.108', 'silo:0.1063', 'true:0.0614']+titles_keywords+['sunflowers:0.572', 'ukraines:0.4453', 'sprouted:0.3906', 'grow:0.3314', 'fears:0.2677']"
+        ],
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/infotel.ca/Nuclear fears in US amid RussiaUkraine war APNORC poll.txt+eventbasecode12+eventcode12+avgtone0.46676891615541927+goldsteinscale0.48+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['nuclear:0.4801', 'putin:0.3988', 'armageddon:0.3881', 'nato:0.3472', 'war:0.3251', 'russiaukraine:0.3126', 'fear:0.2778', 'concerned:0.2687', 'ominous:0.2675', 'korea:0.2462', 'president:0.2402', 'nation:0.2068', 'cite:0.1603', 'escalate:0.1528', 'clock:0.1487', 'remind:0.145', 'degree:0.1242', 'invest:0.1184', 'population:0.1128', 'inevitably:0.1107', 'pose:0.1065', 'end:0.0981', 'whats:0.0885', 'isnt:0.0879', 'young:0.0864', 'decades:0.0841', 'big:0.0798', 'feb:0.0761', 'sort:0.0731', 'wellerstein:0.0389']+titles_keywords+['nuclear:0.5313', 'fears:0.387', 'war:0.3829', 'russiaukraine:0.3251', 'poll:0.2737']"
+        ]
+    ]
+}

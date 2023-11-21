@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+42":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Russian airborne troops land in Ukraines second city Kharkiv Army.txt+eventbasecode42+eventcode42+avgtone0.47694524495677226+goldsteinscale0.595+nummentions0.08055152394775036+numarticles0.08049311094996374+numsources0.20723684210526316+news_keywords+['kyiv:0.5168', 'ukraines:0.4689', 'airstrikes:0.4178', 'belarusian:0.3871', 'putin:0.3496', 'boychenko:0.3354', 'troop:0.3097', 'territory:0.2366', 'invader:0.2173', 'checkpoint:0.1785', 'kilometre:0.1619', 'railway:0.1612', 'fight:0.1544', 'carry:0.1492', 'vadym:0.1482', 'telegram:0.1457', 'eastern:0.1387', 'warn:0.1312', 'building:0.1279', 'population:0.1234', 'second:0.1188', 'high:0.116', 'flame:0.1021', 'february:0.0936', 'video:0.0935', 'encircle:0.089', 'official:0.0756', 'add:0.0743', 'statement:0.0709', 'partially:0.0446']+titles_keywords+['kharkiv:0.3855', 'ukraines:0.3656', 'troops:0.3177', 'airborne:0.2471', 'second:0.1484']"
+        ]
+    ],
+    "UKR+RUS+42":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Ukrainians being forced into Russia says Mariupol council.txt+eventbasecode42+eventcode42+avgtone0.47257383966244726+goldsteinscale0.595+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.009868421052631578+news_keywords+['ukraine:0.4833', 'putin:0.4069', 'evacuate:0.3759', 'troop:0.3089', 'zelenskyy:0.2878', 'citizens:0.2798', 'separatist:0.278', 'war:0.2767', 'stay:0.2727', 'territory:0.2627', 'mariupol:0.2511', 'occupier:0.2358', 'resident:0.2202', 'labour:0.2098', 'city:0.2032', 'supply:0.197', 'sovsun:0.1879', 'march:0.1864', 'forced:0.1692', 'read:0.1692', 'issue:0.1441', 'suffer:0.1364', 'statement:0.126', 'sign:0.1248', 'inna:0.1042', 'ready:0.1035', 'send:0.1034', 'thousand:0.1027', 'radio:0.0743', 'times:0.0629']+titles_keywords+['ukrainians:0.5265', 'forced:0.2628', 'mariupol:0.1788', 'council:0.1166', 'says:0.0436']"
+        ]
+    ],
+    "WST+UKR+42":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Dont send your sons to war Volodymyr Zelenskyy appeals to Russian mothers.txt+eventbasecode42+eventcode42+avgtone0.46854304635761596+goldsteinscale0.595+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukrainian:0.4656', 'chechnya:0.4384', 'zelenskyy:0.3605', 'war:0.3149', 'separatists:0.3126', 'conscript:0.286', 'volodymyr:0.2482', 'son:0.244', 'kill:0.2216', 'protest:0.2077', 'publish:0.2014', 'information:0.1953', 'suspicion:0.1906', 'want:0.1862', 'woman:0.1841', 'phone:0.1734', 'president:0.1713', 'anti:0.1699', 'alive:0.1628', 'movement:0.1553', 'act:0.1511', 'send:0.1484', 'check:0.1383', 'prisoner:0.1324', 'video:0.103', 'start:0.0984', 'immediately:0.0956', 'multiply:0.0922', 'necessary:0.0817', 'dozen:0.0677']+titles_keywords+['zelenskyy:0.4568', 'mothers:0.3988', 'russian:0.3225', 'war:0.3115', 'send:0.1404']"
+        ]
+    ]
+}

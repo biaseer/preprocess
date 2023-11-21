@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+57":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/news.am/Medinsky Expectations from talks with Ukraine have not been met.txt+eventbasecode57+eventcode57+avgtone0.5+goldsteinscale0.9+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.003289473684210526+news_keywords+['ukraine:0.4148', 'negotiation:0.3912', 'medinsky:0.3891', 'vladimir:0.3435', 'protocol:0.3173', 'corridor:0.2904', 'slutsky:0.2749', 'humanitarian:0.2724', 'evacuate:0.2642', 'delegation:0.246', 'leonid:0.2309', 'talk:0.2247', 'expect:0.2078', 'meet:0.1897', 'hope:0.1583', 'continue:0.1523', 'soon:0.15', 'materialize:0.134', 'report:0.1314', 'comfort:0.1284', 'note:0.124', 'result:0.1197', 'hop:0.0871', 'illusion:0.0841', 'head:0.0623', 'easy:0.0488', 'according:0.0445', 'member:0.0325', 'express:0.0314', 'tass:0.024']+titles_keywords+['medinsky:0.5141', 'ukraine:0.3138', 'expectations:0.2806', 'talks:0.2169', 'met:0.1367']"
+        ],
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/news.am/Cavusoglu announces progress in talks between Russia and Ukraine in Istanbul.txt+eventbasecode57+eventcode57+avgtone0.4956521739130435+goldsteinscale0.9+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.006578947368421052+news_keywords+['ukraine:0.4389', 'putin:0.4131', 'istanbul:0.4019', 'ceasefire:0.3514', 'zelenskyy:0.2915', 'negotiation:0.288', 'cavusoglu:0.2845', 'progress:0.276', 'achieve:0.2445', 'president:0.231', 'meeting:0.229', 'talk:0.2258', 'announce:0.2027', 'delegation:0.1998', 'hope:0.1847', 'report:0.1676', 'long:0.1627', 'mevlut:0.1513', 'issue:0.1313', 'claim:0.129', 'significant:0.1267', 'lead:0.1187', 'term:0.1063', 'say:0.1001', 'addition:0.0981', 'agree:0.0946', 'complicate:0.0882', 'today:0.0836', 'level:0.0657', 'tass:0.0656']+titles_keywords+['cavusoglu:0.3923', 'ukraine:0.2678', 'istanbul:0.2515', 'progress:0.2495', 'talks:0.1674']"
+        ]
+    ],
+    "WST+RUS+57":[
+        [
+            "20220129+../news_crawling/RUS_UKR/p_articles/news.am/Stoltenberg NATO allies have differing views on arms supplies to Ukraine.txt+eventbasecode57+eventcode57+avgtone0.5130813953488372+goldsteinscale0.9+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nato:0.5429', 'ukraines:0.4357', 'treaty:0.3256', 'baltic:0.2536', 'armed:0.2378', 'ally:0.2337', 'stoltenberg:0.2054', 'supply:0.1947', 'neutral:0.1808', 'confidentiality:0.175', 'negotiate:0.1666', 'missile:0.165', 'assure:0.1564', 'mechanism:0.1339', 'listen:0.1328', 'response:0.131', 'secretary:0.1281', 'prerequisite:0.1257', 'help:0.1202', 'state:0.119', 'block:0.1106', 'forward:0.1087', 'general:0.1021', 'type:0.0968', 'differ:0.0906', 'modernize:0.0866', 'newspaper:0.0831', 'send:0.0801', 'right:0.0667', 'pais:0.0659']+titles_keywords+['nato:0.5139', 'ukraine:0.409', 'stoltenberg:0.275', 'supplies:0.2268', 'differing:0.2081']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/wpsu.org/RussiaUkraine war What happened today June 8.txt+eventbasecode180+eventcode180+avgtone0.4826086956521739+goldsteinscale0.05+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.08223684210526316+news_keywords+['ukraine:0.5122', 'russiaukraine:0.464', 'putin:0.3923', 'war:0.3598', 'ankara:0.2725', 'regiment:0.2301', 'recap:0.2068', 'update:0.2059', 'stefanchuk:0.1969', 'read:0.1782', 'azovstal:0.1718', 'sievierodonetsk:0.1684', 'long:0.1637', 'safe:0.1625', 'npr:0.1586', 'continue:0.1584', 'corridor:0.1499', 'fall:0.1487', 'today:0.1411', 'arrive:0.1397', 'changing:0.1392', 'donbas:0.1171', 'port:0.11', 'plant:0.1012', 'control:0.0952', 'draw:0.091', 'exchange:0.0878', 'like:0.0832', 'million:0.0759', 'agree:0.0568']+titles_keywords+['russiaukraine:0.4775', 'war:0.4188', 'today:0.3041', 'june:0.2979', 'happened:0.2659']"
+        ]
+    ],
+    "UKR+BGD+180":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/wpsu.org/Missile strikes in western Ukraine kill 6 as country braces for new assault in east.txt+eventbasecode180+eventcode180+avgtone0.4706943192064923+goldsteinscale0.05+nummentions0.11175616835994194+numarticles0.11240029006526468+numsources0.16776315789473684+news_keywords+['kyiv:0.5129', 'putin:0.4254', 'airstrikes:0.3825', 'azov:0.2817', 'news:0.2724', 'victory:0.2598', 'barrage:0.2374', 'railways:0.2373', 'casualty:0.2346', 'prepare:0.2292', 'troop:0.2264', 'separatist:0.2259', 'sprawl:0.2054', 'tell:0.1973', 'seize:0.1902', 'end:0.1867', 'nehammer:0.1851', 'kilometer:0.1765', 'shmyhal:0.1744', 'debris:0.1687', 'eastern:0.1665', 'donbas:0.1648', 'month:0.1617', 'increase:0.1559', 'amid:0.1516', 'basically:0.1423', 'affected:0.1389', 'plant:0.1363', 'major:0.1307', 'population:0.1131']+titles_keywords+['ukraine:0.3391', 'missile:0.2372', 'strikes:0.1254', 'braces:0.0817', 'new:0.0491']"
+        ]
+    ]
+}

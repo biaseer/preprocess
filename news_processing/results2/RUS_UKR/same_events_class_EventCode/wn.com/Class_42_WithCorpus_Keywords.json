@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+42":[
+        [
+            "20211225+../news_crawling/RUS_UKR/p_articles/wn.com/More than 10000 Russian troops returning to bases after drills near Ukraine.txt+eventbasecode42+eventcode42+avgtone0.5+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimea:0.5445', 'ukraine:0.4168', 'moscow:0.379', 'troop:0.361', 'military:0.3337', 'russia:0.3302', 'russian:0.3079', 'drills:0.2846', 'annex:0.2829', 'drill:0.2558', 'base:0.2016', 'region:0.1704', 'near:0.1635', 'return:0.1264', 'report:0.1173', 'hold:0.112', 'saturday:0.0954', 'month:0.0913', 'news:0.0885', 'permanent:0.0845', 'long:0.0702', 'cite:0.0691', 'agency:0.0131', 'interfax:-0.0096', 'say:-0.0117', 'include:-0.0154']+titles_keywords+['troops:0.3684', 'returning:0.2643', 'russian:0.2594', 'drills:0.2107', '10000:0.1957']"
+        ],
+        [
+            "20220203+../news_crawling/RUS_UKR/p_articles/wn.com/NATO chief wary of Russian troop buildup in Belarus.txt+eventbasecode42+eventcode42+avgtone0.4941176470588235+goldsteinscale0.595+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.02631578947368421+news_keywords+['nato:0.4665', 'belarus:0.3722', 'stoltenberg:0.3215', 'moscow:0.3191', 'ukraine:0.3067', 'russia:0.2938', 'kyiv:0.2929', 'russian:0.2807', 'troop:0.2787', 'military:0.2456', 'wary:0.2426', 'concern:0.2087', 'deploy:0.2033', 'diplomacy:0.1916', 'general:0.1716', 'buildup:0.1629', 'jens:0.1557', 'secretary:0.1418', 'equipment:0.1293', 'brussels:0.1209', 'expect:0.0871', 'continue:0.0823', 'thursday:0.082', 'chief:0.0816', 'high:0.0657', 'level:0.0514', 'ap:0.0479', 'year:0.0102', 'time:-0.0239', 'express:-0.0244']+titles_keywords+['nato:0.4366', 'wary:0.3053', 'russian:0.258', 'chief:0.0979', 'buildup:0.0922']"
+        ]
+    ],
+    "UKR+RUS+42":[
+        [
+            "20220529+../news_crawling/RUS_UKR/p_articles/wn.com/Volodymyr Zelenskyy visits east Ukraine amid Russias Donbas pushRussia has shifted its focus to the.txt+eventbasecode42+eventcode42+avgtone0.4788732394366197+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['zelenskyy:0.5339', 'ukraine:0.4689', 'moscow:0.398', 'pushrussia:0.3521', 'russian:0.3334', 'volodymyr:0.3232', 'russias:0.2909', 'visit:0.2734', 'president:0.248', 'donbas:0.2334', 'trip:0.2011', 'invasion:0.1693', 'telegram:0.1596', 'east:0.1542', 'region:0.1452', 'war:0.1403', 'vest:0.1077', 'focus:0.0953', 'make:0.094', 'launch:0.0806', 'bullet:0.078', 'shift:0.0483', 'tighten:0.048', 'proof:0.039', 'key:0.035', 'video:0.0246', 'sunday:0.0161', 'post:0.0054', 'torn:0.0026', 'amid:0.0003']+titles_keywords+['zelenskyy:0.5778', 'pushrussia:0.4822', 'ukraine:0.4309', 'focus:0.2424', 'visits:0.1746']"
+        ]
+    ]
+}

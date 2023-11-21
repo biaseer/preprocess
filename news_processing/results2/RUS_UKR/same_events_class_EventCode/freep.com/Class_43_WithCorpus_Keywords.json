@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+43":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/freep.com/Listen to On The Line Bombs in Ukraine reverberate in Michigan.txt+eventbasecode43+eventcode43+avgtone0.506872852233677+goldsteinscale0.64+nummentions0.017053701015965168+numarticles0.017766497461928935+numsources0.029605263157894735+news_keywords+['ukraine:0.5833', 'ukrainians:0.5496', 'putin:0.5302', 'russian:0.4378', 'oligarchs:0.3546', 'refugee:0.3423', 'invade:0.3016', 'reporter:0.2473', 'bomb:0.2258', 'pact:0.216', 'sheltersand:0.207', 'sanction:0.2067', 'detroiters:0.2031', 'vulnerable:0.1993', 'fear:0.1988', 'rally:0.1791', 'metro:0.1728', 'corridor:0.1691', 'opportunity:0.1643', 'katherinepotapenkoof:0.1593', 'speak:0.1489', 'coverage:0.1455', 'township:0.1413', 'iceberg:0.1305', 'reach:0.1283', 'list:0.1208', 'update:0.1102', 'warikoo:0.1097', 'difference:0.0707', 'reverberate:0.0579']+titles_keywords+['listen:0.4194', 'bombs:0.391', 'reverberate:0.3834', 'michigan:0.301', 'line:0.2054']"
+        ]
+    ],
+    "RUS+USA+43":[
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/freep.com/US pledges more Ukraine aid as Biden announces Michigan native as ambassador.txt+eventbasecode43+eventcode43+avgtone0.49724972497249725+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.4882', 'nato:0.3956', 'diplomat:0.3636', 'biden:0.346', 'invade:0.3112', 'revolution:0.3099', 'pentagon:0.2968', 'announcement:0.2883', 'democratic:0.2875', 'pledge:0.2791', 'nation:0.2741', 'arrange:0.2473', 'prepare:0.2394', 'aid:0.2248', 'continue:0.2158', 'long:0.2135', 'capital:0.2082', 'power:0.2035', 'approve:0.2008', 'concern:0.1987', 'cite:0.1984', 'state:0.1938', 'understand:0.192', 'say:0.1876', 'report:0.1871', 'term:0.1823', 'step:0.1618', 'near:0.1455', 'dmytro:0.1244', 'total:0.1112']+titles_keywords+['ukraine:0.3732', 'biden:0.3548', 'ambassador:0.3079', 'aid:0.2541', 'pledges:0.2215']"
+        ]
+    ]
+}

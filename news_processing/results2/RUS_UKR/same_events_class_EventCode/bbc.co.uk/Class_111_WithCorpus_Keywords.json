@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+111":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/War in Ukraine World must stop mass murder in Europe Sajid Javid.txt+eventbasecode111+eventcode111+avgtone0.45833333333333337+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5175', 'genocide:0.4917', 'bosnia:0.4142', 'russia:0.3799', 'war:0.368', 'europe:0.2949', 'javid:0.2766', 'murder:0.2121', 'uk:0.2115', 'condemn:0.2068', 'commemorate:0.196', 'bbc:0.1933', 'human:0.186', 'world:0.1848', 'health:0.1824', 'sajid:0.1786', 'action:0.178', 'violation:0.1739', 'comparison:0.1706', 'speaking:0.1631', 'stop:0.1581', 'say:0.156', 'right:0.1551', 'secretary:0.1532', 'breakfast:0.153', 'want:0.1123', 'mr:0.0897', 'mass:0.0509', 'mildly:0.0488', 'draw:0.0187']+titles_keywords+['ukraine:0.4802', 'war:0.464', 'javid:0.3531', 'murder:0.3006', 'stop:0.2517']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220708+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Selby Ukraine war hits plan to fuel bin lorries with vegetable oil.txt+eventbasecode111+eventcode111+avgtone0.48243243243243245+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4875', 'diesel:0.3962', 'oil:0.3893', 'lorries:0.3553', 'war:0.3395', 'renewable:0.3062', 'environmental:0.297', 'switch:0.256', 'waste:0.2509', 'councillor:0.246', 'vegetable:0.2426', 'hvo:0.2379', 'unsustainable:0.2362', 'plan:0.1887', 'report:0.1847', 'make:0.1789', 'grogan:0.1645', 'decision:0.1584', 'company:0.1568', 'stabilise:0.1512', 'source:0.1413', 'later:0.1375', 'term:0.1339', 'cost:0.133', 'long:0.1325', 'modification:0.1276', 'rise:0.1208', 'according:0.0969', 'week:0.0909', 'urbaser:0.0233']+titles_keywords+['oil:0.4353', 'lorries:0.401', 'ukraine:0.3396', 'selby:0.1751', 'plan:0.1279']"
+        ]
+    ]
+}

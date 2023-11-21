@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/weaa.org/The US will welcome up to 100000 Ukrainians fleeing the Russian invasion.txt+eventbasecode51+eventcode51+avgtone0.4756097560975609+goldsteinscale0.67+nummentions0.057329462989840346+numarticles0.05801305293691081+numsources0.12171052631578948+news_keywords+['refugee:0.5093', 'ukrainians:0.4214', 'nato:0.3831', 'reunification:0.3678', 'war:0.3075', 'aid:0.2797', 'deploy:0.2637', 'urgent:0.2493', 'crisis:0.2447', 'stay:0.2386', 'understand:0.2287', 'infrastructure:0.2281', 'want:0.2229', 'displace:0.2039', 'involve:0.1913', 'biden:0.1896', 'news:0.1748', 'circumstance:0.171', 'navigate:0.1672', 'protect:0.1668', 'funnel:0.1578', 'speak:0.1563', 'million:0.1484', 'center:0.1327', 'woman:0.1323', 'different:0.1133', 'legal:0.1109', 'summers:0.0996', 'downside:0.0946', 'welcome:0.0842']+titles_keywords+['ukrainians:0.515', 'invasion:0.3163', '100000:0.2719', 'fleeing:0.2616', 'welcome:0.0587']"
+        ],
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/weaa.org/Russias war in Ukraine is threatening an outpost of cooperation in space.txt+eventbasecode51+eventcode51+avgtone0.48752922837100543+goldsteinscale0.67+nummentions0.10631349782293179+numarticles0.1069615663524293+numsources0.1875+news_keywords+['soyuz:0.47', 'iss:0.453', 'putin:0.4378', 'russianspaceweb:0.4156', 'russias:0.374', 'geopolitical:0.3668', 'space:0.3264', 'propaganda:0.3053', 'hrozensky:0.2972', 'cooperation:0.2847', 'station:0.2529', 'esa:0.2343', 'globe:0.2296', 'announce:0.2272', 'change:0.2238', 'meddle:0.2191', 'symbiotic:0.2173', 'orientation:0.2124', 'worry:0.2061', 'foreseeable:0.1966', 'professor:0.1925', 'allegation:0.1901', 'end:0.1743', 'technical:0.1731', 'strain:0.1724', 'function:0.1656', 'long:0.1506', 'comparison:0.1448', 'employ:0.1409', 'largely:0.0742']+titles_keywords+['ukraine:0.3987', 'space:0.3503', 'cooperation:0.2947', 'outpost:0.2526', 'threatening:0.2027']"
+        ]
+    ]
+}

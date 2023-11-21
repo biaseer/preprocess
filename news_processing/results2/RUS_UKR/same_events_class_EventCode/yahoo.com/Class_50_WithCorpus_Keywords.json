@@ -1,0 +1,20 @@
+{
+    "CHN+RUS+50":[
+        [
+            "20220801+../news_crawling/RUS_UKR/p_articles/yahoo.com/Europe is hurting because Russia has cut down its naturalgas supply but Russia is even.txt+eventbasecode50+eventcode50+avgtone0.4771062271062271+goldsteinscale0.675+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['russia:0.4769', 'economy:0.3627', 'alarmism:0.2719', 'strategic:0.2601', 'invade:0.2498', 'oil:0.2477', 'commodity:0.2252', 'bloomberg:0.2237', 'cite:0.2188', 'crisis:0.2174', 'global:0.2097', 'power:0.1869', 'export:0.18', 'shift:0.1567', 'reduce:0.1561', 'study:0.1502', 'data:0.145', 'importance:0.1378', 'argue:0.1369', 'winter:0.1309', 'contrary:0.1303', 'relate:0.1243', 'irrevocably:0.1227', 'end:0.1186', 'make:0.1157', 'long:0.0688', 'regularity:0.0672', 'derived:0.0652', 'deal:0.0581', 'sonnenfeld:0.0517']+titles_keywords+['russia:0.4399', 'naturalgas:0.2391', 'supply:0.2189', 'hurting:0.2165', 'study:0.1779']"
+        ]
+    ],
+    "RUS+UKR+50":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/yahoo.com/Ukrainian negotiator says Ukraines position at talks with Russia is unchanged.txt+eventbasecode50+eventcode50+avgtone0.4801980198019802+goldsteinscale0.675+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ceasefire:0.4703', 'ukraines:0.4219', 'negotiation:0.3622', 'lviv:0.3357', 'russian:0.3068', 'unchanged:0.2996', 'provoke:0.2846', 'peace:0.2832', 'reuters:0.2797', 'negotiator:0.2726', 'position:0.2616', 'mykhailo:0.2455', 'podolyak:0.237', 'troop:0.2323', 'talk:0.2217', 'tension:0.2174', 'intend:0.1941', 'statement:0.1927', 'want:0.1754', 'strong:0.1696', 'security:0.1662', 'lead:0.1511', 'guarantee:0.1493', 'withdrawal:0.1408', 'friday:0.1247', 'formulas:0.1068', 'inter:0.0951', 'medium:0.0585', 'concrete:0.0466', 'alia:0.0224']+titles_keywords+['ukraines:0.3811', 'unchanged:0.3411', 'negotiator:0.2949', 'position:0.2029', 'says:0.067']"
+        ],
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/yahoo.com/POW pleading for forgiveness from Ukraine widow Senate OKs 40 billion aid package Live updates.txt+eventbasecode50+eventcode50+avgtone0.49155405405405406+goldsteinscale0.675+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4984', 'putin:0.4613', 'natos:0.449', 'oligarch:0.3546', 'vysotsky:0.3215', 'blockade:0.3113', 'pentagon:0.3023', 'neutrality:0.2806', 'announce:0.279', 'table:0.2749', 'congress:0.2654', 'humanitarian:0.2603', 'donald:0.2427', 'negotiate:0.2287', 'telegram:0.225', 'anonymity:0.2238', 'plan:0.2118', 'worry:0.2076', 'soon:0.2028', 'write:0.1996', 'continue:0.1977', 'pow:0.1808', 'authorize:0.1785', 'formal:0.1765', 'long:0.1741', 'fact:0.1737', 'agree:0.1577', 'higher:0.1524', 'acre:0.1289', 'oks:0.1231']+titles_keywords+['senate:0.2825', 'aid:0.2816', 'pow:0.266', 'forgiveness:0.2569', 'ukraine:0.2477']"
+        ]
+    ],
+    "UKR+RUS+50":[
+        [
+            "20211112+../news_crawling/RUS_UKR/p_articles/yahoo.com/Ukraines allies are warning Russia against new military escalation Kyiv says.txt+eventbasecode50+eventcode50+avgtone0.47008547008547+goldsteinscale0.675+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['crimea:0.5139', 'ukraines:0.4788', 'nato:0.4413', 'war:0.3465', 'reuters:0.338', 'diplomat:0.3045', 'escalation:0.3012', 'communicate:0.2711', 'border:0.2691', 'relations:0.2508', 'destabilise:0.2442', 'worry:0.2308', 'drone:0.2291', 'migration:0.2189', 'capital:0.2028', 'union:0.1993', 'spelling:0.1923', 'kuleba:0.1881', 'brief:0.1834', 'engineering:0.1786', 'dmytro:0.1679', 'instead:0.1596', 'inflammatory:0.1503', 'accuse:0.1491', 'unfold:0.1465', 'month:0.139', 'make:0.1381', 'track:0.1353', 'near:0.1119', 'agree:0.0734']+titles_keywords+['ukraines:0.4612', 'kyiv:0.4535', 'escalation:0.2219', 'warning:0.2194', 'military:0.178']"
+        ]
+    ]
+}

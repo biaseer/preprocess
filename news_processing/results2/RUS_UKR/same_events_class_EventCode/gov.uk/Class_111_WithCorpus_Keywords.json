@@ -1,0 +1,15 @@
+{
+    "GBR+RUS+111":[
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/gov.uk/UK Statement to the Seventh Review Meeting of the Joint Convention on the Safety of.txt+eventbasecode111+eventcode111+avgtone0.49287749287749294+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4406', 'nuclear:0.4186', 'iaea:0.2952', 'concerned:0.2668', 'safety:0.2626', 'government:0.2373', 'invasion:0.2137', 'unprovoked:0.1973', 'obligation:0.1922', 'convention:0.1856', 'unacceptable:0.1846', 'waste:0.1806', 'escalate:0.1769', 'unlawful:0.1606', 'action:0.1597', 'remain:0.159', 'statement:0.1582', 'complies:0.1578', 'despite:0.1514', 'vicinity:0.1479', 'respond:0.139', 'prevent:0.1162', 'withdraw:0.1085', 'include:0.0982', 'review:0.089', 'seventh:0.0783', 'particularly:0.0771', 'chornobyl:0.0743', 'directly:0.0593', 'million:0.0388']+titles_keywords+['radioactive:0.4361', 'waste:0.3619', 'safety:0.304', 'fuel:0.2911', 'uk:0.1026']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/gov.uk/Security Council votes to covene an emergency special session of the General Assembly.txt+eventbasecode111+eventcode111+avgtone0.4844961240310077+goldsteinscale0.4+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.039473684210526314+news_keywords+['ukraine:0.4471', 'convening:0.3312', 'war:0.3286', 'emergency:0.3226', 'invasion:0.3213', 'diplomatic:0.2693', 'vote:0.2619', 'come:0.2402', 'condemn:0.24', 'immediate:0.229', 'nations:0.228', 'session:0.2253', 'general:0.2167', 'end:0.2043', 'security:0.199', 'stop:0.1863', 'tomorrow:0.177', 'world:0.1751', 'unjustified:0.17', 'fight:0.1697', 'force:0.1673', 'people:0.1614', 'favour:0.1614', 'use:0.1468', 'united:0.1427', 'covene:0.1358', 'impotence:0.1294', 'assembly:0.1214', 'bare:0.1186', 'voice:0.0971']+titles_keywords+['council:0.3152', 'emergency:0.2899', 'session:0.2463', 'covene:0.2439', 'general:0.2034']"
+        ],
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/gov.uk/Public sector to investigate cutting contracts with Russian suppliers.txt+eventbasecode111+eventcode111+avgtone0.4814814814814815+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4708', 'ukraine:0.4434', 'government:0.3659', 'sanction:0.3192', 'supplier:0.3049', 'war:0.2764', 'contract:0.2494', 'industry:0.2206', 'uks:0.2145', 'urgently:0.1966', 'argument:0.1944', 'secretary:0.1925', 'relation:0.1909', 'firm:0.1837', 'issue:0.1791', 'illegal:0.1786', 'buying:0.1715', 'pursue:0.1707', 'step:0.1695', 'cut:0.1636', 'bp:0.1568', 'renewables:0.1511', 'look:0.1458', 'long:0.1434', 'benefit:0.1418', 'term:0.1365', 'switch:0.1256', 'review:0.1032', 'recent:0.0845', 'possible:0.0591']+titles_keywords+['russian:0.3187', 'suppliers:0.3145', 'investigate:0.1948', 'cutting:0.1789', 'public:0.099']"
+        ]
+    ]
+}

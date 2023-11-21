@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+10":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/politico.com/Russia attacks Ukraine.txt+eventbasecode10+eventcode10+avgtone0.47980997624703087+goldsteinscale0.5+nummentions0.017779390420899856+numarticles0.01849166062364032+numsources0.009868421052631578+news_keywords+['kyiv:0.5029', 'putin:0.4639', 'vladimir:0.4098', 'russian:0.397', 'zelenskyy:0.3209', 'attack:0.313', 'missiles:0.3129', 'war:0.2565', 'military:0.2066', 'warn:0.187', 'donbas:0.1837', 'reporter:0.1579', 'dangerous:0.1568', 'interfere:0.1507', 'airport:0.1325', 'border:0.1268', 'thursday:0.1099', 'omer:0.1021', 'signal:0.1002', 'suffer:0.0976', 'images:0.0926', 'hear:0.0904', 'set:0.0717', 'include:0.0686', 'unit:0.06', 'year:0.0586', 'witnesses:0.0543', 'add:0.0489', 'far:0.0334', 'degrade:0.0266']+titles_keywords+['ukraine:0.4466', 'attacks:0.3485', 'russia:0.3067']"
+        ]
+    ],
+    "RUS+IRN+10":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/politico.com/The man fighting for Ukraine in DC.txt+eventbasecode10+eventcode10+avgtone0.49382716049382713+goldsteinscale0.5+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.5331', 'nato:0.3951', 'militarily:0.3247', 'war:0.3224', 'lobbyist:0.2879', 'fallout:0.245', 'soldier:0.2278', 'strategy:0.2264', 'fight:0.2184', 'dc:0.2129', 'protect:0.201', 'biden:0.2009', 'economic:0.1901', 'excerpt:0.1866', 'river:0.1836', 'sanction:0.1541', 'vajdich:0.1428', 'irpin:0.1422', 'flee:0.1418', 'gas:0.1367', 'emphasize:0.1313', 'march:0.1287', 'push:0.1258', 'dinner:0.1227', 'potential:0.1187', 'burn:0.1067', 'issue:0.0772', 'photo:0.0739', 'man:0.0586', 'length:0.0403']+titles_keywords+['ukraine:0.4581', 'dc:0.4037', 'fighting:0.34', 'man:0.171']"
+        ]
+    ]
+}

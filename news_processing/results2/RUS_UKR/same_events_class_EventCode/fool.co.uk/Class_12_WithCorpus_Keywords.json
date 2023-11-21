@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/fool.co.uk/UK cybersecurity stocks to buy for 2022 and beyond.txt+eventbasecode12+eventcode12+avgtone0.4969512195121951+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['cybersecurity:0.4785', 'ftse:0.4109', 'stock:0.3675', 'invest:0.3152', 'etf:0.3145', 'bullish:0.2719', 'portfolio:0.2663', 'avst:0.2573', 'business:0.2454', 'sector:0.2449', 'recommend:0.2436', 'attack:0.243', 'nortonlifelock:0.2367', 'risk:0.2343', 'uk:0.2142', 'build:0.2091', 'insight:0.2076', 'trade:0.2008', 'systems:0.1866', 'provider:0.1796', 'capital:0.1774', 'worth:0.1759', 'softcat:0.1707', 'list:0.1697', 'underperform:0.1669', 'range:0.1498', 'bit:0.1379', 'large:0.1358', 'toget:0.1232', 'heres:0.0731']+titles_keywords+['stocks:0.4617', 'cybersecurity:0.4453', '2022:0.2901', 'uk:0.2638', 'buy:0.2341']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/fool.co.uk/As stock markets crash heres 1 FTSE 100 dividend stock to buy now.txt+eventbasecode12+eventcode12+avgtone0.5007610350076104+goldsteinscale0.48+nummentions0.01741654571843251+numarticles0.018129079042784626+numsources0.02631578947368421+news_keywords+['ftse:0.5044', 'stock:0.4348', 'dividend:0.3956', 'investment:0.3867', 'ukcybersecurity:0.3706', 'analyst:0.3519', 'volatility:0.3283', 'sector:0.3058', 'read:0.2972', 'bn:0.2768', 'announce:0.2729', 'fall:0.2593', 'article:0.2511', 'current:0.2494', 'backlog:0.2484', 'predictably:0.2441', 'rise:0.2363', 'views:0.2297', 'worry:0.2294', 'change:0.2249', 'underlying:0.2236', 'invasion:0.2035', 'russian:0.192', 'diverse:0.1876', 'positive:0.1832', 'fool:0.1821', 'end:0.1762', 'case:0.1678', 'big:0.1659', 'arent:0.161']+titles_keywords+['ftse:0.6061', 'dividend:0.5337', 'stock:0.3925', 'buy:0.291', 'crash:0.249']"
+        ]
+    ]
+}

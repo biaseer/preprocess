@@ -1,0 +1,12 @@
+{
+    "KAZ+RUS+43":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/kvia.com/Russian cosmonauts blindsided by controversy over arriving at ISS in yellow spacesuits NASA astronaut says.txt+eventbasecode43+eventcode43+avgtone0.4869375907111756+goldsteinscale0.64+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.01644736842105263+news_keywords+['soyuz:0.516', 'iss:0.4668', 'sergey:0.4569', 'russian:0.4472', 'ukraines:0.4114', 'cosmonaut:0.3685', 'nasa:0.345', 'dubrov:0.3262', 'crewmates:0.3143', 'invasion:0.3096', 'spacesuit:0.2915', 'geopolitical:0.28', 'concern:0.2254', 'flag:0.2005', 'change:0.183', 'month:0.1789', 'board:0.1787', 'retweeting:0.1625', 'heard:0.1597', 'anticipate:0.1571', 'spat:0.1566', 'tribute:0.1458', 'project:0.1456', 'blue:0.1403', 'graduate:0.138', 'happy:0.137', 'long:0.1366', 'audience:0.1248', 'shy:0.1088', 'hei:0.1082']+titles_keywords+['cosmonauts:0.4454', 'russian:0.3534', 'yellow:0.2837', 'controversy:0.2178', 'arriving:0.1383']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/kvia.com/Putin says some Russian troops are withdrawing after drills but skepticism in Ukraine and US.txt+eventbasecode43+eventcode43+avgtone0.49420160570918825+goldsteinscale0.64+nummentions0.03555878084179971+numarticles0.03625815808556925+numsources0.049342105263157895+news_keywords+['crimea:0.5436', 'putin:0.4808', 'natos:0.4526', 'war:0.3478', 'peskov:0.3394', 'escalation:0.3386', 'diplomatic:0.3129', 'infantry:0.2981', 'separatist:0.2844', 'russophobia:0.2662', 'cyberattack:0.2637', 'news:0.2621', 'underway:0.2605', 'astafyev:0.2402', 'concerned:0.238', 'agreement:0.234', 'remain:0.2332', 'respond:0.2228', 'soon:0.213', 'choreograph:0.2063', 'cite:0.1974', 'brief:0.1945', 'organize:0.1936', 'end:0.1873', 'adjacent:0.1841', 'drill:0.1811', 'vacant:0.1793', 'operationally:0.1779', 'mixture:0.1632', 'mr:0.1368']+titles_keywords+['putin:0.379', 'withdrawing:0.2624', 'troops:0.2574', 'skepticism:0.1881', 'says:0.0408']"
+        ]
+    ]
+}

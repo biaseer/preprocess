@@ -1,0 +1,27 @@
+{
+    "IDN+RUS+36":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/newsweek.com/Putin Accepts Invitation to Attend G20 Summit Setting Up Biden Showdown.txt+eventbasecode36+eventcode36+avgtone0.5149572649572649+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4214', 'diplomacy:0.4118', 'negotiation:0.2992', 'ambassador:0.257', 'invitation:0.2473', 'invade:0.2306', 'attend:0.2238', 'saudi:0.2057', 'meet:0.2035', 'summit:0.1974', 'eu:0.1904', 'group:0.1787', 'joko:0.1776', 'bali:0.177', 'sanction:0.1743', 'news:0.1695', 'speaking:0.1671', 'plan:0.1142', 'exclude:0.1133', 'bogor:0.1093', 'confirm:0.1029', 'java:0.1022', 'current:0.092', 'statement:0.0896', 'chair:0.0896', 'widodo:0.085', 'later:0.0707', 'year:0.07', 'et:0.0667', 'thank:0.0596']+titles_keywords+['putin:0.4397', 'biden:0.4112', 'g20:0.3608', 'invitation:0.3446', 'showdown:0.187']"
+        ]
+    ],
+    "RUS+EUR+36":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/newsweek.com/Blinken Says Swift Response Needed for Russia Recognizing New Republics.txt+eventbasecode36+eventcode36+avgtone0.4899244332493703+goldsteinscale0.7+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.013157894736842105+news_keywords+['putin:0.4287', 'diplomacy:0.3431', 'donetsk:0.2795', 'separatist:0.2736', 'alert:0.2639', 'executive:0.2383', 'agreement:0.2334', 'order:0.2219', 'attack:0.2153', 'operation:0.2082', 'response:0.2025', 'concern:0.193', 'troop:0.1907', 'blinken:0.1894', 'assure:0.1834', 'read:0.1819', 'states:0.1819', 'contradict:0.1773', 'immediately:0.1645', 'continue:0.1577', 'coordination:0.1504', 'direct:0.1471', 'unpredictable:0.1429', 'say:0.1343', 'retweeted:0.1104', 'step:0.1042', 'february:0.1041', 'restrict:0.1002', 'antony:0.0791', 'deteriorate:0.0613']+titles_keywords+['republics:0.3879', 'russia:0.3731', 'blinken:0.2683', 'response:0.1867', 'swift:0.1212']"
+        ]
+    ],
+    "RUS+RUS+36":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/newsweek.com/Kremlin Warned Russian Media Not to Report Zelensky War Negotiation Update.txt+eventbasecode36+eventcode36+avgtone0.4801401869158879+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.013157894736842105+news_keywords+['kremlin:0.472', 'putin:0.4711', 'zelensky:0.3958', 'journalist:0.3641', 'roskomnadzor:0.3504', 'ukrainian:0.3485', 'news:0.2994', 'censor:0.2765', 'newsweek:0.2756', 'broadcast:0.2552', 'telegram:0.248', 'war:0.2369', 'investigate:0.2318', 'conduct:0.2179', 'ban:0.2091', 'interviewand:0.1831', 'negotiate:0.1769', 'continue:0.1521', 'frighten:0.1507', 'tikhon:0.1493', 'issue:0.1484', 'station:0.1408', 'prepare:0.1376', 'warned:0.1363', 'wrotethey:0.1309', 'statement:0.1307', 'meet:0.1246', 'extent:0.1131', 'today:0.0865', 'state:0.0706']+titles_keywords+['kremlin:0.4665', 'zelensky:0.4567', 'negotiation:0.2337', 'warned:0.2026', 'update:0.176']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/newsweek.com/Zelensky Lego Figures Released To Raise Money for Ukraine Refugees.txt+eventbasecode36+eventcode36+avgtone0.5042918454935622+goldsteinscale0.7+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.01644736842105263+news_keywords+['lego:0.4391', 'zelensky:0.3946', 'russian:0.3608', 'refugees:0.3351', 'donate:0.3162', 'make:0.3109', 'money:0.307', 'initiative:0.2968', 'campaign:0.2933', 'supply:0.2854', 'character:0.2774', 'order:0.2748', 'molotov:0.264', 'website:0.2557', 'release:0.253', 'custom:0.2453', 'volodymyr:0.2436', 'figures:0.2329', 'president:0.2278', 'appear:0.2101', 'decade:0.1907', 'set:0.1869', 'help:0.1777', 'hope:0.173', 'entire:0.1716', 'wildly:0.1589', 'bad:0.1545', 'prove:0.1414', 'hour:0.1305', 'directrelief:0.1088']+titles_keywords+['zelensky:0.4505', 'lego:0.4249', 'refugees:0.2911', 'figures:0.2179', 'released:0.161']"
+        ]
+    ],
+    "USA+RUS+36":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/newsweek.com/Joe Biden to Speak With Chinas Xi About Ukraine After Russia Asks For Help.txt+eventbasecode36+eventcode36+avgtone0.4732142857142857+goldsteinscale0.7+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['putin:0.4158', 'biden:0.3557', 'conflict:0.3092', 'invade:0.2671', 'meeting:0.244', 'shanghai:0.2212', 'adviser:0.2172', 'politico:0.2171', 'mutual:0.2017', 'speak:0.2002', 'understand:0.1756', 'jinping:0.1684', 'news:0.1636', 'report:0.1627', 'response:0.1607', 'security:0.1551', 'ammunition:0.1503', 'cite:0.1485', 'unnamed:0.1434', 'monday:0.143', 'care:0.1411', 'instead:0.1296', 'asks:0.1184', 'follow:0.1054', 'world:0.1025', 'request:0.0947', 'states:0.094', 'line:0.0687', 'house:0.0332', 'really:0.0276']+titles_keywords+['biden:0.4475', 'ukraine:0.2918', 'speak:0.256', 'xi:0.1907', 'help:0.1121']"
+        ]
+    ]
+}

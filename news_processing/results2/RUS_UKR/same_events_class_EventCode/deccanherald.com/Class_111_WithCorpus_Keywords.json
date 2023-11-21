@@ -1,0 +1,22 @@
+{
+    "CHN+RUS+111":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Ukraine calls on China to condemn Russian barbarism.txt+eventbasecode111+eventcode111+avgtone0.45355191256830596+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.006578947368421052+news_keywords+['ukraine:0.4875', 'putin:0.4803', 'war:0.3493', 'beijing:0.309', 'biden:0.277', 'attack:0.271', 'warn:0.239', 'barbarism:0.2282', 'coalition:0.212', 'condemn:0.2116', 'implication:0.2024', 'conduct:0.199', 'security:0.1894', 'meet:0.1828', 'twitter:0.1746', 'xi:0.1703', 'jinping:0.1683', 'element:0.154', 'podolyak:0.152', 'global:0.1491', 'shortly:0.1397', 'stay:0.1354', 'backing:0.1324', 'important:0.1313', 'winter:0.1276', 'west:0.1264', 'aide:0.1101', 'right:0.1064', 'house:0.0875', 'white:0.0872']+titles_keywords+['ukraine:0.4821', 'russian:0.3621', 'barbarism:0.2848', 'condemn:0.1947', 'calls:0.065']"
+        ]
+    ],
+    "DEU+RUS+111":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Macron and Putin to talk as Ukraine front line grows more volatile.txt+eventbasecode111+eventcode111+avgtone0.4698879551820728+goldsteinscale0.4+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.09868421052631579+news_keywords+['ukraine:0.497', 'putin:0.4874', 'ceasefire:0.4398', 'nato:0.4369', 'macron:0.3515', 'separatist:0.2971', 'appeasement:0.2939', 'rhetoric:0.2682', 'journalist:0.2604', 'incursion:0.2563', 'border:0.2521', 'predict:0.2365', 'concern:0.2209', 'respond:0.2027', 'reiterate:0.1962', 'visit:0.1951', 'leave:0.1898', 'timeframes:0.1837', 'information:0.1814', 'avert:0.1794', 'monday:0.1733', 'general:0.1607', 'end:0.1447', 'dmytro:0.1364', 'men:0.1304', 'false:0.1273', 'exercise:0.1154', 'metre:0.0965', 'hundreds:0.0895', 'price:0.0397']+titles_keywords+['macron:0.4214', 'ukraine:0.3204', 'talk:0.3022', 'line:0.123', 'volatile:0.0921']"
+        ]
+    ],
+    "RUS+RUS+111":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/deccanherald.com/India subtly changes stance on Ukraine crisis joins Japan to assess broader implications in IndoPacific.txt+eventbasecode111+eventcode111+avgtone0.48329048843187655+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.013157894736842105+news_keywords+['ukraine:0.445', 'diplomacy:0.4328', 'indo:0.3305', 'nuclear:0.2607', 'cybersecurity:0.2469', 'jpy:0.2326', 'convene:0.2088', 'argue:0.1971', 'implication:0.192', 'order:0.1805', 'acknowledge:0.1759', 'journalist:0.1735', 'emphasize:0.1728', 'read:0.1713', 'world:0.1689', 'hikariko:0.1687', 'maritime:0.1665', 'change:0.1661', 'invest:0.1644', 'navigation:0.1644', 'include:0.1619', 'brief:0.161', 'immediate:0.1609', 'issue:0.148', 'scene:0.1438', 'biden:0.1432', 'difference:0.1425', 'rs:0.1206', 'parallel:0.1187', 'agree:0.0947']+titles_keywords+['ukraine:0.3597', 'indopacific:0.2681', 'implications:0.2133', 'stance:0.1488', 'subtly:0.1217']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Do sanctions ever work Could they stop Russias invasion of Ukraine.txt+eventbasecode111+eventcode111+avgtone0.46824596774193544+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['sanctions:0.5417', 'sanction:0.5377', 'ukraine:0.3568', 'impose:0.3485', 'unilaterally:0.31', 'government:0.2687', 'block:0.2647', 'action:0.2594', 'prevent:0.2512', 'condemn:0.229', 'implement:0.2227', 'diplomatic:0.2091', 'oligarch:0.1963', 'invasion:0.188', 'causality:0.1799', 'occur:0.1782', 'consolidate:0.163', 'cryptocurrency:0.1587', 'ransomware:0.1504', 'read:0.1265', 'filter:0.1171', 'multidimensional:0.1052', 'sberbank:0.0914', 'incoming:0.0903', 'particular:0.0763', 'short:0.0687', 'exactly:0.0668', 'freezes:0.0547', 'define:0.0489', 'far:0.0286']+titles_keywords+['sanctions:0.5363', 'ukraine:0.3674', 'invasion:0.2245', 'stop:0.1434', 'work:0.0889']"
+        ]
+    ]
+}

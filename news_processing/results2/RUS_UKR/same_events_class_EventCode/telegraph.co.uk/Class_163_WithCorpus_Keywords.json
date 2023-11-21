@@ -1,0 +1,22 @@
+{
+    "DEU+RUS+163":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Friday morning news briefing Vladimir Putins race to Kyiv.txt+eventbasecode163+eventcode163+avgtone0.47896039603960394+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4949', 'kyiv:0.4833', 'oligarchs:0.3797', 'briefing:0.3421', 'correspondent:0.3377', 'threat:0.3115', 'economic:0.2733', 'overthrow:0.2546', 'households:0.2539', 'apocalyptic:0.251', 'british:0.2454', 'table:0.2404', 'report:0.2304', 'dispatch:0.2215', 'enter:0.2171', 'snobbery:0.2148', 'covid:0.209', 'extend:0.1974', 'read:0.1963', 'boy:0.183', 'daily:0.1791', 'june:0.1707', 'sources:0.1624', 'soar:0.1544', 'cope:0.1519', 'rothwell:0.1511', 'head:0.15', 'track:0.1411', 'mendick:0.1362', 'possible:0.0824']+titles_keywords+['kyiv:0.541', 'putins:0.4687', 'briefing:0.4113', 'news:0.332', 'race:0.2398']"
+        ]
+    ],
+    "EUR+RUS+163":[
+        [
+            "20220423+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/What Marine Le Pens election could mean for Nato and Ukraine.txt+eventbasecode163+eventcode163+avgtone0.4793650793650794+goldsteinscale0.1+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['election:0.4286', 'natos:0.4138', 'macron:0.4068', 'kremlin:0.3815', 'baltic:0.3363', 'diplomacy:0.3241', 'embargo:0.3218', 'france:0.2996', 'threat:0.2987', 'pen:0.2868', 'annexation:0.2686', 'rapprochement:0.2628', 'volodymyr:0.204', 'oppose:0.1984', 'marine:0.1887', 'le:0.1554', 'follow:0.1536', 'soon:0.151', 'unsatisfactory:0.1499', 'explain:0.1459', 'long:0.1392', 'flank:0.1382', 'measure:0.138', 'altogether:0.1349', 'structure:0.1338', 'make:0.1311', 'right:0.127', 'hari:0.1267', 'unity:0.0935', 'major:0.0813']+titles_keywords+['nato:0.5244', 'election:0.3657', 'ukraine:0.3629', 'pens:0.252', 'le:0.1983']"
+        ]
+    ],
+    "RUS+RUS+163":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Russian planes and rockets risk being grounded by Lloyds of London ban.txt+eventbasecode163+eventcode163+avgtone0.4633569739952719+goldsteinscale0.1+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['insurance:0.4013', 'kremlin:0.3599', 'vladimir:0.3388', 'risk:0.3346', 'kazakhstan:0.3315', 'airlines:0.3119', 'lloyds:0.3116', 'airspace:0.2862', 'catastrophic:0.2455', 'worldwide:0.2307', 'sanction:0.2139', 'cosmodrome:0.2134', 'restriction:0.2032', 'financier:0.2016', 'warn:0.2005', 'launch:0.1978', 'industry:0.1955', 'collateral:0.1855', 'future:0.1716', 'plan:0.1659', 'carrier:0.1495', 'asset:0.1355', 'term:0.128', 'capacity:0.1233', 'say:0.1151', 'cause:0.1049', 'unlikely:0.0799', 'independently:0.0726', 'add:0.0638', 'especially:0.0538']+titles_keywords+['lloyds:0.3879', 'russian:0.2987', 'ban:0.2782', 'planes:0.2643', 'risk:0.1613']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Vladimir Putins commanders will be hunted down for war crimes says Dominic Raab.txt+eventbasecode163+eventcode163+avgtone0.467479674796748+goldsteinscale0.1+nummentions0.013425253991291727+numarticles0.014140681653372008+numsources0.013157894736842105+news_keywords+['putin:0.5318', 'karadzic:0.4365', 'ukraine:0.4179', 'impunity:0.3736', 'investigation:0.3719', 'tribunal:0.3266', 'government:0.3058', 'war:0.284', 'telegraph:0.2691', 'paralympic:0.265', 'proceed:0.2252', 'uk:0.2249', 'crony:0.2194', 'agreement:0.2161', 'cite:0.2112', 'dorries:0.2098', 'volodymyr:0.2043', 'intercept:0.2021', 'capability:0.1906', 'secretary:0.1867', 'know:0.1753', 'nuremberg:0.1689', 'list:0.1654', 'mr:0.1434', 'view:0.1433', 'term:0.1429', 'cell:0.1277', 'raab:0.125', 'really:0.0893', 'possible:0.0801']+titles_keywords+['putins:0.392', 'raab:0.3484', 'commanders:0.2992', 'hunted:0.2101', 'crimes:0.1995']"
+        ]
+    ]
+}

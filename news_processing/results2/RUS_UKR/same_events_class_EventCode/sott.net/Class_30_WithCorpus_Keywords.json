@@ -1,0 +1,12 @@
+{
+    "RUS+FIN+30":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/sott.net/Ukraine War Russia warns Sweden and Finland against NATO membership.txt+eventbasecode30+eventcode30+avgtone0.4988610478359909+goldsteinscale0.7+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nato:0.5561', 'ukraine:0.4324', 'kremlin:0.3566', 'helsinki:0.331', 'invade:0.3087', 'dmitry:0.2683', 'troop:0.2469', 'threat:0.2381', 'join:0.2128', 'bloc:0.2004', 'stability:0.1961', 'democratic:0.1948', 'enlargement:0.1811', 'oppose:0.179', 'future:0.1615', 'mps:0.1409', 'plan:0.1349', 'flank:0.1312', 'secretary:0.1219', 'long:0.1197', 'counter:0.1182', 'step:0.1038', 'rebalance:0.1008', 'complete:0.0942', 'make:0.0916', 'boost:0.0901', 'week:0.0783', 'review:0.0492', 'potentially:0.0478', 'agree:0.0331']+titles_keywords+['nato:0.4648', 'ukraine:0.4548', 'war:0.2934', 'warns:0.1677', 'membership:0.0646']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220805+../news_crawling/RUS_UKR/p_articles/sott.net/Needles of hope in the Ukraine war haystack.txt+eventbasecode30+eventcode30+avgtone0.48251748251748255+goldsteinscale0.7+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4574', 'ceasefire:0.4249', 'diplomacy:0.4033', 'nato:0.3625', 'zelenskiy:0.2332', 'telegram:0.2316', 'east:0.2283', 'future:0.2259', 'facilitate:0.21', 'combine:0.2061', 'winter:0.2', 'end:0.1944', 'akribis:0.1893', 'russo:0.1861', 'analyst:0.173', 'foes:0.1725', 'stage:0.1711', 'renewal:0.1674', 'breakthrough:0.1583', 'shall:0.1551', 'catastrophic:0.1541', 'draw:0.1486', 'fourth:0.1474', 'weapon:0.1404', 'overreaction:0.1273', 'corr:0.1214', 'far:0.1014', 'edu:0.0968', 'agree:0.0947', 'export:0.0905']+titles_keywords+['ukraine:0.4756', 'war:0.3596', 'hope:0.3178', 'haystack:0.2619', 'needles:0.2356']"
+        ]
+    ]
+}

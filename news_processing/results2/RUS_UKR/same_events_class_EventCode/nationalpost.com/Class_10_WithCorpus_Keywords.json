@@ -1,0 +1,12 @@
+{
+    "RUS+BEL+10":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/nationalpost.com/Ukraines president says thousands have been killed in besieged Mariupol.txt+eventbasecode10+eventcode10+avgtone0.4705882352941177+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraines:0.5015', 'russian:0.4113', 'zelenskiy:0.3915', 'kill:0.3259', 'humanitarian:0.2834', 'volodymyr:0.2533', 'thousand:0.2476', 'know:0.2179', 'besiege:0.2113', 'catastrophe:0.2043', 'people:0.2041', 'president:0.2035', 'mariupol:0.1966', 'siege:0.1928', 'strategic:0.1734', 'lively:0.1411', 'city:0.134', 'story:0.1323', 'hour:0.1265', 'port:0.1226', 'view:0.1153', 'notificationsyou:0.115', 'follow:0.1145', 'junk:0.1142', 'link:0.1126', 'daily:0.1107', 'check:0.1033', 'sign:0.0944', 'way:0.0821', 'adjust:0.0543']+titles_keywords+['ukraines:0.349', 'thousands:0.2886', 'besieged:0.2399', 'president:0.2027', 'mariupol:0.202']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/nationalpost.com/Why is Russias Putin drawing red lines over Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4896049896049896+goldsteinscale0.5+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.518', 'tsar:0.4743', 'geopolitical:0.4224', 'putins:0.4194', 'revolution:0.2803', 'separatist:0.2796', 'treaty:0.2767', 'essay:0.2175', 'provocation:0.2084', 'eastward:0.2069', 'capital:0.179', 'unite:0.174', 'pipeline:0.1529', 'continue:0.151', 'biden:0.1496', 'prepare:0.1426', 'speak:0.1258', 'update:0.1161', 'long:0.1159', 'devote:0.115', 'date:0.1141', 'draw:0.1002', 'flashpoint:0.0926', 'th:0.0843', 'sphere:0.0803', 'look:0.0777', 'tragic:0.0659', 'junk:0.0643', 'reassert:0.0503', 'welcome:0.0389']+titles_keywords+['putin:0.5102', 'russias:0.3583', 'lines:0.3291', 'red:0.2662', 'drawing:0.2053']"
+        ]
+    ]
+}

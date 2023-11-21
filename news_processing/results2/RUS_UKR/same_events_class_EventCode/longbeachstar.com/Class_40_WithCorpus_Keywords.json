@@ -1,0 +1,20 @@
+{
+    "BEL+RUS+40":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/France ready to assist Ukraine with military equipment says Ukraine Foreign Minister.txt+eventbasecode40+eventcode40+avgtone0.4932203389830508+goldsteinscale0.55+nummentions0.026850507982583455+numarticles0.02755620014503263+numsources0.039473684210526314+news_keywords+['nato:0.5252', 'russia:0.4289', 'kiev:0.3543', 'treaty:0.3494', 'invasion:0.2419', 'sanction:0.2286', 'yves:0.215', 'defend:0.214', 'assistance:0.1931', 'supply:0.186', 'introduce:0.1838', 'friday:0.1723', 'furthermore:0.171', 'biden:0.1659', 'ready:0.1643', 'counterpart:0.1613', 'keiv:0.1608', 'join:0.1538', 'telephonic:0.1461', 'brief:0.1448', 'banking:0.1425', 'breakaway:0.1422', 'seek:0.1336', 'tweet:0.1251', 'swift:0.1153', 'strong:0.1127', 'ani:0.1031', 'dmytro:0.0926', 'hour:0.0819', 'agree:0.0805']+titles_keywords+['ukraine:0.3599', 'equipment:0.1877', 'military:0.1839', 'ready:0.1583', 'assist:0.15']"
+        ]
+    ],
+    "RUS+TUR+40":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/Russian Ukrainian foreign ministers meet in Turkey media.txt+eventbasecode40+eventcode40+avgtone0.5057142857142857+goldsteinscale0.55+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.01644736842105263+news_keywords+['ukraine:0.4282', 'kremlin:0.3991', 'dmitry:0.3973', 'meeting:0.3673', 'peskov:0.3287', 'turkish:0.2928', 'negotiation:0.289', 'talk:0.2546', 'kuleba:0.2416', 'peace:0.2114', 'xinhua:0.189', 'capital:0.1871', 'minister:0.184', 'delegation:0.1838', 'dmytro:0.1695', 'antalya:0.1568', 'report:0.1453', 'counterpart:0.1274', 'say:0.1271', 'resort:0.1252', 'military:0.1186', 'important:0.1128', 'process:0.0993', 'separate:0.0917', 'schedule:0.0883', 'medium:0.0874', 'follow:0.0676', 'mevlut:0.065', 'end:0.0641', 'feb:0.0588']+titles_keywords+['ukrainian:0.3937', 'turkey:0.3293', 'meet:0.1935', 'ministers:0.1828', 'media:0.1134']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220119+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/US must abandon plans to supply arms to Ukraine Russian Embassy.txt+eventbasecode40+eventcode40+avgtone0.46696035242290745+goldsteinscale0.55+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.01644736842105263+news_keywords+['ukraine:0.4031', 'diplomatic:0.3126', 'invade:0.2937', 'conflict:0.2867', 'escalation:0.2782', 'pentagon:0.2595', 'troop:0.2311', 'supply:0.2209', 'agreement:0.2002', 'instead:0.1998', 'plan:0.1891', 'border:0.1785', 'donbas:0.174', 'abandon:0.1718', 'weapon:0.1688', 'anisputnik:0.166', 'end:0.1507', 'refuse:0.1465', 'intra:0.1441', 'push:0.1407', 'speak:0.1329', 'state:0.124', 'january:0.1077', 'include:0.0939', 'resolution:0.0863', 'practice:0.0797', 'hothead:0.0694', 'ranking:0.0481', 'house:0.0422', 'new:0.0368']+titles_keywords+['ukraine:0.3792', 'embassy:0.3055', 'abandon:0.2739', 'supply:0.2001', 'arms:0.1413']"
+        ],
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/UN UnderSecretaryGeneral to visit Moscow Kyiv to discuss Ukraine situation.txt+eventbasecode40+eventcode40+avgtone0.4948979591836735+goldsteinscale0.55+nummentions0.2757619738751814+numarticles0.27483683828861494+numsources0.3223684210526316+news_keywords+['kyiv:0.4304', 'humanitarian:0.4235', 'ukraine:0.4116', 'ceasefire:0.4066', 'visit:0.2901', 'envoy:0.2679', 'affairs:0.2219', 'secretary:0.2197', 'griffiths:0.2139', 'undersecretarygeneral:0.1794', 'conference:0.1776', 'guterres:0.1702', 'martin:0.1702', 'york:0.1653', 'pursue:0.1627', 'anisputnik:0.1525', 'antonio:0.1502', 'general:0.1432', 'ongoing:0.1369', 'situation:0.1285', 'discus:0.1276', 'say:0.1255', 'april:0.1225', 'special:0.1174', 'press:0.1115', 'fly:0.1069', 'friday:0.105', 'potential:0.0802', 'ask:0.0772', 'new:0.059']+titles_keywords+['kyiv:0.4711', 'ukraine:0.4086', 'undersecretarygeneral:0.3253', 'visit:0.194', 'situation:0.0773']"
+        ]
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "DEU+RUS+10":[
+        [
+            "20220423+../news_crawling/RUS_UKR/p_articles/sott.net/Spinmeister Germanys Scholz explains why it opposes Russia gas embargo.txt+eventbasecode10+eventcode10+avgtone0.46688741721854304+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4044', 'putin:0.4038', 'embargo:0.3967', 'gas:0.3242', 'pipeline:0.2925', 'economy:0.2851', 'spiegel:0.2359', 'reuterschristian:0.2203', 'global:0.1987', 'consequence:0.1964', 'avoid:0.1911', 'cite:0.1838', 'yellen:0.1696', 'rehden:0.1638', 'argue:0.1629', 'import:0.1516', 'expect:0.1419', 'happen:0.1336', 'spinmeister:0.1301', 'good:0.1298', 'enable:0.1236', 'firstly:0.1207', 'dramatic:0.1186', 'explain:0.1184', 'diversify:0.1119', 'pretext:0.1', 'terminal:0.0866', 'cost:0.074', 'friday:0.0721', 'loebafpgetty:0.0309']+titles_keywords+['scholz:0.4305', 'embargo:0.3444', 'opposes:0.2975', 'germanys:0.2955', 'gas:0.2916']"
+        ]
+    ],
+    "EUR+RUS+10":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/sott.net/Russia comments on normalization of ties with West.txt+eventbasecode10+eventcode10+avgtone0.48819742489270385+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.4425', 'putin:0.4239', 'moscow:0.3717', 'diplomat:0.2938', 'sanction:0.279', 'eastward:0.2764', 'european:0.2469', 'agreement:0.2145', 'economic:0.2115', 'normalize:0.1952', 'introduce:0.1928', 'union:0.1732', 'neutral:0.1679', 'know:0.1633', 'territory:0.1609', 'structure:0.1581', 'term:0.1581', 'argue:0.1581', 'end:0.155', 'follow:0.1347', 'note:0.1254', 'clear:0.1248', 'behavior:0.1172', 'problem:0.1146', 'donbass:0.1115', 'month:0.1067', 'measure:0.0985', 'freezing:0.0748', 'gut:0.0563', 'hardware:0.0237']+titles_keywords+['russia:0.3685', 'normalization:0.2619', 'west:0.1436', 'comments:0.106', 'ties:0.0246']"
+        ]
+    ],
+    "FRA+UKR+10":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/sott.net/France seemingly involved with Ukrainian banderites.txt+eventbasecode10+eventcode10+avgtone0.48391812865497075+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4745', 'troop:0.412', 'infiltrate:0.3293', 'nazi:0.3187', 'azov:0.2775', 'french:0.2596', 'helicopter:0.2546', 'banderites:0.2542', 'involved:0.2405', 'source:0.2383', 'history:0.2355', 'operation:0.2344', 'territorial:0.2272', 'armed:0.2199', 'report:0.2089', 'torture:0.2006', 'news:0.1967', 'whitewash:0.194', 'macron:0.1808', 'dmytro:0.1687', 'assurance:0.1648', 'march:0.1447', 'andriy:0.1389', 'explain:0.1382', 'issue:0.131', 'attempt:0.1266', 'matter:0.1131', 'directly:0.1042', 'far:0.08', 'seemingly:0.0669']+titles_keywords+['ukrainian:0.4153', 'france:0.3997', 'banderites:0.2967', 'involved:0.2673', 'seemingly:0.1163']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/sott.net/Russian military explains actions near Ukrainian capital.txt+eventbasecode10+eventcode10+avgtone0.4989561586638831+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kiev:0.4532', 'kremlin:0.419', 'nato:0.4033', 'peskov:0.3274', 'troop:0.2865', 'operation:0.283', 'attack:0.2589', 'territory:0.2518', 'unprovoked:0.2156', 'negotiator:0.2134', 'formulate:0.2093', 'medinsky:0.196', 'donbass:0.1906', 'neutral:0.1905', 'stage:0.1737', 'supply:0.1716', 'long:0.1694', 'explain:0.1682', 'direction:0.1636', 'hold:0.1554', 'regroup:0.1515', 'eventual:0.1513', 'follow:0.145', 'state:0.1426', 'main:0.132', 'february:0.121', 'fact:0.1006', 'include:0.0918', 'regularize:0.058', 'agree:0.046']+titles_keywords+['ukrainian:0.4076', 'military:0.309', 'capital:0.2717', 'explains:0.1545', 'near:0.1391']"
+        ],
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/sott.net/Russian governor explains blasts near Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4782608695652174+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kiev:0.4569', 'kremlin:0.4406', 'gladkov:0.4003', 'russian:0.3766', 'explosion:0.3533', 'nato:0.3328', 'attack:0.2969', 'investigative:0.2646', 'unprovoked:0.262', 'casualty:0.2607', 'belgorod:0.2562', 'territory:0.2496', 'military:0.244', 'governor:0.2199', 'breakaway:0.2158', 'write:0.192', 'reassure:0.1862', 'bloc:0.1675', 'telegram:0.1637', 'result:0.1623', 'explain:0.159', 'citing:0.1502', 'term:0.1495', 'lead:0.1478', 'flown:0.1447', 'neutral:0.1353', 'like:0.1189', 'early:0.1184', 'numerous:0.0769', 'true:0.0653']+titles_keywords+['ukraine:0.4042', 'blasts:0.377', 'governor:0.2829', 'explains:0.1472', 'near:0.0875']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/sott.net/Terrorist bombing of govt building in breakaway Transnistria region Russia says situation is concerning.txt+eventbasecode10+eventcode10+avgtone0.46570397111913353+goldsteinscale0.5+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.009868421052631578+news_keywords+['kremlin:0.4955', 'ukraine:0.4637', 'moldovan:0.424', 'transnistria:0.4023', 'terrorist:0.398', 'peacekeeping:0.3558', 'explosion:0.3282', 'govt:0.3275', 'peskov:0.3184', 'occur:0.2847', 'attack:0.2808', 'tiraspol:0.2784', 'casualty:0.2547', 'border:0.2529', 'independence:0.2366', 'locate:0.2264', 'urgent:0.2162', 'breakaway:0.2104', 'targets:0.2021', 'know:0.1849', 'build:0.1651', 'data:0.1499', 'pmr:0.1491', 'april:0.1417', 'declare:0.1414', 'radio:0.1337', 'middle:0.113', 'small:0.1075', 'largely:0.0861', 'dniester:0.0776']+titles_keywords+['russia:0.4004', 'bombing:0.3815', 'transnistria:0.3193', 'breakaway:0.1688', 'says:0.0602']"
+        ]
+    ]
+}

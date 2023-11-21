@@ -1,0 +1,50 @@
+{
+    "CHN+RUS+172":[
+        [],
+        []
+    ],
+    "DEU+RUS+172":[
+        []
+    ],
+    "EUR+RUS+172":[
+        [],
+        []
+    ],
+    "HUN+RUS+172":[
+        [
+            "20220506+../news_crawling/RUS_UKR/p_articles/msn.com/Ukraine officials warn of offensive Biden announces 150m more in aid May 6 recap.txt+eventbasecode172+eventcode172+avgtone0.4892550143266476+goldsteinscale0.25+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.013157894736842105+news_keywords+['ukrainiandefense:0.5539', 'putin:0.4146', 'war:0.3907', 'russias:0.3721', 'disinformation:0.2869', 'pentagon:0.2866', 'evacuate:0.2841', 'news:0.247', 'tank:0.2374', 'worry:0.2348', 'talksduring:0.2259', 'plan:0.2232', 'biden:0.2183', 'thursday:0.2085', 'funding:0.2083', 'reinforce:0.2048', 'recap:0.2039', 'salute:0.1885', 'understand:0.1858', 'refer:0.1772', 'ready:0.1766', 'additional:0.1613', 'receive:0.1427', 'say:0.1413', 'allow:0.1405', 'counteroffensive:0.1399', 'resume:0.1321', 'nearly:0.1211', 'andriy:0.1159', 'thank:0.1049']+titles_keywords+['biden:0.363', 'ukraine:0.3536', 'aid:0.2735', 'warn:0.2432', '150m:0.2077']"
+        ]
+    ],
+    "RUS+EUR+172":[
+        [],
+        [
+            "20220720+../news_crawling/RUS_UKR/p_articles/msn.com/EU pushes back against claims Russian oil ban is hiking prices.txt+eventbasecode172+eventcode172+avgtone0.4862236628849271+goldsteinscale0.25+nummentions0.00725689404934688+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['oil:0.3832', 'kremlin:0.3464', 'ban:0.2855', 'eu:0.2832', 'bloc:0.2502', 'backfire:0.2099', 'plan:0.1845', 'brent:0.172', 'introduce:0.1693', 'decrease:0.1637', 'midterm:0.1629', 'pre:0.1593', 'biden:0.1562', 'claim:0.1536', 'guaranteeingstable:0.1511', 'board:0.1504', 'concern:0.1497', 'feasibility:0.1466', 'month:0.1435', 'entire:0.1301', 'treasury:0.1298', 'price:0.1263', 'cap:0.1249', 'non:0.124', 'powerful:0.1205', 'theprovision:0.1176', 'factually:0.1069', 'state:0.0845', 'benchmark:0.0822', 'enjoy:0.0403']+titles_keywords+['eu:0.3169', 'oil:0.2926', 'ban:0.2187', 'prices:0.1523', 'hiking:0.0471']"
+        ]
+    ],
+    "RUS+UKR+172":[
+        [],
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/msn.com/RussiaUkraine live updates Russia responds to Poland offering jets to help Ukraine.txt+eventbasecode172+eventcode172+avgtone0.4821192052980133+goldsteinscale0.25+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.023026315789473683+news_keywords+['ukraine:0.5015', 'kremlin:0.4245', 'nato:0.4049', 'ceasefire:0.3714', 'invade:0.3276', 'evacuate:0.3213', 'military:0.2798', 'zelenskyy:0.2777', 'threat:0.2407', 'radioactive:0.217', 'import:0.2161', 'update:0.2094', 'capital:0.1913', 'reposition:0.1907', 'incoming:0.1855', 'information:0.1705', 'order:0.1695', 'immediately:0.1688', 'biden:0.1649', 'additional:0.1641', 'grid:0.1637', 'longer:0.1435', 'nearly:0.1421', 'tweet:0.1377', 'wolters:0.1375', 'end:0.1322', 'feb:0.1305', 'track:0.1097', 'million:0.0899', 'agree:0.0743']+titles_keywords+['ukraine:0.4523', 'updates:0.2313', 'offering:0.1508', 'jets:0.148', 'live:0.0845']"
+        ]
+    ],
+    "UKR+EUR+172":[
+        []
+    ],
+    "UKR+RUS+172":[
+        [],
+        [],
+        [],
+        [],
+        [
+            "20220515+../news_crawling/RUS_UKR/p_articles/msn.com/Eurovision Song Contest 2022 Grand Final results Ukraine wins with UK finishing second place.txt+eventbasecode172+eventcode172+avgtone0.5039840637450199+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['eurovision:0.6113', 'ukraines:0.4055', 'finland:0.2808', 'sang:0.2522', 'final:0.2516', 'stage:0.1897', 'frontmans:0.1738', 'stefan:0.1582', 'stay:0.1553', 'track:0.1507', 'boys:0.1507', 'leaderboard:0.1504', 'performance:0.1316', 'emotional:0.1153', 'catchy:0.1112', 'stunning:0.1062', 'represent:0.1052', 'jury:0.1027', 'space:0.101', 'version:0.1', 'dress:0.0822', 'unassailable:0.0777', 'news:0.0685', 'strobe:0.0576', 'synchronise:0.0558', 'added:0.0532', 'receive:0.051', 'ahez:0.0335', 'norton:0.0125', 'seemingly:0.0093']+titles_keywords+['eurovision:0.5222', 'ukraine:0.4045', 'results:0.3475', 'second:0.2304', '2022:0.1801']"
+        ]
+    ],
+    "USA+RUS+172":[
+        []
+    ],
+    "WST+RUS+172":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/msn.com/NATO to begin training of troops close to Russian border in Norway.txt+eventbasecode172+eventcode172+avgtone0.5+goldsteinscale0.25+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.009868421052631578+news_keywords+['natos:0.6015', 'russia:0.3762', 'treaty:0.3365', 'military:0.313', 'kyiv:0.2873', 'reinforcement:0.2673', 'invasion:0.2637', 'expand:0.26', 'exercise:0.2519', 'border:0.2518', 'neighbouring:0.2292', 'norwegian:0.2083', 'ally:0.1815', 'test:0.1754', 'plan:0.164', 'defence:0.1615', 'align:0.1495', 'kilometre:0.1412', 'begin:0.1359', 'article:0.1319', 'observer:0.1292', 'require:0.1262', 'help:0.1205', 'week:0.1131', 'line:0.1083', 'decline:0.1064', 'close:0.0944', 'significance:0.0908', 'state:0.0902', 'send:0.0888']+titles_keywords+['nato:0.4119', 'norway:0.3295', 'training:0.2857', 'begin:0.0871', 'close:0.055']"
+        ]
+    ]
+}

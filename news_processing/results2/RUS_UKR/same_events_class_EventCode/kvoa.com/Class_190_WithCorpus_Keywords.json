@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/kvoa.com/Ukraine says 300 died in theater attack hunger grips cities.txt+eventbasecode190+eventcode190+avgtone0.41176470588235303+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5279', 'putin:0.4584', 'nato:0.4329', 'russian:0.4071', 'airstrike:0.4028', 'vladimir:0.3927', 'war:0.3736', 'kill:0.3384', 'unprovoked:0.3333', 'attack:0.2928', 'allegation:0.2212', 'theater:0.2188', 'civilian:0.2157', 'crime:0.2134', 'indiscriminate:0.1935', 'say:0.1801', 'illogical:0.1705', 'barbarian:0.1647', 'people:0.1544', 'authority:0.141', 'open:0.1304', 'ap:0.121', 'official:0.1155', 'short:0.115', 'earlier:0.1037', 'estimate:0.0919', 'fuel:0.0861', 'mariupol:0.0708', 'week:0.0417', 'grip:0.0211']+titles_keywords+['ukraine:0.4328', 'hunger:0.3161', 'attack:0.2703', '300:0.2446', 'says:0.1012']"
+        ]
+    ],
+    "UKR+UKR+190":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/kvoa.com/Russian forces escalate attacks on Ukraines civilian areas.txt+eventbasecode190+eventcode190+avgtone0.4390243902439025+goldsteinscale0.0+nummentions0.33708272859216254+numarticles0.33756345177664976+numsources0.39473684210526316+news_keywords+['kyiv:0.5592', 'ukraines:0.4743', 'kremlin:0.4668', 'russian:0.4158', 'invasion:0.3227', 'terror:0.2972', 'escalate:0.2936', 'kill:0.2664', 'tank:0.2289', 'strategic:0.2032', 'civilian:0.1706', 'forget:0.1686', 'accuse:0.1678', 'region:0.1636', 'order:0.1585', 'urban:0.1572', 'tv:0.1535', 'president:0.1455', 'people:0.1437', 'main:0.1426', 'populate:0.137', 'big:0.132', 'isolate:0.1303', 'shake:0.1294', 'tuesday:0.1281', 'building:0.1222', 'century:0.106', 'ap:0.1035', 'world:0.0986', 'blatant:0.0789']+titles_keywords+['ukraines:0.4016', 'russian:0.3131', 'attacks:0.3088', 'escalate:0.2475', 'civilian:0.2102']"
+        ]
+    ]
+}

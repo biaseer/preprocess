@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+73":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/sana.sy/More than 16 million refugees from Donbass and Ukraine arrive in Russia.txt+eventbasecode73+eventcode73+avgtone0.4854368932038835+goldsteinscale0.8699999999999999+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['refugee:0.4998', 'ukraine:0.4468', 'russian:0.3963', 'donetsk:0.382', 'moscow:0.3784', 'million:0.2439', 'arrive:0.2362', 'border:0.2242', 'rt:0.2205', 'number:0.2082', 'military:0.1892', 'emergency:0.1875', 'child:0.1809', 'people:0.1774', 'cross:0.164', 'republic:0.1425', 'donbass:0.1368', 'operation:0.1271', 'begin:0.1166', 'hour:0.1031', 'service:0.0838', 'announce:0.0637', 'add:0.0503', 'sana:0.049', 'special:0.0458', 'include:0.0456', 'today:0.0425', 'website:0.0341', 'spokesman:0.0006', 'quote:-0.0147']+titles_keywords+['refugees:0.5139', 'ukraine:0.369', 'million:0.2544', 'arrive:0.1882', '16:0.1397']"
+        ]
+    ],
+    "RUS+UKR+73":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/sana.sy/Russia delivers 700 tons of humanitarian aid to Donbass and Ukraine residents.txt+eventbasecode73+eventcode73+avgtone0.5294117647058824+goldsteinscale0.8699999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.546', 'russia:0.469', 'moscow:0.4465', 'russian:0.4087', 'humanitarian:0.3762', 'aid:0.3187', 'rescue:0.3154', 'emergencies:0.3024', 'donbass:0.269', 'deliver:0.2218', 'region:0.2134', 'novosti:0.1915', 'delivers:0.1794', 'resident:0.1376', 'ria:0.1353', 'sana:0.1133', 'monday:0.0936', 'say:0.0777', 'agency:0.0603', 'ton:0.0431', 'ministry:0.0371', 'center:0.0312', 'statement:0.0181', 'quote:-0.0045']+titles_keywords+['ukraine:0.4107', 'aid:0.2861', '700:0.2271', 'delivers:0.2179', 'donbass:0.1955']"
+        ]
+    ]
+}

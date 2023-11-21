@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+130":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/ealingtimes.co.uk/Johnson fears Russian false flag action to discredit Ukraine ahead of invasion.txt+eventbasecode130+eventcode130+avgtone0.45842217484008524+goldsteinscale0.27999999999999997+nummentions0.08563134978229318+numarticles0.08629441624365482+numsources0.12171052631578948+news_keywords+['putin:0.4493', 'russias:0.3981', 'nato:0.3825', 'kyiv:0.3742', 'invasion:0.3726', 'diplomacy:0.3426', 'separatist:0.2876', 'flag:0.2711', 'pretext:0.2584', 'conflict:0.253', 'security:0.2192', 'british:0.2184', 'warn:0.1933', 'bloody:0.1798', 'kindergarten:0.176', 'raf:0.1714', 'false:0.1695', 'orchestrate:0.169', 'footage:0.1537', 'sit:0.1396', 'order:0.1356', 'imagine:0.1257', 'building:0.1246', 'withdraw:0.1243', 'step:0.1199', 'sure:0.1185', 'near:0.1151', 'increase:0.1049', 'end:0.1016', 'today:0.079']+titles_keywords+['ukraine:0.3349', 'flag:0.2786', 'invasion:0.2329', 'johnson:0.2171', 'false:0.1435']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/ealingtimes.co.uk/Ukraine officials come under shelling attack on front as invasion fears rise.txt+eventbasecode130+eventcode130+avgtone0.4641180415828303+goldsteinscale0.27999999999999997+nummentions0.3076923076923077+numarticles0.30819434372733867+numsources0.7203947368421053+news_keywords+['ukraine:0.4904', 'kremlin:0.412', 'invade:0.3488', 'evacuate:0.3468', 'escalation:0.3175', 'peaceful:0.3147', 'political:0.3017', 'mobilisation:0.2952', 'prepare:0.2858', 'military:0.2715', 'sinenkov:0.2708', 'news:0.2675', 'nuclear:0.257', 'justify:0.2501', 'worry:0.2405', 'report:0.227', 'trouble:0.227', 'casualty:0.2254', 'know:0.2199', 'secretary:0.214', 'capital:0.2118', 'watch:0.2035', 'pretext:0.2004', 'order:0.195', 'industrial:0.1907', 'pledge:0.1892', 'pull:0.1853', 'final:0.1717', 'weekend:0.1607', 'separate:0.1576']+titles_keywords+['ukraine:0.3279', 'attack:0.2758', 'fears:0.2148', 'shelling:0.1761', 'officials:0.1504']"
+        ]
+    ]
+}

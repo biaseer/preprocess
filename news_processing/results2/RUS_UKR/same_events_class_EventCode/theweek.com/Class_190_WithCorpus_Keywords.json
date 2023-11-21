@@ -1,0 +1,17 @@
+{
+    "POL+RUS+190":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/theweek.com/Why Poland hasnt given Ukraine its MiG29 fighter jets to combat Russia despite US green.txt+eventbasecode190+eventcode190+avgtone0.49763033175355453+goldsteinscale0.0+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.003289473684210526+news_keywords+['nato:0.4758', 'ukrainian:0.3658', 'mig:0.3463', 'polishgovernment:0.3463', 'kremlin:0.3297', 'warfare:0.3185', 'zelensky:0.2611', 'strategic:0.2467', 'concern:0.2254', 'jet:0.2067', 'supply:0.2036', 'retaliation:0.1856', 'subject:0.1832', 'biden:0.1806', 'news:0.1786', 'timeline:0.1722', 'backlog:0.1617', 'promise:0.1605', 'spend:0.1444', 'decide:0.1442', 'look:0.1422', 'speak:0.1402', 'sure:0.1374', 'help:0.1297', 'right:0.1179', 'long:0.1134', 'weekendfor:0.1105', 'modernize:0.1101', 'state:0.0882', 'similar:0.0727']+titles_keywords+['ukraine:0.3476', 'mig29:0.3119', 'combat:0.1815', 'despite:0.1253', 'green:0.1001']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/theweek.com/War in Ukraine is a metaphysical battle against a civilization built on gay parades Russian.txt+eventbasecode190+eventcode190+avgtone0.48089171974522293+goldsteinscale0.0+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['orthodox:0.5804', 'putin:0.4504', 'ukrainians:0.4472', 'kyiv:0.4057', 'propaganda:0.3841', 'homosexuality:0.355', 'separatist:0.3096', 'war:0.2862', 'oppose:0.2838', 'sermon:0.201', 'western:0.1948', 'say:0.1884', 'world:0.1786', 'parade:0.1759', 'order:0.1687', 'sunday:0.1656', 'flock:0.1619', 'include:0.1612', 'prove:0.1591', 'example:0.1586', 'host:0.1574', 'expose:0.1552', 'donbas:0.1547', 'term:0.1519', 'kirill:0.1426', 'prepare:0.1382', 'majority:0.1289', 'embody:0.1083', 'basis:0.1026', 'minor:0.0627']+titles_keywords+['orthodox:0.4792', 'ukraine:0.3643', 'war:0.3536', 'metaphysical:0.166', 'says:0.0662']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/theweek.com/Ukrainian military intelligence says Russian general killed while fighting near Kharkiv.txt+eventbasecode190+eventcode190+avgtone0.4707792207792208+goldsteinscale0.0+nummentions0.0634978229317852+numarticles0.0630891950688905+numsources0.14473684210526316+news_keywords+['crimea:0.4475', 'chechnya:0.4207', 'sukhovetsky:0.4085', 'gerasimov:0.3856', 'kharkiv:0.3742', 'russian:0.365', 'andrei:0.3645', 'military:0.3149', 'general:0.284', 'kill:0.267', 'invasion:0.2297', 'operation:0.1966', 'annex:0.1874', 'fighting:0.1861', 'force:0.1302', 'old:0.0981', 'confirm:0.0974', 'near:0.085', 'intelligence:0.0826', 'begin:0.0751', 'city:0.0726', 'large:0.0724', 'associated:0.0715', 'feb:0.0666', 'th:0.0658', 'airborne:0.065', 'previously:0.0614', 'comment:0.0532', 'independently:0.0385', 'unable:0.0306']+titles_keywords+['kharkiv:0.3975', 'ukrainian:0.3604', 'military:0.2413', 'killed:0.1805', 'says:0.0764']"
+        ]
+    ]
+}

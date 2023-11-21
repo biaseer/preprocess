@@ -1,0 +1,28 @@
+{
+    "AUS+UKR+42":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Live updates Zelenskyy says train station strike was a war crime.txt+eventbasecode42+eventcode42+avgtone0.4865097588978186+goldsteinscale0.595+nummentions0.3472423802612482+numarticles0.3477157360406091+numsources0.3190789473684211+news_keywords+['kyiv:0.5016', 'putin:0.4595', 'zemlianichenko:0.3607', 'revolution:0.343', 'political:0.2729', 'announcement:0.2616', 'coordinate:0.2596', 'read:0.2578', 'kill:0.2465', 'row:0.2379', 'report:0.2289', 'foreseeable:0.2273', 'intercept:0.2251', 'troops:0.2246', 'allegation:0.2219', 'globemaster:0.2145', 'consolidate:0.2098', 'pandemic:0.2091', 'source:0.2028', 'shrapnel:0.1992', 'stem:0.1936', 'bucha:0.184', 'ford:0.182', 'shipbuilding:0.1811', 'longer:0.1744', 'vorontsova:0.1548', 'exactly:0.1503', 'import:0.1439', 'fully:0.134', 'sluggish:0.0854']+titles_keywords+['zelenskyy:0.4665', 'war:0.356', 'strike:0.3355', 'station:0.2121', 'says:0.0852']"
+        ]
+    ],
+    "CAN+UKR+42":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Canada relocates diplomatic staff in Ukraine foreign affairs minister.txt+eventbasecode42+eventcode42+avgtone0.4898876404494382+goldsteinscale0.595+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.5269', 'province:0.4533', 'ctvnews:0.4445', 'oilers:0.3906', 'trudeau:0.3903', 'canadas:0.3885', 'kitchener:0.3619', 'relocate:0.3562', 'rcmp:0.3556', 'government:0.3323', 'revolution:0.3285', 'diplomatic:0.3136', 'advisories:0.2926', 'invading:0.2899', 'recession:0.2433', 'modernize:0.2318', 'forward:0.2306', 'report:0.2304', 'swap:0.2288', 'catherine:0.2217', 'plan:0.2186', 'snowbank:0.2126', 'ford:0.2071', 'podium:0.1931', 'function:0.1684', 'statement:0.1457', 'head:0.1435', 'heater:0.1285', 'major:0.1211', 'zhao:0.1091']+titles_keywords+['ukraine:0.3835', 'relocates:0.326', 'diplomatic:0.241', 'minister:0.2054', 'staff:0.1625']"
+        ]
+    ],
+    "EUR+UKR+42":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Leaders pledge arms and EU path for Ukraine in Kyiv visit.txt+eventbasecode42+eventcode42+avgtone0.4858757062146893+goldsteinscale0.595+nummentions0.25217706821480407+numarticles0.2527193618564177+numsources0.3157894736842105+news_keywords+['ukraine:0.499', 'journalists:0.305', 'election:0.2949', 'podium:0.2822', 'change:0.2795', 'expand:0.2792', 'capital:0.2738', 'text:0.2724', 'pandemic:0.2685', 'information:0.2672', 'stem:0.2576', 'anticipate:0.2554', 'macron:0.251', 'monday:0.242', 'hemisphere:0.2349', 'bloc:0.2348', 'organizer:0.2278', 'agreement:0.2256', 'behead:0.222', 'trip:0.2216', 'geir:0.2098', 'meddling:0.2091', 'long:0.2038', 'symbolism:0.1956', 'murdaugh:0.1947', 'ready:0.1803', 'srdjan:0.1789', 'howitzer:0.1651', 'export:0.1579', 'regency:0.1555']+titles_keywords+['kyiv:0.4484', 'eu:0.2884', 'pledge:0.2873', 'leaders:0.252', 'arms:0.2421']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [],
+        [
+            "20220516+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/As Russia retreats from Kharkiv Ukrainians scavenge through remains.txt+eventbasecode42+eventcode42+avgtone0.47966101694915253+goldsteinscale0.595+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['revolution:0.4206', 'russians:0.3863', 'government:0.3321', 'information:0.3135', 'expand:0.312', 'pandemic:0.307', 'office:0.2896', 'retreat:0.2894', 'world:0.2728', 'celebrate:0.2579', 'historic:0.2571', 'anticipate:0.2551', 'stem:0.2545', 'rows:0.2474', 'behead:0.2473', 'north:0.2451', 'gunfire:0.243', 'podium:0.2424', 'monday:0.2415', 'spacex:0.236', 'zelenksyy:0.235', 'like:0.2274', 'end:0.2247', 'stay:0.2036', 'longer:0.199', 'fix:0.1948', 'murdaugh:0.1911', 'allegation:0.1837', 'export:0.1536', 'sluggish:0.137']+titles_keywords+['ukrainians:0.4338', 'kharkiv:0.3808', 'scavenge:0.3324', 'remains:0.2661', 'retreats:0.2001']"
+        ]
+    ],
+    "WST+RUS+42":[
+        [
+            "20220818+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Russia deploys hypersonic missiles to its Baltic exclave.txt+eventbasecode42+eventcode42+avgtone0.5+goldsteinscale0.595+nummentions0.20391872278664733+numarticles0.20449601160261058+numsources0.23684210526315788+news_keywords+['russia:0.4785', 'disrupt:0.3419', 'newspaper:0.3156', 'fbi:0.3132', 'recession:0.2918', 'pandemic:0.2897', 'spacex:0.2856', 'morning:0.2798', 'missile:0.2659', 'week:0.2638', 'behead:0.2477', 'ahead:0.2385', 'concern:0.2371', 'trigger:0.2366', 'source:0.2276', 'power:0.2266', 'podium:0.224', 'policy:0.2218', 'label:0.2025', 'gastronomic:0.199', 'impasse:0.1965', 'end:0.1957', 'log:0.1955', 'natuna:0.1919', 'like:0.1895', 'study:0.1869', 'big:0.1652', 'additional:0.1648', 'export:0.1596', 'sluggish:0.1251']+titles_keywords+['missiles:0.4153', 'hypersonic:0.4047', 'baltic:0.395', 'exclave:0.2125', 'deploys:0.1796']"
+        ]
+    ]
+}

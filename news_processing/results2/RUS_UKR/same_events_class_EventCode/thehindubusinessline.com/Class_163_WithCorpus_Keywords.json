@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+163":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/Letters to the Editor dated March 2 2022.txt+eventbasecode163+eventcode163+avgtone0.4878731343283582+goldsteinscale0.1+nummentions0.013425253991291727+numarticles0.014140681653372008+numsources0.013157894736842105+news_keywords+['crore:0.3963', 'india:0.3749', 'climate:0.324', 'increase:0.2801', 'govt:0.2598', 'march:0.2579', 'employment:0.2525', 'allocation:0.2225', 'ipcc:0.221', 'pandemic:0.1965', 'declare:0.1914', 'stabilise:0.1783', 'conflict:0.1781', 'project:0.1779', 'apropos:0.1766', 'continue:0.1717', 'risk:0.1602', 'repercussion:0.1572', 'point:0.1404', 'flow:0.1353', 'corpus:0.1309', 'alternative:0.1222', 'substantial:0.1221', 'mandis:0.1206', 'auto:0.1171', 'lpg:0.1122', 'thanks:0.1008', 'integrate:0.0917', 'exporter:0.0787', 'does:0.0586']+titles_keywords+['letters:0.4266', 'march:0.3644', '2022:0.3441', 'editor:0.3191', 'dated:0.2767']"
+        ],
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/EU emerges top purchaser of fossil fuels from Russia since Ukraine invasion CREA report.txt+eventbasecode163+eventcode163+avgtone0.48736462093862815+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4227', 'russias:0.3946', 'eu:0.3526', 'oil:0.3349', 'coal:0.3258', 'commodity:0.294', 'economic:0.265', 'invade:0.2477', 'purchase:0.1943', 'importer:0.1832', 'power:0.1605', 'data:0.1508', 'western:0.1457', 'fossil:0.1407', 'period:0.1194', 'make:0.1148', 'accord:0.1105', 'increase:0.1085', 'isolate:0.1022', 'january:0.0953', 'compare:0.095', 'crea:0.0882', 'include:0.0829', 'report:0.0816', 'billion:0.0771', 'focus:0.0768', 'new:0.0577', 'seaborne:0.0474', 'low:0.0468', 'interestingly:0.0204']+titles_keywords+['ukraine:0.3781', 'fuels:0.3191', 'purchaser:0.2092', 'fossil:0.2035', 'crea:0.191']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220705+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/Norwegian offshore workers strike boost crude oil prices.txt+eventbasecode163+eventcode163+avgtone0.47586206896551725+goldsteinscale0.1+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['oil:0.3861', 'economy:0.3569', 'supply:0.334', 'offshore:0.3321', 'strike:0.326', 'wage:0.3172', 'norway:0.3168', 'commodity:0.294', 'reuters:0.2914', 'worker:0.269', 'derivatives:0.2005', 'future:0.1993', 'increase:0.1943', 'constraint:0.184', 'wti:0.1618', 'ncdex:0.1561', 'reduction:0.1547', 'affect:0.1491', 'farmer:0.1462', 'exchange:0.1386', 'jolt:0.1342', 'early:0.1323', 'brent:0.13', 'daily:0.1256', 'report:0.1217', 'expect:0.1207', 'help:0.1168', 'say:0.1044', 'major:0.0988', 'mentha:0.0494']+titles_keywords+['workers:0.2985', 'oil:0.2569', 'strike:0.2457', 'norwegian:0.2392', 'prices:0.0666']"
+        ]
+    ]
+}

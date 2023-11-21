@@ -1,0 +1,12 @@
+{
+    "AFR+RUS+12":[
+        [
+            "20220618+../news_crawling/RUS_UKR/p_articles/english.news.cn/AU approves urgent measures to tackle impacts of Ukraine crisis.txt+eventbasecode12+eventcode12+avgtone0.48517520215633425+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['africa:0.3747', 'ukraine:0.3685', 'infrastructure:0.3133', 'au:0.2901', 'urgent:0.2206', 'current:0.2097', 'interregional:0.1939', 'crisis:0.1907', 'energy:0.1674', 'adapt:0.1568', 'read:0.1551', 'covid:0.1546', 'emphasize:0.1232', 'meeting:0.1146', 'arise:0.1115', 'approve:0.1092', 'impacted:0.1081', 'market:0.1067', 'statement:0.1018', 'expedite:0.1008', 'export:0.0899', 'thursday:0.0634', 'step:0.0614', 'contribute:0.0564', 'tsoeu:0.0551', 'cost:0.0538', 'pan:0.0319', 'like:0.0247', 'possible:0.013', 'devise:0.0033']+titles_keywords+['ukraine:0.4027', 'au:0.336', 'urgent:0.2001', 'approves:0.1475', 'impacts:0.1171']"
+        ]
+    ],
+    "EUR+RUS+12":[
+        [
+            "20220708+../news_crawling/RUS_UKR/p_articles/english.news.cn/China EU urged to uphold their comprehensive strategic partnership.txt+eventbasecode12+eventcode12+avgtone0.4988095238095238+goldsteinscale0.48+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.023026315789473683+news_keywords+['multilateralism:0.4528', 'ukraine:0.3714', 'peace:0.2526', 'humanitarian:0.216', 'mutually:0.209', 'instigation:0.2047', 'crisis:0.1985', 'talk:0.1977', 'union:0.1902', 'pursue:0.1898', 'coordination:0.1896', 'relation:0.1878', 'govern:0.1821', 'xinhuaxu:0.1771', 'concerned:0.1644', 'role:0.1644', 'security:0.1558', 'bloc:0.1476', 'polar:0.1402', 'note:0.137', 'make:0.1277', 'stick:0.1199', 'decouple:0.1197', 'major:0.088', 'guide:0.0831', 'josep:0.0811', 'difference:0.0803', 'thursday:0.0798', 'true:0.0666', 'add:0.0237']+titles_keywords+['eu:0.2696', 'partnership:0.2553', 'strategic:0.2199', 'uphold:0.1673', 'comprehensive:0.1003']"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CAN+RUS+190":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/thereminder.ca/A light of hope first of three flights bringing Ukrainians lands in Winnipeg.txt+eventbasecode190+eventcode190+avgtone0.47959183673469385+goldsteinscale0.0+nummentions0.057329462989840346+numarticles0.05801305293691081+numsources0.029605263157894735+news_keywords+['ukraine:0.4471', 'provincial:0.3683', 'refugee:0.3551', 'plane:0.2848', 'war:0.2821', 'arrive:0.2798', 'government:0.2791', 'zinenko:0.2654', 'emergency:0.2386', 'greeting:0.2089', 'hug:0.2017', 'know:0.1875', 'heather:0.1841', 'waitlist:0.1812', 'february:0.1708', 'speak:0.1691', 'bouquet:0.1561', 'centre:0.1556', 'far:0.146', 'freeland:0.1452', 'prior:0.1424', 'story:0.1422', 'approve:0.1379', 'step:0.1325', 'welcome:0.1222', 'onlookers:0.1156', 'make:0.112', 'prime:0.1052', 'thousand:0.1009', 'hoped:0.0738']+titles_keywords+['flights:0.406', 'ukrainians:0.3869', 'winnipeg:0.3374', 'hope:0.2189', 'light:0.2039']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [],
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/thereminder.ca/Russia claims control of pivotal eastern Ukrainian province.txt+eventbasecode190+eventcode190+avgtone0.47796143250688705+goldsteinscale0.0+nummentions0.0867198838896952+numarticles0.0873821609862219+numsources0.21052631578947367+news_keywords+['kyiv:0.5166', 'russias:0.3835', 'putin:0.363', 'separatists:0.3381', 'invasion:0.2571', 'fight:0.235', 'northern:0.2216', 'news:0.2095', 'military:0.2071', 'achieve:0.2048', 'sievierodonetsk:0.195', 'governor:0.1936', 'hold:0.1901', 'donbas:0.1874', 'tetkino:0.1846', 'fled:0.1718', 'tell:0.17', 'advantage:0.1692', 'clear:0.1692', 'mortar:0.1557', 'alongside:0.1551', 'dictate:0.1547', 'major:0.1535', 'area:0.1514', 'intercepted:0.1453', 'population:0.1418', 'focus:0.1401', 'seizure:0.127', 'feb:0.1139', 'characterize:0.1109']+titles_keywords+['ukrainian:0.4491', 'province:0.2661', 'control:0.1794', 'claims:0.1392', 'pivotal:0.1194']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/thereminder.ca/Russians leave Chernobyl site as fighting rages elsewhere.txt+eventbasecode190+eventcode190+avgtone0.47328548644338114+goldsteinscale0.0+nummentions0.11175616835994194+numarticles0.11240029006526468+numsources0.125+news_keywords+['ukraine:0.4728', 'chernobyl:0.4702', 'kremlin:0.446', 'nato:0.3594', 'evacuate:0.3257', 'war:0.308', 'pentagon:0.2618', 'resupplying:0.2549', 'gchq:0.2448', 'zelenskyy:0.2385', 'counterattack:0.2352', 'journalist:0.2307', 'separatist:0.2225', 'concerned:0.2156', 'soon:0.214', 'conclude:0.2022', 'industrial:0.1972', 'information:0.1881', 'iaea:0.1859', 'order:0.1795', 'schedule:0.1641', 'happen:0.151', 'resume:0.1434', 'donbas:0.1417', 'telephone:0.1388', 'plant:0.1299', 'feb:0.1186', 'reach:0.0969', 'dozen:0.0876', 'hot:0.0652']+titles_keywords+['chernobyl:0.6129', 'russians:0.3699', 'fighting:0.1908', 'leave:0.1661', 'site:0.0546']"
+        ]
+    ]
+}

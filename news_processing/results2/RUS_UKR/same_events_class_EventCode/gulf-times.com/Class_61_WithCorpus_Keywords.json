@@ -1,0 +1,12 @@
+{
+    "EGY+RUS+61":[
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/gulf-times.com/As wheat prices soar Africa pivots to cheaper alternatives.txt+eventbasecode61+eventcode61+avgtone0.49+goldsteinscale0.82+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['agriculture:0.5469', 'economist:0.3871', 'inflation:0.382', 'soybean:0.3763', 'supply:0.3729', 'sorghum:0.3335', 'nestle:0.3325', 'india:0.3041', 'grow:0.3012', 'russias:0.2875', 'war:0.2754', 'nairobi:0.2675', 'pastas:0.2447', 'news:0.2368', 'substitute:0.2303', 'global:0.2297', 'nsaichia:0.2151', 'cheaper:0.2148', 'plan:0.2079', 'pivot:0.2037', 'recipe:0.2032', 'estimate:0.2012', 'reduce:0.1932', 'acquire:0.1838', 'say:0.1784', 'ranking:0.1734', 'choge:0.1683', 'fao:0.1514', 'plc:0.1466', 'season:0.1423']+titles_keywords+['wheat:0.4395', 'africa:0.4047', 'alternatives:0.2356', 'prices:0.2015', 'pivots:0.1807']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/gulf-times.com/Russian grain still flows to top customers despite war inflating costs.txt+eventbasecode61+eventcode61+avgtone0.47115384615384615+goldsteinscale0.82+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['russia:0.3892', 'agriculture:0.3285', 'grain:0.3154', 'rouble:0.3131', 'shipment:0.2886', 'war:0.2858', 'popov:0.2644', 'traders:0.2554', 'forecast:0.2491', 'month:0.199', 'exporter:0.1933', 'want:0.1845', 'estimate:0.1759', 'newspaper:0.171', 'load:0.1675', 'general:0.1648', 'data:0.1575', 'outlook:0.1505', 'generates:0.1494', 'impose:0.149', 'agflow:0.1472', 'short:0.1434', 'current:0.1422', 'fell:0.1189', 'resume:0.1126', 'compare:0.1016', 'afield:0.0971', 'tax:0.0915', 'close:0.0894', 'downgrade:0.0808']+titles_keywords+['grain:0.3941', 'russian:0.3047', 'war:0.2842', 'costs:0.1719', 'despite:0.1155']"
+        ]
+    ]
+}

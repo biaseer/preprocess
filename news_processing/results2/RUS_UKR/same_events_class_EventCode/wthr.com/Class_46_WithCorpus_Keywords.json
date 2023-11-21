@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220110+../news_crawling/RUS_UKR/p_articles/wthr.com/US Russia begin talks with tensions high over Ukraine.txt+eventbasecode46+eventcode46+avgtone0.49808184143222506+goldsteinscale0.85+nummentions0.05660377358490566+numarticles0.05728788977519942+numsources0.125+news_keywords+['nato:0.4765', 'diplomacy:0.4117', 'moscow:0.3659', 'putins:0.3335', 'multilateral:0.2733', 'ryabkov:0.2405', 'arrangement:0.2376', 'expand:0.2364', 'approach:0.2327', 'formulate:0.2044', 'news:0.2017', 'border:0.2014', 'incursion:0.2002', 'agreement:0.1995', 'concern:0.1904', 'biden:0.1899', 'meet:0.1853', 'term:0.1737', 'predict:0.1683', 'outcome:0.1673', 'secretary:0.1507', 'week:0.1506', 'ready:0.1499', 'cite:0.1491', 'long:0.1459', 'curtail:0.1457', 'state:0.1321', 'bilateral:0.111', 'price:0.0891', 'doesnt:0.0239']+titles_keywords+['ukraine:0.3436', 'talks:0.2633', 'begin:0.1912', 'tensions:0.1741', 'high:0.099']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/wthr.com/Ukraine Russians leaving Chernobyl after radiation exposure.txt+eventbasecode46+eventcode46+avgtone0.4771904417089066+goldsteinscale0.85+nummentions0.10957910014513789+numarticles0.11022480058013052+numsources0.17434210526315788+news_keywords+['ukraine:0.4684', 'chernobyl:0.4569', 'kremlin:0.418', 'evacuate:0.3346', 'resupplying:0.2718', 'disaster:0.261', 'civilians:0.2598', 'operation:0.2429', 'gchq:0.2319', 'counterattack:0.2252', 'pentagon:0.2241', 'zelenskyy:0.2226', 'prepare:0.2222', 'industrial:0.2141', 'concerned:0.2132', 'conclude:0.2039', 'soon:0.2028', 'separatist:0.2025', 'order:0.1729', 'information:0.1717', 'governor:0.1626', 'resume:0.1568', 'weekslong:0.1411', 'donbas:0.1369', 'plant:0.1364', 'happen:0.1354', 'feb:0.1097', 'toll:0.1053', 'new:0.0697', 'hot:0.0522']+titles_keywords+['chernobyl:0.6687', 'radiation:0.3729', 'russians:0.3725', 'leaving:0.1706', 'exposure:0.1466']"
+        ]
+    ]
+}

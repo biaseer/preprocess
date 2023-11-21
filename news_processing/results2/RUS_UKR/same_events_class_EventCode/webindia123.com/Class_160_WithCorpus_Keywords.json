@@ -1,0 +1,22 @@
+{
+    "EUR+RUS+160":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/webindia123.com/Russian tanks enter Kiev for the first time.txt+eventbasecode160+eventcode160+avgtone0.48134328358208955+goldsteinscale0.3+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.006578947368421052+news_keywords+['kiev:0.5196', 'kremlin:0.439', 'nato:0.4077', 'dmitry:0.3864', 'russian:0.3832', 'tank:0.3523', 'peskov:0.3346', 'demilitarisation:0.3285', 'attack:0.29', 'civilian:0.2078', 'helicopter:0.1855', 'enter:0.1656', 'airport:0.161', 'friday:0.1578', 'order:0.1533', 'union:0.1521', 'report:0.1412', 'neutral:0.1358', 'earlier:0.1201', 'outskirt:0.1109', 'status:0.1104', 'new:0.1087', 'live:0.1049', 'control:0.0948', 'freeze:0.0903', 'sight:0.0868', 'make:0.0723', 'firmly:0.0692', 'agree:0.0637', 'basis:0.0607']+titles_keywords+['kiev:0.4239', 'tanks:0.3371', 'russian:0.2775', 'enter:0.1937', 'time:0.0007']"
+        ]
+    ],
+    "JPN+RUS+160":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/webindia123.com/Japan to ban luxury goods exports to Russia next week.txt+eventbasecode160+eventcode160+avgtone0.4856321839080459+goldsteinscale0.3+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.019736842105263157+news_keywords+['russia:0.4632', 'sanction:0.3736', 'tokyo:0.3044', 'treaty:0.297', 'economic:0.29', 'correspond:0.2666', 'export:0.262', 'visa:0.2614', 'policy:0.26', 'announce:0.2556', 'avoid:0.2331', 'halt:0.2267', 'hayashi:0.224', 'list:0.2215', 'withdraw:0.2132', 'order:0.2068', 'term:0.1974', 'global:0.197', 'prepare:0.1914', 'president:0.1885', 'anisputnik:0.1843', 'good:0.1776', 'dominance:0.1609', 'current:0.1605', 'cryptoassets:0.1439', 'step:0.1315', 'kurils:0.1221', 'unfriendly:0.1216', 'long:0.1162', 'week:0.1093']+titles_keywords+['japan:0.3129', 'exports:0.281', 'ban:0.1903', 'luxury:0.1685', 'week:0.0732']"
+        ]
+    ],
+    "KOR+RUS+160":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/webindia123.com/South Korea bans export of strategic materials to Russia.txt+eventbasecode160+eventcode160+avgtone0.4886877828054299+goldsteinscale0.3+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.019736842105263157+news_keywords+['ukraine:0.3952', 'demilitarization:0.3945', 'sanction:0.3008', 'strategic:0.2721', 'export:0.2465', 'restriction:0.2291', 'korean:0.2269', 'danger:0.2263', 'border:0.2171', 'government:0.2078', 'procedure:0.2021', 'delegations:0.1869', 'subject:0.172', 'anisputnik:0.1615', 'civilian:0.1585', 'item:0.1494', 'extension:0.1434', 'material:0.1416', 'statement:0.1413', 'aviation:0.1382', 'help:0.1325', 'donbas:0.1301', 'hold:0.1245', 'expect:0.1239', 'strengthen:0.1233', 'talk:0.1217', 'include:0.1151', 'sensor:0.0894', 'thursday:0.0669', 'possible:0.0558']+titles_keywords+['korea:0.3619', 'export:0.297', 'bans:0.2059', 'materials:0.1623', 'strategic:0.1426']"
+        ]
+    ],
+    "RUS+UKR+160":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/webindia123.com/Spotify suspends all operations in Russia amid countrys attack on Ukraine.txt+eventbasecode160+eventcode160+avgtone0.48023715415019763+goldsteinscale0.3+nummentions0.030478955007256895+numarticles0.03118201595358956+numsources0.03289473684210526+news_keywords+['russia:0.4109', 'spotify:0.392', 'subscription:0.2594', 'region:0.2516', 'news:0.2253', 'sputnik:0.2109', 'legislation:0.1857', 'suspend:0.1699', 'launch:0.164', 'operational:0.1604', 'rt:0.153', 'statement:0.1469', 'month:0.1336', 'audio:0.1334', 'current:0.1212', 'discoverability:0.1204', 'continue:0.1179', 'safety:0.1174', 'disable:0.1158', 'sony:0.1158', 'state:0.1146', 'earlier:0.1041', 'unfortunately:0.0854', 'join:0.0814', 'option:0.0751', 'ani:0.0628', 'fully:0.0573', 'independent:0.0498', 'include:0.0421', 'amid:0.0408']+titles_keywords+['spotify:0.4328', 'ukraine:0.3135', 'suspends:0.1922', 'attack:0.0521', 'amid:0.021']"
+        ]
+    ]
+}

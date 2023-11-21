@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+163":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/maldonandburnhamstandard.co.uk/Parliament rushes through economic crime reforms in response to Ukraine invasion.txt+eventbasecode163+eventcode163+avgtone0.4803664921465969+goldsteinscale0.1+nummentions0.3635703918722787+numarticles0.3640319071791153+numsources0.41118421052631576+news_keywords+['legislation:0.4383', 'reform:0.3781', 'sanction:0.3772', 'crime:0.3713', 'ukraine:0.3615', 'parliamentary:0.3597', 'oligarchs:0.3267', 'comply:0.3011', 'houses:0.2784', 'establish:0.2779', 'economic:0.2711', 'opposition:0.2696', 'ahead:0.2522', 'progress:0.2467', 'rush:0.2269', 'disclosure:0.2179', 'passage:0.1855', 'long:0.1821', 'bid:0.1786', 'promise:0.1775', 'midnight:0.1762', 'scrap:0.1696', 'session:0.1631', 'beneficial:0.158', 'period:0.1561', 'dispose:0.1425', 'callanan:0.1328', 'rapid:0.1299', 'issue:0.1158', 'true:0.0858']+titles_keywords+['ukraine:0.3721', 'reforms:0.366', 'crime:0.3179', 'invasion:0.2923', 'parliament:0.2776']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/maldonandburnhamstandard.co.uk/US Russia to face pressure at UN over Ukraine crisis.txt+eventbasecode163+eventcode163+avgtone0.47591623036649217+goldsteinscale0.1+nummentions0.9426705370101597+numarticles0.9427121102248006+numsources0.9243421052631579+news_keywords+['natos:0.492', 'putin:0.4742', 'ukraines:0.4648', 'crimea:0.4608', 'invade:0.3539', 'diplomatic:0.3022', 'threat:0.2831', 'cyberattacks:0.2727', 'veto:0.271', 'sanction:0.2332', 'economy:0.2307', 'flag:0.2247', 'bipartisan:0.2114', 'agreement:0.2024', 'prepare:0.1939', 'table:0.1825', 'news:0.1779', 'union:0.1764', 'aid:0.168', 'argue:0.1673', 'volodymyr:0.1638', 'continue:0.1559', 'increasingly:0.1516', 'explain:0.1461', 'withdraw:0.1397', 'current:0.1339', 'suggest:0.1302', 'forget:0.1173', 'long:0.107', 'underline:0.066']+titles_keywords+['ukraine:0.339', 'russia:0.3088', 'pressure:0.2388', 'crisis:0.185', 'face:0.0415']"
+        ]
+    ]
+}

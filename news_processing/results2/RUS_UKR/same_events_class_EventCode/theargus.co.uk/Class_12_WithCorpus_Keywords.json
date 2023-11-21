@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220120+../news_crawling/RUS_UKR/p_articles/theargus.co.uk/Boris Johnson warns of disaster for Russia if it invades Ukraine.txt+eventbasecode12+eventcode12+avgtone0.4795918367346939+goldsteinscale0.48+nummentions0.14150943396226415+numarticles0.14213197969543148+numsources0.1611842105263158+news_keywords+['putin:0.4716', 'nato:0.415', 'russias:0.4014', 'kiev:0.3751', 'war:0.3217', 'strategic:0.2868', 'sovereignty:0.27', 'warn:0.2486', 'destabilise:0.2417', 'incursion:0.2397', 'disaster:0.2367', 'border:0.2359', 'prepare:0.2243', 'reinforce:0.2219', 'concern:0.2211', 'news:0.2179', 'debate:0.2073', 'downing:0.2061', 'secretary:0.1825', 'order:0.1805', 'uks:0.1782', 'visit:0.171', 'say:0.164', 'thursday:0.16', 'lively:0.1347', 'closely:0.1305', 'scale:0.1197', 'right:0.1174', 'withdraw:0.1024', 'antony:0.0792']+titles_keywords+['boris:0.3996', 'ukraine:0.3392', 'invades:0.2391', 'disaster:0.2226', 'warns:0.1992']"
+        ],
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/theargus.co.uk/98 Irish citizens registered with Ukraine embassy.txt+eventbasecode12+eventcode12+avgtone0.49311926605504586+goldsteinscale0.48+nummentions0.12010159651669086+numarticles0.12073966642494562+numsources0.26644736842105265+news_keywords+['ukraine:0.5058', 'russiaukraine:0.4523', 'nato:0.3552', 'irelands:0.3328', 'diplomat:0.2974', 'sovereignty:0.2882', 'troop:0.2586', 'gael:0.2447', 'affairs:0.2427', 'parliamentary:0.2298', 'remain:0.2181', 'ongoing:0.1726', 'north:0.1692', 'debate:0.1665', 'escalate:0.1615', 'pulling:0.1591', 'safe:0.1585', 'want:0.1397', 'lively:0.1396', 'long:0.1269', 'plan:0.1168', 'story:0.1134', 'dmytrokuleba:0.1106', 'sign:0.0935', 'tomorrow:0.0931', 'official:0.0861', 'weapon:0.0851', 'right:0.0745', 'significant:0.0667', 'focus:0.0398']+titles_keywords+['ukraine:0.4178', 'irish:0.3941', 'embassy:0.33', 'registered:0.3043', '98:0.1634']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220528+../news_crawling/RUS_UKR/p_articles/theargus.co.uk/Heather Mills The day I met Vladimir Putin.txt+eventbasecode12+eventcode12+avgtone0.4988066825775656+goldsteinscale0.48+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.5386', 'ukrainians:0.4784', 'war:0.4131', 'agenda:0.3441', 'activist:0.3405', 'government:0.3129', 'heather:0.3073', 'yugoslavia:0.2978', 'privilege:0.2506', 'debate:0.2474', 'concern:0.2432', 'honesty:0.2369', 'meeting:0.2348', 'involve:0.2258', 'story:0.2142', 'businesswoman:0.2076', 'podcasts:0.1968', 'world:0.1885', 'say:0.1809', 'produce:0.172', 'want:0.1719', 'ratify:0.1656', 'land:0.1529', 'completely:0.1408', 'mills:0.1331', 'previously:0.1289', 'bad:0.128', 'right:0.1214', 'far:0.1209', 'vbites:0.1207']+titles_keywords+['putin:0.4392', 'heather:0.4222', 'met:0.2846', 'day:0.2291', 'mills:0.1968']"
+        ]
+    ]
+}

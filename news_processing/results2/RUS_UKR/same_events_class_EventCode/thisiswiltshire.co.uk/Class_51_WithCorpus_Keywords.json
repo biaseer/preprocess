@@ -1,0 +1,17 @@
+{
+    "GBR+UKR+51":[
+        [
+            "20220202+../news_crawling/RUS_UKR/p_articles/thisiswiltshire.co.uk/Swindon MPs tell Russia to back down.txt+eventbasecode51+eventcode51+avgtone0.47264437689969613+goldsteinscale0.67+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraines:0.4671', 'kremlin:0.4246', 'kyiv:0.4127', 'nato:0.3927', 'russian:0.3579', 'invading:0.3484', 'boris:0.3435', 'sovereignty:0.3038', 'strategic:0.2613', 'escalate:0.2254', 'swindon:0.2242', 'accusation:0.2176', 'destabilise:0.1989', 'warn:0.1973', 'remain:0.1946', 'debate:0.1825', 'ally:0.166', 'north:0.164', 'assured:0.1604', 'mps:0.1583', 'president:0.1532', 'bloody:0.1512', 'forthe:0.1208', 'end:0.1123', 'look:0.1087', 'everybody:0.1082', 'mistake:0.089', 'lightning:0.0851', 'add:0.0614', 'welcome:0.0391']+titles_keywords+['swindon:0.3984', 'russia:0.3287', 'mps:0.2295', 'tell:0.0504']"
+        ]
+    ],
+    "POL+UKR+51":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/thisiswiltshire.co.uk/Russian offensive turns to key Donbas city.txt+eventbasecode51+eventcode51+avgtone0.4753086419753087+goldsteinscale0.67+nummentions0.20029027576197386+numarticles0.20087019579405366+numsources0.3026315789473684+news_keywords+['kyiv:0.5069', 'putins:0.3838', 'war:0.3381', 'donbas:0.269', 'zelensky:0.2686', 'refugee:0.2626', 'occupy:0.251', 'engage:0.2428', 'turn:0.2416', 'sievierodonetsk:0.2345', 'partisan:0.2235', 'news:0.2098', 'prosecute:0.2043', 'unify:0.1995', 'industrial:0.1889', 'want:0.1788', 'resume:0.1785', 'extend:0.1774', 'hear:0.1747', 'transit:0.1741', 'prepare:0.1729', 'future:0.1705', 'north:0.1639', 'sergeant:0.1621', 'important:0.1554', 'kilometre:0.1483', 'decide:0.136', 'example:0.1333', 'plant:0.1331', 'large:0.1269']+titles_keywords+['donbas:0.447', 'russian:0.3425', 'city:0.2564', 'offensive:0.1958', 'turns:0.1459']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220826+../news_crawling/RUS_UKR/p_articles/thisiswiltshire.co.uk/Moscow film festival opens with praise of soldiers in Donbas.txt+eventbasecode51+eventcode51+avgtone0.5165562913907285+goldsteinscale0.67+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.2631578947368421+news_keywords+['moscow:0.4883', 'mikhalkov:0.4055', 'ukrainian:0.3799', 'nikita:0.355', 'film:0.3342', 'anton:0.2841', 'festival:0.2699', 'donbas:0.2213', 'historical:0.1897', 'academy:0.1698', 'award:0.1685', 'hero:0.1578', 'fight:0.1527', 'industrial:0.1509', 'representation:0.1291', 'separatist:0.1273', 'privilege:0.1203', 'direct:0.1145', 'th:0.1094', 'stay:0.1043', 'burnt:0.0895', 'local:0.0788', 'issue:0.0739', 'anticipate:0.0704', 'actually:0.0697', 'big:0.0624', 'everybody:0.0604', 'want:0.0594', 'reader:0.0593', 'reduce:0.0383']+titles_keywords+['moscow:0.4091', 'festival:0.3049', 'soldiers:0.2941', 'film:0.2748', 'praise:0.2153']"
+        ]
+    ]
+}

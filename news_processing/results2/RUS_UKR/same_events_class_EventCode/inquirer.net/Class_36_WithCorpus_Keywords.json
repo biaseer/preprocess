@@ -1,0 +1,27 @@
+{
+    "CHN+RUS+36":[
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/inquirer.net/Ukraine accuses Russia of using nuclear plant for deadly rocket attack.txt+eventbasecode36+eventcode36+avgtone0.47929936305732485+goldsteinscale0.7+nummentions0.01088534107402032+numarticles0.011602610587382161+numsources0.013157894736842105+news_keywords+['ukraine:0.5001', 'nato:0.4169', 'dnipropetrovsk:0.3286', 'war:0.3204', 'reuters:0.301', 'safeguarding:0.2883', 'counterattack:0.2859', 'radioactive:0.2781', 'kill:0.2417', 'emergency:0.23', 'alignment:0.2142', 'read:0.2113', 'know:0.2102', 'allegation:0.2019', 'report:0.1938', 'industrialised:0.1926', 'drill:0.185', 'grid:0.175', 'continue:0.1698', 'order:0.1696', 'shmyhal:0.1543', 'town:0.1536', 'occupier:0.1474', 'andriy:0.146', 'unverified:0.1337', 'powerful:0.1154', 'plus:0.1095', 'pelosi:0.1035', 'new:0.0792', 'medium:0.0764']+titles_keywords+['ukraine:0.3846', 'nuclear:0.3335', 'rocket:0.2247', 'accuses:0.203', 'plant:0.1564']"
+        ]
+    ],
+    "EUR+RUS+36":[
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/inquirer.net/Russias UN envoy storms out of Ukraine meeting over European statement.txt+eventbasecode36+eventcode36+avgtone0.4766009852216749+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5095', 'kremlin:0.4862', 'russias:0.4547', 'reuters:0.3492', 'ambassador:0.3216', 'lavrov:0.2983', 'federation:0.2841', 'conflict:0.2767', 'terror:0.2644', 'invasion:0.2614', 'oil:0.2608', 'report:0.2425', 'meeting:0.2347', 'nebenzia:0.2316', 'accuse:0.1985', 'provide:0.1976', 'michels:0.1747', 'policy:0.168', 'read:0.1647', 'sexual:0.1448', 'pramila:0.1386', 'directly:0.1318', 'feb:0.119', 'left:0.1009', 'resume:0.0932', 'agree:0.084', 'plus:0.0645', 'nearly:0.0598', 'focus:0.0573', 'price:0.0522']+titles_keywords+['ukraine:0.4035', 'meeting:0.2696', 'envoy:0.2363', 'storms:0.1142', 'statement:0.0424']"
+        ]
+    ],
+    "POL+UKR+36":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/inquirer.net/Poland to take in 2000 Ukrainian orphans.txt+eventbasecode36+eventcode36+avgtone0.47577092511013214+goldsteinscale0.7+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.465', 'orphanages:0.4409', 'warsaw:0.3854', 'orphan:0.3501', 'humanitarian:0.3482', 'czestochowa:0.3137', 'shelter:0.2728', 'philippine:0.2308', 'invasion:0.1832', 'flee:0.1595', 'opole:0.1593', 'shegyni:0.1544', 'need:0.1505', 'people:0.143', 'catholic:0.137', 'caritas:0.1282', 'marcin:0.1273', 'read:0.119', 'displace:0.1124', 'pap:0.112', 'news:0.1065', 'address:0.1008', 'bad:0.0916', 'privacy:0.0909', 'million:0.0851', 'early:0.0641', 'acknowledge:0.0637', 'centre:0.0631', 'agree:0.0617', 'plus:0.0446']+titles_keywords+['orphans:0.4427', 'poland:0.375', 'ukrainian:0.3291', '2000:0.1618']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/inquirer.net/US says Russia may create pretext to attack Ukraine.txt+eventbasecode36+eventcode36+avgtone0.4884575026232949+goldsteinscale0.7+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['natos:0.4593', 'putin:0.4218', 'kyiv:0.3778', 'diplomatic:0.325', 'evacuate:0.3001', 'blockade:0.2924', 'prepare:0.2892', 'predict:0.2805', 'attack:0.2732', 'adviser:0.2462', 'border:0.2374', 'osce:0.2283', 'expansionism:0.2228', 'pretext:0.2184', 'soon:0.2164', 'news:0.2059', 'read:0.2048', 'concern:0.1903', 'explain:0.1844', 'organisation:0.1819', 'indicate:0.1773', 'want:0.1762', 'continue:0.1569', 'pledge:0.1498', 'inch:0.1326', 'state:0.1077', 'bidens:0.0927', 'invoke:0.0888', 'agree:0.0619', 'plus:0.0599']+titles_keywords+['pretext:0.363', 'ukraine:0.3294', 'attack:0.1956', 'create:0.117', 'says:0.006']"
+        ]
+    ],
+    "WST+RUS+36":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/inquirer.net/NATO rejects Ukraine nofly zone says not part of this war.txt+eventbasecode36+eventcode36+avgtone0.47307221542227657+goldsteinscale0.7+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['nato:0.5111', 'ukraines:0.4498', 'putin:0.354', 'demilitarize:0.3248', 'eurointelligence:0.3157', 'invasion:0.2926', 'flag:0.2188', 'reutersyves:0.2179', 'bloc:0.2116', 'escalate:0.2114', 'coordinate:0.2014', 'instead:0.1926', 'read:0.1899', 'volodymyr:0.1888', 'allow:0.1799', 'fight:0.1758', 'join:0.1728', 'tank:0.1686', 'economic:0.1634', 'turn:0.1587', 'order:0.1523', 'western:0.1418', 'safe:0.1303', 'point:0.1259', 'friday:0.118', 'new:0.1049', 'horrific:0.1028', 'agree:0.0821', 'state:0.0803', 'eyeing:0.0773']+titles_keywords+['nato:0.4379', 'ukraine:0.4004', 'nofly:0.2661', 'zone:0.159', 'rejects:0.1515']"
+        ]
+    ]
+}

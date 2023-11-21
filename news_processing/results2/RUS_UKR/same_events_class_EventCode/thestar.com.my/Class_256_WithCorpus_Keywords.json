@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+256":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Ukraine president calls for immediate ceasefire.txt+eventbasecode25+eventcode256+avgtone0.4953271028037383+goldsteinscale0.485+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.013157894736842105+news_keywords+['ukraine:0.4764', 'kyiv:0.4674', 'ceasefire:0.4414', 'zelenskiy:0.2955', 'separatist:0.2434', 'osce:0.2432', 'president:0.2348', 'volodymyr:0.2158', 'convening:0.2024', 'munich:0.1979', 'speak:0.1868', 'contact:0.1815', 'twitter:0.163', 'reutersandreas:0.1596', 'regime:0.1546', 'immediate:0.1477', 'eastern:0.1352', 'trilateral:0.1279', 'operation:0.1232', 'security:0.1224', 'introduction:0.1195', 'participate:0.1166', 'intensify:0.1076', 'clash:0.0928', 'february:0.0774', 'pro:0.0679', 'day:0.0454', 'force:0.0136', 'tcg:0.0046', 'gebert:-0.0063']+titles_keywords+['ceasefire:0.3775', 'ukraine:0.3079', 'immediate:0.2252', 'president:0.1755', 'calls:0.0492']"
+        ]
+    ],
+    "USA+RUS+256":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/thestar.com.my/UN General Assembly votes overwhelmingly to deplore Russian invasion of Ukraine.txt+eventbasecode25+eventcode256+avgtone0.4509803921568627+goldsteinscale0.485+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4035', 'invasion:0.3186', 'overwhelmingly:0.2613', 'reuters:0.2142', 'vote:0.2125', 'united:0.1875', 'emergency:0.1852', 'flee:0.1809', 'general:0.1796', 'withdraw:0.1736', 'come:0.1599', 'people:0.1568', 'end:0.1559', 'march:0.1551', 'ambassador:0.1477', 'strike:0.14', 'council:0.1382', 'deplore:0.136', 'immediately:0.1348', 'force:0.1185', 'adopt:0.1149', 'new:0.1081', 'session:0.1046', 'resolution:0.0977', 'speak:0.0956', 'thousand:0.0869', 'assembly:0.0861', 'th:0.0838', 'air:0.0496', 'greenfield:0.0333']+titles_keywords+['ukraine:0.3624', 'overwhelmingly:0.3247', 'deplore:0.2133', 'invasion:0.2079', 'general:0.1295']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+71":[
+        [
+            "20220821+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Who is Alexander Dugin Russian nationalist whose daughter died in car bomb attack.txt+eventbasecode71+eventcode71+avgtone0.4910873440285205+goldsteinscale0.8699999999999999+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['bolshevik:0.5256', 'kremlin:0.524', 'putin:0.5012', 'geopolitics:0.443', 'nationalist:0.4237', 'propaganda:0.4214', 'azerbaijanis:0.3915', 'ru:0.3603', 'extremist:0.3538', 'donetsk:0.3486', 'alexander:0.2668', 'dugin:0.254', 'kill:0.2447', 'malofeev:0.238', 'businessman:0.235', 'complicit:0.2322', 'darya:0.221', 'suspected:0.2147', 'write:0.2128', 'sanction:0.2029', 'behalf:0.2008', 'organisation:0.1898', 'book:0.1746', 'long:0.1319', 'attract:0.1298', 'include:0.1208', 'channel:0.1194', 'official:0.1177', 'true:0.101', 'decade:0.1008']+titles_keywords+['russian:0.3758', 'dugin:0.3303', 'bomb:0.3041', 'died:0.2903', 'daughter:0.227']"
+        ]
+    ],
+    "GBR+RUS+71":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Britain publishes full list of Russia sanctions.txt+eventbasecode71+eventcode71+avgtone0.4930769230769231+goldsteinscale0.8699999999999999+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.5187', 'putin:0.4949', 'russia:0.4814', 'rossiya:0.3903', 'sanction:0.3186', 'sovereignty:0.2995', 'promsvyazbank:0.2775', 'undermines:0.2046', 'consolidation:0.1983', 'extract:0.1821', 'stakeholder:0.1718', 'pipeline:0.1615', 'sector:0.1579', 'genbank:0.1533', 'know:0.1517', 'breakaway:0.1403', 'sibur:0.1381', 'publish:0.1304', 'include:0.1179', 'boy:0.1172', 'fear:0.1157', 'capitalise:0.1116', 'electrical:0.1086', 'stock:0.104', 'measure:0.0841', 'sparring:0.0833', 'nearly:0.0785', 'sit:0.0779', 'link:0.0762', 'immediately:0.0463']+titles_keywords+['sanctions:0.4858', 'russia:0.3597', 'list:0.3103', 'britain:0.2466', 'publishes:0.1845']"
+        ]
+    ]
+}

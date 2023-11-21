@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+112":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/How could Europe cap surging energy prices.txt+eventbasecode112+eventcode112+avgtone0.49005847953216375+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['renewables:0.3962', 'policymakers:0.3461', 'gas:0.3333', 'eu:0.3325', 'subsidise:0.278', 'russias:0.2652', 'power:0.2634', 'surge:0.2274', 'reduce:0.2233', 'profit:0.207', 'gazprom:0.2065', 'blocs:0.199', 'example:0.181', 'capping:0.1798', 'scheer:0.1656', 'households:0.1564', 'changing:0.1519', 'accuse:0.1484', 'issue:0.142', 'winter:0.1391', 'party:0.1316', 'link:0.1173', 'benchmark:0.114', 'downside:0.1084', 'emerge:0.1079', 'prepare:0.1038', 'offer:0.0902', 'set:0.0837', 'mwh:0.0712', 'completely:0.0577']+titles_keywords+['europe:0.3234', 'energy:0.21', 'surging:0.1974', 'cap:0.1799', 'prices:0.1688']"
+        ]
+    ],
+    "GBR+RUS+112":[
+        [
+            "20220123+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/UK accuses Kremlin of trying to install proRussian leader in Ukraine.txt+eventbasecode112+eventcode112+avgtone0.46778711484593843+goldsteinscale0.4+nummentions0.2862844702467344+numarticles0.2868020304568528+numsources0.6118421052631579+news_keywords+['kremlin:0.4495', 'ukrainian:0.3951', 'invade:0.371', 'nato:0.3423', 'disinformation:0.3042', 'strategic:0.2403', 'government:0.2378', 'reuters:0.227', 'prepare:0.2068', 'aggression:0.2064', 'escalate:0.1986', 'uk:0.1822', 'nonsense:0.1774', 'yevhen:0.1724', 'secretary:0.1635', 'border:0.16', 'tension:0.1583', 'accuse:0.1582', 'careful:0.1455', 'know:0.1417', 'usual:0.1252', 'provide:0.1244', 'install:0.0947', 'near:0.0856', 'truss:0.0759', 'plot:0.0729', 'head:0.0696', 'hour:0.0542', 'verified:0.0323', 'cost:-0.0054']+titles_keywords+['kremlin:0.4924', 'prorussian:0.3406', 'uk:0.2222', 'accuses:0.2125', 'install:0.0938']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Russia blames Ukraine for fuel depot blast Kyiv denies role.txt+eventbasecode112+eventcode112+avgtone0.47817047817047814+goldsteinscale0.4+nummentions0.07256894049346879+numarticles0.07324147933284988+numsources0.22697368421052633+news_keywords+['kyiv:0.482', 'kremlin:0.4304', 'peskov:0.3226', 'war:0.3055', 'reuters:0.2782', 'firefighters:0.2465', 'petroleum:0.2452', 'occupy:0.2396', 'blame:0.2313', 'involvement:0.2253', 'airspace:0.2186', 'know:0.2106', 'belgorod:0.2', 'refer:0.1995', 'rosneft:0.1901', 'incident:0.1863', 'consolidate:0.1837', 'continuation:0.1837', 'lie:0.1764', 'footage:0.16', 'repel:0.1587', 'prepare:0.1529', 'direction:0.1508', 'donbas:0.1443', 'focus:0.1422', 'possible:0.126', 'blast:0.0996', 'phone:0.0893', 'kilometre:0.0885', 'week:0.0535']+titles_keywords+['kyiv:0.4581', 'blames:0.2816', 'fuel:0.2125', 'depot:0.1806', 'role:0.1209']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+11":[
+        [
+            "20211209+../news_crawling/RUS_UKR/p_articles/menafn.com/Ukraine Germanys new chancellor We want everyone to respect integrity of borders.txt+eventbasecode11+eventcode11+avgtone0.4888059701492537+goldsteinscale0.495+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.0+news_keywords+['ukraine:0.466', 'putin:0.4498', 'nato:0.4231', 'bundestag:0.3897', 'border:0.3254', 'nord:0.2435', 'attack:0.2307', 'economic:0.2198', 'parliamentary:0.2155', 'pipeline:0.2138', 'sanction:0.2007', 'chancellor:0.1953', 'scholz:0.1857', 'remain:0.1765', 'important:0.1708', 'ukrinform:0.1655', 'regarding:0.164', 'thursday:0.1548', 'issue:0.154', 'biden:0.1437', 'reiterate:0.1433', 'reliability:0.1391', 'federal:0.1314', 'completeness:0.115', 'want:0.1139', 'hold:0.1059', 'hearing:0.0912', 'ready:0.0866', 'clearly:0.0854', 'new:0.0742']+titles_keywords+['ukraine:0.5285', 'borders:0.3401', 'chancellor:0.3112', 'respect:0.1984', 'want:0.1596']"
+        ]
+    ],
+    "RUS+UKR+11":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/menafn.com/Ukraine how Putin used a long proxy conflict to justify invasion.txt+eventbasecode11+eventcode11+avgtone0.4560502283105025+goldsteinscale0.495+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.01644736842105263+news_keywords+['crimea:0.4849', 'putin:0.419', 'diplomacy:0.364', 'nato:0.3586', 'secede:0.3478', 'airstrikes:0.3128', 'propaganda:0.2983', 'escalation:0.2971', 'euromaidan:0.2836', 'interfere:0.2769', 'unprovocative:0.2668', 'crisis:0.2336', 'ethnic:0.2204', 'read:0.2105', 'protocol:0.1869', 'know:0.1858', 'completeness:0.1745', 'long:0.1731', 'tense:0.1646', 'volodymyr:0.1644', 'increasingly:0.1632', 'turn:0.1576', 'stem:0.1549', 'begin:0.1503', 'function:0.147', 'donbas:0.1393', 'reintegration:0.135', 'dimension:0.1278', 'relate:0.1268', 'unlikely:0.0471']+titles_keywords+['putin:0.508', 'invasion:0.3819', 'conflict:0.3322', 'proxy:0.2662', 'long:0.1688']"
+        ]
+    ]
+}

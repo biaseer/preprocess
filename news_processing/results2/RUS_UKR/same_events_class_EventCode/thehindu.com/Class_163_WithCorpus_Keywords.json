@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+163":[
+        [
+            "20220719+../news_crawling/RUS_UKR/p_articles/thehindu.com/Russia defaults on LNG supplies to India.txt+eventbasecode163+eventcode163+avgtone0.48771266540642727+goldsteinscale0.1+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['ukraine:0.4308', 'supply:0.3449', 'pipeline:0.3351', 'gazprom:0.3342', 'lng:0.3014', 'situation:0.2874', 'diplomatic:0.2834', 'reorganise:0.2731', 'company:0.2571', 'import:0.2304', 'shipload:0.2151', 'term:0.2052', 'invasion:0.2023', 'sanction:0.1978', 'fulfil:0.1899', 'increase:0.1854', 'western:0.181', 'expect:0.1774', 'gail:0.1709', 'cite:0.17', 'indicate:0.1611', 'deal:0.1566', 'month:0.1543', 'continue:0.1527', 'alternative:0.1503', 'long:0.1459', 'schedule:0.1262', 'reach:0.1144', 'minor:0.0939', 'largely:0.0871']+titles_keywords+['russia:0.3421', 'lng:0.3221', 'india:0.2309', 'defaults:0.1323', 'supplies:0.0991']"
+        ]
+    ],
+    "JPN+RUS+163":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/thehindu.com/Japan PM Kishida to stress unity on Ukraine in meet with PM Modi.txt+eventbasecode163+eventcode163+avgtone0.5038167938931298+goldsteinscale0.1+nummentions0.011248185776487663+numarticles0.011965192168237854+numsources0.019736842105263157+news_keywords+['ukraine:0.4158', 'nikkei:0.3277', 'japanese:0.3039', 'indo:0.2952', 'modi:0.2337', 'announce:0.2188', 'coincide:0.2158', 'unify:0.1894', 'reinforce:0.1886', 'invest:0.1855', 'agreement:0.1821', 'economic:0.1748', 'invasion:0.1694', 'shinzo:0.1687', 'include:0.1605', 'sanction:0.1501', 'allow:0.1419', 'plan:0.1309', 'fumio:0.1302', 'service:0.1265', 'railway:0.1218', 'pm:0.1164', 'importance:0.1106', 'abe:0.1082', 'trillion:0.1069', 'reciprocal:0.0951', 'quadrilateral:0.0754', 'second:0.0753', 'issue:0.0722', 'like:0.0553']+titles_keywords+['kishida:0.4519', 'ukraine:0.3086', 'meet:0.2447', 'modi:0.1891', 'unity:0.1414']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/thehindu.com/EU imposes more sanctions on Moscow over Ukraine invasion.txt+eventbasecode163+eventcode163+avgtone0.47413793103448276+goldsteinscale0.1+nummentions0.10595065312046444+numarticles0.1065989847715736+numsources0.09539473684210527+news_keywords+['ukraine:0.4227', 'sanction:0.4132', 'kremlin:0.3862', 'impose:0.3323', 'oligarchs:0.3042', 'war:0.3013', 'eus:0.2866', 'reinforce:0.2726', 'currency:0.2713', 'blocs:0.2546', 'thursday:0.2144', 'aid:0.2113', 'import:0.2101', 'align:0.1935', 'refusing:0.1813', 'intend:0.173', 'commission:0.1687', 'circumvent:0.1615', 'strong:0.1551', 'freeze:0.1541', 'industrial:0.1418', 'list:0.1382', 'say:0.1344', 'hop:0.1291', 'juggernaut:0.129', 'seven:0.127', 'sberbank:0.1254', 'add:0.1096', 'tighter:0.1005', 'significant:0.096']+titles_keywords+['sanctions:0.4251', 'imposes:0.2903', 'moscow:0.2875', 'invasion:0.2708', 'eu:0.2525']"
+        ]
+    ]
+}

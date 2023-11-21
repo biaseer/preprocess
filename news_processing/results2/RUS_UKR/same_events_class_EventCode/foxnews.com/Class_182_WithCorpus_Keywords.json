@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+182":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/foxnews.com/RussiaUkraine war Photos show death devastation on Ukraine streets Over 173M residents have fled.txt+eventbasecode182+eventcode182+avgtone0.444915254237288+goldsteinscale0.025+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5048', 'russiaukraine:0.4652', 'putin:0.4279', 'refugee:0.3759', 'invasion:0.334', 'military:0.2996', 'korczowa:0.2956', 'kill:0.2696', 'emergency:0.2688', 'flee:0.2549', 'conflict:0.2451', 'news:0.2359', 'street:0.2149', 'people:0.2112', 'ongoing:0.2082', 'know:0.1958', 'mourn:0.1926', 'reporting:0.1828', 'midnight:0.1682', 'weapon:0.1646', 'cross:0.1481', 'dedertdpavia:0.1454', 'begin:0.1445', 'number:0.143', 'pet:0.1349', 'photos:0.1299', 'actually:0.1172', 'receive:0.107', 'pagones:0.094', 'siret:0.0884']+titles_keywords+['ukraine:0.5009', 'war:0.3688', 'devastation:0.329', 'fled:0.285', 'photos:0.2724']"
+        ],
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/foxnews.com/White House holds call with allies to discuss support for Ukraine.txt+eventbasecode182+eventcode182+avgtone0.49519230769230765+goldsteinscale0.025+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraines:0.4718', 'battalion:0.3779', 'natosecretary:0.3492', 'reuters:0.3107', 'attack:0.3089', 'operation:0.2766', 'lavrov:0.2465', 'biden:0.2331', 'politics:0.2303', 'update:0.2261', 'occur:0.2221', 'border:0.218', 'eastern:0.2031', 'ally:0.1988', 'report:0.193', 'flight:0.1824', 'virginia:0.1785', 'week:0.1669', 'electric:0.1659', 'begin:0.1587', 'support:0.1521', 'second:0.147', 'roughly:0.1433', 'earlier:0.1339', 'billion:0.1303', 'say:0.1212', 'forceshandout:0.1194', 'size:0.1071', 'percent:0.0881', 'senior:0.0849']+titles_keywords+['ukraine:0.3514', 'allies:0.3326', 'white:0.161', 'holds:0.1096', 'house:0.087']"
+        ]
+    ],
+    "UKR+RUS+182":[
+        [
+            "20220705+../news_crawling/RUS_UKR/p_articles/foxnews.com/US intel says Russia is fabricating evidence in Ukraine prison strike that killed 53 Ukrainian.txt+eventbasecode182+eventcode182+avgtone0.4516129032258063+goldsteinscale0.025+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kgbs:0.4494', 'ukraine:0.447', 'kremlin:0.4319', 'prisoner:0.3258', 'olenivka:0.3128', 'war:0.284', 'investigate:0.2755', 'occupy:0.2564', 'collude:0.255', 'flag:0.2479', 'news:0.2467', 'separatist:0.2347', 'evidence:0.2297', 'know:0.2263', 'ammunition:0.2205', 'false:0.1931', 'unidentified:0.1898', 'fox:0.1833', 'survive:0.1787', 'blame:0.1776', 'technologies:0.1589', 'plant:0.1465', 'reportedly:0.1449', 'adviser:0.1381', 'deliver:0.1292', 'ap:0.1226', 'month:0.1222', 'shift:0.1066', 'main:0.0986', 'include:0.0676']+titles_keywords+['ukrainian:0.3148', 'evidence:0.2206', 'pows:0.1683', 'prison:0.1679', 'intel:0.1656']"
+        ]
+    ]
+}

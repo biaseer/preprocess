@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+128":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/menafn.com/Russias attack on Ukraine unjustified.txt+eventbasecode128+eventcode128+avgtone0.4733676975945017+goldsteinscale0.25+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.009868421052631578+news_keywords+['ukraine:0.5119', 'putin:0.4445', 'nato:0.4371', 'sovereignty:0.3717', 'militarily:0.3615', 'invasion:0.3425', 'peaceful:0.3207', 'provocation:0.2987', 'oil:0.2439', 'alarm:0.2353', 'boris:0.2319', 'respond:0.2202', 'constitutes:0.2167', 'excuse:0.2136', 'president:0.2088', 'tank:0.2075', 'authorise:0.1949', 'article:0.1931', 'volodymyr:0.1903', 'unjustified:0.1817', 'underway:0.18', 'world:0.1759', 'future:0.1753', 'information:0.1752', 'hear:0.169', 'friend:0.1365', 'entirely:0.1243', 'additional:0.1193', 'warranty:0.0944', 'enjoy:0.0744']+titles_keywords+['unjustified:0.4632', 'ukraine:0.4388', 'russias:0.4006', 'attack:0.3523']"
+        ]
+    ],
+    "UKR+RUS+128":[
+        [
+            "20211127+../news_crawling/RUS_UKR/p_articles/menafn.com/Donbas update Ukrainian soldier killed in warzone amid latest 2 enemy attacks Nov 26.txt+eventbasecode128+eventcode128+avgtone0.4578947368421051+goldsteinscale0.25+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['ceasefire:0.5055', 'kyiv:0.4282', 'military:0.3302', 'warzone:0.3031', 'attack:0.2606', 'operation:0.2587', 'mortar:0.2432', 'donbas:0.2209', 'update:0.2163', 'article:0.2067', 'violate:0.206', 'report:0.2037', 'repel:0.1934', 'contact:0.1853', 'reliability:0.1766', 'read:0.1675', 'note:0.1624', 'allegation:0.1528', 'eastern:0.1372', 'jfo:0.1353', 'condolences:0.1296', 'zone:0.1282', 'non:0.117', 'mm:0.0978', 'relate:0.0961', 'include:0.0901', 'twice:0.086', 'small:0.0724', 'videos:0.0542', 'expressedsincere:0.0476']+titles_keywords+['ukrainian:0.3997', 'donbas:0.3471', 'warzone:0.3364', 'update:0.2823', 'killed:0.2448']"
+        ],
+        [
+            "20220112+../news_crawling/RUS_UKR/p_articles/menafn.com/Donbas update Occupiers fire toward Novotoshkivske Ukrainian soldier killed.txt+eventbasecode128+eventcode128+avgtone0.4601063829787235+goldsteinscale0.25+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['ceasefire:0.4965', 'ukraine:0.4496', 'minsk:0.4488', 'novotoshkivske:0.3721', 'occupiers:0.3513', 'military:0.3023', 'donbas:0.2781', 'aggression:0.2366', 'update:0.228', 'agreement:0.2065', 'sayseyewitnessed:0.202', 'breach:0.1913', 'contact:0.1816', 'article:0.1774', 'remain:0.1707', 'reliability:0.1656', 'forces:0.156', 'command:0.1525', 'condolence:0.1516', 'reported:0.1489', 'hold:0.1482', 'non:0.1346', 'legality:0.134', 'menafn:0.1114', 'caliber:0.1105', 'relate:0.1062', 'january:0.1059', 'hour:0.083', 'large:0.0773', 'accord:0.0691']+titles_keywords+['ukrainian:0.3805', 'novotoshkivske:0.3749', 'occupiers:0.368', 'donbas:0.3639', 'update:0.29']"
+        ]
+    ]
+}

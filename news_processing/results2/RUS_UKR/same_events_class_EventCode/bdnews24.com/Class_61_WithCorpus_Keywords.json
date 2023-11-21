@@ -1,0 +1,24 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220417+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Ukraine war increases UN food agencys costs in hungerhit West Africa.txt+eventbasecode61+eventcode61+avgtone0.440217391304348+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4812', 'war:0.4135', 'africa:0.3433', 'aid:0.339', 'pandemic:0.2851', 'divert:0.247', 'crisis:0.244', 'drought:0.2431', 'wheat:0.2341', 'wfp:0.2282', 'fund:0.226', 'nutrition:0.2165', 'supplier:0.2025', 'ration:0.2017', 'concern:0.1978', 'increase:0.1909', 'import:0.1863', 'border:0.1839', 'read:0.1755', 'people:0.1699', 'unfolding:0.1618', 'fuel:0.1521', 'million:0.1465', 'additional:0.146', 'price:0.144', 'organization:0.141', 'expected:0.1086', 'feb:0.1038', 'link:0.0734', 'accord:0.0619']+titles_keywords+['ukraine:0.435', 'war:0.4093', 'food:0.2994', 'costs:0.2086', 'agencys:0.1972']"
+        ]
+    ],
+    "RUS+EUR+61":[
+        []
+    ],
+    "RUS+UKR+61":[
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Indias July palm oil imports may surge to 10month high as prices plunge.txt+eventbasecode61+eventcode61+avgtone0.4875+goldsteinscale0.82+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['commodity:0.3464', 'oil:0.3354', 'palm:0.3321', 'soybean:0.3263', 'india:0.2753', 'july:0.2387', 'recession:0.2384', 'future:0.2303', 'brokerage:0.2289', 'buy:0.2107', 'sandeep:0.205', 'importer:0.1871', 'freight:0.1825', 'stockpile:0.164', 'cost:0.1528', 'week:0.1441', 'tonnes:0.1414', 'fcpoc:0.1355', 'issue:0.1314', 'plunge:0.1302', 'rise:0.1302', 'quota:0.1261', 'reduce:0.1182', 'compare:0.1151', 'source:0.0932', 'include:0.0815', 'mainly:0.0619', 'robust:0.0617', 'basis:0.0609', 'attractive:0.0116']+titles_keywords+['palm:0.2918', 'imports:0.2584', 'oil:0.2235', 'surge:0.139', '10month:0.131']"
+        ],
+        [
+            "20220827+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Russia burns gas into the atmosphere while cutting supplies to EU.txt+eventbasecode61+eventcode61+avgtone0.48113207547169806+goldsteinscale0.82+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['gas:0.4397', 'russia:0.3902', 'baltic:0.3588', 'flare:0.3479', 'pipeline:0.3059', 'eu:0.2735', 'burn:0.2641', 'supply:0.2163', 'satellite:0.1929', 'waste:0.1834', 'environmental:0.1827', 'orange:0.1561', 'natural:0.1537', 'portovaya:0.1536', 'disaster:0.147', 'border:0.1388', 'union:0.1371', 'daily:0.1203', 'station:0.1171', 'near:0.1137', 'rystad:0.1024', 'equivalent:0.0979', 'volume:0.0947', 'image:0.0945', 'estimate:0.0793', 'analyst:0.0774', 'spectacular:0.0746', 'sharply:0.0739', 'say:0.0509', 'large:0.0394']+titles_keywords+['russia:0.4483', 'gas:0.4009', 'eu:0.275', 'burns:0.2292', 'cutting:0.1445']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [],
+        [
+            "20220410+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Ukraine bans all imports from Russia.txt+eventbasecode61+eventcode61+avgtone0.47549019607843135+goldsteinscale0.82+nummentions0.0420899854862119+numarticles0.03118201595358956+numsources0.03289473684210526+news_keywords+['embargo:0.5076', 'ukraine:0.501', 'sanction:0.3412', 'impose:0.2906', 'war:0.2812', 'import:0.2726', 'isolate:0.2547', 'boris:0.2317', 'federation:0.2296', 'zelenskiy:0.2281', 'territory:0.2266', 'halt:0.2163', 'product:0.1816', 'finance:0.1807', 'good:0.1678', 'aggressor:0.166', 'western:0.166', 'trade:0.1625', 'president:0.1468', 'complete:0.1276', 'non:0.1194', 'example:0.1154', 'state:0.1116', 'strengthen:0.1067', 'feb:0.0979', 'today:0.0975', 'come:0.0971', 'page:0.0839', 'measure:0.0734', 'virtually:0.0646']+titles_keywords+['ukraine:0.4298', 'russia:0.329', 'imports:0.2405', 'bans:0.2055']"
+        ]
+    ]
+}

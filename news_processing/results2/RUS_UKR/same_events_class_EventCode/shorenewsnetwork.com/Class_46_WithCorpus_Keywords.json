@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+46":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/shorenewsnetwork.com/Biden arrives in Europe for Ukraine war summits NATO to bolster eastern flank.txt+eventbasecode46+eventcode46+avgtone0.4764423076923077+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5064', 'ukraine:0.468', 'natos:0.4531', 'lvivkharkiv:0.3395', 'invade:0.3263', 'reuters:0.2962', 'conflict:0.232', 'adviser:0.2271', 'bidens:0.2192', 'corresponds:0.2135', 'prepare:0.2023', 'sanction:0.198', 'veteran:0.1949', 'forth:0.1864', 'capital:0.1837', 'japan:0.1704', 'information:0.1674', 'say:0.1524', 'unfriendly:0.1512', 'alphabets:0.1452', 'flank:0.1385', 'end:0.1377', 'feb:0.1329', 'increase:0.1293', 'day:0.1234', 'total:0.1197', 'draw:0.1019', 'state:0.0942', 'agree:0.0889', 'sent:0.0347']+titles_keywords+['nato:0.4207', 'biden:0.3893', 'flank:0.1961', 'arrives:0.1951', 'summits:0.1719']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/shorenewsnetwork.com/Oil extends losses Russia to fulfil supply contracts.txt+eventbasecode46+eventcode46+avgtone0.48443579766536965+goldsteinscale0.85+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.01644736842105263+news_keywords+['opec:0.5384', 'gas:0.2968', 'war:0.2725', 'speculation:0.2705', 'concern:0.2684', 'crude:0.2679', 'uaes:0.2674', 'market:0.2669', 'output:0.2613', 'underinvestment:0.2574', 'russian:0.2392', 'infrastructure:0.2361', 'future:0.2352', 'brent:0.2317', 'slump:0.2246', 'statement:0.217', 'increase:0.2116', 'feb:0.2039', 'settle:0.1972', 'coordinate:0.1932', 'pattern:0.1927', 'recent:0.1712', 'global:0.1705', 'backtrack:0.1676', 'bpd:0.1553', 'benchmark:0.154', 'shadia:0.1475', 'like:0.1442', 'major:0.1398', 'spare:0.1322']+titles_keywords+['russia:0.3062', 'oil:0.2957', 'supply:0.2267', 'extends:0.2088', 'losses:0.2062']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/webindia123.com/Putin preparing terrorist attack on Chernobyl nuclear plant Ukraine.txt+eventbasecode120+eventcode120+avgtone0.46238244514106586+goldsteinscale0.3+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['chernobyl:0.5117', 'putin:0.465', 'nuclear:0.4045', 'ukraine:0.3744', 'propaganda:0.3459', 'pravda:0.3443', 'terrorist:0.3353', 'operation:0.2543', 'blackmail:0.2362', 'aggressor:0.2184', 'scenario:0.2159', 'kill:0.2102', 'plan:0.208', 'prepare:0.1999', 'iaea:0.1955', 'report:0.1946', 'directorate:0.1735', 'gostomel:0.1678', 'order:0.1601', 'plant:0.154', 'guise:0.1515', 'sharma:0.1368', 'control:0.1345', 'sian:0.1315', 'allegedly:0.1305', 'understand:0.1137', 'official:0.0859', 'allow:0.0739', 'currently:0.0583', 'man:0.0177']+titles_keywords+['chernobyl:0.5249', 'putin:0.4405', 'terrorist:0.3623', 'preparing:0.2576', 'plant:0.1354']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/webindia123.com/ChinaEurope fault lines exposed at 23rd bilateral summit.txt+eventbasecode120+eventcode120+avgtone0.4791288566243194+goldsteinscale0.3+nummentions0.0330188679245283+numarticles0.0337200870195794+numsources0.05921052631578947+news_keywords+['ukraine:0.3616', 'chinaeurope:0.3131', 'war:0.2874', 'globalization:0.2812', 'accompany:0.2089', 'sanction:0.2004', 'relationship:0.1983', 'align:0.1914', 'crisis:0.1802', 'president:0.1731', 'covid:0.1653', 'jinping:0.1628', 'unprovoked:0.157', 'soon:0.1463', 'negotiated:0.1447', 'long:0.1312', 'deepen:0.1301', 'end:0.1202', 'effect:0.1195', 'corridor:0.1152', 'stay:0.1136', 'keqiang:0.1098', 'reciprocal:0.1035', 'say:0.1016', 'safe:0.099', 'major:0.0976', 'bilateral:0.0923', 'rd:0.0746', 'ani:0.0689', 'share:0.0432']+titles_keywords+['chinaeurope:0.4472', 'lines:0.2246', 'fault:0.1326', 'bilateral:0.1206', '23rd:0.0947']"
+        ]
+    ]
+}

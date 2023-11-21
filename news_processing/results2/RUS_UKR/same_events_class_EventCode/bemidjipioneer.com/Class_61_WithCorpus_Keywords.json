@@ -1,0 +1,12 @@
+{
+    "RUS+EUR+61":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/bemidjipioneer.com/Russian forces advance in factory city US to send precision rockets to Ukraine.txt+eventbasecode61+eventcode61+avgtone0.48314606741573035+goldsteinscale0.82+nummentions0.15965166908563136+numarticles0.1602610587382161+numsources0.13486842105263158+news_keywords+['ukraine:0.4928', 'putin:0.4508', 'war:0.3378', 'news:0.3208', 'blockade:0.2998', 'nuclear:0.2884', 'leonid:0.2812', 'ryabkov:0.249', 'civilian:0.2456', 'tank:0.2414', 'sievierodonetsk:0.2401', 'reporting:0.2333', 'concern:0.2331', 'table:0.2321', 'commodity:0.2127', 'cite:0.2118', 'advance:0.2105', 'shortly:0.2083', 'mortar:0.1994', 'import:0.1877', 'baseless:0.1842', 'expect:0.1799', 'write:0.1782', 'end:0.1628', 'yars:0.1583', 'direct:0.1527', 'long:0.1488', 'swathe:0.1186', 'reduce:0.1118', 'agree:0.0941']+titles_keywords+['ukraine:0.3337', 'factory:0.2358', 'precision:0.1817', 'advance:0.1747', 'send:0.1302']"
+        ]
+    ],
+    "RUS+UKR+61":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/bemidjipioneer.com/Wheat prices soar on Ukraine fears but US growers cant cash in.txt+eventbasecode61+eventcode61+avgtone0.4830590513068732+goldsteinscale0.82+nummentions0.03555878084179971+numarticles0.03625815808556925+numsources0.05263157894736842+news_keywords+['hedge:0.4294', 'speculator:0.4103', 'market:0.3975', 'futures:0.3886', 'reuters:0.3805', 'economist:0.3558', 'disruption:0.3328', 'usda:0.3301', 'grain:0.3238', 'produce:0.3121', 'cobank:0.2936', 'panic:0.2908', 'know:0.2762', 'moscow:0.2755', 'hold:0.2744', 'fund:0.2734', 'western:0.2603', 'spring:0.2542', 'position:0.239', 'upside:0.2255', 'cooperative:0.2224', 'board:0.2136', 'turn:0.1934', 'continue:0.1894', 'data:0.1885', 'roose:0.1852', 'andrew:0.1701', 'soon:0.1584', 'enormous:0.1522', 'send:0.1374']+titles_keywords+['wheat:0.443', 'ukraine:0.2225', 'prices:0.2057', 'soar:0.1492', 'fears:0.1394']"
+        ]
+    ]
+}

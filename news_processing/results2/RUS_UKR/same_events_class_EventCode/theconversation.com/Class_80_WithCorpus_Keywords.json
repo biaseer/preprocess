@@ -1,0 +1,12 @@
+{
+    "FIN+RUS+80":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/theconversation.com/Why the idea of a neutral Ukraine is a nonstarter in peacetalks.txt+eventbasecode80+eventcode80+avgtone0.4959390862944163+goldsteinscale0.75+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.02631578947368421+news_keywords+['neutrality:0.4141', 'nato:0.4037', 'treaty:0.3908', 'demilitarisation:0.3445', 'belarus:0.3393', 'kyivs:0.3236', 'diplomatic:0.3018', 'finlandisation:0.2932', 'kremlin:0.2804', 'memorandum:0.2596', 'annex:0.2068', 'agreement:0.2066', 'achieve:0.2022', 'interpret:0.1695', 'article:0.1675', 'potential:0.1633', 'conditional:0.1534', 'ally:0.1484', 'state:0.1307', 'exit:0.1306', 'refrain:0.1245', 'term:0.118', 'mechanism:0.1096', 'muddying:0.1085', 'like:0.0859', 'reason:0.0847', 'pro:0.0742', 'price:0.0681', 'sort:0.0295', 'installation:0.0251']+titles_keywords+['ukraine:0.4587', 'neutral:0.3701', 'peacetalks:0.3523', 'nonstarter:0.173', 'idea:0.1415']"
+        ]
+    ],
+    "WST+RUS+80":[
+        [
+            "20220210+../news_crawling/RUS_UKR/p_articles/theconversation.com/The UkraineRussia standoff is a troubling watershed moment forNATO.txt+eventbasecode80+eventcode80+avgtone0.4725759059745347+goldsteinscale0.75+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.019736842105263157+news_keywords+['crimea:0.4936', 'nato:0.4609', 'annexation:0.3914', 'putin:0.3633', 'russias:0.3351', 'invade:0.3215', 'standoff:0.2824', 'sovereignty:0.2671', 'abdication:0.2633', 'border:0.2363', 'escalate:0.2347', 'political:0.2323', 'stability:0.2081', 'inadequacy:0.194', 'agreement:0.1823', 'prepare:0.1778', 'conversely:0.1776', 'indicate:0.1753', 'guidance:0.1735', 'understanding:0.171', 'result:0.1691', 'relation:0.1641', 'know:0.1445', 'potential:0.143', 'stem:0.1276', 'state:0.1213', 'schoenbach:0.0789', 'reconfigurations:0.0771', 'offer:0.0724', 'shouldnt:0.0606']+titles_keywords+['standoff:0.4443', 'ukrainerussia:0.3931', 'watershed:0.2516', 'fornato:0.2141', 'troubling:0.1632']"
+        ]
+    ]
+}

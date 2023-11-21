@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220812+../news_crawling/RUS_UKR/p_articles/azcentral.com/Ukraine international officials decry alarming military activity near nuclear plant Recap.txt+eventbasecode100+eventcode100+avgtone0.4716981132075472+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['crimea:0.5278', 'putin:0.4447', 'russias:0.3925', 'war:0.3541', 'nuclear:0.3387', 'invasion:0.334', 'annex:0.3189', 'military:0.3001', 'saboteurs:0.2936', 'pentagon:0.2832', 'economy:0.2512', 'monastyrskyi:0.2468', 'warn:0.2198', 'bloomberg:0.2187', 'translate:0.2172', 'prepare:0.2119', 'analysis:0.2081', 'anonymity:0.1919', 'plant:0.1896', 'surge:0.1844', 'soon:0.1787', 'recap:0.1585', 'expert:0.1524', 'range:0.1348', 'deteriorate:0.1304', 'false:0.1244', 'nearly:0.1232', 'long:0.1204', 'cause:0.1014', 'add:0.0656']+titles_keywords+['ukraine:0.4261', 'nuclear:0.3697', 'military:0.3092', 'alarming:0.2224', 'recap:0.0857']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/azcentral.com/Fox News correspondent injured while covering Russias invasion of Ukraine.txt+eventbasecode100+eventcode100+avgtone0.47721518987341766+goldsteinscale0.25+nummentions0.013788098693759071+numarticles0.011602610587382161+numsources0.013157894736842105+news_keywords+['correspondent:0.5256', 'kyiv:0.5063', 'news:0.3767', 'fox:0.3561', 'russias:0.3529', 'report:0.3019', 'war:0.2965', 'coverage:0.2491', 'safety:0.2241', 'afp:0.222', 'region:0.2207', 'ceo:0.2183', 'situation:0.209', 'hall:0.1879', 'priority:0.1816', 'professionalism:0.1771', 'hospitalize:0.1741', 'firedon:0.1695', 'injury:0.1691', 'know:0.1683', 'ground:0.1521', 'mile:0.1383', 'benjamin:0.1271', 'additional:0.1183', 'quickly:0.1162', 'good:0.1149', 'recoveryand:0.1144', 'join:0.1006', 'unfold:0.0997', 'state:0.0972']+titles_keywords+['correspondent:0.439', 'fox:0.3885', 'ukraine:0.3052', 'injured:0.2786', 'covering:0.1608']"
+        ]
+    ]
+}

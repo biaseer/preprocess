@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220621+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Everything is on fire Ukraine region weathers bombardment.txt+eventbasecode154+eventcode154+avgtone0.4740740740740741+goldsteinscale0.13999999999999999+nummentions0.07692307692307693+numarticles0.0775924583031182+numsources0.08223684210526316+news_keywords+['ukraine:0.5427', 'kremlin:0.4602', 'geopolitical:0.395', 'airstrikes:0.3918', 'roskomnadzor:0.3121', 'coordinate:0.2795', 'agenda:0.2652', 'conflict:0.2616', 'expand:0.2519', 'telegraph:0.2517', 'atrocities:0.2479', 'veteran:0.2412', 'report:0.2402', 'industrial:0.2096', 'format:0.2067', 'governor:0.1999', 'prepare:0.1997', 'howitzer:0.1905', 'advantage:0.185', 'garland:0.1809', 'ap:0.1762', 'graduate:0.1724', 'huynh:0.1709', 'turn:0.1649', 'donbas:0.1617', 'powerful:0.1595', 'neutralized:0.1565', 'entire:0.1506', 'viability:0.1007', 'photonatacha:0.0876']+titles_keywords+['ukraine:0.5011', 'bombardment:0.422', 'weathers:0.2434', 'region:0.2264']"
+        ],
+        [
+            "20220825+../news_crawling/RUS_UKR/p_articles/abqjournal.com/Putin orders Russian military to beef up forces by 137000.txt+eventbasecode154+eventcode154+avgtone0.4851411589895988+goldsteinscale0.13999999999999999+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.03618421052631579+news_keywords+['troop:0.4466', 'conscript:0.4354', 'mobilization:0.419', 'putin:0.3819', 'moscows:0.3596', 'chechnya:0.3222', 'draft:0.3143', 'war:0.3105', 'volgograd:0.2494', 'increase:0.2469', 'deferment:0.2469', 'order:0.2439', 'governmental:0.2408', 'training:0.2061', 'predict:0.175', 'separatist:0.1723', 'news:0.1603', 'men:0.1517', 'combination:0.1389', 'regional:0.133', 'age:0.1292', 'respectively:0.1259', 'file:0.1225', 'big:0.1197', 'spring:0.1185', 'contractor:0.1142', 'million:0.0992', 'rbc:0.0854', 'attempt:0.065', 'didnt:0.047']+titles_keywords+['putin:0.3946', '137000:0.3147', 'military:0.2586', 'orders:0.2026', 'forces:0.1881']"
+        ]
+    ]
+}

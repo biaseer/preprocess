@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/mediaite.com/Ukrainian Woman Weeps During Heartbreaking Interview With Foxs Trey Yingst Why Did You Do This.txt+eventbasecode190+eventcode190+avgtone0.46520146520146516+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukrainians:0.4966', 'russian:0.4352', 'yuriy:0.3667', 'war:0.3494', 'borodyanka:0.3416', 'ostapchenko:0.319', 'invasion:0.308', 'news:0.2964', 'gunfire:0.2883', 'trauma:0.287', 'mourn:0.273', 'reporting:0.2619', 'yingst:0.2555', 'gudzikevych:0.2494', 'fox:0.2472', 'soldier:0.2457', 'destroy:0.2308', 'translator:0.2284', 'country:0.2145', 'woman:0.2092', 'hear:0.1981', 'interview:0.1824', 'heartbreaking:0.1791', 'trey:0.1668', 'cover:0.1652', 'want:0.132', 'rd:0.1231', 'apartment:0.1194', 'panel:0.1149', 'series:0.1115']+titles_keywords+['ukrainian:0.3841', 'yingst:0.3174', 'weeps:0.3082', 'foxs:0.2972', 'interview:0.2593']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220204+../news_crawling/RUS_UKR/p_articles/mediaite.com/Reporter GRILLS State Department Spox on Russia Claims This Is Like Alex Jones Territory Youre.txt+eventbasecode190+eventcode190+avgtone0.49523305084745767+goldsteinscale0.0+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.019736842105263157+news_keywords+['propaganda:0.4694', 'ukraine:0.3777', 'diplomatic:0.323', 'government:0.3223', 'operatives:0.3194', 'briefing:0.315', 'pretext:0.308', 'invasion:0.2951', 'allegation:0.2842', 'flag:0.2748', 'know:0.2387', 'declassify:0.2215', 'alex:0.219', 'proof:0.2061', 'prepare:0.182', 'reiterate:0.1788', 'transcript:0.1619', 'press:0.1585', 'fabricate:0.156', 'forward:0.1539', 'grills:0.1511', 'fall:0.1379', 'unprovable:0.135', 'wont:0.1273', 'like:0.123', 'long:0.117', 'gon:0.1126', 'theyre:0.1016', 'price:0.0928', 'weve:0.0923']+titles_keywords+['reporter:0.3638', 'russia:0.2635', 'jones:0.23', 'grills:0.1509', 'spox:0.1268']"
+        ],
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/mediaite.com/WATCH Intelligence Official Estimates Up to 4000 Russian Troops Have Died Invading Ukraine.txt+eventbasecode190+eventcode190+avgtone0.4984756097560976+goldsteinscale0.0+nummentions0.0634978229317852+numarticles0.0630891950688905+numsources0.14473684210526316+news_keywords+['russianmilitary:0.5859', 'putin:0.4732', 'ukraines:0.4406', 'cia:0.3552', 'invading:0.3118', 'intelligence:0.2338', 'kill:0.2317', 'president:0.2304', 'reform:0.2208', 'nazify:0.2182', 'learn:0.2126', 'anticipate:0.2069', 'estimates:0.1998', 'causalities:0.1993', 'source:0.1977', 'assess:0.1943', 'logistic:0.187', 'bad:0.1856', 'berrier:0.1654', 'ranking:0.1564', 'situation:0.1547', 'child:0.1494', 'force:0.136', 'witness:0.1337', 'schiff:0.1291', 'according:0.1284', 'house:0.1185', 'feb:0.1127', 'world:0.1037', 'add:0.0797']+titles_keywords+['ukraine:0.3432', 'troops:0.3215', '4000:0.3187', 'estimates:0.1827', 'died:0.1461']"
+        ]
+    ]
+}

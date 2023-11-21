@@ -1,0 +1,22 @@
+{
+    "CHN+RUS+111":[
+        [
+            "20220506+../news_crawling/RUS_UKR/p_articles/shanghainews.net/China says sanctions make world economy worse amid pressure to condemn Russia.txt+eventbasecode111+eventcode111+avgtone0.4623287671232878+goldsteinscale0.4+nummentions0.02467343976777939+numarticles0.025380710659898477+numsources0.03618421052631579+news_keywords+['sanction:0.4335', 'nato:0.4029', 'war:0.3161', 'xinhua:0.2893', 'china:0.2698', 'world:0.2606', 'economic:0.2391', 'russian:0.2378', 'stabilize:0.2031', 'report:0.202', 'unilateral:0.1819', 'bad:0.1733', 'press:0.1645', 'continue:0.1643', 'remark:0.1604', 'imf:0.1585', 'forecast:0.1565', 'say:0.1446', 'facing:0.1429', 'refuse:0.1425', 'prove:0.1413', 'states:0.1305', 'zhao:0.1195', 'secretary:0.1167', 'increase:0.1098', 'ani:0.1086', 'ready:0.0966', 'sluggish:0.0815', 'especially:0.0754', 'recently:0.0546']+titles_keywords+['sanctions:0.4684', 'economy:0.2495', 'worse:0.2376', 'world:0.2318', 'condemn:0.2106']"
+        ]
+    ],
+    "CZE+RUS+111":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/shanghainews.net/ExCzech leader denounces hatred of Russia.txt+eventbasecode111+eventcode111+avgtone0.47990543735224583+goldsteinscale0.4+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.039473684210526314+news_keywords+['ukraine:0.4968', 'kremlin:0.4025', 'nato:0.3948', 'vaclav:0.3698', 'negotiation:0.3174', 'exczech:0.2934', 'peace:0.2677', 'bloc:0.2452', 'unprovoked:0.2413', 'history:0.2222', 'instead:0.2183', 'pragmatism:0.2107', 'neutral:0.2082', 'news:0.2037', 'write:0.1971', 'sanction:0.1895', 'plan:0.1858', 'breakaway:0.1794', 'join:0.1787', 'table:0.1771', 'isn:0.1734', 'issue:0.1726', 'soon:0.1538', 'albeit:0.1445', 'donbass:0.1328', 'person:0.1316', 'term:0.1307', 'import:0.105', 'focus:0.1029', 'retake:0.1027']+titles_keywords+['exczech:0.5748', 'denounces:0.3656', 'russia:0.3052', 'hatred:0.2941', 'leader:0.1269']"
+        ]
+    ],
+    "GBR+RUS+111":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/shanghainews.net/UK will work to ensure sovereignty independence of Ukraine PM.txt+eventbasecode111+eventcode111+avgtone0.48214285714285715+goldsteinscale0.4+nummentions0.16545718432510886+numarticles0.1660623640319072+numsources0.14802631578947367+news_keywords+['ukraine:0.5289', 'putin:0.4875', 'sanction:0.3188', 'zelenskyy:0.2914', 'independence:0.2878', 'negotiation:0.2772', 'news:0.2653', 'flag:0.2457', 'sputnik:0.2274', 'table:0.2229', 'cite:0.2063', 'biden:0.1906', 'isolate:0.1882', 'downing:0.1863', 'vtb:0.1818', 'friday:0.1803', 'introduce:0.1702', 'sit:0.1631', 'tweet:0.1569', 'long:0.1472', 'street:0.1388', 'global:0.1346', 'statement:0.1299', 'readout:0.1253', 'ensure:0.1245', 'freeze:0.1082', 'telephone:0.099', 'like:0.0846', 'ani:0.0836', 'restore:0.0233']+titles_keywords+['ukraine:0.4237', 'sovereignty:0.3631', 'independence:0.3362', 'work:0.1623', 'ensure:0.1342']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/shanghainews.net/War returns to Europe as longawaited Russian invasion begins.txt+eventbasecode111+eventcode111+avgtone0.47651579846285225+goldsteinscale0.4+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5822368421052632+news_keywords+['nato:0.4199', 'putin:0.403', 'diplomacy:0.3908', 'genocide:0.3665', 'kyiv:0.362', 'militarize:0.3591', 'invasion:0.35', 'escalation:0.3081', 'cyberattack:0.3024', 'veto:0.2764', 'agreement:0.2724', 'unprovoked:0.2553', 'return:0.2448', 'warn:0.2419', 'oppose:0.2341', 'correspondent:0.2323', 'border:0.2276', 'table:0.1998', 'begin:0.1927', 'expect:0.1866', 'world:0.1749', 'law:0.1709', 'information:0.1675', 'nebenzia:0.1658', 'voa:0.1547', 'like:0.1531', 'thursday:0.1522', 'short:0.1453', 'pipeline:0.1312', 'bid:0.1044']+titles_keywords+['war:0.4556', 'invasion:0.4044', 'russian:0.312', 'begins:0.2392', 'returns:0.2166']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+GBR+10":[
+        [
+            "20220210+../news_crawling/RUS_UKR/p_articles/dunfermlinepress.com/Johnson warns of dangerous moment in Ukraine tensions.txt+eventbasecode10+eventcode10+avgtone0.47764227642276424+goldsteinscale0.5+nummentions0.1055878084179971+numarticles0.1062364031907179+numsources0.24013157894736842+news_keywords+['nato:0.4452', 'diplomacy:0.4401', 'ukraine:0.4146', 'threat:0.3533', 'invades:0.3208', 'vladimir:0.2994', 'cyberattacks:0.276', 'escalate:0.2668', 'disaster:0.2638', 'ideological:0.2403', 'coincide:0.2254', 'secretary:0.2249', 'plan:0.2175', 'prepared:0.2154', 'salisbury:0.2134', 'forward:0.1943', 'authorise:0.1799', 'speak:0.172', 'stick:0.1706', 'pipeline:0.1704', 'exchange:0.1702', 'chilly:0.1664', 'trusss:0.1624', 'end:0.1587', 'decide:0.1553', 'long:0.1521', 'current:0.1397', 'weve:0.1331', 'wont:0.127', 'conceivably:0.0921']+titles_keywords+['dangerous:0.4057', 'tensions:0.3687', 'ukraine:0.3277', 'johnson:0.2702', 'moment:0.2571']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/dunfermlinepress.com/Roman Abramovich suspected poisoning claims very concerning Foreign Office.txt+eventbasecode10+eventcode10+avgtone0.47686230248307+goldsteinscale0.5+nummentions0.18650217706821481+numarticles0.18709209572153734+numsources0.42105263157894735+news_keywords+['putin:0.5171', 'kyiv:0.4603', 'oligarch:0.4182', 'abramovich:0.4021', 'poison:0.3912', 'attack:0.3084', 'nuclear:0.2941', 'sabotage:0.2929', 'scare:0.2906', 'operation:0.2718', 'table:0.2604', 'allegation:0.253', 'paramilitary:0.2343', 'oppose:0.2329', 'involve:0.2327', 'negotiate:0.2278', 'know:0.2262', 'report:0.2203', 'intend:0.2198', 'wsj:0.2014', 'expert:0.1902', 'prepared:0.1802', 'symptom:0.1753', 'continue:0.1751', 'mps:0.166', 'plausible:0.1658', 'high:0.1654', 'long:0.1576', 'red:0.1456', 'dozen:0.1233']+titles_keywords+['abramovich:0.5631', 'poisoning:0.3889', 'suspected:0.2883', 'claims:0.1765', 'office:0.1638']"
+        ],
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/dunfermlinepress.com/EU wrestles with Russia oil embargo as leaders gather for summit.txt+eventbasecode10+eventcode10+avgtone0.49498746867167914+goldsteinscale0.5+nummentions0.32873730043541366+numarticles0.3292240754169688+numsources0.32894736842105265+news_keywords+['embargo:0.4472', 'ukraine:0.4324', 'putin:0.376', 'oil:0.3497', 'oligarch:0.2663', 'agreement:0.2555', 'euro:0.2522', 'bloc:0.235', 'table:0.233', 'meeting:0.2268', 'pipeline:0.2235', 'ahead:0.2218', 'viktor:0.2208', 'sector:0.2201', 'government:0.2141', 'lucrative:0.174', 'investigation:0.1724', 'assistance:0.1612', 'step:0.1588', 'summit:0.1483', 'slap:0.1481', 'arrive:0.1443', 'sixth:0.142', 'suffer:0.1398', 'weekend:0.1135', 'include:0.1047', 'distort:0.1046', 'set:0.1043', 'price:0.0841', 'probably:0.0101']+titles_keywords+['embargo:0.3974', 'eu:0.3219', 'oil:0.3164', 'gather:0.1758', 'summit:0.1728']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+70":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/prnewswire.com/Design Agency Humbleteam Is Responding to The War in Ukraine By Donating to Peaceful Civilians.txt+eventbasecode70+eventcode70+avgtone0.5+goldsteinscale0.85+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['humanitarian:0.5046', 'war:0.4606', 'design:0.4176', 'propaganda:0.4139', 'company:0.3939', 'agency:0.3745', 'ukraine:0.3588', 'situation:0.3489', 'apolitical:0.3331', 'prnewswire:0.3162', 'support:0.3011', 'contribute:0.2946', 'purpose:0.2912', 'republic:0.288', 'people:0.2772', 'humbleteam:0.2695', 'fund:0.265', 'succeed:0.2634', 'combine:0.2624', 'deliver:0.242', 'responding:0.2307', 'lovka:0.2219', 'ii:0.2219', 'witness:0.2175', 'significant:0.213', 'dedicate:0.2009', 'unprotected:0.1817', 'condolence:0.1811', 'unfold:0.1737', 'forget:0.1733']+titles_keywords+['donating:0.4548', 'civilians:0.4353', 'humbleteam:0.4109', 'ukraine:0.3756', 'design:0.268']"
+        ]
+    ],
+    "UKR+RUS+70":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/prnewswire.com/How Ukrainian IT service company NiX continues operations amid Russian invasion.txt+eventbasecode70+eventcode70+avgtone0.5025380710659898+goldsteinscale0.85+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukraine:0.4953', 'companiesin:0.3123', 'outsource:0.3118', 'invasion:0.3091', 'operation:0.3067', 'economy:0.2994', 'relocation:0.2922', 'resilience:0.2823', 'tech:0.2814', 'humanitarian:0.2763', 'sector:0.2411', 'analytics:0.2378', 'prnewswire:0.233', 'partnership:0.2284', 'nix:0.2183', 'develop:0.2112', 'iot:0.207', 'product:0.1911', 'global:0.1899', 'affected:0.1782', 'solution:0.172', 'expert:0.1658', 'fight:0.149', 'continue:0.1447', 'join:0.1357', 'donatefor:0.1254', 'primarily:0.1186', 'focus:0.1182', 'large:0.1166', 'month:0.1161']+titles_keywords+['nix:0.4716', 'ukrainian:0.3882', 'invasion:0.2729', 'company:0.2248', 'continues:0.1429']"
+        ]
+    ]
+}

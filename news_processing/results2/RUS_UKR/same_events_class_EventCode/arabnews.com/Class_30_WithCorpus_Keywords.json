@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+30":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/arabnews.com/Russia ready to set up corridor for ships carrying food to leave Ukraine Ifax.txt+eventbasecode30+eventcode30+avgtone0.45283018867924535+goldsteinscale0.7+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['ukraine:0.4214', 'blockade:0.371', 'humanitarian:0.2882', 'corridor:0.2731', 'rudenko:0.2719', 'ship:0.2453', 'supply:0.2168', 'approach:0.2155', 'troop:0.1981', 'plan:0.1921', 'safe:0.1852', 'grain:0.1693', 'news:0.1681', 'transaction:0.161', 'problem:0.1605', 'western:0.1443', 'escort:0.1424', 'demining:0.1414', 'ready:0.1407', 'export:0.1255', 'return:0.1222', 'necessary:0.1119', 'cite:0.1018', 'exacerbate:0.1005', 'possible:0.0956', 'feb:0.0802', 'shallow:0.0742', 'black:0.0675', 'say:0.0648', 'thousand:0.0624']+titles_keywords+['ukraine:0.36', 'corridor:0.2944', 'ships:0.2757', 'ifax:0.2118', 'ready:0.148']"
+        ],
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/arabnews.com/UN sees progress in talks to free up Ukraine grain exports.txt+eventbasecode30+eventcode30+avgtone0.4851258581235698+goldsteinscale0.7+nummentions0.25544267053701014+numarticles0.25598259608411894+numsources0.39473684210526316+news_keywords+['ukraine:0.4394', 'blockade:0.3527', 'diplomat:0.3403', 'war:0.2861', 'corridor:0.2616', 'table:0.2583', 'agreement:0.2561', 'want:0.231', 'secure:0.2297', 'commodity:0.2238', 'navigation:0.2211', 'plan:0.2202', 'news:0.2187', 'develop:0.2167', 'shipment:0.21', 'upcoming:0.2087', 'grain:0.199', 'mechanism:0.1949', 'allow:0.1943', 'turkeys:0.1915', 'fesenko:0.1769', 'report:0.1727', 'issue:0.1717', 'general:0.164', 'impossible:0.1175', 'penta:0.1168', 'resume:0.112', 'farhan:0.1014', 'center:0.087', 'doesnt:0.0658']+titles_keywords+['ukraine:0.3252', 'grain:0.2661', 'progress:0.2255', 'talks:0.2126', 'free:0.0786']"
+        ]
+    ]
+}

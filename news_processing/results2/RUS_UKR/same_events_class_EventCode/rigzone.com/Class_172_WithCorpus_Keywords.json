@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+172":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/rigzone.com/Ukraine Seeks Russia Assets Oil Fleet Seizure.txt+eventbasecode172+eventcode172+avgtone0.46927374301675984+goldsteinscale0.25+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.5006', 'oleg:0.3772', 'tanker:0.3563', 'oil:0.3003', 'seized:0.2748', 'invasion:0.2598', 'economic:0.2163', 'retaliatory:0.2074', 'sell:0.2025', 'diplomat:0.2003', 'proceeds:0.188', 'know:0.1779', 'trillion:0.1706', 'asset:0.1685', 'rebuild:0.1619', 'wary:0.161', 'prepare:0.1592', 'contract:0.1557', 'engage:0.154', 'bloc:0.1498', 'lengthy:0.1361', 'bank:0.1356', 'asanctions:0.1098', 'direct:0.1023', 'controlledsovcomflot:0.0925', 'packagethat:0.0919', 'telephone:0.09', 'set:0.0886', 'mid:0.085', 'possible:0.0654']+titles_keywords+['ukraine:0.437', 'oil:0.2623', 'fleet:0.1938', 'assets:0.1899', 'seeks:0.1133']"
+        ]
+    ],
+    "RUS+UKR+172":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/rigzone.com/Vessels Struck by Missiles South of Ukrainian Port.txt+eventbasecode172+eventcode172+avgtone0.4850498338870432+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimean:0.4508', 'missiles:0.372', 'russia:0.3677', 'azov:0.3135', 'offshore:0.2937', 'safety:0.2932', 'vessel:0.2922', 'ports:0.2572', 'hostility:0.2029', 'navigation:0.2012', 'civilian:0.1986', 'avoid:0.1979', 'transit:0.1903', 'advisory:0.1887', 'flag:0.1857', 'yasa:0.1827', 'operation:0.179', 'update:0.1605', 'incident:0.1577', 'uncertainty:0.1567', 'struck:0.1324', 'commence:0.1234', 'outbreak:0.1029', 'february:0.1011', 'degree:0.099', 'jupiter:0.0916', 'eez:0.0794', 'highlight:0.0762', 'marshall:0.0694', 'understood:0.0621']+titles_keywords+['missiles:0.4506', 'ukrainian:0.3006', 'vessels:0.2811', 'port:0.2404', 'struck:0.1648']"
+        ]
+    ]
+}

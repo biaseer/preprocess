@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/spectator.co.uk/Putins nightmare is becoming a reality.txt+eventbasecode51+eventcode51+avgtone0.48157894736842105+goldsteinscale0.67+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.006578947368421052+news_keywords+['putin:0.5599', 'soviet:0.511', 'kgbs:0.4398', 'propaganda:0.4197', 'regime:0.3313', 'solzhenitsyn:0.3185', 'undermine:0.315', 'rouble:0.2709', 'modernise:0.2569', 'read:0.2473', 'propagate:0.2451', 'know:0.2351', 'convey:0.2313', 'crony:0.2131', 'sanction:0.1894', 'beleaguered:0.1881', 'macbeth:0.1861', 'turn:0.179', 'past:0.1731', 'make:0.1624', 'continue:0.1624', 'korean:0.159', 'ordinary:0.1565', 'dangerous:0.155', 'insert:0.1449', 'associate:0.1431', 'boys:0.1398', 'great:0.1282', 'true:0.1155', 'directly:0.0987']+titles_keywords+['nightmare:0.4531', 'putins:0.4481', 'reality:0.3756']"
+        ],
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/spectator.co.uk/Why Ive stayed in Kyiv.txt+eventbasecode51+eventcode51+avgtone0.4916773367477593+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5874', 'tsarist:0.5031', 'russians:0.4175', 'stay:0.3433', 'occupy:0.3276', 'war:0.3228', 'despotism:0.2938', 'destroy:0.2687', 'compatriots:0.2536', 'hostage:0.2486', 'dymerka:0.2486', 'strategic:0.2476', 'help:0.2431', 'missiles:0.2417', 'write:0.2319', 'supply:0.2282', 'alarm:0.2278', 'horde:0.2208', 'hallway:0.2098', 'calm:0.2019', 'long:0.1833', 'remind:0.1818', 'experience:0.169', 'conceal:0.1577', 'boy:0.1516', 'precede:0.145', 'lifeless:0.1443', 'welcome:0.1347', 'entirely:0.1115', 'price:0.0722']+titles_keywords+['kyiv:0.705', 'stayed:0.4261', 'ive:0.2021']"
+        ]
+    ]
+}

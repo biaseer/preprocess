@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+181":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/Russian Troops Reportedly Begin Withdrawing from Chernobyl Area.txt+eventbasecode181+eventcode181+avgtone0.4584382871536524+goldsteinscale0.05+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['chernobyl:0.6442', 'reactor:0.3353', 'evacuate:0.2766', 'russian:0.2583', 'disaster:0.2355', 'radiological:0.2328', 'troop:0.1784', 'concern:0.1775', 'government:0.1573', 'safe:0.1545', 'hospital:0.1452', 'reposition:0.1419', 'vicinity:0.1401', 'news:0.14', 'toxic:0.1353', 'debris:0.1237', 'sarcophagus:0.1088', 'order:0.1035', 'exposure:0.0993', 'worker:0.0662', 'include:0.0607', 'later:0.059', 'february:0.0587', 'held:0.0543', 'relatively:0.0515', 'send:0.0431', 'focus:0.0378', 'shorten:0.0201', 'start:0.0192', 'thousand:0.0135']+titles_keywords+['chernobyl:0.4957', 'russian:0.2667', 'troops:0.2294', 'withdrawing:0.2161', 'begin:0.0689']"
+        ],
+        [
+            "20220614+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/Fate of US Veterans Captured in Ukraine Remains Uncertain.txt+eventbasecode181+eventcode181+avgtone0.47086247086247085+goldsteinscale0.05+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukrainian:0.4561', 'kremlin:0.394', 'veterans:0.3522', 'invasion:0.312', 'peskovs:0.2878', 'mercenary:0.2719', 'government:0.2553', 'separatist:0.251', 'consequence:0.2447', 'operation:0.2374', 'prisoner:0.2295', 'investigation:0.2062', 'breakaway:0.1985', 'legal:0.192', 'fight:0.1913', 'news:0.1852', 'huynh:0.163', 'remains:0.1533', 'geneva:0.1499', 'uncertain:0.1476', 'dpr:0.144', 'recognize:0.1337', 'hear:0.1323', 'align:0.129', 'comment:0.1199', 'right:0.1169', 'follow:0.1147', 'level:0.1087', 'squarely:0.1053', 'february:0.0933']+titles_keywords+['veterans:0.4863', 'ukraine:0.3086', 'captured:0.2741', 'uncertain:0.2056', 'remains:0.1906']"
+        ]
+    ]
+}

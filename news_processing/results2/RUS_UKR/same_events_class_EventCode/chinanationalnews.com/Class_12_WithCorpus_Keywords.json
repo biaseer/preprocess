@@ -1,0 +1,12 @@
+{
+    "CHN+UKR+12":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/chinanationalnews.com/Chinas leaders walking tightrope on RussiaUkraine conflict.txt+eventbasecode12+eventcode12+avgtone0.4798301486199575+goldsteinscale0.48+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.03618421052631579+news_keywords+['ukraine:0.4603', 'ceasefire:0.2804', 'invade:0.2531', 'economist:0.2253', 'sanction:0.215', 'crisis:0.199', 'relation:0.1908', 'transactional:0.1802', 'security:0.1732', 'turn:0.1685', 'subject:0.1657', 'western:0.1624', 'trade:0.1607', 'argue:0.1558', 'counterpart:0.153', 'reticence:0.1524', 'bank:0.1504', 'imposition:0.1463', 'assistance:0.144', 'wang:0.1413', 'world:0.1348', 'role:0.13', 'direct:0.1239', 'restrict:0.1173', 'emphasize:0.1142', 'current:0.099', 'long:0.0976', 'unlikely:0.077', 'ani:0.0678', 'total:0.0378']+titles_keywords+['russiaukraine:0.3193', 'conflict:0.2978', 'chinas:0.2879', 'leaders:0.2388', 'tightrope:0.172']"
+        ]
+    ],
+    "EUR+RUS+12":[
+        [
+            "20220708+../news_crawling/RUS_UKR/p_articles/chinanationalnews.com/China EU urged to uphold their comprehensive strategic partnership.txt+eventbasecode12+eventcode12+avgtone0.4988009592326139+goldsteinscale0.48+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.023026315789473683+news_keywords+['multilateralism:0.4279', 'ukraine:0.382', 'peace:0.2463', 'xinhua:0.2365', 'mutually:0.2177', 'humanitarian:0.1983', 'crisis:0.1964', 'coordination:0.1934', 'talk:0.1905', 'instigation:0.19', 'union:0.1867', 'relation:0.18', 'pursue:0.18', 'govern:0.166', 'role:0.1625', 'concerned:0.1562', 'bloc:0.1524', 'security:0.1473', 'polar:0.1391', 'note:0.135', 'stick:0.1257', 'decouple:0.121', 'yi:0.1184', 'make:0.1157', 'major:0.0922', 'thursday:0.0884', 'difference:0.0806', 'guide:0.0795', 'true:0.0683', 'add:0.0172']+titles_keywords+['eu:0.2696', 'partnership:0.2553', 'strategic:0.2199', 'uphold:0.1673', 'comprehensive:0.1003']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "BEL+UKR+36":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/thompsoncitizen.net/Live updates NATO chief says more atrocities may surface.txt+eventbasecode36+eventcode36+avgtone0.47664460879719733+goldsteinscale0.7+nummentions0.49927431059506533+numarticles0.4782451051486584+numsources0.3190789473684211+news_keywords+['ukraine:0.4865', 'kremlin:0.4478', 'nato:0.4034', 'diplomatic:0.3022', 'redeploy:0.2815', 'annex:0.2791', 'massacre:0.2572', 'muratovs:0.2432', 'update:0.2265', 'soon:0.2247', 'telegram:0.22', 'prepare:0.218', 'continue:0.2083', 'report:0.2042', 'bucha:0.2026', 'refurbishment:0.2012', 'information:0.1967', 'import:0.1931', 'steinmeier:0.1859', 'pipeline:0.1802', 'pivot:0.18', 'sector:0.1742', 'night:0.1688', 'afraid:0.1666', 'red:0.1565', 'open:0.1561', 'respectively:0.1243', 'print:0.1194', 'billion:0.1067', 'agree:0.098']+titles_keywords+['atrocities:0.4724', 'nato:0.4429', 'updates:0.1974', 'live:0.1695', 'chief:0.1686']"
+        ]
+    ],
+    "RUS+BLR+36":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/thompsoncitizen.net/Live updates Moscow says outlook unclear for Ukraine talks.txt+eventbasecode36+eventcode36+avgtone0.4778989098116948+goldsteinscale0.7+nummentions0.5653120464441219+numarticles0.5627266134880348+numsources0.5493421052631579+news_keywords+['ukraine:0.4982', 'kremlin:0.4258', 'natos:0.3993', 'airstrikes:0.3646', 'geopolitics:0.3559', 'evacuate:0.3252', 'infantry:0.2772', 'bashar:0.2634', 'news:0.2618', 'unhcr:0.2454', 'tun:0.2353', 'provocation:0.2144', 'agreement:0.2108', 'ready:0.1959', 'disaster:0.1949', 'covid:0.1833', 'anticipate:0.1793', 'order:0.1781', 'secretary:0.1738', 'continue:0.1724', 'uncertain:0.1642', 'movement:0.1642', 'emphasize:0.1619', 'long:0.1586', 'midnight:0.1506', 'nearly:0.1434', 'arent:0.1409', 'billion:0.1393', 'readout:0.135', 'statistic:0.1176']+titles_keywords+['moscow:0.3849', 'outlook:0.3099', 'updates:0.293', 'unclear:0.2889', 'talks:0.2454']"
+        ]
+    ]
+}

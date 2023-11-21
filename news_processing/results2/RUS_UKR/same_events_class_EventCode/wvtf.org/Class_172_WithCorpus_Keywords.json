@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+172":[
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/wvtf.org/Kyiv hit by Russian airstrikes as information from Mariupol is throttled.txt+eventbasecode172+eventcode172+avgtone0.5+goldsteinscale0.25+nummentions0.09579100145137881+numarticles0.09644670050761421+numsources0.2138157894736842+news_keywords+['kyiv:0.6069', 'russians:0.4051', 'airstrikes:0.3686', 'zelenskyy:0.3405', 'boychenko:0.3242', 'troop:0.2636', 'fight:0.2436', 'happen:0.2359', 'journalist:0.2253', 'vadym:0.2118', 'recaptured:0.1994', 'safe:0.1923', 'range:0.192', 'north:0.1896', 'land:0.1801', 'follow:0.1788', 'railway:0.1724', 'information:0.1701', 'video:0.1523', 'lull:0.1477', 'separate:0.1462', 'weekend:0.1386', 'right:0.1384', 'word:0.1362', 'end:0.134', 'large:0.1326', 'bit:0.132', 'hole:0.1233', 'concentrate:0.1129', 'byline:0.1036']+titles_keywords+['kyiv:0.5644', 'airstrikes:0.3626', 'hit:0.2671', 'mariupol:0.2143', 'throttled:0.2117']"
+        ]
+    ],
+    "UKR+RUS+172":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/wvtf.org/Russian law bans journalists from calling Ukraine conflict a war or an invasion.txt+eventbasecode172+eventcode172+avgtone0.4021739130434785+goldsteinscale0.25+nummentions0.07184325108853411+numarticles0.0725163161711385+numsources0.07894736842105263+news_keywords+['putin:0.4716', 'ukraine:0.4217', 'russian:0.4099', 'journalism:0.3899', 'dmitry:0.3843', 'novaya:0.3355', 'npr:0.3217', 'reporting:0.2789', 'ban:0.2359', 'legislation:0.2273', 'illegal:0.2104', 'invasion:0.201', 'military:0.1836', 'false:0.1752', 'coverage:0.1687', 'safety:0.166', 'copyright:0.1649', 'outlet:0.1516', 'casualty:0.1396', 'echo:0.1321', 'conflict:0.1304', 'transcript:0.1183', 'independent:0.1179', 'edit:0.1029', 'daily:0.0805', 'official:0.0762', 'sign:0.0665', 'year:0.053', 'make:0.0518', 'million:0.0471']+titles_keywords+['ukraine:0.3911', 'journalists:0.3042', 'invasion:0.2447', 'law:0.2419', 'bans:0.164']"
+        ]
+    ]
+}

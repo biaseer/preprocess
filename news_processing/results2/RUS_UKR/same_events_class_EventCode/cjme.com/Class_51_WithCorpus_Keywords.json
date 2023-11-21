@@ -1,0 +1,12 @@
+{
+    "AUS+UKR+51":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/cjme.com/Ukraine students passionate about culture devastated by war.txt+eventbasecode51+eventcode51+avgtone0.5095440084835631+goldsteinscale0.67+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukrainian:0.4908', 'culture:0.4118', 'saskatchewan:0.3478', 'independence:0.2691', 'unite:0.2651', 'student:0.2505', 'change:0.2373', 'floral:0.235', 'speak:0.2251', 'travel:0.2242', 'clothe:0.2205', 'passionate:0.2183', 'emphasis:0.2176', 'similarity:0.2163', 'know:0.2143', 'red:0.1914', 'make:0.187', 'lesson:0.1835', 'hop:0.1697', 'begin:0.1678', 'big:0.1672', 'spring:0.1608', 'covid:0.154', 'custom:0.1424', 'pretty:0.1341', 'allow:0.1326', 'kruegers:0.1193', 'grandparent:0.118', 'chuckle:0.1036', 'werent:0.0943']+titles_keywords+['ukraine:0.4457', 'students:0.3982', 'culture:0.3773', 'war:0.3625', 'passionate:0.26']"
+        ]
+    ],
+    "CAN+UKR+51":[
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/cjme.com/Saskatchewan ready to welcome 200 Ukrainians on flights Wednesday.txt+eventbasecode51+eventcode51+avgtone0.5140562248995983+goldsteinscale0.67+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['saskatchewans:0.4937', 'ukrainian:0.4719', 'provincial:0.4199', 'regina:0.3987', 'immigration:0.3866', 'displaced:0.3343', 'resident:0.319', 'humanitarian:0.2886', 'invasion:0.2809', 'arrive:0.2766', 'support:0.2349', 'stopover:0.2023', 'temporary:0.2015', 'solidaire:0.1789', 'passenger:0.1754', 'poster:0.1707', 'step:0.1668', 'centre:0.1632', 'begin:0.1616', 'willing:0.159', 'july:0.1519', 'welcome:0.1398', 'feel:0.135', 'proud:0.1317', 'issue:0.1133', 'arms:0.1119', 'speaks:0.1087', 'night:0.0953', 'necessary:0.0933', 'similar:0.0723']+titles_keywords+['ukrainians:0.4363', 'saskatchewan:0.3492', 'flights:0.2674', '200:0.2581', 'ready:0.1391']"
+        ]
+    ]
+}

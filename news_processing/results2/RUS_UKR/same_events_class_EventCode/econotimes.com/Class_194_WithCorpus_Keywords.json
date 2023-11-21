@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220825+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine war 22 killed by Russian missile attack as Ukraine marks Independence Day.txt+eventbasecode194+eventcode194+avgtone0.46799999999999997+goldsteinscale0.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['russiaukraine:0.4808', 'kyiv:0.4757', 'ukraines:0.4594', 'soviet:0.4515', 'war:0.4008', 'zelenskyy:0.3298', 'independence:0.3221', 'kill:0.2828', 'frontline:0.2784', 'artillery:0.2574', 'anniversary:0.2406', 'assault:0.2387', 'realise:0.2309', 'exhaustion:0.2151', 'information:0.2143', 'report:0.2105', 'railway:0.2089', 'occupied:0.2006', 'escalate:0.1994', 'everyday:0.1849', 'people:0.1798', 'turn:0.1773', 'boy:0.171', 'late:0.1638', 'rank:0.1576', 'process:0.1556', 'presidential:0.1402', 'kilometers:0.1359', 'make:0.1356', 'video:0.1307']+titles_keywords+['russiaukraine:0.5049', 'war:0.2991', 'independence:0.2816', 'killed:0.2304', '22:0.1993']"
+        ]
+    ],
+    "UKR+MDA+194":[
+        [
+            "20220708+../news_crawling/RUS_UKR/p_articles/econotimes.com/RussiaUkraine conflict Tanker in Black Sea hit by Russian missiles says Ukraine.txt+eventbasecode194+eventcode194+avgtone0.4748010610079575+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.506', 'russiaukraine:0.4399', 'tanker:0.3358', 'blockade:0.3102', 'invasion:0.31', 'missiles:0.2799', 'conflict:0.2792', 'flag:0.2636', 'military:0.2496', 'snake:0.2362', 'pollution:0.2256', 'volodymyr:0.2185', 'yermak:0.2114', 'humanitarian:0.1982', 'basins:0.1875', 'news:0.1831', 'realise:0.1816', 'obstruct:0.1661', 'temporary:0.1621', 'withdraw:0.1492', 'corridor:0.1479', 'month:0.1452', 'cite:0.1416', 'port:0.1385', 'fourth:0.1283', 'use:0.1268', 'loosen:0.1256', 'video:0.1226', 'rebuild:0.1218', 'tweet:0.1146']+titles_keywords+['russiaukraine:0.4533', 'tanker:0.4083', 'missiles:0.3418', 'hit:0.2279', 'conflict:0.1881']"
+        ]
+    ]
+}

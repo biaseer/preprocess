@@ -1,0 +1,12 @@
+{
+    "ISR+RUS+36":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/i24news.tv/Zelensky says Ukraine grateful for Israeli mediation efforts.txt+eventbasecode36+eventcode36+avgtone0.5035971223021583+goldsteinscale0.7+nummentions0.020682148040638608+numarticles0.017766497461928935+numsources0.023026315789473683+news_keywords+['knesset:0.4526', 'zelensky:0.4367', 'zionism:0.4248', 'ukraine:0.4072', 'holocaust:0.3659', 'mediation:0.2738', 'conciliatory:0.2466', 'talk:0.2198', 'volodymyr:0.2181', 'president:0.2142', 'embattled:0.212', 'strategy:0.1585', 'yoaz:0.1562', 'kill:0.1555', 'fence:0.1395', 'begin:0.1384', 'navigate:0.1361', 'citizens:0.1344', 'prime:0.0958', 'thank:0.0852', 'bennett:0.0852', 'hour:0.0843', 'look:0.0842', 'update:0.0839', 'stark:0.0836', 'orit:0.0827', 'way:0.0722', 'comparison:0.0638', 'video:0.0625', 'possibly:0.033']+titles_keywords+['zelensky:0.5067', 'mediation:0.3318', 'israeli:0.2551', 'grateful:0.2066', 'says:0.0224']"
+        ]
+    ],
+    "PRT+RUS+36":[
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/i24news.tv/UN chief to visit Turkey ahead of Russia Ukraine trips.txt+eventbasecode36+eventcode36+avgtone0.5100401606425703+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['erdogan:0.4021', 'putin:0.3946', 'ankara:0.3388', 'kyiv:0.3341', 'humanitarian:0.3325', 'russias:0.2647', 'president:0.2578', 'turkeys:0.2486', 'visit:0.2195', 'lavrov:0.2187', 'nations:0.1763', 'capital:0.1763', 'mediate:0.1761', 'united:0.1738', 'convene:0.1701', 'agenda:0.1636', 'receive:0.1545', 'guterres:0.1523', 'office:0.1138', 'chief:0.1135', 'official:0.1116', 'thursday:0.1089', 'role:0.1079', 'say:0.0798', 'right:0.061', 'feature:0.0476', 'recep:0.0447', 'set:0.0204', 'subsequent:0.0119', 'griffiths:0.0102']+titles_keywords+['turkey:0.3885', 'ukraine:0.3174', 'visit:0.194', 'chief:0.1531', 'ahead:0.0441']"
+        ]
+    ]
+}

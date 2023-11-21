@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+182":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Prince Harry and Meghan stand with people of Ukraine in defiant Russia statement.txt+eventbasecode182+eventcode182+avgtone0.46798029556650245+goldsteinscale0.025+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['chernobyl:0.5194', 'ukraine:0.4767', 'putin:0.4383', 'nato:0.3746', 'invade:0.2987', 'humanitarian:0.2475', 'news:0.2426', 'reaction:0.2305', 'meghan:0.2248', 'harry:0.2092', 'prince:0.1979', 'safe:0.1952', 'world:0.1947', 'aggressor:0.1947', 'people:0.1935', 'power:0.1853', 'statement:0.1808', 'want:0.1698', 'thursday:0.1586', 'office:0.1506', 'blood:0.1496', 'severe:0.1492', 'speak:0.1483', 'launch:0.1431', 'law:0.141', 'sign:0.1269', 'big:0.1159', 'impossible:0.0917', 'currently:0.0778', 'hour:0.0747']+titles_keywords+['ukraine:0.3971', 'harry:0.3322', 'meghan:0.2919', 'stand:0.2015', 'statement:0.1706']"
+        ]
+    ],
+    "UKR+RUS+182":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Russian soldiers walking off into woods as more than 7000 of Putins troops killed.txt+eventbasecode182+eventcode182+avgtone0.46875+goldsteinscale0.025+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.46', 'russians:0.4167', 'kyiv:0.3693', 'war:0.3481', 'invasion:0.3296', 'troop:0.3186', 'afghanistan:0.2915', 'pentagon:0.2783', 'news:0.2132', 'casualty:0.2123', 'losses:0.1876', 'attention:0.1685', 'bad:0.1642', 'combine:0.1537', 'continue:0.1441', 'explain:0.1362', 'hit:0.1262', 'manipulate:0.125', 'hear:0.1224', 'late:0.1155', 'estimate:0.1111', 'outlet:0.1028', 'largely:0.0982', 'despite:0.0969', 'dozen:0.0844', 'cohesion:0.0784', 'state:0.0755', 'sure:0.0726', 'itll:0.0476', 'havent:0.0028']+titles_keywords+['putins:0.432', 'troops:0.3838', 'woods:0.2452', 'walking:0.2431', '7000:0.1923']"
+        ]
+    ]
+}

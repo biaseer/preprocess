@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+160":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/enca.com/From oil to assets Western sanctions target Russian economy.txt+eventbasecode160+eventcode160+avgtone0.4739057239057239+goldsteinscale0.3+nummentions0.026850507982583455+numarticles0.02755620014503263+numsources0.023026315789473683+news_keywords+['embargo:0.4775', 'putin:0.4719', 'moscow:0.4249', 'sanction:0.3827', 'blacklist:0.3602', 'economy:0.2768', 'eu:0.2722', 'visa:0.2706', 'bloc:0.2491', 'halt:0.2327', 'isolate:0.2129', 'list:0.2005', 'rosneft:0.1997', 'invaded:0.1955', 'extend:0.1884', 'pipeline:0.1846', 'affected:0.1821', 'export:0.1777', 'enter:0.1755', 'plan:0.173', 'act:0.1542', 'period:0.15', 'monday:0.1388', 'aircraft:0.1326', 'head:0.128', 'sberbank:0.1151', 'symbolic:0.1127', 'measure:0.1011', 'hundreds:0.0933', 'agree:0.0852']+titles_keywords+['sanctions:0.5498', 'russian:0.3552', 'economy:0.3079', 'oil:0.3012', 'assets:0.2363']"
+        ]
+    ],
+    "UKR+RUS+160":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/enca.com/Heavy fighting in Ukraines east as Mariupol evacuation delayed.txt+eventbasecode160+eventcode160+avgtone0.46900826446280985+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4988', 'ceasefire:0.4418', 'militarise:0.3735', 'evacuate:0.3531', 'news:0.2947', 'prepare:0.263', 'coordinated:0.2577', 'diplomat:0.2576', 'occupied:0.2534', 'fighting:0.2513', 'lavrov:0.249', 'capital:0.2297', 'yair:0.221', 'afp:0.2167', 'cite:0.215', 'continue:0.2083', 'deliver:0.2045', 'important:0.1919', 'date:0.1904', 'tunnel:0.1749', 'turn:0.1742', 'import:0.1739', 'biden:0.1712', 'week:0.1706', 'severodonetsk:0.1704', 'erroneous:0.1685', 'donbas:0.1582', 'draw:0.128', 'billion:0.1214', 'reciprocal:0.121']+titles_keywords+['ukraines:0.4267', 'evacuation:0.4046', 'fighting:0.352', 'mariupol:0.2477', 'delayed:0.1728']"
+        ]
+    ]
+}

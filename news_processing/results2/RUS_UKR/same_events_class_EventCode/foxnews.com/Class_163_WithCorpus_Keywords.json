@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+163":[
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/foxnews.com/Superyacht captain fended off Kalashnikovwielding pirates with pain rays worker says.txt+eventbasecode163+eventcode163+avgtone0.480225988700565+goldsteinscale0.1+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.4962', 'putin:0.4669', 'yacht:0.4603', 'superyachts:0.439', 'oligarch:0.4055', 'crisisphilipmorris:0.3538', 'kalashnikovwielding:0.3351', 'invasion:0.3111', 'rosneft:0.3081', 'news:0.2917', 'sanction:0.2875', 'captain:0.284', 'oil:0.2746', 'military:0.2684', 'glamour:0.2627', 'port:0.2564', 'know:0.2432', 'covet:0.2184', 'list:0.2168', 'world:0.2023', 'slap:0.2019', 'claim:0.1999', 'deliver:0.1972', 'scene:0.1968', 'sensation:0.187', 'surreal:0.1749', 'ubilla:0.1717', 'reportedly:0.1612', 'million:0.1339', 'electromagnetic:0.1176']+titles_keywords+['superyacht:0.3852', 'pirates:0.3721', 'kalashnikovwielding:0.368', 'captain:0.3432', 'pain:0.3047']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20211208+../news_crawling/RUS_UKR/p_articles/foxnews.com/Why Putin is willing to risk a catastrophic war to dominate Ukraine.txt+eventbasecode163+eventcode163+avgtone0.46944444444444444+goldsteinscale0.1+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.01644736842105263+news_keywords+['putin:0.5815', 'yanukovych:0.4676', 'crimean:0.4671', 'geopolitical:0.4399', 'ukrainepoverty:0.4351', 'natos:0.3547', 'invade:0.314', 'risk:0.2489', 'coercive:0.2481', 'rhetoric:0.2396', 'svetlovgetty:0.2313', 'border:0.2185', 'playbook:0.1999', 'chaos:0.1935', 'adviser:0.193', 'bold:0.192', 'understand:0.1737', 'prepare:0.1727', 'worldview:0.1688', 'functioning:0.1379', 'news:0.1358', 'end:0.1349', 'long:0.1225', 'list:0.1194', 'reincorporate:0.1175', 'incremental:0.1023', 'true:0.0851', 'integrate:0.0803', 'unwind:0.0788', 'major:0.0563']+titles_keywords+['putin:0.5087', 'war:0.3401', 'risk:0.2898', 'dominate:0.2527', 'catastrophic:0.194']"
+        ],
+        [
+            "20220120+../news_crawling/RUS_UKR/p_articles/foxnews.com/Russia threats rhetoric increase chance of conflict as it seeks NATO assurances.txt+eventbasecode163+eventcode163+avgtone0.47011308562197096+goldsteinscale0.1+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4996', 'ukraine:0.4766', 'nato:0.4126', 'destabilization:0.3705', 'threat:0.3102', 'news:0.2729', 'incursion:0.2619', 'zelenskyy:0.2397', 'rhetoric:0.2299', 'prepare:0.226', 'know:0.2046', 'psaki:0.1994', 'discus:0.1928', 'increase:0.1901', 'fight:0.1901', 'secretary:0.1816', 'consolidate:0.1813', 'order:0.1801', 'covid:0.1746', 'submit:0.1739', 'vague:0.1701', 'include:0.1689', 'thursday:0.1648', 'powerful:0.156', 'end:0.1555', 'long:0.1533', 'unit:0.1455', 'like:0.142', 'minor:0.1406', 'et:0.1228']+titles_keywords+['nato:0.4056', 'rhetoric:0.3059', 'assurances:0.2611', 'conflict:0.2587', 'increase:0.1807']"
+        ]
+    ]
+}

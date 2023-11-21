@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+14":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Nord Stream 2 owner considering insolvency after US sanctions over Russia invading Ukraine Report.txt+eventbasecode14+eventcode14+avgtone0.4805914972273568+goldsteinscale0.5+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.009868421052631578+news_keywords+['pipeline:0.4071', 'russia:0.374', 'reuters:0.3508', 'insolvency:0.3491', 'economy:0.3124', 'gazprom:0.276', 'supply:0.2633', 'nord:0.2596', 'crisis:0.2501', 'executive:0.2258', 'diversify:0.2192', 'breakaway:0.2086', 'invasion:0.1967', 'sanction:0.1961', 'oppose:0.1921', 'proceed:0.1899', 'stream:0.1857', 'transit:0.1818', 'ag:0.1702', 'read:0.1594', 'state:0.1512', 'rts:0.1499', 'anonymity:0.147', 'potential:0.1349', 'unclear:0.1333', 'feb:0.1181', 'indirectly:0.1148', 'major:0.0722', 'percent:0.0706', 'longer:0.0681']+titles_keywords+['insolvency:0.4174', 'sanctions:0.3544', 'nord:0.3254', 'stream:0.2176', 'owner:0.174']"
+        ]
+    ],
+    "USA+UKR+14":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Ukraine The economic significance for Russia and the West Deep Dive.txt+eventbasecode14+eventcode14+avgtone0.49741315594974134+goldsteinscale0.5+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.003289473684210526+news_keywords+['ukraine:0.5363', 'annexation:0.2954', 'economically:0.245', 'globe:0.2062', 'geostrategic:0.2034', 'sector:0.1964', 'diversify:0.1917', 'shevchenkivske:0.1836', 'significance:0.1797', 'pipeline:0.1774', 'weaponize:0.1763', 'future:0.1699', 'iron:0.1518', 'rank:0.142', 'want:0.1389', 'spillover:0.1339', 'know:0.1284', 'state:0.1278', 'resource:0.1155', 'albeit:0.1085', 'hotspot:0.1032', 'follow:0.1013', 'wary:0.097', 'secretary:0.0911', 'aside:0.0899', 'export:0.0867', 'tilt:0.0691', 'issue:0.062', 'big:0.0518', 'untapped:0.0402']+titles_keywords+['ukraine:0.5689', 'economic:0.3535', 'significance:0.2005', 'deep:0.164', 'west:0.1503']"
+        ]
+    ]
+}

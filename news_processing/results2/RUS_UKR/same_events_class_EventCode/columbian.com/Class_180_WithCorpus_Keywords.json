@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/columbian.com/Cyberattacks accompany Russian military assault on Ukraine.txt+eventbasecode180+eventcode180+avgtone0.45967741935483875+goldsteinscale0.05+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.019736842105263157+news_keywords+['cyberattacks:0.583', 'kremlin:0.4398', 'russias:0.4193', 'crimea:0.399', 'nato:0.3893', 'attack:0.3524', 'ru:0.3171', 'disinformation:0.3062', 'ransomware:0.2994', 'symantec:0.2897', 'barrage:0.2704', 'outage:0.2594', 'infected:0.2547', 'operation:0.2495', 'telegram:0.2452', 'know:0.2298', 'data:0.2061', 'whispergate:0.199', 'headline:0.1908', 'blame:0.187', 'precede:0.1865', 'classify:0.1857', 'notpetya:0.1774', 'eset:0.1625', 'playbook:0.1606', 'continue:0.1557', 'similar:0.1446', 'month:0.1394', 'added:0.088', 'doug:0.0605']+titles_keywords+['cyberattacks:0.536', 'ukraine:0.3886', 'military:0.2278', 'assault:0.2243', 'accompany:0.127']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/columbian.com/US Polands jet offer for Ukraine not tenable.txt+eventbasecode180+eventcode180+avgtone0.48671726755+goldsteinscale0.05+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.013157894736842105+news_keywords+['nato:0.4995', 'polands:0.4361', 'pentagon:0.3094', 'migs:0.2941', 'jet:0.2832', 'war:0.2668', 'russian:0.2565', 'airspace:0.2311', 'ramstein:0.229', 'nation:0.1875', 'ally:0.1673', 'relations:0.1614', 'retaliation:0.1501', 'bloc:0.1457', 'deliver:0.136', 'offer:0.1231', 'issue:0.1227', 'plan:0.1213', 'use:0.116', 'undersecretary:0.1144', 'tenable:0.0994', 'awkward:0.0941', 'familiar:0.0908', 'continue:0.0843', 'look:0.0824', 'speak:0.0812', 'wider:0.0779', 'free:0.0642', 'state:0.0577', 'likely:0.0251']+titles_keywords+['polands:0.4018', 'ukraine:0.3816', 'jet:0.3143', 'offer:0.2452', 'tenable:0.1814']"
+        ]
+    ]
+}

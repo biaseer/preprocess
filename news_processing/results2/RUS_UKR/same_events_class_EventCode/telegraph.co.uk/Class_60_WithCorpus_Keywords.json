@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+60":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Russian soldier dies from radiation poisoning in Chernobyl.txt+eventbasecode60+eventcode60+avgtone0.4600997506234416+goldsteinscale0.8+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['chernobyl:0.633', 'radioactive:0.4277', 'kremlin:0.3994', 'ukrainian:0.3855', 'disaster:0.2637', 'casualty:0.2633', 'military:0.2573', 'toxic:0.2226', 'telegraph:0.2069', 'expose:0.1896', 'history:0.1863', 'retreat:0.1722', 'turn:0.1617', 'competence:0.1577', 'treat:0.1532', 'issue:0.1469', 'plant:0.1405', 'document:0.1361', 'know:0.133', 'order:0.1251', 'north:0.1216', 'suit:0.1212', 'gomel:0.103', 'dirt:0.1001', 'live:0.0899', 'rip:0.0811', 'relatively:0.0791', 'hotbed:0.0725', 'thousand:0.042', 'fringe:0.0413']+titles_keywords+['chernobyl:0.5671', 'russian:0.3228', 'soldier:0.2144', 'poisoning:0.1933', 'dies:0.1796']"
+        ]
+    ],
+    "UKR+RUS+60":[
+        []
+    ]
+}

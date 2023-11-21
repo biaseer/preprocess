@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+33":[
+        [
+            "20210731+../news_crawling/RUS_UKR/p_articles/daily-sun.com/4 killed as wildfires sweep Turkey.txt+eventbasecode33+eventcode33+avgtone0.46186440677966095+goldsteinscale0.76+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['wildfires:0.5391', 'ankara:0.4659', 'greece:0.394', 'erdogan:0.3853', 'turkeys:0.3187', 'firefighter:0.2894', 'evacuate:0.2763', 'region:0.269', 'resort:0.2527', 'villages:0.2466', 'burn:0.2325', 'reuters:0.2281', 'blaze:0.2232', 'governor:0.2056', 'plane:0.1815', 'pine:0.1779', 'manavgat:0.1674', 'involve:0.1633', 'report:0.1623', 'risk:0.1586', 'start:0.1522', 'temperature:0.1429', 'battle:0.1322', 'km:0.1306', 'august:0.1181', 'mugla:0.1027', 'toll:0.0977', 'close:0.0814', 'add:0.0709', 'tore:0.0706']+titles_keywords+['wildfires:0.4923', 'turkey:0.3153', 'killed:0.1986', 'sweep:0.0623']"
+        ],
+        [
+            "20220528+../news_crawling/RUS_UKR/p_articles/daily-sun.com/Russia ready to help with shipping grain from Ukraine.txt+eventbasecode33+eventcode33+avgtone0.4636363636363636+goldsteinscale0.76+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.511', 'ukraine:0.5008', 'kremlin:0.453', 'moscows:0.3699', 'supply:0.294', 'economic:0.2703', 'sanction:0.2668', 'disrupt:0.2596', 'grain:0.2559', 'hunger:0.2418', 'concern:0.224', 'report:0.2217', 'afp:0.2158', 'fertiliser:0.2116', 'ship:0.1921', 'increase:0.182', 'ready:0.1758', 'require:0.1734', 'help:0.1723', 'weapon:0.165', 'erroneous:0.1593', 'western:0.1538', 'result:0.1527', 'world:0.151', 'course:0.1417', 'emmanuel:0.1331', 'relevant:0.1306', 'look:0.125', 'saturday:0.111', 'scholz:0.0752']+titles_keywords+['ukraine:0.3964', 'grain:0.2927', 'shipping:0.2865', 'ready:0.1701', 'help:0.1386']"
+        ]
+    ]
+}

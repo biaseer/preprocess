@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/McDonalds KFC Pizza Hut and Adidas slammed by Russian media for standing with Ukraine.txt+eventbasecode112+eventcode112+avgtone0.48031496062992124+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['russia:0.4703', 'pravda:0.4335', 'russophobia:0.3837', 'americanisation:0.368', 'mcdonald:0.3593', 'hypocrisy:0.2603', 'company:0.2546', 'western:0.2392', 'article:0.2264', 'ignore:0.22', 'uranium:0.2183', 'operation:0.2078', 'synthetic:0.2014', 'furniture:0.1914', 'garbage:0.1889', 'conclude:0.1829', 'shoe:0.1771', 'isn:0.1767', 'want:0.1724', 'heineken:0.1723', 'sanction:0.1681', 'say:0.163', 'healthy:0.1578', 'funny:0.1426', 'learn:0.1345', 'sure:0.133', 'overpriced:0.1164', 'way:0.1144', 'longer:0.0773', 'today:0.0732']+titles_keywords+['kfc:0.4533', 'ukraine:0.4259', 'adidas:0.3337', 'media:0.2435', 'standing:0.1464']"
+        ],
+        [
+            "20220613+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Are we being ripped off in the UK with the cost of fuel.txt+eventbasecode112+eventcode112+avgtone0.48099078341013823+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['society:0.3576', 'petrol:0.3525', 'uk:0.3424', 'demand:0.3296', 'protest:0.3146', 'argument:0.2776', 'read:0.2667', 'pump:0.2637', 'organise:0.2555', 'drive:0.2428', 'normalised:0.2423', 'modern:0.2403', 'increase:0.2369', 'fork:0.2233', 'inevitable:0.2153', 'say:0.2055', 'tax:0.2012', 'blame:0.201', 'concern:0.2007', 'cheaper:0.1829', 'replicate:0.1811', 'sign:0.1787', 'rip:0.1692', 'post:0.1681', 'robert:0.1656', 'today:0.1628', 'user:0.1468', 'eglwyswrw:0.1184', 'sansom:0.1082', 'set:0.0917']+titles_keywords+['fuel:0.3333', 'uk:0.3004', 'cost:0.2533', 'ripped:0.0697']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Russia vows new strikes on Kyiv as Ukraine reports 900 civilian bodies found.txt+eventbasecode112+eventcode112+avgtone0.4716636197440585+goldsteinscale0.4+nummentions1.0+numarticles1.0+numsources1.0+news_keywords+['kyiv:0.53', 'russian:0.4041', 'airstrikes:0.3669', 'russias:0.3574', 'moskva:0.3102', 'kill:0.2792', 'nationalist:0.2635', 'missile:0.2618', 'sinehubov:0.2609', 'troop:0.2338', 'occupier:0.2205', 'victory:0.21', 'understand:0.1993', 'buried:0.1945', 'diversion:0.1941', 'ship:0.1759', 'production:0.1742', 'cite:0.1739', 'address:0.1737', 'bucha:0.1667', 'indicate:0.1615', 'accuse:0.1592', 'historic:0.1399', 'data:0.137', 'andriy:0.137', 'follow:0.1327', 'month:0.1225', 'head:0.1185', 'scale:0.0926', 'add:0.0568']+titles_keywords+['kyiv:0.4441', '900:0.2181', 'strikes:0.1881', 'new:0.1378', 'civilian:0.107']"
+        ]
+    ]
+}

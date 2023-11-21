@@ -1,0 +1,54 @@
+{
+    "BLR+UKR+72":[
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/msn.com/Russia squeezes Ukrainian strongholds in east.txt+eventbasecode72+eventcode72+avgtone0.4676025917926566+goldsteinscale0.915+nummentions0.07111756168359942+numarticles0.07179115300942712+numsources0.0756578947368421+news_keywords+['ukraine:0.5105', 'kremlin:0.4332', 'ceasefires:0.4137', 'evacuate:0.3429', 'arrange:0.2455', 'east:0.2446', 'embargo:0.2438', 'sievierodonetsks:0.2426', 'rebuild:0.2424', 'brief:0.2324', 'weaponry:0.2299', 'know:0.2195', 'progress:0.2193', 'industrial:0.2089', 'secretary:0.1987', 'mir:0.1962', 'repercussion:0.1936', 'readout:0.1847', 'donbas:0.1749', 'end:0.1714', 'concern:0.1679', 'hub:0.1626', 'twitter:0.1552', 'population:0.142', 'round:0.1403', 'thursday:0.14', 'untreated:0.132', 'comv:0.1254', 'rd:0.1217', 'sure:0.1104']+titles_keywords+['ukrainian:0.4044', 'squeezes:0.3066', 'russia:0.3042', 'strongholds:0.2807', 'east:0.1997']"
+        ]
+    ],
+    "CAN+RUS+72":[
+        []
+    ],
+    "QAT+UKR+72":[
+        []
+    ],
+    "RUS+BLR+72":[
+        []
+    ],
+    "RUS+RUS+72":[
+        []
+    ],
+    "RUS+UKR+72":[
+        [],
+        [],
+        [],
+        [],
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/msn.com/Russia The Oligarch Files.txt+eventbasecode72+eventcode72+avgtone0.48985507246376814+goldsteinscale0.915+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['oligarchs:0.5962', 'russia:0.5307', 'putin:0.5165', 'billionaires:0.4843', 'billionaire:0.4217', 'vladimir:0.372', 'businessmen:0.3221', 'oligarchsworth:0.3011', 'forbes:0.2866', 'privatization:0.2731', 'estate:0.2646', 'money:0.2189', 'billion:0.2084', 'company:0.1816', 'superyachts:0.1809', 'list:0.1464', 'read:0.1073', 'real:0.0984', 'prewar:0.0967', 'hit:0.0935', 'total:0.0915', 'western:0.0905', 'sanction:0.0881', 'qualify:0.0763', 'files:0.0737', 'march:0.0717', 'according:0.0575', 'jet:0.0562', 'embrace:0.0504', 'heres:-0.0261']+titles_keywords+['oligarch:0.6296', 'russia:0.5318', 'files:0.3298']"
+        ],
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/msn.com/Ghost drones helicopters and howitzers Heres a look at the weapons the US is sending.txt+eventbasecode72+eventcode72+avgtone0.4918154761904762+goldsteinscale0.915+nummentions0.03701015965166909+numarticles0.03770848440899202+numsources0.029605263157894735+news_keywords+['ukraine:0.4917', 'drone:0.4333', 'pentagon:0.3632', 'militarize:0.3554', 'taliban:0.2971', 'briefing:0.2805', 'takeover:0.2524', 'battlefield:0.2466', 'scope:0.2346', 'howitzer:0.2339', 'raytheon:0.2206', 'prepare:0.2201', 'javelins:0.214', 'know:0.203', 'bipartisan:0.1803', 'pandemic:0.1794', 'turn:0.1773', 'stock:0.1552', 'renew:0.1532', 'thursday:0.1528', 'similar:0.1422', 'version:0.1365', 'include:0.136', 'slat:0.1236', 'agree:0.1122', 'unman:0.1067', 'send:0.0965', 'total:0.093', 'martin:0.0886', 'focus:0.0848']+titles_keywords+['howitzers:0.5426', 'drones:0.5028', 'ukraine:0.4596', 'ghost:0.2516', 'sending:0.0724']"
+        ],
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/msn.com/After 100 days of war Putin is counting on the worlds indifference.txt+eventbasecode72+eventcode72+avgtone0.47481722177091795+goldsteinscale0.915+nummentions0.00544267053701016+numarticles0.006163886874546773+numsources0.003289473684210526+news_keywords+['ukraine:0.4656', 'kremlin:0.3965', 'war:0.3461', 'timeline:0.3012', 'outcomes:0.2571', 'annex:0.2565', 'remind:0.234', 'separatist:0.2294', 'strategically:0.2278', 'reorganize:0.2217', 'news:0.2077', 'long:0.204', 'continue:0.2018', 'shift:0.1906', 'zelenskys:0.1804', 'protract:0.1764', 'presidential:0.1685', 'column:0.1679', 'savilovafpgetty:0.1665', 'contrast:0.1625', 'industrial:0.1581', 'study:0.1478', 'say:0.1366', 'second:0.1242', 'draw:0.1237', 'warm:0.1194', 'arent:0.1187', 'include:0.1079', 'welcome:0.0685', 'does:0.0645']+titles_keywords+['putin:0.4881', 'indifference:0.352', 'war:0.3218', '100:0.2478', 'days:0.231']"
+        ]
+    ],
+    "UKR+RUS+72":[
+        [],
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/msn.com/Should know better Drunk mum orders 9000 Uber to Ukraine to help fight against Russia.txt+eventbasecode72+eventcode72+avgtone0.49302788844621515+goldsteinscale0.915+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['uber:0.4123', 'fare:0.3867', 'conversation:0.3294', 'trip:0.3257', 'quid:0.3232', 'drunk:0.3213', 'tell:0.3124', 'mum:0.3019', 'russian:0.2973', 'understand:0.2967', 'help:0.2855', 'bank:0.283', 'think:0.277', 'shall:0.2729', 'manchester:0.2696', 'insufficient:0.2667', 'order:0.2515', 'antic:0.2497', 'evening:0.2484', 'fraudulently:0.2468', 'sic:0.2461', 'turn:0.2399', 'fight:0.2374', 'remember:0.2355', 'card:0.2301', 'news:0.225', 'short:0.2214', 'coz:0.2167', 'like:0.2113', 'double:0.1974']+titles_keywords+['ukraine:0.4441', 'uber:0.4355', 'drunk:0.3169', 'mum:0.2623', '9000:0.1376']",
+            "20220319+../news_crawling/RUS_UKR/p_articles/msn.com/60 Rifles Donated at Long Island Gun Shop Being Shipped to Help Ukraine Fight.txt+eventbasecode72+eventcode72+avgtone0.49166666666666664+goldsteinscale0.915+nummentions0.005805515239477504+numarticles0.0029006526468455403+numsources0.0+news_keywords+['gunmakers:0.5349', 'ukraine:0.4389', 'weapon:0.394', 'supply:0.3427', 'invasion:0.3109', 'aid:0.3019', 'donated:0.2794', 'want:0.2751', 'approval:0.2579', 'make:0.2576', 'federal:0.2549', 'blueprint:0.2353', 'agency:0.2172', 'group:0.2092', 'fight:0.2086', 'send:0.2082', 'dozen:0.2066', 'friday:0.2032', 'collect:0.2031', 'happen:0.202', 'new:0.1998', 'know:0.1954', 'heard:0.1915', 'nassau:0.1914', 'long:0.1788', 'hop:0.1616', 'look:0.1517', 'way:0.1302', 'accord:0.0974', 'somewhat:0.0843']+titles_keywords+['rifles:0.4392', 'ukraine:0.3416', 'donated:0.3257', 'shipped:0.3092', '60:0.2447']"
+        ],
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/msn.com/Iowa sending 300000 meals to Ukraine.txt+eventbasecode72+eventcode72+avgtone0.5+goldsteinscale0.915+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['iowa:0.4757', 'ukraine:0.4446', 'humanitarian:0.3608', 'meals:0.3574', 'overseas:0.338', 'heartland:0.3258', 'invasion:0.2884', 'truck:0.2766', 'gov:0.2644', 'rice:0.2627', 'send:0.2486', 'kim:0.2434', 'announce:0.2388', 'report:0.2344', 'fort:0.2289', 'flown:0.2088', 'ballistic:0.2068', 'plan:0.2059', 'soon:0.19', 'vest:0.1846', 'love:0.1841', 'help:0.173', 'hope:0.1615', 'say:0.1601', 'friend:0.1547', 'charge:0.1537', 'month:0.1491', 'des:0.1469', 'fight:0.142', 'free:0.117']+titles_keywords+['iowa:0.4061', 'ukraine:0.393', 'meals:0.3689', 'sending:0.1238', '300000:0.102']"
+        ],
+        []
+    ],
+    "WST+RUS+72":[
+        []
+    ],
+    "WST+UKR+72":[
+        [],
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/msn.com/US allies hustling to save Ukraine Rand Paul says US push to get Ukraine into.txt+eventbasecode72+eventcode72+avgtone0.47463284379172227+goldsteinscale0.915+nummentions0.01741654571843251+numarticles0.018129079042784626+numsources0.009868421052631578+news_keywords+['putin:0.5395', 'ukraines:0.4884', 'nato:0.4356', 'russiabegan:0.4216', 'invade:0.3384', 'propaganda:0.3268', 'diplomat:0.3143', 'boychenko:0.3067', 'embargo:0.2867', 'separatist:0.2597', 'relocate:0.2435', 'headline:0.2178', 'concern:0.214', 'telegram:0.2005', 'want:0.1839', 'senateforeign:0.1804', 'increasingly:0.1759', 'argue:0.1719', 'know:0.1703', 'reiterate:0.1686', 'promise:0.1625', 'april:0.1618', 'billion:0.1479', 'forfood:0.1467', 'outlet:0.1408', 'long:0.1243', 'tomorrow:0.1089', 'draw:0.108', 'nearly:0.1024', 'gravesbecause:0.0706']+titles_keywords+['nato:0.4935', 'invasion:0.3461', 'april:0.2609', 'hustling:0.2071', 'rand:0.1964']"
+        ]
+    ]
+}

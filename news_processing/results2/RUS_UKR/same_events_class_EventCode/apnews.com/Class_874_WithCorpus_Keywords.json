@@ -1,0 +1,15 @@
+{
+    "DNK+RUS+874":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/apnews.com/Brewer Carlsberg pulls out of Russia over Ukraine war.txt+eventbasecode87+eventcode874+avgtone0.49881796690307323+goldsteinscale1.0+nummentions0.03555878084179971+numarticles0.0340826686004351+numsources0.03618421052631579+news_keywords+['russia:0.4341', 'heineken:0.4151', 'carlsbergs:0.4148', 'breweries:0.4094', 'moscows:0.3738', 'copenhagen:0.2829', 'war:0.2314', 'krone:0.2213', 'establish:0.2025', 'euro:0.2025', 'revenue:0.1915', 'ceo:0.1856', 'crisis:0.1757', 'pull:0.1597', 'statement:0.1584', 'cite:0.1583', 'concern:0.1544', 'product:0.14', 'exporter:0.1377', 'decide:0.1353', 'western:0.1344', 'reintroduction:0.1335', 'disposal:0.118', 'report:0.1124', 'right:0.1116', 'month:0.111', 'main:0.0957', 'believe:0.0864', 'fully:0.0694', 'ap:0.0606']+titles_keywords+['carlsberg:0.4563', 'ukraine:0.339', 'brewer:0.2328', 'war:0.1939', 'pulls:0.1648']"
+        ]
+    ],
+    "RUS+UKR+874":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/apnews.com/Ukraine nuclear operator Russian troops leave Chernobyl.txt+eventbasecode87+eventcode874+avgtone0.4892086330935252+goldsteinscale1.0+nummentions0.09941944847605225+numarticles0.09209572153734591+numsources0.1513157894736842+news_keywords+['chernobyl:0.6251', 'ukraines:0.4002', 'nuclear:0.3834', 'lviv:0.3517', 'russian:0.2837', 'troop:0.2312', 'trench:0.2034', 'facility:0.1616', 'turn:0.1601', 'report:0.153', 'panic:0.1441', 'plant:0.143', 'kilometer:0.1303', 'border:0.1299', 'occupier:0.1278', 'worker:0.1204', 'telegram:0.1133', 'prepare:0.1067', 'leave:0.1035', 'heading:0.1003', 'statement:0.0939', 'dos:0.0913', 'ap:0.0757', 'receive:0.0704', 'state:0.0642', 'independently:0.0456', 'nearly:0.0412', 'significant:0.0336', 'doesnt:0.0322', 'week:0.0138']+titles_keywords+['chernobyl:0.567', 'russian:0.3011', 'troops:0.2051', 'leave:0.1448', 'operator:0.1377']"
+        ],
+        [
+            "20220515+../news_crawling/RUS_UKR/p_articles/apnews.com/Small wins buoy Ukraine West says Russians losing momentum.txt+eventbasecode87+eventcode874+avgtone0.48580121703853957+goldsteinscale1.0+nummentions0.04644412191582003+numarticles0.04713560551124003+numsources0.0625+news_keywords+['ukraine:0.5257', 'natos:0.5011', 'putin:0.4266', 'moscows:0.4044', 'invade:0.3482', 'battalion:0.32', 'missiles:0.2975', 'incendiary:0.2895', 'victory:0.2732', 'diplomatic:0.2724', 'separatist:0.2673', 'sinegubov:0.2401', 'news:0.2385', 'investigation:0.2093', 'continue:0.1886', 'worry:0.1883', 'monday:0.1827', 'change:0.1768', 'flank:0.1726', 'railway:0.1719', 'gop:0.1719', 'explain:0.1696', 'covid:0.1632', 'trt:0.1579', 'cabinet:0.1458', 'hour:0.1445', 'ready:0.137', 'largely:0.1271', 'major:0.1247', 'nonaligned:0.1182']+titles_keywords+['ukraine:0.371', 'momentum:0.366', 'losing:0.3599', 'small:0.2811', 'buoy:0.1791']"
+        ]
+    ]
+}

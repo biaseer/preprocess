@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/As Russia loses key ship Zelenskyy praises nations resolve.txt+eventbasecode87+eventcode874+avgtone0.46897482014388486+goldsteinscale1.0+nummentions0.07256894049346879+numarticles0.07324147933284988+numsources0.09210526315789473+news_keywords+['crimea:0.4861', 'invade:0.3023', 'peacetime:0.2871', 'conflict:0.2815', 'strategic:0.2689', 'outcome:0.2663', 'zelenskyy:0.264', 'news:0.2638', 'military:0.2555', 'know:0.2507', 'commemorate:0.2435', 'detonate:0.2235', 'long:0.221', 'independence:0.2208', 'survive:0.2147', 'capital:0.1982', 'soon:0.1978', 'renew:0.1813', 'forecast:0.1774', 'donbas:0.175', 'mortar:0.1636', 'overshadow:0.1572', 'range:0.1529', 'downgrade:0.1527', 'corpses:0.1483', 'sink:0.1398', 'way:0.1281', 'tow:0.1275', 'thousand:0.122', 'sent:0.066']+titles_keywords+['zelenskyy:0.5354', 'resolve:0.2798', 'russia:0.2699', 'ship:0.1964', 'key:0.1477']"
+        ],
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/Ukraine waits for West to tip balance against Russia after 100 days of war.txt+eventbasecode87+eventcode874+avgtone0.4854368932038835+goldsteinscale1.0+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.03618421052631579+news_keywords+['ukraine:0.4629', 'nato:0.405', 'kremlin:0.3893', 'combat:0.3153', 'howitzer:0.2653', 'tank:0.2641', 'expand:0.2517', 'advance:0.2493', 'long:0.2304', 'western:0.2228', 'unprovoked:0.221', 'sievierodonetsk:0.2158', 'order:0.2056', 'type:0.2036', 'advantage:0.2033', 'accuracy:0.2004', 'capital:0.2004', 'president:0.1994', 'incoming:0.1856', 'sector:0.1738', 'tell:0.1626', 'consultancy:0.1557', 'rotate:0.1531', 'current:0.1513', 'week:0.1491', 'concentrate:0.1452', 'usual:0.131', 'inflection:0.1241', 'include:0.1123', 'relatively:0.0909']+titles_keywords+['ukraine:0.4257', 'war:0.2854', '100:0.2048', 'days:0.1667', 'balance:0.1666']"
+        ]
+    ]
+}

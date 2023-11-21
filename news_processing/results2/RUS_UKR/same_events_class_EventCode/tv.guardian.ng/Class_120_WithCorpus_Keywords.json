@@ -1,0 +1,9 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/tv.guardian.ng/home Ukraine.txt+eventbasecode120+eventcode120+avgtone0.5+goldsteinscale0.3+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.17763157894736842+news_keywords+['ukraine:0.7208', 'home:0.6398']+titles_keywords+['ukraine:0.7208', 'home:0.6398']",
+            "20220306+../news_crawling/RUS_UKR/p_articles/tv.guardian.ng/Ukraine violence.txt+eventbasecode120+eventcode120+avgtone0.4862745098039216+goldsteinscale0.3+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.17763157894736842+news_keywords+['ukraine:0.6129', 'violence:0.5545']+titles_keywords+['ukraine:0.6129', 'violence:0.5545']",
+            "20220306+../news_crawling/RUS_UKR/p_articles/tv.guardian.ng/Venice Biennale.txt+eventbasecode120+eventcode120+avgtone0.4782608695652174+goldsteinscale0.3+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.17763157894736842+news_keywords+['biennale:0.8728', 'venice:0.6439']+titles_keywords+['biennale:0.8728', 'venice:0.6439']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+138":[
+        [
+            "20220528+../news_crawling/RUS_UKR/p_articles/thehindu.com/Russia tests hypersonic missile Zircon amid Ukraine war.txt+eventbasecode138+eventcode138+avgtone0.4981949458483754+goldsteinscale0.15+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.006578947368421052+news_keywords+['missile:0.4434', 'zircon:0.4192', 'hypersonic:0.3936', 'moscow:0.3602', 'gorshkov:0.3585', 'russias:0.3188', 'launch:0.2675', 'range:0.2547', 'kinzhal:0.2396', 'admiral:0.2104', 'test:0.2032', 'km:0.2014', 'war:0.1955', 'intercept:0.1765', 'arctic:0.166', 'use:0.1403', 'precision:0.14', 'hit:0.1379', 'submerge:0.11', 'follow:0.1086', 'new:0.1063', 'maximum:0.0998', 'february:0.0853', 'com:0.0838', 'successfully:0.0734', 'late:0.0663', 'say:0.0648', 'spaw:0.0621', 'step:0.0411', 'conventional:0.037']+titles_keywords+['zircon:0.444', 'ukraine:0.3638', 'hypersonic:0.3427', 'missile:0.3372', 'tests:0.1847']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/thehindu.com/Ukrainian President warns Russia war could lead to famine in other nations.txt+eventbasecode138+eventcode138+avgtone0.467032967032967+goldsteinscale0.15+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4705', 'putin:0.457', 'war:0.347', 'invade:0.332', 'refugee:0.3028', 'zelenskiy:0.298', 'famine:0.2901', 'warn:0.256', 'expansionist:0.2505', 'slaughter:0.2458', 'reform:0.2363', 'nation:0.2213', 'unprovoked:0.2098', 'want:0.2067', 'approach:0.1875', 'long:0.1868', 'pretext:0.1777', 'promise:0.1692', 'allow:0.1606', 'consequence:0.1442', 'false:0.1428', 'skyrocket:0.1369', 'cause:0.1343', 'integrate:0.1201', 'link:0.1125', 'great:0.1118', 'fully:0.1104', 'late:0.0937', 'pas:0.0849', 'mr:0.0838']+titles_keywords+['famine:0.3588', 'ukrainian:0.3466', 'war:0.2556', 'warns:0.1845', 'president:0.1564']"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220517+../news_crawling/RUS_UKR/p_articles/charter97.org/American M777 Howitzers Proved To Be Very Effective On Battlefield In Ukraine.txt+eventbasecode51+eventcode51+avgtone0.5161290322580645+goldsteinscale0.67+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['howitzers:0.6618', 'ukraine:0.4174', 'russian:0.382', 'kharkiv:0.273', 'battlefield:0.2724', 'american:0.2203', 'border:0.2113', 'region:0.1999', 'enemy:0.1896', 'effective:0.172', 'extent:0.1551', 'push:0.1544', 'thanks:0.113', 'great:0.1126', 'proved:0.107']+titles_keywords+['howitzers:0.6621', 'm777:0.3314', 'ukraine:0.3033', 'effective:0.1573', 'proved:0.0979']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/charter97.org/Polish General Russians Are Losing War In Ukraine.txt+eventbasecode51+eventcode51+avgtone0.4766355140186916+goldsteinscale0.67+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukrainians:0.4201', 'kyiv:0.4133', 'polskie:0.3834', 'mobilization:0.3694', 'reservist:0.3594', 'combat:0.3018', 'brigade:0.284', 'territory:0.2383', 'lose:0.2368', 'general:0.2361', 'operational:0.2325', 'advantage:0.2156', 'switch:0.2108', 'counteroffensive:0.1757', 'carry:0.173', 'recover:0.1719', 'weak:0.1691', 'decrease:0.1511', 'second:0.1311', 'report:0.1267', 'believe:0.1169', 'gap:0.1057', 'ground:0.0935', 'oust:0.0918', 'month:0.0858', 'possible:0.084', 'radio:0.0838', 'far:0.0714', 'thanks:0.0609', 'exhaust:0.0471']+titles_keywords+['ukraine:0.3914', 'polish:0.3629', 'losing:0.3491', 'war:0.293', 'general:0.2395']"
+        ],
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/charter97.org/Ukraine Officially Stops Trade With Russia Will Trade With Lukashenka Regime Continue.txt+eventbasecode51+eventcode51+avgtone0.48634812286689416+goldsteinscale0.67+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4987', 'embargo:0.4315', 'lukashenka:0.2701', 'government:0.24', 'finance:0.2235', 'import:0.2232', 'trade:0.2169', 'victory:0.211', 'continue:0.2075', 'announce:0.2023', 'formalize:0.2004', 'relation:0.1998', 'introduction:0.1938', 'secure:0.1872', 'ukrinform:0.1856', 'cessation:0.1722', 'good:0.1705', 'report:0.165', 'statement:0.1576', 'bleed:0.1541', 'decrease:0.1513', 'aggressor:0.1508', 'product:0.1403', 'legally:0.1308', 'example:0.117', 'precisely:0.1034', 'today:0.0995', 'potential:0.0896', 'serve:0.0752', 'accord:0.0624']+titles_keywords+['ukraine:0.4189', 'lukashenka:0.2861', 'stops:0.2248', 'trade:0.1947', 'officially:0.0666']"
+        ],
+        [
+            "20220826+../news_crawling/RUS_UKR/p_articles/charter97.org/Defeat Of Pyatnashka In Donetsk Russian Blogger Leaks Militants Base.txt+eventbasecode51+eventcode51+avgtone0.4607508532423208+goldsteinscale0.67+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['donetsk:0.4873', 'terrorists:0.4108', 'pyatnashka:0.3845', 'putin:0.3396', 'eyewitnesses:0.3285', 'militant:0.3071', 'investigator:0.3022', 'dpr:0.2801', 'explosion:0.2691', 'brigade:0.2609', 'ammunition:0.2433', 'administration:0.2354', 'data:0.2309', 'leaks:0.2263', 'provide:0.2259', 'video:0.2136', 'report:0.2107', 'pushilin:0.2082', 'blogger:0.1965', 'liquidated:0.1954', 'coordinate:0.1935', 'funeral:0.182', 'base:0.18', 'learn:0.164', 'international:0.1453', 'ova:0.1287', 'afu:0.1285', 'interested:0.12', 'august:0.1092', 'thanks:0.0963']+titles_keywords+['donetsk:0.4305', 'militants:0.3896', 'pyatnashka:0.3841', 'blogger:0.3669', 'leaks:0.2652']"
+        ]
+    ]
+}

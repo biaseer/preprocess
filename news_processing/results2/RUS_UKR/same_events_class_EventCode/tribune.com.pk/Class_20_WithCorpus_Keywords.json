@@ -1,0 +1,12 @@
+{
+    "FRA+UKR+20":[
+        [
+            "20220209+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Frances Macron calls for calm to resolve Ukraine crisis.txt+eventbasecode20+eventcode20+avgtone0.4801980198019802+goldsteinscale0.65+nummentions0.013425253991291727+numarticles0.014140681653372008+numsources0.013157894736842105+news_keywords+['macron:0.4565', 'putin:0.435', 'nato:0.4267', 'treaty:0.4004', 'invade:0.3484', 'kyiv:0.3127', 'mediate:0.3031', 'reuters:0.2814', 'crisis:0.2768', 'agreement:0.2731', 'pas:0.2631', 'election:0.2485', 'sanction:0.2452', 'meet:0.2112', 'prepare:0.209', 'read:0.2034', 'economically:0.2017', 'peninsula:0.2005', 'soon:0.1871', 'know:0.1825', 'want:0.1815', 'alongside:0.1751', 'draw:0.1577', 'pipeline:0.1545', 'likelihood:0.1408', 'convergence:0.135', 'scale:0.1246', 'long:0.1196', 'left:0.1132', 'unless:0.08']+titles_keywords+['macron:0.4285', 'calm:0.3692', 'ukraine:0.3225', 'resolve:0.2596', 'crisis:0.2235']"
+        ]
+    ],
+    "PAK+RUS+20":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Pakistan can play role for diplomatic solution to war PM tells Ukrainian president.txt+eventbasecode20+eventcode20+avgtone0.4842105263157894+goldsteinscale0.65+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4748', 'diplomatic:0.3681', 'pakistani:0.3602', 'invade:0.2982', 'zelenskyy:0.2508', 'inform:0.2412', 'reinforce:0.2294', 'hostility:0.2124', 'discuss:0.21', 'imran:0.204', 'concern:0.1993', 'oil:0.1982', 'continue:0.1939', 'priority:0.1888', 'military:0.1703', 'dispatch:0.1661', 'pm:0.1501', 'role:0.1485', 'solution:0.1373', 'like:0.1297', 'twitter:0.1276', 'commodity:0.1234', 'deteriorate:0.1192', 'statement:0.1148', 'oic:0.1134', 'cessation:0.0928', 'highlight:0.0927', 'manifest:0.0918', 'unconditional:0.0793', 'resolution:0.0746']+titles_keywords+['diplomatic:0.3215', 'pakistan:0.2857', 'solution:0.1654', 'pm:0.1593', 'play:0.1144']"
+        ]
+    ]
+}

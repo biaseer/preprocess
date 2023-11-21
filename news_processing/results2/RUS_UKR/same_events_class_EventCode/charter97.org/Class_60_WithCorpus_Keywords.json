@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+60":[
+        [
+            "20220817+../news_crawling/RUS_UKR/p_articles/charter97.org/ISW Analysts Uncover Putins Secret Plan On Ukraine.txt+eventbasecode60+eventcode60+avgtone0.4940944881889764+goldsteinscale0.8+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4926', 'kremlin:0.4794', 'kyiv:0.4159', 'russian:0.3878', 'russias:0.373', 'demilitarize:0.3299', 'strategic:0.316', 'operation:0.2746', 'territory:0.2649', 'donbas:0.2476', 'federation:0.242', 'preliminary:0.1797', 'goal:0.1679', 'misrepresent:0.1568', 'fight:0.1527', 'note:0.1513', 'fulfil:0.1467', 'study:0.1381', 'uncover:0.1303', 'additionally:0.1275', 'unchanged:0.1251', 'integrate:0.1021', 'uch:0.102', 'contrast:0.1018', 'articulate:0.1013', 'isw:0.0698', 'outside:0.0697', 'add:0.0566', 'august:0.0565', 'true:0.0518']+titles_keywords+['putins:0.4508', 'isw:0.2854', 'analysts:0.2718', 'plan:0.2503', 'uncover:0.2375']"
+        ]
+    ],
+    "UKR+RUS+60":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/charter97.org/Ukrainian Knights Of Winter Campaign Show Master Class On How To Destroy Russian Tanks.txt+eventbasecode60+eventcode60+avgtone0.5034965034965034+goldsteinscale0.8+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['tanks:0.4393', 'combat:0.4231', 'ukraine:0.4109', 'knights:0.4007', 'missile:0.3738', 'russian:0.3721', 'armored:0.3542', 'soldiers:0.333', 'brigade:0.3149', 'winter:0.3088', 'destroy:0.3009', 'campaign:0.2894', 'vehicle:0.2616', 'invader:0.2505', 'mechanize:0.2013', 'range:0.1921', 'th:0.1887', 'video:0.1654', 'master:0.1568', 'use:0.1549', 'rf:0.1489', 'hide:0.142', 'class:0.14', 'publish:0.139', 'afu:0.1366', 'new:0.1206', 'stugna:0.104', 'skilful:0.1027', 'continue:0.0931', 'long:0.0704']+titles_keywords+['tanks:0.4359', 'russian:0.3476', 'class:0.2625', 'destroy:0.2574', 'master:0.2365']"
+        ]
+    ]
+}

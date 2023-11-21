@@ -1,0 +1,15 @@
+{
+    "EUR+UKR+51":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/consilium.europa.eu/European Council conclusions on Ukraine 30 May 2022.txt+eventbasecode51+eventcode51+avgtone0.4991095280498664+goldsteinscale0.67+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.013157894736842105+news_keywords+['ukraine:0.5187', 'europol:0.3544', 'sanction:0.2851', 'refugee:0.278', 'war:0.2741', 'sovereignty:0.2423', 'reinforce:0.2114', 'accordance:0.2071', 'urgent:0.2057', 'economic:0.1983', 'pipeline:0.1869', 'circumvention:0.1806', 'coordinate:0.175', 'flee:0.1692', 'prepare:0.1569', 'safe:0.1461', 'import:0.1443', 'function:0.1349', 'civilian:0.1333', 'acknowledge:0.1309', 'matter:0.1169', 'end:0.1154', 'soon:0.1124', 'case:0.1117', 'step:0.1022', 'right:0.0961', 'sixth:0.0936', 'unconditionally:0.0868', 'welcome:0.0689', 'multiannual:0.0611']+titles_keywords+['ukraine:0.534', 'conclusions:0.286', '2022:0.2384', 'council:0.1692', '30:0.0729']"
+        ],
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/consilium.europa.eu/European Peace Facility EU support to Ukraine increased to 25 billion.txt+eventbasecode51+eventcode51+avgtone0.5099750623441396+goldsteinscale0.67+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.006578947368421052+news_keywords+['ukraine:0.4833', 'humanitarian:0.2711', 'troop:0.271', 'accordance:0.2643', 'infrastructure:0.2479', 'peace:0.2455', 'epf:0.2353', 'protect:0.2287', 'independence:0.2173', 'remain:0.2074', 'assistance:0.2008', 'increase:0.1979', 'treatment:0.1905', 'action:0.1885', 'withdraw:0.1787', 'condemn:0.176', 'conclusion:0.1664', 'unconditionally:0.1603', 'allow:0.1559', 'ongoing:0.148', 'forcibly:0.1478', 'arm:0.1375', 'th:0.1307', 'million:0.1192', 'tranche:0.0964', 'far:0.0892', 'overall:0.0863', 'make:0.0855', 'thanks:0.0689', 'today:0.0686']+titles_keywords+['ukraine:0.4544', 'increased:0.2963', 'support:0.1997', '25:0.1638', 'billion:0.15']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/consilium.europa.eu/Soutien de lUE lUkraine le Conseil double le financement au titre de la facilit europenne.txt+eventbasecode51+eventcode51+avgtone0.4919871794871795+goldsteinscale0.67+nummentions0.057329462989840346+numarticles0.05801305293691081+numsources0.12171052631578948+news_keywords+['ukraine:0.4837', 'guerre:0.375', 'russe:0.3412', 'territoire:0.3345', 'agression:0.3256', 'financement:0.3131', 'immdiatement:0.2877', 'dfensives:0.2593', 'assistance:0.2565', 'euros:0.2419', 'convenues:0.2385', 'responsabilit:0.236', 'militaires:0.2336', 'crime:0.2159', 'union:0.2144', 'jour:0.2069', 'lue:0.2006', 'mesures:0.1909', 'fois:0.1839', 'prolonge:0.1755', 'double:0.1289', 'attaques:0.1282', 'continuerons:0.1238', 'plateformes:0.1198', 'population:0.1184', 'entire:0.0925', 'tous:0.0916', 'non:0.0765', 'carburant:0.0761', 'adopt:0.0666']+titles_keywords+['financement:0.5754', 'europenne:0.4017', 'lue:0.3447', 'titre:0.3347', 'double:0.1538']"
+        ]
+    ]
+}

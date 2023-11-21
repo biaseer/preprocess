@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+61":[
+        [
+            "20211118+../news_crawling/RUS_UKR/p_articles/localnews8.com/Europe was already facing a winter gas crisis The risks just got even bigger.txt+eventbasecode61+eventcode61+avgtone0.48954895489548955+goldsteinscale0.82+nummentions0.022133526850507984+numarticles0.02284263959390863+numsources0.03618421052631579+news_keywords+['gas:0.353', 'winter:0.3303', 'pipeline:0.3128', 'geopolitics:0.2803', 'supply:0.2258', 'nord:0.2257', 'crisis:0.2172', 'global:0.2026', 'gazprom:0.2009', 'surge:0.1993', 'predict:0.1985', 'germanys:0.1871', 'fraught:0.1853', 'concern:0.1816', 'incoming:0.1612', 'strategist:0.1462', 'week:0.1294', 'remain:0.1203', 'begin:0.1137', 'import:0.1056', 'unprofitable:0.0977', 'trafigura:0.0971', 'mitigate:0.0963', 'state:0.0837', 'source:0.0739', 'longer:0.072', 'torres:0.0676', 'certify:0.0661', 'shouldnt:0.0471', 'million:0.041']+titles_keywords+['risks:0.347', 'europe:0.29', 'gas:0.2848', 'winter:0.2702', 'crisis:0.2625']"
+        ]
+    ],
+    "RUS+UKR+61":[
+        [
+            "20220517+../news_crawling/RUS_UKR/p_articles/localnews8.com/Ukraines security service hunts the spies selling information to Russia.txt+eventbasecode61+eventcode61+avgtone0.4759427828348505+goldsteinscale0.82+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.013157894736842105+news_keywords+['ukraine:0.4792', 'spy:0.4208', 'investigation:0.345', 'military:0.3262', 'nikolai:0.3255', 'betrayal:0.3024', 'federation:0.2982', 'kill:0.2922', 'know:0.271', 'bombardment:0.2596', 'donbas:0.2566', 'serhiy:0.2553', 'coordinate:0.2454', 'kramatorsk:0.2365', 'attention:0.2318', 'cnn:0.231', 'bucha:0.2282', 'text:0.2254', 'ideological:0.2252', 'change:0.2164', 'ok:0.1953', 'duel:0.1856', 'sbu:0.1851', 'dpr:0.1851', 'cnil:0.1707', 'long:0.1674', 'day:0.1616', 'railway:0.1563', 'sleeved:0.1452', 'sort:0.1315']+titles_keywords+['spies:0.5382', 'ukraines:0.4933', 'security:0.3554', 'hunts:0.2318', 'selling:0.1635']"
+        ]
+    ]
+}

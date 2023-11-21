@@ -1,0 +1,34 @@
+{
+    "AFG+UKR+130":[
+        []
+    ],
+    "DEU+RUS+130":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/dw.com/Russia recognizes independence of Ukraine separatist regions.txt+eventbasecode130+eventcode130+avgtone0.46907216494845355+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.006578947368421052+news_keywords+['ukraine:0.4973', 'russiarecognized:0.4855', 'separatist:0.4261', 'putin:0.4154', 'donetskreleased:0.3849', 'nato:0.3568', 'sovereignty:0.304', 'invade:0.3004', 'conflict:0.2702', 'medvedev:0.2535', 'flag:0.2252', 'unilateral:0.2095', 'declare:0.2051', 'continue:0.1915', 'ditch:0.1889', 'news:0.1823', 'leadersigned:0.1732', 'proliferation:0.1604', 'prepare:0.1586', 'soon:0.1585', 'executive:0.1517', 'order:0.1417', 'long:0.1319', 'confident:0.1309', 'fake:0.1196', 'inphone:0.086', 'tentatively:0.0796', 'earlieron:0.0758', 'agree:0.075', 'olaf:0.0539']+titles_keywords+['ukraine:0.5293', 'separatist:0.3915', 'independence:0.3758', 'regions:0.24', 'recognizes:0.1481']"
+        ],
+        [
+            "20220711+../news_crawling/RUS_UKR/p_articles/dw.com/Russia intensifies assault around Kharkiv.txt+eventbasecode130+eventcode130+avgtone0.4756410256410256+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.5544', 'yanukovych:0.4441', 'aroundkharkiv:0.4311', 'oligarch:0.3517', 'zelenskyy:0.3493', 'invading:0.344', 'terrorism:0.339', 'ankara:0.3188', 'gazprom:0.2863', 'evacuate:0.2806', 'counterattack:0.2614', 'pipeline:0.2549', 'news:0.2514', 'troop:0.2302', 'concern:0.2261', 'nationalizedonly:0.2229', 'intensifies:0.2122', 'covid:0.1928', 'dpr:0.1847', 'april:0.1773', 'want:0.1717', 'write:0.1704', 'axis:0.158', 'omv:0.1538', 'unprecedented:0.1451', 'long:0.1408', 'later:0.1361', 'simplify:0.1345', 'unblocking:0.1019', 'misseddeadlines:0.0595']+titles_keywords+['kharkiv:0.4474', 'assault:0.3064', 'russia:0.2914', 'intensifies:0.1985']"
+        ]
+    ],
+    "RUS+LTU+130":[
+        [
+            "20220622+../news_crawling/RUS_UKR/p_articles/dw.com/Russia warns Lithuania over Kaliningrad.txt+eventbasecode130+eventcode130+avgtone0.4017857142857145+goldsteinscale0.27999999999999997+nummentions0.014150943396226415+numarticles0.014140681653372008+numsources0.013157894736842105+news_keywords+['kaliningrad:0.4786', 'lithuania:0.4508', 'russia:0.4045', 'ukraine:0.3831', 'threaten:0.3242', 'impose:0.2631', 'rail:0.2476', 'warn:0.2384', 'sanction:0.2307', 'consequence:0.1993', 'invasion:0.1943', 'exclave:0.1843', 'block:0.1747', 'shipment:0.167', 'dispute:0.1515', 'unspecified:0.1352', 'follow:0.1272', 'late:0.0728']+titles_keywords+['kaliningrad:0.5203', 'lithuania:0.4373', 'russia:0.2915', 'warns:0.2686']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220109+../news_crawling/RUS_UKR/p_articles/dw.com/Russia not hopeful ahead of talks with US over Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4887295081967213+goldsteinscale0.27999999999999997+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['nato:0.4423', 'kremlin:0.4332', 'kyiv:0.3904', 'diplomat:0.3217', 'invade:0.2955', 'confrontation:0.2719', 'ryabkovis:0.2217', 'border:0.2179', 'separatist:0.2121', 'delegation:0.2012', 'arrive:0.1899', 'biden:0.1894', 'news:0.1816', 'plan:0.1754', 'expectation:0.1718', 'report:0.1442', 'dictate:0.1426', 'increase:0.1407', 'week:0.1297', 'pipeline:0.1287', 'quick:0.1286', 'hold:0.1281', 'cold:0.1237', 'state:0.1127', 'level:0.1057', 'sherman:0.0969', 'resolution:0.0877', 'withthe:0.0773', 'possible:0.0689', 'agree:0.0668']+titles_keywords+['ukraine:0.3359', 'hopeful:0.3289', 'russia:0.2928', 'talks:0.1767', 'ahead:0.0728']"
+        ],
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/dw.com/Violence escalates in eastern Ukraine.txt+eventbasecode130+eventcode130+avgtone0.453125+goldsteinscale0.27999999999999997+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.4583', 'ukraine:0.4466', 'ukrainian:0.4429', 'putin:0.3862', 'russian:0.3854', 'escalate:0.3752', 'vladimir:0.3626', 'invasion:0.3521', 'violence:0.3138', 'separatist:0.2856', 'troop:0.2445', 'return:0.2217', 'avoid:0.206', 'president:0.1642', 'step:0.1602', 'excuse:0.1388', 'eastern:0.1325', 'force:0.1285', 'launch:0.1241', 'shell:0.1093', 'tell:0.0837']+titles_keywords+['ukraine:0.4344', 'violence:0.395', 'escalates:0.3116', 'eastern:0.1478']"
+        ],
+        []
+    ],
+    "UKR+RUS+130":[
+        [],
+        [],
+        [
+            "20220508+../news_crawling/RUS_UKR/p_articles/dw.com/Kyiv says all women children out of Azovstal plant.txt+eventbasecode130+eventcode130+avgtone0.48567987152034264+goldsteinscale0.27999999999999997+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.003289473684210526+news_keywords+['ukraine:0.5084', 'yanukovych:0.4225', 'zelenskyysaidsaturday:0.3561', 'spiegelreported:0.3517', 'invade:0.3322', 'propaganda:0.3156', 'euromaidan:0.3008', 'peaceful:0.2829', 'troop:0.2793', 'commemorate:0.2727', 'blockade:0.2572', 'weaponry:0.2461', 'escalation:0.2427', 'telegram:0.2348', 'coordinate:0.2288', 'agreementfor:0.2252', 'upcoming:0.2237', 'diariesabout:0.2229', 'plan:0.2099', 'pipeline:0.2085', 'notmention:0.199', 'hrt:0.1955', 'alsowarned:0.194', 'say:0.1829', 'vagueness:0.1821', 'modernize:0.1746', 'analyze:0.1743', 'biden:0.1645', 'long:0.1526', 'student:0.1514']+titles_keywords+['kyiv:0.4591', 'azovstal:0.4301', 'children:0.2817', 'plant:0.2647', 'says:0.0829']"
+        ]
+    ]
+}

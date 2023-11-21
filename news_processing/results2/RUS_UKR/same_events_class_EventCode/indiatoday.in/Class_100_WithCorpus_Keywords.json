@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+100":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Chernihiv residents in Ukraine hope to rebuild lives from scratch but future looks grim.txt+eventbasecode100+eventcode100+avgtone0.48070469798657717+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5263', 'chernihiv:0.4245', 'russians:0.4184', 'catastrophe:0.3141', 'war:0.299', 'rebuild:0.2879', 'tank:0.2431', 'stay:0.239', 'future:0.2327', 'mortar:0.2314', 'know:0.2229', 'homeless:0.2225', 'cheerful:0.2149', 'living:0.2146', 'normalcy:0.2143', 'house:0.2105', 'scary:0.2076', 'turn:0.2018', 'want:0.1825', 'northeast:0.1728', 'cemetery:0.1715', 'state:0.1511', 'view:0.1495', 'spared:0.1416', 'fully:0.1402', 'cuddle:0.1393', 'parent:0.1391', 'far:0.125', 'worker:0.1233', 'bhalla:0.1171']+titles_keywords+['chernihiv:0.4488', 'ukraine:0.3855', 'rebuild:0.3478', 'residents:0.2217', 'future:0.1795']"
+        ]
+    ],
+    "UKR+WST+100":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Either accept us or admit fear of Russia Ukraine President Zelenskyy to Nato.txt+eventbasecode100+eventcode100+avgtone0.47389033942558745+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5001', 'nato:0.4632', 'russia:0.4004', 'treaty:0.3572', 'evacuate:0.3534', 'azov:0.3401', 'invasion:0.3162', 'reuters:0.2896', 'kill:0.2515', 'agreement:0.2473', 'humanitarian:0.2278', 'afraid:0.2251', 'aggression:0.2201', 'nazification:0.2075', 'help:0.2015', 'corridor:0.1835', 'oleksii:0.18', 'end:0.1737', 'organization:0.1654', 'north:0.1505', 'thwart:0.1332', 'exist:0.1312', 'way:0.131', 'short:0.1298', 'wrap:0.1206', 'fourth:0.1196', 'body:0.1165', 'major:0.1114', 'week:0.0915', 'largely:0.0826']+titles_keywords+['nato:0.5013', 'zelenskyy:0.4522', 'accept:0.2664', 'fear:0.2462', 'president:0.2264']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+180":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/geo.tv/Biden warns Xi against China backing Russias war in Ukraine.txt+eventbasecode180+eventcode180+avgtone0.47297297297297297+goldsteinscale0.05+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.009868421052631578+news_keywords+['putin:0.4309', 'nato:0.3657', 'russias:0.3635', 'diplomat:0.3087', 'economy:0.2925', 'turmoil:0.2736', 'xi:0.2512', 'taiwan:0.2388', 'world:0.2336', 'olympics:0.2318', 'jinping:0.2228', 'alignment:0.2167', 'sanction:0.2162', 'attack:0.216', 'say:0.182', 'brookings:0.18', 'continue:0.1795', 'understand:0.1761', 'implication:0.1727', 'readout:0.1691', 'psaki:0.1521', 'push:0.1472', 'sherman:0.138', 'priority:0.1328', 'coziness:0.128', 'exporter:0.1145', 'trade:0.1097', 'characterize:0.1055', 'nearly:0.1019', 'backdrop:0.0732']+titles_keywords+['biden:0.3494', 'ukraine:0.295', 'xi:0.2268', 'warns:0.17', 'backing:0.0894']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220430+../news_crawling/RUS_UKR/p_articles/geo.tv/Angelina Jolie visits Ukraine meets people as Russia renews its assault in East.txt+eventbasecode180+eventcode180+avgtone0.510204081632653+goldsteinscale0.05+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['lviv:0.5294', 'angelina:0.4331', 'ukrainians:0.4046', 'russia:0.3628', 'pidhorodetska:0.3002', 'travel:0.2947', 'humanitarian:0.2641', 'attention:0.2633', 'hollywood:0.2531', 'appear:0.2242', 'clothing:0.2194', 'know:0.2127', 'safety:0.2037', 'meet:0.1876', 'bunker:0.1702', 'away:0.1691', 'filmed:0.1661', 'turn:0.1574', 'nondescript:0.157', 'slouchy:0.1529', 'devastate:0.1529', 'autograph:0.1508', 'facebook:0.1417', 'support:0.141', 'hurry:0.138', 'excited:0.1061', 'male:0.1003', 'february:0.0955', 'key:0.0848', 'little:0.0533']+titles_keywords+['angelina:0.471', 'ukraine:0.3811', 'visits:0.1489', 'people:0.1428', 'assault:0.1046']"
+        ]
+    ]
+}

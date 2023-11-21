@@ -1,0 +1,12 @@
+{
+    "ISR+RUS+111":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Unforgivable says Israel as Russias Lavrov claims Hitler had Jewish origins.txt+eventbasecode111+eventcode111+avgtone0.4551386623164763+goldsteinscale0.4+nummentions0.4125544267053701+numarticles0.4129804205946338+numsources0.47039473684210525+news_keywords+['holocaust:0.5233', 'antisemitism:0.436', 'kremlin:0.3916', 'israel:0.3499', 'russias:0.3221', 'historical:0.2982', 'sergey:0.2874', 'conflict:0.262', 'volodymyr:0.2292', 'accuse:0.2138', 'read:0.2108', 'translation:0.2069', 'president:0.2063', 'inversion:0.2018', 'say:0.1925', 'unforgivable:0.1852', 'trivialize:0.1653', 'remark:0.1583', 'include:0.1579', 'news:0.1566', 'lash:0.148', 'remember:0.146', 'reach:0.1454', 'propagate:0.1301', 'dangerous:0.1276', 'neutral:0.1198', 'yad:0.084', 'prime:0.0732', 'central:0.0551', 'sent:0.0364']+titles_keywords+['jewish:0.4301', 'hitler:0.4108', 'unforgivable:0.3745', 'lavrov:0.356', 'russias:0.2749']"
+        ]
+    ],
+    "JPN+RUS+111":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Russian forces step up shelling in Ukraines east.txt+eventbasecode111+eventcode111+avgtone0.475886524822695+goldsteinscale0.4+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.006578947368421052+news_keywords+['ukraine:0.4933', 'war:0.3554', 'separatist:0.3013', 'zelenskyy:0.2842', 'occupy:0.2833', 'news:0.2475', 'read:0.2395', 'sievierodonetsk:0.2273', 'outgunned:0.2183', 'extend:0.2125', 'flee:0.2103', 'industrial:0.1901', 'sergeant:0.1711', 'kilometers:0.1692', 'focus:0.1672', 'sentence:0.1672', 'begin:0.1642', 'legislation:0.1558', 'hour:0.1557', 'standstill:0.1532', 'like:0.1495', 'fumio:0.1492', 'aug:0.1471', 'step:0.1446', 'main:0.1427', 'accuse:0.1392', 'biden:0.1354', 'bring:0.1324', 'thank:0.0999', 'relative:0.0763']+titles_keywords+['ukraines:0.3565', 'russian:0.334', 'shelling:0.3088', 'forces:0.1189', 'step:0.0504']"
+        ]
+    ]
+}

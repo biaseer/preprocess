@@ -1,0 +1,22 @@
+{
+    "EUR+RUS+42":[
+        [
+            "20220205+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/Johnson and Macron agree to fight against malicious Russian activity.txt+eventbasecode42+eventcode42+avgtone0.4853372434017595+goldsteinscale0.595+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.3157894736842105+news_keywords+['natos:0.4816', 'kremlin:0.4007', 'macron:0.3888', 'kyiv:0.3317', 'diplomatic:0.3306', 'attack:0.3165', 'boris:0.2947', 'justify:0.2285', 'remain:0.1948', 'sanction:0.1936', 'occur:0.1895', 'thursday:0.1859', 'planning:0.1779', 'meet:0.1775', 'border:0.1663', 'forward:0.1656', 'calm:0.1565', 'order:0.1558', 'solution:0.1411', 'term:0.1348', 'ensure:0.1332', 'mr:0.1318', 'pre:0.1296', 'elaborate:0.1177', 'agree:0.112', 'olaf:0.1119', 'current:0.1047', 'weve:0.0874', 'fully:0.073', 'overriding:0.0292']+titles_keywords+['macron:0.3704', 'russian:0.2682', 'malicious:0.2397', 'johnson:0.2233', 'fight:0.2066']"
+        ]
+    ],
+    "GBR+UKR+42":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/UK ambassador to Ukraine feeling comfortable on return to Kyiv.txt+eventbasecode42+eventcode42+avgtone0.5038022813688213+goldsteinscale0.595+nummentions0.23149492017416545+numarticles0.23205221174764323+numsources0.21052631578947367+news_keywords+['kyiv:0.5551', 'ukraines:0.4629', 'diplomat:0.3887', 'putin:0.3665', 'invasion:0.2573', 'zelensky:0.2261', 'troop:0.2141', 'remain:0.2101', 'security:0.2054', 'repel:0.1676', 'arrive:0.1651', 'comfortable:0.1571', 'attention:0.1432', 'interview:0.1371', 'strike:0.1314', 'distance:0.1184', 'april:0.1146', 'long:0.1139', 'simmons:0.1074', 'western:0.1047', 'reopen:0.0993', 'want:0.097', 'outwith:0.0949', 'term:0.0853', 'level:0.0845', 'possible:0.0689', 'liable:0.0672', 'monitor:0.0581', 'absolutely:0.0554', 'minimising:0.0247']+titles_keywords+['kyiv:0.4317', 'ambassador:0.3872', 'comfortable:0.3703', 'uk:0.184', 'return:0.1376']"
+        ]
+    ],
+    "POL+UKR+42":[
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/Ukraines president set to meet US officials in Kyiv.txt+eventbasecode42+eventcode42+avgtone0.4734446130500759+goldsteinscale0.595+nummentions0.11284470246734397+numarticles0.11348803480783176+numsources0.10197368421052631+news_keywords+['kyiv:0.4922', 'russians:0.392', 'invade:0.3619', 'orthodox:0.3055', 'civilians:0.258', 'easter:0.2444', 'plan:0.2228', 'separatist:0.222', 'armed:0.2119', 'pre:0.2011', 'reorganise:0.1954', 'update:0.1921', 'hour:0.1901', 'long:0.1876', 'continue:0.1861', 'governor:0.1755', 'north:0.1752', 'attention:0.1749', 'meeting:0.1731', 'th:0.1698', 'donbas:0.1617', 'say:0.1532', 'nearly:0.1486', 'official:0.1478', 'strike:0.1453', 'tunnel:0.1435', 'woman:0.1265', 'great:0.1237', 'allegorical:0.0856', 'true:0.0846']+titles_keywords+['kyiv:0.417', 'ukraines:0.3679', 'president:0.2672', 'meet:0.2398', 'set:0.0509']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/William visits MI6 ahead of Russias invasion of Ukraine.txt+eventbasecode42+eventcode42+avgtone0.5178571428571429+goldsteinscale0.595+nummentions0.1444121915820029+numarticles0.145032632342277+numsources0.16447368421052633+news_keywords+['gchq:0.4787', 'whitehall:0.4183', 'william:0.3689', 'security:0.3345', 'agency:0.299', 'invasion:0.2929', 'russias:0.2912', 'uk:0.2856', 'throne:0.2762', 'intelligence:0.2736', 'visit:0.2691', 'discretion:0.2516', 'private:0.2509', 'diary:0.2398', 'report:0.2166', 'duke:0.213', 'work:0.2082', 'publicise:0.1998', 'safe:0.1884', 'undertaken:0.1731', 'time:0.1643', 'weekday:0.1621', 'head:0.1507', 'understand:0.1505', 'moore:0.1439', 'outwith:0.1427', 'case:0.1344', 'number:0.1272', 'pre:0.1269', 'truly:0.0515']+titles_keywords+['mi6:0.5131', 'ukraine:0.3076', 'william:0.291', 'invasion:0.274', 'ahead:0.1281']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "RUS+EUR+10":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/en.vestikavkaza.ru/Macron says he phoned Putin on Zelenskys request.txt+eventbasecode10+eventcode10+avgtone0.4928571428571428+goldsteinscale0.5+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.009868421052631578+news_keywords+['macron:0.4811', 'putin:0.4377', 'zelensky:0.4297', 'vladimir:0.3571', 'zelenskys:0.3346', 'ukrainian:0.2961', 'russian:0.2594', 'president:0.243', 'conversation:0.2363', 'emmanuel:0.1983', 'french:0.191', 'phone:0.1788', 'soon:0.1767', 'phoned:0.1761', 'request:0.1709', 'eu:0.169', 'reporter:0.1439', 'hostility:0.137', 'thursday:0.1354', 'tell:0.127', 'quick:0.123', 'say:0.1201', 'friday:0.0901', 'possible:0.0851', 'frank:0.0802', 'end:0.0761', 'aim:0.0734', 'word:0.073', 'direct:0.053', 'summit:0.0401']+titles_keywords+['zelenskys:0.4101', 'macron:0.392', 'putin:0.355', 'phoned:0.1355', 'says:0.036']"
+        ]
+    ],
+    "RUS+RUS+10":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/en.vestikavkaza.ru/Fairly difficult Zelensky weighs in on RussiaUkraine talks.txt+eventbasecode10+eventcode10+avgtone0.48295454545454547+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['zelensky:0.4884', 'negotiations:0.4374', 'ukraine:0.4294', 'vladimir:0.4191', 'russiaukraine:0.3513', 'difficult:0.2812', 'war:0.2742', 'president:0.2342', 'talk:0.2049', 'table:0.2018', 'interview:0.1646', 'agreement:0.1605', 'stress:0.1478', 'progress:0.1458', 'fairly:0.1454', 'leader:0.1414', 'possible:0.1371', 'condition:0.1271', 'finish:0.1156', 'note:0.1118', 'appear:0.1052', 'medium:0.0959', 'information:0.0754', 'early:0.075', 'allege:0.0656', 'weigh:0.0622', 'party:0.061', 'channel:0.0585', 'comment:0.053', 'time:0.0373']+titles_keywords+['zelensky:0.6461', 'russiaukraine:0.405', 'talks:0.2803', 'difficult:0.2205', 'fairly:0.1211']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/en.vestikavkaza.ru/Russian Defense Ministry informs on progress of demilitarization operation in Ukraine.txt+eventbasecode10+eventcode10+avgtone0.483739837398374+goldsteinscale0.5+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['demilitarization:0.5326', 'ukrainian:0.3968', 'military:0.3898', 'destroy:0.337', 'igor:0.3332', 'combat:0.3218', 'operation:0.318', 'aircraft:0.2998', 'missile:0.2803', 'unmanned:0.2665', 'konashenkov:0.2504', 'infrastructure:0.2391', 'tank:0.2312', 'novosti:0.2005', 'radar:0.1937', 'inform:0.1925', 'command:0.1919', 'object:0.1742', 'report:0.1472', 'hit:0.1457', 'general:0.1372', 'osa:0.1364', 'progress:0.128', 'forces:0.1204', 'anti:0.1087', 'total:0.0943', 'multiple:0.0866', 'centre:0.0733', 'major:0.0631', 'today:0.0437']+titles_keywords+['demilitarization:0.55', 'russian:0.3129', 'progress:0.2564', 'operation:0.2255', 'defense:0.1159']"
+        ]
+    ]
+}

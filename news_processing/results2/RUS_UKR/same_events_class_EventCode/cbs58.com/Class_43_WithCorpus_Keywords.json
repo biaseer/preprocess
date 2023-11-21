@@ -1,0 +1,17 @@
+{
+    "BLR+RUS+43":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/cbs58.com/Russia has attacked Lviv heres why the western city is so important to Ukraines defense.txt+eventbasecode43+eventcode43+avgtone0.4878223495702006+goldsteinscale0.64+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.02631578947368421+news_keywords+['lviv:0.6306', 'ukraines:0.423', 'soviet:0.347', 'war:0.2817', 'displaced:0.2773', 'capital:0.2336', 'report:0.2316', 'flood:0.228', 'unesco:0.2078', 'safeguard:0.2031', 'western:0.1974', 'flee:0.1935', 'petro:0.192', 'flourish:0.1919', 'zadorozhnyy:0.1911', 'casualty:0.1881', 'repercussion:0.1828', 'news:0.1743', 'know:0.1734', 'reserve:0.1605', 'hit:0.1599', 'topography:0.1544', 'manuscript:0.1429', 'state:0.1275', 'building:0.1221', 'follow:0.1179', 'century:0.112', 'wire:0.1064', 'pad:0.0878', 'complete:0.0792']+titles_keywords+['lviv:0.6269', 'ukraines:0.4957', 'attacked:0.3444', 'important:0.2638', 'defense:0.2468']"
+        ]
+    ],
+    "EUR+RUS+43":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/cbs58.com/Karine JeanPierre to become White House press secretary the first Black and out LGBTQ person.txt+eventbasecode43+eventcode43+avgtone0.5071513706793802+goldsteinscale0.64+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.03618421052631579+news_keywords+['biden:0.4022', 'secretary:0.3864', 'karine:0.3082', 'podium:0.3028', 'msnbc:0.2904', 'democratic:0.2677', 'pentagon:0.2623', 'psaki:0.2549', 'takeover:0.2528', 'brief:0.2422', 'dunn:0.2355', 'list:0.2348', 'white:0.2306', 'role:0.2125', 'history:0.2112', 'say:0.2109', 'report:0.1947', 'replace:0.1927', 'decorum:0.1877', 'begin:0.1859', 'schedule:0.1825', 'official:0.1707', 'midterm:0.1705', 'significance:0.1664', 'depart:0.1607', 'april:0.1563', 'potential:0.1517', 'set:0.1131', 'unsurprising:0.1095', 'true:0.1088']+titles_keywords+['jeanpierre:0.3966', 'secretary:0.3363', 'white:0.3046', 'lgbtq:0.2896', 'role:0.2741']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/cbs58.com/Russia says its withdrawing some troops following exercises around Ukraine but major drills continue.txt+eventbasecode43+eventcode43+avgtone0.49272197962154296+goldsteinscale0.64+nummentions0.03555878084179971+numarticles0.03625815808556925+numsources0.049342105263157895+news_keywords+['crimea:0.5426', 'kremlin:0.4497', 'diplomacy:0.3492', 'annex:0.3362', 'escalation:0.3201', 'military:0.3025', 'sergey:0.2949', 'invasion:0.2923', 'news:0.2677', 'underway:0.2602', 'choreograph:0.225', 'concern:0.2129', 'agreement:0.1945', 'monday:0.1928', 'adjacent:0.1925', 'buildup:0.1917', 'plan:0.1898', 'operationally:0.188', 'brief:0.1805', 'vacant:0.1792', 'table:0.1752', 'end:0.1738', 'satellite:0.1668', 'rail:0.1645', 'withdraw:0.1613', 'say:0.1424', 'state:0.14', 'units:0.1285', 'possibility:0.1091', 'olaf:0.0627']+titles_keywords+['ukraine:0.358', 'withdrawing:0.2838', 'troops:0.2524', 'exercises:0.231', 'says:0.0177']"
+        ]
+    ]
+}

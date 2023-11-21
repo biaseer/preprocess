@@ -1,0 +1,12 @@
+{
+    "FRA+RUS+141":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/business-standard.com/People protest in France against Russian invasion denounce Vladimir Putin.txt+eventbasecode141+eventcode141+avgtone0.5015337423312883+goldsteinscale0.175+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['protesters:0.4928', 'putin:0.4596', 'ukrainians:0.4074', 'russian:0.3468', 'nato:0.3285', 'europe:0.3085', 'invasion:0.2789', 'flag:0.2665', 'war:0.2626', 'rally:0.2547', 'denounce:0.2474', 'headline:0.2422', 'paris:0.2387', 'nation:0.2217', 'promenade:0.2149', 'anglais:0.1926', 'banner:0.1717', 'hundreds:0.1448', 'feed:0.1387', 'sunday:0.1341', 'protect:0.1253', 'urge:0.0918', 'high:0.0797', 'picture:0.0779', 'carry:0.0774', 'direct:0.0705', 'business:0.0653', 'nice:0.0556', 'wag:0.0438', 'generate:0.0341']+titles_keywords+['protest:0.4617', 'putin:0.3692', 'france:0.3255', 'invasion:0.289', 'people:0.1876']"
+        ]
+    ],
+    "RUS+UKR+141":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/business-standard.com/Russian forces destroy worlds biggest cargo plane Mriya in Ukraine.txt+eventbasecode141+eventcode141+avgtone0.5081168831168831+goldsteinscale0.175+nummentions0.011248185776487663+numarticles0.011965192168237854+numsources0.009868421052631578+news_keywords+['aircraft:0.4847', 'kiev:0.3978', 'russian:0.3843', 'cargo:0.3423', 'mriya:0.3367', 'destroy:0.3149', 'troop:0.2183', 'attack:0.2163', 'report:0.2011', 'syndicate:0.1924', 'rework:0.1889', 'ton:0.1842', 'ukroboronprom:0.1765', 'build:0.1714', 'news:0.1611', 'telegram:0.1556', 'business:0.1547', 'billion:0.1536', 'big:0.1535', 'world:0.1457', 'auto:0.1384', 'hostomel:0.1338', 'capable:0.1322', 'force:0.125', 'feed:0.1116', 'picture:0.1094', 'say:0.086', 'cost:0.0822', 'sunday:0.078', 'add:0.0527']+titles_keywords+['russian:0.3588', 'plane:0.3227', 'biggest:0.3114', 'destroy:0.3097', 'cargo:0.2693']"
+        ]
+    ]
+}

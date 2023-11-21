@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+43":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/dailyherald.com/Fleeing to the border Over 150000 Ukrainians seek refuge.txt+eventbasecode43+eventcode43+avgtone0.47781065088757396+goldsteinscale0.64+nummentions0.33200290275761973+numarticles0.3216098622189993+numsources0.3881578947368421+news_keywords+['refugees:0.4432', 'ukrainian:0.4218', 'fleeing:0.3076', 'fence:0.294', 'invade:0.2779', 'szandelszky:0.273', 'troop:0.2685', 'government:0.2447', 'conflict:0.2271', 'orban:0.2222', 'train:0.2187', 'goodbye:0.2125', 'arrive:0.2108', 'armed:0.206', 'organize:0.1947', 'displace:0.1881', 'assistance:0.1829', 'east:0.1798', 'unprovoked:0.1752', 'covid:0.1749', 'want:0.1589', 'hour:0.1504', 'report:0.1393', 'terasova:0.1386', 'point:0.1382', 'contrast:0.1246', 'saturday:0.1243', 'page:0.1161', 'welcome:0.1074', 'official:0.0891']+titles_keywords+['ukrainians:0.4882', 'fleeing:0.4566', 'refuge:0.4156', 'border:0.2918', '150000:0.2866']"
+        ],
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/dailyherald.com/Illinois Democrats plan seeks to divest from Russian debt.txt+eventbasecode43+eventcode43+avgtone0.4902482269503546+goldsteinscale0.64+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.023026315789473683+news_keywords+['putin:0.4735', 'ukrainians:0.42', 'divestment:0.3703', 'democrats:0.3489', 'refugee:0.3318', 'illinois:0.3073', 'legislation:0.2947', 'federal:0.2868', 'negotiation:0.2785', 'report:0.2612', 'invasion:0.2516', 'unify:0.2409', 'plan:0.2191', 'illicit:0.2012', 'ignore:0.1993', 'letter:0.1967', 'status:0.1923', 'begin:0.1874', 'lead:0.1798', 'demmer:0.1777', 'assistance:0.1656', 'board:0.1548', 'statement:0.154', 'launder:0.1526', 'dixon:0.1522', 'industrial:0.151', 'dollar:0.1361', 'similar:0.1301', 'possibility:0.1015', 'welcome:0.0757']+titles_keywords+['divest:0.3358', 'russian:0.287', 'democrats:0.2547', 'illinois:0.2286', 'debt:0.1988']"
+        ]
+    ]
+}

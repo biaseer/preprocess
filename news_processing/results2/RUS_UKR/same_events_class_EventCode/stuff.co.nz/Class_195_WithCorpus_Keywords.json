@@ -1,0 +1,12 @@
+{
+    "RUS+BLR+195":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/A historical era of digital warfare in the Ukraine invasion.txt+eventbasecode195+eventcode195+avgtone0.46804733727810655+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['cyberattacks:0.4916', 'warfare:0.472', 'nato:0.4318', 'ukrainian:0.4261', 'russias:0.4234', 'invade:0.4131', 'history:0.3996', 'government:0.3518', 'disinformation:0.3263', 'telegram:0.3103', 'microsoft:0.298', 'border:0.2824', 'map:0.2556', 'crisis:0.2519', 'unprovoked:0.2493', 'data:0.2422', 'virtual:0.2366', 'transformation:0.2283', 'rout:0.2192', 'phoney:0.2137', 'read:0.2114', 'weapon:0.2037', 'example:0.1951', 'report:0.1944', 'prerequisite:0.1719', 'order:0.1685', 'big:0.1551', 'altogether:0.1344', 'facilitator:0.1171', 'true:0.1101']+titles_keywords+['warfare:0.5142', 'invasion:0.4215', 'digital:0.3404', 'ukraine:0.3114', 'historical:0.2935']"
+        ]
+    ],
+    "UKR+RUS+195":[
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/stuff.co.nz/Ukraine invasion Satellite images show vast damage to Crimea air base.txt+eventbasecode195+eventcode195+avgtone0.46590909090909094+goldsteinscale0.0+nummentions0.11973875181422351+numarticles0.12037708484408992+numsources0.16776315789473684+news_keywords+['crimea:0.531', 'kremlin:0.3965', 'explosion:0.3163', 'invasion:0.3097', 'treaty:0.2802', 'dnipropetrovsk:0.2737', 'military:0.2655', 'occupied:0.2383', 'kill:0.2308', 'strategic:0.2166', 'report:0.2034', 'know:0.1983', 'result:0.1955', 'industrialise:0.1844', 'concern:0.1819', 'explanation:0.1815', 'major:0.1804', 'bucha:0.1763', 'note:0.1695', 'immediately:0.1686', 'study:0.1553', 'satellite:0.1517', 'compare:0.1488', 'governor:0.1482', 'begin:0.1471', 'range:0.14', 'long:0.1356', 'oleh:0.121', 'include:0.109', 'sent:0.0609']+titles_keywords+['crimea:0.4992', 'invasion:0.3185', 'damage:0.2387', 'satellite:0.2255', 'images:0.2198']"
+        ]
+    ]
+}

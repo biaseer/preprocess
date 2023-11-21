@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+90":[
+        [
+            "20220629+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Russian court postpones ruling on whether to label Mariupol regiment as terrorists.txt+eventbasecode90+eventcode90+avgtone0.46573604060913704+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.4596', 'regiment:0.432', 'militia:0.4118', 'azov:0.3916', 'terrorist:0.358', 'demilitarise:0.3447', 'putin:0.3396', 'prisoner:0.2807', 'separatist:0.2752', 'repatriate:0.2553', 'honour:0.2461', 'operation:0.2415', 'designate:0.2388', 'investigation:0.2352', 'legal:0.2257', 'status:0.2196', 'reutersmarko:0.2159', 'baseless:0.2126', 'unclear:0.1804', 'aug:0.1755', 'pretext:0.1747', 'fight:0.1725', 'extreme:0.1618', 'mariupol:0.1595', 'unit:0.1517', 'photo:0.146', 'right:0.1383', 'hearing:0.1276', 'reschedule:0.1071', 'set:0.093']+titles_keywords+['russian:0.3619', 'postpones:0.2703', 'ruling:0.2543', 'mariupol:0.2396', 'regiment:0.2387']"
+        ]
+    ],
+    "RUS+UKR+90":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Wife of Putin ally held in Ukraine accuses Kyiv authorities of beating her husband.txt+eventbasecode90+eventcode90+avgtone0.4755011135857461+goldsteinscale0.4+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.01644736842105263+news_keywords+['putin:0.5753', 'kremlin:0.5188', 'dmitry:0.4493', 'kyiv:0.4363', 'russian:0.4208', 'marchenko:0.3942', 'medvedchuk:0.3196', 'terrorism:0.3096', 'zelenskiy:0.2939', 'interrogated:0.2831', 'handcuff:0.2622', 'viktor:0.2611', 'treason:0.2606', 'news:0.2442', 'telegram:0.2262', 'lawyer:0.2261', 'escape:0.2052', 'ally:0.1819', 'head:0.1808', 'warn:0.1782', 'long:0.1454', 'beneath:0.1442', 'fairly:0.1415', 'care:0.1401', 'photo:0.1357', 'swap:0.132', 'party:0.1319', 'cross:0.1171', 'later:0.1074', 'sbu:0.0802']+titles_keywords+['ukraine:0.413', 'beating:0.2479', 'wife:0.2371', 'accuses:0.2232', 'ally:0.2003']"
+        ]
+    ],
+    "USA+UKR+90":[
+        [
+            "20220623+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Microsoft Russian cyber spying targets 42 Ukraine allies.txt+eventbasecode90+eventcode90+avgtone0.4811946902654867+goldsteinscale0.4+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['cyberattacks:0.5212', 'ukrainian:0.4633', 'russias:0.4606', 'spy:0.4262', 'nato:0.4229', 'politicsrussian:0.4059', 'microsoft:0.3832', 'propaganda:0.3678', 'invade:0.3077', 'government:0.2981', 'alexa:0.298', 'threat:0.262', 'targeted:0.2508', 'washington:0.2319', 'operation:0.2288', 'data:0.2272', 'report:0.2108', 'recognitionworking:0.1955', 'notpetya:0.1877', 'deflect:0.1831', 'example:0.1779', 'read:0.1771', 'capability:0.1684', 'donbas:0.1626', 'coinciding:0.1623', 'month:0.129', 'big:0.1248', 'conduit:0.1137', 'main:0.1098', 'possible:0.101']+titles_keywords+['ukraine:0.4116', 'microsoft:0.3753', 'spying:0.3628', 'allies:0.3383', '42:0.2159']"
+        ]
+    ]
+}

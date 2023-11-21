@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+36":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/9news.com.au/Cyberattack hits Ukrainian sites as Putin says Russia ready for talks with US and NATO.txt+eventbasecode36+eventcode36+avgtone0.486661277283751+goldsteinscale0.7+nummentions0.13824383164005805+numarticles0.13669325598259607+numsources0.22039473684210525+news_keywords+['ukraine:0.4706', 'kremlin:0.4449', 'cyberattack:0.4239', 'diplomacy:0.3588', 'invade:0.3299', 'propaganda:0.305', 'news:0.2763', 'warn:0.2662', 'emergency:0.2599', 'federation:0.258', 'expand:0.251', 'military:0.2497', 'anonymity:0.2067', 'secretary:0.2062', 'capital:0.2047', 'forward:0.2046', 'fight:0.1905', 'change:0.1883', 'technologies:0.1814', 'imminently:0.1663', 'vadym:0.1661', 'agreement:0.1637', 'want:0.1594', 'january:0.1583', 'ready:0.1556', 'schedule:0.149', 'long:0.1446', 'flank:0.1359', 'unity:0.0976', 'olaf:0.0705']+titles_keywords+['putin:0.3938', 'cyberattack:0.3849', 'ready:0.1538', 'sites:0.1493', 'says:0.0904']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/9news.com.au/Ukrainian sailor tries to sink Russian boss yacht then leaves for war.txt+eventbasecode36+eventcode36+avgtone0.48355899419729204+goldsteinscale0.7+nummentions0.006168359941944848+numarticles0.006526468455402465+numsources0.013157894736842105+news_keywords+['kyiv:0.4531', 'yacht:0.4267', 'sailor:0.3929', 'superyacht:0.3108', 'arrest:0.3062', 'militia:0.3016', 'rostec:0.2944', 'invade:0.287', 'newscast:0.262', 'flight:0.2584', 'conglomerate:0.2472', 'sink:0.2389', 'summarise:0.2313', 'authorise:0.2237', 'alexander:0.2234', 'engineer:0.2219', 'owner:0.1886', 'weapon:0.1863', 'write:0.1843', 'happen:0.1816', 'biography:0.1802', 'image:0.1801', 'pollute:0.1755', 'decide:0.1693', 'aware:0.169', 'ap:0.145', 'way:0.1378', 'export:0.1372', 'tax:0.1325', 'according:0.1301']+titles_keywords+['sailor:0.4229', 'russian:0.3797', 'sink:0.2625', 'war:0.2082', 'boss:0.155']"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "ISR+RUS+111":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Israel lashes out at Russia over Lavrovs Nazism remarks.txt+eventbasecode111+eventcode111+avgtone0.45667613636363635+goldsteinscale0.4+nummentions0.4125544267053701+numarticles0.4129804205946338+numsources0.47039473684210525+news_keywords+['holocaust:0.5329', 'antisemitism:0.4866', 'nazification:0.4473', 'ukrainians:0.4076', 'kremlin:0.4019', 'aviv:0.3987', 'syria:0.3158', 'lavrov:0.3097', 'conflict:0.2576', 'justify:0.2462', 'enemy:0.2228', 'tel:0.2143', 'translation:0.1958', 'lash:0.1801', 'president:0.1673', 'speak:0.1658', 'inversion:0.1649', 'news:0.1458', 'include:0.1309', 'reach:0.1308', 'propagate:0.1231', 'remember:0.1226', 'time:0.1072', 'look:0.1041', 'scandalous:0.1017', 'big:0.0908', 'yad:0.0831', 'start:0.0669', 'doesnt:0.0515', 'deal:0.0469']+titles_keywords+['israel:0.3601', 'lavrovs:0.3037', 'nazism:0.3008', 'lashes:0.1747', 'remarks:0.0931']"
+        ]
+    ],
+    "JPN+RUS+111":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Russian sentenced to life in Ukraines 1st war crimes trial.txt+eventbasecode111+eventcode111+avgtone0.4629934210526316+goldsteinscale0.4+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.009868421052631578+news_keywords+['ukraine:0.5005', 'moscows:0.3991', 'zelenskyy:0.3244', 'invasion:0.2974', 'embargo:0.2801', 'battle:0.2744', 'sentencing:0.2688', 'kill:0.2595', 'capital:0.2446', 'indiscriminate:0.2103', 'news:0.2095', 'report:0.2092', 'yuras:0.2092', 'democratic:0.2055', 'sentence:0.195', 'order:0.1908', 'casualty:0.1908', 'hear:0.1754', 'industrial:0.1702', 'world:0.1656', 'begin:0.1547', 'fumio:0.1541', 'hour:0.1497', 'arm:0.1449', 'extend:0.1438', 'standstill:0.1402', 'stir:0.1399', 'sgt:0.1346', 'pinpoint:0.1251', 'davos:0.0983']+titles_keywords+['sentenced:0.3613', 'russian:0.3597', 'ukraines:0.3268', 'war:0.2243', '1st:0.129']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Russia jails opposition figure for criticizing its military.txt+eventbasecode111+eventcode111+avgtone0.45115894039735094+goldsteinscale0.4+nummentions0.045718432510885344+numarticles0.046410442349528645+numsources0.03289473684210526+news_keywords+['kremlin:0.4946', 'nemtsov:0.4108', 'kyiv:0.4094', 'yashin:0.4042', 'imprisoned:0.3521', 'war:0.312', 'activist:0.307', 'oppose:0.3044', 'law:0.2949', 'freedoms:0.2814', 'officer:0.2745', 'criminalize:0.2621', 'read:0.2161', 'know:0.2075', 'sentence:0.2072', 'public:0.2016', 'afraid:0.1952', 'appear:0.1807', 'night:0.1735', 'case:0.169', 'bucha:0.169', 'search:0.1551', 'group:0.1486', 'run:0.1468', 'rule:0.1371', 'long:0.1336', 'april:0.1223', 'thousands:0.1192', 'send:0.0856', 'livestream:0.0778']+titles_keywords+['russia:0.3023', 'military:0.2633', 'opposition:0.2251', 'criticizing:0.1782', 'figure:0.1027']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Russia to continue military drills near Ukraine in Belarus.txt+eventbasecode111+eventcode111+avgtone0.472809667673716+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['nato:0.4807', 'ukraines:0.4594', 'belarus:0.4323', 'kremlin:0.414', 'vladimir:0.4001', 'ceasefire:0.332', 'invades:0.2962', 'troop:0.2773', 'drill:0.2208', 'provocation:0.1953', 'border:0.1815', 'exercise:0.1772', 'president:0.1704', 'missile:0.1651', 'continue:0.1547', 'test:0.1506', 'near:0.1259', 'stoltenberg:0.0971', 'false:0.0967', 'schedule:0.0967', 'economic:0.0944', 'say:0.0942', 'month:0.0891', 'great:0.0855', 'associated:0.0782', 'line:0.0767', 'array:0.0744', 'branch:0.0724', 'large:0.0598', 'offer:0.0233']+titles_keywords+['belarus:0.3939', 'drills:0.2396', 'military:0.2328', 'near:0.1083', 'continue:0.1073']"
+        ],
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Yes we need hands Kitchen pops up in Ukraines capital.txt+eventbasecode111+eventcode111+avgtone0.486646884272997+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kyiv:0.4888', 'humanitarian:0.3281', 'russias:0.3188', 'invasion:0.2994', 'military:0.2933', 'help:0.2851', 'corridor:0.284', 'flag:0.281', 'kitchens:0.2506', 'escalate:0.2503', 'operate:0.2332', 'expect:0.2275', 'tent:0.2206', 'hand:0.2195', 'progress:0.2075', 'distraction:0.2056', 'information:0.2044', 'make:0.1997', 'come:0.1963', 'contribute:0.1881', 'ap:0.1846', 'red:0.1785', 'minor:0.1779', 'safe:0.1769', 'hive:0.165', 'sprung:0.1646', 'end:0.1572', 'scrawl:0.1508', 'way:0.139', 'scarce:0.1182']+titles_keywords+['ukraines:0.4502', 'kitchen:0.3623', 'hands:0.3569', 'need:0.2924', 'capital:0.2502']"
+        ]
+    ]
+}

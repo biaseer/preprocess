@@ -1,0 +1,15 @@
+{
+    "RUS+RUS+15":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/yahoo.com/Ukraines government is using bizarre soundtracks for videos of its troops destroying Russian tanks and.txt+eventbasecode15+eventcode15+avgtone0.45670391061452514+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4434', 'soundtrack:0.3864', 'techno:0.3343', 'propaganda:0.3274', 'vladimir:0.3224', 'war:0.3112', 'government:0.2763', 'video:0.2542', 'invader:0.2528', 'civilian:0.2418', 'barrage:0.2237', 'acdc:0.2038', 'inglorious:0.199', 'scene:0.1984', 'example:0.1959', 'hear:0.1906', 'help:0.1833', 'burn:0.1647', 'hit:0.1474', 'publish:0.1453', 'avoid:0.1417', 'previously:0.1273', 'month:0.1199', 'exactly:0.1197', 'apart:0.1142', 'crazy:0.1125', 'set:0.1092', 'normalize:0.1', 'animate:0.099', 'peg:0.0899']+titles_keywords+['ukraines:0.4192', 'soundtracks:0.4018', 'government:0.2471', 'bizarre:0.2167', 'destroying:0.1979']"
+        ]
+    ],
+    "RUS+UKR+15":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russia acknowledges conscripts were part of Ukraine operation some are POWs.txt+eventbasecode15+eventcode15+avgtone0.493055555555+goldsteinscale0.5+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['kremlin:0.4565', 'ukrainian:0.4288', 'conscript:0.4056', 'military:0.3842', 'dmitry:0.3806', 'kursk:0.3386', 'officer:0.269', 'operation:0.2628', 'investigate:0.205', 'news:0.2021', 'fake:0.1977', 'training:0.1953', 'order:0.1939', 'concern:0.1912', 'disobey:0.1826', 'incommunicado:0.1721', 'fight:0.1718', 'pows:0.1658', 'soon:0.1609', 'raise:0.1534', 'law:0.1518', 'acknowledge:0.141', 'telephone:0.1322', 'son:0.1321', 'citing:0.1301', 'begin:0.1189', 'despite:0.118', 'feb:0.0928', 'sure:0.0783', 'ria:0.0708']+titles_keywords+['conscripts:0.4496', 'ukraine:0.3615', 'pows:0.2927', 'operation:0.2034', 'acknowledges:0.1143']"
+        ],
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russias military may be trying to hide Russian deaths in Ukraine by proposing to take.txt+eventbasecode15+eventcode15+avgtone0.45938375350140065+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.471', 'kremlin:0.4528', 'russias:0.4318', 'nato:0.3316', 'peskov:0.3173', 'war:0.2984', 'deaths:0.2564', 'battlefield:0.2405', 'know:0.2218', 'report:0.2186', 'civilian:0.2062', 'reveal:0.1714', 'newspaper:0.1531', 'acknowledge:0.14', 'turn:0.1394', 'thousand:0.1375', 'month:0.1348', 'avoid:0.1335', 'estimate:0.133', 'order:0.1264', 'true:0.126', 'toll:0.1221', 'unclaimed:0.1216', 'state:0.1178', 'medium:0.1048', 'face:0.1027', 'exact:0.0985', 'paint:0.0969', 'intelligence:0.0941', 'far:0.0754']+titles_keywords+['russias:0.3904', 'military:0.2873', 'hide:0.2262', 'payments:0.1173', 'says:0.0178']"
+        ]
+    ]
+}

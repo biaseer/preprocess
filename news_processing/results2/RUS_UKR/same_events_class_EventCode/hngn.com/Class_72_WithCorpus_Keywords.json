@@ -1,0 +1,15 @@
+{
+    "EUR+UKR+72":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/hngn.com/More Than 100 Diplomats Walk Out From Russian Foreign Ministers UN Speech Defending Ukraine Invasion.txt+eventbasecode72+eventcode72+avgtone0.48387096774193544+goldsteinscale0.915+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4161', 'kremlin:0.3681', 'walkout:0.3491', 'diplomat:0.3082', 'invade:0.2997', 'disarmament:0.2918', 'soldiers:0.2479', 'attend:0.1947', 'reutersreported:0.1869', 'flag:0.1849', 'union:0.1797', 'stay:0.175', 'geneva:0.1724', 'deliver:0.1627', 'gatilov:0.1615', 'justification:0.1479', 'list:0.129', 'volodymyr:0.1274', 'read:0.1259', 'incident:0.1218', 'neutral:0.1198', 'maternity:0.1058', 'soon:0.094', 'largely:0.0834', 'long:0.0812', 'residential:0.0727', 'massive:0.0714', 'says:0.0593', 'center:0.0454', 'restore:-0.015']+titles_keywords+['diplomats:0.3576', 'ukraine:0.3113', 'speech:0.2056', 'walk:0.2003', '100:0.149']"
+        ],
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/hngn.com/Ukraine Launches Counterattack To Retake Territories Volodymyr Zelensky Warns Russian Soldiers To Run Away Go.txt+eventbasecode72+eventcode72+avgtone0.48030942334739796+goldsteinscale0.915+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5045', 'russians:0.3676', 'war:0.3346', 'zelensky:0.2923', 'occupy:0.29', 'frontlines:0.2761', 'attack:0.2761', 'fortification:0.2637', 'pyongyang:0.2634', 'operation:0.2613', 'kherson:0.2528', 'diplomatic:0.2501', 'repercussion:0.2346', 'warns:0.2286', 'peninsula:0.218', 'inventory:0.2117', 'bridge:0.1859', 'information:0.1838', 'cnn:0.1676', 'fatality:0.1669', 'corridor:0.1644', 'increase:0.1513', 'run:0.1418', 'nearly:0.1329', 'counteroffensive:0.128', 'rag:0.1269', 'major:0.118', 'second:0.1115', 'generate:0.09', 'week:0.0809']+titles_keywords+['zelensky:0.5023', 'ukraine:0.3835', 'counterattack:0.2982', 'run:0.1959', 'home:0.1778']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/hngn.com/Russia Seizes Chernobyl Why is the Controversial Nuclear Plant Crucial to Moscows Invasion of Ukraine.txt+eventbasecode72+eventcode72+avgtone0.47993311036789293+goldsteinscale0.915+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['chernobyl:0.6783', 'reactor:0.3956', 'kyiv:0.3313', 'putin:0.3077', 'safety:0.2308', 'reuters:0.224', 'strategic:0.2235', 'truman:0.1976', 'plant:0.1844', 'invasion:0.1738', 'corridor:0.1637', 'pripyat:0.1615', 'military:0.153', 'control:0.1493', 'significance:0.1379', 'read:0.1359', 'seizes:0.133', 'exposure:0.1233', 'incident:0.1221', 'world:0.0984', 'shmyhal:0.094', 'data:0.0817', 'dnipro:0.0758', 'terrain:0.0674', 'include:0.0651', 'reorganize:0.0598', 'state:0.0581', 'million:0.0503', 'later:0.0461', 'unless:-0.0032']+titles_keywords+['chernobyl:0.6308', 'ukraine:0.3986', 'plant:0.2265', 'invasion:0.2208', 'crucial:0.1189']"
+        ]
+    ]
+}

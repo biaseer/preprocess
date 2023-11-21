@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/northcountrypublicradio.org/With Ukraine under attack Kyivs residents rush to stock up and reach safety.txt+eventbasecode130+eventcode130+avgtone0.47583081570996977+goldsteinscale0.27999999999999997+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['kyiv:0.5707', 'ukrainians:0.4554', 'evacuate:0.4059', 'putin:0.3714', 'invade:0.3536', 'war:0.3204', 'emergency:0.3125', 'panic:0.2919', 'safety:0.2692', 'sirens:0.23', 'stefanchuk:0.2106', 'nation:0.1874', 'report:0.1803', 'come:0.1709', 'npr:0.1655', 'change:0.1554', 'early:0.1457', 'office:0.1445', 'continue:0.1429', 'stock:0.1424', 'trap:0.1301', 'strong:0.1297', 'standstill:0.117', 'mak:0.1168', 'say:0.1121', 'atms:0.1106', 'fact:0.1031', 'www:0.0902', 'rada:0.0529', 'restore:0.0303']+titles_keywords+['kyivs:0.4946', 'safety:0.2711', 'attack:0.2476', 'stock:0.2339', 'rush:0.2182']"
+        ]
+    ],
+    "RUS+WST+130":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/northcountrypublicradio.org/US is fully prepared if Russia invades Ukraine secretary of state says.txt+eventbasecode130+eventcode130+avgtone0.48066875653082547+goldsteinscale0.27999999999999997+nummentions0.10522496371552975+numarticles0.10587382160986222+numsources0.29276315789473684+news_keywords+['ukraine:0.4727', 'putin:0.4504', 'nato:0.4289', 'invades:0.3593', 'war:0.3031', 'diplomatic:0.2815', 'prepare:0.2814', 'cyberattack:0.2803', 'scenario:0.2303', 'concerned:0.2039', 'tank:0.201', 'reinforce:0.2', 'coalesce:0.1982', 'sanction:0.1948', 'table:0.1757', 'autonomy:0.169', 'telegraph:0.1623', 'outline:0.1418', 'thursday:0.1401', 'sphere:0.1333', 'blinken:0.1244', 'say:0.123', 'fully:0.1037', 'current:0.1029', 'wrong:0.099', 'measure:0.0871', 'intermediate:0.0868', 'head:0.0861', 'potentially:0.0854', 'billion:0.0844']+titles_keywords+['prepared:0.4087', 'ukraine:0.3224', 'invades:0.2299', 'fully:0.1419', 'secretary:0.1202']"
+        ]
+    ]
+}

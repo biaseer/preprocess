@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+30":[
+        [
+            "20211027+../news_crawling/RUS_UKR/p_articles/charter97.org/Boryslav Bereza Fear Drives Lukashenka into a Corner.txt+eventbasecode30+eventcode30+avgtone0.4808429118773947+goldsteinscale0.7+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['belarus:0.51', 'putin:0.4752', 'boryslav:0.4109', 'lukashenka:0.4097', 'totalitarian:0.3914', 'verkhovna:0.3187', 'protest:0.2922', 'election:0.2708', 'persecute:0.2475', 'peaceful:0.244', 'independence:0.2433', 'form:0.2398', 'bereza:0.2168', 'stay:0.2148', 'reinstatement:0.212', 'bor:0.2106', 'sentence:0.2034', 'serfs:0.1886', 'afraid:0.1859', 'forward:0.1666', 'merge:0.1641', 'order:0.1603', 'like:0.1593', 'vaccination:0.1433', 'include:0.1402', 'neck:0.1388', 'make:0.1358', 'ready:0.133', 'today:0.0837', 'salary:0.0707']+titles_keywords+['lukashenka:0.5884', 'bereza:0.5333', 'boryslav:0.515', 'fear:0.3516', 'corner:0.2401']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20211201+../news_crawling/RUS_UKR/p_articles/charter97.org/Lukashenka Promises To Support Russia In Case Of Aggression Against Ukraine.txt+eventbasecode30+eventcode30+avgtone0.4894957983193277+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['lukashenka:0.4548', 'ukraine:0.4088', 'dmitry:0.4086', 'belarusian:0.3879', 'ru:0.3172', 'propagandist:0.2653', 'war:0.2605', 'nationalist:0.2551', 'know:0.1939', 'promise:0.1452', 'support:0.1431', 'firm:0.1314', 'conviction:0.1266', 'link:0.1241', 'include:0.1164', 'forbid:0.1125', 'report:0.1097', 'make:0.1078', 'plan:0.1078', 'state:0.105', 'table:0.1028', 'perfectly:0.1012', 'meeting:0.0994', 'ria:0.0906', 'unleash:0.0795', 'thing:0.0789', 'face:0.0662', 'today:0.0638', 'legally:0.0614', 'sideline:0.015']+titles_keywords+['lukashenka:0.471', 'ukraine:0.3834', 'aggression:0.1674', 'support:0.1351', 'promises:0.0798']"
+        ]
+    ]
+}

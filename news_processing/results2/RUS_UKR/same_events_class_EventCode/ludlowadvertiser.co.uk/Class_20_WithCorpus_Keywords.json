@@ -1,0 +1,17 @@
+{
+    "POL+RUS+20":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/ludlowadvertiser.co.uk/Johnson helping Ukraine more thanks to British public pressure Zelensky says.txt+eventbasecode20+eventcode20+avgtone0.48329048843187655+goldsteinscale0.65+nummentions0.2144412191582003+numarticles0.21501087744742567+numsources0.3223684210526316+news_keywords+['putin:0.4388', 'ukraines:0.4278', 'nato:0.3905', 'invade:0.3169', 'conflict:0.3138', 'neutrality:0.2798', 'escalation:0.2762', 'speak:0.2357', 'want:0.1945', 'reiterate:0.1943', 'logistically:0.1897', 'volodymyr:0.1884', 'row:0.1789', 'term:0.178', 'feed:0.1764', 'help:0.1761', 'secretary:0.175', 'afraid:0.1625', 'vote:0.1619', 'end:0.1527', 'korean:0.1522', 'powerful:0.1487', 'ready:0.1479', 'make:0.1456', 'unscripted:0.1452', 'agree:0.1131', 'house:0.1031', 'deep:0.1013', 'antony:0.0874', 'month:0.0766']+titles_keywords+['zelensky:0.4409', 'ukraine:0.3697', 'johnson:0.2798', 'british:0.1875', 'helping:0.1351']"
+        ]
+    ],
+    "RUS+RUS+20":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/ludlowadvertiser.co.uk/PM denies intervening to secure peerage for Evgeny Lebedev.txt+eventbasecode20+eventcode20+avgtone0.4950576606260297+goldsteinscale0.65+nummentions0.0841799709724238+numarticles0.08484408992023205+numsources0.18421052631578946+news_keywords+['putin:0.5319', 'peerage:0.449', 'kgb:0.4129', 'lebedev:0.4004', 'evgeny:0.3849', 'parliamentary:0.3638', 'boris:0.3491', 'regime:0.3281', 'privilege:0.284', 'allegation:0.2585', 'agenda:0.2318', 'labours:0.2262', 'bbc:0.2173', 'mr:0.2033', 'risk:0.2023', 'intervene:0.2023', 'secretary:0.1969', 'deny:0.1945', 'debate:0.1826', 'clearance:0.1498', 'evening:0.1485', 'discus:0.1409', 'powerful:0.1281', 'come:0.1264', 'previous:0.1223', 'know:0.1216', 'make:0.104', 'agree:0.0862', 'characterise:0.0809', 'override:0.0474']+titles_keywords+['peerage:0.4634', 'lebedev:0.4059', 'denies:0.219', 'intervening:0.1889', 'pm:0.0884']"
+        ]
+    ],
+    "RUS+USA+20":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/ludlowadvertiser.co.uk/Putin and Biden plan highstakes phone call in bid to resolve Ukraine crisis.txt+eventbasecode20+eventcode20+avgtone0.48393378773125606+goldsteinscale0.65+nummentions0.27322206095791+numarticles0.2737490935460479+numsources0.4506578947368421+news_keywords+['ukraine:0.5099', 'kremlin:0.4541', 'natos:0.4216', 'invade:0.3529', 'embassy:0.3459', 'provocations:0.3377', 'political:0.3355', 'adviser:0.3009', 'separatist:0.297', 'crisis:0.289', 'escalate:0.2881', 'border:0.2854', 'pentagon:0.2796', 'misinformation:0.2788', 'announce:0.2752', 'biden:0.2711', 'zakharova:0.2646', 'reporter:0.262', 'capital:0.2547', 'productive:0.2413', 'prepare:0.2328', 'concern:0.2327', 'rail:0.1975', 'winter:0.1947', 'telephone:0.1938', 'additional:0.1857', 'hour:0.1667', 'left:0.1524', 'combination:0.1505', 'like:0.142']+titles_keywords+['putin:0.4119', 'biden:0.3877', 'bid:0.2089', 'plan:0.1976', 'phone:0.1913']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+61":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/bbc.com/Canada to ban imports of crude oil from Russia.txt+eventbasecode61+eventcode61+avgtone0.4820574162679426+goldsteinscale0.82+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.003289473684210526+news_keywords+['russia:0.5015', 'economy:0.3517', 'petroleum:0.3333', 'trudeau:0.3313', 'oligarch:0.2893', 'policymakers:0.2763', 'sanction:0.2696', 'news:0.244', 'border:0.244', 'import:0.2349', 'swift:0.2067', 'global:0.2058', 'table:0.1816', 'bank:0.1811', 'example:0.1793', 'sector:0.1738', 'worry:0.1709', 'prevent:0.1584', 'smooth:0.1362', 'accept:0.1295', 'make:0.1211', 'coordinated:0.1171', 'psaki:0.1058', 'powerful:0.1021', 'measure:0.0996', 'step:0.097', 'saturday:0.0952', 'price:0.0793', 'little:0.0726', 'artery:0.0497']+titles_keywords+['russia:0.3412', 'oil:0.3264', 'ban:0.1903', 'crude:0.1797', 'imports:0.1506']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/bbc.com/Petrol prices Getting to work costs so much I might have to quit.txt+eventbasecode61+eventcode61+avgtone0.48719999999999997+goldsteinscale0.82+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['petrol:0.4302', 'labour:0.3506', 'uk:0.3027', 'supply:0.3002', 'struggle:0.2911', 'quid:0.2909', 'wage:0.2757', 'crisis:0.2738', 'tank:0.2613', 'increase:0.2523', 'worried:0.2458', 'drive:0.2325', 'march:0.2156', 'affect:0.2129', 'quit:0.2118', 'bp:0.2074', 'living:0.2056', 'vote:0.1922', 'soar:0.1903', 'bad:0.176', 'cost:0.1696', 'equivalent:0.1637', 'house:0.1624', 'say:0.161', 'laura:0.1523', 'average:0.1358', 'radio:0.1245', 'absolute:0.1154', 'billion:0.114', 'actually:0.0998']+titles_keywords+['petrol:0.4502', 'quit:0.3621', 'work:0.2701', 'costs:0.2646', 'getting:0.1283']"
+        ],
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine war UK imports no fuel from Russia for first time on record.txt+eventbasecode61+eventcode61+avgtone0.4831858407079646+goldsteinscale0.82+nummentions0.013425253991291727+numarticles0.014140681653372008+numsources0.013157894736842105+news_keywords+['ukraine:0.4688', 'war:0.3357', 'government:0.3162', 'independence:0.2823', 'data:0.2658', 'gas:0.2558', 'sanction:0.2489', 'irrelevant:0.2134', 'import:0.2101', 'market:0.2037', 'speculation:0.2028', 'compare:0.1992', 'decrease:0.1813', 'household:0.1792', 'january:0.1782', 'mismatch:0.1666', 'effect:0.1648', 'largely:0.1644', 'prior:0.1575', 'alternative:0.1548', 'good:0.1523', 'total:0.1504', 'include:0.13', 'relate:0.1284', 'make:0.118', 'fell:0.1089', 'set:0.1022', 'pledge:0.1001', 'link:0.0969', 'accord:0.0883']+titles_keywords+['ukraine:0.4025', 'fuel:0.2546', 'war:0.2109', 'imports:0.1528', 'record:0.0105']"
+        ]
+    ]
+}

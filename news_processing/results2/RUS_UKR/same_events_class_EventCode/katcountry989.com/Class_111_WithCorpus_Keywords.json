@@ -1,0 +1,12 @@
+{
+    "JPN+UKR+111":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/katcountry989.com/Japan parliament resolution on Ukraine condemns changing status quo with force.txt+eventbasecode111+eventcode111+avgtone0.4831932773109244+goldsteinscale0.4+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4784', 'war:0.3224', 'diplomatic:0.2918', 'tokyo:0.2169', 'kishida:0.2157', 'reuters:0.2034', 'coordinate:0.2023', 'concerned:0.1809', 'border:0.1788', 'response:0.1699', 'status:0.155', 'parliament:0.1545', 'pledge:0.1534', 'realise:0.1509', 'stability:0.1454', 'changing:0.1411', 'fumio:0.1369', 'help:0.126', 'long:0.1222', 'world:0.116', 'condemns:0.114', 'end:0.1079', 'chamber:0.0939', 'say:0.0923', 'resolution:0.0918', 'virtual:0.089', 'joe:0.0794', 'closely:0.0686', 'embody:0.0682', 'prime:0.0609']+titles_keywords+['ukraine:0.353', 'force:0.1936', 'condemns:0.1887', 'changing:0.1499', 'resolution:0.0975']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/katcountry989.com/UAEs newly elected ruler sees Iran Islamists as threat to Gulf safe haven.txt+eventbasecode111+eventcode111+avgtone0.4873284054910243+goldsteinscale0.4+nummentions0.04934687953555878+numarticles0.05003625815808557+numsources0.039473684210526314+news_keywords+['uae:0.5607', 'palestinian:0.383', 'bashar:0.3811', 'libyas:0.3783', 'islam:0.3508', 'zayed:0.3495', 'obama:0.3357', 'diplomat:0.3194', 'opec:0.3167', 'liberalisation:0.2867', 'reuters:0.2825', 'agenda:0.258', 'east:0.2383', 'educated:0.2314', 'concern:0.2071', 'attack:0.2063', 'generation:0.2048', 'stalemate:0.2039', 'realignment:0.1991', 'know:0.1812', 'begin:0.1735', 'pump:0.168', 'perspective:0.1676', 'choose:0.1553', 'mbz:0.145', 'like:0.1437', 'dictate:0.141', 'divergence:0.1406', 'warm:0.1348', 'month:0.1256']+titles_keywords+['uaes:0.472', 'iran:0.3822', 'islamists:0.3642', 'threat:0.228', 'elected:0.1114']"
+        ]
+    ]
+}

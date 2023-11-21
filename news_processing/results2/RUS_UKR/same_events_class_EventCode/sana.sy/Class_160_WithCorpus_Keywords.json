@@ -1,0 +1,12 @@
+{
+    "RUS+MDA+160":[
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/sana.sy/Russian military evacuates new batch of Khersons residents.txt+eventbasecode160+eventcode160+avgtone0.4965986394557823+goldsteinscale0.3+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['crimea:0.5376', 'evacuation:0.4696', 'moscow:0.4155', 'moldova:0.4004', 'ukrainian:0.3928', 'military:0.3424', 'embassy:0.2952', 'operation:0.2334', 'khersons:0.2314', 'transfer:0.2282', 'federation:0.2153', 'safe:0.2152', 'rt:0.2133', 'resident:0.204', 'district:0.1454', 'carry:0.1451', 'commander:0.1445', 'submit:0.1395', 'base:0.1308', 'announce:0.1301', 'accord:0.0933', 'batch:0.0806', 'new:0.0734', 'special:0.0706', 'today:0.0659', 'begin:0.0649', 'person:0.0566', 'cite:0.0549', 'website:0.0539', 'sana:0.0517']+titles_keywords+['evacuates:0.3985', 'khersons:0.3868', 'russian:0.334', 'military:0.2348', 'new:0.0996']"
+        ]
+    ],
+    "RUS+UKR+160":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/sana.sy/More than 15 thousand people evacuated from Donbass and Ukraine to Russia.txt+eventbasecode160+eventcode160+avgtone0.4767441860465116+goldsteinscale0.3+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['evacuate:0.4915', 'donetsk:0.4245', 'ukrainian:0.4081', 'moscow:0.4037', 'mikhail:0.2978', 'donbass:0.2557', 'mizintsev:0.2414', 'military:0.2366', 'operation:0.2061', 'people:0.1585', 'thousand:0.1534', 'number:0.1458', 'dangerous:0.1455', 'housing:0.1352', 'temporary:0.1208', 'news:0.1043', 'child:0.1022', 'reach:0.1009', 'begin:0.0885', 'republic:0.0885', 'note:0.0839', 'area:0.0742', 'monitoring:0.0477', 'sana:0.0469', 'despite:0.0465', 'difficulty:0.0276', 'center:0.018', 'include:0.003', 'quote:-0.006', 'headof:-0.0072']+titles_keywords+['ukraine:0.4417', 'evacuated:0.4121', '15:0.1907', 'people:0.1898', 'thousand:0.1811']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "JPN+RUS+163":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/arabnews.com/Japan PM visits India for candid talks on Ukraine.txt+eventbasecode163+eventcode163+avgtone0.5037878787878788+goldsteinscale0.1+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['ukraine:0.4027', 'indo:0.3346', 'modi:0.3064', 'tensions:0.3019', 'strategic:0.2408', 'peace:0.2239', 'border:0.205', 'oil:0.1999', 'military:0.1969', 'alliance:0.1776', 'talk:0.1744', 'psaki:0.1658', 'kishida:0.1655', 'ahead:0.1638', 'expect:0.1613', 'visit:0.1611', 'reaffirm:0.1604', 'exchange:0.1572', 'counterpart:0.1557', 'implication:0.1507', 'additional:0.1466', 'biden:0.1392', 'pacific:0.126', 'bilateral:0.1114', 'candid:0.1014', 'focus:0.0906', 'difference:0.0875', 'hardware:0.0553', 'reportedly:0.0388', 'month:0.0353']+titles_keywords+['japan:0.3031', 'ukraine:0.2382', 'talks:0.1807', 'pm:0.1627', 'candid:0.0891']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/arabnews.com/Ukraine crisis US imposes sanctions on Russias Vnesheconombank and Promsvyazbank.txt+eventbasecode163+eventcode163+avgtone0.46787148594377514+goldsteinscale0.1+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.01644736842105263+news_keywords+['ukraine:0.458', 'putinrecognized:0.4334', 'russias:0.4296', 'sanction:0.4055', 'rossiya:0.3266', 'bank:0.3047', 'crisis:0.2939', 'government:0.2928', 'pipeline:0.2521', 'capital:0.2406', 'transaction:0.2144', 'slap:0.2036', 'andnotablebillionaires:0.1979', 'tension:0.1866', 'priority:0.1716', 'future:0.1658', 'deny:0.165', 'psb:0.1628', 'global:0.1472', 'freeze:0.1454', 'role:0.1444', 'raise:0.1271', 'follow:0.1208', 'feb:0.1196', 'direct:0.1193', 'cripple:0.0881', 'include:0.0844', 'cost:0.0712', 'ofthese:0.0704', 'similar:0.0495']+titles_keywords+['sanctions:0.4549', 'ukraine:0.425', 'promsvyazbank:0.3907', 'crisis:0.2052', 'vnesheconombank:0.1855']"
+        ]
+    ]
+}

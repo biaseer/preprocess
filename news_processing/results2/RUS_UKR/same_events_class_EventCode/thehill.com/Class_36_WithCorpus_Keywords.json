@@ -1,0 +1,20 @@
+{
+    "ISR+RUS+36":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/thehill.com/Zelensky suggests talks with Russia could be held in Jerusalem.txt+eventbasecode36+eventcode36+avgtone0.5+goldsteinscale0.7+nummentions0.020682148040638608+numarticles0.017766497461928935+numsources0.023026315789473683+news_keywords+['israelcould:0.4534', 'jerusalem:0.3948', 'zelensky:0.3787', 'moscow:0.3389', 'putin:0.2967', 'negotiate:0.2737', 'peace:0.2704', 'meeting:0.2043', 'ministernaftali:0.2029', 'yair:0.1922', 'mediator:0.1903', 'speak:0.179', 'bennett:0.166', 'lawmakersvirtually:0.1375', 'address:0.1364', 'facilitate:0.1104', 'refrain:0.1065', 'sanction:0.1033', 'begin:0.1031', 'possible:0.0776', 'hold:0.0688', 'try:0.0571', 'relatively:0.0491', 'thats:0.0439', 'concerted:0.0411', 'nightmare:0.0338', 'ground:0.0266', 'week:0.0247', 'turn:0.0215', 'video:0.0211']+titles_keywords+['zelensky:0.5243', 'jerusalem:0.3582', 'russia:0.2305', 'talks:0.2201', 'held:-0.0069']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/thehill.com/Official 840 children wounded in RussiaUkraine conflict.txt+eventbasecode36+eventcode36+avgtone0.4622093023255814+goldsteinscale0.7+nummentions0.019230769230769232+numarticles0.01994198694706309+numsources0.05592105263157895+news_keywords+['ukraine:0.5012', 'russiaukraine:0.453', 'russian:0.3924', 'refugee:0.3629', 'war:0.361', 'humanitarian:0.3382', 'child:0.2668', 'danilov:0.2531', 'crisis:0.2188', 'fight:0.2117', 'invasion:0.2117', 'government:0.2106', 'ongoing:0.2001', 'wound:0.1967', 'corridor:0.1624', 'flee:0.1616', 'woman:0.1277', 'question:0.0985', 'way:0.0871', 'delegation:0.0849', 'million:0.0844', 'tally:0.082', 'friday:0.0767', 'official:0.0705', 'head:0.0703', 'remark:0.0628', 'ap:0.0603', 'agreedon:0.0366', 'accord:0.0329', 'make:0.0185']+titles_keywords+['russiaukraine:0.3734', 'children:0.3576', 'wounded:0.2991', '840:0.0898', 'official:0.0397']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/thehill.com/US intel assessment notes multiple Ukraine cities that may be targeted report.txt+eventbasecode36+eventcode36+avgtone0.48201438848920863+goldsteinscale0.7+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraines:0.4637', 'moscow:0.3829', 'putin:0.3709', 'invasion:0.3355', 'russianforeign:0.3082', 'includingkharkiv:0.2559', 'zakharova:0.2371', 'proceed:0.206', 'bloomberg:0.1658', 'occur:0.1643', 'near:0.1639', 'city:0.16', 'ally:0.1526', 'kherson:0.146', 'report:0.1399', 'cyber:0.1307', 'gather:0.1255', 'biden:0.125', 'information:0.1215', 'potential:0.1081', 'andodessa:0.1071', 'reportedly:0.0882', 'include:0.0814', 'large:0.0721', 'non:0.0653', 'directly:0.0631', 'note:0.0591', 'believe:0.0582', 'week:0.0356', 'agree:0.0253']+titles_keywords+['ukraine:0.4501', 'cities:0.2718', 'intel:0.2467', 'targeted:0.2333', 'report:0.2203']"
+        ],
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/thehill.com/Senate hurdles slow bill to limit trade with Russia.txt+eventbasecode36+eventcode36+avgtone0.4970059880239521+goldsteinscale0.7+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.013157894736842105+news_keywords+['bipartisan:0.488', 'senates:0.4341', 'legislation:0.3514', 'russias:0.3055', 'agreement:0.2657', 'vote:0.2572', 'tariff:0.2535', 'war:0.2427', 'polarize:0.2243', 'reauthorizes:0.2237', 'quick:0.2025', 'separate:0.198', 'relation:0.1956', 'passage:0.1884', 'issue:0.1844', 'want:0.1842', 'sen:0.18', 'push:0.175', 'spearhead:0.1699', 'swap:0.1698', 'overcomplicate:0.169', 'set:0.1602', 'week:0.1568', 'import:0.1566', 'guideline:0.1549', 'write:0.1538', 'increasingly:0.1394', 'crapo:0.1313', 'magnitsky:0.103', 'doesnt:0.0568']+titles_keywords+['senate:0.2539', 'russia:0.2199', 'slow:0.2106', 'trade:0.1187', 'limit:0.0856']"
+        ]
+    ]
+}

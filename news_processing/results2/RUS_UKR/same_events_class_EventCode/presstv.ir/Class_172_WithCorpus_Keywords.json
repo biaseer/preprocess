@@ -1,0 +1,17 @@
+{
+    "AUS+RUS+172":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/presstv.ir/Kremlin European leaders should push Zelensky to be realistic.txt+eventbasecode172+eventcode172+avgtone0.4856801909307875+goldsteinscale0.25+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kremlin:0.4816', 'crimean:0.4548', 'ukraines:0.4368', 'ceasefire:0.3892', 'vladimir:0.3833', 'diplomat:0.3604', 'negotiation:0.3212', 'zelensky:0.319', 'russophobic:0.3097', 'agenda:0.294', 'blacklist:0.277', 'sanction:0.2246', 'businessmen:0.2175', 'enter:0.2146', 'military:0.2028', 'expect:0.1985', 'continue:0.1944', 'peninsula:0.1707', 'thursday:0.164', 'realistic:0.1536', 'editor:0.1495', 'insteadwill:0.1436', 'outlet:0.1393', 'statement:0.1329', 'indefinitely:0.128', 'hop:0.1239', 'dore:0.1008', 'look:0.0949', 'grow:0.0888', 'trio:0.0641']+titles_keywords+['zelensky:0.5644', 'kremlin:0.4979', 'realistic:0.2551', 'european:0.1768', 'push:0.172']"
+        ]
+    ],
+    "EUR+RUS+172":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/presstv.ir/Putin blasts West as empire of lies over sanctions against Moscow.txt+eventbasecode172+eventcode172+avgtone0.4764267990074441+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.4945', 'nato:0.4169', 'kiev:0.4125', 'russias:0.4071', 'demilitarization:0.328', 'genocide:0.3143', 'diplomat:0.3057', 'zelensky:0.2901', 'conflict:0.2811', 'overthrown:0.2776', 'divert:0.2754', 'strategic:0.2483', 'economy:0.2476', 'news:0.247', 'sanction:0.2391', 'order:0.2246', 'finnair:0.2094', 'expect:0.2045', 'command:0.2012', 'advance:0.1956', 'authorize:0.1912', 'thursday:0.1835', 'alongside:0.1773', 'sector:0.1762', 'tell:0.176', 'long:0.175', 'quoted:0.1654', 'transcript:0.1628', 'sure:0.1597', 'footing:0.0732']+titles_keywords+['putin:0.441', 'sanctions:0.3707', 'empire:0.2938', 'lies:0.273', 'blasts:0.1629']"
+        ]
+    ],
+    "USA+UKR+172":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/presstv.ir/Google blocks RT Sputnik from Play app store Report.txt+eventbasecode172+eventcode172+avgtone0.47337278106508873+goldsteinscale0.25+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['russia:0.4645', 'putin:0.4609', 'vladimir:0.3803', 'news:0.3794', 'kiev:0.3765', 'sputnik:0.3528', 'rt:0.3296', 'ban:0.3006', 'government:0.2902', 'genocide:0.2497', 'report:0.2291', 'occupy:0.2161', 'falsehood:0.2123', 'unprovoked:0.1938', 'military:0.1909', 'concern:0.1801', 'youtube:0.1755', 'spokesperson:0.1742', 'tweet:0.172', 'outlet:0.1718', 'apple:0.1607', 'alphabet:0.1597', 'anna:0.1552', 'legal:0.1464', 'subject:0.1411', 'control:0.1238', 'immediately:0.1145', 'reduce:0.1142', 'visibility:0.1062', 'big:0.0812']+titles_keywords+['sputnik:0.4123', 'report:0.2753', 'rt:0.274', 'app:0.2277', 'blocks:0.1975']"
+        ]
+    ]
+}

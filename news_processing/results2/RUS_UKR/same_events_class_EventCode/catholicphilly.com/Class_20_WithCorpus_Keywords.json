@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+20":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/catholicphilly.com/Church leaders urge Russian patriarch to speak with Putin.txt+eventbasecode20+eventcode20+avgtone0.4956896551724138+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['orthodox:0.4814', 'putin:0.4342', 'kyiv:0.3925', 'patriarchate:0.381', 'peacemaking:0.3713', 'russias:0.3471', 'pope:0.3418', 'liturgy:0.3343', 'invasion:0.2324', 'agenda:0.2316', 'threaten:0.2307', 'speak:0.2242', 'suffer:0.1986', 'implore:0.1952', 'order:0.1947', 'response:0.184', 'facilitate:0.1824', 'concerned:0.1821', 'world:0.1723', 'independence:0.1718', 'turn:0.1678', 'general:0.1597', 'soon:0.1487', 'kirills:0.1464', 'bless:0.1423', 'publish:0.1388', 'include:0.1348', 'head:0.1252', 'feb:0.1053', 'point:0.1045']+titles_keywords+['putin:0.3898', 'patriarch:0.3733', 'church:0.1967', 'speak:0.1816', 'urge:0.0856']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/catholicphilly.com/Pope Francis on Ukraine Stop this massacre.txt+eventbasecode20+eventcode20+avgtone0.48742138364779874+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4305', 'peace:0.389', 'pope:0.3875', 'humanitarian:0.3796', 'massacre:0.3518', 'evacuate:0.3191', 'martyred:0.3074', 'unite:0.2956', 'bombing:0.293', 'justify:0.2822', 'pray:0.2652', 'world:0.2505', 'language:0.2472', 'convert:0.2418', 'listen:0.2375', 'twitter:0.2208', 'order:0.2161', 'heart:0.2109', 'turn:0.2078', 'address:0.2063', 'begin:0.1999', 'say:0.1946', 'report:0.1937', 'increase:0.1843', 'spring:0.1567', 'invoke:0.1545', 'thousand:0.146', 'include:0.1451', 'thank:0.1237', 'photopaul:0.0668']+titles_keywords+['pope:0.433', 'ukraine:0.3889', 'massacre:0.3672', 'francis:0.3151', 'stop:0.1901']"
+        ]
+    ]
+}

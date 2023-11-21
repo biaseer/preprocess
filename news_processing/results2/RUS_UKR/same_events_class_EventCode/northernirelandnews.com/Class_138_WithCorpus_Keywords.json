@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+138":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/northernirelandnews.com/May Day Rallies in Europe Honor Workers Protest Governments.txt+eventbasecode138+eventcode138+avgtone0.48473967684021546+goldsteinscale0.15+nummentions0.019593613933236574+numarticles0.02030456852791878+numsources0.03289473684210526+news_keywords+['protests:0.4862', 'macron:0.3766', 'holiday:0.3468', 'europe:0.3419', 'election:0.3297', 'june:0.314', 'union:0.3016', 'governments:0.2988', 'pandemic:0.2866', 'event:0.2831', 'social:0.2412', 'organize:0.231', 'peace:0.2029', 'progressive:0.2017', 'town:0.1765', 'say:0.1725', 'student:0.1688', 'term:0.1658', 'slogan:0.165', 'site:0.1613', 'fumarola:0.1523', 'main:0.1521', 'daniela:0.152', 'draw:0.1481', 'sing:0.1368', 'head:0.1329', 'encircle:0.1258', 'include:0.123', 'ready:0.1035', 'far:0.0952']+titles_keywords+['protest:0.415', 'rallies:0.3991', 'workers:0.3637', 'europe:0.2371', 'day:0.1709']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/northernirelandnews.com/Zelenskyy calls for global protests as UkraineRussia war marks one month.txt+eventbasecode138+eventcode138+avgtone0.4872611464968153+goldsteinscale0.15+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.019736842105263157+news_keywords+['ukraine:0.4675', 'putin:0.4166', 'war:0.3965', 'zelenskyy:0.3839', 'invasion:0.3324', 'genocide:0.3024', 'protest:0.2986', 'demilitarize:0.2926', 'occupy:0.2903', 'president:0.2539', 'volodymyr:0.2374', 'begin:0.224', 'month:0.2148', 'speak:0.2019', 'plan:0.1907', 'thursday:0.1631', 'come:0.156', 'subject:0.1465', 'goal:0.1315', 'calling:0.1282', 'population:0.1271', 'hour:0.1243', 'donbas:0.1061', 'exactly:0.1005', 'support:0.0939', 'according:0.0781', 'add:0.0667', 'special:0.063', 'ani:0.05', 'lpr:0.0164']+titles_keywords+['zelenskyy:0.5306', 'protests:0.3445', 'ukrainerussia:0.3278', 'month:0.2084', 'global:0.1154']"
+        ]
+    ]
+}

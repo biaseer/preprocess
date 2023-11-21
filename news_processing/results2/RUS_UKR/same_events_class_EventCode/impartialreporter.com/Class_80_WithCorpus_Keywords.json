@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Russia claims surrender of 1000 Ukrainian troops in Mariupol.txt+eventbasecode80+eventcode80+avgtone0.47297297297297297+goldsteinscale0.75+nummentions0.1792452830188679+numarticles0.1798404641044235+numsources0.23355263157894737+news_keywords+['surrender:0.3986', 'ukrainian:0.3794', 'konashenkov:0.3038', 'marine:0.3031', 'arestovych:0.2665', 'brigade:0.2349', 'mariupol:0.202', 'manoeuvre:0.1997', 'general:0.1858', 'personnel:0.1667', 'port:0.1639', 'supply:0.1503', 'female:0.1429', 'low:0.1369', 'february:0.1358', 'post:0.128', 'city:0.1246', 'force:0.124', 'southeastern:0.1205', 'wound:0.1154', 'run:0.1122', 'claim:0.1008', 'elements:0.0992', 'received:0.0972', 'risky:0.0906', 'adviser:0.0879', 'link:0.086', 'late:0.0741', 'th:0.0656', 'say:0.0546']+titles_keywords+['surrender:0.3805', 'ukrainian:0.3579', 'mariupol:0.2498', '1000:0.2469', 'troops:0.2332']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/impartialreporter.com/Russia takes aim at crowded cities as Biden vows Putin will pay.txt+eventbasecode80+eventcode80+avgtone0.46794871794871795+goldsteinscale0.75+nummentions0.36792452830188677+numarticles0.36838288614938364+numsources0.5460526315789473+news_keywords+['putin:0.4831', 'russias:0.4267', 'kyiv:0.424', 'airstrike:0.3631', 'invasion:0.3324', 'boychenko:0.3316', 'holocaust:0.2974', 'kill:0.2835', 'missile:0.2798', 'military:0.2548', 'justify:0.2498', 'strategic:0.239', 'prepare:0.2322', 'agreement:0.2296', 'news:0.2296', 'nation:0.2187', 'sanction:0.2133', 'learn:0.1996', 'populate:0.1951', 'itselfincreasingly:0.1725', 'billion:0.1658', 'substation:0.1586', 'th:0.1441', 'highlight:0.139', 'yar:0.1287', 'long:0.1279', 'near:0.127', 'flatten:0.1206', 'send:0.0869', 'cost:0.0641']+titles_keywords+['putin:0.4283', 'pay:0.237', 'cities:0.2335', 'crowded:0.1733', 'aim:0.129']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+CHN+110":[
+        [
+            "20220209+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Russia China spurn unilateral sanctions.txt+eventbasecode110+eventcode110+avgtone0.4411764705882355+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['russia:0.4312', 'sanction:0.4001', 'invade:0.3091', 'impose:0.3063', 'unilateral:0.2722', 'dmitry:0.2707', 'interfere:0.2668', 'coercive:0.2608', 'sovereignty:0.2599', 'peace:0.2333', 'denounce:0.2219', 'concern:0.211', 'initiate:0.1994', 'ambassador:0.1946', 'global:0.1939', 'drug:0.1935', 'mention:0.1925', 'hook:0.1852', 'polyanskiy:0.1694', 'stop:0.15', 'say:0.1481', 'plan:0.1353', 'react:0.1351', 'legal:0.1278', 'zhang:0.1245', 'immediately:0.1225', 'source:0.1176', 'west:0.0932', 'face:0.0631', 'measure:0.0569']+titles_keywords+['sanctions:0.5913', 'russia:0.45', 'china:0.3408', 'unilateral:0.297', 'spurn:0.1959']"
+        ]
+    ],
+    "UKR+RUS+110":[
+        [
+            "20220113+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Ukraine crisis Nato Russia lay out stark differences.txt+eventbasecode110+eventcode110+avgtone0.5017730496453902+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.4988', 'ukraines:0.4035', 'moscow:0.3138', 'war:0.2534', 'veto:0.217', 'compromise:0.2037', 'discuss:0.1881', 'escalation:0.1869', 'crisis:0.1822', 'difference:0.164', 'flank:0.1544', 'order:0.1405', 'ally:0.1403', 'warn:0.1194', 'come:0.1167', 'general:0.0984', 'agree:0.0982', 'clear:0.0981', 'west:0.0856', 'bid:0.0853', 'make:0.084', 'platform:0.0795', 'stark:0.0747', 'sit:0.0742', 'rule:0.0567', 'wednesday:0.0564', 'stoltenberg:0.0517', 'like:0.0287', 'impossible:0.0267', 'didnt:0.0025']+titles_keywords+['ukraine:0.517', 'nato:0.4873', 'differences:0.3297', 'crisis:0.2269', 'stark:0.1364']"
+        ]
+    ]
+}

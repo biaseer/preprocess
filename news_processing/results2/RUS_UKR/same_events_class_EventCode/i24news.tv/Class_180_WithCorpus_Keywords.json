@@ -1,0 +1,17 @@
+{
+    "PRT+RUS+180":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/i24news.tv/Ukraine Brutal battle over Donbas worsening global impacts.txt+eventbasecode180+eventcode180+avgtone0.4473684210526315+goldsteinscale0.05+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5009', 'battle:0.3038', 'donbas:0.2126', 'economic:0.2092', 'chaos:0.2089', 'threaten:0.1981', 'artillery:0.1895', 'zelensky:0.1845', 'volodymyr:0.1816', 'bomb:0.18', 'repercussion:0.1675', 'liberate:0.1639', 'pull:0.1581', 'turn:0.1571', 'increase:0.1535', 'epicenter:0.147', 'people:0.1439', 'general:0.1405', 'cope:0.1391', 'end:0.1305', 'world:0.1242', 'indicate:0.1199', 'long:0.1177', 'fall:0.1153', 'dimension:0.1102', 'million:0.0924', 'unprecedented:0.0912', 'secretary:0.0814', 'second:0.0663', 'possible:0.0544']+titles_keywords+['ukraine:0.443', 'battle:0.3448', 'donbas:0.3423', 'impacts:0.1947', 'worsening:0.1294']"
+        ]
+    ],
+    "RUS+USA+180":[
+        [
+            "20220207+../news_crawling/RUS_UKR/p_articles/i24news.tv/Macron tells Putin he seeks to avoid war and build trust.txt+eventbasecode180+eventcode180+avgtone0.5+goldsteinscale0.05+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4846', 'macron:0.4316', 'nato:0.4187', 'geopolitical:0.3809', 'war:0.2894', 'peskov:0.2771', 'mediator:0.2724', 'talk:0.2605', 'reuters:0.2376', 'crisis:0.2279', 'concern:0.1954', 'clarify:0.1816', 'imminent:0.1789', 'paris:0.178', 'response:0.1764', 'cohabitation:0.1684', 'dimanche:0.1623', 'monday:0.156', 'course:0.1496', 'stability:0.1469', 'seek:0.1446', 'report:0.143', 'allow:0.1414', 'believe:0.1288', 'perspective:0.1204', 'sphere:0.1065', 'common:0.0997', 'build:0.0878', 'accord:0.081', 'reasonably:0.0699']+titles_keywords+['macron:0.4411', 'putin:0.4143', 'war:0.2574', 'trust:0.2318', 'avoid:0.1442']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/i24news.tv/Russian missiles destroy aircraft repair plant in Ukraines Lviv mayor.txt+eventbasecode180+eventcode180+avgtone0.4903846153846153+goldsteinscale0.05+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['lviv:0.5311', 'ukraines:0.4164', 'missile:0.3538', 'aircraft:0.3426', 'russian:0.3287', 'sadovyi:0.3192', 'zelensky:0.3036', 'destroy:0.2879', 'checkpoint:0.2179', 'volodymyr:0.2042', 'blast:0.182', 'troop:0.1798', 'address:0.1789', 'government:0.1785', 'know:0.1718', 'armed:0.1612', 'afp:0.1527', 'source:0.1502', 'turn:0.137', 'hear:0.1351', 'western:0.135', 'plant:0.1344', 'lead:0.1322', 'mile:0.1279', 'telegram:0.1271', 'morning:0.1232', 'writing:0.0994', 'large:0.0759', 'february:0.0644', 'largely:0.0368']+titles_keywords+['lviv:0.4693', 'missiles:0.3918', 'destroy:0.2857', 'repair:0.2297', 'plant:0.0689']"
+        ]
+    ]
+}

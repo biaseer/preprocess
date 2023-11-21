@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+193":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/panow.com/Civilians fleeing Mariupol describe streettostreet battles.txt+eventbasecode193+eventcode193+avgtone0.47015655577299414+goldsteinscale0.0+nummentions0.14622641509433962+numarticles0.14394488759970994+numsources0.39144736842105265+news_keywords+['kyiv:0.5891', 'ukrainians:0.4615', 'civilians:0.3821', 'invade:0.3495', 'russias:0.338', 'surrender:0.3003', 'bombardment:0.2985', 'embattle:0.2862', 'street:0.2816', 'territory:0.2774', 'escape:0.2739', 'strategically:0.2358', 'surround:0.1905', 'hit:0.1881', 'gun:0.1826', 'follow:0.1742', 'dangerous:0.1731', 'bucha:0.1724', 'key:0.1654', 'control:0.1591', 'early:0.1579', 'ap:0.1557', 'mariupol:0.1529', 'port:0.1525', 'northwest:0.1465', 'month:0.1089', 'past:0.1021', 'make:0.096', 'retake:0.094', 'unburied:0.0923']+titles_keywords+['civilians:0.4696', 'battles:0.3968', 'fleeing:0.3513', 'mariupol:0.3342', 'streettostreet:0.298']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220729+../news_crawling/RUS_UKR/p_articles/panow.com/Separatists say shelling killed Ukrainian prisoners of war.txt+eventbasecode193+eventcode193+avgtone0.4642857142857143+goldsteinscale0.0+nummentions0.06966618287373004+numarticles0.07034082668600435+numsources0.05921052631578947+news_keywords+['kyiv:0.4622', 'ukraines:0.4045', 'ukrainian:0.395', 'prisoner:0.3317', 'war:0.3309', 'russia:0.3095', 'troop:0.2937', 'olenivka:0.2904', 'separatists:0.282', 'kill:0.2731', 'bezsonov:0.248', 'fight:0.2402', 'shelling:0.2183', 'steel:0.2002', 'azovstal:0.1937', 'capture:0.1907', 'hole:0.1886', 'hit:0.1688', 'town:0.1572', 'injured:0.1481', 'month:0.1328', 'eastern:0.1259', 'port:0.124', 'daniil:0.1047', 'friday:0.0993', 'ap:0.0878', 'say:0.0575', 'fierce:0.0498', 'giant:-0.012', 'spokesman:-0.0222']+titles_keywords+['ukrainian:0.3546', 'separatists:0.3343', 'prisoners:0.2958', 'shelling:0.2077', 'killed:0.1947']"
+        ]
+    ]
+}

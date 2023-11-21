@@ -1,0 +1,50 @@
+{
+    "EUR+RUS+138":[
+        []
+    ],
+    "GBR+RUS+138":[
+        [],
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/msn.com/Europes fastest growing refugee crisis In 20 days 28 million people have fled Ukraine.txt+eventbasecode138+eventcode138+avgtone0.47116644823066844+goldsteinscale0.15+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4681', 'ceasefires:0.4303', 'refugee:0.4152', 'nato:0.3649', 'auschwitz:0.3122', 'invade:0.2914', 'przemysl:0.2875', 'crisis:0.2708', 'population:0.27', 'fled:0.2386', 'travel:0.2324', 'displace:0.2145', 'busy:0.2122', 'capital:0.2082', 'data:0.2064', 'cross:0.1837', 'read:0.1832', 'report:0.1811', 'counterpart:0.1781', 'houses:0.1778', 'overwhelm:0.1777', 'ofrefugees:0.1761', 'arrive:0.1737', 'world:0.1713', 'weekend:0.1622', 'renew:0.1594', 'know:0.1416', 'main:0.1391', 'scale:0.1374', 'hour:0.1263']+titles_keywords+['refugee:0.4591', 'fled:0.3395', 'europes:0.3013', 'million:0.236', 'days:0.1649']"
+        ]
+    ],
+    "RUS+UKR+138":[
+        [],
+        [],
+        [],
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/msn.com/US says Russia lying about chemical plot to set up attack.txt+eventbasecode138+eventcode138+avgtone0.4615384615384615+goldsteinscale0.15+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.019736842105263157+news_keywords+['disinformation:0.4372', 'putin:0.4007', 'ukrainian:0.3492', 'warn:0.3136', 'pathogens:0.3', 'malicious:0.2948', 'invasion:0.29', 'allegation:0.2899', 'assassination:0.2774', 'concerned:0.2625', 'pretext:0.2613', 'flag:0.2584', 'unprovoked:0.2502', 'justify:0.2283', 'chemical:0.2228', 'secretary:0.2196', 'false:0.2053', 'plot:0.1821', 'bioweapon:0.1818', 'biden:0.1793', 'weapon:0.1785', 'expose:0.1658', 'world:0.1622', 'meet:0.1543', 'exactly:0.1379', 'state:0.1262', 'laughable:0.1251', 'wednesday:0.0943', 'track:0.0798', 'price:0.0626']+titles_keywords+['lying:0.343', 'russia:0.3208', 'chemical:0.248', 'attack:0.197', 'plot:0.1602']"
+        ],
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/msn.com/Oil falls more than 4 for the week as traders weigh prospects for Russian crude.txt+eventbasecode138+eventcode138+avgtone0.47461928934010156+goldsteinscale0.15+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.406', 'oil:0.3516', 'marketwatch:0.348', 'economy:0.339', 'kyiv:0.3223', 'forecast:0.3193', 'april:0.3086', 'commodity:0.3079', 'news:0.2829', 'volatility:0.2793', 'uranium:0.2611', 'report:0.2207', 'jinping:0.2192', 'read:0.2119', 'talks:0.1704', 'reduce:0.1682', 'significant:0.1621', 'advanced:0.1579', 'commerzbank:0.1572', 'world:0.1527', 'begin:0.1525', 'skirt:0.1255', 'longer:0.1238', 'like:0.1187', 'decade:0.1184', 'measure:0.1124', 'include:0.1044', 'draw:0.1041', 'unless:0.0964', 'doubtless:0.0788']+titles_keywords+['oil:0.2681', 'week:0.1911', 'russian:0.1569', 'falls:0.1517', 'traders:0.1305']"
+        ],
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/msn.com/Photos show worlds largest cargo plane destroyed in Ukraine.txt+eventbasecode138+eventcode138+avgtone0.48342541436464087+goldsteinscale0.15+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.4838', 'aircraft:0.4599', 'russia:0.3792', 'antonov:0.3536', 'wreckage:0.2926', 'thekyiv:0.2913', 'destroy:0.289', 'cargo:0.2649', 'invasion:0.2446', 'safety:0.2336', 'happen:0.2077', 'departures:0.1993', 'operational:0.1975', 'concern:0.1842', 'world:0.1613', 'need:0.1611', 'people:0.154', 'photos:0.1442', 'right:0.1442', 'continue:0.1344', 'axis:0.1314', 'long:0.1303', 'control:0.1233', 'schedule:0.1166', 'bad:0.1144', 'feb:0.1109', 'maximum:0.1056', 'visited:0.0942', 'frozen:0.088', 'neighbor:0.0827']+titles_keywords+['largest:0.3504', 'plane:0.3364', 'ukraine:0.3081', 'photos:0.2228', 'destroyed:0.2005']"
+        ],
+        [],
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/msn.com/ProRussian Fighters Defend BombedOut Donetsk Airport.txt+eventbasecode138+eventcode138+avgtone0.4891107078039928+goldsteinscale0.15+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['donetsk:0.5078', 'kremlin:0.3928', 'warfare:0.389', 'military:0.3466', 'mobilized:0.3325', 'attack:0.3076', 'missile:0.299', 'revolution:0.2896', 'peaceful:0.2769', 'bombedout:0.2716', 'zelensky:0.2621', 'strategically:0.2511', 'dpr:0.2211', 'aerial:0.2176', 'news:0.2113', 'communications:0.191', 'severodonetsk:0.182', 'sector:0.1808', 'locate:0.1703', 'despite:0.1599', 'write:0.1598', 'rank:0.1523', 'adjacent:0.1513', 'long:0.1502', 'eastern:0.1486', 'major:0.1245', 'miner:0.1187', 'state:0.1133', 'send:0.1116', 'multiple:0.0994']+titles_keywords+['donetsk:0.4785', 'prorussian:0.3255', 'defend:0.309', 'fighters:0.2951', 'bombedout:0.2707']"
+        ],
+        []
+    ],
+    "UKR+EUR+138":[
+        []
+    ],
+    "UKR+RUS+138":[
+        [],
+        [],
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/msn.com/Ukrainians Killing Russian POWs Risks Spiral of DepravityExpert.txt+eventbasecode138+eventcode138+avgtone0.444947209653092+goldsteinscale0.15+nummentions0.003265602322206096+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['ukrainians:0.4324', 'massacre:0.3799', 'putin:0.3478', 'war:0.3369', 'troop:0.3143', 'surrender:0.2636', 'bosnia:0.2606', 'torture:0.2124', 'footage:0.2079', 'suspect:0.2073', 'unacceptable:0.1969', 'behavior:0.1956', 'versus:0.1942', 'volodymyr:0.1921', 'blame:0.1844', 'law:0.173', 'turn:0.168', 'grade:0.1555', 'barrel:0.1553', 'newsweek:0.1495', 'unverified:0.1467', 'risks:0.1441', 'suppress:0.1368', 'th:0.1298', 'bucha:0.1242', 'remind:0.1209', 'hot:0.1188', 'imply:0.1108', 'differentiate:0.1036', 'modern:0.0876']+titles_keywords+['ukrainians:0.4916', 'killing:0.3708', 'depravityexpert:0.3236', 'pows:0.2798', 'risks:0.2048']"
+        ],
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/msn.com/Russia Warns of Nuclear War Risk as Ukraine Talks Go On.txt+eventbasecode138+eventcode138+avgtone0.4721407624633431+goldsteinscale0.15+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.006578947368421052+news_keywords+['putin:0.4655', 'nato:0.4203', 'kyiv:0.3971', 'russias:0.3844', 'war:0.3756', 'treaty:0.3742', 'demilitarization:0.361', 'nuclear:0.3263', 'diplomat:0.3109', 'escalation:0.3096', 'warns:0.3015', 'distract:0.2421', 'talk:0.2372', 'paragraph:0.2323', 'agreement:0.2252', 'bloomberg:0.2227', 'transnistria:0.2211', 'discus:0.2003', 'continue:0.1811', 'counterparts:0.1781', 'organization:0.1757', 'north:0.1741', 'want:0.1586', 'radio:0.1452', 'isnt:0.1302', 'breakaway:0.1296', 'issue:0.1227', 'state:0.112', 'wednesday:0.1079', 'inadmissibility:0.0972']+titles_keywords+['nuclear:0.3324', 'ukraine:0.3259', 'warns:0.2651', 'war:0.2352', 'risk:0.2116']"
+        ],
+        [],
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/msn.com/Biden says US sending mediumrange rocket systems to Ukraine.txt+eventbasecode138+eventcode138+avgtone0.48813708260105443+goldsteinscale0.15+nummentions0.16690856313497823+numarticles0.16751269035532995+numsources0.11513157894736842+news_keywords+['ukraines:0.4244', 'kremlin:0.368', 'pentagon:0.3287', 'war:0.3169', 'firepower:0.2918', 'tank:0.287', 'plan:0.2611', 'intercept:0.2587', 'biden:0.2539', 'diplomatic:0.248', 'launch:0.2441', 'advance:0.2432', 'howitzer:0.2362', 'read:0.2343', 'news:0.2303', 'soon:0.2241', 'separatist:0.223', 'inventory:0.2119', 'far:0.1971', 'volodymyr:0.1938', 'eastern:0.1934', 'donbas:0.1932', 'shoot:0.1931', 'prolong:0.1887', 'dynamic:0.1789', 'arm:0.1672', 'th:0.1595', 'include:0.1461', 'precisely:0.1428', 'sending:0.1415']+titles_keywords+['biden:0.3654', 'ukraine:0.3381', 'rocket:0.2902', 'sending:0.1417', 'says:0.0669']"
+        ]
+    ],
+    "WST+RUS+138":[
+        []
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "RUS+RUS+10":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/cnn.com/Ukraine has denied Russia a victory for four weeks A grim new phase could be.txt+eventbasecode10+eventcode10+avgtone0.4666370106761566+goldsteinscale0.5+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.049342105263157895+news_keywords+['kyiv:0.4972', 'ukraines:0.4717', 'kremlin:0.4202', 'nato:0.3363', 'airstrikes:0.3006', 'prognosis:0.263', 'strategic:0.2462', 'conflict:0.2291', 'pr:0.2256', 'troop:0.2252', 'separatist:0.2131', 'shift:0.2088', 'long:0.2081', 'forecast:0.2028', 'infrastructure:0.2001', 'finalize:0.1999', 'worry:0.1996', 'northern:0.1994', 'read:0.1993', 'flee:0.1841', 'described:0.1778', 'protraction:0.1623', 'surround:0.1621', 'monday:0.1579', 'nearly:0.157', 'counter:0.1439', 'begin:0.1423', 'version:0.1366', 'stymie:0.1181', 'true:0.0966']+titles_keywords+['ukraine:0.4357', 'victory:0.2981', 'weeks:0.255', 'phase:0.2538', 'grim:0.2138']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/cnn.com/The latest on the UkraineRussia crisis.txt+eventbasecode10+eventcode10+avgtone0.4859689666556619+goldsteinscale0.5+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.01644736842105263+news_keywords+['ukraine:0.4592', 'afterrussia:0.4372', 'ceasefire:0.4338', 'kremlin:0.4233', 'diplomatic:0.333', 'catastrophe:0.3208', 'government:0.3138', 'vladimirputinwill:0.303', 'invades:0.2937', 'corroborate:0.2831', 'timeframedates:0.2703', 'analysis:0.2699', 'telegram:0.261', 'modernize:0.2471', 'reporter:0.2439', 'speakingsaboteurs:0.2408', 'brief:0.2257', 'sequence:0.2239', 'substantive:0.2128', 'table:0.2119', 'elaborate:0.2106', 'metadata:0.2073', 'imminent:0.202', 'similar:0.1958', 'calledapantry:0.1945', 'pretext:0.1764', 'agree:0.1409', 'bilateral:0.1365', 'ofgunfire:0.1328', 'ongoingukrainecrisis:0.0875']+titles_keywords+['ukrainerussia:0.4839', 'crisis:0.3454', 'latest:0.1961']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/cnn.com/Russians in the dark about true state of war amid countrys Orwellian media coverage.txt+eventbasecode10+eventcode10+avgtone0.4677284157585918+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukrainian:0.5369', 'kremlin:0.5027', 'russias:0.4421', 'nationalists:0.4277', 'propaganda:0.4099', 'correspondent:0.3476', 'orwellian:0.283', 'dozhd:0.2687', 'military:0.2553', 'blockade:0.2495', 'justify:0.242', 'know:0.2284', 'organization:0.2264', 'capital:0.2102', 'flee:0.2071', 'subject:0.1938', 'rail:0.1836', 'distinguish:0.179', 'opposite:0.1781', 'prepare:0.1671', 'statelets:0.166', 'dark:0.166', 'world:0.1601', 'virtual:0.1552', 'march:0.1479', 'end:0.1468', 'infect:0.1442', 'long:0.142', 'largely:0.1381', 'house:0.1265']+titles_keywords+['russians:0.458', 'orwellian:0.355', 'war:0.3266', 'media:0.2962', 'state:0.1177']"
+        ],
+        []
+    ]
+}

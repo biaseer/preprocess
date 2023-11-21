@@ -1,0 +1,17 @@
+{
+    "EUR+UKR+10":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/capitalfm.co.ke/Attacks across Ukraine as dozens die in Russian invasion.txt+eventbasecode10+eventcode10+avgtone0.4573754789272031+goldsteinscale0.5+nummentions0.022133526850507984+numarticles0.02284263959390863+numsources0.01644736842105263+news_keywords+['ukraine:0.5319', 'kremlin:0.4391', 'nato:0.4165', 'diplomacy:0.3258', 'separatist:0.3235', 'invasion:0.314', 'military:0.2661', 'volodymyrzelenskyy:0.2604', 'demonstrators:0.2565', 'news:0.2519', 'justify:0.2386', 'read:0.2126', 'finance:0.2069', 'georgieva:0.1883', 'curfew:0.1873', 'die:0.1862', 'watchdog:0.1764', 'immediate:0.1695', 'sector:0.1681', 'begin:0.1642', 'plan:0.1627', 'plunge:0.1585', 'howitzer:0.1566', 'additional:0.1554', 'submit:0.1479', 'long:0.1372', 'nearly:0.1266', 'choreographer:0.1256', 'export:0.107', 'agree:0.0885']+titles_keywords+['ukraine:0.4274', 'attacks:0.3727', 'invasion:0.3646', 'dozens:0.2629', 'die:0.2293']"
+        ]
+    ],
+    "RUS+USA+10":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/capitalfm.co.ke/Russians lose Netflix in latest pullout over Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4757281553398059+goldsteinscale0.5+nummentions0.01632801161103048+numarticles0.01704133430021755+numsources0.013157894736842105+news_keywords+['russia:0.4883', 'moscows:0.4148', 'nairobi:0.3376', 'netflix:0.331', 'subscribers:0.3198', 'telecommunication:0.2811', 'conflict:0.2789', 'shareholder:0.2649', 'global:0.2594', 'covid:0.2591', 'withdrawing:0.2557', 'troops:0.2406', 'fulfilment:0.2388', 'market:0.2269', 'surprise:0.2141', 'launch:0.2138', 'letter:0.2094', 'east:0.2006', 'tea:0.1866', 'order:0.1819', 'end:0.1795', 'current:0.1758', 'april:0.1703', 'report:0.1691', 'million:0.1594', 'learn:0.1429', 'decade:0.1369', 'longer:0.1196', 'enable:0.1184', 'set:0.1132']+titles_keywords+['netflix:0.4274', 'russians:0.4188', 'pullout:0.3204', 'lose:0.1333', 'latest:0.0549']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/capitalfm.co.ke/Ukraine Embassy in Kenya calls for funds aid in support of war with Russia.txt+eventbasecode10+eventcode10+avgtone0.5168539325842696+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5274', 'putin:0.422', 'countriesincluding:0.3767', 'embassy:0.3536', 'war:0.3507', 'kenyans:0.3208', 'aid:0.2759', 'capital:0.2535', 'lyakh:0.2534', 'crisis:0.2489', 'shortage:0.2473', 'impose:0.2351', 'telecommunication:0.2309', 'commodity:0.227', 'read:0.2227', 'president:0.2188', 'fund:0.2072', 'flee:0.1936', 'colombo:0.1931', 'transaction:0.1924', 'continue:0.1905', 'report:0.189', 'swift:0.1687', 'implication:0.163', 'billion:0.1583', 'severodonetsk:0.1582', 'additionally:0.1561', 'sullen:0.1428', 'boy:0.1418', 'crop:0.1399']+titles_keywords+['ukraine:0.4427', 'embassy:0.3087', 'war:0.2861', 'aid:0.2767', 'funds:0.2538']"
+        ]
+    ]
+}

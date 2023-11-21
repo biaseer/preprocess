@@ -1,0 +1,12 @@
+{
+    "AFR+RUS+43":[
+        [
+            "20220621+../news_crawling/RUS_UKR/p_articles/wn.com/Africa taken hostage by Russias invasion Zelenskyy says.txt+eventbasecode43+eventcode43+avgtone0.46470588235294125+goldsteinscale0.64+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4467', 'africa:0.4354', 'african:0.3663', 'invasion:0.3662', 'zelenskyy:0.3555', 'russias:0.3473', 'hostage:0.3333', 'continent:0.293', 'food:0.1727', 'leader:0.1705', 'price:0.1451', 'tell:0.1303', 'union:0.1263', 'rise:0.1244', 'say:0.1197', 'catastrophically:0.1067', 'amid:0.0892']+titles_keywords+['zelenskyy:0.493', 'africa:0.4115', 'hostage:0.4029', 'invasion:0.3707', 'russias:0.3553']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220201+../news_crawling/RUS_UKR/p_articles/wn.com/Erdogan to visit Kiev on Thursday to mediate between Russia and Ukraine.txt+eventbasecode43+eventcode43+avgtone0.5+goldsteinscale0.64+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['erdogan:0.5035', 'kiev:0.4566', 'ukraine:0.4124', 'turkish:0.3053', 'tayyip:0.2597', 'russia:0.2565', 'visit:0.2365', 'mediate:0.1954', 'president:0.1764', 'plan:0.0954', 'report:0.0937', 'thursday:0.0868', 'leader:0.0743', 'region:0.0668', 'tension:0.0583', 'ease:0.0494', 'cite:0.0393', 'office:0.0371', 'tass:0.0108', 'recep:0.0062', 'february:-0.0045', 'according:-0.0065']+titles_keywords+['erdogan:0.4551', 'kiev:0.4296', 'mediate:0.2164', 'visit:0.201', 'thursday:0.1191']"
+        ]
+    ]
+}

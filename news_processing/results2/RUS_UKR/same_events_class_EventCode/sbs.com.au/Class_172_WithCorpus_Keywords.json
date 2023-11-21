@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+172":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/sbs.com.au/ProRussia separatists ask Moscow for military help as Ukraine declares state of emergency.txt+eventbasecode172+eventcode172+avgtone0.473899692937564+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4879', 'kremlin:0.4616', 'nato:0.3954', 'separatist:0.3876', 'diplomacy:0.3805', 'emergency:0.3191', 'threat:0.2742', 'flag:0.2653', 'border:0.2584', 'troop:0.2575', 'plan:0.2417', 'psaki:0.2406', 'escalate:0.2404', 'news:0.2199', 'know:0.2086', 'accompany:0.2068', 'pipeline:0.2019', 'blacklist:0.1984', 'state:0.1974', 'declare:0.1967', 'order:0.1947', 'text:0.1787', 'switch:0.1717', 'hesitate:0.1707', 'biden:0.1629', 'ready:0.1603', 'yves:0.1498', 'export:0.1215', 'billion:0.1055', 'unconditional:0.1054']+titles_keywords+['ukraine:0.4317', 'separatists:0.3325', 'emergency:0.2807', 'military:0.2397', 'ask:0.1224']"
+        ]
+    ],
+    "RUS+USA+172":[
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/sbs.com.au/More than 1000 fighters captured in Mariupol reportedly sent to Russia for trial.txt+eventbasecode172+eventcode172+avgtone0.4744376278118609+goldsteinscale0.25+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4579', 'kremlin:0.4367', 'dmitry:0.3762', 'zelenskyy:0.3435', 'bombardment:0.2974', 'blockade:0.2962', 'territory:0.2688', 'strategic:0.2679', 'occupier:0.2621', 'retreat:0.2468', 'separatist:0.2437', 'interpret:0.2413', 'industrial:0.2257', 'fight:0.2226', 'soon:0.2125', 'news:0.2106', 'unsubstantiated:0.1772', 'report:0.1735', 'pows:0.1672', 'town:0.1605', 'invest:0.1537', 'remark:0.151', 'end:0.1499', 'focus:0.1369', 'swathe:0.1335', 'counter:0.1333', 'large:0.1314', 'tass:0.1298', 'resume:0.1246', 'proxies:0.1069']+titles_keywords+['russia:0.3266', 'fighters:0.3005', 'captured:0.2748', 'mariupol:0.2483', '1000:0.1654']"
+        ]
+    ]
+}

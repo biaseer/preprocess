@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/wbir.com/Dozens gather at Pigeon Forge Patriot Park to show solidarity with people affected by war.txt+eventbasecode51+eventcode51+avgtone0.48863636363636365+goldsteinscale0.67+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['protestors:0.4498', 'solidarity:0.3684', 'war:0.3638', 'gather:0.3451', 'flag:0.3445', 'patriot:0.339', 'tenn:0.2848', 'nonprofit:0.2416', 'russian:0.2404', 'country:0.239', 'forge:0.2369', 'park:0.2311', 'attend:0.2277', 'sign:0.2243', 'pigeon:0.2234', 'plan:0.2047', 'friday:0.1887', 'dozens:0.1856', 'sit:0.1725', 'grass:0.1579', 'affect:0.1569', 'help:0.1497', 'circle:0.1441', 'list:0.1299', 'change:0.1284', 'moment:0.107', 'display:0.1006', 'reason:0.0968', 'set:0.0615', 'wave:0.0598']+titles_keywords+['solidarity:0.337', 'park:0.2466', 'pigeon:0.2352', 'forge:0.2265', 'dozens:0.2193']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/wbir.com/Ukraine admits Ghost of Kyiv fighter pilot is a myth.txt+eventbasecode51+eventcode51+avgtone0.4970059880239521+goldsteinscale0.67+nummentions0.05370101596516691+numarticles0.05438723712835388+numsources0.05921052631578947+news_keywords+['kyiv:0.5021', 'ukrainians:0.4454', 'poroshenko:0.3602', 'ghost:0.3421', 'tarabalka:0.3347', 'military:0.3204', 'plane:0.2859', 'anonymous:0.2471', 'hero:0.2455', 'alive:0.2304', 'ace:0.2231', 'real:0.2044', 'unrelated:0.2041', 'supposedly:0.1871', 'story:0.179', 'shoot:0.1758', 'president:0.1716', 'wasa:0.1634', 'footage:0.1613', 'publish:0.157', 'information:0.1534', 'uaf:0.1533', 'outlet:0.1437', 'moniker:0.1316', 'embodies:0.1229', 'friday:0.1148', 'increase:0.1064', 'year:0.1023', 'toll:0.0922', 'rightly:0.0823']+titles_keywords+['kyiv:0.4391', 'ghost:0.3315', 'myth:0.3066', 'pilot:0.2728', 'admits:0.0751']"
+        ]
+    ]
+}

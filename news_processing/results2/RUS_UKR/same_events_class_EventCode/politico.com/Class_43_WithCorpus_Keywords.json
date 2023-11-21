@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+43":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/politico.com/DHS grants Ukrainians in US temporary protected status for 18 months.txt+eventbasecode43+eventcode43+avgtone0.47794117647058826+goldsteinscale0.64+nummentions0.017053701015965168+numarticles0.017766497461928935+numsources0.029605263157894735+news_keywords+['ukraine:0.4186', 'dhs:0.3859', 'refuge:0.3204', 'protect:0.2971', 'temporary:0.2914', 'month:0.2133', 'war:0.2119', 'status:0.2087', 'eligible:0.1891', 'homeland:0.1833', 'allow:0.1802', 'grant:0.1663', 'mayorkas:0.1636', 'support:0.1633', 'alejandro:0.1552', 'secretary:0.1548', 'apply:0.153', 'remain:0.1477', 'unprovoked:0.1471', 'thursday:0.1391', 'travel:0.1211', 'announce:0.1114', 'statement:0.0965', 'senseless:0.0731', 'united:0.0727', 'national:0.0727', 'force:0.0647', 'images:0.051', 'offer:0.0284', 'premeditate:0.0269']+titles_keywords+['ukrainians:0.4049', 'dhs:0.3615', 'temporary:0.2274', 'protected:0.2166', 'months:0.1683']"
+        ]
+    ],
+    "UKR+RUS+43":[
+        [
+            "20220417+../news_crawling/RUS_UKR/p_articles/politico.com/Austrian chancellor Putin in his own war logic.txt+eventbasecode43+eventcode43+avgtone0.4719387755102041+goldsteinscale0.64+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.5529', 'vladimir:0.3693', 'ukrainians:0.342', 'war:0.3335', 'moscow:0.3244', 'austrias:0.3208', 'president:0.2931', 'genocide:0.2778', 'nehammer:0.2543', 'zemlianichenkoap:0.2446', 'logic:0.2331', 'federation:0.2198', 'chancellor:0.2019', 'karl:0.2006', 'alexander:0.1948', 'nbcs:0.1755', 'meeting:0.1639', 'news:0.1636', 'blame:0.1632', 'believe:0.1498', 'know:0.1446', 'donbas:0.1383', 'speak:0.135', 'guarantee:0.1128', 'necessary:0.1101', 'april:0.1008', 'doesnt:0.092', 'photo:0.0887', 'stick:0.0503', 'air:0.0417']+titles_keywords+['putin:0.5789', 'war:0.3657', 'austrian:0.3165', 'logic:0.2636', 'chancellor:0.2445']"
+        ]
+    ]
+}

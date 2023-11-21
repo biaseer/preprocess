@@ -1,0 +1,12 @@
+{
+    "CHE+RUS+43":[
+        [
+            "20220109+../news_crawling/RUS_UKR/p_articles/dairynewsaustralia.com.au/Hopes fade ahead of Ukraine talks.txt+eventbasecode43+eventcode43+avgtone0.48705179282868527+goldsteinscale0.64+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nato:0.4421', 'ukrainian:0.3528', 'moscow:0.346', 'escalation:0.2855', 'osce:0.2485', 'meeting:0.2472', 'unrest:0.243', 'progress:0.232', 'bloc:0.2172', 'delegation:0.2087', 'agreement:0.2079', 'ryabkov:0.2079', 'border:0.2038', 'table:0.1868', 'news:0.1833', 'expect:0.1816', 'thursday:0.1746', 'forward:0.1588', 'usdelegation:0.1414', 'near:0.1316', 'potential:0.1272', 'refrain:0.1269', 'fade:0.1175', 'follow:0.1165', 'state:0.0925', 'reciprocal:0.0874', 'head:0.0853', 'sherman:0.0826', 'thousand:0.0566', 'josep:0.0535']+titles_keywords+['hopes:0.4001', 'ukraine:0.3277', 'talks:0.2549', 'fade:0.1713', 'ahead:0.1448']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/dairynewsaustralia.com.au/Russia returns some troops to bases.txt+eventbasecode43+eventcode43+avgtone0.4855072463768116+goldsteinscale0.64+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.013157894736842105+news_keywords+['ukraine:0.4501', 'nato:0.4416', 'putin:0.3901', 'troop:0.3836', 'invade:0.3614', 'tank:0.2452', 'rouble:0.239', 'shortly:0.2191', 'news:0.2142', 'drill:0.2138', 'returning:0.2133', 'movement:0.2057', 'border:0.2041', 'railway:0.2026', 'plan:0.2003', 'expect:0.1991', 'bases:0.1922', 'avert:0.1542', 'february:0.1503', 'adjacent:0.1436', 'react:0.1344', 'cite:0.1321', 'continue:0.1219', 'sanction:0.1166', 'secretary:0.116', 'meet:0.106', 'contingent:0.0915', 'meaning:0.0911', 'large:0.0892', 'olaf:0.0857']+titles_keywords+['troops:0.3834', 'russia:0.3354', 'returns:0.2972', 'bases:0.1928']"
+        ]
+    ]
+}

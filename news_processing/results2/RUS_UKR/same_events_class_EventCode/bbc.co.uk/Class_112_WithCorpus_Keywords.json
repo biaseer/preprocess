@@ -1,0 +1,18 @@
+{
+    "GBR+RUS+112":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Economic Crime Bill MPs back measures to speed up oligarch sanctions.txt+eventbasecode112+eventcode112+avgtone0.4803921568627451+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['putin:0.4156', 'oligarch:0.4153', 'sanction:0.3458', 'corruption:0.3305', 'labour:0.2935', 'london:0.2785', 'flee:0.2399', 'mps:0.2287', 'vote:0.2133', 'bury:0.2086', 'unopposed:0.2079', 'property:0.1862', 'expect:0.1862', 'debate:0.1839', 'end:0.1808', 'bn:0.1767', 'tax:0.1614', 'shell:0.1498', 'recent:0.1489', 'buy:0.1481', 'group:0.1476', 'agree:0.1429', 'stymie:0.1414', 'conduit:0.1309', 'web:0.1295', 'awash:0.1222', 'longer:0.1172', 'day:0.1098', 'quicken:0.0879', 'launder:0.085']+titles_keywords+['sanctions:0.4715', 'crime:0.3425', 'oligarch:0.2938', 'mps:0.1812', 'speed:0.145']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220604+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine roundup Defiance in Mykolaiv and a wooden monastery ablaze.txt+eventbasecode112+eventcode112+avgtone0.47256637168141585+goldsteinscale0.4+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.009868421052631578+news_keywords+['ukraine:0.5051', 'war:0.4082', 'nationalist:0.3249', 'diplomatic:0.3247', 'blockade:0.3191', 'bombardment:0.2666', 'troop:0.2598', 'read:0.2502', 'crisis:0.2435', 'fight:0.2387', 'macron:0.2318', 'know:0.2249', 'world:0.1952', 'continue:0.1931', 'operate:0.1909', 'resulting:0.1851', 'compare:0.1821', 'donbas:0.1772', 'blame:0.1555', 'severodonetsk:0.1524', 'direction:0.1521', 'like:0.1487', 'kiril:0.1483', 'hi:0.1366', 'wheat:0.1354', 'focus:0.1166', 'export:0.1075', 'entire:0.1072', 'thank:0.0923', 'price:0.0757']+titles_keywords+['ukraine:0.4526', 'monastery:0.4222', 'mykolaiv:0.39', 'ablaze:0.3305', 'roundup:0.3051']"
+        ],
+        [
+            "20220819+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine nuclear plant How risky is standoff over Zaporizhzhia.txt+eventbasecode112+eventcode112+avgtone0.45860927152317876+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['fukushima:0.5558', 'chernobyl:0.5463', 'nuclear:0.4883', 'radioactivity:0.4211', 'crimea:0.3391', 'safety:0.3231', 'risky:0.3029', 'igor:0.2326', 'demilitarise:0.2275', 'worrying:0.2251', 'warn:0.2219', 'crisis:0.2117', 'facility:0.2113', 'plant:0.1959', 'hazard:0.1896', 'grid:0.1763', 'power:0.1697', 'irresponsibility:0.1541', 'standpoint:0.1498', 'melt:0.1472', 'overheating:0.1351', 'doctoral:0.1239', 'waste:0.1188', 'reinforce:0.1139', 'shutdown:0.1033', 'national:0.0881', 'comparison:0.0861', 'hell:0.0842', 'long:0.056', 'dozen:0.0407']+titles_keywords+['nuclear:0.4072', 'standoff:0.3818', 'zaporizhzhia:0.3716', 'ukraine:0.3363', 'risky:0.3142']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        []
+    ]
+}

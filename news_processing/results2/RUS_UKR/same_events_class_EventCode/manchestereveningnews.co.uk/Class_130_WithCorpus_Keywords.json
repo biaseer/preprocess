@@ -1,0 +1,15 @@
+{
+    "GBR+RUS+130":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/manchestereveningnews.co.uk/Boris Johnson to issue Ukraine statement today as he warns Putin is bent on full.txt+eventbasecode130+eventcode130+avgtone0.46704871060171915+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['putin:0.4771', 'ukraines:0.4642', 'invade:0.4135', 'moscow:0.3935', 'nato:0.3891', 'boris:0.3599', 'sanction:0.3421', 'separatist:0.3334', 'warn:0.2613', 'prepare:0.2419', 'introduce:0.2338', 'parliament:0.2288', 'investment:0.2141', 'plan:0.212', 'emergency:0.209', 'peace:0.2082', 'executive:0.2066', 'psaki:0.1908', 'region:0.1864', 'newsletter:0.1859', 'order:0.1812', 'hit:0.169', 'statement:0.1647', 'behaviour:0.1577', 'barrage:0.155', 'direct:0.1234', 'johnson:0.1163', 'today:0.1066', 'house:0.0941', 'scale:0.0735']+titles_keywords+['boris:0.3787', 'ukraine:0.3056', 'invasion:0.2106', 'warns:0.1807', 'today:0.0758']"
+        ],
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/manchestereveningnews.co.uk/Im nobody special I just want to do my bit Bury gran flying out to.txt+eventbasecode130+eventcode130+avgtone0.49379652605459057+goldsteinscale0.27999999999999997+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['refugee:0.5376', 'ukrainians:0.427', 'auschwitz:0.3712', 'przemysl:0.3422', 'nhs:0.3333', 'foodbank:0.3112', 'supportive:0.3068', 'war:0.3011', 'survive:0.2933', 'read:0.2924', 'help:0.2877', 'fluent:0.2807', 'social:0.2658', 'want:0.2559', 'feel:0.2555', 'apprehensive:0.2537', 'story:0.2507', 'mission:0.2504', 'grandfather:0.2442', 'special:0.2421', 'homeland:0.2408', 'pal:0.2312', 'bury:0.224', 'page:0.2019', 'quite:0.1797', 'wendy:0.1777', 'short:0.1655', 'sort:0.1546', 'free:0.1445', 'centre:0.1376']+titles_keywords+['refugees:0.3373', 'gran:0.2533', 'special:0.2529', 'flying:0.2415', 'bury:0.2224']"
+        ]
+    ],
+    "RUS+RUS+130":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/manchestereveningnews.co.uk/Putin plans to take all of Ukraine French president claims as he warns the worst.txt+eventbasecode130+eventcode130+avgtone0.47019867549668876+goldsteinscale0.27999999999999997+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4844', 'putin:0.4842', 'ceasefire:0.444', 'nato:0.4165', 'macron:0.313', 'aggressor:0.3115', 'justify:0.2568', 'fight:0.2424', 'learn:0.2366', 'warn:0.2278', 'turn:0.2257', 'plan:0.2168', 'seize:0.2131', 'bombard:0.1917', 'thursday:0.1892', 'volodymyr:0.1834', 'trap:0.1799', 'word:0.1798', 'elysee:0.1625', 'come:0.1584', 'make:0.1561', 'story:0.1545', 'bad:0.1521', 'phone:0.1428', 'shortage:0.1338', 'direct:0.1226', 'dozen:0.1154', 'house:0.1142', 'major:0.1049', 'send:0.0819']+titles_keywords+['putin:0.4494', 'french:0.1347', 'plans:0.1052', 'worst:0.0845', 'come:0.0473']"
+        ]
+    ]
+}

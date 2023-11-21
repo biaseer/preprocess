@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+112":[
+        [
+            "20220124+../news_crawling/RUS_UKR/p_articles/pmnewsnigeria.com/US orders evacuation of embassy staff families in Ukraine.txt+eventbasecode112+eventcode112+avgtone0.4763157894736842+goldsteinscale0.4+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.006578947368421052+news_keywords+['evacuation:0.4652', 'ukraineputin:0.4251', 'putin:0.4205', 'embassys:0.4058', 'nato:0.3996', 'russias:0.3603', 'overthrow:0.3232', 'government:0.3124', 'separatist:0.2744', 'threaten:0.2743', 'puppet:0.2303', 'order:0.2193', 'border:0.2143', 'news:0.2106', 'secretary:0.2009', 'authorise:0.2007', 'friday:0.1729', 'continue:0.1598', 'word:0.1447', 'additional:0.1403', 'state:0.1331', 'direct:0.1315', 'voluntary:0.1264', 'look:0.1171', 'multipolar:0.1112', 'antony:0.0927', 'difference:0.0914', 'possible:0.075', 'install:0.0708', 'agree:0.0671']+titles_keywords+['evacuation:0.4744', 'embassy:0.3659', 'ukraine:0.3649', 'families:0.2422', 'orders:0.1391']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/pmnewsnigeria.com/Ukraine warns about Russian nuclear plant grab operators work at gunpoint.txt+eventbasecode112+eventcode112+avgtone0.4555256064690026+goldsteinscale0.4+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.01644736842105263+news_keywords+['chernobyl:0.619', 'nuclear:0.4726', 'ukraines:0.4055', 'evacuation:0.3649', 'putin:0.3519', 'zaporizhzhia:0.3342', 'catastrophe:0.3317', 'contamination:0.2637', 'warn:0.252', 'safer:0.2373', 'provocation:0.2355', 'operate:0.2193', 'ablaze:0.1994', 'forget:0.1938', 'power:0.189', 'protest:0.1812', 'plant:0.1735', 'news:0.1667', 'read:0.1603', 'order:0.1581', 'accident:0.1549', 'world:0.1462', 'north:0.1406', 'stage:0.134', 'building:0.1273', 'gunpoint:0.127', 'statement:0.1147', 'april:0.1047', 'multipolar:0.0964', 'eventually:0.0442']+titles_keywords+['ukraine:0.4252', 'nuclear:0.3767', 'warns:0.2437', 'gunpoint:0.2265', 'grab:0.2049']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/pmnewsnigeria.com/Ukraine announces establishment of 7 escape corridors.txt+eventbasecode112+eventcode112+avgtone0.4684210526315789+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5189', 'ukrainians:0.4125', 'escape:0.4021', 'corridor:0.3029', 'captivity:0.2943', 'war:0.2884', 'republics:0.2782', 'detain:0.2735', 'nigeria:0.2355', 'aid:0.2349', 'sabotage:0.2136', 'village:0.2125', 'vereshchuk:0.2113', 'cross:0.209', 'withdraw:0.2018', 'bus:0.1999', 'news:0.1786', 'west:0.1735', 'reach:0.1686', 'port:0.1655', 'kilometres:0.1567', 'resident:0.1546', 'red:0.1441', 'bring:0.1437', 'worker:0.1431', 'private:0.1374', 'way:0.1337', 'start:0.1153', 'failedbiden:0.1041', 'manhush:0.0997']+titles_keywords+['corridors:0.4586', 'ukraine:0.4111', 'escape:0.3562', 'establishment:0.0607', 'announces:0.0122']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220121+../news_crawling/RUS_UKR/p_articles/pentictonherald.ca/US Russia to try more diplomacy amid tensions over Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4753694581280788+goldsteinscale0.27999999999999997+nummentions0.3835268505079826+numarticles0.3839738941261784+numsources0.5098684210526315+news_keywords+['diplomacy:0.4983', 'nato:0.4594', 'putin:0.4529', 'ukraines:0.4456', 'invades:0.3825', 'maneuver:0.3145', 'standoff:0.3096', 'pursue:0.2887', 'border:0.2714', 'unite:0.2292', 'concern:0.2232', 'anticipate:0.2188', 'ally:0.2169', 'input:0.2052', 'news:0.205', 'understand:0.2038', 'weaponry:0.1997', 'brief:0.196', 'forefront:0.1922', 'consequence:0.1905', 'promise:0.1885', 'psaki:0.1841', 'strengthen:0.1788', 'thursday:0.1696', 'recep:0.152', 'trade:0.1455', 'look:0.1438', 'difference:0.1374', 'virtual:0.1293', 'state:0.116']+titles_keywords+['diplomacy:0.4538', 'ukraine:0.3012', 'tensions:0.2005', 'try:0.1306', 'amid:0.0013']"
+        ],
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/pentictonherald.ca/Biden is convinced Putin has decided to invade Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4659919028340081+goldsteinscale0.27999999999999997+nummentions0.45754716981132076+numarticles0.4579405366207397+numsources0.4473684210526316+news_keywords+['putin:0.4654', 'kyiv:0.3998', 'invade:0.3938', 'cyberattacks:0.305', 'separatists:0.3021', 'sinenkov:0.2937', 'flag:0.289', 'troop:0.2878', 'escalation:0.2855', 'pretext:0.2772', 'prepare:0.2648', 'emergency:0.2613', 'pentagon:0.2532', 'nuclear:0.2499', 'news:0.2276', 'know:0.2257', 'miscommunication:0.2204', 'varenytsia:0.2057', 'checkpoint:0.1974', 'false:0.177', 'sieverodonetsk:0.1746', 'cite:0.1731', 'reminder:0.1636', 'pullback:0.1509', 'feb:0.139', 'sure:0.1159', 'lines:0.1157', 'associated:0.0994', 'state:0.0991', 'photoevgeniy:0.0872']+titles_keywords+['putin:0.4319', 'biden:0.4034', 'invade:0.3181', 'convinced:0.2857', 'decided:0.1955']"
+        ]
+    ]
+}

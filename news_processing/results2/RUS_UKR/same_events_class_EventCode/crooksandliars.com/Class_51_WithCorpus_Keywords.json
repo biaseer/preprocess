@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/crooksandliars.com/Roger Stone Climbs On ProRussia Train Claims Russia Invaded Defensively.txt+eventbasecode51+eventcode51+avgtone0.46296296296296297+goldsteinscale0.67+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5781', 'soviet:0.4611', 'vladimir:0.4547', 'prorussia:0.4167', 'ukrainians:0.4131', 'invaded:0.3252', 'roger:0.2976', 'missile:0.2676', 'stone:0.261', 'rant:0.2036', 'fact:0.1956', 'read:0.1908', 'adviser:0.1885', 'real:0.1782', 'rc:0.1741', 'insist:0.1707', 'anna:0.1661', 'union:0.162', 'train:0.1555', 'twitter:0.1528', 'reason:0.1499', 'mainstream:0.1331', 'dump:0.1284', 'offensively:0.1201', 'voice:0.1098', 'perez:0.0991', 'states:0.0944', 'weekend:0.0628', 'dollar:0.0607', 'pic:0.0357']+titles_keywords+['prorussia:0.4543', 'roger:0.33', 'stone:0.3233', 'invaded:0.2932', 'train:0.2024']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220805+../news_crawling/RUS_UKR/p_articles/crooksandliars.com/Russian Soldier Screams Glory To Russia As He Drives Truck Over Mine.txt+eventbasecode51+eventcode51+avgtone0.4805194805194805+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['truck:0.4244', 'ukrainian:0.3923', 'propaganda:0.3658', 'video:0.357', 'soldier:0.3525', 'glory:0.3189', 'frontline:0.3044', 'explosion:0.295', 'visegrad:0.2846', 'kill:0.2823', 'tank:0.2818', 'projectile:0.2457', 'occur:0.2438', 'drive:0.2258', 'cross:0.1942', 'screams:0.1932', 'author:0.1873', 'bumpy:0.1819', 'post:0.1797', 'telegram:0.1788', 'comuyhkpetkng:0.1772', 'commentator:0.1697', 'anti:0.1645', 'hear:0.1583', 'make:0.1444', 'wrong:0.1443', 'instantly:0.139', 'purpose:0.1387', 'harder:0.1164', 'little:0.0805']+titles_keywords+['russian:0.4744', 'truck:0.447', 'soldier:0.4278', 'glory:0.3516', 'screams:0.1619']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+51":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/northwichguardian.co.uk/UK can be proud of support for Ukraine PM tells ministers.txt+eventbasecode51+eventcode51+avgtone0.4828042328042328+goldsteinscale0.67+nummentions0.045718432510885344+numarticles0.046410442349528645+numsources0.039473684210526314+news_keywords+['ukraine:0.4915', 'putins:0.4158', 'nato:0.4122', 'invade:0.3849', 'sanction:0.3735', 'oligarch:0.3263', 'government:0.3132', 'threaten:0.3085', 'weaponry:0.2332', 'news:0.2187', 'introduce:0.2183', 'responses:0.2078', 'debate:0.193', 'blood:0.192', 'shortly:0.1717', 'misuse:0.1703', 'lethal:0.1689', 'end:0.1578', 'world:0.1498', 'resist:0.1485', 'sector:0.1407', 'clear:0.1333', 'role:0.1311', 'bolster:0.13', 'course:0.1246', 'vtb:0.1224', 'keatinge:0.1168', 'measure:0.1027', 'house:0.1006', 'cost:0.0443']+titles_keywords+['ukraine:0.3916', 'proud:0.3213', 'support:0.1326', 'ministers:0.0943', 'pm:0.0394']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/northwichguardian.co.uk/Russia temporarily stops gas flow through Nord Stream 1.txt+eventbasecode51+eventcode51+avgtone0.48223350253807107+goldsteinscale0.67+nummentions0.28156748911465895+numarticles0.2820884699057288+numsources0.2532894736842105+news_keywords+['ukraine:0.4141', 'gas:0.3972', 'pipeline:0.3555', 'embargo:0.3433', 'gazprom:0.337', 'government:0.2649', 'supply:0.2583', 'invade:0.2319', 'nord:0.2237', 'comrzsn:0.2119', 'winter:0.195', 'station:0.1922', 'decrease:0.1854', 'news:0.1799', 'bloc:0.167', 'report:0.1645', 'cite:0.1629', 'push:0.1609', 'plan:0.1563', 'debate:0.1563', 'urgent:0.1536', 'term:0.1438', 'step:0.1318', 'scholz:0.1284', 'continue:0.1274', 'respectively:0.1214', 'say:0.1178', 'long:0.1123', 'chancellor:0.0972', 'xg:0.0788']+titles_keywords+['russia:0.282', 'gas:0.2294', 'nord:0.2261', 'stream:0.1913', 'temporarily:0.1682']"
+        ]
+    ]
+}

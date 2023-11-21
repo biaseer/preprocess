@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/channel4.com/Russia Ukraine conflict Ukrainians try to celebrate Orthodox Easter in shadow of war.txt+eventbasecode51+eventcode51+avgtone0.45714285714285713+goldsteinscale0.67+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4845', 'ukrainians:0.4194', 'war:0.4118', 'orthodox:0.4008', 'donetsk:0.3838', 'russia:0.3805', 'conflict:0.3493', 'easter:0.3214', 'fight:0.2822', 'celebrate:0.2696', 'kill:0.2432', 'soldier:0.2129', 'bomb:0.1776', 'region:0.1722', 'eastern:0.1713', 'child:0.171', 'service:0.1696', 'continue:0.169', 'civilian:0.1516', 'steelworks:0.1395', 'proceed:0.1365', 'hole:0.1254', 'shadow:0.1173', 'continued:0.1076', 'mariupol:0.0913', 'try:0.0734']+titles_keywords+['orthodox:0.4575', 'ukraine:0.4379', 'easter:0.3733', 'war:0.3558', 'try:0.047']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/channel4.com/Russia Ukraine conflict How will the Republican party react to Putin invasion.txt+eventbasecode51+eventcode51+avgtone0.4761904761904761+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5274', 'ukraine:0.4308', 'vladimir:0.3614', 'republican:0.345', 'donald:0.3311', 'war:0.3048', 'invasion:0.2916', 'conflict:0.275', 'political:0.2708', 'activist:0.2312', 'conference:0.2157', 'keynote:0.2046', 'underway:0.1981', 'party:0.1973', 'gather:0.1953', 'react:0.1944', 'tonight:0.1878', 'americas:0.1817', 'florida:0.178', 'action:0.17', 'lavish:0.1607', 'speaker:0.1586', 'hold:0.1571', 'big:0.1485', 'right:0.1474', 'shy:0.1466', 'shadow:0.1229', 'praise:0.0724', 'wing:0.0665', 'man:0.0289']+titles_keywords+['putin:0.4687', 'republican:0.3559', 'invasion:0.284', 'conflict:0.2021', 'react:0.1745']"
+        ]
+    ]
+}

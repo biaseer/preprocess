@@ -1,0 +1,18 @@
+{
+    "RUS+RUS+1123":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/business-standard.com/Benchmarks trade with small cuts Nifty below 17300 mark.txt+eventbasecode112+eventcode1123+avgtone0.5015197568389058+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['sensex:0.5767', 'bse:0.404', 'pharma:0.3369', 'rajasthan:0.3297', 'data:0.2948', 'indices:0.2887', 'rs:0.2588', 'newsthis:0.2507', 'portfolio:0.2503', 'feed:0.2286', 'morning:0.226', 'moscow:0.2204', 'breadth:0.2174', 'crisis:0.2129', 'fpis:0.2101', 'requirement:0.2079', 'barometer:0.2064', 'global:0.2001', 'benchmark:0.2', 'lower:0.1988', 'unchanged:0.1912', 'fell:0.1902', 'warning:0.188', 'advance:0.1859', 'vaginosis:0.1691', 'share:0.1672', 'contains:0.1576', 'nifty:0.15', 'generate:0.1352', 'shop:0.1339']+titles_keywords+['17300:0.3244', 'nifty:0.3156', 'cuts:0.3025', 'benchmarks:0.2786', 'small:0.2365']"
+        ]
+    ],
+    "RUS+UKR+1123":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/business-standard.com/Russianbacked rebels accuse Ukraine govt forces of mortar attacks.txt+eventbasecode112+eventcode1123+avgtone0.4809644670050761+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['kyiv:0.3952', 'ukraine:0.3801', 'mortar:0.3191', 'russian:0.2851', 'rebel:0.2441', 'accuse:0.2294', 'attack:0.2283', 'russianbacked:0.2177', 'territory:0.1807', 'conflict:0.1685', 'agreement:0.1557', 'violation:0.1532', 'govt:0.1412', 'government:0.1356', 'news:0.0937', 'end:0.0893', 'aim:0.0852', 'ria:0.0685', 'use:0.0561', 'say:0.0545', 'eastern:0.0519', 'force:0.0478', 'thursday:0.0446', 'agency:0.0184']+titles_keywords+['ukraine:0.3552', 'mortar:0.3454', 'rebels:0.3257', 'russianbacked:0.2671', 'accuse:0.2335']"
+        ],
+        []
+    ],
+    "UKR+RUS+1123":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/business-standard.com/Top Russian general killed in fighting near Kharkiv Ukraine authorities.txt+eventbasecode112+eventcode1123+avgtone0.5014084507042254+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukrainian:0.4145', 'kharkiv:0.3849', 'gerasimov:0.3629', 'military:0.306', 'general:0.2862', 'syria:0.266', 'evacuation:0.258', 'kill:0.2427', 'vitaly:0.1885', 'headline:0.1833', 'report:0.168', 'occupier:0.1405', 'syndicate:0.1284', 'central:0.1242', 'city:0.1232', 'st:0.1014', 'feed:0.0997', 'night:0.0951', 'large:0.0945', 'near:0.091', 'picture:0.0865', 'intelligence:0.0842', 'number:0.0831', 'april:0.0784', 'significant:0.0668', 'rework:0.0628', 'auto:0.0577', 'data:0.0514', 'generate:0.0334', 'add:0.0084']+titles_keywords+['kharkiv:0.3716', 'russian:0.2778', 'general:0.2668', 'fighting:0.1851', 'killed:0.1443']"
+        ]
+    ]
+}

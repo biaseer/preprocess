@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/bbc.com/Woman burns her Russian passport in Ukraine protest.txt+eventbasecode180+eventcode180+avgtone0.4285714285714285+goldsteinscale0.05+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4208', 'passport:0.4001', 'russian:0.3908', 'moscow:0.3871', 'protest:0.3474', 'burn:0.325', 'invasion:0.2719', 'anna:0.27', 'edinburgh:0.2545', 'woman:0.2532', 'ignite:0.2431', 'people:0.2181', 'slaughter:0.1792', 'horrify:0.1583', 'jakubova:0.158', 'civilian:0.134', 'say:0.1278', 'gather:0.1191', 'use:0.1137', 'ashamed:0.1114', 'light:0.0677', 'set:0.0593', 'ms:0.0274']+titles_keywords+['ukraine:0.3473', 'passport:0.3454', 'burns:0.2837', 'protest:0.2828', 'woman:0.1951']"
+        ],
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/bbc.com/Russia launches major assault on Mariupol steelworks Ukraine.txt+eventbasecode180+eventcode180+avgtone0.5090361445783133+goldsteinscale0.05+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4324', 'steelworks:0.3849', 'launch:0.2734', 'assault:0.2659', 'london:0.2504', 'writer:0.2479', 'alex:0.2334', 'story:0.2204', 'major:0.2143', 'develop:0.2094', 'coverage:0.1996', 'therrien:0.1947', 'jack:0.1872', 'burgess:0.1868', 'depth:0.1868', 'sharp:0.1833', 'page:0.1733', 'maxta:0.1707', 'harness:0.1681', 'heather:0.1585', 'live:0.1505', 'hour:0.1471', 'lee:0.1356', 'pause:0.1268', 'dulcie:0.1219', 'today:0.1165', 'home:0.1092', 'thing:0.1048', 'mariupol:0.1038', 'pick:0.0553']+titles_keywords+['steelworks:0.3181', 'mariupol:0.298', 'ukraine:0.2827', 'assault:0.1821', 'major:0.1038']"
+        ]
+    ]
+}

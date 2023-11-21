@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/alaraby.co.uk/Russian ground forces invade Ukraine after Putin announcement.txt+eventbasecode192+eventcode192+avgtone0.4601990049751244+goldsteinscale0.025+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['crimean:0.5309', 'ukrainians:0.4522', 'kremlin:0.4338', 'putin:0.4306', 'invade:0.392', 'military:0.3081', 'annex:0.2473', 'tank:0.2408', 'border:0.2353', 'separatist:0.2048', 'panic:0.1867', 'come:0.1711', 'report:0.1608', 'conflict:0.153', 'ready:0.1431', 'force:0.1375', 'thursday:0.1374', 'fatality:0.1363', 'rebel:0.1177', 'arm:0.1111', 'ground:0.1105', 'hour:0.1056', 'announcement:0.1053', 'confirm:0.0922', 'video:0.0903', 'emmergency:0.0871', 'right:0.0789', 'bbc:0.0773', 'say:0.0755', 'accord:0.0446']+titles_keywords+['ukraine:0.3844', 'putin:0.3531', 'invade:0.2954', 'announcement:0.1281', 'forces:0.117']"
+        ],
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/alaraby.co.uk/Britain says Russia has taken control over most of Ukraines Sievierodonetsk.txt+eventbasecode192+eventcode192+avgtone0.5+goldsteinscale0.025+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.5489', 'ukraines:0.5335', 'sievierodonetsk:0.3437', 'reuters:0.2413', 'industrial:0.2337', 'river:0.223', 'destroy:0.1976', 'update:0.1948', 'control:0.1891', 'city:0.1826', 'bridge:0.1823', 'lysychansk:0.1713', 'cross:0.1627', 'location:0.1623', 'remain:0.159', 'provincial:0.1449', 'governor:0.1437', 'report:0.1434', 'neighbour:0.1405', 'say:0.1198', 'cite:0.1053', 'line:0.0991', 'thursday:0.0923', 'force:0.0717', 'intelligence:0.0605', 'add:0.0483', 'exist:0.045', 'lyman:0.0387', 'likely:0.0076', 'ministry:-0.0355']+titles_keywords+['ukraines:0.5163', 'sievierodonetsk:0.3214', 'control:0.1091', 'taken:0.0991', 'says:0.0821']"
+        ]
+    ]
+}

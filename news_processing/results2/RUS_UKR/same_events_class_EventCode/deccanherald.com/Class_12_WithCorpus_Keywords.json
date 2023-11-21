@@ -1,0 +1,15 @@
+{
+    "RUS+RUS+12":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Wooing allies publicising Putins plans Inside Bidens race to prevent war.txt+eventbasecode12+eventcode12+avgtone0.48992161254199323+goldsteinscale0.48+nummentions0.06313497822931785+numarticles0.06381435823060189+numsources0.2532894736842105+news_keywords+['putin:0.4817', 'natos:0.4561', 'diplomacy:0.4352', 'briefing:0.3379', 'kyiv:0.306', 'bipartisan:0.2476', 'border:0.2429', 'plan:0.2364', 'predict:0.228', 'coup:0.228', 'ally:0.2177', 'coalesce:0.2121', 'positioning:0.2106', 'table:0.2076', 'ambiguity:0.2046', 'forth:0.1976', 'pretext:0.1972', 'news:0.188', 'armed:0.1852', 'risky:0.177', 'widen:0.1598', 'bidens:0.157', 'long:0.1535', 'discus:0.1476', 'immediately:0.1389', 'deal:0.1169', 'called:0.1112', 'sync:0.0846', 'cohesion:0.0556', 'true:0.0424']+titles_keywords+['putins:0.5064', 'publicising:0.3129', 'war:0.2989', 'plans:0.2685', 'wooing:0.1162']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Over 20000 Indians live in Ukraine their wellbeing is of priority to us India at.txt+eventbasecode12+eventcode12+avgtone0.4775510204081633+goldsteinscale0.48+nummentions0.04716981132075472+numarticles0.03770848440899202+numsources0.039473684210526314+news_keywords+['ukraine:0.4771', 'kremlin:0.3483', 'conflict:0.2964', 'border:0.283', 'escalation:0.2728', 'separatist:0.2573', 'concern:0.2346', 'emergency:0.229', 'troop:0.2252', 'secure:0.2107', 'federation:0.2074', 'unsc:0.1892', 'indian:0.1776', 'andnationals:0.1676', 'order:0.1563', 'undermine:0.1513', 'underway:0.1387', 'president:0.1374', 'enter:0.1364', 'unclear:0.121', 'potential:0.1164', 'inevitable:0.1108', 'portray:0.0989', 'long:0.0945', 'study:0.0899', 'ani:0.0783', 'say:0.0705', 'underscore:0.0646', 'include:0.0631', 'accord:0.0446']+titles_keywords+['ukraine:0.4841', 'indians:0.3806', 'wellbeing:0.2517', 'unsc:0.2502', 'priority:0.2393']"
+        ],
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/deccanherald.com/Working on providing safe passage to Indians stranded in Ukraine says Russia.txt+eventbasecode12+eventcode12+avgtone0.5022727272727273+goldsteinscale0.48+nummentions0.01269956458635704+numarticles0.013415518491660623+numsources0.009868421052631578+news_keywords+['ukraine:0.4308', 'corridor:0.3052', 'humanitarian:0.2811', 'kharkiv:0.2654', 'indians:0.2612', 'territory:0.2494', 'alipov:0.2426', 'ambassador:0.2396', 'coordinate:0.2342', 'passage:0.219', 'safe:0.2016', 'approach:0.184', 'inform:0.1721', 'supply:0.1707', 'designate:0.1657', 'western:0.1619', 'missile:0.1329', 'issue:0.1227', 'working:0.1226', 'way:0.1219', 'sanction:0.1132', 'stick:0.1067', 'follow:0.1032', 'question:0.09', 'denis:0.0899', 'dependent:0.0805', 'soon:0.0792', 'intensely:0.0766', 'unbiased:0.0705', 'say:0.0374']+titles_keywords+['ukraine:0.435', 'indians:0.2571', 'stranded:0.2467', 'safe:0.187', 'providing:0.1415']"
+        ]
+    ]
+}

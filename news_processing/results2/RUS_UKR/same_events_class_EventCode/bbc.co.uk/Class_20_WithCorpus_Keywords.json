@@ -1,0 +1,44 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine Boris Johnson on Europes use of Russian energy.txt+eventbasecode20+eventcode20+avgtone0.5060975609756098+goldsteinscale0.65+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4268', 'boris:0.3923', 'russian:0.3136', 'nuclear:0.3088', 'supply:0.2899', 'renewable:0.2867', 'europes:0.2809', 'hydrocarbon:0.2608', 'energy:0.2536', 'uk:0.228', 'power:0.2231', 'reliance:0.2112', 'substitute:0.2', 'strategy:0.1929', 'canadian:0.1818', 'johnson:0.1589', 'news:0.1344', 'use:0.1321', 'ensure:0.1305', 'prime:0.0943', 'say:0.0922', 'minister:0.0801', 'need:0.0798', 'come:0.0635', 'mr:0.0608', 'addressing:0.0566', 'away:0.0424', 'day:0.033', 'set:0.0214', 'conference:-0.0041']+titles_keywords+['ukraine:0.4956', 'boris:0.3784', 'europes:0.2902', 'energy:0.2473', 'use:0.115']"
+        ],
+        [
+            "20220506+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine roundup What would Zelensky accept for peace and who is Putins girlfriend.txt+eventbasecode20+eventcode20+avgtone0.4858407079646018+goldsteinscale0.65+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.006578947368421052+news_keywords+['crimea:0.5089', 'ukrainian:0.4691', 'putins:0.4514', 'ceasefire:0.4086', 'vladimir:0.3997', 'zelensky:0.3511', 'diplomatic:0.3363', 'moskva:0.3005', 'evacuate:0.2555', 'propaganda:0.2434', 'invasion:0.2353', 'know:0.204', 'roundup:0.1984', 'woman:0.1964', 'counterpart:0.184', 'propose:0.181', 'situation:0.1762', 'report:0.1678', 'deal:0.1542', 'list:0.1535', 'follow:0.1515', 'long:0.1496', 'end:0.1477', 'estimate:0.1437', 'outlet:0.1435', 'steelworks:0.143', 'friday:0.141', 'major:0.1076', 'sinking:0.1031', 'largely:0.0997']+titles_keywords+['zelensky:0.5167', 'putins:0.4905', 'ukraine:0.4488', 'peace:0.3531', 'roundup:0.2246']"
+        ]
+    ],
+    "GBR+UKR+20":[
+        [
+            "20220720+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine Scottish surgeon helps set up field hospital.txt+eventbasecode20+eventcode20+avgtone0.4860557768924303+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4958', 'evacuate:0.3415', 'invasion:0.338', 'surgeon:0.3267', 'inverness:0.3053', 'disaster:0.302', 'aid:0.2873', 'traumatise:0.2849', 'map:0.2841', 'operate:0.266', 'conflict:0.2655', 'residency:0.2541', 'bbc:0.2461', 'tank:0.2375', 'general:0.2335', 'cabinet:0.2207', 'swap:0.2127', 'community:0.1954', 'temporary:0.1913', 'left:0.1872', 'learn:0.184', 'mark:0.1729', 'care:0.167', 'modern:0.1615', 'colorectal:0.1491', 'mainly:0.1486', 'head:0.1408', 'immediately:0.1378', 'say:0.1307', 'population:0.125']+titles_keywords+['surgeon:0.4658', 'hospital:0.4586', 'ukraine:0.3424', 'scottish:0.3376', 'field:0.2191']"
+        ],
+        []
+    ],
+    "IRN+RUS+20":[
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Around the world walk delayed by Ukraine war.txt+eventbasecode20+eventcode20+avgtone0.4938837920489296+goldsteinscale0.65+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['turkmenistan:0.4298', 'tread:0.3634', 'world:0.3123', 'transport:0.3071', 'hop:0.2931', 'swimming:0.2919', 'border:0.2883', 'distance:0.2783', 'war:0.2781', 'plan:0.263', 'expedition:0.2617', 'visit:0.2585', 'progress:0.2515', 'west:0.2366', 'bushby:0.2245', 'involve:0.222', 'paratrooper:0.2205', 'march:0.2078', 'time:0.2042', 'begin:0.2031', 'speaking:0.1951', 'difficult:0.1888', 'sort:0.174', 'km:0.1443', 'prior:0.1317', 'strait:0.1261', 'way:0.1258', 'bering:0.124', 'dimitri:0.113', 'limit:0.0833']+titles_keywords+['ukraine:0.4467', 'war:0.3906', 'walk:0.3605', 'world:0.2592', 'delayed:0.225']"
+        ]
+    ],
+    "RUS+POL+20":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/War in Ukraine Instagram banned in Russia over calls to violence.txt+eventbasecode20+eventcode20+avgtone0.46555555555555556+goldsteinscale0.65+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['ukraine:0.4895', 'putin:0.4337', 'reuters:0.3647', 'invade:0.3643', 'propaganda:0.3504', 'violence:0.2986', 'ban:0.2759', 'roskomnadzor:0.2749', 'embassy:0.2677', 'vpn:0.2569', 'blogger:0.2467', 'https:0.2351', 'extremist:0.233', 'law:0.2253', 'organisation:0.2161', 'whatsapp:0.2125', 'tweet:0.1888', 'user:0.167', 'know:0.1637', 'include:0.1602', 'amend:0.1498', 'comstacsm:0.1474', 'watchdog:0.1372', 'swath:0.1339', 'population:0.1292', 'long:0.1221', 'make:0.1075', 'completely:0.1053', 'unless:0.0989', 'week:0.0671']+titles_keywords+['ukraine:0.4574', 'violence:0.4056', 'banned:0.3034', 'instagram:0.2753', 'calls:0.1033']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20211204+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Biden and Putin to talk amid Ukraine invasion fears.txt+eventbasecode20+eventcode20+avgtone0.4634760705289673+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['putin:0.4824', 'crimea:0.4605', 'nato:0.423', 'invade:0.4072', 'war:0.3491', 'tensions:0.2928', 'reuters:0.2844', 'soon:0.2454', 'warn:0.2306', 'border:0.2284', 'ahead:0.2156', 'eventuality:0.2108', 'separatist:0.1942', 'sanction:0.1911', 'psaki:0.1897', 'talk:0.1797', 'volodymyr:0.1729', 'drill:0.1672', 'armoured:0.1619', 'people:0.1387', 'end:0.1383', 'citing:0.1312', 'secretary:0.1252', 'unclear:0.1181', 'powerful:0.1164', 'state:0.1107', 'new:0.091', 'electronic:0.0794', 'antony:0.0777', 'house:0.0562']+titles_keywords+['biden:0.451', 'putin:0.4393', 'ukraine:0.2924', 'talk:0.2536', 'fears:0.1638']"
+        ],
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine tensions Russian demands hark back to Cold War says Germany.txt+eventbasecode20+eventcode20+avgtone0.46590909090909094+goldsteinscale0.65+nummentions0.02358490566037736+numarticles0.024292965917331398+numsources0.046052631578947366+news_keywords+['ukraine:0.4703', 'ceasefire:0.409', 'nato:0.3907', 'diplomatic:0.3564', 'invade:0.3275', 'escalation:0.3169', 'government:0.2953', 'separatist:0.2849', 'warn:0.2468', 'border:0.2426', 'pretext:0.2142', 'biden:0.2032', 'secretary:0.1985', 'discussion:0.1903', 'order:0.1826', 'continue:0.1762', 'world:0.1678', 'alongside:0.1585', 'smash:0.1566', 'idea:0.1422', 'ready:0.1402', 'long:0.1382', 'friday:0.1338', 'unclear:0.1316', 'look:0.1294', 'baerbock:0.12', 'false:0.1185', 'hark:0.1161', 'fabricate:0.114', 'arm:0.113']+titles_keywords+['ukraine:0.4229', 'war:0.3029', 'tensions:0.2526', 'hark:0.1553', 'says:0.0289']"
+        ],
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine conflict Russia trying to starve Mariupol into surrender MP.txt+eventbasecode20+eventcode20+avgtone0.47720588235294115+goldsteinscale0.65+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.013157894736842105+news_keywords+['crimea:0.5331', 'donetsk:0.4271', 'war:0.3824', 'evacuate:0.3563', 'cooperate:0.3044', 'separatist:0.2967', 'government:0.2895', 'convoy:0.2699', 'boychenko:0.2656', 'catastrophe:0.2613', 'aid:0.2542', 'argument:0.2337', 'plan:0.2297', 'supply:0.2276', 'corridor:0.2259', 'journalist:0.2245', 'city:0.223', 'soon:0.1781', 'follow:0.1766', 'vadym:0.171', 'port:0.1707', 'gmt:0.1678', 'mp:0.1429', 'unable:0.1413', 'version:0.1411', 'entire:0.1328', 'damage:0.1327', 'clearly:0.1263', 'send:0.1178', 'true:0.084']+titles_keywords+['ukraine:0.5431', 'surrender:0.3689', 'conflict:0.3453', 'mariupol:0.3221', 'mp:0.2427']"
+        ],
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine war Dramatic images appear to show sinking Russian warship Moskva.txt+eventbasecode20+eventcode20+avgtone0.47974217311233885+goldsteinscale0.65+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimean:0.4583', 'warship:0.3885', 'missiles:0.3613', 'nato:0.36', 'sank:0.2767', 'casualty:0.2536', 'moskva:0.2534', 'conflict:0.2266', 'image:0.2011', 'damage:0.1988', 'translate:0.1926', 'evacuate:0.1881', 'subsequent:0.1843', 'holes:0.1837', 'explanation:0.1787', 'report:0.1762', 'hypothesis:0.1706', 'indicate:0.1634', 'expert:0.1503', 'tow:0.1495', 'bbc:0.1451', 'inwards:0.1426', 'april:0.1375', 'stage:0.1339', 'stormy:0.1335', 'plat:0.1187', 'sure:0.1176', 'new:0.1093', 'entire:0.0937', 'freeboard:0.0895']+titles_keywords+['moskva:0.3835', 'ukraine:0.3549', 'sinking:0.3396', 'images:0.2787', 'dramatic:0.1725']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [],
+        []
+    ]
+}

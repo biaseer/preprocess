@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/birminghammail.co.uk/Susanna Reid devastated as pregnant woman and baby die in Ukraine maternity hospital bombing.txt+eventbasecode190+eventcode190+avgtone0.4685185185185185+goldsteinscale0.0+nummentions0.020682148040638608+numarticles0.02139231327048586+numsources0.04276315789473684+news_keywords+['susanna:0.3861', 'devastate:0.3405', 'maternity:0.3389', 'itv:0.322', 'victim:0.3071', 'ukraine:0.2727', 'woman:0.2505', 'airstrike:0.2493', 'news:0.2448', 'crime:0.2383', 'celeb:0.2373', 'conflict:0.2285', 'terrible:0.2281', 'video:0.2027', 'hit:0.1952', 'heartbreaking:0.193', 'realise:0.1847', 'andrew:0.1842', 'lesia:0.1694', 'emerge:0.1615', 'segment:0.1519', 'morning:0.1461', 'tell:0.1434', 'conclude:0.1389', 'late:0.1334', 'majority:0.1245', 'absolutely:0.1224', 'madeley:0.1187', 'gmb:0.0898', 'welcome:0.0798']+titles_keywords+['maternity:0.4284', 'susanna:0.3733', 'bombing:0.3303', 'devastated:0.2696', 'reid:0.242']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/birminghammail.co.uk/Russia suffered heavy losses overnight in failed Kyiv attacks claims Ukraine General.txt+eventbasecode190+eventcode190+avgtone0.45375722543352587+goldsteinscale0.0+nummentions0.11756168359941944+numarticles0.11820159535895576+numsources0.15460526315789475+news_keywords+['kyiv:0.5634', 'russian:0.383', 'syrsky:0.3461', 'troop:0.3117', 'attack:0.2983', 'colonel:0.2647', 'failed:0.2424', 'protect:0.2295', 'capital:0.2283', 'storm:0.2193', 'demoralize:0.2093', 'enemy:0.2011', 'exhausted:0.193', 'personnel:0.1909', 'overnight:0.1856', 'alexander:0.1771', 'columns:0.1688', 'colonies:0.1583', 'claim:0.1562', 'forces:0.1356', 'suffer:0.1345', 'repeat:0.1318', 'outskirt:0.1276', 'decision:0.1258', 'lead:0.1202', 'official:0.1154', 'technology:0.1105', 'make:0.1048', 'independently:0.0848', 'significant:0.0782']+titles_keywords+['kyiv:0.4387', 'losses:0.3364', 'failed:0.1961', 'general:0.1599', 'overnight:0.0928']"
+        ],
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/birminghammail.co.uk/UK sends 8000 troops to Europe.txt+eventbasecode190+eventcode190+avgtone0.4857142857142857+goldsteinscale0.0+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.003289473684210526+news_keywords+['nato:0.5043', 'ukraine:0.4057', 'troops:0.3685', 'expeditionary:0.3628', 'war:0.35', 'deploy:0.3493', 'escalation:0.2945', 'vladimir:0.2645', 'tensions:0.2556', 'operation:0.2522', 'exercise:0.2487', 'uk:0.2398', 'border:0.2254', 'inaction:0.2131', 'event:0.213', 'hussars:0.2123', 'alongside:0.1837', 'ally:0.1761', 'april:0.1695', 'range:0.1631', 'week:0.1606', 'provide:0.1587', 'time:0.1447', 'join:0.1414', 'read:0.1352', 'secretary:0.0861', 'large:0.0831', 'say:0.0827', 'thousand:0.0819', 'sort:0.0814']+titles_keywords+['troops:0.4203', '8000:0.3523', 'uk:0.2979', 'europe:0.2922', 'sends:0.1164']"
+        ]
+    ]
+}

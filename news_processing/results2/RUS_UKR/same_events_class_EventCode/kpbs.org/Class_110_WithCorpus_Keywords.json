@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+110":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/kpbs.org/Russia now says 1 crew member died 27 are missing in the sinking of its.txt+eventbasecode110+eventcode110+avgtone0.477970102281668+goldsteinscale0.4+nummentions0.21988388969521044+numarticles0.22044960116026105+numsources0.24342105263157895+news_keywords+['crimea:0.4437', 'kremlin:0.3889', 'admiral:0.2994', 'torpedoed:0.2983', 'propaganda:0.2839', 'reuters:0.2798', 'militarily:0.2787', 'outcome:0.2552', 'imperatritsa:0.2551', 'casualty:0.2203', 'nuclear:0.2183', 'significance:0.2083', 'report:0.2071', 'sink:0.2058', 'dreadnought:0.1903', 'reinforces:0.1797', 'involve:0.1759', 'worried:0.172', 'firepower:0.1667', 'forensics:0.1618', 'board:0.1548', 'study:0.146', 'union:0.1449', 'long:0.1406', 'april:0.1401', 'additional:0.136', 'swap:0.1354', 'say:0.1134', 'possible:0.0878', 'true:0.0835']+titles_keywords+['sinking:0.3186', 'russia:0.2918', 'died:0.2559', 'crew:0.2297', '27:0.1742']"
+        ]
+    ],
+    "UKR+RUS+110":[
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/kpbs.org/A key warship in Russias fleet was severely damaged Ukraine claims responsibility.txt+eventbasecode110+eventcode110+avgtone0.46296296296296297+goldsteinscale0.4+nummentions0.14005805515239478+numarticles0.1406816533720087+numsources0.125+news_keywords+['kremlin:0.4426', 'ukrainian:0.4066', 'russias:0.3986', 'moskva:0.3873', 'warship:0.3669', 'war:0.3222', 'investigation:0.25', 'attacked:0.248', 'kill:0.239', 'strategic:0.2355', 'underway:0.2227', 'responsibility:0.2058', 'munition:0.2047', 'evacuate:0.1955', 'happen:0.1942', 'island:0.1888', 'information:0.1765', 'flagship:0.1713', 'claim:0.1683', 'cause:0.1512', 'swap:0.1434', 'black:0.1381', 'release:0.1353', 'independently:0.1332', 'official:0.1214', 'board:0.1141', 'actually:0.1137', 'roughly:0.1005', 'offer:0.0953', 'tass:0.0933']+titles_keywords+['warship:0.4005', 'ukraine:0.3821', 'damaged:0.2573', 'responsibility:0.2076', 'key:0.0576']"
+        ]
+    ]
+}

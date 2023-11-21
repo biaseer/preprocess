@@ -1,0 +1,17 @@
+{
+    "CHN+RUS+120":[
+        [
+            "20220616+../news_crawling/RUS_UKR/p_articles/voanews.com/China Reaffirms Strong Ties with Russia.txt+eventbasecode120+eventcode120+avgtone0.4890909090909091+goldsteinscale0.3+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.023026315789473683+news_keywords+['putin:0.449', 'russias:0.4103', 'moscow:0.3327', 'xinhua:0.2992', 'beijing:0.2971', 'cooperation:0.2548', 'reaffirms:0.1941', 'sovereignty:0.1858', 'news:0.1775', 'jinping:0.1613', 'world:0.1567', 'unprovoked:0.1536', 'strong:0.1521', 'continue:0.1443', 'ties:0.1317', 'invest:0.1285', 'shield:0.1079', 'neutral:0.1028', 'stand:0.1006', 'winter:0.0924', 'note:0.0875', 'spokesman:0.0852', 'phone:0.0812', 'instead:0.0808', 'make:0.074', 'basic:0.0708', 'state:0.068', 'external:0.0636', 'echo:0.0599', 'far:0.0403']+titles_keywords+['russia:0.2682', 'china:0.2409', 'reaffirms:0.2287', 'strong:0.1809', 'ties:0.088']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220513+../news_crawling/RUS_UKR/p_articles/voanews.com/Latest Developments in Ukraine May 13.txt+eventbasecode120+eventcode120+avgtone0.4861878453038674+goldsteinscale0.3+nummentions0.04027576197387518+numarticles0.04097171863669326+numsources0.03618421052631579+news_keywords+['ukraine:0.5635', 'kremlin:0.3993', 'nato:0.3803', 'disarmament:0.3592', 'news:0.3032', 'invade:0.2988', 'separatist:0.2877', 'troop:0.2287', 'table:0.2249', 'report:0.2146', 'strategic:0.2132', 'shrapnel:0.211', 'urgently:0.2109', 'cite:0.2079', 'concern:0.2044', 'progress:0.2008', 'predict:0.2', 'april:0.1854', 'extent:0.1711', 'heard:0.1674', 'resume:0.163', 'mashup:0.1568', 'current:0.1537', 'th:0.1403', 'export:0.1382', 'ombudswoman:0.1337', 'rail:0.1333', 'nearly:0.1242', 'telephone:0.1236', 'associated:0.1039']+titles_keywords+['ukraine:0.5512', 'developments:0.3324', 'latest:0.2431', '13:0.1802']"
+        ]
+    ],
+    "WST+UKR+120":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/voanews.com/Reporters Notebook On Tour with the Ukrainian Military.txt+eventbasecode120+eventcode120+avgtone0.4818181818181818+goldsteinscale0.3+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['ukraine:0.4984', 'nato:0.3863', 'war:0.3696', 'separatist:0.3604', 'diplomatic:0.3333', 'journalist:0.3287', 'troop:0.3243', 'border:0.3085', 'government:0.3045', 'news:0.2946', 'confuse:0.2602', 'organization:0.2542', 'escalate:0.238', 'pavliuk:0.2302', 'safety:0.2296', 'situation:0.2254', 'know:0.2222', 'untangle:0.2204', 'change:0.2141', 'continue:0.2049', 'agreement:0.1997', 'trip:0.1955', 'kilometer:0.195', 'shuttered:0.1872', 'long:0.1839', 'weather:0.165', 'refer:0.1599', 'notebook:0.1336', 'saturday:0.1322', 'ready:0.1291']+titles_keywords+['reporters:0.4591', 'ukrainian:0.4059', 'notebook:0.3874', 'military:0.345', 'tour:0.2955']"
+        ]
+    ]
+}

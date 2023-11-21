@@ -1,0 +1,15 @@
+{
+    "GBR+RUS+150":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/yahoo.com/Lloyds on heightened alert for Russian cyberattacks on banks CEO.txt+eventbasecode150+eventcode150+avgtone0.4705882352941177+goldsteinscale0.13999999999999999+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.01644736842105263+news_keywords+['lloyds:0.4455', 'cyberattacks:0.4344', 'banking:0.3839', 'russian:0.3527', 'reuters:0.346', 'uk:0.2629', 'sanction:0.2564', 'alert:0.2507', 'risk:0.2455', 'government:0.2263', 'crisis:0.1889', 'expose:0.1796', 'ceo:0.1796', 'heighten:0.1765', 'prepare:0.1691', 'stricter:0.156', 'capability:0.1448', 'current:0.1436', 'troop:0.1238', 'measure:0.1143', 'directly:0.1135', 'right:0.1112', 'nunn:0.098', 'talk:0.0938', 'week:0.086', 'sure:0.0827', 'make:0.0772', 'charlie:0.0763', 'big:0.0755', 'focus:0.0723']+titles_keywords+['lloyds:0.4463', 'cyberattacks:0.4065', 'russian:0.233', 'ceo:0.1977', 'heightened:0.1048']"
+        ]
+    ],
+    "RUS+UKR+150":[
+        [
+            "20220124+../news_crawling/RUS_UKR/p_articles/yahoo.com/US puts 8500 troops on heightened alert amid Russian tensions with Ukraine.txt+eventbasecode150+eventcode150+avgtone0.48600605143721637+goldsteinscale0.13999999999999999+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.046052631578947366+news_keywords+['natos:0.5001', 'putin:0.4048', 'kyiv:0.3866', 'diplomacy:0.3749', 'destabilize:0.3301', 'annexation:0.3193', 'deploy:0.2829', 'escalate:0.2815', 'prepare:0.2726', 'warn:0.2423', 'accompany:0.2422', 'standoff:0.2348', 'maneuver:0.2285', 'executive:0.2236', 'upcoming:0.2098', 'order:0.2058', 'concern:0.1971', 'plan:0.1911', 'bloc:0.1887', 'rhetoric:0.1873', 'diversify:0.1867', 'ally:0.1838', 'know:0.1739', 'gloomy:0.1645', 'general:0.1542', 'eastern:0.1431', 'end:0.1408', 'pipeline:0.139', 'kilometer:0.1375', 'compare:0.1224']+titles_keywords+['troops:0.3237', '8500:0.2899', 'heightened:0.228', 'russian:0.1914', 'puts:0.0799']"
+        ],
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/yahoo.com/Russia may set up military base in Ukraines Kherson region RIA.txt+eventbasecode150+eventcode150+avgtone0.4972211451466977+goldsteinscale0.13999999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.5787', 'ukraines:0.4902', 'kremlin:0.4637', 'moscow:0.4359', 'russian:0.3621', 'territory:0.3333', 'stremousov:0.3257', 'invade:0.3173', 'kherson:0.316', 'rouble:0.2731', 'military:0.2593', 'ria:0.2448', 'nationalist:0.2409', 'regional:0.2085', 'base:0.2008', 'security:0.1799', 'want:0.1776', 'operation:0.1762', 'appoint:0.1649', 'news:0.1547', 'pretext:0.1489', 'baseless:0.1439', 'instal:0.1261', 'million:0.1154', 'adjacent:0.1107', 'start:0.1095', 'february:0.1011', 'dismiss:0.0659', 'set:0.0399', 'head:0.0361']+titles_keywords+['ukraines:0.4154', 'kherson:0.3092', 'ria:0.2998', 'military:0.2269', 'region:0.2174']"
+        ]
+    ]
+}

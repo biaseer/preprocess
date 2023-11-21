@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+30":[
+        [
+            "20211203+../news_crawling/RUS_UKR/p_articles/thejournal.ie/US intelligence finds Russia planning Ukraine invasion.txt+eventbasecode30+eventcode30+avgtone0.48410404624277453+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4611', 'ukraines:0.4495', 'nato:0.4412', 'russian:0.3686', 'invasion:0.3288', 'troop:0.2739', 'propaganda:0.2698', 'border:0.2209', 'prepared:0.2209', 'plan:0.2112', 'diplomat:0.2018', 'soon:0.2', 'provocation:0.1975', 'risky:0.1534', 'concern:0.1495', 'come:0.1328', 'article:0.1306', 'information:0.1254', 'begin:0.1173', 'unclear:0.1143', 'estimate:0.1063', 'step:0.1026', 'increase:0.1019', 'long:0.0917', 'sure:0.0906', 'arm:0.0853', 'new:0.0764', 'set:0.0709', 'say:0.0558', 'paywalls:0.0458']+titles_keywords+['ukraine:0.3649', 'invasion:0.3274', 'planning:0.1861', 'intelligence:0.1517', 'finds:0.0358']"
+        ]
+    ],
+    "RUS+WST+30":[
+        [
+            "20220201+../news_crawling/RUS_UKR/p_articles/thejournal.ie/Opinion Putins obsession with making Russia great again is driving his approach to Ukraine.txt+eventbasecode30+eventcode30+avgtone0.48791208791208796+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5297', 'crimea:0.5163', 'ukraines:0.4653', 'soviet:0.4309', 'russification:0.4129', 'annexation:0.4053', 'nato:0.357', 'border:0.325', 'separatist:0.2983', 'war:0.2821', 'economic:0.2467', 'approach:0.2297', 'coincide:0.2251', 'concern:0.2139', 'sanction:0.1904', 'prepare:0.1898', 'long:0.1636', 'orchestrate:0.1575', 'prove:0.1457', 'end:0.1421', 'state:0.141', 'make:0.1375', 'like:0.1296', 'powerful:0.1246', 'return:0.1203', 'sure:0.1166', 'covid:0.1157', 'current:0.102', 'pan:0.0848', 'paywalls:0.0616']+titles_keywords+['putins:0.4263', 'obsession:0.2723', 'approach:0.2273', 'opinion:0.189', 'great:0.1571']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/grimsbytelegraph.co.uk/YouTube restricting access to Russian statecontrolled broadcaster RT.txt+eventbasecode87+eventcode874+avgtone0.482078853046595+goldsteinscale1.0+nummentions0.15965166908563136+numarticles0.1602610587382161+numsources0.24013157894736842+news_keywords+['russia:0.4044', 'ru:0.3487', 'youtube:0.3317', 'roskomnadzor:0.3228', 'restrict:0.29', 'rt:0.266', 'news:0.2292', 'facebook:0.2195', 'broadcaster:0.2022', 'invasion:0.202', 'sanction:0.1952', 'authority:0.1941', 'content:0.1922', 'monetise:0.1657', 'provider:0.1395', 'request:0.1316', 'watchdog:0.1275', 'accessible:0.1224', 'outlet:0.1205', 'safe:0.1175', 'state:0.1117', 'statement:0.1079', 'pause:0.1074', 'check:0.096', 'number:0.0955', 'gazeta:0.093', 'thursday:0.0785', 'clegg:0.0612', 'partial:0.032', 'weve:0.0167']+titles_keywords+['youtube:0.3722', 'rt:0.343', 'russian:0.3312', 'restricting:0.2385', 'broadcaster:0.2231']"
+        ],
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/grimsbytelegraph.co.uk/Ukraine will fight Russia for Donbas says President Zelensky full speech in English.txt+eventbasecode87+eventcode874+avgtone0.49913644214162356+goldsteinscale1.0+nummentions0.09941944847605225+numarticles0.09209572153734591+numsources0.1513157894736842+news_keywords+['ukraine:0.5088', 'war:0.3834', 'diplomatic:0.3631', 'troop:0.2949', 'talk:0.2938', 'zelensky:0.2825', 'warn:0.253', 'democratic:0.244', 'know:0.2416', 'deliver:0.2274', 'remain:0.217', 'biden:0.21', 'acknowledge:0.2096', 'prepare:0.1993', 'priorities:0.1976', 'turn:0.1932', 'begin:0.1904', 'result:0.1902', 'thursday:0.185', 'want:0.1837', 'describing:0.1819', 'occupier:0.1801', 'donbas:0.1745', 'current:0.159', 'hour:0.1499', 'construction:0.1496', 'mr:0.1441', 'thank:0.119', 'new:0.1188', 'additional:0.1157']+titles_keywords+['zelensky:0.4679', 'ukraine:0.4284', 'donbas:0.3386', 'fight:0.2947', 'speech:0.2004']"
+        ]
+    ],
+    "UKR+RUS+874":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/grimsbytelegraph.co.uk/Netflix considers crackdown on password sharing and new subscription with adverts.txt+eventbasecode87+eventcode874+avgtone0.485969387755102+goldsteinscale1.0+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['netflix:0.4955', 'revenue:0.3636', 'subscriber:0.3109', 'platform:0.303', 'information:0.2846', 'share:0.2759', 'itv:0.2681', 'change:0.2639', 'expand:0.2585', 'read:0.2548', 'service:0.2507', 'suggest:0.244', 'lockdown:0.2429', 'plan:0.241', 'complexity:0.2308', 'executive:0.2285', 'hastings:0.2244', 'pandemic:0.2167', 'decision:0.2038', 'know:0.202', 'month:0.1829', 'withdraw:0.1766', 'russia:0.1751', 'stem:0.174', 'thief:0.1728', 'start:0.1702', 'end:0.1613', 'reach:0.156', 'fewer:0.1515', 'limit:0.1442']+titles_keywords+['netflix:0.45', 'password:0.2719', 'sharing:0.2563', 'adverts:0.2135', 'crackdown:0.1818']"
+        ]
+    ]
+}

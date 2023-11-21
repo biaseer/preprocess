@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+36":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/liverpoolecho.co.uk/Man flies out to help Ukraine refugees and find his boyfriend.txt+eventbasecode36+eventcode36+avgtone0.48888888889+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.4895', 'refugee:0.4147', 'invasion:0.3393', 'putin:0.3388', 'organise:0.3021', 'coordinate:0.3013', 'conscription:0.3', 'drama:0.2986', 'fromkrapkowice:0.2906', 'travel:0.2854', 'history:0.2714', 'escalate:0.2692', 'help:0.266', 'swap:0.2467', 'prepare:0.2319', 'relation:0.2219', 'devastate:0.2206', 'supply:0.2182', 'speaking:0.2173', 'news:0.2141', 'book:0.2048', 'corridor:0.2013', 'main:0.1918', 'sign:0.1898', 'long:0.188', 'safe:0.1815', 'late:0.1609', 'believe:0.1482', 'completely:0.1017', 'fraction:0.0924']+titles_keywords+['refugees:0.3141', 'ukraine:0.2712', 'boyfriend:0.2471', 'help:0.1225', 'man:0.0689']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/liverpoolecho.co.uk/Boris Johnson to fly to region as RussiaUkraine war continues.txt+eventbasecode36+eventcode36+avgtone0.4738317757009345+goldsteinscale0.7+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.009868421052631578+news_keywords+['putin:0.4595', 'kyiv:0.3989', 'boris:0.3479', 'militarily:0.3403', 'nato:0.3369', 'bombing:0.2879', 'labour:0.2714', 'diplomatically:0.271', 'downing:0.2405', 'crisis:0.2363', 'distraction:0.2292', 'enter:0.2286', 'flee:0.2222', 'violent:0.2203', 'troop:0.2162', 'expect:0.2042', 'cabinet:0.2013', 'shortages:0.2008', 'report:0.1844', 'monday:0.1766', 'clearer:0.1735', 'advance:0.1711', 'foreign:0.1654', 'handbook:0.1606', 'subjugate:0.1479', 'say:0.1409', 'main:0.1328', 'grow:0.1264', 'fully:0.11', 'mr:0.1057']+titles_keywords+['boris:0.3548', 'russiaukraine:0.3429', 'war:0.292', 'fly:0.2374', 'region:0.1529']"
+        ]
+    ]
+}

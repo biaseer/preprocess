@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/manchestereveningnews.co.uk/The boy hero 11 who fled Ukraine alone with a backpack his passport and a.txt+eventbasecode46+eventcode46+avgtone0.4886561954624781+goldsteinscale0.85+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.013157894736842105+news_keywords+['kyiv:0.5013', 'putin:0.3804', 'war:0.3255', 'refugees:0.3098', 'boy:0.2941', 'molotov:0.2721', 'flee:0.2448', 'pasha:0.2366', 'unaccompanied:0.2174', 'hero:0.2129', 'volunteer:0.2128', 'story:0.2117', 'news:0.2027', 'emotional:0.2003', 'liaise:0.1881', 'outbreak:0.1798', 'reactor:0.1772', 'page:0.1644', 'prepare:0.1591', 'write:0.1578', 'follow:0.1531', 'main:0.1469', 'end:0.1465', 'clear:0.1414', 'footage:0.1316', 'thousand:0.1182', 'big:0.1082', 'dug:0.108', 'send:0.0987', 'late:0.0937']+titles_keywords+['passport:0.4107', 'fled:0.3956', 'hero:0.3474', 'boy:0.3161', 'number:0.2901']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/manchestereveningnews.co.uk/Russia to cut back operations near Kyiv government minister says.txt+eventbasecode46+eventcode46+avgtone0.4934426229508197+goldsteinscale0.85+nummentions0.07547169811320754+numarticles0.07614213197969544+numsources0.08552631578947369+news_keywords+['kyiv:0.5297', 'nato:0.3824', 'turkey:0.3118', 'zelensky:0.2836', 'peace:0.2747', 'operation:0.2531', 'troop:0.2485', 'neutrality:0.2203', 'underway:0.2032', 'stay:0.1976', 'volodymyr:0.1912', 'cut:0.186', 'journalist:0.1852', 'remind:0.175', 'long:0.1738', 'near:0.1738', 'territorial:0.1713', 'concession:0.1685', 'fight:0.1645', 'say:0.1521', 'besiege:0.1512', 'general:0.15', 'end:0.1491', 'issue:0.1429', 'focus:0.1362', 'withdrawal:0.1234', 'agree:0.1118', 'month:0.0966', 'fomin:0.0924', 'offer:0.0709']+titles_keywords+['kyiv:0.5002', 'cut:0.19', 'operations:0.0984', 'near:0.0859', 'government:0.0714']"
+        ]
+    ]
+}

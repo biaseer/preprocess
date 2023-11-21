@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/ibtimes.co.in/Sensex gains over 1500 pts as tensions between Russia Ukraine ease.txt+eventbasecode192+eventcode192+avgtone0.4899193548387097+goldsteinscale0.025+nummentions0.027939042089985485+numarticles0.02864394488759971+numsources0.019736842105263157+news_keywords+['sensex:0.6297', 'securities:0.3933', 'bullish:0.3761', 'economy:0.3326', 'bse:0.2968', 'ukraine:0.2892', 'valuation:0.265', 'gain:0.2475', 'indusind:0.237', 'news:0.2334', 'index:0.2249', 'tata:0.211', 'signal:0.2036', 'goods:0.2018', 'lead:0.2004', 'know:0.1951', 'global:0.1932', 'decrease:0.1909', 'momentum:0.1824', 'implication:0.1768', 'influx:0.1746', 'key:0.1736', 'continue:0.1599', 'underlying:0.1516', 'sanction:0.1464', 'today:0.1403', 'fmcg:0.1345', 'long:0.1317', 'stage:0.1247', 'auto:0.1084']+titles_keywords+['sensex:0.4442', '1500:0.2362', 'pts:0.231', 'ukraine:0.186', 'tensions:0.1368']"
+        ],
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/ibtimes.co.in/Russian tanks enter Ukraine capital forces in Kiev face streettostreet fighting details.txt+eventbasecode192+eventcode192+avgtone0.4740820734341253+goldsteinscale0.025+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['kyiv:0.5278', 'ukraineclaiming:0.5145', 'crimea:0.494', 'putin:0.4037', 'russiantanks:0.3896', 'gunfire:0.305', 'civilians:0.3011', 'capital:0.2816', 'victory:0.2548', 'tank:0.2499', 'tiananmen:0.2442', 'enemy:0.2417', 'fight:0.2412', 'turn:0.2166', 'helicopter:0.2134', 'bloody:0.2045', 'seize:0.1938', 'live:0.1923', 'report:0.1891', 'leave:0.1881', 'order:0.1828', 'friday:0.1809', 'footage:0.1792', 'bridge:0.1784', 'scene:0.1751', 'hear:0.1743', 'northern:0.1701', 'streettostreet:0.1546', 'begin:0.1416', 'neutralise:0.1319']+titles_keywords+['kiev:0.4845', 'tanks:0.3894', 'fighting:0.287', 'streettostreet:0.2467', 'enter:0.1866']"
+        ]
+    ]
+}

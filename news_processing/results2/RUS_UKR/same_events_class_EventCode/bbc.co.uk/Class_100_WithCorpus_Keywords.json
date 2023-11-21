@@ -1,0 +1,16 @@
+{
+    "EUR+RUS+100":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Mysterious Zamestim artwork in St Petersburg signals Russias antiWest defiance.txt+eventbasecode100+eventcode100+avgtone0.4774011299435028+goldsteinscale0.25+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['moscow:0.5763', 'kremlin:0.5404', 'ukrainians:0.4326', 'nationalist:0.3677', 'repression:0.3506', 'antiwest:0.342', 'skochilenko:0.3375', 'zamestim:0.3225', 'protest:0.3059', 'war:0.3023', 'rhetoric:0.298', 'know:0.2717', 'arrest:0.2705', 'news:0.2595', 'emanate:0.2538', 'art:0.2506', 'canal:0.2414', 'word:0.239', 'fake:0.2101', 'company:0.2095', 'slogan:0.2051', 'help:0.1934', 'strange:0.1902', 'centre:0.1869', 'sonia:0.1847', 'skews:0.1783', 'like:0.1713', 'century:0.1614', 'grow:0.1606', 'parallel:0.1491']+titles_keywords+['petersburg:0.4689', 'zamestim:0.416', 'artwork:0.3017', 'russias:0.3016', 'antiwest:0.282']"
+        ]
+    ],
+    "RUS+UKR+100":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine conflict BP under pressure to sell stake in Russian firm.txt+eventbasecode100+eventcode100+avgtone0.46551724137931033+goldsteinscale0.25+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.019736842105263157+news_keywords+['ukraine:0.484', 'putin:0.4722', 'oil:0.3502', 'bp:0.3427', 'pipeline:0.3273', 'politics:0.3055', 'profit:0.2882', 'invasion:0.2749', 'executive:0.2298', 'rosneft:0.2292', 'bbc:0.2217', 'concern:0.208', 'report:0.1878', 'avoid:0.184', 'board:0.168', 'lead:0.1669', 'continue:0.1531', 'changing:0.1507', 'alongside:0.1441', 'disposal:0.1438', 'sit:0.1436', 'unsatisfactory:0.1317', 'example:0.1125', 'look:0.1099', 'plausible:0.106', 'big:0.1002', 'natural:0.0947', 'year:0.0887', 'exporter:0.0457', 'looney:0.0354']+titles_keywords+['bp:0.392', 'ukraine:0.3794', 'conflict:0.2881', 'sell:0.2399', 'stake:0.2076']"
+        ],
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Coal plants asked to stay open longer due to energy supply fears.txt+eventbasecode100+eventcode100+avgtone0.48760330578512395+goldsteinscale0.25+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['coal:0.3893', 'ukraine:0.3821', 'decommission:0.3371', 'supply:0.2992', 'government:0.2992', 'plan:0.2651', 'concern:0.2457', 'winter:0.2314', 'operate:0.2293', 'remain:0.2274', 'process:0.2248', 'halt:0.2221', 'rouble:0.2173', 'invasion:0.2045', 'plant:0.1988', 'grid:0.1949', 'edf:0.1839', 'firm:0.1805', 'blackmail:0.1747', 'achieve:0.1691', 'standby:0.1596', 'period:0.1554', 'report:0.1498', 'unit:0.145', 'start:0.141', 'additional:0.137', 'wednesday:0.1347', 'possibility:0.1313', 'long:0.1251', 'sure:0.1156']+titles_keywords+['coal:0.3985', 'longer:0.2082', 'fears:0.1586', 'open:0.1551', 'stay:0.0931']"
+        ],
+        []
+    ]
+}

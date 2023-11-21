@@ -1,0 +1,15 @@
+{
+    "CAN+RUS+190":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/kelownadailycourier.ca/A light of hope first of three flights bringing Ukrainians lands in Winnipeg.txt+eventbasecode190+eventcode190+avgtone0.4788732394366197+goldsteinscale0.0+nummentions0.057329462989840346+numarticles0.05801305293691081+numsources0.029605263157894735+news_keywords+['ukraine:0.4636', 'refugee:0.399', 'provincial:0.329', 'plane:0.3037', 'war:0.3034', 'arrive:0.3008', 'government:0.2813', 'mykolaiv:0.2722', 'emergency:0.2606', 'hug:0.2249', 'waitlist:0.2096', 'believe:0.1809', 'charter:0.1781', 'story:0.174', 'speak:0.1707', 'far:0.164', 'centre:0.1626', 'bouquet:0.1576', 'february:0.1558', 'approve:0.1489', 'previous:0.1479', 'woman:0.1399', 'welcome:0.1259', 'note:0.1219', 'stefanson:0.1205', 'correct:0.1187', 'onlookers:0.1173', 'thousand:0.1152', 'include:0.1056', 'hoped:0.0975']+titles_keywords+['flights:0.406', 'ukrainians:0.3869', 'winnipeg:0.3374', 'hope:0.2189', 'light:0.2039']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/kelownadailycourier.ca/US official US allies to ban new investments in Russia.txt+eventbasecode190+eventcode190+avgtone0.455531453362256+goldsteinscale0.0+nummentions0.08127721335268505+numarticles0.08194343727338652+numsources0.10197368421052631+news_keywords+['ukraine:0.4825', 'putin:0.48', 'sanction:0.3528', 'invade:0.3453', 'atrocities:0.2304', 'intensify:0.2152', 'administration:0.208', 'biden:0.2057', 'investment:0.2025', 'discus:0.196', 'fight:0.196', 'coal:0.1924', 'burn:0.1894', 'anonymity:0.1805', 'forthcoming:0.1782', 'world:0.1717', 'evidence:0.1711', 'pull:0.1681', 'enterprise:0.1585', 'bucha:0.1529', 'idea:0.1498', 'export:0.1359', 'freeze:0.1351', 'wider:0.132', 'group:0.1276', 'cripple:0.1266', 'month:0.1223', 'refrain:0.1141', 'head:0.1037', 'stairwell:0.0911']+titles_keywords+['russia:0.3478', 'allies:0.2718', 'investments:0.1734', 'ban:0.164', 'official:0.0628']"
+        ],
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/kelownadailycourier.ca/Russia claims control of pivotal eastern Ukrainian province.txt+eventbasecode190+eventcode190+avgtone0.4777158774373259+goldsteinscale0.0+nummentions0.0867198838896952+numarticles0.0873821609862219+numsources0.21052631578947367+news_keywords+['kyiv:0.495', 'russias:0.3854', 'putin:0.3808', 'war:0.2856', 'occupy:0.2722', 'separatist:0.2715', 'news:0.2491', 'prevail:0.2313', 'advance:0.2212', 'flee:0.2197', 'publish:0.219', 'northern:0.216', 'sievierodonetsk:0.2081', 'donbas:0.2015', 'grab:0.2007', 'governor:0.1931', 'term:0.1911', 'tetkino:0.1904', 'advantage:0.1816', 'dictate:0.1779', 'say:0.1765', 'dangerous:0.1663', 'alongside:0.154', 'complete:0.1509', 'focus:0.1472', 'mortar:0.1446', 'significant:0.1408', 'population:0.1408', 'characterize:0.129', 'week:0.104']+titles_keywords+['ukrainian:0.4491', 'province:0.2661', 'control:0.1794', 'claims:0.1392', 'pivotal:0.1194']"
+        ]
+    ]
+}

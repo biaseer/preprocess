@@ -1,0 +1,17 @@
+{
+    "DNK+UKR+332":[
+        [
+            "20220131+../news_crawling/RUS_UKR/p_articles/menafn.com/Danish PM not ruling out supply of weapons to Ukraine.txt+eventbasecode33+eventcode332+avgtone0.47549019607843135+goldsteinscale0.76+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.0+news_keywords+['nato:0.4457', 'ukraine:0.4346', 'denmark:0.4102', 'kremlin:0.3518', 'frederiksen:0.3091', 'threaten:0.2696', 'troop:0.2597', 'invasion:0.2568', 'occupy:0.2404', 'sanction:0.1881', 'security:0.1822', 'ukrinform:0.1739', 'issue:0.1548', 'ekstra:0.1454', 'equipment:0.1379', 'news:0.1374', 'ready:0.1303', 'demand:0.1236', 'near:0.123', 'dimension:0.1177', 'legal:0.1087', 'cite:0.1086', 'proposal:0.1029', 'minister:0.1005', 'earlier:0.0996', 'principled:0.0939', 'completeness:0.0922', 'bladet:0.0787', 'believe:0.0668', 'amass:0.0226']+titles_keywords+['ukraine:0.409', 'danish:0.2898', 'weapons:0.2547', 'supply:0.2022', 'pm:0.0655']"
+        ]
+    ],
+    "EUR+UKR+332":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/menafn.com/US Might Be Sending Ukraine More Weapons Than Announced Media.txt+eventbasecode33+eventcode332+avgtone0.5021929824561403+goldsteinscale0.76+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4474', 'pentagon:0.2938', 'tactical:0.2777', 'weapon:0.2624', 'supply:0.2381', 'politico:0.2052', 'radiation:0.2022', 'know:0.1971', 'article:0.1867', 'possibility:0.178', 'aid:0.1723', 'release:0.1669', 'report:0.1503', 'reliability:0.1458', 'ukrinform:0.145', 'biden:0.1419', 'furthermore:0.1262', 'list:0.125', 'drawdown:0.1249', 'million:0.1192', 'late:0.1183', 'send:0.1155', 'secretary:0.1129', 'authorize:0.1046', 'disclaimer:0.0966', 'quietly:0.0934', 'completeness:0.0925', 'sign:0.0918', 'allocate:0.0691', 'accord:0.046']+titles_keywords+['ukraine:0.3819', 'weapons:0.2827', 'announced:0.0979', 'media:0.0913', 'sending:0.0495']"
+        ]
+    ],
+    "UKR+RUS+332":[
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/menafn.com/US to keep supplying Ukraine with arms to invade Russia.txt+eventbasecode33+eventcode332+avgtone0.49253731343283585+goldsteinscale0.76+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4925', 'invade:0.3765', 'diplomat:0.2617', 'supply:0.2483', 'troop:0.2466', 'security:0.2441', 'biden:0.2439', 'weapon:0.2366', 'border:0.2248', 'aggression:0.2214', 'washingtons:0.1937', 'information:0.1774', 'meeting:0.1759', 'article:0.1719', 'end:0.1623', 'legal:0.1591', 'let:0.1534', 'strike:0.131', 'day:0.129', 'issue:0.1242', 'look:0.1233', 'simple:0.1221', 'mark:0.1181', 'contact:0.1163', 'videos:0.0739', 'menafn:0.073', 'relate:0.064', 'accord:0.0631', 'multiple:0.0538', 'agree:0.0491']+titles_keywords+['ukraine:0.4355', 'invade:0.3651', 'russia:0.3594', 'supplying:0.3049', 'arms:0.1653']"
+        ]
+    ]
+}

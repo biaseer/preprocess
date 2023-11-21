@@ -1,0 +1,18 @@
+{
+    "GBR+UKR+46":[
+        [
+            "20211211+../news_crawling/RUS_UKR/p_articles/bbc.com/Russia faces consequences if Ukraine invaded Truss.txt+eventbasecode46+eventcode46+avgtone0.4906832298136646+goldsteinscale0.85+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.013157894736842105+news_keywords+['putin:0.4593', 'ukraine:0.4451', 'nato:0.4182', 'tensions:0.3303', 'invades:0.3252', 'strategic:0.2892', 'meeting:0.2697', 'economy:0.2426', 'warn:0.2387', 'eastward:0.2258', 'uk:0.2227', 'ahead:0.2156', 'consequence:0.2068', 'pipeline:0.1891', 'secretary:0.1889', 'counterpart:0.1769', 'malign:0.1739', 'reiterating:0.1656', 'summit:0.1645', 'strong:0.1544', 'sure:0.154', 'dependent:0.1451', 'virtual:0.1395', 'truss:0.1349', 'reduce:0.1282', 'dmytro:0.126', 'make:0.1217', 'non:0.1185', 'deep:0.1007', 'like:0.0884']+titles_keywords+['ukraine:0.4447', 'invaded:0.3342', 'consequences:0.3256', 'truss:0.3017', 'faces:-0.0026']"
+        ]
+    ],
+    "RUS+SYR+46":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/bbc.com/Ukraine war The Syrians signing up to fight for Russia.txt+eventbasecode46+eventcode46+avgtone0.4588235294117647+goldsteinscale0.85+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['syria:0.6051', 'ukraine:0.5631', 'syrian:0.5005', 'syrians:0.4756', 'war:0.4136', 'russian:0.3888', 'fight:0.2998', 'troop:0.2822', 'economy:0.2686', 'flood:0.2644', 'sign:0.2436', 'join:0.2303', 'regime:0.2266', 'deployment:0.2144', 'people:0.1948', 'news:0.1814', 'east:0.162', 'social:0.1431', 'bbc:0.1419', 'forward:0.1399', 'middle:0.1248', 'mean:0.1234', 'request:0.1109', 'tell:0.1015', 'dollar:0.0991', 'thousand:0.0963', 'return:0.0868', 'force:0.0794', 'break:0.0647', 'offer:0.0608']+titles_keywords+['syrians:0.5545', 'ukraine:0.5072', 'war:0.4311', 'fight:0.2459', 'signing:0.2031']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20211207+../news_crawling/RUS_UKR/p_articles/bbc.com/Biden warns Putin of strong measures amid Ukraine invasion fears.txt+eventbasecode46+eventcode46+avgtone0.4837837837837837+goldsteinscale0.85+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.006578947368421052+news_keywords+['putin:0.4942', 'crimea:0.4493', 'nato:0.4222', 'invade:0.4008', 'militarily:0.3941', 'escalation:0.3122', 'strategic:0.2991', 'prepare:0.2756', 'adviser:0.2587', 'economy:0.2504', 'warn:0.2143', 'firepower:0.2142', 'eastward:0.2078', 'pipeline:0.1942', 'news:0.1909', 'agreement:0.1851', 'contingency:0.1804', 'talk:0.1787', 'monday:0.1698', 'continue:0.1611', 'tense:0.1607', 'analyses:0.1533', 'convert:0.1504', 'draw:0.1463', 'greeting:0.1376', 'big:0.1356', 'near:0.13', 'arm:0.1122', 'kofman:0.0855', 'add:0.0672']+titles_keywords+['putin:0.4375', 'biden:0.3908', 'warns:0.2557', 'invasion:0.187', 'strong:0.1646']"
+        ],
+        []
+    ]
+}

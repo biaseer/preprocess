@@ -1,0 +1,12 @@
+{
+    "UKR+EUR+80":[
+        [
+            "20220614+../news_crawling/RUS_UKR/p_articles/voanews.com/Refuged in Paris Kyiv City Ballet Dances On.txt+eventbasecode80+eventcode80+avgtone0.4701492537313433+goldsteinscale0.75+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.6011', 'ballet:0.5525', 'ukrainian:0.4626', 'refugee:0.4094', 'dances:0.4062', 'dancer:0.3931', 'paris:0.37', 'russias:0.3346', 'perform:0.3285', 'refuged:0.3157', 'europe:0.3016', 'city:0.2886', 'flee:0.2633', 'homeland:0.2227', 'foreign:0.1965', 'conflict:0.1814', 'assault:0.1694', 'tour:0.1687', 'away:0.1561', 'far:0.1512', 'continue:0.1497', 'voa:0.1417', 'dozen:0.108', 'plan:0.0906', 'february:0.0894', 'theyve:0.065', 'million:0.0564', 'nearly:0.0486', 'lisa:0.0403', 'bryant:-0.0254']+titles_keywords+['kyiv:0.5662', 'ballet:0.554', 'paris:0.4146', 'city:0.2926', 'refuged:0.2791']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/voanews.com/Lviv Families Open Homes to Ukraine War Refugees.txt+eventbasecode80+eventcode80+avgtone0.4745762711864407+goldsteinscale0.75+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['lviv:0.6391', 'ukraine:0.5038', 'ukrainians:0.4505', 'refugees:0.4016', 'displaced:0.3409', 'russia:0.3028', 'kosstutschenko:0.2854', 'city:0.2706', 'yuriy:0.2586', 'homes:0.2497', 'war:0.249', 'families:0.2444', 'invade:0.2403', 'flee:0.2376', 'home:0.2243', 'homeland:0.2205', 'family:0.1905', 'neighboring:0.1781', 'country:0.1724', 'safe:0.1578', 'volunteer:0.1561', 'western:0.1428', 'anna:0.1297', 'dankevych:0.1128', 'open:0.1099', 'millions:0.091', 'story:0.0781', 'camera:0.0705', 'relatively:0.0345']+titles_keywords+['lviv:0.4825', 'refugees:0.4104', 'homes:0.3289', 'families:0.2993', 'open:0.2242']"
+        ]
+    ]
+}

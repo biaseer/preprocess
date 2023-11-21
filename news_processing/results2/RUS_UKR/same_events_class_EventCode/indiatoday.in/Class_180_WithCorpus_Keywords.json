@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Russias invasion of Ukraine Who is supporting Putin.txt+eventbasecode180+eventcode180+avgtone0.47691597414589104+goldsteinscale0.05+nummentions0.1962989840348331+numarticles0.19543147208121828+numsources0.20394736842105263+news_keywords+['ukraine:0.4521', 'natos:0.4172', 'putin:0.4147', 'diplomacy:0.385', 'invade:0.3656', 'pakistani:0.2693', 'escalation:0.2686', 'bloodshed:0.2585', 'interfere:0.2533', 'history:0.2457', 'bashar:0.2206', 'unprovoked:0.205', 'read:0.2047', 'trigger:0.2047', 'respond:0.2011', 'warn:0.1995', 'want:0.1792', 'people:0.1771', 'include:0.1653', 'world:0.1577', 'pipeline:0.1469', 'current:0.1308', 'soon:0.1304', 'blame:0.1242', 'broader:0.1231', 'issue:0.1218', 'student:0.1141', 'tie:0.1138', 'actually:0.0699', 'viability:0.0382']+titles_keywords+['putin:0.5661', 'ukraine:0.5474', 'russias:0.4906', 'invasion:0.4025', 'supporting:0.2947']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/indiatoday.in/Explosions light up Kyiv skyline during news telecast reporter goes off air WATCH.txt+eventbasecode180+eventcode180+avgtone0.46089385474860334+goldsteinscale0.05+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.6259', 'explosions:0.4374', 'russians:0.3543', 'attack:0.2941', 'casualty:0.2644', 'capital:0.233', 'news:0.2149', 'siren:0.2131', 'underway:0.2123', 'incident:0.2019', 'sudden:0.1965', 'watch:0.1888', 'shelter:0.1876', 'injure:0.1832', 'kherson:0.159', 'skyline:0.1563', 'major:0.1392', 'nearly:0.1212', 'telecast:0.1155', 'night:0.1119', 'today:0.0987', 'port:0.095', 'citizen:0.0902', 'advise:0.0866', 'record:0.0862', 'million:0.0845', 'second:0.0729', 'confirm:0.0698', 'commxlyud:0.0631', 'pic:0.034']+titles_keywords+['kyiv:0.4694', 'explosions:0.445', 'reporter:0.3669', 'telecast:0.3136', 'skyline:0.2289']"
+        ]
+    ]
+}

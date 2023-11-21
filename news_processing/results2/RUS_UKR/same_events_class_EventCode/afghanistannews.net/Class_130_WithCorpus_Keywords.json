@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+130":[
+        [
+            "20220127+../news_crawling/RUS_UKR/p_articles/afghanistannews.net/Is Russias Putin a Rash Gambler or Calculating RiskTaker.txt+eventbasecode130+eventcode130+avgtone0.4774127310061601+goldsteinscale0.27999999999999997+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.049342105263157895+news_keywords+['putin:0.5622', 'russias:0.4059', 'ukrainian:0.4044', 'geopolitical:0.391', 'rostov:0.3444', 'nato:0.3301', 'risk:0.3062', 'invade:0.2986', 'diplomat:0.2501', 'proceed:0.2436', 'disastrous:0.2364', 'trigger:0.2152', 'modernization:0.2129', 'turn:0.1992', 'cite:0.1954', 'sanction:0.188', 'emphasize:0.1868', 'argue:0.1623', 'word:0.1501', 'counterspy:0.1411', 'interviewer:0.1386', 'big:0.1285', 'structure:0.1245', 'skripal:0.1163', 'export:0.1124', 'quantum:0.1018', 'unless:0.0953', 'midnight:0.0922', 'does:0.0656', 'voa:0.0646']+titles_keywords+['putin:0.5611', 'gambler:0.5192', 'risktaker:0.4821', 'rash:0.1616', 'calculating:0.0905']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/afghanistannews.net/AsiaPacific stock markets slide amid Russia sanctions.txt+eventbasecode130+eventcode130+avgtone0.48582995951417+goldsteinscale0.27999999999999997+nummentions0.10957910014513789+numarticles0.11022480058013052+numsources0.16447368421052633+news_keywords+['russia:0.4507', 'sanction:0.3191', 'economy:0.3045', 'nikkei:0.2713', 'donetsk:0.2511', 'demilitarize:0.2393', 'shanghai:0.2353', 'stock:0.2274', 'aircraft:0.1816', 'decrease:0.1799', 'operation:0.1777', 'march:0.1726', 'toyota:0.1718', 'anisputnik:0.1684', 'begin:0.1679', 'impact:0.1667', 'index:0.1651', 'slide:0.1604', 'exchange:0.1506', 'stress:0.1485', 'gmt:0.1367', 'respond:0.1195', 'spasx:0.1028', 'point:0.0986', 'sign:0.0979', 'include:0.093', 'hang:0.0888', 'amid:0.0753', 'official:0.0683', 'solely:0.0524']+titles_keywords+['sanctions:0.3293', 'russia:0.2385', 'asiapacific:0.2267', 'slide:0.1807', 'stock:0.1647']"
+        ]
+    ]
+}

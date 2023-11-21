@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+193":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/kdal610.com/Russia says it shoots down Ukrainian Su25 fighter jet.txt+eventbasecode193+eventcode193+avgtone0.49206349206349204+goldsteinscale0.0+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['mykolaiv:0.425', 'ukrainian:0.3934', 'russias:0.3401', 'russia:0.313', 'kharkiv:0.3114', 'jet:0.2411', 'briefing:0.2316', 'military:0.216', 'su:0.2104', 'shoot:0.1742', 'fighter:0.1411', 'struck:0.1407', 'reuters:0.135', 'region:0.1218', 'command:0.1182', 'say:0.1101', 'point:0.098', 'near:0.0957', 'thursday:0.0847', 'defence:0.074', 'force:0.0426', 'ministry:0.0175']+titles_keywords+['ukrainian:0.3445', 'su25:0.3148', 'shoots:0.2019', 'jet:0.178', 'fighter:0.1262']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220819+../news_crawling/RUS_UKR/p_articles/kdal610.com/UK Russia bombarding Kharkiv to keep Ukraine from using forces elsewhere.txt+eventbasecode193+eventcode193+avgtone0.481060606060606+goldsteinscale0.0+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['ukraine:0.5454', 'russias:0.4128', 'kharkiv:0.3843', 'russian:0.3842', 'bombardment:0.3465', 'attack:0.2874', 'military:0.2713', 'reuters:0.2508', 'km:0.2337', 'kill:0.223', 'range:0.1894', 'operation:0.1776', 'city:0.1743', 'people:0.1681', 'use:0.1368', 'counter:0.124', 'start:0.1146', 'shell:0.1057', 'thursday:0.103', 'say:0.1017', 'steady:0.0963', 'northeastern:0.0959', 'second:0.0943', 'prevent:0.0929', 'governor:0.0924', 'force:0.0912', 'injured:0.0883', 'seventeen:0.0808', 'intelligence:0.0806', 'large:0.0773']+titles_keywords+['ukraine:0.4944', 'kharkiv:0.3867', 'bombarding:0.3301', 'using:0.1495', 'forces:0.14']"
+        ]
+    ]
+}

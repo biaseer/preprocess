@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+42":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/gcaptain.com/Russian LNG Vessel Back in Baltic Amid Tensions Over Ukraine Gas Supplies.txt+eventbasecode42+eventcode42+avgtone0.4790996784565917+goldsteinscale0.595+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kaliningrad:0.4544', 'baltic:0.4388', 'kyiv:0.4118', 'nato:0.3915', 'russias:0.3883', 'putin:0.378', 'ship:0.312', 'pipeline:0.3017', 'vasilevskiy:0.299', 'gas:0.2975', 'lng:0.2864', 'invade:0.2442', 'supply:0.2367', 'troop:0.232', 'region:0.2128', 'reuters:0.2021', 'gazprom:0.194', 'tensions:0.1805', 'diversion:0.1707', 'reporting:0.162', 'export:0.1563', 'eikon:0.1516', 'enclave:0.1368', 'monopoly:0.1185', 'near:0.1171', 'meter:0.0896', 'refinitiv:0.0875', 'role:0.0648', 'possible:0.0533', 'senior:0.0246']+titles_keywords+['baltic:0.4258', 'lng:0.3617', 'vessel:0.2934', 'tensions:0.1708', 'supplies:0.1201']"
+        ],
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/gcaptain.com/Seafarers Feel Unsafe Entering Russian Ports.txt+eventbasecode42+eventcode42+avgtone0.48456260720411665+goldsteinscale0.595+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.029605263157894735+news_keywords+['ukraine:0.4128', 'oleg:0.3967', 'maersk:0.3933', 'seafarers:0.3657', 'logistics:0.3068', 'admiral:0.2904', 'port:0.258', 'war:0.2505', 'dispatch:0.2451', 'worry:0.2376', 'flag:0.2308', 'hostile:0.2201', 'rout:0.2146', 'declassify:0.206', 'enact:0.2051', 'shareholder:0.1933', 'avoid:0.1899', 'navigate:0.1833', 'moved:0.1631', 'export:0.161', 'pjv:0.1596', 'soon:0.1543', 'article:0.1492', 'pull:0.1408', 'https:0.1284', 'sure:0.1272', 'involvingmaersk:0.097', 'gyg:0.0697', 'longer:0.0694', 'thats:0.0534']+titles_keywords+['seafarers:0.4696', 'russian:0.3279', 'ports:0.2942', 'unsafe:0.2683', 'feel:0.1312']"
+        ]
+    ]
+}

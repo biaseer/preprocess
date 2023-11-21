@@ -1,0 +1,12 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/tellerreport.com/East Africa Oxfam warns of hunger crisis.txt+eventbasecode61+eventcode61+avgtone0.43946188340807196+goldsteinscale0.82+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4685', 'war:0.3656', 'starvation:0.3422', 'wheat:0.243', 'supply:0.2403', 'crisis:0.2336', 'oxfam:0.226', 'warn:0.1991', 'poorest:0.1816', 'african:0.1741', 'people:0.1714', 'risk:0.1611', 'organization:0.1596', 'escalate:0.1537', 'rain:0.1528', 'east:0.1528', 'march:0.1506', 'severe:0.1446', 'dependent:0.1425', 'focus:0.1241', 'effect:0.1224', 'global:0.1207', 'start:0.1188', 'import:0.1115', 'gabriela:0.1066', 'according:0.1046', 'reason:0.0951', 'million:0.0941', 'suitable:0.0822', 'fast:0.0621']+titles_keywords+['hunger:0.4439', 'oxfam:0.4356', 'africa:0.4289', 'crisis:0.2047', 'warns:0.1938']"
+        ]
+    ],
+    "CHN+UKR+61":[
+        [
+            "20220510+../news_crawling/RUS_UKR/p_articles/tellerreport.com/US Commerce Department announces suspension of steel tariffs on Ukraine.txt+eventbasecode61+eventcode61+avgtone0.4885714285714286+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['tariff:0.4544', 'ukraine:0.4534', 'putin:0.4129', 'commerce:0.3662', 'steel:0.317', 'sanction:0.2922', 'news:0.264', 'industrial:0.2578', 'import:0.2552', 'union:0.2525', 'president:0.2417', 'conflict:0.2318', 'states:0.2133', 'military:0.2093', 'telecommunication:0.1983', 'statement:0.1848', 'th:0.1761', 'aid:0.1744', 'relation:0.1725', 'imposition:0.1703', 'world:0.1676', 'produce:0.158', 'trade:0.1518', 'good:0.1444', 'importance:0.135', 'emphasize:0.1301', 'swift:0.1279', 'exclude:0.1042', 'february:0.1016', 'multiple:0.0602']+titles_keywords+['tariffs:0.3876', 'ukraine:0.3344', 'steel:0.305', 'suspension:0.2033', 'department:0.0288']"
+        ]
+    ]
+}

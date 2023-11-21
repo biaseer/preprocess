@@ -1,0 +1,24 @@
+{
+    "IRL+RUS+13":[
+        []
+    ],
+    "RUS+RUS+13":[
+        []
+    ],
+    "RUS+UKR+13":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Heavy fighting near Donetsk as Russia presses offensive in eastern Ukraine.txt+eventbasecode13+eventcode13+avgtone0.4785992217898833+goldsteinscale0.52+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['donetsk:0.5694', 'pisky:0.4401', 'russia:0.3268', 'arestovych:0.2881', 'war:0.2778', 'donbas:0.2586', 'frontlines:0.2525', 'town:0.23', 'industrialised:0.2108', 'artillery:0.208', 'reuters:0.2071', 'separatist:0.1777', 'main:0.1768', 'near:0.1628', 'eastern:0.1597', 'fall:0.1457', 'fortify:0.1355', 'increase:0.12', 'accuse:0.1156', 'hold:0.1123', 'resistance:0.1114', 'km:0.1105', 'send:0.1056', 'adviser:0.104', 'plant:0.0909', 'afraid:0.0809', 'completely:0.0781', 'comprise:0.0732', 'thrust:0.0721', 'hot:0.0651']+titles_keywords+['donetsk:0.5408', 'fighting:0.3516', 'eastern:0.178', 'near:0.1588', 'heavy:0.1024']"
+        ],
+        [
+            "20220819+../news_crawling/RUS_UKR/p_articles/bdnews24.com/UN chief says electricity at Russianheld nuclear plant belongs to Ukraine.txt+eventbasecode13+eventcode13+avgtone0.5074626865671642+goldsteinscale0.52+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['ukraine:0.5123', 'nuclear:0.3766', 'russian:0.3099', 'zaporizhzhia:0.3', 'russianheld:0.2774', 'electricity:0.2442', 'region:0.2091', 'power:0.1883', 'belongs:0.1842', 'generate:0.1691', 'plant:0.1675', 'secretary:0.1453', 'guterres:0.1445', 'belong:0.1337', 'principle:0.1244', 'antonio:0.1235', 'say:0.1217', 'general:0.0984', 'hold:0.0755', 'fully:0.0654', 'southern:0.0626', 'chief:0.0567', 'friday:0.0444', 'demand:0.0343', 'respect:0.0208']+titles_keywords+['ukraine:0.4537', 'nuclear:0.3752', 'belongs:0.1353', 'chief:0.1127', 'says:0.0798']"
+        ]
+    ],
+    "UKR+RUS+13":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Report on Chinese missile hub in Bangladesh is false misleading State Minister Shahriar.txt+eventbasecode13+eventcode13+avgtone0.48734177215189867+goldsteinscale0.52+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['bangladesh:0.425', 'chinas:0.3173', 'war:0.2699', 'missile:0.2654', 'supplier:0.2637', 'mislead:0.2449', 'false:0.2399', 'government:0.2385', 'diplomat:0.2171', 'hub:0.2107', 'possibility:0.2083', 'announcement:0.2079', 'report:0.2055', 'base:0.2016', 'citing:0.2007', 'issue:0.1848', 'facility:0.1833', 'relation:0.167', 'machinery:0.1647', 'nikkei:0.1571', 'make:0.1508', 'complicate:0.1419', 'future:0.1397', 'rejoinder:0.135', 'buy:0.1327', 'facing:0.1238', 'prepare:0.1159', 'include:0.1096', 'li:0.0932', 'completely:0.0761']+titles_keywords+['bangladesh:0.3797', 'misleading:0.3549', 'report:0.2693', 'missile:0.2591', 'hub:0.1663']"
+        ],
+        [
+            "20220704+../news_crawling/RUS_UKR/p_articles/bdnews24.com/Ukraine withdraws from battered Lysychansk city Russia claims major victory.txt+eventbasecode13+eventcode13+avgtone0.4811893203883495+goldsteinscale0.52+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.02631578947368421+news_keywords+['kyiv:0.5119', 'invade:0.3249', 'putin:0.3236', 'civilians:0.3132', 'propaganda:0.3107', 'artillery:0.2973', 'occur:0.2836', 'operation:0.2801', 'lysychansk:0.2672', 'separatist:0.2535', 'fight:0.2525', 'logistics:0.2481', 'regroup:0.1981', 'blast:0.1981', 'consequence:0.1967', 'northeast:0.1859', 'withdraw:0.1842', 'baseless:0.1837', 'scared:0.1755', 'home:0.1673', 'long:0.1659', 'major:0.1596', 'exactly:0.1493', 'counteroffensive:0.1433', 'virtually:0.1381', 'focus:0.1304', 'second:0.1203', 'feb:0.1198', 'gmt:0.118', 'thanks:0.084']+titles_keywords+['ukraine:0.3826', 'lysychansk:0.3269', 'victory:0.2998', 'withdraws:0.1907', 'major:0.1623']"
+        ]
+    ]
+}

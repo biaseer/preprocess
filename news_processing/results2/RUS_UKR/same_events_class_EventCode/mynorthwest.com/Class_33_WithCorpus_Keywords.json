@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+33":[
+        [
+            "20220508+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/G7 leaders mark VE Day stressing unity support for Ukraine.txt+eventbasecode33+eventcode33+avgtone0.5102301790281331+goldsteinscale0.76+nummentions0.04354136429608128+numarticles0.04423495286439449+numsources0.05592105263157895+news_keywords+['ukraine:0.5088', 'putins:0.4229', 'dictatorship:0.3303', 'sanction:0.3243', 'announce:0.3208', 'war:0.3053', 'president:0.2716', 'capital:0.2618', 'bundestag:0.2618', 'zelenskyy:0.2576', 'ahead:0.2501', 'misinformation:0.2467', 'orderly:0.2342', 'agreement:0.2322', 'visa:0.2315', 'telegram:0.2224', 'anniversary:0.2208', 'monday:0.2152', 'expect:0.2078', 'gazprombank:0.2027', 'world:0.1923', 'ranking:0.1813', 'rewritten:0.1777', 'source:0.1703', 've:0.168', 'include:0.1666', 'artillery:0.1598', 'evade:0.1597', 'look:0.1131', 'exporter:0.0785']+titles_keywords+['ukraine:0.3764', 've:0.2578', 'g7:0.2206', 'day:0.1843', 'support:0.1641']"
+        ]
+    ],
+    "RUS+UKR+33":[
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/mynorthwest.com/Live updates RussiaUkraine War.txt+eventbasecode33+eventcode33+avgtone0.4893503727369542+goldsteinscale0.76+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.013157894736842105+news_keywords+['ukraine:0.4881', 'kremlin:0.4621', 'erdogan:0.3598', 'propaganda:0.3283', 'news:0.3229', 'agenda:0.3088', 'diplomat:0.3079', 'evacuate:0.3002', 'boychenko:0.2847', 'invasion:0.2684', 'railways:0.2681', 'erupt:0.2651', 'pipeline:0.2637', 'telegram:0.2624', 'urgent:0.2436', 'anticipate:0.2413', 'conflict:0.2376', 'know:0.2273', 'organize:0.2266', 'report:0.221', 'capital:0.2162', 'thursday:0.2072', 'continue:0.1984', 'rewritten:0.1876', 'world:0.1868', 'good:0.177', 'horrific:0.1715', 'prosecution:0.1694', 'buy:0.1671', 'stability:0.1597']+titles_keywords+['russiaukraine:0.5556', 'war:0.4948', 'live:0.2683', 'updates:0.2495']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "UKR+RUS+46":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/dailycaller.com/Zelenskyy Warns Of Third World War If Negotiations With Putin Fail.txt+eventbasecode46+eventcode46+avgtone0.4885496183206107+goldsteinscale0.85+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.03289473684210526+news_keywords+['putin:0.4261', 'zelenskyy:0.4113', 'nato:0.4053', 'ukraine:0.3899', 'war:0.3371', 'negotiate:0.3047', 'zakaria:0.2956', 'volodymyr:0.2508', 'nuclear:0.2464', 'warns:0.1915', 'prospect:0.1526', 'speak:0.1368', 'end:0.1367', 'possibility:0.1357', 'tank:0.1357', 'news:0.1338', 'order:0.1308', 'guarantee:0.1269', 'ready:0.1146', 'believe:0.1114', 'independent:0.1011', 'feb:0.0919', 'pt:0.0868', 'cnns:0.0753', 'flower:0.0726', 'like:0.0723', 'pic:0.0723', 'official:0.0681', 'make:0.0627', 'percent:0.0498']+titles_keywords+['zelenskyy:0.4726', 'putin:0.3922', 'war:0.3084', 'negotiations:0.2458', 'warns:0.208']"
+        ]
+    ],
+    "UKR+USA+46":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/dailycaller.com/US Is Documenting Credible Reports Of War Crimes Against Putin Blinken Says.txt+eventbasecode46+eventcode46+avgtone0.46774193548387105+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4924', 'chernobyl:0.4003', 'russias:0.362', 'kyiv:0.3443', 'airstrikes:0.3359', 'credible:0.2938', 'investigate:0.284', 'alert:0.2606', 'embassy:0.2575', 'rhetoric:0.2517', 'crimes:0.2479', 'erupt:0.2231', 'documenting:0.2169', 'incident:0.2169', 'constitute:0.2071', 'civilian:0.185', 'cnns:0.1788', 'power:0.1647', 'fumio:0.1574', 'order:0.1499', 'tweet:0.1365', 'plant:0.1344', 'friday:0.1284', 'state:0.121', 'prepared:0.1196', 'says:0.115', 'sure:0.1112', 'kishida:0.1055', 'theyre:0.1017', 'weve:0.0769']+titles_keywords+['putin:0.3475', 'blinken:0.2799', 'credible:0.2697', 'documenting:0.2281', 'crimes:0.1746']"
+        ]
+    ]
+}

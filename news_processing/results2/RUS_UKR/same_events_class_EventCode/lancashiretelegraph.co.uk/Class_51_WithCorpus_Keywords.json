@@ -1,0 +1,30 @@
+{
+    "DEU+UKR+51":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/lancashiretelegraph.co.uk/Defence minister backs Ukraine striking Russian soil with British weapons.txt+eventbasecode51+eventcode51+avgtone0.483271375464684+goldsteinscale0.67+nummentions0.15529753265602322+numarticles0.1559100797679478+numsources0.17434210526315788+news_keywords+['ukraine:0.4863', 'nato:0.4498', 'putin:0.4256', 'invade:0.4008', 'war:0.3882', 'military:0.3029', 'firepower:0.2746', 'prepare:0.2676', 'logistics:0.2657', 'oil:0.2585', 'provoking:0.2547', 'lavrovs:0.2535', 'border:0.2488', 'warn:0.2454', 'fortify:0.2378', 'news:0.2162', 'provide:0.2107', 'nonsense:0.2026', 'advantage:0.1916', 'misuse:0.1787', 'depth:0.1759', 'stormer:0.1708', 'kit:0.1635', 'shift:0.1594', 'say:0.1574', 'blame:0.1417', 'line:0.1229', 'evenly:0.1142', 'necessarily:0.0917', 'send:0.0814']+titles_keywords+['ukraine:0.3742', 'striking:0.2176', 'weapons:0.2112', 'backs:0.1292', 'minister:0.081']"
+        ]
+    ],
+    "GBR+UKR+51":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/lancashiretelegraph.co.uk/UK can be proud of support for Ukraine PM tells ministers.txt+eventbasecode51+eventcode51+avgtone0.4828042328042328+goldsteinscale0.67+nummentions0.045718432510885344+numarticles0.046410442349528645+numsources0.039473684210526314+news_keywords+['ukraine:0.5183', 'putins:0.4562', 'nato:0.4241', 'invade:0.4238', 'airstrikes:0.3758', 'oligarch:0.3743', 'sanction:0.3189', 'chernobyl:0.3152', 'threaten:0.3145', 'government:0.3027', 'boris:0.2961', 'introduce:0.2251', 'volodymyr:0.2174', 'weaponry:0.2145', 'news:0.2019', 'want:0.1895', 'shortly:0.1837', 'responses:0.1819', 'debate:0.1589', 'lethal:0.1556', 'resist:0.1544', 'end:0.154', 'world:0.1499', 'sector:0.1425', 'subjugate:0.1298', 'role:0.1296', 'house:0.1152', 'keatinge:0.1052', 'freeze:0.0966', 'cost:0.0404']+titles_keywords+['ukraine:0.3916', 'proud:0.3213', 'support:0.1326', 'ministers:0.0943', 'pm:0.0394']"
+        ],
+        [
+            "20220705+../news_crawling/RUS_UKR/p_articles/lancashiretelegraph.co.uk/Ukraine can retake land recently captured by Russia Johnson tells Zelensky.txt+eventbasecode51+eventcode51+avgtone0.4938461538461539+goldsteinscale0.67+nummentions0.0783744557329463+numarticles0.07904278462654098+numsources0.06578947368421052+news_keywords+['ukraine:0.5111', 'nato:0.3978', 'putins:0.3718', 'war:0.3003', 'blockade:0.2804', 'troop:0.2777', 'zelensky:0.2727', 'borisjohnson:0.2613', 'armed:0.2485', 'remain:0.245', 'political:0.2333', 'forward:0.2329', 'downing:0.2325', 'training:0.2256', 'reconstruction:0.2151', 'secretary:0.2139', 'capability:0.2133', 'map:0.199', 'update:0.1905', 'lively:0.1889', 'important:0.1859', 'long:0.1846', 'talk:0.1812', 'ready:0.1694', 'whip:0.1595', 'lysychansk:0.1518', 'retake:0.1509', 'withdraw:0.142', 'grain:0.1359', 'july:0.1017']+titles_keywords+['zelensky:0.4351', 'ukraine:0.3398', 'johnson:0.2068', 'land:0.176', 'retake:0.1619']"
+        ]
+    ],
+    "POL+UKR+51":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/lancashiretelegraph.co.uk/Russian offensive turns to key Donbas city.txt+eventbasecode51+eventcode51+avgtone0.4753086419753087+goldsteinscale0.67+nummentions0.20029027576197386+numarticles0.20087019579405366+numsources0.3026315789473684+news_keywords+['kyiv:0.509', 'russia:0.4253', 'putins:0.3935', 'war:0.3524', 'zelensky:0.2895', 'occupy:0.2674', 'artillery:0.2584', 'separatist:0.246', 'engage:0.2301', 'turn:0.2274', 'sievierodonetsk:0.2265', 'donbas:0.2242', 'industrial:0.2026', 'casualty:0.201', 'sergeant:0.1913', 'news:0.1899', 'north:0.1834', 'prosecute:0.1819', 'resume:0.1803', 'prepare:0.1733', 'extend:0.1711', 'transit:0.1604', 'kilometre:0.159', 'hear:0.1561', 'want:0.1475', 'plant:0.126', 'right:0.1221', 'large:0.1152', 'withdraw:0.1121', 'misused:0.0862']+titles_keywords+['donbas:0.447', 'russian:0.3425', 'city:0.2564', 'offensive:0.1958', 'turns:0.1459']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/lancashiretelegraph.co.uk/Russia temporarily stops gas flow through Nord Stream 1.txt+eventbasecode51+eventcode51+avgtone0.48223350253807107+goldsteinscale0.67+nummentions0.28156748911465895+numarticles0.2820884699057288+numsources0.2532894736842105+news_keywords+['ukraine:0.4221', 'gas:0.3846', 'embargo:0.3505', 'gazprom:0.3451', 'pipeline:0.3276', 'supply:0.2728', 'government:0.2568', 'eus:0.2522', 'invade:0.2343', 'winter:0.2243', 'nord:0.213', 'comrzsn:0.2081', 'decrease:0.2002', 'ahead:0.1883', 'station:0.1821', 'agreement:0.1792', 'news:0.1771', 'bloc:0.1762', 'reserve:0.1577', 'cite:0.1567', 'report:0.1542', 'urgent:0.148', 'term:0.1448', 'implement:0.1381', 'step:0.1284', 'long:0.1204', 'start:0.1138', 'xg:0.0781', 'ability:0.0759', 'look:0.0714']+titles_keywords+['russia:0.282', 'gas:0.2294', 'nord:0.2261', 'stream:0.1913', 'temporarily:0.1682']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220816+../news_crawling/RUS_UKR/p_articles/lancashiretelegraph.co.uk/Thanks as Lancashire welcomes 1000th Ukrainian refugee.txt+eventbasecode51+eventcode51+avgtone0.5145833333333334+goldsteinscale0.67+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['refugee:0.5315', 'ukraine:0.4928', 'lancashire:0.4146', 'invasion:0.3136', 'housing:0.2879', 'aid:0.2743', 'volunteer:0.2714', 'organisation:0.2554', 'community:0.2482', 'flee:0.2471', 'coordinate:0.2302', 'hall:0.2225', 'celebrate:0.2211', 'prepare:0.2057', 'kindness:0.2035', 'important:0.1888', 'outset:0.1742', 'lively:0.1694', 'welcome:0.1645', 'th:0.1543', 'august:0.1482', 'desperately:0.1477', 'integration:0.1445', 'message:0.1433', 'yellow:0.1416', 'debate:0.1388', 'far:0.1362', 'make:0.1207', 'story:0.1153', 'thousand:0.1051']+titles_keywords+['refugee:0.4811', 'ukrainian:0.4732', 'lancashire:0.4447', 'welcomes:0.2787', '1000th:0.2392']"
+        ]
+    ]
+}

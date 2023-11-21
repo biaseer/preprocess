@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/gmanetwork.com/Russia warns US against sending more arms to Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4744136460554371+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4669', 'putin:0.4451', 'nato:0.4441', 'war:0.3799', 'antonov:0.3245', 'diplomatic:0.3125', 'threaten:0.3017', 'reuters:0.2668', 'artillery:0.2564', 'escalate:0.2557', 'concern:0.2142', 'ally:0.2106', 'supply:0.1932', 'tell:0.1886', 'agreement:0.1851', 'meddle:0.1839', 'biden:0.1826', 'pledge:0.18', 'end:0.154', 'grab:0.1373', 'nonsense:0.1364', 'stinger:0.127', 'visit:0.1256', 'thousand:0.111', 'feb:0.1085', 'sort:0.1067', 'new:0.0969', 'large:0.0969', 'practice:0.096', 'far:0.0874']+titles_keywords+['ukraine:0.3973', 'russia:0.3195', 'warns:0.2519', 'arms:0.1682', 'sending:0.0555']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/gmanetwork.com/Ukraine warns Russia preparing to shell port city Odessa.txt+eventbasecode130+eventcode130+avgtone0.46629213483146065+goldsteinscale0.27999999999999997+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5385', 'odessa:0.5079', 'russia:0.3711', 'invasion:0.3179', 'zelenskiy:0.3064', 'military:0.2508', 'warn:0.2384', 'port:0.2321', 'prepare:0.2254', 'shell:0.2181', 'besiege:0.2109', 'volodymyr:0.2043', 'sea:0.2039', 'city:0.1985', 'crime:0.1925', 'kherson:0.1704', 'southern:0.1319', 'spared:0.11', 'progress:0.1087', 'february:0.1052', 'declare:0.0981', 'president:0.0833', 'make:0.0709', 'agence:0.0665', 'force:0.0646', 'historic:0.0595', 'mariupol:0.0575', 'far:0.0436', 'presse:0.0302', 'largely:0.0241']+titles_keywords+['odessa:0.4666', 'warns:0.2516', 'preparing:0.1833', 'port:0.1546', 'shell:0.1198']"
+        ]
+    ]
+}

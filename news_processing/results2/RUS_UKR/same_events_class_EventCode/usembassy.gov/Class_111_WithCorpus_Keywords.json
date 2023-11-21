@@ -1,0 +1,10 @@
+{
+    "EUR+RUS+111":[
+        []
+    ],
+    "USA+RUS+111":[
+        [
+            "20220725+../news_crawling/RUS_UKR/p_articles/usembassy.gov/US Embassy Consulatesin Italy.txt+eventbasecode111+eventcode111+avgtone0.47790055248618785+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4846', 'kremlin:0.4312', 'russias:0.3947', 'blockade:0.3881', 'attack:0.3261', 'embassy:0.3236', 'missile:0.2754', 'civilians:0.2671', 'crisis:0.2407', 'news:0.2205', 'safety:0.2153', 'supply:0.1927', 'sea:0.1718', 'credibility:0.1637', 'condemn:0.1595', 'stop:0.1529', 'odesa:0.1493', 'allow:0.1417', 'export:0.1398', 'perpetuates:0.1362', 'arrangement:0.1321', 'tags:0.1183', 'historic:0.1009', 'hour:0.0994', 'million:0.0907', 'strongly:0.0899', 'finalize:0.0845', 'july:0.0826', 'agree:0.081', 'black:0.0641']+titles_keywords+['consulatesin:0.5594', 'embassy:0.5217', 'italy:0.4523']"
+        ]
+    ]
+}

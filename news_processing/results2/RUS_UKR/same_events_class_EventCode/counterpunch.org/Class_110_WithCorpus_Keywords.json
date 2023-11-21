@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+110":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/counterpunch.org/Holodomor Belies Putins Words and Actions on Ukraine.txt+eventbasecode110+eventcode110+avgtone0.47176079734219273+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.5132', 'putin:0.4813', 'bolshevik:0.467', 'genocide:0.4019', 'republics:0.3826', 'statehood:0.3613', 'holodomor:0.3411', 'secede:0.3167', 'historian:0.2973', 'conflict:0.2616', 'industrialization:0.2338', 'article:0.2112', 'explode:0.2074', 'relation:0.1893', 'evidence:0.1802', 'description:0.1738', 'consequence:0.1734', 'population:0.1732', 'write:0.1727', 'independent:0.1725', 'plant:0.1647', 'continue:0.158', 'big:0.149', 'ominous:0.1443', 'include:0.1396', 'typhoid:0.134', 'child:0.1268', 'right:0.1135', 'stage:0.1073', 'free:0.0664']+titles_keywords+['holodomor:0.4408', 'putins:0.4206', 'ukraine:0.4182', 'belies:0.3057', 'actions:0.1684']"
+        ],
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/counterpunch.org/Now is the Time for Nonalignment and Peace.txt+eventbasecode110+eventcode110+avgtone0.4771825396825397+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['history:0.4292', 'society:0.4127', 'peacemaking:0.4068', 'humanitywhich:0.398', 'regime:0.3636', 'japanrecognize:0.3421', 'america:0.3415', 'provokes:0.3294', 'globe:0.3177', 'orientation:0.3175', 'machismo:0.3006', 'encirclement:0.2993', 'illiteracy:0.293', 'nuclear:0.2881', 'overwhelm:0.2853', 'polarization:0.2646', 'pandemic:0.2563', 'end:0.2429', 'emerge:0.2427', 'say:0.2419', 'narendra:0.2394', 'idea:0.2332', 'weapon:0.2313', 'color:0.2144', 'waste:0.2138', 'vote:0.2114', 'dispute:0.2018', 'neurological:0.2004', 'include:0.1927', 'nonaligned:0.182']+titles_keywords+['peace:0.5379', 'nonalignment:0.4981', 'time:0.2572']"
+        ]
+    ]
+}

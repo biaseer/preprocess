@@ -1,0 +1,17 @@
+{
+    "CHN+RUS+111":[
+        [
+            "20220506+../news_crawling/RUS_UKR/p_articles/chinanationalnews.com/China says sanctions make world economy worse amid pressure to condemn Russia.txt+eventbasecode111+eventcode111+avgtone0.4623287671232878+goldsteinscale0.4+nummentions0.02467343976777939+numarticles0.025380710659898477+numsources0.03618421052631579+news_keywords+['sanction:0.411', 'nato:0.3543', 'war:0.2942', 'xinhua:0.2706', 'china:0.2578', 'economic:0.2372', 'russian:0.2332', 'world:0.2312', 'stabilize:0.193', 'report:0.182', 'bad:0.1706', 'unilateral:0.1617', 'press:0.1499', 'continue:0.1499', 'forecast:0.1475', 'imf:0.1464', 'remark:0.1403', 'zhao:0.1389', 'facing:0.1331', 'refuse:0.1283', 'prove:0.1176', 'increase:0.1163', 'trade:0.0902', 'sluggish:0.0865', 'ready:0.0849', 'secretary:0.0837', 'ani:0.0836', 'especially:0.0635', 'large:0.0571', 'recently:0.0288']+titles_keywords+['sanctions:0.4684', 'economy:0.2495', 'worse:0.2376', 'world:0.2318', 'condemn:0.2106']"
+        ]
+    ],
+    "CZE+RUS+111":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/chinanationalnews.com/ExCzech leader denounces hatred of Russia.txt+eventbasecode111+eventcode111+avgtone0.47990543735224583+goldsteinscale0.4+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.039473684210526314+news_keywords+['ukraine:0.4932', 'kremlin:0.4083', 'nato:0.3953', 'vaclav:0.3879', 'negotiation:0.3061', 'exczech:0.2948', 'peace:0.2729', 'unprovoked:0.2481', 'bloc:0.2363', 'history:0.235', 'pragmatism:0.2306', 'news:0.2226', 'instead:0.221', 'write:0.2208', 'neutral:0.2082', 'sanction:0.2012', 'plan:0.2', 'table:0.1871', 'weapon:0.1854', 'issue:0.1825', 'isn:0.1742', 'follow:0.1677', 'breakaway:0.1621', 'die:0.1599', 'person:0.1475', 'soon:0.1452', 'donbass:0.1349', 'import:0.1281', 'focus:0.1267', 'retake:0.0964']+titles_keywords+['exczech:0.5748', 'denounces:0.3656', 'russia:0.3052', 'hatred:0.2941', 'leader:0.1269']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/chinanationalnews.com/Russia launches military strikes on Ukraine warns West to stay away.txt+eventbasecode111+eventcode111+avgtone0.47696245733788395+goldsteinscale0.4+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5822368421052632+news_keywords+['putin:0.4111', 'nato:0.4008', 'war:0.3799', 'militarize:0.3585', 'kyiv:0.3432', 'genocide:0.3401', 'escalation:0.3008', 'intervene:0.3002', 'diplomats:0.2768', 'unprovoked:0.2703', 'warn:0.2665', 'cyberattack:0.2373', 'respond:0.2355', 'agreement:0.2318', 'preside:0.2191', 'correspondent:0.2181', 'begin:0.1762', 'table:0.1737', 'information:0.1708', 'immediately:0.1662', 'word:0.1648', 'expect:0.1642', 'like:0.1446', 'short:0.1445', 'choose:0.144', 'voa:0.1413', 'follow:0.1313', 'state:0.1223', 'eastern:0.1216', 'pipeline:0.1113']+titles_keywords+['ukraine:0.3794', 'warns:0.2099', 'military:0.1762', 'strikes:0.1642', 'stay:0.1256']"
+        ]
+    ]
+}

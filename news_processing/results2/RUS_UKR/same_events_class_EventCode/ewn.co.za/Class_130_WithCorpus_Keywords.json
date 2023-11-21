@@ -1,0 +1,12 @@
+{
+    "FRA+RUS+130":[
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/ewn.co.za/Macron fears escalation after Biden calls Putin a butcher.txt+eventbasecode130+eventcode130+avgtone0.4590395480225989+goldsteinscale0.27999999999999997+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.013157894736842105+news_keywords+['macron:0.4629', 'putin:0.4423', 'ceasefire:0.3843', 'ukraine:0.3643', 'escalation:0.3376', 'diplomatic:0.3257', 'invasion:0.2821', 'regime:0.2612', 'evacuate:0.2604', 'besiege:0.219', 'paris:0.2046', 'military:0.1965', 'visit:0.1883', 'scramble:0.1741', 'monday:0.1646', 'remark:0.1616', 'criticise:0.1574', 'butcher:0.1572', 'want:0.1537', 'quickly:0.1523', 'relation:0.1488', 'decide:0.1423', 'power:0.1389', 'word:0.1298', 'buildup:0.1245', 'port:0.12', 'look:0.1162', 'bilateral:0.1105', 'right:0.0659', 'far:0.0511']+titles_keywords+['macron:0.4643', 'biden:0.3635', 'putin:0.3474', 'escalation:0.3212', 'butcher:0.2202']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220121+../news_crawling/RUS_UKR/p_articles/ewn.co.za/West warns Russia against any Ukraine incursion.txt+eventbasecode130+eventcode130+avgtone0.4781094527363184+goldsteinscale0.27999999999999997+nummentions0.3835268505079826+numarticles0.3839738941261784+numsources0.5098684210526315+news_keywords+['ukraine:0.4523', 'nato:0.4388', 'putin:0.4235', 'invade:0.3777', 'escalation:0.2943', 'boris:0.2488', 'border:0.2487', 'repercussions:0.2448', 'coordinate:0.2385', 'political:0.2372', 'remind:0.2242', 'blunder:0.2229', 'destabilise:0.2229', 'meeting:0.2182', 'dangerous:0.2179', 'prepared:0.2112', 'ally:0.1899', 'biden:0.188', 'world:0.1749', 'clarify:0.1674', 'end:0.1645', 'write:0.1604', 'frazzled:0.1581', 'approve:0.1524', 'list:0.1248', 'week:0.1207', 'hours:0.1198', 'vow:0.0947', 'price:0.0785', 'major:0.0784']+titles_keywords+['ukraine:0.372', 'russia:0.3087', 'incursion:0.2669', 'warns:0.2443', 'west:0.1616']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+100":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/allafrica.com/Africa Ukraine Conflict the Pros and Cons of China As Global Peace Mediator.txt+eventbasecode100+eventcode100+avgtone0.49133333333333334+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['geopolitical:0.4688', 'nato:0.351', 'taiwan:0.3298', 'ukrainian:0.3211', 'diplomatically:0.2729', 'instability:0.2443', 'multilateral:0.2305', 'crisis:0.2269', 'concern:0.2058', 'peace:0.2024', 'fight:0.1776', 'ramification:0.1657', 'portray:0.157', 'sanction:0.1546', 'west:0.1494', 'cons:0.1422', 'leverage:0.1353', 'interference:0.1229', 'follow:0.1109', 'deal:0.1028', 'know:0.1015', 'degree:0.0989', 'outbreak:0.0969', 'soon:0.0964', 'long:0.0917', 'include:0.0905', 'confine:0.0816', 'cyber:0.0793', 'calculation:0.0732', 'enjoy:0.0467']+titles_keywords+['ukraine:0.3864', 'conflict:0.3318', 'peace:0.3256', 'mediator:0.2995', 'cons:0.1705']"
+        ]
+    ],
+    "RUS+UKR+100":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/allafrica.com/Nigeria Oil Prices Plunge Below 100 As Nigeria Fails to Meet Opec Quota.txt+eventbasecode100+eventcode100+avgtone0.4700934579439252+goldsteinscale0.25+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.006578947368421052+news_keywords+['opec:0.4629', 'nigeria:0.4203', 'oil:0.4133', 'geopolitical:0.362', 'commodity:0.3254', 'hedge:0.3059', 'volatility:0.2883', 'speculator:0.258', 'coronavirus:0.2513', 'plunge:0.2244', 'concern:0.2088', 'future:0.2026', 'prices:0.1921', 'email:0.1862', 'month:0.1847', 'report:0.1661', 'brent:0.1608', 'lockdown:0.1469', 'lavrov:0.1462', 'long:0.1358', 'sma:0.1351', 'external:0.1331', 'benchmark:0.1311', 'end:0.1272', 'resume:0.1206', 'follow:0.1116', 'allow:0.0995', 'percent:0.0878', 'factor:0.0867', 'sent:0.0585']+titles_keywords+['nigeria:0.3658', 'opec:0.3286', '100:0.2575', 'plunge:0.2053', 'prices:0.1989']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/allafrica.com/South Africa Pretoria Calls On Russia to Withdraw From Ukraine.txt+eventbasecode100+eventcode100+avgtone0.4904761904761905+goldsteinscale0.25+nummentions0.03701015965166909+numarticles0.0340826686004351+numsources0.20723684210526316+news_keywords+['ukraine:0.4494', 'pretoria:0.362', 'invasion:0.291', 'diplomatic:0.2798', 'sovereignty:0.242', 'border:0.2305', 'withdraw:0.2304', 'peace:0.2229', 'crisis:0.2081', 'abravitova:0.1744', 'immediately:0.1702', 'dispute:0.1698', 'remain:0.1535', 'solution:0.1522', 'calls:0.1465', 'endanger:0.1412', 'force:0.1393', 'closer:0.1305', 'department:0.1221', 'say:0.1086', 'statement:0.1057', 'enjoin:0.1001', 'line:0.0998', 'seek:0.0954', 'exercise:0.0925', 'message:0.0776', 'liubov:0.0659', 'roll:0.0585', 'adopt:0.056', 'welcome:0.0254']+titles_keywords+['ukraine:0.4105', 'pretoria:0.4053', 'withdraw:0.2773', 'south:0.161', 'calls:0.0922']"
+        ]
+    ]
+}

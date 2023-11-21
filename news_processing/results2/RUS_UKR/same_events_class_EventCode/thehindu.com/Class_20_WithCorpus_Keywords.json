@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+20":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/thehindu.com/What is the effect of the RussiaUkraine crisis on the Nord Stream 2 project.txt+eventbasecode20+eventcode20+avgtone0.48887434555+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['geopolitical:0.3951', 'putin:0.3927', 'ukraines:0.3821', 'pipeline:0.3678', 'siberia:0.337', 'nord:0.253', 'invade:0.2413', 'coal:0.24', 'leningrad:0.2248', 'crisis:0.2204', 'gdp:0.2188', 'supply:0.2092', 'concern:0.2013', 'gazprom:0.1976', 'effect:0.1721', 'megawatt:0.1425', 'future:0.1397', 'independence:0.1366', 'overwhelm:0.1343', 'transit:0.132', 'block:0.1311', 'natural:0.1212', 'reduce:0.1174', 'project:0.1156', 'continue:0.0996', 'connects:0.0928', 'state:0.0868', 'majority:0.0817', 'long:0.0664', 'price:0.0467']+titles_keywords+['russiaukraine:0.4116', 'nord:0.3115', 'crisis:0.2352', 'project:0.1543', 'effect:0.1071']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220713+../news_crawling/RUS_UKR/p_articles/thehindu.com/At UN dozens of nations call on Russia to end war in Ukraine.txt+eventbasecode20+eventcode20+avgtone0.46442687747035577+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4621', 'genocide:0.3938', 'treaty:0.3649', 'invade:0.3379', 'war:0.3272', 'hague:0.2556', 'reparation:0.2252', 'justification:0.2247', 'halt:0.2213', 'allegation:0.2133', 'law:0.213', 'world:0.2107', 'urgent:0.2036', 'proceeding:0.1994', 'international:0.187', 'unsubstantiated:0.181', 'end:0.1799', 'reiterate:0.1574', 'say:0.156', 'suffer:0.1522', 'hold:0.1471', 'decision:0.1363', 'dozen:0.1087', 'add:0.105', 'high:0.0961', 'state:0.0932', 'damage:0.0894', 'area:0.0844', 'pro:0.0605', 'wednesday:0.0489']+titles_keywords+['ukraine:0.4268', 'war:0.2652', 'nations:0.2137', 'dozens:0.1683', 'end:0.15']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/justiceinfo.net/Ukraine calls for talks in teetering Mariupol as Moscow holds ICBM test.txt+eventbasecode46+eventcode46+avgtone0.4811985898942421+goldsteinscale0.85+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.006578947368421052+news_keywords+['kyiv:0.5369', 'putin:0.4119', 'nato:0.399', 'invade:0.3348', 'separatist:0.291', 'negotiation:0.2881', 'frontlines:0.2824', 'crisis:0.2722', 'pentagon:0.2708', 'deliver:0.2495', 'adviser:0.2473', 'urgent:0.2418', 'notify:0.2375', 'write:0.2222', 'history:0.2126', 'forget:0.2', 'horrific:0.1808', 'safe:0.1804', 'alongside:0.1798', 'unexpectedly:0.1714', 'world:0.1714', 'degree:0.1639', 'flow:0.1629', 'plant:0.1493', 'th:0.1487', 'bucha:0.1478', 'hour:0.1475', 'nearly:0.1425', 'statelets:0.1328', 'agree:0.1115']+titles_keywords+['ukraine:0.4005', 'icbm:0.2813', 'talks:0.224', 'mariupol:0.2221', 'teetering:0.1397']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220623+../news_crawling/RUS_UKR/p_articles/justiceinfo.net/War in Ukraine from Russias invasion to EU candidacy.txt+eventbasecode46+eventcode46+avgtone0.46069364161849713+goldsteinscale0.85+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.019736842105263157+news_keywords+['crimea:0.4955', 'nato:0.4326', 'putin:0.4146', 'russias:0.401', 'separatists:0.3774', 'war:0.3737', 'demilitarisation:0.3567', 'conquer:0.3535', 'intervene:0.2575', 'border:0.2485', 'nazify:0.2405', 'news:0.2361', 'alert:0.2342', 'alignment:0.2304', 'continue:0.2132', 'order:0.1983', 'zelensky:0.198', 'reverse:0.1741', 'wipe:0.169', 'pipeline:0.1658', 'import:0.1649', 'biden:0.1588', 'make:0.1473', 'april:0.1432', 'huge:0.1356', 'decade:0.1342', 'hour:0.1315', 'shell:0.1216', 'northeastern:0.1175', 'agree:0.0947']+titles_keywords+['ukraine:0.4909', 'war:0.4599', 'invasion:0.3616', 'eu:0.3569', 'candidacy:0.3009']"
+        ]
+    ]
+}

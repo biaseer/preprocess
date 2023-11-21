@@ -1,0 +1,20 @@
+{
+    "RUS+SYR+46":[
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Syria formally breaks diplomatic ties with Ukraine.txt+eventbasecode46+eventcode46+avgtone0.4901960784313726+goldsteinscale0.85+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4733', 'syrias:0.4406', 'putin:0.376', 'diplomatic:0.353', 'separatist:0.3382', 'sovereignty:0.3047', 'bashar:0.3035', 'conflict:0.265', 'tehran:0.256', 'invade:0.2082', 'relation:0.1872', 'tie:0.175', 'state:0.1697', 'reality:0.1669', 'revalidate:0.1527', 'confer:0.1493', 'announcement:0.1467', 'capital:0.1461', 'hold:0.1412', 'abandon:0.1398', 'donbas:0.1349', 'help:0.1337', 'trip:0.1309', 'say:0.1304', 'suspended:0.1197', 'storm:0.0981', 'impossible:0.0963', 'month:0.0896', 'similar:0.0712', 'raisi:0.0509']+titles_keywords+['syria:0.3713', 'ukraine:0.3242', 'diplomatic:0.2455', 'ties:0.1217', 'breaks:0.0943']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220204+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Frances Macron to visit Russia Ukraine in mediation trip.txt+eventbasecode46+eventcode46+avgtone0.4889908256880734+goldsteinscale0.85+nummentions0.21407837445573294+numarticles0.21464829586656997+numsources0.29276315789473684+news_keywords+['macron:0.4476', 'geopolitics:0.4441', 'nato:0.4369', 'diplomatic:0.4055', 'putins:0.3987', 'invade:0.3775', 'escalation:0.3135', 'mediate:0.3118', 'disinformation:0.3022', 'kyiv:0.2894', 'strategic:0.2764', 'meeting:0.2743', 'crisis:0.252', 'olympics:0.2285', 'french:0.2225', 'preparation:0.2146', 'administration:0.2085', 'trip:0.2036', 'uncertainty:0.1825', 'follow:0.1729', 'elaborate:0.1602', 'week:0.1436', 'near:0.1412', 'element:0.1395', 'amass:0.1325', 'recep:0.1245', 'proxy:0.115', 'long:0.1139', 'possible:0.0985', 'offer:0.053']+titles_keywords+['macron:0.4097', 'ukraine:0.3644', 'frances:0.2738', 'visit:0.2064', 'mediation:0.1982']"
+        ]
+    ],
+    "WST+RUS+46":[
+        [
+            "20211123+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/Russian FM Security talks with US NATO to start next month.txt+eventbasecode46+eventcode46+avgtone0.4839357429718876+goldsteinscale0.85+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['natos:0.4395', 'ukraine:0.4123', 'kremlin:0.4083', 'dmitry:0.3409', 'war:0.3155', 'diplomat:0.286', 'escalation:0.2732', 'talk:0.2548', 'annex:0.2438', 'coordinate:0.235', 'warn:0.2239', 'agreement:0.2232', 'deploy:0.2214', 'concern:0.221', 'future:0.2096', 'know:0.2049', 'expect:0.1963', 'biden:0.1934', 'ready:0.1868', 'organization:0.1839', 'continue:0.1724', 'month:0.1646', 'general:0.1638', 'turn:0.1607', 'sit:0.1322', 'discus:0.1302', 'smear:0.1036', 'detailed:0.1012', 'millimeter:0.0721', 'price:0.054']+titles_keywords+['nato:0.4476', 'fm:0.3038', 'russian:0.2823', 'talks:0.2211', 'month:0.1385']"
+        ],
+        [
+            "20220206+../news_crawling/RUS_UKR/p_articles/newdelhitimes.com/French German leaders to visit Russia Ukraine amid tension.txt+eventbasecode46+eventcode46+avgtone0.4860515021459228+goldsteinscale0.85+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4625', 'geopolitics:0.4492', 'diplomatic:0.4005', 'nato:0.3956', 'kyiv:0.3739', 'invade:0.3539', 'russias:0.3526', 'escalation:0.3189', 'disinformation:0.3038', 'crisis:0.269', 'visit:0.2441', 'departments:0.2044', 'read:0.1997', 'olympics:0.1959', 'french:0.1944', 'plan:0.1939', 'thursday:0.1767', 'forward:0.1686', 'uncertainty:0.1614', 'elaborate:0.1578', 'surprise:0.1573', 'format:0.148', 'macrons:0.1459', 'word:0.1337', 'reject:0.1278', 'make:0.1275', 'head:0.1005', 'major:0.0979', 'irk:0.0973', 'possible:0.0802']+titles_keywords+['ukraine:0.3267', 'leaders:0.1811', 'german:0.18', 'visit:0.1621', 'tension:0.0671']"
+        ]
+    ]
+}

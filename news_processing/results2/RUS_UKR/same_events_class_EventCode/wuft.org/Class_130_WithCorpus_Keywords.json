@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/wuft.org/Putin says Ukraines future is in doubt as ceasefires collapse.txt+eventbasecode130+eventcode130+avgtone0.4452054794520545+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4455', 'ukraines:0.4188', 'vladimir:0.4043', 'ukrainian:0.4038', 'ceasefires:0.3663', 'russian:0.3351', 'russia:0.3299', 'war:0.2592', 'statehood:0.2486', 'future:0.2437', 'warn:0.2417', 'collapse:0.2138', 'continue:0.1881', 'declare:0.1715', 'troop:0.1569', 'sanction:0.1537', 'saturday:0.1386', 'say:0.1317', 'doubt:0.1244', 'city:0.1212', 'encircle:0.0935', 'wests:0.0759', 'liken:0.0699', 'jeopardy:0.0508', 'shell:0.0371']+titles_keywords+['putin:0.4278', 'ukraines:0.3856', 'ceasefires:0.2871', 'doubt:0.2283', 'future:0.2243']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220221+../news_crawling/RUS_UKR/p_articles/wuft.org/The US warns that Russia has a kill list of Ukrainians to be detained or.txt+eventbasecode130+eventcode130+avgtone0.447115384615385+goldsteinscale0.27999999999999997+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukrainians:0.4212', 'russia:0.357', 'invades:0.3398', 'warn:0.3065', 'kill:0.3052', 'war:0.3015', 'army:0.2323', 'brutality:0.232', 'president:0.2068', 'list:0.201', 'detain:0.193', 'security:0.1729', 'adviser:0.1727', 'say:0.131', 'bidens:0.1132', 'great:0.1096', 'form:0.0588', 'conventional:0.0508', 'national:0.0331', 'simply:0.0045']+titles_keywords+['ukrainians:0.4928', 'warns:0.2799', 'kill:0.2783', 'list:0.2608', 'detained:0.2198']"
+        ]
+    ]
+}

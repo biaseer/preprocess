@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/businessghana.com/Ukraine war Severodonetsk and Lysychansk are dead cities Zelensky.txt+eventbasecode190+eventcode190+avgtone0.47635135135135137+goldsteinscale0.0+nummentions0.03374455732946299+numarticles0.03444525018129079+numsources0.14802631578947367+news_keywords+['kyiv:0.5253', 'putin:0.3828', 'war:0.3774', 'troop:0.2989', 'occupy:0.2987', 'artillery:0.2923', 'zelensky:0.2677', 'survive:0.2655', 'expand:0.2641', 'strategic:0.2592', 'contamination:0.2439', 'aid:0.2431', 'shortage:0.2352', 'news:0.2319', 'deliver:0.2162', 'western:0.213', 'pull:0.2029', 'soon:0.2005', 'long:0.1962', 'donbas:0.1806', 'return:0.1696', 'severodonetsk:0.1563', 'say:0.149', 'port:0.147', 'state:0.1468', 'flame:0.1204', 'list:0.1186', 'significant:0.1169', 'associated:0.1132', 'dozen:0.0985']+titles_keywords+['zelensky:0.483', 'ukraine:0.4186', 'dead:0.3019', 'severodonetsk:0.2703', 'cities:0.2448']"
+        ],
+        [
+            "20220824+../news_crawling/RUS_UKR/p_articles/businessghana.com/Darya Dugina Moscow murder accusation is fiction says Ukraine.txt+eventbasecode190+eventcode190+avgtone0.4699427480916031+goldsteinscale0.0+nummentions0.009071117561683599+numarticles0.009789702683103698+numsources0.029605263157894735+news_keywords+['kremlin:0.479', 'kyiv:0.4679', 'propaganda:0.3948', 'darya:0.3901', 'terrorist:0.3541', 'murder:0.3349', 'reporter:0.3147', 'danilov:0.3048', 'pretext:0.2818', 'read:0.2667', 'annexation:0.25', 'escalate:0.2358', 'unsolved:0.2243', 'leonid:0.2241', 'concern:0.223', 'know:0.2067', 'denazification:0.199', 'telegram:0.1915', 'coincide:0.1877', 'memorial:0.1809', 'curfew:0.1798', 'live:0.1789', 'reference:0.1744', 'underneath:0.1742', 'organisation:0.172', 'prepare:0.1675', 'forward:0.1663', 'long:0.1519', 'dugin:0.1508', 'version:0.1017']+titles_keywords+['moscow:0.3819', 'dugina:0.3548', 'accusation:0.3504', 'fiction:0.3238', 'darya:0.2921']"
+        ]
+    ]
+}

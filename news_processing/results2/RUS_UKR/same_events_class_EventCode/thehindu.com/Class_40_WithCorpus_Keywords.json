@@ -1,0 +1,25 @@
+{
+    "DEU+UKR+40":[
+        [
+            "20220611+../news_crawling/RUS_UKR/p_articles/thehindu.com/EU chief Ursula von der Leyen visits Ukraine to discuss its bid to join bloc.txt+eventbasecode40+eventcode40+avgtone0.48218527315914494+goldsteinscale0.55+nummentions0.015965166908563134+numarticles0.01305293691080493+numsources0.029605263157894735+news_keywords+['ukraine:0.5443', 'putin:0.4049', 'zelenskyy:0.3088', 'oligarch:0.2924', 'geopolitical:0.2911', 'refugee:0.2656', 'volodymyr:0.2628', 'readiness:0.2406', 'euro:0.2315', 'candidacy:0.2301', 'reform:0.2268', 'ahead:0.2166', 'visit:0.214', 'union:0.1943', 'lengthy:0.1819', 'bloc:0.1815', 'document:0.1771', 'ursula:0.1644', 'propagandise:0.1636', 'prospect:0.1631', 'afp:0.1521', 'june:0.1518', 'der:0.1437', 'outlet:0.1334', 'include:0.1137', 'fact:0.1123', 'make:0.1067', 'bid:0.1039', 'official:0.0964', 'nearly:0.0925']+titles_keywords+['ukraine:0.3429', 'leyen:0.2385', 'der:0.231', 'bloc:0.1295', 'bid:0.1048']"
+        ]
+    ],
+    "GBR+UKR+40":[
+        [
+            "20220410+../news_crawling/RUS_UKR/p_articles/thehindu.com/RussiaUkraine crisis updates April 10 2022.txt+eventbasecode40+eventcode40+avgtone0.46613995485327314+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.5138', 'russiaukraine:0.4769', 'putin:0.4187', 'peacekeeping:0.3917', 'separatist:0.2927', 'crisis:0.269', 'zelenskyy:0.2661', 'boris:0.2483', 'escalate:0.2414', 'news:0.2333', 'victim:0.2299', 'infrastructure:0.222', 'coincide:0.2209', 'fight:0.2099', 'sanction:0.2004', 'continue:0.1981', 'movement:0.1609', 'people:0.1517', 'import:0.1444', 'good:0.1431', 'ieds:0.1384', 'risk:0.1293', 'saturday:0.12', 'shelling:0.1187', 'page:0.1079', 'nearly:0.1013', 'restrict:0.1012', 'renew:0.0999', 'billion:0.0962', 'mr:0.0866']+titles_keywords+['russiaukraine:0.5163', 'crisis:0.335', '2022:0.3128', 'updates:0.2214', 'april:0.2209']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/thehindu.com/Zelenskyy asks Modi to help end conflict.txt+eventbasecode40+eventcode40+avgtone0.48360655737704916+goldsteinscale0.55+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['ukraine:0.4208', 'evacuation:0.3935', 'conflict:0.319', 'inform:0.3043', 'humanitarian:0.2916', 'zelenskyy:0.2735', 'presidentvolodymyrzelenskyyon:0.2725', 'embassy:0.2695', 'election:0.2644', 'remain:0.2551', 'concerned:0.2524', 'shortage:0.2487', 'oil:0.247', 'rahul:0.2465', 'modisconversation:0.2156', 'insumyin:0.2151', 'shortly:0.2089', 'supervise:0.2056', 'shift:0.2051', 'preparation:0.1938', 'expect:0.1868', 'student:0.1857', 'tank:0.1721', 'end:0.1719', 'volatility:0.1376', 'understood:0.1352', 'mr:0.1319', 'day:0.114', 'mea:0.0975', 'focus:0.0907']+titles_keywords+['zelenskyy:0.5335', 'modi:0.391', 'conflict:0.3133', 'help:0.1513', 'end:0.1262']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/thehindu.com/Ukraine Russia diplomats to meet on Belarus border.txt+eventbasecode40+eventcode40+avgtone0.49175824175824173+goldsteinscale0.55+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['putin:0.4349', 'nato:0.4267', 'belarus:0.4196', 'kyiv:0.4159', 'diplomats:0.3261', 'invade:0.3254', 'meeting:0.3253', 'border:0.2796', 'zelenskyys:0.2748', 'troop:0.257', 'telegram:0.2263', 'shortly:0.2239', 'volodymyr:0.2233', 'delegation:0.1914', 'come:0.1814', 'order:0.1757', 'news:0.1462', 'ally:0.1365', 'plane:0.1286', 'lead:0.1228', 'reject:0.1219', 'say:0.1203', 'hour:0.1145', 'confirm:0.1064', 'precise:0.0954', 'draw:0.091', 'contingent:0.0858', 'initially:0.0844', 'mr:0.0726', 'ground:0.0708']+titles_keywords+['diplomats:0.3715', 'belarus:0.3612', 'ukraine:0.3551', 'meet:0.2536', 'border:0.2177']"
+        ],
+        [
+            "20220808+../news_crawling/RUS_UKR/p_articles/thehindu.com/India to send more humanitarian assistance to Ukraine Jaishankar.txt+eventbasecode40+eventcode40+avgtone0.48706896551724144+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4692', 'humanitarian:0.3964', 'war:0.3391', 'evacuate:0.2823', 'operation:0.2532', 'assistance:0.2288', 'ganga:0.2089', 'ongoing:0.2026', 'international:0.1917', 'counterpart:0.1754', 'send:0.1738', 'port:0.1703', 'export:0.1618', 'repercussion:0.1529', 'conduct:0.1389', 'despite:0.1367', 'bilateral:0.1338', 'assured:0.1333', 'soon:0.1276', 'strengthen:0.1245', 'consignment:0.1237', 'end:0.1231', 'corridor:0.1131', 'mr:0.0947', 'focus:0.0929', 'grain:0.0918', 'reach:0.0811', 'dmytro:0.0749', 'say:0.0683', 'new:0.0498']+titles_keywords+['humanitarian:0.4043', 'ukraine:0.3348', 'jaishankar:0.2716', 'assistance:0.2202', 'send:0.1688']"
+        ]
+    ]
+}

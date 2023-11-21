@@ -1,0 +1,12 @@
+{
+    "LTU+RUS+10":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/trtworld.com/Ukraine exhibit conveys grim reality to Russian travellers in Lithuania.txt+eventbasecode10+eventcode10+avgtone0.49278350515463915+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0007251631617113851+numsources0.003289473684210526+news_keywords+['ukraine:0.4999', 'vladimir:0.4493', 'vilnius:0.3929', 'lithuanians:0.3706', 'transit:0.3462', 'peaceful:0.3184', 'train:0.2751', 'attack:0.2725', 'diaspora:0.2595', 'exhibit:0.2553', 'conflict:0.2515', 'photographers:0.2332', 'reality:0.2279', 'gesture:0.2126', 'read:0.2082', 'sanction:0.204', 'escape:0.1664', 'speak:0.1611', 'continue:0.1575', 'organise:0.1535', 'population:0.1417', 'platform:0.1406', 'approve:0.137', 'want:0.1262', 'despite:0.1235', 'height:0.1204', 'shocking:0.112', 'message:0.1073', 'make:0.102', 'today:0.0802']+titles_keywords+['ukraine:0.437', 'travellers:0.369', 'exhibit:0.3536', 'reality:0.2216', 'grim:0.1641']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220716+../news_crawling/RUS_UKR/p_articles/trtworld.com/Live blog Fresh Russian strikes hit several areas in Ukraine.txt+eventbasecode10+eventcode10+avgtone0.48083067092651754+goldsteinscale0.5+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['ukraine:0.4876', 'sergei:0.3358', 'dnipropetrovsk:0.324', 'nuclear:0.2582', 'artillery:0.248', 'kill:0.2478', 'civilian:0.2385', 'incursion:0.229', 'emergency:0.227', 'infrastructure:0.2159', 'strike:0.2042', 'plane:0.2041', 'report:0.2007', 'satellite:0.1933', 'busy:0.1899', 'tcvh:0.18', 'near:0.1533', 'anonymity:0.1502', 'twitter:0.1501', 'live:0.1475', 'tense:0.1461', 'imagery:0.1392', 'advisor:0.1385', 'apartment:0.1293', 'like:0.1277', 'increase:0.1276', 'thursday:0.1273', 'order:0.1213', 'shahed:0.1119', 'exclude:0.0629']+titles_keywords+['ukraine:0.474', 'strikes:0.3026', 'blog:0.2711', 'live:0.1835', 'fresh:0.1097']"
+        ]
+    ]
+}

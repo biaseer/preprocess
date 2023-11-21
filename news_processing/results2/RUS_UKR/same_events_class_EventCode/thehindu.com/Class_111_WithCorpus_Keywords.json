@@ -1,0 +1,20 @@
+{
+    "ISR+RUS+111":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/thehindu.com/Israel lashes out at Russia over Lavrovs Nazism remarks.txt+eventbasecode111+eventcode111+avgtone0.45783132530120485+goldsteinscale0.4+nummentions0.4125544267053701+numarticles0.4129804205946338+numsources0.47039473684210525+news_keywords+['holocaust:0.5428', 'nazification:0.4588', 'antisemitism:0.4548', 'propaganda:0.4307', 'kremlin:0.4209', 'ukraine:0.4058', 'lavrov:0.3063', 'vashem:0.2974', 'political:0.2953', 'justify:0.2717', 'enemy:0.2414', 'translation:0.2348', 'speech:0.2241', 'inversion:0.2214', 'yair:0.2', 'mediate:0.1966', 'word:0.1839', 'scandalous:0.1747', 'adviser:0.1707', 'mark:0.1691', 'propagate:0.1653', 'hebstreit:0.1619', 'untrue:0.151', 'reach:0.1496', 'include:0.1374', 'remember:0.1266', 'tweet:0.1127', 'heard:0.1104', 'come:0.1085', 'big:0.1021']+titles_keywords+['israel:0.3601', 'lavrovs:0.3037', 'nazism:0.3008', 'lashes:0.1747', 'remarks:0.0931']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/thehindu.com/The eclipse of sovereign equalityPremium.txt+eventbasecode111+eventcode111+avgtone0.485479797979798+goldsteinscale0.4+nummentions0.0758345428156749+numarticles0.047498187092095724+numsources0.07236842105263158+news_keywords+['sovereignty:0.4933', 'treaty:0.4546', 'ukraines:0.3913', 'war:0.3767', 'oligarchic:0.3743', 'geographical:0.3428', 'terrorist:0.3294', 'justify:0.2777', 'sanction:0.2761', 'cite:0.2744', 'thesis:0.2692', 'unprovoked:0.2586', 'scope:0.2383', 'industrialisation:0.2376', 'anachronism:0.2351', 'crisis:0.2289', 'organisation:0.2079', 'term:0.2072', 'world:0.2013', 'state:0.1847', 'jurist:0.1846', 'doctrine:0.184', 'equalitypremium:0.1788', 'redefine:0.1779', 'decide:0.1573', 'basic:0.132', 'futile:0.1236', 'hollowness:0.1081', 'inseparable:0.1045', 'resolution:0.0938']+titles_keywords+['equalitypremium:0.6471', 'sovereign:0.5747', 'eclipse:0.226']"
+        ],
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/thehindu.com/UN General Assembly votes to suspend Russia from Human Rights Council India abstains from vote.txt+eventbasecode111+eventcode111+avgtone0.47039473684210525+goldsteinscale0.4+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.019736842105263157+news_keywords+['russia:0.4067', 'diplomacy:0.36', 'abstentions:0.3244', 'report:0.2375', 'democratic:0.2375', 'hrc:0.231', 'federation:0.2163', 'unpr:0.2143', 'murder:0.2143', 'rights:0.2118', 'cite:0.2085', 'violate:0.186', 'disturb:0.1741', 'civlians:0.1577', 'say:0.1571', 'sri:0.1435', 'count:0.1365', 'lack:0.1352', 'end:0.132', 'structure:0.1299', 'resolution:0.1202', 'general:0.1187', 'uneven:0.116', 'mukerji:0.1128', 'process:0.1102', 'enjoin:0.1073', 'bucha:0.1066', 'circuit:0.0914', 'price:0.0665', 'week:0.0372']+titles_keywords+['abstains:0.4135', 'india:0.2261', 'suspend:0.2063', 'rights:0.1301', 'general:0.0551']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20211018+../news_crawling/RUS_UKR/p_articles/thehindu.com/Russia suspends its mission to NATO says countrys Foreign Minister.txt+eventbasecode111+eventcode111+avgtone0.49652777777777773+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['nato:0.4699', 'moscow:0.4641', 'crimean:0.3682', 'embassy:0.3063', 'lavrov:0.3046', 'annex:0.2803', 'mission:0.2171', 'expulsion:0.2104', 'liaison:0.2078', 'contact:0.1906', 'cooperation:0.1898', 'action:0.1608', 'work:0.144', 'ship:0.1292', 'week:0.1258', 'information:0.1155', 'open:0.1129', 'permanent:0.1051', 'western:0.0903', 'aerial:0.0849', 'say:0.0756', 'halve:0.0688', 'size:0.0497', 'condition:0.0432', 'odds:0.043', 'member:0.0378', 'practically:0.0354', 'include:0.0298', 'leafy:0.0275', 'probably:0.0107']+titles_keywords+['nato:0.4068', 'suspends:0.218', 'mission:0.201', 'minister:0.1487', 'says:0.0586']"
+        ]
+    ]
+}

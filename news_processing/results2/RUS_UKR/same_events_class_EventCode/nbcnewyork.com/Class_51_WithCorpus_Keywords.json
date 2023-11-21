@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+51":[
+        [
+            "20220618+../news_crawling/RUS_UKR/p_articles/nbcnewyork.com/Latest on Ukraine Boris Johnson Stresses the Need to Avoid Ukraine Fatigue.txt+eventbasecode51+eventcode51+avgtone0.4948186528497409+goldsteinscale0.67+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['ukraine:0.5338', 'kremlin:0.3568', 'boris:0.2992', 'government:0.2399', 'strategic:0.2391', 'macron:0.2371', 'volodymyr:0.2076', 'status:0.1692', 'long:0.1652', 'soldier:0.1562', 'telegram:0.1551', 'bloc:0.1543', 'visit:0.1533', 'training:0.1501', 'industrial:0.147', 'friday:0.1423', 'rally:0.1401', 'fight:0.1325', 'expect:0.1283', 'worry:0.1253', 'approve:0.1175', 'accession:0.1079', 'bit:0.1078', 'surround:0.0984', 'deeper:0.0972', 'chancellor:0.095', 'times:0.0903', 'men:0.088', 'nearly:0.0868', 'prime:0.0854']+titles_keywords+['fatigue:0.4032', 'ukraine:0.3958', 'boris:0.3356', 'avoid:0.0827', 'latest:0.0706']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20211117+../news_crawling/RUS_UKR/p_articles/nbcnewyork.com/Austin Moscow Should Explain Its Troop Buildup Near Ukraine.txt+eventbasecode51+eventcode51+avgtone0.47489082969432317+goldsteinscale0.67+nummentions0.035921625544267054+numarticles0.03662073966642494+numsources0.05263157894736842+news_keywords+['putin:0.4619', 'moscows:0.4245', 'crimean:0.4241', 'nato:0.3752', 'annexation:0.3351', 'pentagon:0.3165', 'orbit:0.2958', 'strategic:0.2694', 'concern:0.2479', 'attention:0.2455', 'deploy:0.2344', 'erupt:0.232', 'know:0.2278', 'debris:0.2134', 'news:0.1853', 'term:0.1846', 'buildup:0.1703', 'secretary:0.1678', 'forward:0.1674', 'shortly:0.1603', 'continue:0.1527', 'austin:0.146', 'exactly:0.1451', 'long:0.1333', 'field:0.1263', 'mr:0.1218', 'parameter:0.1181', 'test:0.097', 'antony:0.0939', 'thatll:0.0793']+titles_keywords+['moscow:0.5637', 'troop:0.3562', 'austin:0.3468', 'explain:0.1994', 'buildup:0.1661']"
+        ]
+    ]
+}

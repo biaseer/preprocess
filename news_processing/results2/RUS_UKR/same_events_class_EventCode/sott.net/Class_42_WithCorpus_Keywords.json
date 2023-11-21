@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+42":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/sott.net/France threatens to cause the collapse of the Russian economy.txt+eventbasecode42+eventcode42+avgtone0.4700460829493088+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4252', 'france:0.3537', 'genocide:0.327', 'sanction:0.3269', 'kiev:0.294', 'oligarchs:0.2919', 'threaten:0.281', 'eu:0.2655', 'nazify:0.2623', 'economy:0.2572', 'ruble:0.2537', 'militarily:0.2333', 'justification:0.2202', 'concern:0.2107', 'occupy:0.2062', 'nebenzya:0.1789', 'subject:0.1769', 'reiterating:0.1748', 'fuentesreutersbruno:0.1583', 'plan:0.1476', 'come:0.1318', 'exchange:0.1278', 'divulge:0.1251', 'make:0.1212', 'list:0.1136', 'good:0.1133', 'week:0.0929', 'arm:0.0783', 'float:0.0766', 'total:0.0697']+titles_keywords+['france:0.3366', 'russian:0.3308', 'economy:0.3249', 'collapse:0.2528', 'threatens:0.1907']"
+        ]
+    ],
+    "UKR+RUS+42":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/sott.net/FM Lavrov West waging total hybrid war on Russia.txt+eventbasecode42+eventcode42+avgtone0.4728915662650603+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['diplomacy:0.4319', 'ukraine:0.3847', 'lavrov:0.312', 'federation:0.2926', 'economy:0.2414', 'sputnik:0.2296', 'crisis:0.198', 'destroy:0.1901', 'isolate:0.1829', 'form:0.1789', 'term:0.1738', 'western:0.1709', 'accuse:0.1688', 'ally:0.1637', 'end:0.1539', 'hybrid:0.1449', 'relation:0.1427', 'world:0.1373', 'explicitly:0.1368', 'crude:0.1358', 'seek:0.1309', 'trade:0.1217', 'state:0.116', 'recent:0.1101', 'come:0.1074', 'include:0.094', 'effect:0.0939', 'real:0.0862', 'total:0.0808', 'scale:0.0683']+titles_keywords+['lavrov:0.5033', 'war:0.3812', 'russia:0.3768', 'fm:0.2556', 'hybrid:0.2186']"
+        ]
+    ]
+}

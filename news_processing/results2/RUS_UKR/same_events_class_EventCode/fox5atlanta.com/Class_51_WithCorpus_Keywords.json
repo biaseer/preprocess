@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/fox5atlanta.com/Amid Ukraine invasion Pink Floyd David Gilmour remove music from streaming platforms in Russia and.txt+eventbasecode51+eventcode51+avgtone0.4781879194630873+goldsteinscale0.67+nummentions0.10304789550072568+numarticles0.10369833212472807+numsources0.14802631578947367+news_keywords+['putin:0.4215', 'discography:0.3657', 'ceasefire:0.3613', 'gilmour:0.3355', 'band:0.3187', 'invasion:0.3084', 'floyd:0.2946', 'roger:0.2731', 'alsocondemnedrussia:0.2315', 'waters:0.1923', 'sign:0.1878', 'hear:0.1821', 'terms:0.1668', 'news:0.155', 'detained:0.1494', 'privacy:0.146', 'world:0.1438', 'rattle:0.1386', 'lapse:0.126', 'pink:0.1206', 'agreeto:0.1141', 'post:0.114', 'end:0.1133', 'momentary:0.1128', 'reason:0.1111', 'mistake:0.111', 'state:0.0971', 'harder:0.0823', 'beautiful:0.0785', 'today:0.0744']+titles_keywords+['gilmour:0.3407', 'music:0.3148', 'russia:0.2981', 'invasion:0.2474', 'remove:0.2052']"
+        ]
+    ],
+    "TUR+UKR+51":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/fox5atlanta.com/Georgia bar pours out all Russian vodka following invasion of Ukraine.txt+eventbasecode51+eventcode51+avgtone0.49440298507462693+goldsteinscale0.67+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.013157894736842105+news_keywords+['ukraine:0.491', 'vodka:0.4536', 'boycott:0.3656', 'invasion:0.3616', 'thompson:0.2602', 'veterans:0.2556', 'congressman:0.2483', 'atlanta:0.222', 'bar:0.2151', 'nuclear:0.2092', 'business:0.199', 'sign:0.1968', 'pours:0.1949', 'happen:0.1912', 'change:0.1906', 'read:0.1869', 'action:0.1846', 'drain:0.1811', 'ellen:0.1744', 'buy:0.1723', 'mcdonald:0.1689', 'word:0.1674', 'gsegner:0.1652', 'smyrna:0.1637', 'weapon:0.1412', 'like:0.1369', 'owner:0.1281', 'color:0.1221', 'confirmthat:0.0913', 'man:0.0803']+titles_keywords+['vodka:0.53', 'georgia:0.3365', 'bar:0.2701', 'invasion:0.2114', 'pours:0.1456']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/fox5atlanta.com/Ghost of Kyiv fighter pilot is a myth Ukraines air force says.txt+eventbasecode51+eventcode51+avgtone0.4957627118644068+goldsteinscale0.67+nummentions0.018142235123367198+numarticles0.01885424220449601+numsources0.02631578947368421+news_keywords+['kyiv:0.5046', 'ukrainians:0.4387', 'ghost:0.3621', 'poroshenko:0.3566', 'tarabalka:0.3483', 'military:0.3081', 'plane:0.2702', 'oligarchs:0.2651', 'anonymous:0.2642', 'alive:0.2357', 'ace:0.2201', 'real:0.2155', 'unrelated:0.2098', 'supposedly:0.1842', 'leader:0.1807', 'story:0.1762', 'information:0.1716', 'shoot:0.1713', 'confirmthat:0.1597', 'uaf:0.1584', 'publish:0.1564', 'footage:0.1522', 'outlet:0.1511', 'moniker:0.1474', 'embodies:0.1349', 'friday:0.1349', 'major:0.1275', 'year:0.1168', 'increase:0.1112', 'rightly:0.0959']+titles_keywords+['kyiv:0.4268', 'ghost:0.3787', 'myth:0.3338', 'pilot:0.2971', 'says:0.0915']"
+        ]
+    ]
+}

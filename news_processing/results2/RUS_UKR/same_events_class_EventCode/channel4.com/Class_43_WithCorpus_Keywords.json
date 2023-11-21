@@ -1,0 +1,12 @@
+{
+    "MDA+RUS+43":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/channel4.com/Ukraine Russia conflict Moldova prepares for second wave of refugees fleeing war.txt+eventbasecode43+eventcode43+avgtone0.44767441860465096+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.6015', 'moldova:0.5497', 'russia:0.52', 'refugee:0.4535', 'war:0.4144', 'russian:0.3975', 'flee:0.3204', 'country:0.3065', 'exodus:0.3006', 'europes:0.2446', 'place:0.2102', 'government:0.2063', 'volunteer:0.1943', 'people:0.1881', 'left:0.1806', 'begin:0.1696', 'neighbour:0.1673', 'south:0.1656', 'strain:0.1487', 'wave:0.1408', 'state:0.1377', 'poor:0.1301', 'prepare:0.1286', 'second:0.1243', 'say:0.1002', 'million:0.0963', 'head:0.0831', 'offensive:0.0765', 'welcome:0.0514', 'network:0.0496']+titles_keywords+['moldova:0.4974', 'refugees:0.4621', 'fleeing:0.2894', 'conflict:0.2497', 'prepares:0.0636']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220801+../news_crawling/RUS_UKR/p_articles/channel4.com/Ukraine war Grain ship leaves Odesa for first time since Russia blockade.txt+eventbasecode43+eventcode43+avgtone0.4854368932038835+goldsteinscale0.64+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['blockade:0.4312', 'ukraine:0.4217', 'tripoli:0.4045', 'odesa:0.352', 'istanbul:0.3444', 'ship:0.3392', 'war:0.2934', 'port:0.2853', 'grain:0.2775', 'lebanese:0.2728', 'razoni:0.264', 'destination:0.2619', 'strike:0.2233', 'passage:0.1984', 'safe:0.1922', 'undergo:0.1831', 'leave:0.1721', 'reach:0.1532', 'load:0.1528', 'month:0.1505', 'morning:0.1343', 'set:0.1296', 'tomorrow:0.1289', 'able:0.1211', 'check:0.1205', 'black:0.1195', 'deal:0.1063', 'like:0.0911', 'stick:0.0795', 'official:0.0703']+titles_keywords+['ukraine:0.368', 'blockade:0.3455', 'odesa:0.3101', 'ship:0.2816', 'grain:0.2385']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+172":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/newsweek.com/Russia Blocks Facebook Twitter Amid Crackdown on What It Calls Dissent.txt+eventbasecode172+eventcode172+avgtone0.446969696969697+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['russia:0.4497', 'news:0.3269', 'facebook:0.316', 'roskomnadzor:0.3102', 'ban:0.3087', 'restrict:0.2546', 'dissent:0.2447', 'sputnik:0.2414', 'halted:0.2358', 'bbc:0.2358', 'rt:0.234', 'blocks:0.2302', 'tweet:0.2287', 'platform:0.2215', 'legislation:0.2156', 'false:0.2043', 'safe:0.1514', 'attempt:0.1447', 'military:0.1384', 'administrator:0.127', 'engage:0.122', 'saturday:0.1106', 'explain:0.1094', 'throttle:0.1059', 'free:0.1042', 'make:0.0924', 'way:0.0898', 'tens:0.0859', 'ordinary:0.0827', 'clegg:0.074']+titles_keywords+['russia:0.3489', 'facebook:0.3409', 'dissent:0.232', 'crackdown:0.1854', 'blocks:0.1665']"
+        ]
+    ],
+    "UKR+RUS+172":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/newsweek.com/Competition Bans for Russia Run From Cat Shows to Gymnastics as List Grows.txt+eventbasecode172+eventcode172+avgtone0.4869565217391304+goldsteinscale0.25+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.009868421052631578+news_keywords+['belarus:0.4926', 'gymnastics:0.4608', 'ukrainians:0.4133', 'bans:0.3266', 'competition:0.2869', 'event:0.2792', 'invasion:0.2613', 'politicize:0.2487', 'federation:0.2473', 'qualify:0.2404', 'nbc:0.2386', 'committee:0.2356', 'import:0.2312', 'report:0.2097', 'cat:0.2088', 'unprecedented:0.2057', 'world:0.1996', 'begin:0.194', 'extend:0.1915', 'discus:0.1913', 'board:0.1823', 'range:0.1743', 'flee:0.1658', 'list:0.1654', 'form:0.1616', 'neutral:0.1477', 'winter:0.1446', 'official:0.1331', 'similar:0.0759', 'absolutely:0.0713']+titles_keywords+['gymnastics:0.473', 'bans:0.4004', 'russia:0.3783', 'list:0.2256', 'cat:0.1486']"
+        ]
+    ],
+    "USA+RUS+172":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/newsweek.com/Elon Musk Says Starlink Wont Block Russian News Unless at Gunpoint.txt+eventbasecode172+eventcode172+avgtone0.4862579281183932+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['satellite:0.4319', 'ukraine:0.4075', 'starlink:0.371', 'sputnik:0.354', 'putin:0.3494', 'news:0.308', 'disruption:0.3027', 'connectivity:0.2988', 'google:0.2409', 'bypass:0.2358', 'tesla:0.226', 'globe:0.2234', 'launch:0.2216', 'cyber:0.2197', 'support:0.2157', 'military:0.2156', 'rt:0.2138', 'terminals:0.2069', 'arrive:0.1952', 'warn:0.1765', 'important:0.1582', 'enable:0.1386', 'wont:0.1375', 'possible:0.1288', 'says:0.1191', 'completely:0.1182', 'unless:0.1088', 'february:0.104', 'free:0.0979', 'state:0.0928']+titles_keywords+['musk:0.4139', 'starlink:0.3485', 'russian:0.2872', 'news:0.2623', 'wont:0.1871']"
+        ]
+    ]
+}

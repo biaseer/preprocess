@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/nbcbayarea.com/MAP See Where Ukraine Has Been Attacked So Far After Russia Launches Invasion.txt+eventbasecode190+eventcode190+avgtone0.48369565217391297+goldsteinscale0.0+nummentions0.09216255442670537+numarticles0.08484408992023205+numsources0.19078947368421054+news_keywords+['ukraine:0.502', 'chernobyl:0.389', 'attack:0.2928', 'annex:0.2576', 'military:0.2452', 'radioactive:0.2232', 'crisis:0.2167', 'tank:0.1996', 'separatist:0.1962', 'news:0.1926', 'border:0.1872', 'northeast:0.1758', 'order:0.1695', 'report:0.1622', 'checkpoint:0.1546', 'intense:0.1546', 'begin:0.1512', 'surround:0.1422', 'launches:0.1353', 'thevilcha:0.1316', 'run:0.1251', 'later:0.1206', 'repository:0.1179', 'ap:0.1155', 'live:0.1143', 'control:0.1139', 'increase:0.1084', 'volodymyrsaid:0.0916', 'dozen:0.0868', 'feb:0.0839']+titles_keywords+['ukraine:0.4992', 'map:0.3316', 'invasion:0.3109', 'launches:0.1284', 'far:0.0733']"
+        ],
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/nbcbayarea.com/Russia Claims Control of Pivotal Eastern Ukrainian City.txt+eventbasecode190+eventcode190+avgtone0.48128342245989303+goldsteinscale0.0+nummentions0.0867198838896952+numarticles0.0873821609862219+numsources0.21052631578947367+news_keywords+['kyiv:0.4877', 'putin:0.3536', 'russias:0.3498', 'war:0.2946', 'occupy:0.2547', 'separatist:0.2489', 'prevail:0.2369', 'engage:0.2232', 'advance:0.2231', 'northern:0.2055', 'sievierodonetsk:0.2003', 'donbas:0.1994', 'grab:0.1986', 'publish:0.1984', 'tetkino:0.1838', 'term:0.1772', 'governor:0.1767', 'dictate:0.169', 'dangerous:0.1622', 'citing:0.1613', 'fled:0.1559', 'alongside:0.1534', 'focus:0.1518', 'say:0.1447', 'complete:0.144', 'significant:0.1395', 'promise:0.1384', 'mortar:0.1324', 'characterize:0.1262', 'week:0.0868']+titles_keywords+['ukrainian:0.4332', 'city:0.2406', 'control:0.1782', 'claims:0.1181', 'pivotal:0.102']"
+        ]
+    ]
+}

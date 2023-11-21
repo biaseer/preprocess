@@ -1,0 +1,22 @@
+{
+    "GBR+RUS+42":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/bangkokpost.com/Putin hails liberation of Mariupol cancels plans to storm steel plant.txt+eventbasecode42+eventcode42+avgtone0.48251748251748255+goldsteinscale0.595+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kremlin:0.4608', 'ukraine:0.447', 'blockade:0.3741', 'sergei:0.372', 'storm:0.2933', 'nationalist:0.2903', 'operation:0.2731', 'industrial:0.2724', 'surrender:0.2721', 'troop:0.2535', 'reuters:0.251', 'plan:0.2192', 'order:0.2152', 'read:0.2107', 'president:0.2011', 'instead:0.194', 'dangerous:0.1838', 'continue:0.1752', 'sign:0.1742', 'shoigu:0.1616', 'plant:0.1554', 'televise:0.153', 'capability:0.1505', 'area:0.1443', 'crawl:0.141', 'degrade:0.1365', 'hermetically:0.1346', 'feb:0.121', 'pas:0.1199', 'apart:0.1185']+titles_keywords+['putin:0.4434', 'mariupol:0.3696', 'steel:0.3138', 'liberation:0.2299', 'hails:0.1936']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/bangkokpost.com/Russian troops land in Ukraines second city Kharkiv.txt+eventbasecode42+eventcode42+avgtone0.4695407685098407+goldsteinscale0.595+nummentions0.08055152394775036+numarticles0.08049311094996374+numsources0.20723684210526316+news_keywords+['kyiv:0.4707', 'putin:0.4327', 'invade:0.393', 'escalation:0.3336', 'news:0.3079', 'military:0.2701', 'alert:0.2678', 'telegram:0.2611', 'unprovoked:0.2569', 'underway:0.2553', 'butyak:0.2402', 'boycotts:0.2395', 'cite:0.2386', 'victory:0.2333', 'order:0.2319', 'fear:0.2015', 'tuesday:0.1994', 'repeat:0.1949', 'equities:0.1918', 'big:0.1877', 'world:0.1869', 'comparison:0.1836', 'speak:0.1772', 'isolate:0.1716', 'northern:0.1631', 'barrel:0.1461', 'ria:0.1434', 'freeze:0.1421', 'kilometres:0.1268', 'largely:0.0871']+titles_keywords+['kharkiv:0.4603', 'ukraines:0.3859', 'troops:0.2312', 'second:0.1509', 'land:0.1195']"
+        ]
+    ],
+    "UKR+NLD+42":[
+        [
+            "20211220+../news_crawling/RUS_UKR/p_articles/bangkokpost.com/Jail sentences demanded for Russians suspected of downing Malaysian plane.txt+eventbasecode42+eventcode42+avgtone0.449532710280374+goldsteinscale0.595+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['indictment:0.4537', 'ukraine:0.435', 'kremlin:0.4252', 'murder:0.3827', 'hague:0.3714', 'oleg:0.3625', 'victim:0.3346', 'absentia:0.3322', 'pulatov:0.2928', 'kuala:0.2758', 'spy:0.2684', 'boeing:0.2641', 'missile:0.25', 'invasion:0.2405', 'separatist:0.2311', 'know:0.2155', 'tension:0.2094', 'sentence:0.209', 'biden:0.1951', 'evidence:0.192', 'expect:0.1743', 'historical:0.1721', 'come:0.1644', 'buk:0.1611', 'set:0.1599', 'soar:0.1498', 'strew:0.1447', 'link:0.1398', 'mh:0.1177', 'hearing:0.1003']+titles_keywords+['russians:0.3674', 'jail:0.284', 'plane:0.1879', 'downing:0.1035', 'demanded:0.0517']"
+        ]
+    ],
+    "UKR+POL+42":[
+        [
+            "20220621+../news_crawling/RUS_UKR/p_articles/bangkokpost.com/Ben Stiller tells of harrowing stories from Ukraine visit.txt+eventbasecode42+eventcode42+avgtone0.4871794871794872+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['kyiv:0.4549', 'war:0.3998', 'refugee:0.3666', 'unhcr:0.3038', 'lebanon:0.2902', 'hear:0.2805', 'resilience:0.2792', 'traumatised:0.2765', 'stiller:0.2665', 'harrow:0.2616', 'visit:0.247', 'relate:0.2404', 'important:0.2224', 'hero:0.2123', 'story:0.2101', 'afp:0.2085', 'world:0.2019', 'realise:0.1962', 'surprise:0.1954', 'director:0.1887', 'effect:0.188', 'stage:0.1868', 'forward:0.1835', 'house:0.1833', 'zoolander:0.1753', 'like:0.1495', 'end:0.1233', 'million:0.1027', 'young:0.0943', 'hopefully:0.0809']+titles_keywords+['stiller:0.5018', 'ukraine:0.3494', 'stories:0.3131', 'harrowing:0.2773', 'ben:0.1886']"
+        ]
+    ]
+}

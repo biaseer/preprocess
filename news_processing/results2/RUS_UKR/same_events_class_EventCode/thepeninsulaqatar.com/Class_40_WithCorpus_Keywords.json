@@ -1,0 +1,15 @@
+{
+    "HUN+RUS+40":[
+        [
+            "20210831+../news_crawling/RUS_UKR/p_articles/thepeninsulaqatar.com/EU will suspend agreement with Russia that eases visa issuance.txt+eventbasecode40+eventcode40+avgtone0.49475524475524474+goldsteinscale0.55+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.3949', 'budapest:0.3126', 'visa:0.2884', 'ban:0.2651', 'gazprom:0.2642', 'turkstream:0.218', 'reutersfile:0.2177', 'szijjarto:0.176', 'war:0.1638', 'gas:0.1616', 'term:0.1268', 'increase:0.1237', 'oppose:0.1223', 'majority:0.1202', 'august:0.1102', 'peer:0.108', 'photo:0.1032', 'general:0.0986', 'deal:0.096', 'long:0.091', 'blanket:0.0836', 'counter:0.0808', 'gesture:0.0773', 'ease:0.0683', 'include:0.0629', 'start:0.0599', 'daily:0.0592', 'agree:0.0551', 'deliver:0.0483', 'thyspool:0.0418']+titles_keywords+['russia:0.285', 'visa:0.2611', 'suspend:0.2008', 'agreement:0.1668', 'eases:0.0939']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/thepeninsulaqatar.com/Ukraine says Russian forces seize Zaporizhzhia nuclear plant.txt+eventbasecode40+eventcode40+avgtone0.49375+goldsteinscale0.55+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.023026315789473683+news_keywords+['ukraine:0.4532', 'nuclear:0.4523', 'zaporizhzhya:0.4123', 'surveillance:0.2386', 'military:0.2352', 'reuters:0.2335', 'operational:0.2158', 'emergency:0.2078', 'facility:0.2038', 'power:0.1972', 'plant:0.1712', 'attack:0.1708', 'seize:0.164', 'flare:0.1622', 'granholm:0.1602', 'safely:0.1506', 'enerhodar:0.1262', 'reading:0.1112', 'story:0.1105', 'secretary:0.1034', 'near:0.1034', 'screengrab:0.102', 'video:0.0973', 'thursday:0.0929', 'speak:0.0925', 'state:0.0887', 'condition:0.0842', 'set:0.0837', 'shell:0.0742', 'npp:0.0727']+titles_keywords+['zaporizhzhia:0.4148', 'ukraine:0.4088', 'nuclear:0.3072', 'seize:0.2118', 'says:0.068']"
+        ],
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/thepeninsulaqatar.com/Ukraine prepared to discuss neutrality status Zelenskiy tells Russian journalists.txt+eventbasecode40+eventcode40+avgtone0.47904191616766467+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.4985', 'demilitarisation:0.3163', 'neutrality:0.314', 'war:0.2671', 'prepare:0.262', 'nuclear:0.2341', 'zelenskiy:0.2298', 'referendum:0.2295', 'journalist:0.2048', 'talk:0.2021', 'warn:0.1952', 'presidential:0.1838', 'status:0.1691', 'march:0.1524', 'attention:0.1504', 'pre:0.1279', 'refrain:0.1266', 'authority:0.1257', 'continue:0.1029', 'emptively:0.1', 'point:0.0791', 'party:0.0776', 'press:0.0716', 'deal:0.0642', 'address:0.0611', 'worse:0.0516', 'guarantee:0.0471', 'video:0.0428', 'servicehandout:0.0341', 'adopt:0.0207']+titles_keywords+['zelenskiy:0.4039', 'ukraine:0.3806', 'neutrality:0.2569', 'journalists:0.2129', 'prepared:0.1379']"
+        ]
+    ]
+}

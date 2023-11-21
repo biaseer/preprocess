@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/thedenverchannel.com/Mileslong Russian military convoy inches toward Kyiv.txt+eventbasecode180+eventcode180+avgtone0.4829268292682927+goldsteinscale0.05+nummentions0.026124818577648767+numarticles0.026831036983321246+numsources0.023026315789473683+news_keywords+['kyiv:0.5328', 'belarus:0.3957', 'russian:0.3745', 'convoy:0.3313', 'military:0.3116', 'invasion:0.2777', 'artillery:0.2661', 'zhyvytskyy:0.2635', 'tank:0.2303', 'dmytro:0.2035', 'cnn:0.1912', 'fighting:0.1845', 'underground:0.1828', 'intensify:0.1815', 'shelter:0.1811', 'kill:0.1553', 'report:0.1531', 'politico:0.1517', 'continue:0.1334', 'child:0.1332', 'huddle:0.1321', 'closer:0.1246', 'long:0.1237', 'come:0.1236', 'second:0.0948', 'resident:0.0852', 'story:0.0784', 'build:0.0766', 'thousand:0.0645', 'surprisingly:0.0514']+titles_keywords+['kyiv:0.464', 'convoy:0.4387', 'russian:0.321', 'mileslong:0.2561', 'military:0.2197']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/thedenverchannel.com/21 dead in Kharkiv as Russia continues to batter Ukraines secondlargest city.txt+eventbasecode180+eventcode180+avgtone0.46840148698884754+goldsteinscale0.05+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.019736842105263157+news_keywords+['kyiv:0.5365', 'stalingrad:0.4792', 'ukraines:0.4463', 'russian:0.3992', 'putin:0.3944', 'bombardment:0.3573', 'zelenskyy:0.3372', 'war:0.3259', 'terror:0.294', 'sinehubov:0.2725', 'kill:0.2703', 'casualty:0.2601', 'tank:0.2538', 'warn:0.2252', 'news:0.207', 'street:0.1781', 'people:0.1507', 'day:0.1503', 'building:0.1333', 'advance:0.1256', 'near:0.1215', 'toll:0.121', 'video:0.1198', 'resume:0.1194', 'large:0.0992', 'ready:0.0929', 'state:0.0915', 'include:0.07', 'price:0.0666', 'blatant:0.0544']+titles_keywords+['kharkiv:0.4197', 'ukraines:0.4139', 'dead:0.2056', '21:0.1532', 'batter:0.1115']"
+        ]
+    ]
+}

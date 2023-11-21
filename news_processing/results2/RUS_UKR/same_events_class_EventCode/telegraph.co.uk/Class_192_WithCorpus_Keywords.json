@@ -1,0 +1,21 @@
+{
+    "RUS+TUR+192":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/If he captures Odessa Putin will dominate the Black Sea.txt+eventbasecode192+eventcode192+avgtone0.5079505300353356+goldsteinscale0.025+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['odessa:0.5394', 'crimean:0.4975', 'constantinople:0.4812', 'tsar:0.4778', 'ukraines:0.3538', 'eurasia:0.3464', 'history:0.2884', 'conquests:0.2744', 'extend:0.2493', 'erdogan:0.2474', 'transnistria:0.2353', 'strategic:0.2195', 'remain:0.2161', 'significance:0.1914', 'know:0.1903', 'seek:0.189', 'wealthy:0.1864', 'proletariat:0.1703', 'writer:0.1633', 'return:0.1608', 'include:0.1564', 'population:0.1424', 'centre:0.1423', 'end:0.131', 'flow:0.1244', 'idea:0.1169', 'export:0.0872', 'slice:0.0808', 'twentieth:0.0683', 'resonance:0.0333']+titles_keywords+['putin:0.4984', 'odessa:0.4169', 'sea:0.2924', 'dominate:0.2622', 'black:0.1183']"
+        ]
+    ],
+    "RUS+UKR+192":[
+        [],
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Ukrainians block roads leading to Europes largest nuclear power plant.txt+eventbasecode192+eventcode192+avgtone0.4713375796178344+goldsteinscale0.025+nummentions0.027939042089985485+numarticles0.02864394488759971+numsources0.04276315789473684+news_keywords+['chernobyl:0.5608', 'nuclear:0.4302', 'ukraines:0.428', 'disaster:0.3134', 'decommission:0.2831', 'zaporizhzhia:0.2775', 'risk:0.2447', 'warn:0.2438', 'concerned:0.2326', 'roadblock:0.2321', 'coordinating:0.2236', 'generator:0.2213', 'iaea:0.2201', 'military:0.2131', 'lorries:0.2124', 'locate:0.1996', 'prepare:0.1939', 'bypass:0.1853', 'brink:0.182', 'watchdog:0.1666', 'plant:0.1614', 'world:0.1576', 'know:0.1575', 'immediate:0.1548', 'seize:0.1415', 'main:0.1293', 'increase:0.1221', 'programme:0.1209', 'pictures:0.1156', 'eighties:0.0689']+titles_keywords+['ukrainians:0.3837', 'nuclear:0.3561', 'roads:0.2934', 'block:0.1863', 'largest:0.1184']"
+        ],
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Vladimir Putin poised to declare allout war on Ukraine.txt+eventbasecode192+eventcode192+avgtone0.4776376146788991+goldsteinscale0.025+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['putin:0.5358', 'kyiv:0.3823', 'russias:0.3777', 'strategic:0.3189', 'treaty:0.2982', 'mobilisation:0.2793', 'economy:0.2666', 'separatist:0.2596', 'erupt:0.2591', 'adviser:0.2529', 'telegraph:0.2439', 'reservist:0.2416', 'fraught:0.2185', 'know:0.208', 'deflect:0.1928', 'order:0.1893', 'declare:0.1874', 'cabinet:0.1869', 'idea:0.1851', 'word:0.1838', 'accordingly:0.1833', 'precursor:0.1826', 'general:0.182', 'end:0.179', 'grow:0.1766', 'long:0.162', 'switch:0.1611', 'january:0.1489', 'decade:0.118', 'swathe:0.0979']+titles_keywords+['putin:0.4715', 'war:0.3537', 'declare:0.206', 'poised:0.1819', 'allout:0.1496']"
+        ]
+    ],
+    "WST+UKR+192":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Natos united front is crumbling now that Putin has been humiliated in Ukraine.txt+eventbasecode192+eventcode192+avgtone0.4849527085124678+goldsteinscale0.025+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['natos:0.4975', 'putin:0.4916', 'ukrainians:0.3699', 'war:0.3335', 'blockade:0.2622', 'approach:0.2522', 'arrangement:0.2311', 'fractious:0.2309', 'remain:0.2228', 'diverge:0.2226', 'turn:0.2191', 'ally:0.2089', 'tank:0.2019', 'blunder:0.1859', 'western:0.1785', 'foresaw:0.1751', 'prolong:0.1726', 'book:0.1691', 'reminder:0.167', 'end:0.1636', 'pas:0.1599', 'theory:0.1599', 'firstly:0.1558', 'perfect:0.139', 'say:0.1295', 'unclear:0.1248', 'import:0.1144', 'decade:0.1113', 'true:0.0953', 'does:0.084']+titles_keywords+['natos:0.5955', 'putin:0.3906', 'crumbling:0.3141', 'humiliated:0.2225', 'united:0.2196']"
+        ]
+    ]
+}

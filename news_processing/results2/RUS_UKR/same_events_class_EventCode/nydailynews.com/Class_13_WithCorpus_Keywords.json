@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+13":[
+        [
+            "20220728+../news_crawling/RUS_UKR/p_articles/nydailynews.com/Russia attacks Kyiv area for the first time in weeks.txt+eventbasecode13+eventcode13+avgtone0.48476052249637164+goldsteinscale0.52+nummentions0.22387518142235124+numarticles0.22443799854967367+numsources0.48355263157894735+news_keywords+['kyiv:0.5578', 'ukraines:0.4798', 'kremlin:0.4372', 'zelenskyy:0.3394', 'counterattack:0.299', 'military:0.2805', 'separatist:0.2575', 'operation:0.257', 'casualty:0.2337', 'remind:0.2217', 'occupied:0.2171', 'history:0.2114', 'organize:0.2041', 'continue:0.203', 'intensify:0.1907', 'supply:0.1815', 'telegram:0.1769', 'report:0.1766', 'shoot:0.1702', 'north:0.1633', 'long:0.1629', 'kilometer:0.1615', 'day:0.1478', 'state:0.1432', 'analyst:0.1399', 'second:0.1385', 'focus:0.1371', 'precisely:0.1132', 'denis:0.1078', 'new:0.1065']+titles_keywords+['kyiv:0.5433', 'russia:0.275', 'attacks:0.2399', 'weeks:0.1078', 'area:0.0625']"
+        ]
+    ],
+    "UKR+RUS+13":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/nydailynews.com/Ukrainian rescuers search theater rubble as Russian attacks continue.txt+eventbasecode13+eventcode13+avgtone0.4709543568464731+goldsteinscale0.52+nummentions0.04898403483309144+numarticles0.049673676577229875+numsources0.06907894736842106+news_keywords+['kyiv:0.5288', 'kremlin:0.4789', 'stalinist:0.4233', 'nato:0.353', 'bombardment:0.3428', 'refugee:0.3172', 'unprovoked:0.281', 'unrest:0.2778', 'emergency:0.2616', 'kill:0.2574', 'theater:0.2509', 'sitov:0.24', 'plane:0.2202', 'report:0.2178', 'subject:0.2108', 'column:0.2066', 'telegram:0.1962', 'anonymity:0.1886', 'progress:0.1796', 'regional:0.1757', 'scar:0.1749', 'snow:0.1657', 'building:0.1656', 'understand:0.1528', 'word:0.142', 'hundreds:0.1297', 'reminiscent:0.1237', 'grow:0.1235', 'distinguish:0.1208', 'true:0.1096']+titles_keywords+['ukrainian:0.3444', 'rubble:0.3189', 'rescuers:0.2748', 'search:0.2576', 'attacks:0.1824']"
+        ]
+    ]
+}

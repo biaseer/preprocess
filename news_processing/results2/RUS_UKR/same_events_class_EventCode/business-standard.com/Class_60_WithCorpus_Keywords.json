@@ -1,0 +1,20 @@
+{
+    "CHN+RUS+60":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/business-standard.com/TMSEp183 PLI challenges IPL media rights falling rupee wheat export ban.txt+eventbasecode60+eventcode60+avgtone0.4961013645224172+goldsteinscale0.8+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ipl:0.4616', 'india:0.4306', 'rupee:0.385', 'markets:0.3523', 'employment:0.2675', 'pli:0.2577', 'foxconn:0.2459', 'sector:0.2351', 'fall:0.2309', 'upcoming:0.208', 'outflow:0.2055', 'benefit:0.2023', 'index:0.2012', 'scheme:0.2009', 'import:0.2', 'flagship:0.1977', 'pandemic:0.1962', 'depreciate:0.1897', 'halt:0.1861', 'wheat:0.1608', 'reason:0.1604', 'long:0.1545', 'viewership:0.1515', 'dependence:0.1446', 'pursue:0.1438', 'generate:0.1374', 'significant:0.1312', 'tmsep:0.1289', 'podcast:0.1279', 'force:0.0906']+titles_keywords+['ipl:0.4059', 'tmsep183:0.3718', 'pli:0.33', 'wheat:0.288', 'rights:0.202']"
+        ]
+    ],
+    "RUS+UKR+60":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/business-standard.com/Vladimir Putin weighs his next move after recognising Ukraine rebels.txt+eventbasecode60+eventcode60+avgtone0.481433506044905+goldsteinscale0.8+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.555', 'ukraine:0.4988', 'vladimir:0.4401', 'russian:0.3628', 'independence:0.2508', 'president:0.2319', 'standoff:0.2087', 'raise:0.2037', 'rebel:0.1942', 'stake:0.1841', 'region:0.1794', 'country:0.151', 'stop:0.1422', 'east:0.1332', 'recognise:0.1286', 'question:0.109', 'weigh:0.0764', 'deep:0.0632', 'key:0.0494', 'try:0.0206']+titles_keywords+['putin:0.5735', 'ukraine:0.4069', 'rebels:0.2102', 'recognising:0.1656', 'weighs:0.0703']"
+        ],
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/business-standard.com/35 killed in Russian air strike on Ukranian base near Polish border.txt+eventbasecode60+eventcode60+avgtone0.4787705956907478+goldsteinscale0.8+nummentions0.3980406386066763+numarticles0.39847715736040606+numsources0.5855263157894737+news_keywords+['crimea:0.5114', 'kremlin:0.4225', 'airstrikes:0.406', 'nato:0.3944', 'zelenskyy:0.2939', 'polish:0.2932', 'flee:0.2618', 'separatist:0.2577', 'conflict:0.2575', 'know:0.2528', 'headline:0.2369', 'intensify:0.2308', 'help:0.2197', 'sprawl:0.219', 'prepare:0.2129', 'operate:0.2006', 'end:0.1993', 'speak:0.1961', 'table:0.1934', 'corridor:0.1879', 'feed:0.1816', 'like:0.1766', 'pretext:0.1729', 'eastern:0.163', 'fall:0.1626', 'biden:0.1452', 'mile:0.1442', 'irpin:0.1405', 'associated:0.1241', 'widow:0.1133']+titles_keywords+['ukranian:0.3121', 'base:0.2023', 'killed:0.168', 'strike:0.1654', '35:0.1394']"
+        ]
+    ],
+    "UKR+RUS+60":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/business-standard.com/Russia to continue military operation in Ukraine until all goals met.txt+eventbasecode60+eventcode60+avgtone0.5088235294117647+goldsteinscale0.8+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['ukraine:0.4897', 'evacuation:0.4189', 'military:0.3431', 'sergei:0.3383', 'operation:0.3232', 'humanitarian:0.3195', 'treaty:0.2962', 'casualty:0.2204', 'sanction:0.2107', 'regime:0.2049', 'headline:0.1965', 'xinhua:0.193', 'continue:0.1839', 'corridor:0.1674', 'avoid:0.167', 'assistance:0.1634', 'cite:0.1616', 'shoigu:0.1596', 'increase:0.1555', 'silence:0.1523', 'report:0.1486', 'despite:0.1377', 'western:0.1366', 'goal:0.1356', 'rework:0.1166', 'feed:0.1141', 'introduce:0.0976', 'auto:0.0907', 'generate:0.0803', 'large:0.0599']+titles_keywords+['ukraine:0.3531', 'continue:0.2506', 'military:0.2093', 'operation:0.1614', 'goals:0.1298']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/1470wmbd.com/US Speaker Pelosi visits Kyiv Russia says it hit foreign weapons.txt+eventbasecode112+eventcode112+avgtone0.4794117647058823+goldsteinscale0.4+nummentions0.024310595065312045+numarticles0.025018129079042786+numsources0.03618421052631579+news_keywords+['kyiv:0.5049', 'putins:0.3897', 'pelosi:0.3353', 'evacuate:0.2876', 'journalistswriting:0.2744', 'news:0.2707', 'invasion:0.2705', 'military:0.2644', 'presidential:0.2607', 'america:0.2362', 'unprovoked:0.2334', 'prepare:0.2309', 'separatist:0.2298', 'strategic:0.2286', 'speaking:0.2249', 'peace:0.2087', 'supply:0.2008', 'report:0.2004', 'delegation:0.1995', 'fight:0.1994', 'friday:0.1909', 'turn:0.1895', 'continue:0.1702', 'port:0.1356', 'zinets:0.1318', 'ria:0.1304', 'far:0.1247', 'richardson:0.1127', 'send:0.0977', 'dobropillia:0.0948']+titles_keywords+['kyiv:0.428', 'pelosi:0.4083', 'weapons:0.2493', 'hit:0.1501', 'says:0.0537']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20211228+../news_crawling/RUS_UKR/p_articles/1470wmbd.com/US helps Ukraine to strengthen its border with Russia Belarus.txt+eventbasecode112+eventcode112+avgtone0.4740259740259741+goldsteinscale0.4+nummentions0.018142235123367198+numarticles0.01885424220449601+numsources0.023026315789473683+news_keywords+['natos:0.519', 'ukraines:0.5067', 'belarus:0.444', 'kyiv:0.4393', 'border:0.3284', 'treaty:0.3228', 'security:0.2822', 'troop:0.2681', 'attack:0.2613', 'reuters:0.2581', 'ammunition:0.2408', 'escalation:0.2312', 'monitoring:0.2302', 'strengthen:0.215', 'eastward:0.2077', 'finance:0.2073', 'drone:0.1877', 'organization:0.1759', 'project:0.1598', 'continue:0.1584', 'destabilise:0.1534', 'plan:0.1494', 'receive:0.1405', 'join:0.1389', 'include:0.1256', 'video:0.1176', 'near:0.0996', 'million:0.0988', 'possible:0.059', 'say:0.0513']+titles_keywords+['ukraine:0.3968', 'belarus:0.3638', 'border:0.2561', 'strengthen:0.2142', 'helps:0.1342']"
+        ],
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/1470wmbd.com/US to announce 3 billion in new military aid for Ukraine official.txt+eventbasecode112+eventcode112+avgtone0.48353293413173654+goldsteinscale0.4+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.023026315789473683+news_keywords+['ukraine:0.5297', 'kremlin:0.3991', 'military:0.3482', 'demilitarize:0.322', 'weapon:0.31', 'invasion:0.297', 'reuters:0.2795', 'aid:0.2747', 'security:0.2647', 'procure:0.2272', 'president:0.225', 'embassy:0.2237', 'separatist:0.2215', 'announce:0.2141', 'conflict:0.2073', 'zelenskiys:0.2046', 'additional:0.2016', 'stock:0.1936', 'seize:0.1762', 'western:0.1739', 'donbas:0.1728', 'term:0.166', 'billion:0.1583', 'feb:0.1451', 'leave:0.1404', 'type:0.1329', 'grow:0.1084', 'largely:0.0728', 'possible:0.0663', 'leslie:0.0559']+titles_keywords+['ukraine:0.3256', 'aid:0.2671', 'military:0.2103', 'billion:0.1922', 'new:0.0941']"
+        ]
+    ]
+}

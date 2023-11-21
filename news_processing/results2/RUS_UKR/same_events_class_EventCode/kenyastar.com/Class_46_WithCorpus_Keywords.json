@@ -1,0 +1,17 @@
+{
+    "RUS+TUR+46":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/kenyastar.com/Latest Developments in Ukraine March 29.txt+eventbasecode46+eventcode46+avgtone0.48788927335640137+goldsteinscale0.85+nummentions0.024310595065312045+numarticles0.025018129079042786+numsources0.03289473684210526+news_keywords+['ukraine:0.5095', 'negotiation:0.3412', 'istanbul:0.3351', 'hostilities:0.3296', 'peace:0.317', 'hostage:0.2655', 'meeting:0.2628', 'occupy:0.2388', 'developments:0.2199', 'know:0.1671', 'president:0.1617', 'attend:0.1611', 'continue:0.1575', 'tuesday:0.1527', 'report:0.1504', 'representative:0.1497', 'newspaper:0.1408', 'summary:0.1362', 'tank:0.1351', 'civilian:0.1345', 'shoot:0.1264', 'month:0.1262', 'poison:0.1139', 'repel:0.0995', 'story:0.0985', 'confirm:0.0931', 'round:0.092', 'accord:0.0822', 'set:0.0807', 'voa:0.0796']+titles_keywords+['ukraine:0.5428', 'developments:0.3265', 'march:0.3167', 'latest:0.2446', '29:0.1285']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20211207+../news_crawling/RUS_UKR/p_articles/kenyastar.com/Ruble holds strong as US threatens to cut Russia off SWIFT.txt+eventbasecode46+eventcode46+avgtone0.4673913043478261+goldsteinscale0.85+nummentions0.10885341074020319+numarticles0.10949963741841914+numsources0.16447368421052633+news_keywords+['putin:0.4756', 'moscow:0.4369', 'rubles:0.4275', 'threat:0.3555', 'sanction:0.2813', 'bloomberg:0.2804', 'euro:0.2503', 'monday:0.201', 'stock:0.1983', 'strengthen:0.1936', 'report:0.1922', 'speculation:0.1922', 'military:0.1909', 'cite:0.1852', 'event:0.1621', 'plan:0.1602', 'fund:0.1574', 'talk:0.1561', 'swift:0.1517', 'follow:0.1417', 'outlet:0.1322', 'measure:0.1312', 'disconnect:0.1247', 'moex:0.1158', 'greenback:0.1145', 'wide:0.1101', 'reignite:0.1088', 'set:0.106', 'receive:0.0992', 'gmt:0.0912']+titles_keywords+['ruble:0.4739', 'strong:0.3269', 'cut:0.2161', 'swift:0.2155', 'threatens:0.1605']"
+        ]
+    ],
+    "WST+RUS+46":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/kenyastar.com/NATO kept doors open for Russia Clinton.txt+eventbasecode46+eventcode46+avgtone0.4876373626373626+goldsteinscale0.85+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.03618421052631579+news_keywords+['nato:0.5174', 'russia:0.3731', 'yeltsin:0.3703', 'kiev:0.321', 'imperialism:0.276', 'eastward:0.2759', 'bloc:0.2467', 'clinton:0.2297', 'ultranationalist:0.2165', 'unprovoked:0.1996', 'successor:0.1943', 'govern:0.1936', 'neutral:0.1838', 'join:0.1831', 'continue:0.177', 'cite:0.1706', 'security:0.1589', 'breakup:0.1536', 'term:0.1443', 'implement:0.1433', 'agreement:0.1398', 'contradict:0.1322', 'open:0.1312', 'action:0.1284', 'state:0.1238', 'grow:0.1105', 'bolster:0.1085', 'donbass:0.1066', 'purely:0.0945', 'regularize:0.0443']+titles_keywords+['nato:0.5247', 'clinton:0.3445', 'russia:0.2932', 'open:0.2153', 'kept:0.1005']"
+        ]
+    ]
+}

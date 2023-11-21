@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+130":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/bristolpost.co.uk/Bristol expert warns of significant casualties in Russian invasion of Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4673721340388007+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4744', 'nato:0.3966', 'putin:0.3836', 'war:0.353', 'invade:0.352', 'escalation:0.2423', 'foreseeable:0.2383', 'political:0.2279', 'dangerous:0.226', 'prepare:0.2153', 'backfire:0.1716', 'immediate:0.1709', 'ramification:0.1708', 'headline:0.1706', 'introduce:0.1649', 'casualty:0.1577', 'want:0.1487', 'know:0.1442', 'expert:0.142', 'understanding:0.1319', 'long:0.1244', 'tense:0.123', 'endpoint:0.1152', 'issue:0.113', 'feldmann:0.1091', 'counter:0.1057', 'prevent:0.1017', 'coming:0.0986', 'relate:0.0882', 'anytime:0.0219']+titles_keywords+['casualties:0.4109', 'ukraine:0.3713', 'bristol:0.2606', 'warns:0.2306', 'expert:0.1653']"
+        ]
+    ],
+    "GBR+UKR+130":[
+        [
+            "20211130+../news_crawling/RUS_UKR/p_articles/bristolpost.co.uk/UK issues Ukraine warning to Russias Vladimir Putin.txt+eventbasecode130+eventcode130+avgtone0.48863636363636365+goldsteinscale0.27999999999999997+nummentions0.03483309143686502+numarticles0.03553299492385787+numsources0.029605263157894735+news_keywords+['natos:0.509', 'crimea:0.4942', 'putin:0.4576', 'invade:0.3654', 'strategic:0.3243', 'undermine:0.302', 'intervened:0.2718', 'democracy:0.2669', 'provocation:0.2554', 'crisis:0.2488', 'worry:0.2465', 'agenda:0.226', 'border:0.2123', 'stability:0.2122', 'news:0.2017', 'british:0.1927', 'forward:0.1917', 'action:0.1812', 'forge:0.1788', 'secretary:0.176', 'want:0.166', 'watch:0.1637', 'stir:0.1574', 'indicate:0.155', 'meet:0.154', 'playbook:0.1434', 'prevent:0.1249', 'truss:0.1231', 'false:0.1132', 'enjoy:0.0793']+titles_keywords+['ukraine:0.4123', 'putin:0.3851', 'warning:0.3215', 'vladimir:0.3095', 'issues:-0.0076']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/bristolpost.co.uk/PM warns Vladimir Putin not to invade Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4874651810584958+goldsteinscale0.27999999999999997+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.019736842105263157+news_keywords+['natos:0.5056', 'ukraine:0.4165', 'invade:0.4049', 'kremlin:0.3705', 'vladimir:0.3547', 'threat:0.267', 'diplomatic:0.2431', 'troop:0.2265', 'tank:0.2199', 'backfire:0.2192', 'ally:0.2071', 'bloodshed:0.1938', 'strengthen:0.1859', 'flinch:0.1858', 'dispatch:0.1812', 'uk:0.1801', 'flank:0.1698', 'realise:0.158', 'want:0.1472', 'consider:0.1296', 'continue:0.1294', 'near:0.1207', 'newsletter:0.1132', 'extra:0.104', 'great:0.0982', 'mr:0.0935', 'wallace:0.0917', 'divide:0.08', 'fact:0.0743', 'immovable:0.0612']+titles_keywords+['putin:0.4432', 'ukraine:0.3647', 'invade:0.2782', 'warns:0.262', 'pm:0.0858']"
+        ]
+    ]
+}

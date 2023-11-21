@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+15":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/wn.com/Russian soldier pleads guilty in Ukraine war crimes trial.txt+eventbasecode15+eventcode15+avgtone0.37878787878787906+goldsteinscale0.5+nummentions0.061683599419448475+numarticles0.06236403190717912+numsources0.0625+news_keywords+['kyiv:0.4262', 'russian:0.4081', 'ukraine:0.3842', 'pleads:0.3482', 'plead:0.3383', 'soldier:0.305', 'war:0.2962', 'trial:0.269', 'prisoner:0.2648', 'guilty:0.2578', 'killing:0.2558', 'civilian:0.2553', 'crime:0.2422', 'shishimarin:0.2087', 'shoot:0.2074', 'unarmed:0.2008', 'invasion:0.1969', 'jail:0.1936', 'admit:0.1559', 'year:0.1548', 'vadim:0.1491', 'day:0.142', 'begin:0.1351', 'old:0.1319', 'face:0.1302', 'life:0.1126', 'start:0.0851', 'bring:0.0796', 'tiny:0.0659', 'man:0.0607']+titles_keywords+['russian:0.3677', 'pleads:0.2793', 'soldier:0.2691', 'guilty:0.2252', 'trial:0.2167']"
+        ]
+    ],
+    "UKR+RUS+15":[
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/wn.com/UkraineRussia invasion live First Russian soldier pleads guilty to war crimes.txt+eventbasecode15+eventcode15+avgtone0.402777777777778+goldsteinscale0.5+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['russian:0.4258', 'ukrainerussia:0.3981', 'invasion:0.3465', 'war:0.3261', 'soldier:0.3254', 'pleads:0.2856', 'crime:0.2359', 'guilty:0.2138', 'live:0.1659']+titles_keywords+['russian:0.4225', 'invasion:0.3437', 'soldier:0.3139', 'pleads:0.28', 'live:0.153']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+193":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Ukraine thwarts Russian advances fight rages for Mariupol.txt+eventbasecode193+eventcode193+avgtone0.4694656488549618+goldsteinscale0.0+nummentions0.14622641509433962+numarticles0.14394488759970994+numsources0.39144736842105265+news_keywords+['kyiv:0.4975', 'putin:0.4204', 'pravda:0.4071', 'airstrikes:0.3585', 'blockade:0.323', 'disruption:0.2987', 'pentagon:0.2794', 'battle:0.2706', 'pandemic:0.256', 'progress:0.245', 'flee:0.2402', 'hear:0.2273', 'combine:0.227', 'cite:0.2201', 'industrial:0.2137', 'unprepared:0.2054', 'end:0.2035', 'bucha:0.1978', 'help:0.1942', 'world:0.1901', 'anna:0.1809', 'neutral:0.18', 'nearly:0.1792', 'hour:0.1599', 'focus:0.1478', 'export:0.1379', 'totsen:0.124', 'toll:0.1225', 'true:0.1139', 'height:0.1114']+titles_keywords+['ukraine:0.495', 'fight:0.3995', 'mariupol:0.3448', 'thwarts:0.2043', 'advances:0.1217']"
+        ]
+    ],
+    "UKR+RUS+193":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Poland refuses to play Russia in WC qualifier cites Ukraine.txt+eventbasecode193+eventcode193+avgtone0.47814713896457767+goldsteinscale0.0+nummentions0.1262699564586357+numarticles0.12690355329949238+numsources0.18421052631578946+news_keywords+['russia:0.3852', 'cite:0.3399', 'cultural:0.3383', 'riot:0.3374', 'write:0.3172', 'world:0.3149', 'pandemic:0.3113', 'information:0.3038', 'capital:0.3022', 'anticipate:0.296', 'escalation:0.288', 'march:0.2829', 'morning:0.272', 'behead:0.2539', 'cartoonists:0.2503', 'stroke:0.247', 'podium:0.2442', 'field:0.2433', 'week:0.2392', 'poilievre:0.237', 'stab:0.2359', 'combine:0.2336', 'pollution:0.2332', 'murdaugh:0.2253', 'natuna:0.2205', 'prosecutor:0.22', 'end:0.2109', 'odds:0.1929', 'elon:0.1887', 'significantly:0.154']+titles_keywords+['poland:0.4144', 'refuses:0.2146', 'wc:0.1998', 'qualifier:0.16', 'play:0.143']"
+        ],
+        [
+            "20220729+../news_crawling/RUS_UKR/p_articles/ctvnews.ca/Russia Ukraine trade blame for deadly attack on POW prison.txt+eventbasecode193+eventcode193+avgtone0.453125+goldsteinscale0.0+nummentions0.06966618287373004+numarticles0.07034082668600435+numsources0.05921052631578947+news_keywords+['ukraine:0.5107', 'revolution:0.3656', 'government:0.3165', 'regiment:0.301', 'zelenskyy:0.2982', 'separatist:0.2975', 'journalist:0.2888', 'provocation:0.2733', 'report:0.2723', 'kill:0.2688', 'information:0.2632', 'pandemic:0.2585', 'cite:0.2563', 'expand:0.2555', 'nuclear:0.2341', 'weapon:0.2286', 'stem:0.2228', 'spacex:0.2219', 'pows:0.2141', 'intercept:0.2104', 'dominance:0.2072', 'world:0.2071', 'friday:0.1936', 'podium:0.1812', 'heming:0.1637', 'associated:0.1547', 'longer:0.1522', 'bevy:0.1364', 'exactly:0.1292', 'sluggish:0.0987']+titles_keywords+['ukraine:0.4155', 'blame:0.3163', 'prison:0.1851', 'trade:0.1779', 'pow:0.1323']"
+        ]
+    ]
+}

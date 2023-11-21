@@ -1,0 +1,17 @@
+{
+    "BLR+RUS+36":[
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/theguardian.com/Russian forces are trying to cut off the town of Lysychansk after driving Ukrainian troops.txt+eventbasecode36+eventcode36+avgtone0.484375+goldsteinscale0.7+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kyiv:0.5167', 'putins:0.3859', 'airstrikes:0.3622', 'strategic:0.2621', 'news:0.2602', 'troop:0.2449', 'sievierodonetsk:0.2412', 'fight:0.2328', 'imagesrussian:0.226', 'gennady:0.2133', 'president:0.2004', 'solidarity:0.1989', 'shift:0.1797', 'zhidko:0.179', 'general:0.178', 'report:0.1731', 'opposite:0.1679', 'unconfirmed:0.1647', 'stay:0.1637', 'conferencing:0.1607', 'schedule:0.1387', 'increase:0.1373', 'states:0.1368', 'message:0.1357', 'include:0.1311', 'focus:0.131', 'video:0.1244', 'donets:0.1233', 'far:0.1148', 'building:0.1094']+titles_keywords+['lysychansk:0.3978', 'ukrainian:0.3773', 'troops:0.2513', 'cut:0.2487', 'town:0.232']"
+        ]
+    ],
+    "CHN+RUS+36":[
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/theguardian.com/Buildings including schools civil settlements and art houses were damaged after missile and artillery strikes.txt+eventbasecode36+eventcode36+avgtone0.47252747252747257+goldsteinscale0.7+nummentions0.01088534107402032+numarticles0.011602610587382161+numsources0.013157894736842105+news_keywords+['kyiv:0.4977', 'russians:0.421', 'nato:0.3659', 'reuters:0.3308', 'zelenskiy:0.2805', 'warn:0.2512', 'radioactive:0.2512', 'artillery:0.2504', 'know:0.233', 'retreat:0.2241', 'rubble:0.2237', 'alignment:0.2198', 'industrialised:0.2112', 'school:0.21', 'president:0.203', 'imperilling:0.1968', 'grid:0.1946', 'respond:0.192', 'allegation:0.1913', 'order:0.1841', 'fight:0.1813', 'risky:0.1643', 'plant:0.1599', 'protract:0.1547', 'general:0.1447', 'version:0.1327', 'unverified:0.1296', 'include:0.1289', 'great:0.1012', 'hanhui:0.083']+titles_keywords+['oblast:0.4352', 'artillery:0.3747', 'buildings:0.3538', 'damaged:0.2897', 'marhanets:0.1733']"
+        ]
+    ],
+    "RUS+EUR+36":[
+        [
+            "20211007+../news_crawling/RUS_UKR/p_articles/theguardian.com/Workers in Russia construct the NordStream2 gas pipeline which is awaiting clearance from the German.txt+eventbasecode36+eventcode36+avgtone0.5048939641109298+goldsteinscale0.7+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['putin:0.3865', 'gas:0.3724', 'pipeline:0.3643', 'economy:0.3388', 'kyiv:0.2856', 'nordstream:0.2751', 'europes:0.2659', 'gazproms:0.2419', 'crisis:0.2383', 'speculative:0.2232', 'phase:0.2187', 'increase:0.2173', 'midterm:0.2029', 'current:0.2022', 'cite:0.1852', 'expect:0.1754', 'calm:0.1585', 'construct:0.1556', 'cause:0.1554', 'factor:0.1414', 'vaganovreuters:0.1411', 'long:0.1392', 'gmt:0.1387', 'turn:0.136', 'low:0.125', 'pm:0.108', 'export:0.1046', 'benchmark:0.1', 'state:0.097', 'particularly:0.0631']+titles_keywords+['nordstream2:0.4626', 'pipeline:0.4606', 'workers:0.3378', 'russia:0.3217', 'construct:0.2129']"
+        ]
+    ]
+}

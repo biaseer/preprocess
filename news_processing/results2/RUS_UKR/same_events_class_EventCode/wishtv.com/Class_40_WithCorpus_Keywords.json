@@ -1,0 +1,12 @@
+{
+    "ISR+RUS+40":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/wishtv.com/Putin says Ukraines future in doubt as ceasefires collapse.txt+eventbasecode40+eventcode40+avgtone0.46966824644549765+goldsteinscale0.55+nummentions0.05333817126269957+numarticles0.0532994923857868+numsources0.15789473684210525+news_keywords+['ukraine:0.5112', 'ceasefires:0.4439', 'kremlin:0.4366', 'nato:0.3946', 'chernobyl:0.3298', 'invade:0.3166', 'government:0.3004', 'boychenko:0.2959', 'emergency:0.2915', 'news:0.2581', 'future:0.2547', 'underway:0.2533', 'know:0.2446', 'rhetoric:0.2446', 'agreement:0.2392', 'escalate:0.2342', 'oppose:0.2332', 'capital:0.2205', 'bleakness:0.2153', 'naftali:0.2109', 'order:0.2098', 'remain:0.2049', 'block:0.2027', 'secretary:0.1903', 'corridor:0.1888', 'vadym:0.177', 'onlookers:0.1433', 'blame:0.1376', 'feb:0.1343', 'toll:0.1276']+titles_keywords+['putin:0.43', 'ukraines:0.3904', 'ceasefires:0.3035', 'doubt:0.2349', 'future:0.2285']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/wishtv.com/Putin appears at big rally as troops press attack in Ukraine.txt+eventbasecode40+eventcode40+avgtone0.4767536704730832+goldsteinscale0.55+nummentions0.04354136429608128+numarticles0.04423495286439449+numsources0.049342105263157895+news_keywords+['kremlin:0.49', 'kyiv:0.4642', 'oleg:0.393', 'nato:0.3471', 'ceasefire:0.3405', 'diplomatic:0.3046', 'annexation:0.3005', 'authoritarian:0.2819', 'journalist:0.2793', 'uniform:0.2596', 'telegram:0.2414', 'globe:0.24', 'know:0.2274', 'ahead:0.2261', 'portray:0.2234', 'read:0.2226', 'reporting:0.22', 'table:0.2193', 'space:0.2119', 'flee:0.2075', 'event:0.2062', 'arrive:0.2014', 'firepower:0.1927', 'jinping:0.1922', 'increasingly:0.1813', 'long:0.1713', 'week:0.1687', 'th:0.1501', 'include:0.1402', 'bright:0.1171']+titles_keywords+['putin:0.4247', 'rally:0.3155', 'attack:0.2904', 'big:0.1518', 'appears:0.1338']"
+        ]
+    ]
+}

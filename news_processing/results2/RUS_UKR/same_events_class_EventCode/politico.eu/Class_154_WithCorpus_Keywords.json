@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+154":[
+        [
+            "20220127+../news_crawling/RUS_UKR/p_articles/politico.eu/Russia pessimistic on US response to demands says Sergey Lavrov.txt+eventbasecode154+eventcode154+avgtone0.5037593984962406+goldsteinscale0.13999999999999999+nummentions0.09833091436865021+numarticles0.09898477157360407+numsources0.20394736842105263+news_keywords+['nato:0.4857', 'putin:0.4203', 'kremlin:0.4202', 'ukraine:0.3966', 'diplomatic:0.3398', 'dmitry:0.3348', 'peskov:0.3245', 'moscows:0.3224', 'invasion:0.2099', 'adviser:0.1984', 'assurance:0.1841', 'president:0.1781', 'hopeful:0.1756', 'copenhagen:0.1625', 'remain:0.1618', 'news:0.1446', 'come:0.1431', 'deliver:0.1354', 'responses:0.1334', 'solution:0.1188', 'remark:0.1134', 'week:0.1132', 'step:0.1101', 'say:0.0936', 'reaching:0.0643', 'accord:0.0625', 'agree:0.0557', 'track:0.0548', 'cause:0.0313', 'main:0.0304']+titles_keywords+['lavrov:0.4655', 'pessimistic:0.3357', 'russia:0.3003', 'response:0.1628', 'says:0.0299']"
+        ],
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/politico.eu/EU to sanction Russian Defense Minister Sergei Shoigu Document.txt+eventbasecode154+eventcode154+avgtone0.48511904761904767+goldsteinscale0.13999999999999999+nummentions0.011248185776487663+numarticles0.011965192168237854+numsources0.03618421052631579+news_keywords+['crimea:0.4568', 'sanction:0.4046', 'sergei:0.3652', 'eu:0.3057', 'shoigu:0.2544', 'sovereignty:0.2509', 'annex:0.2474', 'action:0.2416', 'undermine:0.2342', 'command:0.2318', 'politico:0.2277', 'military:0.2037', 'responsible:0.186', 'union:0.1846', 'document:0.1629', 'expect:0.1562', 'drill:0.1543', 'response:0.1475', 'defense:0.1424', 'order:0.1421', 'poise:0.1418', 'bank:0.1379', 'entity:0.1356', 'minister:0.1322', 'confirm:0.0846', 'draft:0.083', 'stability:0.0811', 'accord:0.0797', 'people:0.0719', 'february:0.0701']+titles_keywords+['sanction:0.3911', 'shoigu:0.3852', 'sergei:0.3251', 'document:0.2472', 'eu:0.2237']"
+        ]
+    ]
+}

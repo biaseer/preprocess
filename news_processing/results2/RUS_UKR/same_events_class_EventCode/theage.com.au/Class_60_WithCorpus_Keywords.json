@@ -1,0 +1,13 @@
+{
+    "RUS+EUR+60":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/theage.com.au/ASX set for falls as Ukraine Fed keep Wall Street on edge.txt+eventbasecode60+eventcode60+avgtone0.4852071005917159+goldsteinscale0.8+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['stocks:0.4102', 'economy:0.4021', 'dow:0.3323', 'putin:0.3193', 'newsletter:0.3164', 'future:0.3044', 'friday:0.2913', 'recap:0.2854', 'treasury:0.2786', 'fed:0.2636', 'global:0.2533', 'watch:0.2496', 'escalation:0.2409', 'update:0.2358', 'disrupts:0.2307', 'report:0.2288', 'pull:0.2146', 'wrap:0.2123', 'continue:0.2106', 'asx:0.2062', 'stumble:0.1823', 'benchmark:0.1802', 'amass:0.1802', 'include:0.1785', 'pfizer:0.1662', 'care:0.1631', 'house:0.1518', 'broad:0.1446', 'sp:0.1359', 'relatively:0.1193']+titles_keywords+['asx:0.4271', 'falls:0.3204', 'ukraine:0.2413', 'fed:0.2075', 'set:0.1557']"
+        ]
+    ],
+    "RUS+UKR+60":[
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/theage.com.au/Russian soldier pleads guilty to murdering Ukrainian civilian.txt+eventbasecode60+eventcode60+avgtone0.4411764705882355+goldsteinscale0.8+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.009868421052631578+news_keywords+['russian:0.3988', 'ukrainian:0.3947', 'soldier:0.3018', 'civilian:0.2931', 'pleads:0.2553', 'murder:0.233', 'guilty:0.2126']+titles_keywords+['ukrainian:0.3844', 'civilian:0.2745', 'pleads:0.2232', 'murdering:0.2037', 'guilty:0.1922']",
+            "20220523+../news_crawling/RUS_UKR/p_articles/theage.com.au/Ashamed Russian diplomat resigns as soldier sentenced to life in prison.txt+eventbasecode60+eventcode60+avgtone0.45927601809954766+goldsteinscale0.8+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.04276315789473684+news_keywords+['kremlin:0.479', 'kyiv:0.3934', 'warmongering:0.3549', 'diplomat:0.3515', 'peskov:0.3489', 'correspondent:0.3339', 'invade:0.328', 'rudenko:0.3271', 'confrontation:0.323', 'embargo:0.3118', 'nationalist:0.2985', 'resigns:0.27', 'regiments:0.256', 'atrocity:0.2553', 'law:0.2441', 'disobey:0.2411', 'hague:0.2258', 'investigate:0.2235', 'headline:0.2084', 'casualty:0.2083', 'sentenced:0.2064', 'know:0.1954', 'turn:0.185', 'order:0.1784', 'world:0.1687', 'davos:0.1656', 'unprepared:0.1399', 'tonnage:0.1134', 'open:0.107', 'ap:0.1']+titles_keywords+['resigns:0.4578', 'diplomat:0.403', 'russian:0.3038', 'sentenced:0.2966', 'ashamed:0.2474']"
+        ]
+    ]
+}

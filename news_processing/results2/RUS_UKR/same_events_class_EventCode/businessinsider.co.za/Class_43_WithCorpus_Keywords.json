@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+43":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/businessinsider.co.za/Satellite images show 40milelong Russian military convoy north of Kyiv alongside burning buildings.txt+eventbasecode43+eventcode43+avgtone0.4899799599198396+goldsteinscale0.64+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['kyiv:0.5018', 'convoy:0.4104', 'pribyrsk:0.3446', 'ivankiv:0.3429', 'military:0.3274', 'cnn:0.2313', 'tank:0.2234', 'fighting:0.1956', 'mile:0.1889', 'near:0.178', 'burn:0.1617', 'toll:0.1488', 'border:0.1472', 'outskirt:0.1458', 'picture:0.1396', 'people:0.1355', 'clear:0.1351', 'cover:0.1315', 'long:0.1276', 'building:0.126', 'immediately:0.1245', 'technologies:0.1203', 'cause:0.1174', 'continue:0.1173', 'ground:0.1139', 'grade:0.1119', 'amass:0.1106', 'february:0.1103', 'resolution:0.0968', 'new:0.0852']+titles_keywords+['kyiv:0.4783', 'convoy:0.3912', 'satellite:0.289', 'images:0.2296', 'burning:0.2151']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/businessinsider.co.za/Oil heads to 100 a barrel as Ukraine crisis chokes off cash lines to Russian.txt+eventbasecode43+eventcode43+avgtone0.4601518026565465+goldsteinscale0.64+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4888', 'opec:0.4682', 'oil:0.3974', 'war:0.3538', 'commodity:0.2819', 'disrupt:0.2554', 'crisis:0.2522', 'april:0.2421', 'worry:0.2371', 'tank:0.2244', 'surge:0.2202', 'future:0.2146', 'crude:0.2133', 'capital:0.2107', 'risk:0.2079', 'output:0.2064', 'term:0.1992', 'sanction:0.1894', 'expect:0.1866', 'analyst:0.1846', 'increase:0.1811', 'iea:0.1745', 'agreement:0.1642', 'brent:0.1571', 'global:0.1505', 'weekend:0.1477', 'neighbouring:0.1409', 'head:0.1408', 'schieldrop:0.0528', 'added:0.0166']+titles_keywords+['oil:0.3842', '100:0.2745', 'russian:0.243', 'crisis:0.1344', 'lines:0.1135']"
+        ]
+    ]
+}

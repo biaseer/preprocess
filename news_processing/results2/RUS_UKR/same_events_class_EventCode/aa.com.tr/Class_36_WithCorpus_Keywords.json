@@ -1,0 +1,15 @@
+{
+    "RUS+RUS+36":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/aa.com.tr/Ukraines president hopeful over facetoface meeting in Turkiye.txt+eventbasecode36+eventcode36+avgtone0.4900793650793651+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4964', 'erdogan:0.4605', 'turkiye:0.3582', 'zelenskyy:0.3325', 'refugee:0.3026', 'president:0.2923', 'negotiate:0.2889', 'peace:0.2811', 'political:0.2748', 'meeting:0.2303', 'territory:0.2246', 'communications:0.224', 'directorate:0.2118', 'know:0.2006', 'busy:0.1943', 'plan:0.1832', 'soon:0.1799', 'long:0.1749', 'headline:0.1732', 'flee:0.1593', 'write:0.1506', 'hopeful:0.1465', 'end:0.1417', 'round:0.1405', 'help:0.1204', 'feb:0.1054', 'facetoface:0.0947', 'true:0.088', 'displace:0.0862', 'video:0.0765']+titles_keywords+['meeting:0.3602', 'ukraines:0.3576', 'facetoface:0.2739', 'president:0.2579', 'hopeful:0.2412']"
+        ]
+    ],
+    "RUS+TUR+36":[
+        [
+            "20220119+../news_crawling/RUS_UKR/p_articles/aa.com.tr/Russia welcomes any efforts contributing to Ukrainian settlement Kremlin.txt+eventbasecode36+eventcode36+avgtone0.5050167224080268+goldsteinscale0.7+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4402', 'erdogan:0.3911', 'nato:0.3374', 'kremlin:0.328', 'dmitry:0.3209', 'turkiye:0.2816', 'protocol:0.279', 'escalation:0.2711', 'agreement:0.2362', 'talk:0.213', 'contact:0.2047', 'maneuver:0.1935', 'organize:0.1857', 'zelensky:0.1782', 'happen:0.1489', 'encourage:0.1483', 'brief:0.1334', 'partner:0.1294', 'aviation:0.1246', 'hold:0.1207', 'aim:0.1021', 'wednesday:0.1018', 'main:0.0872', 'arms:0.0859', 'welcome:0.0819', 'precisely:0.0809', 'add:0.0795', 'difference:0.0773', 'recep:0.0766', 'various:0.0715']+titles_keywords+['kremlin:0.4672', 'ukrainian:0.4348', 'settlement:0.2465', 'welcomes:0.1143', 'efforts:0.1038']"
+        ],
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/aa.com.tr/Turkish Russian leaders discuss war in Ukraine regional issues.txt+eventbasecode36+eventcode36+avgtone0.48031496062992124+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['erdogan:0.4778', 'ankara:0.4415', 'ukraine:0.4308', 'syrian:0.3982', 'tayyip:0.3394', 'peaceful:0.3146', 'ypgpkk:0.3051', 'civilians:0.2878', 'border:0.2742', 'terror:0.2597', 'kilometer:0.224', 'safe:0.2157', 'operation:0.2115', 'communications:0.1981', 'directorate:0.1946', 'displaced:0.1824', 'counterpart:0.1676', 'reestablish:0.1621', 'euphrates:0.1578', 'issue:0.1463', 'carry:0.1263', 'begin:0.1247', 'tell:0.1189', 'toll:0.1071', 'effect:0.1031', 'internally:0.0981', 'believe:0.0947', 'include:0.0916', 'negative:0.0897', 'true:0.0772']+titles_keywords+['ukraine:0.4079', 'turkish:0.3377', 'war:0.2919', 'discuss:0.22', 'leaders:0.1271']"
+        ]
+    ]
+}

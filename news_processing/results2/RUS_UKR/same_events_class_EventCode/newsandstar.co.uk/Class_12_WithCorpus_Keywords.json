@@ -1,0 +1,17 @@
+{
+    "GBR+UKR+12":[
+        [
+            "20220211+../news_crawling/RUS_UKR/p_articles/newsandstar.co.uk/Britons told to leave Ukraine immediately amid threat of invasion by Russia.txt+eventbasecode12+eventcode12+avgtone0.4864253393665159+goldsteinscale0.48+nummentions0.06386066763425254+numarticles0.06453952139231327+numsources0.09539473684210527+news_keywords+['ukraine:0.464', 'natos:0.4163', 'evacuate:0.4008', 'putin:0.3982', 'invasion:0.3509', 'diplomatic:0.3183', 'threat:0.3081', 'readiness:0.3066', 'crisis:0.2888', 'commence:0.2416', 'boris:0.241', 'adviser:0.2238', 'immediate:0.2234', 'britons:0.2225', 'news:0.2059', 'soon:0.2036', 'office:0.1854', 'macron:0.1802', 'order:0.177', 'debate:0.1737', 'winter:0.1708', 'current:0.1485', 'hour:0.1484', 'general:0.1453', 'point:0.1319', 'say:0.1245', 'assign:0.1117', 'grow:0.098', 'mount:0.087', 'plus:0.0749']+titles_keywords+['ukraine:0.4107', 'leave:0.3011', 'britons:0.2964', 'invasion:0.2962', 'immediately:0.1903']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/newsandstar.co.uk/Ukrainians claim to have retaken ground from Russia ahead of latest talks.txt+eventbasecode12+eventcode12+avgtone0.47780678851174935+goldsteinscale0.48+nummentions0.14731494920174165+numarticles0.14793328498912256+numsources0.26644736842105265+news_keywords+['kyiv:0.5356', 'ukraines:0.4844', 'kremlin:0.4527', 'ceasefire:0.4244', 'natos:0.4177', 'warfare:0.3562', 'separatist:0.2897', 'cyberattack:0.2551', 'trostyanets:0.2338', 'forward:0.2304', 'progress:0.2291', 'emphasise:0.2287', 'exit:0.2195', 'flank:0.2109', 'general:0.2054', 'combine:0.1969', 'want:0.1915', 'report:0.1885', 'prepare:0.1875', 'main:0.1863', 'regional:0.1862', 'long:0.1803', 'secretary:0.1739', 'misstep:0.1655', 'fall:0.1614', 'ap:0.1495', 'right:0.14', 'retake:0.1335', 'child:0.1269', 'population:0.0954']+titles_keywords+['ukrainians:0.3996', 'retaken:0.2527', 'ground:0.1367', 'talks:0.1278', 'latest:0.0407']"
+        ]
+    ],
+    "TUR+RUS+12":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/newsandstar.co.uk/Marks and Spencer donates 15 million to Ukraine refugees.txt+eventbasecode12+eventcode12+avgtone0.49032258064516127+goldsteinscale0.48+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['humanitarian:0.4523', 'ukraine:0.4377', 'refugee:0.4335', 'unhcr:0.3322', 'fundraise:0.3213', 'retail:0.3071', 'spencer:0.2862', 'marks:0.279', 'crisis:0.2698', 'money:0.2661', 'million:0.2605', 'support:0.2482', 'invasion:0.2283', 'withdraw:0.2278', 'want:0.2241', 'shipment:0.2233', 'privilege:0.2154', 'agency:0.2104', 'make:0.1959', 'important:0.1844', 'right:0.1764', 'global:0.1761', 'misuse:0.1734', 'statement:0.173', 'child:0.1572', 'given:0.1513', 'reader:0.1411', 'isdonating:0.1296', 'lively:0.0997', 'winter:0.0858']+titles_keywords+['refugees:0.412', 'marks:0.2831', 'spencer:0.2539', 'million:0.2144', '15:0.1985']"
+        ]
+    ]
+}

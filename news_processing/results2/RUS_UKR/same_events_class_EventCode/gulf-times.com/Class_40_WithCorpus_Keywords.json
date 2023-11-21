@@ -1,0 +1,18 @@
+{
+    "DEU+RUS+40":[
+        [
+            "20220204+../news_crawling/RUS_UKR/p_articles/gulf-times.com/The view from Kyiv.txt+eventbasecode40+eventcode40+avgtone0.48874104401228247+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.5028', 'putins:0.4184', 'sergei:0.3488', 'nato:0.3473', 'polityczna:0.286', 'war:0.2763', 'annex:0.2704', 'strategist:0.2575', 'manifesto:0.2451', 'statehood:0.2435', 'oligarchy:0.2427', 'prediction:0.229', 'prepare:0.2286', 'conclude:0.2092', 'read:0.2058', 'pipeline:0.2045', 'know:0.2', 'relations:0.1991', 'disastrous:0.1977', 'macron:0.1944', 'modernise:0.1903', 'soon:0.1884', 'preoccupy:0.1763', 'enter:0.1642', 'instead:0.158', 'warrant:0.1406', 'iron:0.1232', 'bn:0.1188', 'big:0.1162', 'anytime:0.0533']+titles_keywords+['kyiv:0.7985', 'view:0.3101']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220118+../news_crawling/RUS_UKR/p_articles/gulf-times.com/No new Ukraine talks until West responds to demands Russia.txt+eventbasecode40+eventcode40+avgtone0.4753694581280788+goldsteinscale0.55+nummentions0.015239477503628448+numarticles0.013778100072516316+numsources0.01644736842105263+news_keywords+['nato:0.4368', 'putin:0.3912', 'kyiv:0.3649', 'diplomatic:0.3367', 'russias:0.3332', 'invade:0.325', 'separatists:0.2514', 'prepare:0.2291', 'news:0.2265', 'reinforce:0.2207', 'soon:0.2085', 'pipeline:0.2019', 'concern:0.194', 'table:0.1812', 'respond:0.1794', 'sanction:0.1676', 'forward:0.1656', 'avert:0.1575', 'meet:0.1563', 'psakis:0.1423', 'hold:0.136', 'stage:0.1332', 'point:0.1293', 'decide:0.1287', 'energy:0.1086', 'state:0.1029', 'blinken:0.0938', 'unless:0.0921', 'cost:0.0522', 'theres:0.037']+titles_keywords+['ukraine:0.4013', 'demands:0.191', 'west:0.152', 'responds:0.149', 'new:0.0464']"
+        ],
+        [
+            "20220128+../news_crawling/RUS_UKR/p_articles/gulf-times.com/We dont want wars Russia sends less hawkish message on Ukraine.txt+eventbasecode40+eventcode40+avgtone0.475609756097561+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4228', 'ukraine:0.4166', 'nato:0.3964', 'war:0.3336', 'lavrov:0.256', 'standoff:0.2127', 'arrangement:0.2115', 'engage:0.2049', 'hawkish:0.2041', 'conciliatory:0.1881', 'expect:0.1868', 'border:0.1849', 'destabilise:0.1767', 'want:0.1749', 'consultation:0.1662', 'submit:0.1548', 'decide:0.1541', 'ignore:0.1431', 'yves:0.137', 'end:0.1214', 'week:0.1102', 'study:0.1044', 'make:0.1036', 'message:0.1022', 'near:0.0995', 'cold:0.0932', 'tense:0.0865', 'redrawing:0.0857', 'radio:0.0778', 'rtl:0.0672']+titles_keywords+['ukraine:0.4059', 'wars:0.32', 'hawkish:0.2838', 'message:0.1406', 'dont:0.0745']"
+        ],
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/gulf-times.com/Russian forces capture Ukrainian city Interfax reports amid missile strikes.txt+eventbasecode40+eventcode40+avgtone0.47135416666666663+goldsteinscale0.55+nummentions0.041364296081277216+numarticles0.04205946337926034+numsources0.03618421052631579+news_keywords+['kyiv:0.5262', 'ukrainians:0.4254', 'putin:0.4084', 'invade:0.3774', 'nato:0.3712', 'genocide:0.2927', 'erupt:0.2795', 'gunfire:0.2633', 'news:0.2537', 'crisis:0.2388', 'coordinate:0.2259', 'casualty:0.2155', 'order:0.201', 'leave:0.1959', 'cite:0.1947', 'union:0.1867', 'worry:0.1852', 'sanction:0.1844', 'immediately:0.1792', 'office:0.1538', 'sp:0.1498', 'general:0.1426', 'population:0.1307', 'cover:0.1292', 'state:0.1156', 'building:0.113', 'similar:0.1082', 'melitopol:0.1006', 'downgrade:0.0937', 'dozen:0.0756']+titles_keywords+['ukrainian:0.3535', 'interfax:0.2748', 'missile:0.2084', 'capture:0.2002', 'city:0.163']"
+        ]
+    ]
+}

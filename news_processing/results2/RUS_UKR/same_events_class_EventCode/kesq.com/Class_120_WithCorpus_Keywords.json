@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+120":[
+        [
+            "20210624+../news_crawling/RUS_UKR/p_articles/kesq.com/Russia says London has lost its manners as UK plays down Crimean naval confrontation.txt+eventbasecode120+eventcode120+avgtone0.4796747967479674+goldsteinscale0.3+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.009868421052631578+news_keywords+['crimea:0.5859', 'putin:0.4127', 'russias:0.4122', 'tensions:0.3291', 'naval:0.2819', 'strategic:0.2522', 'eu:0.2469', 'government:0.2412', 'ambassador:0.2395', 'border:0.2387', 'incident:0.2282', 'provocatively:0.2253', 'bbc:0.2194', 'oppose:0.2062', 'report:0.203', 'zakharova:0.2005', 'implications:0.2002', 'nigel:0.1984', 'write:0.1943', 'bloc:0.1914', 'strike:0.1871', 'telegram:0.1757', 'prepare:0.1709', 'kilometer:0.1686', 'understand:0.1659', 'extend:0.1428', 'noon:0.1398', 'quite:0.1368', 'look:0.1129', 'abnormal:0.1007']+titles_keywords+['crimean:0.4208', 'london:0.3184', 'manners:0.3176', 'lost:0.0776', 'says:0.0768']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220125+../news_crawling/RUS_UKR/p_articles/kesq.com/Ukraine will not accept concessions to Russia Foreign Minister says.txt+eventbasecode120+eventcode120+avgtone0.4800285306704708+goldsteinscale0.3+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['ukraine:0.4783', 'nato:0.4286', 'kremlin:0.4047', 'invade:0.3629', 'conflict:0.3247', 'destabilize:0.3236', 'escalate:0.3079', 'concession:0.2695', 'plan:0.2423', 'panic:0.237', 'secure:0.2361', 'remain:0.2336', 'biden:0.2197', 'flank:0.2085', 'deal:0.2018', 'know:0.2001', 'type:0.1798', 'sign:0.1761', 'forward:0.1636', 'follow:0.157', 'weapon:0.1563', 'wont:0.1503', 'dmytro:0.1452', 'possibility:0.1381', 'monday:0.13', 'inside:0.1242', 'current:0.1108', 'minor:0.11', 'big:0.1026', 'doesnt:0.0691']+titles_keywords+['ukraine:0.4156', 'concessions:0.2503', 'accept:0.2089', 'says:0.0111', 'minister:0.0019']"
+        ]
+    ]
+}

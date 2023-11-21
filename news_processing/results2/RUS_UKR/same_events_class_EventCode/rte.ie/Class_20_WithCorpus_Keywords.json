@@ -1,0 +1,27 @@
+{
+    "EUR+UKR+20":[
+        [
+            "20220614+../news_crawling/RUS_UKR/p_articles/rte.ie/Ukrainian troops holding out in Sievierodonetsk as last bridge destroyed.txt+eventbasecode20+eventcode20+avgtone0.4763246899661781+goldsteinscale0.65+nummentions0.0330188679245283+numarticles0.0337200870195794+numsources0.05921052631578947+news_keywords+['kyiv:0.4752', 'nato:0.3834', 'kremlin:0.3825', 'evacuations:0.3464', 'tactical:0.3349', 'victory:0.2719', 'conflict:0.269', 'bridge:0.2482', 'sievierodonetsk:0.2449', 'separatist:0.2374', 'news:0.2298', 'shift:0.2258', 'north:0.2158', 'deliver:0.2027', 'hold:0.197', 'march:0.1937', 'help:0.1831', 'main:0.1789', 'pave:0.1777', 'cite:0.1749', 'donbas:0.173', 'swath:0.1725', 'additional:0.1716', 'retake:0.1655', 'ready:0.1617', 'executive:0.1612', 'longer:0.1511', 'scary:0.136', 'ought:0.114', 'partly:0.0696']+titles_keywords+['ukrainian:0.376', 'sievierodonetsk:0.3416', 'bridge:0.2822', 'troops:0.257', 'holding:0.1497']"
+        ]
+    ],
+    "RUS+FIN+20":[
+        [
+            "20220511+../news_crawling/RUS_UKR/p_articles/rte.ie/Russia warns of response over Finland NATO threat.txt+eventbasecode20+eventcode20+avgtone0.47952853598014883+goldsteinscale0.65+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['nato:0.5196', 'finland:0.3848', 'kremlin:0.358', 'treaty:0.3538', 'militarily:0.3374', 'dmitry:0.3089', 'invade:0.286', 'neutrality:0.2702', 'troop:0.2435', 'diplomatic:0.2417', 'reuters:0.1979', 'ratification:0.1908', 'align:0.1858', 'secure:0.1842', 'commit:0.1803', 'increase:0.1695', 'investigation:0.1644', 'joining:0.1596', 'menace:0.1562', 'long:0.1508', 'generation:0.1207', 'caused:0.12', 'flank:0.1198', 'measure:0.1107', 'deal:0.0983', 'include:0.0865', 'earlier:0.0617', 'welcome:0.056', 'potentially:0.056', 'asked:0.0473']+titles_keywords+['nato:0.3907', 'finland:0.3889', 'threat:0.2397', 'warns:0.2044', 'response:0.13']"
+        ]
+    ],
+    "RUS+FRA+20":[
+        [
+            "20220715+../news_crawling/RUS_UKR/p_articles/rte.ie/Producers of fries refusing to supply to Russia McDonalds successor says.txt+eventbasecode20+eventcode20+avgtone0.46812080536912754+goldsteinscale0.65+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['ukraine:0.4712', 'mcdonald:0.3865', 'restaurants:0.383', 'reuters:0.3381', 'fry:0.3211', 'produce:0.32', 'oleg:0.2971', 'business:0.2955', 'shortage:0.2914', 'factory:0.2747', 'vkusno:0.2553', 'potato:0.2546', 'foreign:0.2365', 'western:0.2351', 'issue:0.1922', 'sanction:0.1801', 'chain:0.1696', 'notice:0.1531', 'tasty:0.1278', 'say:0.1206', 'new:0.1178', 'begin:0.1166', 'standard:0.1149', 'unfriendly:0.1127', 'woe:0.1069', 'night:0.1043', 'specific:0.1025', 'year:0.0967', 'bettered:0.0951', 'difference:0.0904']+titles_keywords+['fries:0.4335', 'mcdonalds:0.349', 'russia:0.3486', 'supply:0.267', 'refusing:0.2446']"
+        ]
+    ],
+    "RUS+RUS+20":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/rte.ie/Shattered evacuees emerge from Ukraines Mariupol.txt+eventbasecode20+eventcode20+avgtone0.48105548037889034+goldsteinscale0.65+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.013157894736842105+news_keywords+['moscow:0.4808', 'evacuation:0.4719', 'ukraines:0.4484', 'propaganda:0.3766', 'zaporizhzhia:0.3459', 'anastasia:0.3219', 'peacetime:0.2746', 'grinchuk:0.2672', 'koval:0.263', 'territory:0.2595', 'know:0.2583', 'afp:0.2547', 'soldier:0.2242', 'iryna:0.2226', 'contact:0.2197', 'hear:0.2173', 'ragged:0.2088', 'passage:0.2076', 'terrified:0.2023', 'hug:0.1991', 'direction:0.1987', 'word:0.1856', 'km:0.1823', 'end:0.1814', 'hour:0.1593', 'fourth:0.1489', 'hell:0.1485', 'come:0.1446', 'young:0.1197', 'population:0.1073']+titles_keywords+['evacuees:0.5458', 'ukraines:0.4349', 'mariupol:0.2798', 'shattered:0.2372', 'emerge:0.2116']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220529+../news_crawling/RUS_UKR/p_articles/rte.ie/All critical systems destroyed within key Donbas city Zelensky.txt+eventbasecode20+eventcode20+avgtone0.4801488833746898+goldsteinscale0.65+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.019736842105263157+news_keywords+['kyiv:0.4813', 'demilitarize:0.3333', 'zelensky:0.3101', 'conflict:0.2903', 'nationalist:0.2778', 'invasion:0.2749', 'briefing:0.2731', 'infrastructure:0.2423', 'sievierodonetsk:0.2341', 'news:0.2148', 'casualty:0.2117', 'consolidate:0.1976', 'flee:0.1949', 'howitzer:0.1834', 'study:0.1772', 'phase:0.1765', 'main:0.1712', 'badly:0.1687', 'safe:0.1669', 'ekes:0.1588', 'long:0.1585', 'governor:0.1541', 'false:0.1504', 'make:0.1494', 'fired:0.1384', 'donets:0.1378', 'similar:0.1271', 'receive:0.1265', 'thousands:0.1228', 'restore:0.1135']+titles_keywords+['zelensky:0.4458', 'destroyed:0.3171', 'donbas:0.3142', 'systems:0.3133', 'key:0.2155']"
+        ]
+    ]
+}

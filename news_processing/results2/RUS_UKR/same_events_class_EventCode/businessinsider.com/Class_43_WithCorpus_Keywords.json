@@ -1,0 +1,17 @@
+{
+    "CHE+RUS+43":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Russia exports gold to Switzerland for the first time since the war in Ukraine began.txt+eventbasecode43+eventcode43+avgtone0.5015723270440252+goldsteinscale0.64+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4294', 'gold:0.3814', 'commodity:0.353', 'putin:0.3466', 'bullion:0.3416', 'palladium:0.2393', 'swiss:0.2267', 'oil:0.1915', 'import:0.167', 'buyer:0.1616', 'sanction:0.1533', 'bloomberg:0.1408', 'western:0.12', 'suggest:0.099', 'month:0.0986', 'accord:0.0849', 'association:0.0848', 'federal:0.0836', 'continue:0.0756', 'list:0.0749', 'arrive:0.0695', 'refine:0.0634', 'hesitant:0.0435', 'selfsanctioning:0.0435', 'despite:0.042', 'especially:0.0362', 'nearly:0.0342', 'mark:0.0293', 'flex:-0.003', 'facto:-0.0064']+titles_keywords+['russia:0.3666', 'gold:0.331', 'exports:0.2955', 'buyers:0.2607', 'selfsanctioning:0.0637']"
+        ]
+    ],
+    "DEU+UKR+43":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/businessinsider.com/10 Things in Tech Apple outages.txt+eventbasecode43+eventcode43+avgtone0.4809590973201693+goldsteinscale0.64+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['bloomberg:0.418', 'things:0.3495', 'industry:0.33', 'googler:0.326', 'startup:0.3233', 'outages:0.322', 'curated:0.3083', 'cyber:0.3021', 'government:0.295', 'musk:0.2931', 'apple:0.2916', 'reveal:0.285', 'merger:0.2834', 'ai:0.2734', 'maps:0.2615', 'read:0.256', 'exceed:0.2543', 'warn:0.2499', 'world:0.2483', 'venture:0.2435', 'unit:0.2311', 'affect:0.2282', 'major:0.2227', 'week:0.2209', 'statement:0.2155', 'cryptocurrencies:0.2132', 'hi:0.2006', 'past:0.1942', 'russian:0.1819', 'erb:0.1659']+titles_keywords+['outages:0.6919', 'apple:0.4321', 'tech:0.3897', 'things:0.2177', '10:0.141']"
+        ]
+    ],
+    "POL+UKR+43":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/businessinsider.com/When I fled Ukraine I fell into depression and darkness But losing my home made.txt+eventbasecode43+eventcode43+avgtone0.49572649572649574+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukrainian:0.3779', 'help:0.3556', 'realize:0.3517', 'feel:0.3326', 'worry:0.3059', 'war:0.2974', 'world:0.295', 'happy:0.2932', 'flee:0.2887', 'tell:0.2701', 'trip:0.2596', 'job:0.2493', 'want:0.2436', 'meet:0.2384', 'sleepless:0.2367', 'generation:0.2356', 'right:0.2163', 'like:0.2126', 'sing:0.2088', 'scar:0.2015', 'alive:0.2004', 'bucha:0.1918', 'did:0.1884', 'lesson:0.1796', 'mom:0.1694', 'thousand:0.1533', 'afternoon:0.1501', 'soon:0.1404', 'hostomel:0.1284', 'unequal:0.1145']+titles_keywords+['ukraine:0.3691', 'fled:0.36', 'home:0.3173', 'depression:0.3072', 'appreciate:0.1444']"
+        ]
+    ]
+}

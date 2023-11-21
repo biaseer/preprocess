@@ -1,0 +1,12 @@
+{
+    "JPN+RUS+30":[
+        [
+            "20220528+../news_crawling/RUS_UKR/p_articles/japantoday.com/Japan to provide grants to encourage hiring of Ukrainian evacuees.txt+eventbasecode30+eventcode30+avgtone0.4938775510204082+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['employment:0.3735', 'refugee:0.3309', 'yen:0.3066', 'ukrainians:0.3015', 'japantoday:0.2674', 'subsidize:0.242', 'ukrainlan:0.2316', 'loan:0.2274', 'onlinebank:0.2207', 'support:0.2091', 'idea:0.1672', 'productive:0.1619', 'speciallytailoredto:0.1569', 'grant:0.1556', 'forward:0.1398', 'register:0.135', 'article:0.1348', 'make:0.1269', 'program:0.1266', 'boss:0.1123', 'include:0.1034', 'train:0.1002', 'suruga:0.096', 'share:0.0902', 'pork:0.0853', 'alert:0.0778', 'requested:0.0679', 'welcome:0.0626', 'maximum:0.0498', 'unable:0.0401']+titles_keywords+['ukrainian:0.3256', 'evacuees:0.324', 'japan:0.323', 'grants:0.2819', 'hiring:0.2585']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/japantoday.com/Ukraine Russia sign grain export deal.txt+eventbasecode30+eventcode30+avgtone0.4886839899413244+goldsteinscale0.7+nummentions0.062409288824383166+numarticles0.0630891950688905+numsources0.06578947368421052+news_keywords+['ukraine:0.5222', 'nato:0.407', 'putins:0.4039', 'invade:0.3455', 'sanctions:0.332', 'separatist:0.314', 'cronyism:0.3084', 'want:0.2589', 'language:0.2495', 'read:0.2487', 'foresee:0.2469', 'pentagon:0.2376', 'peace:0.2321', 'elect:0.2301', 'table:0.2258', 'align:0.2235', 'know:0.2235', 'telegram:0.2173', 'stay:0.2107', 'report:0.205', 'replace:0.2027', 'yrral:0.1918', 'sure:0.1807', 'lol:0.1726', 'soon:0.1673', 'robotic:0.1603', 'proof:0.1545', 'material:0.1468', 'bad:0.1425', 'sourcelinkcontext:0.0205']+titles_keywords+['ukraine:0.3904', 'grain:0.3017', 'deal:0.2679', 'export:0.1929', 'sign:0.1411']"
+        ]
+    ]
+}

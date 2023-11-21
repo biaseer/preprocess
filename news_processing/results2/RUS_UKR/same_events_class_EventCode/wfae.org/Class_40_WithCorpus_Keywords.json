@@ -1,0 +1,12 @@
+{
+    "CHN+UKR+40":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/wfae.org/RussiaUkraine war What happened today March 14.txt+eventbasecode40+eventcode40+avgtone0.48275862068965525+goldsteinscale0.55+nummentions0.09724238026124818+numarticles0.09789702683103699+numsources0.10855263157894737+news_keywords+['ukraine:0.5089', 'russiaukraine:0.4911', 'nato:0.3982', 'airstrikes:0.3719', 'zelenskyy:0.2854', 'news:0.2815', 'conflict:0.2797', 'invasion:0.2775', 'npr:0.2443', 'recap:0.2302', 'march:0.2161', 'update:0.2093', 'today:0.1936', 'read:0.1885', 'consequence:0.1797', 'continue:0.1775', 'warn:0.1731', 'pregnant:0.1635', 'breakthrough:0.1429', 'weapon:0.1415', 'live:0.1369', 'resume:0.1311', 'schedule:0.1242', 'additional:0.12', 'lawmaker:0.1142', 'subscribe:0.1136', 'mh:0.1056', 'million:0.0957', 'draw:0.0954', 'integration:0.0865']+titles_keywords+['russiaukraine:0.4736', 'war:0.4432', 'march:0.3688', 'today:0.2816', 'happened:0.2675']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220110+../news_crawling/RUS_UKR/p_articles/wfae.org/News brief Bronx fire record COVID19 cases USRussia talks on Ukraine.txt+eventbasecode40+eventcode40+avgtone0.49+goldsteinscale0.55+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.0756578947368421+news_keywords+['putin:0.4796', 'crimea:0.4643', 'ukrainians:0.424', 'nato:0.3587', 'diplomacy:0.3554', 'pandemic:0.3377', 'unrest:0.3325', 'escalation:0.303', 'housing:0.2776', 'fireproof:0.2673', 'smoke:0.2539', 'hospitalize:0.2533', 'immigrate:0.2531', 'news:0.2491', 'history:0.2478', 'risk:0.2411', 'victim:0.2201', 'know:0.2164', 'underway:0.2164', 'region:0.2144', 'tank:0.2052', 'write:0.2002', 'secretary:0.1851', 'asymptomatic:0.1839', 'posture:0.1726', 'sprinkler:0.1672', 'bronx:0.1618', 'end:0.1583', 'bad:0.1564', 'maybe:0.0916']+titles_keywords+['covid19:0.4309', 'bronx:0.3953', 'ukraine:0.3865', 'cases:0.2431', 'record:0.1857']"
+        ]
+    ]
+}

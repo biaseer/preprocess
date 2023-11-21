@@ -1,0 +1,17 @@
+{
+    "AFR+RUS+13":[
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Ukraine criminals selling American missiles on dark web proRussian media claims.txt+eventbasecode13+eventcode13+avgtone0.4759206798866855+goldsteinscale0.52+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.5327', 'kremlin:0.4427', 'propaganda:0.3281', 'threaten:0.3232', 'prorussian:0.3212', 'javelin:0.3133', 'artillery:0.2859', 'tank:0.2647', 'warzone:0.2624', 'telegram:0.2623', 'crisis:0.2441', 'donbas:0.2081', 'severodonetsk:0.2061', 'civilian:0.195', 'import:0.1885', 'funnelling:0.1833', 'advance:0.1796', 'bloody:0.1778', 'sell:0.175', 'himar:0.1643', 'crook:0.1642', 'forget:0.1593', 'target:0.1532', 'cross:0.1525', 'th:0.1444', 'new:0.1442', 'unverified:0.1428', 'far:0.1135', 'photo:0.0976', 'agree:0.0919']+titles_keywords+['ukraine:0.4778', 'missiles:0.3497', 'criminals:0.3328', 'web:0.1717', 'dark:0.1598']"
+        ]
+    ],
+    "RUS+PRK+13":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/ExUkraine president says Russia will end up like big North Korea unless Putin goes.txt+eventbasecode13+eventcode13+avgtone0.489648033126294+goldsteinscale0.52+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.5246', 'moscow:0.4263', 'propaganda:0.3396', 'plesetsk:0.3372', 'nuclear:0.3194', 'threaten:0.3185', 'petro:0.2977', 'korea:0.2662', 'sanction:0.2563', 'capitulation:0.2512', 'know:0.2358', 'warhead:0.2324', 'investigate:0.2182', 'nation:0.2156', 'learn:0.2087', 'disastrous:0.1996', 'end:0.1957', 'afraid:0.1853', 'launch:0.1823', 'soon:0.1782', 'sarmat:0.1695', 'brag:0.1682', 'issue:0.1663', 'poison:0.1637', 'big:0.1549', 'cosmodrome:0.153', 'mr:0.1507', 'emerge:0.1454', 'comparing:0.1361', 'new:0.1248']+titles_keywords+['putin:0.5048', 'north:0.1887', 'exukraine:0.1564', 'end:0.1435', 'unless:0.1353']"
+        ]
+    ],
+    "RUS+PRT+13":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/mirror.co.uk/Ukraine president jokes tomorrow will be day of attack same day US officials predict.txt+eventbasecode13+eventcode13+avgtone0.4814814814814815+goldsteinscale0.52+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.03289473684210526+news_keywords+['ukraine:0.4521', 'nato:0.3792', 'kremlin:0.3542', 'tomorrow:0.3126', 'diplomatic:0.3072', 'predict:0.2978', 'invade:0.2832', 'plan:0.2704', 'announcement:0.2563', 'pentagon:0.2513', 'crisis:0.2468', 'podolyak:0.2431', 'date:0.2369', 'february:0.2012', 'order:0.193', 'report:0.1893', 'say:0.1797', 'agreement:0.1773', 'long:0.1727', 'continue:0.159', 'pull:0.1455', 'stress:0.1411', 'general:0.141', 'adjacent:0.1384', 'seven:0.1205', 'reduce:0.0998', 'possible:0.0987', 'unison:0.0879', 'unless:0.0753', 'kirby:0.0666']+titles_keywords+['tomorrow:0.3887', 'ukraine:0.2947', 'attack:0.2401', 'president:0.2243', 'jokes:0.2128']"
+        ]
+    ]
+}

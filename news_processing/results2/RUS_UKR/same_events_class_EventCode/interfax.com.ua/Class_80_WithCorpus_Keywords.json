@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Center for Countering Misinformation Russian reports about surrendered 302nd antiaircraft regiment in Kharkiv region fake.txt+eventbasecode80+eventcode80+avgtone0.443708609271523+goldsteinscale0.75+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4753', 'kharkiv:0.4093', 'regiment:0.3515', 'surrender:0.3496', 'military:0.3328', 'federation:0.301', 'misinformation:0.2949', 'armed:0.2821', 'defend:0.2796', 'combating:0.2758', 'synehubov:0.2695', 'antiaircraft:0.2455', 'fake:0.2391', 'enemy:0.2163', 'report:0.2008', 'news:0.1973', 'detain:0.1814', 'position:0.1803', 'oleh:0.1722', 'nd:0.1687', 'child:0.1634', 'forces:0.163', 'arm:0.1544', 'shake:0.1531', 'native:0.1348', 'come:0.1239', 'land:0.1212', 'future:0.1163', 'according:0.0861', 'faith:0.0794']+titles_keywords+['misinformation:0.3682', 'fake:0.3671', 'russian:0.3444', 'antiaircraft:0.3195', '302nd:0.2941']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Zelensky urges to stop deportation of Ukrainians to Russia return them home.txt+eventbasecode80+eventcode80+avgtone0.47413793103448276+goldsteinscale0.75+nummentions0.01451378809869376+numarticles0.014503263234227702+numsources0.003289473684210526+news_keywords+['deportation:0.4305', 'ukrainians:0.4171', 'zelensky:0.4049', 'tallinn:0.3829', 'estonian:0.3305', 'volodymyr:0.241', 'federation:0.2132', 'forcibly:0.1969', 'citizen:0.1938', 'occupier:0.1822', 'return:0.1818', 'goal:0.1748', 'displace:0.1646', 'interfere:0.1635', 'right:0.155', 'deprived:0.1523', 'speak:0.151', 'link:0.1424', 'document:0.1356', 'child:0.1281', 'steal:0.1219', 'power:0.1215', 'receive:0.1182', 'wednesday:0.1132', 'thousand:0.1015', 'family:0.0989', 'sponsor:0.0975', 'remote:0.0931', 'set:0.0498', 'state:0.0485']+titles_keywords+['zelensky:0.5518', 'ukrainians:0.446', 'deportation:0.3808', 'return:0.1949', 'stop:0.1142']"
+        ]
+    ]
+}

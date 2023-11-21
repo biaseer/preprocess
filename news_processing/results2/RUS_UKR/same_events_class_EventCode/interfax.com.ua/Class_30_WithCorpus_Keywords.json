@@ -1,0 +1,30 @@
+{
+    "CHE+RUS+30":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Ukraine and Switzerland reach agreement on representation of Ukrainian interests on Russian territory MFA.txt+eventbasecode30+eventcode30+avgtone0.5243362831858408+goldsteinscale0.7+nummentions0.0043541364296081275+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.5136', 'diplomatic:0.3493', 'territory:0.3153', 'federation:0.2602', 'swiss:0.2451', 'relations:0.2188', 'agreement:0.1963', 'army:0.1899', 'representation:0.1869', 'nikolenko:0.178', 'protect:0.1695', 'consent:0.1657', 'remove:0.1567', 'bilateral:0.1475', 'know:0.1392', 'willingness:0.1343', 'function:0.1294', 'note:0.1257', 'publish:0.1254', 'mfa:0.1253', 'oleh:0.1212', 'temporarily:0.1139', 'illegally:0.1125', 'perform:0.1067', 'determine:0.1062', 'host:0.1041', 'particular:0.0938', 'modality:0.0931', 'accord:0.0871', 'make:0.065']+titles_keywords+['ukraine:0.4156', 'territory:0.2502', 'representation:0.2047', 'agreement:0.2043', 'mfa:0.2007']"
+        ]
+    ],
+    "EUR+UKR+30":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Russias war against Ukraine can be qualified in two words failure and cruelty Borrell.txt+eventbasecode30+eventcode30+avgtone0.4736842105263158+goldsteinscale0.7+nummentions0.008708272859216255+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.468', 'war:0.3875', 'russias:0.3822', 'aggression:0.2925', 'operation:0.2649', 'humanitarian:0.2577', 'consequence:0.2251', 'destroy:0.2078', 'happen:0.1967', 'union:0.1835', 'continue:0.1806', 'donbas:0.1695', 'concerned:0.1665', 'capital:0.1602', 'describing:0.1599', 'railway:0.1536', 'word:0.1526', 'intend:0.1484', 'upcoming:0.1449', 'regroup:0.1324', 'fund:0.1302', 'need:0.1299', 'statement:0.1266', 'second:0.123', 'big:0.1067', 'ready:0.1', 'impossible:0.0874', 'josep:0.069', 'saw:0.0653', 'accord:0.0409']+titles_keywords+['russias:0.4486', 'war:0.4158', 'failure:0.3974', 'cruelty:0.3831', 'borrell:0.1811']"
+        ],
+        [
+            "20220802+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/OSCE presence in Ukraine to continue without Russias consent Rau.txt+eventbasecode30+eventcode30+avgtone0.5056390977443609+goldsteinscale0.7+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['osce:0.464', 'kyiv:0.3276', 'russias:0.2244', 'presence:0.1722', 'accordance:0.1541', 'consent:0.152', 'agreement:0.1495', 'situation:0.1443', 'territory:0.1406', 'continue:0.1258', 'mechanism:0.1213', 'understand:0.102', 'support:0.1017', 'assure:0.1003', 'circumvent:0.0987', 'require:0.0803', 'count:0.0758', 'point:0.0748', 'organize:0.0717', 'extra:0.0675', 'rau:0.0663', 'resolution:0.0654', 'government:0.0634', 'conference:0.0506', 'change:0.0469', 'zbigniew:0.0391', 'press:0.0377', 'foreign:0.0369', 'general:0.0304', 'currently:0.0302']+titles_keywords+['osce:0.4759', 'ukraine:0.4029', 'rau:0.2602', 'continue:0.1757', 'consent:0.1625']"
+        ]
+    ],
+    "RUS+UKR+30":[
+        [
+            "20210703+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Germany intends to promote extension of agreement on gas transit through Ukraine.txt+eventbasecode30+eventcode30+avgtone0.5239520958083833+goldsteinscale0.7+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.3864', 'transit:0.2902', 'extending:0.2718', 'pipeline:0.2547', 'prolong:0.2332', 'gas:0.2311', 'agreement:0.1564', 'steffen:0.1485', 'promote:0.1278', 'implies:0.1222', 'intend:0.1105', 'nord:0.1014', 'sure:0.0931', 'finish:0.0766', 'preserve:0.0705', 'olaf:0.0578', 'finance:0.053', 'ensure:0.0529', 'decades:0.0521', 'current:0.0466', 'seibert:0.0416', 'possibility:0.0407', 'friday:0.0365', 'accord:0.0322', 'seek:0.029', 'federal:0.0286', 'party:0.0228', 'according:0.0198', 'spokesperson:0.0045', 'hard:-0.0669']+titles_keywords+['ukraine:0.3427', 'extension:0.2776', 'gas:0.2042', 'transit:0.1989', 'agreement:0.1727']"
+        ]
+    ],
+    "UKR+RUS+30":[
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/EU to help export Ukrainian wheat if UN reaches deal with Russia Borrell.txt+eventbasecode30+eventcode30+avgtone0.5068493150684932+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.457', 'eu:0.3085', 'wheat:0.2993', 'war:0.219', 'urgent:0.2053', 'brussels:0.1988', 'ensure:0.184', 'security:0.1647', 'export:0.1639', 'facilitate:0.1625', 'agreement:0.152', 'stock:0.1374', 'union:0.1363', 'coordinate:0.1338', 'route:0.118', 'east:0.1163', 'president:0.1141', 'ready:0.1128', 'global:0.1121', 'black:0.1039', 'mission:0.102', 'vulnerable:0.0779', 'representative:0.0766', 'high:0.0697', 'say:0.0582', 'free:0.0483', 'josep:0.0455', 'unblock:0.0423', 'michel:0.0361', 'middle:0.0193']+titles_keywords+['wheat:0.3602', 'ukrainian:0.326', 'export:0.2362', 'borrell:0.2295', 'deal:0.1809']"
+        ]
+    ],
+    "WST+UKR+30":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Zelensky I am ready for dialogue but we are not ready for capitulation.txt+eventbasecode30+eventcode30+avgtone0.4750830564784053+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['crimea:0.4712', 'putin:0.4449', 'vladimir:0.4229', 'zelensky:0.4198', 'nato:0.3858', 'ceasefire:0.3789', 'capitulation:0.3141', 'confrontation:0.2749', 'talk:0.2708', 'federation:0.2687', 'president:0.2607', 'volodymyr:0.2293', 'independence:0.2249', 'ready:0.2151', 'want:0.2147', 'realize:0.2138', 'comply:0.1865', 'occupied:0.1835', 'instead:0.1656', 'news:0.1633', 'issue:0.1596', 'regarding:0.1543', 'lprdpr:0.1428', 'start:0.1427', 'afraid:0.1416', 'point:0.1384', 'oxygen:0.1025', 'guarantee:0.1007', 'time:0.0898', 'knee:0.0845']+titles_keywords+['capitulation:0.5846', 'zelensky:0.5317', 'dialogue:0.3865', 'ready:0.1563']"
+        ]
+    ]
+}

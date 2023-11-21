@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+192":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/b92.net/Ukraine confirmed The enemy has partially succeeded.txt+eventbasecode192+eventcode192+avgtone0.5+goldsteinscale0.025+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.5628', 'ukraine:0.4762', 'donetsk:0.4186', 'ukrainian:0.4184', 'territory:0.3732', 'russian:0.3389', 'corridor:0.2676', 'region:0.2505', 'enemy:0.2375', 'land:0.2238', 'succeed:0.1644', 'partially:0.1542', 'create:0.1516', 'confirm:0.1201', 'announce:0.1149', 'defense:0.1142', 'force:0.1031', 'ministry:0.0047']+titles_keywords+['ukraine:0.4778', 'succeeded:0.4467', 'partially:0.2942', 'enemy:0.2662', 'confirmed:0.0704']"
+        ]
+    ],
+    "RUS+UKR+192":[
+        [
+            "20220602+../news_crawling/RUS_UKR/p_articles/b92.net/The Russians have taken over control.txt+eventbasecode192+eventcode192+avgtone0.5+goldsteinscale0.025+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.003289473684210526+news_keywords+['ukrainian:0.4322', 'russians:0.3927', 'severodonetsk:0.3335', 'russia:0.3294', 'control:0.1902', 'city:0.1619', 'eastern:0.1448', 'british:0.1399', 'key:0.1118', 'announce:0.0873', 'defense:0.0445', 'ministry:-0.029']+titles_keywords+['russians:0.5812', 'control:0.2636', 'taken:0.1764']"
+        ]
+    ]
+}

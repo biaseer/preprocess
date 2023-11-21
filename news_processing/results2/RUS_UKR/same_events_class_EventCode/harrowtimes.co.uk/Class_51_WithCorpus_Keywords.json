@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+51":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/harrowtimes.co.uk/Defence minister backs Ukraine striking Russian soil with British weapons.txt+eventbasecode51+eventcode51+avgtone0.483271375464684+goldsteinscale0.67+nummentions0.15529753265602322+numarticles0.1559100797679478+numsources0.17434210526315788+news_keywords+['ukraine:0.4863', 'nato:0.4498', 'putin:0.4256', 'invade:0.4008', 'war:0.3882', 'military:0.3029', 'firepower:0.2746', 'prepare:0.2676', 'logistics:0.2657', 'oil:0.2585', 'provoking:0.2547', 'lavrovs:0.2535', 'border:0.2488', 'warn:0.2454', 'fortify:0.2378', 'news:0.2162', 'provide:0.2107', 'nonsense:0.2026', 'advantage:0.1916', 'misuse:0.1787', 'depth:0.1759', 'stormer:0.1708', 'kit:0.1635', 'shift:0.1594', 'say:0.1574', 'blame:0.1417', 'line:0.1229', 'evenly:0.1142', 'necessarily:0.0917', 'send:0.0814']+titles_keywords+['ukraine:0.3742', 'striking:0.2176', 'weapons:0.2112', 'backs:0.1292', 'minister:0.081']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/harrowtimes.co.uk/Russia temporarily stops gas flow through Nord Stream 1.txt+eventbasecode51+eventcode51+avgtone0.48044692737430167+goldsteinscale0.67+nummentions0.28156748911465895+numarticles0.2820884699057288+numsources0.2532894736842105+news_keywords+['ukraine:0.4221', 'gas:0.3846', 'embargo:0.3505', 'gazprom:0.3451', 'pipeline:0.3276', 'supply:0.2728', 'government:0.2568', 'eus:0.2522', 'invade:0.2343', 'winter:0.2243', 'nord:0.213', 'comrzsn:0.2081', 'decrease:0.2002', 'ahead:0.1883', 'station:0.1821', 'agreement:0.1792', 'news:0.1771', 'bloc:0.1762', 'reserve:0.1577', 'cite:0.1567', 'report:0.1542', 'urgent:0.148', 'term:0.1448', 'implement:0.1381', 'step:0.1284', 'long:0.1204', 'start:0.1138', 'xg:0.0781', 'ability:0.0759', 'look:0.0714']+titles_keywords+['russia:0.282', 'gas:0.2294', 'nord:0.2261', 'stream:0.1913', 'temporarily:0.1682']"
+        ]
+    ]
+}

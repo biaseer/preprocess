@@ -1,0 +1,17 @@
+{
+    "RUS+RUS+16":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/webindia123.com/Russias Lavrov denies Putin is ill.txt+eventbasecode16+eventcode16+avgtone0.47847682119205304+goldsteinscale0.4+nummentions0.07293178519593614+numarticles0.043509789702683106+numsources0.06578947368421052+news_keywords+['putin:0.5744', 'lavrov:0.3686', 'russias:0.3535', 'cancer:0.3339', 'kyiv:0.3236', 'rumour:0.2439', 'diagnose:0.2278', 'health:0.221', 'parkinson:0.2188', 'reports:0.2021', 'read:0.1934', 'deny:0.1822', 'severe:0.1709', 'strategy:0.1549', 'test:0.1531', 'military:0.1503', 'meeting:0.1497', 'deteriorate:0.1358', 'fight:0.1355', 'daily:0.1332', 'amid:0.1286', 'issue:0.127', 'turn:0.1265', 'intensifies:0.1251', 'fsb:0.1163', 'quote:0.1125', 'come:0.102', 'previously:0.0888', 'direct:0.0871', 'year:0.0743']+titles_keywords+['lavrov:0.4637', 'putin:0.4349', 'russias:0.2225', 'denies:0.1951', 'ill:0.0805']"
+        ]
+    ],
+    "RUS+UKR+16":[
+        [
+            "20220128+../news_crawling/RUS_UKR/p_articles/webindia123.com/India watches Ukraine crisis closely calls for peaceful resolution.txt+eventbasecode16+eventcode16+avgtone0.5+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.385', 'nato:0.3671', 'sanctions:0.2886', 'peaceful:0.2748', 'crisis:0.1899', 'adversaries:0.1882', 'strategic:0.1798', 'pursue:0.1788', 'embassy:0.1756', 'escalate:0.1727', 'stability:0.1616', 'current:0.1295', 'watch:0.1275', 'prepare:0.1063', 'reminds:0.0949', 'acquisition:0.0927', 'vi:0.0897', 'long:0.0889', 'ani:0.0836', 'relate:0.0797', 'tie:0.0778', 'resolution:0.0771', 'privilege:0.0672', 'erstwhile:0.0565', 'independent:0.0548', 'cold:0.0538', 'caatsa:0.0394', 'include:0.0329', 'guide:0.0218', 'asked:0.0201']+titles_keywords+['ukraine:0.3932', 'peaceful:0.3319', 'crisis:0.1751', 'resolution:0.1176', 'watches:0.0922']"
+        ]
+    ],
+    "TUR+UKR+16":[
+        [
+            "20220723+../news_crawling/RUS_UKR/p_articles/webindia123.com/Turkey says Russia has denied attacking Ukrainian Odesa port.txt+eventbasecode16+eventcode16+avgtone0.49519230769230765+goldsteinscale0.4+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['ukraine:0.4555', 'putin:0.4066', 'attack:0.3169', 'worry:0.2465', 'agreement:0.243', 'cnn:0.2218', 'know:0.2105', 'port:0.2044', 'catastrophe:0.1985', 'cite:0.1866', 'military:0.1804', 'disregard:0.1752', 'continue:0.1699', 'order:0.1699', 'odesa:0.1695', 'auspices:0.169', 'bratchuk:0.1626', 'examine:0.1576', 'range:0.153', 'bloc:0.1528', 'tweet:0.1425', 'today:0.1389', 'unblock:0.1353', 'make:0.1238', 'reprehensible:0.1206', 'closely:0.1183', 'possibility:0.1111', 'grain:0.1058', 'ani:0.0958', 'finally:0.0758']+titles_keywords+['turkey:0.3646', 'odesa:0.2582', 'port:0.2142', 'attacking:0.1965', 'denied:0.1303']"
+        ]
+    ]
+}

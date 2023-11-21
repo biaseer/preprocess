@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/tpr.org/Fighting breaks out after Russian troops enter Ukraines secondlargest city.txt+eventbasecode192+eventcode192+avgtone0.44+goldsteinscale0.025+nummentions0.04426705370101597+numarticles0.044960116026105876+numsources0.06578947368421052+news_keywords+['kyiv:0.5358', 'crimea:0.5293', 'ukrainians:0.4974', 'putin:0.3746', 'invade:0.3402', 'revolution:0.3381', 'separatist:0.3336', 'conflict:0.3248', 'know:0.269', 'english:0.2493', 'region:0.2422', 'leave:0.2205', 'soldier:0.2174', 'future:0.2114', 'pipeline:0.209', 'want:0.197', 'tetyana:0.1962', 'worried:0.1952', 'main:0.1882', 'student:0.1868', 'trap:0.1813', 'live:0.1775', 'listen:0.1685', 'briefly:0.1608', 'craziness:0.1519', 'ready:0.1455', 'month:0.1267', 'thousand:0.1115', 'leaflet:0.1026', 'stas:0.0966']+titles_keywords+['ukraines:0.3761', 'fighting:0.3088', 'enter:0.186', 'city:0.1769', 'secondlargest:0.1331']"
+        ],
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/tpr.org/Russia is moving its attacks into western Ukraine.txt+eventbasecode192+eventcode192+avgtone0.4761904761904762+goldsteinscale0.025+nummentions0.125544267053701+numarticles0.126178390137781+numsources0.1118421052631579+news_keywords+['kyiv:0.5402', 'russians:0.3521', 'war:0.3309', 'evacuate:0.3034', 'redeployment:0.2772', 'catastrophe:0.2688', 'adapt:0.2378', 'north:0.2214', 'ivano:0.2095', 'town:0.1942', 'turn:0.1902', 'satellite:0.1867', 'help:0.1846', 'unscathed:0.1737', 'clear:0.1733', 'tank:0.1706', 'imagery:0.1688', 'tell:0.1673', 'unpredictable:0.1627', 'far:0.162', 'horrific:0.1618', 'npr:0.1594', 'airfield:0.1426', 'like:0.1363', 'week:0.0963', 'maternity:0.0906', 'bit:0.0824', 'byline:0.0822', 'hundreds:0.0807', 'ryan:0.0651']+titles_keywords+['ukraine:0.4675', 'russia:0.3729', 'attacks:0.3464', 'moving:0.2943', 'western:0.2508']"
+        ]
+    ]
+}

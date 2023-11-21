@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/saltlakecitysun.com/Russia to publish retaliatory sanctions against West soon.txt+eventbasecode130+eventcode130+avgtone0.48285714285714293+goldsteinscale0.27999999999999997+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['ukraine:0.4335', 'sanction:0.3708', 'retaliatory:0.3051', 'warn:0.2269', 'ryabkov:0.2179', 'military:0.2145', 'soon:0.2119', 'danger:0.2108', 'report:0.2097', 'publish:0.1984', 'news:0.1837', 'western:0.1752', 'operation:0.1749', 'response:0.1646', 'diplomat:0.1571', 'weapon:0.1549', 'begin:0.1398', 'ready:0.1392', 'infrastructure:0.1123', 'february:0.1116', 'list:0.0976', 'legitimate:0.0806', 'transfer:0.0659', 'united:0.0598', 'add:0.0552', 'make:0.0502', 'individual:0.0479', 'ani:0.0413', 'according:0.0341', 'population:0.0219']+titles_keywords+['sanctions:0.5043', 'russia:0.3768', 'retaliatory:0.3133', 'publish:0.2956', 'soon:0.2427']"
+        ]
+    ],
+    "RUS+USA+130":[
+        [
+            "20220121+../news_crawling/RUS_UKR/p_articles/saltlakecitysun.com/Biden dismisses stupid question on Ukraine.txt+eventbasecode130+eventcode130+avgtone0.46857142857142864+goldsteinscale0.27999999999999997+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['putin:0.4503', 'biden:0.4489', 'escalation:0.3371', 'correspondent:0.3194', 'conflict:0.2979', 'preemptive:0.2923', 'threaten:0.2792', 'cyberattacks:0.2599', 'response:0.246', 'remark:0.2442', 'nuclear:0.2362', 'administration:0.2351', 'say:0.2204', 'power:0.219', 'stupid:0.2135', 'conference:0.212', 'flak:0.2028', 'nation:0.1964', 'plan:0.185', 'twitter:0.1814', 'thursday:0.1813', 'washington:0.1774', 'moment:0.1682', 'volodymyr:0.166', 'continue:0.1642', 'heinrich:0.1497', 'hypothetical:0.1487', 'characterization:0.1389', 'minor:0.1182', 'long:0.0965']+titles_keywords+['biden:0.4543', 'ukraine:0.3321', 'stupid:0.2542', 'dismisses:0.2438', 'question:0.1815']"
+        ]
+    ]
+}

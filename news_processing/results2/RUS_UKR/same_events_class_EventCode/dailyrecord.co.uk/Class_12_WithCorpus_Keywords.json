@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+12":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Russia could pose a threat for decades UK defence Minister warns as more troops encircle.txt+eventbasecode12+eventcode12+avgtone0.4739010989010989+goldsteinscale0.48+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4568', 'natos:0.4301', 'kyiv:0.3832', 'diplomacy:0.3527', 'threat:0.3056', 'invade:0.2813', 'escalation:0.2601', 'warn:0.2052', 'telegraph:0.1847', 'border:0.1818', 'armed:0.1683', 'remain:0.1613', 'ploy:0.1582', 'stage:0.1435', 'secretary:0.1425', 'counterpart:0.1313', 'decade:0.1288', 'false:0.1242', 'pose:0.1235', 'thursday:0.119', 'want:0.1138', 'longer:0.1034', 'general:0.0902', 'lull:0.0869', 'unity:0.0761', 'footage:0.0725', 'state:0.0697', 'resolution:0.0684', 'stoltenberg:0.0554', 'really:0.0272']+titles_keywords+['ukraine:0.3365', 'warns:0.2181', 'decades:0.1914', 'troops:0.1677', 'pose:0.082']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Russian assault on welldefended Kyiv would be costly business western officials declare.txt+eventbasecode12+eventcode12+avgtone0.4731638418079096+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5795', 'vladimir:0.3518', 'putins:0.3206', 'battle:0.2754', 'tactic:0.2618', 'compromise:0.1998', 'analysis:0.1906', 'supply:0.1837', 'aircraft:0.1738', 'reserve:0.1703', 'stage:0.1658', 'know:0.1642', 'casualty:0.1572', 'western:0.1534', 'assaulted:0.1523', 'fail:0.1493', 'incremental:0.1486', 'fully:0.1337', 'big:0.1308', 'frontal:0.1253', 'km:0.1251', 'quickly:0.1226', 'count:0.1201', 'fierce:0.119', 'bogged:0.1129', 'low:0.1073', 'encircle:0.0964', 'cost:0.0947', 'compare:0.0905', 'month:0.0738']+titles_keywords+['kyiv:0.5689', 'assault:0.2766', 'welldefended:0.2444', 'business:0.2126', 'costly:0.1657']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Putin has no way back but to fire nuclear weapons Kremlin reporter says.txt+eventbasecode12+eventcode12+avgtone0.4831932773109244+goldsteinscale0.48+nummentions0.0047169811320754715+numarticles0.005438723712835388+numsources0.006578947368421052+news_keywords+['putin:0.4722', 'ukraine:0.4602', 'nato:0.3807', 'war:0.3617', 'nuclear:0.3215', 'sladkov:0.3012', 'propagandist:0.2751', 'predict:0.2685', 'strategies:0.2622', 'news:0.23', 'worry:0.2173', 'remind:0.2078', 'detonate:0.2071', 'end:0.1956', 'speaking:0.1953', 'learn:0.1939', 'know:0.193', 'neighbouring:0.1896', 'report:0.1759', 'boldly:0.1691', 'sign:0.1629', 'nearly:0.1585', 'exactly:0.1527', 'come:0.1416', 'warrant:0.1413', 'unrealistic:0.1386', 'difference:0.1212', 'hour:0.1208', 'kyrylo:0.1093', 'dien:0.0945']+titles_keywords+['putin:0.5162', 'kremlin:0.5016', 'nuclear:0.3536', 'way:0.1247', 'says:0.0498']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Ukraine attacks Russian oil depot as Mariupol awaits evacuations and Putins troops abandon Chernobyl.txt+eventbasecode112+eventcode112+avgtone0.4746922024623803+goldsteinscale0.4+nummentions0.07256894049346879+numarticles0.07324147933284988+numsources0.22697368421052633+news_keywords+['chernobyl:0.5237', 'moscow:0.4277', 'ukrainian:0.4275', 'evacuation:0.4128', 'airstrikes:0.4116', 'putins:0.3742', 'correspondent:0.3031', 'occupy:0.2855', 'decommissioned:0.2698', 'flee:0.2246', 'tank:0.2234', 'corridor:0.2152', 'slaughter:0.21', 'report:0.2077', 'concern:0.2064', 'iaea:0.2047', 'continue:0.1877', 'kryviy:0.1805', 'watchdog:0.1754', 'north:0.1698', 'governor:0.1695', 'immediate:0.1621', 'plant:0.1576', 'irpin:0.1572', 'want:0.1511', 'despite:0.1242', 'deep:0.1053', 'reduce:0.097', 'really:0.0873', 'month:0.0852']+titles_keywords+['chernobyl:0.4583', 'putins:0.3594', 'oil:0.2958', 'depot:0.2464', 'abandon:0.2347']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220808+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Ukraine accuses Moscow of kidnapping children amid ongoing war.txt+eventbasecode112+eventcode112+avgtone0.48552338530066813+goldsteinscale0.4+nummentions0.02358490566037736+numarticles0.02284263959390863+numsources0.06907894736842106+news_keywords+['ukraine:0.4352', 'kidnap:0.4158', 'putin:0.4058', 'war:0.3406', 'orphan:0.328', 'government:0.301', 'correspondent:0.2892', 'flee:0.2757', 'flag:0.2701', 'adopt:0.2557', 'trauma:0.2554', 'kid:0.2466', 'worry:0.2374', 'kartapolov:0.2189', 'help:0.2143', 'negotiate:0.2137', 'hug:0.2063', 'occupied:0.2002', 'watch:0.1901', 'case:0.1857', 'arrive:0.1744', 'continue:0.1677', 'unfathomable:0.1387', 'like:0.1372', 'head:0.1371', 'thousand:0.1263', 'long:0.1231', 'sergiy:0.1156', 'month:0.0979', 'thanks:0.0738']+titles_keywords+['ukraine:0.4537', 'kidnapping:0.3385', 'children:0.292', 'war:0.2646', 'accuses:0.2039']"
+        ]
+    ]
+}

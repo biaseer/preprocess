@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/veteranstoday.com/Lies on blood birthmarks of Western civilization.txt+eventbasecode20+eventcode20+avgtone0.4699537750385208+goldsteinscale0.65+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.029605263157894735+news_keywords+['propaganda:0.5516', 'nazification:0.4227', 'historian:0.3468', 'crusades:0.3204', 'civilise:0.3028', 'blitzkrieg:0.3009', 'regime:0.2926', 'english:0.2814', 'century:0.2783', 'tyutchev:0.2763', 'enemy:0.2686', 'justify:0.2682', 'dramatization:0.2621', 'prussia:0.2528', 'false:0.2281', 'west:0.2165', 'tell:0.2154', 'suffer:0.2134', 'insinuation:0.2133', 'word:0.2079', 'polyphony:0.1983', 'turn:0.1966', 'end:0.1937', 'congregatio:0.1891', 'processed:0.1831', 'slavism:0.1824', 'rampant:0.1754', 'forget:0.1675', 'quote:0.1625', 'birthmark:0.0784']+titles_keywords+['birthmarks:0.5555', 'blood:0.4259', 'civilization:0.3709', 'lies:0.2455', 'western:0.1983']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220204+../news_crawling/RUS_UKR/p_articles/veteranstoday.com/Erdogan Triumphs as Putin Stabs His Best Ally in Back.txt+eventbasecode20+eventcode20+avgtone0.484527687296417+goldsteinscale0.65+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.01644736842105263+news_keywords+['armenias:0.5199', 'crimea:0.4584', 'putin:0.4076', 'turkishazerbaijani:0.3617', 'baku:0.3532', 'eurasianist:0.348', 'atarmeniapedia:0.2919', 'revolution:0.2815', 'artsakh:0.2756', 'predict:0.2614', 'invade:0.2498', 'pashinyan:0.2284', 'peace:0.2026', 'democratic:0.1925', 'worry:0.1763', 'risky:0.163', 'reshape:0.1609', 'pipeline:0.147', 'end:0.1453', 'relation:0.1298', 'grimmer:0.1198', 'haha:0.1171', 'include:0.1157', 'major:0.1126', 'brought:0.111', 'arm:0.1087', 'grateful:0.1064', 'decades:0.1021', 'true:0.0992', 'nearly:0.0951']+titles_keywords+['erdogan:0.5464', 'ally:0.2802', 'triumphs:0.2602', 'stabs:0.2202', 'best:0.0695']"
+        ],
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/veteranstoday.com/Russia calls for international probe into USled biolabs in Ukraine.txt+eventbasecode20+eventcode20+avgtone0.5112781954887218+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4499', 'kremlin:0.4339', 'disinformation:0.3162', 'laboratories:0.2511', 'biological:0.2398', 'accuse:0.2345', 'unprovoked:0.2135', 'tactic:0.2065', 'weapon:0.2024', 'false:0.2006', 'pretext:0.1941', 'probe:0.1934', 'justify:0.1914', 'prc:0.1868', 'read:0.1813', 'nonsense:0.1813', 'crime:0.1685', 'horrific:0.1559', 'state:0.1328', 'continue:0.1301', 'convention:0.1295', 'invent:0.1148', 'double:0.0739', 'conclusively:0.0719', 'premeditate:0.065', 'sort:0.0627', 'spread:0.0547', 'track:0.046', 'year:0.0366', 'echo:0.0292']+titles_keywords+['biolabs:0.4122', 'ukraine:0.3984', 'probe:0.2769', 'usled:0.1046', 'calls:0.0289']"
+        ]
+    ]
+}

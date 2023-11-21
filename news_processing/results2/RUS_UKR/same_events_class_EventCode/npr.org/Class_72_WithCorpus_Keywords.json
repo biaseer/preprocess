@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+72":[
+        [
+            "20220108+../news_crawling/RUS_UKR/p_articles/npr.org/Russia sent troops near Ukraine and to Kazakhstan The US is watching and waiting.txt+eventbasecode72+eventcode72+avgtone0.4871794871794872+goldsteinscale0.915+nummentions0.045718432510885344+numarticles0.046410442349528645+numsources0.039473684210526314+news_keywords+['kazakhstan:0.5249', 'putin:0.4445', 'russians:0.4402', 'counterterrorism:0.386', 'treaty:0.333', 'tokayev:0.2823', 'troop:0.2326', 'protest:0.2054', 'involved:0.1775', 'know:0.1735', 'stability:0.1734', 'implication:0.1552', 'explain:0.1524', 'power:0.142', 'space:0.1367', 'counterpart:0.1351', 'appropriately:0.1351', 'invest:0.1274', 'state:0.1219', 'future:0.1137', 'visit:0.0995', 'rush:0.0957', 'nprs:0.0829', 'send:0.0799', 'head:0.0693', 'little:0.065', 'central:0.0561', 'link:0.0542', 'copyright:0.0434', 'byline:0.0219']+titles_keywords+['ukraine:0.4411', 'troops:0.3039', 'waiting:0.282', 'near:0.1961', 'sent:0.0373']"
+        ]
+    ],
+    "UKR+RUS+72":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/npr.org/Ukrainian musicians and artists respond to the war in many different ways.txt+eventbasecode72+eventcode72+avgtone0.527027027027027+goldsteinscale0.915+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukrainian:0.4999', 'evacuees:0.3863', 'propaganda:0.342', 'vakarchuk:0.3299', 'poem:0.3281', 'band:0.3176', 'peaceful:0.3157', 'molotov:0.2896', 'hear:0.282', 'annexation:0.28', 'know:0.2625', 'live:0.2562', 'flee:0.2526', 'help:0.2474', 'transformed:0.2461', 'space:0.2351', 'midst:0.2334', 'rid:0.2328', 'adrenaline:0.2302', 'transcript:0.2105', 'begin:0.2071', 'future:0.2062', 'nprs:0.1987', 'way:0.1982', 'sort:0.1974', 'contrast:0.19', 'cuddle:0.1874', 'page:0.1841', 'lyana:0.1697', 'recipes:0.1054']+titles_keywords+['musicians:0.442', 'ukrainian:0.4182', 'war:0.3887', 'respond:0.1866', 'different:0.1122']"
+        ]
+    ]
+}

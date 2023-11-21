@@ -1,0 +1,38 @@
+{
+    "BLR+RUS+50":[
+        []
+    ],
+    "CAN+RUS+50":[
+        []
+    ],
+    "CHN+RUS+50":[
+        []
+    ],
+    "EUR+RUS+50":[
+        []
+    ],
+    "EUR+UKR+50":[
+        []
+    ],
+    "IRL+RUS+50":[
+        []
+    ],
+    "RUS+RUS+50":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/msn.com/Zelenskyy calls the Russian military incompetent capable of simply driving their people to slaughter.txt+eventbasecode50+eventcode50+avgtone0.4660087719298246+goldsteinscale0.675+nummentions0.000725689404934688+numarticles0.00036258158085569254+numsources0.0+news_keywords+['zelenskyy:0.4723', 'putin:0.4501', 'ukrainians:0.4348', 'russian:0.4247', 'war:0.3447', 'telegram:0.2836', 'volodymyr:0.2701', 'negotiation:0.2594', 'frontline:0.2471', 'kill:0.2382', 'missile:0.2222', 'talk:0.2025', 'cnn:0.1827', 'continue:0.1572', 'want:0.1537', 'notice:0.1445', 'occupier:0.1445', 'report:0.1419', 'insider:0.1322', 'generation:0.1307', 'reserve:0.1267', 'solution:0.1243', 'capable:0.1168', 'estimate:0.1072', 'ready:0.1057', 'bottomless:0.0949', 'far:0.0922', 'new:0.0916', 'week:0.0547', 'area:0.044']+titles_keywords+['zelenskyy:0.5586', 'russian:0.3572', 'incompetent:0.3395', 'military:0.2371', 'slaughter:0.2267']"
+        ]
+    ],
+    "RUS+UKR+50":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/msn.com/RussiaUkraine war highlights US warns Moscow against use of chemical weapons White House to send.txt+eventbasecode50+eventcode50+avgtone0.48724781119147315+goldsteinscale0.675+nummentions0.09470246734397678+numarticles0.09535895576504713+numsources0.3157894736842105+news_keywords+['ukraine:0.4847', 'kremlin:0.4645', 'diplomacy:0.3941', 'terrorist:0.3306', 'nuclear:0.3085', 'oil:0.2915', 'disrupt:0.2783', 'unhcr:0.2758', 'frontline:0.2685', 'multilateral:0.267', 'escalate:0.2642', 'news:0.251', 'report:0.2485', 'concern:0.2448', 'prepare:0.2374', 'stove:0.228', 'chemical:0.2235', 'prosecution:0.2174', 'cite:0.2004', 'pretext:0.1986', 'know:0.1961', 'agreement:0.1888', 'write:0.1799', 'immediate:0.178', 'feb:0.1569', 'long:0.1431', 'cluster:0.1267', 'importer:0.1215', 'thousands:0.0894', 'welcome:0.0721']+titles_keywords+['russiaukraine:0.4381', 'antiaircraft:0.3541', 'war:0.3448', 'warns:0.2261', 'chemical:0.1976']",
+            "20220316+../news_crawling/RUS_UKR/p_articles/msn.com/Live updates Ukraine Russia continue talks over video.txt+eventbasecode50+eventcode50+avgtone0.47894278245715943+goldsteinscale0.675+nummentions0.09470246734397678+numarticles0.09535895576504713+numsources0.3157894736842105+news_keywords+['ukraine:0.5334', 'nato:0.413', 'putins:0.3861', 'invaded:0.3504', 'airstrikes:0.3473', 'separatist:0.3247', 'news:0.2918', 'orthodox:0.2865', 'peace:0.2767', 'unhcr:0.2749', 'zelenskyy:0.2747', 'troop:0.2536', 'escalate:0.2475', 'know:0.2398', 'unrelated:0.2397', 'hostage:0.2337', 'pandemic:0.212', 'arrive:0.2066', 'fearful:0.198', 'operate:0.196', 'jaroslaw:0.1774', 'curfew:0.1739', 'end:0.1735', 'wrap:0.1702', 'swap:0.1633', 'fully:0.1393', 'biden:0.135', 'synchronize:0.1207', 'welcome:0.092', 'unless:0.0677']+titles_keywords+['ukraine:0.441', 'video:0.3122', 'talks:0.287', 'updates:0.2322', 'continue:0.221']"
+        ],
+        [],
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/msn.com/Ukraine offers to negotiate with Russia without any conditions to allow troops and civilians in.txt+eventbasecode50+eventcode50+avgtone0.49390243902439024+goldsteinscale0.675+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.0+news_keywords+['crimea:0.4869', 'ukrainian:0.4052', 'putin:0.398', 'evacuate:0.3237', 'negotiate:0.3144', 'zelenskyy:0.312', 'peace:0.2874', 'podolyak:0.281', 'mariupol:0.2333', 'bombardment:0.2306', 'military:0.2173', 'president:0.172', 'strategic:0.1706', 'city:0.159', 'begin:0.1444', 'allow:0.1434', 'toll:0.1407', 'condition:0.1362', 'surround:0.1354', 'million:0.1348', 'hold:0.1334', 'people:0.1274', 'ready:0.1186', 'nearly:0.1143', 'child:0.1128', 'hole:0.1037', 'month:0.1005', 'write:0.0977', 'earlier:0.0962', 'target:0.0889']+titles_keywords+['ukraine:0.3902', 'negotiate:0.3749', 'evacuate:0.2247', 'civilians:0.215', 'mariupol:0.2146']"
+        ],
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/msn.com/The Moskva US provided intelligence that helped Ukraine target Russian warship.txt+eventbasecode50+eventcode50+avgtone0.4936708860759494+goldsteinscale0.675+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4063', 'pentagon:0.357', 'operation:0.3296', 'information:0.3258', 'military:0.3102', 'conflict:0.2952', 'pursue:0.2883', 'invasion:0.2815', 'cnn:0.2777', 'moskva:0.2419', 'missile:0.2411', 'maritime:0.2327', 'report:0.2219', 'reiterate:0.2194', 'update:0.2137', 'understand:0.2067', 'forward:0.2019', 'combine:0.1968', 'donbas:0.1897', 'prior:0.1784', 'expert:0.1766', 'biden:0.176', 'posture:0.1625', 'proxy:0.1597', 'careful:0.1469', 'red:0.1385', 'sink:0.1274', 'like:0.1257', 'potential:0.1212', 'decisively:0.1029']+titles_keywords+['moskva:0.4056', 'ukraine:0.3609', 'warship:0.3248', 'intelligence:0.1651', 'helped:0.1039']"
+        ]
+    ]
+}

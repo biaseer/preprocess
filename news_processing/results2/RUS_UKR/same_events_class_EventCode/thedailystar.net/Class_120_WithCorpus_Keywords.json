@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20210627+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Report Classified UK defense papers found at bus stop.txt+eventbasecode120+eventcode120+avgtone0.48262548262548266+goldsteinscale0.3+nummentions0.19013062409288825+numarticles0.19071791153009426+numsources0.20394736842105263+news_keywords+['crimea:0.5764', 'russian:0.3532', 'military:0.3492', 'warship:0.3408', 'afghanistan:0.3397', 'investigation:0.3126', 'security:0.2721', 'intrusion:0.2665', 'report:0.2653', 'bbc:0.2543', 'information:0.2498', 'department:0.2411', 'territorial:0.2331', 'area:0.2026', 'accordance:0.1906', 'bus:0.1781', 'law:0.1723', 'unnamed:0.1721', 'water:0.1671', 'kent:0.1664', 'deny:0.1653', 'sensitive:0.147', 'wednesday:0.1456', 'plan:0.1438', 'page:0.1345', 'want:0.134', 'heap:0.1287', 'possible:0.122', 'soggy:0.0694', 'seriously:0.0328']+titles_keywords+['papers:0.3901', 'classified:0.2909', 'bus:0.2643', 'report:0.2564', 'uk:0.2272']"
+        ],
+        [
+            "20220128+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Russia says does not want war over Ukraine.txt+eventbasecode120+eventcode120+avgtone0.48419301164725453+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['nato:0.4359', 'ukraine:0.4182', 'kremlin:0.3852', 'war:0.3755', 'meeting:0.3187', 'vladimir:0.2985', 'arrangement:0.2844', 'standoff:0.2676', 'olympics:0.2543', 'president:0.2368', 'prepare:0.2294', 'talk:0.2291', 'topic:0.2269', 'border:0.2198', 'escalate:0.2104', 'sanction:0.203', 'want:0.2008', 'date:0.1882', 'jinping:0.1862', 'reporter:0.1836', 'winter:0.1821', 'ambivalence:0.1674', 'end:0.161', 'follow:0.155', 'submit:0.1468', 'tense:0.1397', 'equivalent:0.1331', 'redrawing:0.1092', 'possibility:0.107', 'agree:0.0494']+titles_keywords+['ukraine:0.4749', 'war:0.3429', 'want:0.1747', 'says:0.0615', 'does:0.0537']"
+        ]
+    ],
+    "USA+RUS+120":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Ukraine invasion would bring decisive response Biden tells Putin.txt+eventbasecode120+eventcode120+avgtone0.4841479524438573+goldsteinscale0.3+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4227', 'invade:0.4112', 'nato:0.4095', 'kremlin:0.3825', 'diplomatic:0.3143', 'scenario:0.2714', 'pentagon:0.2622', 'biden:0.2226', 'provocation:0.22', 'border:0.2185', 'autocracies:0.2159', 'counterparts:0.1967', 'ally:0.1727', 'order:0.1724', 'news:0.171', 'compare:0.1614', 'volodymyr:0.1585', 'commit:0.1499', 'discus:0.1496', 'posture:0.1409', 'hysteria:0.1373', 'warning:0.1373', 'ready:0.1279', 'cold:0.1154', 'say:0.1129', 'jostle:0.1091', 'saturday:0.108', 'function:0.096', 'breakthroughs:0.0898', 'major:0.0682']+titles_keywords+['putin:0.3829', 'biden:0.362', 'invasion:0.2629', 'decisive:0.1975', 'bring:0.1609']"
+        ]
+    ]
+}

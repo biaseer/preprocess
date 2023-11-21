@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+70":[
+        [
+            "20210614+../news_crawling/RUS_UKR/p_articles/indiagazette.com/In message to Russia Pentagon to send 250 million in aid to Ukraine.txt+eventbasecode70+eventcode70+avgtone0.48120300751879697+goldsteinscale0.85+nummentions0.06748911465892599+numarticles0.0681653372008702+numsources0.12171052631578948+news_keywords+['ukraine:0.493', 'putin:0.4051', 'pentagon:0.3369', 'annexation:0.3219', 'warfare:0.3029', 'aid:0.2792', 'troop:0.2666', 'evacuation:0.2553', 'drone:0.2493', 'confrontation:0.2397', 'security:0.2243', 'biden:0.2209', 'operational:0.2034', 'command:0.1916', 'enhance:0.1815', 'respond:0.1806', 'lethality:0.1768', 'equipment:0.1666', 'addition:0.1632', 'trigger:0.1611', 'zelenskiy:0.161', 'send:0.1476', 'arm:0.1453', 'million:0.1403', 'friday:0.1403', 'allocation:0.132', 'surge:0.1299', 'include:0.1238', 'donbass:0.1099', 'prior:0.0885']+titles_keywords+['ukraine:0.4309', 'pentagon:0.3517', 'aid:0.2561', 'send:0.2496', 'million:0.2304']"
+        ]
+    ],
+    "UKR+RUS+70":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/indiagazette.com/The Holy Ones NFT Minting Is Live And The Web 3 Gaming Ecosystem Is On.txt+eventbasecode70+eventcode70+avgtone0.49885057471264366+goldsteinscale0.85+nummentions0.026850507982583455+numarticles0.02755620014503263+numsources0.023026315789473683+news_keywords+['theholyonesnft:0.4033', 'nfts:0.3607', 'decentraland:0.3249', 'metaverse:0.3183', 'play:0.3169', 'community:0.3158', 'ones:0.3131', 'minting:0.3062', 'religion:0.3054', 'dapp:0.3013', 'avatars:0.2987', 'beta:0.2983', 'donate:0.2949', 'opensea:0.2753', 'royalty:0.2655', 'website:0.2616', 'wearables:0.2593', 'enter:0.2563', 'collection:0.2549', 'wager:0.2511', 'week:0.245', 'holy:0.2418', 'right:0.2244', 'rps:0.2073', 'eventful:0.2068', 'date:0.2019', 'price:0.1925', 'whitelist:0.1861', 'eventually:0.1855', 'clad:0.1489']+titles_keywords+['nft:0.4591', 'minting:0.4497', 'gaming:0.377', 'web:0.2818', 'holy:0.193']"
+        ]
+    ]
+}

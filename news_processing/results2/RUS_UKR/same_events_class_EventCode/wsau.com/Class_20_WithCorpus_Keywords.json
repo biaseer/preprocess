@@ -1,0 +1,12 @@
+{
+    "AUS+RUS+20":[
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/wsau.com/Australias Graincorp hikes annual profit forecast again amid high demand.txt+eventbasecode20+eventcode20+avgtone0.5076142131979695+goldsteinscale0.65+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['graincorp:0.5545', 'agribusiness:0.5305', 'wheat:0.334', 'crop:0.3006', 'profit:0.2958', 'reap:0.2787', 'supply:0.2723', 'australia:0.2525', 'reuters:0.2433', 'forecast:0.2331', 'annual:0.2097', 'capacity:0.2003', 'processing:0.1983', 'firm:0.17', 'raise:0.1536', 'favourable:0.1506', 'exporter:0.1496', 'tax:0.1461', 'outlook:0.1422', 'replace:0.1367', 'ship:0.1238', 'eca:0.1222', 'combine:0.1038', 'add:0.0963', 'continue:0.0818', 'amid:0.0737', 'set:0.0733', 'say:0.0639', 'hike:0.0375', 'significantly:0.0364']+titles_keywords+['graincorp:0.3896', 'profit:0.2312', 'forecast:0.2309', 'annual:0.1907', 'australias:0.1329']"
+        ]
+    ],
+    "RUS+RUS+20":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/wsau.com/Kremlin tells Biden US has no right to lecture Russia on war crimes.txt+eventbasecode20+eventcode20+avgtone0.46060606060606063+goldsteinscale0.65+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.03289473684210526+news_keywords+['putin:0.5253', 'russias:0.3865', 'russophobic:0.3672', 'genocide:0.3451', 'kyiv:0.3414', 'peskov:0.3174', 'invade:0.3007', 'conflict:0.2807', 'reuters:0.2777', 'sanction:0.2458', 'accuse:0.2403', 'nagasaki:0.2247', 'say:0.2141', 'operation:0.214', 'world:0.2138', 'develop:0.2015', 'respond:0.2008', 'lecture:0.1956', 'nonsense:0.1822', 'superpower:0.1701', 'bidens:0.1692', 'end:0.1585', 'secretary:0.1443', 'pre:0.1364', 'right:0.1333', 'head:0.131', 'ready:0.1165', 'fare:0.1134', 'wider:0.1059', 'state:0.1029']+titles_keywords+['kremlin:0.4555', 'biden:0.3758', 'lecture:0.245', 'crimes:0.1596', 'right:0.0917']"
+        ]
+    ]
+}

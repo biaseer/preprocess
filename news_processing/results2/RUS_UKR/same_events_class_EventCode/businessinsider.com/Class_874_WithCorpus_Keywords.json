@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+874":[
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Ukraine president says he hasnt seen any Russian troop withdrawal despite Kremlin claims.txt+eventbasecode87+eventcode874+avgtone0.4830508474576271+goldsteinscale1.0+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['ukraine:0.4424', 'kremlin:0.3989', 'nato:0.3627', 'invasion:0.2711', 'military:0.2243', 'president:0.2153', 'withdraw:0.2147', 'zelensky:0.2145', 'fact:0.1764', 'believe:0.1718', 'verify:0.1563', 'footage:0.1546', 'warn:0.151', 'remain:0.1396', 'possible:0.135', 'day:0.1226', 'bbc:0.1217', 'dmytro:0.1147', 'look:0.1138', 'earlier:0.0991', 'week:0.0951', 'despite:0.0946', 'say:0.0941', 'distinctly:0.0924', 'honest:0.0898', 'tweet:0.0853', 'react:0.0726', 'increase:0.0631', 'body:0.0283', 'encircle:0.0204']+titles_keywords+['ukraine:0.3669', 'president:0.173', 'troop:0.1697', 'withdrawal:0.1652', 'seen:0.1371']"
+        ],
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/businessinsider.com/A Russian philosopher known as Putins brain said Russias retreat from Kyiv was only temporary.txt+eventbasecode87+eventcode874+avgtone0.4816053511705685+goldsteinscale1.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['kyiv:0.4847', 'putin:0.4744', 'russias:0.3521', 'nato:0.3275', 'eurasianist:0.319', 'retreat:0.2992', 'dvornikov:0.2775', 'pentagon:0.2662', 'tactical:0.2636', 'rhetoric:0.2253', 'reposition:0.2229', 'future:0.1857', 'know:0.1792', 'reinforce:0.1769', 'news:0.1728', 'turn:0.1716', 'insider:0.1608', 'direct:0.146', 'general:0.1444', 'donbas:0.144', 'temporary:0.1423', 'succeed:0.1379', 'fight:0.1328', 'murky:0.1227', 'focus:0.109', 'stoltenberg:0.1074', 'possible:0.1043', 'state:0.1033', 'unipolar:0.0873', 'like:0.0825']+titles_keywords+['kyiv:0.4501', 'putins:0.4394', 'retreat:0.2868', 'brain:0.2367', 'said:0.125']"
+        ]
+    ],
+    "UKR+RUS+874":[
+        [
+            "20220615+../news_crawling/RUS_UKR/p_articles/businessinsider.com/EQSNews Wienerberger AG Wienerberger decides to sell its operations in Russia.txt+eventbasecode87+eventcode874+avgtone0.49866666666666665+goldsteinscale1.0+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['wienerberger:0.4941', 'operation:0.3366', 'russia:0.3355', 'eqsnews:0.3098', 'sell:0.2788', 'ag:0.2063', 'decide:0.0859']+titles_keywords+['wienerberger:0.5393', 'sell:0.2599', 'russia:0.2452', 'eqsnews:0.2174', 'ag:0.2117']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+BEL+120":[
+        [
+            "20211217+../news_crawling/RUS_UKR/p_articles/mediaite.com/Newsmax Host Suggests Tucker Carlson Defends Putin Under Duress from Liberal Bosses at Fox News.txt+eventbasecode120+eventcode120+avgtone0.48637602179836514+goldsteinscale0.3+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.4622', 'newsmax:0.3943', 'fox:0.3597', 'nato:0.3177', 'carlson:0.2794', 'liberal:0.2505', 'duress:0.2386', 'strategic:0.219', 'grant:0.2174', 'compromise:0.2113', 'border:0.1913', 'weaken:0.1826', 'issue:0.179', 'defends:0.1706', 'alleged:0.1682', 'safe:0.1477', 'leftward:0.1442', 'hat:0.1383', 'fact:0.1326', 'conclude:0.1288', 'operate:0.1288', 'monologue:0.1285', 'make:0.1129', 'baffle:0.1105', 'global:0.1104', 'maybe:0.1059', 'night:0.1034', 'doesnt:0.0996', 'course:0.0935', 'like:0.0655']+titles_keywords+['newsmax:0.3963', 'putin:0.3748', 'fox:0.3168', 'carlson:0.3011', 'duress:0.2534']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/mediaite.com/Ukrainian Journalist Flames RT as Dangerous and Culpable in Email Turning Down OnAir Invite.txt+eventbasecode120+eventcode120+avgtone0.490530303030303+goldsteinscale0.3+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.428', 'journalist:0.4172', 'assange:0.3887', 'wikileaks:0.3642', 'rt:0.3435', 'trump:0.2794', 'misinformation:0.278', 'accuse:0.2517', 'block:0.2264', 'position:0.2232', 'invade:0.2171', 'responsibility:0.2087', 'write:0.2082', 'television:0.2031', 'security:0.2014', 'sender:0.197', 'anastasiia:0.184', 'dangerous:0.1827', 'leave:0.1813', 'post:0.1771', 'national:0.1761', 'request:0.1714', 'onair:0.1621', 'understand:0.1528', 'polite:0.1486', 'identify:0.1478', 'example:0.1396', 'flames:0.1048', 'wednesday:0.0946', 'completely:0.0802']+titles_keywords+['rt:0.3688', 'onair:0.3494', 'journalist:0.3234', 'dangerous:0.2497', 'email:0.2474']"
+        ]
+    ]
+}

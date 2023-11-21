@@ -1,0 +1,12 @@
+{
+    "CHN+UKR+20":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/naturalnews.com/China joins call for US to provide full account of its bioweapons research activities in.txt+eventbasecode20+eventcode20+avgtone0.49345549738219896+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['bioterrorism:0.5518', 'pathogen:0.415', 'kremlin:0.4134', 'ukraine:0.4015', 'propaganda:0.3793', 'biolabs:0.3584', 'treaty:0.304', 'investigation:0.2907', 'multilateral:0.2686', 'pentagon:0.2638', 'operation:0.2512', 'lab:0.2506', 'warns:0.2488', 'pretext:0.2326', 'weapons:0.2158', 'disclose:0.2142', 'chemical:0.2095', 'false:0.2036', 'psaki:0.1985', 'relations:0.1952', 'russo:0.1813', 'blame:0.1789', 'stage:0.1734', 'invent:0.1665', 'world:0.1625', 'secretary:0.1622', 'join:0.1497', 'soon:0.1249', 'exactly:0.115', 'confirmed:0.0446']+titles_keywords+['bioweapons:0.3633', 'ukraine:0.33', 'china:0.3295', 'research:0.1428', 'joins:0.0424']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/naturalnews.com/Usual GMO suspects seize upon engineered Ukraine food crisis to demand more genetically engineered crops.txt+eventbasecode20+eventcode20+avgtone0.48936170212765956+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['gmos:0.6373', 'biotechnology:0.5241', 'agriculture:0.4526', 'protectionist:0.2837', 'badfood:0.2667', 'apocalyptic:0.2646', 'grow:0.2634', 'variety:0.2544', 'russia:0.2434', 'conspiracy:0.2403', 'tags:0.2345', 'telegraph:0.231', 'engineering:0.2205', 'breed:0.2114', 'alteration:0.2067', 'idea:0.2047', 'producer:0.2038', 'shortage:0.2014', 'george:0.1952', 'introduce:0.1891', 'push:0.1848', 'global:0.1843', 'expect:0.1772', 'cue:0.1685', 'billion:0.1642', 'franken:0.1628', 'vote:0.1533', 'false:0.1417', 'soar:0.125', 'week:0.088']+titles_keywords+['gmo:0.5998', 'ukraine:0.2542', 'seize:0.1427', 'suspects:0.1346', 'demand:0.1272']"
+        ]
+    ]
+}

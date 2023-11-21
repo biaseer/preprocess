@@ -1,0 +1,15 @@
+{
+    "POL+UKR+51":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Russian offensive turns to key Donbas city heavy shelling.txt+eventbasecode51+eventcode51+avgtone0.49233390119250425+goldsteinscale0.67+nummentions0.20029027576197386+numarticles0.20087019579405366+numsources0.3026315789473684+news_keywords+['kyiv:0.5278', 'russia:0.4221', 'putins:0.3981', 'war:0.3198', 'occupy:0.2713', 'refugee:0.2685', 'zelensky:0.2529', 'destroy:0.2503', 'engage:0.2463', 'turn:0.2427', 'donbas:0.2391', 'sievierodonetsk:0.227', 'democratic:0.2181', 'unify:0.2171', 'industrial:0.2109', 'donald:0.2009', 'dimension:0.1961', 'future:0.1784', 'want:0.1774', 'sanction:0.1727', 'transit:0.1687', 'important:0.1567', 'duda:0.1519', 'ally:0.1496', 'submit:0.1463', 'hour:0.1334', 'concentrate:0.1213', 'northwest:0.1173', 'doctor:0.1164', 'thank:0.0636']+titles_keywords+['donbas:0.4262', 'russian:0.3543', 'shelling:0.2797', 'city:0.2291', 'offensive:0.1963']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/US Russia signal bigger confrontation ahead over Ukraine.txt+eventbasecode51+eventcode51+avgtone0.4789864029666254+goldsteinscale0.67+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4595', 'putin:0.4297', 'natos:0.408', 'diplomacy:0.3597', 'confrontation:0.3302', 'invasion:0.3198', 'reuters:0.2599', 'oligarchs:0.2541', 'escalate:0.2445', 'separatist:0.2357', 'armed:0.2261', 'flag:0.2142', 'gather:0.2068', 'trudeau:0.2062', 'bully:0.2056', 'sanction:0.1989', 'announce:0.1957', 'plan:0.1936', 'faceoff:0.1753', 'alongside:0.1687', 'want:0.1664', 'authorise:0.1595', 'pipeline:0.1574', 'avoid:0.1507', 'tuesday:0.1439', 'big:0.1262', 'look:0.1149', 'stringent:0.1101', 'kilometres:0.0963', 'possibility:0.0586']+titles_keywords+['ukraine:0.3695', 'confrontation:0.3185', 'signal:0.1799', 'bigger:0.1609', 'ahead:0.115']"
+        ],
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Christian Siriano is auctioning off blueandyellow gown to support Ukraine.txt+eventbasecode51+eventcode51+avgtone0.5308880308880309+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['fashion:0.54', 'balenciaga:0.4047', 'ukrainians:0.3825', 'gown:0.3586', 'siriano:0.3417', 'winfrey:0.2656', 'industry:0.2523', 'celeb:0.2521', 'instagram:0.2369', 'bella:0.2316', 'paris:0.2264', 'director:0.2088', 'independent:0.2007', 'grande:0.2007', 'custom:0.1919', 'conflict:0.1902', 'donate:0.1813', 'bidder:0.1809', 'criss:0.1639', 'blueandyellow:0.1629', 'creative:0.1527', 'accord:0.1495', 'caption:0.1345', 'represent:0.1304', 'late:0.126', 'hadid:0.1248', 'autumnwinter:0.1178', 'heartwarmed:0.0995', 'carpet:0.0992', 'hope:0.0918']+titles_keywords+['siriano:0.4607', 'gown:0.4001', 'auctioning:0.3803', 'blueandyellow:0.2773', 'ukraine:0.2429']"
+        ]
+    ]
+}

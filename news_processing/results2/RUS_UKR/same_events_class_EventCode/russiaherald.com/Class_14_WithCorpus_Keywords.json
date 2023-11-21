@@ -1,0 +1,25 @@
+{
+    "PRT+UKR+14":[
+        [
+            "20220819+../news_crawling/RUS_UKR/p_articles/russiaherald.com/UN chief warns Russia against cutting nuclear plant from Ukraine grid.txt+eventbasecode14+eventcode14+avgtone0.49890829694323147+goldsteinscale0.5+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.01644736842105263+news_keywords+['ukraine:0.4897', 'nuclear:0.3914', 'kremlin:0.3796', 'demilitarize:0.3609', 'iaea:0.3449', 'humanitarian:0.3352', 'war:0.2921', 'zelenskyy:0.279', 'warns:0.2748', 'divert:0.2337', 'crisis:0.2329', 'report:0.219', 'grid:0.2088', 'supply:0.2073', 'plan:0.199', 'contact:0.1898', 'capability:0.1842', 'unit:0.1811', 'global:0.1799', 'secure:0.1754', 'strike:0.1709', 'future:0.1694', 'continue:0.1632', 'grain:0.1516', 'appoint:0.1478', 'reiterating:0.1398', 'fact:0.1321', 'agree:0.1237', 'guterres:0.1115', 'highlight:0.0741']+titles_keywords+['ukraine:0.3525', 'nuclear:0.3253', 'warns:0.2211', 'grid:0.1637', 'cutting:0.1285']"
+        ]
+    ],
+    "RUS+UKR+14":[
+        [
+            "20220709+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Russia calls out American goal in arming Ukraine.txt+eventbasecode14+eventcode14+avgtone0.48648648648648646+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.458', 'dod:0.3794', 'artillery:0.3222', 'armed:0.2987', 'troop:0.2655', 'diplomat:0.25', 'conflict:0.2497', 'government:0.2482', 'nationalist:0.2472', 'aid:0.228', 'supply:0.2226', 'terror:0.1893', 'donbass:0.176', 'receive:0.1688', 'intend:0.1651', 'end:0.154', 'unnamed:0.1493', 'casualty:0.1432', 'disposal:0.1362', 'rebut:0.1343', 'launch:0.1342', 'additional:0.1324', 'long:0.1278', 'million:0.1196', 'possible:0.1182', 'round:0.112', 'protract:0.1106', 'important:0.1105', 'say:0.1013', 'millimeter:0.097']+titles_keywords+['ukraine:0.4177', 'arming:0.3159', 'american:0.1993', 'goal:0.1912', 'calls:0.0947']"
+        ]
+    ],
+    "RUS+USA+14":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Ukraine says Russia mining infrastructure facilities in Donetsk urges residents not to go out.txt+eventbasecode14+eventcode14+avgtone0.48275862068965514+goldsteinscale0.5+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4254', 'destabilizing:0.3377', 'terrorist:0.3235', 'attack:0.3173', 'provocation:0.3049', 'occupy:0.2725', 'military:0.269', 'pretext:0.2624', 'psaki:0.2619', 'flag:0.2542', 'border:0.2439', 'scenario:0.2427', 'information:0.2353', 'plan:0.2177', 'avoid:0.2024', 'secretary:0.2008', 'pullback:0.1956', 'donbas:0.1933', 'order:0.1823', 'fabricate:0.1785', 'state:0.1774', 'believe:0.1743', 'contrary:0.1638', 'kindergarten:0.1587', 'authorize:0.1567', 'tweet:0.1561', 'estimate:0.1453', 'wednesday:0.144', 'near:0.1314', 'ani:0.0969']+titles_keywords+['donetsk:0.4733', 'russia:0.3173', 'mining:0.2904', 'residents:0.2178', 'says:0.075']"
+        ],
+        [
+            "20220407+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Naryshkin NATO wants to turn Ukraine into an Afghanistan for Russia.txt+eventbasecode14+eventcode14+avgtone0.48214285714285715+goldsteinscale0.5+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.019736842105263157+news_keywords+['nato:0.4411', 'kyiv:0.4073', 'sergey:0.3296', 'naryshkin:0.3197', 'afghanistan:0.281', 'escalation:0.2318', 'conflict:0.2309', 'strategist:0.2273', 'turn:0.2121', 'want:0.1959', 'novosti:0.1903', 'militant:0.1766', 'make:0.1416', 'fail:0.1326', 'point:0.1261', 'prolong:0.1216', 'american:0.1216', 'organize:0.1096', 'prevent:0.1004', 'current:0.0982', 'west:0.0899', 'underground:0.0868', 'clear:0.0823', 'possible:0.0728', 'like:0.0699', 'new:0.0696', 'according:0.0532', 'considers:0.0518', 'head:0.0444', 'ria:0.0331']+titles_keywords+['naryshkin:0.5305', 'nato:0.5223', 'ukraine:0.4833', 'wants:0.1575', 'turn:0.1528']"
+        ]
+    ],
+    "UKR+RUS+14":[
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Sentenced Russian soldier can be exchanged Ukraine.txt+eventbasecode14+eventcode14+avgtone0.4725877192982456+goldsteinscale0.5+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4431', 'kremlin:0.3985', 'shelipov:0.3256', 'diplomat:0.2987', 'victim:0.2919', 'war:0.2847', 'blockade:0.2713', 'sergeant:0.2554', 'exchange:0.2538', 'mistreatment:0.2505', 'agreement:0.235', 'law:0.232', 'scenario:0.2145', 'appeal:0.2124', 'concern:0.2082', 'shishimarin:0.2071', 'replace:0.1946', 'shoot:0.1849', 'breakaway:0.1843', 'status:0.1839', 'refer:0.1743', 'fatally:0.1677', 'neutral:0.155', 'long:0.1514', 'follow:0.1435', 'declare:0.1412', 'act:0.1387', 'standard:0.1277', 'donbass:0.1234', 'late:0.087']+titles_keywords+['ukraine:0.3518', 'russian:0.3323', 'sentenced:0.3272', 'soldier:0.2862', 'exchanged:0.2719']"
+        ]
+    ]
+}

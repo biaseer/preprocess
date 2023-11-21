@@ -1,0 +1,22 @@
+{
+    "AZE+UKR+40":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/azertag.az/Azerbaijani Russian FMs discuss situation in Ukraine.txt+eventbasecode40+eventcode40+avgtone0.5081967213114754+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['azerbaijan:0.4479', 'diplomacy:0.3485', 'sergey:0.3402', 'lavrov:0.334', 'russian:0.3138', 'communication:0.2201', 'affairs:0.2049', 'meet:0.2045', 'counterpart:0.1786', 'fms:0.1648', 'relation:0.1638', 'discuss:0.1467', 'minister:0.1385', 'exchange:0.1383', 'issue:0.1381', 'forum:0.1322', 'border:0.131', 'delimitation:0.1235', 'trilateral:0.1099', 'current:0.1042', 'jeyhun:0.0852', 'process:0.0803', 'open:0.0784', 'statement:0.0706', 'eliminate:0.0696', 'way:0.0646', 'normalization:0.0583', 'factor:0.0537', 'view:0.0268', 'include:0.0189']+titles_keywords+['ukraine:0.4437', 'azerbaijani:0.4218', 'fms:0.2034', 'discuss:0.1559', 'situation:0.1273']"
+        ]
+    ],
+    "EGY+UKR+40":[
+        [
+            "20220725+../news_crawling/RUS_UKR/p_articles/azertag.az/Lavrov Egyptian president discuss Ukrainian crisis Russian projects in Egypt.txt+eventbasecode40+eventcode40+avgtone0.5+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4203', 'diplomatic:0.3795', 'suez:0.3769', 'russias:0.3139', 'multilateral:0.2658', 'lavrov:0.2625', 'sisi:0.257', 'meeting:0.2369', 'relation:0.2307', 'nuclear:0.21', 'inform:0.1971', 'industrial:0.1826', 'greeting:0.1767', 'readiness:0.174', 'supply:0.1727', 'project:0.1444', 'agreement:0.144', 'crisis:0.1394', 'priority:0.13', 'visit:0.1256', 'foreign:0.1191', 'reiterate:0.1184', 'el:0.1161', 'note:0.0896', 'estimate:0.0781', 'bilaterally:0.0719', 'april:0.0618', 'rady:0.056', 'thank:0.0462', 'currently:0.0454']+titles_keywords+['lavrov:0.3959', 'ukrainian:0.361', 'egypt:0.2966', 'projects:0.1645', 'crisis:0.141']"
+        ]
+    ],
+    "EUR+RUS+40":[
+        [
+            "20220125+../news_crawling/RUS_UKR/p_articles/azertag.az/Biden European leaders discuss RussiaUkraine tensions.txt+eventbasecode40+eventcode40+avgtone0.5+goldsteinscale0.55+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['biden:0.4349', 'nato:0.3666', 'ukraines:0.3522', 'eu:0.3143', 'russiaukraine:0.3077', 'macron:0.2987', 'osce:0.235', 'allies:0.2125', 'sovereignty:0.1748', 'leader:0.1664', 'andrzej:0.1655', 'concern:0.1643', 'discuss:0.1607', 'monday:0.1491', 'say:0.1356', 'consultation:0.1285', 'von:0.1184', 'olaf:0.0987', 'white:0.0902', 'commission:0.0812', 'statement:0.0748', 'draghi:0.0731', 'duda:0.0669', 'continue:0.0647', 'close:0.0578', 'buildup:0.0566', 'include:0.0446', 'video:0.0396', 'express:0.0134', 'house:0.0033']+titles_keywords+['biden:0.4218', 'russiaukraine:0.3584', 'tensions:0.3121', 'discuss:0.1984', 'european:0.1573']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/azertag.az/Turkish president UN chief hold phone talk.txt+eventbasecode40+eventcode40+avgtone0.5040983606557377+goldsteinscale0.55+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['erdogan:0.5282', 'turkiye:0.4856', 'ankara:0.4848', 'turkish:0.4194', 'kyiv:0.3904', 'russia:0.3632', 'tayyip:0.352', 'president:0.326', 'humanitarian:0.3221', 'evacuations:0.2969', 'peace:0.2953', 'communications:0.2669', 'talk:0.2411', 'contact:0.2297', 'directorate:0.2227', 'secretary:0.2093', 'general:0.1944', 'crisis:0.1906', 'continue:0.1761', 'work:0.1658', 'recep:0.1521', 'say:0.141', 'note:0.1259', 'hold:0.1231', 'ready:0.1188', 'encourage:0.1136', 'statement:0.0909', 'guterres:0.0816', 'late:0.077', 'accord:-0.0213']+titles_keywords+['turkish:0.3587', 'talk:0.3309', 'president:0.2749', 'phone:0.2563', 'hold:0.1791']"
+        ]
+    ]
+}

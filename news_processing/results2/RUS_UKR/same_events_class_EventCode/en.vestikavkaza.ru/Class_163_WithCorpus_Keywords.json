@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+163":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/en.vestikavkaza.ru/Canada imposing sanctions against Russia due to recognition of DPR LPR.txt+eventbasecode163+eventcode163+avgtone0.4828767123287671+goldsteinscale0.1+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['sanctions:0.4858', 'ukraines:0.4499', 'canada:0.3597', 'russian:0.329', 'trudeau:0.3246', 'ban:0.2782', 'government:0.2446', 'diplomatic:0.2406', 'lugansk:0.2117', 'territorial:0.2065', 'prevent:0.2019', 'sovereign:0.1976', 'engage:0.1557', 'remain:0.133', 'vote:0.122', 'independent:0.1183', 'state:0.116', 'bank:0.1138', 'recognize:0.1098', 'additional:0.1074', 'prime:0.1014', 'tuesday:0.0836', 'purchase:0.0828', 'decision:0.0779', 'round:0.0745', 'resolution:0.0739', 'force:0.0633', 'lpr:0.0619', 'seek:0.0533', 'restore:0.0448']+titles_keywords+['sanctions:0.4813', 'dpr:0.3564', 'lpr:0.3293', 'canada:0.2808', 'recognition:0.1219']"
+        ]
+    ],
+    "USA+RUS+163":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/en.vestikavkaza.ru/Biden tells Zelensky about US plans on imposing sanctions on Russia.txt+eventbasecode163+eventcode163+avgtone0.49609375+goldsteinscale0.1+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.006578947368421052+news_keywords+['putin:0.4294', 'biden:0.3777', 'vladimir:0.349', 'zelensky:0.3469', 'ukrainian:0.3363', 'sanction:0.3298', 'russias:0.3289', 'donetsk:0.2754', 'agreements:0.2313', 'sovereignty:0.2202', 'report:0.1676', 'respond:0.1658', 'aggression:0.1569', 'plan:0.1557', 'reiterate:0.147', 'introduce:0.1452', 'region:0.1249', 'february:0.1161', 'purportedly:0.1103', 'decision:0.0931', 'press:0.0909', 'step:0.0903', 'counterpart:0.0828', 'recognize:0.0816', 'swiftly:0.0768', 'mutual:0.0748', 'assistance:0.0329', 'lpr:0.032', 'dnr:0.02', 'house:-0.003']+titles_keywords+['zelensky:0.4632', 'sanctions:0.3759', 'biden:0.3719', 'plans:0.162', 'tells:0.1201']"
+        ]
+    ]
+}

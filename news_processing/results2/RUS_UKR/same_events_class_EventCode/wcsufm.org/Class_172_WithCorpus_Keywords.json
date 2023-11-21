@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+172":[
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/wcsufm.org/Kyiv hit by Russian airstrikes as information from Mariupol is throttled.txt+eventbasecode172+eventcode172+avgtone0.5+goldsteinscale0.25+nummentions0.09579100145137881+numarticles0.09644670050761421+numsources0.2138157894736842+news_keywords+['kyiv:0.6037', 'russians:0.3955', 'zelenskyy:0.3794', 'airstrikes:0.3724', 'boychenko:0.3215', 'troop:0.2611', 'fight:0.2292', 'happen:0.2233', 'range:0.2051', 'recaptured:0.1993', 'safe:0.199', 'visit:0.1899', 'follow:0.1823', 'railway:0.1703', 'eastern:0.1687', 'information:0.1686', 'npr:0.1576', 'remember:0.1576', 'lull:0.152', 'video:0.1427', 'weekend:0.1365', 'separate:0.1335', 'hole:0.1305', 'end:0.1292', 'word:0.127', 'large:0.1269', 'bit:0.1253', 'building:0.1247', 'true:0.0846', 'cost:0.0538']+titles_keywords+['kyiv:0.5644', 'airstrikes:0.3626', 'hit:0.2671', 'mariupol:0.2143', 'throttled:0.2117']"
+        ]
+    ],
+    "UKR+RUS+172":[
+        [
+            "20220813+../news_crawling/RUS_UKR/p_articles/wcsufm.org/Ukrainian health minister says Russia is blocking access to medicines.txt+eventbasecode172+eventcode172+avgtone0.4747191011235955+goldsteinscale0.25+nummentions0.2663280116110305+numarticles0.2668600435097897+numsources0.40131578947368424+news_keywords+['ukraine:0.4893', 'putin:0.4101', 'humanitarian:0.31', 'war:0.3068', 'invade:0.2982', 'coronavirus:0.2827', 'hospital:0.2734', 'casualty:0.27', 'medication:0.2448', 'infrastructure:0.2309', 'liashko:0.2303', 'crime:0.2041', 'viktor:0.1769', 'occupied:0.1669', 'allow:0.1613', 'interfere:0.1473', 'corridor:0.1325', 'subsidized:0.1255', 'undergo:0.1253', 'order:0.1246', 'cause:0.1178', 'care:0.114', 'accuse:0.1119', 'million:0.0946', 'document:0.0882', 'directly:0.0828', 'aug:0.0797', 'run:0.0713', 'recognize:0.0635', 'largely:0.0364']+titles_keywords+['ukrainian:0.4055', 'medicines:0.3243', 'blocking:0.1447', 'access:0.1077', 'minister:0.0716']"
+        ]
+    ]
+}

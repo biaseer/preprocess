@@ -1,0 +1,17 @@
+{
+    "CHN+RUS+20":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/asiaone.com/Backlash in China over vulgar social media mocking of Ukraine conflict.txt+eventbasecode20+eventcode20+avgtone0.47026022304832715+goldsteinscale0.65+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4506', 'xinhua:0.3456', 'war:0.3285', 'weibo:0.3026', 'flag:0.2855', 'backlash:0.2776', 'provocative:0.2702', 'concern:0.2676', 'embassy:0.2637', 'asians:0.2535', 'read:0.2523', 'flee:0.2515', 'chen:0.244', 'curfew:0.2392', 'instead:0.2113', 'speak:0.2005', 'contact:0.1868', 'term:0.1824', 'map:0.1784', 'viewpoint:0.1678', 'student:0.1616', 'treat:0.1609', 'woman:0.1594', 'bad:0.1542', 'resource:0.1536', 'rational:0.1466', 'quote:0.1343', 'gladly:0.1197', 'include:0.1194', 'limit:0.0705']+titles_keywords+['ukraine:0.3473', 'backlash:0.3125', 'mocking:0.2837', 'vulgar:0.2704', 'media:0.2399']"
+        ]
+    ],
+    "RUS+RUS+20":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/asiaone.com/Vladimir Putins advisers too afraid to tell him the truth on Ukraine White House says.txt+eventbasecode20+eventcode20+avgtone0.4723809523809524+goldsteinscale0.65+nummentions0.03918722786647315+numarticles0.03915881073241479+numsources0.06578947368421052+news_keywords+['putin:0.4587', 'kyiv:0.3635', 'war:0.3477', 'strategic:0.329', 'invasion:0.2882', 'diplomat:0.2798', 'operation:0.2643', 'mislead:0.2447', 'conscript:0.236', 'dissension:0.2338', 'pursue:0.2304', 'information:0.225', 'unprovoked:0.2196', 'result:0.1995', 'sanction:0.1915', 'table:0.1817', 'indication:0.1743', 'forward:0.1685', 'extend:0.1631', 'brief:0.1573', 'surround:0.1401', 'press:0.138', 'begin:0.1325', 'reconsider:0.1249', 'suffer:0.1248', 'think:0.1207', 'does:0.1202', 'immediately:0.1174', 'save:0.1159', 'like:0.1119']+titles_keywords+['putins:0.3887', 'afraid:0.2977', 'advisers:0.2837', 'truth:0.1321', 'house:0.0397']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220521+../news_crawling/RUS_UKR/p_articles/asiaone.com/Ukraines Zelenskiy proposes formal deal on compensation from Russia.txt+eventbasecode20+eventcode20+avgtone0.47164948453608246+goldsteinscale0.65+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['ukraines:0.4573', 'compensation:0.3804', 'multilateral:0.3138', 'russian:0.3129', 'agreement:0.2695', 'zelenskiy:0.263', 'victim:0.2478', 'war:0.2292', 'redistribute:0.2211', 'sanctioned:0.2165', 'help:0.2101', 'signatory:0.203', 'infrastructure:0.1948', 'seize:0.1886', 'damage:0.1825', 'secure:0.173', 'aggressive:0.1705', 'property:0.1702', 'incur:0.158', 'plan:0.1561', 'law:0.1444', 'rebuild:0.1433', 'address:0.1349', 'mechanism:0.1328', 'everybody:0.1198', 'friday:0.1136', 'feel:0.1054', 'cause:0.1015', 'state:0.0674', 'special:0.0665']+titles_keywords+['zelenskiy:0.5115', 'ukraines:0.36', 'compensation:0.3441', 'deal:0.2387', 'formal:0.1195']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "JPN+RUS+190":[
+        [
+            "20220822+../news_crawling/RUS_UKR/p_articles/1470wmbd.com/Daughter of ultranationalist Russian ideologue killed in suspected car bomb attack.txt+eventbasecode190+eventcode190+avgtone0.4835640138408304+goldsteinscale0.0+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.023026315789473683+news_keywords+['russiangovernment:0.5392', 'kyiv:0.4298', 'investigation:0.395', 'terrorism:0.3776', 'zakharova:0.3417', 'regioninvestigatorsshowed:0.3329', 'darya:0.3324', 'journalist:0.3261', 'nato:0.3186', 'kill:0.3039', 'dugina:0.2913', 'mykhailo:0.2824', 'suspected:0.2704', 'whererussianforces:0.2613', 'ideologue:0.259', 'pursue:0.2455', 'daughterof:0.2371', 'responsible:0.2202', 'waskilledon:0.2065', 'foreign:0.2041', 'point:0.189', 'happen:0.1883', 'unification:0.1828', 'asuspectedexplosive:0.1742', 'debris:0.1475', 'website:0.1437', 'switchcars:0.1243', 'long:0.1149', 'open:0.0989', 'add:0.0339']+titles_keywords+['russian:0.3675', 'daughter:0.3306', 'bomb:0.3255', 'ideologue:0.3253', 'killed:0.2346']"
+        ]
+    ],
+    "WST+UKR+190":[
+        [
+            "20220619+../news_crawling/RUS_UKR/p_articles/1470wmbd.com/NATO warns of long Ukraine war as battles in the east grind on.txt+eventbasecode190+eventcode190+avgtone0.48406374501992033+goldsteinscale0.0+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.5077', 'nato:0.4374', 'moscows:0.3614', 'war:0.3597', 'evacuation:0.3466', 'separatist:0.2801', 'logistics:0.2779', 'news:0.2674', 'warn:0.2593', 'telegram:0.2415', 'long:0.2405', 'sievierodonetsks:0.232', 'volodymyr:0.2276', 'boris:0.2244', 'tank:0.2202', 'analysts:0.2168', 'turn:0.2069', 'secretary:0.1988', 'advance:0.1891', 'heard:0.182', 'baseless:0.181', 'friday:0.1669', 'visit:0.1632', 'main:0.1592', 'mood:0.1577', 'complete:0.1521', 'focus:0.1433', 'make:0.1414', 'pretext:0.1333', 'piece:0.1144']+titles_keywords+['nato:0.4187', 'ukraine:0.351', 'long:0.3013', 'warns:0.2339', 'battles:0.1911']"
+        ]
+    ]
+}

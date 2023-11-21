@@ -1,0 +1,12 @@
+{
+    "RUS+TUR+90":[
+        [
+            "20220802+../news_crawling/RUS_UKR/p_articles/rhyljournal.co.uk/Bad weather in Black Sea slows down first Ukrainian grain shipment.txt+eventbasecode90+eventcode90+avgtone0.48648648648648646+goldsteinscale0.4+nummentions0.1081277213352685+numarticles0.10877447425670776+numsources0.12171052631578948+news_keywords+['ukraine:0.4681', 'kremlin:0.431', 'azov:0.4199', 'battalion:0.3887', 'separatists:0.3212', 'olenivka:0.3141', 'bombardment:0.306', 'terrorist:0.2897', 'know:0.254', 'admiral:0.242', 'pandemic:0.2339', 'report:0.2296', 'update:0.2099', 'continue:0.2039', 'history:0.2024', 'designate:0.2019', 'wheat:0.1895', 'safe:0.184', 'stockpile:0.1822', 'explanation:0.1783', 'forefront:0.1735', 'fight:0.1695', 'long:0.1681', 'compliance:0.1641', 'area:0.1541', 'withdraw:0.1541', 'turn:0.1535', 'televise:0.1523', 'early:0.1416', 'deal:0.0969']+titles_keywords+['shipment:0.3388', 'grain:0.289', 'ukrainian:0.2752', 'weather:0.2452', 'slows:0.1938']"
+        ]
+    ],
+    "RUS+UKR+90":[
+        [
+            "20220803+../news_crawling/RUS_UKR/p_articles/rhyljournal.co.uk/Cargo ship carrying Ukrainian grain awaits inspection off Turkey.txt+eventbasecode90+eventcode90+avgtone0.4971751412429379+goldsteinscale0.4+nummentions0.21262699564586357+numarticles0.2131979695431472+numsources0.19078947368421054+news_keywords+['ukraine:0.4427', 'shipment:0.3684', 'istanbul:0.3536', 'aegean:0.3273', 'vessel:0.2962', 'bosporus:0.2752', 'corn:0.2188', 'port:0.2186', 'flag:0.2052', 'straits:0.2025', 'inspection:0.1969', 'invasion:0.1863', 'anchor:0.1845', 'want:0.1826', 'accordance:0.1553', 'withdraw:0.1436', 'sierra:0.1307', 'unblock:0.1305', 'reader:0.1276', 'important:0.1274', 'misuse:0.1153', 'global:0.1123', 'ready:0.1042', 'story:0.0983', 'set:0.0961', 'month:0.0747', 'lively:0.0718', 'dujarric:0.0708', 'debate:0.0687', 'ease:0.0571']+titles_keywords+['turkey:0.3388', 'cargo:0.333', 'inspection:0.2749', 'grain:0.261', 'awaits:0.1555']"
+        ]
+    ]
+}

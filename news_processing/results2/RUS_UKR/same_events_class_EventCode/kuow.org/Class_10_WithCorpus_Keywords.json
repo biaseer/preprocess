@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20211224+../news_crawling/RUS_UKR/p_articles/kuow.org/How the Soviet Unions collapse explains the current RussiaUkraine tension.txt+eventbasecode10+eventcode10+avgtone0.48389694041867953+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kremlin:0.4747', 'gorbachev:0.406', 'crimean:0.3617', 'geopolitical:0.3589', 'nato:0.3349', 'collapse:0.3134', 'history:0.2564', 'untangled:0.2038', 'union:0.2025', 'structure:0.1984', 'coup:0.185', 'happen:0.1637', 'relation:0.163', 'study:0.1609', 'transformation:0.1593', 'end:0.1578', 'complicate:0.1504', 'news:0.1487', 'table:0.1478', 'formal:0.1264', 'term:0.1263', 'warn:0.124', 'misunderstood:0.1135', 'state:0.1067', 'precondition:0.0909', 'big:0.0908', 'right:0.0889', 'integrate:0.0778', 'someday:0.0718', 'add:0.0374']+titles_keywords+['soviet:0.4757', 'unions:0.3123', 'tension:0.3032', 'collapse:0.2653', 'explains:0.1655']"
+        ],
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/kuow.org/Stalled and frustrated Putin will likely doubledown in the coming weeks CIA says.txt+eventbasecode10+eventcode10+avgtone0.47531461762+goldsteinscale0.5+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['putin:0.5111', 'kyiv:0.3625', 'strategic:0.2797', 'nuclear:0.2687', 'turmoil:0.2615', 'interpret:0.242', 'alert:0.222', 'escalate:0.2209', 'jinping:0.2144', 'uncertain:0.204', 'border:0.2036', 'distract:0.2033', 'sanction:0.2015', 'prepared:0.1934', 'endgame:0.1897', 'troop:0.1892', 'intend:0.1826', 'long:0.1751', 'continue:0.1748', 'watch:0.1667', 'order:0.1655', 'modernize:0.1655', 'winter:0.1549', 'worldwide:0.1518', 'right:0.1308', 'state:0.1271', 'major:0.1227', 'include:0.1128', 'largely:0.1067', 'head:0.1048']+titles_keywords+['putin:0.4272', 'doubledown:0.2602', 'weeks:0.2124', 'likely:0.1984', 'coming:0.12']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/kuow.org/Microsoft president describes the digital assault on Ukraine.txt+eventbasecode10+eventcode10+avgtone0.47282608695652173+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['cyberattacks:0.5455', 'microsoft:0.4544', 'ukrainian:0.4332', 'nato:0.418', 'invasion:0.406', 'propaganda:0.3893', 'tech:0.3101', 'economy:0.2487', 'conflict:0.244', 'bureaucratic:0.2384', 'data:0.2314', 'missile:0.2297', 'humanitarian:0.2201', 'concerned:0.2094', 'foxblade:0.2085', 'sector:0.1933', 'feed:0.1876', 'precisely:0.1665', 'update:0.1653', 'digital:0.1634', 'write:0.1449', 'day:0.1406', 'notpetya:0.1347', 'swiftly:0.1301', 'sure:0.1245', 'step:0.1231', 'focus:0.12', 'official:0.11', 'state:0.0975', 'long:0.0923']+titles_keywords+['microsoft:0.5256', 'ukraine:0.3499', 'president:0.2342', 'assault:0.2058', 'describes:0.1344']"
+        ]
+    ]
+}

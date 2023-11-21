@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+14":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Mikhail Gorbachev urged British boy to live a life that makes a difference.txt+eventbasecode14+eventcode14+avgtone0.5025380710659898+goldsteinscale0.5+nummentions0.25544267053701014+numarticles0.25598259608411894+numsources0.3848684210526316+news_keywords+['gorbachev:0.6327', 'soviet:0.4585', 'perestroika:0.4082', 'putins:0.3788', 'thatcher:0.3508', 'boris:0.2428', 'ambassador:0.2281', 'british:0.2074', 'policy:0.1843', 'business:0.1672', 'lebanon:0.1621', 'famously:0.1614', 'mr:0.159', 'read:0.154', 'successful:0.1494', 'prompt:0.1409', 'world:0.1398', 'young:0.139', 'encourage:0.128', 'aggression:0.1266', 'note:0.1197', 'death:0.1135', 'say:0.113', 'dear:0.1044', 'year:0.0903', 'difference:0.0868', 'include:0.0683', 'iron:0.0647', 'brought:0.0557', 'curtain:0.0265']+titles_keywords+['gorbachev:0.5048', 'british:0.2597', 'live:0.1909', 'urged:0.1291', 'difference:0.1267']"
+        ]
+    ],
+    "RUS+UKR+14":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/countypress.co.uk/Russian soldier sentenced to life at Kyiv war crimes trial.txt+eventbasecode14+eventcode14+avgtone0.4646017699115045+goldsteinscale0.5+nummentions0.11465892597968069+numarticles0.11530094271211022+numsources0.2598684210526316+news_keywords+['kyiv:0.483', 'ukrainians:0.4092', 'kremlin:0.4021', 'yavorsky:0.3398', 'civilians:0.3212', 'war:0.3186', 'murder:0.3075', 'trial:0.3068', 'nationalist:0.266', 'casualty:0.2438', 'sergeant:0.2418', 'interrogate:0.2367', 'atrocity:0.2267', 'sentence:0.1946', 'tank:0.1901', 'decide:0.1837', 'shishimarin:0.1706', 'bucha:0.154', 'organisation:0.1425', 'return:0.1407', 'happen:0.1308', 'seize:0.1276', 'eastern:0.1155', 'far:0.1091', 'unprepared:0.1089', 'prove:0.1078', 'eventual:0.098', 'numerous:0.0889', 'main:0.0874', 'reader:0.0753']+titles_keywords+['kyiv:0.4269', 'russian:0.3566', 'sentenced:0.3469', 'soldier:0.2412', 'life:0.2062']"
+        ]
+    ]
+}

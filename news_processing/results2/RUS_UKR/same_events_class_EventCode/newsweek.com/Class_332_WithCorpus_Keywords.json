@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+332":[
+        [
+            "20220822+../news_crawling/RUS_UKR/p_articles/newsweek.com/Alexander Dugins Daughter Killed by AntiWar Russians Former State Deputy.txt+eventbasecode33+eventcode332+avgtone0.46299483648881234+goldsteinscale0.76+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['putin:0.5417', 'soviet:0.489', 'pravda:0.4631', 'tsargrad:0.4508', 'propaganda:0.4321', 'eurasianism:0.4227', 'warmonger:0.3676', 'antiwar:0.3257', 'murder:0.292', 'partisan:0.2854', 'dugin:0.2649', 'read:0.26', 'fratricidal:0.2501', 'know:0.2165', 'report:0.213', 'telegram:0.2129', 'daria:0.2093', 'vyazomy:0.2041', 'businessmen:0.1873', 'turn:0.1758', 'outlet:0.174', 'superpower:0.1572', 'prepare:0.1538', 'list:0.1478', 'create:0.1467', 'night:0.1453', 'authorize:0.1444', 'subsequent:0.141', 'state:0.1365', 'et:0.1001']+titles_keywords+['dugins:0.3198', 'russians:0.2923', 'killed:0.2758', 'daughter:0.2756', 'antiwar:0.2555']"
+        ]
+    ],
+    "WST+UKR+332":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/newsweek.com/Bolton Says US Would Be in Worse Shape Had Trump Nixed NATO.txt+eventbasecode33+eventcode332+avgtone0.4944055944055944+goldsteinscale0.76+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.5772', 'putin:0.3772', 'nation:0.254', 'bolton:0.2432', 'diplomatic:0.2391', 'attack:0.2348', 'donald:0.2346', 'economy:0.2072', 'nonmember:0.1884', 'nixed:0.187', 'enter:0.1865', 'want:0.1695', 'deters:0.1664', 'organization:0.1636', 'opinion:0.1614', 'powerful:0.1514', 'consequence:0.1502', 'make:0.1305', 'increase:0.1242', 'precondition:0.1233', 'volodymyr:0.1173', 'state:0.1095', 'psaki:0.1041', 'saysthat:0.104', 'current:0.0969', 'times:0.0943', 'memoir:0.0865', 'week:0.0795', 'fully:0.065', 'maybe:0.0313']+titles_keywords+['nato:0.4714', 'bolton:0.2447', 'worse:0.2336', 'trump:0.1704', 'nixed:0.145']"
+        ],
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/newsweek.com/Jamie Raskin Slams Marjorie Taylor Greene For Likening NATO Allies to Nazis.txt+eventbasecode33+eventcode332+avgtone0.4770569620253165+goldsteinscale0.76+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nazisan:0.455', 'kremlin:0.3866', 'democrats:0.362', 'nato:0.3605', 'appropriations:0.3513', 'congresswoman:0.3278', 'ukrainea:0.3189', 'battalion:0.2955', 'raskin:0.2887', 'heckle:0.2758', 'invasion:0.2622', 'ally:0.257', 'minority:0.2493', 'approve:0.2268', 'collusion:0.221', 'slaughter:0.2192', 'humanitarian:0.2144', 'link:0.2094', 'article:0.2075', 'help:0.1983', 'concern:0.198', 'greene:0.1915', 'argument:0.1896', 'like:0.182', 'thursday:0.1789', 'does:0.1481', 'right:0.1459', 'end:0.1285', 'free:0.1263', 'far:0.0887']+titles_keywords+['raskin:0.3548', 'allies:0.2955', 'greene:0.2579', 'marjorie:0.2572', 'likening:0.165']"
+        ]
+    ]
+}

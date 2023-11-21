@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+32":[
+        [
+            "20220704+../news_crawling/RUS_UKR/p_articles/wn.com/Britain pledges longterm support to Ukraine for war and recovery.txt+eventbasecode32+eventcode32+avgtone0.5192307692307692+goldsteinscale0.725+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4755', 'ukrainian:0.4205', 'russia:0.3273', 'britain:0.2969', 'britains:0.2966', 'uk:0.2728', 'pledge:0.2631', 'war:0.258', 'nation:0.2566', 'long:0.2544', 'longterm:0.2528', 'truss:0.2334', 'support:0.2116', 'invasion:0.1907', 'rebuild:0.19', 'recovers:0.1656', 'resist:0.1626', 'secretary:0.1398', 'recovery:0.1364', 'ensure:0.1285', 'monday:0.1245', 'foreign:0.121', 'win:0.1201', 'haul:0.1117', 'liz:0.1078', 'switzerland:0.1036', 'tell:0.0822', 'conference:0.0464', 'ms:0.0231', 'possible:0.0143']+titles_keywords+['ukraine:0.4474', 'longterm:0.3209', 'war:0.2846', 'support:0.2002', 'pledges:0.1719']"
+        ]
+    ],
+    "RUS+UKR+32":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/wn.com/The Wests Support for Ukraine.txt+eventbasecode32+eventcode32+avgtone0.4923076923076923+goldsteinscale0.725+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4544', 'nato:0.4087', 'putins:0.3689', 'russia:0.3277', 'eu:0.3119', 'european:0.2546', 'west:0.2476', 'treaty:0.2465', 'invade:0.2439', 'war:0.229', 'north:0.1988', 'wests:0.1898', 'involve:0.1758', 'support:0.1513', 'union:0.1395', 'condemn:0.1106', 'atlantic:0.0975', 'organization:0.0826', 'decision:0.073', 'recent:0.068', 'pledge:0.0626', 'directly:0.045', 'member:0.0381', 'day:0.0321', 'explicit:0.0304']+titles_keywords+['ukraine:0.6239', 'wests:0.2804', 'support:0.2759']"
+        ]
+    ]
+}

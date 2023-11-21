@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+87":[
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/wn.com/Russia intensifies offensive as war enters 4thmonth.txt+eventbasecode87+eventcode87+avgtone0.4745762711864407+goldsteinscale0.95+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['russian:0.3789', 'ukraine:0.3786', 'moscows:0.3751', 'ukraines:0.3703', 'war:0.3605', 'russia:0.3458', 'invasion:0.2919', 'lugansk:0.2328', 'donbas:0.2161', 'intensifies:0.2036', 'conflict:0.2035', 'advance:0.1628', 'enter:0.16', 'month:0.1596', 'offensive:0.1582', 'resistance:0.1459', 'hold:0.1318', 'force:0.1304', 'eastern:0.1236', 'february:0.1186', 'help:0.1054', 'region:0.1031', 'fourth:0.0902', 'late:0.0871', 'pocket:0.0842', 'western:0.0817', 'step:0.0649', 'neighbor:0.062', 'tuesday:0.0545', 'support:0.0517']+titles_keywords+['war:0.3749', 'russia:0.329', '4thmonth:0.3139', 'intensifies:0.2525', 'offensive:0.2281']"
+        ]
+    ],
+    "UKR+RUS+87":[
+        [
+            "20220430+../news_crawling/RUS_UKR/p_articles/wn.com/Ukraine fights to hold off Russian advances in south east.txt+eventbasecode87+eventcode87+avgtone0.489795918367347+goldsteinscale0.95+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.435', 'kremlin:0.4102', 'ukrainian:0.4008', 'russian:0.3355', 'donbas:0.2724', 'hold:0.2522', 'fight:0.2502', 'seek:0.204', 'south:0.1714', 'advance:0.1647', 'capture:0.1621', 'region:0.1454', 'east:0.141', 'defense:0.1285', 'industrial:0.1218', 'say:0.121', 'attempt:0.1166', 'country:0.1038', 'force:0.0848', 'official:0.0503', 'senior:0.0268']+titles_keywords+['ukraine:0.4599', 'fights:0.2377', 'hold:0.1564', 'advances:0.0974', 'south:0.089']"
+        ]
+    ]
+}

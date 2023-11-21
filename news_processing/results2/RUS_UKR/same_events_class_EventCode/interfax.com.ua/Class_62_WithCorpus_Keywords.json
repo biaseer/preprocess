@@ -1,0 +1,20 @@
+{
+    "BLR+RUS+62":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Info about future hostilities in Ukraine brought to attention of soldiers by Russian command back.txt+eventbasecode62+eventcode62+avgtone0.47789115646258506+goldsteinscale0.8699999999999999+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['ukraine:0.3981', 'regiment:0.3478', 'hostilities:0.3353', 'tactical:0.3259', 'invasion:0.3257', 'operation:0.3255', 'correspond:0.3027', 'bomb:0.2788', 'alexei:0.2702', 'information:0.2639', 'alert:0.2604', 'know:0.2444', 'advance:0.2416', 'month:0.2312', 'order:0.23', 'future:0.2244', 'aviation:0.224', 'bait:0.217', 'ammunition:0.1995', 'false:0.1926', 'begin:0.1909', 'seize:0.1804', 'issue:0.1801', 'th:0.1682', 'ready:0.1662', 'unguided:0.1645', 'exercise:0.1561', 'say:0.1357', 'low:0.098', 'entire:0.0943']+titles_keywords+['ukraine:0.3813', 'soldiers:0.3395', 'pilot:0.2828', 'info:0.2228', '2022:0.2185']"
+        ]
+    ],
+    "RUS+UKR+62":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Russian army in Ukraine loses 217 tanks 900 armored vehicles about 9000 KIA AFU General.txt+eventbasecode62+eventcode62+avgtone0.45555555555555555+goldsteinscale0.8699999999999999+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4902', 'russian:0.4029', 'combat:0.3539', 'artillery:0.3471', 'invasion:0.3456', 'tank:0.3174', 'soldier:0.3159', 'casualty:0.3075', 'uavs:0.2833', 'enemy:0.2696', 'armed:0.2534', 'kill:0.2438', 'lose:0.237', 'general:0.2365', 'update:0.2183', 'operational:0.2179', 'total:0.2062', 'february:0.1998', 'unit:0.188', 'equipment:0.188', 'kia:0.1847', 'specify:0.1739', 'follow:0.1689', 'multiple:0.1519', 'approximately:0.144', 'afu:0.1422', 'information:0.1313', 'anti:0.1312', 'complicate:0.1116', 'rapidly:0.0685']+titles_keywords+['tanks:0.3868', 'russian:0.3474', 'kia:0.2629', 'afu:0.2027', '9000:0.1971']"
+        ],
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Russian military loses total 18000 KIA since start of war 147 planes 134 helicopters.txt+eventbasecode62+eventcode62+avgtone0.4539473684210526+goldsteinscale0.8699999999999999+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4035', 'russian:0.3628', 'military:0.35', 'war:0.3145', 'artillery:0.2766', 'loss:0.2362', 'uavs:0.2252', 'tank:0.2058', 'operational:0.2036', 'general:0.1946', 'total:0.1883', 'range:0.1636', 'kia:0.1486', 'data:0.1466', 'equipment:0.1426', 'april:0.1246', 'begin:0.1192', 'unit:0.1094', 'multiple:0.1036', 'long:0.0989', 'people:0.098', 'approximately:0.0965', 'include:0.0882', 'shipsboats:0.0751', 'afu:0.0488', 'level:0.0382', 'lubricant:0.0376', 'say:0.0335', 'air:0.0335', 'facebook:0.031']+titles_keywords+['russian:0.3897', 'helicopters:0.3391', 'kia:0.2895', '18000:0.2328', 'loses:0.1979']"
+        ]
+    ],
+    "UKR+RUS+62":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Russian missile flying towards Kropyvnytsky shot down over Mykolaiv region.txt+eventbasecode62+eventcode62+avgtone0.488+goldsteinscale0.8699999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['missile:0.4824', 'mykolaiv:0.4352', 'ukraine:0.4227', 'kropyvnytsky:0.4141', 'russian:0.4066', 'fly:0.3116', 'combat:0.3092', 'soldiers:0.3045', 'region:0.2258', 'command:0.2234', 'destroy:0.1981', 'shoot:0.1916', 'armed:0.1881', 'report:0.1677', 'air:0.1663', 'sky:0.1641', 'direction:0.1612', 'defense:0.1536', 'cruise:0.1532', 'division:0.1268', 'unit:0.1218', 'facebook:0.1065', 'tuesday:0.1032', 'th:0.0983', 'accurate:0.0982', 'igla:0.0952', 'say:0.0729', 'settlement:0.0686', 'manpads:0.0653', 'record:0.0561']+titles_keywords+['mykolaiv:0.5083', 'kropyvnytsky:0.4794', 'missile:0.3693', 'russian:0.3664', 'region:0.096']"
+        ]
+    ]
+}

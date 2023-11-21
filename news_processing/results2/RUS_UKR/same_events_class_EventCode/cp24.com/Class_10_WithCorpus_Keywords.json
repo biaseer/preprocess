@@ -1,0 +1,22 @@
+{
+    "RUS+FRA+10":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/cp24.com/West hits back with sanctions for Russias Ukraine actions.txt+eventbasecode10+eventcode10+avgtone0.4701219512195122+goldsteinscale0.5+nummentions0.09325108853410741+numarticles0.09390862944162437+numsources0.14802631578947367+news_keywords+['sanctions:0.5193', 'putin:0.4932', 'russias:0.4397', 'nato:0.3696', 'invade:0.3473', 'kyiv:0.3317', 'confrontation:0.2964', 'separatist:0.2333', 'finance:0.2277', 'alert:0.2184', 'cite:0.2116', 'avert:0.199', 'prepared:0.1971', 'western:0.1905', 'bloc:0.1861', 'order:0.1833', 'designate:0.1802', 'blame:0.1781', 'orbit:0.1571', 'combine:0.1544', 'stay:0.1531', 'chair:0.153', 'export:0.1496', 'pipeline:0.1489', 'thursday:0.1486', 'word:0.1442', 'big:0.1287', 'increase:0.1194', 'limit:0.1054', 'blatant:0.102']+titles_keywords+['sanctions:0.4464', 'ukraine:0.3787', 'actions:0.2374', 'west:0.2357', 'hits:0.1908']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/cp24.com/Biden welcomes new Australian PM to IndoPacific club.txt+eventbasecode10+eventcode10+avgtone0.4815817984832069+goldsteinscale0.5+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['putin:0.3904', 'confrontation:0.3179', 'militarily:0.3157', 'coalition:0.3055', 'announcement:0.2998', 'australias:0.2736', 'adviser:0.2637', 'taiwan:0.2462', 'economic:0.2396', 'indo:0.2345', 'world:0.2338', 'bidens:0.2187', 'expect:0.1863', 'navigate:0.1815', 'end:0.1741', 'improve:0.1726', 'ap:0.1664', 'rush:0.165', 'covid:0.1642', 'displace:0.1565', 'wider:0.1519', 'difference:0.147', 'yamaguchi:0.1464', 'bilateral:0.1353', 'export:0.1316', 'theyve:0.1285', 'set:0.1285', 'green:0.1282', 'year:0.1211', 'welcome:0.1006']+titles_keywords+['biden:0.4242', 'australian:0.3103', 'new:0.1437', 'pm:0.138', 'welcomes:0.1204']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20210607+../news_crawling/RUS_UKR/p_articles/cp24.com/MH17 trial moves to crucial merits phase examining evidence.txt+eventbasecode10+eventcode10+avgtone0.46912114014251777+goldsteinscale0.5+nummentions0.023222060957910014+numarticles0.023930384336475707+numsources0.05263157894736842+news_keywords+['investigation:0.4288', 'ukraine:0.3999', 'courtroom:0.3854', 'kremlin:0.3644', 'victim:0.3443', 'plane:0.3233', 'oleg:0.309', 'accuse:0.3058', 'kuala:0.299', 'preliminary:0.2482', 'conflict:0.2413', 'pulatov:0.2355', 'schiphol:0.2156', 'happen:0.2065', 'sentence:0.2032', 'separatist:0.1987', 'death:0.1944', 'know:0.1899', 'military:0.1858', 'shot:0.1661', 'present:0.1596', 'file:0.1594', 'hendrik:0.1547', 'summarize:0.154', 'page:0.1522', 'lament:0.1452', 'ap:0.1281', 'long:0.1277', 'begin:0.1265', 'mh:0.1251']+titles_keywords+['trial:0.4565', 'mh17:0.3631', 'evidence:0.3376', 'merits:0.2981', 'examining:0.2535']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/cp24.com/Biden Russia war is genocide trying to wipe out Ukraine.txt+eventbasecode10+eventcode10+avgtone0.47537313432835815+goldsteinscale0.5+nummentions0.3454281567489115+numarticles0.34590282813633066+numsources0.3782894736842105+news_keywords+['putin:0.4546', 'genocide:0.424', 'treaty:0.378', 'rhetoric:0.3421', 'escalation:0.3389', 'term:0.2849', 'contention:0.2825', 'overthrow:0.2792', 'ethnical:0.2422', 'accuse:0.2301', 'decide:0.2164', 'europe:0.2044', 'power:0.1988', 'learn:0.1943', 'event:0.1939', 'continue:0.1903', 'meet:0.1835', 'articulate:0.1715', 'authorize:0.1684', 'shortly:0.1655', 'wipe:0.1637', 'bloody:0.1635', 'ammunition:0.1633', 'volodymyr:0.1619', 'note:0.149', 'tweet:0.1457', 'ap:0.125', 'sure:0.1248', 'direct:0.1161', 'far:0.1031']+titles_keywords+['biden:0.4706', 'genocide:0.4538', 'ukraine:0.4142', 'war:0.38', 'trying:0.1789']"
+        ]
+    ]
+}

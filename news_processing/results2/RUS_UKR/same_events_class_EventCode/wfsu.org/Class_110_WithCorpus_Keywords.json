@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+110":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/wfsu.org/Russia now says 1 crew member died 27 are missing in the sinking of its.txt+eventbasecode110+eventcode110+avgtone0.477970102281668+goldsteinscale0.4+nummentions0.21988388969521044+numarticles0.22044960116026105+numsources0.24342105263157895+news_keywords+['crimea:0.4805', 'warships:0.4387', 'kremlin:0.4137', 'torpedoed:0.3183', 'propaganda:0.3025', 'imperatritsa:0.2749', 'reuters:0.2682', 'victory:0.2427', 'nuclear:0.2335', 'significance:0.2236', 'sink:0.2212', 'casualty:0.2135', 'report:0.2043', 'incident:0.2039', 'forensics:0.2003', 'involve:0.1992', 'reinforces:0.181', 'flagship:0.1795', 'study:0.1758', 'thursday:0.1582', 'board:0.1567', 'worried:0.1551', 'additional:0.1509', 'ap:0.1488', 'long:0.1357', 'say:0.1254', 'rename:0.123', 'century:0.1229', 'deal:0.0764', 'true:0.0706']+titles_keywords+['sinking:0.3186', 'russia:0.2918', 'died:0.2559', 'crew:0.2297', '27:0.1742']"
+        ]
+    ],
+    "UKR+RUS+110":[
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/wfsu.org/A key warship in Russias fleet was severely damaged Ukraine claims responsibility.txt+eventbasecode110+eventcode110+avgtone0.46296296296296297+goldsteinscale0.4+nummentions0.14005805515239478+numarticles0.1406816533720087+numsources0.125+news_keywords+['ukraine:0.4381', 'kremlin:0.4347', 'russias:0.3967', 'warship:0.3909', 'war:0.334', 'moskva:0.3072', 'troop:0.2663', 'attacked:0.2595', 'kill:0.2515', 'strategic:0.2493', 'investigation:0.2399', 'underway:0.2374', 'news:0.229', 'responsibility:0.2141', 'happen:0.2067', 'evacuate:0.1989', 'notoriety:0.1915', 'island:0.1872', 'operate:0.1868', 'swap:0.1723', 'claim:0.1632', 'black:0.1516', 'independently:0.144', 'board:0.1344', 'actually:0.1239', 'roughly:0.1171', 'offer:0.1132', 'tass:0.0895', 'gain:0.0825', 'quote:0.0758']+titles_keywords+['warship:0.4005', 'ukraine:0.3821', 'damaged:0.2573', 'responsibility:0.2076', 'key:0.0576']"
+        ]
+    ]
+}

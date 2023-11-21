@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+111":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/calcuttanews.net/UK will work to ensure sovereignty independence of Ukraine PM.txt+eventbasecode111+eventcode111+avgtone0.48214285714285715+goldsteinscale0.4+nummentions0.16545718432510886+numarticles0.1660623640319072+numsources0.14802631578947367+news_keywords+['ukraine:0.518', 'putin:0.4751', 'sanction:0.2964', 'boris:0.2791', 'negotiation:0.2745', 'independence:0.2665', 'zelenskyy:0.2654', 'news:0.245', 'flag:0.2339', 'table:0.2322', 'president:0.2223', 'sputnik:0.2155', 'cite:0.1959', 'downing:0.1921', 'isolate:0.1827', 'vtb:0.1787', 'friday:0.1772', 'sit:0.1743', 'introduce:0.1615', 'support:0.1505', 'tweet:0.1488', 'bank:0.134', 'global:0.1339', 'long:0.1297', 'ensure:0.1244', 'statement:0.1152', 'freeze:0.1086', 'telephone:0.0995', 'ani:0.0712', 'restore:0.0264']+titles_keywords+['ukraine:0.4237', 'sovereignty:0.3631', 'independence:0.3362', 'work:0.1623', 'ensure:0.1342']"
+        ]
+    ],
+    "GBR+UKR+111":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/calcuttanews.net/Antiwar Protester in Studio Disrupts Live Russian State TV News.txt+eventbasecode111+eventcode111+avgtone0.44865525672371603+goldsteinscale0.4+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['antiwar:0.4902', 'protest:0.4423', 'propaganda:0.4409', 'kremlin:0.4016', 'russian:0.3423', 'invasion:0.3059', 'demilitarize:0.297', 'disrupts:0.2789', 'incident:0.2569', 'pretext:0.2505', 'illegal:0.2456', 'tv:0.2415', 'report:0.2388', 'presenter:0.2378', 'station:0.2254', 'source:0.2198', 'live:0.2055', 'armed:0.1783', 'read:0.1738', 'woman:0.1733', 'embed:0.1731', 'term:0.1704', 'independent:0.159', 'monitoring:0.1581', 'begin:0.1513', 'wow:0.1496', 'world:0.1348', 'line:0.1213', 'million:0.0848', 'nearly:0.0552']+titles_keywords+['protester:0.4464', 'russian:0.3501', 'disrupts:0.2784', 'news:0.2114', 'studio:0.1835']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/calcuttanews.net/War returns to Europe as longawaited Russian invasion begins.txt+eventbasecode111+eventcode111+avgtone0.47651579846285225+goldsteinscale0.4+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5822368421052632+news_keywords+['ukraine:0.4218', 'nato:0.3968', 'war:0.3941', 'kremlin:0.372', 'genocide:0.3619', 'militarize:0.3524', 'escalation:0.303', 'cyberattack:0.2808', 'diplomats:0.2806', 'agreement:0.2706', 'regime:0.2655', 'unprovoked:0.2549', 'correspondent:0.2536', 'president:0.2534', 'veto:0.249', 'inform:0.2381', 'border:0.2377', 'return:0.2331', 'boris:0.2232', 'avert:0.196', 'begin:0.1942', 'expect:0.1904', 'table:0.1898', 'immediately:0.1692', 'voa:0.1647', 'pipeline:0.1612', 'general:0.1561', 'nearly:0.1235', 'straight:0.1195', 'month:0.1173']+titles_keywords+['war:0.4556', 'invasion:0.4044', 'russian:0.312', 'begins:0.2392', 'returns:0.2166']"
+        ]
+    ]
+}

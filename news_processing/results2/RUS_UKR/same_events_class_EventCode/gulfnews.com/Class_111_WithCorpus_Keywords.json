@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+111":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/gulfnews.com/Macron and Putin to talk on phone as Ukraine front line grows more volatile.txt+eventbasecode111+eventcode111+avgtone0.4714285714285715+goldsteinscale0.4+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.09868421052631579+news_keywords+['putin:0.5032', 'nato:0.4589', 'ceasefire:0.4282', 'kyiv:0.4029', 'macron:0.3937', 'russias:0.3926', 'separatist:0.302', 'appeasement:0.2983', 'evacuate:0.2852', 'border:0.2726', 'incursion:0.2713', 'rhetoric:0.2622', 'predict:0.2476', 'journalist:0.2473', 'concern:0.2161', 'respond:0.2', 'fatality:0.1993', 'reiterate:0.1939', 'meeting:0.1936', 'avert:0.1901', 'timeframes:0.1825', 'power:0.1662', 'general:0.1607', 'come:0.1575', 'end:0.1385', 'weekend:0.1357', 'false:0.131', 'metre:0.1245', 'earlier:0.107', 'stoltenberg:0.0848']+titles_keywords+['macron:0.4025', 'ukraine:0.2907', 'talk:0.2848', 'phone:0.1909', 'line:0.107']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/gulfnews.com/Russia attacks Ukraine Global leaders condemn Russias military action in Ukraine.txt+eventbasecode111+eventcode111+avgtone0.47080979284369107+goldsteinscale0.4+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5822368421052632+news_keywords+['ukraine:0.4657', 'nato:0.4602', 'putin:0.4573', 'diplomacy:0.3967', 'bloodshed:0.3414', 'attack:0.3174', 'unprovoked:0.2949', 'denounce:0.2639', 'coincide:0.2471', 'separatist:0.2444', 'respond:0.2376', 'warning:0.2028', 'world:0.199', 'people:0.1892', 'order:0.181', 'neutralise:0.179', 'capital:0.1744', 'immediate:0.1719', 'annalena:0.1662', 'dramatic:0.165', 'fumio:0.1646', 'write:0.1645', 'begin:0.1625', 'forget:0.161', 'thursday:0.1583', 'law:0.1554', 'discus:0.1406', 'general:0.1331', 'kishida:0.0952', 'stoltenberg:0.0724']+titles_keywords+['ukraine:0.4054', 'attacks:0.2263', 'condemn:0.1896', 'military:0.1492', 'global:0.1223']"
+        ]
+    ]
+}

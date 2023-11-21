@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+110":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Hungarys Viktor Orban Brussels is waging a jihad on elected governments it does not like.txt+eventbasecode110+eventcode110+avgtone0.4779411764705882+goldsteinscale0.4+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['orban:0.502', 'authoritarian:0.4237', 'poland:0.4197', 'government:0.3876', 'referendum:0.3486', 'migrant:0.3479', 'kremlin:0.333', 'globalisation:0.3298', 'sanctions:0.3252', 'blocs:0.2989', 'reconquista:0.2958', 'law:0.2926', 'jihad:0.2879', 'nation:0.2785', 'power:0.2435', 'speech:0.2412', 'quota:0.2249', 'warn:0.2231', 'follow:0.2096', 'king:0.1995', 'century:0.1942', 'fact:0.1796', 'turn:0.1616', 'mould:0.152', 'th:0.1428', 'differently:0.1422', 'face:0.1388', 'long:0.132', 'wednesday:0.1277', 'wag:0.1206']+titles_keywords+['orban:0.4761', 'jihad:0.4417', 'brussels:0.3871', 'governments:0.2975', 'does:0.0795']"
+        ]
+    ],
+    "RUS+RUS+110":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/telegraph.co.uk/Russian oligarchs break silence over Vladimir Putins invasion.txt+eventbasecode110+eventcode110+avgtone0.47142857142857136+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['putin:0.5655', 'oligarchs:0.4908', 'nemtsov:0.4729', 'chechnya:0.4674', 'belarusians:0.4664', 'oleg:0.4632', 'lviv:0.3497', 'protest:0.3367', 'privatisation:0.324', 'political:0.3137', 'telegraph:0.2857', 'invasion:0.2754', 'peace:0.2585', 'derpipaksa:0.2292', 'world:0.2257', 'organise:0.2178', 'outspoken:0.2163', 'write:0.2059', 'fashion:0.201', 'slogan:0.1889', 'turn:0.1879', 'end:0.1848', 'important:0.1819', 'mr:0.1802', 'follow:0.1744', 'teenager:0.1689', 'long:0.1684', 'launchpad:0.157', 'grow:0.1559', 'frighteningly:0.1323']+titles_keywords+['putins:0.4446', 'silence:0.3566', 'russian:0.3393', 'invasion:0.2823', 'break:0.1412']"
+        ]
+    ]
+}

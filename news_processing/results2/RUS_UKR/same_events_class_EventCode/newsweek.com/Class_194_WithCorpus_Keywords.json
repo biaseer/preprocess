@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/newsweek.com/Watch Russia Shows Off Firepower of Pion Artillery Pieces.txt+eventbasecode194+eventcode194+avgtone0.481981981981982+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['artillery:0.4907', 'kyiv:0.4644', 'soviet:0.4246', 'tactical:0.3333', 'deploy:0.3235', 'putin:0.317', 'uavs:0.3021', 'tanker:0.2912', 'operation:0.2507', 'fighting:0.2135', 'pion:0.2124', 'update:0.2086', 'federation:0.2035', 'propel:0.187', 'destroy:0.1869', 'battery:0.1824', 'eastern:0.1816', 'discharge:0.1808', 'footage:0.1593', 'retaken:0.1592', 'area:0.1514', 'period:0.1433', 'receive:0.1418', 'continue:0.1406', 'severodonetsk:0.1396', 'long:0.1377', 'pieces:0.1373', 'write:0.1349', 'focus:0.1298', 'mm:0.1063']+titles_keywords+['artillery:0.4733', 'pion:0.4304', 'russia:0.358', 'watch:0.2564', 'pieces:0.166']"
+        ]
+    ],
+    "UKR+RUS+194":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/newsweek.com/Biden Not Sending Rockets to Ukraine Is Betrayal to Democracy Graham.txt+eventbasecode194+eventcode194+avgtone0.4833729216152019+goldsteinscale0.0+nummentions0.024310595065312045+numarticles0.022117476432197244+numsources0.03618421052631579+news_keywords+['putin:0.45', 'ukraine:0.3919', 'biden:0.375', 'war:0.2874', 'zelensky:0.2471', 'betrayal:0.2335', 'howitzers:0.2298', 'republican:0.2202', 'launch:0.2136', 'volodymyr:0.2045', 'prepare:0.1902', 'order:0.1761', 'kilometer:0.1727', 'administration:0.1651', 'fulfill:0.1632', 'report:0.1558', 'tweet:0.152', 'issue:0.1492', 'monday:0.1381', 'reasonable:0.1268', 'arm:0.1234', 'argue:0.1233', 'carolina:0.1215', 'dictate:0.0993', 'ach:0.0854', 'potentially:0.08', 'like:0.0782', 'mlrs:0.0696', 'http:0.0642', 'sending:0.0591']+titles_keywords+['biden:0.4169', 'betrayal:0.3417', 'ukraine:0.2952', 'graham:0.2264', 'sending:0.0229']"
+        ]
+    ]
+}

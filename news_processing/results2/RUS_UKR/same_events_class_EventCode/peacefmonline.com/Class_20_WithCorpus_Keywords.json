@@ -1,0 +1,12 @@
+{
+    "AFR+RUS+20":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/peacefmonline.com/Musevenis Son Supports Russian Invasion Of Ukraine.txt+eventbasecode20+eventcode20+avgtone0.49635036496350365+goldsteinscale0.65+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.0+news_keywords+['uganda:0.4171', 'putin:0.3999', 'ukraines:0.3969', 'nato:0.3593', 'yoweri:0.2751', 'invasion:0.2617', 'threat:0.1952', 'musevenis:0.1794', 'armed:0.1661', 'kainerugaba:0.1603', 'son:0.1576', 'power:0.1511', 'allow:0.1487', 'expect:0.1447', 'bloc:0.1365', 'gen:0.1293', 'andrew:0.1212', 'affair:0.1189', 'existential:0.1167', 'white:0.1105', 'say:0.1089', 'non:0.1008', 'mwenda:0.0967', 'rumour:0.0964', 'dagolo:0.0957', 'alsoretweeted:0.0718', 'majority:0.0643', 'ready:0.0631', 'senior:0.0538', 'coz:0.0374']+titles_keywords+['musevenis:0.4786', 'russian:0.3491', 'son:0.2641', 'invasion:0.2281', 'supports:0.0903']"
+        ]
+    ],
+    "CHN+RUS+20":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/peacefmonline.com/China Says Friendship With Russia Is Rock Solid.txt+eventbasecode20+eventcode20+avgtone0.5058139534883721+goldsteinscale0.65+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['russia:0.3921', 'friendship:0.3518', 'explainingbeijing:0.2716', 'war:0.2567', 'relation:0.2525', 'chinese:0.2347', 'therussian:0.2256', 'strategic:0.2226', 'yi:0.2108', 'stability:0.2053', 'conducive:0.1971', 'partner:0.1934', 'concern:0.183', 'sovereignty:0.1829', 'engage:0.1581', 'happen:0.1516', 'reiterate:0.1475', 'trade:0.1367', 'term:0.1357', 'rock:0.1219', 'long:0.1208', 'compare:0.1205', 'exports:0.1202', 'monday:0.1083', 'legitimate:0.1027', 'mind:0.0884', 'forward:0.0865', 'bilateral:0.0834', 'data:0.0678', 'says:0.0242']+titles_keywords+['russia:0.3316', 'friendship:0.289', 'solid:0.1809', 'rock:0.1418', 'says:0.0316']"
+        ]
+    ]
+}

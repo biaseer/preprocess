@@ -1,0 +1,35 @@
+{
+    "BLR+RUS+10":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/theguardian.com/Ukraine has not confirmed if it stands behind the attack on the bridge which lies.txt+eventbasecode10+eventcode10+avgtone0.4633286318758815+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimea:0.4519', 'putin:0.3981', 'militarise:0.3576', 'attack:0.327', 'gladkov:0.3184', 'terrorist:0.3105', 'trenches:0.2934', 'rail:0.2767', 'infrastructure:0.276', 'news:0.2622', 'diversion:0.255', 'alert:0.2479', 'twitterukraine:0.2452', 'bridge:0.2416', 'firework:0.232', 'cite:0.2148', 'precede:0.214', 'checkpoint:0.2127', 'happen:0.2095', 'plan:0.2036', 'continue:0.1957', 'bucha:0.192', 'write:0.1918', 'blame:0.1913', 'false:0.1582', 'dump:0.1549', 'eastern:0.1544', 'photograph:0.1395', 'briefly:0.1343', 'coming:0.1128']+titles_keywords+['ukraine:0.4249', 'attack:0.3012', 'bridge:0.2617', 'donbas:0.2141', 'confirmed:0.0227']"
+        ]
+    ],
+    "DEU+UKR+10":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/theguardian.com/Sergei Loznitsa The academy has a different perception of Ukrainian history which they claim they.txt+eventbasecode10+eventcode10+avgtone0.4714081486776269+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.5003', 'stalinist:0.4264', 'kremlin:0.4223', 'oleg:0.3889', 'loznitsas:0.3449', 'separatists:0.3405', 'conquer:0.2909', 'history:0.2907', 'wehrmacht:0.2872', 'upheaval:0.2854', 'danger:0.2527', 'rhetoric:0.244', 'know:0.2089', 'act:0.2024', 'famine:0.1978', 'governed:0.1931', 'writer:0.1905', 'scenes:0.1865', 'world:0.1843', 'want:0.1817', 'sonderkommando:0.1758', 'remind:0.1687', 'long:0.1646', 'make:0.1485', 'function:0.1379', 'horrify:0.1363', 'approve:0.1311', 'immediately:0.1204', 'sequence:0.1069', 'true:0.0897']+titles_keywords+['ukrainian:0.5323', 'sergei:0.5116', 'loznitsa:0.398', 'history:0.3728', 'academy:0.2364']"
+        ]
+    ],
+    "GBR+RUS+10":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/theguardian.com/Liz Truss speaks in The Hague Photograph Piroschka van de WouwReutersLiz Truss speaks in The.txt+eventbasecode10+eventcode10+avgtone0.4598765432098766+goldsteinscale0.5+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.013157894736842105+news_keywords+['hague:0.4705', 'tribunal:0.4267', 'nato:0.3798', 'ukrainian:0.3558', 'russias:0.3505', 'prosecute:0.3244', 'jurisdiction:0.3099', 'war:0.286', 'forensic:0.2688', 'rape:0.2413', 'divert:0.223', 'icc:0.2188', 'atrocity:0.2182', 'evidence:0.2138', 'politician:0.2091', 'truss:0.2057', 'concerned:0.1823', 'subjugate:0.1684', 'ally:0.1662', 'bring:0.1649', 'wopke:0.1495', 'chain:0.135', 'end:0.1299', 'thorny:0.1294', 'emphasis:0.1255', 'head:0.1254', 'additional:0.125', 'soon:0.1192', 'set:0.0993', 'separately:0.0863']+titles_keywords+['hague:0.5397', 'truss:0.4712', 'liz:0.3997', 'wouwreuters:0.2991', 'speaks:0.2139']"
+        ]
+    ],
+    "RUS+GBR+10":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/theguardian.com/Col Gen Mikhail Mizintsev is the senior Russian officer in charge of the siege of.txt+eventbasecode10+eventcode10+avgtone0.46375+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['kremlin:0.5186', 'putin:0.5134', 'russias:0.4274', 'rossiya:0.4145', 'ukrainian:0.4135', 'sanction:0.4021', 'government:0.3594', 'roskomnadzor:0.3575', 'boris:0.3274', 'disinformation:0.3056', 'invasion:0.2801', 'rt:0.2629', 'brilev:0.2574', 'uk:0.248', 'news:0.2428', 'ofcom:0.241', 'executive:0.1978', 'notice:0.1928', 'station:0.181', 'forward:0.1687', 'shameless:0.167', 'agencygetty:0.1669', 'hit:0.1615', 'control:0.1328', 'combine:0.123', 'gen:0.1183', 'ratchet:0.1163', 'scale:0.1139', 'longer:0.1081', 'imagescol:0.0756']+titles_keywords+['mizintsev:0.6342', 'siege:0.3088', 'officer:0.2563', 'mariupol:0.2447', 'imagescol:0.1285']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220318+../news_crawling/RUS_UKR/p_articles/theguardian.com/RT reporting on the special operation by Russian forces in Ukraine Photograph RT NewsRT reporting.txt+eventbasecode10+eventcode10+avgtone0.4827044025157232+goldsteinscale0.5+nummentions0.014876632801161103+numarticles0.015228426395939087+numsources0.03618421052631579+news_keywords+['kremlin:0.4945', 'ukraine:0.4672', 'russias:0.432', 'correspondent:0.3937', 'bbcs:0.3783', 'propaganda:0.3772', 'rt:0.3383', 'broadcasting:0.3256', 'news:0.311', 'ofcom:0.2841', 'sanction:0.2825', 'invasion:0.2448', 'output:0.2351', 'report:0.2261', 'military:0.2224', 'coverage:0.2036', 'conflict:0.2024', 'read:0.191', 'salmond:0.1787', 'remain:0.1691', 'zelenskiy:0.1672', 'instead:0.1647', 'current:0.1569', 'emphasise:0.1549', 'world:0.1468', 'significance:0.146', 'poison:0.1449', 'long:0.1091', 'arm:0.1004', 'decade:0.0856']+titles_keywords+['ukraine:0.4841', 'rt:0.3979', 'news:0.3694', 'photograph:0.2672', 'special:0.2575']"
+        ],
+        [],
+        [],
+        []
+    ],
+    "UKR+EUR+10":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/theguardian.com/The Babyn Yar Holocaust memorial centre in Kyiv Photograph Dimitar DilkoffAFPGetty ImagesThe Babyn Yar Holocaust.txt+eventbasecode10+eventcode10+avgtone0.4803921568627451+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['kyiv:0.5806', 'holocaust:0.5055', 'ukraines:0.456', 'soviet:0.4454', 'putin:0.3958', 'orthodox:0.3433', 'zelenskiy:0.3402', 'rhetoric:0.3382', 'vashem:0.3338', 'revolution:0.3034', 'remembrance:0.2785', 'buchenwald:0.2601', 'dilkoffafpgetty:0.2566', 'parliament:0.2537', 'denounce:0.2455', 'read:0.2086', 'military:0.199', 'people:0.1904', 'representative:0.1735', 'fact:0.1693', 'hit:0.1668', 'yad:0.165', 'remind:0.1533', 'night:0.1479', 'word:0.1469', 'major:0.1296', 'imagesthe:0.125', 'include:0.1156', 'issue:0.11', 'construct:0.109']+titles_keywords+['kyiv:0.5301', 'holocaust:0.499', 'memorial:0.2492', 'babyn:0.2171', 'photograph:0.1605']"
+        ]
+    ]
+}

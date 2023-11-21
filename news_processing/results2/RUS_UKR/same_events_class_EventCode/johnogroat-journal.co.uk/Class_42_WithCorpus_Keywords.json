@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+42":[
+        [
+            "20220205+../news_crawling/RUS_UKR/p_articles/johnogroat-journal.co.uk/Johnson and Macron agree to fight against malicious Russian activity.txt+eventbasecode42+eventcode42+avgtone0.48533333333333334+goldsteinscale0.595+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.3157894736842105+news_keywords+['natos:0.4833', 'kremlin:0.4004', 'macron:0.3664', 'kyiv:0.3344', 'attack:0.3308', 'diplomatic:0.3227', 'boris:0.2784', 'justify:0.2416', 'european:0.2127', 'remain:0.2012', 'occur:0.1946', 'malicious:0.192', 'credible:0.1866', 'concern:0.1844', 'planning:0.1836', 'monday:0.1819', 'border:0.1779', 'meet:0.1764', 'forward:0.1692', 'update:0.166', 'calm:0.1576', 'pretext:0.1553', 'engineer:0.1482', 'ensure:0.1358', 'priority:0.1314', 'agree:0.1121', 'olaf:0.1068', 'current:0.1059', 'weve:0.0995', 'overriding:0.0281']+titles_keywords+['macron:0.3704', 'russian:0.2682', 'malicious:0.2397', 'johnson:0.2233', 'fight:0.2066']"
+        ]
+    ],
+    "GBR+UKR+42":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/johnogroat-journal.co.uk/Britain to reopen Kyiv embassy in show of support for Ukraine.txt+eventbasecode42+eventcode42+avgtone0.5050847457627118+goldsteinscale0.595+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.013157894736842105+news_keywords+['kyiv:0.5405', 'ukraines:0.4565', 'diplomat:0.3922', 'putin:0.3616', 'invasion:0.2813', 'zelensky:0.2527', 'threat:0.2489', 'visit:0.2422', 'troop:0.2218', 'open:0.2206', 'mission:0.2167', 'east:0.1996', 'office:0.1959', 'watch:0.1746', 'shortly:0.1744', 'repel:0.1715', 'ally:0.1665', 'mps:0.1634', 'britons:0.1507', 'partygate:0.1431', 'continue:0.1416', 'press:0.1229', 'want:0.1195', 'tribute:0.1171', 'support:0.1168', 'long:0.1131', 'official:0.1113', 'united:0.104', 'simmons:0.0982', 'focus:0.0916']+titles_keywords+['kyiv:0.4669', 'embassy:0.3361', 'reopen:0.2357', 'britain:0.2146', 'support:0.0609']"
+        ],
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/johnogroat-journal.co.uk/UK ambassador to Ukraine feeling comfortable on return to Kyiv.txt+eventbasecode42+eventcode42+avgtone0.5031152647975078+goldsteinscale0.595+nummentions0.23149492017416545+numarticles0.23205221174764323+numsources0.21052631578947367+news_keywords+['kyiv:0.5616', 'ukraines:0.4686', 'moscows:0.3939', 'diplomat:0.3803', 'putin:0.3625', 'invasion:0.2431', 'zelensky:0.2417', 'capital:0.2105', 'troop:0.2047', 'remain:0.2033', 'threaten:0.1948', 'risk:0.1762', 'repel:0.1711', 'arrive:0.1615', 'ally:0.1562', 'comfortable:0.1528', 'interview:0.1241', 'distance:0.12', 'april:0.1089', 'western:0.1052', 'long:0.1049', 'good:0.1012', 'want:0.0968', 'simmons:0.0937', 'united:0.0906', 'reopen:0.0826', 'backing:0.0718', 'possible:0.0591', 'prime:0.0448', 'minimising:0.0214']+titles_keywords+['kyiv:0.4317', 'ambassador:0.3872', 'comfortable:0.3703', 'uk:0.184', 'return:0.1376']"
+        ]
+    ]
+}

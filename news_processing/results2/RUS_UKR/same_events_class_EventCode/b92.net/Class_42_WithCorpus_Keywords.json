@@ -1,0 +1,17 @@
+{
+    "BLR+UKR+42":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/b92.net/Zelensky has a new condition NATO is sending more weapons War negotiators arrived.txt+eventbasecode42+eventcode42+avgtone0.484375+goldsteinscale0.595+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4903', 'nato:0.4609', 'vladimir:0.4053', 'zelensky:0.4009', 'war:0.3173', 'president:0.2944', 'leonid:0.2672', 'escalation:0.2486', 'negotiator:0.2418', 'delegation:0.2301', 'urgent:0.1896', 'news:0.182', 'arrive:0.173', 'unian:0.1719', 'plan:0.1659', 'comv:0.165', 'nexta:0.1619', 'sure:0.1551', 'iozstbeb:0.1456', 'end:0.1346', 'right:0.133', 'february:0.1281', 'confident:0.1245', 'say:0.1233', 'fifth:0.121', 'condition:0.1191', 'magdashi:0.1188', 'beautiful:0.1118', 'guterres:0.1086', 'fomin:0.0761']+titles_keywords+['zelensky:0.5574', 'nato:0.5391', 'negotiators:0.3146', 'condition:0.1843', 'arrived:0.1491']"
+        ]
+    ],
+    "HUN+UKR+42":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/b92.net/Putins new ultimatum Fighter jets arrive in Ukraine Hungary says no.txt+eventbasecode42+eventcode42+avgtone0.4960732984293194+goldsteinscale0.595+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.495', 'putins:0.4113', 'truce:0.3924', 'reuters:0.3616', 'battalion:0.3607', 'humanitarian:0.3473', 'pentagon:0.3197', 'nationalist:0.3097', 'orthodox:0.2831', 'operation:0.2686', 'aircraft:0.2681', 'eucopresident:0.2635', 'government:0.2623', 'announce:0.2423', 'lyubov:0.2245', 'safe:0.2129', 'flee:0.2124', 'steel:0.2035', 'arrive:0.2026', 'wednesday:0.1929', 'azovstal:0.1926', 'report:0.1926', 'additional:0.1893', 'allow:0.1569', 'send:0.1477', 'say:0.1382', 'thousand:0.1012', 'plant:0.087', 'head:0.0857', 'basis:0.0828']+titles_keywords+['putins:0.3672', 'ultimatum:0.2808', 'hungary:0.2771', 'fighter:0.1015', 'new:0.0794']"
+        ]
+    ],
+    "RUS+RUS+42":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/b92.net/Russia introduces state of war An extraordinary session was convened.txt+eventbasecode42+eventcode42+avgtone0.4730113636363636+goldsteinscale0.595+nummentions0.022496371552975326+numarticles0.02284263959390863+numsources0.04276315789473684+news_keywords+['kremlin:0.5128', 'ukraine:0.3762', 'vladimir:0.371', 'war:0.3291', 'convene:0.3272', 'agenda:0.3228', 'sanction:0.3134', 'federation:0.2966', 'introduction:0.2714', 'emergency:0.2619', 'misinformation:0.2305', 'president:0.2255', 'state:0.2171', 'anti:0.2037', 'dozhd:0.2033', 'occasion:0.2013', 'extension:0.1972', 'duma:0.1972', 'office:0.1893', 'friday:0.1883', 'authority:0.184', 'remind:0.1805', 'order:0.1665', 'public:0.1406', 'say:0.1255', 'measure:0.124', 'radio:0.1233', 'year:0.1139', 'great:0.0991', 'body:0.081']+titles_keywords+['russia:0.3887', 'war:0.3774', 'convened:0.3247', 'state:0.2105', 'extraordinary:0.132']"
+        ]
+    ]
+}

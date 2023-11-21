@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/theconversation.com/Ukraine the worlds defence giants are quietly making billions from thewar.txt+eventbasecode111+eventcode111+avgtone0.49685534591+goldsteinscale0.4+nummentions0.030841799709724237+numarticles0.03154459753444525+numsources0.046052631578947366+news_keywords+['ukraine:0.5128', 'nato:0.4438', 'putins:0.3862', 'weaponry:0.3037', 'military:0.2734', 'demilitarise:0.2731', 'scope:0.269', 'undermine:0.2346', 'economic:0.2317', 'escalation:0.2293', 'raytheon:0.2104', 'tank:0.2031', 'gain:0.1977', 'consultancy:0.1826', 'explain:0.1752', 'volodymyr:0.1739', 'peace:0.1685', 'arm:0.1674', 'import:0.1604', 'respectively:0.1565', 'report:0.155', 'chart:0.1372', 'end:0.1355', 'long:0.1229', 'systems:0.1171', 'trillion:0.1077', 'major:0.0921', 'bae:0.0814', 'beneficiary:0.0754', 'welcome:0.063']+titles_keywords+['ukraine:0.6069', 'thewar:0.377', 'defence:0.2976', 'billions:0.247', 'quietly:0.2294']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/theconversation.com/The legacy of the Euromaidan Revolution lives on in the UkrainianRussian war.txt+eventbasecode111+eventcode111+avgtone0.4828109201213347+goldsteinscale0.4+nummentions0.022133526850507984+numarticles0.02284263959390863+numsources0.039473684210526314+news_keywords+['yanukovych:0.4732', 'euromaidan:0.4643', 'revolution:0.4012', 'crimean:0.3899', 'regime:0.3711', 'oligarch:0.3604', 'electoral:0.3576', 'russias:0.3282', 'decentralization:0.3135', 'instability:0.2484', 'scandals:0.2343', 'outcome:0.2275', 'executive:0.222', 'petro:0.2207', 'peaceful:0.2168', 'peninsula:0.1982', 'continue:0.1852', 'leave:0.183', 'study:0.1692', 'replacement:0.1592', 'inherit:0.1584', 'reverse:0.1561', 'hello:0.1518', 'sign:0.147', 'point:0.1398', 'soon:0.1343', 'dissolve:0.1324', 'long:0.1302', 'major:0.1203', 'conducive:0.113']+titles_keywords+['euromaidan:0.5748', 'war:0.4309', 'revolution:0.4111', 'ukrainianrussian:0.3613', 'legacy:0.2228']"
+        ]
+    ]
+}

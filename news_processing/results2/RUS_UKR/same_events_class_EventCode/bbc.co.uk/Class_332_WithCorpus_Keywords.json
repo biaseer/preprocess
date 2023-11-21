@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+332":[
+        [
+            "20220125+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/What is Nato and how is it helping Ukraine.txt+eventbasecode33+eventcode332+avgtone0.495+goldsteinscale0.76+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.009868421052631578+news_keywords+['nato:0.5501', 'kyiv:0.2974', 'war:0.2699', 'troop:0.2452', 'tank:0.2118', 'join:0.2088', 'abrams:0.2022', 'ally:0.1876', 'help:0.1626', 'safer:0.1599', 'oppose:0.1593', 'organisation:0.1585', 'increase:0.1558', 'bloc:0.1528', 'approve:0.1413', 'neutral:0.1391', 'howitzer:0.1365', 'encroach:0.1328', 'make:0.1202', 'include:0.1171', 'soon:0.1157', 'continue:0.1048', 'article:0.1018', 'turn:0.0998', 'sell:0.0955', 'km:0.0955', 'point:0.0795', 'long:0.0787', 'direct:0.0678', 'state:0.0511']+titles_keywords+['nato:0.7015', 'ukraine:0.5268', 'helping:0.1685']"
+        ]
+    ],
+    "UKR+RUS+332":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine conflict President Zelensky vows to defend independence.txt+eventbasecode33+eventcode332+avgtone0.49090909090909096+goldsteinscale0.76+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['zelensky:0.5314', 'ukraine:0.4605', 'kyiv:0.459', 'independence:0.3612', 'russian:0.3488', 'volodymyr:0.2856', 'conflict:0.237', 'solidarity:0.228', 'invasion:0.2069', 'defend:0.2046', 'president:0.1909', 'country:0.111', 'street:0.1086', 'page:0.0906', 'vow:0.0634', 'face:0.062', 'video:0.058', 'post:0.0535', 'friday:0.0493', 'advisers:0.0396', 'facebook:0.0387', 'bid:0.0197', 'evening:0.0197']+titles_keywords+['zelensky:0.571', 'independence:0.3629', 'ukraine:0.3526', 'defend:0.2138', 'president:0.1297']"
+        ]
+    ]
+}

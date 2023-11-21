@@ -1,0 +1,17 @@
+{
+    "EUR+UKR+20":[
+        [
+            "20220614+../news_crawling/RUS_UKR/p_articles/chronicle.lu/No Way Out for Ukrainians in Embattled City as Russian Forces Destroy Last Bridge.txt+eventbasecode20+eventcode20+avgtone0.47732426303854875+goldsteinscale0.65+nummentions0.0330188679245283+numarticles0.0337200870195794+numsources0.05921052631578947+news_keywords+['kyiv:0.4933', 'kremlin:0.4047', 'nato:0.3768', 'evacuate:0.3409', 'separatist:0.3126', 'territory:0.2601', 'attack:0.2576', 'sievierodonetsk:0.2551', 'donbas:0.2547', 'bridge:0.25', 'crisis:0.2459', 'humanitarian:0.237', 'baseless:0.2125', 'news:0.2114', 'urgent:0.2086', 'howitzer:0.1856', 'end:0.1764', 'advantage:0.1723', 'eastern:0.166', 'long:0.1656', 'increasingly:0.1603', 'executive:0.1573', 'scary:0.1557', 'forces:0.1523', 'pretext:0.1389', 'way:0.1384', 'ready:0.1376', 'additional:0.1323', 'million:0.1101', 'produce:0.1009']+titles_keywords+['ukrainians:0.4127', 'bridge:0.3538', 'destroy:0.2854', 'way:0.2179', 'forces:0.1212']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/chronicle.lu/Kyiv Residents Share Experiences Amid Russian Invasion.txt+eventbasecode20+eventcode20+avgtone0.49056603773584906+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.6069', 'russian:0.4115', 'shelter:0.3536', 'olga:0.3149', 'invasion:0.31', 'capital:0.2389', 'resident:0.2132', 'school:0.1866', 'hide:0.1843', 'leave:0.1751', 'live:0.1748', 'stressed:0.1589', 'people:0.1502', 'supermarket:0.1493', 'story:0.143', 'airport:0.1422', 'child:0.1386', 'ongoing:0.1328', 'turn:0.1302', 'learn:0.1289', 'number:0.1258', 'grow:0.1251', 'scar:0.1237', 'refer:0.1115', 'floor:0.1036', 'begin:0.0965', 'near:0.0905', 'queue:0.0614', 'long:0.0553', 'add:0.0527']+titles_keywords+['kyiv:0.6496', 'invasion:0.3855', 'residents:0.2893', 'experiences:0.1916', 'share:0.0758']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/chronicle.lu/Poor Countries Face Food Energy Finance Crises Due to Ukraine War UN Chief Says.txt+eventbasecode20+eventcode20+avgtone0.4622356495468278+goldsteinscale0.65+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.023026315789473683+news_keywords+['crises:0.4555', 'russia:0.4283', 'poverty:0.3803', 'economy:0.3771', 'war:0.3383', 'reuters:0.3292', 'poor:0.2659', 'nations:0.2658', 'commodity:0.2531', 'world:0.247', 'develop:0.2296', 'reform:0.2256', 'report:0.2157', 'trigger:0.2096', 'cause:0.1918', 'import:0.1861', 'begin:0.1821', 'wheat:0.1811', 'people:0.1748', 'increase:0.1476', 'billion:0.1362', 'april:0.1359', 'task:0.1337', 'rely:0.1325', 'simultaneous:0.132', 'general:0.1284', 'flow:0.1255', 'guterres:0.1043', 'collateral:0.1007', 'dimensional:0.0672']+titles_keywords+['ukraine:0.3993', 'crises:0.3485', 'war:0.2992', 'poor:0.2366', 'finance:0.2279']"
+        ]
+    ]
+}

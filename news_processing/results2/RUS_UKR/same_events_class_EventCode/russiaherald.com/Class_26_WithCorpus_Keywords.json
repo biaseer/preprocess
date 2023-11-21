@@ -1,0 +1,22 @@
+{
+    "BLR+RUS+26":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Russia made proposals to Ukraine in form of legal documents during talks in Belarus.txt+eventbasecode26+eventcode26+avgtone0.490234375+goldsteinscale0.7+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ceasefire:0.4459', 'belarus:0.3948', 'donetsk:0.3542', 'negotiator:0.3067', 'logistics:0.2491', 'consultation:0.2445', 'talk:0.2431', 'podolyak:0.243', 'proposal:0.2329', 'troop:0.2285', 'political:0.2211', 'delegation:0.2173', 'corridor:0.2025', 'continue:0.1864', 'document:0.1748', 'result:0.1666', 'february:0.1626', 'volodymyr:0.162', 'draft:0.1568', 'subduction:0.1491', 'hold:0.1402', 'block:0.1214', 'round:0.121', 'positive:0.1206', 'make:0.1113', 'intensify:0.1011', 'main:0.098', 'according:0.0816', 'ani:0.0728', 'specific:0.0457']+titles_keywords+['ukraine:0.4315', 'proposals:0.2963', 'documents:0.2254', 'legal:0.1716', 'form:0.1161']"
+        ]
+    ],
+    "DEU+UKR+26":[
+        [
+            "20220128+../news_crawling/RUS_UKR/p_articles/russiaherald.com/EU UK planning massive sanctions against Russian gas media.txt+eventbasecode26+eventcode26+avgtone0.4701492537313433+goldsteinscale0.7+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['ukraine:0.4304', 'nato:0.3579', 'pipeline:0.2835', 'gas:0.257', 'negotiation:0.2434', 'expand:0.2274', 'invasion:0.2177', 'diplomat:0.2071', 'eurostat:0.1978', 'lavrov:0.1954', 'aggressive:0.195', 'table:0.1858', 'oppose:0.1681', 'security:0.1658', 'sector:0.1651', 'bloc:0.1637', 'import:0.1593', 'imminent:0.1574', 'order:0.139', 'aspects:0.1368', 'punish:0.1279', 'explain:0.1241', 'spar:0.1193', 'current:0.1146', 'step:0.1139', 'write:0.1073', 'issue:0.0989', 'long:0.0948', 'price:0.0684', 'olaf:0.0624']+titles_keywords+['sanctions:0.4797', 'russian:0.2886', 'media:0.2312', 'uk:0.2084', 'gas:0.202']"
+        ]
+    ],
+    "EUR+UKR+26":[
+        [
+            "20220204+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Ukraine set to get Turkish military drones.txt+eventbasecode26+eventcode26+avgtone0.4801670146137787+goldsteinscale0.7+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimea:0.4994', 'kremlin:0.3909', 'erdogan:0.3825', 'drone:0.3321', 'ankara:0.3266', 'war:0.3178', 'autonomy:0.2556', 'border:0.2321', 'zelensky:0.2288', 'agreement:0.2203', 'crisis:0.2183', 'know:0.2153', 'alarm:0.1936', 'technology:0.1865', 'mediator:0.1845', 'ratification:0.1841', 'soon:0.1831', 'follow:0.1694', 'bloomberg:0.1561', 'oppose:0.1559', 'provocative:0.1298', 'current:0.1225', 'produce:0.1215', 'enjoy:0.1146', 'donbass:0.1116', 'unman:0.0948', 'brief:0.0862', 'reabsorption:0.0854', 'directly:0.0818', 'set:0.0771']+titles_keywords+['ukraine:0.4789', 'drones:0.4463', 'turkish:0.3467', 'military:0.2378', 'set:0.0915']"
+        ]
+    ],
+    "RUS+FRA+26":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Putin and Macron agree on measures to halt escalation in Ukraine.txt+eventbasecode26+eventcode26+avgtone0.493573264781491+goldsteinscale0.7+nummentions0.02648766328011611+numarticles0.02719361856417694+numsources0.01644736842105263+news_keywords+['ceasefire:0.4685', 'diplomatic:0.3859', 'nato:0.3722', 'putin:0.3669', 'macron:0.3533', 'ukrainians:0.3209', 'escalation:0.3168', 'contact:0.2684', 'evacuate:0.255', 'urgent:0.2516', 'talk:0.23', 'paris:0.1952', 'meet:0.1924', 'counterpart:0.1799', 'order:0.1756', 'trilateral:0.1653', 'consist:0.1629', 'monday:0.1611', 'plan:0.1559', 'resume:0.1536', 'general:0.1439', 'decide:0.1383', 'hold:0.1328', 'format:0.1311', 'draw:0.1235', 'volodymyr:0.1102', 'hour:0.1016', 'poise:0.0954', 'agree:0.0938', 'possible:0.0867']+titles_keywords+['macron:0.3891', 'ukraine:0.3026', 'escalation:0.2344', 'agree:0.0999', 'measures:0.0695']"
+        ]
+    ]
+}

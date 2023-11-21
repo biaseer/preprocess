@@ -1,0 +1,12 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/businessghana.com/Africa bearing brunt of RussiaUkraine war Lecturer.txt+eventbasecode61+eventcode61+avgtone0.48199672667757776+goldsteinscale0.82+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.0+news_keywords+['ukraine:0.4595', 'nato:0.4273', 'putin:0.4248', 'war:0.3721', 'crises:0.3213', 'sahel:0.3014', 'economics:0.2878', 'eastward:0.2804', 'involvement:0.2598', 'topic:0.2551', 'relations:0.2513', 'african:0.249', 'proliferation:0.2334', 'president:0.2282', 'disrupt:0.209', 'lecture:0.1932', 'implication:0.1911', 'world:0.1905', 'explain:0.1616', 'include:0.1611', 'sector:0.158', 'deepen:0.1561', 'prepare:0.1492', 'rank:0.1471', 'end:0.143', 'say:0.1334', 'significant:0.1285', 'exporter:0.0752', 'noodle:0.0751', 'dealt:0.065']+titles_keywords+['africa:0.4548', 'russiaukraine:0.425', 'war:0.4022', 'lecturer:0.2706', 'brunt:0.0898']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220621+../news_crawling/RUS_UKR/p_articles/businessghana.com/Bulk cargo registers 25 per cent drop.txt+eventbasecode61+eventcode61+avgtone0.498069498069498+goldsteinscale0.82+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.006578947368421052+news_keywords+['harbours:0.3975', 'port:0.3595', 'shipment:0.3474', 'economy:0.3356', 'ghana:0.3108', 'pollution:0.2998', 'stakeholder:0.289', 'unreported:0.2565', 'gpha:0.2519', 'process:0.2424', 'import:0.2393', 'issue:0.2383', 'implement:0.2223', 'read:0.1962', 'luguje:0.196', 'officer:0.1946', 'need:0.1926', 'reduction:0.1918', 'manner:0.1868', 'agreement:0.1769', 'tema:0.1699', 'regional:0.1674', 'know:0.1625', 'grouping:0.1622', 'osei:0.1618', 'board:0.1603', 'register:0.156', 'share:0.125', 'impact:0.1181', 'february:0.1003']+titles_keywords+['cargo:0.455', 'bulk:0.3135', 'drop:0.2987', 'registers:0.2782', '25:0.0877']"
+        ]
+    ]
+}

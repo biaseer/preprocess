@@ -1,0 +1,15 @@
+{
+    "CHE+UKR+43":[
+        []
+    ],
+    "POL+UKR+43":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/nbcdfw.com/They Were Shooting Civilians Ukraine Refugees Provide Testimony of Abuse.txt+eventbasecode43+eventcode43+avgtone0.4685408299866131+goldsteinscale0.64+nummentions0.13570391872278664+numarticles0.1363306744017404+numsources0.20394736842105263+news_keywords+['ukrainians:0.4813', 'kyiv:0.4795', 'civilians:0.4123', 'refugee:0.4051', 'evacuation:0.3756', 'war:0.3256', 'ivanov:0.3073', 'blockade:0.2758', 'traumatize:0.2618', 'river:0.2052', 'contingency:0.2049', 'investigation:0.2035', 'child:0.1869', 'corridor:0.1803', 'scared:0.1799', 'turn:0.1711', 'shoot:0.1682', 'accountable:0.1611', 'anna:0.1585', 'displace:0.1541', 'continue:0.1502', 'trained:0.1457', 'thousand:0.1381', 'arrive:0.1379', 'badly:0.1221', 'ihor:0.1185', 'official:0.1143', 'longer:0.0935', 'state:0.076', 'true:0.0623']+titles_keywords+['refugees:0.5353', 'ukraine:0.4595', 'abuse:0.3373', 'shooting:0.2712', 'testimony:0.1818']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/nbcdfw.com/Tripwire for War The Dangers of Cyberattacks and Their Fuzzy Rules of Engagement.txt+eventbasecode43+eventcode43+avgtone0.45553935860058326+goldsteinscale0.64+nummentions0.04644412191582003+numarticles0.04713560551124003+numsources0.06578947368421052+news_keywords+['cyberattacks:0.6373', 'espionage:0.4518', 'natos:0.4308', 'stuxnet:0.4297', 'cybercom:0.3999', 'destabilizing:0.3546', 'tripwire:0.3526', 'infrastructure:0.3331', 'ransomware:0.3283', 'crimea:0.323', 'armageddon:0.3102', 'war:0.3009', 'microsoft:0.2605', 'battlespace:0.2508', 'blacklist:0.2376', 'consequence:0.2286', 'know:0.2031', 'departments:0.2024', 'midterm:0.2018', 'data:0.2005', 'current:0.1802', 'centrifuge:0.1797', 'winter:0.1722', 'biden:0.1524', 'markoff:0.1482', 'fuzzy:0.1467', 'decade:0.145', 'compare:0.1356', 'freelancer:0.1212', 'send:0.0858']+titles_keywords+['cyberattacks:0.6201', 'tripwire:0.3847', 'fuzzy:0.3722', 'war:0.328', 'rules:0.2336']"
+        ]
+    ]
+}

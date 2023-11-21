@@ -1,0 +1,12 @@
+{
+    "BEL+RUS+12":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/inquirer.net/Nato fears Russian chemical attack in Ukraine.txt+eventbasecode12+eventcode12+avgtone0.483160621761658+goldsteinscale0.48+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.013157894736842105+news_keywords+['nato:0.5733', 'moscow:0.3553', 'russias:0.3526', 'war:0.3203', 'readiness:0.3142', 'attack:0.2779', 'troop:0.2753', 'worry:0.2525', 'reinforce:0.2317', 'news:0.2249', 'chemical:0.2192', 'meeting:0.2043', 'cite:0.1908', 'flag:0.1898', 'thursday:0.1712', 'secretary:0.1677', 'stoltenberg:0.1564', 'presidents:0.1537', 'general:0.1535', 'summit:0.1411', 'philippine:0.133', 'cover:0.1311', 'privacy:0.125', 'chois:0.1234', 'false:0.1126', 'send:0.1117', 'long:0.101', 'say:0.0952', 'senseless:0.0705', 'price:0.0604']+titles_keywords+['nato:0.4257', 'russian:0.2963', 'chemical:0.2252', 'attack:0.204', 'fears:0.1754']"
+        ]
+    ],
+    "PHL+UKR+12":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/inquirer.net/Marcos on UkraineRussia conflict No need to make a stand.txt+eventbasecode12+eventcode12+avgtone0.4865979381443299+goldsteinscale0.48+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['philippine:0.4696', 'duterte:0.468', 'marcos:0.3519', 'conflict:0.3457', 'russias:0.3002', 'ph:0.262', 'invasion:0.2232', 'government:0.2136', 'inday:0.2031', 'chois:0.2005', 'repatriate:0.1978', 'neutral:0.1969', 'murder:0.1964', 'na:0.1946', 'worried:0.1861', 'want:0.1762', 'news:0.1756', 'favor:0.169', 'protection:0.1654', 'stand:0.1644', 'vote:0.1565', 'read:0.1489', 'dapat:0.1454', 'carpio:0.1416', 'model:0.1366', 'remark:0.1319', 'lag:0.1127', 'agree:0.1002', 'plus:0.0863', 'mate:0.0681']+titles_keywords+['marcos:0.4874', 'conflict:0.376', 'ukrainerussia:0.3181', 'stand:0.2567', 'need:0.0902']"
+        ]
+    ]
+}

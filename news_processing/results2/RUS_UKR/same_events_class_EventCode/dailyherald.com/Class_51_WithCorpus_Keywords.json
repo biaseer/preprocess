@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/dailyherald.com/Russia temporarily stops gas flow through Nord Stream 1.txt+eventbasecode51+eventcode51+avgtone0.48504273504273504+goldsteinscale0.67+nummentions0.026124818577648767+numarticles0.026831036983321246+numsources0.039473684210526314+news_keywords+['pipeline:0.3776', 'gas:0.3762', 'russia:0.367', 'gazprom:0.3393', 'berlin:0.2308', 'maintenance:0.2252', 'supply:0.2183', 'nord:0.2143', 'turbine:0.1915', 'conserve:0.1817', 'invasion:0.1764', 'station:0.1706', 'portovaya:0.1608', 'natural:0.1577', 'temporarily:0.1537', 'stream:0.1485', 'stop:0.1475', 'pause:0.1461', 'control:0.1425', 'mueller:0.1376', 'drop:0.1138', 'klaus:0.1054', 'federal:0.1036', 'wednesday:0.0772', 'price:0.072', 'sow:0.0622', 'confirm:0.0498', 'major:0.0493', 'according:0.0251', 'way:0.0182']+titles_keywords+['russia:0.282', 'gas:0.2294', 'nord:0.2261', 'stream:0.1913', 'temporarily:0.1682']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/dailyherald.com/On global holiday a terrible dream for Ukrainian women.txt+eventbasecode51+eventcode51+avgtone0.4909194097616345+goldsteinscale0.67+nummentions0.11030478955007257+numarticles0.11094996374184192+numsources0.11842105263157894+news_keywords+['refugees:0.5602', 'kyiv:0.4128', 'unicef:0.4026', 'traumatize:0.3282', 'conscription:0.325', 'conflict:0.3018', 'woman:0.2959', 'yelena:0.2953', 'poltava:0.2904', 'vacation:0.2821', 'suffering:0.2475', 'world:0.2474', 'celebrate:0.2456', 'volunteer:0.2402', 'child:0.2249', 'historical:0.2183', 'arrive:0.2034', 'reminder:0.2032', 'abstraction:0.2031', 'news:0.1976', 'bouquet:0.1963', 'hide:0.1889', 'cross:0.1863', 'speak:0.1842', 'want:0.183', 'kind:0.1687', 'ease:0.1681', 'number:0.1647', 'allow:0.1385', 'possible:0.0777']+titles_keywords+['ukrainian:0.436', 'holiday:0.3858', 'women:0.3356', 'dream:0.2846', 'terrible:0.171']"
+        ]
+    ]
+}

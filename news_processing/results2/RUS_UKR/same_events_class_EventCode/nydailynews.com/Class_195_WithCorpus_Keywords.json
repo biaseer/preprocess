@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+195":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/nydailynews.com/Pregnant Ukrainian woman who survived Russian attack on maternity ward gives birth to baby girl.txt+eventbasecode195+eventcode195+avgtone0.4802325581395349+goldsteinscale0.0+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.01644736842105263+news_keywords+['ukraine:0.4904', 'putin:0.456', 'yuri:0.3967', 'vishegirskayas:0.3849', 'humanitarian:0.368', 'maternity:0.3223', 'veronika:0.3053', 'disinformation:0.2948', 'bombed:0.2832', 'survive:0.2736', 'invade:0.269', 'blood:0.2446', 'dangerous:0.2417', 'woman:0.2407', 'missile:0.2385', 'photographers:0.2302', 'child:0.2051', 'story:0.1933', 'transport:0.1851', 'twitter:0.1749', 'expectant:0.1748', 'chronicle:0.1747', 'page:0.1687', 'mariana:0.1578', 'lovingly:0.1532', 'order:0.1483', 'deeper:0.137', 'firsthand:0.1352', 'month:0.1318', 'corner:0.1143']+titles_keywords+['maternity:0.4226', 'russian:0.4028', 'survived:0.2324', 'girl:0.1856', 'attack:0.1456']"
+        ]
+    ],
+    "UKR+RUS+195":[
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/nydailynews.com/Ukraine says 9 Russian warplanes destroyed in Crimea blasts.txt+eventbasecode195+eventcode195+avgtone0.4666666666666666+goldsteinscale0.0+nummentions0.11973875181422351+numarticles0.12037708484408992+numsources0.16776315789473684+news_keywords+['crimea:0.542', 'kremlin:0.4081', 'explosion:0.3125', 'attack:0.3104', 'casualties:0.2966', 'sergey:0.2792', 'military:0.2715', 'novofedorivka:0.2684', 'saky:0.2259', 'strategic:0.2232', 'airfield:0.2122', 'know:0.2093', 'flee:0.198', 'report:0.1806', 'ap:0.1766', 'industrialize:0.1738', 'explanation:0.1733', 'concern:0.1731', 'result:0.168', 'range:0.1568', 'major:0.1513', 'adviser:0.1484', 'western:0.142', 'satellite:0.1369', 'oleh:0.1207', 'wednesday:0.1105', 'long:0.1062', 'housing:0.0929', 'doesnt:0.0861', 'sent:0.0689']+titles_keywords+['crimea:0.3626', 'warplanes:0.3436', 'blasts:0.2262', 'destroyed:0.1983', 'says:0.0722']"
+        ]
+    ]
+}

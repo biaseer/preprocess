@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+100":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/cbc.ca/McDonalds Starbucks Coke Pepsi join companies suspending business in Russia.txt+eventbasecode100+eventcode100+avgtone0.48710317460317465+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.006578947368421052+news_keywords+['russia:0.4918', 'protestrussia:0.4433', 'targetedcompanies:0.3516', 'companieshave:0.3474', 'starbucks:0.3281', 'war:0.2911', 'profit:0.2679', 'kfcsoperated:0.2623', 'news:0.2503', 'crisis:0.2405', 'yum:0.2054', 'agreement:0.1971', 'report:0.1911', 'social:0.1882', 'read:0.1831', 'platformshopify:0.177', 'global:0.175', 'continue:0.1692', 'foodchain:0.1504', 'increasingly:0.1418', 'isredirecting:0.1396', 'horrific:0.1311', 'peoplearound:0.1253', 'theu:0.1224', 'large:0.1143', 'suspendoperations:0.1115', 'insensitive:0.1036', 'rbi:0.068', 'zak:0.0679', 'mountingpressure:-0.0386']+titles_keywords+['starbucks:0.4426', 'russia:0.4079', 'companies:0.3413', 'suspending:0.2021', 'join:0.1642']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220529+../news_crawling/RUS_UKR/p_articles/cbc.ca/Ukraine says Russian troops storming Donbas city in closequarter fighting with defenders.txt+eventbasecode100+eventcode100+avgtone0.47782063645130185+goldsteinscale0.25+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4755', 'airstrikes:0.4004', 'conquer:0.3435', 'separatists:0.322', 'emergency:0.3024', 'troop:0.274', 'refugeestouched:0.2667', 'update:0.2527', 'reinforce:0.2483', 'fighting:0.2475', 'flee:0.2472', 'zelensky:0.2171', 'arrive:0.2168', 'regionalgovernor:0.2133', 'operate:0.2116', 'hear:0.2077', 'storm:0.2007', 'donbas:0.1994', 'kilometressouth:0.1899', 'rail:0.1827', 'telegram:0.1782', 'long:0.1627', 'according:0.1593', 'closequarter:0.1522', 'focus:0.1519', 'data:0.1468', 'major:0.1368', 'apartment:0.1306', 'feb:0.1295', 'thousand:0.1177']+titles_keywords+['ukraine:0.3583', 'donbas:0.3473', 'troops:0.2876', 'fighting:0.2282', 'closequarter:0.1685']"
+        ]
+    ]
+}

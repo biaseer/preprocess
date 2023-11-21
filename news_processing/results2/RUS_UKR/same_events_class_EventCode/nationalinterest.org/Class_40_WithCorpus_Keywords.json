@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+40":[
+        [
+            "20211204+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/Why Putin May Go to War In Ukraine.txt+eventbasecode40+eventcode40+avgtone0.4781931464174455+goldsteinscale0.55+nummentions0.0050798258345428155+numarticles0.0025380710659898475+numsources0.006578947368421052+news_keywords+['putin:0.5271', 'nato:0.3919', 'ukraines:0.3878', 'invade:0.3257', 'yuri:0.31', 'peskov:0.2878', 'threat:0.2682', 'diplomatic:0.246', 'prepare:0.2347', 'reuters:0.2322', 'adviser:0.2028', 'unilaterally:0.1969', 'upcoming:0.19', 'order:0.1637', 'know:0.1543', 'rhetoric:0.1531', 'contingency:0.1419', 'outline:0.1349', 'beleaguer:0.1265', 'respond:0.1176', 'reincorporation:0.1067', 'lengthy:0.1027', 'state:0.0918', 'stoltenberg:0.0898', 'january:0.0855', 'directly:0.0824', 'likely:0.0725', 'deal:0.0642', 'bright:0.0604', 'cycle:0.0552']+titles_keywords+['putin:0.549', 'ukraine:0.4258', 'war:0.4074']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220817+../news_crawling/RUS_UKR/p_articles/nationalinterest.org/Cannon Fodder Putin Accuses US of Prolonging Ukraine War.txt+eventbasecode40+eventcode40+avgtone0.47956989247311826+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.4594', 'ukrainians:0.4248', 'nato:0.4176', 'invasion:0.2896', 'hegemony:0.2836', 'prolonging:0.2595', 'conflict:0.2535', 'coordinate:0.2408', 'warwhich:0.2382', 'accuse:0.2184', 'input:0.2179', 'weapon:0.2164', 'delegation:0.2039', 'term:0.1978', 'western:0.1914', 'donbass:0.1755', 'opposedin:0.1585', 'include:0.1565', 'instead:0.1548', 'fodder:0.1504', 'begin:0.1504', 'expert:0.1405', 'order:0.1348', 'data:0.1275', 'remarkswas:0.1173', 'refocus:0.1137', 'destined:0.1135', 'fully:0.1049', 'week:0.0811', 'export:0.0651']+titles_keywords+['putin:0.4662', 'cannon:0.2733', 'accuses:0.254', 'fodder:0.2424', 'prolonging:0.2222']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "CHN+UKR+42":[
+        [
+            "20220124+../news_crawling/RUS_UKR/p_articles/townhall.com/State Dept Orders Evacuations Tells US Citizens to Plan Accordingly as Next Foreign Policy Failure.txt+eventbasecode42+eventcode42+avgtone0.4860215053763441+goldsteinscale0.595+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['evacuations:0.4772', 'ukraine:0.4554', 'diplomacy:0.3526', 'invades:0.3162', 'correspondent:0.2969', 'military:0.2591', 'threat:0.2582', 'coronavirus:0.2565', 'leave:0.235', 'occur:0.2325', 'biden:0.23', 'department:0.23', 'disastrous:0.2088', 'border:0.206', 'shortly:0.2027', 'order:0.2006', 'plan:0.1945', 'state:0.1867', 'continue:0.1798', 'turn:0.1795', 'advisory:0.1779', 'authorize:0.1718', 'cite:0.1545', 'tweet:0.1336', 'deteriorate:0.131', 'comparingthe:0.125', 'emphasize:0.1244', 'et:0.1168', 'http:0.0896', 'griffin:0.0895']+titles_keywords+['evacuations:0.5543', 'plan:0.2703', 'dept:0.1812', 'state:0.1591', 'failure:0.1498']"
+        ]
+    ],
+    "RUS+EUR+42":[
+        [
+            "20220830+../news_crawling/RUS_UKR/p_articles/townhall.com/Winners and Losers From the Ukraine War.txt+eventbasecode42+eventcode42+avgtone0.4786516853932584+goldsteinscale0.595+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['crimea:0.469', 'ussr:0.4559', 'nato:0.4259', 'putin:0.3978', 'invade:0.2729', 'neutrality:0.2654', 'battles:0.2516', 'zelenskyy:0.2297', 'nixon:0.2265', 'continuation:0.2206', 'read:0.2103', 'east:0.1993', 'benefit:0.1983', 'turn:0.1962', 'unite:0.196', 'historic:0.1847', 'duopoly:0.1844', 'ally:0.1786', 'generation:0.1659', 'loss:0.161', 'sanction:0.1596', 'grows:0.1471', 'source:0.1403', 'casualty:0.1353', 'safe:0.1313', 'irretrievable:0.1304', 'restore:0.097', 'flagship:0.0925', 'feb:0.0756', 'welcome:0.0671']+titles_keywords+['ukraine:0.5482', 'war:0.384', 'winners:0.3763', 'losers:0.3392']"
+        ]
+    ]
+}

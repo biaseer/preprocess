@@ -1,0 +1,10 @@
+{
+    "GBR+RUS+160":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/marketwatch.com/UK freezes assets on Russian airlines preventing sale of landing slots.txt+eventbasecode160+eventcode160+avgtone0.47916666666666674+goldsteinscale0.3+nummentions0.01741654571843251+numarticles0.018129079042784626+numsources0.03618421052631579+news_keywords+['russias:0.4041', 'ukraine:0.3843', 'airports:0.3581', 'ru:0.3532', 'rossiya:0.3519', 'russian:0.3462', 'airline:0.3353', 'ban:0.3013', 'sanction:0.278', 'aeroflot:0.2688', 'war:0.2378', 'land:0.224', 'ural:0.2205', 'uk:0.2195', 'landing:0.2143', 'sell:0.1884', 'freeze:0.1878', 'unused:0.1862', 'prevent:0.1818', 'asset:0.1673', 'right:0.1233', 'pound:0.1214', 'slot:0.1155', 'aflt:0.1104', 'worth:0.1056', 'thursday:0.0966', 'kingdom:0.0899', 'state:0.078', 'big:0.0665', 'earlier:0.0627']+titles_keywords+['russian:0.2792', 'preventing:0.1981', 'landing:0.1786', 'assets:0.1653', 'freezes:0.1212']"
+        ]
+    ],
+    "RUS+UKR+160":[
+        []
+    ]
+}

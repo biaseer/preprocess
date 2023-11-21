@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220526+../news_crawling/RUS_UKR/p_articles/trtworld.com/Live blog Russia ready to help solve food crisis if West lifts sanctions.txt+eventbasecode190+eventcode190+avgtone0.4851063829787235+goldsteinscale0.0+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['ukraine:0.4938', 'kremlin:0.4465', 'geopoliticians:0.3814', 'oleg:0.314', 'vladimirputinemphasises:0.3071', 'siverskyi:0.2832', 'separatist:0.2475', 'federation:0.2455', 'emergency:0.2394', 'briefing:0.2359', 'occupy:0.2306', 'reinforce:0.2217', 'conflict:0.2177', 'multilateral:0.2163', 'news:0.1959', 'sanction:0.192', 'agreement:0.1828', 'anticipate:0.1815', 'kill:0.1814', 'navigation:0.1801', 'industrial:0.1719', 'ready:0.1612', 'order:0.1502', 'ria:0.122', 'unfold:0.1202', 'davos:0.1179', 'long:0.1163', 'export:0.1155', 'nearly:0.1039', 'downside:0.0859']+titles_keywords+['sanctions:0.4531', 'russia:0.4165', 'food:0.2149', 'live:0.1839', 'help:0.1668']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/trtworld.com/Live blog Around 15000 Russians dead 45000 wounded in Ukraine CIA.txt+eventbasecode190+eventcode190+avgtone0.4837421563034798+goldsteinscale0.0+nummentions0.024310595065312045+numarticles0.025018129079042786+numsources0.029605263157894735+news_keywords+['ukraine:0.5439', 'putin:0.5189', 'diplomatic:0.3576', 'cia:0.3161', 'roskomnadzor:0.2938', 'unions:0.2708', 'news:0.2677', 'pentagon:0.2657', 'pipeline:0.2594', 'gdp:0.2506', 'operation:0.2501', 'expand:0.235', 'capital:0.2277', 'know:0.2108', 'encyclopaedia:0.1961', 'ammunition:0.1935', 'lengthy:0.1886', 'forward:0.1865', 'prepare:0.185', 'bloc:0.1824', 'eurobonds:0.1784', 'promise:0.1561', 'winter:0.1542', 'casualty:0.1378', 'export:0.1374', 'track:0.1272', 'replace:0.1178', 'cutoff:0.1136', 'total:0.0909', 'benchmarks:0.0835']+titles_keywords+['ukraine:0.535', 'cia:0.3565', 'blog:0.319', 'dead:0.2549', '45000:0.2468']"
+        ]
+    ]
+}

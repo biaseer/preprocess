@@ -1,0 +1,17 @@
+{
+    "ARG+UKR+57":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/US unveils strategy against Chinese Russian authoritarian internet curbs.txt+eventbasecode57+eventcode57+avgtone0.48234200743494426+goldsteinscale0.9+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['cybersecurity:0.5102', 'internet:0.4259', 'infrastructure:0.3911', 'authoritarianism:0.3484', 'russias:0.3483', 'disinformation:0.3409', 'treaty:0.3158', 'splinternet:0.3102', 'attack:0.2897', 'election:0.2531', 'censor:0.2353', 'block:0.2302', 'chinese:0.2221', 'advocate:0.2141', 'example:0.2127', 'collective:0.2077', 'interference:0.2048', 'interconnect:0.2036', 'edge:0.198', 'develop:0.1952', 'know:0.194', 'world:0.1861', 'trend:0.1819', 'reporter:0.1581', 'state:0.1544', 'reaffirm:0.1388', 'efe:0.1111', 'originally:0.1087', 'far:0.1039', 'compatible:0.095']+titles_keywords+['russian:0.3088', 'internet:0.2825', 'authoritarian:0.2781', 'strategy:0.2282', 'unveils:0.0857']"
+        ]
+    ],
+    "CHN+RUS+57":[
+        [
+            "20220612+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Partnership not alliance China downplays relationship with Russia.txt+eventbasecode57+eventcode57+avgtone0.49209932279909707+goldsteinscale0.9+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4329', 'putin:0.3581', 'diplomatic:0.3312', 'war:0.3295', 'beijing:0.2963', 'reunification:0.2958', 'alliance:0.2664', 'zelenskyy:0.2068', 'crisis:0.1959', 'delegation:0.1916', 'partner:0.1882', 'entrench:0.1771', 'jinping:0.1607', 'fenghe:0.1582', 'direction:0.151', 'word:0.1506', 'present:0.1447', 'include:0.1399', 'shortly:0.1398', 'follow:0.1352', 'attendee:0.1319', 'efe:0.1262', 'end:0.1201', 'deny:0.1167', 'year:0.1119', 'make:0.1114', 'hypothetical:0.1113', 'highlight:0.0987', 'dozen:0.0484', 'define:0.0473']+titles_keywords+['russia:0.2979', 'partnership:0.2838', 'alliance:0.2777', 'downplays:0.2748', 'relationship:0.2144']"
+        ]
+    ],
+    "RUS+UKR+57":[
+        [
+            "20220516+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/Renault signs agreement to sell assets in Russia over Ukraine invasion.txt+eventbasecode57+eventcode57+avgtone0.5016556291390729+goldsteinscale0.9+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['renault:0.4818', 'russian:0.3704', 'avtovaz:0.3675', 'vehicle:0.2784', 'sell:0.2673', 'subsidiary:0.2644', 'ceo:0.2644', 'france:0.2576', 'consolidate:0.2358', 'property:0.2279', 'eur:0.2264', 'mar:0.2139', 'statement:0.1858', 'announce:0.1805', 'make:0.1762', 'context:0.1675', 'charge:0.158', 'future:0.148', 'option:0.1396', 'group:0.1362', 'majority:0.13', 'non:0.1286', 'meo:0.1268', 'year:0.1202', 'follow:0.1166', 'board:0.1135', 'plant:0.1128', 'invasion:0.1109', 'longer:0.0797', 'adjustment:0.0742']+titles_keywords+['renault:0.3782', 'ukraine:0.3488', 'sell:0.2346', 'agreement:0.1773', 'assets:0.1539']"
+        ]
+    ]
+}

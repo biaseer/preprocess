@@ -1,0 +1,17 @@
+{
+    "BLR+UKR+72":[
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/cp24.com/Ukraine fears repeat of Mariupol horrors in the Donbas.txt+eventbasecode72+eventcode72+avgtone0.46975609756097564+goldsteinscale0.915+nummentions0.07111756168359942+numarticles0.07179115300942712+numsources0.0756578947368421+news_keywords+['ukraine:0.5018', 'kremlin:0.4177', 'evacuate:0.3415', 'separatist:0.31', 'reconnaissance:0.2957', 'battle:0.2779', 'sievierodonetsk:0.2684', 'ahead:0.263', 'predict:0.2624', 'pentagon:0.2486', 'repeat:0.246', 'arrange:0.2439', 'know:0.2388', 'telegram:0.2378', 'modernize:0.2285', 'industrial:0.2189', 'report:0.2164', 'mir:0.2108', 'presidential:0.2078', 'backfire:0.2073', 'town:0.1956', 'fearfully:0.1894', 'long:0.1888', 'world:0.1846', 'range:0.1797', 'donbas:0.1575', 'study:0.1566', 'untreated:0.1564', 'include:0.1417', 'completely:0.1215']+titles_keywords+['ukraine:0.455', 'mariupol:0.3488', 'fears:0.3046', 'donbas:0.2811', 'repeat:0.1403']"
+        ]
+    ],
+    "RUS+UKR+72":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/cp24.com/Russia to stage massive nuclear drills amid Ukraine standoff.txt+eventbasecode72+eventcode72+avgtone0.4903846153846154+goldsteinscale0.915+nummentions0.08853410740203194+numarticles0.08919506889050036+numsources0.09868421052631579+news_keywords+['kremlin:0.453', 'nato:0.4362', 'crimean:0.4301', 'icbms:0.3998', 'nuclear:0.3519', 'invade:0.3504', 'dmitry:0.3455', 'maneuver:0.2996', 'deploy:0.2969', 'prepare:0.2849', 'annex:0.2715', 'standoff:0.2708', 'plan:0.2403', 'coincide:0.2227', 'drill:0.2175', 'exercise:0.2114', 'president:0.2056', 'concern:0.2009', 'reminder:0.1776', 'supervise:0.1773', 'friday:0.1605', 'base:0.1561', 'north:0.1532', 'continue:0.1521', 'ap:0.1433', 'previous:0.1218', 'say:0.094', 'actually:0.0738', 'thousand:0.0405', 'offer:0.0155']+titles_keywords+['ukraine:0.3177', 'nuclear:0.3156', 'drills:0.284', 'standoff:0.2291', 'stage:0.1303']"
+        ]
+    ],
+    "WST+UKR+72":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/cp24.com/Ukraine says Russia steps up shelling of residential areas.txt+eventbasecode72+eventcode72+avgtone0.47340425531914887+goldsteinscale0.915+nummentions0.3033381712626996+numarticles0.30384336475707036+numsources0.34210526315789475+news_keywords+['ukraine:0.5014', 'moscows:0.4091', 'airstrikes:0.3765', 'dispatch:0.2845', 'news:0.2804', 'zelenskyy:0.2789', 'telegram:0.2726', 'flee:0.2701', 'troop:0.2662', 'annex:0.2654', 'know:0.2628', 'provocation:0.2608', 'talk:0.2271', 'block:0.2221', 'organize:0.2149', 'monday:0.2143', 'word:0.2111', 'recep:0.2103', 'concern:0.2067', 'help:0.202', 'watchdog:0.2012', 'anonymity:0.1935', 'end:0.174', 'radical:0.1674', 'import:0.163', 'hour:0.1606', 'compare:0.1535', 'big:0.1495', 'pricewaterhousecoopers:0.1222', 'coming:0.1004']+titles_keywords+['ukraine:0.4218', 'shelling:0.2413', 'residential:0.224', 'areas:0.1208', 'says:0.0138']"
+        ]
+    ]
+}

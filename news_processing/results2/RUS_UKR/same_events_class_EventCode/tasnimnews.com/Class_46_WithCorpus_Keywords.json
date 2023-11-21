@@ -1,0 +1,17 @@
+{
+    "BLR+RUS+46":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/tasnimnews.com/Kremlin Says Peace Talks Should Continue.txt+eventbasecode46+eventcode46+avgtone0.49127906976744184+goldsteinscale0.85+nummentions0.022496371552975326+numarticles0.023205221174764323+numsources0.023026315789473683+news_keywords+['ukraine:0.4607', 'kremlin:0.4008', 'vladimir:0.3667', 'istanbul:0.3458', 'negotiation:0.3429', 'peace:0.2982', 'talk:0.2703', 'continue:0.2487', 'separatist:0.2449', 'reuters:0.2242', 'genocide:0.2187', 'language:0.2043', 'subject:0.1823', 'bully:0.1604', 'hold:0.153', 'president:0.1425', 'oppose:0.1318', 'main:0.1224', 'people:0.1159', 'report:0.1155', 'state:0.1066', 'like:0.0882', 'current:0.0862', 'conference:0.0733', 'meant:0.0635', 'round:0.0509', 'video:0.0485', 'difficult:0.0369', 'add:0.0271', 'restore:-0.011']+titles_keywords+['kremlin:0.4254', 'peace:0.3504', 'continue:0.2612', 'talks:0.2512', 'says:0.0347']"
+        ]
+    ],
+    "IRN+RUS+46":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/tasnimnews.com/Russia Welcomes Irans Plan to Host 33 South Caucasus Format Meeting.txt+eventbasecode46+eventcode46+avgtone0.4941860465116279+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['caucasus:0.4598', 'ukraine:0.439', 'irans:0.3727', 'nato:0.3615', 'diplomatic:0.3562', 'peaceful:0.2696', 'meeting:0.2685', 'lavrov:0.2511', 'invade:0.2419', 'concern:0.2145', 'hossein:0.204', 'agreement:0.1978', 'warn:0.1837', 'imminent:0.1712', 'crisis:0.1629', 'regional:0.1578', 'amirabdollahian:0.1559', 'synergy:0.1399', 'interference:0.1263', 'counterpart:0.1245', 'point:0.1242', 'obligation:0.118', 'include:0.1122', 'student:0.0924', 'current:0.0922', 'month:0.0826', 'follow:0.082', 'format:0.0724', 'welcome:0.0668', 'review:0.0484']+titles_keywords+['caucasus:0.4619', 'irans:0.3093', 'meeting:0.2367', 'welcomes:0.0835', '33:0.0552']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/tasnimnews.com/Turkey Russia to Ditch Dollar in Trade.txt+eventbasecode46+eventcode46+avgtone0.4858757062146893+goldsteinscale0.85+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.01644736842105263+news_keywords+['rubles:0.416', 'putin:0.404', 'ukraine:0.3632', 'ankara:0.3489', 'dollar:0.2497', 'turkstream:0.2462', 'eu:0.2034', 'import:0.2007', 'sochi:0.1979', 'supply:0.1966', 'transaction:0.1912', 'rt:0.1682', 'truce:0.1611', 'pipeline:0.151', 'ditch:0.1493', 'talk:0.1468', 'instead:0.1455', 'report:0.122', 'push:0.1131', 'roadmap:0.1037', 'range:0.1001', 'month:0.087', 'bilateral:0.0789', 'otherissues:0.0773', 'protect:0.0754', 'grain:0.0731', 'reliable:0.0579', 'grateful:0.0557', 'unprecedented:0.0313', 'hard:-0.0038']+titles_keywords+['turkey:0.414', 'russia:0.3736', 'dollar:0.2638', 'ditch:0.2579', 'trade:0.2487']"
+        ]
+    ]
+}

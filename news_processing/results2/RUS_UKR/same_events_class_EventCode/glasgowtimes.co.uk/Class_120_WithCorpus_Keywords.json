@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/Refinery workers refuse to deal with ship carrying Russian oil.txt+eventbasecode120+eventcode120+avgtone0.4835294117647059+goldsteinscale0.3+nummentions0.3468795355587808+numarticles0.34735315445975345+numsources0.3026315789473684+news_keywords+['ukraine:0.4381', 'essar:0.3704', 'tanker:0.3545', 'oil:0.3215', 'government:0.2781', 'sanction:0.2674', 'supply:0.2674', 'flag:0.2498', 'transport:0.2485', 'humanitarian:0.237', 'concerned:0.2322', 'sail:0.2261', 'inform:0.2232', 'port:0.2188', 'issue:0.213', 'invasion:0.2119', 'statutory:0.2068', 'remain:0.2047', 'dependence:0.1867', 'general:0.1839', 'workers:0.1757', 'stanlow:0.1753', 'alternative:0.1641', 'turn:0.1605', 'reduce:0.159', 'subsequent:0.1431', 'apply:0.1353', 'unlike:0.1101', 'fully:0.0964', 'small:0.0663']+titles_keywords+['refinery:0.3538', 'refuse:0.3116', 'russian:0.258', 'workers:0.2522', 'ship:0.1774']"
+        ]
+    ],
+    "RUS+WST+120":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/Volodymyr Zelensky calls for worldwide demonstrations on Thursday.txt+eventbasecode120+eventcode120+avgtone0.5076335877862596+goldsteinscale0.3+nummentions0.4695210449927431+numarticles0.4699057287889775+numsources0.41776315789473684+news_keywords+['ukraine:0.4517', 'zelensky:0.4069', 'nato:0.3847', 'volodymyr:0.2873', 'invasion:0.2841', 'meeting:0.2402', 'president:0.2341', 'borisjohnson:0.2309', 'peace:0.2258', 'tomorrow:0.209', 'attention:0.1997', 'flee:0.1994', 'term:0.1912', 'begin:0.1835', 'month:0.1822', 'come:0.1779', 'heard:0.1757', 'hour:0.1738', 'friend:0.1641', 'act:0.1623', 'street:0.1584', 'pre:0.1519', 'emotional:0.149', 'make:0.141', 'exactly:0.1279', 'link:0.1215', 'fully:0.1023', 'monitor:0.094', 'received:0.0841', 'tax:0.0784']+titles_keywords+['zelensky:0.5035', 'demonstrations:0.2833', 'volodymyr:0.2551', 'worldwide:0.1807', 'thursday:0.1626']"
+        ]
+    ]
+}

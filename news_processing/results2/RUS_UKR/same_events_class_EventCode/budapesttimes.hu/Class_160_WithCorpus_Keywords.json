@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+160":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/budapesttimes.hu/Hungary to suspend broadcasting Russia Today Sputnik.txt+eventbasecode160+eventcode160+avgtone0.47701149425287354+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['broadcast:0.4605', 'hungary:0.4261', 'russia:0.4163', 'russias:0.371', 'television:0.3658', 'channel:0.3495', 'sputnik:0.305', 'eu:0.2953', 'suspend:0.2524', 'disinformation:0.2511', 'compliance:0.244', 'monitor:0.1912', 'warn:0.1807', 'war:0.1715', 'statement:0.1309', 'outlet:0.1301', 'today:0.1259', 'campaign:0.115', 'council:0.1119', 'state:0.108', 'cite:0.108', 'provider:0.0969', 'uniformly:0.0953', 'say:0.0933', 'approve:0.0876', 'offer:0.0723', 'online:0.0558', 'nmhh:0.0522', 'measure:0.0359', 'constantly:0.0159']+titles_keywords+['sputnik:0.4042', 'hungary:0.3276', 'broadcasting:0.2437', 'suspend:0.2389', 'today:0.1701']"
+        ]
+    ],
+    "RUS+HUN+160":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/budapesttimes.hu/Wizz Air suspends Russia flights.txt+eventbasecode160+eventcode160+avgtone0.4878048780487804+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['moldovan:0.3891', 'chisinau:0.3489', 'romanias:0.3474', 'airport:0.3399', 'flights:0.3304', 'russia:0.3058', 'wizz:0.2971', 'iasi:0.2601', 'flight:0.246', 'suspend:0.2223', 'rerouted:0.184', 'schedule:0.1776', 'international:0.1765', 'air:0.1757', 'march:0.1509', 'capital:0.1416']+titles_keywords+['russia:0.379', 'wizz:0.361', 'flights:0.326', 'suspends:0.2975', 'air:0.2452']"
+        ]
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "BLR+RUS+10":[
+        []
+    ],
+    "RUS+UKR+10":[
+        [],
+        [],
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/sfgate.com/My Cousins Are Killing One Another War in Ukraine Splits Mixed Families.txt+eventbasecode10+eventcode10+avgtone0.48270270270270266+goldsteinscale0.5+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukrainians:0.4383', 'war:0.3972', 'cousin:0.386', 'putin:0.3613', 'diasporas:0.3558', 'families:0.3478', 'intertwine:0.3177', 'border:0.3065', 'language:0.3042', 'correspondent:0.2949', 'read:0.2947', 'mixed:0.2797', 'know:0.2596', 'petersburg:0.2577', 'flee:0.257', 'justification:0.256', 'feel:0.2512', 'scared:0.2501', 'repercussion:0.2126', 'emphasize:0.2092', 'unfold:0.2072', 'make:0.2012', 'cabbage:0.1993', 'source:0.1948', 'opposite:0.1927', 'distant:0.1879', 'choose:0.1857', 'like:0.1841', 'splits:0.1755', 'lullaby:0.1336']+titles_keywords+['war:0.4211', 'ukraine:0.4084', 'cousins:0.4071', 'families:0.3833', 'mixed:0.2519']"
+        ]
+    ],
+    "UKR+CYP+10":[
+        []
+    ],
+    "UKR+RUS+10":[
+        []
+    ],
+    "WST+RUS+10":[
+        []
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/iheart.com/Putin Macron in the MileLong Table Club.txt+eventbasecode46+eventcode46+avgtone0.4875+goldsteinscale0.85+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.5228', 'ukraine:0.428', 'table:0.4199', 'milelong:0.4163', 'macron:0.4058', 'vladimir:0.4047', 'moscow:0.3907', 'mile:0.3574', 'long:0.3216', 'border:0.3184', 'peaceful:0.3011', 'word:0.2825', 'travel:0.2503', 'near:0.2462', 'discus:0.2459', 'seat:0.2376', 'crisis:0.2326', 'cautious:0.2178', 'pair:0.2116', 'precaution:0.1814', 'regard:0.1712', 'make:0.1652', 'look:0.1636', 'resolution:0.1635', 'emmanuel:0.1614', 'covid:0.1566', 'exchange:0.1521', 'club:0.1315', 'overly:0.1225', 'dang:0.072']+titles_keywords+['macron:0.6289', 'putin:0.5681', 'table:0.454', 'club:0.3243', 'milelong:0.3016']"
+        ],
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/iheart.com/Ukraine President We Are Defending Our Country Alone.txt+eventbasecode46+eventcode46+avgtone0.490066225165563+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.482', 'putin:0.4321', 'invasion:0.2736', 'president:0.2586', 'defend:0.2543', 'countryman:0.209', 'come:0.164', 'chinese:0.1631', 'phone:0.1355', 'world:0.1354', 'powerful:0.1344', 'counterpart:0.1291', 'report:0.1264', 'support:0.1258', 'look:0.1163', 'distance:0.1147', 'video:0.1141', 'negotiate:0.1114', 'ongoing:0.1088', 'end:0.1077', 'xi:0.1006', 'message:0.0994', 'state:0.0965', 'people:0.0924', 'like:0.0845', 'new:0.0842', 'sit:0.082', 'today:0.0725', 'high:0.0623', 'accord:0.0327']+titles_keywords+['ukraine:0.5527', 'president:0.414', 'defending:0.3199', 'country:0.281']"
+        ]
+    ]
+}

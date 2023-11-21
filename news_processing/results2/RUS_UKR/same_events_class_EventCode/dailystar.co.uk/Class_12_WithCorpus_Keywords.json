@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Cold War nuclear bunker in mint condition on sale in UK for 25k but theres.txt+eventbasecode12+eventcode12+avgtone0.49156118143459915+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['bunker:0.5655', 'nuclear:0.4028', 'insulation:0.3512', 'construct:0.3274', 'underground:0.3269', 'demolish:0.2968', 'brick:0.2765', 'accommodation:0.2574', 'property:0.2422', 'locate:0.2415', 'hide:0.2165', 'uk:0.2063', 'flooding:0.2058', 'vladimir:0.1885', 'listing:0.1795', 'newsletters:0.1793', 'survive:0.1734', 'benefit:0.1609', 'shaft:0.1598', 'defence:0.1515', 'unspoilt:0.1467', 'concern:0.1453', 'climb:0.1287', 'metre:0.1243', 'include:0.1222', 'example:0.1221', 'plot:0.1175', 'sign:0.1137', 'sure:0.09', 'week:0.0587']+titles_keywords+['bunker:0.4264', 'nuclear:0.4082', '25k:0.348', 'uk:0.2494', 'condition:0.2277']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220725+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Vladimir Putins best Top Gun pilots wiped out after car hit in deadly missile attack.txt+eventbasecode12+eventcode12+avgtone0.47532467532467537+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.5384', 'russian:0.4344', 'missile:0.3925', 'colonel:0.3479', 'leshchenko:0.3379', 'troop:0.3076', 'pilot:0.2951', 'volgograd:0.2947', 'lt:0.2696', 'operation:0.2675', 'invade:0.2668', 'training:0.2435', 'alexey:0.2351', 'news:0.2323', 'report:0.2207', 'fight:0.2045', 'know:0.2036', 'motorcade:0.192', 'order:0.1892', 'himars:0.1862', 'best:0.1809', 'courage:0.1796', 'use:0.1714', 'fellow:0.1571', 'potyomins:0.1503', 'posthumously:0.1467', 'tomorrow:0.1179', 'ready:0.0999', 'state:0.094', 'toll:0.0891']+titles_keywords+['putins:0.4944', 'missile:0.3793', 'car:0.2547', 'deadly:0.2475', 'best:0.1691']"
+        ]
+    ]
+}

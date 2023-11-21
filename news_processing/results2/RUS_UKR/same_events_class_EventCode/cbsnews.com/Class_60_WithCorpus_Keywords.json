@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+60":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Russias credit rating slashed to junk same as Angola and Nicaragua.txt+eventbasecode60+eventcode60+avgtone0.4626262626262626+goldsteinscale0.8+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.003289473684210526+news_keywords+['russia:0.4709', 'geopolitical:0.3335', 'sanction:0.3326', 'creditworthiness:0.2491', 'block:0.2343', 'uninvestable:0.224', 'undermine:0.215', 'stability:0.2046', 'risky:0.2039', 'import:0.1853', 'implication:0.1764', 'emerging:0.1668', 'fitch:0.1658', 'global:0.1634', 'stock:0.1617', 'msci:0.1507', 'sector:0.1493', 'transaction:0.1487', 'junk:0.141', 'equivalent:0.1297', 'downgrade:0.1296', 'indexes:0.1261', 'macro:0.116', 'reserve:0.1136', 'end:0.1111', 'baa:0.0921', 'thursday:0.0842', 'moody:0.0826', 'accord:0.0618', 'calculate:0.0601']+titles_keywords+['russias:0.4601', 'nicaragua:0.4103', 'junk:0.2398', 'credit:0.2334', 'slashed:0.18']"
+        ]
+    ],
+    "RUS+UKR+60":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/cbsnews.com/Russian soldier sentenced to life in prison in Ukraines first war crimes trial since invasion.txt+eventbasecode60+eventcode60+avgtone0.45121951219512185+goldsteinscale0.8+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.006578947368421052+news_keywords+['ukraine:0.4471', 'kremlin:0.4199', 'vladimir:0.3646', 'victim:0.3483', 'war:0.3362', 'shelipov:0.3077', 'invasion:0.3007', 'soldier:0.264', 'convict:0.252', 'shooting:0.2402', 'confront:0.2171', 'report:0.2149', 'protect:0.2089', 'justification:0.2055', 'shishimarin:0.2007', 'concerned:0.1703', 'news:0.1692', 'continue:0.1577', 'order:0.1523', 'sorry:0.1442', 'feel:0.1412', 'kateryna:0.1385', 'search:0.1307', 'refuse:0.1245', 'course:0.121', 'column:0.117', 'ground:0.1', 'february:0.0869', 'instantly:0.0838', 'did:0.0501']+titles_keywords+['sentenced:0.3384', 'russian:0.3334', 'soldier:0.2547', 'ukraines:0.2402', 'life:0.2257']"
+        ]
+    ]
+}

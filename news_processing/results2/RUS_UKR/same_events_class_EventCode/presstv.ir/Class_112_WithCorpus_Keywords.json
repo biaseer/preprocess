@@ -1,0 +1,19 @@
+{
+    "EUR+UKR+112":[
+        []
+    ],
+    "RUS+UKR+112":[
+        [
+            "20211101+../news_crawling/RUS_UKR/p_articles/presstv.ir/Ukraine aims to drag Russia into conflict through Donbass provocations foreign minister Lavrov.txt+eventbasecode112+eventcode112+avgtone0.45131578947368406+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.5041', 'ceasefire:0.4091', 'donetsk:0.3856', 'separatistforces:0.3838', 'conflict:0.3656', 'ukrainiantroops:0.3628', 'moscowaccusing:0.3441', 'destabilizingthe:0.3395', 'escalation:0.3089', 'government:0.2758', 'unification:0.2731', 'involve:0.2501', 'drone:0.2374', 'ethnic:0.2079', 'donbass:0.2008', 'armed:0.1937', 'begin:0.1923', 'east:0.1848', 'accuse:0.1799', 'turn:0.1775', 'comment:0.1615', 'follow:0.1614', 'ally:0.147', 'state:0.1421', 'replace:0.1377', 'television:0.1248', 'known:0.1029', 'mainly:0.0869', 'backdrop:0.0783', 'deal:0.0547']+titles_keywords+['lavrov:0.4278', 'ukraine:0.3593', 'provocations:0.2953', 'donbass:0.285', 'drag:0.1518']"
+        ],
+        [],
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/presstv.ir/RussiaUkraine peace talks stall as war enters protracted phase.txt+eventbasecode112+eventcode112+avgtone0.4902912621359223+goldsteinscale0.4+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['negotiation:0.4259', 'crimea:0.3959', 'war:0.3781', 'nato:0.3707', 'putin:0.3416', 'coordinate:0.2326', 'announcement:0.2117', 'achieve:0.2064', 'soon:0.2057', 'armed:0.2', 'adviser:0.1997', 'turn:0.1984', 'lavrov:0.1885', 'long:0.1851', 'ready:0.1837', 'sidestrading:0.1739', 'forukraine:0.1726', 'enters:0.1713', 'term:0.1704', 'corridor:0.1704', 'order:0.1697', 'end:0.1667', 'ignore:0.1661', 'hold:0.1649', 'emphasize:0.1444', 'state:0.1288', 'accuse:0.1126', 'send:0.1098', 'possible:0.1068', 'array:0.0693']+titles_keywords+['russiaukraine:0.3871', 'peace:0.3484', 'talks:0.2431', 'protracted:0.2399', 'stall:0.1444']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/presstv.ir/Press TV in Mariupol Russia says Ukraine blew up theater to frame Moscow.txt+eventbasecode112+eventcode112+avgtone0.4682779456193354+goldsteinscale0.4+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['kiev:0.4653', 'demilitarize:0.3783', 'putin:0.3696', 'azov:0.3646', 'battalion:0.3383', 'nato:0.3301', 'war:0.3278', 'operation:0.3274', 'genocide:0.326', 'correspondent:0.3024', 'rubble:0.2605', 'territory:0.2578', 'theater:0.2532', 'steelworks:0.2181', 'leave:0.2093', 'refer:0.1838', 'turn:0.1747', 'goal:0.1684', 'blame:0.164', 'ordering:0.1603', 'western:0.157', 'blown:0.1548', 'right:0.1528', 'february:0.1346', 'state:0.1288', 'eventually:0.1268', 'new:0.1096', 'dogmatic:0.0946', 'far:0.0894', 'added:0.0525']+titles_keywords+['moscow:0.4177', 'theater:0.2854', 'press:0.1777', 'blew:0.1511', 'mariupol:0.1453']"
+        ]
+    ]
+}

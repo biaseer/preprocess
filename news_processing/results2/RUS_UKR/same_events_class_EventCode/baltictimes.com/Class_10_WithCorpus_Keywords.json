@@ -1,0 +1,22 @@
+{
+    "EST+RUS+10":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/baltictimes.com/Social affairs ministers of Baltics encourage provision of humanitarian aid to Ukraine.txt+eventbasecode10+eventcode10+avgtone0.5371287128712872+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.5106', 'baltics:0.4808', 'estonia:0.4424', 'ngos:0.3947', 'humanitarian:0.3796', 'invasion:0.2992', 'social:0.2584', 'assistance:0.249', 'provision:0.2474', 'foodbanking:0.2386', 'democratic:0.2243', 'union:0.2132', 'minister:0.1826', 'affair:0.1723', 'accept:0.1703', 'encourage:0.1669', 'children:0.1524', 'condemn:0.1522', 'cross:0.1459', 'order:0.1394', 'state:0.1392', 'power:0.1314', 'statement:0.124', 'red:0.1235', 'resource:0.1222', 'global:0.1221', 'say:0.1155', 'hour:0.069', 'strongly:0.0642', 'underline:0.0545']+titles_keywords+['baltics:0.4413', 'humanitarian:0.3783', 'ministers:0.277', 'affairs:0.1729', 'encourage:0.155']"
+        ]
+    ],
+    "LVA+RUS+10":[
+        [
+            "20220725+../news_crawling/RUS_UKR/p_articles/baltictimes.com/Both Ukraine and Russia are ready to prolong the hostilities in Ukraine expert.txt+eventbasecode10+eventcode10+avgtone0.47714285714285715+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4412', 'war:0.3659', 'vargulis:0.2176', 'prolong:0.2077', 'hostility:0.184', 'ready:0.1684', 'early:0.1678', 'end:0.1407', 'month:0.1394', 'middle:0.1318', 'near:0.1187', 'event:0.1086', 'want:0.1036', 'tv:0.0972', 'emphasize:0.0819', 'stag:0.0807', 'sanction:0.0761', 'hop:0.0758', 'western:0.0751', 'look:0.0741', 'characteristic:0.069', 'like:0.0662', 'currently:0.0646', 'researcher:0.0627', 'believe:0.056', 'reason:0.0548', 'likely:0.0461', 'sweeping:0.0302', 'martins:0.0195', 'remembered:0.0006']+titles_keywords+['ukraine:0.3678', 'hostilities:0.3225', 'prolong:0.2552', 'ready:0.1463', 'expert:0.0917']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/baltictimes.com/Russian caucus of Estonias SDE condemns Russias war against Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4662004662004663+goldsteinscale0.5+nummentions0.04898403483309144+numarticles0.049673676577229875+numsources0.13486842105263158+news_keywords+['ukraine:0.4624', 'putin:0.4323', 'war:0.334', 'estonian:0.314', 'oppose:0.3065', 'justify:0.2989', 'democratic:0.2848', 'resolve:0.2336', 'speech:0.2265', 'authority:0.1951', 'consequence:0.194', 'remain:0.1867', 'irresponsible:0.1802', 'state:0.1795', 'distress:0.173', 'begin:0.1709', 'allegations:0.1696', 'issue:0.1624', 'equation:0.129', 'general:0.1233', 'suit:0.1223', 'include:0.1188', 'like:0.1141', 'assembly:0.1091', 'klaus:0.1089', 'thank:0.1037', 'existence:0.0924', 'way:0.0905', 'sde:0.0888', 'far:0.0841']+titles_keywords+['estonias:0.4515', 'sde:0.3332', 'caucus:0.2308', 'condemns:0.2068', 'war:0.1973']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/baltictimes.com/Conference to discuss future of Eastern European Eurasian studies.txt+eventbasecode10+eventcode10+avgtone0.4941176470588235+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4719', 'eurasia:0.4525', 'governance:0.3726', 'viacheslav:0.3371', 'gendering:0.329', 'estonian:0.297', 'illiberalism:0.2871', 'societal:0.2858', 'tartu:0.2812', 'war:0.2471', 'documentary:0.2435', 'debate:0.2277', 'topical:0.2135', 'presentation:0.2122', 'identity:0.2062', 'event:0.2011', 'regional:0.196', 'translation:0.189', 'speak:0.1803', 'future:0.1759', 'general:0.1668', 'issue:0.1664', 'peto:0.1663', 'town:0.1662', 'study:0.1355', 'professor:0.1348', 'ceurus:0.1194', 'center:0.104', 'separate:0.1009', 'tales:0.0802']+titles_keywords+['eurasian:0.5214', 'conference:0.3572', 'studies:0.2131', 'future:0.1925', 'discuss:0.1694']"
+        ]
+    ]
+}

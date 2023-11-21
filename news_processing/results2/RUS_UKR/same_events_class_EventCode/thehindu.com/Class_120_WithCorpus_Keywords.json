@@ -1,0 +1,17 @@
+{
+    "RUS+BGR+120":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/thehindu.com/EU unveils 300 billion plan to reduce reliance on Russia.txt+eventbasecode120+eventcode120+avgtone0.49473684210526314+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.3468', 'repowereu:0.3314', 'fuel:0.2775', 'reduce:0.2722', 'supply:0.2537', 'oppose:0.2391', 'reliance:0.2197', 'diversify:0.2134', 'bloc:0.2087', 'policy:0.2043', 'union:0.201', 'crisis:0.1885', 'saving:0.181', 'import:0.1781', 'intend:0.1752', 'pronged:0.17', 'landlocked:0.1699', 'switch:0.1637', 'green:0.1419', 'president:0.1357', 'stop:0.1349', 'billion:0.1337', 'deal:0.1301', 'link:0.1209', 'come:0.1166', 'reconsider:0.113', 'cost:0.1075', 'set:0.0993', 'von:0.0987', 'effect:0.0939']+titles_keywords+['russia:0.3599', 'plan:0.225', 'reduce:0.1919', '300:0.1609', 'reliance:0.1178']"
+        ]
+    ],
+    "RUS+UKR+120":[
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/thehindu.com/On Orthodox Easter Zelenskyy vows wickedness will not destroy Ukraine.txt+eventbasecode120+eventcode120+avgtone0.4814049586776859+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['easter:0.4722', 'orthodox:0.404', 'kyiv:0.4005', 'truce:0.3357', 'zelenskyy:0.3352', 'invasion:0.31', 'mykhailo:0.282', 'kill:0.2688', 'celebration:0.2688', 'besiege:0.2578', 'operation:0.2424', 'humanitarian:0.2246', 'missile:0.2199', 'overcome:0.2143', 'telegram:0.207', 'know:0.205', 'happy:0.1941', 'month:0.1933', 'period:0.1915', 'believe:0.1848', 'president:0.1834', 'outfit:0.1795', 'begin:0.1767', 'boy:0.1756', 'people:0.1709', 'hole:0.1594', 'include:0.1437', 'southern:0.1301', 'sophia:0.1089', 'possible:0.107']+titles_keywords+['zelenskyy:0.5247', 'orthodox:0.4401', 'easter:0.3301', 'wickedness:0.2842', 'destroy:0.2285']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/thehindu.com/Ukraine rejects Russian demand for surrender in Mariupol.txt+eventbasecode120+eventcode120+avgtone0.46661031276415893+goldsteinscale0.3+nummentions0.026124818577648767+numarticles0.026831036983321246+numsources0.02631578947368421+news_keywords+['kyiv:0.539', 'pravda:0.3913', 'chernobyl:0.3843', 'putins:0.3595', 'decommission:0.3136', 'azov:0.2927', 'news:0.2514', 'attack:0.2465', 'capitulation:0.2463', 'survive:0.2408', 'report:0.2229', 'know:0.2162', 'worrying:0.2078', 'humanitarian:0.1955', 'chaotic:0.1871', 'neutral:0.1865', 'curfew:0.1851', 'podil:0.1706', 'described:0.1645', 'extend:0.1641', 'corridor:0.1617', 'cluster:0.1613', 'weather:0.1571', 'nearly:0.1553', 'mariupol:0.1513', 'house:0.1448', 'major:0.1394', 'kilometer:0.1363', 'send:0.106', 'population:0.0947']+titles_keywords+['surrender:0.4206', 'ukraine:0.3945', 'mariupol:0.2589', 'rejects:0.1848', 'demand:0.0172']"
+        ]
+    ]
+}

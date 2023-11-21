@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+120":[
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/sana.sy/Accusing Moscow of aggressive intentions unsubstantiated Matvienko affirms.txt+eventbasecode120+eventcode120+avgtone0.446524064171123+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4062', 'vladimir:0.3704', 'russias:0.3614', 'invasion:0.3577', 'parlamintskaya:0.3513', 'chizhov:0.3472', 'matvienko:0.3202', 'allegation:0.3134', 'escalation:0.2469', 'aggressive:0.2449', 'unsubstantiated:0.2131', 'rumor:0.192', 'concern:0.1847', 'come:0.1833', 'federation:0.1699', 'false:0.1587', 'affirm:0.1494', 'newspaper:0.1434', 'interview:0.1353', 'hide:0.1275', 'direct:0.1163', 'western:0.115', 'note:0.1085', 'people:0.1011', 'listen:0.0944', 'representative:0.0832', 'recent:0.0721', 'ground:0.0712', 'day:0.0609', 'sana:0.0349']+titles_keywords+['matvienko:0.473', 'moscow:0.4302', 'aggressive:0.3511', 'accusing:0.3111', 'unsubstantiated:0.2321']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220707+../news_crawling/RUS_UKR/p_articles/sana.sy/Russias Gazprom says it pumps natural gas to Europe via Ukraine.txt+eventbasecode120+eventcode120+avgtone0.50390625+goldsteinscale0.3+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4562', 'gas:0.4062', 'gazprom:0.3549', 'pump:0.3323', 'russias:0.3214', 'moscow:0.2943', 'europe:0.2801', 'sokhranovka:0.2374', 'supply:0.2151', 'novosti:0.2098', 'station:0.1773', 'natural:0.1631', 'meter:0.1209', 'receive:0.118', 'border:0.1179', 'volume:0.1122', 'request:0.1069', 'refuse:0.1014', 'news:0.096', 'cubic:0.0931', 'cross:0.0882', 'stop:0.071', 'point:0.0704', 'confirm:0.0518', 'agency:0.0483', 'today:0.0442', 'say:0.0368', 'ria:0.0347', 'quote:0.03', 'million:0.0229']+titles_keywords+['ukraine:0.4691', 'gazprom:0.4586', 'gas:0.3443', 'natural:0.1792', 'says:0.0184']"
+        ]
+    ]
+}

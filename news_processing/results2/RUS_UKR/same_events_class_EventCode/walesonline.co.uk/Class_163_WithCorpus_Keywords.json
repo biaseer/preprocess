@@ -1,0 +1,17 @@
+{
+    "CAN+RUS+163":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Tesco joins supermarket boycott of Russialinked products including vodka.txt+eventbasecode163+eventcode163+avgtone0.49177877428998507+goldsteinscale0.1+nummentions0.03193033381712627+numarticles0.032632342277012324+numsources0.02631578947368421+news_keywords+['ukraine:0.5002', 'vodka:0.4253', 'russialinked:0.3941', 'boycott:0.3717', 'sainsburys:0.3211', 'britains:0.305', 'invade:0.2838', 'business:0.2211', 'withdrawn:0.1979', 'report:0.1927', 'chicken:0.1918', 'good:0.1877', 'operative:0.1818', 'make:0.1816', 'fear:0.1697', 'list:0.1681', 'cross:0.1622', 'rename:0.1598', 'point:0.147', 'soon:0.1437', 'word:0.1398', 'karpayskiye:0.1382', 'main:0.1381', 'range:0.1346', 'wholly:0.1259', 'confirm:0.125', 'importing:0.1243', 'big:0.1181', 'weve:0.1117', 'price:0.0913']+titles_keywords+['vodka:0.4307', 'tesco:0.3796', 'boycott:0.3439', 'russialinked:0.2787', 'products:0.2044']"
+        ]
+    ],
+    "GBR+RUS+163":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Ukraine lunchtime briefing Russian troops defect while Vladimir Putin faces trouble at home.txt+eventbasecode163+eventcode163+avgtone0.473202614379085+goldsteinscale0.1+nummentions0.027939042089985485+numarticles0.028281363306744016+numsources0.04276315789473684+news_keywords+['ukraine:0.5248', 'comrade:0.4604', 'putins:0.4217', 'nato:0.4035', 'war:0.3412', 'troop:0.3206', 'regime:0.31', 'disinformation:0.2647', 'news:0.256', 'colonel:0.2487', 'depart:0.2392', 'table:0.2288', 'outcome:0.2271', 'plugotarenko:0.2196', 'brilev:0.2158', 'report:0.2135', 'rt:0.2046', 'switch:0.1955', 'industry:0.1953', 'brief:0.1815', 'guidance:0.1654', 'soon:0.1646', 'plummet:0.1616', 'want:0.1579', 'forces:0.1576', 'subdivision:0.1357', 'altogether:0.1173', 'unscathed:0.1149', 'hypothetical:0.1146', 'hundreds:0.1144']+titles_keywords+['putin:0.4859', 'briefing:0.3455', 'troops:0.265', 'trouble:0.2018', 'home:0.1491']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Ukraine latest PM calls on world leaders to act China delivers warning to US and.txt+eventbasecode163+eventcode163+avgtone0.47071129707112974+goldsteinscale0.1+nummentions0.030478955007256895+numarticles0.03118201595358956+numsources0.03289473684210526+news_keywords+['putin:0.4814', 'ukraine:0.457', 'natos:0.4295', 'invasion:0.3006', 'disrupt:0.2955', 'eastward:0.2941', 'conflict:0.2823', 'ahead:0.2689', 'warn:0.2589', 'sanction:0.2573', 'telegraph:0.257', 'sovereignty:0.2569', 'rhetoric:0.2431', 'executive:0.2404', 'oppose:0.2272', 'unprovoked:0.2212', 'plan:0.2174', 'implement:0.2083', 'visa:0.2025', 'act:0.1951', 'order:0.1877', 'goalpost:0.1867', 'accept:0.1834', 'world:0.1799', 'rewrite:0.1746', 'immediate:0.1699', 'counterpart:0.1609', 'arm:0.1306', 'swathe:0.1201', 'longer:0.1153']+titles_keywords+['ukraine:0.4182', 'warning:0.2016', 'world:0.1386', 'calls:0.066', 'latest:0.0427']"
+        ]
+    ]
+}

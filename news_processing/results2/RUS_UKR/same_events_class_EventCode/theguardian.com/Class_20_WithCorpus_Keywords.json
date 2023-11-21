@@ -1,0 +1,30 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220201+../news_crawling/RUS_UKR/p_articles/theguardian.com/Vladimir Putin told journalists he was unsatisfied with the US response to Russian demands that.txt+eventbasecode20+eventcode20+avgtone0.4823815309842041+goldsteinscale0.65+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['nato:0.4687', 'putin:0.4303', 'ukraines:0.3953', 'negotiation:0.3028', 'kochetkovepavladimir:0.2862', 'arrangement:0.2329', 'escalate:0.2134', 'invasion:0.1966', 'rail:0.1717', 'approve:0.1693', 'continue:0.165', 'prepare:0.1645', 'instead:0.1641', 'rhetoric:0.1632', 'pledge:0.1614', 'news:0.1602', 'remark:0.1566', 'unsatisfied:0.1536', 'step:0.145', 'know:0.1308', 'exercise:0.1304', 'peninsula:0.12', 'immediate:0.1144', 'draw:0.1115', 'make:0.109', 'arm:0.1088', 'week:0.0824', 'orbn:0.0725', 'necessarily:0.0544', 'doesnt:0.0396']+titles_keywords+['putin:0.532', 'nato:0.4122', 'kochetkovepa:0.301', 'unsatisfied:0.2817', 'demands:0.1851']"
+        ],
+        [],
+        [],
+        [],
+        []
+    ],
+    "RUS+USA+20":[
+        [
+            "20211208+../news_crawling/RUS_UKR/p_articles/theguardian.com/The EU leaders will urge Vladimir Putin to deescalate tensions with Russias neighbour Photograph Mikhail.txt+eventbasecode20+eventcode20+avgtone0.474609375+goldsteinscale0.65+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nato:0.43', 'ukraines:0.4018', 'kremlin:0.3675', 'invade:0.3375', 'mikhail:0.3042', 'escalate:0.2718', 'diplomat:0.2693', 'aggression:0.2326', 'prepare:0.2202', 'border:0.2136', 'president:0.202', 'communique:0.1825', 'warn:0.1813', 'rhetoric:0.1802', 'tension:0.179', 'want:0.1766', 'consequence:0.1752', 'weaken:0.1606', 'pledge:0.1441', 'drill:0.1434', 'organisation:0.1415', 'near:0.1324', 'thursday:0.1311', 'formal:0.1264', 'images:0.1141', 'good:0.1136', 'issue:0.1051', 'determine:0.0923', 'state:0.0784', 'set:0.0739']+titles_keywords+['putin:0.4478', 'tensions:0.2787', 'eu:0.2465', 'imagesthe:0.0967', 'deescalate:0.0766']"
+        ],
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/theguardian.com/A national flag flown outside the US Embassy on Novinsky Boulevard in Moscow Photograph Vladimir.txt+eventbasecode20+eventcode20+avgtone0.46319018404907975+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['moscow:0.5261', 'ukraine:0.4141', 'russian:0.3903', 'novinsky:0.3695', 'embassy:0.3685', 'zakharova:0.3', 'flag:0.2973', 'evacuation:0.2571', 'invade:0.2302', 'threat:0.1982', 'gerdotass:0.1853', 'border:0.1774', 'boulevard:0.1429', 'national:0.1331', 'outside:0.124', 'prepare:0.1224', 'photograph:0.1115', 'railway:0.1059', 'sunday:0.0891', 'assistance:0.0848', 'fly:0.0728', 'cite:0.059', 'personal:0.0555', 'say:0.0463', 'st:0.0436', 'heighten:0.0316', 'possible:0.0234', 'review:0.0228', 'major:0.0135', 'spokeswoman:0.0121']+titles_keywords+['moscow:0.4838', 'embassy:0.4099', 'flag:0.3406', 'national:0.2587', 'outside:0.1779']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [],
+        [
+            "20220615+../news_crawling/RUS_UKR/p_articles/theguardian.com/President Xi Jinping of China assured Vladimir Putin of support for Moscows sovereignty and security.txt+eventbasecode20+eventcode20+avgtone0.4794007490636705+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.476', 'russias:0.4164', 'kyiv:0.3554', 'diplomatic:0.3338', 'war:0.2828', 'economy:0.2735', 'sovereignty:0.2565', 'beijings:0.2528', 'propaganda:0.229', 'jinping:0.2164', 'concern:0.2016', 'sanction:0.1991', 'alignment:0.1819', 'northern:0.168', 'continue:0.1582', 'mutual:0.1566', 'invest:0.1453', 'complicate:0.1335', 'retort:0.1301', 'recent:0.1288', 'th:0.1246', 'photograph:0.12', 'say:0.1147', 'cold:0.111', 'data:0.1073', 'step:0.1029', 'arm:0.0991', 'sphere:0.0956', 'echo:0.086', 'major:0.0831']+titles_keywords+['putin:0.5084', 'china:0.263', 'xi:0.2291', 'jinping:0.2121', 'assured:0.198']"
+        ]
+    ],
+    "USA+RUS+20":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/theguardian.com/The damaged administration building in Kharkiv Photograph Vyacheslav MadiyevskyyReutersThe damaged administration building in Kharkiv Photograph.txt+eventbasecode20+eventcode20+avgtone0.47319587628865983+goldsteinscale0.65+nummentions0.03011611030478955+numarticles0.030819434372733864+numsources0.04276315789473684+news_keywords+['kyiv:0.5246', 'kremlin:0.4345', 'ceasefire:0.3727', 'natos:0.3319', 'invasion:0.292', 'lukashenko:0.29', 'madiyevskyyreuters:0.2844', 'military:0.2631', 'emergency:0.2376', 'missile:0.235', 'damage:0.2285', 'vashem:0.2142', 'news:0.2134', 'peril:0.2028', 'prepare:0.196', 'emotional:0.173', 'column:0.1603', 'forget:0.152', 'stay:0.1508', 'increase:0.1454', 'exactly:0.1443', 'ohchr:0.1424', 'hour:0.1378', 'hundreds:0.1305', 'accuse:0.1254', 'observer:0.1242', 'yad:0.1216', 'major:0.1154', 'end:0.1152', 'sony:0.068']+titles_keywords+['kharkiv:0.4329', 'administration:0.4003', 'building:0.3401', 'damaged:0.3158', 'photograph:0.1652']"
+        ]
+    ]
+}

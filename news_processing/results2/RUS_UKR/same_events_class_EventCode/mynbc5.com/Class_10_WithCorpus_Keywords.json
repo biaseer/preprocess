@@ -1,0 +1,12 @@
+{
+    "USA+RUS+10":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/mynbc5.com/President Biden believes Russia will invade Ukraine some Burlingtonians say the US should stay out.txt+eventbasecode10+eventcode10+avgtone0.4774305555555556+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.4695', 'invade:0.4314', 'putin:0.4198', 'kiev:0.3764', 'readiness:0.3321', 'gather:0.3245', 'oppose:0.3239', 'conflict:0.3177', 'coalition:0.3165', 'biden:0.2876', 'uninformed:0.277', 'plan:0.2758', 'socialist:0.2748', 'announce:0.2742', 'nation:0.2616', 'burlingtonians:0.2573', 'authority:0.2543', 'know:0.2535', 'educate:0.2497', 'ally:0.2404', 'believe:0.2274', 'soon:0.2223', 'university:0.2213', 'flight:0.2067', 'stay:0.2052', 'want:0.1999', 'base:0.1976', 'help:0.1918', 'morning:0.1851', 'direct:0.1722']+titles_keywords+['biden:0.3661', 'ukraine:0.3602', 'invade:0.35', 'burlingtonians:0.2857', 'stay:0.1751']"
+        ]
+    ],
+    "USA+UKR+10":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/mynbc5.com/President Biden calls atrocities in Ukraine genocide for the first time.txt+eventbasecode10+eventcode10+avgtone0.46262886597938147+goldsteinscale0.5+nummentions0.3454281567489115+numarticles0.34590282813633066+numsources0.3782894736842105+news_keywords+['genocide:0.4778', 'putin:0.4281', 'biden:0.3476', 'ukrainian:0.3073', 'confrontation:0.2754', 'accuse:0.2524', 'hutus:0.2322', 'decide:0.2061', 'clarify:0.1999', 'administration:0.1942', 'trigger:0.1881', 'evidence:0.1744', 'nuclear:0.1714', 'learn:0.1583', 'word:0.1546', 'formally:0.1539', 'bloody:0.1525', 'trip:0.1393', 'washington:0.1332', 'example:0.131', 'wipe:0.1171', 'month:0.1076', 'direct:0.1054', 'sure:0.1004', 'earlier:0.096', 'moral:0.0937', 'price:0.0813', 'carry:0.0701', 'wasnt:0.0685', 'board:0.0667']+titles_keywords+['genocide:0.4525', 'biden:0.373', 'ukraine:0.2878', 'calls:0.1177', 'time:0.0435']"
+        ]
+    ]
+}

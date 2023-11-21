@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+841":[
+        [
+            "20220410+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Russian nuclear workers freed in Ukraine.txt+eventbasecode84+eventcode841+avgtone0.5023474178403755+goldsteinscale0.85+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['nuclear:0.4616', 'ukraine:0.452', 'likhachev:0.3782', 'prisoner:0.2847', 'worker:0.2618', 'peaceful:0.2443', 'company:0.2427', 'rosatom:0.2262', 'tatyana:0.223', 'situation:0.2199', 'rivne:0.2179', 'news:0.1986', 'authority:0.1895', 'swap:0.1798', 'plant:0.1788', 'treat:0.1554', 'recuperation:0.1547', 'hold:0.1498', 'arrive:0.1404', 'function:0.1388', 'right:0.1221', 'state:0.1148', 'cargo:0.111', 'free:0.1039', 'material:0.1026', 'february:0.1013', 'set:0.0943', 'emphasize:0.0935', 'bad:0.0739', 'confirm:0.0724']+titles_keywords+['ukraine:0.3937', 'nuclear:0.3548', 'freed:0.3312', 'russian:0.3206', 'workers:0.2766']"
+        ]
+    ],
+    "UKR+RUS+841":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Russia allows visafree entry for foreign nationals coming from Ukraine DPR LPR.txt+eventbasecode84+eventcode841+avgtone0.5151515151515151+goldsteinscale0.85+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4314', 'kremlin:0.3435', 'russian:0.3061', 'visafree:0.2904', 'citizenship:0.2567', 'republics:0.2223', 'registration:0.2193', 'dpr:0.2153', 'stateless:0.2093', 'enter:0.1862', 'federation:0.1526', 'foreign:0.1513', 'residence:0.1454', 'allow:0.1311', 'expire:0.1025', 'person:0.0968', 'validity:0.0966', 'saturday:0.0799', 'identity:0.0793', 'procedure:0.0757', 'document:0.0636', 'anisputnik:0.0614', 'permanent:0.0572', 'prove:0.0545', 'start:0.0354', 'service:0.0316', 'need:0.0131', 'simplify:0.0102', 'say:-0.0006', 'relevant:-0.0009']+titles_keywords+['ukraine:0.4047', 'visafree:0.3568', 'lpr:0.2272', 'allows:0.1155', 'coming:0.0255']"
+        ]
+    ]
+}

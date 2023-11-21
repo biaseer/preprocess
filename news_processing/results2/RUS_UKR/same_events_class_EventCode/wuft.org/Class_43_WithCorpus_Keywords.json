@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+43":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/wuft.org/Europe and the US move to isolate Russia as Ukrainians hold off invaders.txt+eventbasecode43+eventcode43+avgtone0.443298969072165+goldsteinscale0.64+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.02631578947368421+news_keywords+['ukraine:0.5118', 'ukrainians:0.4649', 'russia:0.4422', 'russian:0.3953', 'invasion:0.3814', 'europe:0.3519', 'refugee:0.3389', 'european:0.2999', 'isolate:0.2948', 'violence:0.278', 'escape:0.2684', 'invader:0.2658', 'ban:0.2555', 'plane:0.2001', 'union:0.1774', 'arm:0.1625', 'hold:0.1538', 'weekend:0.1448', 'meet:0.1404', 'resistance:0.1352', 'force:0.1279', 'line:0.1207', 'send:0.0885', 'stiff:0.0626']+titles_keywords+['ukrainians:0.4703', 'isolate:0.3332', 'europe:0.2777', 'invaders:0.2132', 'hold:0.1001']"
+        ],
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/wuft.org/Ukrainian mayor describes being held hostage by Russian soldiers.txt+eventbasecode43+eventcode43+avgtone0.48+goldsteinscale0.64+nummentions0.05660377358490566+numarticles0.05728788977519942+numsources0.0625+news_keywords+['ukrainian:0.4756', 'hostage:0.4729', 'russian:0.4385', 'mayor:0.313', 'soldier:0.3048', 'france:0.2727', 'town:0.2614', 'hold:0.2395', 'release:0.2168', 'talk:0.1544', 'describes:0.1444', 'briefly:0.1255', 'force:0.099', 'like:0.0895', 'emerge:0.0805', 'think:0.0717']+titles_keywords+['hostage:0.4753', 'ukrainian:0.4035', 'mayor:0.2983', 'soldiers:0.2234', 'describes:0.1234']"
+        ]
+    ]
+}

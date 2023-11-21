@@ -1,0 +1,12 @@
+{
+    "RUS+EUR+33":[
+        [
+            "20220610+../news_crawling/RUS_UKR/p_articles/business-standard.com/EU announces additional 220 mn aid for Ukraine amid humanitarian crisis.txt+eventbasecode33+eventcode33+avgtone0.49064449064449067+goldsteinscale0.76+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['ukraine:0.4953', 'aid:0.3499', 'war:0.3343', 'refugee:0.3337', 'euros:0.2876', 'troop:0.263', 'crisis:0.2462', 'additional:0.2237', 'security:0.1888', 'million:0.1885', 'march:0.1797', 'commission:0.1741', 'balazs:0.1679', 'flee:0.1652', 'bring:0.1627', 'feed:0.1608', 'estimate:0.1562', 'headline:0.1519', 'respond:0.1509', 'macro:0.1439', 'displace:0.1306', 'begin:0.1174', 'resource:0.0978', 'main:0.0938', 'mfa:0.0904', 'nearly:0.0848', 'new:0.0801', 'picture:0.08', 'generate:0.0676', 'accord:0.0661']+titles_keywords+['ukraine:0.4176', 'eu:0.3402', 'aid:0.3346', 'additional:0.2692', '220:0.203']"
+        ]
+    ],
+    "RUS+UKR+33":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/business-standard.com/Kyiv confirms opening of humanitarian corridors in a many Ukrainian cities.txt+eventbasecode33+eventcode33+avgtone0.5+goldsteinscale0.76+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['kyiv:0.5361', 'ceasefire:0.3938', 'evacuate:0.3735', 'humanitarian:0.3647', 'corridor:0.3077', 'russians:0.29', 'zaporizhia:0.2288', 'vereshchuk:0.2125', 'poltava:0.212', 'region:0.1988', 'open:0.1921', 'vorzel:0.1744', 'iryna:0.1648', 'turn:0.1424', 'resident:0.1358', 'lozova:0.1356', 'gmt:0.1344', 'plan:0.1214', 'report:0.1143', 'population:0.101', 'ready:0.1002', 'syndicate:0.0961', 'rework:0.094', 'follow:0.0901', 'official:0.0894', 'today:0.084', 'bucha:0.0713', 'generate:0.0631', 'say:0.0504', 'picture:0.0343']+titles_keywords+['kyiv:0.5487', 'corridors:0.3728', 'humanitarian:0.3646', 'opening:0.1844', 'confirms:0.0872']"
+        ]
+    ]
+}

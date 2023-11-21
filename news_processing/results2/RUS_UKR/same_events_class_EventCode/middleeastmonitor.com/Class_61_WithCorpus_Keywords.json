@@ -1,0 +1,12 @@
+{
+    "EGY+RUS+61":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/middleeastmonitor.com/Russia blocks 4 Egyptbound cornloaded ships.txt+eventbasecode61+eventcode61+avgtone0.4844827586206897+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4804', 'war:0.322', 'egyptbound:0.2682', 'wheat:0.2653', 'supply:0.2516', 'gulf:0.2462', 'arab:0.2397', 'port:0.2231', 'embassy:0.218', 'import:0.2162', 'block:0.1885', 'recaptcha:0.1745', 'cornloaded:0.1627', 'secure:0.1621', 'imposition:0.1575', 'movement:0.1387', 'prevent:0.1358', 'pivdennyi:0.1276', 'begin:0.1097', 'people:0.1056', 'accuse:0.1029', 'soon:0.0971', 'follow:0.096', 'ready:0.0945', 'terms:0.0935', 'leave:0.0833', 'statement:0.0757', 'data:0.0656', 'annually:0.0531', 'floor:0.04']+titles_keywords+['egyptbound:0.3776', 'ships:0.3775', 'russia:0.3455', 'blocks:0.2782', 'cornloaded:0.2178']"
+        ]
+    ],
+    "RUS+UKR+61":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/middleeastmonitor.com/Lebanon faces bread crisis amid flour shortage.txt+eventbasecode61+eventcode61+avgtone0.46794871794871795+goldsteinscale0.82+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['lebanon:0.4816', 'wheat:0.3793', 'shortage:0.3009', 'war:0.2942', 'bakeries:0.2689', 'economic:0.2654', 'crisis:0.205', 'warn:0.1757', 'article:0.1718', 'make:0.1503', 'import:0.1363', 'outage:0.1355', 'lead:0.1327', 'february:0.1296', 'basic:0.1281', 'terms:0.1158', 'anadolu:0.1158', 'blame:0.1094', 'good:0.1088', 'banque:0.1002', 'neighbour:0.0999', 'number:0.0944', 'recaptcha:0.0927', 'include:0.0925', 'widespread:0.0916', 'monitor:0.0762', 'erode:0.0745', 'state:0.0701', 'middle:0.0691', 'unless:0.0347']+titles_keywords+['bread:0.4565', 'lebanon:0.4494', 'shortage:0.2975', 'amid:0.0563', 'faces:0.056']"
+        ]
+    ]
+}

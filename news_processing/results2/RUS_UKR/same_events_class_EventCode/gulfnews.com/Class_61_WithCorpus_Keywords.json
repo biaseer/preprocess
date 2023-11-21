@@ -1,0 +1,12 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/gulfnews.com/Ukraine conflict likely to swell global hunger crisis.txt+eventbasecode61+eventcode61+avgtone0.435563816604709+goldsteinscale0.82+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.006578947368421052+news_keywords+['ukraine:0.4602', 'crises:0.345', 'humanitarian:0.3343', 'malnutrition:0.3311', 'war:0.322', 'pandemic:0.3092', 'economic:0.2787', 'instability:0.2695', 'sahel:0.2619', 'poor:0.2274', 'population:0.2042', 'increasing:0.1727', 'breadbasket:0.1687', 'crop:0.1667', 'global:0.165', 'warn:0.1622', 'supplier:0.162', 'import:0.1435', 'continue:0.1421', 'phosphate:0.1401', 'significant:0.1289', 'forefront:0.1206', 'calorie:0.116', 'reduce:0.1062', 'chain:0.0994', 'immediately:0.0972', 'make:0.096', 'hotspot:0.0847', 'like:0.0814', 'decade:0.0695']+titles_keywords+['ukraine:0.403', 'hunger:0.3846', 'conflict:0.3407', 'global:0.1514', 'likely:0.0268']"
+        ]
+    ],
+    "LBN+UKR+61":[
+        [
+            "20220801+../news_crawling/RUS_UKR/p_articles/gulfnews.com/Why the first grain shipment after the start of the Ukraine war matters.txt+eventbasecode61+eventcode61+avgtone0.47647058823529415+goldsteinscale0.82+nummentions0.3018867924528302+numarticles0.30239303843364757+numsources0.3223684210526316+news_keywords+['famine:0.4479', 'grain:0.3854', 'agribusiness:0.3782', 'humanitarian:0.365', 'shipment:0.3546', 'ukraines:0.3452', 'blockade:0.345', 'war:0.338', 'supply:0.2805', 'africa:0.2755', 'breadbasket:0.2439', 'import:0.2389', 'feed:0.2327', 'westward:0.2316', 'beirut:0.2286', 'concern:0.2111', 'need:0.1976', 'increase:0.1965', 'reconstruction:0.1956', 'covid:0.1886', 'developments:0.1785', 'know:0.1705', 'report:0.1671', 'short:0.1548', 'begin:0.1544', 'resulted:0.1358', 'month:0.1319', 'ap:0.1142', 'deal:0.101', 'peterschmitt:0.0897']+titles_keywords+['ukraine:0.3836', 'grain:0.3677', 'shipment:0.3537', 'war:0.3398', 'matters:0.2266']"
+        ]
+    ]
+}

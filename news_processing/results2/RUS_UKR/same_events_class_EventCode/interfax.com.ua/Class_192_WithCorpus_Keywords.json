@@ -1,0 +1,15 @@
+{
+    "BLR+UKR+192":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Russian troops enter Chornobyl NPP from Belarus Gerashchenko.txt+eventbasecode192+eventcode192+avgtone0.4579831932773109+goldsteinscale0.025+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['belarus:0.3927', 'gerashchenko:0.37', 'radioactive:0.3473', 'chornobyl:0.3389', 'russian:0.3188', 'unsafe:0.2213', 'invasion:0.2149', 'guardsmen:0.2059', 'artillery:0.204', 'enter:0.1778', 'waste:0.1496', 'plant:0.1418', 'facility:0.1355', 'npp:0.1268', 'cover:0.1256', 'zone:0.1247', 'anton:0.1168', 'telegram:0.1025', 'result:0.0944', 'information:0.0852', 'national:0.0851', 'internal:0.0845', 'stress:0.0734', 'channel:0.0667', 'dust:0.066', 'power:0.063', 'strike:0.0519', 'write:0.0514', 'advisor:0.0382', 'say:0.0197']+titles_keywords+['gerashchenko:0.3719', 'chornobyl:0.369', 'belarus:0.3597', 'troops:0.2622', 'npp:0.2199']"
+        ]
+    ],
+    "RUS+UKR+192":[
+        [
+            "20220504+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Arakhamia There is communication with Ukrainian units in Mariupol Russian troops enter territory of Azovstal.txt+eventbasecode192+eventcode192+avgtone0.4932432432432432+goldsteinscale0.025+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.006578947368421052+news_keywords+['ukrainian:0.4583', 'azov:0.432', 'arakhamia:0.3611', 'troop:0.3599', 'artillery:0.307', 'territory:0.2883', 'boichenko:0.2451', 'report:0.2391', 'tank:0.2259', 'vadym:0.2252', 'defend:0.2144', 'firing:0.207', 'radio:0.2006', 'unit:0.1948', 'mariupol:0.1912', 'storm:0.1864', 'commander:0.1864', 'authority:0.1788', 'communication:0.1754', 'refer:0.166', 'attempt:0.1642', 'people:0.1628', 'enter:0.1625', 'liberty:0.1611', 'continue:0.1524', 'plant:0.1513', 'mayor:0.1413', 'day:0.1319', 'servant:0.1178', 'second:0.1032']+titles_keywords+['arakhamia:0.4745', 'russian:0.4398', 'azovstal:0.3594', 'troops:0.3166', 'enter:0.1221']"
+        ],
+        [
+            "20220622+../news_crawling/RUS_UKR/p_articles/interfax.com.ua/Six children injured amid Russias attack on beach in Chasiv Yar Donetsk regional administration.txt+eventbasecode192+eventcode192+avgtone0.44202898550724645+goldsteinscale0.025+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['donetsk:0.4203', 'russian:0.3879', 'russias:0.2865', 'military:0.2789', 'child:0.2716', 'rybka:0.255', 'hit:0.2541', 'attack:0.2438', 'beach:0.2099', 'enemy:0.1931', 'region:0.1846', 'injury:0.1777', 'shell:0.1666', 'town:0.1558', 'cluster:0.1458', 'people:0.1414', 'pavlo:0.1269', 'zolota:0.1248', 'result:0.1241', 'suffer:0.1063', 'yar:0.1035', 'telegram:0.0971', 'june:0.0958', 'force:0.0954', 'head:0.09', 'munition:0.0787', 'preliminary:0.0767', 'channel:0.0725', 'information:0.0547', 'according:0.0393']+titles_keywords+['children:0.3268', 'donetsk:0.2788', 'beach:0.2611', 'russias:0.2443', 'attack:0.2176']"
+        ]
+    ]
+}

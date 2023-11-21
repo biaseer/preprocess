@@ -1,0 +1,12 @@
+{
+    "CUB+RUS+43":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/loopnews.com/Cuba ignores sanctions helps Russians to fly home.txt+eventbasecode43+eventcode43+avgtone0.47794117647058826+goldsteinscale0.64+nummentions0.002902757619738752+numarticles0.002175489485134155+numsources0.0+news_keywords+['cuba:0.4485', 'russians:0.3293', 'sanction:0.2769', 'repatriation:0.2761', 'airlineswill:0.2679', 'reportingcuban:0.2251', 'eu:0.2092', 'invasion:0.201', 'airspace:0.1928', 'varaderoand:0.1779', 'juan:0.154', 'touristsfrom:0.1505', 'ignore:0.1496', 'safe:0.1257', 'event:0.1255', 'news:0.123', 'gmez:0.1129', 'usingeu:0.0915', 'facilitate:0.0862', 'cayo:0.0789', 'strand:0.0779', 'help:0.073', 'tweet:0.0672', 'number:0.0667', 'term:0.0658', 'permit:0.0558', 'apparently:0.0425', 'rey:0.0355', 'say:0.0199', 'small:0.0148']+titles_keywords+['sanctions:0.419', 'cuba:0.4172', 'fly:0.1893', 'ignores:0.1793', 'home:0.1527']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/loopnews.com/Fleeing to the border Some 120000 Ukrainians seek refuge.txt+eventbasecode43+eventcode43+avgtone0.4768740031897927+goldsteinscale0.64+nummentions0.33200290275761973+numarticles0.3216098622189993+numsources0.3881578947368421+news_keywords+['crimea:0.4447', 'refugees:0.4295', 'polands:0.3737', 'border:0.3382', 'invade:0.327', 'przemysl:0.3214', 'fleeing:0.3001', 'troop:0.2972', 'humanitarian:0.264', 'government:0.2529', 'conflict:0.245', 'arrive:0.2344', 'train:0.219', 'crowd:0.2077', 'plan:0.2009', 'covid:0.1828', 'unprovoked:0.1792', 'want:0.1698', 'know:0.1632', 'help:0.162', 'long:0.1543', 'grab:0.1492', 'woman:0.1473', 'night:0.1386', 'thousand:0.1333', 'post:0.1179', 'stock:0.1092', 'welcome:0.0934', 'deteriorates:0.0685', 'froma:0.0592']+titles_keywords+['ukrainians:0.4862', 'fleeing:0.4505', 'refuge:0.417', '120000:0.3326', 'border:0.284']"
+        ]
+    ]
+}

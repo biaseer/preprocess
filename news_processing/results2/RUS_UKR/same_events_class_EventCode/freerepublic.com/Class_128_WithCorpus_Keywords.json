@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+128":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Kyiv continues to defy an intensifying Russian assault Resistance appears to be stiffer than Russian.txt+eventbasecode128+eventcode128+avgtone0.5080645161290323+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kyiv:0.632', 'putin:0.3907', 'warfare:0.331', 'zelensky:0.3057', 'destroy:0.2836', 'news:0.2609', 'intercept:0.2602', 'casualty:0.2588', 'street:0.2563', 'safer:0.2477', 'administration:0.2355', 'shift:0.22', 'stay:0.2192', 'report:0.2122', 'hear:0.2089', 'plan:0.2024', 'northern:0.2003', 'dramatic:0.2001', 'forth:0.199', 'concerned:0.1982', 'main:0.1948', 'building:0.1898', 'increase:0.18', 'cabal:0.1697', 'begin:0.1521', 'km:0.152', 'caused:0.1428', 'big:0.1408', 'cooky:0.1335', 'huddle:0.1227']+titles_keywords+['kyiv:0.5725', 'resistance:0.2888', 'defy:0.2763', 'forces:0.1938', 'continues:0.1827']"
+        ],
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/freerepublic.com/The Ukrainian military has hit the Russian cruiser Moskva by Neptune missiles causing serious damage.txt+eventbasecode128+eventcode128+avgtone0.4931506849315068+goldsteinscale0.25+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.006578947368421052+news_keywords+['russians:0.4148', 'snake:0.3986', 'missile:0.3379', 'war:0.3043', 'marchenko:0.2953', 'flag:0.2779', 'navys:0.2608', 'ucav:0.2604', 'victim:0.253', 'rooskies:0.2345', 'bite:0.2306', 'sunk:0.2294', 'decoy:0.2248', 'republic:0.2009', 'fatally:0.1873', 'telegram:0.1809', 'nomenclatura:0.1779', 'refer:0.1694', 'cause:0.161', 'th:0.156', 'realize:0.1544', 'island:0.1507', 'biden:0.1436', 'direct:0.1412', 'day:0.1381', 'washington:0.1355', 'control:0.1155', 'sure:0.1052', 'true:0.1041', 'beautiful:0.0815']+titles_keywords+['missiles:0.399', 'moskva:0.3639', 'neptune:0.2875', 'hit:0.2497', 'cruiser:0.1797']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+20":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/worldpoliticsreview.com/Russias Invasion of Ukraine Is Putting India in the Hot Seat.txt+eventbasecode20+eventcode20+avgtone0.4634146341463415+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4112', 'indo:0.3483', 'war:0.3305', 'putins:0.3296', 'indias:0.3228', 'strategic:0.256', 'alignment:0.1883', 'abstain:0.1584', 'relationship:0.1538', 'western:0.1449', 'instead:0.1344', 'actionsa:0.1292', 'president:0.1247', 'want:0.1237', 'immediate:0.1236', 'supplier:0.121', 'seat:0.1148', 'ongoing:0.1084', 'scrutiny:0.1054', 'councilhas:0.0963', 'long:0.0951', 'nonpermanent:0.0867', 'statementcalling:0.0767', 'deepen:0.0723', 'hand:0.0664', 'resolution:0.0651', 'hot:0.0626', 'emerge:0.0608', 'counter:0.0571', 'hasavoided:0.0463']+titles_keywords+['ukraine:0.4153', 'india:0.4045', 'invasion:0.2359', 'hot:0.1483', 'seat:0.1415']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220607+../news_crawling/RUS_UKR/p_articles/worldpoliticsreview.com/Vietnam Modernizes Its Military With a Wary Eye on China.txt+eventbasecode20+eventcode20+avgtone0.47969543147208127+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['vietnam:0.4484', 'invade:0.3375', 'war:0.3365', 'ukraines:0.3007', 'strategy:0.298', 'taipeis:0.2622', 'overlap:0.2497', 'territorial:0.2374', 'maritime:0.2305', 'spar:0.2262', 'protect:0.1991', 'wary:0.1887', 'nation:0.188', 'andconfrontations:0.1743', 'relationship:0.1586', 'extend:0.1463', 'modernizes:0.1337', 'fish:0.1215', 'tense:0.1117', 'handbook:0.1103', 'resist:0.0998', 'frequently:0.093', 'nominally:0.0799', 'draw:0.0792', 'modelfor:0.073', 'law:0.0721', 'long:0.0666', 'eez:0.0627', 'page:0.0535', 'numerically:0.007']+titles_keywords+['vietnam:0.5437', 'military:0.3243', 'modernizes:0.2753', 'wary:0.221', 'eye:0.113']"
+        ]
+    ]
+}

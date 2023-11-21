@@ -1,0 +1,16 @@
+{
+    "DNK+UKR+84":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/yahoo.com/Dutch court releases two Ukrainians accused of human smuggling to fight Russian invasion.txt+eventbasecode84+eventcode84+avgtone0.4894894894894895+goldsteinscale0.85+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4546', 'convict:0.3603', 'dutch:0.3166', 'smuggle:0.3124', 'pretrial:0.3084', 'detention:0.264', 'invasion:0.2619', 'release:0.2299', 'zelensky:0.227', 'news:0.1969', 'sentence:0.1914', 'conditional:0.1846', 'evade:0.1846', 'volodymyr:0.174', 'read:0.1622', 'approve:0.1516', 'return:0.1503', 'report:0.1407', 'order:0.1371', 'come:0.1366', 'ter:0.1338', 'group:0.1319', 'outlet:0.1303', 'filing:0.1292', 'allegedly:0.1173', 'men:0.1096', 'continue:0.1091', 'attempt:0.0958', 'accord:0.0664', 'face:0.0623']+titles_keywords+['ukrainians:0.4009', 'dutch:0.2275', 'smuggling:0.2066', 'accused:0.1485', 'releases:0.1207']"
+        ]
+    ],
+    "RUS+USA+84":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/yahoo.com/A Minnesota teacher who was detained by Russian forces while trying to escape the invasion.txt+eventbasecode84+eventcode84+avgtone0.5+goldsteinscale0.85+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.006578947368421052+news_keywords+['crimea:0.4895', 'russian:0.3916', 'detain:0.3559', 'invasion:0.3075', 'mistreat:0.3016', 'custody:0.3014', 'embassy:0.2945', 'soldier:0.2725', 'stay:0.2494', 'report:0.2272', 'story:0.2237', 'tribune:0.2173', 'cnn:0.2121', 'safe:0.2041', 'outcome:0.1902', 'state:0.19', 'checkpoint:0.1845', 'reunite:0.1773', 'tyler:0.1763', 'assistance:0.1723', 'hear:0.1625', 'reach:0.161', 'month:0.152', 'teach:0.1438', 'sen:0.1402', 'grateful:0.1102', 'hauser:0.1063', 'like:0.1044', 'earlier:0.1041', 'board:0.1012']+titles_keywords+['teacher:0.3522', 'detained:0.34', 'russian:0.3212', 'minnesota:0.2014', 'invasion:0.188']"
+        ]
+    ],
+    "UKR+RUS+84":[
+        [],
+        []
+    ]
+}

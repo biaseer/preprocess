@@ -1,0 +1,12 @@
+{
+    "POL+UKR+36":[
+        [
+            "20220522+../news_crawling/RUS_UKR/p_articles/sanantoniopost.com/Polands President to Speak to Ukraines Parliament.txt+eventbasecode36+eventcode36+avgtone0.480083857442348+goldsteinscale0.7+nummentions0.045718432510885344+numarticles0.046410442349528645+numsources0.039473684210526314+news_keywords+['ukraine:0.4935', 'kremlin:0.4089', 'reuters:0.3291', 'airstrike:0.3112', 'zelenskyy:0.2994', 'evacuate:0.2887', 'separatist:0.2752', 'diplomatic:0.2699', 'battle:0.2624', 'table:0.249', 'sievierodonetsk:0.2448', 'concern:0.2093', 'turn:0.2092', 'emphasize:0.1965', 'format:0.1959', 'end:0.1922', 'publish:0.1897', 'donbas:0.1828', 'recover:0.1713', 'nearly:0.1653', 'week:0.1613', 'hour:0.1609', 'increase:0.1603', 'ap:0.1551', 'explain:0.1478', 'ban:0.1476', 'photograph:0.1396', 'port:0.1387', 'large:0.1283', 'earlier:0.1134']+titles_keywords+['polands:0.3733', 'ukraines:0.3421', 'speak:0.2846', 'parliament:0.2788', 'president:0.241']"
+        ]
+    ],
+    "UKR+RUS+36":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/sanantoniopost.com/IndiaUS 2 2 Dialogue Defence Minister Rajnath Singh receives Guard of Honour at Pentagon.txt+eventbasecode36+eventcode36+avgtone0.5086805555555556+goldsteinscale0.7+nummentions0.03265602322206096+numarticles0.03335750543872371+numsources0.05592105263157895+news_keywords+['pentagon:0.4689', 'ukraine:0.3041', 'delhi:0.2988', 'meeting:0.2982', 'department:0.2948', 'memorandum:0.2884', 'rajnath:0.2734', 'honour:0.2557', 'security:0.235', 'arrive:0.2193', 'attend:0.2168', 'state:0.1963', 'day:0.1813', 'space:0.1775', 'ani:0.1573', 'function:0.1544', 'tension:0.1504', 'exchange:0.1498', 'schedule:0.1414', 'refers:0.1358', 'phenomena:0.1291', 'incidentally:0.1223', 'fourth:0.1212', 'welcome:0.115', 'bilateral:0.1105', 'enhance:0.1079', 'cordon:0.1055', 'press:0.0869', 'year:0.0865', 'lloyd:0.0721']+titles_keywords+['pentagon:0.4506', 'rajnath:0.3589', 'honour:0.329', 'indiaus:0.281', 'guard:0.2396']"
+        ]
+    ]
+}

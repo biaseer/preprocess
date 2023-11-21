@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+13":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/castanet.net/Possible mass graves near Mariupol as Russia attacks in east.txt+eventbasecode13+eventcode13+avgtone0.46659242761692654+goldsteinscale0.52+nummentions0.11357039187227866+numarticles0.11421319796954314+numsources0.41776315789473684+news_keywords+['crimea:0.5049', 'kremlin:0.4892', 'war:0.2985', 'yuriy:0.2923', 'redeploy:0.2584', 'casualty:0.2552', 'industrial:0.2442', 'disaster:0.2374', 'strategic:0.2372', 'kill:0.2313', 'pentagons:0.2204', 'transnistria:0.2181', 'town:0.2163', 'donbas:0.207', 'publish:0.1965', 'bucha:0.1941', 'telegram:0.1837', 'noting:0.1775', 'near:0.1749', 'organize:0.1726', 'anonymity:0.1709', 'mariupols:0.1678', 'scatter:0.1612', 'incoming:0.1584', 'seemingly:0.1574', 'large:0.1402', 'stretch:0.1347', 'month:0.1318', 'piotr:0.1316', 'hours:0.1042']+titles_keywords+['russia:0.3426', 'mariupol:0.2873', 'graves:0.2825', 'attacks:0.179', 'near:0.1736']"
+        ],
+        [
+            "20220728+../news_crawling/RUS_UKR/p_articles/castanet.net/Russia attacks Kyiv area for the first time in weeks.txt+eventbasecode13+eventcode13+avgtone0.4805194805194805+goldsteinscale0.52+nummentions0.22387518142235124+numarticles0.22443799854967367+numsources0.48355263157894735+news_keywords+['kyiv:0.5684', 'ukraines:0.4886', 'rus:0.4816', 'kremlin:0.4524', 'zelenskyy:0.3406', 'bombardment:0.3097', 'statehood:0.2705', 'liberate:0.2574', 'commemoration:0.2483', 'troop:0.2385', 'operation:0.2363', 'history:0.232', 'fight:0.2145', 'remind:0.2139', 'underway:0.2064', 'report:0.1933', 'organize:0.191', 'day:0.1705', 'understand:0.168', 'kilometer:0.1636', 'supply:0.163', 'say:0.1588', 'telegram:0.1561', 'eastern:0.1533', 'neighbor:0.1504', 'bucha:0.1443', 'denis:0.1114', 'second:0.1063', 'focus:0.104', 'counteroffensive:0.0995']+titles_keywords+['kyiv:0.5433', 'russia:0.275', 'attacks:0.2399', 'weeks:0.1078', 'area:0.0625']"
+        ]
+    ]
+}

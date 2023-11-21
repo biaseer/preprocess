@@ -1,0 +1,17 @@
+{
+    "GBR+UKR+43":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/Ukrainian visa delays are a national embarrassment says British host.txt+eventbasecode43+eventcode43+avgtone0.49261083743842365+goldsteinscale0.64+nummentions0.14332365747460088+numarticles0.14394488759970994+numsources0.2565789473684211+news_keywords+['refugee:0.4691', 'kyiv:0.4473', 'visa:0.3948', 'putins:0.2939', 'apply:0.2678', 'housing:0.2611', 'government:0.2469', 'leave:0.2451', 'row:0.2372', 'scheme:0.2209', 'farnham:0.2206', 'handout:0.2132', 'report:0.204', 'office:0.1988', 'partygate:0.1961', 'issue:0.1953', 'rubbish:0.194', 'history:0.1768', 'allow:0.1757', 'march:0.1658', 'attention:0.1637', 'desperately:0.1588', 'later:0.1516', 'hole:0.1451', 'safe:0.1314', 'basis:0.1198', 'reduce:0.1076', 'big:0.0946', 'thousand:0.0933', 'weve:0.0812']+titles_keywords+['ukrainian:0.3681', 'delays:0.3398', 'embarrassment:0.313', 'visa:0.2695', 'says:0.1095']"
+        ]
+    ],
+    "POL+UKR+43":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/They were shooting civilians says Ukrainian who fled to Poland for safety.txt+eventbasecode43+eventcode43+avgtone0.4685483870967742+goldsteinscale0.64+nummentions0.13570391872278664+numarticles0.1363306744017404+numsources0.20394736842105263+news_keywords+['kyiv:0.4751', 'ukrainians:0.4481', 'refugees:0.4103', 'evacuation:0.39', 'blockade:0.3256', 'diekov:0.2858', 'contingency:0.2525', 'killing:0.2306', 'corridor:0.2302', 'nuclear:0.229', 'report:0.2118', 'prosecutor:0.2051', 'comply:0.2004', 'soldier:0.1964', 'turn:0.1901', 'evidence:0.1848', 'organisation:0.1785', 'continue:0.1735', 'span:0.17', 'displace:0.1678', 'arrive:0.1623', 'anna:0.1476', 'potapola:0.147', 'irpin:0.1462', 'term:0.1423', 'bad:0.1255', 'pre:0.1176', 'longer:0.1097', 'dozen:0.1072', 'monitor:0.1014']+titles_keywords+['ukrainian:0.4323', 'civilians:0.4228', 'shooting:0.3249', 'fled:0.2782', 'says:0.0544']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220201+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/Boris Johnson uses Ukraine trip to urge Russia to step back.txt+eventbasecode43+eventcode43+avgtone0.48214285714285715+goldsteinscale0.64+nummentions0.14150943396226415+numarticles0.14213197969543148+numsources0.1611842105263158+news_keywords+['ukraine:0.4379', 'kremlin:0.4262', 'boris:0.3897', 'diplomatic:0.3697', 'zelensky:0.2461', 'sovereignty:0.2405', 'aggression:0.2089', 'president:0.207', 'downing:0.2064', 'volodymyr:0.1975', 'trip:0.1869', 'lockdown:0.1768', 'sanction:0.1686', 'report:0.1573', 'military:0.1466', 'fend:0.1419', 'act:0.1259', 'cross:0.1245', 'prepare:0.1223', 'course:0.1154', 'surround:0.1143', 'term:0.1039', 'say:0.1037', 'outwith:0.0979', 'mr:0.0881', 'delete:0.0872', 'vital:0.0869', 'receive:0.0842', 'hour:0.0794', 'possible:0.0419']+titles_keywords+['boris:0.3593', 'ukraine:0.3589', 'trip:0.1934', 'urge:0.0782', 'uses:-0.0103']"
+        ]
+    ]
+}

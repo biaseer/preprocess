@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+30":[
+        [
+            "20220416+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Russian air defense shot down plane with Western arms for Ukraine near Odessa top brass.txt+eventbasecode30+eventcode30+avgtone0.5112781954887218+goldsteinscale0.7+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.486', 'putin:0.4383', 'odessa:0.4327', 'propaganda:0.3986', 'nato:0.3959', 'blockade:0.3157', 'war:0.3126', 'zelensky:0.2709', 'tank:0.2678', 'kill:0.2675', 'occupy:0.2655', 'soros:0.2594', 'bosphorus:0.2475', 'lieutenant:0.2353', 'suspect:0.2206', 'urgent:0.2171', 'aviation:0.2166', 'ok:0.2162', 'deliver:0.2088', 'point:0.1962', 'tass:0.1875', 'homo:0.1676', 'long:0.1595', 'arm:0.155', 'search:0.1445', 'material:0.1147', 'today:0.1122', 'doesnt:0.0994', 'wasnt:0.0979', 'minus:0.0808']+titles_keywords+['odessa:0.407', 'russian:0.3833', 'brass:0.3036', 'plane:0.2759', 'shot:0.2304']"
+        ]
+    ],
+    "UKR+RUS+30":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/freerepublic.com/JFO area update 60 ceasefire violations 1 soldier and 2 civilians wounded.txt+eventbasecode30+eventcode30+avgtone0.4807280513918629+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ceasefire:0.5177', 'kiev:0.437', 'nato:0.4051', 'militarily:0.3557', 'correspondent:0.3316', 'artillery:0.33', 'attack:0.3004', 'foxnews:0.2929', 'civilian:0.2788', 'antitank:0.2705', 'violate:0.2604', 'poltiical:0.2517', 'uav:0.2494', 'report:0.2428', 'annexed:0.2381', 'updates:0.2315', 'area:0.2244', 'stuff:0.2228', 'organize:0.2122', 'km:0.2099', 'feb:0.2078', 'jfo:0.1939', 'term:0.1835', 'midnight:0.177', 'include:0.1765', 'donbass:0.17', 'syze:0.1699', 'read:0.1685', 'says:0.1366', 'http:0.1059']+titles_keywords+['ceasefire:0.5116', 'jfo:0.451', 'violations:0.3289', '60:0.1876', 'area:0.1596']"
+        ]
+    ]
+}

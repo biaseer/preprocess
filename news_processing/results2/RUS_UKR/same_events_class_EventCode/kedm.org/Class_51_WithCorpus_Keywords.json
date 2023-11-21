@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+51":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/kedm.org/Inside the European Unions response to the RussiaUkraine war.txt+eventbasecode51+eventcode51+avgtone0.46957671957671965+goldsteinscale0.67+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['ukraine:0.4666', 'nato:0.4431', 'putins:0.3787', 'war:0.3777', 'nuclear:0.2983', 'crisis:0.2706', 'strategic:0.2394', 'border:0.2298', 'escalate:0.2264', 'respond:0.221', 'sanction:0.2136', 'agreement:0.2082', 'safe:0.2042', 'involved:0.1979', 'order:0.1963', 'midnight:0.1849', 'tank:0.182', 'weekend:0.173', 'stay:0.1583', 'comparison:0.1577', 'know:0.1563', 'board:0.154', 'write:0.1479', 'forward:0.1433', 'sure:0.1363', 'newsletter:0.1289', 'nonpartisan:0.1288', 'nervousness:0.1129', 'radiofreetom:0.0995', 'dozens:0.0974']+titles_keywords+['russiaukraine:0.4963', 'war:0.3893', 'unions:0.3273', 'european:0.2316', 'inside:0.1368']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/kedm.org/Russias war in Ukraine is threatening an outpost of cooperation in space.txt+eventbasecode51+eventcode51+avgtone0.48752922837100543+goldsteinscale0.67+nummentions0.10631349782293179+numarticles0.1069615663524293+numsources0.1875+news_keywords+['soyuz:0.4545', 'iss:0.4431', 'russianspaceweb:0.4108', 'putin:0.3917', 'russias:0.387', 'geopolitical:0.3837', 'spaceport:0.3566', 'orbit:0.3486', 'astronauts:0.3313', 'propaganda:0.2857', 'interdependency:0.2817', 'collaboration:0.2618', 'globe:0.2336', 'esa:0.2217', 'orientation:0.219', 'meddle:0.2125', 'biden:0.2015', 'future:0.1895', 'matter:0.1797', 'seat:0.1696', 'deteriorate:0.1671', 'function:0.1443', 'prepare:0.1421', 'allegation:0.1407', 'say:0.1403', 'help:0.1399', 'end:0.1397', 'comparison:0.1389', 'vienna:0.126', 'month:0.0933']+titles_keywords+['ukraine:0.3987', 'space:0.3503', 'cooperation:0.2947', 'outpost:0.2526', 'threatening:0.2027']"
+        ]
+    ]
+}

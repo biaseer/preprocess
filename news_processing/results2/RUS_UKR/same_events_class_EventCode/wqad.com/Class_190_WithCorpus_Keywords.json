@@ -1,0 +1,12 @@
+{
+    "BGD+RUS+190":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/wqad.com/Bettendorf nonprofit sending braces to Ukrainian children in need.txt+eventbasecode190+eventcode190+avgtone0.49010791366906475+goldsteinscale0.0+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['foot:0.4152', 'brace:0.3865', 'deformity:0.3114', 'ukraine:0.2992', 'nonprofit:0.2862', 'supplier:0.2643', 'treatment:0.2501', 'grow:0.2428', 'need:0.2278', 'design:0.2271', 'arm:0.223', 'adopt:0.2205', 'genetic:0.2187', 'care:0.1682', 'standard:0.1679', 'kid:0.1622', 'long:0.162', 'mark:0.1611', 'send:0.1543', 'detach:0.1534', 'world:0.153', 'directly:0.1464', 'continue:0.146', 'right:0.1408', 'curl:0.129', 'todd:0.1251', 'bettendorf:0.1221', 'degree:0.1174', 'year:0.1081', 'anytime:0.1075']+titles_keywords+['braces:0.5013', 'nonprofit:0.3585', 'ukrainian:0.3304', 'bettendorf:0.2893', 'sending:0.1212']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/wqad.com/Ukraine Tone improves in Russia talks even as Kyiv is hit.txt+eventbasecode190+eventcode190+avgtone0.473568281938326+goldsteinscale0.0+nummentions0.14622641509433962+numarticles0.14684554024655547+numsources0.18421052631578946+news_keywords+['kyiv:0.5028', 'nato:0.3739', 'putin:0.3724', 'demilitarize:0.3643', 'airstrikes:0.3522', 'evacuate:0.328', 'news:0.2567', 'conflict:0.2544', 'troop:0.2433', 'agreement:0.2425', 'underway:0.2313', 'prepare:0.2188', 'realize:0.2095', 'hear:0.2061', 'neutral:0.2029', 'turn:0.2024', 'mush:0.1919', 'increase:0.1905', 'deliver:0.1888', 'administration:0.1708', 'besiege:0.1676', 'kilometer:0.1607', 'isnt:0.1553', 'siren:0.152', 'longer:0.1459', 'afraid:0.144', 'major:0.129', 'bid:0.0995', 'body:0.0985', 'friend:0.0978']+titles_keywords+['kyiv:0.5147', 'tone:0.2626', 'talks:0.2289', 'improves:0.2207', 'hit:0.0816']"
+        ]
+    ]
+}

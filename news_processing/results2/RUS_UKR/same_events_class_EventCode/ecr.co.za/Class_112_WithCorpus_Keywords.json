@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/ecr.co.za/Zuma backs Russia blames the West for Ukraine crisis.txt+eventbasecode112+eventcode112+avgtone0.511764705882353+goldsteinscale0.4+nummentions0.01741654571843251+numarticles0.018129079042784626+numsources0.013157894736842105+news_keywords+['putin:0.4481', 'zuma:0.4351', 'peace:0.346', 'ukrainians:0.3351', 'natos:0.3204', 'threat:0.2881', 'zelensky:0.2795', 'eastward:0.2654', 'justify:0.2653', 'negotiation:0.2622', 'reciprocate:0.2339', 'resolve:0.2323', 'know:0.2064', 'crisis:0.2048', 'stability:0.2038', 'world:0.197', 'ramaphosa:0.1965', 'instead:0.1959', 'power:0.1951', 'reality:0.1945', 'pander:0.1792', 'cyril:0.1683', 'pose:0.1541', 'bring:0.1381', 'believe:0.1373', 'ally:0.1176', 'make:0.1079', 'possible:0.1042', 'swiftly:0.0845', 'man:0.0647']+titles_keywords+['zuma:0.4299', 'ukraine:0.3762', 'blames:0.2747', 'crisis:0.1879', 'backs:0.1312']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220814+../news_crawling/RUS_UKR/p_articles/ecr.co.za/SAbased Ukrainians march in Durban over Russias invasion.txt+eventbasecode112+eventcode112+avgtone0.4638888888888889+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4939', 'russias:0.3792', 'durban:0.3781', 'invasion:0.3588', 'war:0.345', 'assault:0.291', 'crime:0.2773', 'katya:0.2368', 'march:0.2237', 'condemn:0.2158', 'soldier:0.2129', 'unreported:0.21', 'people:0.2089', 'bring:0.1999', 'sabased:0.1925', 'suffer:0.1908', 'change:0.1858', 'promenade:0.1794', 'power:0.1772', 'stop:0.1767', 'umhlanga:0.172', 'world:0.1718', 'say:0.1591', 'awareness:0.1526', 'child:0.1489', 'immediately:0.1373', 'contribute:0.1312', 'association:0.1223', 'heartbreaking:0.0998', 'whalebone:0.0323']+titles_keywords+['ukrainians:0.4324', 'durban:0.3943', 'invasion:0.3692', 'march:0.2462', 'sabased:0.2211']"
+        ]
+    ]
+}

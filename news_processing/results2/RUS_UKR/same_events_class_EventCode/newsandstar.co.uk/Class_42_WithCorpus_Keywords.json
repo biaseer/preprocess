@@ -1,0 +1,27 @@
+{
+    "EUR+RUS+42":[
+        [
+            "20220205+../news_crawling/RUS_UKR/p_articles/newsandstar.co.uk/Johnson and Macron agree to fight against malicious Russian activity.txt+eventbasecode42+eventcode42+avgtone0.4853372434017595+goldsteinscale0.595+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.3157894736842105+news_keywords+['natos:0.4911', 'kremlin:0.4369', 'kyiv:0.3834', 'macron:0.3588', 'invade:0.3563', 'diplomatic:0.3455', 'boris:0.2909', 'engage:0.2384', 'justify:0.238', 'concern:0.2241', 'european:0.2207', 'remain:0.2205', 'friday:0.1959', 'planning:0.1929', 'forward:0.1889', 'unite:0.1825', 'pretext:0.1734', 'flank:0.1706', 'order:0.1689', 'debate:0.1687', 'report:0.168', 'course:0.163', 'solution:0.1434', 'mr:0.1222', 'current:0.1133', 'agree:0.1097', 'set:0.1022', 'olaf:0.1012', 'weve:0.0915', 'overriding:0.0402']+titles_keywords+['macron:0.3704', 'russian:0.2682', 'malicious:0.2397', 'johnson:0.2233', 'fight:0.2066']"
+        ]
+    ],
+    "GBR+UKR+42":[
+        [
+            "20220501+../news_crawling/RUS_UKR/p_articles/newsandstar.co.uk/UK ambassador to Ukraine feeling comfortable on return to Kyiv.txt+eventbasecode42+eventcode42+avgtone0.5038022813688213+goldsteinscale0.595+nummentions0.23149492017416545+numarticles0.23205221174764323+numsources0.21052631578947367+news_keywords+['kyiv:0.5577', 'ukraines:0.4755', 'moscows:0.4051', 'diplomat:0.3846', 'putin:0.3809', 'invasion:0.2867', 'zelensky:0.238', 'security:0.2367', 'troop:0.2314', 'capital:0.2267', 'remain:0.2266', 'threaten:0.2151', 'repel:0.186', 'comfortable:0.1789', 'ally:0.1663', 'arrive:0.1638', 'interview:0.1549', 'lively:0.1387', 'withdraw:0.1289', 'debate:0.1207', 'simmons:0.1197', 'distance:0.1175', 'april:0.1161', 'want:0.115', 'good:0.1131', 'western:0.1129', 'long:0.1068', 'reopen:0.1048', 'story:0.0771', 'minimising:0.0311']+titles_keywords+['kyiv:0.4317', 'ambassador:0.3872', 'comfortable:0.3703', 'uk:0.184', 'return:0.1376']"
+        ]
+    ],
+    "RUS+RUS+42":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/newsandstar.co.uk/Who has been hit by the latest round of UK sanctions against Russia.txt+eventbasecode42+eventcode42+avgtone0.48631239935587767+goldsteinscale0.595+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.039473684210526314+news_keywords+['sanctions:0.5552', 'putins:0.4546', 'moscow:0.4239', 'oligarch:0.4153', 'rusagro:0.3531', 'government:0.3194', 'eu:0.2395', 'invasion:0.2287', 'gazprom:0.2131', 'forbes:0.2114', 'report:0.2046', 'seize:0.1968', 'list:0.1631', 'rule:0.1527', 'pipe:0.1501', 'hiton:0.1485', 'begin:0.1469', 'invest:0.1399', 'aluminium:0.1383', 'port:0.1336', 'estimate:0.1306', 'head:0.1282', 'quite:0.1242', 'forget:0.123', 'today:0.1186', 'ufg:0.1167', 'big:0.116', 'meaning:0.1152', 'supervisory:0.1148', 'oao:0.1147']+titles_keywords+['sanctions:0.5631', 'russia:0.3588', 'uk:0.2334', 'hit:0.1537', 'latest:0.138']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/newsandstar.co.uk/William visits MI6 ahead of Russias invasion of Ukraine.txt+eventbasecode42+eventcode42+avgtone0.5178571428571429+goldsteinscale0.595+nummentions0.1444121915820029+numarticles0.145032632342277+numsources0.16447368421052633+news_keywords+['gchq:0.4952', 'whitehall:0.4274', 'william:0.3506', 'security:0.3383', 'agency:0.3161', 'visit:0.2825', 'russias:0.2819', 'uk:0.2817', 'invasion:0.2745', 'intelligence:0.2671', 'private:0.2539', 'privilege:0.2379', 'throne:0.2377', 'diary:0.2244', 'important:0.2223', 'ahead:0.2005', 'duke:0.1959', 'wednesday:0.1726', 'hour:0.151', 'misuse:0.1475', 'head:0.1405', 'moore:0.1396', 'number:0.1295', 'background:0.1204', 'case:0.1201', 'engage:0.1166', 'say:0.1133', 'second:0.1043', 'learn:0.0963', 'debate:0.0911']+titles_keywords+['mi6:0.5131', 'ukraine:0.3076', 'william:0.291', 'invasion:0.274', 'ahead:0.1281']"
+        ]
+    ],
+    "WST+RUS+42":[
+        [
+            "20220818+../news_crawling/RUS_UKR/p_articles/newsandstar.co.uk/Russia deploys hypersonic missiles to Baltic enclave.txt+eventbasecode42+eventcode42+avgtone0.5+goldsteinscale0.595+nummentions0.20391872278664733+numarticles0.20449601160261058+numsources0.23684210526315788+news_keywords+['natos:0.5146', 'kremlin:0.4746', 'missiles:0.441', 'kaliningrads:0.4392', 'russia:0.4143', 'moscows:0.3975', 'chkalovsk:0.3354', 'war:0.3244', 'airspace:0.3035', 'threat:0.3021', 'nuclear:0.2948', 'deploy:0.29', 'ivan:0.2749', 'proceed:0.2362', 'hypersonic:0.2318', 'rhetoric:0.227', 'mig:0.2185', 'forefront:0.2048', 'emphasise:0.1869', 'thursday:0.1509', 'target:0.1427', 'iskander:0.1312', 'state:0.122', 'additional:0.1156', 'isnt:0.1121', 'porvoo:0.0977', 'make:0.0877', 'mile:0.083', 'reader:0.0824', 'set:0.0634']+titles_keywords+['missiles:0.4298', 'baltic:0.4018', 'hypersonic:0.381', 'deploys:0.1923', 'enclave:0.1459']"
+        ]
+    ]
+}

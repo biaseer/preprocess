@@ -1,0 +1,17 @@
+{
+    "BLR+UKR+46":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/mediaite.com/CNN Interviews Zelensky From a Bunker Ukraine Leader Expresses Hope for Talks Maybe Russia is.txt+eventbasecode46+eventcode46+avgtone0.49311926605504586+goldsteinscale0.85+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4498', 'zelensky:0.4184', 'diplomacy:0.374', 'correspondent:0.2836', 'volodymyr:0.2405', 'talk:0.2236', 'fight:0.2144', 'cnn:0.2122', 'president:0.2118', 'worldwatches:0.1914', 'prospect:0.1847', 'ready:0.1708', 'invasion:0.1673', 'military:0.1624', 'know:0.1579', 'interviews:0.1399', 'bunker:0.1394', 'continue:0.1251', 'round:0.105', 'monday:0.105', 'thissituation:0.1019', 'hold:0.0979', 'everybody:0.0913', 'amid:0.0835', 'unlikely:0.0778', 'second:0.0774', 'time:0.0721', 'theyre:0.0428', 'decidedto:0.0034', 'waste:-0.0137']+titles_keywords+['zelensky:0.4813', 'ukraine:0.3569', 'talks:0.2214', 'hope:0.213', 'ready:0.117']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/mediaite.com/Russia Claims it Will Reduce Military Action Around Kyiv Chernihiv Amid Negotiations With Ukraine.txt+eventbasecode46+eventcode46+avgtone0.49817518248175185+goldsteinscale0.85+nummentions0.00544267053701016+numarticles0.006163886874546773+numsources0.006578947368421052+news_keywords+['kyiv:0.5273', 'ceasefire:0.3726', 'russias:0.3486', 'chernihiv:0.3112', 'negotiation:0.3025', 'military:0.2478', 'invasion:0.233', 'nuclear:0.2288', 'prepare:0.1928', 'agreement:0.1882', 'hold:0.1629', 'activity:0.1613', 'region:0.1548', 'reduce:0.1472', 'implication:0.1386', 'begin:0.1332', 'order:0.1304', 'report:0.1298', 'note:0.1237', 'say:0.1217', 'congresswoman:0.1152', 'goal:0.1145', 'continuous:0.1007', 'fact:0.0964', 'official:0.0892', 'berman:0.0841', 'fomin:0.0773', 'month:0.0733', 'array:0.0119', 'havent:-0.0047']+titles_keywords+['kyiv:0.4638', 'reduce:0.2874', 'negotiations:0.1936', 'military:0.1422', 'amid:-0.0247']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/mediaite.com/MSNBCs Malcolm NanceTells Dean Obeidallah People Like Tucker Carlson Historically Would Have Supported Adolf Hitler.txt+eventbasecode46+eventcode46+avgtone0.4820627802690583+goldsteinscale0.85+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5373', 'msnbcs:0.3383', 'nazis:0.3191', 'traitorous:0.3137', 'democracyand:0.3129', 'undermine:0.3066', 'attack:0.2519', 'tucker:0.2503', 'suspect:0.2376', 'caucasian:0.2056', 'column:0.2017', 'porky:0.1848', 'supported:0.1805', 'neighbor:0.1748', 'echo:0.1747', 'equate:0.1723', 'want:0.1557', 'crush:0.1537', 'look:0.1462', 'know:0.1425', 'nancetold:0.1341', 'abouttherussia:0.1331', 'end:0.1277', 'run:0.1266', 'mr:0.1249', 'recent:0.124', 'control:0.119', 'theyre:0.1125', 'january:0.081', 'likely:0.0596']+titles_keywords+['msnbcs:0.4662', 'malcolm:0.3664', 'adolf:0.3461', 'dean:0.2494', 'nancetells:0.2008']"
+        ]
+    ]
+}

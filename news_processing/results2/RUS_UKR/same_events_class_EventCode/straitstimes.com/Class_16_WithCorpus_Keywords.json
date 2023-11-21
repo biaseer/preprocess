@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+16":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Russian foreign minister Lavrov denies Putin is ill.txt+eventbasecode16+eventcode16+avgtone0.4650537634408602+goldsteinscale0.4+nummentions0.07293178519593614+numarticles0.043509789702683106+numsources0.06578947368421052+news_keywords+['putin:0.5886', 'moscow:0.4235', 'lavrov:0.4167', 'diplomat:0.2884', 'appear:0.2369', 'ailment:0.2345', 'deny:0.2277', 'sanction:0.2039', 'war:0.196', 'france:0.1945', 'speech:0.1921', 'sign:0.1896', 'read:0.1808', 'crisis:0.1735', 'speculation:0.1714', 'sane:0.1697', 'offensive:0.1641', 'afp:0.145', 'world:0.1431', 'mr:0.1403', 'public:0.1244', 'turn:0.1239', 'person:0.1198', 'point:0.1132', 'feb:0.1121', 'big:0.1065', 'kind:0.105', 'tf:0.1011', 'decade:0.0811', 'send:0.0743']+titles_keywords+['lavrov:0.4789', 'putin:0.3888', 'denies:0.1499', 'foreign:0.077', 'ill:0.0683']"
+        ]
+    ],
+    "RUS+UKR+16":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Ukraine Crisis Bidens first salvo of Russia sanctions hits with thud not roar.txt+eventbasecode16+eventcode16+avgtone0.4613702623906705+goldsteinscale0.4+nummentions0.02576197387518142+numarticles0.026468455402465556+numsources0.02631578947368421+news_keywords+['putin:0.4987', 'crimea:0.4372', 'appeasement:0.4371', 'nato:0.4111', 'sanction:0.3978', 'diplomatic:0.3693', 'invade:0.3262', 'economy:0.3152', 'crisis:0.2906', 'salvo:0.2583', 'relations:0.2508', 'adviser:0.2423', 'promsvyazbank:0.2384', 'prepare:0.2264', 'hawkish:0.2236', 'argue:0.222', 'halt:0.2151', 'region:0.213', 'know:0.1981', 'coordination:0.1941', 'pipeline:0.1887', 'proceeds:0.1853', 'monday:0.1834', 'evaluate:0.1818', 'breakaway:0.1791', 'bidens:0.1678', 'solidify:0.1526', 'long:0.1525', 'like:0.1447', 'significant:0.1353']+titles_keywords+['sanctions:0.4374', 'ukraine:0.3995', 'salvo:0.3475', 'thud:0.321', 'bidens:0.153']"
+        ]
+    ]
+}

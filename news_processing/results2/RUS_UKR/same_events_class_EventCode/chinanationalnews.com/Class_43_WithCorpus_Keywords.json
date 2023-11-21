@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+43":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/chinanationalnews.com/Nobel Prize to be sold by Russian to raise money for Ukrainians.txt+eventbasecode43+eventcode43+avgtone0.5+goldsteinscale0.64+nummentions0.261611030478955+numarticles0.2621464829586657+numsources0.29605263157894735+news_keywords+['nobel:0.5041', 'refugees:0.404', 'humanitarian:0.3909', 'ukrainians:0.384', 'dmitry:0.3665', 'moscow:0.3664', 'muratov:0.3508', 'prize:0.3117', 'medal:0.3053', 'reuters:0.3004', 'peace:0.2592', 'maria:0.2378', 'money:0.2115', 'philippines:0.2113', 'thousand:0.208', 'fund:0.208', 'announce:0.1972', 'world:0.1921', 'report:0.1839', 'famous:0.1792', 'ressa:0.1682', 'fled:0.163', 'sell:0.1604', 'respond:0.1419', 'paper:0.1327', 'note:0.1098', 'displace:0.1066', 'decide:0.0834', 'attend:0.0829', 'corridor:0.0547']+titles_keywords+['nobel:0.4904', 'ukrainians:0.4286', 'prize:0.3626', 'money:0.2698', 'sold:0.1599']"
+        ],
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/chinanationalnews.com/NATO Ukraine arms convoys are legitimate targets Russia.txt+eventbasecode43+eventcode43+avgtone0.48050682261208577+goldsteinscale0.64+nummentions0.017779390420899856+numarticles0.01849166062364032+numsources0.019736842105263157+news_keywords+['ukraine:0.5075', 'nato:0.4975', 'militaristic:0.3835', 'treaty:0.3473', 'war:0.3166', 'propaganda:0.2986', 'unprovoked:0.2745', 'convoy:0.265', 'ryabkov:0.2399', 'protocol:0.2359', 'weapon:0.2251', 'concern:0.2155', 'surrender:0.2093', 'achieve:0.199', 'cite:0.1968', 'breakaway:0.194', 'neutral:0.1885', 'term:0.1771', 'stabilize:0.1729', 'agreement:0.1721', 'explain:0.1639', 'ally:0.1639', 'position:0.1632', 'sanction:0.1603', 'contrary:0.1444', 'long:0.1409', 'plan:0.1385', 'follow:0.137', 'donbass:0.1241', 'add:0.0443']+titles_keywords+['nato:0.5156', 'ukraine:0.4403', 'convoys:0.4077', 'targets:0.3069', 'legitimate:0.2707']"
+        ]
+    ]
+}

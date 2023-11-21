@@ -1,0 +1,20 @@
+{
+    "RUS+UKR+30":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/US should formally recognize Taiwan as a country to stop Chinas egomaniacal President Xi seizing.txt+eventbasecode30+eventcode30+avgtone0.4896884598508117+goldsteinscale0.7+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.009868421052631578+news_keywords+['taiwan:0.4961', 'diplomatic:0.3511', 'republic:0.3027', 'taipower:0.2879', 'ukrainecould:0.2792', 'reuters:0.2791', 'occur:0.2543', 'states:0.2497', 'takeover:0.2418', 'dispatch:0.24', 'donald:0.2369', 'th:0.2346', 'claim:0.2235', 'capital:0.223', 'sanction:0.2223', 'complacent:0.2214', 'shortly:0.2141', 'medal:0.2034', 'organize:0.202', 'approve:0.2007', 'solidify:0.1847', 'pompeo:0.1824', 'stop:0.1766', 'day:0.1715', 'respectively:0.1661', 'feature:0.164', 'airbases:0.1495', 'plant:0.1484', 'andan:0.1219', 'enjoy:0.1101']+titles_keywords+['taiwan:0.4667', 'pompeo:0.2017', 'president:0.1533', 'takeover:0.137', 'stop:0.1291']"
+        ],
+        [
+            "20220813+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/Ukraine says it has taken out vital bridge in Kherson region leaving thousands of Russian.txt+eventbasecode30+eventcode30+avgtone0.4850340136054422+goldsteinscale0.7+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['crimea:0.4882', 'oblast:0.4324', 'putin:0.3361', 'annexed:0.3114', 'occupy:0.2427', 'propaganda:0.2164', 'operation:0.2057', 'reclaim:0.1993', 'seizing:0.1851', 'bridgeon:0.1836', 'defend:0.1832', 'establish:0.1767', 'zelensky:0.1751', 'lucrative:0.1692', 'hydroelectric:0.1657', 'capital:0.1654', 'update:0.1629', 'regional:0.1621', 'capability:0.1603', 'immediately:0.1496', 'damage:0.1469', 'turn:0.1391', 'stockpile:0.1387', 'report:0.1357', 'roadway:0.1318', 'long:0.1292', 'nova:0.1282', 'significant:0.1277', 'fall:0.076', 'cause:0.0637']+titles_keywords+['ukraine:0.3926', 'bridge:0.3179', 'kherson:0.2745', 'leaving:0.1658', 'thousands:0.1161']"
+        ]
+    ],
+    "UKR+RUS+30":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/Company boss buys 100000 threebedroom home so a Ukrainian mother and her three boys aged.txt+eventbasecode30+eventcode30+avgtone0.49339933993399343+goldsteinscale0.7+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.003289473684210526+news_keywords+['refugee:0.4783', 'ukraine:0.4376', 'annex:0.3773', 'invasion:0.3474', 'flee:0.3402', 'house:0.3042', 'realise:0.2937', 'wrexham:0.2925', 'help:0.2836', 'community:0.275', 'convert:0.2671', 'buy:0.2619', 'work:0.2489', 'jamie:0.2419', 'bomb:0.2399', 'live:0.221', 'mum:0.2207', 'make:0.2092', 'group:0.2044', 'million:0.1954', 'simkins:0.1952', 'lack:0.1941', 'privacy:0.1898', 'hop:0.1882', 'look:0.184', 'boy:0.1804', 'free:0.1773', 'long:0.166', 'welcome:0.1368', 'year:0.1235']+titles_keywords+['ukrainian:0.3049', 'threebedroom:0.2592', 'boss:0.2212', 'free:0.1634', 'buys:0.1171']"
+        ]
+    ],
+    "WST+RUS+30":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/dailymail.co.uk/Britain tells Ukraine not to back down from bully Putin amid fears US France and.txt+eventbasecode30+eventcode30+avgtone0.4817193675889328+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4902', 'ceasefire:0.4304', 'kremlin:0.4225', 'nato:0.4021', 'militarily:0.3677', 'erdogan:0.3326', 'zelensky:0.293', 'attack:0.2507', 'telegraph:0.2375', 'redeployed:0.2343', 'talk:0.2329', 'annex:0.2322', 'know:0.2188', 'soon:0.2044', 'safe:0.2041', 'continue:0.2027', 'assistance:0.2019', 'prepare:0.2016', 'situation:0.1986', 'order:0.1958', 'reactor:0.195', 'aforementioned:0.176', 'general:0.1753', 'supervise:0.1673', 'overwhelm:0.1607', 'donbas:0.1422', 'feign:0.1253', 'focus:0.1188', 'entirely:0.1066', 'cohesion:0.0791']+titles_keywords+['ukraine:0.5012', 'zelensky:0.3198', 'bully:0.2173', 'deal:0.1334', 'forces:0.1107']"
+        ]
+    ]
+}

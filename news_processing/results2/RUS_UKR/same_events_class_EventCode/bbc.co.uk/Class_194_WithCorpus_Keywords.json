@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220626+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine roundup Conflict overshadows G7 summit.txt+eventbasecode194+eventcode194+avgtone0.4842007434944238+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['ukraine:0.5683', 'war:0.3543', 'diplomatic:0.3359', 'correspondent:0.2881', 'crisis:0.2627', 'policymakers:0.2623', 'capital:0.2277', 'industrial:0.2081', 'sanction:0.2057', 'geneva:0.2055', 'gather:0.2032', 'boris:0.191', 'busy:0.19', 'report:0.1845', 'orchestra:0.1759', 'roundup:0.1687', 'isolate:0.1677', 'glastonbury:0.1635', 'prepare:0.1555', 'gouge:0.1553', 'point:0.1454', 'say:0.1414', 'storey:0.1395', 'cross:0.1363', 'icrc:0.1306', 'extend:0.1304', 'promise:0.1303', 'long:0.1092', 'list:0.1036', 'loved:0.0486']+titles_keywords+['ukraine:0.3806', 'conflict:0.3749', 'g7:0.2594', 'summit:0.2386', 'overshadows:0.1964']"
+        ]
+    ],
+    "UKR+RUS+194":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine war Russia says US adding fuel to fire by sending longerrange rockets.txt+eventbasecode194+eventcode194+avgtone0.48650927487352447+goldsteinscale0.0+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['ukraine:0.4825', 'kremlin:0.3908', 'war:0.3602', 'artillery:0.3361', 'logistics:0.2845', 'diplomatic:0.2802', 'tank:0.28', 'territory:0.2672', 'zelensky:0.228', 'news:0.2272', 'intensify:0.2199', 'position:0.2174', 'help:0.197', 'longerrange:0.1832', 'promise:0.1799', 'write:0.1786', 'approve:0.1772', 'control:0.1698', 'th:0.167', 'donbas:0.1643', 'accuse:0.1638', 'precisely:0.1502', 'include:0.1473', 'plant:0.1468', 'current:0.1406', 'look:0.1345', 'biden:0.1295', 'resume:0.1249', 'late:0.116', 'entire:0.1126']+titles_keywords+['ukraine:0.4005', 'fuel:0.2984', 'longerrange:0.2091', 'says:0.0533', 'sending:0.0366']"
+        ],
+        [
+            "20220714+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine war 23 killed in Russian rocket attack on Vinnytsia.txt+eventbasecode194+eventcode194+avgtone0.438871473354232+goldsteinscale0.0+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.01644736842105263+news_keywords+['ukraine:0.5049', 'terrorism:0.4261', 'frontlines:0.315', 'humanitarian:0.2944', 'vinnytsia:0.2862', 'missile:0.2823', 'blood:0.2596', 'fight:0.2514', 'atrocity:0.2504', 'warn:0.2442', 'officers:0.2355', 'ahead:0.2351', 'live:0.2321', 'world:0.2288', 'tribunal:0.2271', 'zelensky:0.2223', 'town:0.2217', 'like:0.2079', 'affair:0.2047', 'civilise:0.2032', 'child:0.184', 'end:0.1817', 'smear:0.1735', 'dmytro:0.1711', 'return:0.1679', 'toll:0.1462', 'long:0.1355', 'gmt:0.1351', 'reposted:0.1276', 'anytime:0.0516']+titles_keywords+['ukraine:0.3893', 'vinnytsia:0.3356', '23:0.2404', 'rocket:0.1966', 'killed:0.196']"
+        ]
+    ]
+}

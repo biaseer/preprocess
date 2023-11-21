@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+13":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/chicagotribune.com/Satellite photos show possible mass graves near Mariupol as Russia attacks in eastern Ukraine.txt+eventbasecode13+eventcode13+avgtone0.46613995485327314+goldsteinscale0.52+nummentions0.11357039187227866+numarticles0.11421319796954314+numsources0.41776315789473684+news_keywords+['crimean:0.4993', 'kremlin:0.4854', 'moscows:0.4329', 'evacuate:0.3266', 'war:0.3143', 'chernov:0.2701', 'medinsky:0.2595', 'casualty:0.2549', 'mstyslav:0.2407', 'petro:0.2333', 'industrial:0.2205', 'diplomat:0.2088', 'sprawl:0.2047', 'pentagons:0.1987', 'report:0.1977', 'transnistria:0.1976', 'near:0.192', 'satellite:0.1919', 'firefighters:0.187', 'bucha:0.1768', 'anonymity:0.1623', 'incoming:0.1606', 'morenattiap:0.1605', 'push:0.1435', 'april:0.1371', 'ap:0.1329', 'care:0.1317', 'seemingly:0.1238', 'state:0.1174', 'lengthy:0.1043']+titles_keywords+['ukraine:0.3847', 'graves:0.2504', 'mariupol:0.2294', 'photos:0.2155', 'possible:0.1335']"
+        ],
+        [
+            "20220728+../news_crawling/RUS_UKR/p_articles/chicagotribune.com/Russia attacks Kyiv area for the first time in weeks.txt+eventbasecode13+eventcode13+avgtone0.4797486033519553+goldsteinscale0.52+nummentions0.22387518142235124+numarticles0.22443799854967367+numsources0.48355263157894735+news_keywords+['kyiv:0.5566', 'ukraines:0.488', 'rus:0.4802', 'kremlin:0.459', 'vladimir:0.3954', 'territory:0.2994', 'counterattack:0.2892', 'separatist:0.2848', 'kill:0.2559', 'military:0.2536', 'commemoration:0.2487', 'terror:0.2279', 'remind:0.22', 'underway:0.2071', 'report:0.1858', 'organize:0.1836', 'supply:0.1716', 'understand:0.1703', 'intensify:0.1673', 'say:0.1594', 'telegram:0.1571', 'governor:0.1477', 'bucha:0.1388', 'bridgeover:0.1365', 'building:0.1358', 'plant:0.1315', 'hour:0.1267', 'focus:0.0991', 'july:0.0967', 'finally:0.0717']+titles_keywords+['kyiv:0.5433', 'russia:0.275', 'attacks:0.2399', 'weeks:0.1078', 'area:0.0625']"
+        ]
+    ]
+}

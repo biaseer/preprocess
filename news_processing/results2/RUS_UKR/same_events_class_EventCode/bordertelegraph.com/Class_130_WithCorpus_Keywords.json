@@ -1,0 +1,22 @@
+{
+    "EUR+RUS+130":[
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/bordertelegraph.com/Irish premier due to arrive in Kyiv for series of engagements.txt+eventbasecode130+eventcode130+avgtone0.5+goldsteinscale0.27999999999999997+nummentions0.2706821480406386+numarticles0.271211022480058+numsources0.33223684210526316+news_keywords+['kyiv:0.4334', 'ukraines:0.3892', 'ireland:0.3543', 'putin:0.3435', 'taoiseach:0.3307', 'refugee:0.2393', 'zelensky:0.2053', 'province:0.1933', 'engagements:0.1811', 'martin:0.1696', 'coveney:0.1675', 'euro:0.1607', 'troop:0.1357', 'ahead:0.1337', 'oleksii:0.1317', 'lively:0.1291', 'important:0.1221', 'debate:0.1216', 'supply:0.1203', 'suspect:0.1119', 'ready:0.108', 'wednesday:0.108', 'neighbouring:0.1022', 'bucha:0.101', 'warn:0.085', 'withdraw:0.0844', 'way:0.0516', 'winter:0.0484', 'end:0.0265', 'track:0.0218']+titles_keywords+['kyiv:0.4147', 'arrive:0.2695', 'engagements:0.2601', 'irish:0.2316', 'premier:0.217']"
+        ]
+    ],
+    "RUS+RUS+130":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/bordertelegraph.com/Boris Johnson announcement on Ukraine today how to watch.txt+eventbasecode130+eventcode130+avgtone0.4778325123152709+goldsteinscale0.27999999999999997+nummentions0.09216255442670537+numarticles0.09282088469905729+numsources0.13157894736842105+news_keywords+['ukraine:0.4539', 'putin:0.4464', 'borisjohnson:0.3453', 'trudeau:0.32', 'visa:0.2438', 'border:0.218', 'downing:0.2033', 'attack:0.203', 'debate:0.1963', 'minpres:0.1663', 'flee:0.1479', 'announce:0.1443', 'alongside:0.1436', 'street:0.1423', 'lively:0.1421', 'sanction:0.1359', 'rutte:0.131', 'privilege:0.1304', 'watch:0.1199', 'right:0.1114', 'insist:0.1064', 'prime:0.0941', 'facebook:0.0858', 'process:0.0849', 'misuse:0.0802', 'want:0.0737', 'later:0.0636', 'thousand:0.0632', 'welcome:0.0617', 'story:0.0577']+titles_keywords+['watch:0.3749', 'ukraine:0.3668', 'boris:0.3526', 'announcement:0.3016', 'johnson:0.2417']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/bordertelegraph.com/Truss draws up hit list of oligarchs to face sanctions over Ukraine.txt+eventbasecode130+eventcode130+avgtone0.4747292418772563+goldsteinscale0.27999999999999997+nummentions0.4477503628447025+numarticles0.448150833937636+numsources0.4473684210526316+news_keywords+['putin:0.5249', 'oligarchs:0.4877', 'ukraines:0.4841', 'soviet:0.4391', 'kyiv:0.4349', 'sovereignty:0.3122', 'sanction:0.3049', 'tory:0.283', 'table:0.2634', 'telegraph:0.2628', 'unprovoked:0.2594', 'invasion:0.2589', 'abuse:0.2428', 'pursue:0.2402', 'affair:0.2307', 'secretary:0.225', 'know:0.1993', 'prepare:0.1971', 'truss:0.1834', 'hide:0.1766', 'evidence:0.1698', 'end:0.1597', 'long:0.1535', 'lively:0.1435', 'mr:0.1347', 'suggest:0.1311', 'sure:0.1273', 'world:0.1185', 'ratchet:0.118', 'wage:0.1043']+titles_keywords+['oligarchs:0.449', 'sanctions:0.419', 'truss:0.4115', 'ukraine:0.3588', 'list:0.2469']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/bordertelegraph.com/Ukraine officials come under shelling attack on front as invasion fears rise.txt+eventbasecode130+eventcode130+avgtone0.46223776223776225+goldsteinscale0.27999999999999997+nummentions0.3076923076923077+numarticles0.30819434372733867+numsources0.7203947368421053+news_keywords+['ukraine:0.4983', 'kremlin:0.4276', 'nato:0.3907', 'separatists:0.3836', 'evacuation:0.3644', 'invade:0.3621', 'battalion:0.344', 'peaceful:0.3128', 'escalation:0.2809', 'prepare:0.2739', 'border:0.2641', 'zelenskyy:0.2601', 'political:0.2572', 'justify:0.2402', 'know:0.2361', 'news:0.225', 'order:0.1964', 'trouble:0.1948', 'drill:0.1928', 'capital:0.1914', 'report:0.1849', 'secretary:0.1828', 'pull:0.1804', 'speak:0.1736', 'donbas:0.1626', 'final:0.1462', 'sure:0.1459', 'saturday:0.1346', 'focus:0.1091', 'http:0.0531']+titles_keywords+['ukraine:0.3279', 'attack:0.2758', 'fears:0.2148', 'shelling:0.1761', 'officials:0.1504']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+84":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Russians hand control of Chornobyl nuclear plant back to Ukraine IAEA says.txt+eventbasecode84+eventcode84+avgtone0.5079365079365079+goldsteinscale0.85+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraines:0.4536', 'kremlin:0.4475', 'nuclear:0.3562', 'operation:0.2958', 'troop:0.2853', 'artillery:0.2641', 'massing:0.2313', 'explanation:0.2226', 'proceed:0.2218', 'turn:0.2211', 'control:0.2188', 'zelenzky:0.2155', 'occupy:0.2138', 'supply:0.2057', 'iaea:0.1639', 'border:0.163', 'synchronizing:0.1535', 'read:0.1512', 'report:0.1377', 'vulnerable:0.1347', 'refocus:0.1337', 'long:0.1282', 'zone:0.1157', 'feb:0.084', 'reinstall:0.0722', 'dont:0.0712', 'theyd:0.0694', 'yes:0.0533', 'add:0.0491', 'numerically:0.0481']+titles_keywords+['ukraine:0.3793', 'chornobyl:0.3681', 'nuclear:0.3323', 'control:0.1879', 'says:0.0281']"
+        ]
+    ],
+    "UKR+RUS+84":[
+        [
+            "20220317+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Ukraine mayor abducted by Russian troops released from captivity officials say.txt+eventbasecode84+eventcode84+avgtone0.46153846153846134+goldsteinscale0.85+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.5376', 'putin:0.4547', 'zelenskyy:0.3289', 'fedorov:0.3239', 'troop:0.2935', 'news:0.2913', 'captured:0.2541', 'tymoshenko:0.2541', 'crisis:0.2531', 'yermak:0.2464', 'operation:0.2455', 'mayor:0.2431', 'parliament:0.23', 'telegram:0.2204', 'march:0.2168', 'video:0.1848', 'longer:0.1521', 'kyrylo:0.1384', 'speak:0.1373', 'plastic:0.1356', 'promise:0.1355', 'big:0.1283', 'love:0.1226', 'complete:0.1088', 'free:0.1066', 'building:0.0986', 'relative:0.0923', 'head:0.0922', 'trade:0.0854', 'really:0.0766']+titles_keywords+['ukraine:0.3424', 'abducted:0.337', 'mayor:0.2913', 'troops:0.1417', 'say:-0.0364']"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+194":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/For Jews fleeing Ukraine Passover takes on new meaning.txt+eventbasecode194+eventcode194+avgtone0.500831255195345+goldsteinscale0.0+nummentions0.018867924528301886+numarticles0.019579405366207395+numsources0.019736842105263157+news_keywords+['passover:0.5352', 'seders:0.4257', 'refugees:0.4049', 'israel:0.3937', 'ukrainian:0.3894', 'hasidic:0.3452', 'rebbe:0.2998', 'evacuate:0.2937', 'massacre:0.2768', 'community:0.263', 'volunteer:0.2395', 'distribute:0.2394', 'overcome:0.2293', 'participant:0.2266', 'yehuda:0.2117', 'shortage:0.2062', 'say:0.2037', 'happy:0.1966', 'federations:0.1962', 'miss:0.1882', 'turn:0.1874', 'arrive:0.181', 'table:0.1807', 'rekindle:0.1784', 'include:0.1681', 'th:0.1579', 'meaning:0.1413', 'night:0.1401', 'welcome:0.1103', 'spaulding:0.0967']+titles_keywords+['passover:0.5893', 'jews:0.421', 'ukraine:0.3616', 'fleeing:0.2473', 'meaning:0.173']"
+        ],
+        [
+            "20220710+../news_crawling/RUS_UKR/p_articles/washingtontimes.com/Ukraine 15 dead in rocket attack on apartment building.txt+eventbasecode194+eventcode194+avgtone0.46782841823056304+goldsteinscale0.0+nummentions0.08635703918722787+numarticles0.08701957940536621+numsources0.13815789473684212+news_keywords+['kyiv:0.5097', 'russians:0.3707', 'bombardment:0.3248', 'rubble:0.2921', 'kill:0.2819', 'emergency:0.2727', 'separatist:0.2718', 'truck:0.2571', 'casualty:0.2554', 'military:0.249', 'fight:0.2315', 'region:0.2315', 'donbas:0.2169', 'structure:0.1881', 'predict:0.1842', 'regroup:0.1799', 'lysychansk:0.1779', 'governor:0.1764', 'saturday:0.1634', 'yar:0.1596', 'apartment:0.1581', 'kilometer:0.1516', 'people:0.1471', 'month:0.1409', 'toll:0.1375', 'high:0.1262', 'uragan:0.1218', 'true:0.0907', 'value:0.0812', 'include:0.078']+titles_keywords+['ukraine:0.3634', 'apartment:0.286', '15:0.2691', 'attack:0.2297', 'dead:0.1266']"
+        ]
+    ]
+}

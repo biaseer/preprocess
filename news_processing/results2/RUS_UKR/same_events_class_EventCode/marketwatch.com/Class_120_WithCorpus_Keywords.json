@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Zelensky reiterates call for peace talks as Russia appears to recalibrate the goals of its.txt+eventbasecode120+eventcode120+avgtone0.49715909090909094+goldsteinscale0.3+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['zelensky:0.5045', 'ukraine:0.4257', 'sergei:0.4169', 'russian:0.344', 'rudskoi:0.308', 'war:0.284', 'volodymyr:0.2642', 'invasion:0.2472', 'negotiate:0.2426', 'president:0.2344', 'liberation:0.2009', 'donbas:0.1969', 'talk:0.1813', 'territory:0.1732', 'end:0.1646', 'reiterate:0.1551', 'goal:0.1451', 'respond:0.138', 'sake:0.1305', 'appear:0.1218', 'focus:0.1175', 'main:0.1154', 'chief:0.1116', 'say:0.1028', 'agree:0.0859', 'friday:0.0833', 'address:0.0795', 'video:0.0481', 'gen:0.0428', 'staff:0.0254']+titles_keywords+['zelensky:0.5248', 'peace:0.2798', 'ukraine:0.2606', 'reiterates:0.2097', 'recalibrate:0.0817']"
+        ]
+    ],
+    "UKR+RUS+120":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/marketwatch.com/War in Ukraine Casualties mount as Mariupol continues to hold out from Russian siege.txt+eventbasecode120+eventcode120+avgtone0.46625290923196283+goldsteinscale0.3+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.006578947368421052+news_keywords+['ukraine:0.5955', 'lviv:0.5596', 'casualties:0.4086', 'war:0.367', 'siege:0.3105', 'surrender:0.3006', 'school:0.2625', 'cityremained:0.248', 'theater:0.2334', 'movement:0.2311', 'rubble:0.2264', 'hide:0.223', 'know:0.2174', 'resident:0.2113', 'extent:0.1918', 'apart:0.1915', 'continue:0.1876', 'uncertainty:0.1769', 'mariupols:0.1722', 'body:0.1717', 'fate:0.1589', 'hold:0.1578', 'monday:0.1524', 'number:0.1486', 'mount:0.1389', 'demand:0.1363', 'cripple:0.1239', 'earlier:0.1216', 'restrict:0.1142', 'blown:0.1041']+titles_keywords+['casualties:0.4165', 'ukraine:0.3982', 'mariupol:0.3062', 'continues:0.1634', 'mount:0.1032']"
+        ]
+    ]
+}

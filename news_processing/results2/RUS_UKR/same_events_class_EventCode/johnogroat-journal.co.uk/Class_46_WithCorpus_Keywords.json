@@ -1,0 +1,15 @@
+{
+    "EUR+UKR+46":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/johnogroat-journal.co.uk/PM Russian invasion of Ukraine would be biggest war in Europe since WWII.txt+eventbasecode46+eventcode46+avgtone0.4674681753889675+goldsteinscale0.85+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.01644736842105263+news_keywords+['putin:0.4775', 'kyiv:0.4059', 'russias:0.3974', 'war:0.3142', 'diplomatic:0.3043', 'telegraph:0.2739', 'annex:0.2709', 'separatist:0.2522', 'prepare:0.2482', 'warn:0.2471', 'incursion:0.2467', 'nuclear:0.2266', 'involve:0.2115', 'security:0.2095', 'argue:0.2034', 'instability:0.1937', 'know:0.1913', 'turn:0.1913', 'pretext:0.1883', 'translation:0.1844', 'north:0.183', 'order:0.1776', 'cabinet:0.1756', 'world:0.1516', 'saturday:0.1475', 'interference:0.1234', 'mr:0.1232', 'scale:0.1227', 'amass:0.1058', 'offer:0.0509']+titles_keywords+['ukraine:0.4087', 'invasion:0.3292', 'wwii:0.3227', 'biggest:0.2732', 'pm:0.1223']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220214+../news_crawling/RUS_UKR/p_articles/johnogroat-journal.co.uk/Johnson joins efforts to bring Putin back from the brink of war in Ukraine.txt+eventbasecode46+eventcode46+avgtone0.47298994974874375+goldsteinscale0.85+nummentions0.04716981132075472+numarticles0.047860768672951415+numsources0.10197368421052631+news_keywords+['diplomacy:0.4681', 'putin:0.4574', 'nato:0.4397', 'ukraines:0.4265', 'briefing:0.3488', 'baltic:0.3387', 'annexation:0.3188', 'escalation:0.2999', 'threaten:0.267', 'zakharova:0.2593', 'unseat:0.2407', 'secretary:0.2173', 'downing:0.214', 'volodymyr:0.2127', 'plan:0.209', 'brink:0.2058', 'remind:0.205', 'enters:0.2018', 'disastrous:0.1941', 'avoid:0.1852', 'agreement:0.182', 'opportunity:0.1761', 'sudetenland:0.1741', 'bbc:0.1655', 'distracted:0.1587', 'alongside:0.1584', 'explain:0.1398', 'week:0.1348', 'coming:0.1295', 'fabricate:0.1139']+titles_keywords+['putin:0.4276', 'johnson:0.3217', 'war:0.3', 'brink:0.1991', 'joins:0.168']"
+        ],
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/johnogroat-journal.co.uk/Johnson holds crisis meeting on Ukraine amid fears Russian invasion has begun.txt+eventbasecode46+eventcode46+avgtone0.46815834767641995+goldsteinscale0.85+nummentions0.038461538461538464+numarticles0.03915881073241479+numsources0.0625+news_keywords+['ukraine:0.4411', 'peacekeeping:0.3868', 'putins:0.3542', 'separatist:0.3048', 'government:0.2963', 'boris:0.2886', 'crisis:0.2883', 'attack:0.259', 'escalate:0.2357', 'prepare:0.2307', 'president:0.2271', 'meeting:0.2218', 'warn:0.2202', 'sanction:0.2125', 'news:0.1953', 'afraid:0.193', 'immediately:0.18', 'allow:0.171', 'volodymyr:0.1653', 'mps:0.1642', 'order:0.1609', 'cabinet:0.1544', 'know:0.1491', 'javid:0.147', 'decide:0.1415', 'woodward:0.1236', 'possibility:0.1026', 'agree:0.0941', 'outlining:0.085', 'sent:0.0099']+titles_keywords+['meeting:0.3329', 'ukraine:0.302', 'invasion:0.2297', 'johnson:0.2163', 'begun:0.1135']"
+        ]
+    ]
+}

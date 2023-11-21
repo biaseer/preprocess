@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+61":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/detroitnews.com/Zelenskyy at the UN accuses Russian military of war crimes.txt+eventbasecode61+eventcode61+avgtone0.4720754716981132+goldsteinscale0.82+nummentions0.21734397677793904+numarticles0.21791153009427122+numsources0.18092105263157895+news_keywords+['ukraine:0.458', 'kremlin:0.4491', 'zelenskyy:0.3612', 'refugee:0.3482', 'invasion:0.3444', 'kill:0.2861', 'diplomat:0.2817', 'accusationsof:0.2687', 'atrocity:0.2578', 'totalitarian:0.2529', 'fled:0.2431', 'military:0.2319', 'referendum:0.2249', 'agreement:0.2203', 'report:0.2147', 'witness:0.1961', 'prospective:0.1897', 'order:0.1798', 'reiterating:0.1635', 'month:0.1581', 'child:0.1559', 'limbs:0.1496', 'plunge:0.1487', 'bucha:0.1455', 'pullout:0.1421', 'rubble:0.1333', 'short:0.1329', 'hundreds:0.1299', 'technologies:0.1265', 'pleasure:0.0801']+titles_keywords+['zelenskyy:0.5313', 'russian:0.303', 'accuses:0.2814', 'war:0.2432', 'military:0.2012']"
+        ]
+    ],
+    "RUS+UKR+61":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/detroitnews.com/Rockefeller pushes 105M plan to produce climatefriendly food.txt+eventbasecode61+eventcode61+avgtone0.48711340206185566+goldsteinscale0.82+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['rockefeller:0.5181', 'foodcorps:0.4857', 'economy:0.3872', 'diversify:0.3625', 'executive:0.353', 'produce:0.3349', 'organization:0.3292', 'fund:0.3186', 'research:0.3171', 'nutrition:0.3094', 'monopolize:0.3057', 'advocate:0.3048', 'plan:0.3015', 'feed:0.2732', 'change:0.2719', 'table:0.2588', 'report:0.2433', 'world:0.2427', 'announcement:0.2357', 'kaiser:0.2308', 'say:0.2278', 'russias:0.2197', 'chain:0.2184', 'climatefriendly:0.2116', 'prove:0.2064', 'big:0.1816', 'connecticut:0.176', 'shah:0.1704', 'decade:0.1628', 'true:0.1353']+titles_keywords+['climatefriendly:0.404', 'rockefeller:0.4034', 'produce:0.307', 'plan:0.2399', '105m:0.0934']"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "RUS+EUR+10":[
+        [
+            "20211202+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Blinken urges Russias Lavrov to choose diplomacy on Ukraine or face high price.txt+eventbasecode10+eventcode10+avgtone0.4676470588235294+goldsteinscale0.5+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.023026315789473683+news_keywords+['diplomacy:0.4515', 'putin:0.4233', 'kiev:0.3655', 'nato:0.3527', 'separatists:0.2852', 'escalation:0.2819', 'coup:0.2275', 'rhetoric:0.2237', 'pursue:0.2205', 'align:0.2109', 'blinken:0.2075', 'exchange:0.1972', 'news:0.1795', 'exit:0.1777', 'department:0.1636', 'prepare:0.1593', 'dangerous:0.1518', 'relation:0.1473', 'thursday:0.1438', 'bilateral:0.1427', 'movement:0.1425', 'point:0.1332', 'say:0.1319', 'oust:0.1316', 'long:0.1271', 'pathway:0.1162', 'antony:0.1056', 'senior:0.0794', 'underline:0.0786', 'include:0.0735']+titles_keywords+['lavrov:0.408', 'blinken:0.3993', 'diplomacy:0.3353', 'price:0.2361', 'choose:0.1913']"
+        ]
+    ],
+    "RUS+SGP+10":[
+        [
+            "20220612+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Ukraine says it remains in control of Sievierodonetsk plant sheltering hundreds.txt+eventbasecode10+eventcode10+avgtone0.48529411764705876+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.53', 'reuters:0.3323', 'separatist:0.2885', 'invasion:0.277', 'reform:0.2607', 'sievierodonetsk:0.2536', 'military:0.2475', 'macron:0.2159', 'bloc:0.2153', 'euwould:0.2144', 'future:0.2114', 'advance:0.207', 'turn:0.2021', 'information:0.1967', 'expect:0.1959', 'unprovoked:0.1905', 'status:0.1881', 'respond:0.1877', 'ready:0.1866', 'resume:0.1771', 'fight:0.1732', 'unionexecutive:0.1692', 'include:0.1664', 'end:0.1567', 'big:0.1422', 'pavlo:0.1417', 'month:0.1359', 'plant:0.1342', 'focus:0.1242', 'agree:0.1044']+titles_keywords+['ukraine:0.4058', 'sievierodonetsk:0.3973', 'plant:0.2905', 'control:0.1743', 'hundreds:0.125']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Airlines should stop flying over all of Ukraines airspace Conflict zone monitor.txt+eventbasecode10+eventcode10+avgtone0.4733333333333334+goldsteinscale0.5+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['crimea:0.4963', 'ukrainebecause:0.389', 'putin:0.3789', 'airspace:0.345', 'airline:0.3215', 'russias:0.3156', 'reuters:0.3015', 'separatists:0.2768', 'cyberattack:0.2531', 'military:0.2517', 'traffic:0.2463', 'conflict:0.2407', 'occupy:0.2337', 'emergency:0.2187', 'safe:0.2154', 'zaporizhzhia:0.2098', 'east:0.1799', 'sanction:0.1754', 'authority:0.1745', 'repel:0.1698', 'order:0.1549', 'read:0.1456', 'begin:0.1329', 'notice:0.124', 'feb:0.1166', 'mh:0.1141', 'direct:0.1044', 'state:0.0985', 'track:0.0918', 'include:0.0856']+titles_keywords+['ukraines:0.416', 'airspace:0.3696', 'conflict:0.2086', 'stop:0.1732', 'monitor:0.1233']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220123+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Sanctioning Russia now over Ukraine would undercut deterrence Blinken.txt+eventbasecode10+eventcode10+avgtone0.4727767695099818+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4323', 'nato:0.4007', 'sanctioning:0.3397', 'invade:0.333', 'putins:0.3315', 'reuters:0.2118', 'trigger:0.2111', 'border:0.208', 'aggressive:0.204', 'economic:0.1923', 'emergency:0.1706', 'rebuff:0.1697', 'exacerbate:0.1673', 'president:0.1595', 'deter:0.144', 'prudence:0.1392', 'concern:0.1369', 'ally:0.1346', 'pipeline:0.1303', 'sueddeutsche:0.1268', 'unionprogramme:0.1163', 'measure:0.1145', 'separate:0.0825', 'agree:0.0823', 'circle:0.0782', 'big:0.0748', 'set:0.0648', 'olaf:0.0603', 'speak:0.0584', 'add:0.0553']+titles_keywords+['deterrence:0.4912', 'sanctioning:0.3775', 'ukraine:0.3254', 'blinken:0.1546', 'undercut:0.0388']"
+        ],
+        [
+            "20220716+../news_crawling/RUS_UKR/p_articles/straitstimes.com/Three killed 15 injured in missile strikes on Ukraine city of Dnipro official says.txt+eventbasecode10+eventcode10+avgtone0.4753694581280788+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['kyiv:0.545', 'missile:0.3653', 'reznychenko:0.3521', 'russians:0.349', 'military:0.2577', 'hit:0.2402', 'destruction:0.2282', 'reuters:0.219', 'street:0.1943', 'dnipro:0.1841', 'range:0.1799', 'industrial:0.179', 'strategic:0.1571', 'people:0.1511', 'write:0.1477', 'dead:0.1461', 'work:0.1459', 'regional:0.1426', 'kmh:0.1413', 'day:0.1406', 'ms:0.132', 'plant:0.1107', 'page:0.0972', 'finish:0.0962', 'governor:0.095', 'really:0.0885', 'child:0.0868', 'july:0.078', 'man:0.0483', 'add:0.0233']+titles_keywords+['dnipro:0.2976', 'missile:0.2482', 'ukraine:0.2425', 'killed:0.1811', '15:0.1788']"
+        ]
+    ]
+}

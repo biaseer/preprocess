@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+61":[
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/bruneinews.net/McDonalds sells entire Russian operation due to Ukraine war.txt+eventbasecode61+eventcode61+avgtone0.48758865248226946+goldsteinscale0.82+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.029605263157894735+news_keywords+['mcdonald:0.4615', 'moscow:0.3772', 'franchisees:0.372', 'putin:0.3532', 'crisis:0.2794', 'operate:0.2606', 'invasion:0.2166', 'food:0.2093', 'buy:0.195', 'western:0.1912', 'country:0.1844', 'humanitarian:0.1788', 'future:0.1694', 'pushkin:0.1634', 'end:0.1516', 'leave:0.1496', 'million:0.1442', 'unclear:0.1434', 'chain:0.133', 'near:0.1327', 'impossible:0.1248', 'month:0.1222', 'bring:0.1172', 'square:0.1144', 'entire:0.0841', 'longer:0.0837', 'agree:0.0814', 'cold:0.0782', 'new:0.0753', 'message:0.0515']+titles_keywords+['ukraine:0.4204', 'mcdonalds:0.3697', 'operation:0.2547', 'sells:0.2365', 'entire:0.1216']"
+        ]
+    ],
+    "UKR+RUS+61":[
+        [
+            "20220703+../news_crawling/RUS_UKR/p_articles/bruneinews.net/Moscow suspects UK of seeking to infiltrate Black Sea.txt+eventbasecode61+eventcode61+avgtone0.47409909909909914+goldsteinscale0.82+nummentions0.06531204644412192+numarticles0.06598984771573604+numsources0.14473684210526316+news_keywords+['ukraine:0.4248', 'rossiya:0.3724', 'boris:0.3027', 'government:0.293', 'divert:0.2566', 'urgent:0.2407', 'sea:0.2396', 'whitewashing:0.2367', 'allegation:0.2325', 'crisis:0.2277', 'infiltrate:0.2169', 'sense:0.19', 'rail:0.1872', 'news:0.1857', 'neoliberal:0.1844', 'block:0.1822', 'develop:0.1785', 'action:0.1751', 'leave:0.1641', 'safe:0.1634', 'possible:0.1443', 'look:0.1437', 'debate:0.142', 'clearly:0.1298', 'stock:0.1296', 'statement:0.1224', 'convulsion:0.0894', 'offer:0.0752', 'million:0.0748', 'truss:0.0709']+titles_keywords+['moscow:0.4022', 'suspects:0.2761', 'infiltrate:0.2615', 'sea:0.2222', 'black:0.1266']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+163":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/kelownadailycourier.ca/Joly warns of further sanctions against Russia as Trudeau set to leave for Europe.txt+eventbasecode163+eventcode163+avgtone0.4682080924855492+goldsteinscale0.1+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['nato:0.454', 'putin:0.4401', 'geopolitics:0.4275', 'diplomatically:0.3221', 'russian:0.3117', 'threat:0.3081', 'embassy:0.3076', 'trudeau:0.3017', 'sanction:0.2821', 'oligarchs:0.2706', 'meeting:0.2692', 'escalate:0.2487', 'prepare:0.2471', 'respond:0.2017', 'reporter:0.1943', 'reassess:0.1932', 'relay:0.1902', 'want:0.1856', 'end:0.1854', 'prevail:0.1854', 'visit:0.1815', 'thursday:0.1769', 'world:0.1751', 'vote:0.1697', 'isolate:0.1653', 'resource:0.1334', 'similar:0.1135', 'freeland:0.0788', 'total:0.0725', 'added:0.0608']+titles_keywords+['sanctions:0.4168', 'joly:0.3652', 'trudeau:0.2658', 'leave:0.1104', 'set:0.0435']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/kelownadailycourier.ca/US pledges to put Russia on defensive at UN Security Council.txt+eventbasecode163+eventcode163+avgtone0.47738951695786225+goldsteinscale0.1+nummentions0.9426705370101597+numarticles0.9427121102248006+numsources0.9243421052631579+news_keywords+['nato:0.4806', 'ukraines:0.428', 'vladimir:0.317', 'war:0.2988', 'sanction:0.2966', 'diplomatic:0.2964', 'veto:0.293', 'annex:0.2584', 'cyberattacks:0.2573', 'propaganda:0.2531', 'unify:0.246', 'flag:0.2334', 'agreement:0.2268', 'pledge:0.2114', 'behave:0.1951', 'warning:0.1914', 'table:0.1913', 'continue:0.1659', 'want:0.1504', 'explain:0.1454', 'ranking:0.1446', 'ready:0.1419', 'monday:0.14', 'state:0.1342', 'current:0.1282', 'long:0.1182', 'buildup:0.1131', 'sphere:0.0879', 'resolution:0.08', 'tass:0.0651']+titles_keywords+['russia:0.3236', 'pledges:0.307', 'defensive:0.1977', 'council:0.1893', 'security:0.1487']"
+        ]
+    ]
+}

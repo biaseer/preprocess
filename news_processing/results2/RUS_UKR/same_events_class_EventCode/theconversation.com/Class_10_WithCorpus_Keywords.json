@@ -1,0 +1,12 @@
+{
+    "FRA+UKR+10":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/theconversation.com/Putins invasion of Ukraine attacks its distinct history and reveals his imperialinstincts.txt+eventbasecode10+eventcode10+avgtone0.4975938402309913+goldsteinscale0.5+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.009868421052631578+news_keywords+['crimea:0.5189', 'ukrainians:0.4773', 'nationalist:0.4594', 'putin:0.4395', 'lenins:0.3664', 'statehood:0.3653', 'orthodox:0.3436', 'revolution:0.3385', 'ideology:0.3304', 'imperialinstincts:0.3155', 'nation:0.2841', 'establish:0.2539', 'translate:0.2293', 'cossack:0.2201', 'separate:0.2114', 'peace:0.2091', 'know:0.207', 'predate:0.2028', 'hetmanates:0.1967', 'ignore:0.1965', 'extent:0.1951', 'want:0.191', 'respondent:0.1781', 'tributary:0.1763', 'physical:0.1567', 'plunge:0.1498', 'th:0.144', 'parallels:0.1411', 'brush:0.0808', 'thank:0.0527']+titles_keywords+['putins:0.4109', 'invasion:0.4033', 'ukraine:0.4022', 'imperialinstincts:0.3703', 'history:0.3564']"
+        ]
+    ],
+    "WST+RUS+10":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/theconversation.com/Ukraine what Russia has learned about western responses from its past militarymanoeuvres.txt+eventbasecode10+eventcode10+avgtone0.4699286442405708+goldsteinscale0.5+nummentions0.32728592162554426+numarticles0.32777374909354606+numsources0.16776315789473684+news_keywords+['crimea:0.5354', 'natos:0.4581', 'kremlin:0.4386', 'russian:0.3922', 'militarymanoeuvres:0.3615', 'rearmament:0.3511', 'genocide:0.3469', 'strategic:0.2969', 'separatist:0.2884', 'conflict:0.2827', 'involvement:0.2711', 'infrastructure:0.2495', 'ossetian:0.2219', 'extend:0.2013', 'pretext:0.1979', 'achieve:0.1966', 'president:0.1705', 'ally:0.1702', 'weapon:0.1682', 'subsequent:0.1616', 'highlight:0.1517', 'conventional:0.1456', 'integrate:0.1454', 'state:0.1399', 'prepared:0.1318', 'lengths:0.1268', 'parallel:0.1234', 'number:0.1108', 'sphere:0.1051', 'unlike:0.0774']+titles_keywords+['ukraine:0.4942', 'militarymanoeuvres:0.4312', 'western:0.2047', 'responses:0.1835', 'learned:0.1712']"
+        ]
+    ]
+}

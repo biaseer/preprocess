@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/my9nj.com/RussiaUkraine war Ukrainian forces retake key Kyiv suburb as battle for Mariupol rages.txt+eventbasecode190+eventcode190+avgtone0.4729064039408867+goldsteinscale0.0+nummentions0.02467343976777939+numarticles0.025380710659898477+numsources0.03618421052631579+news_keywords+['crimea:0.5033', 'russiaukraine:0.4865', 'kremlin:0.4759', 'ukrainians:0.4186', 'nato:0.3923', 'disinformation:0.3401', 'invade:0.3339', 'separatist:0.2904', 'muratov:0.2678', 'journalist:0.2666', 'confrontational:0.2553', 'peace:0.2491', 'know:0.2358', 'capital:0.23', 'emergency:0.2244', 'hear:0.2154', 'supply:0.2126', 'blocs:0.2105', 'biden:0.2069', 'increase:0.171', 'remark:0.1652', 'relation:0.1584', 'discus:0.1572', 'fall:0.1523', 'vote:0.151', 'ready:0.1427', 'bucha:0.1374', 'step:0.1307', 'near:0.1205', 'population:0.1184']+titles_keywords+['kyiv:0.5429', 'battle:0.268', 'mariupol:0.242', 'key:0.139', 'retake:0.0813']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/my9nj.com/Antonov An225 wreckage Footage shows worlds largest plane destroyed in Ukraine.txt+eventbasecode190+eventcode190+avgtone0.4747292418772564+goldsteinscale0.0+nummentions0.04716981132075472+numarticles0.046047860768672955+numsources0.09868421052631579+news_keywords+['kyiv:0.5449', 'soviet:0.4363', 'antonov:0.419', 'wreckage:0.3385', 'plane:0.3384', 'russias:0.3372', 'bombardment:0.3153', 'casualty:0.2777', 'kill:0.2675', 'military:0.2654', 'correspondent:0.261', 'victim:0.2493', 'mriya:0.2396', 'pandemic:0.2304', 'territory:0.2292', 'atrocity:0.2188', 'report:0.2154', 'street:0.1824', 'storyful:0.1811', 'undergoing:0.1801', 'evidence:0.177', 'images:0.169', 'twitter:0.1525', 'april:0.1501', 'later:0.1496', 'bucha:0.1484', 'big:0.1415', 'originally:0.1362', 'completely:0.1326', 'new:0.0831']+titles_keywords+['wreckage:0.3717', 'antonov:0.3531', 'plane:0.3194', 'an225:0.3056', 'largest:0.3041']"
+        ]
+    ]
+}

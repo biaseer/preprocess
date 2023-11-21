@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+46":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/japantoday.com/Russia Ukraine to hold talks Moscow reportedly asks China for military and economic aid.txt+eventbasecode46+eventcode46+avgtone0.47351778656126486+goldsteinscale0.85+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4976', 'diplomacy:0.4244', 'nato:0.4116', 'separatist:0.291', 'khrushchev:0.2862', 'trump:0.2793', 'coup:0.2492', 'want:0.233', 'table:0.2272', 'pr:0.209', 'uneducated:0.2034', 'clausewitz:0.1953', 'propagate:0.1888', 'cross:0.1865', 'import:0.1856', 'forget:0.1766', 'lol:0.1764', 'idea:0.171', 'tacticool:0.1707', 'sure:0.1698', 'soon:0.1695', 'assume:0.1666', 'end:0.1636', 'afraid:0.1568', 'long:0.1515', 'roadblock:0.1414', 'compare:0.1409', 'haemorrhaging:0.1397', 'trillion:0.1304', 'true:0.0941']+titles_keywords+['ukraine:0.4259', 'talks:0.1863', 'aid:0.1409', 'military:0.126', 'hold:0.0454']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220708+../news_crawling/RUS_UKR/p_articles/japantoday.com/Putin says Ukraine is heading for tragedy Kramatorsk city prepares its defense.txt+eventbasecode46+eventcode46+avgtone0.4699029126213592+goldsteinscale0.85+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.009868421052631578+news_keywords+['ukraine:0.5378', 'bolshevik:0.4096', 'putins:0.4088', 'predict:0.2885', 'invade:0.2625', 'pulitzer:0.2491', 'strategic:0.2475', 'zelensky:0.2445', 'coup:0.2397', 'map:0.2245', 'rt:0.209', 'information:0.209', 'fight:0.1977', 'howitzers:0.1869', 'gon:0.1855', 'combine:0.1844', 'replace:0.1762', 'alarm:0.1761', 'grammar:0.1752', 'continue:0.171', 'stock:0.1588', 'unrelated:0.154', 'turning:0.1521', 'farce:0.1452', 'professional:0.1336', 'comparing:0.1334', 'youd:0.1233', 'sure:0.1211', 'longer:0.1199', 'exactly:0.1098']+titles_keywords+['ukraine:0.4092', 'kramatorsk:0.3604', 'prepares:0.2479', 'tragedy:0.2286', 'heading:0.1376']"
+        ]
+    ]
+}

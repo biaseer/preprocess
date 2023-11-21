@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/targetednews.com/White House Press Secretary Psaki Issues Statement on President Biden Briefings on Ukraine.txt+eventbasecode190+eventcode190+avgtone0.4936708860759494+goldsteinscale0.0+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.01644736842105263+news_keywords+['psaki:0.4945', 'biden:0.4208', 'briefings:0.4164', 'president:0.3216', 'ukraine:0.282', 'secretary:0.2485', 'jen:0.2151', 'update:0.2001', 'information:0.1726', 'security:0.1639', 'washington:0.1582', 'press:0.1492', 'statement:0.1424', 'situation:0.1329', 'monitor:0.1303', 'white:0.1256', 'shortly:0.1187', 'feb:0.1179', 'follow:0.1083', 'article:0.1025', 'house:0.1003', 'event:0.0998', 'mail:0.0963', 'available:0.0839', 'team:0.0815', 'form:0.0556', 'similar:0.0498', 'complete:0.0487', 'regularly:0.0377', 'fee:0.0311']+titles_keywords+['psaki:0.5286', 'briefings:0.3905', 'biden:0.3812', 'ukraine:0.2236', 'statement:0.1263']"
+        ],
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/targetednews.com/Congressional Research Service Designation of Ukraine for Temporary Protected Status Impact Other Considerations.txt+eventbasecode190+eventcode190+avgtone0.5140845070422535+goldsteinscale0.0+nummentions0.0511611030478955+numarticles0.05184916606236403+numsources0.05592105263157895+news_keywords+['ukraine:0.4583', 'immigration:0.3819', 'protected:0.3301', 'congressional:0.2919', 'attack:0.2606', 'tnsrep:0.2383', 'designation:0.2373', 'policy:0.2303', 'washington:0.2302', 'status:0.225', 'article:0.2209', 'temporary:0.2128', 'impact:0.196', 'april:0.1717', 'research:0.1603', 'update:0.144', 'wilson:0.1426', 'insight:0.1395', 'entitle:0.1348', 'launch:0.129', 'shortly:0.1133', 'santamaria:0.1083', 'attorney:0.107', 'write:0.0951', 'follow:0.0828', 'relevant:0.0761', 'jill:0.0698', 'fee:0.0638', 'mail:0.0446', 'material:0.0344']+titles_keywords+['ukraine:0.4399', 'designation:0.3305', 'protected:0.3289', 'congressional:0.2652', 'considerations:0.1839']"
+        ]
+    ]
+}

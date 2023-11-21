@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+46":[
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/wionews.com/Vladimir Putin says Russia will launch a lunar probe with ally Belarus.txt+eventbasecode46+eventcode46+avgtone0.493421052631579+goldsteinscale0.85+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.5132', 'soyuz:0.5056', 'belarus:0.4843', 'vladimir:0.4551', 'moscow:0.4532', 'russian:0.4128', 'lunar:0.3242', 'nasa:0.3221', 'probe:0.2477', 'cooperate:0.1973', 'blagoveschensk:0.1875', 'infrastructure:0.1755', 'rsv:0.1745', 'read:0.1686', 'continue:0.1642', 'bn:0.1623', 'know:0.1593', 'refer:0.1556', 'intensify:0.1413', 'successes:0.1411', 'redeploy:0.1393', 'order:0.1345', 'trip:0.1345', 'isolate:0.1298', 'panel:0.0977', 'fighting:0.0907', 'week:0.0885', 'certainly:0.0787', 'far:0.0756', 'impossible:0.0528']+titles_keywords+['putin:0.4534', 'belarus:0.3891', 'lunar:0.3', 'probe:0.2177', 'says:0.008']"
+        ]
+    ],
+    "RUS+USA+46":[
+        [
+            "20220122+../news_crawling/RUS_UKR/p_articles/wionews.com/In Delhi German Navy chief bats for good ties with Russia to rein in China.txt+eventbasecode46+eventcode46+avgtone0.5+goldsteinscale0.85+nummentions0.18396226415094338+numarticles0.1845540246555475+numsources0.3684210526315789+news_keywords+['nato:0.4559', 'putin:0.4246', 'moscow:0.368', 'diplomatically:0.2785', 'borderswith:0.2498', 'chinaespecially:0.249', 'olympics:0.2177', 'invasion:0.2135', 'coincide:0.2008', 'pushback:0.1944', 'westward:0.1937', 'know:0.1926', 'german:0.1882', 'explain:0.187', 'president:0.1811', 'port:0.1794', 'remark:0.1783', 'concernover:0.1761', 'indo:0.1755', 'cite:0.172', 'come:0.1675', 'nonsense:0.1571', 'result:0.1551', 'buy:0.137', 'robotics:0.1319', 'regionby:0.1265', 'state:0.1242', 'deteriorate:0.1112', 'level:0.1096', 'month:0.1061']+titles_keywords+['nato:0.4643', 'german:0.1946', 'delhi:0.1287', 'chief:0.1225', 'says:0.0823']"
+        ]
+    ]
+}

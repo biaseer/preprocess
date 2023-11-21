@@ -1,0 +1,17 @@
+{
+    "GBR+UKR+10":[
+        [
+            "20220422+../news_crawling/RUS_UKR/p_articles/hngn.com/Russian Army Liberates Kherson City from NeoNazis Mocks Kyiv by Raising SovietEra Flag.txt+eventbasecode10+eventcode10+avgtone0.4818339100346021+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5145', 'crimea:0.4997', 'ukrainians:0.4264', 'nationalist:0.3616', 'putin:0.3544', 'propaganda:0.3494', 'hostilities:0.3457', 'victory:0.3008', 'casualties:0.2938', 'occupy:0.2789', 'troop:0.2756', 'zelensky:0.2642', 'escalate:0.2312', 'oppose:0.2301', 'continue:0.2098', 'update:0.208', 'consolidate:0.2065', 'soon:0.1938', 'clarifying:0.1874', 'citedajansev:0.1816', 'want:0.1756', 'furthermore:0.1731', 'donbas:0.1683', 'logistic:0.1645', 'control:0.1582', 'states:0.1562', 'video:0.1465', 'major:0.1385', 'crimson:0.1318', 'marks:0.1106']+titles_keywords+['kyiv:0.5439', 'sovietera:0.4233', 'kherson:0.3437', 'liberates:0.2568', 'flag:0.1986']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/hngn.com/Moscow Reports Ukraine NeoNazis Uses Civilians as Human Shields in Donetsk and Lugansk Republics After.txt+eventbasecode10+eventcode10+avgtone0.4764595103578154+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['moscow:0.4776', 'ukrainian:0.4466', 'evacuation:0.3674', 'kadyrov:0.3668', 'chechen:0.3527', 'paramilitary:0.3286', 'pentagon:0.3138', 'territories:0.3114', 'missiles:0.3109', 'novoekonomicheskoye:0.305', 'neonazis:0.2839', 'azov:0.2831', 'battle:0.2434', 'information:0.2337', 'kindergarten:0.2301', 'read:0.2282', 'presidency:0.2213', 'article:0.2211', 'convention:0.21', 'report:0.2037', 'col:0.1987', 'people:0.1917', 'denials:0.1834', 'jazeera:0.1784', 'transform:0.1732', 'important:0.1659', 'dpr:0.1438', 'like:0.1436', 'richer:0.1151', 'large:0.1063']+titles_keywords+['civilians:0.4594', 'donetsk:0.4543', 'neonazis:0.3941', 'shields:0.2097', 'mariupol:0.154']"
+        ]
+    ],
+    "RUS+USA+10":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/hngn.com/White House Confirms Ukraine Is Beating Pushing Russia Back Ambassador Warns About Dangerous US Provocation.txt+eventbasecode10+eventcode10+avgtone0.4748784440842788+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4659', 'putin:0.4246', 'military:0.3493', 'federation:0.3118', 'governor:0.2761', 'incursion:0.2667', 'strategic:0.2653', 'cnnreported:0.2445', 'dvornikov:0.2443', 'suspect:0.2421', 'embattled:0.2371', 'reorganize:0.2219', 'fight:0.2095', 'enforcement:0.2072', 'read:0.2066', 'newsweek:0.2026', 'worry:0.1995', 'aid:0.1992', 'announce:0.1974', 'anonymity:0.1753', 'falsify:0.1627', 'bucha:0.1451', 'grade:0.1444', 'equipment:0.1404', 'increased:0.1318', 'confirms:0.1301', 'sullivan:0.1281', 'like:0.1157', 'difference:0.1078', 'firsthand:0.0513']+titles_keywords+['ukraine:0.407', 'provocation:0.2842', 'ambassador:0.2209', 'white:0.1705', 'confirms:0.0814']"
+        ]
+    ]
+}

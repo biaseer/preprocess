@@ -1,0 +1,13 @@
+{
+    "EUR+RUS+1312":[
+        [
+            "20220412+../news_crawling/RUS_UKR/p_articles/msn.com/EquilibriumSustainability Penguins faltering on Antarcticas west coast.txt+eventbasecode131+eventcode1312+avgtone0.47244897959183674+goldsteinscale0.21000000000000002+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['antarcticas:0.4558', 'climate:0.4396', 'russia:0.4234', 'importsfromrussia:0.4093', 'economic:0.3654', 'usda:0.3562', 'fukushima:0.3187', 'narendra:0.2701', 'krill:0.268', 'chinasmeat:0.2578', 'exchange:0.2391', 'warm:0.2355', 'global:0.235', 'januaryover:0.2163', 'trend:0.1988', 'newsletter:0.1898', 'acknowledge:0.1843', 'toincrease:0.177', 'plan:0.1702', 'hillssustainability:0.1699', 'sanction:0.1675', 'respectively:0.1655', 'study:0.1628', 'end:0.1615', 'replace:0.1559', 'quick:0.1505', 'abnormally:0.1299', 'capacityhas:0.1102', 'define:0.0868', 'doesnt:0.0533']+titles_keywords+['penguins:0.4952', 'antarcticas:0.4301', 'equilibriumsustainability:0.4029', 'faltering:0.2266', 'west:0.1522']"
+        ],
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/msn.com/Russia Is Still Winning the Energy War.txt+eventbasecode131+eventcode1312+avgtone0.4821834723275209+goldsteinscale0.21000000000000002+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4546', 'ukraines:0.4132', 'embargo:0.3773', 'diplomacy:0.3615', 'invade:0.2933', 'europe:0.2752', 'gazprom:0.2661', 'power:0.2493', 'weaponize:0.2483', 'timeline:0.2413', 'coal:0.2363', 'refinery:0.2171', 'oppose:0.2017', 'reaction:0.201', 'april:0.1926', 'continue:0.1715', 'theoretical:0.1673', 'clausewitz:0.1665', 'term:0.1657', 'thaw:0.1602', 'gamble:0.1597', 'dependency:0.1536', 'bash:0.1521', 'examples:0.1427', 'long:0.1372', 'upper:0.127', 'lesson:0.1239', 'state:0.1194', 'bad:0.1155', 'insecure:0.0992']+titles_keywords+['russia:0.4366', 'war:0.3304', 'winning:0.3044', 'energy:0.3003']"
+        ]
+    ],
+    "UKR+RUS+1312":[
+        []
+    ]
+}

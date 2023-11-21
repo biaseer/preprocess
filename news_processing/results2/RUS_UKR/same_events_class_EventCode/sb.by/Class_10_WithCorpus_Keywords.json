@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220521+../news_crawling/RUS_UKR/p_articles/sb.by/US studied Ebola and smallpox viruses in Ukraine Russian Duma Deputy Chairperson says.txt+eventbasecode10+eventcode10+avgtone0.49534883720930234+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['pathogen:0.5463', 'smallpox:0.5185', 'ebola:0.4953', 'virus:0.4037', 'endemicity:0.3358', 'ukrainian:0.314', 'russias:0.3102', 'laboratories:0.2793', 'biological:0.2655', 'investigation:0.2121', 'yarovaya:0.2032', 'territorial:0.1765', 'department:0.1568', 'report:0.14', 'data:0.1349', 'study:0.1136', 'ms:0.1058', 'parliamentary:0.1011', 'implement:0.0996', 'th:0.0989', 'add:0.0925', 'manipulation:0.0872', 'make:0.0732', 'face:0.0595', 'people:0.0565', 'statement:0.0563', 'state:0.0533', 'basis:0.0348', 'far:-0.0032', 'absolutely:-0.0054']+titles_keywords+['ebola:0.4663', 'viruses:0.3599', 'russian:0.3392', 'duma:0.2471', 'says:0.0112']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220614+../news_crawling/RUS_UKR/p_articles/sb.by/Zaporozhye Regions authorities report on three biolabs in the area.txt+eventbasecode10+eventcode10+avgtone0.5099009900990099+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4152', 'biolabs:0.4015', 'zaporozhye:0.3637', 'laboratory:0.3341', 'biological:0.3105', 'evacuation:0.2952', 'russias:0.2806', 'vladimir:0.2562', 'military:0.1563', 'regions:0.1559', 'rogov:0.1356', 'territory:0.1276', 'report:0.117', 'operation:0.106', 'western:0.0975', 'equipment:0.0828', 'launch:0.0818', 'inform:0.0716', 'organise:0.0648', 'special:0.0543', 'main:0.0533', 'states:0.0519', 'authority:0.0484', 'area:0.0408', 'primarily:0.0375', 'control:0.0359', 'according:-0.0023', 'tass:-0.0058', 'member:-0.0346', 'united:-0.0381']+titles_keywords+['zaporozhye:0.5147', 'biolabs:0.41', 'regions:0.2132', 'authorities:0.1286', 'report:0.0821']"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/cleantechnica.com/Elon Musks Starlink Is Helping Ukraine Stay Connected.txt+eventbasecode12+eventcode12+avgtone0.4901960784313726+goldsteinscale0.48+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4675', 'spacexstarlink:0.4218', 'cyberattacks:0.3536', 'viasat:0.335', 'musk:0.3211', 'outage:0.3063', 'cosmonautics:0.3016', 'comfkuz:0.2994', 'twitter:0.2935', 'fedorov:0.2841', 'signal:0.2684', 'misinformation:0.2623', 'support:0.2622', 'translate:0.2546', 'solar:0.2441', 'fix:0.2358', 'tsla:0.2324', 'live:0.2253', 'event:0.2207', 'risk:0.2198', 'katya:0.2195', 'standwithukraine:0.2077', 'statement:0.2064', 'ignore:0.204', 'emphasize:0.1931', 'isnt:0.176', 'interesting:0.1566', 'westinghouse:0.1472', 'big:0.1442', 'particularly:0.1327']+titles_keywords+['starlink:0.461', 'ukraine:0.4373', 'elon:0.3424', 'connected:0.2694', 'helping:0.1126']"
+        ]
+    ]
+}

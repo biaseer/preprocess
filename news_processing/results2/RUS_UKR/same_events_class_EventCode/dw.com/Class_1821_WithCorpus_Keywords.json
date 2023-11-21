@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+1821":[
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/dw.com/Russian troops accused of weaponizing rape.txt+eventbasecode182+eventcode1821+avgtone0.442857142857143+goldsteinscale0.05+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4745', 'russian:0.45', 'rape:0.4096', 'war:0.3654', 'troop:0.3539', 'weaponize:0.3435', 'violence:0.328', 'soldier:0.3053', 'weapon:0.2916', 'accuse:0.2791', 'civilian:0.2628', 'evidence:0.2519', 'story:0.2496', 'sexual:0.2324', 'woman:0.2136', 'bucha:0.2094', 'horrify:0.1905', 'ritters:0.1829', 'hear:0.1655', 'young:0.1564', 'use:0.1483', 'account:0.1394', 'rebecca:0.1352', 'grow:0.1103', 'area:0.104', 'dw:0.024', 'retake:0.0229']+titles_keywords+['russian:0.4024', 'rape:0.3767', 'troops:0.3579', 'weaponizing:0.3237', 'accused:0.2941']"
+        ]
+    ],
+    "UKR+RUS+1821":[
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/dw.com/Cannes Ukrainian film depicts trauma of war.txt+eventbasecode182+eventcode1821+avgtone0.4821268990169794+goldsteinscale0.05+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['documentary:0.4378', 'ukrainian:0.4071', 'portray:0.3687', 'postcolonial:0.3583', 'propaganda:0.3485', 'trauma:0.3396', 'production:0.3165', 'troop:0.2921', 'writer:0.2822', 'peaceful:0.2776', 'society:0.2733', 'nakonechnyi:0.2721', 'warthat:0.2523', 'womenveterans:0.2386', 'story:0.2372', 'conclusion:0.2332', 'marginalize:0.2308', 'feel:0.2232', 'future:0.2188', 'fight:0.2155', 'contact:0.215', 'entails:0.203', 'understand:0.1982', 'feature:0.1957', 'focus:0.1918', 'long:0.1771', 'main:0.1711', 'shot:0.1594', 'begin:0.1518', 'falseperception:0.0826']+titles_keywords+['cannes:0.4508', 'trauma:0.4232', 'ukrainian:0.3941', 'war:0.3322', 'depicts:0.169']"
+        ]
+    ]
+}

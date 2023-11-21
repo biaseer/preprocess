@@ -1,0 +1,12 @@
+{
+    "RUS+TUR+40":[
+        [
+            "20220805+../news_crawling/RUS_UKR/p_articles/bangkokpost.com/Grain ships depart Ukraine as Kyiv Moscow trade blame over nuclear plant.txt+eventbasecode40+eventcode40+avgtone0.47398843930635837+goldsteinscale0.55+nummentions0.011973875181422351+numarticles0.012690355329949238+numsources0.01644736842105263+news_keywords+['ukraine:0.4804', 'geopolitical:0.467', 'erdogan:0.4003', 'diplomatic:0.3627', 'government:0.32', 'invasion:0.2995', 'investigation:0.2924', 'crisis:0.2893', 'unprovoked:0.2871', 'translate:0.277', 'zelensky:0.2692', 'casualties:0.268', 'subject:0.2547', 'flag:0.246', 'reactor:0.2391', 'afp:0.2328', 'orchestrate:0.2226', 'recep:0.2204', 'consequence:0.22', 'missile:0.2199', 'counterpart:0.2135', 'know:0.2131', 'block:0.2011', 'list:0.1941', 'grain:0.19', 'fight:0.1609', 'monday:0.1558', 'sail:0.1389', 'deal:0.1051', 'callamard:0.0851']+titles_keywords+['kyiv:0.4641', 'ships:0.2776', 'grain:0.2615', 'nuclear:0.2608', 'blame:0.2331']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/bangkokpost.com/In space Russians and Americans remain dear friends.txt+eventbasecode40+eventcode40+avgtone0.492467043314501+goldsteinscale0.55+nummentions0.02539912917271408+numarticles0.02610587382160986+numsources0.029605263157894735+news_keywords+['russians:0.4983', 'iss:0.4631', 'nasa:0.4109', 'space:0.4052', 'dmitry:0.3704', 'crewmates:0.3532', 'cosmonaut:0.3337', 'cooperation:0.3297', 'mir:0.2731', 'territory:0.2672', 'polyakov:0.2634', 'government:0.2209', 'concern:0.2201', 'rogozin:0.2034', 'hear:0.1926', 'prolong:0.1926', 'friend:0.1883', 'belong:0.1876', 'remark:0.1816', 'adjust:0.1712', 'block:0.1671', 'fall:0.166', 'twitter:0.1656', 'day:0.1628', 'normal:0.1463', 'experiment:0.1433', 'uncontrolled:0.131', 'soon:0.1108', 'body:0.1078', 'hei:0.0967']+titles_keywords+['russians:0.4579', 'space:0.3628', 'friends:0.3231', 'dear:0.1497', 'remain:0.1192']"
+        ]
+    ]
+}

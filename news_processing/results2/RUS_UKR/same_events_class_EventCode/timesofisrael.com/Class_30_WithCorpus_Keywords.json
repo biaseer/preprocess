@@ -1,0 +1,20 @@
+{
+    "RUS+UKR+30":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/To Secure World Freedom Russia Must be Stopped.txt+eventbasecode30+eventcode30+avgtone0.4838169642857143+goldsteinscale0.7+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.009868421052631578+news_keywords+['ukraine:0.454', 'nato:0.3995', 'diplomacy:0.3924', 'putins:0.3642', 'invasion:0.2965', 'warhead:0.28', 'justify:0.2797', 'achieve:0.2635', 'world:0.2633', 'illarionov:0.2442', 'secure:0.2336', 'flee:0.2272', 'unprovoked:0.2237', 'know:0.2023', 'capitalize:0.1998', 'generation:0.1966', 'liberal:0.1921', 'logic:0.1917', 'instead:0.1896', 'react:0.188', 'advisor:0.188', 'frightening:0.184', 'include:0.1735', 'sure:0.1564', 'corner:0.151', 'contemplate:0.1448', 'time:0.1407', 'child:0.1404', 'prior:0.1146', 'bloodstream:0.0869']+titles_keywords+['russia:0.443', 'freedom:0.3326', 'stopped:0.3048', 'world:0.246', 'secure:0.2348']"
+        ],
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Russian invaders cannot conquer us Zelensky says.txt+eventbasecode30+eventcode30+avgtone0.4757462686567164+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4362', 'zelensky:0.4204', 'conquer:0.3438', 'terror:0.2579', 'repel:0.2395', 'jewish:0.2281', 'volodymyr:0.2197', 'military:0.2165', 'fight:0.1881', 'news:0.1736', 'come:0.1733', 'read:0.1716', 'president:0.1681', 'insightful:0.1521', 'say:0.1457', 'turn:0.14', 'look:0.1396', 'unlike:0.1309', 'th:0.1284', 'provide:0.1255', 'night:0.1246', 'alongside:0.1179', 'coverage:0.1154', 'dream:0.1153', 'hold:0.1013', 'paywall:0.0955', 'impossible:0.0906', 'thats:0.0821', 'enjoy:0.0817', 'havent:0.0382']+titles_keywords+['zelensky:0.5323', 'russian:0.3715', 'conquer:0.3632', 'invaders:0.284', 'says:0.0882']"
+        ]
+    ],
+    "UKR+RUS+30":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Ukraine says agreed with Russia on 10 humanitarian corridors including in Mariupol.txt+eventbasecode30+eventcode30+avgtone0.5142118863049095+goldsteinscale0.7+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kyiv:0.4981', 'ukraines:0.4541', 'blockade:0.3435', 'evacuate:0.3074', 'humanitarian:0.2992', 'zelensky:0.2986', 'israel:0.2881', 'corridor:0.2497', 'cooperate:0.2214', 'read:0.1614', 'supply:0.1611', 'iryna:0.1606', 'coverage:0.1603', 'article:0.1567', 'mariupol:0.1438', 'address:0.1422', 'help:0.1389', 'southeastern:0.136', 'reach:0.1226', 'goal:0.1164', 'like:0.1122', 'agree:0.1103', 'condition:0.1015', 'important:0.0947', 'technologies:0.0945', 'long:0.0868', 'enjoy:0.085', 'thats:0.056', 'currently:0.0505', 'discern:0.037']+titles_keywords+['ukraine:0.4418', 'corridors:0.2942', 'humanitarian:0.2574', '10:0.1475', 'agreed:0.0785']"
+        ]
+    ],
+    "UKR+WST+30":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Zelensky says Ukraine left alone to fight Russia.txt+eventbasecode30+eventcode30+avgtone0.5013368983957219+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.477', 'zelensky:0.4713', 'kremlin:0.3892', 'nato:0.3727', 'volodymyr:0.2587', 'president:0.2309', 'remain:0.2184', 'news:0.2021', 'read:0.1845', 'want:0.1835', 'fight:0.1831', 'afraid:0.1801', 'jewish:0.1712', 'invasion:0.1578', 'ready:0.1528', 'important:0.1319', 'pleased:0.131', 'insightful:0.131', 'start:0.1266', 'midnight:0.1239', 'head:0.1226', 'address:0.1158', 'like:0.1083', 'alongside:0.1024', 'guarantee:0.0953', 'paywall:0.0754', 'thats:0.0731', 'video:0.0634', 'large:0.0633', 'havent:0.0196']+titles_keywords+['zelensky:0.5715', 'ukraine:0.4283', 'fight:0.2297', 'left:0.0954', 'says:0.0819']"
+        ]
+    ]
+}

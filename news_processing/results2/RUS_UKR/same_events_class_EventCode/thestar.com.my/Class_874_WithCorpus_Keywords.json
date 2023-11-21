@@ -1,0 +1,17 @@
+{
+    "EUR+UKR+874":[
+        [
+            "20220213+../news_crawling/RUS_UKR/p_articles/thestar.com.my/US staff of OSCE begins pullout from Donetsk in eastern Ukraine.txt+eventbasecode87+eventcode874+avgtone0.46186440677966095+goldsteinscale1.0+nummentions0.020319303338171262+numarticles0.02102973168963017+numsources0.013157894736842105+news_keywords+['donetsk:0.476', 'ukraine:0.4632', 'osce:0.4023', 'reuters:0.2984', 'invasion:0.2936', 'russian:0.2932', 'operation:0.2816', 'leave:0.2783', 'pullout:0.2764', 'ermochenko:0.2234', 'security:0.1969', 'eastern:0.1925', 'occur:0.1864', 'warn:0.176', 'urge:0.1491', 'housing:0.14', 'hold:0.138', 'rebel:0.1285', 'states:0.1259', 'right:0.119', 'begin:0.1175', 'citizen:0.1155', 'control:0.1122', 'time:0.1046', 'february:0.1026', 'amid:0.1026', 'monitor:0.0787', 'possible:0.0734', 'air:0.0728', 'park:0.0627']+titles_keywords+['osce:0.4654', 'donetsk:0.3833', 'pullout:0.3615', 'eastern:0.2015', 'begins:0.0944']"
+        ]
+    ],
+    "RUS+CHN+874":[
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Chinas DJI halts Russia Ukraine sales to prevent use of its drones in combat.txt+eventbasecode87+eventcode874+avgtone0.45203488372093004+goldsteinscale1.0+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.013157894736842105+news_keywords+['russia:0.4632', 'drone:0.4463', 'reuters:0.408', 'dji:0.4031', 'conflict:0.3581', 'cite:0.3021', 'industrial:0.2967', 'military:0.2875', 'invasion:0.2796', 'technology:0.2734', 'shenzhen:0.2712', 'operate:0.267', 'social:0.25', 'data:0.2389', 'product:0.2344', 'unprovoked:0.2317', 'revenue:0.2308', 'fascist:0.2256', 'global:0.2237', 'false:0.22', 'say:0.2033', 'pretext:0.1996', 'order:0.1941', 'repel:0.19', 'continuing:0.178', 'bil:0.1771', 'rm:0.1632', 'bind:0.1585', 'hiv:0.1535', 'month:0.1267']+titles_keywords+['ukraine:0.3865', 'drones:0.3806', 'dji:0.3715', 'combat:0.2243', 'prevent:0.1557']"
+        ]
+    ],
+    "RUS+UKR+874":[
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/thestar.com.my/AnalysisUkraine waits for West to tip balance against Russia after 100 days of war.txt+eventbasecode87+eventcode874+avgtone0.4859320046893318+goldsteinscale1.0+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.03618421052631579+news_keywords+['ukraine:0.471', 'kremlin:0.3968', 'nato:0.394', 'artillery:0.3728', 'war:0.3487', 'reuters:0.2703', 'strategy:0.2627', 'tank:0.2553', 'prepare:0.2374', 'analysisukraine:0.2306', 'expand:0.2231', 'unprovoked:0.2207', 'disarm:0.2112', 'western:0.1977', 'long:0.1889', 'sievierodonetsk:0.1834', 'kilometre:0.1824', 'refer:0.157', 'quantity:0.1559', 'writing:0.1545', 'incoming:0.15', 'consultancy:0.1468', 'governor:0.1383', 'current:0.138', 'fifth:0.1331', 'major:0.1304', 'compare:0.1259', 'august:0.1119', 'badly:0.093', 'agree:0.0778']+titles_keywords+['russia:0.4065', 'war:0.3717', 'analysisukraine:0.2579', '100:0.215', 'waits:0.1734']"
+        ]
+    ]
+}

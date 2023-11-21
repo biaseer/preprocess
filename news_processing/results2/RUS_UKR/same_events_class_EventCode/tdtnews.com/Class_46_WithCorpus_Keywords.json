@@ -1,0 +1,12 @@
+{
+    "CHE+RUS+46":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/tdtnews.com/Biden Russia chemical attack is real threat.txt+eventbasecode46+eventcode46+avgtone0.4818507157464213+goldsteinscale0.85+nummentions0.20065312046444123+numarticles0.20123277737490936+numsources0.18421052631578946+news_keywords+['ukraine:0.4808', 'nato:0.4368', 'diplomatic:0.4007', 'espionage:0.3616', 'invade:0.3584', 'embargo:0.3374', 'government:0.337', 'separatist:0.2994', 'emergency:0.2966', 'preside:0.2909', 'announce:0.2775', 'directive:0.2703', 'geneva:0.2438', 'translation:0.2363', 'reorganize:0.2362', 'report:0.2282', 'cite:0.2279', 'world:0.2083', 'agreement:0.1941', 'list:0.1939', 'thursday:0.1938', 'benefit:0.1861', 'fear:0.1846', 'resume:0.1821', 'learn:0.1656', 'electrification:0.1545', 'maurer:0.1427', 'chemical:0.1397', 'nearly:0.1328', 'streamlines:0.0901']+titles_keywords+['biden:0.4069', 'attack:0.3455', 'russia:0.2903', 'chemical:0.2674', 'real:0.2501']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/tdtnews.com/Not my life An apartment block reflects the new Ukraine.txt+eventbasecode46+eventcode46+avgtone0.48516483516483516+goldsteinscale0.85+nummentions0.011248185776487663+numarticles0.011965192168237854+numsources0.023026315789473683+news_keywords+['kyiv:0.509', 'displaced:0.3701', 'stay:0.3387', 'shelter:0.3328', 'propaganda:0.3061', 'live:0.3028', 'nazar:0.2835', 'help:0.2769', 'realize:0.2765', 'olha:0.2719', 'text:0.2689', 'corridor:0.2663', 'community:0.2663', 'victim:0.2526', 'airstrike:0.2274', 'happy:0.2223', 'piece:0.2153', 'end:0.2153', 'terrify:0.2148', 'kopan:0.2033', 'world:0.1979', 'hears:0.1925', 'like:0.1822', 'long:0.176', 'elderly:0.1628', 'letti:0.1574', 'distinguish:0.1535', 'exchange:0.1435', 'doesnt:0.0932', 'theres:0.0715']+titles_keywords+['apartment:0.5079', 'ukraine:0.4423', 'block:0.256', 'life:0.2532', 'reflects:0.1717']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+163":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/cp24.com/US pledges to put Russia on defensive at UN Security Council.txt+eventbasecode163+eventcode163+avgtone0.4772492244053775+goldsteinscale0.1+nummentions0.9426705370101597+numarticles0.9427121102248006+numsources0.9243421052631579+news_keywords+['nato:0.4551', 'ukraine:0.4528', 'vladimir:0.313', 'diplomatic:0.3111', 'war:0.3003', 'unify:0.26', 'annex:0.2512', 'propaganda:0.2468', 'threaten:0.2358', 'table:0.2221', 'pledge:0.2154', 'bipartisan:0.2047', 'biden:0.1932', 'want:0.1884', 'plan:0.1831', 'continue:0.1637', 'ready:0.16', 'decide:0.1591', 'forget:0.1484', 'stability:0.143', 'long:0.1416', 'explain:0.1414', 'ranking:0.1393', 'monday:0.1343', 'current:0.1295', 'stage:0.1266', 'sphere:0.1031', 'head:0.0792', 'resolution:0.0711', 'way:0.065']+titles_keywords+['russia:0.3236', 'pledges:0.307', 'defensive:0.1977', 'council:0.1893', 'security:0.1487']"
+        ]
+    ],
+    "UKR+RUS+163":[
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/cp24.com/EU imposes more sanctions on Moscow over Ukraine invasion.txt+eventbasecode163+eventcode163+avgtone0.4762845849802372+goldsteinscale0.1+nummentions0.10595065312046444+numarticles0.1065989847715736+numsources0.09539473684210527+news_keywords+['ukraine:0.4185', 'sanction:0.4077', 'putin:0.4043', 'impose:0.3217', 'oligarchs:0.2877', 'war:0.2823', 'reinforce:0.2656', 'bloc:0.2426', 'currency:0.2368', 'thursday:0.2181', 'import:0.2053', 'aid:0.1987', 'align:0.1881', 'decide:0.1741', 'intend:0.1729', 'commission:0.16', 'circumvent:0.1583', 'industrial:0.1492', 'freeze:0.1469', 'list:0.1401', 'juggernaut:0.1382', 'strong:0.1367', 'effectively:0.1343', 'look:0.1231', 'seven:0.1201', 'round:0.1081', 'official:0.1074', 'sberbank:0.1035', 'noose:0.1023', 'add:0.097']+titles_keywords+['sanctions:0.4251', 'imposes:0.2903', 'moscow:0.2875', 'invasion:0.2708', 'eu:0.2525']"
+        ]
+    ]
+}

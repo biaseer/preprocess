@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+43":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/cambodiantimes.com/Nobel Prize to be sold by Russian to raise money for Ukrainians.txt+eventbasecode43+eventcode43+avgtone0.5+goldsteinscale0.64+nummentions0.261611030478955+numarticles0.2621464829586657+numsources0.29605263157894735+news_keywords+['nobel:0.5041', 'refugees:0.404', 'humanitarian:0.3909', 'ukrainians:0.384', 'dmitry:0.3665', 'moscow:0.3664', 'muratov:0.3508', 'prize:0.3117', 'medal:0.3053', 'reuters:0.3004', 'peace:0.2592', 'maria:0.2378', 'money:0.2115', 'philippines:0.2113', 'thousand:0.208', 'fund:0.208', 'announce:0.1972', 'world:0.1921', 'report:0.1839', 'famous:0.1792', 'ressa:0.1682', 'fled:0.163', 'sell:0.1604', 'respond:0.1419', 'paper:0.1327', 'note:0.1098', 'displace:0.1066', 'decide:0.0834', 'attend:0.0829', 'corridor:0.0547']+titles_keywords+['nobel:0.4904', 'ukrainians:0.4286', 'prize:0.3626', 'money:0.2698', 'sold:0.1599']"
+        ]
+    ],
+    "USA+UKR+43":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/cambodiantimes.com/Zelenskys comedy series returns to Netflix.txt+eventbasecode43+eventcode43+avgtone0.494140625+goldsteinscale0.64+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.009868421052631578+news_keywords+['zelensky:0.4422', 'ukraine:0.3533', 'president:0.2925', 'comedy:0.263', 'volodymyr:0.2617', 'netflix:0.2138', 'corruption:0.1866', 'servant:0.161', 'role:0.1582', 'eccho:0.1545', 'series:0.147', 'soderlund:0.1467', 'season:0.1403', 'scenario:0.1333', 'follow:0.1286', 'unexpectedly:0.0932', 'viral:0.093', 'face:0.0787', 'party:0.0719', 'manage:0.0561', 'normal:0.0502', 'grow:0.05', 'launch:0.0488', 'rant:0.0465', 'important:0.046', 'man:0.0205', 'license:0.0167', 'far:0.0156', 'central:0.0126', 'available:0.0094']+titles_keywords+['zelenskys:0.5345', 'netflix:0.4272', 'comedy:0.2958', 'series:0.2039', 'returns:0.161']"
+        ]
+    ]
+}

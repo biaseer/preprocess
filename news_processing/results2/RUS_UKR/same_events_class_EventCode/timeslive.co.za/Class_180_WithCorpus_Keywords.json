@@ -1,0 +1,13 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220521+../news_crawling/RUS_UKR/p_articles/timeslive.co.za/Russia ramps up assault aiming to seize Ukrainian province for separatists.txt+eventbasecode180+eventcode180+avgtone0.47377622377622375+goldsteinscale0.05+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['kyiv:0.4877', 'separatist:0.2972', 'operation:0.2814', 'prokopenko:0.2799', 'frontline:0.2779', 'territory:0.2669', 'retreat:0.2573', 'artillery:0.2483', 'advance:0.2423', 'know:0.2315', 'lyshchansk:0.2268', 'overrun:0.2262', 'achieve:0.2259', 'soon:0.2222', 'sievierodonetsk:0.2198', 'push:0.2103', 'fighting:0.2057', 'telegram:0.1988', 'order:0.1874', 'herald:0.1854', 'die:0.1831', 'bury:0.1788', 'eastern:0.1719', 'governor:0.1652', 'proclaim:0.1619', 'month:0.1597', 'opposite:0.1579', 'major:0.1568', 'donets:0.1463', 'include:0.1029']+titles_keywords+['ukrainian:0.3838', 'assault:0.2756', 'separatists:0.2429', 'seize:0.1686', 'aiming:0.109']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/timeslive.co.za/UKRAINE WRAP Ukrainian refugees near 15 million as Russian assault enters 11th day.txt+eventbasecode180+eventcode180+avgtone0.443661971830986+goldsteinscale0.05+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['kyiv:0.5808', 'ukrainians:0.5163', 'russian:0.423', 'refugee:0.4155', 'invasion:0.3323', 'flee:0.2977', 'capital:0.2699', 'military:0.2677', 'wrap:0.2623', 'reuters:0.2286', 'town:0.2105', 'people:0.2082', 'fight:0.2047', 'enters:0.2004', 'km:0.1912', 'bus:0.1843', 'home:0.175', 'closing:0.1733', 'intense:0.1675', 'scurry:0.1532', 'witness:0.1455', 'million:0.1411', 'th:0.1346', 'northwest:0.1266', 'way:0.1253', 'pavement:0.1252', 'pet:0.1236', 'irpin:0.1216', 'wait:0.1215', 'make:0.0873']+titles_keywords+['refugees:0.4416', 'ukrainian:0.4205', 'wrap:0.2795', '15:0.2014', 'million:0.1865']"
+        ],
+        []
+    ]
+}

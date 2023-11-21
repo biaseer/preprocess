@@ -1,0 +1,15 @@
+{
+    "IRL+RUS+172":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/interfax.com/Ireland closes its airspace for Russia aircraft FM.txt+eventbasecode172+eventcode172+avgtone0.5052631578947369+goldsteinscale0.25+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.01644736842105263+news_keywords+['airspace:0.3997', 'ireland:0.3692', 'russia:0.343', 'aircraft:0.3029', 'rte:0.2767', 'russian:0.2673', 'eu:0.2333', 'sanction:0.1851', 'government:0.1664', 'coveney:0.1493', 'news:0.1262', 'brussels:0.122', 'shut:0.1182', 'close:0.1052', 'notification:0.0984', 'simon:0.0724', 'decision:0.0723', 'package:0.0582', 'say:0.0558', 'minister:0.051', 'fm:0.0478', 'sunday:0.0443', 'according:0.0403', 'feb:0.0332', 'twiter:0.0331', 'agree:0.0307', 'effect:0.026', 'interfax:0.0107', 'service:0.005', 'make:-0.0004']+titles_keywords+['airspace:0.3917', 'ireland:0.3702', 'russia:0.3009', 'fm:0.2184', 'closes:0.1289']"
+        ]
+    ],
+    "RUS+UKR+172":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/interfax.com/Ukrainian army using phosphorus munitions in Kyiv suburbs Russian Defense Ministry.txt+eventbasecode172+eventcode172+avgtone0.4586466165413534+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['phosphorus:0.4681', 'kyiv:0.4528', 'soviet:0.366', 'howitzer:0.3202', 'troop:0.3118', 'weapons:0.3094', 'igor:0.2819', 'projectile:0.2431', 'protocol:0.2212', 'airfield:0.2183', 'reactive:0.1971', 'munition:0.1857', 'shell:0.1808', 'production:0.1774', 'prohibit:0.1644', 'suburbs:0.1416', 'deter:0.1331', 'taskforce:0.1128', 'hostomel:0.1122', 'use:0.104', 'mm:0.1032', 'inhumane:0.0873', 'feb:0.0831', 'particular:0.0822', 'grad:0.0759', 'defense:0.0757', 'near:0.074', 'begin:0.0738', 'say:0.0508', 'desperate:0.0356']+titles_keywords+['kyiv:0.5001', 'munitions:0.4915', 'phosphorus:0.4145', 'army:0.2574', 'suburbs:0.2072']"
+        ],
+        [
+            "20220705+../news_crawling/RUS_UKR/p_articles/interfax.com/Court bans activities of Communist Party of Ukraine.txt+eventbasecode172+eventcode172+avgtone0.49473684210526314+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['communist:0.4496', 'lviv:0.4074', 'ukrainian:0.35', 'moscow:0.3342', 'court:0.3186', 'lawsuit:0.3141', 'ban:0.2711', 'party:0.2477', 'city:0.2291', 'appeal:0.2272', 'organization:0.2041', 'regional:0.1768', 'fund:0.1622', 'ministry:0.1612', 'property:0.1553', 'state:0.1549', 'announce:0.1484', 'activity:0.1482', 'transfer:0.1462', 'social:0.1447', 'grant:0.1076', 'page:0.1036', 'entity:0.0977', 'structural:0.0958', 'network:0.0932', 'july:0.0845', 'say:0.0721', 'eighth:0.0689', 'primarily:0.061', 'interfax:-0.015']+titles_keywords+['ukraine:0.3814', 'communist:0.379', 'court:0.2896', 'bans:0.2024', 'party:0.1682']"
+        ]
+    ]
+}

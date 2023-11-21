@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220825+../news_crawling/RUS_UKR/p_articles/plenglish.com/Defense Ministers of Russia and France discuss situation in Ukraine.txt+eventbasecode112+eventcode112+avgtone0.49171270718232035+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.5112', 'nuclear:0.415', 'military:0.3088', 'moscows:0.2928', 'readiness:0.2783', 'iaea:0.2511', 'zaporizhzhia:0.2438', 'operation:0.2265', 'safe:0.2245', 'inform:0.2213', 'territory:0.1721', 'locate:0.167', 'telephone:0.1497', 'power:0.1456', 'shell:0.1404', 'issue:0.1398', 'accuse:0.1255', 'inspector:0.1254', 'counterpart:0.1243', 'energodar:0.1182', 'undermining:0.1132', 'state:0.1123', 'plant:0.1115', 'shoigu:0.0919', 'begin:0.0871', 'ministers:0.0841', 'importance:0.0822', 'discus:0.0613', 'large:0.0475', 'week:0.033']+titles_keywords+['ukraine:0.3976', 'ministers:0.1545', 'defense:0.1461', 'situation:0.1196', 'discuss:0.1175']"
+        ]
+    ],
+    "WST+RUS+112":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/plenglish.com/G7 warns Russia of massive economic fallout to a Ukraine invasion.txt+eventbasecode112+eventcode112+avgtone0.4705882352941177+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['natos:0.5487', 'ukrainian:0.3777', 'invasion:0.314', 'war:0.2938', 'troop:0.2714', 'economy:0.2602', 'unite:0.2558', 'sovereignty:0.2497', 'border:0.2319', 'bloc:0.2285', 'warn:0.2256', 'oppose:0.2238', 'imf:0.2143', 'crisis:0.2118', 'aid:0.2103', 'italy:0.1939', 'immediate:0.1909', 'comprise:0.1905', 'escalate:0.1874', 'arrangement:0.1865', 'consequence:0.1708', 'ready:0.165', 'stability:0.1507', 'claim:0.1252', 'consider:0.1236', 'eastern:0.123', 'legal:0.1206', 'massive:0.1123', 'near:0.0929', 'new:0.0923']+titles_keywords+['ukraine:0.3854', 'g7:0.2423', 'warns:0.2362', 'invasion:0.2269', 'economic:0.1833']"
+        ]
+    ]
+}

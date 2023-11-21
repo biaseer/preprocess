@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+130":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/japanherald.com/If West fails to defend Ukraines sovereignty shock will echo around world including Taiwan Boris.txt+eventbasecode130+eventcode130+avgtone0.47592592592592586+goldsteinscale0.27999999999999997+nummentions0.01741654571843251+numarticles0.018129079042784626+numsources0.039473684210526314+news_keywords+['ukraine:0.4767', 'sovereignty:0.3649', 'putin:0.3592', 'diplomatic:0.2858', 'taipei:0.2758', 'conflict:0.2547', 'strategic:0.2447', 'border:0.2304', 'protect:0.2202', 'consequence:0.1981', 'deploy:0.1907', 'oppose:0.1856', 'boris:0.1682', 'endanger:0.1615', 'western:0.1594', 'president:0.1473', 'promise:0.1343', 'nikkei:0.1306', 'news:0.1281', 'know:0.128', 'talk:0.1184', 'counter:0.1115', 'increase:0.1025', 'include:0.1008', 'hand:0.079', 'op:0.0746', 'fellow:0.0705', 'saturday:0.0705', 'far:0.057', 'decade:0.0399']+titles_keywords+['ukraines:0.4697', 'sovereignty:0.3667', 'boris:0.2899', 'world:0.1626', 'echo:0.1441']"
+        ]
+    ],
+    "RUS+UKR+130":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/japanherald.com/AsiaPacific stock markets slide amid Russia sanctions.txt+eventbasecode130+eventcode130+avgtone0.48582995951417+goldsteinscale0.27999999999999997+nummentions0.10957910014513789+numarticles0.11022480058013052+numsources0.16447368421052633+news_keywords+['russia:0.4503', 'sanction:0.3112', 'donetsk:0.2865', 'economy:0.2806', 'demilitarize:0.2753', 'nikkei:0.2549', 'stock:0.2256', 'shanghai:0.2198', 'attack:0.2128', 'operation:0.2038', 'aircraft:0.1927', 'begin:0.1755', 'slide:0.172', 'toyota:0.1694', 'anisputnik:0.1685', 'march:0.1659', 'drop:0.1622', 'index:0.1596', 'exchange:0.1537', 'gmt:0.1471', 'stress:0.1403', 'respond:0.1392', 'authorize:0.1103', 'point:0.1068', 'spasx:0.1029', 'include:0.1003', 'amid:0.0842', 'official:0.0737', 'solely:0.0658', 'possible:0.0373']+titles_keywords+['sanctions:0.3293', 'russia:0.2385', 'asiapacific:0.2267', 'slide:0.1807', 'stock:0.1647']"
+        ]
+    ]
+}

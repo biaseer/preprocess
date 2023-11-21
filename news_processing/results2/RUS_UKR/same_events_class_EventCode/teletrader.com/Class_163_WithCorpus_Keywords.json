@@ -1,0 +1,12 @@
+{
+    "CAN+RUS+163":[
+        [
+            "20220419+../news_crawling/RUS_UKR/p_articles/teletrader.com/Canada sanctions Putins daughters close associates.txt+eventbasecode163+eventcode163+avgtone0.4591836734693877+goldsteinscale0.1+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4208', 'putins:0.4125', 'vladimir:0.3375', 'sanction:0.3102', 'daughter:0.2509', 'accountability:0.2278', 'report:0.226', 'egregious:0.2124', 'mlanie:0.2098', 'atrocity:0.1981', 'regime:0.1938', 'war:0.193', 'freedom:0.1841', 'abuse:0.1766', 'osce:0.1348', 'president:0.1312', 'brave:0.1248', 'imposition:0.1134', 'pursue:0.1127', 'right:0.0984', 'severe:0.0935', 'according:0.0834', 'confirm:0.0716', 'mechanism:0.062', 'associate:0.0591', 'cost:0.0589', 'stand:0.0411', 'include:0.0371', 'tuesday:0.027', 'new:0.0202']+titles_keywords+['putins:0.4739', 'sanctions:0.4354', 'daughters:0.3217', 'canada:0.3003', 'close:0.0637']"
+        ]
+    ],
+    "NZL+RUS+163":[
+        [
+            "20220502+../news_crawling/RUS_UKR/p_articles/teletrader.com/New Zealand applies new sanctions against Russia.txt+eventbasecode163+eventcode163+avgtone0.4642857142857143+goldsteinscale0.1+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['russia:0.451', 'putin:0.4134', 'zealand:0.4054', 'sanction:0.3746', 'tariff:0.3106', 'vladimir:0.3058', 'impose:0.2566', 'import:0.2382', 'parliament:0.1957', 'action:0.1797', 'announce:0.1697', 'senator:0.142', 'mahuta:0.1393', 'foreign:0.1363', 'company:0.1149', 'new:0.1107', 'apply:0.0998', 'measure:0.0978', 'pressure:0.093', 'sector:0.092', 'official:0.0831', 'monday:0.0648', 'say:0.0634', 'issue:0.0602', 'addition:0.0602', 'round:0.0535', 'statement:0.0496', 'defense:0.0476', 'earlier:0.0424', 'target:0.0252']+titles_keywords+['sanctions:0.4327', 'zealand:0.4124', 'russia:0.3142', 'new:0.2141', 'applies:0.0866']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/dailyecho.co.uk/Ukrainians claim to have retaken ground from Russia ahead of latest talks.txt+eventbasecode12+eventcode12+avgtone0.4770471464019851+goldsteinscale0.48+nummentions0.14731494920174165+numarticles0.14793328498912256+numsources0.26644736842105265+news_keywords+['kyiv:0.5114', 'ukraines:0.4745', 'ceasefire:0.4447', 'kremlin:0.4395', 'natos:0.3929', 'deploy:0.2901', 'separatist:0.2871', 'territory:0.2659', 'strategic:0.2347', 'combine:0.2122', 'progress:0.2121', 'forward:0.2053', 'fled:0.2033', 'flank:0.2017', 'trostyanets:0.1983', 'reporter:0.1932', 'general:0.1917', 'donbas:0.182', 'emphasise:0.1819', 'want:0.1746', 'regional:0.1741', 'outage:0.1676', 'end:0.1625', 'fall:0.135', 'longer:0.1344', 'ready:0.1289', 'right:0.123', 'retake:0.1209', 'gas:0.1179', 'population:0.091']+titles_keywords+['ukrainians:0.3996', 'retaken:0.2527', 'ground:0.1367', 'talks:0.1278', 'latest:0.0407']"
+        ]
+    ],
+    "UKR+RUS+12":[
+        [
+            "20220815+../news_crawling/RUS_UKR/p_articles/dailyecho.co.uk/Russian shells slam into eastern Ukraine killing three.txt+eventbasecode12+eventcode12+avgtone0.4768976897689769+goldsteinscale0.48+nummentions0.04426705370101597+numarticles0.044960116026105876+numsources0.06578947368421052+news_keywords+['kyiv:0.5017', 'ukraines:0.4737', 'putin:0.4692', 'russian:0.4196', 'propaganda:0.3442', 'terekhov:0.3114', 'zelensky:0.2884', 'militarys:0.2798', 'kill:0.278', 'ammunition:0.2423', 'accusation:0.2337', 'mobilisation:0.2315', 'engage:0.2223', 'peace:0.2204', 'industrial:0.2057', 'donbas:0.2056', 'shelling:0.2043', 'law:0.1794', 'regional:0.1721', 'monday:0.1671', 'format:0.1475', 'right:0.1461', 'declare:0.1427', 'long:0.1291', 'nearly:0.128', 'issue:0.1225', 'official:0.1102', 'reader:0.1051', 'weak:0.1016', 'wont:0.1011']+titles_keywords+['russian:0.3287', 'slam:0.2652', 'shells:0.2525', 'eastern:0.1334', 'killing:0.1333']"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "EUR+UKR+40":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine war No progress on ceasefire after KyivMoscow talks.txt+eventbasecode40+eventcode40+avgtone0.47062937062937066+goldsteinscale0.55+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['ceasefire:0.4974', 'ukraine:0.4967', 'separatist:0.3094', 'invasion:0.2727', 'justify:0.2683', 'ngo:0.2657', 'pentagon:0.2593', 'president:0.2393', 'flee:0.2277', 'situation:0.2264', 'progress:0.2233', 'vote:0.2079', 'horrific:0.2073', 'fatality:0.206', 'neutral:0.2049', 'counterpart:0.1992', 'prepare:0.1984', 'pathogen:0.1965', 'speaking:0.1963', 'discus:0.1859', 'tell:0.1809', 'weapon:0.1704', 'psychology:0.1681', 'maternity:0.1634', 'house:0.1551', 'false:0.1543', 'import:0.1452', 'temperature:0.1422', 'longer:0.1364', 'million:0.1175']+titles_keywords+['ceasefire:0.4434', 'kyivmoscow:0.4134', 'ukraine:0.3843', 'progress:0.241', 'talks:0.1996']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        []
+    ],
+    "RUS+USA+40":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine conflict Petrol at fresh record as oil and gas prices soar.txt+eventbasecode40+eventcode40+avgtone0.47302904564315357+goldsteinscale0.55+nummentions0.006531204644412192+numarticles0.007251631617113851+numsources0.006578947368421052+news_keywords+['ukraine:0.4992', 'embargo:0.3663', 'economic:0.344', 'gas:0.3091', 'turmoil:0.2888', 'nuclear:0.2845', 'escalation:0.2815', 'capital:0.2538', 'dow:0.252', 'analysts:0.2476', 'supplier:0.2359', 'ahead:0.2339', 'ftse:0.2335', 'pandemic:0.2273', 'frightening:0.2174', 'wall:0.2141', 'global:0.1906', 'significant:0.1783', 'grow:0.1713', 'biden:0.1647', 'respectively:0.1642', 'lower:0.1574', 'bad:0.1541', 'sp:0.1529', 'irpin:0.1448', 'week:0.1444', 'deal:0.1411', 'rutte:0.1334', 'look:0.1142', 'benchmark:0.0929']+titles_keywords+['ukraine:0.4016', 'petrol:0.3881', 'conflict:0.2734', 'prices:0.2128', 'record:0.1811']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220413+../news_crawling/RUS_UKR/p_articles/bbc.co.uk/Ukraine British man fighting in Mariupol forced to surrender.txt+eventbasecode40+eventcode40+avgtone0.4786821705426357+goldsteinscale0.55+nummentions0.00544267053701016+numarticles0.006163886874546773+numsources0.01644736842105263+news_keywords+['ukraine:0.4836', 'military:0.3448', 'surrender:0.3286', 'brigade:0.3238', 'territory:0.3064', 'conflict:0.2762', 'aiden:0.2697', 'eastmidsnewsbbc:0.2581', 'ypg:0.2489', 'peril:0.2487', 'update:0.2459', 'uncertain:0.2339', 'provide:0.2325', 'midlands:0.2284', 'islamic:0.2182', 'bbc:0.2174', 'know:0.2151', 'newcomer:0.2019', 'follow:0.2017', 'anxious:0.2', 'unit:0.1896', 'surround:0.1804', 'clear:0.1784', 'report:0.1735', 'state:0.1611', 'deteriorate:0.1564', 'office:0.1504', 'th:0.1427', 'like:0.1353', 'story:0.1337']+titles_keywords+['surrender:0.4082', 'ukraine:0.3181', 'mariupol:0.2253', 'forced:0.1925', 'man:0.0948']"
+        ]
+    ]
+}

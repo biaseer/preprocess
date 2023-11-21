@@ -1,0 +1,22 @@
+{
+    "BLR+RUS+10":[
+        [
+            "20210902+../news_crawling/RUS_UKR/p_articles/infotel.ca/Leader says Belarus expects big shipment of Russian weapons.txt+eventbasecode10+eventcode10+avgtone0.47368421052631576+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['belarus:0.5143', 'kremlin:0.4446', 'lukashenko:0.4159', 'treaty:0.3743', 'isachenkov:0.3618', 'war:0.3443', 'authoritarian:0.3026', 'acquisition:0.2715', 'election:0.266', 'upcoming:0.2485', 'prepare:0.2434', 'independence:0.236', 'concern:0.2305', 'agreement:0.2264', 'rhetoric:0.2258', 'secure:0.215', 'shipment:0.2145', 'allegation:0.1932', 'document:0.1756', 'envisages:0.1699', 'warplanes:0.1688', 'include:0.1636', 'grow:0.1578', 'emphasize:0.1572', 'ap:0.1475', 'expected:0.1462', 'deprive:0.131', 'backbone:0.1104', 'possibly:0.0929', 'limit:0.0467']+titles_keywords+['belarus:0.3827', 'shipment:0.3335', 'weapons:0.251', 'expects:0.1479', 'big:0.1373']"
+        ]
+    ],
+    "RUS+FRA+10":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/infotel.ca/West hits back with sanctions as Russia pushes into Ukraine.txt+eventbasecode10+eventcode10+avgtone0.47284345047923315+goldsteinscale0.5+nummentions0.09325108853410741+numarticles0.09390862944162437+numsources0.14802631578947367+news_keywords+['putin:0.4568', 'crimea:0.4395', 'russias:0.4171', 'invade:0.4052', 'nato:0.3987', 'diplomacy:0.3957', 'sanction:0.337', 'separatist:0.2832', 'eu:0.277', 'border:0.259', 'crisis:0.2488', 'alert:0.2455', 'order:0.2245', 'agreement:0.2245', 'bloc:0.2083', 'directive:0.1988', 'confusion:0.1962', 'prepared:0.1946', 'pretext:0.1922', 'soon:0.1921', 'finance:0.1918', 'extent:0.1917', 'ditch:0.1887', 'pipeline:0.1878', 'continue:0.1779', 'avert:0.1772', 'word:0.1767', 'hit:0.1589', 'long:0.1536', 'vote:0.1446']+titles_keywords+['sanctions:0.4322', 'ukraine:0.3766', 'west:0.2478', 'hits:0.196', 'pushes:0.1397']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/infotel.ca/Russia raiding Ukraine wheat stores exporting it with false papers Ukraine minister.txt+eventbasecode10+eventcode10+avgtone0.48344370860927155+goldsteinscale0.5+nummentions0.01451378809869376+numarticles0.015228426395939087+numsources0.013157894736842105+news_keywords+['ukraine:0.4359', 'blockade:0.4072', 'farmers:0.3325', 'grain:0.3292', 'war:0.303', 'divert:0.2967', 'territory:0.2735', 'supply:0.2734', 'silos:0.2638', 'cargo:0.2364', 'report:0.2319', 'fabricate:0.2101', 'steal:0.207', 'evidence:0.2023', 'explain:0.2005', 'covertly:0.1988', 'false:0.1922', 'rot:0.1849', 'comply:0.1631', 'hear:0.1613', 'ally:0.1553', 'global:0.1485', 'exporter:0.1454', 'solskyi:0.1367', 'mps:0.1362', 'send:0.1327', 'thursday:0.1317', 'million:0.1157', 'unexploded:0.1045', 'videolink:0.0613']+titles_keywords+['ukraine:0.4475', 'wheat:0.3352', 'raiding:0.2229', 'exporting:0.1625', 'false:0.1522']"
+        ]
+    ],
+    "WST+RUS+10":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/infotel.ca/NATO deputy Putin cant win his unprovoked illogical war.txt+eventbasecode10+eventcode10+avgtone0.473728813559322+goldsteinscale0.5+nummentions0.07293178519593614+numarticles0.07360406091370558+numsources0.12828947368421054+news_keywords+['putin:0.5042', 'nato:0.4901', 'ukrainians:0.3944', 'militarily:0.3663', 'unprovoked:0.2937', 'attack:0.2759', 'battlegroups:0.2636', 'ominous:0.2004', 'flank:0.1969', 'constitute:0.1808', 'reassess:0.178', 'economic:0.1751', 'opposite:0.1709', 'general:0.1678', 'continue:0.1642', 'apnews:0.1626', 'barbaric:0.1584', 'comhubrussia:0.1549', 'come:0.1545', 'fact:0.1484', 'plan:0.1432', 'thursday:0.1376', 'chemical:0.1335', 'kinds:0.1284', 'fully:0.1272', 'observer:0.1238', 'mircea:0.1012', 'agree:0.0988', 'welcome:0.0688', 'http:0.0641']+titles_keywords+['nato:0.488', 'putin:0.4837', 'illogical:0.3012', 'unprovoked:0.2909', 'win:0.2421']"
+        ]
+    ]
+}

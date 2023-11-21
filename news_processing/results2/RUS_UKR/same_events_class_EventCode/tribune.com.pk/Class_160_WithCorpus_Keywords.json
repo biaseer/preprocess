@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+160":[
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Spotify says it will suspend service in Russia.txt+eventbasecode160+eventcode160+avgtone0.47916666666666663+goldsteinscale0.3+nummentions0.030478955007256895+numarticles0.03118201595358956+numsources0.03289473684210526+news_keywords+['russia:0.418', 'spotify:0.413', 'news:0.284', 'regulation:0.2351', 'report:0.2256', 'service:0.2143', 'information:0.2024', 'suspend:0.1837', 'audio:0.1791', 'illegal:0.1736', 'platform:0.1727', 'statement:0.1642', 'month:0.1613', 'cite:0.1524', 'unprovoked:0.1488', 'channel:0.1403', 'enact:0.1371', 'discredit:0.1301', 'earlier:0.1044', 'state:0.1043', 'event:0.1032', 'despite:0.0956', 'risk:0.0928', 'plan:0.0872', 'critically:0.0854', 'end:0.0833', 'independent:0.0699', 'unfortunately:0.0695', 'make:0.0267', 'accord:0.0037']+titles_keywords+['spotify:0.4761', 'russia:0.3299', 'suspend:0.2315', 'service:0.1485', 'says:-0.0134']"
+        ],
+        [
+            "20220625+../news_crawling/RUS_UKR/p_articles/tribune.com.pk/Karachi ranks poorly on livability index.txt+eventbasecode160+eventcode160+avgtone0.4946043165467626+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['karachi:0.5986', 'livability:0.5163', 'city:0.3574', 'kyiv:0.3313', 'syria:0.3178', 'capital:0.3176', 'pakistans:0.2984', 'infrastructure:0.2955', 'vienna:0.2942', 'lagos:0.2751', 'quantitative:0.1955', 'economist:0.1918', 'rank:0.1869', 'stability:0.1707', 'port:0.1613', 'index:0.1514', 'averagely:0.138', 'global:0.1336', 'view:0.1316', 'range:0.1299', 'topic:0.1289', 'list:0.104', 'exclude:0.0976', 'declare:0.0603', 'abusive:0.0572', 'good:0.048', 'receive:0.037', 'factor:0.0302', 'downgrade:0.0255', 'fell:0.0167']+titles_keywords+['karachi:0.5459', 'livability:0.5318', 'index:0.1572', 'poorly:0.1158', 'ranks:0.1052']"
+        ]
+    ]
+}

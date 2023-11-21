@@ -1,0 +1,17 @@
+{
+    "AFR+UKR+20":[
+        [
+            "20220610+../news_crawling/RUS_UKR/p_articles/greekherald.com/US to Work With Ukraine to Get More Grains.txt+eventbasecode20+eventcode20+avgtone0.4876623376623377+goldsteinscale0.65+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.046052631578947366+news_keywords+['ukraine:0.4302', 'famine:0.3866', 'sahel:0.3505', 'wheat:0.3149', 'blockade:0.3092', 'economics:0.2946', 'humanitarian:0.2793', 'occupy:0.2571', 'feed:0.249', 'table:0.2464', 'produce:0.2439', 'expand:0.2344', 'president:0.229', 'diplomatically:0.2138', 'sputnikmikhail:0.2089', 'import:0.1997', 'future:0.194', 'expect:0.1914', 'assistance:0.1901', 'capability:0.175', 'steal:0.1721', 'world:0.1615', 'buy:0.1513', 'black:0.1458', 'million:0.1264', 'term:0.1192', 'stop:0.1144', 'long:0.109', 'fowler:0.1035', 'possible:0.07']+titles_keywords+['ukraine:0.4015', 'grains:0.3188', 'work:0.1228']"
+        ]
+    ],
+    "DEU+UKR+20":[
+        [
+            "20220526+../news_crawling/RUS_UKR/p_articles/greekherald.com/Russia makes move against departing foreign firms.txt+eventbasecode20+eventcode20+avgtone0.488659793814433+goldsteinscale0.65+nummentions0.07656023222060958+numarticles0.0772298767222625+numsources0.13815789473684212+news_keywords+['ukraine:0.4912', 'kremlin:0.4496', 'nationalization:0.359', 'economy:0.2493', 'implement:0.2395', 'breakaway:0.2253', 'diplomat:0.2156', 'seize:0.2147', 'inaction:0.214', 'stock:0.2074', 'plan:0.2042', 'unprovoked:0.1992', 'disaster:0.1873', 'depart:0.1816', 'resume:0.1702', 'microsoft:0.1678', 'reconstruction:0.1662', 'fight:0.1639', 'external:0.1633', 'authority:0.16', 'military:0.1576', 'term:0.1549', 'follow:0.1466', 'like:0.1278', 'produce:0.1257', 'sign:0.1194', 'include:0.1178', 'donbass:0.1148', 'significance:0.1136', 'month:0.1068']+titles_keywords+['russia:0.3932', 'departing:0.2686', 'firms:0.2359', 'foreign:0.1296', 'makes:0.0502']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/greekherald.com/Russia to reap huge profits from energy exports media.txt+eventbasecode20+eventcode20+avgtone0.4838187702265372+goldsteinscale0.65+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.023026315789473683+news_keywords+['russia:0.4884', 'ruble:0.4331', 'kremlin:0.4021', 'vladimir:0.308', 'supply:0.3032', 'embargo:0.2953', 'profit:0.2533', 'bloomberg:0.2337', 'output:0.23', 'import:0.2062', 'gas:0.2032', 'skyrocket:0.1994', 'report:0.1867', 'global:0.183', 'current:0.178', 'analysis:0.161', 'barrel:0.1579', 'continue:0.1241', 'billion:0.1239', 'estimate:0.1181', 'inflow:0.117', 'substantial:0.1131', 'march:0.1096', 'set:0.0773', 'compare:0.0721', 'track:0.0694', 'highlight:0.0659', 'iff:0.0605', 'accord:0.0481', 'unfriendly:0.0432']+titles_keywords+['russia:0.4198', 'profits:0.3314', 'exports:0.3177', 'media:0.2403', 'huge:0.092']"
+        ]
+    ]
+}

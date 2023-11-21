@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+111":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Macron and Putin to talk as Ukraine front line grows more volatile.txt+eventbasecode111+eventcode111+avgtone0.4704670329670329+goldsteinscale0.4+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.09868421052631579+news_keywords+['putin:0.4876', 'nato:0.4538', 'ukraines:0.4417', 'ceasefire:0.4212', 'macron:0.3844', 'lviv:0.288', 'incursion:0.2764', 'evacuate:0.275', 'border:0.2713', 'predict:0.2601', 'rhetoric:0.2571', 'respond:0.2186', 'reinforce:0.2125', 'concern:0.2073', 'avert:0.2032', 'meeting:0.1997', 'timeframes:0.1906', 'french:0.1864', 'fatality:0.1846', 'monday:0.1787', 'information:0.1772', 'come:0.1692', 'power:0.1524', 'general:0.1495', 'false:0.1456', 'fabricate:0.1388', 'end:0.132', 'metre:0.1243', 'stoltenberg:0.0931', 'hundreds:0.0882']+titles_keywords+['macron:0.4214', 'ukraine:0.3204', 'talk:0.3022', 'line:0.123', 'volatile:0.0921']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/thenews.com.pk/Queen Elizabeths cousin returns Kremlin honour as he caves in to pressure.txt+eventbasecode111+eventcode111+avgtone0.48677248677248675+goldsteinscale0.4+nummentions0.01995645863570392+numarticles0.020667150108774474+numsources0.02631578947368421+news_keywords+['tsar:0.4616', 'putins:0.4499', 'kremlin:0.4361', 'medvedev:0.3529', 'ukraine:0.3501', 'prince:0.326', 'cousin:0.3156', 'queen:0.3073', 'honour:0.3068', 'michael:0.2487', 'invade:0.247', 'kent:0.2337', 'president:0.2234', 'privileged:0.2159', 'hrh:0.2048', 'announce:0.1881', 'pressure:0.1695', 'elena:0.1546', 'fled:0.1496', 'report:0.1434', 'receive:0.1358', 'late:0.1315', 'confirm:0.1301', 'according:0.1229', 'ii:0.1206', 'newspaper:0.1086', 'link:0.1066', 'face:0.1065', 'cut:0.1021', 'million:0.0794']+titles_keywords+['kremlin:0.3906', 'queen:0.3386', 'honour:0.3134', 'cousin:0.293', 'pressure:0.2169']"
+        ]
+    ]
+}

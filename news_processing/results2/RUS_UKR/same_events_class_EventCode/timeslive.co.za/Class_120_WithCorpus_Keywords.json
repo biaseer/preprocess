@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+120":[
+        [
+            "20220424+../news_crawling/RUS_UKR/p_articles/timeslive.co.za/On Orthodox Easter Zelenskyy vows wickedness will not destroy Ukraine.txt+eventbasecode120+eventcode120+avgtone0.480722891566265+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['easter:0.4699', 'orthodox:0.4455', 'kyiv:0.419', 'zelenskyy:0.3857', 'putin:0.3184', 'truce:0.3128', 'invasion:0.2844', 'celebration:0.2668', 'kill:0.246', 'overcome:0.2359', 'missile:0.2175', 'military:0.2054', 'happy:0.193', 'month:0.1905', 'know:0.1898', 'odesa:0.1891', 'outfit:0.1853', 'boy:0.1713', 'people:0.1574', 'hole:0.1452', 'concern:0.1439', 'far:0.136', 'southern:0.1328', 'include:0.124', 'exactly:0.1173', 'resume:0.1139', 'sophia:0.1097', 'luminous:0.0878', 'new:0.0868', 'possible:0.0859']+titles_keywords+['zelenskyy:0.5247', 'orthodox:0.4401', 'easter:0.3301', 'wickedness:0.2842', 'destroy:0.2285']"
+        ]
+    ],
+    "WST+UKR+120":[
+        [
+            "20220522+../news_crawling/RUS_UKR/p_articles/timeslive.co.za/TIMELINE Russias invasion of Ukraine enters fourth month.txt+eventbasecode120+eventcode120+avgtone0.45454545454545453+goldsteinscale0.3+nummentions0.05152394775036284+numarticles0.05221174764321972+numsources0.039473684210526314+news_keywords+['crimea:0.4564', 'kremlin:0.3784', 'invade:0.3665', 'nato:0.3556', 'war:0.3522', 'timeline:0.3311', 'demilitarise:0.2781', 'assault:0.2191', 'logistical:0.2178', 'zelenskiy:0.2014', 'corridor:0.201', 'capital:0.2003', 'intensifies:0.1962', 'unhcr:0.1916', 'quick:0.1774', 'seize:0.1729', 'fled:0.1722', 'eastern:0.1709', 'end:0.1565', 'hop:0.1469', 'nearly:0.1393', 'focus:0.1369', 'blame:0.1359', 'bucha:0.1318', 'large:0.1317', 'deep:0.1288', 'plant:0.1215', 'say:0.1185', 'salvage:0.1171', 'million:0.1005']+titles_keywords+['ukraine:0.418', 'timeline:0.3947', 'month:0.3722', 'invasion:0.3518', 'fourth:0.243']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220311+../news_crawling/RUS_UKR/p_articles/businessinsider.co.za/Satellite images show a large Russian military convoy deployed near a Ukrainian airport northwest of.txt+eventbasecode180+eventcode180+avgtone0.4968051118210862+goldsteinscale0.05+nummentions0.029753265602322207+numarticles0.01595358955765047+numsources0.013157894736842105+news_keywords+['kyiv:0.5475', 'deploy:0.378', 'convoy:0.3549', 'military:0.3486', 'airport:0.3165', 'antonov:0.3125', 'near:0.2573', 'maneuver:0.2534', 'reposition:0.2463', 'satellite:0.2368', 'howitzer:0.2007', 'kilometer:0.2004', 'expand:0.1934', 'march:0.1918', 'north:0.1915', 'tank:0.1902', 'assault:0.1879', 'surround:0.1835', 'report:0.1611', 'imagery:0.1417', 'ongoing:0.1412', 'spot:0.1368', 'morning:0.1301', 'email:0.1189', 'th:0.1147', 'point:0.1062', 'company:0.0954', 'tree:0.0899', 'line:0.0768', 'largely:0.0259']+titles_keywords+['kyiv:0.4629', 'convoy:0.3863', 'satellite:0.2899', 'images:0.213', 'near:0.2055']"
+        ]
+    ],
+    "WST+RUS+180":[
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/businessinsider.co.za/Russian troops were killed after being given poisoned food and alcohol by Ukrainian civilians officials.txt+eventbasecode180+eventcode180+avgtone0.4659400544959128+goldsteinscale0.05+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['kyiv:0.5622', 'ukrainians:0.4683', 'russia:0.4078', 'nato:0.3631', 'kharkiv:0.3552', 'poison:0.3032', 'bombardment:0.2997', 'molotov:0.2789', 'kill:0.2616', 'civilian:0.2612', 'tank:0.2387', 'rifle:0.2272', 'tiananmen:0.2159', 'fight:0.1922', 'hospital:0.1869', 'learn:0.1805', 'continue:0.1578', 'month:0.1539', 'suspicious:0.1509', 'cake:0.1443', 'result:0.1415', 'rd:0.129', 'izium:0.1259', 'stories:0.1171', 'control:0.1089', 'area:0.1063', 'main:0.0952', 'care:0.0872', 'available:0.0616', 'man:0.0252']+titles_keywords+['ukrainian:0.3872', 'poisoned:0.3648', 'troops:0.2725', 'alcohol:0.1804', 'say:-0.0098']"
+        ]
+    ]
+}

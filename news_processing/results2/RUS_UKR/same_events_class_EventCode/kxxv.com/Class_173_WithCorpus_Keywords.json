@@ -1,0 +1,12 @@
+{
+    "POL+UKR+173":[
+        [
+            "20211118+../news_crawling/RUS_UKR/p_articles/kxxv.com/Ransomware persists even as highprofile attacks have slowed.txt+eventbasecode173+eventcode173+avgtone0.46212731668009666+goldsteinscale0.25+nummentions0.34107402031930334+numarticles0.34155184916606235+numsources0.375+news_keywords+['ransomware:0.5804', 'cybersecurity:0.4824', 'threat:0.3372', 'extradition:0.322', 'victims:0.3196', 'government:0.2684', 'information:0.2637', 'sector:0.2556', 'email:0.2547', 'trend:0.254', 'report:0.2514', 'reiterate:0.2254', 'order:0.2053', 'halt:0.205', 'currencyexchange:0.2045', 'june:0.2012', 'peskov:0.2011', 'recapture:0.1988', 'learn:0.1955', 'significant:0.1885', 'originate:0.1838', 'updates:0.1816', 'biden:0.1764', 'quote:0.1726', 'million:0.1623', 'ap:0.1579', 'fully:0.1382', 'theyve:0.1342', 'launder:0.1172', 'highprofile:0.0893']+titles_keywords+['ransomware:0.6113', 'highprofile:0.3078', 'persists:0.2015', 'attacks:0.1639', 'slowed:0.1161']"
+        ]
+    ],
+    "RUS+UKR+173":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/kxxv.com/NATO says Russia is misleading world on troop movements near Ukraine.txt+eventbasecode173+eventcode173+avgtone0.4653284671532847+goldsteinscale0.25+nummentions0.01632801161103048+numarticles0.01704133430021755+numsources0.019736842105263157+news_keywords+['nato:0.4505', 'putin:0.4094', 'kyiv:0.3466', 'invade:0.3445', 'war:0.3347', 'disinformation:0.3022', 'troop:0.2617', 'enemy:0.2491', 'separatist:0.2229', 'crisis:0.2194', 'reassure:0.1982', 'tension:0.196', 'border:0.1948', 'accuse:0.1836', 'order:0.1745', 'biden:0.1743', 'fight:0.174', 'opposite:0.1501', 'tense:0.1446', 'near:0.1407', 'comment:0.1291', 'week:0.1233', 'pendulum:0.1189', 'signal:0.1158', 'temperature:0.1099', 'propose:0.1091', 'bloody:0.1071', 'grow:0.0829', 'thousand:0.0643', 'sent:0.0559']+titles_keywords+['nato:0.4387', 'misleading:0.3769', 'movements:0.1576', 'near:0.0785', 'says:0.0672']"
+        ]
+    ]
+}

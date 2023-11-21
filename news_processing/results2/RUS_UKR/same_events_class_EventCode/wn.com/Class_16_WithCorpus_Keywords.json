@@ -1,0 +1,12 @@
+{
+    "DEU+UKR+16":[
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/wn.com/Merkel defends Russia legacy says nothing to apologize for.txt+eventbasecode16+eventcode16+avgtone0.4918032786885246+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['merkel:0.5097', 'russia:0.3169', 'apologize:0.3141', 'apologise:0.3088', 'moscow:0.2993', 'detente:0.2579', 'ukraine:0.2537', 'defend:0.2211', 'speak:0.2197', 'war:0.1971', 'michelle:0.1903', 'say:0.1892', 'angela:0.1845', 'german:0.1812', 'chancellor:0.1809', 'policy:0.1346', 'legacy:0.1194', 'pall:0.1034', 'fitzpatrick:0.085', 'year:0.082', 'stage:0.0708', 'tuesday:0.0687', 'long:0.0541', 'cast:-0.041']+titles_keywords+['merkel:0.4168', 'apologize:0.3487', 'russia:0.3065', 'defends:0.2123', 'legacy:0.1123']"
+        ]
+    ],
+    "RUS+UKR+16":[
+        [
+            "20220204+../news_crawling/RUS_UKR/p_articles/wn.com/Nonsense Russia dismisses US claims of false flag operation in Ukraine.txt+eventbasecode16+eventcode16+avgtone0.4479166666666665+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.3927', 'ukrainian:0.3781', 'russia:0.3582', 'moscow:0.3388', 'pretext:0.3076', 'nonsense:0.2668', 'invasion:0.2646', 'flag:0.2536', 'war:0.2394', 'false:0.1818', 'warn:0.1735', 'operation:0.1481', 'stage:0.1445', 'blame:0.1417', 'dismiss:0.1343', 'claim:0.1326', 'plan:0.1297', 'fabricate:0.1254', 'atrocity:0.1173', 'excuse:0.1162', 'branding:0.098', 'hit:0.0844', 'start:0.0722', 'planning:0.0717', 'states:0.0625', 'night:0.0615', 'force:0.0561', 'united:0.0559', 'suggestion:0.0477', 'use:0.037']+titles_keywords+['ukraine:0.3892', 'nonsense:0.3221', 'flag:0.2587', 'false:0.2205', 'dismisses:0.173']"
+        ]
+    ]
+}

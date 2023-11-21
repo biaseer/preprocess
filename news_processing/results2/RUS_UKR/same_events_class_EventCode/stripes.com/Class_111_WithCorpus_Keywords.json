@@ -1,0 +1,16 @@
+{
+    "ISR+RUS+111":[
+        []
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220606+../news_crawling/RUS_UKR/p_articles/stripes.com/Another Russian general reported killed in action Britain pledges rocket systems to Ukraine.txt+eventbasecode111+eventcode111+avgtone0.4665314401622718+goldsteinscale0.4+nummentions0.007982583454281567+numarticles0.00870195794053662+numsources0.006578947368421052+news_keywords+['putin:0.4708', 'ukrainian:0.4354', 'vasily:0.3706', 'kutuzov:0.3651', 'colonels:0.3531', 'yuri:0.3473', 'donetsk:0.3326', 'general:0.2984', 'news:0.2676', 'artillery:0.2549', 'deaths:0.2452', 'territories:0.2232', 'know:0.218', 'report:0.2135', 'enemy:0.2058', 'leading:0.1909', 'medal:0.1777', 'supply:0.1725', 'shot:0.1603', 'late:0.1586', 'month:0.1469', 'retire:0.1464', 'range:0.1433', 'short:0.1314', 'multiple:0.1179', 'send:0.1142', 'rarely:0.0748', 'rbc:0.0706', 'flatten:0.0699', 'exclude:0.0661']+titles_keywords+['ukraine:0.3807', 'general:0.2371', 'rocket:0.2089', 'killed:0.1497', 'pledges:0.092']"
+        ],
+        []
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/stripes.com/Ukrainian navy says Snake Island border guards still alive.txt+eventbasecode111+eventcode111+avgtone0.4762443438914027+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4389', 'snake:0.3651', 'island:0.3647', 'comrade:0.3589', 'troop:0.3466', 'invade:0.3104', 'border:0.2922', 'zelenskyy:0.2868', 'propaganda:0.2533', 'nation:0.2412', 'conflict:0.2011', 'headline:0.1864', 'outlet:0.1862', 'forget:0.1841', 'captive:0.1794', 'fact:0.1673', 'officials:0.167', 'catastrophic:0.1477', 'thursday:0.143', 'initially:0.1421', 'alive:0.1402', 'contact:0.1389', 'bravely:0.1292', 'bury:0.1267', 'write:0.1221', 'happy:0.1206', 'heard:0.1184', 'continue:0.1182', 'add:0.0776', 'biden:0.0699']+titles_keywords+['snake:0.3436', 'ukrainian:0.3225', 'guards:0.3075', 'island:0.2606', 'alive:0.2059']"
+        ]
+    ]
+}

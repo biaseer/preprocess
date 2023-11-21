@@ -1,0 +1,12 @@
+{
+    "RUS+USA+10":[
+        [
+            "20220131+../news_crawling/RUS_UKR/p_articles/news.am/Biden US allies and partners continue to prepare for every scenario in Ukraine.txt+eventbasecode10+eventcode10+avgtone0.4837398373983739+goldsteinscale0.5+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['diplomacy:0.421', 'biden:0.4127', 'ukraines:0.37', 'warn:0.2793', 'prepare:0.2764', 'allies:0.272', 'attack:0.2717', 'escalation:0.2713', 'implication:0.2402', 'scenario:0.2358', 'concern:0.234', 'debate:0.201', 'speak:0.1914', 'respond:0.1879', 'military:0.1851', 'accountability:0.1749', 'meet:0.1729', 'order:0.1579', 'world:0.1499', 'instead:0.1453', 'neighbor:0.1381', 'council:0.1289', 'clear:0.1167', 'refrain:0.1111', 'tenet:0.1107', 'united:0.1102', 'good:0.1065', 'state:0.1024', 'swift:0.0971', 'today:0.0791']+titles_keywords+['prepare:0.4049', 'allies:0.3718', 'ukraine:0.3533', 'biden:0.3002', 'scenario:0.1573']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/news.am/Ambassador Antonov says military aid to Ukraine could potentially lead to RussiaUS direct conflict.txt+eventbasecode10+eventcode10+avgtone0.4833887043189369+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.009868421052631578+news_keywords+['nato:0.4973', 'ukraine:0.4291', 'antonov:0.3735', 'diplomat:0.3325', 'euromaidan:0.3079', 'aid:0.2968', 'bloodshed:0.2784', 'operation:0.2641', 'confrontation:0.2572', 'ally:0.2518', 'armed:0.2232', 'government:0.2151', 'convoy:0.2137', 'involve:0.2046', 'dangerous:0.1876', 'direct:0.1823', 'newsweek:0.1676', 'unwillingness:0.1503', 'end:0.1473', 'biden:0.1372', 'outline:0.1353', 'worsen:0.1353', 'report:0.1299', 'fulfil:0.127', 'anatoly:0.1234', 'current:0.1199', 'uprise:0.1059', 'potentially:0.0957', 'send:0.0955', 'year:0.0663']+titles_keywords+['antonov:0.4481', 'ukraine:0.3728', 'ambassador:0.2646', 'aid:0.2393', 'potentially:0.1661']"
+        ]
+    ]
+}

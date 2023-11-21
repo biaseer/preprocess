@@ -1,0 +1,15 @@
+{
+    "BEL+RUS+73":[
+        [
+            "20220418+../news_crawling/RUS_UKR/p_articles/menafn.com/EU to provide more humanitarian aid to Ukraine Moldova.txt+eventbasecode73+eventcode73+avgtone0.49142857142857144+goldsteinscale0.8699999999999999+nummentions0.01632801161103048+numarticles0.01704133430021755+numsources0.019736842105263157+news_keywords+['ukraine:0.4811', 'humanitarian:0.3692', 'refugee:0.3543', 'funding:0.2383', 'euro:0.2275', 'emergency:0.197', 'legality:0.1912', 'union:0.1599', 'issue:0.1527', 'shelter:0.1526', 'news:0.1434', 'report:0.1313', 'contact:0.1282', 'safe:0.1262', 'continue:0.1233', 'menafn:0.1226', 'missile:0.1198', 'april:0.1147', 'fight:0.1144', 'relate:0.1144', 'people:0.1123', 'brings:0.1104', 'hygiene:0.1071', 'accord:0.0982', 'allocate:0.0963', 'total:0.0963', 'iansintsksdpbmenafn:0.0906', 'base:0.0899', 'statement:0.087', 'extremely:0.0727']+titles_keywords+['moldova:0.5443', 'eu:0.3316', 'humanitarian:0.3275', 'aid:0.3065', 'provide:0.1723']"
+        ]
+    ],
+    "RUS+UKR+73":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/menafn.com/Turkiyes ExPremier Global Food Crisis Knocking At The Door.txt+eventbasecode73+eventcode73+avgtone0.49397590361445787+goldsteinscale0.8699999999999999+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['turkiyes:0.5714', 'food:0.4035', 'provide:0.2443', 'menafn:0.2078', 'crisis:0.1989', 'issue:0.1903', 'complaint:0.1799', 'contain:0.1765', 'global:0.1731', 'article:0.1592', 'kindly:0.1556', 'image:0.1356', 'responsibility:0.1354', 'content:0.1347', 'expremier:0.1322', 'door:0.1305', 'legality:0.1305', 'accept:0.1295', 'relate:0.1293', 'information:0.1162', 'kind:0.0895', 'completeness:0.0871', 'contact:0.0824', 'warranty:0.0794', 'accuracy:0.0712', 'reliability:0.0651', 'provider:0.0638', 'videos:0.0502', 'disclaimer:0.0475', 'copyright:0.0367']+titles_keywords+['turkiyes:0.5432', 'food:0.4096', 'crisis:0.2721', 'global:0.2134', 'knocking:0.1125']"
+        ],
+        [
+            "20220629+../news_crawling/RUS_UKR/p_articles/menafn.com/War In Ukraine Raises Global Shipping Costs Stifles Trade.txt+eventbasecode73+eventcode73+avgtone0.47730829420970267+goldsteinscale0.8699999999999999+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.009868421052631578+news_keywords+['ukraine:0.464', 'war:0.3904', 'economy:0.3502', 'logistics:0.345', 'disruptions:0.3224', 'commodity:0.2876', 'tanker:0.2645', 'climate:0.2632', 'concern:0.2494', 'agrifood:0.2479', 'increase:0.2336', 'federation:0.2213', 'urgent:0.2165', 'import:0.1989', 'covid:0.1807', 'input:0.1804', 'article:0.1708', 'report:0.1682', 'alternative:0.1352', 'imply:0.1263', 'dependent:0.1252', 'relate:0.112', 'completeness:0.1103', 'price:0.1', 'turn:0.0949', 'menafn:0.0859', 'trend:0.0768', 'percent:0.0517', 'distant:0.0495', 'especially:0.0412']+titles_keywords+['ukraine:0.3856', 'war:0.3607', 'shipping:0.3294', 'global:0.1566', 'stifles:0.1178']"
+        ]
+    ]
+}

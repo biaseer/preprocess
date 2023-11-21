@@ -1,0 +1,12 @@
+{
+    "GBR+UKR+51":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/thewire.in/Russia Vetoes UNSC Resolution Deploring Ukraine Invasion China India Abstain.txt+eventbasecode51+eventcode51+avgtone0.46393034825870644+goldsteinscale0.67+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.06907894736842106+news_keywords+['diplomacy:0.4435', 'ukraine:0.4212', 'vetoes:0.4005', 'putin:0.3754', 'abstain:0.3231', 'invasion:0.2885', 'sanction:0.2863', 'nations:0.2733', 'unsc:0.2691', 'separatist:0.2543', 'standoff:0.2424', 'irresponsible:0.1751', 'collaborate:0.1645', 'authorisation:0.1605', 'remove:0.1535', 'come:0.1514', 'expect:0.1451', 'neighbour:0.1371', 'deal:0.1336', 'matter:0.1333', 'state:0.13', 'immediately:0.1291', 'reason:0.128', 'text:0.1176', 'draft:0.1046', 'resolution:0.1019', 'mistake:0.1016', 'deploring:0.0916', 'cast:0.07', 'reverse:0.0678']+titles_keywords+['ukraine:0.4281', 'abstain:0.3871', 'unsc:0.2643', 'resolution:0.1027', 'deploring:0.0658']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/thewire.in/Ukraines Prosecutor Office Says 112 Children Killed in War.txt+eventbasecode51+eventcode51+avgtone0.444078947368421+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.5021', 'lviv:0.4987', 'war:0.4012', 'russias:0.3147', 'child:0.2845', 'invasion:0.2616', 'killed:0.202', 'activist:0.1829', 'march:0.164', 'commemorate:0.1578', 'place:0.1518', 'reutersroman:0.1489', 'baluk:0.1448', 'ongoing:0.1424', 'number:0.13', 'start:0.1275', 'hall:0.1241', 'score:0.114', 'look:0.1118', 'organize:0.0984', 'prams:0.0975', 'general:0.0971', 'central:0.0786', 'price:0.072', 'highlight:0.0673', 'far:0.0587', 'says:0.055', 'line:0.0544', 'square:0.0415', 'accord:0.0121']+titles_keywords+['ukraines:0.3954', '112:0.3268', 'war:0.3057', 'prosecutor:0.1249', 'says:0.0649']"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "EUR+UKR+110":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/dw.com/Most stayed Ukrainian artist in Kyiv.txt+eventbasecode110+eventcode110+avgtone0.47867001254705144+goldsteinscale0.4+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.0+news_keywords+['kyiv:0.544', 'putin:0.3904', 'translator:0.364', 'propaganda:0.3473', 'journalist:0.3452', 'nationalist:0.3437', 'read:0.3129', 'justify:0.3069', 'occupy:0.3039', 'situation:0.2784', 'spiegel:0.2726', 'telegram:0.2713', 'help:0.268', 'poetry:0.2615', 'accompany:0.2521', 'afraid:0.2468', 'live:0.2385', 'bomb:0.2339', 'military:0.2313', 'tense:0.2269', 'pandemic:0.2194', 'capitalon:0.2186', 'friend:0.2182', 'stop:0.2127', 'world:0.2058', 'theyare:0.2049', 'hole:0.184', 'sidepeople:0.1827', 'siren:0.18', 'long:0.1361']+titles_keywords+['kyiv:0.6295', 'ukrainian:0.4957', 'artist:0.3932', 'stayed:0.2485']"
+        ]
+    ],
+    "RUS+UKR+110":[
+        [
+            "20220306+../news_crawling/RUS_UKR/p_articles/dw.com/Volunteers line up to join Ukrainian army.txt+eventbasecode110+eventcode110+avgtone0.5+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.003289473684210526+news_keywords+['conscription:0.5485', 'ukraine:0.4542', 'ukrainian:0.4375', 'army:0.4355', 'volunteer:0.4265', 'volunteers:0.3921', 'russia:0.3546', 'join:0.344', 'war:0.3283', 'remain:0.2896', 'tactic:0.2662', 'sign:0.206', 'country:0.191', 'age:0.1905', 'men:0.1826', 'line:0.1668', 'available:0.1194', 'despite:0.101', 'brutal:0.0927', 'increasingly:0.0792', 'tell:0.0656']+titles_keywords+['army:0.4088', 'volunteers:0.408', 'ukrainian:0.3804', 'join:0.3641', 'line:0.1778']"
+        ]
+    ],
+    "UKR+RUS+110":[
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/dw.com/Russian antiwar protesters wave new flag.txt+eventbasecode110+eventcode110+avgtone0.44202898550724595+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.003289473684210526+news_keywords+['protest:0.3839', 'antiwar:0.3838', 'russian:0.3828', 'russians:0.3814', 'flag:0.3768', 'putin:0.3637', 'ukraine:0.3614', 'protester:0.3464', 'war:0.3114', 'militarism:0.27', 'peace:0.2618', 'invade:0.2531', 'violence:0.2208', 'idea:0.1539', 'world:0.1428', 'wave:0.1427', 'born:0.1276', 'join:0.1172', 'new:0.1106', 'force:0.107', 'oposed:0.099', 'fellow:0.0778']+titles_keywords+['protesters:0.4629', 'russian:0.3821', 'flag:0.3561', 'wave:0.1948', 'new:0.1764']"
+        ],
+        [
+            "20220724+../news_crawling/RUS_UKR/p_articles/dw.com/Zelenskyy condemns attack on Odesa.txt+eventbasecode110+eventcode110+avgtone0.48611111111111105+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['zelenskyy:0.4133', 'ukraine:0.3852', 'moscow:0.379', 'attack:0.3241', 'russia:0.3138', 'odesa:0.3038', 'strike:0.2359', 'missile:0.2348', 'export:0.1853', 'trust:0.1849', 'port:0.1566', 'grain:0.132', 'president:0.1258', 'condemn:0.11', 'day:0.1055', 'prove:0.1034', 'despite:0.1017', 'underway:0.0976', 'preparations:0.094', 'city:0.0845', 'resume:0.0788', 'deal:0.0732', 'agree:0.0536', 'say:0.0498']+titles_keywords+['zelenskyy:0.5689', 'odesa:0.4589', 'attack:0.3507', 'condemns:0.2656']"
+        ]
+    ]
+}

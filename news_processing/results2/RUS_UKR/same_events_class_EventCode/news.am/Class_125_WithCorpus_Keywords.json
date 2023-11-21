@@ -1,0 +1,12 @@
+{
+    "RUS+EUR+125":[
+        [
+            "20210706+../news_crawling/RUS_UKR/p_articles/news.am/Russian delegation to OSCE Parliamentary Assembly boycotts session.txt+eventbasecode125+eventcode125+avgtone0.4849246231155779+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0025380710659898475+numsources0.0+news_keywords+['osce:0.4114', 'ukraine:0.3402', 'protest:0.3111', 'delegation:0.2924', 'tolstoy:0.2398', 'violate:0.237', 'parliamentary:0.2357', 'regulation:0.2332', 'rule:0.232', 'duma:0.2318', 'chairman:0.2154', 'politicized:0.2137', 'report:0.2087', 'attend:0.2051', 'pyotr:0.1954', 'unilateral:0.1807', 'majority:0.1481', 'work:0.1388', 'concern:0.138', 'hall:0.1372', 'state:0.1097', 'make:0.088', 'resolution:0.0877', 'plan:0.0856', 'dont:0.0839', 'include:0.0733', 'right:0.0526', 'tass:0.0498', 'base:0.0222', 'accord:0.021']+titles_keywords+['osce:0.3899', 'russian:0.2886', 'boycotts:0.266', 'delegation:0.2154', 'session:0.1428']"
+        ]
+    ],
+    "RUS+RUS+125":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/news.am/Russia Deputy FM does not rule out possibility of discussing exchange of POWs from Azovstal.txt+eventbasecode125+eventcode125+avgtone0.4932432432432432+goldsteinscale0.25+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['rudenko:0.4295', 'andrey:0.3739', 'moscow:0.3699', 'russian:0.3326', 'ukrainian:0.3003', 'russia:0.2961', 'exchange:0.2817', 'allow:0.2606', 'rule:0.2473', 'possibility:0.2335', 'prisoner:0.2276', 'report:0.1821', 'sense:0.1746', 'deputy:0.1739', 'azovstal:0.173', 'pows:0.1648', 'reporter:0.1477', 'military:0.1401', 'discuss:0.1286', 'contradict:0.1247', 'monday:0.1227', 'ask:0.1207', 'fm:0.1188', 'common:0.1187', 'foreign:0.1114', 'say:0.0863', 'minister:0.0852', 'tass:0.0291']+titles_keywords+['russia:0.2568', 'pows:0.2554', 'deputy:0.2318', 'exchange:0.2083', 'possibility:0.1837']"
+        ]
+    ]
+}

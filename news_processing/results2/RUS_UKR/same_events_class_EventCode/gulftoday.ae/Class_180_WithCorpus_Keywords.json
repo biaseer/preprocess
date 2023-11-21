@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220313+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/America has taken its Arab allies for granted.txt+eventbasecode180+eventcode180+avgtone0.4714893617021277+goldsteinscale0.05+nummentions0.008345428156748911+numarticles0.009064539521392313+numsources0.009868421052631578+news_keywords+['syrias:0.5317', 'kurds:0.5246', 'syrian:0.4878', 'arab:0.4224', 'baladi:0.3409', 'america:0.2828', 'ally:0.2713', 'regime:0.2422', 'clash:0.241', 'france:0.2093', 'stadium:0.198', 'gather:0.1933', 'commemorate:0.1886', 'grant:0.1816', 'province:0.1398', 'community:0.1293', 'saturday:0.1265', 'northeastern:0.1252', 'force:0.1136', 'bloody:0.1072', 'hasakeh:0.1007', 'member:0.0932', 'presse:0.077', 'agence:0.055']+titles_keywords+['allies:0.3855', 'arab:0.3759', 'america:0.2931', 'granted:0.2014', 'taken:0.0409']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220312+../news_crawling/RUS_UKR/p_articles/gulftoday.ae/Air raid sirens across Ukraine as Russian forces regroup for possible assault on Kyiv.txt+eventbasecode180+eventcode180+avgtone0.4647239263803681+goldsteinscale0.05+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.013157894736842105+news_keywords+['kyiv:0.5502', 'putin:0.471', 'soviet:0.4379', 'demilitarization:0.3622', 'chernobyl:0.3457', 'terrorist:0.3219', 'invasion:0.3195', 'evacuate:0.3185', 'news:0.2987', 'protest:0.2883', 'police:0.2705', 'firing:0.2524', 'report:0.2484', 'siren:0.2333', 'distract:0.2153', 'enter:0.2137', 'morning:0.2034', 'finance:0.197', 'continue:0.1933', 'barbaric:0.1823', 'affair:0.1814', 'dmytro:0.181', 'heard:0.1732', 'fake:0.1652', 'note:0.1605', 'ap:0.1558', 'th:0.1507', 'satellite:0.1488', 'plant:0.1439', 'cross:0.1134']+titles_keywords+['sirens:0.4507', 'kyiv:0.4496', 'raid:0.2638', 'regroup:0.2161', 'possible:0.0752']"
+        ]
+    ]
+}

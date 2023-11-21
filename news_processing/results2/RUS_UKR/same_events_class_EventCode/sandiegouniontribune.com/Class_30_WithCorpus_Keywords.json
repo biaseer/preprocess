@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+30":[
+        [
+            "20220720+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/US rocket system enables Ukraine to pummel key supply bridge.txt+eventbasecode30+eventcode30+avgtone0.4811178247734139+goldsteinscale0.7+nummentions0.03773584905660377+numarticles0.03843364757070341+numsources0.05592105263157895+news_keywords+['ukraines:0.4871', 'airstrikes:0.4309', 'soviet:0.4249', 'artillery:0.3183', 'dnipropetrovsk:0.3007', 'tank:0.2764', 'strategic:0.2719', 'emergency:0.2554', 'bridge:0.2528', 'occupy:0.2503', 'victory:0.2449', 'underway:0.2448', 'enemy:0.2402', 'civilian:0.2399', 'know:0.2396', 'supply:0.2171', 'intensify:0.2089', 'northeast:0.2012', 'agreement:0.2011', 'chaotic:0.1987', 'kilometer:0.1931', 'learn:0.1875', 'hydroelectric:0.1852', 'donbas:0.1786', 'pummel:0.1771', 'halt:0.1763', 'adviser:0.1581', 'nearly:0.1545', 'month:0.117', 'significant:0.1007']+titles_keywords+['rocket:0.3841', 'ukraine:0.372', 'bridge:0.3098', 'key:0.1842', 'enables:0.1669']"
+        ]
+    ],
+    "UKR+RUS+30":[
+        [
+            "20220823+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/UN nuclear agency again asks to visit Ukraine nuclear plant.txt+eventbasecode30+eventcode30+avgtone0.5+goldsteinscale0.7+nummentions0.041364296081277216+numarticles0.04205946337926034+numsources0.07894736842105263+news_keywords+['nuclear:0.4515', 'kyiv:0.3816', 'iaea:0.367', 'demilitarize:0.3224', 'putins:0.2983', 'war:0.2933', 'readiness:0.2832', 'warn:0.2754', 'contamination:0.2715', 'propaganda:0.2628', 'proceed:0.2602', 'nebenzia:0.2454', 'itinerary:0.2423', 'blackmail:0.2405', 'emergency:0.2405', 'secretary:0.2245', 'mission:0.2137', 'fraught:0.2072', 'arrangement:0.2062', 'plant:0.1919', 'issue:0.1852', 'irresponsible:0.1724', 'cite:0.1689', 'soon:0.1467', 'turn:0.1435', 'cover:0.1362', 'shoigu:0.1355', 'farce:0.1265', 'agree:0.0915', 'welcome:0.0656']+titles_keywords+['nuclear:0.3944', 'ukraine:0.3676', 'visit:0.2207', 'agency:0.1572', 'asks:0.0959']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "CHE+RUS+90":[
+        [
+            "20220512+../news_crawling/RUS_UKR/p_articles/theage.com.au/Russia threatens to retaliate as Finland seeks NATO membership without delay.txt+eventbasecode90+eventcode90+avgtone0.47323943661971835+goldsteinscale0.4+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['natos:0.4787', 'ukraine:0.456', 'kremlin:0.3904', 'finns:0.322', 'invasion:0.3109', 'helsinkikharkhiv:0.2998', 'neutrality:0.2347', 'retaliate:0.2011', 'history:0.1973', 'secure:0.1847', 'diplomat:0.1795', 'ratification:0.1765', 'long:0.1733', 'intensification:0.1704', 'align:0.1629', 'remain:0.1617', 'pipeline:0.1534', 'warmly:0.1441', 'headline:0.1436', 'reminder:0.1417', 'soon:0.1277', 'data:0.1193', 'add:0.119', 'oust:0.1019', 'population:0.0866', 'main:0.084', 'prices:0.0768', 'donets:0.0764', 'welcome:0.0513', 'possible:0.051']+titles_keywords+['finland:0.3713', 'retaliate:0.3479', 'nato:0.3406', 'threatens:0.2475', 'seeks:0.0381']"
+        ]
+    ],
+    "RUS+UKR+90":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/theage.com.au/Nothing is quite as it seems The illusion of Russias Potemkin markets.txt+eventbasecode90+eventcode90+avgtone0.47790404040404044+goldsteinscale0.4+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.009868421052631578+news_keywords+['putin:0.5056', 'russias:0.4318', 'crimea:0.4216', 'rouble:0.3977', 'potemkin:0.3725', 'sharemarkets:0.3575', 'economy:0.3478', 'meaningless:0.2595', 'gazprom:0.2342', 'crisis:0.2296', 'sanction:0.2134', 'buy:0.1948', 'region:0.1922', 'gas:0.1917', 'stabilise:0.1912', 'wont:0.1796', 'prepare:0.1773', 'newsletter:0.1708', 'recap:0.1684', 'effectively:0.1662', 'populate:0.1651', 'course:0.1634', 'current:0.1544', 'write:0.1531', 'lower:0.1504', 'inspect:0.1339', 'long:0.1329', 'billion:0.1272', 'external:0.1048', 'resembles:0.094']+titles_keywords+['potemkin:0.4695', 'markets:0.4415', 'russias:0.3515', 'illusion:0.3235', 'quite:0.2394']"
+        ]
+    ]
+}

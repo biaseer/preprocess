@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/wtkr.com/US official Ukrainian missile struck nowsunken Russian warship.txt+eventbasecode190+eventcode190+avgtone0.4652173913043478+goldsteinscale0.0+nummentions0.10377358490566038+numarticles0.09934735315445975+numsources0.16447368421052633+news_keywords+['kyiv:0.5059', 'crimean:0.4732', 'russias:0.3551', 'naval:0.2772', 'azov:0.2772', 'missile:0.2766', 'pentagon:0.2687', 'invade:0.2664', 'hit:0.2339', 'casualty:0.1952', 'peninsula:0.1944', 'fight:0.1941', 'industrial:0.1866', 'wednesday:0.1731', 'port:0.1717', 'event:0.1634', 'plan:0.1534', 'donbas:0.1521', 'sink:0.1353', 'near:0.135', 'promised:0.1256', 'scuttle:0.1238', 'significant:0.12', 'continue:0.1098', 'official:0.1059', 'posture:0.0963', 'anonymity:0.077', 'number:0.0719', 'review:0.0617', 'offer:0.0554']+titles_keywords+['missile:0.3787', 'ukrainian:0.3278', 'warship:0.3276', 'nowsunken:0.154', 'official:0.0726']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220624+../news_crawling/RUS_UKR/p_articles/wtkr.com/Ukrainian army to leave battered city to avoid encirclement.txt+eventbasecode190+eventcode190+avgtone0.46484375+goldsteinscale0.0+nummentions0.017779390420899856+numarticles0.01849166062364032+numsources0.019736842105263157+news_keywords+['ukraine:0.4721', 'luhansk:0.4194', 'retreat:0.3077', 'army:0.2728', 'bombardment:0.2723', 'encirclement:0.269', 'city:0.2501', 'serhiy:0.2488', 'sievierodonetsk:0.243', 'sprawl:0.2335', 'fight:0.2269', 'leave:0.2065', 'continue:0.2023', 'avoid:0.2007', 'besiege:0.1803', 'eastern:0.1648', 'underground:0.1639', 'order:0.161', 'factory:0.1608', 'center:0.1521', 'governor:0.145', 'structure:0.1348', 'batter:0.1302', 'receive:0.1208', 'huge:0.105', 'say:0.0926', 'didnt:0.076', 'house:0.0741', 'edge:0.0701', 'new:0.0617']+titles_keywords+['ukrainian:0.3068', 'encirclement:0.2944', 'city:0.2517', 'leave:0.2458', 'army:0.2141']"
+        ]
+    ]
+}

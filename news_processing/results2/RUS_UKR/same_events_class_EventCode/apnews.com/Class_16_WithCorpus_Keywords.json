@@ -1,0 +1,15 @@
+{
+    "RUS+RUS+16":[
+        [
+            "20220118+../news_crawling/RUS_UKR/p_articles/apnews.com/Blinken to meet with senior Russian as Ukraine tensions soar.txt+eventbasecode16+eventcode16+avgtone0.4768160741885626+goldsteinscale0.4+nummentions0.10667634252539913+numarticles0.10732414793328499+numsources0.25+news_keywords+['putin:0.4405', 'diplomacy:0.4008', 'nato:0.3944', 'kyiv:0.3842', 'russias:0.3563', 'invade:0.3143', 'blinken:0.2587', 'bipartisan:0.2582', 'escalation:0.2478', 'troop:0.2277', 'border:0.2267', 'prepare:0.1988', 'ouster:0.1981', 'forward:0.1912', 'friday:0.191', 'conclude:0.1908', 'arrange:0.19', 'hastily:0.1875', 'deliver:0.1843', 'dangerous:0.1731', 'write:0.1643', 'discus:0.1582', 'anonymity:0.1463', 'approve:0.1439', 'counterpart:0.1382', 'current:0.1364', 'point:0.1307', 'state:0.1272', 'follow:0.1253', 'price:0.0558']+titles_keywords+['blinken:0.4', 'ukraine:0.286', 'meet:0.2662', 'tensions:0.1551', 'senior:0.039']"
+        ]
+    ],
+    "RUS+UKR+16":[
+        [
+            "20220117+../news_crawling/RUS_UKR/p_articles/apnews.com/Russia denies looking for pretext to invade Ukraine.txt+eventbasecode16+eventcode16+avgtone0.4678068410462777+goldsteinscale0.4+nummentions0.2663280116110305+numarticles0.2668600435097897+numsources0.2993421052631579+news_keywords+['ukraines:0.4463', 'putin:0.4306', 'crimean:0.4253', 'nato:0.41', 'invade:0.374', 'diplomacy:0.3231', 'peskov:0.2991', 'escalation:0.2607', 'military:0.2563', 'cyberattacks:0.2511', 'prepare:0.2505', 'border:0.234', 'bluster:0.2185', 'flag:0.2038', 'bipartisan:0.2021', 'entail:0.2021', 'news:0.187', 'dangerous:0.1817', 'separatist:0.1794', 'reject:0.1733', 'drill:0.1645', 'adviser:0.1639', 'continue:0.1635', 'look:0.1308', 'write:0.1302', 'current:0.123', 'prelude:0.1085', 'arm:0.1084', 'possibility:0.0924', 'price:0.0638']+titles_keywords+['ukraine:0.4047', 'pretext:0.3376', 'invade:0.3138', 'denies:0.1828', 'looking:0.0937']"
+        ],
+        [
+            "20220404+../news_crawling/RUS_UKR/p_articles/apnews.com/Live updates RussiaUkraine War.txt+eventbasecode16+eventcode16+avgtone0.46667854597291514+goldsteinscale0.4+nummentions0.3095065312046444+numarticles0.30928208846990574+numsources0.24671052631578946+news_keywords+['ukraine:0.5245', 'kremlin:0.4553', 'nato:0.3921', 'genocide:0.3259', 'battalion:0.3096', 'diplomatic:0.3088', 'medvedev:0.3077', 'news:0.3056', 'evacuate:0.2987', 'zelenskyy:0.2909', 'report:0.2732', 'merkels:0.2529', 'telegram:0.2387', 'infrastructures:0.2355', 'reposition:0.214', 'agreement:0.2122', 'know:0.2098', 'armed:0.2028', 'harrow:0.1939', 'anonymity:0.1924', 'watchdog:0.1921', 'writing:0.1885', 'world:0.1823', 'bucha:0.1792', 'cut:0.1721', 'import:0.1668', 'exacerbate:0.1488', 'begin:0.1482', 'april:0.1472', 'smear:0.1447']+titles_keywords+['russiaukraine:0.5556', 'war:0.4948', 'live:0.2683', 'updates:0.2495']"
+        ]
+    ]
+}

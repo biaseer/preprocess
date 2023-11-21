@@ -1,0 +1,17 @@
+{
+    "GBR+RUS+130":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Fears Putin may use chemical weapons in Ukraine as Russian invasion falters.txt+eventbasecode130+eventcode130+avgtone0.46460176990999996+goldsteinscale0.27999999999999997+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.498', 'ukrainian:0.4179', 'syria:0.3927', 'nato:0.3728', 'warfare:0.3654', 'concern:0.2502', 'prepare:0.2476', 'chemical:0.2352', 'flag:0.2347', 'tank:0.225', 'secretary:0.1967', 'volodymyr:0.1922', 'deliver:0.1731', 'maternity:0.159', 'accuse:0.1582', 'mature:0.1505', 'scene:0.1498', 'use:0.1451', 'uk:0.1421', 'understand:0.1366', 'wreckage:0.1289', 'unconventional:0.1279', 'fact:0.1226', 'direct:0.1073', 'possible:0.1061', 'zone:0.1024', 'wednesday:0.1015', 'weve:0.0862', 'uncover:0.0835', 'longer:0.0744']+titles_keywords+['putin:0.4503', 'fears:0.3026', 'invasion:0.2581', 'chemical:0.2146', 'falters:0.1901']"
+        ]
+    ],
+    "RUS+EUR+130":[
+        [
+            "20220628+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Russian threat from Vladimir Putin means UK must be prepared to fight and win to.txt+eventbasecode130+eventcode130+avgtone0.4736842105263158+goldsteinscale0.27999999999999997+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.45', 'nato:0.4175', 'ukraine:0.4087', 'prepare:0.3219', 'war:0.3186', 'threat:0.3104', 'warn:0.2562', 'expansionism:0.2453', 'ahead:0.2331', 'london:0.2117', 'remind:0.2003', 'troop:0.1914', 'know:0.1727', 'flank:0.168', 'secretary:0.1642', 'current:0.1587', 'grow:0.1481', 'end:0.1458', 'want:0.139', 'overhaul:0.129', 'compare:0.1119', 'drawn:0.1111', 'act:0.1109', 'head:0.1036', 'second:0.0795', 'stoltenberg:0.0783', 'rapidly:0.0622', 'agree:0.0615', 'budget:0.0533', 'likely:0.0323']+titles_keywords+['putin:0.4023', 'fight:0.2699', 'prepared:0.2572', 'uk:0.1933', 'means:0.1535']"
+        ]
+    ],
+    "RUS+RUS+130":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/dailyrecord.co.uk/Boris Johnson accuses Russia of false flag operation in Ukraine as images of shelldamaged school.txt+eventbasecode130+eventcode130+avgtone0.45942028985507244+goldsteinscale0.27999999999999997+nummentions0.08563134978229318+numarticles0.08629441624365482+numsources0.12171052631578948+news_keywords+['putin:0.4574', 'ukrainians:0.3811', 'boris:0.3483', 'diplomacy:0.3375', 'attack:0.3278', 'separatist:0.3215', 'government:0.2889', 'provocation:0.2821', 'flag:0.2631', 'operation:0.2562', 'troop:0.2367', 'concerned:0.2329', 'warn:0.2293', 'pretext:0.2232', 'kindergarten:0.2221', 'news:0.2201', 'lincolnshire:0.207', 'secretary:0.2037', 'reports:0.2019', 'false:0.181', 'fabricate:0.1692', 'expect:0.1679', 'donbas:0.1416', 'shelldamaged:0.1388', 'continue:0.1363', 'say:0.1324', 'sure:0.1225', 'truss:0.1178', 'prime:0.0923', 'youve:0.076']+titles_keywords+['boris:0.3664', 'ukraine:0.3458', 'flag:0.2336', 'accuses:0.2168', 'images:0.1936']"
+        ]
+    ]
+}

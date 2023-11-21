@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/Zinc prices may rule at multiyear highs in 2022 on costlier energy.txt+eventbasecode192+eventcode192+avgtone0.48541114058355433+goldsteinscale0.025+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['zinc:0.4283', 'tradingeconomics:0.3737', 'coal:0.3086', 'commodity:0.2794', 'forecast:0.2679', 'industriebank:0.2559', 'fluctuation:0.2395', 'ukraine:0.2208', 'stock:0.2187', 'yunnan:0.2146', 'news:0.1976', 'increase:0.1875', 'october:0.1822', 'output:0.1712', 'rank:0.1579', 'prices:0.1449', 'drop:0.1429', 'global:0.1424', 'subsidy:0.1345', 'multiyear:0.1339', 'project:0.127', 'severity:0.1252', 'correspond:0.1204', 'think:0.0991', 'begin:0.0944', 'benchmark:0.0915', 'nyrstar:0.0853', 'smm:0.084', 'likely:0.0827', 'coming:0.053']+titles_keywords+['zinc:0.406', '2022:0.2673', 'prices:0.2073', 'highs:0.1325', 'rule:0.0558']"
+        ]
+    ],
+    "UKR+RUS+192":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/thehindubusinessline.com/Ukraine sees openings as Russia fixed on besieged Mariupol.txt+eventbasecode192+eventcode192+avgtone0.4744958481613286+goldsteinscale0.025+nummentions0.29390420899854863+numarticles0.29441624365482233+numsources0.375+news_keywords+['crimea:0.5214', 'ukrainians:0.4352', 'war:0.3573', 'separatist:0.2954', 'zelenskyy:0.2925', 'redeployment:0.2842', 'develop:0.2721', 'capital:0.2649', 'column:0.2405', 'word:0.2332', 'result:0.2187', 'annihilation:0.217', 'delegation:0.2133', 'surrounded:0.2131', 'help:0.2113', 'ally:0.2088', 'negotiator:0.2014', 'morph:0.1987', 'heed:0.193', 'informally:0.1811', 'right:0.165', 'hub:0.1622', 'crosshairs:0.1605', 'uncertain:0.1601', 'bucha:0.1555', 'ap:0.1545', 'include:0.136', 'big:0.1307', 'irpin:0.1258', 'million:0.1128']+titles_keywords+['ukraine:0.4054', 'openings:0.3111', 'mariupol:0.2467', 'besieged:0.2042', 'sees:0.0749']"
+        ]
+    ]
+}

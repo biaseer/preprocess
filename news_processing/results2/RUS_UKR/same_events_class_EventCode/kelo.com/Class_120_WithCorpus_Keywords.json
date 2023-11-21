@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+120":[
+        [
+            "20210628+../news_crawling/RUS_UKR/p_articles/kelo.com/Ukraine US to start Black Sea military drills despite Russian protest.txt+eventbasecode120+eventcode120+avgtone0.4860557768924303+goldsteinscale0.3+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.019736842105263157+news_keywords+['crimea:0.5962', 'nato:0.4787', 'peacekeeping:0.4203', 'russias:0.3737', 'troop:0.3319', 'operation:0.2873', 'annex:0.2722', 'marine:0.2435', 'uss:0.2278', 'border:0.2013', 'drill:0.2004', 'action:0.1998', 'reuters:0.1867', 'separatist:0.1848', 'aircraft:0.1783', 'exercise:0.1692', 'warn:0.1647', 'tension:0.1642', 'washington:0.1364', 'ross:0.1336', 'monday:0.1292', 'water:0.1289', 'black:0.1225', 'plummet:0.1046', 'follow:0.0987', 'despite:0.0958', 'react:0.0924', 'breeze:0.0564', 'year:0.0445', 'main:0.0411']+titles_keywords+['ukraine:0.3545', 'military:0.2659', 'protest:0.2066', 'drills:0.1991', 'black:0.1013']"
+        ]
+    ],
+    "RUS+WST+120":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/kelo.com/Ukraines army plans drills with drones antitank missiles from Feb 10.txt+eventbasecode120+eventcode120+avgtone0.48561151079136694+goldsteinscale0.3+nummentions0.03955007256894049+numarticles0.04024655547498187+numsources0.03289473684210526+news_keywords+['ukraines:0.4496', 'nato:0.4068', 'kyiv:0.3882', 'belarus:0.3811', 'drone:0.3436', 'invade:0.3391', 'russian:0.3246', 'troop:0.3062', 'reznikov:0.2977', 'drill:0.2954', 'deploy:0.2833', 'antitank:0.2315', 'tank:0.2174', 'plan:0.1863', 'javelin:0.181', 'border:0.1757', 'fear:0.1726', 'reuters:0.1577', 'strengthen:0.1542', 'defence:0.1404', 'oleksii:0.0958', 'feb:0.0881', 'start:0.0833', 'use:0.0805', 'near:0.073', 'tv:0.0703', 'conduct:0.0523', 'say:0.0393', 'constantly:0.024', 'nlaw:0.0068']+titles_keywords+['drones:0.4271', 'ukraines:0.3886', 'antitank:0.3437', 'drills:0.2705', 'feb:0.1149']"
+        ]
+    ]
+}

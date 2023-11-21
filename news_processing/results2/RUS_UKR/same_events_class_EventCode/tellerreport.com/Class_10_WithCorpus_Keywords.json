@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220219+../news_crawling/RUS_UKR/p_articles/tellerreport.com/The Russian Foreign Ministry called unacceptable the words of German Chancellor Scholz about the genocide.txt+eventbasecode10+eventcode10+avgtone0.46319018404907975+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['genocide:0.5611', 'putin:0.3824', 'ideology:0.326', 'denial:0.3153', 'misanthropic:0.3003', 'germany:0.2799', 'speech:0.2275', 'scholz:0.2225', 'fact:0.2204', 'unacceptable:0.2139', 'happen:0.1873', 'word:0.1868', 'historical:0.1805', 'chancellor:0.1744', 'reprisal:0.1687', 'quote:0.1661', 'stated:0.1639', 'novosti:0.1595', 'issue:0.1515', 'donbass:0.1324', 'population:0.1284', 'matter:0.1271', 'devoid:0.1121', 'double:0.0957', 'representative:0.0948', 'olaf:0.0941', 'turn:0.0841', 'anatoly:0.0594', 'price:0.0535', 'earlier:0.0518']+titles_keywords+['genocide:0.4508', 'russian:0.3422', 'scholz:0.3231', 'unacceptable:0.2374', 'donbass:0.2249']"
+        ]
+    ],
+    "RUS+USA+10":[
+        [
+            "20220729+../news_crawling/RUS_UKR/p_articles/tellerreport.com/Lavrov and Blinken discussed the situation in the field of food security.txt+eventbasecode10+eventcode10+avgtone0.4824120603015076+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4297', 'geopolitical:0.3861', 'lavrov:0.3284', 'supply:0.2603', 'operation:0.2437', 'concern:0.2389', 'regime:0.2371', 'conversation:0.2303', 'exchange:0.2229', 'sanction:0.2161', 'secretary:0.1956', 'security:0.193', 'agreement:0.1928', 'brief:0.1845', 'prolongs:0.175', 'blinken:0.1697', 'promise:0.1611', 'implement:0.161', 'fertilizer:0.1604', 'tell:0.1603', 'turn:0.1526', 'armed:0.1508', 'prisoner:0.1444', 'global:0.1437', 'state:0.1409', 'agony:0.1303', 'port:0.124', 'head:0.1221', 'anthony:0.0974', 'july:0.0398']+titles_keywords+['lavrov:0.401', 'food:0.3421', 'blinken:0.2492', 'situation:0.1954', 'discussed:0.1018']"
+        ]
+    ]
+}

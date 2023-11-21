@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/tdtnews.com/Russia hits rail fuel targets far from the eastern front.txt+eventbasecode112+eventcode112+avgtone0.4771062271062271+goldsteinscale0.4+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.006578947368421052+news_keywords+['kyiv:0.4478', 'kremlin:0.4317', 'natos:0.4194', 'airstrikes:0.4062', 'boychenko:0.3002', 'erupt:0.2792', 'territorys:0.2754', 'strategic:0.2625', 'underway:0.251', 'rail:0.2364', 'troop:0.2329', 'telegram:0.232', 'know:0.2231', 'achieve:0.2191', 'report:0.2072', 'source:0.1815', 'study:0.1706', 'pretext:0.1694', 'weaken:0.1627', 'western:0.1612', 'caused:0.16', 'difference:0.1561', 'agreement:0.1533', 'month:0.1512', 'similar:0.1479', 'kilometer:0.1465', 'deep:0.1433', 'addition:0.1383', 'mid:0.1033', 'antony:0.073']+titles_keywords+['rail:0.3785', 'russia:0.2953', 'targets:0.2739', 'far:0.1698', 'fuel:0.1696']"
+        ],
+        [
+            "20220711+../news_crawling/RUS_UKR/p_articles/tdtnews.com/Ukraine says 9 Russian warplanes destroyed in Crimea blasts.txt+eventbasecode112+eventcode112+avgtone0.4700570342205323+goldsteinscale0.4+nummentions0.16110304789550073+numarticles0.16171138506163887+numsources0.16776315789473684+news_keywords+['crimea:0.5504', 'kremlin:0.4479', 'sergei:0.345', 'dnipropetrovsk:0.3155', 'occupy:0.2998', 'conflict:0.2785', 'explosion:0.2658', 'military:0.2541', 'warn:0.2389', 'emphasize:0.2192', 'industrialized:0.2114', 'president:0.1979', 'cryptically:0.1906', 'hit:0.1814', 'simultaneous:0.1783', 'ap:0.1731', 'study:0.1679', 'caused:0.1609', 'long:0.149', 'conducting:0.1472', 'major:0.1465', 'fact:0.1416', 'residential:0.1408', 'state:0.1363', 'widen:0.1285', 'wednesday:0.1281', 'himars:0.0975', 'dozens:0.0889', 'doesnt:0.0777', 'sent:0.0511']+titles_keywords+['crimea:0.3626', 'warplanes:0.3436', 'blasts:0.2262', 'destroyed:0.1983', 'says:0.0722']"
+        ]
+    ]
+}

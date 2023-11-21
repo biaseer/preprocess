@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+141":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Ukraine says it destroyed Russian military convoy outside of Kyiv.txt+eventbasecode141+eventcode141+avgtone0.4636363636363637+goldsteinscale0.175+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.006578947368421052+news_keywords+['kyiv:0.5047', 'putins:0.4087', 'war:0.332', 'syria:0.3249', 'telegram:0.2741', 'convoy:0.2716', 'report:0.2412', 'alert:0.2396', 'journalist:0.2243', 'bucha:0.2197', 'column:0.2079', 'capture:0.2079', 'annihilated:0.2045', 'shoot:0.1931', 'believe:0.1919', 'morning:0.1841', 'like:0.1822', 'advantage:0.179', 'btr:0.179', 'look:0.1788', 'stability:0.1771', 'fact:0.1759', 'regional:0.1662', 'cover:0.1588', 'theyre:0.1458', 'huge:0.1317', 'puts:0.1295', 'strela:0.1292', 'agree:0.119', 'halfway:0.1029']+titles_keywords+['kyiv:0.428', 'convoy:0.3297', 'destroyed:0.1995', 'outside:0.1073', 'says:0.0717']"
+        ],
+        [
+            "20220806+../news_crawling/RUS_UKR/p_articles/freerepublic.com/Travesty International to the Kremlins Rescue.txt+eventbasecode141+eventcode141+avgtone0.49710982658959535+goldsteinscale0.175+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['propaganda:0.4964', 'ukrainea:0.4831', 'kremlin:0.4266', 'holocaust:0.408', 'amnesty:0.388', 'battalion:0.3839', 'fascist:0.3771', 'war:0.3598', 'headline:0.3389', 'invaded:0.3365', 'whataboutism:0.3363', 'overthrow:0.3307', 'diaspora:0.3212', 'atrocity:0.3209', 'azov:0.3098', 'societys:0.3026', 'victim:0.2944', 'know:0.2587', 'concern:0.2442', 'cull:0.2394', 'romanize:0.2383', 'conclude:0.2149', 'write:0.2144', 'phrase:0.1935', 'like:0.1923', 'protocol:0.1886', 'irpin:0.1799', 'sort:0.1305', 'lol:0.1173', 'ready:0.0929']+titles_keywords+['kremlins:0.5229', 'rescue:0.3785', 'travesty:0.33', 'international:0.2721']"
+        ]
+    ]
+}

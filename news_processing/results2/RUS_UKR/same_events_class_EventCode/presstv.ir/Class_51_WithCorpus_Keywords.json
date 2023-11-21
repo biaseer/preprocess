@@ -1,0 +1,15 @@
+{
+    "EUR+UKR+51":[
+        []
+    ],
+    "IRN+UKR+51":[
+        [
+            "20220519+../news_crawling/RUS_UKR/p_articles/presstv.ir/FM Iran supports any diplomatic effort to settle Ukraine conflict ready to mediate.txt+eventbasecode51+eventcode51+avgtone0.5+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['diplomacy:0.4928', 'ukraine:0.4152', 'ceasefire:0.4136', 'tehran:0.3514', 'operation:0.2696', 'nuclear:0.2684', 'agreement:0.2671', 'sanction:0.2483', 'situation:0.2307', 'lavrov:0.2292', 'table:0.2097', 'counterpart:0.2082', 'donald:0.1945', 'republic:0.1869', 'prolong:0.1853', 'positionagainst:0.1815', 'help:0.1778', 'irgc:0.1747', 'leverage:0.1717', 'bilateral:0.1487', 'briefedhis:0.1457', 'thursday:0.1382', 'act:0.1364', 'supportinga:0.1333', 'draw:0.1294', 'untied:0.1223', 'include:0.1195', 'fm:0.119', 'step:0.1046', 'welcome:0.0683']+titles_keywords+['diplomatic:0.4467', 'iran:0.4158', 'fm:0.2389', 'supports:0.1037', 'ready:0.0773']"
+        ]
+    ],
+    "RUS+DEU+51":[
+        [
+            "20220508+../news_crawling/RUS_UKR/p_articles/presstv.ir/Russia will be victorious in Ukraine as in 1945 Putin vows.txt+eventbasecode51+eventcode51+avgtone0.484375+goldsteinscale0.67+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4792', 'russiaforces:0.4746', 'putin:0.4624', 'separatist:0.3282', 'victory:0.3236', 'pyatikhatka:0.3189', 'commemorate:0.3092', 'demilitarize:0.2947', 'brigade:0.277', 'ideological:0.2736', 'nazifying:0.2383', 'proclaim:0.2381', 'command:0.2354', 'president:0.2138', 'monday:0.2095', 'order:0.2041', 'read:0.1976', 'world:0.1964', 'say:0.1888', 'donbas:0.188', 'turn:0.1774', 'generation:0.1743', 'smash:0.1742', 'th:0.1674', 'bloody:0.1647', 'remark:0.1618', 'different:0.1389', 'new:0.13', 'major:0.1049', 'aerospace:0.1022']+titles_keywords+['ukraine:0.4916', 'putin:0.4572', '1945:0.294', 'victorious:0.2871', 'vows:0.1435']"
+        ]
+    ]
+}

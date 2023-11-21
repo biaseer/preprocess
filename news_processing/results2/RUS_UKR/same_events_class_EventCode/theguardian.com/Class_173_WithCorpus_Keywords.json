@@ -1,0 +1,15 @@
+{
+    "RUS+GBR+173":[
+        []
+    ],
+    "RUS+RUS+173":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/theguardian.com/KaraMurza says he was poisoned in Moscow in 2015 and 2017 as retaliation for his.txt+eventbasecode173+eventcode173+avgtone0.4421052631578945+goldsteinscale0.25+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['kremlin:0.531', 'putin:0.529', 'ukraine:0.4778', 'nemtsov:0.4183', 'kara:0.351', 'dissident:0.3223', 'war:0.3005', 'detained:0.2875', 'news:0.274', 'kill:0.2732', 'concern:0.2526', 'flee:0.2356', 'anti:0.2337', 'poison:0.232', 'sentence:0.2255', 'murza:0.2238', 'na:0.2229', 'accuse:0.2227', 'authority:0.2026', 'happen:0.2011', 'crackdown:0.1994', 'evening:0.1966', 'gon:0.187', 'order:0.1842', 'study:0.1501', 'station:0.1351', 'nearly:0.12', 'horrendous:0.1103', 'price:0.1056', 'doesnt:0.0643']+titles_keywords+['poisoned:0.5209', 'karamurza:0.4252', 'moscow:0.38', 'sanctions:0.3088', 'clemens:0.1819']"
+        ]
+    ],
+    "RUS+SYR+173":[
+        [
+            "20220410+../news_crawling/RUS_UKR/p_articles/theguardian.com/A damaged residential building in Kharkiv Ukraine Photograph ReutersA damaged residential building in Kharkiv Ukraine.txt+eventbasecode173+eventcode173+avgtone0.4601449275362319+goldsteinscale0.25+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kyiv:0.4867', 'kremlin:0.4719', 'genocide:0.4156', 'aleppo:0.3959', 'civilians:0.3531', 'destroy:0.3295', 'peaceful:0.3084', 'armament:0.2885', 'casualty:0.2667', 'flag:0.2644', 'news:0.2641', 'strategic:0.2423', 'occupied:0.2413', 'administration:0.24', 'column:0.2152', 'constitutes:0.2094', 'want:0.1955', 'continue:0.1935', 'rally:0.1901', 'general:0.1894', 'disclose:0.1888', 'innocent:0.1858', 'subjugate:0.1792', 'donbas:0.1775', 'building:0.177', 'immediately:0.1681', 'satellite:0.1646', 'far:0.1299', 'coming:0.1297', 'restore:0.0787']+titles_keywords+['kharkiv:0.4178', 'ukraine:0.4109', 'residential:0.3712', 'building:0.3673', 'damaged:0.3639']"
+        ]
+    ]
+}

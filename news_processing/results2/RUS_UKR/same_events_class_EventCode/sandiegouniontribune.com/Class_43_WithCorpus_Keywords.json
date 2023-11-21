@@ -1,0 +1,15 @@
+{
+    "BLR+RUS+43":[
+        [
+            "20211118+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Russia sends nuclearcapable bombers on patrol over Belarus.txt+eventbasecode43+eventcode43+avgtone0.4716981132075472+goldsteinscale0.64+nummentions0.06785195936139332+numarticles0.06852791878172589+numsources0.1118421052631579+news_keywords+['nato:0.4901', 'belarus:0.4718', 'vladimir:0.3889', 'lukashenko:0.3708', 'moscows:0.3509', 'attack:0.282', 'strategic:0.2514', 'deploy:0.2396', 'refugee:0.2297', 'nuclearcapable:0.212', 'infrastructure:0.1939', 'authoritarian:0.1919', 'warning:0.1902', 'sanction:0.1859', 'range:0.1619', 'reelection:0.1437', 'buildup:0.1421', 'backdoor:0.1382', 'accommodate:0.1295', 'jet:0.1283', 'echoing:0.1254', 'long:0.1246', 'willing:0.118', 'escort:0.1046', 'noted:0.0996', 'saturdays:0.0993', 'say:0.0973', 'possible:0.0792', 'wouldnt:0.0637', 'underline:0.0576']+titles_keywords+['belarus:0.3821', 'bombers:0.2979', 'nuclearcapable:0.2432', 'patrol:0.1562', 'sends:0.1112']"
+        ],
+        [
+            "20211129+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Russia Belarus to hold joint war games early next year.txt+eventbasecode43+eventcode43+avgtone0.46229508196721314+goldsteinscale0.64+nummentions0.07982583454281568+numarticles0.08049311094996374+numsources0.08552631578947369+news_keywords+['belarus:0.519', 'putin:0.5173', 'lukashenkos:0.503', 'nato:0.4192', 'war:0.3874', 'lavrov:0.3243', 'petersburg:0.2828', 'tensions:0.2716', 'border:0.2295', 'meeting:0.2175', 'retaliate:0.2109', 'coordinate:0.2091', 'enter:0.2041', 'sanction:0.1967', 'agreement:0.1901', 'infrastructure:0.1886', 'warning:0.1754', 'intensify:0.1642', 'hold:0.164', 'accommodate:0.1621', 'pawn:0.1601', 'vote:0.1495', 'plan:0.1489', 'february:0.1476', 'guarantee:0.1273', 'elaborate:0.1232', 'official:0.0894', 'send:0.0776', 'welcome:0.061', 'doesnt:0.0388']+titles_keywords+['belarus:0.4338', 'war:0.3269', 'games:0.2448', 'hold:0.1388', 'year:0.1148']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220423+../news_crawling/RUS_UKR/p_articles/sandiegouniontribune.com/Finding refuge Tijuana provides a temporary shelter for migrants arriving from across the globe.txt+eventbasecode43+eventcode43+avgtone0.4676258992805756+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['tijuana:0.5462', 'shelter:0.5216', 'refuge:0.5099', 'migrant:0.4864', 'temporary:0.2834', 'arrive:0.228', 'provide:0.187', 'globe:0.1669', 'finding:0.159']+titles_keywords+['tijuana:0.5609', 'shelter:0.541', 'migrants:0.4609', 'temporary:0.2813', 'finding:0.1554']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "BLR+RUS+138":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/xinhuanet.com/Ukraine ready for talks with Russia but not in Belarus Zelensky.txt+eventbasecode138+eventcode138+avgtone0.4886363636363636+goldsteinscale0.15+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['minsk:0.5509', 'ukraine:0.4977', 'kremlin:0.3954', 'kievmoscow:0.3851', 'dmitry:0.3589', 'zelensky:0.3405', 'negotiate:0.2813', 'meeting:0.2797', 'peace:0.2739', 'telegram:0.2648', 'volodymyr:0.2538', 'president:0.2298', 'xinhua:0.2062', 'warn:0.1918', 'attack:0.1825', 'delegation:0.1796', 'address:0.177', 'gomel:0.1734', 'military:0.1701', 'reject:0.1679', 'say:0.1674', 'option:0.1561', 'shortly:0.1556', 'end:0.1398', 'include:0.1312', 'hold:0.1278', 'launch:0.1256', 'feb:0.096', 'potential:0.0823', 'far:0.0636']+titles_keywords+['zelensky:0.4959', 'ukraine:0.4064', 'belarus:0.3913', 'talks:0.1842', 'ready:0.1283']"
+        ]
+    ],
+    "RUS+UKR+138":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/xinhuanet.com/US crude oil inventories soar as oil prices climb amid tensions over Ukraine.txt+eventbasecode138+eventcode138+avgtone0.463235294117647+goldsteinscale0.15+nummentions0.009071117561683599+numarticles0.009789702683103698+numsources0.019736842105263157+news_keywords+['oil:0.4251', 'ukraine:0.3284', 'barrel:0.288', 'inventory:0.2852', 'crude:0.2697', 'tension:0.2566', 'surge:0.2385', 'april:0.2304', 'escalation:0.2296', 'futures:0.2287', 'uncertainty:0.2136', 'panic:0.1813', 'price:0.1787', 'settle:0.1716', 'analyst:0.1711', 'high:0.1696', 'brent:0.1691', 'retaliate:0.1262', 'api:0.1216', 'report:0.1204', 'temporary:0.1173', 'reduce:0.1167', 'note:0.1164', 'west:0.1084', 'commerzbank:0.1059', 'climb:0.1023', 'appear:0.1014', 'intermediate:0.1008', 'amid:0.0455', 'carsten:0.0292']+titles_keywords+['oil:0.3602', 'inventories:0.2803', 'prices:0.1195', 'tensions:0.1107', 'climb:0.0535']"
+        ]
+    ]
+}

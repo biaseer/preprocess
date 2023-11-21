@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220704+../news_crawling/RUS_UKR/p_articles/patch.com/ Happy 4th Of July Enterprise Florida Pledges 5 Million To Miami.txt+eventbasecode51+eventcode51+avgtone0.5093457943925234+goldsteinscale0.67+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['miami:0.449', 'carlosreportsnewsgmail:0.3745', 'july:0.3429', 'redevelopment:0.318', 'project:0.3027', 'industry:0.3005', 'holiday:0.2859', 'downtown:0.2744', 'newspaper:0.2663', 'sponsor:0.2652', 'community:0.2539', 'daily:0.2405', 'county:0.2325', 'pledges:0.2296', 'experience:0.2278', 'unit:0.2268', 'million:0.221', 'com:0.2198', 'constructive:0.2182', 'write:0.2174', 'tsa:0.2163', 'lowdown:0.2064', 'hernandez:0.2048', 'enter:0.2', 'quick:0.1904', 'big:0.1826', 'hey:0.1796', 'care:0.1787', 'attract:0.1631', 'weve:0.1075']+titles_keywords+['miami:0.4366', 'pledges:0.2745', 'enterprise:0.2213', 'million:0.2136', 'happy:0.1856']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/patch.com/Santa Monica City Council To Divest From Any RussianTied Assets.txt+eventbasecode51+eventcode51+avgtone0.486646884272997+goldsteinscale0.67+nummentions0.015965166908563134+numarticles0.016678752719361856+numsources0.08552631578947369+news_keywords+['ukraine:0.527', 'russiantied:0.4096', 'zelenskyy:0.3896', 'sputnik:0.2935', 'monica:0.2813', 'government:0.2796', 'mykhailo:0.2686', 'divest:0.2562', 'news:0.2419', 'report:0.2345', 'goldman:0.2296', 'block:0.2244', 'podoliak:0.2237', 'sanction:0.2145', 'santa:0.2054', 'towns:0.2041', 'invasion:0.1999', 'rt:0.1948', 'ca:0.1532', 'building:0.1475', 'home:0.1246', 'outlet:0.1244', 'thursday:0.1238', 'honorary:0.1199', 'join:0.1147', 'direct:0.0897', 'number:0.0775', 'nearly:0.0703', 'major:0.0651', 'inbox:0.0636']+titles_keywords+['divest:0.4319', 'monica:0.2607', 'russiantied:0.2568', 'council:0.2444', 'assets:0.1576']"
+        ]
+    ]
+}

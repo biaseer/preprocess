@@ -1,0 +1,15 @@
+{
+    "DEU+RUS+36":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/US relocates Kyiv embassy operations amid push for diplomacy.txt+eventbasecode36+eventcode36+avgtone0.4890282131661442+goldsteinscale0.7+nummentions0.043178519593613934+numarticles0.043509789702683106+numsources0.24342105263157895+news_keywords+['diplomacy:0.4737', 'embassy:0.4273', 'lviv:0.3865', 'nato:0.383', 'invade:0.361', 'relocate:0.3361', 'escalation:0.3078', 'threat:0.2847', 'operation:0.2809', 'troop:0.2654', 'russian:0.2636', 'proceed:0.2557', 'zelenskyy:0.2276', 'crisis:0.2197', 'precaution:0.2186', 'push:0.1868', 'unprovoked:0.1704', 'biden:0.1601', 'want:0.1571', 'geostrategic:0.1417', 'monday:0.137', 'downing:0.1359', 'temporarily:0.1292', 'street:0.1277', 'hour:0.1088', 'possibility:0.1061', 'page:0.099', 'big:0.0862', 'agree:0.0716', 'characterise:0.0125']+titles_keywords+['kyiv:0.4996', 'embassy:0.4578', 'diplomacy:0.3742', 'relocates:0.3513', 'push:0.1009']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/New round of RussiaUkraine talks offer glimmer of hope.txt+eventbasecode36+eventcode36+avgtone0.49136069114470843+goldsteinscale0.7+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.003289473684210526+news_keywords+['kiev:0.4503', 'ceasefire:0.4078', 'putin:0.3947', 'negotiation:0.3251', 'euronews:0.3161', 'progress:0.2574', 'leonid:0.2516', 'petro:0.2502', 'preliminary:0.242', 'podoliak:0.2403', 'soon:0.2353', 'weekend:0.2194', 'adviser:0.2143', 'videoconference:0.2098', 'barricade:0.2028', 'turn:0.2018', 'format:0.1907', 'word:0.1861', 'meet:0.1836', 'pagenext:0.183', 'listen:0.1808', 'difference:0.1731', 'end:0.1683', 'north:0.1671', 'report:0.1657', 'tweet:0.1623', 'feb:0.1419', 'official:0.1398', 'stock:0.1369', 'sure:0.1218']+titles_keywords+['russiaukraine:0.452', 'hope:0.292', 'talks:0.2561', 'round:0.1444', 'offer:0.1254']"
+        ],
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/saudigazette.com.sa/Russia says it will curb Kyiv assault as peace talks progress.txt+eventbasecode36+eventcode36+avgtone0.4862385321100917+goldsteinscale0.7+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.01644736842105263+news_keywords+['kyiv:0.4438', 'ceasefire:0.3776', 'nato:0.3679', 'putin:0.3313', 'militarily:0.2976', 'neutrality:0.2831', 'pentagon:0.2557', 'divert:0.24', 'escalation:0.2356', 'negotiator:0.2261', 'territorythis:0.2139', 'prepare:0.2057', 'announce:0.1698', 'north:0.1692', 'reduce:0.1593', 'future:0.1557', 'exchange:0.1549', 'attackukraine:0.1485', 'medinsky:0.1473', 'positive:0.1465', 'supply:0.1314', 'stop:0.1236', 'page:0.1219', 'detailed:0.1126', 'major:0.1087', 'unclear:0.1056', 'join:0.1044', 'people:0.1033', 'agree:0.0741', 'enable:0.0712']+titles_keywords+['kyiv:0.4715', 'assault:0.2434', 'peace:0.2339', 'curb:0.0947', 'says:0.0559']"
+        ]
+    ]
+}

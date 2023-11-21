@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+100":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/shanghainews.net/Fears of Indiscriminate Russian Shelling Mount as Ukraine Battles On.txt+eventbasecode100+eventcode100+avgtone0.4723065250379363+goldsteinscale0.25+nummentions0.06386066763425254+numarticles0.06453952139231327+numsources0.14473684210526316+news_keywords+['kyiv:0.5089', 'kremlin:0.4347', 'refugees:0.3142', 'correspondent:0.2842', 'deploy:0.2779', 'conflict:0.2679', 'rifle:0.2558', 'tactic:0.2478', 'government:0.2463', 'destroy:0.2388', 'worry:0.2367', 'shelter:0.2238', 'intercept:0.217', 'catastrophic:0.2157', 'curfew:0.1927', 'bratchuk:0.1912', 'increase:0.1881', 'echo:0.183', 'ambulance:0.1763', 'precede:0.1758', 'continue:0.1749', 'suspect:0.1686', 'kilometer:0.1652', 'northern:0.1609', 'contact:0.1607', 'buk:0.1576', 'good:0.1449', 'today:0.1233', 'voa:0.1194', 'multiple:0.1153']+titles_keywords+['ukraine:0.3533', 'fears:0.3328', 'shelling:0.2339', 'indiscriminate:0.2055', 'mount:0.1588']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220717+../news_crawling/RUS_UKR/p_articles/shanghainews.net/Era of Western dominance ending Tony Blair.txt+eventbasecode100+eventcode100+avgtone0.49326145552560646+goldsteinscale0.25+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.04276315789473684+news_keywords+['geopolitical:0.4394', 'ukraine:0.4171', 'blair:0.3955', 'history:0.2793', 'turmoil:0.2635', 'develop:0.2533', 'operation:0.2531', 'western:0.2366', 'end:0.2355', 'world:0.2247', 'argue:0.2117', 'superiority:0.2117', 'partisan:0.2065', 'modern:0.198', 'predict:0.1905', 'superpower:0.1884', 'lead:0.185', 'lecture:0.1765', 'pandemic:0.169', 'pivot:0.1562', 'unproductive:0.1438', 'clear:0.1396', 'relevant:0.1373', 'stay:0.1301', 'misunderstand:0.127', 'second:0.1257', 'big:0.1191', 'sure:0.0949', 'way:0.0851', 'possibly:0.076']+titles_keywords+['blair:0.489', 'ending:0.3569', 'western:0.2512', 'era:0.2482', 'dominance:0.2409']"
+        ]
+    ]
+}

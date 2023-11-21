@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/inverness-courier.co.uk/What the papers say March 29.txt+eventbasecode112+eventcode112+avgtone0.46812080536912754+goldsteinscale0.4+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.009868421052631578+news_keywords+['news:0.4351', 'abramovich:0.4285', 'oligarch:0.4129', 'ukraine:0.3986', 'telegraph:0.3855', 'boris:0.3365', 'march:0.3225', 'poisoning:0.3141', 'peace:0.2894', 'nuclear:0.2846', 'report:0.263', 'disgrace:0.2618', 'reportedly:0.2271', 'power:0.2197', 'suspect:0.2169', 'page:0.215', 'times:0.2088', 'financial:0.2077', 'meeting:0.2066', 'people:0.1988', 'street:0.195', 'write:0.1949', 'daily:0.1911', 'lockdown:0.1872', 'slap:0.1742', 'independent:0.1741', 'case:0.1721', 'surge:0.1602', 'coyjbp:0.1523', 'carry:0.1243']+titles_keywords+['march:0.5686', 'papers:0.3734', '29:0.3145', 'say:0.1736']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/inverness-courier.co.uk/What the papers say February 25.txt+eventbasecode112+eventcode112+avgtone0.4590643274853802+goldsteinscale0.4+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['ukraine:0.4892', 'putin:0.4741', 'headline:0.4345', 'bloodshed:0.3878', 'invasion:0.3738', 'airstrike:0.3471', 'conflict:0.311', 'bloody:0.2658', 'february:0.2521', 'telegraphs:0.2424', 'report:0.2273', 'president:0.2194', 'flee:0.2082', 'read:0.2048', 'chuviuv:0.1844', 'page:0.1836', 'times:0.1829', 'hand:0.1582', 'begin:0.155', 'metro:0.1521', 'lead:0.1518', 'independents:0.1377', 'guardian:0.1375', 'big:0.1233', 'new:0.1224', 'day:0.1195', 'thousand:0.1151', 'say:0.1149', 'financial:0.1108', 'focus:0.0823']+titles_keywords+['february:0.5607', 'papers:0.4242', '25:0.3346', 'say:0.1798']"
+        ]
+    ]
+}

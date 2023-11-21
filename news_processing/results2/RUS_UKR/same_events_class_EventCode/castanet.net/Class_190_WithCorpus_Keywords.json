@@ -1,0 +1,15 @@
+{
+    "CAN+RUS+190":[
+        [
+            "20220523+../news_crawling/RUS_UKR/p_articles/castanet.net/First charter flight bringing Ukrainian refugees to Canada lands in Winnipeg.txt+eventbasecode190+eventcode190+avgtone0.47222222222222227+goldsteinscale0.0+nummentions0.057329462989840346+numarticles0.05801305293691081+numsources0.029605263157894735+news_keywords+['refugee:0.458', 'ukrainians:0.4236', 'war:0.3196', 'plane:0.314', 'arrive:0.3013', 'manitoba:0.2857', 'government:0.2853', 'emergency:0.2705', 'waitlist:0.2422', 'flee:0.224', 'hug:0.2137', 'seleznova:0.2099', 'capital:0.2004', 'story:0.1911', 'future:0.18', 'speak:0.1753', 'believe:0.1701', 'heather:0.1636', 'far:0.1636', 'prior:0.1613', 'june:0.1595', 'step:0.1515', 'bouquet:0.149', 'approve:0.1478', 'choose:0.1469', 'welcome:0.123', 'thousand:0.1218', 'correct:0.1195', 'make:0.1187', 'include:0.1137']+titles_keywords+['winnipeg:0.369', 'refugees:0.3164', 'ukrainian:0.3036', 'flight:0.2644', 'charter:0.2083']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/castanet.net/Russians leave Chernobyl site as fighting rages elsewhere.txt+eventbasecode190+eventcode190+avgtone0.47547584187408487+goldsteinscale0.0+nummentions0.02358490566037736+numarticles0.024292965917331398+numsources0.029605263157894735+news_keywords+['chernobyl:0.487', 'kyiv:0.4635', 'ukraines:0.4501', 'putin:0.401', 'nato:0.362', 'war:0.3085', 'gchq:0.2807', 'emergency:0.2759', 'redeploy:0.2736', 'news:0.2481', 'administration:0.2303', 'concerned:0.2277', 'soon:0.2275', 'vereshchuk:0.2121', 'conclude:0.2117', 'separatist:0.2107', 'deliver:0.2076', 'corridor:0.2047', 'north:0.1902', 'know:0.1838', 'feb:0.1361', 'increase:0.1288', 'topsoil:0.1115', 'round:0.1079', 'way:0.0986', 'million:0.0959', 'electronic:0.0943', 'set:0.0889', 'sure:0.0878', 'focus:0.0745']+titles_keywords+['chernobyl:0.6129', 'russians:0.3699', 'fighting:0.1908', 'leave:0.1661', 'site:0.0546']"
+        ],
+        [
+            "20220729+../news_crawling/RUS_UKR/p_articles/castanet.net/Canadas ambassador to Ukraine working offsite in Kyiv due to security concerns.txt+eventbasecode190+eventcode190+avgtone0.49415887850467294+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kyiv:0.5063', 'diplomatic:0.3475', 'russias:0.3351', 'hromov:0.3025', 'consular:0.2876', 'appointment:0.2724', 'immigration:0.266', 'affairs:0.2458', 'trudeau:0.2344', 'safety:0.2326', 'invade:0.2316', 'forward:0.2246', 'concern:0.2243', 'flag:0.1987', 'investigation:0.1838', 'remain:0.179', 'instead:0.1771', 'temporary:0.1752', 'street:0.1658', 'missile:0.1565', 'mlanie:0.1531', 'help:0.1453', 'reopen:0.1319', 'storey:0.1313', 'soon:0.1279', 'month:0.1247', 'oleksii:0.1172', 'unit:0.095', 'possible:0.0898', 'galadza:0.067']+titles_keywords+['kyiv:0.4718', 'ambassador:0.3213', 'security:0.2262', 'offsite:0.2068', 'canadas:0.1819']"
+        ]
+    ]
+}

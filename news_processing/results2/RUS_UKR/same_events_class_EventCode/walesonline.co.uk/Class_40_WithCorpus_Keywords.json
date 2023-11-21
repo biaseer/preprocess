@@ -1,0 +1,15 @@
+{
+    "EUR+RUS+40":[
+        [
+            "20220417+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Ukraine morning briefing Austrian leader believes Putin thinks he is winning war.txt+eventbasecode40+eventcode40+avgtone0.4742138364779874+goldsteinscale0.55+nummentions0.05551523947750363+numarticles0.05620014503263234+numsources0.049342105263157895+news_keywords+['ukraine:0.5027', 'putin:0.4454', 'diplomacy:0.359', 'briefing:0.3495', 'infrastructure:0.3021', 'journalist:0.2622', 'rebuild:0.2555', 'veterans:0.2546', 'blockade:0.2543', 'zelensky:0.2501', 'displaced:0.236', 'future:0.2306', 'battle:0.218', 'resume:0.2165', 'pivot:0.2135', 'task:0.2067', 'report:0.1982', 'mayor:0.1958', 'arrive:0.1769', 'bucha:0.169', 'partner:0.1596', 'safe:0.1587', 'house:0.1568', 'say:0.1554', 'follow:0.1513', 'flagship:0.1435', 'huge:0.1354', 'nearly:0.1269', 'internally:0.1025', 'doesnt:0.0488']+titles_keywords+['putin:0.4523', 'austrian:0.3138', 'winning:0.2581', 'briefing:0.2227', 'believes:0.1849']"
+        ]
+    ],
+    "GBR+UKR+40":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Emergency meeting of UK Cabinet to be held over horrific attacks in Ukraine.txt+eventbasecode40+eventcode40+avgtone0.46919431279620855+goldsteinscale0.55+nummentions0.02177068214804064+numarticles0.022480058013052938+numsources0.023026315789473683+news_keywords+['ukraine:0.4728', 'nato:0.4172', 'putins:0.4118', 'demilitarisation:0.3549', 'bloodshed:0.345', 'attack:0.3414', 'unprovoked:0.2862', 'regime:0.2738', 'boris:0.2736', 'warn:0.2721', 'flag:0.2714', 'sanction:0.2648', 'emergency:0.2644', 'narrative:0.2518', 'interfere:0.2405', 'respond:0.2296', 'horrific:0.2166', 'fool:0.205', 'shortly:0.203', 'downing:0.2022', 'volodymyr:0.2004', 'forget:0.194', 'hear:0.1902', 'televise:0.1873', 'biden:0.1846', 'discus:0.1778', 'cabinet:0.173', 'spokesperson:0.1575', 'false:0.1371', 'mr:0.1072']+titles_keywords+['meeting:0.3655', 'ukraine:0.3404', 'emergency:0.3403', 'attacks:0.2609', 'cabinet:0.2337']"
+        ],
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Welsh NHS ambulance sent to Ukraine blown up in attack.txt+eventbasecode40+eventcode40+avgtone0.48013245033112584+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ambulance:0.5366', 'ukraine:0.51', 'nhs:0.4675', 'refugees:0.3593', 'walesonline:0.3572', 'invasion:0.3277', 'crisis:0.3091', 'transport:0.3081', 'missile:0.2923', 'merthyr:0.2776', 'decommission:0.2766', 'help:0.251', 'civilian:0.2445', 'initiative:0.2357', 'gouge:0.2343', 'donate:0.2248', 'flee:0.2192', 'neighbouring:0.2086', 'odesa:0.1982', 'szmidt:0.1898', 'read:0.1881', 'consultant:0.1863', 'idiot:0.177', 'tydfil:0.1653', 'page:0.1621', 'cwm:0.1606', 'footage:0.1401', 'current:0.1377', 'good:0.1338', 'cost:0.1307']+titles_keywords+['ambulance:0.4899', 'welsh:0.2877', 'attack:0.2384', 'blown:0.1378', 'sent:0.0797']"
+        ]
+    ]
+}

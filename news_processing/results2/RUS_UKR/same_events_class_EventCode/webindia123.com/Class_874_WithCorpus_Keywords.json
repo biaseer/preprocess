@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+874":[
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/webindia123.com/Over 1000 Ukraine troops surrender to Russia in Mariupol.txt+eventbasecode87+eventcode874+avgtone0.4797687861271676+goldsteinscale1.0+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.009868421052631578+news_keywords+['ukraine:0.4853', 'russian:0.3953', 'surrender:0.3252', 'war:0.3144', 'infantry:0.3129', 'operation:0.2971', 'unprovoked:0.2657', 'result:0.2087', 'ilyicha:0.1846', 'news:0.1807', 'hospital:0.1581', 'sanction:0.1546', 'report:0.1529', 'voluntarily:0.1469', 'metal:0.145', 'general:0.1445', 'assistance:0.1443', 'western:0.141', 'female:0.139', 'mariupol:0.1334', 'february:0.1293', 'republic:0.1251', 'post:0.1206', 'injured:0.1187', 'sum:0.1016', 'special:0.1007', 'area:0.0946', 'transfer:0.083', 'th:0.0824', 'say:0.0556']+titles_keywords+['surrender:0.4304', 'ukraine:0.3455', '1000:0.2537', 'troops:0.2376', 'mariupol:0.2295']"
+        ]
+    ],
+    "RUS+UKR+874":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/webindia123.com/Russias bombardment of Ukraines cities created fastestgrowing humanitarian crises US at UNSC.txt+eventbasecode87+eventcode874+avgtone0.47635135135135137+goldsteinscale1.0+nummentions0.05624092888243832+numarticles0.05692530819434373+numsources0.05263157894736842+news_keywords+['ukraine:0.4669', 'putin:0.4568', 'ceasefire:0.4073', 'humanitarian:0.2907', 'bombardment:0.2885', 'infrastructure:0.2612', 'catastrophe:0.2401', 'agribusiness:0.2136', 'concerned:0.2088', 'implication:0.1928', 'continue:0.1889', 'block:0.1887', 'flee:0.1848', 'sherman:0.1647', 'grow:0.154', 'assistance:0.1534', 'immediate:0.1523', 'global:0.1512', 'good:0.1505', 'like:0.1464', 'skyrocket:0.1344', 'export:0.1259', 'carry:0.1215', 'population:0.1084', 'focus:0.0998', 'major:0.0881', 'winter:0.0876', 'far:0.0833', 'ani:0.0747', 'price:0.0456']+titles_keywords+['humanitarian:0.4271', 'crises:0.4215', 'russias:0.3963', 'bombardment:0.3395', 'unsc:0.2949']"
+        ]
+    ]
+}

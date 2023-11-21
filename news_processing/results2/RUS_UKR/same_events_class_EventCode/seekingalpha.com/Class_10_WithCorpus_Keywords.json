@@ -1,0 +1,12 @@
+{
+    "RUS+CAN+10":[
+        [
+            "20220216+../news_crawling/RUS_UKR/p_articles/seekingalpha.com/Oil and gas stocks lead the way as crude prices recoup losses.txt+eventbasecode10+eventcode10+avgtone0.4982993197278911+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['etfs:0.4111', 'bullish:0.3679', 'halliburton:0.3619', 'dividend:0.3538', 'bloomberg:0.3364', 'downturn:0.3248', 'gas:0.3239', 'stock:0.3189', 'expand:0.3076', 'surge:0.2913', 'march:0.2736', 'sector:0.2644', 'rise:0.2275', 'sp:0.2273', 'crude:0.2247', 'lead:0.2156', 'pullback:0.2039', 'ytd:0.2026', 'xle:0.1995', 'weekly:0.1966', 'gush:0.1881', 'cushing:0.1813', 'tension:0.1802', 'brent:0.1647', 'report:0.1466', 'result:0.1434', 'oih:0.1371', 'narrative:0.1277', 'russian:0.1234', 'compare:0.1187']+titles_keywords+['stocks:0.4521', 'gas:0.3395', 'recoup:0.244', 'losses:0.2191', 'way:0.0614']"
+        ]
+    ],
+    "USA+RUS+10":[
+        [
+            "20220425+../news_crawling/RUS_UKR/p_articles/seekingalpha.com/CocaCola dazzles analysts with organic sales stunner.txt+eventbasecode10+eventcode10+avgtone0.5074850299401198+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['analysts:0.4694', 'bullish:0.4224', 'cola:0.4099', 'nyse:0.3622', 'company:0.3324', 'consumer:0.3168', 'bofa:0.2888', 'premium:0.261', 'buy:0.2401', 'growth:0.2369', 'consensus:0.2324', 'reiterated:0.2302', 'compare:0.2276', 'result:0.2187', 'shipment:0.2044', 'turbulent:0.204', 'covid:0.1957', 'rating:0.194', 'follow:0.1927', 'quarter:0.1861', 'caveat:0.1771', 'crisis:0.1706', 'think:0.1676', 'solidly:0.1644', 'uniformly:0.1542', 'broad:0.1348', 'decelerate:0.1246', 'russiaukraine:0.1242', 'include:0.1173', 'eps:0.1105']+titles_keywords+['cocacola:0.5639', 'organic:0.43', 'sales:0.3462', 'analysts:0.3113', 'stunner:0.1384']"
+        ]
+    ]
+}

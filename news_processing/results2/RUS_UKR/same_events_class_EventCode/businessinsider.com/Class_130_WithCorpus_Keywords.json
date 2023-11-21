@@ -1,0 +1,12 @@
+{
+    "RUS+USA+130":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/businessinsider.com/The State Department has its own special agents to protect diplomats under fire.txt+eventbasecode130+eventcode130+avgtone0.5128617363344051+goldsteinscale0.27999999999999997+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['diplomat:0.5133', 'consulates:0.454', 'secretary:0.4004', 'military:0.3816', 'department:0.3736', 'roles:0.3296', 'specialize:0.2952', 'mission:0.285', 'safety:0.2511', 'service:0.2451', 'benghazi:0.2437', 'intelligence:0.2411', 'politico:0.2304', 'hire:0.226', 'kyiv:0.2244', 'suitability:0.2235', 'deployments:0.2188', 'evacuate:0.1967', 'rank:0.1931', 'biden:0.1925', 'seal:0.1924', 'report:0.1908', 'secret:0.1811', 'pipeline:0.1758', 'likelihood:0.1715', 'reestablish:0.1468', 'global:0.1415', 'receive:0.1173', 'created:0.1058', 'know:0.1029']+titles_keywords+['diplomats:0.538', 'agents:0.3725', 'department:0.3097', 'protect:0.285', 'special:0.1445']"
+        ]
+    ],
+    "USA+RUS+130":[
+        [
+            "20220108+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Russia has enough troops to seize any city in Ukraine but not enough for a.txt+eventbasecode130+eventcode130+avgtone0.4801587301587301+goldsteinscale0.27999999999999997+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.006578947368421052+news_keywords+['ukraine:0.4646', 'putin:0.4055', 'invasion:0.3212', 'military:0.2295', 'diplomatic:0.2271', 'refugee:0.2235', 'firepower:0.1853', 'zelensky:0.1748', 'macron:0.1721', 'blood:0.1721', 'come:0.1582', 'plan:0.1576', 'seize:0.1574', 'fight:0.1502', 'monday:0.1431', 'instead:0.1339', 'long:0.1338', 'month:0.1234', 'people:0.1167', 'understanding:0.1161', 'happen:0.1089', 'continue:0.1074', 'total:0.0985', 'need:0.0937', 'house:0.0852', 'white:0.0823', 'unless:0.0812', 'andriy:0.0614', 'olaf:0.0577', 'scale:0.0201']+titles_keywords+['ukraine:0.3741', 'troops:0.2289', 'seize:0.1454', 'says:0.0555', 'minister:0.0452']"
+        ]
+    ]
+}

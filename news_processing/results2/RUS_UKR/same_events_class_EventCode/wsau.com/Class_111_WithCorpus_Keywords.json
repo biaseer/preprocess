@@ -1,0 +1,17 @@
+{
+    "RUS+UKR+111":[
+        [
+            "20220701+../news_crawling/RUS_UKR/p_articles/wsau.com/UNESCO declares borshch protected Ukrainian heritage at risk from Russian invasion.txt+eventbasecode111+eventcode111+avgtone0.5+goldsteinscale0.4+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['kyiv:0.4618', 'borshch:0.3979', 'russian:0.3869', 'beetroot:0.377', 'russias:0.3662', 'culinary:0.3333', 'heritage:0.3311', 'zakharova:0.2895', 'soup:0.2877', 'lyubysh:0.2581', 'variety:0.2533', 'unesco:0.2388', 'yevhenii:0.2066', 'raissa:0.2027', 'reuters:0.1988', 'oleksandr:0.197', 'fish:0.186', 'list:0.1764', 'reporting:0.176', 'tasty:0.1746', 'safeguard:0.172', 'invasion:0.1626', 'make:0.1536', 'red:0.1474', 'telegram:0.1275', 'element:0.1199', 'enjoy:0.1017', 'additional:0.0942', 'dispute:0.0716', 'meant:0.0695']+titles_keywords+['borshch:0.4495', 'unesco:0.3444', 'russian:0.3151', 'heritage:0.307', 'invasion:0.2594']"
+        ]
+    ],
+    "UKR+RUS+111":[
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/wsau.com/UAEs newly elected ruler sees Iran Islamists as threat to Gulf safe haven.txt+eventbasecode111+eventcode111+avgtone0.48738170347003157+goldsteinscale0.4+nummentions0.04934687953555878+numarticles0.05003625815808557+numsources0.039473684210526314+news_keywords+['uae:0.5607', 'palestinian:0.383', 'bashar:0.3811', 'libyas:0.3783', 'islam:0.3508', 'zayed:0.3495', 'obama:0.3357', 'diplomat:0.3194', 'opec:0.3167', 'liberalisation:0.2867', 'reuters:0.2825', 'agenda:0.258', 'east:0.2383', 'educated:0.2314', 'concern:0.2071', 'attack:0.2063', 'generation:0.2048', 'stalemate:0.2039', 'realignment:0.1991', 'know:0.1812', 'begin:0.1735', 'pump:0.168', 'perspective:0.1676', 'choose:0.1553', 'mbz:0.145', 'like:0.1437', 'dictate:0.141', 'divergence:0.1406', 'warm:0.1348', 'month:0.1256']+titles_keywords+['uaes:0.472', 'iran:0.3822', 'islamists:0.3642', 'threat:0.228', 'elected:0.1114']"
+        ]
+    ],
+    "USA+RUS+111":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/wsau.com/ExGoldman Sachs banker calls on Wall Street giant to exit Russia.txt+eventbasecode111+eventcode111+avgtone0.4846335697399527+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4702', 'reuters:0.4371', 'goldman:0.4141', 'ipos:0.3517', 'companies:0.333', 'egorovs:0.3222', 'executive:0.3208', 'capital:0.3061', 'bank:0.2941', 'gazprom:0.2885', 'rosneft:0.2781', 'profit:0.2639', 'relocate:0.2615', 'syndicate:0.2609', 'invasion:0.2357', 'societe:0.2324', 'globally:0.2311', 'regime:0.2256', 'history:0.2193', 'humanitarian:0.2187', 'vtb:0.2168', 'exit:0.2129', 'warn:0.197', 'people:0.1796', 'list:0.1728', 'ford:0.1715', 'grow:0.1471', 'like:0.1385', 'thursday:0.1335', 'confirm:0.123']+titles_keywords+['exgoldman:0.356', 'sachs:0.3485', 'russia:0.3197', 'exit:0.2779', 'banker:0.2712']"
+        ]
+    ]
+}

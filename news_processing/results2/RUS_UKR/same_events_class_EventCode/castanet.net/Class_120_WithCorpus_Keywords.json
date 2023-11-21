@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+120":[
+        [
+            "20220126+../news_crawling/RUS_UKR/p_articles/castanet.net/Canada extends expands mission to train Ukraine soldiers but wont arm them.txt+eventbasecode120+eventcode120+avgtone0.4896988906497623+goldsteinscale0.3+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.003289473684210526+news_keywords+['ukraine:0.467', 'nato:0.4519', 'kremlin:0.3988', 'diplomacy:0.3889', 'annexation:0.3681', 'trudeau:0.3142', 'extend:0.3061', 'invades:0.3044', 'strategic:0.2957', 'scope:0.2848', 'separatist:0.2808', 'military:0.261', 'retreat:0.2314', 'industrialize:0.2287', 'adviser:0.2276', 'tank:0.2255', 'option:0.2212', 'news:0.2152', 'term:0.2056', 'intend:0.2048', 'help:0.2034', 'sector:0.1974', 'redirect:0.1734', 'unfolding:0.1707', 'arm:0.1637', 'anonymity:0.1636', 'end:0.1622', 'monday:0.1384', 'export:0.1358', 'deal:0.1226']+titles_keywords+['ukraine:0.3875', 'soldiers:0.3253', 'extends:0.2167', 'train:0.1831', 'wont:0.1006']"
+        ]
+    ],
+    "RUS+WST+120":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/castanet.net/Trudeau says Canada very supportive of Sweden Finland joining NATO alliance.txt+eventbasecode120+eventcode120+avgtone0.498134328358209+goldsteinscale0.3+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.003289473684210526+news_keywords+['natos:0.5746', 'ukraine:0.4311', 'finland:0.3752', 'alliance:0.2977', 'vladimir:0.2756', 'join:0.2596', 'sarkozy:0.2257', 'cybersecurity:0.2232', 'military:0.2004', 'volodymyr:0.1884', 'invasion:0.1872', 'parliament:0.1782', 'stability:0.14', 'initiate:0.136', 'option:0.1325', 'promise:0.131', 'ahead:0.1093', 'president:0.1046', 'prevent:0.1026', 'defensive:0.0934', 'respond:0.0879', 'measure:0.0844', 'make:0.081', 'april:0.0784', 'article:0.0625', 'address:0.0568', 'hybrid:0.0551', 'review:0.0409', 'possible:0.0312', 'effect:0.026']+titles_keywords+['nato:0.4472', 'finland:0.3975', 'trudeau:0.363', 'supportive:0.2056', 'joining:0.1966']"
+        ]
+    ]
+}

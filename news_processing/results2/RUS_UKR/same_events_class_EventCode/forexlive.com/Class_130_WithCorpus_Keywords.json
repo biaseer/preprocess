@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+130":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/forexlive.com/Two large explosions reported in Kyiv.txt+eventbasecode130+eventcode130+avgtone0.48360655737704916+goldsteinscale0.27999999999999997+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5279', 'ukraine:0.4802', 'ukrainian:0.4324', 'moldova:0.3454', 'russia:0.3444', 'explosion:0.3101', 'troop:0.2312', 'warn:0.2179', 'report:0.1961', 'infrastructure:0.195', 'soon:0.1875', 'border:0.1648', 'open:0.1632', 'buildup:0.1572', 'strike:0.1532', 'soldier:0.1496', 'control:0.1277', 'large:0.1264', 'command:0.1259', 'hit:0.1222', 'new:0.1161', 'response:0.0991', 'suggest:0.0517']+titles_keywords+['kyiv:0.5418', 'explosions:0.4749', 'large:0.179', 'reported:0.0704']"
+        ]
+    ],
+    "UKR+RUS+130":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/forexlive.com/Russian military to focus on full liberation of Donbas region.txt+eventbasecode130+eventcode130+avgtone0.48993288590604034+goldsteinscale0.27999999999999997+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4543', 'investors:0.3097', 'ceasefire:0.3013', 'operation:0.2984', 'strategy:0.2936', 'military:0.2796', 'donbas:0.2711', 'position:0.2643', 'security:0.2565', 'etfs:0.2513', 'buy:0.247', 'know:0.2438', 'options:0.2325', 'read:0.2168', 'area:0.2003', 'underlying:0.19', 'contract:0.1789', 'focus:0.1756', 'fall:0.1672', 'main:0.1574', 'start:0.1375', 'complete:0.1343', 'mariupol:0.1212', 'report:0.1171', 'suspect:0.1158', 'dig:0.1096', 'broad:0.0972', 'retake:0.0806', 'mount:0.0779', 'percentage:0.07']+titles_keywords+['donbas:0.3979', 'russian:0.3094', 'military:0.2331', 'liberation:0.2047', 'focus:0.1961']"
+        ]
+    ]
+}

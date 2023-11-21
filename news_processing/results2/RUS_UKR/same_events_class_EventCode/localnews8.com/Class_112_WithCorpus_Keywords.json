@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220403+../news_crawling/RUS_UKR/p_articles/localnews8.com/Blinken Images of dead Ukrainians a punch to the gut.txt+eventbasecode112+eventcode112+avgtone0.4835766423357664+goldsteinscale0.4+nummentions0.027576197387518143+numarticles0.028281363306744016+numsources0.03618421052631579+news_keywords+['ukrainians:0.4471', 'genocide:0.4369', 'putin:0.4019', 'nato:0.3587', 'war:0.3295', 'cnn:0.2543', 'zelensky:0.2521', 'neutrality:0.2474', 'blinken:0.2339', 'accuse:0.2213', 'tank:0.2079', 'civilian:0.1986', 'say:0.1977', 'border:0.1788', 'contrast:0.1763', 'remark:0.1698', 'worry:0.1676', 'town:0.1669', 'organization:0.1639', 'bash:0.161', 'strike:0.1606', 'dead:0.154', 'weapon:0.1443', 'want:0.1417', 'end:0.1383', 'soon:0.1373', 'sure:0.1318', 'exactly:0.127', 'year:0.1134', 'double:0.0883']+titles_keywords+['ukrainians:0.4708', 'blinken:0.4076', 'images:0.3291', 'dead:0.3119', 'gut:0.2116']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220414+../news_crawling/RUS_UKR/p_articles/localnews8.com/US officials warn of new hacking tools that could be used to target energy facilities.txt+eventbasecode112+eventcode112+avgtone0.47023809523809523+goldsteinscale0.4+nummentions0.003265602322206096+numarticles0.003988397389412618+numsources0.009868421052631578+news_keywords+['cyberattacks:0.6072', 'hack:0.3919', 'ukraine:0.3674', 'nato:0.3553', 'fbi:0.3545', 'infrastructure:0.3383', 'malicious:0.3274', 'utility:0.3054', 'nuclear:0.304', 'threat:0.304', 'disrupt:0.2968', 'invasion:0.289', 'tool:0.2752', 'power:0.2748', 'operation:0.2729', 'device:0.2701', 'industrial:0.2685', 'software:0.2603', 'outage:0.2499', 'analyze:0.2482', 'unnamed:0.2165', 'report:0.1946', 'help:0.1807', 'burrow:0.1353', 'link:0.1318', 'wednesday:0.1076', 'dragos:0.0954', 'track:0.0858', 'million:0.066', 'year:0.0585']+titles_keywords+['hacking:0.3298', 'warn:0.1722', 'energy:0.1188', 'officials:0.0957', 'target:0.0561']"
+        ],
+        [
+            "20220510+../news_crawling/RUS_UKR/p_articles/localnews8.com/Russian authorities accused of abducting Crimean human rights activist.txt+eventbasecode112+eventcode112+avgtone0.453846153846154+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['crimea:0.507', 'detained:0.4504', 'abductions:0.4427', 'victim:0.3695', 'suvorov:0.3058', 'journalist:0.3003', 'officer:0.2911', 'activists:0.2907', 'prosecute:0.2733', 'report:0.2728', 'cctv:0.257', 'search:0.2418', 'remain:0.2355', 'authority:0.2305', 'read:0.23', 'hide:0.2142', 'fear:0.2082', 'bogdanovich:0.2045', 'know:0.196', 'relation:0.1612', 'list:0.1597', 'coronavirus:0.1558', 'state:0.1505', 'zmina:0.1463', 'reachable:0.1431', 'pre:0.1333', 'request:0.1273', 'gas:0.1082', 'way:0.105', 'doesnt:0.0434']+titles_keywords+['crimean:0.4632', 'abducting:0.3487', 'activist:0.2197', 'accused:0.2131', 'rights:0.1249']"
+        ]
+    ]
+}

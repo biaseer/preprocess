@@ -1,0 +1,26 @@
+{
+    "ISR+RUS+10":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/artsakhpress.am/Israel ready to host possible PutinZelensky meeting.txt+eventbasecode10+eventcode10+avgtone0.5085836909871245+goldsteinscale0.5+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['putin:0.4179', 'israel:0.3792', 'putinzelensky:0.3758', 'vladimir:0.3689', 'zelensky:0.3371', 'ukraine:0.3314', 'russia:0.3256', 'meeting:0.3189', 'israeli:0.3088', 'zvi:0.2699', 'host:0.2491', 'ambassador:0.2485', 'presidents:0.2272', 'ready:0.2257', 'readiness:0.2177', 'interview:0.1824', 'alexander:0.1416', 'ben:0.1287', 'possible:0.0902', 'confirm:0.075', 'say:0.0581', 'tass:-0.0168']+titles_keywords+['putinzelensky:0.3908', 'meeting:0.3719', 'israel:0.3614', 'ready:0.135', 'possible:0.1082']"
+        ]
+    ],
+    "RUS+EUR+10":[
+        [
+            "20220621+../news_crawling/RUS_UKR/p_articles/artsakhpress.am/Senior Russian diplomat slams as unacceptable EU arms supplies to Kiev.txt+eventbasecode10+eventcode10+avgtone0.46385542168674704+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kiev:0.4523', 'rudenko:0.4132', 'andrey:0.3959', 'russias:0.3942', 'russian:0.3581', 'kaliningrad:0.338', 'diplomat:0.3161', 'baltic:0.3104', 'eu:0.291', 'attack:0.2223', 'warn:0.2196', 'military:0.2114', 'exclave:0.2048', 'protest:0.2008', 'supply:0.1994', 'unacceptable:0.1851', 'blocs:0.1689', 'ban:0.1639', 'donbass:0.1588', 'ederer:0.1539', 'union:0.1523', 'transit:0.1483', 'arm:0.1442', 'summon:0.1426', 'artsakhpress:0.1291', 'child:0.1272', 'amid:0.1259', 'certain:0.0701', 'june:0.0625', 'dead:0.0562']+titles_keywords+['kiev:0.4444', 'diplomat:0.3503', 'unacceptable:0.2371', 'supplies:0.2076', 'slams:0.1421']"
+        ]
+    ],
+    "RUS+RUS+10":[
+        [
+            "20220627+../news_crawling/RUS_UKR/p_articles/artsakhpress.am/West unwilling to answer questions about its mercenaries in Ukraine Zakharova.txt+eventbasecode10+eventcode10+avgtone0.4609053497942387+goldsteinscale0.5+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.5184', 'russias:0.3862', 'rossiya:0.3182', 'conflict:0.2651', 'solovyov:0.2476', 'ambassador:0.2318', 'operation:0.2207', 'western:0.2163', 'provocative:0.2008', 'spar:0.1993', 'kill:0.1964', 'logistics:0.1894', 'contact:0.1868', 'continue:0.1827', 'bush:0.1744', 'unwilling:0.1743', 'want:0.1743', 'long:0.1415', 'write:0.1361', 'people:0.1295', 'artsakhpress:0.114', 'instrument:0.1135', 'remember:0.1017', 'rd:0.097', 'prevent:0.0889', 'television:0.0803', 'prime:0.0517', 'tass:0.0506', 'possible:0.0424', 'today:0.0332']+titles_keywords+['zakharova:0.4209', 'mercenaries:0.4144', 'ukraine:0.388', 'unwilling:0.2508', 'west:0.2404']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [],
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/artsakhpress.am/Belgorod airport was not damaged after Ukrainian air strikes on oil depot spokesperson.txt+eventbasecode10+eventcode10+avgtone0.48630136986301375+goldsteinscale0.5+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['belgorod:0.4177', 'airport:0.3685', 'flame:0.3247', 'oil:0.3118', 'evacuate:0.3034', 'attack:0.2656', 'gladkov:0.2653', 'ukrainian:0.2572', 'air:0.2467', 'helicopter:0.2404', 'infrastructure:0.2261', 'casualty:0.2238', 'depot:0.2148', 'damage:0.2138', 'city:0.2121', 'tank:0.1902', 'building:0.1708', 'anastasia:0.1628', 'artsakhpress:0.1567', 'cause:0.1453', 'tell:0.1349', 'accord:0.1186', 'friday:0.1077', 'result:0.0959', 'authority:0.09', 'adjacent:0.084', 'right:0.0768', 'spokeswoman:0.0709', 'tass:0.0671', 'engulf:0.064']+titles_keywords+['belgorod:0.3387', 'airport:0.2945', 'ukrainian:0.2333', 'damaged:0.1733', 'oil:0.158']"
+        ],
+        [
+            "20220525+../news_crawling/RUS_UKR/p_articles/artsakhpress.am/UN chief Guterres announces new Cold War threat.txt+eventbasecode10+eventcode10+avgtone0.4538745387453875+goldsteinscale0.5+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.01644736842105263+news_keywords+['putin:0.4609', 'ukraine:0.4084', 'demilitarization:0.3584', 'nationalism:0.3277', 'nuclear:0.3192', 'conflict:0.3029', 'climate:0.2655', 'sahel:0.2608', 'world:0.2561', 'cite:0.2555', 'warn:0.2368', 'military:0.235', 'guterres:0.2254', 'operation:0.2234', 'secretary:0.1994', 'general:0.1825', 'speech:0.1822', 'head:0.1516', 'inequality:0.1468', 'goal:0.1356', 'disease:0.1261', 'graduate:0.117', 'surge:0.1151', 'tuesday:0.1134', 'new:0.1018', 'tass:0.0866', 'decade:0.0847', 'request:0.0809', 'scale:0.0809', 'undertones:0.0571']+titles_keywords+['guterres:0.3183', 'threat:0.2779', 'new:0.1898', 'chief:0.1843', 'cold:0.1472']"
+        ]
+    ]
+}

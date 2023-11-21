@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+16":[
+        [
+            "20220127+../news_crawling/RUS_UKR/p_articles/marinelink.com/Russia Starts Navy Drills to Rehearse Protecting Arctic Shipping Lane.txt+eventbasecode16+eventcode16+avgtone0.49087591240875916+goldsteinscale0.4+nummentions0.006168359941944848+numarticles0.006889050036258158+numsources0.006578947368421052+news_keywords+['russia:0.4027', 'arctic:0.3876', 'readiness:0.3256', 'winter:0.2686', 'fleet:0.2587', 'military:0.2534', 'maneuver:0.2516', 'rehearse:0.2277', 'northeast:0.2185', 'activity:0.2103', 'plan:0.1999', 'okhotsk:0.191', 'warms:0.188', 'invest:0.1713', 'crisis:0.1641', 'drill:0.1613', 'watch:0.1523', 'repel:0.1505', 'week:0.1479', 'begin:0.1468', 'adjacent:0.1267', 'use:0.1101', 'area:0.0805', 'say:0.0633', 'stag:0.0578', 'faster:0.0554', 'series:0.0497', 'currently:0.0489', 'include:0.0409', 'major:0.0324']+titles_keywords+['navy:0.3361', 'arctic:0.2959', 'rehearse:0.2599', 'drills:0.2157', 'protecting:0.1374']"
+        ],
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/marinelink.com/Brimming European LNG Terminals Have Limited Space for More Gas.txt+eventbasecode16+eventcode16+avgtone0.4837209302325581+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['lng:0.4078', 'europe:0.3721', 'iberian:0.2696', 'pipeline:0.2643', 'methane:0.2457', 'invade:0.2263', 'peninsula:0.2126', 'liquefy:0.2126', 'terminals:0.2083', 'import:0.1775', 'reuters:0.1635', 'heating:0.1515', 'ship:0.1501', 'logistical:0.1274', 'prepare:0.127', 'transform:0.1139', 'accord:0.1093', 'data:0.0965', 'reporting:0.0936', 'hypothesis:0.0902', 'issue:0.0855', 'send:0.0814', 'month:0.0787', 'additional:0.0774', 'billion:0.0764', 'fully:0.0738', 'especially:0.0659', 'kpler:0.0605', 'sergio:0.0585', 'maybe:-0.0113']+titles_keywords+['lng:0.3846', 'gas:0.3632', 'terminals:0.3167', 'brimming:0.183', 'limited:0.1121']"
+        ]
+    ]
+}

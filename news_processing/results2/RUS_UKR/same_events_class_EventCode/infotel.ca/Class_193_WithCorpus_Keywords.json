@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+193":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/infotel.ca/Russia booted from Eurovision Song Contest over Ukraine.txt+eventbasecode193+eventcode193+avgtone0.4949152542372881+goldsteinscale0.0+nummentions0.04426705370101597+numarticles0.044960116026105876+numsources0.046052631578947366+news_keywords+['eurovision:0.5849', 'ukraines:0.529', 'kyiv:0.5015', 'russia:0.4999', 'vladmir:0.3062', 'competition:0.2581', 'entry:0.2447', 'orchestra:0.2425', 'disrepute:0.2229', 'troop:0.2154', 'celebrate:0.2074', 'union:0.1856', 'song:0.1852', 'report:0.182', 'audience:0.1747', 'bring:0.1641', 'statement:0.1581', 'action:0.1563', 'remain:0.1523', 'begin:0.141', 'represent:0.135', 'apolitical:0.1312', 'hop:0.1306', 'promote:0.1291', 'pummel:0.1284', 'hundreds:0.1218', 'ebu:0.1119', 'thursday:0.1113', 'year:0.1055', 'hold:0.0777']+titles_keywords+['eurovision:0.5191', 'ukraine:0.4638', 'song:0.22', 'contest:0.179', 'booted:0.1736']"
+        ],
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/infotel.ca/Ukraine thwarts Russian advances fight rages for Mariupol.txt+eventbasecode193+eventcode193+avgtone0.4702093397745572+goldsteinscale0.0+nummentions0.14622641509433962+numarticles0.14394488759970994+numsources0.39144736842105265+news_keywords+['crimea:0.5263', 'dmitry:0.3938', 'airstrikes:0.3828', 'putins:0.3806', 'evacuate:0.353', 'pravda:0.347', 'invasion:0.3342', 'blockade:0.3239', 'escalate:0.2981', 'zelenskyy:0.2684', 'pentagon:0.2642', 'strategic:0.2577', 'battle:0.2494', 'update:0.2163', 'casualty:0.2052', 'unprepared:0.199', 'forward:0.1918', 'retaken:0.1905', 'officer:0.1904', 'surround:0.1875', 'organize:0.183', 'cite:0.1745', 'long:0.1682', 'end:0.1666', 'anna:0.1597', 'bucha:0.1568', 'hear:0.1557', 'toll:0.1547', 'nearly:0.1409', 'population:0.1096']+titles_keywords+['ukraine:0.495', 'fight:0.3995', 'mariupol:0.3448', 'thwarts:0.2043', 'advances:0.1217']"
+        ]
+    ]
+}

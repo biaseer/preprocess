@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+172":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/rawstory.com/US closes its airspace to Russia as Ukrainian cities brace for attacks.txt+eventbasecode172+eventcode172+avgtone0.4411764705882355+goldsteinscale0.25+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['kyiv:0.4238', 'airspace:0.3929', 'russia:0.3595', 'invasion:0.3032', 'washingtonkyiv:0.2963', 'bombardment:0.2668', 'military:0.2466', 'kill:0.2386', 'encircle:0.2047', 'reuters:0.1906', 'intensify:0.174', 'close:0.1603', 'fail:0.1602', 'shun:0.1521', 'begin:0.148', 'capture:0.1463', 'subdue:0.1461', 'plan:0.146', 'west:0.1403', 'sanction:0.1341', 'brace:0.1312', 'states:0.1265', 'international:0.117', 'sign:0.0984', 'week:0.0923', 'second:0.0821', 'spark:0.0784', 'include:0.061', 'united:0.056', 'dozens:0.0201']+titles_keywords+['ukrainian:0.313', 'airspace:0.2987', 'brace:0.1535', 'closes:0.1462', 'attacks:0.1444']"
+        ]
+    ],
+    "USA+RUS+172":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/rawstory.com/Moscow demands YouTube unblock Russian statefunded media.txt+eventbasecode172+eventcode172+avgtone0.478515625+goldsteinscale0.25+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.006578947368421052+news_keywords+['russia:0.4344', 'roskomnadzor:0.3669', 'youtube:0.3543', 'unblock:0.3429', 'google:0.3149', 'ban:0.2922', 'nationalist:0.2652', 'news:0.2551', 'liberate:0.2527', 'rt:0.2357', 'policy:0.2278', 'invasion:0.2277', 'content:0.2268', 'threaten:0.2194', 'sputnik:0.2126', 'report:0.2057', 'audience:0.2006', 'globally:0.2006', 'interference:0.1967', 'discrimination:0.1913', 'example:0.1803', 'station:0.1572', 'trivialize:0.1394', 'include:0.1231', 'technical:0.1211', 'state:0.1192', 'interpreted:0.1154', 'share:0.1143', 'start:0.101', 'large:0.0831']+titles_keywords+['moscow:0.4348', 'unblock:0.4029', 'youtube:0.3448', 'media:0.3013', 'statefunded:0.1701']"
+        ]
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/dw.com/Ukrainian websites hacked in global attack.txt+eventbasecode180+eventcode180+avgtone0.47640117994100295+goldsteinscale0.05+nummentions0.008345428156748911+numarticles0.009064539521392313+numsources0.003289473684210526+news_keywords+['cyberattacks:0.5516', 'kyiv:0.4306', 'nato:0.4135', 'government:0.2961', 'data:0.2737', 'breach:0.2581', 'history:0.2428', 'source:0.236', 'websites:0.2355', 'urgent:0.2296', 'assault:0.2218', 'ofrussian:0.214', 'acyberattack:0.2051', 'read:0.1959', 'blame:0.1868', 'agreement:0.1718', 'extremist:0.1704', 'nikolenko:0.1703', 'secretary:0.1657', 'eastern:0.1546', 'continue:0.1532', 'page:0.1467', 'soon:0.1408', 'post:0.1365', 'day:0.1342', 'josep:0.1302', 'state:0.1266', 'possible:0.1218', 'official:0.1161', 'restore:0.108']+titles_keywords+['hacked:0.4489', 'ukrainian:0.4023', 'websites:0.3234', 'attack:0.2935', 'global:0.1919']"
+        ],
+        []
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220706+../news_crawling/RUS_UKR/p_articles/dw.com/Ukraine digs in for Russian assault on Donetsk.txt+eventbasecode180+eventcode180+avgtone0.48484848484848486+goldsteinscale0.05+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['donetsk:0.5589', 'ukraine:0.5045', 'russian:0.3566', 'leave:0.3174', 'assault:0.3101', 'troop:0.304', 'remain:0.2895', 'safe:0.2758', 'region:0.2663', 'resident:0.2575', 'prepare:0.2518', 'industrial:0.2444', 'governor:0.203', 'place:0.2015', 'dig:0.1908', 'eastern:0.1863', 'force:0.1583', 'defense:0.1514', 'local:0.1357', 'ground:0.1203', 'urge:0.1146', 'say:0.0983']+titles_keywords+['donetsk:0.486', 'ukraine:0.3675', 'assault:0.2572', 'russian:0.2524', 'digs:0.2366']"
+        ]
+    ]
+}

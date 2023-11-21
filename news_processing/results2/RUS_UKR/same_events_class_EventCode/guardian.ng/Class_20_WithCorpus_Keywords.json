@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+20":[
+        [
+            "20220503+../news_crawling/RUS_UKR/p_articles/guardian.ng/EU readies for end of Russia gas warns wont pay in rubles.txt+eventbasecode20+eventcode20+avgtone0.4821664464993395+goldsteinscale0.65+nummentions0.03374455732946299+numarticles0.03444525018129079+numsources0.03289473684210526+news_keywords+['putin:0.4314', 'embargo:0.4141', 'russias:0.407', 'baltic:0.328', 'eus:0.3082', 'diplomat:0.2775', 'comply:0.2398', 'berlin:0.2309', 'disruption:0.2216', 'meeting:0.2198', 'prepare:0.2137', 'currency:0.2124', 'monday:0.2082', 'climate:0.207', 'end:0.1879', 'report:0.1862', 'gas:0.186', 'gazprombank:0.1819', 'sidestep:0.1815', 'issue:0.1763', 'clarification:0.1745', 'diversify:0.1745', 'renew:0.1625', 'pompili:0.1589', 'month:0.1511', 'bit:0.1428', 'say:0.1356', 'wont:0.1328', 'official:0.1218', 'set:0.1111']+titles_keywords+['rubles:0.4345', 'eu:0.3171', 'readies:0.2779', 'wont:0.2008', 'end:0.1941']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220609+../news_crawling/RUS_UKR/p_articles/guardian.ng/Zelensky wants Russia expelled from UN agriculture agency.txt+eventbasecode20+eventcode20+avgtone0.48054474708171213+goldsteinscale0.65+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['sergei:0.4304', 'moscow:0.3862', 'russias:0.3764', 'ukrainian:0.3735', 'blockade:0.355', 'oecd:0.3321', 'invade:0.273', 'president:0.2127', 'food:0.2118', 'uns:0.2065', 'expel:0.1976', 'want:0.1796', 'crisis:0.1763', 'meeting:0.1632', 'mission:0.1629', 'volodymyr:0.1626', 'assurances:0.1426', 'tell:0.1106', 'export:0.1027', 'western:0.1024', 'prolong:0.0971', 'ready:0.0865', 'blame:0.0847', 'billion:0.0846', 'february:0.0828', 'link:0.0825', 'resume:0.0799', 'fao:0.0754', 'potentially:0.0541', 'price:0.0507']+titles_keywords+['zelensky:0.5263', 'russia:0.324', 'expelled:0.2726', 'agriculture:0.2304', 'agency:0.1428']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "POL+UKR+42":[
+        [
+            "20220804+../news_crawling/RUS_UKR/p_articles/manilatimes.net/Grain vessel sails through Istanbul.txt+eventbasecode42+eventcode42+avgtone0.48395721925133695+goldsteinscale0.595+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['istanbul:0.4233', 'lebanon:0.4081', 'ukraine:0.3999', 'shipment:0.3772', 'war:0.3501', 'sail:0.339', 'grain:0.3365', 'vessel:0.2992', 'invasion:0.2884', 'port:0.2723', 'food:0.2603', 'flag:0.2365', 'leone:0.2323', 'crisis:0.2284', 'odesa:0.1874', 'global:0.1805', 'deal:0.18', 'wednesday:0.1577', 'sign:0.1563', 'razoni:0.1559', 'design:0.1521', 'landmark:0.1429', 'hold:0.1412', 'alleviate:0.1336', 'help:0.1254', 'sierra:0.1214', 'month:0.1176', 'closely:0.1059', 'black:0.1049', 'ago:0.0557']+titles_keywords+['istanbul:0.474', 'sails:0.376', 'vessel:0.3645', 'grain:0.3242']"
+        ]
+    ],
+    "UKR+RUS+42":[
+        [
+            "20220727+../news_crawling/RUS_UKR/p_articles/manilatimes.net/Ukrainian forces strike strategic bridge in Kherson.txt+eventbasecode42+eventcode42+avgtone0.48041237113402063+goldsteinscale0.595+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.01644736842105263+news_keywords+['kyiv:0.4472', 'moscow:0.3783', 'antonovsky:0.3661', 'ukrainian:0.3602', 'stremousov:0.3301', 'bridge:0.3154', 'russia:0.2728', 'artillery:0.2586', 'river:0.2525', 'military:0.2266', 'kherson:0.2047', 'troop:0.1993', 'strategic:0.1625', 'strike:0.15', 'dnieper:0.145', 'occupy:0.1299', 'supply:0.1292', 'region:0.1288', 'night:0.1112', 'rocket:0.1061', 'force:0.0893', 'critical:0.0726', 'say:0.0606', 'kirill:0.0603', 'tuesday:0.0388', 'appoint:0.0344', 'essential:0.0299', 'head:0.0161', 'pound:0.0099', 'deputy:0.0027']+titles_keywords+['kherson:0.3464', 'ukrainian:0.3241', 'bridge:0.3039', 'strategic:0.1979', 'forces:0.1066']"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "GBR+RUS+40":[
+        [
+            "20210629+../news_crawling/RUS_UKR/p_articles/sputniknews.com/UK Ministry of Defence Papers Found in Bathroom and UFO Report Released.txt+eventbasecode40+eventcode40+avgtone0.4825581395348837+goldsteinscale0.55+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ufos:0.6189', 'roswell:0.3833', 'pentagon:0.344', 'information:0.3188', 'terrorism:0.3173', 'putin:0.3014', 'papers:0.2931', 'report:0.2866', 'news:0.2792', 'locate:0.2263', 'accuse:0.222', 'people:0.2023', 'mark:0.2017', 'mexico:0.1983', 'hour:0.1977', 'lie:0.1939', 'tech:0.1836', 'relations:0.182', 'ministry:0.1791', 'kong:0.1745', 'cohost:0.1709', 'know:0.1595', 'base:0.1552', 'speak:0.1503', 'ib:0.1158', 'come:0.113', 'ship:0.1075', 'year:0.0911', 'black:0.0881', 'second:0.0802']+titles_keywords+['ufo:0.3832', 'papers:0.3662', 'bathroom:0.265', 'report:0.2269', 'uk:0.2053']"
+        ]
+    ],
+    "RUS+BLR+40":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Delegates Deliver Press Statements After Third Round of RussiaUkraine Talks.txt+eventbasecode40+eventcode40+avgtone0.5136363636363637+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4668', 'russiaukraine:0.4318', 'negotiation:0.4164', 'talks:0.3185', 'evacuation:0.3034', 'delegates:0.2721', 'republics:0.2712', 'lugansk:0.2677', 'peace:0.2674', 'dpr:0.2625', 'provision:0.2559', 'humanitarian:0.237', 'operation:0.2353', 'corridor:0.2313', 'february:0.2255', 'party:0.2241', 'round:0.2213', 'deliver:0.2115', 'military:0.2094', 'lpr:0.1986', 'second:0.174', 'press:0.1651', 'reach:0.1618', 'medicine:0.161', 'peoples:0.1606', 'statements:0.1512', 'hold:0.1483', 'defend:0.1455', 'understand:0.1342', 'help:0.1285']+titles_keywords+['delegates:0.3408', 'russiaukraine:0.3062', 'talks:0.2715', 'press:0.2074', 'deliver:0.1725']"
+        ]
+    ],
+    "RUS+UKR+40":[
+        [
+            "20211004+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Kremlin Believes Putin Zelensky Unlikely to Meet in 2021.txt+eventbasecode40+eventcode40+avgtone0.4887640449438202+goldsteinscale0.55+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['zelensky:0.5107', 'putin:0.46', 'kremlin:0.4408', 'crimea:0.3449', 'kiev:0.3364', 'ukrainian:0.3056', 'meet:0.267', 'russia:0.2596', 'talk:0.1997', 'president:0.1726', 'unlikely:0.1614', 'ready:0.1062', 'occupy:0.1024', 'potential:0.0881', 'say:0.0842', 'summit:0.0815', 'peninsula:0.0742', 'believes:0.072', 'face:0.0706', 'suggest:0.0628', 'office:0.0613', 'issue:0.0564', 'raised:0.0476', 'response:0.0431', 'stress:0.0397', 'depth:0.0322', 'weekend:0.0129', 'door:0.0118', 'closed:0.0025', 'previously:-0.0133']+titles_keywords+['zelensky:0.4969', 'kremlin:0.4345', 'meet:0.263', '2021:0.2408', 'unlikely:0.2373']"
+        ],
+        [
+            "20220123+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Biden Discusses Alleged Russian Aggression Toward Ukraine With National Security Team White House.txt+eventbasecode40+eventcode40+avgtone0.4782608695652174+goldsteinscale0.55+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4066', 'biden:0.4064', 'nato:0.4054', 'lavrov:0.2751', 'troop:0.2615', 'accusation:0.2396', 'shortly:0.2219', 'aggressive:0.2118', 'meet:0.1996', 'border:0.194', 'preparation:0.1935', 'promise:0.1879', 'leadership:0.1803', 'activity:0.1778', 'blinken:0.1771', 'secure:0.1723', 'response:0.1443', 'secretary:0.1288', 'readout:0.1269', 'david:0.126', 'continue:0.1226', 'geneva:0.1221', 'shoot:0.1193', 'force:0.1002', 'video:0.0986', 'discus:0.093', 'official:0.0867', 'according:0.0742', 'house:0.0675', 'install:0.0292']+titles_keywords+['biden:0.4092', 'russian:0.2278', 'aggression:0.1709', 'alleged:0.1375', 'house:0.022']"
+        ]
+    ]
+}

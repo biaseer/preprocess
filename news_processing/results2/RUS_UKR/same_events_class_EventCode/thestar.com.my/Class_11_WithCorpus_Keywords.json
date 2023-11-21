@@ -1,0 +1,17 @@
+{
+    "RUS+POL+11":[
+        [
+            "20220718+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Filmmaker fights for Ukraine driven by memories of sexual assault.txt+eventbasecode11+eventcode11+avgtone0.464622641509434+goldsteinscale0.495+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.4684', 'comrade:0.4565', 'propaganda:0.4175', 'documentary:0.3667', 'kovalenko:0.3488', 'violence:0.3306', 'frontline:0.3258', 'invasion:0.3177', 'separatist:0.3119', 'reutersnatalie:0.2831', 'interrogated:0.279', 'filmmaker:0.2439', 'story:0.2323', 'afraid:0.229', 'accuse:0.2281', 'remembers:0.2114', 'stay:0.2005', 'sexual:0.1991', 'cover:0.1988', 'speak:0.1949', 'react:0.1915', 'mix:0.1791', 'list:0.1761', 'like:0.1709', 'later:0.1517', 'month:0.148', 'zo:0.1179', 'send:0.1018', 'factor:0.1018', 'thousand:0.0949']+titles_keywords+['filmmaker:0.3869', 'ukraine:0.373', 'assault:0.2903', 'memories:0.2472', 'sexual:0.2397']"
+        ]
+    ],
+    "RUS+USA+11":[
+        [
+            "20220801+../news_crawling/RUS_UKR/p_articles/thestar.com.my/US accuses Russia of using Ukraine power plant as nuclear shield.txt+eventbasecode11+eventcode11+avgtone0.4736842105263158+goldsteinscale0.495+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['nuclear:0.4387', 'ukraine:0.4371', 'war:0.3263', 'provocation:0.3017', 'iaea:0.2921', 'concern:0.2681', 'nationalist:0.2602', 'inaction:0.2531', 'military:0.2514', 'shield:0.2485', 'invasion:0.2477', 'operation:0.2455', 'reutersdavid:0.2417', 'accuse:0.2402', 'tochytskyi:0.2402', 'power:0.2082', 'watchdog:0.1918', 'accident:0.1912', 'plant:0.1721', 'talk:0.1691', 'order:0.1623', 'use:0.1537', 'secretary:0.1516', 'height:0.1367', 'nonproliferation:0.1363', 'arm:0.1279', 'npp:0.1266', 'undamaged:0.126', 'statement:0.1132', 'week:0.0706']+titles_keywords+['ukraine:0.3769', 'nuclear:0.3173', 'shield:0.222', 'accuses:0.2081', 'plant:0.1565']"
+        ]
+    ],
+    "SEA+RUS+11":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Singapore sanctions Russia over unprovoked attack on Ukraine.txt+eventbasecode11+eventcode11+avgtone0.4724025974025974+goldsteinscale0.495+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.023026315789473683+news_keywords+['ukraine:0.4593', 'sanction:0.4389', 'asean:0.4064', 'sovereignty:0.3481', 'reuters:0.3087', 'ceasefire:0.3042', 'crisis:0.2668', 'promsvyazbank:0.2643', 'allow:0.2463', 'unprovoked:0.2424', 'invasion:0.2343', 'economic:0.2334', 'involvement:0.231', 'military:0.2088', 'gic:0.195', 'stock:0.1926', 'cryptocurrencies:0.1868', 'cyber:0.1846', 'state:0.1828', 'dangerous:0.1768', 'help:0.1754', 'statement:0.1734', 'export:0.1726', 'sgjb:0.1721', 'reiterate:0.1667', 'bit:0.1643', 'like:0.1251', 'measure:0.1058', 'saturday:0.0822', 'ly:0.0814']+titles_keywords+['ukraine:0.41', 'sanctions:0.4026', 'singapore:0.3658', 'unprovoked:0.2398', 'attack:0.2321']"
+        ]
+    ]
+}

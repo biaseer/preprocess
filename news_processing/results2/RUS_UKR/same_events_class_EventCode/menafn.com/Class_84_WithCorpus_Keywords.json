@@ -1,0 +1,12 @@
+{
+    "EUR+UKR+84":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/menafn.com/Ukraines EU membership bid European Commission has to submit its opinion.txt+eventbasecode84+eventcode84+avgtone0.4875912408759124+goldsteinscale0.85+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.003289473684210526+news_keywords+['ukraine:0.5026', 'treaties:0.3124', 'refugee:0.2879', 'peaceful:0.2743', 'remain:0.2668', 'readiness:0.2578', 'agreement:0.2492', 'nuclear:0.2367', 'versailles:0.2252', 'unprovoked:0.2237', 'ukrinform:0.2064', 'submit:0.2046', 'democratic:0.1886', 'aid:0.1778', 'reiterate:0.1774', 'article:0.1766', 'circumvent:0.1722', 'increase:0.1698', 'invitation:0.166', 'isolate:0.1622', 'immediate:0.1587', 'coordinate:0.1515', 'pathway:0.1479', 'note:0.1413', 'forces:0.1362', 'fully:0.1159', 'onslaught:0.1157', 'detect:0.1115', 'welcome:0.1029', 'menafn:0.096']+titles_keywords+['ukraines:0.4068', 'eu:0.3411', 'submit:0.3286', 'commission:0.1653', 'opinion:0.1254']"
+        ]
+    ],
+    "RUS+UKR+84":[
+        [
+            "20220709+../news_crawling/RUS_UKR/p_articles/menafn.com/Iron Curtain Shutting In Russia Ukrainians Should Leave ASAP Vereshchuk.txt+eventbasecode84+eventcode84+avgtone0.49206349206349204+goldsteinscale0.85+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.4354', 'border:0.3075', 'curtain:0.2751', 'mobilized:0.2665', 'government:0.2487', 'stay:0.2309', 'vereshchuk:0.2042', 'reintegration:0.1955', 'union:0.1919', 'allow:0.189', 'shutting:0.1849', 'opportunity:0.1701', 'iron:0.1629', 'ukrinform:0.1574', 'end:0.1554', 'read:0.1537', 'asap:0.1451', 'filtration:0.1423', 'temporarily:0.1401', 'people:0.1384', 'aggressor:0.132', 'information:0.1283', 'issue:0.1245', 'collaborator:0.1242', 'sever:0.1015', 'way:0.0902', 'actually:0.089', 'receive:0.0714', 'reach:0.0583', 'week:0.0215']+titles_keywords+['ukrainians:0.4606', 'vereshchuk:0.4052', 'curtain:0.3055', 'leave:0.2856', 'iron:0.2151']"
+        ]
+    ]
+}

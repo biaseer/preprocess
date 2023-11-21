@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+20":[
+        [
+            "20220304+../news_crawling/RUS_UKR/p_articles/inlandnewstoday.com/Ukraine war second week Humanitarian evacuation corridors established Nuclear power plant fire controlled.txt+eventbasecode20+eventcode20+avgtone0.4721189591078066+goldsteinscale0.65+nummentions0.03555878084179971+numarticles0.03625815808556925+numsources0.11513157894736842+news_keywords+['ukraine:0.5146', 'ceasefire:0.4422', 'putin:0.4041', 'evacuate:0.3944', 'zelensky:0.2794', 'invasion:0.2669', 'nuclear:0.2663', 'oil:0.2555', 'podolyak:0.2435', 'government:0.2364', 'plan:0.2084', 'negotiator:0.2072', 'plane:0.2031', 'secure:0.2011', 'fight:0.2011', 'understand:0.1932', 'end:0.1879', 'corridor:0.1855', 'near:0.1604', 'development:0.1559', 'control:0.1508', 'sector:0.1485', 'million:0.1321', 'armor:0.12', 'say:0.1144', 'fourth:0.1121', 'major:0.1015', 'way:0.0971', 'week:0.0597', 'add:0.0568']+titles_keywords+['evacuation:0.5212', 'ukraine:0.4321', 'nuclear:0.3928', 'war:0.316', 'corridors:0.2787']"
+        ]
+    ],
+    "UKR+RUS+20":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/inlandnewstoday.com/Radiation spike at Chernobyl site seized by Russia.txt+eventbasecode20+eventcode20+avgtone0.4732510288065843+goldsteinscale0.65+nummentions0.022859216255442672+numarticles0.023567802755620013+numsources0.05263157894736842+news_keywords+['chernobyl:0.6605', 'radioactivity:0.4639', 'reactor:0.3846', 'kyiv:0.3011', 'disaster:0.2143', 'concern:0.193', 'military:0.1507', 'monitoring:0.1494', 'data:0.1378', 'spike:0.1279', 'report:0.1261', 'north:0.123', 'increase:0.1225', 'uninhabited:0.1202', 'activity:0.116', 'safely:0.1151', 'contaminate:0.112', 'zone:0.0983', 'cover:0.0962', 'building:0.0905', 'world:0.0874', 'huge:0.0785', 'accord:0.0656', 'main:0.0653', 'thursday:0.0631', 'km:0.0607', 'include:0.0435', 'prof:0.0423', 'microsieverts:0.0364', 'hour:0.0245']+titles_keywords+['chernobyl:0.7014', 'radiation:0.417', 'russia:0.2664', 'seized:0.1799', 'site:0.0572']"
+        ]
+    ]
+}

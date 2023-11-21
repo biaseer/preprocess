@@ -1,0 +1,12 @@
+{
+    "RUS+CHN+50":[
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/en.ce.cn/Facts about RussiaUkraine conflict Deal on Ukraines grain exports to be signed to resolve food.txt+eventbasecode50+eventcode50+avgtone0.47904191616766467+goldsteinscale0.675+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4561', 'ceasefire:0.4425', 'minsk:0.4354', 'kremlin:0.384', 'negotiation:0.3098', 'lukashenko:0.2971', 'agreement:0.2641', 'news:0.255', 'threat:0.2481', 'government:0.2441', 'sanction:0.2437', 'nuclear:0.2403', 'president:0.2123', 'lengthy:0.182', 'thursday:0.1816', 'begin:0.1702', 'trkiye:0.1644', 'format:0.1542', 'outline:0.1493', 'world:0.1281', 'gold:0.1227', 'import:0.1218', 'step:0.1192', 'additional:0.1166', 'tighten:0.1066', 'donbass:0.0943', 'send:0.0939', 'mevlut:0.0933', 'aerospace:0.0882', 'reach:0.0872']+titles_keywords+['ukraines:0.4375', 'conflict:0.3006', 'grain:0.2693', 'facts:0.2328', 'signed:0.2129']"
+        ]
+    ],
+    "WST+UKR+50":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/en.ce.cn/Xi Get ties back on right track.txt+eventbasecode50+eventcode50+avgtone0.48615635179153094+goldsteinscale0.675+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.3324', 'communicate:0.3207', 'war:0.295', 'beijing:0.2835', 'political:0.2756', 'crisis:0.2729', 'biden:0.2677', 'facilitate:0.2557', 'escalate:0.2445', 'humanitarian:0.2418', 'xi:0.2395', 'concern:0.2353', 'help:0.2282', 'sanction:0.2138', 'continue:0.1954', 'want:0.1949', 'forward:0.1944', 'jinping:0.1914', 'revitalize:0.1875', 'stability:0.1831', 'world:0.177', 'properly:0.1596', 'view:0.1569', 'bilateral:0.151', 'difference:0.1491', 'long:0.1437', 'assume:0.1334', 'noting:0.1238', 'effort:0.122', 'friday:0.1047']+titles_keywords+['xi:0.5016', 'ties:0.4996', 'track:0.2288', 'right:0.1553']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+AFR+100":[
+        [
+            "20220518+../news_crawling/RUS_UKR/p_articles/businessghana.com/NDDI predicts food shortage hunger in Q4 20222023.txt+eventbasecode100+eventcode100+avgtone0.47731755424063116+goldsteinscale0.25+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.0+news_keywords+['agriculture:0.4965', 'shortage:0.3457', 'wto:0.3455', 'ghana:0.3385', 'hunger:0.3375', 'war:0.2866', 'subsidise:0.2724', 'crisis:0.2666', 'fund:0.2503', 'predict:0.2444', 'ingredient:0.2107', 'covid:0.2095', 'executive:0.2089', 'mustapha:0.1999', 'implication:0.1968', 'know:0.1906', 'affected:0.1828', 'democratic:0.1794', 'cite:0.178', 'explain:0.1741', 'advantage:0.1708', 'snap:0.1611', 'chain:0.1496', 'nddi:0.1493', 'trade:0.1461', 'mitigate:0.1442', 'collate:0.1372', 'woman:0.1217', 'entire:0.1045', 'exporter:0.0873']+titles_keywords+['hunger:0.414', 'nddi:0.4109', 'shortage:0.3965', 'q4:0.2714', '20222023:0.2195']"
+        ]
+    ],
+    "UKR+RUS+100":[
+        [
+            "20220118+../news_crawling/RUS_UKR/p_articles/businessghana.com/RussiaUkraine crisis UK sending weapons to defend Ukraine says defence secretary.txt+eventbasecode100+eventcode100+avgtone0.48701298701298695+goldsteinscale0.25+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.4874', 'crimea:0.4811', 'putin:0.384', 'diplomacy:0.3803', 'ceasefire:0.3552', 'troop:0.2766', 'strategic:0.2676', 'incursion:0.2635', 'threaten:0.2481', 'concern:0.2243', 'ryabkov:0.2172', 'border:0.2111', 'tank:0.2105', 'supply:0.2105', 'weapon:0.2008', 'want:0.1633', 'mps:0.1551', 'short:0.1531', 'continue:0.1474', 'force:0.1374', 'type:0.1319', 'enhance:0.126', 'ready:0.1245', 'vadym:0.1245', 'bbc:0.1196', 'monday:0.1195', 'anti:0.1154', 'mandatory:0.093', 'absolutely:0.0894', 'dozens:0.0659']+titles_keywords+['ukraine:0.4306', 'weapons:0.31', 'defend:0.2083', 'sending:0.1488', 'secretary:0.123']"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "EUR+UKR+10":[
+        [
+            "20220524+../news_crawling/RUS_UKR/p_articles/9and10news.com/200 Bodies Found in Mariupol Basement as War Rages in East.txt+eventbasecode10+eventcode10+avgtone0.47454031117397455+goldsteinscale0.5+nummentions0.06458635703918723+numarticles0.06526468455402465+numsources0.07236842105263158+news_keywords+['kyiv:0.487', 'kremlin:0.4695', 'war:0.3857', 'evacuate:0.2952', 'zelensky:0.2904', 'ruin:0.2483', 'decompose:0.2369', 'separatist:0.2344', 'sievierodonetsk:0.2224', 'logistical:0.2152', 'tell:0.2025', 'ration:0.1853', 'intensify:0.1829', 'end:0.1822', 'long:0.1715', 'recovers:0.1703', 'cover:0.1693', 'ap:0.166', 'donbas:0.1652', 'month:0.1608', 'swaths:0.1557', 'maternity:0.154', 'saidat:0.1449', 'building:0.139', 'population:0.129', 'ofthe:0.128', 'kid:0.1208', 'despite:0.1188', 'focus:0.103', 'possible:0.0984']+titles_keywords+['bodies:0.3472', '200:0.3218', 'war:0.2973', 'basement:0.2843', 'mariupol:0.2477']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220415+../news_crawling/RUS_UKR/p_articles/9and10news.com/Police More than 900 Civilian Bodies Found in Kyiv Region.txt+eventbasecode10+eventcode10+avgtone0.46537602382725246+goldsteinscale0.5+nummentions0.02576197387518142+numarticles0.026468455402465556+numsources0.03289473684210526+news_keywords+['kyiv:0.5629', 'russiahas:0.4634', 'airstrikes:0.3719', 'casualty:0.3125', 'news:0.2921', 'troop:0.2653', 'annexed:0.2551', 'authorities:0.239', 'survive:0.2339', 'diversion:0.2301', 'torpedoed:0.2225', 'victory:0.2219', 'separatist:0.2186', 'ominous:0.2093', 'report:0.2032', 'bury:0.2031', 'prepare:0.2016', 'suspect:0.1957', 'bucha:0.1872', 'hear:0.1813', 'donbas:0.1746', 'andriy:0.1678', 'theinvasionand:0.1672', 'office:0.164', 'acknowledge:0.1598', 'weekend:0.1567', 'long:0.1395', 'way:0.1158', 'electric:0.1146', 'true:0.0791']+titles_keywords+['kyiv:0.4262', 'bodies:0.3739', 'police:0.3241', 'civilian:0.2936', '900:0.2421']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/9and10news.com/Rebels Ask Russia for Help in Potential Prelude to War.txt+eventbasecode10+eventcode10+avgtone0.46319018404907975+goldsteinscale0.5+nummentions0.04354136429608128+numarticles0.04423495286439449+numsources0.08552631578947369+news_keywords+['ukraine:0.4833', 'kremlin:0.4441', 'natos:0.3932', 'separatist:0.3212', 'invasion:0.3099', 'sanctionsagainst:0.3', 'leaderswarned:0.2922', 'evacuate:0.2918', 'zelenskyy:0.2844', 'propaganda:0.2771', 'threat:0.272', 'readiness:0.2697', 'intervene:0.267', 'diplomatic:0.2556', 'curfews:0.2225', 'chaos:0.2214', 'know:0.2134', 'pipeline:0.1997', 'order:0.1946', 'transformation:0.186', 'ominously:0.1851', 'help:0.175', 'hesitate:0.1715', 'begin:0.1682', 'reject:0.1629', 'emphasize:0.1579', 'forward:0.1538', 'long:0.1483', 'thursday:0.1474', 'array:0.0818']+titles_keywords+['rebels:0.4084', 'russia:0.4044', 'war:0.3357', 'help:0.1772', 'potential:0.0122']"
+        ]
+    ]
+}

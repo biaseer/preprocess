@@ -1,0 +1,12 @@
+{
+    "RUS+TUR+356":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Ukraine says no ceasefire progress at difficult Russia talks.txt+eventbasecode35+eventcode356+avgtone0.4775510204081633+goldsteinscale0.85+nummentions0.009796806966618287+numarticles0.010514865844815084+numsources0.013157894736842105+news_keywords+['ceasefire:0.5406', 'ukraine:0.4816', 'kremlin:0.3822', 'diplomats:0.302', 'correspond:0.2984', 'lavrov:0.2976', 'humanitarian:0.292', 'bombingukraine:0.2672', 'talk:0.2459', 'table:0.2241', 'reporter:0.2238', 'aggression:0.2161', 'invasion:0.2092', 'progress:0.2034', 'narrative:0.191', 'military:0.1907', 'want:0.1849', 'long:0.1728', 'repeat:0.1712', 'land:0.1675', 'corridor:0.167', 'talkskremlin:0.1595', 'ready:0.1509', 'issue:0.1464', 'format:0.1441', 'emphasise:0.1437', 'thursday:0.1149', 'tense:0.1129', 'agree:0.1069', 'unfortunately:0.0665']+titles_keywords+['ukraine:0.4191', 'ceasefire:0.3975', 'progress:0.2351', 'difficult:0.1225', 'says:0.0814']"
+        ]
+    ],
+    "UKR+RUS+356":[
+        [
+            "20211228+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Russia Ukraine agree to keep ceasefire new talks next month.txt+eventbasecode35+eventcode356+avgtone0.4924114671163575+goldsteinscale0.85+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ceasefire:0.4654', 'nato:0.3794', 'kyiv:0.3691', 'kremlin:0.3254', 'communique:0.3108', 'diplomat:0.2874', 'talk:0.224', 'macron:0.1941', 'achieve:0.1887', 'insist:0.1824', 'deal:0.1778', 'separate:0.1739', 'east:0.1695', 'session:0.1647', 'sign:0.1645', 'know:0.1634', 'concern:0.1553', 'interpretation:0.1438', 'hope:0.139', 'colleague:0.1389', 'thaw:0.135', 'agree:0.1343', 'end:0.1335', 'wednesday:0.1275', 'help:0.1164', 'anonymity:0.1123', 'prepare:0.1053', 'flare:0.1046', 'current:0.101', 'state:0.0977']+titles_keywords+['ukraine:0.3717', 'ceasefire:0.3386', 'month:0.1968', 'new:0.0637', 'agree:0.0582']"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CHN+RUS+46":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/en.vestikavkaza.ru/China welcomes beginning of talks between Russia and Ukraine.txt+eventbasecode46+eventcode46+avgtone0.5277777777777778+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4142', 'peaceful:0.3386', 'diplomat:0.3031', 'talk:0.2881', 'negotiation:0.2837', 'chinese:0.2434', 'wang:0.2384', 'begin:0.2245', 'briefing:0.2235', 'concern:0.2069', 'political:0.1969', 'facilitate:0.1965', 'solution:0.1837', 'crisis:0.1793', 'stability:0.1735', 'encouraged:0.1605', 'hop:0.1513', 'note:0.1425', 'hope:0.1323', 'term:0.1281', 'future:0.1193', 'long:0.1167', 'round:0.1132', 'process:0.1122', 'near:0.1041', 'welcome:0.1016', 'agree:0.0953', 'legitimate:0.09', 'order:0.0853', 'new:0.0765']+titles_keywords+['ukraine:0.3574', 'china:0.2524', 'beginning:0.2514', 'talks:0.2032', 'welcomes:0.1273']"
+        ]
+    ],
+    "RUS+TUR+46":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/en.vestikavkaza.ru/Turkey discusses with Russia Ukraine evacuation of its citizens from Kyiv.txt+eventbasecode46+eventcode46+avgtone0.485+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.4904', 'ukraine:0.4772', 'evacuation:0.4289', 'turkey:0.4181', 'humanitarian:0.2446', 'plane:0.2347', 'airspace:0.2221', 'negotiation:0.2047', 'contact:0.1836', 'plan:0.1691', 'novosti:0.1621', 'send:0.1595', 'assistance:0.1555', 'inform:0.154', 'continue:0.1505', 'closure:0.1499', 'issue:0.1195', 'akar:0.116', 'boryspil:0.109', 'february:0.0937', 'ria:0.0886', 'say:0.0817', 'hulusi:0.0813', 'wait:0.0762', 'minister:0.0609', 'according:0.0487', 'time:0.0421', 'quote:0.03', 'defense:0.022', 'national:-0.007']+titles_keywords+['kyiv:0.4949', 'turkey:0.3965', 'evacuation:0.3338', 'citizens:0.0983', 'discusses:0.058']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/en.vestikavkaza.ru/Kremlin Putin ready to hold talks on Ukraine issue.txt+eventbasecode46+eventcode46+avgtone0.5+goldsteinscale0.85+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.4846', 'kremlin:0.4172', 'negotiation:0.397', 'negotiate:0.3923', 'dmitry:0.3862', 'diplomacy:0.3858', 'peskov:0.3722', 'ukraine:0.3612', 'vladimir:0.3384', 'russia:0.3052', 'talk:0.3032', 'russian:0.2981', 'hold:0.2484', 'president:0.2311', 'willing:0.2189', 'federation:0.2141', 'ready:0.1916', 'initiated:0.1883', 'security:0.1386', 'cnn:0.1335', 'issue:0.1283', 'spokesman:0.093', 'course:0.0905', 'guarantee:0.0736', 'point:0.0669', 'tell:0.0582', 'add:0.0535', 'big:0.051', 'demand:0.0491', 'actually:0.0404']+titles_keywords+['putin:0.4669', 'talks:0.2493', 'hold:0.1689', 'ready:0.1213', 'issue:0.0764']"
+        ],
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/en.vestikavkaza.ru/Russian and Ukrainian delegations to continue talks today.txt+eventbasecode46+eventcode46+avgtone0.488+goldsteinscale0.85+nummentions0.16364296081277213+numarticles0.16098622189992748+numsources0.3684210526315789+news_keywords+['ukraines:0.3845', 'negotiation:0.3803', 'talk:0.3424', 'tomorrow:0.2971', 'continue:0.285', 'delegation:0.2769', 'podolyak:0.2682', 'mikhail:0.2647', 'russian:0.2531', 'subgroup:0.2282', 'news:0.1856', 'night:0.1806', 'break:0.177', 'adviser:0.1691', 'process:0.1589', 'work:0.1587', 'say:0.1569', 'resume:0.1524', 'staff:0.1508', 'online:0.1157', 'time:0.1107', 'presidential:0.1039', 'difference:0.1014', 'agree:0.0789', 'strana:0.0717', 'outlet:0.0698', 'tough:0.0587', 'determine:0.0564', 'chance:0.0298', 'exact:-0.0121']+titles_keywords+['ukrainian:0.3314', 'talks:0.2267', 'delegations:0.2225', 'continue:0.2187', 'today:0.1036']"
+        ]
+    ]
+}

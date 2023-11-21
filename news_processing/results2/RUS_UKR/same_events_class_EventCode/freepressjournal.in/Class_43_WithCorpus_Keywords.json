@@ -1,0 +1,20 @@
+{
+    "IND+RUS+43":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/RussiaUkraine War Sixth evacuation flight carrying 240 passengers lands in Delhi Union Minister Mukhtar Abbas.txt+eventbasecode43+eventcode43+avgtone0.4809322033898305+goldsteinscale0.64+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4474', 'evacuation:0.4238', 'ganga:0.3581', 'delhi:0.3251', 'budapest:0.3081', 'modi:0.262', 'military:0.2617', 'indians:0.2486', 'flight:0.2361', 'telegram:0.214', 'jyotiraditya:0.2093', 'vk:0.2025', 'coordinate:0.1751', 'sixth:0.1717', 'help:0.1549', 'conflict:0.1504', 'carry:0.1282', 'continue:0.1263', 'accord:0.1245', 'ministers:0.124', 'send:0.1099', 'retd:0.1009', 'read:0.1004', 'passenger:0.0981', 'know:0.098', 'source:0.0906', 'gen:0.0772', 'strong:0.0771', 'daily:0.0566', 'welcome:0.0456']+titles_keywords+['russiaukraine:0.3263', 'delhi:0.3182', 'evacuation:0.3012', 'welcomes:0.1156', '240:0.0961']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/In Photos Ukraine nationals rush to metro stations amid Russian invasion.txt+eventbasecode43+eventcode43+avgtone0.49232245681381953+goldsteinscale0.64+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['kyiv:0.5278', 'russia:0.3987', 'war:0.3593', 'military:0.3349', 'invasion:0.3247', 'zelensky:0.2941', 'shelter:0.2532', 'mobilize:0.2378', 'infrastructure:0.2286', 'inform:0.2251', 'volodymyr:0.2166', 'stay:0.2051', 'calm:0.1987', 'law:0.1837', 'president:0.1823', 'people:0.1721', 'bus:0.1715', 'donbas:0.1682', 'separation:0.1625', 'strike:0.1573', 'morning:0.1561', 'carry:0.1551', 'rush:0.1385', 'statement:0.1362', 'feb:0.1243', 'near:0.1144', 'rebel:0.1097', 'smartphone:0.1061', 'video:0.1035', 'special:0.0722']+titles_keywords+['ukraine:0.4557', 'invasion:0.3728', 'rush:0.274', 'stations:0.1975', 'photos:0.1627']"
+        ],
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/66000 Ukrainians return to country looking to fight against Russias invasion Ukraine Defence Minister.txt+eventbasecode43+eventcode43+avgtone0.47230320699708456+goldsteinscale0.64+nummentions0.012336719883889695+numarticles0.010514865844815084+numsources0.019736842105263157+news_keywords+['ukraine:0.5211', 'ukrainians:0.4997', 'russias:0.4066', 'invasion:0.3802', 'war:0.3412', 'military:0.3359', 'reznikov:0.2886', 'brigade:0.2758', 'border:0.2659', 'krakow:0.2589', 'flee:0.2229', 'defend:0.2149', 'prepare:0.1956', 'train:0.1953', 'return:0.1737', 'plan:0.165', 'cross:0.1564', 'telegram:0.1482', 'population:0.1414', 'opposite:0.1368', 'oleksii:0.134', 'join:0.124', 'know:0.116', 'saturday:0.1137', 'allow:0.1011', 'bonus:0.0904', 'rte:0.0876', 'focus:0.0861', 'compare:0.0599', 'relatively:0.0114']+titles_keywords+['ukrainians:0.4911', 'invasion:0.2668', 'return:0.2044', '66000:0.1926', 'fight:0.1486']"
+        ]
+    ],
+    "UKR+RUS+43":[
+        [
+            "20220812+../news_crawling/RUS_UKR/p_articles/freepressjournal.in/Check out Satellite pics showing beforeafter of Russian airbase post suspected Ukrainian attack.txt+eventbasecode43+eventcode43+avgtone0.45833333333333337+goldsteinscale0.64+nummentions0.006531204644412192+numarticles0.004713560551124003+numsources0.003289473684210526+news_keywords+['crimea:0.4999', 'kremlin:0.4003', 'airbase:0.3812', 'satelliteimagery:0.3067', 'crater:0.2836', 'novofedorivka:0.2757', 'explosion:0.2752', 'war:0.252', 'report:0.2388', 'hit:0.2309', 'escalate:0.224', 'suspect:0.219', 'journalism:0.2135', 'interpret:0.194', 'accident:0.1868', 'precipitate:0.1644', 'evidence:0.1601', 'range:0.1566', 'president:0.1517', 'telegram:0.1407', 'beforeafter:0.1364', 'point:0.1318', 'alexander:0.1235', 'exact:0.1113', 'unlikely:0.1083', 'august:0.1061', 'compare:0.1039', 'pic:0.0906', 'new:0.0853', 'pdf:0.0819']+titles_keywords+['airbase:0.3772', 'russian:0.3201', 'attack:0.2731', 'pics:0.2403', 'suspected:0.2335']"
+        ]
+    ]
+}

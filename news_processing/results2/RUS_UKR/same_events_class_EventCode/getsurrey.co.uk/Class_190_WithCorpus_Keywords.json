@@ -1,0 +1,20 @@
+{
+    "GBR+RUS+190":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/getsurrey.co.uk/British man reportedly killed fighting in Ukraine showed commando spirit until the end.txt+eventbasecode190+eventcode190+avgtone0.49387254901960786+goldsteinscale0.0+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.023026315789473683+news_keywords+['soldier:0.3698', 'ukraine:0.3637', 'tributes:0.3199', 'sibley:0.2567', 'bbc:0.2452', 'headline:0.2451', 'brave:0.2375', 'britons:0.235', 'kill:0.2093', 'support:0.1929', 'invasion:0.1877', 'barker:0.1842', 'remember:0.1832', 'gant:0.1603', 'page:0.1598', 'logistic:0.1556', 'believe:0.1546', 'fund:0.1524', 'mrs:0.1504', 'confusion:0.1402', 'reportedly:0.1371', 'truss:0.1331', 'short:0.1328', 'sign:0.1266', 'hi:0.1096', 'ive:0.107', 'alongside:0.0996', 'absolutely:0.0867', 'cost:0.0763', 'pleasure:0.0729']+titles_keywords+['commando:0.3066', 'ukraine:0.2864', 'fighting:0.249', 'killed:0.1747', 'man:0.147']"
+        ]
+    ],
+    "RUS+RUS+190":[
+        [
+            "20220527+../news_crawling/RUS_UKR/p_articles/getsurrey.co.uk/Putin eyes powerful Kremlin job for daughter as rumours over his health continue.txt+eventbasecode190+eventcode190+avgtone0.4925512104283054+goldsteinscale0.0+nummentions0.013788098693759071+numarticles0.014503263234227702+numsources0.013157894736842105+news_keywords+['putin:0.6028', 'kremlin:0.5599', 'dmitry:0.4646', 'patrushev:0.3909', 'regime:0.3745', 'succession:0.3066', 'katerina:0.2939', 'political:0.2892', 'candidacy:0.282', 'newsletter:0.2708', 'puppet:0.2646', 'tikhonova:0.2595', 'headline:0.257', 'mistress:0.2361', 'job:0.2332', 'undergo:0.2008', 'head:0.1951', 'report:0.1915', 'powerful:0.1903', 'know:0.1902', 'rumour:0.1896', 'approves:0.1825', 'source:0.1789', 'follow:0.1761', 'anxiety:0.1654', 'treatment:0.1582', 'prerequisite:0.1559', 'unite:0.1535', 'general:0.1535', 'late:0.1363']+titles_keywords+['kremlin:0.46', 'job:0.2262', 'rumours:0.2042', 'daughter:0.2015', 'powerful:0.1101']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/getsurrey.co.uk/Russia suffered heavy losses overnight in failed Kyiv attacks claims Ukraine General.txt+eventbasecode190+eventcode190+avgtone0.45375722543352587+goldsteinscale0.0+nummentions0.11756168359941944+numarticles0.11820159535895576+numsources0.15460526315789475+news_keywords+['kyiv:0.5601', 'russian:0.3865', 'syrsky:0.3525', 'troop:0.3169', 'attack:0.2977', 'colonel:0.2649', 'failed:0.2304', 'protect:0.2263', 'capital:0.2231', 'storm:0.2124', 'enemy:0.21', 'demoralize:0.2049', 'headline:0.1904', 'exhausted:0.1821', 'alexander:0.1727', 'overnight:0.17', 'timely:0.1688', 'columns:0.1654', 'colonies:0.1498', 'forces:0.1373', 'claim:0.1299', 'outskirt:0.1294', 'suffer:0.1265', 'big:0.1234', 'lead:0.118', 'technology:0.1179', 'decision:0.1163', 'official:0.1087', 'make:0.0981', 'independently:0.0752']+titles_keywords+['kyiv:0.4387', 'losses:0.3364', 'failed:0.1961', 'general:0.1599', 'overnight:0.0928']"
+        ],
+        [
+            "20220326+../news_crawling/RUS_UKR/p_articles/getsurrey.co.uk/Ukraine war Before and after images show the scale of destruction.txt+eventbasecode190+eventcode190+avgtone0.46828358208955223+goldsteinscale0.0+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.049342105263157895+news_keywords+['ukraine:0.495', 'war:0.4011', 'vladimir:0.2872', 'kharkiv:0.2547', 'bombardment:0.2472', 'humanitarian:0.2275', 'convoy:0.2033', 'government:0.2031', 'crisis:0.1909', 'earlier:0.1826', 'assault:0.1764', 'aviation:0.1688', 'advance:0.16', 'capital:0.1492', 'scar:0.1461', 'flee:0.146', 'result:0.1455', 'western:0.1425', 'far:0.1363', 'main:0.122', 'plant:0.1213', 'neighbour:0.117', 'repair:0.1079', 'waste:0.0939', 'look:0.0936', 'irpin:0.093', 'forced:0.091', 'million:0.0759', 'bid:0.062', 'slider:0.0333']+titles_keywords+['ukraine:0.4145', 'war:0.3829', 'destruction:0.3671', 'images:0.3148', 'scale:0.1364']"
+        ]
+    ]
+}

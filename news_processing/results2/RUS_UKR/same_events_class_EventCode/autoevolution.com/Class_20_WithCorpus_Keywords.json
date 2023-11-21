@@ -1,0 +1,17 @@
+{
+    "JPN+RUS+20":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/autoevolution.com/Stellantis Temporarily Stops Russian Imports and Exports Its Not Because of the War.txt+eventbasecode20+eventcode20+avgtone0.4852150537634409+goldsteinscale0.65+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['fiat:0.5071', 'ferrari:0.476', 'russian:0.3397', 'florin:0.338', 'car:0.3379', 'imports:0.3049', 'stellantis:0.3038', 'exports:0.2437', 'tempra:0.2185', 'war:0.18', 'stops:0.1649', 'ignore:0.1401', 'power:0.1386', 'raptor:0.128', 'father:0.1266', 'shape:0.1129', 'different:0.0963', 'yellow:0.0939', 'tv:0.0917', 'influence:0.0873', 'nowadays:0.0841', 'temporarily:0.0626', 'thing:0.0601', 'favor:0.0579', 'early:0.0493', 'especially:0.0376', 'able:0.031', 'like:0.0265']+titles_keywords+['russian:0.3549', 'stellantis:0.3268', 'exports:0.3066', 'war:0.2924', 'temporarily:0.2']"
+        ]
+    ],
+    "RUS+RUS+20":[
+        [
+            "20220506+../news_crawling/RUS_UKR/p_articles/autoevolution.com/Russia Fights in Ukraine With War Vehicles Equipped With 31Year Old Tires.txt+eventbasecode20+eventcode20+avgtone0.4825268817204302+goldsteinscale0.65+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['truck:0.3876', 'journalism:0.3845', 'automotive:0.3765', 'ukraine:0.3719', 'degree:0.323', 'industry:0.3129', 'engine:0.3012', 'tire:0.2948', 'driver:0.2342', 'grow:0.2239', 'talk:0.1916', 'fights:0.1694', 'agency:0.1665', 'old:0.154', 'year:0.1488', 'love:0.1408', 'print:0.1387', 'little:0.1366', 'marius:0.1217', 'couple:0.1181', 'come:0.1174', 'cover:0.1162', 'thread:0.1152', 'equipped:0.1143', 'dm:0.1111', 'photo:0.1106', 'ed:0.1079', 'right:0.0948', 'audiovideo:0.0801', 'worth:0.038']+titles_keywords+['tires:0.4697', 'ukraine:0.4079', 'war:0.3794', '31year:0.197', 'equipped:0.111']"
+        ]
+    ],
+    "RUS+UKR+20":[
+        [
+            "20220324+../news_crawling/RUS_UKR/p_articles/autoevolution.com/2022 Jeep Grand Wagoneer StraightSix 30L TwinTurbo Engine Option Allegedly Leaked.txt+eventbasecode20+eventcode20+avgtone0.48224043715847+goldsteinscale0.65+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['engine:0.5292', 'jeep:0.4934', 'wrangler:0.4672', 'car:0.4356', 'truck:0.4078', 'turbo:0.4023', 'gto:0.3779', 'ferrari:0.3645', 'wagoneer:0.3524', 'leaked:0.3042', 'spark:0.2994', 'liter:0.2824', 'model:0.2548', 'straightsix:0.2536', 'grand:0.248', 'xe:0.2171', 'twinturbo:0.207', 'option:0.2015', 'gear:0.1982', 'ditch:0.1889', 'picture:0.1788', 'scale:0.1778', 'kei:0.1668', 'quirky:0.1492', 'interested:0.1417', 'american:0.1377', 'internship:0.1372', 'mircea:0.1185', 'pot:0.1177', 'early:0.0822']+titles_keywords+['jeep:0.3857', 'engine:0.3393', 'leaked:0.3379', '30l:0.2059', 'option:0.1889']"
+        ]
+    ]
+}

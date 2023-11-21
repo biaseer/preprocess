@@ -1,0 +1,12 @@
+{
+    "GBR+RUS+174":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Theres lots of confusion Ukrainian deli owners abused after being mistaken as Russian.txt+eventbasecode174+eventcode174+avgtone0.490104166665+goldsteinscale0.25+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.023026315789473683+news_keywords+['ukrainian:0.4979', 'putin:0.4088', 'war:0.2965', 'confusion:0.293', 'oligarch:0.285', 'confrontational:0.2644', 'know:0.2614', 'flag:0.2582', 'stay:0.2513', 'happen:0.2436', 'contact:0.2361', 'speak:0.2308', 'help:0.2308', 'news:0.2294', 'want:0.2225', 'mis:0.2045', 'produce:0.2008', 'sanction:0.1959', 'comfortable:0.1889', 'group:0.1873', 'like:0.173', 'friend:0.1636', 'effect:0.1608', 'worryingly:0.1558', 'area:0.1485', 'theyre:0.1382', 'unfolding:0.1377', 'sorry:0.1315', 'welcome:0.1114', 'lots:0.1015']+titles_keywords+['ukrainian:0.5079', 'confusion:0.3177', 'deli:0.2984', 'abused:0.2721', 'theres:0.1245']"
+        ]
+    ],
+    "GBR+UKR+174":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/walesonline.co.uk/Britishborn teacher trapped in Ukrainian basement with young family as destruction hits city.txt+eventbasecode174+eventcode174+avgtone0.4901215805471124+goldsteinscale0.25+nummentions0.04934687953555878+numarticles0.05003625815808557+numsources0.04276315789473684+news_keywords+['kyiv:0.5439', 'putin:0.3799', 'invasion:0.3353', 'shelter:0.2971', 'stay:0.2887', 'dramatic:0.2663', 'news:0.2608', 'traffic:0.2549', 'trap:0.2545', 'british:0.2433', 'hear:0.2391', 'underground:0.2377', 'safe:0.2342', 'missile:0.234', 'know:0.2308', 'office:0.2271', 'happen:0.2255', 'report:0.223', 'normality:0.2038', 'woke:0.2038', 'teacher:0.1914', 'kick:0.1877', 'begin:0.1719', 'like:0.1689', 'th:0.1632', 'hour:0.1608', 'difficult:0.1393', 'head:0.1366', 'thats:0.1079', 'theres:0.0777']+titles_keywords+['ukrainian:0.3319', 'teacher:0.3277', 'basement:0.2814', 'city:0.237', 'trapped:0.2217']"
+        ]
+    ]
+}

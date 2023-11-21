@@ -1,0 +1,32 @@
+{
+    "EUR+RUS+112":[
+        [
+            "20220726+../news_crawling/RUS_UKR/p_articles/businessinsider.com/The US has become the worlds top LNG exporter as it funnels supply to European.txt+eventbasecode112+eventcode112+avgtone0.49074074074074076+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['lng:0.4244', 'gas:0.3357', 'russia:0.328', 'pipeline:0.3192', 'economy:0.2977', 'supply:0.2583', 'global:0.2555', 'euro:0.2405', 'gazprom:0.2014', 'upcoming:0.1966', 'megawatt:0.1925', 'increase:0.1895', 'winter:0.1701', 'eia:0.1686', 'terminate:0.1683', 'tension:0.1672', 'exporter:0.1418', 'step:0.1323', 'information:0.1279', 'aggressive:0.1244', 'report:0.1238', 'ttf:0.1193', 'reopening:0.1173', 'albeit:0.1144', 'compare:0.1097', 'plant:0.1081', 'state:0.0942', 'send:0.0884', 'lately:0.0808', 'offset:0.0351']+titles_keywords+['lng:0.4625', 'russia:0.3701', 'consumers:0.189', 'exporter:0.1846', 'funnels:0.1726']"
+        ]
+    ],
+    "RUS+EUR+112":[
+        [
+            "20220510+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Russian natural gas flows to Europe via key Ukraine hub are set to stop Wednesday.txt+eventbasecode112+eventcode112+avgtone0.4985835694050991+goldsteinscale0.4+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.003289473684210526+news_keywords+['ukraine:0.4946', 'kremlin:0.4174', 'gas:0.3382', 'sokhranivka:0.3374', 'gazprom:0.324', 'transit:0.3202', 'surge:0.2717', 'instability:0.2349', 'threat:0.2344', 'troop:0.2109', 'occupy:0.209', 'flow:0.1974', 'bloomberg:0.1885', 'hub:0.1777', 'grid:0.1705', 'ignore:0.1637', 'natural:0.1634', 'send:0.1494', 'blame:0.1429', 'interference:0.1389', 'alternate:0.1353', 'ramification:0.1321', 'clarification:0.1274', 'wednesday:0.1237', 'end:0.1228', 'way:0.1138', 'accord:0.0996', 'price:0.0887', 'operator:0.0799', 'set:0.0713']+titles_keywords+['ukraine:0.3658', 'gas:0.2862', 'prokremlin:0.2136', 'stop:0.187', 'disruptions:0.168']"
+        ]
+    ],
+    "RUS+UKR+112":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Chernobyl scientists accused looters of stealing radioactive material from labs there.txt+eventbasecode112+eventcode112+avgtone0.46897546897546893+goldsteinscale0.4+nummentions0.07256894049346879+numarticles0.07324147933284988+numsources0.22697368421052633+news_keywords+['chernobyl:0.6521', 'nuclear:0.4422', 'kyiv:0.3471', 'decommission:0.3192', 'isotope:0.3119', 'decontaminate:0.2777', 'disaster:0.2641', 'terrorist:0.2433', 'safety:0.2371', 'investigation:0.2347', 'reuters:0.2311', 'outlet:0.1575', 'troop:0.1559', 'facility:0.1559', 'plant:0.1439', 'undergo:0.1432', 'loot:0.1386', 'control:0.1354', 'expose:0.1289', 'ispnpp:0.1221', 'use:0.0939', 'tostay:0.0874', 'unfounded:0.0853', 'red:0.0812', 'main:0.0735', 'combine:0.0622', 'confirm:0.0578', 'monthbeforethey:0.0532', 'long:0.0377', 'apparently:0.0322']+titles_keywords+['chernobyl:0.566', 'radioactive:0.4235', 'looters:0.3312', 'scientists:0.2384', 'accused:0.1819']"
+        ]
+    ],
+    "RUS+USA+112":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Zelenskyys top aide praises Biden and says he does more for Ukraine than any of.txt+eventbasecode112+eventcode112+avgtone0.48940677966101687+goldsteinscale0.4+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['putin:0.4876', 'crimea:0.4246', 'politicoreported:0.3704', 'impeachment:0.3445', 'election:0.3405', 'separatist:0.2705', 'meddle:0.2558', 'annex:0.2549', 'investigation:0.2516', 'zelenskyys:0.2507', 'pretext:0.2501', 'war:0.2462', 'ally:0.2219', 'ahead:0.2166', 'obstruction:0.2048', 'tell:0.1954', 'office:0.1948', 'aloudat:0.1926', 'predecessor:0.1923', 'bidens:0.1811', 'fox:0.1774', 'savvy:0.1656', 'unfold:0.1608', 'thursday:0.1494', 'blowback:0.1488', 'assistance:0.1452', 'nearly:0.1312', 'contrast:0.1254', 'statement:0.1179', 'bilateral:0.1018']+titles_keywords+['biden:0.3969', 'zelenskyys:0.34', 'ukraine:0.2239', 'praises:0.134', 'does:0.0803']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Zelenskyy says Russian oligarch Roman Abramovich has been trying to help Ukraine during Russias invasion.txt+eventbasecode112+eventcode112+avgtone0.4929718875502008+goldsteinscale0.4+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.006578947368421052+news_keywords+['ukraine:0.4614', 'oligarch:0.3971', 'zelenskyy:0.3664', 'humanitarian:0.3557', 'abramovich:0.3311', 'invasion:0.288', 'negotiation:0.2766', 'businessmen:0.2554', 'want:0.2365', 'help:0.187', 'bypass:0.1687', 'remain:0.1683', 'sanction:0.1654', 'collapse:0.1603', 'respond:0.1601', 'sure:0.1581', 'look:0.1499', 'role:0.1407', 'street:0.1281', 'prepared:0.1253', 'exactly:0.1249', 'alleged:0.1249', 'make:0.1231', 'aware:0.1207', 'independent:0.1183', 'end:0.1119', 'amid:0.1097', 'far:0.1044', 'plenty:0.104', 'reason:0.0974']+titles_keywords+['abramovich:0.4764', 'zelenskyy:0.4741', 'oligarch:0.3851', 'russias:0.2887', 'invasion:0.2633']"
+        ]
+    ],
+    "WST+RUS+112":[
+        [
+            "20220406+../news_crawling/RUS_UKR/p_articles/businessinsider.com/Estonias PM warns the true scale of the Kremlins brutality is yet to be seen.txt+eventbasecode112+eventcode112+avgtone0.473474801061008+goldsteinscale0.4+nummentions0.0043541364296081275+numarticles0.005076142131979695+numsources0.003289473684210526+news_keywords+['kremlin:0.4666', 'nato:0.3956', 'baltics:0.3946', 'ukrainian:0.3774', 'imperialist:0.3115', 'war:0.3052', 'unprovoked:0.2412', 'essay:0.2146', 'bloc:0.207', 'flee:0.2068', 'know:0.191', 'horrific:0.1789', 'concern:0.1664', 'help:0.1642', 'end:0.1478', 'clear:0.1443', 'bucha:0.1403', 'engineer:0.1322', 'long:0.1281', 'targeting:0.1277', 'import:0.1192', 'sure:0.1165', 'late:0.1041', 'like:0.1038', 'increase:0.1029', 'witness:0.101', 'decade:0.0943', 'include:0.087', 'true:0.0824', 'fraction:0.074']+titles_keywords+['estonias:0.4084', 'brutality:0.2911', 'scale:0.1383', 'true:0.1046', 'seen:0.1032']"
+        ]
+    ]
+}

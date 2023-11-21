@@ -1,0 +1,15 @@
+{
+    "GBR+RUS+163":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/malverngazette.co.uk/Parliament rushes through economic crime reforms in response to Ukraine invasion.txt+eventbasecode163+eventcode163+avgtone0.4803664921465969+goldsteinscale0.1+nummentions0.3635703918722787+numarticles0.3640319071791153+numsources0.41118421052631576+news_keywords+['legislation:0.4383', 'reform:0.3781', 'sanction:0.3772', 'crime:0.3713', 'ukraine:0.3615', 'parliamentary:0.3597', 'oligarchs:0.3267', 'comply:0.3011', 'houses:0.2784', 'establish:0.2779', 'economic:0.2711', 'opposition:0.2696', 'ahead:0.2522', 'progress:0.2467', 'rush:0.2269', 'disclosure:0.2179', 'passage:0.1855', 'long:0.1821', 'bid:0.1786', 'promise:0.1775', 'midnight:0.1762', 'scrap:0.1696', 'session:0.1631', 'beneficial:0.158', 'period:0.1561', 'dispose:0.1425', 'callanan:0.1328', 'rapid:0.1299', 'issue:0.1158', 'true:0.0858']+titles_keywords+['ukraine:0.3721', 'reforms:0.366', 'crime:0.3179', 'invasion:0.2923', 'parliament:0.2776']"
+        ],
+        [
+            "20220629+../news_crawling/RUS_UKR/p_articles/malverngazette.co.uk/Search ongoing for 20 missing after Russian strike on Ukraine shopping centre.txt+eventbasecode163+eventcode163+avgtone0.4714003944773175+goldsteinscale0.1+nummentions0.1665457184325109+numarticles0.16715010877447425+numsources0.24671052631578946+news_keywords+['ukraine:0.4997', 'putins:0.4005', 'airstrike:0.3823', 'nato:0.3813', 'genocide:0.3106', 'zelensky:0.2802', 'government:0.2699', 'emergency:0.2565', 'provocation:0.2528', 'victim:0.244', 'troop:0.244', 'separatist:0.2328', 'fight:0.181', 'period:0.1739', 'continue:0.1692', 'drain:0.1536', 'swap:0.1482', 'left:0.1401', 'push:0.139', 'training:0.138', 'long:0.1315', 'fragment:0.1287', 'acquire:0.1178', 'plant:0.1176', 'million:0.1147', 'sure:0.1093', 'resemble:0.1085', 'cross:0.1043', 'significantly:0.0759', 'epicentre:0.07']+titles_keywords+['ukraine:0.3074', 'search:0.2887', 'missing:0.243', '20:0.1791', 'strike:0.1274']"
+        ]
+    ],
+    "RUS+UKR+163":[
+        [
+            "20220130+../news_crawling/RUS_UKR/p_articles/malverngazette.co.uk/US Russia to face pressure at UN over Ukraine crisis.txt+eventbasecode163+eventcode163+avgtone0.4762269938650307+goldsteinscale0.1+nummentions0.9426705370101597+numarticles0.9427121102248006+numsources0.9243421052631579+news_keywords+['natos:0.4375', 'crimea:0.428', 'putin:0.4261', 'diplomatic:0.3066', 'war:0.2906', 'sanction:0.267', 'unify:0.2565', 'cyberattacks:0.251', 'agreement:0.2358', 'annex:0.2316', 'table:0.2239', 'crisis:0.2223', 'flag:0.22', 'senate:0.2086', 'border:0.2019', 'argue:0.1901', 'news:0.1895', 'want:0.1792', 'avoid:0.1713', 'continue:0.1635', 'appear:0.1585', 'turn:0.1464', 'stability:0.1392', 'explain:0.1392', 'current:0.1375', 'ready:0.1366', 'long:0.1257', 'resolution:0.0934', 'dmytro:0.0817', 'unlikely:0.0425']+titles_keywords+['ukraine:0.339', 'russia:0.3088', 'pressure:0.2388', 'crisis:0.185', 'face:0.0415']"
+        ]
+    ]
+}

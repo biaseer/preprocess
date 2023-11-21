@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+180":[
+        [
+            "20220323+../news_crawling/RUS_UKR/p_articles/npr.org/Donated clothes help in Ukraine But theres one thing aid experts like better.txt+eventbasecode180+eventcode180+avgtone0.4966914805624483+goldsteinscale0.05+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4964', 'humanitarian:0.45', 'refugee:0.4213', 'aid:0.4183', 'unhcr:0.3308', 'war:0.3305', 'evacuate:0.3256', 'donate:0.3129', 'logistically:0.2762', 'zelenskyy:0.2271', 'coordinate:0.2199', 'drought:0.2128', 'update:0.2036', 'pull:0.1971', 'text:0.1939', 'distribute:0.1922', 'know:0.1836', 'continue:0.1755', 'lot:0.173', 'pant:0.1712', 'junk:0.1676', 'nprs:0.1673', 'desperately:0.1656', 'corridor:0.1597', 'port:0.1576', 'buy:0.1345', 'billing:0.1298', 'month:0.1284', 'unconditional:0.1115', 'major:0.1085']+titles_keywords+['aid:0.4966', 'clothes:0.4098', 'ukraine:0.4013', 'donated:0.3888', 'theres:0.0727']"
+        ]
+    ],
+    "UKR+RUS+180":[
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/npr.org/These Ukrainian students are competing virtually in an international science fair.txt+eventbasecode180+eventcode180+avgtone0.4990990990990991+goldsteinscale0.05+nummentions0.14368650217706821+numarticles0.14430746918056564+numsources0.12828947368421054+news_keywords+['ukraine:0.4163', 'project:0.3269', 'compete:0.3225', 'science:0.3124', 'read:0.2984', 'smovzh:0.2926', 'world:0.2922', 'relate:0.2846', 'international:0.2807', 'event:0.2765', 'student:0.2762', 'mixture:0.2507', 'parasite:0.2498', 'problem:0.2475', 'begin:0.243', 'make:0.232', 'news:0.2296', 'circumstance:0.2268', 'insecticides:0.2257', 'people:0.2147', 'explain:0.2087', 'aromatic:0.2017', 'learned:0.1918', 'treatment:0.1834', 'central:0.1659', 'aim:0.1595', 'bunk:0.1585', 'serhii:0.1556', 'huge:0.1507', 'isef:0.1494']+titles_keywords+['competing:0.4041', 'students:0.3741', 'ukrainian:0.3673', 'science:0.2047', 'virtually:0.1353']"
+        ]
+    ]
+}

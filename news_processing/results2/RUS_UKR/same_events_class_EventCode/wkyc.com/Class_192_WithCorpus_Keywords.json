@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+192":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/wkyc.com/Russian nuclear forces placed on alert Russian diplomats to meet with Ukraine officials.txt+eventbasecode192+eventcode192+avgtone0.4753566796368353+goldsteinscale0.025+nummentions0.0634978229317852+numarticles0.06417693981145758+numsources0.17105263157894737+news_keywords+['ukraine:0.4839', 'kremlin:0.4307', 'nato:0.403', 'invade:0.3612', 'escalation:0.2684', 'militarys:0.2678', 'prepare:0.2574', 'repatriation:0.2447', 'strategic:0.2432', 'yevhen:0.2375', 'chernov:0.2333', 'telegram:0.2139', 'pipeline:0.2045', 'terrified:0.1997', 'block:0.1933', 'order:0.1933', 'president:0.1885', 'corridor:0.1831', 'understand:0.1809', 'submit:0.1769', 'instead:0.1749', 'weapon:0.1646', 'thursday:0.164', 'casualty:0.1558', 'billion:0.1527', 'end:0.1485', 'andriy:0.1415', 'evidence:0.1413', 'specter:0.1211', 'long:0.1143']+titles_keywords+['diplomats:0.3521', 'ukraine:0.3203', 'nuclear:0.3122', 'meet:0.17', 'alert:0.1281']"
+        ],
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/wkyc.com/Extremely surreal Russian independent journalist describes covering war in Ukraine.txt+eventbasecode192+eventcode192+avgtone0.4851351351351352+goldsteinscale0.025+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['ukraine:0.4819', 'russian:0.4728', 'putin:0.4392', 'journalist:0.4348', 'news:0.3279', 'pavlova:0.3078', 'english:0.2798', 'invasion:0.2524', 'know:0.2487', 'disappear:0.248', 'military:0.245', 'travel:0.238', 'reporting:0.233', 'story:0.232', 'independent:0.2275', 'happen:0.226', 'understand:0.223', 'cover:0.2123', 'tank:0.2005', 'follow:0.1952', 'surreal:0.1946', 'outlet:0.1936', 'parent:0.1783', 'safe:0.1674', 'young:0.1659', 'produce:0.1504', 'face:0.1318', 'uliana:0.1243', 'basically:0.1172', 'half:0.1079']+titles_keywords+['journalist:0.4903', 'russian:0.4342', 'surreal:0.2799', 'war:0.2618', 'independent:0.2474']"
+        ]
+    ]
+}

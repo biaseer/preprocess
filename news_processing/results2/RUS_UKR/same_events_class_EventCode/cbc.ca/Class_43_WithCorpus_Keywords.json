@@ -1,0 +1,20 @@
+{
+    "CAN+UKR+43":[
+        [
+            "20220411+../news_crawling/RUS_UKR/p_articles/cbc.ca/Rallies for Ukraine in Edmonton demonstrate wars devastation.txt+eventbasecode43+eventcode43+avgtone0.46120689655172414+goldsteinscale0.64+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4827', 'protest:0.4237', 'putin:0.4034', 'war:0.3361', 'chernihovsky:0.3078', 'edmonton:0.2898', 'invasion:0.2787', 'government:0.2687', 'civilized:0.2556', 'violenceagainst:0.2463', 'misinformation:0.2413', 'theatre:0.2388', 'street:0.2152', 'devastate:0.2104', 'continue:0.1999', 'brainwashed:0.1949', 'cite:0.1946', 'attendee:0.1915', 'accuse:0.185', 'fake:0.1795', 'feel:0.1778', 'understand:0.1762', 'othersleft:0.142', 'worried:0.1409', 'imitatingphotos:0.1296', 'bucha:0.1201', 'highlight:0.0946', 'withdraw:0.0857', 'saidbodies:0.0693', 'welcome:0.0583']+titles_keywords+['rallies:0.4713', 'edmonton:0.435', 'ukraine:0.4299', 'devastation:0.3043', 'demonstrate:0.1901']"
+        ]
+    ],
+    "RUS+TUR+43":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/cbc.ca/New allegations of Russian war crimes in Ukraine cast shadow over talks.txt+eventbasecode43+eventcode43+avgtone0.438931297709924+goldsteinscale0.64+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.0+news_keywords+['kyiv:0.5394', 'ukraines:0.4811', 'russian:0.3659', 'correspondent:0.3592', 'massacre:0.3513', 'diplomatic:0.3504', 'war:0.3309', 'turkey:0.3023', 'negotiators:0.3009', 'allegation:0.2633', 'table:0.25', 'civilian:0.1944', 'commit:0.1803', 'ongoing:0.1781', 'town:0.1608', 'say:0.1544', 'forward:0.1484', 'leave:0.142', 'bucha:0.1399', 'bbc:0.137', 'explain:0.1356', 'deal:0.1355', 'disturbing:0.1338', 'bring:0.125', 'image:0.1187', 'whats:0.1132', 'char:0.1042', 'end:0.1027', 'possible:0.0985', 'new:0.084']+titles_keywords+['allegations:0.433', 'ukraine:0.3716', 'war:0.2851', 'talks:0.2171', 'new:0.0571']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/cbc.ca/Supporting Ukraine in potential Russian invasion could hurt US economy says Biden.txt+eventbasecode43+eventcode43+avgtone0.4770569620253165+goldsteinscale0.64+nummentions0.010522496371552975+numarticles0.011240029006526469+numsources0.013157894736842105+news_keywords+['putin:0.5029', 'nato:0.4308', 'crimean:0.4289', 'cybersecurity:0.367', 'threat:0.3593', 'invades:0.3576', 'war:0.3474', 'economy:0.2933', 'oppose:0.2595', 'emergency:0.2548', 'separatist:0.2542', 'border:0.251', 'report:0.235', 'empt:0.2142', 'plan:0.2088', 'contingency:0.2058', 'table:0.2014', 'data:0.1916', 'discus:0.19', 'begin:0.1871', 'tuesday:0.1804', 'pullback:0.1749', 'howitzer:0.1649', 'smokescreen:0.1619', 'additional:0.1577', 'depend:0.1534', 'simultaneously:0.1313', 'state:0.1213', 'agree:0.108', 'welcome:0.07']+titles_keywords+['ukraine:0.3258', 'biden:0.303', 'economy:0.2699', 'supporting:0.2007', 'invasion:0.1886']"
+        ],
+        [
+            "20220405+../news_crawling/RUS_UKR/p_articles/cbc.ca/Zelensky visits battered Bucha fears of widespread civilian massacres.txt+eventbasecode43+eventcode43+avgtone0.4014084507042255+goldsteinscale0.64+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.5438', 'zelensky:0.5399', 'russian:0.3969', 'russia:0.3641', 'massacre:0.3326', 'volodymyr:0.3124', 'bucha:0.2952', 'war:0.2928', 'troop:0.2661', 'carnage:0.223', 'fears:0.2181', 'president:0.217', 'warning:0.2148', 'destruction:0.2109', 'batter:0.1694', 'civilian:0.169', 'atrocity:0.1439', 'tour:0.1404', 'suburb:0.134', 'video:0.1304', 'leave:0.1238', 'northern:0.1233', 'commit:0.1145', 'monday:0.1111', 'contain:0.0866', 'graphic:0.0757', 'allege:0.0644', 'widespread:0.0534', 'glimpse:0.0503', 'grow:0.0461']+titles_keywords+['zelensky:0.4832', 'massacres:0.4225', 'bucha:0.312', 'battered:0.2301', 'civilian:0.1688']"
+        ]
+    ]
+}

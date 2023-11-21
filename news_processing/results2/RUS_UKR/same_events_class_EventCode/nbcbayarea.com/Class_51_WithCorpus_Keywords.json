@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+51":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/nbcbayarea.com/Local State Buildings Lit Up in Blue and Yellow in Support of Ukraine.txt+eventbasecode51+eventcode51+avgtone0.5131578947368421+goldsteinscale0.67+nummentions0.11538461538461539+numarticles0.11421319796954314+numsources0.09210526315789473+news_keywords+['ukraine:0.4841', 'colors:0.3495', 'california:0.3143', 'state:0.2955', 'landmarks:0.2512', 'city:0.2489', 'capitol:0.2262', 'gov:0.2248', 'san:0.1823', 'display:0.1805', 'local:0.1779', 'flag:0.1764', 'bay:0.1529', 'building:0.1457', 'light:0.1324', 'invasion:0.1174', 'office:0.1129', 'hall:0.1088', 'support:0.1083', 'people:0.1066', 'twitter:0.0985', 'pic:0.085', 'lit:0.0803', 'feature:0.0761', 'similar:0.0612', 'recently:0.0435', 'wash:0.0376', 'weekend:0.0167', 'amid:0.0081', 'nzxtoazzc:-0.0093']+titles_keywords+['ukraine:0.4411', 'blue:0.335', 'state:0.327', 'buildings:0.2933', 'lit:0.0762']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/nbcbayarea.com/Kyiv Residents Urged to Shelter Amid Fighting.txt+eventbasecode51+eventcode51+avgtone0.4591836734693877+goldsteinscale0.67+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.01644736842105263+news_keywords+['kyiv:0.5657', 'shelter:0.3545', 'fight:0.3373', 'precaution:0.3068', 'military:0.303', 'russians:0.299', 'warning:0.2662', 'street:0.2563', 'underway:0.2216', 'explosion:0.2033', 'avoid:0.2023', 'remain:0.1767', 'debris:0.1695', 'klitschko:0.1656', 'resident:0.1603', 'balcony:0.1526', 'vitaly:0.1408', 'people:0.1285', 'near:0.1221', 'issue:0.1209', 'center:0.1183', 'west:0.1173', 'unit:0.1079', 'saturday:0.1045', 'plant:0.1017', 'area:0.0979', 'force:0.0807', 'major:0.0623', 'new:0.047', 'windows:0.0386']+titles_keywords+['kyiv:0.4983', 'shelter:0.4868', 'fighting:0.3017', 'residents:0.2222', 'urged:0.0693']"
+        ]
+    ]
+}

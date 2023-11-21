@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+112":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/sbs.com.au/Can Russians be held responsible for the invasion of Ukraine.txt+eventbasecode112+eventcode112+avgtone0.4594594594594595+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['russians:0.4317', 'ukraine:0.4275', 'invasion:0.3115', 'responsible:0.2264', 'hold:0.0909']+titles_keywords+['russians:0.4334', 'ukraine:0.4046', 'invasion:0.2953', 'responsible:0.2622', 'held:0.0963']"
+        ],
+        [
+            "20220514+../news_crawling/RUS_UKR/p_articles/sbs.com.au/Russian soldier on trial in Ukraine for alleged war crime.txt+eventbasecode112+eventcode112+avgtone0.361111111111111+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.3929', 'russian:0.3814', 'trial:0.3269', 'soldier:0.2737', 'war:0.2568', 'crime:0.1804', 'allege:0.0954']+titles_keywords+['russian:0.3934', 'trial:0.3252', 'soldier:0.3031', 'war:0.236', 'alleged:0.1778']"
+        ]
+    ],
+    "UKR+RUS+112":[
+        [
+            "20220218+../news_crawling/RUS_UKR/p_articles/sbs.com.au/Ukrainian military has accused Russianbacked artillery for strike on kindergarten.txt+eventbasecode112+eventcode112+avgtone0.4444444444444445+goldsteinscale0.4+nummentions0.000725689404934688+numarticles0.0007251631617113851+numsources0.003289473684210526+news_keywords+['ukrainian:0.3606', 'russian:0.3493', 'ukraine:0.3465', 'donetsk:0.337', 'artillery:0.3283', 'kindergarten:0.3146', 'russianbacked:0.2858', 'accuse:0.2616', 'military:0.2574', 'firing:0.2525', 'luhansk:0.2407', 'alleged:0.2259', 'shell:0.2247', 'marinka:0.2065', 'hit:0.2059', 'eyewitness:0.1965', 'video:0.1526', 'strike:0.1447', 'street:0.1205', 'region:0.1189', 'sound:0.1068', 'village:0.1008', 'eastern:0.0865', 'local:0.0663', 'heard:0.0503', 'film:0.0467', 'force:0.0273', 'capture:0.0258']+titles_keywords+['artillery:0.3698', 'ukrainian:0.3482', 'kindergarten:0.2775', 'accused:0.1815', 'strike:0.1371']"
+        ]
+    ]
+}

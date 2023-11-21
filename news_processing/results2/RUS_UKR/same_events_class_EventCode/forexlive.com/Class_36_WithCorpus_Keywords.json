@@ -1,0 +1,12 @@
+{
+    "BLR+UKR+36":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/forexlive.com/Ukrainian news 498 Russian soldiers have died in Ukraine1597 soldiers have been wounded.txt+eventbasecode36+eventcode36+avgtone0.455+goldsteinscale0.7+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukrainian:0.5757', 'ukraine:0.57', 'russian:0.4839', 'soldier:0.3701', 'news:0.3148', 'die:0.2968', 'wound:0.2886', 'corridor:0.2559', 'country:0.2536', 'provide:0.2388', 'admirable:0.1723', 'thing:0.152', 'say:0.1455', 'just:0.098']+titles_keywords+['ukrainian:0.5055', 'soldiers:0.3602', 'news:0.2777', '498:0.2393', 'died:0.2349']"
+        ]
+    ],
+    "RUS+UKR+36":[
+        [
+            "20220307+../news_crawling/RUS_UKR/p_articles/forexlive.com/Russia To early to speak of progress in talks after third round of negotiations.txt+eventbasecode36+eventcode36+avgtone0.5+goldsteinscale0.7+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.01644736842105263+news_keywords+['negotiate:0.3819', 'negotiation:0.3786', 'russia:0.3163', 'talk:0.3005', 'macron:0.2745', 'france:0.2612', 'russianukraine:0.2486', 'week:0.2156', 'early:0.2089', 'speak:0.208', 'solution:0.1996', 'progress:0.198', 'round:0.1457', 'day:0.1429', 'pres:0.1248', 'say:0.1194', 'likely:0.0898']+titles_keywords+['negotiations:0.3277', 'russia:0.2782', 'progress:0.2322', 'early:0.2197', 'round:0.1181']"
+        ]
+    ]
+}

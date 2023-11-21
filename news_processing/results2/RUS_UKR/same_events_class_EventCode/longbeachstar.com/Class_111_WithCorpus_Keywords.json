@@ -1,0 +1,17 @@
+{
+    "CAN+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/Russias military operation is blatant aggression have caused civilian casualties Ukrainian envoy to India.txt+eventbasecode111+eventcode111+avgtone0.47545219638242897+goldsteinscale0.4+nummentions0.05660377358490566+numarticles0.05728788977519942+numsources0.03618421052631579+news_keywords+['ukraine:0.4137', 'putin:0.3652', 'vasily:0.2812', 'civilian:0.2752', 'donbas:0.2727', 'aggression:0.2688', 'operation:0.2596', 'casualty:0.259', 'polikha:0.2315', 'escalate:0.2199', 'embassy:0.2104', 'happen:0.1982', 'warn:0.1965', 'safe:0.1958', 'airspace:0.1919', 'sanction:0.1912', 'delhi:0.1831', 'tank:0.18', 'interfere:0.1778', 'population:0.1487', 'issue:0.1474', 'cause:0.1454', 'information:0.1206', 'follow:0.1028', 'blatant:0.0944', 'ani:0.0921', 'clock:0.0649', 'deep:0.0641', 'new:0.0634', 'thursday:0.0623']+titles_keywords+['ukrainian:0.4044', 'casualties:0.3591', 'aggression:0.2513', 'envoy:0.1792', 'caused:0.1684']"
+        ]
+    ],
+    "CHN+RUS+111":[
+        [
+            "20220506+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/China says sanctions make world economy worse amid pressure to condemn Russia.txt+eventbasecode111+eventcode111+avgtone0.4623287671232878+goldsteinscale0.4+nummentions0.02467343976777939+numarticles0.025380710659898477+numsources0.03618421052631579+news_keywords+['sanction:0.4462', 'nato:0.3653', 'war:0.3005', 'xinhua:0.27', 'china:0.26', 'economic:0.2521', 'world:0.2394', 'russian:0.219', 'stabilize:0.1951', 'report:0.1907', 'bad:0.1863', 'imf:0.1627', 'press:0.1624', 'unilateral:0.1605', 'forecast:0.1519', 'obligation:0.1491', 'remark:0.1474', 'continue:0.1466', 'facing:0.1458', 'refuse:0.1384', 'zhao:0.1234', 'prove:0.1185', 'increase:0.1117', 'sluggish:0.0968', 'ani:0.0887', 'secretary:0.0848', 'ready:0.0684', 'especially:0.0627', 'large:0.0592', 'recently:0.0461']+titles_keywords+['sanctions:0.4684', 'economy:0.2495', 'worse:0.2376', 'world:0.2318', 'condemn:0.2106']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/longbeachstar.com/Russia launches military strikes on Ukraine warns West to stay away.txt+eventbasecode111+eventcode111+avgtone0.47696245733788395+goldsteinscale0.4+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5822368421052632+news_keywords+['putin:0.4346', 'kyiv:0.3784', 'nato:0.378', 'war:0.3479', 'militarize:0.3375', 'escalation:0.285', 'cyberattack:0.2828', 'reuters:0.2825', 'diplomats:0.2678', 'unprovoked:0.2585', 'inform:0.2556', 'agreement:0.244', 'correspondent:0.2353', 'veto:0.2335', 'preside:0.2079', 'table:0.1965', 'avert:0.189', 'plan:0.1881', 'begin:0.1802', 'repeat:0.1782', 'happen:0.165', 'stay:0.1635', 'pipeline:0.158', 'thursday:0.1525', 'ready:0.1499', 'voa:0.1451', 'nearly:0.1206', 'state:0.1205', 'straight:0.0925', 'characterize:0.0783']+titles_keywords+['ukraine:0.3794', 'warns:0.2099', 'military:0.1762', 'strikes:0.1642', 'stay:0.1256']"
+        ]
+    ]
+}

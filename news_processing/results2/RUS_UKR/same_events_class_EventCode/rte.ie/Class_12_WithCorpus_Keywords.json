@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+12":[
+        [
+            "20220429+../news_crawling/RUS_UKR/p_articles/rte.ie/After losing the first phase what next for Russia in Ukraine.txt+eventbasecode12+eventcode12+avgtone0.484775641025641+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['soviet:0.4329', 'warfare:0.4016', 'ukraines:0.3943', 'nato:0.3941', 'summarise:0.2595', 'osprey:0.2213', 'learn:0.206', 'aspects:0.2035', 'operational:0.2035', 'result:0.1998', 'rt:0.1984', 'structure:0.1969', 'coincide:0.189', 'phase:0.1885', 'long:0.18', 'winter:0.1754', 'forward:0.1738', 'forget:0.1721', 'plan:0.171', 'decentralise:0.1607', 'arm:0.1468', 'ramification:0.1349', 'joshi:0.1325', 'swathe:0.1315', 'difficult:0.13', 'ominous:0.1265', 'appoint:0.1087', 'flawed:0.0947', 'factoring:0.0863', 'unsupported:0.0672']+titles_keywords+['ukraine:0.4746', 'russia:0.3827', 'phase:0.2864', 'losing:0.2806']"
+        ],
+        [
+            "20220623+../news_crawling/RUS_UKR/p_articles/rte.ie/Irish MEPs among the least critical of Russia report.txt+eventbasecode12+eventcode12+avgtone0.4890510948905109+goldsteinscale0.48+nummentions0.0025399129172714078+numarticles0.0032632342277012327+numsources0.006578947368421052+news_keywords+['ukraine:0.3937', 'ireland:0.3764', 'parliament:0.2653', 'european:0.254', 'alexei:0.2519', 'gael:0.2484', 'leftist:0.2363', 'meps:0.2329', 'independents:0.2017', 'votewatch:0.1948', 'delegation:0.1947', 'invasion:0.1678', 'navalny:0.166', 'tank:0.1335', 'party:0.1279', 'denounce:0.1199', 'traditionally:0.1135', 'largely:0.1084', 'fourth:0.1001', 'assertiveness:0.0938', 'reconsider:0.0903', 'compare:0.0865', 'early:0.0861', 'member:0.0699', 'author:0.0578', 'average:0.0558', 'fine:0.0455', 'shape:0.0384', 'resolution:0.0292', 'study:0.0268']+titles_keywords+['meps:0.3429', 'russia:0.3036', 'irish:0.2785', 'report:0.2118', 'critical:0.1147']"
+        ]
+    ],
+    "WST+RUS+12":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/rte.ie/Sanctions on Russia will not stop Putin expert.txt+eventbasecode12+eventcode12+avgtone0.47247706422018354+goldsteinscale0.48+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.3997', 'sanctions:0.3507', 'nato:0.3449', 'putins:0.3134', 'war:0.3102', 'cyberattack:0.2314', 'retaliatory:0.212', 'impose:0.2077', 'impact:0.1576', 'leverage:0.1558', 'extent:0.1516', 'concern:0.1482', 'occur:0.1368', 'order:0.1309', 'president:0.1212', 'know:0.1092', 'big:0.101', 'alexandra:0.0983', 'cold:0.0971', 'pipeline:0.0967', 'minor:0.0817', 'transfer:0.0744', 'term:0.0734', 'decide:0.0667', 'unlikely:0.0624', 'study:0.0519', 'exclude:0.0495', 'prime:0.0466', 'vacroux:0.0066', 'solarwinds:-0.013']+titles_keywords+['sanctions:0.4819', 'putin:0.4705', 'russia:0.2679', 'expert:0.194', 'stop:0.1564']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "DEU+RUS+80":[
+        [
+            "20220508+../news_crawling/RUS_UKR/p_articles/bdnews24.com/On WW2 anniversary Zelensky says evil has returned.txt+eventbasecode80+eventcode80+avgtone0.46096654275092935+goldsteinscale0.75+nummentions0.00544267053701016+numarticles0.006163886874546773+numsources0.006578947368421052+news_keywords+['soviet:0.4652', 'crimea:0.4445', 'putin:0.4267', 'zelensky:0.39', 'remembrance:0.3744', 'war:0.3406', 'separatist:0.3173', 'enactment:0.3129', 'rhetoric:0.311', 'anniversary:0.279', 'regime:0.2788', 'adolf:0.2678', 'reuters:0.2588', 'know:0.2485', 'unprovoked:0.2396', 'kill:0.2392', 'westward:0.2273', 'overcame:0.2268', 'turn:0.2118', 'curfew:0.1943', 'word:0.1866', 'final:0.1783', 'return:0.177', 'rid:0.1759', 'bloody:0.1667', 'hide:0.1656', 'make:0.1541', 'alongside:0.1538', 'sure:0.1016', 'thousand:0.0727']+titles_keywords+['zelensky:0.5907', 'evil:0.3935', 'ww2:0.3149', 'anniversary:0.2372', 'returned:0.1538']"
+        ]
+    ],
+    "RUS+UKR+80":[
+        [
+            "20220531+../news_crawling/RUS_UKR/p_articles/bdnews24.com/First cargo ship leaves Mariupol since Russia took the city.txt+eventbasecode80+eventcode80+avgtone0.4782608695652174+goldsteinscale0.75+nummentions0.01269956458635704+numarticles0.013415518491660623+numsources0.029605263157894735+news_keywords+['crimea:0.4979', 'rostov:0.4703', 'russian:0.3884', 'shipment:0.3709', 'mariupol:0.3115', 'annexed:0.2998', 'vessel:0.292', 'seize:0.2627', 'steelworks:0.2434', 'denis:0.2374', 'port:0.2318', 'bridge:0.2278', 'mainland:0.2157', 'loot:0.2138', 'telegram:0.2001', 'leave:0.1777', 'besieged:0.1764', 'separatist:0.1762', 'overland:0.1653', 'republic:0.1622', 'open:0.1561', 'month:0.155', 'ton:0.1484', 'pushilin:0.1426', 'today:0.1279', 'write:0.127', 'people:0.109', 'pro:0.1089', 'link:0.1027', 'hot:0.0893']+titles_keywords+['mariupol:0.3669', 'cargo:0.2943', 'russia:0.2214', 'leaves:0.1175', 'took:0.067']"
+        ]
+    ]
+}

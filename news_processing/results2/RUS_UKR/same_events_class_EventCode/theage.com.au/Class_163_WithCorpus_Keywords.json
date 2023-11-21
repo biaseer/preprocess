@@ -1,0 +1,17 @@
+{
+    "AUS+RUS+163":[
+        [
+            "20220220+../news_crawling/RUS_UKR/p_articles/theage.com.au/Australian cyber spies to aid Ukraine as country prepares for Russian attack.txt+eventbasecode163+eventcode163+avgtone0.4734726688102894+goldsteinscale0.1+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['ukraine:0.4649', 'putin:0.4116', 'nato:0.3982', 'spy:0.3478', 'cyber:0.3336', 'troops:0.2851', 'undermine:0.2657', 'border:0.2563', 'incursion:0.2487', 'diplomatic:0.2361', 'separatist:0.2264', 'dutton:0.2143', 'sanction:0.2108', 'concern:0.207', 'pretext:0.2031', 'news:0.1971', 'volodymyr:0.1777', 'prepare:0.1725', 'banking:0.1604', 'sector:0.1564', 'backed:0.1398', 'bloody:0.1398', 'immediate:0.1391', 'want:0.1356', 'donbass:0.1355', 'additional:0.1331', 'scene:0.1287', 'point:0.1267', 'weve:0.0778', 'doesnt:0.0721']+titles_keywords+['spies:0.4115', 'ukraine:0.4001', 'cyber:0.2728', 'australian:0.2679', 'attack:0.218']"
+        ]
+    ],
+    "DEU+RUS+163":[
+        [
+            "20220322+../news_crawling/RUS_UKR/p_articles/theage.com.au/Biden says Putins back is against the wall Moscow considering chemical weapons.txt+eventbasecode163+eventcode163+avgtone0.4691489361702128+goldsteinscale0.1+nummentions0.021407837445573296+numarticles0.022117476432197244+numsources0.01644736842105263+news_keywords+['ukraine:0.476', 'putins:0.3722', 'briefing:0.3531', 'correspondent:0.3462', 'war:0.322', 'headline:0.3061', 'predict:0.2711', 'president:0.2467', 'report:0.2432', 'progress:0.242', 'destroy:0.238', 'cite:0.23', 'capital:0.2277', 'sanction:0.2225', 'supply:0.1942', 'week:0.1887', 'long:0.1779', 'direction:0.1759', 'bloc:0.1747', 'brace:0.1745', 'ap:0.1653', 'say:0.1646', 'unmanned:0.1503', 'note:0.1474', 'whats:0.1408', 'reach:0.126', 'include:0.1252', 'coming:0.1221', 'true:0.0896', 'biological:0.0408']+titles_keywords+['putins:0.4116', 'biden:0.3926', 'wall:0.2702', 'chemical:0.108', 'says:0.0531']"
+        ]
+    ],
+    "EUR+RUS+163":[
+        [
+            "20211011+../news_crawling/RUS_UKR/p_articles/theage.com.au/Macron Merkel and Putin in talks as Europes gas prices climb.txt+eventbasecode163+eventcode163+avgtone0.480225988700565+goldsteinscale0.1+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.009868421052631578+news_keywords+['geopolitical:0.4738', 'putin:0.4402', 'russias:0.4183', 'kiev:0.3678', 'eu:0.3634', 'negotiation:0.3526', 'diplomat:0.347', 'merkel:0.3399', 'erupt:0.2895', 'pipeline:0.2684', 'gazprom:0.2593', 'annexed:0.2588', 'agreement:0.2554', 'coronavirus:0.2554', 'talk:0.2461', 'procurement:0.242', 'sanction:0.2355', 'parliament:0.2302', 'subject:0.2219', 'transit:0.2179', 'pais:0.2142', 'bloc:0.2125', 'newsletter:0.2118', 'organise:0.2106', 'source:0.1777', 'stage:0.1769', 'increase:0.1719', 'tuesday:0.1587', 'make:0.1398', 'similar:0.1255']+titles_keywords+['merkel:0.456', 'talks:0.2614', 'europes:0.2574', 'gas:0.2559', 'prices:0.1652']"
+        ]
+    ]
+}

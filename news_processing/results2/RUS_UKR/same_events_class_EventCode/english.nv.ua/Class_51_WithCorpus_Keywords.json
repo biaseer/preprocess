@@ -1,0 +1,12 @@
+{
+    "CHN+RUS+51":[
+        [
+            "20220423+../news_crawling/RUS_UKR/p_articles/english.nv.ua/Putins next move.txt+eventbasecode51+eventcode51+avgtone0.48592715231788075+goldsteinscale0.67+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['putin:0.4819', 'crimea:0.4479', 'nato:0.3942', 'russias:0.3893', 'militarise:0.3406', 'strategic:0.2977', 'russo:0.2437', 'eastwards:0.2272', 'donbas:0.2218', 'firepower:0.2059', 'gain:0.199', 'steer:0.1911', 'remind:0.1895', 'prepared:0.1876', 'fight:0.1802', 'perform:0.1771', 'assume:0.1674', 'surround:0.1537', 'bleak:0.1496', 'dump:0.1495', 'end:0.1456', 'reconstruction:0.1454', 'suggest:0.1433', 'long:0.1359', 'armfinance:0.1153', 'second:0.1077', 'deal:0.105', 'look:0.0971', 'proxy:0.0873', 'ctrl:0.086']+titles_keywords+['putins:0.5447']"
+        ]
+    ],
+    "GBR+RUS+51":[
+        [
+            "20220201+../news_crawling/RUS_UKR/p_articles/english.nv.ua/UK foreign secretary skips Ukraine trip after positive COVID test.txt+eventbasecode51+eventcode51+avgtone0.4865319865319866+goldsteinscale0.67+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4594', 'invade:0.3396', 'boris:0.3294', 'president:0.2574', 'secretary:0.2479', 'security:0.2434', 'troop:0.2365', 'border:0.2343', 'jab:0.2146', 'jan:0.2053', 'unscheduled:0.1982', 'agenda:0.1968', 'expect:0.1953', 'trip:0.1895', 'volodymyr:0.1823', 'error:0.1623', 'covid:0.1614', 'truss:0.1549', 'temporarily:0.1525', 'speculate:0.1491', 'positive:0.1453', 'meet:0.142', 'tweet:0.1399', 'near:0.135', 'discus:0.1339', 'data:0.1185', 'buildup:0.1178', 'isolate:0.0948', 'ive:0.0854', 'million:0.0332']+titles_keywords+['ukraine:0.321', 'covid:0.3063', 'secretary:0.1104', 'skips:0.0935', 'test:0.0357']"
+        ]
+    ]
+}

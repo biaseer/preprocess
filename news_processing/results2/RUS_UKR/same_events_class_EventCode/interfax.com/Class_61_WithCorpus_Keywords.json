@@ -1,0 +1,12 @@
+{
+    "AUT+RUS+61":[
+        [
+            "20220421+../news_crawling/RUS_UKR/p_articles/interfax.com/Austria fully abandons purchasing Russian oil.txt+eventbasecode61+eventcode61+avgtone0.48897058823529416+goldsteinscale0.82+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['austria:0.4317', 'ukraine:0.4247', 'russian:0.3304', 'iraq:0.3277', 'petroleum:0.3259', 'abandon:0.2298', 'supplier:0.1915', 'operation:0.1899', 'owe:0.1608', 'purchase:0.1481', 'military:0.1387', 'april:0.1214', 'report:0.1198', 'kurier:0.1107', 'meantime:0.1087', 'omv:0.1005', 'low:0.0995', 'important:0.0989', 'according:0.0982', 'begin:0.093', 'replace:0.0917', 'second:0.0855', 'cite:0.0798', 'interfax:0.0796', 'fully:0.0598', 'import:0.0535', 'association:0.0377', 'tonnes:0.0299', 'saying:0.0274', 'representative:0.0136']+titles_keywords+['austria:0.421', 'oil:0.3175', 'russian:0.2862', 'abandons:0.2236', 'purchasing:0.1444']"
+        ]
+    ],
+    "EUR+RUS+61":[
+        [
+            "20220608+../news_crawling/RUS_UKR/p_articles/interfax.com/Metinvest reduces use of its facilities by more than 40.txt+eventbasecode61+eventcode61+avgtone0.4918367346938776+goldsteinscale0.82+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['coalmines:0.3748', 'metinvest:0.3149', 'ukrainian:0.3115', 'production:0.309', 'commodity:0.2984', 'steel:0.2939', 'logistic:0.2835', 'increase:0.2756', 'ceo:0.2586', 'crisis:0.2373', 'work:0.2326', 'portfolio:0.2136', 'reduce:0.2088', 'deficit:0.2055', 'enterprise:0.2012', 'import:0.1967', 'consist:0.1899', 'ilyich:0.1896', 'strategies:0.187', 'scm:0.1856', 'factor:0.1638', 'group:0.152', 'coil:0.1304', 'covid:0.1227', 'link:0.1154', 'pre:0.1107', 'locate:0.1071', 'rerouting:0.1006', 'vertically:0.0976', 'likely:0.0123']+titles_keywords+['metinvest:0.5463', 'reduces:0.2982', 'use:0.2028', 'facilities:0.1954', '40:0.0548']"
+        ]
+    ]
+}

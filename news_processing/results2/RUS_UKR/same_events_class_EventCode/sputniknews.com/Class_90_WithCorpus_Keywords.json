@@ -1,0 +1,17 @@
+{
+    "EUR+RUS+90":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/sputniknews.com/OSCE Denies Their Vehicles Were Seized By Ukrainian Nationalists.txt+eventbasecode90+eventcode90+avgtone0.4811715481171548+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['osce:0.5145', 'ukraine:0.4019', 'vehicles:0.3376', 'nationalists:0.3068', 'demilitarize:0.3009', 'vladimir:0.272', 'operation:0.2671', 'seized:0.2329', 'federation:0.1996', 'aggression:0.197', 'false:0.1888', 'report:0.1874', 'situation:0.1769', 'civilian:0.1763', 'emphasise:0.1755', 'donbass:0.1635', 'forces:0.1619', 'kramatorsk:0.1599', 'dpr:0.1591', 'remove:0.1561', 'staff:0.1388', 'soon:0.1215', 'contact:0.1177', 'according:0.11', 'special:0.1043', 'unknown:0.0962', 'shell:0.0932', 'schmid:0.0888', 'begin:0.0823', 'monitor:0.0725']+titles_keywords+['osce:0.4642', 'nationalists:0.3119', 'vehicles:0.2771', 'seized:0.2513', 'denies:0.2103']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        [
+            "20220810+../news_crawling/RUS_UKR/p_articles/sputniknews.com/Steven Seagal Filming Documentary About Conflict in Donbass.txt+eventbasecode90+eventcode90+avgtone0.46774193548387094+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['putin:0.4227', 'documentary:0.4011', 'ukraine:0.3925', 'war:0.3691', 'seagal:0.3545', 'prisoner:0.3104', 'humanitarian:0.2989', 'donbass:0.2955', 'filming:0.2948', 'troop:0.2606', 'steven:0.2314', 'foreign:0.2212', 'elenovka:0.2174', 'martial:0.1933', 'rocket:0.1902', 'visit:0.1783', 'hit:0.1681', 'search:0.1614', 'facility:0.1499', 'according:0.141', 'serve:0.1373', 'states:0.1348', 'dead:0.1348', 'deny:0.1333', 'father:0.1232', 'himars:0.1196', 'hold:0.1117', 'far:0.1066', 'pre:0.083', 'today:0.053']+titles_keywords+['seagal:0.4511', 'documentary:0.4507', 'filming:0.4156', 'donbass:0.3542', 'conflict:0.2567']"
+        ]
+    ],
+    "WST+RUS+90":[
+        [
+            "20210613+../news_crawling/RUS_UKR/p_articles/sputniknews.com/NATO to Review Strategic Concept in Response to Russia China Challenges Decree to Be Ready.txt+eventbasecode90+eventcode90+avgtone0.4976152623211447+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['nato:0.5762', 'kremlin:0.3961', 'ukraine:0.3321', 'kaliningrad:0.3016', 'vladimir:0.2897', 'deploy:0.2661', 'strengthen:0.2331', 'proceed:0.2299', 'strategy:0.2269', 'agenda:0.2088', 'border:0.1978', 'revise:0.1977', 'firing:0.1898', 'concern:0.1896', 'airspace:0.1865', 'president:0.1765', 'ally:0.1758', 'oppose:0.172', 'monday:0.1584', 'climate:0.156', 'ready:0.1486', 'sanction:0.1426', 'new:0.1407', 'cyber:0.1392', 'review:0.1343', 'prospect:0.1262', 'praise:0.1199', 'end:0.1122', 'say:0.1047', 'include:0.0948']+titles_keywords+['nato:0.5312', '2022:0.255', 'review:0.1343', 'concept:0.1338', 'decree:0.1281']"
+        ]
+    ]
+}

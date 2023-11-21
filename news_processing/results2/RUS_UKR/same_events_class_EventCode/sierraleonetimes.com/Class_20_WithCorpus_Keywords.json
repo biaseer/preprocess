@@ -1,0 +1,12 @@
+{
+    "AFR+UKR+20":[
+        [
+            "20220610+../news_crawling/RUS_UKR/p_articles/sierraleonetimes.com/US to Work With Ukraine to Get More Grains.txt+eventbasecode20+eventcode20+avgtone0.4876623376623377+goldsteinscale0.65+nummentions0.05297532656023222+numarticles0.05366207396664249+numsources0.046052631578947366+news_keywords+['ukraine:0.4541', 'sanctions:0.3371', 'famine:0.3365', 'sahel:0.3263', 'economics:0.2968', 'humanitarian:0.2657', 'expand:0.2464', 'instability:0.2459', 'occupy:0.2457', 'table:0.2383', 'future:0.2197', 'assistance:0.2108', 'feed:0.209', 'president:0.2088', 'produce:0.2063', 'sputnikmikhail:0.2053', 'crisis:0.2052', 'expect:0.1856', 'combat:0.1847', 'diplomatically:0.1827', 'import:0.1823', 'steal:0.1757', 'capability:0.1703', 'world:0.1703', 'mention:0.1505', 'buy:0.1447', 'black:0.1383', 'long:0.1198', 'focus:0.1116', 'good:0.1077']+titles_keywords+['ukraine:0.4015', 'grains:0.3188', 'work:0.1228']"
+        ]
+    ],
+    "DEU+UKR+20":[
+        [
+            "20220526+../news_crawling/RUS_UKR/p_articles/sierraleonetimes.com/Russia makes move against departing foreign firms.txt+eventbasecode20+eventcode20+avgtone0.488659793814433+goldsteinscale0.65+nummentions0.07656023222060958+numarticles0.0772298767222625+numsources0.13815789473684212+news_keywords+['ukraine:0.4792', 'kremlin:0.4655', 'nationalization:0.3892', 'nato:0.3474', 'economy:0.2568', 'implement:0.2414', 'inaction:0.2244', 'stock:0.2124', 'diplomat:0.2072', 'plan:0.2016', 'read:0.1987', 'unprovoked:0.1942', 'depart:0.1902', 'duma:0.1827', 'external:0.1826', 'authority:0.182', 'microsoft:0.178', 'military:0.1751', 'term:0.1672', 'disaster:0.1656', 'resume:0.152', 'fight:0.1371', 'reconstruction:0.1282', 'produce:0.1263', 'sign:0.1212', 'include:0.1186', 'significance:0.1169', 'good:0.1135', 'slash:0.0854', 'request:0.0651']+titles_keywords+['russia:0.3932', 'departing:0.2686', 'firms:0.2359', 'foreign:0.1296', 'makes:0.0502']"
+        ]
+    ]
+}

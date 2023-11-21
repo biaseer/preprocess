@@ -1,0 +1,20 @@
+{
+    "EUR+UKR+13":[
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/arabnews.com/9 Russian planes destroyed in first Ukraine attack on Crimea.txt+eventbasecode13+eventcode13+avgtone0.46212121212121215+goldsteinscale0.52+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['crimea:0.5024', 'kremlin:0.3758', 'attack:0.3262', 'explosion:0.3201', 'military:0.2451', 'strategic:0.2431', 'zelensky:0.2022', 'know:0.2018', 'base:0.1992', 'fight:0.1973', 'plane:0.1963', 'occupied:0.1853', 'explanation:0.1852', 'recall:0.1838', 'accuse:0.1731', 'flee:0.1665', 'simultaneous:0.1655', 'range:0.165', 'study:0.1533', 'harpoon:0.1519', 'major:0.1321', 'himars:0.1274', 'launchers:0.1149', 'saki:0.1116', 'oleh:0.108', 'conducting:0.101', 'long:0.0986', 'make:0.098', 'send:0.0938', 'wednesday:0.0888']+titles_keywords+['crimea:0.3315', 'russian:0.2897', 'attack:0.223', 'planes:0.2103', 'destroyed:0.1767']"
+        ]
+    ],
+    "NLD+RUS+13":[
+        [
+            "20220420+../news_crawling/RUS_UKR/p_articles/arabnews.com/Russia pours in more troops and presses attack in eastern Ukraine.txt+eventbasecode13+eventcode13+avgtone0.4785544082605242+goldsteinscale0.52+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.003289473684210526+news_keywords+['crimean:0.4764', 'kremlin:0.4548', 'moscows:0.4336', 'nato:0.3605', 'battalion:0.3513', 'war:0.3213', 'bashtanka:0.3025', 'escalation:0.2594', 'underway:0.2588', 'destroy:0.2557', 'occur:0.2556', 'separatists:0.2545', 'strategic:0.2409', 'donbas:0.2367', 'translate:0.2326', 'know:0.2233', 'push:0.2046', 'pentagons:0.2041', 'sprawl:0.1928', 'north:0.1834', 'journalist:0.1707', 'ap:0.1651', 'mix:0.16', 'stay:0.1597', 'long:0.1506', 'coming:0.1425', 'nearly:0.1383', 'estimate:0.1372', 'major:0.1284', 'week:0.1145']+titles_keywords+['ukraine:0.3869', 'troops:0.2906', 'attack:0.2895', 'pours:0.1627', 'eastern:0.1387']"
+        ]
+    ],
+    "RUS+UKR+13":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/arabnews.com/Kremlin says no significant progress in peace talks with Ukraine.txt+eventbasecode13+eventcode13+avgtone0.5083333333333333+goldsteinscale0.52+nummentions0.027213352685050797+numarticles0.027918781725888325+numsources0.029605263157894735+news_keywords+['kyiv:0.4458', 'kremlin:0.3978', 'putin:0.37', 'peskov:0.3615', 'negotiate:0.3545', 'dmitry:0.3382', 'progress:0.3264', 'peace:0.2881', 'meeting:0.2615', 'agreement:0.2502', 'surrender:0.2415', 'speak:0.2289', 'proposal:0.2028', 'result:0.183', 'willingness:0.1793', 'accommodate:0.1762', 'volodymyr:0.1711', 'counterpart:0.1684', 'monday:0.1652', 'work:0.1513', 'possible:0.1399', 'hold:0.137', 'reporter:0.1301', 'reiterate:0.1248', 'far:0.1071', 'significant:0.1058', 'unacceptable:0.0965', 'make:0.0957', 'accuse:0.0778', 'basis:0.0519']+titles_keywords+['kremlin:0.3992', 'ukraine:0.3668', 'progress:0.3166', 'peace:0.2495', 'talks:0.1827']"
+        ],
+        [
+            "20220728+../news_crawling/RUS_UKR/p_articles/arabnews.com/Russia attacks Kyiv area for the first time in weeks.txt+eventbasecode13+eventcode13+avgtone0.48300970873786414+goldsteinscale0.52+nummentions0.008345428156748911+numarticles0.009064539521392313+numsources0.013157894736842105+news_keywords+['kyiv:0.5689', 'ukraines:0.491', 'kremlin:0.4444', 'territory:0.276', 'counterattack:0.2753', 'separatist:0.2642', 'zelensky:0.2548', 'military:0.2515', 'poltava:0.2231', 'remind:0.2202', 'underway:0.2149', 'commemoration:0.2143', 'organize:0.2117', 'casualty:0.2097', 'terror:0.1959', 'report:0.1914', 'supply:0.1787', 'intensify:0.1738', 'telegram:0.1725', 'leave:0.1663', 'state:0.1563', 'long:0.1555', 'kilometer:0.1553', 'analyst:0.1365', 'direction:0.1295', 'day:0.1269', 'second:0.1249', 'focus:0.1159', 'denis:0.1108', 'precisely:0.1031']+titles_keywords+['kyiv:0.5433', 'russia:0.275', 'attacks:0.2399', 'weeks:0.1078', 'area:0.0625']"
+        ]
+    ]
+}

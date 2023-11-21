@@ -1,0 +1,12 @@
+{
+    "RUS+TUR+164":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/capeandislands.org/Negotiators from Russia and Ukraine meet face to face for the first time in weeks.txt+eventbasecode164+eventcode164+avgtone0.5+goldsteinscale0.15+nummentions0.06567489114658925+numarticles0.06635242929659173+numsources0.11842105263157894+news_keywords+['crimea:0.4629', 'negotiators:0.3603', 'istanbul:0.3493', 'erdogan:0.3483', 'war:0.3331', 'nato:0.3325', 'talk:0.2488', 'zelenskyy:0.236', 'want:0.2355', 'escalate:0.2333', 'table:0.2192', 'planning:0.2166', 'ok:0.1955', 'concession:0.1909', 'news:0.1866', 'implement:0.1858', 'respond:0.1786', 'capital:0.1748', 'hold:0.1733', 'corridor:0.1722', 'mutual:0.1684', 'forward:0.1641', 'note:0.1617', 'study:0.1563', 'begin:0.1494', 'dutch:0.1374', 'exactly:0.1181', 'set:0.1161', 'complete:0.1128', 'lot:0.0775']+titles_keywords+['negotiators:0.4953', 'ukraine:0.3428', 'meet:0.3103', 'weeks:0.1461', 'face:0.12']"
+        ]
+    ],
+    "RUS+UKR+164":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/capeandislands.org/A look inside the war in Ukraine from the capital city of Kyiv.txt+eventbasecode164+eventcode164+avgtone0.5+goldsteinscale0.15+nummentions0.10595065312046444+numarticles0.1065989847715736+numsources0.11842105263157894+news_keywords+['kyiv:0.5518', 'russians:0.3969', 'war:0.3735', 'talk:0.2437', 'displaced:0.2411', 'watch:0.2379', 'remain:0.2308', 'warn:0.2305', 'happen:0.2271', 'tank:0.2188', 'goodbye:0.2117', 'arrive:0.205', 'checkpoint:0.2032', 'want:0.1968', 'long:0.1921', 'kiss:0.1745', 'reach:0.1638', 'trap:0.1575', 'right:0.1538', 'roll:0.1436', 'different:0.1398', 'curtain:0.1386', 'direct:0.1367', 'today:0.1322', 'building:0.1201', 'irpin:0.1191', 'million:0.108', 'rachel:0.0985', 'thank:0.0863', 'largely:0.086']+titles_keywords+['kyiv:0.6205', 'war:0.4399', 'capital:0.3108', 'inside:0.1795', 'look:0.1719']"
+        ]
+    ]
+}

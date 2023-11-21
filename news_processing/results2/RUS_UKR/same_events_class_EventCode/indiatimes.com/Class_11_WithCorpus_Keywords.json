@@ -1,0 +1,12 @@
+{
+    "SEA+RUS+11":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Singapore sanctions Russia over unprovoked attack on Ukraine.txt+eventbasecode11+eventcode11+avgtone0.47269624573378843+goldsteinscale0.495+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.023026315789473683+news_keywords+['ukraine:0.4523', 'sanction:0.4208', 'asean:0.418', 'sovereignty:0.3195', 'reuters:0.2876', 'ceasefire:0.2692', 'promsvyazbank:0.2657', 'attack:0.2624', 'crisis:0.2505', 'allow:0.2348', 'unprovoked:0.2181', 'military:0.1895', 'sgjb:0.1795', 'cyber:0.1785', 'stock:0.1767', 'state:0.1766', 'cryptocurrencies:0.1759', 'gic:0.1738', 'export:0.1666', 'dangerous:0.1644', 'statement:0.1613', 'bit:0.16', 'fund:0.1574', 'reiterate:0.1423', 'cover:0.1161', 'like:0.1114', 'measure:0.0918', 'saturday:0.0883', 'ly:0.0773', 'deal:0.0735']+titles_keywords+['ukraine:0.41', 'sanctions:0.4026', 'singapore:0.3658', 'unprovoked:0.2398', 'attack:0.2321']"
+        ]
+    ],
+    "UKR+RUS+11":[
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/indiatimes.com/Russia Ukraine war Western nations vow to send more better arms to Ukraine.txt+eventbasecode11+eventcode11+avgtone0.4774624373956594+goldsteinscale0.495+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.003289473684210526+news_keywords+['ukraine:0.5229', 'nato:0.4401', 'kremlin:0.4039', 'war:0.3689', 'economy:0.3518', 'separatist:0.326', 'news:0.2714', 'read:0.2504', 'intercept:0.2447', 'sievierodonetsk:0.2409', 'industrial:0.2353', 'provide:0.2346', 'advance:0.2331', 'tank:0.2207', 'neighbouring:0.2172', 'sanction:0.207', 'precedence:0.1954', 'term:0.1939', 'say:0.184', 'long:0.1777', 'anonymity:0.1776', 'biden:0.1757', 'end:0.1755', 'stay:0.1706', 'arm:0.1677', 'intense:0.1655', 'simultaneously:0.1633', 'isnt:0.1582', 'send:0.1283', 'swathe:0.1267']+titles_keywords+['ukraine:0.4894', 'war:0.3536', 'arms:0.1815', 'send:0.1254', 'better:0.109']"
+        ]
+    ]
+}

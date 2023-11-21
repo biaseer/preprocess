@@ -1,0 +1,12 @@
+{
+    "BGD+UKR+43":[
+        [
+            "20220728+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Bangladeshi in Canada hosts family of 7 Ukrainians.txt+eventbasecode43+eventcode43+avgtone0.49175824175824173+goldsteinscale0.64+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['refugees:0.4942', 'bangladeshi:0.4452', 'ukrainians:0.4328', 'canada:0.4297', 'immigrant:0.4139', 'bhuiyan:0.307', 'nation:0.2499', 'family:0.2412', 'host:0.2354', 'house:0.2272', 'kharhiv:0.1999', 'newcomer:0.1952', 'cochrane:0.194', 'report:0.1795', 'struggle:0.1708', 'flee:0.1675', 'settle:0.1664', 'space:0.1433', 'thankful:0.1415', 'news:0.1336', 'nytsyk:0.1316', 'step:0.1271', 'july:0.1256', 'safe:0.1243', 'consultant:0.1226', 'hearts:0.1189', 'know:0.111', 'grow:0.1098', 'make:0.1047', 'accord:0.0668']+titles_keywords+['ukrainians:0.4608', 'bangladeshi:0.4556', 'canada:0.2888', 'family:0.2609', 'hosts:0.2161']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220827+../news_crawling/RUS_UKR/p_articles/thedailystar.net/Putin decrees benefits for those coming to Russia from Ukrainian territory.txt+eventbasecode43+eventcode43+avgtone0.49549549549549554+goldsteinscale0.64+nummentions0.03447024673439768+numarticles0.03480783176214648+numsources0.029605263157894735+news_keywords+['putin:0.5164', 'kyiv:0.415', 'ukrainians:0.41', 'russian:0.409', 'republics:0.3786', 'decree:0.3344', 'rouble:0.3133', 'benefit:0.3121', 'territory:0.305', 'pension:0.3043', 'imperialist:0.2765', 'passport:0.2377', 'introduce:0.2261', 'arrive:0.2157', 'order:0.2049', 'illegal:0.2041', 'feb:0.1979', 'military:0.1899', 'protect:0.1893', 'publish:0.1813', 'sign:0.1794', 'independent:0.176', 'prosecute:0.1747', 'saturday:0.1494', 'include:0.143', 'people:0.1342', 'special:0.1326', 'make:0.1306', 'grab:0.1305', 'disable:0.0663']+titles_keywords+['ukrainian:0.4347', 'territory:0.2417', 'benefits:0.2393', 'decrees:0.1415', 'coming:0.0682']"
+        ]
+    ]
+}

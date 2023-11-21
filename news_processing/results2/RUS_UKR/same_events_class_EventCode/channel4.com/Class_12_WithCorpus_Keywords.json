@@ -1,0 +1,12 @@
+{
+    "RUS+RUS+12":[
+        [
+            "20220325+../news_crawling/RUS_UKR/p_articles/channel4.com/Zelenskky calls for global support as Ukranians destroy Russian ship.txt+eventbasecode12+eventcode12+avgtone0.46969696969696967+goldsteinscale0.48+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['kyiv:0.5154', 'ukraine:0.5149', 'ukranians:0.4639', 'nato:0.4194', 'russian:0.4146', 'zelenskky:0.3885', 'chernihiv:0.3354', 'war:0.3179', 'bombardment:0.291', 'destroy:0.2765', 'unite:0.251', 'strategically:0.2127', 'ship:0.172', 'supply:0.1661', 'north:0.161', 'control:0.1427', 'important:0.1254', 'claim:0.1183', 'let:0.1153', 'landing:0.1111', 'route:0.1081', 'month:0.1066', 'start:0.1041', 'relentless:0.0973', 'official:0.0948', 'trap:0.0898', 'theres:0.0808', 'biden:0.074', 'large:0.0739', 'reportedly:0.0647']+titles_keywords+['zelenskky:0.5288', 'ukranians:0.3646', 'destroy:0.2928', 'support:0.1998', 'global:0.1741']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220408+../news_crawling/RUS_UKR/p_articles/channel4.com/Civilians killed in station rocket attack in Ukraine.txt+eventbasecode12+eventcode12+avgtone0.4634146341463415+goldsteinscale0.48+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.449', 'ukranians:0.4348', 'massacre:0.3872', 'civilians:0.3734', 'attack:0.3313', 'bombed:0.325', 'history:0.3037', 'happen:0.2996', 'kill:0.2856', 'railway:0.2676', 'station:0.2591', 'event:0.2588', 'hit:0.2515', 'theatre:0.2454', 'kramatorsk:0.2334', 'warn:0.2121', 'rocket:0.2114', 'flee:0.2114', 'write:0.2008', 'shell:0.1552', 'script:0.1543', 'locals:0.149', 'wait:0.1408', 'like:0.1334', 'month:0.1261', 'feature:0.1235', 'thousand:0.1163', 'follow:0.1162', 'mariupol:0.0744', 'doubt:0.0728']+titles_keywords+['civilians:0.4261', 'ukraine:0.3801', 'rocket:0.2228', 'killed:0.2108', 'station:0.19']"
+        ]
+    ]
+}

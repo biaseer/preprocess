@@ -1,0 +1,17 @@
+{
+    "CHN+UKR+45":[
+        [
+            "20220315+../news_crawling/RUS_UKR/p_articles/russiaherald.com/Facts about RussiaUkraine conflict peace talks continue daily.txt+eventbasecode45+eventcode45+avgtone0.48715596330275235+goldsteinscale0.75+nummentions0.023947750362844702+numarticles0.024655547498187092+numsources0.019736842105263157+news_keywords+['ukraine:0.4517', 'ceasefire:0.4452', 'putin:0.4133', 'diplomatic:0.3968', 'xinhua:0.2482', 'sanction:0.2456', 'escalate:0.2419', 'pandemic:0.2142', 'telegram:0.2116', 'outcome:0.2048', 'continue:0.2037', 'tension:0.2005', 'clarification:0.196', 'brief:0.1789', 'medinsky:0.1744', 'unchanged:0.1739', 'corridor:0.1711', 'issue:0.1528', 'funding:0.1481', 'world:0.1425', 'current:0.1407', 'people:0.1395', 'tomorrow:0.1159', 'format:0.1135', 'zhang:0.1043', 'fourth:0.1004', 'facts:0.093', 'far:0.0871', 'ready:0.0867', 'definition:0.0686']+titles_keywords+['russiaukraine:0.4266', 'conflict:0.3679', 'facts:0.3102', 'daily:0.2642', 'continue:0.2203']"
+        ]
+    ],
+    "RUS+TUR+45":[
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/russiaherald.com/World Insights RussiaUkraine talks constructive to settle conflict.txt+eventbasecode45+eventcode45+avgtone0.4982425307557118+goldsteinscale0.75+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.006578947368421052+news_keywords+['crimea:0.4642', 'ceasefire:0.4474', 'treaty:0.4446', 'negotiation:0.3872', 'putin:0.3591', 'militarily:0.3358', 'moscowkiev:0.3047', 'escalation:0.2932', 'agreement:0.2464', 'consultation:0.2175', 'continue:0.1818', 'delegation:0.1771', 'zelensky:0.1666', 'long:0.1637', 'formulate:0.1591', 'soon:0.1568', 'xinhua:0.1533', 'hold:0.141', 'meet:0.1382', 'stage:0.1288', 'predict:0.1231', 'official:0.1207', 'report:0.1095', 'current:0.0989', 'receive:0.0984', 'state:0.0898', 'underscore:0.0757', 'sphere:0.0736', 'arm:0.0695', 'possible:0.0496']+titles_keywords+['russiaukraine:0.4722', 'conflict:0.3998', 'settle:0.3502', 'talks:0.3362', 'constructive:0.3012']"
+        ]
+    ],
+    "RUS+UKR+45":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/russiaherald.com/India can play mediators role between Moscow and Kyiv Russian FM Lavrov.txt+eventbasecode45+eventcode45+avgtone0.4940898345153664+goldsteinscale0.75+nummentions0.016690856313497822+numarticles0.01740391588107324+numsources0.013157894736842105+news_keywords+['ukraine:0.3737', 'mediate:0.3722', 'lavrov:0.3319', 'indo:0.2682', 'war:0.2648', 'federation:0.257', 'strategic:0.2557', 'relations:0.2538', 'rupee:0.2056', 'responding:0.1998', 'supply:0.1948', 'regime:0.191', 'develop:0.1817', 'friend:0.1684', 'role:0.1628', 'visit:0.1431', 'term:0.133', 'buy:0.1257', 'minister:0.1221', 'resolution:0.1051', 'believe:0.1051', 'possibility:0.0967', 'end:0.0876', 'friday:0.0866', 'ready:0.086', 'say:0.0819', 'laud:0.072', 'aim:0.0552', 'characterize:0.0507', 'true:0.0439']+titles_keywords+['lavrov:0.4468', 'mediators:0.383', 'kyiv:0.3748', 'india:0.1629', 'play:0.0913']"
+        ]
+    ]
+}

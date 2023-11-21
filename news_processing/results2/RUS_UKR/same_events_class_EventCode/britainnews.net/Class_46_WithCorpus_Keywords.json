@@ -1,0 +1,22 @@
+{
+    "RUS+FRA+46":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/britainnews.net/Biden and Putin Discuss Mounting RussiaUkraine Crisis.txt+eventbasecode46+eventcode46+avgtone0.4846897663174859+goldsteinscale0.85+nummentions0.0330188679245283+numarticles0.0337200870195794+numsources0.08552631578947369+news_keywords+['putin:0.4811', 'nato:0.4093', 'kyiv:0.3351', 'invades:0.3313', 'diplomatic:0.3189', 'readiness:0.2893', 'reuters:0.283', 'evacuate:0.2807', 'correspondent:0.2677', 'crisis:0.2557', 'consulate:0.2543', 'coordinate:0.2382', 'adviser:0.235', 'olympics:0.2296', 'soon:0.2129', 'globe:0.2056', 'sanction:0.1974', 'talk:0.174', 'winter:0.1619', 'speculation:0.1617', 'cite:0.1507', 'begin:0.1466', 'blinken:0.1414', 'bid:0.1253', 'presse:0.1236', 'function:0.1174', 'increase:0.1124', 'massive:0.1104', 'incompatible:0.1074', 'hour:0.0818']+titles_keywords+['putin:0.4714', 'biden:0.4569', 'russiaukraine:0.3994', 'discuss:0.1875', 'mounting:-0.0092']"
+        ]
+    ],
+    "RUS+TUR+46":[
+        [
+            "20220329+../news_crawling/RUS_UKR/p_articles/britainnews.net/Latest Developments in Ukraine March 29.txt+eventbasecode46+eventcode46+avgtone0.48788927335640137+goldsteinscale0.85+nummentions0.024310595065312045+numarticles0.025018129079042786+numsources0.03289473684210526+news_keywords+['ukraine:0.5307', 'istanbul:0.3295', 'negotiation:0.3255', 'peace:0.3107', 'hostage:0.2677', 'march:0.2471', 'occupy:0.2446', 'combat:0.2266', 'developments:0.2212', 'report:0.182', 'know:0.1754', 'monday:0.1673', 'attend:0.1551', 'president:0.1543', 'newspaper:0.1536', 'representative:0.1476', 'civilian:0.1458', 'summary:0.139', 'begin:0.1366', 'poison:0.126', 'suffer:0.1251', 'shoot:0.1205', 'repel:0.1156', 'story:0.0998', 'confirm:0.0997', 'voa:0.095', 'round:0.0889', 'set:0.0836', 'accord:0.0763', 'yield:0.0655']+titles_keywords+['ukraine:0.5428', 'developments:0.3265', 'march:0.3167', 'latest:0.2446', '29:0.1285']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220401+../news_crawling/RUS_UKR/p_articles/britainnews.net/Latest Developments in Ukraine April 1.txt+eventbasecode46+eventcode46+avgtone0.48214285714285715+goldsteinscale0.85+nummentions0.02576197387518142+numarticles0.026468455402465556+numsources0.046052631578947366+news_keywords+['ukraine:0.6143', 'military:0.2732', 'oil:0.2716', 'peace:0.251', 'developments:0.2437', 'parliament:0.2351', 'april:0.2303', 'attack:0.228', 'zelenskyy:0.2268', 'governor:0.2057', 'helicopter:0.2055', 'belgorod:0.1895', 'aid:0.1825', 'ablaze:0.1756', 'report:0.1726', 'regional:0.1721', 'city:0.1671', 'bbc:0.1606', 'address:0.1416', 'discussion:0.1315', 'post:0.1245', 'responsibility:0.1058', 'unspecified:0.1046', 'claim:0.1023', 'resume:0.0973', 'send:0.0936', 'say:0.0933', 'number:0.0891', 'carrier:0.0782', 'set:0.0657']+titles_keywords+['ukraine:0.5396', 'april:0.318', 'developments:0.3169', 'latest:0.2399']"
+        ]
+    ],
+    "WST+RUS+46":[
+        [
+            "20220409+../news_crawling/RUS_UKR/p_articles/britainnews.net/NATO kept doors open for Russia Clinton.txt+eventbasecode46+eventcode46+avgtone0.4876373626373626+goldsteinscale0.85+nummentions0.02902757619738752+numarticles0.02973168963016679+numsources0.03618421052631579+news_keywords+['nato:0.4912', 'yeltsin:0.3902', 'russia:0.3805', 'kiev:0.355', 'imperialism:0.2787', 'eastward:0.2762', 'bloc:0.2446', 'clinton:0.241', 'protocol:0.227', 'ultranationalist:0.2222', 'unprovoked:0.2179', 'govern:0.2146', 'attack:0.2101', 'successor:0.2097', 'cite:0.1943', 'continue:0.1872', 'neutral:0.1751', 'breakup:0.1728', 'publish:0.1585', 'join:0.1578', 'term:0.1546', 'agreement:0.1505', 'open:0.1458', 'according:0.1378', 'enlarge:0.1338', 'maintain:0.1338', 'state:0.1325', 'deny:0.1285', 'lead:0.1277', 'donbass:0.1058']+titles_keywords+['nato:0.5247', 'clinton:0.3445', 'russia:0.2932', 'open:0.2153', 'kept:0.1005']"
+        ]
+    ]
+}

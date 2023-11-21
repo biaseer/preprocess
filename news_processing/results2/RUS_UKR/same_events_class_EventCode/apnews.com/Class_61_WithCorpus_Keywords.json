@@ -1,0 +1,17 @@
+{
+    "AFR+RUS+61":[
+        [
+            "20220603+../news_crawling/RUS_UKR/p_articles/apnews.com/Grain supply tops Putins talks with African Union leader.txt+eventbasecode61+eventcode61+avgtone0.4765506807866868+goldsteinscale0.82+nummentions0.028664731494920173+numarticles0.029369108049311095+numsources0.05592105263157895+news_keywords+['ukraine:0.4698', 'putins:0.3808', 'supply:0.3104', 'sahel:0.3037', 'economic:0.3022', 'refugee:0.3003', 'conflict:0.2907', 'grain:0.2678', 'aid:0.2596', 'president:0.2297', 'cargoes:0.2291', 'drought:0.2263', 'cite:0.2204', 'impose:0.2132', 'bluff:0.2031', 'explanation:0.1816', 'increase:0.1801', 'trade:0.1748', 'make:0.1621', 'movement:0.1594', 'exporter:0.1549', 'global:0.1527', 'port:0.1521', 'chain:0.1294', 'transcript:0.1293', 'resolution:0.1285', 'safe:0.1264', 'arent:0.113', 'week:0.0799', 'partial:0.0611']+titles_keywords+['putins:0.368', 'grain:0.3414', 'talks:0.269', 'supply:0.2513', 'african:0.2']"
+        ]
+    ],
+    "BGD+RUS+61":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/apnews.com/After pandemic war in Ukraine new threat to food security.txt+eventbasecode61+eventcode61+avgtone0.47044917257683216+goldsteinscale0.82+nummentions0.033381712626995644+numarticles0.0340826686004351+numsources0.03618421052631579+news_keywords+['bangladesh:0.493', 'ukraine:0.4356', 'pandemic:0.4288', 'agriculture:0.3825', 'russias:0.3454', 'war:0.3331', 'hunger:0.2651', 'population:0.256', 'nation:0.2159', 'crisis:0.2101', 'increase:0.1952', 'globally:0.1937', 'progress:0.1889', 'import:0.1736', 'availability:0.1732', 'salinity:0.1722', 'organize:0.1574', 'main:0.1557', 'surge:0.1459', 'resilient:0.1442', 'importance:0.1429', 'source:0.1394', 'tell:0.1311', 'head:0.1105', 'hasina:0.1079', 'ap:0.1044', 'reversing:0.0873', 'total:0.0841', 'fao:0.0601', 'werent:0.0506']+titles_keywords+['pandemic:0.4842', 'ukraine:0.436', 'war:0.3396', 'food:0.337', 'new:0.0558']"
+        ]
+    ],
+    "LBN+UKR+61":[
+        [
+            "20220801+../news_crawling/RUS_UKR/p_articles/apnews.com/1st ship carrying Ukrainian grain leaves the port of Odesa.txt+eventbasecode61+eventcode61+avgtone0.48572996706915483+goldsteinscale0.82+nummentions0.3018867924528302+numarticles0.30239303843364757+numsources0.3223684210526316+news_keywords+['ukraine:0.468', 'kremlin:0.402', 'shipment:0.3291', 'disrupt:0.2991', 'evacuate:0.2964', 'political:0.2769', 'commodity:0.2682', 'aid:0.2616', 'import:0.2588', 'crisis:0.2582', 'zelenskyy:0.2532', 'flag:0.2363', 'capital:0.2306', 'sector:0.2267', 'want:0.2244', 'know:0.2225', 'write:0.2058', 'counterpart:0.2056', 'direction:0.2042', 'emphasize:0.196', 'safe:0.1871', 'continue:0.1822', 'howitzer:0.1675', 'rih:0.1601', 'sure:0.1536', 'mechanism:0.1528', 'long:0.147', 'monitor:0.1233', 'billion:0.1199', 'doesnt:0.0743']+titles_keywords+['odesa:0.3845', 'ship:0.3632', 'ukrainian:0.319', 'grain:0.2653', '1st:0.1771']"
+        ]
+    ]
+}

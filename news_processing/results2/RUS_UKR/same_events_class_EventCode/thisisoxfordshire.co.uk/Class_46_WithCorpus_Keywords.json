@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+46":[
+        [
+            "20220305+../news_crawling/RUS_UKR/p_articles/thisisoxfordshire.co.uk/UN Security Council to meet as Ukraine calls for humanitarian corridors.txt+eventbasecode46+eventcode46+avgtone0.4768211920529801+goldsteinscale0.85+nummentions0.32982583454281567+numarticles0.3303118201595359+numsources0.5+news_keywords+['ukraine:0.4952', 'humanitarian:0.3945', 'briefing:0.368', 'putins:0.3478', 'blockade:0.3453', 'terrorism:0.3402', 'embassy:0.3179', 'nuclear:0.3106', 'emergency:0.2854', 'corridor:0.2793', 'negotiation:0.2684', 'troop:0.2525', 'delegation:0.2227', 'anonymity:0.2187', 'flee:0.2135', 'zelensky:0.2026', 'ahead:0.198', 'president:0.1977', 'organise:0.1719', 'intensifies:0.1632', 'hear:0.1597', 'catherine:0.1546', 'toll:0.1543', 'shmyhal:0.1472', 'cross:0.1187', 'weu:0.1056', 'billion:0.0982', 'month:0.0922', 'send:0.0867', 'include:0.0838']+titles_keywords+['ukraine:0.3616', 'humanitarian:0.3131', 'corridors:0.2686', 'council:0.2649', 'meet:0.1889']"
+        ],
+        [
+            "20220327+../news_crawling/RUS_UKR/p_articles/thisisoxfordshire.co.uk/Johnson helping Ukraine more thanks to British public pressure Zelensky says.txt+eventbasecode46+eventcode46+avgtone0.48329048843187655+goldsteinscale0.85+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.029605263157894735+news_keywords+['putin:0.4694', 'ukraines:0.4387', 'nato:0.3998', 'invade:0.3489', 'conflict:0.3134', 'neutrality:0.2779', 'escalation:0.26', 'zelensky:0.2453', 'speak:0.2009', 'volodymyr:0.1936', 'reiterate:0.1882', 'want:0.1869', 'logistically:0.1803', 'feed:0.1749', 'secretary:0.1708', 'vote:0.1692', 'row:0.1687', 'term:0.1678', 'french:0.1531', 'hesitant:0.1512', 'stay:0.1484', 'ready:0.1431', 'end:0.1375', 'unscripted:0.1322', 'powerful:0.1299', 'deep:0.1145', 'agree:0.0975', 'house:0.097', 'antony:0.0954', 'month:0.0794']+titles_keywords+['zelensky:0.4409', 'ukraine:0.3697', 'johnson:0.2798', 'british:0.1875', 'helping:0.1351']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220331+../news_crawling/RUS_UKR/p_articles/thisisoxfordshire.co.uk/Russias troops withdrawing and risk being attacked by Ukraine forces Radakin.txt+eventbasecode46+eventcode46+avgtone0.474816369359916+goldsteinscale0.85+nummentions0.1320754716981132+numarticles0.13270485859318346+numsources0.14802631578947367+news_keywords+['kyiv:0.437', 'putins:0.4031', 'nato:0.3835', 'invasion:0.3158', 'propaganda:0.2977', 'gchq:0.2943', 'negotiation:0.2605', 'predict:0.2563', 'escalate:0.2497', 'colonel:0.2466', 'secure:0.2401', 'artillery:0.2156', 'sanction:0.1995', 'map:0.198', 'unite:0.1908', 'emphasis:0.1849', 'update:0.1814', 'fleming:0.1772', 'blame:0.1701', 'catastrophic:0.1602', 'coming:0.1489', 'conversely:0.1442', 'short:0.1403', 'look:0.1358', 'whats:0.1325', 'video:0.1304', 'fall:0.13', 'resume:0.1184', 'agreed:0.1057', 'weve:0.0999']+titles_keywords+['ukraine:0.4267', 'radakin:0.3193', 'withdrawing:0.313', 'attacked:0.1929', 'forces:0.1493']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+13":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Mysterious Z symbol on Russian tanks in Ukraine should be feared expert claims.txt+eventbasecode13+eventcode13+avgtone0.4905660377358491+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4079', 'zelenskyy:0.3625', 'symbol:0.3318', 'paramilitary:0.3212', 'tank:0.3034', 'vehicle:0.2811', 'volodymyr:0.2622', 'invade:0.2538', 'fear:0.2263', 'border:0.2164', 'separatist:0.2041', 'meaning:0.203', 'letter:0.202', 'mysterious:0.193', 'president:0.1744', 'order:0.1534', 'stuff:0.1385', 'distinguish:0.1377', 'report:0.1369', 'clear:0.1339', 'source:0.1304', 'night:0.1157', 'possible:0.1124', 'monitor:0.1104', 'enter:0.1037', 'echelon:0.1025', 'feb:0.0998', 'like:0.0838', 'today:0.0479', 'kime:0.0386']+titles_keywords+['tanks:0.3658', 'russian:0.349', 'symbol:0.3083', 'mysterious:0.2113', 'expert:0.1282']"
+        ],
+        [
+            "20220815+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/ProPutin undies with patriotic Z symbol dubbed best contraception ever.txt+eventbasecode13+eventcode13+avgtone0.49331550802139035+goldsteinscale0.52+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukrainian:0.4767', 'zelenskyy:0.4294', 'swastika:0.4088', 'troop:0.2628', 'undergarment:0.246', 'stuff:0.2147', 'red:0.2146', 'newsletters:0.2118', 'report:0.1956', 'photo:0.1946', 'distinguish:0.1936', 'label:0.1862', 'sign:0.1826', 'like:0.1823', 'straight:0.1816', 'risk:0.1742', 'widespread:0.168', 'strange:0.1634', 'large:0.1534', 'proputin:0.1487', 'non:0.1428', 'killer:0.1413', 'contraception:0.1387', 'raucous:0.1328', 'field:0.132', 'david:0.1311', 'ua:0.1305', 'want:0.1252', 'reduce:0.1139', 'year:0.1066']+titles_keywords+['contraception:0.482', 'undies:0.4382', 'proputin:0.3479', 'patriotic:0.2526', 'symbol:0.2468']"
+        ]
+    ],
+    "UKR+RUS+13":[
+        [
+            "20220511+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/ProPutin MILF Mother Russia insists Kremlin troops are liberating Ukraine.txt+eventbasecode13+eventcode13+avgtone0.5067750677506775+goldsteinscale0.52+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['putin:0.5325', 'kremlin:0.5108', 'comrade:0.5106', 'propaganda:0.4951', 'olga:0.4379', 'moscow:0.4353', 'ukrainians:0.4256', 'newsletter:0.2731', 'justify:0.2663', 'invade:0.2395', 'conflict:0.2348', 'know:0.2239', 'association:0.2134', 'entertain:0.2118', 'frontline:0.2049', 'proputin:0.2011', 'racy:0.1983', 'ban:0.1832', 'stay:0.1797', 'like:0.1738', 'ostensibly:0.1735', 'captioning:0.1628', 'poseable:0.162', 'holiday:0.1521', 'make:0.1445', 'besotted:0.1412', 'world:0.137', 'picture:0.1362', 'physiotherapist:0.1133', 'thanks:0.066']+titles_keywords+['kremlin:0.538', 'ukraine:0.4516', 'milf:0.3273', 'troops:0.3272', 'insists:0.171']"
+        ]
+    ]
+}

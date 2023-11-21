@@ -1,0 +1,20 @@
+{
+    "BLR+UKR+40":[
+        [
+            "20220228+../news_crawling/RUS_UKR/p_articles/ksmu.org/Ukrainian forces arent backing down 5 days after Russian attacks began.txt+eventbasecode40+eventcode40+avgtone0.48913043478260865+goldsteinscale0.55+nummentions0.08345428156748912+numarticles0.08411892675852067+numsources0.125+news_keywords+['ukraine:0.5038', 'nato:0.3698', 'invasion:0.3185', 'military:0.294', 'zelenskyy:0.2517', 'assassinate:0.2381', 'remain:0.23', 'fight:0.2125', 'want:0.2078', 'alert:0.2026', 'rally:0.2019', 'hear:0.2011', 'align:0.2005', 'happen:0.1969', 'hold:0.1873', 'mak:0.1842', 'people:0.1813', 'neutral:0.1803', 'adviser:0.1788', 'arent:0.1727', 'begin:0.1633', 'backing:0.1609', 'weekend:0.156', 'npr:0.1557', 'range:0.1546', 'sanction:0.1407', 'large:0.1225', 'exactly:0.1049', 'thousand:0.1038', 'thanks:0.0784']+titles_keywords+['ukrainian:0.3883', 'days:0.2237', 'backing:0.2134', 'forces:0.2085', 'arent:0.1438']"
+        ]
+    ],
+    "CHN+UKR+40":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/ksmu.org/RussiaUkraine war What happened today March 14.txt+eventbasecode40+eventcode40+avgtone0.4826302729528536+goldsteinscale0.55+nummentions0.09724238026124818+numarticles0.09789702683103699+numsources0.10855263157894737+news_keywords+['ukraine:0.5302', 'russiaukraine:0.5006', 'nato:0.3984', 'airstrikes:0.3789', 'zelenskyy:0.3128', 'news:0.3027', 'conflict:0.2845', 'invasion:0.277', 'npr:0.2737', 'recap:0.2371', 'march:0.2229', 'read:0.1974', 'consequence:0.1962', 'happen:0.1881', 'pregnant:0.1834', 'continue:0.1775', 'today:0.176', 'warn:0.1744', 'live:0.1596', 'breakthrough:0.1502', 'weapon:0.1436', 'lawmaker:0.1429', 'resume:0.1343', 'additional:0.1339', 'subscribe:0.1249', 'photo:0.114', 'receive:0.1118', 'million:0.1109', 'mh:0.1102', 'integration:0.092']+titles_keywords+['russiaukraine:0.4736', 'war:0.4432', 'march:0.3688', 'today:0.2816', 'happened:0.2675']"
+        ]
+    ],
+    "UKR+RUS+40":[
+        [
+            "20220110+../news_crawling/RUS_UKR/p_articles/ksmu.org/News brief Bronx fire record COVID19 cases USRussia talks on Ukraine.txt+eventbasecode40+eventcode40+avgtone0.49+goldsteinscale0.55+nummentions0.0420899854862119+numarticles0.04278462654097172+numsources0.0756578947368421+news_keywords+['putin:0.4522', 'pandemic:0.4098', 'unrest:0.3467', 'diplomatic:0.3355', 'hospital:0.3352', 'news:0.323', 'essay:0.3205', 'separatist:0.3165', 'escalation:0.3043', 'risk:0.2686', 'ahead:0.2601', 'know:0.2598', 'secretary:0.2591', 'work:0.2573', 'prediction:0.2543', 'region:0.2522', 'stay:0.233', 'housing:0.2217', 'turn:0.2171', 'speak:0.2132', 'unconscious:0.2085', 'align:0.2056', 'like:0.2037', 'ok:0.1997', 'case:0.1911', 'population:0.1739', 'big:0.1667', 'subhanahu:0.1593', 'possible:0.1427', 'knit:0.1384']+titles_keywords+['covid19:0.4309', 'bronx:0.3953', 'ukraine:0.3865', 'cases:0.2431', 'record:0.1857']"
+        ],
+        [
+            "20220427+../news_crawling/RUS_UKR/p_articles/ksmu.org/Ukrainians debate the future of Russian identity and culture within their society.txt+eventbasecode40+eventcode40+avgtone0.48837209302325585+goldsteinscale0.55+nummentions0.10377358490566038+numarticles0.10442349528643945+numsources0.11842105263157894+news_keywords+['russianness:0.5142', 'kyiv:0.5042', 'ukrainians:0.4752', 'putin:0.4029', 'dorokhov:0.3859', 'historian:0.3781', 'propaganda:0.3722', 'pushkin:0.3108', 'multicultural:0.3082', 'read:0.281', 'know:0.2444', 'gogol:0.2382', 'npr:0.2259', 'oleksandr:0.2214', 'baroque:0.2199', 'celebrate:0.2185', 'speaking:0.2106', 'people:0.2079', 'confederate:0.1939', 'stay:0.1867', 'big:0.181', 'space:0.1769', 'fight:0.1712', 'nuanced:0.1617', 'reshape:0.1551', 'detain:0.1379', 'byline:0.1332', 'sort:0.1156', 'agrees:0.1076', 'house:0.0991']+titles_keywords+['ukrainians:0.5694', 'russian:0.4577', 'culture:0.3236', 'debate:0.2849', 'future:0.2022']"
+        ]
+    ]
+}

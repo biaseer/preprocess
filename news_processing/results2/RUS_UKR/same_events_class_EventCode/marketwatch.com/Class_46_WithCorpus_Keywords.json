@@ -1,0 +1,20 @@
+{
+    "BLR+RUS+46":[
+        [
+            "20211229+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Biden to discuss Russian security demands in Thursday call with Putin.txt+eventbasecode46+eventcode46+avgtone0.49609375+goldsteinscale0.85+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.009868421052631578+news_keywords+['putin:0.5107', 'biden:0.4516', 'vladimir:0.3886', 'russian:0.3313', 'diplomatic:0.2649', 'president:0.2423', 'security:0.2044', 'speak:0.1948', 'europe:0.1805', 'joe:0.157', 'announce:0.1509', 'say:0.1333', 'upcoming:0.1202', 'eastern:0.1131', 'engagement:0.1056', 'demand:0.1039', 'guarantee:0.0997', 'step:0.096', 'range:0.0906', 'council:0.0885', 'topic:0.0834', 'emily:0.0805', 'statement:0.0793', 'include:0.061', 'spokeswoman:0.0571', 'horne:0.0506', 'rehoboth:0.0289', 'ap:0.0204', 'discus:0.0043', 'beach:-0.0424']+titles_keywords+['biden:0.4314', 'russian:0.2483', 'security:0.167', 'thursday:0.1588', 'discuss:0.0923']"
+        ]
+    ],
+    "RUS+UKR+46":[
+        [
+            "20220204+../news_crawling/RUS_UKR/p_articles/marketwatch.com/French German leaders try to ease tensions between Ukraine and Russia.txt+eventbasecode46+eventcode46+avgtone0.48651817116060964+goldsteinscale0.85+nummentions0.21407837445573294+numarticles0.21464829586656997+numsources0.29276315789473684+news_keywords+['putin:0.4341', 'macron:0.4229', 'kyiv:0.3404', 'russia:0.3241', 'diplomatic:0.2941', 'vladimir:0.2887', 'president:0.2592', 'germanys:0.2245', 'german:0.2165', 'visit:0.2034', 'invasion:0.1895', 'frances:0.1841', 'emmanuel:0.1785', 'tension:0.1433', 'monday:0.1388', 'come:0.1285', 'chancellor:0.1239', 'schedule:0.1119', 'scholz:0.104', 'feb:0.0616', 'try:0.054', 'head:0.0498', 'olaf:0.0469', 'ease:0.0416', 'deter:0.0305', 'launch:0.0291', 'add:0.0159', 'way:0.0147', 'ap:0.0061', 'grow:0.0031']+titles_keywords+['ukraine:0.3314', 'tensions:0.2224', 'french:0.199', 'leaders:0.1566', 'try:0.0641']"
+        ],
+        [
+            "20220330+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Oil Prices Rise as Peace Talks Progress Becomes Uncertain.txt+eventbasecode46+eventcode46+avgtone0.4860557768924303+goldsteinscale0.85+nummentions0.016690856313497822+numarticles0.016678752719361856+numsources0.03618421052631579+news_keywords+['opec:0.4589', 'oil:0.3555', 'kyiv:0.3525', 'peace:0.3297', 'positivity:0.2876', 'progress:0.2852', 'threat:0.2831', 'increase:0.2771', 'future:0.2668', 'operation:0.2656', 'wednesday:0.2621', 'talk:0.26', 'output:0.2472', 'trigger:0.2385', 'pentagon:0.2383', 'negotiator:0.2242', 'chinas:0.2125', 'fall:0.2086', 'warn:0.2016', 'rally:0.1903', 'emerge:0.1903', 'lockdown:0.19', 'stock:0.1865', 'uncertain:0.1712', 'northern:0.1673', 'caused:0.1628', 'benchmark:0.1437', 'brent:0.1407', 'similar:0.1396', 'despite:0.1055']+titles_keywords+['oil:0.327', 'rise:0.2299', 'uncertain:0.211', 'prices:0.1585', 'talks:0.1478']"
+        ]
+    ],
+    "UKR+RUS+46":[
+        [
+            "20220328+../news_crawling/RUS_UKR/p_articles/marketwatch.com/Zelensky signals willingness to accept Ukraine neutrality ahead of talks with Russia.txt+eventbasecode46+eventcode46+avgtone0.4885321100917432+goldsteinscale0.85+nummentions0.059506531204644414+numarticles0.05946337926033358+numsources0.22039473684210525+news_keywords+['zelensky:0.4961', 'ukrainian:0.4411', 'ankara:0.4176', 'turkey:0.332', 'war:0.2648', 'negotiator:0.2346', 'talk:0.2162', 'plane:0.202', 'long:0.186', 'neutrality:0.1797', 'news:0.174', 'signal:0.1602', 'ahead:0.15', 'wednesday:0.1421', 'delegation:0.1405', 'month:0.1374', 'hold:0.1363', 'accept:0.1363', 'willingness:0.1292', 'aim:0.1254', 'schedule:0.1227', 'government:0.1195', 'end:0.104', 'say:0.1034', 'land:0.0945', 'carry:0.069', 'face:0.0675', 'private:0.06', 'member:0.007', 'dha:-0.0296']+titles_keywords+['zelensky:0.5214', 'ukraine:0.3206', 'neutrality:0.218', 'accept:0.1904', 'talks:0.1447']"
+        ]
+    ]
+}

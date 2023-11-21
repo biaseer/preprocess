@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+57":[
+        [
+            "20220114+../news_crawling/RUS_UKR/p_articles/thestar.com.my/Ukraine some signs that cyber attack linked to hacker groups associated with Russia.txt+eventbasecode57+eventcode57+avgtone0.4703703703703704+goldsteinscale0.9+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['cyberattack:0.5663', 'kyiv:0.4593', 'ukrainians:0.4234', 'attack:0.3627', 'russia:0.3539', 'security:0.3015', 'reuters:0.283', 'warning:0.2646', 'government:0.2545', 'web:0.2145', 'sign:0.2047', 'proceeding:0.1936', 'incident:0.1713', 'link:0.1712', 'hit:0.1711', 'sbu:0.1674', 'group:0.1581', 'criminal:0.1521', 'involvement:0.1496', 'associate:0.1466', 'friday:0.1282', 'document:0.1265', 'open:0.1257', 'framework:0.1248', 'state:0.1235', 'statement:0.1058', 'inaccessible:0.0828', 'special:0.0668', 'saw:0.0656', 'far:0.0207']+titles_keywords+['ukraine:0.446', 'attack:0.3204', 'cyber:0.3102', 'signs:0.228', 'groups:0.1857']"
+        ],
+        [
+            "20220722+../news_crawling/RUS_UKR/p_articles/thestar.com.my/US agricultural futures close mixed.txt+eventbasecode57+eventcode57+avgtone0.4964285714285714+goldsteinscale0.9+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['agricultural:0.454', 'forecast:0.3749', 'wheat:0.3601', 'midwest:0.3563', 'geopolitical:0.3391', 'macroeconomic:0.3275', 'infrastructure:0.3203', 'ukraine:0.3181', 'market:0.2679', 'september:0.2558', 'concern:0.2433', 'bullish:0.2407', 'weekly:0.2356', 'hemisphere:0.2261', 'outlooks:0.2205', 'widespread:0.2204', 'increased:0.2184', 'sea:0.2091', 'ahead:0.2031', 'bushel:0.1904', 'busy:0.1834', 'dry:0.1784', 'plunge:0.1709', 'long:0.1601', 'export:0.1599', 'term:0.1513', 'agreement:0.1485', 'board:0.147', 'trkiye:0.1398', 'percent:0.0866']+titles_keywords+['mixed:0.3801', 'futures:0.3552', 'agricultural:0.3335', 'close:0.1484']"
+        ]
+    ]
+}

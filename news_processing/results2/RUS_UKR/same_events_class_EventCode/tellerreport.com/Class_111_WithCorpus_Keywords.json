@@ -1,0 +1,12 @@
+{
+    "RUS+TUR+111":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/tellerreport.com/Moscow accuses Washington of biological weapons research in Ukraine.txt+eventbasecode111+eventcode111+avgtone0.49184782608695654+goldsteinscale0.4+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['ukraine:0.4478', 'pathogens:0.394', 'coronavirus:0.3479', 'diplomacy:0.3007', 'laboratory:0.2943', 'pentagon:0.2851', 'lavrov:0.2562', 'secrecy:0.2322', 'accuse:0.2241', 'evidence:0.224', 'reptiles:0.2224', 'cite:0.2222', 'mechanism:0.2052', 'weapon:0.2027', 'bio:0.1977', 'discover:0.1956', 'funded:0.1921', 'swine:0.1916', 'scandalous:0.1914', 'migratory:0.186', 'false:0.1731', 'produce:0.1619', 'end:0.131', 'ballet:0.1155', 'plan:0.1075', 'representative:0.1055', 'submit:0.1036', 'thursday:0.0987', 'possibility:0.0788', 'absolutely:0.0521']+titles_keywords+['moscow:0.3809', 'accuses:0.219', 'weapons:0.211', 'research:0.1618', 'biological:0.1336']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20220309+../news_crawling/RUS_UKR/p_articles/tellerreport.com/Slight progress in talks Washington wants direct oil supplies from Venezuela in exchange for sanctions.txt+eventbasecode111+eventcode111+avgtone0.49245689655+goldsteinscale0.4+nummentions0.030841799709724237+numarticles0.03154459753444525+numsources0.046052631578947366+news_keywords+['venezuela:0.5005', 'maduro:0.3547', 'reuters:0.3517', 'government:0.3485', 'president:0.3399', 'sanction:0.2982', 'oil:0.293', 'progress:0.2839', 'delegation:0.2814', 'bipartisan:0.2801', 'readiness:0.2532', 'vladimir:0.2308', 'talk:0.2299', 'facilitate:0.2256', 'import:0.1944', 'transaction:0.1884', 'alliance:0.1871', 'gonzalez:0.1793', 'release:0.1735', 'decide:0.1662', 'direct:0.1613', 'clear:0.1478', 'week:0.1434', 'use:0.1424', 'temporarily:0.1386', 'fund:0.1379', 'head:0.1343', 'additional:0.113', 'according:0.1126', 'little:0.1056']+titles_keywords+['sanctions:0.3492', 'talks:0.2375', 'progress:0.2246', 'washington:0.2177', 'direct:0.1778']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+190":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/kxxv.com/Saturday Night Live opens with tribute song to Ukraine.txt+eventbasecode190+eventcode190+avgtone0.49130434782608695+goldsteinscale0.0+nummentions0.3149492017416546+numarticles0.31435823060188545+numsources0.4967105263157895+news_keywords+['snl:0.5584', 'kyiv:0.4415', 'ukraines:0.4253', 'live:0.2645', 'sing:0.2562', 'audience:0.2449', 'york:0.2363', 'troop:0.2343', 'introduce:0.226', 'invasion:0.2231', 'humor:0.2186', 'saturday:0.2159', 'kate:0.2093', 'tribute:0.208', 'table:0.1938', 'ongoing:0.1923', 'capital:0.1902', 'sketch:0.1895', 'dumka:0.1849', 'kick:0.1753', 'strong:0.1711', 'airstrikes:0.1685', 'night:0.164', 'amid:0.1612', 'cast:0.1455', 'ap:0.1282', 'normally:0.1219', 'launch:0.1095', 'series:0.0983', 'mckinnon:0.0307']+titles_keywords+['song:0.3572', 'ukraine:0.3567', 'tribute:0.2502', 'saturday:0.2215', 'live:0.1931']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/kxxv.com/Top Russian general killed in Ukraine.txt+eventbasecode190+eventcode190+avgtone0.48333333333333334+goldsteinscale0.0+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.013157894736842105+news_keywords+['sukhovetsky:0.5089', 'moscow:0.3924', 'russian:0.3884', 'ukraine:0.3783', 'military:0.3616', 'andrei:0.36', 'platoon:0.3283', 'russias:0.3267', 'commander:0.3026', 'general:0.2809', 'command:0.2491', 'krasnodar:0.2407', 'leadership:0.233', 'rank:0.2296', 'death:0.2097', 'graduate:0.19', 'airborne:0.1652', 'academy:0.1467', 'division:0.1436', 'rise:0.1389', 'campaign:0.1307', 'early:0.1168', 'fight:0.1118', 'th:0.1102', 'maj:0.0962', 'clear:0.092', 'confirm:0.0842', 'local:0.0623', 'series:0.059', 'week:0.0361']+titles_keywords+['russian:0.356', 'ukraine:0.3318', 'general:0.3001', 'killed:0.26']"
+        ]
+    ]
+}

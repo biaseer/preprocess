@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+90":[
+        [
+            "20211221+../news_crawling/RUS_UKR/p_articles/euobserver.com/Ukraine accuses former president Poroshenko of treason.txt+eventbasecode90+eventcode90+avgtone0.44805194805194803+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['poroshenko:0.4586', 'ukraine:0.4035', 'accuse:0.3368', 'petro:0.3288', 'treason:0.2683', 'viktor:0.2382', 'investigation:0.2332', 'reuters:0.2124', 'separatist:0.2109', 'arrest:0.2081', 'wrongdoing:0.2075', 'government:0.2059', 'donbass:0.2047', 'smokescreen:0.1833', 'medvedchuk:0.1787', 'president:0.1784', 'divert:0.1717', 'link:0.1023', 'mp:0.0947', 'hear:0.0842', 'accord:0.0799', 'love:0.077', 'eastern:0.0681', 'start:0.0673', 'pro:0.0638', 'value:0.0614', 'month:0.0516', 'house:0.0326', 'formal:0.02', 'similar:0.0105']+titles_keywords+['poroshenko:0.4381', 'ukraine:0.3408', 'treason:0.3216', 'accuses:0.304', 'president:0.1005']"
+        ]
+    ],
+    "UKR+RUS+90":[
+        [
+            "20220622+../news_crawling/RUS_UKR/p_articles/euobserver.com/Ukraine holds two officials suspected of spying for Russia.txt+eventbasecode90+eventcode90+avgtone0.461038961038961+goldsteinscale0.4+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4749', 'spy:0.4359', 'suspect:0.3581', 'russian:0.3504', 'department:0.2849', 'security:0.2701', 'detain:0.2635', 'enemy:0.2591', 'telegram:0.1851', 'information:0.1737', 'chamber:0.1611', 'minister:0.1579', 'identify:0.1289', 'official:0.127', 'sbu:0.1227', 'head:0.1108', 'senior:0.1094', 'capability:0.0945', 'allege:0.0896', 'hear:0.0864', 'secretariat:0.086', 'various:0.069', 'hold:0.0648', 'statement:0.0596', 'pass:0.0596', 'love:0.0578', 'story:0.0574', 'value:0.0419', 'appreciate:0.0256', 'thought:-0.024']+titles_keywords+['ukraine:0.3676', 'spying:0.3108', 'officials:0.2062', 'suspected:0.1445', 'holds:0.0826']"
+        ]
+    ]
+}

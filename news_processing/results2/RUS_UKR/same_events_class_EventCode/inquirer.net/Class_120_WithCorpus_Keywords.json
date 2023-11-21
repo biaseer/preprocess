@@ -1,0 +1,22 @@
+{
+    "GBR+RUS+120":[
+        [
+            "20210629+../news_crawling/RUS_UKR/p_articles/inquirer.net/Ukraine US to start Black Sea military drills despite Russian protest.txt+eventbasecode120+eventcode120+avgtone0.4914089347079038+goldsteinscale0.3+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['crimea:0.5953', 'nato:0.4369', 'russias:0.385', 'peacekeeping:0.336', 'military:0.335', 'russian:0.3314', 'maritime:0.2531', 'operation:0.2083', 'drill:0.2046', 'border:0.1654', 'action:0.165', 'exercise:0.1569', 'black:0.1357', 'news:0.1325', 'protect:0.1273', 'rebellion:0.1229', 'water:0.1192', 'washington:0.1151', 'ross:0.1057', 'cancel:0.1007', 'plummet:0.095', 'despite:0.0881', 'forceshandout:0.0782', 'daily:0.0755', 'relations:0.074', 'plus:0.072', 'follow:0.064', 'early:0.0577', 'agree:0.0306', 'download:0.0263']+titles_keywords+['ukraine:0.3545', 'military:0.2659', 'protest:0.2066', 'drills:0.1991', 'black:0.1013']"
+        ]
+    ],
+    "MEX+RUS+120":[
+        [
+            "20220410+../news_crawling/RUS_UKR/p_articles/inquirer.net/Mexico says it does not accept Russian invasion or Ukraine.txt+eventbasecode120+eventcode120+avgtone0.47395833333333326+goldsteinscale0.3+nummentions0.008708272859216255+numarticles0.009427121102248005+numsources0.006578947368421052+news_keywords+['ukraine:0.4852', 'russias:0.4031', 'invasion:0.3502', 'obrador:0.3401', 'mexican:0.3129', 'refugee:0.3015', 'inauguration:0.2179', 'victim:0.2135', 'accept:0.204', 'coincide:0.2017', 'government:0.2016', 'conflict:0.1971', 'news:0.1726', 'sanction:0.1479', 'promise:0.1432', 'read:0.1295', 'neutral:0.119', 'justin:0.1169', 'vote:0.1081', 'chois:0.0969', 'zumpango:0.0906', 'prior:0.0778', 'subscribe:0.0759', 'photo:0.0748', 'agree:0.0635', 'commission:0.0541', 'plus:0.0527', 'internally:0.0415', 'download:0.0163', 'gadget:0.0072']+titles_keywords+['ukraine:0.4228', 'mexico:0.3965', 'invasion:0.2855', 'accept:0.2059', 'does:0.0612']"
+        ]
+    ],
+    "RUS+WST+120":[
+        [
+            "20220208+../news_crawling/RUS_UKR/p_articles/inquirer.net/Ukraines army plans drills with drones antitank missiles from Feb 10.txt+eventbasecode120+eventcode120+avgtone0.492822966507177+goldsteinscale0.3+nummentions0.03955007256894049+numarticles0.04024655547498187+numsources0.03289473684210526+news_keywords+['ukraines:0.4991', 'nato:0.4585', 'kyiv:0.4371', 'military:0.3918', 'drone:0.3671', 'russian:0.3509', 'tactical:0.3505', 'invade:0.3197', 'drill:0.3188', 'reznikov:0.3004', 'armed:0.2807', 'tank:0.257', 'antitank:0.2528', 'strengthen:0.1925', 'javelin:0.1909', 'region:0.1878', 'plan:0.1875', 'fear:0.1639', 'gadget:0.1363', 'use:0.1207', 'daily:0.1137', 'article:0.112', 'feb:0.1102', 'plus:0.1034', 'tv:0.0956', 'subscribe:0.079', 'near:0.0763', 'servicehandout:0.065', 'download:0.0619', 'nlaw:0.0323']+titles_keywords+['drones:0.4271', 'ukraines:0.3886', 'antitank:0.3437', 'drills:0.2705', 'feb:0.1149']"
+        ]
+    ],
+    "WST+RUS+120":[
+        [
+            "20220223+../news_crawling/RUS_UKR/p_articles/inquirer.net/Is the possibility of World War 3 near.txt+eventbasecode120+eventcode120+avgtone0.4796875+goldsteinscale0.3+nummentions0.00362844702467344+numarticles0.00435097897026831+numsources0.003289473684210526+news_keywords+['putin:0.4347', 'ukraines:0.4001', 'nato:0.3992', 'espionage:0.3252', 'invade:0.311', 'cyberattacks:0.2916', 'predict:0.2615', 'strategic:0.2509', 'border:0.2432', 'conflict:0.2431', 'worry:0.2191', 'trigger:0.2186', 'drone:0.2053', 'reunification:0.205', 'ambiguity:0.1881', 'read:0.1789', 'news:0.1762', 'troop:0.1707', 'volodymyr:0.1579', 'global:0.1496', 'end:0.1484', 'want:0.1454', 'shift:0.1381', 'possible:0.1355', 'meet:0.129', 'long:0.1148', 'tectonic:0.1121', 'billion:0.1059', 'coming:0.0988', 'state:0.0815']+titles_keywords+['war:0.3753', 'possibility:0.2073', 'near:0.1966', 'world:0.1939']"
+        ]
+    ]
+}

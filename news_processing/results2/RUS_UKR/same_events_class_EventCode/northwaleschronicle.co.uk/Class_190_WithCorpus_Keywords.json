@@ -1,0 +1,20 @@
+{
+    "RUS+RUS+190":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/northwaleschronicle.co.uk/Street fighting begins in Kyiv as Ukraine president refuses to leave.txt+eventbasecode190+eventcode190+avgtone0.47611788617886175+goldsteinscale0.0+nummentions0.3218432510885341+numarticles0.3223350253807107+numsources0.45394736842105265+news_keywords+['kyiv:0.513', 'ceasefire:0.4414', 'militarily:0.3542', 'putins:0.3284', 'emergency:0.313', 'fight:0.3085', 'diplomatic:0.2984', 'gunfire:0.2781', 'invasion:0.2541', 'proceed:0.2529', 'government:0.2519', 'street:0.217', 'precaution:0.2124', 'stay:0.2117', 'tank:0.2106', 'paratrooper:0.2106', 'storm:0.2033', 'turn:0.2027', 'tweet:0.1693', 'vetoed:0.1666', 'want:0.1562', 'american:0.1533', 'lively:0.1498', 'far:0.1375', 'unclear:0.1328', 'right:0.1194', 'total:0.1144', 'unlike:0.1018', 'highlight:0.0947', 'resolution:0.0895']+titles_keywords+['kyiv:0.4304', 'fighting:0.3772', 'street:0.2478', 'refuses:0.1682', 'president:0.1422']"
+        ]
+    ],
+    "RUS+UKR+190":[
+        [
+            "20220224+../news_crawling/RUS_UKR/p_articles/northwaleschronicle.co.uk/Russia invades Ukraine UK flights ordered to avoid Ukrainian airspace.txt+eventbasecode190+eventcode190+avgtone0.4742990654205607+goldsteinscale0.0+nummentions0.06458635703918723+numarticles0.06526468455402465+numsources0.05921052631578947+news_keywords+['ukraine:0.4824', 'putin:0.4421', 'nato:0.4078', 'demilitarisation:0.3466', 'attack:0.3168', 'aircrafts:0.311', 'boris:0.2918', 'bloodshed:0.2865', 'crisis:0.2607', 'security:0.2486', 'operation:0.2251', 'downing:0.213', 'authority:0.205', 'avoid:0.2017', 'order:0.1677', 'cobra:0.1554', 'shapps:0.1547', 'instruct:0.1512', 'secretary:0.1334', 'continue:0.1305', 'horrific:0.128', 'thursday:0.1215', 'passenger:0.1047', 'tweet:0.1043', 'right:0.1037', 'lively:0.1026', 'televised:0.095', 'truss:0.0754', 'ive:0.0753', 'decisively:0.0478']+titles_keywords+['ukraine:0.4116', 'invades:0.2857', 'airspace:0.2661', 'avoid:0.1944', 'ordered:0.0911']"
+        ],
+        [
+            "20220601+../news_crawling/RUS_UKR/p_articles/northwaleschronicle.co.uk/West promises Ukraine more arms to fend off Russia.txt+eventbasecode190+eventcode190+avgtone0.4826086956521739+goldsteinscale0.0+nummentions0.32329462989840346+numarticles0.3237853517041334+numsources0.46710526315789475+news_keywords+['ukraine:0.4858', 'moscows:0.3782', 'war:0.3353', 'counterattack:0.3224', 'artillery:0.2977', 'escalation:0.2946', 'territory:0.2847', 'sievierodonetsk:0.2589', 'tank:0.254', 'western:0.2472', 'capital:0.2372', 'separatist:0.2372', 'plan:0.2253', 'success:0.2251', 'telegram:0.2243', 'supply:0.2216', 'turn:0.2207', 'assurance:0.2137', 'operate:0.2081', 'help:0.2016', 'storm:0.1958', 'swaths:0.1947', 'long:0.19', 'receive:0.1859', 'governor:0.1702', 'right:0.1648', 'misuse:0.1602', 'say:0.1511', 'focus:0.1508', 'preview:0.123']+titles_keywords+['ukraine:0.4658', 'arms:0.229', 'promises:0.2263', 'west:0.1813', 'fend:0.145']"
+        ]
+    ],
+    "UKR+RUS+190":[
+        [
+            "20220528+../news_crawling/RUS_UKR/p_articles/northwaleschronicle.co.uk/Russia takes small cities as it aims to widen battle in east Ukraine.txt+eventbasecode190+eventcode190+avgtone0.48052536231884063+goldsteinscale0.0+nummentions0.36502177068214803+numarticles0.36548223350253806+numsources0.32894736842105265+news_keywords+['kyiv:0.5173', 'ukraines:0.4735', 'kremlin:0.4588', 'nato:0.3987', 'invade:0.3287', 'separatists:0.2963', 'logistics:0.2478', 'sievierodonetsk:0.2378', 'operation:0.2349', 'increase:0.2118', 'know:0.2074', 'northeast:0.2069', 'telegram:0.2005', 'report:0.1844', 'want:0.1817', 'cite:0.1751', 'stay:0.1741', 'president:0.1666', 'safe:0.165', 'zircon:0.1632', 'resume:0.1469', 'ready:0.1429', 'large:0.1312', 'end:0.1192', 'population:0.1191', 'current:0.1141', 'debate:0.1123', 'powerful:0.1086', 'month:0.0829', 'exporter:0.0788']+titles_keywords+['ukraine:0.4105', 'widen:0.2102', 'battle:0.1699', 'small:0.1665', 'takes:0.1411']"
+        ]
+    ]
+}

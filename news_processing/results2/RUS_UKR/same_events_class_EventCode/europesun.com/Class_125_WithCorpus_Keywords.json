@@ -1,0 +1,12 @@
+{
+    "IND+RUS+125":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/europesun.com/Congress MP Venugopal gives suspension of Business notice to discuss Ukraine crisis.txt+eventbasecode125+eventcode125+avgtone0.4743589743589744+goldsteinscale0.25+nummentions0.006894049346879536+numarticles0.007614213197969543+numsources0.009868421052631578+news_keywords+['sabha:0.4451', 'congress:0.4036', 'suspend:0.3492', 'ukraine:0.3164', 'venugopal:0.3142', 'covid:0.2879', 'conclude:0.2805', 'conflict:0.2668', 'seat:0.2623', 'resume:0.253', 'notice:0.2399', 'protocol:0.2353', 'business:0.2344', 'january:0.2169', 'discus:0.2058', 'day:0.1786', 'decline:0.174', 'distancing:0.1728', 'house:0.1715', 'restriction:0.1705', 'student:0.1702', 'return:0.1671', 'say:0.1484', 'gallery:0.1468', 'budget:0.1355', 'include:0.1354', 'ani:0.1324', 'norm:0.128', 'follow:0.1011', 'kc:0.101']+titles_keywords+['venugopal:0.4838', 'congress:0.2643', 'ukraine:0.2521', 'crisis:0.233', 'notice:0.1992']"
+        ]
+    ],
+    "RUS+RUS+125":[
+        [
+            "20220310+../news_crawling/RUS_UKR/p_articles/europesun.com/Top UN Court Orders Russia to Halt Ukraine Invasion.txt+eventbasecode125+eventcode125+avgtone0.46634615384615385+goldsteinscale0.25+nummentions0.00725689404934688+numarticles0.007976794778825236+numsources0.013157894736842105+news_keywords+['ukraine:0.432', 'genocide:0.3251', 'invasion:0.3013', 'law:0.2588', 'icj:0.2465', 'oppose:0.2129', 'commence:0.2051', 'impose:0.2038', 'separatist:0.2016', 'ignore:0.1964', 'military:0.1948', 'federation:0.177', 'decision:0.1636', 'world:0.156', 'president:0.1501', 'volodymyr:0.1272', 'claim:0.1251', 'concern:0.1234', 'preliminary:0.1211', 'order:0.1158', 'unambiguous:0.1123', 'hear:0.076', 'file:0.0755', 'month:0.0681', 'measure:0.0662', 'impossible:0.0608', 'binding:0.0592', 'acutely:0.0591', 'joan:0.0571', 'aim:0.0252']+titles_keywords+['ukraine:0.4001', 'court:0.2303', 'invasion:0.2281', 'halt:0.1668', 'orders:0.0866']"
+        ]
+    ]
+}

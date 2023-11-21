@@ -1,0 +1,15 @@
+{
+    "CAN+RUS+160":[
+        [
+            "20220308+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Israel to underwrite airlines flying to Russia due to sanctions over Ukraine war.txt+eventbasecode160+eventcode160+avgtone0.48195876288659795+goldsteinscale0.3+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukraine:0.4719', 'putin:0.446', 'israels:0.4083', 'war:0.3483', 'airline:0.3465', 'journalism:0.3229', 'sanction:0.2988', 'boycott:0.2948', 'afp:0.26', 'read:0.2509', 'zelensky:0.2462', 'naftali:0.2396', 'president:0.239', 'acknowledge:0.2254', 'underwriting:0.2188', 'evade:0.2188', 'extend:0.2105', 'el:0.2', 'begin:0.1971', 'mediate:0.1969', 'source:0.1908', 'month:0.1895', 'insightful:0.1749', 'current:0.1746', 'tweet:0.1708', 'like:0.1554', 'exclusive:0.1503', 'page:0.1479', 'delivered:0.142', 'times:0.1317']+titles_keywords+['sanctions:0.3437', 'israel:0.3404', 'underwrite:0.3143', 'airlines:0.3029', 'war:0.1733']"
+        ]
+    ],
+    "RUS+UKR+160":[
+        [
+            "20220222+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/Russia says it will evacuate diplomats from Ukraine soon.txt+eventbasecode160+eventcode160+avgtone0.521523178807947+goldsteinscale0.3+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4216', 'putin:0.3898', 'vladimir:0.3844', 'evacuate:0.3826', 'diplomat:0.3553', 'israel:0.3438', 'moscows:0.3388', 'safety:0.1971', 'news:0.1924', 'jewish:0.1846', 'staff:0.1805', 'soon:0.1602', 'mission:0.1575', 'important:0.1234', 'read:0.1199', 'coverage:0.1054', 'outlet:0.1021', 'pleased:0.0893', 'force:0.0835', 'say:0.0788', 'world:0.0745', 'insightful:0.0667', 'request:0.0649', 'allow:0.0646', 'thats:0.0483', 'start:0.0457', 'unlike:0.0389', 'year:0.0213', 'discern:0.0149', 'little:0.005']+titles_keywords+['ukraine:0.3997', 'evacuate:0.3971', 'diplomats:0.3834', 'soon:0.1612', 'says:0.0099']"
+        ],
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/timesofisrael.com/EU puts top Russian oligarchs on sanctions blacklist for supporting Putin regime.txt+eventbasecode160+eventcode160+avgtone0.4801038062283737+goldsteinscale0.3+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.013157894736842105+news_keywords+['putin:0.5336', 'ukraine:0.4494', 'russias:0.4451', 'oligarchs:0.4393', 'sanction:0.3703', 'blacklist:0.3493', 'peskov:0.3379', 'eu:0.3274', 'disinformation:0.2774', 'invasion:0.2534', 'economy:0.2521', 'oppose:0.2472', 'involvement:0.2434', 'read:0.2242', 'list:0.2224', 'news:0.2188', 'conglomerate:0.2156', 'order:0.2089', 'board:0.1686', 'expose:0.1684', 'benefit:0.1627', 'head:0.1604', 'insightful:0.1591', 'sechin:0.1459', 'pleased:0.134', 'mutually:0.1324', 'like:0.129', 'measure:0.1185', 'housing:0.1014', 'youve:0.0921']+titles_keywords+['sanctions:0.4454', 'putin:0.4352', 'blacklist:0.409', 'oligarchs:0.3964', 'russian:0.3248']"
+        ]
+    ]
+}

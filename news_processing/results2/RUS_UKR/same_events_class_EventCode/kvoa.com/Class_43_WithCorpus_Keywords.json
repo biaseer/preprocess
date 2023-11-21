@@ -1,0 +1,12 @@
+{
+    "EUR+RUS+43":[
+        [
+            "20220505+../news_crawling/RUS_UKR/p_articles/kvoa.com/Karine JeanPierre to become White House press secretary the first Black and out LGBTQ person.txt+eventbasecode43+eventcode43+avgtone0.5070564516129032+goldsteinscale0.64+nummentions0.031204644412191583+numarticles0.03190717911530094+numsources0.03618421052631579+news_keywords+['biden:0.4199', 'secretary:0.3813', 'psaki:0.3543', 'election:0.333', 'announce:0.3247', 'podium:0.3131', 'msnbc:0.3089', 'anita:0.2985', 'pierre:0.2809', 'pentagon:0.2351', 'brief:0.2335', 'takeover:0.2321', 'role:0.2121', 'lgbtq:0.2072', 'white:0.2062', 'write:0.1963', 'report:0.1893', 'say:0.1821', 'replace:0.1798', 'schedule:0.1772', 'history:0.1769', 'public:0.164', 'positive:0.1614', 'depart:0.156', 'shore:0.1382', 'decorum:0.1296', 'set:0.1262', 'unsurprising:0.1136', 'difficult:0.0958', 'covid:0.0944']+titles_keywords+['jeanpierre:0.3966', 'secretary:0.3363', 'white:0.3046', 'lgbtq:0.2896', 'role:0.2741']"
+        ]
+    ],
+    "RUS+UKR+43":[
+        [
+            "20220215+../news_crawling/RUS_UKR/p_articles/kvoa.com/Russia says its withdrawing some troops following exercises around Ukraine but major drills continue.txt+eventbasecode43+eventcode43+avgtone0.49277456647398843+goldsteinscale0.64+nummentions0.03555878084179971+numarticles0.03625815808556925+numsources0.049342105263157895+news_keywords+['crimea:0.5572', 'russiaannounced:0.4863', 'kremlin:0.4488', 'dmitry:0.3819', 'majormilitary:0.3644', 'diplomacy:0.3415', 'annex:0.3368', 'escalation:0.3187', 'invasion:0.2782', 'underway:0.2517', 'choreograph:0.2139', 'concern:0.2138', 'buildup:0.2034', 'talk:0.2007', 'adjacent:0.1998', 'drill:0.1948', 'vacant:0.1903', 'agreement:0.1899', 'cnn:0.1893', 'plan:0.1873', 'operationally:0.1812', 'march:0.18', 'table:0.1794', 'withdraw:0.1789', 'end:0.1756', 'long:0.1715', 'rail:0.1708', 'state:0.1461', 'units:0.1279', 'possibility:0.1087']+titles_keywords+['ukraine:0.358', 'withdrawing:0.2838', 'troops:0.2524', 'exercises:0.231', 'says:0.0177']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "AFR+RUS+42":[
+        [
+            "20220509+../news_crawling/RUS_UKR/p_articles/ewn.co.za/Steenhuisen on visit to Ukraine I wanted to see impact of war with my own.txt+eventbasecode42+eventcode42+avgtone0.4737762237762238+goldsteinscale0.595+nummentions0.0050798258345428155+numarticles0.005801305293691081+numsources0.006578947368421052+news_keywords+['ukraine:0.4733', 'war:0.3307', 'steenhuisen:0.3139', 'cape:0.2757', 'invasion:0.2703', 'democratic:0.2491', 'economy:0.2346', 'briefing:0.2319', 'leader:0.2146', 'visit:0.2087', 'south:0.2081', 'witness:0.2021', 'da:0.1909', 'defend:0.189', 'live:0.1844', 'event:0.1843', 'nowreporting:0.1787', 'pr:0.1779', 'african:0.177', 'cobtva:0.1668', 'link:0.1501', 'wheat:0.1393', 'town:0.1375', 'want:0.1364', 'torn:0.1105', 'version:0.1047', 'sanitised:0.1042', 'mjqstandwithukraine:0.1001', 'accuracy:0.0956', 'lot:0.0799']+titles_keywords+['ukraine:0.5188', 'steenhuisen:0.451', 'war:0.4326', 'visit:0.3519', 'wanted:0.1064']"
+        ]
+    ],
+    "RUS+UKR+42":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/ewn.co.za/Russian troops land in Ukraines second city Kharkiv.txt+eventbasecode42+eventcode42+avgtone0.46956132497761865+goldsteinscale0.595+nummentions0.08055152394775036+numarticles0.08049311094996374+numsources0.20723684210526316+news_keywords+['ukraine:0.4885', 'putin:0.4651', 'invade:0.393', 'escalation:0.3389', 'oligarch:0.3189', 'news:0.2824', 'military:0.2822', 'economy:0.2774', 'unprovoked:0.2651', 'telegram:0.2463', 'cite:0.2399', 'report:0.2391', 'zelensky:0.239', 'butyak:0.2311', 'victory:0.2273', 'order:0.2143', 'congress:0.2026', 'block:0.1995', 'fear:0.199', 'say:0.1828', 'comparison:0.1769', 'big:0.1729', 'promise:0.1723', 'tomorrow:0.1571', 'building:0.1557', 'ready:0.1546', 'barrel:0.1538', 'million:0.1271', 'cram:0.1182', 'rapid:0.102']+titles_keywords+['kharkiv:0.4603', 'ukraines:0.3859', 'troops:0.2312', 'second:0.1509', 'land:0.1195']"
+        ]
+    ]
+}

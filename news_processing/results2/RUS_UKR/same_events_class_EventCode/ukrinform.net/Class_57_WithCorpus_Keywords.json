@@ -1,0 +1,15 @@
+{
+    "RUS+UKR+57":[
+        [
+            "20210706+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukraine has prerequisites for getting EU membership prospects Bodnar.txt+eventbasecode57+eventcode57+avgtone0.5+goldsteinscale0.9+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4118', 'readiness:0.2618', 'diplomat:0.2269', 'join:0.217', 'agreement:0.2093', 'prerequisites:0.2068', 'precondition:0.1987', 'ukrinform:0.1984', 'association:0.1967', 'undertake:0.1951', 'border:0.1884', 'issue:0.1721', 'sign:0.1574', 'positive:0.1557', 'ready:0.1556', 'prospect:0.1533', 'integration:0.1458', 'include:0.1447', 'important:0.1417', 'fact:0.1302', 'change:0.1301', 'follow:0.1282', 'bodnar:0.128', 'state:0.1251', 'fight:0.118', 'process:0.1087', 'level:0.0926', 'line:0.0836', 'accord:0.0644', 'july:0.0601']+titles_keywords+['ukraine:0.4576', 'prerequisites:0.3122', 'bodnar:0.2566', 'prospects:0.2089', 'membership:0.1796']"
+        ],
+        [
+            "20220530+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Enemy keeps Ka52 helicopter squadron ready near Izium.txt+eventbasecode57+eventcode57+avgtone0.46749521988527726+goldsteinscale0.9+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['crimea:0.4815', 'airstrikes:0.3914', 'russians:0.383', 'slovyansk:0.3474', 'tactical:0.3305', 'redeploy:0.3191', 'operation:0.3172', 'artillery:0.2998', 'azov:0.2802', 'tyshky:0.2708', 'ka:0.2561', 'direction:0.2259', 'occupied:0.2009', 'aggressor:0.1961', 'involve:0.1934', 'change:0.1897', 'focus:0.1739', 'damage:0.1607', 'railway:0.1495', 'read:0.145', 'zone:0.145', 'report:0.1449', 'resume:0.1438', 'block:0.1355', 'main:0.1279', 'separate:0.1226', 'battery:0.1124', 'northeastern:0.1019', 'buh:0.1', 'myropillia:0.0147']+titles_keywords+['squadron:0.4559', 'ka52:0.3804', 'izium:0.3452', 'enemy:0.2658', 'ready:0.0976']"
+        ]
+    ],
+    "WST+UKR+57":[
+        [
+            "20211119+../news_crawling/RUS_UKR/p_articles/ukrinform.net/NATO chief speaks of significant buildup of Russian troops on borders with Ukraine.txt+eventbasecode57+eventcode57+avgtone0.5010162601626016+goldsteinscale0.9+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['nato:0.5258', 'crimea:0.4635', 'war:0.2895', 'escalate:0.2444', 'deploy:0.2439', 'reinforcement:0.2307', 'correspondent:0.2242', 'directorate:0.2186', 'protect:0.1873', 'cite:0.1854', 'ally:0.1756', 'training:0.1702', 'explain:0.1698', 'border:0.1691', 'talk:0.1565', 'general:0.1472', 'invest:0.1453', 'addition:0.1383', 'closely:0.137', 'affair:0.1286', 'ukrinform:0.1252', 'newly:0.1249', 'pattern:0.1212', 'friday:0.1131', 'direct:0.1091', 'measure:0.1064', 'big:0.1033', 'stoltenberg:0.0978', 'noted:0.0941', 'end:0.0874']+titles_keywords+['nato:0.404', 'russian:0.2946', 'buildup:0.1496', 'chief:0.1246', 'speaks:0.0918']"
+        ]
+    ]
+}

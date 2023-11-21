@@ -1,0 +1,17 @@
+{
+    "EUR+UKR+10":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Attacks across Ukraine as dozens die in Russian invasion.txt+eventbasecode10+eventcode10+avgtone0.4571129707112971+goldsteinscale0.5+nummentions0.022133526850507984+numarticles0.02284263959390863+numsources0.01644736842105263+news_keywords+['ukraine:0.5119', 'kremlin:0.4192', 'nato:0.3913', 'chernobyl:0.3469', 'invading:0.3169', 'unrest:0.3074', 'separatist:0.2935', 'emergency:0.277', 'frontline:0.268', 'announce:0.2334', 'flee:0.222', 'capital:0.2183', 'curfew:0.2112', 'volodymyr:0.2035', 'plan:0.203', 'president:0.2022', 'iaea:0.202', 'world:0.1921', 'sector:0.1809', 'follow:0.1737', 'thursday:0.1694', 'helicopter:0.1667', 'spook:0.154', 'like:0.1512', 'long:0.146', 'complete:0.1382', 'stock:0.1284', 'reverberate:0.1254', 'export:0.1155', 'dozens:0.0944']+titles_keywords+['ukraine:0.4274', 'attacks:0.3727', 'invasion:0.3646', 'dozens:0.2629', 'die:0.2293']"
+        ]
+    ],
+    "GBR+UKR+10":[
+        [
+            "20220226+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Britains William and Kate tweet Ukraine support.txt+eventbasecode10+eventcode10+avgtone0.5231481481481481+goldsteinscale0.5+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['ukrainian:0.3968', 'ukraines:0.3765', 'kate:0.3376', 'william:0.3353', 'president:0.2545', 'zelensky:0.2482', 'prince:0.2472', 'royal:0.2032', 'geopolitical:0.2031', 'wife:0.1977', 'couple:0.1539', 'london:0.152', 'volodymyr:0.1249', 'lady:0.1166', 'tweet:0.1126', 'afp:0.108', 'people:0.094', 'bravely:0.0873', 'hope:0.0733', 'october:0.0723', 'meet:0.0704', 'privilege:0.0686', 'today:0.0628', 'send:0.0502', 'sign:0.0249', 'stand:0.0166', 'initial:0.0161', 'rare:-0.0001', 'intervention:-0.0044', 'learn:-0.0207']+titles_keywords+['ukraine:0.402', 'kate:0.389', 'william:0.3277', 'tweet:0.2937', 'support:0.1952']"
+        ]
+    ],
+    "RUS+UKR+10":[
+        [
+            "20220716+../news_crawling/RUS_UKR/p_articles/dunyanews.tv/Russia says it will ramp up operations as rockets pound Ukraine.txt+eventbasecode10+eventcode10+avgtone0.47157772621809746+goldsteinscale0.5+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.013157894736842105+news_keywords+['ukraine:0.4562', 'moscows:0.3561', 'reuters:0.3539', 'missiles:0.3444', 'bloodshed:0.3257', 'blockade:0.3168', 'strike:0.2998', 'dnipropetrovsk:0.2963', 'operation:0.2658', 'unprovoked:0.2652', 'synehubov:0.2604', 'kill:0.2541', 'read:0.2475', 'industrial:0.2312', 'telegram:0.2202', 'warning:0.2197', 'intensify:0.2184', 'agreement:0.2135', 'shortly:0.1938', 'order:0.1905', 'spillover:0.1692', 'brief:0.1641', 'people:0.1631', 'feb:0.1439', 'poor:0.1298', 'difference:0.1266', 'export:0.1241', 'cover:0.1232', 'doesnt:0.1013', 'characterize:0.0987']+titles_keywords+['ukraine:0.3733', 'rockets:0.2512', 'ramp:0.0919', 'pound:0.065', 'says:-0.0016']"
+        ]
+    ]
+}

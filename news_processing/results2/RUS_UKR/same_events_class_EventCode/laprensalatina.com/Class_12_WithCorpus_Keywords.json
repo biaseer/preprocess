@@ -1,0 +1,12 @@
+{
+    "EST+UKR+12":[
+        [
+            "20220212+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/US Russia withdraw diplomatic employees from Ukraine.txt+eventbasecode12+eventcode12+avgtone0.49120603015075376+goldsteinscale0.48+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.469', 'invasion:0.3381', 'embassy:0.3204', 'threat:0.3004', 'separatist:0.2872', 'escalation:0.2803', 'annex:0.2729', 'border:0.2557', 'zakharova:0.2502', 'military:0.2466', 'panic:0.2307', 'leave:0.2145', 'undermine:0.1963', 'update:0.1899', 'immediately:0.1771', 'withdrawal:0.1748', 'stability:0.1685', 'week:0.1519', 'order:0.1501', 'continue:0.147', 'term:0.1457', 'credible:0.1376', 'night:0.1272', 'point:0.1263', 'efe:0.1237', 'ready:0.1184', 'dmytro:0.1167', 'additionally:0.1021', 'partner:0.0978', 'homepage:0.0719']+titles_keywords+['ukraine:0.4103', 'russia:0.3044', 'diplomatic:0.2992', 'employees:0.2612', 'withdraw:0.2386']"
+        ]
+    ],
+    "RUS+UKR+12":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/laprensalatina.com/At least 400000 children fleeing Ukraine at risk of hunger abuse.txt+eventbasecode12+eventcode12+avgtone0.45576923076923065+goldsteinscale0.48+nummentions0.0039912917271407835+numarticles0.004713560551124003+numsources0.01644736842105263+news_keywords+['ukraine:0.4976', 'refugee:0.4859', 'shelter:0.3194', 'children:0.307', 'flee:0.3036', 'trafficking:0.2804', 'invasion:0.2775', 'border:0.2645', 'violence:0.2503', 'irina:0.2436', 'exodus:0.2429', 'charity:0.2364', 'distress:0.2329', 'warn:0.1834', 'risk:0.1831', 'hypothermia:0.1625', 'school:0.1579', 'cross:0.1375', 'million:0.1299', 'queues:0.1261', 'enter:0.1215', 'statement:0.1083', 'separate:0.1011', 'save:0.0963', 'unconscionable:0.0926', 'non:0.0846', 'friend:0.0677', 'like:0.0658', 'long:0.0416', 'efe:0.0353']+titles_keywords+['ukraine:0.4467', 'hunger:0.37', 'children:0.3522', 'fleeing:0.3361', '400000:0.1832']"
+        ]
+    ]
+}

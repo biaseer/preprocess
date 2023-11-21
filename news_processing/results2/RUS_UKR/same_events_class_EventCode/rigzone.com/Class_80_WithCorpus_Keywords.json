@@ -1,0 +1,10 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220804+../news_crawling/RUS_UKR/p_articles/rigzone.com/Oil Falls to Pre War Level as Demand Eases.txt+eventbasecode80+eventcode80+avgtone0.47451456310679613+goldsteinscale0.75+nummentions0.007619738751814224+numarticles0.008339376359680928+numsources0.003289473684210526+news_keywords+['opec:0.4748', 'recessionary:0.4123', 'oil:0.3742', 'bullish:0.3237', 'march:0.3096', 'barrel:0.2799', 'data:0.2669', 'output:0.2594', 'market:0.2542', 'season:0.2445', 'alleviate:0.2336', 'differential:0.2303', 'underlying:0.226', 'pre:0.217', 'term:0.2132', 'benchmark:0.2086', 'trigger:0.2014', 'tightness:0.1916', 'russias:0.1899', 'peak:0.1858', 'recent:0.1809', 'fell:0.1789', 'slowdown:0.1723', 'like:0.1628', 'erlam:0.1592', 'pattern:0.1563', 'end:0.1561', 'warning:0.1536', 'biden:0.1382', 'talk:0.1306']+titles_keywords+['oil:0.3484', 'pre:0.2117', 'falls:0.1434', 'demand:0.1348', 'level:0.0608']"
+        ],
+        [
+            "20220818+../news_crawling/RUS_UKR/p_articles/rigzone.com/Oil Rises Again as Strong US Demand Eases Recession Fears.txt+eventbasecode80+eventcode80+avgtone0.4633802816901409+goldsteinscale0.75+nummentions0.013062409288824383+numarticles0.013778100072516316+numsources0.003289473684210526+news_keywords+['recession:0.4292', 'oil:0.4062', 'bullish:0.3703', 'refinery:0.3633', 'liquidity:0.3339', 'fluctuate:0.3203', 'geopolitical:0.3095', 'future:0.2915', 'pump:0.2891', 'crude:0.2756', 'worry:0.264', 'data:0.2583', 'rise:0.2548', 'erdogan:0.2319', 'week:0.2262', 'renew:0.2206', 'recep:0.2148', 'russias:0.1999', 'coincide:0.1968', 'eia:0.1953', 'overall:0.1827', 'long:0.1741', 'reduce:0.1653', 'prices:0.1602', 'outlook:0.155', 'open:0.1449', 'sees:0.1444', 'bok:0.1382', 'zelenskiy:0.1199', 'rhine:0.0886']+titles_keywords+['oil:0.3797', 'recession:0.265', 'rises:0.2459', 'demand:0.2235', 'strong:0.132']"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "IND+UKR+14":[
+        [
+            "20220303+../news_crawling/RUS_UKR/p_articles/daijiworld.com/Escalating tension between Russia and West brings nuclear weapons in focus.txt+eventbasecode14+eventcode14+avgtone0.4842271293375394+goldsteinscale0.5+nummentions0.002902757619738752+numarticles0.0036258158085569255+numsources0.003289473684210526+news_keywords+['disarmament:0.5268', 'nuclear:0.5167', 'icbms:0.4342', 'russia:0.3456', 'proliferation:0.2751', 'warhead:0.2685', 'escalate:0.2665', 'provocation:0.2663', 'stockpile:0.2346', 'concern:0.2201', 'world:0.2157', 'dictator:0.2061', 'sergei:0.2014', 'strategy:0.2001', 'announce:0.1915', 'compare:0.1904', 'north:0.1898', 'slbms:0.1897', 'superpower:0.1674', 'modernize:0.1628', 'note:0.1615', 'use:0.1526', 'trend:0.1392', 'end:0.1362', 'additional:0.1296', 'delhi:0.124', 'idea:0.1202', 'long:0.097', 'send:0.0646', 'bilateral:0.0618']+titles_keywords+['nuclear:0.4373', 'russia:0.2981', 'escalating:0.2667', 'weapons:0.246', 'focus:0.1879']"
+        ]
+    ],
+    "RUS+UKR+14":[
+        [
+            "20210907+../news_crawling/RUS_UKR/p_articles/daijiworld.com/SL launches tourism promotion initiatives with Russia Ukraine.txt+eventbasecode14+eventcode14+avgtone0.49547511312217196+goldsteinscale0.5+nummentions0.009433962264150943+numarticles0.01015228426395939+numsources0.006578947368421052+news_keywords+['lanka:0.4648', 'sri:0.4119', 'tourist:0.3302', 'ukraine:0.3251', 'flight:0.2186', 'report:0.2147', 'covid:0.2022', 'island:0.1996', 'sep:0.1869', 'address:0.1851', 'xinhua:0.1849', 'intimidate:0.1785', 'defame:0.1755', 'initiatives:0.1642', 'employ:0.1579', 'discriminatory:0.143', 'rag:0.1331', 'note:0.1315', 'false:0.1282', 'treatment:0.1268', 'message:0.1176', 'ians:0.1121', 'daijiworld:0.1102', 'cause:0.1076', 'direct:0.1043', 'personal:0.0944', 'say:0.0809', 'worst:0.0791', 'november:0.0654', 'million:0.0544']+titles_keywords+['ukraine:0.4403', 'sl:0.3581', 'tourism:0.3421', 'launches:0.1765', 'initiatives:0.1646']"
+        ],
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/daijiworld.com/US putting pressure on India China Egypt because of cooperation with Russia Lavrov.txt+eventbasecode14+eventcode14+avgtone0.49421965317919075+goldsteinscale0.5+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.006578947368421052+news_keywords+['ukraine:0.4842', 'blackmail:0.3529', 'turks:0.3374', 'peace:0.2945', 'erupt:0.2817', 'lavrov:0.2764', 'defamatory:0.2688', 'report:0.2474', 'concern:0.2455', 'history:0.2455', 'resolve:0.2445', 'provide:0.2335', 'authority:0.2197', 'know:0.2117', 'article:0.1998', 'write:0.1938', 'comment:0.1907', 'cause:0.1782', 'strike:0.1771', 'deceive:0.1748', 'order:0.1723', 'west:0.1645', 'message:0.1609', 'ip:0.1593', 'rt:0.1538', 'daijiworld:0.1347', 'fateful:0.1317', 'ians:0.1316', 'way:0.1221', 'look:0.1214']+titles_keywords+['russia:0.3099', 'pressure:0.2744', 'cooperation:0.2683', 'india:0.2286', 'lavrov:0.2238']"
+        ]
+    ]
+}

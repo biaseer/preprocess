@@ -1,0 +1,17 @@
+{
+    "DEU+UKR+51":[
+        [
+            "20220426+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/Defence minister backs Ukraine striking Russian soil with British weapons.txt+eventbasecode51+eventcode51+avgtone0.483271375464684+goldsteinscale0.67+nummentions0.15529753265602322+numarticles0.1559100797679478+numsources0.17434210526315788+news_keywords+['ukraine:0.4728', 'putin:0.4391', 'nato:0.4351', 'invade:0.3717', 'military:0.2873', 'prepare:0.2788', 'warn:0.2753', 'provoking:0.2655', 'nuclear:0.2637', 'lavrovs:0.2623', 'logistics:0.2534', 'firepower:0.2429', 'news:0.2357', 'attention:0.2215', 'nonsense:0.2182', 'term:0.2034', 'response:0.2007', 'advantage:0.1912', 'order:0.1879', 'strike:0.1876', 'stormer:0.1819', 'blame:0.1648', 'fall:0.1478', 'kit:0.1446', 'mr:0.1233', 'basis:0.114', 'evenly:0.1025', 'hour:0.1003', 'necessarily:0.0974', 'thats:0.0825']+titles_keywords+['ukraine:0.3742', 'striking:0.2176', 'weapons:0.2112', 'backs:0.1292', 'minister:0.081']"
+        ]
+    ],
+    "RUS+UKR+51":[
+        [
+            "20220831+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/Russia temporarily stops gas flow through Nord Stream 1.txt+eventbasecode51+eventcode51+avgtone0.48044692737430167+goldsteinscale0.67+nummentions0.28156748911465895+numarticles0.2820884699057288+numsources0.2532894736842105+news_keywords+['ukraine:0.4247', 'gas:0.3701', 'embargo:0.3543', 'gazprom:0.3358', 'pipeline:0.3125', 'supply:0.2669', 'government:0.2544', 'eus:0.2411', 'invade:0.2357', 'comrzsn:0.2291', 'winter:0.2283', 'report:0.2161', 'agreement:0.2077', 'decrease:0.202', 'ahead:0.2008', 'news:0.1952', 'month:0.1798', 'cite:0.1783', 'implement:0.1767', 'station:0.1747', 'urgent:0.1743', 'term:0.1711', 'bloc:0.1653', 'reserve:0.1633', 'moderate:0.1522', 'potential:0.1384', 'temporarily:0.1298', 'start:0.111', 'xg:0.0858', 'olaf:0.0851']+titles_keywords+['russia:0.282', 'gas:0.2294', 'nord:0.2261', 'stream:0.1913', 'temporarily:0.1682']"
+        ]
+    ],
+    "UKR+RUS+51":[
+        [
+            "20220826+../news_crawling/RUS_UKR/p_articles/glasgowtimes.co.uk/Moscow film festival opens with praise of soldiers in Donbas.txt+eventbasecode51+eventcode51+avgtone0.5165562913907285+goldsteinscale0.67+nummentions0.14550072568940495+numarticles0.1461203770848441+numsources0.2631578947368421+news_keywords+['moscow:0.5014', 'mikhalkov:0.3914', 'nikita:0.344', 'film:0.3283', 'ukraines:0.3146', 'megerdichev:0.2881', 'festival:0.2874', 'anton:0.282', 'donbas:0.2161', 'act:0.2045', 'report:0.1874', 'historical:0.1855', 'academy:0.184', 'award:0.1748', 'industrial:0.1612', 'fight:0.1418', 'hero:0.1283', 'direct:0.1219', 'th:0.1172', 'term:0.116', 'separatist:0.113', 'content:0.1115', 'upload:0.0928', 'world:0.0829', 'come:0.0826', 'big:0.0688', 'burnt:0.0643', 'actually:0.0585', 'outwith:0.0437', 'reduce:0.0402']+titles_keywords+['moscow:0.4091', 'festival:0.3049', 'soldiers:0.2941', 'film:0.2748', 'praise:0.2153']"
+        ]
+    ]
+}

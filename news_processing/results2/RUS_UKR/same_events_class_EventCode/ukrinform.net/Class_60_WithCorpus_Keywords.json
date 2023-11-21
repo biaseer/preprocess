@@ -1,0 +1,17 @@
+{
+    "EUR+UKR+60":[
+        [
+            "20220314+../news_crawling/RUS_UKR/p_articles/ukrinform.net/European Commission President informs Zelensky of 4th package of sanctions against Russia.txt+eventbasecode60+eventcode60+avgtone0.46208530805687204+goldsteinscale0.8+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['putin:0.4809', 'ukraine:0.4456', 'sanction:0.3696', 'zelensky:0.3133', 'eus:0.3094', 'war:0.3031', 'oligarchs:0.2931', 'unprovoked:0.258', 'economy:0.2416', 'informs:0.2326', 'union:0.2279', 'repel:0.1934', 'commission:0.1764', 'february:0.1662', 'invader:0.1632', 'macro:0.1567', 'write:0.1559', 'continue:0.1559', 'package:0.1457', 'step:0.1431', 'include:0.1362', 'increasing:0.1208', 'th:0.116', 'launch:0.115', 'official:0.1139', 'day:0.1031', 'million:0.0979', 'entire:0.097', 'significant:0.095', 'appreciate:0.0504']+titles_keywords+['zelensky:0.4673', 'sanctions:0.3585', '4th:0.207', 'european:0.171', 'package:0.1589']"
+        ]
+    ],
+    "HUN+RUS+60":[
+        [
+            "20210927+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Ukraine reacts to Hungarys new gas deal with Russia.txt+eventbasecode60+eventcode60+avgtone0.4974554707379135+goldsteinscale0.8+nummentions0.012336719883889695+numarticles0.01305293691080493+numsources0.006578947368421052+news_keywords+['ukraine:0.4794', 'treaty:0.3789', 'agreement:0.2453', 'gas:0.2405', 'gazprom:0.2402', 'intergovernmental:0.2324', 'pipeline:0.2249', 'economically:0.2227', 'concern:0.2157', 'transit:0.1996', 'neighborliness:0.1823', 'postponement:0.18', 'coordinate:0.1749', 'sign:0.1653', 'remain:0.1611', 'power:0.1596', 'extension:0.1547', 'implication:0.1504', 'event:0.1481', 'initiate:0.1464', 'szijjarto:0.1417', 'accord:0.1319', 'long:0.1287', 'prepare:0.1272', 'step:0.1219', 'report:0.1173', 'bilateral:0.1166', 'make:0.0992', 'fifth:0.0884', 'today:0.0707']+titles_keywords+['ukraine:0.4825', 'hungarys:0.4107', 'gas:0.2159', 'deal:0.1758', 'reacts:0.1358']"
+        ]
+    ],
+    "PRT+UKR+60":[
+        [
+            "20220227+../news_crawling/RUS_UKR/p_articles/ukrinform.net/Portugal to provide military assistance to Ukraine.txt+eventbasecode60+eventcode60+avgtone0.49137931034482757+goldsteinscale0.8+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.003289473684210526+news_keywords+['ukraine:0.5231', 'portugal:0.439', 'military:0.3858', 'putin:0.3461', 'war:0.2838', 'grenade:0.282', 'operation:0.2635', 'verkhovna:0.2597', 'equipment:0.25', 'donbas:0.2136', 'assistance:0.2074', 'zelensky:0.2073', 'aggressor:0.2016', 'provide:0.1982', 'ukrinform:0.1852', 'president:0.1617', 'law:0.1606', 'imposition:0.158', 'caliber:0.1555', 'martial:0.1457', 'radio:0.1242', 'report:0.1168', 'rada:0.1115', 'begin:0.1041', 'approve:0.1001', 'special:0.0874', 'earlier:0.0868', 'night:0.0815', 'automatic:0.0808', 'head:0.0494']+titles_keywords+['portugal:0.4282', 'ukraine:0.4116', 'military:0.2669', 'assistance:0.2077', 'provide:0.1427']"
+        ]
+    ]
+}

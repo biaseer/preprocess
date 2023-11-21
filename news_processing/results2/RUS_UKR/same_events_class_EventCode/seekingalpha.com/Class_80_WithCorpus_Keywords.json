@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+80":[
+        [
+            "20220316+../news_crawling/RUS_UKR/p_articles/seekingalpha.com/Cameco Why I Think This Uranium FrontRunner Is Going Further Up.txt+eventbasecode80+eventcode80+avgtone0.4996508379888268+goldsteinscale0.75+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.003289473684210526+news_keywords+['uranium:0.5161', 'exxon:0.3384', 'bullish:0.3313', 'finance:0.3294', 'commodity:0.3282', 'uxc:0.3119', 'stock:0.3014', 'pipeline:0.295', 'cameco:0.2826', 'increase:0.2804', 'volatility:0.2684', 'russia:0.255', 'solidifies:0.2412', 'current:0.2351', 'output:0.2178', 'strategically:0.217', 'union:0.2043', 'situation:0.1968', 'research:0.1965', 'forbessimilarly:0.1773', 'previous:0.173', 'reserve:0.1617', 'falloff:0.1584', 'significant:0.1564', 'bottleneck:0.1478', 'cost:0.1363', 'long:0.1315', 'submit:0.1252', 'look:0.1142', 'shel:0.0951']+titles_keywords+['uranium:0.4883', 'frontrunner:0.4107', 'cameco:0.371', 'going:0.1298', 'think:0.108']"
+        ]
+    ],
+    "UKR+RUS+80":[
+        [
+            "20220321+../news_crawling/RUS_UKR/p_articles/seekingalpha.com/Ukraine War Update Biden warns on cyberattacks Ukraine wont surrender Mariupol.txt+eventbasecode80+eventcode80+avgtone0.47222222222222227+goldsteinscale0.75+nummentions0.018505079825834544+numarticles0.019216823785351705+numsources0.039473684210526314+news_keywords+['ukraine:0.5325', 'putin:0.4831', 'cyberattacks:0.4139', 'pravda:0.402', 'politics:0.3328', 'embargo:0.3048', 'biden:0.2729', 'vereshchuk:0.2653', 'news:0.2577', 'pipeline:0.2557', 'deploy:0.2542', 'warn:0.2325', 'fight:0.2279', 'supplier:0.2132', 'instead:0.2071', 'incoming:0.201', 'fiscal:0.1999', 'weapon:0.1994', 'current:0.1835', 'reestablish:0.1755', 'rank:0.1719', 'begin:0.1714', 'secretary:0.1696', 'fall:0.1682', 'intersect:0.1664', 'visit:0.1426', 'major:0.1397', 'wheat:0.1325', 'hypersonic:0.1196', 'largely:0.1096']+titles_keywords+['cyberattacks:0.3944', 'ukraine:0.3759', 'biden:0.3229', 'mariupol:0.231', 'wont:0.1965']"
+        ]
+    ]
+}

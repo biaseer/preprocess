@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+73":[
+        [
+            "20220302+../news_crawling/RUS_UKR/p_articles/foxnews.com/Ukrainian animal sanctuary evacuates animals to Polish zoo report.txt+eventbasecode73+eventcode73+avgtone0.5099601593625498+goldsteinscale0.8699999999999999+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kyiv:0.5356', 'poznan:0.5008', 'zoo:0.4002', 'polish:0.3952', 'niemczuk:0.3193', 'veterinary:0.3039', 'evacuate:0.264', 'pawe:0.2613', 'tank:0.22', 'border:0.2188', 'bombing:0.1969', 'officer:0.1729', 'sanctuary:0.1669', 'hollan:0.1628', 'report:0.1606', 'update:0.1603', 'fear:0.1541', 'story:0.1504', 'night:0.1323', 'goal:0.1293', 'tragic:0.1195', 'usual:0.1142', 'come:0.114', 'bad:0.0951', 'receive:0.082', 'today:0.0814', 'continue:0.0739', 'thank:0.0694', 'long:0.0685', 'according:0.0455']+titles_keywords+['zoo:0.4348', 'ukrainian:0.3089', 'evacuates:0.2684', 'sanctuary:0.2563', 'report:0.1284']"
+        ]
+    ],
+    "UKR+RUS+73":[
+        [
+            "20220807+../news_crawling/RUS_UKR/p_articles/foxnews.com/Ukrainian woman continues mission to find and rescue animals from UkraineRussia war zones.txt+eventbasecode73+eventcode73+avgtone0.49504950495049505+goldsteinscale0.8699999999999999+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['ukraine:0.4642', 'rescue:0.4159', 'war:0.345', 'animals:0.3274', 'domesticate:0.3139', 'organisation:0.3071', 'feed:0.2926', 'fund:0.2847', 'flee:0.2577', 'story:0.2571', 'locate:0.2536', 'understand:0.2498', 'want:0.2494', 'continue:0.2442', 'afraid:0.2347', 'woman:0.2333', 'roe:0.2264', 'deliver:0.2141', 'popova:0.2136', 'resource:0.1943', 'fabricating:0.1749', 'powerful:0.1743', 'ap:0.1704', 'house:0.1609', 'private:0.1581', 'month:0.1542', 'new:0.1429', 'says:0.1188', 'offset:0.116', 'cost:0.1105']+titles_keywords+['ukrainian:0.3784', 'rescue:0.3303', 'woman:0.2618', 'animals:0.2312', 'war:0.1957']"
+        ]
+    ]
+}

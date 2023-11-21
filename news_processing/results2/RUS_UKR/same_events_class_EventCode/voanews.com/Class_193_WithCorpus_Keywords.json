@@ -1,0 +1,13 @@
+{
+    "GBR+UKR+193":[
+        [
+            "20220812+../news_crawling/RUS_UKR/p_articles/voanews.com/Zaporizhzhia the Nuclear Plant in the Eye of the War in Ukraine.txt+eventbasecode193+eventcode193+avgtone0.48019271948608144+goldsteinscale0.0+nummentions0.010159651669085631+numarticles0.010877447425670777+numsources0.009868421052631578+news_keywords+['chernobyl:0.5831', 'fukushima:0.5333', 'reactor:0.3862', 'uranium:0.3376', 'ukrainian:0.3053', 'disaster:0.286', 'isotopes:0.274', 'wartime:0.2458', 'warn:0.1985', 'operate:0.1894', 'megawatt:0.1628', 'artillery:0.1597', 'grid:0.1552', 'iaea:0.1504', 'futures:0.1489', 'march:0.144', 'evaporate:0.1136', 'changeover:0.1079', 'kamikaze:0.1025', 'probability:0.0986', 'materials:0.0984', 'uragan:0.0849', 'auxiliary:0.0825', 'th:0.0778', 'nea:0.0752', 'state:0.0739', 'stressful:0.0726', 'housing:0.0587', 'total:0.0536', 'like:0.049']+titles_keywords+['nuclear:0.5211', 'zaporizhzhia:0.5209', 'ukraine:0.4761', 'war:0.3071', 'plant:0.2189']"
+        ]
+    ],
+    "RUS+UKR+193":[
+        [],
+        [
+            "20220811+../news_crawling/RUS_UKR/p_articles/voanews.com/IAEA Chief No Immediate Threat to Nuclear Safety at Ukrainian Site.txt+eventbasecode193+eventcode193+avgtone0.4834905660377358+goldsteinscale0.0+nummentions0.00181422351233672+numarticles0.0025380710659898475+numsources0.009868421052631578+news_keywords+['nuclear:0.4348', 'demilitarization:0.416', 'iaea:0.3899', 'zaporizhzhia:0.3395', 'ukraines:0.3228', 'threat:0.2813', 'safeguard:0.271', 'urgent:0.2689', 'mission:0.2467', 'proceed:0.2446', 'cooperate:0.2301', 'facility:0.2204', 'government:0.2109', 'maintenance:0.1889', 'secretary:0.1846', 'watchdog:0.1817', 'report:0.1726', 'immediate:0.1709', 'control:0.1449', 'condition:0.1402', 'agree:0.1348', 'overarch:0.111', 'state:0.1101', 'say:0.1072', 'perimeter:0.1061', 'june:0.1009', 'head:0.0967', 'possible:0.0817', 'longer:0.0774', 'data:0.0751']+titles_keywords+['iaea:0.4186', 'nuclear:0.3778', 'ukrainian:0.3152', 'threat:0.3028', 'immediate:0.1435']"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+138":[
+        [
+            "20220301+../news_crawling/RUS_UKR/p_articles/tass.com/Military operation in UkraineRussian Defense Ministry warns about strikes being prepared on military sites in.txt+eventbasecode138+eventcode138+avgtone0.47142857142857136+goldsteinscale0.15+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraine:0.4679', 'putin:0.3853', 'operation:0.3594', 'troop:0.3292', 'relay:0.3171', 'occupy:0.2859', 'nationalist:0.2845', 'provocation:0.282', 'populationtagsukrainemilitary:0.277', 'attack:0.2691', 'warn:0.2646', 'security:0.2234', 'plan:0.2198', 'information:0.2109', 'involve:0.2016', 'march:0.2003', 'pso:0.1977', 'prepared:0.182', 'technological:0.1808', 'president:0.1785', 'station:0.1661', 'incapacitate:0.1585', 'near:0.1339', 'donbass:0.1326', 'special:0.1144', 'sbu:0.1024', 'saidon:0.1012', 'main:0.098', 'head:0.067', 'whatsoever:0.0427']+titles_keywords+['kiev:0.4611', 'military:0.3331', 'relay:0.2601', 'pso:0.2522', 'provocations:0.2443']"
+        ]
+    ],
+    "UKR+RUS+138":[
+        [
+            "20220217+../news_crawling/RUS_UKR/p_articles/tass.com/Ukraines security council chief sees no threat of Russian attackUkraines National Security and Defense Council.txt+eventbasecode138+eventcode138+avgtone0.4619883040935672+goldsteinscale0.15+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['ukraineregarding:0.5252', 'kremlin:0.4022', 'threaten:0.375', 'invade:0.3505', 'provocationsthere:0.3209', 'escalation:0.3116', 'dmitry:0.3096', 'crisis:0.2513', 'operation:0.2397', 'corroborate:0.2345', 'saiddanilov:0.2285', 'unsubstantiated:0.2015', 'consequence:0.1974', 'attackukraines:0.1931', 'respond:0.1793', 'sign:0.1729', 'security:0.1663', 'statement:0.1582', 'regarding:0.1495', 'ready:0.143', 'arm:0.1366', 'thursday:0.1106', 'television:0.1059', 'dont:0.1055', 'council:0.1042', 'powerfully:0.0992', 'doesnt:0.0896', 'tass:0.0866', 'western:0.0854', 'flurry:0.0567']+titles_keywords+['ukraineregarding:0.4614', 'danilov:0.366', 'threaten:0.2673', 'unsubstantiated:0.15', 'doesnt:0.052']"
+        ]
+    ]
+}

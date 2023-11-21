@@ -1,0 +1,10 @@
+{
+    "UKR+RUS+35":[
+        [
+            "20211223+../news_crawling/RUS_UKR/p_articles/europesun.com/Russia planning nuclear attack Ukraine claims.txt+eventbasecode35+eventcode35+avgtone0.4688427299703264+goldsteinscale0.85+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['kremlin:0.4456', 'kiev:0.4134', 'disarmament:0.3792', 'nuclear:0.3712', 'provocation:0.2716', 'lavrov:0.2707', 'warn:0.2474', 'dangerous:0.2455', 'concern:0.2389', 'preparation:0.2306', 'warhead:0.2203', 'lead:0.1812', 'troop:0.168', 'border:0.1669', 'accuse:0.1567', 'signal:0.1554', 'foreground:0.1531', 'increase:0.1503', 'continue:0.1463', 'launch:0.1319', 'contact:0.1295', 'speaking:0.1261', 'come:0.1234', 'state:0.1157', 'plot:0.1155', 'week:0.0982', 'new:0.0982', 'rada:0.0737', 'guarantor:0.0678', 'actually:0.0624']+titles_keywords+['ukraine:0.3764', 'nuclear:0.3544', 'attack:0.2551', 'planning:0.1407', 'claims:0.089']"
+        ],
+        [
+            "20220712+../news_crawling/RUS_UKR/p_articles/europesun.com/Live Kyiv warns Russia preparing to step up Donbas offensive.txt+eventbasecode35+eventcode35+avgtone0.47307692307692306+goldsteinscale0.85+nummentions0.02104499274310595+numarticles0.01885424220449601+numsources0.019736842105263157+news_keywords+['kyiv:0.5037', 'uavs:0.3711', 'war:0.3591', 'iranian:0.3045', 'timeline:0.2667', 'artillery:0.2614', 'soon:0.2415', 'prepare:0.2407', 'know:0.2403', 'update:0.2385', 'safe:0.2291', 'blog:0.2197', 'live:0.2164', 'intensify:0.2158', 'east:0.2082', 'turn:0.1996', 'bucha:0.1912', 'adviser:0.1863', 'supply:0.1756', 'capture:0.1754', 'donbas:0.1746', 'main:0.1729', 'sign:0.1677', 'consolidate:0.1641', 'gmt:0.1609', 'unit:0.1479', 'jake:0.1434', 'proof:0.1413', 'day:0.1298', 'include:0.1039']+titles_keywords+['kyiv:0.5375', 'donbas:0.3745', 'warns:0.2696', 'live:0.213', 'preparing:0.1383']"
+        ]
+    ]
+}

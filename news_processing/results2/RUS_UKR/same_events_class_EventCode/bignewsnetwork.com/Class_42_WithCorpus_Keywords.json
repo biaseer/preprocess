@@ -1,0 +1,17 @@
+{
+    "CAN+UKR+42":[
+        [
+            "20220716+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Russia requests documents on Nord Stream turbine return.txt+eventbasecode42+eventcode42+avgtone0.48083067092651754+goldsteinscale0.595+nummentions0.005805515239477504+numarticles0.006526468455402465+numsources0.009868421052631578+news_keywords+['pipeline:0.378', 'russia:0.3386', 'siemens:0.315', 'turbine:0.3086', 'gas:0.2705', 'gazprom:0.2691', 'industrial:0.2658', 'maintenance:0.2618', 'nord:0.2553', 'sanction:0.2387', 'supply:0.2348', 'export:0.2289', 'negotiation:0.2219', 'ottawa:0.2189', 'document:0.2184', 'obligation:0.1923', 'cite:0.1916', 'allow:0.1883', 'jeopardise:0.1778', 'ship:0.1709', 'function:0.1666', 'return:0.1606', 'route:0.1464', 'request:0.1386', 'despite:0.1349', 'statement:0.1342', 'news:0.1317', 'prior:0.1072', 'interfax:0.0945', 'state:0.0888']+titles_keywords+['turbine:0.2981', 'nord:0.2707', 'russia:0.2594', 'documents:0.2148', 'return:0.1181']"
+        ]
+    ],
+    "RUS+IRN+42":[
+        [
+            "20220721+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Putins visit turns Tehran into the global capital of diplomacy.txt+eventbasecode42+eventcode42+avgtone0.48807339449541287+goldsteinscale0.595+nummentions0.011611030478955007+numarticles0.012327773749093546+numsources0.01644736842105263+news_keywords+['putin:0.52', 'diplomacy:0.4544', 'syria:0.453', 'tehran:0.4017', 'astana:0.3253', 'meeting:0.3002', 'regime:0.2938', 'gazprom:0.2478', 'news:0.2392', 'tripartite:0.228', 'border:0.2218', 'report:0.216', 'capital:0.2155', 'attention:0.2117', 'approval:0.1957', 'worry:0.1826', 'counterpart:0.1803', 'global:0.1744', 'turn:0.1675', 'drone:0.1479', 'schedule:0.1477', 'recep:0.142', 'quoting:0.1205', 'difference:0.1158', 'state:0.1138', 'faltering:0.1061', 'largely:0.0985', 'fulfil:0.0975', 'interested:0.0802', 'generate:0.0761']+titles_keywords+['diplomacy:0.532', 'tehran:0.4673', 'putins:0.4157', 'capital:0.3491', 'turns:0.1592']"
+        ]
+    ],
+    "RUS+USA+42":[
+        [
+            "20220720+../news_crawling/RUS_UKR/p_articles/bignewsnetwork.com/Ukrainian First Lady to Address US Lawmakers.txt+eventbasecode42+eventcode42+avgtone0.5+goldsteinscale0.595+nummentions0.014876632801161103+numarticles0.01559100797679478+numsources0.023026315789473683+news_keywords+['ukraine:0.5055', 'zelenska:0.3993', 'pelosi:0.3447', 'president:0.3093', 'democracy:0.2613', 'olena:0.2411', 'lawmakers:0.2329', 'visit:0.2132', 'hear:0.2084', 'lady:0.1975', 'timely:0.1961', 'invasion:0.1844', 'speaker:0.1812', 'flag:0.1811', 'gratitude:0.1667', 'unannounced:0.1631', 'hydrangeas:0.146', 'day:0.1403', 'bouquet:0.138', 'fight:0.1375', 'school:0.1356', 'house:0.1327', 'continue:0.1251', 'capitol:0.1116', 'support:0.1009', 'color:0.097', 'set:0.0673', 'terrible:0.0635', 'directly:0.0532', 'cost:0.0216']+titles_keywords+['ukrainian:0.3507', 'lawmakers:0.2775', 'lady:0.2246', 'address:0.1178']"
+        ]
+    ]
+}

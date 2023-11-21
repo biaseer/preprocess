@@ -1,0 +1,15 @@
+{
+    "RUS+GBR+194":[
+        [
+            "20220428+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Ukraine war could last 10 years as UK warns Putin is less trustworthy than USSR.txt+eventbasecode194+eventcode194+avgtone0.47089397089397084+goldsteinscale0.0+nummentions0.0010885341074020319+numarticles0.0018129079042784628+numsources0.0+news_keywords+['ukraine:0.4834', 'nato:0.4055', 'putins:0.4029', 'war:0.3677', 'missiles:0.2837', 'threaten:0.2731', 'strategic:0.2635', 'boris:0.2577', 'destabilise:0.2477', 'interfere:0.2384', 'government:0.2323', 'prepare:0.2322', 'volodymyr:0.2082', 'concerned:0.2058', 'border:0.2026', 'transnistria:0.1952', 'secretary:0.1884', 'long:0.1698', 'know:0.1679', 'report:0.1589', 'stark:0.1487', 'continue:0.1479', 'order:0.1464', 'increasingly:0.1464', 'wider:0.1403', 'truss:0.1071', 'week:0.0997', 'decade:0.0927', 'incredible:0.0622', 'way:0.031']+titles_keywords+['putin:0.4003', 'war:0.3118', 'years:0.3095', '10:0.1696', 'warns:0.1377']"
+        ]
+    ],
+    "RUS+UKR+194":[
+        [
+            "20220319+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Shocking moment Russias first ever invisible hypersonic missile hits Ukrainian target.txt+eventbasecode194+eventcode194+avgtone0.48754448398576516+goldsteinscale0.0+nummentions0.0021770682148040637+numarticles0.0029006526468455403+numsources0.0+news_keywords+['missiles:0.5497', 'ukraines:0.4141', 'russian:0.3921', 'putin:0.3889', 'hypersonic:0.3425', 'aviation:0.2967', 'kinzhal:0.2875', 'terrify:0.2512', 'news:0.2486', 'strategic:0.2477', 'briefing:0.2431', 'konashenkov:0.2376', 'unleash:0.2259', 'investigate:0.2149', 'hit:0.1939', 'aim:0.1882', 'technology:0.1869', 'described:0.1823', 'precision:0.1746', 'snow:0.1726', 'invisible:0.166', 'quick:0.1639', 'footage:0.1627', 'warehouse:0.1328', 'moment:0.1279', 'control:0.126', 'soldier:0.1259', 'run:0.1137', 'series:0.0946', 'send:0.0692']+titles_keywords+['hypersonic:0.415', 'missile:0.3965', 'russias:0.3274', 'invisible:0.3044', 'moment:0.1464']"
+        ],
+        [
+            "20220507+../news_crawling/RUS_UKR/p_articles/dailystar.co.uk/Putins new flagship warship on fire after Ukraine strike just weeks after Moskva sunk.txt+eventbasecode194+eventcode194+avgtone0.4701492537313433+goldsteinscale0.0+nummentions0.001451378809869376+numarticles0.002175489485134155+numsources0.0+news_keywords+['kremlin:0.4867', 'putins:0.4553', 'ukraine:0.4178', 'dmitry:0.4136', 'peskov:0.4045', 'warship:0.3929', 'missiles:0.3373', 'pentagon:0.3242', 'attack:0.2646', 'news:0.2535', 'flagship:0.2361', 'sink:0.2237', 'president:0.2126', 'report:0.2092', 'involvement:0.2045', 'disastrous:0.175', 'careful:0.1712', 'neptune:0.1558', 'recent:0.1327', 'mark:0.1283', 'buk:0.12', 'big:0.1159', 'ww:0.114', 'secretly:0.11', 'tass:0.1017', 'replace:0.1016', 'say:0.0997', 'despite:0.095', 'wince:0.0949', 'deal:0.0612']+titles_keywords+['warship:0.3797', 'putins:0.3215', 'moskva:0.287', 'new:0.2', 'strike:0.1699']"
+        ]
+    ]
+}

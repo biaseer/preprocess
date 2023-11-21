@@ -1,0 +1,17 @@
+{
+    "RUS+EUR+111":[
+        [
+            "20220225+../news_crawling/RUS_UKR/p_articles/thehill.com/Ukraine minister decries Russian war crimes on schools orphanages.txt+eventbasecode111+eventcode111+avgtone0.45751633986928103+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['ukraine:0.5073', 'kremlin:0.4593', 'targetingrussian:0.4174', 'invasion:0.3394', 'war:0.3371', 'sanction:0.3283', 'sergey:0.3195', 'humanitarian:0.2889', 'government:0.2888', 'pandemic:0.2801', 'aggression:0.2618', 'hague:0.2482', 'report:0.2424', 'evil:0.2125', 'devastate:0.2051', 'isolate:0.205', 'kindergarten:0.1955', 'respond:0.1949', 'immediately:0.1863', 'come:0.1751', 'format:0.1652', 'rag:0.1629', 'dmytro:0.1614', 'future:0.1594', 'weapon:0.1522', 'andannounced:0.1416', 'fridayto:0.1146', 'fully:0.1013', 'transfer:0.1004', 'hascondemned:0.0271']+titles_keywords+['ukraine:0.4223', 'orphanages:0.3333', 'war:0.2213', 'minister:0.1428', 'decries:0.0571']"
+        ]
+    ],
+    "RUS+UKR+111":[
+        [
+            "20210613+../news_crawling/RUS_UKR/p_articles/thehill.com/Biden prepares to confront Putin.txt+eventbasecode111+eventcode111+avgtone0.4859387923904053+goldsteinscale0.4+nummentions0.0+numarticles0.0007251631617113851+numsources0.0+news_keywords+['putin:0.5334', 'biden:0.4436', 'communicate:0.2992', 'allies:0.2905', 'escalation:0.2844', 'cordial:0.2803', 'meddle:0.2673', 'eurasia:0.2642', 'briefed:0.2631', 'bidens:0.2572', 'meet:0.2548', 'prepare:0.2367', 'predict:0.2332', 'cyberattack:0.2231', 'polarization:0.2134', 'spar:0.2107', 'know:0.2098', 'affair:0.2062', 'history:0.2054', 'seek:0.1985', 'annexed:0.1965', 'policy:0.1903', 'secretary:0.1808', 'brookings:0.1664', 'navalny:0.1565', 'draw:0.1449', 'state:0.1236', 'sure:0.1158', 'contrary:0.1132', 'week:0.1008']+titles_keywords+['biden:0.5179', 'putin:0.4205', 'confront:0.2876', 'prepares:0.2127']"
+        ]
+    ],
+    "WST+RUS+111":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/thehill.com/NATO chief Use of chemical weapons by Russia would violate international law.txt+eventbasecode111+eventcode111+avgtone0.4710144927536232+goldsteinscale0.4+nummentions0.000362844702467344+numarticles0.0010877447425670776+numsources0.0+news_keywords+['nato:0.4333', 'ukrainian:0.3979', 'syria:0.3679', 'russias:0.3469', 'chemical:0.2616', 'invasion:0.261', 'assad:0.2196', 'weapon:0.212', 'escalate:0.2036', 'conflict:0.1784', 'ban:0.1684', 'ally:0.1643', 'horrific:0.16', 'nbcs:0.1571', 'jake:0.1438', 'secretary:0.1403', 'act:0.1348', 'stoltenberg:0.1299', 'turn:0.1238', 'meet:0.1235', 'know:0.1179', 'end:0.1102', 'law:0.1029', 'state:0.1015', 'todd:0.0986', 'sector:0.091', 'directly:0.0824', 'course:0.066', 'sunday:0.0449', 'potentially:0.0239']+titles_keywords+['nato:0.4897', 'chemical:0.272', 'weapons:0.2084', 'violate:0.1371', 'chief:0.0996']"
+        ]
+    ]
+}

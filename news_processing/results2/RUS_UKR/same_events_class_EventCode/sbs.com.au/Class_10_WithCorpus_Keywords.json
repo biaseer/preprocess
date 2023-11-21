@@ -1,0 +1,12 @@
+{
+    "RUS+UKR+10":[
+        [
+            "20220320+../news_crawling/RUS_UKR/p_articles/sbs.com.au/Humanitarian situation in besieged Ukrainian cities dire as Russian shelling blocks aid efforts.txt+eventbasecode10+eventcode10+avgtone0.4576427255985267+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['kyiv:0.5275', 'war:0.3872', 'evacuate:0.3709', 'civilians:0.3659', 'refugee:0.3435', 'propaganda:0.3384', 'besieged:0.3211', 'destroy:0.3182', 'escalation:0.2932', 'artillery:0.2887', 'kinzhal:0.2868', 'aid:0.2772', 'industrial:0.256', 'scare:0.2382', 'wreckage:0.2163', 'afp:0.2156', 'east:0.215', 'deliver:0.2095', 'continue:0.2064', 'corridor:0.2004', 'deteriorate:0.2001', 'fundamentally:0.1658', 'tweet:0.1582', 'hit:0.1556', 'coordinator:0.1524', 'long:0.1438', 'century:0.1275', 'wednesday:0.1213', 'search:0.1167', 'total:0.1147']+titles_keywords+['besieged:0.3998', 'ukrainian:0.3956', 'humanitarian:0.3349', 'cities:0.2489', 'situation:0.1582']"
+        ]
+    ],
+    "UKR+RUS+10":[
+        [
+            "20220828+../news_crawling/RUS_UKR/p_articles/sbs.com.au/Ukrainians told to prepare for nuclear disaster after more Russian shelling in Zaporizhzhia.txt+eventbasecode10+eventcode10+avgtone0.47416020671834624+goldsteinscale0.5+nummentions0.000725689404934688+numarticles0.0014503263234227702+numsources0.0+news_keywords+['ukraine:0.4949', 'putin:0.4328', 'zelenskyy:0.3541', 'nuclear:0.3281', 'war:0.3178', 'demilitarise:0.3151', 'threaten:0.2752', 'crisis:0.2729', 'concern:0.2691', 'operation:0.2614', 'prepare:0.253', 'information:0.2327', 'president:0.2171', 'telegram:0.216', 'halt:0.2152', 'displaced:0.2063', 'iaea:0.2045', 'report:0.2042', 'baseless:0.1935', 'turn:0.1933', 'extend:0.1905', 'watchdog:0.1804', 'shelling:0.1726', 'thursday:0.1693', 'agreement:0.1688', 'sich:0.1649', 'grid:0.1626', 'produce:0.1499', 'ria:0.1435', 'perceive:0.1364']+titles_keywords+['ukrainians:0.3912', 'zaporizhzhia:0.3286', 'nuclear:0.2976', 'prepare:0.2967', 'shelling:0.1079']"
+        ]
+    ]
+}
