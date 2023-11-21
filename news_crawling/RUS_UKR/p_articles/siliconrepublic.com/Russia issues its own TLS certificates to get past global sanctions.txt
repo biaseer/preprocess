@@ -1,0 +1,21 @@
+Russia issues its own TLS certificates to get past global sanctions
+20220311
+https://www.siliconrepublic.com/comms/russia-internet-tls-certificates-domestic-sanctions
+One source within the provider told Forbes that some of Triolans internal computers stopped working because the attackers managed to reset some devices back to factory settings. As a result of the attack, there are reports of internet outages occurring in parts of Ukraine.
+Cyberattacks on Ukraine have continued since then and Ukrainian internet service provider Triolan told Forbes that it has been hacked twice in recent months.
+It is expected that Russia is planning limit its reliance on the global internet very soon. According to Kremlin documents, it is planning to disconnect from the global internet from today 11 March, Vice reported.
+As a result of sanctions, signing authorities in many countries will no longer be able to accept payments from Russia, according to BleepingComputer, which could leave sites in the country unable to renew their certificates.
+There has been a reported 25pc spike in cyberattacks around the world over the last two weeks, with Ukraine bearing the brunt of this activity. Cybersecurity companies are offering their services to US critical infrastructure organisations for free in anticipation of a potential Russian cyberattack.
+According to cybersecurity group NetBlocks, Triolan was hacked on 24 February when the invasion began and again on 9 March.
+In the days leading up to the invasion, there were reports of multiple cyberattacks hitting Ukrainian computers and websites, likely a form of hybrid warfare by Russia.
+A notice on Russias public service portal, Gosuslugi, says that it is offering these certificates to replace foreign security certs if they expire or are revoked.
+While a domestic entity issuing TLS certificates could be a potential solution to this problem, it is unclear which browsers will accept these certificates.
+Russia has set up its own Transport Layer Security TLS certificate authority to help Russians bypass website access issues arising from global sanctions imposed on the country.
+Dont miss out on the knowledge you need to succeed. Sign up for the Daily Brief, Silicon Republics digest of need-to-know sci-tech news.
+Russias invasion of Ukraine was launched on multiple fronts including the digital world, as the country was hit by a massive cyberattack a month prior to the invasion, with the Ukrainian government suggesting its neighbour was behind the incident.
+Russia suffered a hit to its online traffic earlier this week, as US company Cogent Communications  reportedly the second largest internet carrier out of Russia  terminated services for clients in the country. Internet service provider Lumen also made the decision to cut off its connectiondue to increased security risk inside Russia.
+Russia,             telecoms,             cyberattacks,             ISPs,             networks,             internet
+Russia is offering these certificates to replace foreign security certs that sites are unable to renew as a result of sanctions.
+Following the invasion of Ukraine, Russia has been hit with sanctions and restrictions from many countries around the world along with organisations in the tech space.
+Once certificates expire, many browsers such as Google Chrome or Mozilla Firefox display warnings that the pages are not secure, which can drive users away from the site.
+TLS is a cryptographic protocol that provides security for data sent between applications over the internet. A TLS certificate helps a web browser confirm that a domain is a verified entity and that there is encryption between the user and the server.

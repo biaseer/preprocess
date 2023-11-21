@@ -1,0 +1,31 @@
+Fresh reports highlight content moderation issues at Facebook
+20220401
+https://www.siliconrepublic.com/business/facebook-meta-content-moderation
+Another CCDH report found that the social media platform had also failed to add misinformation warning labels to posts promoting articles from the worlds leading publishers of climate denial.
+A now-fixed bug potentially led to increased views of harmful content on the platform, while a study found that many conspiracy theory articles were not labelled as misinformation.
+A spokesperson from Facebooks parent company Meta confirmed the incident in a statement to the Verge and said the bug has not had any meaningful, long-term impact on our metrics.
+A third report, published this week in The New York Times, has identified another issue when it comes to content moderation at Facebook.
+A bug that led to a massive ranking failure left Facebook users exposed to harmful content.
+The bug meant that posts from repeat misinformation offenders were being distributed instead of suppressed, boosting views by as much as 30pc worldwide. According to an internal report on the incident seen by The Verge, the ranking issue was fixed on 11 March.
+According to The Guardian, a new study released by the Center for Countering Digital Hate CCDH said the social media platform failed to label 80pc of articles promoting a conspiracy theory that the US is funding bioweapons for Ukraine as misinformation.
+A report from the non-profit in February found that many posts containing Russian propaganda about Ukraine did not carry any warning labels highlighting misinformation.
+In December 2019, a group of moderators sought damages for personal injuries caused by exposure to graphic content while working on behalf of Facebook in Dublin. In May 2020, Facebook agreed to pay a settlement of $52m to current and former content moderators who said they developed mental health issues from their work.
+This is not the first time the CCDH has identified shortcomings in the companys labelling of false information.
+Imran Ahmed, chief executive of the non-profit disinformation research group, said conspiracy theories are given a free pass in the majority of cases.
+We have the most robust system for fact-checking false claims of any platform and our fact-checking partners have debunked dozens of claims about the Ukrainian bioweapons hoax in several languages including Ukrainian, Russian and English, they said.
+With millions of new Facebook posts going live every day, making judgements on moderating all of this content while being subjected to distressing images can lead to serious struggles for those working in content moderation.
+Antigone Davis, head of safety for Meta, confirmed the policy to The New York Times and said it stemmed from privacy concerns for those who post sexual imagery of adults.
+In a statement to SiliconRepublic.com, a Meta spokesperson said The Verge vastly overstated what this bug was, adding that only a very small number of views were ever impacted because most posts are not eligible to be down-ranked in the first place.
+While the company reports millions of photos and videos suspected of child abuse each year, The New York Times reports that when ages are unclear, content moderators have been instructed via a training document to err on the side of adult, which could lead to images and videos of child abuse going unreported.
+If our researchers can identify false information about Ukraine openly circulating on its platform, it is within Metas capability to do the same, he said.
+In response, a Meta spokesperson told SiliconRepublic.com that the reports methodology is flawed and misrepresents the scale and scope of the companys efforts.
+10 things you need to know direct to your inbox every weekday. Sign up for theDaily Brief, Silicon Republics digest of essential sci-tech news.
+The researchers then used Metas own CrowdTangle tool to identify more than 1,300 posts featuring the 100 most popular articles from the sample. Of these 1,304 posts, the researchers found that 91pc did not carry any warning labels.
+Updated, 11.21am, 1 April 2022: This article was updated to add comments from a Meta spokesperson.
+Russia,             Meta,             social media,             climate,             Facebook
+First reported by The Verge, a group of Facebook engineers identified a bug that left as much as half of all News Feed views exposed to potential integrity risks. Engineers spotted the issue last October when a surge of misinformation started flowing through the News Feed.
+A Meta spokesperson told SiliconRepublic.com:We report more material to the National Center for Missing and Exploited Children than literally all other tech platforms combined, because we are the most aggressive. Whats needed is for lawmakers to establish a clear and consistent standard for all platforms to follow.
+In 2018, a Channel 4 investigation revealed systemic failures regarding the removal of content flagged as inappropriate or recommended to be removed by users. Following this, content moderators themselves came into the spotlight, with many reports highlighting the impossible task they face.
+While this incident stemmed from a bug, another report has pointed to issues with how harmful or misleading content is labelled on Facebook.
+CCDH researchers analysed a sample of 3,593 articles posted by outlets that have been identified as part of Russias disinformation and propaganda ecosystem, including RT.com and Sputnik News.
+After detecting inconsistencies, we found the root cause and quickly applied fixes. Even without the fixes, the multitude of other mechanisms we have to keep people from seeing harmful content  including other demotions, fact-checking labels and violating content removals  remained in place.

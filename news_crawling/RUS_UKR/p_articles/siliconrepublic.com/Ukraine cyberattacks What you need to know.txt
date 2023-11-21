@@ -1,0 +1,23 @@
+Ukraine cyberattacks What you need to know
+20220224
+https://www.siliconrepublic.com/enterprise/ukraine-cyberattacks-ddos-hermetic-cyclops-russia-invasion
+In a Twitter thread, ESETs research team said that based on the timestamp on one sample of the malware, the attacks might have been in preparation for almost two months. It named the malware HermeticWiper based on the name of the Cypriot company its certificate was found to be issued to, Hermetica Digital.
+The report was published yesterday by the UK National Cyber Security Centre NCSC, the US Cybersecurity and Infrastructure Security Agency, the US National Security Agency and the Federal Bureau of Investigation.
+These incidents come following cyberattacks on Ukraine last month, when messages such as be afraid and prepare for the worst were displayed on hacked government websites.
+Breaking. ESETResearch discovered a new data wiper malware used in Ukraine today. ESET telemetry shows that it was installed on hundreds of machines in the country. This follows the DDoS attacks against several Ukrainian websites earlier today 1n
+Multiple sources have said that Ukraine was the victim of a wave of cyberattacks yesterday 23 February, including targeted distributed denial-of-service DDOS attacks on Ukrainian government websites and a new malware found on hundreds of computers.
+There is also functionality to add new modules while the malware is running, which allows Sandworm to implement additional capability as required, they wrote.
+Dont miss out on the knowledge you need to succeed. Sign up for theDaily Brief, Silicon Republics digest of need-to-know sci-tech news.
+Internet monitor NetBlocks tweeted yesterday that Ukrainian government websites such as those of the ministries of foreign affairs, defence and internal affairs, as well as those of the countrys security service and cabinet of ministers have been impacted by network disruptions.
+vulnerabilities,             Ukraine,             cybersecurity,             UK,             cyberattacks,             malware,             US,             Russia
+Later in the day, Ukraines minister of digital transformation Mykhailo Fedorov said that another series of DDOS attacks hit the country targeting banks and the parliament, according to Reuters.
+Network device manufacturer WatchGuard said on its website yesterday that Cyclops Blink, which is able to abuse a legitimate firmware update mechanism in infected devices and survive reboots, has infected about 1pc of the companys network firewall devices.
+Brian Kime, vice-president at cybersecurity firm ZeroFox, told Reuters that the certification might have been designed to help the malware dodge antivirus protections, adding that faking or stealing such a certificate isnt impossible but a sign of a sophisticated and targeted operator.
+Even though some Ukrainian websites have seen a swifter recovery this time around, likely due to increased preparedness, the cyberattack incident is ongoing, with latency and outages continuing at the security service, a researcher told BBC News.
+Meanwhile a joint report by intelligence agencies in the UK and US claims that a new malware dubbed Cyclops Blink, believed to built by Russian hacker group Sandworm, has replaced the earlier VPNFilter malware that infected more than 500,000 routers in 2018.
+Ukraine has been hit by a wave of cyberattacks, while the UK and US have a found new malware linked to Russias Sandworm group.
+As the world watches a full-scale invasion of Ukraine by Russian forces, there have also been reports of various cyberattacks hitting Ukrainian computers and websites over the past two days, likely a form of hybrid warfare by Russia.
+While websites were still dealing with the DDOS attacks, cybersecurity company ESET reported that a new data wiper malware was detected in Ukraine last night, which it found to be installed on hundreds of machines in the country.
+DDOS attacks are when hackers attempt to disrupt the normal traffic of a targeted server by overwhelming it with requests. This tactic is known to have been used by Russia in the past as part of hybrid warfare tactics during incursions in Georgia in 2008 and Crimea in 2014.
+The report found that the Sandworm group, also known as Voodoo Bear, has replaced the exposed VPNFilter malware with a new, more advanced framework. Sandworm is believed to be affiliated with Russias GRU and its main centre for special technologies.
+The groups said that the malware, which has been circulating for at least three years, is sophisticated and modular with basic core functionality to beacon device information back to a server and enable files to be downloaded and executed.
